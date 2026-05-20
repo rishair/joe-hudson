@@ -34,6 +34,7 @@
         - [x] E-013 Extract Joe Hudson voiceprint embedding
         - [x] E-014 AssemblyAI bulk transcription with diarization
         - [x] E-015 Post-process transcripts to relabel Speaker A/B as Joe Hudson vs Guest
+        - [ ] E-017 Build speaker voiceprint database and relabel all speakers by name
     - [ ] G-006 Repeatable idempotent sync system for all content
       - Experiments
         - [x] E-016 Build and test sync.sh idempotent pipeline
