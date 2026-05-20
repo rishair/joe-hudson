@@ -1,2 +1,22 @@
 .env
 meta/wiki/.locks/
+.claude/scheduled_tasks.lock
+
+# Media/audio downloads (too large for git)
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.flac
+*.ogg
+*.webm
+*.mkv
+*.avi
+*.mov
+
+# yt-dlp artifacts
+archive.txt
+cookies.txt
+
+# Download directories
+downloads/
