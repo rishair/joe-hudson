@@ -80,6 +80,11 @@ parent: $parent
 
 ${brief:-FILL IN: What "done" looks like. An agent reading only this section should know exactly what success means.}
 
+## Exit Criteria
+
+- [ ] FILL IN: concrete, verifiable condition an agent can check (e.g. "file X exists", "count matches")
+- [ ] FILL IN: add more criteria as needed
+
 ## Context
 
 ${brief:+See outcome above.}${brief:-FILL IN: Why this goal matters. What it unblocks. What an agent needs to know before working on this.}

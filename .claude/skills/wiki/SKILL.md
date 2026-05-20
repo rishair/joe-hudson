@@ -50,11 +50,13 @@ parent: <parent-goal-id or "root">
 
 Contains:
 - **Outcome**: What "done" looks like, in plain English. Specific on the what, vague on the how.
+- **Exit Criteria**: A checklist of concrete, verifiable conditions that must all be true for this goal to be marked `completed`. Each item should be testable by an agent (e.g., "file X exists", "count of Y matches Z", "all sub-goals are completed"). This is how agents know when to stop working on a goal.
 - **Context**: Why this goal matters. What it unblocks.
 - **Sub-goals**: Links to child goal pages. A goal can be broken into sub-goals at any depth. Each sub-goal is its own page with its own research, experiments, and potentially its own sub-goals.
 - **Research**: Links to research pages spawned by this goal.
 - **Experiments**: Links to experiment pages spawned by this goal. Each with a one-line description and current status.
 - **Decision Log**: When you decide to pursue one path over another, write why. When you abandon an approach, write why. This is the most valuable part of the page over time.
+- **Resources** (root goal only): What's available to all agents — API keys (by env var name, never the actual value), compute constraints, budget limits, external accounts. This is the single place agents check for "what tools do I have?" List the env var name, what it's for, and any usage constraints (e.g., "$20 budget, prototype first"). Includes a **Resource Requests** sub-section where agents add things they need but don't have (API keys, tools, permissions). A human reviews and provisions these.
 
 The top-level goal is the only immovable goal. Every sub-goal is modifiable, splittable, mergeable, or removable based on what you learn.
 
@@ -145,7 +147,7 @@ The autonomous work loop command. Run `./wiki.sh next` to determine the highest-
    - `CHECKPOINT` -- Run `/wiki checkpoint`.
    - `RESEARCH <id> <goal> <path>` -- Claim this research, do it, record findings.
    - `EXPERIMENT <id> <goal> <path>` -- Claim this experiment, run it, record results.
-   - `BLOCKED_RESEARCH <id> <goal> <path>` or `BLOCKED_EXPERIMENT <id> <goal> <path>` -- All unblocked work is done. This item has unresolved dependencies. Resolve or remove the dependency before doing the work itself.
+   - `BLOCKED_RESEARCH <id> <goal> <path>` or `BLOCKED_EXPERIMENT <id> <goal> <path>` -- All unblocked work is done. Before working on this, re-read the goal tree to confirm you're truly blocked — there may be useful work that wasn't surfaced. If genuinely blocked, resolve or remove the dependency. If nothing is useful, it's fine to stop.
    - `IDLE` -- Nothing pending. Read the goal tree, identify gaps, and create new research or experiments.
 
 2. Read the page at the given path. Understand what needs to be done. If the page has `depends_on` entries, read those pages too — their results are your inputs. Also read any completed sibling research or experiments under the same parent goal, so you don't repeat work or miss context.
@@ -159,6 +161,8 @@ The autonomous work loop command. Run `./wiki.sh next` to determine the highest-
 6. If the result opens new questions, create sub-research or sub-experiments with `./wiki.sh create`. Fill them in fully (no placeholders).
 
 7. Update the parent goal's decision log with what you learned and what should be done next.
+
+8. **Check goal completion.** Re-read the parent goal's Exit Criteria. If every criterion is now met, mark the goal as `completed`. If the goal has a parent goal, check that one too — completion can cascade up the tree.
 
 ### `/wiki status`
 
@@ -256,6 +260,12 @@ If any page reads like an event log, rewrite it.
 **Anti-thinning check:** Are there stub pages with <15 lines where 3+ entries reference the topic? Enrich them.
 
 6. **Write a checkpoint summary** at `meta/wiki/checkpoints/YYYY-MM-DD-HHMMSS.md` documenting both strategic assessment and quality audit findings.
+
+### `/wiki loop`
+
+Start a continuous autonomous work loop. Equivalent to `/loop 1m /wiki next`.
+
+Run `/loop 1m /wiki next`.
 
 ### `/wiki claim <page>`
 
@@ -361,7 +371,7 @@ When deciding what to do next, follow this priority order:
 5. **Sub-experiments spawned from recent results.** Follow the thread while context is fresh.
 6. **Checkpoint** if 10+ tasks have completed since the last one.
 7. **Re-evaluate abandoned branches** if nothing else is pressing.
-8. **Blocked items (fewest unresolved deps first)** if nothing unblocked is available. Resolve or remove the dependency before doing the work itself.
+8. **Blocked items** if nothing unblocked is available. Before working on a blocked item, ask yourself: am I *actually* blocked, or is there other useful work I haven't noticed? Re-read the goal tree. Check sibling goals. Look for research gaps. Only if there is genuinely nothing else should you work on the blocked item — and then resolve or remove the dependency before doing the work itself. **Do not create spurious work just to fill time.** It is fine to be idle if all meaningful work is blocked or in progress.
 
 When multiple items are equal priority, prefer the one closest to the root goal. Breadth before depth unless depth is clearly more valuable.
 

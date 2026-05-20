@@ -16,8 +16,8 @@
       - Sub-goals
         - [ ] G-005 Execute full bulk download of all content
           - Experiments
-            - [ ] E-010 Full YouTube channel audio download
-            - [ ] E-011 Full podcast episode audio download
+            - [~] E-010 Full YouTube channel audio download
+            - [~] E-011 Full podcast episode audio download
             - [ ] E-012 Download verification and gap report
       - Research
         - [x] R-003 How to bulk-download YouTube channels and podcast feeds in 2026
@@ -31,6 +31,7 @@
         - [~] E-005 WhisperX prototype on 2-3 episodes
         - [ ] E-006 Pyannote voiceprint speaker labeling for Joe Hudson
         - [ ] E-007 AssemblyAI comparison baseline
+        - [~] E-013 Extract Joe Hudson voiceprint embedding
 
 ## Checkpoints
 
