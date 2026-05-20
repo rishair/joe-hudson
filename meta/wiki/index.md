@@ -28,10 +28,11 @@
       - Research
         - [x] R-002 Current state of speech-to-text with speaker diarization tools
       - Experiments
-        - [~] E-005 WhisperX prototype on 2-3 episodes
+        - [ ] E-005 WhisperX prototype on 2-3 episodes
         - [ ] E-006 Pyannote voiceprint speaker labeling for Joe Hudson
         - [ ] E-007 AssemblyAI comparison baseline
         - [x] E-013 Extract Joe Hudson voiceprint embedding
+        - [ ] E-014 AssemblyAI bulk transcription with diarization
     - [ ] G-006 Repeatable idempotent sync system for all content
 
 ## Checkpoints
