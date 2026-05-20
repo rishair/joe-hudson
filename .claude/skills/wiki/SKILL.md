@@ -1,7 +1,7 @@
 ---
 name: wiki
 description: Research-driven wiki system where goals, experiments, research, and findings all live as interconnected pages. Agents navigate a tree of goals and experiments, claim work, record findings, and checkpoint progress.
-argument-hint: "status | goal <name> | research <goal-id> | experiment <goal-id> | absorb | checkpoint | claim <page> | unclaim <page>"
+argument-hint: "next | status | goal <name> | research <goal-id> | experiment <goal-id> | absorb | query <question> | checkpoint | claim <page> | unclaim <page>"
 ---
 
 # Research Wiki
@@ -132,6 +132,29 @@ Contains:
 
 ## Commands
 
+### `/wiki next`
+
+The autonomous work loop command. Run `./wiki.sh next` to determine the highest-priority item, then execute it.
+
+1. Run `./wiki.sh next`. It returns one of:
+   - `STALE_CLAIM <type> <id> <path>` -- Re-claim this item and finish it.
+   - `CHECKPOINT` -- Run `/wiki checkpoint`.
+   - `RESEARCH <id> <goal> <path>` -- Claim this research, do it, record findings.
+   - `EXPERIMENT <id> <goal> <path>` -- Claim this experiment, run it, record results.
+   - `IDLE` -- Nothing pending. Read the goal tree, identify gaps, and create new research or experiments.
+
+2. Read the page at the given path. Understand what needs to be done.
+
+3. Claim it: `./wiki.sh claim <ID> "wiki-next-agent"`.
+
+4. Do the work. For research: use web search, read wiki pages, consult tools. For experiments: actually run the thing, capture output. Write progress to the page as you go (keeps claim alive).
+
+5. When done, update the page with results, mark status as complete/succeeded/failed, and `./wiki.sh rebuild-index`.
+
+6. If the result opens new questions, create sub-research or sub-experiments with `./wiki.sh create`. Fill them in fully (no placeholders).
+
+7. Update the parent goal's decision log with what you learned and what should be done next.
+
 ### `/wiki status`
 
 Read `meta/wiki/index.md`. Show:
@@ -143,19 +166,25 @@ Read `meta/wiki/index.md`. Show:
 
 ### `/wiki goal <name>`
 
-Create a new goal page. If this is the first goal, it becomes root. Otherwise, ask which existing goal it falls under. Create the page, add it to the index, and then immediately:
+Create a new goal page. If this is the first goal, it becomes root. Otherwise, ask which existing goal it falls under.
+
+Use `./wiki.sh create goal "name" --parent G-XXX --brief "description"` to scaffold the page, then **immediately edit the page** to fill in all sections. A page with placeholder text ("FILL IN") is not done. Every page must contain enough detail that an agent reading only that page can understand what to do and why.
+
+After the goal page is complete:
 1. Perform initial research (2-4 research pages) on approaches to this goal
 2. Based on that research, propose 3-5 experiments worth trying
 3. Rank those experiments by expected impact and feasibility
 4. Create pages for each experiment in `pending` status
 
+For each research and experiment page created, fill in the full context: the question and why it matters (research), or the hypothesis, method, and success criteria (experiment). Use `--brief` to seed the page, then edit to flesh it out.
+
 ### `/wiki research <goal-id>`
 
-Pick the highest-priority pending research item for this goal (or across all goals if no ID given). Claim it, do the research, record findings, and update the goal page with implications.
+Pick the highest-priority pending research item for this goal (or across all goals if no ID given). Claim it with `./wiki.sh claim R-XXX "description of this agent"`, do the research, record findings, and update the goal page with implications.
 
 ### `/wiki experiment <goal-id>`
 
-Pick the highest-priority pending experiment for this goal (or across all goals if no ID given). Claim it, run it, record results, and then:
+Pick the highest-priority pending experiment for this goal (or across all goals if no ID given). Claim it with `./wiki.sh claim E-XXX "description of this agent"`, run it, record results, and then:
 1. Save findings with explicit boundary conditions
 2. Create sub-experiments or sub-research if the result opens new questions
 3. Go back to the parent goal. Re-read sibling experiments. Decide: what is the next most valuable thing to work on? Update the goal page's decision log with your reasoning.
@@ -181,16 +210,47 @@ tags: []
 <content>
 ```
 
+### `/wiki query <question>`
+
+Answer questions about the project by navigating the wiki. This is **read-only** -- never modify wiki files during a query.
+
+1. **Read `meta/wiki/index.md`.** Scan for pages relevant to the query. Use the `also:` aliases on each entry to match alternate names.
+2. **Check `meta/wiki/_backlinks.json`** to find pages that reference the topic. High backlink counts indicate central topics.
+3. **Read 3-8 relevant pages.** Follow `[[wikilinks]]` 2-3 links deep when relevant.
+4. **Synthesize.** Lead with the answer. Cite pages by ID and name. Use direct quotes from findings sparingly. Connect dots across pages. Acknowledge gaps.
+
+Rules:
+- Never read raw entries (`meta/raw/`). The wiki is the knowledge base.
+- Do not guess. If the wiki doesn't cover it, say so and suggest which research page might answer it.
+- Do not read the entire wiki. Be surgical.
+
 ### `/wiki checkpoint`
 
 Triggered automatically every 10 completed tasks (experiments + research items). Also callable manually. This is the "are we doing the right things" moment.
+
+**Strategic assessment:**
 
 1. **Survey**: Read the full index and all active goal pages. Understand the current state of the tree.
 2. **Assess progress**: For each active goal, what percentage of the path is understood? What are the biggest unknowns?
 3. **Evaluate direction**: Are current experiments converging on the goal, or are we in a rabbit hole? Are there abandoned branches that deserve another look? Are there obvious approaches nobody has tried?
 4. **Prune**: Mark stale or irrelevant experiments as abandoned with a note on why.
 5. **Replan**: Update goal pages with revised experiment priorities. Create new research or experiments if the checkpoint reveals gaps.
-6. **Write a checkpoint summary** at `meta/wiki/checkpoints/YYYY-MM-DD-HHMMSS.md` documenting your assessment so future agents (and humans) can see the trajectory.
+
+**Quality audit** (pick the 3 most-recently-updated pages and ask each):
+
+- Does it tell a coherent story, or is it a chronological dump of events?
+- Are sections organized by theme, not by date?
+- Would another agent learn something non-obvious from reading it?
+- Are findings stated with boundary conditions, or do they over-generalize?
+- Is the page bloated (>120 lines) and should be split? Is it a stub (<15 lines) when more material exists?
+
+If any page reads like an event log, rewrite it.
+
+**Anti-cramming check:** How many new pages were created in the last 10 tasks? If zero, you are probably stuffing everything into existing pages. Break sub-topics out.
+
+**Anti-thinning check:** Are there stub pages with <15 lines where 3+ entries reference the topic? Enrich them.
+
+6. **Write a checkpoint summary** at `meta/wiki/checkpoints/YYYY-MM-DD-HHMMSS.md` documenting both strategic assessment and quality audit findings.
 
 ### `/wiki claim <page>`
 
@@ -221,6 +281,7 @@ Multiple agents work on this wiki concurrently. The rules:
 
 - A tree of all goal pages with status indicators
 - Under each goal: its research and experiment pages with status
+- Each entry has an `also:` field with aliases for matching queries to pages
 - A section for standalone findings
 - A section for checkpoints (most recent first)
 
@@ -230,28 +291,28 @@ Format:
 
 ## Goals
 
-- [ ] G-001 Top-level goal description
+- [ ] G-001 Top-level goal description (also: project name, shorthand)
   - Sub-goals
-    - [ ] G-002 First sub-goal [[link]]
+    - [ ] G-002 First sub-goal (also: alias1, alias2)
       - Research
-        - [x] R-001 Question answered [[link]]
-        - [ ] R-002 Question pending [[link]]
+        - [x] R-001 Question answered (also: topic keyword)
+        - [ ] R-002 Question pending
       - Experiments
-        - [x] E-001 Experiment succeeded [[link]]
-        - [-] E-002 Experiment failed [[link]]
-        - [ ] E-003 Experiment pending [[link]]
-    - [ ] G-003 Second sub-goal [[link]]
-      - Sub-goals
-        - [ ] G-004 Deeper sub-goal [[link]]
+        - [x] E-001 Experiment succeeded
+        - [-] E-002 Experiment failed
+        - [ ] E-003 Experiment pending
+    - [ ] G-003 Second sub-goal
   - Research
-    - [ ] R-003 Goal-level research [[link]]
+    - [ ] R-003 Goal-level research
   - Experiments
-    - [ ] E-004 Goal-level experiment [[link]]
+    - [ ] E-004 Goal-level experiment
 
 ## Checkpoints
 
 - 2026-05-19 Initial assessment [[link]]
 ```
+
+The `also:` aliases help `/wiki query` match natural language questions to the right pages. Add aliases when a page might be referenced by different names (e.g., "yt-dlp", "youtube-dl", "video download tool" for an experiment about yt-dlp).
 
 ---
 
@@ -272,14 +333,96 @@ When multiple items are equal priority, prefer the one closest to the root goal.
 
 ## Writing Standards
 
-Write like Wikipedia. Flat, factual, encyclopedic. No peacock words, no AI editorial voice, no em dashes, no "interestingly" or "importantly."
+### Tone: Wikipedia, Not AI
 
+Write like Wikipedia. Flat, factual, encyclopedic. State what happened. The article stays neutral; direct quotes from outputs and sources carry the evidence.
+
+**Never use:**
+- Em dashes
+- Peacock words: "legendary," "visionary," "groundbreaking," "deeply," "truly"
+- Editorial voice: "interestingly," "importantly," "it should be noted"
+- Rhetorical questions
+- Progressive narrative: "would go on to," "embarked on," "this journey"
+- Qualifiers: "genuine," "raw," "powerful," "profound"
+
+**Do:**
+- Lead with the subject, state facts plainly
 - One claim per sentence. Short sentences.
+- Simple past or present tense
 - Attribution over assertion: "The tool returned 404 errors for 3 of 12 URLs" not "The tool mostly worked."
-- Dates and specifics replace adjectives.
-- Direct quotes from outputs or sources carry the evidence. The article stays neutral.
+- Let facts imply significance
+- Dates and specifics replace adjectives
+
+### Boundary Conditions
 
 The most important writing standard: **state the boundary conditions of every finding.** A finding without boundaries is a trap for future agents who will over-generalize it.
+
+### Structure by Page Type
+
+| Type | Organize by |
+|------|------------|
+| Goal | Outcome, context, sub-goals, decision log |
+| Research | Question, sources, findings with scope, implications |
+| Experiment | Hypothesis, method, result, analysis with scope, dead ends |
+| Finding | Claim, evidence, boundary conditions |
+
+Sections should be organized by theme, not chronology. If an experiment page reads like a diary ("first I tried X, then I tried Y, then I tried Z"), rewrite it by what was learned, not when.
+
+### Length Targets
+
+| Page type | Lines |
+|-----------|-------|
+| Goal | 30-80 |
+| Research (complete) | 40-80 |
+| Experiment (complete) | 40-100 |
+| Finding | 15-40 |
+| Checkpoint | 30-60 |
+| Minimum (anything) | 15 |
+
+### Anti-Cramming
+
+The gravitational pull of existing pages is the enemy. It is always easier to append a paragraph to a big page than to create a new one. This produces 5 bloated pages instead of 30 focused ones.
+
+If you are adding a third paragraph about a sub-topic to an existing page, that sub-topic probably deserves its own page. Split aggressively.
+
+### Anti-Thinning
+
+Creating a page is not the win. Enriching it is. A stub with 3 vague sentences when 4 other entries also relate to that topic is a failure. Every time you touch a page, it should get meaningfully richer. Do not create a page until you can write at least 15 substantive lines.
+
+---
+
+## Running on Loop
+
+To run an agent continuously:
+
+```
+/loop 1m /wiki next
+```
+
+This calls `./wiki.sh next` which outputs the single highest-priority item to work on. The agent reads the output, claims the item, does the work, and exits. Next loop iteration picks up the next thing.
+
+`./wiki.sh next` returns one of:
+- `STALE_CLAIM <type> <id> <path>` — a previously claimed item that's been abandoned (>20min stale). Re-claim and finish it.
+- `CHECKPOINT` — 10+ tasks done since last checkpoint. Step back and assess.
+- `RESEARCH <id> <goal> <path>` — pending research to do.
+- `EXPERIMENT <id> <goal> <path>` — pending experiment to run.
+- `IDLE` — nothing pending. Review goals and create new work.
+
+---
+
+## Tooling
+
+Use `./wiki.sh` for all mechanical operations. Run `./wiki.sh help` for usage.
+
+Key commands:
+- `./wiki.sh create goal|research|experiment|finding "title" [flags]` — scaffold a page
+- `./wiki.sh claim <ID> "agent name"` — claim a page for work
+- `./wiki.sh unclaim <ID>` — release a claim
+- `./wiki.sh status` — show wiki state
+- `./wiki.sh stale` — list stale claims
+- `./wiki.sh rebuild-index` — regenerate index.md and _backlinks.json
+
+The script creates the file and rebuilds the index. You still need to edit the file to fill in all sections. **A page with "FILL IN" placeholders is not ready for another agent to pick up.**
 
 ---
 

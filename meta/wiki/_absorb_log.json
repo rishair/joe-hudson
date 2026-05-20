@@ -1,0 +1,9 @@
+[
+  {
+    "date": "2026-05-19",
+    "source": "user input (conversation)",
+    "summary": "OpenRouter API key available with $20 credit. Quality of diarization is priority. Prototype before bulk if paid approach needed.",
+    "pages_updated": ["G-001", "G-004", "R-002"],
+    "note": "API key stored in .env, not in wiki pages. .env added to .gitignore."
+  }
+]
