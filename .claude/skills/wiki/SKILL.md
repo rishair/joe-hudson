@@ -106,7 +106,8 @@ created: YYYY-MM-DD
 
 Contains:
 - **Hypothesis**: What you expect to happen and why.
-- **Method**: What you will actually do. Concrete steps.
+- **Method**: What you will actually do. Concrete steps. For experiments with side effects (writing files, downloading, modifying existing data), the method MUST start small and scale up. See "Blast Radius" principle below.
+- **Blast Radius**: What existing work could this experiment affect? List files, directories, or data that could be modified or overwritten. If the experiment touches things other experiments produced, call that out explicitly.
 - **Result**: What actually happened. Raw facts.
 - **Analysis**: What this means. Be honest about scope. Did you test on one case or ten? Does this generalize?
 - **Dead Ends**: If this failed, what specifically went wrong? What would you try differently? This is critical for other agents.
@@ -495,3 +496,5 @@ The script creates the file and rebuilds the index. You still need to edit the f
 8. **Checkpoint regularly.** Every 10 tasks, step back. Are we converging?
 9. **The wiki is the only memory.** If it's not in the wiki, it doesn't exist for the next agent.
 10. **Nuance over speed.** A sloppy finding that gets over-generalized does more damage than no finding at all.
+11. **Start small, widen gradually.** Experiments with side effects (downloading, writing files, modifying data) must start with the smallest possible blast radius — 1-3 items. Verify the output is correct. Then scale to 10. Verify again. Only then run at full scale. A bad script run on 500 files destroys hours of prior work. A bad script run on 2 files is a 30-second fix. When writing the Method section, explicitly describe this ramp: what the small test is, what you check before scaling, and what the full run looks like.
+12. **Protect existing work.** Before running an experiment that writes to directories where other experiments have already produced output, check what's there. Don't overwrite, clobber, or reorganize files another experiment created unless that's the explicit purpose. If in doubt, write to a new location and merge later.

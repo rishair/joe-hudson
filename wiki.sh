@@ -188,6 +188,10 @@ ${brief:-FILL IN: Step-by-step instructions an agent can follow without asking q
 
 ${brief:+See method above.}${brief:-FILL IN: What specific result means this experiment succeeded? What means it failed? Be concrete.}
 
+## Blast Radius
+
+What existing files, directories, or data could this experiment affect? If none (read-only experiment), write "None -- read-only." If it writes files, list where and whether anything already exists there.
+
 ## Result
 
 (not yet run)

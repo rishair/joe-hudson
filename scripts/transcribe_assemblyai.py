@@ -35,6 +35,17 @@ def transcribe_file(audio_path, transcript_path, config):
         if transcript.status == aai.TranscriptStatus.error:
             return str(audio_path), "error", transcript.error
 
+        # Save utterance data with timestamps as JSON (for voiceprint relabeling)
+        utterances_path = transcript_path.parent / "utterances.json"
+        if transcript.utterances:
+            utterance_data = [
+                {"speaker": utt.speaker, "text": utt.text,
+                 "start": utt.start, "end": utt.end}
+                for utt in transcript.utterances
+            ]
+            with open(utterances_path, "w") as uf:
+                json.dump(utterance_data, uf, indent=2)
+
         # Format transcript with speaker labels
         with open(transcript_path, "w") as out:
             out.write("# Transcript\n\n")
