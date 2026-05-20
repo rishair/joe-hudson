@@ -112,6 +112,7 @@ type: research
 id: $id
 status: pending
 parent_goal: $goal
+depends_on:
 claimed_by:
 claimed_at:
 created: $(date +%Y-%m-%d)

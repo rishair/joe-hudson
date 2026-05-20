@@ -1,5 +1,6 @@
 .env
 meta/wiki/.locks/
+meta/wiki/.obsidian/
 .claude/scheduled_tasks.lock
 
 # Media/audio downloads (too large for git)

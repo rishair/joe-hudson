@@ -68,6 +68,7 @@ type: research
 id: <research-id>
 status: pending | claimed | in-progress | complete
 parent_goal: <goal-id>
+depends_on: <comma-separated list of page IDs, or empty>
 claimed_by: <agent-description or empty>
 claimed_at: <ISO timestamp or empty>
 created: YYYY-MM-DD
@@ -92,6 +93,7 @@ id: <experiment-id>
 status: pending | claimed | in-progress | succeeded | failed | inconclusive
 parent_goal: <goal-id>
 parent_experiment: <experiment-id or empty>
+depends_on: <comma-separated list of page IDs, or empty>
 claimed_by: <agent-description or empty>
 claimed_at: <ISO timestamp or empty>
 created: YYYY-MM-DD
@@ -316,16 +318,47 @@ The `also:` aliases help `/wiki query` match natural language questions to the r
 
 ---
 
+## Dependencies
+
+Pages can declare dependencies on other pages via the `depends_on` frontmatter field. A page with `depends_on: R-001, E-003` should not be started until both R-001 and E-003 have reached a terminal status (complete, succeeded, failed, inconclusive, confirmed, refuted).
+
+**When to use dependencies:**
+- An experiment needs research results as input: `depends_on: R-002`
+- A download step needs cataloging to finish first: `depends_on: E-001`
+- A sub-goal can't start until a sibling completes: `depends_on: G-003`
+
+**When NOT to use dependencies:**
+- Parent-child relationships already encode ordering. Don't duplicate with `depends_on`.
+- Soft preferences ("nice to have R-005 first") are not dependencies. Only hard blocks.
+
+**Self-healing:** `./wiki.sh next` prefers items with all dependencies resolved, but if *nothing* is unblocked, it surfaces the item with the fewest unresolved dependencies and flags it. This prevents deadlocks where all agents idle because everything is blocked. The agent picking up a blocked item should either resolve the dependency first, remove it if it's no longer needed, or note in the page why it proceeded without it.
+
+---
+
+## Design for Parallelism
+
+When creating goals, research, and experiments, design them to be **self-contained and runnable in parallel** by default. An agent picking up any page should be able to complete it without coordinating with another agent on a sibling page.
+
+1. **Each page gets its own inputs and outputs.** Don't create two experiments that write to the same file or depend on shared mutable state.
+2. **Scope narrowly, merge later.** Instead of one experiment that catalogs all sources, create separate experiments per source. A later merge step combines them.
+3. **State the merge strategy on the parent goal.** When a goal spawns parallel work, describe how results combine. Example: "Each experiment produces a JSON list of URLs. The merge step concatenates and deduplicates."
+4. **Avoid implicit ordering between siblings.** If E-002 truly needs E-001's output, make it explicit with `depends_on: E-001`.
+5. **Prefer fan-out/fan-in over serial chains.** Five parallel experiments with one merge step beats a chain of five sequential ones.
+
+---
+
 ## Selecting What to Work On
 
 When deciding what to do next, follow this priority order:
 
 1. **In-progress items you previously claimed** that are unfinished. Finish what you started.
-2. **Experiments whose parent research is complete** and that are high-priority. Research informs experiments; don't experiment blind.
-3. **Research items blocking multiple experiments.** Unblock the most work.
-4. **Sub-experiments spawned from recent results.** Follow the thread while context is fresh.
-5. **Checkpoint** if 10+ tasks have completed since the last one.
-6. **Re-evaluate abandoned branches** if nothing else is pressing.
+2. **Items with all dependencies resolved** over items with unresolved dependencies.
+3. **Research items blocking multiple experiments.** Unblock the most work. Check `_backlinks.json` for research pages referenced by many pending experiments.
+4. **Experiments whose parent research is complete.** Research informs experiments; don't experiment blind.
+5. **Sub-experiments spawned from recent results.** Follow the thread while context is fresh.
+6. **Checkpoint** if 10+ tasks have completed since the last one.
+7. **Re-evaluate abandoned branches** if nothing else is pressing.
+8. **Blocked items (fewest unresolved deps first)** if nothing unblocked is available. Resolve or remove the dependency before doing the work itself.
 
 When multiple items are equal priority, prefer the one closest to the root goal. Breadth before depth unless depth is clearly more valuable.
 
