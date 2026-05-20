@@ -13,11 +13,17 @@
         - [x] E-003 Use Listen Notes or podcast indexes to catalog guest appearances
         - [x] E-004 Check Vimeo account for unique content
     - [ ] G-003 Download all source media files
+      - Sub-goals
+        - [ ] G-005 Execute full bulk download of all content
+          - Experiments
+            - [ ] E-010 Full YouTube channel audio download
+            - [ ] E-011 Full podcast episode audio download
+            - [ ] E-012 Download verification and gap report
       - Research
         - [x] R-003 How to bulk-download YouTube channels and podcast feeds in 2026
       - Experiments
         - [x] E-008 yt-dlp audio download from AoA YouTube channel
-        - [ ] E-009 Full podcast episode archive via PodcastIndex API
+        - [x] E-009 Podcast episode download via iTunes API URLs
     - [ ] G-004 Transcribe all media with speaker diarization
       - Research
         - [x] R-002 Current state of speech-to-text with speaker diarization tools

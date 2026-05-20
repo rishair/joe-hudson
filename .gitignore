@@ -18,6 +18,9 @@ meta/wiki/.obsidian/
 # yt-dlp artifacts
 archive.txt
 cookies.txt
+*.err
+*.log
 
 # Download directories
 downloads/
+transcripts/

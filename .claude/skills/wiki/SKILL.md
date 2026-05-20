@@ -69,6 +69,7 @@ id: <research-id>
 status: pending | claimed | in-progress | complete
 parent_goal: <goal-id>
 depends_on: <comma-separated list of page IDs, or empty>
+claim_ttl: <minutes before claim goes stale, default 20>
 claimed_by: <agent-description or empty>
 claimed_at: <ISO timestamp or empty>
 created: YYYY-MM-DD
@@ -94,6 +95,7 @@ status: pending | claimed | in-progress | succeeded | failed | inconclusive
 parent_goal: <goal-id>
 parent_experiment: <experiment-id or empty>
 depends_on: <comma-separated list of page IDs, or empty>
+claim_ttl: <minutes before claim goes stale, default 20>
 claimed_by: <agent-description or empty>
 claimed_at: <ISO timestamp or empty>
 created: YYYY-MM-DD
@@ -143,9 +145,10 @@ The autonomous work loop command. Run `./wiki.sh next` to determine the highest-
    - `CHECKPOINT` -- Run `/wiki checkpoint`.
    - `RESEARCH <id> <goal> <path>` -- Claim this research, do it, record findings.
    - `EXPERIMENT <id> <goal> <path>` -- Claim this experiment, run it, record results.
+   - `BLOCKED_RESEARCH <id> <goal> <path>` or `BLOCKED_EXPERIMENT <id> <goal> <path>` -- All unblocked work is done. This item has unresolved dependencies. Resolve or remove the dependency before doing the work itself.
    - `IDLE` -- Nothing pending. Read the goal tree, identify gaps, and create new research or experiments.
 
-2. Read the page at the given path. Understand what needs to be done.
+2. Read the page at the given path. Understand what needs to be done. If the page has `depends_on` entries, read those pages too — their results are your inputs. Also read any completed sibling research or experiments under the same parent goal, so you don't repeat work or miss context.
 
 3. Claim it: `./wiki.sh claim <ID> "wiki-next-agent"`.
 
@@ -270,7 +273,7 @@ Multiple agents work on this wiki concurrently. The rules:
 
 1. **Claim before working.** Always claim a research or experiment page before starting work on it. Update the frontmatter.
 2. **Touch the file while working.** Any time you make progress, write it to the page. This keeps your claim alive.
-3. **20-minute stale rule.** If a page's file hasn't been modified in 20+ minutes (check with file stat), the claim is stale. You may re-claim it. The previous agent either crashed or moved on.
+3. **Stale claim rule.** If a page's file hasn't been modified past its `claim_ttl` (default 20 minutes), the claim is stale. You may re-claim it. The previous agent either crashed or moved on. Set `claim_ttl` in frontmatter (in minutes) for long-running tasks like downloads or transcriptions. Example: `claim_ttl: 120` for a 2-hour job.
 4. **Read before writing.** Always re-read a page immediately before editing it. Another agent may have updated it.
 5. **Don't clobber.** If you read a page and it has changed since you last read it, re-assess before writing. Merge your changes with theirs.
 6. **Update the index.** After creating or removing pages, update `meta/wiki/index.md`.
@@ -437,8 +440,9 @@ This calls `./wiki.sh next` which outputs the single highest-priority item to wo
 `./wiki.sh next` returns one of:
 - `STALE_CLAIM <type> <id> <path>` — a previously claimed item that's been abandoned (>20min stale). Re-claim and finish it.
 - `CHECKPOINT` — 10+ tasks done since last checkpoint. Step back and assess.
-- `RESEARCH <id> <goal> <path>` — pending research to do.
-- `EXPERIMENT <id> <goal> <path>` — pending experiment to run.
+- `RESEARCH <id> <goal> <path>` — pending research with all dependencies resolved.
+- `EXPERIMENT <id> <goal> <path>` — pending experiment with all dependencies resolved.
+- `BLOCKED_RESEARCH <id> <goal> <path>` or `BLOCKED_EXPERIMENT <id> <goal> <path>` — nothing unblocked is available. This item has the fewest unresolved deps. Resolve or remove them first.
 - `IDLE` — nothing pending. Review goals and create new work.
 
 ---

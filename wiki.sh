@@ -113,6 +113,7 @@ id: $id
 status: pending
 parent_goal: $goal
 depends_on:
+claim_ttl:
 claimed_by:
 claimed_at:
 created: $(date +%Y-%m-%d)
@@ -161,6 +162,8 @@ id: $id
 status: pending
 parent_goal: $goal
 parent_experiment: $parent_exp
+depends_on:
+claim_ttl:
 claimed_by:
 claimed_at:
 created: $(date +%Y-%m-%d)
@@ -235,6 +238,21 @@ $claim
 
 EOF
   echo "$file"
+}
+
+# --- TTL for claims ---
+
+# Get the stale threshold in seconds for a page file.
+# Reads claim_ttl from frontmatter (in minutes). Defaults to 20m (1200s).
+get_ttl_seconds() {
+  local f="$1"
+  local ttl_min
+  ttl_min=$(grep '^claim_ttl:' "$f" | sed 's/^claim_ttl: *//' | tr -d ' ')
+  if [[ -n "$ttl_min" && "$ttl_min" =~ ^[0-9]+$ ]]; then
+    echo $(( ttl_min * 60 ))
+  else
+    echo 1200
+  fi
 }
 
 # --- Claim management ---
@@ -506,7 +524,7 @@ case "$cmd" in
     do_rebuild_index
     ;;
   stale)
-    # Quick stale check
+    # Quick stale check (respects per-page claim_ttl)
     now=$(date +%s)
     found=false
     for f in "$WIKI_DIR"/research/*.md "$WIKI_DIR"/experiments/*.md; do
@@ -514,11 +532,12 @@ case "$cmd" in
       claimed_at=$(grep '^claimed_at:' "$f" | sed 's/^claimed_at: *//')
       [[ -z "$claimed_at" ]] && continue
       mod_time=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null)
-      if (( now - mod_time > 1200 )); then
+      ttl=$(get_ttl_seconds "$f")
+      if (( now - mod_time > ttl )); then
         id=$(grep '^id:' "$f" | sed 's/^id: *//')
         claimed_by=$(grep '^claimed_by:' "$f" | sed 's/^claimed_by: *//')
         mins=$(( (now - mod_time) / 60 ))
-        echo "$id  claimed_by=$claimed_by  stale=${mins}m  $f"
+        echo "$id  claimed_by=$claimed_by  stale=${mins}m (ttl=$((ttl/60))m)  $f"
         found=true
       fi
     done
@@ -537,11 +556,12 @@ case "$cmd" in
       status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
       [[ "$status_val" == "claimed" || "$status_val" == "in-progress" ]] || continue
       mod_time=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null)
-      if (( now - mod_time > 1200 )); then
+      ttl=$(get_ttl_seconds "$f")
+      if (( now - mod_time > ttl )); then
         id=$(grep '^id:' "$f" | sed 's/^id: *//')
         type=$(grep '^type:' "$f" | sed 's/^type: *//')
         echo "STALE_CLAIM $type $id $f"
-        echo "This item was claimed but hasn't been touched in $(( (now - mod_time) / 60 ))m. Re-claim and continue."
+        echo "This item was claimed but hasn't been touched in $(( (now - mod_time) / 60 ))m (ttl=$((ttl/60))m). Re-claim and continue."
         exit 0
       fi
     done
@@ -564,23 +584,60 @@ case "$cmd" in
       exit 0
     fi
 
-    # Helper: check if a file is unclaimed or has a stale claim
+    # Helper: check if a file is unclaimed or has a stale claim (respects claim_ttl)
     is_available() {
       local f="$1"
       local claimed_at
       claimed_at=$(grep '^claimed_at:' "$f" | sed 's/^claimed_at: *//')
       [[ -z "$claimed_at" ]] && return 0  # unclaimed
-      local mod_time
+      local mod_time ttl
       mod_time=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null)
-      (( now - mod_time > 1200 ))  # stale = available
+      ttl=$(get_ttl_seconds "$f")
+      (( now - mod_time > ttl ))  # stale = available
     }
 
-    # Priority 3: Pending or unclaimed research (unblocks experiments)
+    # Helper: check if a page ID has reached a terminal status
+    is_resolved() {
+      local dep_id="$1"
+      local dep_file=""
+      for d in "$WIKI_DIR"/goals "$WIKI_DIR"/research "$WIKI_DIR"/experiments "$WIKI_DIR"/findings; do
+        if [[ -f "$d/${dep_id}.md" ]]; then
+          dep_file="$d/${dep_id}.md"
+          break
+        fi
+      done
+      [[ -z "$dep_file" ]] && return 0  # missing dep = treat as resolved (don't block forever)
+      local dep_status
+      dep_status=$(grep '^status:' "$dep_file" | head -1 | sed 's/^status: *//')
+      case "$dep_status" in
+        complete|completed|succeeded|failed|inconclusive|confirmed|refuted|abandoned) return 0 ;;
+        *) return 1 ;;
+      esac
+    }
+
+    # Helper: count unresolved dependencies for a file. Returns count via stdout.
+    unresolved_dep_count() {
+      local f="$1"
+      local deps
+      deps=$(grep '^depends_on:' "$f" | sed 's/^depends_on: *//')
+      [[ -z "$deps" ]] && echo 0 && return
+      local count=0
+      IFS=', ' read -ra dep_arr <<< "$deps"
+      for dep in "${dep_arr[@]}"; do
+        dep=$(echo "$dep" | tr -d ' ')
+        [[ -z "$dep" ]] && continue
+        is_resolved "$dep" || ((count++))
+      done
+      echo "$count"
+    }
+
+    # Priority 3: Pending research with deps resolved (unblocks experiments)
     for f in "$WIKI_DIR"/research/*.md; do
       [[ -f "$f" ]] || continue
       status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
       [[ "$status_val" == "pending" || "$status_val" == "claimed" ]] || continue
       is_available "$f" || continue
+      [[ $(unresolved_dep_count "$f") -eq 0 ]] || continue
       id=$(grep '^id:' "$f" | sed 's/^id: *//')
       goal=$(grep '^parent_goal:' "$f" | sed 's/^parent_goal: *//')
       echo "RESEARCH $id $goal $f"
@@ -588,18 +645,46 @@ case "$cmd" in
       exit 0
     done
 
-    # Priority 4: Pending or unclaimed experiments
+    # Priority 4: Pending experiments with deps resolved
     for f in "$WIKI_DIR"/experiments/*.md; do
       [[ -f "$f" ]] || continue
       status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
       [[ "$status_val" == "pending" || "$status_val" == "claimed" ]] || continue
       is_available "$f" || continue
+      [[ $(unresolved_dep_count "$f") -eq 0 ]] || continue
       id=$(grep '^id:' "$f" | sed 's/^id: *//')
       goal=$(grep '^parent_goal:' "$f" | sed 's/^parent_goal: *//')
       echo "EXPERIMENT $id $goal $f"
       echo "Pending experiment. Claim it, run it, record results."
       exit 0
     done
+
+    # Priority 5: Blocked items (fewest unresolved deps first) — self-healing fallback
+    best_blocked_file=""
+    best_blocked_count=999
+    for f in "$WIKI_DIR"/research/*.md "$WIKI_DIR"/experiments/*.md; do
+      [[ -f "$f" ]] || continue
+      status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
+      [[ "$status_val" == "pending" || "$status_val" == "claimed" ]] || continue
+      is_available "$f" || continue
+      local_count=$(unresolved_dep_count "$f")
+      [[ "$local_count" -eq 0 ]] && continue  # already handled above
+      if (( local_count < best_blocked_count )); then
+        best_blocked_count=$local_count
+        best_blocked_file="$f"
+      fi
+    done
+    if [[ -n "$best_blocked_file" ]]; then
+      id=$(grep '^id:' "$best_blocked_file" | sed 's/^id: *//')
+      type=$(grep '^type:' "$best_blocked_file" | sed 's/^type: *//')
+      goal=$(grep '^parent_goal:' "$best_blocked_file" | sed 's/^parent_goal: *//')
+      deps=$(grep '^depends_on:' "$best_blocked_file" | sed 's/^depends_on: *//')
+      type_upper=$(echo "$type" | tr '[:lower:]' '[:upper:]')
+      echo "BLOCKED_${type_upper} $id $goal $best_blocked_file"
+      echo "WARNING: All unblocked work is done. This item has $best_blocked_count unresolved dep(s): $deps"
+      echo "Resolve or remove the dependency before proceeding with the work itself."
+      exit 0
+    fi
 
     # Nothing to do
     echo "IDLE"
