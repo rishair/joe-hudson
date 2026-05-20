@@ -1,0 +1,7 @@
+I want you to download all of the podcasts, and youtube videos of Joe Hudson and create transcriptions, that allow us to see diarization, with which voice is Joe Hudson vs other people. I want you to take all of those transcripts and save it in a folder, which is called transcripts/ and save each video, podcast, etc. in a new folder under transcripts/ that includes the date it was created and the title. Under each individual media folder, add a MEDIA.md that includes the title, date it was created, who's in it, and the general topic. Also include another file which is transcript.md or transcript.xml (whatever your preference is), that includes the full transcript.
+
+Right now it's May 2026, your information cutoff date is from May 2025. There's a lot that has transpired since then. You will not be able to brute force this, you will have to run many experiments in order to accomplish your task here.
+
+Your context is limited, so we will regularly have new agents that are launched on your behalf, and this agent will stop, and start again. Additionally, your context is limited. So, you will be using the wiki diligently to keep track of your progress, your experiments, your findings in order to build this final system.
+
+Use `/wiki goal` to set up the top-level goal and begin. The wiki at `meta/wiki/` is the single source of truth for all goals, research, experiments, and findings. There is no separate system. Read the wiki skill for the full process.
