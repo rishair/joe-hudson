@@ -80,7 +80,21 @@ parent: $parent
 
 ${brief:-FILL IN: What "done" looks like. An agent reading only this section should know exactly what success means.}
 
+## Correctness
+
+Before doing any work, define what a correct result looks like. Be specific about the output, not the method. Ask: what is a reasonable, practical, and high-quality interpretation of this goal?
+
+### Must-haves
+
+- FILL IN: non-negotiable properties of the output (format, content, quality bar, edge cases)
+
+### Nice-to-haves
+
+- FILL IN: improvements that raise quality but can be deferred
+
 ## Exit Criteria
+
+Derived from the Must-haves above. Each item should be testable by an agent.
 
 - [ ] FILL IN: concrete, verifiable condition an agent can check (e.g. "file X exists", "count matches")
 - [ ] FILL IN: add more criteria as needed

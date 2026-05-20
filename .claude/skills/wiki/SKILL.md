@@ -50,7 +50,8 @@ parent: <parent-goal-id or "root">
 
 Contains:
 - **Outcome**: What "done" looks like, in plain English. Specific on the what, vague on the how.
-- **Exit Criteria**: A checklist of concrete, verifiable conditions that must all be true for this goal to be marked `completed`. Each item should be testable by an agent (e.g., "file X exists", "count of Y matches Z", "all sub-goals are completed"). This is how agents know when to stop working on a goal.
+- **Correctness**: The detailed specification of what a correct output looks like. This is NOT about how to achieve the goal — it's about what the result must be. Written before any work begins. Describes the output format, content, quality bar, and edge cases. Split into **Must-haves** (non-negotiable; the goal is not done without these) and **Nice-to-haves** (improve quality but can be omitted under constraints). Be specific and concrete: "each transcript file contains full text with speaker labels and timestamps at paragraph boundaries" not "good transcripts." This section is the north star for all work under this goal — every experiment, research item, and sub-goal should trace back to delivering on these criteria.
+- **Exit Criteria**: A checklist of concrete, verifiable conditions that must all be true for this goal to be marked `completed`. Each item should be testable by an agent (e.g., "file X exists", "count of Y matches Z", "all sub-goals are completed"). Derived from the Must-haves in Correctness.
 - **Context**: Why this goal matters. What it unblocks.
 - **Sub-goals**: Links to child goal pages. A goal can be broken into sub-goals at any depth. Each sub-goal is its own page with its own research, experiments, and potentially its own sub-goals.
 - **Research**: Links to research pages spawned by this goal.
@@ -179,6 +180,8 @@ Read `meta/wiki/index.md`. Show:
 Create a new goal page. If this is the first goal, it becomes root. Otherwise, ask which existing goal it falls under.
 
 Use `./wiki.sh create goal "name" --parent G-XXX --brief "description"` to scaffold the page, then **immediately edit the page** to fill in all sections. A page with placeholder text ("FILL IN") is not done. Every page must contain enough detail that an agent reading only that page can understand what to do and why.
+
+**Before any other work**, fill in the Correctness section. Take the goal as stated and interpret it: what is a reasonable, practical, and high-quality version of this goal? What does the output actually look like? Define must-haves and nice-to-haves. This grounds all future work — every experiment and research item should serve the correctness criteria, not a vague sense of the goal.
 
 After the goal page is complete:
 1. Perform initial research (2-4 research pages) on approaches to this goal
