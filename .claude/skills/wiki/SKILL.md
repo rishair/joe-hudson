@@ -263,9 +263,19 @@ If any page reads like an event log, rewrite it.
 
 ### `/wiki loop`
 
-Start a continuous autonomous work loop. Equivalent to `/loop 1m /wiki next`.
+Start a continuous autonomous work loop with two schedules:
 
-Run `/loop 1m /wiki next`.
+1. **Work loop** (`*/1 * * * *`): Runs `/wiki next` every minute. This is the main loop that picks up and executes work. Can be killed when all work is blocked to save context.
+2. **Heartbeat** (`*/30 * * * *`): Runs `/wiki next` every 30 minutes. This is a background check that never gets removed. When the heartbeat fires and finds actionable work, it should reinstate the 1-minute work loop via CronCreate.
+
+**Setup** (use CronCreate twice):
+- `cron: "*/1 * * * *"`, `prompt: "/wiki next"`, `recurring: true` (the work loop)
+- `cron: "*/30 * * * *"`, `prompt: "/wiki next"`, `recurring: true` (the heartbeat -- never remove this)
+
+**Lifecycle**:
+- When the work loop returns BLOCKED for 3+ consecutive cycles, kill the 1-minute loop (CronDelete) but leave the heartbeat.
+- When the heartbeat fires and `./wiki.sh next` returns anything other than BLOCKED (i.e., there is actionable work), reinstate the 1-minute work loop with a new CronCreate call, then do the work.
+- This way the agent stays responsive without burning context on idle polling.
 
 ### `/wiki claim <page>`
 
