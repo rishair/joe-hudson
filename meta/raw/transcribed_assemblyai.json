@@ -448,5 +448,505 @@
     "status": "success",
     "detail": "160 words, speakers: {'A'}",
     "time": "2026-05-20T00:49:24Z"
+  },
+  "transcripts/2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives/Limiting Beliefs- The Hidden Rails That Guide Our Lives.mp3": {
+    "status": "success",
+    "detail": "6290 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:49:39Z"
+  },
+  "transcripts/2024-03-29_Listening/Listening.mp3": {
+    "status": "success",
+    "detail": "6048 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:50:03Z"
+  },
+  "transcripts/2024-06-07_Joe and His Daughter Esme -\u00a0The Teenage Years/Joe and His Daughter Esme -\u00a0The Teenage Years.mp3": {
+    "status": "success",
+    "detail": "7637 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:50:05Z"
+  },
+  "transcripts/2026-01-30_Awakening- Why We Waited 150 Episodes to Talk About It/Awakening- Why We Waited 150 Episodes to Talk About It.mp3": {
+    "status": "success",
+    "detail": "7948 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:50:15Z"
+  },
+  "transcripts/2020-10-26_Introduction to VIEW \u2014 Connection Course Series #1/Introduction to VIEW \u2014 Connection Course Series #1.mp3": {
+    "status": "success",
+    "detail": "8985 words, speakers: {'A', 'C', 'B'}",
+    "time": "2026-05-20T00:50:28Z"
+  },
+  "transcripts/2025-01-17_Productivity Is Making You Unproductive/Productivity Is Making You Unproductive.mp3": {
+    "status": "success",
+    "detail": "5895 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:50:39Z"
+  },
+  "transcripts/2025-09-26_I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson)/I Don't Procrastinate Anymore - Here's What Changed (Joe Hudson).mp3": {
+    "status": "success",
+    "detail": "5885 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:50:41Z"
+  },
+  "transcripts/2025-12-05_Charisma isn't learned (Dr. K, Charisma on Command & Joe)/Charisma isn't learned (Dr. K, Charisma on Command & Joe).mp3": {
+    "status": "success",
+    "detail": "33725 words, speakers: {'A', 'C', 'B'}",
+    "time": "2026-05-20T00:50:41Z"
+  },
+  "transcripts/2026-01-06_Walk with a Master Coach\uff1a \uff02Self-improvement is self-destruction\uff02/Walk with a Master Coach\uff1a \uff02Self-improvement is self-destruction\uff02.mp3": {
+    "status": "success",
+    "detail": "2307 words, speakers: {'A'}",
+    "time": "2026-05-20T00:50:43Z"
+  },
+  "transcripts/2023-03-22_Privilege, Pain and Projection \u2014 Joe Hudson\u2019s Story (Part I)/Privilege, Pain and Projection \u2014 Joe Hudson\u2019s Story (Part I).mp3": {
+    "status": "success",
+    "detail": "7146 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:50:50Z"
+  },
+  "transcripts/2026-01-20_What To Do When You Get Triggered/What To Do When You Get Triggered.mp3": {
+    "status": "success",
+    "detail": "1250 words, speakers: {'A'}",
+    "time": "2026-05-20T00:50:53Z"
+  },
+  "transcripts/2025-10-28_Finding Your Purpose is Hard Until You Understand This/Finding Your Purpose is Hard Until You Understand This.mp3": {
+    "status": "success",
+    "detail": "2518 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:02Z"
+  },
+  "transcripts/2026-02-03_How I Have Life-Changing Conversations (What Every Great Coach Does)/How I Have Life-Changing Conversations (What Every Great Coach Does).mp3": {
+    "status": "success",
+    "detail": "2200 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:06Z"
+  },
+  "transcripts/2026-02-10_Why Self-Possessed People Get Everything They Want/Why Self-Possessed People Get Everything They Want.mp3": {
+    "status": "success",
+    "detail": "1538 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:07Z"
+  },
+  "transcripts/2025-02-07_How to Use Your Relationship Fights to Heal/How to Use Your Relationship Fights to Heal.mp3": {
+    "status": "success",
+    "detail": "530 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:10Z"
+  },
+  "transcripts/2021-10-08_Embracing Intensity - Emotion Series #2/Embracing Intensity - Emotion Series #2.mp3": {
+    "status": "success",
+    "detail": "4399 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:51:14Z"
+  },
+  "transcripts/2022-02-04_The Power Dynamics of Fear - Emotion Series #7/The Power Dynamics of Fear - Emotion Series #7.mp3": {
+    "status": "success",
+    "detail": "5879 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:51:17Z"
+  },
+  "transcripts/2025-10-14_How To Break Free From Beliefs That Keep You Small/How To Break Free From Beliefs That Keep You Small.mp3": {
+    "status": "success",
+    "detail": "1489 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:24Z"
+  },
+  "transcripts/2024-12-17_Why Fighting Is Important/Why Fighting Is Important.mp3": {
+    "status": "success",
+    "detail": "986 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:27Z"
+  },
+  "transcripts/2026-02-05_This is How To Love Yourself (Coaching with Joe)/This is How To Love Yourself (Coaching with Joe).mp3": {
+    "status": "success",
+    "detail": "1924 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:51:32Z"
+  },
+  "transcripts/2025-11-11_\uff02I Don't Belong Here\uff02 - Belonging Is The Wrong Question/\uff02I Don't Belong Here\uff02 - Belonging Is The Wrong Question.mp3": {
+    "status": "success",
+    "detail": "1670 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:34Z"
+  },
+  "transcripts/2024-09-06_How Do I Feel My Body\uff1f/How Do I Feel My Body\uff1f.mp3": {
+    "status": "success",
+    "detail": "1535 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:51:46Z"
+  },
+  "transcripts/2025-01-22_Why Blame Is So Corrosive/Why Blame Is So Corrosive.mp3": {
+    "status": "success",
+    "detail": "1440 words, speakers: {'A'}",
+    "time": "2026-05-20T00:51:47Z"
+  },
+  "transcripts/2023-11-10_Finding a Romantic Partner \u2014 Relationships Series #3/Finding a Romantic Partner \u2014 Relationships Series #3.mp3": {
+    "status": "success",
+    "detail": "5931 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:51:50Z"
+  },
+  "transcripts/2023-05-26_Tara Howley \u2014 From Insight to Wisdom/Tara Howley \u2014 From Insight to Wisdom.mp3": {
+    "status": "success",
+    "detail": "5198 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:52:03Z"
+  },
+  "transcripts/2023-04-28_How Love Gets Confused/How Love Gets Confused.mp3": {
+    "status": "success",
+    "detail": "5513 words, speakers: {'A', 'C', 'B'}",
+    "time": "2026-05-20T00:52:16Z"
+  },
+  "transcripts/2023-06-09_Marriage, Love, and Death/Marriage, Love, and Death.mp3": {
+    "status": "success",
+    "detail": "6295 words, speakers: {'A', 'C', 'B'}",
+    "time": "2026-05-20T00:52:17Z"
+  },
+  "transcripts/2024-11-22_How to Build a Great Support System/How to Build a Great Support System.mp3": {
+    "status": "success",
+    "detail": "5434 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:52:23Z"
+  },
+  "transcripts/2023-07-21_Much Ado About Money/Much Ado About Money.mp3": {
+    "status": "success",
+    "detail": "8173 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:52:30Z"
+  },
+  "transcripts/2026-02-27_\u201cI Learned Forgiveness by Refusing to Forgive\u201d with Tara Howley and Alexa Kistle/\u201cI Learned Forgiveness by Refusing to Forgive\u201d with Tara Howley and Alexa Kistle.mp3": {
+    "status": "success",
+    "detail": "4897 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:52:31Z"
+  },
+  "transcripts/2026-03-05_She's Been Stuck for 10 Years. Watch What Shifts \uff5c Coaching with Joe/She's Been Stuck for 10 Years. Watch What Shifts \uff5c Coaching with Joe.mp3": {
+    "status": "success",
+    "detail": "2139 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:52:36Z"
+  },
+  "transcripts/2025-06-17_The Cure for Self-Help Fatigue/The Cure for Self-Help Fatigue.mp3": {
+    "status": "success",
+    "detail": "1257 words, speakers: {'A'}",
+    "time": "2026-05-20T00:52:45Z"
+  },
+  "transcripts/2025-08-26_The 3-Minute Test That Proves You're Creating Your Own Stress/The 3-Minute Test That Proves You're Creating Your Own Stress.mp3": {
+    "status": "success",
+    "detail": "1997 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:52:54Z"
+  },
+  "transcripts/2023-03-03_Q&A #2 \u2014 Connecting with Difficult People, Calling Up Latent Emotions, Limitatio/Q&A #2 \u2014 Connecting with Difficult People, Calling Up Latent Emotions, Limitatio.mp3": {
+    "status": "success",
+    "detail": "6986 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:53:01Z"
+  },
+  "transcripts/2022-01-28_Jaime Waydo \u2014 Taking Care of Yourself First, Fearlessly Owning Your Desires, Spe/Jaime Waydo \u2014 Taking Care of Yourself First, Fearlessly Owning Your Desires, Spe.mp3": {
+    "status": "success",
+    "detail": "6530 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:53:04Z"
+  },
+  "transcripts/2024-07-09_4 Keys To Save Your Relationship - Try These NOW!/4 Keys To Save Your Relationship - Try These NOW!.mp3": {
+    "status": "success",
+    "detail": "2071 words, speakers: {'A'}",
+    "time": "2026-05-20T00:53:12Z"
+  },
+  "transcripts/2025-01-13_The Mindset Shift That Transforms Dead Relationships/The Mindset Shift That Transforms Dead Relationships.mp3": {
+    "status": "success",
+    "detail": "1098 words, speakers: {'A'}",
+    "time": "2026-05-20T00:53:15Z"
+  },
+  "transcripts/2025-08-01_How To Get Unstuck/How To Get Unstuck.mp3": {
+    "status": "success",
+    "detail": "6098 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:53:22Z"
+  },
+  "transcripts/2022-10-14_What Can I Do About Overwhelm? \u2014 Emotion Series #10/What Can I Do About Overwhelm? \u2014 Emotion Series #10.mp3": {
+    "status": "success",
+    "detail": "8603 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:53:28Z"
+  },
+  "transcripts/2025-10-07_Ambitious But Afraid\uff1f Here's What's Happening Beneath/Ambitious But Afraid\uff1f Here's What's Happening Beneath.mp3": {
+    "status": "success",
+    "detail": "2154 words, speakers: {'A'}",
+    "time": "2026-05-20T00:53:32Z"
+  },
+  "transcripts/2024-01-09_Coaching As A Practice/Coaching As A Practice.mp3": {
+    "status": "success",
+    "detail": "7177 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:53:41Z"
+  },
+  "transcripts/2025-06-13_4 Causes of Stress (And How to Start Resolving Them Now)/4 Causes of Stress (And How to Start Resolving Them Now).mp3": {
+    "status": "success",
+    "detail": "2067 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:53:41Z"
+  },
+  "transcripts/2025-07-15_3-Min Guide to Turn YouTube from Consumption to Growth/3-Min Guide to Turn YouTube from Consumption to Growth.mp3": {
+    "status": "success",
+    "detail": "571 words, speakers: {'A'}",
+    "time": "2026-05-20T00:53:45Z"
+  },
+  "transcripts/2024-07-29_I'm Tired Of Taking Responsibility/I'm Tired Of Taking Responsibility.mp3": {
+    "status": "success",
+    "detail": "1274 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:53:58Z"
+  },
+  "transcripts/2026-03-27_How to Succeed in the Age of AI/How to Succeed in the Age of AI.mp3": {
+    "status": "success",
+    "detail": "7072 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:54:01Z"
+  },
+  "transcripts/2025-08-21_You Don't Have A Money Problem (Coaching Session with Joe Hudson)/You Don't Have A Money Problem (Coaching Session with Joe Hudson).mp3": {
+    "status": "success",
+    "detail": "1989 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:54:01Z"
+  },
+  "transcripts/2023-06-23_Exploring Depression in the Head, Heart, and Gut \u2014 Emotion Series #11/Exploring Depression in the Head, Heart, and Gut \u2014 Emotion Series #11.mp3": {
+    "status": "success",
+    "detail": "6748 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:54:18Z"
+  },
+  "transcripts/2025-01-10_The Real Reason You Lose Control In A Fight/The Real Reason You Lose Control In A Fight.mp3": {
+    "status": "success",
+    "detail": "1142 words, speakers: {'A'}",
+    "time": "2026-05-20T00:54:18Z"
+  },
+  "transcripts/2026-01-09_Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed/Bite-Sized Teaching Series- The More Stuck You Feel, The Closer You Are To Freed.mp3": {
+    "status": "success",
+    "detail": "1703 words, speakers: {'A'}",
+    "time": "2026-05-20T00:54:33Z"
+  },
+  "transcripts/2021-04-23_Money Can't Save You/Money Can't Save You.mp3": {
+    "status": "success",
+    "detail": "4748 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:54:34Z"
+  },
+  "transcripts/2025-09-02_How To End 60,000 Negative Thoughts a Day/How To End 60,000 Negative Thoughts a Day.mp3": {
+    "status": "success",
+    "detail": "2073 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:54:34Z"
+  },
+  "transcripts/2021-03-05_Feel over Figure \u2014 Master Class Series #5/Feel over Figure \u2014 Master Class Series #5.mp3": {
+    "status": "success",
+    "detail": "8432 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:54:38Z"
+  },
+  "transcripts/2024-08-16_The Desire To Be Seen with Tara Howley/The Desire To Be Seen with Tara Howley.mp3": {
+    "status": "success",
+    "detail": "5902 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:54:40Z"
+  },
+  "transcripts/2025-09-12_Your Emotions Control Your Time (Why We Always Feel So Busy)/Your Emotions Control Your Time (Why We Always Feel So Busy).mp3": {
+    "status": "success",
+    "detail": "6147 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:55:14Z"
+  },
+  "transcripts/2023-02-17_Wrestle With Your Principles/Wrestle With Your Principles.mp3": {
+    "status": "success",
+    "detail": "7861 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:55:19Z"
+  },
+  "transcripts/2023-10-18_Parenthood/Parenthood.mp3": {
+    "status": "success",
+    "detail": "8416 words, speakers: {'A', 'C', 'B'}",
+    "time": "2026-05-20T00:55:27Z"
+  },
+  "transcripts/2024-07-05_Passive Aggression/Passive Aggression.mp3": {
+    "status": "success",
+    "detail": "8784 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:55:28Z"
+  },
+  "transcripts/2021-02-13_Enjoy over Manage \u2014 Master Class Series #4/Enjoy over Manage \u2014 Master Class Series #4.mp3": {
+    "status": "success",
+    "detail": "8326 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:55:29Z"
+  },
+  "transcripts/2025-02-12_Stop Fixing Your Partner - It\u2019s Killing the Relationship/Stop Fixing Your Partner - It\u2019s Killing the Relationship.mp3": {
+    "status": "success",
+    "detail": "971 words, speakers: {'A'}",
+    "time": "2026-05-20T00:55:29Z"
+  },
+  "transcripts/2024-07-22_I Have To Do What Others Want (To Make Money)/I Have To Do What Others Want (To Make Money).mp3": {
+    "status": "success",
+    "detail": "1412 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:55:41Z"
+  },
+  "transcripts/2024-08-23_How To Lead Without Managing/How To Lead Without Managing.mp3": {
+    "status": "success",
+    "detail": "1713 words, speakers: {'A'}",
+    "time": "2026-05-20T00:55:45Z"
+  },
+  "transcripts/2025-12-23_You only get the love you can let in/You only get the love you can let in.mp3": {
+    "status": "success",
+    "detail": "1358 words, speakers: {'A'}",
+    "time": "2026-05-20T00:55:52Z"
+  },
+  "transcripts/2024-04-12_How Do I Stop Being Misunderstood\uff1f (Coaching Session)/How Do I Stop Being Misunderstood\uff1f (Coaching Session).mp3": {
+    "status": "success",
+    "detail": "6343 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:55:53Z"
+  },
+  "transcripts/2025-04-11_Why you keep sabotaging your own success (Coaching with Joe)/Why you keep sabotaging your own success (Coaching with Joe).mp3": {
+    "status": "success",
+    "detail": "6981 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:56:17Z"
+  },
+  "transcripts/2023-07-21_Helplessness- The Cayenne Pepper of Fear \u2014 Emotion Series #12/Helplessness- The Cayenne Pepper of Fear \u2014 Emotion Series #12.mp3": {
+    "status": "success",
+    "detail": "6340 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:56:20Z"
+  },
+  "transcripts/2022-03-18_What's So Scary About Boundaries?/What's So Scary About Boundaries?.mp3": {
+    "status": "success",
+    "detail": "9948 words, speakers: {'A', 'C', 'B'}",
+    "time": "2026-05-20T00:56:22Z"
+  },
+  "transcripts/2026-03-13_\u201cThis Is How You Love Yourself\" (Coaching Session Breakdown)/\u201cThis Is How You Love Yourself\" (Coaching Session Breakdown).mp3": {
+    "status": "success",
+    "detail": "6006 words, speakers: {'D', 'A', 'C', 'B'}",
+    "time": "2026-05-20T00:56:29Z"
+  },
+  "transcripts/2025-09-25_The More Stuck You Feel, The Closer You Are To Freedom/The More Stuck You Feel, The Closer You Are To Freedom.mp3": {
+    "status": "success",
+    "detail": "1680 words, speakers: {'A'}",
+    "time": "2026-05-20T00:56:33Z"
+  },
+  "transcripts/2022-02-19_Building a Functional Team - Team Series #1/Building a Functional Team - Team Series #1.mp3": {
+    "status": "success",
+    "detail": "6665 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:56:34Z"
+  },
+  "transcripts/2025-09-18_The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson)/The Question That Ended Her 30-Year War With Herself (Coaching With Joe Hudson).mp3": {
+    "status": "success",
+    "detail": "1038 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:56:43Z"
+  },
+  "transcripts/2023-12-29_Fear Of Overworking/Fear Of Overworking.mp3": {
+    "status": "success",
+    "detail": "649 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:56:44Z"
+  },
+  "transcripts/2024-04-18_Imposter Syndrome \u2014 Are You Actually An Imposter\uff1f/Imposter Syndrome \u2014 Are You Actually An Imposter\uff1f.mp3": {
+    "status": "success",
+    "detail": "1358 words, speakers: {'A'}",
+    "time": "2026-05-20T00:56:55Z"
+  },
+  "transcripts/2021-03-15_Want over Should \u2014 Master Class Series #6/Want over Should \u2014 Master Class Series #6.mp3": {
+    "status": "success",
+    "detail": "7392 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:56:58Z"
+  },
+  "transcripts/2024-08-02_I\u2019ve Done The Work. Why Am I Still Single\uff1f (Coaching with Joe Hudson)/I\u2019ve Done The Work. Why Am I Still Single\uff1f (Coaching with Joe Hudson).mp3": {
+    "status": "success",
+    "detail": "4648 words, speakers: {'A', 'C', 'B'}",
+    "time": "2026-05-20T00:57:11Z"
+  },
+  "transcripts/2026-04-07_The 11 Human Emotions Explained in 7 Minutes/The 11 Human Emotions Explained in 7 Minutes.mp3": {
+    "status": "success",
+    "detail": "1218 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:57:12Z"
+  },
+  "transcripts/2026-04-24_How to Delegate Without Micromanaging/How to Delegate Without Micromanaging.mp3": {
+    "status": "success",
+    "detail": "7328 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:57:23Z"
+  },
+  "transcripts/2021-02-13_Embarking on the Journey \u2014 Master Class Series #2/Embarking on the Journey \u2014 Master Class Series #2.mp3": {
+    "status": "success",
+    "detail": "8796 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:57:24Z"
+  },
+  "transcripts/2025-07-01_Why Am I Always Trying To Fix Myself & Others\uff1f (Coaching Session With Joe Hudson)/Why Am I Always Trying To Fix Myself & Others\uff1f (Coaching Session With Joe Hudson).mp3": {
+    "status": "success",
+    "detail": "1849 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:57:29Z"
+  },
+  "transcripts/2024-06-19_3 Reasons You Can't Build Wealth/3 Reasons You Can't Build Wealth.mp3": {
+    "status": "success",
+    "detail": "1672 words, speakers: {'A'}",
+    "time": "2026-05-20T00:57:39Z"
+  },
+  "transcripts/2024-05-03_What Changed After Master Class?/What Changed After Master Class?.mp3": {
+    "status": "success",
+    "detail": "9108 words, speakers: {'D', 'A', 'C', 'B'}",
+    "time": "2026-05-20T00:57:44Z"
+  },
+  "transcripts/2026-05-19_You're Pushing Away What You Want Most/You're Pushing Away What You Want Most.mp3": {
+    "status": "success",
+    "detail": "2455 words, speakers: {'A'}",
+    "time": "2026-05-20T00:57:49Z"
+  },
+  "transcripts/2024-02-02_A Workshop for Welcoming Fear/A Workshop for Welcoming Fear.mp3": {
+    "status": "success",
+    "detail": "7007 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:57:51Z"
+  },
+  "transcripts/2024-02-22_How Do I Love My Mom\uff1f/How Do I Love My Mom\uff1f.mp3": {
+    "status": "success",
+    "detail": "1277 words, speakers: {'D', 'A', 'C', 'B'}",
+    "time": "2026-05-20T00:57:54Z"
+  },
+  "transcripts/2023-09-01_The Burnout Cycle/The Burnout Cycle.mp3": {
+    "status": "success",
+    "detail": "5630 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:57:57Z"
+  },
+  "transcripts/2024-04-01_How Do I Feel Financially Safe\uff1f/How Do I Feel Financially Safe\uff1f.mp3": {
+    "status": "success",
+    "detail": "1160 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:58:08Z"
+  },
+  "transcripts/2025-03-04_How To Be Empathetic Without Losing Yourself/How To Be Empathetic Without Losing Yourself.mp3": {
+    "status": "success",
+    "detail": "852 words, speakers: {'A'}",
+    "time": "2026-05-20T00:58:08Z"
+  },
+  "transcripts/2024-08-05_How to Draw HEALTHY Boundaries/How to Draw HEALTHY Boundaries.mp3": {
+    "status": "success",
+    "detail": "1190 words, speakers: {'A'}",
+    "time": "2026-05-20T00:58:19Z"
+  },
+  "transcripts/2025-09-12_Why You Never Have Enough Time/Why You Never Have Enough Time.mp3": {
+    "status": "success",
+    "detail": "6138 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:58:22Z"
+  },
+  "transcripts/2026-03-27_AI and The Return to Being Human/AI and The Return to Being Human.mp3": {
+    "status": "success",
+    "detail": "7044 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:58:25Z"
+  },
+  "transcripts/2025-03-01_I'm Not Dead Yet\uff1a Life Lessons from Chemotherapy \uff5c Tara Howley with Guest Michael Nagle/I'm Not Dead Yet\uff1a Life Lessons from Chemotherapy \uff5c Tara Howley with Guest Michael Nagle.mp3": {
+    "status": "success",
+    "detail": "4617 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:58:30Z"
+  },
+  "transcripts/2024-04-15_Am I A Fake\uff1f/Am I A Fake\uff1f.mp3": {
+    "status": "success",
+    "detail": "930 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:58:36Z"
+  },
+  "transcripts/2024-10-16_Pleasure/Pleasure.mp3": {
+    "status": "success",
+    "detail": "7600 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:58:53Z"
+  },
+  "transcripts/2026-04-10_How to Change Your Interpersonal Patterns/How to Change Your Interpersonal Patterns.mp3": {
+    "status": "success",
+    "detail": "5687 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:59:00Z"
+  },
+  "transcripts/2023-02-03_Embracing Emotions\uff1a The Key to Great Decisions/Embracing Emotions\uff1a The Key to Great Decisions.mp3": {
+    "status": "success",
+    "detail": "7678 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:59:08Z"
+  },
+  "transcripts/2024-07-01_Should I Stay With My Ex\uff1f/Should I Stay With My Ex\uff1f.mp3": {
+    "status": "success",
+    "detail": "1280 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:59:15Z"
+  },
+  "transcripts/2023-03-09_Q&A #2 - Connecting with Difficult People, and More/Q&A #2 - Connecting with Difficult People, and More.mp3": {
+    "status": "success",
+    "detail": "7007 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:59:16Z"
+  },
+  "transcripts/2025-03-19_The Path To Healthy Fighting/The Path To Healthy Fighting.mp3": {
+    "status": "success",
+    "detail": "2376 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:59:16Z"
+  },
+  "transcripts/2025-06-20_How Joe and Tara Became Joe and Tara (Modern Relationships Podcast)/How Joe and Tara Became Joe and Tara (Modern Relationships Podcast).mp3": {
+    "status": "success",
+    "detail": "9945 words, speakers: {'D', 'A', 'C', 'B'}",
+    "time": "2026-05-20T00:59:18Z"
+  },
+  "transcripts/2025-09-23_When You Know What To Do But You Just Don't Do It/When You Know What To Do But You Just Don't Do It.mp3": {
+    "status": "success",
+    "detail": "1731 words, speakers: {'A'}",
+    "time": "2026-05-20T00:59:31Z"
+  },
+  "transcripts/2025-03-28_How to Be a Parent (Without Messing Everything Up) \uff5c Guest Episode with Nathan Baschez/How to Be a Parent (Without Messing Everything Up) \uff5c Guest Episode with Nathan Baschez.mp3": {
+    "status": "success",
+    "detail": "6379 words, speakers: {'A', 'B'}",
+    "time": "2026-05-20T00:59:41Z"
   }
 }

@@ -32,7 +32,8 @@
         - [ ] E-006 Pyannote voiceprint speaker labeling for Joe Hudson
         - [ ] E-007 AssemblyAI comparison baseline
         - [x] E-013 Extract Joe Hudson voiceprint embedding
-        - [ ] E-014 AssemblyAI bulk transcription with diarization
+        - [~] E-014 AssemblyAI bulk transcription with diarization
+        - [ ] E-015 Post-process transcripts to relabel Speaker A/B as Joe Hudson vs Guest
     - [ ] G-006 Repeatable idempotent sync system for all content
 
 ## Checkpoints
