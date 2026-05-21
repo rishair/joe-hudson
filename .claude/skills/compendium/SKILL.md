@@ -1,7 +1,7 @@
 ---
 name: compendium
 description: Absorb Joe Hudson podcast transcripts into a three-layer coaching compendium. Layer 1 (concerns) captures what people walk in saying. Layer 2 (reads) captures what Joe notices about how they're showing up. Layer 3 (methodology) captures concepts, moves, distinctions, questions, arcs, and anti-patterns. The compendium powers an AI coach that coaches like Joe.
-argument-hint: "next | status | checkpoint | query <question> | loop"
+argument-hint: "next | status | checkpoint | cleanup | query <question> | loop"
 ---
 
 # Coaching Compendium
@@ -21,6 +21,7 @@ The directional links between these layers ARE the coaching intelligence. They e
 /compendium next              # Pick next unprocessed transcript, absorb it
 /compendium status            # Show progress stats
 /compendium checkpoint        # Quality audit (auto-triggers every 20 absorbs)
+/compendium cleanup           # Merge near-duplicates flagged by the last checkpoint
 /compendium query <question>  # Navigate compendium to answer a question (read-only)
 /compendium loop              # Start autonomous loop: /loop 2m /compendium next
 ```
@@ -127,9 +128,13 @@ The main absorption loop. Pick the next unprocessed transcript and absorb it.
    **Speaker discipline:** Only extract coaching content from what Joe says. Note what guests/students/clients say only when it provides context for what Joe is responding to.
 
 6. **Match against existing articles.** For each piece of coaching content:
-   - Does an article already exist? Check the index, including aliases. Read the existing article.
-   - If yes: **enrich it.** Ask: "what new dimension does this transcript add?" Add new quotes, new angles, new connections. Do not just append. Integrate so the article reads as a coherent whole.
-   - If no: **create a new article** with full content following the appropriate article schema below.
+   - **Slug check:** Does an article with this exact ID already exist? Grep `_index.md` for the slug and its likely aliases.
+   - **Semantic check (required, not optional):** Slug match isn't enough. A new principle named `voice-creates-what-it-fears` and an existing `what-we-fear-we-invite` are the same teaching with different words; only a semantic search catches the duplicate. Before creating a new article, also:
+     - Grep `_index.md` for *topic keywords* (e.g., when creating a fear principle, grep for "fear", "afraid", "anxiety" across the principles section). Read the aliases of every match — they reveal what the article actually covers.
+     - Scan articles of the same type that touch the same theme. Two principles about "the thing you fear/avoid produces the thing" are one principle, not two — even if framed for different domains.
+     - Check adjacent types too: a "principle" and a "concept" can collide when one is really a corollary of the other.
+   - If a match (slug or semantic) exists: **enrich it.** Ask: "what new dimension does this transcript add?" Add new quotes, new angles, new connections. Do not just append — integrate so the article reads as a coherent whole.
+   - If no match exists: **create a new article** with full content following the appropriate article schema below.
 
 7. **Add directional navigation links.** For every article created or updated:
    - **Upstream ("What Leads Here")**: What situations, feelings, or topics cause Joe to bring up this concept? What does a person say or present that makes Joe reach for this?
@@ -215,7 +220,45 @@ Step 1 is the test that earns its keep — the rest is hygiene. Run it first; le
    - Would a reader learn something non-obvious?
    - Does it use Joe's actual language?
 
-10. **Write a checkpoint summary** at `coach/checkpoints/YYYY-MM-DD-absorb-NNN.md` (e.g. `2026-05-21-absorb-020.md`), where `NNN` is the zero-padded absorb count that triggered the checkpoint. Multiple checkpoints can fire on the same day; the absorb count keeps filenames unique, sortable, and self-documenting about which state was audited.
+10. **Near-duplicate scan.** For each new article created in the last 20 absorbs:
+    - Read its aliases and the first paragraph of its body to identify the topic.
+    - Grep `_index.md` for those topic keywords across the same and adjacent layer types.
+    - Read the aliases of every match. Two articles with substantially overlapping aliases or making the same teaching from different angles are merge candidates.
+    - **List candidate merges in the summary; do not merge here.** Merging is destructive and benefits from human review — log the candidates and the rationale, and recommend running `/compendium cleanup` to act on them. This check is a flag, not an action.
+
+11. **Write a checkpoint summary** at `coach/checkpoints/YYYY-MM-DD-absorb-NNN.md` (e.g. `2026-05-21-absorb-020.md`), where `NNN` is the zero-padded absorb count that triggered the checkpoint. Multiple checkpoints can fire on the same day; the absorb count keeps filenames unique, sortable, and self-documenting about which state was audited.
+
+---
+
+## Command: `/compendium cleanup`
+
+Repeatable cleanup procedure for compendium debt that accumulates between checkpoints. Run when a checkpoint surfaces merge candidates, when the user reports finding duplicates, or periodically to keep entropy down. This command performs *destructive* edits (file deletes, content merges, backlink rewrites) and should produce a single commit per run.
+
+### Cleanup Steps
+
+1. **Read the most recent checkpoint summary** in `coach/checkpoints/` for any `Candidate merges` section. If none exists, run the near-duplicate scan from `/compendium checkpoint` step 10 first to populate one.
+
+2. **For each merge candidate pair**, decide the canonical article:
+   - Prefer the older article (more backlinks, more enrichment passes, more grounded in transcript history).
+   - Prefer the more general framing if one is a special case of the other.
+   - Prefer the layer that fits the teaching: a *principle* about a mechanism beats a *concept* describing the same mechanism if the article is mostly action-oriented.
+   - Capture the choice in a one-line rationale.
+
+3. **Merge the body of the non-canonical into the canonical.** Integrate as a coherent whole, not by appending. Preserve all source citations from both articles in the merged article's `sources:` frontmatter. Preserve all unique aliases from the non-canonical article into the canonical's `also:` list.
+
+4. **Rewrite backlinks.** Grep the entire `coach/` tree for `[[<non-canonical-slug>]]` and rewrite each occurrence to `[[<canonical-slug>]]`. Also rewrite any references in the upstream/downstream link sections of other articles.
+
+5. **Delete the non-canonical article file.**
+
+6. **Rebuild the index and backlinks** by running `coach/bin/rebuild-index.sh`.
+
+7. **Write a cleanup summary** at `coach/checkpoints/YYYY-MM-DD-cleanup.md` (or `-cleanup-NN.md` if multiple cleanups run on the same day) documenting every merge: canonical slug, non-canonical slug deleted, rationale, number of backlinks rewritten, source transcripts preserved.
+
+### Anti-Patterns During Cleanup
+
+- **Don't merge articles that are genuinely distinct angles on the same root.** Two distinctions like `embrace-vs-brace` and `embracing-vs-creating-intensity` can both be valid if each opens a different door. If a reader would benefit from following both, keep both and cross-link.
+- **Don't lose Joe's specific framings.** The non-canonical article often has a sentence or example that doesn't fit elsewhere. Merge means absorb the content, not summarize it away.
+- **Don't merge across layers without thinking.** A `concept` and a `principle` with the same name usually means one is mislabeled. Re-categorize before deciding to merge.
 
 ---
 
