@@ -2,10 +2,10 @@
 type: principle
 id: what-we-fear-we-invite
 title: "What We Fear, We Invite"
-aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear"]
+aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite"]
 tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality"]
-related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5"]
 ---
 
 # What We Fear, We Invite
@@ -26,6 +26,18 @@ This connects to [[shame-drives-behavior]]. Shame about unwanted behavior holds 
 
 This also connects to [[familiar-over-safe]]. The organism gravitates toward what is familiar, even if what is familiar is the feared thing. Avoidance behaviors loop back to the starting point.
 
+## The Body Generates the Conditions
+
+The reason avoidance produces the feared thing is that the body keeps generating the conditions to complete an interrupted emotional loop. When an emotion is unfelt, the body unconsciously creates situations where it might finally be felt. This is the same mechanism as [[trauma-mapping]] viewed from a different angle.
+
+"The things that we are most scared of are the things that we're subtly inviting into our life. So if we're most scared of feeling helpless, we will invite helplessness unconsciously into our life so that we have that opportunity to feel it." -- Joe Hudson, Feel over Figure
+
+Joe's own example: he avoided the feeling of emotional abandonment and then attracted people who would emotionally abandon him, over and over, until he finally welcomed the feeling. After that the recreation stopped. See [[joes-abandonment-mapping]].
+
+## The Way Out
+
+The only way out of the loop is feeling the avoided emotion. See [[feeling-the-unfelt-emotion]]. Once the body has felt the emotion fully and welcomed it, there is no need to keep generating opportunities to feel it. Homeostasis is restored. The pattern dissolves.
+
 ## Upstream (What Leads Here)
 
 - When someone is caught in a self-fulfilling pattern of avoidance.
@@ -41,3 +53,4 @@ This also connects to [[familiar-over-safe]]. The organism gravitates toward wha
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2021-03-05_Feel over Figure -- Master Class Series #5

@@ -2,10 +2,10 @@
 type: example
 id: mandela-empowerment
 title: "Mandela: Empowerment Through Imprisonment"
-aliases: ["Mandela story", "Mandela crushing rocks", "empowerment Mandela", "Nelson Mandela empowered"]
+aliases: ["Mandela story", "Mandela crushing rocks", "empowerment Mandela", "Nelson Mandela empowered", "Mandela in prison"]
 tags: ["empowerment", "example", "Mandela", "power"]
-related: ["empowered-vs-power", "helplessness-is-the-gateway", "principles-free-you"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["empowered-vs-power", "helplessness-is-the-gateway", "principles-free-you", "art-of-accomplishment", "subway-kid", "victim-stance-invites-abuse", "i-dont-have-time-for-this"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
 ---
 
 # Mandela: Empowerment Through Imprisonment
@@ -36,6 +36,17 @@ The teaching that emerges from this example: "There's a choice that you make, an
 
 Mandela was choosing. The person who feels trapped in a job is also choosing. The difference is in how clearly the choice is being seen.
 
+## Also Used For Artistry in Constrained Settings
+
+In the Art of Accomplishment episode, Joe uses Mandela as the upper limit of the principle that artistry of being does not depend on situation. Mandela was in a prison cell. He was still the artist of how he was, what he transmitted, who he was being. If artistry is available in a prison cell, it is available in a bureaucracy, in a cubicle, in a sandwich shop.
+
+"Mandela did it in a prison. How he wanted to be, the artistry that he was delivering to humanity was there when he was in a prison. So to think that you can't do it because you're in a bureaucracy is, again, it's just as limited of the thinking as a businessman saying we can't be whole humans and do business." -- Joe Hudson, The Art of Accomplishment
+
+Joe pairs this example with the [[subway-kid]] story to bracket the range. Mandela at the high end of constraint (literal imprisonment). The Subway kid at the low end (minimum-wage entry-level work). Both demonstrated that situation does not determine whether you can bring your full self to it. The full self is brought regardless of situation, and the situation often changes as a result.
+
+This is also the rebuttal to [[i-dont-have-time-for-this]] and [[i-have-to-sacrifice-to-succeed]]. Mandela did not have time. Mandela had sacrificed everything. The artistry was still there.
+
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2021-02-13_The Art of Accomplishment -- Master Class Series #1

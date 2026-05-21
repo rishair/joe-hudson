@@ -2,10 +2,10 @@
 type: principle
 id: connection-over-perfection
 title: "Connection Over Perfection"
-aliases: ["connection vs perfection", "prioritize connection", "iterate don't perfect", "connection produces better results"]
+aliases: ["connection vs perfection", "prioritize connection", "iterate don't perfect", "connection produces better results", "perfection is the meditation killer", "perfect first date fails"]
 tags: ["connection", "productivity", "business", "relationships", "principle"]
-related: ["perfectionism", "view", "impartiality", "process-over-result", "resistance", "impulse-to-should", "spaghetti-tower-experiment"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3"]
+related: ["perfectionism", "view", "impartiality", "process-over-result", "resistance", "impulse-to-should", "spaghetti-tower-experiment", "seven-limiting-beliefs", "inherent-goodness"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
 ---
 
 # Connection Over Perfection
@@ -52,6 +52,22 @@ The things humans perceive as most perfect (a flower, a landscape, an ecosystem,
 
 "If you close your eyes and you think of the things that you feel are most perfect in the world, those are also things that are deeply connected." -- Joe Hudson, Connection over Perfection
 
+## The Three Test Cases
+
+Three specific applications where the choice between perfection and connection plays out concretely:
+
+**Products:** Try to create the perfect product, or try to create a product that is in connection with your customer and stays in connection. The second wins. The perfect product is what you imagine they want. The connected product is what they actually want, discovered through the relationship.
+
+**First dates:** Try to be perfect on the first date. Even if they happen to give you a second date, you have been performing perfection, so they are not dating you. They are dating an idealized version. Eventually it goes sideways. Go for connection instead: "How do I connect with this person, and let's see if it's a match?" Far more productive.
+
+**Meditation:** The most articulated version of the choice. Try to have the perfect experience of meditating, and meditation becomes torture. Try to be in connection with yourself, and meditation becomes meditation.
+
+"It's the difference between torture and meditation. Meditation is connection. Managing yourself is torture." -- Joe Hudson, The Art of Accomplishment
+
+## One of the Seven Limiting Beliefs
+
+In the Art of Accomplishment framework, choosing perfection over connection is one of approximately seven limiting beliefs that obstruct the natural state. See [[seven-limiting-beliefs]]. The pattern rests on the foundational belief that you are not inherently good. See [[inherent-goodness]]. If you do not need to prove anything, you do not need to be perfect. You can connect.
+
 ## Upstream (What Leads Here)
 
 - When [[perfectionism]] is identified and the person needs a reorientation.
@@ -69,3 +85,4 @@ The things humans perceive as most perfect (a flower, a landscape, an ecosystem,
 ## Sources
 
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
+- 2021-02-13_The Art of Accomplishment -- Master Class Series #1

@@ -2,10 +2,10 @@
 type: principle
 id: inherent-goodness
 title: "Inherent Goodness"
-aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole"]
-tags: ["self-trust", "management", "parenting", "leadership", "shame"]
-related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4"]
+aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it"]
+tags: ["self-trust", "management", "parenting", "leadership", "shame", "foundational"]
+related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
 ---
 
 # Inherent Goodness
@@ -34,6 +34,34 @@ Believing you are not inherently good is a form of [[shame-drives-behavior]]. Th
 
 When speaking to the wise part of someone, that is the part that shows up. When speaking to the helpless or broken part, that is what you get. See [[impartiality]].
 
+## The Foundation of All Limiting Beliefs
+
+In the Art of Accomplishment episode, Joe locates "not inherently good" as the foundational belief underneath approximately seven other limiting beliefs. Perfectionism, improvement-seeking, shoulds-before-wants, defense-before-love -- all rest on this one belief. The whole architecture collapses when this belief is undone. See [[seven-limiting-beliefs]].
+
+"There's probably about 7 main limiting beliefs, but they're all resting on one limiting belief, and the one limiting belief is that you're not inherently good. That you have to put effort to make yourself good enough, of value, better, that it's not your natural place, that you're not there yet." -- Joe Hudson, The Art of Accomplishment
+
+## The Oak Tree Test
+
+The clearest demonstration of the principle. When is an oak tree good enough? When it is an acorn? When it is two years old? When it is 150 years old? When it is collapsing into dirt? The question reveals the absurdity. The oak tree is always inherently good. The same is true of the human, but the human is the only being that disbelieves it about itself.
+
+"If you think about an oak tree, when is an oak tree good enough? Is the oak tree good enough when it's an acorn, or when it's 2 years old, or when it's 150 years old, or when it's collapsing, when it's becoming dirt? When is it good enough? When is it not inherently good?" -- Joe Hudson, The Art of Accomplishment
+
+The baby version of the same point: a baby does not think they are bad because they crawl rather than walk. Crawling is just a phase. The baby will walk. There is no failure in being where you are in development.
+
+## The Defense Test
+
+A diagnostic for whether a person is operating from the belief that they are not inherently good: do they defend? If someone said the sky is purple at noon, you would not feel the need to defend the fact that it is blue. You defend only what you secretly half-believe might be true.
+
+"Every time you defend something in yourself, there's some way that you're believing that you're not inherently good, that you have to defend something about yourself." -- Joe Hudson, The Art of Accomplishment
+
+See [[defense-vs-love]] for the related distinction.
+
+## The Connection to Artistry
+
+Trusting your inherent goodness is what allows the flow state. Jim Carrey-level artistic risk is not confidence in self. It is confidence in something beyond self: in the goodness that is being channeled. The artist who goes all the way trusts that if they do not hold back, things will work out, because what is moving through them is fundamentally good. This is why the art of accomplishment depends on this principle. See [[art-of-accomplishment]].
+
+"It's a confidence in something that's beyond them. It's a confidence in their inherent goodness. And so when you see that in people, like we just naturally want to follow it. We just naturally want to be a part of that." -- Joe Hudson, The Art of Accomplishment
+
 ## Upstream (What Leads Here)
 
 - When someone describes needing to "make themselves" do things
@@ -46,7 +74,12 @@ When speaking to the wise part of someone, that is the part that shows up. When 
 - Toward [[enjoy-over-manage]]: releasing management in favor of enjoyment
 - Toward trust-based parenting, leadership, and self-relationship
 - Away from [[fixing-people]]: if people are inherently good, they do not need to be fixed
+- Toward [[seven-limiting-beliefs]]: the whole architecture rests here
+- Toward [[art-of-accomplishment]]: art becomes possible because the artist trusts what is coming through them
+- Toward [[defense-vs-love]]: the defensive impulse stops when there is nothing to defend
+- Toward [[improvement-vs-authenticity]]: the improvement project stops being necessary
 
 ## Sources
 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
+- 2021-02-13_The Art of Accomplishment -- Master Class Series #1

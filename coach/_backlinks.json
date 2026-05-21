@@ -1,28 +1,21 @@
 {
-  "fear-triangle": [
-    "i-feel-trapped",
-    "caring-vs-caretaking",
-    "empowered-vs-power",
-    "helplessness-is-the-gateway",
-    "principles-free-you",
-    "shame-drives-behavior",
-    "structure-and-empowerment",
-    "vulnerability-in-the-workplace"
+  "subway-kid": [
+    "i-dont-have-time-for-this",
+    "i-have-to-sacrifice-to-succeed",
+    "victim-stance-invites-abuse",
+    "mandela-empowerment"
   ],
-  "helplessness-is-the-gateway": [
-    "i-feel-trapped",
-    "what-if-you-acted-exactly-how-you-want",
-    "quit-hope-lose-cycle",
-    "empowered-vs-power",
-    "fear-is-about-feeling",
-    "shame-drives-behavior",
-    "fear-triangle"
+  "victim-stance-invites-abuse": [
+    "i-dont-have-time-for-this",
+    "i-feel-trapped"
   ],
   "fear-is-about-feeling": [
+    "i-dont-have-time-for-this",
     "i-feel-trapped",
     "what-if-you-acted-exactly-how-you-want",
     "impartiality",
     "resistance",
+    "binary-thinking-signals-fear",
     "perfectionism",
     "enjoy-over-manage",
     "short-term-vs-long-term-partiality",
@@ -31,6 +24,60 @@
     "helplessness-is-the-gateway",
     "vulnerability-protects",
     "what-we-fear-we-invite"
+  ],
+  "sleep-deprived-soldier": [
+    "i-dont-have-time-for-this",
+    "efficiency-as-enjoyment",
+    "enjoyment-as-path"
+  ],
+  "mandela-empowerment": [
+    "i-dont-have-time-for-this",
+    "i-have-to-sacrifice-to-succeed",
+    "empowered-vs-power",
+    "victim-stance-invites-abuse",
+    "subway-kid"
+  ],
+  "efficiency-as-enjoyment": [
+    "i-dont-have-time-for-this",
+    "art-of-accomplishment",
+    "enjoyment-as-path",
+    "butchers-blade",
+    "sleep-deprived-soldier"
+  ],
+  "i-have-to-sacrifice-to-succeed": [
+    "i-dont-have-time-for-this",
+    "i-feel-trapped",
+    "art-of-accomplishment",
+    "victim-stance-invites-abuse",
+    "mandela-empowerment"
+  ],
+  "i-feel-trapped": [
+    "i-dont-have-time-for-this",
+    "i-have-to-sacrifice-to-succeed",
+    "what-if-you-acted-exactly-how-you-want",
+    "victim-stance-invites-abuse"
+  ],
+  "fear-triangle": [
+    "i-feel-trapped",
+    "caring-vs-caretaking",
+    "empowered-vs-power",
+    "helplessness-is-the-gateway",
+    "principles-free-you",
+    "shame-drives-behavior",
+    "victim-stance-invites-abuse",
+    "structure-and-empowerment",
+    "vulnerability-in-the-workplace"
+  ],
+  "helplessness-is-the-gateway": [
+    "i-feel-trapped",
+    "what-if-you-acted-exactly-how-you-want",
+    "quit-hope-lose-cycle",
+    "empowered-vs-power",
+    "epiphany-becomes-rut",
+    "fear-is-about-feeling",
+    "shame-drives-behavior",
+    "victim-stance-invites-abuse",
+    "fear-triangle"
   ],
   "feared-consequences-rarely-happen": [
     "i-feel-trapped",
@@ -51,16 +98,81 @@
     "principles-free-you",
     "process-over-result",
     "shame-drives-behavior",
+    "victim-stance-invites-abuse",
     "fear-triangle",
     "mandela-empowerment",
     "structure-and-empowerment",
     "vulnerability-in-the-workplace"
+  ],
+  "i-dont-have-time-for-this": [
+    "i-feel-trapped",
+    "i-have-to-sacrifice-to-succeed",
+    "art-of-accomplishment",
+    "victim-stance-invites-abuse",
+    "mandela-empowerment",
+    "subway-kid"
+  ],
+  "i-have-no-choice": [
+    "i-have-to-sacrifice-to-succeed"
+  ],
+  "childhood-imprinting": [
+    "i-have-to-sacrifice-to-succeed",
+    "feeling-the-unfelt-emotion",
+    "impulse-to-should",
+    "perfectionism",
+    "pleasure-capacity",
+    "inherent-goodness",
+    "joes-abandonment-mapping",
+    "joes-crying-story"
+  ],
+  "art-of-accomplishment": [
+    "i-have-to-sacrifice-to-succeed",
+    "undoing-not-doing",
+    "intention-vs-goal",
+    "trying-vs-doing",
+    "consciousness-is-the-product",
+    "efficiency-as-enjoyment",
+    "enjoyment-as-path",
+    "goal-beyond-the-goal",
+    "inherent-goodness",
+    "seven-limiting-beliefs",
+    "butchers-blade",
+    "subway-kid"
+  ],
+  "consciousness-is-the-product": [
+    "i-have-to-sacrifice-to-succeed",
+    "art-of-accomplishment",
+    "enjoyment-as-path",
+    "goal-beyond-the-goal",
+    "subway-kid"
+  ],
+  "inherent-goodness": [
+    "i-have-to-sacrifice-to-succeed",
+    "art-of-accomplishment",
+    "undoing-not-doing",
+    "defense-vs-love",
+    "enjoy-over-manage",
+    "improvement-vs-authenticity",
+    "connection-over-perfection",
+    "wants-over-shoulds",
+    "seven-limiting-beliefs"
+  ],
+  "seven-limiting-beliefs": [
+    "i-have-to-sacrifice-to-succeed",
+    "art-of-accomplishment",
+    "undoing-not-doing",
+    "defense-vs-love",
+    "improvement-vs-authenticity",
+    "connection-over-perfection",
+    "inherent-goodness",
+    "wants-over-shoulds"
   ],
   "resistance": [
     "how-much-fight",
     "expanding-sense-of-self",
     "feeling-the-unfelt-emotion",
     "impartiality",
+    "kinked-emotions",
     "impulse-to-should",
     "layered-resistance",
     "pendulation",
@@ -68,6 +180,7 @@
     "enjoy-over-manage",
     "fear-vs-excitement",
     "suffering-vs-pain",
+    "trying-vs-doing",
     "embrace-intensity",
     "enjoyment-as-path",
     "fear-is-about-feeling",
@@ -88,13 +201,12 @@
     "five-principles-of-the-path",
     "joes-pot-habit"
   ],
-  "i-feel-trapped": [
-    "what-if-you-acted-exactly-how-you-want"
-  ],
   "wants-over-shoulds": [
     "what-if-you-acted-exactly-how-you-want",
     "quit-hope-lose-cycle",
-    "enjoyment-as-path"
+    "improvement-vs-authenticity",
+    "enjoyment-as-path",
+    "seven-limiting-beliefs"
   ],
   "not-sometimes-right-now": [
     "what-is-it-without-resistance"
@@ -105,23 +217,36 @@
     "empathy",
     "familiar-over-safe",
     "grief-as-gateway-to-self-love",
+    "kinked-emotions",
     "letting-judgment-in",
     "resistance",
     "trauma-mapping",
+    "unfelt-emotion-leaks",
+    "binary-thinking-signals-fear",
     "childhood-imprinting",
     "negative-self-reinforcement",
     "pleasure-capacity",
+    "three-signals-of-unfelt-emotion",
     "not-sometimes-right-now",
+    "treat-yourself-as-actor-of-emotion",
     "enjoy-over-manage",
     "fear-vs-excitement",
+    "feel-over-figure",
+    "judgment-vs-discernment",
     "managing-vs-healing-trauma",
     "past-shame-vs-current-shame",
     "suffering-vs-pain",
+    "dont-do-emotion-at-people",
     "embrace-intensity",
     "emotions-live-in-muscles",
     "fear-is-about-feeling",
     "helplessness-is-the-gateway",
+    "what-we-fear-we-invite",
+    "daily-emotional-yoga",
     "visualizing-feared-outcomes",
+    "stages-of-emotional-development",
+    "joes-abandonment-mapping",
+    "joes-crying-story",
     "joes-pot-habit",
     "worthlessness-freedom"
   ],
@@ -145,8 +270,10 @@
     "vulnerability",
     "wonder",
     "owning-your-partiality",
+    "treat-yourself-as-actor-of-emotion",
     "caring-vs-caretaking",
     "enjoy-over-manage",
+    "judgment-vs-discernment",
     "short-term-vs-long-term-partiality",
     "wants-vs-partiality",
     "awareness-as-change-agent",
@@ -197,6 +324,7 @@
     "believing-the-convenient-lie",
     "childhood-imprinting",
     "owning-your-partiality",
+    "defense-vs-love",
     "empowered-vs-power",
     "fear-vs-excitement",
     "past-shame-vs-current-shame",
@@ -242,6 +370,9 @@
     "development-as-corkscrew",
     "pendulation",
     "quit-hope-lose-cycle",
+    "improvement-vs-authenticity",
+    "consciousness-is-the-product",
+    "efficiency-as-enjoyment",
     "embrace-intensity",
     "wants-over-shoulds",
     "five-principles-of-the-path"
@@ -253,14 +384,17 @@
     "feeling-the-unfelt-emotion",
     "grief-as-gateway-to-self-love",
     "loving-all-parts",
-    "believing-the-convenient-lie"
+    "believing-the-convenient-lie",
+    "what-we-fear-we-invite",
+    "joes-abandonment-mapping"
   ],
   "familiar-over-safe": [
     "view-as-technique",
     "3-to-5-rule",
     "pleasure-capacity",
     "shame-drives-behavior",
-    "what-we-fear-we-invite"
+    "what-we-fear-we-invite",
+    "joes-abandonment-mapping"
   ],
   "empathy": [
     "view-as-technique",
@@ -299,7 +433,58 @@
   "vulnerability-as-control": [
     "view-as-technique",
     "vulnerability",
-    "vulnerability-vs-weakness"
+    "vulnerability-vs-weakness",
+    "dont-do-emotion-at-people"
+  ],
+  "intention-vs-goal": [
+    "art-of-accomplishment",
+    "goal-beyond-the-goal",
+    "pow-optimist",
+    "tennis-quarter"
+  ],
+  "pow-optimist": [
+    "art-of-accomplishment",
+    "quit-hope-lose-cycle",
+    "empowered-vs-power",
+    "intention-vs-goal",
+    "acting-as-if-already-true",
+    "process-over-result"
+  ],
+  "undoing-not-doing": [
+    "art-of-accomplishment",
+    "trying-vs-doing",
+    "hands-together-exercise",
+    "seven-limiting-beliefs"
+  ],
+  "hands-together-exercise": [
+    "art-of-accomplishment",
+    "undoing-not-doing",
+    "trying-vs-doing"
+  ],
+  "perfectionism": [
+    "art-of-accomplishment",
+    "resistance",
+    "undoing-not-doing",
+    "impulse-to-should",
+    "improvement-vs-authenticity",
+    "intention-vs-goal",
+    "trying-vs-doing",
+    "connection-over-perfection",
+    "efficiency-as-enjoyment",
+    "seven-limiting-beliefs"
+  ],
+  "enjoy-over-manage": [
+    "art-of-accomplishment",
+    "resistance",
+    "pleasure-capacity",
+    "trying-vs-doing",
+    "consciousness-is-the-product",
+    "efficiency-as-enjoyment",
+    "inherent-goodness",
+    "process-over-result",
+    "listening-to-impulse",
+    "butchers-blade",
+    "creative-career-story"
   ],
   "integration": [
     "container-of-love",
@@ -307,6 +492,7 @@
     "3-to-5-rule",
     "late-stage-reversion",
     "community-over-teacher",
+    "epiphany-becomes-rut",
     "process-over-result"
   ],
   "community-over-teacher": [
@@ -325,11 +511,17 @@
   ],
   "emotions-live-in-muscles": [
     "empathy",
-    "conditions-for-transformation"
+    "feeling-the-unfelt-emotion",
+    "kinked-emotions",
+    "daily-emotional-yoga",
+    "conditions-for-transformation",
+    "stages-of-emotional-development"
   ],
   "decisions-are-emotional": [
     "empathy",
-    "epiphany-vs-transformation"
+    "three-signals-of-unfelt-emotion",
+    "epiphany-vs-transformation",
+    "feel-over-figure"
   ],
   "view-as-technique": [
     "empathy",
@@ -340,6 +532,7 @@
   ],
   "selfishness-is-the-engine-of-unity": [
     "expanding-sense-of-self",
+    "improvement-vs-authenticity",
     "wants-over-shoulds"
   ],
   "container-of-love": [
@@ -351,18 +544,33 @@
     "managing-vs-healing-trauma",
     "trauma-heals-in-relationship"
   ],
-  "childhood-imprinting": [
-    "feeling-the-unfelt-emotion",
-    "impulse-to-should",
-    "perfectionism",
-    "pleasure-capacity",
-    "inherent-goodness"
-  ],
   "letting-judgment-in": [
     "feeling-the-unfelt-emotion",
     "vulnerability",
+    "defense-vs-love",
     "fear-is-about-feeling",
     "whats-the-scary-truth"
+  ],
+  "joes-abandonment-mapping": [
+    "feeling-the-unfelt-emotion",
+    "trauma-mapping",
+    "what-we-fear-we-invite"
+  ],
+  "treat-yourself-as-actor-of-emotion": [
+    "feeling-the-unfelt-emotion"
+  ],
+  "daily-emotional-yoga": [
+    "feeling-the-unfelt-emotion",
+    "emotions-live-in-muscles",
+    "stages-of-emotional-development",
+    "joes-crying-story"
+  ],
+  "stages-of-emotional-development": [
+    "feeling-the-unfelt-emotion",
+    "feel-over-figure",
+    "epiphany-becomes-rut",
+    "daily-emotional-yoga",
+    "joes-crying-story"
   ],
   "grief-as-gateway-to-self-love": [
     "feeling-the-unfelt-emotion",
@@ -372,6 +580,35 @@
     "feeling-the-unfelt-emotion",
     "vulnerability",
     "shame-drives-behavior"
+  ],
+  "unfelt-emotion-leaks": [
+    "feeling-the-unfelt-emotion",
+    "three-signals-of-unfelt-emotion",
+    "feel-over-figure",
+    "judgment-vs-discernment",
+    "dont-do-emotion-at-people",
+    "daily-emotional-yoga"
+  ],
+  "kinked-emotions": [
+    "feeling-the-unfelt-emotion",
+    "resistance",
+    "unfelt-emotion-leaks",
+    "treat-yourself-as-actor-of-emotion",
+    "fear-vs-excitement",
+    "emotions-live-in-muscles",
+    "daily-emotional-yoga",
+    "stages-of-emotional-development"
+  ],
+  "feel-over-figure": [
+    "feeling-the-unfelt-emotion",
+    "unfelt-emotion-leaks",
+    "binary-thinking-signals-fear",
+    "three-signals-of-unfelt-emotion",
+    "treat-yourself-as-actor-of-emotion",
+    "judgment-vs-discernment",
+    "decisions-are-emotional",
+    "dont-do-emotion-at-people",
+    "daily-emotional-yoga"
   ],
   "loving-all-parts": [
     "grief-as-gateway-to-self-love",
@@ -386,7 +623,9 @@
     "resistance",
     "negative-self-reinforcement",
     "perfectionism",
+    "defense-vs-love",
     "empowered-vs-power",
+    "improvement-vs-authenticity",
     "past-shame-vs-current-shame",
     "wants-vs-partiality",
     "helplessness-is-the-gateway",
@@ -394,6 +633,7 @@
     "wants-over-shoulds",
     "what-we-fear-we-invite",
     "fear-triangle",
+    "seven-limiting-beliefs",
     "joes-pot-habit"
   ],
   "visualizing-feared-outcomes": [
@@ -408,9 +648,13 @@
   ],
   "what-we-fear-we-invite": [
     "impartiality",
+    "trauma-mapping",
     "fear-is-about-feeling",
     "feared-consequences-rarely-happen",
-    "vulnerability-protects"
+    "helplessness-is-the-gateway",
+    "victim-stance-invites-abuse",
+    "vulnerability-protects",
+    "joes-abandonment-mapping"
   ],
   "short-term-vs-long-term-partiality": [
     "impartiality"
@@ -430,34 +674,35 @@
     "pendulation"
   ],
   "zen-sickness": [
-    "integration"
+    "integration",
+    "undoing-not-doing"
   ],
   "epiphany-vs-transformation": [
     "integration",
     "zen-sickness",
     "decisions-are-emotional"
   ],
+  "fear-vs-excitement": [
+    "kinked-emotions",
+    "resistance",
+    "vulnerability"
+  ],
   "layered-resistance": [
     "resistance",
+    "undoing-not-doing",
     "negative-self-reinforcement",
     "suffering-vs-pain",
     "connection-over-perfection",
     "process-over-result"
-  ],
-  "perfectionism": [
-    "resistance",
-    "impulse-to-should",
-    "connection-over-perfection"
-  ],
-  "fear-vs-excitement": [
-    "resistance",
-    "vulnerability"
   ],
   "connection-over-perfection": [
     "resistance",
     "impulse-to-should",
     "perfectionism",
     "awareness-as-change-agent",
+    "consciousness-is-the-product",
+    "epiphany-becomes-rut",
+    "seven-limiting-beliefs",
     "view",
     "spaghetti-tower-experiment"
   ],
@@ -469,16 +714,31 @@
     "shame-drives-behavior",
     "joes-pot-habit"
   ],
-  "enjoy-over-manage": [
-    "resistance",
-    "pleasure-capacity",
-    "inherent-goodness",
-    "process-over-result",
-    "listening-to-impulse",
-    "creative-career-story"
+  "trying-vs-doing": [
+    "undoing-not-doing"
+  ],
+  "three-signals-of-unfelt-emotion": [
+    "unfelt-emotion-leaks",
+    "binary-thinking-signals-fear",
+    "feel-over-figure",
+    "judgment-vs-discernment",
+    "decisions-are-emotional"
+  ],
+  "judgment-vs-discernment": [
+    "unfelt-emotion-leaks",
+    "three-signals-of-unfelt-emotion",
+    "feel-over-figure",
+    "decisions-are-emotional"
+  ],
+  "dont-do-emotion-at-people": [
+    "unfelt-emotion-leaks",
+    "treat-yourself-as-actor-of-emotion",
+    "daily-emotional-yoga",
+    "stages-of-emotional-development"
   ],
   "vulnerability-in-the-workplace": [
     "vulnerability",
+    "consciousness-is-the-product",
     "structure-and-empowerment"
   ],
   "vulnerability-vs-weakness": [
@@ -502,20 +762,17 @@
     "wonder"
   ],
   "development-as-corkscrew": [
-    "pendulation"
+    "pendulation",
+    "epiphany-becomes-rut"
   ],
   "impulse-to-should": [
-    "perfectionism"
-  ],
-  "pow-optimist": [
-    "quit-hope-lose-cycle",
-    "empowered-vs-power",
-    "acting-as-if-already-true",
-    "process-over-result"
+    "perfectionism",
+    "seven-limiting-beliefs"
   ],
   "process-over-result": [
     "quit-hope-lose-cycle",
     "enjoy-over-manage",
+    "intention-vs-goal",
     "short-term-vs-long-term-partiality",
     "awareness-as-change-agent",
     "connection-over-perfection",
@@ -526,14 +783,21 @@
     "view",
     "pow-optimist"
   ],
+  "binary-thinking-signals-fear": [
+    "three-signals-of-unfelt-emotion",
+    "feel-over-figure",
+    "decisions-are-emotional"
+  ],
   "trauma-heals-in-relationship": [
     "excavating-the-inner-critic-in-group"
   ],
-  "mandela-empowerment": [
-    "empowered-vs-power"
+  "safety-vs-defensiveness": [
+    "defense-vs-love",
+    "conditions-for-transformation"
   ],
   "acting-as-if-already-true": [
     "empowered-vs-power",
+    "intention-vs-goal",
     "feared-consequences-rarely-happen",
     "principles-free-you",
     "pow-optimist"
@@ -544,15 +808,23 @@
     "process-over-result",
     "structure-and-empowerment"
   ],
-  "inherent-goodness": [
-    "enjoy-over-manage"
-  ],
   "listening-to-impulse": [
     "enjoy-over-manage",
-    "process-over-result"
+    "process-over-result",
+    "butchers-blade"
   ],
   "pleasure-capacity": [
     "enjoy-over-manage"
+  ],
+  "epiphany-becomes-rut": [
+    "feel-over-figure",
+    "stages-of-emotional-development"
+  ],
+  "five-principles-of-the-path": [
+    "intention-vs-goal",
+    "embrace-intensity",
+    "principles-free-you",
+    "conditions-for-transformation"
   ],
   "conditions-for-transformation": [
     "safety-vs-defensiveness",
@@ -570,17 +842,27 @@
   "spaghetti-tower-experiment": [
     "connection-over-perfection"
   ],
-  "five-principles-of-the-path": [
-    "embrace-intensity",
-    "principles-free-you",
-    "conditions-for-transformation"
+  "butchers-blade": [
+    "efficiency-as-enjoyment"
+  ],
+  "quit-hope-lose-cycle": [
+    "epiphany-becomes-rut",
+    "helplessness-is-the-gateway",
+    "pow-optimist"
   ],
   "vulnerability-protects": [
     "fear-is-about-feeling"
   ],
-  "quit-hope-lose-cycle": [
-    "helplessness-is-the-gateway",
-    "pow-optimist"
+  "tennis-quarter": [
+    "goal-beyond-the-goal"
+  ],
+  "defense-vs-love": [
+    "inherent-goodness",
+    "seven-limiting-beliefs"
+  ],
+  "improvement-vs-authenticity": [
+    "inherent-goodness",
+    "seven-limiting-beliefs"
   ],
   "structure-and-empowerment": [
     "principles-free-you",
@@ -593,6 +875,9 @@
   "childhood-vulnerability-wound": [
     "vulnerability-protects"
   ],
+  "joes-crying-story": [
+    "daily-emotional-yoga"
+  ],
   "why-questions": [
     "how-what-questions",
     "view"
@@ -600,10 +885,10 @@
   "creative-career-story": [
     "listening-to-impulse"
   ],
-  "safety-vs-defensiveness": [
-    "conditions-for-transformation"
-  ],
   "being-heard": [
     "view"
+  ],
+  "goal-beyond-the-goal": [
+    "tennis-quarter"
   ]
 }

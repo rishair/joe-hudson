@@ -4,8 +4,8 @@ id: fear-vs-excitement
 title: "Fear vs. Excitement"
 aliases: ["fear is excitement without the breath", "excitement is the other side of fear", "fear and excitement are the same energy"]
 tags: ["fear", "excitement", "breath", "vulnerability", "emotions"]
-related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3"]
+related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5"]
 ---
 
 # Fear vs. Excitement
@@ -35,6 +35,20 @@ The coaching path: allow the energy to move. Feel it. Let the emotion flow witho
 - [[resistance]]: constriction against the energy is resistance. The friction of most emotional states is the resistance to them, not the states themselves.
 - [[feeling-the-unfelt-emotion]]: allowing the emotion (whether fear or excitement) to move through.
 
+## The Pattern Across Emotions
+
+Fear-to-excitement is one instance of a broader pattern. Each emotion has a kinked (resisted) form and an unkinked (allowed) form, and the unkinked form is often unrecognizable to people who only know the kinked version. See [[kinked-emotions]].
+
+- Unrestricted fear is excitement.
+- Unrestricted anger is clarity and determination -- the anger of Gandhi or Martin Luther King, not destruction.
+- Unrestricted sadness is a deep joy.
+- Unrestricted grief is anger, sadness, and fear blending into one fluid emotional state.
+
+"Each of these emotional streams that I talked about, like anger, so there's anger that's constricted in a lot of ways, and the unrestricted anger is that clarity and determination. The unrestricted sadness is a deep joy. And the unconstricted fear is excitement." -- Joe Hudson, Feel over Figure
+
+The fear-excitement pair is the most accessible example because the breath difference is so tangible. The same principle applies to every other emotion.
+
 ## Sources
 
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
+- 2021-03-05_Feel over Figure -- Master Class Series #5

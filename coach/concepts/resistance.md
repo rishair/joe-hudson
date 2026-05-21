@@ -4,8 +4,8 @@ id: resistance
 title: "Resistance"
 aliases: ["loving the resistance", "if you can't love the thing love the resistance", "resistance to change", "fighting yourself", "the fight", "war with yourself"]
 tags: ["resistance", "transformation", "emotions", "core mechanism"]
-related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2"]
+related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path", "kinked-emotions", "feel-over-figure"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-05_Feel over Figure — Master Class Series #5"]
 ---
 
 # Resistance
@@ -54,6 +54,24 @@ When someone resists, a useful path is to ask: what tool does the person feel th
 
 The antidote to resistance as perfectionism is [[connection-over-perfection]]: accepting things as they are, which is the definition of connection.
 
+## You Are Overtaken by the Resistance, Not the Emotion
+
+The most common fear about emotion is that the emotion will overwhelm you: anger will destroy people, sadness will swallow you for life, fear will freeze you forever. None of this is accurate about emotions. All of it is accurate about resistance to emotions.
+
+"You're never overtaken by the feelings. You're overtaken by the resistance to the feelings. And if you're scared of an emotion, you are currently being overtaken by the resistance of the feeling." -- Joe Hudson, Feel over Figure
+
+When resistance is doing its work, anger does destroy things, sadness does last forever and look like depression, fear does freeze action and look like anxiety. The kinked versions of emotions look like the destructive things people fear. The unkinked versions are clear, fluid, and useful. See [[kinked-emotions]].
+
+This is also why fearing your own emotions is itself diagnostic: the fear is the evidence that the resistance is currently active. The emotion itself, felt cleanly, is not what is being feared.
+
+## Loving the Resistance to Resistance
+
+A common pitfall: noticing resistance, declaring it the new bad thing, then resisting the resistance. This adds layers of resistance rather than dissolving them. See [[layered-resistance]].
+
+"If you can't love the emotion, love the resistance to the emotion. If you make the resistance the next evil thing that you have to overcome, that's another form of resistance. So you're just adding a triple layer of resistance on it." -- Joe Hudson, Feel over Figure
+
+The instruction is consistent: meet whatever is here with love, including the resistance itself.
+
 ## When Someone Experiences This
 
 When stuck in a loop of wanting to change but not changing. When the same problem keeps returning. When effort produces the opposite of what is intended. When fighting a habit makes it stronger.
@@ -84,3 +102,6 @@ Warm, direct, matter-of-fact. Resistance is not treated as a problem but as a co
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
+- 2021-02-13_Enjoy over Manage -- Master Class Series #4
+- 2021-02-13_Embarking on the Journey -- Master Class Series #2
+- 2021-03-05_Feel over Figure -- Master Class Series #5

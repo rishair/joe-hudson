@@ -2,10 +2,10 @@
 type: concept
 id: feeling-the-unfelt-emotion
 title: "Feeling the Unfelt Emotion"
-aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling"]
+aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling", "falling in love with the emotion"]
 tags: ["trauma", "healing", "emotions", "core mechanism"]
-related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "feel-over-figure", "unfelt-emotion-leaks", "three-signals-of-unfelt-emotion"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5"]
 ---
 
 # Feeling the Unfelt Emotion
@@ -49,15 +49,37 @@ When the resisted feeling is finally felt, the behavior that was driven by the a
 
 The emotions rejected in childhood (anger, sadness, fear, excitement) are the same ones the person rejects internally through avoidance. See [[childhood-imprinting]] for how theta-state programming between ages 0 and 7 creates the emotional avoidance patterns that this practice resolves. [[letting-judgment-in]] is a specific application: allowing the pain of being judged rather than deflecting it, which completes the emotional experience that was interrupted in childhood when being yourself led to rejection.
 
+## "Looked Forward To" Means Falling in Love With
+
+Joe distinguishes carefully between tolerating an emotion and welcoming it. The pattern only dissolves when the emotion is actively welcomed. Joe's own example: he recreated emotional abandonment over and over until he fell in love with abandonment. Not tolerated. Loved. After that, the body stopped recreating the conditions because homeostasis had been restored. See [[joes-abandonment-mapping]].
+
+"I recreated people who would emotionally abandon me over and over again until I fell in love with the abandonment. And once I fell in love with it, my system didn't need to recreate it. I had found homeostasis." -- Joe Hudson, Feel over Figure
+
+## The Method: Allowing the Body to Move
+
+Feeling is not naming. Feeling is letting the body move. The emotion knows how to move the body if it is not interrupted. The intellect cannot direct the movement; it only obstructs it. The instruction is to allow, not to perform.
+
+The emotion may sound garbly. Anger does not speak in clean logical sentences. It sputters, blames, exaggerates. The garbly form is part of how anger moves through. If you suppress it because it sounds irrational, you suppress the emotion. If you believe its literal content, you act on stories that are not true. The middle path: let it move while knowing the content is just the emotion talking. See [[treat-yourself-as-actor-of-emotion]].
+
+"Your emotions know how to move your body. Your emotions know what to do. Don't judge them. Don't tell them how they're supposed to look." -- Joe Hudson, Feel over Figure
+
+## The Daily Practice
+
+Joe recommends dedicated time, especially in early stages: twenty to thirty minutes of [[daily-emotional-yoga]]. Feel what is not being felt. Teach the body the motion. Repeat. The musculature releases as the emotions move, and the next layer of emotion becomes accessible. See [[emotions-live-in-muscles]] and [[stages-of-emotional-development]].
+
 ## Downstream (Where This Leads)
 
 - The dissolution of [[trauma-mapping]] patterns
 - Toward [[grief-as-gateway-to-self-love]] when the person grieves lost time
 - Toward a shift in what the person attracts relationally
 - [[past-shame-vs-current-shame]]: past shame is a form of resisted emotion that keeps patterns locked. Feeling the underlying emotion dissolves the shame.
+- Toward [[unfelt-emotion-leaks]] not being needed: emotions felt cleanly do not leak.
+- Toward [[kinked-emotions]] releasing: the felt version is fluid and useful in ways the kinked version was not.
+- Toward [[feel-over-figure]]: with the emotion felt, the intellect can do its job cleanly.
 
 ## Sources
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 - 2020-11-10_Vulnerability -- Connection Course Series #5
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-03-05_Feel over Figure -- Master Class Series #5

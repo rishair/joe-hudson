@@ -4,8 +4,8 @@ id: enjoyment-as-path
 title: "Enjoyment as Path"
 aliases: ["enjoy the process", "how do I enjoy the things I'm doing", "enjoyment is more effective", "golden mean of the journey", "enjoy yourself"]
 tags: ["transformation", "enjoyment", "principle", "approach"]
-related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2"]
+related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity", "efficiency-as-enjoyment", "art-of-accomplishment", "consciousness-is-the-product"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
 ---
 
 # Enjoyment as Path
@@ -41,12 +41,22 @@ The virtuous loop: enjoyment makes approach easier. Easier approach produces mor
 - When someone asks "how long will this take?" (the question reveals that the process is not being enjoyed)
 - When [[resistance]] to the process itself has become the main obstacle
 
+## Enjoyment Is the Measure of Efficiency
+
+The Art of Accomplishment episode adds a structural reason for the primacy of enjoyment: it is the actual measure of human efficiency. For cars, efficiency is fuel-per-distance. For humans, efficiency is enjoyment. When enjoyment is high, friction is low, the parts of you are aligned, and the work is being produced with minimum fuel. See [[efficiency-as-enjoyment]].
+
+This makes enjoyment not a luxury but a measure of how well the system is functioning. The exhausted, frenetic, joyless worker is not more productive than the rested, enjoying worker. The illusion otherwise is documented in the [[sleep-deprived-soldier]] study.
+
 ## Downstream (Where This Leads)
 
 - Toward [[process-over-result]]: if you enjoy the process, the result becomes irrelevant
 - Toward [[embrace-intensity]]: the "embrace" part is what makes intensity enjoyable
+- Toward [[efficiency-as-enjoyment]]: the structural reason enjoyment is not optional
+- Toward [[art-of-accomplishment]]: enjoyment is what makes the work art
+- Toward [[consciousness-is-the-product]]: the enjoyment in the making becomes part of what is delivered
 - Away from state-seeking and future-living: enjoyment is present-tense
 
 ## Sources
 
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
+- 2021-02-13_The Art of Accomplishment -- Master Class Series #1

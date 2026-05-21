@@ -4,8 +4,8 @@ id: pow-optimist
 title: "The POW Optimist (Stockdale Paradox)"
 aliases: ["Stockdale paradox", "Vietnam POW story", "optimists died story", "POW camp empowerment"]
 tags: ["empowerment", "example", "optimism", "vision", "POW", "Stockdale"]
-related: ["acting-as-if-already-true", "empowered-vs-power", "process-over-result", "quit-hope-lose-cycle"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["acting-as-if-already-true", "empowered-vs-power", "process-over-result", "quit-hope-lose-cycle", "intention-vs-goal", "art-of-accomplishment"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
 ---
 
 # The POW Optimist (Stockdale Paradox)
@@ -46,6 +46,15 @@ The truly empowered person who believes they will be successful is willing for t
 
 This is structurally identical to [[process-over-result]]: commit to the process (here, the embodiment of the empowered stance), release the result (which specific form, on which specific timeline).
 
+## Also Used to Distinguish Intention from Goal
+
+In the Art of Accomplishment episode, Joe uses this same story to illustrate the difference between intention (implementation-agnostic) and goal (specific outcome on a specific timeline). The POWs who died were the ones who held the freedom as a goal with a deadline. The POWs who survived held the freedom as an intention without a date.
+
+"There's this story about an admiral -- I can't remember his name -- who was taken in the POW camps in Vietnam, and he was asked, 'Who got out of the camps?' He said, 'That's easy. It was the people who knew they would get out.' Then the interviewer asked, 'Who didn't get out of the camps?' He said, 'That's easy. It's the optimists.' And the interviewer was confused and said, 'Optimists? What do you mean?' And he said, 'The optimists were the ones who thought to get out by Christmas or by Easter or by the rainy season. They were the ones that didn't make it.' So the intention is just holding that intention out there, knowing that you're going to arrive there." -- Joe Hudson, The Art of Accomplishment
+
+See [[intention-vs-goal]] for the related distinction. This story is the most compact demonstration of why holding direction without timeline produces better results than holding goal with timeline.
+
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2021-02-13_The Art of Accomplishment -- Master Class Series #1

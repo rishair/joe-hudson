@@ -4,8 +4,8 @@ id: shame-drives-behavior
 title: "Shame Drives Behavior"
 aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first"]
 tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment"]
-related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5"]
 ---
 
 # Shame Drives Behavior
@@ -27,6 +27,14 @@ This principle is why [[fixing-people]] fails as a coaching move. Trying to chan
 This also explains why [[impartiality]] works. When someone is met without agenda, without the implied message "you should be different," the shame loosens. The wise part of the person comes forward. Behavior shifts as a byproduct.
 
 Joe's own pot habit in his twenties demonstrates this directly. The more he beat himself up about smoking, the more he wanted to escape himself, the more he smoked. The shame was the engine of the addiction, not the other way around. "The more that I was abusing myself about it, the more I wanted to escape myself, the more I smoked the pot." Once he stopped fighting the habit and addressed the underlying emotions (sadness, anger), the habit dissolved without effort. No willpower, no trying, no temptation. Just a lack of interest. See [[resistance]] and [[negative-self-reinforcement]].
+
+## Shame as the Lock on Addiction Cycles
+
+The principle applies broadly to addiction patterns. Shame is the lock that holds the chains of addiction in place. There are physical and neurological components to addiction as well, but the emotional avoidance is central. If shame could be lifted out of a person, most of their addictions would fall away on their own.
+
+"Shame is the locks of the chains of bad habits. Shame seems to be a big part of an addiction cycle. If you could just lift the shame out of people, then most of the addictions would fall away." -- Joe Hudson, Feel over Figure
+
+This is consistent with what Joe observes about slot machine addiction, gambling, substance use, compulsive eating, and other behaviors organized around emotional avoidance. The behavior is the symptom. The shame is the lock. The unfelt emotion is what the lock is holding closed.
 
 ## Upstream (What Leads Here)
 
@@ -56,3 +64,4 @@ Underneath the shame and blame story is helplessness. The unwillingness to feel 
 - 2020-11-10_Vulnerability -- Connection Course Series #5
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2021-03-05_Feel over Figure -- Master Class Series #5

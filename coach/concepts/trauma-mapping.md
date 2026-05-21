@@ -4,8 +4,8 @@ id: trauma-mapping
 title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma"]
 tags: ["trauma", "attachment", "patterns", "repetition"]
-related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1"]
+related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5"]
 ---
 
 # Trauma Mapping
@@ -39,6 +39,18 @@ This absence of presence is one of two reasons people get "duped" in relationshi
 
 "When we hear somebody that reminds us of that trauma, then we're not actually hearing them, we're not actually with them, we're with the person or people who helped us get that trauma into our bones." -- Joe Hudson, Introduction to VIEW (Connection Course)
 
+## The Friend Pattern
+
+The most visible everyday instance: the friend who keeps dating the same person in different bodies. Seven different partners, all of whom cheated. Six different relationships, all with the same dynamic. The conscious mind cannot understand how this kept happening. The body knows exactly what it is doing: generating opportunities to feel the unfelt emotion.
+
+Joe's own example is emotional abandonment. He recreated emotionally abandoning people over and over until he fell in love with abandonment, after which the system found homeostasis and stopped recreating it. See [[joes-abandonment-mapping]].
+
+## Trauma Mapping as the Body's Loop-Completion Mechanism
+
+This is the same mechanism as [[what-we-fear-we-invite]] but framed from the body's perspective. The body holds an incomplete emotional loop. It seeks completion. It will keep generating the conditions where completion might happen. The way to stop the recreation is to complete the loop: feel the emotion and welcome it.
+
+"The things that we are most scared of are the things that we're subtly inviting into our life. So if we're most scared of feeling helpless, we will invite helplessness unconsciously into our life so that we have that opportunity to feel it." -- Joe Hudson, Feel over Figure
+
 ## Upstream (What Leads Here)
 
 - When someone describes repeating the same relational pattern despite awareness
@@ -55,3 +67,4 @@ This absence of presence is one of two reasons people get "duped" in relationshi
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
+- 2021-03-05_Feel over Figure -- Master Class Series #5

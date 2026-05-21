@@ -289,10 +289,73 @@
     },
     {
       "folder": "2021-02-13_The Art of Accomplishment \u2014 Master Class Series #1",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T17:46:19Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "art-of-accomplishment",
+        "consciousness-is-the-product",
+        "efficiency-as-enjoyment",
+        "intention-vs-goal",
+        "trying-vs-doing",
+        "undoing-not-doing",
+        "seven-limiting-beliefs",
+        "defense-vs-love",
+        "improvement-vs-authenticity",
+        "hands-together-exercise",
+        "goal-beyond-the-goal",
+        "tennis-quarter",
+        "subway-kid",
+        "sleep-deprived-soldier",
+        "butchers-blade",
+        "i-have-to-sacrifice-to-succeed",
+        "i-dont-have-time-for-this",
+        "victim-stance-invites-abuse"
+      ],
+      "articles_updated": [
+        "inherent-goodness",
+        "connection-over-perfection",
+        "wants-over-shoulds",
+        "enjoyment-as-path",
+        "enjoy-over-manage",
+        "mandela-empowerment",
+        "pow-optimist",
+        "i-feel-trapped"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:00:18Z"
+    },
+    {
+      "folder": "2021-03-05_Feel over Figure \u2014 Master Class Series #5",
+      "status": "complete",
+      "claimed_at": "2026-05-21T18:01:17Z",
+      "articles_created": [
+        "feel-over-figure",
+        "epiphany-becomes-rut",
+        "kinked-emotions",
+        "dont-do-emotion-at-people",
+        "unfelt-emotion-leaks",
+        "three-signals-of-unfelt-emotion",
+        "binary-thinking-signals-fear",
+        "judgment-vs-discernment",
+        "stages-of-emotional-development",
+        "daily-emotional-yoga",
+        "treat-yourself-as-actor-of-emotion",
+        "joes-crying-story",
+        "joes-abandonment-mapping"
+      ],
+      "articles_updated": [
+        "decisions-are-emotional",
+        "resistance",
+        "feeling-the-unfelt-emotion",
+        "what-we-fear-we-invite",
+        "emotions-live-in-muscles",
+        "helplessness-is-the-gateway",
+        "fear-vs-excitement",
+        "shame-drives-behavior",
+        "trauma-mapping"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:14:17Z"
     }
   ]
 }

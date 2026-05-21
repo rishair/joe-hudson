@@ -1,0 +1,83 @@
+---
+type: principle
+id: epiphany-becomes-rut
+title: "Every Epiphany Is the Innocent Beginning of a Rut"
+aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent"]
+tags: ["transformation", "epiphany", "iteration", "stages", "development"]
+related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+---
+
+# Every Epiphany Is the Innocent Beginning of a Rut
+
+## Definition
+
+Every epiphany solves a constraint by giving the system a new way to see. Once integrated, that way of seeing becomes the next constraint. The thing that freed you is the thing that will need to be deconstructed. This is not a failure. It is how transformation works.
+
+"Every epiphany is the innocent beginning of a rut. That every epiphany is so important to have, but what's really important about them is that it blows everything up. And then we reconstruct it, and then a new constraint is found, and we need to have that new epiphany to deconstruct or to destroy the old epiphany and the old rut." -- Joe Hudson, Feel over Figure
+
+## The Pattern
+
+1. A constraint exists. You cannot see past it.
+2. An epiphany breaks the constraint. You can suddenly see.
+3. You build a new structure on top of the epiphany. Life works better.
+4. The new structure becomes the next constraint.
+5. A new epiphany is required to dissolve it.
+
+This is the same shape as [[development-as-corkscrew]] but viewed from a different angle. The corkscrew is the trajectory; the epiphany-becomes-rut sequence is the local mechanism.
+
+## Joe's Personal Example
+
+Joe began emotional work with no awareness of his emotions. The first epiphany was recognizing that he had emotions: "I'm feeling angry right now." That was a breakthrough.
+
+A decade later, someone told him: "You're naming an emotion so you don't have to feel it." The naming had become the new constraint. The thing that once freed him now blocked him. He had to deconstruct the epiphany and learn to actually feel the emotion rather than name it. See [[stages-of-emotional-development]].
+
+"The thing that was once freeing to be able to see it and name it had become the new constraint. And then I realized, oh, the feeling of it is a completely different thing." -- Joe Hudson, Feel over Figure
+
+## The Coaching Implication
+
+People hold onto epiphanies. They make them into identities. They turn insights into rules. When the rule starts to constrain them, they double down on the rule rather than letting it dissolve into the next epiphany.
+
+The coach's job is not to deliver one final epiphany. It is to support iteration. The current epiphany is good. It is also temporary. Hold it lightly.
+
+"There's 1,000 examples of how the solution of yesterday is the rut of today. And we villainize it and we make it bad instead of just being like, oh, we need a new iteration. That's it." -- Joe Hudson, Feel over Figure
+
+## Examples Beyond the Personal
+
+- A government creates a police force as an epiphany about safety. That police force becomes a rut requiring a new epiphany.
+- A CEO makes everything idiot-proof in their first business. Only idiots come work. At Netflix, the same CEO keeps a deliberate amount of chaos so smart people show up.
+- A product team has a market insight. They invest six months and a million dollars defending the insight after it has become a rut.
+
+Every locked-down structure was once somebody's realization.
+
+## Why People Resist This
+
+Holding an epiphany loosely requires comfort with helplessness. If the current structure is going to dissolve, the person has to be okay not knowing what comes next. See [[helplessness-is-the-gateway]]. People who cannot bear helplessness grip their epiphanies until they become cages.
+
+## Connection to Both Sides of Every Thought
+
+At a certain point in development, every thought is both true and not true. This is either liberating or paralyzing depending on emotional clarity. With clarity, the person becomes incredibly decisive. Without clarity, the same capacity becomes a way to never commit.
+
+"There comes a point in development where you can't believe any one of your thoughts. And if you have emotional clarity when that development point hits, you become incredibly clear. If you don't have emotional clarity, you can use that same beauty of seeing both sides of every coin as a way to become indecisive." -- Joe Hudson, Feel over Figure
+
+## Tone
+
+Matter-of-fact, even celebratory. "We need a new iteration. That's it." Not anxious about losing what was gained. Not nostalgic for the old epiphany. Just on to the next one.
+
+## Upstream (What Leads Here)
+
+- When someone has had a breakthrough and is now gripping it. See [[quit-hope-lose-cycle]].
+- When someone treats a past insight as the final answer.
+- When the structure that once helped is now constraining.
+- When a person feels stuck in a framework they used to find liberating.
+
+## Downstream (Where This Leads)
+
+- Toward [[integration]]: the next iteration begins with integrating the current epiphany rather than canonizing it.
+- Toward [[development-as-corkscrew]]: the larger trajectory in which these local cycles are embedded.
+- Toward [[stages-of-emotional-development]]: a specific instance of this pattern in the emotional domain.
+- Toward [[connection-over-perfection]]: connection is the infinite game. Perfection treats one epiphany as the end state.
+
+## Sources
+
+- 2021-03-05_Feel over Figure -- Master Class Series #5
