@@ -28,9 +28,9 @@
       - Research
         - [x] R-002 Current state of speech-to-text with speaker diarization tools
       - Experiments
-        - [~] E-005 WhisperX prototype on 2-3 episodes (inconclusive, superseded by E-014)
-        - [~] E-006 Pyannote voiceprint speaker labeling for Joe Hudson (inconclusive, superseded by E-015)
-        - [~] E-007 AssemblyAI comparison baseline (inconclusive, superseded by E-014)
+        - [ ] E-005 WhisperX prototype on 2-3 episodes
+        - [ ] E-006 Pyannote voiceprint speaker labeling for Joe Hudson
+        - [ ] E-007 AssemblyAI comparison baseline
         - [x] E-013 Extract Joe Hudson voiceprint embedding
         - [x] E-014 AssemblyAI bulk transcription with diarization
         - [x] E-015 Post-process transcripts to relabel Speaker A/B as Joe Hudson vs Guest
@@ -38,6 +38,12 @@
     - [ ] G-006 Repeatable idempotent sync system for all content
       - Experiments
         - [x] E-016 Build and test sync.sh idempotent pipeline
+- [ ] G-007 Build Joe Hudson coaching compendium from all transcripts
+  - Research
+    - [x] R-004 Approaches to large-scale transcript concept extraction
+    - [x] R-007 Survey transcripts to identify Joe Hudson's coaching taxonomy
+  - Experiments
+    - [x] E-018 Prototype compendium absorption on 5 transcripts
 
 ## Checkpoints
 
