@@ -5,7 +5,7 @@ title: "The Voice Is Love With Bad Strategies"
 aliases: ["voice as care", "voice as love", "voice in head as care", "the voice loves you", "voice's intention", "deep care behind the voice", "the voice cares", "intention behind the voice"]
 tags: ["voice in head", "reframe", "self-relationship", "compassion", "core reframe"]
 related: ["voice-in-the-head", "loving-all-parts", "love-as-deep-welcoming", "apply-view-to-the-voice", "dont-fight-the-voice", "shame-drives-behavior"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-10-15_Ant Taylor on Embracing Emotions"]
 ---
 
 # The Voice Is Love With Bad Strategies
@@ -66,6 +66,16 @@ The voice has been at war with you for years. If you suddenly turn around and tr
 
 The persistence required is itself part of the practice. You are not loving the voice once. You are demonstrating, over months and years, that you mean it. The voice becomes a less harsh presence the way a feral animal becomes tame: through repeated non-threatening contact.
 
+## How the Reframe Lands as a Daily Operating Mode
+
+For someone who has lived for decades in adversarial relationship with the voice, the reframe is not instantaneous. It is a shift that becomes a daily operating mode through repetition.
+
+Ant Taylor describes the work landing as one of the three pillars of his ongoing practice:
+
+"I think I did the 20% to get the 80% benefit, did the 20/80 rule on radical self-acceptance and really understanding that the voice in my head was coming from a place of love, if misguided for all sorts of reasons, trauma and otherwise. Ultimately coming from a place of love. And so getting to a place of really accepting who I am, accepting what that voice is telling me, and loving on it as it is trying to love on me, has changed sort of my daily practices and how I move through the world." -- Ant Taylor, Embracing Emotions
+
+The 20/80 framing is worth noting. The shift does not require complete reconciliation with the voice. A meaningful amount of the change comes from the initial reframe and from beginning to act on it daily. The deeper integration unfolds over years; the practical benefit begins as soon as the reframe is held as an operating mode rather than as a one-time insight.
+
 ## When Someone Experiences This
 
 - They notice that the most brutal thing the voice says is also the most-repeated, which means it is also the most-cared-about.
@@ -101,3 +111,4 @@ This reframe also fails if it is used as a way to dismiss real damage. "The voic
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2021-10-15_Ant Taylor on Embracing Emotions

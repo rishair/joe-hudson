@@ -2,10 +2,10 @@
 type: concept
 id: wisdom-of-each-emotion
 title: "Each Emotion Carries Its Own Wisdom"
-aliases: ["the wisdom of emotions", "emotions as information", "what each emotion is telling you", "the message of each emotion", "anger fear sadness as information", "what anger tells you", "what sadness tells you", "what fear tells you", "emotions have a message"]
+aliases: ["the wisdom of emotions", "emotions as information", "what each emotion is telling you", "the message of each emotion", "anger fear sadness as information", "what anger tells you", "what sadness tells you", "what fear tells you", "emotions have a message", "three indicators of anger", "anger as care boundary fear"]
 tags: ["emotions", "wisdom", "anger", "sadness", "fear", "information", "signal"]
-related: ["emotions-as-road-signs", "fear-as-signal-of-care", "feeling-the-unfelt-emotion", "kinked-emotions", "stages-of-emotional-development", "joy-as-matriarch", "the-want", "feel-over-figure"]
-sources: ["2021-09-24_Stages of Emotional Development"]
+related: ["emotions-as-road-signs", "fear-as-signal-of-care", "feeling-the-unfelt-emotion", "kinked-emotions", "stages-of-emotional-development", "joy-as-matriarch", "the-want", "feel-over-figure", "anger", "logic-vs-emotional-movement"]
+sources: ["2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
 ---
 
 # Each Emotion Carries Its Own Wisdom
@@ -25,6 +25,18 @@ Anger is one of the deepest forms of care. It shows up when something you care a
 A person who reports they "don't get angry anymore" has not necessarily resolved anger. They have often lost contact with what they care about strongly enough to defend. Anger flowing freely is one of the clearest signals of what matters.
 
 The kinked version of anger -- explosion, passive aggression, denial -- looks like the opposite of care. It is care that has been twisted by the holding. See [[kinked-emotions]].
+
+### The Three Indicators of Anger
+
+In the anger-specific treatment of this principle, Joe names three distinct pieces of information that arrive together when anger is present. Reading all three opens the situation. See [[anger]] for the standalone article.
+
+**1. Something is cared about.** "If I'm angry about something, it means there's something that I care about and that I love." -- Joe Hudson, The Wisdom of Anger
+
+**2. A boundary is being crossed / self-care has not happened earlier.** The third time the pattern repeats is usually where anger arrives -- because the first two times something was not handled. "There's a way in which I'm not taking care of myself."
+
+**3. Something is feared.** Underneath anger there is almost always fear. Reading the fear reveals what feels at risk.
+
+When all three are read together, a fourth marker often appears: a feeling of trappedness. See [[trappedness-feeling]].
 
 ## Fear: What You Care About, What's Threatening It, Needs Not Being Asked For
 
@@ -64,6 +76,10 @@ There is a sequencing point. The wisdom of an emotion becomes available when the
 
 The sequence is: feel it, let it move, and then the wisdom is apparent. The reverse sequence -- decide what it is telling you, then maybe feel it -- usually produces a story rather than a reading. See [[stages-of-emotional-development]] for why the felt experience precedes the intellectual interpretation.
 
+The reason this works is mechanical: emotions process differently from logic. Logic moves through linked propositions; emotions move through release-and-arrival. The middle is garbly; the end is clarity. Trying to extract the wisdom by reasoning is asking the logic system to do work the emotional system was built for. See [[logic-vs-emotional-movement]].
+
+"Anger just talks differently than logic does. Logic talks like A B C, and therefore A C B. That's kind of the logic system. Whereas anger is more like blah-blah-blah, ah clarity!" -- Joe Hudson, The Wisdom of Anger
+
 ## In Coaching
 
 When a person reports a feeling, the coaching path leads first to feeling it more fully. The interpretation comes after, and often is unnecessary because the feeling itself produces the right action.
@@ -95,3 +111,4 @@ Practical and respectful. Each emotion is presented as a colleague rather than a
 ## Sources
 
 - 2021-09-24_Stages of Emotional Development
+- 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3

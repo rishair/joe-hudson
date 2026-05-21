@@ -13,7 +13,7 @@
 - if-i-had-more-money If I had more money, I could solve my problems (also: money will solve it, I just need more money, if I had enough money, money would fix this, I'd be free if I had more money, more money is the answer, money is the solution)
 - ill-become-lazy-without-shoulds I'll become lazy if I stop should-ing myself (also: fear of laziness without shoulds, couch potato fear, I'd never do anything, I need the pressure, without discipline I'd fall apart, I won't be productive, fear of becoming a slacker)
 - im-afraid-of-stagnating I'm afraid of stagnating (also: fear of stagnation, I don't want to stagnate, I need to keep growing, I'll get stuck if I stop pushing, fear of getting stuck, stagnation fear, I'll stop growing)
-- im-not-an-anxious-person I'm not an anxious person / I don't really get scared (also: I don't have anxiety, I'm not afraid, I'm not a fearful person, I'm pretty brave, I'm not scared, I handle fear well, I'm courageous, fear doesn't really get to me, the fearless self-concept)
+- im-not-an-anxious-person I'm not an anxious person / I don't really get scared (also: I don't have anxiety, I'm not afraid, I'm not a fearful person, I'm pretty brave, I'm not scared, I handle fear well, I'm courageous, fear doesn't really get to me, the fearless self-concept, Class A avoider, avoider impresario, high-functioning anxious denier)
 - ive-lost-my-joy I've lost my joy / I can't enjoy things anymore (also: I don't feel joy, I can't play anymore, I'm flat, I've lost my aliveness, nothing feels good anymore, I used to enjoy things, I don't have joy, I can't have fun, I feel numb, the joy is gone, I'm not happy even though everything is fine)
 - money-is-bad Money is bad / I don't want to play that game (also: money is evil, money corrupts, rich people are bad, the system sucks, I don't want to participate in this, I don't want to be that person, wealth is gross, I refuse to play the money game)
 - my-inner-critic-wont-stop My inner critic won't stop / The voice in my head is constant (also: voice in my head won't shut up, constant self-criticism, I'm always criticizing myself, I can't quiet my mind, my mind never stops, the critic in my head, constant internal chatter, my brain never shuts up, I'm so hard on myself, the voice in my head, I keep rehearsing, rumination concern, I can't stop the loop)
@@ -33,7 +33,7 @@
 
 ## Questions
 
-- are-you-bracing-or-embracing Are you bracing or embracing? (also: am I bracing or embracing, bracing or embracing question, the brace embrace diagnostic, embracing or bracing)
+- are-you-bracing-or-embracing Are you bracing or embracing? (also: am I bracing or embracing, bracing or embracing question, the brace embrace diagnostic, embracing or bracing, you might be bracing for it)
 - can-you-look-forward-to-feeling-it Can you look forward to feeling it? (also: can you welcome it, do you want to feel angry, are you excited to feel sad, the looking-forward test, the welcoming diagnostic, can you welcome the emotion like a returning child, do you find yourself wanting to feel it)
 - how-do-you-want-to-be How do you want to be? (also: how do you want to be when you grow up, how vs what question, how do you want to live, the how question, how question instead of what)
 - how-is-that-not-here-right-now How is that not here right now? (also: how is what you want not here, it's already here question, the present-moment collapse question, what you're seeking is already in the room, the resolution-is-already-here question)
@@ -54,6 +54,7 @@
 - dont-fight-the-voice Don't Use the Voice to Silence the Voice (also: thief security guard, thief as security, fighting the voice, war with the voice, voice vs voice, attacking the inner critic, trying to silence the voice)
 - dont-make-family-dynamics-the-story Don't turn family dynamics into a fixed story (also: family dynamics as identity, I just keep dating my father, trauma as fixed story, the family dynamics trap, intellectualizing family dynamics, making family dynamics the explanation, I always do this because of my mother)
 - dont-name-emotion-to-avoid-feeling Don't name an emotion to avoid feeling it (also: naming as avoidance, labeling emotions as management, I'm feeling X as bypass, emotional labeling trap, name-instead-of-feel, naming the emotion as the new repression)
+- dont-should-yourself-to-welcome-anger Don't Should Yourself Into Welcoming Others' Anger (also: I should be okay with their anger, forcing yourself to receive anger, shoulding into welcoming, performing capacity for others' emotions, should be good with anger, forcing yourself to be present with anger you can't yet handle)
 - dont-step-on-the-signal Don't step on the signal (also: overriding fear with positivity, powering through fear, stepping on the signal, ignoring the fear, conquering fear, overcoming fear as anti-pattern, boldness as suppression, courage as denial, staying positive as suppression, the fear was right)
 - fixing-people Don't try to fix people (also: fixing, trying to help, being valuable, saving people, advice-giving, leading to a solution)
 - impartial-apathy Don't confuse apathy with impartiality (also: I don't care, false impartiality, apathetic impartiality, disowning wants, above your humanity)
@@ -70,6 +71,7 @@
 
 ## Concepts
 
+- anger Anger (also: the emotion of anger, anger as energy, anger as care, beautiful energy of anger, loving your anger, what anger is, healthy anger, anger's three indicators, the wisdom of anger)
 - art-of-accomplishment Art of Accomplishment (also: accomplishment as art, the art of accomplishment, AoA, artistry of accomplishment, how not what, art of getting things done)
 - being-heard Being Heard (also: feeling heard, I don't feel heard, fully heard, the need to be heard)
 - container-of-love Container of Love (also: container, held in love, environment of love)
@@ -82,6 +84,7 @@
 - expanding-sense-of-self Expanding Sense of Self (also: sense of self expands, I am my family, I am the ecosystem, universal will, oneness, self gets bigger)
 - familiar-over-safe Familiar Over Safe (also: choosing familiar over safe, addiction to trauma, homeostasis seeking, cell seeking homeostasis)
 - fear-as-signal-of-care Fear as a Signal of What You Care About (also: fear shows you what you care about, fear points at what matters, fear as information, fear as compass, fear tells you what threatens what you love, the signal of fear, fear isn't go or no-go, fear shows what to look at)
+- fear-of-self-destruction-by-anger The Fear of Being Destroyed by Your Own Anger (also: fear of losing myself in anger, fear of my own anger, the destruction fear, I might lose myself in anger, anger will destroy me, why we fear our anger, the third option blindness)
 - feeling-the-unfelt-emotion Feeling the Unfelt Emotion (also: fully feeling the emotion, processing the held-back emotion, inviting the emotion, welcoming the avoided feeling, falling in love with the emotion)
 - grief-as-gateway-to-self-love Grief as Gateway to Self-Love (also: grief precedes self-love, grieving lost time, watershed moment of grief)
 - heartbreak-as-capacity-expansion Heartbreak as Capacity Expansion (also: heartbreak expands capacity, heart breaks open, every heartbreak increases love, let your heart break, break open not break down, expansion through heartbreak)
@@ -91,6 +94,7 @@
 - joy-as-matriarch Joy as the Matriarch of a Family of Emotions (also: joy as matriarch, joy is a matriarch, joy as mother, joy won't come without her children, the matriarch metaphor, joy as gateway emotion, the family of emotions, docks in your port metaphor)
 - kinked-emotions Kinked Emotions (The Garden Hose) (also: garden hose metaphor, kinks in the garden hose, constricted emotion, anger as garden hose, the kinked emotion, emotion under pressure, what people call the emotion is the kink)
 - letting-judgment-in Letting Judgment In (also: let it break your heart, receiving judgment, letting judgment break your heart, opening to judgment)
+- logic-vs-emotional-movement Logic vs. Emotional Movement (Blah-Blah-Blah, Ah Clarity) (also: emotions talk differently than logic, blah blah blah ah clarity, the garbly form of emotion, non-linear emotional release, emotions are not A-B-C, emotional logic is different, the way emotions move, anger does not speak in sentences)
 - love-as-deep-welcoming Love as Deep Welcoming (also: deep welcoming, love is welcoming, welcoming as love, deep welcoming definition of love, love as welcoming, love as allowing, allowing yourself to be touched)
 - loving-all-parts Loving All Parts (also: loving all aspects of self, learning to love every part, loving the dark parts)
 - money-as-surrogate Money as Surrogate (also: money is love, money is father's love, money as substitute, money standing in for something else, money is security, money is power, what money is not, money as projection, projecting on money)
@@ -103,6 +107,7 @@
 - sensitivity-as-byproduct Sensitivity to Self and Others as a Byproduct of Embracing (also: increased sensitivity, sensitivity to others' emotions, perception of others' states, reading the room as byproduct, feeling the energy in the room, perceiving emotional states)
 - should-as-threat Should as Threat (also: should is a threat, four layers of should, energetic should, should produces rebellion or submission, should as bad management)
 - the-want The Want (also: want as impulse, want as emotion, wanting as feeling, the deep want, want as longing, longing, desire as feeling)
+- trappedness-feeling The Felt Trappedness Beneath Anger (also: feeling trapped, trappedness, the trapped feeling, damned if I do damned if I don't, I can't fucking win, psychological trappedness, trauma-rooted trappedness, the trap is felt not real)
 - trauma-mapping Trauma Mapping (also: mapping, attracting trauma, recreating trauma patterns, addiction to trauma)
 - undoing-not-doing Undoing, Not Doing (also: undoing not doing, transformation is undoing, an undoing not a doing, release the false to find what is, you don't need to add anything, annihilation, what cannot be annihilated, I did something I need to keep, doing vs undoing)
 - unfelt-emotion-leaks Unfelt Emotion Leaks (also: unfelt emotion comes out sideways, the leak, emotion you don't feel comes out at others, anger at someone is unfelt anger, leakage, emotion has to go somewhere)
@@ -111,7 +116,7 @@
 - voice-as-care The Voice Is Love With Bad Strategies (also: voice as care, voice as love, voice in head as care, the voice loves you, voice's intention, deep care behind the voice, the voice cares, intention behind the voice)
 - voice-in-the-head The Voice in the Head (also: voice in head, voice in your head, the inner critic, self-talk, internal dialogue, the inner voice, the editor, the recurring negative voice, upper dog, the voice, internal critic, horrible micromanaging boss)
 - vulnerability Vulnerability (also: being vulnerable, speaking your truth, truth even when scared, V in VIEW)
-- wisdom-of-each-emotion Each Emotion Carries Its Own Wisdom (also: the wisdom of emotions, emotions as information, what each emotion is telling you, the message of each emotion, anger fear sadness as information, what anger tells you, what sadness tells you, what fear tells you, emotions have a message)
+- wisdom-of-each-emotion Each Emotion Carries Its Own Wisdom (also: the wisdom of emotions, emotions as information, what each emotion is telling you, the message of each emotion, anger fear sadness as information, what anger tells you, what sadness tells you, what fear tells you, emotions have a message, three indicators of anger, anger as care boundary fear)
 - wonder Wonder (also: W in VIEW, awe, being in the question, open curiosity, follow your wonder)
 - zen-sickness Zen Sickness (also: depersonalization as awakening, depersonalization disorder, resisted awakening, identity dissolution)
 
@@ -123,7 +128,7 @@
 - childhood-imprinting Childhood Imprinting (also: theta state programming, 0 to 7 programming, love withdrawal, rejected emotions from childhood, don't be yourself programming, pattern transfer to authority figures)
 - complementary-trauma-surfaces Complementary Trauma Surfaces (also: click pattern, trauma click, complementary surface area of traumas, matching traumas, the perfect match, couples find each other through trauma, the trauma fit, perfectly matched traumas)
 - development-as-corkscrew Development as Corkscrew (also: corkscrew development, spiral development, same issues different level, I thought I dealt with my dad issues, before awakening after awakening, subtle till you see it)
-- disassociation-as-numbness-layer Disassociation as the Numbness Layer Before Fear (also: dissociation before fear, the numbness layer, feel the numbness first, shutdown before anxiety, the body shuts down anxiety, numbness as gateway, dissociation as protection, patterned numbness)
+- disassociation-as-numbness-layer Disassociation as the Numbness Layer Before Fear (also: dissociation before fear, the numbness layer, feel the numbness first, shutdown before anxiety, the body shuts down anxiety, numbness as gateway, dissociation as protection, patterned numbness, tightrope without a net, no somatic feeling)
 - impulse-to-should Impulse to Should (also: natural impulse becomes should, should kills motivation, desire hijacked by perfectionism, want becomes obligation, the want gets converted to a should, egoic layer on top of impulse)
 - late-stage-reversion Late-Stage Reversion (also: deep reversion before breakthrough, regression before integration, the big hiccup)
 - layered-resistance Layered Resistance (also: meta-resistance, resisting the resistance, resistance in sheep's clothing, compounding resistance, fighting the fight, levels of fight)
@@ -147,9 +152,11 @@
 - chase-it-around-the-room Chase It Around the Room (also: chasing the emotion, I'm going to love you, you can't get away from me, pursue the avoidant feeling, playful pursuit of the feeling, loving the hiding feeling)
 - excavating-the-inner-critic-in-group Excavating the Inner Critic in Group (also: listing the voice on the wall, inner critic exercise, making shame visible)
 - find-the-want-behind-the-should Find the Want Behind the Should (also: locate the want under the should, what do you actually want here, translate the should, the want behind it)
+- invite-the-aggression-out Invite the Aggression Out (also: convert passive to direct anger, ask for the direct anger, can you be direct with me, name the passive aggression, the experiment invitation move, invite the aggression out as experiment, request direct anger)
 - mirror-the-judgment Mirror the Judgment Back (also: how is that not true about you, mirror move, turn the judgment around, the projection mirror, judgment mirror)
 - not-sometimes-right-now Not Sometimes, Right Now (also: bring it into the present, feel it now, right now not abstract, stop talking about it and feel it)
 - owning-your-partiality Owning Your Partiality (also: calling out your own agenda, naming your partiality, apologizing for fixing, I notice I'm trying to fix you)
+- public-truth-bomb Public Truth-Bomb to the Leader (also: public diagnostic, naming the thing in front of the team, your anxiety is going to kill your company, the public truth-bomb move, calling it out in the room, leader truth-bomb, diagnostic in front of the team)
 - question-the-caveat Question the Caveat (also: question the qualifier, ask about the modifier word, why did you hedge, what makes you say it that way, the qualifier inquiry)
 - reframe-boss-as-customer Reframe the Boss as Your Customer (also: you don't have a boss you have a customer, the boss is a customer, boss is a client, single-client reframe, client not boss, undiversified customer, boss to customer move)
 - treat-yourself-as-actor-of-emotion Treat Yourself as an Actor of the Emotion (also: actor metaphor for emotion, you are the actor playing yourself, non-personal emotion, emotion is not personal, actor playing the part, watch the emotion like an actor)
@@ -176,6 +183,7 @@
 - love-vs-nice Love vs. Nice (also: love is not nice, nice is not love, loving is not being nice, love vs niceness, hard truth as love)
 - managing-vs-healing-trauma Managing vs. Healing Trauma (also: managing vs resolving, symptom management vs resolution, managing PTSD vs healing it)
 - observe-vs-move-emotion Observing the Emotion vs. Moving the Emotion Through the Body (also: observe vs move, watching the emotion vs feeling it, meditation vs expression, observing emotions vs embodying them, sitting with emotion vs moving emotion, the meditation distinction, feel it vs move it)
+- passive-aggressive-vs-aggressive-aggressive Passive-Aggressive vs. Aggressive-Aggressive (also: passive aggressive vs aggressive aggressive, passive aggression vs direct anger, covert anger vs open anger, anger through safety language, passive aggression as kinked anger, open anger is easier to meet)
 - past-shame-vs-current-shame Past Shame vs. Current Shame (also: current shame vs past shame, useful shame, shame about the past, self-brutalization, shame that perpetuates patterns)
 - repetitive-vs-inspirational-voice Repetitive Voice vs. Inspirational Voice (also: repetitive vs inspirational, negative recurring voice vs unique thought, two kinds of thoughts, recurring voice vs creative voice, the loop vs the new)
 - repression-vs-management Repression vs. Management (also: body repression vs intellectual management, the two kinds of suppression, child repression vs adult management, somatic repression vs cognitive management, passive suppression vs active management)
@@ -190,6 +198,7 @@
 - vulnerability-vs-weakness Vulnerability vs. Weakness (also: feeling weak vs being weak, vulnerability is not weakness, strength of vulnerability)
 - wanting-vs-craving Wanting vs. Craving (also: want vs craving, clean want vs craving, desire vs craving, wanting is not craving, Sufi desire vs Buddhist craving, expansive want vs sticky craving)
 - wants-vs-partiality Wants vs. Partiality (also: owning wants, wants are not partiality, owned wants vs hidden agenda, wanting vs pushing)
+- withdrawal-with-vs-without-a-timeline Withdrawal With a Timeline vs. Withdrawal Without One (also: leaving with a timeline, the 20 minute promise, stonewalling vs taking space, I'll be back in 20 minutes, punishment by withdrawal vs taking space, leaving as punishment vs leaving to take care of self, abandonment vs space, the timeline distinguishes withdrawal types)
 - wonder-vs-curiosity Wonder vs. Curiosity (also: wonder not curiosity, why wonder instead of curiosity, open vs narrowing curiosity)
 
 ## Principles
@@ -235,6 +244,7 @@
 - owning-the-want-dissolves-it Owning the Want Often Dissolves It (also: fully feeling the want releases it, ownership transforms the want, want refines when owned, the $10 million dissolves to security, name the want and watch it shift)
 - principles-free-you Living By Principles Frees You (also: principles create freedom, principled living, principles as empowerment, elegant structure of principles, personal constitution)
 - process-over-result Process Over Result (also: trust the process, faith in the process, outcome attachment, principled living)
+- public-failure-as-leadership-modeling Public Failure Models More Than Performed Competence (also: letting the team watch you fail, public failure as modeling, the failure as teaching, leader failing in front of team, I have to figure this out in front of you, modeling struggle, watching me fail)
 - right-question-over-right-answer The Right Question Over the Right Answer (also: right question matters more, in the age of Google, the question you're living in, value of the right question)
 - selfishness-is-the-engine-of-unity Selfishness Is the Engine of Unity (also: selfish gene, undeveloped selfishness, deep selfishness becomes compassion, deep wants become generous, levels of selfishness as developmental gauge, selfishness as development marker, I don't even believe in selfishness, selfishness is a word adults created to control children)
 - shame-drives-behavior Shame Drives Behavior (also: shame causes the actions, shame is the lock, shame holds bad habits in place, remove shame first, should is a mechanism of shame)
@@ -253,10 +263,12 @@
 
 ## Practices
 
+- anxiety-as-unarticulated-need Anxiety as an Unarticulated Need or Boundary (also: anxiety means unarticulated need, anxiety means boundary not set, the anxiety diagnostic, anxiety as need signal, when I feel anxiety I haven't asked for something, anxiety decoding practice, name the need under the anxiety)
 - daily-emotional-yoga Daily Emotional Yoga (also: emotional yoga, daily emotional practice, 20 minutes of emotion, feeling practice, scheduled emotional release)
 - dont-improve-for-two-weeks Don't Improve for Two Weeks (also: two week non-improvement, stop improving experiment, the holiday experiment, no improvement experiment, don't try to grow, the non-improvement test)
 - experimenting-with-the-voice Experimenting with the Voice (also: experimenting with voice in head, play with the voice, voice in head experiments, different relationships with the voice, tickle the voice, love the voice as practice)
 - feeling-the-want-as-emotion Feeling the Want as Emotion (also: feel the wanting, let the want move through, sit with the want, wanting practice, Sufi longing practice)
+- get-angry-in-the-car Get Angry in the Car (or at the Beach, or in the Woods) (also: anger release practice, get angry on your commute, yell in the car, private anger practice, anger discharge practice, anger somewhere not at someone, the commute anger practice, yell at the ocean)
 - hands-together-exercise Hands Together Exercise (also: hands together, the trying vs undoing exercise, palms together exercise, feel the opposite of trying, the somatic undoing)
 - how-what-questions How and What Questions (also: open-ended questions, how what questions, the VIEW technique, asking how and what)
 - is-this-mine Is This Mine? (also: is this mine question, whose emotion is this, checking emotional ownership, empathic boundary question)
@@ -295,10 +307,12 @@
 - hand-in-hand-parenting Learning Empathy Through Children's Tantrums (also: Hand in Hand Parenting, Parenting by Connection, stay listening, temper tantrum empathy)
 - joes-26-year-old-list Joe's 26-Year-Old Brutal Honesty List (also: the brutal honesty list, the awareness experiment, Joe's list of things he didn't want to admit, the should diagnostic list, the awareness changes things story)
 - joes-abandonment-mapping Joe's Abandonment Mapping (also: Joe's emotional abandonment, falling in love with abandonment, Joe attracted abandonment, Joe's trauma mapping example)
+- joes-angry-executive-commute Joe's Angry Executive Commute (also: the angry executive story, the executive commute story, get angry on your commute homework, executive empowerment story, 2-3 weeks of nightly anger, the bureaucracy victim executive, yelling at the ocean executive)
 - joes-board-member Joe's Board Member: Love in a War (also: the board member story, Joe's board war, removing the board member, love over defense board story, Joe fighting with an open heart)
 - joes-crying-story Joe Learning to Cry (also: faking it in the woods, Joe's crying story, fake crying for three months, Joe couldn't cry for fourteen years, the photo album story)
 - joes-godson-vape-pen Joe's Godson and the Vape Pen (also: godson story, the vape pen story, godson ambition, the laser tag story, Joe's friend's son, CEO level ambition, stealing fifty dollars)
 - joes-hacky-sack Joe's Hacky Sack Story (also: hacky sack story, Joe's hacky sacking, the hacky sack example, Joe's sensory processing, Joe and the hacky sack)
+- joes-pancake-anger-story Joe's Pancake Anger Story (That Was Some Pretty Good Anger, Dad) (also: the pancake story, pretty good anger Dad, Joe's kitchen anger, the cooking interruption story, the I'm angry I'm angry I'm angry story, Joe's daughter and the anger, spatula down anger story)
 - joes-pleasing-dad-money-story Joe's Pleasing-Dad Money Story (VC Career) (also: Joe's VC story, Joe's hammock realization, the multibillion sale story, Joe's money should, Joe's father should, creating great cultures want, Joe in El Salvador, the WhatsApp gut punch)
 - joes-pot-habit Joe's Pot Habit (also: pot smoking story, marijuana habit story, Joe's addiction story, pot habit in his twenties)
 - joes-weeping-at-superficial-conversations Joe Weeping at Superficial Conversations (also: weeping in superficial conversations, Joe crying about inane talk, Joe's superficiality story, 65 miles an hour Santa Barbara, Joe and the inane conversations)
@@ -319,11 +333,12 @@
 
 - authenticity-in-business Authenticity in Business (also: authentic business, authenticity in companies, authenticity at work, hooking into authentic drives, natural drives in business, company authenticity)
 - money-domain Money as a Coaching Domain (also: coaching about money, money work, money as the kinkiest thing, money shame, money pride, money topic)
+- no-doctrine-leadership The No Doctrine: Leading With the Truth Behind the Platitudes (also: no doctrine, lead with no, welcoming no, no as enabler, the no doctrine, lead with the no, skip the platitudes, platitude tax, what's after the but)
 - structure-and-empowerment Structure and Empowerment in Organizations (also: structure creates safety, org design empowerment, decentralized empowerment, structure for empowerment, roles and empowerment)
 - vulnerability-in-the-workplace Vulnerability in the Workplace (also: vulnerability at work, vulnerable leadership, authenticity in business, vulnerability and sales, brand authenticity, vulnerability in sales, vulnerability in leadership)
 - welcoming-fear-in-leadership Welcoming Fear in Leadership (also: welcoming fear at work, leader's relationship to fear, fear in teams, permissioning fear, naming fear with the team, CEO fear, welcoming team fear, fear and team trust, leader doesn't have to keep it all together, saying I'm scared at work)
 
 ---
 
-Absorb Progress: 32 / 480 transcripts
-Last absorbed: 2021-10-08_Embracing Intensity - Emotion Series #2 (2026-05-21)
+Absorb Progress: 34 / 480 transcripts
+Last absorbed: 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3 (2026-05-21)

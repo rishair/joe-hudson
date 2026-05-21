@@ -11,8 +11,10 @@
     "in-the-story-im-not-being-seen",
     "you-think-they-cant-handle-it",
     "what-if-you-acted-exactly-how-you-want",
+    "trappedness-feeling",
     "victim-stance-invites-abuse",
-    "visualizing-feared-outcomes"
+    "visualizing-feared-outcomes",
+    "joes-angry-executive-commute"
   ],
   "caring-vs-caretaking": [
     "i-caretake-people",
@@ -30,10 +32,12 @@
     "caretaking-prevents-the-bottom",
     "subjugation-prevents-healing",
     "what-is-truly-compassionate",
+    "anxiety-as-unarticulated-need",
     "visualizing-feared-outcomes",
     "fear-triangle",
     "four-faces-of-love",
     "hand-in-hand-parenting",
+    "no-doctrine-leadership",
     "vulnerability-in-the-workplace"
   ],
   "rehearsing-how-to-say-it": [
@@ -107,6 +111,7 @@
     "i-keep-crashing-and-burning",
     "i-need-to-improve-myself",
     "my-inner-critic-wont-stop",
+    "anger",
     "money-as-surrogate",
     "voice-in-the-head",
     "nervous-system-recovery-after-stress",
@@ -253,6 +258,7 @@
     "poverty-mentality",
     "projections",
     "the-want",
+    "trappedness-feeling",
     "voice-as-care",
     "voice-in-the-head",
     "complementary-trauma-surfaces",
@@ -342,6 +348,7 @@
     "enjoyment-as-path",
     "goal-beyond-the-goal",
     "marketing-as-the-beginning",
+    "public-failure-as-leadership-modeling",
     "subway-kid",
     "authenticity-in-business"
   ],
@@ -407,6 +414,7 @@
     "money-as-surrogate",
     "poverty-mentality",
     "projections",
+    "trappedness-feeling",
     "believing-the-convenient-lie",
     "complementary-trauma-surfaces",
     "negative-bias-of-trauma-imprinting",
@@ -419,6 +427,7 @@
     "i-keep-crashing-and-burning",
     "im-afraid-of-stagnating",
     "engineering-heartbreak-to-avoid-heartbreak",
+    "fear-of-self-destruction-by-anger",
     "impartiality",
     "kinked-emotions",
     "trauma-mapping",
@@ -521,6 +530,7 @@
     "joy-as-matriarch",
     "kinked-emotions",
     "letting-judgment-in",
+    "logic-vs-emotional-movement",
     "poverty-mentality",
     "projections",
     "resistance",
@@ -583,7 +593,8 @@
     "how-is-that-not-here-right-now",
     "what-if-there-is-no-finish-line",
     "engineering-heartbreak-to-avoid-heartbreak",
-    "undoing-not-doing"
+    "undoing-not-doing",
+    "disassociation-as-numbness-layer"
   ],
   "enjoy-over-manage": [
     "i-keep-crashing-and-burning",
@@ -655,11 +666,13 @@
     "how-do-you-want-to-be",
     "how-is-that-not-here-right-now",
     "what-if-there-is-no-finish-line",
+    "dont-should-yourself-to-welcome-anger",
     "loving-to-transform",
     "tools-to-change-not-love",
     "self-realization",
     "inherent-goodness",
     "nature-improves-itself",
+    "public-failure-as-leadership-modeling",
     "wanting-itself-not-what-you-want",
     "dont-improve-for-two-weeks",
     "seven-limiting-beliefs",
@@ -741,6 +754,7 @@
   "rebellion-or-submission-to-should": [
     "i-should-be-doing-this",
     "should-as-threat",
+    "trappedness-feeling",
     "find-the-want-behind-the-should"
   ],
   "the-want": [
@@ -789,6 +803,7 @@
   "should-as-threat": [
     "i-should-be-doing-this",
     "my-inner-critic-wont-stop",
+    "dont-should-yourself-to-welcome-anger",
     "untruth-in-every-thought",
     "voice-in-the-head",
     "impulse-to-should",
@@ -893,12 +908,16 @@
     "fear-vs-anxiety",
     "fear-vs-excitement",
     "fear-is-about-feeling",
+    "anxiety-as-unarticulated-need",
     "let-your-body-shake-it-out",
     "welcoming-fear-in-leadership"
   ],
   "welcoming-fear-in-leadership": [
     "im-not-an-anxious-person",
     "dont-step-on-the-signal",
+    "public-truth-bomb",
+    "public-failure-as-leadership-modeling",
+    "anxiety-as-unarticulated-need",
     "vulnerability-in-the-workplace"
   ],
   "unfelt-emotion-leaks": [
@@ -907,12 +926,24 @@
     "dont-step-on-the-signal",
     "emotions-as-road-signs",
     "feeling-the-unfelt-emotion",
+    "kinked-emotions",
     "disassociation-as-numbness-layer",
     "three-signals-of-unfelt-emotion",
     "feel-over-figure",
     "judgment-vs-discernment",
+    "passive-aggressive-vs-aggressive-aggressive",
     "dont-do-emotion-at-people",
-    "daily-emotional-yoga"
+    "daily-emotional-yoga",
+    "get-angry-in-the-car",
+    "joes-angry-executive-commute"
+  ],
+  "subjugation-prevents-healing": [
+    "im-not-an-anxious-person",
+    "cult-of-one",
+    "surrender-to-ineffable-vs-person",
+    "community-over-teacher",
+    "good-and-corruption-cycle",
+    "keeping-cult-dynamics-conscious"
   ],
   "fear-vs-anxiety": [
     "im-not-an-anxious-person",
@@ -921,6 +952,7 @@
     "feeling-the-unfelt-emotion",
     "disassociation-as-numbness-layer",
     "fear-is-about-feeling",
+    "anxiety-as-unarticulated-need",
     "let-your-body-shake-it-out",
     "welcoming-fear-in-leadership"
   ],
@@ -956,9 +988,11 @@
     "wants-vs-partiality",
     "acting-as-if-already-true",
     "feared-consequences-rarely-happen",
+    "public-failure-as-leadership-modeling",
     "trying-to-be-right-is-the-voice",
     "vulnerability-is-personal",
     "vulnerability-protects",
+    "anxiety-as-unarticulated-need",
     "whats-the-scary-truth",
     "conditions-for-transformation",
     "view",
@@ -969,7 +1003,8 @@
     "im-not-an-anxious-person",
     "how-do-you-want-to-be",
     "vulnerability",
-    "vulnerability-is-personal"
+    "vulnerability-is-personal",
+    "anxiety-as-unarticulated-need"
   ],
   "i-keep-crashing-and-burning": [
     "im-not-an-anxious-person",
@@ -1013,6 +1048,7 @@
     "trying-to-get-rid-of-the-emotion",
     "dont-name-emotion-to-avoid-feeling",
     "feeling-the-unfelt-emotion",
+    "logic-vs-emotional-movement",
     "wisdom-of-each-emotion",
     "observe-vs-move-emotion",
     "stages-of-emotional-development",
@@ -1172,6 +1208,7 @@
     "consciousness-is-the-product",
     "epiphany-becomes-rut",
     "marketing-as-the-beginning",
+    "public-failure-as-leadership-modeling",
     "voice-creates-what-it-fears",
     "seven-limiting-beliefs",
     "view",
@@ -1218,6 +1255,7 @@
   "binary-thinking-signals-fear": [
     "fight-or-roll-over-binary",
     "cult-of-one",
+    "trappedness-feeling",
     "untruth-in-every-thought",
     "three-signals-of-unfelt-emotion",
     "feel-over-figure",
@@ -1310,16 +1348,25 @@
     "embrace-intensity",
     "embracing-intensity-as-leading-indicator"
   ],
+  "public-truth-bomb": [
+    "are-you-bracing-or-embracing",
+    "embracing-intensity-as-leading-indicator",
+    "no-doctrine-leadership",
+    "vulnerability-in-the-workplace",
+    "welcoming-fear-in-leadership"
+  ],
   "daily-emotional-yoga": [
     "can-you-look-forward-to-feeling-it",
     "dont-name-emotion-to-avoid-feeling",
     "emotions-as-road-signs",
+    "fear-of-self-destruction-by-anger",
     "feeling-the-unfelt-emotion",
     "observe-vs-move-emotion",
     "repression-vs-management",
     "emotions-live-in-muscles",
     "negative-emotions-precede-positive",
     "feeling-the-want-as-emotion",
+    "get-angry-in-the-car",
     "let-your-body-shake-it-out",
     "stages-of-emotional-development",
     "cafe-emotional-stigma",
@@ -1396,7 +1443,11 @@
   ],
   "welcoming-the-others-emotion": [
     "what-would-happen-if-you-stopped",
+    "dont-should-yourself-to-welcome-anger",
+    "anger",
     "chase-it-around-the-room",
+    "invite-the-aggression-out",
+    "no-doctrine-leadership",
     "welcoming-fear-in-leadership"
   ],
   "caretaking-prevents-the-bottom": [
@@ -1475,8 +1526,10 @@
   ],
   "kinked-emotions": [
     "dont-name-emotion-to-avoid-feeling",
+    "anger",
     "emotional-fluidity",
     "emotions-as-road-signs",
+    "fear-of-self-destruction-by-anger",
     "feeling-the-unfelt-emotion",
     "joy-as-matriarch",
     "resistance",
@@ -1485,13 +1538,15 @@
     "treat-yourself-as-actor-of-emotion",
     "embrace-vs-brace",
     "fear-vs-excitement",
+    "passive-aggressive-vs-aggressive-aggressive",
     "emotions-live-in-muscles",
     "negative-emotions-precede-positive",
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
     "stages-of-emotional-development",
     "cafe-emotional-stigma",
-    "electric-fence-with-dog"
+    "electric-fence-with-dog",
+    "joes-pancake-anger-story"
   ],
   "epiphany-becomes-rut": [
     "dont-name-emotion-to-avoid-feeling",
@@ -1513,10 +1568,59 @@
     "conditions-for-transformation",
     "stages-of-emotional-development"
   ],
+  "anger": [
+    "dont-should-yourself-to-welcome-anger",
+    "fear-of-self-destruction-by-anger",
+    "logic-vs-emotional-movement",
+    "trappedness-feeling",
+    "unfelt-emotion-leaks",
+    "wisdom-of-each-emotion",
+    "invite-the-aggression-out",
+    "welcoming-the-others-emotion",
+    "passive-aggressive-vs-aggressive-aggressive",
+    "get-angry-in-the-car",
+    "joes-angry-executive-commute",
+    "joes-pancake-anger-story"
+  ],
+  "boundary-with-vs-boundary-against": [
+    "dont-should-yourself-to-welcome-anger",
+    "loving-to-transform",
+    "weaponized-not-caretaking",
+    "defense",
+    "love-as-deep-welcoming",
+    "upright-undefended-love",
+    "welcoming-the-others-emotion",
+    "caring-vs-caretaking",
+    "defense-vs-love",
+    "just-business-vs-impersonal",
+    "love-vs-nice",
+    "resentment-as-caretaking-diagnostic",
+    "withdrawal-with-vs-without-a-timeline",
+    "acceptance-as-change-strategy",
+    "caretaking-prevents-the-bottom",
+    "subjugation-prevents-healing",
+    "joes-board-member",
+    "no-doctrine-leadership"
+  ],
+  "get-angry-in-the-car": [
+    "dont-should-yourself-to-welcome-anger",
+    "anger",
+    "fear-of-self-destruction-by-anger",
+    "logic-vs-emotional-movement",
+    "trappedness-feeling",
+    "unfelt-emotion-leaks",
+    "welcoming-the-others-emotion",
+    "passive-aggressive-vs-aggressive-aggressive",
+    "withdrawal-with-vs-without-a-timeline",
+    "dont-do-emotion-at-people",
+    "joes-angry-executive-commute",
+    "joes-pancake-anger-story"
+  ],
   "im-not-an-anxious-person": [
     "dont-step-on-the-signal",
     "fear-as-signal-of-care",
     "disassociation-as-numbness-layer",
+    "public-truth-bomb",
     "fear-vs-anxiety",
     "welcoming-fear-in-leadership"
   ],
@@ -1558,23 +1662,6 @@
     "acceptance-as-change-strategy",
     "falling-in-love-with-projections",
     "honor-the-patterns-intent"
-  ],
-  "boundary-with-vs-boundary-against": [
-    "loving-to-transform",
-    "weaponized-not-caretaking",
-    "defense",
-    "love-as-deep-welcoming",
-    "upright-undefended-love",
-    "welcoming-the-others-emotion",
-    "caring-vs-caretaking",
-    "defense-vs-love",
-    "just-business-vs-impersonal",
-    "love-vs-nice",
-    "resentment-as-caretaking-diagnostic",
-    "acceptance-as-change-strategy",
-    "caretaking-prevents-the-bottom",
-    "subjugation-prevents-healing",
-    "joes-board-member"
   ],
   "love-as-deep-welcoming": [
     "loving-to-transform",
@@ -1706,13 +1793,49 @@
     "vulnerability",
     "vulnerability-vs-weakness",
     "dont-do-emotion-at-people",
-    "good-and-corruption-cycle"
+    "good-and-corruption-cycle",
+    "public-failure-as-leadership-modeling"
   ],
   "spiritual-narcissism": [
     "weaponized-not-caretaking",
     "good-and-corruption-cycle",
     "selfishness-is-the-engine-of-unity",
     "what-is-truly-compassionate"
+  ],
+  "dont-do-emotion-at-people": [
+    "anger",
+    "unfelt-emotion-leaks",
+    "treat-yourself-as-actor-of-emotion",
+    "boundary-with-vs-boundary-against",
+    "withdrawal-with-vs-without-a-timeline",
+    "hardening-means-personal",
+    "daily-emotional-yoga",
+    "get-angry-in-the-car",
+    "stages-of-emotional-development",
+    "joes-pancake-anger-story"
+  ],
+  "trappedness-feeling": [
+    "anger",
+    "logic-vs-emotional-movement",
+    "wisdom-of-each-emotion"
+  ],
+  "logic-vs-emotional-movement": [
+    "anger",
+    "wisdom-of-each-emotion"
+  ],
+  "joes-angry-executive-commute": [
+    "anger",
+    "unfelt-emotion-leaks",
+    "get-angry-in-the-car"
+  ],
+  "fear-of-self-destruction-by-anger": [
+    "anger"
+  ],
+  "wisdom-of-each-emotion": [
+    "anger",
+    "emotional-fluidity",
+    "fear-as-signal-of-care",
+    "joes-pancake-anger-story"
   ],
   "intention-vs-goal": [
     "art-of-accomplishment",
@@ -1752,13 +1875,6 @@
     "community-over-teacher",
     "subjugation-prevents-healing"
   ],
-  "subjugation-prevents-healing": [
-    "cult-of-one",
-    "surrender-to-ineffable-vs-person",
-    "community-over-teacher",
-    "good-and-corruption-cycle",
-    "keeping-cult-dynamics-conscious"
-  ],
   "examples/joes-board-member": [
     "defense",
     "love-requires-empowerment",
@@ -1788,10 +1904,6 @@
     "defense-vs-love",
     "conditions-for-transformation"
   ],
-  "wisdom-of-each-emotion": [
-    "emotional-fluidity",
-    "fear-as-signal-of-care"
-  ],
   "decisions-are-emotional": [
     "emotions-as-road-signs",
     "empathy",
@@ -1807,6 +1919,7 @@
     "fear-as-signal-of-care",
     "feeling-the-unfelt-emotion",
     "i-cant-trust-my-thoughts-right-now",
+    "logic-vs-emotional-movement",
     "unfelt-emotion-leaks",
     "binary-thinking-signals-fear",
     "three-signals-of-unfelt-emotion",
@@ -1832,12 +1945,14 @@
     "loving-all-parts",
     "trauma-mapping",
     "excavating-the-inner-critic-in-group",
+    "public-truth-bomb",
     "managing-vs-healing-trauma",
     "subjugation-prevents-healing",
     "trauma-heals-in-relationship"
   ],
   "treat-yourself-as-actor-of-emotion": [
     "feeling-the-unfelt-emotion",
+    "logic-vs-emotional-movement",
     "chase-it-around-the-room"
   ],
   "grief-as-gateway-to-self-love": [
@@ -1869,9 +1984,12 @@
   ],
   "trace-emotion-to-its-first-felt": [
     "i-cant-trust-my-thoughts-right-now",
+    "trappedness-feeling",
     "trauma-mapping",
     "childhood-imprinting",
-    "reframe-boss-as-customer"
+    "reframe-boss-as-customer",
+    "anxiety-as-unarticulated-need",
+    "welcoming-fear-in-leadership"
   ],
   "owning-your-partiality": [
     "impartiality",
@@ -1916,6 +2034,15 @@
     "embrace-vs-brace",
     "embrace-intensity"
   ],
+  "joes-pancake-anger-story": [
+    "kinked-emotions",
+    "logic-vs-emotional-movement"
+  ],
+  "passive-aggressive-vs-aggressive-aggressive": [
+    "kinked-emotions",
+    "unfelt-emotion-leaks",
+    "invite-the-aggression-out"
+  ],
   "heartbreak-as-capacity-expansion": [
     "letting-judgment-in",
     "love-as-deep-welcoming",
@@ -1931,8 +2058,10 @@
   ],
   "love-vs-nice": [
     "love-as-deep-welcoming",
+    "public-truth-bomb",
     "what-is-truly-compassionate",
-    "alex-bell-told-joe-he-lied"
+    "alex-bell-told-joe-he-lied",
+    "no-doctrine-leadership"
   ],
   "VIEW": [
     "love-as-deep-welcoming",
@@ -2056,14 +2185,6 @@
     "decisions-are-emotional",
     "joes-weeping-at-superficial-conversations"
   ],
-  "dont-do-emotion-at-people": [
-    "unfelt-emotion-leaks",
-    "treat-yourself-as-actor-of-emotion",
-    "boundary-with-vs-boundary-against",
-    "hardening-means-personal",
-    "daily-emotional-yoga",
-    "stages-of-emotional-development"
-  ],
   "believing-the-convenient-lie": [
     "untruth-in-every-thought"
   ],
@@ -2072,8 +2193,11 @@
   ],
   "vulnerability-in-the-workplace": [
     "vulnerability",
+    "public-truth-bomb",
     "consciousness-is-the-product",
+    "public-failure-as-leadership-modeling",
     "authenticity-in-business",
+    "no-doctrine-leadership",
     "structure-and-empowerment",
     "welcoming-fear-in-leadership"
   ],
@@ -2122,6 +2246,12 @@
     "listening-to-impulse",
     "seven-limiting-beliefs"
   ],
+  "are-you-bracing-or-embracing": [
+    "public-truth-bomb",
+    "embrace-vs-brace",
+    "embrace-intensity",
+    "embracing-intensity-as-leading-indicator"
+  ],
   "structure-and-empowerment": [
     "reframe-boss-as-customer",
     "principles-free-you",
@@ -2130,15 +2260,17 @@
     "authenticity-in-business",
     "vulnerability-in-the-workplace"
   ],
+  "invite-the-aggression-out": [
+    "welcoming-the-others-emotion",
+    "passive-aggressive-vs-aggressive-aggressive"
+  ],
+  "dont-should-yourself-to-welcome-anger": [
+    "welcoming-the-others-emotion"
+  ],
   "three-ways-to-fire-someone": [
     "caring-vs-caretaking",
     "just-business-vs-impersonal",
     "money-domain"
-  ],
-  "are-you-bracing-or-embracing": [
-    "embrace-vs-brace",
-    "embrace-intensity",
-    "embracing-intensity-as-leading-indicator"
   ],
   "embracing-vs-creating-intensity": [
     "embrace-vs-brace",
@@ -2158,6 +2290,10 @@
     "process-over-result",
     "wanting-itself-not-what-you-want",
     "structure-and-empowerment"
+  ],
+  "anxiety-as-unarticulated-need": [
+    "fear-vs-excitement",
+    "welcoming-fear-in-leadership"
   ],
   "joes-hacky-sack": [
     "improvement-vs-authenticity",
@@ -2224,6 +2360,10 @@
   ],
   "michelangelo-sistine-chapel": [
     "constraints-increase-creativity"
+  ],
+  "withdrawal-with-vs-without-a-timeline": [
+    "dont-do-emotion-at-people",
+    "get-angry-in-the-car"
   ],
   "butchers-blade": [
     "efficiency-as-enjoyment"
@@ -2297,5 +2437,15 @@
   ],
   "money-must-flow": [
     "money-domain"
+  ],
+  "follow-the-demand": [
+    "no-doctrine-leadership"
+  ],
+  "public-failure-as-leadership-modeling": [
+    "vulnerability-in-the-workplace",
+    "welcoming-fear-in-leadership"
+  ],
+  "no-doctrine-leadership": [
+    "vulnerability-in-the-workplace"
   ]
 }

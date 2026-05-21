@@ -2,10 +2,10 @@
 type: pattern
 id: disassociation-as-numbness-layer
 title: "Disassociation as the Numbness Layer Before Fear"
-aliases: ["dissociation before fear", "the numbness layer", "feel the numbness first", "shutdown before anxiety", "the body shuts down anxiety", "numbness as gateway", "dissociation as protection", "patterned numbness"]
+aliases: ["dissociation before fear", "the numbness layer", "feel the numbness first", "shutdown before anxiety", "the body shuts down anxiety", "numbness as gateway", "dissociation as protection", "patterned numbness", "tightrope without a net", "no somatic feeling"]
 tags: ["dissociation", "numbness", "fear", "anxiety", "body", "trauma", "patterns"]
 related: ["fear-as-signal-of-care", "fear-vs-anxiety", "feeling-the-unfelt-emotion", "defense", "im-not-an-anxious-person", "staying-in-your-body"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
 ---
 
 # Disassociation as the Numbness Layer Before Fear
@@ -52,6 +52,30 @@ When the person turns attention toward the numbness with care rather than impati
 
 The sequence cannot be rushed. Trying to jump from numbness to specific fear collapses the access. The body shuts down again.
 
+## The Internal Image: Tightrope Without a Net
+
+People living inside this pattern often have an inner image that captures the felt configuration even when they have no felt charge to point to. The image is usually a tension under control -- something taut, narrow, requiring perfect performance, with no margin.
+
+Ant Taylor's pre-shift image:
+
+"I've described it as feeling like I was constantly sprinting across a tightrope, destined to fall. Like, you can't sprint across a tightrope. Something -- the wind could be off, you lose focus. But there was this constantly, this notion of like, I'm going to sprint across this tightrope. As long as I don't look back and as long as I don't acknowledge there's no net below me, I have the best chance at getting within distance to leap out and grab the ledge on the other side." -- Ant Taylor, Embracing Emotions
+
+The image carries several diagnostic features:
+
+- Sprinting, not walking. The pace is unsustainable and the person knows it.
+- The certainty of falling. The fall is not maybe; it is when.
+- The refusal to look back or look down. The avoidance is the strategy.
+- The ledge on the other side. There is a fantasized arrival point that the sprint is heading toward, which never actually arrives. See [[no-finish-line]].
+- No net. The image discloses what the person believes about safety. There is no one and nothing that will catch them.
+
+When this image (or one like it) is the inner architecture, the numbness is doing the load-bearing work of allowing the sprint to continue. Asking the person to feel is asking them to look down. The numbness will resist this directly. The work has to honor the function the numbness has been serving.
+
+The companion confession from Ant about the somatic flatness:
+
+"The somatic feeling -- well, at the time there was no somatic feeling. Let's just put that, make that very clear." -- Ant Taylor, Embracing Emotions
+
+The absence is not registered as an absence. It is registered as how things are. This is the central feature of the pattern. The person does not know they are not feeling because the not-feeling is the default ground.
+
 ## How to Read This Pattern
 
 Signs that disassociation is operating rather than calm:
@@ -97,3 +121,4 @@ See [[staying-in-your-body]] for the broader practice of using the body as the l
 ## Sources
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2021-10-15_Ant Taylor on Embracing Emotions

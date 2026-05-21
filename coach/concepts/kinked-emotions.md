@@ -4,8 +4,8 @@ id: kinked-emotions
 title: "Kinked Emotions (The Garden Hose)"
 aliases: ["garden hose metaphor", "kinks in the garden hose", "constricted emotion", "anger as garden hose", "the kinked emotion", "emotion under pressure", "what people call the emotion is the kink"]
 tags: ["emotions", "resistance", "anger", "metaphor", "core mechanism"]
-related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement", "stages-of-emotional-development", "what-we-fear-we-invite"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development"]
+related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement", "stages-of-emotional-development", "what-we-fear-we-invite", "anger", "passive-aggressive-vs-aggressive-aggressive", "fear-of-self-destruction-by-anger"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
 ---
 
 # Kinked Emotions (The Garden Hose)
@@ -22,7 +22,7 @@ What people mistake for "the emotion" is usually the kink, not the water. The de
 
 When the kink is released, each emotion shows its actual nature:
 
-- **Unkinked anger** is the anger of Gandhi or Martin Luther King. Clear, determined, "we will not put up with this, we will be equal."
+- **Unkinked anger** is the anger of Gandhi or Martin Luther King. Clear, determined, "we will not put up with this, we will be equal." It can also be Joe's pancake-kitchen anger: putting down the spatula, jumping up and down, "I'm angry, I'm angry, I'm angry" -- brief, physical, not aimed at anyone, followed by clarity. See [[joes-pancake-anger-story]] for the concrete example of unkinked anger in domestic life. Joe's daughter, 11 at the time, named it: "That was some pretty good anger, Dad."
 - **Unkinked sadness** is a deep joy. The deepest sadness, fully felt, contains grief, gratitude, and love simultaneously.
 - **Unkinked fear** is excitement. See [[fear-vs-excitement]].
 - **Unkinked grief** is anger, sadness, and fear all wrapped up together. Felt fully, it becomes one fluid emotional state.
@@ -33,8 +33,10 @@ When the kink is released, each emotion shows its actual nature:
 
 The kinks vary by person and by emotion. Common kinks for anger:
 - **Denial:** "No, I'm not angry."
-- **Passive aggression:** "Oh yeah, that's fine. I mean, if you're going to be a prick."
+- **Passive aggression:** "Oh yeah, that's fine. I mean, if you're going to be a prick." Passive aggression often hides inside safety-language or process-concerns: "I don't feel safe with this," "we didn't make introductions." See [[passive-aggressive-vs-aggressive-aggressive]] for the distinction and the move for inviting the aggression into direct form.
 - **Explosion:** "You son of a blah blah blah."
+
+People who learned that direct anger was dangerous as children often develop the passive-aggressive kink as the default form. Both forms are anger leaking sideways. See [[unfelt-emotion-leaks]].
 
 Common kinks for sadness:
 - **Depression:** sustained low-grade flatness.
@@ -113,3 +115,4 @@ Concrete, accessible. The garden hose is a friendly image, not a clinical metaph
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-09-24_Stages of Emotional Development
+- 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3

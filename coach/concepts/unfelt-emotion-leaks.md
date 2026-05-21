@@ -4,8 +4,8 @@ id: unfelt-emotion-leaks
 title: "Unfelt Emotion Leaks"
 aliases: ["unfelt emotion comes out sideways", "the leak", "emotion you don't feel comes out at others", "anger at someone is unfelt anger", "leakage", "emotion has to go somewhere"]
 tags: ["emotions", "expression", "leakage", "relationships", "core mechanism"]
-related: ["dont-do-emotion-at-people", "feeling-the-unfelt-emotion", "kinked-emotions", "feel-over-figure", "judgment-vs-discernment"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["dont-do-emotion-at-people", "feeling-the-unfelt-emotion", "kinked-emotions", "feel-over-figure", "judgment-vs-discernment", "get-angry-in-the-car", "joes-angry-executive-commute", "passive-aggressive-vs-aggressive-aggressive", "anger"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
 ---
 
 # Unfelt Emotion Leaks
@@ -48,16 +48,27 @@ The leak stops when the emotion is allowed earlier in its lifecycle. By yourself
 
 The action that follows the released emotion comes from what you want, not from the discharge of unfelt accumulation. This is the foundation of [[dont-do-emotion-at-people]].
 
+The leak is also what makes the [[get-angry-in-the-car]] practice work. A daily channel for anger release means the anger has somewhere to go that is not the partner, the child, or the colleague. Joe describes an executive client whose nightly anger release in her car shifted her from victim-stance to empowerment in 2-3 weeks. The mechanism was the same: the accumulated anger had been leaking as disempowerment and depression. Releasing it nightly removed the held charge. See [[joes-angry-executive-commute]].
+
+## The Leak as Disempowerment
+
+One under-recognized form of the leak: it does not always leak at others. Sometimes it leaks inward as flatness, depression, and the sense of being unable to make the moves you want to make. The unfelt anger weighs the system down. The disempowerment is the felt evidence of held anger.
+
+"Because we don't have access to that beautiful energy of anger in a way that's healthy and loving, we'll suffer depression because of it. And we'll feel like we're, like we can't make the moves that we wanna make. We'll feel disempowered." -- Joe Hudson, The Wisdom of Anger
+
+When the chronic state is low-grade depression and external life is fine, held anger is one of the main diagnostics. See [[anger]] and [[get-angry-in-the-car]].
+
 ## Subtle Forms of the Leak
 
 The leak is not always a shout. It includes:
-- **Passive aggression:** "If you're going to be a prick."
+- **Passive aggression:** "If you're going to be a prick." Often wrapped in safety or process language: "I don't feel safe with this," "we didn't make introductions." See [[passive-aggressive-vs-aggressive-aggressive]].
 - **Cold withdrawal:** going silent as a punishment.
 - **Strategic sadness:** producing sadness in front of someone to elicit a behavior change.
 - **Persistent judgment:** a sustained negative read on someone whose presence somehow disturbs you.
 - **Recursive complaint:** retelling the same grievance to many listeners.
+- **Disempowerment:** chronic flatness and the felt inability to make the moves you want.
 
-Each is a kink with an audience. See [[kinked-emotions]].
+Each is a kink with an audience or no audience at all. See [[kinked-emotions]].
 
 ## Why People Resist This Diagnosis
 
@@ -85,3 +96,4 @@ Direct, sometimes humorous. Joe holds this as just-how-it-works rather than as a
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3

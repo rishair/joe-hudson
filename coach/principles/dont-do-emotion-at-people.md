@@ -4,8 +4,8 @@ id: dont-do-emotion-at-people
 title: "Don't Do Emotion At People"
 aliases: ["don't do anger at people", "don't do sadness at people", "emotion at someone is emotional abuse", "release first then talk", "don't aim emotion", "emotion as manipulation"]
 tags: ["emotions", "anger", "sadness", "boundary", "abuse", "expression"]
-related: ["unfelt-emotion-leaks", "kinked-emotions", "feeling-the-unfelt-emotion", "feel-over-figure", "vulnerability-as-control"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["unfelt-emotion-leaks", "kinked-emotions", "feeling-the-unfelt-emotion", "feel-over-figure", "vulnerability-as-control", "anger", "get-angry-in-the-car", "withdrawal-with-vs-without-a-timeline"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
 ---
 
 # Don't Do Emotion At People
@@ -59,6 +59,12 @@ This is not "do not feel your feelings." It is the opposite. Feel them more. Fee
 
 "The reason that somebody gets angry at somebody else is because they haven't gotten angry by themselves. They haven't -- it takes them a while to build that kind of anger. There's lots of time before that that you can release it." -- Joe Hudson, Feel over Figure
 
+The companion practice is [[get-angry-in-the-car]]: a dedicated, private, regular outlet for anger that is not directed at anyone. The car works because most adults are already alone in a car for predictable stretches. The beach works. The woods work. The form is flexible; the constraint is constant: not at a person.
+
+"That's just resisted anger. We're talking about loving your anger. We're talking about letting it move, letting it get out. We're talking about learning to have anger unresisted instead of being lost in your anger." -- Joe Hudson, The Wisdom of Anger
+
+When the practice requires leaving the house mid-conflict to release the anger, the language matters. See [[withdrawal-with-vs-without-a-timeline]]: the timeline ("I'll be back in 20 minutes") is what makes the leaving land as self-care rather than as abandonment.
+
 ## Tone
 
 Firm and clear. This is one of the few places where Joe uses absolute language. Emotional abuse is named as emotional abuse. Not minimized as "suboptimal communication." Not softened as "what we all do sometimes." Named.
@@ -80,3 +86,4 @@ Firm and clear. This is one of the few places where Joe uses absolute language. 
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3

@@ -4,8 +4,8 @@ id: welcoming-fear-in-leadership
 title: "Welcoming Fear in Leadership"
 aliases: ["welcoming fear at work", "leader's relationship to fear", "fear in teams", "permissioning fear", "naming fear with the team", "CEO fear", "welcoming team fear", "fear and team trust", "leader doesn't have to keep it all together", "saying I'm scared at work"]
 tags: ["leadership", "fear", "teams", "vulnerability", "business", "CEO", "trust", "application"]
-related: ["fear-as-signal-of-care", "dont-step-on-the-signal", "vulnerability-in-the-workplace", "welcoming-the-others-emotion", "im-not-an-anxious-person", "disassociation-as-numbness-layer", "fear-vs-anxiety", "vulnerability"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+related: ["fear-as-signal-of-care", "dont-step-on-the-signal", "vulnerability-in-the-workplace", "welcoming-the-others-emotion", "im-not-an-anxious-person", "disassociation-as-numbness-layer", "fear-vs-anxiety", "vulnerability", "public-truth-bomb", "anxiety-as-unarticulated-need", "public-failure-as-leadership-modeling", "trace-emotion-to-its-first-felt"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
 ---
 
 # Welcoming Fear in Leadership
@@ -87,6 +87,48 @@ This is why leadership development that focuses only on external skills (giving 
 
 The internal work: feel the numbness, let the anxiety differentiate, hear what the specific fears are signaling about what is cared for and what is threatened, and ask for what is needed. See [[fear-as-signal-of-care]], [[fear-vs-anxiety]], [[disassociation-as-numbness-layer]].
 
+The diagnostic that follows the internal work: when anxiety arises, ask what need has not been articulated or what boundary has not been set. The anxiety is usually pointing at an unmade request. See [[anxiety-as-unarticulated-need]] for the daily practice. The leader who learns this decoding stops treating their anxiety as a personal failing and starts treating it as operational data about what the work needs.
+
+## The Recipient's-Eye View: From Avoider Impresario to Felt Fear
+
+Ant Taylor, CEO of Light, describes his pre-work state as the textbook version of the suppressing leader:
+
+"I was like a Class A avoider, avoider impresario, like I could just all sorts of tactics to get away from feeling for much of my life." -- Ant Taylor, Embracing Emotions
+
+The internal state was constant low-grade anxiety, but with no felt signal -- "the somatic feeling -- well, at the time there was no somatic feeling. Let's just put that, make that very clear." The metaphor he used for the felt experience underneath: sprinting across a tightrope, certain he would fall, refusing to look down.
+
+The shift that opened access to the felt fear was a single public moment in which Joe named the dynamic in front of the executive team. See [[public-truth-bomb]] for the move. After that opening, Ant describes the felt experience of fear as a present-tense companion rather than a denied background:
+
+"Now when I feel the anxiety, I feel the anxiety, I name it. My hack is to name it to my team, and then to find the need." -- Ant Taylor, Embracing Emotions
+
+The fear became operational. It was no longer something to outrun; it was a signal to read. The team-level effect followed.
+
+## The Stress-to-Old-Emotion Decoding
+
+A specific form of the welcoming work: when stress shows up disproportionate to the circumstances, it is often an old emotion surfacing in present-tense circumstances. The leader's relief depends on letting the old emotion be felt rather than continuing to treat the stress as a current problem to solve.
+
+Ant describes calling Joe after a difficult firing:
+
+"I called Joe right after, and I said, I'm feeling super stressed, super anxious, and like my life's gonna end. What the fuck? And he said, sit down for a second, close your eyes. What comes up?" -- Joe Hudson, recounted by Ant Taylor, Embracing Emotions
+
+What came up was old material. A young version of Ant, terrified. The conversation that followed was not about the firing. It was about the young version. Once the young one was met -- "I basically told him to fuck off, go outside and play" -- the stress decoded into a sequence: stress melted into fear, fear melted into terror, terror melted into release, release became joy, and the released energy returned as creative capacity.
+
+The sequence Ant names:
+
+"It was like at a cellular level, it felt like that stress had melted into fear, terror had melted into just release, and then the joy came in. And then it was like an intense body high, and I could almost feel my body like in that energy release moment, not like a sigh, like something had collided and now the energy was flowing back out of me, ready to be creative, ready to build connection, ready for the next thing." -- Ant Taylor, Embracing Emotions
+
+The leader who learns this decoding stops being trapped in stress as a binary state ("I am stressed, I have to manage it"). Stress becomes a doorway. The doorway opens to old material. The old material, met, releases energy that becomes available for the next thing. See [[trace-emotion-to-its-first-felt]] for the underlying practice and [[fear-vs-anxiety]] for the differentiation pattern.
+
+## Public Failure as Part of the Welcoming
+
+A specific high-leverage practice within welcoming fear: the leader lets the team watch them struggle in real time rather than performing competence. The struggle itself is part of what produces the team's permission to feel and express fear.
+
+Ant describes letting his exec team watch him fail for three hours on an assessment exercise:
+
+"This would have been a mortifying discovery for me, greater than 12 months ago, to realize that I was the problem in the room. But now, 12 months on, it actually became a super intense moment where my team got to watch me fail over and over and over again for 3 hours until I had that breakthrough. And there's no way I can simulate that for them." -- Ant Taylor, Embracing Emotions
+
+The transmission goes through the public reality of the struggle. The team learns that confusion, fumbling, and not-yet-knowing are part of the work, because they saw the leader inhabit those states. See [[public-failure-as-leadership-modeling]] for the full treatment.
+
 ## The Caretaking Trap
 
 A common error in leadership: treating the team's fear as something to caretake rather than to welcome. The leader hears "I'm worried about timeline" and tries to make the worry go away through reassurance, problem-solving on their behalf, or emotional smoothing.
@@ -136,3 +178,4 @@ When a leader makes this shift, the person-level changes show up first:
 ## Sources
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2021-10-15_Ant Taylor on Embracing Emotions

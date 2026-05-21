@@ -4,8 +4,8 @@ id: welcoming-the-others-emotion
 title: "Welcoming the Other's Difficult Emotion"
 aliases: ["tell me how angry you are", "I can accept your anger", "I welcome your sadness", "the anti-caretaking welcoming move", "yeah baby give me your anger", "let them have it"]
 tags: ["caretaking", "anger", "welcoming", "boundaries", "emotions", "move"]
-related: ["caring-vs-caretaking", "love-as-deep-welcoming", "empathy", "boundary-with-vs-boundary-against", "feeling-the-unfelt-emotion", "embrace-intensity"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+related: ["caring-vs-caretaking", "love-as-deep-welcoming", "empathy", "boundary-with-vs-boundary-against", "feeling-the-unfelt-emotion", "embrace-intensity", "anger", "invite-the-aggression-out", "dont-should-yourself-to-welcome-anger", "passive-aggressive-vs-aggressive-aggressive"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
 ---
 
 # Welcoming the Other's Difficult Emotion
@@ -109,6 +109,25 @@ When Joe describes this move he sometimes uses the hyperbolic, almost playful fo
 
 The student should not perform the playful tone if it is not authentic. The authentic welcoming might be quiet. The marker is that it is real, not its decibel level.
 
+## In Workshop and Group Settings
+
+Joe describes the same move in his early workshop years. When someone in a workshop was openly angry, the move was easy and reliable:
+
+"I was really good when somebody was just like outright angry. They'd be like, 'Da da da da da.' And I'd be like, 'Yeah, tell me about it.' Like, please, I want to hear it. What's the wisdom in your anger? What do you care about that's making you like this? Like, I want to respect that. And they get angry, and then they would see that they were met, and like, it would all be done." -- Joe Hudson, The Wisdom of Anger
+
+The questions inside the welcoming are specific: "What's the wisdom in your anger? What do you care about that's making you like this?" These pull the conversation directly into [[anger]]'s three indicators rather than getting stuck on the surface content of the complaint. The angry person feels respected, not handled.
+
+The harder case in group settings was the passive-aggressive form -- aggression wrapped in safety-language or process-concerns. The welcoming move does not directly work because the aggression is denied by the form. The companion move there is [[invite-the-aggression-out]]: ask the person to express it directly, as an experiment.
+
+## Critical Caveat: Don't Force This Capacity
+
+This move requires real capacity. Trying to perform the welcoming when the system cannot actually hold the other person's anger is one of the most dangerous misuses of the teaching. The body goes into freeze. The welcome becomes inauthentic. The dynamic gets worse.
+
+"I think it's most dangerous if someone's like, okay, I should be good with other people's anger. You shouldn't. You either are or you're not. And if you're not, take care of yourself. And if you are, great, lean in." -- Joe Hudson, The Wisdom of Anger
+
+The capacity to welcome others' anger develops as the byproduct of loving your own anger, not as a skill applied through will. See [[dont-should-yourself-to-welcome-anger]] for the full anti-pattern, and [[get-angry-in-the-car]] for the underlying practice that builds the capacity.
+
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3

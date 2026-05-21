@@ -778,8 +778,58 @@
     },
     {
       "folder": "2021-10-15_Ant Taylor on Embracing Emotions",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T21:11:54Z",
+      "articles_created": [
+        "public-truth-bomb",
+        "anxiety-as-unarticulated-need",
+        "public-failure-as-leadership-modeling",
+        "no-doctrine-leadership"
+      ],
+      "articles_updated": [
+        "welcoming-fear-in-leadership",
+        "vulnerability-in-the-workplace",
+        "embracing-intensity-as-leading-indicator",
+        "fear-vs-excitement",
+        "voice-as-care",
+        "im-not-an-anxious-person",
+        "disassociation-as-numbness-layer",
+        "are-you-bracing-or-embracing"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-21T21:22:14Z"
+    },
+    {
+      "folder": "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3",
+      "status": "complete",
+      "claimed_at": "2026-05-21T21:23:08Z",
+      "articles_created": [
+        "anger",
+        "trappedness-feeling",
+        "fear-of-self-destruction-by-anger",
+        "get-angry-in-the-car",
+        "withdrawal-with-vs-without-a-timeline",
+        "passive-aggressive-vs-aggressive-aggressive",
+        "invite-the-aggression-out",
+        "dont-should-yourself-to-welcome-anger",
+        "joes-pancake-anger-story",
+        "joes-angry-executive-commute",
+        "logic-vs-emotional-movement"
+      ],
+      "articles_updated": [
+        "wisdom-of-each-emotion",
+        "kinked-emotions",
+        "unfelt-emotion-leaks",
+        "dont-do-emotion-at-people",
+        "welcoming-the-others-emotion"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T21:35:30Z"
+    },
+    {
+      "folder": "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T21:36:38Z",
       "articles_created": [],
       "articles_updated": []
     }

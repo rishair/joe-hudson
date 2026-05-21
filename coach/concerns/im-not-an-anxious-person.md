@@ -2,9 +2,9 @@
 type: concern
 id: im-not-an-anxious-person
 title: "I'm not an anxious person / I don't really get scared"
-aliases: ["I don't have anxiety", "I'm not afraid", "I'm not a fearful person", "I'm pretty brave", "I'm not scared", "I handle fear well", "I'm courageous", "fear doesn't really get to me", "the fearless self-concept"]
+aliases: ["I don't have anxiety", "I'm not afraid", "I'm not a fearful person", "I'm pretty brave", "I'm not scared", "I handle fear well", "I'm courageous", "fear doesn't really get to me", "the fearless self-concept", "Class A avoider", "avoider impresario", "high-functioning anxious denier"]
 tags: ["fear", "anxiety", "self-concept", "denial", "identity"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
 ---
 
 # I'm not an anxious person / I don't really get scared
@@ -63,6 +63,43 @@ Two people can present this concern and Joe goes different directions based on w
 
 - If the person treats anxiety in others as a weakness or character flaw: Joe will name this judgment as data. The judgment of anxiety in others is reliably the avoidance of anxiety in self. See [[unfelt-emotion-leaks]] and the judgment-as-leak diagnostic.
 
+## The High-Functioning Variant: "Class A Avoider Impresario"
+
+A distinct subtype: the person who acknowledges, in retrospect, that they were running massive avoidance, but whose pre-shift identity was built around being too capable and too productive to be running on fear. The capability was real. The fear was also real. The denial was specifically of the inner life, not of the outer performance.
+
+Ant Taylor's pre-work self-description:
+
+"I was like a Class A avoider, avoider impresario, like I could just all sorts of tactics to get away from feeling for much of my life." -- Ant Taylor, Embracing Emotions
+
+The high-functioning version often presents with:
+
+- High achievement and high anxiety, treated as a package deal that comes with success.
+- A felt sense Ant describes as "sprinting across a tightrope, destined to fall... as long as I don't look back and as long as I don't acknowledge there's no net below me, I have the best chance at getting within distance to leap out and grab the ledge on the other side."
+- A symptom Ant called "the dream where you're running and you can't make yourself run faster" -- a slow burn of anxiety underneath sustained achievement.
+- The complete absence of somatic awareness, often unrecognized as an absence until something opens it. "At the time there was no somatic feeling. Let's just put that, make that very clear."
+- Exhaustion in the organization or relationships around them, mirroring the unfelt internal exhaustion.
+
+The presenting concern is usually not the anxiety. It is one of the downstream effects: feeling stuck despite achievement, hitting a ceiling that cannot be named, exhausted teams, glass-ceiling reports, or a sense that "the wins come too easy" while everything else is grindingly hard. The fearless self-concept and the avoidance are operating in the background, framing the presenting problem in a way that prevents its actual cause from being seen.
+
+## The Cultural-Lineage Variant
+
+For some people, the fearless self-concept is reinforced by inherited cultural or family scripts about what it took to survive and succeed. The denial of fear is not just personal protection; it is the legacy of generations who could not afford to feel.
+
+Ant on his own lineage:
+
+"My father's family came from Eastern Texas in the time of the Great Migration, and we never really talked about it frankly as a family, but my father was African American and we were all coming out of the South at a time when racial terrorism was if not legal, then the law looked the other way on. And so there's that feeling when I talk about sort of sprinting across the tightrope. There was also a feeling that I think I learned in childhood around just working your ass off to get to a better place than the folks before you, and that you stood on their shoulders to do that. And that meant, in some cases subjugating your emotions, and looking normal, showing up whatever normal is." -- Ant Taylor, Embracing Emotions
+
+The features of the cultural-lineage variant:
+
+- "Showing up normal" was an inherited safety strategy that protected previous generations from real danger.
+- The emotional suppression was the cost of standing on the shoulders of those who came before.
+- The work ethic itself is fused with the suppression; loosening the suppression can feel like a betrayal of the people whose sacrifices made the current life possible.
+- The fearless self-concept does not feel like a personal choice. It feels like the only way forward that the lineage offers.
+
+The coaching does not undo the lineage. It allows the person to honor what the lineage was protecting against while updating which parts of the strategy still apply to current conditions. The work is to feel what could not be felt by the previous generations -- not because they were wrong to suppress, but because the conditions have changed enough that the next generation can metabolize what the previous ones could not.
+
+This connects to [[subjugation-prevents-healing]] (Joe's principle that self-sacrifice for group survival is not healing). The lineage strategy was self-sacrifice for group survival. The current opportunity is to keep what the strategy preserved (the work ethic, the standing-on-shoulders) and let go of what it cost (the suppression). Both can be honored.
+
 ## Coaching Path
 
 1. Do not argue the fearlessness directly. The self-concept will defend itself. Instead, ask the person to describe a recent moment when they could not focus, could not decide, or did something they would not have wanted to do. These are doorways without requiring them to admit fear up front.
@@ -98,3 +135,4 @@ He does not dismiss the courage. The person often has done genuinely courageous 
 ## Sources
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2021-10-15_Ant Taylor on Embracing Emotions

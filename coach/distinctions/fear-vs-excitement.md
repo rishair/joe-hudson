@@ -4,8 +4,8 @@ id: fear-vs-excitement
 title: "Fear vs. Excitement"
 aliases: ["fear is excitement without the breath", "excitement is the other side of fear", "fear and excitement are the same energy", "constriction vs expansion", "constricting fear vs expansive excitement"]
 tags: ["fear", "excitement", "breath", "vulnerability", "emotions", "somatic"]
-related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
 ---
 
 # Fear vs. Excitement
@@ -53,6 +53,20 @@ When fear is overridden rather than welcomed, the cost is twofold: the action ca
 - [[resistance]]: constriction against the energy is resistance. The friction of most emotional states is the resistance to them, not the states themselves.
 - [[feeling-the-unfelt-emotion]]: allowing the emotion (whether fear or excitement) to move through.
 
+## The Mental-Model Hack
+
+A lighter-weight version of the distinction, useful as a daily hack rather than a deep practice: when anxiety arrives, mentally reclassify it as excitement. The reclassification works for some people because it interrupts the brain's interpretation of the body's signal and routes the same energy through a different framing.
+
+Ant Taylor describes a colleague's use of this:
+
+"He has a hack where he tries to think about anxiety as excitement. Just that, just that slight mental model shift for him is a real shift in like the resonance of what he's dealing with." -- Ant Taylor, recounting Lawrence Pereira, Embracing Emotions
+
+There is a research-supported version that adds an action: physically jumping up and down while saying "I'm excited" can shift the experience from anxiety to excitement. The body's activated state is the same; the labeling changes what the system does with it.
+
+This hack is a lighter touch than the somatic distinction above. The somatic version (feel which one is actually present) is more accurate. The hack is faster. They are not in opposition. The hack is useful for moments where the energy is going to come through one way or the other and a quick reframe makes the difference. The somatic version is necessary when the energy is carrying real information about misalignment that the hack would suppress.
+
+See [[anxiety-as-unarticulated-need]] for the case where the anxiety signal should be decoded rather than reframed. The reframe and the decode are different responses for different situations.
+
 ## The Pattern Across Emotions
 
 Fear-to-excitement is one instance of a broader pattern. Each emotion has a kinked (resisted) form and an unkinked (allowed) form, and the unkinked form is often unrecognizable to people who only know the kinked version. See [[kinked-emotions]].
@@ -71,3 +85,4 @@ The fear-excitement pair is the most accessible example because the breath diffe
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2021-10-15_Ant Taylor on Embracing Emotions
