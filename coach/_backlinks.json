@@ -1,1 +1,42 @@
-{}
+{
+  "feeling-the-unfelt-emotion": [
+    "managing-vs-healing-trauma",
+    "trauma-mapping",
+    "familiar-over-safe",
+    "container-of-love",
+    "grief-as-gateway-to-self-love"
+  ],
+  "container-of-love": [
+    "managing-vs-healing-trauma",
+    "excavating-the-inner-critic-in-group",
+    "trauma-heals-in-relationship",
+    "feeling-the-unfelt-emotion",
+    "trauma-mapping",
+    "loving-all-parts"
+  ],
+  "loving-all-parts": [
+    "excavating-the-inner-critic-in-group",
+    "late-stage-reversion",
+    "grief-as-gateway-to-self-love"
+  ],
+  "trauma-heals-in-relationship": [
+    "excavating-the-inner-critic-in-group"
+  ],
+  "trauma-mapping": [
+    "feeling-the-unfelt-emotion",
+    "grief-as-gateway-to-self-love",
+    "loving-all-parts",
+    "familiar-over-safe",
+    "container-of-love"
+  ],
+  "grief-as-gateway-to-self-love": [
+    "feeling-the-unfelt-emotion",
+    "loving-all-parts"
+  ],
+  "managing-vs-healing-trauma": [
+    "grief-as-gateway-to-self-love"
+  ],
+  "late-stage-reversion": [
+    "loving-all-parts"
+  ]
+}

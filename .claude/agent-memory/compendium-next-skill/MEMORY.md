@@ -1,0 +1,1 @@
+- [Compendium Structure](compendium_structure.md) -- locations of compendium files, transcripts, skill definition, and article directories
