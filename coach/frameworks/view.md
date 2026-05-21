@@ -5,7 +5,7 @@ title: "VIEW"
 aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
 related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5"]
 ---
 
 # VIEW
@@ -88,3 +88,4 @@ Every sentence carries some partiality. Complete impartiality is asymptotic. The
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2020-11-06_Empathy -- Connection Course Series #4
+- 2020-11-10_Vulnerability -- Connection Course Series #5

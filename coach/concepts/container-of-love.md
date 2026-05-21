@@ -4,8 +4,8 @@ id: container-of-love
 title: "Container of Love"
 aliases: ["container", "held in love", "environment of love"]
 tags: ["healing", "safety", "group work", "relationships"]
-related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson"]
+related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts", "integration", "community-over-teacher"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience"]
 ---
 
 # Container of Love
@@ -27,12 +27,22 @@ In group settings, the container functions differently than one-on-one. Joe desc
 - Necessary precondition for [[feeling-the-unfelt-emotion]]
 - When someone is ready to feel but needs the environment to do so safely
 
+## What Happens Without It
+
+When someone enters deep trauma material without a loving container, the trauma can get stuck again. It will eventually move, but the process is neither skillful, gentle, nor efficient.
+
+"Somebody goes into a trauma and they can't be held in love. They can't be held in unconditional acceptance. And then therefore it gets stuck again." -- Joe Hudson, Integrating a Transformative Experience
+
+Joe specifically warns against unskilled practitioners who know exercises that can move trauma but do not know how to hold the space. Moving trauma requires someone experienced in holding it. See [[integration]] for the broader context of what can go wrong during transformation.
+
 ## Downstream (Where This Leads)
 
 - Enables [[feeling-the-unfelt-emotion]]
 - Supports the dissolution of [[trauma-mapping]]
 - In group settings, creates the conditions where shame dissolves through being witnessed
+- During [[integration]], community provides the container that a teacher alone cannot. See [[community-over-teacher]].
 
 ## Sources
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
+- 2020-12-11_Integrating a Transformative Experience

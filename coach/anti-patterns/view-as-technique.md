@@ -4,8 +4,8 @@ id: view-as-technique
 title: "Don't use VIEW as a technique"
 aliases: ["weaponized VIEW", "VIEW as manipulation", "technique without state", "communication training gone south"]
 tags: ["VIEW", "authenticity", "technique-vs-state"]
-related: ["view", "vulnerability", "wonder-as-strategy"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-06_Empathy — Connection Course Series #4"]
+related: ["view", "vulnerability", "wonder-as-strategy", "vulnerability-as-control"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-06_Empathy — Connection Course Series #4", "2020-11-10_Vulnerability — Connection Course Series #5"]
 ---
 
 # Don't use VIEW as a technique
@@ -56,9 +56,12 @@ Wonder-specific version: see [[wonder-as-strategy]] for the pattern where questi
 
 **Empathy-specific version:** Techniques like mirroring body language, nodding yes when people speak, repeating the last three words, and using someone's name at the start of sentences can all be done with or without genuine empathy. With empathy, they are appealing. Without it, they come off as false and creepy. The techniques sometimes work because they hack the mind into genuine empathy. But when the intent is to disarm the other person as a trick rather than to disarm yourself, it fails. "You can do all that stuff, but if you're not being empathy, it comes off as false, fake, and gross." -- Joe Hudson, Empathy. See also [[losing-yourself-in-others]].
 
+**Vulnerability-specific version:** Using vulnerability to control, guilt, or keep score. Performing weakness to get caretaking. Saying "I don't feel safe" to require others to change. Tracking whether someone was "vulnerable back." All of these use vulnerability language without the vulnerability state. The test: guilt indicates control, not vulnerability. See [[vulnerability-as-control]] for the full pattern.
+
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
 - 2020-11-04_Wonder -- Connection Course Series #2
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2020-11-06_Empathy -- Connection Course Series #4
+- 2020-11-10_Vulnerability -- Connection Course Series #5

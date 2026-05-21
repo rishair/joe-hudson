@@ -4,7 +4,7 @@ id: fear-is-about-feeling
 title: "Fear Is About What You'll Have to Feel"
 aliases: ["fear is about feeling", "fear of feeling", "the fear is in the emotion", "visualize the feared outcome", "feel the fear in advance"]
 tags: ["fear", "emotion", "impartiality", "Stoic", "visualization"]
-related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite"]
+related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in"]
 sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
 ---
 
@@ -44,6 +44,8 @@ Fear of outcomes is what makes [[impartiality]] hard. The person gripping a conv
 - Toward [[feeling-the-unfelt-emotion]]: the practice of welcoming what has been avoided.
 - Toward [[impartiality]]: once the feared feeling has been felt, attachment to the outcome loosens naturally.
 - Toward [[what-we-fear-we-invite]]: avoidance of the feeling creates the behaviors that attract the feared event.
+- Toward [[vulnerability-protects]]: fear is what allows exploitation; vulnerability (willingness to feel) is what prevents it.
+- Toward [[letting-judgment-in]]: letting judgment break your heart is a specific instance of feeling the feared emotion fully.
 
 ## Sources
 

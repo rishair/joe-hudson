@@ -4,8 +4,8 @@ id: late-stage-reversion
 title: "Late-Stage Reversion"
 aliases: ["deep reversion before breakthrough", "regression before integration", "the big hiccup"]
 tags: ["development", "regression", "integration", "advanced"]
-related: ["loving-all-parts", "grief-as-gateway-to-self-love", "feeling-the-unfelt-emotion"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson"]
+related: ["loving-all-parts", "grief-as-gateway-to-self-love", "feeling-the-unfelt-emotion", "integration", "three-stages-of-integration", "3-to-5-rule"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience"]
 ---
 
 # Late-Stage Reversion
@@ -36,16 +36,27 @@ Joe calls this "really touch-and-go," indicating it requires careful navigation.
 
 The emergence from this reversion produces a qualitative shift in presence. Not just further progress on the same trajectory but a different quality of being: softness, unconditional warmth toward others.
 
+## Non-Linear Learning
+
+Reversion is a feature of how humans learn, not a sign of failure. Kids go from walking back to crawling. Integration is not a straight line.
+
+"As you're moving forward, it isn't a straight line. And so what you think to be moving backwards might just be the way that humans learn." -- Joe Hudson, Integrating a Transformative Experience
+
+The healthy response to reversion is self-compassion about the learning process and appreciation for the moments of learning rather than self-criticism for the apparent backward movement. Pendulation between old behavior and new behavior is one of the marks that [[integration]] is happening.
+
 ## Upstream (What Leads Here)
 
 - Extended period of successful integration and self-love
 - The surfacing of foundational personality structures for the [[loving-all-parts]] process
+- Normal [[integration]] process after any transformation (mild form)
 
 ## Downstream (Where This Leads)
 
 - A qualitatively different state of presence and warmth
 - Deeper capacity for love without condition
+- When met with acceptance rather than fear, moves through the [[three-stages-of-integration]] naturally
 
 ## Sources
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
+- 2020-12-11_Integrating a Transformative Experience

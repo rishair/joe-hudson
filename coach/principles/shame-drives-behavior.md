@@ -4,8 +4,8 @@ id: shame-drives-behavior
 title: "Shame Drives Behavior"
 aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first"]
 tags: ["shame", "behavior", "habits", "causation"]
-related: ["impartiality", "fixing-people", "familiar-over-safe"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5"]
 ---
 
 # Shame Drives Behavior
@@ -37,7 +37,9 @@ This also explains why [[impartiality]] works. When someone is met without agend
 - Toward addressing the shame directly rather than managing behavior.
 - Toward the practice of [[impartiality]]: meeting the person as they are, which begins to dissolve shame.
 - Connects to [[familiar-over-safe]]: shame creates the emotional baseline that the organism returns to.
+- The distinction between [[past-shame-vs-current-shame]] refines this principle. The shame that drives unwanted behavior is past shame: the self-brutalization that condemns you to repeat the pattern. Current shame is a useful signal and should not be suppressed.
 
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2020-11-10_Vulnerability -- Connection Course Series #5

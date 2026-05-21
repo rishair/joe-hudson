@@ -1,5 +1,14 @@
 {
+  "fixing-people": [
+    "dont-evangelize-the-work",
+    "impartiality",
+    "owning-your-partiality",
+    "caring-vs-caretaking",
+    "shame-drives-behavior",
+    "view"
+  ],
   "impartiality": [
+    "dont-evangelize-the-work",
     "fixing-people",
     "impartial-apathy",
     "view-as-technique",
@@ -20,20 +29,47 @@
     "view",
     "mikey-siegel-pitch"
   ],
+  "view": [
+    "dont-evangelize-the-work",
+    "empathy",
+    "impartiality",
+    "vulnerability",
+    "wonder",
+    "wonder-vs-curiosity",
+    "decisions-are-emotional",
+    "process-over-result",
+    "how-what-questions",
+    "vulnerability-in-the-workplace"
+  ],
+  "how-what-questions": [
+    "dont-evangelize-the-work",
+    "being-heard",
+    "wonder",
+    "view"
+  ],
   "vulnerability": [
     "fixing-people",
     "view-as-technique",
+    "vulnerability-as-control",
     "wonder-as-strategy",
     "being-heard",
     "empathy",
+    "feeling-the-unfelt-emotion",
     "impartiality",
+    "letting-judgment-in",
     "wonder",
     "believing-the-convenient-lie",
+    "childhood-imprinting",
     "owning-your-partiality",
+    "past-shame-vs-current-shame",
     "vulnerability-vs-weakness",
     "wants-vs-partiality",
+    "vulnerability-is-personal",
+    "vulnerability-protects",
+    "whats-the-scary-truth",
     "view",
-    "mikey-siegel-pitch"
+    "mikey-siegel-pitch",
+    "vulnerability-in-the-workplace"
   ],
   "wants-vs-partiality": [
     "fixing-people",
@@ -62,6 +98,7 @@
   ],
   "familiar-over-safe": [
     "view-as-technique",
+    "3-to-5-rule",
     "shame-drives-behavior",
     "what-we-fear-we-invite"
   ],
@@ -97,46 +134,53 @@
     "empathy-vs-sympathy",
     "staying-in-your-body"
   ],
-  "how-what-questions": [
-    "being-heard",
-    "wonder",
-    "view"
+  "vulnerability-as-control": [
+    "view-as-technique",
+    "vulnerability",
+    "vulnerability-vs-weakness"
   ],
   "feeling-the-unfelt-emotion": [
     "container-of-love",
     "empathy",
     "familiar-over-safe",
     "grief-as-gateway-to-self-love",
+    "letting-judgment-in",
     "trauma-mapping",
+    "childhood-imprinting",
     "managing-vs-healing-trauma",
+    "past-shame-vs-current-shame",
     "emotions-live-in-muscles",
     "fear-is-about-feeling",
     "visualizing-feared-outcomes",
     "worthlessness-freedom"
   ],
+  "integration": [
+    "container-of-love",
+    "zen-sickness",
+    "3-to-5-rule",
+    "late-stage-reversion",
+    "community-over-teacher",
+    "process-over-result"
+  ],
+  "community-over-teacher": [
+    "container-of-love",
+    "integration"
+  ],
   "caring-vs-caretaking": [
     "empathy",
     "empathy-vs-sympathy",
-    "hand-in-hand-parenting"
+    "hand-in-hand-parenting",
+    "vulnerability-in-the-workplace"
   ],
   "empathy-vs-sympathy": [
     "empathy"
-  ],
-  "view": [
-    "empathy",
-    "impartiality",
-    "vulnerability",
-    "wonder",
-    "wonder-vs-curiosity",
-    "decisions-are-emotional",
-    "process-over-result",
-    "how-what-questions"
   ],
   "emotions-live-in-muscles": [
     "empathy"
   ],
   "decisions-are-emotional": [
-    "empathy"
+    "empathy",
+    "epiphany-vs-transformation"
   ],
   "view-as-technique": [
     "empathy",
@@ -147,15 +191,27 @@
   ],
   "container-of-love": [
     "feeling-the-unfelt-emotion",
+    "integration",
     "loving-all-parts",
     "trauma-mapping",
     "excavating-the-inner-critic-in-group",
     "managing-vs-healing-trauma",
     "trauma-heals-in-relationship"
   ],
+  "letting-judgment-in": [
+    "feeling-the-unfelt-emotion",
+    "vulnerability",
+    "fear-is-about-feeling",
+    "whats-the-scary-truth"
+  ],
   "grief-as-gateway-to-self-love": [
     "feeling-the-unfelt-emotion",
     "loving-all-parts"
+  ],
+  "past-shame-vs-current-shame": [
+    "feeling-the-unfelt-emotion",
+    "vulnerability",
+    "shame-drives-behavior"
   ],
   "loving-all-parts": [
     "grief-as-gateway-to-self-love",
@@ -167,12 +223,14 @@
   ],
   "shame-drives-behavior": [
     "impartiality",
+    "past-shame-vs-current-shame",
     "wants-vs-partiality",
     "what-we-fear-we-invite"
   ],
   "fear-is-about-feeling": [
     "impartiality",
     "short-term-vs-long-term-partiality",
+    "vulnerability-protects",
     "what-we-fear-we-invite"
   ],
   "visualizing-feared-outcomes": [
@@ -187,27 +245,46 @@
   ],
   "what-we-fear-we-invite": [
     "impartiality",
-    "fear-is-about-feeling"
+    "fear-is-about-feeling",
+    "vulnerability-protects"
   ],
   "short-term-vs-long-term-partiality": [
     "impartiality"
-  ],
-  "fixing-people": [
-    "impartiality",
-    "owning-your-partiality",
-    "caring-vs-caretaking",
-    "shame-drives-behavior",
-    "view"
   ],
   "impartial-apathy": [
     "impartiality",
     "view"
   ],
+  "three-stages-of-integration": [
+    "integration",
+    "late-stage-reversion",
+    "process-over-result"
+  ],
   "late-stage-reversion": [
+    "integration",
     "loving-all-parts"
+  ],
+  "zen-sickness": [
+    "integration"
+  ],
+  "epiphany-vs-transformation": [
+    "integration",
+    "zen-sickness",
+    "decisions-are-emotional"
+  ],
+  "vulnerability-in-the-workplace": [
+    "vulnerability"
   ],
   "vulnerability-vs-weakness": [
     "vulnerability"
+  ],
+  "vulnerability-is-personal": [
+    "vulnerability",
+    "whats-the-scary-truth"
+  ],
+  "whats-the-scary-truth": [
+    "vulnerability",
+    "vulnerability-is-personal"
   ],
   "questioning-assumptions": [
     "wonder"
@@ -225,8 +302,17 @@
     "short-term-vs-long-term-partiality",
     "view"
   ],
+  "dont-evangelize-the-work": [
+    "community-over-teacher"
+  ],
+  "vulnerability-protects": [
+    "fear-is-about-feeling"
+  ],
   "knowing|knowing-as-opposite-of-wonder": [
     "right-question-over-right-answer"
+  ],
+  "childhood-vulnerability-wound": [
+    "vulnerability-protects"
   ],
   "why-questions": [
     "how-what-questions",

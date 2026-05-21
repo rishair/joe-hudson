@@ -4,8 +4,8 @@ id: process-over-result
 title: "Process Over Result"
 aliases: ["trust the process", "faith in the process", "outcome attachment", "principled living"]
 tags: ["VIEW", "impartiality", "process", "design", "coaching"]
-related: ["view", "impartiality", "view-as-technique"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3"]
+related: ["view", "impartiality", "view-as-technique", "integration", "three-stages-of-integration"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-12-11_Integrating a Transformative Experience"]
 ---
 
 # Process Over Result
@@ -33,6 +33,14 @@ Living by [[view]] is a form of principled living. You commit to a set of princi
 "It's very much like living principled. You're saying, here are the principles I'm living by because I know consistently if I live by them, it works out in the way that works for me and works for my deepest truth." -- Joe Hudson, Introduction to VIEW (Connection Course)
 
 When directing actors, giving a specific desired performance produces stiff results. Giving the actor a clear objective and trusting them to find their way produces excellence. The parallel to coaching and managing teams is direct: hold the objective, release the method.
+
+## In Integration
+
+This principle applies directly to [[integration]] after transformation. The impulse to "figure out" what happened, to put words on the experience, to force understanding, works against the integration process. The mind always figures it out eventually. Patience with not-knowing produces deeper integration than premature articulation.
+
+"It's not about trying to stay in the not knowing, it's more about not trying to get into the knowing." -- Joe Hudson, Integrating a Transformative Experience
+
+The [[three-stages-of-integration]] framework shows this concretely: cutting the first stage (surprise/not-knowing) short prevents the full depth of the transformation from landing.
 
 ## Upstream (What Leads Here)
 

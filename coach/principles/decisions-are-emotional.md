@@ -4,8 +4,8 @@ id: decisions-are-emotional
 title: "Decisions Are Emotional"
 aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
-related: ["view", "empathy"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4"]
+related: ["view", "empathy", "epiphany-vs-transformation", "integration"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience"]
 ---
 
 # Decisions Are Emotional
@@ -31,6 +31,12 @@ This is also why people can all agree to something in a meeting and then not do 
 "If I take the emotional center of your brain away, you cease to make decisions. It would take you half an hour to decide what color pen." -- Joe Hudson, Empathy
 
 Being with all emotions, welcoming them rather than avoiding them, transforms decision-making. Much of life is decided by "I don't want to feel like a failure" or "I want to feel like a success." When emotions stop being threats and become information, decisions become clearer and freer. See [[empathy]].
+
+## Transformation Changes Decisions
+
+Because decisions are emotional, transformation that increases emotional fluidity directly changes what decisions a person makes. "What you're willing to feel and what you're willing not to feel, what you're excited to feel, what you're excited to feel that you used to be horrified at feeling, that will really change a lot of the decisions you make." -- Joe Hudson, Integrating a Transformative Experience
+
+This is the mechanism by which [[epiphany-vs-transformation]] at the emotional level operates. It is not that the person decides differently through willpower. Their emotional landscape has shifted, so different decisions emerge naturally.
 
 ## Upstream (What Leads Here)
 

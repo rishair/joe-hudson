@@ -8,4 +8,4 @@ The coaching compendium lives at `coach/` in the project root. The skill definit
 
 **Important:** Previous sessions may have partially absorbed a transcript (created articles, updated existing articles) but not completed the absorb log, index, or backlinks update. Always check whether the NEXT transcript in chronological order has already had its content absorbed into existing articles (check article sources fields) even if it's not in the absorb log. The absorb log may lag behind the actual article state.
 
-As of 2026-05-21: 6 transcripts absorbed, 46 articles, next transcript is `2020-11-10_Vulnerability -- Connection Course Series #5`.
+As of 2026-05-21: 7 transcripts absorbed (per log), 62 articles on disk (index rebuilt), next transcript chronologically is `2020-12-11_Integrating a Transformative Experience` but it may have been partially absorbed by a prior session (articles like `integration`, `zen-sickness`, `three-stages-of-integration` exist on disk with that source). Always verify the absorb log and check if articles already reference the next transcript before starting extraction.

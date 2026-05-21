@@ -4,8 +4,8 @@ id: feeling-the-unfelt-emotion
 title: "Feeling the Unfelt Emotion"
 aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling"]
 tags: ["trauma", "healing", "emotions", "core mechanism"]
-related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson"]
+related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5"]
 ---
 
 # Feeling the Unfelt Emotion
@@ -32,12 +32,22 @@ The key phrase is "looked forward to." Not endured. Not tolerated. Welcomed.
 - When someone asks "how do I stop repeating this?"
 - When the coaching conversation has named the avoided emotion
 
+## Connection to Vulnerability
+
+[[vulnerability]] is the external expression of this same mechanism. Internally, vulnerability means allowing yourself to feel whatever is emotionally uncomfortable right now: the same "inviting" and "welcoming" that heals trauma. Externally, it means speaking your truth despite fear. Both are the same cliff.
+
+"The vulnerable thing to do when you're by yourself is to allow yourself to feel whatever you're feeling. Right now, in this moment, you can close your eyes and there's something in your system emotionally uncomfortable, and you can lean in and open to it, embrace it, and welcome it." -- Joe Hudson, Vulnerability -- Connection Course Series #5
+
+The emotions rejected in childhood (anger, sadness, fear, excitement) are the same ones the person rejects internally through avoidance. [[letting-judgment-in]] is a specific application: allowing the pain of being judged rather than deflecting it, which completes the emotional experience that was interrupted in childhood when being yourself led to rejection.
+
 ## Downstream (Where This Leads)
 
 - The dissolution of [[trauma-mapping]] patterns
 - Toward [[grief-as-gateway-to-self-love]] when the person grieves lost time
 - Toward a shift in what the person attracts relationally
+- [[past-shame-vs-current-shame]]: past shame is a form of resisted emotion that keeps patterns locked. Feeling the underlying emotion dissolves the shame.
 
 ## Sources
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
+- 2020-11-10_Vulnerability -- Connection Course Series #5
