@@ -17,6 +17,25 @@
         "excavating-the-inner-critic-in-group"
       ],
       "articles_updated": []
+    },
+    {
+      "folder": "2020-10-26_Introduction to VIEW",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T00:00:00Z",
+      "articles_created": [
+        "view",
+        "vulnerability",
+        "impartiality",
+        "empathy",
+        "wonder",
+        "how-what-questions",
+        "view-as-technique",
+        "why-questions",
+        "vulnerability-vs-weakness",
+        "wonder-vs-curiosity",
+        "decisions-are-emotional"
+      ],
+      "articles_updated": []
     }
   ]
 }

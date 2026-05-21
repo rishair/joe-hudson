@@ -1,42 +1,20 @@
 {
-  "feeling-the-unfelt-emotion": [
-    "managing-vs-healing-trauma",
-    "trauma-mapping",
-    "familiar-over-safe",
-    "container-of-love",
-    "grief-as-gateway-to-self-love"
-  ],
-  "container-of-love": [
-    "managing-vs-healing-trauma",
-    "excavating-the-inner-critic-in-group",
-    "trauma-heals-in-relationship",
-    "feeling-the-unfelt-emotion",
-    "trauma-mapping",
-    "loving-all-parts"
-  ],
-  "loving-all-parts": [
-    "excavating-the-inner-critic-in-group",
-    "late-stage-reversion",
-    "grief-as-gateway-to-self-love"
-  ],
-  "trauma-heals-in-relationship": [
-    "excavating-the-inner-critic-in-group"
-  ],
-  "trauma-mapping": [
-    "feeling-the-unfelt-emotion",
-    "grief-as-gateway-to-self-love",
-    "loving-all-parts",
-    "familiar-over-safe",
-    "container-of-love"
-  ],
-  "grief-as-gateway-to-self-love": [
-    "feeling-the-unfelt-emotion",
-    "loving-all-parts"
-  ],
-  "managing-vs-healing-trauma": [
-    "grief-as-gateway-to-self-love"
-  ],
-  "late-stage-reversion": [
-    "loving-all-parts"
-  ]
+  "container-of-love": ["excavating-the-inner-critic-in-group", "feeling-the-unfelt-emotion", "loving-all-parts", "managing-vs-healing-trauma", "trauma-heals-in-relationship", "trauma-mapping"],
+  "empathy": ["decisions-are-emotional", "empathy", "view", "view-as-technique", "vulnerability"],
+  "feeling-the-unfelt-emotion": ["container-of-love", "familiar-over-safe", "grief-as-gateway-to-self-love", "managing-vs-healing-trauma", "trauma-mapping"],
+  "grief-as-gateway-to-self-love": ["feeling-the-unfelt-emotion", "loving-all-parts"],
+  "how-what-questions": ["view", "wonder"],
+  "impartiality": ["empathy", "view", "view-as-technique", "vulnerability", "wonder"],
+  "late-stage-reversion": ["loving-all-parts"],
+  "loving-all-parts": ["excavating-the-inner-critic-in-group", "grief-as-gateway-to-self-love", "late-stage-reversion"],
+  "managing-vs-healing-trauma": ["grief-as-gateway-to-self-love"],
+  "trauma-heals-in-relationship": ["excavating-the-inner-critic-in-group"],
+  "trauma-mapping": ["container-of-love", "familiar-over-safe", "feeling-the-unfelt-emotion", "grief-as-gateway-to-self-love", "loving-all-parts"],
+  "view": ["decisions-are-emotional", "empathy", "how-what-questions", "impartiality", "vulnerability", "wonder", "wonder-vs-curiosity"],
+  "view-as-technique": ["view", "vulnerability"],
+  "vulnerability": ["empathy", "view", "view-as-technique", "vulnerability-vs-weakness"],
+  "vulnerability-vs-weakness": ["vulnerability", "wonder"],
+  "why-questions": ["how-what-questions", "view"],
+  "wonder": ["empathy", "how-what-questions", "view", "view-as-technique", "vulnerability", "why-questions"],
+  "wonder-vs-curiosity": ["wonder"]
 }
