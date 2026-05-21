@@ -36,6 +36,8 @@
   ],
   "rehearsing-how-to-say-it": [
     "i-caretake-people",
+    "manufacturing-the-feeling",
+    "rehearsing-conversations",
     "caring-vs-caretaking",
     "resentment-as-caretaking-diagnostic",
     "softening-as-caring-diagnostic"
@@ -62,6 +64,7 @@
     "i-caretake-people",
     "what-would-happen-if-you-stopped",
     "impartiality",
+    "rehearsing-conversations",
     "caring-vs-caretaking",
     "caretaking-prevents-the-bottom",
     "fear-is-about-feeling"
@@ -88,6 +91,7 @@
     "i-caretake-people",
     "i-dont-have-time-for-this",
     "i-feel-trapped",
+    "i-keep-crashing-and-burning",
     "i-need-to-improve-myself",
     "im-afraid-of-stagnating",
     "art-of-accomplishment",
@@ -97,8 +101,12 @@
   "i-should-be-doing-this": [
     "i-caretake-people",
     "i-freeze-around-authority",
+    "i-keep-crashing-and-burning",
     "i-need-to-improve-myself",
+    "my-inner-critic-wont-stop",
     "money-as-surrogate",
+    "voice-in-the-head",
+    "nervous-system-recovery-after-stress",
     "wants-over-shoulds"
   ],
   "subway-kid": [
@@ -115,12 +123,14 @@
   "fear-is-about-feeling": [
     "i-dont-have-time-for-this",
     "i-feel-trapped",
+    "my-inner-critic-wont-stop",
     "what-if-you-acted-exactly-how-you-want",
     "what-would-happen-if-you-stopped",
     "impartiality",
     "resistance",
     "binary-thinking-signals-fear",
     "perfectionism",
+    "rehearsing-conversations",
     "enjoy-over-manage",
     "short-term-vs-long-term-partiality",
     "embrace-intensity",
@@ -178,10 +188,12 @@
   "feared-consequences-rarely-happen": [
     "i-feel-trapped",
     "what-if-you-acted-exactly-how-you-want",
+    "untruth-in-every-thought",
     "vulnerability",
     "empowered-vs-power",
     "acting-as-if-already-true",
-    "fear-is-about-feeling"
+    "fear-is-about-feeling",
+    "voice-creates-what-it-fears"
   ],
   "empowered-vs-power": [
     "i-feel-trapped",
@@ -224,11 +236,15 @@
   "childhood-imprinting": [
     "i-freeze-around-authority",
     "i-have-to-sacrifice-to-succeed",
+    "i-keep-crashing-and-burning",
     "money-is-bad",
+    "my-inner-critic-wont-stop",
     "feeling-the-unfelt-emotion",
     "money-as-surrogate",
     "poverty-mentality",
     "the-want",
+    "voice-as-care",
+    "voice-in-the-head",
     "impulse-to-should",
     "perfectionism",
     "pleasure-capacity",
@@ -239,6 +255,9 @@
   ],
   "in-the-story-im-not-being-seen": [
     "i-freeze-around-authority",
+    "desire-for-resolution",
+    "linguistic-caveat",
+    "manufacturing-the-feeling",
     "how-is-that-not-true-about-you",
     "what-if-they-did-see-you",
     "being-heard",
@@ -329,24 +348,243 @@
     "inherent-goodness",
     "wants-over-shoulds"
   ],
+  "i-need-to-improve-myself": [
+    "i-keep-crashing-and-burning",
+    "i-should-be-doing-this",
+    "im-afraid-of-stagnating",
+    "my-inner-critic-wont-stop",
+    "desire-for-resolution",
+    "no-finish-line",
+    "voice-in-the-head"
+  ],
+  "engineering-heartbreak-to-avoid-heartbreak": [
+    "i-keep-crashing-and-burning",
+    "trauma-mapping",
+    "rehearsing-conversations"
+  ],
+  "trauma-mapping": [
+    "i-keep-crashing-and-burning",
+    "money-is-bad",
+    "view-as-technique",
+    "container-of-love",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "familiar-over-safe",
+    "feeling-the-unfelt-emotion",
+    "grief-as-gateway-to-self-love",
+    "loving-all-parts",
+    "money-as-surrogate",
+    "poverty-mentality",
+    "believing-the-convenient-lie",
+    "what-we-fear-we-invite",
+    "joes-abandonment-mapping"
+  ],
+  "what-we-fear-we-invite": [
+    "i-keep-crashing-and-burning",
+    "im-afraid-of-stagnating",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "impartiality",
+    "trauma-mapping",
+    "fear-is-about-feeling",
+    "feared-consequences-rarely-happen",
+    "helplessness-is-the-gateway",
+    "victim-stance-invites-abuse",
+    "voice-creates-what-it-fears",
+    "vulnerability-protects",
+    "joes-abandonment-mapping"
+  ],
+  "not-sometimes-right-now": [
+    "i-keep-crashing-and-burning",
+    "what-is-it-without-resistance",
+    "ask-the-witnesses",
+    "question-the-caveat"
+  ],
+  "linguistic-caveat": [
+    "i-keep-crashing-and-burning",
+    "question-the-caveat"
+  ],
+  "question-the-caveat": [
+    "i-keep-crashing-and-burning",
+    "linguistic-caveat"
+  ],
+  "shame-drives-behavior": [
+    "i-keep-crashing-and-burning",
+    "i-need-to-improve-myself",
+    "i-should-be-doing-this",
+    "im-afraid-of-stagnating",
+    "my-inner-critic-wont-stop",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "impartiality",
+    "resistance",
+    "should-as-threat",
+    "voice-in-the-head",
+    "negative-self-reinforcement",
+    "perfectionism",
+    "rebellion-or-submission-to-should",
+    "defense-vs-love",
+    "empowered-vs-power",
+    "improvement-vs-authenticity",
+    "past-shame-vs-current-shame",
+    "wants-vs-partiality",
+    "caretaking-prevents-the-bottom",
+    "helplessness-is-the-gateway",
+    "inherent-goodness",
+    "nervous-system-recovery-after-stress",
+    "voice-creates-what-it-fears",
+    "wants-over-shoulds",
+    "what-we-fear-we-invite",
+    "fear-triangle",
+    "seven-limiting-beliefs",
+    "joes-26-year-old-list",
+    "joes-pot-habit"
+  ],
+  "ask-the-witnesses": [
+    "i-keep-crashing-and-burning"
+  ],
+  "manufacturing-the-feeling": [
+    "i-keep-crashing-and-burning",
+    "desire-for-resolution"
+  ],
+  "desire-for-resolution": [
+    "i-keep-crashing-and-burning",
+    "manufacturing-the-feeling",
+    "how-is-that-not-here-right-now",
+    "what-if-there-is-no-finish-line",
+    "no-finish-line"
+  ],
+  "what-if-there-is-no-finish-line": [
+    "i-keep-crashing-and-burning",
+    "desire-for-resolution",
+    "how-is-that-not-here-right-now"
+  ],
+  "feeling-the-unfelt-emotion": [
+    "i-keep-crashing-and-burning",
+    "what-is-it-without-resistance",
+    "what-would-happen-if-you-stopped",
+    "container-of-love",
+    "defense",
+    "empathy",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "familiar-over-safe",
+    "grief-as-gateway-to-self-love",
+    "heartbreak-as-capacity-expansion",
+    "kinked-emotions",
+    "letting-judgment-in",
+    "poverty-mentality",
+    "resistance",
+    "trauma-mapping",
+    "unfelt-emotion-leaks",
+    "binary-thinking-signals-fear",
+    "childhood-imprinting",
+    "negative-self-reinforcement",
+    "pleasure-capacity",
+    "rehearsing-conversations",
+    "three-signals-of-unfelt-emotion",
+    "chase-it-around-the-room",
+    "not-sometimes-right-now",
+    "treat-yourself-as-actor-of-emotion",
+    "welcoming-the-others-emotion",
+    "enjoy-over-manage",
+    "fear-vs-excitement",
+    "feel-over-figure",
+    "judgment-vs-discernment",
+    "managing-vs-healing-trauma",
+    "past-shame-vs-current-shame",
+    "suffering-vs-pain",
+    "dont-do-emotion-at-people",
+    "embrace-intensity",
+    "emotions-live-in-muscles",
+    "fear-is-about-feeling",
+    "helplessness-is-the-gateway",
+    "owning-the-want-dissolves-it",
+    "what-we-fear-we-invite",
+    "daily-emotional-yoga",
+    "feeling-the-want-as-emotion",
+    "visualizing-feared-outcomes",
+    "whats-looking-out-behind-my-eyes",
+    "stages-of-emotional-development",
+    "joes-abandonment-mapping",
+    "joes-crying-story",
+    "joes-pot-habit",
+    "worthlessness-freedom"
+  ],
+  "no-finish-line": [
+    "i-keep-crashing-and-burning",
+    "desire-for-resolution",
+    "how-is-that-not-here-right-now",
+    "what-if-there-is-no-finish-line",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "undoing-not-doing"
+  ],
+  "enjoy-over-manage": [
+    "i-keep-crashing-and-burning",
+    "how-do-you-want-to-be",
+    "how-is-that-not-here-right-now",
+    "art-of-accomplishment",
+    "resistance",
+    "pleasure-capacity",
+    "trying-vs-doing",
+    "acceptance-as-change-strategy",
+    "consciousness-is-the-product",
+    "efficiency-as-enjoyment",
+    "inherent-goodness",
+    "process-over-result",
+    "listening-to-impulse",
+    "butchers-blade",
+    "creative-career-story"
+  ],
+  "tools-to-change-not-love": [
+    "i-keep-crashing-and-burning",
+    "i-need-to-improve-myself",
+    "manufacturing-the-feeling",
+    "loving-to-transform",
+    "weaponized-not-caretaking",
+    "love-as-deep-welcoming",
+    "improvement-vs-authenticity",
+    "good-and-corruption-cycle",
+    "love-is-the-best-change-agent"
+  ],
+  "quit-hope-lose-cycle": [
+    "i-keep-crashing-and-burning",
+    "no-finish-line",
+    "undoing-not-doing",
+    "epiphany-becomes-rut",
+    "helplessness-is-the-gateway",
+    "pow-optimist"
+  ],
+  "im-afraid-of-stagnating": [
+    "i-keep-crashing-and-burning",
+    "i-need-to-improve-myself",
+    "what-if-there-is-no-finish-line",
+    "nature-improves-itself",
+    "wanting-itself-not-what-you-want",
+    "what-we-fear-we-invite",
+    "dont-improve-for-two-weeks"
+  ],
   "perfectionism": [
     "i-need-to-improve-myself",
+    "my-inner-critic-wont-stop",
     "art-of-accomplishment",
     "resistance",
     "should-as-threat",
     "undoing-not-doing",
+    "voice-in-the-head",
     "impulse-to-should",
+    "rehearsing-conversations",
     "improvement-vs-authenticity",
     "intention-vs-goal",
     "trying-vs-doing",
     "connection-over-perfection",
     "efficiency-as-enjoyment",
+    "trying-to-be-right-is-the-voice",
+    "voice-creates-what-it-fears",
     "wants-over-shoulds",
     "seven-limiting-beliefs"
   ],
   "improvement-vs-authenticity": [
     "i-need-to-improve-myself",
     "how-do-you-want-to-be",
+    "how-is-that-not-here-right-now",
+    "what-if-there-is-no-finish-line",
     "loving-to-transform",
     "tools-to-change-not-love",
     "self-realization",
@@ -365,33 +603,9 @@
     "i-need-to-improve-myself",
     "tools-to-change-not-love"
   ],
-  "shame-drives-behavior": [
-    "i-need-to-improve-myself",
-    "i-should-be-doing-this",
-    "im-afraid-of-stagnating",
-    "impartiality",
-    "resistance",
-    "should-as-threat",
-    "negative-self-reinforcement",
-    "perfectionism",
-    "rebellion-or-submission-to-should",
-    "defense-vs-love",
-    "empowered-vs-power",
-    "improvement-vs-authenticity",
-    "past-shame-vs-current-shame",
-    "wants-vs-partiality",
-    "caretaking-prevents-the-bottom",
-    "helplessness-is-the-gateway",
-    "inherent-goodness",
-    "wants-over-shoulds",
-    "what-we-fear-we-invite",
-    "fear-triangle",
-    "seven-limiting-beliefs",
-    "joes-26-year-old-list",
-    "joes-pot-habit"
-  ],
   "musk-deer-parable": [
     "i-need-to-improve-myself",
+    "no-finish-line",
     "self-realization",
     "wanting-itself-not-what-you-want"
   ],
@@ -400,22 +614,21 @@
     "im-afraid-of-stagnating",
     "what-am-i",
     "tools-to-change-not-love",
+    "no-finish-line",
     "undoing-not-doing",
+    "voice-in-the-head",
     "improvement-vs-authenticity",
+    "whats-looking-out-behind-my-eyes",
     "musk-deer-parable"
   ],
   "what-am-i": [
     "i-need-to-improve-myself",
     "how-do-you-want-to-be",
     "self-realization",
+    "voice-in-the-head",
+    "lawyer-the-voice",
+    "whats-looking-out-behind-my-eyes",
     "musk-deer-parable"
-  ],
-  "im-afraid-of-stagnating": [
-    "i-need-to-improve-myself",
-    "nature-improves-itself",
-    "wanting-itself-not-what-you-want",
-    "what-we-fear-we-invite",
-    "dont-improve-for-two-weeks"
   ],
   "nature-improves-itself": [
     "i-need-to-improve-myself",
@@ -425,15 +638,6 @@
     "buurtzorg-nursing",
     "joes-godson-vape-pen",
     "joes-hacky-sack"
-  ],
-  "tools-to-change-not-love": [
-    "i-need-to-improve-myself",
-    "loving-to-transform",
-    "weaponized-not-caretaking",
-    "love-as-deep-welcoming",
-    "improvement-vs-authenticity",
-    "good-and-corruption-cycle",
-    "love-is-the-best-change-agent"
   ],
   "joes-godson-vape-pen": [
     "i-need-to-improve-myself",
@@ -451,6 +655,7 @@
     "i-should-be-doing-this",
     "if-i-had-more-money",
     "im-afraid-of-stagnating",
+    "my-inner-critic-wont-stop",
     "inherent-goodness",
     "nature-improves-itself",
     "wants-over-shoulds",
@@ -466,12 +671,16 @@
     "ill-become-lazy-without-shoulds",
     "money-as-surrogate",
     "poverty-mentality",
+    "untruth-in-every-thought",
     "impulse-to-should",
+    "rehearsing-conversations",
     "find-the-want-behind-the-should",
     "wanting-vs-craving",
     "owning-the-want-dissolves-it",
+    "trying-to-be-right-is-the-voice",
     "wants-deepen-as-you-follow-them",
     "wants-over-shoulds",
+    "lawyer-the-voice",
     "listening-to-impulse",
     "joes-godson-vape-pen"
   ],
@@ -480,6 +689,8 @@
     "what-if-you-acted-exactly-how-you-want",
     "should-as-threat",
     "the-want",
+    "untruth-in-every-thought",
+    "voice-in-the-head",
     "impulse-to-should",
     "quit-hope-lose-cycle",
     "rebellion-or-submission-to-should",
@@ -487,17 +698,24 @@
     "enjoyment-as-path",
     "enjoyment-as-surrender",
     "nature-improves-itself",
+    "nervous-system-recovery-after-stress",
     "shame-drives-behavior",
+    "trying-to-be-right-is-the-voice",
     "dont-improve-for-two-weeks",
+    "lawyer-the-voice",
     "seven-limiting-beliefs",
     "joes-26-year-old-list",
     "joes-godson-vape-pen"
   ],
   "should-as-threat": [
     "i-should-be-doing-this",
+    "my-inner-critic-wont-stop",
+    "untruth-in-every-thought",
+    "voice-in-the-head",
     "impulse-to-should",
     "rebellion-or-submission-to-should",
     "find-the-want-behind-the-should",
+    "nervous-system-recovery-after-stress",
     "wants-over-shoulds"
   ],
   "find-the-want-behind-the-should": [
@@ -521,10 +739,6 @@
     "wants-deepen-as-you-follow-them",
     "wants-over-shoulds",
     "feeling-the-want-as-emotion"
-  ],
-  "i-need-to-improve-myself": [
-    "i-should-be-doing-this",
-    "im-afraid-of-stagnating"
   ],
   "money-as-surrogate": [
     "if-i-had-more-money",
@@ -574,17 +788,6 @@
     "money-must-flow",
     "money-domain"
   ],
-  "what-we-fear-we-invite": [
-    "im-afraid-of-stagnating",
-    "impartiality",
-    "trauma-mapping",
-    "fear-is-about-feeling",
-    "feared-consequences-rarely-happen",
-    "helplessness-is-the-gateway",
-    "victim-stance-invites-abuse",
-    "vulnerability-protects",
-    "joes-abandonment-mapping"
-  ],
   "just-business-vs-impersonal": [
     "money-is-bad",
     "money-is-impersonal",
@@ -593,29 +796,148 @@
     "three-ways-to-fire-someone",
     "money-domain"
   ],
-  "trauma-mapping": [
-    "money-is-bad",
-    "view-as-technique",
-    "container-of-love",
-    "familiar-over-safe",
-    "feeling-the-unfelt-emotion",
-    "grief-as-gateway-to-self-love",
-    "loving-all-parts",
-    "money-as-surrogate",
-    "poverty-mentality",
-    "believing-the-convenient-lie",
-    "what-we-fear-we-invite",
-    "joes-abandonment-mapping"
-  ],
   "money-domain": [
     "money-is-bad",
     "money-must-flow"
   ],
-  "binary-thinking-signals-fear": [
-    "fight-or-roll-over-binary",
+  "three-signals-of-unfelt-emotion": [
+    "my-inner-critic-wont-stop",
+    "unfelt-emotion-leaks",
+    "voice-in-the-head",
+    "binary-thinking-signals-fear",
+    "feel-over-figure",
+    "judgment-vs-discernment",
+    "decisions-are-emotional"
+  ],
+  "voice-in-the-head": [
+    "my-inner-critic-wont-stop",
+    "dont-fight-the-voice",
+    "should-as-threat",
+    "untruth-in-every-thought",
+    "voice-as-care",
+    "perfectionism",
+    "rehearsing-conversations",
+    "apply-view-to-the-voice",
+    "repetitive-vs-inspirational-voice",
+    "awareness-as-change-agent",
+    "trying-to-be-right-is-the-voice",
+    "voice-creates-what-it-fears",
+    "experimenting-with-the-voice",
+    "lawyer-the-voice",
+    "whats-looking-out-behind-my-eyes"
+  ],
+  "dont-fight-the-voice": [
+    "my-inner-critic-wont-stop",
+    "voice-as-care",
+    "voice-in-the-head",
+    "apply-view-to-the-voice",
+    "awareness-as-change-agent",
+    "experimenting-with-the-voice",
+    "lawyer-the-voice"
+  ],
+  "voice-as-care": [
+    "my-inner-critic-wont-stop",
+    "dont-fight-the-voice",
+    "untruth-in-every-thought",
+    "voice-in-the-head",
+    "apply-view-to-the-voice",
+    "voice-creates-what-it-fears",
+    "experimenting-with-the-voice"
+  ],
+  "voice-creates-what-it-fears": [
+    "my-inner-critic-wont-stop",
+    "voice-in-the-head",
+    "perfectionism",
+    "rehearsing-conversations"
+  ],
+  "apply-view-to-the-voice": [
+    "my-inner-critic-wont-stop",
+    "dont-fight-the-voice",
+    "voice-as-care",
+    "voice-in-the-head",
+    "voice-creates-what-it-fears",
+    "experimenting-with-the-voice",
+    "lawyer-the-voice"
+  ],
+  "rehearsing-conversations": [
+    "my-inner-critic-wont-stop",
+    "voice-in-the-head",
+    "perfectionism",
+    "voice-creates-what-it-fears"
+  ],
+  "connection-over-perfection": [
+    "my-inner-critic-wont-stop",
+    "resistance",
+    "impulse-to-should",
+    "perfectionism",
+    "awareness-as-change-agent",
+    "consciousness-is-the-product",
+    "epiphany-becomes-rut",
+    "marketing-as-the-beginning",
+    "voice-creates-what-it-fears",
+    "seven-limiting-beliefs",
+    "view",
+    "spaghetti-tower-experiment"
+  ],
+  "trying-to-be-right-is-the-voice": [
+    "my-inner-critic-wont-stop",
+    "dont-fight-the-voice",
+    "rehearsing-conversations",
+    "apply-view-to-the-voice"
+  ],
+  "unfelt-emotion-leaks": [
+    "my-inner-critic-wont-stop",
+    "feeling-the-unfelt-emotion",
     "three-signals-of-unfelt-emotion",
     "feel-over-figure",
-    "decisions-are-emotional"
+    "judgment-vs-discernment",
+    "dont-do-emotion-at-people",
+    "daily-emotional-yoga"
+  ],
+  "experimenting-with-the-voice": [
+    "my-inner-critic-wont-stop",
+    "dont-fight-the-voice",
+    "voice-as-care",
+    "voice-in-the-head",
+    "voice-creates-what-it-fears",
+    "lawyer-the-voice"
+  ],
+  "lawyer-the-voice": [
+    "my-inner-critic-wont-stop",
+    "should-as-threat",
+    "untruth-in-every-thought",
+    "voice-in-the-head"
+  ],
+  "untruth-in-every-thought": [
+    "my-inner-critic-wont-stop",
+    "should-as-threat",
+    "voice-in-the-head",
+    "voice-creates-what-it-fears",
+    "lawyer-the-voice"
+  ],
+  "whats-looking-out-behind-my-eyes": [
+    "my-inner-critic-wont-stop",
+    "dont-fight-the-voice",
+    "voice-in-the-head",
+    "lawyer-the-voice"
+  ],
+  "excavating-the-inner-critic-in-group": [
+    "my-inner-critic-wont-stop",
+    "voice-in-the-head"
+  ],
+  "i-keep-crashing-and-burning": [
+    "desire-for-resolution",
+    "linguistic-caveat",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "nervous-system-recovery-after-stress"
+  ],
+  "binary-thinking-signals-fear": [
+    "fight-or-roll-over-binary",
+    "untruth-in-every-thought",
+    "three-signals-of-unfelt-emotion",
+    "feel-over-figure",
+    "decisions-are-emotional",
+    "voice-creates-what-it-fears"
   ],
   "resistance": [
     "how-much-fight",
@@ -628,6 +950,7 @@
     "layered-resistance",
     "pendulation",
     "perfectionism",
+    "chase-it-around-the-room",
     "enjoy-over-manage",
     "fear-vs-excitement",
     "suffering-vs-pain",
@@ -655,24 +978,25 @@
     "five-principles-of-the-path",
     "joes-pot-habit"
   ],
+  "undoing-not-doing": [
+    "manufacturing-the-feeling",
+    "tools-to-change-not-love",
+    "art-of-accomplishment",
+    "no-finish-line",
+    "self-realization",
+    "quit-hope-lose-cycle",
+    "trying-vs-doing",
+    "nature-improves-itself",
+    "hands-together-exercise",
+    "seven-limiting-beliefs"
+  ],
+  "trying-vs-doing": [
+    "manufacturing-the-feeling",
+    "undoing-not-doing"
+  ],
   "i-caretake-people": [
     "rehearsing-how-to-say-it",
     "you-think-they-cant-handle-it"
-  ],
-  "enjoy-over-manage": [
-    "how-do-you-want-to-be",
-    "art-of-accomplishment",
-    "resistance",
-    "pleasure-capacity",
-    "trying-vs-doing",
-    "acceptance-as-change-strategy",
-    "consciousness-is-the-product",
-    "efficiency-as-enjoyment",
-    "inherent-goodness",
-    "process-over-result",
-    "listening-to-impulse",
-    "butchers-blade",
-    "creative-career-story"
   ],
   "listening-to-impulse": [
     "how-do-you-want-to-be",
@@ -696,9 +1020,17 @@
     "vulnerability",
     "vulnerability-is-personal"
   ],
+  "wanting-itself-not-what-you-want": [
+    "how-is-that-not-here-right-now",
+    "what-if-there-is-no-finish-line",
+    "no-finish-line",
+    "improvement-vs-authenticity"
+  ],
   "mirror-the-judgment": [
     "how-is-that-not-true-about-you",
-    "what-if-they-did-see-you"
+    "what-if-they-did-see-you",
+    "ask-the-witnesses",
+    "question-the-caveat"
   ],
   "wonder": [
     "what-am-i",
@@ -706,70 +1038,31 @@
     "why-questions",
     "empathy",
     "self-realization",
+    "voice-in-the-head",
     "vulnerability",
+    "rehearsing-conversations",
+    "apply-view-to-the-voice",
     "boundary-with-vs-boundary-against",
     "follow-the-demand",
     "process-over-result",
     "right-question-over-right-answer",
     "how-what-questions",
     "questioning-assumptions",
+    "whats-looking-out-behind-my-eyes",
     "five-principles-of-the-path",
     "view"
   ],
-  "not-sometimes-right-now": [
-    "what-is-it-without-resistance"
-  ],
-  "feeling-the-unfelt-emotion": [
-    "what-is-it-without-resistance",
-    "what-would-happen-if-you-stopped",
-    "container-of-love",
-    "defense",
-    "empathy",
-    "familiar-over-safe",
-    "grief-as-gateway-to-self-love",
-    "heartbreak-as-capacity-expansion",
-    "kinked-emotions",
-    "letting-judgment-in",
-    "poverty-mentality",
-    "resistance",
-    "trauma-mapping",
-    "unfelt-emotion-leaks",
-    "binary-thinking-signals-fear",
-    "childhood-imprinting",
-    "negative-self-reinforcement",
-    "pleasure-capacity",
-    "three-signals-of-unfelt-emotion",
-    "not-sometimes-right-now",
-    "treat-yourself-as-actor-of-emotion",
-    "welcoming-the-others-emotion",
-    "enjoy-over-manage",
-    "fear-vs-excitement",
-    "feel-over-figure",
-    "judgment-vs-discernment",
-    "managing-vs-healing-trauma",
-    "past-shame-vs-current-shame",
-    "suffering-vs-pain",
-    "dont-do-emotion-at-people",
-    "embrace-intensity",
-    "emotions-live-in-muscles",
-    "fear-is-about-feeling",
-    "helplessness-is-the-gateway",
-    "owning-the-want-dissolves-it",
-    "what-we-fear-we-invite",
-    "daily-emotional-yoga",
-    "feeling-the-want-as-emotion",
-    "visualizing-feared-outcomes",
-    "stages-of-emotional-development",
-    "joes-abandonment-mapping",
-    "joes-crying-story",
-    "joes-pot-habit",
-    "worthlessness-freedom"
+  "how-is-that-not-here-right-now": [
+    "what-if-there-is-no-finish-line",
+    "no-finish-line"
   ],
   "welcoming-the-others-emotion": [
-    "what-would-happen-if-you-stopped"
+    "what-would-happen-if-you-stopped",
+    "chase-it-around-the-room"
   ],
   "caretaking-prevents-the-bottom": [
     "what-would-happen-if-you-stopped",
+    "voice-creates-what-it-fears",
     "visualizing-feared-outcomes"
   ],
   "impartiality": [
@@ -808,10 +1101,13 @@
   ],
   "view": [
     "dont-evangelize-the-work",
+    "dont-fight-the-voice",
     "empathy",
     "impartiality",
+    "voice-in-the-head",
     "vulnerability",
     "wonder",
+    "apply-view-to-the-voice",
     "wonder-vs-curiosity",
     "connection-over-perfection",
     "decisions-are-emotional",
@@ -838,6 +1134,26 @@
     "dont-evangelize-the-work",
     "community-over-teacher"
   ],
+  "layered-resistance": [
+    "dont-fight-the-voice",
+    "resistance",
+    "undoing-not-doing",
+    "voice-in-the-head",
+    "negative-self-reinforcement",
+    "suffering-vs-pain",
+    "connection-over-perfection",
+    "process-over-result"
+  ],
+  "awareness-as-change-agent": [
+    "dont-fight-the-voice",
+    "untruth-in-every-thought",
+    "voice-as-care",
+    "voice-in-the-head",
+    "rehearsing-conversations",
+    "repetitive-vs-inspirational-voice",
+    "love-is-the-best-change-agent",
+    "joes-26-year-old-list"
+  ],
   "vulnerability": [
     "fixing-people",
     "view-as-technique",
@@ -862,6 +1178,7 @@
     "wants-vs-partiality",
     "acting-as-if-already-true",
     "feared-consequences-rarely-happen",
+    "trying-to-be-right-is-the-voice",
     "vulnerability-is-personal",
     "vulnerability-protects",
     "whats-the-scary-truth",
@@ -877,7 +1194,8 @@
     "vulnerability",
     "owning-your-partiality",
     "owning-the-want-dissolves-it",
-    "selfishness-is-the-engine-of-unity"
+    "selfishness-is-the-engine-of-unity",
+    "trying-to-be-right-is-the-voice"
   ],
   "staying-in-your-body": [
     "losing-yourself-in-others",
@@ -918,6 +1236,8 @@
     "defense",
     "heartbreak-as-capacity-expansion",
     "resistance",
+    "voice-as-care",
+    "chase-it-around-the-room",
     "boundary-with-vs-boundary-against",
     "love-vs-nice",
     "softening-as-caring-diagnostic",
@@ -934,6 +1254,7 @@
     "empathy",
     "vulnerability",
     "wonder",
+    "apply-view-to-the-voice",
     "good-and-corruption-cycle",
     "marketing-as-the-beginning",
     "process-over-result",
@@ -965,6 +1286,7 @@
     "embrace-intensity",
     "enjoyment-as-surrender",
     "nature-improves-itself",
+    "nervous-system-recovery-after-stress",
     "wants-over-shoulds",
     "five-principles-of-the-path",
     "four-faces-of-love"
@@ -979,6 +1301,7 @@
     "tools-to-change-not-love",
     "love-as-deep-welcoming",
     "loving-all-parts",
+    "apply-view-to-the-voice",
     "good-and-corruption-cycle",
     "love-is-the-best-change-agent",
     "view"
@@ -987,23 +1310,16 @@
     "tools-to-change-not-love",
     "grief-as-gateway-to-self-love",
     "love-as-deep-welcoming",
+    "voice-as-care",
     "late-stage-reversion",
     "excavating-the-inner-critic-in-group",
     "improvement-vs-authenticity",
     "acceptance-as-change-strategy",
     "love-is-the-best-change-agent"
   ],
-  "undoing-not-doing": [
-    "tools-to-change-not-love",
-    "art-of-accomplishment",
-    "self-realization",
-    "trying-vs-doing",
-    "nature-improves-itself",
-    "hands-together-exercise",
-    "seven-limiting-beliefs"
-  ],
   "familiar-over-safe": [
     "view-as-technique",
+    "engineering-heartbreak-to-avoid-heartbreak",
     "poverty-mentality",
     "3-to-5-rule",
     "pleasure-capacity",
@@ -1078,6 +1394,7 @@
     "become-unnecessary",
     "community-over-teacher",
     "epiphany-becomes-rut",
+    "nervous-system-recovery-after-stress",
     "process-over-result"
   ],
   "examples/joes-board-member": [
@@ -1126,6 +1443,12 @@
     "epiphany-vs-transformation",
     "feel-over-figure"
   ],
+  "joes-abandonment-mapping": [
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "feeling-the-unfelt-emotion",
+    "trauma-mapping",
+    "what-we-fear-we-invite"
+  ],
   "container-of-love": [
     "feeling-the-unfelt-emotion",
     "integration",
@@ -1135,13 +1458,9 @@
     "managing-vs-healing-trauma",
     "trauma-heals-in-relationship"
   ],
-  "joes-abandonment-mapping": [
-    "feeling-the-unfelt-emotion",
-    "trauma-mapping",
-    "what-we-fear-we-invite"
-  ],
   "treat-yourself-as-actor-of-emotion": [
-    "feeling-the-unfelt-emotion"
+    "feeling-the-unfelt-emotion",
+    "chase-it-around-the-room"
   ],
   "daily-emotional-yoga": [
     "feeling-the-unfelt-emotion",
@@ -1165,14 +1484,6 @@
     "feeling-the-unfelt-emotion",
     "vulnerability",
     "shame-drives-behavior"
-  ],
-  "unfelt-emotion-leaks": [
-    "feeling-the-unfelt-emotion",
-    "three-signals-of-unfelt-emotion",
-    "feel-over-figure",
-    "judgment-vs-discernment",
-    "dont-do-emotion-at-people",
-    "daily-emotional-yoga"
   ],
   "kinked-emotions": [
     "feeling-the-unfelt-emotion",
@@ -1238,7 +1549,9 @@
   "zen-sickness": [
     "integration",
     "self-realization",
-    "undoing-not-doing"
+    "undoing-not-doing",
+    "voice-in-the-head",
+    "repetitive-vs-inspirational-voice"
   ],
   "epiphany-vs-transformation": [
     "integration",
@@ -1297,25 +1610,28 @@
     "money-must-flow",
     "money-domain"
   ],
-  "layered-resistance": [
-    "resistance",
-    "undoing-not-doing",
-    "negative-self-reinforcement",
-    "suffering-vs-pain",
-    "connection-over-perfection",
-    "process-over-result"
+  "epiphany-becomes-rut": [
+    "no-finish-line",
+    "feel-over-figure",
+    "good-and-corruption-cycle",
+    "stages-of-emotional-development"
   ],
-  "connection-over-perfection": [
-    "resistance",
-    "impulse-to-should",
-    "perfectionism",
+  "process-over-result": [
+    "no-finish-line",
+    "quit-hope-lose-cycle",
+    "enjoy-over-manage",
+    "intention-vs-goal",
+    "short-term-vs-long-term-partiality",
+    "wanting-vs-craving",
     "awareness-as-change-agent",
-    "consciousness-is-the-product",
-    "epiphany-becomes-rut",
-    "marketing-as-the-beginning",
-    "seven-limiting-beliefs",
+    "connection-over-perfection",
+    "enjoyment-as-path",
+    "principles-free-you",
+    "wanting-itself-not-what-you-want",
+    "listening-to-impulse",
+    "five-principles-of-the-path",
     "view",
-    "spaghetti-tower-experiment"
+    "pow-optimist"
   ],
   "negative-self-reinforcement": [
     "resistance",
@@ -1356,16 +1672,6 @@
     "what-is-truly-compassionate",
     "feeling-the-want-as-emotion"
   ],
-  "trying-vs-doing": [
-    "undoing-not-doing"
-  ],
-  "three-signals-of-unfelt-emotion": [
-    "unfelt-emotion-leaks",
-    "binary-thinking-signals-fear",
-    "feel-over-figure",
-    "judgment-vs-discernment",
-    "decisions-are-emotional"
-  ],
   "judgment-vs-discernment": [
     "unfelt-emotion-leaks",
     "three-signals-of-unfelt-emotion",
@@ -1380,6 +1686,12 @@
     "hardening-means-personal",
     "daily-emotional-yoga",
     "stages-of-emotional-development"
+  ],
+  "believing-the-convenient-lie": [
+    "untruth-in-every-thought"
+  ],
+  "repetitive-vs-inspirational-voice": [
+    "voice-in-the-head"
   ],
   "vulnerability-in-the-workplace": [
     "vulnerability",
@@ -1419,22 +1731,6 @@
     "listening-to-impulse",
     "seven-limiting-beliefs"
   ],
-  "process-over-result": [
-    "quit-hope-lose-cycle",
-    "enjoy-over-manage",
-    "intention-vs-goal",
-    "short-term-vs-long-term-partiality",
-    "wanting-vs-craving",
-    "awareness-as-change-agent",
-    "connection-over-perfection",
-    "enjoyment-as-path",
-    "principles-free-you",
-    "wanting-itself-not-what-you-want",
-    "listening-to-impulse",
-    "five-principles-of-the-path",
-    "view",
-    "pow-optimist"
-  ],
   "trauma-heals-in-relationship": [
     "excavating-the-inner-critic-in-group"
   ],
@@ -1461,18 +1757,10 @@
   "pleasure-capacity": [
     "enjoy-over-manage"
   ],
-  "epiphany-becomes-rut": [
-    "feel-over-figure",
-    "good-and-corruption-cycle",
-    "stages-of-emotional-development"
-  ],
   "joes-hacky-sack": [
     "improvement-vs-authenticity",
     "nature-improves-itself",
     "buurtzorg-nursing"
-  ],
-  "wanting-itself-not-what-you-want": [
-    "improvement-vs-authenticity"
   ],
   "five-principles-of-the-path": [
     "intention-vs-goal",
@@ -1529,11 +1817,6 @@
   "enjoyment-as-surrender": [
     "enjoyment-as-path"
   ],
-  "quit-hope-lose-cycle": [
-    "epiphany-becomes-rut",
-    "helplessness-is-the-gateway",
-    "pow-optimist"
-  ],
   "vulnerability-protects": [
     "fear-is-about-feeling"
   ],
@@ -1544,10 +1827,6 @@
   ],
   "tennis-quarter": [
     "goal-beyond-the-goal"
-  ],
-  "awareness-as-change-agent": [
-    "love-is-the-best-change-agent",
-    "joes-26-year-old-list"
   ],
   "structure-and-empowerment": [
     "principles-free-you",
@@ -1561,6 +1840,9 @@
   ],
   "joes-26-year-old-list": [
     "shame-drives-behavior"
+  ],
+  "being-right-college-story": [
+    "trying-to-be-right-is-the-voice"
   ],
   "childhood-vulnerability-wound": [
     "vulnerability-protects"

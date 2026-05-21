@@ -4,8 +4,8 @@ id: trauma-mapping
 title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma"]
 tags: ["trauma", "attachment", "patterns", "repetition"]
-related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection"]
 ---
 
 # Trauma Mapping
@@ -45,9 +45,25 @@ The most visible everyday instance: the friend who keeps dating the same person 
 
 Joe's own example is emotional abandonment. He recreated emotionally abandoning people over and over until he fell in love with abandonment, after which the system found homeostasis and stopped recreating it. See [[joes-abandonment-mapping]].
 
+## The Engineering Frame
+
+The language of "attracting" or "recreating" can sound passive. A more accurate framing emphasizes the body's active construction of the conditions: engineering. The person who is most afraid of heartbreak engineers the conditions for heartbreak. The hyper-focuser engineers the disconnection. The high achiever engineers the burnout. The construction is unconscious but precise.
+
+"You're engineering heartbreak that you then avoid. And then you get to feel heartbreak/shame for avoiding the thing that you created to feel that you'd not using the feel." -- Joe Hudson, Allowing Yourself to Change
+
+The engineering frame is particularly useful when the passive frame has started to produce self-pity. Returning agency without returning blame is the work. See [[engineering-heartbreak-to-avoid-heartbreak]].
+
 ## Trauma Mapping as the Body's Loop-Completion Mechanism
 
 This is the same mechanism as [[what-we-fear-we-invite]] but framed from the body's perspective. The body holds an incomplete emotional loop. It seeks completion. It will keep generating the conditions where completion might happen. The way to stop the recreation is to complete the loop: feel the emotion and welcome it.
+
+## Trauma Mapping as Projection
+
+Trauma mapping is the same machinery as "projection onto the world" in the four-types frame. See [[projections]]. What gets installed in the first 8 or 9 years — love is criticism, money is scarcity, authority is anger — becomes the perceptual lens that filters adult experience. The lens organizes attraction, perception, and behavior to keep producing situations that confirm the lesson.
+
+"How we lived our first 8 or 9 years of life when we're in theta brainwaves and where we're basically learning what life is. And we might learn that love is associated with shame, or money is associated with lack, or authority is associated with anger. And then we go and recreate those projections in our life because we're like, okay, that's what we learned it is." -- Joe Hudson, Your World is a Projection
+
+The perceptual face of the mechanism is supported by [[negative-bias-of-trauma-imprinting]]: the brain encodes the negative lesson and filters out the surrounding data that would have complicated it. The lesson dominates; the complicating evidence becomes invisible.
 
 "The things that we are most scared of are the things that we're subtly inviting into our life. So if we're most scared of feeling helpless, we will invite helplessness unconsciously into our life so that we have that opportunity to feel it." -- Joe Hudson, Feel over Figure
 
@@ -68,3 +84,5 @@ This is the same mechanism as [[what-we-fear-we-invite]] but framed from the bod
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2021-07-30_Your World is a Projection

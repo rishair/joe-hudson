@@ -4,8 +4,8 @@ id: what-we-fear-we-invite
 title: "What We Fear, We Invite"
 aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite"]
 tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality"]
-related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection"]
 ---
 
 # What We Fear, We Invite
@@ -33,6 +33,14 @@ The reason avoidance produces the feared thing is that the body keeps generating
 "The things that we are most scared of are the things that we're subtly inviting into our life. So if we're most scared of feeling helpless, we will invite helplessness unconsciously into our life so that we have that opportunity to feel it." -- Joe Hudson, Feel over Figure
 
 Joe's own example: he avoided the feeling of emotional abandonment and then attracted people who would emotionally abandon him, over and over, until he finally welcomed the feeling. After that the recreation stopped. See [[joes-abandonment-mapping]].
+
+## The Target Fixation Image
+
+A useful physical metaphor: if you are flying a parachute and there is a tree in the field where you want to land, looking at the tree makes you hit the tree. Same with riding a motorcycle around a corner — look into the ditch and you go into the ditch. The body steers toward where attention is fixed.
+
+The metaphor extends naturally to fear-based scanning. The person who is most afraid of being abandoned scans for signs of abandonment, interprets neutral signals as threats, and behaves in ways that produce the distance they were trying to avoid. Where attention goes, the system follows. See [[target-fixation]] for the full example and Joe's concrete case of the friend at the job whose fear of being seen as bad and incapable steered his behavior into being bad and incapable.
+
+A live example Joe gives: "He needs to do something at his job. And he doesn't want to feel the anger of his boss, so he doesn't do the thing that he needs to do to make sure that the job is done right, 'cause he's trying to avoid the anger. And then by not doing the thing he needs to do, he's got more evidence that he's bad and incapable." -- Joe Hudson, Your World is a Projection
 
 ## The Stagnation Application
 

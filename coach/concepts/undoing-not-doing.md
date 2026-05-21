@@ -2,10 +2,10 @@
 type: concept
 id: undoing-not-doing
 title: "Undoing, Not Doing"
-aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated"]
+aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated", "I did something I need to keep", "doing vs undoing"]
 tags: ["transformation", "undoing", "method", "release", "concept"]
-related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love", "quit-hope-lose-cycle", "no-finish-line"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
 ---
 
 # Undoing, Not Doing
@@ -68,6 +68,20 @@ The practical questions shift from "what do I need to add?" to "what am I doing 
 
 The work is always available because there is always conditioning to release. There is no end state to arrive at. The undoing continues.
 
+## What Does Not Need to Be Kept
+
+A consequence of the undoing frame: there is nothing to keep. A state arrived at through doing must be maintained. A state arrived at through undoing was already there. The maintenance question never applies.
+
+This is the diagnostic difference between a real shift and a performed one. When someone has a moment of clarity and immediately asks "how do I keep this?" the question reveals they have made the clarity into a thing they did. A clarity that arrived through undoing does not generate the question.
+
+"The difference is that there's not a doing, there's an undoing. Right, so it's like, I did something and I need to keep it, is very different than I undid something and saw the truth. Then what do you have to do to keep it?" -- Joe Hudson, Allowing Yourself to Change
+
+See [[quit-hope-lose-cycle]] for the full pattern of gripping a state, and [[no-finish-line]] for the related concept that there is no arrival point to be maintained.
+
+When the previous coping mechanisms drop away through undoing, the natural state that surfaces is not new. It was what was there before all the layers were added. The phrase that describes the encounter is recognition, not achievement.
+
+"You didn't become a different person. All you had to do was just see what was actually happening and the serenity came in." -- Joe Hudson, Allowing Yourself to Change
+
 ## What Someone Experiences
 
 The first felt sense of undoing is often relief. The relief of putting down something you did not realize you were carrying. The conditioned pattern was active, taking energy, producing tension. Releasing it produces an immediate experience of more space.
@@ -97,3 +111,4 @@ Quiet, almost casual. Joe presents this as obvious once seen. Not a heroic refra
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)

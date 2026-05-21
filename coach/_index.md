@@ -7,27 +7,34 @@
 - i-feel-trapped I feel trapped / They have power over me (also: I have no choice, they control me, I can't do anything, I'm stuck, I'm subjugated, the system has power over me, I'm a victim of circumstances)
 - i-freeze-around-authority I freeze around authority figures (also: I freeze around my boss, authority figures shut me down, I can't be myself around my boss, I freeze around men like my father, I shut down with authority, they remind me of my father, I either want to fight or roll over)
 - i-have-to-sacrifice-to-succeed I have to sacrifice to succeed (also: sacrifice for success, grind required, you have to suffer to make it, real success requires giving things up, I had to cut off parts of myself)
+- i-keep-crashing-and-burning I keep crashing and burning / I go all-in then it all falls apart (also: wild oscillation pattern, boom and bust life, hyperfocus then collapse, I go deep then crash, deep dive then crash pattern, I get obsessed and then everything else falls apart, rabbit hole pattern, attentional black holes, I disappear into things, I commit hard then drop it, wild swings in my life)
 - i-need-to-improve-myself I need to improve myself (also: self-improvement, I have to be better, I need to fix this about myself, improving myself, I keep working on myself, constant self-improvement, I'm always trying to improve, I have a long list of things to work on)
 - i-should-be-doing-this I should be doing this / I shouldn't be doing this (also: the should concern, I know I should, I keep telling myself I should, should language, I shouldn't be eating this, obligation language, I have to)
 - if-i-had-more-money If I had more money, I could solve my problems (also: money will solve it, I just need more money, if I had enough money, money would fix this, I'd be free if I had more money, more money is the answer, money is the solution)
 - ill-become-lazy-without-shoulds I'll become lazy if I stop should-ing myself (also: fear of laziness without shoulds, couch potato fear, I'd never do anything, I need the pressure, without discipline I'd fall apart, I won't be productive, fear of becoming a slacker)
 - im-afraid-of-stagnating I'm afraid of stagnating (also: fear of stagnation, I don't want to stagnate, I need to keep growing, I'll get stuck if I stop pushing, fear of getting stuck, stagnation fear, I'll stop growing)
 - money-is-bad Money is bad / I don't want to play that game (also: money is evil, money corrupts, rich people are bad, the system sucks, I don't want to participate in this, I don't want to be that person, wealth is gross, I refuse to play the money game)
+- my-inner-critic-wont-stop My inner critic won't stop / The voice in my head is constant (also: voice in my head won't shut up, constant self-criticism, I'm always criticizing myself, I can't quiet my mind, my mind never stops, the critic in my head, constant internal chatter, my brain never shuts up, I'm so hard on myself, the voice in my head, I keep rehearsing, rumination concern, I can't stop the loop)
 
 ## Reads
 
+- desire-for-resolution Desire for Resolution (also: wanting to wrap it up, the push for closure, let's get to a conclusion, wanting resolution, the resolution pull, the desire to be done)
 - disassociating-in-the-coaching-room Disassociating in the Coaching Room (also: disassociating live, the look away, losing connection mid-session, mild dissociation, stopping looking at me, leaving the room)
 - fight-or-roll-over-binary The Fight-or-Roll-Over Binary (also: fight or roll over, fight or submit, binary stance with authority, I either fight or roll over, fight or surrender binary, rebellion or submission stance)
 - how-much-fight How Much Fight Is in a Person (also: fight level, reading the fight in someone, amount of battle, fight in the system, how much war)
 - in-the-story-im-not-being-seen In the Story 'I'm Not Being Seen' (also: the I'm not being seen story, not being seen as cover, blaming others for not seeing me, the unseen story, I just want to be seen)
+- linguistic-caveat The Linguistic Caveat (also: modifier words doing work, the qualifier read, attentionally not intentionally, softening words, the hedge word, the careful adjective)
+- manufacturing-the-feeling Manufacturing the Feeling (also: producing the emotion, trying to feel it, performing the feeling, you started manufacturing it, engineering the feeling, doing the feeling at yourself)
 - rehearsing-how-to-say-it Rehearsing How to Say It (also: managing the delivery, running it through in your head, crafting the message, rehearsing the conversation, scripting before speaking, the safe paragraph)
 - you-think-they-cant-handle-it You Think They Can't Handle It (also: they're too weak to hear it, they can't take it, I have to protect them from the truth, if I say this they'll fly off the handle, softening the truth, they're too fragile)
 
 ## Questions
 
 - how-do-you-want-to-be How do you want to be? (also: how do you want to be when you grow up, how vs what question, how do you want to live, the how question, how question instead of what)
+- how-is-that-not-here-right-now How is that not here right now? (also: how is what you want not here, it's already here question, the present-moment collapse question, what you're seeking is already in the room, the resolution-is-already-here question)
 - how-is-that-not-true-about-you How is that not true about you? (also: the mirror question, how is that not you, how is that not also true of you, the projection question)
 - what-am-i What am I? (also: what am I question, the what am I inquiry, what are you, self-inquiry question, non-dual question)
+- what-if-there-is-no-finish-line What if there is no finish line? (also: what if there is no done, what if you never arrive, what if there is no complete, what if there is no heaven, the no-arrival question, the no-done question)
 - what-if-they-did-see-you What if they did see you and you can't recognize it? (also: what if they actually see you, what if you can't recognize being seen, the inversion question, what if the opposite is true)
 - what-if-you-acted-exactly-how-you-want What if you acted exactly how you want to act and saw what happens? (also: what if you acted exactly how you want, the empowerment question, act how you want and see, stop compromising your truth question)
 - what-is-it-without-resistance What is it without resistance in it? (also: feel it without resistance, what happens without the resistance, what does X become without resistance, remove the resistance from the feeling)
@@ -39,6 +46,7 @@
 ## Anti-Patterns
 
 - dont-evangelize-the-work Don't evangelize the work (also: missionary work, using tools without permission, pushing transformation on others, coaching without consent, tools without shadow work, carrying someone else's tools without consciousness)
+- dont-fight-the-voice Don't Use the Voice to Silence the Voice (also: thief security guard, thief as security, fighting the voice, war with the voice, voice vs voice, attacking the inner critic, trying to silence the voice)
 - fixing-people Don't try to fix people (also: fixing, trying to help, being valuable, saving people, advice-giving, leading to a solution)
 - impartial-apathy Don't confuse apathy with impartiality (also: I don't care, false impartiality, apathetic impartiality, disowning wants, above your humanity)
 - losing-yourself-in-others Don't lose yourself in others' emotions (also: merging with emotions, codependent empathy, lost in the other person, empathic merging, over-empathizing)
@@ -59,6 +67,7 @@
 - container-of-love Container of Love (also: container, held in love, environment of love)
 - defense Defense (also: defending yourself, the wall, defensiveness, somatic defense, the defensive wall, mental defense, separation as defense)
 - empathy Empathy (also: being with someone in their emotions, E in VIEW, true empathy, felt sense of another, being with not saving)
+- engineering-heartbreak-to-avoid-heartbreak Engineering Heartbreak to Avoid Heartbreak (also: engineering the thing you avoid, creating the heartbreak you fear, recreating the avoided feeling, the avoidance creates the thing, engineered heartbreak, creating the trauma you're avoiding)
 - expanding-sense-of-self Expanding Sense of Self (also: sense of self expands, I am my family, I am the ecosystem, universal will, oneness, self gets bigger)
 - familiar-over-safe Familiar Over Safe (also: choosing familiar over safe, addiction to trauma, homeostasis seeking)
 - feeling-the-unfelt-emotion Feeling the Unfelt Emotion (also: fully feeling the emotion, processing the held-back emotion, inviting the emotion, welcoming the avoided feeling, falling in love with the emotion)
@@ -72,15 +81,19 @@
 - loving-all-parts Loving All Parts (also: loving all aspects of self, learning to love every part, loving the dark parts)
 - money-as-surrogate Money as Surrogate (also: money is love, money is father's love, money as substitute, money standing in for something else, money is security, money is power, what money is not, money as projection, projecting on money)
 - money-is-impersonal Money Is Impersonal (also: depersonalizing money, money is not personal, money isn't a reflection of you, money flows differently when impersonal, taking money personally, money as projection)
+- no-finish-line No Finish Line (also: the arrival fantasy, no done state, no heaven, no completion, the residual religion, the finish line story, the I'll arrive story, the when I'm enlightened story)
 - poverty-mentality Poverty Mentality (also: poverty mindset, poverty mentality, scarcity of love, scarcity of attention, Joe's poverty mentality, poverty isn't about money, the false belief I can't get what I need)
 - resistance Resistance (also: loving the resistance, if you can't love the thing love the resistance, resistance to change, fighting yourself, the fight, war with yourself)
 - self-realization Self-Realization (also: self realization, what am I, the question what am I, self-discovery, self discovery, realizing what you are, knowing what you are, non-dual realization, recognition of self)
 - should-as-threat Should as Threat (also: should is a threat, four layers of should, energetic should, should produces rebellion or submission, should as bad management)
 - the-want The Want (also: want as impulse, want as emotion, wanting as feeling, the deep want, want as longing, longing, desire as feeling)
 - trauma-mapping Trauma Mapping (also: mapping, attracting trauma, recreating trauma patterns, addiction to trauma)
-- undoing-not-doing Undoing, Not Doing (also: undoing not doing, transformation is undoing, an undoing not a doing, release the false to find what is, you don't need to add anything, annihilation, what cannot be annihilated)
+- undoing-not-doing Undoing, Not Doing (also: undoing not doing, transformation is undoing, an undoing not a doing, release the false to find what is, you don't need to add anything, annihilation, what cannot be annihilated, I did something I need to keep, doing vs undoing)
 - unfelt-emotion-leaks Unfelt Emotion Leaks (also: unfelt emotion comes out sideways, the leak, emotion you don't feel comes out at others, anger at someone is unfelt anger, leakage, emotion has to go somewhere)
+- untruth-in-every-thought The Small Untruth in Every Thought (also: untruth in every thought, the lie in the thought, false logic of the voice, the voice contradicts itself, find the untruth, every voice statement has a lie, voice's false logic)
 - upright-undefended-love Upright Undefended Love (also: empowered love, love that doesn't submit, upright love, non-submissive love, non-falling-forward love, falling forward love, balance with love, balanced empowered love)
+- voice-as-care The Voice Is Love With Bad Strategies (also: voice as care, voice as love, voice in head as care, the voice loves you, voice's intention, deep care behind the voice, the voice cares, intention behind the voice)
+- voice-in-the-head The Voice in the Head (also: voice in head, voice in your head, the inner critic, self-talk, internal dialogue, the inner voice, the editor, the recurring negative voice, upper dog, the voice, internal critic, horrible micromanaging boss)
 - vulnerability Vulnerability (also: being vulnerable, speaking your truth, truth even when scared, V in VIEW)
 - wonder Wonder (also: W in VIEW, awe, being in the question, open curiosity, follow your wonder)
 - zen-sickness Zen Sickness (also: depersonalization as awakening, depersonalization disorder, resisted awakening, identity dissolution)
@@ -99,20 +112,25 @@
 - pendulation Pendulation (also: back and forth learning, I lost it, two steps forward one step back, the learning went away, regression in learning)
 - perfectionism Perfectionism (also: being a perfectionist, critical parent's voice, trying to be perfect, perfection seeking, rigidity from perfectionism, measuring up)
 - pleasure-capacity Pleasure Capacity (also: capacity for pleasure, pleasure ceiling, nervous system ceiling for enjoyment, too much pleasure, enjoyment overwhelm)
-- quit-hope-lose-cycle The Quit-Hope-Lose Cycle (also: I hope this lasts, holding on to change, fear of losing progress, achievement and loss cycle, transformation relapse cycle, how do I keep it)
+- quit-hope-lose-cycle The Quit-Hope-Lose Cycle (also: I hope this lasts, holding on to change, fear of losing progress, achievement and loss cycle, transformation relapse cycle, how do I keep it, fear of losing the serenity, the gripping question)
 - rebellion-or-submission-to-should Rebellion or Submission to Should (also: two responses to should, rebellion to should, submission to should, self-rebellion, self-submission, why bad habits stick)
+- rehearsing-conversations Rehearsing Conversations (also: rehearsing the conversation, running scenarios in your head, pre-living the conversation, perfecting the script, the rehearsal pattern, imaginary conversations, post-hoc rehearsal, replaying conversations)
 - same-scarcity-story-regardless-of-wealth Same Scarcity Story Regardless of Wealth (also: billionaire-and-me thought, billionaires think the same way, I'm a billionaire realization, wealth doesn't change the story, scarcity loop independent of money, the mind always wants more, more more more pattern)
 - three-signals-of-unfelt-emotion Three Signals of an Unfelt Emotion (also: three signals, looping thought judgment indecision, diagnostic signals of unfelt emotion, how to know there's unfelt emotion, the three diagnostics)
 
 ## Moves
 
+- apply-view-to-the-voice Apply VIEW to the Voice (also: view to the voice, vulnerability with the voice, empathy with the voice, wonder about the voice, impartiality with the voice, VIEW inward to the inner critic, apply VIEW to inner critic)
+- ask-the-witnesses Ask the Witnesses (also: what would they say, if we asked the women in your life, the witness move, imagined third-party reports, the third-party prompt)
 - become-the-authority-figure Become the Authority Figure (also: role-play the authority, I'll be your boss, live role-play, stand in for the trigger, be the dad, role-play move)
 - calibrate-the-threshold Calibrate the Threshold (also: ask for the percentage, what percentage, how much fight, numerical calibration, threshold question, make it specific)
+- chase-it-around-the-room Chase It Around the Room (also: chasing the emotion, I'm going to love you, you can't get away from me, pursue the avoidant feeling, playful pursuit of the feeling, loving the hiding feeling)
 - excavating-the-inner-critic-in-group Excavating the Inner Critic in Group (also: listing the voice on the wall, inner critic exercise, making shame visible)
 - find-the-want-behind-the-should Find the Want Behind the Should (also: locate the want under the should, what do you actually want here, translate the should, the want behind it)
 - mirror-the-judgment Mirror the Judgment Back (also: how is that not true about you, mirror move, turn the judgment around, the projection mirror, judgment mirror)
 - not-sometimes-right-now Not Sometimes, Right Now (also: bring it into the present, feel it now, right now not abstract, stop talking about it and feel it)
 - owning-your-partiality Owning Your Partiality (also: calling out your own agenda, naming your partiality, apologizing for fixing, I notice I'm trying to fix you)
+- question-the-caveat Question the Caveat (also: question the qualifier, ask about the modifier word, why did you hedge, what makes you say it that way, the qualifier inquiry)
 - treat-yourself-as-actor-of-emotion Treat Yourself as an Actor of the Emotion (also: actor metaphor for emotion, you are the actor playing yourself, non-personal emotion, emotion is not personal, actor playing the part, watch the emotion like an actor)
 - welcoming-the-others-emotion Welcoming the Other's Difficult Emotion (also: tell me how angry you are, I can accept your anger, I welcome your sadness, the anti-caretaking welcoming move, yeah baby give me your anger, let them have it)
 
@@ -134,6 +152,7 @@
 - love-vs-nice Love vs. Nice (also: love is not nice, nice is not love, loving is not being nice, love vs niceness, hard truth as love)
 - managing-vs-healing-trauma Managing vs. Healing Trauma (also: managing vs resolving, symptom management vs resolution, managing PTSD vs healing it)
 - past-shame-vs-current-shame Past Shame vs. Current Shame (also: current shame vs past shame, useful shame, shame about the past, self-brutalization, shame that perpetuates patterns)
+- repetitive-vs-inspirational-voice Repetitive Voice vs. Inspirational Voice (also: repetitive vs inspirational, negative recurring voice vs unique thought, two kinds of thoughts, recurring voice vs creative voice, the loop vs the new)
 - resentment-as-caretaking-diagnostic Resentment as Caretaking Diagnostic (also: resentment signals caretaking, if you feel resentful you're caretaking, the resentment tell, two-way resentment in caretaking)
 - resources-vs-resourcefulness Resources vs. Resourcefulness (also: resources versus resourcefulness, resources won't solve resourcefulness, money vs creativity, capital vs capability, resources can't fix resourcefulness)
 - safety-vs-defensiveness Safety vs. Defensiveness (also: unsafe vs defensive, feeling unsafe vs feeling defensive, threat vs rigidity)
@@ -150,7 +169,7 @@
 
 - acceptance-as-change-strategy Acceptance Is the Most Effective Path to Change (also: accept then change, acceptance enables change, fighting is inefficient, accept how it is to change how it will be, acceptance is not resignation, love and accept and ask to change, acceptance vs resignation)
 - acting-as-if-already-true Acting As If Your Vision Is Already True (also: live the vision now, be the change already, visionary action, as if reality, the world bends toward your truth)
-- awareness-as-change-agent Awareness as Change Agent (also: awareness changes things, attention solves problems, just putting attention on it, awareness not management)
+- awareness-as-change-agent Awareness as Change Agent (also: awareness changes things, attention solves problems, just putting attention on it, awareness not management, gentle awareness reduces the voice, noticing changes things)
 - become-unnecessary Become Unnecessary (also: the less involved I can be the better, less needed the better, becoming unnecessary as success, a good teacher becomes unnecessary, the math teacher test, remove yourself from the equation, make yourself replaceable, necessary teacher trap)
 - caretaking-prevents-the-bottom Caretaking Prevents the Bottom That Healing Requires (also: enabling prevents recovery, no bottom no healing, the wealthy alcoholic principle, caretaking strengthens the dynamic, caretaking trains the behavior)
 - community-over-teacher Community Over Teacher (also: community is more important than the teacher, group intelligence, community of practice, wisdom of the group, the teacher pointing back to the student, people creating their own tools from their consciousness)
@@ -179,6 +198,7 @@
 - marketing-as-the-beginning Marketing Is the Beginning of the Work (also: marketing as beginning of the course, the marketing IS the course, the funnel is the work, every touchpoint serves the work, marketing as self-exploration, designing the marketing as part of the curriculum, no neutral touchpoints)
 - money-must-flow Stagnant Money Is Destructive (also: money must flow, stagnant money is destructive, money as energy flow, exchange of energy, the Nicaragua story, if you're here to help me no thank you, monetary exchange as freedom, free help teaches dependence, mutual freedom not charity)
 - nature-improves-itself Nature Improves Itself (also: growth is natural, the oak tree grows on its own, your nature is to learn, growth happens without trying, we don't need to improve, the river runs on its own, growth is the nature of being alive)
+- nervous-system-recovery-after-stress The Body Needs to Sit Down After Prolonged Stress (also: nervous system depression after stress, the bathrobe period, physical depression as recovery, the body shuts down to recover, depression after sustained pressure, the post-stress collapse, CEO bathrobe phenomenon)
 - owning-the-want-dissolves-it Owning the Want Often Dissolves It (also: fully feeling the want releases it, ownership transforms the want, want refines when owned, the $10 million dissolves to security, name the want and watch it shift)
 - principles-free-you Living By Principles Frees You (also: principles create freedom, principled living, principles as empowerment, elegant structure of principles, personal constitution)
 - process-over-result Process Over Result (also: trust the process, faith in the process, outcome attachment, principled living)
@@ -186,7 +206,9 @@
 - selfishness-is-the-engine-of-unity Selfishness Is the Engine of Unity (also: selfish gene, undeveloped selfishness, deep selfishness becomes compassion, deep wants become generous, levels of selfishness as developmental gauge, selfishness as development marker, I don't even believe in selfishness, selfishness is a word adults created to control children)
 - shame-drives-behavior Shame Drives Behavior (also: shame causes the actions, shame is the lock, shame holds bad habits in place, remove shame first, should is a mechanism of shame)
 - trauma-heals-in-relationship Trauma Heals in Relationship (also: relational healing, healing in relationship, trauma created in relationship heals in relationship)
+- trying-to-be-right-is-the-voice Trying to Be Right Is the Voice (also: being right is the voice, trying to do the right thing is the voice, the integrity costume, what would the right thing be is voice, the right answer trap, the voice in the head wants to be right, subtle voice as integrity)
 - victim-stance-invites-abuse Victim Stance Invites Abuse (also: victim invites abuser, the oppressed position attracts oppressors, owning the victim role, victims and abusers, you attract what you embody)
+- voice-creates-what-it-fears The Voice in the Head Creates the Reality It's Trying to Avoid (also: voice creates what it fears, the voice produces what it warns against, perfectionist voice prevents quality, voice's self-defeating nature, the voice causes the thing it's preventing)
 - vulnerability-is-personal Vulnerability Is Personal (also: vulnerability is not a morality, what's vulnerable is different for everyone, your truth your fear, vulnerability varies by person)
 - vulnerability-protects Vulnerability Protects (also: vulnerability as protection, fear allows being taken advantage of, vulnerability prevents exploitation)
 - wanting-itself-not-what-you-want The Wanting Is What Matters, Not What You Want (also: wanting itself matters, what you want is inconsequential, the wanting pulls you, follow the wanting not the want, the direction not the destination, wants as strategy, wanting as fuel)
@@ -199,14 +221,17 @@
 
 - daily-emotional-yoga Daily Emotional Yoga (also: emotional yoga, daily emotional practice, 20 minutes of emotion, feeling practice, scheduled emotional release)
 - dont-improve-for-two-weeks Don't Improve for Two Weeks (also: two week non-improvement, stop improving experiment, the holiday experiment, no improvement experiment, don't try to grow, the non-improvement test)
+- experimenting-with-the-voice Experimenting with the Voice (also: experimenting with voice in head, play with the voice, voice in head experiments, different relationships with the voice, tickle the voice, love the voice as practice)
 - feeling-the-want-as-emotion Feeling the Want as Emotion (also: feel the wanting, let the want move through, sit with the want, wanting practice, Sufi longing practice)
 - hands-together-exercise Hands Together Exercise (also: hands together, the trying vs undoing exercise, palms together exercise, feel the opposite of trying, the somatic undoing)
 - how-what-questions How and What Questions (also: open-ended questions, how what questions, the VIEW technique, asking how and what)
 - is-this-mine Is This Mine? (also: is this mine question, whose emotion is this, checking emotional ownership, empathic boundary question)
+- lawyer-the-voice Lawyer the Voice (also: argumentative lawyer to the voice, lawyer the voice in head, cross-examine the voice, find the untruth practice, challenging the voice, journal the voice and lawyer it)
 - listening-to-impulse Listening to Impulse (also: follow the impulse, listening to the river, impulse over outcome, somatic impulse, waiting for the impulse)
 - questioning-assumptions Questioning Assumptions and Context (also: question the assumption, question the context, assumption questioning, context questioning)
 - staying-in-your-body Staying in Your Body (also: body awareness in conversation, put attention in your body, grounding in the body, feel the bottom of your feet)
 - visualizing-feared-outcomes Visualizing Feared Outcomes (also: feel the fear in advance, grieve the loss in advance, Stoic visualization, pre-feeling, pre-feel the loss, mourn before deciding, feel the death in advance)
+- whats-looking-out-behind-my-eyes What's Looking Out Behind My Eyes? (also: whats looking out behind my eyes, what is looking out, behind the eyes inquiry, the eyes question, shift to awareness practice, who is looking out)
 - whats-the-scary-truth What's the Scary Thing That's True? (also: scary truth question, vulnerability compass, what's the scary thing that's true for me right now, fear plus truth)
 
 ## Frameworks
@@ -259,5 +284,5 @@
 
 ---
 
-Absorb Progress: 23 / 480 transcripts
-Last absorbed: 2021-06-18_Care over Caretaking - Loving without Losing Yourself (2026-05-21)
+Absorb Progress: 25 / 480 transcripts
+Last absorbed: 2021-07-16_Who is the Voice in Your Head? (2026-05-21)

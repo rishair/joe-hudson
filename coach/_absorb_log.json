@@ -568,8 +568,62 @@
     },
     {
       "folder": "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T19:43:42Z",
+      "articles_created": [
+        "i-keep-crashing-and-burning",
+        "linguistic-caveat",
+        "manufacturing-the-feeling",
+        "desire-for-resolution",
+        "question-the-caveat",
+        "chase-it-around-the-room",
+        "ask-the-witnesses",
+        "how-is-that-not-here-right-now",
+        "what-if-there-is-no-finish-line",
+        "engineering-heartbreak-to-avoid-heartbreak",
+        "no-finish-line",
+        "nervous-system-recovery-after-stress"
+      ],
+      "articles_updated": [
+        "undoing-not-doing",
+        "quit-hope-lose-cycle",
+        "trauma-mapping",
+        "integration"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-21T19:54:32Z"
+    },
+    {
+      "folder": "2021-07-16_Who is the Voice in Your Head?",
+      "status": "complete",
+      "claimed_at": "2026-05-21T19:55:46Z",
+      "articles_created": [
+        "voice-in-the-head",
+        "voice-as-care",
+        "untruth-in-every-thought",
+        "repetitive-vs-inspirational-voice",
+        "voice-creates-what-it-fears",
+        "trying-to-be-right-is-the-voice",
+        "rehearsing-conversations",
+        "experimenting-with-the-voice",
+        "whats-looking-out-behind-my-eyes",
+        "lawyer-the-voice",
+        "dont-fight-the-voice",
+        "apply-view-to-the-voice",
+        "my-inner-critic-wont-stop"
+      ],
+      "articles_updated": [
+        "awareness-as-change-agent",
+        "should-as-threat",
+        "perfectionism"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:07:54Z"
+    },
+    {
+      "folder": "2021-07-30_Your World is a Projection",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T20:08:28Z",
       "articles_created": [],
       "articles_updated": []
     }

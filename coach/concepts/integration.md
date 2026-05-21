@@ -4,8 +4,8 @@ id: integration
 title: "Integration"
 aliases: ["integrating transformation", "transcend and integrate", "normalizing transformation", "post-breakthrough integration"]
 tags: ["development", "transformation", "learning", "process"]
-related: ["epiphany-vs-transformation", "three-stages-of-integration", "late-stage-reversion", "process-over-result", "container-of-love", "pendulation", "development-as-corkscrew"]
-sources: ["2020-12-11_Integrating a Transformative Experience"]
+related: ["epiphany-vs-transformation", "three-stages-of-integration", "late-stage-reversion", "process-over-result", "container-of-love", "pendulation", "development-as-corkscrew", "quit-hope-lose-cycle", "no-finish-line", "undoing-not-doing"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
 ---
 
 # Integration
@@ -32,6 +32,20 @@ Other integration practices:
 When integration is working, over weeks or months: emotional fluidity increases, things feel less personal, physical sensation awareness grows, old patterns lose their grip. There is pendulation between old behavior and new behavior. This back-and-forth is normal.
 
 When integration completes, the new capacity becomes invisible. It feels normal. The person may forget it is there because they confuse the skill with the euphoria of the original epiphany. "You're not excited when you're walking at 3 years old. It's just normal."
+
+## Cover-Ups Keep Showing Up
+
+A specific feature of the integration phase: automatic ways of covering up the new clarity keep arising. Each one is small and habitual. "How do I keep this?" "What about my taxes?" "Am I going to be able to get shit done?" Each cover-up is the old structure trying to re-install itself.
+
+The instruction is to notice them as they come and see through them. Not to defeat them or make them stop. They will keep showing up for a while. The integration is not the absence of cover-ups; it is the recognition of each one as another small instance of the same pattern.
+
+"Notice how much stuff is just — it's just kind of automatic ways in which we cover ourselves. And they're just showing up. And that's the really cool part about this process is that you can just start to see, and especially in these moments of clarity, you can start to see all the ways that you wanna cover yourself up." -- Joe Hudson, Allowing Yourself to Change
+
+Each cover-up comes with a small visceral sensation, a tightening. The sensation is the diagnostic. The cover-ups have a felt signature; once recognized, they are easy to spot.
+
+"They'll each come with that, and that's kind of the habitual way to cover ourselves up... So they're going to come and then you get to see them and see through them." -- Joe Hudson, Allowing Yourself to Change
+
+The instruction during this phase: just watch them come and see through them. The most relevant practice may be to give the integration room rather than to fill it with the next project.
 
 ## What Can Go Wrong
 
@@ -61,3 +75,4 @@ Specific failure modes:
 ## Sources
 
 - 2020-12-11_Integrating a Transformative Experience
+- 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)

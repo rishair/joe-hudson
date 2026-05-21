@@ -3,9 +3,9 @@ type: concept
 id: should-as-threat
 title: "Should as Threat"
 aliases: ["should is a threat", "four layers of should", "energetic should", "should produces rebellion or submission", "should as bad management"]
-tags: ["shoulds", "shame", "control", "threat", "nervous system"]
-related: ["wants-over-shoulds", "shame-drives-behavior", "rebellion-or-submission-to-should", "impulse-to-should", "perfectionism", "inherent-goodness"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+tags: ["shoulds", "shame", "control", "threat", "nervous system", "voice in head"]
+related: ["wants-over-shoulds", "shame-drives-behavior", "rebellion-or-submission-to-should", "impulse-to-should", "perfectionism", "inherent-goodness", "voice-in-the-head", "lawyer-the-voice"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-07-16_Who is the Voice in Your Head?"]
 ---
 
 # Should as Threat
@@ -51,6 +51,14 @@ When the nervous system reads a should as threat, only two responses are availab
 
 Neither response produces real movement. The threat itself is the problem.
 
+## The Should Is the Voice's Native Language
+
+Should language is the most common form the [[voice-in-the-head]] takes. "You should call your mother. You should lose weight. You should have said it differently." The four-layer threat protocol applies whether the should comes from a manager, a parent, or the inner critic. The body and nervous system do not distinguish.
+
+The implication is operational: working on the [[voice-in-the-head]] requires working on the should structure. Each individual should can be inspected and dismantled (see [[lawyer-the-voice]] and [[untruth-in-every-thought]]). The repeated practice of finding the small untruth in each should breaks the voice's authority to deliver them.
+
+Joe's own discovery of this happened through Fritz Perls's Gestalt frame of "upper dog and underdog." The upper dog was the voice telling him what he should do. The recognition of each should as a should — without resistance, just naming — caused it to quiet over time. "Just by recognizing it and seeing it every time it came, it just started to become quieter and quieter." -- Joe Hudson, Who is the Voice in Your Head?
+
 ## Why People Cannot See It
 
 The should requires the person to believe they are bad. To see the should clearly, the premise of badness has to drop. Because it does not drop, the should stays invisible to the person running it on themselves -- even while they can see it instantly when another person runs it on someone else. See [[wants-over-shoulds]] for the war metaphor.
@@ -71,3 +79,4 @@ The should requires the person to believe they are bad. To see the should clearl
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2021-07-16_Who is the Voice in Your Head?
