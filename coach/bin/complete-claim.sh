@@ -37,7 +37,7 @@ for entry in data['absorbed']:
     if entry['folder'] == folder and entry.get('status') == 'in-progress':
         entry['status'] = 'complete'
         entry['type'] = '$TYPE'
-        entry['absorbed_at'] = datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+        entry['absorbed_at'] = datetime.datetime.now(datetime.UTC).replace(tzinfo=None).strftime('%Y-%m-%dT%H:%M:%SZ')
         entry['articles_created'] = json.loads('$CREATED')
         entry['articles_updated'] = json.loads('$UPDATED')
         break

@@ -2,6 +2,7 @@
 # claim-next.sh — Find the next unprocessed transcript and claim it.
 # Outputs the folder name on success, "IDLE" if nothing left.
 # Uses mkdir as an atomic lock (works on macOS and Linux).
+# Treats in-progress claims older than 20 minutes as stale.
 
 set -euo pipefail
 
@@ -9,6 +10,7 @@ REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 ABSORB_LOG="$REPO_ROOT/coach/_absorb_log.json"
 TRANSCRIPTS_DIR="$REPO_ROOT/transcripts"
 LOCKDIR="$REPO_ROOT/coach/.claim.lock"
+STALE_MINUTES=20
 
 # Acquire lock via mkdir (atomic on all Unix)
 attempts=0
@@ -20,47 +22,84 @@ while ! mkdir "$LOCKDIR" 2>/dev/null; do
   fi
   sleep 0.5
 done
-# Release lock on exit (success or failure)
 trap 'rmdir "$LOCKDIR" 2>/dev/null' EXIT
 
-# Get all already-claimed folders (both complete and in-progress)
-claimed=$(python3 -c "
-import json
-with open('$ABSORB_LOG') as f:
+# Find next folder: skip complete entries and fresh in-progress entries.
+# Reclaim stale in-progress entries (older than STALE_MINUTES).
+export ABSORB_LOG TRANSCRIPTS_DIR STALE_MINUTES
+next_folder=$(python3 << 'PYEOF'
+import json, os, datetime
+
+absorb_log = os.environ["ABSORB_LOG"]
+transcripts_dir = os.environ["TRANSCRIPTS_DIR"]
+stale_minutes = int(os.environ["STALE_MINUTES"])
+
+with open(absorb_log) as f:
     data = json.load(f)
-for e in data['absorbed']:
-    print(e['folder'])
-")
 
-# Find first unclaimed transcript folder (sorted by name = chronological)
-next_folder=""
-while IFS= read -r folder; do
-  [[ "$folder" == _* ]] && continue
-  if ! echo "$claimed" | grep -qxF "$folder"; then
-    next_folder="$folder"
-    break
-  fi
-done < <(ls -1 "$TRANSCRIPTS_DIR" | sort)
+now = datetime.datetime.now(datetime.UTC).replace(tzinfo=None)
 
-if [ -z "$next_folder" ]; then
-  echo "IDLE"
-  exit 0
-fi
+# Build set of claimed folders (complete or fresh in-progress)
+claimed = set()
+stale = set()
+for entry in data["absorbed"]:
+    folder = entry["folder"]
+    status = entry.get("status", "complete")
+    if status == "complete":
+        claimed.add(folder)
+    elif status == "in-progress":
+        claimed_at = entry.get("claimed_at", "")
+        if claimed_at:
+            try:
+                t = datetime.datetime.strptime(claimed_at, "%Y-%m-%dT%H:%M:%SZ")
+                age = (now - t).total_seconds() / 60
+                if age > stale_minutes:
+                    stale.add(folder)
+                else:
+                    claimed.add(folder)
+            except:
+                claimed.add(folder)
+        else:
+            claimed.add(folder)
 
-# Write in-progress claim to absorb log
-python3 -c "
-import json, datetime
-with open('$ABSORB_LOG') as f:
-    data = json.load(f)
-data['absorbed'].append({
-    'folder': '''$next_folder''',
-    'status': 'in-progress',
-    'claimed_at': datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
-    'articles_created': [],
-    'articles_updated': []
-})
-with open('$ABSORB_LOG', 'w') as f:
-    json.dump(data, f, indent=2)
-"
+# If there are stale claims, reclaim the first one
+if stale:
+    folder = sorted(stale)[0]
+    # Remove the stale entry
+    data["absorbed"] = [e for e in data["absorbed"] if not (e["folder"] == folder and e.get("status") == "in-progress")]
+    # Write fresh in-progress claim
+    data["absorbed"].append({
+        "folder": folder,
+        "status": "in-progress",
+        "claimed_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "articles_created": [],
+        "articles_updated": []
+    })
+    with open(absorb_log, "w") as f:
+        json.dump(data, f, indent=2)
+    print(folder)
+    raise SystemExit(0)
+
+# Otherwise find first unclaimed folder
+folders = sorted(os.listdir(transcripts_dir))
+for folder in folders:
+    if folder.startswith("_"):
+        continue
+    if folder not in claimed:
+        data["absorbed"].append({
+            "folder": folder,
+            "status": "in-progress",
+            "claimed_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "articles_created": [],
+            "articles_updated": []
+        })
+        with open(absorb_log, "w") as f:
+            json.dump(data, f, indent=2)
+        print(folder)
+        raise SystemExit(0)
+
+print("IDLE")
+PYEOF
+)
 
 echo "$next_folder"

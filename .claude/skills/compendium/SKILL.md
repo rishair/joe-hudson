@@ -97,9 +97,9 @@ The main absorption loop. Pick the next unprocessed transcript and absorb it.
 
 ### Steps
 
-1. **Read the absorb log.** Read `coach/_absorb_log.json` to find what has been processed. List transcript folders in `transcripts/` sorted by name. Find the first unprocessed folder.
+1. **Claim the next transcript.** Run `coach/bin/claim-next.sh`. It atomically finds the next unprocessed transcript, writes an `in-progress` entry to the absorb log, and outputs the folder name. If it outputs `IDLE`, there is nothing to process. Claims older than 20 minutes are treated as stale and reclaimed automatically.
 
-2. **Read the transcript.** Read the full `transcript.md` from the selected folder. This is the raw material.
+2. **Read the transcript.** Read the full `transcript.md` from the claimed folder. This is the raw material.
 
 3. **Read the index.** Read `coach/_index.md` to know what articles exist and their aliases.
 
@@ -136,20 +136,12 @@ The main absorption loop. Pick the next unprocessed transcript and absorb it.
    - **Downstream ("Where Joe Goes From Here")**: What does Joe typically move toward after establishing this? If the person resists, what does Joe shift to?
    - **Cross-layer links**: Concerns should link to reads and methodology. Reads should link to moves and questions. Questions should link to arcs. Every article type should be woven into the larger navigation graph.
 
-8. **Log the transcript.** Add an entry to `_absorb_log.json`:
-   ```json
-   {
-     "folder": "2020-10-26_Introduction to VIEW",
-     "type": "teaching",
-     "absorbed_at": "2026-05-20T14:30:00Z",
-     "articles_created": ["view", "vulnerability"],
-     "articles_updated": ["wonder"]
-   }
+8. **Complete the claim.** Run `coach/bin/complete-claim.sh "<folder>" "<type>" '<articles_created_json>' '<articles_updated_json>'`. This atomically marks the entry as complete in the absorb log. Example:
+   ```
+   coach/bin/complete-claim.sh "2020-10-26_Introduction to VIEW" "teaching" '["view","vulnerability"]' '["wonder"]'
    ```
 
-9. **Rebuild the index and backlinks.**
-   - Rebuild `_index.md` with all articles, their types, titles, and aliases.
-   - Rebuild `_backlinks.json` by scanning all articles for `[[wikilinks]]` and building a reverse map.
+9. **Rebuild the index and backlinks.** Run `coach/bin/rebuild-index.sh`. This scans all article files on disk and regenerates `_index.md` and `_backlinks.json`. Always use this script rather than manually editing the index.
 
 10. **Check for checkpoint.** If the absorb log now contains a multiple of 20 entries, automatically run the checkpoint procedure (see `/compendium checkpoint`).
 
