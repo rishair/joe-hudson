@@ -4,8 +4,8 @@ id: process-over-result
 title: "Process Over Result"
 aliases: ["trust the process", "faith in the process", "outcome attachment", "principled living"]
 tags: ["VIEW", "impartiality", "process", "design", "coaching"]
-related: ["view", "impartiality", "view-as-technique", "integration", "three-stages-of-integration"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-12-11_Integrating a Transformative Experience", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+related: ["view", "impartiality", "view-as-technique", "integration", "three-stages-of-integration", "enjoy-over-manage", "listening-to-impulse"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-12-11_Integrating a Transformative Experience", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4"]
 ---
 
 # Process Over Result
@@ -33,6 +33,14 @@ Living by [[view]] is a form of principled living. You commit to a set of princi
 "It's very much like living principled. You're saying, here are the principles I'm living by because I know consistently if I live by them, it works out in the way that works for me and works for my deepest truth." -- Joe Hudson, Introduction to VIEW (Connection Course)
 
 When directing actors, giving a specific desired performance produces stiff results. Giving the actor a clear objective and trusting them to find their way produces excellence. The parallel to coaching and managing teams is direct: hold the objective, release the method.
+
+## Enjoyment as the Engine
+
+The distinction between [[enjoy-over-manage]] is the lived version of process-over-result. Management is outcome-fixation made habitual. Enjoyment is process-trust made embodied. A person who is enjoying the process is, by definition, not gripping the result.
+
+The practical form: hold general intentions (a great company, a product that wins) while releasing specific methods. Determination and intention remain. What drops is the management of *how*. The person listening for [[listening-to-impulse]] rather than planning the next move is in process. The person scripting the conversation is in outcome.
+
+"You have to keep all that determination, you have to keep all that fortitude. And there is also a reading the river and letting the river flow and paying attention to that river and following it to get there." -- Joe Hudson, Enjoy over Manage
 
 ## In Integration
 

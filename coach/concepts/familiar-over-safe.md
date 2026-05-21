@@ -4,7 +4,7 @@ id: familiar-over-safe
 title: "Familiar Over Safe"
 aliases: ["choosing familiar over safe", "addiction to trauma", "homeostasis seeking"]
 tags: ["trauma", "patterns", "attachment", "repetition"]
-related: ["trauma-mapping", "feeling-the-unfelt-emotion"]
+related: ["trauma-mapping", "feeling-the-unfelt-emotion", "pleasure-capacity"]
 sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson"]
 ---
 

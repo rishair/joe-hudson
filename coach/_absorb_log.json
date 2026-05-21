@@ -175,7 +175,13 @@
         "embrace-intensity",
         "layered-resistance",
         "negative-self-reinforcement",
-        "suffering-vs-pain"
+        "suffering-vs-pain",
+        "how-much-fight",
+        "selfishness-is-the-engine-of-unity",
+        "not-sometimes-right-now",
+        "what-is-it-without-resistance",
+        "expanding-sense-of-self",
+        "joes-pot-habit"
       ],
       "articles_updated": [
         "feeling-the-unfelt-emotion",
@@ -189,24 +195,68 @@
     },
     {
       "folder": "2021-02-13_Connection over Perfection \u2014 Master Class Series #3",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T16:37:45Z",
-      "articles_created": [],
-      "articles_updated": []
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T16:45:00Z",
+      "articles_created": [
+        "perfectionism",
+        "connection-over-perfection",
+        "spaghetti-tower-experiment",
+        "impulse-to-should",
+        "awareness-as-change-agent",
+        "fear-vs-excitement"
+      ],
+      "articles_updated": [
+        "view",
+        "vulnerability",
+        "impartiality",
+        "resistance"
+      ]
     },
     {
       "folder": "2021-02-13_Embarking on the Journey \u2014 Master Class Series #2",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T16:37:53Z",
-      "articles_created": [],
-      "articles_updated": []
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:00:00Z",
+      "articles_created": [
+        "five-principles-of-the-path",
+        "conditions-for-transformation",
+        "enjoyment-as-path",
+        "pendulation",
+        "development-as-corkscrew",
+        "safety-vs-defensiveness",
+        "wants-over-shoulds",
+        "quit-hope-lose-cycle",
+        "state-seeking"
+      ],
+      "articles_updated": [
+        "embrace-intensity",
+        "resistance",
+        "integration"
+      ]
     },
     {
       "folder": "2021-02-13_Enjoy over Manage \u2014 Master Class Series #4",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T16:38:05Z",
-      "articles_created": [],
-      "articles_updated": []
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T17:00:00Z",
+      "articles_created": [
+        "enjoy-over-manage",
+        "inherent-goodness",
+        "pleasure-capacity",
+        "creative-career-story",
+        "listening-to-impulse"
+      ],
+      "articles_updated": [
+        "process-over-result",
+        "resistance",
+        "impartiality",
+        "familiar-over-safe",
+        "childhood-imprinting"
+      ]
     }
   ]
 }

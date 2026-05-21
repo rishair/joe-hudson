@@ -4,8 +4,8 @@ id: embrace-intensity
 title: "Embrace Intensity"
 aliases: ["run toward intensity", "run into it", "intensity as path", "embrace the intensity"]
 tags: ["resistance", "transformation", "courage", "principle"]
-related: ["resistance", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "vulnerability"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+related: ["resistance", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "vulnerability", "five-principles-of-the-path", "enjoyment-as-path"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2"]
 ---
 
 # Embrace Intensity
@@ -26,6 +26,12 @@ This does not mean forcing yourself through the intensity with willpower. It mea
 
 The paradox: embracing intensity does not require urgency. There is no rush to embrace all the intensity at once. The problem stays until it is addressed. Patience is part of the embrace.
 
+This principle is one of the [[five-principles-of-the-path]]. A common misinterpretation: creating intensity. Embrace intensity does not mean generating conflict or crisis. It means directing attention where intensity already exists, the way a CEO directs organizational attention toward the right problems. In the body, pain says "pay attention here." The principle says the same.
+
+It is called "intensity" rather than "pain" for a reason: pleasure is often avoided more than pain. The moment someone notices this, it shifts something. "Often what we avoid more than pain is pleasure. And people have a hard time seeing that until they see it and then they're just like, 'Oh!' I always say it's subtle till you see it." -- Joe Hudson, Embarking on the Journey
+
+The "embrace" is what makes the experience enjoyable. Intensity happens regardless. See [[enjoyment-as-path]]. Embracing pain prevents suffering (the Buddhist formulation). Embracing intensity is also one of the great ways to stop intensity from accumulating: when met, it moves through. When avoided, it builds.
+
 ## Upstream (What Leads Here)
 
 - When someone is avoiding a feeling, a conversation, or a situation because it feels too intense.
@@ -41,3 +47,4 @@ The paradox: embracing intensity does not require urgency. There is no rush to e
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-02-13_Embarking on the Journey -- Master Class Series #2

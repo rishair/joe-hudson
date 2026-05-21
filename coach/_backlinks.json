@@ -28,7 +28,9 @@
     "questioning-assumptions",
     "visualizing-feared-outcomes",
     "view",
-    "mikey-siegel-pitch"
+    "mikey-siegel-pitch",
+    "connection-over-perfection",
+    "awareness-as-change-agent"
   ],
   "view": [
     "dont-evangelize-the-work",
@@ -40,7 +42,8 @@
     "decisions-are-emotional",
     "process-over-result",
     "how-what-questions",
-    "vulnerability-in-the-workplace"
+    "vulnerability-in-the-workplace",
+    "connection-over-perfection"
   ],
   "how-what-questions": [
     "dont-evangelize-the-work",
@@ -70,7 +73,9 @@
     "whats-the-scary-truth",
     "view",
     "mikey-siegel-pitch",
-    "vulnerability-in-the-workplace"
+    "vulnerability-in-the-workplace",
+    "five-principles-of-the-path",
+    "conditions-for-transformation"
   ],
   "wants-vs-partiality": [
     "fixing-people",
@@ -123,7 +128,8 @@
     "right-question-over-right-answer",
     "how-what-questions",
     "questioning-assumptions",
-    "view"
+    "view",
+    "five-principles-of-the-path"
   ],
   "wonder-as-strategy": [
     "view-as-technique",
@@ -211,7 +217,17 @@
     "embrace-intensity",
     "fear-is-about-feeling",
     "process-over-result",
-    "shame-drives-behavior"
+    "shame-drives-behavior",
+    "perfectionism",
+    "connection-over-perfection",
+    "fear-vs-excitement",
+    "awareness-as-change-agent",
+    "impulse-to-should",
+    "five-principles-of-the-path",
+    "conditions-for-transformation",
+    "enjoyment-as-path",
+    "pendulation",
+    "wants-over-shoulds"
   ],
   "childhood-imprinting": [
     "feeling-the-unfelt-emotion"
@@ -245,7 +261,8 @@
     "negative-self-reinforcement",
     "past-shame-vs-current-shame",
     "wants-vs-partiality",
-    "what-we-fear-we-invite"
+    "what-we-fear-we-invite",
+    "wants-over-shoulds"
   ],
   "fear-is-about-feeling": [
     "impartiality",
@@ -284,7 +301,8 @@
   ],
   "late-stage-reversion": [
     "integration",
-    "loving-all-parts"
+    "loving-all-parts",
+    "pendulation"
   ],
   "zen-sickness": [
     "integration"
@@ -298,17 +316,25 @@
     "resistance",
     "negative-self-reinforcement",
     "suffering-vs-pain",
-    "process-over-result"
+    "process-over-result",
+    "connection-over-perfection"
   ],
   "embrace-intensity": [
     "resistance",
     "layered-resistance",
-    "negative-self-reinforcement"
+    "negative-self-reinforcement",
+    "fear-vs-excitement",
+    "five-principles-of-the-path",
+    "conditions-for-transformation",
+    "enjoyment-as-path",
+    "development-as-corkscrew"
   ],
   "negative-self-reinforcement": [
     "resistance",
     "layered-resistance",
-    "shame-drives-behavior"
+    "shame-drives-behavior",
+    "perfectionism",
+    "impulse-to-should"
   ],
   "vulnerability-in-the-workplace": [
     "vulnerability"
@@ -338,7 +364,13 @@
   ],
   "process-over-result": [
     "short-term-vs-long-term-partiality",
-    "view"
+    "view",
+    "connection-over-perfection",
+    "awareness-as-change-agent",
+    "five-principles-of-the-path",
+    "enjoyment-as-path",
+    "quit-hope-lose-cycle",
+    "state-seeking"
   ],
   "dont-evangelize-the-work": [
     "community-over-teacher"
@@ -358,5 +390,68 @@
   ],
   "being-heard": [
     "view"
+  ],
+  "connection-over-perfection": [
+    "perfectionism",
+    "resistance",
+    "impulse-to-should",
+    "awareness-as-change-agent",
+    "spaghetti-tower-experiment",
+    "view"
+  ],
+  "perfectionism": [
+    "connection-over-perfection",
+    "resistance",
+    "impulse-to-should"
+  ],
+  "spaghetti-tower-experiment": [
+    "connection-over-perfection"
+  ],
+  "impulse-to-should": [
+    "perfectionism",
+    "connection-over-perfection"
+  ],
+  "awareness-as-change-agent": [],
+  "fear-vs-excitement": [
+    "resistance",
+    "vulnerability"
+  ],
+  "enjoyment-as-path": [
+    "five-principles-of-the-path",
+    "conditions-for-transformation",
+    "pendulation",
+    "development-as-corkscrew",
+    "wants-over-shoulds",
+    "quit-hope-lose-cycle",
+    "state-seeking"
+  ],
+  "conditions-for-transformation": [
+    "five-principles-of-the-path",
+    "safety-vs-defensiveness"
+  ],
+  "five-principles-of-the-path": [
+    "conditions-for-transformation",
+    "embrace-intensity"
+  ],
+  "pendulation": [
+    "enjoyment-as-path",
+    "development-as-corkscrew",
+    "quit-hope-lose-cycle",
+    "state-seeking"
+  ],
+  "development-as-corkscrew": [
+    "pendulation",
+    "integration"
+  ],
+  "safety-vs-defensiveness": [
+    "conditions-for-transformation"
+  ],
+  "wants-over-shoulds": [
+    "enjoyment-as-path",
+    "quit-hope-lose-cycle"
+  ],
+  "selfishness-is-the-engine-of-unity": [
+    "wants-over-shoulds",
+    "expanding-sense-of-self"
   ]
 }

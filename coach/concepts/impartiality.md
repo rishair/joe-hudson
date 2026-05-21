@@ -4,8 +4,8 @@ id: impartiality
 title: "Impartiality"
 aliases: ["not having an agenda", "no agenda", "wandering", "I in VIEW", "without outcome attachment", "I trust you", "letting go of agenda"]
 tags: ["VIEW", "freedom", "business", "control", "trust", "shame", "boundaries"]
-related: ["view", "wonder", "vulnerability", "wants-vs-partiality", "shame-drives-behavior", "fixing-people", "impartial-apathy", "process-over-result"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+related: ["view", "wonder", "vulnerability", "wants-vs-partiality", "shame-drives-behavior", "fixing-people", "impartial-apathy", "process-over-result", "enjoy-over-manage", "inherent-goodness"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4"]
 ---
 
 # Impartiality
@@ -39,6 +39,8 @@ The common objection: without partiality, nothing gets done. The reframe: clear 
 "If I can be impartial in these ways, not give up my goal, but be impartial in how this thing happens and be impartial with people, I actually discover what is." -- Joe Hudson, Introduction to VIEW
 
 In business, impartiality reveals a natural current: where customers want to go, where employees want to go, what the market needs. Reading and following this current takes less effort than fighting it. Going against the flow is like building a canal instead of following the river.
+
+The boat metaphor makes this concrete: "You're on a boat going down a river. It's important to row the boat, but it is more important to read the river. And if you are partial in reading the river, you're not reading the river." -- Joe Hudson, Connection over Perfection. Goals and determination are compatible with impartiality. An oak tree grows to 40 feet tall. That is determination. It also grows impartially, in the flow of things.
 
 In directing actors, demanding a specific emotional result produces a stiff performance. Giving a clear objective and trusting the actor's process produces excellence. "Recognizing something that's right and going with it rather than trying to get it to be your version of right is the practice of impartiality in business." -- Joe Hudson, Impartiality
 
@@ -155,3 +157,4 @@ Short-term partiality is fear-based: I need this outcome right now. Long-term pa
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-02-13_Connection over Perfection -- Master Class Series #3

@@ -4,8 +4,8 @@ id: resistance
 title: "Resistance"
 aliases: ["loving the resistance", "if you can't love the thing love the resistance", "resistance to change", "fighting yourself", "the fight", "war with yourself"]
 tags: ["resistance", "transformation", "emotions", "core mechanism"]
-related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2"]
 ---
 
 # Resistance
@@ -46,6 +46,14 @@ When someone resists, a useful path is to ask: what tool does the person feel th
 - "Who is resisting? What is resisting?"
 - "How can I meet the resistance most joyfully?"
 
+## Resistance and Perfectionism
+
+[[perfectionism]] is a specific expression of resistance. The perfectionist resists what is (the imperfect work, the imperfect self) in favor of what should be. The friction of most emotional states is the resistance to them, not the states themselves. If resistance to bliss is dropped, bliss is overwhelming. If resistance to fear is dropped, fear becomes excitement. See [[fear-vs-excitement]].
+
+"If you're resistant to bliss, which oddly most people are, bliss is very overwhelming." -- Joe Hudson, Connection over Perfection
+
+The antidote to resistance as perfectionism is [[connection-over-perfection]]: accepting things as they are, which is the definition of connection.
+
 ## When Someone Experiences This
 
 When stuck in a loop of wanting to change but not changing. When the same problem keeps returning. When effort produces the opposite of what is intended. When fighting a habit makes it stronger.
@@ -66,6 +74,7 @@ The person is in their transformation. The resistance is evidence of growth, not
 - Away from [[layered-resistance]]: recognizing when resistance is being stacked on top of resistance.
 - Away from [[negative-self-reinforcement]]: recognizing when approaching the resisted thing has become associated with self-punishment.
 - Toward [[impartiality]]: not wanting another person to be different is the interpersonal form of not resisting.
+- Toward [[enjoy-over-manage]]: emotional management (trying not to feel things) is a form of resistance. Dropping the management is itself enjoyment. "Stop resisting them. A lot of the lack of enjoyment is the management itself." -- Joe Hudson, Enjoy over Manage
 
 ## Tone
 
@@ -74,3 +83,4 @@ Warm, direct, matter-of-fact. Resistance is not treated as a problem but as a co
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-02-13_Connection over Perfection -- Master Class Series #3

@@ -5,7 +5,7 @@ title: "VIEW"
 aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
 related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3"]
 ---
 
 # VIEW
@@ -35,7 +35,9 @@ VIEW emerged from observing people who had an extraordinary capacity for convers
 
 ## In Practice
 
-VIEW applies across domains: sales, product development, marriage, team dynamics, conflict resolution, coaching. The state of mind is the same regardless of context.
+VIEW applies across domains: sales, product development, marriage, team dynamics, conflict resolution, coaching. The state of mind is the same regardless of context. It is also a meditative practice: sitting with yourself and asking how you can be more vulnerable, more impartial, more empathetic, more full of wonder with yourself. Most internal experience is managed rather than met with VIEW. Telling yourself what to feel, how to act, what to avoid. VIEW internally means dropping that management.
+
+VIEW is the operational expression of [[connection-over-perfection]]. It produces connection, and connection produces better results than perfection. When people adopt VIEW as a daily practice, the measurable bottom line is felt connection, not performance. The counterintuitive result: performance improves.
 
 "You don't have to know shit to do that. You just have to ask really good questions and be vulnerable in it and to be empathetic in it and to be impartial in it and to be full of wonder in it. So it doesn't even require that you have skills. It just requires that you are having a conversation with them that allows the best of them to come out." -- Joe Hudson, Introduction to VIEW
 
@@ -89,3 +91,4 @@ Every sentence carries some partiality. Complete impartiality is asymptotic. The
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2020-11-06_Empathy -- Connection Course Series #4
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2021-02-13_Connection over Perfection -- Master Class Series #3

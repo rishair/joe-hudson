@@ -4,7 +4,7 @@ id: childhood-imprinting
 title: "Childhood Imprinting"
 aliases: ["theta state programming", "0 to 7 programming", "love withdrawal", "rejected emotions from childhood", "don't be yourself programming"]
 tags: ["childhood", "programming", "emotions", "vulnerability", "theta"]
-related: ["vulnerability", "feeling-the-unfelt-emotion", "familiar-over-safe", "trauma-mapping"]
+related: ["vulnerability", "feeling-the-unfelt-emotion", "familiar-over-safe", "trauma-mapping", "pleasure-capacity", "inherent-goodness"]
 sources: ["2020-11-10_Vulnerability — Connection Course Series #5"]
 ---
 

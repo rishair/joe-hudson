@@ -4,7 +4,7 @@ id: integration
 title: "Integration"
 aliases: ["integrating transformation", "transcend and integrate", "normalizing transformation", "post-breakthrough integration"]
 tags: ["development", "transformation", "learning", "process"]
-related: ["epiphany-vs-transformation", "three-stages-of-integration", "late-stage-reversion", "process-over-result", "container-of-love"]
+related: ["epiphany-vs-transformation", "three-stages-of-integration", "late-stage-reversion", "process-over-result", "container-of-love", "pendulation", "development-as-corkscrew"]
 sources: ["2020-12-11_Integrating a Transformative Experience"]
 ---
 
