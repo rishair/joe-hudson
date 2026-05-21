@@ -2,6 +2,7 @@
 
 ## Concerns
 
+- i-caretake-people I caretake people / I manage everyone's emotions (also: I'm codependent, I'm always taking care of people, I'm exhausted from caring for others, I'm a caretaker, I manage everyone's feelings, I caretake my partner, I caretake my family, people-pleasing in care form)
 - i-dont-have-time-for-this I don't have time for this (also: I just need to get a paycheck, this art stuff is a luxury, I don't have the runway for personal development, I just need to make money now, no time for self-work)
 - i-feel-trapped I feel trapped / They have power over me (also: I have no choice, they control me, I can't do anything, I'm stuck, I'm subjugated, the system has power over me, I'm a victim of circumstances)
 - i-freeze-around-authority I freeze around authority figures (also: I freeze around my boss, authority figures shut me down, I can't be myself around my boss, I freeze around men like my father, I shut down with authority, they remind me of my father, I either want to fight or roll over)
@@ -19,6 +20,8 @@
 - fight-or-roll-over-binary The Fight-or-Roll-Over Binary (also: fight or roll over, fight or submit, binary stance with authority, I either fight or roll over, fight or surrender binary, rebellion or submission stance)
 - how-much-fight How Much Fight Is in a Person (also: fight level, reading the fight in someone, amount of battle, fight in the system, how much war)
 - in-the-story-im-not-being-seen In the Story 'I'm Not Being Seen' (also: the I'm not being seen story, not being seen as cover, blaming others for not seeing me, the unseen story, I just want to be seen)
+- rehearsing-how-to-say-it Rehearsing How to Say It (also: managing the delivery, running it through in your head, crafting the message, rehearsing the conversation, scripting before speaking, the safe paragraph)
+- you-think-they-cant-handle-it You Think They Can't Handle It (also: they're too weak to hear it, they can't take it, I have to protect them from the truth, if I say this they'll fly off the handle, softening the truth, they're too fragile)
 
 ## Questions
 
@@ -28,21 +31,24 @@
 - what-if-they-did-see-you What if they did see you and you can't recognize it? (also: what if they actually see you, what if you can't recognize being seen, the inversion question, what if the opposite is true)
 - what-if-you-acted-exactly-how-you-want What if you acted exactly how you want to act and saw what happens? (also: what if you acted exactly how you want, the empowerment question, act how you want and see, stop compromising your truth question)
 - what-is-it-without-resistance What is it without resistance in it? (also: feel it without resistance, what happens without the resistance, what does X become without resistance, remove the resistance from the feeling)
+- what-would-happen-if-you-stopped What would happen if you stopped doing the caretaking thing? (also: what if you just walked out every time, the consequence inversion question, what if you stopped tomorrow, how long would it last if you stopped, what would happen if you stopped paying for it)
 
 ## Arcs
 
 
 ## Anti-Patterns
 
-- dont-evangelize-the-work Don't evangelize the work (also: missionary work, using tools without permission, pushing transformation on others, coaching without consent)
+- dont-evangelize-the-work Don't evangelize the work (also: missionary work, using tools without permission, pushing transformation on others, coaching without consent, tools without shadow work, carrying someone else's tools without consciousness)
 - fixing-people Don't try to fix people (also: fixing, trying to help, being valuable, saving people, advice-giving, leading to a solution)
 - impartial-apathy Don't confuse apathy with impartiality (also: I don't care, false impartiality, apathetic impartiality, disowning wants, above your humanity)
 - losing-yourself-in-others Don't lose yourself in others' emotions (also: merging with emotions, codependent empathy, lost in the other person, empathic merging, over-empathizing)
 - loving-to-transform Don't love to transform (also: loving as strategy, weaponized love, instrumental love, love as change tool, loving in order to change, tainted love)
+- spiritual-narcissism Don't dress up narcissism in spiritual language (also: spiritual narcissism, narcissism justified by spirituality, spiritual bypass for ego, getting id needs met through spiritual work, following my truth as cover, spiritual self-importance, weaponized self-discovery, I'm just listening to my truth, the spiritual narcissist)
 - state-seeking Don't seek states (also: state seeking, I want to be awakened, chasing bliss, future living, trying to get back to that state, wanting to feel like that again)
 - tools-to-change-not-love Don't use the tools to change yourself instead of loving yourself (also: tools as improvement, co-opting transformation tools, using practices to fix yourself, transformation tools turned into improvement, weaponizing self-work, spiritual self-improvement)
 - view-as-technique Don't use VIEW as a technique (also: weaponized VIEW, VIEW as manipulation, technique without state, communication training gone south)
 - vulnerability-as-control Don't use vulnerability to control (also: vulnerability as manipulation, weaponized vulnerability, keeping score with vulnerability, I don't feel safe as control, guilting with vulnerability, false vulnerability)
+- weaponized-not-caretaking Don't weaponize 'not caretaking' (also: I don't care about your feelings as a wall, using non-caretaking as distance, the I'm-not-responsible-for-you stance, weaponized boundaries, performative non-codependence, the I'm-done-with-caretaking pedestal, judging other caretakers)
 - why-questions Avoid 'why' questions (also: why questions carry judgment, why as attack, don't ask why)
 - wonder-as-strategy Don't use wonder as a strategy (also: strategic questions, probing questions, creepy curiosity, questions to avoid intimacy, performative curiosity)
 
@@ -85,7 +91,7 @@
 - believing-the-convenient-lie Believing the Convenient Lie (also: believe a lie that rhymes with truth, self-deception, wanting to believe, duping ourselves)
 - binary-thinking-signals-fear Binary Thinking Signals Fear (also: black or white thinking, binary frame as fear, either/or thinking, binary thinking is fear, black and white framing)
 - childhood-imprinting Childhood Imprinting (also: theta state programming, 0 to 7 programming, love withdrawal, rejected emotions from childhood, don't be yourself programming, pattern transfer to authority figures)
-- development-as-corkscrew Development as Corkscrew (also: corkscrew development, spiral development, same issues different level, I thought I dealt with my dad issues, before awakening after awakening)
+- development-as-corkscrew Development as Corkscrew (also: corkscrew development, spiral development, same issues different level, I thought I dealt with my dad issues, before awakening after awakening, subtle till you see it)
 - impulse-to-should Impulse to Should (also: natural impulse becomes should, should kills motivation, desire hijacked by perfectionism, want becomes obligation, the want gets converted to a should, egoic layer on top of impulse)
 - late-stage-reversion Late-Stage Reversion (also: deep reversion before breakthrough, regression before integration, the big hiccup)
 - layered-resistance Layered Resistance (also: meta-resistance, resisting the resistance, resistance in sheep's clothing, compounding resistance, fighting the fight, levels of fight)
@@ -108,11 +114,12 @@
 - not-sometimes-right-now Not Sometimes, Right Now (also: bring it into the present, feel it now, right now not abstract, stop talking about it and feel it)
 - owning-your-partiality Owning Your Partiality (also: calling out your own agenda, naming your partiality, apologizing for fixing, I notice I'm trying to fix you)
 - treat-yourself-as-actor-of-emotion Treat Yourself as an Actor of the Emotion (also: actor metaphor for emotion, you are the actor playing yourself, non-personal emotion, emotion is not personal, actor playing the part, watch the emotion like an actor)
+- welcoming-the-others-emotion Welcoming the Other's Difficult Emotion (also: tell me how angry you are, I can accept your anger, I welcome your sadness, the anti-caretaking welcoming move, yeah baby give me your anger, let them have it)
 
 ## Distinctions
 
 - boundary-with-vs-boundary-against Boundary With vs. Boundary Against (also: boundary with not against, drawing boundary with, boundary as connection not separation, loving boundary, boundary as gift, open-hearted boundary)
-- caring-vs-caretaking Caring vs. Caretaking (also: care vs caretake, being in support vs fixing, supporting vs managing emotions, caretaking pattern)
+- caring-vs-caretaking Caring vs. Caretaking (also: care vs caretake, being in support vs fixing, supporting vs managing emotions, caretaking pattern, codependence vs care, managing emotions vs supporting)
 - defense-vs-love Defense vs. Love (also: defending vs loving, defense before love, receiving with love instead of defending, the defensive impulse)
 - empathy-vs-sympathy Empathy vs. Sympathy (also: sympathy is not empathy, above vs beside, helping vs being with, saving vs supporting)
 - empowered-vs-power Empowered vs. Power (also: power vs empowered, empowerment vs power, real power vs control, external power vs internal empowerment)
@@ -127,9 +134,11 @@
 - love-vs-nice Love vs. Nice (also: love is not nice, nice is not love, loving is not being nice, love vs niceness, hard truth as love)
 - managing-vs-healing-trauma Managing vs. Healing Trauma (also: managing vs resolving, symptom management vs resolution, managing PTSD vs healing it)
 - past-shame-vs-current-shame Past Shame vs. Current Shame (also: current shame vs past shame, useful shame, shame about the past, self-brutalization, shame that perpetuates patterns)
+- resentment-as-caretaking-diagnostic Resentment as Caretaking Diagnostic (also: resentment signals caretaking, if you feel resentful you're caretaking, the resentment tell, two-way resentment in caretaking)
 - resources-vs-resourcefulness Resources vs. Resourcefulness (also: resources versus resourcefulness, resources won't solve resourcefulness, money vs creativity, capital vs capability, resources can't fix resourcefulness)
 - safety-vs-defensiveness Safety vs. Defensiveness (also: unsafe vs defensive, feeling unsafe vs feeling defensive, threat vs rigidity)
 - short-term-vs-long-term-partiality Short-Term vs. Long-Term Partiality (also: fear-based partiality vs principled partiality, reactive vs principled goals, kitchen drawer theory)
+- softening-as-caring-diagnostic Softening as Caring Diagnostic (also: the soft-hearted person, caring makes you soft, the long-term tell, neurotic vs soft caretakers, soft but strong)
 - suffering-vs-pain Suffering vs. Pain (also: suffering is resistance to pain, Buddhist distinction, pain is not suffering, resistance to pain)
 - trying-vs-doing Trying vs. Doing (also: trying versus doing, effort vs action, clenched trying, trying is not doing, doing not trying)
 - vulnerability-vs-weakness Vulnerability vs. Weakness (also: feeling weak vs being weak, vulnerability is not weakness, strength of vulnerability)
@@ -142,7 +151,9 @@
 - acceptance-as-change-strategy Acceptance Is the Most Effective Path to Change (also: accept then change, acceptance enables change, fighting is inefficient, accept how it is to change how it will be, acceptance is not resignation, love and accept and ask to change, acceptance vs resignation)
 - acting-as-if-already-true Acting As If Your Vision Is Already True (also: live the vision now, be the change already, visionary action, as if reality, the world bends toward your truth)
 - awareness-as-change-agent Awareness as Change Agent (also: awareness changes things, attention solves problems, just putting attention on it, awareness not management)
-- community-over-teacher Community Over Teacher (also: community is more important than the teacher, group intelligence, community of practice, wisdom of the group)
+- become-unnecessary Become Unnecessary (also: the less involved I can be the better, less needed the better, becoming unnecessary as success, a good teacher becomes unnecessary, the math teacher test, remove yourself from the equation, make yourself replaceable, necessary teacher trap)
+- caretaking-prevents-the-bottom Caretaking Prevents the Bottom That Healing Requires (also: enabling prevents recovery, no bottom no healing, the wealthy alcoholic principle, caretaking strengthens the dynamic, caretaking trains the behavior)
+- community-over-teacher Community Over Teacher (also: community is more important than the teacher, group intelligence, community of practice, wisdom of the group, the teacher pointing back to the student, people creating their own tools from their consciousness)
 - connection-over-perfection Connection Over Perfection (also: connection vs perfection, prioritize connection, iterate don't perfect, connection produces better results, perfection is the meditation killer, perfect first date fails)
 - consciousness-is-the-product Consciousness Is the Product (also: your consciousness is what is consumed, the real product is your state, consciousness becomes the product, how you make it is what gets made)
 - constraints-increase-creativity Constraints Increase Creativity (also: constraints amplify creativity, limits unlock creation, constraint as freedom, iambic pentameter principle, Shakespeare constraint, Michelangelo constraint, constraint produces art)
@@ -152,22 +163,27 @@
 - embrace-intensity Embrace Intensity (also: run toward intensity, run into it, intensity as path, embrace the intensity)
 - emotions-live-in-muscles Emotions Live in Muscles (also: feelings are muscular, body reads emotions, posture reveals emotion, muscular armoring, body language of emotion)
 - enjoyment-as-path Enjoyment as Path (also: enjoy the process, how do I enjoy the things I'm doing, enjoyment is more effective, golden mean of the journey, enjoy yourself)
+- enjoyment-as-surrender Enjoyment Gauges Surrender to the Call (also: enjoyment as gauge of surrender, enjoyment as the call, follow the call through enjoyment, surrender to the gravity, the baby surrenders to the cry, enjoyment is how deeply I'm surrendering, the deeper call, internal gravity)
 - epiphany-becomes-rut Every Epiphany Is the Innocent Beginning of a Rut (also: epiphany becomes rut, every epiphany is a future rut, today's solution is tomorrow's constraint, the rut was once an epiphany, iteration is permanent)
 - fear-is-about-feeling Fear Is About What You'll Have to Feel (also: fear is about feeling, fear of feeling, the fear is in the emotion, visualize the feared outcome, feel the fear in advance)
 - feared-consequences-rarely-happen Feared Consequences Rarely Happen (8 out of 10) (also: 8 out of 10 times, consequences don't materialize, the feared outcome usually doesn't happen, predicted vs real consequences)
+- follow-the-demand Follow the Demand, Don't Impose the Agenda (also: follow the demand, follow their agenda not yours, start where they are, don't tell them their agenda, let the people tell you what they want, agenda follows the asker, no imposed vision, service-driven business, follow the requests)
 - goal-beyond-the-goal Focus Through the Goal (also: goal beyond the goal, focus through the goal, aim past the target, tennis quarter principle, having a bigger why)
+- good-and-corruption-cycle Anything of Significance Will Be Used to Oppress (also: good gets corrupted bad births good, everything significant gets weaponized, the inevitable corruption of good, atrocity prevents atrocity, the words of Christ get used to oppress, love gets used to oppress, you can't prevent the weaponization, VIEW will become a new morality)
 - hardening-means-personal Hardening Is the Sign You Are Taking It Personally (also: hardening signals personal, the wall means personal, defending means personal, shutting off the emotion means personal, you have to harden to fire someone)
 - helplessness-is-the-gateway Helplessness Is the Gateway to Empowerment (also: feel the helplessness, helplessness makes you more capable, feeling helpless to feel empowered, through helplessness to empowerment)
 - inherent-goodness Inherent Goodness (also: you are inherently good, belief in inherent goodness, people are good, trust in goodness, not a lazy gluttonous asshole, the oak tree never has to earn it, without the should I'd be lazy, trust your own wants)
 - integrity-as-money-compass Integrity as the Compass for Money Decisions (also: integrity with money, alignment as money guide, money by deep truth, integrity over strategy, the koan of money, money in alignment)
 - love-is-the-best-change-agent Love Is the Best Change Agent (also: love changes things, loving moves things, love as transformation, the mechanism of love, welcoming allows movement, love unfreezes)
 - love-requires-empowerment Love Requires Empowerment (also: love can't exist without empowerment, you can't love if you're not empowered, empowerment as precondition for love, love and empowerment, fear can't love)
+- marketing-as-the-beginning Marketing Is the Beginning of the Work (also: marketing as beginning of the course, the marketing IS the course, the funnel is the work, every touchpoint serves the work, marketing as self-exploration, designing the marketing as part of the curriculum, no neutral touchpoints)
+- money-must-flow Stagnant Money Is Destructive (also: money must flow, stagnant money is destructive, money as energy flow, exchange of energy, the Nicaragua story, if you're here to help me no thank you, monetary exchange as freedom, free help teaches dependence, mutual freedom not charity)
 - nature-improves-itself Nature Improves Itself (also: growth is natural, the oak tree grows on its own, your nature is to learn, growth happens without trying, we don't need to improve, the river runs on its own, growth is the nature of being alive)
 - owning-the-want-dissolves-it Owning the Want Often Dissolves It (also: fully feeling the want releases it, ownership transforms the want, want refines when owned, the $10 million dissolves to security, name the want and watch it shift)
 - principles-free-you Living By Principles Frees You (also: principles create freedom, principled living, principles as empowerment, elegant structure of principles, personal constitution)
 - process-over-result Process Over Result (also: trust the process, faith in the process, outcome attachment, principled living)
 - right-question-over-right-answer The Right Question Over the Right Answer (also: right question matters more, in the age of Google, the question you're living in, value of the right question)
-- selfishness-is-the-engine-of-unity Selfishness Is the Engine of Unity (also: selfish gene, undeveloped selfishness, deep selfishness becomes compassion, deep wants become generous)
+- selfishness-is-the-engine-of-unity Selfishness Is the Engine of Unity (also: selfish gene, undeveloped selfishness, deep selfishness becomes compassion, deep wants become generous, levels of selfishness as developmental gauge, selfishness as development marker, I don't even believe in selfishness, selfishness is a word adults created to control children)
 - shame-drives-behavior Shame Drives Behavior (also: shame causes the actions, shame is the lock, shame holds bad habits in place, remove shame first, should is a mechanism of shame)
 - trauma-heals-in-relationship Trauma Heals in Relationship (also: relational healing, healing in relationship, trauma created in relationship heals in relationship)
 - victim-stance-invites-abuse Victim Stance Invites Abuse (also: victim invites abuser, the oppressed position attracts oppressors, owning the victim role, victims and abusers, you attract what you embody)
@@ -176,6 +192,7 @@
 - wanting-itself-not-what-you-want The Wanting Is What Matters, Not What You Want (also: wanting itself matters, what you want is inconsequential, the wanting pulls you, follow the wanting not the want, the direction not the destination, wants as strategy, wanting as fuel)
 - wants-deepen-as-you-follow-them Wants Deepen as You Follow Them (also: follow the want home, wants refine, wants have siblings, you can't want to run without wanting to walk, wants evolve, the developmental nature of wants)
 - wants-over-shoulds Wants Over Shoulds (also: follow your wants, shoulds slow transformation, wants accelerate transformation, should is control, wants vs shoulds, 0 to 7 no shoulds, shoulds slow development, should is a bad management technique, the should kills motivation)
+- what-is-truly-compassionate What Is Truly Compassionate for You Is Truly Compassionate for Them (also: self-care and care converge, deep self-care is deep care for others, no conflict between self and other, the deepest compassion is mutual, the masochist God objection, self-love vs love of other)
 - what-we-fear-we-invite What We Fear, We Invite (also: fear attracts, avoidance creates the thing, fear invites the outcome, subconsciously inviting what we fear, what we're scared of we invite)
 
 ## Practices
@@ -189,7 +206,7 @@
 - listening-to-impulse Listening to Impulse (also: follow the impulse, listening to the river, impulse over outcome, somatic impulse, waiting for the impulse)
 - questioning-assumptions Questioning Assumptions and Context (also: question the assumption, question the context, assumption questioning, context questioning)
 - staying-in-your-body Staying in Your Body (also: body awareness in conversation, put attention in your body, grounding in the body, feel the bottom of your feet)
-- visualizing-feared-outcomes Visualizing Feared Outcomes (also: feel the fear in advance, grieve the loss in advance, Stoic visualization, pre-feeling)
+- visualizing-feared-outcomes Visualizing Feared Outcomes (also: feel the fear in advance, grieve the loss in advance, Stoic visualization, pre-feeling, pre-feel the loss, mourn before deciding, feel the death in advance)
 - whats-the-scary-truth What's the Scary Thing That's True? (also: scary truth question, vulnerability compass, what's the scary thing that's true for me right now, fear plus truth)
 
 ## Frameworks
@@ -242,5 +259,5 @@
 
 ---
 
-Absorb Progress: 21 / 480 transcripts
-Last absorbed: 2021-05-21_Father Figures and Authority (Coaching Session) (2026-05-21)
+Absorb Progress: 23 / 480 transcripts
+Last absorbed: 2021-06-18_Care over Caretaking - Loving without Losing Yourself (2026-05-21)

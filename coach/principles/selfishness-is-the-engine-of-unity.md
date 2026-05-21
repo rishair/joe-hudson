@@ -2,10 +2,10 @@
 type: principle
 id: selfishness-is-the-engine-of-unity
 title: "Selfishness Is the Engine of Unity"
-aliases: ["selfish gene", "undeveloped selfishness", "deep selfishness becomes compassion", "deep wants become generous"]
-tags: ["selfishness", "unity", "wants", "compassion", "interdependence"]
-related: ["wants-vs-partiality", "resistance", "impartiality", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "the-want"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-15_Want over Should — Master Class Series #6"]
+aliases: ["selfish gene", "undeveloped selfishness", "deep selfishness becomes compassion", "deep wants become generous", "levels of selfishness as developmental gauge", "selfishness as development marker", "I don't even believe in selfishness", "selfishness is a word adults created to control children"]
+tags: ["selfishness", "unity", "wants", "compassion", "interdependence", "development"]
+related: ["wants-vs-partiality", "resistance", "impartiality", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "the-want", "spiritual-narcissism"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-15_Want over Should — Master Class Series #6", "2021-06-04_The Business Behind our Courses"]
 ---
 
 # Selfishness Is the Engine of Unity
@@ -25,6 +25,27 @@ The key to good selfishness is understanding the underlying want. Surface-level 
 The false dichotomy is: I must choose between being good to me and being good to you. In Joe's experience, true self-compassion and compassion for others are the same action.
 
 The problem is not selfishness. The problem is undeveloped selfishness. When a parent calls a child "selfish," they almost always mean: "I wanted you to do something different." Joe has never called his own children selfish. The accusation of selfishness is itself a form of [[resistance]] to the other person's autonomy.
+
+"I don't even know if the word selfish -- I don't know if I even believe in it particularly. I feel like that's just a word that some adult created to control their children." -- Joe Hudson, The Business Behind our Courses
+
+## Selfishness as a Developmental Gauge
+
+A more precise framing: the level of selfishness someone is operating from is a usable diagnostic for where they are in their personal development. The level itself is the data.
+
+"The levels of selfishness seem to be a good way to gauge where you are in your own personal development." -- Joe Hudson, The Business Behind our Courses
+
+The levels (rough sketch):
+
+- **The most contracted level:** "I want this now and I don't want you to have it." This is the selfishness of scarcity. The person experiences others as competitors for finite resources. The body is contracted. The level is correlated with significant misery.
+- **The expanded but still contracted level:** Service of others as the means to one's own benefit. Less contracted than the first, still partial. There is recognition that helping others is rewarding, but the underlying calculus is still about the self.
+- **The further-expanded level:** Genuine service that emerges from the recognition that self and other are not as separate as the contracted levels assume. The "selfishness" of caring for others as caring for oneself.
+- **The further levels:** Joe suggests that even being-of-service-to-people is itself a form of misery compared to deeper levels he does not specify.
+
+The key observation: each level is more spacious and less miserable than the one below it. The person operating from the most contracted level is suffering most. The progression is not from selfishness to selflessness. It is from contracted selfishness to expanded selfishness, with the selfishness remaining at every level but expanding to include more of what is.
+
+This reframes the corrective: not "be less selfish" (which adds a should and stalls development) but "follow the want deeper until the deeper level becomes available" (which is the actual mechanism).
+
+The principle has direct application as an anti-pattern guardrail. See [[spiritual-narcissism]] for the related warning about dressing up undeveloped selfishness in spiritual language. The corrective is not to deny the selfishness but to develop it.
 
 ## When Someone Experiences This
 
@@ -54,3 +75,4 @@ The corrective is not to suppress the surface wants. It is to actually meet them
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2021-06-04_The Business Behind our Courses

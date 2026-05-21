@@ -2,10 +2,10 @@
 type: pattern
 id: development-as-corkscrew
 title: "Development as Corkscrew"
-aliases: ["corkscrew development", "spiral development", "same issues different level", "I thought I dealt with my dad issues", "before awakening after awakening"]
+aliases: ["corkscrew development", "spiral development", "same issues different level", "I thought I dealt with my dad issues", "before awakening after awakening", "subtle till you see it"]
 tags: ["development", "patterns", "transformation"]
-related: ["pendulation", "late-stage-reversion", "three-stages-of-integration", "embrace-intensity"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2"]
+related: ["pendulation", "late-stage-reversion", "three-stages-of-integration", "embrace-intensity", "caring-vs-caretaking", "weaponized-not-caretaking"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
 ---
 
 # Development as Corkscrew
@@ -25,6 +25,18 @@ When a person who has done significant work encounters the same pattern they tho
 The reframe: this is the next turn on the corkscrew. The pattern is the same in kind but different in degree. Earlier turns required large movements. Later turns require finer calibration. The sensitivity is a sign of development, not regression.
 
 Like making an album: after producing music, you cannot hear songs the same way. You hear things that were always there but invisible before. This sensitivity deepens enjoyment rather than diminishing it, but only if it is not interpreted as failure.
+
+## "Subtle Till You See It"
+
+A specific verbal marker Joe uses when describing the corkscrew at work: "subtle till you see it." The pattern at the deeper turn is invisible until the person develops the sensitivity to see it. Once seen, it becomes obvious in retrospect.
+
+"It just gets more and more subtle. It's subtle till you see it." -- Joe Hudson, Care over Caretaking
+
+The application: when a person says "I dealt with my caretaking" or "I'm past my dad issues," the corkscrew predicts that a subtler version is waiting at the next turn. The exclamation "Oh!" that follows recognition is the corkscrew's diagnostic. The recognition is the next turn beginning.
+
+The trap is treating the new visibility as failure. The person thinks "I should be past this." The actual interpretation: "I have developed enough sensitivity to see what was previously invisible. The pattern was always operating. Now it is operable on."
+
+This applies specifically to [[caring-vs-caretaking]]. The first round of work removes the loud caretaking. The second round removes the medium-volume caretaking. The third round removes the sentence-level caretaking. Each round was complete relative to the sensitivity available at the time. See [[weaponized-not-caretaking]] for the predictable failure modes between rounds.
 
 ## Three Brains and the Corkscrew
 

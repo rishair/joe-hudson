@@ -2,10 +2,10 @@
 type: principle
 id: community-over-teacher
 title: "Community Over Teacher"
-aliases: ["community is more important than the teacher", "group intelligence", "community of practice", "wisdom of the group"]
+aliases: ["community is more important than the teacher", "group intelligence", "community of practice", "wisdom of the group", "the teacher pointing back to the student", "people creating their own tools from their consciousness"]
 tags: ["community", "learning", "development", "teaching", "integration"]
-related: ["integration", "container-of-love", "dont-evangelize-the-work"]
-sources: ["2020-12-11_Integrating a Transformative Experience"]
+related: ["integration", "container-of-love", "dont-evangelize-the-work", "become-unnecessary", "good-and-corruption-cycle"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses"]
 ---
 
 # Community Over Teacher
@@ -36,18 +36,33 @@ A good teacher constantly points the student back to their own truth and teaches
 
 The confusion: someone would not expect to understand physics after two workshops. Teachers have more experience in the terrain. But the relationship should consistently increase the student's capacity, not increase their dependence.
 
+## Encouraging Students to Make Their Own Tools
+
+A further extension of the principle: the teacher should encourage students to create tools from their own consciousness, not to carry the teacher's tools forever. The teacher's tools are right for the teacher and their consciousness. The student's tools, made from the student's own consciousness, are right for the student and the people near the student.
+
+"I want other people to create tools from theirs [their own consciousness]. And so again, I want to be less involved. And so as people create their own stuff from their consciousness, those are right tools for where they are and where the people near them are. So it's just incredibly useful to have more of those tools out there, and rather than making them dependent on my tools." -- Joe Hudson, The Business Behind our Courses
+
+The implication: a transformative community is healthy when it is generating tools, languages, and practices from inside itself, not when it is uniformly adopting and propagating the teacher's framework. The teacher's tools become seeds for the community's own development, not the canonical practice the community is required to follow.
+
+This connects directly to [[become-unnecessary]]. The teacher's tools, when held as the only legitimate tools, increase student dependence on the teacher. The teacher's tools, when offered as one expression that students are invited to develop their own version of, increase student capacity.
+
 ## Upstream (What Leads Here)
 
 - When someone is becoming dependent on a teacher or guru for validation
 - When someone is integrating after a course and feels lost without the facilitator
 - When the question is "how do I keep growing after the course ends?"
+- When a teacher of transformative work is asking how to structure the work to avoid creating dependence
+- When a community of practitioners is asking whether they should be propagating the teacher's tools or developing their own
 
 ## Downstream (Where This Leads)
 
 - Building or joining a community of practice for sustained transformation
 - Reducing teacher dependence as a pattern
 - Toward [[dont-evangelize-the-work]]: sharing the work through presence and community, not through missionary conversion
+- Toward [[become-unnecessary]]: the structural design principle that makes community-over-teacher operational
+- Toward [[good-and-corruption-cycle]]: the related principle about how significant teachings get corrupted at scale
 
 ## Sources
 
 - 2020-12-11_Integrating a Transformative Experience
+- 2021-06-04_The Business Behind our Courses

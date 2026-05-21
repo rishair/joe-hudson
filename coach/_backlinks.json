@@ -1,4 +1,106 @@
 {
+  "i-feel-trapped": [
+    "i-caretake-people",
+    "i-dont-have-time-for-this",
+    "i-freeze-around-authority",
+    "i-have-to-sacrifice-to-succeed",
+    "im-afraid-of-stagnating",
+    "disassociating-in-the-coaching-room",
+    "fight-or-roll-over-binary",
+    "in-the-story-im-not-being-seen",
+    "you-think-they-cant-handle-it",
+    "what-if-you-acted-exactly-how-you-want",
+    "victim-stance-invites-abuse",
+    "visualizing-feared-outcomes"
+  ],
+  "caring-vs-caretaking": [
+    "i-caretake-people",
+    "rehearsing-how-to-say-it",
+    "you-think-they-cant-handle-it",
+    "what-would-happen-if-you-stopped",
+    "weaponized-not-caretaking",
+    "empathy",
+    "love-as-deep-welcoming",
+    "development-as-corkscrew",
+    "welcoming-the-others-emotion",
+    "boundary-with-vs-boundary-against",
+    "empathy-vs-sympathy",
+    "love-vs-nice",
+    "caretaking-prevents-the-bottom",
+    "what-is-truly-compassionate",
+    "visualizing-feared-outcomes",
+    "fear-triangle",
+    "four-faces-of-love",
+    "hand-in-hand-parenting",
+    "vulnerability-in-the-workplace"
+  ],
+  "rehearsing-how-to-say-it": [
+    "i-caretake-people",
+    "caring-vs-caretaking",
+    "resentment-as-caretaking-diagnostic",
+    "softening-as-caring-diagnostic"
+  ],
+  "you-think-they-cant-handle-it": [
+    "i-caretake-people",
+    "what-would-happen-if-you-stopped",
+    "welcoming-the-others-emotion",
+    "caring-vs-caretaking",
+    "resentment-as-caretaking-diagnostic",
+    "softening-as-caring-diagnostic"
+  ],
+  "softening-as-caring-diagnostic": [
+    "i-caretake-people",
+    "caring-vs-caretaking",
+    "resentment-as-caretaking-diagnostic"
+  ],
+  "resentment-as-caretaking-diagnostic": [
+    "i-caretake-people",
+    "caring-vs-caretaking",
+    "softening-as-caring-diagnostic"
+  ],
+  "visualizing-feared-outcomes": [
+    "i-caretake-people",
+    "what-would-happen-if-you-stopped",
+    "impartiality",
+    "caring-vs-caretaking",
+    "caretaking-prevents-the-bottom",
+    "fear-is-about-feeling"
+  ],
+  "what-is-truly-compassionate": [
+    "i-caretake-people",
+    "caring-vs-caretaking",
+    "caretaking-prevents-the-bottom"
+  ],
+  "fixing-people": [
+    "i-caretake-people",
+    "dont-evangelize-the-work",
+    "impartiality",
+    "owning-your-partiality",
+    "caring-vs-caretaking",
+    "become-unnecessary",
+    "follow-the-demand",
+    "inherent-goodness",
+    "marketing-as-the-beginning",
+    "shame-drives-behavior",
+    "view"
+  ],
+  "i-have-to-sacrifice-to-succeed": [
+    "i-caretake-people",
+    "i-dont-have-time-for-this",
+    "i-feel-trapped",
+    "i-need-to-improve-myself",
+    "im-afraid-of-stagnating",
+    "art-of-accomplishment",
+    "victim-stance-invites-abuse",
+    "mandela-empowerment"
+  ],
+  "i-should-be-doing-this": [
+    "i-caretake-people",
+    "i-freeze-around-authority",
+    "i-need-to-improve-myself",
+    "money-as-surrogate",
+    "wants-over-shoulds"
+  ],
   "subway-kid": [
     "i-dont-have-time-for-this",
     "i-have-to-sacrifice-to-succeed",
@@ -7,12 +109,14 @@
   ],
   "victim-stance-invites-abuse": [
     "i-dont-have-time-for-this",
-    "i-feel-trapped"
+    "i-feel-trapped",
+    "money-must-flow"
   ],
   "fear-is-about-feeling": [
     "i-dont-have-time-for-this",
     "i-feel-trapped",
     "what-if-you-acted-exactly-how-you-want",
+    "what-would-happen-if-you-stopped",
     "impartiality",
     "resistance",
     "binary-thinking-signals-fear",
@@ -42,30 +146,11 @@
     "i-dont-have-time-for-this",
     "art-of-accomplishment",
     "enjoyment-as-path",
+    "enjoyment-as-surrender",
     "butchers-blade",
     "buurtzorg-nursing",
     "sleep-deprived-soldier",
     "authenticity-in-business"
-  ],
-  "i-have-to-sacrifice-to-succeed": [
-    "i-dont-have-time-for-this",
-    "i-feel-trapped",
-    "i-need-to-improve-myself",
-    "im-afraid-of-stagnating",
-    "art-of-accomplishment",
-    "victim-stance-invites-abuse",
-    "mandela-empowerment"
-  ],
-  "i-feel-trapped": [
-    "i-dont-have-time-for-this",
-    "i-freeze-around-authority",
-    "i-have-to-sacrifice-to-succeed",
-    "im-afraid-of-stagnating",
-    "disassociating-in-the-coaching-room",
-    "fight-or-roll-over-binary",
-    "in-the-story-im-not-being-seen",
-    "what-if-you-acted-exactly-how-you-want",
-    "victim-stance-invites-abuse"
   ],
   "fear-triangle": [
     "i-feel-trapped",
@@ -130,6 +215,7 @@
     "disassociating-in-the-coaching-room",
     "fight-or-roll-over-binary",
     "in-the-story-im-not-being-seen",
+    "rehearsing-how-to-say-it",
     "upright-undefended-love",
     "childhood-imprinting",
     "become-the-authority-figure",
@@ -177,6 +263,7 @@
     "binary-thinking-signals-fear",
     "childhood-imprinting",
     "become-the-authority-figure",
+    "welcoming-the-others-emotion",
     "empowered-vs-power",
     "love-requires-empowerment"
   ],
@@ -184,12 +271,6 @@
     "i-freeze-around-authority",
     "fight-or-roll-over-binary",
     "upright-undefended-love"
-  ],
-  "i-should-be-doing-this": [
-    "i-freeze-around-authority",
-    "i-need-to-improve-myself",
-    "money-as-surrogate",
-    "wants-over-shoulds"
   ],
   "i-have-no-choice": [
     "i-have-to-sacrifice-to-succeed"
@@ -211,8 +292,10 @@
   "consciousness-is-the-product": [
     "i-have-to-sacrifice-to-succeed",
     "art-of-accomplishment",
+    "become-unnecessary",
     "enjoyment-as-path",
     "goal-beyond-the-goal",
+    "marketing-as-the-beginning",
     "subway-kid",
     "authenticity-in-business"
   ],
@@ -297,6 +380,7 @@
     "improvement-vs-authenticity",
     "past-shame-vs-current-shame",
     "wants-vs-partiality",
+    "caretaking-prevents-the-bottom",
     "helplessness-is-the-gateway",
     "inherent-goodness",
     "wants-over-shoulds",
@@ -345,8 +429,10 @@
   "tools-to-change-not-love": [
     "i-need-to-improve-myself",
     "loving-to-transform",
+    "weaponized-not-caretaking",
     "love-as-deep-welcoming",
     "improvement-vs-authenticity",
+    "good-and-corruption-cycle",
     "love-is-the-best-change-agent"
   ],
   "joes-godson-vape-pen": [
@@ -399,6 +485,7 @@
     "rebellion-or-submission-to-should",
     "improvement-vs-authenticity",
     "enjoyment-as-path",
+    "enjoyment-as-surrender",
     "nature-improves-itself",
     "shame-drives-behavior",
     "dont-improve-for-two-weeks",
@@ -484,6 +571,7 @@
     "money-as-surrogate",
     "hardening-means-personal",
     "integrity-as-money-compass",
+    "money-must-flow",
     "money-domain"
   ],
   "what-we-fear-we-invite": [
@@ -500,6 +588,7 @@
   "just-business-vs-impersonal": [
     "money-is-bad",
     "money-is-impersonal",
+    "caring-vs-caretaking",
     "hardening-means-personal",
     "three-ways-to-fire-someone",
     "money-domain"
@@ -519,7 +608,8 @@
     "joes-abandonment-mapping"
   ],
   "money-domain": [
-    "money-is-bad"
+    "money-is-bad",
+    "money-must-flow"
   ],
   "binary-thinking-signals-fear": [
     "fight-or-roll-over-binary",
@@ -553,6 +643,7 @@
   ],
   "embrace-intensity": [
     "how-much-fight",
+    "rehearsing-how-to-say-it",
     "heartbreak-as-capacity-expansion",
     "resistance",
     "development-as-corkscrew",
@@ -563,6 +654,10 @@
     "helplessness-is-the-gateway",
     "five-principles-of-the-path",
     "joes-pot-habit"
+  ],
+  "i-caretake-people": [
+    "rehearsing-how-to-say-it",
+    "you-think-they-cant-handle-it"
   ],
   "enjoy-over-manage": [
     "how-do-you-want-to-be",
@@ -584,6 +679,7 @@
     "the-want",
     "enjoy-over-manage",
     "improvement-vs-authenticity",
+    "enjoyment-as-surrender",
     "integrity-as-money-compass",
     "nature-improves-itself",
     "process-over-result",
@@ -612,6 +708,7 @@
     "self-realization",
     "vulnerability",
     "boundary-with-vs-boundary-against",
+    "follow-the-demand",
     "process-over-result",
     "right-question-over-right-answer",
     "how-what-questions",
@@ -624,6 +721,7 @@
   ],
   "feeling-the-unfelt-emotion": [
     "what-is-it-without-resistance",
+    "what-would-happen-if-you-stopped",
     "container-of-love",
     "defense",
     "empathy",
@@ -643,6 +741,7 @@
     "three-signals-of-unfelt-emotion",
     "not-sometimes-right-now",
     "treat-yourself-as-actor-of-emotion",
+    "welcoming-the-others-emotion",
     "enjoy-over-manage",
     "fear-vs-excitement",
     "feel-over-figure",
@@ -666,14 +765,12 @@
     "joes-pot-habit",
     "worthlessness-freedom"
   ],
-  "fixing-people": [
-    "dont-evangelize-the-work",
-    "impartiality",
-    "owning-your-partiality",
-    "caring-vs-caretaking",
-    "inherent-goodness",
-    "shame-drives-behavior",
-    "view"
+  "welcoming-the-others-emotion": [
+    "what-would-happen-if-you-stopped"
+  ],
+  "caretaking-prevents-the-bottom": [
+    "what-would-happen-if-you-stopped",
+    "visualizing-feared-outcomes"
   ],
   "impartiality": [
     "dont-evangelize-the-work",
@@ -696,6 +793,7 @@
     "awareness-as-change-agent",
     "connection-over-perfection",
     "fear-is-about-feeling",
+    "follow-the-demand",
     "inherent-goodness",
     "process-over-result",
     "right-question-over-right-answer",
@@ -717,6 +815,8 @@
     "wonder-vs-curiosity",
     "connection-over-perfection",
     "decisions-are-emotional",
+    "follow-the-demand",
+    "good-and-corruption-cycle",
     "process-over-result",
     "how-what-questions",
     "vulnerability-in-the-workplace"
@@ -726,6 +826,17 @@
     "being-heard",
     "wonder",
     "view"
+  ],
+  "community-over-teacher": [
+    "dont-evangelize-the-work",
+    "container-of-love",
+    "integration",
+    "become-unnecessary",
+    "good-and-corruption-cycle"
+  ],
+  "good-and-corruption-cycle": [
+    "dont-evangelize-the-work",
+    "community-over-teacher"
   ],
   "vulnerability": [
     "fixing-people",
@@ -788,13 +899,18 @@
   ],
   "boundary-with-vs-boundary-against": [
     "loving-to-transform",
+    "weaponized-not-caretaking",
     "defense",
     "love-as-deep-welcoming",
     "upright-undefended-love",
+    "welcoming-the-others-emotion",
+    "caring-vs-caretaking",
     "defense-vs-love",
     "just-business-vs-impersonal",
     "love-vs-nice",
+    "resentment-as-caretaking-diagnostic",
     "acceptance-as-change-strategy",
+    "caretaking-prevents-the-bottom",
     "joes-board-member"
   ],
   "love-as-deep-welcoming": [
@@ -804,6 +920,7 @@
     "resistance",
     "boundary-with-vs-boundary-against",
     "love-vs-nice",
+    "softening-as-caring-diagnostic",
     "love-is-the-best-change-agent",
     "love-requires-empowerment",
     "four-faces-of-love",
@@ -817,8 +934,20 @@
     "empathy",
     "vulnerability",
     "wonder",
+    "good-and-corruption-cycle",
+    "marketing-as-the-beginning",
     "process-over-result",
     "view"
+  ],
+  "selfishness-is-the-engine-of-unity": [
+    "spiritual-narcissism",
+    "expanding-sense-of-self",
+    "the-want",
+    "improvement-vs-authenticity",
+    "enjoyment-as-surrender",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "what-is-truly-compassionate"
   ],
   "pendulation": [
     "state-seeking",
@@ -834,6 +963,7 @@
     "consciousness-is-the-product",
     "efficiency-as-enjoyment",
     "embrace-intensity",
+    "enjoyment-as-surrender",
     "nature-improves-itself",
     "wants-over-shoulds",
     "five-principles-of-the-path",
@@ -849,6 +979,7 @@
     "tools-to-change-not-love",
     "love-as-deep-welcoming",
     "loving-all-parts",
+    "good-and-corruption-cycle",
     "love-is-the-best-change-agent",
     "view"
   ],
@@ -895,11 +1026,13 @@
   ],
   "wonder-as-strategy": [
     "view-as-technique",
-    "wonder"
+    "wonder",
+    "good-and-corruption-cycle"
   ],
   "losing-yourself-in-others": [
     "view-as-technique",
     "empathy",
+    "caring-vs-caretaking",
     "empathy-vs-sympathy",
     "staying-in-your-body"
   ],
@@ -907,11 +1040,19 @@
     "view-as-technique",
     "vulnerability",
     "vulnerability-vs-weakness",
-    "dont-do-emotion-at-people"
+    "dont-do-emotion-at-people",
+    "good-and-corruption-cycle"
+  ],
+  "spiritual-narcissism": [
+    "weaponized-not-caretaking",
+    "good-and-corruption-cycle",
+    "selfishness-is-the-engine-of-unity",
+    "what-is-truly-compassionate"
   ],
   "intention-vs-goal": [
     "art-of-accomplishment",
     "wanting-vs-craving",
+    "enjoyment-as-surrender",
     "goal-beyond-the-goal",
     "pow-optimist",
     "tennis-quarter"
@@ -934,13 +1075,10 @@
     "zen-sickness",
     "3-to-5-rule",
     "late-stage-reversion",
+    "become-unnecessary",
     "community-over-teacher",
     "epiphany-becomes-rut",
     "process-over-result"
-  ],
-  "community-over-teacher": [
-    "container-of-love",
-    "integration"
   ],
   "examples/joes-board-member": [
     "defense",
@@ -971,17 +1109,6 @@
     "defense-vs-love",
     "conditions-for-transformation"
   ],
-  "caring-vs-caretaking": [
-    "empathy",
-    "love-as-deep-welcoming",
-    "boundary-with-vs-boundary-against",
-    "empathy-vs-sympathy",
-    "love-vs-nice",
-    "fear-triangle",
-    "four-faces-of-love",
-    "hand-in-hand-parenting",
-    "vulnerability-in-the-workplace"
-  ],
   "empathy-vs-sympathy": [
     "empathy"
   ],
@@ -998,13 +1125,6 @@
     "three-signals-of-unfelt-emotion",
     "epiphany-vs-transformation",
     "feel-over-figure"
-  ],
-  "selfishness-is-the-engine-of-unity": [
-    "expanding-sense-of-self",
-    "the-want",
-    "improvement-vs-authenticity",
-    "wants-deepen-as-you-follow-them",
-    "wants-over-shoulds"
   ],
   "container-of-love": [
     "feeling-the-unfelt-emotion",
@@ -1092,10 +1212,6 @@
     "joes-board-member",
     "joes-weeping-at-superficial-conversations"
   ],
-  "visualizing-feared-outcomes": [
-    "impartiality",
-    "fear-is-about-feeling"
-  ],
   "owning-your-partiality": [
     "impartiality",
     "vulnerability",
@@ -1137,16 +1253,19 @@
   "heartbreak-as-capacity-expansion": [
     "letting-judgment-in",
     "love-as-deep-welcoming",
+    "softening-as-caring-diagnostic",
     "joes-board-member",
     "joes-weeping-at-superficial-conversations"
   ],
   "four-faces-of-love": [
     "love-as-deep-welcoming",
     "caring-vs-caretaking",
+    "softening-as-caring-diagnostic",
     "view"
   ],
   "love-vs-nice": [
     "love-as-deep-welcoming",
+    "what-is-truly-compassionate",
     "alex-bell-told-joe-he-lied"
   ],
   "VIEW": [
@@ -1169,10 +1288,13 @@
   ],
   "poverty-mentality": [
     "money-as-surrogate",
+    "money-must-flow",
     "money-domain"
   ],
   "integrity-as-money-compass": [
     "money-is-impersonal",
+    "enjoyment-as-surrender",
+    "money-must-flow",
     "money-domain"
   ],
   "layered-resistance": [
@@ -1190,6 +1312,7 @@
     "awareness-as-change-agent",
     "consciousness-is-the-product",
     "epiphany-becomes-rut",
+    "marketing-as-the-beginning",
     "seven-limiting-beliefs",
     "view",
     "spaghetti-tower-experiment"
@@ -1215,9 +1338,11 @@
     "find-the-want-behind-the-should",
     "improvement-vs-authenticity",
     "wanting-vs-craving",
+    "enjoyment-as-surrender",
     "owning-the-want-dissolves-it",
     "selfishness-is-the-engine-of-unity",
-    "wanting-itself-not-what-you-want"
+    "wanting-itself-not-what-you-want",
+    "what-is-truly-compassionate"
   ],
   "owning-the-want-dissolves-it": [
     "the-want",
@@ -1228,6 +1353,7 @@
     "wanting-itself-not-what-you-want",
     "wants-deepen-as-you-follow-them",
     "wants-over-shoulds",
+    "what-is-truly-compassionate",
     "feeling-the-want-as-emotion"
   ],
   "trying-vs-doing": [
@@ -1277,8 +1403,13 @@
   "wonder-vs-curiosity": [
     "wonder"
   ],
+  "weaponized-not-caretaking": [
+    "development-as-corkscrew",
+    "caring-vs-caretaking"
+  ],
   "development-as-corkscrew": [
     "pendulation",
+    "caring-vs-caretaking",
     "epiphany-becomes-rut"
   ],
   "impulse-to-should": [
@@ -1307,6 +1438,11 @@
   "trauma-heals-in-relationship": [
     "excavating-the-inner-critic-in-group"
   ],
+  "three-ways-to-fire-someone": [
+    "caring-vs-caretaking",
+    "just-business-vs-impersonal",
+    "money-domain"
+  ],
   "acting-as-if-already-true": [
     "empowered-vs-power",
     "intention-vs-goal",
@@ -1327,6 +1463,7 @@
   ],
   "epiphany-becomes-rut": [
     "feel-over-figure",
+    "good-and-corruption-cycle",
     "stages-of-emotional-development"
   ],
   "joes-hacky-sack": [
@@ -1342,10 +1479,6 @@
     "embrace-intensity",
     "principles-free-you",
     "conditions-for-transformation"
-  ],
-  "three-ways-to-fire-someone": [
-    "just-business-vs-impersonal",
-    "money-domain"
   ],
   "examples/alex-bell-told-joe-he-lied": [
     "love-vs-nice"
@@ -1369,16 +1502,32 @@
     "acting-as-if-already-true"
   ],
   "dont-evangelize-the-work": [
-    "community-over-teacher"
+    "become-unnecessary",
+    "community-over-teacher",
+    "follow-the-demand",
+    "good-and-corruption-cycle"
+  ],
+  "become-unnecessary": [
+    "community-over-teacher",
+    "consciousness-is-the-product",
+    "good-and-corruption-cycle",
+    "marketing-as-the-beginning"
   ],
   "spaghetti-tower-experiment": [
     "connection-over-perfection"
+  ],
+  "marketing-as-the-beginning": [
+    "consciousness-is-the-product",
+    "follow-the-demand"
   ],
   "michelangelo-sistine-chapel": [
     "constraints-increase-creativity"
   ],
   "butchers-blade": [
     "efficiency-as-enjoyment"
+  ],
+  "enjoyment-as-surrender": [
+    "enjoyment-as-path"
   ],
   "quit-hope-lose-cycle": [
     "epiphany-becomes-rut",
@@ -1387,6 +1536,11 @@
   ],
   "vulnerability-protects": [
     "fear-is-about-feeling"
+  ],
+  "authenticity-in-business": [
+    "follow-the-demand",
+    "marketing-as-the-beginning",
+    "buurtzorg-nursing"
   ],
   "tennis-quarter": [
     "goal-beyond-the-goal"
@@ -1424,9 +1578,6 @@
   "being-heard": [
     "view"
   ],
-  "authenticity-in-business": [
-    "buurtzorg-nursing"
-  ],
   "joes-pot-habit": [
     "joes-hacky-sack"
   ],
@@ -1438,5 +1589,8 @@
   ],
   "buurtzorg-nursing": [
     "authenticity-in-business"
+  ],
+  "money-must-flow": [
+    "money-domain"
   ]
 }

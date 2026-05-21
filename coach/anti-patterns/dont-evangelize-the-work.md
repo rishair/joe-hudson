@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-evangelize-the-work
 title: "Don't evangelize the work"
-aliases: ["missionary work", "using tools without permission", "pushing transformation on others", "coaching without consent"]
+aliases: ["missionary work", "using tools without permission", "pushing transformation on others", "coaching without consent", "tools without shadow work", "carrying someone else's tools without consciousness"]
 tags: ["integration", "relationships", "boundaries", "VIEW"]
-related: ["view-as-technique", "integration", "community-over-teacher", "fixing-people"]
-sources: ["2020-12-11_Integrating a Transformative Experience"]
+related: ["view-as-technique", "integration", "community-over-teacher", "fixing-people", "become-unnecessary", "good-and-corruption-cycle", "spiritual-narcissism"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses"]
 ---
 
 # Don't evangelize the work
@@ -34,6 +34,19 @@ The line between tools meant for the world (like [[view]] conversations and [[ho
 
 "In VIEW, you don't have to ask them to do anything or be any way. You just ask questions and speak from a vulnerable, impartial, empathetic, and a space of wonder." -- Joe Hudson, Integrating a Transformative Experience
 
+## Why Tools Get Dangerous in Untrained Hands
+
+Beyond the consent issue, there is a structural reason for caution about who picks up which tools. Tools developed inside one person's consciousness fit that consciousness. The same tool picked up by someone whose shadow has not been examined becomes a vehicle for the shadow. The tool is not damaging. The unexamined shadow that picked up the tool is damaging.
+
+"These tools modified slightly can be used for nefarious purposes, or at least unconscious purposes. And so there's this fear that that will happen, and I've seen it happen, and not even through people having bad intentions. It's just, it's oftentimes someone's like, oh, I can use this tool to help a whole bunch of people. And they haven't looked at their own shadow. And so their shadow just kind of, you know, just completely takes over the work." -- Joe Hudson, The Business Behind our Courses
+
+This is the deeper reason for the permission requirement around specific tools developed inside the work. The permission process is not gatekeeping for status. It is a check on whether the person picking up the tool has done enough of their own work to use the tool without distorting it through their shadow.
+
+The corollary is the encouragement Joe places on the other side: people should develop tools from their own consciousness, not carry someone else's. Tools made from your own consciousness fit your consciousness and the consciousness of the people around you. Tools you have carried from someone else without the corresponding consciousness produce predictable distortion. See [[community-over-teacher]] for the developmental implication.
+
+The full picture: tools that require nothing of the other person (questions, truth-telling) can be carried freely. Tools that ask something of the other person (exercises, structured practices) require consent. Tools developed inside a specific lineage require permission for use and benefit from the person developing analogous tools from their own ground. The whole apparatus is designed against the [[good-and-corruption-cycle]] that inevitably arises when significant tools meet unexamined shadow.
+
 ## Sources
 
 - 2020-12-11_Integrating a Transformative Experience
+- 2021-06-04_The Business Behind our Courses

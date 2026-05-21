@@ -4,8 +4,8 @@ id: money-domain
 title: "Money as a Coaching Domain"
 aliases: ["coaching about money", "money work", "money as the kinkiest thing", "money shame", "money pride", "money topic"]
 tags: ["money", "applications", "shame", "kinky", "domain"]
-related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You"]
+related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal", "money-must-flow"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses"]
 ---
 
 # Money as a Coaching Domain
@@ -108,6 +108,24 @@ The work in each case is at the level of what is personal about the money behavi
 ## The Operating Principle
 
 Once money is impersonal, the operational question shifts from "what is my strategy with money" to "what does integrity require in this transaction." See [[integrity-as-money-compass]]. The compass replaces the strategy. Decisions get made moment to moment by feel rather than by rule.
+
+A second operating principle works alongside integrity: money is energy, and stagnant energy is destructive. See [[money-must-flow]]. The healthy money question is not "how much do I have" but "is it flowing." When money pools, distortion follows. When money circulates -- through the body, through the household, through the business, through the community -- the system stays healthy. This principle becomes available once money is impersonal and integrity is the compass.
+
+## Charitable Giving and the Exchange Question
+
+A specific application of the money-flow principle: pure charity without exchange creates a particular kind of harm. The recipient learns they have nothing to offer, which is the most damaging teaching the recipient could receive. The corrective is to find what the recipient does have to offer and design the giving as exchange rather than as gift. See [[money-must-flow]] for the Nicaragua story.
+
+This connects directly to the coaching of a coachee who is giving from a savior position. The savior stance produces dependency in the recipient and burnout in the giver. The work is at the level of the savior dynamic, not at the level of the giving itself.
+
+It also connects to the coaching of a coachee who is receiving from a victim position. The victim-receiver stance produces continued dependency and erodes the coachee's sense of capacity. The work is at the level of finding what the coachee does have to offer, which is the structural inverse of the savior dynamic.
+
+## Pricing as a Coaching Topic
+
+When a coachee runs a service business or transformative work, the question of pricing surfaces predictably. The standard mistakes are: charging too little (out of shame or fear), charging too much (out of compensation or grandiosity), and charging uniformly (out of mental simplicity). The principle that often produces movement: calibrate the price to the exchange that the specific population can feel.
+
+A $200 fee is not an exchange for a billionaire. The same $200 fee is a real exchange for a person earning $10 an hour. The same offering at different price points calibrates the exchange to the receiver. The design principle that follows: tiered offerings where higher-priced work subsidizes lower-priced work, with the whole system staying in flow rather than pooling.
+
+This is not pricing strategy in the conventional sense. It is the felt design of an exchange that both parties can experience as alive. See [[money-must-flow]].
 
 ## When Joe Reaches For This Domain
 

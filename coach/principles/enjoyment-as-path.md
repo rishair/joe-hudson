@@ -4,8 +4,8 @@ id: enjoyment-as-path
 title: "Enjoyment as Path"
 aliases: ["enjoy the process", "how do I enjoy the things I'm doing", "enjoyment is more effective", "golden mean of the journey", "enjoy yourself"]
 tags: ["transformation", "enjoyment", "principle", "approach"]
-related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity", "efficiency-as-enjoyment", "art-of-accomplishment", "consciousness-is-the-product"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity", "efficiency-as-enjoyment", "art-of-accomplishment", "consciousness-is-the-product", "enjoyment-as-surrender"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses"]
 ---
 
 # Enjoyment as Path
@@ -54,9 +54,11 @@ This makes enjoyment not a luxury but a measure of how well the system is functi
 - Toward [[efficiency-as-enjoyment]]: the structural reason enjoyment is not optional
 - Toward [[art-of-accomplishment]]: enjoyment is what makes the work art
 - Toward [[consciousness-is-the-product]]: the enjoyment in the making becomes part of what is delivered
+- Toward [[enjoyment-as-surrender]]: enjoyment functions not only as path but as the instrument that gauges alignment with the deeper call
 - Away from state-seeking and future-living: enjoyment is present-tense
 
 ## Sources
 
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2021-06-04_The Business Behind our Courses

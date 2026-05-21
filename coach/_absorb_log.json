@@ -520,8 +520,56 @@
     },
     {
       "folder": "2021-06-04_The Business Behind our Courses",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T19:20:40Z",
+      "articles_created": [
+        "become-unnecessary",
+        "marketing-as-the-beginning",
+        "spiritual-narcissism",
+        "good-and-corruption-cycle",
+        "enjoyment-as-surrender",
+        "follow-the-demand",
+        "money-must-flow"
+      ],
+      "articles_updated": [
+        "selfishness-is-the-engine-of-unity",
+        "community-over-teacher",
+        "money-domain",
+        "consciousness-is-the-product",
+        "dont-evangelize-the-work",
+        "enjoyment-as-path"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T19:30:57Z"
+    },
+    {
+      "folder": "2021-06-18_Care over Caretaking - Loving without Losing Yourself",
+      "status": "complete",
+      "claimed_at": "2026-05-21T19:31:32Z",
+      "articles_created": [
+        "i-caretake-people",
+        "you-think-they-cant-handle-it",
+        "rehearsing-how-to-say-it",
+        "resentment-as-caretaking-diagnostic",
+        "softening-as-caring-diagnostic",
+        "weaponized-not-caretaking",
+        "what-is-truly-compassionate",
+        "caretaking-prevents-the-bottom",
+        "welcoming-the-others-emotion",
+        "what-would-happen-if-you-stopped"
+      ],
+      "articles_updated": [
+        "caring-vs-caretaking",
+        "visualizing-feared-outcomes",
+        "development-as-corkscrew"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T19:43:01Z"
+    },
+    {
+      "folder": "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T19:43:42Z",
       "articles_created": [],
       "articles_updated": []
     }

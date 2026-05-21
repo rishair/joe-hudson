@@ -4,8 +4,8 @@ id: consciousness-is-the-product
 title: "Consciousness Is the Product"
 aliases: ["your consciousness is what is consumed", "the real product is your state", "consciousness becomes the product", "how you make it is what gets made"]
 tags: ["consciousness", "product", "business", "state", "authenticity", "principle"]
-related: ["art-of-accomplishment", "enjoyment-as-path", "enjoy-over-manage", "vulnerability-in-the-workplace", "connection-over-perfection"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+related: ["art-of-accomplishment", "enjoyment-as-path", "enjoy-over-manage", "vulnerability-in-the-workplace", "connection-over-perfection", "marketing-as-the-beginning", "become-unnecessary"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses"]
 ---
 
 # Consciousness Is the Product
@@ -48,12 +48,28 @@ When you encounter a product that feels rushed, that is the consciousness of the
 
 In your own work: notice what you transmit when you are anxious versus when you are at ease. Your customers, users, and audience are receiving that signal regardless of the technical quality of the deliverable.
 
+## The Marketing Extension
+
+The principle extends to marketing. If the consciousness in the making is what the customer consumes, then the consciousness in the marketing is what the customer consumes first. Anxious marketing transmits anxiety to the prospective customer before they ever encounter the product. Manipulative marketing trains the customer to relate to the work through manipulation, which pre-corrupts the relationship the product itself is meant to establish.
+
+The corollary is that marketing is not separate from the work. Marketing is the first delivery of the work. See [[marketing-as-the-beginning]] for the full development of this implication. The same logic extends to billing, pricing, customer support, team dynamics, and every other operational touchpoint. Each is either transmitting the consciousness the work is intended to transmit, or contradicting it.
+
+"Everything that I'm doing is serving the self-exploration. Everything from the way that I bill to how we build the courses to the teamwork that goes into building the courses to how we price it." -- Joe Hudson, The Business Behind our Courses
+
+## The Teacher Stance Extension
+
+The principle also extends to the teacher's stance toward their own necessity. The teacher who carries an unexamined need to be central transmits that need into the structure of the organization, which transmits it into the students, who learn that they need the teacher. The teacher who has done the work to be unnecessary transmits that stance into the organization, which transmits it into the students, who develop their own capacity. See [[become-unnecessary]].
+
+This is why a healthy transformative organization cannot be built by a leader who has not done the inner work. The leader's consciousness becomes the structure. The structure becomes the experience. The experience becomes what the customers carry forward. There is no separating the leader's state from the product, regardless of how well the deliverables are designed.
+
 ## Upstream (What Leads Here)
 
 - When someone separates "the business" from "how I am while doing it."
 - When someone is grinding to ship a product and ignoring the toll on the team.
 - When someone asks why their well-made product is not landing with customers.
 - When a leader frames personal state as irrelevant to organizational output.
+- When a marketing campaign is producing results in the short term and damaging trust in the long term.
+- When a teacher of transformative work is asking why their students do not seem to develop independent capacity.
 
 ## Downstream (Where This Leads)
 
@@ -62,6 +78,8 @@ In your own work: notice what you transmit when you are anxious versus when you 
 - Toward [[enjoy-over-manage]]: managing the work while internally clenched transmits clenched product.
 - Toward [[vulnerability-in-the-workplace]]: the authenticity of leaders becomes the brand.
 - Toward [[connection-over-perfection]]: connection-state product outperforms perfection-state product.
+- Toward [[marketing-as-the-beginning]]: the marketing-domain application of the principle.
+- Toward [[become-unnecessary]]: the teacher's stance toward necessity becomes the structural design of the organization.
 
 ## Tone
 
@@ -70,3 +88,4 @@ Matter-of-fact. Joe states this as a structural truth, not a possibility. He is 
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2021-06-04_The Business Behind our Courses
