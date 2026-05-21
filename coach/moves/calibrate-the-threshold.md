@@ -2,9 +2,9 @@
 type: move
 id: calibrate-the-threshold
 title: "Calibrate the Threshold"
-aliases: ["ask for the percentage", "what percentage", "how much fight", "numerical calibration", "threshold question", "make it specific"]
+aliases: ["ask for the percentage", "what percentage", "how much fight", "numerical calibration", "threshold question", "make it specific", "what percentage of the time do you want to not offend"]
 tags: ["calibration", "specificity", "live coaching", "diagnostic"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
 ---
 
 # Calibrate the Threshold

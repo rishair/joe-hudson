@@ -5,7 +5,7 @@ title: "Community Over Teacher"
 aliases: ["community is more important than the teacher", "group intelligence", "community of practice", "wisdom of the group", "the teacher pointing back to the student", "people creating their own tools from their consciousness"]
 tags: ["community", "learning", "development", "teaching", "integration"]
 related: ["integration", "container-of-love", "dont-evangelize-the-work", "become-unnecessary", "good-and-corruption-cycle", "subjugation-prevents-healing", "cult-of-one", "keeping-cult-dynamics-conscious", "surrender-to-ineffable-vs-person"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
 ---
 
 # Community Over Teacher
@@ -39,6 +39,18 @@ The qualification matters: "or a group wisdom." Community-over-teacher does not 
 The diagnostic for the difference is whether participation in the community increases the person's access to their own truth or decreases it. See [[subjugation-prevents-healing]] for what happens when participation requires self-suppression, and [[surrender-to-ineffable-vs-person]] for the related distinction about where surrender is directed.
 
 The structural defenses against the slide from community-over-teacher into community-as-cult include the design choices around no inner circles, rotating roles, easy exit, naming dynamics openly (see [[keeping-cult-dynamics-conscious]]), and the structural impossibility of the leader becoming necessary (see [[become-unnecessary]]).
+
+## Group Intelligence in a Live Meeting
+
+The principle applies to meetings as much as to teaching relationships. A leader who stops dictating and instead asks how/what questions in VIEW format makes room for the group intelligence to operate. The output exceeds what the leader could have produced alone, and the leader's role shifts from generator to facilitator.
+
+A former client describes the move and its effect on a brand-rollout meeting with eight people across career stages:
+
+"I just asked questions in VU format. So how, what questions, vulnerably, impartially, with empathy and wonder. And through that, something which I've recently learned to be called group intelligence took over, and the group began to push each other and challenge each other and debate and push further. And title didn't matter, level didn't matter, and we got to the best possible outcome. And all I did was just facilitate. I asked, I asked questions." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+The contrast with the previous mode: "I would start the call with, hey, here's what we need to achieve before this call is over, this is what I think we should do, blah blah blah blah blah, and really start to dictate." The dictation collapses the group's intelligence to the leader's. The questions activate it.
+
+This is community-over-teacher applied to leadership specifically. See [[how-what-questions]] and [[view]] for the practices. See [[state-the-want-not-the-action]] for the operational principle that makes this facilitation pattern sustainable. The leader is no longer the source of the answers. The leader is the source of the questions and the wants. The group is the source of the answers.
 
 ## The Teacher's Role
 
@@ -79,3 +91,4 @@ This connects directly to [[become-unnecessary]]. The teacher's tools, when held
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-06-04_The Business Behind our Courses
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence

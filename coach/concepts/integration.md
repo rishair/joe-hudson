@@ -5,7 +5,7 @@ title: "Integration"
 aliases: ["integrating transformation", "transcend and integrate", "normalizing transformation", "post-breakthrough integration"]
 tags: ["development", "transformation", "learning", "process"]
 related: ["epiphany-vs-transformation", "three-stages-of-integration", "late-stage-reversion", "process-over-result", "container-of-love", "pendulation", "development-as-corkscrew", "quit-hope-lose-cycle", "no-finish-line", "undoing-not-doing"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
 ---
 
 # Integration
@@ -61,6 +61,20 @@ Each cover-up comes with a small visceral sensation, a tightening. The sensation
 
 The instruction during this phase: just watch them come and see through them. The most relevant practice may be to give the integration room rather than to fill it with the next project.
 
+## "Don't Build Back Too Soon"
+
+A specific instruction Joe gives clients coming out of a deep period of role-dropping (a retreat, an intensive, a sabbatical, a crisis that emptied the schedule). The natural impulse is to re-occupy the old roles immediately, often before the system has had time to discover what it does without them.
+
+The instruction is to hold the empty space longer than feels natural.
+
+"One of the things that Joe said to me coming out of it is, don't build back too soon. And we're almost 2 months out, and I still haven't built back." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+The function: the old structure is still pattern-ready. It wants to re-install. Holding off allows two things: the latent capacities of the people around the client to activate (see [[dropping-roles-makes-room]]), and the client's own discovery of which parts of the old structure were necessary versus which were just familiar.
+
+The fear that arises during the holding-off is often "do I not care anymore? Am I disengaged? Am I depressed?" The fear is part of the integration. The lack of urgency to re-occupy is not a problem; it is the new ground. Read as depression by reflex, the lack of urgency is misdiagnosed. Read as the absence of the compulsion to re-install, it is the integration working.
+
+This instruction pairs with the broader pattern in this article: integration's automatic move is the "how do I keep this?" reflex. "Don't build back too soon" addresses the structural version of the same reflex -- the impulse to re-install the old roles before the new pattern has emerged. The instruction does not say to never build back. It says to wait. The waiting is what allows the new pattern to be the actual new pattern rather than a slight modification of the old.
+
 ## What Can Go Wrong
 
 Almost all problems during integration come from resistance to what is. After transformation, the next thing that needs to be loved shows up. If met with "I don't want to feel this way" rather than "oh, there's the anger, it needs to be loved too," the process stalls.
@@ -90,3 +104,5 @@ Specific failure modes:
 
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence

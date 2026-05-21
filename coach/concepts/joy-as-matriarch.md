@@ -5,7 +5,7 @@ title: "Joy as the Matriarch of a Family of Emotions"
 aliases: ["joy as matriarch", "joy is a matriarch", "joy as mother", "joy won't come without her children", "the matriarch metaphor", "joy as gateway emotion", "the family of emotions", "docks in your port metaphor"]
 tags: ["joy", "emotions", "metaphor", "welcoming", "positive emotions", "repression"]
 related: ["stages-of-emotional-development", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "kinked-emotions", "pleasure-capacity", "daily-emotional-yoga", "embrace-intensity", "emotional-fluidity"]
-sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2"]
+sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
 ---
 
 # Joy as the Matriarch of a Family of Emotions
@@ -15,6 +15,14 @@ sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing In
 Joy is the matriarch of a family of emotions. She will not come into your house unless her children are also welcomed. Anger, sadness, fear, jealousy, grief -- joy's siblings -- have to be allowed in for joy to come too. A person who has shut the door on the difficult emotions has shut the door on joy as well, often without realizing it.
 
 "Joy is a matriarch of a family of emotions. She won't come into your house unless her children are welcome." -- Joe Hudson, Stages of Emotional Development
+
+## The Named Children: Fear, Grief, and Anger
+
+The matriarch's children, when Joe names them in coaching, are Fear, Grief, and Anger. This is the specific version that lands and propagates. Former clients quote it back word-for-word as the single line from the work that stays with them.
+
+"Joe says something really beautiful that I quote all the time, which is: Joy is the matriarch of all the emotions, and her children are Fear, Grief, and Anger. And in order for her to live in her house, she has to be with her children." -- Carla Piñeyro Sublett, quoting Joe, Finding Compassion in Self-Indulgence
+
+The image gives Joy a domestic claim on a house she shares with her children. Joy cannot be present in the house if her children are locked out. The instruction follows directly: to have Joy, welcome the children. The framing avoids the abstraction of "feel your feelings" by giving each emotion a name and a relationship to the one the person is actually after.
 
 ## Why This Reframes the Work
 
@@ -88,3 +96,5 @@ Warm. The matriarch image is offered with affection. The emotions are not proble
 ## Sources
 
 - 2021-09-24_Stages of Emotional Development
+- 2021-10-08_Embracing Intensity -- Emotion Series #2
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence

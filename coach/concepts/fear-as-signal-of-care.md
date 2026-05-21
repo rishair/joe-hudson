@@ -5,7 +5,7 @@ title: "Fear as a Signal of What You Care About"
 aliases: ["fear shows you what you care about", "fear points at what matters", "fear as information", "fear as compass", "fear tells you what threatens what you love", "the signal of fear", "fear isn't go or no-go", "fear shows what to look at"]
 tags: ["fear", "signal", "values", "needs", "discernment", "information"]
 related: ["fear-is-about-feeling", "fear-vs-anxiety", "disassociation-as-numbness-layer", "dont-step-on-the-signal", "the-want", "vulnerability", "feeling-the-unfelt-emotion", "feel-over-figure", "wisdom-of-each-emotion"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
 ---
 
 # Fear as a Signal of What You Care About
@@ -60,6 +60,14 @@ A related formulation: fear often signals that the person is taking care of othe
 
 See [[wisdom-of-each-emotion]] for the parallel readings of anger and sadness.
 
+## The Speedometer Reframe
+
+The cleanest one-line version of why this matters: fear is information you would not throw away if you understood what it was. Treating fear as something to eliminate is like treating the speedometer as a problem to fix.
+
+"Oh my God, I'm scared. That means my decision-making sucks right now. So I can feel my fear and then my decision-making can be great. Holy crap, what freedom? Oh my gosh, I'm in fear right now. That tells me that I have some needs that aren't being met. Why would you not wanna have that signal? That'd be like saying, fuck this speedometer on my dashboard. I don't want that speedometer there. It becomes completely nonsensical when you see it as that." -- Joe Hudson, Fear: A Path to Authenticity
+
+The reframe collapses two common misuses of fear into the same error. Trying to silence fear is the same kind of error as removing the speedometer. Both throw away the instrument that was carrying the information the system needed to act well.
+
 ## In Practice
 
 The sequence:
@@ -108,7 +116,11 @@ Joe holds fear with respect. Not as something to manage past, not as something t
 - Toward [[vulnerability]]: the move from listening to the fear to asking for what the fear is signaling.
 - Toward [[dont-step-on-the-signal]]: the anti-pattern of overriding the signal with willpower or positivity.
 - Toward [[feel-over-figure]]: the broader principle of letting felt experience inform decisions.
+- Toward [[apply-view-to-fear]]: the move that operationalizes meeting the fear rather than managing it.
+- Toward [[fear-in-body-vs-fear-in-head]]: the diagnostic for which form the fear is presenting in.
 
 ## Sources
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2021-09-24_Stages of Emotional Development
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5

@@ -5,7 +5,7 @@ title: "VIEW"
 aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
 related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
 ---
 
 # VIEW
@@ -69,6 +69,24 @@ Additionally, when people feel safe and un-attacked, they can learn, be curious,
 ## Moves
 
 - [[owning-your-partiality]]: Stopping mid-conversation to name your own agenda. "I notice I'm trying to fix you, and I apologize for that." This restores impartiality through vulnerability.
+- [[apply-view-to-the-voice]]: Apply VIEW to the inner critic, treating it as a relationship rather than a problem.
+- [[apply-view-to-fear]]: Apply VIEW to fear itself, meeting the internal state the way another person would be met.
+
+## VIEW As a Response to Internal States
+
+VIEW applies to internal phenomena as well as to people. The same state of mind that opens a conversation with another opens a relationship with parts of self that have been treated as alien. Fear, the inner voice, judgment, shame -- each can be approached with VIEW rather than fought, suppressed, or managed.
+
+Joe explicitly extends VIEW to fear in the Fear: A Path to Authenticity episode:
+
+"You can approach the internal states that you resist the same way that you can approach difficult conversations in the world. You can approach with VIEW. It's the same way." -- Joe Hudson, Fear: A Path to Authenticity
+
+He goes further, offering an alternate definition: fear is what shows up when VIEW is not present.
+
+"One way that you could say, what is fear? And I would say it's when you're not in VIEW." -- Joe Hudson, Fear: A Path to Authenticity
+
+This makes VIEW the operational response to fear. Bringing vulnerability (what am I really feeling?), impartiality (no agenda for the fear to leave), empathy (be with the fear, not against it), and wonder (what is this actually?) restores the state of mind whose absence the fear was expressing.
+
+The generalization: any internal state currently being managed can be approached with VIEW. The methodology does not care whether the conversation is between two people or between a person and their own difficult experience.
 
 ## Anti-Patterns
 
@@ -111,3 +129,4 @@ See [[love-as-deep-welcoming]] for the central treatment of the love that VIEW o
 - 2020-11-10_Vulnerability -- Connection Course Series #5
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5

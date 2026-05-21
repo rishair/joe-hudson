@@ -5,7 +5,7 @@ title: "Fear vs. Excitement"
 aliases: ["fear is excitement without the breath", "excitement is the other side of fear", "fear and excitement are the same energy", "constriction vs expansion", "constricting fear vs expansive excitement"]
 tags: ["fear", "excitement", "breath", "vulnerability", "emotions", "somatic"]
 related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
 ---
 
 # Fear vs. Excitement
@@ -67,6 +67,16 @@ This hack is a lighter touch than the somatic distinction above. The somatic ver
 
 See [[anxiety-as-unarticulated-need]] for the case where the anxiety signal should be decoded rather than reframed. The reframe and the decode are different responses for different situations.
 
+## Flow State Is Allowed Fear
+
+Joe extends the distinction into the specific physiology of flow. The flow state that athletes, performers, and people in difficult conversations chase is the same energy that would otherwise present as fear -- the difference is whether the person is constricting against it or allowing it through.
+
+"The flow state that I think so many people who do these kinds of sports look for, let's call that the freedom for a minute, is directly linked to allowing the fear. It directly leads to the embrace of the fear. So if you're not embracing it, you're constricted. If you are embracing it, if you're like, oh yeah, there it is, that's the fear, I'm going to fully allow this thing to be felt and move through me, then you're in flow state." -- Joe Hudson, Fear: A Path to Authenticity
+
+This gives a clean diagnostic for whether the person is in flow or in suppression. Flow is open. Suppression is closed. The same biochemistry under both, but the felt experience radically different. The athlete who reports flow has welcomed the fear. The athlete who reports performance-anxiety has tried to override it.
+
+The principle generalizes beyond sports. A leader having a hard conversation in flow has welcomed the fear of the conversation. A leader having the same conversation while gripping for safety experiences it as stressful and performs worse. The conversation, the audience, the stakes are the same; the welcoming or non-welcoming of the fear determines the quality.
+
 ## The Pattern Across Emotions
 
 Fear-to-excitement is one instance of a broader pattern. Each emotion has a kinked (resisted) form and an unkinked (allowed) form, and the unkinked form is often unrecognizable to people who only know the kinked version. See [[kinked-emotions]].
@@ -86,3 +96,4 @@ The fear-excitement pair is the most accessible example because the breath diffe
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5

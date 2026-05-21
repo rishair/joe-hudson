@@ -5,7 +5,7 @@ title: "Sublimated Wants Become Politics and Gossip"
 aliases: ["unspoken wants become politics", "wants come out sideways in groups", "the leak in organizations", "withheld wants leak as gossip", "the leak from unspoken wants", "sublimated wants leak", "wants you don't say come out as politics", "organizational version of unfelt emotion leaks"]
 tags: ["wants", "organizations", "politics", "gossip", "leadership", "groups", "sublimation"]
 related: ["the-want", "wants-vs-partiality", "unfelt-emotion-leaks", "structure-and-empowerment", "no-doctrine-leadership", "authenticity-in-business", "tell-them-like-an-asshole"]
-sources: ["2021-11-19_What is Selfishness?"]
+sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
 ---
 
 # Sublimated Wants Become Politics and Gossip
@@ -83,6 +83,13 @@ See [[caring-vs-caretaking]] for the individual mechanism. The organizational dy
 - Meeting structures invite the dissent that politics would otherwise route through gossip channels.
 - Resentment is treated as the diagnostic it is. See [[resentment-as-unspoken-want]].
 - The team is helped to see that asking for what you want is more functional, not less, than performing the absence of wants.
+- Leaders adopt the daily practice of [[state-the-want-not-the-action]]: replace "here's the action and the owner" with "I want and need X." The want is named; the action and the owner are left to the team to discover. This makes the leader's wants the primary visible signal rather than the leader's pre-formed solution.
+
+## The Moral Inversion That Makes the Resolution Stick
+
+The leaders who hide wants do so under the belief that hiding them is service. The reframe that makes the resolution sustainable is [[leaders-wants-are-the-organizations-wants]]: the leader's wants are not personal preferences to subordinate; they are organizational data the team needs. Naming them is a duty, not an indulgence. Hiding them deprives the team.
+
+Without this moral inversion, the leader who tries to state wants more openly will revert. The old morality (suppression is responsible) overrides the new behavior. The behavior holds when the morality flips.
 
 ## Upstream (What Leads Here)
 
@@ -103,3 +110,4 @@ See [[caring-vs-caretaking]] for the individual mechanism. The organizational dy
 ## Sources
 
 - 2021-11-19_What is Selfishness?
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence

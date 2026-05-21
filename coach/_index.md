@@ -2,7 +2,7 @@
 
 ## Concerns
 
-- am-i-being-selfish Am I being selfish? / I don't want to be selfish (also: I'm being selfish, I don't want to be selfish, am I selfish, is this selfish, I feel selfish for wanting this, the selfishness worry, the selfishness question, I shouldn't be so selfish, they said I was selfish, selfish for wanting)
+- am-i-being-selfish Am I being selfish? / I don't want to be selfish (also: I'm being selfish, I don't want to be selfish, am I selfish, is this selfish, I feel selfish for wanting this, the selfishness worry, the selfishness question, I shouldn't be so selfish, they said I was selfish, selfish for wanting, I felt like it was self-indulgent, self-indulgent, doing this work feels self-indulgent, therapy feels self-indulgent, I don't have time for this kind of self-focus)
 - i-caretake-people I caretake people / I manage everyone's emotions (also: I'm codependent, I'm always taking care of people, I'm exhausted from caring for others, I'm a caretaker, I manage everyone's feelings, I caretake my partner, I caretake my family, people-pleasing in care form)
 - i-dont-have-time-for-this I don't have time for this (also: I just need to get a paycheck, this art stuff is a luxury, I don't have the runway for personal development, I just need to make money now, no time for self-work)
 - i-feel-trapped I feel trapped / They have power over me (also: I have no choice, they control me, I can't do anything, I'm stuck, I'm subjugated, the system has power over me, I'm a victim of circumstances)
@@ -53,6 +53,7 @@
 
 ## Anti-Patterns
 
+- dont-confuse-embracing-fear-with-inviting-danger Don't Confuse Embracing Fear With Inviting Danger (also: embracing fear is not creating fear, don't manufacture danger to practice fear, embracing fear doesn't mean reckless action, feeling fear isn't ignoring fear, the embrace-fear misreading, embracing fear vs being reckless)
 - dont-evangelize-the-work Don't evangelize the work (also: missionary work, using tools without permission, pushing transformation on others, coaching without consent, tools without shadow work, carrying someone else's tools without consciousness)
 - dont-fight-the-voice Don't Use the Voice to Silence the Voice (also: thief security guard, thief as security, fighting the voice, war with the voice, voice vs voice, attacking the inner critic, trying to silence the voice)
 - dont-jump-to-compassion-before-anger Don't Jump to Compassion Before the Anger Has Moved (also: compassion as bypass, the compassion jump, they had their reasons trap, reasonableness as suppression, premature compassion, compassion before anger, skipping anger with compassion, compassion order-of-operations problem)
@@ -89,11 +90,13 @@
 - expanding-sense-of-self Expanding Sense of Self (also: sense of self expands, I am my family, I am the ecosystem, universal will, oneness, self gets bigger)
 - familiar-over-safe Familiar Over Safe (also: choosing familiar over safe, addiction to trauma, homeostasis seeking, cell seeking homeostasis)
 - fear-as-signal-of-care Fear as a Signal of What You Care About (also: fear shows you what you care about, fear points at what matters, fear as information, fear as compass, fear tells you what threatens what you love, the signal of fear, fear isn't go or no-go, fear shows what to look at)
+- fear-in-body-vs-fear-in-head Fear in the Body vs. Fear in the Head (also: the somatic signature of fear, how fear shows up in the body, how fear shows up in the head, the body signs of fear, the cognitive signs of fear, shaking screaming vs binary thinking, two faces of fear, body fear versus head fear)
 - fear-of-self-destruction-by-anger The Fear of Being Destroyed by Your Own Anger (also: fear of losing myself in anger, fear of my own anger, the destruction fear, I might lose myself in anger, anger will destroy me, why we fear our anger, the third option blindness, body fears during anger release, fear of freedom from anger release)
 - feeling-the-unfelt-emotion Feeling the Unfelt Emotion (also: fully feeling the emotion, processing the held-back emotion, inviting the emotion, welcoming the avoided feeling, falling in love with the emotion)
 - grief-as-gateway-to-self-love Grief as Gateway to Self-Love (also: grief precedes self-love, grieving lost time, watershed moment of grief)
 - heartbreak-as-capacity-expansion Heartbreak as Capacity Expansion (also: heartbreak expands capacity, heart breaks open, every heartbreak increases love, let your heart break, break open not break down, expansion through heartbreak)
 - i-cant-trust-my-thoughts-right-now I Can't Trust My Thoughts Right Now (also: the felt sense of being in trauma, I'm in my trauma sensation, trauma body signature, the body knows it's in trauma, felt sense of the pattern firing, I can't trust my thinking right now, wait until I'm out of trauma)
+- identity-extension-expands-fear The Bigger the Self, the More There Is to Fear (also: identity-extension expands fear, the size of self determines the scope of fear, fear scales with identity, humans fear what animals don't because the self is bigger, extended self extended fear, more identity more fear)
 - impartiality Impartiality (also: not having an agenda, no agenda, wandering, I in VIEW, without outcome attachment, I trust you, letting go of agenda)
 - integration Integration (also: integrating transformation, transcend and integrate, normalizing transformation, post-breakthrough integration)
 - joy-as-matriarch Joy as the Matriarch of a Family of Emotions (also: joy as matriarch, joy is a matriarch, joy as mother, joy won't come without her children, the matriarch metaphor, joy as gateway emotion, the family of emotions, docks in your port metaphor)
@@ -156,6 +159,7 @@
 
 ## Moves
 
+- apply-view-to-fear Apply VIEW to Fear (also: view with fear, vulnerability with fear, empathy with fear, wonder about fear, impartiality with fear, VIEW inward to fear, approach fear with VIEW, VIEW the fear, internal VIEW with fear)
 - apply-view-to-the-voice Apply VIEW to the Voice (also: view to the voice, vulnerability with the voice, empathy with the voice, wonder about the voice, impartiality with the voice, VIEW inward to the inner critic, apply VIEW to inner critic)
 - ask-the-witnesses Ask the Witnesses (also: what would they say, if we asked the women in your life, the witness move, imagined third-party reports, the third-party prompt)
 - become-the-authority-figure Become the Authority Figure (also: role-play the authority, I'll be your boss, live role-play, stand in for the trigger, be the dad, role-play move)
@@ -168,11 +172,13 @@
 - invite-the-aggression-out Invite the Aggression Out (also: convert passive to direct anger, ask for the direct anger, can you be direct with me, name the passive aggression, the experiment invitation move, invite the aggression out as experiment, request direct anger)
 - meet-resistance-with-okay Meet Resistance With 'Okay' (also: the okay move, Joe's okay response, okay to not doing the work, okay if you don't want to, don't save them from quitting, non-attached okay, let them leave, non-rescue, match resistance with permission)
 - mirror-the-judgment Mirror the Judgment Back (also: how is that not true about you, mirror move, turn the judgment around, the projection mirror, judgment mirror)
+- name-your-trigger-as-vulnerability Name Your Trigger as Vulnerability in the Room (also: I need to call out that I'm triggered right now, I need to be vulnerable right now, the trigger naming move, naming the trigger as it happens, owning the trigger in front of the team, name what's happening in my system, the trigger as vulnerability move, self-naming trigger move)
 - not-sometimes-right-now Not Sometimes, Right Now (also: bring it into the present, feel it now, right now not abstract, stop talking about it and feel it)
 - owning-your-partiality Owning Your Partiality (also: calling out your own agenda, naming your partiality, apologizing for fixing, I notice I'm trying to fix you)
 - public-truth-bomb Public Truth-Bomb to the Leader (also: public diagnostic, naming the thing in front of the team, your anxiety is going to kill your company, the public truth-bomb move, calling it out in the room, leader truth-bomb, diagnostic in front of the team)
 - question-the-caveat Question the Caveat (also: question the qualifier, ask about the modifier word, why did you hedge, what makes you say it that way, the qualifier inquiry)
 - reframe-boss-as-customer Reframe the Boss as Your Customer (also: you don't have a boss you have a customer, the boss is a customer, boss is a client, single-client reframe, client not boss, undiversified customer, boss to customer move)
+- state-the-want-not-the-action State the Want, Not the Action (also: I want and need X, say the want instead of giving the action, drop the assigned action, leader's want instead of the action item, stop assigning actions, I want X instead of you do X, want over action item, the I want and need move)
 - tell-them-like-an-asshole Tell Them Like an Asshole, Then Like Not an Asshole (also: the asshole exercise, leader want excavation, say it the rude way then say it nice, leader hidden want exercise, the three deliveries exercise, asshole, non-asshole, hedging exercise, asking leaders for the unhedged want)
 - treat-yourself-as-actor-of-emotion Treat Yourself as an Actor of the Emotion (also: actor metaphor for emotion, you are the actor playing yourself, non-personal emotion, emotion is not personal, actor playing the part, watch the emotion like an actor)
 - welcoming-the-others-emotion Welcoming the Other's Difficult Emotion (also: tell me how angry you are, I can accept your anger, I welcome your sadness, the anti-caretaking welcoming move, yeah baby give me your anger, let them have it)
@@ -222,6 +228,7 @@
 
 - acceptance-as-change-strategy Acceptance Is the Most Effective Path to Change (also: accept then change, acceptance enables change, fighting is inefficient, accept how it is to change how it will be, acceptance is not resignation, love and accept and ask to change, acceptance vs resignation)
 - acting-as-if-already-true Acting As If Your Vision Is Already True (also: live the vision now, be the change already, visionary action, as if reality, the world bends toward your truth)
+- annihilation-reveals-what-is-real Offer Yourself Up to Annihilation (also: the part of you that can't be annihilated is you, annihilation reveals the real, fear as direct path to freedom, what survives annihilation is you, fear annihilates identity-extensions, fear as the fastest path, fear as path to authenticity)
 - approach-the-pink-elephant Approach the Pink Elephant First (also: pink elephant principle, look at what you don't want to look at first, MIT principle, start with what you understand least, approach the avoided thing first, effectiveness through embracing intensity)
 - awareness-as-change-agent Awareness as Change Agent (also: awareness changes things, attention solves problems, just putting attention on it, awareness not management, gentle awareness reduces the voice, noticing changes things)
 - become-unnecessary Become Unnecessary (also: the less involved I can be the better, less needed the better, becoming unnecessary as success, a good teacher becomes unnecessary, the math teacher test, remove yourself from the equation, make yourself replaceable, necessary teacher trap)
@@ -233,6 +240,7 @@
 - constraints-increase-creativity Constraints Increase Creativity (also: constraints amplify creativity, limits unlock creation, constraint as freedom, iambic pentameter principle, Shakespeare constraint, Michelangelo constraint, constraint produces art)
 - decisions-are-emotional Decisions Are Emotional (also: we decide emotionally, emotional decision making, Descartes' Error, logic serves emotion)
 - dont-do-emotion-at-people Don't Do Emotion At People (also: don't do anger at people, don't do sadness at people, emotion at someone is emotional abuse, release first then talk, don't aim emotion, emotion as manipulation)
+- dropping-roles-makes-room Dropping a Role Makes Room For Others to Step Into Theirs (also: dropping roles makes room, the role you drop someone else picks up, drop the role and others step in, I dropped the planner role and my son became the planner, roles taken vs roles left, when you get out of the way it gets replaced by something better, the role vacuum principle)
 - efficiency-as-enjoyment Efficiency Is Measured by Enjoyment (also: enjoyment is efficiency, human efficiency, efficient when enjoying, the human fuel measure, fastest is not most efficient)
 - embrace-intensity Embrace Intensity (also: run toward intensity, run into it, intensity as path, embrace the intensity)
 - embracing-intensity-as-leading-indicator Willingness to Embrace Intensity Is the Leading Indicator of Transformation (also: embrace intensity as leading indicator, leading indicator of transformation, predicting transformation, how to measure transformation, transformation predictor, willingness to feel as predictor)
@@ -251,6 +259,7 @@
 - honor-the-patterns-intent Honor What the Pattern Tried to Give You (also: honor the pattern's intent, the pattern came for a good reason, love the patterns, respect the pattern, find the gift in the pattern, the pattern's positive intent, the pattern was trying to take care of you, even mean patterns have good intent)
 - inherent-goodness Inherent Goodness (also: you are inherently good, belief in inherent goodness, people are good, trust in goodness, not a lazy gluttonous asshole, the oak tree never has to earn it, without the should I'd be lazy, trust your own wants)
 - integrity-as-money-compass Integrity as the Compass for Money Decisions (also: integrity with money, alignment as money guide, money by deep truth, integrity over strategy, the koan of money, money in alignment)
+- leaders-wants-are-the-organizations-wants A Leader's Wants Are the Organization's Wants (also: my wants are the organization's wants, the leader's wants represent the organization, leader wants as organizational signal, naming wants as duty, I owe it to my team to say what I want, wants as organizational information)
 - love-is-the-best-change-agent Love Is the Best Change Agent (also: love changes things, loving moves things, love as transformation, the mechanism of love, welcoming allows movement, love unfreezes)
 - love-requires-empowerment Love Requires Empowerment (also: love can't exist without empowerment, you can't love if you're not empowered, empowerment as precondition for love, love and empowerment, fear can't love)
 - marketing-as-the-beginning Marketing Is the Beginning of the Work (also: marketing as beginning of the course, the marketing IS the course, the funnel is the work, every touchpoint serves the work, marketing as self-exploration, designing the marketing as part of the curriculum, no neutral touchpoints)
@@ -267,6 +276,7 @@
 - selfishness-is-the-engine-of-unity Selfishness Is the Engine of Unity (also: selfish gene, undeveloped selfishness, deep selfishness becomes compassion, deep wants become generous, levels of selfishness as developmental gauge, selfishness as development marker, I don't even believe in selfishness, selfishness is a word adults created to control children, selfishness is what your parents called you, altruism is also selfish, altruism feels good, evolution from selfishness to altruism)
 - shame-drives-behavior Shame Drives Behavior (also: shame causes the actions, shame is the lock, shame holds bad habits in place, remove shame first, should is a mechanism of shame)
 - subjugation-prevents-healing Subjugating Yourself to a Group Prevents Healing (also: group subjugation prevents healing, subjugation creates trauma, self-sacrifice for the group creates trauma, subjugation to group, walking on eggshells creates trauma, sacrificing authenticity for cohesion, sacrifice for group is trauma not healing)
+- sustained-fear-requires-post-hoc-processing Sustained Fear Requires Post-Hoc Processing (also: sustained fear must be processed after, the body can't process fear in real time during extended crisis, compartmentalizing fear during crisis, fear was meant for short bursts, extended fear creates a backlog, war and hospital fear, ten days of fear takes months)
 - the-work-is-yours-not-mine The Work Is Yours, Not Mine (also: the work belongs to the client, client autonomy, I'm here if you want it, the coach doesn't own the work, ownership of the work, you decide how deep to go, complete ownership, the client's development is theirs, Joe doesn't push, if you don't pick something to work on you won't work on anything)
 - trauma-heals-in-relationship Trauma Heals in Relationship (also: relational healing, healing in relationship, trauma created in relationship heals in relationship)
 - trying-to-be-right-is-the-voice Trying to Be Right Is the Voice (also: being right is the voice, trying to do the right thing is the voice, the integrity costume, what would the right thing be is voice, the right answer trap, the voice in the head wants to be right, subtle voice as integrity)
@@ -365,5 +375,5 @@
 
 ---
 
-Absorb Progress: 37 / 480 transcripts
-Last absorbed: 2021-11-19_What is Selfishness? (2026-05-21)
+Absorb Progress: 39 / 480 transcripts
+Last absorbed: 2021-12-10_Fear- A Path to Authenticity - Emotion Series #5 (2026-05-21)

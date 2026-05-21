@@ -5,7 +5,7 @@ title: "Helplessness Is the Gateway to Empowerment"
 aliases: ["feel the helplessness", "helplessness makes you more capable", "feeling helpless to feel empowered", "through helplessness to empowerment"]
 tags: ["helplessness", "empowerment", "feeling", "emotion", "paradox"]
 related: ["empowered-vs-power", "fear-triangle", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "embrace-intensity", "what-we-fear-we-invite", "i-have-to-do-it-all-myself", "reclaiming-abandonment", "container-of-love"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
 ---
 
 # Helplessness Is the Gateway to Empowerment
@@ -70,6 +70,28 @@ Her gateway was a specific moment of being unable to do it herself: a breast can
 
 The diagnosis was the event. The helplessness was the substrate. The reception of comfort was the empowerment that arrived on the other side. The CEO who could finally depend on something other than herself became a leader who could create the conditions for her team to do the same. See [[container-of-love]] for the structure that received her.
 
+## The Conflation: Scared To Feel the Feeling vs. Scared Of the Feeling
+
+A specific cognitive trap arises around helplessness more than around any other emotion. Because the experience of being scared and the experience of approaching helplessness can occur together, people conflate them. The fear of feeling becomes confused with fear of the feeling itself.
+
+"It's weird. It's like there's this weird little nuance that happens when people feel fear or helplessness, which is that they're scared and therefore they conflate being scared to feel the feeling with the feeling itself. Like, oh my God, I'm scared and I'm feeling the feeling, so therefore I must be scared of feeling the feeling. And so it's one of the more challenging feelings for people to experience." -- Joe Hudson, Fear: A Path to Authenticity
+
+The conflation is functional: it keeps the person away from the helplessness while explaining the avoidance in terms that sound legitimate. "I'm scared of feeling helpless, so I should not feel it" sounds protective. What it actually does is keep the helplessness in place by treating the gateway feeling as the feared object.
+
+Once the conflation is named, it tends to loosen. The fear of feeling helplessness is itself just another instance of fear, and fear has its own protocol: feel it. The fear of feeling the helplessness, fully felt, dissolves and reveals the helplessness underneath, which when fully felt opens to empowerment.
+
+The coaching move when this conflation surfaces: "The fear of feeling the helplessness is not the helplessness. Feel the fear first. Then see what is underneath."
+
+## Why Helplessness Specifically Has This Trap
+
+Other emotions do not generate this conflation as reliably. People do not usually confuse "being sad about being sad" with "being sad." The sadness is recognized as a distinct thing.
+
+Helplessness is different because the felt experience of approaching helplessness is itself a small experience of helplessness. The person trying to feel helplessness encounters helplessness immediately, but interprets the encounter as a problem (I am scared of this) rather than as the work (this is what feeling helplessness feels like at the entrance).
+
+This makes helplessness one of the harder emotions for people to enter into voluntarily, even when they understand intellectually that the entry is the work. The body knows that what is on the other side of the door is what it has spent a lifetime avoiding. Approaching the door triggers the very feeling the door leads to. The mind reads the trigger as evidence to turn around.
+
+The instruction that loosens this: the trigger is the entry. The discomfort of approaching is the first taste of what is to be felt. Continuing through, rather than turning around, is what brings the rest of it into experience and through it.
+
 ## What We Fear We Invite, At the Level of Helplessness
 
 Helplessness is one of the most-avoided substrate emotions, which is why so many other patterns are organized around avoiding it. Per [[what-we-fear-we-invite]], the body keeps generating the conditions where the avoided emotion might finally be felt. Disempowerment loops, control loops, codependency loops all generate the helplessness that the person has been trying to escape.
@@ -97,3 +119,5 @@ The loop completes only when the helplessness is felt and welcomed. Then the bod
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5

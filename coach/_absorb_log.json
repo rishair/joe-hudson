@@ -901,6 +901,69 @@
       ],
       "type": "teaching",
       "absorbed_at": "2026-05-21T22:14:27Z"
+    },
+    {
+      "folder": "2021-12-03_Carla Pi\u00f1eyro Sublett on Finding Compassion in Self-Indulgence",
+      "status": "complete",
+      "claimed_at": "2026-05-21T22:15:43Z",
+      "articles_created": [
+        "name-your-trigger-as-vulnerability",
+        "state-the-want-not-the-action",
+        "dropping-roles-makes-room",
+        "leaders-wants-are-the-organizations-wants"
+      ],
+      "articles_updated": [
+        "am-i-being-selfish",
+        "caring-vs-caretaking",
+        "heartbreak-as-capacity-expansion",
+        "joy-as-matriarch",
+        "integration",
+        "vulnerability-in-the-workplace",
+        "sublimated-wants-become-politics",
+        "community-over-teacher"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-21T22:25:05Z"
+    },
+    {
+      "folder": "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5",
+      "status": "complete",
+      "claimed_at": "2026-05-21T22:25:38Z",
+      "articles_created": [
+        "fear-in-body-vs-fear-in-head",
+        "sustained-fear-requires-post-hoc-processing",
+        "identity-extension-expands-fear",
+        "annihilation-reveals-what-is-real",
+        "dont-confuse-embracing-fear-with-inviting-danger",
+        "apply-view-to-fear"
+      ],
+      "articles_updated": [
+        "fear-as-signal-of-care",
+        "binary-thinking-signals-fear",
+        "let-your-body-shake-it-out",
+        "helplessness-is-the-gateway",
+        "what-we-fear-we-invite",
+        "fear-vs-excitement",
+        "fear-is-about-feeling",
+        "view",
+        "apply-view-to-the-voice"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T22:35:51Z"
+    },
+    {
+      "folder": "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T22:36:37Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2022-01-07_How Your Body Speaks",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T22:44:43Z",
+      "articles_created": [],
+      "articles_updated": []
     }
   ]
 }

@@ -4,7 +4,7 @@ id: apply-view-to-the-voice
 title: "Apply VIEW to the Voice"
 aliases: ["view to the voice", "vulnerability with the voice", "empathy with the voice", "wonder about the voice", "impartiality with the voice", "VIEW inward to the inner critic", "apply VIEW to inner critic"]
 tags: ["voice in head", "move", "VIEW", "self-relationship", "inner work"]
-related: ["voice-in-the-head", "view", "vulnerability", "impartiality", "empathy", "wonder", "voice-as-care", "dont-fight-the-voice", "loving-all-parts"]
+related: ["voice-in-the-head", "view", "vulnerability", "impartiality", "empathy", "wonder", "voice-as-care", "dont-fight-the-voice", "loving-all-parts", "apply-view-to-fear"]
 sources: ["2021-07-16_Who is the Voice in Your Head?"]
 ---
 

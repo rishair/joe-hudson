@@ -2,9 +2,9 @@
 type: concern
 id: am-i-being-selfish
 title: "Am I being selfish? / I don't want to be selfish"
-aliases: ["I'm being selfish", "I don't want to be selfish", "am I selfish", "is this selfish", "I feel selfish for wanting this", "the selfishness worry", "the selfishness question", "I shouldn't be so selfish", "they said I was selfish", "selfish for wanting"]
-tags: ["selfishness", "wants", "guilt", "shame", "childhood-programming"]
-sources: ["2021-11-19_What is Selfishness?"]
+aliases: ["I'm being selfish", "I don't want to be selfish", "am I selfish", "is this selfish", "I feel selfish for wanting this", "the selfishness worry", "the selfishness question", "I shouldn't be so selfish", "they said I was selfish", "selfish for wanting", "I felt like it was self-indulgent", "self-indulgent", "doing this work feels self-indulgent", "therapy feels self-indulgent", "I don't have time for this kind of self-focus"]
+tags: ["selfishness", "wants", "guilt", "shame", "childhood-programming", "self-indulgent"]
+sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
 ---
 
 # Am I being selfish? / I don't want to be selfish
@@ -21,8 +21,21 @@ The concern shows up in several phrasings, sometimes as a direct question, somet
 - "I should be more selfless."
 - "I feel guilty for putting myself first."
 - "I don't want to be one of those people who only cares about themselves."
+- "I felt like this was self-indulgent."
+- "I don't have time for this. I'm a mom, I'm working. I need to be spending time with my team and my family."
+- "I gleaned value from providing for others and putting others' needs before myself."
 
 The word "selfish" is usually attached to a specific want: a desire to leave a relationship, to take more money, to set a boundary, to spend time alone, to not show up for a family obligation, to ask for what they want at work.
+
+### The Self-Indulgent Variant
+
+A specific form of this concern shows up when the "selfish" act in question is interior work itself: therapy, coaching, retreats, time spent feeling, time spent attending to one's own state. The framing shifts from "I'm being selfish" to "this is self-indulgent." The substance is the same: a parental voice declaring that attention to self is a moral failing.
+
+This variant is especially common in women trained to derive worth from caretaking, in high-performing professionals whose identity is built on output, and in cultures that valorize sacrifice. The work itself is rejected as a luxury that other people can afford. The rejection is the pattern declaring itself.
+
+"I was extremely resistant... I felt like I don't have the time for this. I'm a mom, I'm working. I need to be spending time with my team and my family. And I know I don't need to dwell on all this stuff." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+The recognition that often unlocks the work: the "self-indulgence" was itself the pattern. The aversion to feeling, framed as virtue, was the structure that needed to come down. Carla reports that on the other side, "I wasn't meeting people's needs at all. I wasn't validating their needs at all. I was just trying to fix it all the time." The thing that called itself selfless was the thing that prevented real contact.
 
 ## Detection Cues
 
@@ -84,3 +97,4 @@ This is why the coaching does not need to police the surface wants. The wants se
 ## Sources
 
 - 2021-11-19_What is Selfishness?
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence

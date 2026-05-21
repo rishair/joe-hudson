@@ -5,7 +5,7 @@ title: "Heartbreak as Capacity Expansion"
 aliases: ["heartbreak expands capacity", "heart breaks open", "every heartbreak increases love", "let your heart break", "break open not break down", "expansion through heartbreak"]
 tags: ["heartbreak", "love", "capacity", "intensity", "purification"]
 related: ["love-as-deep-welcoming", "letting-judgment-in", "feeling-the-unfelt-emotion", "embrace-intensity", "defense", "vulnerability"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
 ---
 
 # Heartbreak as Capacity Expansion
@@ -77,6 +77,22 @@ It is also not unprocessed grief running on a loop. Heartbreak that does not exp
 
 It is also not self-flagellation. The willingness to let the heart break is not the willingness to wound the self. The pain is real; the orientation is welcoming, not punishing.
 
+## The Cracked-Open Heart Is Felt by Others
+
+When the heart breaks open in a sustained way, the change is not only internal. People nearby feel it. The expanded capacity registers as a presence the person did not have before. Strangers become more open. Colleagues say things they would not have said. People who were never affectionate become affectionate.
+
+Carla Piñeyro Sublett describes the immediate aftermath of a deep heart-opening at a retreat:
+
+"I held him, his whole body collapsed and he went boneless and started to snore... My friend and peer in the group said, and I was the first recipient, I felt it wash all over me. So it wasn't just something that I was feeling, the people around me were feeling it too." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+Returning to work the next morning, she found that people on a routine video call responded to her differently before any words were exchanged:
+
+"My boss's coach was on the line and he texted me on the side and was like, holy cow, what did you just get out of? Did you have an ayahuasca experience? You're like totally transformed... your energy is so different and it's beautiful." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+This is the relational signature of the expansion described in the central definition. The heart that has expanded is felt as a different field by everyone who comes near it. People who do not know what changed report that something changed. The change is visible without explanation.
+
+For the leadership and team implication of this same dynamic, see [[vulnerability-in-the-workplace]] and the cascade pattern described there.
+
 ## When Someone Experiences This
 
 When a person describes a hard situation and notices their heart aching: that is the heartbreak. The work is to allow it.
@@ -106,3 +122,4 @@ When someone reports being unable to feel anything anymore: defense is intact an
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence

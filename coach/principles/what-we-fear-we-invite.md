@@ -5,7 +5,7 @@ title: "What We Fear, We Invite"
 aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite", "the emotional self-fulfilling prophecy"]
 tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality"]
 related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears", "kinked-emotions"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
 ---
 
 # What We Fear, We Invite
@@ -64,6 +64,26 @@ The reinforcement is daily. Every time the person checks for the feared emotion,
 
 This is the same mechanism as [[kinked-emotions]] viewed from the avoidance side. The stories about each emotion are accurate about the kinked version, and the kinked version is produced by the resistance. The only way the story gets disconfirmed is by feeling the emotion despite the story.
 
+## The Creek and the Insect-Eaters
+
+The inverse principle: what a person is consistently produces what shows up around them. The fear-invites mechanism has a positive twin. When the person stops gripping the avoidance and shows up consistently as themselves, the environment reorganizes around the actual signal they are sending.
+
+"What happens is the part of the world that doesn't like who they are falls away, maybe dramatically, maybe violently, but it falls away. And the part of the world that supports who they are actually and their authenticity shows up. It's not magical thinking. This isn't like New Age, I wish it and therefore it's so. It's just literally the same way that if there's something that's feeding on insects, a creek is a good place to be to eat the insects because there's more insects near water than there is in dry spaces. So you're going to get more insect-eating animals near creeks. It's just as simple as that. It's just like we go to the places, and the things are attracted to us depending on what we're delivering. If we're a creek delivering insects, then we're gonna get insect eaters around us." -- Joe Hudson, Fear: A Path to Authenticity
+
+The creek metaphor strips out the magical-thinking version of "law of attraction" frameworks. There is nothing mystical going on. Be the creek that delivers insects; insect-eaters arrive. Be the person who fears abandonment and behaves in ways that scan for and produce abandonment; people who abandon arrive. Be the person who is consistently themselves; the conditions that support that self arrange themselves.
+
+The principle is symmetrical. The fear-side and the authenticity-side use the same mechanism. The choice is not whether the mechanism applies. The choice is what the person is consistently being.
+
+## The Bargain That Sustains the Invitation
+
+A specific form of the avoidance that the principle dissolves: the bargain where the person sacrifices being themselves now to protect a future authenticity that they imagine will be possible once safety is achieved.
+
+"I'm so scared that if I tell my friend that the way she's treating me really doesn't work, then I might lose my social network and then I can't be myself at school. Really? So you're sacrificing being yourself now for the fear of not being able to be yourself in the future, which is almost always... I'm scared of losing all my money. Okay, so you're gonna not be yourself now because you might lose all your money so that in the future I can be myself 'cause I have the money." -- Joe Hudson, Fear: A Path to Authenticity
+
+The bargain produces the very thing it is trying to prevent. Sacrificing the self now to protect a future self ensures that the current behavior is not-self, which ensures the future is also not-self because the practice has been continuous self-abandonment. The fear has been invited into the present by the very strategy meant to keep the future safe.
+
+The way out is to refuse the bargain. Be the self now. Allow the consequences. Let the world rearrange around the actual signal. See [[annihilation-reveals-what-is-real]].
+
 ## The Way Out
 
 The only way out of the loop is feeling the avoided emotion. See [[feeling-the-unfelt-emotion]]. Once the body has felt the emotion fully and welcomed it, there is no need to keep generating opportunities to feel it. Homeostasis is restored. The pattern dissolves.
@@ -88,3 +108,5 @@ Feeling the emotion is also what grounds the person into actual reality rather t
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
 - 2021-07-30_Your World is a Projection
+- 2021-09-24_Stages of Emotional Development
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5

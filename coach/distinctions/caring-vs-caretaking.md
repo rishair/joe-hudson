@@ -5,7 +5,7 @@ title: "Caring vs. Caretaking"
 aliases: ["care vs caretake", "being in support vs fixing", "supporting vs managing emotions", "caretaking pattern", "codependence vs care", "managing emotions vs supporting"]
 tags: ["empathy", "boundaries", "coaching", "leadership", "relationships", "savior", "codependence"]
 related: ["empathy", "empathy-vs-sympathy", "fixing-people", "impartiality", "losing-yourself-in-others", "fear-triangle", "love-as-deep-welcoming", "four-faces-of-love", "love-vs-nice", "resentment-as-caretaking-diagnostic", "softening-as-caring-diagnostic", "you-think-they-cant-handle-it", "rehearsing-how-to-say-it", "weaponized-not-caretaking", "what-is-truly-compassionate"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
 ---
 
 # Caring vs. Caretaking
@@ -54,6 +54,16 @@ There are several reliable signals that distinguish caring from caretaking. See 
 - [[softening-as-caring-diagnostic]]: people who really care for others over time become softer, less rigid, with bigger hearts. Caretakers get more neurotic, more isolated, more spun up.
 - [[you-think-they-cant-handle-it]]: thinking the other person is too weak to hear your truth is one of the clearest tells that you are in caretaking.
 - [[rehearsing-how-to-say-it]]: running multiple ways of saying something in your head to get a different reaction is caretaking, even at the most subtle level.
+
+## The Self-Recognition: "I Was Managing Everyone, Not Serving Them"
+
+A specific pattern of recognition that often arrives once a caretaker drops the role: the realization that the caretaking was not for the people being cared for. It was for the caretaker's own sense of control. The frame of "I was giving to everyone" turns inside out into "I was managing everyone." The word that lands for many people on the other side of this recognition is *manipulation*.
+
+"One of the other big changes in me was -- I saw myself as always giving to others, but in reality what I was doing is managing everybody and managing everybody's emotions and trying to keep everybody happy. And letting go of that has been massive because what I didn't realize is that that wasn't fun or enjoyable for the people that I love. And, you know, I thought I was serving them all this time, but in reality, I was -- it doesn't feel good to admit, but it was a form of manipulation." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+The word is not used to shame. It is used to describe accurately what the dynamic actually was. The caretaking optimized for the caretaker's preferred emotional state in the room. The other people were inputs to that optimization. They felt managed, not loved -- which is why they responded to the dropping of the role with relief and increased affection.
+
+A specific evidence the dropping of the role produces: people start expressing love to the former caretaker more freely. Carla describes a colleague telling her "I love you" in a way that "just doesn't happen" in her professional world. The reading: when the management was operating, the others sensed the agenda and could not move toward her. When the management dropped, the opening became visible and they did.
 
 ## Resentment as the Tell
 
@@ -219,3 +229,4 @@ The follow-up Joe asks when someone finally breaks through into their want: "And
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence

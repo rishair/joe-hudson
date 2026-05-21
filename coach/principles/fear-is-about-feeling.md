@@ -5,7 +5,7 @@ title: "Fear Is About What You'll Have to Feel"
 aliases: ["fear is about feeling", "fear of feeling", "the fear is in the emotion", "visualize the feared outcome", "feel the fear in advance"]
 tags: ["fear", "emotion", "impartiality", "Stoic", "visualization", "helplessness"]
 related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in", "helplessness-is-the-gateway", "feared-consequences-rarely-happen", "fear-as-signal-of-care", "fear-vs-anxiety", "disassociation-as-numbness-layer"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
 ---
 
 # Fear Is About What You'll Have to Feel
@@ -75,9 +75,20 @@ For someone who has been suppressing fear for years, the first felt layer is oft
 
 The instruction in this case is not "feel the fear" but "feel the numbness." The numbness is the door. Trying to skip past it back to the fear collapses the process. Once the numbness softens, [[fear-vs-anxiety]] differentiation occurs naturally: diffuse anxiety arrives first, then specific fears emerge from the cloud.
 
+## Resistance to Fear Is Itself a Form of Fear
+
+A subtle recursion: the resistance to feeling fear cannot itself be approached through more resistance. Telling oneself "don't resist the fear" is another form of resistance, just dressed up. The instruction that works is to feel what is present, including the resistance.
+
+"Feel it. The first thing is to see that when you resist fear, it doesn't go anywhere. It doesn't stop. It just kind of leaks out sideways. It doesn't come out of the front of the toothpaste tube. It comes out of the side. That which we resist persists is a kind of common thing. So that's one way to keep on trying to resist it. See what happens. See how big of a shield you have to put up between you and life to be able to resist fear." -- Joe Hudson, Fear: A Path to Authenticity
+
+Joe deliberately frames this as "see how that works for you" rather than "stop doing it." The instruction not to resist becomes another thing to do or not do, which keeps the system in management mode. The clean move is to notice -- with curiosity rather than correction -- the cost of the resistance. The noticing tends to dissolve the resistance, not because the person has tried to dissolve it, but because the management has been seen for what it is.
+
+This connects to [[apply-view-to-fear]]. VIEW is the state of mind that allows the fear to be met without the management. Impartiality with the fear is the specific component that addresses this recursion: it drops the agenda of getting the fear (or the resistance) to leave.
+
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
