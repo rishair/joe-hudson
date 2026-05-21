@@ -4,8 +4,8 @@ id: caring-vs-caretaking
 title: "Caring vs. Caretaking"
 aliases: ["care vs caretake", "being in support vs fixing", "supporting vs managing emotions", "caretaking pattern"]
 tags: ["empathy", "boundaries", "coaching", "leadership", "relationships", "savior"]
-related: ["empathy", "empathy-vs-sympathy", "fixing-people", "impartiality", "losing-yourself-in-others", "fear-triangle"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["empathy", "empathy-vs-sympathy", "fixing-people", "impartiality", "losing-yourself-in-others", "fear-triangle", "love-as-deep-welcoming", "four-faces-of-love", "love-vs-nice"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
 # Caring vs. Caretaking
@@ -48,12 +48,26 @@ The signature feeling of the savior is obligation. When obligation is the engine
 
 Joe's example: philanthropy from guilt. Canadians bringing clothes to a Nicaraguan village out of guilt feel good about themselves and disempower the recipients, who now depend on the giver. Philanthropy that works is exchange, not gift. "Good philanthropy is an exchange. It's not a gift. It's a recognition that you're getting as much from it as you're giving."
 
+## Caretaking Is the Shadow of the Care Face of Love
+
+Care is one of the [[four-faces-of-love]]. Every face has a shadow form, and the shadow of care is caretaking. When care is pursued without the anchor of deep welcoming, it collapses into caretaking. The caretaker is trying to deliver care without the welcoming that makes care clean.
+
+"The care can be codependency." -- Joe Hudson, Love over Defense
+
+The corrective is not to do less caring. It is to add welcoming back. Welcoming the person as they are, including welcoming their suffering as theirs to walk through, makes the care clean. The clean care has no need to fix.
+
+Loving someone is not caretaking them. The two operations are different and often opposed.
+
+"Don't mistake love for caretaking. Loving yourself, loving somebody else isn't caretaking them. It's not saying yes, no, even if you want to say no. It's not going against your truth. It's not trying to make them happier. It's just having a deep welcoming for who they are." -- Joe Hudson, Love over Defense
+
 ## Upstream (What Leads Here)
 
 - When someone identifies as a helper or savior in their social group.
 - When a leader feels responsible for team morale.
 - When emotional exhaustion follows every deep conversation.
 - When the same person keeps coming to you with the same problem.
+- When a person is mistaking caretaking for loving.
+- When someone is loving by saying yes when they want to say no.
 
 ## Downstream (Where This Leads)
 

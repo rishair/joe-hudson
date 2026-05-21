@@ -4,8 +4,8 @@ id: view
 title: "VIEW"
 aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
-related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3"]
+related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
 # VIEW
@@ -84,6 +84,24 @@ VIEW requires that all four components be present. Vulnerability without imparti
 
 Every sentence carries some partiality. Complete impartiality is asymptotic. The practice is to keep moving toward less partiality, not to achieve zero.
 
+## VIEW Is Unconditional Love
+
+The four components assembled produce unconditional love. The teaching that begins with VIEW ends with love. They are the same thing approached from different doors.
+
+"We start off with view and we end with love, and they're very much the same thing. They're the whole thing. Everything we've done in this course has been to move us towards a greater state of love for ourselves and others." -- Joe Hudson, Love over Defense
+
+Each component maps to one face of the welcoming:
+- Vulnerability: welcoming your own truth being seen. "You feel vulnerable because you're open and welcoming."
+- Impartiality: welcoming the other as they are. "You're impartial because you're welcoming as is, not telling them how to be."
+- Empathy: welcoming the other's experience as it lands in you. "Empathy means you're open and feeling them. You're allowing yourself to be touched."
+- Wonder: welcoming the mystery beyond what you know. "Wonder is this basic nod that the universe knows more than you do."
+
+The teaching does not begin with "love" because the word collapses too many meanings and most people walk in wanting something else. The teaching ends with love because that is what the assembled VIEW state is.
+
+VIEW also cannot be done out of order. Loading love on top of unfelt fear, unprocessed shame, and unowned wants produces a love-as-bypass rather than a love-as-welcoming. The earlier work of the methodology is what makes the love at the end land cleanly. See [[loving-to-transform]] for the failure mode when this sequencing is collapsed.
+
+See [[love-as-deep-welcoming]] for the central treatment of the love that VIEW operationalizes, and [[four-faces-of-love]] for how the four components also map to the four faces of love.
+
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
@@ -92,3 +110,4 @@ Every sentence carries some partiality. Complete impartiality is asymptotic. The
 - 2020-11-06_Empathy -- Connection Course Series #4
 - 2020-11-10_Vulnerability -- Connection Course Series #5
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
+- 2021-04-09_Love over Defense -- Master Class Series #9

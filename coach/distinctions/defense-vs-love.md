@@ -4,8 +4,8 @@ id: defense-vs-love
 title: "Defense vs. Love"
 aliases: ["defending vs loving", "defense before love", "receiving with love instead of defending", "the defensive impulse"]
 tags: ["defense", "love", "feedback", "vulnerability", "shame", "distinction"]
-related: ["seven-limiting-beliefs", "inherent-goodness", "vulnerability", "letting-judgment-in", "safety-vs-defensiveness"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+related: ["seven-limiting-beliefs", "inherent-goodness", "vulnerability", "letting-judgment-in", "safety-vs-defensiveness", "defense", "love-as-deep-welcoming", "boundary-with-vs-boundary-against"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
 # Defense vs. Love
@@ -41,6 +41,14 @@ This is not about agreeing with the feedback. It is about meeting the person who
 Feeling unsafe is real. Defensiveness is a different thing. See [[safety-vs-defensiveness]]. A person can feel unsafe without becoming defensive. A person can be defensive without actually being unsafe.
 
 The defensive move actually reduces safety in the long run. It reinforces the belief that criticism equals attack, which keeps the person bracing for the next perceived attack, which maintains the unsafe-feeling state.
+
+## Defense Is Not Boundary
+
+Another common confusion: dropping defense will leave you boundaryless. Not so. See [[boundary-with-vs-boundary-against]]. Defense and boundary are different operations. Defense closes the heart and creates separation. A clean boundary is a clear statement of what you will do, drawn from an open heart. You can drop defense fully and still hold boundaries cleanly.
+
+"Just because I have to draw a boundary or I want to draw a boundary doesn't mean that I can't love you." -- Joe Hudson, Love over Defense
+
+The defended person cannot draw clean boundaries because the boundary gets contaminated with the defense. The boundary becomes a wall against rather than a structure with. The clean boundary requires the dropping of defense, not its maintenance.
 
 ## What Someone Experiences
 

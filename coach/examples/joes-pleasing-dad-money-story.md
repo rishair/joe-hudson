@@ -2,10 +2,10 @@
 type: example
 id: joes-pleasing-dad-money-story
 title: "Joe's Pleasing-Dad Money Story (VC Career)"
-aliases: ["Joe's VC story", "Joe's hammock realization", "the multibillion sale story", "Joe's money should", "Joe's father should", "creating great cultures want"]
-tags: ["examples", "shoulds", "wants", "childhood-imprinting", "career", "money"]
-related: ["wants-over-shoulds", "find-the-want-behind-the-should", "childhood-imprinting", "shame-drives-behavior", "joes-26-year-old-list", "the-want"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+aliases: ["Joe's VC story", "Joe's hammock realization", "the multibillion sale story", "Joe's money should", "Joe's father should", "creating great cultures want", "Joe in El Salvador", "the WhatsApp gut punch"]
+tags: ["examples", "shoulds", "wants", "childhood-imprinting", "career", "money", "surrogate"]
+related: ["wants-over-shoulds", "find-the-want-behind-the-should", "childhood-imprinting", "shame-drives-behavior", "joes-26-year-old-list", "the-want", "money-as-surrogate", "if-i-had-more-money", "money-domain"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-04-23_Money Can't Save You"]
 ---
 
 # Joe's Pleasing-Dad Money Story
@@ -20,11 +20,15 @@ This is also an example of how a should can produce the appearance of motivation
 
 Joe was earlier in his venture capital career. He had started telling himself he should be making money. The should was somewhat foreign to him because money had not previously been important. The reasoning he gave himself was sensible: indebtedness to investors, doing a good job, being valuable.
 
-Sitting in a hammock, he read news that a company formed with almost no money had sold for multiple billions of dollars. The reaction was visceral.
+Sitting in a hammock in El Salvador, he read news that WhatsApp had gone public. The story was about a massive success from a small investment and a venture capitalist who had parted ways with his company specifically to invest in it. The reaction was visceral.
+
+"It just hit me like a gut punch in the stomach. And I immediately stopped and said, oh, what is this feeling? And I closed my eyes and I just traced the feeling back to the first time that I felt it." -- Joe Hudson, Money Can't Save You
 
 "It felt like just an absolute kick in my stomach, just like a whack in my stomach." -- Joe Hudson, Want over Should
 
-He stopped. He noticed the feeling. He traced it back through his body -- not intellectually, but somatically -- to the first time he had felt it. The trace landed in his childhood: trying to please his father.
+The trace landed in his childhood: trying to please his father.
+
+"Oh man, I've made money a surrogate for my father's love. I had a relationship with my father early on where his love was not something that I could get easily. And so money had become this thing that I couldn't get easily. And the promise of money, like the promise of my father's love, was something that would make me whole again, or at least I thought it would." -- Joe Hudson, Money Can't Save You
 
 "It was not pleasurable at that time, you know, to please him, at least from my point of view, wasn't possible. And I saw that this whole money-making activity had nothing to do with actually making money. It had to -- and the should behind it had nothing to do with it. It was like this very early should that I had of should be pleasing my father, that that was a very ingrained should." -- Joe Hudson, Want over Should
 
@@ -50,6 +54,13 @@ Two moves are visible:
 
 This is the somatic version of [[find-the-want-behind-the-should]]. See also [[childhood-imprinting]] for the mechanism by which the original should got installed.
 
+## The Surrogate Frame
+
+This same story is the canonical illustration of [[money-as-surrogate]]. Joe's earliest iteration with money was that money was evil, during the period he was most angry at his father. The later iteration was that money was the substitute for his father's love. Same surrogate mechanism, opposite stance. The relationship with money mirrored the underlying relationship with the parent.
+
+"It wasn't my first iteration with money. My first iteration with money was that money was evil. And that was also when I was really angry at my father. So I started to put points together to realize that my relationship with money follows a pattern of my relationship with the love of my parents." -- Joe Hudson, Money Can't Save You
+
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2021-04-23_Money Can't Save You

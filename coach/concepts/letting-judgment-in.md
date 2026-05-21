@@ -4,8 +4,8 @@ id: letting-judgment-in
 title: "Letting Judgment In"
 aliases: ["let it break your heart", "receiving judgment", "letting judgment break your heart", "opening to judgment"]
 tags: ["vulnerability", "judgment", "emotions", "courage"]
-related: ["vulnerability", "feeling-the-unfelt-emotion", "vulnerability-vs-weakness"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5"]
+related: ["vulnerability", "feeling-the-unfelt-emotion", "vulnerability-vs-weakness", "heartbreak-as-capacity-expansion", "defense", "love-as-deep-welcoming"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
 # Letting Judgment In
@@ -27,6 +27,8 @@ When someone judges you, there is discomfort underneath. The reflex is to manage
 Joe describes a personal practice of about six weeks where he deliberately let judgment break his heart instead of defending against it. He cried in unexpected places. After moving through this, most judgment stopped registering at all. The heartbreak provided freedom, not weakness.
 
 "Now when people judge me, there's just like no, very seldom a reaction. And that's what the heartbreak provides. It provides you the courage to love more deeply." -- Joe Hudson, Vulnerability -- Connection Course Series #5
+
+The mechanism is documented elsewhere as [[heartbreak-as-capacity-expansion]]. The heart that has not been broken still has a defense around it. Letting judgment break that defense expands what the heart can welcome. The bigger heart finds the same judgments no longer landing as they did, because the part that was being defended is no longer there to be hit.
 
 ## What Judgment Reveals
 

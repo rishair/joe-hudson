@@ -22,6 +22,7 @@
     "embrace-intensity",
     "feared-consequences-rarely-happen",
     "helplessness-is-the-gateway",
+    "love-requires-empowerment",
     "vulnerability-protects",
     "what-we-fear-we-invite"
   ],
@@ -80,6 +81,7 @@
     "empowered-vs-power",
     "epiphany-becomes-rut",
     "fear-is-about-feeling",
+    "love-requires-empowerment",
     "shame-drives-behavior",
     "victim-stance-invites-abuse",
     "fear-triangle"
@@ -101,6 +103,7 @@
     "acting-as-if-already-true",
     "feared-consequences-rarely-happen",
     "helplessness-is-the-gateway",
+    "love-requires-empowerment",
     "principles-free-you",
     "process-over-result",
     "shame-drives-behavior",
@@ -123,7 +126,10 @@
   ],
   "childhood-imprinting": [
     "i-have-to-sacrifice-to-succeed",
+    "money-is-bad",
     "feeling-the-unfelt-emotion",
+    "money-as-surrogate",
+    "poverty-mentality",
     "the-want",
     "impulse-to-should",
     "perfectionism",
@@ -187,6 +193,7 @@
   ],
   "i-should-be-doing-this": [
     "i-need-to-improve-myself",
+    "money-as-surrogate",
     "wants-over-shoulds"
   ],
   "perfectionism": [
@@ -207,6 +214,7 @@
   "improvement-vs-authenticity": [
     "i-need-to-improve-myself",
     "how-do-you-want-to-be",
+    "loving-to-transform",
     "tools-to-change-not-love",
     "self-realization",
     "inherent-goodness",
@@ -286,7 +294,10 @@
   ],
   "tools-to-change-not-love": [
     "i-need-to-improve-myself",
-    "improvement-vs-authenticity"
+    "loving-to-transform",
+    "love-as-deep-welcoming",
+    "improvement-vs-authenticity",
+    "love-is-the-best-change-agent"
   ],
   "joes-godson-vape-pen": [
     "i-need-to-improve-myself",
@@ -296,11 +307,13 @@
     "i-need-to-improve-myself",
     "im-afraid-of-stagnating",
     "improvement-vs-authenticity",
+    "love-is-the-best-change-agent",
     "nature-improves-itself"
   ],
   "ill-become-lazy-without-shoulds": [
     "i-need-to-improve-myself",
     "i-should-be-doing-this",
+    "if-i-had-more-money",
     "im-afraid-of-stagnating",
     "inherent-goodness",
     "nature-improves-itself",
@@ -315,6 +328,8 @@
   "the-want": [
     "i-should-be-doing-this",
     "ill-become-lazy-without-shoulds",
+    "money-as-surrogate",
+    "poverty-mentality",
     "impulse-to-should",
     "find-the-want-behind-the-should",
     "wanting-vs-craving",
@@ -350,6 +365,7 @@
   ],
   "find-the-want-behind-the-should": [
     "i-should-be-doing-this",
+    "money-as-surrogate",
     "impulse-to-should",
     "rebellion-or-submission-to-should",
     "wants-over-shoulds",
@@ -373,6 +389,53 @@
     "i-should-be-doing-this",
     "im-afraid-of-stagnating"
   ],
+  "money-as-surrogate": [
+    "if-i-had-more-money",
+    "money-is-bad",
+    "money-is-impersonal",
+    "childhood-imprinting",
+    "same-scarcity-story-regardless-of-wealth",
+    "resources-vs-resourcefulness",
+    "integrity-as-money-compass",
+    "joes-pleasing-dad-money-story",
+    "money-domain"
+  ],
+  "resources-vs-resourcefulness": [
+    "if-i-had-more-money",
+    "constraints-increase-creativity",
+    "money-domain"
+  ],
+  "joes-pleasing-dad-money-story": [
+    "if-i-had-more-money",
+    "money-as-surrogate",
+    "find-the-want-behind-the-should",
+    "money-domain"
+  ],
+  "same-scarcity-story-regardless-of-wealth": [
+    "if-i-had-more-money",
+    "poverty-mentality",
+    "money-domain"
+  ],
+  "acceptance-as-change-strategy": [
+    "if-i-had-more-money",
+    "constraints-increase-creativity",
+    "michelangelo-sistine-chapel",
+    "money-domain"
+  ],
+  "money-is-bad": [
+    "if-i-had-more-money",
+    "money-as-surrogate",
+    "money-is-impersonal",
+    "money-domain"
+  ],
+  "money-is-impersonal": [
+    "if-i-had-more-money",
+    "money-is-bad",
+    "money-as-surrogate",
+    "hardening-means-personal",
+    "integrity-as-money-compass",
+    "money-domain"
+  ],
   "what-we-fear-we-invite": [
     "im-afraid-of-stagnating",
     "impartiality",
@@ -384,12 +447,37 @@
     "vulnerability-protects",
     "joes-abandonment-mapping"
   ],
+  "just-business-vs-impersonal": [
+    "money-is-bad",
+    "money-is-impersonal",
+    "hardening-means-personal",
+    "three-ways-to-fire-someone",
+    "money-domain"
+  ],
+  "trauma-mapping": [
+    "money-is-bad",
+    "view-as-technique",
+    "container-of-love",
+    "familiar-over-safe",
+    "feeling-the-unfelt-emotion",
+    "grief-as-gateway-to-self-love",
+    "loving-all-parts",
+    "money-as-surrogate",
+    "poverty-mentality",
+    "believing-the-convenient-lie",
+    "what-we-fear-we-invite",
+    "joes-abandonment-mapping"
+  ],
+  "money-domain": [
+    "money-is-bad"
+  ],
   "resistance": [
     "how-much-fight",
     "expanding-sense-of-self",
     "feeling-the-unfelt-emotion",
     "impartiality",
     "kinked-emotions",
+    "love-as-deep-welcoming",
     "impulse-to-should",
     "layered-resistance",
     "pendulation",
@@ -401,6 +489,7 @@
     "embrace-intensity",
     "enjoyment-as-path",
     "fear-is-about-feeling",
+    "love-is-the-best-change-agent",
     "process-over-result",
     "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
@@ -408,6 +497,7 @@
   ],
   "embrace-intensity": [
     "how-much-fight",
+    "heartbreak-as-capacity-expansion",
     "resistance",
     "development-as-corkscrew",
     "layered-resistance",
@@ -424,6 +514,7 @@
     "resistance",
     "pleasure-capacity",
     "trying-vs-doing",
+    "acceptance-as-change-strategy",
     "consciousness-is-the-product",
     "efficiency-as-enjoyment",
     "inherent-goodness",
@@ -437,6 +528,7 @@
     "the-want",
     "enjoy-over-manage",
     "improvement-vs-authenticity",
+    "integrity-as-money-compass",
     "nature-improves-itself",
     "process-over-result",
     "wants-deepen-as-you-follow-them",
@@ -459,6 +551,7 @@
     "empathy",
     "self-realization",
     "vulnerability",
+    "boundary-with-vs-boundary-against",
     "process-over-result",
     "right-question-over-right-answer",
     "how-what-questions",
@@ -472,11 +565,14 @@
   "feeling-the-unfelt-emotion": [
     "what-is-it-without-resistance",
     "container-of-love",
+    "defense",
     "empathy",
     "familiar-over-safe",
     "grief-as-gateway-to-self-love",
+    "heartbreak-as-capacity-expansion",
     "kinked-emotions",
     "letting-judgment-in",
+    "poverty-mentality",
     "resistance",
     "trauma-mapping",
     "unfelt-emotion-leaks",
@@ -531,6 +627,7 @@
     "wonder",
     "owning-your-partiality",
     "treat-yourself-as-actor-of-emotion",
+    "boundary-with-vs-boundary-against",
     "caring-vs-caretaking",
     "enjoy-over-manage",
     "judgment-vs-discernment",
@@ -584,9 +681,11 @@
     "believing-the-convenient-lie",
     "childhood-imprinting",
     "owning-your-partiality",
+    "boundary-with-vs-boundary-against",
     "defense-vs-love",
     "empowered-vs-power",
     "fear-vs-excitement",
+    "love-vs-nice",
     "past-shame-vs-current-shame",
     "vulnerability-vs-weakness",
     "wants-vs-partiality",
@@ -621,6 +720,45 @@
   "is-this-mine": [
     "losing-yourself-in-others"
   ],
+  "love-is-the-best-change-agent": [
+    "loving-to-transform",
+    "love-as-deep-welcoming",
+    "loving-all-parts",
+    "acceptance-as-change-strategy"
+  ],
+  "boundary-with-vs-boundary-against": [
+    "loving-to-transform",
+    "defense",
+    "love-as-deep-welcoming",
+    "defense-vs-love",
+    "just-business-vs-impersonal",
+    "love-vs-nice",
+    "acceptance-as-change-strategy",
+    "joes-board-member"
+  ],
+  "love-as-deep-welcoming": [
+    "loving-to-transform",
+    "defense",
+    "heartbreak-as-capacity-expansion",
+    "resistance",
+    "boundary-with-vs-boundary-against",
+    "love-vs-nice",
+    "love-is-the-best-change-agent",
+    "love-requires-empowerment",
+    "four-faces-of-love",
+    "view",
+    "alex-bell-told-joe-he-lied",
+    "joes-board-member"
+  ],
+  "view-as-technique": [
+    "loving-to-transform",
+    "tools-to-change-not-love",
+    "empathy",
+    "vulnerability",
+    "wonder",
+    "process-over-result",
+    "view"
+  ],
   "pendulation": [
     "state-seeking",
     "quit-hope-lose-cycle",
@@ -637,7 +775,8 @@
     "embrace-intensity",
     "nature-improves-itself",
     "wants-over-shoulds",
-    "five-principles-of-the-path"
+    "five-principles-of-the-path",
+    "four-faces-of-love"
   ],
   "state-seeking": [
     "tools-to-change-not-love",
@@ -645,20 +784,22 @@
     "wanting-vs-craving",
     "musk-deer-parable"
   ],
-  "view-as-technique": [
+  "loving-to-transform": [
     "tools-to-change-not-love",
-    "empathy",
-    "vulnerability",
-    "wonder",
-    "process-over-result",
+    "love-as-deep-welcoming",
+    "loving-all-parts",
+    "love-is-the-best-change-agent",
     "view"
   ],
   "loving-all-parts": [
     "tools-to-change-not-love",
     "grief-as-gateway-to-self-love",
+    "love-as-deep-welcoming",
     "late-stage-reversion",
     "excavating-the-inner-critic-in-group",
-    "improvement-vs-authenticity"
+    "improvement-vs-authenticity",
+    "acceptance-as-change-strategy",
+    "love-is-the-best-change-agent"
   ],
   "undoing-not-doing": [
     "tools-to-change-not-love",
@@ -669,19 +810,9 @@
     "hands-together-exercise",
     "seven-limiting-beliefs"
   ],
-  "trauma-mapping": [
-    "view-as-technique",
-    "container-of-love",
-    "familiar-over-safe",
-    "feeling-the-unfelt-emotion",
-    "grief-as-gateway-to-self-love",
-    "loving-all-parts",
-    "believing-the-convenient-lie",
-    "what-we-fear-we-invite",
-    "joes-abandonment-mapping"
-  ],
   "familiar-over-safe": [
     "view-as-technique",
+    "poverty-mentality",
     "3-to-5-rule",
     "pleasure-capacity",
     "shame-drives-behavior",
@@ -693,6 +824,7 @@
     "being-heard",
     "impartiality",
     "vulnerability",
+    "boundary-with-vs-boundary-against",
     "caring-vs-caretaking",
     "empathy-vs-sympathy",
     "decisions-are-emotional",
@@ -749,10 +881,43 @@
     "container-of-love",
     "integration"
   ],
+  "examples/joes-board-member": [
+    "defense",
+    "love-requires-empowerment",
+    "joes-weeping-at-superficial-conversations"
+  ],
+  "letting-judgment-in": [
+    "defense",
+    "feeling-the-unfelt-emotion",
+    "heartbreak-as-capacity-expansion",
+    "vulnerability",
+    "defense-vs-love",
+    "fear-is-about-feeling",
+    "whats-the-scary-truth",
+    "alex-bell-told-joe-he-lied",
+    "joes-weeping-at-superficial-conversations"
+  ],
+  "defense-vs-love": [
+    "defense",
+    "self-realization",
+    "undoing-not-doing",
+    "hardening-means-personal",
+    "inherent-goodness",
+    "seven-limiting-beliefs"
+  ],
+  "safety-vs-defensiveness": [
+    "defense",
+    "defense-vs-love",
+    "conditions-for-transformation"
+  ],
   "caring-vs-caretaking": [
     "empathy",
+    "love-as-deep-welcoming",
+    "boundary-with-vs-boundary-against",
     "empathy-vs-sympathy",
+    "love-vs-nice",
     "fear-triangle",
+    "four-faces-of-love",
     "hand-in-hand-parenting",
     "vulnerability-in-the-workplace"
   ],
@@ -788,13 +953,6 @@
     "excavating-the-inner-critic-in-group",
     "managing-vs-healing-trauma",
     "trauma-heals-in-relationship"
-  ],
-  "letting-judgment-in": [
-    "feeling-the-unfelt-emotion",
-    "vulnerability",
-    "defense-vs-love",
-    "fear-is-about-feeling",
-    "whats-the-scary-truth"
   ],
   "joes-abandonment-mapping": [
     "feeling-the-unfelt-emotion",
@@ -859,6 +1017,19 @@
   "managing-vs-healing-trauma": [
     "grief-as-gateway-to-self-love"
   ],
+  "examples/joes-weeping-at-superficial-conversations": [
+    "heartbreak-as-capacity-expansion"
+  ],
+  "defense": [
+    "heartbreak-as-capacity-expansion",
+    "love-as-deep-welcoming",
+    "boundary-with-vs-boundary-against",
+    "just-business-vs-impersonal",
+    "hardening-means-personal",
+    "love-requires-empowerment",
+    "joes-board-member",
+    "joes-weeping-at-superficial-conversations"
+  ],
   "visualizing-feared-outcomes": [
     "impartiality",
     "fear-is-about-feeling"
@@ -901,6 +1072,46 @@
     "resistance",
     "vulnerability"
   ],
+  "heartbreak-as-capacity-expansion": [
+    "letting-judgment-in",
+    "love-as-deep-welcoming",
+    "joes-board-member",
+    "joes-weeping-at-superficial-conversations"
+  ],
+  "four-faces-of-love": [
+    "love-as-deep-welcoming",
+    "caring-vs-caretaking",
+    "view"
+  ],
+  "love-vs-nice": [
+    "love-as-deep-welcoming",
+    "alex-bell-told-joe-he-lied"
+  ],
+  "VIEW": [
+    "love-as-deep-welcoming",
+    "four-faces-of-love"
+  ],
+  "love-requires-empowerment": [
+    "love-as-deep-welcoming",
+    "joes-board-member"
+  ],
+  "if-i-had-more-money": [
+    "money-as-surrogate",
+    "money-is-impersonal",
+    "poverty-mentality",
+    "same-scarcity-story-regardless-of-wealth",
+    "resources-vs-resourcefulness",
+    "constraints-increase-creativity",
+    "money-domain"
+  ],
+  "poverty-mentality": [
+    "money-as-surrogate",
+    "money-domain"
+  ],
+  "integrity-as-money-compass": [
+    "money-is-impersonal",
+    "money-domain"
+  ],
   "layered-resistance": [
     "resistance",
     "undoing-not-doing",
@@ -927,12 +1138,6 @@
     "perfectionism",
     "shame-drives-behavior",
     "joes-pot-habit"
-  ],
-  "defense-vs-love": [
-    "self-realization",
-    "undoing-not-doing",
-    "inherent-goodness",
-    "seven-limiting-beliefs"
   ],
   "expanding-sense-of-self": [
     "self-realization"
@@ -976,11 +1181,14 @@
     "unfelt-emotion-leaks",
     "three-signals-of-unfelt-emotion",
     "feel-over-figure",
-    "decisions-are-emotional"
+    "decisions-are-emotional",
+    "joes-weeping-at-superficial-conversations"
   ],
   "dont-do-emotion-at-people": [
     "unfelt-emotion-leaks",
     "treat-yourself-as-actor-of-emotion",
+    "boundary-with-vs-boundary-against",
+    "hardening-means-personal",
     "daily-emotional-yoga",
     "stages-of-emotional-development"
   ],
@@ -1041,13 +1249,6 @@
   "trauma-heals-in-relationship": [
     "excavating-the-inner-critic-in-group"
   ],
-  "joes-pleasing-dad-money-story": [
-    "find-the-want-behind-the-should"
-  ],
-  "safety-vs-defensiveness": [
-    "defense-vs-love",
-    "conditions-for-transformation"
-  ],
   "acting-as-if-already-true": [
     "empowered-vs-power",
     "intention-vs-goal",
@@ -1058,6 +1259,7 @@
   "principles-free-you": [
     "empowered-vs-power",
     "acting-as-if-already-true",
+    "constraints-increase-creativity",
     "process-over-result",
     "wanting-itself-not-what-you-want",
     "structure-and-empowerment"
@@ -1083,6 +1285,21 @@
     "principles-free-you",
     "conditions-for-transformation"
   ],
+  "three-ways-to-fire-someone": [
+    "just-business-vs-impersonal",
+    "money-domain"
+  ],
+  "examples/alex-bell-told-joe-he-lied": [
+    "love-vs-nice"
+  ],
+  "people-pleasing": [
+    "love-vs-nice"
+  ],
+  "constraints-increase-creativity": [
+    "resources-vs-resourcefulness",
+    "michelangelo-sistine-chapel",
+    "money-domain"
+  ],
   "conditions-for-transformation": [
     "safety-vs-defensiveness",
     "five-principles-of-the-path"
@@ -1099,6 +1316,9 @@
   "spaghetti-tower-experiment": [
     "connection-over-perfection"
   ],
+  "michelangelo-sistine-chapel": [
+    "constraints-increase-creativity"
+  ],
   "butchers-blade": [
     "efficiency-as-enjoyment"
   ],
@@ -1112,6 +1332,10 @@
   ],
   "tennis-quarter": [
     "goal-beyond-the-goal"
+  ],
+  "awareness-as-change-agent": [
+    "love-is-the-best-change-agent",
+    "joes-26-year-old-list"
   ],
   "structure-and-empowerment": [
     "principles-free-you",
@@ -1145,14 +1369,14 @@
   "authenticity-in-business": [
     "buurtzorg-nursing"
   ],
-  "awareness-as-change-agent": [
-    "joes-26-year-old-list"
-  ],
   "joes-pot-habit": [
     "joes-hacky-sack"
   ],
   "goal-beyond-the-goal": [
     "tennis-quarter"
+  ],
+  "hardening-means-personal": [
+    "three-ways-to-fire-someone"
   ],
   "buurtzorg-nursing": [
     "authenticity-in-business"

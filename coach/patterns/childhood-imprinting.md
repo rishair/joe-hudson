@@ -2,10 +2,10 @@
 type: pattern
 id: childhood-imprinting
 title: "Childhood Imprinting"
-aliases: ["theta state programming", "0 to 7 programming", "love withdrawal", "rejected emotions from childhood", "don't be yourself programming"]
-tags: ["childhood", "programming", "emotions", "vulnerability", "theta"]
-related: ["vulnerability", "feeling-the-unfelt-emotion", "familiar-over-safe", "trauma-mapping", "pleasure-capacity", "inherent-goodness"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5"]
+aliases: ["theta state programming", "0 to 7 programming", "love withdrawal", "rejected emotions from childhood", "don't be yourself programming", "pattern transfer to authority figures"]
+tags: ["childhood", "programming", "emotions", "vulnerability", "theta", "projection"]
+related: ["vulnerability", "feeling-the-unfelt-emotion", "familiar-over-safe", "trauma-mapping", "pleasure-capacity", "inherent-goodness", "money-as-surrogate", "poverty-mentality"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-05-07_Money Can't Oppress You"]
 ---
 
 # Childhood Imprinting
@@ -31,6 +31,18 @@ The programming that results: being yourself means feeling helpless, scared, and
 The theta-state programming persists into adulthood as a body-level avoidance. When a person begins to be authentic, the old feelings surface: helplessness, fear, wrongness. These are not responses to the current situation. They are the childhood program activating.
 
 "That's the memory that lives with us, and it controls us. So we don't want to feel that." -- Joe Hudson, Vulnerability -- Connection Course Series #5
+
+## Pattern Transfer to Adult Authority
+
+The emotional patterns installed in the 0-to-7 theta state do not stay attached to the original parent. They need an equivalent power to attach to once the child leaves home. The patterns transfer onto whatever is next in importance: money, the boss, an institution, a partner. The behavior with the new object follows the shape of the original behavior with the parent.
+
+"As kids, we get into very specific emotional patterns. And then as they grow up, they're going to place those patterns on something, probably of equivalent importance in their life. So when they leave mom and dad, then that pattern needs to hit something else. And money's a great place for it to hit." -- Joe Hudson, Money Can't Oppress You
+
+Joe's example: the worry pattern. His parents worried about 15% of the time when he had a green mohawk. They still worry 15% of the time now, but the object has shifted from his haircut to whether their grandkids will burn the chuck roast. The pattern persists; the target rotates.
+
+The transfer mechanism is why the relationship with money so often mirrors the relationship with parents. See [[money-as-surrogate]]. The transfer is also why people treat their boss like their dad or their mom -- not because the boss resembles the parent, but because the boss inherited the slot that the parent used to occupy.
+
+"You see that all the time where people aren't, they think it's their boss, but it's not. They're treating their boss like their dad or their mom or a teacher that had an impact on them." -- Joe Hudson, Money Can't Oppress You
 
 ## The Way Through
 
@@ -62,3 +74,4 @@ This connects to [[feeling-the-unfelt-emotion]]: the childhood emotions that cou
 ## Sources
 
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2021-05-07_Money Can't Oppress You

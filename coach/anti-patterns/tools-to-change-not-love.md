@@ -4,8 +4,8 @@ id: tools-to-change-not-love
 title: "Don't use the tools to change yourself instead of loving yourself"
 aliases: ["tools as improvement", "co-opting transformation tools", "using practices to fix yourself", "transformation tools turned into improvement", "weaponizing self-work", "spiritual self-improvement"]
 tags: ["tools", "improvement", "authenticity", "self-love", "anti-pattern"]
-related: ["improvement-vs-authenticity", "self-realization", "loving-all-parts", "undoing-not-doing", "state-seeking", "performing-growth"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+related: ["improvement-vs-authenticity", "self-realization", "loving-all-parts", "undoing-not-doing", "state-seeking", "performing-growth", "loving-to-transform", "love-is-the-best-change-agent"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
 # Don't use the tools to change yourself instead of loving yourself
@@ -78,6 +78,7 @@ The key sentence: any work on yourself that is not loving yourself as you are is
 
 - [[state-seeking]]: a specific form of this anti-pattern where the goal is to attain a state.
 - [[view-as-technique]]: VIEW used as a technique to get an outcome rather than as a state to embody.
+- [[loving-to-transform]]: the specific case where love itself becomes the tool used for change rather than the welcoming it points at. "If you start trying to love yourself to change yourself, it won't work because trying to change yourself isn't loving yourself." -- Joe Hudson, Love over Defense
 - [[performing-growth]] (not yet an article): the person saying the right things without movement; often the visible symptom of this anti-pattern.
 
 ## Upstream (What Leads Here)

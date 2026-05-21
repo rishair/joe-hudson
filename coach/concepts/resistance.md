@@ -4,8 +4,8 @@ id: resistance
 title: "Resistance"
 aliases: ["loving the resistance", "if you can't love the thing love the resistance", "resistance to change", "fighting yourself", "the fight", "war with yourself"]
 tags: ["resistance", "transformation", "emotions", "core mechanism"]
-related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path", "kinked-emotions", "feel-over-figure"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path", "kinked-emotions", "feel-over-figure", "love-as-deep-welcoming"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
 # Resistance
@@ -71,6 +71,12 @@ A common pitfall: noticing resistance, declaring it the new bad thing, then resi
 "If you can't love the emotion, love the resistance to the emotion. If you make the resistance the next evil thing that you have to overcome, that's another form of resistance. So you're just adding a triple layer of resistance on it." -- Joe Hudson, Feel over Figure
 
 The instruction is consistent: meet whatever is here with love, including the resistance itself.
+
+The generalized form: there is no moment in which welcoming is impossible. If welcoming the situation is impossible, welcome the inability. If welcoming the inability is impossible, welcome the resistance to welcoming the inability. The recursion always terminates because welcoming the most-meta layer of resistance is also welcoming the original resistance.
+
+"There's no time when we're incapable of love for anything. So if you find yourself like, I just can't love myself right now, then love the fact that you can't love yourself." -- Joe Hudson, Love over Defense
+
+See [[love-as-deep-welcoming]] for the underlying mechanism: welcoming unfreezes; rejection holds in place. Loving the resistance unfreezes the resistance, which then no longer needs to hold the original thing in place.
 
 ## When Someone Experiences This
 

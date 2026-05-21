@@ -420,8 +420,80 @@
     },
     {
       "folder": "2021-04-09_Love over Defense \u2014 Master Class Series #9",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T18:40:55Z",
+      "articles_created": [
+        "love-as-deep-welcoming",
+        "four-faces-of-love",
+        "defense",
+        "heartbreak-as-capacity-expansion",
+        "boundary-with-vs-boundary-against",
+        "love-vs-nice",
+        "love-requires-empowerment",
+        "love-is-the-best-change-agent",
+        "loving-to-transform",
+        "joes-board-member",
+        "alex-bell-told-joe-he-lied",
+        "joes-weeping-at-superficial-conversations"
+      ],
+      "articles_updated": [
+        "view",
+        "resistance",
+        "tools-to-change-not-love",
+        "loving-all-parts",
+        "caring-vs-caretaking",
+        "defense-vs-love",
+        "letting-judgment-in"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:53:09Z"
+    },
+    {
+      "folder": "2021-04-23_Money Can't Save You",
+      "status": "complete",
+      "claimed_at": "2026-05-21T18:53:47Z",
+      "articles_created": [
+        "money-as-surrogate",
+        "if-i-had-more-money",
+        "resources-vs-resourcefulness",
+        "acceptance-as-change-strategy",
+        "constraints-increase-creativity",
+        "same-scarcity-story-regardless-of-wealth",
+        "michelangelo-sistine-chapel",
+        "money-domain"
+      ],
+      "articles_updated": [
+        "joes-pleasing-dad-money-story"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:59:20Z"
+    },
+    {
+      "folder": "2021-05-07_Money Can't Oppress You",
+      "status": "complete",
+      "claimed_at": "2026-05-21T18:59:58Z",
+      "articles_created": [
+        "money-is-bad",
+        "money-is-impersonal",
+        "just-business-vs-impersonal",
+        "hardening-means-personal",
+        "poverty-mentality",
+        "three-ways-to-fire-someone",
+        "integrity-as-money-compass"
+      ],
+      "articles_updated": [
+        "money-as-surrogate",
+        "money-domain",
+        "if-i-had-more-money",
+        "childhood-imprinting"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T19:07:41Z"
+    },
+    {
+      "folder": "2021-05-21_Father Figures and Authority (Coaching Session)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T19:10:57Z",
       "articles_created": [],
       "articles_updated": []
     }
