@@ -85,7 +85,7 @@ Every transcript is one of two types. Identify the type before extracting conten
 
 **Teaching episodes:** Joe explaining concepts on the podcast. Joe talks about ideas, frameworks, distinctions. Brett asks questions. No live coaching happens. These feed primarily the methodology layer (concepts, frameworks, distinctions, principles) and anti-patterns. They also feed concerns (when Joe describes what people experience) and reads (when Joe describes what he notices in people).
 
-**Coaching sessions:** Joe working with someone live. A person presents a problem. Joe coaches them through it in real time. These are the richest source material for the compendium. They feed every layer: concerns (what the person presented), reads (what Joe noticed), questions (what Joe asked), arcs (the session flow), moves (what Joe did), and anti-patterns (what Joe did NOT do).
+**Coaching sessions:** Joe working with someone live. A person presents a problem. Joe coaches them through it in real time. These are the richest source material for the compendium. They feed every layer: concerns (what the person presented), reads (what Joe noticed), questions (what Joe asked), arcs (the session flow), moves (what Joe did), and anti-patterns (what Joe did NOT do). Coaching sessions are the primary source for reads -- pay close attention to what Joe notices about how the person is showing up and what he does differently based on those observations.
 
 Many transcripts contain both teaching and coaching. Extract from each accordingly.
 
@@ -285,11 +285,14 @@ The specific words and variations people use when presenting this concern. Multi
 - "I feel trapped in my routine"
 - "I do it because I have to, not because I want to"
 
+## Detection Cues
+How an AI coach recognizes this concern from text. What language patterns, word choices, or conversational signals indicate this concern is present, even when the person does not name it directly. Include both explicit signals ("I keep...") and indirect signals (describing the same situation repeatedly without naming the pattern, blaming external factors, etc.).
+
 ## What Joe Hears
 What Joe understands is happening underneath the words. Not the surface complaint but the underlying dynamic. Link to methodology: [[should]], [[people-pleasing]], etc.
 
 ## What Joe Looks For (Reads)
-The branching point. Two people can say the same thing but Joe goes different directions based on what he notices.
+The branching point. Two people can say the same thing but Joe goes different directions based on what he notices. For each read, describe the specific coaching path that follows — not just the read name but where Joe goes from there.
 - If [[in-their-story]]: the person narrates what happened rather than feeling it. Joe will...
 - If [[performing-growth]]: the person says the right things but Joe senses no movement. Joe will...
 - If [[collapsed-into-shame]]: the person has made it about being broken. Joe will...
@@ -336,11 +339,21 @@ The specific signals that tell Joe someone is in their story. Observable behavio
 - The person says "and then... and then... and then..."
 - The person's voice is flat or reportorial
 
+Reads can also be about the coaching relationship itself: what is happening between the person and the coach. Is the person seeking approval? Projecting a parent onto the coach? Testing boundaries? These relational reads are as important as internal reads.
+
 ## What This Implies
 What Joe understands is happening underneath when he reads this. What dynamic is at play. Why the person is showing up this way.
 
 ## What Joe Does
 How Joe responds to this read. What moves he makes, what questions he asks, what he does NOT do. Link to [[move-articles]] and [[question-articles]].
+
+## Dialogue Examples (optional)
+Compressed exchanges from coaching sessions showing this read in action. Include only illustrative examples that show something non-obvious about how Joe responds. Format:
+- **Person:** [what they said]
+- **Joe:** [how he responded]
+- **Person:** [how they reacted]
+- **Joe:** [follow-up]
+- *(Source: Episode Title)*
 
 ## Tone
 How Joe delivers his response when he makes this read. Warm? Direct? Blunt? Gentle? Humorous? This matters for the AI coach.
@@ -401,6 +414,14 @@ How Joe follows up based on what the person says. This is the coaching intellige
 - If the person cries: Joe stays with it, does not redirect
 - If the person says "I don't know": Joe treats this as data, not a dead end
 
+## Dialogue Examples (optional)
+Compressed exchanges from coaching sessions showing this question in use. Include only illustrative examples that show something non-obvious about Joe's timing or follow-up. Format:
+- **Person:** [what they said]
+- **Joe:** [the question]
+- **Person:** [how they responded]
+- **Joe:** [follow-up]
+- *(Source: Episode Title)*
+
 ## Tone
 How Joe asks this question. What energy he brings to it.
 
@@ -442,6 +463,9 @@ Story -> See Through Story -> Find What's Underneath -> Feel It -> Shift
 What concern or read triggers this arc. What does Joe notice that tells him this is the arc to follow.
 - Person is [[in-their-story]], recounting events
 - Concern is often [[i-keep-having-the-same-fight]] or similar relational concerns
+
+## What Someone Says At Each Stage
+Detection cues for an AI coach. What language, word choices, or conversational patterns signal which stage of this arc the person is at. This is how the AI knows where to meet them.
 
 ## The Sequence
 Step by step, what Joe does. Not a script. A map with branches.
