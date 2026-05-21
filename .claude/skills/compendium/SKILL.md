@@ -44,7 +44,7 @@ Every transcript must be absorbed somewhere. Nothing gets dropped. But "absorbed
 ## Directory Structure
 
 ```
-meta/wiki/compendium/
+coach/
   _index.md              # Master index of all articles with aliases
   _backlinks.json        # Reverse link graph
   _absorb_log.json       # Which transcripts have been processed
@@ -97,11 +97,11 @@ The main absorption loop. Pick the next unprocessed transcript and absorb it.
 
 ### Steps
 
-1. **Read the absorb log.** Read `meta/wiki/compendium/_absorb_log.json` to find what has been processed. List transcript folders in `transcripts/` sorted by name. Find the first unprocessed folder.
+1. **Read the absorb log.** Read `coach/_absorb_log.json` to find what has been processed. List transcript folders in `transcripts/` sorted by name. Find the first unprocessed folder.
 
 2. **Read the transcript.** Read the full `transcript.md` from the selected folder. This is the raw material.
 
-3. **Read the index.** Read `meta/wiki/compendium/_index.md` to know what articles exist and their aliases.
+3. **Read the index.** Read `coach/_index.md` to know what articles exist and their aliases.
 
 4. **Classify the transcript.** Is this a teaching episode, a coaching session, or both? This determines extraction focus.
 
@@ -220,7 +220,7 @@ Quality audit. Triggered automatically every 20 absorbs, or callable manually.
    - Would a reader learn something non-obvious?
    - Does it use Joe's actual language?
 
-10. **Write a checkpoint summary** at `meta/wiki/compendium/checkpoints/YYYY-MM-DD.md` documenting findings and actions taken.
+10. **Write a checkpoint summary** at `coach/checkpoints/YYYY-MM-DD.md` documenting findings and actions taken.
 
 ---
 
@@ -286,7 +286,7 @@ The specific words and variations people use when presenting this concern. Multi
 - "I do it because I have to, not because I want to"
 
 ## Detection Cues
-How an AI coach recognizes this concern from text. What language patterns, word choices, or conversational signals indicate this concern is present, even when the person does not name it directly. Include both explicit signals ("I keep...") and indirect signals (describing the same situation repeatedly without naming the pattern, blaming external factors, etc.).
+How an AI coach recognizes this concern from text, even when the person does not name it directly. Include surface-level everyday complaints ("I can't stop eating at night," "my boss is impossible"), explicit self-aware signals ("I keep doing this"), and indirect signals (describing the same situation repeatedly, blaming external factors, asking for advice on the surface problem rather than the pattern underneath).
 
 ## What Joe Hears
 What Joe understands is happening underneath the words. Not the surface complaint but the underlying dynamic. Link to methodology: [[should]], [[people-pleasing]], etc.
