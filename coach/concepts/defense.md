@@ -5,7 +5,7 @@ title: "Defense"
 aliases: ["defending yourself", "the wall", "defensiveness", "somatic defense", "the defensive wall", "mental defense", "separation as defense"]
 tags: ["defense", "somatic", "fear", "separation", "core concept"]
 related: ["love-as-deep-welcoming", "safety-vs-defensiveness", "defense-vs-love", "boundary-with-vs-boundary-against", "letting-judgment-in", "resistance", "vulnerability"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)"]
 ---
 
 # Defense
@@ -80,6 +80,14 @@ Joe's six-week practice of letting judgment break his heart (see [[letting-judgm
 
 The same principle applies in interpersonal conflict, in board meetings, in awkward conversations. Each cycle of choosing welcoming over defense in a hard moment expands the capacity to do so.
 
+## Distance Is Quiet Fight
+
+A specific defensive form that often masquerades as boundary or calm: keeping the other person at a distance. The person tells themselves they are not fighting (they are not yelling, not arguing, not pushing back) and not submitting (they have not collapsed or agreed). What they are doing is managing the relationship from far enough away that nothing lands.
+
+"I'm going to keep you at a distance. I will be over here and you're gonna be over there. I'm just gonna manage this." -- (person in Father Figures and Authority recognizing the distance as still being fight)
+
+Distance is fight at a lower volume. The wall is just further out. The defense is still operating, just less visibly. The diagnostic: if you have to keep the other at a distance for your stance to remain stable, the stance is dependent on the distance. It is not yet upright undefended ground. See [[upright-undefended-love]].
+
 ## When Someone Experiences This
 
 When someone reports feeling closed, walled off, in their head, separate, above the situation, contemptuous, dismissive: defense is operating.
@@ -87,6 +95,8 @@ When someone reports feeling closed, walled off, in their head, separate, above 
 When someone describes a conflict in terms of how the other person is wrong: defense is operating. The wrongness frame is one of the most reliable defense markers.
 
 When someone wants to feel love or vulnerability and cannot get there: the defense is in the way. The path is not to push harder toward love. The path is to feel what the defense is protecting against.
+
+When someone has chosen "distance" as their stance and calls it boundary: examine whether the distance is required for the stance to hold. If the answer is yes, the distance is fight.
 
 ## Upstream (What Leads Here)
 
@@ -99,6 +109,7 @@ When someone wants to feel love or vulnerability and cannot get there: the defen
 ## Downstream (Where Joe Goes From Here)
 
 - Toward [[love-as-deep-welcoming]]: the opposite of defense, and the answer to it.
+- Toward [[upright-undefended-love]]: the somatic stance that replaces defense in relational moments.
 - Toward [[feeling-the-unfelt-emotion]]: defense protects against unfelt emotion; the path is to feel it.
 - Toward [[letting-judgment-in]]: a specific practice for dropping a specific kind of defense.
 - Toward [[boundary-with-vs-boundary-against]]: how to keep boundaries while dropping defense.

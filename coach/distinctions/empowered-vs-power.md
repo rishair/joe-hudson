@@ -5,7 +5,7 @@ title: "Empowered vs. Power"
 aliases: ["power vs empowered", "empowerment vs power", "real power vs control", "external power vs internal empowerment"]
 tags: ["empowerment", "power", "fear", "freedom", "authenticity"]
 related: ["vulnerability", "fear-triangle", "helplessness-is-the-gateway", "principles-free-you", "acting-as-if-already-true", "feared-consequences-rarely-happen"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-05-21_Father Figures and Authority (Coaching Session)"]
 ---
 
 # Empowered vs. Power
@@ -65,6 +65,16 @@ This is also why the [[fear-triangle]] (victim, savior, bully) is the signature 
 The Mandela example: stripped of resources, beaten, crushing rocks, Mandela remained empowered. He could not be taken from himself. See [[mandela-empowerment]].
 
 Power can be taken. Empowerment cannot.
+
+## Rebellion Is Not Empowerment
+
+A subtle confusion in the workplace and in parental dynamics: rebelling against authority is often mistaken for empowerment. It is not. Both compliance and rebellion leave the authority figure in the control seat. The compliant person organizes their behavior around what the authority wants. The rebellious person organizes their behavior around opposing what the authority wants. Both are reactions to the authority. Neither is a stance of their own.
+
+"To rebel against somebody or to do what they tell you, both of them put them in the control seat." -- Joe Hudson, Father Figures and Authority
+
+This is why the [[fight-or-roll-over-binary]] is a disempowerment pattern even when the "fight" pole looks defiant. Real empowerment is neither fighting nor submitting. It is being you despite what the authority does. See [[upright-undefended-love]] for the somatic version of the stance.
+
+A specific workplace example: a person who responds to a boss's patronizing praise by becoming unproductive. The unproductivity feels like resistance, like refusal to give the boss what they want. It is actually compliance with the boss's frame: the boss has set the terms (you exist to be praised by me or rebel against me), and the person is operating inside those terms. Empowerment would be doing the work because the work is wanted, neither needing the praise nor refusing in response to it.
 
 ## Empowerment and Love
 

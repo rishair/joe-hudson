@@ -5,7 +5,7 @@ title: "Binary Thinking Signals Fear"
 aliases: ["black or white thinking", "binary frame as fear", "either/or thinking", "binary thinking is fear", "black and white framing"]
 tags: ["fear", "decisions", "binary", "diagnostics", "patterns"]
 related: ["three-signals-of-unfelt-emotion", "fear-is-about-feeling", "unfelt-emotion-leaks", "feel-over-figure", "feeling-the-unfelt-emotion"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)"]
 ---
 
 # Binary Thinking Signals Fear
@@ -46,6 +46,13 @@ Binary thinking is the intellect trying to escape an unfelt emotion. The intelle
 - Describing a career decision as "this or nothing"
 - Defining their identity through one binary ("I'm either a good parent or a bad parent")
 - Treating a conversation as winnable or losable
+- Engaging authority figures only by fighting or by submitting, with no third stance available
+
+## The Relational Version: Fight or Roll Over
+
+The binary often shows up in how a person engages with authority. "I either want to fight myself or I just want to roll over and stay safe." Two options. Both put the authority in the control seat. Both are reactions rather than stances. The fear underneath is usually the helplessness that arrived in childhood when neither option worked.
+
+The work in this case is to locate the somatic third stance, which Joe sometimes calls [[upright-undefended-love]]: neither fight nor submission, but balanced presence with the heart open. This is the same dissolution of binary that happens with cognitive decisions, applied to embodied relational stances. See [[fight-or-roll-over-binary]] for the read and [[upright-undefended-love]] for the third option.
 
 ## Upstream (What Leads Here)
 

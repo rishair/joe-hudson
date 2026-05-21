@@ -5,7 +5,7 @@ title: "Childhood Imprinting"
 aliases: ["theta state programming", "0 to 7 programming", "love withdrawal", "rejected emotions from childhood", "don't be yourself programming", "pattern transfer to authority figures"]
 tags: ["childhood", "programming", "emotions", "vulnerability", "theta", "projection"]
 related: ["vulnerability", "feeling-the-unfelt-emotion", "familiar-over-safe", "trauma-mapping", "pleasure-capacity", "inherent-goodness", "money-as-surrogate", "poverty-mentality"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-05-07_Money Can't Oppress You"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-05-07_Money Can't Oppress You", "2021-05-21_Father Figures and Authority (Coaching Session)"]
 ---
 
 # Childhood Imprinting
@@ -44,6 +44,16 @@ The transfer mechanism is why the relationship with money so often mirrors the r
 
 "You see that all the time where people aren't, they think it's their boss, but it's not. They're treating their boss like their dad or their mom or a teacher that had an impact on them." -- Joe Hudson, Money Can't Oppress You
 
+## A Live Example: The Father Pattern in the Workplace
+
+A clear case of the pattern transfer: a woman in a coaching session described freezing around a specific kind of authority figure at work. The trigger was gendered and specific. "I'm specifically triggered if it's a man who reminds me of my dad. Because if it's a woman, no issues. You can do any of those things and I don't care."
+
+The diagnostic confirmation is the selectivity. The same behavior from women produced no freeze. Same behavior from a particular kind of man produced complete shutdown. The freeze was not about the present behavior. It was about which slot the present person was occupying.
+
+The contents of the projection: her father was "wrapped up in himself" and could not see her. The current boss "doesn't see how I tick." Same complaint, transferred target. The shape of her reaction was also transferred: rebellion (stop performing) and collapse (become unproductive). Both responses had originally been the only available adaptations.
+
+The work in such cases is not to address the boss. It is to bring the pattern into present awareness, recognize it as transferred rather than current, and develop a new stance ([[upright-undefended-love]]) that was not available in the original childhood configuration. See [[i-freeze-around-authority]] for the full concern article.
+
 ## The Way Through
 
 The program dissolves by moving through the feeling, not around it. Joe states this takes surprisingly few repetitions.
@@ -58,12 +68,14 @@ This connects to [[feeling-the-unfelt-emotion]]: the childhood emotions that cou
 - Knowing intellectually that authenticity is safe but the body refusing to cooperate
 - Equating vulnerability with the helplessness of childhood
 - Avoiding entire categories of emotion because they were not allowed as a child
+- Freezing or shutting down with a specific category of person (men like dad, women like mom, authority figures) while functioning fine with others
 
 ## Upstream (What Leads Here)
 
 - When someone cannot explain why vulnerability feels so dangerous
 - When the fear response to authenticity is disproportionate to the actual stakes
 - When [[vulnerability]] is blocked and the person cannot identify a current reason
+- When [[i-freeze-around-authority]] appears, particularly with a gendered or role-specific trigger
 
 ## Downstream (Where This Leads)
 

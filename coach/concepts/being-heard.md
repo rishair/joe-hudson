@@ -5,7 +5,7 @@ title: "Being Heard"
 aliases: ["feeling heard", "I don't feel heard", "fully heard", "the need to be heard"]
 tags: ["connection", "communication", "resistance", "teams", "productivity"]
 related: ["view", "empathy", "how-what-questions", "impartiality"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)"]
 ---
 
 # Being Heard
@@ -31,6 +31,14 @@ This is one of the core reasons [[how-what-questions]] work: open questions let 
 The feeling of not being heard produces stubbornness, withdrawal, or escalation. People will fight harder, repeat themselves louder, or shut down entirely. These are not personality defects. They are signals that the person has not yet been met.
 
 The feeling of being heard produces relaxation, willingness, and openness. It is often the turning point in a stuck conversation.
+
+## Being Seen As a Sub-Form of Being Heard
+
+A close relative of being heard is "being seen." In coaching contexts, especially with authority dynamics, "they don't see me" is often the surface complaint. The dynamic shares the structure of unheardness: the person experiences themselves as not being received accurately, and the unreceived state produces resistance.
+
+But there is a trap specific to the "not seen" frame. The person who is not letting themselves be seen will experience anyone failing to see them as evidence of the problem. The complaint becomes self-sealing. The person can locate the problem in the other while continuing to hide. See [[in-the-story-im-not-being-seen]].
+
+The work in such cases is not to find someone who finally sees them. It is to let themselves be seen first. The receiving by the other is downstream of the showing by the self.
 
 ## Upstream (What Leads Here)
 

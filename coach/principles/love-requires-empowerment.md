@@ -5,7 +5,7 @@ title: "Love Requires Empowerment"
 aliases: ["love can't exist without empowerment", "you can't love if you're not empowered", "empowerment as precondition for love", "love and empowerment", "fear can't love"]
 tags: ["love", "empowerment", "fear", "power", "core principle"]
 related: ["love-as-deep-welcoming", "empowered-vs-power", "helplessness-is-the-gateway", "fear-is-about-feeling", "defense"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)"]
 ---
 
 # Love Requires Empowerment
@@ -78,6 +78,12 @@ Questions that surface this:
 
 These questions move toward the helplessness underneath the grip, and the helplessness is the doorway to the empowerment.
 
+## The Somatic Version
+
+The principle has a body-level expression: [[upright-undefended-love]]. To love and be empowered at the same time has a specific somatic signature. Upright (empowered, not falling forward into the other, not collapsing). Undefended (open-hearted, no wall). The combination is what the principle looks like when it is being lived in the body.
+
+When the principle is missing, the body shows it. Falling forward into the other (submission disguised as love). Walling off (defense disguised as protection). Keeping distance (fight at a quieter volume). Each posture reveals which half of the principle is missing.
+
 ## The Inverse: Empowerment Without Welcoming
 
 Empowerment is necessary for love but not sufficient. A person can be deeply empowered and still defended, still closed, still running their separation strategies. Empowerment unlocks the capacity to love; it does not guarantee that the capacity is used.
@@ -95,6 +101,7 @@ The fully empowered narcissist is empowered but not loving. The fully empowered 
 ## Downstream (Where Joe Goes From Here)
 
 - Toward [[love-as-deep-welcoming]]: the form of love that empowerment makes possible.
+- Toward [[upright-undefended-love]]: the somatic stance the principle produces in practice.
 - Toward [[helplessness-is-the-gateway]]: the path to the empowerment that unlocks love.
 - Toward [[empowered-vs-power]]: the distinction at the heart of what empowerment is.
 - Toward [[fear-is-about-feeling]]: what the fear of loss is actually pointing at.

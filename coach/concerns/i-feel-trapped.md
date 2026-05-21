@@ -91,6 +91,7 @@ The trapped stance is not just a misperception. It is an active organization of 
 
 - [[i-dont-have-time-for-this]]: the "trapped" stance applied to whether transformation work is available right now.
 - [[i-have-to-sacrifice-to-succeed]]: the "trapped" stance applied to success.
+- [[i-freeze-around-authority]]: the "trapped" stance localized to specific authority figures, almost always a transferred parental pattern.
 
 ## Sources
 

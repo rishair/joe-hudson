@@ -58,8 +58,12 @@
   ],
   "i-feel-trapped": [
     "i-dont-have-time-for-this",
+    "i-freeze-around-authority",
     "i-have-to-sacrifice-to-succeed",
     "im-afraid-of-stagnating",
+    "disassociating-in-the-coaching-room",
+    "fight-or-roll-over-binary",
+    "in-the-story-im-not-being-seen",
     "what-if-you-acted-exactly-how-you-want",
     "victim-stance-invites-abuse"
   ],
@@ -121,10 +125,18 @@
     "mandela-empowerment",
     "subway-kid"
   ],
-  "i-have-no-choice": [
-    "i-have-to-sacrifice-to-succeed"
+  "i-freeze-around-authority": [
+    "i-feel-trapped",
+    "disassociating-in-the-coaching-room",
+    "fight-or-roll-over-binary",
+    "in-the-story-im-not-being-seen",
+    "upright-undefended-love",
+    "childhood-imprinting",
+    "become-the-authority-figure",
+    "mirror-the-judgment"
   ],
   "childhood-imprinting": [
+    "i-freeze-around-authority",
     "i-have-to-sacrifice-to-succeed",
     "money-is-bad",
     "feeling-the-unfelt-emotion",
@@ -138,6 +150,49 @@
     "joes-abandonment-mapping",
     "joes-crying-story",
     "joes-pleasing-dad-money-story"
+  ],
+  "in-the-story-im-not-being-seen": [
+    "i-freeze-around-authority",
+    "how-is-that-not-true-about-you",
+    "what-if-they-did-see-you",
+    "being-heard",
+    "calibrate-the-threshold",
+    "mirror-the-judgment"
+  ],
+  "fight-or-roll-over-binary": [
+    "i-freeze-around-authority",
+    "upright-undefended-love",
+    "binary-thinking-signals-fear",
+    "become-the-authority-figure",
+    "calibrate-the-threshold",
+    "empowered-vs-power"
+  ],
+  "disassociating-in-the-coaching-room": [
+    "i-freeze-around-authority"
+  ],
+  "upright-undefended-love": [
+    "i-freeze-around-authority",
+    "fight-or-roll-over-binary",
+    "defense",
+    "binary-thinking-signals-fear",
+    "childhood-imprinting",
+    "become-the-authority-figure",
+    "empowered-vs-power",
+    "love-requires-empowerment"
+  ],
+  "become-the-authority-figure": [
+    "i-freeze-around-authority",
+    "fight-or-roll-over-binary",
+    "upright-undefended-love"
+  ],
+  "i-should-be-doing-this": [
+    "i-freeze-around-authority",
+    "i-need-to-improve-myself",
+    "money-as-surrogate",
+    "wants-over-shoulds"
+  ],
+  "i-have-no-choice": [
+    "i-have-to-sacrifice-to-succeed"
   ],
   "art-of-accomplishment": [
     "i-have-to-sacrifice-to-succeed",
@@ -189,11 +244,6 @@
     "improvement-vs-authenticity",
     "connection-over-perfection",
     "inherent-goodness",
-    "wants-over-shoulds"
-  ],
-  "i-should-be-doing-this": [
-    "i-need-to-improve-myself",
-    "money-as-surrogate",
     "wants-over-shoulds"
   ],
   "perfectionism": [
@@ -471,6 +521,12 @@
   "money-domain": [
     "money-is-bad"
   ],
+  "binary-thinking-signals-fear": [
+    "fight-or-roll-over-binary",
+    "three-signals-of-unfelt-emotion",
+    "feel-over-figure",
+    "decisions-are-emotional"
+  ],
   "resistance": [
     "how-much-fight",
     "expanding-sense-of-self",
@@ -543,6 +599,10 @@
     "how-do-you-want-to-be",
     "vulnerability",
     "vulnerability-is-personal"
+  ],
+  "mirror-the-judgment": [
+    "how-is-that-not-true-about-you",
+    "what-if-they-did-see-you"
   ],
   "wonder": [
     "what-am-i",
@@ -730,6 +790,7 @@
     "loving-to-transform",
     "defense",
     "love-as-deep-welcoming",
+    "upright-undefended-love",
     "defense-vs-love",
     "just-business-vs-impersonal",
     "love-vs-nice",
@@ -1023,6 +1084,7 @@
   "defense": [
     "heartbreak-as-capacity-expansion",
     "love-as-deep-welcoming",
+    "upright-undefended-love",
     "boundary-with-vs-boundary-against",
     "just-business-vs-impersonal",
     "hardening-means-personal",
@@ -1093,6 +1155,7 @@
   ],
   "love-requires-empowerment": [
     "love-as-deep-welcoming",
+    "upright-undefended-love",
     "joes-board-member"
   ],
   "if-i-had-more-money": [
@@ -1240,11 +1303,6 @@
     "five-principles-of-the-path",
     "view",
     "pow-optimist"
-  ],
-  "binary-thinking-signals-fear": [
-    "three-signals-of-unfelt-emotion",
-    "feel-over-figure",
-    "decisions-are-emotional"
   ],
   "trauma-heals-in-relationship": [
     "excavating-the-inner-critic-in-group"

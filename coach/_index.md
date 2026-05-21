@@ -4,6 +4,7 @@
 
 - i-dont-have-time-for-this I don't have time for this (also: I just need to get a paycheck, this art stuff is a luxury, I don't have the runway for personal development, I just need to make money now, no time for self-work)
 - i-feel-trapped I feel trapped / They have power over me (also: I have no choice, they control me, I can't do anything, I'm stuck, I'm subjugated, the system has power over me, I'm a victim of circumstances)
+- i-freeze-around-authority I freeze around authority figures (also: I freeze around my boss, authority figures shut me down, I can't be myself around my boss, I freeze around men like my father, I shut down with authority, they remind me of my father, I either want to fight or roll over)
 - i-have-to-sacrifice-to-succeed I have to sacrifice to succeed (also: sacrifice for success, grind required, you have to suffer to make it, real success requires giving things up, I had to cut off parts of myself)
 - i-need-to-improve-myself I need to improve myself (also: self-improvement, I have to be better, I need to fix this about myself, improving myself, I keep working on myself, constant self-improvement, I'm always trying to improve, I have a long list of things to work on)
 - i-should-be-doing-this I should be doing this / I shouldn't be doing this (also: the should concern, I know I should, I keep telling myself I should, should language, I shouldn't be eating this, obligation language, I have to)
@@ -14,12 +15,17 @@
 
 ## Reads
 
+- disassociating-in-the-coaching-room Disassociating in the Coaching Room (also: disassociating live, the look away, losing connection mid-session, mild dissociation, stopping looking at me, leaving the room)
+- fight-or-roll-over-binary The Fight-or-Roll-Over Binary (also: fight or roll over, fight or submit, binary stance with authority, I either fight or roll over, fight or surrender binary, rebellion or submission stance)
 - how-much-fight How Much Fight Is in a Person (also: fight level, reading the fight in someone, amount of battle, fight in the system, how much war)
+- in-the-story-im-not-being-seen In the Story 'I'm Not Being Seen' (also: the I'm not being seen story, not being seen as cover, blaming others for not seeing me, the unseen story, I just want to be seen)
 
 ## Questions
 
 - how-do-you-want-to-be How do you want to be? (also: how do you want to be when you grow up, how vs what question, how do you want to live, the how question, how question instead of what)
+- how-is-that-not-true-about-you How is that not true about you? (also: the mirror question, how is that not you, how is that not also true of you, the projection question)
 - what-am-i What am I? (also: what am I question, the what am I inquiry, what are you, self-inquiry question, non-dual question)
+- what-if-they-did-see-you What if they did see you and you can't recognize it? (also: what if they actually see you, what if you can't recognize being seen, the inversion question, what if the opposite is true)
 - what-if-you-acted-exactly-how-you-want What if you acted exactly how you want to act and saw what happens? (also: what if you acted exactly how you want, the empowerment question, act how you want and see, stop compromising your truth question)
 - what-is-it-without-resistance What is it without resistance in it? (also: feel it without resistance, what happens without the resistance, what does X become without resistance, remove the resistance from the feeling)
 
@@ -68,6 +74,7 @@
 - trauma-mapping Trauma Mapping (also: mapping, attracting trauma, recreating trauma patterns, addiction to trauma)
 - undoing-not-doing Undoing, Not Doing (also: undoing not doing, transformation is undoing, an undoing not a doing, release the false to find what is, you don't need to add anything, annihilation, what cannot be annihilated)
 - unfelt-emotion-leaks Unfelt Emotion Leaks (also: unfelt emotion comes out sideways, the leak, emotion you don't feel comes out at others, anger at someone is unfelt anger, leakage, emotion has to go somewhere)
+- upright-undefended-love Upright Undefended Love (also: empowered love, love that doesn't submit, upright love, non-submissive love, non-falling-forward love, falling forward love, balance with love, balanced empowered love)
 - vulnerability Vulnerability (also: being vulnerable, speaking your truth, truth even when scared, V in VIEW)
 - wonder Wonder (also: W in VIEW, awe, being in the question, open curiosity, follow your wonder)
 - zen-sickness Zen Sickness (also: depersonalization as awakening, depersonalization disorder, resisted awakening, identity dissolution)
@@ -93,8 +100,11 @@
 
 ## Moves
 
+- become-the-authority-figure Become the Authority Figure (also: role-play the authority, I'll be your boss, live role-play, stand in for the trigger, be the dad, role-play move)
+- calibrate-the-threshold Calibrate the Threshold (also: ask for the percentage, what percentage, how much fight, numerical calibration, threshold question, make it specific)
 - excavating-the-inner-critic-in-group Excavating the Inner Critic in Group (also: listing the voice on the wall, inner critic exercise, making shame visible)
 - find-the-want-behind-the-should Find the Want Behind the Should (also: locate the want under the should, what do you actually want here, translate the should, the want behind it)
+- mirror-the-judgment Mirror the Judgment Back (also: how is that not true about you, mirror move, turn the judgment around, the projection mirror, judgment mirror)
 - not-sometimes-right-now Not Sometimes, Right Now (also: bring it into the present, feel it now, right now not abstract, stop talking about it and feel it)
 - owning-your-partiality Owning Your Partiality (also: calling out your own agenda, naming your partiality, apologizing for fixing, I notice I'm trying to fix you)
 - treat-yourself-as-actor-of-emotion Treat Yourself as an Actor of the Emotion (also: actor metaphor for emotion, you are the actor playing yourself, non-personal emotion, emotion is not personal, actor playing the part, watch the emotion like an actor)
@@ -232,5 +242,5 @@
 
 ---
 
-Absorb Progress: 20 / 480 transcripts
-Last absorbed: 2021-05-07_Money Can't Oppress You (2026-05-21)
+Absorb Progress: 21 / 480 transcripts
+Last absorbed: 2021-05-21_Father Figures and Authority (Coaching Session) (2026-05-21)

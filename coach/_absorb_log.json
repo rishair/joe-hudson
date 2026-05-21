@@ -492,8 +492,36 @@
     },
     {
       "folder": "2021-05-21_Father Figures and Authority (Coaching Session)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T19:10:57Z",
+      "articles_created": [
+        "i-freeze-around-authority",
+        "in-the-story-im-not-being-seen",
+        "fight-or-roll-over-binary",
+        "disassociating-in-the-coaching-room",
+        "become-the-authority-figure",
+        "mirror-the-judgment",
+        "calibrate-the-threshold",
+        "how-is-that-not-true-about-you",
+        "what-if-they-did-see-you",
+        "upright-undefended-love"
+      ],
+      "articles_updated": [
+        "childhood-imprinting",
+        "binary-thinking-signals-fear",
+        "empowered-vs-power",
+        "love-requires-empowerment",
+        "defense",
+        "i-feel-trapped",
+        "being-heard"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-21T19:19:55Z"
+    },
+    {
+      "folder": "2021-06-04_The Business Behind our Courses",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T19:20:40Z",
       "articles_created": [],
       "articles_updated": []
     }
