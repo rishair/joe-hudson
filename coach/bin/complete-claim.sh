@@ -26,24 +26,61 @@ while ! mkdir "$LOCKDIR" 2>/dev/null; do
 done
 trap 'rmdir "$LOCKDIR" 2>/dev/null' EXIT
 
-python3 << PYEOF
-import json, datetime
+# Pass values via environment so Python doesn't do string-substitution
+# on user input — safer for folder names containing quotes, em-dashes,
+# non-breaking spaces, or other characters that would break shell quoting.
+export ABSORB_LOG FOLDER TYPE CREATED UPDATED
 
-with open('$ABSORB_LOG') as f:
+python3 - << 'PYEOF' || exit $?
+import json, os, sys, datetime, re
+
+absorb_log = os.environ['ABSORB_LOG']
+folder = os.environ['FOLDER']
+type_ = os.environ['TYPE']
+created = json.loads(os.environ['CREATED'])
+updated = json.loads(os.environ['UPDATED'])
+
+def normalize(s):
+    # Collapse all Unicode whitespace (including U+00A0 non-breaking space)
+    # to a single regular space. Lets callers match a folder name even if
+    # they typed a normal space where the filesystem has a non-breaking one.
+    return re.sub(r'\s+', ' ', s).strip()
+
+with open(absorb_log) as f:
     data = json.load(f)
 
-folder = '''$FOLDER'''
+target_norm = normalize(folder)
+matched = None
+# Pass 1: exact match
 for entry in data['absorbed']:
     if entry['folder'] == folder and entry.get('status') == 'in-progress':
-        entry['status'] = 'complete'
-        entry['type'] = '$TYPE'
-        entry['absorbed_at'] = datetime.datetime.now(datetime.UTC).replace(tzinfo=None).strftime('%Y-%m-%dT%H:%M:%SZ')
-        entry['articles_created'] = json.loads('$CREATED')
-        entry['articles_updated'] = json.loads('$UPDATED')
+        matched = entry
         break
+# Pass 2: whitespace-normalized match (handles nbsp etc.)
+if matched is None:
+    for entry in data['absorbed']:
+        if normalize(entry['folder']) == target_norm and entry.get('status') == 'in-progress':
+            matched = entry
+            break
 
-with open('$ABSORB_LOG', 'w') as f:
-    json.dump(data, f, indent=2)
+if matched is None:
+    print(f"ERROR: no in-progress entry matching {folder!r}", file=sys.stderr)
+    # Show in-progress entries for diagnosis
+    in_progress = [e['folder'] for e in data['absorbed'] if e.get('status') == 'in-progress']
+    if in_progress:
+        print(f"Current in-progress entries:", file=sys.stderr)
+        for f in in_progress:
+            print(f"  {f!r}", file=sys.stderr)
+    sys.exit(1)
+
+matched['status'] = 'complete'
+matched['type'] = type_
+matched['absorbed_at'] = datetime.datetime.now(datetime.UTC).replace(tzinfo=None).strftime('%Y-%m-%dT%H:%M:%SZ')
+matched['articles_created'] = created
+matched['articles_updated'] = updated
+
+with open(absorb_log, 'w') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
+
+print(f"OK: {matched['folder']!r} marked complete")
 PYEOF
-
-echo "OK: $FOLDER marked complete"
