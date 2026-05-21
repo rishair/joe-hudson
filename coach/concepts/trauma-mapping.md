@@ -5,7 +5,7 @@ title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma"]
 tags: ["trauma", "attachment", "patterns", "repetition"]
 related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1"]
 ---
 
 # Trauma Mapping
@@ -31,6 +31,14 @@ The pattern dissolves when the emotion suppressed during the original trauma is 
 
 "If they get to a point where they can look forward to that emotion, that underlying emotion, and actually invite it and feel it and process it in a container, particularly in a container of love, then that's the moment they stop attracting or going towards the same trauma in their life." -- Joe Hudson, A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 
+## Trauma Mapping and Presence
+
+When trauma is active, the person is not fully present. They are with the people and situations from the original wound, not the person in front of them. War veterans experience this acutely (believing they are in combat while on their sofa), but it happens in minor forms constantly. A person whose early experience included criticism from a caregiver will hear criticism from a partner even when none is intended. They are not hearing the partner. They are hearing the original caregiver.
+
+This absence of presence is one of two reasons people get "duped" in relationships and sales. The other is self-deception: people believe lies that rhyme with truths they want to believe. But in the trauma case, the person literally is not in the same time and space as the interaction.
+
+"When we hear somebody that reminds us of that trauma, then we're not actually hearing them, we're not actually with them, we're with the person or people who helped us get that trauma into our bones." -- Joe Hudson, Introduction to VIEW (Connection Course)
+
 ## Upstream (What Leads Here)
 
 - When someone describes repeating the same relational pattern despite awareness
@@ -46,3 +54,4 @@ The pattern dissolves when the emotion suppressed during the original trauma is 
 ## Sources
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
+- 2020-10-26_Introduction to VIEW -- Connection Course Series #1

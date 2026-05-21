@@ -5,7 +5,7 @@ title: "Decisions Are Emotional"
 aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
 related: ["view", "empathy"]
-sources: ["2020-10-26_Introduction to VIEW"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4"]
 ---
 
 # Decisions Are Emotional
@@ -26,6 +26,12 @@ This is why [[view]] works in sales, teams, and relationships. VIEW acknowledges
 
 If a Nike ad listed shoe specifications instead of evoking aspiration, it would fail. Conversations work the same way. Information alone does not move people. Emotional experience does.
 
+This is also why people can all agree to something in a meeting and then not do it. Intellectual agreement happened, but emotional resistance was not addressed. Focus groups fail for the same reason: they ask emotional questions through the intellect.
+
+"If I take the emotional center of your brain away, you cease to make decisions. It would take you half an hour to decide what color pen." -- Joe Hudson, Empathy
+
+Being with all emotions, welcoming them rather than avoiding them, transforms decision-making. Much of life is decided by "I don't want to feel like a failure" or "I want to feel like a success." When emotions stop being threats and become information, decisions become clearer and freer. See [[empathy]].
+
 ## Upstream (What Leads Here)
 
 - When someone believes logic alone should drive a decision and is frustrated that people are not responding to their arguments.
@@ -39,3 +45,5 @@ If a Nike ad listed shoe specifications instead of evoking aspiration, it would 
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
+- 2020-10-26_Introduction to VIEW -- Connection Course Series #1
+- 2020-11-06_Empathy -- Connection Course Series #4

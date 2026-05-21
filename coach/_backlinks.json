@@ -1,20 +1,238 @@
 {
-  "container-of-love": ["excavating-the-inner-critic-in-group", "feeling-the-unfelt-emotion", "loving-all-parts", "managing-vs-healing-trauma", "trauma-heals-in-relationship", "trauma-mapping"],
-  "empathy": ["decisions-are-emotional", "empathy", "view", "view-as-technique", "vulnerability"],
-  "feeling-the-unfelt-emotion": ["container-of-love", "familiar-over-safe", "grief-as-gateway-to-self-love", "managing-vs-healing-trauma", "trauma-mapping"],
-  "grief-as-gateway-to-self-love": ["feeling-the-unfelt-emotion", "loving-all-parts"],
-  "how-what-questions": ["view", "wonder"],
-  "impartiality": ["empathy", "view", "view-as-technique", "vulnerability", "wonder"],
-  "late-stage-reversion": ["loving-all-parts"],
-  "loving-all-parts": ["excavating-the-inner-critic-in-group", "grief-as-gateway-to-self-love", "late-stage-reversion"],
-  "managing-vs-healing-trauma": ["grief-as-gateway-to-self-love"],
-  "trauma-heals-in-relationship": ["excavating-the-inner-critic-in-group"],
-  "trauma-mapping": ["container-of-love", "familiar-over-safe", "feeling-the-unfelt-emotion", "grief-as-gateway-to-self-love", "loving-all-parts"],
-  "view": ["decisions-are-emotional", "empathy", "how-what-questions", "impartiality", "vulnerability", "wonder", "wonder-vs-curiosity"],
-  "view-as-technique": ["view", "vulnerability"],
-  "vulnerability": ["empathy", "view", "view-as-technique", "vulnerability-vs-weakness"],
-  "vulnerability-vs-weakness": ["vulnerability", "wonder"],
-  "why-questions": ["how-what-questions", "view"],
-  "wonder": ["empathy", "how-what-questions", "view", "view-as-technique", "vulnerability", "why-questions"],
-  "wonder-vs-curiosity": ["wonder"]
+  "impartiality": [
+    "fixing-people",
+    "impartial-apathy",
+    "view-as-technique",
+    "empathy",
+    "vulnerability",
+    "wonder",
+    "owning-your-partiality",
+    "caring-vs-caretaking",
+    "short-term-vs-long-term-partiality",
+    "wants-vs-partiality",
+    "fear-is-about-feeling",
+    "process-over-result",
+    "right-question-over-right-answer",
+    "shame-drives-behavior",
+    "what-we-fear-we-invite",
+    "questioning-assumptions",
+    "visualizing-feared-outcomes",
+    "view",
+    "mikey-siegel-pitch"
+  ],
+  "vulnerability": [
+    "fixing-people",
+    "view-as-technique",
+    "wonder-as-strategy",
+    "being-heard",
+    "empathy",
+    "impartiality",
+    "wonder",
+    "believing-the-convenient-lie",
+    "owning-your-partiality",
+    "vulnerability-vs-weakness",
+    "wants-vs-partiality",
+    "view",
+    "mikey-siegel-pitch"
+  ],
+  "wants-vs-partiality": [
+    "fixing-people",
+    "impartial-apathy",
+    "impartiality",
+    "vulnerability",
+    "owning-your-partiality"
+  ],
+  "staying-in-your-body": [
+    "losing-yourself-in-others",
+    "empathy",
+    "emotions-live-in-muscles",
+    "is-this-mine"
+  ],
+  "is-this-mine": [
+    "losing-yourself-in-others"
+  ],
+  "trauma-mapping": [
+    "view-as-technique",
+    "container-of-love",
+    "familiar-over-safe",
+    "feeling-the-unfelt-emotion",
+    "grief-as-gateway-to-self-love",
+    "loving-all-parts",
+    "believing-the-convenient-lie"
+  ],
+  "familiar-over-safe": [
+    "view-as-technique",
+    "shame-drives-behavior",
+    "what-we-fear-we-invite"
+  ],
+  "empathy": [
+    "view-as-technique",
+    "being-heard",
+    "impartiality",
+    "vulnerability",
+    "caring-vs-caretaking",
+    "empathy-vs-sympathy",
+    "decisions-are-emotional",
+    "staying-in-your-body",
+    "view"
+  ],
+  "wonder": [
+    "view-as-technique",
+    "why-questions",
+    "empathy",
+    "vulnerability",
+    "process-over-result",
+    "right-question-over-right-answer",
+    "how-what-questions",
+    "questioning-assumptions",
+    "view"
+  ],
+  "wonder-as-strategy": [
+    "view-as-technique",
+    "wonder"
+  ],
+  "losing-yourself-in-others": [
+    "view-as-technique",
+    "empathy",
+    "empathy-vs-sympathy",
+    "staying-in-your-body"
+  ],
+  "how-what-questions": [
+    "being-heard",
+    "wonder",
+    "view"
+  ],
+  "feeling-the-unfelt-emotion": [
+    "container-of-love",
+    "empathy",
+    "familiar-over-safe",
+    "grief-as-gateway-to-self-love",
+    "trauma-mapping",
+    "managing-vs-healing-trauma",
+    "emotions-live-in-muscles",
+    "fear-is-about-feeling",
+    "visualizing-feared-outcomes",
+    "worthlessness-freedom"
+  ],
+  "caring-vs-caretaking": [
+    "empathy",
+    "empathy-vs-sympathy",
+    "hand-in-hand-parenting"
+  ],
+  "empathy-vs-sympathy": [
+    "empathy"
+  ],
+  "view": [
+    "empathy",
+    "impartiality",
+    "vulnerability",
+    "wonder",
+    "wonder-vs-curiosity",
+    "decisions-are-emotional",
+    "process-over-result",
+    "how-what-questions"
+  ],
+  "emotions-live-in-muscles": [
+    "empathy"
+  ],
+  "decisions-are-emotional": [
+    "empathy"
+  ],
+  "view-as-technique": [
+    "empathy",
+    "vulnerability",
+    "wonder",
+    "process-over-result",
+    "view"
+  ],
+  "container-of-love": [
+    "feeling-the-unfelt-emotion",
+    "loving-all-parts",
+    "trauma-mapping",
+    "excavating-the-inner-critic-in-group",
+    "managing-vs-healing-trauma",
+    "trauma-heals-in-relationship"
+  ],
+  "grief-as-gateway-to-self-love": [
+    "feeling-the-unfelt-emotion",
+    "loving-all-parts"
+  ],
+  "loving-all-parts": [
+    "grief-as-gateway-to-self-love",
+    "late-stage-reversion",
+    "excavating-the-inner-critic-in-group"
+  ],
+  "managing-vs-healing-trauma": [
+    "grief-as-gateway-to-self-love"
+  ],
+  "shame-drives-behavior": [
+    "impartiality",
+    "wants-vs-partiality",
+    "what-we-fear-we-invite"
+  ],
+  "fear-is-about-feeling": [
+    "impartiality",
+    "short-term-vs-long-term-partiality",
+    "what-we-fear-we-invite"
+  ],
+  "visualizing-feared-outcomes": [
+    "impartiality",
+    "fear-is-about-feeling"
+  ],
+  "owning-your-partiality": [
+    "impartiality",
+    "vulnerability",
+    "fear-is-about-feeling",
+    "view"
+  ],
+  "what-we-fear-we-invite": [
+    "impartiality",
+    "fear-is-about-feeling"
+  ],
+  "short-term-vs-long-term-partiality": [
+    "impartiality"
+  ],
+  "fixing-people": [
+    "impartiality",
+    "owning-your-partiality",
+    "caring-vs-caretaking",
+    "shame-drives-behavior",
+    "view"
+  ],
+  "impartial-apathy": [
+    "impartiality",
+    "view"
+  ],
+  "late-stage-reversion": [
+    "loving-all-parts"
+  ],
+  "vulnerability-vs-weakness": [
+    "vulnerability"
+  ],
+  "questioning-assumptions": [
+    "wonder"
+  ],
+  "right-question-over-right-answer": [
+    "wonder"
+  ],
+  "wonder-vs-curiosity": [
+    "wonder"
+  ],
+  "trauma-heals-in-relationship": [
+    "excavating-the-inner-critic-in-group"
+  ],
+  "process-over-result": [
+    "short-term-vs-long-term-partiality",
+    "view"
+  ],
+  "knowing|knowing-as-opposite-of-wonder": [
+    "right-question-over-right-answer"
+  ],
+  "why-questions": [
+    "how-what-questions",
+    "view"
+  ],
+  "being-heard": [
+    "view"
+  ]
 }

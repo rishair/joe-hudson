@@ -36,6 +36,90 @@
         "decisions-are-emotional"
       ],
       "articles_updated": []
+    },
+    {
+      "folder": "2020-10-26_Introduction to VIEW — Connection Course Series #1",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T00:00:00Z",
+      "articles_created": [
+        "being-heard",
+        "process-over-result",
+        "believing-the-convenient-lie"
+      ],
+      "articles_updated": [
+        "view",
+        "view-as-technique",
+        "wonder",
+        "impartiality",
+        "vulnerability",
+        "empathy",
+        "trauma-mapping",
+        "how-what-questions",
+        "decisions-are-emotional",
+        "why-questions",
+        "vulnerability-vs-weakness",
+        "wonder-vs-curiosity"
+      ]
+    },
+    {
+      "folder": "2020-11-04_Wonder — Connection Course Series #2",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T00:00:00Z",
+      "articles_created": [
+        "wonder-as-strategy",
+        "questioning-assumptions",
+        "right-question-over-right-answer",
+        "being-right-college-story"
+      ],
+      "articles_updated": [
+        "wonder",
+        "wonder-vs-curiosity",
+        "view-as-technique"
+      ]
+    },
+    {
+      "folder": "2020-11-05_Impartiality — Connection Course Series #3",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T00:00:00Z",
+      "articles_created": [
+        "shame-drives-behavior",
+        "wants-vs-partiality",
+        "fixing-people",
+        "impartial-apathy",
+        "what-we-fear-we-invite",
+        "fear-is-about-feeling",
+        "visualizing-feared-outcomes",
+        "mikey-siegel-pitch",
+        "owning-your-partiality",
+        "short-term-vs-long-term-partiality"
+      ],
+      "articles_updated": [
+        "impartiality",
+        "view-as-technique",
+        "process-over-result",
+        "owning-your-partiality"
+      ]
+    },
+    {
+      "folder": "2020-11-06_Empathy — Connection Course Series #4",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T00:00:00Z",
+      "articles_created": [
+        "caring-vs-caretaking",
+        "empathy-vs-sympathy",
+        "is-this-mine",
+        "staying-in-your-body",
+        "losing-yourself-in-others",
+        "emotions-live-in-muscles",
+        "hand-in-hand-parenting",
+        "worthlessness-freedom"
+      ],
+      "articles_updated": [
+        "empathy",
+        "decisions-are-emotional",
+        "view-as-technique",
+        "view"
+      ]
     }
   ]
 }

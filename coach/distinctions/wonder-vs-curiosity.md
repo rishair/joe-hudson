@@ -5,7 +5,7 @@ title: "Wonder vs. Curiosity"
 aliases: ["wonder not curiosity", "why wonder instead of curiosity", "open vs narrowing curiosity"]
 tags: ["VIEW", "wonder", "curiosity", "presence"]
 related: ["wonder", "view"]
-sources: ["2020-10-26_Introduction to VIEW"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2"]
 ---
 
 # Wonder vs. Curiosity
@@ -22,12 +22,19 @@ Curiosity sounds like the right word for the W in [[view]]. It is close but not 
 
 "If you just right now think to yourself, oh, what's happening for Brett in this conversation? There's kind of an open expansiveness that happens with that question. But then as soon as you try to figure it out, something constricts." -- Joe Hudson, Introduction to VIEW
 
+Curiosity that is focused on "need the answer, need the answer, need the answer" creates a constriction that others can feel through their mirror neurons. The person being questioned feels probed rather than met. Wonder stays open and the other person's system relaxes.
+
+## The Physical Difference
+
+The distinction is felt in the body. Open curiosity produces expansion. Answer-seeking curiosity produces constriction. Wonder points to the expansive end. The word was chosen to prevent sliding toward the constricted end.
+
 ## Why It Matters
 
 Wonder is the component of VIEW that dissolves fear. A person in genuine wonder cannot simultaneously be in fight-or-flight. This is why wonder was chosen over curiosity for the framework: it points specifically to the state where the question itself relaxes the system, rather than the state where the question drives toward a resolution.
 
-Being with a person who is in wonder about you, who does not need you to solve anything, produces a felt relaxation in the whole system.
+Wonder also propels action differently than curiosity. Curiosity can become analytical and circular. Wonder creates movement, experiment, exploration. People in wonder do not get stuck. They follow the trail of what they do not know and it leads them somewhere new.
 
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
+- 2020-11-04_Wonder -- Connection Course Series #2

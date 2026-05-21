@@ -5,7 +5,7 @@ title: "How and What Questions"
 aliases: ["open-ended questions", "how what questions", "the VIEW technique", "asking how and what"]
 tags: ["VIEW", "technique", "questions", "communication"]
 related: ["view", "wonder", "why-questions"]
-sources: ["2020-10-26_Introduction to VIEW"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1"]
 ---
 
 # How and What Questions
@@ -20,7 +20,9 @@ The primary technique layered on top of [[view]]. The practice is simple: ask qu
 
 How and what questions are open-ended. "Do you like ice cream?" produces yes or no. "How do you feel about ice cream?" might produce a childhood story, a favorite flavor, a dairy allergy, a memory of a pet cow. Open questions yield exponentially more data, which reflects genuine [[wonder]].
 
-They also force reframing. "What is it that's making you such a dick?" is not a question people normally phrase. The unusual structure does something to the listener's neurology. It opens something.
+They also force reframing. "What is it that's making you such a dick?" is not a question people normally phrase. The unusual structure opens something in the listener's neurology. The same reframing works on the asker: translating a closed or judgmental impulse into a how/what question requires finding what you are actually curious about. That search changes the asker's internal state before the question is even spoken.
+
+"How and what questions make you reframe questions in a new way, which triggers your brain. It kind of opens your neurology for a second." -- Joe Hudson, Introduction to VIEW (Connection Course)
 
 ## Why Not "Why"
 
@@ -60,3 +62,4 @@ How and what questions can carry any tone. "What's making you such a dick?" from
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
+- 2020-10-26_Introduction to VIEW -- Connection Course Series #1
