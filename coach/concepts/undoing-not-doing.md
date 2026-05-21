@@ -2,10 +2,10 @@
 type: concept
 id: undoing-not-doing
 title: "Undoing, Not Doing"
-aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything"]
+aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated"]
 tags: ["transformation", "undoing", "method", "release", "concept"]
-related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7"]
 ---
 
 # Undoing, Not Doing
@@ -48,6 +48,16 @@ This is also why effort tends to backfire in transformation work. The effort its
 
 "It's, it's not a doing, it's an undoing. We're just basically learning to undo a whole bunch of training and be in a natural state." -- Joe Hudson, The Art of Accomplishment
 
+## The Annihilation Frame
+
+Pema Chödrön offers a parallel formulation that points at the same movement: constantly offer yourself up to annihilation so you can find out what is the part of you that cannot be annihilated.
+
+"It's basically constantly offer yourself up to annihilation so you can find out what's the part of you that can't be annihilated." -- Joe Hudson, Authenticity over Improvement (citing Pema Chödrön)
+
+What gets annihilated is the things you think you are that you have to defend. The diagnostic for which parts these are is the defense itself. "I don't want to be seen as a hypocrite. I don't want to be seen as helpless. I don't want to be seen as greedy. I don't want to be seen as weak." Each protected self-image is something to be released. What remains after enough release is what was always there. See [[defense-vs-love]] and [[self-realization]].
+
+The annihilation frame is more confrontational than the undoing frame, but it points at the same mechanism. Both describe transformation as subtraction from the false rather than addition to the true.
+
 ## In Practice
 
 The practical questions shift from "what do I need to add?" to "what am I doing that I could stop doing?"
@@ -86,3 +96,4 @@ Quiet, almost casual. Joe presents this as obvious once seen. Not a heroic refra
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2021-03-19_Authenticity over Improvement -- Master Class Series #7

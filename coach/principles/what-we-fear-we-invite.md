@@ -4,8 +4,8 @@ id: what-we-fear-we-invite
 title: "What We Fear, We Invite"
 aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite"]
 tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality"]
-related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7"]
 ---
 
 # What We Fear, We Invite
@@ -34,6 +34,14 @@ The reason avoidance produces the feared thing is that the body keeps generating
 
 Joe's own example: he avoided the feeling of emotional abandonment and then attracted people who would emotionally abandon him, over and over, until he finally welcomed the feeling. After that the recreation stopped. See [[joes-abandonment-mapping]].
 
+## The Stagnation Application
+
+The principle applies to anything feared. Fear of stagnation invites stagnation. The fear creates the constriction that is itself the stagnation.
+
+"We invite the things that we're scared of. The fear of stagnation invites stagnation. The fear of loss invites loss. The fear of abandonment invites abandonment." -- Joe Hudson, Authenticity over Improvement
+
+This is also how the improvement project sustains itself. The person fears not improving, generates an improvement project to avoid stagnation, the rigidity of the project produces the very stagnation feared. The way out is not more improvement. The way out is feeling the fear of stagnation, which dissolves the constriction. See [[im-afraid-of-stagnating]].
+
 ## The Way Out
 
 The only way out of the loop is feeling the avoided emotion. See [[feeling-the-unfelt-emotion]]. Once the body has felt the emotion fully and welcomed it, there is no need to keep generating opportunities to feel it. Homeostasis is restored. The pattern dissolves.
@@ -54,3 +62,4 @@ The only way out of the loop is feeling the avoided emotion. See [[feeling-the-u
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-03-19_Authenticity over Improvement -- Master Class Series #7

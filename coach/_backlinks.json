@@ -42,11 +42,15 @@
     "art-of-accomplishment",
     "enjoyment-as-path",
     "butchers-blade",
-    "sleep-deprived-soldier"
+    "buurtzorg-nursing",
+    "sleep-deprived-soldier",
+    "authenticity-in-business"
   ],
   "i-have-to-sacrifice-to-succeed": [
     "i-dont-have-time-for-this",
     "i-feel-trapped",
+    "i-need-to-improve-myself",
+    "im-afraid-of-stagnating",
     "art-of-accomplishment",
     "victim-stance-invites-abuse",
     "mandela-empowerment"
@@ -54,6 +58,7 @@
   "i-feel-trapped": [
     "i-dont-have-time-for-this",
     "i-have-to-sacrifice-to-succeed",
+    "im-afraid-of-stagnating",
     "what-if-you-acted-exactly-how-you-want",
     "victim-stance-invites-abuse"
   ],
@@ -92,6 +97,7 @@
     "what-if-you-acted-exactly-how-you-want",
     "vulnerability",
     "quit-hope-lose-cycle",
+    "rebellion-or-submission-to-should",
     "acting-as-if-already-true",
     "feared-consequences-rarely-happen",
     "helplessness-is-the-gateway",
@@ -118,12 +124,14 @@
   "childhood-imprinting": [
     "i-have-to-sacrifice-to-succeed",
     "feeling-the-unfelt-emotion",
+    "the-want",
     "impulse-to-should",
     "perfectionism",
     "pleasure-capacity",
     "inherent-goodness",
     "joes-abandonment-mapping",
-    "joes-crying-story"
+    "joes-crying-story",
+    "joes-pleasing-dad-money-story"
   ],
   "art-of-accomplishment": [
     "i-have-to-sacrifice-to-succeed",
@@ -144,21 +152,31 @@
     "art-of-accomplishment",
     "enjoyment-as-path",
     "goal-beyond-the-goal",
-    "subway-kid"
+    "subway-kid",
+    "authenticity-in-business"
   ],
   "inherent-goodness": [
     "i-have-to-sacrifice-to-succeed",
+    "i-need-to-improve-myself",
+    "i-should-be-doing-this",
+    "ill-become-lazy-without-shoulds",
     "art-of-accomplishment",
+    "self-realization",
+    "should-as-threat",
     "undoing-not-doing",
+    "rebellion-or-submission-to-should",
     "defense-vs-love",
     "enjoy-over-manage",
     "improvement-vs-authenticity",
     "connection-over-perfection",
+    "nature-improves-itself",
     "wants-over-shoulds",
-    "seven-limiting-beliefs"
+    "seven-limiting-beliefs",
+    "musk-deer-parable"
   ],
   "seven-limiting-beliefs": [
     "i-have-to-sacrifice-to-succeed",
+    "i-need-to-improve-myself",
     "art-of-accomplishment",
     "undoing-not-doing",
     "defense-vs-love",
@@ -166,6 +184,205 @@
     "connection-over-perfection",
     "inherent-goodness",
     "wants-over-shoulds"
+  ],
+  "i-should-be-doing-this": [
+    "i-need-to-improve-myself",
+    "wants-over-shoulds"
+  ],
+  "perfectionism": [
+    "i-need-to-improve-myself",
+    "art-of-accomplishment",
+    "resistance",
+    "should-as-threat",
+    "undoing-not-doing",
+    "impulse-to-should",
+    "improvement-vs-authenticity",
+    "intention-vs-goal",
+    "trying-vs-doing",
+    "connection-over-perfection",
+    "efficiency-as-enjoyment",
+    "wants-over-shoulds",
+    "seven-limiting-beliefs"
+  ],
+  "improvement-vs-authenticity": [
+    "i-need-to-improve-myself",
+    "how-do-you-want-to-be",
+    "tools-to-change-not-love",
+    "self-realization",
+    "inherent-goodness",
+    "nature-improves-itself",
+    "wanting-itself-not-what-you-want",
+    "dont-improve-for-two-weeks",
+    "seven-limiting-beliefs",
+    "buurtzorg-nursing",
+    "joes-godson-vape-pen",
+    "joes-hacky-sack",
+    "musk-deer-parable",
+    "authenticity-in-business"
+  ],
+  "performing-growth": [
+    "i-need-to-improve-myself",
+    "tools-to-change-not-love"
+  ],
+  "shame-drives-behavior": [
+    "i-need-to-improve-myself",
+    "i-should-be-doing-this",
+    "im-afraid-of-stagnating",
+    "impartiality",
+    "resistance",
+    "should-as-threat",
+    "negative-self-reinforcement",
+    "perfectionism",
+    "rebellion-or-submission-to-should",
+    "defense-vs-love",
+    "empowered-vs-power",
+    "improvement-vs-authenticity",
+    "past-shame-vs-current-shame",
+    "wants-vs-partiality",
+    "helplessness-is-the-gateway",
+    "inherent-goodness",
+    "wants-over-shoulds",
+    "what-we-fear-we-invite",
+    "fear-triangle",
+    "seven-limiting-beliefs",
+    "joes-26-year-old-list",
+    "joes-pot-habit"
+  ],
+  "musk-deer-parable": [
+    "i-need-to-improve-myself",
+    "self-realization",
+    "wanting-itself-not-what-you-want"
+  ],
+  "self-realization": [
+    "i-need-to-improve-myself",
+    "im-afraid-of-stagnating",
+    "what-am-i",
+    "tools-to-change-not-love",
+    "undoing-not-doing",
+    "improvement-vs-authenticity",
+    "musk-deer-parable"
+  ],
+  "what-am-i": [
+    "i-need-to-improve-myself",
+    "how-do-you-want-to-be",
+    "self-realization",
+    "musk-deer-parable"
+  ],
+  "im-afraid-of-stagnating": [
+    "i-need-to-improve-myself",
+    "nature-improves-itself",
+    "wanting-itself-not-what-you-want",
+    "what-we-fear-we-invite",
+    "dont-improve-for-two-weeks"
+  ],
+  "nature-improves-itself": [
+    "i-need-to-improve-myself",
+    "im-afraid-of-stagnating",
+    "improvement-vs-authenticity",
+    "dont-improve-for-two-weeks",
+    "buurtzorg-nursing",
+    "joes-godson-vape-pen",
+    "joes-hacky-sack"
+  ],
+  "tools-to-change-not-love": [
+    "i-need-to-improve-myself",
+    "improvement-vs-authenticity"
+  ],
+  "joes-godson-vape-pen": [
+    "i-need-to-improve-myself",
+    "joes-hacky-sack"
+  ],
+  "dont-improve-for-two-weeks": [
+    "i-need-to-improve-myself",
+    "im-afraid-of-stagnating",
+    "improvement-vs-authenticity",
+    "nature-improves-itself"
+  ],
+  "ill-become-lazy-without-shoulds": [
+    "i-need-to-improve-myself",
+    "i-should-be-doing-this",
+    "im-afraid-of-stagnating",
+    "inherent-goodness",
+    "nature-improves-itself",
+    "wants-over-shoulds",
+    "dont-improve-for-two-weeks"
+  ],
+  "rebellion-or-submission-to-should": [
+    "i-should-be-doing-this",
+    "should-as-threat",
+    "find-the-want-behind-the-should"
+  ],
+  "the-want": [
+    "i-should-be-doing-this",
+    "ill-become-lazy-without-shoulds",
+    "impulse-to-should",
+    "find-the-want-behind-the-should",
+    "wanting-vs-craving",
+    "owning-the-want-dissolves-it",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "listening-to-impulse",
+    "joes-godson-vape-pen"
+  ],
+  "wants-over-shoulds": [
+    "i-should-be-doing-this",
+    "what-if-you-acted-exactly-how-you-want",
+    "should-as-threat",
+    "the-want",
+    "impulse-to-should",
+    "quit-hope-lose-cycle",
+    "rebellion-or-submission-to-should",
+    "improvement-vs-authenticity",
+    "enjoyment-as-path",
+    "nature-improves-itself",
+    "shame-drives-behavior",
+    "dont-improve-for-two-weeks",
+    "seven-limiting-beliefs",
+    "joes-26-year-old-list",
+    "joes-godson-vape-pen"
+  ],
+  "should-as-threat": [
+    "i-should-be-doing-this",
+    "impulse-to-should",
+    "rebellion-or-submission-to-should",
+    "find-the-want-behind-the-should",
+    "wants-over-shoulds"
+  ],
+  "find-the-want-behind-the-should": [
+    "i-should-be-doing-this",
+    "impulse-to-should",
+    "rebellion-or-submission-to-should",
+    "wants-over-shoulds",
+    "joes-godson-vape-pen",
+    "joes-pleasing-dad-money-story"
+  ],
+  "wanting-vs-craving": [
+    "i-should-be-doing-this",
+    "ill-become-lazy-without-shoulds",
+    "state-seeking",
+    "the-want",
+    "intention-vs-goal",
+    "wants-vs-partiality",
+    "owning-the-want-dissolves-it",
+    "wanting-itself-not-what-you-want",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "feeling-the-want-as-emotion"
+  ],
+  "i-need-to-improve-myself": [
+    "i-should-be-doing-this",
+    "im-afraid-of-stagnating"
+  ],
+  "what-we-fear-we-invite": [
+    "im-afraid-of-stagnating",
+    "impartiality",
+    "trauma-mapping",
+    "fear-is-about-feeling",
+    "feared-consequences-rarely-happen",
+    "helplessness-is-the-gateway",
+    "victim-stance-invites-abuse",
+    "vulnerability-protects",
+    "joes-abandonment-mapping"
   ],
   "resistance": [
     "how-much-fight",
@@ -201,12 +418,53 @@
     "five-principles-of-the-path",
     "joes-pot-habit"
   ],
-  "wants-over-shoulds": [
-    "what-if-you-acted-exactly-how-you-want",
-    "quit-hope-lose-cycle",
+  "enjoy-over-manage": [
+    "how-do-you-want-to-be",
+    "art-of-accomplishment",
+    "resistance",
+    "pleasure-capacity",
+    "trying-vs-doing",
+    "consciousness-is-the-product",
+    "efficiency-as-enjoyment",
+    "inherent-goodness",
+    "process-over-result",
+    "listening-to-impulse",
+    "butchers-blade",
+    "creative-career-story"
+  ],
+  "listening-to-impulse": [
+    "how-do-you-want-to-be",
+    "the-want",
+    "enjoy-over-manage",
     "improvement-vs-authenticity",
-    "enjoyment-as-path",
-    "seven-limiting-beliefs"
+    "nature-improves-itself",
+    "process-over-result",
+    "wants-deepen-as-you-follow-them",
+    "dont-improve-for-two-weeks",
+    "butchers-blade",
+    "joes-hacky-sack"
+  ],
+  "what-do-you-want": [
+    "how-do-you-want-to-be"
+  ],
+  "whats-the-scary-truth": [
+    "how-do-you-want-to-be",
+    "vulnerability",
+    "vulnerability-is-personal"
+  ],
+  "wonder": [
+    "what-am-i",
+    "view-as-technique",
+    "why-questions",
+    "empathy",
+    "self-realization",
+    "vulnerability",
+    "process-over-result",
+    "right-question-over-right-answer",
+    "how-what-questions",
+    "questioning-assumptions",
+    "five-principles-of-the-path",
+    "view"
   ],
   "not-sometimes-right-now": [
     "what-is-it-without-resistance"
@@ -241,8 +499,10 @@
     "emotions-live-in-muscles",
     "fear-is-about-feeling",
     "helplessness-is-the-gateway",
+    "owning-the-want-dissolves-it",
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
+    "feeling-the-want-as-emotion",
     "visualizing-feared-outcomes",
     "stages-of-emotional-development",
     "joes-abandonment-mapping",
@@ -346,6 +606,7 @@
     "impartiality",
     "vulnerability",
     "owning-your-partiality",
+    "owning-the-want-dissolves-it",
     "selfishness-is-the-engine-of-unity"
   ],
   "staying-in-your-body": [
@@ -374,8 +635,39 @@
     "consciousness-is-the-product",
     "efficiency-as-enjoyment",
     "embrace-intensity",
+    "nature-improves-itself",
     "wants-over-shoulds",
     "five-principles-of-the-path"
+  ],
+  "state-seeking": [
+    "tools-to-change-not-love",
+    "self-realization",
+    "wanting-vs-craving",
+    "musk-deer-parable"
+  ],
+  "view-as-technique": [
+    "tools-to-change-not-love",
+    "empathy",
+    "vulnerability",
+    "wonder",
+    "process-over-result",
+    "view"
+  ],
+  "loving-all-parts": [
+    "tools-to-change-not-love",
+    "grief-as-gateway-to-self-love",
+    "late-stage-reversion",
+    "excavating-the-inner-critic-in-group",
+    "improvement-vs-authenticity"
+  ],
+  "undoing-not-doing": [
+    "tools-to-change-not-love",
+    "art-of-accomplishment",
+    "self-realization",
+    "trying-vs-doing",
+    "nature-improves-itself",
+    "hands-together-exercise",
+    "seven-limiting-beliefs"
   ],
   "trauma-mapping": [
     "view-as-technique",
@@ -408,18 +700,6 @@
     "five-principles-of-the-path",
     "view"
   ],
-  "wonder": [
-    "view-as-technique",
-    "why-questions",
-    "empathy",
-    "vulnerability",
-    "process-over-result",
-    "right-question-over-right-answer",
-    "how-what-questions",
-    "questioning-assumptions",
-    "five-principles-of-the-path",
-    "view"
-  ],
   "wonder-as-strategy": [
     "view-as-technique",
     "wonder"
@@ -438,6 +718,7 @@
   ],
   "intention-vs-goal": [
     "art-of-accomplishment",
+    "wanting-vs-craving",
     "goal-beyond-the-goal",
     "pow-optimist",
     "tennis-quarter"
@@ -450,41 +731,10 @@
     "acting-as-if-already-true",
     "process-over-result"
   ],
-  "undoing-not-doing": [
-    "art-of-accomplishment",
-    "trying-vs-doing",
-    "hands-together-exercise",
-    "seven-limiting-beliefs"
-  ],
   "hands-together-exercise": [
     "art-of-accomplishment",
     "undoing-not-doing",
     "trying-vs-doing"
-  ],
-  "perfectionism": [
-    "art-of-accomplishment",
-    "resistance",
-    "undoing-not-doing",
-    "impulse-to-should",
-    "improvement-vs-authenticity",
-    "intention-vs-goal",
-    "trying-vs-doing",
-    "connection-over-perfection",
-    "efficiency-as-enjoyment",
-    "seven-limiting-beliefs"
-  ],
-  "enjoy-over-manage": [
-    "art-of-accomplishment",
-    "resistance",
-    "pleasure-capacity",
-    "trying-vs-doing",
-    "consciousness-is-the-product",
-    "efficiency-as-enjoyment",
-    "inherent-goodness",
-    "process-over-result",
-    "listening-to-impulse",
-    "butchers-blade",
-    "creative-career-story"
   ],
   "integration": [
     "container-of-love",
@@ -523,16 +773,11 @@
     "epiphany-vs-transformation",
     "feel-over-figure"
   ],
-  "view-as-technique": [
-    "empathy",
-    "vulnerability",
-    "wonder",
-    "process-over-result",
-    "view"
-  ],
   "selfishness-is-the-engine-of-unity": [
     "expanding-sense-of-self",
+    "the-want",
     "improvement-vs-authenticity",
+    "wants-deepen-as-you-follow-them",
     "wants-over-shoulds"
   ],
   "container-of-love": [
@@ -562,6 +807,7 @@
   "daily-emotional-yoga": [
     "feeling-the-unfelt-emotion",
     "emotions-live-in-muscles",
+    "feeling-the-want-as-emotion",
     "stages-of-emotional-development",
     "joes-crying-story"
   ],
@@ -610,31 +856,8 @@
     "dont-do-emotion-at-people",
     "daily-emotional-yoga"
   ],
-  "loving-all-parts": [
-    "grief-as-gateway-to-self-love",
-    "late-stage-reversion",
-    "excavating-the-inner-critic-in-group"
-  ],
   "managing-vs-healing-trauma": [
     "grief-as-gateway-to-self-love"
-  ],
-  "shame-drives-behavior": [
-    "impartiality",
-    "resistance",
-    "negative-self-reinforcement",
-    "perfectionism",
-    "defense-vs-love",
-    "empowered-vs-power",
-    "improvement-vs-authenticity",
-    "past-shame-vs-current-shame",
-    "wants-vs-partiality",
-    "helplessness-is-the-gateway",
-    "inherent-goodness",
-    "wants-over-shoulds",
-    "what-we-fear-we-invite",
-    "fear-triangle",
-    "seven-limiting-beliefs",
-    "joes-pot-habit"
   ],
   "visualizing-feared-outcomes": [
     "impartiality",
@@ -645,16 +868,6 @@
     "vulnerability",
     "fear-is-about-feeling",
     "view"
-  ],
-  "what-we-fear-we-invite": [
-    "impartiality",
-    "trauma-mapping",
-    "fear-is-about-feeling",
-    "feared-consequences-rarely-happen",
-    "helplessness-is-the-gateway",
-    "victim-stance-invites-abuse",
-    "vulnerability-protects",
-    "joes-abandonment-mapping"
   ],
   "short-term-vs-long-term-partiality": [
     "impartiality"
@@ -675,6 +888,7 @@
   ],
   "zen-sickness": [
     "integration",
+    "self-realization",
     "undoing-not-doing"
   ],
   "epiphany-vs-transformation": [
@@ -714,6 +928,40 @@
     "shame-drives-behavior",
     "joes-pot-habit"
   ],
+  "defense-vs-love": [
+    "self-realization",
+    "undoing-not-doing",
+    "inherent-goodness",
+    "seven-limiting-beliefs"
+  ],
+  "expanding-sense-of-self": [
+    "self-realization"
+  ],
+  "feeling-the-want-as-emotion": [
+    "the-want",
+    "wanting-vs-craving",
+    "owning-the-want-dissolves-it"
+  ],
+  "wants-deepen-as-you-follow-them": [
+    "the-want",
+    "find-the-want-behind-the-should",
+    "improvement-vs-authenticity",
+    "wanting-vs-craving",
+    "owning-the-want-dissolves-it",
+    "selfishness-is-the-engine-of-unity",
+    "wanting-itself-not-what-you-want"
+  ],
+  "owning-the-want-dissolves-it": [
+    "the-want",
+    "find-the-want-behind-the-should",
+    "wanting-vs-craving",
+    "wants-vs-partiality",
+    "selfishness-is-the-engine-of-unity",
+    "wanting-itself-not-what-you-want",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "feeling-the-want-as-emotion"
+  ],
   "trying-vs-doing": [
     "undoing-not-doing"
   ],
@@ -739,6 +987,7 @@
   "vulnerability-in-the-workplace": [
     "vulnerability",
     "consciousness-is-the-product",
+    "authenticity-in-business",
     "structure-and-empowerment"
   ],
   "vulnerability-vs-weakness": [
@@ -747,10 +996,6 @@
   "vulnerability-is-personal": [
     "vulnerability",
     "whats-the-scary-truth"
-  ],
-  "whats-the-scary-truth": [
-    "vulnerability",
-    "vulnerability-is-personal"
   ],
   "questioning-assumptions": [
     "wonder"
@@ -767,6 +1012,9 @@
   ],
   "impulse-to-should": [
     "perfectionism",
+    "find-the-want-behind-the-should",
+    "wants-over-shoulds",
+    "listening-to-impulse",
     "seven-limiting-beliefs"
   ],
   "process-over-result": [
@@ -774,10 +1022,12 @@
     "enjoy-over-manage",
     "intention-vs-goal",
     "short-term-vs-long-term-partiality",
+    "wanting-vs-craving",
     "awareness-as-change-agent",
     "connection-over-perfection",
     "enjoyment-as-path",
     "principles-free-you",
+    "wanting-itself-not-what-you-want",
     "listening-to-impulse",
     "five-principles-of-the-path",
     "view",
@@ -790,6 +1040,9 @@
   ],
   "trauma-heals-in-relationship": [
     "excavating-the-inner-critic-in-group"
+  ],
+  "joes-pleasing-dad-money-story": [
+    "find-the-want-behind-the-should"
   ],
   "safety-vs-defensiveness": [
     "defense-vs-love",
@@ -806,12 +1059,8 @@
     "empowered-vs-power",
     "acting-as-if-already-true",
     "process-over-result",
+    "wanting-itself-not-what-you-want",
     "structure-and-empowerment"
-  ],
-  "listening-to-impulse": [
-    "enjoy-over-manage",
-    "process-over-result",
-    "butchers-blade"
   ],
   "pleasure-capacity": [
     "enjoy-over-manage"
@@ -819,6 +1068,14 @@
   "epiphany-becomes-rut": [
     "feel-over-figure",
     "stages-of-emotional-development"
+  ],
+  "joes-hacky-sack": [
+    "improvement-vs-authenticity",
+    "nature-improves-itself",
+    "buurtzorg-nursing"
+  ],
+  "wanting-itself-not-what-you-want": [
+    "improvement-vs-authenticity"
   ],
   "five-principles-of-the-path": [
     "intention-vs-goal",
@@ -856,21 +1113,18 @@
   "tennis-quarter": [
     "goal-beyond-the-goal"
   ],
-  "defense-vs-love": [
-    "inherent-goodness",
-    "seven-limiting-beliefs"
-  ],
-  "improvement-vs-authenticity": [
-    "inherent-goodness",
-    "seven-limiting-beliefs"
-  ],
   "structure-and-empowerment": [
     "principles-free-you",
     "fear-triangle",
+    "buurtzorg-nursing",
+    "authenticity-in-business",
     "vulnerability-in-the-workplace"
   ],
   "knowing|knowing-as-opposite-of-wonder": [
     "right-question-over-right-answer"
+  ],
+  "joes-26-year-old-list": [
+    "shame-drives-behavior"
   ],
   "childhood-vulnerability-wound": [
     "vulnerability-protects"
@@ -888,7 +1142,19 @@
   "being-heard": [
     "view"
   ],
+  "authenticity-in-business": [
+    "buurtzorg-nursing"
+  ],
+  "awareness-as-change-agent": [
+    "joes-26-year-old-list"
+  ],
+  "joes-pot-habit": [
+    "joes-hacky-sack"
+  ],
   "goal-beyond-the-goal": [
     "tennis-quarter"
+  ],
+  "buurtzorg-nursing": [
+    "authenticity-in-business"
   ]
 }

@@ -4,8 +4,8 @@ id: wants-vs-partiality
 title: "Wants vs. Partiality"
 aliases: ["owning wants", "wants are not partiality", "owned wants vs hidden agenda", "wanting vs pushing"]
 tags: ["VIEW", "impartiality", "vulnerability", "boundaries", "ownership"]
-related: ["impartiality", "vulnerability", "fixing-people", "shame-drives-behavior", "owning-your-partiality"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3"]
+related: ["impartiality", "vulnerability", "fixing-people", "shame-drives-behavior", "owning-your-partiality", "the-want", "wanting-vs-craving", "owning-the-want-dissolves-it"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-15_Want over Should — Master Class Series #6"]
 ---
 
 # Wants vs. Partiality
@@ -60,6 +60,15 @@ This is why owning partiality mid-conversation is both an act of [[vulnerability
 - Leads to boundary-setting: if the want is owned, a boundary can be stated.
 - Connects to [[vulnerability]]: owning a want is inherently vulnerable.
 
+## The Inner Version
+
+The same dynamic operates internally. A want hidden from oneself is sticky in the same way a want hidden from others is sticky. Owning the want internally -- letting it surface, naming it, feeling it -- often transforms it the same way owning it in conversation does. See [[owning-the-want-dissolves-it]].
+
+The progression is reliable: the surface want, fully owned, reveals the actual want underneath. "I want $10 million" becomes "I want security" becomes "I want to feel empowered in every situation." The unowned form gets stuck. The owned form moves.
+
+The connection to [[wanting-vs-craving]]: an owned want feels expansive (clean want). A hidden or shame-laden want feels contracted (craving). Ownership is one of the primary mechanisms by which a craving relaxes back into a want.
+
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2021-03-15_Want over Should -- Master Class Series #6

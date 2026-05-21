@@ -4,8 +4,8 @@ id: selfishness-is-the-engine-of-unity
 title: "Selfishness Is the Engine of Unity"
 aliases: ["selfish gene", "undeveloped selfishness", "deep selfishness becomes compassion", "deep wants become generous"]
 tags: ["selfishness", "unity", "wants", "compassion", "interdependence"]
-related: ["wants-vs-partiality", "resistance", "impartiality"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+related: ["wants-vs-partiality", "resistance", "impartiality", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "the-want"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-15_Want over Should — Master Class Series #6"]
 ---
 
 # Selfishness Is the Engine of Unity
@@ -44,6 +44,13 @@ The coaching path: follow the want deeper. What do you really want underneath th
 - Toward [[impartiality]]: once the deep want is known, partiality loosens
 - Toward the recognition that self-care and other-care are not opposing forces
 
+## The Developmental Mechanism
+
+The principle connects to [[wants-deepen-as-you-follow-them]]. The deepest want does not become available unless the wants leading to it are met or fully felt. The reason undeveloped selfishness looks unattractive is that the person is still on the surface wants and has not yet traveled to the deeper layers. Telling them to skip directly to the generous wants installs another should and freezes the process.
+
+The corrective is not to suppress the surface wants. It is to actually meet them so the deeper wants can surface. This is also why [[owning-the-want-dissolves-it]] is part of the same architecture. Owning the surface want lets it transform into its more accurate version, which is usually generous.
+
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-03-15_Want over Should -- Master Class Series #6

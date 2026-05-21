@@ -183,22 +183,25 @@ Quality audit. Triggered automatically every 20 absorbs, or callable manually.
 
 ### Audit Steps
 
-1. **Read the full index.** Understand the current state of the compendium.
+Step 1 is the test that earns its keep — the rest is hygiene. Run it first; let it shape what you look for in everything else.
 
-2. **Anti-cramming check.** How many new articles were created in the last 20 absorbs? If fewer than 10, you are probably cramming everything into existing articles. Review the last 5 absorbed transcripts and ask: did I miss any new concepts, distinctions, or patterns?
+1. **Coaching path test.** Pick 3 concerns. Follow the links from each through reads, to moves/questions, along arcs. Does the path make sense as a coaching conversation Joe would actually have? Where does it break down? This is the only check that catches semantic drift — everything below catches mechanics.
 
-3. **Anti-thinning check.** Are there stub articles under 15 lines? If so, grep transcripts for mentions of that topic and enrich.
+2. **Read the full index.** Understand the current state of the compendium.
 
-4. **Bloat check.** Are there articles over 120 lines? Split them.
+3. **Anti-cramming check.** How many new articles were created in the last 20 absorbs? If fewer than 10, you are probably cramming everything into existing articles. Review the last 5 absorbed transcripts and ask: did I miss any new concepts, distinctions, or patterns?
 
-5. **Three-layer check.** Evaluate layer coverage:
+4. **Anti-thinning check.** Are there stub articles under 25 lines? If so, grep transcripts for mentions of that topic and enrich.
+
+5. **Bloat check.** Are there articles over 120 lines? Read each one whole and ask: is this one coherent piece or two stitched-together piles? The line count is a *prompt to look*, not a verdict. Central concepts (impartiality, vulnerability, view) will organically accrete cross-references and may legitimately be long — splitting them fractures the canonical reference. Only split if the article is actually two things.
+
+6. **Three-layer check.** Evaluate layer coverage:
+   - **Empty-layer check (do this first):** count entries in each of `concerns/`, `reads/`, `moves/`, `questions/`, `arcs/`, `anti-patterns/`. If any layer has fewer than 3 entries, that is itself the finding — the audit's job is to surface the absence, not just evaluate quality of links between layers that exist.
    - Do concerns link to reads? A concern without reads is a dead end.
    - Do reads link to moves and questions? A read without a response is diagnostic without being useful.
    - Do questions have context for when to use them? A question without situational context is a generic coaching question, not Joe's question.
    - Do arcs connect to specific concerns and reads? An arc without entry points is abstract.
    - Are anti-patterns specific enough to be actionable? "Don't be inauthentic" is useless. "Don't use VIEW as a technique to get what you want" is actionable.
-
-6. **Coaching path test.** Pick 3 concerns. Follow the links from each concern through reads, to moves/questions, through arcs. Does the path make sense as a coaching conversation Joe would actually have? Where does it break down?
 
 7. **Taxonomy check.** Read 5-10 articles across different types. Are articles in the right categories? Does the taxonomy still make sense?
 

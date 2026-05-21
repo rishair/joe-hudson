@@ -5,6 +5,10 @@
 - i-dont-have-time-for-this I don't have time for this (also: I just need to get a paycheck, this art stuff is a luxury, I don't have the runway for personal development, I just need to make money now, no time for self-work)
 - i-feel-trapped I feel trapped / They have power over me (also: I have no choice, they control me, I can't do anything, I'm stuck, I'm subjugated, the system has power over me, I'm a victim of circumstances)
 - i-have-to-sacrifice-to-succeed I have to sacrifice to succeed (also: sacrifice for success, grind required, you have to suffer to make it, real success requires giving things up, I had to cut off parts of myself)
+- i-need-to-improve-myself I need to improve myself (also: self-improvement, I have to be better, I need to fix this about myself, improving myself, I keep working on myself, constant self-improvement, I'm always trying to improve, I have a long list of things to work on)
+- i-should-be-doing-this I should be doing this / I shouldn't be doing this (also: the should concern, I know I should, I keep telling myself I should, should language, I shouldn't be eating this, obligation language, I have to)
+- ill-become-lazy-without-shoulds I'll become lazy if I stop should-ing myself (also: fear of laziness without shoulds, couch potato fear, I'd never do anything, I need the pressure, without discipline I'd fall apart, I won't be productive, fear of becoming a slacker)
+- im-afraid-of-stagnating I'm afraid of stagnating (also: fear of stagnation, I don't want to stagnate, I need to keep growing, I'll get stuck if I stop pushing, fear of getting stuck, stagnation fear, I'll stop growing)
 
 ## Reads
 
@@ -12,6 +16,8 @@
 
 ## Questions
 
+- how-do-you-want-to-be How do you want to be? (also: how do you want to be when you grow up, how vs what question, how do you want to live, the how question, how question instead of what)
+- what-am-i What am I? (also: what am I question, the what am I inquiry, what are you, self-inquiry question, non-dual question)
 - what-if-you-acted-exactly-how-you-want What if you acted exactly how you want to act and saw what happens? (also: what if you acted exactly how you want, the empowerment question, act how you want and see, stop compromising your truth question)
 - what-is-it-without-resistance What is it without resistance in it? (also: feel it without resistance, what happens without the resistance, what does X become without resistance, remove the resistance from the feeling)
 
@@ -25,6 +31,7 @@
 - impartial-apathy Don't confuse apathy with impartiality (also: I don't care, false impartiality, apathetic impartiality, disowning wants, above your humanity)
 - losing-yourself-in-others Don't lose yourself in others' emotions (also: merging with emotions, codependent empathy, lost in the other person, empathic merging, over-empathizing)
 - state-seeking Don't seek states (also: state seeking, I want to be awakened, chasing bliss, future living, trying to get back to that state, wanting to feel like that again)
+- tools-to-change-not-love Don't use the tools to change yourself instead of loving yourself (also: tools as improvement, co-opting transformation tools, using practices to fix yourself, transformation tools turned into improvement, weaponizing self-work, spiritual self-improvement)
 - view-as-technique Don't use VIEW as a technique (also: weaponized VIEW, VIEW as manipulation, technique without state, communication training gone south)
 - vulnerability-as-control Don't use vulnerability to control (also: vulnerability as manipulation, weaponized vulnerability, keeping score with vulnerability, I don't feel safe as control, guilting with vulnerability, false vulnerability)
 - why-questions Avoid 'why' questions (also: why questions carry judgment, why as attack, don't ask why)
@@ -46,8 +53,11 @@
 - letting-judgment-in Letting Judgment In (also: let it break your heart, receiving judgment, letting judgment break your heart, opening to judgment)
 - loving-all-parts Loving All Parts (also: loving all aspects of self, learning to love every part, loving the dark parts)
 - resistance Resistance (also: loving the resistance, if you can't love the thing love the resistance, resistance to change, fighting yourself, the fight, war with yourself)
+- self-realization Self-Realization (also: self realization, what am I, the question what am I, self-discovery, self discovery, realizing what you are, knowing what you are, non-dual realization, recognition of self)
+- should-as-threat Should as Threat (also: should is a threat, four layers of should, energetic should, should produces rebellion or submission, should as bad management)
+- the-want The Want (also: want as impulse, want as emotion, wanting as feeling, the deep want, want as longing, longing, desire as feeling)
 - trauma-mapping Trauma Mapping (also: mapping, attracting trauma, recreating trauma patterns, addiction to trauma)
-- undoing-not-doing Undoing, Not Doing (also: undoing not doing, transformation is undoing, an undoing not a doing, release the false to find what is, you don't need to add anything)
+- undoing-not-doing Undoing, Not Doing (also: undoing not doing, transformation is undoing, an undoing not a doing, release the false to find what is, you don't need to add anything, annihilation, what cannot be annihilated)
 - unfelt-emotion-leaks Unfelt Emotion Leaks (also: unfelt emotion comes out sideways, the leak, emotion you don't feel comes out at others, anger at someone is unfelt anger, leakage, emotion has to go somewhere)
 - vulnerability Vulnerability (also: being vulnerable, speaking your truth, truth even when scared, V in VIEW)
 - wonder Wonder (also: W in VIEW, awe, being in the question, open curiosity, follow your wonder)
@@ -60,7 +70,7 @@
 - binary-thinking-signals-fear Binary Thinking Signals Fear (also: black or white thinking, binary frame as fear, either/or thinking, binary thinking is fear, black and white framing)
 - childhood-imprinting Childhood Imprinting (also: theta state programming, 0 to 7 programming, love withdrawal, rejected emotions from childhood, don't be yourself programming)
 - development-as-corkscrew Development as Corkscrew (also: corkscrew development, spiral development, same issues different level, I thought I dealt with my dad issues, before awakening after awakening)
-- impulse-to-should Impulse to Should (also: natural impulse becomes should, should kills motivation, desire hijacked by perfectionism, want becomes obligation)
+- impulse-to-should Impulse to Should (also: natural impulse becomes should, should kills motivation, desire hijacked by perfectionism, want becomes obligation, the want gets converted to a should, egoic layer on top of impulse)
 - late-stage-reversion Late-Stage Reversion (also: deep reversion before breakthrough, regression before integration, the big hiccup)
 - layered-resistance Layered Resistance (also: meta-resistance, resisting the resistance, resistance in sheep's clothing, compounding resistance, fighting the fight, levels of fight)
 - negative-self-reinforcement Negative Self-Reinforcement (also: AC current pattern, self-punishment loop, kicking yourself in the face, associating the task with pain, negative reward cycle)
@@ -68,11 +78,13 @@
 - perfectionism Perfectionism (also: being a perfectionist, critical parent's voice, trying to be perfect, perfection seeking, rigidity from perfectionism, measuring up)
 - pleasure-capacity Pleasure Capacity (also: capacity for pleasure, pleasure ceiling, nervous system ceiling for enjoyment, too much pleasure, enjoyment overwhelm)
 - quit-hope-lose-cycle The Quit-Hope-Lose Cycle (also: I hope this lasts, holding on to change, fear of losing progress, achievement and loss cycle, transformation relapse cycle, how do I keep it)
+- rebellion-or-submission-to-should Rebellion or Submission to Should (also: two responses to should, rebellion to should, submission to should, self-rebellion, self-submission, why bad habits stick)
 - three-signals-of-unfelt-emotion Three Signals of an Unfelt Emotion (also: three signals, looping thought judgment indecision, diagnostic signals of unfelt emotion, how to know there's unfelt emotion, the three diagnostics)
 
 ## Moves
 
 - excavating-the-inner-critic-in-group Excavating the Inner Critic in Group (also: listing the voice on the wall, inner critic exercise, making shame visible)
+- find-the-want-behind-the-should Find the Want Behind the Should (also: locate the want under the should, what do you actually want here, translate the should, the want behind it)
 - not-sometimes-right-now Not Sometimes, Right Now (also: bring it into the present, feel it now, right now not abstract, stop talking about it and feel it)
 - owning-your-partiality Owning Your Partiality (also: calling out your own agenda, naming your partiality, apologizing for fixing, I notice I'm trying to fix you)
 - treat-yourself-as-actor-of-emotion Treat Yourself as an Actor of the Emotion (also: actor metaphor for emotion, you are the actor playing yourself, non-personal emotion, emotion is not personal, actor playing the part, watch the emotion like an actor)
@@ -87,8 +99,8 @@
 - epiphany-vs-transformation Epiphany vs. Transformation (also: epiphany versus transformation, insight vs change, recognition vs shift, aha moment vs real change)
 - fear-vs-excitement Fear vs. Excitement (also: fear is excitement without the breath, excitement is the other side of fear, fear and excitement are the same energy)
 - feel-over-figure Feel Over Figure (also: feeling over figuring, feel first then figure, emotional decision making over intellectual, feel vs figure, stop figuring start feeling)
-- improvement-vs-authenticity Improvement vs. Authenticity (also: improvement vs authentic, be better vs know what you are, self-improvement vs self-discovery, improving vs authenticating)
-- intention-vs-goal Intention vs. Goal (also: intention not goal, implementation agnostic intention, intention vs mandate, holding the intention, the map intention)
+- improvement-vs-authenticity Improvement vs. Authenticity (also: improvement vs authentic, be better vs know what you are, self-improvement vs self-discovery, improving vs authenticating, authenticity over improvement, self-realization vs self-improvement, river vs canal, authenticity as river)
+- intention-vs-goal Intention vs. Goal (also: intention not goal, implementation agnostic intention, intention vs mandate, holding the intention, the map intention, attitude toward the goal, the way you hold the goal, attachment vs intention)
 - judgment-vs-discernment Judgment vs. Discernment (also: discernment vs judgment, judging vs discerning, judgment is preloaded, discernment is clean)
 - managing-vs-healing-trauma Managing vs. Healing Trauma (also: managing vs resolving, symptom management vs resolution, managing PTSD vs healing it)
 - past-shame-vs-current-shame Past Shame vs. Current Shame (also: current shame vs past shame, useful shame, shame about the past, self-brutalization, shame that perpetuates patterns)
@@ -97,6 +109,7 @@
 - suffering-vs-pain Suffering vs. Pain (also: suffering is resistance to pain, Buddhist distinction, pain is not suffering, resistance to pain)
 - trying-vs-doing Trying vs. Doing (also: trying versus doing, effort vs action, clenched trying, trying is not doing, doing not trying)
 - vulnerability-vs-weakness Vulnerability vs. Weakness (also: feeling weak vs being weak, vulnerability is not weakness, strength of vulnerability)
+- wanting-vs-craving Wanting vs. Craving (also: want vs craving, clean want vs craving, desire vs craving, wanting is not craving, Sufi desire vs Buddhist craving, expansive want vs sticky craving)
 - wants-vs-partiality Wants vs. Partiality (also: owning wants, wants are not partiality, owned wants vs hidden agenda, wanting vs pushing)
 - wonder-vs-curiosity Wonder vs. Curiosity (also: wonder not curiosity, why wonder instead of curiosity, open vs narrowing curiosity)
 
@@ -118,22 +131,28 @@
 - feared-consequences-rarely-happen Feared Consequences Rarely Happen (8 out of 10) (also: 8 out of 10 times, consequences don't materialize, the feared outcome usually doesn't happen, predicted vs real consequences)
 - goal-beyond-the-goal Focus Through the Goal (also: goal beyond the goal, focus through the goal, aim past the target, tennis quarter principle, having a bigger why)
 - helplessness-is-the-gateway Helplessness Is the Gateway to Empowerment (also: feel the helplessness, helplessness makes you more capable, feeling helpless to feel empowered, through helplessness to empowerment)
-- inherent-goodness Inherent Goodness (also: you are inherently good, belief in inherent goodness, people are good, trust in goodness, not a lazy gluttonous asshole, the oak tree never has to earn it)
+- inherent-goodness Inherent Goodness (also: you are inherently good, belief in inherent goodness, people are good, trust in goodness, not a lazy gluttonous asshole, the oak tree never has to earn it, without the should I'd be lazy, trust your own wants)
+- nature-improves-itself Nature Improves Itself (also: growth is natural, the oak tree grows on its own, your nature is to learn, growth happens without trying, we don't need to improve, the river runs on its own, growth is the nature of being alive)
+- owning-the-want-dissolves-it Owning the Want Often Dissolves It (also: fully feeling the want releases it, ownership transforms the want, want refines when owned, the $10 million dissolves to security, name the want and watch it shift)
 - principles-free-you Living By Principles Frees You (also: principles create freedom, principled living, principles as empowerment, elegant structure of principles, personal constitution)
 - process-over-result Process Over Result (also: trust the process, faith in the process, outcome attachment, principled living)
 - right-question-over-right-answer The Right Question Over the Right Answer (also: right question matters more, in the age of Google, the question you're living in, value of the right question)
 - selfishness-is-the-engine-of-unity Selfishness Is the Engine of Unity (also: selfish gene, undeveloped selfishness, deep selfishness becomes compassion, deep wants become generous)
-- shame-drives-behavior Shame Drives Behavior (also: shame causes the actions, shame is the lock, shame holds bad habits in place, remove shame first)
+- shame-drives-behavior Shame Drives Behavior (also: shame causes the actions, shame is the lock, shame holds bad habits in place, remove shame first, should is a mechanism of shame)
 - trauma-heals-in-relationship Trauma Heals in Relationship (also: relational healing, healing in relationship, trauma created in relationship heals in relationship)
 - victim-stance-invites-abuse Victim Stance Invites Abuse (also: victim invites abuser, the oppressed position attracts oppressors, owning the victim role, victims and abusers, you attract what you embody)
 - vulnerability-is-personal Vulnerability Is Personal (also: vulnerability is not a morality, what's vulnerable is different for everyone, your truth your fear, vulnerability varies by person)
 - vulnerability-protects Vulnerability Protects (also: vulnerability as protection, fear allows being taken advantage of, vulnerability prevents exploitation)
-- wants-over-shoulds Wants Over Shoulds (also: follow your wants, shoulds slow transformation, wants accelerate transformation, should is control, wants vs shoulds, 0 to 7 no shoulds, shoulds slow development)
+- wanting-itself-not-what-you-want The Wanting Is What Matters, Not What You Want (also: wanting itself matters, what you want is inconsequential, the wanting pulls you, follow the wanting not the want, the direction not the destination, wants as strategy, wanting as fuel)
+- wants-deepen-as-you-follow-them Wants Deepen as You Follow Them (also: follow the want home, wants refine, wants have siblings, you can't want to run without wanting to walk, wants evolve, the developmental nature of wants)
+- wants-over-shoulds Wants Over Shoulds (also: follow your wants, shoulds slow transformation, wants accelerate transformation, should is control, wants vs shoulds, 0 to 7 no shoulds, shoulds slow development, should is a bad management technique, the should kills motivation)
 - what-we-fear-we-invite What We Fear, We Invite (also: fear attracts, avoidance creates the thing, fear invites the outcome, subconsciously inviting what we fear, what we're scared of we invite)
 
 ## Practices
 
 - daily-emotional-yoga Daily Emotional Yoga (also: emotional yoga, daily emotional practice, 20 minutes of emotion, feeling practice, scheduled emotional release)
+- dont-improve-for-two-weeks Don't Improve for Two Weeks (also: two week non-improvement, stop improving experiment, the holiday experiment, no improvement experiment, don't try to grow, the non-improvement test)
+- feeling-the-want-as-emotion Feeling the Want as Emotion (also: feel the wanting, let the want move through, sit with the want, wanting practice, Sufi longing practice)
 - hands-together-exercise Hands Together Exercise (also: hands together, the trying vs undoing exercise, palms together exercise, feel the opposite of trying, the somatic undoing)
 - how-what-questions How and What Questions (also: open-ended questions, how what questions, the VIEW technique, asking how and what)
 - is-this-mine Is This Mine? (also: is this mine question, whose emotion is this, checking emotional ownership, empathic boundary question)
@@ -158,13 +177,19 @@
 - babysitter-apology The Babysitter Apology (also: doubling down on vulnerability, vulnerability after rejection, it never ends)
 - being-right-college-story Being Right: The College Expulsion Story (also: Joe's college story, kicked out of college, being right doesn't mean anything)
 - butchers-blade The Butcher's Blade (also: the butcher and the prince, blade finds the space, I never sharpen my knives, Zhuangzi butcher, the master butcher)
+- buurtzorg-nursing The Buurtzorg Nursing Company (also: Buurtzorg, Hertzog nursing, the Dutch nursing company, Reinventing Organizations nursing example, self-reliance nursing, nursing efficiency story)
 - creative-career-story Joe's Creative Career Story (also: stock lending to TV directing, international stock lending story, say yes to what shows up, surrender to enjoyment)
 - hand-in-hand-parenting Learning Empathy Through Children's Tantrums (also: Hand in Hand Parenting, Parenting by Connection, stay listening, temper tantrum empathy)
+- joes-26-year-old-list Joe's 26-Year-Old Brutal Honesty List (also: the brutal honesty list, the awareness experiment, Joe's list of things he didn't want to admit, the should diagnostic list, the awareness changes things story)
 - joes-abandonment-mapping Joe's Abandonment Mapping (also: Joe's emotional abandonment, falling in love with abandonment, Joe attracted abandonment, Joe's trauma mapping example)
 - joes-crying-story Joe Learning to Cry (also: faking it in the woods, Joe's crying story, fake crying for three months, Joe couldn't cry for fourteen years, the photo album story)
+- joes-godson-vape-pen Joe's Godson and the Vape Pen (also: godson story, the vape pen story, godson ambition, the laser tag story, Joe's friend's son, CEO level ambition, stealing fifty dollars)
+- joes-hacky-sack Joe's Hacky Sack Story (also: hacky sack story, Joe's hacky sacking, the hacky sack example, Joe's sensory processing, Joe and the hacky sack)
+- joes-pleasing-dad-money-story Joe's Pleasing-Dad Money Story (VC Career) (also: Joe's VC story, Joe's hammock realization, the multibillion sale story, Joe's money should, Joe's father should, creating great cultures want)
 - joes-pot-habit Joe's Pot Habit (also: pot smoking story, marijuana habit story, Joe's addiction story, pot habit in his twenties)
 - mandela-empowerment Mandela: Empowerment Through Imprisonment (also: Mandela story, Mandela crushing rocks, empowerment Mandela, Nelson Mandela empowered, Mandela in prison)
 - mikey-siegel-pitch Mikey Siegel Pitch Meeting (also: investor pitch story, body tension in pitch, naming the shift)
+- musk-deer-parable The Musk Deer Parable (also: musk deer, the deer chasing the scent, the deer parable, scent comes from me, musk deer story, the deer who chased its own scent)
 - pow-optimist The POW Optimist (Stockdale Paradox) (also: Stockdale paradox, Vietnam POW story, optimists died story, POW camp empowerment)
 - sleep-deprived-soldier The Sleep-Deprived Soldier Study (also: Army boot camp study, sleep-deprived test, the illusion of efficiency study, U.S. Army efficiency study)
 - spaghetti-tower-experiment The Spaghetti Tower Experiment (also: marshmallow challenge, kindergartners vs CEOs, dried spaghetti experiment, iteration vs perfection experiment)
@@ -174,10 +199,11 @@
 
 ## Applications
 
+- authenticity-in-business Authenticity in Business (also: authentic business, authenticity in companies, authenticity at work, hooking into authentic drives, natural drives in business, company authenticity)
 - structure-and-empowerment Structure and Empowerment in Organizations (also: structure creates safety, org design empowerment, decentralized empowerment, structure for empowerment, roles and empowerment)
 - vulnerability-in-the-workplace Vulnerability in the Workplace (also: vulnerability at work, vulnerable leadership, authenticity in business, vulnerability and sales, brand authenticity, vulnerability in sales, vulnerability in leadership)
 
 ---
 
-Absorb Progress: 15 / 480 transcripts
-Last absorbed: 2021-03-05_Feel over Figure — Master Class Series #5 (2026-05-21)
+Absorb Progress: 17 / 480 transcripts
+Last absorbed: 2021-03-19_Authenticity over Improvement — Master Class Series #7 (2026-05-21)

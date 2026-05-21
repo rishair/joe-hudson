@@ -4,8 +4,8 @@ id: listening-to-impulse
 title: "Listening to Impulse"
 aliases: ["follow the impulse", "listening to the river", "impulse over outcome", "somatic impulse", "waiting for the impulse"]
 tags: ["impulse", "somatic", "flow", "enjoyment", "presence"]
-related: ["enjoy-over-manage", "impartiality", "process-over-result", "staying-in-your-body", "wonder"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4"]
+related: ["enjoy-over-manage", "impartiality", "process-over-result", "staying-in-your-body", "wonder", "the-want", "wants-over-shoulds", "impulse-to-should"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-03-15_Want over Should — Master Class Series #6"]
 ---
 
 # Listening to Impulse
@@ -53,6 +53,13 @@ When someone adds the extra step of predicting how their words will be received,
 - Toward [[enjoy-over-manage]]: impulse-following is how enjoyment replaces management in practice
 - Toward [[process-over-result]]: trusting the impulse is trusting the process
 
+## Impulse and Want Are the Same Thing
+
+What this practice calls "impulse" and what [[the-want]] calls "want as impulse" are the same somatic phenomenon. The impulse moves a person to act before any plan or should can form. When it meets friction, it registers as wanting (an emotion). When it does not meet friction, it just becomes action.
+
+This is also why [[impulse-to-should]] is the failure mode of this practice. The impulse arises, and instead of being followed, it is intercepted and converted into a should. The should kills the impulse. The practice of listening to impulse is partly the practice of catching the should before it intercepts.
+
 ## Sources
 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
+- 2021-03-15_Want over Should -- Master Class Series #6

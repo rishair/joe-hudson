@@ -2,10 +2,10 @@
 type: principle
 id: shame-drives-behavior
 title: "Shame Drives Behavior"
-aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first"]
+aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame"]
 tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment"]
-related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6"]
 ---
 
 # Shame Drives Behavior
@@ -27,6 +27,16 @@ This principle is why [[fixing-people]] fails as a coaching move. Trying to chan
 This also explains why [[impartiality]] works. When someone is met without agenda, without the implied message "you should be different," the shame loosens. The wise part of the person comes forward. Behavior shifts as a byproduct.
 
 Joe's own pot habit in his twenties demonstrates this directly. The more he beat himself up about smoking, the more he wanted to escape himself, the more he smoked. The shame was the engine of the addiction, not the other way around. "The more that I was abusing myself about it, the more I wanted to escape myself, the more I smoked the pot." Once he stopped fighting the habit and addressed the underlying emotions (sadness, anger), the habit dissolved without effort. No willpower, no trying, no temptation. Just a lack of interest. See [[resistance]] and [[negative-self-reinforcement]].
+
+## The Should Is the Verbal Form of This Mechanism
+
+Every "should" is a tiny act of shaming the self. The should says: who you are is not okay, you must be corrected, here is the correction. The cumulative effect of running shoulds on yourself all day is sustained shame, which holds in place exactly the behaviors the shoulds are trying to fix.
+
+"Should is a mechanism of shame. And there's a saying that says that shame is the locks that keep the chains of bad habits in place. So should is like a really bad management technique." -- Joe Hudson, Want over Should
+
+This is why [[wants-over-shoulds]] is not a preference but a mechanism. The shoulds are doing the opposite of what the person thinks they are doing. They are reinforcing the bad habit, not breaking it.
+
+Joe's 26-year-old experiment confirmed this empirically: the items that did not change after a year of awareness were the items that had a heavy should attached. The should was the lock. See [[joes-26-year-old-list]].
 
 ## Shame as the Lock on Addiction Cycles
 
@@ -65,3 +75,4 @@ Underneath the shame and blame story is helplessness. The unwillingness to feel 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-03-15_Want over Should -- Master Class Series #6

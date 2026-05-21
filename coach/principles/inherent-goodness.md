@@ -2,10 +2,10 @@
 type: principle
 id: inherent-goodness
 title: "Inherent Goodness"
-aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it"]
+aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it", "without the should I'd be lazy", "trust your own wants"]
 tags: ["self-trust", "management", "parenting", "leadership", "shame", "foundational"]
-related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity", "wants-over-shoulds", "ill-become-lazy-without-shoulds", "the-want"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6"]
 ---
 
 # Inherent Goodness
@@ -27,6 +27,20 @@ This principle operates at every level:
 **In management:** Any boss who micromanages also micromanages themselves. The external projection is the internal relationship made visible. A manager who trusts their own inherent goodness trusts their employees. One who fears their own impulses fears their employees' impulses. See [[impartiality]].
 
 **In self-development:** Self-management (the internal critic voice pushing for better behavior) does not produce lasting change. It produces depression, anger, and the very behavior it is trying to prevent. The alternative: trust the impulse, follow enjoyment, let the natural desire for a good life lead.
+
+## The Couch Potato Test
+
+When people first hear "drop the shoulds," they almost universally fear they will become lazy. Joe addresses this directly. The fear itself is the belief running. The question becomes: would you apply this logic to someone you respect?
+
+"Unless I tell Joe that he should do a podcast, he's just never gonna fucking do it. So I gotta tell him he should do it. It is like, it's a nonsensical thing to really think." -- Joe Hudson, Want over Should
+
+The asymmetry is the diagnostic. People can see another person's inherent goodness and trust it. They cannot see their own. The work is to extend the same view inward.
+
+The empirical case for inherent goodness from this episode: Joe is doing the podcast not because someone told him he should. Children from 0 to 8 develop at the fastest rate of life with no shoulds at all. People who are most generative are people who follow wants, not people who follow shoulds.
+
+"My experience is that people who are most generative in their life are people who want to do shit. Not who feel like they should do them." -- Joe Hudson, Want over Should
+
+See [[ill-become-lazy-without-shoulds]] for the concern as it shows up in coaching.
 
 ## The Connection to Shame
 
@@ -83,3 +97,4 @@ Trusting your inherent goodness is what allows the flow state. Jim Carrey-level 
 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2021-03-15_Want over Should -- Master Class Series #6

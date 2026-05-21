@@ -4,8 +4,8 @@ id: state-seeking
 title: "Don't seek states"
 aliases: ["state seeking", "I want to be awakened", "chasing bliss", "future living", "trying to get back to that state", "wanting to feel like that again"]
 tags: ["transformation", "anti-pattern", "attachment", "future-living"]
-related: ["enjoyment-as-path", "process-over-result", "quit-hope-lose-cycle", "pendulation"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2"]
+related: ["enjoyment-as-path", "process-over-result", "quit-hope-lose-cycle", "pendulation", "wanting-vs-craving"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-15_Want over Should — Master Class Series #6"]
 ---
 
 # Don't Seek States
@@ -30,6 +30,15 @@ Stay with the current experience. If the bliss is gone, how do you enjoy the not
 
 Comparative mind ("Am I further along? Am I behind?") is a form of state seeking that requires past and future living to operate. Drop the comparison. Return to this moment.
 
+## State Seeking Is Often Craving Dressed as Wanting
+
+The line between [[wanting-vs-craving]] is relevant here. State seeking is almost always craving: the grip on a specific internal experience, the calculation of how to get back to it, the disappointment when it does not arrive on cue. Clean wanting holds the direction without the grip. If a state arises, it arises. If it does not, no problem.
+
+The diagnostic: in the body, is the want expansive or contractive? State seeking is consistently contractive. The chest tightens, the breath shortens, the mind narrows. Clean wanting is consistently expansive.
+
+This is also why the spiritual versions of state seeking ("I want to be enlightened, I want to be in oneness, I want to recover that retreat experience") collapse the spiritual tradition's own language. The Sufis and the tantric traditions celebrate desire because the desire they mean is wanting -- expansive, present, close to love. State seeking is craving wearing the costume of that desire.
+
 ## Sources
 
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
+- 2021-03-15_Want over Should -- Master Class Series #6
