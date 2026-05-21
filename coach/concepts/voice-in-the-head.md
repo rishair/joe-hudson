@@ -4,7 +4,7 @@ id: voice-in-the-head
 title: "The Voice in the Head"
 aliases: ["voice in head", "voice in your head", "the inner critic", "self-talk", "internal dialogue", "the inner voice", "the editor", "the recurring negative voice", "upper dog", "the voice", "internal critic", "horrible micromanaging boss"]
 tags: ["voice in head", "self-talk", "inner critic", "awareness", "shame", "perfectionism", "core concept"]
-related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations"]
+related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations", "cult-of-one"]
 sources: ["2021-07-16_Who is the Voice in Your Head?"]
 ---
 

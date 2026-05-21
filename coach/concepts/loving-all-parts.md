@@ -4,7 +4,7 @@ id: loving-all-parts
 title: "Loving All Parts"
 aliases: ["loving all aspects of self", "learning to love every part", "loving the dark parts"]
 tags: ["self-love", "parts", "integration", "core principle"]
-related: ["grief-as-gateway-to-self-love", "container-of-love", "late-stage-reversion", "love-as-deep-welcoming", "love-is-the-best-change-agent", "boundary-with-vs-boundary-against"]
+related: ["grief-as-gateway-to-self-love", "container-of-love", "late-stage-reversion", "love-as-deep-welcoming", "love-is-the-best-change-agent", "boundary-with-vs-boundary-against", "honor-the-patterns-intent"]
 sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
@@ -60,6 +60,7 @@ Loving a part is the welcoming of the part as it is. If the loving has the inten
 
 - Toward resolution of [[trauma-mapping]] patterns
 - Toward the [[late-stage-reversion]] process at advanced stages of development
+- Toward [[honor-the-patterns-intent]] when the part is an adaptive pattern that needs to be met with respect for what it was trying to do
 
 ## Sources
 

@@ -4,8 +4,8 @@ id: become-unnecessary
 title: "Become Unnecessary"
 aliases: ["the less involved I can be the better", "less needed the better", "becoming unnecessary as success", "a good teacher becomes unnecessary", "the math teacher test", "remove yourself from the equation", "make yourself replaceable", "necessary teacher trap"]
 tags: ["teaching", "coaching", "business", "leadership", "cult dynamics", "scaling", "principle"]
-related: ["community-over-teacher", "dont-evangelize-the-work", "consciousness-is-the-product", "fixing-people", "integration"]
-sources: ["2021-06-04_The Business Behind our Courses"]
+related: ["community-over-teacher", "dont-evangelize-the-work", "consciousness-is-the-product", "fixing-people", "integration", "childhood-imprinting", "structure-and-empowerment"]
+sources: ["2021-06-04_The Business Behind our Courses", "2021-08-13_Seeing Through Family Dynamics"]
 ---
 
 # Become Unnecessary
@@ -51,6 +51,16 @@ The teacher has to be willing to let the work succeed without them. Has to be wi
 "Everything that I do is all about pointing people back to themselves. And the less involved I can be, the less involved the organization can be, the better, so that we don't create an organization where people need us." -- Joe Hudson, The Business Behind our Courses
 
 For a teacher whose ego is hooked into being central, this is uncomfortable. For a teacher who has done the inner work, this is freeing. The release from being needed is itself a part of the work.
+
+## The Executive Threshold
+
+The principle is the threshold the next-tier executive has to cross to move into the C-level. Joe describes a specific pattern at this rank: people who are very capable, very central, and who hold themselves back by being needed.
+
+"When I work with executives that are not quite at the C-level, oftentimes those people, the big thing that they have to do to get to the next level is learn that their job is to become unnecessary, that they aren't necessary anymore, that they can create a structure that basically makes them irrelevant. And when they do that, boy, they just take it to the whole next level. It's when they think that they need to be needed or that they offer something special that the team can't offer without them, that they hold themselves back." -- Joe Hudson, Seeing Through Family Dynamics
+
+The block is identity-level, not skills-level. The executive who derives their sense of worth from being indispensable cannot let the team carry the work, because the team carrying the work would make them dispensable. The path to the next role requires letting that identity dissolve.
+
+This is a [[childhood-imprinting]] case as much as an organizational design case. "I am necessary" is often a remnant of childhood role-fulfillment: the kid who held the family together, the kid who managed mom's emotions, the kid whose value was their utility. The executive transposes the structure into the company. Letting it go in the company often requires letting it go in the original installation.
 
 ## In Coaching
 

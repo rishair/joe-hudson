@@ -4,8 +4,8 @@ id: trauma-mapping
 title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma"]
 tags: ["trauma", "attachment", "patterns", "repetition"]
-related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection"]
+related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics"]
 ---
 
 # Trauma Mapping
@@ -38,6 +38,10 @@ When trauma is active, the person is not fully present. They are with the people
 This absence of presence is one of two reasons people get "duped" in relationships and sales. The other is self-deception: people believe lies that rhyme with truths they want to believe. But in the trauma case, the person literally is not in the same time and space as the interaction.
 
 "When we hear somebody that reminds us of that trauma, then we're not actually hearing them, we're not actually with them, we're with the person or people who helped us get that trauma into our bones." -- Joe Hudson, Introduction to VIEW (Connection Course)
+
+## The Partnership Version
+
+In partnership, trauma mapping shows up as the precision-matched complementary trauma surfaces between two people. The body finds a partner whose unhealed material interlocks with its own, with such accuracy that the relationship feels fated. See [[complementary-trauma-surfaces]]. Without working the underlying material, leaving the relationship produces another relationship with the same configuration, because the same selection mechanism is still operating.
 
 ## The Friend Pattern
 
@@ -78,6 +82,9 @@ The perceptual face of the mechanism is supported by [[negative-bias-of-trauma-i
 - Toward [[feeling-the-unfelt-emotion]] as the resolution mechanism
 - Toward [[container-of-love]] as the environment needed for resolution
 - Toward identifying the specific emotion being avoided
+- Toward [[i-cant-trust-my-thoughts-right-now]] when the pattern is firing in the present moment
+- Toward [[trace-emotion-to-its-first-felt]] to locate where the pattern was installed
+- Toward [[complementary-trauma-surfaces]] when the pattern is showing up in partnership
 
 ## Sources
 

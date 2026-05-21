@@ -4,8 +4,8 @@ id: feeling-the-unfelt-emotion
 title: "Feeling the Unfelt Emotion"
 aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling", "falling in love with the emotion"]
 tags: ["trauma", "healing", "emotions", "core mechanism"]
-related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "feel-over-figure", "unfelt-emotion-leaks", "three-signals-of-unfelt-emotion"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "feel-over-figure", "unfelt-emotion-leaks", "three-signals-of-unfelt-emotion", "disassociation-as-numbness-layer", "fear-vs-anxiety", "let-your-body-shake-it-out"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
 ---
 
 # Feeling the Unfelt Emotion
@@ -55,6 +55,20 @@ Joe distinguishes carefully between tolerating an emotion and welcoming it. The 
 
 "I recreated people who would emotionally abandon me over and over again until I fell in love with the abandonment. And once I fell in love with it, my system didn't need to recreate it. I had found homeostasis." -- Joe Hudson, Feel over Figure
 
+## The Numbness Layer Comes First
+
+For someone who has been suppressing a particular emotion for years -- fear is the most common example -- the first felt layer is usually not the emotion itself. It is the numbness that has been protecting against it. Trying to skip past the numbness to "find the feeling" usually fails. The numbness has to be felt as numbness before the feeling underneath can come through.
+
+The sequence often looks like: numbness -> diffuse activation (anxiety, agitation) -> specific emotion clarified. The instruction at each stage is to feel what is present, not to push toward what should be present.
+
+See [[disassociation-as-numbness-layer]] for the full treatment of the numbness as a distinct layer to be felt, and [[fear-vs-anxiety]] for the specific case of anxiety differentiating into specific fears as the layering opens.
+
+## Somatic Discharge for Acute Events
+
+For large or sudden emotional events -- a major loss, a near-miss, a rupture -- the body often needs to physically discharge before the emotion can be felt and worked with cognitively. Lying down and letting the body shake is one of the simplest forms of this discharge. The body knows how to move the emotion through; the instruction is to stop interfering with that knowledge. See [[let-your-body-shake-it-out]].
+
+The acute discharge complements the daily practice. Both are instances of the same principle: the body is the instrument that processes emotion, and trying to do the processing only in the mind leaves the body unfinished.
+
 ## The Method: Allowing the Body to Move
 
 Feeling is not naming. Feeling is letting the body move. The emotion knows how to move the body if it is not interrupted. The intellect cannot direct the movement; it only obstructs it. The instruction is to allow, not to perform.
@@ -83,3 +97,4 @@ Joe recommends dedicated time, especially in early stages: twenty to thirty minu
 - 2020-11-10_Vulnerability -- Connection Course Series #5
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships

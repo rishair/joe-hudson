@@ -4,8 +4,8 @@ id: self-realization
 title: "Self-Realization"
 aliases: ["self realization", "what am I", "the question what am I", "self-discovery", "self discovery", "realizing what you are", "knowing what you are", "non-dual realization", "recognition of self"]
 tags: ["self-realization", "non-dual", "awakening", "inquiry", "self-discovery", "authenticity"]
-related: ["what-am-i", "improvement-vs-authenticity", "undoing-not-doing", "musk-deer-parable", "wonder", "inherent-goodness", "expanding-sense-of-self", "zen-sickness", "annihilation"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+related: ["what-am-i", "improvement-vs-authenticity", "undoing-not-doing", "musk-deer-parable", "wonder", "inherent-goodness", "expanding-sense-of-self", "zen-sickness", "annihilation", "projections", "whats-looking-out-behind-my-eyes"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection"]
 ---
 
 # Self-Realization
@@ -88,6 +88,16 @@ The early signs of the recognition landing include:
 - The improvement list shortens. The shoulds get quieter.
 - The experience of self gets bigger, less personal, more spacious. See [[expanding-sense-of-self]].
 
+## Self-Realization as Seeing Through the Projection of I
+
+In the four-types frame of [[projections]], self-realization is the work of seeing through the deepest projection: the projection of I. The identity that feels solid — body, emotional state, biography, character — is itself an overlay imposed on awareness.
+
+"At the very core of that sense of identity is the idea that there is an I that exists as separate. A tremendous amount of spiritual modalities — Ramana Maharshi is the most known example — really, the work is to see the self not as something to be protected, not as the body, not as an emotional state, not as something that's existed for 45 years or whatever it is, but as illusionary in nature, or to see the self as the awareness of all those things." -- Joe Hudson, Your World is a Projection
+
+The seeing-through is the same operation as with any projection: notice the lens, ask what is underneath, do not grab at a new lens. With the projection of I the questioner and the questioned are the same, which is why the question expires rather than resolves.
+
+The risk is also placed in the projection frame: seeing through the projection of I does not automatically resolve the emotional projections onto the world. In fact, it can drive them deeper into dissociation. See the failure mode in the section below and [[zen-sickness]].
+
 ## The Connection to Authenticity
 
 Self-realization is the deep end of [[improvement-vs-authenticity]]. Authenticity at the surface is "follow your real wants instead of borrowed shoulds." Authenticity at depth is "find out what you are underneath all the wants, all the identities, all the projects."
@@ -124,3 +134,4 @@ See [[zen-sickness]] for the failure mode where the recognition is mistaken for 
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2021-07-30_Your World is a Projection

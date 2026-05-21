@@ -4,7 +4,7 @@ id: mirror-the-judgment
 title: "Mirror the Judgment Back"
 aliases: ["how is that not true about you", "mirror move", "turn the judgment around", "the projection mirror", "judgment mirror"]
 tags: ["projection", "judgment", "mirror", "self-awareness", "live coaching"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection"]
 ---
 
 # Mirror the Judgment Back
@@ -63,11 +63,22 @@ The move fails when delivered as an accusation. It works when delivered as a won
 - Do not stop at one mirror. The pattern usually has multiple layers; keep the question going.
 - Do not name the projection theory out loud. Let the recognition come from the person's own seeing.
 
+## The Theory Underneath
+
+The move is built on the first kind of projection in the four-types frame: psychological projection. The unowned parts of the self — positive or negative — get cast onto other people, where they can be safely judged or admired without having to acknowledge their presence inside.
+
+"The parts of ourselves that we can't own, the parts of ourselves that are either good or bad, but that we can't have full ownership over, we project onto other people. And this is something that happens when you're deeply triggered." -- Joe Hudson, Your World is a Projection
+
+The intensity of the trigger or the height of the pedestal is the diagnostic. See [[projections]] for the full taxonomy of which the psychological layer is one part.
+
 ## Related
 
 - [[in-the-story-im-not-being-seen]]: the read most often paired with this move
 - [[i-freeze-around-authority]]: the concern this move often appears in
+- [[projections]]: the underlying mechanism
+- [[falling-in-love-with-projections]]: the stance to bring to the recognition the mirror produces
 
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2021-07-30_Your World is a Projection

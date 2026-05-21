@@ -4,7 +4,7 @@ id: i-freeze-around-authority
 title: "I freeze around authority figures"
 aliases: ["I freeze around my boss", "authority figures shut me down", "I can't be myself around my boss", "I freeze around men like my father", "I shut down with authority", "they remind me of my father", "I either want to fight or roll over"]
 tags: ["authority", "father", "mother", "workplace", "projection", "freeze", "fight-or-flight"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-08-13_Seeing Through Family Dynamics"]
 ---
 
 # I freeze around authority figures
@@ -71,6 +71,10 @@ Also underneath: the very thing the person judges the authority figure for is so
 - He does not coach the workplace conflict tactically. The workplace is the venue, not the issue.
 - He does not move quickly to the dad memory. He stays in the present pattern long enough to make it observable, then connects to the origin.
 - He does not let "I just want to be seen" stand as the deepest layer. He moves to "what would it take for you to let yourself be seen?"
+
+## A Structural Companion Move
+
+When the freeze is showing up around a boss specifically, the structural reframe [[reframe-boss-as-customer]] sometimes opens a parallel door. The reframe does not resolve the freeze, but it makes the projection observable as projection — the "boss-as-authority" frame is itself an import from the family system. With that visible, the felt sense of being in the pattern (see [[i-cant-trust-my-thoughts-right-now]]) becomes easier to recognize, and the pattern becomes easier to refuse acting from.
 
 ## Related Concerns
 

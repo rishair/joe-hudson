@@ -4,8 +4,8 @@ id: binary-thinking-signals-fear
 title: "Binary Thinking Signals Fear"
 aliases: ["black or white thinking", "binary frame as fear", "either/or thinking", "binary thinking is fear", "black and white framing"]
 tags: ["fear", "decisions", "binary", "diagnostics", "patterns"]
-related: ["three-signals-of-unfelt-emotion", "fear-is-about-feeling", "unfelt-emotion-leaks", "feel-over-figure", "feeling-the-unfelt-emotion"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)"]
+related: ["three-signals-of-unfelt-emotion", "fear-is-about-feeling", "unfelt-emotion-leaks", "feel-over-figure", "feeling-the-unfelt-emotion", "fear-as-signal-of-care"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
 ---
 
 # Binary Thinking Signals Fear
@@ -15,6 +15,12 @@ sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_
 When the mind frames a decision or situation as a binary -- either A or B, do it or don't, all or nothing -- there is fear underneath that is not being felt. The binary frame is the cognitive shape that avoided fear takes.
 
 "Whenever you see your mind in binary thinking, you know, I either have to buy the car or not buy the car, instead of I could buy that car, I could buy the car from 10 different people, I could buy that car with different packages, I can buy that car in different colors, I could buy that car in 6 months. Whenever you're in that binary black or white thinking, then you know that there's some fear there that's not being felt." -- Joe Hudson, Feel over Figure
+
+Joe restates the principle in plainer form in a later conversation, as a personal observation about how fear shapes his own cognition:
+
+"One of the things that I've noticed in fear is that my mind becomes binary, that I start thinking of answers as this or that instead of the thousands of answers that are usually available with any issue." -- Joe Hudson, Welcoming Fear
+
+The personal framing is important: the binary collapse is not a moral failure or a thinking error to be corrected. It is a reliable somatic-cognitive signature of fear that has not been allowed to surface. The collapse is the signal. Noticing it is the first step toward going back to feel what the fear was carrying.
 
 ## Why Binary Thinking Forms
 
@@ -71,3 +77,5 @@ The work in this case is to locate the somatic third stance, which Joe sometimes
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships

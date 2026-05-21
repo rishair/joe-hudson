@@ -4,8 +4,8 @@ id: whats-looking-out-behind-my-eyes
 title: "What's Looking Out Behind My Eyes?"
 aliases: ["whats looking out behind my eyes", "what is looking out", "behind the eyes inquiry", "the eyes question", "shift to awareness practice", "who is looking out"]
 tags: ["voice in head", "practice", "self-inquiry", "awareness", "self-realization"]
-related: ["voice-in-the-head", "what-am-i", "self-realization", "wonder", "awareness-as-change-agent"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+related: ["voice-in-the-head", "what-am-i", "self-realization", "wonder", "awareness-as-change-agent", "projections"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-07-30_Your World is a Projection"]
 ---
 
 # What's Looking Out Behind My Eyes?
@@ -80,6 +80,15 @@ The practice is not for moments of acute emotional flooding. If a person is in t
 
 The practice is for the voice, not for emotion. For emotion, the practice is [[feeling-the-unfelt-emotion]].
 
+## The Question as Joe's Integration Prompt
+
+Joe uses this question explicitly as a closing prompt at the end of episodes that touch the projection of I. In "Your World is a Projection," after describing the four kinds of projection, he offers it as the third integration question:
+
+"What's looking out behind your eyes? ... I encourage you not to answer that question, just be in it." -- Joe Hudson, Your World is a Projection
+
+The instruction to not answer is important. The question is the practice. Trying to produce a verbal answer is exactly the move the question is designed to bypass. See [[projections]] for the four-types frame in which this question is the entry to seeing through the projection of I.
+
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2021-07-30_Your World is a Projection

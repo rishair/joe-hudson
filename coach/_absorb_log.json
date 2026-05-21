@@ -622,10 +622,96 @@
     },
     {
       "folder": "2021-07-30_Your World is a Projection",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T20:08:28Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "projections",
+        "falling-in-love-with-projections",
+        "choosing-the-projection-that-serves",
+        "emotions-as-road-signs",
+        "target-fixation",
+        "negative-bias-of-trauma-imprinting"
+      ],
+      "articles_updated": [
+        "trauma-mapping",
+        "what-we-fear-we-invite",
+        "mirror-the-judgment",
+        "how-is-that-not-true-about-you",
+        "childhood-imprinting",
+        "self-realization",
+        "whats-looking-out-behind-my-eyes",
+        "zen-sickness",
+        "decisions-are-emotional",
+        "engineering-heartbreak-to-avoid-heartbreak"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:17:21Z"
+    },
+    {
+      "folder": "2021-08-13_Seeing Through Family Dynamics",
+      "status": "complete",
+      "claimed_at": "2026-05-21T20:18:12Z",
+      "articles_created": [
+        "complementary-trauma-surfaces",
+        "i-cant-trust-my-thoughts-right-now",
+        "trace-emotion-to-its-first-felt",
+        "honor-the-patterns-intent",
+        "reframe-boss-as-customer",
+        "dont-make-family-dynamics-the-story"
+      ],
+      "articles_updated": [
+        "childhood-imprinting",
+        "trauma-mapping",
+        "projections",
+        "structure-and-empowerment",
+        "become-unnecessary",
+        "i-freeze-around-authority",
+        "loving-all-parts"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:26:41Z"
+    },
+    {
+      "folder": "2021-08-27_Group Cohesion vs. Cult Dynamics",
+      "status": "complete",
+      "claimed_at": "2026-05-21T20:27:37Z",
+      "articles_created": [
+        "cult-of-one",
+        "surrender-to-ineffable-vs-person",
+        "subjugation-prevents-healing",
+        "keeping-cult-dynamics-conscious"
+      ],
+      "articles_updated": [
+        "community-over-teacher",
+        "good-and-corruption-cycle",
+        "projections",
+        "voice-in-the-head"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:34:23Z"
+    },
+    {
+      "folder": "2021-09-10_Brett Kistler \u2014 Welcoming Fear in Extreme Sports, Business and Relationships",
+      "status": "complete",
+      "claimed_at": "2026-05-21T20:35:18Z",
+      "articles_created": [
+        "im-not-an-anxious-person",
+        "disassociation-as-numbness-layer",
+        "fear-vs-anxiety",
+        "fear-as-signal-of-care",
+        "dont-step-on-the-signal",
+        "let-your-body-shake-it-out",
+        "welcoming-fear-in-leadership"
+      ],
+      "articles_updated": [
+        "fear-vs-excitement",
+        "fear-is-about-feeling",
+        "vulnerability-in-the-workplace",
+        "feeling-the-unfelt-emotion",
+        "binary-thinking-signals-fear"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-21T20:45:30Z"
     }
   ]
 }

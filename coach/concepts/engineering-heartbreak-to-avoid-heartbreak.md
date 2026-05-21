@@ -4,7 +4,7 @@ id: engineering-heartbreak-to-avoid-heartbreak
 title: "Engineering Heartbreak to Avoid Heartbreak"
 aliases: ["engineering the thing you avoid", "creating the heartbreak you fear", "recreating the avoided feeling", "the avoidance creates the thing", "engineered heartbreak", "creating the trauma you're avoiding"]
 tags: ["trauma", "patterns", "self-fulfilling", "heartbreak", "shame", "avoidance"]
-related: ["trauma-mapping", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "familiar-over-safe", "i-keep-crashing-and-burning", "shame-drives-behavior", "joes-abandonment-mapping"]
+related: ["trauma-mapping", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "familiar-over-safe", "i-keep-crashing-and-burning", "shame-drives-behavior", "joes-abandonment-mapping", "projections", "target-fixation"]
 sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
 ---
 

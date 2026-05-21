@@ -4,8 +4,8 @@ id: community-over-teacher
 title: "Community Over Teacher"
 aliases: ["community is more important than the teacher", "group intelligence", "community of practice", "wisdom of the group", "the teacher pointing back to the student", "people creating their own tools from their consciousness"]
 tags: ["community", "learning", "development", "teaching", "integration"]
-related: ["integration", "container-of-love", "dont-evangelize-the-work", "become-unnecessary", "good-and-corruption-cycle"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses"]
+related: ["integration", "container-of-love", "dont-evangelize-the-work", "become-unnecessary", "good-and-corruption-cycle", "subjugation-prevents-healing", "cult-of-one", "keeping-cult-dynamics-conscious", "surrender-to-ineffable-vs-person"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics"]
 ---
 
 # Community Over Teacher
@@ -27,6 +27,18 @@ Community also reduces fear during [[integration]]. Transformation in isolation 
 Joe explicitly prefers facilitating group intelligence over playing the role of the expert. "One of the places that I get the most insight, I learn the most, is to watch a community access its deeper intelligence." The longer-term courses teach participants to access this group intelligence directly.
 
 The weakness of community: it can collectively decide the teacher is special, which creates dependency. The agreement between a community and a teacher that the teacher holds special truth is the foundation of cult dynamics.
+
+## The Cult Question
+
+The principle's deepest motivation is the prevention of the cult dynamic. The essence of a cult, in Joe's framing, is "where you're handing over your power to somebody else, which is the antithesis of the work that I want to do in the world." A community that defers to a teacher has handed over its power. A community that accesses its own wisdom has not.
+
+"I want to bring people to their own wisdom, and I don't want to bring people to my wisdom or somebody else's wisdom or a group wisdom." -- Joe Hudson, Group Cohesion vs. Cult Dynamics
+
+The qualification matters: "or a group wisdom." Community-over-teacher does not mean community-as-replacement-guru. Surrendering individual discernment to the group is the same dynamic as surrendering it to a teacher, just distributed across more people. The aim is for each person to access their own wisdom through community, not for the community to replace the teacher as the new authority.
+
+The diagnostic for the difference is whether participation in the community increases the person's access to their own truth or decreases it. See [[subjugation-prevents-healing]] for what happens when participation requires self-suppression, and [[surrender-to-ineffable-vs-person]] for the related distinction about where surrender is directed.
+
+The structural defenses against the slide from community-over-teacher into community-as-cult include the design choices around no inner circles, rotating roles, easy exit, naming dynamics openly (see [[keeping-cult-dynamics-conscious]]), and the structural impossibility of the leader becoming necessary (see [[become-unnecessary]]).
 
 ## The Teacher's Role
 
@@ -66,3 +78,4 @@ This connects directly to [[become-unnecessary]]. The teacher's tools, when held
 
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-06-04_The Business Behind our Courses
+- 2021-08-27_Group Cohesion vs. Cult Dynamics

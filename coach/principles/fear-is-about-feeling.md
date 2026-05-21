@@ -4,8 +4,8 @@ id: fear-is-about-feeling
 title: "Fear Is About What You'll Have to Feel"
 aliases: ["fear is about feeling", "fear of feeling", "the fear is in the emotion", "visualize the feared outcome", "feel the fear in advance"]
 tags: ["fear", "emotion", "impartiality", "Stoic", "visualization", "helplessness"]
-related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in", "helplessness-is-the-gateway", "feared-consequences-rarely-happen"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in", "helplessness-is-the-gateway", "feared-consequences-rarely-happen", "fear-as-signal-of-care", "fear-vs-anxiety", "disassociation-as-numbness-layer"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
 ---
 
 # Fear Is About What You'll Have to Feel
@@ -61,8 +61,23 @@ This is why moving toward the helplessness ("what would you feel?") often dissol
 
 The 8-out-of-10 pattern is the external counterpart of this internal release: once the feared feeling has moved through, the action becomes available, and the feared outcome usually does not arrive. See [[feared-consequences-rarely-happen]].
 
+## Fear Also Carries Information About What You Care About
+
+The principle that fear is about what you would have to feel is one face of the fear. Another face is that fear simultaneously tells the person what they care about and what is perceived as threatening it. See [[fear-as-signal-of-care]].
+
+The two faces are not in tension. Feeling the avoided emotion (this principle) clears the suppression that was preventing the signal from being read (the signal-of-care principle). The two operate on the same underlying material from different angles. The work of feeling the unfelt emotion is also the work of receiving the fear's information.
+
+This is why people who treat fear only as something to overcome lose access to both. They do not get to feel the avoided emotion and they do not get to receive what the fear was signaling. The work in both cases is to welcome the fear rather than to manage it. See [[dont-step-on-the-signal]].
+
+## The Numbness Above the Fear
+
+For someone who has been suppressing fear for years, the first felt layer is often not the fear itself but the numbness that has been protecting against it. The numbness has to be felt before the fear underneath becomes accessible. See [[disassociation-as-numbness-layer]].
+
+The instruction in this case is not "feel the fear" but "feel the numbness." The numbness is the door. Trying to skip past it back to the fear collapses the process. Once the numbness softens, [[fear-vs-anxiety]] differentiation occurs naturally: diffuse anxiety arrives first, then specific fears emerge from the cloud.
+
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships

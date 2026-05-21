@@ -4,8 +4,8 @@ id: structure-and-empowerment
 title: "Structure and Empowerment in Organizations"
 aliases: ["structure creates safety", "org design empowerment", "decentralized empowerment", "structure for empowerment", "roles and empowerment"]
 tags: ["leadership", "organization", "empowerment", "structure", "decentralization"]
-related: ["empowered-vs-power", "principles-free-you", "fear-triangle", "vulnerability-in-the-workplace"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["empowered-vs-power", "principles-free-you", "fear-triangle", "vulnerability-in-the-workplace", "childhood-imprinting", "reframe-boss-as-customer", "become-unnecessary"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-08-13_Seeing Through Family Dynamics"]
 ---
 
 # Structure and Empowerment in Organizations
@@ -41,6 +41,16 @@ Heavy politics in a team or company is a marker of disempowerment at scale. Poli
 **Decentralization with shared principles.** The classic example: a small unit beats the larger force because decision-making happens at the edges, guided by shared principles. The Pentagon war games where a small band beat the US Army. Toyota's decentralization out-competing GM's centralization.
 
 "So you saw that there's a, I can't remember, it was one of the Malcolm Gladwell books talked about how in this war game, that the Pentagon does that like this small band of people beat the US Army because their decision-making was happening at the bottom. But there was some set of principles, some set of structure that they could all operate within." -- Joe Hudson, Empower over Power
+
+## Removing the Authority-Projection From the Room
+
+A specific structural intervention: if no one in the room is the authority figure that everyone else reports to, the parent-projections that normally fire in meetings diminish. The accountability function can be distributed.
+
+"One of the tricks that I will teach to executives is that if they aren't the authority figure in the room that everybody's reporting to, then a lot of these dynamics diminish. So one really cool way to stop those kind of projections that we're about to speak to is to make the team report to itself. Meaning every time you have a team meeting, somebody else is responsible for holding accountability. Meaning that the team, when somebody fails, it's not the boss who says, hey, what happened? It's the team that says, hey, what happened?" -- Joe Hudson, Seeing Through Family Dynamics
+
+This works because the parent-child projection requires a parent. When the accountability function is rotated through the team, no single seat carries the parental charge. Each member is accountable to the group, not to a person who occupies their internalized parent slot. See [[childhood-imprinting]] for the underlying mechanism this works around.
+
+The drag the projections create is substantial: pleasing the boss, fearing disappointment from the boss, rebelling against the boss, recreating the parental-disappointment dynamic. Each of these distortions taxes the team's actual work. Removing the authority-projection target removes a category of drag at once.
 
 ## Examples of Structure That Empowers
 

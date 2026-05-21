@@ -71,3 +71,4 @@ The only way out of the loop is feeling the avoided emotion. See [[feeling-the-u
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2021-07-30_Your World is a Projection

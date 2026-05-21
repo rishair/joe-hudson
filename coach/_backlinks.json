@@ -5,6 +5,7 @@
     "i-freeze-around-authority",
     "i-have-to-sacrifice-to-succeed",
     "im-afraid-of-stagnating",
+    "im-not-an-anxious-person",
     "disassociating-in-the-coaching-room",
     "fight-or-roll-over-binary",
     "in-the-story-im-not-being-seen",
@@ -27,6 +28,7 @@
     "empathy-vs-sympathy",
     "love-vs-nice",
     "caretaking-prevents-the-bottom",
+    "subjugation-prevents-healing",
     "what-is-truly-compassionate",
     "visualizing-feared-outcomes",
     "fear-triangle",
@@ -85,7 +87,8 @@
     "inherent-goodness",
     "marketing-as-the-beginning",
     "shame-drives-behavior",
-    "view"
+    "view",
+    "welcoming-fear-in-leadership"
   ],
   "i-have-to-sacrifice-to-succeed": [
     "i-caretake-people",
@@ -126,6 +129,7 @@
     "my-inner-critic-wont-stop",
     "what-if-you-acted-exactly-how-you-want",
     "what-would-happen-if-you-stopped",
+    "fear-as-signal-of-care",
     "impartiality",
     "resistance",
     "binary-thinking-signals-fear",
@@ -188,6 +192,7 @@
   "feared-consequences-rarely-happen": [
     "i-feel-trapped",
     "what-if-you-acted-exactly-how-you-want",
+    "fear-as-signal-of-care",
     "untruth-in-every-thought",
     "vulnerability",
     "empowered-vs-power",
@@ -201,6 +206,7 @@
     "vulnerability",
     "quit-hope-lose-cycle",
     "rebellion-or-submission-to-should",
+    "reframe-boss-as-customer",
     "acting-as-if-already-true",
     "feared-consequences-rarely-happen",
     "helplessness-is-the-gateway",
@@ -228,10 +234,12 @@
     "fight-or-roll-over-binary",
     "in-the-story-im-not-being-seen",
     "rehearsing-how-to-say-it",
+    "projections",
     "upright-undefended-love",
     "childhood-imprinting",
     "become-the-authority-figure",
-    "mirror-the-judgment"
+    "mirror-the-judgment",
+    "reframe-boss-as-customer"
   ],
   "childhood-imprinting": [
     "i-freeze-around-authority",
@@ -240,18 +248,26 @@
     "money-is-bad",
     "my-inner-critic-wont-stop",
     "feeling-the-unfelt-emotion",
+    "i-cant-trust-my-thoughts-right-now",
     "money-as-surrogate",
     "poverty-mentality",
+    "projections",
     "the-want",
     "voice-as-care",
     "voice-in-the-head",
+    "complementary-trauma-surfaces",
     "impulse-to-should",
     "perfectionism",
     "pleasure-capacity",
+    "reframe-boss-as-customer",
+    "become-unnecessary",
+    "honor-the-patterns-intent",
     "inherent-goodness",
+    "trace-emotion-to-its-first-felt",
     "joes-abandonment-mapping",
     "joes-crying-story",
-    "joes-pleasing-dad-money-story"
+    "joes-pleasing-dad-money-story",
+    "structure-and-empowerment"
   ],
   "in-the-story-im-not-being-seen": [
     "i-freeze-around-authority",
@@ -290,6 +306,16 @@
     "i-freeze-around-authority",
     "fight-or-roll-over-binary",
     "upright-undefended-love"
+  ],
+  "reframe-boss-as-customer": [
+    "i-freeze-around-authority",
+    "childhood-imprinting"
+  ],
+  "i-cant-trust-my-thoughts-right-now": [
+    "i-freeze-around-authority",
+    "trauma-mapping",
+    "childhood-imprinting",
+    "trace-emotion-to-its-first-felt"
   ],
   "i-have-no-choice": [
     "i-have-to-sacrifice-to-succeed"
@@ -331,6 +357,7 @@
     "defense-vs-love",
     "enjoy-over-manage",
     "improvement-vs-authenticity",
+    "choosing-the-projection-that-serves",
     "connection-over-perfection",
     "nature-improves-itself",
     "wants-over-shoulds",
@@ -359,6 +386,7 @@
   ],
   "engineering-heartbreak-to-avoid-heartbreak": [
     "i-keep-crashing-and-burning",
+    "projections",
     "trauma-mapping",
     "rehearsing-conversations"
   ],
@@ -367,6 +395,7 @@
     "money-is-bad",
     "view-as-technique",
     "container-of-love",
+    "emotions-as-road-signs",
     "engineering-heartbreak-to-avoid-heartbreak",
     "familiar-over-safe",
     "feeling-the-unfelt-emotion",
@@ -374,7 +403,10 @@
     "loving-all-parts",
     "money-as-surrogate",
     "poverty-mentality",
+    "projections",
     "believing-the-convenient-lie",
+    "complementary-trauma-surfaces",
+    "negative-bias-of-trauma-imprinting",
     "what-we-fear-we-invite",
     "joes-abandonment-mapping"
   ],
@@ -390,7 +422,8 @@
     "victim-stance-invites-abuse",
     "voice-creates-what-it-fears",
     "vulnerability-protects",
-    "joes-abandonment-mapping"
+    "joes-abandonment-mapping",
+    "target-fixation"
   ],
   "not-sometimes-right-now": [
     "i-keep-crashing-and-burning",
@@ -427,6 +460,7 @@
     "wants-vs-partiality",
     "caretaking-prevents-the-bottom",
     "helplessness-is-the-gateway",
+    "honor-the-patterns-intent",
     "inherent-goodness",
     "nervous-system-recovery-after-stress",
     "voice-creates-what-it-fears",
@@ -460,21 +494,29 @@
     "i-keep-crashing-and-burning",
     "what-is-it-without-resistance",
     "what-would-happen-if-you-stopped",
+    "dont-make-family-dynamics-the-story",
     "container-of-love",
     "defense",
+    "emotions-as-road-signs",
     "empathy",
     "engineering-heartbreak-to-avoid-heartbreak",
     "familiar-over-safe",
     "grief-as-gateway-to-self-love",
     "heartbreak-as-capacity-expansion",
+    "i-cant-trust-my-thoughts-right-now",
     "kinked-emotions",
     "letting-judgment-in",
     "poverty-mentality",
+    "projections",
     "resistance",
     "trauma-mapping",
     "unfelt-emotion-leaks",
+    "zen-sickness",
     "binary-thinking-signals-fear",
     "childhood-imprinting",
+    "complementary-trauma-surfaces",
+    "disassociation-as-numbness-layer",
+    "negative-bias-of-trauma-imprinting",
     "negative-self-reinforcement",
     "pleasure-capacity",
     "rehearsing-conversations",
@@ -484,27 +526,34 @@
     "treat-yourself-as-actor-of-emotion",
     "welcoming-the-others-emotion",
     "enjoy-over-manage",
+    "fear-vs-anxiety",
     "fear-vs-excitement",
     "feel-over-figure",
     "judgment-vs-discernment",
     "managing-vs-healing-trauma",
     "past-shame-vs-current-shame",
     "suffering-vs-pain",
+    "choosing-the-projection-that-serves",
     "dont-do-emotion-at-people",
     "embrace-intensity",
     "emotions-live-in-muscles",
+    "falling-in-love-with-projections",
     "fear-is-about-feeling",
     "helplessness-is-the-gateway",
+    "honor-the-patterns-intent",
     "owning-the-want-dissolves-it",
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
     "feeling-the-want-as-emotion",
+    "let-your-body-shake-it-out",
+    "trace-emotion-to-its-first-felt",
     "visualizing-feared-outcomes",
     "whats-looking-out-behind-my-eyes",
     "stages-of-emotional-development",
     "joes-abandonment-mapping",
     "joes-crying-story",
     "joes-pot-habit",
+    "target-fixation",
     "worthlessness-freedom"
   ],
   "no-finish-line": [
@@ -614,18 +663,25 @@
     "im-afraid-of-stagnating",
     "what-am-i",
     "tools-to-change-not-love",
+    "cult-of-one",
     "no-finish-line",
+    "projections",
     "undoing-not-doing",
     "voice-in-the-head",
     "improvement-vs-authenticity",
+    "surrender-to-ineffable-vs-person",
+    "choosing-the-projection-that-serves",
     "whats-looking-out-behind-my-eyes",
     "musk-deer-parable"
   ],
   "what-am-i": [
     "i-need-to-improve-myself",
     "how-do-you-want-to-be",
+    "cult-of-one",
+    "projections",
     "self-realization",
     "voice-in-the-head",
+    "falling-in-love-with-projections",
     "lawyer-the-voice",
     "whats-looking-out-behind-my-eyes",
     "musk-deer-parable"
@@ -669,6 +725,7 @@
   "the-want": [
     "i-should-be-doing-this",
     "ill-become-lazy-without-shoulds",
+    "fear-as-signal-of-care",
     "money-as-surrogate",
     "poverty-mentality",
     "untruth-in-every-thought",
@@ -770,6 +827,7 @@
   "acceptance-as-change-strategy": [
     "if-i-had-more-money",
     "constraints-increase-creativity",
+    "falling-in-love-with-projections",
     "michelangelo-sistine-chapel",
     "money-domain"
   ],
@@ -788,6 +846,116 @@
     "money-must-flow",
     "money-domain"
   ],
+  "disassociation-as-numbness-layer": [
+    "im-not-an-anxious-person",
+    "fear-as-signal-of-care",
+    "feeling-the-unfelt-emotion",
+    "fear-vs-anxiety",
+    "fear-is-about-feeling",
+    "let-your-body-shake-it-out",
+    "welcoming-fear-in-leadership"
+  ],
+  "dont-step-on-the-signal": [
+    "im-not-an-anxious-person",
+    "fear-as-signal-of-care",
+    "fear-vs-excitement",
+    "fear-is-about-feeling",
+    "welcoming-fear-in-leadership"
+  ],
+  "fear-as-signal-of-care": [
+    "im-not-an-anxious-person",
+    "dont-step-on-the-signal",
+    "disassociation-as-numbness-layer",
+    "fear-vs-anxiety",
+    "fear-vs-excitement",
+    "fear-is-about-feeling",
+    "let-your-body-shake-it-out",
+    "welcoming-fear-in-leadership"
+  ],
+  "welcoming-fear-in-leadership": [
+    "im-not-an-anxious-person",
+    "dont-step-on-the-signal",
+    "vulnerability-in-the-workplace"
+  ],
+  "unfelt-emotion-leaks": [
+    "im-not-an-anxious-person",
+    "my-inner-critic-wont-stop",
+    "dont-step-on-the-signal",
+    "emotions-as-road-signs",
+    "feeling-the-unfelt-emotion",
+    "disassociation-as-numbness-layer",
+    "three-signals-of-unfelt-emotion",
+    "feel-over-figure",
+    "judgment-vs-discernment",
+    "dont-do-emotion-at-people",
+    "daily-emotional-yoga"
+  ],
+  "fear-vs-anxiety": [
+    "im-not-an-anxious-person",
+    "dont-step-on-the-signal",
+    "fear-as-signal-of-care",
+    "feeling-the-unfelt-emotion",
+    "disassociation-as-numbness-layer",
+    "fear-is-about-feeling",
+    "let-your-body-shake-it-out",
+    "welcoming-fear-in-leadership"
+  ],
+  "let-your-body-shake-it-out": [
+    "im-not-an-anxious-person",
+    "feeling-the-unfelt-emotion"
+  ],
+  "vulnerability": [
+    "im-not-an-anxious-person",
+    "dont-step-on-the-signal",
+    "fixing-people",
+    "view-as-technique",
+    "vulnerability-as-control",
+    "wonder-as-strategy",
+    "being-heard",
+    "empathy",
+    "fear-as-signal-of-care",
+    "feeling-the-unfelt-emotion",
+    "impartiality",
+    "letting-judgment-in",
+    "wonder",
+    "believing-the-convenient-lie",
+    "childhood-imprinting",
+    "owning-your-partiality",
+    "boundary-with-vs-boundary-against",
+    "defense-vs-love",
+    "empowered-vs-power",
+    "fear-vs-excitement",
+    "love-vs-nice",
+    "past-shame-vs-current-shame",
+    "vulnerability-vs-weakness",
+    "wants-vs-partiality",
+    "acting-as-if-already-true",
+    "feared-consequences-rarely-happen",
+    "trying-to-be-right-is-the-voice",
+    "vulnerability-is-personal",
+    "vulnerability-protects",
+    "whats-the-scary-truth",
+    "conditions-for-transformation",
+    "view",
+    "mikey-siegel-pitch",
+    "vulnerability-in-the-workplace"
+  ],
+  "whats-the-scary-truth": [
+    "im-not-an-anxious-person",
+    "how-do-you-want-to-be",
+    "vulnerability",
+    "vulnerability-is-personal"
+  ],
+  "i-keep-crashing-and-burning": [
+    "im-not-an-anxious-person",
+    "desire-for-resolution",
+    "linguistic-caveat",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "nervous-system-recovery-after-stress"
+  ],
+  "my-inner-critic-wont-stop": [
+    "im-not-an-anxious-person"
+  ],
   "just-business-vs-impersonal": [
     "money-is-bad",
     "money-is-impersonal",
@@ -805,6 +973,7 @@
     "unfelt-emotion-leaks",
     "voice-in-the-head",
     "binary-thinking-signals-fear",
+    "fear-vs-anxiety",
     "feel-over-figure",
     "judgment-vs-discernment",
     "decisions-are-emotional"
@@ -812,6 +981,7 @@
   "voice-in-the-head": [
     "my-inner-critic-wont-stop",
     "dont-fight-the-voice",
+    "cult-of-one",
     "should-as-threat",
     "untruth-in-every-thought",
     "voice-as-care",
@@ -841,6 +1011,7 @@
     "untruth-in-every-thought",
     "voice-in-the-head",
     "apply-view-to-the-voice",
+    "honor-the-patterns-intent",
     "voice-creates-what-it-fears",
     "experimenting-with-the-voice"
   ],
@@ -885,15 +1056,6 @@
     "rehearsing-conversations",
     "apply-view-to-the-voice"
   ],
-  "unfelt-emotion-leaks": [
-    "my-inner-critic-wont-stop",
-    "feeling-the-unfelt-emotion",
-    "three-signals-of-unfelt-emotion",
-    "feel-over-figure",
-    "judgment-vs-discernment",
-    "dont-do-emotion-at-people",
-    "daily-emotional-yoga"
-  ],
   "experimenting-with-the-voice": [
     "my-inner-critic-wont-stop",
     "dont-fight-the-voice",
@@ -918,6 +1080,7 @@
   "whats-looking-out-behind-my-eyes": [
     "my-inner-critic-wont-stop",
     "dont-fight-the-voice",
+    "projections",
     "voice-in-the-head",
     "lawyer-the-voice"
   ],
@@ -925,14 +1088,9 @@
     "my-inner-critic-wont-stop",
     "voice-in-the-head"
   ],
-  "i-keep-crashing-and-burning": [
-    "desire-for-resolution",
-    "linguistic-caveat",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "nervous-system-recovery-after-stress"
-  ],
   "binary-thinking-signals-fear": [
     "fight-or-roll-over-binary",
+    "cult-of-one",
     "untruth-in-every-thought",
     "three-signals-of-unfelt-emotion",
     "feel-over-figure",
@@ -957,6 +1115,7 @@
     "trying-vs-doing",
     "embrace-intensity",
     "enjoyment-as-path",
+    "falling-in-love-with-projections",
     "fear-is-about-feeling",
     "love-is-the-best-change-agent",
     "process-over-result",
@@ -1015,11 +1174,6 @@
   "what-do-you-want": [
     "how-do-you-want-to-be"
   ],
-  "whats-the-scary-truth": [
-    "how-do-you-want-to-be",
-    "vulnerability",
-    "vulnerability-is-personal"
-  ],
   "wanting-itself-not-what-you-want": [
     "how-is-that-not-here-right-now",
     "what-if-there-is-no-finish-line",
@@ -1029,8 +1183,23 @@
   "mirror-the-judgment": [
     "how-is-that-not-true-about-you",
     "what-if-they-did-see-you",
+    "projections",
     "ask-the-witnesses",
-    "question-the-caveat"
+    "question-the-caveat",
+    "falling-in-love-with-projections"
+  ],
+  "projections": [
+    "how-is-that-not-true-about-you",
+    "cult-of-one",
+    "self-realization",
+    "trauma-mapping",
+    "childhood-imprinting",
+    "negative-bias-of-trauma-imprinting",
+    "mirror-the-judgment",
+    "choosing-the-projection-that-serves",
+    "falling-in-love-with-projections",
+    "whats-looking-out-behind-my-eyes",
+    "target-fixation"
   ],
   "wonder": [
     "what-am-i",
@@ -1043,6 +1212,7 @@
     "rehearsing-conversations",
     "apply-view-to-the-voice",
     "boundary-with-vs-boundary-against",
+    "choosing-the-projection-that-serves",
     "follow-the-demand",
     "process-over-result",
     "right-question-over-right-answer",
@@ -1058,7 +1228,8 @@
   ],
   "welcoming-the-others-emotion": [
     "what-would-happen-if-you-stopped",
-    "chase-it-around-the-room"
+    "chase-it-around-the-room",
+    "welcoming-fear-in-leadership"
   ],
   "caretaking-prevents-the-bottom": [
     "what-would-happen-if-you-stopped",
@@ -1126,13 +1297,19 @@
   "community-over-teacher": [
     "dont-evangelize-the-work",
     "container-of-love",
+    "cult-of-one",
     "integration",
+    "surrender-to-ineffable-vs-person",
     "become-unnecessary",
-    "good-and-corruption-cycle"
+    "good-and-corruption-cycle",
+    "subjugation-prevents-healing",
+    "keeping-cult-dynamics-conscious"
   ],
   "good-and-corruption-cycle": [
     "dont-evangelize-the-work",
-    "community-over-teacher"
+    "cult-of-one",
+    "community-over-teacher",
+    "keeping-cult-dynamics-conscious"
   ],
   "layered-resistance": [
     "dont-fight-the-voice",
@@ -1154,38 +1331,26 @@
     "love-is-the-best-change-agent",
     "joes-26-year-old-list"
   ],
-  "vulnerability": [
-    "fixing-people",
-    "view-as-technique",
-    "vulnerability-as-control",
-    "wonder-as-strategy",
-    "being-heard",
-    "empathy",
-    "feeling-the-unfelt-emotion",
-    "impartiality",
-    "letting-judgment-in",
-    "wonder",
-    "believing-the-convenient-lie",
+  "honor-the-patterns-intent": [
+    "dont-make-family-dynamics-the-story",
+    "i-cant-trust-my-thoughts-right-now",
+    "loving-all-parts",
     "childhood-imprinting",
-    "owning-your-partiality",
-    "boundary-with-vs-boundary-against",
-    "defense-vs-love",
-    "empowered-vs-power",
-    "fear-vs-excitement",
-    "love-vs-nice",
-    "past-shame-vs-current-shame",
-    "vulnerability-vs-weakness",
-    "wants-vs-partiality",
-    "acting-as-if-already-true",
-    "feared-consequences-rarely-happen",
-    "trying-to-be-right-is-the-voice",
-    "vulnerability-is-personal",
-    "vulnerability-protects",
-    "whats-the-scary-truth",
-    "conditions-for-transformation",
-    "view",
-    "mikey-siegel-pitch",
-    "vulnerability-in-the-workplace"
+    "complementary-trauma-surfaces",
+    "trace-emotion-to-its-first-felt"
+  ],
+  "im-not-an-anxious-person": [
+    "dont-step-on-the-signal",
+    "fear-as-signal-of-care",
+    "disassociation-as-numbness-layer",
+    "fear-vs-anxiety",
+    "welcoming-fear-in-leadership"
+  ],
+  "fear-vs-excitement": [
+    "dont-step-on-the-signal",
+    "kinked-emotions",
+    "resistance",
+    "vulnerability"
   ],
   "wants-vs-partiality": [
     "fixing-people",
@@ -1200,6 +1365,7 @@
   "staying-in-your-body": [
     "losing-yourself-in-others",
     "empathy",
+    "disassociation-as-numbness-layer",
     "not-sometimes-right-now",
     "emotions-live-in-muscles",
     "is-this-mine",
@@ -1213,7 +1379,9 @@
     "loving-to-transform",
     "love-as-deep-welcoming",
     "loving-all-parts",
-    "acceptance-as-change-strategy"
+    "acceptance-as-change-strategy",
+    "falling-in-love-with-projections",
+    "honor-the-patterns-intent"
   ],
   "boundary-with-vs-boundary-against": [
     "loving-to-transform",
@@ -1229,6 +1397,7 @@
     "resentment-as-caretaking-diagnostic",
     "acceptance-as-change-strategy",
     "caretaking-prevents-the-bottom",
+    "subjugation-prevents-healing",
     "joes-board-member"
   ],
   "love-as-deep-welcoming": [
@@ -1312,9 +1481,12 @@
     "love-as-deep-welcoming",
     "voice-as-care",
     "late-stage-reversion",
+    "negative-bias-of-trauma-imprinting",
     "excavating-the-inner-critic-in-group",
     "improvement-vs-authenticity",
     "acceptance-as-change-strategy",
+    "falling-in-love-with-projections",
+    "honor-the-patterns-intent",
     "love-is-the-best-change-agent"
   ],
   "familiar-over-safe": [
@@ -1390,12 +1562,25 @@
     "container-of-love",
     "zen-sickness",
     "3-to-5-rule",
+    "childhood-imprinting",
     "late-stage-reversion",
     "become-unnecessary",
     "community-over-teacher",
     "epiphany-becomes-rut",
     "nervous-system-recovery-after-stress",
     "process-over-result"
+  ],
+  "surrender-to-ineffable-vs-person": [
+    "cult-of-one",
+    "community-over-teacher",
+    "subjugation-prevents-healing"
+  ],
+  "subjugation-prevents-healing": [
+    "cult-of-one",
+    "surrender-to-ineffable-vs-person",
+    "community-over-teacher",
+    "good-and-corruption-cycle",
+    "keeping-cult-dynamics-conscious"
   ],
   "examples/joes-board-member": [
     "defense",
@@ -1426,6 +1611,47 @@
     "defense-vs-love",
     "conditions-for-transformation"
   ],
+  "kinked-emotions": [
+    "emotions-as-road-signs",
+    "feeling-the-unfelt-emotion",
+    "resistance",
+    "unfelt-emotion-leaks",
+    "treat-yourself-as-actor-of-emotion",
+    "fear-vs-excitement",
+    "emotions-live-in-muscles",
+    "daily-emotional-yoga",
+    "stages-of-emotional-development"
+  ],
+  "decisions-are-emotional": [
+    "emotions-as-road-signs",
+    "empathy",
+    "three-signals-of-unfelt-emotion",
+    "epiphany-vs-transformation",
+    "feel-over-figure"
+  ],
+  "feel-over-figure": [
+    "emotions-as-road-signs",
+    "fear-as-signal-of-care",
+    "feeling-the-unfelt-emotion",
+    "i-cant-trust-my-thoughts-right-now",
+    "unfelt-emotion-leaks",
+    "binary-thinking-signals-fear",
+    "three-signals-of-unfelt-emotion",
+    "treat-yourself-as-actor-of-emotion",
+    "judgment-vs-discernment",
+    "decisions-are-emotional",
+    "dont-do-emotion-at-people",
+    "daily-emotional-yoga"
+  ],
+  "daily-emotional-yoga": [
+    "emotions-as-road-signs",
+    "feeling-the-unfelt-emotion",
+    "emotions-live-in-muscles",
+    "feeling-the-want-as-emotion",
+    "let-your-body-shake-it-out",
+    "stages-of-emotional-development",
+    "joes-crying-story"
+  ],
   "empathy-vs-sympathy": [
     "empathy"
   ],
@@ -1436,12 +1662,6 @@
     "daily-emotional-yoga",
     "conditions-for-transformation",
     "stages-of-emotional-development"
-  ],
-  "decisions-are-emotional": [
-    "empathy",
-    "three-signals-of-unfelt-emotion",
-    "epiphany-vs-transformation",
-    "feel-over-figure"
   ],
   "joes-abandonment-mapping": [
     "engineering-heartbreak-to-avoid-heartbreak",
@@ -1456,18 +1676,12 @@
     "trauma-mapping",
     "excavating-the-inner-critic-in-group",
     "managing-vs-healing-trauma",
+    "subjugation-prevents-healing",
     "trauma-heals-in-relationship"
   ],
   "treat-yourself-as-actor-of-emotion": [
     "feeling-the-unfelt-emotion",
     "chase-it-around-the-room"
-  ],
-  "daily-emotional-yoga": [
-    "feeling-the-unfelt-emotion",
-    "emotions-live-in-muscles",
-    "feeling-the-want-as-emotion",
-    "stages-of-emotional-development",
-    "joes-crying-story"
   ],
   "stages-of-emotional-development": [
     "feeling-the-unfelt-emotion",
@@ -1485,27 +1699,6 @@
     "vulnerability",
     "shame-drives-behavior"
   ],
-  "kinked-emotions": [
-    "feeling-the-unfelt-emotion",
-    "resistance",
-    "unfelt-emotion-leaks",
-    "treat-yourself-as-actor-of-emotion",
-    "fear-vs-excitement",
-    "emotions-live-in-muscles",
-    "daily-emotional-yoga",
-    "stages-of-emotional-development"
-  ],
-  "feel-over-figure": [
-    "feeling-the-unfelt-emotion",
-    "unfelt-emotion-leaks",
-    "binary-thinking-signals-fear",
-    "three-signals-of-unfelt-emotion",
-    "treat-yourself-as-actor-of-emotion",
-    "judgment-vs-discernment",
-    "decisions-are-emotional",
-    "dont-do-emotion-at-people",
-    "daily-emotional-yoga"
-  ],
   "managing-vs-healing-trauma": [
     "grief-as-gateway-to-self-love"
   ],
@@ -1516,12 +1709,19 @@
     "heartbreak-as-capacity-expansion",
     "love-as-deep-welcoming",
     "upright-undefended-love",
+    "disassociation-as-numbness-layer",
     "boundary-with-vs-boundary-against",
     "just-business-vs-impersonal",
     "hardening-means-personal",
     "love-requires-empowerment",
     "joes-board-member",
     "joes-weeping-at-superficial-conversations"
+  ],
+  "trace-emotion-to-its-first-felt": [
+    "i-cant-trust-my-thoughts-right-now",
+    "trauma-mapping",
+    "childhood-imprinting",
+    "reframe-boss-as-customer"
   ],
   "owning-your-partiality": [
     "impartiality",
@@ -1548,6 +1748,7 @@
   ],
   "zen-sickness": [
     "integration",
+    "projections",
     "self-realization",
     "undoing-not-doing",
     "voice-in-the-head",
@@ -1557,11 +1758,6 @@
     "integration",
     "zen-sickness",
     "decisions-are-emotional"
-  ],
-  "fear-vs-excitement": [
-    "kinked-emotions",
-    "resistance",
-    "vulnerability"
   ],
   "heartbreak-as-capacity-expansion": [
     "letting-judgment-in",
@@ -1588,6 +1784,8 @@
   "love-requires-empowerment": [
     "love-as-deep-welcoming",
     "upright-undefended-love",
+    "surrender-to-ineffable-vs-person",
+    "subjugation-prevents-healing",
     "joes-board-member"
   ],
   "if-i-had-more-money": [
@@ -1633,6 +1831,25 @@
     "view",
     "pow-optimist"
   ],
+  "how-is-that-not-true-about-you": [
+    "projections"
+  ],
+  "choosing-the-projection-that-serves": [
+    "projections",
+    "falling-in-love-with-projections"
+  ],
+  "cult-of-one": [
+    "projections",
+    "surrender-to-ineffable-vs-person",
+    "good-and-corruption-cycle",
+    "subjugation-prevents-healing",
+    "keeping-cult-dynamics-conscious"
+  ],
+  "falling-in-love-with-projections": [
+    "projections",
+    "mirror-the-judgment",
+    "choosing-the-projection-that-serves"
+  ],
   "negative-self-reinforcement": [
     "resistance",
     "impulse-to-should",
@@ -1672,10 +1889,19 @@
     "what-is-truly-compassionate",
     "feeling-the-want-as-emotion"
   ],
+  "complementary-trauma-surfaces": [
+    "trauma-mapping",
+    "childhood-imprinting"
+  ],
+  "negative-bias-of-trauma-imprinting": [
+    "trauma-mapping",
+    "childhood-imprinting"
+  ],
   "judgment-vs-discernment": [
     "unfelt-emotion-leaks",
     "three-signals-of-unfelt-emotion",
     "feel-over-figure",
+    "choosing-the-projection-that-serves",
     "decisions-are-emotional",
     "joes-weeping-at-superficial-conversations"
   ],
@@ -1697,7 +1923,8 @@
     "vulnerability",
     "consciousness-is-the-product",
     "authenticity-in-business",
-    "structure-and-empowerment"
+    "structure-and-empowerment",
+    "welcoming-fear-in-leadership"
   ],
   "vulnerability-vs-weakness": [
     "vulnerability"
@@ -1715,6 +1942,16 @@
   "wonder-vs-curiosity": [
     "wonder"
   ],
+  "emotions-as-road-signs": [
+    "zen-sickness"
+  ],
+  "dont-make-family-dynamics-the-story": [
+    "childhood-imprinting"
+  ],
+  "trauma-heals-in-relationship": [
+    "complementary-trauma-surfaces",
+    "excavating-the-inner-critic-in-group"
+  ],
   "weaponized-not-caretaking": [
     "development-as-corkscrew",
     "caring-vs-caretaking"
@@ -1731,8 +1968,13 @@
     "listening-to-impulse",
     "seven-limiting-beliefs"
   ],
-  "trauma-heals-in-relationship": [
-    "excavating-the-inner-critic-in-group"
+  "structure-and-empowerment": [
+    "reframe-boss-as-customer",
+    "principles-free-you",
+    "fear-triangle",
+    "buurtzorg-nursing",
+    "authenticity-in-business",
+    "vulnerability-in-the-workplace"
   ],
   "three-ways-to-fire-someone": [
     "caring-vs-caretaking",
@@ -1783,6 +2025,10 @@
     "safety-vs-defensiveness",
     "five-principles-of-the-path"
   ],
+  "enjoyment-as-surrender": [
+    "surrender-to-ineffable-vs-person",
+    "enjoyment-as-path"
+  ],
   "Wants-Over-Shoulds": [
     "acting-as-if-already-true"
   ],
@@ -1794,6 +2040,10 @@
     "community-over-teacher",
     "follow-the-demand",
     "good-and-corruption-cycle"
+  ],
+  "keeping-cult-dynamics-conscious": [
+    "community-over-teacher",
+    "subjugation-prevents-healing"
   ],
   "become-unnecessary": [
     "community-over-teacher",
@@ -1814,26 +2064,17 @@
   "butchers-blade": [
     "efficiency-as-enjoyment"
   ],
-  "enjoyment-as-surrender": [
-    "enjoyment-as-path"
-  ],
   "vulnerability-protects": [
     "fear-is-about-feeling"
   ],
   "authenticity-in-business": [
     "follow-the-demand",
     "marketing-as-the-beginning",
-    "buurtzorg-nursing"
+    "buurtzorg-nursing",
+    "welcoming-fear-in-leadership"
   ],
   "tennis-quarter": [
     "goal-beyond-the-goal"
-  ],
-  "structure-and-empowerment": [
-    "principles-free-you",
-    "fear-triangle",
-    "buurtzorg-nursing",
-    "authenticity-in-business",
-    "vulnerability-in-the-workplace"
   ],
   "knowing|knowing-as-opposite-of-wonder": [
     "right-question-over-right-answer"
@@ -1847,12 +2088,18 @@
   "childhood-vulnerability-wound": [
     "vulnerability-protects"
   ],
+  "target-fixation": [
+    "what-we-fear-we-invite"
+  ],
   "joes-crying-story": [
     "daily-emotional-yoga"
   ],
   "why-questions": [
     "how-what-questions",
     "view"
+  ],
+  "nervous-system-recovery-after-stress": [
+    "let-your-body-shake-it-out"
   ],
   "creative-career-story": [
     "listening-to-impulse"
