@@ -35,11 +35,11 @@ Claude Code agents claim work by marking nodes as `active`, run experiments, rec
 | Goal | Status |
 |------|--------|
 | G-001: Download and transcribe all AoA content | Completed |
-| G-007: Build coaching compendium from transcripts | Active (24/480 transcripts absorbed) |
+| G-007: Build coaching compendium from transcripts | Active (21/480 transcripts absorbed, ~205 articles) |
 
 ## The Compendium
 
-The compendium (`meta/wiki/compendium/`) is a coaching knowledge graph extracted from Joe Hudson's transcripts. It's designed to power an AI coach that coaches the way Joe does.
+The compendium (`coach/`) is a coaching knowledge graph extracted from Joe Hudson's transcripts. It's designed to power an AI coach that coaches the way Joe does.
 
 ### Three layers
 
@@ -49,14 +49,19 @@ The compendium (`meta/wiki/compendium/`) is a coaching knowledge graph extracted
 
 3. **Methodology** -- Joe's toolkit. This layer contains:
    - **Concepts** -- core ideas like Wonder, Vulnerability, Impartiality, Feeling Unfelt Emotions
-   - **Moves** -- specific coaching actions (Following Wonder, Reflecting the Judgment Back)
-   - **Questions** -- "What do you want?" "What's the scary thing that's true?"
-   - **Distinctions** -- pairs that clarify thinking (Caring vs Caretaking, Knowing vs Wonder)
-   - **Principles** -- operating rules (Shame Locks Bad Habits, Fear Invites What We Fear)
-   - **Practices** -- things to try (Get 30 Rejections, Enjoy Yourself 10% More)
+   - **Moves** -- specific coaching actions (Become the Authority Figure, Mirror the Judgment)
+   - **Questions** -- "What do you want?" "How is that not true about you?"
+   - **Distinctions** -- pairs that clarify thinking (Caring vs Caretaking, Love vs Nice)
+   - **Principles** -- operating rules (Shame Drives Behavior, What We Fear We Invite)
+   - **Practices** -- things to try (Daily Emotional Yoga, Don't Improve for Two Weeks)
+   - **Patterns** -- recurring shapes Joe names (Quit-Hope-Lose Cycle, Childhood Imprinting)
    - **Arcs** -- the shape of transformation over time
-   - **Anti-patterns** -- what NOT to do (Don't use VIEW as a technique, Don't try to fix people)
-   - **Frameworks** -- structured methodologies like VIEW
+   - **Anti-patterns** -- what NOT to do (Don't use VIEW as a technique, Loving to Transform)
+   - **Frameworks** -- structured methodologies (VIEW, Fear Triangle, Four Faces of Love)
+   - **Examples** -- specific stories Joe tells (Tennis Quarter, Michelangelo, Subway Kid)
+   - **Applications** -- how concepts land in specific domains (Money, Vulnerability in the Workplace)
+
+Every 20 absorbs, a quality audit checkpoint runs against the compendium and writes its findings to `coach/checkpoints/`.
 
 ### How it encodes coaching
 
@@ -72,25 +77,33 @@ transcripts/                    # ~480 episodes, each with transcript.md + MEDIA
     transcript.md               # Speaker-diarized transcript
     MEDIA.md                    # Metadata (title, date, participants, source)
 
+coach/                          # The coaching compendium (knowledge graph)
+  _index.md                     # Master index of all articles
+  _backlinks.json               # Inverse-link map built by rebuild-index
+  _absorb_log.json              # Per-transcript record of what was absorbed
+  bin/                          # Claim, complete, and index-rebuild scripts
+  checkpoints/                  # Quality-audit summaries (every 20 absorbs)
+  concerns/                     # Layer 1: what people say
+  reads/                        # Layer 2: what Joe notices
+  concepts/                     # Layer 3: methodology
+  moves/
+  questions/
+  distinctions/
+  principles/
+  practices/
+  patterns/
+  arcs/
+  anti-patterns/
+  frameworks/
+  examples/                     # Specific stories Joe tells
+  applications/                 # How concepts land in specific domains
+
 meta/wiki/                      # Goal-driven wiki system
   index.md                      # Tree of all goals, research, experiments
   goals/                        # G-001 through G-007
   research/                     # R-001 through R-007
   experiments/                  # E-001 through E-018
   findings/
-  compendium/                   # The coaching knowledge graph
-    _index.md                   # Master index of all compendium articles
-    concerns/                   # Layer 1: what people say
-    reads/                      # Layer 2: what Joe notices
-    concepts/                   # Layer 3: methodology
-    moves/
-    questions/
-    distinctions/
-    principles/
-    practices/
-    arcs/
-    anti-patterns/
-    frameworks/
 ```
 
 ## Built with
