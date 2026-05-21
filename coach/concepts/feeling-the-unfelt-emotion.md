@@ -4,8 +4,8 @@ id: feeling-the-unfelt-emotion
 title: "Feeling the Unfelt Emotion"
 aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling"]
 tags: ["trauma", "healing", "emotions", "core mechanism"]
-related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5"]
+related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
 ---
 
 # Feeling the Unfelt Emotion
@@ -26,11 +26,20 @@ The concrete example Joe gives: a person who experienced emotional abandonment a
 
 The key phrase is "looked forward to." Not endured. Not tolerated. Welcomed.
 
+## Resistance as the Gateway
+
+[[resistance]] is, on an emotional level, "not wanting to feel something." This is the most direct entry point to this concept. The most commonly unseen question in any moment of resistance is: "What's the feeling I'm resisting? What's the thing I don't want to feel?"
+
+"The most important thing to think about when I'm thinking about resistance is it's a natural step in transformation." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
+
+When the resisted feeling is finally felt, the behavior that was driven by the avoidance dissolves on its own. Joe's pot habit in his twenties disappeared without willpower once he ran toward the sadness and anger he had been avoiding. The pattern held because it was serving as escape from unfelt emotions. Once felt, the escape lost its purpose.
+
 ## Upstream (What Leads Here)
 
 - When [[trauma-mapping]] has been identified and the person sees the pattern
 - When someone asks "how do I stop repeating this?"
 - When the coaching conversation has named the avoided emotion
+- When [[resistance]] has been identified and the question becomes "what am I not wanting to feel?"
 
 ## Connection to Vulnerability
 
@@ -38,7 +47,7 @@ The key phrase is "looked forward to." Not endured. Not tolerated. Welcomed.
 
 "The vulnerable thing to do when you're by yourself is to allow yourself to feel whatever you're feeling. Right now, in this moment, you can close your eyes and there's something in your system emotionally uncomfortable, and you can lean in and open to it, embrace it, and welcome it." -- Joe Hudson, Vulnerability -- Connection Course Series #5
 
-The emotions rejected in childhood (anger, sadness, fear, excitement) are the same ones the person rejects internally through avoidance. [[letting-judgment-in]] is a specific application: allowing the pain of being judged rather than deflecting it, which completes the emotional experience that was interrupted in childhood when being yourself led to rejection.
+The emotions rejected in childhood (anger, sadness, fear, excitement) are the same ones the person rejects internally through avoidance. See [[childhood-imprinting]] for how theta-state programming between ages 0 and 7 creates the emotional avoidance patterns that this practice resolves. [[letting-judgment-in]] is a specific application: allowing the pain of being judged rather than deflecting it, which completes the emotional experience that was interrupted in childhood when being yourself led to rejection.
 
 ## Downstream (Where This Leads)
 
@@ -51,3 +60,4 @@ The emotions rejected in childhood (anger, sadness, fear, excitement) are the sa
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2021-01-20_If You Can't Love the Feeling, Love the Resistance

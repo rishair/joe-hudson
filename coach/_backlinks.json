@@ -13,6 +13,7 @@
     "impartial-apathy",
     "view-as-technique",
     "empathy",
+    "resistance",
     "vulnerability",
     "wonder",
     "owning-your-partiality",
@@ -145,10 +146,14 @@
     "familiar-over-safe",
     "grief-as-gateway-to-self-love",
     "letting-judgment-in",
+    "resistance",
     "trauma-mapping",
     "childhood-imprinting",
+    "negative-self-reinforcement",
     "managing-vs-healing-trauma",
     "past-shame-vs-current-shame",
+    "suffering-vs-pain",
+    "embrace-intensity",
     "emotions-live-in-muscles",
     "fear-is-about-feeling",
     "visualizing-feared-outcomes",
@@ -198,6 +203,19 @@
     "managing-vs-healing-trauma",
     "trauma-heals-in-relationship"
   ],
+  "resistance": [
+    "feeling-the-unfelt-emotion",
+    "impartiality",
+    "layered-resistance",
+    "suffering-vs-pain",
+    "embrace-intensity",
+    "fear-is-about-feeling",
+    "process-over-result",
+    "shame-drives-behavior"
+  ],
+  "childhood-imprinting": [
+    "feeling-the-unfelt-emotion"
+  ],
   "letting-judgment-in": [
     "feeling-the-unfelt-emotion",
     "vulnerability",
@@ -223,13 +241,17 @@
   ],
   "shame-drives-behavior": [
     "impartiality",
+    "resistance",
+    "negative-self-reinforcement",
     "past-shame-vs-current-shame",
     "wants-vs-partiality",
     "what-we-fear-we-invite"
   ],
   "fear-is-about-feeling": [
     "impartiality",
+    "resistance",
     "short-term-vs-long-term-partiality",
+    "embrace-intensity",
     "vulnerability-protects",
     "what-we-fear-we-invite"
   ],
@@ -271,6 +293,22 @@
     "integration",
     "zen-sickness",
     "decisions-are-emotional"
+  ],
+  "layered-resistance": [
+    "resistance",
+    "negative-self-reinforcement",
+    "suffering-vs-pain",
+    "process-over-result"
+  ],
+  "embrace-intensity": [
+    "resistance",
+    "layered-resistance",
+    "negative-self-reinforcement"
+  ],
+  "negative-self-reinforcement": [
+    "resistance",
+    "layered-resistance",
+    "shame-drives-behavior"
   ],
   "vulnerability-in-the-workplace": [
     "vulnerability"

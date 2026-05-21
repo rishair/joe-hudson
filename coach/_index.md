@@ -35,6 +35,7 @@
 - integration Integration (also: integrating transformation, transcend and integrate, normalizing transformation, post-breakthrough integration)
 - letting-judgment-in Letting Judgment In (also: let it break your heart, receiving judgment, letting judgment break your heart, opening to judgment)
 - loving-all-parts Loving All Parts (also: loving all aspects of self, learning to love every part, loving the dark parts)
+- resistance Resistance (also: loving the resistance, if you can't love the thing love the resistance, resistance to change, fighting yourself, the fight, war with yourself)
 - trauma-mapping Trauma Mapping (also: mapping, attracting trauma, recreating trauma patterns, addiction to trauma)
 - vulnerability Vulnerability (also: being vulnerable, speaking your truth, truth even when scared, V in VIEW)
 - wonder Wonder (also: W in VIEW, awe, being in the question, open curiosity, follow your wonder)
@@ -46,6 +47,8 @@
 - believing-the-convenient-lie Believing the Convenient Lie (also: believe a lie that rhymes with truth, self-deception, wanting to believe, duping ourselves)
 - childhood-imprinting Childhood Imprinting (also: theta state programming, 0 to 7 programming, love withdrawal, rejected emotions from childhood, don't be yourself programming)
 - late-stage-reversion Late-Stage Reversion (also: deep reversion before breakthrough, regression before integration, the big hiccup)
+- layered-resistance Layered Resistance (also: meta-resistance, resisting the resistance, resistance in sheep's clothing, compounding resistance, fighting the fight, levels of fight)
+- negative-self-reinforcement Negative Self-Reinforcement (also: AC current pattern, self-punishment loop, kicking yourself in the face, associating the task with pain, negative reward cycle)
 
 ## Moves
 
@@ -60,6 +63,7 @@
 - managing-vs-healing-trauma Managing vs. Healing Trauma (also: managing vs resolving, symptom management vs resolution, managing PTSD vs healing it)
 - past-shame-vs-current-shame Past Shame vs. Current Shame (also: current shame vs past shame, useful shame, shame about the past, self-brutalization, shame that perpetuates patterns)
 - short-term-vs-long-term-partiality Short-Term vs. Long-Term Partiality (also: fear-based partiality vs principled partiality, reactive vs principled goals, kitchen drawer theory)
+- suffering-vs-pain Suffering vs. Pain (also: suffering is resistance to pain, Buddhist distinction, pain is not suffering, resistance to pain)
 - vulnerability-vs-weakness Vulnerability vs. Weakness (also: feeling weak vs being weak, vulnerability is not weakness, strength of vulnerability)
 - wants-vs-partiality Wants vs. Partiality (also: owning wants, wants are not partiality, owned wants vs hidden agenda, wanting vs pushing)
 - wonder-vs-curiosity Wonder vs. Curiosity (also: wonder not curiosity, why wonder instead of curiosity, open vs narrowing curiosity)
@@ -68,6 +72,7 @@
 
 - community-over-teacher Community Over Teacher (also: community is more important than the teacher, group intelligence, community of practice, wisdom of the group)
 - decisions-are-emotional Decisions Are Emotional (also: we decide emotionally, emotional decision making, Descartes' Error, logic serves emotion)
+- embrace-intensity Embrace Intensity (also: run toward intensity, run into it, intensity as path, embrace the intensity)
 - emotions-live-in-muscles Emotions Live in Muscles (also: feelings are muscular, body reads emotions, posture reveals emotion, muscular armoring, body language of emotion)
 - fear-is-about-feeling Fear Is About What You'll Have to Feel (also: fear is about feeling, fear of feeling, the fear is in the emotion, visualize the feared outcome, feel the fear in advance)
 - process-over-result Process Over Result (also: trust the process, faith in the process, outcome attachment, principled living)
@@ -106,5 +111,5 @@
 
 ---
 
-Absorb Progress: 7 / 480 transcripts
-Last absorbed: 2020-11-10_Vulnerability — Connection Course Series #5 (2026-05-21)
+Absorb Progress: 9 / 480 transcripts
+Last absorbed: 2021-01-20_If You Can't Love the Feeling, Love the Resistance (2026-05-21)

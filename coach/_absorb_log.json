@@ -129,7 +129,6 @@
         "past-shame-vs-current-shame",
         "vulnerability-protects",
         "letting-judgment-in",
-        "letting-judgment-break-your-heart",
         "vulnerability-in-the-workplace",
         "babysitter-apology",
         "vulnerability-as-control",
@@ -140,6 +139,10 @@
       "articles_updated": [
         "vulnerability",
         "vulnerability-vs-weakness",
+        "shame-drives-behavior",
+        "view-as-technique",
+        "feeling-the-unfelt-emotion",
+        "view",
         "fear-is-about-feeling"
       ]
     },
@@ -162,6 +165,48 @@
         "decisions-are-emotional",
         "process-over-result"
       ]
+    },
+    {
+      "folder": "2021-01-20_If You Can't Love the Feeling, Love the Resistance",
+      "status": "complete",
+      "claimed_at": "2026-05-21T16:33:20Z",
+      "articles_created": [
+        "resistance",
+        "embrace-intensity",
+        "layered-resistance",
+        "negative-self-reinforcement",
+        "suffering-vs-pain"
+      ],
+      "articles_updated": [
+        "feeling-the-unfelt-emotion",
+        "shame-drives-behavior",
+        "impartiality",
+        "process-over-result",
+        "fear-is-about-feeling"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T16:38:14Z"
+    },
+    {
+      "folder": "2021-02-13_Connection over Perfection \u2014 Master Class Series #3",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T16:37:45Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2021-02-13_Embarking on the Journey \u2014 Master Class Series #2",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T16:37:53Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2021-02-13_Enjoy over Manage \u2014 Master Class Series #4",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T16:38:05Z",
+      "articles_created": [],
+      "articles_updated": []
     }
   ]
 }

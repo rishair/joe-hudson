@@ -5,7 +5,7 @@ title: "Shame Drives Behavior"
 aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first"]
 tags: ["shame", "behavior", "habits", "causation"]
 related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
 ---
 
 # Shame Drives Behavior
@@ -26,6 +26,8 @@ This principle is why [[fixing-people]] fails as a coaching move. Trying to chan
 
 This also explains why [[impartiality]] works. When someone is met without agenda, without the implied message "you should be different," the shame loosens. The wise part of the person comes forward. Behavior shifts as a byproduct.
 
+Joe's own pot habit in his twenties demonstrates this directly. The more he beat himself up about smoking, the more he wanted to escape himself, the more he smoked. The shame was the engine of the addiction, not the other way around. "The more that I was abusing myself about it, the more I wanted to escape myself, the more I smoked the pot." Once he stopped fighting the habit and addressed the underlying emotions (sadness, anger), the habit dissolved without effort. No willpower, no trying, no temptation. Just a lack of interest. See [[resistance]] and [[negative-self-reinforcement]].
+
 ## Upstream (What Leads Here)
 
 - When someone is stuck in a cycle of self-improvement that does not produce change.
@@ -43,3 +45,4 @@ This also explains why [[impartiality]] works. When someone is met without agend
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2021-01-20_If You Can't Love the Feeling, Love the Resistance

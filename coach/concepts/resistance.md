@@ -1,0 +1,76 @@
+---
+type: concept
+id: resistance
+title: "Resistance"
+aliases: ["loving the resistance", "if you can't love the thing love the resistance", "resistance to change", "fighting yourself", "the fight", "war with yourself"]
+tags: ["resistance", "transformation", "emotions", "core mechanism"]
+related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+---
+
+# Resistance
+
+## Definition
+
+Resistance is not being at peace with what is. On an intellectual level it appears as unwillingness to accept a situation. On an emotional level, it almost always amounts to not wanting to feel something. In the nervous system, resistance carries fear underneath, even when the surface presentation looks like anger or frustration.
+
+Resistance is not an obstacle to transformation. It is a natural step in transformation. Like cell division, like a tree moving its limbs to find light, like the tension that keeps a body alive. Remove all tension and you get death, not peace.
+
+"I get very excited when I'm working with somebody and they get resistant, 'cause I'm like, awesome. This means we're on the right path." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
+
+## In Practice
+
+The central instruction: "If you can't love the thing, love the resistance." This is not a technique for eliminating resistance. It is a reorientation. Resistance is not the enemy. Fighting the resistance is.
+
+"In a war with yourself, you always lose." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
+
+Resistance shows up in many forms depending on what the person learned as a child: checking out, fighting, being evasive, being defensive, sleeping, becoming super-cerebral. The form does not matter. What matters is the relationship to it.
+
+The typical person encounters resistance and adds more resistance on top. They resist the resistance. See [[layered-resistance]]. The path through is the opposite: go into the resistance, let it fully have its voice, exhaust it. Like a Chinese finger trap: the way out is to go further in.
+
+"How do I hold it as lightly, as gently, as lovingly as possible?" -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
+
+## The Wisdom in Resistance
+
+Every resistance carries information. Even if 99% of it is ignorance, 1% is wisdom. The coaching question is not "how do I overcome this resistance?" but "what does this resistance know?"
+
+When someone resists, a useful path is to ask: what tool does the person feel they are missing? Whatever they have been doing has been working, maybe not well, but working. To change it raises the question: what will I do instead? Listening to the resistance reveals the missing tool or the fear of losing what the current pattern provides.
+
+"If you listen to that resistance, you find out what tool is gonna be there." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
+
+## Questions for Working with Resistance
+
+- "What's the feeling I'm resisting? What's the thing I don't want to feel?" -- the most commonly unseen question. See [[feeling-the-unfelt-emotion]].
+- "How do I love the resistance?"
+- "How do I find the wisdom in the resistance?"
+- "Who is resisting? What is resisting?"
+- "How can I meet the resistance most joyfully?"
+
+## When Someone Experiences This
+
+When stuck in a loop of wanting to change but not changing. When the same problem keeps returning. When effort produces the opposite of what is intended. When fighting a habit makes it stronger.
+
+The person is in their transformation. The resistance is evidence of growth, not evidence of failure. It often feels like a sign of not growing, but the tension between "wanting it to be different" and "it is not different yet" is itself the transformational edge.
+
+## Upstream (What Leads Here)
+
+- When someone presents a stuck habit or pattern. See [[shame-drives-behavior]].
+- When someone is fighting themselves about a behavior they want to change.
+- When the question is "should I draw the boundary or accept it?" -- this question itself is resistance, is transformation in progress.
+- When fear of feeling something is driving avoidance. See [[fear-is-about-feeling]].
+
+## Downstream (Where This Leads)
+
+- Toward [[feeling-the-unfelt-emotion]]: resistance is almost always not wanting to feel something. The path through is to feel it.
+- Toward [[embrace-intensity]]: running toward the intensity rather than away from it.
+- Away from [[layered-resistance]]: recognizing when resistance is being stacked on top of resistance.
+- Away from [[negative-self-reinforcement]]: recognizing when approaching the resisted thing has become associated with self-punishment.
+- Toward [[impartiality]]: not wanting another person to be different is the interpersonal form of not resisting.
+
+## Tone
+
+Warm, direct, matter-of-fact. Resistance is not treated as a problem but as a companion. There is no urgency. "Whatever it is that you want to transform about yourself, it's gonna stay there. The problem doesn't go away until it's addressed. So you can be patient." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
+
+## Sources
+
+- 2021-01-20_If You Can't Love the Feeling, Love the Resistance

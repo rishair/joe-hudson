@@ -5,7 +5,7 @@ title: "Process Over Result"
 aliases: ["trust the process", "faith in the process", "outcome attachment", "principled living"]
 tags: ["VIEW", "impartiality", "process", "design", "coaching"]
 related: ["view", "impartiality", "view-as-technique", "integration", "three-stages-of-integration"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-12-11_Integrating a Transformative Experience"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-12-11_Integrating a Transformative Experience", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
 ---
 
 # Process Over Result
@@ -42,12 +42,19 @@ This principle applies directly to [[integration]] after transformation. The imp
 
 The [[three-stages-of-integration]] framework shows this concretely: cutting the first stage (surprise/not-knowing) short prevents the full depth of the transformation from landing.
 
+## No Rush in Transformation
+
+This principle extends to personal transformation itself. The urgency to fix all the problems, embrace all the intensity, resolve all the resistance is itself an attachment to outcome. The problems wait. "Whatever it is that you want to transform about yourself, it's gonna stay there. The problem doesn't go away until it's addressed. So you can be patient." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
+
+Patience with the process is itself a release of [[resistance]]. The rush to transform is another form of fighting what is.
+
 ## Upstream (What Leads Here)
 
 - When someone is gripping a specific outcome and creating rigidity.
 - When [[impartiality]] is hard to practice because the stakes feel too high to release control.
 - When a conversation feels forced or mechanical despite good technique.
 - When [[view-as-technique]] has been identified: the person is focused on getting a result through VIEW rather than being in the VIEW state.
+- When urgency to transform is itself creating [[resistance]] and [[layered-resistance]].
 
 ## Downstream (Where This Leads)
 

@@ -5,7 +5,7 @@ title: "Impartiality"
 aliases: ["not having an agenda", "no agenda", "wandering", "I in VIEW", "without outcome attachment", "I trust you", "letting go of agenda"]
 tags: ["VIEW", "freedom", "business", "control", "trust", "shame", "boundaries"]
 related: ["view", "wonder", "vulnerability", "wants-vs-partiality", "shame-drives-behavior", "fixing-people", "impartial-apathy", "process-over-result"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
 ---
 
 # Impartiality
@@ -17,6 +17,8 @@ Impartiality is not trying to achieve an outcome for yourself or others. It is t
 Explained to an 11-year-old: "I trust you. You know what's best. I'm going to follow your lead. I think you know what you need better than anybody else could know what you need, and I want to explore that with you." -- Joe Hudson, Impartiality
 
 The opposite is partiality: I know what you need. Let me give you advice. I want you to be better, healed, different. I want you to feel like I'm valuable in this conversation.
+
+When someone else is resisting, the partial response is to want them to stop resisting. "In other words, change to make me happy. Change. I want you to change right now to make me happy." The impartial response is to allow them their path. See [[resistance]]. "No matter how wise you get, you don't get to have more knowledge than the person you're talking to about them, or more wisdom." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
 
 Complete impartiality is asymptotic. Every sentence carries some degree of agenda. The practice is to move steadily toward less partiality, not to achieve zero. Every sentence has a want underneath it. That is as human as breathing or having emotions.
 
@@ -152,3 +154,4 @@ Short-term partiality is fear-based: I need this outcome right now. Long-term pa
 - 2020-10-26_Introduction to VIEW
 - 2020-10-26_Introduction to VIEW -- Connection Course Series #1
 - 2020-11-05_Impartiality -- Connection Course Series #3
+- 2021-01-20_If You Can't Love the Feeling, Love the Resistance
