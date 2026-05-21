@@ -4,8 +4,8 @@ id: anxiety-as-unarticulated-need
 title: "Anxiety as an Unarticulated Need or Boundary"
 aliases: ["anxiety means unarticulated need", "anxiety means boundary not set", "the anxiety diagnostic", "anxiety as need signal", "when I feel anxiety I haven't asked for something", "anxiety decoding practice", "name the need under the anxiety"]
 tags: ["anxiety", "needs", "boundaries", "diagnostic", "practice", "leadership"]
-related: ["fear-as-signal-of-care", "fear-vs-anxiety", "welcoming-fear-in-leadership", "vulnerability", "whats-the-scary-truth", "caring-vs-caretaking", "im-not-an-anxious-person"]
-sources: ["2021-10-15_Ant Taylor on Embracing Emotions"]
+related: ["fear-as-signal-of-care", "fear-vs-anxiety", "welcoming-fear-in-leadership", "vulnerability", "whats-the-scary-truth", "caring-vs-caretaking", "im-not-an-anxious-person", "anxiety-three-definitions", "anxiety-as-constricted-life-force", "what-we-fear-we-invite", "love-the-anxiety-not-just-with-it"]
+sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
 # Anxiety as an Unarticulated Need or Boundary
@@ -49,6 +49,20 @@ The key insight is that the relief is in the articulation, not the resolution. T
 This is empowering and uncomfortable in equal measure. Empowering because the person can act on the practice without depending on others to cooperate. Uncomfortable because the practice requires the person to ask things they have been not-asking, often for years.
 
 The asking is itself the [[vulnerability]] move. The fear of asking -- of being told no, of disappointing, of being seen as needy -- is the same fear that has been holding the need unnamed. The articulation crosses that fear.
+
+## Surface Need vs. Deeper Need: The Anxiety Hits the Wrong Layer
+
+The first impulse from anxiety almost always points at the most surface form of the need, not the deeper one. Action taken on the first impulse addresses something, but rarely the thing that would actually quiet the anxiety. The practice has to be patient enough to let the deeper need surface.
+
+The boss example. A common shape: a person is anxious that their boss will fire them. The first impulse is to perform harder, to be more careful, to never make a mistake. The surface need: keep the boss happy. The action: rigidity that actually makes the person worse at their job.
+
+The deeper need is almost never addressed directly. The deeper need is for clarity about expectations, agreement about what success looks like, and freedom from the continuous fear of arbitrary judgment. The conversation that would meet the deeper need is one most people never have:
+
+"Hey, to their boss, I noticed that I'm operating out of anxiety that I'm going to get fired at some point, and I want to not operate out of that anxiety because I'm gonna be more efficient and I'm gonna do better and I'm gonna enjoy myself more. I'm gonna burn out less. I'm gonna have more energy for you. So I'm wondering, can we get really clear expectations of what you want from me so that I know exactly what's needed to keep my job and that we can make an agreement that if I do this, then we get there. It's not happening. That just, that simple conversation. And that's an example of getting your needs met." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+The conversation does several things the surface action cannot. It names the anxiety, which reduces the shame about having it. It converts the fear from abstract to concrete. It produces an explicit contract that the body can verify against. It opens the relationship from one-way performance to two-way agreement.
+
+The point generalizes. Anxiety's first impulse is to address the surface fear. The deeper need is almost always relational, requires direct articulation, and is the thing that would actually quiet the anxiety. The practice is to slow down enough that the deeper need has time to surface. See also [[what-we-fear-we-invite]] for why action on the surface impulse often produces the feared outcome.
 
 ## In Leadership
 

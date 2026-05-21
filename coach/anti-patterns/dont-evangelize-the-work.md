@@ -5,7 +5,7 @@ title: "Don't evangelize the work"
 aliases: ["missionary work", "using tools without permission", "pushing transformation on others", "coaching without consent", "tools without shadow work", "carrying someone else's tools without consciousness"]
 tags: ["integration", "relationships", "boundaries", "VIEW"]
 related: ["view-as-technique", "integration", "community-over-teacher", "fixing-people", "become-unnecessary", "good-and-corruption-cycle", "spiritual-narcissism"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
 ---
 
 # Don't evangelize the work
@@ -34,6 +34,18 @@ The line between tools meant for the world (like [[view]] conversations and [[ho
 
 "In VIEW, you don't have to ask them to do anything or be any way. You just ask questions and speak from a vulnerable, impartial, empathetic, and a space of wonder." -- Joe Hudson, Integrating a Transformative Experience
 
+## Why Convincing Doesn't Work (Even When the Convincer Has Done Real Work)
+
+A specific corollary that comes up often: even someone who has personally transformed through the work cannot effectively convince another person to enter it. The mechanism is internal — the other person has to be ready — and pushing produces the opposite of what the pusher wants.
+
+Sam Altman names this from the inside, looking back on his own years of dismissing meditation: "If I had tried to convince myself, or if someone else had convinced me before I like really was like desperately ready, it wouldn't have worked. And so I don't think I would try to convince anyone, but if I had to, I would just be like, just come try this once with me. It probably won't be your thing, you know, you'll probably think of it as a wasted hour, but like, we'll hang out and do something fun afterwards." -- Sam Altman, Sam Altman
+
+Two principles in that quote. First, readiness is internal — "desperately ready" — and not produceable from the outside. Second, if invitation is appropriate at all, it should be low-stakes, dismissable, and framed in a way the person can decline without losing face. "Come try this once" with the explicit permission for it to be a waste. The framing itself communicates non-attachment.
+
+Joe affirms this: "It's funny when we're talking about people introducing other people to the work that we do, or one of the courses we talk about the same thing. It's like, if you're trying to convince them to get there, then it's just no good for anybody, you or them." -- Joe Hudson, Sam Altman
+
+The diagnostic for whether to even extend an invitation: are you trying to convince, or are you offering? If trying to convince, drop it. If genuinely offering with full okay-ness about the no, the offer can be made and may even land.
+
 ## Why Tools Get Dangerous in Untrained Hands
 
 Beyond the consent issue, there is a structural reason for caution about who picks up which tools. Tools developed inside one person's consciousness fit that consciousness. The same tool picked up by someone whose shadow has not been examined becomes a vehicle for the shadow. The tool is not damaging. The unexamined shadow that picked up the tool is damaging.
@@ -50,3 +62,4 @@ The full picture: tools that require nothing of the other person (questions, tru
 
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-06-04_The Business Behind our Courses
+- 2022-01-15_Sam Altman -- Leading with Crippling Anxiety, Discovering Meditation, and Buildin

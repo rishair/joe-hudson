@@ -4,8 +4,8 @@ id: shame-drives-behavior
 title: "Shame Drives Behavior"
 aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame"]
 tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment"]
-related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
 ---
 
 # Shame Drives Behavior
@@ -67,6 +67,17 @@ Underneath the shame and blame story is helplessness. The unwillingness to feel 
 - Connects to [[familiar-over-safe]]: shame creates the emotional baseline that the organism returns to.
 - The distinction between [[past-shame-vs-current-shame]] refines this principle. The shame that drives unwanted behavior is past shame: the self-brutalization that condemns you to repeat the pattern. Current shame is a useful signal and should not be suppressed.
 - Toward [[empowered-vs-power]]: shame and blame are the diagnostic that someone is in disempowerment seeking power.
+- Toward [[shame-as-disconnection]]: the reframe that explains what shame actually is, which makes the principle tolerable to act on.
+- Toward [[the-shame-avoidance-loop]]: the structural form of the principle in conflict-avoidance patterns.
+- Toward [[conflict-avoidance-prevents-healing]]: the relational application — shame cannot heal without the conflict the person has been organizing against.
+
+## Conflict Avoidance as the Behavioral Form
+
+In the specific case of conflict-avoidance and people-pleasing, the principle has a recursive form. The shame the person carries drives the people-pleasing behavior. The people-pleasing prevents the conflict that would allow the shame to be felt and healed. The shame stays in place because the behavior organized around avoiding shame is the same behavior that prevents shame from being processed.
+
+"Whereas if you embrace it, then what's to avoid? Then you just be yourself." -- Joe Hudson, Healing Shame by Being Ourselves
+
+Once shame is welcome, the behavioral architecture organized around avoiding it collapses. The person can be themselves because there is no longer a feared outcome that requires hiding to prevent. See [[the-shame-avoidance-loop]] for the full structure.
 
 ## Sources
 
@@ -76,3 +87,4 @@ Underneath the shame and blame story is helplessness. The unwillingness to feel 
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)

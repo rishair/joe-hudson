@@ -3,9 +3,9 @@ type: framework
 id: fear-triangle
 title: "The Fear Triangle"
 aliases: ["drama triangle", "victim savior bully", "fight flight freeze triangle", "Karpman drama triangle", "fear triangle roles"]
-tags: ["fear", "drama", "roles", "victim", "savior", "bully", "fight flight freeze"]
-related: ["empowered-vs-power", "helplessness-is-the-gateway", "caring-vs-caretaking", "shame-drives-behavior"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+tags: ["fear", "drama", "roles", "victim", "savior", "bully", "fight flight freeze", "power dynamics"]
+related: ["empowered-vs-power", "helplessness-is-the-gateway", "caring-vs-caretaking", "shame-drives-behavior", "power-dynamics-as-two-defenders", "dont-modify-behavior-to-exit-the-triangle", "acknowledge-the-fear-by-role"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
 ---
 
 # The Fear Triangle
@@ -57,6 +57,33 @@ The example: wife comes home in a horrible mood. The mind goes through:
 
 Most people have a dominant tendency. Some default to fight (bully). Some default to freeze (victim). Some default to flight (savior). But all three live in everyone.
 
+## The Internal Version: Three Voices in the Head
+
+Before the triangle plays out between people, it plays out inside one head. The same person hosts all three roles as voices, and they rotate continuously.
+
+The example: a person who knows they talk over others.
+- **Bully voice:** "Dude, you gotta stop talking over people."
+- **Victim voice:** "I've tried to stop, but I can't. Twenty years I've been trying. I can't stop."
+- **Savior voice:** "Okay, so this time we're gonna do this and this. I'm gonna get a reminder on my phone, and..."
+
+All three are fear running through different costumes. The internal version is the more important one to see because the external version is what the internal one projects outward.
+
+"The way I see it work is that internally, we have different voices in our head. And we have a voice in our head talking to us and we'll play all 3 roles." -- Joe Hudson, The Power Dynamics of Fear
+
+## Role Switching Across Contexts
+
+Most people have a dominant role in any given relationship. The same person often runs a different dominant role in a different setting. Bully at home, victim at work. Savior at the office, bully with the kids. The role is contextual, attached to the felt power dynamics of the specific relationship, not to a fixed personality.
+
+"It's really circumstantial, which is totally fascinating to me. People can be the bully at home and the victim at office, or the savior at home and the bully in the office." -- Joe Hudson, The Power Dynamics of Fear
+
+In families with a dominant pattern, the surface role is visible but the underground roles run too. A dad who plays victim (passive-aggressive, chronically late, chores undone) will still occasionally explode into bully ("don't you trust me?") and slip into savior (walking on eggshells around someone he doesn't want to upset). The dominant role is the loudest. All three are present.
+
+## Anxiety Amplifies the Triangle
+
+When the nervous system is constricted (see [[anxiety-as-constricted-life-force]]), the triangle becomes far more likely to engage. Anxiety is the substrate the triangle grows from. Address the anxiety somatically and the triangle has less to feed on.
+
+"When someone is in an anxious state... they're far more likely to be in the triangle dynamic. They're far more likely to exhibit any of these behaviors." -- Brett Kistler, The Power Dynamics of Fear (confirmed by Joe)
+
 ## How Blame and Shame Build the Triangle
 
 Underneath the fear is helplessness. Underneath the helplessness is the story of blame and shame. The triangle is built on the unwillingness to feel the helplessness that the blame or shame story creates.
@@ -88,6 +115,32 @@ The exit is not finding the right role. The exit is moving through the helplessn
 
 Empowered action means making the choice from truth and accepting the consequences. The triangle is what happens when truth feels too costly.
 
+The exit is also not behavior modification. When someone hears this teaching and asks "okay, so how do I act not from that place?" they have already lost the thread. That question is the savior voice running an exit plan, which is itself a position in the triangle. The actual exit is not in the behavior. It is in the relationship to the fear. See [[dont-modify-behavior-to-exit-the-triangle]].
+
+"The answer isn't trying to modulate how you act, it's being with the fear. It's having a different relationship with the fear. And if you're not acting out of the fear, you're not in it. And it might even be the same behavior that comes out of you, but it's very different with the emotional signature." -- Joe Hudson, The Power Dynamics of Fear
+
+## Shame Around the Role Keeps It Spinning
+
+One of the strongest fasteners that holds the triangle in place is shame about the role you are playing. Bullies are ashamed of being bullies. Victims are ashamed of being victims. Saviors are ashamed of being saviors. The shame produces secrecy, the secrecy produces avoidance, the avoidance produces more triangle.
+
+In a workshop where Joe put a group of men into corners according to their dominant fear-response, the first thing that surfaced was shame in every corner. The shame had been a precondition for the role being unconscious.
+
+"They all had shame. The fighters were ashamed of being fighters. The freezers were ashamed of being freezers. And the flight was ashamed of being flight." -- Joe Hudson, The Power Dynamics of Fear
+
+This is why the exit phrases (see [[acknowledge-the-fear-by-role]]) work. Each one converts the shame-wrapped role into a clean acknowledgment of the fear underneath. The role does not need to be defended or fought. It needs to be named without judgment.
+
+## The Phrases That Dissolve Each Role
+
+The quickest way out of any role is to say the thing the role exists to deny. Each role is built around an unfelt fear or capacity. Saying the truth dissolves the role.
+
+- **Bully says:** "I'm scared." The bully exists to deny fear by performing strength. Naming the fear ends the performance.
+- **Victim says:** "I have choice here. I can do this." The victim exists to deny agency. Naming agency ends the role.
+- **Savior says:** "The only person I can save is myself." The savior exists to deny the limit of one's responsibility for others. Naming the limit ends the role.
+
+"It's the acknowledgement of the fear without the judgment that is the quickest way to disintegrate the fear triangle is just to acknowledge that there's fear and there's, we all get scared sometimes." -- Joe Hudson, The Power Dynamics of Fear
+
+See [[acknowledge-the-fear-by-role]] for the move that uses these phrases in real coaching.
+
 ## Upstream (What Leads Here)
 
 - When someone describes a situation in terms of "they did this to me" (victim)
@@ -95,13 +148,18 @@ Empowered action means making the choice from truth and accepting the consequenc
 - When someone is angry and isolated, fighting everything (bully)
 - When a team is described as "political" or "drama-filled"
 - When [[caring-vs-caretaking]] has been identified and the person is in caretaking mode
+- When someone describes a fight where both sides claim to be defending themselves. See [[power-dynamics-as-two-defenders]].
+- When someone is constricted with [[anxiety-as-constricted-life-force]]: the triangle becomes much more likely to engage.
 
 ## Downstream (Where Joe Goes From Here)
 
 - Toward identifying the helplessness underneath, and inviting the person to feel it
 - Toward [[empowered-vs-power]]: the only exit is empowerment, which requires accepting the feared consequences
 - Toward [[shame-drives-behavior]]: the shame underneath the role is what keeps it spinning
+- Toward [[acknowledge-the-fear-by-role]]: the phrases that collapse each role when said honestly
+- Toward [[power-dynamics-as-two-defenders]]: the relational frame that makes both sides legible at once
 
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2022-02-04_The Power Dynamics of Fear - Emotion Series #7

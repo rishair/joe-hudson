@@ -69,6 +69,7 @@ Joe takes the role-play seriously but lightly. He flags the transition ("I'll be
 - [[upright-undefended-love]]: the stance the role-play is designed to test
 - [[fight-or-roll-over-binary]]: the pattern the role-play is breaking
 - [[i-freeze-around-authority]]: the concern this move addresses
+- [[trigger-the-shame-live]]: the same role-play mechanic applied specifically to producing the shame state in the room when the concern is fear of offending people
 
 ## Sources
 

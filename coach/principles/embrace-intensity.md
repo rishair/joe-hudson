@@ -5,7 +5,7 @@ title: "Embrace Intensity"
 aliases: ["run toward intensity", "run into it", "intensity as path", "embrace the intensity"]
 tags: ["resistance", "transformation", "courage", "principle"]
 related: ["resistance", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "vulnerability", "five-principles-of-the-path", "enjoyment-as-path", "embrace-vs-brace", "embracing-vs-creating-intensity", "are-you-bracing-or-embracing", "embracing-intensity-as-leading-indicator", "emotional-fluidity", "sensitivity-as-byproduct", "approach-the-pink-elephant", "electric-fence-with-dog", "decisions-are-emotional"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks"]
 ---
 
 # Embrace Intensity
@@ -21,6 +21,12 @@ The felt sense of the principle is captured in a single question: am I bracing o
 ## In Practice
 
 When [[resistance]] arises, the instinct is to pull away. This principle inverts the instinct. The intensity that wants to be avoided is the exact thing to move toward.
+
+The principle applies across domains. Joe formulates it as a universal stance:
+
+"If I'm having a business problem, I don't want to look at it, I look at it. If I'm having an emotion I don't want to be with, I be with it. If I'm having a conversation that I'm avoiding, I go have the conversation." -- Joe Hudson, How Your Body Speaks
+
+The somatic version of the same move: when uncomfortable, put attention in the body rather than pulling out. The body attention is the embracing in physical form. See [[staying-in-your-body]].
 
 This does not mean forcing yourself through the intensity with willpower. It means meeting it with love and joy. The question is not "how do I get through this?" but "how can I meet this most joyfully?"
 
@@ -111,3 +117,4 @@ The second question is particularly useful because it produces direct experienti
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2021-10-08_Embracing Intensity - Emotion Series #2
+- 2022-01-07_How Your Body Speaks

@@ -19,6 +19,8 @@ The variations:
 - "At what point do I get to feel upset at you for not feeling seen? What's the percentage?"
 - "How much of me is fighting you right now?"
 - "How deep are you going right now in letting yourself be seen?"
+- "What percentage of the time do you want to not offend people?"
+- "If you could control it, what would be the exact dial setting?"
 
 The number itself is rarely the point. The act of giving a specific number breaks the global frame and exposes the assumption underneath.
 
@@ -60,6 +62,11 @@ If the number is volunteered with charge ("the tiniest bit"), Joe takes it serio
 - **Joe:** "What's the fight? That little itty-bitty bit, what am I fighting you for?"
 - *(Source: Father Figures and Authority. The tiny number opens a productive examination of the residual control.)*
 
+- **Joe:** "If you could control it, which you can't control, how would you control it? What would be the exact dial setting you would put towards your offending of others? Since it's not no offense."
+- **Person:** "I want to not offend others somewhere above 50%."
+- **Joe:** "So the dial would be, I can offend people 50% of the time, but maximum, maximum, maximum 50% of the time. Okay. So let's look at that. Let's see what that would actually be like. Let's say there's somebody who's just offended by everything. So what, how would you deal with that?"
+- *(Source: Healing Shame by Being Ourselves. The threshold is set, then immediately tested against a specific scenario. The arithmetic of the rule becomes visible to the person.)*
+
 ## Tone
 
 Light, almost mathematical. Joe sounds like someone helping the person notice their own bookkeeping. The questions are not interrogative. They are inquisitive.
@@ -75,7 +82,10 @@ Light, almost mathematical. Joe sounds like someone helping the person notice th
 
 - [[in-the-story-im-not-being-seen]]: the calibration is often the move that unsticks this story
 - [[fight-or-roll-over-binary]]: percentages of fight in the room expose the dynamic
+- [[press-the-button-thought-experiment]]: often follows the button move to escalate from "would you want zero?" to "what percentage do you actually want?"
+- [[im-afraid-of-offending-people]]: the percentage-of-offense form of this move is one of Joe's central tools for this concern
 
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)

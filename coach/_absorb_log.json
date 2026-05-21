@@ -953,15 +953,159 @@
     },
     {
       "folder": "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T22:36:37Z",
+      "articles_created": [
+        "shame-as-disconnection",
+        "im-afraid-of-offending-people",
+        "the-shame-avoidance-loop",
+        "press-the-button-thought-experiment",
+        "trigger-the-shame-live",
+        "conflict-avoidance-prevents-healing",
+        "trust-requires-conflict",
+        "looking-for-whats-wrong",
+        "how-else-would-you-heal-your-shame",
+        "tibetan-teacher-offending-students",
+        "sorry-from-shame-vs-sorry-as-solidarity"
+      ],
+      "articles_updated": [
+        "shame-drives-behavior",
+        "past-shame-vs-current-shame",
+        "calibrate-the-threshold",
+        "become-the-authority-figure"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-21T22:46:30Z"
+    },
+    {
+      "folder": "2022-01-07_How Your Body Speaks",
+      "status": "complete",
+      "claimed_at": "2026-05-21T22:44:43Z",
+      "articles_created": [
+        "head-heart-gut",
+        "body-lies-as-much-as-mind",
+        "body-awareness-in-meetings"
+      ],
+      "articles_updated": [
+        "staying-in-your-body",
+        "sensitivity-as-byproduct",
+        "embrace-intensity"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T22:50:19Z"
+    },
+    {
+      "folder": "2022-01-15_Sam Altman \u2014\u00a0Leading with Crippling Anxiety, Discovering Meditation, and Buildin",
+      "status": "complete",
+      "claimed_at": "2026-05-21T22:49:45Z",
+      "articles_created": [
+        "loving-conflict-vs-wanting-conflict",
+        "anger-as-containment-for-the-conflict-seeker",
+        "peace-precedes-joy-after-non-duality",
+        "listlessness-after-awakening"
+      ],
+      "articles_updated": [
+        "what-we-fear-we-invite",
+        "decisions-are-emotional",
+        "dont-evangelize-the-work",
+        "press-the-button-thought-experiment"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-21T23:04:16Z"
+    },
+    {
+      "folder": "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6",
+      "status": "complete",
+      "claimed_at": "2026-05-21T22:51:02Z",
+      "articles_created": [
+        "anxiety-three-definitions",
+        "anxiety-as-constricted-life-force",
+        "love-the-anxiety-not-just-with-it",
+        "fear-of-joy",
+        "friction-is-required-for-life",
+        "authenticity-reduces-shame",
+        "how-is-my-anxiety-right-now",
+        "love-relationship-with-anxiety",
+        "joes-laughing-meditation-retreat"
+      ],
+      "articles_updated": [
+        "fear-vs-anxiety",
+        "anxiety-as-unarticulated-need",
+        "joy-as-matriarch",
+        "pleasure-capacity",
+        "cafe-emotional-stigma",
+        "identity-extension-expands-fear",
+        "feeling-the-unfelt-emotion",
+        "im-not-an-anxious-person",
+        "what-we-fear-we-invite",
+        "embrace-vs-brace",
+        "head-heart-gut",
+        "sensitivity-as-byproduct",
+        "love-is-the-best-change-agent"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T23:04:42Z"
+    },
+    {
+      "folder": "2022-01-28_Jaime Waydo \u2014 Taking Care of Yourself First, Fearlessly Owning Your Desires, Spe",
+      "status": "complete",
+      "claimed_at": "2026-05-21T22:57:26Z",
+      "articles_created": [
+        "chameleon-leadership",
+        "stay-centered-while-holding-space",
+        "name-the-authoritys-fear",
+        "patient-on-the-table",
+        "fault-vs-responsibility"
+      ],
+      "articles_updated": [
+        "am-i-being-selfish",
+        "rehearsing-conversations",
+        "visualizing-feared-outcomes",
+        "public-truth-bomb",
+        "i-caretake-people"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T23:04:43Z"
+    },
+    {
+      "folder": "2022-02-04_The Power Dynamics of Fear - Emotion Series #7",
+      "status": "complete",
+      "claimed_at": "2026-05-21T23:05:17Z",
+      "articles_created": [
+        "power-dynamics-as-two-defenders",
+        "dont-modify-behavior-to-exit-the-triangle",
+        "what-are-you-defending",
+        "acknowledge-the-fear-by-role",
+        "joes-hr-call-firing"
+      ],
+      "articles_updated": [
+        "fear-triangle",
+        "empowered-vs-power",
+        "binary-thinking-signals-fear"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T23:12:23Z"
+    },
+    {
+      "folder": "2022-02-11_Heather Falenski \u2014 Navigating Conflict Zones, Recovering from Chronic Illness, a",
+      "status": "complete",
+      "claimed_at": "2026-05-21T23:07:07Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T23:08:32Z"
+    },
+    {
+      "folder": "2022-02-19_Building a Functional Team - Team Series #1",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T23:09:16Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2022-01-07_How Your Body Speaks",
+      "folder": "2022-03-04_Building a Dysfunctional Team - Team Series #2",
       "status": "in-progress",
-      "claimed_at": "2026-05-21T22:44:43Z",
+      "claimed_at": "2026-05-21T23:13:29Z",
       "articles_created": [],
       "articles_updated": []
     }

@@ -4,7 +4,7 @@ id: im-not-an-anxious-person
 title: "I'm not an anxious person / I don't really get scared"
 aliases: ["I don't have anxiety", "I'm not afraid", "I'm not a fearful person", "I'm pretty brave", "I'm not scared", "I handle fear well", "I'm courageous", "fear doesn't really get to me", "the fearless self-concept", "Class A avoider", "avoider impresario", "high-functioning anxious denier"]
 tags: ["fear", "anxiety", "self-concept", "denial", "identity"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
 # I'm not an anxious person / I don't really get scared
@@ -99,6 +99,18 @@ The features of the cultural-lineage variant:
 The coaching does not undo the lineage. It allows the person to honor what the lineage was protecting against while updating which parts of the strategy still apply to current conditions. The work is to feel what could not be felt by the previous generations -- not because they were wrong to suppress, but because the conditions have changed enough that the next generation can metabolize what the previous ones could not.
 
 This connects to [[subjugation-prevents-healing]] (Joe's principle that self-sacrifice for group survival is not healing). The lineage strategy was self-sacrifice for group survival. The current opportunity is to keep what the strategy preserved (the work ethic, the standing-on-shoulders) and let go of what it cost (the suppression). Both can be honored.
+
+## The Shame-About-Anxiety Variant
+
+A related but distinct shape: the person is not denying the anxiety to themselves -- they know they have it -- but they are deeply ashamed of it. The presenting language is not "I don't have anxiety" but a reflexive defensiveness when anxiety is named. Joe describes a session opener:
+
+"Within 30 seconds I was like, oh, so tell me about your anxiety. It was the first time I'd had a session with the person. They're like, how did you know? Did somebody tell you? And it was like, no, it was all over, you know, the way that she held herself, et cetera. But the way she said, 'Who told you?' It was shame-based. She had shame about her anxiety." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+The "who told you?" reveals the structure. The person is operating as if the anxiety is something to be hidden, and the implicit fear is exposure. They are not denying its existence -- they are protecting against being seen with it.
+
+The coaching move here is different from the denial case. The work is not to surface the anxiety; the person already knows it is there. The work is to dissolve the shame about it. As Joe notes elsewhere: trying to get rid of the anxiety from shame about it only creates more anxiety. See [[the-shame-avoidance-loop]] for the broader pattern. The fastest dissolution is often the recognition that the anxiety is information, not pathology -- it is signaling unmet needs. See [[anxiety-as-unarticulated-need]] and [[anxiety-three-definitions]].
+
+Brett's compact diagnosis of what happened in that session: "It looks like what happened there was that her intellect was looking for the threat as you just described. And the threat was somebody recognizing my anxiety and me being rejected for it." -- Brett Kistler, Anxiety: A Signpost to Unmet Needs. The anxiety was operating exactly as designed -- preparing for the perceived threat of being seen as anxious -- and the loop was self-perpetuating.
 
 ## Coaching Path
 

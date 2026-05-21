@@ -4,7 +4,7 @@ id: am-i-being-selfish
 title: "Am I being selfish? / I don't want to be selfish"
 aliases: ["I'm being selfish", "I don't want to be selfish", "am I selfish", "is this selfish", "I feel selfish for wanting this", "the selfishness worry", "the selfishness question", "I shouldn't be so selfish", "they said I was selfish", "selfish for wanting", "I felt like it was self-indulgent", "self-indulgent", "doing this work feels self-indulgent", "therapy feels self-indulgent", "I don't have time for this kind of self-focus"]
 tags: ["selfishness", "wants", "guilt", "shame", "childhood-programming", "self-indulgent"]
-sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
+sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
 ---
 
 # Am I being selfish? / I don't want to be selfish
@@ -36,6 +36,18 @@ This variant is especially common in women trained to derive worth from caretaki
 "I was extremely resistant... I felt like I don't have the time for this. I'm a mom, I'm working. I need to be spending time with my team and my family. And I know I don't need to dwell on all this stuff." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
 
 The recognition that often unlocks the work: the "self-indulgence" was itself the pattern. The aversion to feeling, framed as virtue, was the structure that needed to come down. Carla reports that on the other side, "I wasn't meeting people's needs at all. I wasn't validating their needs at all. I was just trying to fix it all the time." The thing that called itself selfless was the thing that prevented real contact.
+
+### The Leader/Mother Variant
+
+A specific form shows up in women in leadership roles, especially mothers, who hear themselves calling self-care selfish. The list of selfish-feeling actions: structuring your own schedule around when you do your best work, taking a walk while the kids are home, leaving the meeting because you need space, asking for an hour to yourself.
+
+"At first it was like, well, that's just selfish, right? Like a leader that comes in and, or, you know, a parent that comes in and is like, 'no, I'm going to go off and play golf today.' Or 'my meetings are creative meetings in the morning because that's when I'm creative.' ... And at first I was like, well, that's a very selfish thing to do." -- Jaime Waydo, Taking Care of Yourself First
+
+The recognition: the leaders Jaime respected all structured their days around their own optimization. They were not selfish. They were doing what they were paid to do -- be successful. The "selfish" label was inherited from a community where matriarchs poured everything into their families and the success of the family was the only acceptable measure of the matriarch.
+
+"They're paying me because they want me to be successful. And maybe I should think pretty hard about, like, what are the systems I need to be successful?" -- Jaime Waydo
+
+The shift in framing is operational rather than philosophical: the team and family are better off when the leader/mother takes care of herself first. Like the oxygen mask instruction on a plane: put your own on before assisting others, because you cannot help anyone if you are unconscious. The "selfish" act was preventing the larger care it claimed to be preventing.
 
 ## Detection Cues
 
@@ -98,3 +110,4 @@ This is why the coaching does not need to police the surface wants. The wants se
 
 - 2021-11-19_What is Selfishness?
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
+- 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader

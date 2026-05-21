@@ -4,8 +4,8 @@ id: past-shame-vs-current-shame
 title: "Past Shame vs. Current Shame"
 aliases: ["current shame vs past shame", "useful shame", "shame about the past", "self-brutalization", "shame that perpetuates patterns"]
 tags: ["shame", "vulnerability", "healing"]
-related: ["shame-drives-behavior", "vulnerability", "feeling-the-unfelt-emotion"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5"]
+related: ["shame-drives-behavior", "vulnerability", "feeling-the-unfelt-emotion", "shame-as-disconnection", "the-shame-avoidance-loop"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
 ---
 
 # Past Shame vs. Current Shame
@@ -32,18 +32,29 @@ Current shame is different. If someone says "I am stealing from you right now," 
 
 Joe references movies set in prison ("The Work" and "What I Want My Words to Say to You") where convicted killers share their innermost experiences. The audience feels empathy, not condemnation, because the person is vulnerably facing their past shame rather than defending it.
 
+## A Third Form: Shame as Disconnection Signal
+
+In addition to current shame as a behavioral compass and past shame as self-brutalization, there is a third frame Joe articulates in the moment-to-moment coaching: shame as the felt sense of disconnection. See [[shame-as-disconnection]]. This is structurally similar to current shame but specifies what the signal is pointing at: the connection has broken, with another person or with yourself.
+
+Under this frame, the question is not "did I do something wrong?" but "where did the connection go?" The answer might be relational (someone pulled away) or internal (you abandoned yourself). The action that resolves the signal is reconnection, not behavior correction.
+
+This explains a particular failure mode: when current shame arises from self-disconnection (the person hid their truth or performed someone else's expectation), the person often misreads it as evidence they did something wrong and tries to fix the behavior. The actual fix is to stop the self-abandonment.
+
 ## Upstream (What Leads Here)
 
 - When someone is stuck in [[shame-drives-behavior]] cycles, the shame holding the pattern is almost always past shame.
 - When someone confuses self-punishment with accountability.
 - When vulnerability about past actions gets confused with ongoing harmful behavior.
+- When the person is in [[the-shame-avoidance-loop]] and needs to distinguish between the loop-shame and useful signal-shame.
 
 ## Downstream (Where This Leads)
 
 - Releasing past shame through vulnerability allows the behavior to change. See [[shame-drives-behavior]].
 - Recognizing current shame as useful allows someone to act on it rather than suppress or wallow.
 - Connects to [[feeling-the-unfelt-emotion]]: past shame is often the unfelt emotion holding the trauma pattern.
+- Toward [[shame-as-disconnection]]: the relational form of current shame.
 
 ## Sources
 
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)

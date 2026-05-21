@@ -4,8 +4,8 @@ id: fear-vs-anxiety
 title: "Fear vs. Anxiety"
 aliases: ["fear is specific anxiety is general", "specific fear vs generalized anxiety", "fear has a target anxiety doesn't", "anxiety differentiates into fears", "the difference between fear and anxiety", "fear and anxiety are not the same"]
 tags: ["fear", "anxiety", "differentiation", "diagnostics", "emotion", "needs"]
-related: ["disassociation-as-numbness-layer", "fear-as-signal-of-care", "fear-vs-excitement", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "three-signals-of-unfelt-emotion"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+related: ["disassociation-as-numbness-layer", "fear-as-signal-of-care", "fear-vs-excitement", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "three-signals-of-unfelt-emotion", "anxiety-three-definitions", "anxiety-as-constricted-life-force", "identity-extension-expands-fear"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
 # Fear vs. Anxiety
@@ -47,6 +47,24 @@ Treating anxiety as a problem to manage misses what it is. Anxiety is informatio
 Asking "what are you anxious about?" too early often produces "I don't know" or a guess that misses the real material. The person has to feel into the anxiety first, let it differentiate on its own. The intellectual question is useful only after the body has done its work.
 
 A person reporting "free-floating anxiety with no specific cause" is reporting that the differentiation has not happened. Either the numbness above the anxiety has not been felt yet, or the person is fleeing the anxiety the moment it begins to take shape. The coaching path is to stay longer in the discomfort, not to find the cause faster.
+
+## Why Modern Anxiety Is Sustained: Self vs. Body
+
+Anxiety was originally designed for the physical body, not for the extended self. The physical body cannot be under threat for sustained periods unless it is actually in a war. Threat to the body is short and discrete: a predator appears, the threat is met or fled, the body returns to baseline.
+
+The extended self can be threatened constantly. Reputation, career, identity, status, finances -- any of these can be at risk on any given day. A CEO whose company is going through an eight-month legal battle is having their sense-of-self threatened for eight months continuously. The body's anxiety system was not designed for this duration. It will keep firing because the threat (to the extended self) is real and ongoing.
+
+"Anxiety was built for, I think, probably far more about the physical body than the sense of self. And the physical body can't really be under threat for sustained periods of time unless it's in a war... whereas you get this long sustained anxiety because a sense of self can be under threat all the time, all the time. If your sense of self is a CEO and your company is having a hostile takeover that, you know, which leads to like an 8-month legal battle or 6-year legal battle, like that's your sense of self is under attack for that whole time, right? So that's just, that's brutal." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+This is why modern anxiety is structurally different from animal anxiety. Not because the mechanism is different but because the threat pattern is different. The mechanism is designed for short bursts; the modern human runs it continuously because the extended self is continuously vulnerable. See [[identity-extension-expands-fear]] for the broader teaching.
+
+The implication: addressing anxiety at the level of the specific threat is often insufficient because the next threat to the extended self is already loading. Addressing it at the level of what is being extended (see [[identity-extension-expands-fear]]) addresses the structural source.
+
+## The Three-Brain Decomposition
+
+Anxiety can also be looked at through three different intelligences simultaneously. The head sees anxiety as constant preparation for attack. The heart sees it as unmet needs. The gut sees it as constriction of life force. See [[anxiety-three-definitions]] for the full treatment.
+
+The decomposition matters for this distinction because the fear-vs-anxiety differentiation tracks roughly with the heart layer. The diffuse anxiety differentiates into specific fears as the unmet needs become legible. Working only at the head layer (catastrophe scenarios) or the gut layer (somatic constriction) without bringing in the heart layer (the needs) often leaves the anxiety in its undifferentiated form.
 
 ## Connection to the Three Signals
 

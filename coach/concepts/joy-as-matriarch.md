@@ -4,8 +4,8 @@ id: joy-as-matriarch
 title: "Joy as the Matriarch of a Family of Emotions"
 aliases: ["joy as matriarch", "joy is a matriarch", "joy as mother", "joy won't come without her children", "the matriarch metaphor", "joy as gateway emotion", "the family of emotions", "docks in your port metaphor"]
 tags: ["joy", "emotions", "metaphor", "welcoming", "positive emotions", "repression"]
-related: ["stages-of-emotional-development", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "kinked-emotions", "pleasure-capacity", "daily-emotional-yoga", "embrace-intensity", "emotional-fluidity"]
-sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
+related: ["stages-of-emotional-development", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "kinked-emotions", "pleasure-capacity", "daily-emotional-yoga", "embrace-intensity", "emotional-fluidity", "fear-of-joy", "cafe-emotional-stigma"]
+sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
 # Joy as the Matriarch of a Family of Emotions
@@ -61,6 +61,14 @@ See [[negative-emotions-precede-positive]] for the developmental ordering.
 Once a person begins feeling the difficult emotions, they often discover that the positive emotions carry as much or more resistance. The body has been trained against intensity in any direction. Bliss can feel destabilizing. Deep joy can feel unfamiliar enough to be uncomfortable.
 
 This is why the work does not end with the difficult emotions. The same allowing has to be extended to the positive ones. They will come up; they will meet resistance; the resistance has to be felt and released.
+
+Joe expands on the resistance to joy as a specific phenomenon worth working with directly:
+
+"We all want joy and happiness. Most of products are sold on the idea that it'll make you happy. So it's something that we all want, but we're all actually really, really scared of it." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+People do not generally know they are afraid of joy. The fear shows up not as conscious avoidance but as small clamping behaviors: laughter that cuts off early, compliments that get deflected, pleasure that gets capped, the "other shoe will drop" thought that appears the moment things feel too good. See [[fear-of-joy]] for the dedicated treatment.
+
+The diagnostic Joe offers: how do you receive a compliment? How openly do you laugh? How long do your orgasms last? Each is a measure of how much joy the system is currently allowing.
 
 ## In Coaching
 

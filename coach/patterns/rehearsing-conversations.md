@@ -5,7 +5,7 @@ title: "Rehearsing Conversations"
 aliases: ["rehearsing the conversation", "running scenarios in your head", "pre-living the conversation", "perfecting the script", "the rehearsal pattern", "imaginary conversations", "post-hoc rehearsal", "replaying conversations"]
 tags: ["voice in head", "patterns", "anxiety", "perfectionism", "avoidance"]
 related: ["voice-in-the-head", "voice-creates-what-it-fears", "perfectionism", "engineering-heartbreak-to-avoid-heartbreak", "rehearsing-how-to-say-it", "fear-is-about-feeling", "feared-consequences-rarely-happen"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
 ---
 
 # Rehearsing Conversations
@@ -58,6 +58,28 @@ What the voice is trying to protect you from with the rehearsal is usually rejec
 
 The cleaner path is to let the feeling underneath be felt. The fear of rejection, fully felt, releases. The conversation becomes possible without the rehearsal. See [[fear-is-about-feeling]] and [[feeling-the-unfelt-emotion]].
 
+## The 4D Chess Variant
+
+Jaime Waydo names a specific texture of the rehearsal pattern: 4D chess. The mind tries to map every possible move the other person could make, every possible counter-move, every possible response to every possible reaction. The mental load is enormous and the predictive value is near zero, because conversations are not chess and other humans are not simulators.
+
+"You start playing chess in your head about 'if I say this, then they're going to do that or they're going to feel that.' And like that chess game starts happening." -- Jaime Waydo, Taking Care of Yourself First
+
+The 4D chess pattern is the leadership version of rehearsing. It is particularly common in leaders who have been told to "consider all stakeholders" and have generalized that instruction into pre-simulating every meeting before it happens. The cost is the same as ordinary rehearsing: exhaustion, anxiety, and a worse actual conversation than would have happened without the simulation.
+
+Jaime's experience of the shift: in a meeting where the boss was yelling, "it was the first time in a long time that I just shut the chess game off and was like, 'I'm not going to do that. I'm just going to go with the first thing that came in my head.'" The first thing was the truth. The truth produced a 180-degree relationship shift. See [[name-the-authoritys-fear]] for the move that became possible once the chess game was off.
+
+## The Inversion: Stoic Visualization
+
+The same machinery that produces destructive rehearsing can be turned around and used productively. Instead of rehearsing what to say in order to control the outcome, visualize all the possible outcomes -- including the worst -- and feel through them in advance. See [[visualizing-feared-outcomes]].
+
+The shift Brett names in the transcript:
+
+"Often people rehearse a conversation so that they can play the chess game and avoid the consequence they're trying not to get, like being yelled at, rather than just seeing all the possible moves on the table that they could play and then all the counter moves they could play to all the possible moves that are played, you know, back at them, and just accepting the entire thing." -- Brett Kistler, Taking Care of Yourself First
+
+The rehearsal strategy tries to avoid a consequence. The visualization strategy accepts all consequences. The first sustains anxiety. The second dissolves it. Same activity, opposite direction.
+
+This is why telling someone "stop rehearsing" rarely works. The mind is going to run scenarios regardless. The question is whether the scenarios are being run to avoid an outcome (which keeps fear in place) or to fully meet an outcome in advance (which dissolves fear).
+
 ## When Someone Experiences This
 
 - Spending hours each week reviewing past conversations.
@@ -97,3 +119,4 @@ See [[rehearsing-how-to-say-it]] for the live-coaching read of this pattern when
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader

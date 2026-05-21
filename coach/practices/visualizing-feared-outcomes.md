@@ -5,7 +5,7 @@ title: "Visualizing Feared Outcomes"
 aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance"]
 tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking"]
 related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
 ---
 
 # Visualizing Feared Outcomes
@@ -56,6 +56,18 @@ The instruction is explicit: the pre-feel is not a tactic to enable stopping the
 
 The mechanism in this domain is the same as in others: the fear is about what will have to be felt. The pre-feel collapses the fear and clears the decision. See [[caretaking-prevents-the-bottom]] for the structural argument about why caretaking is usually counterproductive even on its own terms.
 
+## Application: Workplace Fear and Speaking Up
+
+The same practice releases the fear that holds people back from speaking truth at work. Jaime Waydo applied it to scenarios she was afraid of: getting yelled at, getting fired, walking out of a meeting. She visualized each scenario in full, including the worst-case outcome:
+
+"Imagine and feel yourself getting fired. And then what happens the day after you got fired? And what happens the week after you got fired? And the month after you got fired? And like, I got to a point where I was okay with it. And then like, I felt very free at work because the worst thing that could ever happen is I got fired. And that would be okay." -- Jaime Waydo, Taking Care of Yourself First
+
+The freedom that followed the visualization was operational. Once getting fired was tolerable, the fear that had been holding her back from speaking up dissolved. She could name a senior leader's fear directly. She could state what she needed. She could decline to play 4D chess. See [[name-the-authoritys-fear]] and [[rehearsing-conversations]] for what became possible.
+
+This is the same mechanism Joe describes for caretakers. The fear that holds the behavior in place is fear of what would have to be felt if the avoided outcome happened. Pre-feeling the outcome removes the lock. The behavior reorganizes.
+
+The leadership-specific form: at work, the worst thing that can happen is usually you get fired. That is a finite, knowable, survivable outcome. Once that has been pre-felt, the fear of all the smaller outcomes (offending a colleague, displeasing a manager, being seen as difficult) collapses, because they are all milder versions of the same thing.
+
 ## When This Comes Up in Coaching
 
 - When someone is caught in a decision they cannot make because every option feels catastrophic.
@@ -63,8 +75,12 @@ The mechanism in this domain is the same as in others: the fear is about what wi
 - When fear of an outcome is producing the very behaviors that invite the outcome.
 - When the person is in [[i-feel-trapped]] and the trap is sustained by an unfelt feared feeling.
 - When [[caring-vs-caretaking]] has been named and the person cannot move past the catastrophic prediction.
+- When someone cannot speak up at work because they have not pre-felt being fired.
+- When [[rehearsing-conversations]] is being run to avoid an outcome rather than to meet it.
+- When a leader is trying to find the courage to make [[name-the-authoritys-fear]] move or similar.
 
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader

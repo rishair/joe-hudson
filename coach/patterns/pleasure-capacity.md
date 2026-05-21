@@ -4,8 +4,8 @@ id: pleasure-capacity
 title: "Pleasure Capacity"
 aliases: ["capacity for pleasure", "pleasure ceiling", "nervous system ceiling for enjoyment", "too much pleasure", "enjoyment overwhelm"]
 tags: ["nervous system", "enjoyment", "safety", "childhood", "capacity"]
-related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4"]
+related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance", "fear-of-joy", "joy-as-matriarch", "cafe-emotional-stigma"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
 # Pleasure Capacity
@@ -29,6 +29,16 @@ If deeply nurtured as a child, the ceiling is higher. But in either case, the ce
 ## The Inverse Relationship
 
 Enjoyment and vigilance are inversely related. More enjoyment requires less guard. This means the person who struggles to enjoy is not lacking motivation or gratitude. They are carrying a nervous system that equates relaxation with danger. The work is not "try harder to enjoy." The work is expanding what the nervous system considers safe.
+
+## The Other-Shoe-Will-Drop Belief
+
+A specific belief that operates at the pleasure ceiling: "if I let this in, something bad will happen." The body holds back the pleasure not because the pleasure itself is dangerous but because the brain has learned to associate the peak of pleasure with the imminent arrival of pain.
+
+"If I let this in, the other shoe's gonna drop. If I let this in, I'll get hurt in some way. If I let the love in, then that person can hurt me. There's all these very false conceptions that happen." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+The belief is rarely conscious. It operates as a background setting that produces automatic clamping at certain thresholds. The person feels the pleasure rising and the system reaches up and caps it before it crosses into unfamiliar territory.
+
+This is why the work cannot only be about expanding capacity through positive practices. The belief that the pleasure invites the pain has to be felt and seen through. Otherwise the system keeps clamping for what it considers protective reasons. See [[fear-of-joy]] for the related pattern.
 
 ## When Someone Experiences This
 

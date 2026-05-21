@@ -4,8 +4,8 @@ id: cafe-emotional-stigma
 title: "The Cafe Test: How Stigmatized Emotion Is in Public"
 aliases: ["the cafe test", "cafe emotion experiment", "person at a cafe", "emotional stigma cafe", "the cafe thought experiment", "how kinky emotions are", "alone at a cafe"]
 tags: ["emotions", "stigma", "society", "thought experiment", "example", "repression"]
-related: ["stages-of-emotional-development", "repression-vs-management", "kinked-emotions", "feeling-the-unfelt-emotion", "emotions-live-in-muscles"]
-sources: ["2021-09-24_Stages of Emotional Development"]
+related: ["stages-of-emotional-development", "repression-vs-management", "kinked-emotions", "feeling-the-unfelt-emotion", "emotions-live-in-muscles", "fear-of-joy", "joy-as-matriarch", "authenticity-reduces-shame"]
+sources: ["2021-09-24_Stages of Emotional Development", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
 # The Cafe Test: How Stigmatized Emotion Is in Public
@@ -42,7 +42,11 @@ This is part of why [[daily-emotional-yoga]] is done in private, especially in t
 
 People understand that crying in public is awkward. They less often notice that overt joy is also socially policed. Laughing too loudly, being too excited, smiling at strangers too much -- all of these get read as off. This is why the positive emotions also require deliberate work to allow. They have been suppressed not only internally but socially.
 
-This connects to [[joy-as-matriarch]] and [[negative-emotions-precede-positive]]. The cultural stigma against visible joy is part of why the positive emotions carry as much resistance as the difficult ones.
+Joe makes the test sharper by asking which version would be the scariest: "If you just start laughing out of just pure bliss and joy? Like, which one's gonna make people most uncomfortable? Like, which one's gonna be the most scary?" -- Joe Hudson, Anxiety: A Signpost to Unmet Needs. The bliss-laugher often outranks the crier, the angry person, and the scared person in social discomfort produced. Visible, uncontainable joy is somehow the most threatening expression of all.
+
+Brett surfaces why: "The guy who's laughing maniacally for reasons that I don't understand in a coffee shop. I mean, I've seen in movies that that's probably the guy who's like planted a bomb at the local hospital." -- Brett Kistler, Anxiety: A Signpost to Unmet Needs. The base rate of unexplained joy in public is so low that observers register it as a sign that something is wrong rather than something is right.
+
+This connects to [[joy-as-matriarch]] and [[negative-emotions-precede-positive]]. The cultural stigma against visible joy is part of why the positive emotions carry as much resistance as the difficult ones. See also [[fear-of-joy]] for the internal pattern this social context reinforces.
 
 ## When Joe Uses This
 

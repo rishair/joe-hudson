@@ -4,8 +4,8 @@ id: identity-extension-expands-fear
 title: "The Bigger the Self, the More There Is to Fear"
 aliases: ["identity-extension expands fear", "the size of self determines the scope of fear", "fear scales with identity", "humans fear what animals don't because the self is bigger", "extended self extended fear", "more identity more fear"]
 tags: ["fear", "self", "identity", "annihilation", "non-dual", "freedom"]
-related: ["self-realization", "what-am-i", "expanding-sense-of-self", "fear-as-signal-of-care", "annihilation-reveals-what-is-real", "fear-is-about-feeling", "projections", "undoing-not-doing"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+related: ["self-realization", "what-am-i", "expanding-sense-of-self", "fear-as-signal-of-care", "annihilation-reveals-what-is-real", "fear-is-about-feeling", "projections", "undoing-not-doing", "fear-vs-anxiety", "anxiety-three-definitions"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
 # The Bigger the Self, the More There Is to Fear
@@ -45,6 +45,18 @@ The body's threat circuits are designed for brief, infrequent events. A predator
 When the self has been extended into dozens of items, threats to one or another are constant. Reputation can be damaged any day. Social rank can shift in a single conversation. Wealth can be lost in a market move. Identity can be challenged by any disagreement. The threat circuit never returns to baseline because there is always something on the list that is currently at risk.
 
 This is the structural reason for chronic anxiety in humans, particularly modern humans whose extended self includes more items than any prior generation (social media presence, professional brand, digital footprint, online reputation). Each new extension adds to the fear load.
+
+## The Body Was Built for Short Bursts, Not Sustained Self-Threat
+
+The mechanism is even sharper when distinguished by duration. The body's fear system was built for brief, intense events: predator appears, threat is met, body discharges and returns to baseline. Threats to the body are usually short. Threats to the extended self are usually long.
+
+"Anxiety was built for, I think, probably far more about the physical body than the sense of self. And the physical body can't really be under threat for sustained periods of time unless it's in a war. You know, it's kind of these short moments, whereas you get this long sustained anxiety because a sense of self can be under threat all the time, all the time." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+A CEO whose company is in a six-year legal battle is having their sense of self threatened for six years continuously. The body cannot do that without consequence. The system was not designed for sustained high-vigilance about identity. The result is the chronic anxiety many modern people treat as normal but which is, structurally, the body running an emergency response for years on end.
+
+This is why the differentiation in [[fear-vs-anxiety]] matters so much in the modern context. Discrete fears the body can handle. Sustained anxiety from ongoing threats to the extended self is structurally damaging in a way that short fear is not.
+
+The deeper move, again, is to see through some of the extensions so the system has fewer permanent threat-targets. The intermediate move is to convert the diffuse anxiety to specific fears, articulate the needs underneath, and discharge what can be discharged. See [[anxiety-as-unarticulated-need]] for the practical version.
 
 ## The Coaching Implication
 

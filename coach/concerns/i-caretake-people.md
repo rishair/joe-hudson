@@ -4,7 +4,7 @@ id: i-caretake-people
 title: "I caretake people / I manage everyone's emotions"
 aliases: ["I'm codependent", "I'm always taking care of people", "I'm exhausted from caring for others", "I'm a caretaker", "I manage everyone's feelings", "I caretake my partner", "I caretake my family", "people-pleasing in care form"]
 tags: ["codependence", "caretaking", "boundaries", "obligation", "savior"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
 ---
 
 # I caretake people / I manage everyone's emotions
@@ -100,12 +100,22 @@ He does not collude with the framing of the caretaker as the noble one. The fram
 
 He does not skip the grief. The pre-feel is non-negotiable when stopping caretaking would mean someone dies, leaves, or collapses. Skipping the grief produces decisions made under its weight.
 
+## The Leadership/Parenting Form
+
+The caretaking pattern frequently presents in leadership as [[chameleon-leadership]]: the leader morphs into whatever each report needs, calling it "meeting people where they are." It is caretaking with extra steps. The structural diagnostic is the same -- the leader manages each person's emotional state at the cost of their own ground -- and the felt experience is the same exhaustion.
+
+The parenting version is the matriarch who pours everything into the family and never models taking care of herself. Jaime Waydo describes growing up watching her mother do this and absorbing the expectation: "She did everything. And so I think I just kind of by example absorbed that that was the expectation. And I never saw my mom be like, 'I need a break,' or, 'I'm going out.'" The training is generational, transmitted by example more than by instruction.
+
+The leadership and parenting versions converge: in both, the person believes the role requires self-sacrifice, and the people they are caretaking suffer as a result of the suppression rather than benefit from the sacrifice. The corrective in both cases is the same -- find what you actually want, state it, and let the team or family find their own response. See [[stay-centered-while-holding-space]] and [[state-the-want-not-the-action]].
+
 ## Related Concerns
 
 - [[i-feel-trapped]]: the felt cage is often the caretaking dynamic.
 - [[i-have-to-sacrifice-to-succeed]]: a related framing in the work domain.
 - [[i-should-be-doing-this]]: the should layer that often holds caretaking in place.
+- [[am-i-being-selfish]]: the verbal label that often guards the caretaking from being examined.
 
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader

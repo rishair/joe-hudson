@@ -5,7 +5,7 @@ title: "Decisions Are Emotional"
 aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
 related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
 ---
 
 # Decisions Are Emotional
@@ -76,6 +76,16 @@ Behaviorally, the avoidance of negative feelings shapes decisions more than the 
 
 This is why moving toward unfelt negative emotions (rather than toward more positive feelings) tends to unlock more decisional clarity. The constraint was on the negative side. Loosening it produces more change than adding positive on the other side.
 
+## The AI Application: Decision-Making Requires Emotion
+
+A consequence of this principle that becomes visible when contemplating artificial intelligence: if decisions are made emotionally, and intelligence requires decision-making, then any system capable of decisions must operate on emotional or emotion-equivalent foundations. The "rational AI free of human emotional limitations" framing collapses on examination.
+
+Joe makes the point directly to Sam Altman in the context of AGI: "Neurologically speaking, we make decisions emotionally, meaning if we take the emotional center out of our brain, we cease to be able to make decisions even if our IQ would stay the same. Also, if you look at Gödel, he talks about the limitations of logic through the mathematical incompleteness theorem. So as you're building artificial intelligence, and if you kind of see that the postulates that we're working on and the way our intelligence works is through emotions, how does that translate into AI?" -- Joe Hudson, Sam Altman
+
+Sam's response affirms the principle and acknowledges the open question: any sufficiently capable AI may necessarily have emotion-equivalent processes, whether or not the developers intend them. "As Joe said, we clearly make decisions emotionally and then justify them with intellect later... Maybe like there's something so fundamental about the relationship between fear and intelligence, which I could totally believe, that building any sort of AGI-like system necessarily has the ability to experience fear." -- Sam Altman, Sam Altman
+
+The implication for coaching: the principle is not a quirk of biology. It is a structural feature of how decision-making works. Any framing that treats emotions as bugs to be optimized away misunderstands the system. This applies to the person trying to be more "rational" in their own decision-making just as much as to the engineer trying to build an AI free of emotion. Emotion is not the obstacle to good decisions. Emotion is the substrate decisions are made on.
+
 ## Transformation Changes Decisions
 
 Because decisions are emotional, transformation that increases emotional fluidity directly changes what decisions a person makes. "What you're willing to feel and what you're willing not to feel, what you're excited to feel, what you're excited to feel that you used to be horrified at feeling, that will really change a lot of the decisions you make." -- Joe Hudson, Integrating a Transformative Experience
@@ -99,3 +109,5 @@ This is the mechanism by which [[epiphany-vs-transformation]] at the emotional l
 - 2020-11-06_Empathy -- Connection Course Series #4
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-10-08_Embracing Intensity - Emotion Series #2
+- 2022-01-15_Sam Altman -- Leading with Crippling Anxiety, Discovering Meditation, and Buildin

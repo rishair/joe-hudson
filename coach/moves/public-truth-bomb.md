@@ -4,7 +4,7 @@ id: public-truth-bomb
 title: "Public Truth-Bomb to the Leader"
 aliases: ["public diagnostic", "naming the thing in front of the team", "your anxiety is going to kill your company", "the public truth-bomb move", "calling it out in the room", "leader truth-bomb", "diagnostic in front of the team"]
 tags: ["leadership", "vulnerability", "truth", "groups", "consent", "permissioning", "move"]
-related: ["welcoming-fear-in-leadership", "vulnerability-in-the-workplace", "im-not-an-anxious-person", "are-you-bracing-or-embracing", "embrace-vs-brace", "vulnerability", "love-vs-nice", "container-of-love"]
+related: ["welcoming-fear-in-leadership", "vulnerability-in-the-workplace", "im-not-an-anxious-person", "are-you-bracing-or-embracing", "embrace-vs-brace", "vulnerability", "love-vs-nice", "container-of-love", "name-the-authoritys-fear"]
 sources: ["2021-10-15_Ant Taylor on Embracing Emotions"]
 ---
 
@@ -112,6 +112,7 @@ If the move lands, the daisy chain begins. The leader names their next thing. A 
 - Toward [[vulnerability-in-the-workplace]]: the broader application this is a specific case of.
 - Toward [[container-of-love]]: the relational field that has to hold what the move opens.
 - Toward [[are-you-bracing-or-embracing]]: the consent check that precedes the bomb.
+- Toward [[name-the-authoritys-fear]]: the same move performed by a subordinate rather than a coach, without consent, with greater risk.
 
 ## Sources
 
