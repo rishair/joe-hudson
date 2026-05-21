@@ -5,7 +5,7 @@ title: "Public Truth-Bomb to the Leader"
 aliases: ["public diagnostic", "naming the thing in front of the team", "your anxiety is going to kill your company", "the public truth-bomb move", "calling it out in the room", "leader truth-bomb", "diagnostic in front of the team"]
 tags: ["leadership", "vulnerability", "truth", "groups", "consent", "permissioning", "move"]
 related: ["welcoming-fear-in-leadership", "vulnerability-in-the-workplace", "im-not-an-anxious-person", "are-you-bracing-or-embracing", "embrace-vs-brace", "vulnerability", "love-vs-nice", "container-of-love", "name-the-authoritys-fear"]
-sources: ["2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-03-04_Building a Dysfunctional Team - Team Series #2"]
 ---
 
 # Public Truth-Bomb to the Leader
@@ -39,6 +39,12 @@ The public delivery breaks the fiction in one move. After the truth-bomb, there 
 ## Why It Works
 
 The unspoken thing in a group has a particular kind of weight. Everyone is carrying it. Everyone is spending energy not naming it. Once it is named, the energy that was holding the fiction in place becomes available. The release is felt by everyone in the room, not just the named person.
+
+Joe describes the same move in retrospect as one of the most poignant team-transformation moments he can recall:
+
+"We're in an offsite, we're doing something, and I was supposed to trigger him on something. And I said, 'Your anxiety is gonna kill the company, and everybody in this room knows it.' That's a poignant moment, and I'm doing it with a tremendous amount of love and just a deep truth that allows everybody to go, 'Oh,' and relieve, including Ant in that moment. There's a sense of relief because it's like, 'Oh, the thing has been called out. Now we can actually address it and look at it.' And it's not being considered wrong. It's not being blamed. It's not something that, you know, makes anybody more or less than one another." -- Joe Hudson, Building a Dysfunctional Team
+
+The relief is the diagnostic that the move landed cleanly. The room exhales. The named person exhales. The fiction collapses without the team collapsing.
 
 Ant's account of what happened in his body when the truth-bomb landed:
 

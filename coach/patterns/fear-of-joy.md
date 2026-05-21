@@ -2,10 +2,10 @@
 type: pattern
 id: fear-of-joy
 title: "Fear of Joy"
-aliases: ["scared of joy", "pleasure anxiety", "the other shoe is going to drop", "stopping the laughter", "afraid to feel good", "the joy clamp", "if I let the love in", "shutting down the laughing", "fear of feeling good", "afraid of pleasure"]
-tags: ["joy", "fear", "pleasure", "anxiety", "self-protection", "pattern"]
-related: ["joy-as-matriarch", "pleasure-capacity", "cafe-emotional-stigma", "embrace-vs-brace", "ive-lost-my-joy", "anxiety-as-constricted-life-force", "feeling-the-unfelt-emotion"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+aliases: ["scared of joy", "pleasure anxiety", "the other shoe is going to drop", "stopping the laughter", "afraid to feel good", "the joy clamp", "if I let the love in", "shutting down the laughing", "fear of feeling good", "afraid of pleasure", "foreboding joy", "the inevitable doom thought", "if I'm happy I won't be prepared", "resistance to gratitude", "scared of being content"]
+tags: ["joy", "fear", "pleasure", "anxiety", "self-protection", "pattern", "gratitude"]
+related: ["joy-as-matriarch", "pleasure-capacity", "cafe-emotional-stigma", "embrace-vs-brace", "ive-lost-my-joy", "anxiety-as-constricted-life-force", "feeling-the-unfelt-emotion", "gratitude-rounds-before-meetings"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?"]
 ---
 
 # Fear of Joy
@@ -40,6 +40,24 @@ The clamp tends to rest on one or more of these unstated beliefs:
 - **People will reject me.** Visible joy is socially marked as wrong or threatening. See [[cafe-emotional-stigma]].
 
 None of these beliefs are typically conscious in the moment. They operate as background settings that produce the clamping automatically.
+
+## The Inevitable-Doom Belief (Foreboding Joy)
+
+A specific flavor of the underlying belief is worth naming on its own. The person who clamps joy often does so because they believe doom is always around the corner, and joy makes them less prepared for it. Being content, being happy, looking forward to good things -- all are felt as states that compromise the readiness required by the inevitable bad thing that is coming.
+
+This is sometimes called foreboding joy. Joe names it as the core resistance to gratitude practice:
+
+"The real core as to why people resist gratitude, besides it's strange and awkward at the beginning, is the fact that they're scared that they won't be prepared for the inevitable doom that is always around the corner. If they are happy, if they are content, if they're looking for something good to happen." -- Joe Hudson, How Does Gratitude Create Better Teams?
+
+The belief packages itself as realism. "I'm not pessimistic, I'm just realistic. Bad things do happen. I just want to be prepared." The realism framing is what makes the belief difficult to dislodge. It does not look like a fear; it looks like prudence.
+
+Underneath the realism is the assumption that joy and preparedness are incompatible. The body in a joyful state is treated as unguarded. The body in a vigilant state is treated as protected. The work is to question whether vigilance actually produces preparation or just produces exhaustion. The body that lives in chronic vigilance is not more ready for crisis; it is more depleted and less able to respond when crisis comes.
+
+"For many people, joy is just the signal that the other shoe's gonna drop. Because it is, you're not in joy forever. It doesn't work like that, everything is fleeting." -- Joe Hudson, How Does Gratitude Create Better Teams?
+
+Joe acknowledges the kernel of truth (joy is impermanent) without conceding the conclusion (therefore avoid it). "But that's no reason. That's like saying I'm not going to eat this beautiful bowl of food because at some point it'll be gone. It's just, it's silly, but it is the way our nervous systems respond." -- Joe Hudson.
+
+The foreboding-joy belief is most observable when a person resists gratitude or appreciation practices on principle, especially when they cannot say exactly why they resist beyond "it feels off" or "this seems naive."
 
 ## The Diagnostic Questions
 
@@ -111,6 +129,8 @@ Curious, warm. The fear of joy is treated as a real phenomenon, not as a failure
 - When [[pleasure-capacity]] is being investigated and the active fear of joy needs to be named
 - When [[joy-as-matriarch]] has been introduced and the person needs the specific pattern that operates on the joy side
 - When a session has produced a release of joy and the person clamped it down
+- When a team or individual resists gratitude practice with framings like "this seems unrealistic" or "I just want to be prepared" -- the foreboding-joy variant
+- When a leader institutes [[gratitude-rounds-before-meetings]] and a participant cannot find anything to feel grateful for that lands somatically
 
 ## Downstream (Where This Leads)
 
@@ -119,7 +139,9 @@ Curious, warm. The fear of joy is treated as a real phenomenon, not as a failure
 - Toward [[cafe-emotional-stigma]]: the social reinforcement of the clamp
 - Toward [[feeling-the-unfelt-emotion]]: the practice extended to positive emotions
 - Toward [[embrace-vs-brace]]: the body diagnostic that surfaces the clamp in the moment
+- Toward [[gratitude-rounds-before-meetings]]: when the fear of joy shows up specifically as resistance to gratitude practice, the practice itself becomes the entry point to the work
 
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-03-11_How Does Gratitude Create Better Teams?

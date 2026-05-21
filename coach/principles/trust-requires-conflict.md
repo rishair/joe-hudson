@@ -2,10 +2,10 @@
 type: principle
 id: trust-requires-conflict
 title: "Trust Requires Conflict (and the Overcoming of It Together)"
-aliases: ["trust is built through conflict", "you can't build trust without conflict", "the least offensive person isn't trustworthy", "conflict and overcoming it together", "the least offensive person is the least trustworthy", "without offense no trust"]
-tags: ["trust", "conflict", "relationships", "leadership", "vulnerability"]
-related: ["conflict-avoidance-prevents-healing", "shame-as-disconnection", "vulnerability", "im-afraid-of-offending-people", "love-vs-nice"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+aliases: ["trust is built through conflict", "you can't build trust without conflict", "the least offensive person isn't trustworthy", "conflict and overcoming it together", "the least offensive person is the least trustworthy", "without offense no trust", "trust built by surviving conflict"]
+tags: ["trust", "conflict", "relationships", "leadership", "vulnerability", "teams"]
+related: ["conflict-avoidance-prevents-healing", "shame-as-disconnection", "vulnerability", "im-afraid-of-offending-people", "love-vs-nice", "trust-as-multifaceted", "trust-vs-safety", "functional-team", "conflict-coming-to-you-means-youre-avoiding"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-02-19_Building a Functional Team - Team Series #1"]
 ---
 
 # Trust Requires Conflict (and the Overcoming of It Together)
@@ -63,6 +63,32 @@ The person worried about being trusted often performs trustworthiness through ag
 
 The principle is presented as observation, not aspiration. It is how trust empirically forms in human relationships. The person who has been organizing their life around avoiding conflict has been organizing their life around producing relationships that cannot fully trust them.
 
+## How Trust Gets Built More Specifically
+
+In the team-design context, the principle gets a fuller articulation of the mechanisms. Trust is built across all its dimensions through similar moves:
+
+"Trust is built in similar ways. It's having the difficult conversations. It's not avoiding them. Any conflict-avoidant manager, if you are listening to this and you are a conflict-avoidant manager, your team does not trust you." -- Joe Hudson, Building a Functional Team
+
+Specifically:
+
+- **Having the difficult conversations** rather than avoiding them. The conflict is the through-line.
+- **Doing what you say you will do.** Reliability over time.
+- **Not allowing the unaccountable.** Dealing with the dirty laundry, including the laundry between people, the failing product, the personal struggles the leader has been hiding.
+- **Bringing things up.** "Bringing it up is a way to create trust. It might be hard, but it's a way to create trust."
+
+The reverse list is the destroy-trust list. Conflict avoidance, breaking commitments, allowing non-accountability, not naming the unaddressed. Each of these reads as kindness or pragmatism in the moment and as betrayal across time.
+
+## The Multifaceted Trust Connection
+
+Trust is not a single thing. See [[trust-as-multifaceted]]. The principle that trust requires conflict applies across all dimensions, but the specific conflicts that build each dimension differ.
+
+- Communicative trust gets built by saying the thing that was not yet said and surviving it together.
+- Financial trust gets built by working through a money disagreement.
+- Reliability trust gets built when something falls through and the parties repair it.
+- Conflict trust itself gets built by having conflicts and the relationship surviving them.
+
+Each dimension has its own form of conflict, its own form of overcoming, and its own consequence for the relationship. The blanket statement "we have trust" hides which dimensions have been tested and which have not.
+
 ## Tone
 
 Observational, almost commonsense. Joe presents this as something the listener already knows but has not yet applied to themselves. The persuasion is in the recognition, not in the argument.
@@ -70,3 +96,4 @@ Observational, almost commonsense. Joe presents this as something the listener a
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-02-19_Building a Functional Team - Team Series #1

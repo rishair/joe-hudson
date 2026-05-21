@@ -2,10 +2,10 @@
 type: principle
 id: conflict-avoidance-prevents-healing
 title: "Conflict Avoidance Prevents Healing (Yours and Theirs)"
-aliases: ["avoiding conflict prevents healing", "you can't heal shame without conflict", "conflict avoidance stops growth", "by avoiding conflict you stop their growth too", "the conflict-avoidant leader has a stagnant team", "the Tibetan teacher principle", "if you never offend anybody you take away their healing journey", "you take away my healing journey"]
-tags: ["conflict", "healing", "shame", "leadership", "growth", "vulnerability", "relationships"]
-related: ["shame-as-disconnection", "the-shame-avoidance-loop", "trust-requires-conflict", "im-afraid-of-offending-people", "shame-drives-behavior", "vulnerability", "tibetan-teacher-offending-students"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+aliases: ["avoiding conflict prevents healing", "you can't heal shame without conflict", "conflict avoidance stops growth", "by avoiding conflict you stop their growth too", "the conflict-avoidant leader has a stagnant team", "the Tibetan teacher principle", "if you never offend anybody you take away their healing journey", "you take away my healing journey", "conflict avoidance destroys trust", "conflict avoidance and team trust", "short-term discomfort for long-term discomfort", "trading short-term discomfort for long-term"]
+tags: ["conflict", "healing", "shame", "leadership", "growth", "vulnerability", "relationships", "teams", "trust"]
+related: ["shame-as-disconnection", "the-shame-avoidance-loop", "trust-requires-conflict", "im-afraid-of-offending-people", "shame-drives-behavior", "vulnerability", "tibetan-teacher-offending-students", "trust-as-multifaceted", "conflict-coming-to-you-means-youre-avoiding", "functional-team", "signs-of-a-dysfunctional-leader", "five-star-meeting-commitment"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-02-19_Building a Functional Team - Team Series #1", "2022-03-04_Building a Dysfunctional Team - Team Series #2"]
 ---
 
 # Conflict Avoidance Prevents Healing (Yours and Theirs)
@@ -39,6 +39,28 @@ The principle has a direct organizational form. Conflict-avoidant leaders create
 "Whereas leaders who aren't conflict avoidant, say Steve Jobs would be a great example of that, innovation all the time." -- Joe Hudson, Healing Shame by Being Ourselves
 
 Joe is careful to qualify: this is not a license to yell. "Not that I'm suggesting you have to yell at people, please, I'm not. But my point is that that conflict avoidance pretty much can guarantee stagnation in an organization and in people and in marriages."
+
+## The Trust Cost in Leadership
+
+The leadership form has a specific cost: the team does not trust the conflict-avoidant leader. The team can feel that the leader is sidestepping the real conversations. They learn to read the avoidance. The trust erodes in ways the leader does not see.
+
+"Any conflict-avoidant manager, if you are listening to this and you are a conflict-avoidant manager, your team does not trust you. I guarantee it. I guarantee your team doesn't trust you. You think you're being nice, but what you're doing is you are destroying the trust between you and your team." -- Joe Hudson, Building a Functional Team
+
+The mechanism: trust is built through conflict survived together. See [[trust-requires-conflict]]. The leader who avoids the conflict denies the team the experience that would have built the trust. The team's experience of the relationship is bounded by what they have actually been through with the leader. If they have never been through anything difficult together, the relationship has no proven depth.
+
+This is the team-level statement of the larger principle. The personal forms of conflict avoidance (in marriages, in friendships, with oneself) all prevent healing. The leadership form additionally destroys trust at the team level, with downstream effects on output, retention, and culture.
+
+## The Conflict-Coming-To-You Diagnostic
+
+A common self-deception of the conflict-avoidant manager: they feel they are not avoiding conflict because conflict is constantly coming to them. The constancy is the diagnosis, not the disconfirmation. Conflicts keep coming because they are not being resolved. See [[conflict-coming-to-you-means-youre-avoiding]] for the full diagnostic.
+
+## Trading Short-Term Discomfort for Long-Term Discomfort
+
+The conflict-avoidant leader makes a trade they do not see they are making. The short-term discomfort of a hard conversation gets converted into the long-term discomfort of a stagnant team, ongoing political mess, and gradual erosion of trust.
+
+"It's oftentimes you see the leaders trade the short-term discomfort for the long-term discomfort. And so if you're okay with the short-term discomfort, you have a lot less long-term discomfort. That's a critical piece as well." -- Joe Hudson, Building a Dysfunctional Team
+
+The arithmetic favors the short-term discomfort by a wide margin. A single difficult conversation produces minutes or hours of discomfort. The unresolved version produces years. The leader who is willing to be uncomfortable for an hour saves the team months of degraded function. The team feels it both ways.
 
 ## In Trust
 
@@ -94,3 +116,4 @@ Direct and clarifying, with examples drawn from leadership, parenting, and spiri
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-02-19_Building a Functional Team - Team Series #1

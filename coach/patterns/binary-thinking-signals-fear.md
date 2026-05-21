@@ -5,7 +5,7 @@ title: "Binary Thinking Signals Fear"
 aliases: ["black or white thinking", "binary frame as fear", "either/or thinking", "binary thinking is fear", "black and white framing"]
 tags: ["fear", "decisions", "binary", "diagnostics", "patterns"]
 related: ["three-signals-of-unfelt-emotion", "fear-is-about-feeling", "unfelt-emotion-leaks", "feel-over-figure", "feeling-the-unfelt-emotion", "fear-as-signal-of-care"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
 ---
 
 # Binary Thinking Signals Fear
@@ -71,6 +71,15 @@ Binary thinking is the intellect trying to escape an unfelt emotion. The intelle
 - Defining their identity through one binary ("I'm either a good parent or a bad parent")
 - Treating a conversation as winnable or losable
 - Engaging authority figures only by fighting or by submitting, with no third stance available
+- Inside a power dynamic, treating it as "win the argument or lose the argument" (see [[power-dynamics-as-two-defenders]])
+
+## In Power Dynamics
+
+Binary thinking is one of the engines of every power-over dynamic. The frame "I can win this or lose this" is the cognitive shape of fear running between two people. Both parties enter the binary, both compete for the win-pole, and the only outcomes available are mutual defeat (both lose) or mutual loss (one wins, one loses, both feel attacked).
+
+The exit from the binary is the same as the exit from the power dynamic itself: drop the binary by feeling what is underneath. What is underneath in conflict is usually fear of loss -- of being unseen, controlled, abandoned, dismissed. Once felt, the binary opens. The conversation can include outcomes other than win or lose. See [[fear-triangle]] for the relational version of the same collapse.
+
+"You can win the argument or lose the argument. You can have somebody see your position or they just don't." -- Brett Kistler, The Power Dynamics of Fear (describing the binary; Joe confirms it is the fear at work)
 
 ## The Relational Version: Fight or Roll Over
 
@@ -98,3 +107,4 @@ The work in this case is to locate the somatic third stance, which Joe sometimes
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-02-04_The Power Dynamics of Fear - Emotion Series #7

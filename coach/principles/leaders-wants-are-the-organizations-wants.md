@@ -2,10 +2,10 @@
 type: principle
 id: leaders-wants-are-the-organizations-wants
 title: "A Leader's Wants Are the Organization's Wants"
-aliases: ["my wants are the organization's wants", "the leader's wants represent the organization", "leader wants as organizational signal", "naming wants as duty", "I owe it to my team to say what I want", "wants as organizational information"]
-tags: ["wants", "leadership", "organizations", "responsibility", "vulnerability"]
-related: ["the-want", "wants-vs-partiality", "sublimated-wants-become-politics", "state-the-want-not-the-action", "tell-them-like-an-asshole", "anxiety-as-unarticulated-need", "vulnerability-in-the-workplace", "resentment-as-unspoken-want"]
-sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
+aliases: ["my wants are the organization's wants", "the leader's wants represent the organization", "leader wants as organizational signal", "naming wants as duty", "I owe it to my team to say what I want", "wants as organizational information", "the CEO who hides fear destroys trust", "leader hiding feelings is leader hiding wants"]
+tags: ["wants", "leadership", "organizations", "responsibility", "vulnerability", "trust"]
+related: ["the-want", "wants-vs-partiality", "sublimated-wants-become-politics", "state-the-want-not-the-action", "tell-them-like-an-asshole", "anxiety-as-unarticulated-need", "vulnerability-in-the-workplace", "resentment-as-unspoken-want", "trust-as-multifaceted", "welcoming-fear-in-leadership", "functional-team"]
+sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1"]
 ---
 
 # A Leader's Wants Are the Organization's Wants
@@ -27,6 +27,28 @@ A want that arises in the leader is often a want that has been arising across th
 This is also true downward. A team member's wants are often the team's wants. The leader's job is to surface these and to model the surfacing of their own.
 
 "When my team is expressing their wants and needs, and sometimes I have to pull it out of them, I literally validate them by saying, hey, if you are feeling a certain way, it's because your team or your organization feels that way. And you owe it not only to yourself, but to them to say it out loud." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+## Wants Include Feelings, Not Just Preferences
+
+The principle extends from explicit wants to the leader's internal state more broadly. The leader's fears, frustrations, and discomforts are also organizational data. Hiding them is the same failure as hiding wants: depriving the team of information they need to function.
+
+"You see that all the time, particularly with executives, particularly with CEOs, is that they don't share with their team how they're feeling because they have this idea that they need to take care of everybody, that they're responsible for everybody. So they have to handle it all on their own. And so they're not saying to their team, hey, I'm really scared about X, Y, and Z, or the way you said that doesn't work for me, or the way this team is functioning is off for me, because they think that they have to fix it. And therefore their team can't trust them. Then their team is sitting there going, okay, when's the bad mood going to happen? When's the reaction going to happen?" -- Joe Hudson, Building a Functional Team
+
+The leader believes hiding fear protects the team. The team experiences the hidden fear as the leader's mysterious moods, the unpredictable reactions, the inexplicable strategic shifts. The team spends substantial energy trying to predict what is actually going on with the leader. The energy that should be going into the work is going into psychological speculation about leadership.
+
+The structural failure: the team cannot trust a leader whose actual state is hidden. Trust requires being able to see what is going on. See [[trust-as-multifaceted]]. The hidden internal state of the leader is the same betrayal of trust as the hidden want, with the same downstream consequences.
+
+## The Mistaken Self-Reliance
+
+The leader who hides their feelings often experiences it as responsibility. "I have to carry this so the team does not have to." The frame is heroic. The actual effect is the opposite of what the frame describes.
+
+The team is already carrying it. They are reading the leader's state, calibrating their behavior to it, working around it. The "protection" does not remove the weight from the team; it just makes the weight invisible and unaddressable. The team carries the weight without the information that would let them respond to it.
+
+When the leader names the state, the team can either help carry it consciously or stop carrying the misattribution. Either is better than the previous condition. Brett's articulation:
+
+"This brings me back to some of my experience as a CEO where I would take things on from a self-reliance perspective of this is mine to carry, this is my fear, I don't need to let this trickle down through the team. And there's a way that that's not trusting them to handle the reality of a scary situation." -- Brett Kistler, Building a Functional Team
+
+The reframe: the self-reliance is also a failure to trust the team. The leader is asserting that the team cannot handle the truth. That assertion is itself a betrayal of trust in the reverse direction. The leader's hiding signals "I don't trust you to handle this," and the team registers the distrust.
 
 ## The Reframe of Duty
 
@@ -105,3 +127,4 @@ Direct and serious. The reframe is a significant inversion of how most leaders h
 ## Sources
 
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
+- 2022-02-19_Building a Functional Team - Team Series #1

@@ -3,9 +3,9 @@ type: application
 id: structure-and-empowerment
 title: "Structure and Empowerment in Organizations"
 aliases: ["structure creates safety", "org design empowerment", "decentralized empowerment", "structure for empowerment", "roles and empowerment"]
-tags: ["leadership", "organization", "empowerment", "structure", "decentralization"]
-related: ["empowered-vs-power", "principles-free-you", "fear-triangle", "vulnerability-in-the-workplace", "childhood-imprinting", "reframe-boss-as-customer", "become-unnecessary"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-08-13_Seeing Through Family Dynamics"]
+tags: ["leadership", "organization", "empowerment", "structure", "decentralization", "teams"]
+related: ["empowered-vs-power", "principles-free-you", "fear-triangle", "vulnerability-in-the-workplace", "childhood-imprinting", "reframe-boss-as-customer", "become-unnecessary", "politics-from-unclear-standards", "functional-team", "team-as-scientific-method"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-08-13_Seeing Through Family Dynamics", "2022-02-19_Building a Functional Team - Team Series #1"]
 ---
 
 # Structure and Empowerment in Organizations
@@ -29,6 +29,8 @@ The "I wish everybody would act like the owner" sentiment captures this. The lea
 Heavy politics in a team or company is a marker of disempowerment at scale. Politics is the [[fear-triangle]] enacted across organizational structure: people seeking power because they feel they cannot actually affect change in legitimate ways.
 
 "The less empowered the team feels, the more drama. And that's a great, like, as soon as you walk into a team, if it's super political, it's just like, wow, everybody feels disempowered. You just know it. And if somebody where everybody feels empowered and they feel like they can affect change, there's so little politics that are going on. So it's a great litmus test." -- Joe Hudson, Empower over Power
+
+A related diagnostic: politics also arise when performance standards are unclear, regardless of empowerment level. See [[politics-from-unclear-standards]]. People will direct their anxiety somewhere; if the standards are vague, the anxiety goes into relational positioning. The two failures often compound: a disempowered team with vague standards is the textbook political organization.
 
 ## The Design Principles
 
@@ -91,6 +93,18 @@ Inside a single person, [[principles-free-you]] is the personal version of this 
 - Toward [[vulnerability-in-the-workplace]]: vulnerability is what allows the structure to actually be lived rather than performed
 - Toward [[empowered-vs-power]]: empowered employees do not need power-over because their roles provide legitimate agency
 
+## Clear Performance Standards
+
+A specific structural component: people need to know what determines whether they stay or go. Vague criteria produce a particular kind of dysfunction: people work to please rather than to perform, alignments form around proximity to leadership rather than around contribution to the work, and the company loses the function that clear standards provide.
+
+The professional sports comparison is useful: athletes operate in a less secure profession than most office workers, but they often feel safer because the standards are visible. Perform at this level, stay. Do not, go. The clarity is the security.
+
+"In professional sports, there's a way that people feel safer 'cause they just know if I perform at this level, I stay, and if I don't, I go. And so the hard part is that people in organizations, they don't know often when they're gonna get fired. And if they know that, it's far more secure feeling for them, and therefore they can perform better." -- Joe Hudson, Building a Functional Team
+
+Clear standards are part of the structure that produces empowerment. They direct the team's anxiety into performance rather than into politics.
+
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2021-08-13_Seeing Through Family Dynamics
+- 2022-02-19_Building a Functional Team - Team Series #1
