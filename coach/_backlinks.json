@@ -1,22 +1,109 @@
 {
-  "i-feel-trapped": [
-    "i-caretake-people",
-    "i-dont-have-time-for-this",
+  "selfishness-is-the-engine-of-unity": [
+    "am-i-being-selfish",
+    "spiritual-narcissism",
+    "expanding-sense-of-self",
+    "the-want",
+    "improvement-vs-authenticity",
+    "enjoyment-as-surrender",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "what-is-truly-compassionate",
+    "need-behind-the-want"
+  ],
+  "childhood-imprinting": [
+    "am-i-being-selfish",
     "i-freeze-around-authority",
+    "i-have-to-do-it-all-myself",
     "i-have-to-sacrifice-to-succeed",
-    "im-afraid-of-stagnating",
-    "im-not-an-anxious-person",
-    "disassociating-in-the-coaching-room",
-    "fight-or-roll-over-binary",
-    "in-the-story-im-not-being-seen",
-    "you-think-they-cant-handle-it",
-    "what-if-you-acted-exactly-how-you-want",
+    "i-keep-crashing-and-burning",
+    "money-is-bad",
+    "my-inner-critic-wont-stop",
+    "feeling-the-unfelt-emotion",
+    "i-cant-trust-my-thoughts-right-now",
+    "money-as-surrogate",
+    "poverty-mentality",
+    "projections",
+    "the-want",
     "trappedness-feeling",
-    "victim-stance-invites-abuse",
-    "visualizing-feared-outcomes",
-    "joes-angry-executive-commute"
+    "voice-as-care",
+    "voice-in-the-head",
+    "complementary-trauma-surfaces",
+    "impulse-to-should",
+    "perfectionism",
+    "pleasure-capacity",
+    "three-childhood-origins-of-anger-repression",
+    "reframe-boss-as-customer",
+    "become-unnecessary",
+    "honor-the-patterns-intent",
+    "inherent-goodness",
+    "resentment-as-unspoken-want",
+    "i-exist-affirmation-against-collapse",
+    "trace-emotion-to-its-first-felt",
+    "stages-of-emotional-development",
+    "joes-abandonment-mapping",
+    "joes-crying-story",
+    "joes-pleasing-dad-money-story",
+    "structure-and-empowerment"
+  ],
+  "wants-deepen-as-you-follow-them": [
+    "am-i-being-selfish",
+    "the-want",
+    "find-the-want-behind-the-should",
+    "improvement-vs-authenticity",
+    "wanting-vs-craving",
+    "enjoyment-as-surrender",
+    "owning-the-want-dissolves-it",
+    "selfishness-is-the-engine-of-unity",
+    "wanting-itself-not-what-you-want",
+    "what-is-truly-compassionate",
+    "need-behind-the-want"
+  ],
+  "the-want": [
+    "am-i-being-selfish",
+    "i-should-be-doing-this",
+    "ill-become-lazy-without-shoulds",
+    "fear-as-signal-of-care",
+    "money-as-surrogate",
+    "poverty-mentality",
+    "untruth-in-every-thought",
+    "wisdom-of-each-emotion",
+    "impulse-to-should",
+    "rehearsing-conversations",
+    "find-the-want-behind-the-should",
+    "wanting-vs-craving",
+    "owning-the-want-dissolves-it",
+    "resentment-as-unspoken-want",
+    "trying-to-be-right-is-the-voice",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "lawyer-the-voice",
+    "listening-to-impulse",
+    "joes-godson-vape-pen"
+  ],
+  "wanting-vs-craving": [
+    "am-i-being-selfish",
+    "i-should-be-doing-this",
+    "ill-become-lazy-without-shoulds",
+    "state-seeking",
+    "the-want",
+    "intention-vs-goal",
+    "wants-vs-partiality",
+    "owning-the-want-dissolves-it",
+    "wanting-itself-not-what-you-want",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "feeling-the-want-as-emotion"
+  ],
+  "i-caretake-people": [
+    "am-i-being-selfish",
+    "rehearsing-how-to-say-it",
+    "you-think-they-cant-handle-it",
+    "sublimated-wants-become-politics",
+    "resentment-as-unspoken-want"
   ],
   "caring-vs-caretaking": [
+    "am-i-being-selfish",
     "i-caretake-people",
     "rehearsing-how-to-say-it",
     "you-think-they-cant-handle-it",
@@ -24,11 +111,13 @@
     "weaponized-not-caretaking",
     "empathy",
     "love-as-deep-welcoming",
+    "sublimated-wants-become-politics",
     "development-as-corkscrew",
     "welcoming-the-others-emotion",
     "boundary-with-vs-boundary-against",
     "empathy-vs-sympathy",
     "love-vs-nice",
+    "passive-aggressive-vs-aggressive-aggressive",
     "caretaking-prevents-the-bottom",
     "subjugation-prevents-healing",
     "what-is-truly-compassionate",
@@ -39,6 +128,93 @@
     "hand-in-hand-parenting",
     "no-doctrine-leadership",
     "vulnerability-in-the-workplace"
+  ],
+  "mirror-the-judgment": [
+    "am-i-being-selfish",
+    "how-is-that-not-true-about-you",
+    "what-if-they-did-see-you",
+    "projections",
+    "ask-the-witnesses",
+    "question-the-caveat",
+    "falling-in-love-with-projections"
+  ],
+  "owning-the-want-dissolves-it": [
+    "am-i-being-selfish",
+    "the-want",
+    "find-the-want-behind-the-should",
+    "wanting-vs-craving",
+    "wants-vs-partiality",
+    "selfishness-is-the-engine-of-unity",
+    "wanting-itself-not-what-you-want",
+    "wants-deepen-as-you-follow-them",
+    "wants-over-shoulds",
+    "what-is-truly-compassionate",
+    "feeling-the-want-as-emotion",
+    "need-behind-the-want"
+  ],
+  "need-behind-the-want": [
+    "am-i-being-selfish",
+    "the-want",
+    "selfishness-is-the-engine-of-unity",
+    "wants-deepen-as-you-follow-them"
+  ],
+  "wants-over-shoulds": [
+    "am-i-being-selfish",
+    "i-should-be-doing-this",
+    "what-if-you-acted-exactly-how-you-want",
+    "should-as-threat",
+    "the-want",
+    "untruth-in-every-thought",
+    "voice-in-the-head",
+    "impulse-to-should",
+    "quit-hope-lose-cycle",
+    "rebellion-or-submission-to-should",
+    "meet-resistance-with-okay",
+    "improvement-vs-authenticity",
+    "enjoyment-as-path",
+    "enjoyment-as-surrender",
+    "nature-improves-itself",
+    "nervous-system-recovery-after-stress",
+    "selfishness-is-the-engine-of-unity",
+    "shame-drives-behavior",
+    "the-work-is-yours-not-mine",
+    "trying-to-be-right-is-the-voice",
+    "dont-improve-for-two-weeks",
+    "lawyer-the-voice",
+    "seven-limiting-beliefs",
+    "joes-26-year-old-list",
+    "joes-godson-vape-pen"
+  ],
+  "spiritual-narcissism": [
+    "am-i-being-selfish",
+    "weaponized-not-caretaking",
+    "good-and-corruption-cycle",
+    "selfishness-is-the-engine-of-unity",
+    "what-is-truly-compassionate"
+  ],
+  "dont-jump-to-compassion-before-anger": [
+    "am-i-being-selfish",
+    "anger-as-cover-for-deeper-emotion",
+    "anger",
+    "three-forms-of-anger-repression"
+  ],
+  "i-feel-trapped": [
+    "i-caretake-people",
+    "i-dont-have-time-for-this",
+    "i-freeze-around-authority",
+    "i-have-to-sacrifice-to-succeed",
+    "im-afraid-of-stagnating",
+    "im-not-an-anxious-person",
+    "disassociating-in-the-coaching-room",
+    "fight-or-roll-over-binary",
+    "in-the-story-im-not-being-seen",
+    "recycling-anger-without-clarity",
+    "you-think-they-cant-handle-it",
+    "what-if-you-acted-exactly-how-you-want",
+    "trappedness-feeling",
+    "victim-stance-invites-abuse",
+    "visualizing-feared-outcomes",
+    "joes-angry-executive-commute"
   ],
   "rehearsing-how-to-say-it": [
     "i-caretake-people",
@@ -64,7 +240,8 @@
   "resentment-as-caretaking-diagnostic": [
     "i-caretake-people",
     "caring-vs-caretaking",
-    "softening-as-caring-diagnostic"
+    "softening-as-caring-diagnostic",
+    "resentment-as-unspoken-want"
   ],
   "visualizing-feared-outcomes": [
     "i-caretake-people",
@@ -73,17 +250,22 @@
     "rehearsing-conversations",
     "caring-vs-caretaking",
     "caretaking-prevents-the-bottom",
-    "fear-is-about-feeling"
+    "fear-is-about-feeling",
+    "prepare-and-release-the-difficult-conversation",
+    "stacy-father-conversation"
   ],
   "what-is-truly-compassionate": [
     "i-caretake-people",
+    "dont-jump-to-compassion-before-anger",
     "caring-vs-caretaking",
-    "caretaking-prevents-the-bottom"
+    "caretaking-prevents-the-bottom",
+    "selfishness-is-the-engine-of-unity"
   ],
   "fixing-people": [
     "i-caretake-people",
     "dont-evangelize-the-work",
     "impartiality",
+    "meet-resistance-with-okay",
     "owning-your-partiality",
     "caring-vs-caretaking",
     "become-unnecessary",
@@ -91,6 +273,7 @@
     "inherent-goodness",
     "marketing-as-the-beginning",
     "shame-drives-behavior",
+    "the-work-is-yours-not-mine",
     "view",
     "welcoming-fear-in-leadership"
   ],
@@ -98,6 +281,7 @@
     "i-caretake-people",
     "i-dont-have-time-for-this",
     "i-feel-trapped",
+    "i-have-to-do-it-all-myself",
     "i-keep-crashing-and-burning",
     "i-need-to-improve-myself",
     "im-afraid-of-stagnating",
@@ -126,6 +310,7 @@
   "victim-stance-invites-abuse": [
     "i-dont-have-time-for-this",
     "i-feel-trapped",
+    "deconstruct-the-victim-to-release-anger",
     "money-must-flow"
   ],
   "fear-is-about-feeling": [
@@ -173,6 +358,7 @@
   ],
   "fear-triangle": [
     "i-feel-trapped",
+    "deconstruct-the-victim-to-release-anger",
     "caring-vs-caretaking",
     "empowered-vs-power",
     "helplessness-is-the-gateway",
@@ -184,7 +370,9 @@
   ],
   "helplessness-is-the-gateway": [
     "i-feel-trapped",
+    "i-have-to-do-it-all-myself",
     "what-if-you-acted-exactly-how-you-want",
+    "container-of-love",
     "quit-hope-lose-cycle",
     "empowered-vs-power",
     "epiphany-becomes-rut",
@@ -203,7 +391,9 @@
     "empowered-vs-power",
     "acting-as-if-already-true",
     "fear-is-about-feeling",
-    "voice-creates-what-it-fears"
+    "voice-creates-what-it-fears",
+    "prepare-and-release-the-difficult-conversation",
+    "stacy-father-conversation"
   ],
   "empowered-vs-power": [
     "i-feel-trapped",
@@ -227,6 +417,7 @@
   ],
   "i-dont-have-time-for-this": [
     "i-feel-trapped",
+    "i-have-to-do-it-all-myself",
     "i-have-to-sacrifice-to-succeed",
     "art-of-accomplishment",
     "victim-stance-invites-abuse",
@@ -245,36 +436,6 @@
     "become-the-authority-figure",
     "mirror-the-judgment",
     "reframe-boss-as-customer"
-  ],
-  "childhood-imprinting": [
-    "i-freeze-around-authority",
-    "i-have-to-sacrifice-to-succeed",
-    "i-keep-crashing-and-burning",
-    "money-is-bad",
-    "my-inner-critic-wont-stop",
-    "feeling-the-unfelt-emotion",
-    "i-cant-trust-my-thoughts-right-now",
-    "money-as-surrogate",
-    "poverty-mentality",
-    "projections",
-    "the-want",
-    "trappedness-feeling",
-    "voice-as-care",
-    "voice-in-the-head",
-    "complementary-trauma-surfaces",
-    "impulse-to-should",
-    "perfectionism",
-    "pleasure-capacity",
-    "reframe-boss-as-customer",
-    "become-unnecessary",
-    "honor-the-patterns-intent",
-    "inherent-goodness",
-    "trace-emotion-to-its-first-felt",
-    "stages-of-emotional-development",
-    "joes-abandonment-mapping",
-    "joes-crying-story",
-    "joes-pleasing-dad-money-story",
-    "structure-and-empowerment"
   ],
   "in-the-story-im-not-being-seen": [
     "i-freeze-around-authority",
@@ -323,6 +484,100 @@
     "trauma-mapping",
     "childhood-imprinting",
     "trace-emotion-to-its-first-felt"
+  ],
+  "vulnerability-in-the-workplace": [
+    "i-have-to-do-it-all-myself",
+    "vulnerability",
+    "public-truth-bomb",
+    "consciousness-is-the-product",
+    "public-failure-as-leadership-modeling",
+    "authenticity-in-business",
+    "no-doctrine-leadership",
+    "structure-and-empowerment",
+    "welcoming-fear-in-leadership"
+  ],
+  "trauma-mapping": [
+    "i-have-to-do-it-all-myself",
+    "i-keep-crashing-and-burning",
+    "money-is-bad",
+    "view-as-technique",
+    "container-of-love",
+    "emotions-as-road-signs",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "familiar-over-safe",
+    "feeling-the-unfelt-emotion",
+    "grief-as-gateway-to-self-love",
+    "loving-all-parts",
+    "money-as-surrogate",
+    "poverty-mentality",
+    "projections",
+    "reclaiming-abandonment",
+    "trappedness-feeling",
+    "believing-the-convenient-lie",
+    "complementary-trauma-surfaces",
+    "negative-bias-of-trauma-imprinting",
+    "embrace-intensity",
+    "what-we-fear-we-invite",
+    "electric-fence-with-dog",
+    "joes-abandonment-mapping",
+    "stacy-father-conversation"
+  ],
+  "joes-abandonment-mapping": [
+    "i-have-to-do-it-all-myself",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "feeling-the-unfelt-emotion",
+    "reclaiming-abandonment",
+    "trauma-mapping",
+    "what-we-fear-we-invite"
+  ],
+  "meet-resistance-with-okay": [
+    "i-have-to-do-it-all-myself",
+    "the-work-is-yours-not-mine"
+  ],
+  "the-work-is-yours-not-mine": [
+    "i-have-to-do-it-all-myself"
+  ],
+  "reclaiming-abandonment": [
+    "i-have-to-do-it-all-myself",
+    "trauma-mapping",
+    "prepare-and-release-the-difficult-conversation",
+    "stacy-father-conversation",
+    "vulnerability-in-the-workplace"
+  ],
+  "stacy-father-conversation": [
+    "i-have-to-do-it-all-myself",
+    "reclaiming-abandonment",
+    "prepare-and-release-the-difficult-conversation"
+  ],
+  "prepare-and-release-the-difficult-conversation": [
+    "i-have-to-do-it-all-myself",
+    "reclaiming-abandonment",
+    "stacy-father-conversation"
+  ],
+  "honor-the-patterns-intent": [
+    "i-have-to-do-it-all-myself",
+    "dont-make-family-dynamics-the-story",
+    "i-cant-trust-my-thoughts-right-now",
+    "loving-all-parts",
+    "childhood-imprinting",
+    "complementary-trauma-surfaces",
+    "trace-emotion-to-its-first-felt"
+  ],
+  "i-need-to-improve-myself": [
+    "i-have-to-do-it-all-myself",
+    "i-keep-crashing-and-burning",
+    "i-should-be-doing-this",
+    "im-afraid-of-stagnating",
+    "my-inner-critic-wont-stop",
+    "desire-for-resolution",
+    "no-finish-line",
+    "voice-in-the-head"
+  ],
+  "my-inner-critic-wont-stop": [
+    "i-have-to-do-it-all-myself",
+    "im-not-an-anxious-person",
+    "recycling-anger-without-clarity",
+    "trying-to-get-rid-of-the-emotion"
   ],
   "i-have-no-choice": [
     "i-have-to-sacrifice-to-succeed"
@@ -383,15 +638,6 @@
     "inherent-goodness",
     "wants-over-shoulds"
   ],
-  "i-need-to-improve-myself": [
-    "i-keep-crashing-and-burning",
-    "i-should-be-doing-this",
-    "im-afraid-of-stagnating",
-    "my-inner-critic-wont-stop",
-    "desire-for-resolution",
-    "no-finish-line",
-    "voice-in-the-head"
-  ],
   "engineering-heartbreak-to-avoid-heartbreak": [
     "i-keep-crashing-and-burning",
     "familiar-over-safe",
@@ -399,29 +645,6 @@
     "trauma-mapping",
     "rehearsing-conversations",
     "embrace-intensity"
-  ],
-  "trauma-mapping": [
-    "i-keep-crashing-and-burning",
-    "money-is-bad",
-    "view-as-technique",
-    "container-of-love",
-    "emotions-as-road-signs",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "familiar-over-safe",
-    "feeling-the-unfelt-emotion",
-    "grief-as-gateway-to-self-love",
-    "loving-all-parts",
-    "money-as-surrogate",
-    "poverty-mentality",
-    "projections",
-    "trappedness-feeling",
-    "believing-the-convenient-lie",
-    "complementary-trauma-surfaces",
-    "negative-bias-of-trauma-imprinting",
-    "embrace-intensity",
-    "what-we-fear-we-invite",
-    "electric-fence-with-dog",
-    "joes-abandonment-mapping"
   ],
   "what-we-fear-we-invite": [
     "i-keep-crashing-and-burning",
@@ -512,11 +735,13 @@
   "feeling-the-unfelt-emotion": [
     "i-keep-crashing-and-burning",
     "ive-lost-my-joy",
+    "recycling-anger-without-clarity",
     "can-you-look-forward-to-feeling-it",
     "what-is-it-without-resistance",
     "what-would-happen-if-you-stopped",
     "dont-make-family-dynamics-the-story",
     "dont-name-emotion-to-avoid-feeling",
+    "anger-as-cover-for-deeper-emotion",
     "container-of-love",
     "defense",
     "emotional-fluidity",
@@ -533,9 +758,11 @@
     "logic-vs-emotional-movement",
     "poverty-mentality",
     "projections",
+    "reclaiming-abandonment",
     "resistance",
     "trauma-mapping",
     "unfelt-emotion-leaks",
+    "visceral-clarity-from-anger",
     "wisdom-of-each-emotion",
     "zen-sickness",
     "binary-thinking-signals-fear",
@@ -574,6 +801,7 @@
     "owning-the-want-dissolves-it",
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
+    "fake-the-anger-to-let-it-move",
     "feeling-the-want-as-emotion",
     "let-your-body-shake-it-out",
     "trace-emotion-to-its-first-felt",
@@ -626,6 +854,7 @@
   ],
   "quit-hope-lose-cycle": [
     "i-keep-crashing-and-burning",
+    "integration",
     "no-finish-line",
     "undoing-not-doing",
     "epiphany-becomes-rut",
@@ -757,49 +986,6 @@
     "trappedness-feeling",
     "find-the-want-behind-the-should"
   ],
-  "the-want": [
-    "i-should-be-doing-this",
-    "ill-become-lazy-without-shoulds",
-    "fear-as-signal-of-care",
-    "money-as-surrogate",
-    "poverty-mentality",
-    "untruth-in-every-thought",
-    "wisdom-of-each-emotion",
-    "impulse-to-should",
-    "rehearsing-conversations",
-    "find-the-want-behind-the-should",
-    "wanting-vs-craving",
-    "owning-the-want-dissolves-it",
-    "trying-to-be-right-is-the-voice",
-    "wants-deepen-as-you-follow-them",
-    "wants-over-shoulds",
-    "lawyer-the-voice",
-    "listening-to-impulse",
-    "joes-godson-vape-pen"
-  ],
-  "wants-over-shoulds": [
-    "i-should-be-doing-this",
-    "what-if-you-acted-exactly-how-you-want",
-    "should-as-threat",
-    "the-want",
-    "untruth-in-every-thought",
-    "voice-in-the-head",
-    "impulse-to-should",
-    "quit-hope-lose-cycle",
-    "rebellion-or-submission-to-should",
-    "improvement-vs-authenticity",
-    "enjoyment-as-path",
-    "enjoyment-as-surrender",
-    "nature-improves-itself",
-    "nervous-system-recovery-after-stress",
-    "shame-drives-behavior",
-    "trying-to-be-right-is-the-voice",
-    "dont-improve-for-two-weeks",
-    "lawyer-the-voice",
-    "seven-limiting-beliefs",
-    "joes-26-year-old-list",
-    "joes-godson-vape-pen"
-  ],
   "should-as-threat": [
     "i-should-be-doing-this",
     "my-inner-critic-wont-stop",
@@ -818,21 +1004,9 @@
     "impulse-to-should",
     "rebellion-or-submission-to-should",
     "wants-over-shoulds",
+    "need-behind-the-want",
     "joes-godson-vape-pen",
     "joes-pleasing-dad-money-story"
-  ],
-  "wanting-vs-craving": [
-    "i-should-be-doing-this",
-    "ill-become-lazy-without-shoulds",
-    "state-seeking",
-    "the-want",
-    "intention-vs-goal",
-    "wants-vs-partiality",
-    "owning-the-want-dissolves-it",
-    "wanting-itself-not-what-you-want",
-    "wants-deepen-as-you-follow-them",
-    "wants-over-shoulds",
-    "feeling-the-want-as-emotion"
   ],
   "money-as-surrogate": [
     "if-i-had-more-money",
@@ -923,11 +1097,14 @@
   "unfelt-emotion-leaks": [
     "im-not-an-anxious-person",
     "my-inner-critic-wont-stop",
+    "dont-jump-to-compassion-before-anger",
     "dont-step-on-the-signal",
     "emotions-as-road-signs",
     "feeling-the-unfelt-emotion",
     "kinked-emotions",
+    "sublimated-wants-become-politics",
     "disassociation-as-numbness-layer",
+    "three-forms-of-anger-repression",
     "three-signals-of-unfelt-emotion",
     "feel-over-figure",
     "judgment-vs-discernment",
@@ -959,7 +1136,8 @@
   "let-your-body-shake-it-out": [
     "im-not-an-anxious-person",
     "feeling-the-unfelt-emotion",
-    "observe-vs-move-emotion"
+    "observe-vs-move-emotion",
+    "tell-the-body-its-safe"
   ],
   "vulnerability": [
     "im-not-an-anxious-person",
@@ -974,6 +1152,7 @@
     "feeling-the-unfelt-emotion",
     "impartiality",
     "letting-judgment-in",
+    "reclaiming-abandonment",
     "wonder",
     "believing-the-convenient-lie",
     "childhood-imprinting",
@@ -1012,10 +1191,6 @@
     "linguistic-caveat",
     "engineering-heartbreak-to-avoid-heartbreak",
     "nervous-system-recovery-after-stress"
-  ],
-  "my-inner-critic-wont-stop": [
-    "im-not-an-anxious-person",
-    "trying-to-get-rid-of-the-emotion"
   ],
   "joy-as-matriarch": [
     "ive-lost-my-joy",
@@ -1105,6 +1280,8 @@
   ],
   "negative-emotions-precede-positive": [
     "ive-lost-my-joy",
+    "dont-jump-to-compassion-before-anger",
+    "anger-as-cover-for-deeper-emotion",
     "joy-as-matriarch",
     "stages-of-emotional-development",
     "cafe-emotional-stigma"
@@ -1164,8 +1341,10 @@
     "voice-as-care",
     "voice-in-the-head",
     "apply-view-to-the-voice",
+    "convert-thought-to-time-bounded-listening",
     "awareness-as-change-agent",
     "experimenting-with-the-voice",
+    "i-exist-affirmation-against-collapse",
     "lawyer-the-voice"
   ],
   "voice-as-care": [
@@ -1189,6 +1368,7 @@
     "dont-fight-the-voice",
     "voice-as-care",
     "voice-in-the-head",
+    "convert-thought-to-time-bounded-listening",
     "voice-creates-what-it-fears",
     "experimenting-with-the-voice",
     "lawyer-the-voice"
@@ -1219,6 +1399,43 @@
     "dont-fight-the-voice",
     "rehearsing-conversations",
     "apply-view-to-the-voice"
+  ],
+  "three-forms-of-anger-repression": [
+    "my-inner-critic-wont-stop",
+    "anger",
+    "kinked-emotions",
+    "unfelt-emotion-leaks",
+    "three-childhood-origins-of-anger-repression",
+    "three-things-that-go-wrong-when-releasing-anger",
+    "deconstruct-the-victim-to-release-anger",
+    "observer-vs-immersion-by-anger-type",
+    "passive-aggressive-vs-aggressive-aggressive",
+    "i-exist-affirmation-against-collapse"
+  ],
+  "get-angry-in-the-car": [
+    "my-inner-critic-wont-stop",
+    "dont-jump-to-compassion-before-anger",
+    "dont-should-yourself-to-welcome-anger",
+    "anger-as-cover-for-deeper-emotion",
+    "anger",
+    "fear-of-self-destruction-by-anger",
+    "logic-vs-emotional-movement",
+    "trappedness-feeling",
+    "unfelt-emotion-leaks",
+    "three-childhood-origins-of-anger-repression",
+    "three-forms-of-anger-repression",
+    "three-things-that-go-wrong-when-releasing-anger",
+    "convert-thought-to-time-bounded-listening",
+    "welcoming-the-others-emotion",
+    "dysregulated-vs-released-into-freedom",
+    "passive-aggressive-vs-aggressive-aggressive",
+    "withdrawal-with-vs-without-a-timeline",
+    "dont-do-emotion-at-people",
+    "fake-the-anger-to-let-it-move",
+    "i-exist-affirmation-against-collapse",
+    "tell-the-body-its-safe",
+    "joes-angry-executive-commute",
+    "joes-pancake-anger-story"
   ],
   "experimenting-with-the-voice": [
     "my-inner-critic-wont-stop",
@@ -1328,18 +1545,63 @@
     "manufacturing-the-feeling",
     "undoing-not-doing"
   ],
-  "i-caretake-people": [
-    "rehearsing-how-to-say-it",
-    "you-think-they-cant-handle-it"
+  "anger-as-cover-for-deeper-emotion": [
+    "recycling-anger-without-clarity",
+    "anger",
+    "visceral-clarity-from-anger",
+    "get-angry-in-the-car"
+  ],
+  "three-things-that-go-wrong-when-releasing-anger": [
+    "recycling-anger-without-clarity",
+    "anger-as-cover-for-deeper-emotion",
+    "anger",
+    "visceral-clarity-from-anger",
+    "three-forms-of-anger-repression",
+    "treat-yourself-as-actor-of-emotion",
+    "dysregulated-vs-released-into-freedom",
+    "observer-vs-immersion-by-anger-type",
+    "get-angry-in-the-car",
+    "i-exist-affirmation-against-collapse"
+  ],
+  "ive-lost-my-joy": [
+    "recycling-anger-without-clarity",
+    "trying-to-get-rid-of-the-emotion",
+    "joy-as-matriarch"
+  ],
+  "visceral-clarity-from-anger": [
+    "recycling-anger-without-clarity",
+    "dont-jump-to-compassion-before-anger",
+    "anger-as-cover-for-deeper-emotion",
+    "anger",
+    "three-things-that-go-wrong-when-releasing-anger",
+    "dysregulated-vs-released-into-freedom",
+    "get-angry-in-the-car"
+  ],
+  "anger": [
+    "recycling-anger-without-clarity",
+    "dont-jump-to-compassion-before-anger",
+    "dont-should-yourself-to-welcome-anger",
+    "anger-as-cover-for-deeper-emotion",
+    "fear-of-self-destruction-by-anger",
+    "logic-vs-emotional-movement",
+    "trappedness-feeling",
+    "unfelt-emotion-leaks",
+    "visceral-clarity-from-anger",
+    "wisdom-of-each-emotion",
+    "deconstruct-the-victim-to-release-anger",
+    "invite-the-aggression-out",
+    "welcoming-the-others-emotion",
+    "passive-aggressive-vs-aggressive-aggressive",
+    "fake-the-anger-to-let-it-move",
+    "get-angry-in-the-car",
+    "i-exist-affirmation-against-collapse",
+    "joes-angry-executive-commute",
+    "joes-pancake-anger-story"
   ],
   "can-you-look-forward-to-feeling-it": [
     "trying-to-get-rid-of-the-emotion",
     "joy-as-matriarch",
     "stages-of-emotional-development"
-  ],
-  "ive-lost-my-joy": [
-    "trying-to-get-rid-of-the-emotion",
-    "joy-as-matriarch"
   ],
   "embrace-vs-brace": [
     "are-you-bracing-or-embracing",
@@ -1365,6 +1627,7 @@
     "repression-vs-management",
     "emotions-live-in-muscles",
     "negative-emotions-precede-positive",
+    "fake-the-anger-to-let-it-move",
     "feeling-the-want-as-emotion",
     "get-angry-in-the-car",
     "let-your-body-shake-it-out",
@@ -1394,14 +1657,6 @@
     "what-if-there-is-no-finish-line",
     "no-finish-line",
     "improvement-vs-authenticity"
-  ],
-  "mirror-the-judgment": [
-    "how-is-that-not-true-about-you",
-    "what-if-they-did-see-you",
-    "projections",
-    "ask-the-witnesses",
-    "question-the-caveat",
-    "falling-in-love-with-projections"
   ],
   "projections": [
     "how-is-that-not-true-about-you",
@@ -1446,6 +1701,7 @@
     "dont-should-yourself-to-welcome-anger",
     "anger",
     "chase-it-around-the-room",
+    "deconstruct-the-victim-to-release-anger",
     "invite-the-aggression-out",
     "no-doctrine-leadership",
     "welcoming-fear-in-leadership"
@@ -1512,19 +1768,14 @@
     "voice-as-care",
     "voice-in-the-head",
     "rehearsing-conversations",
+    "three-things-that-go-wrong-when-releasing-anger",
     "repetitive-vs-inspirational-voice",
     "love-is-the-best-change-agent",
+    "i-exist-affirmation-against-collapse",
     "joes-26-year-old-list"
   ],
-  "honor-the-patterns-intent": [
-    "dont-make-family-dynamics-the-story",
-    "i-cant-trust-my-thoughts-right-now",
-    "loving-all-parts",
-    "childhood-imprinting",
-    "complementary-trauma-surfaces",
-    "trace-emotion-to-its-first-felt"
-  ],
   "kinked-emotions": [
+    "dont-jump-to-compassion-before-anger",
     "dont-name-emotion-to-avoid-feeling",
     "anger",
     "emotional-fluidity",
@@ -1535,6 +1786,7 @@
     "resistance",
     "unfelt-emotion-leaks",
     "wisdom-of-each-emotion",
+    "three-forms-of-anger-repression",
     "treat-yourself-as-actor-of-emotion",
     "embrace-vs-brace",
     "fear-vs-excitement",
@@ -1547,6 +1799,34 @@
     "cafe-emotional-stigma",
     "electric-fence-with-dog",
     "joes-pancake-anger-story"
+  ],
+  "convert-thought-to-time-bounded-listening": [
+    "dont-jump-to-compassion-before-anger",
+    "anger",
+    "treat-yourself-as-actor-of-emotion",
+    "observer-vs-immersion-by-anger-type",
+    "get-angry-in-the-car"
+  ],
+  "dont-name-emotion-to-avoid-feeling": [
+    "dont-jump-to-compassion-before-anger",
+    "stages-of-emotional-development"
+  ],
+  "feel-over-figure": [
+    "dont-jump-to-compassion-before-anger",
+    "emotions-as-road-signs",
+    "fear-as-signal-of-care",
+    "feeling-the-unfelt-emotion",
+    "i-cant-trust-my-thoughts-right-now",
+    "logic-vs-emotional-movement",
+    "unfelt-emotion-leaks",
+    "binary-thinking-signals-fear",
+    "three-signals-of-unfelt-emotion",
+    "treat-yourself-as-actor-of-emotion",
+    "judgment-vs-discernment",
+    "approach-the-pink-elephant",
+    "decisions-are-emotional",
+    "dont-do-emotion-at-people",
+    "daily-emotional-yoga"
   ],
   "epiphany-becomes-rut": [
     "dont-name-emotion-to-avoid-feeling",
@@ -1568,20 +1848,6 @@
     "conditions-for-transformation",
     "stages-of-emotional-development"
   ],
-  "anger": [
-    "dont-should-yourself-to-welcome-anger",
-    "fear-of-self-destruction-by-anger",
-    "logic-vs-emotional-movement",
-    "trappedness-feeling",
-    "unfelt-emotion-leaks",
-    "wisdom-of-each-emotion",
-    "invite-the-aggression-out",
-    "welcoming-the-others-emotion",
-    "passive-aggressive-vs-aggressive-aggressive",
-    "get-angry-in-the-car",
-    "joes-angry-executive-commute",
-    "joes-pancake-anger-story"
-  ],
   "boundary-with-vs-boundary-against": [
     "dont-should-yourself-to-welcome-anger",
     "loving-to-transform",
@@ -1598,23 +1864,10 @@
     "withdrawal-with-vs-without-a-timeline",
     "acceptance-as-change-strategy",
     "caretaking-prevents-the-bottom",
+    "resentment-as-unspoken-want",
     "subjugation-prevents-healing",
     "joes-board-member",
     "no-doctrine-leadership"
-  ],
-  "get-angry-in-the-car": [
-    "dont-should-yourself-to-welcome-anger",
-    "anger",
-    "fear-of-self-destruction-by-anger",
-    "logic-vs-emotional-movement",
-    "trappedness-feeling",
-    "unfelt-emotion-leaks",
-    "welcoming-the-others-emotion",
-    "passive-aggressive-vs-aggressive-aggressive",
-    "withdrawal-with-vs-without-a-timeline",
-    "dont-do-emotion-at-people",
-    "joes-angry-executive-commute",
-    "joes-pancake-anger-story"
   ],
   "im-not-an-anxious-person": [
     "dont-step-on-the-signal",
@@ -1635,9 +1888,11 @@
     "fixing-people",
     "impartial-apathy",
     "impartiality",
+    "sublimated-wants-become-politics",
     "vulnerability",
     "owning-your-partiality",
     "owning-the-want-dissolves-it",
+    "resentment-as-unspoken-want",
     "selfishness-is-the-engine-of-unity",
     "trying-to-be-right-is-the-voice"
   ],
@@ -1692,16 +1947,6 @@
     "process-over-result",
     "view"
   ],
-  "selfishness-is-the-engine-of-unity": [
-    "spiritual-narcissism",
-    "expanding-sense-of-self",
-    "the-want",
-    "improvement-vs-authenticity",
-    "enjoyment-as-surrender",
-    "wants-deepen-as-you-follow-them",
-    "wants-over-shoulds",
-    "what-is-truly-compassionate"
-  ],
   "pendulation": [
     "state-seeking",
     "quit-hope-lose-cycle",
@@ -1734,8 +1979,10 @@
     "love-as-deep-welcoming",
     "loving-all-parts",
     "apply-view-to-the-voice",
+    "meet-resistance-with-okay",
     "good-and-corruption-cycle",
     "love-is-the-best-change-agent",
+    "the-work-is-yours-not-mine",
     "view"
   ],
   "loving-all-parts": [
@@ -1755,6 +2002,7 @@
   "familiar-over-safe": [
     "view-as-technique",
     "engineering-heartbreak-to-avoid-heartbreak",
+    "fear-of-self-destruction-by-anger",
     "poverty-mentality",
     "3-to-5-rule",
     "pleasure-capacity",
@@ -1779,6 +2027,7 @@
   "wonder-as-strategy": [
     "view-as-technique",
     "wonder",
+    "meet-resistance-with-okay",
     "good-and-corruption-cycle"
   ],
   "losing-yourself-in-others": [
@@ -1796,15 +2045,17 @@
     "good-and-corruption-cycle",
     "public-failure-as-leadership-modeling"
   ],
-  "spiritual-narcissism": [
-    "weaponized-not-caretaking",
-    "good-and-corruption-cycle",
-    "selfishness-is-the-engine-of-unity",
-    "what-is-truly-compassionate"
+  "wisdom-of-each-emotion": [
+    "anger-as-cover-for-deeper-emotion",
+    "anger",
+    "emotional-fluidity",
+    "fear-as-signal-of-care",
+    "joes-pancake-anger-story"
   ],
   "dont-do-emotion-at-people": [
     "anger",
     "unfelt-emotion-leaks",
+    "three-forms-of-anger-repression",
     "treat-yourself-as-actor-of-emotion",
     "boundary-with-vs-boundary-against",
     "withdrawal-with-vs-without-a-timeline",
@@ -1817,10 +2068,12 @@
   "trappedness-feeling": [
     "anger",
     "logic-vs-emotional-movement",
-    "wisdom-of-each-emotion"
+    "wisdom-of-each-emotion",
+    "deconstruct-the-victim-to-release-anger"
   ],
   "logic-vs-emotional-movement": [
     "anger",
+    "visceral-clarity-from-anger",
     "wisdom-of-each-emotion"
   ],
   "joes-angry-executive-commute": [
@@ -1829,13 +2082,28 @@
     "get-angry-in-the-car"
   ],
   "fear-of-self-destruction-by-anger": [
-    "anger"
-  ],
-  "wisdom-of-each-emotion": [
     "anger",
-    "emotional-fluidity",
-    "fear-as-signal-of-care",
-    "joes-pancake-anger-story"
+    "three-childhood-origins-of-anger-repression",
+    "tell-the-body-its-safe"
+  ],
+  "three-childhood-origins-of-anger-repression": [
+    "anger",
+    "fear-of-self-destruction-by-anger",
+    "three-forms-of-anger-repression",
+    "three-things-that-go-wrong-when-releasing-anger",
+    "observer-vs-immersion-by-anger-type",
+    "fake-the-anger-to-let-it-move",
+    "i-exist-affirmation-against-collapse",
+    "tell-the-body-its-safe"
+  ],
+  "recycling-anger-without-clarity": [
+    "anger",
+    "get-angry-in-the-car"
+  ],
+  "dysregulated-vs-released-into-freedom": [
+    "anger",
+    "three-things-that-go-wrong-when-releasing-anger",
+    "observer-vs-immersion-by-anger-type"
   ],
   "intention-vs-goal": [
     "art-of-accomplishment",
@@ -1860,6 +2128,7 @@
   ],
   "integration": [
     "container-of-love",
+    "reclaiming-abandonment",
     "zen-sickness",
     "3-to-5-rule",
     "childhood-imprinting",
@@ -1914,46 +2183,38 @@
     "embrace-intensity",
     "stages-of-emotional-development"
   ],
-  "feel-over-figure": [
-    "emotions-as-road-signs",
-    "fear-as-signal-of-care",
-    "feeling-the-unfelt-emotion",
-    "i-cant-trust-my-thoughts-right-now",
-    "logic-vs-emotional-movement",
-    "unfelt-emotion-leaks",
-    "binary-thinking-signals-fear",
-    "three-signals-of-unfelt-emotion",
-    "treat-yourself-as-actor-of-emotion",
-    "judgment-vs-discernment",
-    "approach-the-pink-elephant",
-    "decisions-are-emotional",
-    "dont-do-emotion-at-people",
-    "daily-emotional-yoga"
-  ],
   "empathy-vs-sympathy": [
     "empathy"
   ],
-  "joes-abandonment-mapping": [
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "feeling-the-unfelt-emotion",
-    "trauma-mapping",
-    "what-we-fear-we-invite"
+  "tell-the-body-its-safe": [
+    "fear-of-self-destruction-by-anger",
+    "get-angry-in-the-car"
   ],
   "container-of-love": [
     "feeling-the-unfelt-emotion",
     "integration",
     "loving-all-parts",
+    "reclaiming-abandonment",
     "trauma-mapping",
     "excavating-the-inner-critic-in-group",
     "public-truth-bomb",
     "managing-vs-healing-trauma",
+    "helplessness-is-the-gateway",
     "subjugation-prevents-healing",
     "trauma-heals-in-relationship"
   ],
   "treat-yourself-as-actor-of-emotion": [
     "feeling-the-unfelt-emotion",
     "logic-vs-emotional-movement",
-    "chase-it-around-the-room"
+    "three-forms-of-anger-repression",
+    "three-things-that-go-wrong-when-releasing-anger",
+    "chase-it-around-the-room",
+    "convert-thought-to-time-bounded-listening",
+    "dysregulated-vs-released-into-freedom",
+    "observer-vs-immersion-by-anger-type",
+    "fake-the-anger-to-let-it-move",
+    "get-angry-in-the-car",
+    "i-exist-affirmation-against-collapse"
   ],
   "grief-as-gateway-to-self-love": [
     "feeling-the-unfelt-emotion",
@@ -1984,17 +2245,24 @@
   ],
   "trace-emotion-to-its-first-felt": [
     "i-cant-trust-my-thoughts-right-now",
+    "reclaiming-abandonment",
     "trappedness-feeling",
     "trauma-mapping",
     "childhood-imprinting",
+    "three-childhood-origins-of-anger-repression",
     "reframe-boss-as-customer",
     "anxiety-as-unarticulated-need",
+    "fake-the-anger-to-let-it-move",
+    "i-exist-affirmation-against-collapse",
+    "prepare-and-release-the-difficult-conversation",
     "welcoming-fear-in-leadership"
   ],
   "owning-your-partiality": [
     "impartiality",
     "vulnerability",
+    "meet-resistance-with-okay",
     "fear-is-about-feeling",
+    "the-work-is-yours-not-mine",
     "view"
   ],
   "short-term-vs-long-term-partiality": [
@@ -2041,6 +2309,7 @@
   "passive-aggressive-vs-aggressive-aggressive": [
     "kinked-emotions",
     "unfelt-emotion-leaks",
+    "three-forms-of-anger-repression",
     "invite-the-aggression-out"
   ],
   "heartbreak-as-capacity-expansion": [
@@ -2130,6 +2399,10 @@
     "mirror-the-judgment",
     "choosing-the-projection-that-serves"
   ],
+  "i-have-to-do-it-all-myself": [
+    "reclaiming-abandonment",
+    "helplessness-is-the-gateway"
+  ],
   "negative-self-reinforcement": [
     "resistance",
     "impulse-to-should",
@@ -2141,33 +2414,37 @@
   "expanding-sense-of-self": [
     "self-realization"
   ],
+  "tell-them-like-an-asshole": [
+    "sublimated-wants-become-politics",
+    "the-want"
+  ],
+  "resentment-as-unspoken-want": [
+    "sublimated-wants-become-politics",
+    "resentment-as-caretaking-diagnostic"
+  ],
+  "structure-and-empowerment": [
+    "sublimated-wants-become-politics",
+    "reframe-boss-as-customer",
+    "principles-free-you",
+    "fear-triangle",
+    "buurtzorg-nursing",
+    "authenticity-in-business",
+    "vulnerability-in-the-workplace"
+  ],
+  "no-doctrine-leadership": [
+    "sublimated-wants-become-politics",
+    "vulnerability-in-the-workplace"
+  ],
   "feeling-the-want-as-emotion": [
     "the-want",
     "wanting-vs-craving",
-    "owning-the-want-dissolves-it"
-  ],
-  "wants-deepen-as-you-follow-them": [
-    "the-want",
-    "find-the-want-behind-the-should",
-    "improvement-vs-authenticity",
-    "wanting-vs-craving",
-    "enjoyment-as-surrender",
     "owning-the-want-dissolves-it",
-    "selfishness-is-the-engine-of-unity",
-    "wanting-itself-not-what-you-want",
-    "what-is-truly-compassionate"
+    "need-behind-the-want"
   ],
-  "owning-the-want-dissolves-it": [
+  "sublimated-wants-become-politics": [
     "the-want",
-    "find-the-want-behind-the-should",
-    "wanting-vs-craving",
-    "wants-vs-partiality",
-    "selfishness-is-the-engine-of-unity",
-    "wanting-itself-not-what-you-want",
-    "wants-deepen-as-you-follow-them",
-    "wants-over-shoulds",
-    "what-is-truly-compassionate",
-    "feeling-the-want-as-emotion"
+    "tell-them-like-an-asshole",
+    "selfishness-is-the-engine-of-unity"
   ],
   "complementary-trauma-surfaces": [
     "trauma-mapping",
@@ -2190,16 +2467,6 @@
   ],
   "repetitive-vs-inspirational-voice": [
     "voice-in-the-head"
-  ],
-  "vulnerability-in-the-workplace": [
-    "vulnerability",
-    "public-truth-bomb",
-    "consciousness-is-the-product",
-    "public-failure-as-leadership-modeling",
-    "authenticity-in-business",
-    "no-doctrine-leadership",
-    "structure-and-empowerment",
-    "welcoming-fear-in-leadership"
   ],
   "vulnerability-vs-weakness": [
     "vulnerability"
@@ -2246,23 +2513,49 @@
     "listening-to-impulse",
     "seven-limiting-beliefs"
   ],
+  "fake-the-anger-to-let-it-move": [
+    "three-childhood-origins-of-anger-repression",
+    "treat-yourself-as-actor-of-emotion",
+    "observer-vs-immersion-by-anger-type",
+    "get-angry-in-the-car",
+    "tell-the-body-its-safe"
+  ],
+  "invite-the-aggression-out": [
+    "three-forms-of-anger-repression",
+    "deconstruct-the-victim-to-release-anger",
+    "welcoming-the-others-emotion",
+    "passive-aggressive-vs-aggressive-aggressive"
+  ],
+  "i-exist-affirmation-against-collapse": [
+    "three-things-that-go-wrong-when-releasing-anger",
+    "deconstruct-the-victim-to-release-anger",
+    "get-angry-in-the-car",
+    "tell-the-body-its-safe"
+  ],
+  "observer-vs-immersion-by-anger-type": [
+    "three-things-that-go-wrong-when-releasing-anger",
+    "convert-thought-to-time-bounded-listening",
+    "treat-yourself-as-actor-of-emotion",
+    "fake-the-anger-to-let-it-move"
+  ],
+  "become-unnecessary": [
+    "meet-resistance-with-okay",
+    "community-over-teacher",
+    "consciousness-is-the-product",
+    "good-and-corruption-cycle",
+    "marketing-as-the-beginning",
+    "the-work-is-yours-not-mine"
+  ],
+  "follow-the-demand": [
+    "meet-resistance-with-okay",
+    "the-work-is-yours-not-mine",
+    "no-doctrine-leadership"
+  ],
   "are-you-bracing-or-embracing": [
     "public-truth-bomb",
     "embrace-vs-brace",
     "embrace-intensity",
     "embracing-intensity-as-leading-indicator"
-  ],
-  "structure-and-empowerment": [
-    "reframe-boss-as-customer",
-    "principles-free-you",
-    "fear-triangle",
-    "buurtzorg-nursing",
-    "authenticity-in-business",
-    "vulnerability-in-the-workplace"
-  ],
-  "invite-the-aggression-out": [
-    "welcoming-the-others-emotion",
-    "passive-aggressive-vs-aggressive-aggressive"
   ],
   "dont-should-yourself-to-welcome-anger": [
     "welcoming-the-others-emotion"
@@ -2293,6 +2586,7 @@
   ],
   "anxiety-as-unarticulated-need": [
     "fear-vs-excitement",
+    "resentment-as-unspoken-want",
     "welcoming-fear-in-leadership"
   ],
   "joes-hacky-sack": [
@@ -2314,7 +2608,8 @@
   ],
   "joes-crying-story": [
     "observe-vs-move-emotion",
-    "daily-emotional-yoga"
+    "daily-emotional-yoga",
+    "fake-the-anger-to-let-it-move"
   ],
   "constraints-increase-creativity": [
     "resources-vs-resourcefulness",
@@ -2344,12 +2639,6 @@
   "keeping-cult-dynamics-conscious": [
     "community-over-teacher",
     "subjugation-prevents-healing"
-  ],
-  "become-unnecessary": [
-    "community-over-teacher",
-    "consciousness-is-the-product",
-    "good-and-corruption-cycle",
-    "marketing-as-the-beginning"
   ],
   "spaghetti-tower-experiment": [
     "connection-over-perfection"
@@ -2398,6 +2687,10 @@
   "knowing|knowing-as-opposite-of-wonder": [
     "right-question-over-right-answer"
   ],
+  "am-i-being-selfish": [
+    "selfishness-is-the-engine-of-unity",
+    "need-behind-the-want"
+  ],
   "joes-26-year-old-list": [
     "shame-drives-behavior"
   ],
@@ -2417,9 +2710,6 @@
   "creative-career-story": [
     "listening-to-impulse"
   ],
-  "dont-name-emotion-to-avoid-feeling": [
-    "stages-of-emotional-development"
-  ],
   "being-heard": [
     "view"
   ],
@@ -2438,14 +2728,8 @@
   "money-must-flow": [
     "money-domain"
   ],
-  "follow-the-demand": [
-    "no-doctrine-leadership"
-  ],
   "public-failure-as-leadership-modeling": [
     "vulnerability-in-the-workplace",
     "welcoming-fear-in-leadership"
-  ],
-  "no-doctrine-leadership": [
-    "vulnerability-in-the-workplace"
   ]
 }

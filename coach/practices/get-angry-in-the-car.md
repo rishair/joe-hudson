@@ -4,8 +4,8 @@ id: get-angry-in-the-car
 title: "Get Angry in the Car (or at the Beach, or in the Woods)"
 aliases: ["anger release practice", "get angry on your commute", "yell in the car", "private anger practice", "anger discharge practice", "anger somewhere not at someone", "the commute anger practice", "yell at the ocean"]
 tags: ["practice", "anger", "emotions", "discharge", "embodiment", "release"]
-related: ["anger", "daily-emotional-yoga", "let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "unfelt-emotion-leaks", "joes-angry-executive-commute"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+related: ["anger", "daily-emotional-yoga", "let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "unfelt-emotion-leaks", "joes-angry-executive-commute", "tell-the-body-its-safe", "i-exist-affirmation-against-collapse", "fake-the-anger-to-let-it-move", "convert-thought-to-time-bounded-listening", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
 ---
 
 # Get Angry in the Car (or at the Beach, or in the Woods)
@@ -51,8 +51,40 @@ The principle is private discharge of anger through the body, not at anyone. Spe
 - **Yelling at the ocean.** One of Joe's executive clients went to the beach in San Francisco. The ocean does not hear or judge.
 - **Writing something angry and burning it.** The body moves through the writing; the burning marks the completion.
 - **Going to the beach or the woods and yelling.**
+- **Quieter ranting where someone might be nearby.** "You can just be like, goddamn motherfucker, I fucking hate when that happens. Why the fuck is that always happening? Like it can literally just be like a rant that anybody could not hear from a different room. It's not gonna release the musculature, the trauma musculature the same way, but it still is a great process of moving the anger." (Joe Hudson, The Wisdom of Anger Part II)
+- **Yelling in a pillow.** When a container has thin walls and full voice is not possible.
 
-The form is whatever the body wants. The constraint is: not at a person, and not as a story you keep telling yourself.
+The form is whatever the body wants. The constraint is: not at a person, and not as a story you keep telling yourself. The voice + body version is the most complete; the quieter versions are useful when fuller expression is not available.
+
+## On-Ramps for the Practice
+
+Several specific tricks help start the practice or keep it moving when it stalls.
+
+**Tell the body it's safe.** Speak directly to the body before beginning. Name what is not happening here. See [[tell-the-body-its-safe]].
+
+**Negotiate with the voice in the head.** When the voice is producing reasons not to ("they had reasons," "be compassionate"), do not argue. Offer a contract: "I've listened to you for a decade, now I'm going to listen to anger for 20 minutes." See [[convert-thought-to-time-bounded-listening]].
+
+**Fake it.** If the body cannot find the felt state, perform anger first. The body learns the shape; the real thing arrives in a few minutes. See [[fake-the-anger-to-let-it-move]].
+
+**Use angry music.** Joe mentions Tool specifically: "I like Tool in particular because it's so angry and aggressive, but it's also speaking to this kind of deep spiritual truth." Any aggressive music gives the body a context that justifies the motion. The body matches the music's energy.
+
+**Breathe like the Hulk.** "If you can breathe in a way that builds up your anger, great. That's a great way for those people who've repressed anger in a way that it's self-abusive or the passive aggression. To be able to breathe in such a way that allows you to get angry. Breathe like the Hulk." (Joe Hudson, The Wisdom of Anger Part II)
+
+**Listen to the anger like you would a friend.** "I'm just gonna listen to anger for 20 minutes." The framing of listening (rather than performing) gives some bodies more permission than the framing of release.
+
+## When Release Goes Wrong During Practice
+
+Three failure modes can interrupt the practice. Each has a specific move. See [[three-things-that-go-wrong-when-releasing-anger]] for the full taxonomy.
+
+- **Collapse:** the body folds halfway through. Use [[i-exist-affirmation-against-collapse]].
+- **Dysregulation:** the person gets captured by the story, leaves their body, says things they did not mean. Use [[treat-yourself-as-actor-of-emotion]].
+- **Recreating shame:** the release damages something and produces shame. Use awareness without making it a should.
+
+The practice is not failing when these happen. They are expected in the early stages. Recognizing the failure mode is part of the practice itself.
+
+## What to Look for at the End
+
+Real release produces [[visceral-clarity-from-anger]]: a small, felt sense of "I know what to do" structured around the self. If after consistent release the same anger keeps recycling without producing clarity, the anger is probably covering a deeper emotion. See [[anger-as-cover-for-deeper-emotion]] and the read [[recycling-anger-without-clarity]].
 
 ## Why the Brain Resists Finding the Outlet
 
@@ -102,3 +134,4 @@ Joe presents this almost casually. Get in your car. Yell. That is it. The tone s
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4

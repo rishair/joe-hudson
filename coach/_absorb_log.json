@@ -828,10 +828,79 @@
     },
     {
       "folder": "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T21:36:38Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "three-forms-of-anger-repression",
+        "three-childhood-origins-of-anger-repression",
+        "three-things-that-go-wrong-when-releasing-anger",
+        "visceral-clarity-from-anger",
+        "anger-as-cover-for-deeper-emotion",
+        "dysregulated-vs-released-into-freedom",
+        "observer-vs-immersion-by-anger-type",
+        "convert-thought-to-time-bounded-listening",
+        "deconstruct-the-victim-to-release-anger",
+        "i-exist-affirmation-against-collapse",
+        "fake-the-anger-to-let-it-move",
+        "tell-the-body-its-safe",
+        "dont-jump-to-compassion-before-anger",
+        "recycling-anger-without-clarity"
+      ],
+      "articles_updated": [
+        "anger",
+        "kinked-emotions",
+        "get-angry-in-the-car",
+        "treat-yourself-as-actor-of-emotion",
+        "fear-of-self-destruction-by-anger",
+        "passive-aggressive-vs-aggressive-aggressive",
+        "unfelt-emotion-leaks",
+        "my-inner-critic-wont-stop"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T21:55:32Z"
+    },
+    {
+      "folder": "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment",
+      "status": "complete",
+      "claimed_at": "2026-05-21T21:56:31Z",
+      "articles_created": [
+        "i-have-to-do-it-all-myself",
+        "stacy-father-conversation",
+        "meet-resistance-with-okay",
+        "the-work-is-yours-not-mine",
+        "prepare-and-release-the-difficult-conversation",
+        "reclaiming-abandonment"
+      ],
+      "articles_updated": [
+        "vulnerability-in-the-workplace",
+        "integration",
+        "quit-hope-lose-cycle",
+        "helplessness-is-the-gateway",
+        "container-of-love",
+        "trauma-mapping"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-21T22:05:56Z"
+    },
+    {
+      "folder": "2021-11-19_What is Selfishness?",
+      "status": "complete",
+      "claimed_at": "2026-05-21T22:06:43Z",
+      "articles_created": [
+        "am-i-being-selfish",
+        "sublimated-wants-become-politics",
+        "need-behind-the-want",
+        "tell-them-like-an-asshole",
+        "resentment-as-unspoken-want"
+      ],
+      "articles_updated": [
+        "selfishness-is-the-engine-of-unity",
+        "the-want",
+        "wants-deepen-as-you-follow-them",
+        "resentment-as-caretaking-diagnostic"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T22:14:27Z"
     }
   ]
 }

@@ -4,8 +4,8 @@ id: treat-yourself-as-actor-of-emotion
 title: "Treat Yourself as an Actor of the Emotion"
 aliases: ["actor metaphor for emotion", "you are the actor playing yourself", "non-personal emotion", "emotion is not personal", "actor playing the part", "watch the emotion like an actor"]
 tags: ["emotions", "expression", "depersonalization", "moves", "feeling"]
-related: ["kinked-emotions", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "impartiality", "feel-over-figure"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["kinked-emotions", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "impartiality", "feel-over-figure", "observer-vs-immersion-by-anger-type", "three-things-that-go-wrong-when-releasing-anger", "fake-the-anger-to-let-it-move", "convert-thought-to-time-bounded-listening"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
 ---
 
 # Treat Yourself as an Actor of the Emotion
@@ -46,6 +46,29 @@ Joe describes the felt emotion as similar to going to the bathroom. It is not pe
 - When the story the emotion is telling feels true and urgent.
 - When someone is about to "let it all out" at a partner, coworker, or child.
 - When someone has been suppressing because they do not want to believe the story.
+- When a person dysregulates during anger release (leaves their body, loses track of time, buys into the story). See Failure 2 in [[three-things-that-go-wrong-when-releasing-anger]].
+
+## Two Framings of the Same Move
+
+Joe uses two framings depending on what the person needs:
+
+**For the dysregulation type (Form 3, outward anger):** focus on the fact that it is not really you who is angry. The emphasis is on the not-me quality. "I am an actor; this part is moving through but it is not who I am."
+
+**For the freeze/suppression type (Form 1 inward, Form 2 sideways):** focus on giving a good performance. The emphasis is on doing the part well. "I am going to play this scene fully and convincingly."
+
+"You can either be the actor and focus on the fact that it's not you who's angry, and that's for somebody who gets dysregulated, and then you can focus on giving a good performance if you're the kind of person who's like just not gonna get angry." -- Joe Hudson, The Wisdom of Anger Part II
+
+Same move, opposite framing, depending on what is needed. For the type that captures, the framing loosens. For the type that suppresses, the framing licenses fuller expression. See [[observer-vs-immersion-by-anger-type]] for the typology this serves.
+
+## When This Move Is Wrong for the Person
+
+The actor stance can completely shut anger off in the freeze type if delivered as "step back and observe yourself."
+
+"For somebody who goes into freeze or flight, being in the observer position is gonna completely shut off anger. They're just not gonna be able to access it. So for those people, they're gonna need to go into the story a bit. They're gonna need to believe the story a bit until the anger can move and then they can listen to their body." -- Joe Hudson, The Wisdom of Anger Part II
+
+For these people, the move is not the actor stance as observer. It is the actor stance as performance: see [[fake-the-anger-to-let-it-move]]. Drop into the story for the entry. Then listen to the body.
+
+Both forms keep a part of awareness outside the process. They locate that part differently: as observer (for the dysregulator) or as performer (for the freezer). See [[convert-thought-to-time-bounded-listening]] for a parallel move that places the outside-of-process part in the negotiation with the voice.
 
 ## What This Move Produces
 
@@ -77,3 +100,4 @@ Light. The actor metaphor brings playfulness. Joe is not asking the person to de
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4

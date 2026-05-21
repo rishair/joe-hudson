@@ -5,7 +5,7 @@ title: "Integration"
 aliases: ["integrating transformation", "transcend and integrate", "normalizing transformation", "post-breakthrough integration"]
 tags: ["development", "transformation", "learning", "process"]
 related: ["epiphany-vs-transformation", "three-stages-of-integration", "late-stage-reversion", "process-over-result", "container-of-love", "pendulation", "development-as-corkscrew", "quit-hope-lose-cycle", "no-finish-line", "undoing-not-doing"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
 ---
 
 # Integration
@@ -32,6 +32,20 @@ Other integration practices:
 When integration is working, over weeks or months: emotional fluidity increases, things feel less personal, physical sensation awareness grows, old patterns lose their grip. There is pendulation between old behavior and new behavior. This back-and-forth is normal.
 
 When integration completes, the new capacity becomes invisible. It feels normal. The person may forget it is there because they confuse the skill with the euphoria of the original epiphany. "You're not excited when you're walking at 3 years old. It's just normal."
+
+## The "How Do I Keep This?" Reflex
+
+The single most common pattern Joe observes after a recognition lands: the person sees through the thing, and immediately asks how to keep the seeing. The gripping is automatic. It is so automatic that it is the first move of the integration phase for most people.
+
+"One of the things that I get a lot when I work with people, particularly for the first time, is I get some sort of version of -- they see the thing and then they ask, how do I keep the thing? They see through the abandonment, for instance, and then they're like, the first thing is, how do I keep this recognition? Or how do I stop acting like I was when I was in abandonment? Or some version of like, now that I see it, what do I do? And I'm wondering what advice or what thoughts do you have on that for those people? Because it's like so many people are just like, what do I do next? What do I do next? What do I do next so that I can be out of this emotional state or so that I can not have this pain in my life anymore?" -- Joe Hudson, Reclaiming Abandonment
+
+The question is the cover-up trying to re-install. See [[quit-hope-lose-cycle]] for the full mechanism. The gripping itself is what undoes the recognition. The recognition does not need to be kept. It cannot be lost in the way the question imagines, because it was never an installed state.
+
+The alternative pattern Joe sees in clients who integrate cleanly: they see the thing, they say "of course," and they do not ask how to keep it. The not-asking is the integration. Stacy describes this directly when asked the same question:
+
+"I have a sense of awareness and I'm more comfortable, I think, knowing that I don't always have to feel everything all the time, but I know over some period of time, I'm a different person today than I was some time ago. And so reminding myself of that has really helped me want to think about what could be next." -- Stacy Brown-Philpot, Reclaiming Abandonment
+
+She does not try to hold the realization in place. She trusts that the realization has done its work and that the next thing will surface when it surfaces.
 
 ## Cover-Ups Keep Showing Up
 

@@ -3,9 +3,9 @@ type: concept
 id: container-of-love
 title: "Container of Love"
 aliases: ["container", "held in love", "environment of love"]
-tags: ["healing", "safety", "group work", "relationships"]
-related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts", "integration", "community-over-teacher"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience"]
+tags: ["healing", "safety", "group work", "relationships", "spiritual"]
+related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts", "integration", "community-over-teacher", "helplessness-is-the-gateway", "reclaiming-abandonment"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
 ---
 
 # Container of Love
@@ -26,6 +26,24 @@ In group settings, the container functions differently than one-on-one. Joe desc
 
 - Necessary precondition for [[feeling-the-unfelt-emotion]]
 - When someone is ready to feel but needs the environment to do so safely
+
+## Faith as Container
+
+For clients who have a felt sense of being held by something larger than themselves -- God, the Tao, the ineffable -- that felt holding functions as a container of love. The container is not exclusively interpersonal. What matters is that the person experiences being held, and that the holding is unconditional enough to allow what was avoided to be felt.
+
+Stacy describes a night when the container was felt directly. She was traveling alone in New York, had just received a breast cancer diagnosis, called her mother, then her pastor called her unbidden. He prayed with her, told her to put on music and cry all night:
+
+"I sat, I hung up the phone, I put on some music, and I just like sat in this corner and I just cried and cried and cried until I was done. And there was this emptiness that I felt of like, wow, this is like the bottom of something, but I'm still being held. And in that moment of feeling like I was alone and abandoned, God was there with me." -- Stacy Brown-Philpot, Reclaiming Abandonment
+
+The crying was the feeling-through. The container was both the pastor's call (interpersonal) and the felt presence of God (transcendent). The combination allowed her to reach the bottom of the feeling and discover that she was still held. See [[helplessness-is-the-gateway]] for the substrate emotion that the container made it possible to feel.
+
+The relationship to the container often shifts after this kind of experience. Stacy describes hers as becoming more conversational:
+
+"I think we have a more open relationship, I would say. That's how I would describe it. My prayer life is really about what God wants for my life, what I want for my life. It's like mutual. And it's not from a, you know, please make this happen for me. It's more like, I want this. If you want it, it'll happen. It's very different. It's very -- I feel like I'm walking alongside. He's walking alongside with me all the time and constantly there." -- Stacy Brown-Philpot, Reclaiming Abandonment
+
+The container moves from being something appealed to in crisis to being something present throughout. This is the same pattern as in interpersonal containers: the container is not a resource called upon, it is the environment one operates within.
+
+For clients without a religious frame, the same function can be served by community, by a coach holding space over time, by deep relationship with a partner or close friend, or by a felt sense of nature or the cosmos. The form is less important than the felt experience of being held.
 
 ## What Happens Without It
 

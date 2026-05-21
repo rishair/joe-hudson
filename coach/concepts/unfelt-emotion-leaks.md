@@ -5,7 +5,7 @@ title: "Unfelt Emotion Leaks"
 aliases: ["unfelt emotion comes out sideways", "the leak", "emotion you don't feel comes out at others", "anger at someone is unfelt anger", "leakage", "emotion has to go somewhere"]
 tags: ["emotions", "expression", "leakage", "relationships", "core mechanism"]
 related: ["dont-do-emotion-at-people", "feeling-the-unfelt-emotion", "kinked-emotions", "feel-over-figure", "judgment-vs-discernment", "get-angry-in-the-car", "joes-angry-executive-commute", "passive-aggressive-vs-aggressive-aggressive", "anger"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
 ---
 
 # Unfelt Emotion Leaks
@@ -63,12 +63,17 @@ When the chronic state is low-grade depression and external life is fine, held a
 The leak is not always a shout. It includes:
 - **Passive aggression:** "If you're going to be a prick." Often wrapped in safety or process language: "I don't feel safe with this," "we didn't make introductions." See [[passive-aggressive-vs-aggressive-aggressive]].
 - **Cold withdrawal:** going silent as a punishment.
-- **Strategic sadness:** producing sadness in front of someone to elicit a behavior change.
+- **Strategic sadness:** "When you're being sad at somebody, in a weird way, that is passive aggression." (Joe Hudson, The Wisdom of Anger Part II) Producing sadness in front of someone to elicit behavior change.
+- **Guilting:** producing guilt in the other person to get them to do something different.
+- **Blaming:** "Blaming other people for your emotional experience. That's a form of passive aggression." (Joe Hudson, The Wisdom of Anger Part II)
+- **Codependent caretaking:** doing things for the other person that create obligation, then collecting on the obligation.
+- **Freezing in your own head:** the inward version of cold withdrawal. The person disappears from the room while remaining present.
+- **Self-abusive self-talk:** anger inward as a sustained leak directed at the self. This is the inward form that produces dysthymia and low-grade depression.
 - **Persistent judgment:** a sustained negative read on someone whose presence somehow disturbs you.
 - **Recursive complaint:** retelling the same grievance to many listeners.
 - **Disempowerment:** chronic flatness and the felt inability to make the moves you want.
 
-Each is a kink with an audience or no audience at all. See [[kinked-emotions]].
+Each is a kink with an audience or no audience at all. See [[kinked-emotions]] and [[three-forms-of-anger-repression]] for the specific three-form taxonomy of anger leaks (inward, sideways, outward).
 
 ## Why People Resist This Diagnosis
 

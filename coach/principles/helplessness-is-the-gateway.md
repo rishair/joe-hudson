@@ -4,8 +4,8 @@ id: helplessness-is-the-gateway
 title: "Helplessness Is the Gateway to Empowerment"
 aliases: ["feel the helplessness", "helplessness makes you more capable", "feeling helpless to feel empowered", "through helplessness to empowerment"]
 tags: ["helplessness", "empowerment", "feeling", "emotion", "paradox"]
-related: ["empowered-vs-power", "fear-triangle", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "embrace-intensity", "what-we-fear-we-invite"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["empowered-vs-power", "fear-triangle", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "embrace-intensity", "what-we-fear-we-invite", "i-have-to-do-it-all-myself", "reclaiming-abandonment", "container-of-love"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
 ---
 
 # Helplessness Is the Gateway to Empowerment
@@ -61,6 +61,14 @@ Almost every high-powered CEO Joe has worked with has two recurring features: a 
 "You don't learn to be self-reliant unless there was a point when you had this deep sense of helplessness that you didn't want to feel. Maybe it was an alcoholic dad, or maybe it was getting really poor. That sense of helplessness and saying, I am not going to feel that again, is what propels them into this incredible place in their life. It's also the thing that needs to be destroyed if they're going to be great leaders." -- Joe Hudson, Feel over Figure
 
 The drive that built the career was the same drive that now constrains leadership. Becoming a great leader requires going back into the helplessness the career was built to avoid. Joe specifically credits the CEO of Netflix's earlier failure as the gateway: losing a company forced him to feel the helplessness, after which he could allow it constantly. That allowance is what makes the chaos-tolerant culture at Netflix possible.
+
+Stacy Brown-Philpot's story is the same structure with a different surface. The early helplessness traced to her father's absence. The self-reliance was the strategy: "depend only on yourself in order to make things happen." It built her career at TaskRabbit. It also installed compartmentalization at the level she needed to be a great CEO. See [[i-have-to-do-it-all-myself]].
+
+Her gateway was a specific moment of being unable to do it herself: a breast cancer diagnosis while traveling alone, with her husband occupied with the kids:
+
+"I was empty, and I felt truly held. And it was the moment that I realized that in my life, I've always felt like I was the one who could do it. Do it myself and make it happen. And in this moment, I couldn't. I couldn't do it myself because I was scared. I didn't know what was going to happen. And I truly had to depend on someone else, in this case my God, to comfort me. And the comfort came." -- Stacy Brown-Philpot, Reclaiming Abandonment
+
+The diagnosis was the event. The helplessness was the substrate. The reception of comfort was the empowerment that arrived on the other side. The CEO who could finally depend on something other than herself became a leader who could create the conditions for her team to do the same. See [[container-of-love]] for the structure that received her.
 
 ## What We Fear We Invite, At the Level of Helplessness
 

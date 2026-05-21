@@ -4,8 +4,8 @@ id: anger
 title: "Anger"
 aliases: ["the emotion of anger", "anger as energy", "anger as care", "beautiful energy of anger", "loving your anger", "what anger is", "healthy anger", "anger's three indicators", "the wisdom of anger"]
 tags: ["anger", "emotions", "care", "boundaries", "fear", "trauma", "energy", "empowerment"]
-related: ["wisdom-of-each-emotion", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "trappedness-feeling", "logic-vs-emotional-movement", "fear-of-self-destruction-by-anger", "passive-aggressive-vs-aggressive-aggressive", "get-angry-in-the-car", "joes-pancake-anger-story"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+related: ["wisdom-of-each-emotion", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "trappedness-feeling", "logic-vs-emotional-movement", "fear-of-self-destruction-by-anger", "passive-aggressive-vs-aggressive-aggressive", "get-angry-in-the-car", "joes-pancake-anger-story", "three-forms-of-anger-repression", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger", "anger-as-cover-for-deeper-emotion"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
 ---
 
 # Anger
@@ -81,6 +81,39 @@ The brain rarely considers a third option. The frame collapses to: get angry at 
 
 See [[fear-of-self-destruction-by-anger]] for the full treatment.
 
+## The Technical Map: Forms, Origins, and Failures
+
+The cleanest framing of the operational territory of anger comes from three intersecting taxonomies:
+
+**Three forms of repression.** Anger that does not move cleanly takes one of three shapes: inward (self-abusive talk), sideways (passive aggression), or outward (yelling, rage at someone). All three are repression. See [[three-forms-of-anger-repression]].
+
+**Three childhood origins.** The form a person uses traces back to one of three common childhood configurations: a chronically angry caretaker, anger that was tied to love (removed or granted), or anger that was directly punished. See [[three-childhood-origins-of-anger-repression]].
+
+**Three failure modes during release.** When release begins, it can fail in three ways: collapse, dysregulation, or recreating shame. Each failure tracks the form of repression and has a specific move that addresses it. See [[three-things-that-go-wrong-when-releasing-anger]].
+
+This is the operational map for an AI coach working with anger. The form tells you what the person habitually does. The origin tells you the body's specific fear when release begins. The failure mode tells you what to watch for and how to intervene.
+
+## What Successful Release Looks Like
+
+When anger releases cleanly, what arrives at the end is visceral clarity: a small, felt sense of "I know what to do" that lives in the body and is structured around the self ("I am going to...") rather than around the other person ("they need to..."). See [[visceral-clarity-from-anger]].
+
+The "I'm clear, fuck them" sentence is not clarity. It is the kink in clarity costume. The body is still constricted. Real clarity is dissolved tension and a small sentence about what the speaker will do.
+
+## When Release Does Not Land
+
+If a person is doing the release work and the same anger keeps recycling without producing the big landing of clarity, the anger is likely covering a deeper emotion (grief, hurt, fear, helplessness). The work shifts to feeling what is underneath. See [[anger-as-cover-for-deeper-emotion]] and the read [[recycling-anger-without-clarity]].
+
+## The Mind's Blocks to Release
+
+Before and during release, the mind produces specific blocks. Recognizing them as blocks (not as truths) is part of the practice:
+- **The compassion jump.** "I should be compassionate. They had reasons." Order-of-operations wrong. See [[dont-jump-to-compassion-before-anger]].
+- **The reasonableness jump.** "Their point of view is totally reasonable." Same structure as compassion jump.
+- **The moral block.** "Anger is bad. Good people do not feel this."
+- **The ignorance shame.** After an outburst: "You lost control. You are ignorant."
+- **The stuckness story.** "I cannot say this because of imagined consequence X." The "cannot" is the story; the truth is "I do not want consequence X."
+
+The move for the voice producing these blocks is [[convert-thought-to-time-bounded-listening]]: negotiate a small window for the anger while letting the voice keep its usual time.
+
 ## In Coaching
 
 When a person reports they "do not get angry," the most likely diagnosis is suppression, not absence. The check: ask what they care about that they have not been able to change, and watch whether there is energy behind the answer. If the answer is flat, the anger is held.
@@ -90,6 +123,18 @@ When a person reports chronic depression or low-grade flatness, anger work is on
 When a person describes someone else's anger as the problem, the path may go in two directions:
 - If they are doing emotional caretaking with the angry person, the path is [[welcoming-the-others-emotion]] or boundary work.
 - If they fear all anger because of past abuse, the path begins by separating anger-the-emotion from anger-at-someone, then building capacity to feel their own.
+
+When a person reports that anger work "is not working" and the same anger keeps coming back, run two diagnostics:
+1. Is the release being done cleanly or is it dysregulating? See [[three-things-that-go-wrong-when-releasing-anger]] and [[dysregulated-vs-released-into-freedom]].
+2. Is the anger covering a deeper emotion that has not been felt? See [[anger-as-cover-for-deeper-emotion]].
+
+## Joe's Diagnostic of His Own Held Emotion
+
+A useful coaching anchor: the way Joe himself recognizes he has held emotion to move.
+
+"The way that I notice that my emotional movement needs to happen [...] over time, it just feels like it's either stuck or not stuck. [...] What happens is I wake up a little bit not wanting to face the day. That's a pretty damn good thing that tells me. If I am reacting to my stress in any way. That's another thing that tells me. [...] So it's really any feeling of stuckness in my life, any feeling of like not excited and joy is where I know that I have something stuck and it needs to move." -- Joe Hudson, The Wisdom of Anger Part II
+
+The diagnostic at a mature stage of practice is not specific to anger. It is the felt sense of stuckness vs. flow. The specific emotion that needs to move reveals itself once the practice begins; it does not need to be diagnosed first.
 
 ## What Joe Does Not Recommend
 
@@ -123,3 +168,4 @@ Joe speaks of anger with affection. It is "beautiful," "amazing energy." When te
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4

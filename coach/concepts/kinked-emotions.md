@@ -4,8 +4,8 @@ id: kinked-emotions
 title: "Kinked Emotions (The Garden Hose)"
 aliases: ["garden hose metaphor", "kinks in the garden hose", "constricted emotion", "anger as garden hose", "the kinked emotion", "emotion under pressure", "what people call the emotion is the kink"]
 tags: ["emotions", "resistance", "anger", "metaphor", "core mechanism"]
-related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement", "stages-of-emotional-development", "what-we-fear-we-invite", "anger", "passive-aggressive-vs-aggressive-aggressive", "fear-of-self-destruction-by-anger"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement", "stages-of-emotional-development", "what-we-fear-we-invite", "anger", "passive-aggressive-vs-aggressive-aggressive", "fear-of-self-destruction-by-anger", "three-forms-of-anger-repression"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
 ---
 
 # Kinked Emotions (The Garden Hose)
@@ -32,9 +32,11 @@ When the kink is released, each emotion shows its actual nature:
 ## How the Kinks Show Up
 
 The kinks vary by person and by emotion. Common kinks for anger:
-- **Denial:** "No, I'm not angry."
-- **Passive aggression:** "Oh yeah, that's fine. I mean, if you're going to be a prick." Passive aggression often hides inside safety-language or process-concerns: "I don't feel safe with this," "we didn't make introductions." See [[passive-aggressive-vs-aggressive-aggressive]] for the distinction and the move for inviting the aggression into direct form.
-- **Explosion:** "You son of a blah blah blah."
+- **Denial / inward:** "No, I'm not angry." The energy turns inward as self-abusive talk, dysthymia, depression.
+- **Passive aggression / sideways:** "Oh yeah, that's fine. I mean, if you're going to be a prick." Passive aggression often hides inside safety-language or process-concerns: "I don't feel safe with this," "we didn't make introductions." Also includes guilting, being late, undermining, "getting sad at" someone. See [[passive-aggressive-vs-aggressive-aggressive]] for the distinction and the move for inviting the aggression into direct form.
+- **Explosion / outward:** "You son of a blah blah blah." Anger dumped at the person in front of you.
+
+These three forms (inward, sideways, outward) are the operational taxonomy of anger repression. Each form has its own characteristic mind-tricks for staying in place, its own characteristic failure modes when release begins, and benefits from somewhat different practice. See [[three-forms-of-anger-repression]] for the full treatment.
 
 People who learned that direct anger was dangerous as children often develop the passive-aggressive kink as the default form. Both forms are anger leaking sideways. See [[unfelt-emotion-leaks]].
 
@@ -116,3 +118,4 @@ Concrete, accessible. The garden hose is a friendly image, not a clinical metaph
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-09-24_Stages of Emotional Development
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4

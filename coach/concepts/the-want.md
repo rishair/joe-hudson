@@ -4,8 +4,8 @@ id: the-want
 title: "The Want"
 aliases: ["want as impulse", "want as emotion", "wanting as feeling", "the deep want", "want as longing", "longing", "desire as feeling"]
 tags: ["wants", "emotion", "impulse", "desire", "longing", "love"]
-related: ["wants-over-shoulds", "wanting-vs-craving", "feeling-the-want-as-emotion", "owning-the-want-dissolves-it", "wants-deepen-as-you-follow-them", "selfishness-is-the-engine-of-unity", "listening-to-impulse", "feeling-the-unfelt-emotion", "kinked-emotions"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+related: ["wants-over-shoulds", "wanting-vs-craving", "feeling-the-want-as-emotion", "owning-the-want-dissolves-it", "wants-deepen-as-you-follow-them", "selfishness-is-the-engine-of-unity", "listening-to-impulse", "feeling-the-unfelt-emotion", "kinked-emotions", "sublimated-wants-become-politics", "resentment-as-unspoken-want", "need-behind-the-want"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?"]
 ---
 
 # The Want
@@ -61,6 +61,17 @@ The fear is rarely about not getting the thing. Most people have many wants that
 - **As impulse:** notice it, follow it before the should intercepts. See [[listening-to-impulse]].
 - **As emotion:** feel it fully, without rushing to satisfy or to suppress. See [[feeling-the-want-as-emotion]].
 - **As a sequence:** follow the want home; it deepens. The first want often opens onto a more accurate one underneath. See [[wants-deepen-as-you-follow-them]] and [[owning-the-want-dissolves-it]].
+- **As a need:** trace the surface want to the universal need it serves. See [[need-behind-the-want]].
+
+## The Want at the Organizational Level
+
+The same principle that operates inside a person operates inside a group of people. Wants that are not spoken do not disappear. They route through whatever channels are available. In organizations, the available channels are political: gossip, factional alignment, passive resistance, side-conversations after meetings.
+
+A team's wants are the union of every individual team member's wants. When most of those wants are unspoken, the team has nowhere to put them except the political channel. See [[sublimated-wants-become-politics]] for the full mechanism.
+
+This means the work of owning wants is not only personal. It is organizational. A leader who hides their wants installs a particular kind of dysfunction in their team. A team that hides its wants from the leader installs a different kind. The remedy is the same in both directions: the wants get spoken.
+
+The leadership form of the principle: when the leader says exactly what they want (even uncomfortable wants like "I want to make this call myself"), the team relaxes. The clarity is a gift. See [[tell-them-like-an-asshole]] for the specific move that makes this visible.
 
 ## Upstream (What Leads Here)
 
@@ -79,3 +90,4 @@ The fear is rarely about not getting the thing. Most people have many wants that
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2021-11-19_What is Selfishness?

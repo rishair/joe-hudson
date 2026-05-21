@@ -4,8 +4,8 @@ id: resentment-as-caretaking-diagnostic
 title: "Resentment as Caretaking Diagnostic"
 aliases: ["resentment signals caretaking", "if you feel resentful you're caretaking", "the resentment tell", "two-way resentment in caretaking"]
 tags: ["caretaking", "diagnostic", "resentment", "codependence", "boundaries"]
-related: ["caring-vs-caretaking", "softening-as-caring-diagnostic", "boundary-with-vs-boundary-against", "fear-triangle"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+related: ["caring-vs-caretaking", "softening-as-caring-diagnostic", "boundary-with-vs-boundary-against", "fear-triangle", "resentment-as-unspoken-want"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-11-19_What is Selfishness?"]
 ---
 
 # Resentment as Caretaking Diagnostic
@@ -79,6 +79,14 @@ The resentment diagnostic is one of several reliable signals for distinguishing 
 - [[rehearsing-how-to-say-it]]: managing the delivery to control the reaction is the language-level signal.
 
 The diagnostics converge. Where one is present, the others are usually present. The presence of any one warrants checking for the others.
+
+## The Broader Principle
+
+Caretaking is one specific case of a more general principle: [[resentment-as-unspoken-want]]. Resentment indicates that the resenter is not following their wants, not holding their boundaries, not saying what they want, or not getting their needs met. Caretaking is one of the most common ways people refuse to do all four. The caretaker is suppressing their want to speak the truth, their want to set the boundary, their want to be received as a full adult who does not have to manage others.
+
+The broader principle covers cases beyond caretaking: the resentful employee who never asks for what they want at work, the resentful friend who never sets the boundary, the resentful citizen who never acts on their political want. The mechanism is the same: the unfollowed want is the source of the resentment.
+
+The caretaking-specific diagnostic is more useful in relational contexts where caretaking is the dominant unfollowed-want pattern. The general principle is more useful when the resentment is showing up in non-caretaking contexts.
 
 ## When Resentment Is Not Caretaking
 

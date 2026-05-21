@@ -4,8 +4,8 @@ id: passive-aggressive-vs-aggressive-aggressive
 title: "Passive-Aggressive vs. Aggressive-Aggressive"
 aliases: ["passive aggressive vs aggressive aggressive", "passive aggression vs direct anger", "covert anger vs open anger", "anger through safety language", "passive aggression as kinked anger", "open anger is easier to meet"]
 tags: ["distinction", "anger", "passive aggression", "kinked emotions", "communication"]
-related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "invite-the-aggression-out", "dont-do-emotion-at-people"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "invite-the-aggression-out", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "caring-vs-caretaking"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
 ---
 
 # Passive-Aggressive vs. Aggressive-Aggressive
@@ -28,13 +28,32 @@ The passive-aggressive form is harder to meet because the aggression is denied b
 
 "But the ones that trapped me, especially early on, were the passive-aggressive ones, the ones where the aggression was done through the idea of safety, or, you know, we didn't make introductions, and so I don't feel safe. And it was hard for me to learn how to deal with that because there was just kind of this subtle attack that wasn't being acknowledged as an attack." -- Joe Hudson, The Wisdom of Anger
 
+## The Wider Field of Passive Aggression
+
+Passive aggression is not limited to "I don't feel safe" or "we didn't make introductions." It includes a wider repertoire of forms that look like care, virtue, or stuckness but function as covert aggression.
+
+- **Guilting.** Producing guilt in the other person about their behavior. "I guess I'll just do it myself." "It's fine, I'm used to it."
+- **"Getting sad at" someone.** Producing visible sadness as a way to elicit behavior change. "When you're being sad at somebody, in a weird way, that is passive aggression." (Joe Hudson, The Wisdom of Anger Part II)
+- **Codependent caretaking.** Doing things for the other person that create obligation. Then collecting on the obligation later.
+- **Blaming.** "Blaming other people for your emotional experience. That's a form of passive aggression." (Joe Hudson, The Wisdom of Anger Part II)
+- **Subtle undermining.** Being late, not taking out the trash, doing things you know will produce a reaction without naming the wanting-the-reaction.
+- **Freezing or checking out.** Going silent or absent. "The propensity to freeze in your own head, like that is all [...] forms of what I would call repression of the energy."
+
+The unifying signature: the person doing it usually does not see it as aggression. They feel stuck, oppressed, or like they had no choice. The behaviors look (to them) like simply being a good or accommodating person, or like simply not being able to do otherwise.
+
+"The person who's doing it feels stuck. They feel oppressed. So they don't always see that they're doing it." -- Joe Hudson, The Wisdom of Anger Part II
+
+This is what makes passive aggression different from direct anger. The direct angry person knows they are angry. The passive-aggressive person often does not. Naming the form is sometimes the entry point into the work.
+
+This is also why caring-shaped behaviors deserve careful attention. See [[caring-vs-caretaking]]. Caretaking that is actually passive aggression in disguise has a specific signature: it produces obligation, it carries resentment underneath, and it does not stop when no one needs it.
+
 ## Why Passive Aggression Is the More Common Kink
 
 People who have been hurt by anger as children often learn that direct anger is dangerous. They suppress the direct form and discover that the indirect form gets the same work done with less risk. Over time, this becomes the available expression of anger.
 
 "There's a series of people out there who've really been hurt by another person's anger, and they are going to be upset that anybody is saying that anger could be a beautiful and good thing. And most likely because they've been hurt so bad by anger that they're not going to be aggressive about it. They'll be passive-aggressive about it. And so the most likely thing that we'll get is a series of subtle passive-aggressive attacks, you know, built under like, 'I don't feel safe with this episode.'" -- Joe Hudson, The Wisdom of Anger
 
-Both are kinked anger. See [[kinked-emotions]]. The passive form is just a more thoroughly disguised kink.
+Both are kinked anger. See [[kinked-emotions]]. The passive form is just a more thoroughly disguised kink. See [[three-forms-of-anger-repression]] for the broader three-way taxonomy (inward / sideways / outward) this distinction lives inside.
 
 ## What Passive Aggression Costs the Group
 
@@ -92,3 +111,4 @@ Both forms are kinked. Neither is morally worse than the other. The distinction 
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4

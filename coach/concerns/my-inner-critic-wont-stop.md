@@ -65,6 +65,8 @@ The branching point depends on what is underneath the surface complaint.
 
 **If the person is rumination-locked:** the loop is a sign of an unfelt emotion. See [[three-signals-of-unfelt-emotion]]. The work is to find what the loop is avoiding feeling, not to fight the loop directly.
 
+**If the inner critic has the texture of self-attack:** the critic is often the inward form of anger that has nowhere else to go. See [[three-forms-of-anger-repression]]. When the energy of anger cannot move outward (because of childhood injunction, because it was punished, because it was tied to love removal), it turns inward as self-abusive talk. The work in this case is releasing the anger somewhere external. See [[get-angry-in-the-car]]. As the held charge drops, the inward attack often loosens on its own.
+
 ## Coaching Path
 
 1. Name the voice. Often the person has not separated the voice from themselves. Naming creates a useful distance: "you are the one hearing this voice, not the voice itself." See [[voice-in-the-head]].

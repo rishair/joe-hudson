@@ -4,8 +4,8 @@ id: trauma-mapping
 title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma"]
 tags: ["trauma", "attachment", "patterns", "repetition"]
-related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics"]
+related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now", "reclaiming-abandonment", "i-have-to-do-it-all-myself", "stacy-father-conversation"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
 ---
 
 # Trauma Mapping
@@ -48,6 +48,20 @@ In partnership, trauma mapping shows up as the precision-matched complementary t
 The most visible everyday instance: the friend who keeps dating the same person in different bodies. Seven different partners, all of whom cheated. Six different relationships, all with the same dynamic. The conscious mind cannot understand how this kept happening. The body knows exactly what it is doing: generating opportunities to feel the unfelt emotion.
 
 Joe's own example is emotional abandonment. He recreated emotionally abandoning people over and over until he fell in love with abandonment, after which the system found homeostasis and stopped recreating it. See [[joes-abandonment-mapping]].
+
+## The Proving Variant
+
+A variant Joe sees frequently in high-achieving clients: the trauma mapping shows up not as recreation of the original event but as a perpetual defense against it. The person installs a behavior whose job is to prevent the original abandonment from happening again. The proving, the fighting, the over-delivering, the self-reliance -- all are defenses, not reenactments.
+
+The defense produces the original feeling anyway, by a different route. The proving isolates. The fighting alienates. The over-delivering exhausts the person until they collapse. The system that was built to avoid abandonment generates a different kind of abandonment: from rest, from intimacy, from being known.
+
+Stacy describes the structure cleanly:
+
+"Underneath that was this feeling that I needed to prove something because if I didn't, I would be abandoned again and again and again. And as I went back to the original source of where that started, that's really where it started." -- Stacy Brown-Philpot, Reclaiming Abandonment
+
+The defensive variant is harder to recognize than the recreation variant because the defense often produces career success. The system rewards the trauma response. The person and their colleagues read the defense as ambition or excellence. The buried fear that powers it stays invisible.
+
+The exit from the defensive variant is the same as the exit from any trauma map: feel the original feeling, often by going to the source. See [[reclaiming-abandonment]].
 
 ## The Engineering Frame
 

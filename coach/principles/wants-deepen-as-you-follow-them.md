@@ -4,8 +4,8 @@ id: wants-deepen-as-you-follow-them
 title: "Wants Deepen as You Follow Them"
 aliases: ["follow the want home", "wants refine", "wants have siblings", "you can't want to run without wanting to walk", "wants evolve", "the developmental nature of wants"]
 tags: ["wants", "development", "transformation", "following the impulse"]
-related: ["the-want", "wants-over-shoulds", "owning-the-want-dissolves-it", "selfishness-is-the-engine-of-unity", "listening-to-impulse"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+related: ["the-want", "wants-over-shoulds", "owning-the-want-dissolves-it", "selfishness-is-the-engine-of-unity", "listening-to-impulse", "need-behind-the-want"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?"]
 ---
 
 # Wants Deepen as You Follow Them
@@ -23,6 +23,18 @@ If the want is to eat the chocolate cake, follow it. Eat the cake. Feel the sens
 The point is not that the cake is the answer. The point is that you have to actually meet the cake-level want before the next want can become visible. Refusing the cake to "do the work of self-development" usually just installs another should and freezes the whole process.
 
 "You follow that want home and you find out it has 7 more beautiful siblings." -- Joe Hudson, Want over Should
+
+## The Long-Form Version and the Short-Form Version
+
+The principle operates on two time scales.
+
+The long-form version: across years and decades of a life, wants refine as they are followed. The person who wanted to be famous in their twenties wants connection in their forties. The person who wanted wealth at thirty wants meaning at sixty. The trajectory is not a correction; it is the same principle on a long arc.
+
+The short-form version: in a single session of inquiry, the same refinement can happen quickly. The [[need-behind-the-want]] practice compresses years of natural refinement into an exercise that can take minutes. Write down the surface want, ask what need it serves, ask the same question of the answer, keep going. The descent is identical to the years-long version, just faster.
+
+Both versions land at the same place: a universal need underneath whatever specific strategy the surface want represents.
+
+"You will find that every single one of your wants is based on something essential that humans need to thrive. The wants are just strategies, right? The wants are just a strategy and we're going and learning our strategies to get to the place where we're, where we can be happy and healthy and thrive." -- Joe Hudson, What is Selfishness?
 
 ## Why Skipping Levels Does Not Work
 
@@ -61,3 +73,4 @@ This is why coaching that tries to talk the person out of their surface want fai
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2021-11-19_What is Selfishness?

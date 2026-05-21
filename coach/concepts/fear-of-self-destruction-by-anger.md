@@ -2,10 +2,10 @@
 type: concept
 id: fear-of-self-destruction-by-anger
 title: "The Fear of Being Destroyed by Your Own Anger"
-aliases: ["fear of losing myself in anger", "fear of my own anger", "the destruction fear", "I might lose myself in anger", "anger will destroy me", "why we fear our anger", "the third option blindness"]
+aliases: ["fear of losing myself in anger", "fear of my own anger", "the destruction fear", "I might lose myself in anger", "anger will destroy me", "why we fear our anger", "the third option blindness", "body fears during anger release", "fear of freedom from anger release"]
 tags: ["anger", "fear", "resistance", "self-loss", "control"]
-related: ["anger", "kinked-emotions", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "fear-is-about-feeling"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+related: ["anger", "kinked-emotions", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "fear-is-about-feeling", "three-childhood-origins-of-anger-repression", "tell-the-body-its-safe", "dysregulated-vs-released-into-freedom"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
 ---
 
 # The Fear of Being Destroyed by Your Own Anger
@@ -35,6 +35,34 @@ Two things to know about this prediction:
 **First, the loss-of-control prediction is about kinked anger, not anger.** See [[kinked-emotions]]. The version of anger people fear is what anger becomes when it has been resisted for years. Unkinked anger -- anger that has been allowed to flow daily -- does not feel like loss of control. It feels like clarity.
 
 **Second, the felt charge is movable.** Joe's daily emotional yoga practice exists precisely because the held charge can be released in private, deliberately, over time. Each release lowers the charge of the next one. After enough release, anger arises and moves through in five minutes without drama. See [[daily-emotional-yoga]].
+
+## Body-Level Fears That Arise During Release
+
+Beyond the general fear-of-self-destruction, the body produces specific fears in the moment of release. Recognizing these allows the system to update.
+
+"You're gonna have fear. And I've seen this, I've seen people release their anger for the first time and then as soon as they've done it, they're like, ah, and then we've watched this in slow motion, it's so cool, they go, ah, and then as they pull away and realize they got angry, their eyes widen, they're like, they're just totally frightened." -- Joe Hudson, The Wisdom of Anger Part II
+
+The specific fears track the childhood origin (see [[three-childhood-origins-of-anger-repression]]):
+
+- **Fear of being attacked.** Origin 3 bodies (punished for anger as a child) expect punishment to follow release. The eyes widen, the body braces. "It's completely unsafe."
+- **Fear of being rejected.** Origin 2a bodies (anger removed love) expect the people they love to leave. Release becomes connected with abandonment.
+- **Fear of becoming the abuser.** Origin 1 bodies (had an abusive caretaker) expect to become what they vowed never to become. The release threatens the vow.
+
+### Fear of the Freedom Afterward
+
+A subtler body-level fear: the freedom and empowerment that arrive after release.
+
+"Oftentimes the body will be actually scared of the freedom that gets felt after anger, the empowerment and the freedom and the less rigidity and holding. So the body is like, and I wouldn't even say scared, the body isn't, it's used to something, it's used to holding in a certain way. And to ask it to unhold, it just like, it's gonna go through the process of unholding that stuff. And that's gonna come up in the form of like, fear that you'll be lost, fear of like losing some of the rigidity." -- Joe Hudson, The Wisdom of Anger Part II
+
+The body has organized itself around the rigidity. The rigidity is familiar. The fluidity that arrives after release is unfamiliar. The body interprets the unfamiliar as dangerous even when it is genuinely better.
+
+This is a specific case of [[familiar-over-safe]]. The body chooses what it knows over what is good for it. The work is patient repetition: as freedom becomes familiar, the body stops registering it as dangerous.
+
+### The Move
+
+The specific body fears are addressed by the practice of [[tell-the-body-its-safe]]. Direct, out-loud reassurance to the body that the original conditions are not present. The reassurance has to match the specific fear (no abusive brother here, no one to abandon me, I will not hurt anyone).
+
+For the fear of freedom: there is no specific countermeasure. The work is to keep doing the practice. Over weeks, the freedom stops feeling alarming and starts feeling like home.
 
 ## The Self-Fulfilling Loop
 
@@ -84,3 +112,4 @@ Joe holds this gently. The fear is real, the person is not weak for having it. T
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4

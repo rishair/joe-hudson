@@ -4,8 +4,8 @@ id: quit-hope-lose-cycle
 title: "The Quit-Hope-Lose Cycle"
 aliases: ["I hope this lasts", "holding on to change", "fear of losing progress", "achievement and loss cycle", "transformation relapse cycle", "how do I keep it", "fear of losing the serenity", "the gripping question"]
 tags: ["transformation", "resistance", "patterns", "attachment"]
-related: ["pendulation", "enjoyment-as-path", "process-over-result", "resistance", "empowered-vs-power", "helplessness-is-the-gateway", "pow-optimist", "undoing-not-doing", "no-finish-line"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+related: ["pendulation", "enjoyment-as-path", "process-over-result", "resistance", "empowered-vs-power", "helplessness-is-the-gateway", "pow-optimist", "undoing-not-doing", "no-finish-line", "integration"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
 ---
 
 # The Quit-Hope-Lose Cycle
@@ -39,6 +39,12 @@ The same applies at every stage. If you are still smoking, how do you enjoy each
 The moment someone has a breakthrough and immediately asks "how do I keep it?" is the moment Joe knows the change will pendulate. The wrestle to keep it is itself the disempowerment that guarantees the loss.
 
 "As soon as you see somebody start wrestling with how do I keep it, you know that it's gonna be in flux. You know that it's gonna pendulate back and forth for a while. But when the person sees it so clearly that they're like, of course this is what's happening, then it's over. Even if it comes back a little bit, it's over. Like, the whole process is quicker." -- Joe Hudson, Empower over Power
+
+This is the most common reaction Joe sees in first-time clients after a recognition lands. It is so common that he treats it as the default:
+
+"One of the things that I get a lot when I work with people, particularly for the first time, is I get some sort of version of -- they see the thing and then they ask, how do I keep the thing? They see through the abandonment, for instance, and then they're like, the first thing is, how do I keep this recognition? Or how do I stop acting like I was when I was in abandonment? Or some version of like, now that I see it, what do I do?" -- Joe Hudson, Reclaiming Abandonment
+
+The variants of the question are interchangeable: "How do I keep this?" "What do I do now?" "How do I stop acting the way I was?" All three are the same reflex. All three install the gripping that creates the loss. The recognition is treated as a state to maintain rather than a seeing that has already done its work.
 
 The contrast: someone who has the same breakthrough and just says "of course, this is what's happening" does not need to hold on. They have not made the change fragile. The change integrates quickly.
 
