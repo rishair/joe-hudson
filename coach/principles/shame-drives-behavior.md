@@ -3,9 +3,9 @@ type: principle
 id: shame-drives-behavior
 title: "Shame Drives Behavior"
 aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first"]
-tags: ["shame", "behavior", "habits", "causation"]
-related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8"]
 ---
 
 # Shame Drives Behavior
@@ -34,15 +34,25 @@ Joe's own pot habit in his twenties demonstrates this directly. The more he beat
 - When someone lists all the things they "should" be doing differently.
 - When a person's self-criticism is louder than their desire to change.
 
+## Blame and Shame as the Disempowerment Signal
+
+Blame and shame together are the emotional indicator that someone is disempowered. The presence of either points toward the [[fear-triangle]] running. The absence of both points toward empowerment.
+
+"If you are in blame for another person or shame for yourself, then you are disempowered and you are trying to accumulate power. If you are not in blame for others or shame for yourself, then that is empowered. That's the emotional way to know where you're at." -- Joe Hudson, Empower over Power
+
+Underneath the shame and blame story is helplessness. The unwillingness to feel the helplessness is what keeps the shame and blame story spinning. See [[helplessness-is-the-gateway]].
+
 ## Downstream (Where This Leads)
 
 - Toward addressing the shame directly rather than managing behavior.
 - Toward the practice of [[impartiality]]: meeting the person as they are, which begins to dissolve shame.
 - Connects to [[familiar-over-safe]]: shame creates the emotional baseline that the organism returns to.
 - The distinction between [[past-shame-vs-current-shame]] refines this principle. The shame that drives unwanted behavior is past shame: the self-brutalization that condemns you to repeat the pattern. Current shame is a useful signal and should not be suppressed.
+- Toward [[empowered-vs-power]]: shame and blame are the diagnostic that someone is in disempowerment seeking power.
 
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2020-11-10_Vulnerability -- Connection Course Series #5
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-03-26_Empower over Power -- Master Class Series #8

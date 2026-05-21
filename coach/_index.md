@@ -2,6 +2,7 @@
 
 ## Concerns
 
+- i-feel-trapped I feel trapped / They have power over me (also: I have no choice, they control me, I can't do anything, I'm stuck, I'm subjugated, the system has power over me, I'm a victim of circumstances)
 
 ## Reads
 
@@ -9,6 +10,7 @@
 
 ## Questions
 
+- what-if-you-acted-exactly-how-you-want What if you acted exactly how you want to act and saw what happens? (also: what if you acted exactly how you want, the empowerment question, act how you want and see, stop compromising your truth question)
 - what-is-it-without-resistance What is it without resistance in it? (also: feel it without resistance, what happens without the resistance, what does X become without resistance, remove the resistance from the feeling)
 
 ## Arcs
@@ -20,11 +22,11 @@
 - fixing-people Don't try to fix people (also: fixing, trying to help, being valuable, saving people, advice-giving, leading to a solution)
 - impartial-apathy Don't confuse apathy with impartiality (also: I don't care, false impartiality, apathetic impartiality, disowning wants, above your humanity)
 - losing-yourself-in-others Don't lose yourself in others' emotions (also: merging with emotions, codependent empathy, lost in the other person, empathic merging, over-empathizing)
+- state-seeking Don't seek states (also: state seeking, I want to be awakened, chasing bliss, future living, trying to get back to that state, wanting to feel like that again)
 - view-as-technique Don't use VIEW as a technique (also: weaponized VIEW, VIEW as manipulation, technique without state, communication training gone south)
 - vulnerability-as-control Don't use vulnerability to control (also: vulnerability as manipulation, weaponized vulnerability, keeping score with vulnerability, I don't feel safe as control, guilting with vulnerability, false vulnerability)
 - why-questions Avoid 'why' questions (also: why questions carry judgment, why as attack, don't ask why)
 - wonder-as-strategy Don't use wonder as a strategy (also: strategic questions, probing questions, creepy curiosity, questions to avoid intimacy, performative curiosity)
-- state-seeking Don't seek states (also: state seeking, I want to be awakened, chasing bliss, future living, trying to get back to that state, wanting to feel like that again)
 
 ## Concepts
 
@@ -50,15 +52,15 @@
 - 3-to-5-rule The 3-to-5 Rule (also: three to five rule, boundary testing pattern, upping the ante, 3 to 5 times)
 - believing-the-convenient-lie Believing the Convenient Lie (also: believe a lie that rhymes with truth, self-deception, wanting to believe, duping ourselves)
 - childhood-imprinting Childhood Imprinting (also: theta state programming, 0 to 7 programming, love withdrawal, rejected emotions from childhood, don't be yourself programming)
+- development-as-corkscrew Development as Corkscrew (also: corkscrew development, spiral development, same issues different level, I thought I dealt with my dad issues, before awakening after awakening)
 - impulse-to-should Impulse to Should (also: natural impulse becomes should, should kills motivation, desire hijacked by perfectionism, want becomes obligation)
 - late-stage-reversion Late-Stage Reversion (also: deep reversion before breakthrough, regression before integration, the big hiccup)
 - layered-resistance Layered Resistance (also: meta-resistance, resisting the resistance, resistance in sheep's clothing, compounding resistance, fighting the fight, levels of fight)
 - negative-self-reinforcement Negative Self-Reinforcement (also: AC current pattern, self-punishment loop, kicking yourself in the face, associating the task with pain, negative reward cycle)
-- perfectionism Perfectionism (also: being a perfectionist, critical parent's voice, trying to be perfect, perfection seeking, rigidity from perfectionism, measuring up)
 - pendulation Pendulation (also: back and forth learning, I lost it, two steps forward one step back, the learning went away, regression in learning)
+- perfectionism Perfectionism (also: being a perfectionist, critical parent's voice, trying to be perfect, perfection seeking, rigidity from perfectionism, measuring up)
 - pleasure-capacity Pleasure Capacity (also: capacity for pleasure, pleasure ceiling, nervous system ceiling for enjoyment, too much pleasure, enjoyment overwhelm)
-- development-as-corkscrew Development as Corkscrew (also: corkscrew development, spiral development, same issues different level, I thought I dealt with my dad issues, before awakening after awakening)
-- quit-hope-lose-cycle The Quit-Hope-Lose Cycle (also: I hope this lasts, holding on to change, fear of losing progress, achievement and loss cycle, transformation relapse cycle)
+- quit-hope-lose-cycle The Quit-Hope-Lose Cycle (also: I hope this lasts, holding on to change, fear of losing progress, achievement and loss cycle, transformation relapse cycle, how do I keep it)
 
 ## Moves
 
@@ -70,13 +72,14 @@
 
 - caring-vs-caretaking Caring vs. Caretaking (also: care vs caretake, being in support vs fixing, supporting vs managing emotions, caretaking pattern)
 - empathy-vs-sympathy Empathy vs. Sympathy (also: sympathy is not empathy, above vs beside, helping vs being with, saving vs supporting)
+- empowered-vs-power Empowered vs. Power (also: power vs empowered, empowerment vs power, real power vs control, external power vs internal empowerment)
 - enjoy-over-manage Enjoying vs. Managing (also: enjoy over manage, enjoyment vs management, managing life, self-management trap, stop managing start enjoying, fighting the river)
 - epiphany-vs-transformation Epiphany vs. Transformation (also: epiphany versus transformation, insight vs change, recognition vs shift, aha moment vs real change)
 - fear-vs-excitement Fear vs. Excitement (also: fear is excitement without the breath, excitement is the other side of fear, fear and excitement are the same energy)
 - managing-vs-healing-trauma Managing vs. Healing Trauma (also: managing vs resolving, symptom management vs resolution, managing PTSD vs healing it)
 - past-shame-vs-current-shame Past Shame vs. Current Shame (also: current shame vs past shame, useful shame, shame about the past, self-brutalization, shame that perpetuates patterns)
-- short-term-vs-long-term-partiality Short-Term vs. Long-Term Partiality (also: fear-based partiality vs principled partiality, reactive vs principled goals, kitchen drawer theory)
 - safety-vs-defensiveness Safety vs. Defensiveness (also: unsafe vs defensive, feeling unsafe vs feeling defensive, threat vs rigidity)
+- short-term-vs-long-term-partiality Short-Term vs. Long-Term Partiality (also: fear-based partiality vs principled partiality, reactive vs principled goals, kitchen drawer theory)
 - suffering-vs-pain Suffering vs. Pain (also: suffering is resistance to pain, Buddhist distinction, pain is not suffering, resistance to pain)
 - vulnerability-vs-weakness Vulnerability vs. Weakness (also: feeling weak vs being weak, vulnerability is not weakness, strength of vulnerability)
 - wants-vs-partiality Wants vs. Partiality (also: owning wants, wants are not partiality, owned wants vs hidden agenda, wanting vs pushing)
@@ -84,6 +87,7 @@
 
 ## Principles
 
+- acting-as-if-already-true Acting As If Your Vision Is Already True (also: live the vision now, be the change already, visionary action, as if reality, the world bends toward your truth)
 - awareness-as-change-agent Awareness as Change Agent (also: awareness changes things, attention solves problems, just putting attention on it, awareness not management)
 - community-over-teacher Community Over Teacher (also: community is more important than the teacher, group intelligence, community of practice, wisdom of the group)
 - connection-over-perfection Connection Over Perfection (also: connection vs perfection, prioritize connection, iterate don't perfect, connection produces better results)
@@ -92,7 +96,10 @@
 - emotions-live-in-muscles Emotions Live in Muscles (also: feelings are muscular, body reads emotions, posture reveals emotion, muscular armoring, body language of emotion)
 - enjoyment-as-path Enjoyment as Path (also: enjoy the process, how do I enjoy the things I'm doing, enjoyment is more effective, golden mean of the journey, enjoy yourself)
 - fear-is-about-feeling Fear Is About What You'll Have to Feel (also: fear is about feeling, fear of feeling, the fear is in the emotion, visualize the feared outcome, feel the fear in advance)
+- feared-consequences-rarely-happen Feared Consequences Rarely Happen (8 out of 10) (also: 8 out of 10 times, consequences don't materialize, the feared outcome usually doesn't happen, predicted vs real consequences)
+- helplessness-is-the-gateway Helplessness Is the Gateway to Empowerment (also: feel the helplessness, helplessness makes you more capable, feeling helpless to feel empowered, through helplessness to empowerment)
 - inherent-goodness Inherent Goodness (also: you are inherently good, belief in inherent goodness, people are good, trust in goodness, not a lazy gluttonous asshole)
+- principles-free-you Living By Principles Frees You (also: principles create freedom, principled living, principles as empowerment, elegant structure of principles, personal constitution)
 - process-over-result Process Over Result (also: trust the process, faith in the process, outcome attachment, principled living)
 - right-question-over-right-answer The Right Question Over the Right Answer (also: right question matters more, in the age of Google, the question you're living in, value of the right question)
 - selfishness-is-the-engine-of-unity Selfishness Is the Engine of Unity (also: selfish gene, undeveloped selfishness, deep selfishness becomes compassion, deep wants become generous)
@@ -116,6 +123,7 @@
 ## Frameworks
 
 - conditions-for-transformation Conditions for Transformation (also: conditions for healing, prerequisites for transformation, safety trust vulnerability responsibility, what you need before starting)
+- fear-triangle The Fear Triangle (also: drama triangle, victim savior bully, fight flight freeze triangle, Karpman drama triangle, fear triangle roles)
 - five-principles-of-the-path Five Principles of the Path (also: 5 principles, principles of the path, how to walk the path, approach to transformation, loving accountability embrace intensity iteration curiosity connection)
 - three-stages-of-integration Three Stages of Integration (also: stages of integration, surprise recognition mastery, baby hand metaphor, primary and tertiary reaction)
 - view VIEW (also: VUE, vulnerability impartiality empathy wonder, communication methodology, view state of mind, view framework)
@@ -127,15 +135,18 @@
 - creative-career-story Joe's Creative Career Story (also: stock lending to TV directing, international stock lending story, say yes to what shows up, surrender to enjoyment)
 - hand-in-hand-parenting Learning Empathy Through Children's Tantrums (also: Hand in Hand Parenting, Parenting by Connection, stay listening, temper tantrum empathy)
 - joes-pot-habit Joe's Pot Habit (also: pot smoking story, marijuana habit story, Joe's addiction story, pot habit in his twenties)
+- mandela-empowerment Mandela: Empowerment Through Imprisonment (also: Mandela story, Mandela crushing rocks, empowerment Mandela, Nelson Mandela empowered)
 - mikey-siegel-pitch Mikey Siegel Pitch Meeting (also: investor pitch story, body tension in pitch, naming the shift)
+- pow-optimist The POW Optimist (Stockdale Paradox) (also: Stockdale paradox, Vietnam POW story, optimists died story, POW camp empowerment)
 - spaghetti-tower-experiment The Spaghetti Tower Experiment (also: marshmallow challenge, kindergartners vs CEOs, dried spaghetti experiment, iteration vs perfection experiment)
 - worthlessness-freedom Freedom to Be Worthless (also: meaningless conversation story, need to be valuable, I was so critical to my sense of self that I had to be valuable)
 
 ## Applications
 
+- structure-and-empowerment Structure and Empowerment in Organizations (also: structure creates safety, org design empowerment, decentralized empowerment, structure for empowerment, roles and empowerment)
 - vulnerability-in-the-workplace Vulnerability in the Workplace (also: vulnerability at work, vulnerable leadership, authenticity in business, vulnerability and sales, brand authenticity, vulnerability in sales, vulnerability in leadership)
 
 ---
 
-Absorb Progress: 12 / 480 transcripts
-Last absorbed: 2021-02-13_Embarking on the Journey -- Master Class Series #2 (2026-05-21)
+Absorb Progress: 13 / 480 transcripts
+Last absorbed: 2021-03-26_Empower over Power — Master Class Series #8 (2026-05-21)

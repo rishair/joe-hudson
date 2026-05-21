@@ -1,9 +1,136 @@
 {
+  "fear-triangle": [
+    "i-feel-trapped",
+    "caring-vs-caretaking",
+    "empowered-vs-power",
+    "helplessness-is-the-gateway",
+    "principles-free-you",
+    "shame-drives-behavior",
+    "structure-and-empowerment",
+    "vulnerability-in-the-workplace"
+  ],
+  "helplessness-is-the-gateway": [
+    "i-feel-trapped",
+    "what-if-you-acted-exactly-how-you-want",
+    "quit-hope-lose-cycle",
+    "empowered-vs-power",
+    "fear-is-about-feeling",
+    "shame-drives-behavior",
+    "fear-triangle"
+  ],
+  "fear-is-about-feeling": [
+    "i-feel-trapped",
+    "what-if-you-acted-exactly-how-you-want",
+    "impartiality",
+    "resistance",
+    "perfectionism",
+    "enjoy-over-manage",
+    "short-term-vs-long-term-partiality",
+    "embrace-intensity",
+    "feared-consequences-rarely-happen",
+    "helplessness-is-the-gateway",
+    "vulnerability-protects",
+    "what-we-fear-we-invite"
+  ],
+  "feared-consequences-rarely-happen": [
+    "i-feel-trapped",
+    "what-if-you-acted-exactly-how-you-want",
+    "vulnerability",
+    "empowered-vs-power",
+    "acting-as-if-already-true",
+    "fear-is-about-feeling"
+  ],
+  "empowered-vs-power": [
+    "i-feel-trapped",
+    "what-if-you-acted-exactly-how-you-want",
+    "vulnerability",
+    "quit-hope-lose-cycle",
+    "acting-as-if-already-true",
+    "feared-consequences-rarely-happen",
+    "helplessness-is-the-gateway",
+    "principles-free-you",
+    "process-over-result",
+    "shame-drives-behavior",
+    "fear-triangle",
+    "mandela-empowerment",
+    "structure-and-empowerment",
+    "vulnerability-in-the-workplace"
+  ],
+  "resistance": [
+    "how-much-fight",
+    "expanding-sense-of-self",
+    "feeling-the-unfelt-emotion",
+    "impartiality",
+    "impulse-to-should",
+    "layered-resistance",
+    "pendulation",
+    "perfectionism",
+    "enjoy-over-manage",
+    "fear-vs-excitement",
+    "suffering-vs-pain",
+    "embrace-intensity",
+    "enjoyment-as-path",
+    "fear-is-about-feeling",
+    "process-over-result",
+    "selfishness-is-the-engine-of-unity",
+    "shame-drives-behavior",
+    "joes-pot-habit"
+  ],
+  "embrace-intensity": [
+    "how-much-fight",
+    "resistance",
+    "development-as-corkscrew",
+    "layered-resistance",
+    "negative-self-reinforcement",
+    "fear-vs-excitement",
+    "enjoyment-as-path",
+    "helplessness-is-the-gateway",
+    "five-principles-of-the-path",
+    "joes-pot-habit"
+  ],
+  "i-feel-trapped": [
+    "what-if-you-acted-exactly-how-you-want"
+  ],
+  "wants-over-shoulds": [
+    "what-if-you-acted-exactly-how-you-want",
+    "quit-hope-lose-cycle",
+    "enjoyment-as-path"
+  ],
+  "not-sometimes-right-now": [
+    "what-is-it-without-resistance"
+  ],
+  "feeling-the-unfelt-emotion": [
+    "what-is-it-without-resistance",
+    "container-of-love",
+    "empathy",
+    "familiar-over-safe",
+    "grief-as-gateway-to-self-love",
+    "letting-judgment-in",
+    "resistance",
+    "trauma-mapping",
+    "childhood-imprinting",
+    "negative-self-reinforcement",
+    "pleasure-capacity",
+    "not-sometimes-right-now",
+    "enjoy-over-manage",
+    "fear-vs-excitement",
+    "managing-vs-healing-trauma",
+    "past-shame-vs-current-shame",
+    "suffering-vs-pain",
+    "embrace-intensity",
+    "emotions-live-in-muscles",
+    "fear-is-about-feeling",
+    "helplessness-is-the-gateway",
+    "visualizing-feared-outcomes",
+    "joes-pot-habit",
+    "worthlessness-freedom"
+  ],
   "fixing-people": [
     "dont-evangelize-the-work",
     "impartiality",
     "owning-your-partiality",
     "caring-vs-caretaking",
+    "inherent-goodness",
     "shame-drives-behavior",
     "view"
   ],
@@ -13,24 +140,29 @@
     "impartial-apathy",
     "view-as-technique",
     "empathy",
+    "expanding-sense-of-self",
     "resistance",
     "vulnerability",
     "wonder",
     "owning-your-partiality",
     "caring-vs-caretaking",
+    "enjoy-over-manage",
     "short-term-vs-long-term-partiality",
     "wants-vs-partiality",
+    "awareness-as-change-agent",
+    "connection-over-perfection",
     "fear-is-about-feeling",
+    "inherent-goodness",
     "process-over-result",
     "right-question-over-right-answer",
+    "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
     "what-we-fear-we-invite",
+    "listening-to-impulse",
     "questioning-assumptions",
     "visualizing-feared-outcomes",
     "view",
-    "mikey-siegel-pitch",
-    "connection-over-perfection",
-    "awareness-as-change-agent"
+    "mikey-siegel-pitch"
   ],
   "view": [
     "dont-evangelize-the-work",
@@ -39,11 +171,11 @@
     "vulnerability",
     "wonder",
     "wonder-vs-curiosity",
+    "connection-over-perfection",
     "decisions-are-emotional",
     "process-over-result",
     "how-what-questions",
-    "vulnerability-in-the-workplace",
-    "connection-over-perfection"
+    "vulnerability-in-the-workplace"
   ],
   "how-what-questions": [
     "dont-evangelize-the-work",
@@ -65,33 +197,54 @@
     "believing-the-convenient-lie",
     "childhood-imprinting",
     "owning-your-partiality",
+    "empowered-vs-power",
+    "fear-vs-excitement",
     "past-shame-vs-current-shame",
     "vulnerability-vs-weakness",
     "wants-vs-partiality",
+    "acting-as-if-already-true",
+    "feared-consequences-rarely-happen",
     "vulnerability-is-personal",
     "vulnerability-protects",
     "whats-the-scary-truth",
+    "conditions-for-transformation",
     "view",
     "mikey-siegel-pitch",
-    "vulnerability-in-the-workplace",
-    "five-principles-of-the-path",
-    "conditions-for-transformation"
+    "vulnerability-in-the-workplace"
   ],
   "wants-vs-partiality": [
     "fixing-people",
     "impartial-apathy",
     "impartiality",
     "vulnerability",
-    "owning-your-partiality"
+    "owning-your-partiality",
+    "selfishness-is-the-engine-of-unity"
   ],
   "staying-in-your-body": [
     "losing-yourself-in-others",
     "empathy",
+    "not-sometimes-right-now",
     "emotions-live-in-muscles",
-    "is-this-mine"
+    "is-this-mine",
+    "listening-to-impulse",
+    "conditions-for-transformation"
   ],
   "is-this-mine": [
     "losing-yourself-in-others"
+  ],
+  "pendulation": [
+    "state-seeking",
+    "quit-hope-lose-cycle",
+    "enjoyment-as-path"
+  ],
+  "enjoyment-as-path": [
+    "state-seeking",
+    "development-as-corkscrew",
+    "pendulation",
+    "quit-hope-lose-cycle",
+    "embrace-intensity",
+    "wants-over-shoulds",
+    "five-principles-of-the-path"
   ],
   "trauma-mapping": [
     "view-as-technique",
@@ -105,6 +258,7 @@
   "familiar-over-safe": [
     "view-as-technique",
     "3-to-5-rule",
+    "pleasure-capacity",
     "shame-drives-behavior",
     "what-we-fear-we-invite"
   ],
@@ -117,6 +271,7 @@
     "empathy-vs-sympathy",
     "decisions-are-emotional",
     "staying-in-your-body",
+    "five-principles-of-the-path",
     "view"
   ],
   "wonder": [
@@ -128,8 +283,8 @@
     "right-question-over-right-answer",
     "how-what-questions",
     "questioning-assumptions",
-    "view",
-    "five-principles-of-the-path"
+    "five-principles-of-the-path",
+    "view"
   ],
   "wonder-as-strategy": [
     "view-as-technique",
@@ -146,25 +301,6 @@
     "vulnerability",
     "vulnerability-vs-weakness"
   ],
-  "feeling-the-unfelt-emotion": [
-    "container-of-love",
-    "empathy",
-    "familiar-over-safe",
-    "grief-as-gateway-to-self-love",
-    "letting-judgment-in",
-    "resistance",
-    "trauma-mapping",
-    "childhood-imprinting",
-    "negative-self-reinforcement",
-    "managing-vs-healing-trauma",
-    "past-shame-vs-current-shame",
-    "suffering-vs-pain",
-    "embrace-intensity",
-    "emotions-live-in-muscles",
-    "fear-is-about-feeling",
-    "visualizing-feared-outcomes",
-    "worthlessness-freedom"
-  ],
   "integration": [
     "container-of-love",
     "zen-sickness",
@@ -180,6 +316,7 @@
   "caring-vs-caretaking": [
     "empathy",
     "empathy-vs-sympathy",
+    "fear-triangle",
     "hand-in-hand-parenting",
     "vulnerability-in-the-workplace"
   ],
@@ -187,7 +324,8 @@
     "empathy"
   ],
   "emotions-live-in-muscles": [
-    "empathy"
+    "empathy",
+    "conditions-for-transformation"
   ],
   "decisions-are-emotional": [
     "empathy",
@@ -200,6 +338,10 @@
     "process-over-result",
     "view"
   ],
+  "selfishness-is-the-engine-of-unity": [
+    "expanding-sense-of-self",
+    "wants-over-shoulds"
+  ],
   "container-of-love": [
     "feeling-the-unfelt-emotion",
     "integration",
@@ -209,28 +351,12 @@
     "managing-vs-healing-trauma",
     "trauma-heals-in-relationship"
   ],
-  "resistance": [
-    "feeling-the-unfelt-emotion",
-    "impartiality",
-    "layered-resistance",
-    "suffering-vs-pain",
-    "embrace-intensity",
-    "fear-is-about-feeling",
-    "process-over-result",
-    "shame-drives-behavior",
-    "perfectionism",
-    "connection-over-perfection",
-    "fear-vs-excitement",
-    "awareness-as-change-agent",
-    "impulse-to-should",
-    "five-principles-of-the-path",
-    "conditions-for-transformation",
-    "enjoyment-as-path",
-    "pendulation",
-    "wants-over-shoulds"
-  ],
   "childhood-imprinting": [
-    "feeling-the-unfelt-emotion"
+    "feeling-the-unfelt-emotion",
+    "impulse-to-should",
+    "perfectionism",
+    "pleasure-capacity",
+    "inherent-goodness"
   ],
   "letting-judgment-in": [
     "feeling-the-unfelt-emotion",
@@ -259,18 +385,16 @@
     "impartiality",
     "resistance",
     "negative-self-reinforcement",
+    "perfectionism",
+    "empowered-vs-power",
     "past-shame-vs-current-shame",
     "wants-vs-partiality",
+    "helplessness-is-the-gateway",
+    "inherent-goodness",
+    "wants-over-shoulds",
     "what-we-fear-we-invite",
-    "wants-over-shoulds"
-  ],
-  "fear-is-about-feeling": [
-    "impartiality",
-    "resistance",
-    "short-term-vs-long-term-partiality",
-    "embrace-intensity",
-    "vulnerability-protects",
-    "what-we-fear-we-invite"
+    "fear-triangle",
+    "joes-pot-habit"
   ],
   "visualizing-feared-outcomes": [
     "impartiality",
@@ -285,6 +409,7 @@
   "what-we-fear-we-invite": [
     "impartiality",
     "fear-is-about-feeling",
+    "feared-consequences-rarely-happen",
     "vulnerability-protects"
   ],
   "short-term-vs-long-term-partiality": [
@@ -316,28 +441,45 @@
     "resistance",
     "negative-self-reinforcement",
     "suffering-vs-pain",
-    "process-over-result",
+    "connection-over-perfection",
+    "process-over-result"
+  ],
+  "perfectionism": [
+    "resistance",
+    "impulse-to-should",
     "connection-over-perfection"
   ],
-  "embrace-intensity": [
+  "fear-vs-excitement": [
     "resistance",
-    "layered-resistance",
-    "negative-self-reinforcement",
-    "fear-vs-excitement",
-    "five-principles-of-the-path",
-    "conditions-for-transformation",
-    "enjoyment-as-path",
-    "development-as-corkscrew"
+    "vulnerability"
+  ],
+  "connection-over-perfection": [
+    "resistance",
+    "impulse-to-should",
+    "perfectionism",
+    "awareness-as-change-agent",
+    "view",
+    "spaghetti-tower-experiment"
   ],
   "negative-self-reinforcement": [
     "resistance",
+    "impulse-to-should",
     "layered-resistance",
-    "shame-drives-behavior",
     "perfectionism",
-    "impulse-to-should"
+    "shame-drives-behavior",
+    "joes-pot-habit"
+  ],
+  "enjoy-over-manage": [
+    "resistance",
+    "pleasure-capacity",
+    "inherent-goodness",
+    "process-over-result",
+    "listening-to-impulse",
+    "creative-career-story"
   ],
   "vulnerability-in-the-workplace": [
-    "vulnerability"
+    "vulnerability",
+    "structure-and-empowerment"
   ],
   "vulnerability-vs-weakness": [
     "vulnerability"
@@ -359,24 +501,91 @@
   "wonder-vs-curiosity": [
     "wonder"
   ],
+  "development-as-corkscrew": [
+    "pendulation"
+  ],
+  "impulse-to-should": [
+    "perfectionism"
+  ],
+  "pow-optimist": [
+    "quit-hope-lose-cycle",
+    "empowered-vs-power",
+    "acting-as-if-already-true",
+    "process-over-result"
+  ],
+  "process-over-result": [
+    "quit-hope-lose-cycle",
+    "enjoy-over-manage",
+    "short-term-vs-long-term-partiality",
+    "awareness-as-change-agent",
+    "connection-over-perfection",
+    "enjoyment-as-path",
+    "principles-free-you",
+    "listening-to-impulse",
+    "five-principles-of-the-path",
+    "view",
+    "pow-optimist"
+  ],
   "trauma-heals-in-relationship": [
     "excavating-the-inner-critic-in-group"
   ],
-  "process-over-result": [
-    "short-term-vs-long-term-partiality",
-    "view",
-    "connection-over-perfection",
-    "awareness-as-change-agent",
-    "five-principles-of-the-path",
-    "enjoyment-as-path",
-    "quit-hope-lose-cycle",
-    "state-seeking"
+  "mandela-empowerment": [
+    "empowered-vs-power"
+  ],
+  "acting-as-if-already-true": [
+    "empowered-vs-power",
+    "feared-consequences-rarely-happen",
+    "principles-free-you",
+    "pow-optimist"
+  ],
+  "principles-free-you": [
+    "empowered-vs-power",
+    "acting-as-if-already-true",
+    "process-over-result",
+    "structure-and-empowerment"
+  ],
+  "inherent-goodness": [
+    "enjoy-over-manage"
+  ],
+  "listening-to-impulse": [
+    "enjoy-over-manage",
+    "process-over-result"
+  ],
+  "pleasure-capacity": [
+    "enjoy-over-manage"
+  ],
+  "conditions-for-transformation": [
+    "safety-vs-defensiveness",
+    "five-principles-of-the-path"
+  ],
+  "Wants-Over-Shoulds": [
+    "acting-as-if-already-true"
+  ],
+  "Wants-over-shoulds": [
+    "acting-as-if-already-true"
   ],
   "dont-evangelize-the-work": [
     "community-over-teacher"
   ],
+  "spaghetti-tower-experiment": [
+    "connection-over-perfection"
+  ],
+  "five-principles-of-the-path": [
+    "embrace-intensity",
+    "principles-free-you",
+    "conditions-for-transformation"
+  ],
   "vulnerability-protects": [
     "fear-is-about-feeling"
+  ],
+  "quit-hope-lose-cycle": [
+    "helplessness-is-the-gateway",
+    "pow-optimist"
+  ],
+  "structure-and-empowerment": [
+    "principles-free-you",
+    "fear-triangle",
+    "vulnerability-in-the-workplace"
   ],
   "knowing|knowing-as-opposite-of-wonder": [
     "right-question-over-right-answer"
@@ -388,70 +597,13 @@
     "how-what-questions",
     "view"
   ],
-  "being-heard": [
-    "view"
-  ],
-  "connection-over-perfection": [
-    "perfectionism",
-    "resistance",
-    "impulse-to-should",
-    "awareness-as-change-agent",
-    "spaghetti-tower-experiment",
-    "view"
-  ],
-  "perfectionism": [
-    "connection-over-perfection",
-    "resistance",
-    "impulse-to-should"
-  ],
-  "spaghetti-tower-experiment": [
-    "connection-over-perfection"
-  ],
-  "impulse-to-should": [
-    "perfectionism",
-    "connection-over-perfection"
-  ],
-  "awareness-as-change-agent": [],
-  "fear-vs-excitement": [
-    "resistance",
-    "vulnerability"
-  ],
-  "enjoyment-as-path": [
-    "five-principles-of-the-path",
-    "conditions-for-transformation",
-    "pendulation",
-    "development-as-corkscrew",
-    "wants-over-shoulds",
-    "quit-hope-lose-cycle",
-    "state-seeking"
-  ],
-  "conditions-for-transformation": [
-    "five-principles-of-the-path",
-    "safety-vs-defensiveness"
-  ],
-  "five-principles-of-the-path": [
-    "conditions-for-transformation",
-    "embrace-intensity"
-  ],
-  "pendulation": [
-    "enjoyment-as-path",
-    "development-as-corkscrew",
-    "quit-hope-lose-cycle",
-    "state-seeking"
-  ],
-  "development-as-corkscrew": [
-    "pendulation",
-    "integration"
+  "creative-career-story": [
+    "listening-to-impulse"
   ],
   "safety-vs-defensiveness": [
     "conditions-for-transformation"
   ],
-  "wants-over-shoulds": [
-    "enjoyment-as-path",
-    "quit-hope-lose-cycle"
-  ],
-  "selfishness-is-the-engine-of-unity": [
-    "wants-over-shoulds",
-    "expanding-sense-of-self"
+  "being-heard": [
+    "view"
   ]
 }

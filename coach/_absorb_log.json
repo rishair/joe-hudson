@@ -257,6 +257,42 @@
         "familiar-over-safe",
         "childhood-imprinting"
       ]
+    },
+    {
+      "folder": "2021-03-26_Empower over Power \u2014 Master Class Series #8",
+      "status": "complete",
+      "claimed_at": "2026-05-21T17:33:28Z",
+      "articles_created": [
+        "empowered-vs-power",
+        "fear-triangle",
+        "helplessness-is-the-gateway",
+        "acting-as-if-already-true",
+        "principles-free-you",
+        "feared-consequences-rarely-happen",
+        "mandela-empowerment",
+        "pow-optimist",
+        "structure-and-empowerment",
+        "i-feel-trapped",
+        "what-if-you-acted-exactly-how-you-want"
+      ],
+      "articles_updated": [
+        "vulnerability",
+        "quit-hope-lose-cycle",
+        "process-over-result",
+        "fear-is-about-feeling",
+        "shame-drives-behavior",
+        "vulnerability-in-the-workplace",
+        "caring-vs-caretaking"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T17:44:51Z"
+    },
+    {
+      "folder": "2021-02-13_The Art of Accomplishment \u2014 Master Class Series #1",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T17:46:19Z",
+      "articles_created": [],
+      "articles_updated": []
     }
   ]
 }

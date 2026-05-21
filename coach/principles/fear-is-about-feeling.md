@@ -3,9 +3,9 @@ type: principle
 id: fear-is-about-feeling
 title: "Fear Is About What You'll Have to Feel"
 aliases: ["fear is about feeling", "fear of feeling", "the fear is in the emotion", "visualize the feared outcome", "feel the fear in advance"]
-tags: ["fear", "emotion", "impartiality", "Stoic", "visualization"]
-related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance"]
+tags: ["fear", "emotion", "impartiality", "Stoic", "visualization", "helplessness"]
+related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in", "helplessness-is-the-gateway", "feared-consequences-rarely-happen"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8"]
 ---
 
 # Fear Is About What You'll Have to Feel
@@ -53,7 +53,16 @@ Fear of outcomes is what makes [[impartiality]] hard. The person gripping a conv
 
 "The one that's most commonly not seen is what's the feeling I'm resisting? What's the thing I don't wanna feel? And go and feel it." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
 
+## Helplessness as the Substrate Feeling
+
+In many situations, the feeling the person is avoiding is helplessness. The fear of losing a job, a relationship, a status is often fear of the helplessness that would arrive in the wake of that loss. Underneath the helplessness is usually a story of shame or blame; underneath that story, the helplessness itself.
+
+This is why moving toward the helplessness ("what would you feel?") often dissolves the fear faster than any strategic problem-solving. See [[helplessness-is-the-gateway]].
+
+The 8-out-of-10 pattern is the external counterpart of this internal release: once the feared feeling has moved through, the action becomes available, and the feared outcome usually does not arrive. See [[feared-consequences-rarely-happen]].
+
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
+- 2021-03-26_Empower over Power -- Master Class Series #8
