@@ -264,6 +264,7 @@
     "honor-the-patterns-intent",
     "inherent-goodness",
     "trace-emotion-to-its-first-felt",
+    "stages-of-emotional-development",
     "joes-abandonment-mapping",
     "joes-crying-story",
     "joes-pleasing-dad-money-story",
@@ -386,9 +387,11 @@
   ],
   "engineering-heartbreak-to-avoid-heartbreak": [
     "i-keep-crashing-and-burning",
+    "familiar-over-safe",
     "projections",
     "trauma-mapping",
-    "rehearsing-conversations"
+    "rehearsing-conversations",
+    "embrace-intensity"
   ],
   "trauma-mapping": [
     "i-keep-crashing-and-burning",
@@ -407,7 +410,9 @@
     "believing-the-convenient-lie",
     "complementary-trauma-surfaces",
     "negative-bias-of-trauma-imprinting",
+    "embrace-intensity",
     "what-we-fear-we-invite",
+    "electric-fence-with-dog",
     "joes-abandonment-mapping"
   ],
   "what-we-fear-we-invite": [
@@ -415,6 +420,7 @@
     "im-afraid-of-stagnating",
     "engineering-heartbreak-to-avoid-heartbreak",
     "impartiality",
+    "kinked-emotions",
     "trauma-mapping",
     "fear-is-about-feeling",
     "feared-consequences-rarely-happen",
@@ -422,6 +428,7 @@
     "victim-stance-invites-abuse",
     "voice-creates-what-it-fears",
     "vulnerability-protects",
+    "electric-fence-with-dog",
     "joes-abandonment-mapping",
     "target-fixation"
   ],
@@ -476,11 +483,14 @@
   ],
   "manufacturing-the-feeling": [
     "i-keep-crashing-and-burning",
-    "desire-for-resolution"
+    "desire-for-resolution",
+    "trying-to-get-rid-of-the-emotion",
+    "embracing-vs-creating-intensity"
   ],
   "desire-for-resolution": [
     "i-keep-crashing-and-burning",
     "manufacturing-the-feeling",
+    "trying-to-get-rid-of-the-emotion",
     "how-is-that-not-here-right-now",
     "what-if-there-is-no-finish-line",
     "no-finish-line"
@@ -492,11 +502,15 @@
   ],
   "feeling-the-unfelt-emotion": [
     "i-keep-crashing-and-burning",
+    "ive-lost-my-joy",
+    "can-you-look-forward-to-feeling-it",
     "what-is-it-without-resistance",
     "what-would-happen-if-you-stopped",
     "dont-make-family-dynamics-the-story",
+    "dont-name-emotion-to-avoid-feeling",
     "container-of-love",
     "defense",
+    "emotional-fluidity",
     "emotions-as-road-signs",
     "empathy",
     "engineering-heartbreak-to-avoid-heartbreak",
@@ -504,6 +518,7 @@
     "grief-as-gateway-to-self-love",
     "heartbreak-as-capacity-expansion",
     "i-cant-trust-my-thoughts-right-now",
+    "joy-as-matriarch",
     "kinked-emotions",
     "letting-judgment-in",
     "poverty-mentality",
@@ -511,6 +526,7 @@
     "resistance",
     "trauma-mapping",
     "unfelt-emotion-leaks",
+    "wisdom-of-each-emotion",
     "zen-sickness",
     "binary-thinking-signals-fear",
     "childhood-imprinting",
@@ -525,6 +541,7 @@
     "not-sometimes-right-now",
     "treat-yourself-as-actor-of-emotion",
     "welcoming-the-others-emotion",
+    "embrace-vs-brace",
     "enjoy-over-manage",
     "fear-vs-anxiety",
     "fear-vs-excitement",
@@ -533,14 +550,17 @@
     "managing-vs-healing-trauma",
     "past-shame-vs-current-shame",
     "suffering-vs-pain",
+    "approach-the-pink-elephant",
     "choosing-the-projection-that-serves",
     "dont-do-emotion-at-people",
     "embrace-intensity",
+    "embracing-intensity-as-leading-indicator",
     "emotions-live-in-muscles",
     "falling-in-love-with-projections",
     "fear-is-about-feeling",
     "helplessness-is-the-gateway",
     "honor-the-patterns-intent",
+    "negative-emotions-precede-positive",
     "owning-the-want-dissolves-it",
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
@@ -550,6 +570,7 @@
     "visualizing-feared-outcomes",
     "whats-looking-out-behind-my-eyes",
     "stages-of-emotional-development",
+    "electric-fence-with-dog",
     "joes-abandonment-mapping",
     "joes-crying-story",
     "joes-pot-habit",
@@ -729,6 +750,7 @@
     "money-as-surrogate",
     "poverty-mentality",
     "untruth-in-every-thought",
+    "wisdom-of-each-emotion",
     "impulse-to-should",
     "rehearsing-conversations",
     "find-the-want-behind-the-should",
@@ -865,6 +887,8 @@
   "fear-as-signal-of-care": [
     "im-not-an-anxious-person",
     "dont-step-on-the-signal",
+    "emotional-fluidity",
+    "wisdom-of-each-emotion",
     "disassociation-as-numbness-layer",
     "fear-vs-anxiety",
     "fear-vs-excitement",
@@ -902,7 +926,8 @@
   ],
   "let-your-body-shake-it-out": [
     "im-not-an-anxious-person",
-    "feeling-the-unfelt-emotion"
+    "feeling-the-unfelt-emotion",
+    "observe-vs-move-emotion"
   ],
   "vulnerability": [
     "im-not-an-anxious-person",
@@ -954,7 +979,109 @@
     "nervous-system-recovery-after-stress"
   ],
   "my-inner-critic-wont-stop": [
-    "im-not-an-anxious-person"
+    "im-not-an-anxious-person",
+    "trying-to-get-rid-of-the-emotion"
+  ],
+  "joy-as-matriarch": [
+    "ive-lost-my-joy",
+    "can-you-look-forward-to-feeling-it",
+    "emotional-fluidity",
+    "wisdom-of-each-emotion",
+    "embrace-vs-brace",
+    "embrace-intensity",
+    "negative-emotions-precede-positive",
+    "stages-of-emotional-development",
+    "cafe-emotional-stigma"
+  ],
+  "stages-of-emotional-development": [
+    "ive-lost-my-joy",
+    "can-you-look-forward-to-feeling-it",
+    "feeling-the-unfelt-emotion",
+    "joy-as-matriarch",
+    "wisdom-of-each-emotion",
+    "feel-over-figure",
+    "observe-vs-move-emotion",
+    "repression-vs-management",
+    "epiphany-becomes-rut",
+    "negative-emotions-precede-positive",
+    "daily-emotional-yoga",
+    "cafe-emotional-stigma",
+    "joes-crying-story"
+  ],
+  "repression-vs-management": [
+    "ive-lost-my-joy",
+    "trying-to-get-rid-of-the-emotion",
+    "dont-name-emotion-to-avoid-feeling",
+    "feeling-the-unfelt-emotion",
+    "wisdom-of-each-emotion",
+    "observe-vs-move-emotion",
+    "stages-of-emotional-development",
+    "cafe-emotional-stigma"
+  ],
+  "pleasure-capacity": [
+    "ive-lost-my-joy",
+    "joy-as-matriarch",
+    "embrace-vs-brace",
+    "enjoy-over-manage",
+    "decisions-are-emotional",
+    "negative-emotions-precede-positive"
+  ],
+  "impartiality": [
+    "ive-lost-my-joy",
+    "dont-evangelize-the-work",
+    "fixing-people",
+    "impartial-apathy",
+    "view-as-technique",
+    "empathy",
+    "expanding-sense-of-self",
+    "resistance",
+    "vulnerability",
+    "wonder",
+    "owning-your-partiality",
+    "treat-yourself-as-actor-of-emotion",
+    "boundary-with-vs-boundary-against",
+    "caring-vs-caretaking",
+    "enjoy-over-manage",
+    "judgment-vs-discernment",
+    "short-term-vs-long-term-partiality",
+    "wants-vs-partiality",
+    "awareness-as-change-agent",
+    "connection-over-perfection",
+    "fear-is-about-feeling",
+    "follow-the-demand",
+    "inherent-goodness",
+    "process-over-result",
+    "right-question-over-right-answer",
+    "selfishness-is-the-engine-of-unity",
+    "shame-drives-behavior",
+    "what-we-fear-we-invite",
+    "listening-to-impulse",
+    "questioning-assumptions",
+    "visualizing-feared-outcomes",
+    "view",
+    "mikey-siegel-pitch"
+  ],
+  "observe-vs-move-emotion": [
+    "ive-lost-my-joy",
+    "dont-name-emotion-to-avoid-feeling",
+    "repression-vs-management",
+    "stages-of-emotional-development"
+  ],
+  "negative-emotions-precede-positive": [
+    "ive-lost-my-joy",
+    "joy-as-matriarch",
+    "stages-of-emotional-development",
+    "cafe-emotional-stigma"
+  ],
+  "trying-to-get-rid-of-the-emotion": [
+    "ive-lost-my-joy",
+    "can-you-look-forward-to-feeling-it",
+    "joy-as-matriarch",
+    "stages-of-emotional-development"
+  ],
+  "nervous-system-recovery-after-stress": [
+    "ive-lost-my-joy",
+    "let-your-body-shake-it-out"
   ],
   "just-business-vs-impersonal": [
     "money-is-bad",
@@ -1126,15 +1253,24 @@
   "embrace-intensity": [
     "how-much-fight",
     "rehearsing-how-to-say-it",
+    "are-you-bracing-or-embracing",
+    "emotional-fluidity",
     "heartbreak-as-capacity-expansion",
     "resistance",
+    "sensitivity-as-byproduct",
     "development-as-corkscrew",
     "layered-resistance",
     "negative-self-reinforcement",
+    "embrace-vs-brace",
+    "embracing-vs-creating-intensity",
     "fear-vs-excitement",
+    "approach-the-pink-elephant",
+    "decisions-are-emotional",
+    "embracing-intensity-as-leading-indicator",
     "enjoyment-as-path",
     "helplessness-is-the-gateway",
     "five-principles-of-the-path",
+    "electric-fence-with-dog",
     "joes-pot-habit"
   ],
   "undoing-not-doing": [
@@ -1144,6 +1280,7 @@
     "no-finish-line",
     "self-realization",
     "quit-hope-lose-cycle",
+    "embrace-vs-brace",
     "trying-vs-doing",
     "nature-improves-itself",
     "hands-together-exercise",
@@ -1156,6 +1293,37 @@
   "i-caretake-people": [
     "rehearsing-how-to-say-it",
     "you-think-they-cant-handle-it"
+  ],
+  "can-you-look-forward-to-feeling-it": [
+    "trying-to-get-rid-of-the-emotion",
+    "joy-as-matriarch",
+    "stages-of-emotional-development"
+  ],
+  "ive-lost-my-joy": [
+    "trying-to-get-rid-of-the-emotion",
+    "joy-as-matriarch"
+  ],
+  "embrace-vs-brace": [
+    "are-you-bracing-or-embracing",
+    "embracing-vs-creating-intensity",
+    "approach-the-pink-elephant",
+    "embrace-intensity",
+    "embracing-intensity-as-leading-indicator"
+  ],
+  "daily-emotional-yoga": [
+    "can-you-look-forward-to-feeling-it",
+    "dont-name-emotion-to-avoid-feeling",
+    "emotions-as-road-signs",
+    "feeling-the-unfelt-emotion",
+    "observe-vs-move-emotion",
+    "repression-vs-management",
+    "emotions-live-in-muscles",
+    "negative-emotions-precede-positive",
+    "feeling-the-want-as-emotion",
+    "let-your-body-shake-it-out",
+    "stages-of-emotional-development",
+    "cafe-emotional-stigma",
+    "joes-crying-story"
   ],
   "listening-to-impulse": [
     "how-do-you-want-to-be",
@@ -1236,40 +1404,6 @@
     "voice-creates-what-it-fears",
     "visualizing-feared-outcomes"
   ],
-  "impartiality": [
-    "dont-evangelize-the-work",
-    "fixing-people",
-    "impartial-apathy",
-    "view-as-technique",
-    "empathy",
-    "expanding-sense-of-self",
-    "resistance",
-    "vulnerability",
-    "wonder",
-    "owning-your-partiality",
-    "treat-yourself-as-actor-of-emotion",
-    "boundary-with-vs-boundary-against",
-    "caring-vs-caretaking",
-    "enjoy-over-manage",
-    "judgment-vs-discernment",
-    "short-term-vs-long-term-partiality",
-    "wants-vs-partiality",
-    "awareness-as-change-agent",
-    "connection-over-perfection",
-    "fear-is-about-feeling",
-    "follow-the-demand",
-    "inherent-goodness",
-    "process-over-result",
-    "right-question-over-right-answer",
-    "selfishness-is-the-engine-of-unity",
-    "shame-drives-behavior",
-    "what-we-fear-we-invite",
-    "listening-to-impulse",
-    "questioning-assumptions",
-    "visualizing-feared-outcomes",
-    "view",
-    "mikey-siegel-pitch"
-  ],
   "view": [
     "dont-evangelize-the-work",
     "dont-fight-the-voice",
@@ -1339,6 +1473,46 @@
     "complementary-trauma-surfaces",
     "trace-emotion-to-its-first-felt"
   ],
+  "kinked-emotions": [
+    "dont-name-emotion-to-avoid-feeling",
+    "emotional-fluidity",
+    "emotions-as-road-signs",
+    "feeling-the-unfelt-emotion",
+    "joy-as-matriarch",
+    "resistance",
+    "unfelt-emotion-leaks",
+    "wisdom-of-each-emotion",
+    "treat-yourself-as-actor-of-emotion",
+    "embrace-vs-brace",
+    "fear-vs-excitement",
+    "emotions-live-in-muscles",
+    "negative-emotions-precede-positive",
+    "what-we-fear-we-invite",
+    "daily-emotional-yoga",
+    "stages-of-emotional-development",
+    "cafe-emotional-stigma",
+    "electric-fence-with-dog"
+  ],
+  "epiphany-becomes-rut": [
+    "dont-name-emotion-to-avoid-feeling",
+    "no-finish-line",
+    "feel-over-figure",
+    "good-and-corruption-cycle",
+    "stages-of-emotional-development"
+  ],
+  "emotions-live-in-muscles": [
+    "dont-name-emotion-to-avoid-feeling",
+    "empathy",
+    "feeling-the-unfelt-emotion",
+    "joy-as-matriarch",
+    "kinked-emotions",
+    "embrace-vs-brace",
+    "observe-vs-move-emotion",
+    "repression-vs-management",
+    "daily-emotional-yoga",
+    "conditions-for-transformation",
+    "stages-of-emotional-development"
+  ],
   "im-not-an-anxious-person": [
     "dont-step-on-the-signal",
     "fear-as-signal-of-care",
@@ -1350,7 +1524,8 @@
     "dont-step-on-the-signal",
     "kinked-emotions",
     "resistance",
-    "vulnerability"
+    "vulnerability",
+    "wisdom-of-each-emotion"
   ],
   "wants-vs-partiality": [
     "fixing-people",
@@ -1379,6 +1554,7 @@
     "loving-to-transform",
     "love-as-deep-welcoming",
     "loving-all-parts",
+    "embrace-vs-brace",
     "acceptance-as-change-strategy",
     "falling-in-love-with-projections",
     "honor-the-patterns-intent"
@@ -1503,6 +1679,7 @@
     "view-as-technique",
     "being-heard",
     "impartiality",
+    "sensitivity-as-byproduct",
     "vulnerability",
     "boundary-with-vs-boundary-against",
     "caring-vs-caretaking",
@@ -1611,23 +1788,19 @@
     "defense-vs-love",
     "conditions-for-transformation"
   ],
-  "kinked-emotions": [
-    "emotions-as-road-signs",
-    "feeling-the-unfelt-emotion",
-    "resistance",
-    "unfelt-emotion-leaks",
-    "treat-yourself-as-actor-of-emotion",
-    "fear-vs-excitement",
-    "emotions-live-in-muscles",
-    "daily-emotional-yoga",
-    "stages-of-emotional-development"
+  "wisdom-of-each-emotion": [
+    "emotional-fluidity",
+    "fear-as-signal-of-care"
   ],
   "decisions-are-emotional": [
     "emotions-as-road-signs",
     "empathy",
+    "sensitivity-as-byproduct",
     "three-signals-of-unfelt-emotion",
     "epiphany-vs-transformation",
-    "feel-over-figure"
+    "feel-over-figure",
+    "embrace-intensity",
+    "stages-of-emotional-development"
   ],
   "feel-over-figure": [
     "emotions-as-road-signs",
@@ -1639,29 +1812,13 @@
     "three-signals-of-unfelt-emotion",
     "treat-yourself-as-actor-of-emotion",
     "judgment-vs-discernment",
+    "approach-the-pink-elephant",
     "decisions-are-emotional",
     "dont-do-emotion-at-people",
     "daily-emotional-yoga"
   ],
-  "daily-emotional-yoga": [
-    "emotions-as-road-signs",
-    "feeling-the-unfelt-emotion",
-    "emotions-live-in-muscles",
-    "feeling-the-want-as-emotion",
-    "let-your-body-shake-it-out",
-    "stages-of-emotional-development",
-    "joes-crying-story"
-  ],
   "empathy-vs-sympathy": [
     "empathy"
-  ],
-  "emotions-live-in-muscles": [
-    "empathy",
-    "feeling-the-unfelt-emotion",
-    "kinked-emotions",
-    "daily-emotional-yoga",
-    "conditions-for-transformation",
-    "stages-of-emotional-development"
   ],
   "joes-abandonment-mapping": [
     "engineering-heartbreak-to-avoid-heartbreak",
@@ -1682,13 +1839,6 @@
   "treat-yourself-as-actor-of-emotion": [
     "feeling-the-unfelt-emotion",
     "chase-it-around-the-room"
-  ],
-  "stages-of-emotional-development": [
-    "feeling-the-unfelt-emotion",
-    "feel-over-figure",
-    "epiphany-becomes-rut",
-    "daily-emotional-yoga",
-    "joes-crying-story"
   ],
   "grief-as-gateway-to-self-love": [
     "feeling-the-unfelt-emotion",
@@ -1757,7 +1907,14 @@
   "epiphany-vs-transformation": [
     "integration",
     "zen-sickness",
-    "decisions-are-emotional"
+    "decisions-are-emotional",
+    "embracing-intensity-as-leading-indicator"
+  ],
+  "emotional-fluidity": [
+    "joy-as-matriarch",
+    "sensitivity-as-byproduct",
+    "embrace-vs-brace",
+    "embrace-intensity"
   ],
   "heartbreak-as-capacity-expansion": [
     "letting-judgment-in",
@@ -1807,12 +1964,6 @@
     "enjoyment-as-surrender",
     "money-must-flow",
     "money-domain"
-  ],
-  "epiphany-becomes-rut": [
-    "no-finish-line",
-    "feel-over-figure",
-    "good-and-corruption-cycle",
-    "stages-of-emotional-development"
   ],
   "process-over-result": [
     "no-finish-line",
@@ -1933,6 +2084,11 @@
     "vulnerability",
     "whats-the-scary-truth"
   ],
+  "emotions-as-road-signs": [
+    "wisdom-of-each-emotion",
+    "zen-sickness",
+    "repression-vs-management"
+  ],
   "questioning-assumptions": [
     "wonder"
   ],
@@ -1941,9 +2097,6 @@
   ],
   "wonder-vs-curiosity": [
     "wonder"
-  ],
-  "emotions-as-road-signs": [
-    "zen-sickness"
   ],
   "dont-make-family-dynamics-the-story": [
     "childhood-imprinting"
@@ -1959,7 +2112,8 @@
   "development-as-corkscrew": [
     "pendulation",
     "caring-vs-caretaking",
-    "epiphany-becomes-rut"
+    "epiphany-becomes-rut",
+    "stages-of-emotional-development"
   ],
   "impulse-to-should": [
     "perfectionism",
@@ -1981,6 +2135,15 @@
     "just-business-vs-impersonal",
     "money-domain"
   ],
+  "are-you-bracing-or-embracing": [
+    "embrace-vs-brace",
+    "embrace-intensity",
+    "embracing-intensity-as-leading-indicator"
+  ],
+  "embracing-vs-creating-intensity": [
+    "embrace-vs-brace",
+    "embrace-intensity"
+  ],
   "acting-as-if-already-true": [
     "empowered-vs-power",
     "intention-vs-goal",
@@ -1995,9 +2158,6 @@
     "process-over-result",
     "wanting-itself-not-what-you-want",
     "structure-and-empowerment"
-  ],
-  "pleasure-capacity": [
-    "enjoy-over-manage"
   ],
   "joes-hacky-sack": [
     "improvement-vs-authenticity",
@@ -2015,6 +2175,10 @@
   ],
   "people-pleasing": [
     "love-vs-nice"
+  ],
+  "joes-crying-story": [
+    "observe-vs-move-emotion",
+    "daily-emotional-yoga"
   ],
   "constraints-increase-creativity": [
     "resources-vs-resourcefulness",
@@ -2064,6 +2228,21 @@
   "butchers-blade": [
     "efficiency-as-enjoyment"
   ],
+  "approach-the-pink-elephant": [
+    "embrace-intensity"
+  ],
+  "sensitivity-as-byproduct": [
+    "embrace-intensity"
+  ],
+  "embracing-intensity-as-leading-indicator": [
+    "embrace-intensity"
+  ],
+  "electric-fence-with-dog": [
+    "embrace-intensity"
+  ],
+  "natural dissolution of stuck patterns": [
+    "embrace-intensity"
+  ],
   "vulnerability-protects": [
     "fear-is-about-feeling"
   ],
@@ -2091,18 +2270,15 @@
   "target-fixation": [
     "what-we-fear-we-invite"
   ],
-  "joes-crying-story": [
-    "daily-emotional-yoga"
-  ],
   "why-questions": [
     "how-what-questions",
     "view"
   ],
-  "nervous-system-recovery-after-stress": [
-    "let-your-body-shake-it-out"
-  ],
   "creative-career-story": [
     "listening-to-impulse"
+  ],
+  "dont-name-emotion-to-avoid-feeling": [
+    "stages-of-emotional-development"
   ],
   "being-heard": [
     "view"

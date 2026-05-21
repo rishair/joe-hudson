@@ -4,8 +4,8 @@ id: decisions-are-emotional
 title: "Decisions Are Emotional"
 aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
-related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2"]
 ---
 
 # Decisions Are Emotional
@@ -49,6 +49,32 @@ Gödel showed that all logical systems are either incomplete or rest on a postul
 "It's not because their rationale is good or bad, it's because they have different postulates behind their rationale." -- Joe Hudson, Feel over Figure
 
 This is also why [[judgment-vs-discernment]] matters in decision-making. Judgments are decisions made through the lens of an unfelt emotion. Discernment is clean reading of the data.
+
+## The Key Is Willingness to Feel Any State
+
+The practical formulation: great decision-making is not logical thinking through the options. It is not "being non-emotional." It is the willingness to feel any emotional state.
+
+"The key to great decision-making isn't logically thinking it through or being non-emotional. It's actually being completely willing to feel any emotional state." -- Joe Hudson, Embracing Intensity
+
+This is why [[embrace-intensity]] connects to decision-making directly. A person willing to feel any state makes decisions for what they actually want, not for what they will not have to feel. The avoidance of feeling drops out as a deciding factor, which leaves the actual decision criteria visible.
+
+## The Fear of Positive Feelings Distorts Decisions Too
+
+Most discussion of emotional-decision distortion focuses on avoidance of negative feelings: fear of failure, fear of shame, fear of being unloved. These are real distorters.
+
+There is also a less obvious distorter: avoidance of positive feelings. The fear that success would be overwhelming, that joy would be taken away, that being seen accomplishing something would be too much. People avoid these as much as they avoid the negative ones.
+
+"You're more commonly scared to take a risk because that much, the joy of success would be overwhelming to you and you'd feel like it would be taken away from you, so you avoid that feeling of accomplishment, which seems antithetical to people, but it happens all the time." -- Joe Hudson, Embracing Intensity
+
+This is counterintuitive and easy to miss. A person who is making cautious or self-undermining decisions may not be avoiding failure; they may be avoiding success. The asymmetry matters because the fix is different. If the avoidance is of failure, the work is to make the fear of failure feelable. If the avoidance is of success, the work is to make the experience of accomplishment feelable. The same principle (willingness to feel) applies in both directions. See [[pleasure-capacity]].
+
+## The Asymmetry of Negative vs. Positive Reward
+
+Behaviorally, the avoidance of negative feelings shapes decisions more than the pursuit of positive ones, even though positive reward produces faster behavior change.
+
+"That it's the avoidance of negative feelings that is more powerful in the way that we make decisions than the positive reward. Even though positive reward will change behavior quicker, if you look at the way people act, it's like trying to avoid negative feelings is actually more powerful." -- Joe Hudson, Embracing Intensity
+
+This is why moving toward unfelt negative emotions (rather than toward more positive feelings) tends to unlock more decisional clarity. The constraint was on the negative side. Loosening it produces more change than adding positive on the other side.
 
 ## Transformation Changes Decisions
 

@@ -2,10 +2,10 @@
 type: concept
 id: kinked-emotions
 title: "Kinked Emotions (The Garden Hose)"
-aliases: ["garden hose metaphor", "kinks in the garden hose", "constricted emotion", "anger as garden hose", "the kinked emotion", "emotion under pressure"]
+aliases: ["garden hose metaphor", "kinks in the garden hose", "constricted emotion", "anger as garden hose", "the kinked emotion", "emotion under pressure", "what people call the emotion is the kink"]
 tags: ["emotions", "resistance", "anger", "metaphor", "core mechanism"]
-related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement", "stages-of-emotional-development", "what-we-fear-we-invite"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development"]
 ---
 
 # Kinked Emotions (The Garden Hose)
@@ -50,6 +50,34 @@ The misconception people hold about each emotion comes from their experience of 
 
 "When you're resisting anger, you do destroy shit. And when you are resisting sadness, it does last forever. It looks like depression. And when you're resisting fear, then you're anxious all the time and you are frozen." -- Joe Hudson, Feel over Figure
 
+The presentation people see in the world is mostly the kinked version. This is the source of nearly all popular fear of emotion.
+
+"Most of the emotions that are out there in the world are the way the emotion presents if it's resisted. So people don't want to feel certain emotions because, for good reason, because they hurt, right? But what you find out through this process is it's not the emotion that hurts, it's the resistance to feeling the emotion that hurts." -- Joe Hudson, Stages of Emotional Development
+
+A useful image: it is not going to the bathroom that hurts; it is resisting going to the bathroom that hurts. The clogging of the pipe produces the pain. The unclogging restores ease.
+
+## The Stories About Each Kinked Emotion
+
+Each emotion produces a specific story when it is resisted, and the story keeps the resistance in place. The stories are accurate about the kinked version and wrong about the actual emotion.
+
+- **Sadness will last forever.** If you have never allowed sadness, the held-back form behaves like depression, which does seem endless. The actual flow of sadness, allowed, moves through.
+- **Anger will destroy everything.** Held-back anger explodes when it leaks. The actual flow of anger is clear and brief.
+- **Fear will cripple you, you'll never get anything done.** Held-back fear becomes chronic anxiety that paralyzes. The actual flow of fear sharpens attention.
+
+"If we haven't allowed ourselves to be sad, then the story is sadness will last forever. And if we haven't allowed ourselves to be angry, the story is that anger will destroy everything. And if we haven't allowed ourselves to be fear, the story is if we allow the fear, then we are going to be crippled by it and we'll never be able to get anything done. And obviously when we do, when we feel those things, none of that shit happens." -- Joe Hudson, Stages of Emotional Development
+
+The trap: the story keeps the person from feeling the emotion, the unfelt emotion produces the kinked version, the kinked version confirms the story. The loop closes. The only break is to feel the emotion despite the story, at which point the actual flow contradicts the story. See [[what-we-fear-we-invite]].
+
+## A Subtler Truth Inside the Stories
+
+There is a kernel of accuracy in each story, viewed at the right level. Allowing anger fully does destroy something -- not other people, but the hard-edged sense of self that maintains separation. As anger becomes fluid and stops being personal, the person becomes less the distinguished bounded individual and more aware of unity with everything. Something does dissolve.
+
+"If you allow anger to fully move through you, then there is a way it destroys everything, particularly yourself. Meaning, being angry at people when it's repressed is a way that you create separation... And when anger is fluid and you see that it's not about them or you, and there's no stories, and it's not personal, it's just something that moves through you, then life becomes impersonal. And therefore you are less that distinguished, hard-edged human." -- Joe Hudson, Stages of Emotional Development
+
+Similarly, allowing fear fully does make a person less capable in one specific sense -- less capable of moving from individual will. They become more available to be moved by something larger, more aware of being breathed rather than breathing. The story "fear will make me less capable" is accurate about a kind of capability the person was attached to.
+
+The stories are sensing something real and describing it awkwardly. The work is not to dismiss the stories but to see what they are pointing at and to discover that what is on the other side of the feared dissolution is not the catastrophe the story predicted.
+
 ## What You Are Overtaken By
 
 People say they are overtaken by their emotions. They are not. They are overtaken by the resistance to the emotions. The kinks are the resistance.
@@ -84,3 +112,4 @@ Concrete, accessible. The garden hose is a friendly image, not a clinical metaph
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-09-24_Stages of Emotional Development

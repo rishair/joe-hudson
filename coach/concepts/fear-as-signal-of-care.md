@@ -4,8 +4,8 @@ id: fear-as-signal-of-care
 title: "Fear as a Signal of What You Care About"
 aliases: ["fear shows you what you care about", "fear points at what matters", "fear as information", "fear as compass", "fear tells you what threatens what you love", "the signal of fear", "fear isn't go or no-go", "fear shows what to look at"]
 tags: ["fear", "signal", "values", "needs", "discernment", "information"]
-related: ["fear-is-about-feeling", "fear-vs-anxiety", "disassociation-as-numbness-layer", "dont-step-on-the-signal", "the-want", "vulnerability", "feeling-the-unfelt-emotion", "feel-over-figure"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+related: ["fear-is-about-feeling", "fear-vs-anxiety", "disassociation-as-numbness-layer", "dont-step-on-the-signal", "the-want", "vulnerability", "feeling-the-unfelt-emotion", "feel-over-figure", "wisdom-of-each-emotion"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development"]
 ---
 
 # Fear as a Signal of What You Care About
@@ -53,6 +53,12 @@ The need is often something obvious in retrospect -- adequate resources, clear e
 "This generalized anxiety that they have is perpetuated because they're not getting their needs met and they're not seeing the signal of their anxiety as, 'oh, I have needs here that aren't being met that I can ask for.'" -- Joe Hudson, Welcoming Fear
 
 The remedy is rarely the elimination of the fear. The remedy is the ask. Once the need is named and either asked for or grieved, the fear quiets because its information has been received.
+
+A related formulation: fear often signals that the person is taking care of others before themselves -- not putting on their own oxygen mask first. The fear is the system's escalation against the chronic self-neglect.
+
+"Fear has a way of telling us that there are ways that we're not asking for what we want, that we are most likely taking care of other people rather than putting on our own oxygen mask first." -- Joe Hudson, Stages of Emotional Development
+
+See [[wisdom-of-each-emotion]] for the parallel readings of anger and sadness.
 
 ## In Practice
 

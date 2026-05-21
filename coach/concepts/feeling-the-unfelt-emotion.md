@@ -4,8 +4,8 @@ id: feeling-the-unfelt-emotion
 title: "Feeling the Unfelt Emotion"
 aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling", "falling in love with the emotion"]
 tags: ["trauma", "healing", "emotions", "core mechanism"]
-related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "feel-over-figure", "unfelt-emotion-leaks", "three-signals-of-unfelt-emotion", "disassociation-as-numbness-layer", "fear-vs-anxiety", "let-your-body-shake-it-out"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "feel-over-figure", "unfelt-emotion-leaks", "three-signals-of-unfelt-emotion", "disassociation-as-numbness-layer", "fear-vs-anxiety", "let-your-body-shake-it-out", "repression-vs-management", "observe-vs-move-emotion"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2"]
 ---
 
 # Feeling the Unfelt Emotion
@@ -55,6 +55,20 @@ Joe distinguishes carefully between tolerating an emotion and welcoming it. The 
 
 "I recreated people who would emotionally abandon me over and over again until I fell in love with the abandonment. And once I fell in love with it, my system didn't need to recreate it. I had found homeostasis." -- Joe Hudson, Feel over Figure
 
+Joe's body-as-cell framing makes the mechanism explicit. The organism is structured like a cell trying to return to homeostasis. When an emotion is not allowed to be felt, the system is incomplete -- a chemical loop that has not closed. The body, seeking closure, recreates the conditions in which the emotion would naturally arise, hoping this time it will be felt. Each recreation is a fresh attempt to complete the loop. Until the emotion is fully felt, the recreations continue.
+
+"What's happening in our system is like, it's like we're a cell that's trying to get back to homeostasis. And if we weren't allowed to feel something, we're going to recreate that negative pattern in our life over and over and over again until we feel it. And then once we've felt it, then we don't have to recreate the pattern." -- Joe Hudson, Embracing Intensity
+
+The mechanism gives the most direct route to stopping a recurring negative pattern: feel the underlying emotion fully. "As soon as someone fully falls in love with the feeling they're trying to avoid, the pattern stops. It's the quickest way to stop a negative pattern in your life." -- Joe Hudson, Embracing Intensity
+
+## The Welcoming Paradox
+
+There is a paradox built into this work. When emotions are genuinely welcomed, they move and change. So someone who is welcoming their emotions looks identical from the outside to someone who has successfully managed them: both appear stable, fluid, untroubled. The crucial difference is internal: the welcoming person is actually looking forward to feeling the difficult emotions, while the managing person is trying to get them to be over.
+
+"If I love my emotions and I let them move as they want to without hurting anybody or manipulating anybody, and I love them and I welcome them, they change. And so it looks like I've managed my emotions really well, right? But the moment that I'm doing it to manage my emotions, it doesn't work." -- Joe Hudson, Stages of Emotional Development
+
+The implication: any move toward feeling an emotion that is motivated by wanting to be done with it sends the work backwards. The motivation matters. The internal test is whether you find yourself excited to feel the next round of anger, sadness, or fear. If you do, the welcoming is real. If you do not, the welcoming has slipped back into a more sophisticated form of management. See [[repression-vs-management]].
+
 ## The Numbness Layer Comes First
 
 For someone who has been suppressing a particular emotion for years -- fear is the most common example -- the first felt layer is usually not the emotion itself. It is the numbness that has been protecting against it. Trying to skip past the numbness to "find the feeling" usually fails. The numbness has to be felt as numbness before the feeling underneath can come through.
@@ -98,3 +112,4 @@ Joe recommends dedicated time, especially in early stages: twenty to thirty minu
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2021-09-24_Stages of Emotional Development

@@ -712,6 +712,76 @@
       ],
       "type": "both",
       "absorbed_at": "2026-05-21T20:45:30Z"
+    },
+    {
+      "folder": "2021-09-24_Stages of Emotional Development",
+      "status": "complete",
+      "claimed_at": "2026-05-21T20:46:57Z",
+      "articles_created": [
+        "repression-vs-management",
+        "observe-vs-move-emotion",
+        "joy-as-matriarch",
+        "negative-emotions-precede-positive",
+        "cafe-emotional-stigma",
+        "wisdom-of-each-emotion"
+      ],
+      "articles_updated": [
+        "stages-of-emotional-development",
+        "kinked-emotions",
+        "what-we-fear-we-invite",
+        "feeling-the-unfelt-emotion",
+        "fear-as-signal-of-care"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:56:24Z"
+    },
+    {
+      "folder": "2021-09-24_Stages of Emotional Development - Emotion Series #1",
+      "status": "complete",
+      "claimed_at": "2026-05-21T20:57:22Z",
+      "articles_created": [
+        "ive-lost-my-joy",
+        "trying-to-get-rid-of-the-emotion",
+        "dont-name-emotion-to-avoid-feeling",
+        "can-you-look-forward-to-feeling-it"
+      ],
+      "articles_updated": [
+        "joy-as-matriarch",
+        "stages-of-emotional-development"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T21:01:52Z"
+    },
+    {
+      "folder": "2021-10-08_Embracing Intensity - Emotion Series #2",
+      "status": "complete",
+      "claimed_at": "2026-05-21T21:02:48Z",
+      "articles_created": [
+        "embrace-vs-brace",
+        "embracing-vs-creating-intensity",
+        "are-you-bracing-or-embracing",
+        "approach-the-pink-elephant",
+        "embracing-intensity-as-leading-indicator",
+        "emotional-fluidity",
+        "sensitivity-as-byproduct",
+        "electric-fence-with-dog"
+      ],
+      "articles_updated": [
+        "embrace-intensity",
+        "decisions-are-emotional",
+        "joy-as-matriarch",
+        "feeling-the-unfelt-emotion",
+        "familiar-over-safe"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T21:11:17Z"
+    },
+    {
+      "folder": "2021-10-15_Ant Taylor on Embracing Emotions",
+      "status": "in-progress",
+      "claimed_at": "2026-05-21T21:11:54Z",
+      "articles_created": [],
+      "articles_updated": []
     }
   ]
 }

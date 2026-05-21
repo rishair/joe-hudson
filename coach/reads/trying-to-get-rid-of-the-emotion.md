@@ -1,0 +1,76 @@
+---
+type: read
+id: trying-to-get-rid-of-the-emotion
+title: "Trying to Get Rid of the Emotion"
+aliases: ["wanting to be done with it", "trying to get over an emotion", "feeling it to make it go away", "the motivation is management", "wanting it gone", "doing the work to make the feeling stop", "feeling as strategy"]
+tags: ["emotions", "management", "stages of development", "motivation", "diagnostic"]
+sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1"]
+---
+
+# Trying to Get Rid of the Emotion
+
+## What Joe Notices
+
+The person is doing the right practices but the motivation is wrong. They are "feeling" the emotion in order to be done with the emotion. They are welcoming it in order to make it leave. The form looks correct. The internal stance is still management.
+
+Observable signals:
+
+- The language: "How do I get over this?" "I want to be done with this." "When will this stop?"
+- The pace: rushing through the feeling to get to the part where it's over.
+- The check-ins: asking after a session whether they're "fixed" yet.
+- The framing of progress: measuring success by whether the emotion has reduced in frequency or intensity.
+- A slight forward lean, an impatience, a held-breath quality during practice.
+- After a release, immediately checking whether it "worked."
+
+This is a sophisticated form of [[repression-vs-management]] management. Earlier-stage management uses obvious strategies — distraction, denial, suppression. This management uses the language of allowing. The strategy has changed; the goal has not.
+
+## What This Implies
+
+The system reads the motivation, not just the behavior. When the motivation is to get rid of the emotion, the emotion does not fully move. It moves enough to confirm the strategy. It does not move the underlying holding pattern.
+
+This produces a frustrating loop: the person does the practice, feels some release, expects the emotion to be resolved, encounters it again next week, concludes they need to do the practice harder. The intensity of the practice increases. The underlying pattern stays in place. The person is doing management with a felt-experience layer on top.
+
+"If you notice that you're trying to get over an emotion, just the act of trying to be done with an emotion or get over an emotion will send you backwards in the process." -- Joe Hudson, Stages of Emotional Development
+
+There is a paradox built in. When emotions are genuinely welcomed, they do move and change. So an authentic welcoming and a strategic welcoming look identical on the surface. Both produce some movement. Only the authentic one moves the underlying pattern. The system can tell the difference even when the person cannot.
+
+## What Joe Does
+
+Name the read directly. The diagnostic is internal, so making it visible is the intervention.
+
+The question that lands the read: "Are you welcoming this, or are you trying to make it go away?" Variations:
+
+- "Can you actually look forward to feeling angry next time?"
+- "Are you doing this practice so the emotion will leave, or because the emotion is yours to feel?"
+- "What if this emotion stayed for the rest of your life? Could you welcome it then?"
+
+These are not gotcha questions. They are calibrations. The person checks their own internal stance against the question and notices what they find. See [[can-you-look-forward-to-feeling-it]].
+
+When the person admits the motivation is management, Joe does not treat this as failure. The recognition is the move. The next step is not to suddenly produce authentic welcoming — that cannot be performed — but to sit with the management itself. The motivation to get rid of the emotion is itself an emotion (usually fear, sometimes shame). Felt as itself, it begins to release. The welcoming becomes possible from underneath, not from on top.
+
+What Joe does not do: tell the person to "just welcome it" or "stop trying to get rid of it." The instruction would produce a more sophisticated performance of welcoming. The work is to feel the motivation rather than override it.
+
+## Dialogue Pattern
+
+- **Person:** "I've been doing the practice every day but the sadness keeps coming back."
+- **Joe:** "Are you doing the practice so the sadness will be gone, or because the sadness is something you want to feel?"
+- **Person:** (pause) "Honestly, so it will be gone."
+- **Joe:** "Yeah. That's the management dressed up as feeling. The sadness is reading that. Can you let it be okay that the sadness stays a while?"
+
+## Connected Reads
+
+- [[manufacturing-the-feeling]] — the related move of producing an emotion to perform progress. Both are forms of strategy applied to feeling.
+- [[desire-for-resolution]] — a more general version: the pull to wrap things up. When this drives the emotional work, it becomes "trying to get rid of."
+
+## Tone
+
+Direct, slightly amused. The paradox here is structurally funny. Joe holds it lightly. The intervention works through the lightness, not against it. A grave tone would make the person more determined to fix the motivation, which would just be another layer of management.
+
+## Connected Concerns
+
+- [[ive-lost-my-joy]] — the person whose joy left often returns to emotional work with "get rid of the difficult emotions to get the joy back" as the motivation, which keeps the joy locked away.
+- [[my-inner-critic-wont-stop]] — wanting the inner critic gone is the same management pattern applied to the voice. The voice cannot be welcomed if the motivation is its elimination.
+
+## Sources
+
+- 2021-09-24_Stages of Emotional Development - Emotion Series #1
