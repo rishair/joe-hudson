@@ -215,7 +215,7 @@ Step 1 is the test that earns its keep — the rest is hygiene. Run it first; le
    - Would a reader learn something non-obvious?
    - Does it use Joe's actual language?
 
-10. **Write a checkpoint summary** at `coach/checkpoints/YYYY-MM-DD.md` documenting findings and actions taken.
+10. **Write a checkpoint summary** at `coach/checkpoints/YYYY-MM-DD-absorb-NNN.md` (e.g. `2026-05-21-absorb-020.md`), where `NNN` is the zero-padded absorb count that triggered the checkpoint. Multiple checkpoints can fire on the same day; the absorb count keeps filenames unique, sortable, and self-documenting about which state was audited.
 
 ---
 
