@@ -138,7 +138,8 @@
       "type": "teaching",
       "absorbed_at": "2026-05-21T09:15:00Z",
       "articles_created": [],
-      "articles_updated": ["i-never-have-enough-money"]
+      "articles_updated": [],
+      "enrichment_candidates": ["i-never-have-enough-money"]
     },
     {
       "folder": "2021-05-21_Father Figures and Authority (Coaching Session)",
@@ -152,7 +153,356 @@
       "type": "teaching",
       "absorbed_at": "2026-05-21T09:45:00Z",
       "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["enjoy-over-manage", "connection-over-perfection", "authenticity-over-improvement"]
+    },
+    {
+      "folder": "2021-06-18_Care over Caretaking - Loving without Losing Yourself",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T10:00:00Z",
+      "articles_created": ["i-feel-exhausted-from-helping-everyone"],
+      "articles_updated": ["caring-vs-caretaking"]
+    },
+    {
+      "folder": "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)",
+      "type": "coaching",
+      "absorbed_at": "2026-05-21T10:15:00Z",
+      "articles_created": ["if-you-take-the-shame-out-what-is-the-problem", "connecting-present-to-childhood-in-the-body"],
       "articles_updated": []
+    },
+    {
+      "folder": "2021-07-16_Who is the Voice in Your Head?",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T10:30:00Z",
+      "articles_created": ["voice-in-the-head"],
+      "articles_updated": []
+    },
+    {
+      "folder": "2021-07-30_Your World is a Projection",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T10:45:00Z",
+      "articles_created": ["projection"],
+      "articles_updated": []
+    },
+    {
+      "folder": "2021-08-13_Seeing Through Family Dynamics",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T11:00:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["trauma-mapping: add theta brainwave programming model (0-7 years), how childhood learning becomes adult lens", "projection: add family dynamics as primary source of world projections", "i-keep-ending-up-in-the-same-pattern: add 'enduring the storm' framing, how you find people who both confirm and create your pattern"]
+    },
+    {
+      "folder": "2021-08-27_Group Cohesion vs. Cult Dynamics",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T11:15:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["empower-over-power: add surrendering power to groups/teachers as specific form of disempowerment", "dont-try-to-fix-people: add 'bring people to their own wisdom, not yours' quote"]
+    },
+    {
+      "folder": "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T11:30:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["three-signals-of-unfelt-emotion: add ADHD/distraction as unfelt fear signal (going to fridge 3 times in 20 minutes, switching apps); binary thinking as fear tell", "fear-invites-what-we-fear: add business example of stepping on fear signal in teams causing the feared outcome", "resistance-is-what-you-fear: add fear-as-courage framing (welcoming fear vs conquering fear)", "i-keep-procrastinating: add ADHD/distraction as form of procrastination driven by unfelt anxiety"]
+    },
+    {
+      "folder": "2021-09-24_Stages of Emotional Development",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T11:45:00Z",
+      "articles_created": ["stages-of-emotional-development"],
+      "articles_updated": [],
+      "enrichment_candidates": ["feeling-unfelt-emotions: add stage 5 context (allowing/feeling is the turning point in the developmental framework), negative emotions move first then positive ones surface", "resistance-is-what-you-fear: add management stage (stage 4) as the sophisticated form of resistance that produces the opposite of what it intends"]
+    },
+    {
+      "folder": "2021-09-24_Stages of Emotional Development - Emotion Series #1",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T12:00:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2021-10-08_Embracing Intensity - Emotion Series #2",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T12:15:00Z",
+      "articles_created": ["bracing-or-embracing"],
+      "articles_updated": ["embrace-intensity"],
+      "enrichment_candidates": ["emotional-decision-making: add intensity angle — willingness to feel any emotional state is the key to great decision-making, not non-emotionality; avoidance of negative feelings more powerful than positive reward in shaping decisions"]
+    },
+    {
+      "folder": "2021-10-15_Ant Taylor on Embracing Emotions",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T12:30:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["vulnerability: add organizational cascade example — leader's vulnerability in front of exec team unlocks deeper vulnerability from the whole team, self-fulfilling prophecy of depth", "connecting-present-to-childhood-in-the-body: add Ant's example — Joe has him close eyes during stress, childhood memory surfaces, he tells young self to go play, stress melts into release and joy at cellular level", "embrace-intensity: add Ant's before/after as example — from 'sprinting across a tightrope destined to fall' and Class A avoider to feeling stress, finding the childhood emotion behind it, and releasing into creativity"]
+    },
+    {
+      "folder": "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T12:45:00Z",
+      "articles_created": ["wisdom-of-anger", "feeling-anger-vs-anger-at-someone", "expressing-anger-safely"],
+      "articles_updated": ["dont-do-emotions-at-people"],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T13:00:00Z",
+      "articles_created": ["releasing-anger-cleanly"],
+      "articles_updated": ["wisdom-of-anger"],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T13:15:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["impartiality: add Joe's coaching example — when Stacy wanted to quit after first session, Joe said 'okay' with no attempt to save or convince; this non-attachment unlocked her own choice to lean in", "the-developmental-arc: add Stacy's arc as example — childhood abandonment by father → hyper-independence and proving → compartmentalization as CEO → 2 years of unpacking → conversation with father → 'you've always mattered to me' → freedom from needing to prove"]
+    },
+    {
+      "folder": "2021-11-19_What is Selfishness?",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T13:30:00Z",
+      "articles_created": ["wants-as-evolution", "the-want-behind-the-want"],
+      "articles_updated": [],
+      "enrichment_candidates": ["shoulds-vs-wants: add organizational dimension — when wants are suppressed in companies, politics and gossip fill the vacuum; resentfulness as indicator of suppressed wants; CEO who can't say 'I just want this done my way' creates dysfunction"]
+    },
+    {
+      "folder": "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T13:45:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["caring-vs-caretaking: add Carla's realization — 'I thought I was serving them all this time, but in reality it was a form of manipulation'; managing everyone's emotions recognized as control not care; when she stopped managing, her 17-year-old stepped up to plan his dad's birthday", "dont-try-to-fix-people: add Carla's parenting shift — stopped trying to make kids feel better, started sitting with them in their emotions; daughter called her out: 'you told me to express my emotions, I'm trying to express my emotions'"]
+    },
+    {
+      "folder": "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T14:00:00Z",
+      "articles_created": ["fear-as-path-to-freedom", "helplessness"],
+      "articles_updated": [],
+      "enrichment_candidates": ["three-signals-of-unfelt-emotion: add false-end thinking and 'thinking you have to make a decision' as fear-specific signals; also binary thinking already there but add Joe's decision-making angle — 'we make 1000 decisions a day without thinking, so when we think we have to make a decision, it means unfelt fear'", "fear-invites-what-we-fear: add identity protection angle — fear tells you where identity is projected into things that can be lost; the authenticity bargain where sacrificing self now to protect future self is the mechanism"]
+    },
+    {
+      "folder": "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)",
+      "type": "coaching",
+      "absorbed_at": "2026-05-21T14:15:00Z",
+      "articles_created": ["i-cant-be-myself-without-offending-people", "shame-as-disconnection"],
+      "articles_updated": [],
+      "enrichment_candidates": ["conflict-as-resource: add trust angle from coaching session — 'if you never offend anybody, you can never really build trust'; trust is built by having conflict and overcoming it; conflict-avoidant leaders guarantee stagnation"]
+    },
+    {
+      "folder": "2022-01-07_How Your Body Speaks",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T14:30:00Z",
+      "articles_created": ["three-ways-of-knowing"],
+      "articles_updated": [],
+      "enrichment_candidates": ["body-attention-as-anchor: add flow-state connection — being in body induces flow state faster (why athletes/musicians do body exercises before performing); also add organizational practices: bell for silence in meetings, meditation at board meetings, 45min on/15min off pattern for programmers"]
+    },
+    {
+      "folder": "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T14:45:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["dont-do-missionary-work: add Sam's confirmation — 'I can't ever imagine trying to convince someone this is what they should go do; if someone had convinced me before I was desperately ready, it wouldn't have worked'"]
+    },
+    {
+      "folder": "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T15:00:00Z",
+      "articles_created": ["anxiety-as-unmet-needs", "unfelt-joy"],
+      "articles_updated": [],
+      "enrichment_candidates": ["i-keep-procrastinating: add anxiety angle — procrastination/avoidance is often unfelt anxiety; Brett's example of sitting with anxiety for 30 seconds then immediately taking useful action instead of going to the fridge"]
+    },
+    {
+      "folder": "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Spe",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T15:15:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["caring-vs-caretaking: add 'chameleon leadership' as organizational form — changing yourself for every person instead of staying centered in your own truth; creates fear and uncertainty in teams because people can't predict you; Joe's advice: 'hold space for people but stay in yourself'", "visualize-the-feared-outcome: add Jaime's Stoic variation — imagine getting fired, then the day after, the week after, the month after; once you feel okay with the worst consequence, you're free to show up authentically"]
+    },
+    {
+      "folder": "2022-02-04_The Power Dynamics of Fear - Emotion Series #7",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T15:30:00Z",
+      "articles_created": ["fear-triangle"],
+      "articles_updated": [],
+      "enrichment_candidates": ["empower-over-power: add power vs empowerment distinction — 'if you're worried about losing it, it's power'; the virtuous cycle: authenticity → less to lose → less fear → less drama triangle; Joe's coaching example of HR trying to hold payment over him and him refusing to play"]
+    },
+    {
+      "folder": "2022-02-11_Heather Falenski — Navigating Conflict Zones, Recovering from Chronic Illness, a",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T15:45:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-02-19_Building a Functional Team - Team Series #1",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T16:00:00Z",
+      "articles_created": ["functional-teams"],
+      "articles_updated": [],
+      "enrichment_candidates": ["conflict-as-resource: add team-building angle — conflict avoidance destroys trust, bringing up difficult stuff builds it; if people keep bringing conflict to you, you are conflict avoidant; Joe's example of walking into a company and pointing out that nobody was listening to the CEO"]
+    },
+    {
+      "folder": "2022-03-04_Building a Dysfunctional Team - Team Series #2",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T16:15:00Z",
+      "articles_created": ["five-star-meetings"],
+      "articles_updated": [],
+      "enrichment_candidates": ["functional-teams: add dysfunction-as-scale concept (not binary functional/dysfunctional but endless in both directions); dysfunctional leader traits checklist (political/blame, indecisive, conflict avoidant, defensive, not leading or following); signs in meetings (not listening, rabbit holes, context switching, needing to be right, uneven participation); CIA sabotage manual reference; direct reports >5 red flag >8 guaranteed dysfunction; emotions teams avoid = where dysfunction lives"]
+    },
+    {
+      "folder": "2022-03-11_How Does Gratitude Create Better Teams?",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T16:30:00Z",
+      "articles_created": ["gratitude-rounds"],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-03-18_What's So Scary About Boundaries?",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T16:45:00Z",
+      "articles_created": ["boundaries"],
+      "articles_updated": [],
+      "enrichment_candidates": ["dont-use-vulnerability-to-control: add 'topping from the bottom' concept — using victimhood/safety language as dominance; Joe's response: 'I don't agree to be your bully. I don't agree to be the person who's oppressing you'"]
+    },
+    {
+      "folder": "2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T17:00:00Z",
+      "articles_created": ["limiting-beliefs"],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-04-15_Joe Sanok — Living on the Road, Opening to Heartbreak and Parenting as a Single ",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T17:15:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-04-29_Connection- A State Beyond States",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T17:30:00Z",
+      "articles_created": ["connection"],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T17:45:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["shoulds-vs-wants: add Joe's personal experiment — 'I'm not going to do anything I don't want to do for a week'; first week didn't take out trash; then realized 'I don't want to live with stinky house' and had to learn to WANT to take out the trash; how you approach things matters more than what you do"]
+    },
+    {
+      "folder": "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:00:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:15:00Z",
+      "articles_created": ["stories-and-emotions"],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:30:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-06-24_The Upright Apology- Accountability Without Shame",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T18:45:00Z",
+      "articles_created": ["upright-apology"],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-07-08_How Do I Trust Myself? (Coaching Session)",
+      "type": "coaching",
+      "absorbed_at": "2026-05-21T19:00:00Z",
+      "articles_created": ["i-cant-trust-myself"],
+      "articles_updated": [],
+      "enrichment_candidates": ["helplessness: add coaching session example — Chinese immigrant parents' survival pattern creates fear of helplessness; 'it's okay to be completely helpless, we all are'; when person drops into helplessness, all the parts dissolve and spaciousness appears", "fear-as-path-to-freedom: add 'if you think you're making a decision, you're in fear' — we make 1000 decisions a day without noticing; the ones that feel like decisions are the ones with fear attached"]
+    },
+    {
+      "folder": "2022-07-22_The Anatomy of Shame - Emotion Series #8",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T19:15:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["shame-locks-bad-habits: add the addiction mechanism — shame wires to natural urges (sex, food), creating compulsive cycle where the shame IS the addiction; 'empty ghost syndrome' where the thing is gotten but not enjoyed, driving repetition; electric dog fence metaphor; also add that shame stagnates emotions, blocking emotional fluidity, which is why shame-attached habits stay stuck for years", "shame-as-disconnection: add that shame is nature's mechanism for tribe membership training; when ostracized, feel shame; micro-societies each have different shame fences; psychopaths are people without shame; shame requires emotional processing not just intellectual understanding"]
+    },
+    {
+      "folder": "2022-08-05_Aaron Taylor — Feel Your Way to Freedom- Growing Up Fatherless, Becoming a Fathe",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T19:30:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["three-ways-of-knowing: add athletic body intelligence angle — athletes who played college sports have body/emotional intelligence from the field; when they learn to access it in business the same way they access it on the court, 'a superpower gets unlocked'"]
+    },
+    {
+      "folder": "2022-08-19_The Beauty of Grief — Emotion Series #9",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T19:45:00Z",
+      "articles_created": ["grief"],
+      "articles_updated": [],
+      "enrichment_candidates": ["visualize-the-feared-outcome: add pre-grieving in marriage context — Joe assumes marriage is lost, grieves fully, loses the defending identity, then shows up authentically; same principle applied to relationships not just business/career"]
+    },
+    {
+      "folder": "2022-09-02_How Relationships Reveal Us — Relationships Series #1",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:00:00Z",
+      "articles_created": ["romantic-relationships"],
+      "articles_updated": [],
+      "enrichment_candidates": ["trauma-mapping: add relationship angle — we instinctually find partners who hold the other side of our childhood love pattern; the partner triggers our pattern perfectly, which is the opportunity for healing"]
+    },
+    {
+      "folder": "2022-09-16_Seeing Identity for What It Is",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:15:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": ["grief: add that identity can never be fully shed (without any identity, you can't speak); each epiphany of identity becomes the next rut; the process is making identity more transparent, not eliminating it", "fear-as-path-to-freedom: add identity refinement angle — every identity you see through reveals the next layer of identity that also limits; the annihilation of self is not a one-time event but a continuous refinement"]
+    },
+    {
+      "folder": "2022-09-30_Triggered",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:30:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": []
+    },
+    {
+      "folder": "2022-09-30_Triggered! — Relationships Series #2",
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T20:30:00Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "enrichment_candidates": []
     }
   ]
 }

@@ -1,1 +1,497 @@
-{}
+{
+  "body-attention-as-anchor": [
+    "bracing-or-embracing",
+    "empathy",
+    "stages-of-emotional-development"
+  ],
+  "bracing-or-embracing": [
+    "embrace-intensity"
+  ],
+  "caring-vs-caretaking": [
+    "empathy",
+    "empower-over-power",
+    "i-feel-exhausted-from-helping-everyone",
+    "love-over-defense"
+  ],
+  "conflict-as-resource": [
+    "embrace-intensity",
+    "my-team-isnt-getting-along"
+  ],
+  "connection-over-perfection": [
+    "consciousness-is-the-product",
+    "enjoy-over-manage",
+    "enjoy-what-youre-doing",
+    "get-thirty-rejections",
+    "inherent-goodness",
+    "perfectionism-as-critical-parent"
+  ],
+  "container-of-love": [
+    "feeling-unfelt-emotions",
+    "i-keep-ending-up-in-the-same-pattern",
+    "learning-to-love-all-parts",
+    "love-over-defense",
+    "managing-vs-healing",
+    "my-team-isnt-getting-along",
+    "the-developmental-arc",
+    "trauma-mapping"
+  ],
+  "development-as-corkscrew": [
+    "stages-of-emotional-development",
+    "the-developmental-arc"
+  ],
+  "dont-do-emotions-at-people": [
+    "feel-before-acting",
+    "resistance-is-what-you-fear",
+    "stages-of-emotional-development",
+    "the-developmental-arc"
+  ],
+  "dont-do-missionary-work": [
+    "the-developmental-arc"
+  ],
+  "dont-push-people-who-feel-attacked": [
+    "the-developmental-arc"
+  ],
+  "dont-try-to-fix-people": [
+    "caring-vs-caretaking",
+    "impartiality",
+    "owning-wants-vs-being-partial",
+    "shame-locks-bad-habits",
+    "the-developmental-arc"
+  ],
+  "dont-use-view-as-technique": [
+    "conflict-as-resource",
+    "my-team-isnt-getting-along",
+    "technique-vs-state-of-mind",
+    "view"
+  ],
+  "dont-use-vulnerability-to-control": [
+    "vulnerability"
+  ],
+  "dont-use-wonder-as-strategy": [
+    "wonder"
+  ],
+  "drawing boundaries without asking someone to change": [
+    "empower-over-power"
+  ],
+  "embrace-intensity": [
+    "bracing-or-embracing",
+    "enjoy-what-youre-doing",
+    "love-the-resistance",
+    "what-feeling-am-i-resisting"
+  ],
+  "emotional-decision-making": [
+    "embrace-intensity",
+    "reading-emotional-reality"
+  ],
+  "empathy": [
+    "body-attention-as-anchor",
+    "caring-vs-caretaking",
+    "dont-do-missionary-work",
+    "emotional-decision-making",
+    "view"
+  ],
+  "empower-over-power": [
+    "fight-or-submit-binary",
+    "i-feel-powerless",
+    "i-freeze-around-authority-figures",
+    "love-over-defense"
+  ],
+  "enjoy-over-manage": [
+    "consciousness-is-the-product",
+    "enjoy-yourself-ten-percent-more",
+    "stages-of-emotional-development"
+  ],
+  "enjoy-what-youre-doing": [
+    "consciousness-is-the-product",
+    "development-as-corkscrew",
+    "inherent-goodness"
+  ],
+  "enjoy-yourself-ten-percent-more": [
+    "bracing-or-embracing",
+    "enjoy-over-manage"
+  ],
+  "epiphany-vs-transformation": [
+    "i-had-a-breakthrough-but-feel-lost",
+    "the-developmental-arc"
+  ],
+  "fear-invites-what-we-fear": [
+    "authenticity-over-improvement",
+    "empower-over-power",
+    "get-thirty-rejections",
+    "i-never-have-enough-money",
+    "visualize-the-feared-outcome"
+  ],
+  "feel-before-acting": [
+    "caring-vs-caretaking",
+    "dont-do-emotions-at-people",
+    "empower-over-power",
+    "i-feel-exhausted-from-helping-everyone",
+    "i-feel-powerless",
+    "i-never-have-enough-money",
+    "resistance-is-what-you-fear",
+    "stages-of-emotional-development",
+    "the-developmental-arc"
+  ],
+  "feeling-unfelt-emotions": [
+    "container-of-love",
+    "embrace-intensity",
+    "empathy",
+    "fear-invites-what-we-fear",
+    "feel-before-acting",
+    "grief-as-gateway",
+    "how-is-that-not-true-about-you",
+    "i-keep-ending-up-in-the-same-pattern",
+    "i-keep-procrastinating",
+    "learning-to-love-all-parts",
+    "letting-judgment-break-your-heart",
+    "love-over-defense",
+    "love-the-resistance",
+    "managing-vs-healing",
+    "not-hearing-the-person-in-front-of-them",
+    "resistance-is-what-you-fear",
+    "stages-of-emotional-development",
+    "the-developmental-arc",
+    "three-signals-of-unfelt-emotion",
+    "trauma-mapping",
+    "visualize-the-feared-outcome",
+    "what-feeling-am-i-resisting"
+  ],
+  "following-wonder": [
+    "enjoy-over-manage"
+  ],
+  "get-thirty-rejections": [
+    "connection-over-perfection"
+  ],
+  "grief-as-gateway": [
+    "feeling-unfelt-emotions",
+    "i-keep-ending-up-in-the-same-pattern",
+    "the-developmental-arc"
+  ],
+  "how-is-that-not-true-about-you": [
+    "i-freeze-around-authority-figures",
+    "projection",
+    "reflecting-the-judgment-back"
+  ],
+  "how-what-questions": [
+    "emotional-decision-making",
+    "my-team-isnt-getting-along",
+    "view",
+    "wonder"
+  ],
+  "i-cant-stop-criticizing-myself": [
+    "authenticity-over-improvement",
+    "connection-over-perfection",
+    "inherent-goodness",
+    "past-shame-vs-current-shame",
+    "perfectionism-as-critical-parent",
+    "shame-locks-bad-habits",
+    "shoulds-vs-wants",
+    "stages-of-emotional-development",
+    "three-signals-of-unfelt-emotion",
+    "voice-in-the-head",
+    "wonder"
+  ],
+  "i-dont-know-what-i-want": [
+    "shoulds-vs-wants",
+    "what-do-you-want"
+  ],
+  "i-feel-exhausted-from-helping-everyone": [
+    "caring-vs-caretaking"
+  ],
+  "i-feel-powerless": [
+    "fight-or-submit-binary"
+  ],
+  "i-freeze-around-authority-figures": [
+    "fight-or-submit-binary"
+  ],
+  "i-had-a-breakthrough-but-feel-lost": [
+    "development-as-corkscrew",
+    "epiphany-vs-transformation",
+    "love-the-resistance",
+    "the-developmental-arc",
+    "the-three-to-five-rule"
+  ],
+  "i-keep-ending-up-in-the-same-pattern": [
+    "caring-vs-caretaking",
+    "impartiality",
+    "not-hearing-the-person-in-front-of-them",
+    "projection",
+    "three-signals-of-unfelt-emotion",
+    "trauma-mapping"
+  ],
+  "i-keep-procrastinating": [
+    "connection-over-perfection",
+    "enjoy-over-manage",
+    "feel-before-acting",
+    "perfectionism-as-critical-parent",
+    "shoulds-vs-wants",
+    "three-signals-of-unfelt-emotion",
+    "what-do-you-want"
+  ],
+  "impartiality": [
+    "caring-vs-caretaking",
+    "dont-do-missionary-work",
+    "dont-push-people-who-feel-attacked",
+    "enjoy-over-manage",
+    "fear-invites-what-we-fear",
+    "following-wonder",
+    "knowing-vs-wonder",
+    "owning-wants-vs-being-partial",
+    "questioning-assumptions",
+    "shoulds-vs-wants",
+    "view",
+    "visualize-the-feared-outcome",
+    "wonder"
+  ],
+  "inherent-goodness": [
+    "authenticity-over-improvement",
+    "empower-over-power",
+    "i-never-have-enough-money",
+    "the-developmental-arc",
+    "voice-in-the-head"
+  ],
+  "integration": [
+    "i-had-a-breakthrough-but-feel-lost"
+  ],
+  "is-this-mine": [
+    "body-attention-as-anchor",
+    "empathy"
+  ],
+  "knowing-vs-wonder": [
+    "questioning-assumptions",
+    "wonder"
+  ],
+  "learning-to-love-all-parts": [
+    "authenticity-over-improvement",
+    "connection-over-perfection",
+    "container-of-love",
+    "grief-as-gateway",
+    "i-cant-stop-criticizing-myself",
+    "if-you-take-the-shame-out-what-is-the-problem",
+    "inherent-goodness",
+    "love-over-defense",
+    "love-the-resistance",
+    "perfectionism-as-critical-parent",
+    "projection",
+    "shame-locks-bad-habits",
+    "stages-of-emotional-development",
+    "the-developmental-arc",
+    "voice-in-the-head"
+  ],
+  "love-over-defense": [
+    "fight-or-submit-binary",
+    "stages-of-emotional-development",
+    "the-developmental-arc"
+  ],
+  "love-the-resistance": [
+    "authenticity-over-improvement",
+    "development-as-corkscrew",
+    "embrace-intensity",
+    "enjoy-what-youre-doing",
+    "i-keep-procrastinating",
+    "resistance-is-what-you-fear",
+    "stages-of-emotional-development",
+    "the-developmental-arc"
+  ],
+  "my-team-isnt-getting-along": [
+    "conflict-as-resource",
+    "consciousness-is-the-product",
+    "empower-over-power",
+    "enjoy-over-manage",
+    "reading-emotional-reality"
+  ],
+  "not-hearing-the-person-in-front-of-them": [
+    "my-team-isnt-getting-along",
+    "projection",
+    "the-developmental-arc"
+  ],
+  "owning-wants-vs-being-partial": [
+    "caring-vs-caretaking",
+    "empower-over-power",
+    "impartiality"
+  ],
+  "past-shame-vs-current-shame": [
+    "if-you-take-the-shame-out-what-is-the-problem",
+    "vulnerability"
+  ],
+  "perfectionism-as-critical-parent": [
+    "connection-over-perfection",
+    "inherent-goodness",
+    "shoulds-vs-wants",
+    "the-developmental-arc",
+    "voice-in-the-head"
+  ],
+  "projection": [
+    "stages-of-emotional-development"
+  ],
+  "questioning-assumptions": [
+    "following-wonder",
+    "knowing-vs-wonder",
+    "wonder"
+  ],
+  "reading-emotional-reality": [
+    "embrace-intensity"
+  ],
+  "reflecting-the-judgment-back": [
+    "i-freeze-around-authority-figures",
+    "projection"
+  ],
+  "resistance-is-what-you-fear": [
+    "stages-of-emotional-development",
+    "the-developmental-arc"
+  ],
+  "role-playing-the-dynamic": [
+    "fight-or-submit-binary",
+    "i-freeze-around-authority-figures"
+  ],
+  "shame-locks-bad-habits": [
+    "authenticity-over-improvement",
+    "if-you-take-the-shame-out-what-is-the-problem",
+    "inherent-goodness",
+    "love-over-defense",
+    "past-shame-vs-current-shame",
+    "perfectionism-as-critical-parent",
+    "shoulds-vs-wants",
+    "voice-in-the-head"
+  ],
+  "shoulds-vs-wants": [
+    "authenticity-over-improvement",
+    "enjoy-over-manage",
+    "i-dont-know-what-i-want",
+    "i-never-have-enough-money",
+    "inherent-goodness",
+    "the-developmental-arc",
+    "voice-in-the-head",
+    "what-do-you-want"
+  ],
+  "stages-of-emotional-development": [
+    "embrace-intensity"
+  ],
+  "technique-vs-state-of-mind": [
+    "consciousness-is-the-product",
+    "dont-use-view-as-technique",
+    "dont-use-wonder-as-strategy",
+    "view"
+  ],
+  "the-deepening": [
+    "container-of-love",
+    "feeling-unfelt-emotions",
+    "i-keep-ending-up-in-the-same-pattern",
+    "the-developmental-arc",
+    "trauma-mapping"
+  ],
+  "the-developmental-arc": [
+    "i-freeze-around-authority-figures",
+    "stages-of-emotional-development"
+  ],
+  "the-three-to-five-rule": [
+    "i-feel-exhausted-from-helping-everyone",
+    "i-feel-powerless",
+    "i-had-a-breakthrough-but-feel-lost"
+  ],
+  "three-signals-of-unfelt-emotion": [
+    "feel-before-acting",
+    "how-is-that-not-true-about-you",
+    "projection",
+    "reflecting-the-judgment-back",
+    "resistance-is-what-you-fear",
+    "the-developmental-arc",
+    "voice-in-the-head"
+  ],
+  "trauma-mapping": [
+    "connecting-present-to-childhood-in-the-body",
+    "container-of-love",
+    "embrace-intensity",
+    "fear-invites-what-we-fear",
+    "feeling-unfelt-emotions",
+    "grief-as-gateway",
+    "i-cant-stop-criticizing-myself",
+    "i-freeze-around-authority-figures",
+    "i-keep-ending-up-in-the-same-pattern",
+    "i-never-have-enough-money",
+    "knowing-vs-wonder",
+    "not-hearing-the-person-in-front-of-them",
+    "projection",
+    "stages-of-emotional-development",
+    "the-developmental-arc"
+  ],
+  "view": [
+    "conflict-as-resource",
+    "connection-over-perfection",
+    "consciousness-is-the-product",
+    "dont-push-people-who-feel-attacked",
+    "dont-use-view-as-technique",
+    "emotional-decision-making",
+    "empathy",
+    "how-what-questions",
+    "impartiality",
+    "my-team-isnt-getting-along",
+    "technique-vs-state-of-mind",
+    "vulnerability",
+    "wonder"
+  ],
+  "visualize-the-feared-outcome": [
+    "fear-invites-what-we-fear"
+  ],
+  "vulnerability": [
+    "authenticity-over-improvement",
+    "caring-vs-caretaking",
+    "conflict-as-resource",
+    "dont-do-missionary-work",
+    "embrace-intensity",
+    "empower-over-power",
+    "enjoy-yourself-ten-percent-more",
+    "fight-or-submit-binary",
+    "how-is-that-not-true-about-you",
+    "how-what-questions",
+    "i-feel-powerless",
+    "impartiality",
+    "letting-judgment-break-your-heart",
+    "love-over-defense",
+    "owning-wants-vs-being-partial",
+    "past-shame-vs-current-shame",
+    "shoulds-vs-wants",
+    "technique-vs-state-of-mind",
+    "the-three-to-five-rule",
+    "view"
+  ],
+  "what-do-you-want": [
+    "authenticity-over-improvement",
+    "caring-vs-caretaking",
+    "empower-over-power",
+    "i-dont-know-what-i-want",
+    "i-feel-exhausted-from-helping-everyone",
+    "i-never-have-enough-money",
+    "shoulds-vs-wants"
+  ],
+  "what-feeling-am-i-resisting": [
+    "bracing-or-embracing",
+    "i-feel-exhausted-from-helping-everyone",
+    "i-feel-powerless",
+    "i-keep-procrastinating",
+    "i-never-have-enough-money",
+    "if-you-take-the-shame-out-what-is-the-problem",
+    "love-the-resistance",
+    "perfectionism-as-critical-parent",
+    "resistance-is-what-you-fear",
+    "stages-of-emotional-development",
+    "the-developmental-arc",
+    "three-signals-of-unfelt-emotion"
+  ],
+  "whats-the-scary-thing-thats-true": [
+    "vulnerability"
+  ],
+  "wonder": [
+    "dont-do-missionary-work",
+    "enjoy-what-youre-doing",
+    "enjoy-yourself-ten-percent-more",
+    "how-what-questions",
+    "i-cant-stop-criticizing-myself",
+    "impartiality",
+    "knowing-vs-wonder",
+    "projection",
+    "questioning-assumptions",
+    "view",
+    "voice-in-the-head"
+  ]
+}

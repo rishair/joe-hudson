@@ -220,7 +220,27 @@ Quality audit. Triggered automatically every 20 absorbs, or callable manually.
    - Would a reader learn something non-obvious?
    - Does it use Joe's actual language?
 
-10. **Write a checkpoint summary** at `meta/wiki/compendium/checkpoints/YYYY-MM-DD.md` documenting findings and actions taken.
+10. **Batch enrichment pass.** Scan `_absorb_log.json` for all entries with non-empty `enrichment_candidates`. These are articles that should have been enriched but were deferred. Process the top 5 highest-value candidates (prioritize articles that appear in multiple entries, or that are central to the coaching graph like concerns and reads).
+
+    **For each enrichment candidate:**
+    a. Read the enrichment note in the log (it says WHAT to add, e.g., "trauma-mapping: add theta brainwave programming model")
+    b. Read the transcript that produced the candidate (the `folder` field tells you which one). Read enough to find the specific content referenced in the note. You do NOT need to re-read the full transcript -- search for the specific content the note describes.
+    c. Read the current article file. Understand its current state.
+    d. Integrate the new material. Follow all writing standards:
+       - Write as the methodology, not about it (no "Joe says")
+       - Organize by theme, not by transcript. The new material should be woven in where it thematically belongs, not appended at the bottom
+       - Include direct quotes with attribution where they add value
+       - Maintain all existing cross-layer links and add new ones if the enrichment creates connections
+       - Do not bloat the article past 120 lines. If the enrichment would push it over, split instead
+    e. Write the updated article.
+    f. In the absorb log entry, move the fulfilled candidate from `enrichment_candidates` to `articles_updated`.
+
+    **What NOT to do during enrichment:**
+    - Do not just append a paragraph at the end of the article. That is accretion, not integration.
+    - Do not re-read the full transcript if the enrichment note is specific enough. The note exists to prevent re-reading.
+    - Do not skip enrichments silently. If you skip one, note why in the checkpoint summary.
+
+11. **Write a checkpoint summary** at `meta/wiki/compendium/checkpoints/YYYY-MM-DD.md` documenting findings, actions taken, and enrichments completed or skipped.
 
 ---
 
@@ -783,13 +803,24 @@ Each key is an article ID. The value is a list of article IDs that link TO that 
       "type": "teaching",
       "absorbed_at": "2026-05-20T14:30:00Z",
       "articles_created": ["view"],
-      "articles_updated": []
+      "articles_updated": [],
+      "enrichment_candidates": ["wonder: add origin story of VIEW (Case the consultant) and how wonder connects to the discovery process"]
     }
   ]
 }
 ```
 
 The `type` field is `"teaching"`, `"coaching"`, or `"both"`.
+
+The `articles_updated` field tracks articles that were ACTUALLY edited during this absorb. Only list articles here if the file was read and rewritten.
+
+The `enrichment_candidates` field tracks articles that SHOULD be enriched with material from this transcript but have not been yet. Each entry is a string in the format `"article-id: description of what to add"`. The description must be specific enough that you can do the enrichment without re-reading the full transcript. Bad: `"trauma-mapping"`. Good: `"trauma-mapping: add theta brainwave programming model (0-7 years), how childhood learning becomes the adult lens for interpreting reality"`.
+
+**When enrichments happen:** At every checkpoint (step 10 of the checkpoint procedure). The checkpoint scans the log, finds unfulfilled enrichment candidates, and processes the top 5.
+
+**How enrichments are tracked as complete:** When an enrichment candidate is fulfilled, move it from `enrichment_candidates` to `articles_updated` in that log entry.
+
+**When to enrich inline instead of deferring:** If the transcript adds a genuinely new dimension to an existing article (a new section, a significant new angle, a key quote that changes how the article reads), do the enrichment inline during the absorb. Read the article, integrate the content, write it back. Only defer to `enrichment_candidates` when the addition is a supporting detail, an additional example, or a minor connection that does not change the article's structure.
 
 ---
 
