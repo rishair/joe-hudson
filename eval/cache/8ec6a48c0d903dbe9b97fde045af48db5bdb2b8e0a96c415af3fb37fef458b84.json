@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:01.739Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8ec6a48c0d903dbe9b97fde045af48db5bdb2b8e0a96c415af3fb37fef458b84",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QtxyayCzjzfw168YXRhUYQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI think... it's tiredness, mostly. Like I already know how the call is going to go. She's going to be having a hard time with something, and I'm going to listen, and I'll try to help, and then I'll hang up and feel kind of... emptied out.\n\nBut then I think -- she's going through a lot right now. So it's not like I can just... not be there for her.\n\n*small pause*\n\nI think the drop is also maybe a little bit of dread that I won't have anything left to give. And then I feel bad about that too."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 91,
+      "cache_creation_input_tokens": 97,
+      "cache_read_input_tokens": 1456,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 97,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 141,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 91,
+    "output_tokens": 141,
+    "cache_read_input_tokens": 1456,
+    "cache_creation_input_tokens": 97
+  }
+}

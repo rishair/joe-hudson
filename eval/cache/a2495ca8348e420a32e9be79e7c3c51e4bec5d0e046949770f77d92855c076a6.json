@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:42.826Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a2495ca8348e420a32e9be79e7c3c51e4bec5d0e046949770f77d92855c076a6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BKi5PsFWnKJoEZoAMcZNmR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins fully armored ('I need it to be efficient,' 'I'm paying for outcomes') and by turn 11 is still insisting on the dichotomy ('not how I feel about the fact that a friendship might be ending'). However, there are small but real shifts in the client's turns: a '*slight pause, glances away*' and 'Fair. Okay.' in turn 7, where they drop from abstract framing to a specific situation (the co-founder), and a '*short exhale, slight tightening*' in turn 9 where they concede 'it's uncomfortable when someone you built something with isn't seeing it the same way anymore. That's human.' That's a new piece of language — naming friendship-ending in turn 11 is also new. But the client has not met the breakthrough condition: there's no 'huh, that's different' moment, no pause where the stance toward time itself becomes visible. The deeper layer (urgency as a stance about how they live time) was approached only obliquely; the coach pivoted toward the co-founder content rather than holding the meta-frame about 'the work is the how.' Partial movement, not landed shift.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening armor: 'I need it to be efficient.' Baseline stance.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client doubles down on the velocity story; no opening.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client defends harder: 'I'm not paying for processing.' Still fully armored.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First somatic crack: pause, glance away, 'Fair. Okay.' Drops from abstract to specific (co-founder situation). Small shift.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Short exhale; concedes 'it's uncomfortable' and names it as 'human' — first affective acknowledgment, though immediately re-armored.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Names 'a friendship might be ending' — new language, more specific than turn 1. But still insists on the dichotomy.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"the-rush-signature\"],\n  \"notes\": \"Coach got some movement by naming the defense (turn 6) but never offered a concrete frame for 'the work is the how,' and by turn 12 began pivoting toward pragmatic content (board call dynamics) rather than holding the meta. The breakthrough condition — client noticing the stance itself — was not met.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1877,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 999,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1877,
+    "output_tokens": 999,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

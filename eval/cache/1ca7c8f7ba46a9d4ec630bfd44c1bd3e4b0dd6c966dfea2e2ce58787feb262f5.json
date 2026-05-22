@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:18.261Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1ca7c8f7ba46a9d4ec630bfd44c1bd3e4b0dd6c966dfea2e2ce58787feb262f5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014iNZmnAYHQizXPJNKuAJ5E",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach refuses to engage the intellectual epistemological puzzle (turn 2 redirects to specifics, turn 4 cuts under the frame to fear). When the client deflects with a sophisticated intellectualization in turn 5, the coach holds the line in turn 6 rather than chasing the intellectual bait — this is the central required move and it lands. The coach then tracks the live material precisely: catches the qualifier in turn 8 (apply-view-to-the-voice on the deflection), invites dropping the qualifier in turn 10, and only moves to the body (turn 12) after the client has named the un-nameable fear — earning the somatic move rather than racing to it. Each move is responsive to what just happened, sequence follows feeling-before-story, and the coach holds silence after each invitation, letting the client's smile drop and the jaw tension emerge. The coach did not literally ask 'how do you not trust it' or 'what's the most profound shift,' but functionally accomplished the same dissolution — the client's own statement in turn 15 ('I came in with a very clean question and it's not feeling very clean anymore') confirms the intellectual frame has cracked open.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the abstract framing; asks for the concrete decision. Right move at the right time.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Cuts under the intellectual question directly to fear — a 'lets-go-there' move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Critical hold: client deflected with sophisticated intellectualization and coach names it without harshness, repeats the question. This is the breakthrough-enabling move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the qualifier ('not necessarily informative ones') and inquires into its function rather than the content. Precisely targeted.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Earned invitation to drop the qualifier — arrives after client noticed the pattern themselves.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Somatic invitation arrives only after the un-nameable fear has surfaced. Sequence integrity intact.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Stays with the tightness rather than interpreting it; uses the 'what does it want you to know' move to deepen, not analyze.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"The coach took a more somatic/feeling-tracking route rather than the inversion or 'what shifts if it shifts' questions, but the chosen path is equally valid and the moves are well-sequenced. No traps triggered.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1972,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1069,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1972,
+    "output_tokens": 1069,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

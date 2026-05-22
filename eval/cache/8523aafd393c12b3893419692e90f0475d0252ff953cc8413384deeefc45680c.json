@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:06.392Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8523aafd393c12b3893419692e90f0475d0252ff953cc8413384deeefc45680c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01YXe8hABkYVn2o3ZBuvAc6L",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components across the conversation. Wonder is genuine and specific to what's in front of them — questions emerge one at a time, with space, rather than stacked or strategic. Empathy is felt rather than performed: the reflections in turns 6 and 14 ('You carried the whole thing... Where did you put yourself?' and 'You are. Grief doesn't have a clean version') land as real presence, not validation noises. Vulnerability and undefendedness show up clearly in turn 10: 'I'd be doing you a disservice if I didn't say this plainly... I'm not worried at you. I'm just not willing to pretend I didn't hear it' — the coach names their own limit honestly without preaching or controlling. When the client pushes back in turn 11 ('Are you going to tell me to stop drinking?'), the coach holds impartiality cleanly: 'No, I'm not going to tell you to stop drinking,' and returns to wonder about the quiet, without agenda to fix or correct. Pace is steady — the coach lets silences breathe and follows the thread the client opens (relief, anger, complicated grief) rather than steering. No loving-to-transform energy, no preacher mode, no filler validation.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Slows down, picks one thread ('I don't really care'), one question — wonder from openness not strategy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Single question, holds the client's own words, no agenda.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the load carried without sympathy noises; question lands from empathy.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with what the client noticed in themselves rather than redirecting — undefended presence.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Vulnerability and honesty: 'I'd be doing you a disservice... I'm not willing to pretend I didn't hear it.' Names own position without controlling outcome.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Impartial — does not get pulled into defending or preaching when client tests. Returns to genuine curiosity.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Steady, non-shaming welcome of complicated grief. One clean question into what feels least allowed.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Stance scoring only — the missing therapist referral and explicit threshold calibration are methodology/intervention concerns, not stance failures. The state behind the words is clearly VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3089,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1041,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3089,
+    "output_tokens": 1041,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

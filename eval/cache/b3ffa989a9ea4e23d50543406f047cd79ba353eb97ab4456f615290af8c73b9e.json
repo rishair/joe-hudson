@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:05.993Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b3ffa989a9ea4e23d50543406f047cd79ba353eb97ab4456f615290af8c73b9e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017zp8adSF1xk13XA99V6uHa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[goes still for a moment. the expressiveness drops off her face a little. then she looks away briefly]*\n\nI don't...\n\n*[longer pause than she's allowed so far]*\n\nI think it would be really big. \n\n*[quiet, almost to herself]*\n\nLike, not just this relationship. All of it. Which is — I mean that's a lot to open up in a... *[gestures vaguely at the room, half-laughing, pulling back]*\n\nSee, this is what I mean, it's not productive because where does that go? I cry about three relationships and then what? I still don't know how to pick someone different. I still don't know what's broken in my — \n\n*[stops]*\n\n*[the coach hasn't said anything and she notices she's filling the silence]*\n\n...you're not going to tell me what's broken, are you.\n\n*[it's not quite a question]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 258,
+      "cache_creation_input_tokens": 456,
+      "cache_read_input_tokens": 1997,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 456,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 209,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 258,
+    "output_tokens": 209,
+    "cache_read_input_tokens": 1997,
+    "cache_creation_input_tokens": 456
+  }
+}

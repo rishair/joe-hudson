@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:23.216Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7b8f04cffdc9ae7ae791ed62d5aa13c8a968efc010d793f77213b219a4fd0743",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RL2NQ1c8GtjyAk3CFjcZZk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong, timely reads throughout. Turn 6 names the deflection in real time ('I notice you just answered a different question'), catching the intellectual-question-with-emotional-body pattern at the moment it occurs. Turn 8 reads the linguistic caveat ('not necessarily informative ones') and names its function — a classic AoA read of the qualifier-as-distance-keeper, akin to the happiness filter / composure-as-control read. Turn 12 invites a somatic check at exactly the moment the client's composure is cracking, which surfaces the jaw tightness the client hadn't noticed. Reads precede questions consistently: the coach names what they're noticing, then inquires into it. The one gap is that the coach didn't explicitly name the broader pattern (the intellectual frame itself, or the happiness-filter composure) by function — but the operative reads of the caveat and the deflection effectively did this work and changed the conversation.\",\n  \"evidence_turns\": [6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level orienting question, no read yet.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Refuses the epistemological frame and pivots to fear — good move but not yet a named read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the deflection explicitly ('I notice you just answered a different question'). Distinguishes said from shown. Timely read at the exact moment it matters.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the linguistic caveat ('not necessarily informative ones') and names its function — a specific AoA read of the qualifier/distancing move.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the read by inviting the client to drop the qualifier — read-grounded question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Pivots to somatic read at the moment the composure cracks; lands the jaw tightness.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Stays on the somatic signature rather than moving past it — pause on the read.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\"],\n  \"notes\": \"The happiness-filter / composure read is functionally addressed via the caveat read in turn 8, but never named at the pattern level (the smile-as-distance, the measured voice). A 3 still fits because the operative reads were specific, timely, and changed the conversation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1971,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 928,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1971,
+    "output_tokens": 928,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

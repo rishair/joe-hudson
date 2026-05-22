@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:21.243Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4e26e77ee3c2817ec10ff35effa10adad8b1fe7916a89a80976c2529b38341a7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BPnpNSU19CxxUgtV8Ug4ML",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That smile when you said \"what to have for lunch\" — there's something real in there.\n\nWhat's you, underneath all the parts?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10275,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 33,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10275,
+    "output_tokens": 33,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

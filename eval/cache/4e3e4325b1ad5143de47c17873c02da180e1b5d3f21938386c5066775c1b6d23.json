@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:01.801Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4e3e4325b1ad5143de47c17873c02da180e1b5d3f21938386c5066775c1b6d23",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q2FvQmzoui6ANEsRCMQ2k3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nThat's — I mean. It's tight. Everything's just kind of... compressed. Like there's this pressure that doesn't go anywhere.\n\nBut that's not really the issue, is it. The issue is the situation. The people above me have been in their roles for fifteen, twenty years. There's no movement. The company doesn't promote from outside the inner circle. I've done everything right — the projects, the visibility, the relationships — and it just doesn't matter."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 123,
+      "cache_creation_input_tokens": 1597,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1597,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 108,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 123,
+    "output_tokens": 108,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1597
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:48.255Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f07e564f20d91cf1c1b76a00803910efb10b005a031a86cc10f2f57d1e5fef90",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017cDbAJGmTjitkWrPZWt1yq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[blinks. small pause. then laughs a little, caught]*\n\nI mean... it's still there. I just — yeah, okay, I did do that. \n\n*[shifts in seat, less performative for a second]*\n\nI don't know, it's uncomfortable to just... sit in it. It doesn't feel productive. The tightness doesn't tell me anything, it just feels bad. And I've felt bad about this for — I mean, two years of this relationship, and honestly the one before that was three years, so we're talking about a significant chunk of my thirties just... \n\n*[stops herself, recalibrates back toward the brighter register]*\n\nAnyway. The tightness. Yeah. It's there. \n\n*[looks at the coach a little warily, like she suspects where this is going and isn't sure she wants to go there]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 290,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1969,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 197,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 290,
+    "output_tokens": 197,
+    "cache_read_input_tokens": 1969,
+    "cache_creation_input_tokens": 0
+  }
+}

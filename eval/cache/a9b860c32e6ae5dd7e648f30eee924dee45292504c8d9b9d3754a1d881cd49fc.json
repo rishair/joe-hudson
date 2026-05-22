@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:02.041Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a9b860c32e6ae5dd7e648f30eee924dee45292504c8d9b9d3754a1d881cd49fc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RWgjiA6xVNNdcgc7A4kD2M",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"Muted is easier than whatever the alternative is.\"\n\nWhat do you think the alternative is?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9373,
+      "cache_creation_input_tokens": 9151,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9151,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9373,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9151
+  }
+}

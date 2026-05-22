@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:27.859Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ea37826a8ae98f5d86906952b0e6af543799faff53ba52a519575117026b42a9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XDoAmuiXQP9TAKRPqKHKnf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*soft exhale*\n\nI think... pretty young. Maybe eight or nine? My sister is three years older but she was always more... sensitive. And my parents had their own stuff happening. So I just sort of -- I stepped in. I don't even remember deciding to. It was just what you did.\n\n*pause*\n\nI was good at it, I think. People said I was mature for my age. Which felt like a compliment then.\n\n*small pause, something shifts slightly*\n\nI think I'm only now starting to wonder if it was actually a compliment.\n\n*then, pulling back a little*\n\nBut I don't want to make this about my childhood or whatever. I just want to figure out what to say to my sister so I don't have to dread her calls anymore. Is there like... a way to phrase it that doesn't sound like I'm rejecting her?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 231,
+      "cache_creation_input_tokens": 308,
+      "cache_read_input_tokens": 1641,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 308,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 194,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 231,
+    "output_tokens": 194,
+    "cache_read_input_tokens": 1641,
+    "cache_creation_input_tokens": 308
+  }
+}

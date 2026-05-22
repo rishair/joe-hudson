@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:44.647Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "caaa03fd08e230fe417adab8316ef2492d040fe36a14172af6946dcc2a671891",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UBtSnw4hkVV6rkN6B36WP8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(brief silence, slightly caught off guard)*\n\nMy... *(pauses, seems to actually check)* ...shoulders are up around my ears. There's this kind of bracing, like I'm waiting for something to land on me. And my jaw is tight.\n\n*(quieter, slightly less performative)*\n\nIt's actually kind of constant, I think. I don't notice it until someone asks. Which is — I mean, that's probably significant, right? That I'm just walking around like this all the time and it's become the baseline.\n\n*(catches themselves)*\n\nSee, now the voice is saying \"you're so disconnected from your body, that's another thing you're doing wrong.\" And I'm aware that I'm telling you about the voice criticizing me for not being body-aware, which is very meta, and now I'm criticizing myself for being meta about it, so. \n\n*(dry laugh)*\n\nIt's turtles all the way down."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 329,
+      "cache_creation_input_tokens": 232,
+      "cache_read_input_tokens": 1868,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 232,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 212,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 329,
+    "output_tokens": 212,
+    "cache_read_input_tokens": 1868,
+    "cache_creation_input_tokens": 232
+  }
+}

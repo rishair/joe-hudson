@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:20.440Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ffb9edc7dbb8c21cf41f0e0d5c826f65a4cad8d5796f0e5a11fec79cc84ff93e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01W7jh59NMhmnjSoS9UaukaF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. It was a skill. It kept you safe.\n\nAnd you're still using it. That's what's happening with your boss — you hear the silence coming, and the seven-year-old takes over and disappears.\n\nWhat's it like to see that right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18624,
+      "cache_creation_input_tokens": 10386,
+      "cache_read_input_tokens": 22495,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10386,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 62,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18624,
+    "output_tokens": 62,
+    "cache_read_input_tokens": 22495,
+    "cache_creation_input_tokens": 10386
+  }
+}

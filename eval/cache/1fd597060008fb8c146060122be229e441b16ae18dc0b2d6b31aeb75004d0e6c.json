@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:03.769Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1fd597060008fb8c146060122be229e441b16ae18dc0b2d6b31aeb75004d0e6c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01D97rV9hkDcvXjTHAnQt877",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Something's missing, probably. I mean, I used to care about things. Whether I was happy, whether I was growing, whether my life was going somewhere. Now I just... don't, particularly. I do the things. I show up. I'm functional. But it's like watching myself from a slight distance."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 74,
+      "cache_creation_input_tokens": 102,
+      "cache_read_input_tokens": 1831,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 102,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 69,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 74,
+    "output_tokens": 69,
+    "cache_read_input_tokens": 1831,
+    "cache_creation_input_tokens": 102
+  }
+}

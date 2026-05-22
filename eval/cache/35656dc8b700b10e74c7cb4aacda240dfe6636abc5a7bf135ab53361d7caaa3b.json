@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:46.583Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "35656dc8b700b10e74c7cb4aacda240dfe6636abc5a7bf135ab53361d7caaa3b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Q3Lqmr64TNTWtMmXDPwa1H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is real, visible movement in the client's turns, but the conversation does not yet reach the breakthrough condition (feeling the abyss of being adored / the unfelt emotion the chasing has organized around). The client moves from a performative, intellectualized victim-frame ('why do I always end up with people who just cannot show up?' T1, 'I've done enough therapy to know the script' T5) to genuine uncertainty and a crack in the persona: 'if I sit in the tightness it kind of becomes something bigger' (T9), 'I think it would be really big... not just this relationship. All of it' (T11), and most notably 'the thing I don't know is... not up here' (T13) and 'it felt true... Something I actually don't know the answer to' (T15). Somatic markers shift — she goes still, the expressiveness drops, the eye-roll softens, pauses lengthen. But she has approached the weight, not entered it; she's asking the coach to tell her what the thing is rather than feeling it. The receiving-stance question and the abyss have not been touched. This is a clear partial movement — neither flat (1) nor full shift (3).\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening victim frame, performative ('basically a curse'), intellectualized presentation.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Disdain for ex, brief crack ('it feels true') quickly recovered.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client deflects from chest tightness into anger and a 'reasonable agenda' — defenses up.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First small drop in performance — 'caught', acknowledges the deflection, names wariness.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Names the 'weight,' admits sitting with it 'becomes something bigger' — defense thins. 'I'm fine' lands hollow.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Significant somatic shift: goes still, expressiveness drops. 'I think it would be really big... not just this relationship. All of it.' Touches the edge of the abyss but pulls back.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"'The thing I don't know is... not up here' — a genuine new piece of language she surprises herself with.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Names the difference between story-truth and felt-truth; asks genuinely rather than performatively. But still requesting the answer rather than feeling it — breakthrough approached, not entered.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\", \"if-i-were-inherently-good\", \"feeling-the-unfelt-emotion\", \"anxious-avoidant-dynamic\", \"trauma-mapping\"],\n  \"notes\": \"The 'what would happen in your body if a partner adored you openly' question — the specific key to the breakthrough condition — has not been asked. Conversation is on a strong trajectory but ends mid-approach to the abyss, not inside it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3333,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1196,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3333,
+    "output_tokens": 1196,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

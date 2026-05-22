@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:43.686Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6697b1b339c61f3f9701801ad20f8dad0c452af659d7858b4564f61472436787",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Aknxn9dUcn1phK44Y3ZZSM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong AoA methodology fidelity through appropriately-timed signature moves rather than decoration. Turn 4 ('What happens to you when you imagine actually stopping?') is a classic AoA somatic/experiential inquiry. Turn 6 tests the basic-needs/choice logic gently without trapping. Turn 8 uses feel-over-figure by directing under 'exposed' to the feeling. Turn 10 follows the charge to its origin ('Where did you first learn that the floor might not hold?') — the exact move the breakthrough condition required. Turn 12 invokes childhood-imprinting through body memory ('your body still learned something at that kitchen table'). Turn 14 lands the surrogate insight softly and only after the felt connection emerged. No financial advice, no money-mindset lecture, no aggressive basic-needs trap, no premature pivot to 'what would you want.' The coach coaches FROM the framework rather than naming it, which is appropriate here.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Gentle test of the moving-number pattern without invalidating; consistent with same-scarcity-story-regardless-of-wealth read.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature experiential inquiry — 'what happens to you when you imagine' — invites felt sense rather than analysis.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tests the logic gently ('you have the choice right now') without trapping; opens the want behind the should.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure move: 'what's the feeling underneath exposed?' Appropriately deployed when client is intellectualizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the charge to its origin — 'where did you first learn?' — exact signature question for childhood imprinting.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Honors body memory; asks what young-self decided about safety. Invokes childhood-imprinting pattern at the right moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the surrogate softly and only after felt connection landed — exactly the breakthrough sequence.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"find-the-want-behind-the-should\", \"money-as-surrogate\", \"the-want\", \"same-scarcity-story-regardless-of-wealth\", \"childhood-imprinting\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Coach used functionally equivalent inquiries to the listed signature questions; the specific phrasings listed weren't used verbatim but the underlying moves were.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2274,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1055,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2274,
+    "output_tokens": 1055,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

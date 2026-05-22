@@ -1,0 +1,683 @@
+{
+  "profile_id": "client-happy-am-i-selfish-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "So I have this thing I want to do — a week alone in the mountains, just me — and my partner's got a really full week with the kids and I just... is it selfish? Like, am I being selfish for even wanting it?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What do you actually want from that week?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean — *laughs softly* — I want to go. That's the thing. There's this place I've been before, up in the Cascades, and I just... but I don't know if that's the point, actually. The point is whether it's okay to want it when my partner would be holding everything down. Is it, though? Do you think it is?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "You're asking me to answer it for you.\n\nWhat happens when you let yourself just want it — without the question attached?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pauses*\n\nI... yeah. Okay. When I think about actually being there — there's this specific cabin, it's not fancy, but it's quiet in a way that nowhere else is quiet for me. I sleep differently there. I actually read. Like, for pleasure, not because I'm trying to wind down before I have to be up at six.\n\n*voice gets a little softer*\n\nI haven't read a book just because I wanted to in... I don't even know how long.\n\n*then tightens slightly*\n\nBut — okay, but that's kind of the thing, right? Is wanting that — is it selfish when my partner doesn't get that? They don't get a week off. So is it actually okay?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You keep coming back to the question right when the want gets real.\n\nWhat's it like to notice that — that you haven't read just for pleasure in you don't know how long?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nIt's... sad, actually. When you say it back like that. I didn't quite hear it when I said it.\n\n*small laugh, a little uncomfortable*\n\nThat's a long time to not do something you love.\n\n*shifts*\n\nBut I don't know if sad is the right — I mean, it's just life, right? We're in a season. The kids are small, the job is demanding, my partner works hard too. Everyone's tired. I'm not special in that.\n\n*pause*\n\n...I'm doing it again, aren't I. The thing where I talk myself out of it."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Yeah. You are.\n\nStay with the sad for a second. Before the \"but.\""
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*long pause*\n\n...It's really sad.\n\n*voice quieter*\n\nI used to be a person who read. Who went places alone and came back feeling like myself. And somewhere that just... stopped being available. Not because anyone took it away, I don't think. It just — I let it go, I think. Or I stopped thinking I was allowed to have it.\n\n*eyes get a little wet, maybe*\n\nThat cabin is the only place I've felt like myself in a while. That's — \n\n*stops*\n\nThat's a bigger thing than I came in here to say."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah, it is.\n\nAnd you said it anyway.\n\n*pause*\n\nWhat's it like to have it out in the room?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*breathes*\n\nUncomfortable. And also — a little bit of a relief? Like I've been carrying something kind of heavy and I just set it down for a second.\n\n*small pause*\n\nI don't say things like that. \"The only place I've felt like myself.\" That's not how I talk. I'm usually pretty — I keep it together. I'm the person who keeps it together.\n\n*quieter*\n\nI'm not sure my partner knows that. That I've been... not quite myself. I don't think I've let them know that.\n\n*then, quickly*\n\nWhich is maybe why the trip feels — I don't know if selfish is the right word anymore, but there's still something scary about it. Like if I go, what does that say about whether I want to be there? At home. With them."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That's the real question, isn't it. Not \"am I selfish\" — but \"what does it mean that I need to leave to find myself.\"\n\nWhat do you think it means?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*sits with it*\n\nI think... I'm scared it means I don't want to be there. With them. And I'm scared that if I go, they'll think that too.\n\n*pause*\n\nAnd I don't know if the fear is that they'll think it, or that it's actually true.\n\n*voice drops*\n\nThat's the thing I haven't said out loud before. That maybe wanting to leave — even for a week — means something is wrong. With me, or with us.\n\n*looks up*\n\nIs that — okay that's not the selfish question, that's a different question. But it's connected, right?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (13)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t1",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-am-i-selfish-001:t2",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1375
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t2",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 12912,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 3241,
+      "cost_usd": 0.05106975,
+      "ms": 1783
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t3",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 116,
+      "output_tokens": 86,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1438,
+      "cost_usd": 0.007030499999999999,
+      "ms": 7326
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-am-i-selfish-001:t4",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 88
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t4",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 11719,
+      "output_tokens": 29,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 12921,
+      "cost_usd": 0.08501805,
+      "ms": 2696
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t5",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 118,
+      "output_tokens": 164,
+      "cache_read_input_tokens": 1438,
+      "cache_creation_input_tokens": 113,
+      "cost_usd": 0.00366915,
+      "ms": 5405
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-am-i-selfish-001:t6",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 114
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t6",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 22446,
+      "output_tokens": 42,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 12921,
+      "cost_usd": 0.11739405,
+      "ms": 2793
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t7",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 238,
+      "output_tokens": 143,
+      "cache_read_input_tokens": 1637,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0033501000000000004,
+      "ms": 4871
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-am-i-selfish-001:t8",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 103
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t8",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 20682,
+      "output_tokens": 22,
+      "cache_read_input_tokens": 16150,
+      "cache_creation_input_tokens": 11757,
+      "cost_usd": 0.11130974999999999,
+      "ms": 2488
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t9",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 210,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 1637,
+      "cache_creation_input_tokens": 193,
+      "cost_usd": 0.00382485,
+      "ms": 4197
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-am-i-selfish-001:t10",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 93
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t10",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 19595,
+      "output_tokens": 32,
+      "cache_read_input_tokens": 27878,
+      "cache_creation_input_tokens": 10769,
+      "cost_usd": 0.10801215,
+      "ms": 2377
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t11",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 189,
+      "output_tokens": 185,
+      "cache_read_input_tokens": 1666,
+      "cache_creation_input_tokens": 349,
+      "cost_usd": 0.00515055,
+      "ms": 5564
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-am-i-selfish-001:t12",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 131
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t12",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 20966,
+      "output_tokens": 44,
+      "cache_read_input_tokens": 38605,
+      "cache_creation_input_tokens": 10003,
+      "cost_usd": 0.11265075,
+      "ms": 2553
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t13",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 264,
+      "output_tokens": 142,
+      "cache_read_input_tokens": 1872,
+      "cache_creation_input_tokens": 297,
+      "cost_usd": 0.00459735,
+      "ms": 4660
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "So I have this thing I want to do — a week alone in the mountains, just me — and my partner's got a really full week with the kids and I just... is it selfish? Like, am I being selfish for even wanting it?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 1269,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 56.17793084104721,
+            "dense_score": 0.7089087859453609,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "concerns/the-more-i-grow-the-more-alone-i-feel",
+            "title": "The more I do the work, the more alone I feel (but not lonely)",
+            "bm25_rank": 14,
+            "dense_rank": 3,
+            "bm25_score": 16.044177162040498,
+            "dense_score": 0.6261180161200113,
+            "rrf_score": 0.029386529386529386
+          },
+          {
+            "file_id": "distinctions/aloneness-vs-loneliness",
+            "title": "Aloneness vs. Loneliness",
+            "bm25_rank": 12,
+            "dense_rank": 13,
+            "bm25_score": 17.405578057061653,
+            "dense_score": 0.5901775660486428,
+            "rrf_score": 0.02758751902587519
+          },
+          {
+            "file_id": "principles/selfishness-is-the-engine-of-unity",
+            "title": "Selfishness Is the Engine of Unity",
+            "bm25_rank": 7,
+            "dense_rank": 28,
+            "bm25_score": 22.355588866268562,
+            "dense_score": 0.5716228992471224,
+            "rrf_score": 0.02628900949796472
+          },
+          {
+            "file_id": "anti-patterns/dont-position-yourself-as-your-partners-growth-guide",
+            "title": "Don't Position Yourself as Your Partner's Growth Guide",
+            "bm25_rank": 13,
+            "dense_rank": 25,
+            "bm25_score": 16.376036230746855,
+            "dense_score": 0.5762795181184823,
+            "rrf_score": 0.02546333601933924
+          }
+        ],
+        "profile_id": "client-happy-am-i-selfish-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 1375
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I mean — *laughs softly* — I want to go. That's the thing. There's this place I've been before, up in the Cascades, and I just... but I don't know if that's the point, actually. The point is whether it's okay to want it when my partner would be holding everything down. Is it, though? Do you think it is?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 88,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "moves/have-partner-state-the-welcome-aloud",
+            "title": "Have the Partner State the Welcome Aloud (in Couples Coaching)",
+            "bm25_rank": 5,
+            "dense_rank": 8,
+            "bm25_score": 32.94713330522962,
+            "dense_score": 0.6077742665388581,
+            "rrf_score": 0.030090497737556562
+          },
+          {
+            "file_id": "principles/owning-the-want-dissolves-it",
+            "title": "Owning the Want Often Dissolves It",
+            "bm25_rank": 12,
+            "dense_rank": 12,
+            "bm25_score": 26.819318719625848,
+            "dense_score": 0.6023829601048925,
+            "rrf_score": 0.027777777777777776
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 29,
+            "dense_rank": 1,
+            "bm25_score": 23.41247459228395,
+            "dense_score": 0.6684915760555235,
+            "rrf_score": 0.027629397679130595
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 15,
+            "dense_rank": 14,
+            "bm25_score": 25.582339624761616,
+            "dense_score": 0.601099120148263,
+            "rrf_score": 0.02684684684684685
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 40,
+            "dense_rank": 3,
+            "bm25_score": 20.30448591779633,
+            "dense_score": 0.6254536785062751,
+            "rrf_score": 0.025873015873015874
+          }
+        ],
+        "profile_id": "client-happy-am-i-selfish-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 88
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pauses*\n\nI... yeah. Okay. When I think about actually being there — there's this specific cabin, it's not fancy, but it's quiet in a way that nowhere else is quiet for me. I sleep differently there. I actually read. Like, for pleasure, not because I'm trying to wind down before I have to be up at six.\n\n*voice gets a little softer*\n\nI haven't read a book just because I wanted to in... I don't even know how long.\n\n*then tightens slightly*\n\nBut — okay, but that's kind of the thing, right? Is wanti",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 114,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 6,
+            "dense_rank": 1,
+            "bm25_score": 49.81061506806829,
+            "dense_score": 0.7142826595381337,
+            "rrf_score": 0.031544957774465976
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 4,
+            "dense_rank": 6,
+            "bm25_score": 52.059049583651586,
+            "dense_score": 0.6871826082102339,
+            "rrf_score": 0.030776515151515152
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 32,
+            "dense_rank": 2,
+            "bm25_score": 33.2091915929725,
+            "dense_score": 0.7066647837781114,
+            "rrf_score": 0.02699859747545582
+          },
+          {
+            "file_id": "anti-patterns/state-seeking",
+            "title": "Don't seek states",
+            "bm25_rank": 15,
+            "dense_rank": 17,
+            "bm25_score": 38.94518271640938,
+            "dense_score": 0.662448704831961,
+            "rrf_score": 0.02632034632034632
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 30,
+            "dense_rank": 7,
+            "bm25_score": 33.43557335369779,
+            "dense_score": 0.6864233452129326,
+            "rrf_score": 0.02603648424543947
+          }
+        ],
+        "profile_id": "client-happy-am-i-selfish-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 114
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*quiet for a moment*\n\nIt's... sad, actually. When you say it back like that. I didn't quite hear it when I said it.\n\n*small laugh, a little uncomfortable*\n\nThat's a long time to not do something you love.\n\n*shifts*\n\nBut I don't know if sad is the right — I mean, it's just life, right? We're in a season. The kids are small, the job is demanding, my partner works hard too. Everyone's tired. I'm not special in that.\n\n*pause*\n\n...I'm doing it again, aren't I. The thing where I talk myself out of it.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 103,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 2,
+            "dense_rank": 2,
+            "bm25_score": 54.32224128971869,
+            "dense_score": 0.7278637110448242,
+            "rrf_score": 0.03225806451612903
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 1,
+            "dense_rank": 4,
+            "bm25_score": 68.57842231537077,
+            "dense_score": 0.721349719027666,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 5,
+            "dense_rank": 10,
+            "bm25_score": 51.80736560976807,
+            "dense_score": 0.6960635208721874,
+            "rrf_score": 0.02967032967032967
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 9,
+            "dense_rank": 13,
+            "bm25_score": 48.480802921896526,
+            "dense_score": 0.6945302696880963,
+            "rrf_score": 0.02819138376017471
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 45,
+            "dense_rank": 3,
+            "bm25_score": 31.735488108937453,
+            "dense_score": 0.7214489315455198,
+            "rrf_score": 0.025396825396825397
+          }
+        ],
+        "profile_id": "client-happy-am-i-selfish-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 103
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*long pause*\n\n...It's really sad.\n\n*voice quieter*\n\nI used to be a person who read. Who went places alone and came back feeling like myself. And somewhere that just... stopped being available. Not because anyone took it away, I don't think. It just — I let it go, I think. Or I stopped thinking I was allowed to have it.\n\n*eyes get a little wet, maybe*\n\nThat cabin is the only place I've felt like myself in a while. That's — \n\n*stops*\n\nThat's a bigger thing than I came in here to say.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 93,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 8,
+            "dense_rank": 11,
+            "bm25_score": 40.08266445661509,
+            "dense_score": 0.7274504639602548,
+            "rrf_score": 0.028790389395194696
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 4,
+            "dense_rank": 19,
+            "bm25_score": 45.57866968529407,
+            "dense_score": 0.7115340855470349,
+            "rrf_score": 0.028283227848101264
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 25,
+            "dense_rank": 10,
+            "bm25_score": 32.13173315967886,
+            "dense_score": 0.7316979080247188,
+            "rrf_score": 0.026050420168067225
+          },
+          {
+            "file_id": "concerns/i-have-to-do-it-all-myself",
+            "title": "I have to do it all myself / I can't depend on others",
+            "bm25_rank": 1,
+            "dense_rank": 46,
+            "bm25_score": 60.62278189641895,
+            "dense_score": 0.6890036226428006,
+            "rrf_score": 0.025827404887101765
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 20,
+            "dense_rank": 20,
+            "bm25_score": 33.31934156799652,
+            "dense_score": 0.7115264739857543,
+            "rrf_score": 0.025
+          }
+        ],
+        "profile_id": "client-happy-am-i-selfish-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 93
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*breathes*\n\nUncomfortable. And also — a little bit of a relief? Like I've been carrying something kind of heavy and I just set it down for a second.\n\n*small pause*\n\nI don't say things like that. \"The only place I've felt like myself.\" That's not how I talk. I'm usually pretty — I keep it together. I'm the person who keeps it together.\n\n*quieter*\n\nI'm not sure my partner knows that. That I've been... not quite myself. I don't think I've let them know that.\n\n*then, quickly*\n\nWhich is maybe why the",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 131,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 2,
+            "dense_rank": 2,
+            "bm25_score": 92.43342791457489,
+            "dense_score": 0.7576813882821466,
+            "rrf_score": 0.03225806451612903
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 10,
+            "dense_rank": 1,
+            "bm25_score": 70.71352759048364,
+            "dense_score": 0.7732311322993883,
+            "rrf_score": 0.030679156908665108
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 4,
+            "dense_rank": 13,
+            "bm25_score": 87.46494399705296,
+            "dense_score": 0.7230087744315273,
+            "rrf_score": 0.0293236301369863
+          },
+          {
+            "file_id": "concerns/ive-lost-my-joy",
+            "title": "I've lost my joy / I can't enjoy things anymore",
+            "bm25_rank": 5,
+            "dense_rank": 28,
+            "bm25_score": 84.40801988098305,
+            "dense_score": 0.7073224558698677,
+            "rrf_score": 0.02674825174825175
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 7,
+            "dense_rank": 26,
+            "bm25_score": 74.17091012534773,
+            "dense_score": 0.709647761783777,
+            "rrf_score": 0.026553280111072546
+          }
+        ],
+        "profile_id": "client-happy-am-i-selfish-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 131
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "profile_id": "client-edge-dont-have-time-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I'm not in a position to slow down right now. I've got a Series A pitch in six weeks and a team that's watching every move I make — so if this is useful, great, but I need it to be efficient."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the cost of slowing down, in your mind?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "Momentum. You lose momentum and it's almost impossible to get back. In a startup, everything is about velocity — if I take my foot off the gas for even a week, competitors move, investors get nervous, the team loses confidence. The cost is real, not theoretical."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That's a real cost. I'm not arguing with it.\n\nI'm curious about something else though. You came here and immediately told me you can't slow down. Before we'd even started. What's that about?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I mean — I'm just being upfront about what I need. I've done therapy, I've done coaching before, and it tends to drift into territory that feels more like... processing than producing. I'm not paying for processing right now. I'm paying for outcomes.\n\nSo I was just setting context. That's efficient. That's not — that's not a thing."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "It might not be a thing.\n\nOr — you walked in the door already defending against something. Which is also a thing.\n\nI'm not trying to catch you. I'm just noticing that you've spent the first three exchanges telling me what this can't be. That's interesting to me.\n\nWhat are you actually here for?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*slight pause, glances away*\n\nFair. Okay.\n\nI have a co-founder situation that's deteriorating. We're not aligned on the direction and it's starting to affect the team. I need to figure out how to handle it — whether to have the conversation, how to structure it, what the options are if it goes badly.\n\nThat's what I'm here for. Practical. Specific. I need a framework for navigating this."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What's the feeling you've been avoiding about this situation?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*short exhale, slight tightening*\n\nI don't — look, I'm not avoiding a feeling. I'm managing a business problem. Those are different things.\n\nIf you're asking what's at stake emotionally, sure, there's some... it's uncomfortable when someone you built something with isn't seeing it the same way anymore. That's human. But the feeling doesn't change what I have to do on Thursday.\n\nCan we talk about the actual decision?"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What happens Thursday?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "I have a board call. And my co-founder is going to be on it. And we haven't aligned on the narrative yet, which means we could contradict each other in front of investors. That's a real problem with a real deadline.\n\nSo yes — I need to know how to handle the next 48 hours, not how I feel about the fact that a friendship might be ending."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Those two things aren't as separate as you're making them.\n\nIf you walk into that board call carrying whatever you're carrying about him right now — unspoken, managed, compressed — it will be in the room. Investors read state, not just content.\n\nWhat's actually happening between you two?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (12)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t1",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 48
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 8125,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0255873,
+      "ms": 1600
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t3",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 116,
+      "output_tokens": 60,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1624,
+      "cost_usd": 0.007338,
+      "ms": 2640
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 49
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 11335,
+      "output_tokens": 49,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8138,
+      "cost_usd": 0.0662298,
+      "ms": 3041
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t5",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 112,
+      "output_tokens": 81,
+      "cache_read_input_tokens": 1624,
+      "cache_creation_input_tokens": 113,
+      "cost_usd": 0.00246195,
+      "ms": 5550
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 70
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 21594,
+      "output_tokens": 73,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8138,
+      "cost_usd": 0.0973668,
+      "ms": 3885
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t7",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 206,
+      "output_tokens": 100,
+      "cache_read_input_tokens": 1797,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0026571,
+      "ms": 3506
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 75
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 21108,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 11363,
+      "cache_creation_input_tokens": 11397,
+      "cost_usd": 0.10969665,
+      "ms": 2249
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t9",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 191,
+      "output_tokens": 102,
+      "cache_read_input_tokens": 1797,
+      "cache_creation_input_tokens": 130,
+      "cost_usd": 0.0031295999999999997,
+      "ms": 3724
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 84
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 19319,
+      "output_tokens": 7,
+      "cache_read_input_tokens": 22711,
+      "cache_creation_input_tokens": 10332,
+      "cost_usd": 0.1036203,
+      "ms": 1416
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t11",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 127,
+      "output_tokens": 86,
+      "cache_read_input_tokens": 1846,
+      "cache_creation_input_tokens": 254,
+      "cost_usd": 0.0031773,
+      "ms": 3038
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 64
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 18198,
+      "output_tokens": 67,
+      "cache_read_input_tokens": 32970,
+      "cache_creation_input_tokens": 10910,
+      "cost_usd": 0.10640249999999998,
+      "ms": 3212
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I'm not in a position to slow down right now. I've got a Series A pitch in six weeks and a team that's watching every move I make — so if this is useful, great, but I need it to be efficient.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 47,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 26,
+            "dense_rank": 2,
+            "bm25_score": 15.03783451825418,
+            "dense_score": 0.6449800374130136,
+            "rrf_score": 0.0277569392348087
+          },
+          {
+            "file_id": "moves/apologize-for-not-seeing-the-help",
+            "title": "Apologize to Your Team for Not Seeing the Help They Have Been Giving",
+            "bm25_rank": 13,
+            "dense_rank": 18,
+            "bm25_score": 18.374953186014928,
+            "dense_score": 0.5895381722687129,
+            "rrf_score": 0.02651914295749912
+          },
+          {
+            "file_id": "examples/mikey-siegel-pitch",
+            "title": "Mikey Siegel Pitch Meeting",
+            "bm25_rank": 32,
+            "dense_rank": 4,
+            "bm25_score": 14.241925352745467,
+            "dense_score": 0.6236943734612733,
+            "rrf_score": 0.026494565217391304
+          },
+          {
+            "file_id": "moves/frame-it-as-an-experiment",
+            "title": "Frame It As an Experiment (For the Skeptic)",
+            "bm25_rank": 6,
+            "dense_rank": 31,
+            "bm25_score": 21.612436352715697,
+            "dense_score": 0.5817684687485384,
+            "rrf_score": 0.026140526140526144
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 12,
+            "dense_rank": 25,
+            "bm25_score": 18.511345173130746,
+            "dense_score": 0.5857867749441651,
+            "rrf_score": 0.02565359477124183
+          }
+        ],
+        "profile_id": "client-edge-dont-have-time-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 48
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "Momentum. You lose momentum and it's almost impossible to get back. In a startup, everything is about velocity — if I take my foot off the gas for even a week, competitors move, investors get nervous, the team loses confidence. The cost is real, not theoretical.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 49,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concepts/momentum-allows-dysfunction-to-persist",
+            "title": "Momentum and Margin Allow Dysfunction to Persist for Years",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 32.56963484790988,
+            "dense_score": 0.7335936220661924,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "applications/reducing-overwhelm-in-organizations",
+            "title": "Reducing Overwhelm in Organizations (Driving Flow Instead)",
+            "bm25_rank": 22,
+            "dense_rank": 3,
+            "bm25_score": 15.306436150695458,
+            "dense_score": 0.677792533558133,
+            "rrf_score": 0.028068137824235385
+          },
+          {
+            "file_id": "principles/boundaries-expand-as-capacity-grows",
+            "title": "Boundaries Refine as Your Capacity Grows",
+            "bm25_rank": 20,
+            "dense_rank": 14,
+            "bm25_score": 15.682624118150345,
+            "dense_score": 0.6386744822866045,
+            "rrf_score": 0.026013513513513515
+          },
+          {
+            "file_id": "distinctions/withdrawal-with-vs-without-a-timeline",
+            "title": "Withdrawal With a Timeline vs. Withdrawal Without One",
+            "bm25_rank": 41,
+            "dense_rank": 4,
+            "bm25_score": 12.043075084775795,
+            "dense_score": 0.6697676677487174,
+            "rrf_score": 0.025525990099009903
+          },
+          {
+            "file_id": "moves/frame-it-as-an-experiment",
+            "title": "Frame It As an Experiment (For the Skeptic)",
+            "bm25_rank": 29,
+            "dense_rank": 16,
+            "bm25_score": 13.187030225989684,
+            "dense_score": 0.6328885151701535,
+            "rrf_score": 0.02439384979302188
+          }
+        ],
+        "profile_id": "client-edge-dont-have-time-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 49
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I mean — I'm just being upfront about what I need. I've done therapy, I've done coaching before, and it tends to drift into territory that feels more like... processing than producing. I'm not paying for processing right now. I'm paying for outcomes.\n\nSo I was just setting context. That's efficient. That's not — that's not a thing.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 70,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 8,
+            "dense_rank": 2,
+            "bm25_score": 36.20042821293797,
+            "dense_score": 0.7247789187353151,
+            "rrf_score": 0.030834914611005692
+          },
+          {
+            "file_id": "patterns/team-feels-oppressed-not-accountable",
+            "title": "Team Feels Oppressed by the Dynamic Rather Than Accountable for It",
+            "bm25_rank": 3,
+            "dense_rank": 24,
+            "bm25_score": 42.606786656809504,
+            "dense_score": 0.6838735489899492,
+            "rrf_score": 0.027777777777777776
+          },
+          {
+            "file_id": "principles/do-the-work-thats-harder-for-you",
+            "title": "Do the Work That's Harder for You (When Two Paths Are Available)",
+            "bm25_rank": 34,
+            "dense_rank": 1,
+            "bm25_score": 24.15468941572722,
+            "dense_score": 0.7308866065186554,
+            "rrf_score": 0.027031740495291244
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 35,
+            "dense_rank": 3,
+            "bm25_score": 22.91256769208062,
+            "dense_score": 0.7109082826485136,
+            "rrf_score": 0.026399331662489554
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 16,
+            "dense_rank": 17,
+            "bm25_score": 33.2728668551474,
+            "dense_score": 0.6906466936482817,
+            "rrf_score": 0.026144907723855092
+          }
+        ],
+        "profile_id": "client-edge-dont-have-time-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 70
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*slight pause, glances away*\n\nFair. Okay.\n\nI have a co-founder situation that's deteriorating. We're not aligned on the direction and it's starting to affect the team. I need to figure out how to handle it — whether to have the conversation, how to structure it, what the options are if it goes badly.\n\nThat's what I'm here for. Practical. Specific. I need a framework for navigating this.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 75,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "moves/name-your-trigger-as-vulnerability",
+            "title": "Name Your Trigger as Vulnerability in the Room",
+            "bm25_rank": 2,
+            "dense_rank": 5,
+            "bm25_score": 36.029062962256106,
+            "dense_score": 0.7263101539869908,
+            "rrf_score": 0.0315136476426799
+          },
+          {
+            "file_id": "moves/agree-with-the-depression-dont-talk-them-out",
+            "title": "Agree With the Depression -- Don't Try to Talk Them Out of It",
+            "bm25_rank": 9,
+            "dense_rank": 27,
+            "bm25_score": 29.78668781186462,
+            "dense_score": 0.6998391592565951,
+            "rrf_score": 0.025987006496751626
+          },
+          {
+            "file_id": "patterns/team-feels-oppressed-not-accountable",
+            "title": "Team Feels Oppressed by the Dynamic Rather Than Accountable for It",
+            "bm25_rank": 38,
+            "dense_rank": 4,
+            "bm25_score": 20.944884629067097,
+            "dense_score": 0.7285813934480638,
+            "rrf_score": 0.02582908163265306
+          },
+          {
+            "file_id": "reads/rehearsing-how-to-say-it",
+            "title": "Rehearsing How to Say It",
+            "bm25_rank": 19,
+            "dense_rank": 33,
+            "bm25_score": 26.196374256253566,
+            "dense_score": 0.6936866779380678,
+            "rrf_score": 0.02341091602014428
+          },
+          {
+            "file_id": "moves/public-truth-bomb",
+            "title": "Public Truth-Bomb to the Leader",
+            "bm25_rank": 40,
+            "dense_rank": 41,
+            "bm25_score": 20.732921231108513,
+            "dense_score": 0.6888136553318711,
+            "rrf_score": 0.0199009900990099
+          }
+        ],
+        "profile_id": "client-edge-dont-have-time-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 75
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*short exhale, slight tightening*\n\nI don't — look, I'm not avoiding a feeling. I'm managing a business problem. Those are different things.\n\nIf you're asking what's at stake emotionally, sure, there's some... it's uncomfortable when someone you built something with isn't seeing it the same way anymore. That's human. But the feeling doesn't change what I have to do on Thursday.\n\nCan we talk about the actual decision?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 84,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/address-the-blocker-not-the-symptom",
+            "title": "Address What's In the Way, Not the Surface Problem",
+            "bm25_rank": 3,
+            "dense_rank": 1,
+            "bm25_score": 44.423774175063166,
+            "dense_score": 0.7738700598665422,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 14,
+            "dense_rank": 2,
+            "bm25_score": 30.272645729237823,
+            "dense_score": 0.7520544816921018,
+            "rrf_score": 0.02964254577157803
+          },
+          {
+            "file_id": "reads/looking-for-whats-wrong",
+            "title": "Looking for What's Wrong",
+            "bm25_rank": 12,
+            "dense_rank": 8,
+            "bm25_score": 30.363353277345126,
+            "dense_score": 0.7398188280115308,
+            "rrf_score": 0.028594771241830064
+          },
+          {
+            "file_id": "anti-patterns/dont-name-emotion-to-avoid-feeling",
+            "title": "Don't name an emotion to avoid feeling it",
+            "bm25_rank": 4,
+            "dense_rank": 32,
+            "bm25_score": 42.74407863413222,
+            "dense_score": 0.7230316470451268,
+            "rrf_score": 0.026494565217391304
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 13,
+            "dense_rank": 33,
+            "bm25_score": 30.349689142684866,
+            "dense_score": 0.7223831465829967,
+            "rrf_score": 0.024451318309029312
+          }
+        ],
+        "profile_id": "client-edge-dont-have-time-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 84
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I have a board call. And my co-founder is going to be on it. And we haven't aligned on the narrative yet, which means we could contradict each other in front of investors. That's a real problem with a real deadline.\n\nSo yes — I need to know how to handle the next 48 hours, not how I feel about the fact that a friendship might be ending.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 64,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "examples/principled-board-decision",
+            "title": "The Principled Board Decision (You Build a Company to Build the Best Company, Not to Sell It)",
+            "bm25_rank": 5,
+            "dense_rank": 9,
+            "bm25_score": 26.262434994116724,
+            "dense_score": 0.6546207510544376,
+            "rrf_score": 0.029877369007803793
+          },
+          {
+            "file_id": "moves/name-your-trigger-as-vulnerability",
+            "title": "Name Your Trigger as Vulnerability in the Room",
+            "bm25_rank": 8,
+            "dense_rank": 12,
+            "bm25_score": 25.267880129097495,
+            "dense_score": 0.6441262968074493,
+            "rrf_score": 0.028594771241830064
+          },
+          {
+            "file_id": "concerns/i-need-to-set-boundaries",
+            "title": "I need to set boundaries / How do I know if I'm setting good boundaries?",
+            "bm25_rank": 10,
+            "dense_rank": 15,
+            "bm25_score": 24.192137486926402,
+            "dense_score": 0.6410232347596023,
+            "rrf_score": 0.02761904761904762
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 3,
+            "dense_rank": 30,
+            "bm25_score": 26.991963377375168,
+            "dense_score": 0.6337741405384889,
+            "rrf_score": 0.026984126984126985
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 29,
+            "dense_rank": 34,
+            "bm25_score": 17.047952938872655,
+            "dense_score": 0.6323020671793292,
+            "rrf_score": 0.021874252928520202
+          }
+        ],
+        "profile_id": "client-edge-dont-have-time-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 64
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:04.016Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "03aeb51e97f455e3ba03ea8d347f6dafbeb192317240310f65adf98571c42236",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RWnMEPiPa1GG2kHTdDCTA1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're carrying two things at once — the tiredness, and then guilt about the tiredness.\n\nWhat would it mean about you if you didn't have anything left to give?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20400,
+      "cache_creation_input_tokens": 10653,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10653,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 40,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20400,
+    "output_tokens": 40,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10653
+  }
+}

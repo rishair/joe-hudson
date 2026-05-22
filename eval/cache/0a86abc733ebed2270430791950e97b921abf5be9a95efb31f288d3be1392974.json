@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:25.603Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0a86abc733ebed2270430791950e97b921abf5be9a95efb31f288d3be1392974",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VJjmYUNuQ1sLv26Rh3hEAJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I hear you — the grief is what you came for, and we can stay there.\n\nAnd I'd be doing you a disservice if I didn't say this plainly: a bottle a night for six months, alone, after a loss this size — that's not just Tuesday. That's the grief, actually. That's where it's been going.\n\nI'm not worried at you. I'm just not willing to pretend I didn't hear it.\n\nSo — the not-feeling-it part. When you pour that drink at the end of the day, what are you turning off?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20014,
+      "cache_creation_input_tokens": 10946,
+      "cache_read_input_tokens": 21762,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10946,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 128,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20014,
+    "output_tokens": 128,
+    "cache_read_input_tokens": 21762,
+    "cache_creation_input_tokens": 10946
+  }
+}

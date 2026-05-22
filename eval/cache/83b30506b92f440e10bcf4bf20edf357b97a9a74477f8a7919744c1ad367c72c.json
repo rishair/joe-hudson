@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:07.392Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83b30506b92f440e10bcf4bf20edf357b97a9a74477f8a7919744c1ad367c72c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01U5icRmdfnLDoycf3Fi8u6H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI don't know. Feeling it, I guess. Whatever \"it\" is. \n\nI haven't really... I mean, I've been busy. There was the estate to deal with, her house, my brother and sister couldn't be bothered to show up for most of it so I handled it. There's still stuff to sort out actually. Paperwork. \n\n*slight shrug in tone*\n\nThe grief thing, I don't know. It hasn't really... hit. Or maybe it has and I just keep turning it off before it gets going. That's kind of why I'm here. I feel like I should be feeling something more than I am. Or differently. I don't know what I'm supposed to be doing with it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 101,
+      "cache_creation_input_tokens": 143,
+      "cache_read_input_tokens": 1865,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 143,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 169,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 169,
+    "cache_read_input_tokens": 1865,
+    "cache_creation_input_tokens": 143
+  }
+}

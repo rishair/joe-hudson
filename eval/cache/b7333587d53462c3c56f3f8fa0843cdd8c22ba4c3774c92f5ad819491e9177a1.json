@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:59.842Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b7333587d53462c3c56f3f8fa0843cdd8c22ba4c3774c92f5ad819491e9177a1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KnyukLDHRzQ7cfxeR9HLrQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with it, quiet*\n\nI think it's... holding something in place. Like if I let the jaw go, something else moves.\n\n*pause*\n\nI'm not sure I want to know what that is. Which is probably the point.\n\n*the smile is mostly gone now, voice still careful but slightly less clipped*\n\nI came in here with a very clean question and I notice it's not feeling very clean anymore."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 97,
+      "cache_creation_input_tokens": 159,
+      "cache_read_input_tokens": 1916,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 159,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 95,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 97,
+    "output_tokens": 95,
+    "cache_read_input_tokens": 1916,
+    "cache_creation_input_tokens": 159
+  }
+}

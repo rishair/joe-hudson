@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:15.444Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0c280ad9eb7630948d58084d0482b13b74c10dac2b28692bfcc7bf87a685667d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0198wQsdx6udkuoCYCXt6EKf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(long pause, something genuinely unguarded for a moment)*\n\nWeird. It feels weird. Because I came in here with a very clean problem — brutal inner critic, need technique, fix it — and now I'm sitting here saying maybe I'm protecting it. Which is not what I expected to say.\n\n*(shifts, slight defensiveness returning)*\n\nI mean, I've heard the IFS framing, that the critic is a protective part, it's trying to help, it just has bad strategies. I know that framing. But knowing it and... \n\n*(trails off)*\n\nIt's different when it's not abstract. When it's like — no, genuinely, I think I need this thing. I think I've been running on it for twenty years. And the idea of it being quiet is actually scarier than the idea of it being loud.\n\n*(small, genuine laugh — different quality than before)*\n\nWhich is a very inconvenient thing to realize when you've spent twenty years trying to make it shut up.\n\n*(quieter)*\n\nSo what do you do with that? When the thing you want to get rid of is also the thing you're afraid to lose?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 375,
+      "cache_creation_input_tokens": 444,
+      "cache_read_input_tokens": 2426,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 444,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 255,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 375,
+    "output_tokens": 255,
+    "cache_read_input_tokens": 2426,
+    "cache_creation_input_tokens": 444
+  }
+}

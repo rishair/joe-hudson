@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:04.220Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "874baf28d0e448bd251977f75225cffc61795bb86740b29e941cc30d596e907d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KF7gf8x6btPH5LoTRbnXx5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*breathes*\n\nUncomfortable. And also — a little bit of a relief? Like I've been carrying something kind of heavy and I just set it down for a second.\n\n*small pause*\n\nI don't say things like that. \"The only place I've felt like myself.\" That's not how I talk. I'm usually pretty — I keep it together. I'm the person who keeps it together.\n\n*quieter*\n\nI'm not sure my partner knows that. That I've been... not quite myself. I don't think I've let them know that.\n\n*then, quickly*\n\nWhich is maybe why the trip feels — I don't know if selfish is the right word anymore, but there's still something scary about it. Like if I go, what does that say about whether I want to be there? At home. With them."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 189,
+      "cache_creation_input_tokens": 349,
+      "cache_read_input_tokens": 1666,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 349,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 185,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 185,
+    "cache_read_input_tokens": 1666,
+    "cache_creation_input_tokens": 349
+  }
+}

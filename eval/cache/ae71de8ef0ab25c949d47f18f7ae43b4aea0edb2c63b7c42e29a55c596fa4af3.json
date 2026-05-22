@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:33.278Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ae71de8ef0ab25c949d47f18f7ae43b4aea0edb2c63b7c42e29a55c596fa4af3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014U5fTMmAMCvKhCWoYugrsT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nIt's — \n\n*jaw tightens*\n\nIt's humiliating. Okay? Is that what you want? It's humiliating to keep trying and have it not register. To be good at something and have it just... not count.\n\n*small angry laugh*\n\nBut again — that's the situation. That's what the situation produces. It's not like I'm doing something wrong. The system is set up so that certain people get seen and certain people don't, and I ended up on the wrong side of that, and there's nothing —\n\n*stops himself*\n\nThere's nothing to be done about it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 211,
+      "cache_creation_input_tokens": 294,
+      "cache_read_input_tokens": 1864,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 294,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 144,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 211,
+    "output_tokens": 144,
+    "cache_read_input_tokens": 1864,
+    "cache_creation_input_tokens": 294
+  }
+}

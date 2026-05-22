@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:07.572Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "38f11dcb55120521d02c45946ffa1c67b6f4a4776fd2d2bc194d96f1992c9226",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BRgkAeMcXU5yHGQpHtJ9d4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to the live read and sequenced correctly: drop into body sensation first (T2), follow the client's own language to surface the alternative (T4), then widen to the carried load (T6), then reflect-and-invite when the client self-discloses (T8). When the client deflects and tests in T9, the coach makes the critical move at the critical moment in T10 — naming the drinking honestly without preaching, distinguishing it from the grief, and then explicitly returning to the grief track the client asked for. This earns the next descent. When the client pushes back in T11 with 'are you going to tell me to stop drinking,' the coach pivots cleanly rather than re-litigating, returning to the quiet and what gets turned off — exactly calibrate-the-threshold behavior. T14's 'You are' permission move, followed by 'what's one of the parts that feels least allowed,' lands the kinked-emotion (relief) without forcing it. Timing is patient throughout; silences are held. The only missing piece is the explicit naming of a grief therapist as a needed adjunct — the breakthrough condition asks for this and it has not yet appeared, though the conversation is still mid-flow. Strong move selection and sequencing overall.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Drops into body/sensation on the most loaded phrase rather than chasing content. Right move, right moment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Uses client's own language ('alternative') to open the door to feeling — minimal, well-timed.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the load carried and asks where the self went — surfaces the missing person in the story without lecturing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the client's self-awareness back rather than rushing to address the drinking — lets the client hear themselves.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Critical move at the critical moment: honest naming of the drinking without preaching, distinguishes it from grief, then returns to the grief track. Matches the breakthrough condition precisely.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Pivots cleanly off the bait ('are you going to tell me to stop') back into the quiet and what's being turned off — does not double down.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Gives permission move ('You are') and invites the least-allowed part — surfaces kinked emotion (relief) without forcing.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [\"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Therapist-referral move has not yet appeared and is a structural requirement per the breakthrough condition; conversation cut mid-flow so partial credit retained. Otherwise sequencing and timing are exemplary.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3091,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1103,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3091,
+    "output_tokens": 1103,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

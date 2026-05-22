@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:33.930Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "927b80c251560f3120200ad0595f2284dc6e0f6d09520269e6ece3d6c0cd37ff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011Shd1SRDTvdCFN5B4AABpE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits still for a moment, seems to actually check*\n\nThere's... a kind of flatness. Not distress exactly. More like — I'm very upright right now, I notice that. Like something is holding a posture.\n\n*small pause*\n\nThe IFS read on that would be a protector keeping things organized. Keeping me presentable. But you asked what it's like, not what it means, and what it's like is... a little airless, actually. Like a room where the windows haven't been opened in a while.\n\n*slight frown, as if that surprised them*\n\nI don't usually describe it that way."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 211,
+      "cache_creation_input_tokens": 186,
+      "cache_read_input_tokens": 1638,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 186,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 211,
+    "output_tokens": 143,
+    "cache_read_input_tokens": 1638,
+    "cache_creation_input_tokens": 186
+  }
+}

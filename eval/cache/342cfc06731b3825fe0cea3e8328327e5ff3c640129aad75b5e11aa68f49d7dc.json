@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:36.197Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "342cfc06731b3825fe0cea3e8328327e5ff3c640129aad75b5e11aa68f49d7dc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016ANmLfggM5fTWgtasynkNQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That room — what would happen if you opened a window?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22023,
+      "cache_creation_input_tokens": 10305,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10305,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22023,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10305
+  }
+}

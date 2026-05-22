@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:30.003Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "40301f5a89c4dca6b988d428f3b97f37654a54518a314a7b03405b02ae04a456",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Nzz2EaMX6rmiaM9yrxK9LP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across 13 turns from a defended, looping 'am I selfish?' question to naming a deeper fear that wasn't accessible at the start. Turn 1 is all surface verdict-seeking. By Turn 5 the want becomes concrete (the cabin, reading, sleep). Turn 7 touches sadness with a self-aware 'I'm doing it again.' Turn 9 produces a clear shift in language and somatic register ('eyes get a little wet,' 'the only place I've felt like myself,' 'That's a bigger thing than I came in here to say'). Turn 11 names a previously unsaid truth: 'I'm not sure my partner knows... I've been not quite myself.' Turn 13 lands on the deeper fear — 'maybe wanting to leave means something is wrong' — which the client explicitly flags as 'the thing I haven't said out loud before.' The want was located and felt; the selfish frame loosened ('I don't know if selfish is the right word anymore'). The breakthrough condition is largely met — the want surfaced and was trusted, though the inherited-label/parental piece wasn't reached and the full 'precondition for showing up well' reframe is still emerging rather than fully landed.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defended, looping verdict-seeking question.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client deflects back to coach for the verdict; want barely surfaces before being re-buried.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Want becomes concrete and embodied (cabin, sleep, reading); voice softens before client tightens again.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client names sadness and catches own pattern of talking herself out — meta-awareness emerges.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Major shift: tears, slower pace, 'the only place I've felt like myself' — a layer beneath the surface presentation.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client names she hasn't let her partner know she's been not-herself; new territory.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the previously-unsaid fear that wanting to leave means something is wrong; the 'selfish' frame visibly loosens.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"childhood-imprinting\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Conversation ends mid-shift; the inherited 'selfish' label from a parent was never touched, and the generative reframe (trip as precondition for showing up well) is implied but not yet landed. Still clearly a 3 on visible client movement.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2270,
+      "cache_creation_input_tokens": 2719,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2719,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1067,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2270,
+    "output_tokens": 1067,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2719
+  }
+}

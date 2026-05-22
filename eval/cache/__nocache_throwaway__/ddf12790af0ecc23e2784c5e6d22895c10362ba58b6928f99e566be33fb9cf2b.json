@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:53.442Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ddf12790af0ecc23e2784c5e6d22895c10362ba58b6928f99e566be33fb9cf2b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Sm7HZCceBxNLiuwgbN34M9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I... \n\n*[pause, slight shift]*\n\nI mean, it's not true. So.\n\nBut like -- theoretically? My director would see it. The team would see it. I've been in this company for six years and I finally got the thing I wanted and if I blow it... I don't know. They'd probably pull me off the project. Give it to someone else. And everyone would just -- they'd know. That I couldn't actually do it.\n\nBut that's not what's happening. I'm just behind on some stuff. That's different.\n\n...right?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 215,
+      "cache_creation_input_tokens": 191,
+      "cache_read_input_tokens": 1855,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 191,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 215,
+    "output_tokens": 129,
+    "cache_read_input_tokens": 1855,
+    "cache_creation_input_tokens": 191
+  }
+}

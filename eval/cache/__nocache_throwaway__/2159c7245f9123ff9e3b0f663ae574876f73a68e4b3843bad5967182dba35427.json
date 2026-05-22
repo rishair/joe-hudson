@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:51.988Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2159c7245f9123ff9e3b0f663ae574876f73a68e4b3843bad5967182dba35427",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0198SjcAJrmbogzbuRRFj7FZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. You are.\n\nStay with the sad for a second. Before the \"but.\""
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20682,
+      "cache_creation_input_tokens": 11757,
+      "cache_read_input_tokens": 16150,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11757,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20682,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 16150,
+    "cache_creation_input_tokens": 11757
+  }
+}

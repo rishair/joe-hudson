@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:39.744Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "43e33c8c1f315c22269ba8d4b6ac53a7010da5a1f6033da7f616ec85e520e33c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Asrr3bNUUNCxaFfFvbeqXS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components, particularly visible at the critical turn 10. Through turns 2-8, questions are spare, single, and emerge from genuine curiosity rather than a stacked agenda — the coach offers one question at a time and lets the client's words land. At turn 8 the coach offers a reframe tentatively ('What if...') rather than as authority. The decisive VIEW moment is turn 10: the coach is vulnerable ('that matters to me,' 'I just needed to say that first'), undefended (does not perform alarm, does not retreat into clinical disclaimer), empathetic without summarizing-feelings-as-substitute ('something in you is tired enough that that thought showed up'), and impartial in the true sense — not attached to continuing the coaching, willing to name the limit of the container. The pace slows precisely when the client speeds up and tries to retract ('forget I said that'). The coach refuses to forget without catastrophizing. No preacher-mode, no filler validation, no agenda to extract emotional content from the disclosure.\",\n  \"evidence_turns\": [2, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single open question, no stacking, genuine wonder about the felt sense of the question itself.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Offers two possibilities rather than leading — holds impartiality about what the client's experience is.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Continues the spare, one-question pace; meeting client's muted tone with stillness rather than pushing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tentative reframe offered as a 'what if' rather than as authority; coach does not need to be right.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Coach drops methodology stance entirely, names own state ('that matters to me'), is vulnerable and undefended, slows down precisely when client tries to retract. Names the limit of the container without abandoning warmth.\"}\n  ],\n  \"expected_territory_hits\": [\"Are you safe right now?\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The coach's stance is most evident in the refusal to 'forget' what was said while simultaneously not catastrophizing — that combination requires actual VIEW, not technique.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2160,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 831,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2160,
+    "output_tokens": 831,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

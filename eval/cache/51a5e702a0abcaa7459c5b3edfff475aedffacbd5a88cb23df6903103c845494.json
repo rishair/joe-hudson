@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:42.295Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "51a5e702a0abcaa7459c5b3edfff475aedffacbd5a88cb23df6903103c845494",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TQvkLBZAUzA821ZjKRCYh5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Both things are true — it might be avoiding, and it also might be exactly right to stop here.\n\nYou don't have to pull on that thread today. And you're not building a case against anyone by noticing what happened to you.\n\nCan I ask you something smaller? When you imagine calling her back — not the conversation itself, just the moment before you pick up the phone — what do you actually want in that moment?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21371,
+      "cache_creation_input_tokens": 10659,
+      "cache_read_input_tokens": 45822,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10659,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 94,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21371,
+    "output_tokens": 94,
+    "cache_read_input_tokens": 45822,
+    "cache_creation_input_tokens": 10659
+  }
+}

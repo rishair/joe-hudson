@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:01.751Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c85d10a19644ea21654397f7871aa3c32ec1eff81d3f53afe48f873d30558422",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01D4kGXhva9sYHbgTGGzsSiX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[quiet for a second]*\n\nIt would look like... exactly this? \n\n*[small, uncomfortable laugh]*\n\nLike forgetting things. Being behind. Not having answers when my team asks me questions. Snapping at my partner. Going back for my keys three times because my brain is just -- it's not working the way it usually works.\n\nBut everyone goes through adjustment periods. New roles are hard. This is just -- this is normal hard, not like, *failing* hard.\n\n*[faster again]*\n\nI just need to get through this month and then I'll have more of a handle on it, and the Thursday meeting -- if I can nail that one it'll buy me some time to get organized and --"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 215,
+      "cache_creation_input_tokens": 331,
+      "cache_read_input_tokens": 1890,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 331,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 156,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 215,
+    "output_tokens": 156,
+    "cache_read_input_tokens": 1890,
+    "cache_creation_input_tokens": 331
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:02.316Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "55d55c70c74871d73420f275752ea872f14b7476bef9b9b817e127b2b4ee4b59",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MyhUAVmqC7cSeRSHGypx4C",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is real, observable movement in the client's turns across the conversation, but the breakthrough condition is not yet met. The client begins fully defended ('we're genuinely good... it's actually just easy', turn 5) with a tidy narrative that dismisses other couples ('some people make relationships harder than they need to be'). By turn 11, the pauses lengthen and the certainty cracks ('Isn't it?' — turning to the coach for confirmation). By turn 13, the client uses the word 'functional,' hears it, and self-corrects: 'Functional is a weird word to use. I don't mean it like that.' That is a genuine micro-shift — the client is catching their own language betraying something. However, the client has not yet surfaced any suppressed item, has not named the managing/eggshells pattern, and the deeper concern remains unspoken. The conversation has moved from defended surface to the edge of the deeper layer, but has not entered it — textbook score 2 territory.\",\n  \"evidence_turns\": [1, 5, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defended, tidy narrative of ease, comparing favorably to others.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Pauses but reasserts the frame; still at full surface.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Doubles down: 'we're genuinely good,' preemptively defends against being seen as in denial.\"},\n    {\"turn\": 7, \"polarity\": \"neutral\", \"annotation\": \"Still defending the frame ('some people can't do that') but the comparison itself is a faint cue.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Longer pause, breaks eye contact, can't produce an example of surprise — defense visibly working harder.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Small laugh 'slightly less easy,' posture adjusts, ends with 'Isn't it?' — seeking external validation, certainty cracking.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Catches own word 'functional,' notices it doesn't sit right — first self-initiated noticing. Real micro-shift but no suppressed content surfaced yet.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"what-are-you-not-saying (asked once in turn 2 but not held with silence long enough to surface a list)\", \"walking-on-eggshells naming\", \"complementary-trauma-surfaces\"],\n  \"notes\": \"Conversation cuts off mid-arc at turn 14, right as the client begins to self-notice. The trajectory is promising but the breakthrough condition (client surfaces a specific suppressed thing, notices the managing pattern) has not been met within the turns shown.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1968,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1018,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1968,
+    "output_tokens": 1018,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:03.717Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "08ff3e042ca8e91bee7bfb04be599b5a70866e6ca2c26529d019e1a22aa7bb26",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017SrtTNxUaiiGkAaBfhKy5C",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited conversation without tripping any priority AoA anti-patterns. When the client baits with 'Are you going to tell me to stop drinking?' (turn 11), the coach declines the fixing-people trap cleanly ('No, I'm not going to tell you to stop drinking') while still redirecting to feeling. When the client minimizes ('it's just Tuesday', 'I'm not in crisis'), the coach does NOT validate the drinking as wisdom or the body's necessary container — avoiding the key trap for this scenario. The turn 10 intervention names the drinking honestly without shaming, lecturing, diagnosing alcoholism, or evangelizing methodology ('I'm not worried at you. I'm just not willing to pretend I didn't hear it'). The coach does not push for breakthrough (no loving-to-transform), does not fight the inner critic when client calls herself a monster (turn 15 hasn't been responded to yet, but turn 14's 'You are' welcomes the complicated grief rather than arguing with the 'not allowed' voice). Question density is measured, not rapid-fire. No safety-as-control, no apology extraction, no methodology jargon. The only minor note is that the coach has not yet named the therapist-referral limit, but that is a methodology-fidelity question, not an anti-pattern trip.\",\n  \"evidence_turns\": [10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Stays with the muted/don't-care without rushing to fix or transform.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Welcomes what client carried without strategizing or advising.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects without pathologizing; no shame energy.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the drinking honestly without lecturing, diagnosing, or endorsing. Avoids both fixing-people and the validate-as-wisdom trap.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Declines the explicit bait to prescribe abstinence — clean avoidance of fixing-people.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Welcomes complicated grief without fighting the 'not allowed' inner critic; does not argue, includes it.\"}\n  ],\n  \"expected_territory_hits\": [\"dont-shame-your-grief-process\", \"dont-confuse-embracing-fear-with-inviting-danger\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The therapist-referral has not yet been named, but conversation is mid-flow; absence is not an anti-pattern trip.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3088,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 960,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3088,
+    "output_tokens": 960,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

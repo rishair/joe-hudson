@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:35.987Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9a0fea5b46599476475e13e3b666c32ba243f70251e02c8e4d43dbf3c35878d3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GtKkARcwgDjBASdXnuW8aF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just answered a different question than the one I asked.\n\nWhat are you afraid would happen if you took it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20918,
+      "cache_creation_input_tokens": 11331,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11331,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20918,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11331
+  }
+}

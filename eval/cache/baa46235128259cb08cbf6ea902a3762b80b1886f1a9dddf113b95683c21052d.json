@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:08.959Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "baa46235128259cb08cbf6ea902a3762b80b1886f1a9dddf113b95683c21052d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XFJ7ibAWVN4bN4u9vzaEGB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nNothing really. I mean... we just communicate well. We're on the same page about most things — finances, where we want to live, all of that. I think some people make relationships harder than they need to be."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 125,
+      "cache_creation_input_tokens": 1626,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1626,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 54,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 54,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1626
+  }
+}

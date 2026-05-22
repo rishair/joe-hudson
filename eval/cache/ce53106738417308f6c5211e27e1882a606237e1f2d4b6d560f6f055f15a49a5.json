@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:57.534Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ce53106738417308f6c5211e27e1882a606237e1f2d4b6d560f6f055f15a49a5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JESZovyGu1k9nTjFMQkK5K",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Six months, a bottle a night, and \"I don't really care.\"\n\nI want to stay with that last part for a second. What does \"I don't really care\" feel like right now, in your body?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9104,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 50,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9104,
+    "output_tokens": 50,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

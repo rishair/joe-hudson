@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:08.766Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f59d05c4c604d64f456f8cceec706350ab65f86e8db366afffeb4d6e2f8eb712",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Lr1YrhpHNxbjbJAZeeFngz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight smile*\n\nI mean... it wouldn't change much, I guess. I'd deal with it. That's kind of how I operate — something comes up, you handle it.\n\nBut honestly, I just don't think that's what's going on here. It's not like I'm losing sleep, I'm not avoiding thinking about the launch, I can talk about it fine. I think about the mechanics of it pretty clearly. It's more that when I sit down to actually do the thing, I just... drift. Go make coffee, check my phone. Classic ADHD stuff, maybe.\n\nI've been in situations that should have produced fear — genuinely high-stakes — and I know what that feels like. This doesn't feel like that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 208,
+      "cache_creation_input_tokens": 1763,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1763,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 162,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 208,
+    "output_tokens": 162,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1763
+  }
+}

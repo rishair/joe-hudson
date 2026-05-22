@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:28.955Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f450c09ae473178754dbb4683623e10a3086eaa0807a3076ebd35985fcacc80f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RACRCM4exdoncUMsLnhHkj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not getting at anything.\n\nI noticed you said \"to not be invisible\" and then immediately explained why that feeling doesn't matter. That happened fast.\n\nWhat's it like to want to be seen and not be?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18414,
+      "cache_creation_input_tokens": 9008,
+      "cache_read_input_tokens": 24577,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9008,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 50,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18414,
+    "output_tokens": 50,
+    "cache_read_input_tokens": 24577,
+    "cache_creation_input_tokens": 9008
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "profile_id": "client-resistance-i-feel-trapped-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "The system is rigged. Can't move up at work because the people above me just — they're not going anywhere, and I'm sitting here watching my best years disappear and there's nothing to be done about it."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That feeling of watching time pass while you're stuck — what does that actually feel like in your body right now?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*small laugh*\n\nThat's — I mean. It's tight. Everything's just kind of... compressed. Like there's this pressure that doesn't go anywhere.\n\nBut that's not really the issue, is it. The issue is the situation. The people above me have been in their roles for fifteen, twenty years. There's no movement. The company doesn't promote from outside the inner circle. I've done everything right — the projects, the visibility, the relationships — and it just doesn't matter."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That move you just made — from the tightness in your chest back to the situation — I noticed it.\n\nWhat's the feeling you're not wanting to stay with?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*brief eye contact, then away*\n\nI don't — that's not what's happening. I'm just being accurate about what the situation is. The tightness is because the situation is tight. That's cause and effect.\n\nI've been at this company eleven years. Eleven. And watched three people get promoted over me who had half my experience, half my output. So yeah, there's pressure. That's a rational response to an irrational situation.\n\n*jaw shifts slightly*\n\nWhat feeling am I not wanting to stay with. I mean. Frustration, I guess. Anger. Which again — appropriate response."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Eleven years. That's a long time to keep showing up.\n\nWhat does the anger want?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pause, small laugh that doesn't quite land as humor*\n\nWhat does it want. \n\nIt wants things to be fair. It wants the work to mean something. It wants — \n\n*stops*\n\nI don't know. Recognition, I guess. To not be invisible.\n\n*recalibrates, pulls back slightly*\n\nBut that's — look, wanting recognition isn't going to change the org chart. The people above me aren't leaving. That's just the reality. So what the anger \"wants\" doesn't really matter because there's nowhere for it to go. The situation is what it is."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You said \"to not be invisible\" and then you pulled back.\n\nWhat happened in that moment?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*longer pause than before*\n\nNothing happened. I just — it's not useful, is it. Wanting to be seen, wanting recognition. That's not a strategy. That's just... feelings. And feelings don't change the fact that there are four people sitting between me and any kind of advancement and they're all in their fifties and they're all perfectly comfortable.\n\n*shifts slightly*\n\nI've had this conversation with myself a hundred times. What do I want, what do I need. And then I come back to the same wall. So.\n\n*glances up briefly*\n\nWhat are you actually getting at."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "I'm not getting at anything.\n\nI noticed you said \"to not be invisible\" and then immediately explained why that feeling doesn't matter. That happened fast.\n\nWhat's it like to want to be seen and not be?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nIt's — \n\n*jaw tightens*\n\nIt's humiliating. Okay? Is that what you want? It's humiliating to keep trying and have it not register. To be good at something and have it just... not count.\n\n*small angry laugh*\n\nBut again — that's the situation. That's what the situation produces. It's not like I'm doing something wrong. The system is set up so that certain people get seen and certain people don't, and I ended up on the wrong side of that, and there's nothing —\n\n*stops himself*\n\nThere's nothing to be done about it."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That word — humiliating. That's not the same as frustrated.\n\nCan you stay with that for a second, just the humiliation itself? Not what caused it, not what to do about it. Just what it's like to feel that."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*long pause*\n\n*looks away*\n\nIt's... like being erased. Like you put yourself out there and the response is just — nothing. Like you don't quite exist in the way you thought you did.\n\n*jaw works slightly*\n\n*quieter*\n\nEleven years of that.\n\n*then, almost reflexively*\n\nWhich is why the situation needs to change. Because that's not — no one should have to —\n\n*stops*\n\n*shorter pause this time before the redirect*\n\nI don't know why we're talking about this. This isn't going to fix anything."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Eleven years of feeling erased.\n\nThat's not a work problem. That's a long time to carry something that heavy."
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*stillness*\n\n*doesn't redirect immediately*\n\n*looks at hands*\n\nYeah.\n\n*quiet*\n\nYeah, it is.\n\n*pause, something shifts slightly in the shoulders*\n\nI don't — I mean. I keep thinking if I just do the next thing, the right thing, eventually it registers. Eventually it counts. And it just... doesn't. And then another year goes by.\n\n*small sound, not quite a laugh*\n\nMy wife keeps saying I should leave. And I keep saying I can't, we have the mortgage, the kids, we can't afford the risk. And that's true. That's all true.\n\n*pause*\n\nBut I don't know. Maybe I also just... don't want to find out that it happens somewhere else too."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t1",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-i-feel-trapped-001:t2",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 45
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t2",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 9820,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0308223,
+      "ms": 5165
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t3",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 123,
+      "output_tokens": 108,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1597,
+      "cost_usd": 0.00797775,
+      "ms": 3880
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-i-feel-trapped-001:t4",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 86
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t4",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 11496,
+      "output_tokens": 39,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9843,
+      "cost_usd": 0.07295655000000001,
+      "ms": 2464
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t5",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 150,
+      "output_tokens": 137,
+      "cache_read_input_tokens": 1597,
+      "cache_creation_input_tokens": 120,
+      "cost_usd": 0.0034341,
+      "ms": 4851
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-i-feel-trapped-001:t6",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 131
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t6",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 20480,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9843,
+      "cost_usd": 0.09968355000000001,
+      "ms": 5066
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t7",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 203,
+      "output_tokens": 133,
+      "cache_read_input_tokens": 1825,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0031515,
+      "ms": 4174
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-i-feel-trapped-001:t8",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 94
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t8",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 17842,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 13058,
+      "cache_creation_input_tokens": 11558,
+      "cost_usd": 0.1011459,
+      "ms": 2511
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t9",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 184,
+      "output_tokens": 134,
+      "cache_read_input_tokens": 1825,
+      "cache_creation_input_tokens": 176,
+      "cost_usd": 0.0037695000000000003,
+      "ms": 4797
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-i-feel-trapped-001:t10",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 94
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t10",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 18414,
+      "output_tokens": 50,
+      "cache_read_input_tokens": 24577,
+      "cache_creation_input_tokens": 9008,
+      "cost_usd": 0.09714509999999998,
+      "ms": 2881
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t11",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 211,
+      "output_tokens": 144,
+      "cache_read_input_tokens": 1864,
+      "cache_creation_input_tokens": 294,
+      "cost_usd": 0.0044547,
+      "ms": 4322
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-i-feel-trapped-001:t12",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 100
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t12",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 19684,
+      "output_tokens": 55,
+      "cache_read_input_tokens": 33561,
+      "cache_creation_input_tokens": 8918,
+      "cost_usd": 0.1033878,
+      "ms": 2824
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t13",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 252,
+      "output_tokens": 130,
+      "cache_read_input_tokens": 2025,
+      "cache_creation_input_tokens": 291,
+      "cost_usd": 0.00440475,
+      "ms": 6642
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-i-feel-trapped-001:t14",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 88
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t14",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 21428,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 42455,
+      "cache_creation_input_tokens": 9591,
+      "cost_usd": 0.11343675,
+      "ms": 2377
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t15",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 218,
+      "output_tokens": 170,
+      "cache_read_input_tokens": 2182,
+      "cache_creation_input_tokens": 328,
+      "cost_usd": 0.0050886,
+      "ms": 5334
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "The system is rigged. Can't move up at work because the people above me just — they're not going anywhere, and I'm sitting here watching my best years disappear and there's nothing to be done about it.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 45,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "patterns/team-feels-oppressed-not-accountable",
+            "title": "Team Feels Oppressed by the Dynamic Rather Than Accountable for It",
+            "bm25_rank": 6,
+            "dense_rank": 8,
+            "bm25_score": 24.272672873290418,
+            "dense_score": 0.5990816363132939,
+            "rrf_score": 0.029857397504456328
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 4,
+            "dense_rank": 12,
+            "bm25_score": 26.373984712385333,
+            "dense_score": 0.5818735270819326,
+            "rrf_score": 0.029513888888888888
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 1,
+            "dense_rank": 19,
+            "bm25_score": 39.77493481226876,
+            "dense_score": 0.5640561687070162,
+            "rrf_score": 0.029051670471052088
+          },
+          {
+            "file_id": "concerns/i-have-to-do-it-all-myself",
+            "title": "I have to do it all myself / I can't depend on others",
+            "bm25_rank": 20,
+            "dense_rank": 1,
+            "bm25_score": 18.217923118751514,
+            "dense_score": 0.6505427352282659,
+            "rrf_score": 0.02889344262295082
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 15,
+            "dense_rank": 5,
+            "bm25_score": 18.986742030203427,
+            "dense_score": 0.6049926172293807,
+            "rrf_score": 0.02871794871794872
+          }
+        ],
+        "profile_id": "client-resistance-i-feel-trapped-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 45
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*small laugh*\n\nThat's — I mean. It's tight. Everything's just kind of... compressed. Like there's this pressure that doesn't go anywhere.\n\nBut that's not really the issue, is it. The issue is the situation. The people above me have been in their roles for fifteen, twenty years. There's no movement. The company doesn't promote from outside the inner circle. I've done everything right — the projects, the visibility, the relationships — and it just doesn't matter.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 86,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 12,
+            "dense_rank": 5,
+            "bm25_score": 25.39883824062191,
+            "dense_score": 0.6822358192591282,
+            "rrf_score": 0.029273504273504274
+          },
+          {
+            "file_id": "principles/the-work-is-yours-not-mine",
+            "title": "The Work Is Yours, Not Mine",
+            "bm25_rank": 7,
+            "dense_rank": 24,
+            "bm25_score": 30.176796428285115,
+            "dense_score": 0.6531243958822985,
+            "rrf_score": 0.026830135039090264
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 34,
+            "dense_rank": 16,
+            "bm25_score": 19.51905641995235,
+            "dense_score": 0.6630763554151279,
+            "rrf_score": 0.02379619260918253
+          },
+          {
+            "file_id": "concerns/i-have-to-do-it-all-myself",
+            "title": "I have to do it all myself / I can't depend on others",
+            "bm25_rank": 38,
+            "dense_rank": 26,
+            "bm25_score": 18.885091175635193,
+            "dense_score": 0.6493740236793671,
+            "rrf_score": 0.021831988609397245
+          },
+          {
+            "file_id": "anti-patterns/dont-make-it-your-job-to-prevent-their-triggers",
+            "title": "Don't Make It Your Job to Prevent Your Partner's Triggers",
+            "bm25_rank": 40,
+            "dense_rank": 36,
+            "bm25_score": 18.090245219034543,
+            "dense_score": 0.6449838947986658,
+            "rrf_score": 0.020416666666666666
+          }
+        ],
+        "profile_id": "client-resistance-i-feel-trapped-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 86
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*brief eye contact, then away*\n\nI don't — that's not what's happening. I'm just being accurate about what the situation is. The tightness is because the situation is tight. That's cause and effect.\n\nI've been at this company eleven years. Eleven. And watched three people get promoted over me who had half my experience, half my output. So yeah, there's pressure. That's a rational response to an irrational situation.\n\n*jaw shifts slightly*\n\nWhat feeling am I not wanting to stay with. I mean. Frust",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 131,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 5,
+            "dense_rank": 4,
+            "bm25_score": 37.058901860730685,
+            "dense_score": 0.7356721348810782,
+            "rrf_score": 0.031009615384615385
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 12,
+            "dense_rank": 5,
+            "bm25_score": 31.750807344275827,
+            "dense_score": 0.7337851120021034,
+            "rrf_score": 0.029273504273504274
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 17,
+            "dense_rank": 3,
+            "bm25_score": 28.99622869767524,
+            "dense_score": 0.7376755644922424,
+            "rrf_score": 0.02886002886002886
+          },
+          {
+            "file_id": "reads/trying-to-get-rid-of-the-emotion",
+            "title": "Trying to Get Rid of the Emotion",
+            "bm25_rank": 9,
+            "dense_rank": 10,
+            "bm25_score": 32.56983468061518,
+            "dense_score": 0.7265903604501724,
+            "rrf_score": 0.02877846790890269
+          },
+          {
+            "file_id": "principles/address-the-blocker-not-the-symptom",
+            "title": "Address What's In the Way, Not the Surface Problem",
+            "bm25_rank": 31,
+            "dense_rank": 6,
+            "bm25_score": 23.553140928504384,
+            "dense_score": 0.7317716659320191,
+            "rrf_score": 0.026140526140526144
+          }
+        ],
+        "profile_id": "client-resistance-i-feel-trapped-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 131
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pause, small laugh that doesn't quite land as humor*\n\nWhat does it want. \n\nIt wants things to be fair. It wants the work to mean something. It wants — \n\n*stops*\n\nI don't know. Recognition, I guess. To not be invisible.\n\n*recalibrates, pulls back slightly*\n\nBut that's — look, wanting recognition isn't going to change the org chart. The people above me aren't leaving. That's just the reality. So what the anger \"wants\" doesn't really matter because there's nowhere for it to go. The situation is wh",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 94,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/wanting-itself-not-what-you-want",
+            "title": "The Wanting Is What Matters, Not What You Want",
+            "bm25_rank": 2,
+            "dense_rank": 1,
+            "bm25_score": 64.69714430188037,
+            "dense_score": 0.7943731188018183,
+            "rrf_score": 0.03252247488101534
+          },
+          {
+            "file_id": "principles/leaders-wants-are-the-organizations-wants",
+            "title": "A Leader's Wants Are the Organization's Wants",
+            "bm25_rank": 4,
+            "dense_rank": 4,
+            "bm25_score": 61.67011640643029,
+            "dense_score": 0.7558467396060455,
+            "rrf_score": 0.03125
+          },
+          {
+            "file_id": "anti-patterns/impartial-apathy",
+            "title": "Don't confuse apathy with impartiality",
+            "bm25_rank": 18,
+            "dense_rank": 3,
+            "bm25_score": 44.23879111654549,
+            "dense_score": 0.7598651310861698,
+            "rrf_score": 0.028693528693528692
+          },
+          {
+            "file_id": "moves/welcome-the-shame-without-extracting",
+            "title": "Welcome the Shame Without Asking Them to Stop Feeling It",
+            "bm25_rank": 6,
+            "dense_rank": 35,
+            "bm25_score": 56.06689431057279,
+            "dense_score": 0.7180172140198702,
+            "rrf_score": 0.025677830940988834
+          },
+          {
+            "file_id": "distinctions/wants-vs-partiality",
+            "title": "Wants vs. Partiality",
+            "bm25_rank": 22,
+            "dense_rank": 16,
+            "bm25_score": 41.67388100856074,
+            "dense_score": 0.7354877544590274,
+            "rrf_score": 0.025353016688061617
+          }
+        ],
+        "profile_id": "client-resistance-i-feel-trapped-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 94
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*longer pause than before*\n\nNothing happened. I just — it's not useful, is it. Wanting to be seen, wanting recognition. That's not a strategy. That's just... feelings. And feelings don't change the fact that there are four people sitting between me and any kind of advancement and they're all in their fifties and they're all perfectly comfortable.\n\n*shifts slightly*\n\nI've had this conversation with myself a hundred times. What do I want, what do I need. And then I come back to the same wall. So.\n",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 94,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/wanting-itself-not-what-you-want",
+            "title": "The Wanting Is What Matters, Not What You Want",
+            "bm25_rank": 2,
+            "dense_rank": 9,
+            "bm25_score": 43.270285826016554,
+            "dense_score": 0.7181736581031241,
+            "rrf_score": 0.030621785881252923
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 9,
+            "dense_rank": 16,
+            "bm25_score": 37.428641337201995,
+            "dense_score": 0.7093313136189177,
+            "rrf_score": 0.027650648360030512
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 14,
+            "dense_rank": 13,
+            "bm25_score": 33.638047833360886,
+            "dense_score": 0.7139223472430353,
+            "rrf_score": 0.027212143650499815
+          },
+          {
+            "file_id": "reads/desire-for-resolution",
+            "title": "Desire for Resolution",
+            "bm25_rank": 37,
+            "dense_rank": 1,
+            "bm25_score": 26.16771307949425,
+            "dense_score": 0.7402670384675287,
+            "rrf_score": 0.026702720973466286
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 13,
+            "dense_rank": 19,
+            "bm25_score": 34.302657881498234,
+            "dense_score": 0.7082972235747524,
+            "rrf_score": 0.026356857985087564
+          }
+        ],
+        "profile_id": "client-resistance-i-feel-trapped-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 94
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*quiet for a moment*\n\nIt's — \n\n*jaw tightens*\n\nIt's humiliating. Okay? Is that what you want? It's humiliating to keep trying and have it not register. To be good at something and have it just... not count.\n\n*small angry laugh*\n\nBut again — that's the situation. That's what the situation produces. It's not like I'm doing something wrong. The system is set up so that certain people get seen and certain people don't, and I ended up on the wrong side of that, and there's nothing —\n\n*stops himself*\n",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 100,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 7,
+            "dense_rank": 2,
+            "bm25_score": 56.61467366103059,
+            "dense_score": 0.7443354505452769,
+            "rrf_score": 0.031054405392392875
+          },
+          {
+            "file_id": "moves/welcome-the-shame-without-extracting",
+            "title": "Welcome the Shame Without Asking Them to Stop Feeling It",
+            "bm25_rank": 13,
+            "dense_rank": 6,
+            "bm25_score": 47.393478657972906,
+            "dense_score": 0.739478967130104,
+            "rrf_score": 0.028850145288501453
+          },
+          {
+            "file_id": "concerns/i-have-to-do-it-all-myself",
+            "title": "I have to do it all myself / I can't depend on others",
+            "bm25_rank": 4,
+            "dense_rank": 44,
+            "bm25_score": 64.11664445923398,
+            "dense_score": 0.7091767432586732,
+            "rrf_score": 0.025240384615384616
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 18,
+            "dense_rank": 26,
+            "bm25_score": 41.54699689595978,
+            "dense_score": 0.7201481062958417,
+            "rrf_score": 0.024448419797257006
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 48,
+            "dense_rank": 10,
+            "bm25_score": 29.31147004129838,
+            "dense_score": 0.7290445791727191,
+            "rrf_score": 0.023544973544973542
+          }
+        ],
+        "profile_id": "client-resistance-i-feel-trapped-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 100
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*long pause*\n\n*looks away*\n\nIt's... like being erased. Like you put yourself out there and the response is just — nothing. Like you don't quite exist in the way you thought you did.\n\n*jaw works slightly*\n\n*quieter*\n\nEleven years of that.\n\n*then, almost reflexively*\n\nWhich is why the situation needs to change. Because that's not — no one should have to —\n\n*stops*\n\n*shorter pause this time before the redirect*\n\nI don't know why we're talking about this. This isn't going to fix anything.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 88,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 7,
+            "dense_rank": 2,
+            "bm25_score": 35.47113321198799,
+            "dense_score": 0.7260168890505138,
+            "rrf_score": 0.031054405392392875
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 16,
+            "dense_rank": 9,
+            "bm25_score": 29.570295303690486,
+            "dense_score": 0.7110638047534007,
+            "rrf_score": 0.027650648360030512
+          },
+          {
+            "file_id": "moves/agree-with-the-depression-dont-talk-them-out",
+            "title": "Agree With the Depression -- Don't Try to Talk Them Out of It",
+            "bm25_rank": 21,
+            "dense_rank": 27,
+            "bm25_score": 27.80953351712374,
+            "dense_score": 0.7009938274576649,
+            "rrf_score": 0.023839931885908897
+          },
+          {
+            "file_id": "concepts/momentum-allows-dysfunction-to-persist",
+            "title": "Momentum and Margin Allow Dysfunction to Persist for Years",
+            "bm25_rank": 38,
+            "dense_rank": 19,
+            "bm25_score": 23.456287989564665,
+            "dense_score": 0.7043159008656972,
+            "rrf_score": 0.022862309480754326
+          },
+          {
+            "file_id": "principles/dont-compromise-find-both-needs-met",
+            "title": "Don't Compromise -- Find a Way Both Needs Get Met",
+            "bm25_rank": 22,
+            "dense_rank": 49,
+            "bm25_score": 27.505906556368224,
+            "dense_score": 0.6912466367423905,
+            "rrf_score": 0.021369433877825018
+          }
+        ],
+        "profile_id": "client-resistance-i-feel-trapped-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 88
+    }
+  ]
+}

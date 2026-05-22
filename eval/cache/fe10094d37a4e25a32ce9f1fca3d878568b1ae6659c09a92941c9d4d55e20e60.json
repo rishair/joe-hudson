@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:25.053Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fe10094d37a4e25a32ce9f1fca3d878568b1ae6659c09a92941c9d4d55e20e60",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017FGnSNPbP767moAjLHJmLQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Yeah, that tracks.\n\nIt's... *exhales slowly* ...it's kind of a relief to name it that way. Like, it makes sense of something that's felt irrational for a long time. I'm not broken, I just have this very old, very practiced response that's running on autopilot.\n\n*pause*\n\nAlthough — I notice I'm doing the thing where I analyze it from a distance. I know that move. I'm good at making it all very tidy and understandable so I don't have to actually feel it.\n\n*quieter*\n\nThere's something underneath the analysis that I'm not quite... touching."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 180,
+      "cache_creation_input_tokens": 246,
+      "cache_read_input_tokens": 2067,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 246,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 144,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 180,
+    "output_tokens": 144,
+    "cache_read_input_tokens": 2067,
+    "cache_creation_input_tokens": 246
+  }
+}

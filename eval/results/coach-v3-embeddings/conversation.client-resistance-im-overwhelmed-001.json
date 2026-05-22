@@ -1,0 +1,792 @@
+{
+  "profile_id": "client-resistance-im-overwhelmed-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything is urgent, my boss just added a thing to Thursday's agenda which is already a nightmare, and I can't even -- what do I prioritize? Like where do I even start?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That \"and I can't even --\" — what's the end of that sentence?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I can't even -- I don't know, keep track of it all? Like I made a list this morning and the list itself felt overwhelming. But that's not -- I mean, that's not the point, the point is Thursday. Do you think I should push the one-on-ones or is that going to make it worse with the team? Because I have four of them and they take an hour each and I just --"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "You just did it again — \"that's not the point\" — and moved on.\n\nWhat's the feeling underneath the list that felt overwhelming?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "The feeling? I mean -- it's just stress, right? Like normal stress. Everyone's stressed. But the list thing, the reason the list felt overwhelming is because I put everything on it and then I realized I have like six things that are all \"must do today\" and that's just not -- that's a prioritization problem, that's not a feelings problem. So if we could just figure out which of those six things is actually the most critical, I think I could get some traction and then the rest of it would feel more manageable. Does that make sense?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "It makes sense. And I notice you just talked yourself out of the feeling in about three sentences.\n\nWhat are you scared is going to happen if Thursday goes badly?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I mean -- it's not going to go badly, I just need to be prepared. But if it did... I mean my boss would be disappointed, obviously. And the team is already kind of watching me because it's a new role, so. But that's just -- that's motivation, right? That's why I'm working hard. It's fine. Can we just -- can you help me figure out the Thursday thing? Like what I actually need to have ready?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "I notice you just called fear \"motivation\" and asked me to help you prepare.\n\nI'm not going to do that yet. What would it mean about you if your boss was disappointed?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "What would it mean about me... I mean, it would mean I wasn't ready. That I -- that they made a mistake giving me this role. Which is -- I mean that's not going to happen, I'm going to be prepared, that's why I'm doing all this. That's the whole point of the 110%. \n\nBut I should be able to handle this, right? Like other people get promoted and they don't fall apart. I'm just -- I need a system. If I had a better system I wouldn't be in this situation."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "\"They made a mistake giving me this role.\"\n\nStay with that for a second. What does it feel like in your body right now?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "In my body? I mean I'm just -- I'm a little tense, I guess. My shoulders are up. But that's just because I've been at my desk all day, it's not -- \n\nI mean, it's not that bad. Lots of people deal with this. New leadership role, two kids, it's just a busy season. I just need to get through this month and then things will settle down. They always settle down."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "\"They always settle down.\"\n\nHas that been true?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "I mean... mostly. Yeah. I think. \n\nLast month was -- okay, last month was also supposed to settle down and it didn't, but that was because of the restructure. And before that there was the product launch. But those were specific things, those weren't -- \n\n*[pause]*\n\nI mean it's been kind of a long time since it actually settled down, if I'm being honest. But that's just -- that's the nature of the job right now. It's a growth phase."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "You just heard yourself say that, didn't you.\n\nWhat's it like to sit with that for a second?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "Yeah, I -- \n\n*[shorter pause than before]*\n\nIt's... uncomfortable. I don't love that. I don't -- I don't really want to think about that too hard right now because I have a lot to do and if I start thinking about whether it ever settles down then I kind of -- \n\nI don't know where that goes. And I don't have time for where that goes."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t1",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 59
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t3",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t5",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 81
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t7",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 71
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t9",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-im-overwhelmed-001:t10",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 84
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t10",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t11",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-im-overwhelmed-001:t12",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 75
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t12",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t13",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-im-overwhelmed-001:t14",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 149
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t14",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t15",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything is urgent, my boss just added a thing to Thursday's agenda which is already a nightmare, and I can't even -- what do I prioritize? Like where do I even start?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 59,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 54.385314100665525,
+            "dense_score": 0.6680500036771645,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 5,
+            "dense_rank": 4,
+            "bm25_score": 26.746298833956665,
+            "dense_score": 0.6155125107499787,
+            "rrf_score": 0.031009615384615385
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 7,
+            "dense_rank": 3,
+            "bm25_score": 25.106026115278173,
+            "dense_score": 0.6233467890871036,
+            "rrf_score": 0.030798389007344232
+          },
+          {
+            "file_id": "concerns/i-freeze-around-authority",
+            "title": "I freeze around authority figures",
+            "bm25_rank": 6,
+            "dense_rank": 7,
+            "bm25_score": 26.64845770879095,
+            "dense_score": 0.6091411059521179,
+            "rrf_score": 0.03007688828584351
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 9,
+            "dense_rank": 10,
+            "bm25_score": 23.45688388946391,
+            "dense_score": 0.6047502094793831,
+            "rrf_score": 0.02877846790890269
+          }
+        ],
+        "profile_id": "client-resistance-im-overwhelmed-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 59
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I can't even -- I don't know, keep track of it all? Like I made a list this morning and the list itself felt overwhelming. But that's not -- I mean, that's not the point, the point is Thursday. Do you think I should push the one-on-ones or is that going to make it worse with the team? Because I have four of them and they take an hour each and I just --",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 66,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 6,
+            "dense_rank": 6,
+            "bm25_score": 28.38615437213168,
+            "dense_score": 0.6816834604111746,
+            "rrf_score": 0.030303030303030304
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 3,
+            "dense_rank": 12,
+            "bm25_score": 30.362668032378117,
+            "dense_score": 0.6646714838812581,
+            "rrf_score": 0.02976190476190476
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 11,
+            "dense_rank": 4,
+            "bm25_score": 25.516791563102522,
+            "dense_score": 0.6835228355386287,
+            "rrf_score": 0.029709507042253523
+          },
+          {
+            "file_id": "anti-patterns/dont-dismiss-exercise-before-doing-it",
+            "title": "Don't Dismiss an Exercise as a 'Nothing Burger' Before Doing It",
+            "bm25_rank": 9,
+            "dense_rank": 8,
+            "bm25_score": 26.24781442615438,
+            "dense_score": 0.675234278124131,
+            "rrf_score": 0.02919863597612958
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 33,
+            "dense_rank": 1,
+            "bm25_score": 19.21074593338637,
+            "dense_score": 0.6979577277340298,
+            "rrf_score": 0.027146130794993832
+          }
+        ],
+        "profile_id": "client-resistance-im-overwhelmed-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "The feeling? I mean -- it's just stress, right? Like normal stress. Everyone's stressed. But the list thing, the reason the list felt overwhelming is because I put everything on it and then I realized I have like six things that are all \"must do today\" and that's just not -- that's a prioritization problem, that's not a feelings problem. So if we could just figure out which of those six things is actually the most critical, I think I could get some traction and then the rest of it would feel mor",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 81,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 48.84288475670599,
+            "dense_score": 0.7905408426251643,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 10,
+            "dense_rank": 3,
+            "bm25_score": 35.214850962120394,
+            "dense_score": 0.7561455715942466,
+            "rrf_score": 0.030158730158730156
+          },
+          {
+            "file_id": "questions/how-would-you-enjoy-x",
+            "title": "How would you enjoy your X? (where X is the difficult thing happening right now)",
+            "bm25_rank": 11,
+            "dense_rank": 5,
+            "bm25_score": 35.18383384106518,
+            "dense_score": 0.7446404698192286,
+            "rrf_score": 0.02946912242686891
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 16,
+            "dense_rank": 4,
+            "bm25_score": 34.18465615582645,
+            "dense_score": 0.7449583424664973,
+            "rrf_score": 0.028782894736842105
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 36,
+            "dense_rank": 2,
+            "bm25_score": 24.98469378378795,
+            "dense_score": 0.7569252006904588,
+            "rrf_score": 0.02654569892473118
+          }
+        ],
+        "profile_id": "client-resistance-im-overwhelmed-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 81
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I mean -- it's not going to go badly, I just need to be prepared. But if it did... I mean my boss would be disappointed, obviously. And the team is already kind of watching me because it's a new role, so. But that's just -- that's motivation, right? That's why I'm working hard. It's fine. Can we just -- can you help me figure out the Thursday thing? Like what I actually need to have ready?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 71,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "moves/become-the-authority-figure",
+            "title": "Become the Authority Figure",
+            "bm25_rank": 17,
+            "dense_rank": 3,
+            "bm25_score": 29.106768871155722,
+            "dense_score": 0.6273074917969246,
+            "rrf_score": 0.02886002886002886
+          },
+          {
+            "file_id": "moves/name-your-trigger-as-vulnerability",
+            "title": "Name Your Trigger as Vulnerability in the Room",
+            "bm25_rank": 7,
+            "dense_rank": 19,
+            "bm25_score": 37.659274708649825,
+            "dense_score": 0.5804858706892403,
+            "rrf_score": 0.027583600982429624
+          },
+          {
+            "file_id": "anti-patterns/dont-dismiss-exercise-before-doing-it",
+            "title": "Don't Dismiss an Exercise as a 'Nothing Burger' Before Doing It",
+            "bm25_rank": 28,
+            "dense_rank": 5,
+            "bm25_score": 23.320965356542473,
+            "dense_score": 0.6179198146789417,
+            "rrf_score": 0.02674825174825175
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 50,
+            "dense_rank": 1,
+            "bm25_score": 18.37099997069274,
+            "dense_score": 0.643308523079222,
+            "rrf_score": 0.02548435171385991
+          },
+          {
+            "file_id": "principles/public-failure-as-leadership-modeling",
+            "title": "Public Failure Models More Than Performed Competence",
+            "bm25_rank": 12,
+            "dense_rank": 32,
+            "bm25_score": 31.68957630786099,
+            "dense_score": 0.5676024526680012,
+            "rrf_score": 0.024758454106280192
+          }
+        ],
+        "profile_id": "client-resistance-im-overwhelmed-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 71
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "What would it mean about me... I mean, it would mean I wasn't ready. That I -- that they made a mistake giving me this role. Which is -- I mean that's not going to happen, I'm going to be prepared, that's why I'm doing all this. That's the whole point of the 110%. \n\nBut I should be able to handle this, right? Like other people get promoted and they don't fall apart. I'm just -- I need a system. If I had a better system I wouldn't be in this situation.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 84,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 3,
+            "dense_rank": 3,
+            "bm25_score": 44.17154785442737,
+            "dense_score": 0.685245075696248,
+            "rrf_score": 0.031746031746031744
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 6,
+            "dense_rank": 15,
+            "bm25_score": 43.31832729116085,
+            "dense_score": 0.6667514244834659,
+            "rrf_score": 0.028484848484848488
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 20,
+            "dense_rank": 7,
+            "bm25_score": 34.33939550703979,
+            "dense_score": 0.6761933684978192,
+            "rrf_score": 0.027425373134328357
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 38,
+            "dense_rank": 1,
+            "bm25_score": 30.706541263495094,
+            "dense_score": 0.7106409036891657,
+            "rrf_score": 0.026597524255603883
+          },
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 24,
+            "dense_rank": 9,
+            "bm25_score": 33.16483689797765,
+            "dense_score": 0.6717759790452307,
+            "rrf_score": 0.026397515527950312
+          }
+        ],
+        "profile_id": "client-resistance-im-overwhelmed-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 84
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "In my body? I mean I'm just -- I'm a little tense, I guess. My shoulders are up. But that's just because I've been at my desk all day, it's not -- \n\nI mean, it's not that bad. Lots of people deal with this. New leadership role, two kids, it's just a busy season. I just need to get through this month and then things will settle down. They always settle down.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 75,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 3,
+            "dense_rank": 5,
+            "bm25_score": 36.24038371494099,
+            "dense_score": 0.6901318378309829,
+            "rrf_score": 0.03125763125763126
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 5,
+            "dense_rank": 11,
+            "bm25_score": 32.46136555648999,
+            "dense_score": 0.6815462533146855,
+            "rrf_score": 0.02946912242686891
+          },
+          {
+            "file_id": "concerns/i-caretake-people",
+            "title": "I caretake people / I manage everyone's emotions",
+            "bm25_rank": 19,
+            "dense_rank": 3,
+            "bm25_score": 25.23849311329062,
+            "dense_score": 0.7002308366578783,
+            "rrf_score": 0.028531243721117136
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 4,
+            "dense_rank": 25,
+            "bm25_score": 35.79953197197461,
+            "dense_score": 0.6600315742564665,
+            "rrf_score": 0.02738970588235294
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 41,
+            "dense_rank": 1,
+            "bm25_score": 20.820748863072122,
+            "dense_score": 0.716996282664617,
+            "rrf_score": 0.02629443272196072
+          }
+        ],
+        "profile_id": "client-resistance-im-overwhelmed-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 75
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I mean... mostly. Yeah. I think. \n\nLast month was -- okay, last month was also supposed to settle down and it didn't, but that was because of the restructure. And before that there was the product launch. But those were specific things, those weren't -- \n\n*[pause]*\n\nI mean it's been kind of a long time since it actually settled down, if I'm being honest. But that's just -- that's the nature of the job right now. It's a growth phase.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 149,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/identity-lags-behind-growth",
+            "title": "Identity Lags Behind Your Actual Growth",
+            "bm25_rank": 7,
+            "dense_rank": 3,
+            "bm25_score": 31.132207648091395,
+            "dense_score": 0.6339582778441636,
+            "rrf_score": 0.030798389007344232
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 5,
+            "dense_rank": 5,
+            "bm25_score": 31.552007193226846,
+            "dense_score": 0.609827293137089,
+            "rrf_score": 0.03076923076923077
+          },
+          {
+            "file_id": "principles/improvement-mindset-vs-maintenance-mindset",
+            "title": "Improvement Mindset Goes Up, Maintenance Mindset Goes Down",
+            "bm25_rank": 31,
+            "dense_rank": 1,
+            "bm25_score": 21.50734527393169,
+            "dense_score": 0.648005100491604,
+            "rrf_score": 0.02738245361196181
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 28,
+            "dense_rank": 15,
+            "bm25_score": 21.98113491183078,
+            "dense_score": 0.5879996799117874,
+            "rrf_score": 0.024696969696969696
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 20,
+            "dense_rank": 30,
+            "bm25_score": 24.045545911550875,
+            "dense_score": 0.5733291812881953,
+            "rrf_score": 0.02361111111111111
+          }
+        ],
+        "profile_id": "client-resistance-im-overwhelmed-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 149
+    }
+  ]
+}

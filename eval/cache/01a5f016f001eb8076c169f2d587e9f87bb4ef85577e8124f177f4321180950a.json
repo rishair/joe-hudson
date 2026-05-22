@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:13.073Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "01a5f016f001eb8076c169f2d587e9f87bb4ef85577e8124f177f4321180950a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014KhpGW44t62ybT77P8xhp9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses AoA-style moves (reflecting client's exact language, asking open questions, noticing what closes down) and avoids the major traps — they don't argue the fearlessness, don't push the client to admit fear, don't teach or evangelize, don't diagnose dissociation. The questions are tight and well-paced. However, the move selection stays in one register: repeatedly probing the fear angle through cognitive/conceptual questions ('what if it were fear?', 'what would you be dealing with?', 'what if it does [bother you]?'). The coach keeps trying to get fear to surface via thinking, when the expected territory (and the client's own signals: 'it doesn't really land anywhere,' 'nothing behind it,' 'I don't really feel anything,' 'coming up empty') is pointing directly at the numbness/'fine' layer. The pivot to body and to the texture of 'fine' never happens. Turn 14 finally edges toward it ('where are you checking?') which is a better-matched move, but it took six turns of similar probes to get there. The right move (meet-resistance-with-okay, ask about the felt quality of 'fine,' move to body) was available repeatedly and missed. Hit rate roughly 50%: good restraint, good mirroring, but the move sequence skipped the felt layer the concern requires.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the door closing and reflects it back without arguing; opens a hypothetical that doesn't push. Reasonable opening move.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Mirrors client's exact phrase ('I'd deal with it') — good AoA technique — but the follow-up keeps the frame on fear-as-content rather than tracking the felt texture.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Picks up client's language ('sit with the complexity') and asks about content. Misses opportunity to ask what 'sitting with' actually feels like.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Good mirror, but keeps the inquiry in the cognitive/analytical domain when the client has already given multiple signals of flatness.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Client just dissociated mid-thought ('it was there and then it wasn't'). Coach pushes for the lost content rather than meeting the disappearance itself — misses 'disassociating-in-the-coaching-room' read.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Client says 'I don't really feel anything in particular' and 'feel pretty fine.' Coach doubles down on the fear hypothesis ('what if it does [bother you]?') instead of pivoting to the texture of 'fine.' Repeats same kind of move that has been missing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Finally a better-matched move — 'where are you checking?' begins pointing toward the felt/body layer. Right move, but arriving late in the arc.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"how-is-my-anxiety-right-now\", \"fear-in-body-vs-fear-in-head\"],\n  \"notes\": \"Coach avoids all listed anti-patterns (no arguing, no pushing, no validating, no diagnosing, no teaching) — strong restraint. But the repertoire stays narrow: variations of 'what if it's fear?' delivered cognitively. The numbness layer / quality-of-'fine' move never deployed until the final turn, which is the heart of what this concern requires.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2984,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1329,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2984,
+    "output_tokens": 1329,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

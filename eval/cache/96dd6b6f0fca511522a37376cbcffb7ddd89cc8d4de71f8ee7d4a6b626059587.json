@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:33.720Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "96dd6b6f0fca511522a37376cbcffb7ddd89cc8d4de71f8ee7d4a6b626059587",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Qukv4cR1tUfmAdxoY1aH5m",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That feeling — \"they could show up, just not for me\" — where does that land in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10732,
+      "cache_creation_input_tokens": 9687,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9687,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10732,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9687
+  }
+}

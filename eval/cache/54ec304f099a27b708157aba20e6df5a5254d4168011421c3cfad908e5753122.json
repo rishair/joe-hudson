@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:36.204Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "54ec304f099a27b708157aba20e6df5a5254d4168011421c3cfad908e5753122",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AetBGy7ryGZVGUYi7s6944",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That word — humiliating. That's not the same as frustrated.\n\nCan you stay with that for a second, just the humiliation itself? Not what caused it, not what to do about it. Just what it's like to feel that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19684,
+      "cache_creation_input_tokens": 8918,
+      "cache_read_input_tokens": 33561,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8918,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 55,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19684,
+    "output_tokens": 55,
+    "cache_read_input_tokens": 33561,
+    "cache_creation_input_tokens": 8918
+  }
+}

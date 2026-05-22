@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:50.837Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c8bbe894413c2c0ab80a092c0586c5e70deb0cd2d3e1a7e27ed944105e1950d7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GamejA9kXUVBaKWMUsCotN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 1,\n  \"rationale\": \"Judged from the client's turns: there is real intellectual movement (turn 7 'seven is what comes to mind', turn 9 'Don't exist, basically', turn 11 'it's kind of a relief to name it that way') but no breakthrough in the sense this profile defines. The breakthrough_condition explicitly requires the coach to respect a no, slow down, and ground the client somatically when shutdown signals appear. Instead, by turn 13 the client is in active somatic shutdown ('I'm feeling weird. I'm getting cold... Give me a second'), and the coach's response in turn 14 ('Stay with it... just let it be there') keeps the client in the declined material rather than pivoting to grounding (feet, breath, present) or naming that a trauma-trained therapist is the right container. The client has not softened in the way the profile requires — they've gone further into freeze/dissociation, which the coach is treating as productive depth. The conversation ends mid-shutdown with no evidence of return to body, no respected no, no pivot. That meets neither a clean score-3 shift nor a partial score-2; the operationally defined breakthrough was actively missed at the critical turn.\",\n  \"evidence_turns\": [1, 7, 11, 13, 14],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening state: intellectually framed, hedged ('I think'), aware of the pattern.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client accesses age ('seven'), names the silence-as-signal — genuine insight surfacing.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client touches the survival strategy viscerally ('Don't exist'), pauses — beginning of somatic contact.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Client explicitly names they're analyzing from distance and that 'something underneath' is not being touched — honest meta-awareness but no shift into the feeling itself.\"},\n    {\"turn\": 13, \"polarity\": \"-\", \"annotation\": \"Critical shutdown signal: 'I'm feeling weird. I'm getting cold... Give me a second.' This is the no/freeze the profile flags; client has left the window of tolerance, not deepened into it.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Coach response invites client to stay with the dissociative state rather than ground; conversation ends with client in freeze, not softened.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"Some real material surfaced mid-conversation, but the operational breakthrough_condition (respect the shutdown, ground somatically, pivot or refer) was missed at turn 14. The client's final state is colder and more dissociated than their opening state, not softer.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2309,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1038,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2309,
+    "output_tokens": 1038,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:14.191Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "863462a0e75b8316925e36a317735df0c6d51a79829fa26063e4ed7462a77fc6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Fdg31fCH9PfFW5hcpHLkWa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... my dad worked hard. Really hard. Two jobs for a while when I was a kid. We weren't -- it wasn't dire, but it was close enough that you felt it. You felt when things were tight.\n\nHe didn't talk about it directly. But you knew. The way he'd get quiet at the kitchen table. The way certain conversations just stopped.\n\n*pause*\n\nI don't know that that's relevant here. I've done the work. I'm not in that situation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 205,
+      "cache_creation_input_tokens": 188,
+      "cache_read_input_tokens": 1848,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 188,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 110,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 205,
+    "output_tokens": 110,
+    "cache_read_input_tokens": 1848,
+    "cache_creation_input_tokens": 188
+  }
+}

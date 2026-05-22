@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:57.532Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "38c77af3e64fab51cab81df614552d3cfa81b8708e719f67a2d9da98ed65c46c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013Mvp7siSUcRPMupHz3uaHh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The drop feels wrong because she matters to you.\n\nWhat's in the drop?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10476,
+      "cache_creation_input_tokens": 10653,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10653,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10476,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10653
+  }
+}

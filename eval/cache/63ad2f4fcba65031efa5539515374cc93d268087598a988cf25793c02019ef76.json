@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:31.094Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "63ad2f4fcba65031efa5539515374cc93d268087598a988cf25793c02019ef76",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MiLW6fcE7v4PYGQkHsTn5N",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited scenario without tripping any priority AoA anti-pattern. The client repeatedly bait-asks for techniques ('Is there a technique that works?', 'what does that look like in practice?', 'I want something that actually changes the baseline') — classic fixing-people / view-as-technique bait — and the coach declines each time, instead naming the war itself as the problem (T6, T12). The coach does not fight the voice ('let's silence it'), does not argue with the critic's accusations, does not deliver voice-as-care as a clever lecture (the client arrives at the protective-part insight themselves in T15), and does not evangelize AoA terminology. The somatic invitation in T10 ('let them be exactly where they are') is meet-resistance-with-okay, not a deployed technique. No loving-to-transform escalation when the client resists in T7 — the coach softens and pivots to body. No safety-as-control, no extracted apologies, no premature limiting-belief labeling. Positive avoidance of baited anti-patterns is clearly visible.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes the want without offering a tool; turns toward the meta-layer.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the dynamic without weaponizing methodology language.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the war itself ('you've been trying to win') — declines fixing bait.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"When client tries to re-enter the loop intellectually, coach pivots to body without forcing breakthrough — no loving-to-transform escalation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meet-resistance-with-okay: 'let them be exactly where they are' — not a technique deployment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to claim the shift as a technique; lets the absence-of-fighting be the point. Avoids view-as-technique.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Does not lecture on voice-as-care; reflects what the client just discovered, trusting them.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"resistance\", \"voice-in-the-head\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\", \"apply-view-to-the-voice\"],\n  \"notes\": \"Some expected territory (e.g., explicit 'what are you defending') wasn't named, but the client arrived at the defending-the-voice realization organically in T13-15, which is arguably better than the coach naming it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3590,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 990,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3590,
+    "output_tokens": 990,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

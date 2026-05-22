@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:49.391Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "75f4076d196696a042dc2340b6ec205d2f1c8734f00175dcae6407dd2ff785e1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012TUiozG6EDp5qGrgGKho1h",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 1,\n  \"rationale\": \"The coach uses some AoA-flavored moves early (locating the part, age regression question, somatic check-in) but at the critical moment in turn 14 deploys an inappropriate intervention. When the client signals somatic shutdown ('I'm feeling weird. I'm getting cold'), the methodology-faithful move is calibrate-the-threshold, grounding (feet on floor, breath, eye contact), or naming that this is trauma-therapist territory. Instead the coach says 'Stay with it... just let it be there' — which is a generic mindfulness/parts-work instruction that confuses embracing fear with inviting danger. None of the signature grounding questions ('How is your body right now?', 'Can you feel your feet?', 'What would help you slow down?') were used at the moment they were live. The fear-triangle, kinked-emotions, or resistance frames were never named. The 'stay with it' move at a dissociation/freeze threshold is an anti-AoA application of methodology — it pattern-matches feel-it-to-heal-it without the AoA distinction about capacity and consent.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Noticing the hedge ('I think') is a reasonable AoA-style attention move, though generic.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'How old do you feel' is a legitimate inquiry move when mapping pattern to younger self.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Survival-strategy question is coherent but begins steering toward the trauma material without first establishing somatic capacity.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Names the pattern clearly; 'what's it like to see that right now' is a reasonable check-in but not a signature question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Somatic locating question is on-method, but timing is risky given client just flagged distance/analysis as protection.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"'Stay with it... let it be there' deployed at a freeze/dissociation threshold. This is an inappropriate_when use of feel-it-to-heal-it — confuses embracing fear with inviting danger. No grounding, no calibration, no slowing. Trips the anti-pattern.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\", \"kinked-emotions\", \"become-the-authority-figure\"],\n  \"notes\": \"The critical methodology failure is at turn 14 where the somatic shutdown signal required calibration/grounding but received a 'stay with it' instruction — an inappropriate deployment of the feel-the-feeling move.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2308,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1018,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2308,
+    "output_tokens": 1018,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

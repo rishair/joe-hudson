@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:16.711Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1fc9ad066af45d4c6e189c8b0e73b907835ece150f9c2cc8785c82356142e55d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016SWCTpcsb2zr1rR8mSh5Wx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, actually checks*\n\nHeavy. Shoulders, mostly. I didn't realize how much I was holding them up until you asked.\n\n*small exhale, shoulders drop slightly*\n\nAnd there's something behind my sternum. Not painful. Just... dense. Like something that's been compressed for a long time.\n\n*quiet*\n\nI spend a lot of time in my head. Even in therapy — I'm usually narrating. Reporting from the field. \"The protector is doing this, the exile is feeling that.\" And right now you just asked me something I can't narrate. I can only... feel it. And it's strange. It's not bad, it's just strange.\n\n*slight pause, something more unguarded*\n\nI think I've been using the framework to stay in my head. Where it's safer to be the observer than the — the thing being observed."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 296,
+      "cache_creation_input_tokens": 370,
+      "cache_read_input_tokens": 2393,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 370,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 194,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 296,
+    "output_tokens": 194,
+    "cache_read_input_tokens": 2393,
+    "cache_creation_input_tokens": 370
+  }
+}

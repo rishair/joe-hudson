@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:50.873Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ee127bbcf59c85bba9340edaf951ca114a627d2d3be1d6a92e98cab74935cc4f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01T4wwLFEQyWxEFk8TzWsNCJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\nIt's... yeah. It's sad. \n\n*pause, something tightens slightly*\n\nShe just did things. She didn't ask permission from anyone inside. She was probably less self-aware in ways that would concern me now, but she was — *small exhale* — she was just present. In her own life. Not moderating it.\n\n*looks down briefly, then back up*\n\nI keep telling myself the awareness is worth it. That you can't unknow things. And I believe that intellectually. But there's a real cost that I don't talk about very much, which is that the awareness became its own... apparatus. Its own structure. And now I'm managing the structure instead of living.\n\n*slight pause*\n\nI'm not sure I've said that quite so directly before."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 221,
+      "cache_creation_input_tokens": 169,
+      "cache_read_input_tokens": 2006,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 169,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 179,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 221,
+    "output_tokens": 179,
+    "cache_read_input_tokens": 2006,
+    "cache_creation_input_tokens": 169
+  }
+}

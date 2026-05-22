@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:23.513Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e956d9fafd522bba69b4e0667b2ff7788634b46ed7a61b407a530e7e8b0de81e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DpN5tA7H38qUK3WHp88Zpw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\nAnd it hasn't stopped, has it. Not at 1.4. Not at 1.8 either, probably."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22154,
+      "cache_creation_input_tokens": 11004,
+      "cache_read_input_tokens": 39685,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11004,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 33,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22154,
+    "output_tokens": 33,
+    "cache_read_input_tokens": 39685,
+    "cache_creation_input_tokens": 11004
+  }
+}

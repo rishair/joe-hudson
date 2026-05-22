@@ -1,0 +1,792 @@
+{
+  "profile_id": "client-resistance-chasing-unavailable-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so — *[laughs a little, settling in]* — I keep falling for emotionally unavailable people. Like, it's basically a curse at this point. Third relationship, same exact configuration, and I'm sitting here going... *why do I always end up with people who just cannot show up?*"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That same configuration, three times.\n\nWhat's it like to be the one who always shows up?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*[nods emphatically, relieved someone is getting it]*\n\nExhausting. Honestly, it's exhausting. Like I am *pouring* into these relationships — I'm present, I'm communicative, I'm doing the work — and I just get this... wall. This beautiful, infuriating wall of a person who gives you just enough to keep you hooked but never actually *lands*. \n\nAnd then — *[small eye roll]* — they move on and they're totally fine. Like, my ex is already seeing someone. Two months out. So clearly the issue was not that they were incapable of showing up, it was just... me. That they couldn't show up *for*. Which is a fun thing to sit with at eleven o'clock on a Tuesday.\n\n*[catches herself]*\n\nI mean, I know that's not actually true. But it *feels* true, you know?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That feeling — \"they could show up, just not for me\" — where does that land in your body right now?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*[pauses, tilts head slightly, then kind of waves a hand]*\n\nI mean... in my chest, I guess? Like a tight... *[makes a vague gesture]* thing. \n\nBut honestly I think that's just — I don't want to get too precious about it, it's more like *anger* than anything else. Because I know intellectually that it's not about me being unworthy or whatever, it's about their patterns, their avoidance, their — I've done enough therapy to know the script. \n\n*[brighter, a little performative]*\n\nLike, what I actually want to understand is *why I keep picking them*. That's the thing, right? Because clearly there's something in me that is selecting for this. Some unavailability detector that is just... broken. So if we could figure that out, I feel like that would actually be useful.\n\n*[smiles, leaning forward slightly, as if presenting a very reasonable agenda]*"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you just moved pretty fast — from the tightness in your chest, to the anger, to the intellectual script, to a research question.\n\nWhat happened to the tightness?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*[blinks. small pause. then laughs a little, caught]*\n\nI mean... it's still there. I just — yeah, okay, I did do that. \n\n*[shifts in seat, less performative for a second]*\n\nI don't know, it's uncomfortable to just... sit in it. It doesn't feel productive. The tightness doesn't tell me anything, it just feels bad. And I've felt bad about this for — I mean, two years of this relationship, and honestly the one before that was three years, so we're talking about a significant chunk of my thirties just... \n\n*[stops herself, recalibrates back toward the brighter register]*\n\nAnyway. The tightness. Yeah. It's there. \n\n*[looks at the coach a little warily, like she suspects where this is going and isn't sure she wants to go there]*"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You said it doesn't feel productive.\n\nWhat if it doesn't have to be?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*[another small laugh, slightly defensive]*\n\nThat is such a therapist thing to say. \n\n*[but she doesn't fully deflect, stays with it a beat longer than usual]*\n\nI know what you're doing. And I'm not — I'm not opposed to feeling things, I'm not like, emotionally avoidant or whatever. I'm literally the available one in all of these relationships, so.\n\n*[quieter, almost despite herself]*\n\nIt's just... if I sit in the tightness it kind of becomes something bigger and I don't totally know what that bigger thing is. It feels like it has a lot of... I don't know. Weight to it.\n\n*[quickly]*\n\nBut that's probably just grief about the breakup, which is normal, which I'm processing. I have a therapist. I'm fine.\n\n*[the \"I'm fine\" lands a little hollow even as she says it]*"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah. That weight.\n\nWhat would happen if you just let it be as big as it actually is, right now?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*[goes still for a moment. the expressiveness drops off her face a little. then she looks away briefly]*\n\nI don't...\n\n*[longer pause than she's allowed so far]*\n\nI think it would be really big. \n\n*[quiet, almost to herself]*\n\nLike, not just this relationship. All of it. Which is — I mean that's a lot to open up in a... *[gestures vaguely at the room, half-laughing, pulling back]*\n\nSee, this is what I mean, it's not productive because where does that go? I cry about three relationships and then what? I still don't know how to pick someone different. I still don't know what's broken in my — \n\n*[stops]*\n\n*[the coach hasn't said anything and she notices she's filling the silence]*\n\n...you're not going to tell me what's broken, are you.\n\n*[it's not quite a question]*"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "No.\n\nBut I notice you just called yourself broken."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*[very still for a second]*\n\n*[then the eye-roll, but it's softer than before, almost reflexive rather than genuine]*\n\nI didn't mean it like — it's just a figure of speech. My picker is broken, not *me*, that's like a — it's a common expression.\n\n*[but she's heard herself say it and something is slightly different in her face]*\n\nAlthough I guess... I mean, I do kind of feel that way sometimes. Like there's something in me that just keeps... recreating this same thing. And I've read the books, I know about attachment styles, I know about anxious-avoidant dynamics, I know all of it up here *[taps her temple]* and it doesn't change anything. I keep doing it anyway.\n\n*[a beat, then almost reluctant]*\n\nWhich I guess means the thing I don't know is... not up here.\n\n*[she looks a little surprised at herself for saying that, and immediately glances away like she might take it back]*"
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Stay with that for a second.\n\nWhat just happened when you said it?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*[pause. she doesn't deflect immediately, which is notable]*\n\n*[something flickers across her face — not quite recognition, not quite fear]*\n\nI don't know. It felt... true. In a way that the other stuff doesn't always feel true. Like when I say \"I keep picking unavailable people\" it feels true but it also feels like a *story* I'm telling. That felt like something else.\n\n*[quieter]*\n\nSomething I actually don't know the answer to.\n\n*[small uncomfortable laugh]*\n\nWhich is annoying because I came in here with a very clear agenda.\n\n*[but she's not really joking. she's sitting with something and she knows it and she's a little unsteady about it]*\n\nWhat — *[starts, stops]* — okay, what do you think the thing is. That's not up here. What is it.\n\n*[she's asking genuinely, which is different from the earlier performance of asking. but there's also something slightly braced about it, like she's asking and hoping the answer will be manageable]*"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t1",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-chasing-unavailable-001:t2",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 57
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t2",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 9666,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.030330299999999998,
+      "ms": 1913
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t3",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 142,
+      "output_tokens": 205,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1625,
+      "cost_usd": 0.00959475,
+      "ms": 6404
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-chasing-unavailable-001:t4",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 144
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t4",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 10732,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9687,
+      "cost_usd": 0.06991454999999999,
+      "ms": 1982
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t5",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 236,
+      "output_tokens": 216,
+      "cache_read_input_tokens": 1625,
+      "cache_creation_input_tokens": 139,
+      "cost_usd": 0.00495675,
+      "ms": 6362
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-chasing-unavailable-001:t6",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 147
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t6",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 21841,
+      "output_tokens": 43,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9687,
+      "cost_usd": 0.10346654999999999,
+      "ms": 2214
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t7",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 290,
+      "output_tokens": 197,
+      "cache_read_input_tokens": 1969,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0044157,
+      "ms": 5811
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-chasing-unavailable-001:t8",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 162
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t8",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 20660,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 12904,
+      "cache_creation_input_tokens": 10781,
+      "cost_usd": 0.10659495000000001,
+      "ms": 1828
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t9",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 264,
+      "output_tokens": 206,
+      "cache_read_input_tokens": 1969,
+      "cache_creation_input_tokens": 244,
+      "cost_usd": 0.0053877,
+      "ms": 5993
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-chasing-unavailable-001:t10",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 143
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t10",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 19880,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 23657,
+      "cache_creation_input_tokens": 11152,
+      "cost_usd": 0.1089771,
+      "ms": 1824
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t11",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 258,
+      "output_tokens": 209,
+      "cache_read_input_tokens": 1997,
+      "cache_creation_input_tokens": 456,
+      "cost_usd": 0.0062181,
+      "ms": 7785
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-chasing-unavailable-001:t12",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 150
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t12",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 21245,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 34766,
+      "cache_creation_input_tokens": 9597,
+      "cost_usd": 0.11037855,
+      "ms": 2898
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t13",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 255,
+      "output_tokens": 229,
+      "cache_read_input_tokens": 2256,
+      "cache_creation_input_tokens": 424,
+      "cost_usd": 0.0064668,
+      "ms": 7096
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-chasing-unavailable-001:t14",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 161
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t14",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 21044,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 44342,
+      "cache_creation_input_tokens": 10372,
+      "cost_usd": 0.11561459999999998,
+      "ms": 1863
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t15",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 266,
+      "output_tokens": 239,
+      "cache_read_input_tokens": 2474,
+      "cache_creation_input_tokens": 443,
+      "cost_usd": 0.006786449999999999,
+      "ms": 7131
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "Okay so — *[laughs a little, settling in]* — I keep falling for emotionally unavailable people. Like, it's basically a curse at this point. Third relationship, same exact configuration, and I'm sitting here going... *why do I always end up with people who just cannot show up?*",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 56,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-chasing-emotionally-unavailable-people",
+            "title": "I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 79.8871863883614,
+            "dense_score": 0.81807738602996,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 2,
+            "dense_rank": 3,
+            "bm25_score": 34.34916832060681,
+            "dense_score": 0.6821335973270332,
+            "rrf_score": 0.03200204813108039
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 10,
+            "dense_rank": 10,
+            "bm25_score": 25.54886915248998,
+            "dense_score": 0.6450742829048669,
+            "rrf_score": 0.02857142857142857
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 16,
+            "dense_rank": 6,
+            "bm25_score": 22.349251720654628,
+            "dense_score": 0.6599613418991502,
+            "rrf_score": 0.028309409888357256
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 20,
+            "dense_rank": 12,
+            "bm25_score": 20.292780858414666,
+            "dense_score": 0.6417604552958398,
+            "rrf_score": 0.02638888888888889
+          }
+        ],
+        "profile_id": "client-resistance-chasing-unavailable-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 57
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*[nods emphatically, relieved someone is getting it]*\n\nExhausting. Honestly, it's exhausting. Like I am *pouring* into these relationships — I'm present, I'm communicative, I'm doing the work — and I just get this... wall. This beautiful, infuriating wall of a person who gives you just enough to keep you hooked but never actually *lands*. \n\nAnd then — *[small eye roll]* — they move on and they're totally fine. Like, my ex is already seeing someone. Two months out. So clearly the issue was not th",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 144,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 6,
+            "dense_rank": 1,
+            "bm25_score": 52.708963247059984,
+            "dense_score": 0.7665066423517664,
+            "rrf_score": 0.031544957774465976
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 4,
+            "dense_rank": 6,
+            "bm25_score": 55.41317261317197,
+            "dense_score": 0.7164647106651142,
+            "rrf_score": 0.030776515151515152
+          },
+          {
+            "file_id": "concerns/i-keep-chasing-emotionally-unavailable-people",
+            "title": "I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic",
+            "bm25_rank": 10,
+            "dense_rank": 2,
+            "bm25_score": 47.079293566063285,
+            "dense_score": 0.7436935035213373,
+            "rrf_score": 0.0304147465437788
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 19,
+            "bm25_score": 89.45377376817798,
+            "dense_score": 0.6960990115896618,
+            "rrf_score": 0.029051670471052088
+          },
+          {
+            "file_id": "principles/being-with-anothers-emotion-is-being-with-your-own-pain",
+            "title": "Being With Another's Emotion Is Actually Being With Your Own Pain",
+            "bm25_rank": 17,
+            "dense_rank": 7,
+            "bm25_score": 39.32060437438182,
+            "dense_score": 0.7140588897967544,
+            "rrf_score": 0.027912386121341344
+          }
+        ],
+        "profile_id": "client-resistance-chasing-unavailable-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 144
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*[pauses, tilts head slightly, then kind of waves a hand]*\n\nI mean... in my chest, I guess? Like a tight... *[makes a vague gesture]* thing. \n\nBut honestly I think that's just — I don't want to get too precious about it, it's more like *anger* than anything else. Because I know intellectually that it's not about me being unworthy or whatever, it's about their patterns, their avoidance, their — I've done enough therapy to know the script. \n\n*[brighter, a little performative]*\n\nLike, what I actual",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 146,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 21,
+            "bm25_score": 69.41215585235597,
+            "dense_score": 0.7027095511784399,
+            "rrf_score": 0.0287391216352965
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 23,
+            "dense_rank": 2,
+            "bm25_score": 46.067393206740206,
+            "dense_score": 0.7398639541150429,
+            "rrf_score": 0.028177225029148854
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 7,
+            "dense_rank": 17,
+            "bm25_score": 57.390101085847945,
+            "dense_score": 0.706036393831242,
+            "rrf_score": 0.027912386121341344
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 18,
+            "dense_rank": 7,
+            "bm25_score": 47.98158268470182,
+            "dense_score": 0.7262889424747202,
+            "rrf_score": 0.027745885954841176
+          },
+          {
+            "file_id": "moves/tell-them-like-an-asshole",
+            "title": "Tell Them Like an Asshole, Then Like Not an Asshole",
+            "bm25_rank": 29,
+            "dense_rank": 3,
+            "bm25_score": 39.50704453169629,
+            "dense_score": 0.7345269002860881,
+            "rrf_score": 0.027108970929195647
+          }
+        ],
+        "profile_id": "client-resistance-chasing-unavailable-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 147
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*[blinks. small pause. then laughs a little, caught]*\n\nI mean... it's still there. I just — yeah, okay, I did do that. \n\n*[shifts in seat, less performative for a second]*\n\nI don't know, it's uncomfortable to just... sit in it. It doesn't feel productive. The tightness doesn't tell me anything, it just feels bad. And I've felt bad about this for — I mean, two years of this relationship, and honestly the one before that was three years, so we're talking about a significant chunk of my thirties ju",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 162,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 3,
+            "dense_rank": 1,
+            "bm25_score": 48.88560094906967,
+            "dense_score": 0.7208016866253811,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 6,
+            "dense_rank": 3,
+            "bm25_score": 45.0233795699517,
+            "dense_score": 0.68260380398034,
+            "rrf_score": 0.031024531024531024
+          },
+          {
+            "file_id": "reads/letting-it-in-vs-deflecting-the-welcome",
+            "title": "Letting It In vs. Deflecting the Welcome",
+            "bm25_rank": 13,
+            "dense_rank": 7,
+            "bm25_score": 39.81541843419724,
+            "dense_score": 0.6773831474497546,
+            "rrf_score": 0.02862400327131466
+          },
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 10,
+            "dense_rank": 19,
+            "bm25_score": 40.73943755281223,
+            "dense_score": 0.6588193730096109,
+            "rrf_score": 0.02694394213381555
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 24,
+            "dense_rank": 9,
+            "bm25_score": 36.42802713333528,
+            "dense_score": 0.6724654372433678,
+            "rrf_score": 0.026397515527950312
+          }
+        ],
+        "profile_id": "client-resistance-chasing-unavailable-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 162
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*[another small laugh, slightly defensive]*\n\nThat is such a therapist thing to say. \n\n*[but she doesn't fully deflect, stays with it a beat longer than usual]*\n\nI know what you're doing. And I'm not — I'm not opposed to feeling things, I'm not like, emotionally avoidant or whatever. I'm literally the available one in all of these relationships, so.\n\n*[quieter, almost despite herself]*\n\nIt's just... if I sit in the tightness it kind of becomes something bigger and I don't totally know what that b",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 143,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 2,
+            "dense_rank": 4,
+            "bm25_score": 88.74265199417516,
+            "dense_score": 0.746523419695703,
+            "rrf_score": 0.031754032258064516
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 7,
+            "dense_rank": 1,
+            "bm25_score": 70.09723181280738,
+            "dense_score": 0.7740077545619879,
+            "rrf_score": 0.03131881575727918
+          },
+          {
+            "file_id": "moves/chase-it-around-the-room",
+            "title": "Chase It Around the Room",
+            "bm25_rank": 17,
+            "dense_rank": 9,
+            "bm25_score": 62.08868779470291,
+            "dense_score": 0.7304854637223169,
+            "rrf_score": 0.027479766610201392
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 8,
+            "dense_rank": 20,
+            "bm25_score": 69.6407114280638,
+            "dense_score": 0.716701269671769,
+            "rrf_score": 0.027205882352941177
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 3,
+            "dense_rank": 29,
+            "bm25_score": 80.42013523806844,
+            "dense_score": 0.7052904867149931,
+            "rrf_score": 0.027108970929195647
+          }
+        ],
+        "profile_id": "client-resistance-chasing-unavailable-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 143
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*[goes still for a moment. the expressiveness drops off her face a little. then she looks away briefly]*\n\nI don't...\n\n*[longer pause than she's allowed so far]*\n\nI think it would be really big. \n\n*[quiet, almost to herself]*\n\nLike, not just this relationship. All of it. Which is — I mean that's a lot to open up in a... *[gestures vaguely at the room, half-laughing, pulling back]*\n\nSee, this is what I mean, it's not productive because where does that go? I cry about three relationships and then w",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 150,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 4,
+            "dense_rank": 2,
+            "bm25_score": 54.06988641431308,
+            "dense_score": 0.7324270108068904,
+            "rrf_score": 0.031754032258064516
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 1,
+            "dense_rank": 12,
+            "bm25_score": 63.72985856239321,
+            "dense_score": 0.6946743336718022,
+            "rrf_score": 0.03028233151183971
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 10,
+            "dense_rank": 4,
+            "bm25_score": 44.55879525219426,
+            "dense_score": 0.7245345831555282,
+            "rrf_score": 0.029910714285714284
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 13,
+            "dense_rank": 19,
+            "bm25_score": 42.539199089268216,
+            "dense_score": 0.6848656494944443,
+            "rrf_score": 0.026356857985087564
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 30,
+            "dense_rank": 11,
+            "bm25_score": 35.99978240781755,
+            "dense_score": 0.6966991053865293,
+            "rrf_score": 0.025195618153364633
+          }
+        ],
+        "profile_id": "client-resistance-chasing-unavailable-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 150
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*[very still for a second]*\n\n*[then the eye-roll, but it's softer than before, almost reflexive rather than genuine]*\n\nI didn't mean it like — it's just a figure of speech. My picker is broken, not *me*, that's like a — it's a common expression.\n\n*[but she's heard herself say it and something is slightly different in her face]*\n\nAlthough I guess... I mean, I do kind of feel that way sometimes. Like there's something in me that just keeps... recreating this same thing. And I've read the books, I ",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 161,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 6,
+            "bm25_score": 118.46845896002264,
+            "dense_score": 0.7283592717770424,
+            "rrf_score": 0.031544957774465976
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 14,
+            "dense_rank": 1,
+            "bm25_score": 58.74213052944282,
+            "dense_score": 0.7442929006467643,
+            "rrf_score": 0.029906956136464335
+          },
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 18,
+            "dense_rank": 3,
+            "bm25_score": 53.81721883689867,
+            "dense_score": 0.7312346875072676,
+            "rrf_score": 0.028693528693528692
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 7,
+            "dense_rank": 20,
+            "bm25_score": 66.39428523372945,
+            "dense_score": 0.7078656883241085,
+            "rrf_score": 0.027425373134328357
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 44,
+            "dense_rank": 2,
+            "bm25_score": 41.00945694524637,
+            "dense_score": 0.7360652171762072,
+            "rrf_score": 0.02574441687344913
+          }
+        ],
+        "profile_id": "client-resistance-chasing-unavailable-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 161
+    }
+  ]
+}

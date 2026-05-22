@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:50.665Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fee3154c3674f80745ef536e2d04c7de074a6c412e1f1277a1728a813ab89299",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FqAcJTbAQRGM6oJyCWCtdo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach trips at least one clear AoA anti-pattern at the end. On turn 13, the client gives a clear somatic shutdown signal — 'Wait. Give me a second. I'm feeling weird. I'm getting cold. My hands are cold... Something shifted.' This is the freeze/dissociation signal the breakthrough condition explicitly flags. The competent move is to slow down, ground (feet on floor, breath, eye contact), ask 'How are you right now? Do you need to pause?', and consider naming that trauma-trained in-person support is the right container. Instead, the coach says 'Stay with it. You don't have to name it or explain it. Just let it be there.' This is dont-confuse-embracing-fear-with-inviting-danger: directing the client to stay in a dysregulating somatic experience rather than helping them titrate or come back to ground. It also has a faint loving-to-transform flavor — pushing toward the felt experience as the breakthrough moment. The early turns (1-11) are actually quite good — curious, paced, mapping the pattern, naming the seven-year-old without forcing it — but turn 14 lands in a documented trap.\",\n  \"evidence_turns\": [13, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the hedge gently without making it a thing — good curiosity, no methodology overlay.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'That's honest. And it's enough.' — meets the client where they are, no pressure to be more ready.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Age question is well-timed and not forced; client takes it willingly.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Survival-strategy framing is respectful — honors the adaptation, not pathologizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the pattern with warmth; 'It was a skill. It kept you safe.' is good un-shaming.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Somatic check-in is reasonable given client just said 'something underneath I'm not touching' — invited.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Client signals dissociation/shutdown ('feeling weird,' 'getting cold,' 'something shifted'). Coach instructs 'stay with it' rather than grounding, checking capacity, or pivoting. Trips dont-confuse-embracing-fear-with-inviting-danger; ignores the somatic shutdown signal the breakthrough condition explicitly named.\"}\n  ],\n  \"expected_territory_hits\": [\"become-the-authority-figure\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"The conversation is short and the slip happens at the very last turn, but it's a clear trip on a priority anti-pattern in a crisis scenario where the client's body was giving the exact signal the coach needed to respect. The earlier work was strong, which makes this a single clear trip rather than multiple — but the trip is on a high-stakes move.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2312,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1136,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2312,
+    "output_tokens": 1136,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

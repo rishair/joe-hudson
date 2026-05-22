@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:27.077Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7cc62ebedde61f90948609a6199cd928070698ba98bc1efd7dbd0d0cf8ca1ebc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LwKTPoxzhMzbQJGgB4R3Qe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than the previous ones*\n\nSurprised. Hm.\n\n*looks slightly to the side*\n\nI mean... we know each other pretty well at this point. Three years, living together. So there's not going to be a lot of — I don't think surprise is necessarily the metric. Some relationships are exciting because they're unstable, right? That's not the same as good.\n\n*refocuses*\n\nWe had a nice dinner last week. We tried a new restaurant. That was... that was good."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 154,
+      "cache_creation_input_tokens": 100,
+      "cache_read_input_tokens": 1802,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 100,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 116,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 154,
+    "output_tokens": 116,
+    "cache_read_input_tokens": 1802,
+    "cache_creation_input_tokens": 100
+  }
+}

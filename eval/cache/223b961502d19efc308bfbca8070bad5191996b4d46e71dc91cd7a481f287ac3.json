@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:14.464Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "223b961502d19efc308bfbca8070bad5191996b4d46e71dc91cd7a481f287ac3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RDYmEaBuWbyK7kCUcECB3v",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's the feeling you've been avoiding about this situation?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21108,
+      "cache_creation_input_tokens": 11397,
+      "cache_read_input_tokens": 11363,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11397,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21108,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 11363,
+    "cache_creation_input_tokens": 11397
+  }
+}

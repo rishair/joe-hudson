@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:29.149Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6ea581d58615b1e2f2cb5190534ffd60d227c5719b68cdb87af86311ea1ade0c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HtMz8dFRuECwDqMoErdRrR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's it like to not be able to locate it right now — in your body, as you say that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11250,
+      "cache_creation_input_tokens": 10305,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10305,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11250,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10305
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:59.983Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "54165951d6aa4e4fd30d440fb7fc645f8e6ca5bb6dafbb7606287f0bc0138538",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0141FA51dMxf535q24apfgiY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't have the runway. If something happened -- a health issue, my parents needing significant care, a market correction -- I'd be exposed. 1.4 doesn't have enough buffer.\n\nAnd the book isn't going to make money, at least not initially. So I'd be drawing down while producing nothing, and that... that's hard to sit with."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 123,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1835,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 81,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 123,
+    "output_tokens": 81,
+    "cache_read_input_tokens": 1835,
+    "cache_creation_input_tokens": 0
+  }
+}

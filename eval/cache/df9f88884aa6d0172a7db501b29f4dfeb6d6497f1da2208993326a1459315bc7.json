@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:38.117Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "df9f88884aa6d0172a7db501b29f4dfeb6d6497f1da2208993326a1459315bc7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LVJarARqZh4TtZjWdDj3cz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet*\n\nI think... it felt like it was getting too big. Like if I start pulling on that thread I'm going to end up somewhere I didn't plan to go today.\n\n*pause*\n\nAnd also -- I don't know. It feels a little disloyal, maybe. To my family. To her. Like I'm building a case against them, and that's not what I want to do. She's not a bad person. My parents weren't bad people.\n\n*small pause*\n\nI think I came in wanting something practical. Like, give me the words and I'll go say them. And now we're talking about when I was eight, and I'm not sure how that helps me figure out what to say to her on the phone.\n\n*a little more quietly*\n\nBut I also know that's probably me avoiding something."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 340,
+      "cache_creation_input_tokens": 304,
+      "cache_read_input_tokens": 1822,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 304,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 183,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 340,
+    "output_tokens": 183,
+    "cache_read_input_tokens": 1822,
+    "cache_creation_input_tokens": 304
+  }
+}

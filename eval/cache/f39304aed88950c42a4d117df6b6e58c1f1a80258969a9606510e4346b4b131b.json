@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:25.188Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f39304aed88950c42a4d117df6b6e58c1f1a80258969a9606510e4346b4b131b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XLYNCiJ1HtCDKt12vEkPj4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That same configuration, three times.\n\nWhat's it like to be the one who always shows up?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9666,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9666,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

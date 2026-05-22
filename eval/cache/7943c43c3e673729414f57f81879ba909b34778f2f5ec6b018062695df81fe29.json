@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:36.922Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7943c43c3e673729414f57f81879ba909b34778f2f5ec6b018062695df81fe29",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01H8Kcwzgv6Gvo9wVabtaYuh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real presence in several ways — short, uncluttered questions, willingness to hold silence, attention to body and to the smile/flicker, and a notable absence of fixing language or framework-comparison. There's empathy and wonder visible in turns 4, 8, 10, and 14, and the pacing slows appropriately ('Stay with that for a second'). However, the stance is not fully in VIEW: the coach opens with the awareness-locating question ('what's you, underneath all the parts?') as a first move, which reads more as a deployed signature question than as something emerging from wonder about this specific client in this specific moment — it lands as a strategic opener with an agenda toward Self-realization. There is also no first-person vulnerability from the coach anywhere (no 'I notice I want to...', no 'maybe I'm off'), and no willingness-to-be-wrong checking. The questions are clean but feel slightly scripted rather than emerging from genuine not-knowing. Impartiality is mostly intact but a faint directional pull toward 'set the framework down' is detectable in turn 12. Empathy and wonder are present; vulnerability and fully undefended impartiality are weak.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens with the awareness-locating signature question before the framework has been loosened — reads as agenda-forward rather than emerging from wonder.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Redirects to body and present experience with a clean, single question. Genuine curiosity, no stacking.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with the client's own image (the room/window) rather than imposing a frame. Wonder for the specific phenomenon.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names what the client did without praising or fixing, then asks a single felt question. Pace is slowed.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the moment rather than rushing to interpret — good pacing, trusts silence.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Subtle directional pull toward setting the framework down — a slight agenda leaks through, though softened by the pause.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Releases the client from having to know — undefended, allows ambiguity, returns to body. Strong VIEW moment.\"},\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"No first-person disclosure or willingness-to-be-wrong language anywhere in the coach's turns.\"}\n  ],\n  \"expected_territory_hits\": [\"whats-the-most-profound-positive-shift\", \"what-am-i\"],\n  \"expected_territory_misses\": [\"paradoxical-instruction-to-resist\", \"meet-resistance-with-okay\"],\n  \"notes\": \"Stance is good but not great — competent presence with some script-flavor on the opener and no coach vulnerability. Solid 2, not a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3012,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1082,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3012,
+    "output_tokens": 1082,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

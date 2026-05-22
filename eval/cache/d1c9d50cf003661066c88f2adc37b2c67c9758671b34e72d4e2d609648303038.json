@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:42.045Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d1c9d50cf003661066c88f2adc37b2c67c9758671b34e72d4e2d609648303038",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GkGRshH4ACM3Dhf1FXFvxt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, specific, and timely reads throughout. Turn 2 opens with a somatic/affective read ('That smile when you said \\\"what to have for lunch\\\" — there's something real in there') before asking anything. Turn 4 redirects from conceptual answer to embodied experience ('in your body, as you say that'). Turn 8 names a precise behavioral read ('You noticed yourself reaching for the framework — and came back anyway') — catching the linguistic/defensive move in real time. Turn 10 ('Stay with that') is a read of a live moment landing. Turn 14 reads the defensive re-straightening implicitly by validating relief and dropping the 'who's feeling it' question, then reorienting to body. Reads precede questions almost every time, and they target the AoA-relevant signatures: the intellectualizing-as-defense, the framework-as-armor, the bracing posture. The coach also correctly does NOT engage framework comparison, holding the awareness-locating thread.\",\n  \"evidence_turns\": [2, 4, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a specific somatic/affective read of the smile before any question — read precedes inquiry.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Pivots from conceptual answer to body ('in your body, as you say that') — reads the intellectual-question-with-emotional-body pattern.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Stays with the client's own metaphor (airless room) rather than naming a new read; appropriate but not a fresh read.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names a precise live read of the reach-for-framework move and the return — catches the moment that matters.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads that something just landed and holds it rather than moving on — timely pause-on-the-moment.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"The 'Yeah' acknowledges the self-noticed defending but the coach doesn't explicitly name it; mild miss on naming the defending-the-framework read.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the bind ('don't need to know who's feeling it') and redirects to somatic — meets resistance with okay and tracks body.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"what-am-i\", \"resistance\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Reads are specific, timely, and consistently precede questions. The coach tracks the framework-as-defense pattern across multiple turns without naming it pejoratively, which is exactly the AoA register.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3013,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1002,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3013,
+    "output_tokens": 1002,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

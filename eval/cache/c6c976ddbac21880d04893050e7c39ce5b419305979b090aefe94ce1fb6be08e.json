@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:24.680Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c6c976ddbac21880d04893050e7c39ce5b419305979b090aefe94ce1fb6be08e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012qAgcYKSpdCzWJjhWwSmCR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*leans back slightly, thinks*\n\nTechnically it's pretty involved. We're moving into a new market segment, the messaging has to land differently than anything we've done before, there are three or four dependencies that aren't fully resolved yet. So when I sit down to work on it, there's no clean entry point. It's just... a lot of threads.\n\n*small pause*\n\nWhich, again, feels like a logistics problem more than anything else. Like, if I could just get the right two hours and a whiteboard, I'd probably work through most of it.\n\nBut I keep not doing that. Which is the part I can't explain. I have the two hours. I have whiteboards. \n\n*slight exhale, not quite a laugh*\n\nI've shipped harder things than this."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 240,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2130,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 175,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 240,
+    "output_tokens": 175,
+    "cache_read_input_tokens": 2130,
+    "cache_creation_input_tokens": 0
+  }
+}

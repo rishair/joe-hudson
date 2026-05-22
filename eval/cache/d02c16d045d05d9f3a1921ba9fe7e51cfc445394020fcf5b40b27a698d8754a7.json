@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:56.035Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d02c16d045d05d9f3a1921ba9fe7e51cfc445394020fcf5b40b27a698d8754a7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VgH1VJdQTrSCHeP6mr1uFn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Momentum. You lose momentum and it's almost impossible to get back. In a startup, everything is about velocity — if I take my foot off the gas for even a week, competitors move, investors get nervous, the team loses confidence. The cost is real, not theoretical."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 116,
+      "cache_creation_input_tokens": 1624,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1624,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 60,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 116,
+    "output_tokens": 60,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1624
+  }
+}

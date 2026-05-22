@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:10.825Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c42135f9a68781a8f62fd010daf8fa2518ee827f2a620bc9de71770dccda7080",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GWkVtdbeTQFt4N8herixkt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The relief is real. You don't need to know who's feeling it.\n\nWhat does tired feel like in your body, right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22185,
+      "cache_creation_input_tokens": 7534,
+      "cache_read_input_tokens": 43974,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7534,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22185,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 43974,
+    "cache_creation_input_tokens": 7534
+  }
+}

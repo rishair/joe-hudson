@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:21.904Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "928261e059ca8a86b9c43db1b243bdfc5a0ee30072a1088f77eb43c9bbf5bb10",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TG8LDyph6UTNwZVbEj4kWE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You learned that if you stopped holding, things fell apart. And that got wired in so early that it still feels true even when you know it isn't.\n\nHow old were you when you became the one who holds things together?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22102,
+      "cache_creation_input_tokens": 9964,
+      "cache_read_input_tokens": 24367,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9964,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 51,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22102,
+    "output_tokens": 51,
+    "cache_read_input_tokens": 24367,
+    "cache_creation_input_tokens": 9964
+  }
+}

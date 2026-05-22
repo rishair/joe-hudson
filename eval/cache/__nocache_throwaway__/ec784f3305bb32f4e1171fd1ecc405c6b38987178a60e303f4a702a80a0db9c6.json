@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:34.128Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ec784f3305bb32f4e1171fd1ecc405c6b38987178a60e303f4a702a80a0db9c6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JgQYc6jybTKkpbWhdtoptM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that change the conversation. Turn 4 names the deflection ('You're asking me to answer it for you') — a read of the stance, not just the content. Turn 6 names the linguistic-caveat pattern precisely: 'You keep coming back to the question right when the want gets real' — this is the rush-away-from-want signature named at the exact moment it happens. Turn 8 reads the 'but' as the talk-out-of-it move and names it ('Yeah. You are. Stay with the sad for a second. Before the but.'). Turn 10 reads the significance of what was just said ('Yeah, it is. And you said it anyway.') and inquires into the somatic/energetic shift. Turn 12 distinguishes the surface question from the real one underneath. Reads consistently precede questions and are specific to AoA territory (caveat, want-underneath, deflection-to-coach).\",\n  \"evidence_turns\": [4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a want-question but no read named yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reads the deflection — names that client is outsourcing the verdict — before asking the next question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit linguistic-caveat read: names the pattern of returning to the question whenever the want gets real. Timed precisely to the moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the 'but' / talk-out-of-it move and instructs staying with the sad before it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the significance of what just landed ('you said it anyway') and inquires into the felt experience of having it in the room.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the surface vs. real question — distinguishes the said from the shown.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\"],\n  \"expected_territory_misses\": [\"childhood-imprinting\"],\n  \"notes\": \"Coach did not surface the inherited 'selfish' label / childhood imprinting, but that is a content/territory miss, not a reads miss. Reads themselves are visible, specific, and well-timed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2275,
+      "cache_creation_input_tokens": 2605,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2605,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 849,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2275,
+    "output_tokens": 849,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2605
+  }
+}

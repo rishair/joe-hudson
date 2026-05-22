@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:57.921Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4773e640a2ae6b1ffd3ebaab1fd98cbd8a97584cdd7e34a5f50aaa7c05c0591c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015gKduJKahn6zGvc9nE5GPm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That feeling of watching time pass while you're stuck — what does that actually feel like in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9820,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9820,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

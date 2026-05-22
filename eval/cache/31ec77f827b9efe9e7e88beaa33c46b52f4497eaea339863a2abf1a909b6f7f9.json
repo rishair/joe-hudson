@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:45.398Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "31ec77f827b9efe9e7e88beaa33c46b52f4497eaea339863a2abf1a909b6f7f9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HBvaAuntEGceKcaoP29ghy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You noticed yourself reaching for the framework — and came back anyway.\n\nWhat's it like to miss that person?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19158,
+      "cache_creation_input_tokens": 11306,
+      "cache_read_input_tokens": 13513,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11306,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19158,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 13513,
+    "cache_creation_input_tokens": 11306
+  }
+}

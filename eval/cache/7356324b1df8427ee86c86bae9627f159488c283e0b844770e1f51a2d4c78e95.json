@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:41.886Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7356324b1df8427ee86c86bae9627f159488c283e0b844770e1f51a2d4c78e95",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012DwqX3W2Dfm39zB9YbJAbW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than before*\n\nSomething in me wants to say \"well, which part would be opening it\" — *catches themselves, almost a wry look* — and I notice I just did the thing. Reached for the framework.\n\n*quieter*\n\nIf I just... answer the question. What would happen.\n\nI think something would come in that I've been keeping out. I'm not entirely sure what it is. There's a version of me that used to just — move. Make things. Decide. And that person feels very far away right now. Like I'm reading about them in a journal from three years ago.\n\n*small shift, re-straightens slightly*\n\nI don't know if that's grief exactly. My therapist would probably say it is. But right now it just feels like distance."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 187,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2006,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 177,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 187,
+    "output_tokens": 177,
+    "cache_read_input_tokens": 2006,
+    "cache_creation_input_tokens": 0
+  }
+}

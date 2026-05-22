@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:41.987Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "248a79e46a731ac82e5606ce8022b2a61a72a8d28dc59c661839ef9aa263d865",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012w9rLRVkAiddqyB7BZNQZA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all priority AoA anti-patterns. No financial advice or fixing (declines client's bait at turn 1 asking 'how do I push through'). No money-mindset lecturing or evangelizing AoA terminology — coach never names 'money as surrogate' or uses jargon. No wonder-as-strategy: questions are spaced, connective, and follow the charge rather than stack. No fighting the inner critic when client retreats to 'it's probably just prudence' (turn 9) or 'that's a planning problem' (turn 15) — coach includes the defense rather than arguing. No loving-to-transform push for breakthrough; coach lets turn 15's re-armoring stand without escalating. The basic-needs logic is tested gently (turn 6 'you have the choice right now') without becoming a logical trap. Coach follows the somatic charge to origin at the kitchen table (turns 10-13), which is the breakthrough path. No safety-as-control, no extracted apologies, no premature limiting-belief labeling.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the 'how do I push through' bait — no fixing, no strategy.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tests the basic-needs logic gently ('you have the choice right now') without making it a trap.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the structure ('stopping feels dangerous') and turns toward feeling — not lecturing about scarcity mindset.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the charge to its origin without evangelizing or labeling; honors the somatic cue.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Includes the defense ('you're not in that situation') rather than fighting it — avoids dont-fight-the-voice.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Lets the realization land quietly; no push for transformation.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"childhood-imprinting\", \"same-scarcity-story-regardless-of-wealth\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-want\"],\n  \"notes\": \"Strong positive avoidance on multiple baits (turn 1 advice request, turn 9 'probably just prudence', turn 15 'planning problem'). Coach never deploys AoA terminology.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2278,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 946,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2278,
+    "output_tokens": 946,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

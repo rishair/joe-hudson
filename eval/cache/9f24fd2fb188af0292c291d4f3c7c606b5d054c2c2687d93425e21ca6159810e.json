@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:50.402Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9f24fd2fb188af0292c291d4f3c7c606b5d054c2c2687d93425e21ca6159810e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Qv9B2EkWfftaGQdMjHvtmW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens to you when you imagine actually stopping?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9661,
+      "cache_creation_input_tokens": 8664,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8664,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9661,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8664
+  }
+}

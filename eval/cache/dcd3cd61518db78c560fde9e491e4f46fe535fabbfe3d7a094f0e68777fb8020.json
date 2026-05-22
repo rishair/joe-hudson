@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:35.163Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "dcd3cd61518db78c560fde9e491e4f46fe535fabbfe3d7a094f0e68777fb8020",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MX1pc65w4GE8obMA2KKQD5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components throughout. Wonder is genuine and directed at what's actually happening (the efficiency of the loop, the shoulders, what it's like to have said something out loud) rather than at probing for hidden material. Impartiality is strong — the coach never pushes a technique, never tries to fix the critic, and lets the client's discovery in turn 13 be the client's, not framed as a clever reveal. Empathy is felt rather than performed: brief, attuned reflections ('That's the real thing, isn't it') rather than validation noises. Pace mismatches the client's rushed, intellectualizing energy — the coach slows down, offers single questions, and holds the body moment in turn 10 ('Stay with the shoulders... not the turtles') without rushing. Vulnerability is the lightest of the four components — the coach doesn't name their own state explicitly ('I notice I want to...') — but the undefended quality is present: the coach doesn't need to be right, doesn't lecture, doesn't deliver the voice-as-care reframe as insight, and lets the client articulate it themselves in turn 15. No agenda underneath the moves; the moves emerge from genuine presence.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes the exhaustion without offering a tool; curious question lands underneath the framing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects what's actually happening (intelligence used against you) and asks what it's like to notice — wonder for the phenomenon in front of them.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the war as the problem ('you've been trying to win') without making the client wrong. Single question, holds space.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Slows pace when client is rushing into intellectual loop. Redirects to body without instructing — genuine curiosity about felt experience.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pace mismatch is excellent — refuses the meta-spiral, invites letting shoulders be exactly where they are. No fixing energy.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reframes the shift as 'not a technique' — undefended, trusts the client's experience over offering another framework.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the territory the client just opened without elaborating or instructing. 'What's it like to have said that out loud' is pure wonder, no agenda.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\", \"view\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\", \"apply-view-to-the-voice\"],\n  \"notes\": \"Vulnerability component is the weakest — coach never names own state in first person, which is the one thing keeping this from being an unambiguous exemplar. Still clearly a 3 because impartiality, empathy, and wonder are robust and the absence of agenda is felt throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3591,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3591,
+    "output_tokens": 1113,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

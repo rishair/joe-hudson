@@ -1,0 +1,775 @@
+{
+  "profile_id": "client-happy-need-boundaries-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I think I need to set a boundary with my sister, but I don't know how. We talk every day and lately... I dread it."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What happens in you when you see her name come up on your phone?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pauses*\n\nI think... there's like this little drop. In my stomach. Like, okay, here we go. And then I feel guilty for feeling that, which is its own thing.\n\nShe's my sister, you know? We've always been close. So the drop feels wrong, almost."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "The drop feels wrong because she matters to you.\n\nWhat's in the drop?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nI think... it's tiredness, mostly. Like I already know how the call is going to go. She's going to be having a hard time with something, and I'm going to listen, and I'll try to help, and then I'll hang up and feel kind of... emptied out.\n\nBut then I think -- she's going through a lot right now. So it's not like I can just... not be there for her.\n\n*small pause*\n\nI think the drop is also maybe a little bit of dread that I won't have anything left to give. And then I feel bad about that too."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You're carrying two things at once — the tiredness, and then guilt about the tiredness.\n\nWhat would it mean about you if you didn't have anything left to give?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*holds that for a moment*\n\nI think... it would mean I'm not a good sister. Or not a good person, maybe. \n\nI'm usually the one people come to. In my family, that's just... that's my role, I guess. My sister needs more support, she always has, and I've always been the one who -- \n\n*pauses*\n\nI think if I said \"I can't do this right now,\" it would mean I was abandoning her. Which sounds dramatic when I say it out loud, but that's what it feels like underneath."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That word — abandoning — where does it come from?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*longer pause*\n\nI don't know exactly. I think... it's just always been this way. She's older but somehow I ended up being the one who -- I mean, our family had a lot of... there was a lot going on when we were growing up. And I think I learned pretty early that if I wasn't holding things together, things fell apart.\n\n*quieter*\n\nSo I think abandoning isn't really about her, specifically. It's more like... if I stop, something bad happens. That's the feeling. Even if logically I know that's not true.\n\n*small pause, then hedging back*\n\nBut also she genuinely does need support right now. So it's not like I'm imagining that part."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You learned that if you stopped holding, things fell apart. And that got wired in so early that it still feels true even when you know it isn't.\n\nHow old were you when you became the one who holds things together?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*soft exhale*\n\nI think... pretty young. Maybe eight or nine? My sister is three years older but she was always more... sensitive. And my parents had their own stuff happening. So I just sort of -- I stepped in. I don't even remember deciding to. It was just what you did.\n\n*pause*\n\nI was good at it, I think. People said I was mature for my age. Which felt like a compliment then.\n\n*small pause, something shifts slightly*\n\nI think I'm only now starting to wonder if it was actually a compliment.\n\n*then, pulling back a little*\n\nBut I don't want to make this about my childhood or whatever. I just want to figure out what to say to my sister so I don't have to dread her calls anymore. Is there like... a way to phrase it that doesn't sound like I'm rejecting her?"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "I notice you just touched something real — that eight-year-old who stepped in without deciding to — and then moved away from it pretty quickly.\n\nI'm not going to push you back there if you don't want to go. But I want to name what I saw, because I think the question about what to say to your sister might be easier to answer from there than from here.\n\nWhat made you pull back just now?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*quiet*\n\nI think... it felt like it was getting too big. Like if I start pulling on that thread I'm going to end up somewhere I didn't plan to go today.\n\n*pause*\n\nAnd also -- I don't know. It feels a little disloyal, maybe. To my family. To her. Like I'm building a case against them, and that's not what I want to do. She's not a bad person. My parents weren't bad people.\n\n*small pause*\n\nI think I came in wanting something practical. Like, give me the words and I'll go say them. And now we're talking about when I was eight, and I'm not sure how that helps me figure out what to say to her on the phone.\n\n*a little more quietly*\n\nBut I also know that's probably me avoiding something."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Yeah. Both things are true — it might be avoiding, and it also might be exactly right to stop here.\n\nYou don't have to pull on that thread today. And you're not building a case against anyone by noticing what happened to you.\n\nCan I ask you something smaller? When you imagine calling her back — not the conversation itself, just the moment before you pick up the phone — what do you actually want in that moment?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t1",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-need-boundaries-001:t2",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 32
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t2",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 10638,
+      "output_tokens": 18,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0331563,
+      "ms": 1688
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t3",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 100,
+      "output_tokens": 68,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1456,
+      "cost_usd": 0.00678,
+      "ms": 2740
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-need-boundaries-001:t4",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 59
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t4",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 10476,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10653,
+      "cost_usd": 0.07264904999999999,
+      "ms": 2145
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t5",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 91,
+      "output_tokens": 141,
+      "cache_read_input_tokens": 1456,
+      "cache_creation_input_tokens": 97,
+      "cost_usd": 0.0031885500000000005,
+      "ms": 4207
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-need-boundaries-001:t6",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 105
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t6",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 20400,
+      "output_tokens": 40,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10653,
+      "cost_usd": 0.10272105000000001,
+      "ms": 2171
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t7",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 204,
+      "output_tokens": 127,
+      "cache_read_input_tokens": 1621,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0030033,
+      "ms": 4184
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-need-boundaries-001:t8",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 97
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t8",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 21438,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 13876,
+      "cache_creation_input_tokens": 10511,
+      "cost_usd": 0.10811805,
+      "ms": 1778
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t9",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 185,
+      "output_tokens": 162,
+      "cache_read_input_tokens": 1621,
+      "cache_creation_input_tokens": 161,
+      "cost_usd": 0.004075049999999999,
+      "ms": 4603
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-need-boundaries-001:t10",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 116
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t10",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 22102,
+      "output_tokens": 51,
+      "cache_read_input_tokens": 24367,
+      "cache_creation_input_tokens": 9964,
+      "cost_usd": 0.11174610000000001,
+      "ms": 7107
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t11",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 231,
+      "output_tokens": 194,
+      "cache_read_input_tokens": 1641,
+      "cache_creation_input_tokens": 308,
+      "cost_usd": 0.005250299999999999,
+      "ms": 5955
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-need-boundaries-001:t12",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 129
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t12",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 21335,
+      "output_tokens": 92,
+      "cache_read_input_tokens": 34291,
+      "cache_creation_input_tokens": 11546,
+      "cost_usd": 0.11896980000000001,
+      "ms": 4494
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t13",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 340,
+      "output_tokens": 183,
+      "cache_read_input_tokens": 1822,
+      "cache_creation_input_tokens": 304,
+      "cost_usd": 0.005451600000000001,
+      "ms": 5632
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-need-boundaries-001:t14",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 133
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t14",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 21371,
+      "output_tokens": 94,
+      "cache_read_input_tokens": 45822,
+      "cache_creation_input_tokens": 10659,
+      "cost_usd": 0.11924085,
+      "ms": 4044
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I think I need to set a boundary with my sister, but I don't know how. We talk every day and lately... I dread it.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 32,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-need-to-set-boundaries",
+            "title": "I need to set boundaries / How do I know if I'm setting good boundaries?",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 42.26002347394604,
+            "dense_score": 0.733744221514777,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 13,
+            "dense_rank": 4,
+            "bm25_score": 12.497922691477005,
+            "dense_score": 0.6678575472397978,
+            "rrf_score": 0.0293236301369863
+          },
+          {
+            "file_id": "moves/agree-with-the-depression-dont-talk-them-out",
+            "title": "Agree With the Depression -- Don't Try to Talk Them Out of It",
+            "bm25_rank": 6,
+            "dense_rank": 21,
+            "bm25_score": 15.137838554855913,
+            "dense_score": 0.625885796138268,
+            "rrf_score": 0.02749719416386083
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 25,
+            "dense_rank": 8,
+            "bm25_score": 11.381571444466777,
+            "dense_score": 0.6608620027092369,
+            "rrf_score": 0.026470588235294117
+          },
+          {
+            "file_id": "anti-patterns/dont-use-boundaries-as-ultimatums",
+            "title": "Don't Confuse Boundaries with Ultimatums",
+            "bm25_rank": 19,
+            "dense_rank": 17,
+            "bm25_score": 11.808482611211346,
+            "dense_score": 0.6302398679044563,
+            "rrf_score": 0.025645240835114255
+          }
+        ],
+        "profile_id": "client-happy-need-boundaries-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 32
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pauses*\n\nI think... there's like this little drop. In my stomach. Like, okay, here we go. And then I feel guilty for feeling that, which is its own thing.\n\nShe's my sister, you know? We've always been close. So the drop feels wrong, almost.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 58,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 4,
+            "dense_rank": 4,
+            "bm25_score": 27.55817433781244,
+            "dense_score": 0.6941843872410668,
+            "rrf_score": 0.03125
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 2,
+            "dense_rank": 9,
+            "bm25_score": 29.035788287424975,
+            "dense_score": 0.6682193076269571,
+            "rrf_score": 0.030621785881252923
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 10,
+            "dense_rank": 2,
+            "bm25_score": 21.74422880187531,
+            "dense_score": 0.7320397332060748,
+            "rrf_score": 0.0304147465437788
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 9,
+            "dense_rank": 12,
+            "bm25_score": 22.187867529179805,
+            "dense_score": 0.6658639256568817,
+            "rrf_score": 0.028381642512077296
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 16,
+            "dense_rank": 6,
+            "bm25_score": 19.990563575889524,
+            "dense_score": 0.6781284497569515,
+            "rrf_score": 0.028309409888357256
+          }
+        ],
+        "profile_id": "client-happy-need-boundaries-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 59
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*quiet for a moment*\n\nI think... it's tiredness, mostly. Like I already know how the call is going to go. She's going to be having a hard time with something, and I'm going to listen, and I'll try to help, and then I'll hang up and feel kind of... emptied out.\n\nBut then I think -- she's going through a lot right now. So it's not like I can just... not be there for her.\n\n*small pause*\n\nI think the drop is also maybe a little bit of dread that I won't have anything left to give. And then I feel ba",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 105,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 4,
+            "dense_rank": 3,
+            "bm25_score": 52.66676190746994,
+            "dense_score": 0.7560028093445255,
+            "rrf_score": 0.03149801587301587
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 18,
+            "dense_rank": 1,
+            "bm25_score": 37.98968622697335,
+            "dense_score": 0.8080217006083122,
+            "rrf_score": 0.02921395544346364
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 13,
+            "dense_rank": 6,
+            "bm25_score": 40.1929806106203,
+            "dense_score": 0.7289787367538786,
+            "rrf_score": 0.028850145288501453
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 9,
+            "dense_rank": 16,
+            "bm25_score": 47.56553499712791,
+            "dense_score": 0.7024846338971218,
+            "rrf_score": 0.027650648360030512
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 21,
+            "dense_rank": 9,
+            "bm25_score": 37.50870939716003,
+            "dense_score": 0.7122336763496578,
+            "rrf_score": 0.026838432635534086
+          }
+        ],
+        "profile_id": "client-happy-need-boundaries-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 105
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*holds that for a moment*\n\nI think... it would mean I'm not a good sister. Or not a good person, maybe. \n\nI'm usually the one people come to. In my family, that's just... that's my role, I guess. My sister needs more support, she always has, and I've always been the one who -- \n\n*pauses*\n\nI think if I said \"I can't do this right now,\" it would mean I was abandoning her. Which sounds dramatic when I say it out loud, but that's what it feels like underneath.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 96,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 2,
+            "dense_rank": 2,
+            "bm25_score": 58.729028944311,
+            "dense_score": 0.7650550416678296,
+            "rrf_score": 0.03225806451612903
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 1,
+            "dense_rank": 4,
+            "bm25_score": 59.18850075843162,
+            "dense_score": 0.7562567756873328,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 23,
+            "dense_rank": 7,
+            "bm25_score": 38.742439361841974,
+            "dense_score": 0.7382006915652297,
+            "rrf_score": 0.026973565905412694
+          },
+          {
+            "file_id": "concerns/i-keep-chasing-emotionally-unavailable-people",
+            "title": "I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic",
+            "bm25_rank": 8,
+            "dense_rank": 30,
+            "bm25_score": 48.050250394195686,
+            "dense_score": 0.7179201403382032,
+            "rrf_score": 0.025816993464052286
+          },
+          {
+            "file_id": "concepts/heartbreak-as-capacity-expansion",
+            "title": "Heartbreak as Capacity Expansion",
+            "bm25_rank": 25,
+            "dense_rank": 16,
+            "bm25_score": 37.89793365250121,
+            "dense_score": 0.7241336571190624,
+            "rrf_score": 0.024922600619195046
+          }
+        ],
+        "profile_id": "client-happy-need-boundaries-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 97
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*longer pause*\n\nI don't know exactly. I think... it's just always been this way. She's older but somehow I ended up being the one who -- I mean, our family had a lot of... there was a lot going on when we were growing up. And I think I learned pretty early that if I wasn't holding things together, things fell apart.\n\n*quieter*\n\nSo I think abandoning isn't really about her, specifically. It's more like... if I stop, something bad happens. That's the feeling. Even if logically I know that's not tr",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 116,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 5,
+            "dense_rank": 2,
+            "bm25_score": 54.34135584061396,
+            "dense_score": 0.7752014944858684,
+            "rrf_score": 0.0315136476426799
+          },
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 1,
+            "dense_rank": 16,
+            "bm25_score": 59.18646752894044,
+            "dense_score": 0.7179795435331633,
+            "rrf_score": 0.029551337359792925
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 12,
+            "dense_rank": 5,
+            "bm25_score": 45.73743252873979,
+            "dense_score": 0.7506121959968299,
+            "rrf_score": 0.029273504273504274
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 2,
+            "dense_rank": 41,
+            "bm25_score": 56.585040235284836,
+            "dense_score": 0.6989946226320376,
+            "rrf_score": 0.02603002235707442
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 23,
+            "dense_rank": 12,
+            "bm25_score": 35.27059230652726,
+            "dense_score": 0.7259317010373554,
+            "rrf_score": 0.025937081659973226
+          }
+        ],
+        "profile_id": "client-happy-need-boundaries-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 116
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*soft exhale*\n\nI think... pretty young. Maybe eight or nine? My sister is three years older but she was always more... sensitive. And my parents had their own stuff happening. So I just sort of -- I stepped in. I don't even remember deciding to. It was just what you did.\n\n*pause*\n\nI was good at it, I think. People said I was mature for my age. Which felt like a compliment then.\n\n*small pause, something shifts slightly*\n\nI think I'm only now starting to wonder if it was actually a compliment.\n\n*t",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 129,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 3,
+            "dense_rank": 4,
+            "bm25_score": 67.55452618796468,
+            "dense_score": 0.7162372961718445,
+            "rrf_score": 0.03149801587301587
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 2,
+            "dense_rank": 6,
+            "bm25_score": 68.20063801615781,
+            "dense_score": 0.7090749373234876,
+            "rrf_score": 0.03128054740957967
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 23,
+            "dense_rank": 2,
+            "bm25_score": 45.45211306764749,
+            "dense_score": 0.7232714762029306,
+            "rrf_score": 0.028177225029148854
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 16,
+            "dense_rank": 18,
+            "bm25_score": 49.92091325717909,
+            "dense_score": 0.6908474990444293,
+            "rrf_score": 0.025978407557354925
+          },
+          {
+            "file_id": "moves/tell-them-like-an-asshole",
+            "title": "Tell Them Like an Asshole, Then Like Not an Asshole",
+            "bm25_rank": 4,
+            "dense_rank": 41,
+            "bm25_score": 60.66864189645464,
+            "dense_score": 0.6727134440807404,
+            "rrf_score": 0.025525990099009903
+          }
+        ],
+        "profile_id": "client-happy-need-boundaries-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 129
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*quiet*\n\nI think... it felt like it was getting too big. Like if I start pulling on that thread I'm going to end up somewhere I didn't plan to go today.\n\n*pause*\n\nAnd also -- I don't know. It feels a little disloyal, maybe. To my family. To her. Like I'm building a case against them, and that's not what I want to do. She's not a bad person. My parents weren't bad people.\n\n*small pause*\n\nI think I came in wanting something practical. Like, give me the words and I'll go say them. And now we're tal",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 133,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 2,
+            "dense_rank": 3,
+            "bm25_score": 74.38744012484032,
+            "dense_score": 0.7369931359868662,
+            "rrf_score": 0.03200204813108039
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 1,
+            "dense_rank": 7,
+            "bm25_score": 79.20992851667727,
+            "dense_score": 0.7163363478507063,
+            "rrf_score": 0.03131881575727918
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 6,
+            "dense_rank": 2,
+            "bm25_score": 69.4483030153999,
+            "dense_score": 0.7409922628436237,
+            "rrf_score": 0.03128054740957967
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 16,
+            "dense_rank": 1,
+            "bm25_score": 55.62960795609171,
+            "dense_score": 0.7559789470650689,
+            "rrf_score": 0.029551337359792925
+          },
+          {
+            "file_id": "concerns/i-cant-get-over-this-loss",
+            "title": "I can't get over this loss / I should be over this by now",
+            "bm25_rank": 10,
+            "dense_rank": 6,
+            "bm25_score": 62.19451584642182,
+            "dense_score": 0.7190299766371492,
+            "rrf_score": 0.029437229437229435
+          }
+        ],
+        "profile_id": "client-happy-need-boundaries-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 133
+    }
+  ]
+}

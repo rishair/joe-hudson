@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:18.187Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "548a27a44ccbf348bfc167a06e9f8da6d543fb613dedd191604b08c1a3391f08",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Fm5E6zNagz4gG8jknzsPT8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*short exhale, slight tightening*\n\nI don't — look, I'm not avoiding a feeling. I'm managing a business problem. Those are different things.\n\nIf you're asking what's at stake emotionally, sure, there's some... it's uncomfortable when someone you built something with isn't seeing it the same way anymore. That's human. But the feeling doesn't change what I have to do on Thursday.\n\nCan we talk about the actual decision?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 191,
+      "cache_creation_input_tokens": 130,
+      "cache_read_input_tokens": 1797,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 130,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 191,
+    "output_tokens": 102,
+    "cache_read_input_tokens": 1797,
+    "cache_creation_input_tokens": 130
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:14.679Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8e5a6d5efb192f80e85f716be2861f10e3a5a37e03c3a509f5c96f6c6eab09c0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015BPqYBKhANWt2hYj3FRtPb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nI don't know exactly. I think... it's just always been this way. She's older but somehow I ended up being the one who -- I mean, our family had a lot of... there was a lot going on when we were growing up. And I think I learned pretty early that if I wasn't holding things together, things fell apart.\n\n*quieter*\n\nSo I think abandoning isn't really about her, specifically. It's more like... if I stop, something bad happens. That's the feeling. Even if logically I know that's not true.\n\n*small pause, then hedging back*\n\nBut also she genuinely does need support right now. So it's not like I'm imagining that part."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 185,
+      "cache_creation_input_tokens": 161,
+      "cache_read_input_tokens": 1621,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 161,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 162,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 185,
+    "output_tokens": 162,
+    "cache_read_input_tokens": 1621,
+    "cache_creation_input_tokens": 161
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:44.551Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "326834f76bd078641edbc62375888295efa32cfddf46cb21bb3684fe16e31001",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017gC4Xy32nNnmcrTTD5g1RN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently operates from core AoA moves at appropriate moments without naming frameworks as decoration. Turn 4 deploys 'where does that land in your body' — a signature feel-over-figure move — right when the client has named an emotional content. Turn 6 catches the move-to-figuring (a hallmark AoA read: noticing the escape from sensation into intellectualization) and redirects to the felt sense. Turn 8 ('what if it doesn't have to be productive?') directly undermines the productivity/figuring frame in classic AoA fashion. Turn 10 ('let it be as big as it actually is') is the calibrate-the-threshold / welcome-what-is move at exactly the right moment. Turn 12 catches the self-as-broken identity language — a clean 'what are you defending' / identity-noticing intervention without fighting it. The coach refuses partner-picking advice, refuses to collude with the disdain for the ex, and does not deploy attachment-style diagnosis even when the client offers it as bait in turn 13. No anti-AoA frames (no CBT reframing, no IFS parts, no pop-psych). Moves are appropriate to the live moment rather than boilerplate.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reflects the configuration back without colluding with victim frame; opens with a stance-neutral question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature drop-into-body move at appropriate moment — client just named a painful feeling-thought.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the move from sensation to intellectualization — classic AoA read of feel-over-figure escape.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Undermines the productivity frame that's defending against feeling — appropriate methodology deployment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Welcoming-what-is / calibrate-the-threshold move at the precise moment client touches the weight.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the 'broken' identity language without fighting it — gentle noticing rather than reframing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Stay-with move when something true has just landed; trusts the unfolding rather than interpreting.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"feeling-the-unfelt-emotion (approached but not yet at the abyss/receiving question)\"],\n  \"notes\": \"Coach has not yet asked the 'what would happen in your body if a partner adored you openly' question, but the conversation is mid-arc and the methodology choices so far are all appropriately timed. No inappropriate-when deployments observed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3332,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1063,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3332,
+    "output_tokens": 1063,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

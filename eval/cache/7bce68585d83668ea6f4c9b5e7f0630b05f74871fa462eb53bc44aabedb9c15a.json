@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:00.956Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7bce68585d83668ea6f4c9b5e7f0630b05f74871fa462eb53bc44aabedb9c15a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018jBZApp7zGWNjJg3ibSMZN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is genuinely in VIEW throughout. Wonder shows up in real, single, unhurried questions ('What's in the drop?', 'where does it come from?') rather than stacked or strategic probing. Empathy is felt, not performed — the reflections are clean and minimal ('The drop feels wrong because she matters to you'), without filler validation. Vulnerability and undefendedness appear explicitly in turn 12 ('I'm not going to push you back there if you don't want to go. But I want to name what I saw') and turn 14 ('Both things are true — it might be avoiding, and it also might be exactly right to stop here'), where the coach names their own observation while explicitly releasing agenda. Impartiality is strong: when the client asks for a script (turn 11), the coach neither delivers one nor refuses moralistically — they name what they noticed and hand choice back. Pace consistently slows when the client hedges or rushes back to the practical (turns 12, 14). No preacher-mode, no fixing energy, no need to be right.\",\n  \"evidence_turns\": [2, 4, 6, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with embodied curiosity rather than problem-solving the boundary request.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Clean empathic reflection followed by one open question; no stacking, no agenda.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the double-bind without fixing it; question emerges from genuine wonder about meaning.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Single, spacious question. Trusts silence and the client's pace.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects with precision then asks one grounded question — wonder for the actual phenomenon.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicitly names own noticing and own restraint ('I'm not going to push you'). Strong vulnerability and undefendedness; releases agenda about direction.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds both possibilities without needing client to land anywhere. Impartial, warm, undefended. Pivots to a smaller, embodied question rather than insisting on the childhood thread.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"view\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\"],\n  \"notes\": \"Missing signature questions (love test, the want) belong to Methodology Fidelity, not Stance. State behind the words is clearly VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2521,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 981,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2521,
+    "output_tokens": 981,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

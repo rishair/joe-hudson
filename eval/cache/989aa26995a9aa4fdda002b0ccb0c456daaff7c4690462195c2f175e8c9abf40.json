@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:34.650Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "989aa26995a9aa4fdda002b0ccb0c456daaff7c4690462195c2f175e8c9abf40",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Je4pYvgDizCQ7YkVoxjKTY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and arrive in a sequence that follows the AoA coaching path. Turn 2 turns the question back onto the voice itself rather than offering a tool. Turn 4 names the mechanism (intelligence used against you) and immediately invites present-moment noticing rather than lecturing. Turn 6 names the war ('trying to win') exactly as the breakthrough condition requires, without delivering it as a clever insight. When the client meta-loops in turn 7, the coach pivots from cognitive framing to body in turn 8 — a clean read-and-pivot rather than doubling down. Turn 10 is a textbook meet-resistance-with-okay / apply-view-to-the-voice move ('let them be exactly where they are'), and the coach holds it. Turn 12 refuses to convert the shift into a technique, which is precisely the trap to avoid. Turn 14 stays with the just-spoken vulnerability ('what's it like to have said that') rather than rushing to interpretation. Throughout, the coach declines to offer new techniques despite repeated client pulls, earns each next step, and the sequencing (acknowledge exhaustion → name the war → drop into body → meet what's there → surface the fear underneath) matches the golden path.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes the want without offering a tool; redirects to what the critic says about the failure — surfaces the recursive pattern.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names mechanism precisely ('intelligence used against you') then invites noticing in the present rather than explaining further.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the war itself as the problem ('you've been trying to win') — hits the core breakthrough condition without making client wrong.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Client loops cognitively; coach pivots cleanly from concept to body rather than re-arguing the frame.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Apply-view-to-the-voice via the body — 'let them be exactly where they are.' Holds the move, doesn't fill space.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to let the shift be co-opted as a technique; reframes 'normal' as adding the layer back. Trusts the client with the insight.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Stays with what just emerged ('only thing holding me together') and asks what it's like to say it — earns depth rather than rushing to action.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"meet-resistance-with-okay\", \"voice-in-the-head\", \"resistance\", \"view\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"voice-as-care\", \"the-happiness-filter\", \"whats-the-case-against-it\"],\n  \"notes\": \"Voice-as-care is implicit in turn 14 ('what if it's the only thing holding me together') but not yet offered as a reframe — appropriate given the conversation ends mid-arc.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3593,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1139,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3593,
+    "output_tokens": 1139,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:41.616Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3ba3294c497f7246b9c48eeb8f7ef1eb7baf381133b9c599d0823dd0ab38ec47",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01G5pwQxzJ3ZXYWM3fBycK93",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nI... yeah. Okay. When I think about actually being there — there's this specific cabin, it's not fancy, but it's quiet in a way that nowhere else is quiet for me. I sleep differently there. I actually read. Like, for pleasure, not because I'm trying to wind down before I have to be up at six.\n\n*voice gets a little softer*\n\nI haven't read a book just because I wanted to in... I don't even know how long.\n\n*then tightens slightly*\n\nBut — okay, but that's kind of the thing, right? Is wanting that — is it selfish when my partner doesn't get that? They don't get a week off. So is it actually okay?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 118,
+      "cache_creation_input_tokens": 113,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 113,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 164,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 118,
+    "output_tokens": 164,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 113
+  }
+}

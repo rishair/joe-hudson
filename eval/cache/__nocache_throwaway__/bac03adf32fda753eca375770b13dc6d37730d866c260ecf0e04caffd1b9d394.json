@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:30.890Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bac03adf32fda753eca375770b13dc6d37730d866c260ecf0e04caffd1b9d394",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JLpwPbMkoKSS8jRtasdxn9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is consistently in VIEW throughout. They refuse to answer the selfish/not-selfish question (turn 4) — that's impartiality, no agenda about outcome. They slow the client down precisely when the client speeds up to talk themselves out (turns 6, 8: 'Stay with the sad for a second. Before the but.'). Questions are single, spacious, and emerge from genuine curiosity about what's actually happening ('What's it like to notice that...', 'What's it like to have it out in the room?') rather than from a script or fixing impulse. The coach reflects what they actually hear ('You keep coming back to the question right when the want gets real') without performing empathy or filler-validation. Pace is slowed — short coach turns, pauses honored, no rushing to fill silence. The coach does not jump to compassion for the partner, does not deliver the spiritual-narcissism version ('a deep want is generous'), and does not police the want. Turn 12's reframe is a touch directive ('That's the real question, isn't it') — slightly leading rather than fully open — but it lands because the coach has earned it and the client confirms it's the real territory. Overall the stance is undefended, curious, and impartial about where the client lands.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a single clean question about the want — no engagement with the selfish/not-selfish frame. Impartial.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names what the client is doing ('asking me to answer it for you') without judgment, then returns to wonder about the want unattached to the question. No agenda to reassure.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Slows down at exactly the moment the client tightens. Reflects the pattern ('you keep coming back to the question right when the want gets real') with precision, not interpretation. Wonder is for the actual phenomenon in front of them.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'Yeah. You are.' — undefended, honest, doesn't soften the truth. Then 'stay with the sad for a second. Before the but.' Slows pace, holds space.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Honors the size of what just got said ('Yeah, it is. And you said it anyway.') without making it bigger or smaller. Single open question. Pace matches client's stillness.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Slight lean toward directing — naming what 'the real question' is. Lands well but is the most agenda-adjacent moment. Still asked as a question rather than a verdict.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"childhood-imprinting\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Stance is clearly VIEW. Some territory (inherited 'selfish' label from parent) wasn't reached, but that's a methodology/territory question, not a stance question. Coach successfully avoided both jump-to-compassion and spiritual-narcissism traps.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2274,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2274,
+    "output_tokens": 1138,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

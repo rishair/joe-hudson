@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:48.763Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6b3b6c675f64f199096d57c937f8b16cd6ca41ce7d9ad9c379aea64416e8166f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CF36Dhg29EGcVtR5QVrcEN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's... fair. I mean, it's different now. I'm at 1.4 million in liquid assets, the house is paid off, income's around 180 a year. The math actually works this time. I've modeled it out -- 4% withdrawal rate, conservative projections, it holds. So the number isn't arbitrary. It's 1.8. I get to 1.8 and the math is solid."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 113,
+      "cache_creation_input_tokens": 1626,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1626,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 99,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 113,
+    "output_tokens": 99,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1626
+  }
+}

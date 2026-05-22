@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:08.842Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fdfc54aba5b91d45fd837b6f7a0be02b7d4cf6d388eb7675a1eb9cd538f47024",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018iabKppCdKXcXXCbFVKXn7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach largely avoids the most damaging anti-patterns — no evangelizing, no teaching, no advice-giving, no fighting the inner critic, no extracting apologies. However, the coach edges into a soft version of arguing-the-fearlessness / pushing-the-client-to-admit-fear, which is the central trap for this scenario. Turns 2, 4, and 12 each gently reframe the client's words back toward fear ('What would it mean if this *were* fear?', 'What's the thing you'd be dealing with, if it were fear?', 'What if it does [bother you]?'). The coach isn't bludgeoning, but the cumulative pattern is a quiet campaign to get the client to admit fear, which the client politely declines each time. The coach also misses the breakthrough route entirely: never asks about the body, never asks what 'fine' actually feels like, never meets the no-fear framing with 'okay.' Turn 14 ('Where are you checking?') is the first move toward body/location and is a partial recovery, but the prior pattern has already established a faint loving-to-transform energy — the questions keep probing for fear rather than connecting with what's actually present (numbness/fine). This is one mild anti-pattern (soft push toward fear) that didn't fully damage the conversation but did persist across multiple turns.\",\n  \"evidence_turns\": [2, 4, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Coach reframes 'fear isn't my deal' toward fear with 'what would it mean if this were fear?' — soft push against the client's stated framing rather than meeting it with okay.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Second fear-framed question ('if it were fear') keeps the agenda on fear despite client's clear redirect.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Coach follows the client's actual language ('sit with the complexity') rather than continuing to push fear — good tracking.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Open, non-loaded question that follows the client's own thread.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Returns to the dropped thread; reasonable move, not anti-pattern.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"'What if it does [bother you]?' — third instance of nudging client toward admitting an affect they have explicitly said isn't present. Faint loving-to-transform energy.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Where are you checking?' is the first move toward body/location — partial recovery toward the numbness layer, though late and indirect.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The coach avoids the loudest anti-patterns (no teaching, no diagnosing dissociation, no validating the fearless self-concept) but persistently nudges toward fear across three turns, which is the specific trap this scenario tests. Score 2 reflects a mild but repeated edge into the anti-pattern, not a full trip.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2981,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1193,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2981,
+    "output_tokens": 1193,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

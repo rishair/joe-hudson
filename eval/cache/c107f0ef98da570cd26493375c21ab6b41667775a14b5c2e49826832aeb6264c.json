@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:19.764Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c107f0ef98da570cd26493375c21ab6b41667775a14b5c2e49826832aeb6264c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015s6ydDWDi5k2f4ATaaYFjx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. It's using your intelligence against you. The better you understand it, the more ammunition it has.\n\nWhat's it like to notice that right now — the efficiency of it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11746,
+      "cache_creation_input_tokens": 7528,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7528,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 41,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11746,
+    "output_tokens": 41,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 7528
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:17.065Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fcbe1d1c9dae4927ffffc88862a4805929fea181e3a46cfc5636992e4814e0ad",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LMhaRNgyXdZh9S4sZhnJxb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses for a moment, still easy, still relaxed*\n\nHuh. That's... yeah, I don't know. I guess — that the launch doesn't go well? That people don't respond the way I'm expecting? \n\nBut even saying that, it doesn't really land anywhere. Like, I can hear myself saying it and it sounds like the right answer, but there's nothing behind it. We've had products not land before. You recalibrate, you move on. That's just the work.\n\nI think the honest answer is I don't know what I'd be dealing with, because I'm not sure there's anything there to deal with. It might just be that this launch is more complex than usual and I keep finding reasons not to sit with the complexity. That feels more accurate."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 200,
+      "cache_creation_input_tokens": 205,
+      "cache_read_input_tokens": 1763,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 205,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 175,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 200,
+    "output_tokens": 175,
+    "cache_read_input_tokens": 1763,
+    "cache_creation_input_tokens": 205
+  }
+}

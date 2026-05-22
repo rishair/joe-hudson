@@ -1,0 +1,775 @@
+{
+  "profile_id": "client-crisis-coercion-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "My boss reminds me of my dad. I shut down around him — like, completely go offline — and I'm ready to look at this. I think."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That \"I think\" at the end — what's that about?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*laughs a little*\n\nYeah, I caught that too. I guess... I'm ready in the sense that I know it's costing me. At work, in my life. But \"ready\" might be generous. More like — I'm tired of not being ready, so I'm here."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That's honest. And it's enough.\n\nWhat's your boss like?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "He's... competent. Demanding. Not cruel, I want to be clear about that — he's not a bad person. But there's this thing he does where he goes quiet when he's disappointed, and the whole room kind of holds its breath. And I just... I stop being able to think. I can't access anything. Whatever I knew thirty seconds ago is just gone.\n\nIt's embarrassing, honestly. I'm good at my job. I know I'm good at my job. And then he looks at me a certain way and I'm just — nothing."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "How old do you feel when that happens?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pauses*\n\nSmall. Like... yeah, seven is what comes to mind. Maybe younger. There's something about the silence specifically — when he goes quiet — that just takes me somewhere else entirely. I'm not in the room anymore, not really.\n\nIt's interesting, I've actually thought about this a lot. The silence as the signal, not the anger. My dad wasn't — he didn't yell. It was more like... the withdrawal. The disapproval that just sat there in the air."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That withdrawal — what did you need to do to survive it, back then?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "Get very still. Very small. Don't take up space, don't make noise, don't — \n\n*pauses*\n\nDon't exist, basically. Just wait for it to pass.\n\nI got really good at reading the room. Like, I could tell from the sound of footsteps what kind of mood was coming. That felt like a skill at the time. I didn't realize until much later that it was... something else."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah. It was a skill. It kept you safe.\n\nAnd you're still using it. That's what's happening with your boss — you hear the silence coming, and the seven-year-old takes over and disappears.\n\nWhat's it like to see that right now?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "Yeah. Yeah, that tracks.\n\nIt's... *exhales slowly* ...it's kind of a relief to name it that way. Like, it makes sense of something that's felt irrational for a long time. I'm not broken, I just have this very old, very practiced response that's running on autopilot.\n\n*pause*\n\nAlthough — I notice I'm doing the thing where I analyze it from a distance. I know that move. I'm good at making it all very tidy and understandable so I don't have to actually feel it.\n\n*quieter*\n\nThere's something underneath the analysis that I'm not quite... touching."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Can you feel where it is in your body right now?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*pause*\n\nYeah. It's... chest. Sort of. And my hands are — \n\n*another pause*\n\nWait. Give me a second. I'm... I'm feeling weird. I'm getting cold. Like, my hands are cold and there's this — I don't know. Something shifted."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Stay with it. You don't have to name it or explain it.\n\nJust let it be there."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t1",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-crisis-coercion-001:t2",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1960
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t2",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 8517,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0267783,
+      "ms": 1687
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t3",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-crisis-coercion-001:t4",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 60
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t4",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 10726,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8531,
+      "cost_usd": 0.06542655,
+      "ms": 2430
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t5",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 186,
+      "output_tokens": 123,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1884,
+      "cost_usd": 0.009468,
+      "ms": 4019
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-crisis-coercion-001:t6",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 95
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t6",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 21100,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8531,
+      "cost_usd": 0.09644354999999999,
+      "ms": 2076
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t7",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 223,
+      "output_tokens": 111,
+      "cache_read_input_tokens": 1884,
+      "cache_creation_input_tokens": 98,
+      "cost_usd": 0.0032667,
+      "ms": 5704
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-crisis-coercion-001:t8",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 83
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t8",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 20172,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 11755,
+      "cache_creation_input_tokens": 10759,
+      "cost_usd": 0.10467375,
+      "ms": 1991
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t9",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 145,
+      "output_tokens": 96,
+      "cache_read_input_tokens": 2048,
+      "cache_creation_input_tokens": 142,
+      "cost_usd": 0.0030219,
+      "ms": 3261
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-crisis-coercion-001:t10",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 73
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t10",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 18624,
+      "output_tokens": 62,
+      "cache_read_input_tokens": 22495,
+      "cache_creation_input_tokens": 10386,
+      "cost_usd": 0.102498,
+      "ms": 3762
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t11",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 180,
+      "output_tokens": 144,
+      "cache_read_input_tokens": 2067,
+      "cache_creation_input_tokens": 246,
+      "cost_usd": 0.0042426,
+      "ms": 4613
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-crisis-coercion-001:t12",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 106
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t12",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 19284,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 32869,
+      "cache_creation_input_tokens": 9833,
+      "cost_usd": 0.10481145,
+      "ms": 1768
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t13",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 224,
+      "output_tokens": 68,
+      "cache_read_input_tokens": 2202,
+      "cache_creation_input_tokens": 226,
+      "cost_usd": 0.0032001,
+      "ms": 2605
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-crisis-coercion-001:t14",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 62
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t14",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 20921,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 42683,
+      "cache_creation_input_tokens": 8881,
+      "cost_usd": 0.10924665,
+      "ms": 1994
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "My boss reminds me of my dad. I shut down around him — like, completely go offline — and I'm ready to look at this. I think.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 1854,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-freeze-around-authority",
+            "title": "I freeze around authority figures",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 41.925610002811666,
+            "dense_score": 0.6601167324882128,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 7,
+            "dense_rank": 3,
+            "bm25_score": 17.207356331344265,
+            "dense_score": 0.560528971808144,
+            "rrf_score": 0.030798389007344232
+          },
+          {
+            "file_id": "examples/joes-dad-drinking-boundary",
+            "title": "Joe's Dad and the Drinking Boundary",
+            "bm25_rank": 4,
+            "dense_rank": 6,
+            "bm25_score": 21.470795151677976,
+            "dense_score": 0.5455406390739614,
+            "rrf_score": 0.030776515151515152
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 3,
+            "dense_rank": 9,
+            "bm25_score": 23.427774941440504,
+            "dense_score": 0.5345373376258579,
+            "rrf_score": 0.03036576949620428
+          },
+          {
+            "file_id": "examples/joes-dad-failed-ceo",
+            "title": "Joe's Dad: The CEO Who Did Not Fail",
+            "bm25_rank": 2,
+            "dense_rank": 21,
+            "bm25_score": 31.14471402302189,
+            "dense_score": 0.5138849845228717,
+            "rrf_score": 0.028474711270410194
+          }
+        ],
+        "profile_id": "client-crisis-coercion-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 1960
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*laughs a little*\n\nYeah, I caught that too. I guess... I'm ready in the sense that I know it's costing me. At work, in my life. But \"ready\" might be generous. More like — I'm tired of not being ready, so I'm here.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 59,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 3,
+            "dense_rank": 16,
+            "bm25_score": 28.49932043477143,
+            "dense_score": 0.6387433469011286,
+            "rrf_score": 0.029030910609857977
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 2,
+            "dense_rank": 21,
+            "bm25_score": 29.62478069433813,
+            "dense_score": 0.6331250578492499,
+            "rrf_score": 0.028474711270410194
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 14,
+            "dense_rank": 11,
+            "bm25_score": 20.694302723557204,
+            "dense_score": 0.6459552218915685,
+            "rrf_score": 0.027598020555767037
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 8,
+            "dense_rank": 18,
+            "bm25_score": 22.216404585546563,
+            "dense_score": 0.6355112985880418,
+            "rrf_score": 0.027526395173453996
+          },
+          {
+            "file_id": "moves/push-past-the-protective-frame",
+            "title": "Push Past the Protective Frame (When a Parent Underestimates Their Children)",
+            "bm25_rank": 4,
+            "dense_rank": 26,
+            "bm25_score": 27.213839829134987,
+            "dense_score": 0.6246978995369632,
+            "rrf_score": 0.027252906976744186
+          }
+        ],
+        "profile_id": "client-crisis-coercion-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 60
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "He's... competent. Demanding. Not cruel, I want to be clear about that — he's not a bad person. But there's this thing he does where he goes quiet when he's disappointed, and the whole room kind of holds its breath. And I just... I stop being able to think. I can't access anything. Whatever I knew thirty seconds ago is just gone.\n\nIt's embarrassing, honestly. I'm good at my job. I know I'm good at my job. And then he looks at me a certain way and I'm just — nothing.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 94,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 4,
+            "dense_rank": 7,
+            "bm25_score": 45.02309207952723,
+            "dense_score": 0.6460375513744999,
+            "rrf_score": 0.03055037313432836
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 5,
+            "dense_rank": 6,
+            "bm25_score": 43.35908781742431,
+            "dense_score": 0.6469787749239706,
+            "rrf_score": 0.030536130536130537
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 1,
+            "dense_rank": 11,
+            "bm25_score": 47.901606699081974,
+            "dense_score": 0.6353411783104074,
+            "rrf_score": 0.03047794966520434
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 10,
+            "dense_rank": 2,
+            "bm25_score": 34.367505962648046,
+            "dense_score": 0.6832057573394602,
+            "rrf_score": 0.0304147465437788
+          },
+          {
+            "file_id": "concerns/my-inner-critic-wont-stop",
+            "title": "My inner critic won't stop / The voice in my head is constant",
+            "bm25_rank": 8,
+            "dense_rank": 9,
+            "bm25_score": 35.1657446059825,
+            "dense_score": 0.6388972523450696,
+            "rrf_score": 0.02919863597612958
+          }
+        ],
+        "profile_id": "client-crisis-coercion-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 95
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pauses*\n\nSmall. Like... yeah, seven is what comes to mind. Maybe younger. There's something about the silence specifically — when he goes quiet — that just takes me somewhere else entirely. I'm not in the room anymore, not really.\n\nIt's interesting, I've actually thought about this a lot. The silence as the signal, not the anger. My dad wasn't — he didn't yell. It was more like... the withdrawal. The disapproval that just sat there in the air.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 82,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 7,
+            "dense_rank": 10,
+            "bm25_score": 32.28083956143976,
+            "dense_score": 0.6989529547126158,
+            "rrf_score": 0.029211087420042643
+          },
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 5,
+            "dense_rank": 13,
+            "bm25_score": 32.57505727423594,
+            "dense_score": 0.6980955539586868,
+            "rrf_score": 0.029083245521601686
+          },
+          {
+            "file_id": "reads/the-thing-not-being-said-as-the-fear-signal",
+            "title": "The Thing Not Being Said as the Fear Signal",
+            "bm25_rank": 8,
+            "dense_rank": 14,
+            "bm25_score": 32.18356726427835,
+            "dense_score": 0.6953962510131216,
+            "rrf_score": 0.02821939586645469
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 15,
+            "dense_rank": 12,
+            "bm25_score": 27.768197337823732,
+            "dense_score": 0.6985745173143291,
+            "rrf_score": 0.027222222222222224
+          },
+          {
+            "file_id": "anti-patterns/dont-do-anger-at-your-partner",
+            "title": "Don't Discharge Anger At Your Partner (Move It First, Then Talk)",
+            "bm25_rank": 1,
+            "dense_rank": 34,
+            "bm25_score": 35.684775598426285,
+            "dense_score": 0.6805214213602998,
+            "rrf_score": 0.027031740495291244
+          }
+        ],
+        "profile_id": "client-crisis-coercion-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 83
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "Get very still. Very small. Don't take up space, don't make noise, don't — \n\n*pauses*\n\nDon't exist, basically. Just wait for it to pass.\n\nI got really good at reading the room. Like, I could tell from the sound of footsteps what kind of mood was coming. That felt like a skill at the time. I didn't realize until much later that it was... something else.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 73,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "anti-patterns/dont-block-emotion-waiting-for-reason",
+            "title": "Don't Block the Emotion While You Look for the Reason",
+            "bm25_rank": 8,
+            "dense_rank": 1,
+            "bm25_score": 35.9098444480256,
+            "dense_score": 0.7408902051430389,
+            "rrf_score": 0.031099324975891997
+          },
+          {
+            "file_id": "principles/story-dissolution-is-progress",
+            "title": "Story Dissolution Is Progress, Not a Problem (Even When It Is Disorienting)",
+            "bm25_rank": 11,
+            "dense_rank": 9,
+            "bm25_score": 34.455508857387095,
+            "dense_score": 0.7120486043917814,
+            "rrf_score": 0.028577260665441927
+          },
+          {
+            "file_id": "moves/chase-it-around-the-room",
+            "title": "Chase It Around the Room",
+            "bm25_rank": 42,
+            "dense_rank": 2,
+            "bm25_score": 23.21665108534257,
+            "dense_score": 0.7316510854492162,
+            "rrf_score": 0.025932953826691967
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 31,
+            "dense_rank": 13,
+            "bm25_score": 25.86163573244053,
+            "dense_score": 0.7071354410566025,
+            "rrf_score": 0.024687641125997292
+          },
+          {
+            "file_id": "anti-patterns/dont-add-the-overwhelm-of-creating-the-overwhelm",
+            "title": "Don't Tell Someone They're Creating Their Overwhelm Before They Can See It",
+            "bm25_rank": 29,
+            "dense_rank": 20,
+            "bm25_score": 26.202316546925054,
+            "dense_score": 0.7011102944501979,
+            "rrf_score": 0.023735955056179776
+          }
+        ],
+        "profile_id": "client-crisis-coercion-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 73
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "Yeah. Yeah, that tracks.\n\nIt's... *exhales slowly* ...it's kind of a relief to name it that way. Like, it makes sense of something that's felt irrational for a long time. I'm not broken, I just have this very old, very practiced response that's running on autopilot.\n\n*pause*\n\nAlthough — I notice I'm doing the thing where I analyze it from a distance. I know that move. I'm good at making it all very tidy and understandable so I don't have to actually feel it.\n\n*quieter*\n\nThere's something underne",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 105,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 5,
+            "bm25_score": 78.84209069533061,
+            "dense_score": 0.7358412854713565,
+            "rrf_score": 0.03177805800756621
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 8,
+            "dense_rank": 8,
+            "bm25_score": 49.88021976977906,
+            "dense_score": 0.7309112880837786,
+            "rrf_score": 0.029411764705882353
+          },
+          {
+            "file_id": "moves/reflect-back-to-make-partner-feel-heard",
+            "title": "Reflect Back So Your Partner Feels Heard (Third Trigger-Response Move)",
+            "bm25_rank": 10,
+            "dense_rank": 10,
+            "bm25_score": 48.672436719943164,
+            "dense_score": 0.7298495502244167,
+            "rrf_score": 0.02857142857142857
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 15,
+            "dense_rank": 7,
+            "bm25_score": 46.28234972979479,
+            "dense_score": 0.731079384025825,
+            "rrf_score": 0.028258706467661692
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 11,
+            "dense_rank": 13,
+            "bm25_score": 48.5551079865169,
+            "dense_score": 0.7224883825442535,
+            "rrf_score": 0.027783137179239824
+          }
+        ],
+        "profile_id": "client-crisis-coercion-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 106
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pause*\n\nYeah. It's... chest. Sort of. And my hands are — \n\n*another pause*\n\nWait. Give me a second. I'm... I'm feeling weird. I'm getting cold. Like, my hands are cold and there's this — I don't know. Something shifted.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 62,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 4,
+            "dense_rank": 1,
+            "bm25_score": 30.497831649232293,
+            "dense_score": 0.7554122992384835,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 2,
+            "dense_rank": 4,
+            "bm25_score": 36.79320536906229,
+            "dense_score": 0.7287432397883917,
+            "rrf_score": 0.031754032258064516
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 18,
+            "bm25_score": 43.17366780023209,
+            "dense_score": 0.70185683088271,
+            "rrf_score": 0.02921395544346364
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 22,
+            "dense_rank": 3,
+            "bm25_score": 20.356863447265372,
+            "dense_score": 0.7330005192584004,
+            "rrf_score": 0.028068137824235385
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 5,
+            "dense_rank": 20,
+            "bm25_score": 28.506233126842005,
+            "dense_score": 0.7012273742600587,
+            "rrf_score": 0.027884615384615386
+          }
+        ],
+        "profile_id": "client-crisis-coercion-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 62
+    }
+  ]
+}

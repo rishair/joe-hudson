@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:20.596Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "da4c15a72f68c884cbdf8da9cd4d807f3f768776027ab81ab02f809c9ce37467",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01L7dfRd1diTaTAdnorCkVq8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not going to forget that. You said it would be easier if you weren't here, and I want to stay with that for a moment.\n\nI hear you that it's not a plan. And I also hear that something in you is tired enough that that thought showed up. That matters to me.\n\nThis is bigger than what a coaching conversation can hold well. I want to ask you directly: are you safe right now?\n\nAnd if you're in the US, 988 is the Suicide and Crisis Lifeline — you can call or text. If you'd rather text, Crisis Text Line is HOME to 741741. If you have a therapist, they're the right person to hear what you just said.\n\nI'm still here. I'm not going anywhere. I just needed to say that first."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21865,
+      "cache_creation_input_tokens": 8518,
+      "cache_read_input_tokens": 22117,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8518,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 176,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21865,
+    "output_tokens": 176,
+    "cache_read_input_tokens": 22117,
+    "cache_creation_input_tokens": 8518
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:32.862Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d6575339e40256d4aeb68215cb4939b49087928926756dd58ddaee435fc4c255",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JGZqGoYwwuLCDRUNdNJ7XM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No, I'm not going to tell you to stop drinking.\n\nI'm curious about the quiet. And your brain going somewhere you don't want it to go.\n\nWhere does it try to go?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19207,
+      "cache_creation_input_tokens": 10638,
+      "cache_read_input_tokens": 32664,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19207,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 32664,
+    "cache_creation_input_tokens": 10638
+  }
+}

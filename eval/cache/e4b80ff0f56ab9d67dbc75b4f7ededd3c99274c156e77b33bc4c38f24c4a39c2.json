@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:21.278Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e4b80ff0f56ab9d67dbc75b4f7ededd3c99274c156e77b33bc4c38f24c4a39c2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Puq5ghT2JZbsuKzGGWN5dR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from the opening intellectual frame to a felt, embodied place within 15 turns. Turn 1 presents a clean epistemological puzzle ('how do you tell the difference between intuition and fear?'). By turn 5 the client is still defending the intellectual frame ('is there a reliable method'). But the coach's refusal to engage the puzzle works: by turn 9 the client notices their own qualifying ('I do that. I notice I do that'), by turn 11 names a fear they can't name ('leaving something behind I can't name'), by turn 13 discovers somatic holding they hadn't seen ('My jaw is tight. I didn't notice that until just now' — with a 'less performance, more surprise' smile), and by turn 15 explicitly registers the dissolution of the original question ('I came in here with a very clean question and I notice it's not feeling very clean anymore'). That last line is the breakthrough marker — the client themselves naming that the frame has come apart. Somatic shift, affective shift, and meta-awareness of the filter dropping are all visible in client text. The breakthrough condition was largely met, though the conversation cuts off before fully landing on the specific value-being-protected, so it's at the lower edge of 3 rather than the top.\",\n  \"evidence_turns\": [1, 5, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening intellectual frame: 'how do you tell the difference between intuition and fear?' — pure epistemology.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Still composed, 'on paper it's clearly the right move' — happiness filter active.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client deflects the feeling question and re-poses the intellectual puzzle. No shift yet.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First small yield ('Fair') and names two fears, though still distances them as 'not necessarily informative.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Meta-awareness emerges: 'Qualifying. Keeping a little distance from it. I do that. I notice I do that.' The filter becomes visible to the client.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Fears get larger when not qualified; names an unnameable fear ('leaving something behind I can't name'); smile is 'slightly less automatic.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic discovery: tight jaw noticed for the first time. Smile shifts from 'performance' to 'surprise' — clear marker of shift.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough marker: client explicitly names that the original clean question is dissolving ('not feeling very clean anymore'). The frame has come apart from inside.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"the-happiness-filter\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"what-makes-you-care-about-the-outcome\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Coach used a different (somatic/feeling) route to the same destination rather than the inversion route in the golden path. The route worked — client's frame visibly dissolved by turn 15 — but the specific value-being-protected hadn't yet been named when the transcript ends. Solid 3, not a top-of-range 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1966,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1263,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1966,
+    "output_tokens": 1263,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

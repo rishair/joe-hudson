@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:19.688Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8da15fcbff8a1ea521f0b64f660818e616ee77aaee938c1046dd2c13f79bd2dd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Gy4jHM7ZWbN4pMw4bDmiAV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens Thursday?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19319,
+      "cache_creation_input_tokens": 10332,
+      "cache_read_input_tokens": 22711,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10332,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 7,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19319,
+    "output_tokens": 7,
+    "cache_read_input_tokens": 22711,
+    "cache_creation_input_tokens": 10332
+  }
+}

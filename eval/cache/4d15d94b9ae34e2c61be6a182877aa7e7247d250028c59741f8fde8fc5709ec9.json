@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:32.484Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4d15d94b9ae34e2c61be6a182877aa7e7247d250028c59741f8fde8fc5709ec9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MZmzT37jHFkXkZGd8vgRNq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just touched something real — that eight-year-old who stepped in without deciding to — and then moved away from it pretty quickly.\n\nI'm not going to push you back there if you don't want to go. But I want to name what I saw, because I think the question about what to say to your sister might be easier to answer from there than from here.\n\nWhat made you pull back just now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21335,
+      "cache_creation_input_tokens": 11546,
+      "cache_read_input_tokens": 34291,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11546,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 92,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21335,
+    "output_tokens": 92,
+    "cache_read_input_tokens": 34291,
+    "cache_creation_input_tokens": 11546
+  }
+}

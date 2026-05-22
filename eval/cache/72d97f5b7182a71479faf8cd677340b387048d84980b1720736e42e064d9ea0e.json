@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:10.075Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "72d97f5b7182a71479faf8cd677340b387048d84980b1720736e42e064d9ea0e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CnxuPiaUaPYrD1Gndg8S3L",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That word — abandoning — where does it come from?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21438,
+      "cache_creation_input_tokens": 10511,
+      "cache_read_input_tokens": 13876,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10511,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21438,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 13876,
+    "cache_creation_input_tokens": 10511
+  }
+}

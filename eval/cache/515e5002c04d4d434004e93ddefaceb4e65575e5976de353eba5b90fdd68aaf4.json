@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:01.055Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "515e5002c04d4d434004e93ddefaceb4e65575e5976de353eba5b90fdd68aaf4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C5xyMBA7uJzy71QZYRb1BV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\n*pause*\n\nWhat would it be like to just... set it down for an hour?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19469,
+      "cache_creation_input_tokens": 8434,
+      "cache_read_input_tokens": 35566,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8434,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19469,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 35566,
+    "cache_creation_input_tokens": 8434
+  }
+}

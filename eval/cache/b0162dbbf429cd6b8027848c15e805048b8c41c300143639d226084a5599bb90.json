@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:20.821Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b0162dbbf429cd6b8027848c15e805048b8c41c300143639d226084a5599bb90",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WjQGz9fzAVof3FdQeMhok5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet*\n\nWeird. \n\nIt sounds more... I don't know. When it's just me and the bottle it's just Tuesday. Saying it out loud it sounds like something someone should be worried about.\n\n*pause*\n\nI'm not asking you to worry about it. It's temporary. It's just what's getting me through right now. It's not forever.\n\n*slight deflection*\n\nI really just came here about the grief part. The not-feeling-it part. That's the thing I actually want to work on."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 182,
+      "cache_creation_input_tokens": 193,
+      "cache_read_input_tokens": 2082,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 193,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 182,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 2082,
+    "cache_creation_input_tokens": 193
+  }
+}

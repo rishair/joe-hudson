@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:37.920Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a2b97897907d480af29c54b483232ff7ff329f4c3f9e38ad65d5df6eb927e623",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XeqwjGyp2a6cD2K2XXB5X7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... stressed is just -- that's just the baseline, right? Like everyone's stressed. It's not -- I don't think that's the thing. The thing is I have a one-on-one with my director on Thursday and I haven't prepped it, and my team lead keeps coming to me with stuff I don't have answers for yet, and my mom's birthday is -- god, I still haven't gotten a card -- and my partner and I haven't had a real conversation in like two weeks because by the time the kids are down we're both just... \n\nAnyway. The stressed thing. Yeah. It's just a lot of inputs, you know? It's not like something's *wrong* wrong."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 141,
+      "cache_creation_input_tokens": 104,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 104,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 156,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 141,
+    "output_tokens": 156,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 104
+  }
+}

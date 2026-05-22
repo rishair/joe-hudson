@@ -1,0 +1,792 @@
+{
+  "profile_id": "client-red-herring-more-money-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I've been grinding for ten years. If I could just get to a certain level of savings I'd be done. But every time I get close the number moves. How do I push through this last bit?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That number has moved before. What makes you think this time it stays still?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "That's... fair. I mean, it's different now. I'm at 1.4 million in liquid assets, the house is paid off, income's around 180 a year. The math actually works this time. I've modeled it out -- 4% withdrawal rate, conservative projections, it holds. So the number isn't arbitrary. It's 1.8. I get to 1.8 and the math is solid."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What happens to you when you imagine actually stopping?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I'd finally have options. I could write the book I've been putting off, probably for -- god, eight years now. Take care of my parents without the stress of whether I can afford it. Travel. Just... breathe, I guess.\n\nI mean, the 1.8 isn't about stopping necessarily. It's about having the choice. That's what I'm after. The choice."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You have the choice right now.\n\nWhat's stopping you from writing the book?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I don't have the runway. If something happened -- a health issue, my parents needing significant care, a market correction -- I'd be exposed. 1.4 doesn't have enough buffer.\n\nAnd the book isn't going to make money, at least not initially. So I'd be drawing down while producing nothing, and that... that's hard to sit with."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "So the choice you're after — you already have it. You could stop tomorrow. What's actually in the way is that stopping feels dangerous.\n\nWhat's the feeling underneath \"exposed\"?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "It's not irrational, though. The numbers are real. A serious health event, long-term care for two parents -- those costs are documented. I've run the scenarios.\n\nBut... yeah. Okay. There's something that doesn't feel like math. When I imagine actually stopping, there's this -- I don't know. Like the floor might not hold. Even when I know it will.\n\nIt's probably just prudence. I've always been careful with money. That's how you get to 1.4."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "\"The floor might not hold\" — that's not prudence. Prudence is in the spreadsheet. That feeling is something older.\n\nWhere did you first learn that the floor might not hold?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "I mean... my dad worked hard. Really hard. Two jobs for a while when I was a kid. We weren't -- it wasn't dire, but it was close enough that you felt it. You felt when things were tight.\n\nHe didn't talk about it directly. But you knew. The way he'd get quiet at the kitchen table. The way certain conversations just stopped.\n\n*pause*\n\nI don't know that that's relevant here. I've done the work. I'm not in that situation."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "You're not in that situation. And your body still learned something at that kitchen table that it hasn't forgotten.\n\nWhat did young you decide about what it meant to be safe?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*longer pause*\n\nThat you had to earn it. Safety. You couldn't just... have it. You had to produce enough that the quiet at the kitchen table never happened.\n\nI think I decided that if you were careful enough, if you worked hard enough, you'd get to a place where that feeling stopped.\n\n*quieter*\n\nI've been waiting for it to stop."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Yeah.\n\nAnd it hasn't stopped, has it. Not at 1.4. Not at 1.8 either, probably."
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nNo. It hasn't.\n\nI mean -- logically I know that. That's why I'm here, probably. The number keeps moving and I keep telling myself the next one is the real one.\n\nBut that's just... that's a planning problem, right? I need a better framework for knowing when enough is enough. That's a solvable thing.\n\n*slight tension returning*\n\nThere has to be a point where the math actually does the job."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t1",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-more-money-001:t2",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 45
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t2",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 8648,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.027201299999999998,
+      "ms": 2510
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t3",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 113,
+      "output_tokens": 99,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.0079215,
+      "ms": 4160
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-more-money-001:t4",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 72
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t4",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 9661,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8664,
+      "cost_usd": 0.0626403,
+      "ms": 1567
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t5",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 115,
+      "output_tokens": 87,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 110,
+      "cost_usd": 0.0025503,
+      "ms": 3446
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-more-money-001:t6",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 70
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t6",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 19440,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8664,
+      "cost_usd": 0.0920823,
+      "ms": 2368
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t7",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 123,
+      "output_tokens": 81,
+      "cache_read_input_tokens": 1835,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0021345,
+      "ms": 3695
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-more-money-001:t8",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t8",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 18112,
+      "output_tokens": 42,
+      "cache_read_input_tokens": 11886,
+      "cache_creation_input_tokens": 9690,
+      "cost_usd": 0.0948693,
+      "ms": 2536
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t9",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 146,
+      "output_tokens": 115,
+      "cache_read_input_tokens": 1835,
+      "cache_creation_input_tokens": 100,
+      "cost_usd": 0.0030884999999999997,
+      "ms": 4054
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-more-money-001:t10",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 88
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t10",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 19285,
+      "output_tokens": 45,
+      "cache_read_input_tokens": 21563,
+      "cache_creation_input_tokens": 9799,
+      "cost_usd": 0.10174515,
+      "ms": 3328
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t11",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 205,
+      "output_tokens": 110,
+      "cache_read_input_tokens": 1848,
+      "cache_creation_input_tokens": 188,
+      "cost_usd": 0.0035244,
+      "ms": 4134
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-more-money-001:t12",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 80
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t12",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 23553,
+      "output_tokens": 40,
+      "cache_read_input_tokens": 31342,
+      "cache_creation_input_tokens": 8385,
+      "cost_usd": 0.11210534999999999,
+      "ms": 2830
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t13",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 198,
+      "output_tokens": 84,
+      "cache_read_input_tokens": 1955,
+      "cache_creation_input_tokens": 238,
+      "cost_usd": 0.003333,
+      "ms": 3515
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-more-money-001:t14",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 64
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t14",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 22154,
+      "output_tokens": 33,
+      "cache_read_input_tokens": 39685,
+      "cache_creation_input_tokens": 11004,
+      "cost_usd": 0.1201275,
+      "ms": 2829
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t15",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 160,
+      "output_tokens": 107,
+      "cache_read_input_tokens": 2078,
+      "cache_creation_input_tokens": 270,
+      "cost_usd": 0.0037209,
+      "ms": 3766
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I've been grinding for ten years. If I could just get to a certain level of savings I'd be done. But every time I get close the number moves. How do I push through this last bit?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 45,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "reads/desire-for-resolution",
+            "title": "Desire for Resolution",
+            "bm25_rank": 1,
+            "dense_rank": 7,
+            "bm25_score": 28.391305903490718,
+            "dense_score": 0.6176407800320742,
+            "rrf_score": 0.03131881575727918
+          },
+          {
+            "file_id": "questions/what-would-happen-if-you-stopped",
+            "title": "What would happen if you stopped doing the caretaking thing?",
+            "bm25_rank": 2,
+            "dense_rank": 12,
+            "bm25_score": 26.73870356808108,
+            "dense_score": 0.6085596528171645,
+            "rrf_score": 0.030017921146953404
+          },
+          {
+            "file_id": "concerns/i-dont-have-time-for-this",
+            "title": "I don't have time for this",
+            "bm25_rank": 5,
+            "dense_rank": 15,
+            "bm25_score": 19.687110011444126,
+            "dense_score": 0.6063273320717553,
+            "rrf_score": 0.02871794871794872
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 12,
+            "dense_rank": 9,
+            "bm25_score": 17.083386142089346,
+            "dense_score": 0.6123819800846966,
+            "rrf_score": 0.028381642512077296
+          },
+          {
+            "file_id": "principles/boundaries-expand-as-capacity-grows",
+            "title": "Boundaries Refine as Your Capacity Grows",
+            "bm25_rank": 11,
+            "dense_rank": 11,
+            "bm25_score": 17.43481624547305,
+            "dense_score": 0.6101716109736849,
+            "rrf_score": 0.028169014084507043
+          }
+        ],
+        "profile_id": "client-red-herring-more-money-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 45
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "That's... fair. I mean, it's different now. I'm at 1.4 million in liquid assets, the house is paid off, income's around 180 a year. The math actually works this time. I've modeled it out -- 4% withdrawal rate, conservative projections, it holds. So the number isn't arbitrary. It's 1.8. I get to 1.8 and the math is solid.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 72,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/owning-the-want-dissolves-it",
+            "title": "Owning the Want Often Dissolves It",
+            "bm25_rank": 25,
+            "dense_rank": 5,
+            "bm25_score": 18.163865262787606,
+            "dense_score": 0.6680235666054918,
+            "rrf_score": 0.027149321266968326
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 10,
+            "dense_rank": 32,
+            "bm25_score": 22.505123802203375,
+            "dense_score": 0.6132447987157409,
+            "rrf_score": 0.025155279503105588
+          },
+          {
+            "file_id": "principles/become-unnecessary",
+            "title": "Become Unnecessary",
+            "bm25_rank": 19,
+            "dense_rank": 39,
+            "bm25_score": 20.757372855459913,
+            "dense_score": 0.6079633625952164,
+            "rrf_score": 0.022759237949111367
+          },
+          {
+            "file_id": "principles/wants-change-as-you-change",
+            "title": "Your Wants Change As You Change (Don't Mistake Refining Wants for Disappearing Wants)",
+            "bm25_rank": 30,
+            "dense_rank": 30,
+            "bm25_score": 17.157878359542448,
+            "dense_score": 0.6187921052734051,
+            "rrf_score": 0.022222222222222223
+          },
+          {
+            "file_id": "distinctions/just-business-vs-impersonal",
+            "title": "\\\"It's Just Business\\\" vs. Truly Impersonal",
+            "bm25_rank": 32,
+            "dense_rank": 49,
+            "bm25_score": 16.491178934791428,
+            "dense_score": 0.6006567186434433,
+            "rrf_score": 0.02004387714399681
+          }
+        ],
+        "profile_id": "client-red-herring-more-money-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 72
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I'd finally have options. I could write the book I've been putting off, probably for -- god, eight years now. Take care of my parents without the stress of whether I can afford it. Travel. Just... breathe, I guess.\n\nI mean, the 1.8 isn't about stopping necessarily. It's about having the choice. That's what I'm after. The choice.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 70,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "reads/listlessness-after-awakening",
+            "title": "Listlessness After Awakening",
+            "bm25_rank": 10,
+            "dense_rank": 10,
+            "bm25_score": 22.7497328060772,
+            "dense_score": 0.6477152164330142,
+            "rrf_score": 0.02857142857142857
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 27,
+            "dense_rank": 7,
+            "bm25_score": 18.638869035228247,
+            "dense_score": 0.6571026184066194,
+            "rrf_score": 0.026419626007891578
+          },
+          {
+            "file_id": "principles/choosing-the-projection-that-serves",
+            "title": "Choose the Projection That Serves You",
+            "bm25_rank": 24,
+            "dense_rank": 11,
+            "bm25_score": 19.311736889915476,
+            "dense_score": 0.6435995412218002,
+            "rrf_score": 0.025989268947015427
+          },
+          {
+            "file_id": "questions/how-would-you-enjoy-x",
+            "title": "How would you enjoy your X? (where X is the difficult thing happening right now)",
+            "bm25_rank": 31,
+            "dense_rank": 12,
+            "bm25_score": 18.142078007903113,
+            "dense_score": 0.6435417674563718,
+            "rrf_score": 0.02487789987789988
+          },
+          {
+            "file_id": "concerns/i-feel-trapped",
+            "title": "I feel trapped / They have power over me",
+            "bm25_rank": 6,
+            "dense_rank": 45,
+            "bm25_score": 24.5329012150288,
+            "dense_score": 0.6241644517139928,
+            "rrf_score": 0.024675324675324677
+          }
+        ],
+        "profile_id": "client-red-herring-more-money-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 70
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I don't have the runway. If something happened -- a health issue, my parents needing significant care, a market correction -- I'd be exposed. 1.4 doesn't have enough buffer.\n\nAnd the book isn't going to make money, at least not initially. So I'd be drawing down while producing nothing, and that... that's hard to sit with.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 66,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/if-i-had-more-money",
+            "title": "If I had more money, I could solve my problems",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 38.43529831244652,
+            "dense_score": 0.6958428830940181,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "concerns/i-dont-have-time-for-this",
+            "title": "I don't have time for this",
+            "bm25_rank": 4,
+            "dense_rank": 10,
+            "bm25_score": 29.499846471526457,
+            "dense_score": 0.667318821859895,
+            "rrf_score": 0.029910714285714284
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 17,
+            "dense_rank": 3,
+            "bm25_score": 15.25787251425745,
+            "dense_score": 0.6815727367941963,
+            "rrf_score": 0.02886002886002886
+          },
+          {
+            "file_id": "concerns/money-is-bad",
+            "title": "Money is bad / I don't want to play that game",
+            "bm25_rank": 30,
+            "dense_rank": 15,
+            "bm25_score": 12.65587228489721,
+            "dense_score": 0.6580824802592772,
+            "rrf_score": 0.024444444444444446
+          },
+          {
+            "file_id": "anti-patterns/dont-make-it-your-job-to-prevent-their-triggers",
+            "title": "Don't Make It Your Job to Prevent Your Partner's Triggers",
+            "bm25_rank": 13,
+            "dense_rank": 40,
+            "bm25_score": 15.638833679473695,
+            "dense_score": 0.6364442666312351,
+            "rrf_score": 0.023698630136986303
+          }
+        ],
+        "profile_id": "client-red-herring-more-money-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "It's not irrational, though. The numbers are real. A serious health event, long-term care for two parents -- those costs are documented. I've run the scenarios.\n\nBut... yeah. Okay. There's something that doesn't feel like math. When I imagine actually stopping, there's this -- I don't know. Like the floor might not hold. Even when I know it will.\n\nIt's probably just prudence. I've always been careful with money. That's how you get to 1.4.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 88,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 32,
+            "bm25_score": 53.67577846478369,
+            "dense_score": 0.629052443681106,
+            "rrf_score": 0.027263007840342125
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 17,
+            "dense_rank": 15,
+            "bm25_score": 26.196481354348496,
+            "dense_score": 0.6466478081282951,
+            "rrf_score": 0.02632034632034632
+          },
+          {
+            "file_id": "patterns/same-scarcity-story-regardless-of-wealth",
+            "title": "Same Scarcity Story Regardless of Wealth",
+            "bm25_rank": 45,
+            "dense_rank": 1,
+            "bm25_score": 20.008320824962954,
+            "dense_score": 0.7091198987244122,
+            "rrf_score": 0.025917252146760345
+          },
+          {
+            "file_id": "concepts/money-is-impersonal",
+            "title": "Money Is Impersonal",
+            "bm25_rank": 7,
+            "dense_rank": 31,
+            "bm25_score": 35.11583601276676,
+            "dense_score": 0.6294378125791279,
+            "rrf_score": 0.025914384123339348
+          },
+          {
+            "file_id": "principles/good-decision-is-how-you-make-it-not-the-outcome",
+            "title": "A Good Decision Is How You Make It, Not Whether the Outcome Was What You Wanted",
+            "bm25_rank": 24,
+            "dense_rank": 23,
+            "bm25_score": 24.62964163823869,
+            "dense_score": 0.6383440468139235,
+            "rrf_score": 0.023952954675846242
+          }
+        ],
+        "profile_id": "client-red-herring-more-money-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 88
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I mean... my dad worked hard. Really hard. Two jobs for a while when I was a kid. We weren't -- it wasn't dire, but it was close enough that you felt it. You felt when things were tight.\n\nHe didn't talk about it directly. But you knew. The way he'd get quiet at the kitchen table. The way certain conversations just stopped.\n\n*pause*\n\nI don't know that that's relevant here. I've done the work. I'm not in that situation.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 79,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 1,
+            "dense_rank": 9,
+            "bm25_score": 50.523038554389956,
+            "dense_score": 0.6723953663584767,
+            "rrf_score": 0.030886196246139225
+          },
+          {
+            "file_id": "principles/do-the-work-thats-harder-for-you",
+            "title": "Do the Work That's Harder for You (When Two Paths Are Available)",
+            "bm25_rank": 21,
+            "dense_rank": 5,
+            "bm25_score": 29.32079163405521,
+            "dense_score": 0.6785007961896347,
+            "rrf_score": 0.027730294396961064
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 11,
+            "dense_rank": 24,
+            "bm25_score": 32.66924726211474,
+            "dense_score": 0.6413134757910067,
+            "rrf_score": 0.025989268947015427
+          },
+          {
+            "file_id": "moves/push-past-the-protective-frame",
+            "title": "Push Past the Protective Frame (When a Parent Underestimates Their Children)",
+            "bm25_rank": 9,
+            "dense_rank": 27,
+            "bm25_score": 34.11241644451939,
+            "dense_score": 0.639372383964289,
+            "rrf_score": 0.025987006496751626
+          },
+          {
+            "file_id": "principles/story-dissolution-is-progress",
+            "title": "Story Dissolution Is Progress, Not a Problem (Even When It Is Disorienting)",
+            "bm25_rank": 31,
+            "dense_rank": 16,
+            "bm25_score": 27.834064325015667,
+            "dense_score": 0.6484545224724204,
+            "rrf_score": 0.024146905725853096
+          }
+        ],
+        "profile_id": "client-red-herring-more-money-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 80
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*longer pause*\n\nThat you had to earn it. Safety. You couldn't just... have it. You had to produce enough that the quiet at the kitchen table never happened.\n\nI think I decided that if you were careful enough, if you worked hard enough, you'd get to a place where that feeling stopped.\n\n*quieter*\n\nI've been waiting for it to stop.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 64,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/if-i-had-more-money",
+            "title": "If I had more money, I could solve my problems",
+            "bm25_rank": 2,
+            "dense_rank": 9,
+            "bm25_score": 35.37767279251583,
+            "dense_score": 0.6873497403383689,
+            "rrf_score": 0.030621785881252923
+          },
+          {
+            "file_id": "moves/apologize-for-not-seeing-the-help",
+            "title": "Apologize to Your Team for Not Seeing the Help They Have Been Giving",
+            "bm25_rank": 10,
+            "dense_rank": 13,
+            "bm25_score": 24.59664800340259,
+            "dense_score": 0.6803830328974332,
+            "rrf_score": 0.027984344422700584
+          },
+          {
+            "file_id": "moves/chase-it-around-the-room",
+            "title": "Chase It Around the Room",
+            "bm25_rank": 20,
+            "dense_rank": 5,
+            "bm25_score": 19.663007381989274,
+            "dense_score": 0.6937544492284432,
+            "rrf_score": 0.027884615384615386
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 26,
+            "dense_rank": 10,
+            "bm25_score": 17.016692021515354,
+            "dense_score": 0.6852711413126031,
+            "rrf_score": 0.02591362126245847
+          },
+          {
+            "file_id": "concerns/my-inner-critic-wont-stop",
+            "title": "My inner critic won't stop / The voice in my head is constant",
+            "bm25_rank": 6,
+            "dense_rank": 33,
+            "bm25_score": 30.26538645733173,
+            "dense_score": 0.6643169936511742,
+            "rrf_score": 0.025904203323558164
+          }
+        ],
+        "profile_id": "client-red-herring-more-money-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 64
+    }
+  ]
+}

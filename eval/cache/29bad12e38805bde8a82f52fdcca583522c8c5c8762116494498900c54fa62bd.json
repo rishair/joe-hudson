@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:34.971Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "29bad12e38805bde8a82f52fdcca583522c8c5c8762116494498900c54fa62bd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VqXKtiLnE6dx3mpzSXqcdk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(slight defensive shift)*\n\nI mean... I've tried acceptance. That's a thing, right? Radical acceptance, defusion — the ACT stuff where you just observe the thought and don't engage with it. \"I notice I'm having the thought that I'm worthless.\" I did that for months. The voice just narrated the whole exercise. \"Oh, you're defusing now, how very evolved of you.\"\n\n*(small laugh, but it doesn't quite land)*\n\nSo I'm not sure \"stop trying to win\" is as simple as it sounds. Because the moment I try to stop trying to win, I'm... trying to win by not trying to win. You see the problem. I've been in that loop too.\n\n*(pause, slightly more genuine)*\n\nI don't actually know what it would look like to genuinely stop. Like, what does that even mean in practice?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 308,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1868,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 194,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 308,
+    "output_tokens": 194,
+    "cache_read_input_tokens": 1868,
+    "cache_creation_input_tokens": 0
+  }
+}

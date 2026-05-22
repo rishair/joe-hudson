@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:17.103Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "13e9f6005b85b95b8de5cc27936aa6f49d81431c490f717a084b7a01a0fe93fb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XfFCZM6qqLW1bKjjV1P29C",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're not in that situation. And your body still learned something at that kitchen table that it hasn't forgotten.\n\nWhat did young you decide about what it meant to be safe?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23553,
+      "cache_creation_input_tokens": 8385,
+      "cache_read_input_tokens": 31342,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8385,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 40,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23553,
+    "output_tokens": 40,
+    "cache_read_input_tokens": 31342,
+    "cache_creation_input_tokens": 8385
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:57.551Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2569b0c1f5e9e330ab89c229128f98770e3ce3519464bec91a3048518d1221df",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0145ZVhBwYd1gcaA5xsd132J",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That shift you just noticed — the \"slightly less clenched\" — that wasn't a technique. You didn't do anything. You just stopped adding the extra layer.\n\nThat *is* the thing. Not a technique that changes you. The absence of the thing that was tightening you.\n\nWhat you're calling \"going back to normal\" — I wonder if normal is just... not noticing when you add the layer back."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20574,
+      "cache_creation_input_tokens": 9030,
+      "cache_read_input_tokens": 34780,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9030,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 94,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20574,
+    "output_tokens": 94,
+    "cache_read_input_tokens": 34780,
+    "cache_creation_input_tokens": 9030
+  }
+}

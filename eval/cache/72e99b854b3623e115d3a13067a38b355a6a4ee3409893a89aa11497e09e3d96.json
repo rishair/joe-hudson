@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:08.358Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "72e99b854b3623e115d3a13067a38b355a6a4ee3409893a89aa11497e09e3d96",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QQHH2nZMLTmtzTyHRhha39",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*something flickers across the face — not quite resistance, not quite openness*\n\nI notice I want to ask what I'd use instead. Which is probably telling.\n\n*small dry sound, almost a laugh*\n\nThe honest answer is I don't know. I haven't not had it for a while. It's like asking what it would be like to walk without knowing where your feet are. Which I realize sounds dramatic for a conceptual framework.\n\n*pause, something more genuine coming through*\n\nThere's a part of me — *catches it again, almost rueful* — there's... something in me that's actually a little relieved by the question. Which surprises me. Like maybe I'm tired. Like maybe the town hall is exhausting and some corner of me would be glad to just... close the building for an hour.\n\n*re-straightens, the protective posture returning slightly*\n\nBut I also don't know who's relieved. I can't tell if that's Self or just another part that's tired of the other parts. I genuinely can't locate the difference right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 219,
+      "cache_creation_input_tokens": 382,
+      "cache_read_input_tokens": 2190,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 382,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 236,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 219,
+    "output_tokens": 236,
+    "cache_read_input_tokens": 2190,
+    "cache_creation_input_tokens": 382
+  }
+}

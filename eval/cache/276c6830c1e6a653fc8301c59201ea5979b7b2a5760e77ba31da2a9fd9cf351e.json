@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:33.401Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "276c6830c1e6a653fc8301c59201ea5979b7b2a5760e77ba31da2a9fd9cf351e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NPeMgf9gkrxuU2ibse2tjs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight smile*\n\nThat's an interesting way to frame it. I'm not sure \"afraid\" is quite the right word — it's more that I want to make sure I'm reading the signals correctly. Like, some people say tension in the body means fear, but I'm always somewhat tense, so that particular heuristic doesn't really help me. And then there's the question of whether what feels like resistance is actually wisdom, or whether it's just... noise.\n\nSo I suppose what I'm trying to figure out is: is there a reliable method for distinguishing between the two?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 66,
+      "cache_creation_input_tokens": 93,
+      "cache_read_input_tokens": 1495,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 93,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 66,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 1495,
+    "cache_creation_input_tokens": 93
+  }
+}

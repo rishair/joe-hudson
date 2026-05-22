@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:39.483Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5f2b419ca129c15cdcbde137d5db9f5b3f157e921af151cd566d9ec40e6a4227",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KLPFSHAz5utPjbcj8iE4cd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, small smile*\n\nYes. Fair.\n\nI suppose... I'm afraid it won't work out. That I'll get there and discover I'm not actually as capable as the offer implies. Or that I'll have left something behind that I can't name clearly enough to protect.\n\n*slight shift, voice still measured*\n\nThough I'm aware those are fairly common fears and not necessarily informative ones."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 173,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1637,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 89,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 173,
+    "output_tokens": 89,
+    "cache_read_input_tokens": 1637,
+    "cache_creation_input_tokens": 0
+  }
+}

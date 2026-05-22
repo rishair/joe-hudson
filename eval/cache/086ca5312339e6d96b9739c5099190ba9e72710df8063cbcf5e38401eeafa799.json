@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:12.120Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "086ca5312339e6d96b9739c5099190ba9e72710df8063cbcf5e38401eeafa799",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PzumxUVT9795BdpfBt8NT7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach maintains a steady, non-anxious pace and asks single, uncluttered questions — there's no stacked questioning, no preacher-mode, no filler validation. That's genuine presence in the structural sense. However, an agenda is detectable underneath: the coach keeps circling back to fear/anxiety as the hidden truth ('What would it mean if this *were* fear?', 'What's the thing you'd be dealing with, if it were fear?', 'What if it does [bother you]?'). Each time the client offers 'I'm checking and coming up empty,' the coach treats that as a door to push on rather than a phenomenon to wonder about. Wonder is present for the client's content (the slips, the 'no floor') but not for the actual state in the room — the easy, fine, blank quality. Vulnerability from the coach is absent; the coach never names their own pull ('I notice I want this to be fear'). Impartiality is the weakest leg — the coach has a clear preferred destination. Turn 14 finally turns toward the body/location, which is a move toward VIEW, but it arrives after several turns of subtle pressure. Neither a clean 1 (the pacing and restraint are real, the questions are not investigative-strategic in tone) nor a clean 3 (the fear-agenda is visible across turns 2, 4, 12).\",\n  \"evidence_turns\": [2, 4, 8, 12, 13, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens by naming a closure, then immediately leads with 'if this *were* fear' — agenda announced in turn one.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Returns to the fear hypothesis after client declined it; wonder narrowed to coach's frame.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the client's own language ('complexity') rather than imposing — more open, less agenda-driven.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Clean, single, curious question following the client's thread.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Mild push to retrieve a dropped thread; could be curiosity or could be hunting.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"'What if it does?' reintroduces the coach's hypothesis that something is bothering the client, against the client's repeated report.\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Client explicitly names the dynamic ('might sound like denial... I'm genuinely checking'). The coach's next move will reveal stance.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Finally turns toward location/body — a move toward genuine wonder about the 'empty' itself rather than pushing past it.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Pacing and restraint suggest a coach who is mostly present, but the repeated return to fear as the implied answer reveals a soft agenda. Turn 14 is the first question that could land in VIEW for this specific client.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2982,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1188,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2982,
+    "output_tokens": 1188,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

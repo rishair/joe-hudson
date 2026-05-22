@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:56.136Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6417fd330913129df238353504613102f9f1466753960fd259258856a1b79ce0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011NKzogrLVqBxF9GQ1M651v",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're asking me to confirm the difference, but I notice you don't quite sound like you believe it yourself.\n\nWhat would \"actually not being able to do it\" look like, if it were happening?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18153,
+      "cache_creation_input_tokens": 11229,
+      "cache_read_input_tokens": 23720,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11229,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18153,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 23720,
+    "cache_creation_input_tokens": 11229
+  }
+}

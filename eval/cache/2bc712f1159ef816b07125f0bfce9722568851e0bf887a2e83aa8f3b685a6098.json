@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:08.200Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2bc712f1159ef816b07125f0bfce9722568851e0bf887a2e83aa8f3b685a6098",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01S4MS2xrSvDU2MxeVYTVEao",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*holds that for a moment*\n\nI think... it would mean I'm not a good sister. Or not a good person, maybe. \n\nI'm usually the one people come to. In my family, that's just... that's my role, I guess. My sister needs more support, she always has, and I've always been the one who -- \n\n*pauses*\n\nI think if I said \"I can't do this right now,\" it would mean I was abandoning her. Which sounds dramatic when I say it out loud, but that's what it feels like underneath."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 204,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1621,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 204,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 1621,
+    "cache_creation_input_tokens": 0
+  }
+}

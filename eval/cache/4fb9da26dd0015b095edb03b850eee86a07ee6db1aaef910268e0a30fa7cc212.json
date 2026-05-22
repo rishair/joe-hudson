@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:02.586Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4fb9da26dd0015b095edb03b850eee86a07ee6db1aaef910268e0a30fa7cc212",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GNy62H5Vmg98AVcFrej8oL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "So the choice you're after — you already have it. You could stop tomorrow. What's actually in the way is that stopping feels dangerous.\n\nWhat's the feeling underneath \"exposed\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18112,
+      "cache_creation_input_tokens": 9690,
+      "cache_read_input_tokens": 11886,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9690,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18112,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 11886,
+    "cache_creation_input_tokens": 9690
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:52.587Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8ec8f204616d67dff5cf761e85d3392875501d4f992f1516159ef21f3ae5728e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011tue6vM6nKkfY1UBCnyCgg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens in you when you see her name come up on your phone?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10638,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 18,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10638,
+    "output_tokens": 18,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

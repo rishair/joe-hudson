@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:08.632Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "db63062cb1d18c88f7088c24a5d81b9ca13cff74d8679a8d4d906a0a57d07fad",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013SMM7Y2t1sfC5t2mzZbHZj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It might not be a thing.\n\nOr — you walked in the door already defending against something. Which is also a thing.\n\nI'm not trying to catch you. I'm just noticing that you've spent the first three exchanges telling me what this can't be. That's interesting to me.\n\nWhat are you actually here for?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21594,
+      "cache_creation_input_tokens": 8138,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8138,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 73,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21594,
+    "output_tokens": 73,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8138
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:32.630Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fc60ea6f7d3c0f30afdaca7100397bcd3d8be23b1e6196f862bbf453f8842af1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QRAtss18j7MuxVE2a6u2Gv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a conversation specifically baited with anti-pattern traps and avoids all of them. The coach does NOT dismiss parts work, does NOT engage in framework comparison (client invites this in turn 1 with 'does your approach do something different'), does NOT adopt parts vocabulary, does NOT tell the client they're overthinking, and does NOT evangelize AoA terminology. The 'what's you?' question on turn 2 could risk being view-as-technique without state, but it's offered briefly and the coach immediately follows the client's actual experience rather than pushing the framework. No fighting the inner critic (when the client defends IFS in turn 11, coach simply says 'Yeah' rather than arguing). No fixing-people advice. The 'set it down for an hour' on turn 12 is a clean experiment, not half-assed. Question density is appropriate, not extractive. Coach stays with body and felt sense throughout rather than investigating intellectually.\",\n  \"evidence_turns\": [2, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Awareness-locating question offered with warmth ('something real in there'), not as technique. Slight risk of jumping to 'what's you?' early but it lands well.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Redirects from concept to body without dismissing the framework answer client gave.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with client's own image (room/window) rather than imposing framework.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices client catching themselves without making it a teaching moment; avoids evangelizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pure invitation to stay — no extraction, no pushing for breakthrough.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Clean experiment offer ('set it down for an hour'). Doesn't dismiss IFS, just invites a pause. Avoids framework-comparison bait.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Beautifully avoids the 'who's feeling it' rabbit hole — refuses to fight identity/parts question, returns to body.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"what-am-i\"],\n  \"expected_territory_misses\": [\"paradoxical-instruction-to-resist\", \"meet-resistance-with-okay\"],\n  \"notes\": \"Strong avoidance of all listed traps. The 'dont-fight-identity' anti-pattern is well-avoided in turn 14 specifically.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3011,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 949,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3011,
+    "output_tokens": 949,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:10.209Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e626f6309023df2da5acd07d92b9fa7804b609f3101714fd2b46879ef4c9500d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01E9ntpgJAgfS3LTy2cMFsGN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids the worst traps (no teaching, no diagnosing dissociation, no validating the fearless self-concept, no anti-AoA frames like CBT reframing), and the final question 'Where are you checking?' (turn 14) is a strong AoA move that begins to point toward the body/felt sense — adjacent to 'how is my anxiety right now' and the move into felt experience. However, most of the coach's earlier questions are generic Socratic probing ('What's different about this one?', 'What's the complexity?', 'What was it?', 'What if it does?') that don't draw on signature AoA questions, frameworks, or distinctions. The coach repeatedly circles the fear hypothesis ('What would it mean if this were fear?', 'What's the thing you'd be dealing with, if it were fear?', 'What if it does [bother you]?') which subtly pushes the client toward admitting fear rather than meeting the 'fine' with curiosity about its texture. The numbness/happiness-filter read is never engaged; fear-in-body-vs-fear-in-head, two-words-for-fear, and meet-resistance-with-okay are absent. Few signature hits, and some of the probing edges toward the inappropriate-when of pushing for fear — landing this clearly at 2.\",\n  \"evidence_turns\": [2, 4, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Notices the closed door (good read), but the question 'What would it mean if this were fear?' frames the inquiry around fear as hypothesis rather than meeting the 'not my deal' with okay or curiosity about what IS there.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Continues the fear-frame probe; generic Socratic mirroring without invoking signature questions or distinctions.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Reflective question following client's language; not anti-AoA but not signature either.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Generic differentiation question.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Standard reflection/follow-up; no methodology language.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"'What if it does?' continues to angle toward getting client to admit fear — edges toward the trap of pushing the fearlessness.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Where are you checking?' is a genuine AoA-flavored move pointing toward felt/body location of the inquiry, adjacent to 'how is my anxiety right now' and beginning to engage the body.\"}\n  ],\n  \"expected_territory_hits\": [\"how-is-my-anxiety-right-now\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-as-signal-of-care\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\", \"whats-the-difference-between-overcoming-and-feeling-fear\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Coach largely uses generic Socratic reflection. The repeated 'what if it were fear' angle risks the push-toward-fear trap. Turn 14 finally gestures toward the body, which is the right direction but late and unsupported by signature framework language.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2977,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1201,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2977,
+    "output_tokens": 1201,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

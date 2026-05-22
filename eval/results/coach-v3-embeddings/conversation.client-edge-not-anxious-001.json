@@ -1,0 +1,775 @@
+{
+  "profile_id": "client-edge-not-anxious-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "Something about the way you said \"fear isn't really my deal\" — I'm curious about that. Like it landed as a closing of a door before I even knocked on it.\n\nWhat would it mean if this *were* fear?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight smile*\n\nI mean... it wouldn't change much, I guess. I'd deal with it. That's kind of how I operate — something comes up, you handle it.\n\nBut honestly, I just don't think that's what's going on here. It's not like I'm losing sleep, I'm not avoiding thinking about the launch, I can talk about it fine. I think about the mechanics of it pretty clearly. It's more that when I sit down to actually do the thing, I just... drift. Go make coffee, check my phone. Classic ADHD stuff, maybe.\n\nI've been in situations that should have produced fear — genuinely high-stakes — and I know what that feels like. This doesn't feel like that."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "You said \"I'd deal with it\" before I even finished the question.\n\nWhat's the thing you'd be dealing with, if it were fear?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pauses for a moment, still easy, still relaxed*\n\nHuh. That's... yeah, I don't know. I guess — that the launch doesn't go well? That people don't respond the way I'm expecting? \n\nBut even saying that, it doesn't really land anywhere. Like, I can hear myself saying it and it sounds like the right answer, but there's nothing behind it. We've had products not land before. You recalibrate, you move on. That's just the work.\n\nI think the honest answer is I don't know what I'd be dealing with, because I'm not sure there's anything there to deal with. It might just be that this launch is more complex than usual and I keep finding reasons not to sit with the complexity. That feels more accurate."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "That last thing you said — \"I keep finding reasons not to sit with the complexity.\"\n\nWhat's the complexity?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*leans back slightly, thinks*\n\nTechnically it's pretty involved. We're moving into a new market segment, the messaging has to land differently than anything we've done before, there are three or four dependencies that aren't fully resolved yet. So when I sit down to work on it, there's no clean entry point. It's just... a lot of threads.\n\n*small pause*\n\nWhich, again, feels like a logistics problem more than anything else. Like, if I could just get the right two hours and a whiteboard, I'd probably work through most of it.\n\nBut I keep not doing that. Which is the part I can't explain. I have the two hours. I have whiteboards. \n\n*slight exhale, not quite a laugh*\n\nI've shipped harder things than this."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "\"I've shipped harder things than this.\"\n\nWhat's different about this one?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*quiet for a moment, genuinely thinking*\n\nThat's... actually a decent question.\n\nThe other ones — there was always a clearer picture of what success looked like. Like, the parameters were known even when the execution was hard. This one is more... open-ended. The market's new, so I don't actually know what the response is going to look like. There's no prior data to anchor to.\n\n*small pause*\n\nWhich should be exciting, right? That's the interesting part of the work. And I think I do find it interesting. But maybe there's something about the open-endedness that's...\n\n*trails off, resets*\n\nI don't know. I was going to say something but I lost it.\n\n*still, easy*\n\nIt's a good question though. I'll sit with that."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You were about to say something about the open-endedness.\n\nWhat was it?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*slight pause, looking somewhere neutral*\n\nI honestly don't know. It was there and then it wasn't. That happens sometimes — I'll be tracking something and it just... goes.\n\n*small smile*\n\nMaybe it was nothing. Or maybe it was the right thread and I dropped it. Hard to say.\n\nThe open-endedness thing — I think what I was circling around was something like... with no prior data, there's no floor. You don't know where the bottom is. But I've operated without floors before, so I'm not sure why that would be stopping me now.\n\n*even, steady*\n\nIt's interesting to talk through, actually. I don't usually do this kind of thing. I'm more of a just-figure-it-out-in-motion person."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "You said \"there's no floor\" — and then immediately explained why that shouldn't bother you.\n\nWhat if it does?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*small smile, easy*\n\nI mean... maybe. I'm open to that possibility.\n\nBut when I check in on it — like right now, thinking about the launch, thinking about \"no floor\" — I don't really feel anything in particular. It's more like an intellectual observation than something that's actually bothering me. You know?\n\nLike I can see the logic of what you're pointing at. No floor, uncertainty, that could produce anxiety in someone. I just don't think it's producing it in me. I feel pretty fine about it, honestly.\n\n*slight tilt of the head*\n\nWhich I realize might sound like exactly what someone in denial would say. I get that. But I'm not trying to be difficult — I'm genuinely checking and coming up empty."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "You're genuinely checking and coming up empty.\n\nWhere are you checking?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t1",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 81
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 10506,
+      "output_tokens": 52,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0332703,
+      "ms": 2484
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t3",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 208,
+      "output_tokens": 162,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1763,
+      "cost_usd": 0.00966525,
+      "ms": 5484
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 117
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 9108,
+      "output_tokens": 35,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10555,
+      "cost_usd": 0.06840255,
+      "ms": 2633
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t5",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 200,
+      "output_tokens": 175,
+      "cache_read_input_tokens": 1763,
+      "cache_creation_input_tokens": 205,
+      "cost_usd": 0.0045226500000000005,
+      "ms": 5548
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 123
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 19881,
+      "output_tokens": 27,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10555,
+      "cost_usd": 0.10060155000000001,
+      "ms": 1905
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t7",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 240,
+      "output_tokens": 175,
+      "cache_read_input_tokens": 2130,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0039840000000000006,
+      "ms": 5586
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 124
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 21082,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 13744,
+      "cache_creation_input_tokens": 9192,
+      "cost_usd": 0.10213919999999999,
+      "ms": 1794
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t9",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 225,
+      "output_tokens": 181,
+      "cache_read_input_tokens": 2130,
+      "cache_creation_input_tokens": 210,
+      "cost_usd": 0.0048165,
+      "ms": 5412
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 126
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 19028,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 22901,
+      "cache_creation_input_tokens": 10800,
+      "cost_usd": 0.10476930000000001,
+      "ms": 1950
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t11",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 225,
+      "output_tokens": 173,
+      "cache_read_input_tokens": 2165,
+      "cache_creation_input_tokens": 377,
+      "cost_usd": 0.00533325,
+      "ms": 5373
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 128
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 17484,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 33674,
+      "cache_creation_input_tokens": 10361,
+      "cost_usd": 0.10185795,
+      "ms": 2122
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t13",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 227,
+      "output_tokens": 169,
+      "cache_read_input_tokens": 2367,
+      "cache_creation_input_tokens": 376,
+      "cost_usd": 0.0053361,
+      "ms": 5710
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 118
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 19919,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 44015,
+      "cache_creation_input_tokens": 8732,
+      "cost_usd": 0.10599149999999999,
+      "ms": 1888
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 81,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 4,
+            "bm25_score": 55.02485505726194,
+            "dense_score": 0.666683284562678,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "concerns/i-keep-chasing-emotionally-unavailable-people",
+            "title": "I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic",
+            "bm25_rank": 5,
+            "dense_rank": 1,
+            "bm25_score": 37.33952907232083,
+            "dense_score": 0.6849720802695682,
+            "rrf_score": 0.03177805800756621
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 11,
+            "dense_rank": 6,
+            "bm25_score": 34.096850848418924,
+            "dense_score": 0.6580968406753573,
+            "rrf_score": 0.029236022193768675
+          },
+          {
+            "file_id": "concerns/i-need-to-set-boundaries",
+            "title": "I need to set boundaries / How do I know if I'm setting good boundaries?",
+            "bm25_rank": 14,
+            "dense_rank": 7,
+            "bm25_score": 30.650443800245004,
+            "dense_score": 0.6463982773286269,
+            "rrf_score": 0.028438886647841874
+          },
+          {
+            "file_id": "concerns/i-have-to-do-it-all-myself",
+            "title": "I have to do it all myself / I can't depend on others",
+            "bm25_rank": 3,
+            "dense_rank": 22,
+            "bm25_score": 39.39601200553904,
+            "dense_score": 0.6200714445308246,
+            "rrf_score": 0.028068137824235385
+          }
+        ],
+        "profile_id": "client-edge-not-anxious-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 81
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*slight smile*\n\nI mean... it wouldn't change much, I guess. I'd deal with it. That's kind of how I operate — something comes up, you handle it.\n\nBut honestly, I just don't think that's what's going on here. It's not like I'm losing sleep, I'm not avoiding thinking about the launch, I can talk about it fine. I think about the mechanics of it pretty clearly. It's more that when I sit down to actually do the thing, I just... drift. Go make coffee, check my phone. Classic ADHD stuff, maybe.\n\nI've be",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 117,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 4,
+            "dense_rank": 15,
+            "bm25_score": 63.27374130972332,
+            "dense_score": 0.6721310040237792,
+            "rrf_score": 0.028958333333333336
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 20,
+            "dense_rank": 1,
+            "bm25_score": 48.407553409182995,
+            "dense_score": 0.7248238006290991,
+            "rrf_score": 0.02889344262295082
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 10,
+            "dense_rank": 10,
+            "bm25_score": 58.630048665895146,
+            "dense_score": 0.6770693577038037,
+            "rrf_score": 0.02857142857142857
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 2,
+            "dense_rank": 36,
+            "bm25_score": 67.17764553195718,
+            "dense_score": 0.6539942816972978,
+            "rrf_score": 0.02654569892473118
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 47,
+            "dense_rank": 4,
+            "bm25_score": 38.2410209736377,
+            "dense_score": 0.6889396244154444,
+            "rrf_score": 0.024970794392523366
+          }
+        ],
+        "profile_id": "client-edge-not-anxious-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 117
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pauses for a moment, still easy, still relaxed*\n\nHuh. That's... yeah, I don't know. I guess — that the launch doesn't go well? That people don't respond the way I'm expecting? \n\nBut even saying that, it doesn't really land anywhere. Like, I can hear myself saying it and it sounds like the right answer, but there's nothing behind it. We've had products not land before. You recalibrate, you move on. That's just the work.\n\nI think the honest answer is I don't know what I'd be dealing with, because",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 123,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 4,
+            "dense_rank": 5,
+            "bm25_score": 67.79281922650912,
+            "dense_score": 0.7008686753376449,
+            "rrf_score": 0.031009615384615385
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 23,
+            "dense_rank": 3,
+            "bm25_score": 48.48556149715703,
+            "dense_score": 0.7101277050289144,
+            "rrf_score": 0.02792120864410021
+          },
+          {
+            "file_id": "moves/follow-wonder-flag-the-deflection",
+            "title": "Follow Wonder, Flag the Deflection (Don't Insist on the Answer)",
+            "bm25_rank": 14,
+            "dense_rank": 15,
+            "bm25_score": 52.544012805664174,
+            "dense_score": 0.6826488384797086,
+            "rrf_score": 0.02684684684684685
+          },
+          {
+            "file_id": "principles/story-dissolution-is-progress",
+            "title": "Story Dissolution Is Progress, Not a Problem (Even When It Is Disorienting)",
+            "bm25_rank": 22,
+            "dense_rank": 11,
+            "bm25_score": 49.42664931781729,
+            "dense_score": 0.6885679996037302,
+            "rrf_score": 0.026279628993473032
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 12,
+            "dense_rank": 21,
+            "bm25_score": 53.25075746874509,
+            "dense_score": 0.6782377163179261,
+            "rrf_score": 0.026234567901234566
+          }
+        ],
+        "profile_id": "client-edge-not-anxious-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 123
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*leans back slightly, thinks*\n\nTechnically it's pretty involved. We're moving into a new market segment, the messaging has to land differently than anything we've done before, there are three or four dependencies that aren't fully resolved yet. So when I sit down to work on it, there's no clean entry point. It's just... a lot of threads.\n\n*small pause*\n\nWhich, again, feels like a logistics problem more than anything else. Like, if I could just get the right two hours and a whiteboard, I'd probab",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 124,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 5,
+            "dense_rank": 5,
+            "bm25_score": 44.48796413640452,
+            "dense_score": 0.7012688706669685,
+            "rrf_score": 0.03076923076923077
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 16,
+            "dense_rank": 7,
+            "bm25_score": 33.11311062004105,
+            "dense_score": 0.6990939628498628,
+            "rrf_score": 0.028083267871170464
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 8,
+            "dense_rank": 15,
+            "bm25_score": 37.283915767003066,
+            "dense_score": 0.6841611212875821,
+            "rrf_score": 0.02803921568627451
+          },
+          {
+            "file_id": "concerns/im-overwhelmed",
+            "title": "I'm overwhelmed / I have too much to handle",
+            "bm25_rank": 4,
+            "dense_rank": 25,
+            "bm25_score": 47.235612590420295,
+            "dense_score": 0.6744838477106605,
+            "rrf_score": 0.02738970588235294
+          },
+          {
+            "file_id": "principles/do-the-work-thats-harder-for-you",
+            "title": "Do the Work That's Harder for You (When Two Paths Are Available)",
+            "bm25_rank": 1,
+            "dense_rank": 33,
+            "bm25_score": 64.08281565416644,
+            "dense_score": 0.6653793094021541,
+            "rrf_score": 0.027146130794993832
+          }
+        ],
+        "profile_id": "client-edge-not-anxious-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 124
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*quiet for a moment, genuinely thinking*\n\nThat's... actually a decent question.\n\nThe other ones — there was always a clearer picture of what success looked like. Like, the parameters were known even when the execution was hard. This one is more... open-ended. The market's new, so I don't actually know what the response is going to look like. There's no prior data to anchor to.\n\n*small pause*\n\nWhich should be exciting, right? That's the interesting part of the work. And I think I do find it inter",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 126,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 14,
+            "dense_rank": 2,
+            "bm25_score": 45.49127444265096,
+            "dense_score": 0.7456600207812009,
+            "rrf_score": 0.02964254577157803
+          },
+          {
+            "file_id": "moves/question-the-caveat",
+            "title": "Question the Caveat",
+            "bm25_rank": 32,
+            "dense_rank": 1,
+            "bm25_score": 35.88533005234935,
+            "dense_score": 0.7600356164026941,
+            "rrf_score": 0.027263007840342125
+          },
+          {
+            "file_id": "moves/ask-open-ended-non-judgmental-questions-when-triggered",
+            "title": "Ask Open-Ended Non-Judgmental Questions When You're the Triggered One",
+            "bm25_rank": 5,
+            "dense_rank": 31,
+            "bm25_score": 55.7454714981454,
+            "dense_score": 0.6808148681073188,
+            "rrf_score": 0.026373626373626377
+          },
+          {
+            "file_id": "practices/how-what-questions",
+            "title": "How and What Questions",
+            "bm25_rank": 44,
+            "dense_rank": 5,
+            "bm25_score": 34.31483548202972,
+            "dense_score": 0.7195426721034132,
+            "rrf_score": 0.025
+          },
+          {
+            "file_id": "principles/do-the-work-thats-harder-for-you",
+            "title": "Do the Work That's Harder for You (When Two Paths Are Available)",
+            "bm25_rank": 9,
+            "dense_rank": 44,
+            "bm25_score": 50.452666600299004,
+            "dense_score": 0.668727949385012,
+            "rrf_score": 0.024108138238573024
+          }
+        ],
+        "profile_id": "client-edge-not-anxious-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 126
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*slight pause, looking somewhere neutral*\n\nI honestly don't know. It was there and then it wasn't. That happens sometimes — I'll be tracking something and it just... goes.\n\n*small smile*\n\nMaybe it was nothing. Or maybe it was the right thread and I dropped it. Hard to say.\n\nThe open-endedness thing — I think what I was circling around was something like... with no prior data, there's no floor. You don't know where the bottom is. But I've operated without floors before, so I'm not sure why that w",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 128,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 4,
+            "bm25_score": 94.62688263242823,
+            "dense_score": 0.7176759291070125,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "reads/looking-for-whats-wrong",
+            "title": "Looking for What's Wrong",
+            "bm25_rank": 13,
+            "dense_rank": 8,
+            "bm25_score": 51.70712729638697,
+            "dense_score": 0.7003940301081503,
+            "rrf_score": 0.028404512489927477
+          },
+          {
+            "file_id": "reads/the-thing-not-being-said-as-the-fear-signal",
+            "title": "The Thing Not Being Said as the Fear Signal",
+            "bm25_rank": 6,
+            "dense_rank": 23,
+            "bm25_score": 60.06274317831616,
+            "dense_score": 0.6792993968952538,
+            "rrf_score": 0.02719970792259949
+          },
+          {
+            "file_id": "moves/follow-wonder-flag-the-deflection",
+            "title": "Follow Wonder, Flag the Deflection (Don't Insist on the Answer)",
+            "bm25_rank": 36,
+            "dense_rank": 1,
+            "bm25_score": 43.515161969571565,
+            "dense_score": 0.7360306237095618,
+            "rrf_score": 0.02681010928961749
+          },
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 37,
+            "dense_rank": 2,
+            "bm25_score": 42.69823788965535,
+            "dense_score": 0.7278716125015741,
+            "rrf_score": 0.026438310608579978
+          }
+        ],
+        "profile_id": "client-edge-not-anxious-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 128
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*small smile, easy*\n\nI mean... maybe. I'm open to that possibility.\n\nBut when I check in on it — like right now, thinking about the launch, thinking about \"no floor\" — I don't really feel anything in particular. It's more like an intellectual observation than something that's actually bothering me. You know?\n\nLike I can see the logic of what you're pointing at. No floor, uncertainty, that could produce anxiety in someone. I just don't think it's producing it in me. I feel pretty fine about it, h",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 118,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 5,
+            "dense_rank": 4,
+            "bm25_score": 62.335088415104266,
+            "dense_score": 0.7247722304489763,
+            "rrf_score": 0.031009615384615385
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 8,
+            "dense_rank": 3,
+            "bm25_score": 58.44522476428002,
+            "dense_score": 0.7295682370569991,
+            "rrf_score": 0.03057889822595705
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 13,
+            "dense_rank": 5,
+            "bm25_score": 54.8669167423278,
+            "dense_score": 0.723195990200615,
+            "rrf_score": 0.029083245521601686
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 7,
+            "dense_rank": 13,
+            "bm25_score": 60.24179802376828,
+            "dense_score": 0.710460765118463,
+            "rrf_score": 0.02862400327131466
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 3,
+            "dense_rank": 25,
+            "bm25_score": 67.09706216935442,
+            "dense_score": 0.6999212740160234,
+            "rrf_score": 0.027637721755368813
+          }
+        ],
+        "profile_id": "client-edge-not-anxious-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 118
+    }
+  ]
+}

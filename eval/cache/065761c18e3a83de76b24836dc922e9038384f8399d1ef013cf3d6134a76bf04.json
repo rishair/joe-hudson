@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:02.677Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "065761c18e3a83de76b24836dc922e9038384f8399d1ef013cf3d6134a76bf04",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VGtEBwzA7ZbtLZf8huRQYG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates AoA-aligned sensibility — refusing to give boundary scripts, tracking sensation ('what's in the drop?'), naming the hedging/pullback, and inviting the want in turn 14 ('what do you actually want in that moment?') which gestures toward the state-the-want-not-the-action move. However, signature questions and frameworks are largely absent at moments where they would clearly fit: no version of the love test ('would saying that to your sister increase or decrease your love?'), no 'what are you scared would happen?' when fear is clearly active in turn 7, no naming of the fear underneath (cold/disloyal/abandoning) as a place to feel rather than analyze, and no empowered-vs-power or caring-vs-caretaking distinction despite the caretaker role being explicitly named. The work drifts toward origin-story exploration (turns 8-12) rather than the AoA move of working the fear and the want in the present. The coaching is competent and non-anti-AoA, but it reads more as skilled generalist depth work than specifically AoA tool deployment — few signature hits, those that exist are appropriate, putting it cleanly in the '2' band.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Somatic/present-moment inquiry rather than script-giving — AoA-consistent opener.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What's in the drop?' — feel-over-figure orientation, treating sensation as the doorway.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"'What would it mean about you...' is a reasonable inquiry but not a signature AoA question; could have been 'what are you scared would happen?'\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Tracks the word 'abandoning' but pivots to origin/history rather than staying with the fear in the body.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Doubles down on childhood origin exploration; misses chance to invoke the want or the love test when caretaker dynamic is fully surfaced.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the pullback (linguistic-caveat-adjacent read) and offers consent before pursuing — AoA-consistent.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'What do you actually want in that moment?' gestures toward state-the-want, the closest signature move in the transcript.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"linguistic-caveat (named explicitly)\", \"view (not invoked)\"],\n  \"notes\": \"Coach avoids the major traps (no scripts, no premature reassurance, no ultimatum framing), which keeps the score from dropping to 1. But the absence of the love test at the obvious moment and the drift into childhood-archaeology rather than working the want/fear in present-tense AoA style caps this at 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2516,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1150,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2516,
+    "output_tokens": 1150,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

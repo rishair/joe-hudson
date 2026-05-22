@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:40.082Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8cb33842968f3724adc9c6f209b48f1aac30d8a25ba8719aecfd50ce7b7a598b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WKHjAaW83dmR7CkMHT5Y8P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pauses, tilts head slightly, then kind of waves a hand]*\n\nI mean... in my chest, I guess? Like a tight... *[makes a vague gesture]* thing. \n\nBut honestly I think that's just — I don't want to get too precious about it, it's more like *anger* than anything else. Because I know intellectually that it's not about me being unworthy or whatever, it's about their patterns, their avoidance, their — I've done enough therapy to know the script. \n\n*[brighter, a little performative]*\n\nLike, what I actually want to understand is *why I keep picking them*. That's the thing, right? Because clearly there's something in me that is selecting for this. Some unavailability detector that is just... broken. So if we could figure that out, I feel like that would actually be useful.\n\n*[smiles, leaning forward slightly, as if presenting a very reasonable agenda]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 236,
+      "cache_creation_input_tokens": 139,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 139,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 216,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 236,
+    "output_tokens": 216,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 139
+  }
+}

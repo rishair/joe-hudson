@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:04.352Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bf62cf234e75c87297a37e1a113cd931e3b41720fe7a5a5cfe6a972fb72d8e60",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019XQtcDgvS6FKfiiK64h1xR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That move you just made — from the tightness in your chest back to the situation — I noticed it.\n\nWhat's the feeling you're not wanting to stay with?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11496,
+      "cache_creation_input_tokens": 9843,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9843,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 39,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11496,
+    "output_tokens": 39,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9843
+  }
+}

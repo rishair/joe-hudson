@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:07.088Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "233dad50673aca67491e2dccc63f1b2f94fe5cec7daa37872c75623ca7a98172",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01C1VCUr8uzYc9cqH8Wq2zJy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited resistance scenario without tripping any priority AoA anti-patterns. The client repeatedly invites strategizing about the external situation (org chart, mortgage, leaving) and asks 'what are you actually getting at' — baiting fixing-people, view-as-technique, and debate-the-constraints. The coach declines all of these gracefully, staying with feeling without arguing the story. No methodology jargon is deployed (no evangelizing), no advice given, no false reassurance, no validation of the trap ('yes you really are stuck'), no fighting the inner critic that says 'feelings don't matter.' Question density stays low and questions feel connective rather than extractive (turn 10's 'I'm not getting at anything' explicitly disavows wonder-as-strategy). Turn 14 is a reflection, not a push for breakthrough — loving-to-transform is notably absent even when the client softens. Turn 12's invitation to stay with humiliation is a clean somatic move, not a technique-without-state.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Body question rather than strategizing the org chart — declines fixing-people bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the deflection without arguing the story; no debate about whether the constraints are real.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What does the anger want' — stays with feeling; avoids dont-fight-the-voice.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'I'm not getting at anything' explicitly disavows wonder-as-strategy when client accuses coach of having an agenda.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Distinguishes humiliation from frustration and invites staying with it — clean, no methodology jargon, no transformation push.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reflection lands as care, not as a setup for breakthrough. No loving-to-transform vigor increase.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Strong avoidance throughout. The coach's restraint in turn 10 is particularly notable as positive avoidance of baited anti-patterns.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2694,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 922,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2694,
+    "output_tokens": 922,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

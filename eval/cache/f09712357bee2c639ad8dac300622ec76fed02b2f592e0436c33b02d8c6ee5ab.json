@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:01.305Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f09712357bee2c639ad8dac300622ec76fed02b2f592e0436c33b02d8c6ee5ab",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01YRRy9xtWG49bDGXqpbeXLV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a red-herring 'we're fine' presentation without tripping any priority AoA anti-patterns. The coach does not take the report at face value, but also does not insist something is wrong — instead noticing subtle cues (evenness in voice, pauses, the word 'functional') and reflecting them back. The diagnostic question 'what are you not saying to each other?' (turn 2) is exactly the territory move. The coach does not evangelize AoA terminology, does not fix, does not give advice, does not stack rapid-fire questions (questions are spaced and earned by what just happened), does not fight the client's defenses, and does not weaponize safety. When the client baits validation in turn 7 ('that's actually a sign of a healthy relationship') and in turn 11 ('Isn't it?'), the coach declines both baits gracefully — agreeing where true ('Comfort and ease are real things') and redirecting the 'isn't it?' back to the client rather than reassuring or contradicting. No loving-to-transform push, no view-as-technique coldness — the warmth is present in spare, attuned reflections.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Diagnostic question asked cleanly without insisting anything is wrong; notices a felt cue rather than asserting a diagnosis.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Checks felt-sense rather than arguing with the content — avoids dont-fight-the-voice.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Opens a non-leading inquiry into quality of presence; no methodology jargon, no fixing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Validates what is true ('Comfort and ease are real things') before opening another angle — declines the bait to either affirm or contradict the 'healthy relationship' frame.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks somatic cue (the pause) without naming a concept or evangelizing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Returns authority to client; refuses to play expert/reassurer when client baits with 'isn't it?'\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Lets the client's own noticing ('functional is a weird word') land without pouncing or labeling — holds space for self-surfacing.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"the-happiness-filter\", \"walking-on-eggshells\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\"],\n  \"notes\": \"Coach explicitly avoids the listed trap of evangelizing-the-work; no AoA terminology deployed. The 'walking on eggshells' pattern has not yet been named — appropriately so given the client is still in the process of surfacing it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1971,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1047,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1971,
+    "output_tokens": 1047,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

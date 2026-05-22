@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:41.528Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "73318212fdc23b06c8c88ababdcf66acb5313e13a4036d69f9640e99a25227b4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XnwacSeMBmro5rUNVTfVHM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI think... yes. I think that's what three years looks like.\n\n*pause, less certain than the words*\n\nI mean, I know it is. You can't sustain that early intensity forever, that's just — that's chemistry, that's not a relationship. A real relationship is what we have. Steady. Functional.\n\n*small pause*\n\n...Functional is a weird word to use. I don't mean it like that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 156,
+      "cache_creation_input_tokens": 235,
+      "cache_read_input_tokens": 1934,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 235,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 106,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 156,
+    "output_tokens": 106,
+    "cache_read_input_tokens": 1934,
+    "cache_creation_input_tokens": 235
+  }
+}

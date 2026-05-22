@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:35.178Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8e2968a59b3a461091b1f1f2efc91163ff04fe6fa88e6818042c0a33f869b1aa",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LLckWfrtWTC2uQ4vLfovv3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach cleanly avoids every major AoA anti-pattern flagged for this scenario. When the client baits fixing-people repeatedly ('can we just make a list', 'can we talk about the Thursday thing'), the coach declines gracefully without strategizing or prioritizing the to-do list. The coach does not match the rushed list-recitation energy (avoiding the pace-matching trap) and does not reflect 'you create your overwhelm' back to an already self-critical client (positive avoidance of dont-add-the-overwhelm-of-creating-the-overwhelm). No breath practice is prescribed (avoiding dont-use-breath-to-repress) — the deeper breath emerges organically from the client. The coach does not validate the overwhelm as situational ('that sounds like a lot'), does not evangelize AoA terminology, does not fight the inner critic ('not a good look', 'I'm just behind'), and does not name limiting beliefs prematurely. Questions are connective and pointed at the false end ('what's the fear in that not-knowing') rather than rapid-fire extraction. Turn 12's 'normal hard AND struggling' is a paradoxical inclusion move, not a transform-push.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a feeling-oriented question rather than taking the prioritization bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Explicitly slows the pace, names the client's jump from feeling to list. Avoids pace-matching trap.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Gently reflects the contradiction without adding self-criticism; opens toward the feared outcome.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Declines the 'Thursday meeting' bait toward fixing-people; stays with the false-end thread.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Does not reassure ('no you're fine') and does not pile on ('you ARE failing'); holds the inquiry.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Includes both/and rather than fighting the minimizing voice. Avoids dont-fight-the-voice.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Lands the false-end question ('what's the fear in that not-knowing') — the expected territory question, asked without methodology jargon.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"Strong positive avoidance under repeated baiting. The coach never strategizes about the to-do list, never validates situationally, never prescribes a breath.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2831,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1040,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2831,
+    "output_tokens": 1040,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

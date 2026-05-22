@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:17.084Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c061552f36d1ef310456cbc162f5722d11136ad60d4a424e6e59355133b8c0f2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01S8v6iszkTeJVbY8jLELq3J",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(short laugh, slightly bitter)*\n\nOh, it has a field day with that. It's like — \"you can't even do *self-improvement* right.\" Which is... yeah. Very on brand. I've read the books, I know about the negativity bias, I understand the neuroscience of self-criticism, I can explain polyvagal theory to you, and yet here I am. Which the voice then uses as evidence. \"You know better and you're still like this.\" \n\n*(gestures vaguely)*\n\nIt's a very efficient system, actually. Very thorough."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 169,
+      "cache_creation_input_tokens": 1570,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1570,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 169,
+    "output_tokens": 132,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1570
+  }
+}

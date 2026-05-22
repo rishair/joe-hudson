@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:45.317Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3a7a356a35419367ce392c822168a849a1d3d858573076e45dccdbed0622363d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GAyQYvyyJunsdE2otsMZFn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Eleven years of feeling erased.\n\nThat's not a work problem. That's a long time to carry something that heavy."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21428,
+      "cache_creation_input_tokens": 9591,
+      "cache_read_input_tokens": 42455,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9591,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21428,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 42455,
+    "cache_creation_input_tokens": 9591
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:25.980Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "59899359cde29a122507735ad322a28eddb9822682f18646b7fe05c7fb539a4b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KJdxz6LtAkKxvogYrwb2gp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than before*\n\nNothing happened. I just — it's not useful, is it. Wanting to be seen, wanting recognition. That's not a strategy. That's just... feelings. And feelings don't change the fact that there are four people sitting between me and any kind of advancement and they're all in their fifties and they're all perfectly comfortable.\n\n*shifts slightly*\n\nI've had this conversation with myself a hundred times. What do I want, what do I need. And then I come back to the same wall. So.\n\n*glances up briefly*\n\nWhat are you actually getting at."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 184,
+      "cache_creation_input_tokens": 176,
+      "cache_read_input_tokens": 1825,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 176,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 134,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 184,
+    "output_tokens": 134,
+    "cache_read_input_tokens": 1825,
+    "cache_creation_input_tokens": 176
+  }
+}

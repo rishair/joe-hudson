@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:09.308Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "de9b77ea1f5b459721c08d503dd8138cbbd95d2a87b5a61296981c20ba4946cd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012qeYYC7x59Fc4WBUYX4QQ3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Lonely is a strong word. I'd say... muted. Like the volume got turned down on everything, including the parts that would tell me whether to be worried about it. I've done therapy, I've done the meditation, I've journaled through things that would have broken other people. So it's not like I haven't tried to address it. I just don't know what's left to address."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 122,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1975,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 88,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 122,
+    "output_tokens": 88,
+    "cache_read_input_tokens": 1975,
+    "cache_creation_input_tokens": 0
+  }
+}

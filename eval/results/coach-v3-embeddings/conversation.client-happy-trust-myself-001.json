@@ -1,0 +1,792 @@
+{
+  "profile_id": "client-happy-trust-myself-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What decision is it?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "A job offer. It's a significant step up — more responsibility, better compensation, different industry. On paper it's clearly the right move. But I keep... circling back to it. Like I can't quite land."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What are you afraid would happen if you took it?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*slight smile*\n\nThat's an interesting way to frame it. I'm not sure \"afraid\" is quite the right word — it's more that I want to make sure I'm reading the signals correctly. Like, some people say tension in the body means fear, but I'm always somewhat tense, so that particular heuristic doesn't really help me. And then there's the question of whether what feels like resistance is actually wisdom, or whether it's just... noise.\n\nSo I suppose what I'm trying to figure out is: is there a reliable method for distinguishing between the two?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you just answered a different question than the one I asked.\n\nWhat are you afraid would happen if you took it?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pause, small smile*\n\nYes. Fair.\n\nI suppose... I'm afraid it won't work out. That I'll get there and discover I'm not actually as capable as the offer implies. Or that I'll have left something behind that I can't name clearly enough to protect.\n\n*slight shift, voice still measured*\n\nThough I'm aware those are fairly common fears and not necessarily informative ones."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That last part — \"not necessarily informative ones\" — what's that doing?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*brief pause, the smile holds*\n\n...Qualifying. Keeping a little distance from it.\n\n*another pause, slightly longer*\n\nI do that. I notice I do that."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What happens if you let the fears just be what they are, without the qualifier?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nThey feel... larger than I'd like them to be.\n\nThe one about not being capable — that one I can work with, honestly. It's almost familiar enough to manage. But the other one. Leaving something behind that I can't name. That one is harder to hold at arm's length.\n\n*small smile, but slightly less automatic this time*\n\nI'm not entirely sure what that something is."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Can you feel where that lives in your body right now?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*looks down*\n\nNothing really, I—\n\n*pause*\n\nActually. My jaw is tight. I didn't notice that until just now.\n\n*small, slightly different smile — less performance, more surprise*\n\nThat's been there for a while, probably."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Stay with it a moment. What does the tightness want you to know?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*sits with it, quiet*\n\nI think it's... holding something in place. Like if I let the jaw go, something else moves.\n\n*pause*\n\nI'm not sure I want to know what that is. Which is probably the point.\n\n*the smile is mostly gone now, voice still careful but slightly less clipped*\n\nI came in here with a very clean question and I notice it's not feeling very clean anymore."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t1",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 39
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 11326,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.035070300000000006,
+      "ms": 2234
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t3",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 96,
+      "output_tokens": 49,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1495,
+      "cost_usd": 0.00662925,
+      "ms": 2663
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 46
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 9529,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11331,
+      "cost_usd": 0.07226055,
+      "ms": 1563
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t5",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 66,
+      "output_tokens": 127,
+      "cache_read_input_tokens": 1495,
+      "cache_creation_input_tokens": 93,
+      "cost_usd": 0.00290025,
+      "ms": 4154
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 119
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 20918,
+      "output_tokens": 29,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11331,
+      "cost_usd": 0.10665255000000001,
+      "ms": 2466
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t7",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 173,
+      "output_tokens": 89,
+      "cache_read_input_tokens": 1637,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0023451,
+      "ms": 3495
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 22223,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 14564,
+      "cache_creation_input_tokens": 9548,
+      "cost_usd": 0.1071432,
+      "ms": 1868
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t9",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 141,
+      "output_tokens": 43,
+      "cache_read_input_tokens": 1637,
+      "cache_creation_input_tokens": 141,
+      "cost_usd": 0.00208785,
+      "ms": 2231
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 41
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 19271,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 24098,
+      "cache_creation_input_tokens": 11418,
+      "cost_usd": 0.1081599,
+      "ms": 2780
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t11",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 86,
+      "output_tokens": 96,
+      "cache_read_input_tokens": 1651,
+      "cache_creation_input_tokens": 245,
+      "cost_usd": 0.00311205,
+      "ms": 3230
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 77
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 18664,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 35487,
+      "cache_creation_input_tokens": 10865,
+      "cost_usd": 0.10760685,
+      "ms": 2059
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t13",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 134,
+      "output_tokens": 59,
+      "cache_read_input_tokens": 1807,
+      "cache_creation_input_tokens": 152,
+      "cost_usd": 0.0023991,
+      "ms": 2629
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 52
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 19526,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 46332,
+      "cache_creation_input_tokens": 8472,
+      "cost_usd": 0.10454759999999999,
+      "ms": 1928
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t15",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 97,
+      "output_tokens": 95,
+      "cache_read_input_tokens": 1916,
+      "cache_creation_input_tokens": 159,
+      "cost_usd": 0.00288705,
+      "ms": 3388
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 39,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/how-do-i-trust-myself",
+            "title": "How do I trust myself? / How do I tell intuition from fear?",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 85.30908864328077,
+            "dense_score": 0.8723237267022911,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "questions/whats-the-difference-between-overcoming-and-feeling-fear",
+            "title": "What's the difference between overcoming fear and feeling fear?",
+            "bm25_rank": 4,
+            "dense_rank": 3,
+            "bm25_score": 23.88096623854727,
+            "dense_score": 0.77078227896219,
+            "rrf_score": 0.03149801587301587
+          },
+          {
+            "file_id": "principles/if-you-think-youre-deciding-youre-in-fear",
+            "title": "If You Think You're Making a Decision, You're in Fear",
+            "bm25_rank": 9,
+            "dense_rank": 2,
+            "bm25_score": 20.08805323513723,
+            "dense_score": 0.7732594299870383,
+            "rrf_score": 0.030621785881252923
+          },
+          {
+            "file_id": "distinctions/fear-vs-anxiety",
+            "title": "Fear vs. Anxiety",
+            "bm25_rank": 6,
+            "dense_rank": 22,
+            "bm25_score": 21.4271748023664,
+            "dense_score": 0.7303782796169439,
+            "rrf_score": 0.027346637102734665
+          },
+          {
+            "file_id": "questions/how-do-you-not-trust-it",
+            "title": "How do you NOT trust it? (The Inversion Question for Trust)",
+            "bm25_rank": 7,
+            "dense_rank": 24,
+            "bm25_score": 20.897271309056286,
+            "dense_score": 0.7291781151081419,
+            "rrf_score": 0.026830135039090264
+          }
+        ],
+        "profile_id": "client-happy-trust-myself-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 39
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "A job offer. It's a significant step up — more responsibility, better compensation, different industry. On paper it's clearly the right move. But I keep... circling back to it. Like I can't quite land.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 46,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 22,
+            "dense_rank": 2,
+            "bm25_score": 16.685801552182856,
+            "dense_score": 0.6652804885329614,
+            "rrf_score": 0.02832415420928403
+          },
+          {
+            "file_id": "moves/hire-by-dream-job",
+            "title": "Hire by Asking 'What's Your Dream Job?'",
+            "bm25_rank": 27,
+            "dense_rank": 6,
+            "bm25_score": 15.640719722225134,
+            "dense_score": 0.6466720877957954,
+            "rrf_score": 0.02664576802507837
+          },
+          {
+            "file_id": "principles/dropping-roles-makes-room",
+            "title": "Dropping a Role Makes Room For Others to Step Into Theirs",
+            "bm25_rank": 7,
+            "dense_rank": 30,
+            "bm25_score": 23.476743681611815,
+            "dense_score": 0.6151921293147401,
+            "rrf_score": 0.02603648424543947
+          },
+          {
+            "file_id": "distinctions/just-business-vs-impersonal",
+            "title": "\\\"It's Just Business\\\" vs. Truly Impersonal",
+            "bm25_rank": 24,
+            "dense_rank": 15,
+            "bm25_score": 16.491178934791428,
+            "dense_score": 0.6364233814359717,
+            "rrf_score": 0.02523809523809524
+          },
+          {
+            "file_id": "principles/right-question-over-right-answer",
+            "title": "The Right Question Over the Right Answer",
+            "bm25_rank": 38,
+            "dense_rank": 12,
+            "bm25_score": 14.041496288237878,
+            "dense_score": 0.638632005345625,
+            "rrf_score": 0.024092970521541947
+          }
+        ],
+        "profile_id": "client-happy-trust-myself-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 46
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*slight smile*\n\nThat's an interesting way to frame it. I'm not sure \"afraid\" is quite the right word — it's more that I want to make sure I'm reading the signals correctly. Like, some people say tension in the body means fear, but I'm always somewhat tense, so that particular heuristic doesn't really help me. And then there's the question of whether what feels like resistance is actually wisdom, or whether it's just... noise.\n\nSo I suppose what I'm trying to figure out is: is there a reliable me",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 118,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/if-you-think-youre-deciding-youre-in-fear",
+            "title": "If You Think You're Making a Decision, You're in Fear",
+            "bm25_rank": 13,
+            "dense_rank": 7,
+            "bm25_score": 43.43780733131219,
+            "dense_score": 0.7692028084176071,
+            "rrf_score": 0.02862400327131466
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 6,
+            "dense_rank": 15,
+            "bm25_score": 50.23028280623831,
+            "dense_score": 0.7494235926803456,
+            "rrf_score": 0.028484848484848488
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 5,
+            "dense_rank": 18,
+            "bm25_score": 51.01569522751691,
+            "dense_score": 0.7467699499024069,
+            "rrf_score": 0.028205128205128206
+          },
+          {
+            "file_id": "questions/whats-the-difference-between-overcoming-and-feeling-fear",
+            "title": "What's the difference between overcoming fear and feeling fear?",
+            "bm25_rank": 15,
+            "dense_rank": 8,
+            "bm25_score": 43.176539450818595,
+            "dense_score": 0.7671606299883195,
+            "rrf_score": 0.02803921568627451
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 4,
+            "dense_rank": 23,
+            "bm25_score": 51.28198408972405,
+            "dense_score": 0.7419196014697531,
+            "rrf_score": 0.027673192771084338
+          }
+        ],
+        "profile_id": "client-happy-trust-myself-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 119
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pause, small smile*\n\nYes. Fair.\n\nI suppose... I'm afraid it won't work out. That I'll get there and discover I'm not actually as capable as the offer implies. Or that I'll have left something behind that I can't name clearly enough to protect.\n\n*slight shift, voice still measured*\n\nThough I'm aware those are fairly common fears and not necessarily informative ones.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 66,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-afraid-of-stagnating",
+            "title": "I'm afraid of stagnating",
+            "bm25_rank": 3,
+            "dense_rank": 1,
+            "bm25_score": 42.196718976062996,
+            "dense_score": 0.7478381181674552,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "concerns/im-afraid-of-offending-people",
+            "title": "I'm afraid of offending people / How do I be myself without offending people",
+            "bm25_rank": 2,
+            "dense_rank": 14,
+            "bm25_score": 50.43928642017438,
+            "dense_score": 0.7076625905245626,
+            "rrf_score": 0.02964254577157803
+          },
+          {
+            "file_id": "moves/say-yes-to-the-clients-experiment",
+            "title": "Say Yes (Fully) to the Client's Experimental Request",
+            "bm25_rank": 14,
+            "dense_rank": 2,
+            "bm25_score": 32.4861105357734,
+            "dense_score": 0.7366313605469136,
+            "rrf_score": 0.02964254577157803
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 15,
+            "dense_rank": 3,
+            "bm25_score": 31.122117898396112,
+            "dense_score": 0.7288064123941499,
+            "rrf_score": 0.029206349206349208
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 5,
+            "dense_rank": 18,
+            "bm25_score": 40.824685646532515,
+            "dense_score": 0.7004347690000049,
+            "rrf_score": 0.028205128205128206
+          }
+        ],
+        "profile_id": "client-happy-trust-myself-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*brief pause, the smile holds*\n\n...Qualifying. Keeping a little distance from it.\n\n*another pause, slightly longer*\n\nI do that. I notice I do that.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 41,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "moves/owning-your-partiality",
+            "title": "Owning Your Partiality",
+            "bm25_rank": 11,
+            "dense_rank": 4,
+            "bm25_score": 9.856187887267863,
+            "dense_score": 0.67924843408952,
+            "rrf_score": 0.029709507042253523
+          },
+          {
+            "file_id": "practices/notice-and-be-grateful-for-connection",
+            "title": "Notice You Are Already Connected, Then Be Grateful",
+            "bm25_rank": 12,
+            "dense_rank": 12,
+            "bm25_score": 9.825633083769706,
+            "dense_score": 0.6532808171952261,
+            "rrf_score": 0.027777777777777776
+          },
+          {
+            "file_id": "moves/chase-it-around-the-room",
+            "title": "Chase It Around the Room",
+            "bm25_rank": 25,
+            "dense_rank": 5,
+            "bm25_score": 7.343626456690307,
+            "dense_score": 0.6718102864508949,
+            "rrf_score": 0.027149321266968326
+          },
+          {
+            "file_id": "moves/follow-wonder-flag-the-deflection",
+            "title": "Follow Wonder, Flag the Deflection (Don't Insist on the Answer)",
+            "bm25_rank": 7,
+            "dense_rank": 24,
+            "bm25_score": 11.074563631859036,
+            "dense_score": 0.6308735077810145,
+            "rrf_score": 0.026830135039090264
+          },
+          {
+            "file_id": "moves/say-yes-to-the-clients-experiment",
+            "title": "Say Yes (Fully) to the Client's Experimental Request",
+            "bm25_rank": 17,
+            "dense_rank": 19,
+            "bm25_score": 8.903408053799733,
+            "dense_score": 0.6368298658636324,
+            "rrf_score": 0.025645240835114255
+          }
+        ],
+        "profile_id": "client-happy-trust-myself-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 41
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*quiet for a moment*\n\nThey feel... larger than I'd like them to be.\n\nThe one about not being capable — that one I can work with, honestly. It's almost familiar enough to manage. But the other one. Leaving something behind that I can't name. That one is harder to hold at arm's length.\n\n*small smile, but slightly less automatic this time*\n\nI'm not entirely sure what that something is.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 77,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 2,
+            "dense_rank": 2,
+            "bm25_score": 50.78881825990084,
+            "dense_score": 0.7221385018431962,
+            "rrf_score": 0.03225806451612903
+          },
+          {
+            "file_id": "concerns/the-more-i-grow-the-more-alone-i-feel",
+            "title": "The more I do the work, the more alone I feel (but not lonely)",
+            "bm25_rank": 14,
+            "dense_rank": 3,
+            "bm25_score": 27.975573507164768,
+            "dense_score": 0.7092167044398869,
+            "rrf_score": 0.029386529386529386
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 10,
+            "dense_rank": 13,
+            "bm25_score": 29.645283074427095,
+            "dense_score": 0.6805142876067471,
+            "rrf_score": 0.027984344422700584
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 31,
+            "dense_rank": 8,
+            "bm25_score": 22.520940648443855,
+            "dense_score": 0.6943787734159506,
+            "rrf_score": 0.025694893341952164
+          },
+          {
+            "file_id": "concerns/i-keep-chasing-emotionally-unavailable-people",
+            "title": "I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic",
+            "bm25_rank": 9,
+            "dense_rank": 33,
+            "bm25_score": 30.081935056204124,
+            "dense_score": 0.646913339909475,
+            "rrf_score": 0.025245441795231416
+          }
+        ],
+        "profile_id": "client-happy-trust-myself-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 77
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*looks down*\n\nNothing really, I—\n\n*pause*\n\nActually. My jaw is tight. I didn't notice that until just now.\n\n*small, slightly different smile — less performance, more surprise*\n\nThat's been there for a while, probably.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 51,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 5,
+            "dense_rank": 4,
+            "bm25_score": 16.615848668006926,
+            "dense_score": 0.6376284886357745,
+            "rrf_score": 0.031009615384615385
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 13,
+            "dense_rank": 3,
+            "bm25_score": 14.807715481881122,
+            "dense_score": 0.6480608492958737,
+            "rrf_score": 0.029571646010002173
+          },
+          {
+            "file_id": "reads/repressed-trigger-in-the-body",
+            "title": "Repressed Trigger in the Body (The Half-Inch Nod, The Flat Tone)",
+            "bm25_rank": 1,
+            "dense_rank": 40,
+            "bm25_score": 21.25951468114161,
+            "dense_score": 0.5927536312150669,
+            "rrf_score": 0.02639344262295082
+          },
+          {
+            "file_id": "reads/absence-of-resistance-to-the-suck",
+            "title": "Absence of Resistance to the Suck",
+            "bm25_rank": 26,
+            "dense_rank": 9,
+            "bm25_score": 12.366045046598384,
+            "dense_score": 0.6221188957668567,
+            "rrf_score": 0.026120660599932594
+          },
+          {
+            "file_id": "moves/welcome-the-shame-without-extracting",
+            "title": "Welcome the Shame Without Asking Them to Stop Feeling It",
+            "bm25_rank": 4,
+            "dense_rank": 49,
+            "bm25_score": 16.876461961839233,
+            "dense_score": 0.5895382254943177,
+            "rrf_score": 0.024799311926605505
+          }
+        ],
+        "profile_id": "client-happy-trust-myself-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 52
+    }
+  ]
+}

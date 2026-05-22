@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:06.385Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a90cf178c249e353de113460f27424dd2c3fd5c3d8b097fbb8f48cc5b09d93c0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016AubddLmnJs7bY17SNpaiG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That watching-from-a-distance — is it peaceful, or is it lonely?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18595,
+      "cache_creation_input_tokens": 8781,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8781,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18595,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8781
+  }
+}

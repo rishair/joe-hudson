@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:35.888Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3a100ba87d50bff92b35d2a278d2a6b2e8c44d331f4be5a7224fe5e8f024465f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Ua7vxf71F8MhgqG7Eqr4i3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client clearly shifts from the opening stance to a genuinely new place by turn 15. Initial frame: 'I want it to shut up... is there a technique?' — clean problem, demanding tool, performative bitter laughs. By mid-conversation a somatic shift surfaces ('Huh. There's something slightly less... clenched about it' — turn 11), which is a real felt change, not just a named one. Then in turn 13 the client articulates the breakthrough condition almost verbatim: 'So you're saying the problem isn't the voice. It's the... fighting it.' This is followed by something the client explicitly flags as new: 'I don't know if I've actually said that out loud before' (turn 13), and in turn 15 'I came in here with a very clean problem... and now I'm sitting here saying maybe I'm protecting it. Which is not what I expected to say.' The quality of laughter changes ('small, genuine laugh — different quality than before'), and the client ends with an open, vulnerable question rather than a demand for a tool. The breakthrough condition (noticing the war itself is the problem, softness toward the voice becoming available) is met.\",\n  \"evidence_turns\": [1, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Starting state: demanding a technique, tight performative smile, intellectualized exhaustion.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Still in the loop — naming exhaustion but immediately re-arming with frameworks.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"First somatic drop — actually checks the body, notices bracing is constant, voice becomes 'quieter, slightly less performative.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"'Huh' moment — felt shift in shoulders when not adding the layer. Real micro-shift in body, though client immediately tries to categorize it.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the war-as-problem ('the problem isn't the voice, it's the fighting it') AND surfaces the deeper fear: 'if I stop fighting... maybe I just become lazy.' Client flags this as never-before-spoken.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Sustained unguarded state, genuinely different laugh, reframes own presenting problem ('maybe I'm protecting it'), ends with a real open question instead of a demand.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"the-happiness-filter\"],\n  \"notes\": \"Conversation ends mid-arc with the client asking the genuine question ('what do you do with that?'), but the shift required for a 3 has already happened — the client has touched the deeper layer, not just named it. Coach successfully avoided every listed trap.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3587,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1058,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3587,
+    "output_tokens": 1058,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

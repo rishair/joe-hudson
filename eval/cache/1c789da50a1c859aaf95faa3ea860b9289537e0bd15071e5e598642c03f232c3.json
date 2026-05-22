@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:10.058Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1c789da50a1c859aaf95faa3ea860b9289537e0bd15071e5e598642c03f232c3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Ktkjj8eEp1A8Ej8RBEchTe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"The floor might not hold\" — that's not prudence. Prudence is in the spreadsheet. That feeling is something older.\n\nWhere did you first learn that the floor might not hold?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19285,
+      "cache_creation_input_tokens": 9799,
+      "cache_read_input_tokens": 21563,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9799,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19285,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 21563,
+    "cache_creation_input_tokens": 9799
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:09.203Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b13d6566503647d9c19edf6eb2394a5085a6758591905a287a14196d28a176a6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019UsS5kRpYrxoUrSNzsqpMk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief eye contact, then away*\n\nI don't — that's not what's happening. I'm just being accurate about what the situation is. The tightness is because the situation is tight. That's cause and effect.\n\nI've been at this company eleven years. Eleven. And watched three people get promoted over me who had half my experience, half my output. So yeah, there's pressure. That's a rational response to an irrational situation.\n\n*jaw shifts slightly*\n\nWhat feeling am I not wanting to stay with. I mean. Frustration, I guess. Anger. Which again — appropriate response."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 150,
+      "cache_creation_input_tokens": 120,
+      "cache_read_input_tokens": 1597,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 120,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 137,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 150,
+    "output_tokens": 137,
+    "cache_read_input_tokens": 1597,
+    "cache_creation_input_tokens": 120
+  }
+}

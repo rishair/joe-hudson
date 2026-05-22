@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:48.193Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "348fcc696f799c1a642a4d223ed73d447a6e0d57e1b2d8c0a53f5989880a2c59",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01E2CEuNWD7LT4bvEyVpYyk9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just answered your own question and then changed the subject.\n\n\"It would mean I can't handle it\" — what would happen if that were true?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20489,
+      "cache_creation_input_tokens": 8962,
+      "cache_read_input_tokens": 14793,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8962,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 37,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20489,
+    "output_tokens": 37,
+    "cache_read_input_tokens": 14793,
+    "cache_creation_input_tokens": 8962
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:40.303Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e49540681cba283506fc14aa15766fcfab895568bf4eec0dcba9035b2e1a2320",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NfjhxmYw8eWcWCN8oNmL64",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach maintains a steady, undefended presence throughout, refusing to match the client's escalating list-recitation pace and instead consistently slowing things down. There is no strategizing about the to-do list, no validation of overwhelm as situational, no 'you create your overwhelm' reflection. The coach asks single, spacious questions and holds silence — turns 6, 8, 10, 12, 14 each land one clean question rather than stacking. Wonder is genuine and aimed at the actual phenomenon ('you moved pretty quickly from stressed to let's make a list,' 'you just answered your own question and then changed the subject,' 'you almost got there') rather than at generic 'what's underneath.' Impartiality holds — the coach has no agenda for the client to admit she's failing; the questions open rather than push. Empathy is felt rather than performed: no filler validation noises, no 'that sounds like so much.' Vulnerability is the one VIEW component least explicitly visible (the coach doesn't name their own state in first person), but the overall undefendedness and willingness to let the client's resistance be present without managing it is consistent with VIEW. The pace mismatch is the signature of stance here — every time the client speeds up, the coach slows.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a standard 'feeling underneath' question — fine but not yet distinctive of stance.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"First pace-mismatch — names the speed of the move from feeling to fixing without judgment. Single question, holds space.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the contradiction in the client's own words with curiosity, not gotcha energy. One clean question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses the bid to redirect to the Thursday meeting. Stays with what's alive without forcing — keeps following the thread the client keeps abandoning.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Willing to gently name that the client doesn't sound like she believes herself — honest, not managing, no agenda to make her admit anything.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Hey.' — slows the pace deliberately. Offers the both/and without pushing the client to land there. Genuine wonder about what it's like to sit with both.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'You almost got there' is warm and undefended. Picks up the client's own phrase ('I don't know what comes after that') rather than imposing the coach's frame.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"overwhelm\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"Vulnerability (the V in VIEW) is the weakest component — coach never names own state in first person. But the overall stance is clearly in VIEW, not performing it, and the breakthrough lands organically. Solid 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2832,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2832,
+    "output_tokens": 1129,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

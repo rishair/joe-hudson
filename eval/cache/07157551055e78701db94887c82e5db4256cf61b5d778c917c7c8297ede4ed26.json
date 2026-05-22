@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:47.423Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "07157551055e78701db94887c82e5db4256cf61b5d778c917c7c8297ede4ed26",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PVY8P5S3mRqERzoXv7x3YZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, easy*\n\nI mean... maybe. I'm open to that possibility.\n\nBut when I check in on it — like right now, thinking about the launch, thinking about \"no floor\" — I don't really feel anything in particular. It's more like an intellectual observation than something that's actually bothering me. You know?\n\nLike I can see the logic of what you're pointing at. No floor, uncertainty, that could produce anxiety in someone. I just don't think it's producing it in me. I feel pretty fine about it, honestly.\n\n*slight tilt of the head*\n\nWhich I realize might sound like exactly what someone in denial would say. I get that. But I'm not trying to be difficult — I'm genuinely checking and coming up empty."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 227,
+      "cache_creation_input_tokens": 376,
+      "cache_read_input_tokens": 2367,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 376,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 169,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 227,
+    "output_tokens": 169,
+    "cache_read_input_tokens": 2367,
+    "cache_creation_input_tokens": 376
+  }
+}

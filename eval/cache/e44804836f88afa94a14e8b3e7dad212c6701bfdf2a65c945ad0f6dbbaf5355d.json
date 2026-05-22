@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:29.247Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e44804836f88afa94a14e8b3e7dad212c6701bfdf2a65c945ad0f6dbbaf5355d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UZ4HqDGwk5m5x3oW7YYvji",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What are you afraid would happen if you took it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9529,
+      "cache_creation_input_tokens": 11331,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11331,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9529,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11331
+  }
+}

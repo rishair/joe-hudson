@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:14.402Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5db2df27d0cab3a279641f125c8afb2a249041d456a812b6b05be5e7e271f045",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Sw6BJxw3VUfya6JP7ShTbc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Eleven years. That's a long time to keep showing up.\n\nWhat does the anger want?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20480,
+      "cache_creation_input_tokens": 9843,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9843,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20480,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9843
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:59.126Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "90d7ecf8e8905d09664902d21b041228d8118e6478729c82cd160b08bf904ab7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NHPoWTzN8nozsioZysrLV9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's a real cost. I'm not arguing with it.\n\nI'm curious about something else though. You came here and immediately told me you can't slow down. Before we'd even started. What's that about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11335,
+      "cache_creation_input_tokens": 8138,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8138,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11335,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8138
+  }
+}

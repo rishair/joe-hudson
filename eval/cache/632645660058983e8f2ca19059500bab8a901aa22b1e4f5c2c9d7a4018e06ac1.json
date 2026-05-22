@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:05.562Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "632645660058983e8f2ca19059500bab8a901aa22b1e4f5c2c9d7a4018e06ac1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GisRzqtBkSuaLVLuXb2kNT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "How old do you feel when that happens?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21100,
+      "cache_creation_input_tokens": 8531,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8531,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21100,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8531
+  }
+}

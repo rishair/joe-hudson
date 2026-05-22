@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:19.331Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e5aeb1cd4d5367cd3426122e8446787c6aa6924a281955a9f0ebea1973cab80b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013sz9BM46Z5eCSKuvtaQfuk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, the smile still there*\n\nIt's... comfortable. We watch things together, we cook. It's nice. We don't need to be performing for each other or whatever — I think that's actually a sign of a healthy relationship, that you can just be quiet together without it being weird.\n\n*beat*\n\nSome people can't do that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 135,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1802,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 79,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 135,
+    "output_tokens": 79,
+    "cache_read_input_tokens": 1802,
+    "cache_creation_input_tokens": 0
+  }
+}

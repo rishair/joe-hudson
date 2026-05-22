@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:26.005Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "00676b2e3952a0d6890f20a791b57c48f2a793829c16848d74862564c8cfa002",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EzjAs7QYQdHRPSMZeNXYRb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Those two things aren't as separate as you're making them.\n\nIf you walk into that board call carrying whatever you're carrying about him right now — unspoken, managed, compressed — it will be in the room. Investors read state, not just content.\n\nWhat's actually happening between you two?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18198,
+      "cache_creation_input_tokens": 10910,
+      "cache_read_input_tokens": 32970,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10910,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 67,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18198,
+    "output_tokens": 67,
+    "cache_read_input_tokens": 32970,
+    "cache_creation_input_tokens": 10910
+  }
+}

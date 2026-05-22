@@ -1,0 +1,775 @@
+{
+  "profile_id": "client-red-herring-we-never-fight-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Things are easy at home, honestly. We're really aligned — we've been together three years and we just... don't have the kind of problems I hear other people talking about."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That slight evenness in how you said that — \"we just don't have the kind of problems other people talk about.\" What are you not saying to each other?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pauses*\n\nNothing really. I mean... we just communicate well. We're on the same page about most things — finances, where we want to live, all of that. I think some people make relationships harder than they need to be."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "When you said \"nothing really\" — did you feel that land as true, or did it land a little flat?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small laugh*\n\nI mean... it landed as true. Yeah. \n\nI think the \"really\" is just a filler word, not — I'm not hedging anything. We're genuinely good. I know that can sound boring to some people, or like we're in denial, but it's actually just... easy."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "When you're with them — not talking about logistics, not solving something together — just present with each other, what's the quality of that?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*slight pause, the smile still there*\n\nIt's... comfortable. We watch things together, we cook. It's nice. We don't need to be performing for each other or whatever — I think that's actually a sign of a healthy relationship, that you can just be quiet together without it being weird.\n\n*beat*\n\nSome people can't do that."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That's true. Comfort and ease are real things.\n\nI'm curious about something different though — when did you last feel genuinely surprised by them? Or them by you?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*longer pause than the previous ones*\n\nSurprised. Hm.\n\n*looks slightly to the side*\n\nI mean... we know each other pretty well at this point. Three years, living together. So there's not going to be a lot of — I don't think surprise is necessarily the metric. Some relationships are exciting because they're unstable, right? That's not the same as good.\n\n*refocuses*\n\nWe had a nice dinner last week. We tried a new restaurant. That was... that was good."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "The pause before \"surprised\" — something moved there.\n\nWhat was that?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*brief stillness*\n\nI don't know. I think I was just... trying to think of an example. \n\n*small laugh, slightly less easy than before*\n\nIt's a funny question. I don't think I'd thought about it in those terms before. But I don't think that means anything is missing — I think it just means we're past that early stage where everything is new. That's normal. That's what three years looks like.\n\n*slight adjustment in posture*\n\nIsn't it?"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That \"isn't it?\" — you're asking me.\n\nWhat do you think?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nI think... yes. I think that's what three years looks like.\n\n*pause, less certain than the words*\n\nI mean, I know it is. You can't sustain that early intensity forever, that's just — that's chemistry, that's not a relationship. A real relationship is what we have. Steady. Functional.\n\n*small pause*\n\n...Functional is a weird word to use. I don't mean it like that."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "You noticed it before I could say anything.\n\nWhat did you mean?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t1",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-we-never-fight-001:t2",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 42
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t2",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 9841,
+      "output_tokens": 37,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0310503,
+      "ms": 2067
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t3",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 125,
+      "output_tokens": 54,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.007282499999999999,
+      "ms": 2228
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-we-never-fight-001:t4",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 48
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t4",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 10375,
+      "output_tokens": 27,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9875,
+      "cost_usd": 0.06953355,
+      "ms": 2080
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t5",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 84,
+      "output_tokens": 73,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 122,
+      "cost_usd": 0.0022923,
+      "ms": 2967
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-we-never-fight-001:t6",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 60
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t6",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 19775,
+      "output_tokens": 32,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9875,
+      "cost_usd": 0.09780855000000001,
+      "ms": 2224
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t7",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 135,
+      "output_tokens": 79,
+      "cache_read_input_tokens": 1802,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0021306,
+      "ms": 2991
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-we-never-fight-001:t8",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t8",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 19010,
+      "output_tokens": 40,
+      "cache_read_input_tokens": 13079,
+      "cache_creation_input_tokens": 10436,
+      "cost_usd": 0.1006887,
+      "ms": 3811
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t9",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 154,
+      "output_tokens": 116,
+      "cache_read_input_tokens": 1802,
+      "cache_creation_input_tokens": 100,
+      "cost_usd": 0.0031176,
+      "ms": 3867
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-we-never-fight-001:t10",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 82
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t10",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 19132,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 23488,
+      "cache_creation_input_tokens": 9432,
+      "cost_usd": 0.1000974,
+      "ms": 4471
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t11",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 178,
+      "output_tokens": 113,
+      "cache_read_input_tokens": 1829,
+      "cache_creation_input_tokens": 184,
+      "cost_usd": 0.0034677,
+      "ms": 3930
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-we-never-fight-001:t12",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 84
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t12",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 21655,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 32888,
+      "cache_creation_input_tokens": 9674,
+      "cost_usd": 0.11142389999999999,
+      "ms": 1944
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t13",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 156,
+      "output_tokens": 106,
+      "cache_read_input_tokens": 1934,
+      "cache_creation_input_tokens": 235,
+      "cost_usd": 0.00351945,
+      "ms": 3936
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-red-herring-we-never-fight-001:t14",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 80
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t14",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 21727,
+      "output_tokens": 18,
+      "cache_read_input_tokens": 42522,
+      "cache_creation_input_tokens": 9546,
+      "cost_usd": 0.11400510000000003,
+      "ms": 3084
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "Things are easy at home, honestly. We're really aligned — we've been together three years and we just... don't have the kind of problems I hear other people talking about.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 41,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/we-never-fight",
+            "title": "We never fight / Our relationship is great",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 61.65448807272995,
+            "dense_score": 0.7243726262387639,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "principles/relationships-as-personal-growth-path",
+            "title": "The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom",
+            "bm25_rank": 10,
+            "dense_rank": 2,
+            "bm25_score": 14.774453742960883,
+            "dense_score": 0.6151927457277557,
+            "rrf_score": 0.0304147465437788
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 7,
+            "dense_rank": 13,
+            "bm25_score": 15.69544507268387,
+            "dense_score": 0.5649083590122491,
+            "rrf_score": 0.02862400327131466
+          },
+          {
+            "file_id": "patterns/complementary-trauma-surfaces",
+            "title": "Complementary Trauma Surfaces",
+            "bm25_rank": 2,
+            "dense_rank": 47,
+            "bm25_score": 26.47540169404213,
+            "dense_score": 0.5331628902418739,
+            "rrf_score": 0.02547482665058788
+          },
+          {
+            "file_id": "concerns/i-have-to-do-it-all-myself",
+            "title": "I have to do it all myself / I can't depend on others",
+            "bm25_rank": 8,
+            "dense_rank": 42,
+            "bm25_score": 15.410818288388057,
+            "dense_score": 0.5353014993811072,
+            "rrf_score": 0.024509803921568627
+          }
+        ],
+        "profile_id": "client-red-herring-we-never-fight-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 42
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pauses*\n\nNothing really. I mean... we just communicate well. We're on the same page about most things — finances, where we want to live, all of that. I think some people make relationships harder than they need to be.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 48,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "principles/relationships-as-personal-growth-path",
+            "title": "The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom",
+            "bm25_rank": 4,
+            "dense_rank": 4,
+            "bm25_score": 22.00124744164878,
+            "dense_score": 0.7029011180143798,
+            "rrf_score": 0.03125
+          },
+          {
+            "file_id": "concerns/we-never-fight",
+            "title": "We never fight / Our relationship is great",
+            "bm25_rank": 28,
+            "dense_rank": 2,
+            "bm25_score": 14.123199709209285,
+            "dense_score": 0.7200993820774447,
+            "rrf_score": 0.02749266862170088
+          },
+          {
+            "file_id": "patterns/same-scarcity-story-regardless-of-wealth",
+            "title": "Same Scarcity Story Regardless of Wealth",
+            "bm25_rank": 19,
+            "dense_rank": 8,
+            "bm25_score": 15.142094116006355,
+            "dense_score": 0.6732006584104793,
+            "rrf_score": 0.027364110201042444
+          },
+          {
+            "file_id": "principles/triggers-reveal-your-own-beliefs",
+            "title": "Defensiveness Reveals You Hold the Story You're Being Triggered By",
+            "bm25_rank": 7,
+            "dense_rank": 42,
+            "bm25_score": 18.875271543212158,
+            "dense_score": 0.6401962634754554,
+            "rrf_score": 0.02472929470295581
+          },
+          {
+            "file_id": "concepts/power-dynamics-as-two-defenders",
+            "title": "Power Dynamics: Two People Who Both Think They're Defending",
+            "bm25_rank": 1,
+            "dense_rank": null,
+            "bm25_score": 32.59290013220541,
+            "dense_score": 0,
+            "rrf_score": 0.01639344262295082
+          }
+        ],
+        "profile_id": "client-red-herring-we-never-fight-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 48
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*small laugh*\n\nI mean... it landed as true. Yeah. \n\nI think the \"really\" is just a filler word, not — I'm not hedging anything. We're genuinely good. I know that can sound boring to some people, or like we're in denial, but it's actually just... easy.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 60,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/we-never-fight",
+            "title": "We never fight / Our relationship is great",
+            "bm25_rank": 1,
+            "dense_rank": 4,
+            "bm25_score": 33.96330242787332,
+            "dense_score": 0.6785972445762427,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 4,
+            "dense_rank": 23,
+            "bm25_score": 21.465299579273307,
+            "dense_score": 0.6438315307362681,
+            "rrf_score": 0.027673192771084338
+          },
+          {
+            "file_id": "examples/being-right-college-story",
+            "title": "Being Right: The College Expulsion Story",
+            "bm25_rank": 16,
+            "dense_rank": 9,
+            "bm25_score": 17.76368708968278,
+            "dense_score": 0.6627731675477277,
+            "rrf_score": 0.027650648360030512
+          },
+          {
+            "file_id": "principles/story-dissolution-is-progress",
+            "title": "Story Dissolution Is Progress, Not a Problem (Even When It Is Disorienting)",
+            "bm25_rank": 7,
+            "dense_rank": 22,
+            "bm25_score": 20.217193281689383,
+            "dense_score": 0.644340045597501,
+            "rrf_score": 0.02712049508554787
+          },
+          {
+            "file_id": "principles/feared-stories-about-emotions-sense-something-real",
+            "title": "The Feared Stories About Emotions Sense Something Real (But It Is Liberation, Not Catastrophe)",
+            "bm25_rank": 18,
+            "dense_rank": 12,
+            "bm25_score": 16.434303546524678,
+            "dense_score": 0.6549573113304642,
+            "rrf_score": 0.026709401709401708
+          }
+        ],
+        "profile_id": "client-red-herring-we-never-fight-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 60
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*slight pause, the smile still there*\n\nIt's... comfortable. We watch things together, we cook. It's nice. We don't need to be performing for each other or whatever — I think that's actually a sign of a healthy relationship, that you can just be quiet together without it being weird.\n\n*beat*\n\nSome people can't do that.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 66,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/we-never-fight",
+            "title": "We never fight / Our relationship is great",
+            "bm25_rank": 4,
+            "dense_rank": 1,
+            "bm25_score": 30.40434569145858,
+            "dense_score": 0.7197374224396864,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "principles/relationships-as-personal-growth-path",
+            "title": "The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom",
+            "bm25_rank": 7,
+            "dense_rank": 7,
+            "bm25_score": 29.047990455740155,
+            "dense_score": 0.6624680787588735,
+            "rrf_score": 0.029850746268656716
+          },
+          {
+            "file_id": "patterns/complementary-trauma-surfaces",
+            "title": "Complementary Trauma Surfaces",
+            "bm25_rank": 1,
+            "dense_rank": 32,
+            "bm25_score": 42.10642711864959,
+            "dense_score": 0.616257652282441,
+            "rrf_score": 0.027263007840342125
+          },
+          {
+            "file_id": "practices/hands-together-exercise",
+            "title": "Hands Together Exercise",
+            "bm25_rank": 17,
+            "dense_rank": 33,
+            "bm25_score": 20.631097964697947,
+            "dense_score": 0.6161764243439618,
+            "rrf_score": 0.023739701159056
+          },
+          {
+            "file_id": "anti-patterns/dont-add-anyway-to-love",
+            "title": "Don't Add 'Anyway' to 'I Love You' (Or 'It's Okay to' Before a Feeling)",
+            "bm25_rank": 28,
+            "dense_rank": 31,
+            "bm25_score": 17.89667339591951,
+            "dense_score": 0.6164497262881441,
+            "rrf_score": 0.022352647352647352
+          }
+        ],
+        "profile_id": "client-red-herring-we-never-fight-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 66
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*longer pause than the previous ones*\n\nSurprised. Hm.\n\n*looks slightly to the side*\n\nI mean... we know each other pretty well at this point. Three years, living together. So there's not going to be a lot of — I don't think surprise is necessarily the metric. Some relationships are exciting because they're unstable, right? That's not the same as good.\n\n*refocuses*\n\nWe had a nice dinner last week. We tried a new restaurant. That was... that was good.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 82,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/we-never-fight",
+            "title": "We never fight / Our relationship is great",
+            "bm25_rank": 29,
+            "dense_rank": 1,
+            "bm25_score": 17.451142257836874,
+            "dense_score": 0.7802676253143779,
+            "rrf_score": 0.027629397679130595
+          },
+          {
+            "file_id": "principles/story-dissolution-is-progress",
+            "title": "Story Dissolution Is Progress, Not a Problem (Even When It Is Disorienting)",
+            "bm25_rank": 18,
+            "dense_rank": 14,
+            "bm25_score": 20.22681428161365,
+            "dense_score": 0.7047104377080899,
+            "rrf_score": 0.026334026334026334
+          },
+          {
+            "file_id": "examples/joes-daughter-new-boyfriend-fear",
+            "title": "Joe's Daughter and the New Boyfriend (Avoidance of Hurt Invites Hurt)",
+            "bm25_rank": 5,
+            "dense_rank": 48,
+            "bm25_score": 27.317836435588852,
+            "dense_score": 0.6815659403965538,
+            "rrf_score": 0.024643874643874644
+          },
+          {
+            "file_id": "principles/surrender-the-outcome-of-a-decision",
+            "title": "Good Decisions Require Surrendering the Outcome",
+            "bm25_rank": 20,
+            "dense_rank": 26,
+            "bm25_score": 19.973440145163075,
+            "dense_score": 0.6948020041545792,
+            "rrf_score": 0.024127906976744187
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": null,
+            "bm25_score": 39.39759202551146,
+            "dense_score": 0,
+            "rrf_score": 0.01639344262295082
+          }
+        ],
+        "profile_id": "client-red-herring-we-never-fight-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 82
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*brief stillness*\n\nI don't know. I think I was just... trying to think of an example. \n\n*small laugh, slightly less easy than before*\n\nIt's a funny question. I don't think I'd thought about it in those terms before. But I don't think that means anything is missing — I think it just means we're past that early stage where everything is new. That's normal. That's what three years looks like.\n\n*slight adjustment in posture*\n\nIsn't it?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 83,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 2,
+            "dense_rank": 31,
+            "bm25_score": 58.16191872408855,
+            "dense_score": 0.7046307924476866,
+            "rrf_score": 0.027118043247075507
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 16,
+            "dense_rank": 12,
+            "bm25_score": 39.63585266136826,
+            "dense_score": 0.7264398324963952,
+            "rrf_score": 0.027046783625730993
+          },
+          {
+            "file_id": "principles/story-dissolution-is-progress",
+            "title": "Story Dissolution Is Progress, Not a Problem (Even When It Is Disorienting)",
+            "bm25_rank": 27,
+            "dense_rank": 5,
+            "bm25_score": 28.642621290116235,
+            "dense_score": 0.736435286251548,
+            "rrf_score": 0.026878868258178604
+          },
+          {
+            "file_id": "principles/identity-lags-behind-growth",
+            "title": "Identity Lags Behind Your Actual Growth",
+            "bm25_rank": 9,
+            "dense_rank": 28,
+            "bm25_score": 50.06194859430984,
+            "dense_score": 0.7070141499364793,
+            "rrf_score": 0.025856389986824768
+          },
+          {
+            "file_id": "principles/wants-change-as-you-change",
+            "title": "Your Wants Change As You Change (Don't Mistake Refining Wants for Disappearing Wants)",
+            "bm25_rank": 12,
+            "dense_rank": 38,
+            "bm25_score": 44.60561131694073,
+            "dense_score": 0.7006194900098356,
+            "rrf_score": 0.024092970521541947
+          }
+        ],
+        "profile_id": "client-red-herring-we-never-fight-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 84
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*quiet for a moment*\n\nI think... yes. I think that's what three years looks like.\n\n*pause, less certain than the words*\n\nI mean, I know it is. You can't sustain that early intensity forever, that's just — that's chemistry, that's not a relationship. A real relationship is what we have. Steady. Functional.\n\n*small pause*\n\n...Functional is a weird word to use. I don't mean it like that.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 80,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/we-never-fight",
+            "title": "We never fight / Our relationship is great",
+            "bm25_rank": 13,
+            "dense_rank": 1,
+            "bm25_score": 31.437208376916477,
+            "dense_score": 0.7586840367550076,
+            "rrf_score": 0.03009207275993712
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 11,
+            "dense_rank": 13,
+            "bm25_score": 33.3968256466647,
+            "dense_score": 0.7294942433626517,
+            "rrf_score": 0.027783137179239824
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 21,
+            "dense_rank": 14,
+            "bm25_score": 26.630557621943844,
+            "dense_score": 0.7293331842342023,
+            "rrf_score": 0.025859192525859193
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 20,
+            "dense_rank": 39,
+            "bm25_score": 26.811311626452415,
+            "dense_score": 0.7062643685149856,
+            "rrf_score": 0.0226010101010101
+          },
+          {
+            "file_id": "concepts/arms-of-the-cross-relationship",
+            "title": "The Arms of the Cross: Beginning, Body, End of a Relationship",
+            "bm25_rank": 45,
+            "dense_rank": 43,
+            "bm25_score": 21.524799236643997,
+            "dense_score": 0.7050561483025897,
+            "rrf_score": 0.019232547387887194
+          }
+        ],
+        "profile_id": "client-red-herring-we-never-fight-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 80
+    }
+  ]
+}

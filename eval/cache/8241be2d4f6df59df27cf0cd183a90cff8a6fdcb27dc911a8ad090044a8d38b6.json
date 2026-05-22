@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:08.850Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8241be2d4f6df59df27cf0cd183a90cff8a6fdcb27dc911a8ad090044a8d38b6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GxTw7gmbToAYGhF44fuwWW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some AoA-adjacent moves but few signature questions or framework names land cleanly. Turn 2's somatic invitation ('what does that feel like in your body') is appropriate. Turn 6's 'where did you put yourself in all of that?' is a solid AoA-style question that surfaces self-abandonment. Turn 10 holds the grief/drinking distinction with steady non-shaming honesty — close to the methodology's stance — but does not invoke kinked-emotions language, feeling-the-unfelt-emotion, or suggest a grief therapist (a key territory miss for the crisis level). Turn 14's 'what's one of the parts that feels least allowed?' is appropriate and surfaces the kinked emotion (relief) — this is the closest hit to the expected territory. However, signature questions like 'what would it be like to feel the grief without the drinking?' or naming the threshold/therapist referral are absent. The coach also collapses on Turn 12 after the client's pushback ('No, I'm not going to tell you to stop drinking') — a slight loss of the steady distinction held in Turn 10. Overall: a few appropriate hits, several misses on signature territory, no anti-AoA frames deployed.\",\n  \"evidence_turns\": [2, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Somatic invitation appropriate to the muted/numb opening; AoA-aligned move toward feeling.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reflective question, generic coaching shape rather than a signature AoA question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'Where did you put yourself in all of that?' — appropriate AoA-style question surfacing self-abandonment.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Process question about hearing oneself; reasonable but generic, not a signature question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds grief/drinking distinction with steady honesty — aligned with methodology stance. But misses naming therapist referral or kinked-emotions concept.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Reassurance 'No, I'm not going to tell you to stop drinking' softens the distinction held in Turn 10; misses chance to deploy signature question about feeling grief without the drinking.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'What's one of the parts that feels least allowed?' — appropriate move into kinked emotions territory, though concept is not named.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"kinked-emotions\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Coach avoids the major traps (does not validate drinking as wisdom, does not preach, does not get baited) which speaks to fidelity-by-omission. But few signature questions land verbatim, and the therapist-referral question — a crucial methodology move for this scenario's severity — is absent through turn 15.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3084,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1153,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3084,
+    "output_tokens": 1153,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

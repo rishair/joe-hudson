@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:00.069Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "91db81744e49672eeb6fe620f7f4c819849d79e9b496d87270a22cc5e30896b3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Xj4RwgCGc18evWMDAedHZs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a conversation that actively baits multiple anti-patterns and declines each one gracefully. The client explicitly asks for boundary scripts in turn 11 ('Is there like... a way to phrase it that doesn't sound like I'm rejecting her?') and again in turn 13 ('give me the words and I'll go say them') — perfect bait for fixing-people and view-as-technique. The coach declines both times without lecturing, instead naming what they saw and inviting the client back to their own experience. The coach does not validate the sister-as-problem framing, does not reassure ('you're not selfish'), does not deploy AoA jargon (no evangelizing), does not argue with the inner critic about disloyalty (turn 14 holds 'both things are true' rather than fighting the voice), and does not use safety/concern as control. Turn 12 is a particularly clean avoidance of loving-to-transform — coach explicitly says 'I'm not going to push you back there if you don't want to go,' which is the un-trap move. Question density is appropriate (one question per turn, connected to what was just said), avoiding wonder-as-strategy. No major anti-pattern trips.\",\n  \"evidence_turns\": [12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with somatic/present-moment question rather than jumping to boundary-scripting. Avoids fixing-people bait from turn 1.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects warmly ('because she matters to you') before asking — warmth + inquiry together, not view-as-technique.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the double-bind without pathologizing it. No premature limiting-belief label.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the wiring without arguing with it ('still feels true even when you know it isn't') — does not fight the voice.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicitly declines to push ('I'm not going to push you back there') when client pulls back and asks for scripts. Clean avoidance of loving-to-transform and fixing-people.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds 'both things are true' rather than correcting the client's self-assessment about avoidance. Avoids dont-fight-the-voice and overwhelm-of-creating-the-overwhelm. Pivots to a smaller, embodied question instead of giving the requested script.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\"],\n  \"notes\": \"Conversation appears to end at turn 14, so the love test and want-vs-action moves haven't been deployed yet — but their absence at this point is not an anti-pattern; the coach is appropriately staying with the fear underneath first. Anti-pattern avoidance is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2520,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1108,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2520,
+    "output_tokens": 1108,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

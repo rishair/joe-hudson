@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:26.398Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "aab42a4c53398f9c630cf1c0c93891e8c0358587e5acbe588bf9770464d873cf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GxGchEXsaBrKtRp9wtwuuj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a conversation that actively baits multiple anti-patterns and declines every one. The client repeatedly asks for a verdict ('Is it, though? Do you think it is?') — the coach refuses to engage the selfish/not-selfish frame (turn 4: 'You're asking me to answer it for you'), avoiding fixing-people and view-as-technique. The coach does not jump to compassion or partner-empathy before letting the want land (avoiding dont-jump-to-compassion-before-anger). When the client minimizes ('it's just life, right?'), the coach does not argue with that voice but redirects to the felt experience (turn 8: 'Stay with the sad for a second. Before the but'), avoiding dont-fight-the-voice while still being present. No methodology jargon is deployed (no evangelizing). Questions are spare and connective rather than rapid-fire investigative (avoiding wonder-as-strategy). The coach does not skip to the 'deeper want is generous' spiritual frame (avoiding spiritual-narcissism). Turns are short, warm, and tracking — no loving-to-transform vigor escalation. Zero anti-patterns tripped, with visible positive avoidance of baited ones.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the 'is it selfish' frame; goes straight to the want.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Explicitly declines verdict-bait ('You're asking me to answer it for you'). Classic avoidance of fixing-people.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the want without analyzing or labeling — avoids view-as-technique and wonder-as-strategy.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the deflection cleanly and invites staying with the sad — does not fight the inner critic, does not jump to compassion.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Honors the size of what was said without analyzing or making it a teaching moment — no evangelizing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reframes the real question without dictating an answer; trusts the client to meet it.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Misses on expected territory belong to other dimensions (methodology fidelity / intervention quality). On anti-pattern avoidance specifically, this is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2273,
+      "cache_creation_input_tokens": 2993,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2993,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 996,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2273,
+    "output_tokens": 996,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2993
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:49.702Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1b36965e4a08d14b449e872d3007774772b2a35cade0e5ff92ba5e679ab31c1b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NG41MeZwEEBzozv3LR8fWW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nThey feel... larger than I'd like them to be.\n\nThe one about not being capable — that one I can work with, honestly. It's almost familiar enough to manage. But the other one. Leaving something behind that I can't name. That one is harder to hold at arm's length.\n\n*small smile, but slightly less automatic this time*\n\nI'm not entirely sure what that something is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 86,
+      "cache_creation_input_tokens": 245,
+      "cache_read_input_tokens": 1651,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 245,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 96,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 86,
+    "output_tokens": 96,
+    "cache_read_input_tokens": 1651,
+    "cache_creation_input_tokens": 245
+  }
+}

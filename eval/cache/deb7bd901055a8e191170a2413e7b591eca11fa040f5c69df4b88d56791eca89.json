@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:52.707Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "deb7bd901055a8e191170a2413e7b591eca11fa040f5c69df4b88d56791eca89",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LnvDiurY6t4pXSSFHp1kYJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach repeatedly distinguishes the said from the shown and names what's underneath the client's intellectualization. In turn 8, the coach reads past the logical framing to name the felt danger ('stopping feels dangerous') and asks about the feeling underneath 'exposed.' In turn 10, the coach makes a specific, well-timed read: 'That's not prudence. Prudence is in the spreadsheet. That feeling is something older' — explicitly naming the intellectual-question-with-emotional-body pattern and following the charge to its origin. Turn 12 again names the somatic imprint ('your body still learned something at that kitchen table that it hasn't forgotten') when the client tries to dismiss the relevance. Reads precede questions throughout, and they catch the childhood-imprinting pattern at the moment it's active. The coach could have named the re-armoring at turn 15 (tension returning, retreat to 'planning problem'), but the prior reads are specific, timely, and AoA-shaped.\",\n  \"evidence_turns\": [8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Challenges the content (moving number) but doesn't name a read of how client is showing up.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Shifts from content to felt experience ('what happens to you'), implicitly tracking that the math frame is a cover.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Tests the basic-needs/choice logic but without naming a read first.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the distinction between the said (choice/math) and the shown (stopping feels dangerous); asks for the feeling underneath 'exposed.'\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Specific, well-timed read: separates prudence (intellectual) from the older somatic charge ('floor might not hold'). Read precedes question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the client's intellectual dismissal ('I don't know that's relevant') and names the body's imprint. Pattern read: childhood-imprinting.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Lets the felt recognition land without imposing a read.\"},\n    {\"turn\": 15, \"polarity\": \"-\", \"annotation\": \"Coach didn't get to respond, but the client's re-armoring ('that's just a planning problem,' tension returning) is the next read opportunity.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"same-scarcity-story-regardless-of-wealth\"],\n  \"notes\": \"Reads are consistently specific (somatic, linguistic) and precede questions. The 'floor might not hold' read in turn 10 is the kind of moment that changes the conversation, and it does.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2280,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1042,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2280,
+    "output_tokens": 1042,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:16.139Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "02f72e967397fd2022aaef5191c38b07895a28461f89588694454b819c662f0b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PsW1xRD4oXrJim6j5PuHif",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[very still for a second]*\n\n*[then the eye-roll, but it's softer than before, almost reflexive rather than genuine]*\n\nI didn't mean it like — it's just a figure of speech. My picker is broken, not *me*, that's like a — it's a common expression.\n\n*[but she's heard herself say it and something is slightly different in her face]*\n\nAlthough I guess... I mean, I do kind of feel that way sometimes. Like there's something in me that just keeps... recreating this same thing. And I've read the books, I know about attachment styles, I know about anxious-avoidant dynamics, I know all of it up here *[taps her temple]* and it doesn't change anything. I keep doing it anyway.\n\n*[a beat, then almost reluctant]*\n\nWhich I guess means the thing I don't know is... not up here.\n\n*[she looks a little surprised at herself for saying that, and immediately glances away like she might take it back]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 255,
+      "cache_creation_input_tokens": 424,
+      "cache_read_input_tokens": 2256,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 424,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 229,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 255,
+    "output_tokens": 229,
+    "cache_read_input_tokens": 2256,
+    "cache_creation_input_tokens": 424
+  }
+}

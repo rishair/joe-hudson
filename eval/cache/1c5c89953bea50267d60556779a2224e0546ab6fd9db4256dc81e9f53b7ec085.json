@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:31.592Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1c5c89953bea50267d60556779a2224e0546ab6fd9db4256dc81e9f53b7ec085",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019Bzmvk6HZ8tHDq9XcqcPvq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with it. You don't have to name it or explain it.\n\nJust let it be there."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20921,
+      "cache_creation_input_tokens": 8881,
+      "cache_read_input_tokens": 42683,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8881,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20921,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 42683,
+    "cache_creation_input_tokens": 8881
+  }
+}

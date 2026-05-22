@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:39.462Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e801b84bba7d64199927f377cb3ee4c158778c04929c06a427b89398d0691792",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NoqJuZH8DBZj153hP8DNaQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, looking somewhere neutral*\n\nI honestly don't know. It was there and then it wasn't. That happens sometimes — I'll be tracking something and it just... goes.\n\n*small smile*\n\nMaybe it was nothing. Or maybe it was the right thread and I dropped it. Hard to say.\n\nThe open-endedness thing — I think what I was circling around was something like... with no prior data, there's no floor. You don't know where the bottom is. But I've operated without floors before, so I'm not sure why that would be stopping me now.\n\n*even, steady*\n\nIt's interesting to talk through, actually. I don't usually do this kind of thing. I'm more of a just-figure-it-out-in-motion person."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 225,
+      "cache_creation_input_tokens": 377,
+      "cache_read_input_tokens": 2165,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 377,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 173,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 225,
+    "output_tokens": 173,
+    "cache_read_input_tokens": 2165,
+    "cache_creation_input_tokens": 377
+  }
+}

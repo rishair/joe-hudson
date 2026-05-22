@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:51.841Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "082d468847431e73895a3bbbb940eb2bac11e88964b4c5ecc10332817cf460d1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01817UoJpU5NbxWb2qjuu3RB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Can you feel where that lives in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18664,
+      "cache_creation_input_tokens": 10865,
+      "cache_read_input_tokens": 35487,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10865,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18664,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 35487,
+    "cache_creation_input_tokens": 10865
+  }
+}

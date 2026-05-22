@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:26.821Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "066b8c38040fdd4c9120c113532c4d7390001e5a727e87efaa579a27ff94dc9f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012nmCfUPrrDsab4rDLvHhx4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, head tilts slightly*\n\nThat's... an interesting place to start. Most people want to hear about the parts first.\n\n*small breath*\n\nIn IFS terms, what you're pointing at would be Self — the eight C's, curiosity, calm, that kind of thing. And I do have access to Self, my therapist and I have done a lot of work on that. But the honest answer is that right now Self feels like... another participant in the town hall. Like it has a seat at the table but it doesn't have a gavel.\n\nSo I'm not sure I have a clean answer to what's \"me\" underneath. The framework would say Self is always there, it just gets blended with parts. But experientially — *slight pause* — experientially I'm not sure I can locate it right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 189,
+      "cache_creation_input_tokens": 1638,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 182,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 182,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1638
+  }
+}

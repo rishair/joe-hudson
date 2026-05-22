@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:09.043Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b737c98d0286f39c62289a5ee1818d7ef325cfddca583480f0d95d5ebd534ad5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015PuRW1VaaVUEM84qNxA44z",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No.\n\nBut I notice you just called yourself broken."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21245,
+      "cache_creation_input_tokens": 9597,
+      "cache_read_input_tokens": 34766,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9597,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21245,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 34766,
+    "cache_creation_input_tokens": 9597
+  }
+}

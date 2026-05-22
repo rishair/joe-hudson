@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:06.640Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "71226f9ba5dedb10b63f46b817f66a5321985bbd6c79c731f30d73a35b6a572a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01StG46HC4UoXiJ6pT258MCx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's not irrational, though. The numbers are real. A serious health event, long-term care for two parents -- those costs are documented. I've run the scenarios.\n\nBut... yeah. Okay. There's something that doesn't feel like math. When I imagine actually stopping, there's this -- I don't know. Like the floor might not hold. Even when I know it will.\n\nIt's probably just prudence. I've always been careful with money. That's how you get to 1.4."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 146,
+      "cache_creation_input_tokens": 100,
+      "cache_read_input_tokens": 1835,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 100,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 115,
+    "cache_read_input_tokens": 1835,
+    "cache_creation_input_tokens": 100
+  }
+}

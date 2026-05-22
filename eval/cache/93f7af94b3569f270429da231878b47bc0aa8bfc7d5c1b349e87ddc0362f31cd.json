@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:32.010Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "93f7af94b3569f270429da231878b47bc0aa8bfc7d5c1b349e87ddc0362f31cd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Y4P1bo9z8p9Gijq8FCrBv3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment, genuinely thinking*\n\nThat's... actually a decent question.\n\nThe other ones — there was always a clearer picture of what success looked like. Like, the parameters were known even when the execution was hard. This one is more... open-ended. The market's new, so I don't actually know what the response is going to look like. There's no prior data to anchor to.\n\n*small pause*\n\nWhich should be exciting, right? That's the interesting part of the work. And I think I do find it interesting. But maybe there's something about the open-endedness that's...\n\n*trails off, resets*\n\nI don't know. I was going to say something but I lost it.\n\n*still, easy*\n\nIt's a good question though. I'll sit with that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 225,
+      "cache_creation_input_tokens": 210,
+      "cache_read_input_tokens": 2130,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 210,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 181,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 225,
+    "output_tokens": 181,
+    "cache_read_input_tokens": 2130,
+    "cache_creation_input_tokens": 210
+  }
+}

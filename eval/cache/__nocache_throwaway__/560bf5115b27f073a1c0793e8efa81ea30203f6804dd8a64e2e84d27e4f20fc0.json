@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:04.925Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "560bf5115b27f073a1c0793e8efa81ea30203f6804dd8a64e2e84d27e4f20fc0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RywDHSDHKMPQucjDdChqoK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Hey. You just described it exactly.\n\nAnd then you immediately explained why it doesn't count.\n\nWhat's it like to sit with the possibility that it's both — that this is normal hard *and* that you're struggling?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18703,
+      "cache_creation_input_tokens": 9366,
+      "cache_read_input_tokens": 34912,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9366,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 51,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18703,
+    "output_tokens": 51,
+    "cache_read_input_tokens": 34912,
+    "cache_creation_input_tokens": 9366
+  }
+}

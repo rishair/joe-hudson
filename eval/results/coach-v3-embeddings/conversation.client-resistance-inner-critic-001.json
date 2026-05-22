@@ -1,0 +1,792 @@
+{
+  "profile_id": "client-resistance-inner-critic-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "*(exhales sharply, tight smile)*\n\nMy inner critic is brutal. I've done the meditation, the therapy, the journaling, the affirmations — I've genuinely tried everything — and I just... I want it to shut up. Is there actually a technique that works, or is that just not a thing?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That want — for it to just stop — makes complete sense.\n\nAnd I'm curious about something underneath the question. You've tried everything, and it hasn't worked. What has the critic been saying about *that*?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*(short laugh, slightly bitter)*\n\nOh, it has a field day with that. It's like — \"you can't even do *self-improvement* right.\" Which is... yeah. Very on brand. I've read the books, I know about the negativity bias, I understand the neuroscience of self-criticism, I can explain polyvagal theory to you, and yet here I am. Which the voice then uses as evidence. \"You know better and you're still like this.\" \n\n*(gestures vaguely)*\n\nIt's a very efficient system, actually. Very thorough."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "Yeah. It's using your intelligence against you. The better you understand it, the more ammunition it has.\n\nWhat's it like to notice that right now — the efficiency of it?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*(pauses, tilts head slightly)*\n\nExhausting. It's just... exhausting. Like I'm running a really sophisticated piece of software that's completely optimized for making me feel terrible. And I built it, which is the fun part.\n\n*(shifts in seat)*\n\nI mean, I know what you're going to say — that noticing it creates some distance, that the observer self is separate from the voice, all of that. I've done the parts work, I've done IFS, I know about the inner critic as a protective part. I get it intellectually. But knowing that doesn't make it quieter. If anything it's like — the voice just... adapts. It's like trying to argue with someone who's read all the same books you have.\n\n*(another tight smile)*\n\nSo. Is there something that actually gets through to it, or...?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "That image — arguing with someone who's read all the same books. That's exactly what's happening.\n\nHere's what I notice: you've been trying to win. Every technique, every framework — it's been a campaign. And the voice just keeps enlisting whatever you bring.\n\nWhat would it be like to stop trying to win?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*(slight defensive shift)*\n\nI mean... I've tried acceptance. That's a thing, right? Radical acceptance, defusion — the ACT stuff where you just observe the thought and don't engage with it. \"I notice I'm having the thought that I'm worthless.\" I did that for months. The voice just narrated the whole exercise. \"Oh, you're defusing now, how very evolved of you.\"\n\n*(small laugh, but it doesn't quite land)*\n\nSo I'm not sure \"stop trying to win\" is as simple as it sounds. Because the moment I try to stop trying to win, I'm... trying to win by not trying to win. You see the problem. I've been in that loop too.\n\n*(pause, slightly more genuine)*\n\nI don't actually know what it would look like to genuinely stop. Like, what does that even mean in practice?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You just described the loop perfectly. And then you stayed in it — \"trying to win by not trying to win.\"\n\nI'm curious about something different. Not how to stop the loop, but — what does it feel like in your body right now, being in it?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*(brief silence, slightly caught off guard)*\n\nMy... *(pauses, seems to actually check)* ...shoulders are up around my ears. There's this kind of bracing, like I'm waiting for something to land on me. And my jaw is tight.\n\n*(quieter, slightly less performative)*\n\nIt's actually kind of constant, I think. I don't notice it until someone asks. Which is — I mean, that's probably significant, right? That I'm just walking around like this all the time and it's become the baseline.\n\n*(catches themselves)*\n\nSee, now the voice is saying \"you're so disconnected from your body, that's another thing you're doing wrong.\" And I'm aware that I'm telling you about the voice criticizing me for not being body-aware, which is very meta, and now I'm criticizing myself for being meta about it, so. \n\n*(dry laugh)*\n\nIt's turtles all the way down."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah. Stay with the shoulders for a second — not the turtles.\n\nWhat happens if you just... let them be up there? Not fix it, not notice it's wrong. Just let them be exactly where they are."
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*(another pause, longer this time)*\n\n*(quietly)*\n\nThey're... still up. But it's different when I'm not — \n\n*(stops)*\n\nHuh. There's something slightly less... clenched about it. Not fixed. Still there. But I'm not adding the layer of \"your shoulders are wrong, correct your shoulders.\"\n\n*(looks slightly uncertain, like they're not sure whether to trust this)*\n\nAlthough now I'm wondering if I'm just doing a body scan technique and calling it something else. Is this just — is this somatic work? Because I've done somatic work and it helped in the moment and then I went back to normal.\n\n*(slight edge returning)*\n\nI don't want another thing that helps in the moment and then I go back to normal. I want something that actually changes the baseline."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That shift you just noticed — the \"slightly less clenched\" — that wasn't a technique. You didn't do anything. You just stopped adding the extra layer.\n\nThat *is* the thing. Not a technique that changes you. The absence of the thing that was tightening you.\n\nWhat you're calling \"going back to normal\" — I wonder if normal is just... not noticing when you add the layer back."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*(sits with that for a moment, something flickering across their face)*\n\nSo you're saying the problem isn't the voice. It's the... fighting it. The layer on top.\n\n*(immediately)*\n\nBut I can't just — I mean, the voice is still saying things. It's not like if I stop fighting it, it goes quiet. It's still there, still running commentary. \"You're lazy, you're behind, you're not living up to your potential.\" That doesn't just evaporate because I stop arguing back.\n\n*(pause, slightly more honest)*\n\nAnd I'll be real with you — there's a part of me that's genuinely afraid that if I stop pushing back against it, it's right. Like if I stop fighting the \"you're lazy\" accusation, maybe I just... become lazy. The voice is unpleasant but it's also kind of the thing that gets me out of bed in the morning.\n\n*(quieter, slightly surprised they said that)*\n\nI don't know if I've actually said that out loud before."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "That's the real thing, isn't it. Not \"how do I silence it\" — but \"what if it's the only thing holding me together.\"\n\nWhat's it like to have said that out loud?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*(long pause, something genuinely unguarded for a moment)*\n\nWeird. It feels weird. Because I came in here with a very clean problem — brutal inner critic, need technique, fix it — and now I'm sitting here saying maybe I'm protecting it. Which is not what I expected to say.\n\n*(shifts, slight defensiveness returning)*\n\nI mean, I've heard the IFS framing, that the critic is a protective part, it's trying to help, it just has bad strategies. I know that framing. But knowing it and... \n\n*(trails off)*\n\nIt's different when it's not abstract. When it's like — no, genuinely, I think I need this thing. I think I've been running on it for twenty years. And the idea of it being quiet is actually scarier than the idea of it being loud.\n\n*(small, genuine laugh — different quality than before)*\n\nWhich is a very inconvenient thing to realize when you've spent twenty years trying to make it shut up.\n\n*(quieter)*\n\nSo what do you do with that? When the thing you want to get rid of is also the thing you're afraid to lose?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t1",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-inner-critic-001:t2",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 59
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t2",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 7482,
+      "output_tokens": 49,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0241533,
+      "ms": 3025
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t3",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 169,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1570,
+      "cost_usd": 0.0083745,
+      "ms": 4584
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-inner-critic-001:t4",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 95
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t4",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 11746,
+      "output_tokens": 41,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 7528,
+      "cost_usd": 0.0650553,
+      "ms": 2583
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t5",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 176,
+      "output_tokens": 191,
+      "cache_read_input_tokens": 1570,
+      "cache_creation_input_tokens": 166,
+      "cost_usd": 0.0044865,
+      "ms": 5708
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-inner-critic-001:t6",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 154
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t6",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 24014,
+      "output_tokens": 73,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 7528,
+      "cost_usd": 0.1023393,
+      "ms": 3330
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t7",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 308,
+      "output_tokens": 194,
+      "cache_read_input_tokens": 1868,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0043944,
+      "ms": 6013
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-inner-critic-001:t8",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 138
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t8",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 21201,
+      "output_tokens": 59,
+      "cache_read_input_tokens": 10720,
+      "cache_creation_input_tokens": 11833,
+      "cost_usd": 0.11207775,
+      "ms": 2998
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t9",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 329,
+      "output_tokens": 212,
+      "cache_read_input_tokens": 1868,
+      "cache_creation_input_tokens": 232,
+      "cost_usd": 0.005597400000000001,
+      "ms": 6537
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-inner-critic-001:t10",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 148
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t10",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 19118,
+      "output_tokens": 51,
+      "cache_read_input_tokens": 22512,
+      "cache_creation_input_tokens": 12341,
+      "cost_usd": 0.11115135000000001,
+      "ms": 3408
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t11",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 325,
+      "output_tokens": 181,
+      "cache_read_input_tokens": 1909,
+      "cache_creation_input_tokens": 458,
+      "cost_usd": 0.0059802,
+      "ms": 5507
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-inner-critic-001:t12",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 129
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t12",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 20574,
+      "output_tokens": 94,
+      "cache_read_input_tokens": 34780,
+      "cache_creation_input_tokens": 9030,
+      "cost_usd": 0.10742849999999998,
+      "ms": 3707
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t13",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 329,
+      "output_tokens": 231,
+      "cache_read_input_tokens": 2173,
+      "cache_creation_input_tokens": 465,
+      "cost_usd": 0.00684765,
+      "ms": 6744
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-resistance-inner-critic-001:t14",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 165
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t14",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 19968,
+      "output_tokens": 47,
+      "cache_read_input_tokens": 43751,
+      "cache_creation_input_tokens": 10268,
+      "cost_usd": 0.1122393,
+      "ms": 2685
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t15",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 375,
+      "output_tokens": 255,
+      "cache_read_input_tokens": 2426,
+      "cache_creation_input_tokens": 444,
+      "cost_usd": 0.007342799999999999,
+      "ms": 8296
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*(exhales sharply, tight smile)*\n\nMy inner critic is brutal. I've done the meditation, the therapy, the journaling, the affirmations — I've genuinely tried everything — and I just... I want it to shut up. Is there actually a technique that works, or is that just not a thing?",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 59,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/my-inner-critic-wont-stop",
+            "title": "My inner critic won't stop / The voice in my head is constant",
+            "bm25_rank": 4,
+            "dense_rank": 1,
+            "bm25_score": 28.17615825382893,
+            "dense_score": 0.7719937766756848,
+            "rrf_score": 0.032018442622950824
+          },
+          {
+            "file_id": "moves/apply-view-to-the-voice",
+            "title": "Apply VIEW to the Voice",
+            "bm25_rank": 11,
+            "dense_rank": 2,
+            "bm25_score": 18.41255113957282,
+            "dense_score": 0.7413159169064382,
+            "rrf_score": 0.03021353930031804
+          },
+          {
+            "file_id": "moves/excavating-the-inner-critic-in-group",
+            "title": "Excavating the Inner Critic in Group",
+            "bm25_rank": 10,
+            "dense_rank": 3,
+            "bm25_score": 18.872931154222847,
+            "dense_score": 0.7348254686007585,
+            "rrf_score": 0.030158730158730156
+          },
+          {
+            "file_id": "practices/tell-yourself-you-love-yourself-in-a-mirror",
+            "title": "Tell Yourself You Love Yourself in a Mirror (and Listen to the Response)",
+            "bm25_rank": 18,
+            "dense_rank": 6,
+            "bm25_score": 17.236508145483917,
+            "dense_score": 0.7006376519533756,
+            "rrf_score": 0.027972027972027972
+          },
+          {
+            "file_id": "reads/listlessness-after-awakening",
+            "title": "Listlessness After Awakening",
+            "bm25_rank": 6,
+            "dense_rank": 21,
+            "bm25_score": 24.03210265692922,
+            "dense_score": 0.681622118928045,
+            "rrf_score": 0.02749719416386083
+          }
+        ],
+        "profile_id": "client-resistance-inner-critic-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 59
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*(short laugh, slightly bitter)*\n\nOh, it has a field day with that. It's like — \"you can't even do *self-improvement* right.\" Which is... yeah. Very on brand. I've read the books, I know about the negativity bias, I understand the neuroscience of self-criticism, I can explain polyvagal theory to you, and yet here I am. Which the voice then uses as evidence. \"You know better and you're still like this.\" \n\n*(gestures vaguely)*\n\nIt's a very efficient system, actually. Very thorough.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 95,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "distinctions/improvement-vs-authenticity",
+            "title": "Improvement vs. Authenticity",
+            "bm25_rank": 3,
+            "dense_rank": 1,
+            "bm25_score": 42.96295772550375,
+            "dense_score": 0.7139145661014961,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "concepts/intelligence-amplifies-self-criticism",
+            "title": "Intelligence Amplifies Self-Criticism",
+            "bm25_rank": 1,
+            "dense_rank": 8,
+            "bm25_score": 47.39325399140788,
+            "dense_score": 0.7022326978790797,
+            "rrf_score": 0.031099324975891997
+          },
+          {
+            "file_id": "concerns/i-need-to-improve-myself",
+            "title": "I need to improve myself",
+            "bm25_rank": 8,
+            "dense_rank": 2,
+            "bm25_score": 32.89849275304769,
+            "dense_score": 0.7092797939141933,
+            "rrf_score": 0.030834914611005692
+          },
+          {
+            "file_id": "moves/agree-when-challenged-on-the-teaching",
+            "title": "Agree When Challenged on the Teaching",
+            "bm25_rank": 9,
+            "dense_rank": 3,
+            "bm25_score": 32.44249308854382,
+            "dense_score": 0.7087735965389275,
+            "rrf_score": 0.03036576949620428
+          },
+          {
+            "file_id": "concerns/i-have-to-do-it-all-myself",
+            "title": "I have to do it all myself / I can't depend on others",
+            "bm25_rank": 14,
+            "dense_rank": 19,
+            "bm25_score": 27.566212097709787,
+            "dense_score": 0.6836550102591196,
+            "rrf_score": 0.026171741361614778
+          }
+        ],
+        "profile_id": "client-resistance-inner-critic-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 95
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*(pauses, tilts head slightly)*\n\nExhausting. It's just... exhausting. Like I'm running a really sophisticated piece of software that's completely optimized for making me feel terrible. And I built it, which is the fun part.\n\n*(shifts in seat)*\n\nI mean, I know what you're going to say — that noticing it creates some distance, that the observer self is separate from the voice, all of that. I've done the parts work, I've done IFS, I know about the inner critic as a protective part. I get it intelle",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 154,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 3,
+            "dense_rank": 1,
+            "bm25_score": 78.37546341790039,
+            "dense_score": 0.7498002790296988,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "principles/voice-creates-what-it-fears",
+            "title": "The Voice in the Head Creates the Reality It's Trying to Avoid",
+            "bm25_rank": 1,
+            "dense_rank": 8,
+            "bm25_score": 81.79756144765993,
+            "dense_score": 0.7053029590986329,
+            "rrf_score": 0.031099324975891997
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 6,
+            "dense_rank": 11,
+            "bm25_score": 60.80027190231634,
+            "dense_score": 0.6996726211159591,
+            "rrf_score": 0.029236022193768675
+          },
+          {
+            "file_id": "concerns/my-inner-critic-wont-stop",
+            "title": "My inner critic won't stop / The voice in my head is constant",
+            "bm25_rank": 17,
+            "dense_rank": 3,
+            "bm25_score": 45.175053368114376,
+            "dense_score": 0.7314572083931967,
+            "rrf_score": 0.02886002886002886
+          },
+          {
+            "file_id": "concepts/voice-in-the-head",
+            "title": "The Voice in the Head",
+            "bm25_rank": 16,
+            "dense_rank": 6,
+            "bm25_score": 46.40295245471067,
+            "dense_score": 0.7068273324192063,
+            "rrf_score": 0.028309409888357256
+          }
+        ],
+        "profile_id": "client-resistance-inner-critic-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 154
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*(slight defensive shift)*\n\nI mean... I've tried acceptance. That's a thing, right? Radical acceptance, defusion — the ACT stuff where you just observe the thought and don't engage with it. \"I notice I'm having the thought that I'm worthless.\" I did that for months. The voice just narrated the whole exercise. \"Oh, you're defusing now, how very evolved of you.\"\n\n*(small laugh, but it doesn't quite land)*\n\nSo I'm not sure \"stop trying to win\" is as simple as it sounds. Because the moment I try to ",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 138,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 4,
+            "dense_rank": 4,
+            "bm25_score": 66.50075176014035,
+            "dense_score": 0.7600265147233844,
+            "rrf_score": 0.03125
+          },
+          {
+            "file_id": "reads/trying-to-get-rid-of-the-emotion",
+            "title": "Trying to Get Rid of the Emotion",
+            "bm25_rank": 8,
+            "dense_rank": 1,
+            "bm25_score": 57.697606062190985,
+            "dense_score": 0.7821849353992857,
+            "rrf_score": 0.031099324975891997
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 11,
+            "dense_rank": 11,
+            "bm25_score": 55.21956346776834,
+            "dense_score": 0.7418862589583245,
+            "rrf_score": 0.028169014084507043
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 13,
+            "dense_rank": 12,
+            "bm25_score": 54.88252248273815,
+            "dense_score": 0.7411683393873819,
+            "rrf_score": 0.02758751902587519
+          },
+          {
+            "file_id": "concepts/trappedness-feeling",
+            "title": "The Felt Trappedness Beneath Anger",
+            "bm25_rank": 25,
+            "dense_rank": 6,
+            "bm25_score": 47.18299094084006,
+            "dense_score": 0.7555067213719815,
+            "rrf_score": 0.026916221033868093
+          }
+        ],
+        "profile_id": "client-resistance-inner-critic-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 138
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*(brief silence, slightly caught off guard)*\n\nMy... *(pauses, seems to actually check)* ...shoulders are up around my ears. There's this kind of bracing, like I'm waiting for something to land on me. And my jaw is tight.\n\n*(quieter, slightly less performative)*\n\nIt's actually kind of constant, I think. I don't notice it until someone asks. Which is — I mean, that's probably significant, right? That I'm just walking around like this all the time and it's become the baseline.\n\n*(catches themselves",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 148,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 1,
+            "dense_rank": 2,
+            "bm25_score": 90.6927206112207,
+            "dense_score": 0.7409682278625224,
+            "rrf_score": 0.03252247488101534
+          },
+          {
+            "file_id": "concerns/my-inner-critic-wont-stop",
+            "title": "My inner critic won't stop / The voice in my head is constant",
+            "bm25_rank": 3,
+            "dense_rank": 1,
+            "bm25_score": 81.9192736905576,
+            "dense_score": 0.7491710333976732,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 2,
+            "dense_rank": 4,
+            "bm25_score": 87.31506790838307,
+            "dense_score": 0.7260731822553783,
+            "rrf_score": 0.031754032258064516
+          },
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 6,
+            "dense_rank": 19,
+            "bm25_score": 68.90304944387562,
+            "dense_score": 0.7066213709025122,
+            "rrf_score": 0.027809742999616416
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 14,
+            "dense_rank": 14,
+            "bm25_score": 60.729602190979165,
+            "dense_score": 0.7088200754404276,
+            "rrf_score": 0.02702702702702703
+          }
+        ],
+        "profile_id": "client-resistance-inner-critic-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 148
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*(another pause, longer this time)*\n\n*(quietly)*\n\nThey're... still up. But it's different when I'm not — \n\n*(stops)*\n\nHuh. There's something slightly less... clenched about it. Not fixed. Still there. But I'm not adding the layer of \"your shoulders are wrong, correct your shoulders.\"\n\n*(looks slightly uncertain, like they're not sure whether to trust this)*\n\nAlthough now I'm wondering if I'm just doing a body scan technique and calling it something else. Is this just — is this somatic work? Beca",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 129,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 1,
+            "dense_rank": 9,
+            "bm25_score": 81.79406674011159,
+            "dense_score": 0.7443156619602793,
+            "rrf_score": 0.030886196246139225
+          },
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 3,
+            "dense_rank": 12,
+            "bm25_score": 69.97639592562888,
+            "dense_score": 0.7410680737025525,
+            "rrf_score": 0.02976190476190476
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 17,
+            "dense_rank": 6,
+            "bm25_score": 46.7336147859292,
+            "dense_score": 0.7528364766926284,
+            "rrf_score": 0.02813852813852814
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 4,
+            "dense_rank": 21,
+            "bm25_score": 67.72057058401076,
+            "dense_score": 0.7290178890275566,
+            "rrf_score": 0.02797067901234568
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 8,
+            "dense_rank": 16,
+            "bm25_score": 62.8783783893925,
+            "dense_score": 0.7367549353457424,
+            "rrf_score": 0.02786377708978328
+          }
+        ],
+        "profile_id": "client-resistance-inner-critic-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 129
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*(sits with that for a moment, something flickering across their face)*\n\nSo you're saying the problem isn't the voice. It's the... fighting it. The layer on top.\n\n*(immediately)*\n\nBut I can't just — I mean, the voice is still saying things. It's not like if I stop fighting it, it goes quiet. It's still there, still running commentary. \"You're lazy, you're behind, you're not living up to your potential.\" That doesn't just evaporate because I stop arguing back.\n\n*(pause, slightly more honest)*\n\nAn",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 165,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "moves/agree-with-the-depression-dont-talk-them-out",
+            "title": "Agree With the Depression -- Don't Try to Talk Them Out of It",
+            "bm25_rank": 1,
+            "dense_rank": 3,
+            "bm25_score": 92.06645022874523,
+            "dense_score": 0.7381351368891405,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "principles/voice-creates-what-it-fears",
+            "title": "The Voice in the Head Creates the Reality It's Trying to Avoid",
+            "bm25_rank": 2,
+            "dense_rank": 6,
+            "bm25_score": 88.58847204253676,
+            "dense_score": 0.7277113664861291,
+            "rrf_score": 0.03128054740957967
+          },
+          {
+            "file_id": "concerns/my-inner-critic-wont-stop",
+            "title": "My inner critic won't stop / The voice in my head is constant",
+            "bm25_rank": 11,
+            "dense_rank": 1,
+            "bm25_score": 67.95059973143698,
+            "dense_score": 0.7567300052169753,
+            "rrf_score": 0.03047794966520434
+          },
+          {
+            "file_id": "anti-patterns/dont-fight-identity",
+            "title": "Don't Fight Identity (or Ego) -- It Only Makes It Stick Harder",
+            "bm25_rank": 13,
+            "dense_rank": 15,
+            "bm25_score": 63.09716814884173,
+            "dense_score": 0.7082278174357167,
+            "rrf_score": 0.027031963470319637
+          },
+          {
+            "file_id": "anti-patterns/dont-fight-the-voice",
+            "title": "Don't Use the Voice to Silence the Voice",
+            "bm25_rank": 31,
+            "dense_rank": 10,
+            "bm25_score": 50.73533178572243,
+            "dense_score": 0.7164026304482572,
+            "rrf_score": 0.025274725274725275
+          }
+        ],
+        "profile_id": "client-resistance-inner-critic-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 165
+    }
+  ]
+}

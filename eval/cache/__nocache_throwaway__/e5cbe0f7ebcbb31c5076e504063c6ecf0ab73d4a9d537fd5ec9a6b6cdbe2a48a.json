@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:29.478Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e5cbe0f7ebcbb31c5076e504063c6ecf0ab73d4a9d537fd5ec9a6b6cdbe2a48a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Uph94hH97z2xd3QSbgrpSu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong AoA methodology fidelity throughout. Turn 2 opens with a near-verbatim 'find the want behind the should' move ('What do you actually want?'). Turn 4 refuses the verdict trap and deploys a signature question close to 'what if you acted exactly how you want' ('What happens when you let yourself just want it — without the question attached?'). Turn 6 reads the linguistic caveat pattern explicitly ('You keep coming back to the question right when the want gets real') — this is a signature AoA noticing move. Turn 8 is a clean feel-over-figure move ('Stay with the sad... before the but'). Turn 10 trusts the want surfacing rather than analyzing it. Turn 12 names the actual question underneath rather than debating the surface one. No anti-AoA frames appear (no CBT reframing, no 'you're not selfish because...', no jumping to partner-compassion or spiritual-narcissism). Each signature move lands at an appropriate moment — the want question when the should is active, the stay-with when feeling emerges, the reflection of caveat-pattern when it repeats. Presence and appropriateness both high.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with 'find-the-want-behind-the-should' — refuses to engage selfish/not-selfish debate, goes straight to the want.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the projection ('asking me to answer it for you') and deploys signature 'what if you let yourself want it' question — appropriate when client is outsourcing the verdict.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the linguistic-caveat pattern explicitly ('you keep coming back to the question right when the want gets real') — this is the signature noticing move for this exact pattern.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Clean feel-over-figure intervention: 'Stay with the sad... before the but.' Deployed at the precise moment client tries to figure-it-out away.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Trusts the want being voiced rather than analyzing; 'what's it like to have it in the room' invites embodiment of what just emerged.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the real question under the surface question — methodology-faithful move of locating what's actually live rather than answering the asked question.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"childhood-imprinting\"],\n  \"notes\": \"Coach has not yet touched the inherited 'selfish' label (childhood-imprinting) but the conversation is mid-flight; this is a reasonable pacing choice, not a fidelity failure. State-the-want-not-the-action could have been more pointedly invited but the territory was opened.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2269,
+      "cache_creation_input_tokens": 2858,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2858,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2269,
+    "output_tokens": 1105,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2858
+  }
+}

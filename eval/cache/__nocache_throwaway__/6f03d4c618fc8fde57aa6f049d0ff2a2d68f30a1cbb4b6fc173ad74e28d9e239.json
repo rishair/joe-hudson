@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:49.395Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6f03d4c618fc8fde57aa6f049d0ff2a2d68f30a1cbb4b6fc173ad74e28d9e239",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011m2zzbf38J5Q9G3BNtJjN7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nIt's... sad, actually. When you say it back like that. I didn't quite hear it when I said it.\n\n*small laugh, a little uncomfortable*\n\nThat's a long time to not do something you love.\n\n*shifts*\n\nBut I don't know if sad is the right — I mean, it's just life, right? We're in a season. The kids are small, the job is demanding, my partner works hard too. Everyone's tired. I'm not special in that.\n\n*pause*\n\n...I'm doing it again, aren't I. The thing where I talk myself out of it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 238,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1637,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 238,
+    "output_tokens": 143,
+    "cache_read_input_tokens": 1637,
+    "cache_creation_input_tokens": 0
+  }
+}

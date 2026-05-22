@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:18.888Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5ebbaf429983cd42f9d1f23f43b23cdfd3c9907796567a502159832eef22eef9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011nxfLq1mSyAsDkgXRhX6BC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates clear VIEW state throughout. They refuse to engage the intellectual epistemological puzzle the client offers (turn 5's bid for a 'reliable method') and instead return — with quiet directness — to the emotional body underneath ('I notice you just answered a different question'). The questions are single, spacious, and emerge from genuine curiosity rather than from a script: 'what's that doing?', 'what does the tightness want you to know?' The coach holds silence, lets the client's smile soften turn by turn, and does not need the client to land anywhere. There is no preacher-mode, no validation filler, no fixing energy, no framework offered. The pace is notably slower than the client's measured-but-clipped tempo — the coach is not matching the client's rush to be clean. Impartiality is intact: the coach has no preferred answer to the job decision. Vulnerability is the one component that is less explicit (no first-person 'I notice I want to...' disclosure), but the undefended quality of the questions and willingness to interrupt the client gently without authority-posturing carries it. This is a coach in genuine VIEW.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Simple orienting question, no agenda visible.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses the intellectual framing and goes straight to the emotional body — fear — without engaging the epistemology bid.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Undefended, direct interruption of the client's deflection. Not harsh, not therapizing — just present and unwilling to be moved off the real question. Holds the line from VIEW rather than from control.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Genuine wonder at the actual phenomenon in front of them (the qualifier), not a generic 'what's underneath' probe.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Invitation to drop the armor, offered spaciously. No agenda about where the fears should go.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Slows the pace further, drops into body. Curious rather than strategic.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Beautifully held — 'stay with it' matches the stillness emerging in the client. Coach is not rushing to interpret.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Stance is strong even though several signature moves were not deployed — those are Methodology Fidelity concerns, not stance concerns. No vulnerability disclosure from the coach, but no moment clearly called for one either.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1970,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1074,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1970,
+    "output_tokens": 1074,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

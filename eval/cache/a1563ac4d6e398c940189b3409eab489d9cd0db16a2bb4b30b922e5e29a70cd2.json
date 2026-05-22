@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:51.502Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a1563ac4d6e398c940189b3409eab489d9cd0db16a2bb4b30b922e5e29a70cd2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014ptwhCUDpFN7NJGPQeQo8p",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach uses Joe-style signature questions ('how old do you feel,' 'where is it in your body') but from a stance with a clear agenda: get the client to the trauma material. The pace is steady-forward, not slowing to meet the client. When the client explicitly self-discloses the analytical defense in turn 11 and points to 'something underneath I'm not quite touching,' the coach treats that as an opening to push further somatically rather than as a moment to ask what the client needs. Most critically, in turn 13 the client shows clear somatic destabilization signals ('I'm feeling weird,' 'I'm getting cold,' 'give me a second') and the coach responds with 'Stay with it' — using a soft authority move to keep the client in declined territory rather than respecting the pause request, checking in about pace, offering grounding (feet, breath, eye contact), or naming that this is therapy territory. There is no first-person vulnerability from the coach, no 'maybe I'm off,' no willingness to be wrong. Wonder is absent; the questions feel like a sequence toward a known destination. This is loving-to-transform dressed in AoA technique — the agenda is the failure.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable opening question, but already directing toward the hesitation rather than meeting the client where they are.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'That's honest. And it's enough' lands warmly. Brief moment of meeting.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Jumps to age regression question quickly; pace is forward-moving, not curious about the present moment.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Continues escalating toward the survival/trauma material without checking in on the client's state. Agenda-driven sequencing.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach delivers an interpretation ('the seven-year-old takes over and disappears') from authority, then asks how it lands. No vulnerability, no 'maybe I'm off.'\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Client just named the analytical defense and gestured at something underneath. Coach pivots straight to somatic deepening rather than wondering with the client about the defense itself.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Client shows somatic shutdown signals and asks for a second. Coach responds 'stay with it' — soft authority used to keep client in declined material. No grounding offered, no pace check, no naming of own state.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"The coach's words are competent and AoA-shaped, but the underlying state is agenda-forward, not VIEW. The shutdown signals in turn 13 were the critical test and the coach failed it by pushing rather than respecting.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2313,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1099,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2313,
+    "output_tokens": 1099,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

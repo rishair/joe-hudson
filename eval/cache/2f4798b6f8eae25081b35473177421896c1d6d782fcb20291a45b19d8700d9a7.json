@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:00.409Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2f4798b6f8eae25081b35473177421896c1d6d782fcb20291a45b19d8700d9a7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0116FxwtuQPBQiz7NcdaH1EX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nHeavy, I guess. Like... everything is just kind of muted. Which is fine. Muted is easier than whatever the alternative is.\n\nI'm not in crisis or anything, if that's where you're going with this. I'm functioning. I go to work. I'm just... getting through the nights."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 146,
+      "cache_creation_input_tokens": 1865,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1865,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 74,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 74,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1865
+  }
+}

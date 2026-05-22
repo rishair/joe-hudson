@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:21.182Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f9b6e201375b9c875bb883a262e2c1950ef2132606f1a7eb00d3644113a43f16",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YNhc6WmtSbu9Y5VnbCbkfC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You said \"to not be invisible\" and then you pulled back.\n\nWhat happened in that moment?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17842,
+      "cache_creation_input_tokens": 11558,
+      "cache_read_input_tokens": 13058,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11558,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17842,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 13058,
+    "cache_creation_input_tokens": 11558
+  }
+}

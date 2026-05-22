@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:12.500Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a4626d4526b578f7c31a92878414529c846d5db0bf67e927ad6931f7d1cfd6dd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YHjg8zqCSrFDSaooadrG29",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That want — for it to just stop — makes complete sense.\n\nAnd I'm curious about something underneath the question. You've tried everything, and it hasn't worked. What has the critic been saying about *that*?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7482,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7482,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

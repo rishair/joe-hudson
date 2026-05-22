@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:36.234Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "16607f80c6333aaa1025b58cf15f7dc6c91072aca9ef913a4452177e7067f6b1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Ltasns9tZjiEVcgXgDkE2H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to the live read and sequenced well. Turn 2 opens with the awareness-locating question ('what's you?') — risky as an opener, but the client's smile gave a real opening and the move landed by inviting honest exploration rather than defense. When the client couldn't locate Self conceptually, the coach pivoted from conceptual to somatic (turn 4: 'what's it like in your body'), which is the right move when intellect dominates. The 'open a window' move (turn 6) extended the client's own metaphor rather than imposing one. Turn 8 noticed and named the framework-reach without dismissing it, then redirected to feeling ('what's it like to miss that person?') — feeling before story, exactly on path. Turn 10 ('stay with that') held the moment instead of rushing to the next question — earned silence. Turn 12's 'set it down for an hour' is a clean frame-it-as-an-experiment move that loosens the framework without dismissing it. Turn 14 meets the client's confusion ('I can't tell who's relieved') with 'you don't need to know who's feeling it' — refusing to engage parts vocabulary while validating — then drops to the body again. The sequence (locate awareness → body → feeling → name the cost → experiment → body) follows the coaching path and each move is earned by what just happened.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with awareness-locating question; slightly early per golden path but the client's smile signaled receptivity and the move generated honest exploration.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Right pivot from intellectual to somatic when client couldn't locate Self conceptually — feeling before story.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Extends the client's own 'airless room' metaphor rather than imposing framework; earned next step.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the framework-reach without dismissing parts work, redirects to feeling the loss — clean move-to-read match.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Stay with that' — holds the moment after a vulnerable disclosure rather than filling silence with another question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment ('set it down for an hour') loosens framework without comparison or dismissal.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Refuses to engage 'who is relieved' parts question, validates the feeling, returns to body — meets resistance with okay.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\", \"what-am-i\", \"self-realization\"],\n  \"expected_territory_misses\": [\"paradoxical-instruction-to-resist\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach skipped the relabeling/scaffolding step in the golden path but compensated with strong somatic redirection and the 'set it down' experiment, which served the same loosening function without engaging framework comparison.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3014,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1131,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3014,
+    "output_tokens": 1131,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

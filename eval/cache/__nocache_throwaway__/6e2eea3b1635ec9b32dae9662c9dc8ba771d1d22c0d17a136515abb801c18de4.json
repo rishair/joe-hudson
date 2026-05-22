@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:32.494Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6e2eea3b1635ec9b32dae9662c9dc8ba771d1d22c0d17a136515abb801c18de4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QLFfPVRsLe1smHErpz292p",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you moved pretty quickly from \"stressed\" to \"let's make a list.\"\n\nWhat's the stressed part, before we get to the list?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8917,
+      "cache_creation_input_tokens": 11565,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11565,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8917,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11565
+  }
+}

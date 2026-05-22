@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:22.726Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "20155b3e3d8f7a4b3ac389293330e7d233901804a3cbd99ea0d5f62c684ec9ab",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NaayVmfZxqtPJ5c1Mt1j1D",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I have a board call. And my co-founder is going to be on it. And we haven't aligned on the narrative yet, which means we could contradict each other in front of investors. That's a real problem with a real deadline.\n\nSo yes — I need to know how to handle the next 48 hours, not how I feel about the fact that a friendship might be ending."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 127,
+      "cache_creation_input_tokens": 254,
+      "cache_read_input_tokens": 1846,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 254,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 86,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 127,
+    "output_tokens": 86,
+    "cache_read_input_tokens": 1846,
+    "cache_creation_input_tokens": 254
+  }
+}

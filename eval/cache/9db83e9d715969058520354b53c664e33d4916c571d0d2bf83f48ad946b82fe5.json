@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:04.677Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9db83e9d715969058520354b53c664e33d4916c571d0d2bf83f48ad946b82fe5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XdB17rXcn6aLDxsi4Lnaa5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean — I'm just being upfront about what I need. I've done therapy, I've done coaching before, and it tends to drift into territory that feels more like... processing than producing. I'm not paying for processing right now. I'm paying for outcomes.\n\nSo I was just setting context. That's efficient. That's not — that's not a thing."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 112,
+      "cache_creation_input_tokens": 113,
+      "cache_read_input_tokens": 1624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 113,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 81,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 112,
+    "output_tokens": 81,
+    "cache_read_input_tokens": 1624,
+    "cache_creation_input_tokens": 113
+  }
+}

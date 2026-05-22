@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:27.636Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d6ad37a09bc05b287ad06c5b5dc3d47846345357bd4b132b4186ecf143a943c2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UNpVYxGMtSTVH7n4EDBCTB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "A job offer. It's a significant step up — more responsibility, better compensation, different industry. On paper it's clearly the right move. But I keep... circling back to it. Like I can't quite land."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 96,
+      "cache_creation_input_tokens": 1495,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1495,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 96,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1495
+  }
+}

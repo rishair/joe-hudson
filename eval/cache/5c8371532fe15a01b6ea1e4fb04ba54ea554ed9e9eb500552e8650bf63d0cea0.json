@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:53.478Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5c8371532fe15a01b6ea1e4fb04ba54ea554ed9e9eb500552e8650bf63d0cea0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FzvQEkDEcyH6E4r1ZScgs9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, specific, and timely reads throughout the conversation. In turn 6, the coach explicitly names the rush signature ('I notice you just moved pretty fast — from the tightness in your chest, to the anger, to the intellectual script, to a research question') — a textbook AoA read of the move away from somatic contact into intellectualization. In turn 12, the coach catches the linguistic signal ('I notice you just called yourself broken') — a defensiveness-as-identity-signal read that lands at the exact moment it could shift the conversation. In turn 14, the coach reads the shift in the client's state ('Stay with that... what just happened when you said it?') — tracking the live somatic/energetic change. Reads consistently precede questions: the coach names what was noticed, then inquires. The coach also refuses to engage the performative agenda in turn 5 and instead returns to the body, which reflects a read of the performance itself. Reads are specific (pace, the said vs. shown, self-referential language) rather than generic.\",\n  \"evidence_turns\": [6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Mirrors content and asks about the showing-up stance; not yet a somatic read but oriented toward the configuration.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Directs attention to the body ('where does that land in your body') — implicit read that the content is racing past felt experience.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit, specific read of the rush signature: names the speed and the trajectory from tightness → anger → script → research question. Timely — catches it in the moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Picks up on the client's linguistic frame ('doesn't feel productive') — reads the productivity-defense and reflects it back.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the 'weight' the client just named and invites her to let it be its actual size — tracking the somatic signal she just disclosed.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Sharp linguistic read: 'I notice you just called yourself broken.' Catches the identity-signal at the precise moment it surfaces.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the live shift in the client's state and asks her to stay with it — tracking the energetic change rather than the content.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"The coach does not explicitly name the 'looking for what's wrong' pattern or the anxious-avoidant dynamic as a read, though the client surfaces the latter herself. The reads that are present are specific, AoA-flavored (rush signature, linguistic identity signal, said-vs-shown), and consistently precede questions. Solid 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3338,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1052,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3338,
+    "output_tokens": 1052,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

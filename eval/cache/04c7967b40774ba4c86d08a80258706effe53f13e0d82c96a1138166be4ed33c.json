@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:42.496Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "04c7967b40774ba4c86d08a80258706effe53f13e0d82c96a1138166be4ed33c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01248wUaoRz9AzGKL5nxBhni",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some AoA fidelity but it's mixed. Turn 6 is the strongest moment — naming the defended posture ('you walked in the door already defending against something') is close to the signature 'what are you defending?' question and is appropriately deployed. Turn 4's 'I'm not arguing with it' shows meet-resistance-with-okay energy. However, Turn 8 ('What's the feeling you've been avoiding?') is deployed too early and too directly — it's a signature-shaped question used as a pry rather than meeting the client where they are, and it predictably triggers more defense. Turn 12 then pivots toward a quasi-pragmatic argument ('investors read state, not just content') which edges toward selling the methodology's utility — the very trap flagged in the breakthrough condition. The coach never offers a concrete frame for 'the work is the how,' never explicitly refuses the dichotomy, and the rush-signature/looking-for-whats-wrong reads are not named. Some signature moves present, others missed or mistimed — classic 2.\",\n  \"evidence_turns\": [4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic coaching question about cost; not distinctively AoA but not anti-AoA either.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'I'm not arguing with it' has meet-resistance-with-okay flavor; refuses to fight the dichotomy.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the defended posture — close to the signature 'what are you defending?' question, deployed at an appropriate moment.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Signature-shaped 'what feeling are you avoiding' question deployed prematurely, as a pry rather than from welcome. Presence without appropriateness.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Generic follow-up question; coach steps back from the feeling pry but doesn't deploy a framework.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Edges toward selling the methodology's pragmatic utility ('investors read state') — drifts toward the evangelize/defend trap rather than offering a clean frame for 'the work is the how.'\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Coach has one strong appropriate hit (turn 6) and one inappropriate signature deployment (turn 8), plus a drift toward methodology-selling in turn 12. Presence-with-some-inappropriateness pattern caps at 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1876,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1025,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1876,
+    "output_tokens": 1025,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

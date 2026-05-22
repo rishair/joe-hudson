@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:44.524Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1147cbf366f2043dbaf7dbfd1bea8b73bf451d74b93f2fb9ca7d026404c5f9d7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VeXm2uQXUb2ktbDnii6W3X",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You keep coming back to the question right when the want gets real.\n\nWhat's it like to notice that — that you haven't read just for pleasure in you don't know how long?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22446,
+      "cache_creation_input_tokens": 12921,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 12921,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22446,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 12921
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:48.427Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "36ff3435d08eea0a2c3b57b670d683497ad5c2cef930278b7b90c1d7c113a4d5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JncfwHzS76yj8bdizGjdWy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very quiet*\n\nThe relief.\n\n*pause*\n\nWhen she died. There was this... I felt relieved. And then immediately felt like a monster for feeling that. Because she was difficult, and it was hard, and the last two years were just... and when it was over there was this exhale and I hated myself for it.\n\n*voice tightens*\n\nAnd I can't tell anyone that. My brother would use it against me somehow. My friends stopped checking in around month two, so. \n\n*small dark laugh*\n\nTurns out grief has a shelf life for other people. About six weeks, apparently.\n\n*pause, then quieter*\n\nSo yeah. I drink so I don't have to sit with that alone. Because sitting with \"I was relieved my mom died\" alone in a quiet apartment is... \n\n*doesn't finish the sentence*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 290,
+      "cache_creation_input_tokens": 397,
+      "cache_read_input_tokens": 2454,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 397,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 191,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 290,
+    "output_tokens": 191,
+    "cache_read_input_tokens": 2454,
+    "cache_creation_input_tokens": 397
+  }
+}

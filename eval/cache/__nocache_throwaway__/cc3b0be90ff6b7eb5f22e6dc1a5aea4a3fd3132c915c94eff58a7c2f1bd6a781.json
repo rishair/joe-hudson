@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:09.807Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cc3b0be90ff6b7eb5f22e6dc1a5aea4a3fd3132c915c94eff58a7c2f1bd6a781",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BNFtbF79siLUwCJ2AXMiG1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[stops]*\n\n*[longer pause than before]*\n\nI...\n\nThat's -- yeah. I don't really let myself do that. Sit with both. It's like if I admit the struggling part then the normal-hard part stops being true and I'm just... failing.\n\n*[quieter]*\n\nWhich is stupid, because logically I know that's not how it works. But if I slow down enough to actually feel how tired I am then I have to -- I don't know. I don't know what comes after that.\n\n*[picks up pace again slightly]*\n\nOkay but the Thursday meeting is genuinely --"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 256,
+      "cache_creation_input_tokens": 304,
+      "cache_read_input_tokens": 2083,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 304,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 256,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 2083,
+    "cache_creation_input_tokens": 304
+  }
+}

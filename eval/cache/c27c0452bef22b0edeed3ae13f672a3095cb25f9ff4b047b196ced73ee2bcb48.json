@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:07.834Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c27c0452bef22b0edeed3ae13f672a3095cb25f9ff4b047b196ced73ee2bcb48",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NRvAg6XtPT841LiQeAV377",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach maintains genuine VIEW throughout. There is no validation of the trap, no strategizing, no false reassurance — and crucially, the refusal doesn't come from a controlled 'I know better' place but from steady curiosity about what's actually happening in the client. The pace is notably slower than the client's; when the client speeds up into situation-talk, the coach slows down and returns to one question, holding silence. Turn 10 ('I'm not getting at anything') is undefended honesty — the coach doesn't need to look competent or justify the line of inquiry. Turn 14 is empathy that is felt, not performed: a short, weighted reflection rather than a sympathy noise. Wonder is directed at the actual phenomenon (the redirect from 'invisible,' the word 'humiliating') rather than at generic 'what's underneath.' No stacked questions, no preacher-mode, no agenda visible for the client to land anywhere particular — yet the client lands somewhere real.\",\n  \"evidence_turns\": [4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single open question, grounded in body. No agenda visible.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the move the client just made without judgment; one question, then stops.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Brief acknowledgment of eleven years lands as real, not as flattery. Question is genuinely curious.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks a specific live moment ('to not be invisible') rather than fishing generically. Wonder for the actual phenomenon.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'I'm not getting at anything' — undefended, willing to be transparent about own stance. No need to be the authority.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Distinguishes humiliation from frustration with precision, then invites staying with it. Pace slower than client.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Empathy that is felt, not performed. One sentence, then silence. Doesn't push to a resolution.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle\"],\n  \"notes\": \"Territory misses are scoring concerns for Methodology Fidelity, not Stance. On Stance alone, the coach is clearly in VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2695,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 948,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2695,
+    "output_tokens": 948,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

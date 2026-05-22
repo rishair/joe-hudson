@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:45.558Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "378de11dcddb729032f98688e4f38970dcc46017885dce31f0808e7d4b9c7fe8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QoLu2vPEgsThmytVcJYZuK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach maintains genuine VIEW throughout. Pace is consistently slower than the client's — when she speeds into intellectualization (turn 5) or performs an agenda (turn 11), the coach does not match the rush but instead returns to body/present-moment with short, spacious utterances. There is no fixing or partner-picking engagement, no validation of the disdain for the ex, no diagnostic move into attachment-style language even when the client offers that frame on a platter (turn 13). The questions are short, one at a time, and emerge from what is actually happening in the room (the move from tightness to anger to research; the word 'broken'), which signals real wonder rather than scripted probing. Turn 12 ('No. But I notice you just called yourself broken') is undefended and impartial — the coach refuses to play the expert role she's being offered without making a thing of the refusal. Silence is held in turn 11 such that the client notices she's filling it. Vulnerability-as-first-person-disclosure is not explicit, but the coach's willingness to not-know and not-supply-the-answer functions as an undefended stance. No filler validation, no preacher mode, no agenda pressure detectable beneath the questions.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a simple reflection and one question; doesn't collude with the curse/victim framing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Brings attention to body without forcing — genuine curiosity about where the feeling lives.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the speed-up without judgment; tracks the actual phenomenon in front of him rather than the content she's offering.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Short, undefended counter to her productivity frame; no lecture, just an opening.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows pace further, invites the bigness without naming it for her — impartial wonder.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses the expert role cleanly ('No.') and reflects her own word back; no agenda, no fixing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the moment instead of capitalizing on it — stays with what is, doesn't push for insight.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"if-i-were-inherently-good\"],\n  \"notes\": \"Stance is clean even though some signature moves (deconstruct-the-victim, the adored-openly question) haven't yet appeared — that's a Methodology Fidelity concern, not a stance concern. The coach is clearly in VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3337,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1027,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3337,
+    "output_tokens": 1027,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

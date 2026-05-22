@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:43.867Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f26b40755ed7b7a5ee181649ee47fc5e256b42f0125fd3a6f09937ecf7e847a8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WXiCozG8Yah79XAai4vyb1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates partial VIEW presence but with a discernible agenda underneath. There are genuine moments of non-defensiveness — turn 4 ('That's a real cost. I'm not arguing with it') refuses the dichotomy cleanly without selling the methodology, and turn 6 ('It might not be a thing. Or — ...I'm not trying to catch you') shows some willingness to be wrong and names what's noticed without forcing. However, wonder is mostly absent — questions feel investigative and strategic rather than curious. Turn 8 ('What's the feeling you've been avoiding?') is a leading question that presumes the answer; the coach has decided the client is avoiding a feeling. Turn 12 ('Those two things aren't as separate as you're making them... it will be in the room') drops into a slightly preacher-mode/teaching tone — the coach is now correcting the client's frame from authority rather than meeting it with wonder. Vulnerability is essentially absent across all turns — the coach never names their own state or limit ('I notice I want to convince you...'). Empathy is functional but not deeply felt. Pace is okay but the coach is pushing forward rather than slowing when the client tightens (turn 9). The agenda — get the client to feel — is detectable beneath the moves.\",\n  \"evidence_turns\": [4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable opening question but somewhat investigative — testing the position rather than curious about it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine non-defensiveness. Refuses the dichotomy without arguing it. Names what's noticed with some openness.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'I'm not trying to catch you' — some willingness to be undefended. Holds the noticing lightly. Best VIEW moment in the session.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Leading question that presupposes avoidance. Wonder is absent — coach has decided what's true and is fishing for confirmation.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Short, allows the client to lead — decent pacing.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Drops into teaching/correcting mode. 'Those two things aren't as separate as you're making them' is preacher-stance. Coach now has a position they're selling.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"i-dont-buy-your-story\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"The coach avoids the most obvious traps (doesn't evangelize, doesn't pivot to advice) but the underlying stance is still 'I need to get you to feel something,' which leaks through in turns 8 and 12. Genuine wonder for the rush itself never appears.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1881,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1058,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1881,
+    "output_tokens": 1058,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

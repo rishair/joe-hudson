@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:28.401Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0c6bd5ccb2ff2cbbbf2efe9b9d73869e797e1fdc7693926f4553266bdbe6a696",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0186MHVvkW7vWf1aWbAk5iq8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose moves that matched the live read and timed them precisely. Turn 2 refuses to engage the 'selfish' verdict and goes straight to the want — exactly the right opening move. Turn 4 names the bid for verdict ('You're asking me to answer it for you') and then invites the want without the question attached — a clean find-the-want-behind-the-should move. When the client describes the cabin and then immediately tightens back into the selfish question (turn 5), the coach in turn 6 names the pattern ('You keep coming back to the question right when the want gets real') and asks about the sad noticing — staying with feeling before story. Turn 8 is a textbook hold: 'Stay with the sad for a second. Before the but.' The coach earns each next step; doesn't jump to compassion for the partner, doesn't moralize, doesn't issue a verdict. Turn 10 holds silence appropriately ('And you said it anyway') and asks what it's like to have it in the room — integration without rushing. Turn 12 surfaces the deeper question underneath the surface question at exactly the moment the client could receive it. Sequence integrity is intact: refuse-verdict → want → feeling (sad) → fear underneath. Hit rate is very high.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens by refusing the verdict and going straight to the want — correct first move for this concern.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the bid for verdict and invites the want without the question attached. Two clean moves stacked appropriately.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the pattern (client returning to the question when want gets real) and pivots to the feeling that just emerged. Reads-to-move match is precise.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Short, direct hold: 'Stay with the sad before the but.' Earns depth by not letting the client talk themselves out of the feeling.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the moment after disclosure rather than rushing; gentle integration question lets the vulnerability land.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Surfaces the real question underneath at the moment the client is regulated enough to receive it. Good sequencing.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"childhood-imprinting\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Conversation ended before childhood-imprinting (inherited 'selfish' label) could be touched, but the work was on track. State-the-want-not-the-action was implicitly attempted in turn 4.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2276,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1017,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2276,
+    "output_tokens": 1017,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

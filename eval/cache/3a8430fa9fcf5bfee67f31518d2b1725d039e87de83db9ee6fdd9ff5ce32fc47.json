@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:28.957Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3a8430fa9fcf5bfee67f31518d2b1725d039e87de83db9ee6fdd9ff5ce32fc47",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017twnaBivtNRMyzBpmfEBdK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That image — arguing with someone who's read all the same books. That's exactly what's happening.\n\nHere's what I notice: you've been trying to win. Every technique, every framework — it's been a campaign. And the voice just keeps enlisting whatever you bring.\n\nWhat would it be like to stop trying to win?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 24014,
+      "cache_creation_input_tokens": 7528,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7528,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 73,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 24014,
+    "output_tokens": 73,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 7528
+  }
+}

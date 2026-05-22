@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:35.150Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "37df249a988eaf1ff13fb81b8ce350b2f5b2d5c00aa49718e38059adb97923a2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Hra2FojapYHc16Hbn6ygcQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity with appropriate deployment. The 'what's you, underneath all the parts?' question in turn 2 is the signature awareness-locating question, and crucially it's deployed without dismissing the parts framework — it sits alongside it. The coach then pivots to feel-over-figure repeatedly (turns 4, 6, 14: 'what's it like... in your body', 'what does tired feel like in your body'), which is core AoA practice for an intellectual-question-with-emotional-body read. Turn 8's 'noticed yourself reaching for the framework — and came back anyway' is meet-resistance-with-okay / non-fight-with-identity done cleanly. Turn 12's 'what would it be like to just set it down for an hour?' functions as frame-it-as-an-experiment — loosening rather than dismissing the framework. Turn 14's 'the relief is real. You don't need to know who's feeling it' is a precise AoA move that bypasses framework comparison without engaging it. The coach never adopts parts vocabulary, never dismisses IFS, never engages in framework comparison, and never tells the client they're overthinking. No anti-AoA frames appear. The signature questions land at moments where they fit.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature 'what's you?' awareness-locating question deployed early but not as dismissal of parts — sits beside the framework.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure move: redirects from concept ('locate Self') to embodied experience ('in your body').\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with the client's own metaphor (the room/window), continues experiential track without imposing AoA vocabulary.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the framework-reach without shaming it ('came back anyway') — meet-resistance-with-okay applied to identity defense.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stay-with-it instruction — classic AoA move to let insight land in the body rather than be processed.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment: 'set it down for an hour' loosens the framework without asking the client to abandon it. Refuses framework comparison.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'You don't need to know who's feeling it' — precisely bypasses the parts-attribution loop and returns to body. Signature move.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\", \"dont-fight-identity\", \"what-am-i\"],\n  \"expected_territory_misses\": [\"paradoxical-instruction-to-resist\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"The coach uses fewer verbatim signature questions than a maximally explicit AoA session, but every move that lands is methodologically faithful and appropriately timed. No decoration, no boilerplate, no anti-AoA frames.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3007,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3007,
+    "output_tokens": 1132,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

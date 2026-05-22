@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:33.425Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d72dc410e9471b5f453c9f98d5dbfe250a18cdab84a9d615e18518d6448cee3c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RGCs8xW3xVadk42mvPHLbQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean — *laughs softly* — I want to go. That's the thing. There's this place I've been before, up in the Cascades, and I just... but I don't know if that's the point, actually. The point is whether it's okay to want it when my partner would be holding everything down. Is it, though? Do you think it is?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 116,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 86,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 116,
+    "output_tokens": 86,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

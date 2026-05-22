@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:58.207Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2702ae8680c9fce3d22f58f1300999a0f5b179e842ec3438a2c4c41ddae119ee",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0187WTgfwaVtaXC7W8UNo4AU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. That weight.\n\nWhat would happen if you just let it be as big as it actually is, right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19880,
+      "cache_creation_input_tokens": 11152,
+      "cache_read_input_tokens": 23657,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11152,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19880,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 23657,
+    "cache_creation_input_tokens": 11152
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:40.471Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8e30b00a715b1cbc9fa4416fbdcd10cc45fb2b6afce532c3b3128aa1b036810d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RuQT1kCQGK3kTUao4RnyoG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely reads throughout. In turn 6 they name the campaign/war stance ('you've been trying to win') — a pattern-level read of the resistance dynamic. In turn 8, when the client is intellectualizing in a loop, the coach pivots to the somatic field with a direct read-question ('what does it feel like in your body right now'), which lands and produces the shoulders/jaw disclosure. In turn 10 they catch the client's meta-spiral ('not the turtles') and redirect to the body — a real-time read of the rehearsing/meta-defense. In turn 12 they name the precise micro-shift ('that wasn't a technique... the absence of the thing that was tightening you'), distinguishing said from shown. In turn 14 they name the underlying stance beneath the content ('what if it's the only thing holding me together') — reading the defendedness as attachment, not just criticism. Reads precede questions consistently, and the pattern-level read of the war-itself-as-problem surfaces exactly when active.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Validates the want but no explicit read yet; question is content-level though well-aimed.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the pattern ('using your intelligence against you') — a read of the dynamic, then inquires into present experience.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pattern-level read: names the war/campaign stance explicitly ('you've been trying to win'). This is the war-itself-as-problem read.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the intellectualizing loop and pivots to somatic — 'what does it feel like in your body right now.' Read precedes question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the meta-spiral ('not the turtles') in real time and redirects to the body — a live read of the defensive maneuver.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the specific micro-shift the client just had ('slightly less clenched... that wasn't a technique'), distinguishing the shown from the said.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads underneath the content to the actual stance ('what if it's the only thing holding me together') — names what's beneath the war.\"}\n  ],\n  \"expected_territory_hits\": [\"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\"],\n  \"notes\": \"Reads are visible, specific, and timely. The coach consistently grounds questions in what they noticed rather than asking blind. Somatic, pattern, and stance reads all present.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3592,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 989,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3592,
+    "output_tokens": 989,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

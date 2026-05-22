@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:58.673Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e749f7eb28396eaf4bc52192a318488770697e74ff04501c35e46a0fddff5e82",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015KjuQnKAmKjvEBUz628pTz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know if I feel it so much as... think it. Like, I notice the question is there, but there's no urgency behind it. Which is maybe the point."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 105,
+      "cache_creation_input_tokens": 1831,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1831,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 105,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1831
+  }
+}

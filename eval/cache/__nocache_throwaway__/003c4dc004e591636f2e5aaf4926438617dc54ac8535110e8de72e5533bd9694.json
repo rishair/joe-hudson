@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:45.654Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "003c4dc004e591636f2e5aaf4926438617dc54ac8535110e8de72e5533bd9694",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GYo4LSoov3xsoV7JwuHR4R",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I -- huh. \n\nI mean, it would mean I can't handle it, right? Like I specifically asked for this role, I advocated for it, and if I'm falling apart over the normal amount of stuff that comes with it then... I don't know. That's not a good look. \n\nBut I'm not falling apart. I'm just behind. There's a difference. I just need to get organized, get a system, and then -- I can push through this month and then it'll level out. It always levels out. \n\nCan we talk about the Thursday thing? Because that one's actually time-sensitive."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 231,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1855,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 231,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 1855,
+    "cache_creation_input_tokens": 0
+  }
+}

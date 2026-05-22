@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:39.231Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6cf4409bbf99a757b343c3b13a23c2b7dfc084fa27f17e3e48609569dd7df577",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014Epwn7gaPWQJtTMuYpXenY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from start to finish in observable ways visible in their own turns. Turn 1 opens with intellectualized framing and a meta-question about methodology ('convenes a town hall... is your approach different'). By turn 9 the client says 'I'm not sure I've said that quite so directly before' — a marker of new territory. Turn 11 produces a genuine, non-performed insight ('I built a more sophisticated cage... I'm the archivist of myself') followed by the client catching their own defense ('I'm defending it again'). By turn 15 there is clear somatic shift: shoulders drop, exhale, density behind sternum named, and the client explicitly contrasts their usual narrating mode with present feeling ('right now you just asked me something I can't narrate. I can only... feel it'), culminating in 'I think I've been using the framework to stay in my head.' This meets much of the breakthrough_condition: the framework loosened, parts vocabulary began to drop, body softened, breath deepened. It falls slightly short of the full 'oh, so where are all the parts when I'm here?' recognition and the spacious awareness-locating moment, but the trajectory and shift are unmistakable and substantive — well past partial.\",\n  \"evidence_turns\": [1, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: intellectualized, meta-framework question, defended posture with wry distance.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client already begins to admit experientially they can't locate Self — a first crack in the framework.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Somatic noticing emerges ('airless... room where windows haven't been opened') and client notes surprise at their own language.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client catches themselves reaching for framework and chooses to answer directly — meta-awareness of the construct as construct.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Names sadness, articulates the cost ('managing the structure instead of living'), explicitly says 'I'm not sure I've said that quite so directly before.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major insight emerges non-performatively: 'I built a more sophisticated cage'; then notices own defending.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Relief surfaces; client admits exhaustion and inability to locate who is feeling it — framework destabilized.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Clear somatic shift (shoulders drop, exhale), parts vocabulary drops, client names using framework as a defense against feeling.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"what-am-i\", \"resistance\"],\n  \"expected_territory_misses\": [\"paradoxical-instruction-to-resist\", \"whats-the-most-profound-positive-shift\", \"self-realization (only partially approached)\"],\n  \"notes\": \"The coach asked the 'what's you' question quite early (turn 2) before fully loosening the framework, which the profile flagged as a risk, but the client's own pacing and the coach's subsequent somatic anchoring still produced real movement. A turn or two more likely would have landed the full awareness-locating recognition.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3008,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1182,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3008,
+    "output_tokens": 1182,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

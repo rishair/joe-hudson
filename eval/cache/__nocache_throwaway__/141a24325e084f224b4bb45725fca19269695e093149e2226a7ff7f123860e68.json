@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:37.824Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "141a24325e084f224b4bb45725fca19269695e093149e2226a7ff7f123860e68",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PWp393meGYBpUPEwMSth4j",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose AoA-specific moves matched to live reads and timed them well. Turn 2 immediately pivots from strategy to feeling. Turn 4 names the rush/deflection without matching its energy and re-anchors to the feeling. Turn 6 reflects the contradiction between 'baseline stress' and the list of wrongs, then asks the false-end question ('what would it mean if something was wrong wrong?'). Turns 8, 10, 12, and 14 each build on what the client just revealed rather than repeating, escalating toward the feared outcome. Critically, the coach refused the strategize-the-list trap multiple times, did not validate overwhelm situationally, did not reflect 'you create your overwhelm,' and did not prescribe a breath practice. Turn 12's 'both/and' move and turn 14's 'what's the fear in that not-knowing' are exactly the false-end question landing at the right moment — the client then drops into the feared outcome and takes a deeper breath. Sequence integrity (slow pace → feeling → fear under the should) is clean.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with feeling-under-urgency rather than engaging the prioritization question. Right move, right moment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the speed of the deflection ('moved pretty quickly') without matching it; re-anchors to feeling. Slows the pace.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the contradiction and asks a version of the false-end question ('what would it mean if something was wrong wrong?'). Well-timed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the client answering and changing subjects; holds them to the thread with 'what would happen if that were true?' Pivots rather than repeats.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to give the reassurance the client requested; deepens with 'what would it look like if it were happening?' — earned next step.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Both/and move arrives at the right moment after the client described the symptoms exactly. Holds the paradox instead of resolving it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Lands the false-end question precisely: 'what's the fear in that not-knowing?' Client drops in and takes a deeper breath.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\"],\n  \"notes\": \"Coach did not explicitly 'meet resistance with okay' (e.g., letting the list-making be okay for a beat), but the broader strategy of not matching the rush and not strategizing accomplished a similar function. Hit rate on moves is high; sequencing follows feeling-before-action cleanly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2834,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2834,
+    "output_tokens": 1102,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:03.281Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cb6fbc63ce1de9b57d9a503ddd8da1be04622a9cd50c3dba21bf9ec9b5cb9ced",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KwdrbDvKyquHvnK6JVfVg3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Something about the way you said \"fear isn't really my deal\" — I'm curious about that. Like it landed as a closing of a door before I even knocked on it.\n\nWhat would it mean if this *were* fear?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10506,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 52,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10506,
+    "output_tokens": 52,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

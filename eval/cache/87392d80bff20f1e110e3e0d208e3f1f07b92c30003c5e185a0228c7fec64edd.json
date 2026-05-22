@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:16.603Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "87392d80bff20f1e110e3e0d208e3f1f07b92c30003c5e185a0228c7fec64edd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0168j6vT2gfuEsjnz6y6SU6x",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Get very still. Very small. Don't take up space, don't make noise, don't — \n\n*pauses*\n\nDon't exist, basically. Just wait for it to pass.\n\nI got really good at reading the room. Like, I could tell from the sound of footsteps what kind of mood was coming. That felt like a skill at the time. I didn't realize until much later that it was... something else."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 145,
+      "cache_creation_input_tokens": 142,
+      "cache_read_input_tokens": 2048,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 142,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 96,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 145,
+    "output_tokens": 96,
+    "cache_read_input_tokens": 2048,
+    "cache_creation_input_tokens": 142
+  }
+}

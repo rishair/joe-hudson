@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:11.265Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "01ff248870b6b314677beb07a9d28eaf16fe037d34f7f678a2dd9146bd67aeb4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Dhim7iiV6kW8f4oY2cK22L",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nSmall. Like... yeah, seven is what comes to mind. Maybe younger. There's something about the silence specifically — when he goes quiet — that just takes me somewhere else entirely. I'm not in the room anymore, not really.\n\nIt's interesting, I've actually thought about this a lot. The silence as the signal, not the anger. My dad wasn't — he didn't yell. It was more like... the withdrawal. The disapproval that just sat there in the air."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 223,
+      "cache_creation_input_tokens": 98,
+      "cache_read_input_tokens": 1884,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 98,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 223,
+    "output_tokens": 111,
+    "cache_read_input_tokens": 1884,
+    "cache_creation_input_tokens": 98
+  }
+}

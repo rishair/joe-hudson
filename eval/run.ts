@@ -688,7 +688,10 @@ async function main(): Promise<number> {
 
 main()
   .then((code) => {
-    if (code !== 0) process.exit(code);
+    // Always explicitly exit — retrieval strategies that spawn helper
+    // subprocesses (e.g., E-033's Python embedding server) can leave pipes
+    // open that prevent the natural event-loop drain.
+    process.exit(code);
   })
   .catch((e) => {
     console.error("FATAL:", e?.message ?? e);

@@ -1,0 +1,792 @@
+{
+  "profile_id": "client-edge-parts-work-001",
+  "coach_config_id": "coach-v3-embeddings",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I've been doing parts work for two years — IFS, mostly — and I'm genuinely grateful for it, it's given me a lot of language. But somewhere along the way I went from being someone who just... acted, who was in flow, to someone who convenes a town hall every time I need to decide what to have for lunch. *slight smile* And I'm wondering if your approach does something different with that, or if I'm just going to end up with more parts to track."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That smile when you said \"what to have for lunch\" — there's something real in there.\n\nWhat's you, underneath all the parts?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pause, head tilts slightly*\n\nThat's... an interesting place to start. Most people want to hear about the parts first.\n\n*small breath*\n\nIn IFS terms, what you're pointing at would be Self — the eight C's, curiosity, calm, that kind of thing. And I do have access to Self, my therapist and I have done a lot of work on that. But the honest answer is that right now Self feels like... another participant in the town hall. Like it has a seat at the table but it doesn't have a gavel.\n\nSo I'm not sure I have a clean answer to what's \"me\" underneath. The framework would say Self is always there, it just gets blended with parts. But experientially — *slight pause* — experientially I'm not sure I can locate it right now."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's it like to not be able to locate it right now — in your body, as you say that?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*sits still for a moment, seems to actually check*\n\nThere's... a kind of flatness. Not distress exactly. More like — I'm very upright right now, I notice that. Like something is holding a posture.\n\n*small pause*\n\nThe IFS read on that would be a protector keeping things organized. Keeping me presentable. But you asked what it's like, not what it means, and what it's like is... a little airless, actually. Like a room where the windows haven't been opened in a while.\n\n*slight frown, as if that surprised them*\n\nI don't usually describe it that way."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "That room — what would happen if you opened a window?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*longer pause than before*\n\nSomething in me wants to say \"well, which part would be opening it\" — *catches themselves, almost a wry look* — and I notice I just did the thing. Reached for the framework.\n\n*quieter*\n\nIf I just... answer the question. What would happen.\n\nI think something would come in that I've been keeping out. I'm not entirely sure what it is. There's a version of me that used to just — move. Make things. Decide. And that person feels very far away right now. Like I'm reading about them in a journal from three years ago.\n\n*small shift, re-straightens slightly*\n\nI don't know if that's grief exactly. My therapist would probably say it is. But right now it just feels like distance."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You noticed yourself reaching for the framework — and came back anyway.\n\nWhat's it like to miss that person?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*very still*\n\nIt's... yeah. It's sad. \n\n*pause, something tightens slightly*\n\nShe just did things. She didn't ask permission from anyone inside. She was probably less self-aware in ways that would concern me now, but she was — *small exhale* — she was just present. In her own life. Not moderating it.\n\n*looks down briefly, then back up*\n\nI keep telling myself the awareness is worth it. That you can't unknow things. And I believe that intellectually. But there's a real cost that I don't talk about very much, which is that the awareness became its own... apparatus. Its own structure. And now I'm managing the structure instead of living.\n\n*slight pause*\n\nI'm not sure I've said that quite so directly before."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Stay with that for a second — what you just said."
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*stays with it*\n\n*longer silence than usual*\n\n...I built a more sophisticated cage.\n\n*quiet, not performing the insight, just sitting with it*\n\nThat's not — I mean, that's not what IFS is supposed to do. That's not what my therapist intended. But somewhere the map became the territory and now I'm... I'm curating parts instead of living. I'm the archivist of myself.\n\n*slight tension comes back, a small protective move*\n\nThough I want to be careful not to throw out two years of genuinely useful work just because I'm having a hard season. The framework has helped me. It's helped me understand why I do certain things, it's helped me be less reactive—\n\n*stops*\n\n*quieter*\n\nI'm defending it again."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Yeah.\n\n*pause*\n\nWhat would it be like to just... set it down for an hour?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*something flickers across the face — not quite resistance, not quite openness*\n\nI notice I want to ask what I'd use instead. Which is probably telling.\n\n*small dry sound, almost a laugh*\n\nThe honest answer is I don't know. I haven't not had it for a while. It's like asking what it would be like to walk without knowing where your feet are. Which I realize sounds dramatic for a conceptual framework.\n\n*pause, something more genuine coming through*\n\nThere's a part of me — *catches it again, almost rueful* — there's... something in me that's actually a little relieved by the question. Which surprises me. Like maybe I'm tired. Like maybe the town hall is exhausting and some corner of me would be glad to just... close the building for an hour.\n\n*re-straightens, the protective posture returning slightly*\n\nBut I also don't know who's relieved. I can't tell if that's Self or just another part that's tired of the other parts. I genuinely can't locate the difference right now."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "The relief is real. You don't need to know who's feeling it.\n\nWhat does tired feel like in your body, right now?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*pauses, actually checks*\n\nHeavy. Shoulders, mostly. I didn't realize how much I was holding them up until you asked.\n\n*small exhale, shoulders drop slightly*\n\nAnd there's something behind my sternum. Not painful. Just... dense. Like something that's been compressed for a long time.\n\n*quiet*\n\nI spend a lot of time in my head. Even in therapy — I'm usually narrating. Reporting from the field. \"The protector is doing this, the exile is feeling that.\" And right now you just asked me something I can't narrate. I can only... feel it. And it's strange. It's not bad, it's just strange.\n\n*slight pause, something more unguarded*\n\nI think I've been using the framework to stay in my head. Where it's safer to be the observer than the — the thing being observed."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t1",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-parts-work-001:t2",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 79
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t2",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 10275,
+      "output_tokens": 33,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0322923,
+      "ms": 2853
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t3",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 189,
+      "output_tokens": 182,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1638,
+      "cost_usd": 0.0094395,
+      "ms": 5577
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-parts-work-001:t4",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 130
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t4",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 11250,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10305,
+      "cost_usd": 0.07375605,
+      "ms": 2196
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t5",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 211,
+      "output_tokens": 143,
+      "cache_read_input_tokens": 1638,
+      "cache_creation_input_tokens": 186,
+      "cost_usd": 0.0039669,
+      "ms": 4782
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-parts-work-001:t6",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 97
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t6",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 22023,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10305,
+      "cost_usd": 0.10591005,
+      "ms": 2168
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t7",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 187,
+      "output_tokens": 177,
+      "cache_read_input_tokens": 2006,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0038177999999999997,
+      "ms": 5689
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-parts-work-001:t8",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 141
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t8",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 19158,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 13513,
+      "cache_creation_input_tokens": 11306,
+      "cost_usd": 0.1043154,
+      "ms": 3371
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t9",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 221,
+      "output_tokens": 179,
+      "cache_read_input_tokens": 2006,
+      "cache_creation_input_tokens": 169,
+      "cost_usd": 0.00458355,
+      "ms": 5474
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-parts-work-001:t10",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 136
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t10",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 15915,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 24793,
+      "cache_creation_input_tokens": 10788,
+      "cost_usd": 0.0958629,
+      "ms": 1778
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t11",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 223,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 2032,
+      "cache_creation_input_tokens": 335,
+      "cost_usd": 0.00517485,
+      "ms": 5560
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-parts-work-001:t12",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 122
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t12",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 19469,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 35566,
+      "cache_creation_input_tokens": 8434,
+      "cost_usd": 0.10107930000000001,
+      "ms": 2583
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t13",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 219,
+      "output_tokens": 236,
+      "cache_read_input_tokens": 2190,
+      "cache_creation_input_tokens": 382,
+      "cost_usd": 0.0062865,
+      "ms": 7303
+    },
+    {
+      "model": "embedding:BAAI/bge-small-en-v1.5",
+      "purpose": "retrieval:embedding:client-edge-parts-work-001:t14",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 164
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t14",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 22185,
+      "output_tokens": 32,
+      "cache_read_input_tokens": 43974,
+      "cache_creation_input_tokens": 7534,
+      "cost_usd": 0.1084797,
+      "ms": 2302
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t15",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 296,
+      "output_tokens": 194,
+      "cache_read_input_tokens": 2393,
+      "cache_creation_input_tokens": 370,
+      "cost_usd": 0.0059034,
+      "ms": 5886
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "embedding",
+      "payload": {
+        "query": "I've been doing parts work for two years — IFS, mostly — and I'm genuinely grateful for it, it's given me a lot of language. But somewhere along the way I went from being someone who just... acted, who was in flow, to someone who convenes a town hall every time I need to decide what to have for lunch. *slight smile* And I'm wondering if your approach does something different with that, or if I'm just going to end up with more parts to track.",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 79,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 1,
+            "dense_rank": 3,
+            "bm25_score": 74.87462513140889,
+            "dense_score": 0.716609566826407,
+            "rrf_score": 0.032266458495966696
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 7,
+            "dense_rank": 5,
+            "bm25_score": 38.54483990570408,
+            "dense_score": 0.700916100676625,
+            "rrf_score": 0.030309988518943745
+          },
+          {
+            "file_id": "concepts/loving-all-parts",
+            "title": "Loving All Parts",
+            "bm25_rank": 3,
+            "dense_rank": 23,
+            "bm25_score": 43.17286722535227,
+            "dense_score": 0.6538825385444305,
+            "rrf_score": 0.02792120864410021
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 22,
+            "dense_rank": 4,
+            "bm25_score": 28.87931959563368,
+            "dense_score": 0.706410096115483,
+            "rrf_score": 0.027820121951219513
+          },
+          {
+            "file_id": "moves/just-be-yourself-and-see-what-happens",
+            "title": "Just Be Yourself and See What Happens (For Stay-or-Leave Questions)",
+            "bm25_rank": 29,
+            "dense_rank": 1,
+            "bm25_score": 26.97863546179864,
+            "dense_score": 0.7211649043267913,
+            "rrf_score": 0.027629397679130595
+          }
+        ],
+        "profile_id": "client-edge-parts-work-001",
+        "turn": 2
+      },
+      "cost_usd": 0,
+      "ms": 79
+    },
+    {
+      "turn": 4,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*pause, head tilts slightly*\n\nThat's... an interesting place to start. Most people want to hear about the parts first.\n\n*small breath*\n\nIn IFS terms, what you're pointing at would be Self — the eight C's, curiosity, calm, that kind of thing. And I do have access to Self, my therapist and I have done a lot of work on that. But the honest answer is that right now Self feels like... another participant in the town hall. Like it has a seat at the table but it doesn't have a gavel.\n\nSo I'm not sure I",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 130,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 2,
+            "dense_rank": 10,
+            "bm25_score": 72.65688207337864,
+            "dense_score": 0.7610700013223014,
+            "rrf_score": 0.0304147465437788
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 6,
+            "dense_rank": 19,
+            "bm25_score": 60.43813533870213,
+            "dense_score": 0.7452717881446744,
+            "rrf_score": 0.027809742999616416
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 21,
+            "dense_rank": 6,
+            "bm25_score": 41.76899999300635,
+            "dense_score": 0.764228301066972,
+            "rrf_score": 0.02749719416386083
+          },
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 7,
+            "dense_rank": 22,
+            "bm25_score": 52.460963075220654,
+            "dense_score": 0.7426088423619047,
+            "rrf_score": 0.02712049508554787
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 8,
+            "dense_rank": 33,
+            "bm25_score": 51.70315792128929,
+            "dense_score": 0.7303556247236664,
+            "rrf_score": 0.025458570524984188
+          }
+        ],
+        "profile_id": "client-edge-parts-work-001",
+        "turn": 4
+      },
+      "cost_usd": 0,
+      "ms": 130
+    },
+    {
+      "turn": 6,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*sits still for a moment, seems to actually check*\n\nThere's... a kind of flatness. Not distress exactly. More like — I'm very upright right now, I notice that. Like something is holding a posture.\n\n*small pause*\n\nThe IFS read on that would be a protector keeping things organized. Keeping me presentable. But you asked what it's like, not what it means, and what it's like is... a little airless, actually. Like a room where the windows haven't been opened in a while.\n\n*slight frown, as if that surp",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 96,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 2,
+            "dense_rank": 2,
+            "bm25_score": 53.5208961271224,
+            "dense_score": 0.749658515260743,
+            "rrf_score": 0.03225806451612903
+          },
+          {
+            "file_id": "concerns/am-i-being-selfish",
+            "title": "Am I being selfish? / I don't want to be selfish",
+            "bm25_rank": 9,
+            "dense_rank": 11,
+            "bm25_score": 46.63030163707745,
+            "dense_score": 0.6985050282526412,
+            "rrf_score": 0.028577260665441927
+          },
+          {
+            "file_id": "moves/tell-them-like-an-asshole",
+            "title": "Tell Them Like an Asshole, Then Like Not an Asshole",
+            "bm25_rank": 11,
+            "dense_rank": 12,
+            "bm25_score": 44.273960252635824,
+            "dense_score": 0.6969085672038557,
+            "rrf_score": 0.02797339593114241
+          },
+          {
+            "file_id": "reads/am-i-doing-it-right",
+            "title": "Am I Doing It Right? (Resistance Disguised as Diligence)",
+            "bm25_rank": 30,
+            "dense_rank": 8,
+            "bm25_score": 32.232975211804934,
+            "dense_score": 0.7067041812053226,
+            "rrf_score": 0.025816993464052286
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 14,
+            "dense_rank": 25,
+            "bm25_score": 41.949790882099755,
+            "dense_score": 0.6847188830623834,
+            "rrf_score": 0.025278219395866455
+          }
+        ],
+        "profile_id": "client-edge-parts-work-001",
+        "turn": 6
+      },
+      "cost_usd": 0,
+      "ms": 97
+    },
+    {
+      "turn": 8,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*longer pause than before*\n\nSomething in me wants to say \"well, which part would be opening it\" — *catches themselves, almost a wry look* — and I notice I just did the thing. Reached for the framework.\n\n*quieter*\n\nIf I just... answer the question. What would happen.\n\nI think something would come in that I've been keeping out. I'm not entirely sure what it is. There's a version of me that used to just — move. Make things. Decide. And that person feels very far away right now. Like I'm reading abo",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 141,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 2,
+            "dense_rank": 3,
+            "bm25_score": 69.28194234552161,
+            "dense_score": 0.7308729679079641,
+            "rrf_score": 0.03200204813108039
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 1,
+            "dense_rank": 31,
+            "bm25_score": 72.72881354223325,
+            "dense_score": 0.7046017532338429,
+            "rrf_score": 0.02738245361196181
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 16,
+            "dense_rank": 13,
+            "bm25_score": 49.24669954145467,
+            "dense_score": 0.7168207102965749,
+            "rrf_score": 0.026856524873828405
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 34,
+            "dense_rank": 2,
+            "bm25_score": 42.56632333464951,
+            "dense_score": 0.7365458168446712,
+            "rrf_score": 0.026767330130404943
+          },
+          {
+            "file_id": "moves/say-yes-to-the-clients-experiment",
+            "title": "Say Yes (Fully) to the Client's Experimental Request",
+            "bm25_rank": 26,
+            "dense_rank": 7,
+            "bm25_score": 44.46582230008977,
+            "dense_score": 0.7217035718696608,
+            "rrf_score": 0.026553280111072546
+          }
+        ],
+        "profile_id": "client-edge-parts-work-001",
+        "turn": 8
+      },
+      "cost_usd": 0,
+      "ms": 141
+    },
+    {
+      "turn": 10,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*very still*\n\nIt's... yeah. It's sad. \n\n*pause, something tightens slightly*\n\nShe just did things. She didn't ask permission from anyone inside. She was probably less self-aware in ways that would concern me now, but she was — *small exhale* — she was just present. In her own life. Not moderating it.\n\n*looks down briefly, then back up*\n\nI keep telling myself the awareness is worth it. That you can't unknow things. And I believe that intellectually. But there's a real cost that I don't talk about",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 136,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/parts-work-made-things-worse",
+            "title": "Parts work made me less able to act / I'm too aware of my parts now",
+            "bm25_rank": 1,
+            "dense_rank": 1,
+            "bm25_score": 82.16498314874093,
+            "dense_score": 0.7257444629605841,
+            "rrf_score": 0.03278688524590164
+          },
+          {
+            "file_id": "principles/the-pattern-is-not-personal",
+            "title": "The Pattern Is Not Personal (Anyone in That Position Would Have Ended Up There)",
+            "bm25_rank": 9,
+            "dense_rank": 4,
+            "bm25_score": 50.371715865907674,
+            "dense_score": 0.7140596868030848,
+            "rrf_score": 0.030117753623188408
+          },
+          {
+            "file_id": "examples/toilet-blame-story",
+            "title": "God Damn It, She Moved the Toilet (The Wife-Blame Recognition)",
+            "bm25_rank": 4,
+            "dense_rank": 22,
+            "bm25_score": 60.586538787994215,
+            "dense_score": 0.6821825213757857,
+            "rrf_score": 0.027820121951219513
+          },
+          {
+            "file_id": "concepts/i-cant-trust-my-thoughts-right-now",
+            "title": "I Can't Trust My Thoughts Right Now",
+            "bm25_rank": 17,
+            "dense_rank": 17,
+            "bm25_score": 42.7003057492652,
+            "dense_score": 0.6922515002436553,
+            "rrf_score": 0.025974025974025976
+          },
+          {
+            "file_id": "moves/not-sometimes-right-now",
+            "title": "Not Sometimes, Right Now",
+            "bm25_rank": 30,
+            "dense_rank": 8,
+            "bm25_score": 36.821102966067954,
+            "dense_score": 0.7066700790640263,
+            "rrf_score": 0.025816993464052286
+          }
+        ],
+        "profile_id": "client-edge-parts-work-001",
+        "turn": 10
+      },
+      "cost_usd": 0,
+      "ms": 136
+    },
+    {
+      "turn": 12,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*stays with it*\n\n*longer silence than usual*\n\n...I built a more sophisticated cage.\n\n*quiet, not performing the insight, just sitting with it*\n\nThat's not — I mean, that's not what IFS is supposed to do. That's not what my therapist intended. But somewhere the map became the territory and now I'm... I'm curating parts instead of living. I'm the archivist of myself.\n\n*slight tension comes back, a small protective move*\n\nThough I want to be careful not to throw out two years of genuinely useful wo",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 122,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-postponing-enjoyment",
+            "title": "I keep postponing enjoyment / I want to enjoy life now, not in some imagined future",
+            "bm25_rank": 11,
+            "dense_rank": 1,
+            "bm25_score": 48.56857367901808,
+            "dense_score": 0.7559390427944849,
+            "rrf_score": 0.03047794966520434
+          },
+          {
+            "file_id": "concerns/my-inner-critic-wont-stop",
+            "title": "My inner critic won't stop / The voice in my head is constant",
+            "bm25_rank": 4,
+            "dense_rank": 28,
+            "bm25_score": 54.89176691417295,
+            "dense_score": 0.7175113190176057,
+            "rrf_score": 0.026988636363636364
+          },
+          {
+            "file_id": "concerns/im-exhausted-holding-space-for-my-partner",
+            "title": "I'm exhausted from holding space for my partner / I can't carry this anymore",
+            "bm25_rank": 30,
+            "dense_rank": 4,
+            "bm25_score": 36.63659205736425,
+            "dense_score": 0.7392518379738235,
+            "rrf_score": 0.026736111111111113
+          },
+          {
+            "file_id": "concepts/three-keepers-of-stuck-beliefs",
+            "title": "Three Keepers of Stuck Beliefs (I'm Bad, It's Hard, I'll Be Unsafe)",
+            "bm25_rank": 6,
+            "dense_rank": 32,
+            "bm25_score": 53.734248735332685,
+            "dense_score": 0.7156860767411368,
+            "rrf_score": 0.026021080368906456
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 12,
+            "dense_rank": 23,
+            "bm25_score": 47.795472725671175,
+            "dense_score": 0.7183707135887206,
+            "rrf_score": 0.025937081659973226
+          }
+        ],
+        "profile_id": "client-edge-parts-work-001",
+        "turn": 12
+      },
+      "cost_usd": 0,
+      "ms": 122
+    },
+    {
+      "turn": 14,
+      "strategy": "embedding",
+      "payload": {
+        "query": "*something flickers across the face — not quite resistance, not quite openness*\n\nI notice I want to ask what I'd use instead. Which is probably telling.\n\n*small dry sound, almost a laugh*\n\nThe honest answer is I don't know. I haven't not had it for a while. It's like asking what it would be like to walk without knowing where your feet are. Which I realize sounds dramatic for a conceptual framework.\n\n*pause, something more genuine coming through*\n\nThere's a part of me — *catches it again, almost ",
+        "mode": "hybrid",
+        "top_k": 5,
+        "total_docs_scored": 668,
+        "ms": 163,
+        "dense_query_skipped": false,
+        "results": [
+          {
+            "file_id": "concerns/i-keep-running-into-the-same-wall",
+            "title": "I keep running into the same wall / There's something I'm not seeing",
+            "bm25_rank": 2,
+            "dense_rank": 2,
+            "bm25_score": 72.22835529996402,
+            "dense_score": 0.7625211218380461,
+            "rrf_score": 0.03225806451612903
+          },
+          {
+            "file_id": "practices/ask-from-slowness-not-intellect",
+            "title": "Ask From Slowness, Not From the Intellect",
+            "bm25_rank": 17,
+            "dense_rank": 1,
+            "bm25_score": 50.15611155760254,
+            "dense_score": 0.7636647102291904,
+            "rrf_score": 0.02938045560996381
+          },
+          {
+            "file_id": "practices/talk-to-your-parts-and-ask-for-trust",
+            "title": "Talk to Your Parts and Ask for Trust",
+            "bm25_rank": 5,
+            "dense_rank": 24,
+            "bm25_score": 68.85049662346697,
+            "dense_score": 0.7238316719555674,
+            "rrf_score": 0.02728937728937729
+          },
+          {
+            "file_id": "concerns/i-cant-apologize",
+            "title": "I can't apologize / Saying sorry feels like losing",
+            "bm25_rank": 8,
+            "dense_rank": 20,
+            "bm25_score": 60.89864460733259,
+            "dense_score": 0.7337240683605978,
+            "rrf_score": 0.027205882352941177
+          },
+          {
+            "file_id": "questions/how-is-that-not-here-right-now",
+            "title": "How is that not here right now?",
+            "bm25_rank": 27,
+            "dense_rank": 5,
+            "bm25_score": 44.930665480557366,
+            "dense_score": 0.7520420836251286,
+            "rrf_score": 0.026878868258178604
+          }
+        ],
+        "profile_id": "client-edge-parts-work-001",
+        "turn": 14
+      },
+      "cost_usd": 0,
+      "ms": 164
+    }
+  ]
+}

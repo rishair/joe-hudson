@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:26.599Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5b7056797ba1a23121b574222424029aff8e5c5db0416215cf9a076654befe11",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q5RcLXnMVsazXgn13TME2p",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"I've shipped harder things than this.\"\n\nWhat's different about this one?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21082,
+      "cache_creation_input_tokens": 9192,
+      "cache_read_input_tokens": 13744,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9192,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21082,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 13744,
+    "cache_creation_input_tokens": 9192
+  }
+}

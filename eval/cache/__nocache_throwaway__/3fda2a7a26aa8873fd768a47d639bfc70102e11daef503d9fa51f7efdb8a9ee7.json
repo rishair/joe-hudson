@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:58.655Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3fda2a7a26aa8873fd768a47d639bfc70102e11daef503d9fa51f7efdb8a9ee7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BjVuzdZfdTZHazbiG69auA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, it is.\n\nAnd you said it anyway.\n\n*pause*\n\nWhat's it like to have it out in the room?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19595,
+      "cache_creation_input_tokens": 10769,
+      "cache_read_input_tokens": 27878,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10769,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19595,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 27878,
+    "cache_creation_input_tokens": 10769
+  }
+}

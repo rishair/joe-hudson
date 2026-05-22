@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:42.564Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7fef4459893c00792bbd94c2054e3f04dda0c85b3f3bc306260fdfd446877bee",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01G9o3iPxpxtM47WbRdnMC5k",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You are.\n\nGrief doesn't have a clean version. The complicated ones are still real — maybe more so, because there's more in them.\n\nWhat's one of the parts that feels least allowed?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19339,
+      "cache_creation_input_tokens": 9573,
+      "cache_read_input_tokens": 43274,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9573,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19339,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 43274,
+    "cache_creation_input_tokens": 9573
+  }
+}

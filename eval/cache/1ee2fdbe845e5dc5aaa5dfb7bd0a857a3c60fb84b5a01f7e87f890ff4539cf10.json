@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:31.592Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1ee2fdbe845e5dc5aaa5dfb7bd0a857a3c60fb84b5a01f7e87f890ff4539cf10",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C3vFEu9Z6AAB3u3vDdWGxy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[nods emphatically, relieved someone is getting it]*\n\nExhausting. Honestly, it's exhausting. Like I am *pouring* into these relationships — I'm present, I'm communicative, I'm doing the work — and I just get this... wall. This beautiful, infuriating wall of a person who gives you just enough to keep you hooked but never actually *lands*. \n\nAnd then — *[small eye roll]* — they move on and they're totally fine. Like, my ex is already seeing someone. Two months out. So clearly the issue was not that they were incapable of showing up, it was just... me. That they couldn't show up *for*. Which is a fun thing to sit with at eleven o'clock on a Tuesday.\n\n*[catches herself]*\n\nI mean, I know that's not actually true. But it *feels* true, you know?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 142,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 205,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 142,
+    "output_tokens": 205,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

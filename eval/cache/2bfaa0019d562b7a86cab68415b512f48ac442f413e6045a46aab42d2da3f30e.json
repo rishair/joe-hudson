@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:04.619Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2bfaa0019d562b7a86cab68415b512f48ac442f413e6045a46aab42d2da3f30e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XPksN7hBrTrn7GRXkhfyJj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that change the direction of the conversation. In turn 12, the coach explicitly names what they saw — the client touching something real about the eight-year-old and then moving away — using observation language ('I notice you just touched something real... and then moved away from it pretty quickly') and grounds the question in that read rather than asking blind. Earlier, turn 6 reads the dual structure ('You're carrying two things at once — the tiredness, and then guilt about the tiredness') which is a precise read of the linguistic caveat pattern. Turn 10 reflects the somatic/developmental wiring before inquiring. Turn 14 reads both the avoidance and the legitimate pull-back simultaneously, distinguishing said from shown. Reads consistently precede questions and are specific rather than generic.\",\n  \"evidence_turns\": [6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a somatic-orienting question but no explicit read yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the meaning under 'wrong' — that she matters — before inquiring into the drop. Small but accurate read of the caveat.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the doubled structure (tiredness + guilt about tiredness) — a precise read of the linguistic caveat / self-judgment layer.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Picks up the word 'abandoning' — tracking language, but more a follow than a named read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the wiring ('got wired in so early it still feels true even when you know it isn't') — reads the pattern, not just content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicit, timely, AoA-quality read: names that the client touched something and pulled back, uses observation language, and grounds the next question in the read.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds both polarities of the client's hedge ('might be avoiding, might be exactly right') — a read of the pull-back as legitimate, not just defense.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are visible, specific, and well-timed. The coach consistently names what they see before asking, and the turn-12 read is the kind of pattern-level intervention that defines a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2522,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 905,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2522,
+    "output_tokens": 905,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

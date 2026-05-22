@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:11.088Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e16d72690fb6e39f65590d16c99758f089535cc624c36028231b9f6026e2611b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013z3f86wPcnLMDk5g3Z3q1r",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "When you said \"nothing really\" — did you feel that land as true, or did it land a little flat?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10375,
+      "cache_creation_input_tokens": 9875,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9875,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10375,
+    "output_tokens": 27,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9875
+  }
+}

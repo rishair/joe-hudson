@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:35.563Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6acd1272e457f3f2531a9f9a9aef9ebeaca7be40dca6aa93c09f58ce1abf4807",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01So7rt4tiNKRvdtri3Tny91",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief stillness*\n\nI don't know. I think I was just... trying to think of an example. \n\n*small laugh, slightly less easy than before*\n\nIt's a funny question. I don't think I'd thought about it in those terms before. But I don't think that means anything is missing — I think it just means we're past that early stage where everything is new. That's normal. That's what three years looks like.\n\n*slight adjustment in posture*\n\nIsn't it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 178,
+      "cache_creation_input_tokens": 184,
+      "cache_read_input_tokens": 1829,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 184,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 178,
+    "output_tokens": 113,
+    "cache_read_input_tokens": 1829,
+    "cache_creation_input_tokens": 184
+  }
+}

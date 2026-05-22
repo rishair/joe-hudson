@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:07.148Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7d3704013c1af34a917ab542255f641a1e894174c48ddc8da5744c9399481dfc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EeFbBVH8AUhXf3WLdG4T2F",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's the real thing, isn't it. Not \"how do I silence it\" — but \"what if it's the only thing holding me together.\"\n\nWhat's it like to have said that out loud?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19968,
+      "cache_creation_input_tokens": 10268,
+      "cache_read_input_tokens": 43751,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10268,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 47,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19968,
+    "output_tokens": 47,
+    "cache_read_input_tokens": 43751,
+    "cache_creation_input_tokens": 10268
+  }
+}

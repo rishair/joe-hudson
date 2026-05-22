@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:18.576Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0301102f19ecec9c95b5a724318bb54ecd20d359318939b341121fc50ff434d1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Fj1q3UV8bUbSEuJznGdKMd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, small laugh that doesn't quite land as humor*\n\nWhat does it want. \n\nIt wants things to be fair. It wants the work to mean something. It wants — \n\n*stops*\n\nI don't know. Recognition, I guess. To not be invisible.\n\n*recalibrates, pulls back slightly*\n\nBut that's — look, wanting recognition isn't going to change the org chart. The people above me aren't leaving. That's just the reality. So what the anger \"wants\" doesn't really matter because there's nowhere for it to go. The situation is what it is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 203,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1825,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 133,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 133,
+    "cache_read_input_tokens": 1825,
+    "cache_creation_input_tokens": 0
+  }
+}

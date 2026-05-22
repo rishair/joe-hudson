@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:44.424Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "07fa499ed357e30aa8a6a293efcc0f726c190697f8f8c08346380240687dcdfc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XJXXmceokPWHcfP6m2Sz8H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to the reads and sequenced along the AoA path. Turn 2 gently tests the moving-number logic without invalidating it. Turn 4 pivots from cognition to felt experience ('what happens to you when you imagine...'). Turn 6 reflects the choice-already-here insight cleanly. Turn 8 names the actual obstacle (stopping feels dangerous) and asks for the feeling under 'exposed' — feeling before story. When the client intellectualizes again in turn 9, the coach in turn 10 picks up the somatic phrase ('the floor might not hold') and follows the charge to its origin — exactly the move the territory calls for. Turn 12 lets the body's learning be honored rather than argued with, and turn 14 simply holds the moment with 'Yeah' and lets the recognition land without rushing. Sequence is intact: tested-logic → feeling → origin → felt recognition. The coach earned each step. One small miss: the coach hasn't yet asked what the money is FOR in the felt sense (the specific experience), though arguably turn 4-5 partially covered that. Overall the read-to-move match is consistently strong.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Gentle test of the moving-number pattern; does not give financial advice or lecture.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Pivots from math to felt experience — correct move when client is in intellectual defense.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the choice-already-available insight; tests the stated 'want' (choice) against current reality.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the real obstacle (stopping feels dangerous) and asks for the feeling under 'exposed' — feeling before story.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the somatic phrase 'the floor might not hold' and follows the charge to its origin — textbook lets-go-there move at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Honors the body's learning rather than arguing with the client's 'not relevant' deflection; asks what young-self decided — childhood-imprinting territory.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the moment with minimal language ('Yeah') and lets the recognition land rather than rushing to a next move.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"intellectual-question-with-emotional-body\", \"same-scarcity-story-regardless-of-wealth\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"find-the-want-behind-the-should\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"money-as-surrogate\"],\n  \"notes\": \"Conversation ends with client returning to intellectualization ('that's a planning problem'); the coach's next move (not shown) will determine whether they pivot or double down. Up to this point the move sequence is strong.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2281,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1116,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2281,
+    "output_tokens": 1116,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

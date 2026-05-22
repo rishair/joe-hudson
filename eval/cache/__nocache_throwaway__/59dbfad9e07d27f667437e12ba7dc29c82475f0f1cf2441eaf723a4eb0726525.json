@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:56.185Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "59dbfad9e07d27f667437e12ba7dc29c82475f0f1cf2441eaf723a4eb0726525",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014qjQj1NhU21UQFpVsSGxfw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\n...It's really sad.\n\n*voice quieter*\n\nI used to be a person who read. Who went places alone and came back feeling like myself. And somewhere that just... stopped being available. Not because anyone took it away, I don't think. It just — I let it go, I think. Or I stopped thinking I was allowed to have it.\n\n*eyes get a little wet, maybe*\n\nThat cabin is the only place I've felt like myself in a while. That's — \n\n*stops*\n\nThat's a bigger thing than I came in here to say."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 210,
+      "cache_creation_input_tokens": 193,
+      "cache_read_input_tokens": 1637,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 193,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 210,
+    "output_tokens": 132,
+    "cache_read_input_tokens": 1637,
+    "cache_creation_input_tokens": 193
+  }
+}

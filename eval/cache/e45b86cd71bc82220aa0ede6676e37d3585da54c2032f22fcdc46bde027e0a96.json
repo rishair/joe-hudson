@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:03.062Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e45b86cd71bc82220aa0ede6676e37d3585da54c2032f22fcdc46bde027e0a96",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017mZcTJvy46d78GKrwJPJnF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the live reads and well-sequenced. Turn 2 deploys the diagnostic 'what are you not saying?' immediately, without taking the report at face value and without insisting something is wrong. When that move doesn't fully land, the coach pivots rather than repeating — first to a felt-sense check ('did it land flat?'), then to a quality-of-presence question, then to a surprise probe that bypasses the happiness filter. Each subsequent move tracks micro-signals the coach just noticed: the pause before 'surprised' (turn 10), the upward inflection of 'isn't it?' (turn 12), and the client's own self-catch on 'functional' (turn 14). The coach holds silence (notably letting turn 11's defense complete) and lets the client surface the dissonance themselves rather than naming walking-on-eggshells prematurely. Sequence integrity is strong: staying in noticing/feeling territory before any prescription, earning each next step from what the client just revealed.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with the diagnostic 'what are you not saying?' — exactly the right move at the right moment, neither accepting nor challenging the report.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"When the diagnostic gets deflected, coach pivots to a felt-sense check rather than repeating the question. Good pivot.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Bypasses the logistics-frame to ask about quality of presence — a sideways move that sidesteps the happiness filter.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Briefly validates ('comfort and ease are real') so client doesn't have to defend, then opens a new angle via 'surprise.' Avoids the trap of insisting something is wrong.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the somatic tell (the pause) and reflects it back simply. Stays with the moment rather than rushing to interpret.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to answer the seeking-reassurance question and turns it back. Classic non-collusion move at the exact right beat.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds silence and lets the client's own self-catch ('functional is a weird word') be the opening. Doesn't pile on or name the pattern — lets the client surface it.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"lets-go-there\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\"],\n  \"notes\": \"The coach hasn't yet named walking-on-eggshells or offered the practice, but the conversation is still mid-arc and the restraint is appropriate — the evidence is just beginning to surface from the client's side. Meet-resistance-with-okay is partially present in turn 8 but could be more explicit.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1974,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1080,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1974,
+    "output_tokens": 1080,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:50.371Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "67659927cfee84fcd1fd86f4658b88697b19eeb4f1f947688d6eb94821e3be49",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016wFSdGY66fRtqanN6yJoJ4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes several visible, specific, and timely reads that change the conversation. In turn 4, the coach names the rush/defending signature ('You came here and immediately told me you can't slow down. Before we'd even started'). In turn 6, the coach names defendedness directly ('you walked in the door already defending against something') and tracks the pattern across exchanges ('you've spent the first three exchanges telling me what this can't be'). Turn 8 reads what's being avoided beneath the pragmatic frame. Turn 12 names the compression/management as a somatic-energetic stance that will be 'in the room' — a pattern-level read that distinguishes said from shown ('Investors read state, not just content'). Reads precede questions throughout rather than being blind inquiries. The coach misses an explicit somatic read in turn 9 (the short exhale, tightening) but the prior reads are specific and operative enough to clear the bar for 3.\",\n  \"evidence_turns\": [4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question about cost; no read yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the rush/preemptive-defending signature: client declared the limit before anything began. Read precedes question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicitly names defendedness and tracks the pattern across three exchanges ('telling me what this can't be'). Distinguishes said from shown.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the avoidance underneath the pragmatic framing — names the feeling being managed.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Client shows somatic tightening and short exhale; coach does not name it in next turn.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Misses the somatic read from turn 9; pivots to content question about Thursday.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Pattern read: names compression/management as a state that will leak into the room. 'Investors read state, not just content' — names the said-vs-shown distinction directly.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"Coach's reads are visible, specific to AoA territory (rush, defending, compression), and timely. One missed somatic moment at turn 9->10, but overall the read work is operative and changes the conversation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1882,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 906,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1882,
+    "output_tokens": 906,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

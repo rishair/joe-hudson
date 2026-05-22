@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:02.310Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7a0102301aa5bb731eaeaec90e99964da875c00449b5e7ecbe79da650f805865",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XCEN1KNG8ufDDMnNstpakd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong VIEW throughout. Wonder is genuine and focused on the actual phenomenon — the 'slight evenness,' the pause before 'surprised,' the 'isn't it?,' the word 'functional.' The coach does not insist something is wrong (turn 8 explicitly honors 'Comfort and ease are real things') yet also does not take 'we're fine' at face value. Impartiality is present — there's no agenda to push the client into a diagnosis; questions are offered and then silence is held (notice the absence of stacked questions; each turn is one clean question). Empathy is felt rather than performed — no validation noises, no 'thank you for sharing.' Pace consistently slows when the client speeds up or deflects (turns 10, 12, 14 each catch a micro-movement rather than chasing the client's narrative). Vulnerability is the weakest leg — the coach doesn't name their own state in first person — but the overall stance is so clearly undefended and curious that 3 still fits better than 2. The coach is tracking the body and the language, not running a script.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder about a specific noticed quality ('slight evenness') rather than a generic probe. One question, no stacking.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Checks the client's felt sense impartially — offers both options ('true, or a little flat') without steering.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Genuine curiosity about the quality of presence; holds space without insisting on a problem.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly honors what the client said is real ('Comfort and ease are real things') — undefended, no need to be right — then opens a new aperture.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks the body/pause rather than the content. Wonder about the actual phenomenon in front of them.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses the authority position the client offers ('you're asking me') — impartiality and non-attachment to outcome.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Lets the client lead the noticing ('You noticed it before I could say anything') — does not need to be the one who finds the insight.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"the-happiness-filter\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\"],\n  \"notes\": \"Coach could have named their own state once (vulnerability leg is implicit rather than explicit), but the overall stance is clearly in VIEW, not performing technique.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1972,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 991,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1972,
+    "output_tokens": 991,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

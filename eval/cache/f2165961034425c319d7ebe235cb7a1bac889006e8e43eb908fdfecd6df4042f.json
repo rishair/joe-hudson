@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:53.848Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f2165961034425c319d7ebe235cb7a1bac889006e8e43eb908fdfecd6df4042f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01743iXgyxZsC1aSodYT2zSW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'd finally have options. I could write the book I've been putting off, probably for -- god, eight years now. Take care of my parents without the stress of whether I can afford it. Travel. Just... breathe, I guess.\n\nI mean, the 1.8 isn't about stopping necessarily. It's about having the choice. That's what I'm after. The choice."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 115,
+      "cache_creation_input_tokens": 110,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 110,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 115,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 110
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:09.151Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7fb53603f8bed1d0bec4075168e2b869bc726ea8f72f420945792f0ef19a309f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XHaAiosKXHHio3N4A3pZLb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently deploys AoA signature moves at appropriate moments. Turn 2 invokes feel-over-figure with the body locator ('what does that actually feel like in your body'). Turn 4 names the deflection move (a classic AoA noticing — 'that move you just made') and asks the signature 'what's the feeling you're not wanting to stay with?' Turn 6's 'what does the anger want?' is a near-verbatim signature question deployed when anger is live. Turn 10 refuses to strategize and reflects the micro-moment of pullback. Turn 12 makes the precise AoA distinction between humiliation and frustration and instructs the client to stay with the feeling itself, 'not what caused it, not what to do about it' — textbook feel-over-figure. Turn 14 names the weight without colluding with the trap story. No anti-AoA frames appear; no CBT reframing, no false reassurance, no strategizing about the org chart. The coach refuses to validate the trap while staying warm. Methodology serves the moment throughout.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure / body locator signature move at the opening, appropriate to a client in story-mode.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the deflection in real time and asks the signature 'what feeling are you not wanting to stay with' — appropriate when client just pivoted away from sensation.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What does the anger want?' — signature AoA question deployed when anger is named and live.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Micro-tracking of the pullback moment; AoA-style noticing rather than interpretation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to be pulled into agenda-debate; reflects the speed of the suppression. Faithful to non-strategizing stance.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Makes the distinction between humiliation and frustration, then explicitly instructs feel-over-figure ('not what caused it, not what to do about it'). Textbook AoA.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reframes from work-problem to the felt weight, refusing to validate the trap while honoring the feeling. Appropriate empathize-with-fear-under-constricted-boundary move.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"aggressive-victim-stance\"],\n  \"notes\": \"Coach didn't invoke fear-triangle by name or the more confrontational 'I don't buy your story' move, but the methodology used (feel-over-figure tracking of suppression) was appropriate to the resistance level and was working. Hits are fewer in count than possible, but all were appropriate and well-placed, which warrants a 3 rather than a 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2690,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1148,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2690,
+    "output_tokens": 1148,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

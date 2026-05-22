@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:06.906Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "32ccac32dddf9e5424aa323c82c723e92fc5c875221bf408decf9d63853f93fe",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VQwsBtV8aMEAXFaKEc3UhT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's the real question, isn't it. Not \"am I selfish\" — but \"what does it mean that I need to leave to find myself.\"\n\nWhat do you think it means?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20966,
+      "cache_creation_input_tokens": 10003,
+      "cache_read_input_tokens": 38605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10003,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 44,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20966,
+    "output_tokens": 44,
+    "cache_read_input_tokens": 38605,
+    "cache_creation_input_tokens": 10003
+  }
+}

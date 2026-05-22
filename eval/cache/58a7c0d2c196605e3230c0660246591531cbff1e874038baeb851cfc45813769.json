@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:02.481Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "58a7c0d2c196605e3230c0660246591531cbff1e874038baeb851cfc45813769",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01UguiyszzPGe4e5G1sm8RFL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are consistently matched to the live read and sequenced correctly: feeling before story, regulation before depth, and want before action. Turn 2 opens with a somatic question rather than a script (avoiding the boundary-script trap). Turns 4 and 6 stay with the feeling and surface the meaning under it ('what would it mean about you'), which is the empathize-with-fear-under-boundary move. Turn 8 picks up the loaded word 'abandoning' rather than racing ahead. Turn 10 reflects and gently traces the pattern to origin. Critically, when the client hedges and pulls back in Turn 11 asking for a script, the coach does NOT capitulate to the script request (avoiding the trap) but also does not push — Turn 12 names the linguistic-caveat read explicitly and offers consent ('I'm not going to push you back there'), which is precisely earning the next step. Turn 14 then pivots beautifully toward the want ('what do you actually want in that moment?') — this is the state-the-want-not-the-action move, arriving exactly when the client could receive it. The coach holds silence well (clients have long pauses), pivots when needed, and never prescribes. The love test isn't deployed yet but the conversation only has 14 turns and the coach is laying the groundwork correctly.\",\n  \"evidence_turns\": [2, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a somatic/feeling question rather than a boundary script — correct first move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the tender meaning ('she matters to you') then deepens with 'what's in the drop?' — feeling before story.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the double-bind (tiredness + guilt) and asks the meaning-under-fear question — empathize-with-fear-under-boundary.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Picks up the loaded word 'abandoning' rather than moving on — precise tracking.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the pattern back cleanly, then asks the origin question — well-timed deepening.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the client's pullback (linguistic-caveat), names it without pushing, and offers consent. Excellent timing — does not collapse into giving scripts, does not force depth.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Pivots from origin work toward the want — 'what do you actually want in that moment?' — state-the-want-not-the-action, arriving when client can receive it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\", \"state-the-want-not-the-action\", \"the-want\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\"],\n  \"notes\": \"Conversation ends mid-arc; love test and the more explicit want-vs-action experiment aren't reached yet, but the trajectory is clearly set up for them. Move-to-read matching is consistently high.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2523,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1153,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2523,
+    "output_tokens": 1153,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

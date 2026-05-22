@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:11.517Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b20e48c95263a3c9ee3f8182b45e1953dfa7e2cdcf5003792995029b940f91b9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012sqiQbtyGGyBKm1XWhWYLu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You said \"I'd deal with it\" before I even finished the question.\n\nWhat's the thing you'd be dealing with, if it were fear?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9108,
+      "cache_creation_input_tokens": 10555,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10555,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9108,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10555
+  }
+}

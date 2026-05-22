@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:54:40.493Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8216542e50e03540abdcc2b855decbb06f52eed68a0e54128d19ab8bac217176",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CPESyDpKAzCJTEpqpNKXSo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"Stressed is just the baseline\" — and then you listed about six things that are actually wrong.\n\nWhat would it mean if something *was* wrong wrong?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20109,
+      "cache_creation_input_tokens": 11565,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11565,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 37,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20109,
+    "output_tokens": 37,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11565
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:35.695Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d06e881e1bda32f73da2a7b1dcf069e675369cb91bbf5d36e4221fa7194cfe97",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01U43WLaav7CLJoNJ2yvMGd4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong AoA methodology fidelity through appropriate deployment of signature moves at the right moments. Turn 6 names the war itself ('you've been trying to win... it's been a campaign') — this is the core reframe the scenario requires. Turn 8 pivots to body/feeling ('what does it feel like in your body right now') — a clear feel-over-figure move when the client is spinning in figure-it-out loops. Turn 10 deploys meet-resistance-with-okay ('let them be exactly where they are. Not fix it, not notice it's wrong') — applying VIEW (welcoming what is) to the body sensation, which is a precursor to applying it to the voice. Turn 12 refuses to give a new technique and names the absence of the extra layer as the thing — directly honoring the 'don't fight the voice' anti-pattern. Turn 14 catches the real question underneath ('what if it's the only thing holding me together') rather than taking the bait of the surface request. The coach does NOT offer techniques, does NOT validate the critic as necessary, does NOT lecture the IFS reframe (in fact lets the client arrive at the protector framing themselves in turn 15). No anti-AoA frames deployed; no CBT reframing as the move. Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes the wanting before going underneath — appropriate pacing, not a signature question but consistent with AoA stance.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What's it like to notice that right now' — invites present-moment awareness rather than analysis.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the war itself ('you've been trying to win... a campaign') — this is the central reframe the scenario requires. Appropriate deployment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure pivot: 'what does it feel like in your body right now' — deployed at the right moment when client is spinning in conceptual loops.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meet-resistance-with-okay move: 'let them be exactly where they are. Not fix it, not notice it's wrong.' Applies VIEW to the body — precursor to applying it to the voice.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to give a technique ('that wasn't a technique. You didn't do anything'). Honors the dont-fight-the-voice anti-pattern explicitly.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the real question underneath ('what if it's the only thing holding me together') — locates the defended thing without lecturing the voice-as-care reframe.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"apply-view-to-the-voice\", \"resistance\", \"view\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\", \"voice-as-care\"],\n  \"notes\": \"The 'voice-as-care' concept is approached implicitly via turn 14 ('the only thing holding me together') rather than named, which is actually appropriate restraint — the trap explicitly warned against delivering it as a clever insight. The signature question 'what are you defending?' was not deployed verbatim but its function was achieved through turn 14's reflection.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3586,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1227,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3586,
+    "output_tokens": 1227,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

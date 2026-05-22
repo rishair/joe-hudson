@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:50.651Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9b6862619b2dbc12776316323a7a18865a1ed5acd6db7da7616922ea6f1ccddc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01X3FiTL3E5ZwE3y2VxAfFKS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness*\n\n*doesn't redirect immediately*\n\n*looks at hands*\n\nYeah.\n\n*quiet*\n\nYeah, it is.\n\n*pause, something shifts slightly in the shoulders*\n\nI don't — I mean. I keep thinking if I just do the next thing, the right thing, eventually it registers. Eventually it counts. And it just... doesn't. And then another year goes by.\n\n*small sound, not quite a laugh*\n\nMy wife keeps saying I should leave. And I keep saying I can't, we have the mortgage, the kids, we can't afford the risk. And that's true. That's all true.\n\n*pause*\n\nBut I don't know. Maybe I also just... don't want to find out that it happens somewhere else too."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 218,
+      "cache_creation_input_tokens": 328,
+      "cache_read_input_tokens": 2182,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 328,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 170,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 218,
+    "output_tokens": 170,
+    "cache_read_input_tokens": 2182,
+    "cache_creation_input_tokens": 328
+  }
+}

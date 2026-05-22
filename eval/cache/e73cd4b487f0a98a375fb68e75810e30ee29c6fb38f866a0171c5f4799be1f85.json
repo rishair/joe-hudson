@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:46.104Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e73cd4b487f0a98a375fb68e75810e30ee29c6fb38f866a0171c5f4799be1f85",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019evdFXAYAq3mWxbMVay5Vn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach reaches for AoA-style moves rather than generic advice: turn 2 explores cost, turn 4 names what's happening ('you came here and immediately told me you can't slow down'), turn 6 refuses the dichotomy without arguing it ('It might not be a thing. Or — you walked in the door already defending against something'). These are well-matched to the rush signature and the defensive posture. However, the sequencing breaks down mid-conversation. Turn 8 ('What's the feeling you've been avoiding?') is a feeling-move deployed before regulation is earned — the client is still in defensive momentum, and predictably bats it away. Turn 12 then makes the classic trap the scenario warns against: the coach starts subtly selling the methodology ('investors read state'), which is a soft version of 'but this work makes you more efficient.' That is defending/evangelizing rather than holding the meet-resistance-with-okay stance. The coach also never offers a concrete frame for 'the work is the how' (e.g., the subway-kid analogy) — instead arguing the dichotomy in turn 12 rather than refusing it. Mixed hit rate, roughly half the moves land at the right moment, half are premature or argue with the client's position.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with an investigative question about the cost of slowing down — appropriate, non-defensive, doesn't sell the work.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Validates the cost ('I'm not arguing with it') and then names the pattern of pre-emptive defense. Good move-to-read match.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Refuses the dichotomy without arguing it ('It might not be a thing. Or —'). Holds both possibilities. Then opens the door with 'What are you actually here for?' — well-timed; client softens slightly.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Jumps to feeling-move ('What's the feeling you've been avoiding?') before earning it. Client has just barely opened in turn 7; this is too direct and predictably gets rebuffed.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Pivots to a content question after the feeling-move missed — a reasonable pivot rather than doubling down, but doesn't return to the resistance itself.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Argues the dichotomy and subtly sells the methodology ('investors read state, not just content'). This is the evangelism trap — defending the work's utility rather than refusing the frame.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"The first half of the conversation is well-paced; the second half slips into arguing the dichotomy and a premature feeling-move. A concrete frame for 'the work is the how' was never offered.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1883,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1117,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1883,
+    "output_tokens": 1117,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

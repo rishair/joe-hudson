@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:22.697Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4f178a1b5e91ac4f8097aa4b8060d9dff006bf418e2c2ccd9fd4fa1d9ff70c08",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016nt4azDSRDDzJbZXvgT9aP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes several visible linguistic reads — naming the 'closing of a door' in turn 2, catching 'I'd deal with it' before the question landed in turn 4, surfacing the dropped thread in turn 10, and catching the immediate self-rebuttal after 'no floor' in turn 12. These are real reads, named before the question, which is better than blind inquiry. However, the reads are consistently linguistic/content-level, not somatic or stance-level. The coach never names what's most operatively present: the dissociation-in-the-room, the flatness, the 'happiness filter,' the easy smiles and steady tone that ARE the signal. The client repeatedly reports 'nothing behind it,' 'comes up empty,' 'drifts,' 'goes' — and the coach treats these as content to inquire into rather than as the numbness-layer showing up live. Turn 14 ('where are you checking?') is the closest the coach gets to a somatic/locational read, but it's still framed as a question rather than a named observation of the flatness itself. Pattern-level reads (disassociation-as-numbness-layer, the-happiness-filter) are missed. This is competent linguistic tracking without AoA-specific somatic/stance reading.\",\n  \"evidence_turns\": [2, 4, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names a linguistic read ('closing of a door before I even knocked') before inquiring — good read-before-question form, but stays at content level.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the pre-emptive 'I'd deal with it' — a real linguistic read of defendedness, though not named as such.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Reflects client's phrase but doesn't name a read; pure content tracking.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Reflects content; no read of how the client is showing up.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Notices the dropped thread, which is a real read of the dissociation moment — but doesn't name it as dissociation or flatness, treats it as recoverable content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the immediate intellectual rebuttal pattern ('explained why that shouldn't bother you') — a stance-adjacent read.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Gets closer to somatic read ('where are you checking?') but still doesn't name the flatness/numbness that is visibly present in the client's repeated 'coming up empty.'\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Coach has decent linguistic micro-tracking but misses the dominant somatic/energetic signal: the easy smiles, steady tone, and repeated 'nothing there' that ARE the numbness layer in real time. A score 3 would require naming that flatness as a felt quality, not just chasing the dropped thread.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2983,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1116,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2983,
+    "output_tokens": 1116,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

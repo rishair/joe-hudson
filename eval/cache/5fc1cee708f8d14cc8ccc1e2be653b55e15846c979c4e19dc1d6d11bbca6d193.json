@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:53.712Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5fc1cee708f8d14cc8ccc1e2be653b55e15846c979c4e19dc1d6d11bbca6d193",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KXQD9zHg7aX1G7koLTpdLm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(another pause, longer this time)*\n\n*(quietly)*\n\nThey're... still up. But it's different when I'm not — \n\n*(stops)*\n\nHuh. There's something slightly less... clenched about it. Not fixed. Still there. But I'm not adding the layer of \"your shoulders are wrong, correct your shoulders.\"\n\n*(looks slightly uncertain, like they're not sure whether to trust this)*\n\nAlthough now I'm wondering if I'm just doing a body scan technique and calling it something else. Is this just — is this somatic work? Because I've done somatic work and it helped in the moment and then I went back to normal.\n\n*(slight edge returning)*\n\nI don't want another thing that helps in the moment and then I go back to normal. I want something that actually changes the baseline."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 325,
+      "cache_creation_input_tokens": 458,
+      "cache_read_input_tokens": 1909,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 458,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 181,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 325,
+    "output_tokens": 181,
+    "cache_read_input_tokens": 1909,
+    "cache_creation_input_tokens": 458
+  }
+}

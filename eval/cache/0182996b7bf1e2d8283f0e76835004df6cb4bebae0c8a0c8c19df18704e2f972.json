@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:43.649Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0182996b7bf1e2d8283f0e76835004df6cb4bebae0c8a0c8c19df18704e2f972",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GLC47AxZyhMHuPrgDMXnEE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief pause, the smile holds*\n\n...Qualifying. Keeping a little distance from it.\n\n*another pause, slightly longer*\n\nI do that. I notice I do that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 141,
+      "cache_creation_input_tokens": 141,
+      "cache_read_input_tokens": 1637,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 141,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 141,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 1637,
+    "cache_creation_input_tokens": 141
+  }
+}

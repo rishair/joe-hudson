@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:24.974Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "148838aa1585f5c94ccad143342f47d0b44365b27e2c4b111b6044281781100b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01J652Msz3F4t935uGwhK9BC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What decision is it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11326,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 8,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11326,
+    "output_tokens": 8,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

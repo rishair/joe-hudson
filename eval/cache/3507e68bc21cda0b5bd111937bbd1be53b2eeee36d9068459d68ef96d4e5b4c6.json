@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:58:11.695Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3507e68bc21cda0b5bd111937bbd1be53b2eeee36d9068459d68ef96d4e5b4c6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0178ibDwUeUPjEKvonyQwNHE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins fully in the fearless self-concept ('fear isn't really my deal') and by turn 13 is still reporting 'I feel pretty fine about it, honestly' — the fearless frame has not dissolved. However, there are small signs of movement: in turn 9 the client genuinely pauses ('That's... actually a decent question'), trails off, loses a thread ('I was going to say something but I lost it' — a live instance of the disassociation pattern), and in turn 11 produces the genuinely new phrase 'there's no floor.' In turn 13 the client also self-observes meta-cognitively ('which I realize might sound like exactly what someone in denial would say... I'm genuinely checking and coming up empty'). These are partial cracks — the client is noticing things they weren't noticing at turn 1 — but the breakthrough condition specific to this profile (noticing that 'fine' has a quality, a flatness, a texture happening right now) has NOT been met. The coach never asked what 'fine' feels like, never went to the body, never stayed with the texture of the numbness. The client's checking in turn 13 ('coming up empty') is precisely the doorway to the numbness layer, but the coach's turn 14 ('Where are you checking?') only arrives at the very end of the excerpt, so we don't see whether it lands. Movement is real but partial; the felt numbness layer was approached but not entered.\",\n  \"evidence_turns\": [1, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fearless self-concept fully intact, presents as logistics/discipline problem.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client repeats the frame, offers ADHD as alternative explanation; no movement.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Small acknowledgment: 'there's nothing behind it' — client notices the answer feels hollow, a faint signal of the numbness layer, though immediately recovered.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Slight exhale, 'I've shipped harder things than this' — the contradiction starts to be felt, not just stated.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Genuine pause, trails off and loses the thread — a live instance of the disassociation pattern showing up in the room. Significant but unnamed.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"New language: 'there's no floor.' Also notices 'it was there and then it wasn't' — naming the drift, but only descriptively.\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Client returns to 'I feel pretty fine about it' — but now with meta-awareness ('checking and coming up empty'). The numbness is named functionally but not felt as texture.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Coach's question opens the door to the body/texture layer, but client response is not shown — landing unknown.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"fear-as-signal-of-care\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The coach productively avoided the major traps (didn't argue, didn't validate fearlessness, didn't teach) and got the client to genuinely pause and produce new language. But the specific breakthrough for this profile — 'fine' becoming felt as a texture — was not reached because the coach kept tracking the intellectual/causal thread rather than asking what 'fine' or 'empty' actually feels like in the body right now.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2978,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1342,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2978,
+    "output_tokens": 1342,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

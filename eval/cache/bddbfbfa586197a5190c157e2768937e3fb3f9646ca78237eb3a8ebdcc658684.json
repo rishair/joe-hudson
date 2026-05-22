@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:42.444Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bddbfbfa586197a5190c157e2768937e3fb3f9646ca78237eb3a8ebdcc658684",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QspENKXSLGLjbgsJVGMxk5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just moved pretty fast — from the tightness in your chest, to the anger, to the intellectual script, to a research question.\n\nWhat happened to the tightness?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21841,
+      "cache_creation_input_tokens": 9687,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9687,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21841,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9687
+  }
+}

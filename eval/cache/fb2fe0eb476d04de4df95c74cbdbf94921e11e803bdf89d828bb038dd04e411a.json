@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:12.139Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fb2fe0eb476d04de4df95c74cbdbf94921e11e803bdf89d828bb038dd04e411a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TkPsYTV6mMVE8iZS6rxux1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, glances away*\n\nFair. Okay.\n\nI have a co-founder situation that's deteriorating. We're not aligned on the direction and it's starting to affect the team. I need to figure out how to handle it — whether to have the conversation, how to structure it, what the options are if it goes badly.\n\nThat's what I'm here for. Practical. Specific. I need a framework for navigating this."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 206,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1797,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 100,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 206,
+    "output_tokens": 100,
+    "cache_read_input_tokens": 1797,
+    "cache_creation_input_tokens": 0
+  }
+}

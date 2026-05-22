@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:30.255Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f2b88f901f22106dd67cfef1fe5e5b8db093c5701924cc3d95e18cadc1bb4c7d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0113KiFZFEgkFvQDQMfcBzqF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*silence for a moment*\n\n...the quiet, mostly. Like, the apartment is just. It's very quiet. And my brain starts doing this thing where it goes somewhere I don't want it to go.\n\n*pause*\n\nI don't know where it goes exactly. I stop it before it gets there.\n\n*slight edge coming in*\n\nAnd look, I appreciate you saying that about the drinking, but I'm not an alcoholic or whatever. I know that's probably the next thing. I'm just... it's a hard time. People drink during hard times. \n\n*testing*\n\nAre you going to tell me to stop drinking? Because I didn't come here for that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 279,
+      "cache_creation_input_tokens": 320,
+      "cache_read_input_tokens": 2106,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 320,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 149,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 279,
+    "output_tokens": 149,
+    "cache_read_input_tokens": 2106,
+    "cache_creation_input_tokens": 320
+  }
+}

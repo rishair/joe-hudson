@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:14.822Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a44151cd00f56ee019192a6eb02bee801e66b123b680dfe7d4149bf61d2d6b20",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MBvXfAu2JaJpHfpCGg2mwr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI didn't, really.\n\nThere wasn't... there wasn't room for it. Someone had to do it. And then when it was done, I'd come home and it would just be quiet and I'd pour a drink and that was that.\n\n*voice goes a bit flatter*\n\nIt's a pretty efficient system, actually. Handle the day, turn off the night. I've gotten pretty good at it.\n\n*beat*\n\nI know how that sounds."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 240,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2082,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 107,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 240,
+    "output_tokens": 107,
+    "cache_read_input_tokens": 2082,
+    "cache_creation_input_tokens": 0
+  }
+}

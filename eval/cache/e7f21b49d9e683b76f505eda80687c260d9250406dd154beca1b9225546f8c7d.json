@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:41.712Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e7f21b49d9e683b76f505eda80687c260d9250406dd154beca1b9225546f8c7d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018QgEhGb3gUrGcCqECWdxDX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You said \"there's no floor\" — and then immediately explained why that shouldn't bother you.\n\nWhat if it does?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17484,
+      "cache_creation_input_tokens": 10361,
+      "cache_read_input_tokens": 33674,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10361,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17484,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 33674,
+    "cache_creation_input_tokens": 10361
+  }
+}

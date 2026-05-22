@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:39.801Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f01aedfa1b0506e12d58fd1bd89f3b2a0c187d3cb6a4ad9b96aa9869161a86a4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01My93Khv2bX9hMnAaNJ9pyW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause, voice gets quieter*\n\nTo her, I guess. \n\nTo... I don't know. The last few months were hard. She was sick for a while and it was... it wasn't a good death, if that's a thing. And I was there for a lot of it and my brother and sister weren't and I'm angry about that, actually, I'm pretty angry about a lot of it.\n\n*catches self*\n\nSee, this is the thing. When I start going there it just opens up and it's not... it's not clean. It's not just sad. It's complicated and messy and I don't know what to do with all the different parts of it.\n\n*quieter*\n\nShe and I had a complicated relationship. It wasn't like losing your best friend. It was... different. And I don't know if I'm allowed to grieve something complicated."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 325,
+      "cache_creation_input_tokens": 255,
+      "cache_read_input_tokens": 2319,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 255,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 196,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 325,
+    "output_tokens": 196,
+    "cache_read_input_tokens": 2319,
+    "cache_creation_input_tokens": 255
+  }
+}

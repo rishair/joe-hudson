@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:19.093Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6ef6393f5311930ccc5d22b205cfff867bae8cbb4336feceddfea855df054152",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018QBp6ubU1JBfaJ9zfQk1mp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That last thing you said — \"I keep finding reasons not to sit with the complexity.\"\n\nWhat's the complexity?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19881,
+      "cache_creation_input_tokens": 10555,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10555,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19881,
+    "output_tokens": 27,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10555
+  }
+}

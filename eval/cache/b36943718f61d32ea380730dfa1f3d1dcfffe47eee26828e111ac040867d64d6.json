@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:01:11.571Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b36943718f61d32ea380730dfa1f3d1dcfffe47eee26828e111ac040867d64d6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01UhwHLhCwAg1pNcy33AELUi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose AoA-style moves matched to live reads and sequenced them correctly: body first (T2), then noticing the deflection from feeling to story (T4), then following the want under the anger (T6), then catching the pullback on 'invisible' (T8), then deepening from frustrated to the more vulnerable 'humiliating' (T12), then reframing scope ('that's not a work problem') in T14. The coach refused to validate the trap, refused to strategize the org chart, and refused false reassurance — instead repeatedly returning to feeling. Timing was strong: when T4 missed slightly and the client doubled back to story, the coach didn't repeat the same move but acknowledged tenure ('eleven years') to earn warmth before re-inviting the feeling in T6. When the client demanded 'what are you getting at,' the coach didn't defend or explain — held ground and returned to the specific noticing. The T12 move (isolating humiliation from frustration and asking him to stay with just the feeling) is precisely the right move at the right moment, and T14 holds the moment rather than rushing to a next question, which is what produces the softening in T15.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens at the body — bypasses the story-frame the client offered. Right first move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the deflection from sensation back to situation. Accurate read, surgical move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Brief acknowledgment ('eleven years') earns warmth, then 'what does the anger want' — moves toward want under the emotion.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the specific pullback on 'invisible' — precise, evidence-based noticing rather than generic.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Client challenges; coach doesn't defend or pivot to explanation, just restates the noticing and re-invites the feeling. Holds the move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Distinguishes humiliation from frustration and invites staying with just the feeling, not the cause. Textbook feeling-before-story move at exactly the moment client surfaced it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Doesn't ask another question — reflects scope ('not a work problem... eleven years carrying that'). Holds the moment, which lets the client land.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-if-you-acted-exactly-how-you-want\", \"fight-or-roll-over-binary\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Conversation ends just at the softening; later moves (naming the choice, the empowered/power distinction) weren't reached but the path toward them was correctly built.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2697,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1090,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2697,
+    "output_tokens": 1090,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

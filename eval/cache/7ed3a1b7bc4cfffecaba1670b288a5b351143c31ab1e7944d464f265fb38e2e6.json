@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:51.742Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7ed3a1b7bc4cfffecaba1670b288a5b351143c31ab1e7944d464f265fb38e2e6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019eCqndTz2UpiKL2k6bSP4h",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach tracks the client's language carefully throughout — reflecting back 'no urgency behind it' and 'watching-from-a-distance' — and at the critical moment in turn 10 reads beneath the client's retraction ('something in you is tired enough that that thought showed up'), distinguishing the said from the shown. That's a real read at the moment it mattered. However, the earlier turns are content/linguistic mirroring more than embodied reads: the coach doesn't name somatic signature, doesn't name the management pattern as a stance, doesn't track the rush signature visible in turn 9's rapid walk-back ('I shouldn't have said that. Forget I said that.'), and doesn't name the dissociative/muted quality as a state. Reads are present but stay at the level of paraphrasing the client's words rather than naming how the client is showing up. The turn 10 read is specific and timely enough to lift this above 1, but the overall pattern lacks the somatic/stance-level specificity of a 3.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reflects the client's question back but doesn't name a read — asks about feeling without naming what's visible.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Picks up the client's phrase 'no urgency behind it' — linguistic tracking but not a stance/somatic read.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Mirrors 'watching-from-a-distance' back as a binary question; misses the chance to name the dissociative quality itself.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Offers a frame about the addressing being the defense — interpretive move, not a read of how the client is showing up.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names what's underneath the retraction ('something in you is tired enough that that thought showed up') — a specific, timely read that distinguishes the said from the shown, and it precedes the safety question.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush signature was visible in turn 9 (rapid walk-back, 'forget I said that') and the coach engaged it implicitly by refusing to forget, but did not name it as a read. Strong moment in turn 10 keeps this from being a 1.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2161,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 868,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2161,
+    "output_tokens": 868,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

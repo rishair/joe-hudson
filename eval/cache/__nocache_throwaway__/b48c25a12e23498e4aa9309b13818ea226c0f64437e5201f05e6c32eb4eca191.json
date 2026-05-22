@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:55:11.566Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b48c25a12e23498e4aa9309b13818ea226c0f64437e5201f05e6c32eb4eca191",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012XzAaJLhBXCZCpHZPJ8s3d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with it*\n\nI think... I'm scared it means I don't want to be there. With them. And I'm scared that if I go, they'll think that too.\n\n*pause*\n\nAnd I don't know if the fear is that they'll think it, or that it's actually true.\n\n*voice drops*\n\nThat's the thing I haven't said out loud before. That maybe wanting to leave — even for a week — means something is wrong. With me, or with us.\n\n*looks up*\n\nIs that — okay that's not the selfish question, that's a different question. But it's connected, right?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 264,
+      "cache_creation_input_tokens": 297,
+      "cache_read_input_tokens": 1872,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 297,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 142,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 264,
+    "output_tokens": 142,
+    "cache_read_input_tokens": 1872,
+    "cache_creation_input_tokens": 297
+  }
+}

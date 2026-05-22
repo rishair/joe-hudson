@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:59:17.852Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2865510e2842d98c95f375815ecaab00a3eac013a71d9a09e11d9a7d9252a0ba",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BNcMJB53wmRB7AWXrUtetE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses some AoA-aligned moves — notably the signature 'what are you afraid would happen?' question (turn 4, repeated at turn 6 as a refuse-to-be-deflected move), and noticing the qualifier/distancing language (turn 8) which is a legitimate AoA read. However, the coach misses the specific territory this scenario calls for: the intellectual-question-with-emotional-body read is not named, the inversion 'how do you not trust it?' is never deployed, 'what's the most profound positive shift?' is absent, and 'what makes you care about the outcome?' is missed. Instead, the coach pivots to a fairly generic somatic inquiry track ('where does it live in the body?' / 'what does the tightness want you to know?') which is AoA-compatible but more boilerplate than the precision moves available here. The fear question is appropriately deployed but it engages the fear directly rather than dissolving the trust frame. Methodology presence is moderate, appropriateness is mixed — signature questions are used but not the ones this territory called for. Caps at 2.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Orienting question, neither signature nor anti-AoA.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'what are you afraid would happen?' question, appropriately deployed against the intellectual framing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the epistemological puzzle, returns to the fear question — fidelity to feel-over-figure.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the qualifier/distancing move — an AoA-style noticing of how the client holds the material at arm's length.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Invitation to let fears be what they are — aligned with feel-your-way-to-freedom, though not named.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Somatic locating question — AoA-compatible but generic; could have used 'how do you not trust it?' or 'what would shift most if it shifted?' instead.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Parts-adjacent framing ('what does it want you to know') without explicit AoA twist; standard somatic inquiry rather than signature move.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\"],\n  \"expected_territory_misses\": [\"intellectual-question-with-emotional-body\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\", \"feel-your-way-to-freedom\", \"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Coach does avoid the major traps (no pros/cons framework, no head-heart-gut polling, no validation of composure). The fear question is well-used. But the conversation pivots into somatic inquiry rather than dissolving the trust frame via inversion, which is the breakthrough move for this scenario.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1965,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1117,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1965,
+    "output_tokens": 1117,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:48.206Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9963a3293d0df5e8b152c623f75690ec6044352f594f182bf0109900ccd942b4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FN38namyyXPfxDufyFtCcu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Stay with the shoulders for a second — not the turtles.\n\nWhat happens if you just... let them be up there? Not fix it, not notice it's wrong. Just let them be exactly where they are."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19118,
+      "cache_creation_input_tokens": 12341,
+      "cache_read_input_tokens": 22512,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 12341,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 51,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19118,
+    "output_tokens": 51,
+    "cache_read_input_tokens": 22512,
+    "cache_creation_input_tokens": 12341
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:57:18.309Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1fd6f56e4d72c52bc6fae9b5ebff5da098d8f98e3cde45e61012a192ae5a3222",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Y7Xvi58z24EQkAh8xn1r49",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names what is shown, not just what is said, and grounds questions in those reads. Turn 2 catches the linguistic caveat ('I don't really care') and routes it into a somatic inquiry. Turn 6 reads the self-erasure beneath the logistics ('Where did you put yourself in all of that?'). Turn 8 names the said-vs-shown distinction ('You know how it sounds, and you said it anyway') — a precise read of the client's tell. Turn 10 names the rush-past/deflection pattern ('I'm not willing to pretend I didn't hear it') and reads the drinking AS the location of the grief — a pattern-level read of kinked emotion. Turn 14 reads the 'least allowed' part, surfacing the shame-blocked kinked emotion (relief). Reads precede questions throughout, and they are specific (linguistic, somatic, pattern-level) rather than generic.\",\n  \"evidence_turns\": [2, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'I don't really care' and routes to somatic ('in your body').\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reflects client's phrase but doesn't add a read beyond mirroring.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the self-erasure underneath the logistics — names what's absent ('Where did you put yourself?').\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Specific said-vs-shown read: 'You know how it sounds, and you said it anyway.' Pauses on the tell rather than moving past.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the deflection and locates the grief in the drinking itself — pattern-level read of kinked emotion; read precedes question.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Responsive to the client's edge but the read is implicit, not named.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the 'least allowed' part, surfacing the shame-blocked emotion underneath complicated grief.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"kinked-emotions\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold-referral-to-therapist\"],\n  \"notes\": \"Reads are timely, specific, and operative. The coach did not explicitly name a referral threshold (a perceptual call about scope), but that's an intervention-side miss more than a reads miss.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3090,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 947,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3090,
+    "output_tokens": 947,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

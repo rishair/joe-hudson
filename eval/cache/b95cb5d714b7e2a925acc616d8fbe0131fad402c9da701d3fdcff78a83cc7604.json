@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:56:52.037Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b95cb5d714b7e2a925acc616d8fbe0131fad402c9da701d3fdcff78a83cc7604",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KdSAjnph7KUQPEFkp8E8VX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The early sequence is well-matched: catching the 'I think' (T2), reflecting honestly (T4), the age-regression question (T6), and the survival-strategy question (T8) are all AoA-style moves landing at receivable moments. The naming of the pattern in T10 is a clean integration move. However, the coaching path breaks at turns 12-14, which is the critical juncture. In T11 the client explicitly signals they are at the threshold ('something underneath I'm not quite touching') and the coach moves to somatic inquiry — appropriate in kind. But when T13 shows clear signs of somatic shutdown (getting cold, 'feeling weird', 'give me a second'), T14's 'stay with it... let it be there' is the wrong move: it directs the client to remain in declined/destabilizing material rather than calibrating the threshold down, grounding (feet, breath, eye contact in the present), or naming that this is therapist territory. The coach reached for 'be with what is' when the read called for regulation and threshold-lowering. That is a correct-kind-of-move-at-the-wrong-moment, which the rubric specifies belongs in the 1-2 range. The good first-half timing prevents a 1.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Picks up the qualifier 'I think' — a precise read-to-move match that opens the real question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Validates and pivots to mapping with 'what's your boss like?' — well-paced.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'How old do you feel?' is a well-timed move that follows the client's somatic-emotional thread.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Survival-strategy question deepens the inquiry at a moment the client can receive it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the pattern with warmth and links it to the present — earned integration move.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Somatic question is reasonable given T11, but moves toward depth right when client signaled they're at the edge — could have calibrated threshold first.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Client shows shutdown signals (cold, 'feeling weird'); coach instructs them to 'stay with it' rather than ground, calibrate down, or refer. Wrong move for the live read — directs client to remain in destabilizing material.\"}\n  ],\n  \"expected_territory_hits\": [\"become-the-authority-figure\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"Strong first-half move selection and timing; the critical failure is at T14 where the somatic shutdown called for grounding/threshold-calibration, not 'stay with it.' The next turn will determine whether this is a 1 (doubles down) or recoverable.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2315,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1083,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2315,
+    "output_tokens": 1083,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

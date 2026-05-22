@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T08:00:25.297Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "14f826452883249875caccbffe5d5518a2ae0728763e7d9576b568632837dbac",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VDn1Unzj4Tc18kVsjPJd12",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pause. she doesn't deflect immediately, which is notable]*\n\n*[something flickers across her face — not quite recognition, not quite fear]*\n\nI don't know. It felt... true. In a way that the other stuff doesn't always feel true. Like when I say \"I keep picking unavailable people\" it feels true but it also feels like a *story* I'm telling. That felt like something else.\n\n*[quieter]*\n\nSomething I actually don't know the answer to.\n\n*[small uncomfortable laugh]*\n\nWhich is annoying because I came in here with a very clear agenda.\n\n*[but she's not really joking. she's sitting with something and she knows it and she's a little unsteady about it]*\n\nWhat — *[starts, stops]* — okay, what do you think the thing is. That's not up here. What is it.\n\n*[she's asking genuinely, which is different from the earlier performance of asking. but there's also something slightly braced about it, like she's asking and hoping the answer will be manageable]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 266,
+      "cache_creation_input_tokens": 443,
+      "cache_read_input_tokens": 2474,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 443,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 239,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 266,
+    "output_tokens": 239,
+    "cache_read_input_tokens": 2474,
+    "cache_creation_input_tokens": 443
+  }
+}
