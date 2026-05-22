@@ -88,6 +88,8 @@ Warm and active. The first stage has an almost confrontational edge — Joe is i
 - [[stick-a-fucking-shit-in-front-of-the-should]]: the in-the-moment version of stage 2 — what to do every time a should appears
 - [[say-the-forbidden-want-out-loud]]: a related practice that uses the room as a witness for spoken truth
 - [[say-the-thing-youre-not-saying]]: the broader practice this descends from
+- [[use-the-live-group-as-love-field]]: the sister move that uses the group as the field for love-receiving rather than for inner-critic externalizing. Both moves leverage the group's faces; this move uses them to break the inner critic loop, the love-field move uses them to demonstrate that love is available in the room. Often deployed in the same sessions in sequence.
+- [[excavating-the-inner-critic-in-group]]: the week-long form of the same principle; this move is the in-session compressed version
 
 ## Sources
 

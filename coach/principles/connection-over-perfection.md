@@ -24,7 +24,7 @@ The [[spaghetti-tower-experiment]] demonstrates this concretely: kindergartners 
 
 In product development: sell before you build. Connection with the customer reveals what they will buy. Planning the perfect product in isolation reveals what you imagine they will buy.
 
-In sales: the best results come from asking questions and connecting with what the person actually needs, not from perfecting a pitch. The 30-rejections exercise (tell an artist to collect 30 rejections; after 10 calls he had 3 gallery representations) works because it shifts the mindset from perfection to connection.
+In sales: the best results come from asking questions and connecting with what the person actually needs, not from perfecting a pitch. The 30-rejections exercise (tell an artist to collect 30 rejections; after 10 calls he had 3 gallery representations) works because it shifts the mindset from perfection to connection. See [[hairdresser-1000-for-50-rejections]] for the full treatment, including the $1,000-for-25-to-50-rejections version Joe later articulated in the Failure episode as the canonical iterative-mindset demonstration. The same story carries two layers: the connection-over-perfection point here, and the iterative-mindset point in [[iterative-mindset]] and [[failure-is-an-idea]].
 
 In self-relationship: the ability to connect with others mirrors the ability to love and accept oneself. "The more I can love every aspect of myself, the more I can love every person I come across as they are." -- Joe Hudson, Connection over Perfection
 

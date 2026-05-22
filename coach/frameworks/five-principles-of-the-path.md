@@ -44,6 +44,8 @@ This applies even to extreme cases. A person who has killed cannot undo it. But 
 
 This principle connects to [[process-over-result]]: the iteration is the process. Fixating on whether an iteration was "right" or "wrong" is attachment to a result.
 
+For the full operational treatment of this principle as the antidote to the failure-verdict, see [[iterative-mindset]] and [[failure-is-an-idea]]. The iterative-mindset article develops the principle into a complete operational orientation, including the five mechanisms that make iteration work in practice (reframe failure as iteration, pre-build the experiment list, feel the emotions on the way through, reward attempts not outcomes, track process metrics not outcomes). See also [[habenula]] for the neurological mechanism that makes the failure-frame so sticky and that the iteration reframe releases.
+
 ### 4. Curiosity (Evolved to "Wonder!")
 
 See [[wonder]]. Fear and curiosity cannot coexist. When running from a tiger in your imagination, the fear courses through you. Then wonder: "How much does the tiger weigh?" The fear disappears.

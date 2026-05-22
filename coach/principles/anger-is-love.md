@@ -4,7 +4,7 @@ id: anger-is-love
 title: "Anger Is Love (We Don't Get Angry at What We Don't Care About)"
 aliases: ["anger is love", "anger as love", "anger equals love", "we don't get angry at what we don't care about", "anger comes from caring", "anger as the visible form of love", "anger is the proof of love", "where there's anger there's love", "anger is what care looks like when threatened", "the compressed anger-is-love teaching", "anger as the marker of love", "what you're angry about is what you love", "if you weren't angry you didn't care", "the surface anger vs the real anger", "the coffee machine is not what you're angry about", "the surface target isn't the real target"]
 tags: ["principle", "anger", "love", "care", "emotions", "reframe", "wisdom of anger"]
-sources: ["2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
+sources: ["2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-07-12_I Can't Get Over My Ex"]
 ---
 
 # Anger Is Love
@@ -95,6 +95,16 @@ The anger was real. The care was deep. The identity of the perfect caregiver pre
 
 This pattern is widespread. People in roles defined by love (parents, partners, caregivers, healers) often suppress anger precisely because the role frames anger as incompatible with the love the role requires. The reframe collapses the incompatibility: the anger was the love. The role's requirement of love-without-anger was the requirement that produced the suppression that produced the held material that eventually leaked out in other forms.
 
+## Anger as the Form Love Takes Toward a Lost Other
+
+A specific application of the principle: when love and anger arrive together toward a person from whom the relationship has been severed (a divorce, a death, an estrangement), the anger is the live form of the love that has not been allowed to complete its expression. The love is still operating. The anger is the energetic shape it takes because the relational channel is closed.
+
+In the divorce-by-letter session, the client had been guided into love with strangers on a Q&A call and then asked to extend the love practice to his ex-wife. The first thing surfaced was the love-and-anger pair held together: "I know there's love, but there's a lot of anger." Joe's response: "Yeah, there fucking is." The anger is not the contradiction of the love. It is the love that has nowhere to go after the relationship was ended in a way that did not permit response.
+
+The group-consent framing for the anger release that followed extended the principle directly: "everybody who would love to hear this anger come and who understands that it's really just like a love that's moving the pipes out." The pipes are the channel where the love that became anger has been backed up. The release is the channel finally opening — to a target other than the inaccessible person (a punching bag, the group's witness, the body's voice) — so the held love-in-anger-form can complete its movement.
+
+This connects to [[shame-is-anger-turned-inward]]: when the anger that is the form of the love cannot find any outward channel, it turns inward and becomes shame. The chronic shame the client had been carrying since the marriage ended was the inward-turned form of the love-in-anger that the ending had no exit for. The release dissolves the shame because it gives the love-in-anger its proper movement.
+
 ## The Implication for Movement Practice
 
 When anger is recognized as love, the movement practice for releasing anger (see [[get-angry-in-the-car]] and the related physical-expression methods) takes on a different character. The releasing is not getting rid of something bad. The releasing is letting the love that has been compressed into anger move through the body. The same activity has a different felt meaning, which changes what the activity does.
@@ -138,3 +148,4 @@ The principle is one of the rare teachings where Joe delivers the most compresse
 
 - 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (Joe delivering the compressed teaching "I see anger itself as love. We don't get angry at anything that we don't have a deep care for"; the coffee machine corollary that the surface target is not the real source of the anger; Stephanie's immediate recognition that the reframe "would have been really freeing for me at the time"; Stephanie's caregiver story showing the perfect-caregiver identity preventing the anger from being recognized as the form the care was taking; the body-first movement-based access to anger via punching pillows and high-intensity workouts; Joe's affirmation that "the most profound way when you can get to it is physical punching, beating, something like that with words")
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (alternate version of the same conversation; same compressed teaching; same Stephanie response; same caregiver story)
+- 2024-07-12_I Can't Get Over My Ex (the love-and-anger-together pair surfaced when a client extended his love practice to his divorced ex-wife — "I know there's love, but there's a lot of anger"; Joe's affirmation "Yeah, there fucking is"; the group-consent framing for the anger release that named the anger as "really just like a love that's moving the pipes out"; the demonstration that the love-in-anger form of the principle is what is operating when a relationship has been severed without permitting the anger's expression)

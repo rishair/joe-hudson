@@ -2,10 +2,10 @@
 type: principle
 id: self-judgment-protects-from-emotion
 title: "Self-Judgment Protects You From an Emotion Underneath It"
-aliases: ["judgment of self protects from emotion", "self-judgment as defense against feeling", "the judgment hides the emotion", "what the self-judgment is protecting you from", "when you judge yourself find the emotion underneath", "judgment as emotional shield", "the emotion under self-criticism", "judging yourself to avoid feeling", "self-criticism as emotion avoidance", "the function of self-judgment"]
+aliases: ["judgment of self protects from emotion", "self-judgment as defense against feeling", "the judgment hides the emotion", "what the self-judgment is protecting you from", "when you judge yourself find the emotion underneath", "judgment as emotional shield", "the emotion under self-criticism", "judging yourself to avoid feeling", "self-criticism as emotion avoidance", "the function of self-judgment", "judgment is an emotional backwater", "judgment is an eddy of stuck emotion", "judging others is the same as judging self", "judging someone for being late protects from abandonment", "judging someone for not working hard protects from alone-with-responsibility", "the emotional eddy", "the 10-second feel", "feel the emotion for 10 seconds", "the just-feel-it-for-10-seconds instruction", "the every-judgment-has-an-emotion-underneath principle", "the operational check-in for judgment"]
 tags: ["self-judgment", "emotions", "voice in the head", "perfectionism", "avoidance", "felt experience", "expression"]
-related: ["three-signals-of-unfelt-emotion", "voice-in-the-head", "feeling-the-unfelt-emotion", "unfelt-emotion-leaks", "judgment-vs-discernment", "perfectionism", "dont-name-emotion-to-avoid-feeling", "feel-over-figure", "5-ways-to-stay-unhappy", "open-your-heart-while-judging-experiment", "comparative-mind"]
-sources: ["2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Foll", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-04-08_How NOT To Be Happy"]
+related: ["three-signals-of-unfelt-emotion", "voice-in-the-head", "feeling-the-unfelt-emotion", "unfelt-emotion-leaks", "judgment-vs-discernment", "perfectionism", "dont-name-emotion-to-avoid-feeling", "feel-over-figure", "5-ways-to-stay-unhappy", "open-your-heart-while-judging-experiment", "comparative-mind", "judgment-hurts-the-judger", "notice-what-judgment-costs-you-and-what-you-actually-want", "im-judgmental-how-do-i-stop"]
+sources: ["2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Foll", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-04-08_How NOT To Be Happy", "2024-07-15_How To Stop Being Judgmental - 3 Ways"]
 ---
 
 # Self-Judgment Protects You From an Emotion Underneath It
@@ -96,6 +96,42 @@ The unified frame: when a person is disconnecting from themselves, what they are
 
 This expands the diagnostic reach of the principle. Any of these signals -- harsh self-judgment, defensiveness, shame loops, judgment of others -- can be entered through the same question: what feeling is being kept from being felt? See [[three-signals-of-unfelt-emotion]] for the broader cataloguing of the diagnostic signals.
 
+## The Emotional Eddy and the Specific Mechanism
+
+A useful image for what judgment does to emotional flow: judgment is an emotional backwater, an eddy where the same emotion goes around and around without fluidity.
+
+"Every time you are judging somebody... there's an emotion underneath it that I don't want to feel. Oh, I don't want to feel abandoned. I don't want to feel left alone. Or I'm judging you for not working hard enough. And it's like, oh, I don't want to feel like I am alone in the world. I don't want to feel like all the responsibility is on me. I don't want to feel angry that you have abandoned me. Whatever it is, there's some emotion that you don't want to feel underneath. And all the judgment is doing is stopping you from feeling that emotion. It's like an emotional backwater. It's an eddy where the same emotion goes around and around and there's no fluidity. And because there's no fluidity, here's what can't show up — joy. What can't show up is happiness." -- Joe Hudson, How To Stop Being Judgmental
+
+The eddy image is operationally useful because it makes the cost concrete. The energy that would otherwise be moving as emotion is held in a recirculating loop by the judgment. The loop prevents the difficult feeling from moving through and prevents the positive feeling from arriving. The same blockage produces both the stuck negative-emotion problem and the absent positive-emotion problem.
+
+This is also why the same teaching applies to judgment of self and judgment of other: both forms create the eddy, both prevent flow. Whether the person is judging themselves for being too rigid or judging another person for being too needy, the mechanism is identical — the judgment is holding an emotion the person does not want to feel. The diagnostic question is the same in both cases: what emotion would be felt if the judgment could not be run?
+
+The specific common pairings, useful as default hypotheses when working with a coachee who is judging someone:
+
+- **Judging someone for being late:** the avoided emotion is usually abandonment or being-left-alone. The judgment is the cognitive form of the felt sense "you have left me."
+- **Judging someone for not working hard enough:** the avoided emotion is usually the loneliness of carrying the responsibility alone, or the anger at the perceived abandonment of shared work.
+- **Judging someone for being too much:** the avoided emotion is often a felt-overwhelm the person does not want to feel in themselves, or a fear of being seen as too much.
+- **Judging someone for being too needy:** the avoided emotion is often the person's own neediness they cannot feel.
+- **Judging someone for being self-centered:** the avoided emotion is often the wanting-to-be-seen the person has decided they cannot have. See [[mirror-the-judgment]].
+
+These pairings are starting hypotheses, not formulas. The actual feeling can only be found in the body of the specific person. But the pattern is reliable enough that the coach can offer the hypothesis as a probe: "If you couldn't judge them for X, would you feel Y?"
+
+## The 10-Second Feel as Operational Practice
+
+The instruction for the in-the-moment practice has a specific dosage. The person does not have to feel the underneath-emotion for a long time. Ten seconds is sufficient to interrupt the eddy and allow the energy to move.
+
+"And then feel it. You don't have to feel it for a long time. You just have to pay attention to your body. 10 seconds, feel it." -- Joe Hudson, How To Stop Being Judgmental
+
+The 10-second specification matters because it lowers the activation threshold for the practice. The person who imagines they need to do a long emotional process every time they catch themselves judging will not run the practice. The person who knows it takes 10 seconds will. The smaller the dose, the more likely the practice happens, the more cycles get completed, the faster the pattern shifts.
+
+The instruction also pre-empts an avoidance the person often runs: the worry that feeling the underneath-emotion will be overwhelming, will take over, will not stop once started. The 10-second framing addresses this directly. The person is being asked to pay attention to the body for the duration of a deep breath, not to enter an extended emotional process. The body actually does what is asked, and the eddy unblocks.
+
+The check-in that pairs with the 10-second feel:
+
+"A really cool trick, whether you're judging someone else or you're judging yourself, every time you judge, say, 'What is it that I don't want to feel right now?' And then feel it." -- Joe Hudson, How To Stop Being Judgmental
+
+The check-in is one of the most portable practices in the methodology. It can be applied any time judgment is happening, takes seconds, requires no equipment, and produces the felt-shift that releases the pattern. See [[notice-what-judgment-costs-you-and-what-you-actually-want]] for the broader move this check-in operationalizes.
+
 ## The Connection to the Voice in the Head
 
 This principle is one specific application of the larger relationship to [[voice-in-the-head]]. The voice's most common content is self-judgment. The voice's deeper function is protection -- specifically, protection from emotion that has not been felt.
@@ -142,3 +178,4 @@ Direct, structural, not pitying. The judgment is being treated as functional rat
 - 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the expanded framing that defensiveness and shame operate as sibling avoidances using the same protective mechanism; the unified diagnostic that disconnection from self is disconnection from current emotional experience)
 - 2024-04-08_How NOT To Be Happy (the compressed "every single time we have that judgment, we're cutting off another feeling" framing as the mechanism behind why thinking-you-are-better-than-others produces unhappiness; the operational check-in instruction "what is it that I would have to feel if I couldn't judge them?"; the unification of superiority and judgment as the same chronic-repression teaching)
+- 2024-07-15_How To Stop Being Judgmental - 3 Ways (the emotional-eddy image for what judgment does to flow; specific common pairings of judgments and the avoided emotions they hide — judging someone for being late protects from abandonment, judging someone for not working hard enough protects from being alone with the responsibility; the 10-second feel as the operational dose for the practice; the check-in instruction "every time you judge, say what is it that I don't want to feel right now? And then feel it"; the explicit claim that the same mechanism applies to judgment of self and judgment of other)

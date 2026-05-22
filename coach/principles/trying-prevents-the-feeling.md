@@ -4,8 +4,8 @@ id: trying-prevents-the-feeling
 title: "Trying to Generate the Feeling Prevents the Feeling"
 aliases: ["trying prevents feeling", "trying pushes the emotion away", "the harder you try the less it comes", "effort prevents the emotion", "you can't push emotions into being", "trying is the new resistance", "the harder you try in inquiry the more it disappears", "pushing the emotion away by trying"]
 tags: ["principle", "emotions", "trying", "effort", "resistance", "inquiry"]
-related: ["unwelcomed-emotions-return-until-felt", "manufacturing-the-feeling", "trying-vs-doing", "hold-the-memory-of-when-you-felt-it-most", "emotional-inquiry", "feeling-the-unfelt-emotion", "undoing-not-doing", "dont-half-ass-the-experiment"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
+related: ["unwelcomed-emotions-return-until-felt", "manufacturing-the-feeling", "trying-vs-doing", "hold-the-memory-of-when-you-felt-it-most", "emotional-inquiry", "feeling-the-unfelt-emotion", "undoing-not-doing", "dont-half-ass-the-experiment", "dont-try-to-make-yourself-cry"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-07-12_I Can't Get Over My Ex"]
 ---
 
 # Trying to Generate the Feeling Prevents the Feeling
@@ -70,6 +70,12 @@ The correct move is to either:
 
 Both moves replace trying with receiving. Both work better than trying.
 
+## The Tears-Specific Form
+
+The most legible application of the principle is to crying. People often want to cry — they have unprocessed grief they intellectually know about, they wish they could let it out, they wonder why their tears do not come on cue. The trying is the move that keeps the tears from arriving. See the dedicated anti-pattern [[dont-try-to-make-yourself-cry]] for the specific form, including the in-coaching version where the coach falls into the same trap by trying to produce tears in the client. The structural form is identical to the broader principle: the gripping that constitutes trying is the opposite somatic posture from the openness that allows tears.
+
+Joe sometimes states this version explicitly when the client has named the desire to cry but their inability to do so on cue. The statement releases the trying so the channel can open: "to try to make yourself cry is the best way to push away the tears" (I Can't Get Over My Ex). The same form applies to any specific emotion — to try to make yourself feel sad, to try to make yourself feel grateful, to try to make yourself feel anything — the trying pushes the emotion away. Tears are the most visible instance because the failure to produce them is the most visible to the person and to anyone watching.
+
 ## Why This Is Not Permission to Slack
 
 The principle is not "don't engage with emotional work." It is "engage with the right gear." The engagement is real. The practice is real. The capacity for full feeling does develop through sustained practice. What does not work is bringing the wrong gear.
@@ -109,3 +115,4 @@ Plain. Slightly amused at the trap. The teaching is delivered with the air of "o
 ## Sources
 
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching
+- 2024-07-12_I Can't Get Over My Ex (the tears-specific form of the principle, delivered to a client who had taught himself not to cry: "to try to make yourself cry is the best way to push away the tears"; the same principle applied to the coach side — "the one game that I can't play up here ever is like to try to make you cry, but that never works"; the structural form that the same gear that produces results in other domains produces the opposite of results in the emotional domain)

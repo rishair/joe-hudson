@@ -70,6 +70,8 @@ This version explicitly names the mechanism that the other tellings name more ob
 
 This is the application of [[three-forms-of-anger-repression]] in personal example. Anger turned inward is one of the three kinks. The kink shows up as self-attack, depression, and the impulse to numb. The unkinking is the release of the substance.
 
+The principle this example demonstrates has its own standalone statement in [[shame-is-anger-turned-inward]]. The pot habit is one of three reliable forms the inward-pointed anger takes (addiction, chronic shame, exhaustion). The release in all three is the same: give the anger an outward channel and the inward-pointed form releases. The pot habit is the addiction-presentation; the chronic shame is the disconnection-presentation (see the divorce-by-letter session that produced the principle's clearest delivery); the exhaustion is the caretaker-presentation (see [[exhaustion-is-unexpressed-anger]]).
+
 ## Esme's Observation About the Weed Kids (Missing the Fire)
 
 In the same conversation, Esme reflects on her observation of friends who smoke a lot of weed and notices what they have lost — a specific quality she calls "fire":

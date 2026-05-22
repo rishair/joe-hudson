@@ -2,9 +2,9 @@
 type: concern
 id: i-cant-get-over-this-loss
 title: "I can't get over this loss / I should be over this by now"
-aliases: ["I can't move on", "I should be over this by now", "why am I still grieving", "I should have grieved more by now", "I haven't grieved enough", "I'm grieving wrong", "grief is taking too long", "I keep dating the same person", "I haven't moved past this breakup", "I can't stop thinking about them", "my grief won't end", "the grief keeps coming back", "I don't know how to grieve this", "I want this to be over", "I should be okay by now"]
-tags: ["grief", "loss", "breakup", "death", "stuckness", "patterns"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
+aliases: ["I can't move on", "I should be over this by now", "why am I still grieving", "I should have grieved more by now", "I haven't grieved enough", "I'm grieving wrong", "grief is taking too long", "I keep dating the same person", "I haven't moved past this breakup", "I can't stop thinking about them", "my grief won't end", "the grief keeps coming back", "I don't know how to grieve this", "I want this to be over", "I should be okay by now", "I can't get over my ex", "I can't get over the divorce", "the divorce wasn't mine", "she ended it before I could respond", "I never got to express my anger about the divorce", "the relationship ended before I could grieve it", "I've been carrying this unfinished thing for years", "I have grief I can't access", "the breakup keeps coming up in other ways"]
+tags: ["grief", "loss", "breakup", "death", "stuckness", "patterns", "divorce", "ex", "unprocessed anger"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief", "2024-07-12_I Can't Get Over My Ex"]
 ---
 
 # I can't get over this loss / I should be over this by now
@@ -62,6 +62,8 @@ Several branches are possible depending on what is actually happening.
 
 - **If the story is locking the grief**: "this was the worst loss," "I will never love again," "I am the one who carries this." The path moves through [[stronger-story-stuckier-emotion]] toward loosening the holding of the story without invalidating its content.
 
+- **If the relationship ended in a way that prevented expression**: a divorce delivered by letter, a breakup over text, a death that happened before the things could be said, an estrangement enforced by the other party. The anger had nowhere to go because the access to the other person was severed before the anger could be voiced. The anger has been turning inward and presenting as chronic shame about being seen ([[shame-blocks-connection-in-real-time]]) or as isolation that looks like circumstance but is actually the wall built by the inward-pointed anger. See [[shame-is-anger-turned-inward]]. The path moves through letting the love for the other person surface first (often using the live room — see [[use-the-live-group-as-love-field]]), then extending the love practice to the avoided figure (which surfaces the anger that was always paired with the love), then giving the anger a clean outward channel ([[how-to-release-anger-out-loud]]). The grief that has not moved was held in place by the anger that had no exit. Once the anger moves, the grief can complete.
+
 ## Coaching Path
 
 The flow is not a script. The branching depends on what is read.
@@ -82,7 +84,20 @@ The flow is not a script. The branching depends on what is read.
 
 8. The deeper question, eventually: what identity is being dismantled by this loss, and is it being allowed to die? See [[grief-as-identity-dismantling]].
 
+## The Divorce-Ended-by-Letter Variant
+
+A specific shape of this concern: the marriage or partnership ended in a way that did not allow the client to respond. A letter delivered without conversation. A breakup announced as a decision already made. A separation enforced without the client's input. The client carries the loss but also carries the specific quality of having been denied participation in the ending.
+
+This variant produces a distinctive layering. There is grief about the loss. There is anger at the way the ending happened. There is anger at the other person for choosing the form they chose. There is often anger at adjacent figures (the friend who advised the leaving, the relationship coach who was consulted without the client's knowledge, the new partner if there was one). And underneath all of it, there is often shame — the kind that turns the unexpressed anger inward, that produces the felt sense of having been the one who was not good enough to be allowed to respond.
+
+The work on this variant has a specific order. First, establish that the client can still feel love — often in the room, with the available people ([[use-the-live-group-as-love-field]]). Second, extend the love practice to the ex specifically, which surfaces the love-and-anger pair that has been held together. Third, give the anger a clean outward channel using the specific technique ([[how-to-release-anger-out-loud]]) — speak it, angry tone, do not stop. Fourth, after the anger has moved, name the parallel impossibility the ex was facing if the parallel is real ([[apply-the-clients-stuck-place-to-understand-the-other]]). Fifth, return to the present-tense connection in the room as the integration anchor.
+
+The order matters. Trying to do the grief work first (before the anger has moved) leaves the grief locked because the anger underneath is still operating. Trying to do the compassion-for-the-ex work first ([[dont-jump-to-compassion-before-anger]]) bypasses the anger and produces a thin reconciliation that the body cannot maintain. The anger has to move before either the grief or the compassion becomes available.
+
+The closing teaching for this variant is often the principle that anchors the work: shame is anger turned inward, and the chronic shame about being seen that the client has been carrying for years since the ending is the form the unmoved anger has taken. The path out is not to dissolve the shame directly. It is to release the anger in the form Joe demonstrates — punching bag, yelling, the body moving the held charge — and let the shame dissipate as a consequence. See [[shame-is-anger-turned-inward]].
+
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
+- 2024-07-12_I Can't Get Over My Ex (the divorce-ended-by-letter variant of the concern; the live coaching demonstration of the love-first, anger-second, recognition-third order; the closing principle that the chronic shame the client had been carrying since the marriage ended was the inward-turned form of the anger that had no outward channel when the marriage was ended by letter without response permitted)

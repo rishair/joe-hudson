@@ -4,8 +4,8 @@ id: shame-stagnates-emotion
 title: "Shame Stagnates Emotional Fluidity"
 aliases: ["shame stops emotions", "shame freezes emotion", "shame blocks emotional flow", "shame as emotional barrier", "shame is an emotion that blocks other emotions", "shame as emotional nemesis", "the kick in the stomach", "shame creates emotional dead zones", "shame as the awareness desert", "shame as the blocker layer", "judgment and guilt as blockers too", "shame guilt judgment as the lid", "the three blocker emotions"]
 tags: ["shame", "emotional fluidity", "stagnation", "felt sense", "body", "emotion", "blocker"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "emotional-fluidity", "feeling-the-unfelt-emotion", "kinked-emotions", "the-shame-avoidance-loop", "love-as-deep-welcoming", "blocker-emotions", "negative-emotions-precede-positive", "shame-hot-potato", "we-have-built-up-resentment"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2023-02-10_The Golden Algorithm", "2023-12-22_The Shame Hot Potato"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "emotional-fluidity", "feeling-the-unfelt-emotion", "kinked-emotions", "the-shame-avoidance-loop", "love-as-deep-welcoming", "blocker-emotions", "negative-emotions-precede-positive", "shame-hot-potato", "we-have-built-up-resentment", "shame-is-anger-turned-inward", "how-to-release-anger-out-loud", "get-angry-in-the-car"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2023-02-10_The Golden Algorithm", "2023-12-22_The Shame Hot Potato", "2024-07-12_I Can't Get Over My Ex"]
 ---
 
 # Shame Stagnates Emotional Fluidity
@@ -64,6 +64,16 @@ Welcoming the shame back into awareness. Bringing the body back to the region th
 
 The body becomes the primary instrument here. The mind will spin on shame loops. The body knows where the dead zone is. Bringing attention into the dead zone, with welcoming rather than fixing, is what allows the fluidity to return.
 
+## The Anger-Release Path Out of Shame
+
+A second specific release mechanism: when the shame is structurally the inward-pointed form of unexpressed anger, releasing the anger in its outward direction dissolves the shame. This is the principle [[shame-is-anger-turned-inward]]. The two share the same energetic charge in opposite directions, and giving the charge its native outward path completes its arc and releases the inward-pointed form.
+
+The work to discover whether the shame is operating in this mode is to surface the anger underneath. If the person can find anger they have been holding (often at a specific person or situation that gave them no outward target at the time), and if releasing that anger outward (see [[how-to-release-anger-out-loud]] and [[get-angry-in-the-car]]) produces a visible drop in the chronic shame, the shame has been operating as inward-pointed anger.
+
+This path is particularly useful when the shame is connected to a specific historical event where the person had no chance to be angry (a partner who ended a relationship without conversation, a parent who died before the things could be said, a betrayal that happened where the betrayer was no longer accessible). The anger had no outward channel at the time and turned inward, where it stayed as the chronic shame that has been organizing the person's life since. The release is to give the anger its outward path now, even years later, with a physical target that can take it (a punching bag, the car, a pillow). The shame dissipates as the anger moves.
+
+This is not a contradiction of the welcoming path described above. It is a complement. Welcoming the shame is the entry to the work. Releasing the anger underneath is one of the specific paths the welcoming opens up to. Whether the shame releases through welcoming-and-loving alone or through welcoming-then-anger-release depends on what is actually held in the shame's stagnation field. The body knows.
+
 ## Shame Sits in a Family of Three Blocker Emotions
 
 Shame is the most legible example of the stagnation mechanism, but it is not the only emotion that operates this way. Joe groups three emotions together as "blocker emotional states": shame, judgment, and guilt. All three share the same operational signature -- they do not move when felt the way other emotions move; they freeze the system.
@@ -120,3 +130,4 @@ It connects to [[kinked-emotions]] as a special case: shame is not just kinked, 
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2023-02-10_The Golden Algorithm (the explicit grouping of shame, judgment, and guilt as "blocker emotional states" sharing the stagnation mechanism; the placement of the blocker layer above the negative-emotion layer in the three-layer architecture)
 - 2023-12-22_The Shame Hot Potato (the stagnation scales to relational, organizational, and national levels; the war thought experiment showing that shame is what perpetuates wars)
+- 2024-07-12_I Can't Get Over My Ex (the anger-release path out of shame; the principle that shame is anger turned inward, and that releasing the anger outward dissipates the chronic shame; the divorce-by-letter case showing the inward-turned anger producing the chronic shame about being seen that had been organizing the client's life since the marriage ended)
