@@ -4,7 +4,7 @@ id: helplessness-distinguishes-death-grief
 title: "Helplessness Is What Makes Death-Grief Different"
 aliases: ["why death grief is different", "helplessness in death", "helplessness makes us treat death differently", "the helplessness of death", "no action available in death grief", "helplessness as the death-grief signature", "why we let each other grieve death", "why we don't let each other grieve other losses"]
 tags: ["grief", "death", "helplessness", "social", "concept"]
-related: ["grief-as-identity-dismantling", "grief-is-many-emotions-not-just-sadness", "helplessness-is-the-gateway", "unprocessed-grief-creates-conflict"]
+related: ["grief-as-identity-dismantling", "grief-is-many-emotions-not-just-sadness", "helplessness-is-the-gateway", "unprocessed-grief-creates-conflict", "helplessness-as-cayenne-pepper-of-fear", "helplessness-vs-surrender"]
 sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 

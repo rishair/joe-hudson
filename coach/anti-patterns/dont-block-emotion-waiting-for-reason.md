@@ -57,6 +57,12 @@ The work is to let unstoried emotions complete. Over time, the system rebuilds t
 
 "It's just stuff moving. It's just the emotional experience moving." -- Joe Hudson, When the Story Falls Apart
 
+## Related to Catastrophizing
+
+A closely related pattern: the person allows the emotion-inducing thought to repeat (catastrophic thoughts loop in the head) while constricting against the somatic experience of the emotion the thoughts are pointing at. The thought is treated as an emotional event ("I'm processing my fear by thinking about the worst case") while the body remains held out.
+
+This is the same mechanism with a different surface. There, the block is "I need a reason before I feel." Here, the block is "I have the thought, that counts as feeling." Both keep the somatic experience held out. See [[catastrophizing-vs-visualizing]] for the operational distinction.
+
 ## How an AI Coach Spots This
 
 - The person describes an emotion arriving and immediately reports trying to figure out what it was about

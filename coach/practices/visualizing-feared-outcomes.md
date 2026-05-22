@@ -2,10 +2,10 @@
 type: practice
 id: visualizing-feared-outcomes
 title: "Visualizing Feared Outcomes"
-aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance", "pre-grieve the loss", "assume the loss has happened", "feel the death of the relationship in advance", "pre-jump visualization", "feel-through every possible outcome before acting", "the pre-feel practice"]
-tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking", "relationships", "BASE jumping"]
-related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate", "grieve-the-marriage-to-save-it", "grief-as-identity-dismantling", "safety-that-connects-vs-disconnects-from-reality", "grounded-excitement-vs-ungrounded-excitement", "brett-wingsuit-girlfriend-thought"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Impartiality", "2022-10-26_The Beauty Of Grief", "2022-11-11_But... Is It Safe?", "2023-06-09_Marriage, Love, and Death"]
+aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance", "pre-grieve the loss", "assume the loss has happened", "feel the death of the relationship in advance", "pre-jump visualization", "feel-through every possible outcome before acting", "the pre-feel practice", "visualize the positive outcome too", "feel-through positive outcomes", "imagining everything going well", "visualizing the success", "the positive-visualization variation"]
+tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking", "relationships", "BASE jumping", "samurai", "Roman"]
+related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate", "grieve-the-marriage-to-save-it", "grief-as-identity-dismantling", "safety-that-connects-vs-disconnects-from-reality", "grounded-excitement-vs-ungrounded-excitement", "brett-wingsuit-girlfriend-thought", "catastrophizing-vs-visualizing", "helplessness-as-cayenne-pepper-of-fear", "5-second-spice-check"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Impartiality", "2022-10-26_The Beauty Of Grief", "2022-11-11_But... Is It Safe?", "2023-06-09_Marriage, Love, and Death", "2023-07-21_Helplessness- The Cayenne Pepper of Fear — Emotion Series #12", "2023-07-27_Helplessness： The Cayenne Pepper of Fear"]
 ---
 
 # Visualizing Feared Outcomes
@@ -41,6 +41,24 @@ This is related to [[feeling-the-unfelt-emotion]]: the fear persists because the
 ## Variation: Grieving the Loss
 
 An alternative form: instead of visualizing the event, grieve the potential loss directly. Feel the sadness of it. This is another way of "feeling the pain in advance," which achieves the same release.
+
+## Variation: Visualizing the Positive Outcome Too
+
+The practice is most often applied to feared outcomes. There is a complementary variation Joe specifically recommends: visualize the thing working out perfectly well and feel the experience of that too. The positive version sometimes produces more fear than the negative version because the identity-shift required to receive the good outcome is itself frightening.
+
+"I also recommend doing the opposite too, which is like visualizing the whole thing working out perfectly well and having all those experiences, because sometimes those are the more scary things. The ego dies either way. Like, if the worst thing happens, the ego has to shift, you know, the self-identity has to shift. And if everything goes incredibly beautifully, the self-identity has to shift. So both of them can be really useful." -- Joe Hudson, Helplessness: The Cayenne Pepper of Fear
+
+The mechanism is the same. The identity that is gripping a particular outcome dissolves when both ends of the possibility spectrum have been pre-felt. The grip relaxes regardless of which direction the future goes.
+
+This is the same mechanism Roman, Tibetan, and samurai traditions all used through their death-visualization practices. Joe pairs the death-visualization with the success-visualization explicitly. Both produce ego-dissolution. Both increase the freedom in the present.
+
+## The Catastrophizing-vs-Visualizing Distinction
+
+People sometimes report this practice does not work for them. The most common reason is that they are catastrophizing rather than visualizing. The same content can be either: the deciding factor is whether the body is in or held out.
+
+Catastrophizing happens in the head, with the body braced against the feeling. The thought repeats. No release occurs. Visualizing happens in the body, with the somatic experience of the imagined outcome actually moving through the system. The scene completes. The fear releases.
+
+See [[catastrophizing-vs-visualizing]] for the full distinction. The diagnostic is somatic: notice whether the body softens or tightens as you do the practice. If it tightens, you are catastrophizing -- slow down, breathe into the thought, let the body feel each frame. The same scene with body engagement becomes the actual practice.
 
 ## Application: Releasing the Caretaking Grip
 
@@ -141,3 +159,5 @@ For everyday applications -- a hard conversation, a difficult decision in a meet
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
 - 2023-06-09_Marriage, Love, and Death (the pre-mortality application in a living partnership; Tara coaching Alexa and Brett through the eggs-in-one-basket fear into the felt grief of eventual loss, the wedding-eve coaching arc; the implicit visualization done in the live moment with the partner in the room rather than as a structured solo practice)
+- 2023-07-21_Helplessness: The Cayenne Pepper of Fear -- Emotion Series #12 (the positive-outcome-visualization variation; the ego-dies-either-way framing; the catastrophizing-vs-visualizing distinction as the operational nuance that determines whether the practice works)
+- 2023-07-27_Helplessness: The Cayenne Pepper of Fear (rebroadcast of the 2023-07-21 episode)

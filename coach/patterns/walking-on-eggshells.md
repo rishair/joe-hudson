@@ -4,8 +4,8 @@ id: walking-on-eggshells
 title: "Walking on Eggshells"
 aliases: ["walking on eggshells", "eggshells pattern", "I can't bring this part of myself", "the eggshell relationship", "managing around the trigger", "managing each other's triggers", "the partner whose job is to prevent the other's trigger", "preventing your partner's triggers", "the cold marriage", "the relationship that never fights", "shoring up the relationship by self-suppression", "I have to be careful what I say around them", "the relationship where everything is fine"]
 tags: ["relationships", "marriage", "partnership", "trigger", "suppression", "resentment", "self-abandonment"]
-related: ["trigger", "walking-on-eggshells", "we-never-fight", "resentment-as-unspoken-want", "subjugation-prevents-healing", "dont-make-it-your-job-to-prevent-their-triggers", "dont-compromise-find-both-needs-met", "say-the-thing-youre-not-saying", "you-think-they-cant-handle-it", "trauma-heals-in-relationship", "capacity-to-love-other-is-capacity-to-love-self"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
+related: ["trigger", "we-never-fight", "resentment-as-unspoken-want", "subjugation-prevents-healing", "dont-make-it-your-job-to-prevent-their-triggers", "dont-compromise-find-both-needs-met", "say-the-thing-youre-not-saying", "you-think-they-cant-handle-it", "trauma-heals-in-relationship", "capacity-to-love-other-is-capacity-to-love-self", "conflict-avoidance-prevents-healing", "the-built-up-resentment-story", "conflict-avoidance-prevents-being-loved", "avoided-conflict-goes-internal", "feel-the-pain-of-not-being-loved", "what-makes-you-care-about-their-emotional-state", "conflict-as-evolutionary-tension"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement"]
 ---
 
 # Walking on Eggshells
@@ -47,6 +47,14 @@ The pattern is often invisible to the people inside it. The diagnostic is not "d
 "Notice any time that you hesitate to say anything because your partner is gonna have an emotional reaction or your partner is too weak to handle it or because you're trying to protect your partner... any way that you're not actually -- that you have a thought to say something and you don't say it, those are great places to find the triggers." -- Joe Hudson, Triggered
 
 If the answer is "constantly" or even "regularly," the pattern is active. See [[say-the-thing-youre-not-saying]] for the practice that addresses this directly.
+
+## The Eggshells Diagnostic for Conflict Avoidance
+
+The eggshells image is a specific marker for [[conflict-avoidance-prevents-healing|conflict avoidance]] when the question is about the avoider's own life rather than the relationship dynamic. Joe gives the marker plainly:
+
+"Typically one of the ways to really notice there's conflict avoidance happening is you, what I call walking on eggshells, where you're like careful of the other person's mood and you're trying to manage the other person's mood and what happens if you don't." -- Joe Hudson, Addressing Conflict Avoidance
+
+If you can name a person whose mood you are managing -- whose reaction you organize your speech and behavior around -- that mood-management is the trail back to a conflict you are not having. The practice from here is to visualize the consequences of stopping the management and to feel through every emotion that arises. See [[visualizing-feared-outcomes]] for the practice. The fear underneath the management is what holds the eggshells pattern in place.
 
 ## Why People Do It
 
@@ -102,3 +110,4 @@ Joe holds this pattern with sadness and matter-of-factness. He does not condemn 
 
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
+- 2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement

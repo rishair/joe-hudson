@@ -2,10 +2,10 @@
 type: concept
 id: money-as-surrogate
 title: "Money as Surrogate"
-aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money"]
-tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection"]
-related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You"]
+aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money", "money and spirituality as parallel surrogates", "money and awakening as the same projection", "the linkage with fame and status", "status as money surrogate", "fame as money surrogate"]
+tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection", "status", "spirituality"]
+related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money", "state-seeking", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money"]
 ---
 
 # Money as Surrogate
@@ -88,6 +88,30 @@ The question Joe raises: what would happen if humans put their faith in somethin
 
 This is the structural framing of the surrogate problem at the social level. The relationship with money does not heal at the level of money, individually or collectively. It heals when faith finds a different object.
 
+## Status, Fame, and Power as the Same Surrogate
+
+The surrogate mechanism does not isolate to money. It extends to anything in the same conceptual family. For Joe, the linkage was direct: his father's pursuit of money was experienced as a pursuit of status, so anything that read as status (fame, notoriety, cachet, power) became loaded with the same charge.
+
+"There's a linkage here with fame too -- power, fame, any kind of cachet, notoriety, status, anything around status. Because to me, my father's quest for money was all about status. So any version of that... money was a representation of anything I projected onto it." -- Joe Hudson, Much Ado About Money
+
+The implication for coaching: when a person presents a charged relationship with money, the same charge is likely showing up in their relationship with fame, status, public recognition, or power, in whatever shape those things take in their life. Working only on the money surrogate without checking for the parallel surrogates leaves the structure mostly intact.
+
+The example Joe gives: as a young man avoiding money, he would also avoid spiritual teachers whose books had author photos on the back, judging them as seeking notoriety and therefore untrustworthy. The same surrogate that made him reject money made him reject the visible markers of teacher-as-public-figure. The teachers were not the problem. The projection was the same projection in a different costume.
+
+## The Spirituality Parallel: Awakening as the Same Surrogate
+
+A deeper layer of the same mechanism: the surrogate that runs in the money domain often also runs in the spirituality domain, with awakening (or enlightenment, or "being a good spiritual person") substituting for the same parental love that money was substituting for.
+
+The structure: if I am good enough, if I meditate enough, if I have a calm enough mind, if I eat the right thing, if I am pure enough -- then I can have it. "It" is whatever the original want was. The hurdles are the same hurdles a person sets up in the money domain. The premise is the same premise: I have to earn the love by being worthy of it.
+
+"I had this idea that like it took competence to be rich... It's the same. It's like this stuff isn't earned. Money is not always earned... Awakening is not always earned either. Like it can also be a gift. And it doesn't work the way that we're told that it works." -- Joe Hudson, Much Ado About Money
+
+"I had set up hurdle after hurdle after hurdle after hurdle that was required, some level of competence, some perfection, something that I had to do so that I could get what I wanted. And those were all my projections. And when that fell apart, it became really clear. It's like, oh, all those hurdles I've made for myself so that I can become wealthy, awakened, happy -- it's all bullshit." -- Joe Hudson, Much Ado About Money
+
+The recognition that both surrogates are running the same script is itself often what produces the dissolution of both. As long as one surrogate is in operation (chasing awakening) while the other is being avoided (rejecting money), the structure is intact. When both are seen as the same projection looking for the same parental love, the structure becomes available for release.
+
+See [[state-seeking]] for the related anti-pattern in the spiritual domain. The surrogate mechanism is what makes state-seeking persistent: the chase is for the same thing that money is chasing.
+
 ## Community as the Other Faith Object
 
 The closest concrete example Joe offers of what humans put their faith in besides money: community. In his early twenties, he went directly from teaching Head Start in the Hayes Valley projects in San Francisco to working in international stock lending. The contrast was visible. One population relied on money for survival and happiness. The other population relied on community for survival and happiness.
@@ -131,3 +155,5 @@ This pairs with the broader question about faith objects: community satisfies th
 - 2021-05-07_Money Can't Oppress You
 - 2022-10-26_Money Can't Oppress You (rebroadcast; the explicit Hayes Valley vs. stock-lending observation about community-as-faith-object and "both had poverty in one way or another")
 - 2022-10-26_Money Can't Save You (rebroadcast of 2021-04-23)
+- 2023-07-07_Much Ado About Money (the status/fame/notoriety linkage, the awakening-as-parallel-surrogate framing, the "hurdle after hurdle" recognition)
+- 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)

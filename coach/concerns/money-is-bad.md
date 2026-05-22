@@ -2,9 +2,9 @@
 type: concern
 id: money-is-bad
 title: "Money is bad / I don't want to play that game"
-aliases: ["money is evil", "money corrupts", "rich people are bad", "the system sucks", "I don't want to participate in this", "I don't want to be that person", "wealth is gross", "I refuse to play the money game"]
+aliases: ["money is evil", "money corrupts", "rich people are bad", "the system sucks", "I don't want to participate in this", "I don't want to be that person", "wealth is gross", "I refuse to play the money game", "anyone with money is a prick", "the guy in the Porsche is a douchebag", "money makes people assholes", "really rich people are bad", "money took my parent's love away", "money is what took them away from me"]
 tags: ["money", "judgment", "projection", "concerns", "shame", "rebellion"]
-sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money"]
 ---
 
 # Money is bad / I don't want to play that game
@@ -45,6 +45,28 @@ There is a personality dynamic underneath as well. Certain people, when somethin
 
 The judgments and the rebellion both confirm the personal charge. The truly impersonal stance toward money does not produce these judgments. See [[money-is-impersonal]].
 
+## The Internal Logic Joe Lived
+
+Joe's own version of this concern was vivid and detailed. By age 13, money was bad. By his 20s, anyone with money was bad. He walked through life finding evidence everywhere: anyone in a Porsche was a "prick"; anyone wealthy was vapid; any spiritual teacher with a photo on their book had sold out. Each piece of evidence confirmed the stance. The world cooperated by providing examples.
+
+"Money was something that took you away from anything that was important in life and you were vapid if you had money. And so that's really how I was walking through life in my teens and in my 20s." -- Joe Hudson, Much Ado About Money
+
+The cognitive structure: everything that was wrong with anyone who had money got attributed to the money rather than to the person. "If there was a rich person who was acting like an ass, it wasn't they're an asshole who happens to be rich. It was money makes that person act like an asshole." (Much Ado About Money) The attribution error is structural to the stance. It is what keeps the stance unchallengeable: every counterexample becomes proof.
+
+Underneath the moral position was the original injury: his father had cared more about money than about him. The 13-year-old Joe interpreted money as the thing that took his father's love away. The opposition to money was the felt protest of the child who had lost the parent to the parent's pursuit. The moral stance dressed up the protest in adult language.
+
+## What the Internal Conflict Costs
+
+A specific feature of this concern that often goes unnamed: the stance is rarely clean. Both sides of the push-pull are usually present. The person rejects money loudly while wanting it secretly, or wants money while believing they should not. The internal conflict itself is what creates the most distress -- more than the financial situation itself.
+
+"There was a part of me that wanted money and wanting to have enough of it. And there was a part of me that money was bad and I was rejecting it. So it was absolutely a push and pull." -- Joe Hudson, Much Ado About Money
+
+"That constant fight actually more than anything prevented me from my joy and my ease." -- Joe Hudson, Much Ado About Money
+
+The detection: ask not "do you want money or not" but "how loudly do you reject it, and how often does the wanting still arrive." The presence of both, in unresolved conflict, is the signature of this concern.
+
+See [[expensive-to-be-poor]] for the principle that surfaces the lived cost of the rejection when it has been maintained for years. The cost is not just internal conflict; it is also the elaborate workarounds that the rejection requires.
+
 ## What Joe Looks For (Reads)
 
 - **If the person is attacking rather than feeling:** the read is that an emotion (insecurity, less-than, hurt) is being kept out of awareness by being redirected as judgment at the wealthy. Joe moves toward what the person is not feeling. Often there is a moment of feeling small or unloved that the judgment is covering.
@@ -74,3 +96,5 @@ Joe will not let "it's just business" pass unexamined. That phrase signals the m
 
 - 2021-05-07_Money Can't Oppress You
 - 2022-10-26_Money Can't Oppress You (rebroadcast)
+- 2023-07-07_Much Ado About Money (the lived internal logic of the stance, the push-pull internal conflict, the rejection of spiritual teachers as a parallel surrogate, the cost of maintaining the stance over a decade)
+- 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)

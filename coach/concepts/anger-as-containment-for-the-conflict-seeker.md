@@ -4,8 +4,8 @@ id: anger-as-containment-for-the-conflict-seeker
 title: "Anger as Containment for the Conflict-Seeker"
 aliases: ["anger as containment", "anger contains the drama-creator", "meeting drama with anger", "anger calms the conflict creator", "containment for the drama-seeker", "they don't feel calm unless contained", "anger as appropriate response to drama"]
 tags: ["anger", "conflict", "containment", "anxiety", "appropriateness of emotion"]
-related: ["loving-conflict-vs-wanting-conflict", "anger", "wisdom-of-each-emotion", "boundary-with-vs-boundary-against", "fear-triangle"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
+related: ["loving-conflict-vs-wanting-conflict", "anger", "wisdom-of-each-emotion", "boundary-with-vs-boundary-against", "fear-triangle", "aggression-amplifies-against-conflict-avoidance"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement"]
 ---
 
 # Anger as Containment for the Conflict-Seeker
@@ -46,6 +46,30 @@ From the outside, anger calming someone down looks paradoxical. The folk wisdom 
 
 The wisdom of the body sorts this out. When a person's anger arises in the presence of a drama-creator and does not arise in the presence of someone who is upset but not creating drama, the system has read the difference correctly.
 
+## The Tire Shop Story (Customer Aggression Settling Into Friendship)
+
+A specific example of the principle operating in everyday life. Joe's friend who runs a tire shop is a direct, unapologetic person -- "I'm going to do whatever I want," the kind of guy with no lack of authenticity. Aggressive customers come in -- the wealthy-car driver demanding service at 5:45 when the shop closed at 5:30. The friend's pattern: he holds. He does not fold and he does not fight. He meets them with presence.
+
+What happens next is the diagnostic data:
+
+"This happens four times a week where I literally am like, hey, hold the container. And this person who started off as like the asshole in like the $150,000 car who's like, come on, open the door, it's only 5:45, you closed at 5:30, ends up saying, hey, can we hang out?" -- Joe Hudson recounting the tire shop friend, Addressing Conflict Avoidance
+
+Multiple times a week, the same customers who came in aggressive end the encounter wanting to give him their phone numbers, wanting him in their lives. The aggression, met with presence, finds the container it was looking for and settles. The settling is so complete that the previously-aggressive person now wants connection with the person who held them.
+
+Joe's clinical reading: "Psychologically, let me explain to you how that works. They feel like, oh, my anger is safe here. Like I can have anger and this person's not going to fold. And so I actually want this person in my life."
+
+The story is a clean demonstration that aggressive behavior, when met without folding or matching, is often a search for a person who can hold them. The aggression resolves when the search is answered. See [[aggression-amplifies-against-conflict-avoidance]] for the inverse pattern -- what happens when the search is not answered.
+
+## The Refinement: Presence Without Anger, Without Taking It Personally
+
+The tire shop friend gets the containment right but pays a cost: he gets angry inside himself during the encounters. Joe's refinement on the practice: the same containment can be held with less internal anger if the situation is not taken personally.
+
+"If he could hold that same energy without the anger, he would be a lot less constricted, correct. And I think that's about, for him, it's not beating himself up for the anger, but it's also about not taking stuff personally." -- Joe Hudson, Addressing Conflict Avoidance
+
+This is the more mature version of the same move. The containment is held by presence, not by mobilized anger. The aggressive person still finds their container. The person doing the holding does not pay the metabolic cost of running anger in the body for the duration of the encounter. The container is the same; the cost is lower.
+
+The intermediate version -- holding with anger, not yet without -- is still effective and is still much better than folding. The work is to gradually depersonalize without losing the presence.
+
 ## When Someone Experiences This
 
 - Repeatedly feeling drawn to anger around a specific person, and wondering if something is wrong with them for it.
@@ -83,3 +107,4 @@ The diagnostic for whether this applies is whether the other person seems to be 
 
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
+- 2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement

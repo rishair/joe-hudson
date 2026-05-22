@@ -2,10 +2,10 @@
 type: distinction
 id: loving-conflict-vs-wanting-conflict
 title: "Loving Conflict vs. Wanting Conflict"
-aliases: ["loving conflict vs wanting conflict", "love conflict vs want conflict", "conflict lover vs conflict creator", "loves vs creates conflict", "loving conflict not creating it", "the conflict distinction"]
+aliases: ["loving conflict vs wanting conflict", "love conflict vs want conflict", "conflict lover vs conflict creator", "loves vs creates conflict", "loving conflict not creating it", "the conflict distinction", "noticing tension vs creating tension", "leaning into the friction that's there", "not creating tension noticing it", "using conflict to get what you want is not loving conflict", "the boss who yells is not loving conflict", "seeing the conflict that's there and leaning in"]
 tags: ["conflict", "distinction", "anger", "drama", "leadership"]
-related: ["anger-as-containment-for-the-conflict-seeker", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "anger", "fear-triangle"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
+related: ["anger-as-containment-for-the-conflict-seeker", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "anger", "fear-triangle", "conflict-as-evolutionary-tension", "dont-lean-into-conflict-from-defendedness", "aggression-amplifies-against-conflict-avoidance"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
 ---
 
 # Loving Conflict vs. Wanting Conflict
@@ -44,6 +44,38 @@ Both kinds of people are not conflict-avoidant. From the outside, that looks lik
 
 This is also why someone who has done significant emotional work tends to move from wanting conflict (early life) to loving conflict (later) without becoming conflict-avoidant. The capacity to be with friction stays. The need to manufacture it drops away.
 
+## The Noticing vs. Creating Frame
+
+Joe restates the distinction in the conflict-avoidance teaching with even sharper language. Loving conflict is the noticing of tension already in the system. Wanting conflict is the manufacturing of tension where none was needed.
+
+"It's not creating tension, it's noticing the tension that's there, the conflict that's there, the friction that's there, and then leaning in instead of leaning away from it." -- Joe Hudson, Addressing Conflict Avoidance
+
+This framing makes the distinction more usable as a self-check. A person can ask honestly: "Am I creating this tension, or noticing tension that was already in the room?" The answer is usually clearer than asking whether they "love" or "want" conflict.
+
+If creating tension, the move is to set it down. If noticing tension, the move is to enter it cleanly. The pose can look similar from the outside; the body knows the difference.
+
+## What Loving Conflict Is Not
+
+The teaching has a sharper boundary on the wanting-conflict side that includes a category many people miss: using conflict to get your way.
+
+"That is creating conflict. That is not being, that is not like inviting or allowing conflict or seeing the benefit of conflict." -- Joe Hudson, Addressing Conflict Avoidance
+
+"Like a boss who comes in and yells. Not conflict avoidant, but also like not using conflict to create great solutions or not using conflict to create connection." -- Joe Hudson, Addressing Conflict Avoidance
+
+The yelling boss is not loving conflict. The leader who weaponizes friction to extract compliance is not loving conflict. The salesperson who uses contrived tension to close is not loving conflict. The orientation that matters is whether the friction is being used to find the better solution or being used to win against another person. The first is the loving-conflict orientation. The second is the wanting-conflict orientation in instrumentalized form.
+
+The positive frame: "You're allowing conflict to get something better than you could actually imagine." Conflict in service of the unimagined-better is the orientation. Conflict in service of the already-decided is not.
+
+## The Connection to Defendedness
+
+A specific way the wanting-conflict pattern shows up is when someone leans into a conflict from a defended place and then claims they are not being conflict-avoidant. The lean-in is real. The defendedness imports the conflict-creation into the situation. See [[dont-lean-into-conflict-from-defendedness]] for the full anti-pattern.
+
+The diagnostic from the conflict-avoidance teaching:
+
+"If you're trying to get your way, or if you rather win, or if you think there's a winner or a loser, all of those are pretty much good signs that you are either creating conflict or avoiding conflict." -- Joe Hudson, Addressing Conflict Avoidance
+
+The binary framing of winner-loser is the signal. The person who is loving conflict in its evolutionary-tension sense ([[conflict-as-evolutionary-tension]]) is not in the winner-loser frame. They are in the seeing-and-being-seen frame.
+
 ## Upstream (What Leads Here)
 
 - When someone says they like or thrive on conflict, and the question is whether that is healthy.
@@ -60,3 +92,4 @@ This is also why someone who has done significant emotional work tends to move f
 
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
+- 2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement

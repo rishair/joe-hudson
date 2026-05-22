@@ -50,6 +50,7 @@
     "honor-the-patterns-intent",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
     "inherent-goodness",
+    "money-relationship-is-an-energetic-exchange",
     "resentment-as-unspoken-want",
     "the-pattern-is-not-personal",
     "i-exist-affirmation-against-collapse",
@@ -131,7 +132,9 @@
     "im-afraid-of-offending-people",
     "im-exhausted-holding-space-for-my-partner",
     "rehearsing-how-to-say-it",
+    "the-built-up-resentment-story",
     "you-think-they-cant-handle-it",
+    "what-makes-you-care-about-their-emotional-state",
     "shame-as-disconnection",
     "sublimated-wants-become-politics",
     "chameleon-leadership",
@@ -246,6 +249,7 @@
     "dont-shame-kids-they-self-shame",
     "enjoyment-as-path",
     "enjoyment-as-surrender",
+    "expensive-to-be-poor",
     "gentleness-not-trying-to-be-patient",
     "nature-improves-itself",
     "nervous-system-recovery-after-stress",
@@ -332,10 +336,13 @@
     "im-afraid-of-stagnating",
     "what-makes-you-care-about-the-outcome",
     "dont-specialize-in-the-scariest-fear",
+    "aggression-amplifies-against-conflict-avoidance",
     "blocker-emotions",
+    "conflict-avoidance-prevents-being-loved",
     "engineering-heartbreak-to-avoid-heartbreak",
     "fear-of-self-destruction-by-anger",
     "feeling-the-unfelt-emotion",
+    "helplessness-as-cayenne-pepper-of-fear",
     "impartiality",
     "kinked-emotions",
     "power-dynamics-as-two-defenders",
@@ -348,6 +355,7 @@
     "asking-with-shame-invites-refusal",
     "craving-is-the-pushing-away",
     "decisions-are-emotional",
+    "expensive-to-be-poor",
     "fear-is-about-feeling",
     "fear-is-misuse-of-imagination",
     "feared-consequences-rarely-happen",
@@ -363,6 +371,7 @@
     "vulnerability-protects",
     "without-grief-we-recreate-the-pattern",
     "anxiety-as-unarticulated-need",
+    "feel-the-pain-of-not-being-loved",
     "three-questions-on-the-pattern",
     "electric-fence-with-dog",
     "joes-abandonment-mapping",
@@ -654,14 +663,18 @@
     "impartiality",
     "overwhelm",
     "rehearsing-conversations",
+    "walking-on-eggshells",
     "name-the-authoritys-fear",
     "press-the-button-thought-experiment",
     "caring-vs-caretaking",
+    "catastrophizing-vs-visualizing",
     "safety-that-connects-vs-disconnects-from-reality",
     "caretaking-prevents-the-bottom",
     "fear-is-about-feeling",
     "fear-is-misuse-of-imagination",
     "grieve-the-marriage-to-save-it",
+    "5-second-spice-check",
+    "feel-the-pain-of-not-being-loved",
     "prepare-and-release-the-difficult-conversation",
     "visualize-the-felt-aftermath",
     "brett-cape-town-napkins",
@@ -705,6 +718,7 @@
   ],
   "you-think-they-cant-handle-it": [
     "i-caretake-people",
+    "we-have-built-up-resentment",
     "letting-it-in-vs-deflecting-the-welcome",
     "what-would-happen-if-you-stopped",
     "walking-on-eggshells",
@@ -721,6 +735,7 @@
   ],
   "resentment-as-caretaking-diagnostic": [
     "i-caretake-people",
+    "we-have-built-up-resentment",
     "caring-vs-caretaking",
     "softening-as-caring-diagnostic",
     "resentment-as-unspoken-want",
@@ -752,6 +767,7 @@
     "follow-the-demand",
     "inherent-goodness",
     "marketing-as-the-beginning",
+    "money-must-flow",
     "relationships-as-personal-growth-path",
     "shame-drives-behavior",
     "the-work-is-yours-not-mine",
@@ -891,6 +907,7 @@
     "what-would-happen-if-you-stopped",
     "fear-as-signal-of-care",
     "feel-your-way-to-freedom",
+    "helplessness-as-cayenne-pepper-of-fear",
     "impartiality",
     "overwhelm",
     "resistance",
@@ -969,6 +986,7 @@
     "fault-vs-responsibility",
     "loving-conflict-vs-wanting-conflict",
     "over-control-vs-hands-off-oscillation",
+    "expensive-to-be-poor",
     "helplessness-is-the-gateway",
     "money-must-flow",
     "principles-free-you",
@@ -983,17 +1001,22 @@
     "i-have-to-do-it-all-myself",
     "what-if-you-acted-exactly-how-you-want",
     "container-of-love",
+    "helplessness-as-cayenne-pepper-of-fear",
     "helplessness-distinguishes-death-grief",
+    "one-team-member-holds-the-helplessness",
     "quit-hope-lose-cycle",
     "apologize-for-not-seeing-the-help",
     "empowered-vs-power",
+    "helplessness-vs-surrender",
     "epiphany-becomes-rut",
     "fear-is-about-feeling",
     "love-requires-empowerment",
     "shame-drives-behavior",
     "surrender-the-outcome-of-a-decision",
     "victim-stance-invites-abuse",
-    "fear-triangle"
+    "5-second-spice-check",
+    "fear-triangle",
+    "joes-company-closing"
   ],
   "feared-consequences-rarely-happen": [
     "i-feel-trapped",
@@ -1043,6 +1066,7 @@
     "victim-stance-invites-abuse",
     "feel-love-and-empowerment-as-the-same",
     "fear-triangle",
+    "12-step-helplessness-admission",
     "joes-hr-call-firing",
     "mandela-empowerment",
     "structure-and-empowerment",
@@ -1088,6 +1112,7 @@
   "fight-or-roll-over-binary": [
     "i-freeze-around-authority",
     "im-afraid-of-offending-people",
+    "we-have-built-up-resentment",
     "upright-undefended-love",
     "binary-thinking-signals-fear",
     "become-the-authority-figure",
@@ -1328,6 +1353,7 @@
   ],
   "honor-the-patterns-intent": [
     "i-have-to-do-it-all-myself",
+    "we-have-built-up-resentment",
     "defensiveness-as-identity-signal",
     "dont-make-family-dynamics-the-story",
     "i-cant-trust-my-thoughts-right-now",
@@ -1342,6 +1368,7 @@
     "caring-vs-caretaking",
     "address-the-blocker-not-the-symptom",
     "adversity-as-for-not-against",
+    "conflict-avoidance-prevents-healing",
     "meaning-of-overwhelm-determines-direction",
     "never-rob-pain-or-gold",
     "see-whats-right-to-build-on-it",
@@ -1420,6 +1447,7 @@
     "intelligence-requires-self-awareness",
     "leaders-calm-becomes-the-teams-calm",
     "marketing-as-the-beginning",
+    "money-relationship-is-an-energetic-exchange",
     "public-failure-as-leadership-modeling",
     "subway-kid",
     "authenticity-in-business"
@@ -1517,6 +1545,7 @@
     "feel-your-way-to-freedom",
     "grief-as-gateway-to-self-love",
     "heartbreak-as-capacity-expansion",
+    "helplessness-as-cayenne-pepper-of-fear",
     "i-cant-trust-my-thoughts-right-now",
     "joy-as-matriarch",
     "kinked-emotions",
@@ -1563,6 +1592,7 @@
     "welcome-the-shame-without-extracting",
     "welcoming-the-others-emotion",
     "aware-belief-vs-unseen-belief",
+    "catastrophizing-vs-visualizing",
     "embrace-vs-brace",
     "enjoy-over-manage",
     "fear-vs-anxiety",
@@ -1618,6 +1648,7 @@
     "embodied-stages-of-grief-ritual",
     "emotional-inquiry",
     "fake-the-anger-to-let-it-move",
+    "feel-the-pain-of-not-being-loved",
     "feeling-the-want-as-emotion",
     "find-the-comparable",
     "hold-the-memory-of-when-you-felt-it-most",
@@ -1859,6 +1890,7 @@
     "love-the-anxiety-not-just-with-it",
     "embracing-changes-unconscious-decisions",
     "feeling-changes-story",
+    "5-second-spice-check",
     "embodied-stages-of-grief-ritual",
     "emotional-inquiry",
     "stages-of-emotional-development"
@@ -1887,6 +1919,7 @@
     "whats-stopping-you-from-enjoying-x",
     "dont-add-anyway-to-love",
     "comparative-mind",
+    "conflict-avoidance-prevents-being-loved",
     "container-of-love",
     "depression-four-levels",
     "feeling-the-unfelt-emotion",
@@ -1902,6 +1935,7 @@
     "past-shame-vs-current-shame",
     "asking-with-shame-invites-refusal",
     "authenticity-reduces-shame",
+    "avoided-conflict-goes-internal",
     "conflict-avoidance-prevents-healing",
     "decisions-are-emotional",
     "shame-drives-behavior",
@@ -2386,9 +2420,11 @@
     "childhood-imprinting",
     "same-scarcity-story-regardless-of-wealth",
     "resources-vs-resourcefulness",
+    "expensive-to-be-poor",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
     "integrity-as-money-compass",
     "material-problems-are-emotional-problems",
+    "money-relationship-is-an-energetic-exchange",
     "what-we-fear-we-invite",
     "joes-pleasing-dad-money-story",
     "money-domain"
@@ -2407,6 +2443,7 @@
     "identity",
     "money-as-surrogate",
     "find-the-want-behind-the-should",
+    "expensive-to-be-poor",
     "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
     "money-domain"
   ],
@@ -2419,6 +2456,7 @@
   ],
   "acceptance-as-change-strategy": [
     "if-i-had-more-money",
+    "helplessness-vs-surrender",
     "constraints-increase-creativity",
     "falling-in-love-with-projections",
     "michelangelo-sistine-chapel",
@@ -2428,15 +2466,19 @@
     "if-i-had-more-money",
     "money-as-surrogate",
     "money-is-impersonal",
+    "expensive-to-be-poor",
     "money-domain"
   ],
   "money-is-impersonal": [
     "if-i-had-more-money",
     "money-is-bad",
     "money-as-surrogate",
+    "happy-money-game",
+    "expensive-to-be-poor",
     "hardening-means-personal",
     "integrity-as-money-compass",
     "money-must-flow",
+    "money-relationship-is-an-energetic-exchange",
     "the-pattern-is-not-personal",
     "patient-on-the-table",
     "spend-time-across-class-boundaries",
@@ -2446,6 +2488,7 @@
     "im-afraid-of-offending-people",
     "im-not-an-anxious-person",
     "how-else-would-you-heal-your-shame",
+    "conflict-avoidance-prevents-being-loved",
     "shame-as-disconnection",
     "shame-stagnates-emotion",
     "fault-vs-responsibility",
@@ -2481,25 +2524,31 @@
   ],
   "conflict-avoidance-prevents-healing": [
     "im-afraid-of-offending-people",
+    "the-built-up-resentment-story",
     "how-else-would-you-heal-your-shame",
     "dont-make-it-your-job-to-prevent-their-triggers",
+    "conflict-as-evolutionary-tension",
+    "conflict-avoidance-prevents-being-loved",
     "functional-team",
     "shame-as-disconnection",
     "trust-as-multifaceted",
     "signs-of-a-dysfunctional-leader",
     "the-shame-avoidance-loop",
     "diagnose-the-meeting-live",
+    "avoided-conflict-goes-internal",
     "conflict-coming-to-you-means-youre-avoiding",
     "shame-drives-behavior",
     "trust-as-foundation-of-team-dysfunction",
     "trust-requires-conflict",
     "five-star-meeting-commitment",
+    "weekly-tension-inventory",
     "joes-laughing-meditation-retreat",
     "tibetan-teacher-offending-students",
     "family-as-team"
   ],
   "trust-requires-conflict": [
     "im-afraid-of-offending-people",
+    "conflict-as-evolutionary-tension",
     "tension-return-to-love-cycle",
     "trust-as-multifaceted",
     "chameleon-leadership",
@@ -2514,6 +2563,32 @@
   "how-else-would-you-heal-your-shame": [
     "im-afraid-of-offending-people",
     "the-shame-avoidance-loop"
+  ],
+  "we-never-fight": [
+    "im-afraid-of-offending-people",
+    "repressed-trigger-in-the-body",
+    "the-built-up-resentment-story",
+    "the-thing-not-being-said-as-the-fear-signal",
+    "say-the-thing-youre-not-saying"
+  ],
+  "conflict-avoidance-prevents-being-loved": [
+    "im-afraid-of-offending-people",
+    "we-have-built-up-resentment",
+    "the-built-up-resentment-story",
+    "what-makes-you-care-about-their-emotional-state",
+    "conflict-avoidance-prevents-healing",
+    "feel-the-pain-of-not-being-loved"
+  ],
+  "feel-the-pain-of-not-being-loved": [
+    "im-afraid-of-offending-people",
+    "the-built-up-resentment-story"
+  ],
+  "avoided-conflict-goes-internal": [
+    "im-afraid-of-offending-people",
+    "we-have-built-up-resentment",
+    "dont-lean-into-conflict-from-defendedness",
+    "conflict-avoidance-prevents-healing",
+    "weekly-tension-inventory"
   ],
   "feel-love-and-empowerment-as-the-same": [
     "im-afraid-of-stagnating",
@@ -2575,6 +2650,7 @@
     "find-the-emotion-under-self-judgment",
     "have-partner-state-the-welcome-aloud",
     "repetitive-vs-inspirational-voice",
+    "avoided-conflict-goes-internal",
     "awareness-as-change-agent",
     "see-whats-right-to-build-on-it",
     "self-judgment-protects-from-emotion",
@@ -2670,10 +2746,12 @@
     "im-depressed",
     "im-exhausted-holding-space-for-my-partner",
     "my-inner-critic-wont-stop",
+    "the-built-up-resentment-story",
     "dont-do-anger-at-your-partner",
     "dont-jump-to-compassion-before-anger",
     "dont-should-yourself-to-welcome-anger",
     "dont-try-to-change-your-partner",
+    "aggression-amplifies-against-conflict-avoidance",
     "anger-as-cover-for-deeper-emotion",
     "anger",
     "depression-four-levels",
@@ -2693,6 +2771,7 @@
     "symptoms-vs-root-causes-of-depression",
     "victim-anger-vs-dominating-anger",
     "withdrawal-with-vs-without-a-timeline",
+    "avoided-conflict-goes-internal",
     "dont-do-emotion-at-people",
     "exercises-need-body-voice-emotion",
     "exhaustion-is-unexpressed-anger",
@@ -2920,12 +2999,14 @@
     "kinked-emotions",
     "sublimated-wants-become-politics",
     "disassociation-as-numbness-layer",
+    "one-team-member-holds-the-helplessness",
     "three-forms-of-anger-repression",
     "three-signals-of-unfelt-emotion",
     "name-your-trigger-as-vulnerability",
     "feel-over-figure",
     "judgment-vs-discernment",
     "passive-aggressive-vs-aggressive-aggressive",
+    "avoided-conflict-goes-internal",
     "dont-do-emotion-at-people",
     "empathy-makes-you-better-at-hard-jobs",
     "exhaustion-is-unexpressed-anger",
@@ -2982,6 +3063,8 @@
     "im-not-an-anxious-person",
     "anxiety-as-constricted-life-force",
     "depression-four-levels",
+    "fear-in-body-vs-fear-in-head",
+    "helplessness-as-cayenne-pepper-of-fear",
     "overwhelm",
     "fear-vs-anxiety",
     "perceived-certainty-not-actual-certainty",
@@ -3006,6 +3089,7 @@
   "vulnerability": [
     "im-not-an-anxious-person",
     "what-are-you-defending",
+    "dont-lean-into-conflict-from-defendedness",
     "dont-position-yourself-as-your-partners-growth-guide",
     "dont-step-on-the-signal",
     "dont-try-to-change-your-partner",
@@ -3014,6 +3098,7 @@
     "vulnerability-as-control",
     "wonder-as-strategy",
     "being-heard",
+    "conflict-avoidance-prevents-being-loved",
     "empathy",
     "fear-as-signal-of-care",
     "feeling-the-unfelt-emotion",
@@ -3231,6 +3316,11 @@
     "stages-of-emotional-development",
     "cafe-emotional-stigma"
   ],
+  "expensive-to-be-poor": [
+    "money-is-bad",
+    "money-relationship-is-an-energetic-exchange",
+    "money-domain"
+  ],
   "just-business-vs-impersonal": [
     "money-is-bad",
     "money-is-impersonal",
@@ -3252,6 +3342,7 @@
     "voice-in-the-head",
     "binary-thinking-signals-fear",
     "find-the-emotion-under-self-judgment",
+    "catastrophizing-vs-visualizing",
     "fear-vs-anxiety",
     "feel-over-figure",
     "judgment-vs-discernment",
@@ -3304,6 +3395,7 @@
     "voice-in-the-head",
     "perfectionism",
     "name-the-authoritys-fear",
+    "catastrophizing-vs-visualizing",
     "fear-is-misuse-of-imagination",
     "voice-creates-what-it-fears",
     "visualizing-feared-outcomes"
@@ -3514,6 +3606,48 @@
     "the-more-i-grow-the-more-alone-i-feel",
     "wanting-vs-craving"
   ],
+  "conflict-avoidance-prevents-healing|conflict avoidance": [
+    "we-have-built-up-resentment",
+    "walking-on-eggshells"
+  ],
+  "walking-on-eggshells": [
+    "we-have-built-up-resentment",
+    "we-never-fight",
+    "the-built-up-resentment-story",
+    "what-makes-you-care-about-their-emotional-state",
+    "dont-do-anger-at-your-partner",
+    "dont-make-it-your-job-to-prevent-their-triggers",
+    "conflict-avoidance-prevents-being-loved",
+    "trigger",
+    "creating-safety-suppresses-self",
+    "us-vs-them-as-universal-manipulation-pattern",
+    "triggered-vs-big-emotion",
+    "capacity-to-love-other-is-capacity-to-love-self",
+    "say-the-thing-youre-not-saying",
+    "weekly-tension-inventory"
+  ],
+  "say-the-thing-youre-not-saying": [
+    "we-have-built-up-resentment",
+    "we-never-fight",
+    "the-built-up-resentment-story",
+    "dont-do-anger-at-your-partner",
+    "dont-make-it-your-job-to-prevent-their-triggers",
+    "trigger",
+    "walking-on-eggshells",
+    "ask-open-ended-non-judgmental-questions-when-triggered",
+    "reflect-back-to-make-partner-feel-heard",
+    "intra-dependent-vs-codependent",
+    "triggered-vs-big-emotion",
+    "agreements-renegotiate-as-you-change",
+    "avoided-conflict-goes-internal",
+    "do-the-work-thats-harder-for-you",
+    "weekly-tension-inventory"
+  ],
+  "weekly-tension-inventory": [
+    "we-have-built-up-resentment",
+    "the-built-up-resentment-story",
+    "conflict-as-evolutionary-tension"
+  ],
   "Walking on Eggshells": [
     "we-never-fight"
   ],
@@ -3537,30 +3671,6 @@
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
     "tibetan-teacher-offending-students",
     "romantic-relationships"
-  ],
-  "walking-on-eggshells": [
-    "we-never-fight",
-    "dont-do-anger-at-your-partner",
-    "dont-make-it-your-job-to-prevent-their-triggers",
-    "trigger",
-    "creating-safety-suppresses-self",
-    "us-vs-them-as-universal-manipulation-pattern",
-    "triggered-vs-big-emotion",
-    "capacity-to-love-other-is-capacity-to-love-self",
-    "say-the-thing-youre-not-saying"
-  ],
-  "say-the-thing-youre-not-saying": [
-    "we-never-fight",
-    "dont-do-anger-at-your-partner",
-    "dont-make-it-your-job-to-prevent-their-triggers",
-    "trigger",
-    "walking-on-eggshells",
-    "ask-open-ended-non-judgmental-questions-when-triggered",
-    "reflect-back-to-make-partner-feel-heard",
-    "intra-dependent-vs-codependent",
-    "triggered-vs-big-emotion",
-    "agreements-renegotiate-as-you-change",
-    "do-the-work-thats-harder-for-you"
   ],
   "im-not-an-anxious-person": [
     "we-never-fight",
@@ -3587,6 +3697,10 @@
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "triggers-reveal-your-own-beliefs",
     "say-the-thing-youre-not-saying"
+  ],
+  "the-built-up-resentment-story": [
+    "we-never-fight",
+    "conflict-avoidance-prevents-healing"
   ],
   "embrace-vs-brace": [
     "absence-of-resistance-to-the-suck",
@@ -3629,7 +3743,8 @@
   ],
   "love-relationship-with-anxiety": [
     "absence-of-resistance-to-the-suck",
-    "frame-it-as-an-experiment"
+    "frame-it-as-an-experiment",
+    "5-second-spice-check"
   ],
   "integration": [
     "absence-of-resistance-to-the-suck",
@@ -3665,7 +3780,10 @@
   ],
   "loving-conflict-vs-wanting-conflict": [
     "absence-of-resistance-to-the-suck",
-    "anger-as-containment-for-the-conflict-seeker"
+    "dont-lean-into-conflict-from-defendedness",
+    "anger-as-containment-for-the-conflict-seeker",
+    "conflict-as-evolutionary-tension",
+    "weekly-tension-inventory"
   ],
   "humility-in-the-system": [
     "absence-of-resistance-to-the-suck",
@@ -3845,6 +3963,7 @@
   ],
   "im-afraid-of-offending-people": [
     "looking-for-whats-wrong",
+    "the-built-up-resentment-story",
     "how-else-would-you-heal-your-shame",
     "shame-as-disconnection",
     "the-shame-avoidance-loop",
@@ -3864,7 +3983,9 @@
   ],
   "definition-of-asshole": [
     "loyalty-under-low-affection",
-    "triggers-reduce-when-you-know-you-can-leave"
+    "aggression-amplifies-against-conflict-avoidance",
+    "triggers-reduce-when-you-know-you-can-leave",
+    "tire-shop-guy-customer-container"
   ],
   "undoing-not-doing": [
     "manufacturing-the-feeling",
@@ -3902,6 +4023,7 @@
     "dont-half-ass-the-experiment",
     "opposite-of-trying",
     "undoing-not-doing",
+    "helplessness-vs-surrender",
     "letting-go-vs-doing-nothing",
     "making-vs-allowing",
     "gentleness-not-trying-to-be-patient",
@@ -3913,7 +4035,8 @@
   "hold-the-memory-of-when-you-felt-it-most": [
     "manufacturing-the-feeling",
     "trying-prevents-the-feeling",
-    "unwelcomed-emotions-return-until-felt"
+    "unwelcomed-emotions-return-until-felt",
+    "5-second-spice-check"
   ],
   "trying-prevents-the-feeling": [
     "manufacturing-the-feeling",
@@ -3982,6 +4105,7 @@
     "dont-do-anger-at-your-partner",
     "dont-jump-to-compassion-before-anger",
     "dont-should-yourself-to-welcome-anger",
+    "aggression-amplifies-against-conflict-avoidance",
     "anger-as-containment-for-the-conflict-seeker",
     "anger-as-cover-for-deeper-emotion",
     "depression-four-levels",
@@ -4003,15 +4127,15 @@
     "three-reflection-questions-on-anger",
     "joes-angry-executive-commute",
     "joes-pancake-anger-story",
+    "tire-shop-guy-customer-container",
     "anger-and-politics"
   ],
   "Get-angry-in-the-car": [
     "repressed-trigger-in-the-body"
   ],
-  "we-never-fight": [
-    "repressed-trigger-in-the-body",
-    "the-thing-not-being-said-as-the-fear-signal",
-    "say-the-thing-youre-not-saying"
+  "we-have-built-up-resentment": [
+    "the-built-up-resentment-story",
+    "conflict-avoidance-prevents-being-loved"
   ],
   "im-overwhelmed": [
     "the-rush-signature",
@@ -4051,6 +4175,7 @@
     "love-the-anxiety-not-just-with-it",
     "feeling-changes-story",
     "good-decision-is-how-you-make-it-not-the-outcome",
+    "helplessness-is-the-gateway",
     "emotional-inquiry",
     "stages-of-emotional-development"
   ],
@@ -4083,6 +4208,7 @@
     "dont-use-boundaries-as-ultimatums",
     "loving-to-transform",
     "weaponized-not-caretaking",
+    "aggression-amplifies-against-conflict-avoidance",
     "anger-as-containment-for-the-conflict-seeker",
     "boundaries",
     "conditional-clauses-of-heart-closure",
@@ -4110,6 +4236,7 @@
     "subjugation-prevents-healing",
     "joes-board-member",
     "joes-dad-drinking-boundary",
+    "tire-shop-guy-customer-container",
     "no-doctrine-leadership",
     "relating-to-someone-with-mental-health-issues"
   ],
@@ -4284,6 +4411,11 @@
     "empathize-with-fear-under-constricted-boundary",
     "fear-triangle"
   ],
+  "dont-make-it-your-job-to-prevent-their-triggers": [
+    "what-makes-you-care-about-their-emotional-state",
+    "creating-safety-suppresses-self",
+    "walking-on-eggshells"
+  ],
   "caretaking-prevents-the-bottom": [
     "what-would-happen-if-you-stopped",
     "welcome-the-shame-without-extracting",
@@ -4292,6 +4424,7 @@
     "never-rob-pain-or-gold",
     "voice-creates-what-it-fears",
     "visualizing-feared-outcomes",
+    "12-step-helplessness-admission",
     "aaron-de-la-salle-first-day"
   ],
   "enjoy-over-manage|management": [
@@ -4301,6 +4434,7 @@
     "whats-the-case-against-it",
     "dont-dismiss-exercise-before-doing-it",
     "agree-when-challenged-on-the-teaching",
+    "happy-money-game",
     "take-contrary-action",
     "connection-as-life-bottom-line",
     "the-clients-wisdom-not-the-teachers",
@@ -4380,6 +4514,10 @@
     "emotional-inquiry",
     "stages-of-emotional-development"
   ],
+  "catastrophizing-vs-visualizing": [
+    "dont-block-emotion-waiting-for-reason",
+    "visualizing-feared-outcomes"
+  ],
   "every-identity-has-limits": [
     "dont-cement-insight-as-identity",
     "dont-identify-as-awakened",
@@ -4439,6 +4577,7 @@
     "dont-identify-as-awakened",
     "limiting-belief-meta-trap",
     "tools-to-change-not-love",
+    "money-as-surrogate",
     "self-realization",
     "wanting-vs-craving",
     "awakening-as-natural-development",
@@ -4621,10 +4760,16 @@
     "dont-indulge-emotion-instead-of-welcoming",
     "emotions-show-up-at-inopportune-times",
     "feeling-the-unfelt-emotion",
+    "helplessness-as-cayenne-pepper-of-fear",
     "can-you-hang-out-with-it",
+    "catastrophizing-vs-visualizing",
+    "helplessness-vs-surrender",
     "meaning-change-vs-feeling-through",
+    "avoided-conflict-goes-internal",
+    "helplessness-is-the-gateway",
     "trying-prevents-the-feeling",
     "unwelcomed-emotions-return-until-felt",
+    "5-second-spice-check",
     "hold-the-memory-of-when-you-felt-it-most"
   ],
   "gentleness-not-trying-to-be-patient": [
@@ -4730,6 +4875,12 @@
     "emotional-inquiry",
     "head-heart-gut"
   ],
+  "conflict-as-evolutionary-tension": [
+    "dont-lean-into-conflict-from-defendedness",
+    "loving-conflict-vs-wanting-conflict",
+    "conflict-avoidance-prevents-healing",
+    "weekly-tension-inventory"
+  ],
   "three-questions-on-the-pattern": [
     "dont-make-family-dynamics-the-story",
     "childhood-imprinting",
@@ -4832,6 +4983,7 @@
     "dont-reflect-your-patterns-as-culture",
     "functional-team",
     "the-want",
+    "one-team-member-holds-the-helplessness",
     "announce-the-behavior-change-as-meta-context",
     "name-your-trigger-as-vulnerability",
     "state-the-want-not-the-action",
@@ -4913,6 +5065,7 @@
   "dont-block-emotion-waiting-for-reason": [
     "dont-shame-your-grief-process",
     "emotional-fluidity",
+    "catastrophizing-vs-visualizing",
     "emotion-can-move-without-a-story",
     "three-reflection-questions-on-anger"
   ],
@@ -5166,6 +5319,15 @@
     "reflect-back-to-make-partner-feel-heard",
     "good-and-corruption-cycle"
   ],
+  "anger-as-containment-for-the-conflict-seeker": [
+    "aggression-amplifies-against-conflict-avoidance",
+    "conflict-as-evolutionary-tension",
+    "loving-conflict-vs-wanting-conflict",
+    "tire-shop-guy-customer-container"
+  ],
+  "tire-shop-guy-customer-container": [
+    "aggression-amplifies-against-conflict-avoidance"
+  ],
   "fear-triangle|victim role": [
     "aggressive-victim-stance"
   ],
@@ -5173,6 +5335,11 @@
     "aggressive-victim-stance",
     "boundaries",
     "trust-vs-safety"
+  ],
+  "aggression-amplifies-against-conflict-avoidance": [
+    "anger-as-containment-for-the-conflict-seeker",
+    "conflict-avoidance-prevents-healing",
+    "tire-shop-guy-customer-container"
   ],
   "wisdom-of-each-emotion": [
     "anger-as-containment-for-the-conflict-seeker",
@@ -5260,6 +5427,8 @@
   "head-heart-gut": [
     "anxiety-three-definitions",
     "depression-four-levels",
+    "fear-in-body-vs-fear-in-head",
+    "helplessness-as-cayenne-pepper-of-fear",
     "story",
     "the-work-as-three-levels-of-change",
     "three-layers-of-the-work",
@@ -5427,6 +5596,39 @@
     "conditional-clauses-of-heart-closure",
     "love-yourself-the-way-you-always-wanted"
   ],
+  "loving-conflict-vs-wanting-conflict|wanting conflict": [
+    "conflict-as-evolutionary-tension"
+  ],
+  "dont-compromise-find-both-needs-met": [
+    "conflict-as-evolutionary-tension",
+    "walking-on-eggshells",
+    "just-be-yourself-and-see-what-happens",
+    "intra-dependent-vs-codependent",
+    "walled-no-vs-open-hearted-limit",
+    "agreements-renegotiate-as-you-change",
+    "conflict-avoidance-prevents-healing",
+    "relationships-as-personal-growth-path",
+    "romantic-relationships"
+  ],
+  "idea-of-self-vs-actual-self": [
+    "conflict-avoidance-prevents-being-loved",
+    "identity",
+    "every-identity-has-limits",
+    "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+    "joes-pleasing-dad-money-story"
+  ],
+  "authenticity-reduces-shame": [
+    "conflict-avoidance-prevents-being-loved",
+    "opposite-of-trying",
+    "everyone-is-pretending",
+    "refuse-to-be-defined-by-the-worst-act",
+    "joes-laughing-meditation-retreat",
+    "romantic-relationships"
+  ],
+  "different-languages-of-love": [
+    "conflict-avoidance-prevents-being-loved",
+    "soul-dysmorphia"
+  ],
   "sensitivity-as-byproduct": [
     "connection-as-family-metric",
     "embrace-intensity",
@@ -5502,6 +5704,7 @@
   ],
   "surrender-to-ineffable-vs-person": [
     "cult-of-one",
+    "helplessness-vs-surrender",
     "community-over-teacher",
     "connection-doesnt-require-the-other",
     "subjugation-prevents-healing",
@@ -5648,6 +5851,7 @@
     "team-feels-oppressed-not-accountable",
     "invigorated-vs-depleted-as-functionality-measure",
     "listen-as-the-wisest-person",
+    "weekly-tension-inventory",
     "reducing-overwhelm-in-organizations"
   ],
   "decisions-are-emotional": [
@@ -5699,11 +5903,21 @@
   ],
   "fear-in-body-vs-fear-in-head": [
     "fear-as-signal-of-care",
+    "helplessness-as-cayenne-pepper-of-fear",
     "two-words-for-fear",
     "binary-thinking-signals-fear",
+    "catastrophizing-vs-visualizing",
     "grounded-excitement-vs-ungrounded-excitement",
     "if-you-think-youre-deciding-youre-in-fear",
+    "5-second-spice-check",
     "brett-wingsuit-girlfriend-thought"
+  ],
+  "helplessness-as-cayenne-pepper-of-fear": [
+    "fear-in-body-vs-fear-in-head",
+    "one-team-member-holds-the-helplessness",
+    "helplessness-vs-surrender",
+    "helplessness-is-the-gateway",
+    "5-second-spice-check"
   ],
   "loving-the-feeling-not-just-with-it": [
     "feel-your-way-to-freedom"
@@ -5716,6 +5930,7 @@
   "self-judgment-protects-from-emotion": [
     "feeling-the-unfelt-emotion",
     "apply-enjoy-to-whats-here",
+    "avoided-conflict-goes-internal",
     "decisions-are-emotional"
   ],
   "past-shame-vs-current-shame": [
@@ -5771,6 +5986,7 @@
     "functional-team",
     "momentum-allows-dysfunction-to-persist",
     "needing-to-be-right-in-teams",
+    "one-team-member-holds-the-helplessness",
     "signs-of-a-dysfunctional-leader",
     "trust-as-foundation-of-team-dysfunction",
     "gratitude-rounds-before-meetings"
@@ -5831,6 +6047,17 @@
   "examples/joes-weeping-at-superficial-conversations": [
     "heartbreak-as-capacity-expansion"
   ],
+  "helplessness-vs-surrender": [
+    "helplessness-as-cayenne-pepper-of-fear",
+    "letting-go-vs-doing-nothing",
+    "helplessness-is-the-gateway",
+    "12-step-helplessness-admission"
+  ],
+  "5-second-spice-check": [
+    "helplessness-as-cayenne-pepper-of-fear",
+    "catastrophizing-vs-visualizing",
+    "helplessness-is-the-gateway"
+  ],
   "trace-emotion-to-its-first-felt": [
     "i-cant-trust-my-thoughts-right-now",
     "idea-of-self-vs-actual-self",
@@ -5868,12 +6095,6 @@
   ],
   "defensiveness-as-identity-signal": [
     "identity"
-  ],
-  "idea-of-self-vs-actual-self": [
-    "identity",
-    "every-identity-has-limits",
-    "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
-    "joes-pleasing-dad-money-story"
   ],
   "owning-your-partiality": [
     "impartiality",
@@ -6036,28 +6257,25 @@
     "same-scarcity-story-regardless-of-wealth",
     "resources-vs-resourcefulness",
     "constraints-increase-creativity",
+    "expensive-to-be-poor",
     "material-problems-are-emotional-problems",
     "money-domain"
   ],
   "integrity-as-money-compass": [
     "money-is-impersonal",
     "enjoyment-as-surrender",
+    "expensive-to-be-poor",
     "money-must-flow",
+    "money-relationship-is-an-energetic-exchange",
     "money-domain"
   ],
   "letting-go-vs-doing-nothing": [
     "opposite-of-trying",
-    "enjoy-over-manage"
+    "enjoy-over-manage",
+    "helplessness-vs-surrender"
   ],
   "allowing-creates-resilience": [
     "opposite-of-trying"
-  ],
-  "authenticity-reduces-shame": [
-    "opposite-of-trying",
-    "everyone-is-pretending",
-    "refuse-to-be-defined-by-the-worst-act",
-    "joes-laughing-meditation-retreat",
-    "romantic-relationships"
   ],
   "making-vs-allowing": [
     "opposite-of-trying",
@@ -6087,6 +6305,7 @@
   ],
   "reducing-overwhelm-in-organizations": [
     "overwhelm",
+    "one-team-member-holds-the-helplessness",
     "allowing-creates-resilience",
     "efficiency-as-enjoyment",
     "leaders-calm-becomes-the-teams-calm",
@@ -6186,9 +6405,6 @@
     "three-layers-of-the-work",
     "see-whats-right-to-build-on-it",
     "gratitude-rounds-before-meetings"
-  ],
-  "different-languages-of-love": [
-    "soul-dysmorphia"
   ],
   "im-depressed": [
     "soul-dysmorphia",
@@ -6386,10 +6602,6 @@
     "the-pattern-is-not-personal",
     "three-questions-on-the-pattern"
   ],
-  "dont-make-it-your-job-to-prevent-their-triggers": [
-    "creating-safety-suppresses-self",
-    "walking-on-eggshells"
-  ],
   "just-be-yourself-and-see-what-happens": [
     "creating-safety-suppresses-self",
     "so-they-attacked-you-how-do-you-want-to-be",
@@ -6438,6 +6650,18 @@
     "needing-to-be-right-in-teams",
     "trying-to-be-right-is-the-voice"
   ],
+  "scapegoat-as-marriage-stabilizer": [
+    "one-team-member-holds-the-helplessness"
+  ],
+  "leaders-calm-becomes-the-teams-calm": [
+    "one-team-member-holds-the-helplessness",
+    "principled-board-decision"
+  ],
+  "team-feels-oppressed-not-accountable": [
+    "one-team-member-holds-the-helplessness",
+    "signs-of-a-dysfunctional-team",
+    "five-star-meeting-commitment"
+  ],
   "impulse-to-should": [
     "perfectionism",
     "find-the-want-behind-the-should",
@@ -6451,6 +6675,14 @@
     "public-truth-bomb",
     "visualizing-feared-outcomes"
   ],
+  "gratitude-around-the-problem": [
+    "same-scarcity-story-regardless-of-wealth",
+    "see-whats-right-to-build-on-it",
+    "daily-gratitude-for-your-own-transformation",
+    "gratitude-rounds-before-meetings",
+    "notice-and-be-grateful-for-connection",
+    "vietnam-malnutrition-story"
+  ],
   "coach-defensive-behavior-out-of-the-meeting": [
     "signs-of-a-dysfunctional-leader"
   ],
@@ -6459,10 +6691,6 @@
   ],
   "needing-to-be-right-in-teams": [
     "signs-of-a-dysfunctional-team"
-  ],
-  "team-feels-oppressed-not-accountable": [
-    "signs-of-a-dysfunctional-team",
-    "five-star-meeting-commitment"
   ],
   "invite-the-aggression-out": [
     "three-forms-of-anger-repression",
@@ -6475,15 +6703,6 @@
     "convert-thought-to-time-bounded-listening",
     "treat-yourself-as-actor-of-emotion",
     "fake-the-anger-to-let-it-move"
-  ],
-  "dont-compromise-find-both-needs-met": [
-    "walking-on-eggshells",
-    "just-be-yourself-and-see-what-happens",
-    "intra-dependent-vs-codependent",
-    "walled-no-vs-open-hearted-limit",
-    "agreements-renegotiate-as-you-change",
-    "relationships-as-personal-growth-path",
-    "romantic-relationships"
   ],
   "covey-subway-story": [
     "agree-when-challenged-on-the-teaching",
@@ -6530,14 +6749,26 @@
     "enjoy-over-manage",
     "allowing-creates-resilience"
   ],
-  "management-required-to-launch-predicts-management-required-forever|investing principle": [
-    "hire-by-dream-job"
+  "money-must-flow": [
+    "happy-money-game",
+    "money-relationship-is-an-energetic-exchange",
+    "spend-time-across-class-boundaries",
+    "money-domain"
+  ],
+  "money-relationship-is-an-energetic-exchange": [
+    "happy-money-game",
+    "joes-pleasing-dad-money-story",
+    "money-domain"
   ],
   "give-parameters-of-winning": [
+    "happy-money-game",
     "hire-by-dream-job",
     "enjoy-over-manage",
     "over-control-vs-hands-off-oscillation",
     "valve-handbook-desks-on-wheels"
+  ],
+  "management-required-to-launch-predicts-management-required-forever|investing principle": [
+    "hire-by-dream-job"
   ],
   "management-required-to-launch-predicts-management-required-forever": [
     "hire-by-dream-job",
@@ -6615,6 +6846,12 @@
     "ceo-pajama-house-study",
     "will-chesney-seal-collapse-and-return"
   ],
+  "enjoyment-as-surrender": [
+    "helplessness-vs-surrender",
+    "making-vs-allowing",
+    "surrender-to-ineffable-vs-person",
+    "enjoyment-as-path"
+  ],
   "agree-when-challenged-on-the-teaching": [
     "identification-with-the-teaching"
   ],
@@ -6640,19 +6877,17 @@
     "vulnerability-in-the-workplace",
     "welcoming-fear-in-leadership"
   ],
+  "letting-go-vs-doing-nothing|letting go": [
+    "letting-go-vs-doing-nothing"
+  ],
   "people-pleasing": [
     "love-vs-nice"
   ],
-  "anger-as-containment-for-the-conflict-seeker": [
+  "dont-lean-into-conflict-from-defendedness": [
     "loving-conflict-vs-wanting-conflict"
   ],
   "push-past-the-protective-frame": [
     "making-vs-allowing"
-  ],
-  "enjoyment-as-surrender": [
-    "making-vs-allowing",
-    "surrender-to-ineffable-vs-person",
-    "enjoyment-as-path"
   ],
   "ray-dalio-transparency": [
     "principle-vs-value",
@@ -6875,6 +7110,18 @@
   "i-cant-get-over-this-loss": [
     "good-decision-is-how-you-make-it-not-the-outcome"
   ],
+  "helplessness-vs-surrender|surrender": [
+    "helplessness-is-the-gateway"
+  ],
+  "one-team-member-holds-the-helplessness": [
+    "helplessness-is-the-gateway"
+  ],
+  "joes-company-closing": [
+    "helplessness-is-the-gateway"
+  ],
+  "12-step-helplessness-admission": [
+    "helplessness-is-the-gateway"
+  ],
   "brett-cape-town-napkins": [
     "identity-lags-behind-growth",
     "knowing-yourself-is-the-only-safety",
@@ -6936,13 +7183,6 @@
   "vietnam-malnutrition-story": [
     "see-whats-right-to-build-on-it",
     "gratitude-around-the-problem"
-  ],
-  "gratitude-around-the-problem": [
-    "see-whats-right-to-build-on-it",
-    "daily-gratitude-for-your-own-transformation",
-    "gratitude-rounds-before-meetings",
-    "notice-and-be-grateful-for-connection",
-    "vietnam-malnutrition-story"
   ],
   "intelligence-requires-self-awareness": [
     "seeing-others-clearly-requires-not-looking-for-yourself"
@@ -7007,6 +7247,9 @@
   "joes-daughter-new-boyfriend-fear": [
     "what-we-fear-we-invite"
   ],
+  "catastrophizing-vs-visualizing|catastrophizing": [
+    "5-second-spice-check"
+  ],
   "dont-use-breath-to-repress": [
     "breath-to-exit-overwhelm",
     "emotional-inquiry"
@@ -7044,10 +7287,6 @@
   ],
   "renegotiate-commitments-as-you-change": [
     "say-the-thing-youre-not-saying"
-  ],
-  "money-must-flow": [
-    "spend-time-across-class-boundaries",
-    "money-domain"
   ],
   "goal-beyond-the-goal": [
     "visualize-the-felt-aftermath",
@@ -7116,11 +7355,12 @@
   "boundaries-expand-as-capacity-grows|boundaries refine as capacity grows": [
     "joes-dad-drinking-boundary"
   ],
+  "happy-money-game": [
+    "joes-pleasing-dad-money-story",
+    "money-domain"
+  ],
   "us-vs-them": [
     "political-signs-steakhouse-story"
-  ],
-  "leaders-calm-becomes-the-teams-calm": [
-    "principled-board-decision"
   ],
   "dont-use-boundaries-as-ultimatums|ultimatum disguised as boundary": [
     "rubbermaid-dish-solution"

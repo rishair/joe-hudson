@@ -4,7 +4,7 @@ id: we-never-fight
 title: "We never fight / Our relationship is great"
 aliases: ["we never fight", "we never get triggered", "our relationship is great", "we don't really fight", "our marriage is easy", "we're so compatible", "we don't have problems", "things are perfect", "it's been three years and we've never been triggered", "we just have a really easy relationship", "we never argue", "we don't really have conflict"]
 tags: ["relationships", "marriage", "partnership", "denial", "presenting concern", "low-conflict"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
 ---
 
 # We never fight / Our relationship is great
@@ -68,6 +68,15 @@ The typical move is not to take the "we're fine" report at face value, and also 
 
 4. If triggers surface from this practice, the arc moves into [[trigger]] work proper.
 
+## The Trajectory Variant: "We Started Great and Now It's Heavy"
+
+A close cousin of this concern is the version where the person no longer reports the relationship as fine, but tells the same story shape: "We got married and it was really great, we were happy, and over time there's this kind of built-up resentment, this walking on eggshells, we're not entirely happy with one another." Same trajectory, same mechanism. The difference: the person presenting the trajectory has already noticed the cost. See [[the-built-up-resentment-story]] for the read.
+
+For the coaching, the same set of moves applies, but the sequence runs faster because the diagnostic does not have to overcome the person's belief that the relationship is fine. The mechanism (avoidance produces accumulation, accumulation produces stagnation, stagnation produces resentment and then disconnection) is already partially visible to them.
+
+This same trajectory shows up in founder partnerships and in long jobs. The relational form is identical; the venue changes.
+
 ## Sources
 
 - 2022-09-30_Triggered
+- 2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement

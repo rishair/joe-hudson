@@ -4,7 +4,7 @@ id: im-afraid-of-offending-people
 title: "I'm afraid of offending people / How do I be myself without offending people"
 aliases: ["I don't want to offend people", "I'm afraid people can't handle me", "how do I be myself at work", "how do I say what I want without attacking", "I can't interrupt people", "I'm afraid I'll come across as rude", "people get offended by me", "I'm worried about how I come across", "fear of conflict", "conflict avoidance presenting", "I'm too direct", "I have to soften everything", "I'm a people pleaser at work", "I want to be myself but"]
 tags: ["shame", "conflict avoidance", "people-pleasing", "authenticity", "being yourself", "workplace"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
 ---
 
 # I'm afraid of offending people / How do I be myself without offending people
@@ -81,8 +81,20 @@ The real coaching question is not "how do I be myself without offending people."
 - [[i-freeze-around-authority]]: a related shape, when the fear of offending crystallizes around specific people.
 - [[i-should-be-doing-this]]: the should-energy that often co-occurs.
 - [[my-inner-critic-wont-stop]]: the voice that runs the rehearsal of how-to-say-it.
+- [[we-never-fight]]: the relational version of this concern, often shows up in the same person.
+
+## What's Underneath the Surface Fears
+
+The standard set of fears beneath this concern: fear of anger (theirs and your own), fear of abandonment, fear of consequence. The often-missed deeper layer: fear of being loved. The conflict avoidance prevents you from being seen, which prevents you from being loved. Your refusal to let yourself be loved is part of what holds this concern in place. See [[conflict-avoidance-prevents-being-loved]].
+
+If you have been working on the anger and abandonment layers and the offending-people concern persists, the love-fear layer is usually what is still in place. The practice in [[feel-the-pain-of-not-being-loved]] addresses it directly.
+
+## The Internal Conflict You Are Already Having
+
+The shape of this concern often hides the fact that the conflict it is trying to avoid is already happening, just internally. The stories ("they get offended easily," "it's not worth it," "they won't get it") are themselves the conflict in a relocated form. The choice is not between conflict and no conflict. The choice is between conflict in the room or conflict in your head. See [[avoided-conflict-goes-internal]].
 
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
+- 2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement

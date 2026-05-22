@@ -4,8 +4,8 @@ id: money-domain
 title: "Money as a Coaching Domain"
 aliases: ["coaching about money", "money work", "money as the kinkiest thing", "money shame", "money pride", "money topic"]
 tags: ["money", "applications", "shame", "kinky", "domain"]
-related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal", "money-must-flow"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2022-10-26_The Business Behind Our Courses"]
+related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal", "money-must-flow", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange", "happy-money-game"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2022-10-26_The Business Behind Our Courses", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money"]
 ---
 
 # Money as a Coaching Domain
@@ -121,6 +121,14 @@ Once money is impersonal, the operational question shifts from "what is my strat
 
 A second operating principle works alongside integrity: money is energy, and stagnant energy is destructive. See [[money-must-flow]]. The healthy money question is not "how much do I have" but "is it flowing." When money pools, distortion follows. When money circulates -- through the body, through the household, through the business, through the community -- the system stays healthy. This principle becomes available once money is impersonal and integrity is the compass.
 
+A third operating principle that becomes available at this point: money is best understood as an energetic relationship, where how you treat money determines how money treats you. See [[money-relationship-is-an-energetic-exchange]]. This is the felt form of the impersonal-money frame. The strategy layer of the money work converges here: not strategy at all, but relationship.
+
+## The Cost of Rejection
+
+The inverse pattern -- active rejection of money as a moral stance -- has its own operating cost. See [[expensive-to-be-poor]]. A coachee who has been refusing money for years is usually paying for that refusal in life energy: time spent on workarounds, work they do not love taken to avoid earning, scavenging and cajoling instead of the direct route. The rejection looks like virtue. The bill is paid in lived time.
+
+When [[money-is-bad]] is the presenting concern and the coachee has been holding the stance for years, the expensive-to-be-poor principle often surfaces what the stance has actually been costing. This is not the same as arguing for money. It is naming the lived ledger that the moral ledger has been obscuring.
+
 ## Charitable Giving and the Exchange Question
 
 A specific application of the money-flow principle: pure charity without exchange creates a particular kind of harm. The recipient learns they have nothing to offer, which is the most damaging teaching the recipient could receive. The corrective is to find what the recipient does have to offer and design the giving as exchange rather than as gift. See [[money-must-flow]] for the Nicaragua story.
@@ -147,6 +155,10 @@ This is not pricing strategy in the conventional sense. It is the felt design of
 - When the person uses distancing language ("it's just business") to handle a charged money situation
 - When the person reports a chronic sense of not having enough regardless of what they have (often [[poverty-mentality]])
 
+## Pricing for the Pattern (Wealthy Clients)
+
+A specialized move that surfaces when standard pricing fails to create exchange for wealthy clients: design the fee structure to address the client's specific pattern, not to set a market rate. See [[happy-money-game]] for the structural details. The fee structure becomes the coaching, not just the precondition for it. This is only available to the coach who has done their own work on [[money-is-impersonal]]; otherwise the design will be contaminated by the coach's own charge.
+
 ## Sources
 
 - 2021-04-23_Money Can't Save You
@@ -155,3 +167,5 @@ This is not pricing strategy in the conventional sense. It is the felt design of
 - 2022-10-26_Money Can't Oppress You (rebroadcast)
 - 2022-10-26_Money Can't Save You (rebroadcast of 2021-04-23)
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
+- 2023-07-07_Much Ado About Money (the expensive-to-be-poor frame, the energetic-exchange principle, the Happy Money Game move)
+- 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)

@@ -3726,15 +3726,143 @@
     },
     {
       "folder": "2023-07-07_Much Ado About Money",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T10:02:40Z",
+      "articles_created": [
+        "expensive-to-be-poor",
+        "money-relationship-is-an-energetic-exchange",
+        "happy-money-game"
+      ],
+      "articles_updated": [
+        "joes-pleasing-dad-money-story",
+        "same-scarcity-story-regardless-of-wealth",
+        "money-as-surrogate",
+        "money-domain",
+        "money-is-bad"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:13:10Z"
+    },
+    {
+      "folder": "2023-07-21_Helplessness- The Cayenne Pepper of Fear \u2014 Emotion Series #12",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:04:05Z",
+      "articles_created": [
+        "helplessness-as-cayenne-pepper-of-fear",
+        "helplessness-vs-surrender",
+        "catastrophizing-vs-visualizing",
+        "one-team-member-holds-the-helplessness",
+        "joes-company-closing",
+        "12-step-helplessness-admission",
+        "5-second-spice-check"
+      ],
+      "articles_updated": [
+        "helplessness-is-the-gateway",
+        "visualizing-feared-outcomes",
+        "fear-in-body-vs-fear-in-head",
+        "letting-go-vs-doing-nothing",
+        "helplessness-distinguishes-death-grief",
+        "dont-block-emotion-waiting-for-reason"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:16:55Z"
+    },
+    {
+      "folder": "2023-07-21_Much Ado About Money",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:13:54Z",
+      "articles_created": [],
+      "articles_updated": [
+        "money-must-flow",
+        "money-as-surrogate",
+        "expensive-to-be-poor",
+        "happy-money-game",
+        "money-relationship-is-an-energetic-exchange",
+        "money-is-bad",
+        "same-scarcity-story-regardless-of-wealth",
+        "money-domain",
+        "joes-pleasing-dad-money-story"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:19:59Z"
+    },
+    {
+      "folder": "2023-07-27_Helplessness\uff1a The Cayenne Pepper of Fear",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:17:59Z",
+      "articles_created": [],
+      "articles_updated": [
+        "helplessness-as-cayenne-pepper-of-fear",
+        "helplessness-vs-surrender",
+        "helplessness-is-the-gateway",
+        "joes-company-closing",
+        "one-team-member-holds-the-helplessness",
+        "12-step-helplessness-admission",
+        "letting-go-vs-doing-nothing",
+        "catastrophizing-vs-visualizing",
+        "visualizing-feared-outcomes",
+        "fear-in-body-vs-fear-in-head",
+        "5-second-spice-check"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:21:31Z"
+    },
+    {
+      "folder": "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:20:52Z",
+      "articles_created": [
+        "conflict-as-evolutionary-tension",
+        "conflict-avoidance-prevents-being-loved",
+        "aggression-amplifies-against-conflict-avoidance",
+        "avoided-conflict-goes-internal",
+        "tire-shop-guy-customer-container",
+        "dont-lean-into-conflict-from-defendedness",
+        "what-makes-you-care-about-their-emotional-state",
+        "feel-the-pain-of-not-being-loved",
+        "the-built-up-resentment-story"
+      ],
+      "articles_updated": [
+        "conflict-avoidance-prevents-healing",
+        "loving-conflict-vs-wanting-conflict",
+        "walking-on-eggshells",
+        "im-afraid-of-offending-people",
+        "we-never-fight"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:35:02Z"
+    },
+    {
+      "folder": "2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:22:13Z",
+      "articles_created": [
+        "we-have-built-up-resentment",
+        "weekly-tension-inventory"
+      ],
+      "articles_updated": [
+        "anger-as-containment-for-the-conflict-seeker",
+        "walking-on-eggshells",
+        "loving-conflict-vs-wanting-conflict",
+        "conflict-as-evolutionary-tension",
+        "aggression-amplifies-against-conflict-avoidance",
+        "conflict-avoidance-prevents-being-loved",
+        "the-built-up-resentment-story"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:36:21Z"
+    },
+    {
+      "folder": "2023-08-18_Business as a Spiritual Practice",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T10:36:25Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2023-07-21_Helplessness- The Cayenne Pepper of Fear \u2014 Emotion Series #12",
+      "folder": "2023-09-01_The Burnout Cycle",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T10:04:05Z",
+      "claimed_at": "2026-05-22T10:37:27Z",
       "articles_created": [],
       "articles_updated": []
     }
