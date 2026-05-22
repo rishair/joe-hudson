@@ -4,7 +4,7 @@ id: humility-in-the-system
 title: "Humility in the System"
 aliases: ["the humility read", "felt humility", "humility in their body", "humility I can sense in you", "the humility I notice", "naming the humility", "humility as integration signal", "humility as recovery signal", "reading humility vs reading smallness", "is this humility or disempowerment", "the humility-or-smallness diagnostic"]
 tags: ["read", "humility", "diagnostic", "recovery", "integration"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL", "2023-09-15_Humility"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL", "2023-09-15_Humility", "2023-10-18_Humility"]
 ---
 
 # Humility in the System
@@ -89,3 +89,4 @@ For the conceptual frame the read points at, see [[humility]]. For the most impo
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
 - 2022-10-26_The Self-Discovery Of A Navy SEAL
 - 2023-09-15_Humility (the teaching episode where Joe defines humility conceptually, distinguishes it from disempowerment / making-yourself-small, and articulates the arrogantly-humble paradox)
+- 2023-10-18_Humility (the Q&A follow-up that adds the four-question diagnostic for arrogantly-humble, the lake-and-sword image, the *anava* framing, the grace framing, and the structural-self-mockery practice as ongoing protection against the identity build-up the read would otherwise miss)

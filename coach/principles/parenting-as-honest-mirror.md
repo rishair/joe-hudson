@@ -4,8 +4,8 @@ id: parenting-as-honest-mirror
 title: "Parenting Is the Most Honest Mirror (You Cannot Fool Yourself With Kids)"
 aliases: ["parenting as the honest mirror", "you can't fool yourself with kids", "raising kids is the work", "kids reveal what meditation hides", "the meditation pillow vs the infant", "kids as the greatest teacher", "you can't fake awakeness with a child", "raising children as practice", "the colic test", "the parenting test of the work", "if you get frustrated at an infant you know", "kids are the test of the work", "parenting reveals the real state", "kids cut through self-deception", "spiritual bypass dies in front of a child", "the practical test of inner work"]
 tags: ["parenting", "transformation", "self-deception", "principle", "practice", "honesty", "the work"]
-related: ["loving-all-parts", "epiphany-vs-transformation", "the-work-as-three-levels-of-change", "family-as-team", "hand-in-hand-parenting", "spiritual-narcissism", "dont-shame-kids-they-self-shame"]
-sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood"]
+related: ["loving-all-parts", "epiphany-vs-transformation", "the-work-as-three-levels-of-change", "family-as-team", "hand-in-hand-parenting", "spiritual-narcissism", "dont-shame-kids-they-self-shame", "parenting-as-deep-tissue-massage", "kids-respond-to-emotional-presence-not-words", "every-trigger-with-your-kid-is-projection", "parenting-as-coaching-domain"]
+sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2023-10-13_Parenthood", "2023-10-18_Parenthood"]
 ---
 
 # Parenting Is the Most Honest Mirror (You Cannot Fool Yourself With Kids)
@@ -68,6 +68,12 @@ The guidance that helps: somatic-and-relational parenting frames like Hand in Ha
 
 "Luckily we found things like Hand in Hand Parenting and Simplicity in Parenting, which helped us, you know, help guide us." -- Joe Hudson, Joe and His Daughter Discuss Fatherhood
 
+## The Companion Framing: Identity Dismantling
+
+The mirror principle describes what the parent cannot hide. There is a complementary principle that describes what the parent cannot keep: their pre-parenting identity. See [[parenting-as-deep-tissue-massage]] for the framing that captures this. The mirror reveals what is. The deep tissue massage dismantles what was. Both are operating at the same time. The parent who orients to both has a complete frame for what parenting is doing to them.
+
+A specific mechanism the mirror reveals: the parent's projections onto the child are mirrors of the parent's own patterns, and labeling the child with the projection installs the trait. See [[every-trigger-with-your-kid-is-projection]] for the practical principle. This is the cleanest example of the mirror working at the level of moment-to-moment transmission. The parent who reads triggers as self-diagnostic information has a moment-by-moment instrument for the work the mirror is constantly showing.
+
 ## What This Principle Does Not Say
 
 It does not say that everyone should have children to do the work. The principle is about the structural test that children provide, not about a prescription that the test is mandatory. The person who chooses not to have children is not necessarily doing less real work. They may simply need to find their version of the structural test that uncontrolled relationships create.
@@ -105,3 +111,5 @@ Direct. Joe says this without self-flagellation and without congratulating himse
 ## Sources
 
 - 2022-12-23_Joe and His Daughter Discuss Fatherhood
+- 2023-10-13_Parenthood (the most extensive treatment of the parenting-as-honest-mirror principle within the full parenting frame)
+- 2023-10-18_Parenthood (Joe re-emphasizing for a pre-parent audience: the inability of the parent to hide their actual state from the child is part of what makes parenting the spiritual practice it is)

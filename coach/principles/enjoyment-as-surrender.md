@@ -4,8 +4,8 @@ id: enjoyment-as-surrender
 title: "Enjoyment Gauges Surrender to the Call"
 aliases: ["enjoyment as gauge of surrender", "enjoyment as the call", "follow the call through enjoyment", "surrender to the gravity", "the baby surrenders to the cry", "enjoyment is how deeply I'm surrendering", "the deeper call", "internal gravity", "following the call", "following the call requires humility", "the call is bigger than you", "the call sands away ego", "you can't take up your space without following the call"]
 tags: ["enjoyment", "surrender", "calling", "alignment", "decision-making", "principle", "humility"]
-related: ["enjoyment-as-path", "listening-to-impulse", "integrity-as-money-compass", "efficiency-as-enjoyment", "intention-vs-goal", "wants-over-shoulds", "humility", "annihilation-reveals-what-is-real"]
-sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses", "2023-09-15_Humility"]
+related: ["enjoyment-as-path", "listening-to-impulse", "integrity-as-money-compass", "efficiency-as-enjoyment", "intention-vs-goal", "wants-over-shoulds", "humility", "annihilation-reveals-what-is-real", "joes-calling-to-have-kids", "should-we-have-kids", "if-you-think-youre-deciding-youre-in-fear"]
+sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses", "2023-09-15_Humility", "2023-10-18_Humility", "2023-10-18_Parenthood"]
 ---
 
 # Enjoyment Gauges Surrender to the Call
@@ -92,6 +92,18 @@ This is why "taking up your full space" and "following the call" are the same mo
 
 The follow-the-call move is not blind. The wisdom in the resistance is also listened to. Self-promotion can be dangerous to the unfolding. The call gets followed *and* the resistance gets respected for what it is teaching about how to do it. The humility is in both directions: following something larger than the identity, and respecting the wisdom inside the resistance.
 
+## The Call to Have Kids: A Life-Direction Example
+
+The principle does not only apply to business or daily work. It applies to the largest life-direction questions. Joe's experience of the call to have his first two children is one of the cleanest illustrations.
+
+For years Joe was a clear no on having kids. Then the call arrived: not as deliberation, not as a reasoned reconsideration, but as the felt sensation of "knock, knock, knock, knock, it's time, let me in." He and Tara had been having unprotected sex for years, being careful in the way you can while being unprotected. The moment the call arrived, they stopped being careful. Tara was pregnant immediately. The cleanness of the timing is itself the example.
+
+"It was more of a calling and less of an intellectual decision to, okay, now's the time to have kids. It was like, literally felt like, it felt like, okay, now is the time." -- Joe Hudson, Parenthood
+
+The same pattern applied with Oona, their second child. The third was different: Tara was a clear yes, Joe was a clear no. The call did not arrive for both of them at once. The example is not "the call always comes for both partners." The example is that when the call does come, it is recognizable, and it is different from the deliberation that the mind would otherwise be doing.
+
+See [[joes-calling-to-have-kids]] for the full story and [[should-we-have-kids]] for the concern this example most directly meets.
+
 ## In Coaching
 
 When a coachee asks "what should I do with my life," the standard moves include:
@@ -131,3 +143,5 @@ Joe describes this in soft, slow language. The principle is held with reverence,
 - 2021-06-04_The Business Behind our Courses
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
 - 2023-09-15_Humility (the framing of following the call as a practical signature of humility; the first-course-student example; the principle that uncomfortable acts in the direction of the call sand away identity)
+- 2023-10-18_Humility (the Q&A reaffirming: following the call requires humility, and following the call sometimes requires self-promotion that contradicts the identity; the "follow the call AND listen to the wisdom in the resistance" double-direction framing applied to self-promotion specifically)
+- 2023-10-18_Parenthood (the call to have his first two children as an example of the principle applied to life-direction; the "knock, knock, knock, it's time" felt sense; the asymmetry with the third child where the call arrived for one partner and not the other)

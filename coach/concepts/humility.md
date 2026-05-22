@@ -2,10 +2,10 @@
 type: concept
 id: humility
 title: "Humility"
-aliases: ["what humility is", "Joe's definition of humility", "humility as not taking it personally", "thinking of yourself less", "humility is non-defense", "humility as intimacy with life", "humility is empty of self", "the empty self", "humility as empowerment", "humble and empowered", "humility as following the call", "humility is the dissolution of defense", "humility is no identity to defend", "non-defendedness", "true humility", "Joe's humility teaching"]
-tags: ["humility", "ego", "identity", "self", "core concept", "non-defense", "intimacy"]
-related: ["identity", "every-identity-has-limits", "dont-fight-identity", "annihilation-reveals-what-is-real", "love-requires-empowerment", "feel-love-and-empowerment-as-the-same", "enjoyment-as-surrender", "impartiality", "spiritual-narcissism", "humility-vs-disempowerment", "the-arrogantly-humble-paradox"]
-sources: ["2023-09-15_Humility"]
+aliases: ["what humility is", "Joe's definition of humility", "humility as not taking it personally", "thinking of yourself less", "humility is non-defense", "humility as intimacy with life", "humility is empty of self", "the empty self", "humility as empowerment", "humble and empowered", "humility as following the call", "humility is the dissolution of defense", "humility is no identity to defend", "non-defendedness", "true humility", "Joe's humility teaching", "humility as grace", "navigating the river not being the river", "humility as occupying your God-given space", "anava", "the both-and of humility and empowerment", "humility as intimacy and awe", "the fu-joe practice"]
+tags: ["humility", "ego", "identity", "self", "core concept", "non-defense", "intimacy", "grace"]
+related: ["identity", "every-identity-has-limits", "dont-fight-identity", "annihilation-reveals-what-is-real", "love-requires-empowerment", "feel-love-and-empowerment-as-the-same", "enjoyment-as-surrender", "impartiality", "spiritual-narcissism", "humility-vs-disempowerment", "the-arrogantly-humble-paradox", "let-it-move-through-and-clean-the-channel", "receive-the-projection-and-let-it-move-through", "surround-yourself-with-people-who-make-fun-of-you", "pucker-and-still-say-it", "nothing-is-wrong-with-it-its-just-painful"]
+sources: ["2023-09-15_Humility", "2023-10-18_Humility"]
 ---
 
 # Humility
@@ -30,13 +30,19 @@ This makes humility structurally different from modesty. Modesty often runs on t
 
 For the underlying mechanics of identity see [[identity]]. For the broader principle that even good identities limit see [[every-identity-has-limits]].
 
-## Humility Produces Intimacy
+## Humility Produces Intimacy (and Awe)
 
 The counterintuitive consequence: the less you take life personally, the more intimately you meet it. The defenses that protect "you" from the world also separate you from the world. When defense drops, contact becomes direct.
 
 "The weird thing about that is that the more you're not taking life personally, in a weird way, you become more intimate with it. The more that you're not like, 'oh, that hurt, that offended, do I need to defend,' the more intimate you actually become with life, the more you're meeting life as it is, and the more you are not fighting the moment." -- Joe Hudson, Humility
 
 This is why humility is not a withdrawal from life. It is the opposite. It is the removal of the barrier that keeps you watching life from inside the self-protective frame.
+
+The intimacy comes paired with awe. Without a fixed self-concept telling you in advance who you are and what is happening, what arrives in each moment can land as discovery rather than as confirmation. The "I don't know who I am about to be" is not a deficit. It is the condition for wonder.
+
+"When we're humble, we're not, we don't have some identity that we're defending. And what is present is sort of an awe, sort of a wonder of what -- who is it that we're going to be in this moment? We just don't know. And if we just don't know it, then we get to discover it." -- Brett Kistler (Joe affirms), Humility Q&A
+
+Joe's affirmation extends the framing: "There's also like you're feeling everything -- like there's an intimacy in the fact that I'm actually in touch with -- I am touching life in a weird way." The intimacy is somatic, not just relational. Without the buffer of identity, life touches you directly.
 
 ## Humility Lets You See Your Darkness Without Becoming It
 
@@ -124,17 +130,52 @@ The social side of this: a person who is becoming structurally humble will often
 
 Joe's own report: humility has become more important to him as the community around the work has grown. Without it, the pressure of running something this size would be unbearable. With it, the work is held as something moving through him rather than as something he is responsible for producing.
 
-"My relationship to humility is that it is far more important to me the bigger this gets. I don't think I would be here otherwise. If I thought that I was responsible for this, if I thought that I was in control of all of this, the pressure would be something I wouldn't want to live with. The only way I can do it is to see it as a gift, as a calling, as the space that I'm supposed to take up, and that it's beyond me. I have the humility of not thinking I'm the river, but that I am navigating the river. If I thought I was the river, I would be out of here." -- Joe Hudson, Humility
+"My relationship to humility is that it is far more important to me the bigger this gets. I don't think I would be here otherwise. If I thought that I was responsible for this, if I thought that I was in control of all of this, the pressure would be something I wouldn't want to live with. The only way I can do it is to see it as a gift, as a calling, as the space that I'm supposed to take up, and that it's beyond me. I have the humility of not thinking I'm the river, but that I am navigating the river. If I thought I was the river, I would be out of here." -- Joe Hudson, Humility Q&A
 
 The same structural problem appears in any role with public visibility. The role becomes unbearable when held as identity. The same role becomes sustainable when held with humility. This is one of the few defenses against the dynamic in [[downward-spiral-between-teacher-and-students]] -- the teacher who can hold the role as not-them does not get destroyed by the projections.
+
+For the practical version of this in facilitation and coaching, see [[receive-the-projection-and-let-it-move-through]]: the teacher must be invisible enough that students can project freely (the asshole dad, the perfect parent, the answer-haver) and receive that projection without taking it on.
+
+## Humility as Occupying Your God-Given Space
+
+A specific reframe arrived at through the listener question about the Hebrew word *anava* (humility, literally "occupying our God-given space"): being humble and taking up your full space are not opposites. Taking up your full space, when done in the direction of the call rather than the direction of personal preference, *is* humility. The refusal to take up the space is the identity, not the humility.
+
+"To take up your full space requires you to follow the calling. You can't take up your full space and be doing it for yourself. You're doing it for something beyond you. And so that is the humility." -- Joe Hudson, Humility Q&A
+
+The internal experience: when you are actually in the position of taking up your space in the direction of the call, you discover that it is not you doing it. The artist who says "it just moved through me." The Fools Crow hollow bone. The deep visceral experience of being a channel for something larger. The empowerment is real. The personal authorship dissolves.
+
+This is why "humble" and "promote yourself for the work" are not at odds. If the call requires self-promotion, you self-promote -- with the discomfort of doing something in the way of your identity, with the wisdom of the resistance still listened to, but you do it. The refusal would be the identity defending itself. See [[humility-vs-disempowerment]] and [[enjoyment-as-surrender]].
+
+## The "I Am X and I Love That" Test
+
+A live test that distinguishes humility from shame disguised as humility: the same observation about yourself can be made in two ways, and they are structurally opposite.
+
+- **Humility:** "I am X. That is true about me. And I can love that."
+- **Shame disguised as humility:** "I am a horrible person because I am X."
+
+Both look like self-acknowledgment. Only the first is humility. The second is the shame holding the identity in place. The shame is itself a defense -- anything that locks an identity in place is a form of defense.
+
+"'I'm a horrible person because I did X, Y, and Z' -- that's not humility. That's like you're still thinking about yourself a shit ton, and you're still heavily defined. And you're still defending that, because that shame is locking it in place. And anything that locks it in place is a form of defense." -- Joe Hudson, Humility Q&A
+
+The structural condition for the first formulation: the recognition without the shame requires that there is no identity that has to be either "good" or "bad" for the observation to land. The observation is just an observation. See [[every-identity-has-limits]] and [[loving-all-parts]].
 
 ## Humility as Grace
 
 Joe's closing framing in the episode: the recognition that you arrived at the work through grace, not through your own doing. The same way someone else arrived. The same way the next person will arrive. Nothing personal in the arrival.
 
-"How did I fucking get here? Through grace. That's probably the best way to describe humility -- the recognition that every thought, every moment of gratitude, every trial is grace." -- Joe Hudson, Humility
+"How did I fucking get here? Through grace. That's probably the best way to describe humility -- the recognition that every thought, every moment of gratitude, every trial is grace." -- Joe Hudson, Humility Q&A
+
+The episode's most charged moment was Joe responding to a community member who was self-abusing about feeling unworthy to be in the group -- "How did I get here?" -- and Joe answering through tears: "The same way I fucking got here. Through grace." The self-abuse was the identity defending itself ("I don't deserve this"). The grace-recognition dissolves the defense by removing the personal authorship altogether. Nothing was earned. Nothing was deserved. It moved through.
 
 This is the felt-sense version of the structural definition. The structural definition is: no self left to defend. The felt-sense version is: the recognition that nothing here was earned or possessed -- it all moves through.
+
+## Don't Make the Identity Wrong
+
+A useful guardrail in working with humility: identity defense is not bad. It is just painful. The teaching does not run on "you should not be defending an identity." It runs on the observation that the defense costs the person joy, freedom, intimacy, and direct contact with themselves.
+
+"Nothing wrong with it. We all have our identity that we're defending from time to time. To make it wrong would then be another level of identity that you have to get through. There's nothing wrong with it. The only thing I can say is it's painful. It doesn't give you a direct connection with yourself. It doesn't have a sense of freedom to it. It doesn't fill your heart. It doesn't allow you to feel joy." -- Joe Hudson, Humility Q&A
+
+Making the identity wrong adds another layer of identity (the "I am the one who has transcended identity"). The teaching has to be held without the moralism that would re-install the trap. See [[nothing-is-wrong-with-it-its-just-painful]] for the general principle.
 
 ## In Coaching
 
@@ -170,6 +211,11 @@ The teaching is not "be more humble." That would install humility as an identity
 - Toward [[annihilation-reveals-what-is-real]]: what is left when the defending self dissolves
 - Toward [[receive-the-apology-permeably]]: the related receiving stance
 - Toward [[dont-fight-identity]]: the warning against trying to destroy ego directly to produce humility
+- Toward [[let-it-move-through-and-clean-the-channel]]: the move for receiving recognition without deflection
+- Toward [[receive-the-projection-and-let-it-move-through]]: the facilitator/coach move for receiving projections without taking them on
+- Toward [[surround-yourself-with-people-who-make-fun-of-you]]: the practice that prevents the humility from becoming the identity
+- Toward [[pucker-and-still-say-it]]: the move that follows the call into the discomfort of saying the freeing thing
+- Toward [[nothing-is-wrong-with-it-its-just-painful]]: the principle that prevents humility-as-teaching from becoming moralism
 
 ## Tone
 
@@ -180,3 +226,4 @@ When he describes the empowerment side of humility, his voice carries certainty.
 ## Sources
 
 - 2023-09-15_Humility
+- 2023-10-18_Humility (the Q&A follow-up: the intimacy-plus-awe framing, the *anava* / God-given-space framing, the "I am X and I love that" test, the "nothing wrong with it -- it's just painful" guardrail, the "navigating the river not being the river" metaphor, the "through grace" tearful moment, the @fu_joe handle as humility practice, the facilitator-receives-projections teaching, the "pucker and still say it" coaching move)

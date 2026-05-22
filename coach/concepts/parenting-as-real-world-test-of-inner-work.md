@@ -4,8 +4,8 @@ id: parenting-as-real-world-test-of-inner-work
 title: "Parenting as the Real-World Test of Inner Work"
 aliases: ["parenting tests the work", "you can't fool yourself with an infant", "raising kids is the work", "kids as the greatest teachers", "meditation pillow vs the kid", "the meditation pillow test", "parenting makes the work practical", "infant breaks the bypass", "the practical test of inner work", "you can fool yourself on a cushion but not with a child"]
 tags: ["parenting", "spiritual bypass", "practice", "real world", "self-deception"]
-related: ["hand-in-hand-parenting", "family-as-team", "joy-as-matriarch", "container-of-love", "spiritual-narcissism", "running-toward-yourself", "feeling-the-unfelt-emotion", "practice-cannot-fool-itself-in-real-conditions", "business-as-spiritual-practice"]
-sources: ["2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-08-18_Business as a Spiritual Practice"]
+related: ["hand-in-hand-parenting", "family-as-team", "joy-as-matriarch", "container-of-love", "spiritual-narcissism", "running-toward-yourself", "feeling-the-unfelt-emotion", "practice-cannot-fool-itself-in-real-conditions", "business-as-spiritual-practice", "parenting-as-deep-tissue-massage", "parenting-as-honest-mirror", "every-trigger-with-your-kid-is-projection", "kids-respond-to-emotional-presence-not-words"]
+sources: ["2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-08-18_Business as a Spiritual Practice", "2023-10-13_Parenthood", "2023-10-18_Parenthood"]
 ---
 
 # Parenting as the Real-World Test of Inner Work
@@ -123,3 +123,5 @@ Direct. Warm. The teaching is not delivered as judgment. It is delivered as a re
 
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood
 - 2023-08-18_Business as a Spiritual Practice (the business-side parallel — the rubber-hits-the-road formulation, the false-separation-fantasy collapse, business as a load-bearing container alongside parenting)
+- 2023-10-13_Parenthood (the most comprehensive treatment of parenting as the practical test of inner work, including the specific Hand in Hand Parenting practices that operationalize the work)
+- 2023-10-18_Parenthood (Joe re-articulating that "all the emotional work came from raising children" -- the entire body of his current teaching traces back to what he had to learn to be present with kids' emotions)

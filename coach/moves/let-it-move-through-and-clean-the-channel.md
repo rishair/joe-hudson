@@ -2,10 +2,10 @@
 type: move
 id: let-it-move-through-and-clean-the-channel
 title: "Let It Move Through and Clean the Channel (Receive Compliments, Recognition, Love)"
-aliases: ["let it move through", "let the compliment move through", "let it clean the channel", "the hollow bone move", "the Fools Crow hollow bone", "receive the compliment all the way through", "stop deflecting recognition", "let it land", "receive permeably", "compliment as ego cleaner", "the channel-cleaning move", "receiving as humility", "do not deflect the love", "let the recognition land", "the receiving move", "let it whack through you"]
+aliases: ["let it move through", "let the compliment move through", "let it clean the channel", "the hollow bone move", "the Fools Crow hollow bone", "receive the compliment all the way through", "stop deflecting recognition", "let it land", "receive permeably", "compliment as ego cleaner", "the channel-cleaning move", "receiving as humility", "do not deflect the love", "let the recognition land", "the receiving move", "let it whack through you", "let the compliment whack through", "the deflection-is-the-defense move", "deflection compounds the smallness identity"]
 tags: ["move", "humility", "receiving", "compliments", "recognition", "ego", "channel", "permeability"]
-related: ["humility", "humility-vs-disempowerment", "receive-the-apology-permeably", "letting-it-in-vs-deflecting-the-welcome", "have-partner-state-the-welcome-aloud", "the-opposite-of-trying"]
-sources: ["2023-09-15_Humility"]
+related: ["humility", "humility-vs-disempowerment", "receive-the-apology-permeably", "letting-it-in-vs-deflecting-the-welcome", "have-partner-state-the-welcome-aloud", "the-opposite-of-trying", "receive-the-projection-and-let-it-move-through"]
+sources: ["2023-09-15_Humility", "2023-10-18_Humility"]
 ---
 
 # Let It Move Through and Clean the Channel
@@ -113,7 +113,9 @@ The work is not to suppress the deflection (which would be another defense) but 
 - Toward [[letting-it-in-vs-deflecting-the-welcome]]: the related read for couples
 - Toward [[have-partner-state-the-welcome-aloud]]: the move in couples coaching that produces the receiving moment
 - Toward [[the-opposite-of-trying]]: the broader stance the move sits inside
+- Toward [[receive-the-projection-and-let-it-move-through]]: the parallel move for facilitators receiving projections (compliments and projections both move through the same channel, with different substance)
 
 ## Sources
 
 - 2023-09-15_Humility
+- 2023-10-18_Humility (reaffirmation of the hollow-bone framing in the Q&A; the additional detail that the Grammy-acceptance deflection actively costs the people giving the recognition)

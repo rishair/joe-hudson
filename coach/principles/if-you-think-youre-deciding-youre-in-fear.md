@@ -4,7 +4,7 @@ id: if-you-think-youre-deciding-youre-in-fear
 title: "If You Think You're Making a Decision, You're in Fear"
 aliases: ["if you think you're deciding you're in fear", "decisions are fear", "the decision-as-fear principle", "feeling like a decision means fear", "the felt decision is fear", "what feels like a decision is fear", "decisions feel like decisions only when scared", "feeling decisions vs not feeling them", "non-decisions are most decisions", "decisions you didn't notice", "you make a hundred decisions a minute and don't feel them", "if a choice has become a decision you're in fear", "choices become decisions when fear enters", "the distinction between choice and decision", "choices vs decisions", "when a choice becomes a decision"]
 tags: ["fear", "decisions", "intuition", "trust", "flow", "freedom"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-10-18_Parenthood"]
 ---
 
 # If You Think You're Making a Decision, You're in Fear
@@ -104,6 +104,16 @@ The diagnostic is the felt sense. When the mind is engaged in problem-solving an
 
 The principle applies specifically to the felt-as-a-decision experience. Not all cognitive activity is decision-fear.
 
+## The Life-Direction Application: The Kids-or-No-Kids Fork
+
+The principle scales to the largest life-direction questions. Couples who have been "sitting in the question" of whether to have kids for years are usually treating it as a decision when the question is calling for something else. The deliberation has not produced an answer because deliberation is the wrong instrument. The right instrument is listening.
+
+Joe's own experience is the counter-example. He was a clear no on having kids for years. He was not deliberating; the no was a felt state, not a decision in process. When the shift came, it also was not a decision. It arrived as a call: "knock, knock, knock, knock, it's time, let me in." See [[joes-calling-to-have-kids]] for the full story. The cleanness of the transition -- from clear no to clear yes without any intermediate weighing -- is the example of what happens when the felt material is allowed to speak instead of being argued with.
+
+The person who is "trying to decide" about kids for three years is in fear. The deliberation is not producing clarity because the deliberation is not where the clarity is. The work is to feel what is actually present -- the fears on both sides, the wants on both sides -- so the felt-deciding can release and the actual call (or absence of it) can be heard. See [[should-we-have-kids]] for the concern this most directly meets.
+
+The same principle applies to any life-direction question that has been live for years without resolution: jobs, relationships, moves, projects. The chronic deliberation is the diagnostic. Years of trying to decide means years of fear about the outcome. The work is not better decision-making.
+
 ## The Connection to Attachment
 
 The deeper layer: the decision-feel arises from attachment to outcome. The person believes that getting one outcome rather than another determines something important about who they are, what their life is, whether they are okay. The fear of getting the wrong outcome produces the decision-feel.
@@ -153,3 +163,4 @@ Direct, slightly provocative. Joe states this as fact, not opinion. The principl
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the choice-vs-decision distinction explicitly framed; the "I have 500 choices today" example)
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
+- 2023-10-18_Parenthood (Joe's call to have his first two children as a life-direction-scale example of the principle; the contrast between his years of clear no and Tara's years of clear yes versus the felt arrival of the call when it came; the third-kid asymmetry showing the call is not guaranteed to arrive for both partners)

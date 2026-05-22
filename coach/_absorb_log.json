@@ -3955,15 +3955,125 @@
     },
     {
       "folder": "2023-10-04_Finding Community",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T10:59:19Z",
+      "articles_created": [
+        "i-feel-lonely-i-cant-find-real-community",
+        "dont-comfort-the-mourner-from-your-own-discomfort",
+        "host-a-grief-ceremony-as-community",
+        "your-pain-when-witnessed-heals-the-whole-community",
+        "the-attack-and-cling-test-of-real-community"
+      ],
+      "articles_updated": [
+        "community",
+        "island-experiment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T11:09:20Z"
+    },
+    {
+      "folder": "2023-10-13_Parenthood",
+      "status": "complete",
+      "claimed_at": "2026-05-22T11:02:53Z",
+      "articles_created": [
+        "take-care-of-yourself-then-marriage-then-kids",
+        "parenting-as-deep-tissue-massage",
+        "kids-respond-to-emotional-presence-not-words",
+        "kids-release-emotions-where-they-feel-safe",
+        "stay-close-and-insist",
+        "dont-hate-your-kids-and-they-wont-hate-you",
+        "esme-just-having-my-emotions",
+        "bar-couple-priority-order",
+        "una-grabbing-joes-face",
+        "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+        "every-trigger-with-your-kid-is-projection",
+        "joe-and-tara-weekend-reset"
+      ],
+      "articles_updated": [
+        "parenting-as-coaching-domain",
+        "parenting-as-honest-mirror",
+        "hand-in-hand-parenting",
+        "parenting-as-real-world-test-of-inner-work"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T11:19:14Z"
+    },
+    {
+      "folder": "2023-10-18_Humility",
+      "status": "complete",
+      "claimed_at": "2026-05-22T11:10:16Z",
+      "articles_created": [
+        "receive-the-projection-and-let-it-move-through",
+        "surround-yourself-with-people-who-make-fun-of-you",
+        "the-fu-joe-handle",
+        "pucker-and-still-say-it",
+        "nothing-is-wrong-with-it-its-just-painful"
+      ],
+      "articles_updated": [
+        "humility",
+        "humility-vs-disempowerment",
+        "the-arrogantly-humble-paradox",
+        "let-it-move-through-and-clean-the-channel",
+        "enjoyment-as-surrender",
+        "humility-in-the-system"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T11:22:10Z"
+    },
+    {
+      "folder": "2023-10-18_Parenthood",
+      "status": "complete",
+      "claimed_at": "2026-05-22T11:20:06Z",
+      "articles_created": [
+        "should-we-have-kids",
+        "people-want-you-in-it-with-them-not-advice",
+        "joes-calling-to-have-kids"
+      ],
+      "articles_updated": [
+        "parenting-as-deep-tissue-massage",
+        "kids-respond-to-emotional-presence-not-words",
+        "take-care-of-yourself-then-marriage-then-kids",
+        "stay-close-and-insist",
+        "dont-hate-your-kids-and-they-wont-hate-you",
+        "every-trigger-with-your-kid-is-projection",
+        "parenting-as-coaching-domain",
+        "parenting-as-honest-mirror",
+        "kids-release-emotions-where-they-feel-safe",
+        "parenting-as-real-world-test-of-inner-work",
+        "enjoyment-as-surrender",
+        "if-you-think-youre-deciding-youre-in-fear",
+        "bar-couple-priority-order",
+        "joe-and-tara-weekend-reset",
+        "esme-just-having-my-emotions",
+        "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+        "una-grabbing-joes-face",
+        "hand-in-hand-parenting"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T11:33:35Z"
+    },
+    {
+      "folder": "2023-10-27_Emotional Fluidity - Emotion Series #13",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T11:27:38Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2023-10-13_Parenthood",
+      "folder": "2023-10-30_Emotional Fluidity",
+      "status": "complete",
+      "claimed_at": "2026-05-22T11:35:02Z",
+      "articles_created": [],
+      "articles_updated": [
+        "emotional-fluidity"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T11:37:39Z"
+    },
+    {
+      "folder": "2023-11-10_Finding a Romantic Partner",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T11:02:53Z",
+      "claimed_at": "2026-05-22T11:38:21Z",
       "articles_created": [],
       "articles_updated": []
     }

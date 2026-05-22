@@ -4,8 +4,8 @@ id: parenting-as-coaching-domain
 title: "Parenting as a Coaching Domain"
 aliases: ["parenting as the work", "parenting as coaching domain", "parenting as a coaching topic", "parenting is the work", "parenting work", "raising children as the deepest work", "the parent's coaching topic", "coaching parents", "parents in coaching", "parent-child coaching", "the parenting domain", "raising kids work", "the parenting development arc", "what happens in coaching with parents", "where parenting fits in the work"]
 tags: ["parenting", "application", "coaching", "family", "transformation", "children"]
-related: ["parenting-as-honest-mirror", "family-as-team", "hand-in-hand-parenting", "never-rob-pain-or-gold", "dont-shame-kids-they-self-shame", "joes-daughter-silent-retreat", "esme-just-need-to-be-sad", "esme-heartbreak-feels-good", "connection-as-family-metric", "loving-all-parts", "teach-teenagers-to-be-their-own-authority", "esme-step-by-step-project", "joes-no-compliments-daughter"]
-sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2023-05-12_Who Owns Your Authority?"]
+related: ["parenting-as-honest-mirror", "family-as-team", "hand-in-hand-parenting", "never-rob-pain-or-gold", "dont-shame-kids-they-self-shame", "joes-daughter-silent-retreat", "esme-just-need-to-be-sad", "esme-heartbreak-feels-good", "connection-as-family-metric", "loving-all-parts", "teach-teenagers-to-be-their-own-authority", "esme-step-by-step-project", "joes-no-compliments-daughter", "take-care-of-yourself-then-marriage-then-kids", "parenting-as-deep-tissue-massage", "kids-respond-to-emotional-presence-not-words", "kids-release-emotions-where-they-feel-safe", "dont-hate-your-kids-and-they-wont-hate-you", "every-trigger-with-your-kid-is-projection", "stay-close-and-insist", "esme-just-having-my-emotions", "una-grabbing-joes-face", "joe-apologizes-to-esme-for-the-3-year-old-imprint", "bar-couple-priority-order", "joe-and-tara-weekend-reset", "should-we-have-kids", "joes-calling-to-have-kids", "people-want-you-in-it-with-them-not-advice"]
+sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2023-05-12_Who Owns Your Authority?", "2023-10-13_Parenthood", "2023-10-18_Parenthood"]
 ---
 
 # Parenting as a Coaching Domain
@@ -20,6 +20,36 @@ Parenting is a coaching domain in three distinct senses, each of which calls for
 
 **3. The parent-child relationship as a relationship like any other.** The same principles that apply to a romantic partnership or a team apply, with modifications, to the parent-child relationship. Trust, conflict, wants, presence, repair. The relational skills the parent has built elsewhere can be applied here, and the relational gaps the parent has elsewhere will also show up here.
 
+## The Priority Order Most Parents Get Wrong
+
+Before the coaching of any specific parenting concern, there is a structural question: is the parent taking care of themselves first, the marriage second, the kids third? Most parents are taught the inverse — kids first, then partner, then self if there is any room. The inverted order produces a household where the upstream layers (the self, the marriage) have been chronically starved, and the downstream layer (the kids) gets the depleted version of the parent.
+
+The coaching often surfaces this before any specific parenting work happens. The parent's marriage is suffering. The parent has not slept. The parent has no time for themselves. The "parenting problem" the coachee is presenting is often downstream of an upstream depletion that the coachee has not been allowed to name without guilt. See [[take-care-of-yourself-then-marriage-then-kids]] for the principle, [[bar-couple-priority-order]] for the origin story, and [[joe-and-tara-weekend-reset]] for the example of the principle in action.
+
+## What Parenting Does to the Parent (Why It Is the Practice)
+
+A foundational frame: parenting dismantles the parent's identity. The marriage they planned. The career trajectory they were on. The kind of parent they were going to be. The self-image they built before the child arrived. All of these get pulled apart whether the parent cooperates or not. Joe calls this the "deep tissue massage" — if the parent resists, it hurts more. If they let it happen, the parts of them that come loose were never as fixed as they thought. See [[parenting-as-deep-tissue-massage]].
+
+This framing matters for coaching because it gives the parent a way to relate to the losses parenting brings that is not just grief or failure. The losses are the practice. The parent who internalizes this stops fighting the changes and starts letting them happen.
+
+## How Children Actually Operate (And What That Asks of the Parent)
+
+A second foundational frame, especially with young children: kids do not respond to words. They respond to your emotional presence. Your nervous system is the communication channel. Whatever you are actually feeling lands on the child regardless of how careful your words are. See [[kids-respond-to-emotional-presence-not-words]].
+
+This is paired with the complementary principle: kids release emotions where they feel safe. The home meltdown after a well-behaved outing is not failure. It is the child trusting the parent enough to discharge what they accumulated elsewhere. See [[kids-release-emotions-where-they-feel-safe]]. The example [[esme-just-having-my-emotions]] illustrates what happens when both principles are internalized in the child.
+
+Together, these two principles change how the parent reads the child's behavior. The "acting out" is often the child calibrating to the parent's state or releasing what they could not release elsewhere. The example [[una-grabbing-joes-face]] shows the child doing the reverse — registering when the parent has drifted and physically repairing the field.
+
+## The Specific Form of Imprinting Through Trigger
+
+A particularly load-bearing principle for parents who are doing the inner work: every trigger with your kid is a projection, and labeling the child with the label installs the trait. "You're being selfish" both reveals the parent's own selfishness and installs it in the child. See [[every-trigger-with-your-kid-is-projection]]. The principle gives the triggered parent a self-diagnostic in real time and a clear move: stop labeling, address the trigger inwardly.
+
+The repair side of the same principle: imprints that were installed in earlier years can be named with the now-grown child cleanly, without shame, and the pattern often dissolves. See [[joe-apologizes-to-esme-for-the-3-year-old-imprint]] for the example of this working in real time with a teenager.
+
+## The Teen-Years Reframe
+
+A specific anxiety many parents carry: the cultural script that says teenagers will hate them. The reframe: teens who hate their parents are mostly teens who have been told for years that some part of them is not okay. The pushing-off in adolescence is developmental; the cold rejection is the predictable response to years of accumulated not-okay messages. See [[dont-hate-your-kids-and-they-wont-hate-you]]. The principle also gives the parent a clear set of boundaries for the teen years: a "lane to swim in" defined by respect, contribution, and demonstrated responsibility — not micromanagement.
+
 ## What This Application Adds to "Family as Team"
 
 [[family-as-team]] addresses the family as a system that responds to team principles. This application is narrower: it addresses the parent-child relationship specifically, including the parts of it that team principles do not fully cover.
@@ -27,6 +57,10 @@ Parenting is a coaching domain in three distinct senses, each of which calls for
 The relationship between a parent and a young child is asymmetric in a way that adult relationships are not. The child does not have full agency, full self-regulation, or full capacity to negotiate. The parent is also primarily responsible for the relationship's outcomes in a way no team member is. This asymmetry needs its own treatment.
 
 The relationship between a parent and an adult or near-adult child shifts toward the team-like model — both parties have agency, both parties are negotiating, both parties bear responsibility. Coaching often shows up at the transition: parents who are still parenting their twenty-year-old like a ten-year-old, or twenty-year-olds who are still treated like ten-year-olds by parents who have not made the shift.
+
+## The Boundary Move for Young Children
+
+A specific move worth naming: with young children, boundaries work best when delivered close (physically present, not from a distance) and with "we" language ("we are brushing our teeth now" rather than "you go brush your teeth"). The framing makes the boundary a shared activity rather than a command. See [[stay-close-and-insist]]. Most parents fail by doing one part without the other — they insist from a distance (the yelling parent) or they stay close without insisting (the collapsing parent). Both produce escalation. The combined move produces compliance and connection.
 
 ## The Three Most Common Parenting Concerns
 
@@ -127,3 +161,5 @@ A coach working with parents needs to be able to:
 
 - 2022-12-23_Joe and His Daughter Discuss Fatherhood
 - 2023-05-12_Who Owns Your Authority? (the authority shift from young child to teenager)
+- 2023-10-13_Parenthood (the most comprehensive treatment of parenting as a coaching domain across early years, teen years, and the self-work the parent must do)
+- 2023-10-18_Parenthood (the same teaching extended to the pre-parent fork: coaching people who are still deciding whether to become parents at all, surfacing the question as a call rather than a decision)

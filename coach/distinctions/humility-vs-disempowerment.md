@@ -2,10 +2,10 @@
 type: distinction
 id: humility-vs-disempowerment
 title: "Humility vs. Disempowerment (Making Yourself Small)"
-aliases: ["humility vs disempowerment", "humility is not making yourself small", "humility is not small", "humility is not codependent", "humility is not conflict avoidant", "humility is not caretaking", "the smallness trap", "humility is not service", "what humility is not", "true humility vs false humility", "humility vs codependence", "small humility vs big humility", "false humility", "humility vs self-erasure", "the Gandhi vs the doormat distinction"]
+aliases: ["humility vs disempowerment", "humility is not making yourself small", "humility is not small", "humility is not codependent", "humility is not conflict avoidant", "humility is not caretaking", "the smallness trap", "humility is not service", "what humility is not", "true humility vs false humility", "humility vs codependence", "small humility vs big humility", "false humility", "humility vs self-erasure", "the Gandhi vs the doormat distinction", "the 12-year-old with the abusive father test", "humility requires self-care", "humility includes taking up your space", "humility is the lake the sword strikes"]
 tags: ["humility", "distinction", "ego", "identity", "conflict-avoidance", "codependence", "self-care"]
-related: ["humility", "the-arrogantly-humble-paradox", "conflict-avoidance-prevents-being-loved", "caring-vs-caretaking", "spiritual-narcissism", "love-requires-empowerment", "weaponized-not-caretaking", "what-is-truly-compassionate"]
-sources: ["2023-09-15_Humility"]
+related: ["humility", "the-arrogantly-humble-paradox", "conflict-avoidance-prevents-being-loved", "caring-vs-caretaking", "spiritual-narcissism", "love-requires-empowerment", "weaponized-not-caretaking", "what-is-truly-compassionate", "nothing-is-wrong-with-it-its-just-painful"]
+sources: ["2023-09-15_Humility", "2023-10-18_Humility"]
 ---
 
 # Humility vs. Disempowerment (Making Yourself Small)
@@ -88,7 +88,35 @@ Ask: what would happen if I took up my full space right now?
 
 The 12-year-old-with-an-abusive-father test: imagine a child raised in an unsafe environment asking "how do I be humble here?" Telling them to make themselves small is not humility. The answer is whatever takes care of them. That principle scales. Humility for an adult includes taking care of themselves. Anything that does not is the disempowered version.
 
-"What is the humble behavior from the son? Is it to make themselves small and back away? Is it to stand up and fight? What's the humble behavior? My answer would be whatever is required to take care of themselves." -- exchange between Joe Hudson and Brett Kistler, Humility
+"Let's say a man has a father who's really abusive and isn't attuned to or listening to the son. So the question is: what is the humble behavior from the son? Is it to make themselves small and back away? Is it to stand up and fight and rebel? What's the humble behavior? One of the things you might notice is, 'go make yourself small' doesn't feel like humility." -- Joe Hudson, Humility Q&A
+
+Brett's reply, which Joe affirmed as the right answer: "Whatever is required to take care of themselves."
+
+"Isn't that a fascinating thing -- humility actually requires self-care. And in fact, that is exactly what it requires." -- Joe Hudson, Humility Q&A
+
+The same logic applies upward: an adult asking "how do I be humble in this situation" can run the same test. The humble move is the one that takes care of the person while not requiring them to defend an identity. Smallness is not the answer. Self-care often is.
+
+## Hiding Behind Humility
+
+A specific form of the trap: using humility as a way to hide. Playing it safe professionally because "I am just being humble." Not leaning into relationships that want more of you because "I am just being humble." The framing makes the avoidance feel virtuous.
+
+The diagnostic: is the "humility" cutting off life force? Is it preventing the call from being followed? Is it producing self-suppression that the person calls modesty? If yes, the structure being protected is the smallness-identity, not humility.
+
+The repair is the body-level practice: find the joy of expressing yourself, of making yourself big, and notice how the ego gets sanded away in the process. Not "big" only in performance contexts -- big in conversation with your partner, with your boss. Taking up your rightful space, as listener Edmund put it via the *anava* framing.
+
+"Find the joy of expressing yourself. Find the joy of making yourself big, and find that in making yourself big you disappear. That's the quickest way to do it. And it's not just big like 'go out and learn how to do improv' big. It's big as in when you're talking to your wife or your boss, make yourself big. Allow yourself to fully be in that space, fully take up your rightful space. And notice how your ego gets shaken and starts getting eroded in that process." -- Joe Hudson, Humility Q&A
+
+The despising of expressive people (a symptom several listeners named in themselves from childhood teaching of false humility) is itself the giveaway. Judging the expressive person is not humility. It is the identity defending itself. The question to sit with: who is taking up more space -- the person who loves the expressive person, or the person who hates and despises them? The loving one. The despising is the smaller move.
+
+"Who's taking up more space -- the person who loves the expressive person or the person who hates and despises the expressive person? Which of those two actions is more humble?" -- Joe Hudson, Humility Q&A
+
+## The Lake That the Sword Strikes
+
+The most vivid image for the empowered side of humility, from the same conversation: a person undefended is not weak. They are like a lake. When someone attacks a lake with a sword, the sword means nothing.
+
+"If someone's coming at you with a sword, be water. If you ever see a man with a sword attack a lake -- that's what it feels like. And you're like, 'oh shit, I'm the lake.' The sword means nothing. That's a deeply empowering feeling. But to avoid it, to be small, to think that you can't do it -- that isn't humility. That's just another way to defend yourself through avoidance." -- Joe Hudson, Humility Q&A
+
+The two sides of the distinction land here. The disempowered person dodges the sword. The humble person is the lake. Both look like "not fighting back." Structurally they are opposite. The dodge is a defense of the smallness-identity. The lake has no identity to defend, so the sword finds nothing to strike.
 
 ## How to Tell Which One Is Operating in Someone Else
 
@@ -137,3 +165,4 @@ The visualization that makes this directly available in the body is [[feel-love-
 ## Sources
 
 - 2023-09-15_Humility
+- 2023-10-18_Humility (the 12-year-old-with-the-abusive-father test, the "hiding behind humility" reframe, the lake-and-sword image, the "find the joy of expressing yourself" repair, the recognition that despising expressive people is itself smallness)
