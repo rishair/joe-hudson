@@ -1405,8 +1405,64 @@
     },
     {
       "folder": "2022-07-22_The Anatomy of Shame - Emotion Series #8",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T00:34:25Z",
+      "articles_created": [
+        "shame-stagnates-emotion",
+        "addiction-to-shame",
+        "natural-shame-vs-installed-shame",
+        "if-i-were-inherently-good",
+        "list-the-shames-you-avoided",
+        "welcome-the-shame-without-extracting",
+        "dont-shame-kids-they-self-shame"
+      ],
+      "articles_updated": [
+        "shame-as-disconnection",
+        "shame-drives-behavior",
+        "electric-fence-with-dog",
+        "inherent-goodness",
+        "container-of-love",
+        "past-shame-vs-current-shame"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T00:45:50Z"
+    },
+    {
+      "folder": "2022-08-05_Aaron Taylor \u2014 Feel Your Way to Freedom- Growing Up Fatherless, Becoming a Fathe",
+      "status": "complete",
+      "claimed_at": "2026-05-22T00:49:06Z",
+      "articles_created": [
+        "visualize-the-felt-aftermath",
+        "confidence-only-where-approval-isnt-needed",
+        "making-vs-allowing",
+        "idea-of-self-vs-actual-self",
+        "never-rob-pain-or-gold",
+        "feel-your-way-to-freedom",
+        "push-past-the-protective-frame",
+        "aaron-wife-fumble-coaching",
+        "aaron-de-la-salle-first-day",
+        "joes-daughter-silent-retreat",
+        "adversity-as-for-not-against"
+      ],
+      "articles_updated": [
+        "art-of-accomplishment",
+        "annihilation-reveals-what-is-real",
+        "vulnerability-in-the-workplace"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T01:03:54Z"
+    },
+    {
+      "folder": "2022-08-19_The Beauty of Grief \u2014 Emotion Series #9",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T01:04:27Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2022-09-02_How Relationships Reveal Us \u2014 Relationships Series #1",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T01:04:37Z",
       "articles_created": [],
       "articles_updated": []
     }

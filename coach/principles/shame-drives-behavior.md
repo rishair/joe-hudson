@@ -2,10 +2,10 @@
 type: principle
 id: shame-drives-behavior
 title: "Shame Drives Behavior"
-aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame"]
-tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment"]
-related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame", "shame is the locks of the chains of bad habits"]
+tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment", "addiction"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "addiction-to-shame", "shame-stagnates-emotion"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8"]
 ---
 
 # Shame Drives Behavior
@@ -45,6 +45,20 @@ The principle applies broadly to addiction patterns. Shame is the lock that hold
 "Shame is the locks of the chains of bad habits. Shame seems to be a big part of an addiction cycle. If you could just lift the shame out of people, then most of the addictions would fall away." -- Joe Hudson, Feel over Figure
 
 This is consistent with what Joe observes about slot machine addiction, gambling, substance use, compulsive eating, and other behaviors organized around emotional avoidance. The behavior is the symptom. The shame is the lock. The unfelt emotion is what the lock is holding closed.
+
+## The Lock Becomes Part of the Appeal
+
+A darker turn on the principle: the lock and the appetite can wire together. Things that fire together, wire together. When shame consistently accompanies an appetite (sex, eating, spending), eventually the shame becomes part of what makes the activity compelling. The dog learns it can run through the electric fence quickly and the shock becomes part of the thrill of escape.
+
+"There's actually something that happens where people get addicted to shame, I would say, where they're the shame is the addiction. And so sex isn't as thrilling unless there's a little bit of shame with it, or eating isn't -- or shopping isn't as thrilling if there isn't a little bit of shame with it." -- Joe Hudson, The Anatomy of Shame
+
+This is the felt-experience side of the principle: the shame is not just locking the behavior in place mechanically; it has become woven into the appeal of the behavior itself. See [[addiction-to-shame]] for the full pattern. The implication for the work is that simply trying to "remove the shame from the activity" does not work, because the shame has become part of why the activity is wanted. The deeper want underneath has to be found and let to become the new attractor.
+
+## The Stagnation Mechanism
+
+The reason shame holds behavior in place mechanically is that shame stops emotional movement. Other emotions move when felt; shame creates a stagnation field around itself. The behavior cannot shift because the emotional material that would have processed it is frozen. See [[shame-stagnates-emotion]].
+
+This explains why the prescription is consistently "feel the shame" rather than "manage the behavior." The behavior cannot change while the emotional material underneath it is frozen. The thaw is what allows the shift. The behavior changes as a byproduct once the freeze releases.
 
 ## Upstream (What Leads Here)
 
@@ -88,3 +102,4 @@ Once shame is welcome, the behavioral architecture organized around avoiding it 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-07-22_The Anatomy of Shame - Emotion Series #8

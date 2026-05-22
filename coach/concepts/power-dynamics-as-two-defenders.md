@@ -2,10 +2,10 @@
 type: concept
 id: power-dynamics-as-two-defenders
 title: "Power Dynamics: Two People Who Both Think They're Defending"
-aliases: ["power dynamics as mutual defense", "both sides feel attacked", "two people defending themselves", "the mutual defense frame", "power dynamics structure", "all conflict is two scared people", "the defender-attacker mirror", "mutual defense dynamic", "both think the other is attacking"]
-tags: ["power", "conflict", "fear", "defense", "relational", "diagnostic", "core concept"]
-related: ["fear-triangle", "empowered-vs-power", "defense", "binary-thinking-signals-fear", "anxiety-as-constricted-life-force", "acknowledge-the-fear-by-role"]
-sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
+aliases: ["power dynamics as mutual defense", "both sides feel attacked", "two people defending themselves", "the mutual defense frame", "power dynamics structure", "all conflict is two scared people", "the defender-attacker mirror", "mutual defense dynamic", "both think the other is attacking", "every fight has the same structure", "all fights are about the same thing", "the structure of every relationship fight"]
+tags: ["power", "conflict", "fear", "defense", "relational", "diagnostic", "core concept", "relationships"]
+related: ["fear-triangle", "empowered-vs-power", "defense", "binary-thinking-signals-fear", "anxiety-as-constricted-life-force", "acknowledge-the-fear-by-role", "relationships-as-personal-growth-path", "dont-try-to-change-your-partner"]
+sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
 ---
 
 # Power Dynamics: Two People Who Both Think They're Defending

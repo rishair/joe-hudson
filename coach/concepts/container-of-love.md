@@ -45,6 +45,26 @@ The container moves from being something appealed to in crisis to being somethin
 
 For clients without a religious frame, the same function can be served by community, by a coach holding space over time, by deep relationship with a partner or close friend, or by a felt sense of nature or the cosmos. The form is less important than the felt experience of being held.
 
+## Shame Dissolves Through Being Loved in the Action
+
+A specific application: shame dissolves in a loving witness. Because shame is the felt sense of disconnection (see [[shame-as-disconnection]]), the introduction of unconditional connection in the very moment of shame is the structural antidote. The shame is asking "am I still in?" The container answers "you're in." The shame loses its function and dissolves.
+
+This is the principle underneath AA and most group recovery work. Bringing shame into the light, in front of people who can witness without rejecting, is what allows the shame to discharge. The release does not require any new insight from the person; it requires the experience of being known and not abandoned.
+
+"That's what AA is built on. 12-step programs are built on that premise, right? Yeah, absolutely. A lot of group work is built on the premise of like, oh, if I bring my shame out into the light and let people see it, especially if those people still love me and can still accept me, then the shame can vanish." -- Joe Hudson, The Anatomy of Shame
+
+In group work specifically, the move is to construct conditions where the person can be loved in the very behavior or want they are ashamed of:
+
+"If you're having shame around the way that you eat, for instance, how do you create a situation where you're loved for your -- the way that you eat? How do you create a situation where you can be appreciated, where there's nothing that you have to hide, that you're not like sneaking into the corner and hiding?" -- Joe Hudson, The Anatomy of Shame
+
+The construction matters. Loving someone in the abstract while they continue to hide does not produce the dissolution. The person has to be seen in the specific thing the shame is wrapped around, and the seeing has to not produce rejection.
+
+In Joe's workshops, this often happens when someone names a small shame ("I feel ashamed for wanting pleasure," "I feel selfish for wanting attention") and the group is invited to respond: "Does anybody here have a problem with this person feeling pleasure? Who here wants this person to have a life that's full of pleasure?" The room consistently confirms the want. The shame the person has been carrying alone evaporates in the public confirmation.
+
+"It's like that perpetually. It's like if I asked a room full of people and said, hey, who here has a problem with Brett wanting to make his business really successful and going out there and really selling his business so that it can be successful as long as it's in alignment with who he is? Anybody opposed to that? Nobody would say that they were opposed to that, right?" -- Joe Hudson, The Anatomy of Shame
+
+For solo work without a group, the move can sometimes happen with one trusted person, or with the felt sense of being held by something larger (see Faith as Container below). But the relational dimension is structural to shame dissolution. Some shame work cannot be done alone, and trying to do it alone will not succeed not because the person lacks willpower but because the medicine is relational.
+
 ## What Happens Without It
 
 When someone enters deep trauma material without a loving container, the trauma can get stuck again. It will eventually move, but the process is neither skillful, gentle, nor efficient.
@@ -64,3 +84,5 @@ Joe specifically warns against unskilled practitioners who know exercises that c
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 - 2020-12-11_Integrating a Transformative Experience
+- 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-07-22_The Anatomy of Shame - Emotion Series #8

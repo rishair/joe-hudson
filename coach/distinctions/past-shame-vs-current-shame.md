@@ -4,7 +4,7 @@ id: past-shame-vs-current-shame
 title: "Past Shame vs. Current Shame"
 aliases: ["current shame vs past shame", "useful shame", "shame about the past", "self-brutalization", "shame that perpetuates patterns"]
 tags: ["shame", "vulnerability", "healing"]
-related: ["shame-drives-behavior", "vulnerability", "feeling-the-unfelt-emotion", "shame-as-disconnection", "the-shame-avoidance-loop"]
+related: ["shame-drives-behavior", "vulnerability", "feeling-the-unfelt-emotion", "shame-as-disconnection", "the-shame-avoidance-loop", "natural-shame-vs-installed-shame", "shame-stagnates-emotion"]
 sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
 ---
 

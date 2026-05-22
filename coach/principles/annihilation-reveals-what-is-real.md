@@ -37,6 +37,22 @@ This inversion is why advice like "be courageous" or "push through your fear" mi
 
 What is needed is not courage to override fear, but willingness to be annihilated. The willingness is what makes the fear movable.
 
+## The Wheelbarrow Falls Example
+
+The principle also operates in lived adversity, not only in deliberate fear-feeling work. Aaron Taylor's account, in conversation with Joe, of reconnecting with his absent father in adulthood:
+
+"It felt like I fell out of the wheelbarrow and part of me died. But what I learned in that moment, Joe, was that thank God, God didn't give me what I wanted because I would have been selling myself short." -- Aaron Taylor, Feel Your Way to Freedom
+
+Joe's response makes the connection explicit:
+
+"There are moments where I have done that. I've gotten in the wheelbarrow and then fallen and, you know, only to find out that the destruction that happens is a destruction of a part of myself that can be destroyed. Leaving me with the part of myself that can't be destroyed. Meaning, yeah, maybe it hurts, maybe it sucks, maybe it sucks for a good long while, but at the end of the day, I'm refined. [...] It's like there's a part of me that wasn't real that's lost." -- Joe Hudson, Feel Your Way to Freedom
+
+The structure: the person had an identity-extension that depended on a specific imagined outcome (the present father, the realized prayer, the wished-for rescue). The outcome did not come. The identity-extension that depended on it could not survive its non-arrival. What was destroyed in the destruction was specifically the part that could be destroyed. What was refined was the part that survived.
+
+This is the same arc as the fear version of the principle, applied to retrospective adversity. The adversity does what the fear-feeling does: it annihilates the identity-extension by making it impossible to continue holding. What remains is what was actually there underneath, often a more accurate self than the extension had been.
+
+For the broader retrospective principle that Aaron's wheelbarrow story is one instance of, see [[adversity-as-for-not-against]].
+
 ## The Daughters Example
 
 Joe describes his daughters' fear of being out of cell connection during a houseboat trip with no Wi-Fi:
@@ -136,3 +152,4 @@ See [[dont-confuse-embracing-fear-with-inviting-danger]] for the full anti-patte
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father

@@ -2,10 +2,10 @@
 type: example
 id: electric-fence-with-dog
 title: "The Electric Fence with the Dog"
-aliases: ["electric fence metaphor", "dog and the electric fence", "the invisible fence", "the dog won't cross", "freedom on the other side of the fence"]
-tags: ["metaphor", "avoidance", "conditioned avoidance", "trauma", "freedom"]
-related: ["embrace-intensity", "embrace-vs-brace", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "trauma-mapping", "kinked-emotions"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2"]
+aliases: ["electric fence metaphor", "dog and the electric fence", "the invisible fence", "the dog won't cross", "freedom on the other side of the fence", "the dog that runs through quickly", "running through the fence"]
+tags: ["metaphor", "avoidance", "conditioned avoidance", "trauma", "freedom", "shame", "addiction"]
+related: ["embrace-intensity", "embrace-vs-brace", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "trauma-mapping", "kinked-emotions", "shame-as-disconnection", "addiction-to-shame", "the-shame-avoidance-loop", "natural-shame-vs-installed-shame"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-07-22_The Anatomy of Shame - Emotion Series #8"]
 ---
 
 # The Electric Fence with the Dog
@@ -66,6 +66,22 @@ Joe responds warmly to Brett's introduction of this metaphor. It captures the st
 
 The metaphor also points at freedom directly. The other side of the fence is freedom. The work is what stands between the person and that freedom.
 
+## The Shame Application (And the Dog That Runs Through Quickly)
+
+The metaphor extends directly to socially-installed shame. Tribes install shame at the boundary the way owners install electric fences at the property line. The training functions identically: a few shocks at the boundary teach the child to stay inside, and the avoidance persists long after the original shocks are gone.
+
+"You have this -- you have a road that has cars on it and dogs get hit by cars... So you put a fence around it... And then you train the dog by having it approach the fence and it gets the shock collar. And every time it gets a shock collar, it's like unexpected and it recognizes that something, something is wrong and it goes into this like, uh, there's like a nervous system shutdown and then it just doesn't do that thing anymore... And maybe it's not feeling shame about going there, but it's the same kind of nervous system response where we develop these habits of, oh yeah, I'm not gonna go there, I'm not gonna do that, that's gonna get me rejected." -- Brett Kistler, The Anatomy of Shame
+
+The dark extension Joe adds: some dogs learn that if they run through the fence fast enough, the shock is brief and the freedom on the other side is worth it. Some people do the same thing with shame. They acknowledge the shame will come, accept the cost, and reach for the activity anyway. Over enough repetitions, the brief shock becomes part of the appeal. The dog has incorporated the shock into the route to freedom; the person has incorporated the shame into the appetite. See [[addiction-to-shame]].
+
+"There's dogs that learn that if they just go through that fence really quickly, it's worth it. So they just like run really quickly and that like it shocks them, but it only shocks them for like a little bit of a time because they're out of the zone because it only shocks you within the zone. And that happens with people too as far as shame." -- Joe Hudson, The Anatomy of Shame
+
+## When the Run-Through Becomes Catastrophic
+
+Brett extends the metaphor again: sometimes the dog runs through the fence and gets hit by a car. The dog has correctly identified that the fence is not the threat, but missed that the fence was protecting from a real threat on the other side. This is the case where someone is releasing installed shame around something that has actual harm in it -- see [[natural-shame-vs-installed-shame]] for the distinction. The fence is conditioning; the road is real. Both are true, and the dog has to learn the difference.
+
+Joe's answer: do not run through the fence. Turn the fence off instead. Investigate the shame thoroughly enough that it dissolves rather than getting bypassed. "I think running through the fence just starts wiring stuff together... I think it's just far better to turn off the fence, so to speak. Meaning that like really address the shame underneath it and really investigate it both emotionally and intellectually and watch it fall apart and then take your action." -- Joe Hudson, The Anatomy of Shame
+
 ## Upstream (What Leads Here)
 
 - When someone describes an avoidance pattern that has become unconscious -- "I just don't go there."
@@ -83,3 +99,4 @@ The metaphor also points at freedom directly. The other side of the fence is fre
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
+- 2022-07-22_The Anatomy of Shame - Emotion Series #8

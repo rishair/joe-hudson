@@ -2,10 +2,10 @@
 type: principle
 id: inherent-goodness
 title: "Inherent Goodness"
-aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it", "without the should I'd be lazy", "trust your own wants"]
+aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it", "without the should I'd be lazy", "trust your own wants", "letting go of shame reveals goodness", "shame requires the belief you are not inherently good"]
 tags: ["self-trust", "management", "parenting", "leadership", "shame", "foundational"]
-related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity", "wants-over-shoulds", "ill-become-lazy-without-shoulds", "the-want"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6"]
+related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity", "wants-over-shoulds", "ill-become-lazy-without-shoulds", "the-want", "if-i-were-inherently-good", "shame-as-disconnection", "natural-shame-vs-installed-shame", "dont-shame-kids-they-self-shame"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-07-22_The Anatomy of Shame - Emotion Series #8"]
 ---
 
 # Inherent Goodness
@@ -47,6 +47,30 @@ See [[ill-become-lazy-without-shoulds]] for the concern as it shows up in coachi
 Believing you are not inherently good is a form of [[shame-drives-behavior]]. The shame says: without control, I will be bad. This shame produces the management. The management produces the tension. The tension produces the behavior the person was trying to avoid. The cycle breaks when the person sees through the shame to the goodness underneath.
 
 When speaking to the wise part of someone, that is the part that shows up. When speaking to the helpless or broken part, that is what you get. See [[impartiality]].
+
+## Shame Requires the Disbelief in Inherent Goodness
+
+The inverse formulation is operationally useful. Shame can only run if the operating premise is that you are not inherently good. If you actually held the premise of inherent goodness, the shame's logic would dissolve: you cannot simultaneously hold "I am inherently good" and "this want makes me bad." One of the two has to give.
+
+"What happens in shame is that there has to be a belief system that you're not inherently good. And if you can get in touch with your inherent goodness... what's interesting is the idea that is, if I let go of my shame, I will be bad. But what's actually happening is when you let go of your shame, you get in touch with your inherent goodness." -- Joe Hudson, The Anatomy of Shame
+
+This means inherent-goodness work and shame work are the same work approached from different angles. Strengthening the felt belief in inherent goodness weakens the shame. Releasing shame strengthens the felt belief in inherent goodness. Either entry point leads to the same dissolution.
+
+## The Reframe Lens for Shamed Wants
+
+The principle becomes a coaching instrument in the form of a specific question: "If I thought I was inherently good, how would I interpret that want?" Wants that initially appear selfish, greedy, or wrong show different content when read through the goodness lens. The want for a billion dollars becomes a want for security, autonomy, and importance. The want for sex becomes a want for connection and pleasure. The reframe is not denial of the surface; it is reading what the surface was concealing.
+
+See [[if-i-were-inherently-good]] for the full question article. The question rests directly on this principle and is the moment-to-moment application of it.
+
+The safeguard: the reframe is for re-interpreting wants, not for overriding the body's signal that an action is wrong. If using "I'm inherently good" produces relaxation in the body, the reframe is working. If it produces tightness, the person is using it to suppress a natural-shame signal that should be heeded. See [[natural-shame-vs-installed-shame]].
+
+## The Parenting Evidence
+
+Joe's experience raising his daughters without shame or punishment provides empirical support for the principle. The children develop a moral compass on their own, around age 5-6, without needing imposed shame to install it. They self-shame when they violate their own values. They do not become amoral. The inherent goodness is observable, in his account, as a developmental fact rather than an aspiration.
+
+"My experience with my daughters is that the moral compass is in them. You know, I wouldn't say right from the start, but it starts developing around 5, 6 years old, and there's this natural desire to be good." -- Joe Hudson, The Anatomy of Shame
+
+See [[dont-shame-kids-they-self-shame]] for the full parenting principle, which is the practical corollary of inherent goodness applied to child-rearing.
 
 ## The Foundation of All Limiting Beliefs
 
@@ -98,3 +122,4 @@ Trusting your inherent goodness is what allows the flow state. Jim Carrey-level 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-07-22_The Anatomy of Shame - Emotion Series #8
