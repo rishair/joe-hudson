@@ -2,10 +2,10 @@
 type: principle
 id: listening-shapes-the-reality-that-comes-back
 title: "Listening Shapes the Reality That Comes Back to You (Quality of Listening Is the Lever)"
-aliases: ["listening shapes reality", "quality of listening shapes reality", "how you listen creates what you hear", "the listening creates the world", "listening shapes your reality", "your listening shapes what comes back", "listening as the lever", "how you listen is the lever", "listening shapes what people say", "people give different things to different listeners", "the listening shapes the data", "the world that arrives back to you depends on your listening", "listening as the most profound way to shift reality", "the back-channel of listening", "the quality of the listener back-channels into what is shared"]
+aliases: ["listening shapes reality", "quality of listening shapes reality", "how you listen creates what you hear", "the listening creates the world", "listening shapes your reality", "your listening shapes what comes back", "listening as the lever", "how you listen is the lever", "listening shapes what people say", "people give different things to different listeners", "the listening shapes the data", "the world that arrives back to you depends on your listening", "listening as the most profound way to shift reality", "the back-channel of listening", "the quality of the listener back-channels into what is shared", "your listening to yourself shapes how you are received", "self-listening shapes how others listen to you"]
 tags: ["listening", "receiving", "principle", "leadership", "reality", "communication", "feedback"]
-related: ["listening", "listen-as-the-wisest-person", "being-heard", "opposite-of-trying", "aristotle-project", "different-languages-of-love", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move"]
-sources: ["2024-03-29_Listening"]
+related: ["listening", "listen-as-the-wisest-person", "being-heard", "opposite-of-trying", "aristotle-project", "different-languages-of-love", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move", "you-cant-be-seen-when-youre-not-in-yourself", "listen-to-yourself-ten-percent-more", "abandoning-self-while-speaking"]
+sources: ["2024-03-29_Listening", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
 ---
 
 # Listening Shapes the Reality That Comes Back to You
@@ -69,6 +69,18 @@ The cost compounds. Over months and years of skeptical or distracted listening, 
 When someone is in a hard situation with a partner, employee, child, or team, and the strategy has been to find better words, a useful question is: how have you been listening? Often the better-words intervention has been masking the listening problem and producing only marginal change. Shifting the listening tends to open up things that no amount of language could have opened.
 
 When someone says "they never tell me anything," "they shut down on me," "they don't trust me," "I can't seem to reach them," the first lens to apply is the listening lens. Not "what should I say to them?" but "what is my listening doing to what they are willing to bring?"
+
+## The Speaker-Side Corollary
+
+The same principle runs from the other direction. The quality of *your listening to yourself while you are speaking* shapes how you are received by others. A speaker who is in themselves while talking is registered by the listener as alive, present, available. A speaker who has vacated themselves to monitor the listener is registered as managed, performed, pressured — and the listener pulls back without quite knowing why.
+
+This is the structural reason that [[say-the-same-sentence-five-ways]] produces five different listener responses to identical words. The variable is not the words. The variable is the speaker's relationship to their own listening while speaking. From inside themselves, the speaker is received. From outside themselves, the speaker is resisted.
+
+Joe states this directly in coaching when the speaker has been complaining of being misunderstood:
+
+"You can't fucking be seen or heard when you're not in yourself. How could I ever see you? You're not you. You're running away from yourself to manage me." -- Joe Hudson, How Do I Stop Being Misunderstood?
+
+The implication for the chronically misunderstood: the lever is not in the listener's ear, and the lever is not in the speaker's word-choice either. The lever is in the speaker's presence inside themselves while speaking. The listening you give *to yourself* shapes the reality of how you are received. See [[you-cant-be-seen-when-youre-not-in-yourself]] for the principle in full and [[listen-to-yourself-ten-percent-more]] for the practical move.
 
 ## What This Is Not
 

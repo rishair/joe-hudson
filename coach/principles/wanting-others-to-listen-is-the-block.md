@@ -2,10 +2,10 @@
 type: principle
 id: wanting-others-to-listen-is-the-block
 title: "If You Want Them to Listen, Start Listening Yourself (Wanting It Is the Block)"
-aliases: ["wanting others to listen is the block", "if you want them to listen start listening", "how do I get people to listen to me", "stop trying to get people to listen to you", "stop it stop it stop it", "you want people to listen become a great listener", "if you want them to listen to you listen better", "concerning yourself with how they listen stops you listening", "the more you try to get someone to listen the less they will", "trying to make people listen pushes them away", "what we really want is to listen to ourselves", "the listening you want is the listening you can give", "the listening problem is yours not theirs", "wanting to be listened to is the block to listening", "stop wanting people to listen"]
+aliases: ["wanting others to listen is the block", "if you want them to listen start listening", "how do I get people to listen to me", "stop trying to get people to listen to you", "stop it stop it stop it", "you want people to listen become a great listener", "if you want them to listen to you listen better", "concerning yourself with how they listen stops you listening", "the more you try to get someone to listen the less they will", "trying to make people listen pushes them away", "what we really want is to listen to ourselves", "the listening you want is the listening you can give", "the listening problem is yours not theirs", "wanting to be listened to is the block to listening", "stop wanting people to listen", "wanting to be understood is the block", "you want to be understood but the more you chase it the less it happens", "chasing being understood prevents being understood", "the more you chase being understood the more the listener backs away", "the understanding-chase loop"]
 tags: ["listening", "principle", "communication", "self-listening", "control", "management"]
-related: ["listening", "listening-shapes-the-reality-that-comes-back", "listen-as-the-wisest-person", "being-heard", "dont-try-to-change-your-partner", "what-we-fear-we-invite", "the-thing-you-want-becomes-the-thing-that-pushes-it-away"]
-sources: ["2024-03-29_Listening"]
+related: ["listening", "listening-shapes-the-reality-that-comes-back", "listen-as-the-wisest-person", "being-heard", "dont-try-to-change-your-partner", "what-we-fear-we-invite", "the-thing-you-want-becomes-the-thing-that-pushes-it-away", "you-cant-be-seen-when-youre-not-in-yourself", "i-keep-feeling-misunderstood", "chasing-understanding-as-control", "listen-to-yourself-ten-percent-more", "put-attention-in-inner-ear", "two-levels-of-hurt-in-being-misunderstood"]
+sources: ["2024-03-29_Listening", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
 ---
 
 # If You Want Them to Listen, Start Listening Yourself
@@ -46,6 +46,26 @@ Often the surface complaint "they don't listen to me" is a more specific buried 
 
 A person who has begun to listen to themselves stops outsourcing this need. The remaining wish for others to listen is less desperate, less demanding, less easily disappointed. It becomes a preference rather than a hunger. From that posture, paradoxically, it is more often met.
 
+## The Same Principle Inside Being Misunderstood
+
+The same algorithm runs when the complaint is "I keep being misunderstood." The variation does not matter — being-heard and being-understood are the same hunger with slightly different framing. The chasing produces the very absence it is trying to fill.
+
+"There's this weird thing. You want to be understood, but the more you chase it, the less it happens." -- Joe Hudson, How Do I Stop Being Misunderstood?
+
+What the listener experiences when the speaker chases understanding is identical to what the listener experiences when the speaker chases listening: a sense of being controlled. The body of the listener reads the install attempt and pulls back. The pulling-back registers in the speaker as further misunderstanding. The speaker pushes harder. The loop tightens.
+
+The speaker's own report of what happens when they are on the other side of such pushing is diagnostic. From the same session:
+
+- **Joe:** "And when someone controls you, how do you respond?"
+- **Savannah:** "Well, I hate that. ... I listen differently when someone's trying to control me. I listen in ways to figure out what they're actually trying to get rather than what is actually happening."
+- *(Source: 2024-04-12 How Do I Stop Being Misunderstood?)*
+
+The speaker can describe the listener's defensive response to being chased. They have done it themselves. They have never connected the description to what they are doing on the other side of the same dynamic. Naming the connection is part of the unwinding.
+
+The path out is the same as for the listening variant: stop chasing, return to self-listening. See [[listen-to-yourself-ten-percent-more]] and [[put-attention-in-inner-ear]] for the practical moves. See [[you-cant-be-seen-when-youre-not-in-yourself]] for the structural reason the chasing cannot succeed.
+
+The deeper wound underneath the chasing is often a second layer of hurt the speaker has not named: not just that they are not understood, but that the *goodness they are bringing* is not being recognized. See [[two-levels-of-hurt-in-being-misunderstood]].
+
 ## What This Looks Like in a Coaching Conversation
 
 Someone says: "My partner just doesn't listen to me. I've tried everything. I've told them. I've cried. I've gone to therapy. They still don't listen."
@@ -77,16 +97,22 @@ The frustration is fair. The principle is not that the other person's listening 
 ## Upstream (What Leads Here)
 
 - When someone says "they don't listen to me" about a partner, parent, child, employee, friend, or colleague.
+- When someone says "I keep feeling misunderstood" — the understanding variant of the same complaint. See [[i-keep-feeling-misunderstood]].
 - When someone is preparing a confrontation to force someone else to acknowledge their poor listening.
 - When [[listening]] has been introduced as a concept and the person flips it: "yes, but how do I get *them* to do that?"
 - When [[being-heard]] is the concern from the speaker side and is becoming a demand.
 - When someone has tried many strategies to be heard and is more frustrated than before.
+- When [[chasing-understanding-as-control]] or [[abandoning-self-while-speaking]] are the active reads in the room.
 
 ## Downstream (Where This Leads)
 
 - Toward [[listening]] as the actual capacity to develop.
 - Toward [[listen-as-the-wisest-person]] as the practice that demonstrates the lever directly.
+- Toward [[listen-to-yourself-ten-percent-more]] as the smallest viable in-conversation move toward self-listening.
+- Toward [[put-attention-in-inner-ear]] as an on-demand body-anchor.
 - Toward [[listening-shapes-the-reality-that-comes-back]] as the structural why.
+- Toward [[you-cant-be-seen-when-youre-not-in-yourself]] for the deeper principle this points at.
+- Toward [[two-levels-of-hurt-in-being-misunderstood]] when the wound has a giver-not-recognized layer.
 - Toward [[dont-try-to-change-your-partner]] for the broader case (this is a special case of that).
 - Toward [[what-we-fear-we-invite]] for the underlying mechanism.
 
@@ -97,3 +123,4 @@ Direct, almost playful. The "stop it stop it stop it" repetition is the tone mar
 ## Sources
 
 - 2024-03-29_Listening
+- 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the live coaching demonstration of the principle, the explicit naming of the chase-makes-it-worse loop in the misunderstanding variant, the diagnostic that the listener responds to chasing-for-understanding identically to chasing-for-listening)

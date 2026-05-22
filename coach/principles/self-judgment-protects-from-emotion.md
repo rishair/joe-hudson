@@ -4,8 +4,8 @@ id: self-judgment-protects-from-emotion
 title: "Self-Judgment Protects You From an Emotion Underneath It"
 aliases: ["judgment of self protects from emotion", "self-judgment as defense against feeling", "the judgment hides the emotion", "what the self-judgment is protecting you from", "when you judge yourself find the emotion underneath", "judgment as emotional shield", "the emotion under self-criticism", "judging yourself to avoid feeling", "self-criticism as emotion avoidance", "the function of self-judgment"]
 tags: ["self-judgment", "emotions", "voice in the head", "perfectionism", "avoidance", "felt experience", "expression"]
-related: ["three-signals-of-unfelt-emotion", "voice-in-the-head", "feeling-the-unfelt-emotion", "unfelt-emotion-leaks", "judgment-vs-discernment", "perfectionism", "dont-name-emotion-to-avoid-feeling", "feel-over-figure"]
-sources: ["2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Foll", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+related: ["three-signals-of-unfelt-emotion", "voice-in-the-head", "feeling-the-unfelt-emotion", "unfelt-emotion-leaks", "judgment-vs-discernment", "perfectionism", "dont-name-emotion-to-avoid-feeling", "feel-over-figure", "5-ways-to-stay-unhappy", "open-your-heart-while-judging-experiment", "comparative-mind"]
+sources: ["2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Foll", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-04-08_How NOT To Be Happy"]
 ---
 
 # Self-Judgment Protects You From an Emotion Underneath It
@@ -82,6 +82,14 @@ Defensiveness has a specific emotional signature underneath it: the feeling of b
 
 Shame operates similarly. The shame is the management form; the unfelt emotion is underneath. "Shame is one of the ways that we use to avoid emotions. And that shame disconnects us from ourselves, disconnects us from the people around us." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
 
+The most compressed form of this teaching, used as the mechanism behind the fifth of the [[5-ways-to-stay-unhappy]]:
+
+"To feel like you're better than other people, you have to judge them. And if you judge them, every single time we have that judgment, we're cutting off another feeling. So you can easily check in any time and say, 'Oh, I'm judging somebody. What is it that I would have to feel if I couldn't judge them?' And you have an emotional experience. So it's also an emotional repression." -- Joe Hudson, How NOT To Be Happy
+
+The check-in instruction is operational: when you catch yourself judging someone, ask "what would I have to feel if I couldn't judge them?" The judgment was doing the protection. Removing the protection makes the feeling available. The instruction is the same whether the judgment is directed at self or at other; the underlying mechanism is identical.
+
+This also unifies superiority and judgment as the same teaching. Superiority requires judgment (you cannot feel better than someone without judging them). Judgment cuts off feeling. Therefore superiority chronically cuts off feeling. The chronic emotional repression is one of the mechanisms by which thinking-you-are-better-than-others produces unhappiness. See [[open-your-heart-while-judging-experiment]] for the in-the-moment felt demonstration of the same mechanism at the level of the heart.
+
 The unified frame: when a person is disconnecting from themselves, what they are disconnecting from is the emotional experience that is currently arising. The form the disconnection takes (judgment of self, judgment of others, defensiveness, shame) varies by context and history. The mechanism is the same.
 
 "Most simply put, when we feel disconnected from ourselves, what we feel disconnected from is our emotional experience. That's the thing that we are running away from or avoiding." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
@@ -125,9 +133,12 @@ Direct, structural, not pitying. The judgment is being treated as functional rat
 - Toward [[unfelt-emotion-leaks]] as the broader phenomenon this is one form of.
 - Toward [[judgment-vs-discernment]] for the version of judgment that is not protecting against an emotion.
 - Toward [[perfectionism]] when the self-judgment has crystallized into a stable pattern.
+- Toward [[5-ways-to-stay-unhappy]] when the superiority-and-judgment loop is part of the broader unhappiness diagnostic.
+- Toward [[open-your-heart-while-judging-experiment]] when the felt-cost of judgment needs to be demonstrated in the body.
 
 ## Sources
 
 - 2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Followup Questions
 - 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the expanded framing that defensiveness and shame operate as sibling avoidances using the same protective mechanism; the unified diagnostic that disconnection from self is disconnection from current emotional experience)
+- 2024-04-08_How NOT To Be Happy (the compressed "every single time we have that judgment, we're cutting off another feeling" framing as the mechanism behind why thinking-you-are-better-than-others produces unhappiness; the operational check-in instruction "what is it that I would have to feel if I couldn't judge them?"; the unification of superiority and judgment as the same chronic-repression teaching)

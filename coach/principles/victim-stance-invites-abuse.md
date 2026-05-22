@@ -2,10 +2,10 @@
 type: principle
 id: victim-stance-invites-abuse
 title: "Victim Stance Invites Abuse"
-aliases: ["victim invites abuser", "the oppressed position attracts oppressors", "owning the victim role", "victims and abusers", "you attract what you embody"]
-tags: ["victim", "abuse", "stance", "fear-triangle", "principle"]
-related: ["fear-triangle", "empowered-vs-power", "what-we-fear-we-invite", "i-feel-trapped", "i-dont-have-time-for-this", "helplessness-is-the-gateway"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
+aliases: ["victim invites abuser", "the oppressed position attracts oppressors", "owning the victim role", "victims and abusers", "you attract what you embody", "you'll never find a community that rewards you for being yourself if you're a victim", "victim stance blocks community", "ISIS argument for community", "victim stance blocks finding your tribe"]
+tags: ["victim", "abuse", "stance", "fear-triangle", "principle", "community"]
+related: ["fear-triangle", "empowered-vs-power", "what-we-fear-we-invite", "i-feel-trapped", "i-dont-have-time-for-this", "helplessness-is-the-gateway", "5-ways-to-stay-unhappy", "i-dont-have-community"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2024-04-08_How NOT To Be Happy"]
 ---
 
 # Victim Stance Invites Abuse
@@ -32,6 +32,22 @@ The principle applies to anyone using "I cannot because of my situation" as an e
 - The person who blames their economic circumstances for their lack of growth attracts circumstances that confirm the lack.
 
 This is not blame. The person's situation may be genuinely difficult. The question is the stance toward the situation. Mandela was in a literal prison and did not occupy the victim stance. See [[mandela-empowerment]]. The Subway kid was in a low-wage job and did not occupy the victim stance. See [[subway-kid]]. Neither was denying the constraints. Both refused the position.
+
+## Victim Stance Blocks Finding the Community That Would Reward You
+
+A second mechanism, structurally distinct from the abuser-attraction mechanism: the victim stance blocks the person from finding any community in which being themselves would be rewarded.
+
+The setup: there is a community somewhere that would reward almost any way of being. The ISIS argument names the extreme version of this -- if even the most extreme niche identity finds thousands of people to be its match, the existence of a community-for-you is not in doubt. The argument is the same one used in [[there-is-no-the-one]] for romantic partnership and applies here to community.
+
+"If I can be an ISIS member and I can find a community that rewards me for that, and I can be an artist and I can find a community that rewards me for that, surely you must be able to be yourself and have a community that rewards you for that. But you'll never find it if you feel like you're a victim." -- Joe Hudson, How NOT To Be Happy
+
+The mechanism: the victim is operating on the prior assumption that being themselves will be punished. The assumption was installed in childhood -- "your mom and dad punished and rejected you as you were a kid, and you still believe that the world reacts that way." Attention is organized around the expectation of punishment. Communities that would actually reward the person are scanned for confirmation of punishment, not for evidence of welcome. The person finds the punishment they are scanning for, often by reading welcoming behavior as conditional or untrustworthy.
+
+The victim posture also produces the behavior that confirms the expectation. The person enters new communities defended, distant, slightly performing, slightly hidden. The community has nothing to reward, because what the person is offering is not them.
+
+The exit: drop the assumption. Not by argument but by experiment. Show up undefended somewhere. See what happens. The first community where being-yourself gets met with welcome is enough to begin loosening the prior. The work is slow because the prior has been doing its job for decades. But the exit exists.
+
+This mechanism is part of why victim stance is one of the [[5-ways-to-stay-unhappy]]. It is not just that the victim attracts abuse; it is that the victim cannot find the welcome that is available everywhere they are not looking. The chronic state of "the world rejects me when I am myself" is sustained by the very stance that prevents the contradicting evidence from being noticed.
 
 ## The Connection to Empowerment
 
@@ -68,6 +84,8 @@ The shift out:
 - Toward [[helplessness-is-the-gateway]]: the doorway out.
 - Toward [[what-we-fear-we-invite]]: the same principle in different language.
 - Toward [[mandela-empowerment]]: the demonstration that situation does not require victim stance.
+- Toward [[5-ways-to-stay-unhappy]]: this principle is the mechanism behind the first of the five.
+- Toward [[i-dont-have-community]]: when the victim-blocking-community mechanism is the operative one.
 
 ## Tone
 
@@ -77,3 +95,4 @@ Direct, almost provocative. Joe is willing to name this even though it is uncomf
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2024-04-08_How NOT To Be Happy (the second mechanism by which victim stance keeps a person isolated: the ISIS-of-community argument extending the structural many-matches argument from partnership to community; the "you'll never find a community that rewards you for being yourself if you feel like you're a victim" framing; the connection of victim stance to the childhood-imprinted assumption "the world will punish me if I am myself")

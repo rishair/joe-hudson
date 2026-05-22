@@ -4780,26 +4780,113 @@
       "claimed_at": "2026-05-22T15:16:17Z",
       "articles_created": [
         "speaking-authentically",
-        "the-butler-metaphor",
-        "faith-as-verb",
-        "avoidance-of-emotional-experience-closes-channels-of-life",
         "state-not-framework",
-        "channeling-vs-authorship",
         "chain-vs-tree-thinking-for-content",
         "joes-extemporaneous-vc-speech"
       ],
       "articles_updated": [
+        "the-butler-metaphor",
         "listening",
         "opposite-of-trying",
-        "what-we-fear-we-invite"
+        "faithing-faith-as-verb",
+        "what-we-fear-we-invite",
+        "the-emotional-experience-decides-the-channel",
+        "dont-claim-the-wisdom-as-yours"
       ],
       "type": "teaching",
       "absorbed_at": "2026-05-22T15:32:49Z"
     },
     {
       "folder": "2024-04-08_How NOT To Be Happy",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T15:33:49Z",
+      "articles_created": [
+        "5-ways-to-stay-unhappy",
+        "how-do-i-be-happy",
+        "four-hour-emotional-repression-experiment",
+        "open-your-heart-while-judging-experiment",
+        "gratitude-as-acknowledgment-of-greater-force"
+      ],
+      "articles_updated": [
+        "victim-stance-invites-abuse",
+        "self-judgment-protects-from-emotion",
+        "joy-as-matriarch"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T15:45:05Z"
+    },
+    {
+      "folder": "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T15:43:12Z",
+      "articles_created": [
+        "i-keep-feeling-misunderstood",
+        "chasing-understanding-as-control",
+        "abandoning-self-while-speaking",
+        "you-cant-be-seen-when-youre-not-in-yourself",
+        "listen-to-yourself-ten-percent-more",
+        "put-attention-in-inner-ear",
+        "say-the-same-sentence-five-ways",
+        "invert-the-responsibility-for-understanding",
+        "two-levels-of-hurt-in-being-misunderstood"
+      ],
+      "articles_updated": [
+        "wanting-others-to-listen-is-the-block",
+        "being-heard",
+        "listening"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T15:56:08Z"
+    },
+    {
+      "folder": "2024-04-12_How Do I Stop Being Misunderstood\uff1f (Coaching Session)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T15:57:45Z",
+      "articles_created": [
+        "have-them-receive-your-listening"
+      ],
+      "articles_updated": [
+        "self-abandonment-to-manage-the-other",
+        "listen-to-yourself-ten-percent-more",
+        "you-cant-be-seen-when-youre-not-in-yourself",
+        "i-keep-feeling-misunderstood"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T16:02:21Z"
+    },
+    {
+      "folder": "2024-04-12_How Do I Stop Being Misunderstood\uff1f (Coaching Session)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T15:46:20Z",
+      "articles_created": [
+        "ego-protection-as-need-to-be-understood",
+        "self-abandonment-to-manage-the-other",
+        "speak-from-listening",
+        "savannah-misunderstood-session"
+      ],
+      "articles_updated": [
+        "dont-make-listening-a-morality",
+        "state-not-framework",
+        "listening-shapes-the-reality-that-comes-back",
+        "chasing-understanding-as-control",
+        "abandoning-self-while-speaking",
+        "i-keep-feeling-misunderstood"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T16:08:00Z",
+      "note": "Third absorber working concurrently with two prior in-progress claims; added complementary articles and enrichments after the prior completions wrote the core articles."
+    },
+    {
+      "folder": "2024-04-15_Am I A Fake\uff1f",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T16:03:00Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2024-04-18_Imposter Syndrome \u2014 Are You Actually An Imposter\uff1f",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T16:06:13Z",
       "articles_created": [],
       "articles_updated": []
     }

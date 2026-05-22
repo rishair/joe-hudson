@@ -2,10 +2,10 @@
 type: concept
 id: being-heard
 title: "Being Heard"
-aliases: ["feeling heard", "I don't feel heard", "fully heard", "the need to be heard"]
+aliases: ["feeling heard", "I don't feel heard", "fully heard", "the need to be heard", "being understood", "feeling understood", "being seen as a giver"]
 tags: ["connection", "communication", "resistance", "teams", "productivity"]
-related: ["view", "empathy", "how-what-questions", "impartiality", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Introduction to VIEW"]
+related: ["view", "empathy", "how-what-questions", "impartiality", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move", "two-levels-of-hurt-in-being-misunderstood", "you-cant-be-seen-when-youre-not-in-yourself", "i-keep-feeling-misunderstood"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Introduction to VIEW", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
 ---
 
 # Being Heard
@@ -40,6 +40,14 @@ But there is a trap specific to the "not seen" frame. The person who is not lett
 
 The work in such cases is not to find someone who finally sees them. It is to let themselves be seen first. The receiving by the other is downstream of the showing by the self.
 
+Joe states the structural principle directly when the speaker has vacated their own body while complaining of not being seen: "You can't be seen or heard when you're not in yourself. How could I ever see you? You're not you. You're running away from yourself to manage me." See [[you-cant-be-seen-when-youre-not-in-yourself]] for the principle in full and [[i-keep-feeling-misunderstood]] for the concern this principle most often answers.
+
+## The Two-Layer Wound
+
+A diagnostic Joe makes for the deeper version of unheardness: there are usually two layers of hurt stacked on top of each other. The first is the obvious one — *I did not feel understood*. The second is rarely named — *the goodness I was bringing was not recognized*. The first is about content. The second is about the giver. See [[two-levels-of-hurt-in-being-misunderstood]] for the full teaching.
+
+The second-layer hurt explains why content-focused communication advice fails to relieve the wound. The person is not actually trying to solve a content problem. They are trying to repair a felt sense that what they are offering as a giver is being received as nothing. Naming the second layer in session usually produces immediate recognition.
+
 ## Upstream (What Leads Here)
 
 - When a team or relationship is stuck in repetitive conflict, check whether anyone feels heard.
@@ -58,3 +66,4 @@ The work in such cases is not to find someone who finally sees them. It is to le
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2022-10-26_Father Figures And Authority (Coaching Session)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the principle that you cannot be seen when you are not in yourself; the two-layer hurt of not being received as both content and giver)

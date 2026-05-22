@@ -5,7 +5,7 @@ title: "Listening"
 aliases: ["deep listening", "attuned listening", "listening as attunement", "listening as receiving", "listening as allowing", "the quality of listening", "the caliber of listening", "whole-body listening", "embodied listening", "listening with the body", "always listening", "you're always listening", "non-management listening", "listening simultaneously to self and other", "listening through filters", "what listening is", "listening fundamentals", "listening sushi rice", "speaking from listening", "channeling through listening", "listening is presence"]
 tags: ["listening", "receiving", "presence", "attunement", "core concept", "view", "connection", "communication"]
 related: ["view", "empathy", "vulnerability", "wonder", "impartiality", "opposite-of-trying", "staying-in-your-body", "listen-as-the-wisest-person", "head-heart-gut", "being-heard", "listening-to-impulse", "applied-self-awareness", "different-languages-of-love", "the-butler-metaphor", "faithing-faith-as-verb", "wait-for-someone-else-to-say-it", "cant-remember-what-i-said-in-flow", "dont-claim-the-wisdom-as-yours"]
-sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello"]
+sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
 ---
 
 # Listening
@@ -236,6 +236,24 @@ The mechanism is twofold. First, when you concern yourself with how people are l
 
 The deeper teaching: what we really want is to listen to ourselves. When that is in place, what other people do matters less. See [[wanting-others-to-listen-is-the-block]].
 
+The same teaching applies to "you cannot make other people understand you." See [[i-keep-feeling-misunderstood]] and [[chasing-understanding-as-control]].
+
+## The Inner-Ear Hack as the Simplest Self-Listening Instruction
+
+When the coachee is in the middle of a conversation where they are losing themselves, the smallest possible viable instruction is to put attention in the inner ear. Joe calls this a hack — not because it is a cheat but because it produces the felt shift on demand without requiring meditation, posture, or preparation.
+
+"If you want a hack, there's a simple hack, which is right now while we're sitting here, just put your attention in your inner ear. So all you have to do is put your attention in your inner ear. I'll talk and that's it. That's all you have to do. Super easy." -- Joe Hudson, How Do I Stop Being Misunderstood?
+
+The ear is in the body. Placing attention there places attention in the body. Combined with the percentage version of the same instruction ("listen to yourself 10% more"), the coach has two interchangeable doors into self-listening that can be deployed in real time during any conversation. See [[put-attention-in-inner-ear]] and [[listen-to-yourself-ten-percent-more]].
+
+## You Can't Be Seen When You're Not in Yourself
+
+A structural principle that follows from the listening teaching: the person who is not present in their own body while speaking cannot be received by the listener, no matter how skilled the listener. There is no *them* present for the listener to receive.
+
+"You can't fucking be seen or heard when you're not in yourself. How could I ever see you? You're not you. You're running away from yourself to manage me." -- Joe Hudson, How Do I Stop Being Misunderstood?
+
+This is why the practice of listening to yourself is not in tension with being heard by others. It is the precondition. See [[you-cant-be-seen-when-youre-not-in-yourself]].
+
 ## The Felt Sense of Listening Done This Way
 
 Spaciousness. Expansion. The forward edge of awareness opens. The body softens. Time slows a little. The conversation feels less like a transaction and more like an unfolding. Energy goes up rather than down — most conversations drain because most listening is a form of management, which is expensive. Listening-as-receiving is the opposite; it costs almost nothing.
@@ -258,6 +276,8 @@ After the conversation, the details may be hard to recall. Something deeper land
 
 - Toward [[listen-as-the-wisest-person]]: the two-day experiment that makes the listening lever felt directly.
 - Toward [[staying-in-your-body]]: the practice that anchors listening to oneself while listening to others.
+- Toward [[listen-to-yourself-ten-percent-more]]: the smallest viable in-conversation move toward self-listening.
+- Toward [[put-attention-in-inner-ear]]: an on-demand body-anchor for the same shift.
 - Toward [[view]]: the relational framework that is built on the listening capacity.
 - Toward [[empathy]] and [[wonder]] as components of VIEW.
 - Toward [[opposite-of-trying]]: the broader receiving frame.
@@ -265,6 +285,7 @@ After the conversation, the details may be hard to recall. Something deeper land
 - Toward [[head-heart-gut]]: choosing which intelligence is doing the listening.
 - Toward [[the-last-to-speak-move]] and other leadership applications.
 - Toward [[wanting-others-to-listen-is-the-block]] when the concern is "they don't listen to me."
+- Toward [[you-cant-be-seen-when-youre-not-in-yourself]] for the principle that grounds the self-listening teaching.
 - Toward [[dont-make-listening-a-morality]] when the practice has been turned into a rule.
 
 ## Tone
@@ -276,3 +297,4 @@ Plain, conversational, unhurried. The teaching is not delivered as a difficult i
 - 2024-03-29_Listening
 - 2024-04-05_Speaking Authentically With Tristan de Montebello (the asymmetry between say-side prep and listen-side prep in high-stakes meetings; the pause as the operational form of listening; the parallel between the coaching state and the speaking state; the listening that lets the butler show up)
 - 2024-04-06_Speaking Authentically with Tristan de Montebello
+- 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the inner-ear hack named explicitly as a hack; the principle that you cannot be seen when you are not in yourself; the live application of self-listening to dissolve a chasing-to-be-understood pattern)

@@ -2,10 +2,10 @@
 type: principle
 id: state-not-framework
 title: "Performance Is About State, Not Framework"
-aliases: ["state not framework", "state over framework", "state not technique", "performance is state", "speaking is about state", "coaching is about state", "what you are determines what gets done", "frameworks break states adapt", "the framework is the floor not the ceiling", "state-based performance", "the state-first principle", "speaking is state-based", "the state determines the output", "presence not technique", "state over technique"]
+aliases: ["state not framework", "state over framework", "state not technique", "performance is state", "speaking is about state", "coaching is about state", "what you are determines what gets done", "frameworks break states adapt", "the framework is the floor not the ceiling", "state-based performance", "the state-first principle", "speaking is state-based", "the state determines the output", "presence not technique", "state over technique", "same words different states get different responses", "state determines reception", "how you say it matters more than what you say"]
 tags: ["state", "framework", "technique", "presence", "flow", "performance", "speaking", "coaching"]
-related: ["speaking-authentically", "the-butler-metaphor", "opposite-of-trying", "listening", "chain-vs-tree-thinking-for-content", "presence-over-technique-in-coaching", "feeling-yourself-beats-going-to-plan", "improvement-vs-authenticity", "fuck-the-right-answer", "flow-vs-managing-reality"]
-sources: ["2024-04-06_Speaking Authentically with Tristan de Montebello"]
+related: ["speaking-authentically", "the-butler-metaphor", "opposite-of-trying", "listening", "chain-vs-tree-thinking-for-content", "presence-over-technique-in-coaching", "feeling-yourself-beats-going-to-plan", "improvement-vs-authenticity", "fuck-the-right-answer", "flow-vs-managing-reality", "say-the-same-sentence-five-ways", "you-cant-be-seen-when-youre-not-in-yourself", "speak-from-listening"]
+sources: ["2024-04-06_Speaking Authentically with Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
 ---
 
 # Performance Is About State, Not Framework
@@ -87,6 +87,25 @@ The state-teacher gives the coachee a relationship to themselves. The relationsh
 
 Joe's coaching is heavily state-focused. The frameworks (VIEW, the Matrix, the Golden Algorithm) are real and useful, but they are scaffolding for the development of state. The state — emotional fluidity, presence, listening, the relationship to oneself — is what the work is actually building. Once the state is in place, the frameworks have done their job.
 
+## The Live Demonstration: Same Words, Five States
+
+The cleanest live demonstration of this principle is the [[say-the-same-sentence-five-ways]] move. Have the speaker deliver the exact same sentence five times, each from a different state — armor, ego-protected, not protected, vulnerable, fully upright. The words are identical across all five deliveries. The listener's experience is dramatically different in each one.
+
+In Joe's coaching session with Savannah, the same sentence — "What can we do to make sure that we both feel heard in this situation?" — was delivered five different ways. Joe's feedback during the exercise is the demonstration of the principle's effect on reception:
+
+- After the armor version and the ego-protected version: "Both of those two make my skin want to crawl. I'm fucking out the door."
+- After the un-protected version: "There's just the desperation coming through."
+- After the vulnerable version: a softer reception, but still incomplete.
+- After the upright version: "I'm with you now."
+
+Same words. Five different reactions in the listener. The framework — what to say — was held constant. The state — what was present in the speaker — was the variable. The variable mattered more than the constant.
+
+The implication is uncomfortable for anyone who has been trying to solve a relationship through better phrasing: the phrasing is not the lever. The state from which the phrasing is delivered is the lever. A perfectly-chosen sentence delivered from armor lands like armor. An imperfect sentence delivered from upright lands like upright. The state wins every time.
+
+"You could probably map how much you're chasing for my understanding and how much I'm backing the fuck away." -- Joe Hudson, How Do I Stop Being Misunderstood?
+
+The state-based teaching is most easily transmitted not by argument but by this kind of demonstration. The speaker hears in their own delivery, through the coach's feedback, that what changed was not the words but the place the words came from. The recognition is in the body.
+
 ## The Anti-Pattern
 
 The opposite of this principle, and a common pitfall: treating the framework as the source. "If I just learn the right framework, I will be able to do X." This collapses the developmental work into a content-acquisition problem. The framework is consumed, the substrate is unchanged, the performance does not improve, and the consumer concludes they need more frameworks.
@@ -132,3 +151,4 @@ When Joe and Tristan talk about state vs. framework, both speak with a slight in
 ## Sources
 
 - 2024-04-06_Speaking Authentically with Tristan de Montebello
+- 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the live five-state demonstration via [[say-the-same-sentence-five-ways]], producing five different listener responses to identical words)

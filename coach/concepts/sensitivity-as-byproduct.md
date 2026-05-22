@@ -4,7 +4,7 @@ id: sensitivity-as-byproduct
 title: "Sensitivity to Self and Others as a Byproduct of Embracing"
 aliases: ["increased sensitivity", "sensitivity to others' emotions", "perception of others' states", "reading the room as byproduct", "feeling the energy in the room", "perceiving emotional states", "cultivated attention creates sensitivity", "the bass line example", "the ice words example", "the BASE jumper wind example", "looks like magic but is years of cultivation", "Malcolm Gladwell Blink intuition", "the firefighter intuition", "mantis shrimp 12 colors"]
 tags: ["sensitivity", "empathy", "perception", "relational", "byproduct", "attention"]
-related: ["embrace-intensity", "empathy", "feeling-the-unfelt-emotion", "emotional-fluidity", "decisions-are-emotional", "staying-in-your-body", "head-heart-gut"]
+related: ["embrace-intensity", "empathy", "feeling-the-unfelt-emotion", "emotional-fluidity", "decisions-are-emotional", "staying-in-your-body", "head-heart-gut", "you-dont-always-need-the-backstory"]
 sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Embracing Intensity", "2022-10-26_How Your Body Speaks", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 

@@ -4,7 +4,7 @@ id: speaking-authentically
 title: "Speaking Authentically as a Coaching Domain"
 aliases: ["speaking authentically", "public speaking as a coaching domain", "speaking as a domain", "Speaking from state not script", "speaking from state", "speaking from flow", "speaking from listening", "ultra speaking", "public speaking work", "communication training", "presentation work", "the speaking domain", "speaking coaching", "speaking from the subconscious", "communication as coaching", "the symptom is on the outside the root is on the inside", "Tristan de Montebello"]
 tags: ["speaking", "communication", "presentation", "performance", "state", "channeling", "application"]
-related: ["opposite-of-trying", "listening", "the-butler-metaphor", "channeling-vs-authorship", "state-not-framework", "chain-vs-tree-thinking-for-content", "joes-extemporaneous-vc-speech", "the-emotional-experience-decides-the-channel", "applied-self-awareness", "view", "improvement-vs-authenticity", "presence-over-technique-in-coaching", "faithing-faith-as-verb", "feeling-yourself-beats-going-to-plan", "the-emotional-experience-decides-the-channel", "cant-remember-what-i-said-in-flow", "wait-for-someone-else-to-say-it", "the-want-to-fit-in-vs-want-to-be-extraordinary", "you-dont-always-need-the-backstory", "dont-claim-the-wisdom-as-yours", "faithing-faithing-faith-as-verb"]
+related: ["opposite-of-trying", "listening", "the-butler-metaphor", "dont-claim-the-wisdom-as-yours", "state-not-framework", "chain-vs-tree-thinking-for-content", "joes-extemporaneous-vc-speech", "the-emotional-experience-decides-the-channel", "applied-self-awareness", "view", "improvement-vs-authenticity", "presence-over-technique-in-coaching", "faithing-faith-as-verb", "feeling-yourself-beats-going-to-plan", "the-emotional-experience-decides-the-channel", "cant-remember-what-i-said-in-flow", "wait-for-someone-else-to-say-it", "the-want-to-fit-in-vs-want-to-be-extraordinary", "you-dont-always-need-the-backstory", "dont-claim-the-wisdom-as-yours", "faithing-faith-as-verb"]
 sources: ["2024-04-06_Speaking Authentically with Tristan de Montebello"]
 ---
 
@@ -118,7 +118,7 @@ When the presenting concern is "I'm bad at speaking" or "I freeze when I have to
 
 6. **Listen while talking.** The advanced move. Speaking from inside the listening rather than alternating between listening and talking. See [[listening]] for the full development.
 
-7. **Let go of authorship.** The speaker is not generating the speech alone. The speech arrives through them. Treating the words as one's own personal product produces anxiety about the words. Treating them as channeled produces freedom. See [[channeling-vs-authorship]].
+7. **Let go of authorship.** The speaker is not generating the speech alone. The speech arrives through them. Treating the words as one's own personal product produces anxiety about the words. Treating them as channeled produces freedom. See [[dont-claim-the-wisdom-as-yours]].
 
 ## The Connection to the Larger Work
 
@@ -143,7 +143,7 @@ Joe's frame: "It's not just in speaking, it's in like so much of life is lost be
 - Toward [[state-not-framework]] as the principle that organizes the work
 - Toward [[chain-vs-tree-thinking-for-content]] as the practical reframe for preparation
 - Toward [[the-butler-metaphor]] for the subconscious-as-source frame
-- Toward [[channeling-vs-authorship]] for the relationship to one's own output
+- Toward [[dont-claim-the-wisdom-as-yours]] for the relationship to one's own output
 - Toward [[listening]] as the underlying practice
 - Toward [[opposite-of-trying]] for the receiving frame
 - Toward [[applied-self-awareness]] as the larger orientation

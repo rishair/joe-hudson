@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-make-listening-a-morality
 title: "Don't Make Listening a Rule, a Morality, or a To-Do"
-aliases: ["don't make listening a morality", "don't make listening a rule", "don't make listening a to-do", "listening as morality", "listening as discipline anti-pattern", "trying to listen better as the anti-listen", "the more you make it a rule the more it stops happening", "I should listen better anti-pattern", "now I'm going to be a good listener trap", "listening as the new performance", "should-ing listening", "listening as obligation kills listening", "when you have to do it it's the opposite of doing it", "the listening morality trap", "making receiving into a should"]
+aliases: ["don't make listening a morality", "don't make listening a rule", "don't make listening a to-do", "listening as morality", "listening as discipline anti-pattern", "trying to listen better as the anti-listen", "the more you make it a rule the more it stops happening", "I should listen better anti-pattern", "now I'm going to be a good listener trap", "listening as the new performance", "should-ing listening", "listening as obligation kills listening", "when you have to do it it's the opposite of doing it", "the listening morality trap", "making receiving into a should", "how do I listen better as the wrong question", "better is just a way to please", "the how-do-I-listen-better trap", "asking for a listening-improvement technique", "wanting to listen better is the same chase"]
 tags: ["anti-pattern", "listening", "morality", "should", "trying", "rules", "VIEW"]
-related: ["listening", "opposite-of-trying", "view-as-technique", "should-as-threat", "vulnerability-is-personal", "nothing-is-wrong-with-it-its-just-painful", "good-and-corruption-cycle", "dont-make-self-discovery-entertainment"]
-sources: ["2024-03-29_Listening"]
+related: ["listening", "opposite-of-trying", "view-as-technique", "should-as-threat", "vulnerability-is-personal", "nothing-is-wrong-with-it-its-just-painful", "good-and-corruption-cycle", "dont-make-self-discovery-entertainment", "listen-to-yourself-ten-percent-more", "put-attention-in-inner-ear", "wanting-others-to-listen-is-the-block"]
+sources: ["2024-03-29_Listening", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
 ---
 
 # Don't Make Listening a Rule, a Morality, or a To-Do
@@ -64,6 +64,22 @@ Each of these has the same internal mechanic: there is a meta-position evaluatin
 
 The presence of these phrases is data, not a problem. Notice them. Let them be there. Then drop the should and see what listening is available without it.
 
+## The Live Catch: "Better" Is a Way to Please
+
+A specific instance of this anti-pattern shows up in coaching when the coachee, having just experienced the felt difference of self-listening, immediately converts the practice into a should and asks for the improvement version. The conversion happens fast — within minutes of the recognition.
+
+In Joe's session with Savannah, the moment looked like this:
+
+- **Savannah:** "How do I listen to myself better?"
+- **Joe:** "Yeah, you've just changed it. Better is just a way to please. It's just like, maybe it's not even how do I listen to it, it's just like, oh, you know, I'm listening. Or how do I listen now?"
+- *(Source: 2024-04-12 How Do I Stop Being Misunderstood?)*
+
+The catch is precise. The word "better" smuggles the entire morality back in. *Better* implies a standard, which implies a measurement, which implies a meta-position, which implies the speaker has left themselves to evaluate their own listening. The very question contains the leaving.
+
+The recovery move is to drop the "better." The question becomes "how am I listening now?" or simply "I'm listening." The orientation shifts from improvement to presence. The practice becomes available again.
+
+This catch is one of the high-leverage moves a coach can make in real time. The coachee has just landed the work; if the morality is allowed to reinstall, the work will be undone within hours. Catching the word "better" — or any equivalent improvement-framing — preserves the gain. The catch can be gentle ("you've just changed it") but has to be made.
+
 ## Joe's Words
 
 "Watch out for that. Like, listen, listen, listen. If you listen to your body, if you listen to awareness, if you listen to listening, notice how it thinks about making a rule or making it a morality or making it something that you have to do." -- Joe Hudson, Listening
@@ -72,6 +88,8 @@ The presence of these phrases is data, not a problem. Notice them. Let them be t
 
 "I just want to put that warning out there for people. Somebody's going to listen and say, okay, now once I listen right, I'll be blah, blah, blah, blah. It's much more of a, like, oh, what a joy. What a joy it is to listen like this." -- Joe Hudson, Listening
 
+"Better is just a way to please. It's just like, maybe it's not even how do I listen to it, it's just like, oh, you know, I'm listening." -- Joe Hudson, How Do I Stop Being Misunderstood?
+
 ## Tone
 
 Joe issues this warning in the middle of the teaching, almost as an aside, but with clear emphasis. The bluntness — "watch out for that" — is the tone marker. He does not soften it; the softening would let the listener miss it. The follow-through, on the other hand, is warm: the alternative is the joy of the listening itself.
@@ -79,3 +97,4 @@ Joe issues this warning in the middle of the teaching, almost as an aside, but w
 ## Sources
 
 - 2024-03-29_Listening
+- 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the live catch of the "how do I listen better" conversion in real time, with Joe's specific intervention that "better is just a way to please")

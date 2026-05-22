@@ -4,7 +4,7 @@ id: own-your-narcissism
 title: "Own Your Narcissism (Or Recognize There's Nothing Special About You)"
 aliases: ["own your narcissism", "own the narcissism", "two paths to the same posture", "nothing special about you", "own your wanting to be special", "the narcissism behind teaching", "I am not better than anybody", "the special-but-not-special posture", "own the wanting to be heard", "own the wanting to be thanked", "I understand the power I hold and I am not better than anyone", "the both-and of authority and equality", "both-and of teacher narcissism", "not putting yourself above anyone"]
 tags: ["principle", "coaching", "facilitation", "teaching", "narcissism", "humility", "authority", "ego"]
-related: ["humility", "humility-vs-disempowerment", "spiritual-narcissism", "the-arrogantly-humble-paradox", "training-coaches-and-facilitators", "downward-spiral-between-teacher-and-students", "selfishness-is-the-engine-of-unity", "coaches-foundation-self-awareness", "feel-love-and-empowerment-as-the-same", "lead-and-follow", "definition-of-asshole"]
+related: ["humility", "humility-vs-disempowerment", "spiritual-narcissism", "the-arrogantly-humble-paradox", "training-coaches-and-facilitators", "downward-spiral-between-teacher-and-students", "selfishness-is-the-engine-of-unity", "coaches-foundation-self-awareness", "feel-love-and-empowerment-as-the-same", "lead-and-follow", "definition-of-asshole", "the-want-to-fit-in-vs-want-to-be-extraordinary", "dont-claim-the-wisdom-as-yours"]
 sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice"]
 ---
 
