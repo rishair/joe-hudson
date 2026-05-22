@@ -4,7 +4,7 @@ id: what-am-i
 title: "What am I?"
 aliases: ["what am I question", "the what am I inquiry", "what are you", "self-inquiry question", "non-dual question"]
 tags: ["self-realization", "non-dual", "inquiry", "wonder", "question"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
 ---
 
 # What am I?
@@ -54,6 +54,18 @@ The question does not get answered in words. It dissolves into recognition.
 - If the person tries to give a non-dual textbook answer ("I am consciousness," "I am everything"): Joe is unimpressed. The answer is the trap. The answer is more identity. Push past.
 - If something quiet lands: Joe stays with it. Silence is appropriate. The recognition does not need verbal confirmation.
 
+## Joe's Practice of the Question (Many Times a Day for Years)
+
+Joe practiced this question on himself for at least 5-6 years, asking some version of it 10 to 20 times a day. In a separate telling than the one above, the count is similar but the surrounding context is different:
+
+"It was like 6 or 7 years, you know, or 5 years, at least 6 years probably. And it was just like I would ask that question all the time. Like I was constantly, you know, and I was like settling my nervous system from this place of my- of I'm not safe, which is, you know, what I learned as a child." -- Joe Hudson, 8 Seconds of Oneness
+
+Two things to notice. First, the cadence: many times a day, every day, for years. The question is not asked once and held; it is returned to constantly. Second, the surrounding work: Joe was simultaneously settling the nervous-system imprint that he was not safe. The question alone, without the surrounding settling, would not have produced the same effect. The question and the nervous-system work were the same process.
+
+The eventual answer to the question landed in an ordinary moment -- in the bathroom of a meditation retreat, while peeing. The verbal form of the answer ("I'm that") was nonsensical, but the recognition was complete. See [[joes-bathroom-realization]] for the full telling.
+
+For coaching, this matters because the question is not a clever conversational instrument that produces results in a single session. It is a long practice that compounds over years, especially when paired with nervous-system work. When recommending the question as a practice, the time-horizon and pairing should be named.
+
 ## The Adyashanti Story
 
 Joe describes asking the question publicly to a teacher he respected.
@@ -89,3 +101,4 @@ The question is the depth instrument. Most coaching does not need it. When it is
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
 - 2022-10-26_Authenticity Over Improvement
+- 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (Joe's practice of the question many times a day for 5-7 years; the parallel nervous-system settling work; the eventual landing in the bathroom)

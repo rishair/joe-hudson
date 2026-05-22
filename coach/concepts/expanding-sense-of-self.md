@@ -2,10 +2,10 @@
 type: concept
 id: expanding-sense-of-self
 title: "Expanding Sense of Self"
-aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift", "the tenderization of identity over time", "identity softens toward the universal"]
+aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift", "the tenderization of identity over time", "identity softens toward the universal", "many ways to dissolve the self", "dissolution of self has many paths", "relational practice for dissolving self"]
 tags: ["development", "identity", "oneness", "collaboration"]
-related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts", "awakening-as-natural-development", "view", "joes-bathroom-realization"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
 ---
 
 # Expanding Sense of Self
@@ -64,6 +64,30 @@ This is why even the universal identifications eventually need their own softeni
 
 The mechanism that drives the expansion is the same as the mechanism that drives transparency: loving all the parts of self that have been excluded. Each part that is loved is no longer something the self has to defend against. The self that does not have to defend against itself becomes naturally larger. See [[loving-all-parts]].
 
+## Many Paths Loosen the Self
+
+Because the expansion is the natural movement of human development, anything that loosens identifications counts as a path. There is no single technique that the work requires. Meditation works because it weakens the sense of being just-this-body-just-this-mind. Emotional work works because held emotions create rigid identity. Working with the critical voice works because the voice is a major load-bearing structure of the self. Dropping roles works because roles are how the self constructs itself in the social world. Group work works because the boundary between self and other is one of the largest identifications available.
+
+"So yeah, I think there's just a dissolution of self, and there's lots of ways to dissolve the self." -- Joe Hudson, 8 Seconds of Oneness
+
+This is why Joe's work, which does not look like a spiritual practice on the surface, reliably produces the expansion described here. The tools in the work each target some load-bearing structure of identity. The cumulative effect is the same as the explicit dissolution practices, often arriving more integrated because the work was done in the context of an actual life rather than on a meditation cushion.
+
+"The tools are all very subtly pointing to a dissolution of self." -- Joe Hudson, 8 Seconds of Oneness
+
+Specific examples Joe cites from his own curriculum: the Connection Course working with the critical voice in the head opens the inquiry "who's the voice talking to?" -- which is a self-inquiry by another name. The roles workshop asks: if you drop your roles, what is left? The communication framework called [[view]] is reported by many practitioners as feeling like meditation in a conversation; the relational form is itself a self-dissolution practice. None of these are taught as "awakening practice," and many people go through them without knowing the territory they are also opening into. See [[awakening-as-natural-development]].
+
+## VIEW as Relational Meditation
+
+A consequence of the many-paths principle: the work can be done in places people are actually living. Joe is explicit that most people today are not farmers sitting quietly in fields. They are in relationships, meetings, marriages, businesses. The work has to meet them where they are.
+
+"Our stuff is very relational because you're gonna like- you can't fool yourself when you're in a relationship like that. You, you can't, or it's a lot harder. Or in business or in a marriage, it's easy to do it when you're just sitting there by yourself on a pillow. And so our stuff is that, and it's also where humanity is today." -- Joe Hudson, 8 Seconds of Oneness
+
+The "can't fool yourself in a relationship" point is structural. Sitting on a pillow alone, the self can construct an experience of dissolution that does not survive contact with another person. The relational form of the practice tests the dissolution at the place it actually matters. If the self has loosened enough that the relationship works without defending, the dissolution is real. If the self firms up the moment another person enters, the dissolution was self-constructed.
+
+"Endless people have told me that VIEW... when they're in that with somebody, they feel like they're meditating in a conversation." -- Joe Hudson, 8 Seconds of Oneness
+
+The expansion that meditation produces by isolating the practitioner from the testing ground, VIEW produces inside the testing ground. Both work. The relational form tends to integrate more easily into ordinary life because it was developed there. See [[view]].
+
 ## Collaboration and Stages
 
 The level of the sense of self affects collaboration capacity. At some stages, people fall into false consensus (everyone's voice is equal, all decisions by committee). Joe references a 1940s/1950s CIA manual on destroying organizations: delegate all decisions to committees of more than 6. This is what dysfunctional organizations do naturally.
@@ -91,3 +115,4 @@ Eventually, collaboration becomes natural because [[selfishness-is-the-engine-of
 - 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of the 2021-01-20 episode)
 - 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
+- 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (the many-paths principle: lots of ways to dissolve the self; the relational form of the practice and why "you can't fool yourself" in a relationship; the report that VIEW feels like meditating in a conversation; the implicit teaching method woven through all of Joe's work)

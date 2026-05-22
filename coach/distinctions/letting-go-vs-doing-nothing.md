@@ -2,10 +2,10 @@
 type: distinction
 id: letting-go-vs-doing-nothing
 title: "Letting Go vs. Doing Nothing"
-aliases: ["surrender vs doing nothing", "letting go is not passivity", "non-management vs inactivity", "letting go definition", "what surrender means", "doing nothing is impossible", "letting go is non-management of experience"]
+aliases: ["surrender vs doing nothing", "letting go is not passivity", "non-management vs inactivity", "letting go definition", "what surrender means", "doing nothing is impossible", "letting go is non-management of experience", "letting go is seeing the pain of holding on", "letting go happens when the mind is ready"]
 tags: ["distinction", "surrender", "letting-go", "management", "passivity", "action"]
-related: ["enjoy-over-manage", "making-vs-allowing", "trying-vs-doing", "flow-vs-managing-reality", "undoing-not-doing", "enjoyment-as-surrender", "impartiality", "listening-to-impulse"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
+related: ["enjoy-over-manage", "making-vs-allowing", "trying-vs-doing", "flow-vs-managing-reality", "undoing-not-doing", "enjoyment-as-surrender", "impartiality", "listening-to-impulse", "opposite-of-trying"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2023-04-14_The Opposite of Trying"]
 ---
 
 # Letting Go vs. Doing Nothing
@@ -68,6 +68,20 @@ Letting go is not the same as ignoring information. The senses still receive. Th
 
 Letting go is also not the same as accepting harmful situations passively. A person in non-management who registers harm acts on it. The action arises from the registering, not from a managed deliberation about whether the harm is acceptable. See [[boundaries]] for how non-management expresses as action when action is called for.
 
+## How Letting Go Actually Happens
+
+A specific operational note: letting go does not happen by instruction to oneself to let go. The instruction "let go," treated as something to try, produces gripping that is disguised as release. The actual letting-go has a different mechanism.
+
+"Letting go doesn't happen by telling yourself to let go. It happens by clearly seeing the pain of holding on. And from here, the mind lets go when it's ready." -- Joe Hudson, The Opposite of Trying
+
+The mechanism: see the cost of the holding. The seeing is the receiving move. From there, the release happens on its own.
+
+"How do you drop a hot frying pan? You feel it. That's all you have to do is just feel it and you're gonna let go." -- Joe Hudson, The Opposite of Trying
+
+The intervention is not on the holding. The intervention is on the awareness of what the holding is doing. With clear awareness, the release is automatic — the same way the hand drops the hot frying pan. The work is in the seeing, not in the dropping.
+
+This refines the distinction at its edge. Doing nothing produces no seeing and no release. Letting go is sometimes mistaken for doing nothing because it does not involve effort in the producing sense. But it involves a precise non-effortful activity: clear seeing of what the holding costs. That seeing is the only "doing" that releases the holding.
+
 ## When Someone Experiences This
 
 - They feel suddenly peaceful and worry that the peace means they have stopped trying
@@ -99,3 +113,4 @@ Plain, clarifying. The distinction is delivered as a small correction, not a maj
 ## Sources
 
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching
+- 2023-04-14_The Opposite of Trying (the mechanism of how letting go actually happens: clearly seeing the pain of holding on, after which the mind lets go on its own)

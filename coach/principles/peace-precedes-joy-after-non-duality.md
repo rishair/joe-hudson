@@ -2,10 +2,10 @@
 type: principle
 id: peace-precedes-joy-after-non-duality
 title: "Peace Precedes Joy After Non-Duality (Sometimes for a Decade)"
-aliases: ["peace before joy", "joy comes after peace", "the 10 year peace phase", "peace is not the end", "non-duality is not the end", "evolution doesn't stop at non-duality", "people stuck in peace", "from peace to joy after awakening", "the post-non-duality joy phase"]
+aliases: ["peace before joy", "joy comes after peace", "the 10 year peace phase", "peace is not the end", "non-duality is not the end", "evolution doesn't stop at non-duality", "people stuck in peace", "from peace to joy after awakening", "the post-non-duality joy phase", "awakening becomes background", "awakening is like hair color eventually"]
 tags: ["non-duality", "joy", "peace", "development", "stages", "self-realization"]
-related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive", "peace-is-what-we-resist-the-most", "craving-is-the-pushing-away"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
+related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive", "peace-is-what-we-resist-the-most", "craving-is-the-pushing-away", "awakening-as-natural-development", "joes-bathroom-realization", "dont-identify-as-awakened"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
 ---
 
 # Peace Precedes Joy After Non-Duality (Sometimes for a Decade)
@@ -54,6 +54,22 @@ The framing Joe offers: the listlessness is the experience of looking at the par
 
 "Their listlessness or the lack of passion is when they're looking at the parts of themselves that no longer want to exist. And, and then when they find the parts of themselves that are ready to emerge and evolve, that the passion is always right there. But obviously, the longer they stay in that fear, the the harder it is to find the thing that does move them now." -- Joe Hudson, Sam Altman
 
+## The Phase After Joy: Background
+
+The arc does not stop at joy either. After the joy has been inhabited for a while, the recognition can move into a phase where it becomes background -- present, real, not noticed most of the time, and not load-bearing for the person's life.
+
+Joe describes the endpoint of his own arc this way:
+
+"Now it's like background. I don't even notice. But if I end up- if I'm ever asked, I could- there's no place, there's no time when I don't feel like I'm part of that. That's the way I would describe it." -- Joe Hudson, 8 Seconds of Oneness
+
+And the framing he gives for what the recognition becomes over decades:
+
+"The whole idea of awakening or all of it just became very unimportant to me. Like, it's so- it's like hair color, you know?" -- Joe Hudson, 8 Seconds of Oneness
+
+This is a further developmental phase that completes the arc described above. The peace phase makes the joy phase possible. The joy phase eventually makes the background phase possible. In the background phase, the recognition is not denied, not abandoned, simply not the thing the person is organized around. It is real and present and not where the attention goes.
+
+For the coaching brain, this matters because students sometimes worry that they are losing the recognition as it stops being a vivid object of attention. The losing-it interpretation is often wrong. The recognition is becoming background, which is what it does after enough time and after enough other parts of life have become alive enough to hold attention. See [[awakening-as-natural-development]] for the principle this background-phase points at.
+
 ## The Coaching Move
 
 When someone arrives describing post-awakening flatness, do not treat it as a problem to fix or a sign that something went wrong. Treat it as a developmental phase that has a next stage built into it. The work is to make the transition into joy easier, not to retrieve the old self.
@@ -96,3 +112,4 @@ Joe delivers this conversationally, almost casually. He does not make a big deal
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
+- 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (the phase after the joy: awakening becoming background, like hair color; Joe's own arc through peace, joy-via-emotional-work, and eventually ordinary integration where the recognition is present and unimportant)

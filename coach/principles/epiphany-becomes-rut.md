@@ -2,10 +2,10 @@
 type: principle
 id: epiphany-becomes-rut
 title: "Every Epiphany Is the Innocent Beginning of a Rut"
-aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent", "I made it then the slump", "the pinnacle is the trap", "the I'm finished trap", "every identity epiphany becomes the next identity rut"]
+aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent", "I made it then the slump", "the pinnacle is the trap", "the I'm finished trap", "every identity epiphany becomes the next identity rut", "every epiphany is your future rut", "even the awakening epiphany becomes a rut"]
 tags: ["transformation", "epiphany", "iteration", "stages", "development", "pinnacle"]
-related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection", "improvement-mindset-vs-maintenance-mindset", "cricket-player-up-and-down", "identity", "every-identity-has-limits", "transparent-identity-vs-rigid"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Feel Over Figure", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
+related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection", "improvement-mindset-vs-maintenance-mindset", "cricket-player-up-and-down", "identity", "every-identity-has-limits", "transparent-identity-vs-rigid", "dont-identify-as-awakened", "awakening-as-natural-development", "joes-bathroom-realization"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Feel Over Figure", "2022-10-26_The Self-Discovery Of A Navy SEAL", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
 ---
 
 # Every Epiphany Is the Innocent Beginning of a Rut
@@ -74,6 +74,20 @@ The same applies to spiritual epiphanies. The person who realizes they have been
 
 The pattern is structural. Each level of seeing produces a new platform of seeing-from, which produces a new perspective that itself eventually needs to be seen through. There is no terminal identity. Iteration is the permanent condition.
 
+## The Awakening Version: The Most Consequential Form
+
+The principle holds even at the level of awakening or self-realization, which is often treated as the one epiphany that escapes the pattern. It does not.
+
+"Every epiphany is your- is a future rut." -- Joe Hudson, 8 Seconds of Oneness
+
+Joe says this directly in the context of discussing post-awakening experience. The recognition that what one is is the same as the silent vastness in which everything arises is an epiphany. Built on top of that recognition, the typical next move is to identify as the one who has had the recognition. That identity becomes the next rut, and a deep one.
+
+"I've seen people get stuck for 10 years thinking that they're at an end and they're just- they're just another form of avoidance and self-definition." -- Joe Hudson, 8 Seconds of Oneness
+
+The protection against this version of the trap is to receive the recognition with the no-finish-line clause built in. When Joe's own recognition landed in the bathroom (see [[joes-bathroom-realization]]), the thought "I'm that" was immediately followed by the thought "the evolution never ends." The second thought is what kept the first thought from becoming a ten-year cage. See [[awakening-as-natural-development]] and [[dont-identify-as-awakened]] for the principle and anti-pattern that fall out of this version.
+
+The general lesson: the more profound the epiphany, the more profound the corresponding rut if the epiphany is held as an end rather than a movement. The deepest recognitions produce the deepest stagnations when they get treated as arrivals.
+
 ## Why People Resist This
 
 Holding an epiphany loosely requires comfort with helplessness. If the current structure is going to dissolve, the person has to be okay not knowing what comes next. See [[helplessness-is-the-gateway]]. People who cannot bear helplessness grip their epiphanies until they become cages.
@@ -109,3 +123,4 @@ Matter-of-fact, even celebratory. "We need a new iteration. That's it." Not anxi
 - 2022-09-16_Seeing Identity for What It Is
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_The Self-Discovery Of A Navy SEAL (rebroadcast/republished version of the Will Chesney interview)
+- 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (the principle stated directly: "Every epiphany is your future rut"; the application to the awakening epiphany specifically; the no-finish-line clause as the protection against the deepest version of the trap)

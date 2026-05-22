@@ -3497,8 +3497,68 @@
     },
     {
       "folder": "2023-03-31_8 Seconds of Oneness \u2014 Joe Hudson\u2019s Story (Part II)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T08:34:20Z",
+      "articles_created": [
+        "joes-bathroom-realization",
+        "dont-identify-as-awakened",
+        "awakening-as-natural-development"
+      ],
+      "articles_updated": [
+        "joes-first-meditation-retreat",
+        "state-seeking",
+        "epiphany-becomes-rut",
+        "peace-precedes-joy-after-non-duality",
+        "expanding-sense-of-self",
+        "self-realization",
+        "view",
+        "stories-are-developmental-scaffolding",
+        "case-the-consultant",
+        "what-am-i"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T08:48:31Z"
+    },
+    {
+      "folder": "2023-04-11_Master Class - What is Holding You Back\uff1f",
+      "status": "complete",
+      "claimed_at": "2026-05-22T08:49:39Z",
+      "articles_created": [],
+      "articles_updated": [
+        "shame-drives-behavior",
+        "i-should-be-doing-this",
+        "ill-become-lazy-without-shoulds",
+        "seven-limiting-beliefs"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T08:52:56Z"
+    },
+    {
+      "folder": "2023-04-14_The Opposite of Trying",
+      "status": "complete",
+      "claimed_at": "2026-05-22T08:53:36Z",
+      "articles_created": [
+        "opposite-of-trying",
+        "allowing-creates-resilience",
+        "listen-as-the-wisest-person"
+      ],
+      "articles_updated": [
+        "hands-together-exercise",
+        "trying-vs-doing",
+        "undoing-not-doing",
+        "peace-is-what-we-resist-the-most",
+        "letting-go-vs-doing-nothing",
+        "joy-as-matriarch",
+        "embracing-vs-creating-intensity",
+        "butchers-blade"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T09:05:24Z"
+    },
+    {
+      "folder": "2023-04-28_How Love Gets Confused",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T09:06:10Z",
       "articles_created": [],
       "articles_updated": []
     }

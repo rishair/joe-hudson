@@ -2,10 +2,10 @@
 type: concept
 id: undoing-not-doing
 title: "Undoing, Not Doing"
-aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated", "I did something I need to keep", "doing vs undoing"]
+aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated", "I did something I need to keep", "doing vs undoing", "undoing as receiving", "the undoing is the receive"]
 tags: ["transformation", "undoing", "method", "release", "concept"]
-related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love", "quit-hope-lose-cycle", "no-finish-line", "joes-woods-fast-stopped-fighting", "layered-resistance"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment"]
+related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love", "quit-hope-lose-cycle", "no-finish-line", "joes-woods-fast-stopped-fighting", "layered-resistance", "opposite-of-trying", "letting-go-vs-doing-nothing"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying"]
 ---
 
 # Undoing, Not Doing
@@ -78,6 +78,16 @@ The practical questions shift from "what do I need to add?" to "what am I doing 
 
 The work is always available because there is always conditioning to release. There is no end state to arrive at. The undoing continues.
 
+## The Undoing as Receiving
+
+The undoing is not just the absence of trying. It is a specific positive state with names: receiving, allowing, listening, being a channel. When the trying releases, what is revealed is not a void. It is a state of reception that was being obscured by the trying.
+
+"The opposite of trying, the whole system relaxes. And you could call it maybe allowing or receiving or listening." -- Joe Hudson, The Opposite of Trying
+
+This matters because the undoing can otherwise be misread as a project of subtraction. "Stop trying" sounds like an absence. The actual experience is presence: the system that was loading now releases, and what remains is an active receiving mode. The receiving mode is the [[opposite-of-trying]] as its own concept. The undoing frame describes what gets removed. The receiving frame describes what becomes available once it is gone.
+
+For a practitioner who has understood the undoing intellectually but cannot find the felt sense, the receiving language often opens the door. "What does it feel like to receive what is here?" lands differently than "what would it feel like to stop trying?" The first invites the system into the state. The second invites the system to try to stop trying, which is another loop. See [[trying-prevents-the-feeling]] for the recursive trap and [[opposite-of-trying]] for the developed positive form.
+
 ## What Does Not Need to Be Kept
 
 A consequence of the undoing frame: there is nothing to keep. A state arrived at through doing must be maintained. A state arrived at through undoing was already there. The maintenance question never applies.
@@ -124,3 +134,4 @@ Quiet, almost casual. Joe presents this as obvious once seen. Not a heroic refra
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
 - 2022-10-26_Embarking On The Journey
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2023-04-14_The Opposite of Trying (the undoing as a positive receiving/allowing/listening state, not merely an absence of trying)

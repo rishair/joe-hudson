@@ -2,10 +2,10 @@
 type: example
 id: butchers-blade
 title: "The Butcher's Blade"
-aliases: ["the butcher and the prince", "blade finds the space", "I never sharpen my knives", "Zhuangzi butcher", "the master butcher"]
+aliases: ["the butcher and the prince", "blade finds the space", "I never sharpen my knives", "Zhuangzi butcher", "the master butcher", "the butcher who waits for resistance to come undone", "the butcher who sits with resistance"]
 tags: ["example", "mastery", "ease", "efficiency", "Taoist"]
-related: ["efficiency-as-enjoyment", "art-of-accomplishment", "enjoy-over-manage", "listening-to-impulse"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
+related: ["efficiency-as-enjoyment", "art-of-accomplishment", "enjoy-over-manage", "listening-to-impulse", "opposite-of-trying", "undoing-not-doing"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying"]
 ---
 
 # The Butcher's Blade
@@ -48,6 +48,16 @@ The story is from the Zhuangzi, a foundational Taoist text. In the original, Coo
 
 The Taoist frame matters. The butcher is not employing technique. He is in alignment with the way things are. The blade is an extension of the alignment, not an instrument for forcing through resistance.
 
+## What the Butcher Does When the Blade Hits Resistance
+
+A specific detail in Joe's later retellings: the butcher describes what he does when his blade actually does meet resistance. He does not push. He does not force. He sits and waits, and the resistance comes undone on its own.
+
+"My knife finds the space between the bone and the meat. And if there's ever an issue, if there's ever a place where it doesn't move through with ease, I just sit there and wait and it eventually just comes undone." -- Joe Hudson, paraphrasing Chuang Tzu, The Opposite of Trying
+
+This refines the example. The butcher is not just skilled at finding the path of least resistance. The butcher is also skilled at responding to resistance — and the response is to receive rather than to push. The waiting is not passivity. It is the [[opposite-of-trying]] applied at the moment of friction. The path opens because the butcher does not force against it.
+
+The generalization for any work: when you encounter resistance, the master move is often to stop, sit with what is there, and let the resistance come undone. The novice's instinct is to push harder. The butcher's instinct is to wait. The wait costs less and works more reliably.
+
 ## The Broader Application
 
 The principle generalizes. The master writer finds the space between thought and word. The master leader finds the space between the team's resistance and their wanting. The master coach finds the space between the client's defense and their truth. In each case, mastery looks like effortless precision because the master has learned to read the material so completely that force is unnecessary.
@@ -58,3 +68,4 @@ The novice in any domain mistakes force for effectiveness. The master in any dom
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2023-04-14_The Opposite of Trying (the addition of what the butcher does when he hits resistance: sit and wait until it comes undone; the butcher as exemplar of the receiving/allowing response to friction)

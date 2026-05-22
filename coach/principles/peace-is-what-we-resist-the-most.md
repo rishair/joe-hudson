@@ -2,9 +2,9 @@
 type: principle
 id: peace-is-what-we-resist-the-most
 title: "Peace Is What We Resist the Most (The Abyss Turns Out to Be Peace)"
-aliases: ["peace is what we resist", "we resist peace more than fear", "the abyss is peace", "what we're avoiding is peace", "the feared territory is peace", "resistance to peace", "we push away peace", "peace as the scary thing", "the spiral abyss becomes peace", "what we're running from is peace", "peace as the avoided experience"]
+aliases: ["peace is what we resist", "we resist peace more than fear", "the abyss is peace", "what we're avoiding is peace", "the feared territory is peace", "resistance to peace", "we push away peace", "peace as the scary thing", "the spiral abyss becomes peace", "what we're running from is peace", "peace as the avoided experience", "in a war with yourself you always lose", "the war with yourself loses", "peace cannot be forced", "peace cannot be tried into being"]
 tags: ["peace", "resistance", "abyss", "fear", "non-duality", "craving", "non-resistance"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2023-04-14_The Opposite of Trying"]
 ---
 
 # Peace Is What We Resist the Most
@@ -86,6 +86,18 @@ This principle is not the claim that all suffering is illusory. Real fear is rea
 
 The discrimination matters because some people will hear this principle and try to use it to dismiss their actual emotional life. "What I'm feeling is just resistance to peace." That's a misuse. The principle is about the catastrophic fantasy of internal annihilation, not about lived feelings.
 
+## Peace Cannot Be Forced (The War With Yourself Always Loses)
+
+The corollary that follows from the principle: peace cannot be reached through trying. Forcing yourself to eat the right foods, exercise the right amount, meditate enough — none of this produces peace. People often spend decades doing exactly that and remain peace-less.
+
+The mechanism is the same as the resistance one. The forcing is itself a war with self. The system being forced is in conflict with the system doing the forcing. There is no available outcome in that configuration where peace arrives.
+
+"The best way I've ever heard anybody talk about peace is: in a war with yourself, you always lose. So it's really about dropping the war, and that's an undoing, it's not a doing. Trying to force yourself to do something doesn't create peace." -- Joe Hudson, The Opposite of Trying
+
+Peace also is not reached through avoiding conflict. Avoiding conflict in the world creates a war inside yourself. The peace one is seeking by avoidance is exactly the peace one is destroying by the act of avoiding. The teaching is consistent: peace is allowed, not produced. It is received, not constructed. See [[opposite-of-trying]] for the broader frame in which peace is one of the things that responds to receiving rather than to trying.
+
+"Any moment that you've had in peace, it's been received. It hasn't been something that you have forced yourself into or tried to get into." -- Joe Hudson, The Opposite of Trying
+
 ## When Someone Experiences This
 
 - They describe a fear of "losing themselves" if they really feel something
@@ -118,3 +130,4 @@ Quiet, deliberate, almost gentle. This principle is delivered in the same low re
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2023-04-14_The Opposite of Trying (the corollary that peace cannot be forced; "in a war with yourself, you always lose"; avoiding conflict creates a war inside)

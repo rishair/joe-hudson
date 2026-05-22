@@ -2,10 +2,10 @@
 type: example
 id: case-the-consultant
 title: "Case the Consultant (How Joe Learned Connection Beats Seriousness)"
-aliases: ["Case story", "the Case story", "Joe's mentor Case", "Case in VC", "Case and the farming communities", "Case who laughed", "Joe and Case in venture capital", "the consultant Case"]
+aliases: ["Case story", "the Case story", "Joe's mentor Case", "Case in VC", "Case and the farming communities", "Case who laughed", "Joe and Case in venture capital", "the consultant Case", "Case telling Joe about his awakening", "Joe recognized his own awakening through Case"]
 tags: ["connection", "business", "venture-capital", "joe-personal-story", "view-origin"]
-related: ["connection", "connection-as-life-bottom-line", "view", "process-over-result", "case-the-vc-consultant"]
-sources: ["2022-04-29_Connection- A State Beyond States", "2020-10-26_Introduction to VIEW", "2022-10-26_Introduction to VIEW"]
+related: ["connection", "connection-as-life-bottom-line", "view", "process-over-result", "case-the-vc-consultant", "joes-bathroom-realization", "self-realization"]
+sources: ["2022-04-29_Connection- A State Beyond States", "2020-10-26_Introduction to VIEW", "2022-10-26_Introduction to VIEW", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
 ---
 
 # Case the Consultant (How Joe Learned Connection Beats Seriousness)
@@ -34,6 +34,18 @@ The behaviors Joe describes are not unusual on the surface -- meeting people, as
 
 This is the origin of [[view]]: VIEW emerged from Joe watching Case do this and trying to articulate what was happening. Case himself insisted it was not a technique: "You can't learn it, it's not a technique." Joe eventually concluded the technique was the visible expression of an underlying state of mind -- vulnerability, impartiality, empathy, and wonder.
 
+## Case as the Mirror That Showed Joe His Own Awakening
+
+Case appears again at a critical moment years later in Joe's story. After Joe's recognition in the bathroom of the meditation retreat (see [[joes-bathroom-realization]] and [[self-realization]]), the recognition was already running quietly in his system for some months, but Joe had not realized it was running. The critical voice in his head had quieted. The fight had reduced. He had not noticed.
+
+In a conversation with Case where Case was describing his own awakening, Joe heard the description and recognized he was hearing his own experience.
+
+"I was with Case at some point, and he was talking about his awakening, and I was like, oh, I was searching for that for a long time, and then recognized, oh shit, that actually happened to me. And I just started laughing. I just started laughing hysterically." -- Joe Hudson, 8 Seconds of Oneness
+
+The laughter is the recognition. Case's role in Joe's life was, twice over, to be the mirror Joe needed: first to show that connection in business was possible, second to show that the awakening Joe had been chasing had actually arrived.
+
+This second role matters for the larger teaching. The recognition is often unrecognized at the moment it lands. The chasing-self is poorly equipped to identify the very thing it has been chasing. Often someone else has to name the territory before the person standing on it recognizes where they are. Case did this for Joe.
+
 ## Case as Evidence for the Connection Principle
 
 In the connection podcast, this story is the first of three pieces of evidence that converged for Joe and produced [[connection-as-life-bottom-line]] as a principle. Case was the live demonstration. The [[harvard-grant-study]] was the data. The [[healthcare-ceo-turnaround]] was the scaled application.
@@ -60,3 +72,4 @@ The story is also worth telling because it locates the teaching in actual experi
 - 2022-04-29_Connection: A State Beyond States (Joe's first piece of evidence for connection as bottom line)
 - 2020-10-26_Introduction to VIEW (Case as the origin of the VIEW methodology, including the cancer/California arc)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (Case's second role in Joe's life: hearing Case describe his own awakening was the moment Joe recognized his own awakening had already happened months earlier)

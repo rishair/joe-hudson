@@ -2,10 +2,10 @@
 type: framework
 id: seven-limiting-beliefs
 title: "The Seven Limiting Beliefs"
-aliases: ["seven limiting beliefs", "7 limiting beliefs", "the limiting beliefs", "main limiting beliefs", "limiting belief structure", "the foundational limiting beliefs", "if I do X then I'll be happy", "I'll be happy when X belief"]
+aliases: ["seven limiting beliefs", "7 limiting beliefs", "the limiting beliefs", "main limiting beliefs", "limiting belief structure", "the foundational limiting beliefs", "if I do X then I'll be happy", "I'll be happy when X belief", "7 ways people hold themselves back", "seven ways people hold themselves back", "the 7 limitations", "the seven limitations", "the holding-back framework", "7 ways we hold ourselves back"]
 tags: ["limiting beliefs", "framework", "shame", "transformation", "patterns"]
 related: ["inherent-goodness", "connection-over-perfection", "wants-over-shoulds", "improvement-vs-authenticity", "defense-vs-love", "perfectionism", "shame-drives-behavior", "undoing-not-doing", "limiting-belief", "three-kinds-of-limiting-beliefs", "three-keepers-of-stuck-beliefs", "no-finish-line", "limiting-belief-meta-trap"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_The Art of Accomplishment"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_The Art of Accomplishment", "2023-04-11_Master Class - What is Holding You Back？"]
 ---
 
 # The Seven Limiting Beliefs
@@ -65,6 +65,14 @@ The framing as "if-then" is its giveaway. Whenever happiness is conditional on a
 ### 6-7. Others not enumerated
 
 Joe states there are about seven main limiting beliefs and has now named five across two episodes (perfection over connection, improvement over authenticity, shoulds before wants, defense before love, "I'll be happy when X"). The remaining two may emerge across other episodes. Until then, the architecture is: one foundation (not inherently good) supporting approximately seven specific patterns.
+
+## The Alternate Framing: "7 Ways People Hold Themselves Back"
+
+In a Masterclass intro Joe reframes the same architecture in action-language: "seven ways that people hold themselves back." Same number, same one-foundation-many-faces structure, but addressed as self-defeating moves rather than as cognitive beliefs. The example he names explicitly in that framing is shaming oneself ("Shaming themselves is just one of those ways"), which lines up with shoulds-before-wants and with the foundational not-inherently-good belief in the cognitive framing.
+
+"During my years of coaching some of the world's most successful people, I have found 7 ways that people hold themselves back. Shaming themselves is just one of those ways." -- Joe Hudson, What is Holding You Back? Masterclass intro
+
+The two framings (limiting beliefs vs. ways of holding back) are the same content addressed at different levels: belief language is upstream of behavior language, but the underlying architecture is the same. When working with someone who is more action-oriented than introspective, the holding-back framing is the more useful entry point. When working with someone who is intellectually self-aware but stuck, the limiting-belief framing exposes the cognitive structure underneath.
 
 ## Distinguished From the Three Keepers
 

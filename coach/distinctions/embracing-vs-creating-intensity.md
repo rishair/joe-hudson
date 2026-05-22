@@ -5,7 +5,7 @@ title: "Embracing Intensity vs. Creating Intensity"
 aliases: ["embrace intensity vs create intensity", "creating intensity", "manufactured intensity vs embraced intensity", "intensity manufacturing", "engineering intensity for growth", "don't drag tension up", "the tension is already there", "intensity lives in feeling not action", "intensity is in the feeling", "no intensity in action only in feeling", "cliff jump without emotion isn't intense", "the daughter driving across country example"]
 tags: ["intensity", "transformation", "anti-pattern", "distinction"]
 related: ["embrace-intensity", "embrace-vs-brace", "manufacturing-the-feeling", "trying-to-get-rid-of-the-emotion", "tension-return-to-love-cycle", "connection", "fear-is-about-feeling"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Embracing Intensity"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Embracing Intensity", "2023-04-14_The Opposite of Trying"]
 ---
 
 # Embracing Intensity vs. Creating Intensity
@@ -92,3 +92,4 @@ Joe delivers this distinction quickly and almost in passing -- "that wouldn't be
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2022-04-29_Connection: A State Beyond States (the coaching application: don't drag tension up)
 - 2022-10-26_Embracing Intensity (the cafe-with-12-year-old story; the cliff-jump example for intensity-lives-in-feeling)
+- 2023-04-14_The Opposite of Trying (the cactus-needle example for distinguishing effort-with-resistance from effort-without-resistance; the explicit framing that trying becomes counterproductive when it is the avoidance of an experience rather than the embracing of it)

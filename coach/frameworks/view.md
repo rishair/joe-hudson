@@ -2,10 +2,10 @@
 type: framework
 id: view
 title: "VIEW"
-aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
+aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework", "VIEW as relational meditation", "meditating in a conversation"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
-related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform", "connection"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
+related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform", "connection", "expanding-sense-of-self", "awakening-as-natural-development"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
 ---
 
 # VIEW
@@ -75,6 +75,20 @@ Additionally, when people feel safe and un-attacked, they can learn, be curious,
 - [[owning-your-partiality]]: Stopping mid-conversation to name your own agenda. "I notice I'm trying to fix you, and I apologize for that." This restores impartiality through vulnerability.
 - [[apply-view-to-the-voice]]: Apply VIEW to the inner critic, treating it as a relationship rather than a problem.
 - [[apply-view-to-fear]]: Apply VIEW to fear itself, meeting the internal state the way another person would be met.
+
+## VIEW as Relational Meditation
+
+A specific report comes back repeatedly from VIEW practitioners: when they are in a real VIEW conversation with another person, the experience is indistinguishable from formal meditation. The same quality of attention, the same dropping of the management self, the same spaciousness. The format is a conversation; the content is meditative.
+
+"Endless people have told me that VIEW... when they're in that with somebody, they feel like they're meditating in a conversation." -- Joe Hudson, 8 Seconds of Oneness
+
+This is not metaphorical. The state of mind that meditation cultivates by isolating the practitioner from the testing ground is the same state of mind that VIEW cultivates inside the testing ground. Both arrive at the same place. The path differs.
+
+Why this matters: the meditation pillow allows the practitioner to construct a sense of the state that does not survive contact with another person. The relational form does not allow this. The other person tests the state at the place it actually matters. If the vulnerability, impartiality, empathy, and wonder are real, the conversation reveals it. If the components are intellectually held but somatically absent, the conversation also reveals that. The relational form is a stricter testing ground because it cannot be self-constructed.
+
+The implication for the larger arc: practices that loosen the sense of self can be done sitting alone or done in relationship. Joe is explicit that the relational form fits where humanity is today (in marriages, businesses, teams) and that the dissolution of self happens more honestly inside the relational form because "you can't fool yourself when you're in a relationship." See [[expanding-sense-of-self]] for the broader frame and [[awakening-as-natural-development]] for the principle this points at.
+
+This is also why Joe does not teach meditation as a primary modality. The relational form does the same work and meets people where they live.
 
 ## VIEW As a Response to Internal States
 
@@ -161,3 +175,4 @@ See [[love-as-deep-welcoming]] for the central treatment of the love that VIEW o
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the eye-contact-as-bumpers metaphor; alternative scaffolds into VIEW; the universal need for connection and the variation in modality)
+- 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (VIEW as relational meditation: the report from many practitioners that VIEW conversations feel like meditating in a conversation; why the relational form does the same self-loosening work as formal meditation but does it where humanity actually lives)

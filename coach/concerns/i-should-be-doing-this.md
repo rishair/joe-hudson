@@ -2,9 +2,9 @@
 type: concern
 id: i-should-be-doing-this
 title: "I should be doing this / I shouldn't be doing this"
-aliases: ["the should concern", "I know I should", "I keep telling myself I should", "should language", "I shouldn't be eating this", "obligation language", "I have to"]
+aliases: ["the should concern", "I know I should", "I keep telling myself I should", "should language", "I shouldn't be eating this", "obligation language", "I have to", "I've been trying for years", "the thing I've been trying to do for years", "the unstarted business", "the exercise I never start", "the relationship goal I keep failing at", "I keep beating myself up about it"]
 tags: ["shoulds", "obligation", "self-criticism", "concerns"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2023-04-11_Master Class - What is Holding You Back？"]
 ---
 
 # I should be doing this / I shouldn't be doing this
@@ -20,8 +20,15 @@ This is the concern almost no one names directly. It shows up in the language pe
 - "I've been trying to quit for years."
 - "I just need to push through."
 - "I should be over this by now."
+- "I've been trying to start this business for years and I keep not doing it."
+- "I keep telling myself I should exercise/meditate/call/write and it never happens."
+- "I keep beating myself up about not doing it and it doesn't change anything."
 
 The concern can also surface as a complaint about a bad habit, a missed goal, a project that will not start, or a relationship duty that feels like a weight.
+
+## The "Years of Trying" Variant
+
+A specific variant deserves naming: the person presents a thing they have been trying to do for years and have not done. Start a business. Exercise. Get closer to a loved one. Quit a habit. The content varies but the structural diagnostic does not: they have been beating themselves up about it the whole time. The shame is what has been keeping it in place. See [[shame-drives-behavior]] for the diagnostic in full -- the structural prediction is reliable enough that you can name it before you know what the thing is.
 
 ## Detection Cues
 

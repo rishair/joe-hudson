@@ -2,10 +2,10 @@
 type: distinction
 id: trying-vs-doing
 title: "Trying vs. Doing"
-aliases: ["trying versus doing", "effort vs action", "clenched trying", "trying is not doing", "doing not trying"]
-tags: ["effort", "action", "flow", "doing", "trying", "distinction"]
-related: ["hands-together-exercise", "undoing-not-doing", "enjoy-over-manage", "resistance", "art-of-accomplishment"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
+aliases: ["trying versus doing", "effort vs action", "clenched trying", "trying is not doing", "doing not trying", "trying as resistance to experience", "doing without resistance", "what makes effort become trying", "resistance is what turns effort into trying"]
+tags: ["effort", "action", "flow", "doing", "trying", "distinction", "resistance"]
+related: ["hands-together-exercise", "undoing-not-doing", "enjoy-over-manage", "resistance", "art-of-accomplishment", "opposite-of-trying", "letting-go-vs-doing-nothing", "embracing-vs-creating-intensity"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying"]
 ---
 
 # Trying vs. Doing
@@ -42,6 +42,28 @@ Notice when you are trying. The signal is that the body is engaged but nothing i
 
 The intervention is not to add more effort. The intervention is to feel the opposite of the trying. See [[undoing-not-doing]] and [[hands-together-exercise]] for the somatic practice.
 
+## What Makes Effort Become Trying: Resistance to Experience
+
+A clarifying distinction within the distinction. There is natural effort that is doing. There is loaded effort that is trying. What turns the first into the second is *resistance to the current experience*.
+
+A sprout pushes through concrete. A cell maintains its boundary. A person reaches across the table for a salt shaker. All of these involve effort. None of them are trying in the relevant sense. The effort is the natural expression of what is happening. There is no resistance to being where the system is.
+
+The same actions, performed by a person who is resisting being where they are, become trying. The hand reaches for the salt shaker while the system is also trying to escape the conversation. The body is doing two things at once: the action and the resistance to the situation in which the action is occurring. The split is what produces the load.
+
+"The trying that is ineffective that happens is usually happens because we are trying to get out of an experience. So the trying is, is, is not hugging the cactus. It's trying to get away from the cactus. It is the avoidance of it that it typically creates the trying. We're trying to get towards something or away from something rather than allowing it." -- Joe Hudson, The Opposite of Trying
+
+Brett's reformulation makes it precise: "What you're describing as trying here often involves that there's resistance to the experience that makes it trying."
+
+The operational test: notice whether you are resisting the experience you are in. If yes, the effort is trying. If no, the same effort is doing. The somatic load is the difference. See [[embracing-vs-creating-intensity]] for the same distinction applied to the broader concept of intensity, and [[embrace-vs-brace]] for the felt-sense test.
+
+## The Receiving Side That Doing Includes
+
+Doing is not just trying without the clench. In flow states, there is no trying — but there is also a listening, a receiving, a channel-quality. The doing arises with that receiving baked in. The body is moving in alignment with something arriving rather than producing motion against resistance.
+
+"If you're in a flow state, there's no trying, but there's also like you're listening. It's more like being a channel." -- Joe Hudson, The Opposite of Trying
+
+This adds to the distinction. Doing is not just the absence of clench. It is action that includes a receiving stance. The receiving is the [[opposite-of-trying]] as a state. Doing happens inside that state. See [[opposite-of-trying]] for the broader concept.
+
 ## What Someone Experiences
 
 The exhaustion of trying is the exhaustion of running an engine that is not connected to wheels. The fuel burns. Nothing moves. At the end of the day, you are tired but no work has been produced.
@@ -66,3 +88,4 @@ The ease of doing is the surprise of seeing the result without remembering effor
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2023-04-14_The Opposite of Trying (the resistance-to-experience refinement of the distinction; the channel-quality of doing in flow)
