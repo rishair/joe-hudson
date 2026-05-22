@@ -36,6 +36,16 @@ Joe can identify suppression patterns by looking at someone's muscular structure
 
 This is also why constant emotional reality is constantly present: even when someone reports they "are not feeling anything," the body is showing what they are not allowing themselves to feel. The contraction itself is the emotional information.
 
+## The Live Demonstration
+
+The principle can be proved to oneself in under thirty seconds with a two-step somatic experiment: allow yourself to feel scared for a moment, then try to stop. Whatever you do to stop, notice what your body does. Almost universally, muscles constrict. The jaw clamps. The shoulders pull up. The belly tightens. The body has to physically do work to suppress the emotion.
+
+"I guarantee what just happened is that your muscles constricted a little bit because you can't stop an emotional experience without a physical holding. And so if you've been holding the same thing physically for years and years and years, you're going to get chronic pain and stress. You're going to have muscular skeletal issues." -- Joe Hudson, Emotional Fluidity
+
+The implication scales: thirty seconds of suppression produces visible momentary constriction. Thirty years of the same suppression produces chronic pain, postural distortion, musculoskeletal issues, and contributes to the downstream disease patterns linked to adverse childhood experiences (ACEs).
+
+See [[try-to-feel-scared-then-stop-experiment]] for the dedicated practice article. The experiment is also useful as the on-ramp into a longer teaching about emotional fluidity, because it gives the listener first-person somatic evidence of the principle before the abstractions arrive.
+
 ## The Unlock Is Progressive
 
 As emotions are felt, the chronic muscular patterns release. As the muscles release, deeper layers of emotion become accessible. The body's progressive unlocking is what makes [[daily-emotional-yoga]] compound over time.
@@ -67,3 +77,4 @@ The reverse is also true: keeping the body loose forces feeling. You cannot avoi
 - 2020-11-06_Empathy -- Connection Course Series #4
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2023-10-27_Emotional Fluidity - Emotion Series #13 (the live "try to feel scared then stop" somatic experiment that proves the principle in under thirty seconds; the ACEs-and-downstream-disease implication of decades of chronic holding)

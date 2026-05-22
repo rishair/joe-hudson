@@ -4,7 +4,7 @@ id: i-have-to-do-it-all-myself
 title: "I have to do it all myself / I can't depend on others"
 aliases: ["I can't depend on people", "I don't need anyone", "I'm hyper-independent", "I have to be the strong one", "I can only count on myself", "I do it alone", "I don't ask for help", "self-reliance to a fault", "I waited for people to do things and they didn't", "I learned to depend only on myself", "it's lonely at the top", "nobody around me really gets it", "I have to hold all of this myself", "the lonely CEO presenting"]
 tags: ["independence", "abandonment", "self-reliance", "CEO", "compartmentalization", "loneliness", "concern"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-11-10_Finding a Romantic Partner"]
 ---
 
 # I have to do it all myself / I can't depend on others
@@ -105,15 +105,29 @@ He does not invalidate the survival function. The self-reliance kept the person 
 
 He does not skip to vulnerability as a tactic. The work is the substrate emotion, not the performance of openness.
 
+## What Self-Reliance Does to the People Around You
+
+A specific dimension that the self-reliant person almost never sees from inside: the people around them experience the self-reliance as abandonment. The same behavior the person experiences as "I've got it, I'm not bothering you" is experienced by the partner, the friend, or the family member as "you don't need me, I can't show up for you, I am being kept out."
+
+The teaching that opens this dimension comes from a coaching exchange Joe describes:
+
+"Oh, your dad didn't abandon you. He was just being self-reliant. And you just saw it click, slow motion click. And the next day she's like, oh, he never abandoned me because he was being self-reliant... I said, yeah, and do you also see how you felt it as an abandonment for years? That's how people feel when you're self-reliant." -- Joe Hudson, Finding a Romantic Partner
+
+The bridge has two halves. The first re-reads a parent's distance as self-reliance rather than as personal abandonment, which often softens the original wound. The second connects forward: what the daughter felt from her father is what the people around her now feel from her own self-reliance. The pattern transferred.
+
+See [[self-reliance-pushes-people-away]] for the developed concept article. This dimension is especially important when the self-reliant person is also presenting with [[i-cant-find-love]] or relationship concerns -- the self-reliance is functioning as one of the [[push-pull-dynamics-in-dating]], reaching for connection while making it impossible for connection to land.
+
 ## Related Concerns
 
 - [[i-have-to-sacrifice-to-succeed]]: the work-domain expression of the same self-abandonment pattern.
 - [[i-need-to-improve-myself]]: when the self-reliance gets turned on the inner work itself.
 - [[my-inner-critic-wont-stop]]: often the inner voice of the very pattern this concern describes.
 - [[i-dont-have-community]]: the loneliness that this pattern produces, often presented as a separate concern. The hyper-independence is structurally upstream of the absence of community; the loneliness is the downstream cost, not the root.
+- [[i-cant-find-love]]: the romantic-partnership version of what this concern produces. The self-reliance prevents the partner from being able to show up, which prevents the partnership from arriving or deepening.
 
 ## Sources
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
 - 2022-10-26_Connection Over Perfection (the lonely-CEO variant and the apologize-for-not-seeing-the-help move)
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
+- 2023-11-10_Finding a Romantic Partner (the daughter-father reframe; the abandonment-self-reliance duality; what self-reliance does to partners and to potential partners; self-reliance situated as one of the push-pull forms in dating)

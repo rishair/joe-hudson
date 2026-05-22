@@ -2,10 +2,10 @@
 type: pattern
 id: complementary-trauma-surfaces
 title: "Complementary Trauma Surfaces"
-aliases: ["click pattern", "trauma click", "complementary surface area of traumas", "matching traumas", "the perfect match", "couples find each other through trauma", "the trauma fit", "perfectly matched traumas", "instinctual way of finding the person who can trigger us", "the trauma-matched partner", "we are wise in our trauma selection", "two patterns interlock kind of perfectly", "things that fire together wire together", "love wired to whatever happened in childhood"]
+aliases: ["click pattern", "trauma click", "complementary surface area of traumas", "matching traumas", "the perfect match", "couples find each other through trauma", "the trauma fit", "perfectly matched traumas", "instinctual way of finding the person who can trigger us", "the trauma-matched partner", "we are wise in our trauma selection", "two patterns interlock kind of perfectly", "things that fire together wire together", "love wired to whatever happened in childhood", "marriage as two people trying to find out they're good enough"]
 tags: ["relationships", "partnership", "trauma", "attraction", "blame", "marriage", "trigger"]
-related: ["trauma-mapping", "childhood-imprinting", "projections", "engineering-heartbreak-to-avoid-heartbreak", "trauma-heals-in-relationship", "feeling-the-unfelt-emotion", "subconscious-partner-selection", "relationships-as-personal-growth-path", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "trigger", "anxious-avoidant-dynamic", "walking-on-eggshells"]
-sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Seeing Through Family Dynamics", "2023-04-28_How Love Gets Confused"]
+related: ["trauma-mapping", "childhood-imprinting", "projections", "engineering-heartbreak-to-avoid-heartbreak", "trauma-heals-in-relationship", "feeling-the-unfelt-emotion", "subconscious-partner-selection", "relationships-as-personal-growth-path", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "trigger", "anxious-avoidant-dynamic", "walking-on-eggshells", "there-is-no-the-one", "whatever-you-think-you-need-to-be-lovable-is-self-rejection"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Seeing Through Family Dynamics", "2023-04-28_How Love Gets Confused", "2023-11-10_Finding a Romantic Partner"]
 ---
 
 # Complementary Trauma Surfaces
@@ -135,6 +135,18 @@ Recognizing this allows two simultaneous moves: gratitude for what the configura
 
 Joe is steady and almost matter-of-fact about this pattern. He does not present it as a tragedy. He treats the precision of the match as genuinely interesting and as a gateway. The tone shifts toward warmth at the blame-dissolution moment, where what was painful becomes funny in its perfection.
 
+## A Working Definition of Marriage
+
+A definition Joe attributes to someone he cannot quite remember (and so paraphrases):
+
+"Two people thinking that they're not good enough coming together in an attempt to try to find out that they're good enough." -- (Joe Hudson paraphrasing, Finding a Romantic Partner)
+
+The definition compactly captures the structural shape that this pattern points at. Two people are brought together by their unfinished material -- specifically, by the part of the unfinished material that registers as "I am not good enough." The relationship is the configuration in which that material gets the opportunity to be worked. The marriage's deepest function, in this framing, is the mutual discovery that both partners are, in fact, good enough -- a discovery the configuration is built to support if both partners do the work.
+
+The definition is not romantic. It is operational. It describes what is actually being attempted, beneath the conscious narrative of "we love each other and want to be together." The "we love each other" is the surface. The "let us find out we are good enough" is the deeper project that the body has selected the partner for.
+
+This is the same machinery that the rest of this article describes, viewed from the angle of the project the relationship is doing rather than the trauma-fit that brought it together. Both angles are accurate. The trauma-fit angle describes how the selection happened. The good-enough angle describes what the selection is for.
+
 ## Sources
 
 - 2021-08-13_Seeing Through Family Dynamics
@@ -143,3 +155,4 @@ Joe is steady and almost matter-of-fact about this pattern. He does not present 
 - 2022-10-26_How Relationships Reveal Us
 - 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation)
 - 2023-04-28_How Love Gets Confused (the two-people-meeting-jealousy pair as illustration of how the imprint determines the click; the criticism loop as a self-maintaining system; the somatic fear that arises when removing the wired-in pattern from self-treatment)
+- 2023-11-10_Finding a Romantic Partner (the working definition of marriage as "two people thinking they're not good enough coming together to try to find out that they're good enough"; the trauma-matched partner as the one ready to play the role for healing)

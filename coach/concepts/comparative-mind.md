@@ -2,10 +2,10 @@
 type: concept
 id: comparative-mind
 title: "Comparative Mind"
-aliases: ["comparison mind", "comparing yourself", "the Tibetan teaching on comparison", "better than worse than equal to", "comparative mind is misery", "the comparative mind"]
+aliases: ["comparison mind", "comparing yourself", "the Tibetan teaching on comparison", "better than worse than equal to", "comparative mind is misery", "the comparative mind", "comparison without emotional friction", "comparison becomes data collection", "the disarmed comparative mind"]
 tags: ["comparison", "Tibetan Buddhism", "judgment", "suffering", "concept"]
-related: ["limiting-belief", "judgment-vs-discernment", "using-limiting-belief-frame-to-judge-others", "shame-as-disconnection", "untruth-in-every-thought", "voice-in-the-head"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
+related: ["limiting-belief", "judgment-vs-discernment", "using-limiting-belief-frame-to-judge-others", "shame-as-disconnection", "untruth-in-every-thought", "voice-in-the-head", "emotional-fluidity"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2023-10-27_Emotional Fluidity - Emotion Series #13"]
 ---
 
 # Comparative Mind
@@ -56,6 +56,18 @@ The exit is not to stop comparing. The mind will produce comparisons. The exit i
 
 This is the same move as with [[voice-in-the-head]]: noticing changes things. The comparison loses its grip when it is seen as comparison rather than felt as truth.
 
+## When Comparison Becomes Data Collection
+
+A subtler version of the exit: as emotional fluidity increases, the comparing mind can produce comparisons without the better-than / worse-than charge that usually accompanies them. The comparison is still happening, but the felt friction of being better or worse than the other person is no longer there. What remains is closer to neutral observation than to misery.
+
+"Even if you compare yourself, if you're comparative mind and there's no emotional friction behind it -- it's not like most people when they compare themselves, it's like they're better than me or I'm better than them. But if you let go of that feeling of being better or being worse than, then all of a sudden even comparative mind doesn't have the same kind of -- it doesn't have the same kind of [effect]." -- Joe Hudson, Emotional Fluidity
+
+Brett's compressed framing: "Then it's just data collection. It's not making a new meaning to suppress yourself with." -- Brett Kistler, Emotional Fluidity
+
+This is what happens to comparative mind in someone whose underlying emotional fluidity has matured. The feature of comparison that produced misery (the identity organizing itself around the measurement) is what dissolves first. The capacity to observe two states alongside each other (this office is cleaner than that one; this candidate is more experienced than that one) does not require dissolving. The pragmatic value of comparison survives. The self-construction misery does not.
+
+This is connected to the broader effect of [[emotional-fluidity]] on identity. When the emotional charge stops attaching to comparison, comparison stops being a vehicle for the identity to defend or attack itself with. It returns to being information.
+
 ## When Joe Reaches for This
 
 When someone is judging another person and presenting the judgment as insight. When someone is comparing their progress to someone else's. When the limiting-belief framework (or any other transformational framework) is being weaponized as a position of superiority.
@@ -80,3 +92,4 @@ The Tibetan framing is short and memorable, which is part of why Joe uses it. It
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
 - 2022-10-26_Limiting Beliefs
+- 2023-10-27_Emotional Fluidity - Emotion Series #13 (the "comparison without emotional friction becomes data collection" framing; the observation that emotional fluidity disarms comparative mind without requiring the cessation of comparison itself)

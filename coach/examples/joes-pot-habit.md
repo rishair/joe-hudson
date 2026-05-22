@@ -2,10 +2,10 @@
 type: example
 id: joes-pot-habit
 title: "Joe's Pot Habit"
-aliases: ["pot smoking story", "marijuana habit story", "Joe's addiction story", "pot habit in his twenties"]
+aliases: ["pot smoking story", "marijuana habit story", "Joe's addiction story", "pot habit in his twenties", "Joe's nicotine and marijuana addictions", "Joe's addictions released by anger", "marijuana released by anger", "the addiction from a dysfunctional house", "anger released the marijuana"]
 tags: ["resistance", "shame", "addiction", "personal example", "transformation"]
-related: ["resistance", "negative-self-reinforcement", "shame-drives-behavior", "feeling-the-unfelt-emotion", "embrace-intensity"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+related: ["resistance", "negative-self-reinforcement", "shame-drives-behavior", "feeling-the-unfelt-emotion", "embrace-intensity", "emotional-fluidity", "each-emotion-has-its-own-positive-flavor"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2023-10-27_Emotional Fluidity - Emotion Series #13"]
 ---
 
 # Joe's Pot Habit
@@ -45,6 +45,20 @@ In later teachings Joe reaches for this story specifically to demonstrate that h
 "I was smoking quite a bit of pot and I was beating myself up for smoking pot. And as soon as I started to love anger and allow anger in a whole new way, then, and then the beginning of sadness, marijuana, I just lost interest. I just lost interest in it. And I have found that with a lot of the habits that we have are used to help us not feel something. And so if we -- bad, what we call bad habits. And so the more that you allow those emotional experiences, you learn to love them and you embrace them, then the habits are unnecessary." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
 
 The compressed form serves a slightly different teaching purpose than the original story. The original emphasizes the depth of the shame loop and the relief of the underlying emotional encounter. The compressed form emphasizes the cleanness of the dissolution: the habit "just lost interest" once the underlying emotion was no longer being avoided. See [[embracing-changes-unconscious-decisions]] for the principle this example anchors.
+
+## The Anger-Specific Retelling and the Multi-Addiction Context
+
+In the canonical Emotional Fluidity episode, Joe gives the same story but explicitly frames it as one of several addictions he brought out of a dysfunctional childhood home. Pot is one of multiple substances he wrestled with; nicotine is another. The specific releasing emotion for marijuana was anger.
+
+"On all the addictions, coming from a house that was like, it had a large amount of dysfunction, alcoholism, I obviously brought some of my own addictions in. Like I wrestled with nicotine, marijuana in my 20s. In all of those cases, a certain emotion that I allowed released the addiction. So I like, when I really got in touch with my anger and that became really fluid, marijuana became completely uninteresting to me as an example." -- Joe Hudson, Emotional Fluidity
+
+This version is the most direct support for [[each-emotion-has-its-own-positive-flavor]]: the specific addictive substance was paired with a specific avoided emotion, and feeling that specific emotion is what released that specific substance. The mechanism is not "feel your feelings and your addictions go away in general." It is "the emotion this substance was helping you not feel becomes welcome, and the substance loses its job."
+
+Joe immediately adds an honest qualifier in this retelling, to prevent the story from being heard as a clean cure-all:
+
+"It does change how you want to regulate yourself or how you want to eat or what you're avoiding. It doesn't change it all the way. So don't, don't, this isn't like a cure-all for that stuff because there is like a physical addiction part of it. There's some other things that have to be addressed. But I don't know anybody who's increased their emotional fluidity who their destructive habits haven't changed for the better. But I also haven't met anybody whose emotional fluidity really increased and all of their destructive patterns went away entirely. There's other things." -- Joe Hudson, Emotional Fluidity
+
+So the example supports the mechanism without overclaiming. Emotional fluidity reliably reduces destructive habits. It does not reliably eliminate all of them. Physical addiction, neurochemistry, and other layers still matter.
 
 ## Sources
 

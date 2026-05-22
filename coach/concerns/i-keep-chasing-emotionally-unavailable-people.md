@@ -4,7 +4,7 @@ id: i-keep-chasing-emotionally-unavailable-people
 title: "I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic"
 aliases: ["I keep chasing people", "I'm always the one chasing", "I'm in an anxious avoidant dynamic", "I'm anxious they're avoidant", "I'm always rejected", "they're emotionally unavailable", "I'm pursuing emotionally unavailable people", "anxious-avoidant", "the chasing pattern", "I always fall for unavailable people", "I'm the one always reaching", "they're aloof and distant", "I'm the pursuer", "why do I keep dating unavailable people", "I always end up abandoned", "I keep getting rejected", "I'm always fighting for their attention"]
 tags: ["relationships", "attachment", "chasing", "anxious avoidant", "rejection", "pattern"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2023-11-10_Finding a Romantic Partner"]
 ---
 
 # I keep chasing emotionally unavailable people / I'm in an anxious-avoidant dynamic
@@ -67,6 +67,15 @@ This is the empowering move that the person will at first reject: they are not v
 
 5. **The arc tends to follow:** see the pattern as chosen -> identify what is being avoided -> fall in love with that avoided state -> grieve the years spent in the configuration -> the body stops producing the configuration.
 
+## Related Concerns
+
+This is one of the most-developed forms of the broader [[i-cant-find-love]] concern. Where the chasing pattern is recognizable enough that the person can name it, this concern article is the entry point. Where the person presents the more general "I can't find love" frame without the chase pattern in view yet, start there.
+
+The push-pull structure underneath this concern is the same as the structure underneath jealousy, neediness, hyper-independence, transactionality, and the "I'm not enough" frame. See [[push-pull-dynamics-in-dating]] for the family of forms. The chasing-of-the-unavailable is one of the most reliable forms because it self-confirms: the chosen partners keep being unavailable, which keeps the cycle running and the avoided emotional state out of reach.
+
+The underlying motivator across all of these forms is [[fear-of-losing-yourself-in-love]]. The chasing keeps the person from the configuration where they would be received, would have to commit, and would face the felt threat of the kind of self-loss they have been protecting against.
+
 ## Sources
 
 - 2022-09-30_Triggered
+- 2023-11-10_Finding a Romantic Partner (the chasing pattern situated as one form among many of push-pull dynamics; jealousy-neediness-independence-transactionality as same family; the broader fear-of-losing-yourself frame)

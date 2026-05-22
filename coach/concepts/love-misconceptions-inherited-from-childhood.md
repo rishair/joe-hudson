@@ -2,10 +2,10 @@
 type: concept
 id: love-misconceptions-inherited-from-childhood
 title: "Love Is Whatever Your Childhood Role Models Modeled As Love"
-aliases: ["misconceptions of love come from childhood", "love is whatever they showed you", "your love definition is inherited", "what you think love is comes from childhood", "the imprinted definition of love", "you learned what love is from your parents", "love conditioning", "the childhood definition of love", "if love meant being hit then love is painful", "if love meant being nice then love is nice", "your specific misconception about love", "intellectual vs somatic belief about love", "the body's definition of love", "what was wired to love"]
+aliases: ["misconceptions of love come from childhood", "love is whatever they showed you", "your love definition is inherited", "what you think love is comes from childhood", "the imprinted definition of love", "you learned what love is from your parents", "love conditioning", "the childhood definition of love", "if love meant being hit then love is painful", "if love meant being nice then love is nice", "your specific misconception about love", "intellectual vs somatic belief about love", "the body's definition of love", "what was wired to love", "love wired with guilt", "love wired with guilt-tripping"]
 tags: ["love", "childhood", "imprinting", "definitions", "core concept", "somatic"]
-related: ["love-as-deep-welcoming", "childhood-imprinting", "love-vs-nice", "love-requires-empowerment", "boundary-with-vs-boundary-against", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "love-is-the-best-change-agent", "complementary-trauma-surfaces", "subconscious-partner-selection", "take-contrary-action", "different-languages-of-love", "conditional-clauses-of-heart-closure"]
-sources: ["2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused"]
+related: ["love-as-deep-welcoming", "childhood-imprinting", "love-vs-nice", "love-requires-empowerment", "boundary-with-vs-boundary-against", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "love-is-the-best-change-agent", "complementary-trauma-surfaces", "subconscious-partner-selection", "take-contrary-action", "different-languages-of-love", "conditional-clauses-of-heart-closure", "fear-of-losing-yourself-in-love", "from-looking-for-love-to-being-love", "i-cant-find-love"]
+sources: ["2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused", "2023-11-10_Finding a Romantic Partner"]
 ---
 
 # Love Is Whatever Your Childhood Role Models Modeled As Love
@@ -169,7 +169,32 @@ When someone is intellectually clear that "love is X" but their lived experience
 
 Matter-of-fact. The diagnostic is precise and almost mechanical. There is no judgment of the imprint; it is information. The tone is the tone of a doctor reading a chart: this is what is there, here is how it got there, here is what to do about it.
 
+## The Guilt-Tripping Imprint (Specific Worked Example)
+
+A specific example of the imprint mechanism in action. Joe describes it as partially autobiographical:
+
+"Having somebody who guilt trips you as your imprint of love. And then you constantly did stuff that you didn't want to do because you felt guilty. As that example means that you're going to be scared of being in a relationship where you're going to be guilted and lose yourself trying to please somebody who's not pleasable, and they constantly guilt you." -- Joe Hudson, Finding a Romantic Partner
+
+The structure plays out exactly as the general principle predicts:
+
+1. **The childhood wiring**: love and guilt-tripping became the same in the body. The child learned that being loved meant being guilted, and that the response to guilt was compliance.
+
+2. **The adult avoidance of partnership**: in adulthood, the body equates partnership with the guilt-trip / lose-self / try-to-please-the-unpleasable loop. The avoidance of partnership is the avoidance of repeating this loop. This is one of the specific forms [[fear-of-losing-yourself-in-love]] takes.
+
+3. **The misreading of other people's emotions**: a downstream consequence that Brett surfaces in the source conversation: "So then you're going to see any emotion as a strategy to guilt you rather than what's going on for the person." The clean read of the other's emotional life becomes unavailable because the wiring is reading all emotions through the guilt-trip lens.
+
+4. **The work**: separate the love from the guilt. "Nobody has the right to guilt you. Nobody has the right to shame you. Nobody has -- you have every right to draw your boundary." -- Joe Hudson, Finding a Romantic Partner. The boundary capacity is what allows the love to be experienced without the guilt-trip wiring activating.
+
+This is one of the worked examples of the imprint mechanism that is dense enough to use as a template for working other imprints. The same structural moves apply to any of the wired-with-love patterns from the table above. Surface the wiring. Surface what the body is now avoiding to keep the wiring from re-activating. Surface how the wiring is distorting reads of other people. Do the work to separate.
+
+## The Connection to Finding a Partner
+
+The imprint is one of the central reasons the broader concern [[i-cant-find-love]] persists. The body is not refusing love in general. The body is refusing the version of love that the imprint defined. The adult is waiting for love that does not match the imprint (and therefore that the body cannot recognize as love), or fleeing love that does match the imprint (because the body recognizes the cost). Either way, partnership cannot land.
+
+The [[from-looking-for-love-to-being-love]] practice rests on the work of untying the imprint. "Most importantly, it is untying what was wired with love" -- Joe is explicit that this is the deepest of the four components of the practice. The receiving, the self-loving, and the being-loving cannot consistently happen while the wired definition is still running the show.
+
 ## Sources
 
 - 2022-10-26_Love Over Defense
 - 2023-04-28_How Love Gets Confused (the intellectual-vs-somatic-belief distinction; the "I turned out fine" marker; the three practical implications: attraction, what we do for love, when we close the heart; the criticism-as-love example expanded; the heartbreak as the way out)
+- 2023-11-10_Finding a Romantic Partner (the guilt-tripping imprint as worked example; how the imprint produces avoidance of partnership; the emotion-as-strategy misreading; the boundary work as separation of love from the wired pattern; the connection to finding a partner)

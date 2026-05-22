@@ -2,9 +2,9 @@
 type: principle
 id: nre-returns-in-grounded-form-after-each-healing
 title: "New Relationship Energy Returns in a More Grounded Form After Each Big Healing Move"
-aliases: ["NRE returns", "new relationship energy returns", "the spice keeps coming back", "fresh aliveness after healing", "the renewable NRE", "NRE comes back after every healing", "the post-healing aliveness", "what keeps a long relationship fresh", "the more grounded NRE", "deeper aliveness with each cycle"]
+aliases: ["NRE returns", "new relationship energy returns", "the spice keeps coming back", "fresh aliveness after healing", "the renewable NRE", "NRE comes back after every healing", "the post-healing aliveness", "what keeps a long relationship fresh", "the more grounded NRE", "deeper aliveness with each cycle", "the high is different not gone", "different high in long relationships", "ah-ah vs ah-h the changing register of love"]
 tags: ["relationships", "growth", "healing", "aliveness", "partnership", "principle", "cycles"]
-sources: ["2022-10-26_How Relationships Reveal Us"]
+sources: ["2022-10-26_How Relationships Reveal Us", "2023-11-10_Finding a Romantic Partner"]
 ---
 
 # New Relationship Energy Returns in a More Grounded Form After Each Big Healing Move
@@ -96,6 +96,22 @@ The NRE-return principle is the felt outcome of all of these mechanisms. The oth
 - Toward [[arms-of-the-cross-relationship]]: where in the relationship this happens (the body)
 - Toward [[relationships-as-personal-growth-path]]: the agreement that makes the cycles available
 
+## The "High Is Different" Observation
+
+A specific qualifier Joe adds in a later conversation. The new aliveness is real but its register has changed:
+
+"I haven't experienced the end, but what I noticed is that the high is different. That the high becomes less like, ah, ah, and more like, ah, like it's just a different high." -- Joe Hudson, Finding a Romantic Partner
+
+Brett's framing of what he experiences sits alongside:
+
+"Every time we break through a new level of intimacy, suddenly that comes back. There's like, and, and it's almost like we're stepping more and more into the relationship. And every time we do that, there's a new kind of phase of, wow, I've never experienced this before. So it gets to feel like that crushy phase, even in year 3, year 4." -- Brett Kistler, Finding a Romantic Partner
+
+The two descriptions agree on the underlying phenomenon and differ on the register. The "crushy" early-relationship feeling (the "ah, ah" of Joe's phrasing) is the early form of the NRE. The deeper version (Joe's "ah") has the same valence -- alive, expansive, recognized -- and a different intensity profile. Less spiky. More settled. Still a high.
+
+The distinction matters because the person looking for the early "crushy" feeling specifically may miss the recognition that the deeper feeling is present. The principle is not that the same high comes back. The principle is that aliveness comes back, in a form that is fuller but no longer matches the early shape. A relationship that is producing this deeper aliveness is doing what the principle describes, even if the partner notes "it doesn't feel like it did the first six months."
+
+This is part of why people sometimes leave long relationships in search of the early form of the feeling: they have not learned to recognize the deeper form, or they have not yet done the healing work that would produce it inside the current relationship. See [[i-cant-find-love]] for the search-for-the-early-feeling configuration when it is operating as a defense.
+
 ## Tone
 
 Reported, not promised. Joe agrees with Brett's observation and adds the "more grounded" qualifier. The tone is the quiet certainty of someone who has watched the cycle happen many times, including in his own marriage. There is no marketing in it. It is offered as a structural fact about long relationships that do the work.
@@ -103,3 +119,4 @@ Reported, not promised. Joe agrees with Brett's observation and adds the "more g
 ## Sources
 
 - 2022-10-26_How Relationships Reveal Us
+- 2023-11-10_Finding a Romantic Partner (Joe and Brett comparing notes on the experience -- the "different high" framing; Brett's "every new layer brings the crushy phase back" observation; the register-shift in deeper aliveness)

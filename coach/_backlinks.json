@@ -13,6 +13,7 @@
   ],
   "childhood-imprinting": [
     "am-i-being-selfish",
+    "i-cant-find-love",
     "i-freeze-around-authority",
     "i-have-to-do-it-all-myself",
     "i-have-to-sacrifice-to-succeed",
@@ -22,6 +23,7 @@
     "my-inner-critic-wont-stop",
     "i-turned-out-fine",
     "anxious-avoidant-dynamic",
+    "fear-of-losing-yourself-in-love",
     "feeling-the-unfelt-emotion",
     "i-cant-trust-my-thoughts-right-now",
     "love-misconceptions-inherited-from-childhood",
@@ -349,6 +351,7 @@
     "trauma-mapping",
     "rehearsing-conversations",
     "embrace-intensity",
+    "love-means-signing-up-to-be-hurt",
     "what-we-fear-we-invite",
     "joes-abandonment-mapping"
   ],
@@ -374,6 +377,7 @@
     "trauma-mapping",
     "creating-safety-suppresses-self",
     "forms-of-dysfunctional-apology",
+    "push-pull-dynamics-in-dating",
     "the-shame-avoidance-loop",
     "take-contrary-action",
     "problem-vs-something-happening",
@@ -603,6 +607,163 @@
     "sorry-from-shame-vs-sorry-as-solidarity",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint"
   ],
+  "i-keep-chasing-emotionally-unavailable-people": [
+    "i-cant-find-love",
+    "anxious-avoidant-dynamic",
+    "fear-of-losing-yourself-in-love",
+    "push-pull-dynamics-in-dating"
+  ],
+  "fear-of-losing-yourself-in-love": [
+    "i-cant-find-love",
+    "i-keep-chasing-emotionally-unavailable-people",
+    "are-you-willing-to-do-the-work",
+    "anxious-avoidant-dynamic",
+    "love-misconceptions-inherited-from-childhood",
+    "self-reliance-pushes-people-away",
+    "push-pull-dynamics-in-dating",
+    "transactional-relationships-as-defense",
+    "hot-crushy-feeling-as-sugar-high",
+    "losing-self-in-love-two-forms",
+    "love-means-signing-up-to-be-hurt",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "there-is-no-the-one",
+    "from-looking-for-love-to-being-love"
+  ],
+  "push-pull-dynamics-in-dating": [
+    "i-cant-find-love",
+    "i-have-to-do-it-all-myself",
+    "i-keep-chasing-emotionally-unavailable-people",
+    "are-you-willing-to-do-the-work",
+    "anxious-avoidant-dynamic",
+    "fear-of-losing-yourself-in-love",
+    "self-reliance-pushes-people-away",
+    "transactional-relationships-as-defense",
+    "hot-crushy-feeling-as-sugar-high",
+    "losing-self-in-love-two-forms",
+    "love-means-signing-up-to-be-hurt",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "there-is-no-the-one",
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+    "from-looking-for-love-to-being-love",
+    "what-was-wired-with-love-needs-untying"
+  ],
+  "craving-is-the-pushing-away": [
+    "i-cant-find-love",
+    "i-keep-postponing-enjoyment",
+    "the-more-i-grow-the-more-alone-i-feel",
+    "what-makes-you-care-about-the-outcome",
+    "anxious-avoidant-dynamic",
+    "opposite-of-trying",
+    "resistance",
+    "push-pull-dynamics-in-dating",
+    "transactional-relationships-as-defense",
+    "wanting-vs-craving",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "peace-is-what-we-resist-the-most",
+    "peace-precedes-joy-after-non-duality"
+  ],
+  "there-is-no-the-one": [
+    "i-cant-find-love",
+    "are-you-willing-to-do-the-work",
+    "relationships-as-personal-growth-path",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "from-looking-for-love-to-being-love"
+  ],
+  "anxious-avoidant-dynamic": [
+    "i-cant-find-love",
+    "i-keep-chasing-emotionally-unavailable-people",
+    "push-pull-dynamics-in-dating",
+    "what-we-fear-we-invite",
+    "joe-mina-china-overwhelm",
+    "joes-daughter-new-boyfriend-fear"
+  ],
+  "i-have-to-do-it-all-myself": [
+    "i-cant-find-love",
+    "i-dont-have-community",
+    "i-feel-lonely-i-cant-find-real-community",
+    "im-exhausted-holding-space-for-my-partner",
+    "the-more-i-grow-the-more-alone-i-feel",
+    "letting-it-in-vs-deflecting-the-welcome",
+    "repressed-trigger-in-the-body",
+    "reclaiming-abandonment",
+    "self-reliance-pushes-people-away",
+    "creating-safety-suppresses-self",
+    "apologize-for-not-seeing-the-help",
+    "intra-dependent-vs-codependent",
+    "asking-with-shame-invites-refusal",
+    "helplessness-is-the-gateway",
+    "joes-abandonment-mapping",
+    "vulnerability-in-the-workplace"
+  ],
+  "self-reliance-pushes-people-away": [
+    "i-cant-find-love",
+    "i-have-to-do-it-all-myself",
+    "anxious-avoidant-dynamic",
+    "push-pull-dynamics-in-dating"
+  ],
+  "transactional-relationships-as-defense": [
+    "i-cant-find-love",
+    "anxious-avoidant-dynamic",
+    "push-pull-dynamics-in-dating"
+  ],
+  "the-partner-checklist-doesnt-survive-the-actual-relationship": [
+    "i-cant-find-love",
+    "are-you-willing-to-do-the-work",
+    "anxious-avoidant-dynamic",
+    "push-pull-dynamics-in-dating",
+    "there-is-no-the-one",
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+  ],
+  "whatever-you-think-you-need-to-be-lovable-is-self-rejection": [
+    "i-cant-find-love",
+    "anxious-avoidant-dynamic",
+    "push-pull-dynamics-in-dating",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "from-looking-for-love-to-being-love",
+    "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
+  ],
+  "love-misconceptions-inherited-from-childhood": [
+    "i-cant-find-love",
+    "i-turned-out-fine",
+    "dont-add-anyway-to-love",
+    "conditional-clauses-of-heart-closure",
+    "fear-of-losing-yourself-in-love",
+    "love-as-deep-welcoming",
+    "complementary-trauma-surfaces",
+    "push-pull-dynamics-in-dating",
+    "losing-self-in-love-two-forms",
+    "different-languages-of-love",
+    "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+    "from-looking-for-love-to-being-love",
+    "what-was-wired-with-love-needs-untying",
+    "gandhi-isnt-weak",
+    "joes-abandonment-mapping"
+  ],
+  "heart-opening-needs-boundaries": [
+    "i-cant-find-love",
+    "fear-of-losing-yourself-in-love",
+    "creating-safety-suppresses-self",
+    "losing-self-in-love-two-forms",
+    "gandhi-isnt-weak",
+    "romantic-relationships"
+  ],
+  "losing-self-in-love-two-forms": [
+    "i-cant-find-love",
+    "fear-of-losing-yourself-in-love"
+  ],
+  "from-looking-for-love-to-being-love": [
+    "i-cant-find-love",
+    "fear-of-losing-yourself-in-love",
+    "love-misconceptions-inherited-from-childhood",
+    "push-pull-dynamics-in-dating",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "there-is-no-the-one",
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+    "what-was-wired-with-love-needs-untying",
+    "gandhi-isnt-weak"
+  ],
   "stronger-story-stuckier-emotion": [
     "i-cant-get-over-this-loss",
     "dont-block-emotion-waiting-for-reason",
@@ -646,7 +807,9 @@
     "grieve-the-marriage-to-save-it",
     "stronger-story-stuckier-emotion",
     "unprocessed-grief-creates-conflict",
-    "joes-friend-yuma-grief-drives"
+    "what-was-wired-with-love-needs-untying",
+    "joes-friend-yuma-grief-drives",
+    "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
   ],
   "grief-is-many-emotions-not-just-sadness": [
     "i-cant-get-over-this-loss",
@@ -952,6 +1115,7 @@
     "i-dont-have-community",
     "i-feel-lonely-i-cant-find-real-community",
     "i-have-to-do-it-all-myself",
+    "self-reliance-pushes-people-away",
     "vulnerability-in-the-workplace"
   ],
   "island-experiment": [
@@ -959,22 +1123,6 @@
     "i-feel-lonely-i-cant-find-real-community",
     "community",
     "the-attack-and-cling-test-of-real-community"
-  ],
-  "i-have-to-do-it-all-myself": [
-    "i-dont-have-community",
-    "i-feel-lonely-i-cant-find-real-community",
-    "im-exhausted-holding-space-for-my-partner",
-    "the-more-i-grow-the-more-alone-i-feel",
-    "letting-it-in-vs-deflecting-the-welcome",
-    "repressed-trigger-in-the-body",
-    "reclaiming-abandonment",
-    "creating-safety-suppresses-self",
-    "apologize-for-not-seeing-the-help",
-    "intra-dependent-vs-codependent",
-    "asking-with-shame-invites-refusal",
-    "helplessness-is-the-gateway",
-    "joes-abandonment-mapping",
-    "vulnerability-in-the-workplace"
   ],
   "i-have-all-my-eggs-in-one-basket": [
     "i-dont-have-community",
@@ -1187,6 +1335,7 @@
     "start-stay-end-in-connection",
     "view-around-self-as-identity-diagnostic",
     "case-the-consultant",
+    "gandhi-isnt-weak",
     "island-experiment",
     "finding-and-cultivating-community",
     "vulnerability-in-the-workplace"
@@ -1229,6 +1378,7 @@
     "container-of-love",
     "helplessness-as-cayenne-pepper-of-fear",
     "helplessness-distinguishes-death-grief",
+    "self-reliance-pushes-people-away",
     "one-team-member-holds-the-helplessness",
     "quit-hope-lose-cycle",
     "apologize-for-not-seeing-the-help",
@@ -1369,7 +1519,8 @@
     "grieve-the-marriage-to-save-it",
     "love-requires-empowerment",
     "feel-love-and-empowerment-as-the-same",
-    "esme-just-need-to-be-sad"
+    "esme-just-need-to-be-sad",
+    "gandhi-isnt-weak"
   ],
   "become-the-authority-figure": [
     "i-freeze-around-authority",
@@ -1397,6 +1548,7 @@
   "finite-love-is-precious-love": [
     "i-have-all-my-eggs-in-one-basket",
     "heartbreak-as-capacity-expansion",
+    "love-means-signing-up-to-be-hurt",
     "visualizing-feared-outcomes",
     "romantic-relationships"
   ],
@@ -1421,6 +1573,7 @@
     "annihilation-reveals-what-is-real",
     "death-is-not-the-end-of-the-relationship",
     "each-emotion-has-its-own-positive-flavor",
+    "love-means-signing-up-to-be-hurt",
     "mourn-the-breakup-fully",
     "nre-returns-in-grounded-form-after-each-healing",
     "relationships-as-personal-growth-path",
@@ -1493,6 +1646,7 @@
   "vulnerability-in-the-workplace": [
     "i-have-to-do-it-all-myself",
     "heartbreak-as-capacity-expansion",
+    "self-reliance-pushes-people-away",
     "vulnerability",
     "apologize-for-not-seeing-the-help",
     "diagnose-the-meeting-live",
@@ -1525,6 +1679,7 @@
     "poverty-mentality",
     "projections",
     "reclaiming-abandonment",
+    "self-reliance-pushes-people-away",
     "subconscious-partner-selection",
     "trappedness-feeling",
     "believing-the-convenient-lie",
@@ -1553,6 +1708,7 @@
     "engineering-heartbreak-to-avoid-heartbreak",
     "feeling-the-unfelt-emotion",
     "reclaiming-abandonment",
+    "self-reliance-pushes-people-away",
     "trauma-mapping",
     "what-we-fear-we-invite",
     "joes-daughter-new-boyfriend-fear"
@@ -1614,6 +1770,22 @@
     "trace-emotion-to-its-first-felt",
     "emile-three-relationships-with-fear",
     "predator-or-prey-hayes-valley"
+  ],
+  "i-cant-find-love": [
+    "i-have-to-do-it-all-myself",
+    "i-keep-chasing-emotionally-unavailable-people",
+    "fear-of-losing-yourself-in-love",
+    "love-misconceptions-inherited-from-childhood",
+    "self-reliance-pushes-people-away",
+    "push-pull-dynamics-in-dating",
+    "transactional-relationships-as-defense",
+    "hot-crushy-feeling-as-sugar-high",
+    "nre-returns-in-grounded-form-after-each-healing",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "there-is-no-the-one",
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+    "from-looking-for-love-to-being-love",
+    "what-was-wired-with-love-needs-untying"
   ],
   "i-need-to-improve-myself": [
     "i-have-to-do-it-all-myself",
@@ -1744,12 +1916,6 @@
     "the-change-or-no-change-visualization",
     "three-month-inherent-goodness-experiment",
     "three-kinds-of-limiting-beliefs"
-  ],
-  "anxious-avoidant-dynamic": [
-    "i-keep-chasing-emotionally-unavailable-people",
-    "what-we-fear-we-invite",
-    "joe-mina-china-overwhelm",
-    "joes-daughter-new-boyfriend-fear"
   ],
   "deconstruct-the-victim-to-release-anger": [
     "i-keep-chasing-emotionally-unavailable-people",
@@ -1903,7 +2069,9 @@
     "move-the-body-to-integrate-insight",
     "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
+    "try-to-feel-scared-then-stop-experiment",
     "visualizing-feared-outcomes",
+    "what-was-wired-with-love-needs-untying",
     "whats-looking-out-behind-my-eyes",
     "stages-of-emotional-development",
     "three-kinds-of-limiting-beliefs",
@@ -2110,18 +2278,6 @@
     "i-keep-postponing-enjoyment",
     "im-overwhelmed",
     "overwhelm"
-  ],
-  "craving-is-the-pushing-away": [
-    "i-keep-postponing-enjoyment",
-    "the-more-i-grow-the-more-alone-i-feel",
-    "what-makes-you-care-about-the-outcome",
-    "anxious-avoidant-dynamic",
-    "opposite-of-trying",
-    "resistance",
-    "wanting-vs-craving",
-    "if-you-think-youre-deciding-youre-in-fear",
-    "peace-is-what-we-resist-the-most",
-    "peace-precedes-joy-after-non-duality"
   ],
   "trying-to-get-rid-of-the-emotion": [
     "i-keep-postponing-enjoyment",
@@ -2571,18 +2727,21 @@
     "dont-use-boundaries-as-ultimatums",
     "dont-use-safety-as-control",
     "definition-of-asshole",
+    "fear-of-losing-yourself-in-love",
     "apologize-for-trying-to-control",
     "empathize-with-fear-under-constricted-boundary",
     "reflect-back-to-make-partner-feel-heard",
     "stay-close-and-insist",
     "boundary-with-vs-boundary-against",
     "letting-go-vs-doing-nothing",
+    "losing-self-in-love-two-forms",
     "allowing-creates-resilience",
     "boundaries-expand-as-capacity-grows",
     "dont-compromise-find-both-needs-met",
     "heart-opening-needs-boundaries",
     "triggers-reduce-when-you-know-you-can-leave",
-    "say-the-thing-youre-not-saying"
+    "say-the-thing-youre-not-saying",
+    "what-was-wired-with-love-needs-untying"
   ],
   "does-saying-it-increase-your-love|love test": [
     "i-need-to-set-boundaries"
@@ -2709,6 +2868,7 @@
     "if-i-had-more-money",
     "poverty-mentality",
     "material-problems-are-emotional-problems",
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
     "spend-time-across-class-boundaries",
     "money-domain"
   ],
@@ -3222,7 +3382,8 @@
     "embrace-vs-brace",
     "enjoy-over-manage",
     "decisions-are-emotional",
-    "negative-emotions-precede-positive"
+    "negative-emotions-precede-positive",
+    "try-to-feel-scared-then-stop-experiment"
   ],
   "connection-as-life-bottom-line": [
     "im-depressed",
@@ -3878,6 +4039,7 @@
     "voice-in-the-head",
     "vulnerability",
     "rehearsing-conversations",
+    "transactional-relationships-as-defense",
     "agree-when-challenged-on-the-teaching",
     "apply-view-to-the-voice",
     "ask-open-ended-non-judgmental-questions-when-triggered",
@@ -3959,10 +4121,12 @@
     "conflict-avoidance-prevents-being-loved",
     "trigger",
     "creating-safety-suppresses-self",
+    "push-pull-dynamics-in-dating",
     "us-vs-them-as-universal-manipulation-pattern",
     "humility-vs-disempowerment",
     "triggered-vs-big-emotion",
     "capacity-to-love-other-is-capacity-to-love-self",
+    "love-means-signing-up-to-be-hurt",
     "say-the-thing-youre-not-saying",
     "weekly-tension-inventory"
   ],
@@ -3998,6 +4162,7 @@
     "dont-try-to-change-your-partner",
     "anxious-avoidant-dynamic",
     "arms-of-the-cross-relationship",
+    "fear-of-losing-yourself-in-love",
     "love-misconceptions-inherited-from-childhood",
     "subconscious-partner-selection",
     "trauma-mapping",
@@ -4008,8 +4173,12 @@
     "mourn-the-breakup-fully",
     "nre-returns-in-grounded-form-after-each-healing",
     "relationships-as-personal-growth-path",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "there-is-no-the-one",
     "triggers-reveal-your-own-beliefs",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+    "what-was-wired-with-love-needs-untying",
+    "marriage-as-two-people-trying-to-find-out-theyre-good-enough",
     "tibetan-teacher-offending-students",
     "romantic-relationships"
   ],
@@ -4215,7 +4384,8 @@
     "identity",
     "soul-dysmorphia",
     "the-work-as-three-levels-of-change",
-    "three-layers-of-the-work"
+    "three-layers-of-the-work",
+    "gandhi-isnt-weak"
   ],
   "embrace-intensity": [
     "how-much-fight",
@@ -4286,6 +4456,7 @@
     "humility-in-the-system",
     "humility",
     "receive-the-projection-and-let-it-move-through",
+    "from-looking-for-love-to-being-love",
     "surround-yourself-with-people-who-make-fun-of-you"
   ],
   "humility": [
@@ -4309,16 +4480,6 @@
     "the-arrogantly-humble-paradox",
     "enjoyment-as-surrender",
     "feel-love-and-empowerment-as-the-same"
-  ],
-  "love-misconceptions-inherited-from-childhood": [
-    "i-turned-out-fine",
-    "dont-add-anyway-to-love",
-    "conditional-clauses-of-heart-closure",
-    "love-as-deep-welcoming",
-    "complementary-trauma-surfaces",
-    "different-languages-of-love",
-    "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
-    "joes-abandonment-mapping"
   ],
   "the-pattern-is-not-personal": [
     "i-turned-out-fine",
@@ -4443,8 +4604,10 @@
     "pleasure-capacity",
     "post-rest-second-wind-trap",
     "enjoy-over-manage",
+    "decisions-are-emotional",
     "what-we-fear-we-invite",
     "gratitude-rounds-before-meetings",
+    "try-to-feel-scared-then-stop-experiment",
     "cafe-emotional-stigma",
     "joes-laughing-meditation-retreat"
   ],
@@ -4527,6 +4690,8 @@
   "we-have-built-up-resentment": [
     "the-built-up-resentment-story",
     "conflict-avoidance-prevents-being-loved",
+    "push-pull-dynamics-in-dating",
+    "love-means-signing-up-to-be-hurt",
     "take-care-of-yourself-then-marriage-then-kids",
     "joe-and-tara-weekend-reset"
   ],
@@ -4573,6 +4738,41 @@
     "emotional-inquiry",
     "stages-of-emotional-development"
   ],
+  "dont-position-yourself-as-your-partners-growth-guide": [
+    "are-you-willing-to-do-the-work",
+    "dont-try-to-change-your-partner",
+    "relationships-as-personal-growth-path",
+    "romantic-relationships"
+  ],
+  "relationships-as-personal-growth-path": [
+    "are-you-willing-to-do-the-work",
+    "dont-position-yourself-as-your-partners-growth-guide",
+    "dont-try-to-change-your-partner",
+    "anxious-avoidant-dynamic",
+    "arms-of-the-cross-relationship",
+    "subconscious-partner-selection",
+    "complementary-trauma-surfaces",
+    "walking-on-eggshells",
+    "just-be-yourself-and-see-what-happens",
+    "intra-dependent-vs-codependent",
+    "walled-no-vs-open-hearted-limit",
+    "agreements-renegotiate-as-you-change",
+    "dont-compromise-find-both-needs-met",
+    "dont-take-responsibility-for-anothers-happiness",
+    "nre-returns-in-grounded-form-after-each-healing",
+    "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+    "marriage-as-two-people-trying-to-find-out-theyre-good-enough",
+    "tibetan-teacher-offending-students",
+    "romantic-relationships"
+  ],
+  "nre-returns-in-grounded-form-after-each-healing": [
+    "are-you-willing-to-do-the-work",
+    "arms-of-the-cross-relationship",
+    "hot-crushy-feeling-as-sugar-high",
+    "losing-self-in-love-two-forms",
+    "relationships-as-personal-growth-path",
+    "romantic-relationships"
+  ],
   "daily-emotional-yoga": [
     "can-you-look-forward-to-feeling-it",
     "dont-name-emotion-to-avoid-feeling",
@@ -4592,6 +4792,7 @@
     "get-angry-in-the-car",
     "let-your-body-shake-it-out",
     "love-relationship-with-anxiety",
+    "try-to-feel-scared-then-stop-experiment",
     "stages-of-emotional-development",
     "cafe-emotional-stigma",
     "joes-crying-story"
@@ -4607,6 +4808,7 @@
     "boundaries",
     "conditional-clauses-of-heart-closure",
     "defense",
+    "fear-of-losing-yourself-in-love",
     "love-as-deep-welcoming",
     "love-misconceptions-inherited-from-childhood",
     "upright-undefended-love",
@@ -4617,6 +4819,7 @@
     "caring-vs-caretaking",
     "defense-vs-love",
     "just-business-vs-impersonal",
+    "losing-self-in-love-two-forms",
     "love-vs-nice",
     "resentment-as-caretaking-diagnostic",
     "walled-no-vs-open-hearted-limit",
@@ -4629,6 +4832,7 @@
     "heart-opening-needs-boundaries",
     "resentment-as-unspoken-want",
     "subjugation-prevents-healing",
+    "gandhi-isnt-weak",
     "joes-board-member",
     "joes-dad-drinking-boundary",
     "tire-shop-guy-customer-container",
@@ -4848,6 +5052,7 @@
   "emotional-fluidity": [
     "acting-out-emotions-as-fluidity",
     "anger-as-cover-for-deeper-emotion",
+    "comparative-mind",
     "connection",
     "emotions-and-stories-dance",
     "grief-is-many-emotions-not-just-sadness",
@@ -4905,6 +5110,7 @@
     "what-we-fear-we-invite",
     "daily-emotional-yoga",
     "three-reflection-questions-on-anger",
+    "try-to-feel-scared-then-stop-experiment",
     "stages-of-emotional-development",
     "cafe-emotional-stigma",
     "electric-fence-with-dog",
@@ -5293,6 +5499,8 @@
     "heart-opening-needs-boundaries",
     "relationships-as-personal-growth-path",
     "take-care-of-yourself-then-marriage-then-kids",
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+    "from-looking-for-love-to-being-love",
     "love-yourself-the-way-you-always-wanted",
     "bar-couple-priority-order",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint"
@@ -5310,6 +5518,7 @@
     "exercises-need-body-voice-emotion",
     "mind-unsees-first-body-last",
     "daily-emotional-yoga",
+    "try-to-feel-scared-then-stop-experiment",
     "conditions-for-transformation",
     "stages-of-emotional-development"
   ],
@@ -5338,25 +5547,6 @@
     "red-flags-of-a-teacher-or-path",
     "esme-step-by-step-project",
     "joes-no-compliments-daughter"
-  ],
-  "relationships-as-personal-growth-path": [
-    "dont-position-yourself-as-your-partners-growth-guide",
-    "dont-try-to-change-your-partner",
-    "anxious-avoidant-dynamic",
-    "arms-of-the-cross-relationship",
-    "subconscious-partner-selection",
-    "complementary-trauma-surfaces",
-    "walking-on-eggshells",
-    "just-be-yourself-and-see-what-happens",
-    "intra-dependent-vs-codependent",
-    "walled-no-vs-open-hearted-limit",
-    "agreements-renegotiate-as-you-change",
-    "dont-compromise-find-both-needs-met",
-    "dont-take-responsibility-for-anothers-happiness",
-    "nre-returns-in-grounded-form-after-each-healing",
-    "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
-    "tibetan-teacher-offending-students",
-    "romantic-relationships"
   ],
   "what-you-cant-love-in-partner-is-what-you-cant-love-in-self": [
     "dont-position-yourself-as-your-partners-growth-guide",
@@ -5479,11 +5669,6 @@
     "two-words-for-fear",
     "annihilation-reveals-what-is-real",
     "emile-three-relationships-with-fear"
-  ],
-  "dont-position-yourself-as-your-partners-growth-guide": [
-    "dont-try-to-change-your-partner",
-    "relationships-as-personal-growth-path",
-    "romantic-relationships"
   ],
   "does-saying-it-increase-your-love": [
     "dont-use-boundaries-as-ultimatums",
@@ -5624,13 +5809,16 @@
     "send-the-message-that-youre-whole",
     "take-contrary-action",
     "boundary-with-vs-boundary-against",
+    "hot-crushy-feeling-as-sugar-high",
     "love-vs-nice",
     "softening-as-caring-diagnostic",
     "capacity-to-love-other-is-capacity-to-love-self",
     "different-languages-of-love",
     "love-is-the-best-change-agent",
+    "love-means-signing-up-to-be-hurt",
     "love-requires-empowerment",
     "feel-love-and-empowerment-as-the-same",
+    "from-looking-for-love-to-being-love",
     "love-yourself-the-way-you-always-wanted",
     "four-faces-of-love",
     "view",
@@ -5829,9 +6017,6 @@
     "staying-in-your-body",
     "body-awareness-in-meetings"
   ],
-  "i-keep-chasing-emotionally-unavailable-people": [
-    "anxious-avoidant-dynamic"
-  ],
   "being-heard": [
     "apologies-as-power-struggle-surrogate",
     "ask-open-ended-non-judgmental-questions-when-triggered",
@@ -5846,12 +6031,11 @@
     "love-misconceptions-inherited-from-childhood",
     "complementary-trauma-surfaces",
     "intellectual-emotional-polarization-in-couples",
+    "transactional-relationships-as-defense",
     "management-required-to-launch-predicts-management-required-forever",
-    "romantic-relationships"
-  ],
-  "nre-returns-in-grounded-form-after-each-healing": [
-    "arms-of-the-cross-relationship",
-    "relationships-as-personal-growth-path",
+    "the-partner-checklist-doesnt-survive-the-actual-relationship",
+    "there-is-no-the-one",
+    "marriage-as-two-people-trying-to-find-out-theyre-good-enough",
     "romantic-relationships"
   ],
   "connection": [
@@ -5939,6 +6123,7 @@
     "pucker-and-still-say-it",
     "over-control-vs-hands-off-oscillation",
     "different-languages-of-love",
+    "love-means-signing-up-to-be-hurt",
     "three-effects-of-connection",
     "trust-requires-conflict",
     "what-is-truly-compassionate",
@@ -6027,7 +6212,9 @@
   ],
   "take-contrary-action": [
     "conditional-clauses-of-heart-closure",
-    "love-yourself-the-way-you-always-wanted"
+    "from-looking-for-love-to-being-love",
+    "love-yourself-the-way-you-always-wanted",
+    "what-was-wired-with-love-needs-untying"
   ],
   "loving-conflict-vs-wanting-conflict|wanting conflict": [
     "conflict-as-evolutionary-tension"
@@ -6090,6 +6277,7 @@
   "tension-return-to-love-cycle": [
     "connection",
     "embracing-vs-creating-intensity",
+    "love-means-signing-up-to-be-hurt",
     "nre-returns-in-grounded-form-after-each-healing",
     "three-effects-of-connection"
   ],
@@ -6276,8 +6464,12 @@
     "emotional-fluidity",
     "you-dont-control-emotions-they-dont-control-you"
   ],
-  "joes-marijuana-released-by-anger": [
-    "emotional-fluidity"
+  "joes-pot-habit": [
+    "emotional-fluidity",
+    "embracing-changes-unconscious-decisions",
+    "full-understanding-of-a-behavior-dissolves-it",
+    "apologize-as-daily-practice-for-bad-habits",
+    "joes-hacky-sack"
   ],
   "decisions-are-emotional": [
     "emotional-fluidity",
@@ -6305,7 +6497,17 @@
     "body-awareness-in-meetings"
   ],
   "try-to-feel-scared-then-stop-experiment": [
-    "emotional-fluidity"
+    "emotional-fluidity",
+    "emotions-live-in-muscles"
+  ],
+  "each-emotion-has-its-own-positive-flavor": [
+    "emotional-fluidity",
+    "joy-as-matriarch",
+    "joes-pot-habit"
+  ],
+  "you-cant-let-go-of-emotions-only-thoughts": [
+    "emotional-fluidity",
+    "you-dont-control-emotions-they-dont-control-you"
   ],
   "unwelcomed-emotions-return-until-felt": [
     "emotions-show-up-at-inopportune-times",
@@ -6345,6 +6547,24 @@
     "helplessness-vs-surrender",
     "helplessness-is-the-gateway",
     "5-second-spice-check"
+  ],
+  "love-means-signing-up-to-be-hurt": [
+    "fear-of-losing-yourself-in-love",
+    "gandhi-isnt-weak"
+  ],
+  "knowing-yourself-is-the-only-safety": [
+    "fear-of-losing-yourself-in-love",
+    "overwhelm",
+    "three-keepers-of-stuck-beliefs",
+    "losing-self-in-love-two-forms",
+    "safety-that-connects-vs-disconnects-from-reality",
+    "trust-vs-safety",
+    "identity-lags-behind-growth",
+    "love-means-signing-up-to-be-hurt",
+    "ask-from-slowness-not-intellect",
+    "brett-cape-town-napkins",
+    "brett-slackline-metaphor",
+    "esme-math-final"
   ],
   "loving-the-feeling-not-just-with-it": [
     "feel-your-way-to-freedom"
@@ -6430,7 +6650,9 @@
   ],
   "grieve-the-marriage-to-save-it": [
     "grief-as-identity-dismantling",
+    "love-means-signing-up-to-be-hurt",
     "nre-returns-in-grounded-form-after-each-healing",
+    "relationships-as-personal-growth-path",
     "take-care-of-yourself-then-marriage-then-kids",
     "visualizing-feared-outcomes"
   ],
@@ -6768,17 +6990,6 @@
     "overwhelm",
     "listen-as-the-wisest-person"
   ],
-  "knowing-yourself-is-the-only-safety": [
-    "overwhelm",
-    "three-keepers-of-stuck-beliefs",
-    "safety-that-connects-vs-disconnects-from-reality",
-    "trust-vs-safety",
-    "identity-lags-behind-growth",
-    "ask-from-slowness-not-intellect",
-    "brett-cape-town-napkins",
-    "brett-slackline-metaphor",
-    "esme-math-final"
-  ],
   "reducing-overwhelm-in-organizations": [
     "overwhelm",
     "one-team-member-holds-the-helplessness",
@@ -7015,6 +7226,7 @@
   ],
   "agreements-renegotiate-as-you-change": [
     "trigger",
+    "transactional-relationships-as-defense",
     "walking-on-eggshells",
     "intra-dependent-vs-codependent",
     "dont-compromise-find-both-needs-met",
@@ -7130,10 +7342,6 @@
     "relationships-as-personal-growth-path",
     "romantic-relationships"
   ],
-  "heart-opening-needs-boundaries": [
-    "creating-safety-suppresses-self",
-    "romantic-relationships"
-  ],
   "red-flags-of-a-teacher-or-path": [
     "downward-spiral-between-teacher-and-students",
     "us-vs-them-as-universal-manipulation-pattern",
@@ -7233,6 +7441,9 @@
     "treat-yourself-as-actor-of-emotion",
     "fake-the-anger-to-let-it-move"
   ],
+  "three-stages-of-negotiation": [
+    "transactional-relationships-as-defense"
+  ],
   "covey-subway-story": [
     "agree-when-challenged-on-the-teaching",
     "sorry-from-shame-vs-sorry-as-solidarity",
@@ -7314,6 +7525,7 @@
   "letting-it-in-vs-deflecting-the-welcome": [
     "let-it-move-through-and-clean-the-channel",
     "welcoming-the-others-emotion",
+    "from-looking-for-love-to-being-love",
     "sadie-christopher-anger-together"
   ],
   "the-opposite-of-trying": [
@@ -7342,6 +7554,7 @@
     "stay-close-and-insist",
     "boundary-with-vs-boundary-against",
     "dont-compromise-find-both-needs-met",
+    "what-was-wired-with-love-needs-untying",
     "romantic-relationships"
   ],
   "teach-teenagers-to-be-their-own-authority": [
@@ -7630,12 +7843,6 @@
   "natural dissolution of stuck patterns": [
     "embrace-intensity"
   ],
-  "joes-pot-habit": [
-    "embracing-changes-unconscious-decisions",
-    "full-understanding-of-a-behavior-dissolves-it",
-    "apologize-as-daily-practice-for-bad-habits",
-    "joes-hacky-sack"
-  ],
   "joes-rental-house-anger": [
     "enjoyment-as-path",
     "feeling-changes-story"
@@ -7834,8 +8041,9 @@
   "joes-daughter-new-boyfriend-fear": [
     "what-we-fear-we-invite"
   ],
-  "you-cant-let-go-of-emotions-only-thoughts": [
-    "you-dont-control-emotions-they-dont-control-you"
+  "love-yourself-the-way-you-always-wanted": [
+    "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+    "from-looking-for-love-to-being-love"
   ],
   "community-grief-ceremony": [
     "your-issue-is-the-communitys-issue",
@@ -7953,6 +8161,9 @@
   "happy-money-game": [
     "joes-pleasing-dad-money-story",
     "money-domain"
+  ],
+  "are-you-willing-to-do-the-work": [
+    "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
   ],
   "us-vs-them": [
     "political-signs-steakhouse-story"

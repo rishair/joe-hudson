@@ -4054,10 +4054,25 @@
     },
     {
       "folder": "2023-10-27_Emotional Fluidity - Emotion Series #13",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T11:27:38Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "you-cant-let-go-of-emotions-only-thoughts",
+        "you-dont-control-emotions-they-dont-control-you",
+        "each-emotion-has-its-own-positive-flavor",
+        "acting-out-emotions-as-fluidity",
+        "try-to-feel-scared-then-stop-experiment"
+      ],
+      "articles_updated": [
+        "emotional-fluidity",
+        "joes-pot-habit",
+        "emotions-live-in-muscles",
+        "decisions-are-emotional",
+        "comparative-mind",
+        "joy-as-matriarch"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T11:40:55Z"
     },
     {
       "folder": "2023-10-30_Emotional Fluidity",
@@ -4072,8 +4087,60 @@
     },
     {
       "folder": "2023-11-10_Finding a Romantic Partner",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T11:38:21Z",
+      "articles_created": [
+        "i-cant-find-love",
+        "fear-of-losing-yourself-in-love",
+        "push-pull-dynamics-in-dating",
+        "transactional-relationships-as-defense",
+        "love-means-signing-up-to-be-hurt",
+        "there-is-no-the-one",
+        "from-looking-for-love-to-being-love",
+        "self-reliance-pushes-people-away",
+        "losing-self-in-love-two-forms",
+        "the-partner-checklist-doesnt-survive-the-actual-relationship",
+        "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+        "gandhi-isnt-weak"
+      ],
+      "articles_updated": [
+        "i-keep-chasing-emotionally-unavailable-people",
+        "i-have-to-do-it-all-myself",
+        "anxious-avoidant-dynamic",
+        "love-misconceptions-inherited-from-childhood",
+        "complementary-trauma-surfaces",
+        "nre-returns-in-grounded-form-after-each-healing",
+        "relationships-as-personal-growth-path"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T11:59:26Z"
+    },
+    {
+      "folder": "2023-11-10_Finding a Romantic Partner \u2014 Relationships Series #3",
+      "status": "complete",
+      "claimed_at": "2026-05-22T11:42:26Z",
+      "articles_created": [
+        "losing-self-in-love-two-forms",
+        "hot-crushy-feeling-as-sugar-high",
+        "what-was-wired-with-love-needs-untying",
+        "are-you-willing-to-do-the-work",
+        "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
+      ],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T12:00:53Z"
+    },
+    {
+      "folder": "2023-11-24_What We're Afraid to Lose",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T12:01:44Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2023-12-07_What We're Afraid to Lose",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T12:02:51Z",
       "articles_created": [],
       "articles_updated": []
     }

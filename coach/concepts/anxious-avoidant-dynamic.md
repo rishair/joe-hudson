@@ -4,8 +4,8 @@ id: anxious-avoidant-dynamic
 title: "The Anxious-Avoidant Dynamic (Chasing as the Push-Away)"
 aliases: ["anxious avoidant dynamic", "the chaser and the aloof", "the pursuer and the distancer", "chasing pushes away", "neediness pushes away", "jealousy pushes away", "love equals chasing", "scared of receiving love", "the chasing configuration", "the pursuit-distance pattern", "fear of being adored", "the receiving abyss", "scared of love where I receive"]
 tags: ["relationships", "attachment", "anxious avoidant", "pursuit-distance", "trauma mapping", "chasing"]
-related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "craving-is-the-pushing-away", "engineering-heartbreak-to-avoid-heartbreak", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "chase-it-around-the-room", "i-keep-chasing-emotionally-unavailable-people", "mourn-the-breakup-fully", "without-grief-we-recreate-the-pattern"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
+related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "craving-is-the-pushing-away", "engineering-heartbreak-to-avoid-heartbreak", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "chase-it-around-the-room", "i-keep-chasing-emotionally-unavailable-people", "mourn-the-breakup-fully", "without-grief-we-recreate-the-pattern", "push-pull-dynamics-in-dating", "fear-of-losing-yourself-in-love", "self-reliance-pushes-people-away", "transactional-relationships-as-defense"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-11-10_Finding a Romantic Partner"]
 ---
 
 # The Anxious-Avoidant Dynamic (Chasing as the Push-Away)
@@ -110,7 +110,22 @@ The configuration is so well-defended that it usually resists the surface frame 
 
 Joe is direct and a little unsparing on this. The empowering reframe ("you are choosing this") is delivered as a fact, not as a confrontation. He acknowledges that most people will reject it at first. The tone is steady, not soft. The pattern has been doing real harm and the person already knows.
 
+## Position Within the Family of Push-Pull Forms
+
+The chasing-of-the-unavailable is one of the most-developed forms of the broader [[push-pull-dynamics-in-dating]] pattern. The structural shape -- consciously reaching for love while subconsciously pushing it away -- is the same across the family. The forms differ in which specific behavior is doing the pushing:
+
+- **Chasing the unavailable** (this article): the chase is the push. The available person is unattractive precisely because availability is the refused state.
+- **Jealousy**: the abuse and possession is the push. "I want you, I want you / I'm going to drive you away."
+- **Neediness**: the parent-child installation is the push. "Be here for me / I'm putting you in a position where you cannot be my peer."
+- **Hyper-independence**: the wall is the push. "I'm yours / I don't need anything from you." See [[self-reliance-pushes-people-away]].
+- **Transactionality**: the constant negotiation is the push. "Let's be together / let me contract our way out of intimacy." See [[transactional-relationships-as-defense]].
+- **The criteria checklist**: the narrow criteria are the push. See [[the-partner-checklist-doesnt-survive-the-actual-relationship]].
+- **The "not enough" frame**: the wait-to-qualify is the push. See [[whatever-you-think-you-need-to-be-lovable-is-self-rejection]].
+
+Most people running this configuration run multiple forms at once. The chasing-of-the-unavailable rarely shows up alone. The diagnostic and the work are the same: see the structure, surface what is being avoided ([[fear-of-losing-yourself-in-love]]), feel the avoided emotional content, and the configuration dissolves.
+
 ## Sources
 
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
+- 2023-11-10_Finding a Romantic Partner (situating the chasing configuration as one of many push-pull forms in dating; the multi-form reality of how the pattern shows up; the connection to fear of losing self as underlying motivator across forms)

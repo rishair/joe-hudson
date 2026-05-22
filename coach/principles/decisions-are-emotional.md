@@ -50,6 +50,16 @@ Gödel showed that all logical systems are either incomplete or rest on a postul
 
 This is also why [[judgment-vs-discernment]] matters in decision-making. Judgments are decisions made through the lens of an unfelt emotion. Discernment is clean reading of the data.
 
+## Indecisiveness Is Fear of the Feeling on Either Side
+
+A specific sharpening of how unfelt emotion produces decision paralysis: indecisive people are usually scared of getting the decision wrong, and sometimes scared of getting it right. Both fears are fears of the feeling that would arrive with the outcome. With more emotional fluidity, the choice loses the weight that produces paralysis, because the person knows they will be able to feel whatever arrives without it destroying them.
+
+"Emotional fluidity does a tremendous amount for decisiveness because you're not so worried about getting it right or wrong all the time. And usually people who are indecisive are really scared to get it wrong or sometimes get it right." -- Joe Hudson, Emotional Fluidity
+
+The "or sometimes get it right" qualifier is the under-noticed half. People understand that fear of failure produces indecision. Fear of success producing indecision is less obvious but operates in the same way. The decisional weight comes from the feeling that the right outcome would also be unbearable -- too much exposure, too much responsibility, too much joy that would have to be defended against. See [[fear-of-joy]] and the "fear of positive feelings distorts decisions too" section below.
+
+The corrective is not better deliberation. The corrective is fluidity on both directions, so that neither right nor wrong is structurally too much to feel.
+
 ## The Key Is Willingness to Feel Any State
 
 The practical formulation: great decision-making is not logical thinking through the options. It is not "being non-emotional." It is the willingness to feel any emotional state.
@@ -179,3 +189,4 @@ Each mechanism reinforces the others. Better decisions reduce the situations tha
 - 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the SWOT-analysis tell, the Darwin pro-and-con list example, the assumption-stack inside the intellect's service)
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the depression-breeds-depression formulation; the billion-dollars-but-miserable thought experiment; the three-mechanisms framing tying decisions to pattern interruption and connection)
+- 2023-10-27_Emotional Fluidity - Emotion Series #13 (the indecisiveness-is-fear-of-the-feeling formulation, including the often-missed half about fear of getting it right; the framing of decisiveness as a downstream benefit of emotional fluidity)

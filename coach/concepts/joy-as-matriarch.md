@@ -125,6 +125,7 @@ Warm. The matriarch image is offered with affection. The emotions are not proble
 - Toward [[feeling-the-unfelt-emotion]]: the practice of welcoming the family back in.
 - Toward [[pleasure-capacity]]: the related concept about why the nervous system limits both directions of intensity together.
 - Toward [[kinked-emotions]]: the mechanism by which suppression of one emotion closes the channel for joy.
+- Toward [[each-emotion-has-its-own-positive-flavor]]: each child of the matriarch, when allowed, brings its own specific gift -- not just the general arrival of joy. Sadness brings a particular kind of joy. Anger brings clarity. Fear brings excitement. The matriarch teaching gives the family-level reason joy returns; the each-emotion-flavor teaching gives the per-child specifics.
 
 ## Sources
 
