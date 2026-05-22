@@ -5,7 +5,7 @@ title: "Tell Them Like an Asshole, Then Like Not an Asshole"
 aliases: ["the asshole exercise", "leader want excavation", "say it the rude way then say it nice", "leader hidden want exercise", "the three deliveries exercise", "asshole, non-asshole, hedging exercise", "asking leaders for the unhedged want"]
 tags: ["leadership", "wants", "live exercise", "coaching move", "directness"]
 related: ["sublimated-wants-become-politics", "wants-vs-partiality", "the-want", "owning-the-want-dissolves-it", "no-doctrine-leadership", "structure-and-empowerment"]
-sources: ["2021-11-19_What is Selfishness?"]
+sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？"]
 ---
 
 # Tell Them Like an Asshole, Then Like Not an Asshole
@@ -93,3 +93,4 @@ Joe brings this move with a playful, experimental tone. "Just try saying it the 
 ## Sources
 
 - 2021-11-19_What is Selfishness?
+- 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)

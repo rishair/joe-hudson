@@ -5,7 +5,7 @@ title: "Need Behind the Want"
 aliases: ["what's the need behind that want", "need behind want practice", "the want excavation", "drilling down on the want", "the want guilt practice", "writing down the guilty want", "tracing the want to the need", "the want-to-need question"]
 tags: ["wants", "practice", "shame", "guilt", "self-inquiry", "writing"]
 related: ["the-want", "owning-the-want-dissolves-it", "wants-deepen-as-you-follow-them", "selfishness-is-the-engine-of-unity", "am-i-being-selfish", "feeling-the-want-as-emotion"]
-sources: ["2021-11-19_What is Selfishness?"]
+sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？"]
 ---
 
 # Need Behind the Want
@@ -92,3 +92,4 @@ But Joe is clear that the original want should not be skipped just because a dee
 ## Sources
 
 - 2021-11-19_What is Selfishness?
+- 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)

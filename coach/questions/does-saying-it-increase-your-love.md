@@ -5,7 +5,7 @@ title: "Does saying it increase your love for them?"
 aliases: ["does it increase your love", "the love test", "the love test for boundaries", "the boundary diagnostic question", "would saying it open your heart", "does saying this open your heart", "the boundary love check"]
 tags: ["boundaries", "love", "diagnostic", "questions", "discernment"]
 related: ["boundaries", "boundary-with-vs-boundary-against", "dont-use-boundaries-as-ultimatums", "love-as-deep-welcoming", "embrace-vs-brace"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 
 # Does saying it increase your love for them?
@@ -88,4 +88,5 @@ The test relocates the success criterion. The point of the boundary is not to ma
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2021-04-09_Love over Defense -- Master Class Series #9

@@ -4,8 +4,8 @@ id: story
 title: "Story"
 aliases: ["what a story is", "the story", "idea structure around experience", "any thought is a story", "story definition", "thought as story", "every thought is a story", "narrative around experience", "the framing of experience"]
 tags: ["story", "thought", "narrative", "belief", "experience", "concept"]
-related: ["limiting-belief", "untruth-in-every-thought", "voice-in-the-head", "emotions-and-stories-dance", "feeling-changes-story", "stronger-story-stuckier-emotion", "emotional-fluidity", "feel-over-figure"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+related: ["limiting-belief", "untruth-in-every-thought", "voice-in-the-head", "emotions-and-stories-dance", "feeling-changes-story", "stronger-story-stuckier-emotion", "emotional-fluidity", "feel-over-figure", "story-dissolution-is-progress"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # Story
@@ -90,6 +90,7 @@ See [[stories-are-developmental-scaffolding]] for the principle.
 - Toward [[stronger-story-stuckier-emotion]] when the emotion is stuck and the story is rigid.
 - Toward [[untruth-in-every-thought]] for the inquiry practice on a specific story.
 - Toward [[stories-are-developmental-scaffolding]] when the question is whether to keep or release a particular story.
+- Toward [[story-dissolution-is-progress]] when the person is alarmed by stories dissipating and emotions arising without explanation.
 - Toward [[self-realization]] when the inquiry is into what is true when no story is held.
 
 ## Boundary Conditions
@@ -100,4 +101,5 @@ The teaching is meant to loosen the grip of belief, not to disqualify all thinki
 
 ## Sources
 
-- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

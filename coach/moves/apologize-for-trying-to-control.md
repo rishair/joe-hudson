@@ -5,7 +5,7 @@ title: "Apologize for Trying to Control"
 aliases: ["apologize for the controlling move", "I'm sorry I was trying to control you", "the controlling-apology move", "noticing the control and apologizing", "the relationship-repair apology", "non-shame apology after controlling", "the realtime correction apology"]
 tags: ["apology", "control", "boundaries", "moves", "repair", "self-correction", "vulnerability"]
 related: ["boundaries", "dont-use-boundaries-as-ultimatums", "sorry-from-shame-vs-sorry-as-solidarity", "owning-your-partiality", "vulnerability", "upright-apology", "dont-use-you-in-an-apology", "apologize-to-exit-a-fight"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-06-24_The Upright Apology- Accountability Without Shame"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-06-24_The Upright Apology- Accountability Without Shame"]
 ---
 
 # Apologize for Trying to Control
@@ -106,4 +106,5 @@ The voice should match the original moment. If you were sharp in the controlling
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2022-06-24_The Upright Apology- Accountability Without Shame

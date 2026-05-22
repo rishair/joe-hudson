@@ -5,7 +5,7 @@ title: "Emotions and Stories Dance (The Bidirectional Relationship)"
 aliases: ["emotions and stories interact", "the dance of story and emotion", "stories and emotions interact", "story emotion bidirectional", "stories change emotions emotions change stories", "the interplay of story and feeling", "story-emotion relationship"]
 tags: ["story", "emotions", "transformation", "limiting beliefs", "core mechanism"]
 related: ["story", "feeling-changes-story", "stronger-story-stuckier-emotion", "feeling-the-unfelt-emotion", "limiting-belief", "feel-over-figure", "wants-over-shoulds", "logic-vs-emotional-movement", "emotional-fluidity"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # Emotions and Stories Dance (The Bidirectional Relationship)
@@ -104,4 +104,5 @@ The diagnostic question becomes: are the emotions actually moving fluidly? If no
 
 ## Sources
 
-- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

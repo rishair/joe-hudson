@@ -5,7 +5,7 @@ title: "The Want"
 aliases: ["want as impulse", "want as emotion", "wanting as feeling", "the deep want", "want as longing", "longing", "desire as feeling"]
 tags: ["wants", "emotion", "impulse", "desire", "longing", "love"]
 related: ["wants-over-shoulds", "wanting-vs-craving", "feeling-the-want-as-emotion", "owning-the-want-dissolves-it", "wants-deepen-as-you-follow-them", "selfishness-is-the-engine-of-unity", "listening-to-impulse", "feeling-the-unfelt-emotion", "kinked-emotions", "sublimated-wants-become-politics", "resentment-as-unspoken-want", "need-behind-the-want"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?", "2022-10-26_Want Over Should"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?", "2022-10-26_Want Over Should", "2022-10-26_What Is Selfishness？"]
 ---
 
 # The Want
@@ -92,3 +92,4 @@ The leadership form of the principle: when the leader says exactly what they wan
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-11-19_What is Selfishness?
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
+- 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)

@@ -5,7 +5,7 @@ title: "The Aggressive Victim Stance (Topping from the Bottom)"
 aliases: ["topping from the bottom", "aggressive victim", "victim becomes aggressor", "abused becomes abuser", "weaponized victimhood", "victim power move", "control through victimhood", "the victim who dominates"]
 tags: ["fear-triangle", "victim", "power-dynamics", "manipulation", "abuse", "boundaries"]
 related: ["fear-triangle", "victim-stance-invites-abuse", "dont-use-safety-as-control", "vulnerability-as-control", "weaponized-not-caretaking", "empowered-vs-power"]
-sources: ["2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
 ---
 
 # The Aggressive Victim Stance (Topping from the Bottom)
@@ -112,3 +112,4 @@ The other diagnostic: does the person become flexible when offered real solution
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)

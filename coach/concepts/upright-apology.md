@@ -5,7 +5,7 @@ title: "The Upright Apology"
 aliases: ["upright apology", "empowered apology", "shameless apology", "apology as transformation tool", "the empowered sorry", "apology from your power", "responsibility without shame", "back upright apology", "apology from the upright body", "non-shame apology"]
 tags: ["apology", "shame", "empowerment", "responsibility", "transformation", "body", "vulnerability"]
 related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology"]
 ---
 
 # The Upright Apology
@@ -159,4 +159,5 @@ It is also not a substitute for changed behavior. The apology is the surface eve
 - 2022-06-24_The Upright Apology- Accountability Without Shame
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2022-10-26_The Upright Apology

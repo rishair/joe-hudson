@@ -5,7 +5,7 @@ title: "Boundary With vs. Boundary Against"
 aliases: ["boundary with not against", "drawing boundary with", "boundary as connection not separation", "loving boundary", "boundary as gift", "open-hearted boundary"]
 tags: ["boundaries", "love", "vulnerability", "connection"]
 related: ["boundaries", "love-as-deep-welcoming", "defense", "caring-vs-caretaking", "vulnerability", "dont-do-emotion-at-people", "does-saying-it-increase-your-love", "dont-use-boundaries-as-ultimatums"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_Love Over Defense"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_Love Over Defense"]
 ---
 
 # Boundary With vs. Boundary Against
@@ -131,4 +131,5 @@ A boundary drawn with [[vulnerability]] (here is what is true for me), [[imparti
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2022-10-26_Love Over Defense (podcast version of the masterclass)

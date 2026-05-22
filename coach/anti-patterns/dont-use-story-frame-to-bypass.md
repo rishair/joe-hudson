@@ -4,7 +4,7 @@ id: dont-use-story-frame-to-bypass
 title: "Don't Use 'It's Just a Story' to Bypass the Feeling Work"
 aliases: ["it's just a story as bypass", "story-deconstruction bypass", "intellectual story bypass", "seeing through stories without feeling", "mental sidestep using story frame", "nothing is real bypass", "what is free will dismissal", "deconstructing without feeling"]
 tags: ["story", "bypass", "intellectualizing", "emotions", "anti-pattern"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # Don't Use "It's Just a Story" to Bypass the Feeling Work
@@ -68,4 +68,5 @@ The move when this pattern shows up: redirect from "what do you think" to "what 
 
 ## Sources
 
-- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

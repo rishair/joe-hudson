@@ -5,7 +5,7 @@ title: "Empathize With the Fear Under the Constricted Boundary"
 aliases: ["meet the fear behind the demanding boundary", "respond to demanding boundary with empathy", "see them seen behind the ultimatum", "empathy for the demanding boundary", "the ultimatum is fear", "Joan and Alexa role play", "respond to the constricted ask with warmth"]
 tags: ["boundaries", "empathy", "moves", "fear", "deescalation", "role-play"]
 related: ["dont-use-boundaries-as-ultimatums", "boundaries", "fear-triangle", "name-the-authoritys-fear", "acknowledge-the-fear-by-role"]
-sources: ["2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
 ---
 
 # Empathize With the Fear Under the Constricted Boundary
@@ -99,3 +99,4 @@ The discriminator: is the constriction coming from fear of not being respected (
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)

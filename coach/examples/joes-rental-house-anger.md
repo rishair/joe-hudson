@@ -5,7 +5,7 @@ title: "Joe's Rental House: The Kick in the Stomach"
 aliases: ["the rental house story", "Joe driving past the rental house", "the kick in the stomach story", "Joe feeling through anger at the neighbors", "the daughter yelled at story", "the 2 to 3 weeks anger story", "milking the kick"]
 tags: ["anger", "feeling-through", "story-change", "example", "Joe's biography"]
 related: ["feeling-changes-story", "feeling-the-unfelt-emotion", "visceral-clarity-from-anger", "emotions-and-stories-dance", "stronger-story-stuckier-emotion"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Embarking On The Journey"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Embarking On The Journey", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # Joe's Rental House: The Kick in the Stomach
@@ -93,4 +93,6 @@ This example is especially useful for someone who is sophisticated cognitively a
 
 ## Sources
 
-- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
+- 2022-10-26_Embarking On The Journey (Joe's retelling with the enjoy-the-uncomfortable framing)
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

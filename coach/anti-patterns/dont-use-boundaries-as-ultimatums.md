@@ -5,7 +5,7 @@ title: "Don't Confuse Boundaries with Ultimatums"
 aliases: ["boundary vs ultimatum", "the ultimatum disguised as boundary", "boundaries that demand", "boundaries asking for change", "ultimatum dressed as boundary", "weaponized boundaries", "controlling boundaries", "boundary as power move", "the demanding boundary"]
 tags: ["boundaries", "anti-pattern", "control", "fear", "ultimatum", "power-dynamics"]
 related: ["boundaries", "boundary-with-vs-boundary-against", "dont-use-safety-as-control", "fear-triangle", "weaponized-not-caretaking", "empowered-vs-power"]
-sources: ["2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
 ---
 
 # Don't Confuse Boundaries with Ultimatums
@@ -92,3 +92,4 @@ Joe confirms this is true and adds the warning: do not use this as an excuse to 
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)

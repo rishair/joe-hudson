@@ -5,7 +5,7 @@ title: "The Rubbermaid Dish Solution"
 aliases: ["the dishes story", "the dishes problem", "Rubbermaid trash can dishes", "the bleach dish solution", "the roommates and the dishes", "creative solution to the dishes", "the household dish story"]
 tags: ["boundaries", "creativity", "wants", "relationships", "example", "humor"]
 related: ["boundaries", "follow-the-demand", "constraints-increase-creativity", "find-the-want-behind-the-should"]
-sources: ["2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
 ---
 
 # The Rubbermaid Dish Solution
@@ -71,3 +71,4 @@ This is also not an endorsement of the specific solution. The Rubbermaid setup i
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)

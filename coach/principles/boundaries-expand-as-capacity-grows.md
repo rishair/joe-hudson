@@ -5,7 +5,7 @@ title: "Boundaries Refine as Your Capacity Grows"
 aliases: ["boundaries shift as capacity grows", "boundaries move", "boundaries refine over time", "boundaries get more nuanced", "start with the strict boundary", "draw the strict boundary first", "boundary as scaffold for self-worth", "boundaries change as you change"]
 tags: ["boundaries", "development", "self-worth", "capacity", "trauma", "healing"]
 related: ["boundaries", "boundary-with-vs-boundary-against", "joes-dad-drinking-boundary", "development-as-corkscrew", "wants-deepen-as-you-follow-them"]
-sources: ["2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
 ---
 
 # Boundaries Refine as Your Capacity Grows
@@ -97,3 +97,4 @@ This is also not a guarantee. Some boundaries stay strict forever. The embezzlem
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)

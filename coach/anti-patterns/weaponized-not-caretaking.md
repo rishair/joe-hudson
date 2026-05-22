@@ -5,7 +5,7 @@ title: "Don't weaponize 'not caretaking'"
 aliases: ["I don't care about your feelings as a wall", "using non-caretaking as distance", "the I'm-not-responsible-for-you stance", "weaponized boundaries", "performative non-codependence", "the I'm-done-with-caretaking pedestal", "judging other caretakers"]
 tags: ["caretaking", "anti-pattern", "boundaries", "defense", "spiritual narcissism"]
 related: ["caring-vs-caretaking", "boundary-with-vs-boundary-against", "love-vs-nice", "spiritual-narcissism", "loving-to-transform", "tools-to-change-not-love", "boundaries"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Don't weaponize 'not caretaking'
@@ -112,4 +112,5 @@ For the "not my job" wall: the path is to find the version that opens the heart 
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

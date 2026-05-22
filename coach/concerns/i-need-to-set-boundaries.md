@@ -4,7 +4,7 @@ id: i-need-to-set-boundaries
 title: "I need to set boundaries / How do I know if I'm setting good boundaries?"
 aliases: ["how do I set boundaries", "I don't know how to set boundaries", "is this a good boundary", "what's the difference between a boundary and an ultimatum", "I'm bad at boundaries", "I can't draw boundaries", "I'm scared to set a boundary", "how do I know if my boundary is good", "I'm being too harsh with my boundary", "I keep being walked over", "I need to enforce a boundary", "I'm setting a boundary"]
 tags: ["boundaries", "concerns", "self-worth", "relationships", "fear"]
-sources: ["2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
 ---
 
 # I need to set boundaries / How do I know if I'm setting good boundaries?
@@ -83,3 +83,4 @@ The typical flow:
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)

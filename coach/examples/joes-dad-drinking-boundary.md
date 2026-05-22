@@ -5,7 +5,7 @@ title: "Joe's Dad and the Drinking Boundary"
 aliases: ["Joe's dad story", "the dad drinking story", "Joe's drinking father", "Joe's evolving boundary with his dad", "boundary evolution example", "I'm not going to be around you"]
 tags: ["boundaries", "addiction", "family", "development", "self-worth", "example"]
 related: ["boundaries-expand-as-capacity-grows", "boundaries", "boundary-with-vs-boundary-against", "joes-pleasing-dad-money-story"]
-sources: ["2022-03-18_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
 ---
 
 # Joe's Dad and the Drinking Boundary
@@ -62,3 +62,4 @@ The same shape appears in Joe's coaching practice. He describes a parallel arc w
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)

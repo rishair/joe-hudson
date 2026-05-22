@@ -5,7 +5,7 @@ title: "Resentment Means You Are Not Following Your Wants"
 aliases: ["resentment as indicator of unfollowed wants", "if you feel resentful you're not following what you want", "resentment as want diagnostic", "resentment means you haven't said what you want", "the resentment-want diagnostic", "resentment as boundary signal", "general resentment diagnostic"]
 tags: ["resentment", "wants", "boundaries", "diagnostic", "self-abandonment"]
 related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need"]
-sources: ["2021-11-19_What is Selfishness?"]
+sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？"]
 ---
 
 # Resentment Means You Are Not Following Your Wants
@@ -104,3 +104,4 @@ The practice is repeatable. Most resentments fold quickly once the underlying wa
 ## Sources
 
 - 2021-11-19_What is Selfishness?
+- 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)

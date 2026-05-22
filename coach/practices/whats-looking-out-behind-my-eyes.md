@@ -5,7 +5,7 @@ title: "What's Looking Out Behind My Eyes?"
 aliases: ["whats looking out behind my eyes", "what is looking out", "behind the eyes inquiry", "the eyes question", "shift to awareness practice", "who is looking out"]
 tags: ["voice in head", "practice", "self-inquiry", "awareness", "self-realization"]
 related: ["voice-in-the-head", "what-am-i", "self-realization", "wonder", "awareness-as-change-agent", "projections"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-07-30_Your World is a Projection"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # What's Looking Out Behind My Eyes?
@@ -80,6 +80,28 @@ The practice is not for moments of acute emotional flooding. If a person is in t
 
 The practice is for the voice, not for emotion. For emotion, the practice is [[feeling-the-unfelt-emotion]].
 
+## People Already Have Moments Of This
+
+The question is pointing at something most people have already experienced, often without recognizing it. Looking at a vista and "spacing out" for a few seconds. Being in a high-focus activity (wingsuit flight, climbing, surgery) and noticing afterwards that thought had dropped out. Being awestruck by something and not having any words for a moment.
+
+"We have experiences of it that people don't even know they're having. Like you in a wingsuit, I'm sure you had moments of full non-thought, right? It's just like presence... Yeah, or for some people, it's like they look at a vista and they have this moment, maybe it's 5 seconds or something where they just like, you know, and so..." -- Joe Hudson, When the Story Falls Apart
+
+"Awestruck is a way that it happens, and you're like, 'hey, where'd you go? I just spaced out.' You know, like we have them, but what's interesting is because we're not thinking during those times, the mind that is thinking has a hard time identifying them." -- Joe Hudson, When the Story Falls Apart
+
+The structural point: the mind that is thinking cannot easily recognize the moments when thinking was absent. The thinker only remembers what the thinker did. The moments of non-thinking are remembered as "I spaced out" or "I lost time" rather than as glimpses of the seer the practice is pointing at.
+
+This is useful when introducing the practice. The question is not asking the person to produce a state they have never had. It is asking them to notice a state they have had many times but have not been able to recognize because thought was not there to make a record.
+
+## The 9-Year-Old Daughter Story
+
+Joe asked his daughter, when she was around nine years old, "Hey, have you ever had that moment when you're looking out behind your eyes and you know that there's something greater than you looking out behind your eyes? Like, it's like, it's vastness." She said: "Oh yeah, all the time." Joe was surprised.
+
+"I was so surprised, you know? And so I think it's something that's very natural that we lose track of, or we get into our neurotic thoughts, into our churn, and we forget that it's happening or that it's there, it's possible." -- Joe Hudson, When the Story Falls Apart
+
+The implication: this is not a state to be attained. It is a state that small children inhabit easily and that adults forget how to recognize. The practice is partly a return to something already known, not an arrival at something new.
+
+This is also a useful frame when working with someone who feels they cannot access the inquiry. The instruction shifts from "produce this state" to "remember when this state was natural, and notice that you have not actually lost the capacity to enter it." The remembering can be the doorway.
+
 ## The Question as Joe's Integration Prompt
 
 Joe uses this question explicitly as a closing prompt at the end of episodes that touch the projection of I. In "Your World is a Projection," after describing the four kinds of projection, he offers it as the third integration question:
@@ -92,3 +114,5 @@ The instruction to not answer is important. The question is the practice. Trying
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2021-07-30_Your World is a Projection
+- 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

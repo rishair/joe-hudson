@@ -4,8 +4,8 @@ id: stories-are-developmental-scaffolding
 title: "The Right Story for the Stage Is Necessary"
 aliases: ["stories are stage-appropriate", "stories are scaffolding", "you need the right story for the stage", "my parents were perfect to my parents had issues", "the right story changes over time", "stories are necessary at certain stages", "hopscotching from story to story"]
 tags: ["story", "development", "stages", "principle", "transformation"]
-related: ["story", "feeling-changes-story", "emotions-and-stories-dance", "epiphany-becomes-rut", "dont-make-family-dynamics-the-story"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+related: ["story", "feeling-changes-story", "emotions-and-stories-dance", "epiphany-becomes-rut", "dont-make-family-dynamics-the-story", "story-dissolution-is-progress"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # The Right Story for the Stage Is Necessary
@@ -86,7 +86,9 @@ Joe holds this with patience and respect for each stage. He is not in a hurry to
 - Toward [[feeling-changes-story]]: the mechanism by which a story is released when its stage is complete.
 - Toward [[dont-make-family-dynamics-the-story]]: the anti-pattern of holding a stage's story past its developmental purpose.
 - Toward [[epiphany-becomes-rut]]: the general principle of which this is one instance.
+- Toward [[story-dissolution-is-progress]]: how to receive the disorienting in-between phase when an old story has been outgrown but the next one has not yet formed.
 
 ## Sources
 
-- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

@@ -5,7 +5,7 @@ title: "When You Feel the Emotion Fully, the Story Changes (Every Time)"
 aliases: ["feeling emotion changes the story", "feel the emotion the story shifts", "moving emotion shifts the narrative", "release emotion the story changes", "every time you feel it the story shifts", "you can't change a story without feeling the emotion"]
 tags: ["emotions", "story", "transformation", "principle", "core mechanism"]
 related: ["emotions-and-stories-dance", "story", "stronger-story-stuckier-emotion", "feeling-the-unfelt-emotion", "visceral-clarity-from-anger", "joes-rental-house-anger", "feel-over-figure", "emotional-fluidity", "can-you-look-forward-to-feeling-it", "trying-to-get-rid-of-the-emotion", "dont-name-emotion-to-avoid-feeling"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Fear: A Path To Authenticity"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # When You Feel the Emotion Fully, the Story Changes (Every Time)
@@ -128,3 +128,4 @@ Joe says this with quiet certainty. Not as a sales pitch. He has watched it happ
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

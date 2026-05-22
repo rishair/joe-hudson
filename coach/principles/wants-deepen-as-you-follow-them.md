@@ -5,7 +5,7 @@ title: "Wants Deepen as You Follow Them"
 aliases: ["follow the want home", "wants refine", "wants have siblings", "you can't want to run without wanting to walk", "wants evolve", "the developmental nature of wants"]
 tags: ["wants", "development", "transformation", "following the impulse"]
 related: ["the-want", "wants-over-shoulds", "owning-the-want-dissolves-it", "selfishness-is-the-engine-of-unity", "listening-to-impulse", "need-behind-the-want"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？"]
 ---
 
 # Wants Deepen as You Follow Them
@@ -74,3 +74,4 @@ This is why coaching that tries to talk the person out of their surface want fai
 
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-11-19_What is Selfishness?
+- 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)

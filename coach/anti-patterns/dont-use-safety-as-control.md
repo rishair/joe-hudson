@@ -5,7 +5,7 @@ title: "Don't Use Safety as a Form of Control"
 aliases: ["safety as control", "I don't feel safe as manipulation", "weaponized safety", "the safety demand", "using safety to change other people", "safety as power move"]
 tags: ["safety", "control", "manipulation", "teams", "boundaries"]
 related: ["trust-vs-safety", "vulnerability-as-control", "trust-as-multifaceted", "functional-team", "wants-vs-partiality", "aggressive-victim-stance", "boundaries", "empowered-vs-power"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_Building A Functional Team"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_Building A Functional Team"]
 ---
 
 # Don't Use Safety as a Form of Control
@@ -79,4 +79,5 @@ A useful test: would the same content land differently if you said "I want" or "
 
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2022-10-26_Building A Functional Team

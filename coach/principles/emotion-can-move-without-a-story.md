@@ -5,7 +5,7 @@ title: "Emotion Can (and Should) Move Without a Story"
 aliases: ["crying for no reason is great", "you don't need a reason to feel", "emotion without story", "feeling without explanation", "emotion doesn't need a story", "crying without knowing why", "emotional movement doesn't require context", "the no-reason cry"]
 tags: ["emotions", "story", "emotional fluidity", "principle"]
 related: ["emotional-fluidity", "stronger-story-stuckier-emotion", "story", "feeling-the-unfelt-emotion", "dont-block-emotion-waiting-for-reason"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Stages Of Emotional Development"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Stages Of Emotional Development", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # Emotion Can (and Should) Move Without a Story
@@ -116,3 +116,4 @@ Joe says this with warmth and a touch of delight. He clearly finds the "I'm cryi
 
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
 - 2022-10-26_Stages Of Emotional Development (Brett's "reorganized human" trust frame; Joe's affirmation that the body's movement is the work without the story)
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)

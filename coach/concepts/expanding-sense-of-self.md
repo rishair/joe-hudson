@@ -5,7 +5,7 @@ title: "Expanding Sense of Self"
 aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift", "the tenderization of identity over time", "identity softens toward the universal"]
 tags: ["development", "identity", "oneness", "collaboration"]
 related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart"]
 ---
 
 # Expanding Sense of Self
@@ -76,3 +76,5 @@ Eventually, collaboration becomes natural because [[selfishness-is-the-engine-of
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of the 2021-01-20 episode)
+- 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)
