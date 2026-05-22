@@ -1,0 +1,59 @@
+# Coach config: v3 — embedding-based retrieval (E-033)
+#
+# Same v1 hand-authored system prompt (held constant across all G-009
+# retrieval experiments per audit experimental discipline) plus
+# hybrid alias-BM25 + dense (bge-small-en-v1.5) retrieval over the
+# `coach/` compendium. Per R-012's recommended primary architecture:
+# one whole file = one document (no sub-chunking), embed text =
+# title + aliases + body up to first ## heading, top-K=5, RRF fusion
+# (k=60), no reranker.
+#
+# This config is consumable by:
+#   - bun run eval/run.ts full --coach coach-app/configs/v3-embeddings.yaml
+#   - bun run eval/run.ts smoke --coach coach-app/configs/v3-embeddings.yaml \
+#       --profiles client-resistance-im-overwhelmed-001,client-happy-am-i-selfish-001
+#
+# Schema: see coach-app/configs/SCHEMA.md.
+#
+# Prerequisites:
+#   - Embedding index must exist at coach-app/index.db. Build it with:
+#       python3 coach-app/retrieval/build_index.py \
+#           --coach-dir coach --out coach-app/index.db
+#     (Idempotent; ~70s to embed 668 docs with bge-small-en-v1.5.)
+
+id: coach-v3-embeddings
+description: >
+  Coach v3: hand-authored v1 system prompt + hybrid embedding retrieval
+  (alias-BM25 + bge-small-en-v1.5 dense + RRF). Shipped by E-033.
+  Baseline-comparable to E-031 (no retrieval), E-032 (tool nav),
+  E-036 (graph-walk) via E-034's head-to-head analysis.
+
+model: claude-sonnet-4-6
+temperature: 0.7
+max_tokens_per_turn: 1024
+
+# Same v1 prompt as E-031. Holding the prompt constant isolates retrieval
+# as the only changing variable (per audit experimental discipline).
+system_prompt_path: ../prompts/v1.md
+
+retrieval:
+  strategy: embedding
+  config:
+    # Hybrid mode = alias-BM25 over title+aliases + dense over the compact
+    # representation (title + aliases + first-section body), fused with RRF
+    # (k=60). Per R-012, this is the recommended primary. Smoke-only
+    # alternatives:
+    #   mode: dense   -- pure-dense fallback (R-012 documented degenerate)
+    #   mode: bm25    -- lexical-only sanity check
+    mode: hybrid
+    top_k: 5
+    embedding_model: BAAI/bge-small-en-v1.5
+    # SQLite path resolved relative to repo root.
+    index_path: coach-app/index.db
+
+# Per R-012: every_turn is the default for all retrieval-equipped configs.
+# Crisis profiles like client-crisis-suicidal-001 have mid-conversation
+# pivots at e.g. turn 9; first_turn_only would catastrophically miss the
+# pivot. Embedding retrieval is local-free so the cost concern is just
+# inflated coach input, mitigated by the v1 prompt's prompt-caching.
+trigger_policy: every_turn
