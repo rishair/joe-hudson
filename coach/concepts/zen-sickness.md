@@ -2,10 +2,10 @@
 type: concept
 id: zen-sickness
 title: "Zen Sickness"
-aliases: ["depersonalization as awakening", "depersonalization disorder", "resisted awakening", "identity dissolution"]
+aliases: ["depersonalization as awakening", "depersonalization disorder", "resisted awakening", "identity dissolution", "70 percent of depersonalization disorder stories", "monks awakening matching depersonalization forums"]
 tags: ["transformation", "integration", "sense of self", "awakening"]
-related: ["integration", "three-stages-of-integration", "epiphany-vs-transformation", "self-realization", "projections", "emotions-as-road-signs"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-30_Your World is a Projection"]
+related: ["integration", "three-stages-of-integration", "epiphany-vs-transformation", "self-realization", "projections", "emotions-as-road-signs", "expanding-sense-of-self"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-30_Your World is a Projection", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
 ---
 
 # Zen Sickness
@@ -21,6 +21,14 @@ A psychologist who was also a meditator told Joe that a significant percentage o
 "He was saying that a good percentage of what people call depersonalization disorder is like a Zen sickness of awakening where you get that feeling of not being just you, but you don't like it, so you try to stop it. And then that tension creates a tremendous amount of disease in your system." -- Joe Hudson, Integrating a Transformative Experience
 
 The accounts on depersonalization disorder forums match awakening experiences described in religious texts "to the letter."
+
+Joe quantifies it in a later telling. If you read accounts from monks who describe a great sense of freedom after waking up, and you compare them to depersonalization disorder forums online, about 70% of the depersonalization stories are almost identical to the awakening accounts.
+
+"If you look at the readings of monks who have woken up and have this like great sense of freedom, and you just read their stories, and then you go online and you read the stories of depersonalization disorder, about 70% of the stories of depersonalization disorder are almost identical to the monks waking up." -- Joe Hudson, When the Story Falls Apart
+
+The same identity shift -- from "I am me" to something wider -- produces opposite emotional responses depending on the story attached. The monk says: "I have been working for this for 20 years, finally I got it, this is huge relief." The person with the depersonalization diagnosis says: "This is bad, I don't like this, something is wrong with me." The shift is the same. The story is opposite. The emotional experience follows the story.
+
+This is one of the clearest examples of how a [[story]] determines emotional experience even when the underlying phenomenon is the same.
 
 The resolution is not to reverse the experience but to allow it. When someone in Zen sickness hears that the experience is common, that it has a name, that it passes, the distress often dissolves quickly. See [[integration]] on normalization as a key intervention.
 
@@ -59,3 +67,4 @@ The work in such cases is the harder version: dig the suppressed emotions back o
 
 - 2020-12-11_Integrating a Transformative Experience
 - 2021-07-30_Your World is a Projection
+- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact

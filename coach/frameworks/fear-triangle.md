@@ -36,6 +36,8 @@ The example: a group of mothers laughing about how guilt was an effective way to
 
 The signature feeling: **stuck**. "If I feel stuck, that's the victim."
 
+A specific configuration of this role: the [[aggressive-victim-stance]], where the victim uses their victimhood as an active tool to dominate others. Joe calls this "topping from the bottom." See that article for the full pattern, including how it shows up (snarky comments, chronic lateness, refusal to change, "I don't feel safe" as demand), why it is hard to see (social norms protect the visible-distress party), and how to respond in coaching versus non-coaching contexts.
+
 ### Savior
 
 The hardest to see, because it looks like helping. The savior runs away from their own experience by going into the other person to fix them. "If I can make it so you don't get drunk, I'll feel safe. If I can make it that you are happy, then I'll feel safe."

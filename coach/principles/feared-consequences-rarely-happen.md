@@ -2,10 +2,10 @@
 type: principle
 id: feared-consequences-rarely-happen
 title: "Feared Consequences Rarely Happen (8 out of 10)"
-aliases: ["8 out of 10 times", "consequences don't materialize", "the feared outcome usually doesn't happen", "predicted vs real consequences"]
+aliases: ["8 out of 10 times", "consequences don't materialize", "the feared outcome usually doesn't happen", "predicted vs real consequences", "the just-be-yourself experiment", "since you're going to quit anyway", "act as if you've already lost it"]
 tags: ["fear", "consequences", "empowerment", "vulnerability", "prediction"]
-related: ["empowered-vs-power", "acting-as-if-already-true", "fear-is-about-feeling", "vulnerability", "what-we-fear-we-invite"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["empowered-vs-power", "acting-as-if-already-true", "fear-is-about-feeling", "vulnerability", "what-we-fear-we-invite", "boundaries", "what-if-you-acted-exactly-how-you-want"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-03-18_What's So Scary About Boundaries?"]
 ---
 
 # Feared Consequences Rarely Happen (8 out of 10)
@@ -22,6 +22,20 @@ When people act in an empowered way, the feared consequence does not materialize
 - "If I'm saying I'm going to be true to myself, even if I might get fired, 8 out of 10 times I don't get fired."
 
 The fear creates a vivid, near-certain simulation of the bad outcome. The simulation is almost always wrong.
+
+## The "Since You're Going to Quit Anyway" Frame
+
+A specific way Joe sets up the test for people who are about to leave a relationship or a job: have them act as if they have already lost it.
+
+"I'll say, well, what's wrong? And they'll talk about it. I'm like, well, what if you were just yourself? Let's see what happens. So since you're gonna quit and you're gonna break up anyways, like, well, just assume that it's already lost. So why don't you just show up exactly how you wanna be at work and see what happens? And literally 8 out of 10 times they get promoted, they get raises, their relationships turn up great. 20% of the time they get fired." -- Joe Hudson, What's So Scary About Boundaries?
+
+The frame is clever because it removes the stakes that were producing the disempowered behavior. The person was hedging because they were afraid of losing what they had. If it is already lost (in their own decision to leave), they have nothing to lose by being themselves. The protective behavior drops, the authentic behavior emerges, and the environment usually responds well to the authentic version.
+
+The 20% who get fired or broken up with are not collateral damage. They report that the firing or breakup confirmed they did not want the environment anyway. The honesty itself becomes the path to a better fit.
+
+"For the 20% that have gotten fired, none of them are like, 'Oh shit, I got fired.' What they did instead was they were like, 'Oh, this is how I wanna be. That means this is the kind of company I wanna work for.' So we're scared of the consequence, but whatever the consequence is, it is a direct path to the life where we are accepted and loved for who we are." -- Joe Hudson, What's So Scary About Boundaries?
+
+See [[what-if-you-acted-exactly-how-you-want]] for the question version of this move.
 
 ## And When It Does Happen
 

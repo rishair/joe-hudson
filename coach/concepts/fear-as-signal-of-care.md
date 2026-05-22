@@ -2,10 +2,10 @@
 type: concept
 id: fear-as-signal-of-care
 title: "Fear as a Signal of What You Care About"
-aliases: ["fear shows you what you care about", "fear points at what matters", "fear as information", "fear as compass", "fear tells you what threatens what you love", "the signal of fear", "fear isn't go or no-go", "fear shows what to look at"]
+aliases: ["fear shows you what you care about", "fear points at what matters", "fear as information", "fear as compass", "fear tells you what threatens what you love", "the signal of fear", "fear isn't go or no-go", "fear shows what to look at", "fear as roadmap", "fear is a roadmap", "fear as partner", "fear is signaling what to pay attention to", "what is crying out to be healed"]
 tags: ["fear", "signal", "values", "needs", "discernment", "information"]
-related: ["fear-is-about-feeling", "fear-vs-anxiety", "disassociation-as-numbness-layer", "dont-step-on-the-signal", "the-want", "vulnerability", "feeling-the-unfelt-emotion", "feel-over-figure", "wisdom-of-each-emotion"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+related: ["fear-is-about-feeling", "fear-vs-anxiety", "disassociation-as-numbness-layer", "dont-step-on-the-signal", "the-want", "vulnerability", "feeling-the-unfelt-emotion", "feel-over-figure", "wisdom-of-each-emotion", "two-words-for-fear", "emile-three-relationships-with-fear"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
 ---
 
 # Fear as a Signal of What You Care About
@@ -82,6 +82,24 @@ The sequence:
 
 5. **Move toward the ask or the grief.** Sometimes the need can be requested. Sometimes the loss has to be felt and grieved. Either way, the fear has done its job by surfacing the information.
 
+## The Roadmap Framing
+
+A complementary framing, arrived at by Emile DeWeaver from a different developmental path (somatic therapy after a long incarceration): fear is a roadmap, not just a compass. The signal does not only point at what matters; it points at where to look next in the inner work.
+
+"Now fear isn't something I overcome. Fear is actually a roadmap for me. Fear is a signal that I need to pay attention right now. Fear is a signal that I'm avoiding something right now, and I may need to be careful about how I approach it... It is signaling something very important to my growth and my spiritual journey that I need to pay attention to. And so now I use it like a road map. It's like, oh, I feel nervous about that. Okay, what's going on with that? What's beneath that? What's happening for you? What is it that's crying out to be healed in this moment? What is it that's crying out to be taken care of in this moment?" -- Emile DeWeaver, Life After Murder
+
+The questions the roadmap-frame produces:
+- What is beneath this?
+- What is happening for you?
+- What is crying out to be healed in this moment?
+- What is crying out to be taken care of in this moment?
+
+These extend the signal-of-care diagnostic into an inquiry sequence. The fear is the location marker. The questions are how to navigate from there. See [[emile-three-relationships-with-fear]] for the full developmental arc this framing emerged from.
+
+Joe's affirmation of the same arrival point from meditation rather than somatic therapy: "Even in meditation, if you're in like deep meditation, following the roadmap of fear is one of the most direct lines to finding the truth of who you are, finding the truth of your identity... that thing that I was most scared of is actually where I find my deepest truth." -- Joe Hudson
+
+Two paths, same destination. The path through meditation and the path through somatic recovery from extreme trauma both arrive at fear as the most direct line to truth, not as the obstacle to it.
+
 ## The Air Sports Version
 
 In Brett's account, the air sports version is direct: the fear is sometimes a literal "do not do this" signal. The body knows that something is wrong with the equipment, the conditions, or the alignment, and the fear is the body's communication. Ignoring it can kill.
@@ -124,3 +142,4 @@ Joe holds fear with respect. Not as something to manage past, not as something t
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-09-24_Stages of Emotional Development
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity

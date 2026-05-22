@@ -2,9 +2,9 @@
 type: question
 id: how-do-you-want-to-be
 title: "How do you want to be?"
-aliases: ["how do you want to be when you grow up", "how vs what question", "how do you want to live", "the how question", "how question instead of what"]
+aliases: ["how do you want to be when you grow up", "how vs what question", "how do you want to live", "the how question", "how question instead of what", "how do you want to be right now", "the should vs want comparison question", "how do you want to be vs how should you be"]
 tags: ["wants", "being vs doing", "authenticity", "reframe", "question"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
 ---
 
 # How do you want to be?
@@ -55,6 +55,16 @@ The "how" answers tend to be the actual wants underneath the "what" answers. The
 The question works internally too. When a project, conversation, or moment is approached with "how do I want to be in this?" instead of "what do I want to get out of this?" the move from management to authenticity becomes available.
 
 This is the operational version of [[enjoy-over-manage]] and [[listening-to-impulse]]. The "how" question puts attention on the quality of action, which is what enjoyment and impulse-following actually optimize for.
+
+## Paired With "How Should You Be?" as a Body Diagnostic
+
+There is a structured version of the question that pairs it with its should-counterpart: "How do you want to be right now? How should you be right now?" Asked in alternation, with attention to the body, the two questions produce visibly different body states. The should constricts. The want opens. The contrast is the teaching.
+
+"You ask them over and over again, 'How do you want to be right now? How should you be right now?' And they get to experience the difference physically in their body, what it feels like to tell themselves they should do stuff and what that creates in their body and their mind. And then how do you want to be right now? And then what does that create in your body and your mind. And you get to feel it and you get to feel like how horrible shoulds are and how stagnant they create a life and how wants can open things up." -- Joe Hudson, How to Tell if the Master Class Isn't For You
+
+The "right now" framing matters. It pulls the question out of the abstract ("how do I want to be in life") and into the immediate present ("how do I want to be in this moment, in this body, right now"). The body can respond to the immediate question in a way it cannot respond to the abstract one.
+
+See [[should-vs-want-body-check]] for the full structure of this exercise. The question alone (without the should-pair) is the more general version. The paired version is for clients who need to feel the difference rather than think about it.
 
 ## Tone
 

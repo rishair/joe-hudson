@@ -2,9 +2,9 @@
 type: concern
 id: im-not-an-anxious-person
 title: "I'm not an anxious person / I don't really get scared"
-aliases: ["I don't have anxiety", "I'm not afraid", "I'm not a fearful person", "I'm pretty brave", "I'm not scared", "I handle fear well", "I'm courageous", "fear doesn't really get to me", "the fearless self-concept", "Class A avoider", "avoider impresario", "high-functioning anxious denier"]
+aliases: ["I don't have anxiety", "I'm not afraid", "I'm not a fearful person", "I'm pretty brave", "I'm not scared", "I handle fear well", "I'm courageous", "fear doesn't really get to me", "the fearless self-concept", "Class A avoider", "avoider impresario", "high-functioning anxious denier", "the survival no-fear identity", "I had to be fearless to survive", "I never feel fear and I never have"]
 tags: ["fear", "anxiety", "self-concept", "denial", "identity"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
 ---
 
 # I'm not an anxious person / I don't really get scared
@@ -100,6 +100,22 @@ The coaching does not undo the lineage. It allows the person to honor what the l
 
 This connects to [[subjugation-prevents-healing]] (Joe's principle that self-sacrifice for group survival is not healing). The lineage strategy was self-sacrifice for group survival. The current opportunity is to keep what the strategy preserved (the work ethic, the standing-on-shoulders) and let go of what it cost (the suppression). Both can be honored.
 
+## The Survival-Culture Variant: I Was the Only One Pretending
+
+A distinct shape worth separating from the others. The person grew up in a culture where showing fear marked you as prey: a poor or violent neighborhood, a gang or drug environment, prison or juvenile facilities, an abusive household, an elite military or first-responder culture. The rule "do not show fear" was not internalized as identity; it was followed as accurate survival information.
+
+The person in this case is not, strictly, denying their fear to themselves. They knew they were afraid the whole time. They just thought they were uniquely afraid, that everyone else was the real version of the unafraid person they were pretending to be.
+
+Emile DeWeaver, describing his juvenile years: "I had this, like, pretend person that I was. I was, like, play-acting hardcore, like the hardest method acting you have ever seen. Like, I have never liked to fight. Fighting scares the shit out of me. But, like, no one could ever know that."
+
+The decades-later reveal: "Come to find out, everyone was pretending. Everyone was pretending in the name of survival, saying that, like, if I don't do this pretend, I won't be able to survive because other people are somehow different than me. I'm somehow different because, like, I'm like this impostor in this thing. I'm like afraid all the time."
+
+This is the [[everyone-is-pretending]] pattern crystallized in the individual. The coaching move is different from the other variants. The person is not unaware of the fear. They are unaware that they were not the only one. The work is to unwind the isolation of having carried the fear alone, often for decades, in the false belief that no one else around them was carrying the same thing.
+
+The relief can be substantial -- and is often accompanied by something like grief. The fear could have been shared. The pretending was the cost of believing it could not be.
+
+See also [[predator-or-prey-hayes-valley]] for the survival-logic origin of this rule, and [[two-words-for-fear]] for the distinction between the chronic suppressive fear produced by the no-fear culture and the threat-fear and growth-fear the culture also produced (which the person may have been mistaking for the absence of fear).
+
 ## The Shame-About-Anxiety Variant
 
 A related but distinct shape: the person is not denying the anxiety to themselves -- they know they have it -- but they are deeply ashamed of it. The presenting language is not "I don't have anxiety" but a reflexive defensiveness when anxiety is named. Joe describes a session opener:
@@ -148,3 +164,5 @@ He does not dismiss the courage. The person often has done genuinely courageous 
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity

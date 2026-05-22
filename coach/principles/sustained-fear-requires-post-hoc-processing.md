@@ -2,10 +2,10 @@
 type: principle
 id: sustained-fear-requires-post-hoc-processing
 title: "Sustained Fear Requires Post-Hoc Processing"
-aliases: ["sustained fear must be processed after", "the body can't process fear in real time during extended crisis", "compartmentalizing fear during crisis", "fear was meant for short bursts", "extended fear creates a backlog", "war and hospital fear", "ten days of fear takes months"]
+aliases: ["sustained fear must be processed after", "the body can't process fear in real time during extended crisis", "compartmentalizing fear during crisis", "fear was meant for short bursts", "extended fear creates a backlog", "war and hospital fear", "ten days of fear takes months", "post-deployment fear processing", "13 years of combat fear", "the SEAL post-service backlog"]
 tags: ["fear", "trauma", "processing", "body", "compartmentalization", "nervous system"]
-related: ["let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "nervous-system-recovery-after-stress", "disassociation-as-numbness-layer", "fear-as-signal-of-care", "fear-in-body-vs-fear-in-head"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+related: ["let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "nervous-system-recovery-after-stress", "disassociation-as-numbness-layer", "fear-as-signal-of-care", "fear-in-body-vs-fear-in-head", "will-chesney-seal-collapse-and-return", "empathy-makes-you-better-at-hard-jobs"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
 ---
 
 # Sustained Fear Requires Post-Hoc Processing
@@ -29,6 +29,8 @@ The same structure applies to war:
 "It's the same with war that, you know, there's, if you're in the sustained trauma for an extended period of time, you have to go back and let your body move it after the fact." -- Joe Hudson, Fear: A Path to Authenticity
 
 The veteran who returns from deployment, the parent who returns from the ICU, the founder who comes out of a months-long company crisis -- all are carrying body-stored fear that the situation did not allow to discharge. The body waits until safety is genuinely present before releasing what it could not release at the time.
+
+Will Chesney's 13-year SEAL career is the extended case. Combat operations, friends dying, hospital weeks for his own injuries, sustained alertness for years. The post-service collapse -- alcohol, weight gain, inability to hold a job, staring at the wall trying to understand what was happening -- is what 13 years of compartmentalized fear looks like when the body finally has the conditions to release. See [[will-chesney-seal-collapse-and-return]]. The hate that hardened Will's heart during the years of loss (see [[empathy-makes-you-better-at-hard-jobs]]) was partly grief that had no time to move during operations; the post-service phase is when that backlog became available for processing.
 
 ## Why the Body Cannot Process in Real Time
 
@@ -102,3 +104,4 @@ The post-hoc processing principle applies to these as well. When a chronic stres
 ## Sources
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In

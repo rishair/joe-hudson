@@ -2,10 +2,10 @@
 type: principle
 id: nervous-system-recovery-after-stress
 title: "The Body Needs to Sit Down After Prolonged Stress"
-aliases: ["nervous system depression after stress", "the bathrobe period", "physical depression as recovery", "the body shuts down to recover", "depression after sustained pressure", "the post-stress collapse", "CEO bathrobe phenomenon"]
-tags: ["body", "nervous system", "depression", "stress", "recovery", "principle"]
-related: ["i-keep-crashing-and-burning", "enjoyment-as-path", "self-realization", "pleasure-capacity", "should-as-threat", "i-should-be-doing-this"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+aliases: ["nervous system depression after stress", "the bathrobe period", "physical depression as recovery", "the body shuts down to recover", "depression after sustained pressure", "the post-stress collapse", "CEO bathrobe phenomenon", "adrenaline fatigue", "post-deployment collapse", "post-exit depression", "the lake house phase", "house of depressed CEOs"]
+tags: ["body", "nervous system", "depression", "stress", "recovery", "principle", "adrenaline"]
+related: ["i-keep-crashing-and-burning", "enjoyment-as-path", "self-realization", "pleasure-capacity", "should-as-threat", "i-should-be-doing-this", "ceo-pajama-house-study", "will-chesney-seal-collapse-and-return", "sustained-fear-requires-post-hoc-processing"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
 ---
 
 # The Body Needs to Sit Down After Prolonged Stress
@@ -21,6 +21,12 @@ The principle: physical depression following sustained stress is normal and adap
 The CEO example: when high-functioning people sell their company, complete a major project, or exit a sustained period of effort, they often spend months in a bathrobe doing very little. This is the body recovering. The same mechanism that allows the deer to drop into deep rest after the predator leaves is operating.
 
 "You see this with like big-time CEOs, and when they sell their company, it's like bathrobe for 2 years." -- Joe Hudson, Allowing Yourself to Change
+
+The [[ceo-pajama-house-study]] makes this visible. Researchers put CEOs in a house, removed their work, and brought psychologists in three days later. The psychologists' unanimous report: it is a house full of depressed people. The depression was not a separate condition; it was the body's recovery state being exposed by the removal of the activity that had been masking it.
+
+The same mechanism produces the post-deployment collapse seen in combat veterans. Will Chesney's account: "I was moving back in with my parents and I could not hold down a job. I was drinking myself to death. I was 250+ pounds. I just couldn't wrap my brain, my mind around what was going on... I remember sitting at my mom's house and just, I was drinking a lot and I remember staring at the wall for like an hour trying to figure out like, what the fuck is going on?" -- Will Chesney, Reintegrating as a Combat Veteran. See [[will-chesney-seal-collapse-and-return]].
+
+Joe names the secondary storm that often makes the collapse worse than it needs to be: "they're so hard on themselves because of that, and then that creates a secondary storm of just self-abuse." -- Joe Hudson, Reintegrating as a Combat Veteran. The first storm is the body's recovery state. The second storm is the person's judgment of their own recovery state.
 
 The duration of the recovery is roughly proportional to the duration of the stress. Extended stress requires extended recovery. Trying to short-circuit this with new projects, new goals, new "you should be doing something" interventions extends the recovery, not shortens it.
 
@@ -96,3 +102,4 @@ Matter-of-fact. Almost biological. This is what bodies do. There is no moral con
 ## Sources
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In

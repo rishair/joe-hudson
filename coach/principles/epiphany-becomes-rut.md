@@ -2,10 +2,10 @@
 type: principle
 id: epiphany-becomes-rut
 title: "Every Epiphany Is the Innocent Beginning of a Rut"
-aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent"]
-tags: ["transformation", "epiphany", "iteration", "stages", "development"]
-related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent", "I made it then the slump", "the pinnacle is the trap", "the I'm finished trap"]
+tags: ["transformation", "epiphany", "iteration", "stages", "development", "pinnacle"]
+related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection", "improvement-mindset-vs-maintenance-mindset", "cricket-player-up-and-down"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
 ---
 
 # Every Epiphany Is the Innocent Beginning of a Rut
@@ -50,6 +50,18 @@ The coach's job is not to deliver one final epiphany. It is to support iteration
 
 Every locked-down structure was once somebody's realization.
 
+## The "I Made It" Form of This Pattern
+
+A specific high-stakes version: when a person reaches what they perceive as a pinnacle and treats the achievement itself as the final epiphany. The achievement (becoming a CEO, becoming a SEAL Team Six operator, getting awakened, winning the championship) becomes the rut. The orientation flips from "what's next" to "how do I keep this," and the corrosion begins.
+
+A cricket player asked what was different between his up phases and down phase: "When I was up, I was thinking about how do I improve myself? And when I was down, I was thinking about how do I maintain." -- recounted in the Will Chesney episode. See [[cricket-player-up-and-down]] and [[improvement-mindset-vs-maintenance-mindset]].
+
+Will Chesney describes the SEAL version: "I had made it through BUD/S, I made it through this training, I made it through here, I've been through all these schools, I've been on these missions, I've been -- I had everything. I knew everything. There's nothing else I need to do. I'm fine. I'm here. I've made it." -- Will Chesney, Reintegrating as a Combat Veteran
+
+Joe's framing: "I see this all the time, not just in like career moves, but you see that with CEOs and they feel like they're finished, they're done. Like, you see their progress slump, if not deteriorate. And you see it with people who are like looking after awakening as well, like who are searching for like spiritual awakening. When they think they're done, you can see like the corrosion that occurs." -- Joe Hudson, Reintegrating as a Combat Veteran
+
+The pinnacle version of epiphany-becomes-rut is especially dangerous because the external accomplishment supplies ongoing evidence that the rut is correct. People treat the person as having arrived. The treatment reinforces the orientation. The slump that follows can take years to become visible, and the person is often the last to see it.
+
 ## Why People Resist This
 
 Holding an epiphany loosely requires comfort with helplessness. If the current structure is going to dissolve, the person has to be okay not knowing what comes next. See [[helplessness-is-the-gateway]]. People who cannot bear helplessness grip their epiphanies until they become cages.
@@ -81,3 +93,4 @@ Matter-of-fact, even celebratory. "We need a new iteration. That's it." Not anxi
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In

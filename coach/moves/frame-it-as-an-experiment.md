@@ -2,10 +2,10 @@
 type: move
 id: frame-it-as-an-experiment
 title: "Frame It As an Experiment (For the Skeptic)"
-aliases: ["the experiment frame", "make it experimental", "framing as experiment", "the 3 week experiment", "let's just do the experiment", "the test it for three weeks move", "the experimental framing move", "the time-bounded experiment", "introduce it as an experiment", "if it doesn't work we'll stop", "the intellectual buy-in move"]
+aliases: ["the experiment frame", "make it experimental", "framing as experiment", "the 3 week experiment", "let's just do the experiment", "the test it for three weeks move", "the experimental framing move", "the time-bounded experiment", "introduce it as an experiment", "if it doesn't work we'll stop", "the intellectual buy-in move", "skepticism after not before", "skepticism contaminates the experiment", "the experiment requires bracketing skepticism"]
 tags: ["move", "leadership", "introducing-practices", "skeptics", "intellectual-resistance", "buy-in", "experiment"]
-related: ["gratitude-rounds-before-meetings", "team-as-scientific-method", "dont-half-ass-the-experiment", "love-relationship-with-anxiety", "dont-improve-for-two-weeks"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
+related: ["gratitude-rounds-before-meetings", "team-as-scientific-method", "dont-half-ass-the-experiment", "love-relationship-with-anxiety", "dont-improve-for-two-weeks", "sincerity-is-the-prerequisite", "the-clients-wisdom-not-the-teachers"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
 ---
 
 # Frame It As an Experiment (For the Skeptic)
@@ -35,6 +35,28 @@ Four components, all required:
 The skeptic resists because they suspect the practice is unfalsifiable. The experiment frame makes the practice falsifiable. If it does not work, it will not be continued. The very act of agreeing to the experiment is the act of preserving the skeptic's intellectual standards rather than asking them to suspend those standards.
 
 The frame also flips the social dynamic. Without the frame, the skeptic is positioned as the obstacle to the leader's desired practice. With the frame, the skeptic is positioned as the evaluator of an experiment the leader is running. The skeptic's role shifts from "block this" to "evaluate this." Most skeptics are happy to be evaluators.
+
+## Skepticism After, Not Before
+
+The framing requires the skeptic to hold their skepticism in a specific way: apply it after the experiment, not during. Skepticism applied before contaminates the data. This is a basic principle of experimentation in any domain.
+
+"If you do the skepticism before you do the experiment, you're gonna destroy the experiment. Meaning we know that whether it's in physics or in psychology, if you have a predetermined idea of what's gonna happen, it messes up the experiment." -- Joe Hudson, How to Tell if the Master Class Isn't For You
+
+"It's really important to be skeptical, meaning don't take what I say as gospel or anybody, make sure that it works for you. That's critical. But if you do the skepticism before you do the experiment, you're gonna destroy the experiment... If you can't be skeptical after the experiment, you have to be skeptical before, then it's not as effective." -- Joe Hudson, How to Tell if the Master Class Isn't For You
+
+Skepticism is welcome. It is even encouraged. It just has to come at the right time. The skeptic who can defer their skepticism for the duration of the experiment, then bring it fully to bear on the results, is the ideal participant. The skeptic who cannot bracket their conclusion during the experiment is not running an experiment at all; they are running a confirmation.
+
+This recasts what the experiment frame is asking. It is not asking the skeptic to suspend judgment forever. It is asking the skeptic to apply their judgment at the right point in the protocol. Skeptics who genuinely value rigor often recognize this immediately; it is the same standard they would apply to any other experiment.
+
+The contamination mechanism is the same one that operates in [[dont-half-ass-the-experiment]]: a person who has decided the outcome in advance produces participation that is shaped to produce that outcome. The data then confirms what the person already believed, but the confirmation is meaningless because the inputs were not clean. The exercise reveals nothing.
+
+## Who Cannot Be Coached This Way
+
+Some people cannot apply skepticism after rather than before. They have decided in advance and cannot bracket the decision. The right response is not to push harder on the experiment frame. The right response is to recognize that the practice (and probably the broader work) is not for this person right now. See [[sincerity-is-the-prerequisite]].
+
+"That's not to say that we do anything woo-woo. It's really important to me that everything is straightforward, has some neurological validity to it. So it's really important to keep that open mind until the experiment is over, and then use your skepticism." -- Joe Hudson, How to Tell if the Master Class Isn't For You
+
+The frame is offered to people who can hold it. People who cannot are not failing the frame; the frame is just not for them at this time.
 
 ## Who This Move Is For
 
@@ -105,3 +127,4 @@ Calm, intellectual, almost clinical. The move is delivered with the energy of a 
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
+- 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)

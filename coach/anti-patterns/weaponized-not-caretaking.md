@@ -4,8 +4,8 @@ id: weaponized-not-caretaking
 title: "Don't weaponize 'not caretaking'"
 aliases: ["I don't care about your feelings as a wall", "using non-caretaking as distance", "the I'm-not-responsible-for-you stance", "weaponized boundaries", "performative non-codependence", "the I'm-done-with-caretaking pedestal", "judging other caretakers"]
 tags: ["caretaking", "anti-pattern", "boundaries", "defense", "spiritual narcissism"]
-related: ["caring-vs-caretaking", "boundary-with-vs-boundary-against", "love-vs-nice", "spiritual-narcissism", "loving-to-transform", "tools-to-change-not-love"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+related: ["caring-vs-caretaking", "boundary-with-vs-boundary-against", "love-vs-nice", "spiritual-narcissism", "loving-to-transform", "tools-to-change-not-love", "boundaries"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-03-18_What's So Scary About Boundaries?"]
 ---
 
 # Don't weaponize 'not caretaking'
@@ -75,6 +75,20 @@ Joe also names a less obvious failure mode that happens further down the path. O
 "You can't keep loving people without boundaries. A mom who doesn't have boundaries raises horrible children that eventually will be very abusive to the mom or dad for that matter." -- Joe Hudson, Care over Caretaking
 
 This is not an anti-pattern in the sense of weaponized non-caretaking. It is the opposite failure: forgetting the boundary structure that makes clean care sustainable. See [[boundary-with-vs-boundary-against]].
+
+## The Clean Version: Naming the Caretaking and Inviting the Real Relationship
+
+The clean alternative to weaponizing non-caretaking is to name the caretaking honestly to the person being caretaken for. The key elements: own that you have been caretaking, name that you are going to stop, name what the cost of the dynamic has been (often: the other person's resentment that the caretaker did not understand), and invite a real relationship in place of the caretaking one.
+
+A client of Joe's described a years-long passive-aggressive friendship that transformed in a single conversation. The clean naming sounded like this:
+
+> "I've been caretaking you, and I'm not gonna caretake you anymore. I'm gonna be really honest and straightforward with you. And there's a way in which you've been mean to me, like you're resentful of me, and I don't understand why or how you could be resentful of me, but I don't want a relationship where we have resentment. I don't want to be a part of that."
+>
+> *(Source: What's So Scary About Boundaries?)*
+
+The response from the friend: "I was angry at you and I just couldn't tell why. I didn't know what was going on. But as soon as you said that to me, it just all dropped. I was resentful for the caretaking, and you weren't treating me like an equal. And now that we are, it's just wonderful."
+
+This is what the clean version looks like in practice. It is not "I refuse to engage with your feelings." It is "I have been operating in a way that has been bad for both of us; here is what I see; let's relate differently." The first version is a wall. The second version is an invitation.
 
 ## What Joe Says Instead
 

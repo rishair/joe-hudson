@@ -2,10 +2,10 @@
 type: concept
 id: emotional-fluidity
 title: "Emotional Fluidity"
-aliases: ["fluid emotions", "emotions change when welcomed", "sadness becomes grief and gratitude", "the changed quality of welcomed emotion", "what emotions look like when allowed", "fluid emotional state"]
+aliases: ["fluid emotions", "emotions change when welcomed", "sadness becomes grief and gratitude", "the changed quality of welcomed emotion", "what emotions look like when allowed", "fluid emotional state", "crying weekly without knowing why", "unstoried emotional movement"]
 tags: ["emotions", "transformation", "welcoming", "fluidity"]
-related: ["embrace-intensity", "kinked-emotions", "feeling-the-unfelt-emotion", "joy-as-matriarch", "stages-of-emotional-development", "wisdom-of-each-emotion"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2"]
+related: ["embrace-intensity", "kinked-emotions", "feeling-the-unfelt-emotion", "joy-as-matriarch", "stages-of-emotional-development", "wisdom-of-each-emotion", "emotion-can-move-without-a-story", "stronger-story-stuckier-emotion"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
 ---
 
 # Emotional Fluidity
@@ -75,6 +75,16 @@ A useful way to track the work. Are emotions running more fluidly than they did 
 
 This is more useful than tracking whether specific emotions are present or absent. The question is not "am I still getting angry?" The question is "when anger arrives, does it move?"
 
+## The Unstoried Marker
+
+The clearest sign of fluidity is the appearance of emotions without accompanying stories. Crying without knowing why. Anger arriving without an identifiable cause. Joy showing up for no occasion. The presence of unstoried emotions is the diagnostic that the system is no longer requiring narrative permission to feel.
+
+"I cry weekly, usually, get angry regularly. And almost all the time, I don't know why. I don't have a reason, I don't have a story. I don't have like, oh, this happened and therefore this happened. It's just stuff moving." -- Joe Hudson, When the Story Falls Apart
+
+This often surprises the person experiencing it for the first time. The trained expectation is that emotions need a reason. The arrival of unstoried emotion can be distressing precisely because the system has not yet learned this is what fluidity looks like. See [[emotion-can-move-without-a-story]] for the principle and [[dont-block-emotion-waiting-for-reason]] for the corresponding anti-pattern.
+
+Fluidity and story-strength are inversely related. The lighter the holding of stories, the more freely emotions move. See [[stronger-story-stuckier-emotion]] for the principle that links the two.
+
 ## When Someone Experiences This
 
 - The first time sadness lasts ten minutes instead of three days and leaves them feeling clearer rather than more drained.
@@ -98,3 +108,4 @@ This is more useful than tracking whether specific emotions are present or absen
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
+- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact

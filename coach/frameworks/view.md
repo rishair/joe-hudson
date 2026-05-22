@@ -4,8 +4,8 @@ id: view
 title: "VIEW"
 aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
-related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform", "connection"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-04-29_Connection- A State Beyond States"]
 ---
 
 # VIEW
@@ -38,6 +38,10 @@ VIEW emerged from observing people who had an extraordinary capacity for convers
 VIEW applies across domains: sales, product development, marriage, team dynamics, conflict resolution, coaching. The state of mind is the same regardless of context. It is also a meditative practice: sitting with yourself and asking how you can be more vulnerable, more impartial, more empathetic, more full of wonder with yourself. Most internal experience is managed rather than met with VIEW. Telling yourself what to feel, how to act, what to avoid. VIEW internally means dropping that management.
 
 VIEW is the operational expression of [[connection-over-perfection]]. It produces connection, and connection produces better results than perfection. When people adopt VIEW as a daily practice, the measurable bottom line is felt connection, not performance. The counterintuitive result: performance improves.
+
+Joe is explicit that the four VIEW components function as "hacks" into [[connection]]: each one is a doorway into the underlying state. Vulnerability puts a person into deeper connection. Impartiality (being with what is) deepens connection. Empathy with another or with oneself deepens connection. Wonder and awe drop a person into connection rapidly. The framework is the operational layer; connection is what it serves.
+
+"In the Connection Course, we talk about VIEW. And those are hacks. Vulnerable, it puts me into a deeper sense of connection. If I'm impartial, if I can be with what is, that gives me a deeper sense of connection. If I can be with you in empathy, it gives me a deeper sense of connection, or myself in empathy. Wonder, awe, those things all help us get into connection." -- Joe Hudson, Connection: A State Beyond States
 
 "You don't have to know shit to do that. You just have to ask really good questions and be vulnerable in it and to be empathetic in it and to be impartial in it and to be full of wonder in it. So it doesn't even require that you have skills. It just requires that you are having a conversation with them that allows the best of them to come out." -- Joe Hudson, Introduction to VIEW
 

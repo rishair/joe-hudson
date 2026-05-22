@@ -2,10 +2,10 @@
 type: example
 id: joes-weeping-at-superficial-conversations
 title: "Joe Weeping at Superficial Conversations"
-aliases: ["weeping in superficial conversations", "Joe crying about inane talk", "Joe's superficiality story", "65 miles an hour Santa Barbara", "Joe and the inane conversations"]
+aliases: ["weeping in superficial conversations", "Joe crying about inane talk", "Joe's superficiality story", "65 miles an hour Santa Barbara", "Joe and the inane conversations", "the pink elephant in the alcoholic household", "weeping over Santa Barbara conversation", "the not being seen as the problem child story"]
 tags: ["heartbreak", "judgment", "connection", "example", "Joe's biography"]
-related: ["heartbreak-as-capacity-expansion", "letting-judgment-in", "loving-all-parts", "defense", "judgment-vs-discernment"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+related: ["heartbreak-as-capacity-expansion", "letting-judgment-in", "loving-all-parts", "defense", "judgment-vs-discernment", "feeling-the-unfelt-emotion", "feeling-changes-story", "trace-emotion-to-its-first-felt"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
 ---
 
 # Joe Weeping at Superficial Conversations
@@ -37,6 +37,26 @@ This story is the personal-scale illustration of [[heartbreak-as-capacity-expans
 It also illustrates a specific kind of defense: judgment of an entire mode of being. Joe had not been merely declining small talk. He had been positioning himself above it. The positioning was the wall. See [[defense]].
 
 The story illustrates the move "do not disturb what is breaking your heart" in a very concrete way. The people in the conversations would have been happy to stop and check on Joe. That checking would have ended the heartbreak. Joe protected the heartbreak by keeping the situation intact.
+
+## The Origin Story That Surfaced
+
+In a separate telling of this same period, Joe described what the feeling-through revealed. The judgment of superficial conversation had been ruling him for decades. He could not understand why he kept getting so angry at people having shallow exchanges. He started doing the feeling-through practice deliberately, going into conversations he would have judged and weeping in the middle of them.
+
+"I would just go and be in it. And it got awkward. I gotta tell you, there's some awkward moments, like two people talking about shopping and I'm just like tearing up, I'm crying, you know, weeping over this. And so I didn't know why this was happening, but as I felt the emotions all the way through, it became clear." -- Joe Hudson, When the Story Falls Apart
+
+What became clear was a childhood origin. Joe had grown up in an alcoholic household. His role in the family had been the one who named what no one else would acknowledge -- the pink elephant in the living room.
+
+"The story that became clear was that when I was a kid, I was the guy shouting that there's an elephant in the living room. Like, I would talk about the pink elephant. We had an alcoholic household. My job in the house was to be like, 'There's a problem, there's a problem.' And everybody else's job in the house was to be like, 'What problem? I don't know what you're talking about. That's not an issue.' And to keep it superficial. And that's where the anger actually was." -- Joe Hudson, When the Story Falls Apart
+
+The anger was about not being seen for the role he had been playing. Underneath the anger was hurt. Once he felt the hurt fully, the tears came.
+
+"Once I felt the hurt underneath the anger of like, oh, of not being seen for all those years and not being respected for the role that I was playing and being made the problem child or whatever it was, then there was just tears." -- Joe Hudson, When the Story Falls Apart
+
+He was around 35 when this happened. He was weeping while strangers in social settings talked about driving to Santa Barbara.
+
+"I'm just like weeping while people are talking about driving to Santa Barbara. It was awkward, but it was great. And so it, just by going into the emotional experience, it like, it brought out the story that was hidden in there that was holding me back." -- Joe Hudson, When the Story Falls Apart
+
+This is a clean example of [[emotions-and-stories-dance]] running emotion-first. He did not figure out the origin first and then feel it. He felt it first, and the origin emerged from the feeling. This is also an example of [[anger-as-cover-for-deeper-emotion]] -- the anger at superficial conversation was covering hurt about a childhood role.
 
 ## The Subtle Move: "It's nothing"
 
@@ -77,3 +97,4 @@ The pattern repeats across domains. The person who has cut off vulnerability dis
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact

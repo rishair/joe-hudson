@@ -174,6 +174,7 @@ When a leader makes this shift, the person-level changes show up first:
 - Toward [[welcoming-the-others-emotion]]: the relational move that powers this.
 - Toward [[dont-step-on-the-signal]]: the anti-pattern this replaces.
 - Toward [[authenticity-in-business]]: the broader principle that suppression is a hidden tax on performance.
+- Toward [[empathy-makes-you-better-at-hard-jobs]]: the operational extension of the same principle into combat, firing, and other hard-decision contexts where hardness is mistakenly assumed to be required.
 
 ## Sources
 

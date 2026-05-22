@@ -2,10 +2,10 @@
 type: concept
 id: no-finish-line
 title: "No Finish Line"
-aliases: ["the arrival fantasy", "no done state", "no heaven", "no completion", "the residual religion", "the finish line story", "the I'll arrive story", "the when I'm enlightened story"]
-tags: ["arrival", "religion", "improvement", "story", "concept", "process"]
-related: ["improvement-vs-authenticity", "process-over-result", "wanting-itself-not-what-you-want", "self-realization", "epiphany-becomes-rut", "integration", "musk-deer-parable", "what-if-there-is-no-finish-line"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+aliases: ["the arrival fantasy", "no done state", "no heaven", "no completion", "the residual religion", "the finish line story", "the I'll arrive story", "the when I'm enlightened story", "I'll be there when", "carrot on a stick", "conditional happiness", "future-located happiness", "holding connection hostage to the future"]
+tags: ["arrival", "religion", "improvement", "story", "concept", "process", "connection"]
+related: ["improvement-vs-authenticity", "process-over-result", "wanting-itself-not-what-you-want", "self-realization", "epiphany-becomes-rut", "integration", "musk-deer-parable", "what-if-there-is-no-finish-line", "connection", "connection-as-life-bottom-line"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-04-29_Connection- A State Beyond States"]
 ---
 
 # No Finish Line
@@ -64,6 +64,26 @@ A serenity that comes from a doing must be kept. A serenity that comes from an u
 
 This is why the question "how do I keep this?" is the diagnostic for the finish-line story re-installing. The question presupposes that the current state is a doing that could lapse. Seeing that it is an undoing — that there is nothing to keep — dissolves the question. See [[quit-hope-lose-cycle]].
 
+## The Connection Version: "I'll Be There When..."
+
+The finish-line story has a specific form when the value at stake is [[connection]]. The person holds their own connection -- with themselves, with the present, with the people around them -- hostage to some future condition. The condition is always pending.
+
+"I'll be there when I quit smoking. I'll be there when I have the money. I'll be there when so-and-so loves me. I'll be there when ... Yeah, you're there right now." -- Joe Hudson, Connection: A State Beyond States
+
+The carrot-on-a-stick structure is exact. The condition is always one step ahead of the person's current state. The person walks toward it for decades and never arrives. The connection that was supposed to be at the end is in fact unreachable from the structure that was set up to reach it.
+
+The mechanism by which this loses connection is straightforward: connection lives only in the present. Future-orientation pulls attention away from the present. The thing the person is chasing is locked in the room they keep leaving.
+
+"You can't be connected with yourself if it's dependent on something that is not actually present with you right now already." -- Brett Kistler, paraphrasing Joe
+
+The dissolution of the I'll-be-there-when story is therefore also the entry into connection. There is no different "future you" that gets to be connected. There is only the present you, who already is. The recognition does not solve the conditions the person wants; it stops conditioning aliveness on those conditions being met.
+
+This applies to people who have achieved everything they were chasing and still feel disconnected. Joe sees this constantly in his coaching: people who got the money, the partner, the recognition, the body, and report being more miserable than before. The finish line was the wrong device. There was no "there" to be in. The connection was always where they were standing.
+
+"You see people do this all the time. I'll be there when I quit smoking. I'll be there when I have the money. I'll be there when so-and-so loves me." -- Joe Hudson
+
+The instruction is not to give up on the future conditions. It is to stop using them as the price of admission to being alive now.
+
 ## Cover-Ups Keep Showing Up
 
 Once the finish-line story has been seen, automatic ways of covering up the present continue to show up. Each one is a small instance of the same arrival logic. "How do I keep this?" "What about my taxes?" "What's the next step?" Each is the mind trying to put the present moment back into preparation-for-future mode.
@@ -104,3 +124,4 @@ Spacious, quiet. Joe does not deliver this as a teaching but as an inquiry. "Wha
 ## Sources
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2022-04-29_Connection: A State Beyond States (the "I'll be there when..." conditional connection pattern)

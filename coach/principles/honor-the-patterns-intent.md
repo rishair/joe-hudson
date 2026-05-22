@@ -2,10 +2,10 @@
 type: principle
 id: honor-the-patterns-intent
 title: "Honor What the Pattern Tried to Give You"
-aliases: ["honor the pattern's intent", "the pattern came for a good reason", "love the patterns", "respect the pattern", "find the gift in the pattern", "the pattern's positive intent", "the pattern was trying to take care of you", "even mean patterns have good intent"]
+aliases: ["honor the pattern's intent", "the pattern came for a good reason", "love the patterns", "respect the pattern", "find the gift in the pattern", "the pattern's positive intent", "the pattern was trying to take care of you", "even mean patterns have good intent", "your body is smart", "the body's protective mechanisms saved your life", "honor what kept you alive", "the somatic therapy framing"]
 tags: ["patterns", "trauma", "self-compassion", "loving all parts", "voice as care", "transformation"]
-related: ["childhood-imprinting", "loving-all-parts", "voice-as-care", "love-is-the-best-change-agent", "feeling-the-unfelt-emotion", "shame-drives-behavior"]
-sources: ["2021-08-13_Seeing Through Family Dynamics"]
+related: ["childhood-imprinting", "loving-all-parts", "voice-as-care", "love-is-the-best-change-agent", "feeling-the-unfelt-emotion", "shame-drives-behavior", "emile-three-relationships-with-fear"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
 ---
 
 # Honor What the Pattern Tried to Give You
@@ -36,6 +36,18 @@ Three questions to ask of the pattern:
 The answers are usually clear and tender. The striving was trying to secure love. The caretaking was trying to keep mom regulated so the home was safe. The disappearing was trying to avoid the unbearable consequences of being seen. Each pattern was an act of care from a small person doing their best in a real situation.
 
 Naming this aloud often produces a softening that no amount of trying-to-change has produced. The pattern can update its strategy when met with respect. It cannot update when met with war.
+
+## The Somatic Therapy Expression: Your Body Is Smart
+
+The same principle arrived at from the body side. The mechanisms that survival environments forced the body to develop -- the dissociation, the chronic vigilance, the manufactured rage, the inability to feel certain emotions -- are smart adaptations that kept the person alive. The shame about these mechanisms is a misreading of what they did.
+
+Emile DeWeaver, recounting what he learned in somatic therapy after 21 years in prison: "Something that I learned in somatic therapy is like, the things that you do, even the things that kind of make you feel shame, whether it's like, you know, maybe you have attachment issues and you fall in love really easy and you feel ashamed about that, or maybe you don't let people in and like, so you're like, you're very guarded. Like any number of like habits that like we are working through as we heal and try to come and become our best human beings. Something that I learned in somatic therapy is like, look, the body is smart. Think about where you learned that, right?"
+
+The reframe for someone with extreme trauma: "In that environment, all these things that you're ashamed of, can't you see how smart actually your body was? Like, do you think you could have survived that if your body didn't develop these mechanisms, if your body didn't develop these habits? So it's not about, like, demonizing these parts of you that you want to get rid of or feeling like they're holding you back. They've actually saved your life."
+
+The next move after honoring: choice. "Now let's honor that. Let's say thank you. Now here's the thing about bodies. They tend to find something that works and they use it for everything... So it's like, you know, maybe you can just use this when you need it and not use it when you don't. So that's the thing that you want to learn in somatic therapy is like, I want a choice about the mechanisms my body employs to protect me, not a default."
+
+This is the operational expression of the principle: the pattern is honored for what it did, then offered choice about whether to fire by default or by deliberate signal. The change does not come from making the pattern wrong. It comes from giving the pattern a relationship to current conditions, in which its trigger threshold can be updated. See [[emile-three-relationships-with-fear]] for the full arc this principle lives inside.
 
 ## Even the Mean Patterns
 
@@ -90,3 +102,4 @@ Joe speaks about this gently. The tone matters: the principle cannot be delivere
 ## Sources
 
 - 2021-08-13_Seeing Through Family Dynamics
+- 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity

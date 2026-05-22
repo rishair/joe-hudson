@@ -2,10 +2,10 @@
 type: distinction
 id: embracing-vs-creating-intensity
 title: "Embracing Intensity vs. Creating Intensity"
-aliases: ["embrace intensity vs create intensity", "creating intensity", "manufactured intensity vs embraced intensity", "intensity manufacturing", "engineering intensity for growth"]
+aliases: ["embrace intensity vs create intensity", "creating intensity", "manufactured intensity vs embraced intensity", "intensity manufacturing", "engineering intensity for growth", "don't drag tension up", "the tension is already there"]
 tags: ["intensity", "transformation", "anti-pattern", "distinction"]
-related: ["embrace-intensity", "embrace-vs-brace", "manufacturing-the-feeling", "trying-to-get-rid-of-the-emotion"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2"]
+related: ["embrace-intensity", "embrace-vs-brace", "manufacturing-the-feeling", "trying-to-get-rid-of-the-emotion", "tension-return-to-love-cycle", "connection"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-04-29_Connection- A State Beyond States"]
 ---
 
 # Embracing Intensity vs. Creating Intensity
@@ -29,6 +29,18 @@ The difference matters because creating intensity often masquerades as growth wo
 The bracing-against-intensity is what holds the unfelt material in place. Creating more intensity does not move the unfelt material; it adds new intensity that also gets braced against. The person ends up with more held-back material, not less.
 
 There is also a detection issue. When you manufactured the intensity, you can take credit for facing it. The ego gets fed by the courage display. The actual welcoming -- the kind that produces transformation -- is much quieter. It does not require manufactured stakes.
+
+## The Coaching Application: Don't Drag the Tension Up
+
+A version of this confusion shows up in coaches who have heard that tension is the entry to deeper work and start engineering it. They poke at the person, contrive conflict, or push topics the person was not opening on their own.
+
+Joe is explicit that this is not the move. The tension will arise on its own if the work is alive. The coach's job is to allow what is already there, not to manufacture more.
+
+"One of the nuances in the call that we had this morning was that the tension will arise, the tension will already be there. And what I notice you doing in this work is just allowing the tension to be there. You're not trying to drag it up. You're not poking to bring it up unless it's right there at the surface already." -- Brett Kistler, describing Joe's coaching
+
+This is the same teaching as [[tension-return-to-love-cycle]]. The cycle that builds connection runs on tension that surfaces from the actual situation. Dragged-up tension does not produce the cycle; it produces a coached version of the cycle that does not metabolize the way the real one does.
+
+The childhood version of the manufactured-tension trap: "I had in my childhood a lot of times where I was taught to build character and then I carried from that a habit of putting myself through shit to build character." -- Brett Kistler. The instruction is not to volunteer for difficulty. It is to meet what arises.
 
 ## When Creating Intensity Is Useful
 
@@ -64,3 +76,4 @@ Joe delivers this distinction quickly and almost in passing -- "that wouldn't be
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
+- 2022-04-29_Connection: A State Beyond States (the coaching application: don't drag tension up)

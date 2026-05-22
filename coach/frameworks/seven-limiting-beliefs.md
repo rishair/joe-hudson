@@ -2,10 +2,10 @@
 type: framework
 id: seven-limiting-beliefs
 title: "The Seven Limiting Beliefs"
-aliases: ["seven limiting beliefs", "7 limiting beliefs", "the limiting beliefs", "main limiting beliefs", "limiting belief structure"]
+aliases: ["seven limiting beliefs", "7 limiting beliefs", "the limiting beliefs", "main limiting beliefs", "limiting belief structure", "the foundational limiting beliefs", "if I do X then I'll be happy", "I'll be happy when X belief"]
 tags: ["limiting beliefs", "framework", "shame", "transformation", "patterns"]
-related: ["inherent-goodness", "connection-over-perfection", "wants-over-shoulds", "improvement-vs-authenticity", "defense-vs-love", "perfectionism", "shame-drives-behavior", "undoing-not-doing"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+related: ["inherent-goodness", "connection-over-perfection", "wants-over-shoulds", "improvement-vs-authenticity", "defense-vs-love", "perfectionism", "shame-drives-behavior", "undoing-not-doing", "limiting-belief", "three-kinds-of-limiting-beliefs", "no-finish-line", "limiting-belief-meta-trap"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
 ---
 
 # The Seven Limiting Beliefs
@@ -52,9 +52,19 @@ Defending yourself before receiving the care underneath what is being offered. T
 
 "My boss just took a social risk on me, potentially risked our relationship because he cared or she cared enough to help me be successful. We don't think, oh wow, thanks, thanks for taking the risk of telling me that." -- Joe Hudson, The Art of Accomplishment
 
-### 5-7. Others not enumerated in this episode
+### 5. "I'll be happy when X"
 
-Joe states there are about seven main limiting beliefs but does not enumerate all of them in this transcript. The full enumeration may emerge across other episodes. Until then, the architecture is: one foundation (not inherently good) supporting approximately seven specific patterns.
+Naming, in a later conversation, what may be the most common societal limiting belief: the deferred-happiness contract. The structure: if I do, achieve, become X, then happiness, love, worthiness will follow. The implicit corollary is that happiness is not available now, and will not be available until X is reached. X keeps moving. The arrival is always at the same distance, regardless of what gets achieved.
+
+"I think that's one of the biggest societal beliefs is that if I do X, then I'll be happy. If I do X, then I'll be good enough. Then I'll be worthy of love. And that is, I think, one of the belief systems that are most limiting and cause us the most misery." -- Joe Hudson, Limiting Beliefs
+
+This belief is what [[no-finish-line]] addresses directly. It is also the structural source of the [[limiting-belief-meta-trap]]: "I'll be happy when I've seen through all my limiting beliefs" is the same belief in transformational clothing.
+
+The framing as "if-then" is its giveaway. Whenever happiness is conditional on a future state, this belief is operating. The intervention is to see that the happiness rationing itself is the problem, not the unachieved state. The present-moment availability of joy is what the belief refuses.
+
+### 6-7. Others not enumerated
+
+Joe states there are about seven main limiting beliefs and has now named five across two episodes (perfection over connection, improvement over authenticity, shoulds before wants, defense before love, "I'll be happy when X"). The remaining two may emerge across other episodes. Until then, the architecture is: one foundation (not inherently good) supporting approximately seven specific patterns.
 
 ## How the Architecture Works
 
@@ -88,8 +98,23 @@ The work is not to address each pattern individually. The work is to address the
 - Toward [[inherent-goodness]]: the foundation that, when seen, collapses the structure.
 - Toward [[undoing-not-doing]]: the method of release rather than addition.
 - Toward [[shame-drives-behavior]]: the deeper mechanism.
+- Toward [[three-kinds-of-limiting-beliefs]]: a complementary framework that categorizes beliefs by their structural shape (false thought, misinterpretation, whole-story) rather than by content.
+- Toward [[limiting-belief]]: the core concept that this framework specializes.
+- Toward [[no-finish-line]]: the deep dissolution of the "I'll be happy when X" version.
 - Toward each specific limiting belief as needed for the particular person.
+
+## Relationship to the Three Structural Types
+
+The seven (or so) limiting beliefs catalogued here are content-categories of belief: what is being believed. [[three-kinds-of-limiting-beliefs]] is a structural framework: how the mind plays the trick. Each of the seven beliefs is one of the three structural types in operation.
+
+- "I am not inherently good" -- a false thought; the most damaging false thought there is.
+- "Perfection over connection" -- a misinterpretation of experience; the present moment is read through the idealized standard rather than felt as it is.
+- "Improvement over authenticity" -- a whole-story belief; the person assumes they know what the better version of themselves should be.
+- "I'll be happy when X" -- a misinterpretation of experience; happiness is read as future-located rather than presently available.
+
+The two frameworks pair. The content framework tells you what is being believed; the structural framework tells you how to intervene.
 
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives

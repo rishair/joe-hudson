@@ -4,8 +4,8 @@ id: fear-vs-excitement
 title: "Fear vs. Excitement"
 aliases: ["fear is excitement without the breath", "excitement is the other side of fear", "fear and excitement are the same energy", "constriction vs expansion", "constricting fear vs expansive excitement"]
 tags: ["fear", "excitement", "breath", "vulnerability", "emotions", "somatic"]
-related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need", "two-words-for-fear"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
 ---
 
 # Fear vs. Excitement
@@ -77,6 +77,22 @@ This gives a clean diagnostic for whether the person is in flow or in suppressio
 
 The principle generalizes beyond sports. A leader having a hard conversation in flow has welcomed the fear of the conversation. A leader having the same conversation while gripping for safety experiences it as stressful and performs worse. The conversation, the audience, the stakes are the same; the welcoming or non-welcoming of the fear determines the quality.
 
+## The Acute-Threat Flow Example
+
+The clearest case of allowed-fear-as-flow shows up in moments of real, sudden threat. Emile DeWeaver's spinning-car account is a compact example. Driving 100 mph through Utah at 2 a.m., he encountered a boulder on the highway. He swerved, the car fishtailed into a complete spin, and what he experienced was not the paralyzing fear of identity-protection but the alert, capable, time-dilated state of full presence.
+
+"As all of this is happening, like, I am feeling no fear in the traditional sense that, like, I'm not feeling that fear that felt like paralyzing... It's a very different kind of fear because I'm certainly the more alert than I have ever been in my life. And I have never spun out before, right? But I'm remembering everything I have ever heard about spinning out... I am like working this car, this Honda, and I'm like on this 2-lane highway and I'm seeing the front in flashes, like voof, voof, voof, voof. And every flash, right, I'm like taking a snapshot... It's like the most high-performing that I have ever been." -- Emile DeWeaver, Life After Murder
+
+He explicitly distinguishes this state from the fear he had spent his life fighting: "That's actually not a fear that I've ever had a problem with. That's actually a fear that's like -- it can only be defined as fear, but it's not that fear that I feel like we've been talking about on this show."
+
+Brett confirms the same structure from BASE jumping: "That's the same kind of fear in a BASE jump where something goes a little bit wrong and all of a sudden you're just present. You're just there. You're not thinking, oh no, I don't want this fear to be happening. It's just -- you're just there and you're acting and it's moving through you and it's energizing."
+
+These two examples make the flow point concrete: when the body is allowed to do what it knows, the same physiology that produces panic produces peak capacity. The difference is in the welcome.
+
+The post-event collapse Brett describes ("after you get out of the situation, that's when, that's when like the next wave hits and you're just like, oh my God, that just happened") is the discharge. The flow state was the doing. The wave is the body completing what it could not complete during the event. See [[sustained-fear-requires-post-hoc-processing]] for the broader principle this brief example illustrates.
+
+See [[two-words-for-fear]] for the broader frame these examples sit inside: the flow-fear of acute threat is a different kind of fear from the chronic identity-protective fear, and they should not be conflated.
+
 ## The Pattern Across Emotions
 
 Fear-to-excitement is one instance of a broader pattern. Each emotion has a kinked (resisted) form and an unkinked (allowed) form, and the unkinked form is often unrecognizable to people who only know the kinked version. See [[kinked-emotions]].
@@ -97,3 +113,4 @@ The fear-excitement pair is the most accessible example because the breath diffe
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity

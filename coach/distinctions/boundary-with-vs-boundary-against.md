@@ -4,8 +4,8 @@ id: boundary-with-vs-boundary-against
 title: "Boundary With vs. Boundary Against"
 aliases: ["boundary with not against", "drawing boundary with", "boundary as connection not separation", "loving boundary", "boundary as gift", "open-hearted boundary"]
 tags: ["boundaries", "love", "vulnerability", "connection"]
-related: ["love-as-deep-welcoming", "defense", "caring-vs-caretaking", "vulnerability", "dont-do-emotion-at-people"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+related: ["boundaries", "love-as-deep-welcoming", "defense", "caring-vs-caretaking", "vulnerability", "dont-do-emotion-at-people", "does-saying-it-increase-your-love", "dont-use-boundaries-as-ultimatums"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-03-18_What's So Scary About Boundaries?"]
 ---
 
 # Boundary With vs. Boundary Against
@@ -45,6 +45,12 @@ The internal test for whether a boundary is "with" or "against" is whether stati
 If stating the boundary makes you feel more love for the person, the boundary is "with." If stating the boundary makes you feel more separate, more righteous, more closed, the boundary is "against."
 
 The body knows. Notice what happens internally as the boundary is spoken or rehearsed. The signature of "against" is bracing. The signature of "with" is softening.
+
+The other person's reaction is irrelevant to the test. The test is about the internal state of the speaker, before delivery.
+
+"Just the saying it, no matter what their reaction is. Maybe their reaction is fuck you. And maybe their reaction is, oh, thank God you said that. It doesn't matter. Whatever it is, when you say it, your capacity to love them has increased." -- Joe Hudson, What's So Scary About Boundaries?
+
+See [[does-saying-it-increase-your-love]] for the question that operationalizes this test in live coaching.
 
 ## You Are Not Asking Them to Change
 
@@ -86,6 +92,18 @@ The resolution: separation can be loving. Separation that protects both parties,
 
 Anything actually compassionate for you turns out to be compassionate for everyone in the situation. If it is compassionate for you but not for them, look again; the apparent compassion may be self-justification.
 
+## Boundaries as Love's Infrastructure
+
+The "with" framing is not a softening of the boundary. It is the recognition that boundaries are required for love to survive.
+
+"There's no iconic figure of love, there's no paragon of love that isn't really strongly boundaried, whether that's like a great mom or Martin Luther King or Mother Teresa. All of these people were incredibly boundaried. So boundaries are part of what makes a loving relationship. It creates trust." -- Joe Hudson, What's So Scary About Boundaries?
+
+The reason love requires boundaries: love cannot survive domination. A relationship in which one party can dominate another, intentionally or not, cannot sustain love. The boundary refuses the domination, which preserves the conditions in which love can live.
+
+"It's really hard to love something that can dominate you." -- Joe Hudson, What's So Scary About Boundaries?
+
+This is the structural answer to people who believe boundaries are unloving. The opposite is true: the absence of boundaries makes sustained love impossible, because the dominated party cannot keep loving the dominator.
+
 ## Connection to VIEW
 
 A boundary drawn with [[vulnerability]] (here is what is true for me), [[impartiality]] (I am not telling you what to do), [[empathy]] (I see you and care about you), and [[wonder]] (I don't know how you will respond and that is fine) is necessarily a boundary "with." VIEW makes the with-vs-against distinction unnecessary because VIEW only produces "with" boundaries.
@@ -100,11 +118,15 @@ A boundary drawn with [[vulnerability]] (here is what is true for me), [[imparti
 
 ## Downstream (Where Joe Goes From Here)
 
+- Toward [[boundaries]]: the underlying concept.
 - Toward [[love-as-deep-welcoming]]: the underlying state that produces "with" boundaries naturally.
 - Toward [[defense]]: distinguishing the somatic wall (defense) from the relational structure (boundary).
 - Toward [[caring-vs-caretaking]]: caretaking refuses to set boundaries; caring uses them as a form of care.
 - Toward [[dont-do-emotion-at-people]]: a specific case of a clean boundary around emotional expression.
+- Toward [[does-saying-it-increase-your-love]]: the live diagnostic question that operationalizes this distinction.
+- Toward [[dont-use-boundaries-as-ultimatums]]: the anti-pattern when "with" tips into "against".
 
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-03-18_What's So Scary About Boundaries?

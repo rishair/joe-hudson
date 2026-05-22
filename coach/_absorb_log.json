@@ -1235,8 +1235,124 @@
     },
     {
       "folder": "2022-04-29_Connection- A State Beyond States",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-21T23:41:14Z",
+      "articles_created": [
+        "connection",
+        "connection-as-life-bottom-line",
+        "connection-doesnt-require-the-other",
+        "start-stay-end-in-connection",
+        "tension-return-to-love-cycle",
+        "would-you-sell-your-ability-to-connect",
+        "case-the-consultant",
+        "harvard-grant-study",
+        "healthcare-ceo-turnaround"
+      ],
+      "articles_updated": [
+        "no-finish-line",
+        "connection-over-perfection",
+        "connection-as-family-metric",
+        "view",
+        "embracing-vs-creating-intensity"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T23:52:50Z"
+    },
+    {
+      "folder": "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)",
+      "status": "complete",
+      "claimed_at": "2026-05-21T23:46:01Z",
+      "articles_created": [
+        "joes-stinky-house-experiment",
+        "address-the-blocker-not-the-symptom",
+        "sincerity-is-the-prerequisite",
+        "the-change-or-no-change-visualization",
+        "should-vs-want-body-check",
+        "exercises-need-body-voice-emotion",
+        "the-clients-wisdom-not-the-teachers",
+        "teeth-cleaning-metaphor"
+      ],
+      "articles_updated": [
+        "frame-it-as-an-experiment",
+        "how-do-you-want-to-be",
+        "connection-over-perfection",
+        "joes-26-year-old-list"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-21T23:56:08Z"
+    },
+    {
+      "folder": "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In",
+      "status": "complete",
+      "claimed_at": "2026-05-21T23:53:36Z",
+      "articles_created": [
+        "cricket-player-up-and-down",
+        "improvement-mindset-vs-maintenance-mindset",
+        "ceo-pajama-house-study",
+        "empathy-makes-you-better-at-hard-jobs",
+        "will-chesney-seal-collapse-and-return",
+        "humility-in-the-system",
+        "absence-of-resistance-to-the-suck"
+      ],
+      "articles_updated": [
+        "epiphany-becomes-rut",
+        "nervous-system-recovery-after-stress",
+        "sustained-fear-requires-post-hoc-processing",
+        "welcoming-fear-in-leadership"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T00:02:46Z"
+    },
+    {
+      "folder": "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact",
+      "status": "complete",
+      "claimed_at": "2026-05-21T23:56:49Z",
+      "articles_created": [
+        "story",
+        "emotions-and-stories-dance",
+        "feeling-changes-story",
+        "stronger-story-stuckier-emotion",
+        "emotion-can-move-without-a-story",
+        "dont-block-emotion-waiting-for-reason",
+        "dont-use-story-frame-to-bypass",
+        "joes-rental-house-anger",
+        "stories-are-developmental-scaffolding"
+      ],
+      "articles_updated": [
+        "dont-name-emotion-to-avoid-feeling",
+        "emotional-fluidity",
+        "joes-weeping-at-superficial-conversations",
+        "zen-sickness",
+        "expanding-sense-of-self"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T00:08:31Z"
+    },
+    {
+      "folder": "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity",
+      "status": "complete",
+      "claimed_at": "2026-05-22T00:03:23Z",
+      "articles_created": [
+        "two-words-for-fear",
+        "everyone-is-pretending",
+        "refuse-to-be-defined-by-the-worst-act",
+        "emile-three-relationships-with-fear",
+        "predator-or-prey-hayes-valley",
+        "dont-specialize-in-the-scariest-fear"
+      ],
+      "articles_updated": [
+        "im-not-an-anxious-person",
+        "honor-the-patterns-intent",
+        "fear-as-signal-of-care",
+        "fear-vs-excitement"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T00:14:14Z"
+    },
+    {
+      "folder": "2022-06-24_The Upright Apology- Accountability Without Shame",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T00:09:50Z",
       "articles_created": [],
       "articles_updated": []
     }

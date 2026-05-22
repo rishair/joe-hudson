@@ -2,10 +2,10 @@
 type: question
 id: what-if-you-acted-exactly-how-you-want
 title: "What if you acted exactly how you want to act and saw what happens?"
-aliases: ["what if you acted exactly how you want", "the empowerment question", "act how you want and see", "stop compromising your truth question"]
+aliases: ["what if you acted exactly how you want", "the empowerment question", "act how you want and see", "stop compromising your truth question", "since you're going to quit anyway just be yourself", "act as if you've already lost it"]
 tags: ["empowerment", "vulnerability", "questions", "authenticity"]
-related: ["empowered-vs-power", "feared-consequences-rarely-happen", "vulnerability", "i-feel-trapped"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8"]
+related: ["empowered-vs-power", "feared-consequences-rarely-happen", "vulnerability", "i-feel-trapped", "boundaries"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-03-18_What's So Scary About Boundaries?"]
 ---
 
 # What if you acted exactly how you want to act and saw what happens?
@@ -21,6 +21,8 @@ The signature question Joe uses with people who feel trapped by their relationsh
 The question turns the calculation inside out. Most people are calculating how to act to prevent a feared consequence. Joe invites them to act from truth and see what actually arrives.
 
 "One of the ways that I work with my clients on this often that makes it really acute is... a husband that's deeply unhappy in this marriage, and I'll ask the question, well, what if you act exactly how you want to act and see if they leave you, see if the divorce occurs? That's an empowered act. It's like, oh, I'm not going to compromise my authenticity, my truth, to keep your love." -- Joe Hudson, Empower over Power
+
+A particularly effective variant: when someone is already planning to quit or break up, frame the experiment as having nothing left to lose. "Since you're gonna quit and you're gonna break up anyways, just assume that it's already lost. So why don't you just show up exactly how you wanna be at work and see what happens?" The pre-imagined loss removes the protective hedging, and the environment usually responds well to the authentic version. See [[feared-consequences-rarely-happen]] for the extended frame.
 
 ## When Joe Uses It
 
