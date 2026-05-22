@@ -2,10 +2,10 @@
 type: distinction
 id: sorry-from-shame-vs-sorry-as-solidarity
 title: "Sorry From Shame vs. Sorry as Solidarity"
-aliases: ["two kinds of sorry", "shame sorry vs solidarity sorry", "I'm sorry I did something wrong vs I'm sorry you hurt yourself", "buying into the shame sorry", "the two sorries", "I'm sorry about it not because of it"]
+aliases: ["two kinds of sorry", "shame sorry vs solidarity sorry", "I'm sorry I did something wrong vs I'm sorry you hurt yourself", "buying into the shame sorry", "the two sorries", "I'm sorry about it not because of it", "I'm sorry you're having a hard day", "solidarity apology", "the not-responsible apology", "sorry as presence not responsibility"]
 tags: ["distinction", "apology", "shame", "vulnerability", "language"]
-related: ["shame-as-disconnection", "vulnerability", "the-shame-avoidance-loop", "trigger-the-shame-live", "vulnerability-as-control"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+related: ["shame-as-disconnection", "vulnerability", "the-shame-avoidance-loop", "trigger-the-shame-live", "vulnerability-as-control", "upright-apology", "forms-of-dysfunctional-apology", "dont-use-you-in-an-apology"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame"]
 ---
 
 # Sorry From Shame vs. Sorry as Solidarity
@@ -23,6 +23,24 @@ The word "sorry" carries two completely different acts under one syllable. Peopl
 The two can use the exact same words and yet feel completely different. The difference is in what the speaker is taking on.
 
 "It's like, oh, I'm sorry that you hurt yourself. It's not like I've done anything wrong." -- Joe Hudson, Healing Shame by Being Ourselves
+
+## The Solidarity Sorry as Explicit Connection Move
+
+The solidarity sorry can be deployed proactively, not just in response to feeling shame. When someone is going through something hard that you did not cause, "I'm sorry you're having a hard day" is itself a coaching-grade connection move. It says: I see you, I am with you, I do not want this for you. It deliberately refuses to fix the other person's experience while staying close to it.
+
+"Hey, I'm sorry that you're having a hard day. I know I'm not responsible for your happiness. And I just want you to know that I feel like I'm seeing you, that you're seen, and that I don't want this for you. I'm here with you. I love using apologies that way. It's like, for me, it's a great way to just let somebody know that, hey, I see that this is not easy for you, and I'm not trying to fix it, and I'm just here with you." -- Joe Hudson, The Upright Apology
+
+The Covey subway story is the same move at scale: "I'm so sorry they lost their mom the other day." Not responsibility. Solidarity. See [[covey-subway-story]].
+
+## Body Diagnostic
+
+The diagnostic for which form is being given is the body, not the words. The shame sorry happens with the back hunched, eyes down, tail tucked. The solidarity sorry happens with the back upright, eyes level, body open. The somatic difference is unmistakable once felt.
+
+See [[upright-apology]] for the body cue extended into responsibility-based apologies, and how the same body signature distinguishes upright from collapsed across all forms of sorry.
+
+## Language Test
+
+A reliable language hack: if "you" appears in the apology, it is often slipping into a blame-or-shame form rather than staying as clean acknowledgment. The solidarity sorry can be an exception ("I'm sorry you're having a hard day") because the "you" is acknowledging the other's experience, not making them responsible for the speaker's apology. The shame sorry uses "you" in ways that route responsibility back onto the apologizer or onto the other. See [[dont-use-you-in-an-apology]] for the constraint in detail.
 
 ## The Coaching Move
 
@@ -66,6 +84,15 @@ Joe coaches this with warmth and precision. The point is not to eliminate apolog
 - Do not weaponize the distinction. Saying "you're doing shame sorry, not solidarity sorry" to someone mid-apology is unhelpful. Use it as a self-diagnostic, not a critique.
 - Do not collapse the distinction into "good sorry vs. bad sorry." Both can be appropriate in different contexts. The shame sorry has a place when actual harm was done.
 
+## Related Articles
+
+- [[upright-apology]] -- the third clean form: responsibility without shame, distinct from solidarity.
+- [[forms-of-dysfunctional-apology]] -- the catalog of dysfunctional shame-sorry forms.
+- [[dont-use-you-in-an-apology]] -- the language constraint that helps the speaker stay clean.
+- [[apologize-to-exit-a-fight]] -- when the upright form is used to dissolve a power struggle.
+- [[receive-the-apology-permeably]] -- the receiving side of the same dynamic.
+
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-06-24_The Upright Apology- Accountability Without Shame

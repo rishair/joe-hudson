@@ -66,6 +66,7 @@
     "am-i-being-selfish",
     "i-should-be-doing-this",
     "ill-become-lazy-without-shoulds",
+    "whats-the-most-profound-positive-shift",
     "fear-as-signal-of-care",
     "money-as-surrogate",
     "poverty-mentality",
@@ -76,6 +77,7 @@
     "rehearsing-conversations",
     "find-the-want-behind-the-should",
     "wanting-vs-craving",
+    "craving-is-the-pushing-away",
     "owning-the-want-dissolves-it",
     "resentment-as-unspoken-want",
     "trying-to-be-right-is-the-voice",
@@ -90,10 +92,13 @@
     "am-i-being-selfish",
     "i-should-be-doing-this",
     "ill-become-lazy-without-shoulds",
+    "what-makes-you-care-about-the-outcome",
     "state-seeking",
     "the-want",
     "intention-vs-goal",
     "wants-vs-partiality",
+    "craving-is-the-pushing-away",
+    "if-you-think-youre-deciding-youre-in-fear",
     "leaders-wants-are-the-organizations-wants",
     "owning-the-want-dissolves-it",
     "wanting-itself-not-what-you-want",
@@ -163,6 +168,7 @@
     "find-the-want-behind-the-should",
     "wanting-vs-craving",
     "wants-vs-partiality",
+    "craving-is-the-pushing-away",
     "selfishness-is-the-engine-of-unity",
     "wanting-itself-not-what-you-want",
     "wants-deepen-as-you-follow-them",
@@ -222,6 +228,210 @@
     "anger",
     "three-forms-of-anger-repression",
     "connection-doesnt-require-the-other"
+  ],
+  "parts-work-made-things-worse": [
+    "how-do-i-trust-myself",
+    "am-i-doing-it-right",
+    "intellectual-question-with-emotional-body",
+    "how-do-you-not-trust-it",
+    "lets-go-there",
+    "if-you-think-youre-deciding-youre-in-fear"
+  ],
+  "if-you-think-youre-deciding-youre-in-fear": [
+    "how-do-i-trust-myself",
+    "how-do-you-not-trust-it",
+    "what-makes-you-care-about-the-outcome",
+    "trust-as-multifaceted",
+    "craving-is-the-pushing-away"
+  ],
+  "engineering-heartbreak-to-avoid-heartbreak": [
+    "how-do-i-trust-myself",
+    "i-keep-crashing-and-burning",
+    "dont-specialize-in-the-scariest-fear",
+    "familiar-over-safe",
+    "projections",
+    "trauma-mapping",
+    "rehearsing-conversations",
+    "embrace-intensity"
+  ],
+  "what-we-fear-we-invite": [
+    "how-do-i-trust-myself",
+    "i-keep-crashing-and-burning",
+    "im-afraid-of-stagnating",
+    "what-makes-you-care-about-the-outcome",
+    "dont-specialize-in-the-scariest-fear",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "fear-of-self-destruction-by-anger",
+    "impartiality",
+    "kinked-emotions",
+    "power-dynamics-as-two-defenders",
+    "trauma-mapping",
+    "forms-of-dysfunctional-apology",
+    "the-shame-avoidance-loop",
+    "craving-is-the-pushing-away",
+    "fear-is-about-feeling",
+    "feared-consequences-rarely-happen",
+    "helplessness-is-the-gateway",
+    "refuse-to-be-defined-by-the-worst-act",
+    "victim-stance-invites-abuse",
+    "voice-creates-what-it-fears",
+    "vulnerability-protects",
+    "anxiety-as-unarticulated-need",
+    "electric-fence-with-dog",
+    "joes-abandonment-mapping",
+    "target-fixation"
+  ],
+  "intellectual-question-with-emotional-body": [
+    "how-do-i-trust-myself",
+    "disassociating-in-the-coaching-room",
+    "whats-the-most-profound-positive-shift"
+  ],
+  "the-happiness-filter": [
+    "how-do-i-trust-myself",
+    "whats-the-ultimate-thing-youre-running-from"
+  ],
+  "am-i-doing-it-right": [
+    "how-do-i-trust-myself",
+    "disassociating-in-the-coaching-room"
+  ],
+  "whats-the-most-profound-positive-shift": [
+    "how-do-i-trust-myself",
+    "intellectual-question-with-emotional-body",
+    "whats-the-ultimate-thing-youre-running-from",
+    "if-you-think-youre-deciding-youre-in-fear"
+  ],
+  "how-do-you-not-trust-it": [
+    "how-do-i-trust-myself",
+    "whats-the-most-profound-positive-shift",
+    "trust-as-multifaceted",
+    "if-you-think-youre-deciding-youre-in-fear"
+  ],
+  "annihilation-reveals-what-is-real": [
+    "how-do-i-trust-myself",
+    "what-are-you-defending",
+    "whats-the-ultimate-thing-youre-running-from",
+    "identity-extension-expands-fear",
+    "two-words-for-fear",
+    "lets-go-there",
+    "peace-is-what-we-resist-the-most",
+    "what-we-fear-we-invite"
+  ],
+  "whats-the-ultimate-thing-youre-running-from": [
+    "how-do-i-trust-myself",
+    "what-makes-you-care-about-the-outcome",
+    "whats-the-most-profound-positive-shift",
+    "lets-go-there",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "peace-is-what-we-resist-the-most"
+  ],
+  "peace-is-what-we-resist-the-most": [
+    "how-do-i-trust-myself",
+    "whats-the-ultimate-thing-youre-running-from",
+    "resistance",
+    "lets-go-there",
+    "wanting-vs-craving",
+    "craving-is-the-pushing-away",
+    "peace-precedes-joy-after-non-duality"
+  ],
+  "forms-of-dysfunctional-apology": [
+    "i-cant-apologize",
+    "dont-extract-apologies",
+    "upright-apology",
+    "receive-the-apology-permeably",
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "dont-use-you-in-an-apology"
+  ],
+  "reclaiming-abandonment": [
+    "i-cant-apologize",
+    "i-have-to-do-it-all-myself",
+    "trauma-mapping",
+    "prepare-and-release-the-difficult-conversation",
+    "stacy-father-conversation",
+    "vulnerability-in-the-workplace"
+  ],
+  "power-dynamics-as-two-defenders": [
+    "i-cant-apologize",
+    "what-are-you-defending",
+    "apologies-as-power-struggle-surrogate",
+    "binary-thinking-signals-fear",
+    "acknowledge-the-fear-by-role",
+    "apologize-to-exit-a-fight",
+    "fear-triangle",
+    "joes-hr-call-firing"
+  ],
+  "upright-apology": [
+    "i-cant-apologize",
+    "dont-extract-apologies",
+    "apologies-as-power-struggle-surrogate",
+    "forms-of-dysfunctional-apology",
+    "apologize-for-trying-to-control",
+    "apologize-to-exit-a-fight",
+    "receive-the-apology-permeably",
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "dont-use-you-in-an-apology",
+    "apologize-as-daily-practice-for-bad-habits"
+  ],
+  "shame-drives-behavior": [
+    "i-cant-apologize",
+    "i-keep-crashing-and-burning",
+    "i-need-to-improve-myself",
+    "i-should-be-doing-this",
+    "im-afraid-of-stagnating",
+    "my-inner-critic-wont-stop",
+    "dont-extract-apologies",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "impartiality",
+    "resistance",
+    "shame-as-disconnection",
+    "should-as-threat",
+    "upright-apology",
+    "voice-in-the-head",
+    "forms-of-dysfunctional-apology",
+    "negative-self-reinforcement",
+    "perfectionism",
+    "rebellion-or-submission-to-should",
+    "acknowledge-the-fear-by-role",
+    "defense-vs-love",
+    "empowered-vs-power",
+    "fault-vs-responsibility",
+    "improvement-vs-authenticity",
+    "past-shame-vs-current-shame",
+    "wants-vs-partiality",
+    "address-the-blocker-not-the-symptom",
+    "caretaking-prevents-the-bottom",
+    "helplessness-is-the-gateway",
+    "honor-the-patterns-intent",
+    "inherent-goodness",
+    "nervous-system-recovery-after-stress",
+    "refuse-to-be-defined-by-the-worst-act",
+    "voice-creates-what-it-fears",
+    "wants-over-shoulds",
+    "what-we-fear-we-invite",
+    "apologize-as-daily-practice-for-bad-habits",
+    "patient-on-the-table",
+    "fear-triangle",
+    "seven-limiting-beliefs",
+    "joes-26-year-old-list",
+    "joes-pot-habit"
+  ],
+  "apologize-to-exit-a-fight": [
+    "i-cant-apologize",
+    "apologies-as-power-struggle-surrogate",
+    "upright-apology",
+    "apologize-for-trying-to-control",
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "dont-use-you-in-an-apology"
+  ],
+  "apologize-as-daily-practice-for-bad-habits": [
+    "i-cant-apologize",
+    "upright-apology"
+  ],
+  "dont-use-you-in-an-apology": [
+    "i-cant-apologize",
+    "upright-apology",
+    "apologize-for-trying-to-control",
+    "apologize-to-exit-a-fight",
+    "sorry-from-shame-vs-sorry-as-solidarity"
   ],
   "i-feel-trapped": [
     "i-caretake-people",
@@ -327,6 +537,7 @@
   ],
   "state-the-want-not-the-action": [
     "i-caretake-people",
+    "apologies-as-power-struggle-surrogate",
     "sublimated-wants-become-politics",
     "chameleon-leadership",
     "diagnose-the-meeting-live",
@@ -400,6 +611,7 @@
     "embrace-intensity",
     "feared-consequences-rarely-happen",
     "helplessness-is-the-gateway",
+    "if-you-think-youre-deciding-youre-in-fear",
     "love-requires-empowerment",
     "vulnerability-protects",
     "what-we-fear-we-invite",
@@ -560,7 +772,9 @@
     "empowered-vs-power"
   ],
   "disassociating-in-the-coaching-room": [
-    "i-freeze-around-authority"
+    "i-freeze-around-authority",
+    "am-i-doing-it-right",
+    "intellectual-question-with-emotional-body"
   ],
   "upright-undefended-love": [
     "i-freeze-around-authority",
@@ -650,13 +864,6 @@
     "sincerity-is-the-prerequisite",
     "the-clients-wisdom-not-the-teachers"
   ],
-  "reclaiming-abandonment": [
-    "i-have-to-do-it-all-myself",
-    "trauma-mapping",
-    "prepare-and-release-the-difficult-conversation",
-    "stacy-father-conversation",
-    "vulnerability-in-the-workplace"
-  ],
   "stacy-father-conversation": [
     "i-have-to-do-it-all-myself",
     "reclaiming-abandonment",
@@ -699,9 +906,12 @@
     "i-keep-running-into-the-same-wall",
     "im-afraid-of-offending-people",
     "im-not-an-anxious-person",
+    "intellectual-question-with-emotional-body",
     "looking-for-whats-wrong",
     "recycling-anger-without-clarity",
-    "trying-to-get-rid-of-the-emotion"
+    "the-happiness-filter",
+    "trying-to-get-rid-of-the-emotion",
+    "peace-is-what-we-resist-the-most"
   ],
   "i-have-no-choice": [
     "i-have-to-sacrifice-to-succeed"
@@ -768,43 +978,11 @@
     "the-change-or-no-change-visualization",
     "three-kinds-of-limiting-beliefs"
   ],
-  "engineering-heartbreak-to-avoid-heartbreak": [
-    "i-keep-crashing-and-burning",
-    "dont-specialize-in-the-scariest-fear",
-    "familiar-over-safe",
-    "projections",
-    "trauma-mapping",
-    "rehearsing-conversations",
-    "embrace-intensity"
-  ],
-  "what-we-fear-we-invite": [
-    "i-keep-crashing-and-burning",
-    "im-afraid-of-stagnating",
-    "dont-specialize-in-the-scariest-fear",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "fear-of-self-destruction-by-anger",
-    "impartiality",
-    "kinked-emotions",
-    "power-dynamics-as-two-defenders",
-    "trauma-mapping",
-    "forms-of-dysfunctional-apology",
-    "the-shame-avoidance-loop",
-    "fear-is-about-feeling",
-    "feared-consequences-rarely-happen",
-    "helplessness-is-the-gateway",
-    "refuse-to-be-defined-by-the-worst-act",
-    "victim-stance-invites-abuse",
-    "voice-creates-what-it-fears",
-    "vulnerability-protects",
-    "anxiety-as-unarticulated-need",
-    "electric-fence-with-dog",
-    "joes-abandonment-mapping",
-    "target-fixation"
-  ],
   "not-sometimes-right-now": [
     "i-keep-crashing-and-burning",
     "what-is-it-without-resistance",
     "ask-the-witnesses",
+    "lets-go-there",
     "question-the-caveat",
     "trigger-the-shame-live"
   ],
@@ -817,53 +995,16 @@
     "i-keep-crashing-and-burning",
     "linguistic-caveat"
   ],
-  "shame-drives-behavior": [
-    "i-keep-crashing-and-burning",
-    "i-need-to-improve-myself",
-    "i-should-be-doing-this",
-    "im-afraid-of-stagnating",
-    "my-inner-critic-wont-stop",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "impartiality",
-    "resistance",
-    "shame-as-disconnection",
-    "should-as-threat",
-    "upright-apology",
-    "voice-in-the-head",
-    "forms-of-dysfunctional-apology",
-    "negative-self-reinforcement",
-    "perfectionism",
-    "rebellion-or-submission-to-should",
-    "acknowledge-the-fear-by-role",
-    "defense-vs-love",
-    "empowered-vs-power",
-    "fault-vs-responsibility",
-    "improvement-vs-authenticity",
-    "past-shame-vs-current-shame",
-    "wants-vs-partiality",
-    "address-the-blocker-not-the-symptom",
-    "caretaking-prevents-the-bottom",
-    "helplessness-is-the-gateway",
-    "honor-the-patterns-intent",
-    "inherent-goodness",
-    "nervous-system-recovery-after-stress",
-    "refuse-to-be-defined-by-the-worst-act",
-    "voice-creates-what-it-fears",
-    "wants-over-shoulds",
-    "what-we-fear-we-invite",
-    "patient-on-the-table",
-    "fear-triangle",
-    "seven-limiting-beliefs",
-    "joes-26-year-old-list",
-    "joes-pot-habit"
-  ],
   "ask-the-witnesses": [
     "i-keep-crashing-and-burning"
   ],
   "manufacturing-the-feeling": [
     "i-keep-crashing-and-burning",
     "im-afraid-of-offending-people",
+    "am-i-doing-it-right",
     "desire-for-resolution",
+    "intellectual-question-with-emotional-body",
+    "the-happiness-filter",
     "trying-to-get-rid-of-the-emotion",
     "embracing-vs-creating-intensity"
   ],
@@ -962,6 +1103,7 @@
     "owning-the-want-dissolves-it",
     "sustained-fear-requires-post-hoc-processing",
     "what-we-fear-we-invite",
+    "apologize-as-daily-practice-for-bad-habits",
     "daily-emotional-yoga",
     "fake-the-anger-to-let-it-move",
     "feeling-the-want-as-emotion",
@@ -994,6 +1136,7 @@
     "disassociation-as-numbness-layer",
     "limiting-belief-detection-signals",
     "connection-as-life-bottom-line",
+    "craving-is-the-pushing-away",
     "improvement-mindset-vs-maintenance-mindset",
     "peace-precedes-joy-after-non-duality",
     "seven-limiting-beliefs"
@@ -1026,7 +1169,8 @@
     "love-as-deep-welcoming",
     "improvement-vs-authenticity",
     "good-and-corruption-cycle",
-    "love-is-the-best-change-agent"
+    "love-is-the-best-change-agent",
+    "apologize-as-daily-practice-for-bad-habits"
   ],
   "quit-hope-lose-cycle": [
     "i-keep-crashing-and-burning",
@@ -1219,6 +1363,7 @@
   "self-realization": [
     "i-need-to-improve-myself",
     "im-afraid-of-stagnating",
+    "parts-work-made-things-worse",
     "what-am-i",
     "tools-to-change-not-love",
     "cult-of-one",
@@ -1282,6 +1427,7 @@
     "im-afraid-of-stagnating",
     "my-inner-critic-wont-stop",
     "looking-for-whats-wrong",
+    "if-you-think-youre-deciding-youre-in-fear",
     "inherent-goodness",
     "nature-improves-itself",
     "wants-over-shoulds",
@@ -1703,6 +1849,7 @@
   "whats-the-scary-truth": [
     "im-not-an-anxious-person",
     "how-do-you-want-to-be",
+    "whats-the-ultimate-thing-youre-running-from",
     "vulnerability",
     "vulnerability-is-personal",
     "anxiety-as-unarticulated-need"
@@ -1725,6 +1872,7 @@
     "embrace-vs-brace",
     "embrace-intensity",
     "negative-emotions-precede-positive",
+    "peace-is-what-we-resist-the-most",
     "peace-precedes-joy-after-non-duality",
     "stages-of-emotional-development",
     "cafe-emotional-stigma"
@@ -1767,6 +1915,7 @@
   ],
   "impartiality": [
     "ive-lost-my-joy",
+    "what-makes-you-care-about-the-outcome",
     "dont-evangelize-the-work",
     "fixing-people",
     "impartial-apathy",
@@ -1788,6 +1937,7 @@
     "connection-over-perfection",
     "fear-is-about-feeling",
     "follow-the-demand",
+    "if-you-think-youre-deciding-youre-in-fear",
     "inherent-goodness",
     "process-over-result",
     "right-question-over-right-answer",
@@ -2003,6 +2153,7 @@
     "dont-fight-the-voice",
     "voice-as-care",
     "voice-in-the-head",
+    "paradoxical-instruction-to-resist",
     "voice-creates-what-it-fears",
     "lawyer-the-voice"
   ],
@@ -2037,6 +2188,22 @@
   "excavating-the-inner-critic-in-group": [
     "my-inner-critic-wont-stop",
     "voice-in-the-head"
+  ],
+  "how-do-i-trust-myself": [
+    "parts-work-made-things-worse",
+    "am-i-doing-it-right",
+    "intellectual-question-with-emotional-body",
+    "the-happiness-filter",
+    "how-do-you-not-trust-it",
+    "what-makes-you-care-about-the-outcome",
+    "trust-as-multifaceted",
+    "lets-go-there",
+    "craving-is-the-pushing-away",
+    "if-you-think-youre-deciding-youre-in-fear"
+  ],
+  "stories-are-developmental-scaffolding": [
+    "parts-work-made-things-worse",
+    "story"
   ],
   "embrace-vs-brace": [
     "absence-of-resistance-to-the-suck",
@@ -2105,6 +2272,7 @@
     "will-chesney-seal-collapse-and-return"
   ],
   "resistance": [
+    "am-i-doing-it-right",
     "how-much-fight",
     "expanding-sense-of-self",
     "feeling-the-unfelt-emotion",
@@ -2120,11 +2288,13 @@
     "fear-vs-excitement",
     "suffering-vs-pain",
     "trying-vs-doing",
+    "craving-is-the-pushing-away",
     "embrace-intensity",
     "enjoyment-as-path",
     "falling-in-love-with-projections",
     "fear-is-about-feeling",
     "love-is-the-best-change-agent",
+    "peace-is-what-we-resist-the-most",
     "process-over-result",
     "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
@@ -2170,10 +2340,12 @@
   ],
   "absence-of-resistance-to-the-suck": [
     "humility-in-the-system",
+    "the-happiness-filter",
     "will-chesney-seal-collapse-and-return"
   ],
   "peace-precedes-joy-after-non-duality": [
-    "listlessness-after-awakening"
+    "listlessness-after-awakening",
+    "peace-is-what-we-resist-the-most"
   ],
   "ive-lost-my-joy": [
     "listlessness-after-awakening",
@@ -2232,6 +2404,7 @@
     "anger",
     "visceral-clarity-from-anger",
     "name-the-authoritys-fear",
+    "annihilation-reveals-what-is-real",
     "get-angry-in-the-car",
     "emile-three-relationships-with-fear",
     "joes-weeping-at-superficial-conversations"
@@ -2353,6 +2526,15 @@
   "don-t-do-emotion-at-people|dont-do-emotion-at-people": [
     "does-saying-it-increase-your-love"
   ],
+  "how-is-that-not-true-about-you": [
+    "how-do-you-not-trust-it",
+    "projections"
+  ],
+  "how-is-that-not-here-right-now": [
+    "how-do-you-not-trust-it",
+    "what-if-there-is-no-finish-line",
+    "no-finish-line"
+  ],
   "listening-to-impulse": [
     "how-do-you-want-to-be",
     "the-want",
@@ -2447,12 +2629,6 @@
     "what-we-fear-we-invite",
     "three-ways-to-fire-someone"
   ],
-  "annihilation-reveals-what-is-real": [
-    "what-are-you-defending",
-    "identity-extension-expands-fear",
-    "two-words-for-fear",
-    "what-we-fear-we-invite"
-  ],
   "defense": [
     "what-are-you-defending",
     "heartbreak-as-capacity-expansion",
@@ -2468,14 +2644,6 @@
     "joes-board-member",
     "joes-weeping-at-superficial-conversations"
   ],
-  "power-dynamics-as-two-defenders": [
-    "what-are-you-defending",
-    "binary-thinking-signals-fear",
-    "acknowledge-the-fear-by-role",
-    "apologize-to-exit-a-fight",
-    "fear-triangle",
-    "joes-hr-call-firing"
-  ],
   "acknowledge-the-fear-by-role": [
     "what-are-you-defending",
     "dont-modify-behavior-to-exit-the-triangle",
@@ -2483,9 +2651,18 @@
     "empathize-with-fear-under-constricted-boundary",
     "fear-triangle"
   ],
-  "how-is-that-not-here-right-now": [
-    "what-if-there-is-no-finish-line",
-    "no-finish-line"
+  "how-do-you-want-to-be": [
+    "what-makes-you-care-about-the-outcome",
+    "should-vs-want-body-check",
+    "joes-stinky-house-experiment"
+  ],
+  "craving-is-the-pushing-away": [
+    "what-makes-you-care-about-the-outcome",
+    "resistance",
+    "wanting-vs-craving",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "peace-is-what-we-resist-the-most",
+    "peace-precedes-joy-after-non-duality"
   ],
   "welcoming-the-others-emotion": [
     "what-would-happen-if-you-stopped",
@@ -2502,6 +2679,20 @@
     "dropping-roles-makes-room",
     "voice-creates-what-it-fears",
     "visualizing-feared-outcomes"
+  ],
+  "follow-the-demand": [
+    "whats-the-most-profound-positive-shift",
+    "meet-resistance-with-okay",
+    "state-the-want-not-the-action",
+    "sincerity-is-the-prerequisite",
+    "the-clients-wisdom-not-the-teachers",
+    "the-work-is-yours-not-mine",
+    "team-as-scientific-method",
+    "no-doctrine-leadership"
+  ],
+  "lets-go-there": [
+    "whats-the-ultimate-thing-youre-running-from",
+    "peace-is-what-we-resist-the-most"
   ],
   "emotion-can-move-without-a-story": [
     "dont-block-emotion-waiting-for-reason",
@@ -2597,6 +2788,11 @@
     "community-over-teacher",
     "keeping-cult-dynamics-conscious"
   ],
+  "i-cant-apologize": [
+    "dont-extract-apologies",
+    "upright-apology",
+    "forms-of-dysfunctional-apology"
+  ],
   "layered-resistance": [
     "dont-fight-the-voice",
     "resistance",
@@ -2615,6 +2811,7 @@
     "voice-in-the-head",
     "rehearsing-conversations",
     "three-things-that-go-wrong-when-releasing-anger",
+    "paradoxical-instruction-to-resist",
     "repetitive-vs-inspirational-voice",
     "love-is-the-best-change-agent",
     "i-exist-affirmation-against-collapse",
@@ -2923,6 +3120,7 @@
     "embrace-vs-brace",
     "love-the-anxiety-not-just-with-it",
     "acceptance-as-change-strategy",
+    "craving-is-the-pushing-away",
     "falling-in-love-with-projections",
     "honor-the-patterns-intent"
   ],
@@ -3001,6 +3199,7 @@
     "late-stage-reversion",
     "negative-bias-of-trauma-imprinting",
     "excavating-the-inner-critic-in-group",
+    "paradoxical-instruction-to-resist",
     "improvement-vs-authenticity",
     "acceptance-as-change-strategy",
     "falling-in-love-with-projections",
@@ -3025,6 +3224,7 @@
     "poverty-mentality",
     "3-to-5-rule",
     "pleasure-capacity",
+    "paradoxical-instruction-to-resist",
     "shame-drives-behavior",
     "what-we-fear-we-invite",
     "joes-abandonment-mapping"
@@ -3140,6 +3340,11 @@
     "staying-in-your-body",
     "body-awareness-in-meetings"
   ],
+  "being-heard": [
+    "apologies-as-power-struggle-surrogate",
+    "receive-the-apology-permeably",
+    "view"
+  ],
   "intention-vs-goal": [
     "art-of-accomplishment",
     "wanting-vs-craving",
@@ -3159,6 +3364,7 @@
   "hands-together-exercise": [
     "art-of-accomplishment",
     "undoing-not-doing",
+    "paradoxical-instruction-to-resist",
     "trying-vs-doing",
     "exercises-need-body-voice-emotion"
   ],
@@ -3568,9 +3774,6 @@
   "what-are-you-defending": [
     "power-dynamics-as-two-defenders"
   ],
-  "how-is-that-not-true-about-you": [
-    "projections"
-  ],
   "choosing-the-projection-that-serves": [
     "projections",
     "falling-in-love-with-projections"
@@ -3598,6 +3801,7 @@
     "layered-resistance",
     "perfectionism",
     "shame-drives-behavior",
+    "apologize-as-daily-practice-for-bad-habits",
     "joes-pot-habit"
   ],
   "body-lies-as-much-as-mind": [
@@ -3605,9 +3809,6 @@
     "staying-in-your-body",
     "head-heart-gut",
     "three-kinds-of-limiting-beliefs"
-  ],
-  "stories-are-developmental-scaffolding": [
-    "story"
   ],
   "dont-use-story-frame-to-bypass": [
     "story"
@@ -3652,11 +3853,6 @@
   "believing-the-convenient-lie": [
     "untruth-in-every-thought"
   ],
-  "forms-of-dysfunctional-apology": [
-    "upright-apology",
-    "receive-the-apology-permeably",
-    "dont-use-you-in-an-apology"
-  ],
   "sorry-from-shame-vs-sorry-as-solidarity": [
     "upright-apology",
     "forms-of-dysfunctional-apology",
@@ -3669,24 +3865,10 @@
     "upright-apology",
     "forms-of-dysfunctional-apology"
   ],
-  "dont-use-you-in-an-apology": [
-    "upright-apology",
-    "apologize-to-exit-a-fight"
-  ],
-  "apologize-to-exit-a-fight": [
-    "upright-apology",
-    "dont-use-you-in-an-apology"
-  ],
-  "apologize-as-daily-practice-for-bad-habits": [
-    "upright-apology"
-  ],
-  "i-cant-apologize": [
-    "upright-apology",
-    "forms-of-dysfunctional-apology"
-  ],
   "receive-the-apology-permeably": [
     "upright-apology",
-    "apologize-to-exit-a-fight"
+    "apologize-to-exit-a-fight",
+    "sorry-from-shame-vs-sorry-as-solidarity"
   ],
   "repetitive-vs-inspirational-voice": [
     "voice-in-the-head"
@@ -3726,16 +3908,11 @@
   "cafe-emotional-stigma": [
     "fear-of-joy"
   ],
-  "upright-apology": [
-    "forms-of-dysfunctional-apology",
-    "apologize-to-exit-a-fight",
-    "receive-the-apology-permeably",
-    "dont-use-you-in-an-apology"
-  ],
   "address-the-blocker-not-the-symptom": [
     "forms-of-dysfunctional-apology",
     "sincerity-is-the-prerequisite",
     "the-clients-wisdom-not-the-teachers",
+    "apologize-as-daily-practice-for-bad-habits",
     "the-change-or-no-change-visualization"
   ],
   "apologies-as-power-struggle-surrogate": [
@@ -3781,6 +3958,7 @@
   ],
   "fake-the-anger-to-let-it-move": [
     "three-childhood-origins-of-anger-repression",
+    "paradoxical-instruction-to-resist",
     "treat-yourself-as-actor-of-emotion",
     "observer-vs-immersion-by-anger-type",
     "get-angry-in-the-car",
@@ -3843,19 +4021,6 @@
     "marketing-as-the-beginning",
     "the-clients-wisdom-not-the-teachers",
     "the-work-is-yours-not-mine"
-  ],
-  "follow-the-demand": [
-    "meet-resistance-with-okay",
-    "state-the-want-not-the-action",
-    "sincerity-is-the-prerequisite",
-    "the-clients-wisdom-not-the-teachers",
-    "the-work-is-yours-not-mine",
-    "team-as-scientific-method",
-    "no-doctrine-leadership"
-  ],
-  "being-heard": [
-    "receive-the-apology-permeably",
-    "view"
   ],
   "chase-it-around-the-room": [
     "trigger-the-shame-live"
@@ -3938,6 +4103,10 @@
   "conditions-for-transformation": [
     "safety-vs-defensiveness",
     "five-principles-of-the-path"
+  ],
+  "covey-subway-story": [
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "three-kinds-of-limiting-beliefs"
   ],
   "enjoyment-as-surrender": [
     "surrender-to-ineffable-vs-person",
@@ -4062,6 +4231,7 @@
     "goal-beyond-the-goal"
   ],
   "listlessness-after-awakening": [
+    "peace-is-what-we-resist-the-most",
     "peace-precedes-joy-after-non-duality"
   ],
   "knowing|knowing-as-opposite-of-wonder": [
@@ -4097,6 +4267,10 @@
   "target-fixation": [
     "what-we-fear-we-invite"
   ],
+  "joes-pot-habit": [
+    "apologize-as-daily-practice-for-bad-habits",
+    "joes-hacky-sack"
+  ],
   "dont-reflect-your-patterns-as-culture": [
     "gratitude-rounds-before-meetings",
     "team-as-scientific-method"
@@ -4117,10 +4291,6 @@
   "how-is-my-anxiety-right-now": [
     "love-relationship-with-anxiety"
   ],
-  "how-do-you-want-to-be": [
-    "should-vs-want-body-check",
-    "joes-stinky-house-experiment"
-  ],
   "exercises-need-body-voice-emotion": [
     "should-vs-want-body-check"
   ],
@@ -4140,9 +4310,6 @@
     "three-kinds-of-limiting-beliefs",
     "joe-ferris-wheel-ride"
   ],
-  "covey-subway-story": [
-    "three-kinds-of-limiting-beliefs"
-  ],
   "trust-as-multifaceted|trust": [
     "boeing-ford-bad-news"
   ],
@@ -4151,9 +4318,6 @@
   ],
   "boundaries-expand-as-capacity-grows|boundaries refine as capacity grows": [
     "joes-dad-drinking-boundary"
-  ],
-  "joes-pot-habit": [
-    "joes-hacky-sack"
   ],
   "dont-use-boundaries-as-ultimatums|ultimatum disguised as boundary": [
     "rubbermaid-dish-solution"

@@ -2,10 +2,10 @@
 type: concept
 id: trust-as-multifaceted
 title: "Trust Is Multifaceted"
-aliases: ["trust has many dimensions", "trust is not one thing", "kinds of trust", "multifaceted trust", "trust as multiple things", "different forms of trust"]
-tags: ["trust", "teams", "relationships", "leadership", "vulnerability"]
-related: ["functional-team", "trust-vs-safety", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "vulnerability", "leaders-wants-are-the-organizations-wants"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+aliases: ["trust has many dimensions", "trust is not one thing", "kinds of trust", "multifaceted trust", "trust as multiple things", "different forms of trust", "trust of self has dimensions too", "self-trust is multifaceted", "trusting myself dimensions"]
+tags: ["trust", "teams", "relationships", "leadership", "vulnerability", "self-trust"]
+related: ["functional-team", "trust-vs-safety", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "vulnerability", "leaders-wants-are-the-organizations-wants", "how-do-i-trust-myself", "if-you-think-youre-deciding-youre-in-fear"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
 ---
 
 # Trust Is Multifaceted
@@ -84,6 +84,25 @@ Joe completes the thought: "There's no trust in that."
 
 The repair is not to perform more trust. The repair is to name the actual state of trust honestly. "I notice I am not trusting you here, and I don't want to be in a team where I am pretending to trust you." Naming the dimension where trust is missing is the first move toward building it.
 
+## Self-Trust Is Also Multifaceted
+
+The same structural insight applies to trust of self. "I don't trust myself" is as non-actionable as "I don't trust them." The actual structure has dimensions:
+
+- **Trust in your action capacity:** that you will do what you say you will do for yourself
+- **Trust in your perception:** that what you notice is real, that your read of a situation is reliable
+- **Trust in your intuition:** that the impulse from your body has information worth following
+- **Trust in your discernment:** that you can tell fear from intuition, projection from perception
+- **Trust in your aliveness:** that what you want is worth following, that your fire is not dangerous
+- **Trust in your worth:** that you are okay if the outcome doesn't go the way you wanted
+
+When a person says "I can't trust myself," they often mean one or two of these dimensions specifically. They are trusting themselves in many of the others continuously without noticing. The blanket statement obscures what is actually missing.
+
+See [[how-do-i-trust-myself]] for the full coaching path on self-trust collapse and [[how-do-you-not-trust-it]] for the inversion question that surfaces which dimensions are actually working.
+
+A common pattern: the person has high action-capacity trust and high perception trust but low discernment trust about a specific decision domain (career, relationship, money). They report "I don't trust myself" globally. The actual issue is the one domain. Once named, the issue is workable -- it stops being a self-trust collapse and becomes a specific domain question.
+
+A deeper pattern: the trust collapse is actually fear-of-outcome dressed as a trust question. See [[if-you-think-youre-deciding-youre-in-fear]]. The person is reading the felt-decision quality of their current situation as evidence of self-trust failure. The fear is what's producing the decision-feel and the decision-feel is what's producing the trust frame. Underneath the trust question is an outcome attachment that has not been felt yet.
+
 ## When Someone Experiences This
 
 - You realize you have been treating "I trust them" or "I don't trust them" as final, when the actual structure is more granular
@@ -109,3 +128,4 @@ The repair is not to perform more trust. The repair is to name the actual state 
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-07-08_How Do I Trust Myself? (Coaching Session)

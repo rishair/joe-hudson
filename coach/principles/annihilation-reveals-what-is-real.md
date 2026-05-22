@@ -2,10 +2,10 @@
 type: principle
 id: annihilation-reveals-what-is-real
 title: "Offer Yourself Up to Annihilation"
-aliases: ["the part of you that can't be annihilated is you", "annihilation reveals the real", "fear as direct path to freedom", "what survives annihilation is you", "fear annihilates identity-extensions", "fear as the fastest path", "fear as path to authenticity"]
-tags: ["fear", "self", "annihilation", "freedom", "authenticity", "self-realization", "non-dual"]
-related: ["identity-extension-expands-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-is-about-feeling", "vulnerability", "fear-as-signal-of-care", "improvement-vs-authenticity"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+aliases: ["the part of you that can't be annihilated is you", "annihilation reveals the real", "fear as direct path to freedom", "what survives annihilation is you", "fear annihilates identity-extensions", "fear as the fastest path", "fear as path to authenticity", "hurt clarifies what's taking it personally", "hurt as clarifier", "let the hurt go all the way through", "hurt clarifies who you are"]
+tags: ["fear", "self", "annihilation", "freedom", "authenticity", "self-realization", "non-dual", "hurt"]
+related: ["identity-extension-expands-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-is-about-feeling", "vulnerability", "fear-as-signal-of-care", "improvement-vs-authenticity", "peace-is-what-we-resist-the-most"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
 ---
 
 # Offer Yourself Up to Annihilation
@@ -67,6 +67,32 @@ The creek metaphor: be the creek that delivers insects, and the insect-eaters ar
 
 This is not magical thinking; it is the ordinary mechanics of what surrounds a stable signal. See also [[acting-as-if-already-true]] for the broader principle.
 
+## Hurt Is the Same Mechanism
+
+The principle applies not just to fear but to hurt. When a person says "I got hurt" and means it as a problem to be avoided, they are treating the hurt as something happening to the essential self. The annihilation reframe: the hurt is happening to an identity-extension. The essential self cannot be hurt. Letting the hurt go all the way through reveals which part of the self was hurt -- which is to say, which part was an extension being held as self.
+
+"There's this Buddhist saying that says, offer yourself up to annihilation so you can find out the part of yourself that can't be annihilated. What's wrong with the hurt? What did it do besides clarify anything? How did it do anything besides clarify who you are?" -- Joe Hudson, How Do I Trust Myself?
+
+The trap is stopping the hurt halfway. The person feels the hurt up to about two inches in and then stops, because going further would mean losing the part of them that is being hurt. They protect the extension by truncating the feeling. The hurt then doesn't clarify -- it stays as ongoing pain without resolution.
+
+"If you weren't avoiding it, it would hurt. It would just hurt all the way through instead of to about 2 inches in. Yeah, let's see what happens. Like, let the thing hurt. Someone broke your trust. Someone couldn't accept you. Someone projected their bullshit on you." -- Joe Hudson, How Do I Trust Myself?
+
+The "all the way through" hurt clarifies. The person discovers, on the other side, which identity-extension was hurt. The extension is then available to be released. What remains -- the essential self -- was not hurt and could not be hurt. The hurt did its work by clarifying the boundary between the extension and the self.
+
+This is the same arc as the fear version. Fear annihilates identity-extensions through feeling the threat. Hurt clarifies identity-extensions by completing the wound. Both produce the actual self by revealing what was self-extension rather than self.
+
+## Hurt Is Not Suppressed Anger
+
+A specific consequence of the hurt-version of the principle: letting hurt go all the way through often produces anger. The hurt arrives first; the anger arrives next. Both belong to the same arc.
+
+The fear of this anger is sometimes what truncates the hurt. The person stops feeling the hurt because they sense anger on the other side and they have learned that their anger is dangerous or unwelcome. The truncation looks like managing the hurt; it functions as suppressing the anger.
+
+"I'm scared the hurt will turn into anger." -- (person in How Do I Trust Myself?)
+
+"I hope so." -- Joe Hudson, How Do I Trust Myself?
+
+Joe's response makes the principle explicit. Anger after the hurt is not a problem; it is the completion of the arc. The clarity comes through the anger, not despite it. See [[anger-as-cover-for-deeper-emotion]] for the bidirectional principle that frames this.
+
 ## The Path Does Not End
 
 The annihilation principle keeps producing new fears, not as failure but as success.
@@ -109,3 +135,4 @@ See [[dont-confuse-embracing-fear-with-inviting-danger]] for the full anti-patte
 ## Sources
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-07-08_How Do I Trust Myself? (Coaching Session)

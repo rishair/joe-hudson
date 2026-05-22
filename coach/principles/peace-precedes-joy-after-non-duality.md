@@ -4,8 +4,8 @@ id: peace-precedes-joy-after-non-duality
 title: "Peace Precedes Joy After Non-Duality (Sometimes for a Decade)"
 aliases: ["peace before joy", "joy comes after peace", "the 10 year peace phase", "peace is not the end", "non-duality is not the end", "evolution doesn't stop at non-duality", "people stuck in peace", "from peace to joy after awakening", "the post-non-duality joy phase"]
 tags: ["non-duality", "joy", "peace", "development", "stages", "self-realization"]
-related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
+related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive", "peace-is-what-we-resist-the-most", "craving-is-the-pushing-away"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
 ---
 
 # Peace Precedes Joy After Non-Duality (Sometimes for a Decade)
@@ -15,6 +15,14 @@ sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering
 After the sense of self opens into a more universal awareness — what some call non-duality — people commonly land in peace and assume that is the end. They do not realize that joy is the next movement. Many stay in the peace phase for ten years or more, thinking nothing further is available, before joy begins to come online.
 
 "The other thing that I see happen in people, so when they... when the sense of self opens up into like a more universal sense of self... what I notice is that there's like a movement. Eventually the person then starts moving more and more into joy. That sometimes it takes 10 years for them to just hang out in that space and they don't think there's any — the peace is fine and they don't think there's anything besides peace that's available and then they move into joy." -- Joe Hudson, Sam Altman
+
+## Why Reaching Peace Is Hard in the First Place
+
+Before the peace phase can be inhabited at all, the system has to allow peace, and most systems are organized to push it away. The seeker, the manager, the worrier, the improver -- each of these structures depends on peace not being arrived at. So peace is often the most resisted experience, not because it is unpleasant but because it dissolves the identity built on the activity around producing it.
+
+See [[peace-is-what-we-resist-the-most]] and [[craving-is-the-pushing-away]] for the structural principle.
+
+This explains a common pattern: the person has been working hard toward peace for years and only briefly touches it. The work itself is the activity that keeps peace at bay. When the person finally arrives in peace -- often through a non-duality opening or a release of a long-held identity-extension -- it is because the resistance has dropped, not because the technique was finally correct. Once arrived, the multi-year peace phase described here unfolds.
 
 ## Why the Peace Looks Like a Finish Line
 
@@ -85,3 +93,4 @@ Joe delivers this conversationally, almost casually. He does not make a big deal
 ## Sources
 
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
+- 2022-07-08_How Do I Trust Myself? (Coaching Session)

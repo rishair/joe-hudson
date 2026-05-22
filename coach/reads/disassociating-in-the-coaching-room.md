@@ -2,9 +2,9 @@
 type: read
 id: disassociating-in-the-coaching-room
 title: "Disassociating in the Coaching Room"
-aliases: ["disassociating live", "the look away", "losing connection mid-session", "mild dissociation", "stopping looking at me", "leaving the room"]
-tags: ["relational read", "live coaching", "dissociation", "body", "presence"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+aliases: ["disassociating live", "the look away", "losing connection mid-session", "mild dissociation", "stopping looking at me", "leaving the room", "intellectualizing as dissociation", "going into the head as dissociation", "the head-trip dissociation", "leaving the body mid-session"]
+tags: ["relational read", "live coaching", "dissociation", "body", "presence", "intellectualizing"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
 ---
 
 # Disassociating in the Coaching Room
@@ -43,6 +43,26 @@ Use it as material. The pattern that runs at work is the same pattern running in
 
 Ask what the feeling would be without the dissociation. "What would this feeling be if you weren't resisting it? If you weren't disassociating, if you weren't scared?" This bridges the person from the protective move to the underlying experience.
 
+## The Intellectualizing Variant
+
+The eye-drop variant is the most visible form of dissociation in the room. There is a subtler form: the person, on the edge of feeling something, leaves the body by going into thought. They start analyzing what just happened. They make a smart observation. They ask an interesting question. The intellectual move feels engaged -- it doesn't look like leaving -- but it is the same protective motion as the eye-drop, achieved through the head instead of through the body.
+
+Signals of the intellectualizing variant:
+- The person reaches the edge of a feeling and starts thinking about the feeling
+- "Now I'm intellectualizing. I'm in my head now. Dissociating from it."
+- An interesting analytical observation appears precisely at the moment something would otherwise be felt
+- A meta-question ("am I doing this right?") that pulls the person out of contact -- see [[am-i-doing-it-right]]
+- A pivot to a teaching question or a thought experiment
+- The person notes that the conversation "got interesting" right as they were about to drop in
+
+The intellectualizing variant is harder to name because it doesn't look like leaving. It looks like good participation. But the timing tells the truth -- the head-trip happens precisely at the moment of contact, the same way the eye-drop does.
+
+What Joe does is the same as with the eye-drop. He names it without making it bad. "What just happened? You were there behind the eyes. Then I asked you an interesting question and..." This lets the person notice the leaving in real time. Often they name it themselves: "I'm intellectualizing now."
+
+A specific subtle move Joe makes: when the person dissociates into a flattering analytical observation ("you ask such interesting questions"), he doesn't accept the compliment. He names that the compliment is the dissociation. "Then I asked you an interesting question. And then you..." The compliment was a pivot away from what was being felt. Naming the pivot brings the person back.
+
+See also [[intellectual-question-with-emotional-body]] for the version of this read that happens at the start of a session rather than mid-session.
+
 ## Dialogue Examples
 
 - **Joe:** "I notice you stop looking at me when you're trying to feel this."
@@ -63,3 +83,4 @@ Quiet, observational, slow. Joe does not match the dissociation with intensity. 
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-07-08_How Do I Trust Myself? (Coaching Session)

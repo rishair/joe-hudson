@@ -4,8 +4,8 @@ id: wanting-vs-craving
 title: "Wanting vs. Craving"
 aliases: ["want vs craving", "clean want vs craving", "desire vs craving", "wanting is not craving", "Sufi desire vs Buddhist craving", "expansive want vs sticky craving"]
 tags: ["wants", "craving", "attachment", "non-attachment", "Buddhism", "tantra"]
-related: ["the-want", "wants-over-shoulds", "state-seeking", "owning-the-want-dissolves-it", "feeling-the-want-as-emotion", "process-over-result", "intention-vs-goal"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+related: ["the-want", "wants-over-shoulds", "state-seeking", "owning-the-want-dissolves-it", "feeling-the-want-as-emotion", "process-over-result", "intention-vs-goal", "craving-is-the-pushing-away", "peace-is-what-we-resist-the-most"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
 ---
 
 # Wanting vs. Craving
@@ -23,6 +23,20 @@ sources: ["2021-03-15_Want over Should — Master Class Series #6"]
 The fastest diagnostic is somatic. A clean want produces expansion: open chest, soft shoulders, deeper breath, a sense of room. A craving produces contraction: tight gut, narrow attention, shallow breath, a sense of grip.
 
 Two people can describe wanting the same thing -- the cake, the relationship, the million dollars -- and only the body shows whether they are in wanting or in craving. The words are identical. The internal experience is opposite.
+
+## The Sharp Formulation: Craving IS the Pushing-Away
+
+A stronger version of the distinction, articulated in the trust coaching session: craving is not just wanting-with-attachment. Craving is the simultaneous pushing-away of the thing being craved. The grip is the rejection.
+
+"Everything we crave, we push away at the same time. Craving is the pushing away." -- Joe Hudson, How Do I Trust Myself?
+
+This shifts the distinction from a difference of degree (clean wanting vs. attached wanting) to a difference of motion (wanting that allows the thing vs. wanting that establishes the gap with the thing).
+
+The clearest live demonstration is around peace. The person craves peace. They meditate to find it. They notice an agenda for peace. They try to drop the agenda. They notice a meta-agenda. The hall of mirrors continues. What's happening: the craving for peace is the active pushing-away of peace. The seeker establishes the gap that means peace is absent. Dropping the seeking dissolves the gap and what was being sought turns out to have been here.
+
+See [[craving-is-the-pushing-away]] for the full principle, and [[peace-is-what-we-resist-the-most]] for the specific application to peace.
+
+The distinction this draws inside the wanting/craving frame: wanting allows the object to come; craving structurally prevents the object from coming because the gripping is what holds it at a distance. This is why wanting tends to deepen and refine over time (see [[wants-deepen-as-you-follow-them]]) and craving tends to intensify into compulsion. Wanting moves with the object; craving fights for it across a permanent gap.
 
 ## What Most People Call Wanting Is Actually Craving
 
@@ -71,3 +85,4 @@ If they are in clean wanting, follow it. The want has its own intelligence. It d
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-07-08_How Do I Trust Myself? (Coaching Session)

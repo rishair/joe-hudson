@@ -4,8 +4,8 @@ id: resistance
 title: "Resistance"
 aliases: ["loving the resistance", "if you can't love the thing love the resistance", "resistance to change", "fighting yourself", "the fight", "war with yourself"]
 tags: ["resistance", "transformation", "emotions", "core mechanism"]
-related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path", "kinked-emotions", "feel-over-figure", "love-as-deep-welcoming"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-04-09_Love over Defense — Master Class Series #9"]
+related: ["feeling-the-unfelt-emotion", "embrace-intensity", "layered-resistance", "impartiality", "fear-is-about-feeling", "negative-self-reinforcement", "suffering-vs-pain", "enjoy-over-manage", "perfectionism", "connection-over-perfection", "fear-vs-excitement", "pendulation", "wants-over-shoulds", "enjoyment-as-path", "kinked-emotions", "feel-over-figure", "love-as-deep-welcoming", "craving-is-the-pushing-away", "peace-is-what-we-resist-the-most"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-04-09_Love over Defense — Master Class Series #9", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
 ---
 
 # Resistance
@@ -53,6 +53,20 @@ When someone resists, a useful path is to ask: what tool does the person feel th
 "If you're resistant to bliss, which oddly most people are, bliss is very overwhelming." -- Joe Hudson, Connection over Perfection
 
 The antidote to resistance as perfectionism is [[connection-over-perfection]]: accepting things as they are, which is the definition of connection.
+
+## Resistance to Peace (The Counterintuitive Case)
+
+The most common assumption about resistance is that we resist things we don't want: hard emotions, difficult truths, unwanted change. The less obvious truth is that we also resist what we say we want most. Peace is the canonical example.
+
+A person spends years working toward peace. They meditate, do therapy, work on themselves. They describe a fear of an internal abyss that would swallow them if they really let go. When they finally step into the abyss without resistance, what they find is peace -- not madness, not spiral, not annihilation. The catastrophic story was the resistance to peace.
+
+"It was this big scary abyss that was going to eat you alive and dark spiral of -- but as soon as you went to non-resistance, it was peace. So it makes sense that you were resisting peace." -- Joe Hudson, How Do I Trust Myself?
+
+The system resists peace because peace dissolves the structures the system has been organized around -- the seeker, the manager, the worrier, the improver. Each of these structures depends on peace not being arrived at. If peace arrives, the structures lose their job. So the system generates resistance: stories about danger in stillness, urgency to keep doing, fear of "what if I stopped?"
+
+This is why a person can be running from peace while believing they are running toward it. The seeking is the form the resistance takes. See [[craving-is-the-pushing-away]] and [[peace-is-what-we-resist-the-most]] for the full principle.
+
+The implication for the coaching brain: when someone reports a feared internal territory ("an abyss," "a void," "what would I become"), don't assume the territory is what it seems. Often the avoided territory is something the person consciously wants. The fear-of-the-territory is the resistance to having it.
 
 ## You Are Overtaken by the Resistance, Not the Emotion
 
@@ -111,3 +125,5 @@ Warm, direct, matter-of-fact. Resistance is not treated as a problem but as a co
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-07-08_How Do I Trust Myself? (Coaching Session)
