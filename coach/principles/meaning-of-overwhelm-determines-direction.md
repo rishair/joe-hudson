@@ -5,7 +5,7 @@ title: "The Meaning You Make of the Overwhelm Determines Whether It Builds or De
 aliases: ["meaning of overwhelm determines direction", "the meaning you make of overwhelm", "meaning determines overwhelm outcome", "Ukraine vs Russia meaning", "overwhelm as opportunity vs overwhelm as proof you're broken", "self-blame compounds overwhelm", "overwhelm becomes opportunity through meaning", "the choice is in the meaning"]
 tags: ["overwhelm", "meaning", "principle", "choice", "interpretation", "transformation"]
 related: ["overwhelm", "im-overwhelmed", "dont-add-the-overwhelm-of-creating-the-overwhelm", "honor-the-patterns-intent", "adversity-as-for-not-against", "fault-vs-responsibility"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # The Meaning You Make of the Overwhelm Determines Whether It Builds or Destroys
@@ -107,3 +107,4 @@ Careful, precise, slightly insistent. Joe uses an unusual degree of conscientiou
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

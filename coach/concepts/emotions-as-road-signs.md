@@ -5,7 +5,7 @@ title: "Emotions as Road Signs, Not Causation"
 aliases: ["emotions are road signs", "correlation not causation with emotions", "emotions as signposts", "emotions point not push", "emotions don't cause behavior", "managing emotions trap", "controlling emotions misunderstanding"]
 tags: ["emotions", "control", "dissociation", "trauma", "feeling"]
 related: ["feeling-the-unfelt-emotion", "unfelt-emotion-leaks", "kinked-emotions", "decisions-are-emotional", "feel-over-figure", "trauma-mapping", "projections"]
-sources: ["2021-07-30_Your World is a Projection"]
+sources: ["2021-07-30_Your World is a Projection", "2022-10-26_Your World Is A Projection"]
 ---
 
 # Emotions as Road Signs, Not Causation
@@ -93,3 +93,4 @@ Joe presents this calmly and structurally — it is one of his foundational corr
 ## Sources
 
 - 2021-07-30_Your World is a Projection
+- 2022-10-26_Your World Is A Projection (2022 re-recording of the same conversation, same teaching with the basic-training and snake-bite framings of how big emotional experiences install lessons)

@@ -4,7 +4,7 @@ id: the-rush-signature
 title: "The Rush Signature (The Body and Speech of Overwhelm)"
 aliases: ["the rush signature", "rush as overwhelm signal", "the buzzing body", "fast eyes", "pace of speech as overwhelm read", "the lion body", "the somatic signature of overwhelm", "rushing as the visible overwhelm", "I have to I have to gotta get right", "the push sense", "panic and quickening of tempo"]
 tags: ["read", "overwhelm", "somatic", "body language", "speech", "diagnostic"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # The Rush Signature
@@ -89,3 +89,4 @@ There is also a gentle humor here. The buzzing-lion image is amused. Joe takes t
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

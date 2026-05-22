@@ -4,7 +4,7 @@ id: awareness-as-change-agent
 title: "Awareness as Change Agent"
 aliases: ["awareness changes things", "attention solves problems", "just putting attention on it", "awareness not management", "gentle awareness reduces the voice", "noticing changes things"]
 tags: ["awareness", "change", "impartiality", "management", "principle", "voice in head"]
-related: ["impartiality", "connection-over-perfection", "process-over-result", "resistance", "voice-in-the-head", "dont-fight-the-voice"]
+related: ["impartiality", "connection-over-perfection", "process-over-result", "resistance", "voice-in-the-head", "dont-fight-the-voice", "trust-the-awareness-dont-add-effort"]
 sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-07-16_Who is the Voice in Your Head?"]
 ---
 

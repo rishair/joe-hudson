@@ -5,7 +5,7 @@ title: "Fall in Love with Your Projections"
 aliases: ["love your projections", "don't fight projections", "fighting projections strengthens them", "birdwatching for projections", "love finding projections", "embracing projections"]
 tags: ["projections", "acceptance", "love", "resistance", "non-fighting"]
 related: ["projections", "resistance", "acceptance-as-change-strategy", "love-is-the-best-change-agent", "mirror-the-judgment", "choosing-the-projection-that-serves", "loving-all-parts"]
-sources: ["2021-07-30_Your World is a Projection"]
+sources: ["2021-07-30_Your World is a Projection", "2022-10-26_Your World Is A Projection"]
 ---
 
 # Fall in Love with Your Projections
@@ -25,6 +25,8 @@ The clearest image: if you go birdwatching but you do not like birds, you will n
 "If you love finding a projection, it's like, oh wow, I'm projecting right now, cool. That might be useful. Also, it might be useful to do it a little bit differently or to experiment with it a little bit." -- Brett Kistler, Your World is a Projection
 
 The shift from "projection = bad thing I have to root out" to "projection = interesting thing I have noticed" is the entire move. The hostile stance prevents seeing. The affectionate stance reveals.
+
+Joe extends the same image: the love of finding projections also becomes proof. The more you welcome spotting them, the more clearly you see how they were operating. "It's great because that's when you say, how many birds will you find? It's like proof." -- Joe Hudson, Your World Is A Projection (2022). The affectionate stance does not just allow you to see one projection; it shows you the structure of how the projection has been organizing your life. The friendly hunt becomes its own diagnostic.
 
 ## Why Fighting Fails
 
@@ -86,4 +88,5 @@ The tone Brett models and Joe affirms is playful, almost cheerful. "Oh wow, I'm 
 
 ## Sources
 
-- 2021-07-30_Your World is a Projection
+- 2021-07-30_Your World is a Projection (origin of the principle and the birdwatching metaphor)
+- 2022-10-26_Your World Is A Projection (the proof-through-friendly-spotting extension)

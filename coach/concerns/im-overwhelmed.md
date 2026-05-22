@@ -4,7 +4,7 @@ id: im-overwhelmed
 title: "I'm overwhelmed / I have too much to handle"
 aliases: ["I'm so overwhelmed", "I have too much on my plate", "I can't keep up", "everything is on fire", "I'm drowning", "I'm burning out", "I can't think straight", "I feel like I'm losing it", "there's too much to do", "I'm spinning", "I'm running around but nothing is getting done", "I'm in survival mode", "everything is urgent", "I'm scattered", "I can't focus", "I keep forgetting things"]
 tags: ["overwhelm", "fear", "anxiety", "productivity", "stress"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # I'm overwhelmed / I have too much to handle
@@ -79,3 +79,4 @@ The typical flow.
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

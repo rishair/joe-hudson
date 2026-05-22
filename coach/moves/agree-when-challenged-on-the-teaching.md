@@ -5,7 +5,7 @@ title: "Agree When Challenged on the Teaching"
 aliases: ["agree with the criticism", "yeah yes yeah", "you're full of shit response", "agreeing when challenged on the teaching", "refusing to defend the teaching", "the I can't say this is the absolute truth move", "the undefended-teacher move", "this is a helpful perspective and it might not be"]
 tags: ["move", "teaching", "limiting beliefs", "non-defense", "humility", "wonder"]
 related: ["the-clients-wisdom-not-the-teachers", "three-kinds-of-limiting-beliefs", "limiting-belief-meta-trap", "defense-vs-love", "body-lies-as-much-as-mind", "frame-it-as-an-experiment", "comparative-mind", "wonder"]
-sources: ["2022-10-26_Limiting Beliefs"]
+sources: ["2022-10-26_Limiting Beliefs", "2022-10-26_Your World Is A Projection"]
 ---
 
 # Agree When Challenged on the Teaching
@@ -113,4 +113,5 @@ It also fails when the coach is using it to look impressive (look how non-defend
 
 ## Sources
 
-- 2022-10-26_Limiting Beliefs
+- 2022-10-26_Limiting Beliefs (primary explicit teaching of this move)
+- 2022-10-26_Your World Is A Projection (Joe makes the same move again in the projections conversation: "I'll go and pontificate on something, and then they'll say, you know, you're totally wrong about that. And I'll be like, yep, that's true." He frames it as the natural consequence of seeing projections — "I can absolutely see the world in which everything that I'm saying is incorrect. And because I do, I can see that there is some correctness in every point of view and some fallacy in every point of view.")

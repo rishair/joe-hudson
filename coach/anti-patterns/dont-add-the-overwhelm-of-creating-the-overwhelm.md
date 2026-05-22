@@ -5,7 +5,7 @@ title: "Don't Tell Someone They're Creating Their Overwhelm Before They Can See 
 aliases: ["don't add the overwhelm of creating the overwhelm", "you're creating your overwhelm as anti-pattern", "premature responsibility for overwhelm", "the responsibility-for-overwhelm trap", "you can't be responsible for what you can't see", "self-blame compounds overwhelm", "the empowerment line lands as shame", "right teaching wrong timing", "the timing of responsibility"]
 tags: ["overwhelm", "anti-pattern", "responsibility", "self-blame", "timing", "coaching"]
 related: ["overwhelm", "im-overwhelmed", "meaning-of-overwhelm-determines-direction", "fault-vs-responsibility", "dont-shame-your-grief-process", "stories-are-developmental-scaffolding"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Don't Tell Someone They're Creating Their Overwhelm Before They Can See It
@@ -65,3 +65,4 @@ If you find yourself in overwhelm and your first move is to blame yourself for b
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

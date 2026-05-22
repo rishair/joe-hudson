@@ -4,8 +4,8 @@ id: limiting-belief-detection-signals
 title: "Limiting Belief Detection Signals"
 aliases: ["how to detect limiting beliefs", "diagnostic signals of limiting beliefs", "signals of a limiting belief", "where limiting beliefs live", "limiting belief diagnostics", "felt sense of limiting beliefs", "constriction tension stagnation"]
 tags: ["limiting beliefs", "diagnostics", "felt sense", "patterns", "body awareness"]
-related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "find-what-you-absolutely-believe", "binary-thinking-signals-fear", "i-feel-trapped", "no-finish-line", "trappedness-feeling"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
+related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "aware-belief-vs-unseen-belief", "three-reasons-we-dont-see-limiting-beliefs", "constriction-not-truth-is-the-test", "find-what-you-absolutely-believe", "binary-thinking-signals-fear", "i-feel-trapped", "no-finish-line", "trappedness-feeling"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2022-10-28_How to See Through Limiting Beliefs"]
 ---
 
 # Limiting Belief Detection Signals
@@ -37,6 +37,22 @@ The body is the most reliable reporter because the body cannot easily lie about 
 "Binary thought is where the limiting beliefs lie. If you wanna like look at intellectual, an intellectual way to identify it, binary thoughts, which indicates fear, which indicates that your thinking is limited." -- Joe Hudson, Limiting Beliefs
 
 The cognitive signal is less reliable than the felt signal because the mind can rationalize a binary as a real situation. The body's report is harder to fake.
+
+## Surfacing the Unseen: The Sudden-Constriction Signal
+
+For beliefs that operate as background context — beliefs the person has never noticed — the diagnostic is the sudden, unexplained clamp. You think a thought you take to be neutral, and the body constricts. The constriction is the trace of an unseen belief that the thought has activated.
+
+"You'd never think about the idea that you have a boss being a limiting belief. But you notice one day that you say it to yourself and you're like, oh my gosh, I have a boss, and it causes constriction, which is how you know it's a limiting belief." -- Joe Hudson, How to See Through Limiting Beliefs
+
+This is how unseen beliefs become visible. The body reports first; the mind catches up. A coach watching for this can ask "what just happened in your body?" when the client reports neutral content with a non-neutral somatic response.
+
+For the operational distinction between aware and unseen beliefs, see [[aware-belief-vs-unseen-belief]].
+
+## What the Body Is Reporting: Constriction, Not Truth
+
+The body does not report "this thought is false." It reports "this thought clamps me." The diagnostic is constriction, not falseness. See [[constriction-not-truth-is-the-test]].
+
+This matters because a true thought can still be limiting. A thought that is factually accurate but produces constant body-clamp is still operating as a limiting belief. The body's report does not validate or invalidate the content; it reports the function the belief is performing in the system.
 
 ## Signals Specific to Each Kind of Limiting Belief
 
@@ -98,3 +114,4 @@ This is also why limiting-belief work cannot be done as a purely intellectual ex
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
 - 2022-10-26_Limiting Beliefs
+- 2022-10-28_How to See Through Limiting Beliefs

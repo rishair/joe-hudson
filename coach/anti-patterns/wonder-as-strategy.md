@@ -5,7 +5,7 @@ title: "Don't use wonder as a strategy"
 aliases: ["strategic questions", "probing questions", "creepy curiosity", "questions to avoid intimacy", "performative curiosity"]
 tags: ["VIEW", "wonder", "authenticity", "avoidance"]
 related: ["wonder", "view-as-technique", "vulnerability"]
-sources: ["2020-11-04_Wonder — Connection Course Series #2"]
+sources: ["2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Wonder"]
 ---
 
 # Don't use wonder as a strategy
@@ -35,6 +35,8 @@ Have wonder for the sake of wonder, for the sensations it creates in the body, f
 "Don't use this as a strategy. Have wonder for the sake of wonder, for the gifts that it brings, for the feelings and sensations in your body that it creates." -- Joe Hudson, Wonder
 
 If questions are being used to avoid your own vulnerability, the fix is not better questions. The fix is to share something about yourself.
+
+The simple invitation when caught: "Well, what do you want to ask me?" You can also apologize for the probing energy. "I'm sorry, I was kind of asking you questions as a way to avoid myself." Naming the strategy ends the strategy and opens a real exchange. This is the same principle as the rest of [[view]]: state of mind, not technique. The technique dissolves the moment it is named as technique.
 
 ## Sources
 

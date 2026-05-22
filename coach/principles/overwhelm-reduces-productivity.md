@@ -5,7 +5,7 @@ title: "Overwhelm Reduces Productivity (It Does Not Increase It)"
 aliases: ["overwhelm is not productive", "overwhelm reduces productivity", "anxiety reduces productivity", "the productivity illusion of overwhelm", "we feel productive when overwhelmed but aren't", "overwhelm degrades thinking", "the busy illusion", "fear-driven work doesn't work", "stress doesn't improve output", "the hungry lion principle"]
 tags: ["overwhelm", "productivity", "principle", "fear", "myth-busting", "leadership"]
 related: ["overwhelm", "efficiency-as-enjoyment", "sleep-deprived-soldier", "enjoyment-as-path", "empathy-makes-you-better-at-hard-jobs", "reducing-overwhelm-in-organizations", "leaders-wants-are-the-organizations-wants"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Overwhelm Reduces Productivity (It Does Not Increase It)
@@ -98,3 +98,4 @@ Direct, slightly impatient with the assumption. Joe treats the belief that overw
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

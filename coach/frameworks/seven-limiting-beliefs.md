@@ -4,7 +4,7 @@ id: seven-limiting-beliefs
 title: "The Seven Limiting Beliefs"
 aliases: ["seven limiting beliefs", "7 limiting beliefs", "the limiting beliefs", "main limiting beliefs", "limiting belief structure", "the foundational limiting beliefs", "if I do X then I'll be happy", "I'll be happy when X belief"]
 tags: ["limiting beliefs", "framework", "shame", "transformation", "patterns"]
-related: ["inherent-goodness", "connection-over-perfection", "wants-over-shoulds", "improvement-vs-authenticity", "defense-vs-love", "perfectionism", "shame-drives-behavior", "undoing-not-doing", "limiting-belief", "three-kinds-of-limiting-beliefs", "no-finish-line", "limiting-belief-meta-trap"]
+related: ["inherent-goodness", "connection-over-perfection", "wants-over-shoulds", "improvement-vs-authenticity", "defense-vs-love", "perfectionism", "shame-drives-behavior", "undoing-not-doing", "limiting-belief", "three-kinds-of-limiting-beliefs", "three-keepers-of-stuck-beliefs", "no-finish-line", "limiting-belief-meta-trap"]
 sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_The Art of Accomplishment"]
 ---
 
@@ -65,6 +65,14 @@ The framing as "if-then" is its giveaway. Whenever happiness is conditional on a
 ### 6-7. Others not enumerated
 
 Joe states there are about seven main limiting beliefs and has now named five across two episodes (perfection over connection, improvement over authenticity, shoulds before wants, defense before love, "I'll be happy when X"). The remaining two may emerge across other episodes. Until then, the architecture is: one foundation (not inherently good) supporting approximately seven specific patterns.
+
+## Distinguished From the Three Keepers
+
+A separate but adjacent framework: [[three-keepers-of-stuck-beliefs]] catalogs the three beliefs that keep other limiting beliefs from dissolving (I'm bad, it's hard, I'll be unsafe). These are not the same as the seven specific beliefs cataloged here.
+
+The seven are the content patterns most people are operating inside. The three keepers are what hold those patterns in place when the person tries to do the work. "I'm bad" overlaps with the foundational not-inherently-good belief, but "it's hard" and "I'll be unsafe" operate at the level of meta-beliefs about the work of change itself.
+
+A person can fully understand the seven framework intellectually and still find their beliefs unchanged. That gap is often where one of the three keepers is operating. The two frameworks pair: the seven point at what is being believed; the three keepers point at why the belief persists.
 
 ## How the Architecture Works
 

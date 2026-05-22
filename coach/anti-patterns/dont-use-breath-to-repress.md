@@ -5,7 +5,7 @@ title: "Don't Use Breath to Repress the Emotion You Were About to Feel"
 aliases: ["don't use breath to repress", "breath as repression", "breath as suppression", "breath as bypass", "weaponized breath", "I'll just keep on breathing and never feel that", "the breath repression trap", "breathwork as avoidance", "calming breath as emotional shutdown"]
 tags: ["breath", "anti-pattern", "overwhelm", "repression", "regulation", "bypass"]
 related: ["breath-to-exit-overwhelm", "overwhelm", "feeling-the-unfelt-emotion", "dont-name-emotion-to-avoid-feeling", "dont-step-on-the-signal", "anxiety-as-constricted-life-force"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Don't Use Breath to Repress the Emotion You Were About to Feel
@@ -61,3 +61,4 @@ The questions that help reveal which is happening:
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

@@ -5,7 +5,7 @@ title: "Target Fixation: The Parachute and the Tree"
 aliases: ["target fixation", "object fixation", "the parachute metaphor", "the motorcycle metaphor", "look at the ditch you go in the ditch", "look at the tree you hit the tree"]
 tags: ["projections", "what-we-fear-we-invite", "attention", "self-fulfilling"]
 related: ["projections", "what-we-fear-we-invite", "trauma-mapping", "engineering-heartbreak-to-avoid-heartbreak", "voice-creates-what-it-fears"]
-sources: ["2021-07-30_Your World is a Projection"]
+sources: ["2021-07-30_Your World is a Projection", "2022-10-26_Your World Is A Projection"]
 ---
 
 # Target Fixation: The Parachute and the Tree
@@ -54,4 +54,5 @@ The metaphor takes a concept that can feel mystical or accusatory ("you create y
 
 ## Sources
 
-- 2021-07-30_Your World is a Projection
+- 2021-07-30_Your World is a Projection (original use of the parachute/motorcycle metaphor)
+- 2022-10-26_Your World Is A Projection (Brett offers it again in the 2022 re-recording; Joe again affirms it as "a beautiful metaphor")

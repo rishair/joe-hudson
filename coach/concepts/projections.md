@@ -4,8 +4,8 @@ id: projections
 title: "Projections"
 aliases: ["projection", "the four projections", "four kinds of projection", "world as projection", "everything is a projection", "psychological projection", "projection of world", "projection of self", "projection of I"]
 tags: ["projection", "perception", "trauma", "identity", "freedom"]
-related: ["trauma-mapping", "childhood-imprinting", "what-we-fear-we-invite", "mirror-the-judgment", "how-is-that-not-true-about-you", "self-realization", "what-am-i", "wonder", "falling-in-love-with-projections", "choosing-the-projection-that-serves", "emotions-as-road-signs", "target-fixation", "negative-bias-of-trauma-imprinting", "engineering-heartbreak-to-avoid-heartbreak", "cult-of-one"]
-sources: ["2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-08-27_Group Cohesion vs. Cult Dynamics"]
+related: ["trauma-mapping", "childhood-imprinting", "what-we-fear-we-invite", "mirror-the-judgment", "how-is-that-not-true-about-you", "self-realization", "what-am-i", "wonder", "view", "falling-in-love-with-projections", "choosing-the-projection-that-serves", "seeing-through-projections-expands-possibility", "emotions-as-road-signs", "target-fixation", "negative-bias-of-trauma-imprinting", "engineering-heartbreak-to-avoid-heartbreak", "cult-of-one"]
+sources: ["2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Your World Is A Projection"]
 ---
 
 # Projections
@@ -94,6 +94,16 @@ A simple exercise: look at a tree as a tree. Then see it not as a tree. See it a
 
 "This is what, when people talk about deep presence, this is what they're talking about, is to have a moment or two without like the projection operating at full speed." -- Joe Hudson, Your World is a Projection
 
+## Seeing Through Projections Expands the Field of Possibility
+
+A consequence the 2022 conversation surfaces explicitly: people whose projections have loosened end up with a larger option set in any given situation. They are not necessarily smarter. They are running fewer filters that pre-decide what is possible.
+
+"People think somebody who really sees through projections is really smart because they come up with really cool, unique, innovative ideas, or they act in a way that's seemingly not normal but yet it works. And it's not so much really that they're smart or not smart, it's that they don't see the same level of limitation on everything that somebody who fully buys into their projections sees." -- Joe Hudson, Your World Is A Projection (2022)
+
+Brett's brick metaphor in the same conversation crystallizes this: if you only see a brick as a brick, you only know it is for masonry. The more you loosen "brick" as a projection, the more uses appear — counterweight, doorstop, broken into sand for Play-Doh. The uses were always there. The projection was hiding them. The same applies to every situation a person encounters. See [[seeing-through-projections-expands-possibility]] for the full principle.
+
+This is also why [[view]] does what it does. The qualities of vulnerability, impartiality, empathy, and wonder loosen projections in real time, which expands the field of options the person can actually act on. The "more granular awareness of reality" produced by VIEW is the operational form of loosened projections.
+
 ## Applied: The Cult Projection
 
 A specific application of projection-of-self that arose when Joe was working with the cult question. The external cult is the projection of the internal cult. The mind has its own internal structure of unexamined belief, faithful following, and guru-voice. That structure gets projected outward as the recognition (or rejection) of cult dynamics in groups.
@@ -154,6 +164,7 @@ See [[whats-looking-out-behind-my-eyes]] for the third as a standalone practice.
 - Toward [[what-am-i]] when the projection of I is the layer in play
 - Toward [[falling-in-love-with-projections]] when the person starts fighting their projections
 - Toward [[choosing-the-projection-that-serves]] when "everything is a projection" creates fear of not being able to act
+- Toward [[seeing-through-projections-expands-possibility]] when the person is stuck on a narrow option set and the constraint is in the projection rather than the situation
 - Toward [[whats-looking-out-behind-my-eyes]] as a sitting practice
 
 ## Tone
@@ -171,3 +182,4 @@ The framework is also not a license to dismiss the experiences of others as "the
 - 2021-07-30_Your World is a Projection
 - 2021-08-13_Seeing Through Family Dynamics
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
+- 2022-10-26_Your World Is A Projection (the 2022 conversation explicitly draws out the expanded-possibility consequence and connects projections-loosening to VIEW)

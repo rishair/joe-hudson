@@ -5,7 +5,7 @@ title: "Esme's Math Final (Surrendering to the Overwhelm Produced Focus)"
 aliases: ["Esme's math final story", "Joe's daughter math final", "the math final example", "Joe's daughter and the lost dog", "surrendering to overwhelm story", "the math final breakthrough", "the trust-yourself math final"]
 tags: ["example", "overwhelm", "surrender", "Joe's daughter", "Esme", "trust", "focus"]
 related: ["overwhelm", "meaning-of-overwhelm-determines-direction", "knowing-yourself-is-the-only-safety", "im-overwhelmed", "feel-your-way-to-freedom"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Esme's Math Final (Surrendering to the Overwhelm Produced Focus)
@@ -65,3 +65,4 @@ The two stories together show that the move is the same in both directions: feel
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

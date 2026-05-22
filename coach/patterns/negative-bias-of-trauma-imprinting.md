@@ -5,7 +5,7 @@ title: "The Negative Bias of Trauma Imprinting"
 aliases: ["negative bias of trauma", "missing the disconfirming evidence", "only see the trauma evidence", "the trauma highlight reel", "what you didn't learn from the trauma", "what the brain didn't pick up"]
 tags: ["trauma", "perception", "projection", "negativity bias", "imprinting"]
 related: ["projections", "trauma-mapping", "childhood-imprinting", "feeling-the-unfelt-emotion", "loving-all-parts"]
-sources: ["2021-07-30_Your World is a Projection"]
+sources: ["2021-07-30_Your World is a Projection", "2022-10-26_Your World Is A Projection"]
 ---
 
 # The Negative Bias of Trauma Imprinting
@@ -79,3 +79,4 @@ Joe presents this analytically, with the weight of explanation rather than diagn
 ## Sources
 
 - 2021-07-30_Your World is a Projection
+- 2022-10-26_Your World Is A Projection (the 2022 re-recording repeats the yelling-father example essentially verbatim)

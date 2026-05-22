@@ -4,8 +4,8 @@ id: inquiry-on-limiting-beliefs
 title: "Inquiry on Limiting Beliefs"
 aliases: ["inquiry into limiting beliefs", "limiting belief inquiry", "questioning limiting beliefs", "argue the counter case", "what do you get out of it", "what would be scary to let go of", "the limiting belief dismantling practice", "the devils advocate for beliefs"]
 tags: ["limiting beliefs", "inquiry", "practice", "questioning", "dismantling"]
-related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "find-what-you-absolutely-believe", "untruth-in-every-thought", "lawyer-the-voice", "mind-unsees-first-body-last", "feeling-the-unfelt-emotion", "emotional-fluidity"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
+related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "find-what-you-absolutely-believe", "find-the-comparable", "constriction-not-truth-is-the-test", "spaciousness-is-the-mechanism-of-belief-dissolution", "untruth-in-every-thought", "lawyer-the-voice", "mind-unsees-first-body-last", "feeling-the-unfelt-emotion", "emotional-fluidity"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2022-10-28_How to See Through Limiting Beliefs"]
 ---
 
 # Inquiry on Limiting Beliefs
@@ -40,6 +40,20 @@ Brett's framing of this in the conversation:
 Joe affirms: "Absolutely. Yes, yes, yes."
 
 **"What would be scary to let go of?"** Names the fear that is keeping the belief in place. Once named, the fear can be felt. Once felt, it loses some of its grip. This is the move that pulls the inquiry from a head exercise into the body. See [[feeling-the-unfelt-emotion]].
+
+## The Orientation Underneath the Inquiry
+
+Inquiry is not a debate about whether a belief is true. The point of every question is not to convict the belief of being false; the point is to produce spaciousness in the system around the belief. See [[constriction-not-truth-is-the-test]] and [[spaciousness-is-the-mechanism-of-belief-dissolution]].
+
+This orientation changes how the questions are held. "Is this true?" becomes "where does this thought create constriction, and what other framings give my body more room?" The inquiry is investigative in service of relief, not adversarial in service of correctness.
+
+A practitioner inquiring with a truth-frame often ends up with a more rigid belief than they started with, because the mind can usually defend the belief against direct attack. A practitioner inquiring with a spaciousness-frame finds room around the belief regardless of whether the belief turns out to be partly true.
+
+## The Comparable as Quick First Move
+
+Before deep inquiry, the fastest first move is often [[find-the-comparable]]: locate a person who lives the opposite of the belief and lives it well. The comparable loosens the belief's claim to absolute reality, opens the space for more thorough inquiry, and tells you something diagnostic about which of the [[three-reasons-we-dont-see-limiting-beliefs]] is operating.
+
+The comparable is not a replacement for deeper inquiry. It is the gateway move that makes deeper inquiry possible.
 
 ## Pairings With Other Frameworks
 
@@ -90,8 +104,12 @@ Investigative, curious, slightly mischievous. The energy of a lawyer who genuine
 - Toward body and nervous-system practices for the third layer.
 - Toward [[mind-unsees-first-body-last]] for understanding why this practice alone does not complete the work.
 - Toward [[untruth-in-every-thought]] for the parallel practice on recurring thoughts.
+- Toward [[find-the-comparable]] for the fastest first move on any limiting belief.
+- Toward [[constriction-not-truth-is-the-test]] for the underlying diagnostic frame.
+- Toward [[spaciousness-is-the-mechanism-of-belief-dissolution]] for the unifying goal of inquiry.
 
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
 - 2022-10-26_Limiting Beliefs
+- 2022-10-28_How to See Through Limiting Beliefs

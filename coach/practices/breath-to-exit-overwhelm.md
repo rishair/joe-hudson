@@ -5,7 +5,7 @@ title: "Breath to Exit Overwhelm in the Moment"
 aliases: ["breathing to regulate", "slow equal breath", "breath as nervous system regulator", "the breath that exits overwhelm", "yoga and Navy SEAL breath", "breath that calms the nervous system", "you can control your breath your breath controls your nervous system", "the moment-of-overwhelm breath"]
 tags: ["breath", "practice", "overwhelm", "nervous system", "regulation", "acute"]
 related: ["overwhelm", "im-overwhelmed", "dont-use-breath-to-repress", "tell-the-body-its-safe", "let-your-body-shake-it-out", "anxiety-as-constricted-life-force"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Breath to Exit Overwhelm in the Moment
@@ -94,3 +94,4 @@ Practical, matter-of-fact. Joe presents this as a basic tool that should be in e
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

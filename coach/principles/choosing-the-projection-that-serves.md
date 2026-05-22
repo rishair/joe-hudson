@@ -4,8 +4,8 @@ id: choosing-the-projection-that-serves
 title: "Choose the Projection That Serves You"
 aliases: ["choose your projection", "useful vs useless projections", "favorable projections", "choosing projections", "projections as choice", "selecting projections"]
 tags: ["projections", "freedom", "choice", "agency", "discernment"]
-related: ["projections", "falling-in-love-with-projections", "judgment-vs-discernment", "feeling-the-unfelt-emotion", "self-realization", "wonder"]
-sources: ["2021-07-30_Your World is a Projection"]
+related: ["projections", "falling-in-love-with-projections", "judgment-vs-discernment", "feeling-the-unfelt-emotion", "self-realization", "wonder", "seeing-through-projections-expands-possibility", "inherent-goodness"]
+sources: ["2021-07-30_Your World is a Projection", "2022-10-26_Your World Is A Projection"]
 ---
 
 # Choose the Projection That Serves You
@@ -87,3 +87,4 @@ The principle also assumes the underlying emotional work has been done or is bei
 ## Sources
 
 - 2021-07-30_Your World is a Projection
+- 2022-10-26_Your World Is A Projection (the 2022 conversation repeats and reinforces this principle, especially the "consequences become less important" framing)

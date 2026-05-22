@@ -5,7 +5,7 @@ title: "Overwhelm"
 aliases: ["what overwhelm is", "Joe's definition of overwhelm", "the overwhelm definition", "overwhelm as broken flow", "overwhelm as unprocessed emotion", "the moment of overwhelm", "definition of overwhelm", "what causes overwhelm"]
 tags: ["overwhelm", "fear", "anxiety", "flow", "emotional processing", "definition"]
 related: ["fear-vs-anxiety", "anxiety-three-definitions", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "im-overwhelmed", "the-rush-signature", "overwhelm-reduces-productivity", "meaning-of-overwhelm-determines-direction", "ask-from-slowness-not-intellect"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Overwhelm
@@ -107,3 +107,4 @@ Direct, matter-of-fact, slightly amused at the cultural assumption that overwhel
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm? (re-release with the same content)

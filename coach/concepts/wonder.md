@@ -5,7 +5,7 @@ title: "Wonder"
 aliases: ["W in VIEW", "awe", "being in the question", "open curiosity", "follow your wonder"]
 tags: ["VIEW", "curiosity", "presence", "openness", "fear", "knowing", "learning"]
 related: ["view", "wonder-vs-curiosity", "how-what-questions", "wonder-as-strategy", "questioning-assumptions", "right-question-over-right-answer"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Embarking On The Journey", "2022-10-26_Introduction to VIEW"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Embarking On The Journey", "2022-10-26_Introduction to VIEW", "2022-10-26_Wonder"]
 ---
 
 # Wonder
@@ -52,7 +52,29 @@ Effort makes wonder harder. Telling yourself "I have to be in wonder" constricts
 
 "If I say, okay, now I have to go and do wonder and I have to be in a wonder state of mind, that immediately makes it harder to be in a wonder state of mind." -- Joe Hudson, Wonder
 
-Access wonder by noticing what is already wondrous. There is always something you do not know, even about the bedsheets in your room.
+Access wonder by noticing what is already wondrous. There is always something you do not know, even about the bedsheets in your room: who made them, what detergents touched them, how the company that made them came to exist.
+
+The natural reference point is a small child handling a frog for the first time. That posture, that attention, that openness is the same posture available to an adult looking at a business problem, a partner, or their own life.
+
+"It's really a point of view of looking at the world. Follow your wonder, like it's a trail, and just follow it in the conversation about the other person, about yourself, in the conversation, just follow it." -- Joe Hudson, Wonder
+
+A psychological study of infants found they smile most not in anticipation of being fed but when they are engaged in learning. Curiosity is the underlying nature. Wonder is the return to it.
+
+### The Harvest from Wandering
+
+Wonder includes the willingness to wander without a destination. Jeff Bezos described starting his day by wandering, in his mind and in space. The wandering is not idleness. There is a harvest from following wonder without trying to land it: you discover what was not visible to the search.
+
+This applies in business and relationships. Couples who think they know each other watch the relationship go dull. In wonder, the partner is a continuous discovery; the business is a continuous discovery.
+
+### Wonder Across Difference
+
+Wonder dissolves us-vs-them. When someone treats people they disagree with as if those people were ignorant or contemptible, the heart closes. Bringing wonder to the people on the other side, including those whose politics or values clash with yours, reopens the heart.
+
+The mechanism: wonder questions the certainty that the other side is simply wrong. It asks what circumstance produced their view, what wisdom might exist in their position, what it would feel like to look at the world through their eyes. The disagreement may remain. The closure does not.
+
+"They were just like, oh, I see how they would view things this way, given this circumstance, given this thing. Not that they agreed with it or disagreed with it anymore, but it was just this -- their heart opened up because they were in wonder about this whole situation." -- Joe Hudson, Wonder
+
+See [[political-signs-steakhouse-story]] for the worked example with Joe's daughters.
 
 ### Certainty and Wonder Coexist
 
@@ -72,6 +94,8 @@ The absence of wonder shows up as needing to be right, needing to control the ou
 
 People who live past 100 share a common quality: they find the small things in life awe-inspiring. A meal, a walk, an ordinary day carries wonder for them. Research on dementia shows that people who are constantly learning and rewiring develop new neural pathways even as old ones degrade. Those who live in the same pathways see them break down over time.
 
+People in their 40s and 50s begin to feel a pull toward staying inside familiar neural pathways, inside routine. The pull takes the joy out of life. Wonder is what counters it. Without wonder, retirement becomes a slow stagnation. With wonder, exuberance remains available at any age.
+
 ## Upstream (What Leads Here)
 
 - When a conversation is stuck in problem-solving mode.
@@ -86,7 +110,8 @@ People who live past 100 share a common quality: they find the small things in l
 - Creates space for the other person to discover their own answers.
 - Dissolves the fear that blocks [[vulnerability]].
 - Leads to asking [[right-question-over-right-answer]] rather than seeking the right answer.
-- "Follow your wonder like a trail" in conversation. Seek what you don't know. Focus on the information missing from the story rather than responding to the information given.
+- "Follow your wonder like a trail" in conversation. Seek what you don't know. See [[find-what-you-dont-know]] for the practice.
+- Across difference (political, cultural, generational), wonder reopens the heart without requiring agreement.
 
 ## Questions Joe Asks
 

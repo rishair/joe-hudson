@@ -5,7 +5,7 @@ title: "Joe and Mina in China (Overwhelmed by Being Loved)"
 aliases: ["Joe and Mina in China", "Mina in China", "the 50-story building meeting", "I'm here for you not for this business meeting", "the love overwhelm story", "the begging on the floor in Beijing", "the Beijing duck restaurant story", "the apology beg", "you're the most important thing", "the moment Mina cried"]
 tags: ["example", "overwhelm", "love", "vulnerability", "Mina", "China", "fear of love", "transformation"]
 related: ["overwhelm", "meaning-of-overwhelm-determines-direction", "esme-math-final", "fear-of-joy", "feeling-the-unfelt-emotion", "anxious-avoidant-dynamic", "loving-conflict-vs-wanting-conflict"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Joe and Mina in China (Overwhelmed by Being Loved)
@@ -89,3 +89,4 @@ The implication: when you move through your own overwhelm, you become more avail
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

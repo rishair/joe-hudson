@@ -5,7 +5,7 @@ title: "Ask From Slowness, Not From the Intellect"
 aliases: ["ask from slowness", "consult the slow part", "ask the unhurried part of you", "asking slowness what to do", "the slowness consultation", "ask the calm part not the rushing part", "the inquiry to the unhurried center", "what does slowness want to do", "more will be revealed"]
 tags: ["practice", "decision-making", "slowness", "overwhelm", "intellect", "intuition"]
 related: ["overwhelm", "knowing-yourself-is-the-only-safety", "listening-to-impulse", "if-you-think-youre-deciding-youre-in-fear", "head-heart-gut", "feel-over-figure", "process-over-result"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Ask From Slowness, Not From the Intellect
@@ -105,3 +105,4 @@ Slow, slightly amused at the absurdity of expecting slowness to produce a fast a
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

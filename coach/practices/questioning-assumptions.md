@@ -5,7 +5,7 @@ title: "Questioning Assumptions and Context"
 aliases: ["question the assumption", "question the context", "assumption questioning", "context questioning"]
 tags: ["VIEW", "wonder", "impartiality", "reframing"]
 related: ["wonder", "impartiality", "how-what-questions"]
-sources: ["2020-11-04_Wonder — Connection Course Series #2"]
+sources: ["2020-11-04_Wonder — Connection Course Series #2", "2022-10-26_Wonder"]
 ---
 
 # Questioning Assumptions and Context
@@ -43,6 +43,15 @@ In self-reflection, take a belief or worry and list its embedded assumptions. Qu
 
 Access to wonder and impartiality simultaneously. The fixed frame loosens. New information enters. The person often discovers that their "problem" contains options they could not see while the assumption was invisible.
 
+## Paired Move: Question Your Own Knowing
+
+The same practice applies inward. When you find yourself certain about something, ask: what is the context of this knowing? Lying is wrong, for example, assumes a context (suburban living, ordinary relationships). In the context of hiding a person from an authoritarian government, the certainty becomes a question. Every "truth" you hold is true within a context.
+
+This makes wonder durable. You stop defending your knowing because you can see that your knowing is one slice of reality, not all of it. When someone challenges you on something you said earlier, the response is not defense but a shift: "Yeah, I don't entirely agree with myself either" -- you can see the context in which the new framing is also true.
+
+"Knowing is only relevant based on context... To think you know something is to not only assume that you know the right answer, but it's also to assume that you know the context of the person that you're going around with. And it's also to assume that they don't have some wisdom in what they're saying, which is ridiculous." -- Joe Hudson, Wonder
+
 ## Sources
 
 - 2020-11-04_Wonder -- Connection Course Series #2
+- 2022-10-26_Wonder

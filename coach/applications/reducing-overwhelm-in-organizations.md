@@ -5,7 +5,7 @@ title: "Reducing Overwhelm in Organizations (Driving Flow Instead)"
 aliases: ["reducing overwhelm in organizations", "drive flow not reduce overwhelm", "organizational overwhelm", "company overwhelm", "team overwhelm", "the 30-hour week company", "leader overwhelm and organization", "CEO overwhelm management", "creating flow in companies", "the post-overwhelm company", "the founder week alone in a cabin", "Bill Gates Bezos Greenspan founder examples"]
 tags: ["application", "overwhelm", "leadership", "organization", "flow", "productivity", "team"]
 related: ["overwhelm", "overwhelm-reduces-productivity", "efficiency-as-enjoyment", "leaders-wants-are-the-organizations-wants", "dont-reflect-your-patterns-as-culture", "structure-and-empowerment", "functional-team", "buurtzorg-nursing", "five-star-meeting-commitment"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Reducing Overwhelm in Organizations (Driving Flow Instead)
@@ -131,3 +131,4 @@ Practical, slightly impatient with the cultural assumption that overwhelm is jus
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

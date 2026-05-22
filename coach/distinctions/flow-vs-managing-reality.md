@@ -5,7 +5,7 @@ title: "Flow vs. Managing Reality"
 aliases: ["flow vs managing", "flow vs management", "going with the river vs pushing against it", "the river vs rowing upriver", "flow vs control", "responding vs managing", "purposeful motion vs management", "the moment flow breaks", "in flow vs out of flow"]
 tags: ["flow", "distinction", "overwhelm", "control", "river metaphor"]
 related: ["overwhelm", "im-overwhelmed", "enjoy-over-manage", "process-over-result", "if-you-think-youre-deciding-youre-in-fear"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
 ---
 
 # Flow vs. Managing Reality
@@ -91,3 +91,4 @@ Plain, almost geometric. The distinction is precise. Joe uses the river metaphor
 ## Sources
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-27_What Can I Do About Overwhelm?

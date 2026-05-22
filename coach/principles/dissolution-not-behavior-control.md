@@ -4,7 +4,7 @@ id: dissolution-not-behavior-control
 title: "Dissolution, Not Behavior Control"
 aliases: ["realization not behavior control", "you don't control what changes", "you control joy not outcome", "dissolving the belief vs changing behavior", "limiting belief work is realization not control", "limiting belief work is not behavior modification"]
 tags: ["transformation", "limiting beliefs", "control", "realization", "outcomes", "principle"]
-related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "mind-unsees-first-body-last", "undoing-not-doing", "nature-improves-itself", "process-over-result", "wanting-itself-not-what-you-want"]
+related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "mind-unsees-first-body-last", "undoing-not-doing", "nature-improves-itself", "process-over-result", "wanting-itself-not-what-you-want", "trust-the-awareness-dont-add-effort", "belief-integration-not-elimination", "spaciousness-is-the-mechanism-of-belief-dissolution"]
 sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 

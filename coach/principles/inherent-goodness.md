@@ -122,6 +122,8 @@ Trusting your inherent goodness is what allows the flow state. Jim Carrey-level 
 - Toward [[art-of-accomplishment]]: art becomes possible because the artist trusts what is coming through them
 - Toward [[defense-vs-love]]: the defensive impulse stops when there is nothing to defend
 - Toward [[improvement-vs-authenticity]]: the improvement project stops being necessary
+- Toward [[three-month-inherent-goodness-experiment]]: the daily practice for working with the I'm-bad foundation
+- Toward [[three-keepers-of-stuck-beliefs]]: the broader structure in which I'm-bad operates as one of three keepers preventing limiting-belief work from landing
 
 ## Sources
 
@@ -133,3 +135,4 @@ Trusting your inherent goodness is what allows the flow state. Jim Carrey-level 
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)
+- 2022-10-28_How to See Through Limiting Beliefs
