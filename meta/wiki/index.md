@@ -64,11 +64,11 @@
     - [x] E-030 Build legible scorecard renderer for terminal and markdown output
 - [ ] G-009 Build the Joe Hudson AI coach
   - Research
-    - [ ] R-011 What system prompt structure makes an AoA coach behave like Joe?
-    - [ ] R-012 What retrieval strategies fit a deeply-linked methodology compendium like coach/?
-    - [ ] R-013 What tool catalog should the AI SDK coach have for compendium navigation?
+    - [x] R-011 What system prompt structure makes an AoA coach behave like Joe?
+    - [x] R-012 What retrieval strategies fit a deeply-linked methodology compendium like coach/?
+    - [x] R-013 What tool catalog should the AI SDK coach have for compendium navigation?
   - Experiments
-    - [ ] E-031 Coach v1: hand-authored system prompt only, no retrieval, evaluated against G-008
+    - [x] E-031 Coach v1: hand-authored system prompt only, no retrieval, evaluated against G-008
     - [ ] E-032 Coach v2: tool-based compendium navigation with cheap-model router and expensive-model coach
     - [ ] E-033 Coach v3: embedding-based retrieval over coach/ markdown
     - [ ] E-034 Head-to-head comparison of E-031, E-032, E-033, E-036 retrieval approaches
