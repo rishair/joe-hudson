@@ -1454,15 +1454,135 @@
     },
     {
       "folder": "2022-08-19_The Beauty of Grief \u2014 Emotion Series #9",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T01:04:27Z",
+      "articles_created": [
+        "grief-as-identity-dismantling",
+        "grief-is-many-emotions-not-just-sadness",
+        "unprocessed-grief-creates-conflict",
+        "without-grief-we-recreate-the-pattern",
+        "death-is-not-the-end-of-the-relationship",
+        "grieve-the-marriage-to-save-it",
+        "joes-friend-yuma-grief-drives",
+        "truth-and-reconciliation-south-africa",
+        "embodied-stages-of-grief-ritual",
+        "dont-shame-your-grief-process",
+        "helplessness-distinguishes-death-grief",
+        "i-cant-get-over-this-loss"
+      ],
+      "articles_updated": [
+        "grief-as-gateway-to-self-love",
+        "visualizing-feared-outcomes",
+        "stronger-story-stuckier-emotion",
+        "joy-as-matriarch"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T01:17:22Z"
+    },
+    {
+      "folder": "2022-09-02_How Relationships Reveal Us \u2014 Relationships Series #1",
+      "status": "complete",
+      "claimed_at": "2026-05-22T01:04:37Z",
+      "articles_created": [
+        "relationships-as-personal-growth-path",
+        "dont-take-responsibility-for-anothers-happiness",
+        "mourn-the-breakup-fully",
+        "dont-compromise-find-both-needs-met",
+        "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+        "arms-of-the-cross-relationship",
+        "subconscious-partner-selection",
+        "just-be-yourself-and-see-what-happens",
+        "dont-try-to-change-your-partner",
+        "toilet-blame-story",
+        "romantic-relationships"
+      ],
+      "articles_updated": [
+        "complementary-trauma-surfaces",
+        "power-dynamics-as-two-defenders",
+        "craving-is-the-pushing-away",
+        "trauma-mapping"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T01:16:53Z"
+    },
+    {
+      "folder": "2022-09-16_Seeing Identity for What It Is",
+      "status": "complete",
+      "claimed_at": "2026-05-22T01:17:23Z",
+      "articles_created": [
+        "identity",
+        "every-identity-has-limits",
+        "identity-changes-on-three-levels",
+        "dont-fight-identity",
+        "transparent-identity-vs-rigid",
+        "view-around-self-as-identity-diagnostic",
+        "defensiveness-as-identity-signal"
+      ],
+      "articles_updated": [
+        "grief-as-identity-dismantling",
+        "idea-of-self-vs-actual-self",
+        "expanding-sense-of-self",
+        "epiphany-becomes-rut",
+        "joes-pleasing-dad-money-story"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T01:27:01Z"
+    },
+    {
+      "folder": "2022-09-30_Triggered",
+      "status": "complete",
+      "claimed_at": "2026-05-22T01:18:14Z",
+      "articles_created": [
+        "trigger",
+        "triggered-vs-big-emotion",
+        "repressed-trigger-in-the-body",
+        "walking-on-eggshells",
+        "we-never-fight",
+        "i-keep-chasing-emotionally-unavailable-people",
+        "anxious-avoidant-dynamic",
+        "say-the-thing-youre-not-saying",
+        "ask-open-ended-non-judgmental-questions-when-triggered",
+        "triggers-reveal-your-own-beliefs",
+        "dont-do-anger-at-your-partner",
+        "dont-make-it-your-job-to-prevent-their-triggers",
+        "capacity-to-love-other-is-capacity-to-love-self"
+      ],
+      "articles_updated": [
+        "trauma-mapping",
+        "complementary-trauma-surfaces",
+        "tibetan-teacher-offending-students"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T01:35:28Z"
+    },
+    {
+      "folder": "2022-09-30_Triggered! \u2014 Relationships Series #2",
+      "status": "complete",
+      "claimed_at": "2026-05-22T01:27:36Z",
+      "articles_created": [
+        "agreements-renegotiate-as-you-change",
+        "reflect-back-to-make-partner-feel-heard"
+      ],
+      "articles_updated": [
+        "trigger",
+        "walking-on-eggshells",
+        "relationships-as-personal-growth-path",
+        "dont-compromise-find-both-needs-met"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T01:34:55Z"
+    },
+    {
+      "folder": "2022-10-14_What Can I Do About Overwhelm? \u2014 Emotion Series #10",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T01:36:34Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2022-09-02_How Relationships Reveal Us \u2014 Relationships Series #1",
+      "folder": "2022-10-26_Aaron Taylor's Journey To Emotional Freedom",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T01:04:37Z",
+      "claimed_at": "2026-05-22T01:37:42Z",
       "articles_created": [],
       "articles_updated": []
     }

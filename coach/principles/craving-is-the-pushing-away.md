@@ -4,7 +4,7 @@ id: craving-is-the-pushing-away
 title: "Craving Is the Pushing Away (Everything We Crave, We Push Away)"
 aliases: ["craving is the pushing away", "we push away what we crave", "everything we crave we push away", "the grasping is the rejection", "wanting and pushing away are the same", "the attachment is the avoidance", "craving as rejection", "craving is rejection in disguise", "the grasp pushes the thing away", "the wanting and the not-wanting are the same move"]
 tags: ["craving", "wanting", "attachment", "resistance", "Buddhism", "peace", "non-duality"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
 ---
 
 # Craving Is the Pushing Away
@@ -44,6 +44,18 @@ The principle also applies to the trust frame. The person who asks "how do I tru
 The same shape applies to enlightenment, awakening, love, healing, transformation. Any state that is craved is pushed away by the craving. The work is not to find better strategies for getting to the state. The work is to see that the seeking is the not-having and to relax the grasping. What remains is what was always present.
 
 This connects to [[no-finish-line]]: the arrival fantasy is the structural form of craving. Believing there is a place to get to is the move that makes "here" not enough.
+
+## The Application to Relationships
+
+The same structure applies in relationships. If a person has a strong desire for something within their relationship -- their partner's attention, a certain kind of intimacy, a particular validation -- and keeps trying to get it but cannot, the inability to receive is structural rather than circumstantial.
+
+"If you find yourself in a relationship where you have this strong desire for something and you keep on trying to get it and you can't get it, then it's really great to acknowledge that you're actually pushing it away, which means subconsciously you're not ready for it, don't want it, haven't admitted what it's going to do to your identity, some version of that." -- Joe Hudson, How Relationships Reveal Us
+
+The diagnostic is the failure-to-receive. The system says "I want this so badly and I cannot get it here." The diagnostic frame: you have not yet accepted your desire for it, or you have not yet admitted what receiving it would do to your identity. The wanting itself contains a not-wanting that holds the thing away.
+
+The same is true of larger life cravings -- the partner, the recognition, the result -- that a person reports being unable to attain despite trying. The trying is what makes the attainment impossible. The work is not better trying; it is the acknowledgment of the subconscious half of the move.
+
+This is also why "jealousy" often functions as a craving diagnostic. The intense desire that a partner not do X frequently reveals a desire for X that the person has not admitted to themselves. The craving for X (in a form the person cannot accept) is the same motion as the avoidance of X (in the partner's possible doing of it).
 
 ## The Resolution Is Not Indifference
 

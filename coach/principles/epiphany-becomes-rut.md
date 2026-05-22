@@ -2,10 +2,10 @@
 type: principle
 id: epiphany-becomes-rut
 title: "Every Epiphany Is the Innocent Beginning of a Rut"
-aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent", "I made it then the slump", "the pinnacle is the trap", "the I'm finished trap"]
+aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent", "I made it then the slump", "the pinnacle is the trap", "the I'm finished trap", "every identity epiphany becomes the next identity rut"]
 tags: ["transformation", "epiphany", "iteration", "stages", "development", "pinnacle"]
-related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection", "improvement-mindset-vs-maintenance-mindset", "cricket-player-up-and-down"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection", "improvement-mindset-vs-maintenance-mindset", "cricket-player-up-and-down", "identity", "every-identity-has-limits", "transparent-identity-vs-rigid"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-09-16_Seeing Identity for What It Is"]
 ---
 
 # Every Epiphany Is the Innocent Beginning of a Rut
@@ -62,6 +62,18 @@ Joe's framing: "I see this all the time, not just in like career moves, but you 
 
 The pinnacle version of epiphany-becomes-rut is especially dangerous because the external accomplishment supplies ongoing evidence that the rut is correct. People treat the person as having arrived. The treatment reinforces the orientation. The slump that follows can take years to become visible, and the person is often the last to see it.
 
+## The Identity-Level Version
+
+The same dynamic operates explicitly at the level of identity. Every time you see through an identity that has been limiting you, the *new* identity you settle into has its own limits. The seeing-through that freed you becomes the next thing to be seen through.
+
+"There is a refinement of every time you see through an identity that's limiting you, there's a chance to discover the way that this new identity also limits you. So every epiphany of identity then becomes the next rut of the identity as well." -- Joe Hudson, Seeing Identity for What It Is
+
+A person sees that they have been a workaholic. The epiphany is real. They settle into a new identity: "the one who is in balance." This new identity has its own limits. It cannot accommodate the occasional appropriate sprint. It produces guilt when work spikes. It becomes the next thing to see through.
+
+The same applies to spiritual epiphanies. The person who realizes they have been operating from ego settles into "the one who has transcended ego" -- which is the next ego configuration to be seen through. See [[dont-fight-identity]] and [[every-identity-has-limits]].
+
+The pattern is structural. Each level of seeing produces a new platform of seeing-from, which produces a new perspective that itself eventually needs to be seen through. There is no terminal identity. Iteration is the permanent condition.
+
 ## Why People Resist This
 
 Holding an epiphany loosely requires comfort with helplessness. If the current structure is going to dissolve, the person has to be okay not knowing what comes next. See [[helplessness-is-the-gateway]]. People who cannot bear helplessness grip their epiphanies until they become cages.
@@ -94,3 +106,4 @@ Matter-of-fact, even celebratory. "We need a new iteration. That's it." Not anxi
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-09-16_Seeing Identity for What It Is

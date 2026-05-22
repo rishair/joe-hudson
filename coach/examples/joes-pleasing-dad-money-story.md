@@ -2,10 +2,10 @@
 type: example
 id: joes-pleasing-dad-money-story
 title: "Joe's Pleasing-Dad Money Story (VC Career)"
-aliases: ["Joe's VC story", "Joe's hammock realization", "the multibillion sale story", "Joe's money should", "Joe's father should", "creating great cultures want", "Joe in El Salvador", "the WhatsApp gut punch"]
-tags: ["examples", "shoulds", "wants", "childhood-imprinting", "career", "money", "surrogate"]
-related: ["wants-over-shoulds", "find-the-want-behind-the-should", "childhood-imprinting", "shame-drives-behavior", "joes-26-year-old-list", "the-want", "money-as-surrogate", "if-i-had-more-money", "money-domain"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-04-23_Money Can't Save You"]
+aliases: ["Joe's VC story", "Joe's hammock realization", "the multibillion sale story", "Joe's money should", "Joe's father should", "creating great cultures want", "Joe in El Salvador", "the WhatsApp gut punch", "the chasing-deprivation-resentment identity", "the emotional sequence as identity"]
+tags: ["examples", "shoulds", "wants", "childhood-imprinting", "career", "money", "surrogate", "identity"]
+related: ["wants-over-shoulds", "find-the-want-behind-the-should", "childhood-imprinting", "shame-drives-behavior", "joes-26-year-old-list", "the-want", "money-as-surrogate", "if-i-had-more-money", "money-domain", "identity", "trace-emotion-to-its-first-felt"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-04-23_Money Can't Save You", "2022-09-16_Seeing Identity for What It Is"]
 ---
 
 # Joe's Pleasing-Dad Money Story
@@ -54,6 +54,18 @@ Two moves are visible:
 
 This is the somatic version of [[find-the-want-behind-the-should]]. See also [[childhood-imprinting]] for the mechanism by which the original should got installed.
 
+## The Identity Frame
+
+In the Seeing Identity for What It Is episode, Joe uses the same hammock moment to illustrate a different point: the trace did not just reveal a should-origin or a surrogate. It revealed an *emotional sequence that had become identity*.
+
+"I recognized at that moment I had an identity of having emotional experience of chasing something that I wasn't allowed to have or couldn't ever get, and then feeling deprived and resentful. And that chain of emotional experiences had become a part of my identity, but it was subconscious. I had no idea that until that moment, I had no idea that that was part of the identity and that it had played out with money. It had played out with bosses. It had played out with my dad. It played out with women's love. That emotional roller coaster was part of my identity. It was who -- how I knew myself to be, but it wasn't particularly conscious." -- Joe Hudson, Seeing Identity for What It Is
+
+This adds a layer to the same story. It is not only that money was a surrogate for father's love. It is that an entire emotional script -- chase, deprivation, resentment -- had become structural to who he was. Each domain (money, bosses, father, romance) was a different stage on which the same script played. The script was not chosen. It was identity, and it was operating below conscious awareness.
+
+The implication for the practice [[trace-emotion-to-its-first-felt]] is that what gets surfaced is not only the origin of one emotion but, often, the structure of an identity that has been running across multiple domains of life. The gut punch in El Salvador was data about a much wider pattern than the immediate trigger suggested.
+
+See [[identity]] for the full concept and [[idea-of-self-vs-actual-self]] for the related framing about subconscious identity structures.
+
 ## The Surrogate Frame
 
 This same story is the canonical illustration of [[money-as-surrogate]]. Joe's earliest iteration with money was that money was evil, during the period he was most angry at his father. The later iteration was that money was the substitute for his father's love. Same surrogate mechanism, opposite stance. The relationship with money mirrored the underlying relationship with the parent.
@@ -64,3 +76,4 @@ This same story is the canonical illustration of [[money-as-surrogate]]. Joe's e
 
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-04-23_Money Can't Save You
+- 2022-09-16_Seeing Identity for What It Is

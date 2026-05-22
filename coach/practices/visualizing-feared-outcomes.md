@@ -2,10 +2,10 @@
 type: practice
 id: visualizing-feared-outcomes
 title: "Visualizing Feared Outcomes"
-aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance"]
-tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking"]
-related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance", "pre-grieve the loss", "assume the loss has happened", "feel the death of the relationship in advance"]
+tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking", "relationships"]
+related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate", "grieve-the-marriage-to-save-it", "grief-as-identity-dismantling"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9"]
 ---
 
 # Visualizing Feared Outcomes
@@ -55,6 +55,14 @@ Joe's instruction in the caretaking context:
 The instruction is explicit: the pre-feel is not a tactic to enable stopping the caretaking. It is the precondition for any clean decision in either direction. The caretaker may, after fully feeling the grief, decide to continue. The decision will then be a real choice rather than a flight from grief.
 
 The mechanism in this domain is the same as in others: the fear is about what will have to be felt. The pre-feel collapses the fear and clears the decision. See [[caretaking-prevents-the-bottom]] for the structural argument about why caretaking is usually counterproductive even on its own terms.
+
+## Application: The Stuck Marriage
+
+A specific high-value case: a long-term relationship that has gone stuck or contracted. The defense between two partners is held in place by the fear of losing each other. The fear is held in place by the unfelt grief of that loss. Pre-grieving the relationship -- visualizing the marriage as if it had ended, feeling the full loss -- collapses the fear that has been generating the defense. Once the defense relaxes, both people can show up undefended in the relationship, and the contraction lifts.
+
+"I have to grieve the marriage. I have to assume that my marriage is lost and I have to have that full experience of visualizing the marriage being done and losing somebody who's incredibly important to me. And in that process, I lose the identity that's getting in the way of us being together. And in that process, I can be true to myself because I'm not scared of the emotional experience of losing her anymore because I've already gone through it. And so I can be true and I can be myself and I can be undefended and I can be loving without having to prove anything. And then that allows the relationship to heal." -- Joe Hudson, The Beauty of Grief
+
+The application is counterintuitive enough to deserve its own dedicated article: see [[grieve-the-marriage-to-save-it]] for the full treatment. The relationship-specific version of the pre-grief works the same way as the workplace and caretaking versions, but the identity that dissolves is the relational identity holding the contraction in place. See [[grief-as-identity-dismantling]] for the structural picture.
 
 ## Application: Workplace Fear and Speaking Up
 

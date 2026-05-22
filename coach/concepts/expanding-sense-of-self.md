@@ -2,10 +2,10 @@
 type: concept
 id: expanding-sense-of-self
 title: "Expanding Sense of Self"
-aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift"]
+aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift", "the tenderization of identity over time", "identity softens toward the universal"]
 tags: ["development", "identity", "oneness", "collaboration"]
-related: ["resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is"]
 ---
 
 # Expanding Sense of Self
@@ -40,6 +40,18 @@ The continuity matters. Awakening is not a mystical break from ordinary developm
 
 This framing also clarifies why awakening can be met with relief or with distress depending on the story attached. The shift is the shift. The emotional valence depends on what the person makes of it. See [[zen-sickness]] for how the same identity expansion produces opposite responses depending on framing.
 
+## Tenderization, Not Replacement
+
+The expansion does not happen by destroying earlier identifications and replacing them with larger ones. It happens by *tenderizing*. The earlier identifications become more transparent. The same identity ("I am a parent," "I am a CEO," "I am a person") softens to the point where it can be held without grip.
+
+"As you learn to love all the aspects of yourself, the identity becomes far more fluid. It becomes far more transparent. It starts to identify with oneness or nothingness or love or peace or inherent goodness. The identification becomes softer, it becomes more universal, it becomes more gentle, it becomes less rigid, it becomes more fluid." -- Joe Hudson, Seeing Identity for What It Is
+
+The direction of expansion is the direction of softening. Universal identifications (oneness, love, peace, awareness) are not different in kind from earlier identifications. They are simply identifications that have been softened enough that they can include rather than exclude. Earlier identifications partition (I am this, not that). Later identifications include (I am this, and also that, and also the wider field these are in).
+
+This is why even the universal identifications eventually need their own softening. "I am oneness" held rigidly is as much a cage as "I am a CEO" held rigidly. The shape of the identity matters less than the grip. See [[every-identity-has-limits]] and [[transparent-identity-vs-rigid]].
+
+The mechanism that drives the expansion is the same as the mechanism that drives transparency: loving all the parts of self that have been excluded. Each part that is loved is no longer something the self has to defend against. The self that does not have to defend against itself becomes naturally larger. See [[loving-all-parts]].
+
 ## Collaboration and Stages
 
 The level of the sense of self affects collaboration capacity. At some stages, people fall into false consensus (everyone's voice is equal, all decisions by committee). Joe references a 1940s/1950s CIA manual on destroying organizations: delegate all decisions to committees of more than 6. This is what dysfunctional organizations do naturally.
@@ -63,3 +75,4 @@ Eventually, collaboration becomes natural because [[selfishness-is-the-engine-of
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-09-16_Seeing Identity for What It Is

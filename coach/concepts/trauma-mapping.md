@@ -2,10 +2,10 @@
 type: concept
 id: trauma-mapping
 title: "Trauma Mapping"
-aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma"]
-tags: ["trauma", "attachment", "patterns", "repetition"]
-related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now", "reclaiming-abandonment", "i-have-to-do-it-all-myself", "stacy-father-conversation"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma", "generational trauma pattern", "trauma transmits across generations"]
+tags: ["trauma", "attachment", "patterns", "repetition", "generations"]
+related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now", "reclaiming-abandonment", "i-have-to-do-it-all-myself", "stacy-father-conversation", "trigger", "anxious-avoidant-dynamic"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered"]
 ---
 
 # Trauma Mapping
@@ -75,6 +75,16 @@ The engineering frame is particularly useful when the passive frame has started 
 
 This is the same mechanism as [[what-we-fear-we-invite]] but framed from the body's perspective. The body holds an incomplete emotional loop. It seeks completion. It will keep generating the conditions where completion might happen. The way to stop the recreation is to complete the loop: feel the emotion and welcome it.
 
+## Generational Transmission
+
+Without conscious work, trauma patterns transmit across generations. The Vietnam veteran who could not access the work has children with the rage or the disconnection that the trauma installed. Those children have grandchildren with the same. The alcoholic parent gives rise to the rigid Al-Anon child who gives rise to the next alcoholic, who gives rise to the next Al-Anon. The cycle repeats until somebody breaks it intentionally.
+
+"Most people do repeat patterns for generations and generations, and/or they slowly change those patterns. And so I think that is the natural course unless you bring a lot of conscious awareness to it and really think about it and feel through it and deal and do the work." -- Joe Hudson, Triggered
+
+"I know people who were raised by Vietnam vets, and if the Vietnam vets didn't do the work -- and there wasn't a tremendous amount of options for them when they came back -- their kids still have responses of the rage that the Vietnam vet had, or the disconnection that they have because of Vietnam vet needed to disconnect from themselves to deal with the PTSD. And their grandkids are going to have it. That's how it works unless we do something." -- Joe Hudson, Triggered
+
+This raises the stakes on individual trigger work. The work is not just for the person doing it. It is the place where a multi-generational pattern actually changes shape. See [[trigger]].
+
 ## Trauma Mapping as Projection
 
 Trauma mapping is the same machinery as "projection onto the world" in the four-types frame. See [[projections]]. What gets installed in the first 8 or 9 years — love is criticism, money is scarcity, authority is anger — becomes the perceptual lens that filters adult experience. The lens organizes attraction, perception, and behavior to keep producing situations that confirm the lesson.
@@ -107,3 +117,7 @@ The perceptual face of the mechanism is supported by [[negative-bias-of-trauma-i
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
 - 2021-07-30_Your World is a Projection
+- 2021-08-13_Seeing Through Family Dynamics
+- 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-09-30_Triggered

@@ -4,8 +4,8 @@ id: stronger-story-stuckier-emotion
 title: "The Stronger the Story, the Stuckier the Emotion"
 aliases: ["stronger story stuck emotion", "thick story slow grief", "rigid story locked emotion", "the more you believe the story the more stuck the emotion", "story strength predicts emotional stuckness", "the more personal the story the longer the cycle"]
 tags: ["story", "emotions", "grief", "stuckness", "principle"]
-related: ["story", "feeling-changes-story", "emotions-and-stories-dance", "kinked-emotions", "emotional-fluidity", "case-the-consultant", "feeling-the-unfelt-emotion"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+related: ["story", "feeling-changes-story", "emotions-and-stories-dance", "kinked-emotions", "emotional-fluidity", "case-the-consultant", "feeling-the-unfelt-emotion", "grief-as-identity-dismantling", "grief-is-many-emotions-not-just-sadness", "without-grief-we-recreate-the-pattern"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-08-19_The Beauty of Grief — Emotion Series #9"]
 ---
 
 # The Stronger the Story, the Stuckier the Emotion
@@ -68,6 +68,14 @@ Common stories that lock grief:
 - "If I stop grieving, I will betray them" (loyalty story)
 
 Each of these can be true in some sense. The issue is not their truth-value. It is the rigidity of the holding.
+
+## The Identity Connection
+
+The reason stronger stories lock grief connects to what grief is actually doing structurally. Grief is the dismantling of an identity (see [[grief-as-identity-dismantling]]). The story is the scaffold the identity is built on. The stronger the story, the more rigid the scaffold, the more identity is being held in place, the more there is to dismantle, and the slower the dismantling.
+
+Two of the lock-stories in the list above are particularly identity-heavy: "I will never love anyone like this again" defines the future-self around the loss, and "I am the person who carries this for the family" defines the present-self around the role. Each makes the identity more dependent on the story being true. The more dependent, the slower the dismantling.
+
+The implication is not that the person should drop the story. It is that loosening the holding -- treating the story as a story rather than as the truth -- is what allows the grief to move. See [[without-grief-we-recreate-the-pattern]] for what happens if the grief cannot move at all.
 
 ## Implications for Working With Stuck Anger
 

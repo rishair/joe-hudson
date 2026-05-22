@@ -4,8 +4,8 @@ id: idea-of-self-vs-actual-self
 title: "The Idea of Self vs. The Actual Self"
 aliases: ["narcissists fall in love with the idea of themselves", "the idea of myself", "self-image vs actual self", "the idea of you meeting the actual you", "the blind date with yourself", "in love with the persona", "image-self vs real self", "the constructed self vs the actual self", "the loved idea vs the actual person"]
 tags: ["concept", "self", "authenticity", "narcissism", "self-image", "identity", "ego"]
-related: ["annihilation-reveals-what-is-real", "improvement-vs-authenticity", "self-realization", "what-am-i", "identity-extension-expands-fear", "inherent-goodness", "vulnerability"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+related: ["identity", "annihilation-reveals-what-is-real", "improvement-vs-authenticity", "self-realization", "what-am-i", "identity-extension-expands-fear", "inherent-goodness", "vulnerability", "every-identity-has-limits", "transparent-identity-vs-rigid"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-09-16_Seeing Identity for What It Is"]
 ---
 
 # The Idea of Self vs. The Actual Self
@@ -75,6 +75,22 @@ A coachee who is performing the idea of themselves can sometimes be invited into
 
 The coach's job is not to break the idea. The idea is doing work. The coach's job is to make space for the actual self to surface, and then to be in contact with what is actually there. The idea will release its grip on its own once the actual self has been welcomed enough times.
 
+## The Idea Often Operates Subconsciously
+
+A sharpening of the concept that comes from the identity teaching: the idea of self does not have to be conscious to be operating. Most of the idea is built below the level of self-report. The person can describe their conscious self-image with confidence and still be governed by a deeper idea they have never named.
+
+Joe gives the studied example: kids told "you are smart" become unwilling to try after failing, because trying and failing would prove the identity wrong. The "smart" identity is operating, but the kids may not be able to articulate it. They just stop trying.
+
+"Maybe those kids could say, 'I have an identity of being smart.' Maybe those kids just think they're smart. Maybe those kids aren't even conscious of that subconscious identity that's occurring." -- Joe Hudson, Seeing Identity for What It Is
+
+His own example: a recurring emotional sequence -- chasing something he could not get, then feeling deprived and resentful -- had been operating as identity across money, bosses, his father, women's love. Each domain was the same script with a different cast. It was "how he knew himself to be," but it was not in his conscious self-description.
+
+"That chain of emotional experiences had become a part of my identity, but it was subconscious. I had no idea that until that moment, I had no idea that that was part of the identity and that it had played out with money. It had played out with bosses. It had played out with my dad. It played out with women's love." -- Joe Hudson, Seeing Identity for What It Is
+
+The implication for the idea-of-self frame: the idea is rarely fully visible. The conscious self-description is often the smaller, more curated layer. The deeper layer is the recurring emotional and behavioral patterns that the person experiences as "just how I am." The blind date with the actual self requires meeting this deeper, often-subconscious idea, not only the polished one.
+
+See [[identity]] for the larger structure and [[trace-emotion-to-its-first-felt]] for the practice that surfaces subconscious emotional identity.
+
 ## What Someone Experiences
 
 The internal experience of the gap, when it comes into view:
@@ -110,3 +126,4 @@ Joe receives this distinction with appreciation rather than authoring it. The fr
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-09-16_Seeing Identity for What It Is

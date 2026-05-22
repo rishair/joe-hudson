@@ -61,6 +61,30 @@ The frame describes why outside observers can see the dynamic clearly while the 
 
 This is why a third party can often dissolve a fight that the two participants cannot resolve. The third party is not in either defensive frame and can name the symmetry. Naming the symmetry is often enough.
 
+## The Same Structure in Every Relationship Fight
+
+The frame holds with particular force in long-term relationships. Joe is unequivocal: every fight in a relationship runs on this structure.
+
+"All these fights that we get into in our relationships, they're all -- you can break them down to pretty much the same basic thing. It's like one person feels unseen and -- or so both people feel unseen in that moment or feel unheard, unseen, not grokked, not respected, some version of that. And there's a desire to change the other person. And that is the quintessential part of all fights and that somebody's closed or both people have closed down their heart." -- Joe Hudson, How Relationships Reveal Us
+
+"I've never seen a fight that isn't basically about that in a relationship." -- Joe Hudson, How Relationships Reveal Us
+
+The diagnostic for a relationship fight has three components and all three are usually present:
+
+1. Both people feel unseen / unheard / disrespected
+2. Both people want the other to change
+3. Both people have closed their hearts
+
+The exit move is correspondingly clear: one or both people drops the demand-for-change, opens their heart, and gives real attention to seeing the other person. The fight does not require both people to do this. One person can flip the switch and the fight dissolves -- though it may take time.
+
+"Every fight can be resolved with one and/or both people saying, 'Oh, I'm going to love you unconditionally even in this situation. Here, let me take the time to see you. Let me make sure that I'm seeing you correctly. Let me make sure that I understand what you need to be respected. And I'm not going to try to change you anymore.' If you flip that switch in a fight, the fight goes away. And it might take a while to go away." -- Joe Hudson, How Relationships Reveal Us
+
+The reason most people do not flip the switch is the conditional clause: "I'm not gonna open my heart until they open their heart. I'm not gonna see them until I'm seen. I'm always the one who sees them. I need a partner that does the work." Each of these is the same hostage move -- making your own freedom contingent on the partner's behavior, which means you never get it.
+
+"It's like saying, hey, I'm not going to be free until they're free. Like, what the hell? It makes no sense from this perspective." -- Joe Hudson, How Relationships Reveal Us
+
+The reframe: my freedom is mine. Opening my heart is mine. Whether the partner does the same is theirs. Doing it first, regardless of whether they reciprocate, is the move that ends the fight. See [[connection-doesnt-require-the-other]] and [[upright-undefended-love]] for the underlying principles.
+
 ## What This Frame Is Not
 
 It is not "both sides are equally responsible." Fault is a separate question. The structure (mutual defense, mutual fear) is symmetric. The harm may not be. Naming the structure is not a moral equivalence claim; it is a perceptual one.
@@ -105,3 +129,4 @@ Plain, observational, almost biological. Joe does not deliver this as a moral te
 ## Sources
 
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
+- 2022-09-02_How Relationships Reveal Us — Relationships Series #1

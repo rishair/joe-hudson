@@ -4,7 +4,7 @@ id: joy-as-matriarch
 title: "Joy as the Matriarch of a Family of Emotions"
 aliases: ["joy as matriarch", "joy is a matriarch", "joy as mother", "joy won't come without her children", "the matriarch metaphor", "joy as gateway emotion", "the family of emotions", "docks in your port metaphor"]
 tags: ["joy", "emotions", "metaphor", "welcoming", "positive emotions", "repression"]
-related: ["stages-of-emotional-development", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "kinked-emotions", "pleasure-capacity", "daily-emotional-yoga", "embrace-intensity", "emotional-fluidity", "fear-of-joy", "cafe-emotional-stigma"]
+related: ["stages-of-emotional-development", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "kinked-emotions", "pleasure-capacity", "daily-emotional-yoga", "embrace-intensity", "emotional-fluidity", "fear-of-joy", "cafe-emotional-stigma", "grief-is-many-emotions-not-just-sadness", "dont-shame-your-grief-process"]
 sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
 ---
 
