@@ -4,8 +4,8 @@ id: do-the-work-thats-harder-for-you
 title: "Do the Work That's Harder for You (When Two Paths Are Available)"
 aliases: ["do the harder work", "the productive path is the less appealing one", "when two paths are available do the less natural one", "the diagnostic for which work to do", "if one option is appealing the other is the work", "the path of most resistance", "the unappealing option is usually the productive one", "the two-path coaching diagnostic", "do the one you're less likely to do", "if speaking up is easier then sitting with the emotion is the work", "if sitting with emotion is easier then speaking up is the work"]
 tags: ["principle", "growth", "coaching", "self-knowledge", "edge work", "transformation", "two-path diagnostic"]
-related: ["embrace-intensity", "embracing-intensity-as-leading-indicator", "approach-the-pink-elephant", "the-gold-lies-beyond-the-afraid", "say-the-thing-youre-not-saying", "feeling-the-unfelt-emotion", "stay-centered-while-holding-space", "being-with-anothers-emotion-is-being-with-your-own-pain"]
-sources: ["2022-10-26_Triggered!"]
+related: ["embrace-intensity", "embracing-intensity-as-leading-indicator", "approach-the-pink-elephant", "the-gold-lies-beyond-the-afraid", "say-the-thing-youre-not-saying", "feeling-the-unfelt-emotion", "stay-centered-while-holding-space", "being-with-anothers-emotion-is-being-with-your-own-pain", "am-i-falling-or-flying", "take-contrary-action"]
+sources: ["2022-10-26_Triggered!", "2024-05-03_What Changed After Master Class?"]
 ---
 
 # Do the Work That's Harder for You (When Two Paths Are Available)
@@ -51,6 +51,18 @@ Two reasons people prefer the easier path:
 **2. The harder path looks like incompetence.** When you do the work you are bad at, you produce bad results at first. The bad results read internally as failure. The system retreats back to the work it is good at, where the results are competent. Competence is not growth.
 
 The reframe required: the felt sense of "I am bad at this" is the felt sense of doing the work that will actually move you. The felt sense of "I am good at this" is the felt sense of doing the work that has already happened.
+
+## Applied to Engagement in a Course or Program
+
+Eva, two years out from the MasterClass, articulates the same principle in a different domain: how to engage with a transformative course in a way that produces transformation rather than reinforcement of existing patterns. The two-path diagnostic shows up here as the difference between participating "the way you would normally" and participating in a way that goes against your usual configuration.
+
+"This is like going against the grain of what your usual you is. Like if it's someone who always wants to share everything, like write everything, talk, engage with a million people, what it's like to take a moment before being the first one to raise the hand. What is like to actually do it instead and like own it 100% or like what is like to act as someone who wouldn't... I think the most powerful thing, just reclaiming your ownership of every single interaction you have with the group with, and, and then dealing with the consequences, mean consequences, meaning your own thoughts." — Eva, What Changed After Master Class?
+
+The principle is the same: the natural mode is the already-trained mode, and more of it does not produce new capacity. The growth move is the move you would not normally make. For the person who shares first, the work is to wait. For the person who hides, the work is to speak. For the person who fills the space, the work is to take less of it. For the person who shrinks, the work is to take more.
+
+This generalizes beyond course participation. Any sustained engagement — a job, a marriage, a friendship, a meditation practice — presents the same two-path diagnostic. You can do the engagement as the person you already are, or you can use the engagement to develop the capacity you are missing. The latter requires noticing what your default mode is and deliberately, occasionally, doing the opposite. Matthew adds the design implication: "That would've been an awesome prompt up front to like, hey, how would you normally show up for this thing and challenge yourself to like not just lean into that?"
+
+The diagnostic question that surfaces the work: how would I normally show up to this? The answer to that question, inverted, is usually the work.
 
 ## How to Apply It
 
@@ -105,3 +117,4 @@ Joe delivers this as a quiet diagnostic, not as a confrontation. The point is no
 ## Sources
 
 - 2022-10-26_Triggered!
+- 2024-05-03_What Changed After Master Class? (Eva's articulation of the same principle applied to course participation: "going against the grain of what your usual you is"; the diagnostic that the move you would not normally make is the work; Matthew's design suggestion that the question "how would you normally show up for this thing" could be made into an explicit up-front prompt for participants)

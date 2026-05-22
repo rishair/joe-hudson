@@ -2,10 +2,10 @@
 type: practice
 id: daily-gratitude-for-your-own-transformation
 title: "Daily Gratitude for Your Own Transformation"
-aliases: ["daily gratitude for transformation", "daily gratitude for growth", "gratitude for the work you've done", "thank yourself daily", "the daily acknowledgment practice", "the encouragement-not-fixing practice", "daily acknowledgement of growth", "appreciate the transformation you've had", "gratitude for the little wins of the day", "the showing-up gratitude", "thank yourself for showing up", "the gentleness gratitude practice", "the growth-gratitude practice", "Joe's biggest hack for transformation"]
+aliases: ["daily gratitude for transformation", "daily gratitude for growth", "gratitude for the work you've done", "thank yourself daily", "the daily acknowledgment practice", "the encouragement-not-fixing practice", "daily acknowledgement of growth", "appreciate the transformation you've had", "gratitude for the little wins of the day", "the showing-up gratitude", "thank yourself for showing up", "the gentleness gratitude practice", "the growth-gratitude practice", "Joe's biggest hack for transformation", "the gratitude-for-working-out example", "I'm grateful I want to work out becomes I'm the kind of person who works out", "gratitude for transformation speeds transformation", "speeds-transformation gratitude"]
 tags: ["gratitude", "practice", "transformation", "growth", "gentleness", "daily practice", "self-relationship"]
-related: ["gentleness-not-trying-to-be-patient", "gratitude-around-the-problem", "love-is-the-best-change-agent", "notice-and-be-grateful-for-connection", "wants-over-shoulds", "voice-as-care", "i-need-to-improve-myself", "punishing-the-remembering", "pendulation"]
-sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2024-02-19_3 Mindsets That Transform Self-Development"]
+related: ["gentleness-not-trying-to-be-patient", "gratitude-around-the-problem", "love-is-the-best-change-agent", "notice-and-be-grateful-for-connection", "wants-over-shoulds", "voice-as-care", "i-need-to-improve-myself", "punishing-the-remembering", "pendulation", "gratitude-as-full-body-sport", "gratitude-as-healing-medicine", "two-person-gratitude-practice"]
+sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2024-02-19_3 Mindsets That Transform Self-Development", "2024-05-10_Gratitude"]
 ---
 
 # Daily Gratitude for Your Own Transformation
@@ -75,6 +75,44 @@ Same push-ups. Different relationship. The first relationship makes tomorrow's p
 
 The principle applies to every domain of practice: meditation, emotional work, relational repair, voice work, business iteration. The transformation-direction of the activity stays the same. The energetic-direction of the activity is determined by the relationship to it.
 
+## The Working-Out Example (Identity Through Gratitude)
+
+A second illustration extends the push-ups example into the territory of identity formation. Gratitude does not just make the activity more pleasant; it remakes the identity of the practitioner around the activity.
+
+"If you're working out and you're grateful, I'm so grateful that I want to work out. I'm so grateful that I told myself it's time to work out. I'm so grateful for working out. I'm so grateful for how I feel when I'm finished working out, you're going to keep working out. Eventually, that identity is going to come into place of you're the person grateful to work out instead of you're the person who doesn't work out and says you should work out." -- Joe Hudson, Gratitude
+
+The mechanism: identity follows behavior, behavior follows the energetic state that produces it, and the energetic state is produced by the framing of the activity. Gratitude is the framing that produces the energetic state that produces sustained behavior. Over enough repetitions, the identity rearranges to match.
+
+The contrast is between two stable identities:
+- "The person who doesn't work out and says they should" -- locked in by the should-energy and the felt inadequacy
+- "The person grateful to work out" -- locked in by the receive-energy and the felt rightness
+
+The transition between them is not a matter of willpower or discipline. It is a matter of changing the framing of each repetition. The framing is the gratitude. The gratitude does the structural work the willpower was trying and failing to do.
+
+This applies to any practice the person is trying to make stick: gratitude practice itself, emotional practice, meditation practice, business practice. The same structure operates. The relationship to the practice determines whether the practice produces an identity that sustains itself.
+
+## Why Joe Calls Gratitude "the Best Hack" -- The Speeds-Transformation Mechanism
+
+Joe is explicit about why gratitude is the central operational move for self-relationship: it speeds transformation rather than slowing it.
+
+"If you're transforming and you are constantly thinking, I'm not going fast enough, this isn't working, just like the working out thing. Why is there any change? This is all going to go away. I wonder if this is going to last. All that shit's going to slow you down. If you're like, oh, I'm so grateful I saw that. I'm so grateful that I did this. I'm so grateful I did the class. And you feel it, not just say it... then yeah, it speeds transformation instead of slows it down." -- Joe Hudson, Gratitude
+
+The mechanism: the inquiring-into-whether-the-transformation-is-real is itself a force that slows the transformation. The questioning is grasping-state. Grasping-state is incompatible with the receive-state in which transformation actually happens. Each instance of "is this working?" pulls the system back into grasping-state and out of the state in which the work is happening.
+
+Gratitude is the alternative. "I am grateful I saw that" leaves the result alone and registers the seeing. The system stays in receive-state. The transformation continues without being interrupted by the metacognitive checking that would have slowed it.
+
+This is also why the practice has to be daily. The metacognitive checking is daily. The "am I doing this right?" voice is daily. A weekly gratitude counter-practice gets drowned out. The daily form is the minimum dose for the practice to operate as the counter-frequency to the questioning voice.
+
+## The Practice Also Works at Team Scale
+
+The same principle that operates for self also operates for teams. A team that meets transformation with gratitude transforms faster than a team that meets transformation with management.
+
+"In a company. If you can show gratitude for the changes that are happening in the right direction, it totally speeds that transformation." -- Joe Hudson, Gratitude
+
+The leader's job: notice what is moving in the direction the team wanted to move, and bring gratitude to it explicitly. Not the praise-the-employee form of gratitude (which can read as manipulation), but the genuine notice-and-thank form. The team learns to do the same for itself. The transformation accelerates.
+
+See [[gratitude-rounds-before-meetings]] for the team-scale practice that implements this principle.
+
 ## What to Thank Yourself For When the Day Was Hard
 
 The practice does not require a good day. The hardest days are when it most matters. On a hard day, the things to thank yourself for include:
@@ -137,3 +175,4 @@ If the person genuinely cannot name anything, start them very small: "Thank your
 
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
 - 2024-02-19_3 Mindsets That Transform Self-Development (the in-the-moment "grateful for the remembering" form: meet the moment of recognition with gratitude, not punishment; the explicit instruction "oh, I just remembered and I'm grateful that I remembered")
+- 2024-05-10_Gratitude (the working-out identity-formation extension of the push-ups example; the explicit speeds-transformation mechanism showing why gratitude is the central operational move; the team-scale application that the same principle drives team transformation; the linkage to [[gratitude-as-healing-medicine]] as the foundation of any transformative work)

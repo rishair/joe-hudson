@@ -2,10 +2,10 @@
 type: principle
 id: gratitude-as-acknowledgment-of-greater-force
 title: "Gratitude Is the Acknowledgment That You Are Not Doing It All Yourself"
-aliases: ["gratitude as acknowledgment of greater force", "gratitude acknowledges you are not alone", "gratitude as acknowledgment that others/world are with you", "ungratefulness as forced self-sufficiency", "I'm grateful means I'm not alone", "gratitude undoes isolation", "the care-of-the-world in gratitude", "you don't say I'm grateful that I'm awesome", "gratitude points outside the self", "gratitude makes the world a collaborator", "the gratitude-isolation connection", "ungratefulness as the lonely posture"]
-tags: ["gratitude", "isolation", "connection", "principle", "self-sufficiency", "hyper-independence"]
-related: ["daily-gratitude-for-your-own-transformation", "gratitude-around-the-problem", "gratitude-rounds-before-meetings", "notice-and-be-grateful-for-connection", "see-whats-right-to-build-on-it", "connection-as-life-bottom-line", "i-have-to-do-it-all-myself", "5-ways-to-stay-unhappy", "i-dont-have-community", "humility", "love-is-the-best-change-agent"]
-sources: ["2024-04-08_How NOT To Be Happy"]
+aliases: ["gratitude as acknowledgment of greater force", "gratitude acknowledges you are not alone", "gratitude as acknowledgment that others/world are with you", "ungratefulness as forced self-sufficiency", "I'm grateful means I'm not alone", "gratitude undoes isolation", "the care-of-the-world in gratitude", "you don't say I'm grateful that I'm awesome", "gratitude points outside the self", "gratitude makes the world a collaborator", "the gratitude-isolation connection", "ungratefulness as the lonely posture", "gratitude as ego pressure release", "the ego balloon deflating in gratitude", "you can't decide your next 10 thoughts so something greater is moving"]
+tags: ["gratitude", "isolation", "connection", "principle", "self-sufficiency", "hyper-independence", "ego"]
+related: ["daily-gratitude-for-your-own-transformation", "gratitude-around-the-problem", "gratitude-rounds-before-meetings", "notice-and-be-grateful-for-connection", "see-whats-right-to-build-on-it", "connection-as-life-bottom-line", "i-have-to-do-it-all-myself", "5-ways-to-stay-unhappy", "i-dont-have-community", "humility", "love-is-the-best-change-agent", "gratitude-as-full-body-sport", "always-something-spectacular-happening", "gratitude-as-healing-medicine", "two-person-gratitude-practice", "lottery-winners-vs-accident-survivors"]
+sources: ["2024-04-08_How NOT To Be Happy", "2024-05-10_Gratitude"]
 ---
 
 # Gratitude Is the Acknowledgment That You Are Not Doing It All Yourself
@@ -17,6 +17,18 @@ When you feel grateful for something, you are implicitly acknowledging that ther
 This is why gratitude undoes isolation. Saying "I am grateful" is structurally incompatible with "I am alone with all of this." The first sentence requires there to be something else. The second sentence requires there to be nothing else. They contradict.
 
 "When you feel grateful for something, you're acknowledging that there's a greater force in the world than you, that it's not all dependent on you... You don't typically say, 'I'm so grateful that I'm awesome.' It's like, 'Oh, I'm grateful for the food. I'm grateful for the people who brought me the food. I'm grateful for this opportunity.' All things that are somewhat outside of your control. And inside of that, you see the care of the world, and it doesn't make you all alone having to do everything." -- Joe Hudson, How NOT To Be Happy
+
+## The Ego-Pressure-Release Mechanism
+
+A specific physiological consequence follows from the acknowledgment-of-greater-force structure: the ego pressure that has been holding the system tight releases. The body that has been carrying "I have to make all of this happen" relaxes when it admits that some of this is happening without it.
+
+"It lets that pressure out because there's an acknowledgment that you're not fully in control of this thing. And I'm sure there's viewers who are like, I'm in control of it. It's like my response there would be, you can't even decide the next thought you're going to have or the next 10 thoughts you're going to have. So if you're not even making that decision, which is what's propelling all the rest of your decisions, there's something greater moving." -- Joe Hudson, Gratitude
+
+The argument is structural. The person who claims to be in control of their life cannot even predict their own next thought. The thoughts arrive. The decisions follow from the thoughts. The actions follow from the decisions. None of the original material is being produced by the deciding-self. Something is generating it. Acknowledging that the generation is happening is what gratitude actually consists of.
+
+The release of ego pressure is not a moral reward for being grateful. It is the mechanical consequence of the body letting go of a position it could not actually hold. Saying "I am in charge of all of this" requires constant muscular effort. The effort produces tension. The acknowledgment of greater force lets the muscular effort drop. The body softens.
+
+This is part of why felt gratitude produces the expansion-and-relief sensation Joe names in [[gratitude-as-full-body-sport]]. The expansion is the release of the ego-pressure musculature. The relief is the felt experience of putting down a weight the person did not realize they were carrying.
 
 ## The Care of the World
 
@@ -105,3 +117,4 @@ Direct, structural. The principle is delivered as a mechanism, not as a moral in
 ## Sources
 
 - 2024-04-08_How NOT To Be Happy (the canonical statement of the principle: "when you feel grateful for something, you're acknowledging that there's a greater force in the world than you, that it's not all dependent on you"; the self-sufficiency test "you don't typically say I'm so grateful that I'm awesome"; the placement of the principle inside the third of the five ways to stay unhappy; the care-of-the-world framing)
+- 2024-05-10_Gratitude (the ego-pressure-release mechanism: "it lets that pressure out because there's an acknowledgment that you're not fully in control of this thing"; the "you can't even decide the next thought you're going to have" argument for why control is illusory; the linkage between gratitude and the felt expansion/relief sensation; the framing of ungratefulness as requiring "a real ego" to dismiss all the support that produced the current moment)

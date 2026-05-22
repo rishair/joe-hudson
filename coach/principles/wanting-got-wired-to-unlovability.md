@@ -4,7 +4,7 @@ id: wanting-got-wired-to-unlovability
 title: "When the Parent Couldn't Provide and Felt Shame, Wanting Got Wired to Unlovability"
 aliases: ["wanting got wired to unlovability", "wanting wired to unlovable", "wanting got wired to not being loved", "the parent's shame at not providing produces the love-withdrawal", "the parent felt shame at not being able to give and shut off love", "the mother who couldn't provide felt shame and went to responsibility", "responsibility over love in childhood", "the child read the love-withdrawal as a lesson about wanting", "wanting became dangerous because it produced love-withdrawal", "the mom-couldn't-give-and-felt-shame mechanism", "the parent who shuts off love when the child wants something", "I learned that when I go for what I want I'm not lovable", "the wanting equals unlovable wiring", "the developmental origin of obligation-cuts-off-love", "the imprint where wanting was wired to shame and love-withdrawal", "the child who learned wanting cuts off love", "the wanting-corruption wiring", "if you want it you're corrupt wiring", "when you go for what you want I'm not lovable", "I have to stop wanting to be loved imprint", "the parent traded love for responsibility about not providing"]
 tags: ["childhood imprinting", "wanting", "love", "shame", "responsibility", "wiring", "developmental"]
-sources: ["2024-04-15_Am I A Fake？"]
+sources: ["2024-04-15_Am I A Fake？", "2024-05-06_How Do I Make Money Doing What I Love？"]
 ---
 
 # When the Parent Couldn't Provide and Felt Shame, Wanting Got Wired to Unlovability
@@ -80,6 +80,24 @@ The work has the same shape as other childhood-imprint work, with one specific a
 5. **Name the wiring out loud.** "She got off the love. And you heard that as: when I go for what I want, I'm not lovable." The naming completes the circuit. See [[trauma-mapping]].
 6. **Notice the body coming back online.** When the wiring is named clearly, the body often relaxes and squares up. The person comes whole into the room. See [[let-your-body-remember-this-moment]].
 
+## The Father Version: Shame About Being Seen as What He Was
+
+A parallel form of the same wiring runs through the father side, with a different specific emotion as the engine. Where the mother case often involves shame at not being able to provide, the father case often involves shame at being seen for what he is — caught, exposed, found out as not what he was performing himself to be.
+
+The public speaking coach session shows this version. The dad drank heavily, made a deal with his 7-year-old son that he would pay $200 each time he drank on a weekend, and was bragged about by the son in front of family at $1,200 of accumulated payments. The dad "went nuts." The kid took from this that "money is more important than I am."
+
+Joe drilled past the literal surface to find the dad's actual avoided emotion:
+
+- **Joe:** "When he was fucking pissed because you were bragging about that $1,200, what was more important than you at that moment?"
+- **Guest:** "He was ashamed."
+- **Guest:** "The shame was more important. Not feeling the shame, avoiding the shame by getting angry. Yeah, raging."
+
+The wiring the kid received: my visibility (bragging in front of family) triggered Dad's shame, and Dad's avoidance of his shame was met with rage that obliterated me. The rule installed: be visible about what you have, and the love-figure will rage / withdraw / disappear behind their own avoided emotion.
+
+The adult version of this wiring shows up as inability to be visible about wanting. The public speaking coach who can market other people but cannot market himself is running this wiring: visibility about his own work triggers the wired-in expectation that the love-figure (the audience, the prospective client, the world) will rage or withdraw. The avoidance of marketing is the avoidance of triggering the wired-in love-figure response.
+
+The work is the same shape as the mother version: surface the parent's specific avoided emotion ([[what-was-really-more-important-than-you]]), apply the pattern forward ([[apply-the-childhood-pattern-to-the-present-problem]]), refuse the moral collapse on the current behavior ([[whats-wrong-with-the-thing-theyre-judging]]). The specific emotion that gets named (mother's shame at not providing, father's shame at being seen for what he is) determines the texture of the work but not its structure.
+
 ## The Connection to Other Principles
 
 This principle is the **developmental origin** of:
@@ -135,3 +153,4 @@ When the parent's specific emotion is being felt by the client, the tone slows d
 ## Sources
 
 - 2024-04-15_Am I A Fake？
+- 2024-05-06_How Do I Make Money Doing What I Love? — the father version of the wiring; the dad's shame at being seen for what he was (drinking on weekends despite the deal) → rage at the bragging child → the kid wires visibility-about-wanting to love-figure-disappearing-behind-their-own-shame; the adult presentation as a public speaking coach who cannot market his own work

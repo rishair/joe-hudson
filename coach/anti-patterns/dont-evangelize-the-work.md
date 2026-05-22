@@ -5,7 +5,7 @@ title: "Don't evangelize the work"
 aliases: ["missionary work", "using tools without permission", "pushing transformation on others", "coaching without consent", "tools without shadow work", "carrying someone else's tools without consciousness"]
 tags: ["integration", "relationships", "boundaries", "VIEW"]
 related: ["view-as-technique", "integration", "community-over-teacher", "fixing-people", "become-unnecessary", "good-and-corruption-cycle", "spiritual-narcissism"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_The Business Behind Our Courses"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_The Business Behind Our Courses", "2024-05-03_What Changed After Master Class?"]
 ---
 
 # Don't evangelize the work
@@ -46,6 +46,16 @@ Joe affirms this: "It's funny when we're talking about people introducing other 
 
 The diagnostic for whether to even extend an invitation: are you trying to convince, or are you offering? If trying to convince, drop it. If genuinely offering with full okay-ness about the no, the offer can be made and may even land.
 
+## The Reflexive Impulse Right After a Breakthrough
+
+The evangelizing impulse is loudest in the first weeks and months after a transformative experience. A specific subtype: the person is so excited about what changed for them that they want to share it as instruction with people they love. The impulse is not malicious. It comes from love. It is still the anti-pattern, and it still produces the same predictable result: the loved ones recoil, the relationship gets more distant, and the person begins to feel isolated from the people they were trying to bring along.
+
+Matthew, nine months out from the MasterClass, names this directly as one of his post-course "stumbles out of the gate." He was so excited about having done the work that he wanted to share it: "I was wanting to share it because like, hey, and you can change your life too with this. And that, that's gotta go in that post guide." Joe responds with the structural observation: "People are gonna do that no matter how many times we tell 'em." The impulse is predictable; warning against it does not always prevent it.
+
+The instruction is to feel the impulse without acting on it. The impulse is real; the impulse is also the urge to fix the people you love, dressed up as enthusiasm. The discipline is to let the work move you toward becoming the kind of presence the loved ones can feel, rather than the kind of teacher they have to defend against. See [[inner-work-then-they-change]] for the three-step sequence that includes "stop trying to fix them" as the structural prerequisite to the people around you actually shifting.
+
+The diagnostic for whether you are in the impulse: are you wishing they would do the course, the program, the practice? Are you sending them links to podcasts? Are you bringing up insights at the dinner table? Each of these is the impulse acting. The shift is to do the dinner with them, to be present, to handle the trigger differently than you would have a year ago, and to let that be the communication. They will sometimes notice. They will sometimes ask. When they ask, you can answer. Until they ask, the asking happens in silence.
+
 ## Why Tools Get Dangerous in Untrained Hands
 
 Beyond the consent issue, there is a structural reason for caution about who picks up which tools. Tools developed inside one person's consciousness fit that consciousness. The same tool picked up by someone whose shadow has not been examined becomes a vehicle for the shadow. The tool is not damaging. The unexamined shadow that picked up the tool is damaging.
@@ -66,3 +76,4 @@ The full picture: tools that require nothing of the other person (questions, tru
 - 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
+- 2024-05-03_What Changed After Master Class? (Matthew's account of the post-MasterClass impulse to share the work with loved ones as one of his first "stumbles out of the gate"; Joe's acknowledgment that the impulse is predictable enough that explicit warning often does not prevent it; the practical instruction to feel the enthusiasm without acting on it and to let presence rather than evangelism do the relational work)

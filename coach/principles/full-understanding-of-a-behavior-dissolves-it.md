@@ -5,7 +5,7 @@ title: "If You Fully Understood the Behavior, You Wouldn't Do It"
 aliases: ["full understanding dissolves behavior", "if you fully understood it you wouldn't do it", "fully feel the behavior to stop it", "understand the habit don't fight it", "feel the behavior all the way through", "understanding over doing", "the felt-experience-of-the-behavior approach", "understand instead of try to stop", "stop trying to stop start understanding", "the no-figure-it-out behavior change", "feel the behavior in the act", "the wrapping-boys-around-her-finger example", "the smoking mindfulness approach"]
 tags: ["principle", "bad habits", "behavior change", "understanding", "feeling", "transformation", "addiction", "awareness"]
 related: ["awareness-as-change-agent", "shame-drives-behavior", "address-the-blocker-not-the-symptom", "joes-pot-habit", "feeling-the-unfelt-emotion", "apologize-as-daily-practice-for-bad-habits", "dissolution-not-behavior-control", "undoing-not-doing", "embrace-intensity"]
-sources: ["2022-10-26_The Upright Apology"]
+sources: ["2022-10-26_The Upright Apology", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
 ---
 
 # If You Fully Understood the Behavior, You Wouldn't Do It
@@ -17,6 +17,20 @@ Bad habits persist because the person doing them does not yet fully understand o
 "You don't fully understand it. If you fully understood it, you wouldn't do it. Like, there's just no way, if you fully understand it. So let's just work on the understanding of it instead of the doing, because you've been trying to do stuff over it for a decade. It hasn't worked. Let's just understand it more fully." -- Joe Hudson, The Upright Apology
 
 The principle reframes the entire approach to unwanted behavior. The behavior is not a failure of willpower. It is a deficit of understanding. The person is acting through a partial blur, dissociating from some part of the experience to make the behavior bearable. The blur is what keeps the behavior available. Remove the blur, and the behavior loses its grip.
+
+## The Hot Frying Pan Compression
+
+The cleanest one-sentence version of this principle is the hot frying pan image. Joe deployed it on Twitter and it became the most contested teaching he had posted:
+
+"How do you drop a hot frying pan? All you have to do is feel it and you're going to drop the hot frying pan. If you want to drop bad habits, you just need to feel them." -- Joe Hudson, Happiness, the New Way (recalling his Twitter post)
+
+The image collapses the entire principle into something so simple it sounds dismissive. You do not have to do anything to drop a hot frying pan. Feeling the heat is the dropping. You do not have to decide, plan, intend, or strategize. The sensation produces the action. If you are not dropping it, you are not actually feeling it.
+
+The same is true of bad habits. You do not have to decide to stop. You do not have to plan how to stop. If you actually felt the behavior — fully, all the way through, every sensation — you would drop it the way you would drop the hot frying pan. The fact that you are not dropping it is evidence that you are not yet feeling it.
+
+This compression is rhetorically powerful precisely because it sounds too easy. The listener wants to object. The objection itself is the data: if it were really that simple, why has the listener not done it? The answer is that the listener is doing the dissociation that prevents the feeling. The teaching is not that change is easy. The teaching is that change is what happens when the dissociation stops.
+
+The backlash to this Twitter post was severe enough that Joe had to block multiple commenters. The backlash was not about the technical validity of the teaching. The backlash was about the threat the teaching posed to the identity of being someone who could not change. See [[religious-identity-around-pain]] for the full pattern.
 
 ## The Body Mechanism
 
@@ -125,3 +139,4 @@ Joe holds this principle with confidence and lightness. The confidence is becaus
 ## Sources
 
 - 2022-10-26_The Upright Apology
+- 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (the hot frying pan compression of the principle: "How do you drop a hot frying pan? All you have to do is feel it. If you want to drop bad habits, you just need to feel them"; the recounting of the severe backlash to this Twitter post, requiring Joe to block multiple commenters — the source for [[religious-identity-around-pain]] as the diagnostic of why the teaching produces defense rather than experimentation in some hearers)

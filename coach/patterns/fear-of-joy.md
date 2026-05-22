@@ -5,7 +5,7 @@ title: "Fear of Joy"
 aliases: ["scared of joy", "pleasure anxiety", "the other shoe is going to drop", "stopping the laughter", "afraid to feel good", "the joy clamp", "if I let the love in", "shutting down the laughing", "fear of feeling good", "afraid of pleasure", "foreboding joy", "the inevitable doom thought", "if I'm happy I won't be prepared", "resistance to gratitude", "scared of being content"]
 tags: ["joy", "fear", "pleasure", "anxiety", "self-protection", "pattern", "gratitude"]
 related: ["joy-as-matriarch", "pleasure-capacity", "cafe-emotional-stigma", "embrace-vs-brace", "ive-lost-my-joy", "anxiety-as-constricted-life-force", "feeling-the-unfelt-emotion", "gratitude-rounds-before-meetings"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team", "2023-02-10_The Golden Algorithm", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team", "2023-02-10_The Golden Algorithm", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-05-10_Gratitude"]
 ---
 
 # Fear of Joy
@@ -116,6 +116,28 @@ The reassurance functions on two levels. First, it gives the fearful part of the
 
 In coaching, this frame is useful when a person reports they want joy but cannot tolerate the loss of self-prediction. The work is to make the trade visible: what is being traded for what, and on what time horizon. Most people, asked this directly, will see that they have been paying a high price for the moment-to-moment predictability and that the portfolio-level alignment is what they have actually wanted all along.
 
+## The "Kinky to Feel Good in Public" Dimension
+
+A specific social variant of the fear: it is socially uncomfortable to allow visible pleasure in front of other people. The discomfort is so pervasive that most people don't notice it; they just operate within it by default.
+
+"The other thing that makes it difficult is that feeling good in front of people in our society is kind of kinky, meaning we can laugh together. But imagine you're sitting at a table at a restaurant and one of your friends goes into ecstasy. It's going to make everybody really, really uncomfortable. I mean, even sexually." -- Joe Hudson, Gratitude
+
+The specific example Joe uses, drawing from his own life:
+
+"Watching Tara eat as an example. She takes so much pleasure in it." -- Joe Hudson, Gratitude
+
+Tara, Joe's wife, allows herself to fully feel pleasure when she eats. This is rare. Most adults eat in a contained, social-managed way. Watching someone who has not adopted the containment is striking precisely because it is so uncommon.
+
+The implication of the kinky-to-feel-good framing: even quiet shared pleasure is somewhat permitted (laughter, light enjoyment), but anything that crosses the social threshold of visible deep pleasure activates the rest of the room's discomfort. The room then signals back to the pleasure-haver that they have gone too far. The pleasure-haver, picking up the signal, clamps down. The clamp is reinforced by the social cost of releasing it.
+
+This is part of why the practice of allowing felt gratitude or felt joy is hard in groups even when the group has agreed to do the practice. The agreement is at the cognitive level. The social discomfort at visible pleasure operates underneath, at a level the agreement does not reach.
+
+Joe extends the observation to sex specifically:
+
+"I think it's why so even so much of our sex is so, you know, transactional, even with ourselves. Like, masturbation is like a very transactional thing is because that pleasure to allow yourself to totally feel the pleasure in a way it makes people self-conscious. Oftentimes people feel shame around pleasure." -- Joe Hudson, Gratitude
+
+The clamp on pleasure shows up everywhere pleasure shows up. Eating. Sex. Laughter. Gratitude. The same restriction operates across the domains because the same underlying social-physiological pattern is generating it.
+
 ## The Loss-of-Control Dimension
 
 Joy involves a release of management. Laughing freely, blissing out, opening to love -- all require letting the controlling apparatus go offline. For a person whose safety depends on maintaining control, joy feels structurally unsafe.
@@ -225,3 +247,4 @@ Curious, warm. The fear of joy is treated as a real phenomenon, not as a failure
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the cognitive-questioning variant of the clamp; the neurological asymmetry between tracking bad-after-good and good-after-bad)
 - 2024-03-15_Joy (the loss-of-predictability dimension of fear of joy -- losing the ability to predict self, action, and consequences; the divorce-your-wife / quit-your-job fears that surface when joy is fully allowed; the mind-wide-as-sky / action-fine-as-barley-flour Tibetan saying that frames what replaces the lost predictability; the index-fund-of-life reassurance for the in-between period; the bottling-up-then-release pattern in kids that demonstrates why safety triggers difficult emotions)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical loss-of-predictability fears, divorce-your-wife / quit-your-job examples, Tibetan mind-wide-as-sky framing, and index-fund-of-life reassurance)
+- 2024-05-10_Gratitude (the "kinky to feel good in public" social-discomfort framing; the Tara-eating-purple-potatoes example of someone who has not adopted the social containment; the extension of the clamp into sexuality and masturbation as transactional; the framing of fear-of-joy as one specific reason people resist gratitude practice -- they're scared the gratitude will release a level of pleasure they're not comfortable having visible)

@@ -5,7 +5,7 @@ title: "Self-Reliance Pushes People Away (And Reads as Abandonment to Those Arou
 aliases: ["self-reliance pushes people away", "your self-reliance feels like abandonment to others", "the self-reliant person is hard to help", "hyper-independence pushes love away", "what self-reliance does to other people", "your dad wasn't abandoning he was self-reliant", "the abandonment-self-reliance duality", "self-reliance as push-away", "your self-reliance reads as not-needing", "I've got it I've got it I've got it pushes love away"]
 tags: ["self-reliance", "independence", "abandonment", "relationships", "intimacy", "push-pull"]
 related: ["i-have-to-do-it-all-myself", "push-pull-dynamics-in-dating", "fear-of-losing-yourself-in-love", "i-cant-find-love", "joes-abandonment-mapping", "apologize-for-not-seeing-the-help", "vulnerability-in-the-workplace", "anxious-avoidant-dynamic"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison"]
 ---
 
 # Self-Reliance Pushes People Away
@@ -25,6 +25,37 @@ The self-reliant person typically cannot see that the self-reliance is a push. F
 The recognition that the self-reliance itself is what is producing the isolation is the diagnostic moment. The reframe is not easy because the self-reliance has usually been a major source of pride and competence. Naming it as a push feels like an attack on the identity that the person built to survive.
 
 See [[i-have-to-do-it-all-myself]] for the developed concern article on this configuration and the work that follows.
+
+## The Parenting Origin (The "Be a Big Girl" Imprint)
+
+One specific upstream of self-reliance is a recognizable parenting move that installs the pattern in childhood. The child arrives scared. The parent, instead of being emotionally present with the fear, redirects the child toward managing their own state:
+
+"I'm scared, Mom."
+"Okay, you need to be a big girl."
+
+The substance of the move: in this moment of fear, I am not going to be with you emotionally. You need to handle this on your own. The child receives the lesson at the body level. The lesson is: when fear shows up, I am alone with it. No one is going to come. I have to be self-sufficient because that is the only option.
+
+"An example would be I was with a parent the other day and this child came, 2, 3 year old came scared. 'I'm scared, mom.' And like, 'Okay, you need to be a big girl.' It's like that kind of, like, I'm not going to be emotionally with you. Is that underpinning of that, like, 'Oh, I'm alone in this.' Because to some degree, that is what we're telling kids these days." -- Joe Hudson, Happiness, the New Way
+
+The installation is repeated thousands of times across childhood. By adulthood, the body's default response to a vulnerable moment is to handle it alone, because that is what every prior vulnerable moment trained the body to do. The self-reliance is not a chosen orientation; it is the installed somatic default produced by the repeated lesson that emotional support is not available.
+
+## The Tragic Inversion
+
+There is a tragic inversion built into this parenting move. The parent's intention is usually to teach the child resilience — to prepare the child for a world in which they will need to handle their own emotions. The parent is trying to prevent the child's future abandonment by teaching them not to need anyone.
+
+But the lesson the child learns is that they are *already* abandoned. The "be a big girl" is itself the abandonment in the moment. The child receives the message: not only is no one going to be with you in this fear, but the very idea of needing someone in this fear is not allowed.
+
+"It's an interesting thing. We're teaching — the idea is like the intention is to teach children how not to be abandoned. And then yet we're teaching them that they're always abandoned." -- Joe Hudson, Happiness, the New Way
+
+The intended preparation produces the very state it was trying to prevent. The child grows up with a felt sense of perpetual abandonment, and a self-reliance that protects them from feeling that abandonment by ensuring they never let anyone close enough to either confirm or disconfirm it. The self-reliance is the protection; the self-reliance is also the wound.
+
+## The Recursive Effect on Self
+
+When the child is told their fear is something they have to handle alone, they receive a second message embedded in the first: the fear itself is wrong. Big girls are not scared. Real boys do not need help. The fear is positioned as a thing the child should not be having, which makes the fear shameful as well as solitary.
+
+"Their emotions are something that's wrong with them again. So once again, if you're by yourself all the time, like, this is how I feel when I think about this for myself. But it's like, for me, if my emotions are too much for somebody or they violate some unspoken rule of how I'm supposed to be, then every time that I feel that way, if I get angry or sad or despairing or frustrated, then I go right back to being not good enough." -- Stephanie Harrison, in conversation with Joe, Happiness, the New Way
+
+The compounded result: by adulthood, the person is alone with their emotions, has hidden their emotions from others, and feels deficient when emotions arise that they cannot hide. The self-reliance is doing triple duty — protecting from the original abandonment, hiding the deficient emotions, and maintaining the identity of someone who can handle it.
 
 ## The Abandonment-Self-Reliance Duality
 
@@ -120,3 +151,4 @@ The teaching has weight because Joe is talking about a pattern he runs himself (
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (Joe naming the "be a big girl" parenting move as a recognizable upstream of self-reliance; the tragic inversion that the intention to teach resilience installs the perpetual abandonment it was trying to prevent; Stephanie naming the compounded shame layer — the emotions themselves become evidence of deficiency on top of the requirement to handle them alone)

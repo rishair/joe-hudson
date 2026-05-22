@@ -2,10 +2,10 @@
 type: practice
 id: gratitude-rounds-before-meetings
 title: "Gratitude Rounds Before Meetings"
-aliases: ["three rounds of gratitude", "gratitude practice for teams", "team gratitude rounds", "start meetings with gratitude", "gratitude as team cohesion", "gratitude circle", "3 things grateful for", "gratitude opener", "gratitude meeting practice", "the VC team gratitude practice"]
+aliases: ["three rounds of gratitude", "gratitude practice for teams", "team gratitude rounds", "start meetings with gratitude", "gratitude as team cohesion", "gratitude circle", "3 things grateful for", "gratitude opener", "gratitude meeting practice", "the VC team gratitude practice", "short gratitudes rule", "less than a sentence gratitude rule", "savor each gratitude rule", "feel before you say it rule"]
 tags: ["teams", "gratitude", "meetings", "practice", "leadership", "cohesion", "team-functionality"]
-related: ["see-whats-right-to-build-on-it", "gratitude-around-the-problem", "frame-it-as-an-experiment", "fear-of-joy", "functional-team", "invigorated-vs-depleted-as-functionality-measure", "five-star-meeting-commitment", "business-as-spiritual-practice"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
+related: ["see-whats-right-to-build-on-it", "gratitude-around-the-problem", "frame-it-as-an-experiment", "fear-of-joy", "functional-team", "invigorated-vs-depleted-as-functionality-measure", "five-star-meeting-commitment", "business-as-spiritual-practice", "two-person-gratitude-practice", "gratitude-as-full-body-sport", "always-something-spectacular-happening", "gratitude-as-healing-medicine"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team", "2024-05-10_Gratitude"]
 ---
 
 # Gratitude Rounds Before Meetings
@@ -68,6 +68,28 @@ The cohesion claim is specific. The practice is not generic teambuilding. It is 
 5. The leader models the felt version, not the performed version.
 6. If someone is half-assing it, the leader names it. See [[dont-half-ass-the-experiment]].
 
+## The Three Sub-Instructions That Make the Round Land
+
+Within the gratitude round, three additional rules govern how each individual gratitude is spoken. These rules apply equally to the two-person form (see [[two-person-gratitude-practice]]) and the team-round form.
+
+**Keep each gratitude short. Less than a sentence.** Long sentences accumulate hedges and pull the practitioner into the head. The body-event of gratitude needs short language to coexist with it.
+
+"It's really important to make the gratitude very short, always less than a sentence, definitely not a run-on sentence or a compound sentence. I mean, you might mess up once or twice, it doesn't matter, but generally, you're being as concise as possible." -- Joe Hudson, Gratitude
+
+The mechanism: if you make the gratitude long, you have to think it. If you have to think it, you are not feeling it. The short form prevents this slippage. The leader of the round can name this rule explicitly: "Keep each one short. Less than a sentence."
+
+**Feel the gratitude before you say it.** The body-event of gratitude arrives first. The verbal naming follows. If the order reverses -- words first, hoping the feeling shows up after -- the practice has reverted to recitation.
+
+"The other thing is to feel the gratitude before you say it... if you need to say something to yourself for a while to get yourself into the gratitude or think of something to get yourself into the gratitude, that's fine. But have the visceral sensation of it and then speak the thing you're grateful for." -- Joe Hudson, Gratitude
+
+Internal silent preparation is permitted. The participant can think for a few seconds to find the felt-state before speaking. The thinking just has to happen before, not instead of, the felt-state arriving.
+
+**Savor each gratitude after it is spoken.** Do not immediately move to the next person. Stay in the body sensation for a few breaths. The savoring is what allows the gratitude to register as a sustained body event rather than a passing mental note.
+
+The savoring also applies to listening. When another person speaks their gratitude, the listener savors too. The whole round is a shared savoring exercise punctuated by verbal naming, not a sequence of verbal disclosures.
+
+If these three sub-instructions are not held, the round produces verbal performance rather than felt practice. The benefits are conditional on the sub-instructions.
+
 ## Joe Names the Resistance
 
 The expected resistance is anticipated: "I would say the real core as to why people resist gratitude, besides it's strange and awkward at the beginning, is the fact that they're scared that they won't be prepared for the inevitable doom that is always around the corner. If they are happy, if they are content, if they're looking for something good to happen." -- Joe Hudson, How Does Gratitude Create Better Teams?
@@ -105,7 +127,20 @@ The same practice works in families. "This works with your husband and wife and 
 - Toward [[functional-team]] for the team-design context
 - Toward [[invigorated-vs-depleted-as-functionality-measure]] for the meeting-quality measure this practice tends to improve
 
+## The Gratitude-Around-the-Problem-in-a-Meeting Variant
+
+A specific use Joe describes for the round: when a meeting is about an intractable problem or when two team members are in conflict, do a gratitude round oriented at the difficulty itself.
+
+"If you have a problem that's intractable or like two people are fighting or something like that, to share a gratitude about what's the gratitude for the opportunity in this situation. So, you can start solving problems. If you have a problem that you're all solving together that feels hard or something like that, you can say, 'Hey, let's just do a gratitude for the problem.' And then, everybody can show gratitude for what is the potential of learning or what they get to do because of this problem. And then, solve the problem. And that changes -- that usually helps solve the problem a lot quicker." -- Joe Hudson, Gratitude
+
+The structure: name the difficulty out loud. Run a round in which each person finds gratitude inside that specific difficulty. Then proceed to the problem-solving.
+
+The effect: the problem-solving that follows starts from a different state than it would have started from. The team is no longer braced against the problem; they are oriented toward what the problem makes possible. The same data is now visible inside a different frame, and the frame is what determines what solutions are available.
+
+This is the team-meeting application of [[gratitude-around-the-problem]]. The pre-meeting round is a special case: instead of running open gratitude, you run targeted gratitude oriented at the specific stuck thing.
+
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
 - 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)
+- 2024-05-10_Gratitude (the three sub-instructions that make each gratitude land -- short/less than a sentence, feel before saying, savor after; the explicit mechanism for why long sentences fail; the gratitude-around-the-problem-in-a-meeting variant for conflicts and intractable issues)
