@@ -201,7 +201,7 @@ Step 1 is the test that earns its keep — the rest is hygiene. Run it first; le
 5. **Bloat check.** Are there articles over 120 lines? Read each one whole and ask: is this one coherent piece or two stitched-together piles? The line count is a *prompt to look*, not a verdict. Central concepts (impartiality, vulnerability, view) will organically accrete cross-references and may legitimately be long — splitting them fractures the canonical reference. Only split if the article is actually two things.
 
 6. **Three-layer check.** Evaluate layer coverage:
-   - **Empty-layer check (do this first):** count entries in each of `concerns/`, `reads/`, `moves/`, `questions/`, `arcs/`, `anti-patterns/`. If any layer has fewer than 3 entries, that is itself the finding — the audit's job is to surface the absence, not just evaluate quality of links between layers that exist.
+   - **Empty-layer check (do this first):** count entries in each of `concerns/`, `reads/`, `moves/`, `questions/`, `arcs/`, `anti-patterns/`. If any layer has fewer than 3 entries, that is itself the finding — the audit's job is to surface the absence, not just evaluate quality of links between layers that exist. **Exception: arcs are intentionally deferred** to a dedicated post-absorption extraction pass (see anti-cramming rule 9). Note the arcs count in the summary for tracking purposes but do not escalate the gap as a blocking finding during ongoing absorption.
    - Do concerns link to reads? A concern without reads is a dead end.
    - Do reads link to moves and questions? A read without a response is diagnostic without being useful.
    - Do questions have context for when to use them? A question without situational context is a generic coaching question, not Joe's question.
@@ -875,7 +875,7 @@ The `articles_updated` field tracks articles that were ACTUALLY edited during th
 
 8. **Organize by theme, never chronologically.** Articles are organized by concept, not by episode. A reader should never be able to tell what order the transcripts were absorbed in.
 
-9. **Arcs require repetition.** Do not create an arc article from a single coaching session. Capture the individual moves, questions, and reads first. Write the arc when you see the pattern repeat across multiple sessions.
+9. **Arcs require repetition. Arc creation is deferred to a dedicated post-absorption pass.** Do not create arc articles during normal `/compendium next` absorption — even if you spot the pattern. Capture individual moves, questions, and reads only; let the cross-session shapes accumulate. Arcs will be extracted in a single dedicated pass after the full transcript backlog is absorbed (running a survey across all coaching-session entries in `_absorb_log.json` to find shapes that repeat in 3+ sessions). The reason for this deferral: arc quality depends on seeing the full population of coaching sessions, and the first arcs seed the convention all subsequent arcs follow, so it's worth getting them right with the complete dataset visible.
 
 10. **Anti-patterns require Joe's words.** Do not infer anti-patterns. Only create anti-pattern articles when Joe explicitly warns against something. Include his direct quote.
 
