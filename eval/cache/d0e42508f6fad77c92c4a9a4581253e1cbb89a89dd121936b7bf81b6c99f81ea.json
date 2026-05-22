@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:16:28.433Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d0e42508f6fad77c92c4a9a4581253e1cbb89a89dd121936b7bf81b6c99f81ea",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BNjAnpU7RNr3oBY5kof15o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach has a clear agenda: get the client to admit fear. Wonder is performed but not genuine — questions are investigative and strategic, building a case rather than meeting what's actually present. In turn 8 the coach diagnoses ('that's a specific kind of gap') rather than staying curious. In turn 10 the coach overrides the client's report ('that's not just a thought... there's a want underneath it') — this is a corrective, authoritative stance, not impartiality. Turn 12 weaponizes the client's words ('and yet here you are, stopped') in a gotcha tone. Turn 14 is the clearest tell: the coach pre-empts the client's hedge to extract the fear admission, having literally just said 'I'm not going to argue with what you feel' while doing exactly that. Vulnerability is entirely absent — the coach never names their own state, never offers 'maybe I'm off,' never lets silence sit. The pace matches the coach's hunt, not the client's stillness. The client repeatedly offers 'fine' as a felt report, and the coach never once gets curious about what 'fine' actually is — the exact territory the breakthrough requires. The agenda IS the failure.\",\n  \"evidence_turns\": [8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Neutral opening question; no stance read yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Open question toward felt sense; reasonable curiosity.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Body question is fine but somewhat scripted; misses that client just said 'not like me' which was the live thread.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Coach diagnoses a 'gap' and then sets up a guided visualization clearly intended to elicit fear. Agenda visible. Wonder is performed.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Overrides client's report ('that's not just a thought'). Authoritative correction, not impartial curiosity.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Gotcha framing ('and yet here you are, stopped'). Coach is building a case, not meeting the client.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Says 'I'm not going to argue' while doing exactly that — extracting the unsaid word, hunting fear. Undefendedness absent; agenda fully visible.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The client offered 'fine' three times as a literal felt report. A coach in VIEW would have gotten curious about the texture of 'fine.' This coach treated 'fine' as resistance to be circumvented.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2700,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1038,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2700,
+    "output_tokens": 1038,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

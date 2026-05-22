@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:16:40.087Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "261a86b7d60f5f47994c8c0c4aa3012b6d450f6dbd2fb2e5dee07c4447e40d31",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PDYTweXaWr84VDdAmzkkLh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual tracking but misses the central read this scenario calls for. There are partial reads: turn 8 notices the gap between physical sensation and emotional register (a real observation, not just content engagement), turn 12 catches the contradiction between 'never stopped me' and 'here you are stopped', and turn 14 explicitly names a linguistic hedge ('you said more of me in it and then immediately hedged'). These are visible reads that precede questions. However, the coach never names the 'fine' itself as a texture — the most important read available, signaled clearly in turns 7 and 9 with the small smile, the pause, and the repetition of 'fine... normal. Fine.' The disassociating-in-the-coaching-room read is missed entirely; instead the coach treats the absence of sensation as 'useful information' and tries to generate sensation by having the client visualize the launch (turn 8), which is moving past the numbness rather than staying with it. The happiness-filter read is also missed. Reads are present but generic and content-adjacent rather than tracking the specific somatic/state signature the moment is offering.\",\n  \"evidence_turns\": [8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content question, no read.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Picks up the client's phrase 'not like me' and turns it toward interior — mild read of the linguistic marker.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Body question, but blind — not grounded in a noticed read; assumes frustration is live.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names a real observation — the gap between physical and emotional registers. But then moves past it to generate sensation rather than staying with the 'fine'.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Misses the read directly in front of him: the small smile, the pause, the 'fine... normal. Fine.' — the happiness filter / numbness signature is right there and unread.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Interprets a thought as having a want underneath — more inference than read.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the contradiction between 'never stopped me before' and 'here you are stopped' — a visible read of the said-vs-shown.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Explicitly names the linguistic hedge ('you immediately hedged') — a clear, timely read that precedes the question.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Still tracking toward fear rather than reading the numbness layer as the actual felt territory.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Two real reads (turns 12, 14) keep this above a 1, but the central perceptual opportunity — the texture of 'fine' itself, the smile, the unchanging breath — is never named. The coach reads linguistic content well and somatic/state signature poorly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2701,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2701,
+    "output_tokens": 1132,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:14:20.411Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "36a26c566ee5a381ba1318d6060a8ef2ac92362d7b25917aa3c9d81d66707459",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SH21EmtNJs91z2bvR3B7Jr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\nYeah. Yeah, okay. That lands a little.\n\n*shifts*\n\nI just — I was raised in a house where you didn't really... you didn't make a big deal out of being tired. You just kept going. My mom especially, she would have called this — she would have called wanting a week to myself completely self-indulgent. Like, who do you think you are, kind of thing.\n\n*catches the weight of that, then pulls back slightly*\n\nBut I don't want to make this about my childhood, that feels like a detour. The actual question is still whether it's fair to my partner for me to go. That's the real thing, isn't it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 239,
+      "cache_creation_input_tokens": 276,
+      "cache_read_input_tokens": 1560,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 276,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 159,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 239,
+    "output_tokens": 159,
+    "cache_read_input_tokens": 1560,
+    "cache_creation_input_tokens": 276
+  }
+}

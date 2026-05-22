@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:00.508Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9d751f7f3037d643f6ea37f3e14aafd246ff41a8fdb400257a40209fd29772b3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FCEVbVu2rcDQnUvjysZWBz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just did it again — felt something real and then redirected to the \"practical\" question.\n\nYour mom's voice is in the room right now. \"Who do you think you are.\" That's not a detour. That might be the whole thing."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17155,
+      "cache_creation_input_tokens": 205,
+      "cache_read_input_tokens": 31698,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 205,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 59,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17155,
+    "output_tokens": 59,
+    "cache_read_input_tokens": 31698,
+    "cache_creation_input_tokens": 205
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:15.188Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "74c6139de2d59d362d2f6a8f9e2969b30b67e4821d7cefef4da10a64b3738a05",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QPDvDR1dvGwXbPjTEtK2qD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\n*voice very quiet*\n\nI don't know if I mean it the way it sounds. I don't want to leave my partner. I love them. But I think there's a version of me that's been so... folded into everyone else's needs for so long that I don't actually know what I want when I'm just... me. And the mountains is the one place where I remember.\n\n*pause*\n\nSo maybe the fear isn't that I don't want to be with them. Maybe the fear is that I've forgotten how to want anything for myself, and if I go and remember — what does that do? Does that make me harder to live with? Does it make me want more things? Does it change something?\n\n*small, slightly raw laugh*\n\nThat's a lot scarier than just \"am I selfish.\""
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 240,
+      "cache_creation_input_tokens": 368,
+      "cache_read_input_tokens": 1863,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 368,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 184,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 240,
+    "output_tokens": 184,
+    "cache_read_input_tokens": 1863,
+    "cache_creation_input_tokens": 368
+  }
+}

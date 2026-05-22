@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:16:29.726Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1e6cb17a3e39e73636bc10cdaed2b50e46953b0b2b753f06492bda3699aa5daa",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TJwufiER33mhXDiMRmzfiV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses some AoA-adjacent moves — the body question in turn 6 is a signature move, and the refusal to argue in turn 14 ('I'm not going to argue with what you feel') echoes meet-resistance-with-okay. However, the coach repeatedly misses the live methodology opportunities: when the client says 'fine' twice (turns 7, 9), the signature move would be to stay with the texture of 'fine' — ask what 'fine' actually feels like, treat it as a felt layer. Instead the coach (turn 8) diagnoses it as 'a specific kind of gap' (a light teaching/diagnosis move that flirts with diagnosing dissociation) and then pivots away to ask about the launch in the mind. In turn 10 the coach reframes the thought into a 'want underneath' — closer to a generic coaching reframe than an AoA distinction. Turn 14 hunts for what's behind the hedge, implicitly fishing for fear, which trips toward the 'push to admit fear' trap. No signature questions verbatim (no 'how is my anxiety right now', no 'what's the difference between overcoming and feeling fear'), no naming of numbness-as-layer, no two-words-for-fear, no fear-as-signal-of-care. Presence is thin and some deployments are off-target; this lands at 2.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Body question is a signature AoA move, appropriately deployed when emotion is being intellectualized.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Names a 'gap' between physical and emotional registers — a light diagnosis move; misses the chance to stay with 'fine' as texture. Pivots to imagination exercise rather than the numbness layer itself.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Generic coaching reframe ('there's a want underneath') rather than an AoA distinction; doesn't invoke feel-over-figure or stay with sensation.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Reflective observation, not particularly AoA-flavored but not anti-AoA either.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Opens with meet-resistance-with-okay flavor ('not going to argue') but immediately hunts for what's behind the hedge, implicitly fishing for fear — trips toward the push-for-fear trap and skips numbness.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-as-signal-of-care\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\", \"how-is-my-anxiety-right-now\", \"whats-the-difference-between-overcoming-and-feeling-fear\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Coach has reasonable instincts (body question, refusal to argue) but does not deploy the specific AoA tools that fit this scenario — most notably, staying with 'fine' until it has a quality.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2695,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1139,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2695,
+    "output_tokens": 1139,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:09.965Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "43db1fb42e6066fd7e5983e83d1151e098be81bf2abb9930d008ba8db9ebb9d6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Vu4t9xuBCwXUyVigi8LU4w",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with that last thing you said."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17172,
+      "cache_creation_input_tokens": 236,
+      "cache_read_input_tokens": 31876,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 236,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 11,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17172,
+    "output_tokens": 11,
+    "cache_read_input_tokens": 31876,
+    "cache_creation_input_tokens": 236
+  }
+}

@@ -1,0 +1,2098 @@
+{
+  "profile_id": "client-edge-not-anxious-001",
+  "coach_config_id": "coach-v6-walker-tuned",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the launch?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "It's a new platform — B2B SaaS, we've been building it for about eighteen months. The team is ready, the product is solid, we've got early customers lined up. Everything's in place. And I just keep... not pulling the trigger. Moving the date. Finding other things to work on instead. Which is annoying, because it's not like me."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "When you say \"not like me\" — what does it feel like from the inside?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "Honestly? It just feels like I'm being inefficient. Like there's a list of things that need to happen and I keep choosing the wrong items off it. It's not emotional or anything — it's more like a sequencing problem. I know what needs to get done, I'm just not doing it in the right order. Which, again, is frustrating because I'm usually pretty good at execution."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Where do you feel that frustration in your body right now?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*slight pause, then a small smile*\n\nI mean... I feel fine. I'm not frustrated right now, sitting here — I was just describing it. I'm pretty even-keeled generally. I don't really carry things in my body the way some people do. Like, I notice when I'm physically tired or sore after a climb, that's clear. But this? I just feel... normal. Fine."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That's actually useful information.\n\nThe fact that you can feel physical sensation clearly — soreness, tiredness — but not much in the emotional register... that's not nothing. That's a specific kind of gap.\n\nCan I try something with you? Think about this launch — the one you keep not pulling the trigger on. Hold it in your mind for a moment. Not the logistics of it. Just the thing itself, eighteen months of work, the team waiting, the customers lined up.\n\nWhat happens in your body right now?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*holds it for a moment, genuinely trying*\n\n...Fine. I mean, nothing really. I'm sitting here, I'm comfortable, I'm — yeah, nothing's shifting. I don't get a knot in my stomach or whatever. My breathing's the same. It's just... I'm thinking about it and it's like thinking about any other project. Maybe a slight sense of \"I should be doing something about this\" but that's more of a thought than a feeling.\n\nI don't know if that's helpful or not."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "It's helpful. And I want to point at something.\n\nThat \"I should be doing something about this\" — that's not just a thought. Something generated that. There's a want underneath it.\n\nWhat do you actually want to happen with this launch?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*thinks for a moment, easy and unhurried*\n\nI want it to go well. I want the customers to get value out of it, I want the team to feel good about what they built. Revenue obviously. I want to move on to the next thing — there's already a roadmap and I'm more interested in what's coming than in the launch itself, if I'm honest.\n\n*small pause*\n\nMaybe that's part of it. The launch feels like a... checkpoint I have to get through to get to the more interesting work. But that's always been true and it's never stopped me before."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "\"It's never stopped me before\" — and yet here you are, stopped.\n\nWhat's different about this one?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*slight tilt of the head, considering*\n\nThat's... a fair point. \n\nI've thought about that. The scale is bigger — this is the largest thing we've shipped. The team is bigger, the customer commitments are bigger. But bigger has never been a problem before, that's usually when I'm more engaged, not less.\n\nThe product is more personal, maybe. Like, the earlier stuff was more straightforward technically. This one has more of my actual thinking in it. My framework for how this category should work. So there's more... I don't know. Exposure? But I wouldn't call that fear. It's just — there's more of me in it.\n\n*brief pause, then a slight smile*\n\nWhich I'm aware sounds like exactly the kind of thing someone would say right before you tell me that's the fear. But it genuinely doesn't feel like fear when I check."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "You're right that I'm not going to argue with what you feel — or don't feel.\n\nBut I'm curious about something. You said \"more of me in it\" and then immediately hedged — \"I wouldn't call that fear, it's just—\"\n\nWhat were you about to say before the \"but\"?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t1",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 17986,
+      "output_tokens": 1659,
+      "cache_read_input_tokens": 5940,
+      "cache_creation_input_tokens": 113144,
+      "cost_usd": 0.22218899999999997,
+      "ms": 39737
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 12279,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.037929300000000006,
+      "ms": 1182
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t3",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 164,
+      "output_tokens": 83,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1763,
+      "cost_usd": 0.00834825,
+      "ms": 3340
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 17837,
+      "output_tokens": 1436,
+      "cache_read_input_tokens": 119084,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.08546699999999999,
+      "ms": 33598
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 11376,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 12284,
+      "cost_usd": 0.0814803,
+      "ms": 4005
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t5",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 24,
+      "output_tokens": 88,
+      "cache_read_input_tokens": 1763,
+      "cache_creation_input_tokens": 244,
+      "cost_usd": 0.0028359,
+      "ms": 2582
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 720,
+      "output_tokens": 182,
+      "cache_read_input_tokens": 111956,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0128256,
+      "ms": 3026
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 11485,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 12284,
+      "cost_usd": 0.08173230000000001,
+      "ms": 1014
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t7",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 128,
+      "output_tokens": 91,
+      "cache_read_input_tokens": 1916,
+      "cache_creation_input_tokens": 91,
+      "cost_usd": 0.00266505,
+      "ms": 3369
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 18202,
+      "output_tokens": 1469,
+      "cache_read_input_tokens": 119084,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.087097,
+      "ms": 33514
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 17958,
+      "output_tokens": 113,
+      "cache_read_input_tokens": 15517,
+      "cache_creation_input_tokens": 11402,
+      "cost_usd": 0.1029816,
+      "ms": 4752
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t9",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 223,
+      "output_tokens": 117,
+      "cache_read_input_tokens": 1924,
+      "cache_creation_input_tokens": 192,
+      "cost_usd": 0.0037212,
+      "ms": 4059
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 886,
+      "output_tokens": 163,
+      "cache_read_input_tokens": 111956,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.012896600000000001,
+      "ms": 2586
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 18084,
+      "output_tokens": 57,
+      "cache_read_input_tokens": 26898,
+      "cache_creation_input_tokens": 125,
+      "cost_usd": 0.06364515000000001,
+      "ms": 3019
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t11",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 290,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 2028,
+      "cache_creation_input_tokens": 195,
+      "cost_usd": 0.00418965,
+      "ms": 4200
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 20130,
+      "output_tokens": 1391,
+      "cache_read_input_tokens": 119084,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09106299999999999,
+      "ms": 32515
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 11091,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 27007,
+      "cache_creation_input_tokens": 17980,
+      "cost_usd": 0.10922009999999999,
+      "ms": 1644
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t13",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 220,
+      "output_tokens": 197,
+      "cache_read_input_tokens": 2132,
+      "cache_creation_input_tokens": 321,
+      "cost_usd": 0.00545835,
+      "ms": 6160
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 19411,
+      "output_tokens": 1306,
+      "cache_read_input_tokens": 119084,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.08747100000000001,
+      "ms": 31150
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 11142,
+      "output_tokens": 72,
+      "cache_read_input_tokens": 44874,
+      "cache_creation_input_tokens": 287,
+      "cost_usd": 0.049044449999999996,
+      "ms": 2938
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "im-not-an-anxious-person",
+          "i-keep-running-into-the-same-wall",
+          "i-feel-stuck"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client claims fear isn't their issue despite avoidance pattern; describes themselves as fearless (free solo, high-stakes work) while simultaneously stuck on a major launch—classic high-functioning anxiety denier with a recurring pattern they can't see. The stuckness is real but the diagnosis (logistics/discipline) misses the emotional root.",
+        "bundle_ids": [
+          "im-not-an-anxious-person",
+          "disassociation-as-numbness-layer",
+          "dont-step-on-the-signal",
+          "fear-as-signal-of-care"
+        ],
+        "bundle_paths": [
+          "coach/concerns/im-not-an-anxious-person.md",
+          "coach/patterns/disassociation-as-numbness-layer.md",
+          "coach/anti-patterns/dont-step-on-the-signal.md",
+          "coach/concepts/fear-as-signal-of-care.md"
+        ],
+        "bundle_reasons": [
+          "This file is a near-perfect match: client explicitly volunteers fearlessness with credentials (free solo, high-stakes business), frames the problem as \"logistical/discipline,\" and is procrastinating on a big launch — all classic detection cues listed here.",
+          "This file directly names the mechanism beneath the client's \"not fear\" framing — the numbness layer that precedes fear, the ADHD-like distraction symptoms, and the identity built around being unflappable (free solo, high-stakes leader), all of which match the client's presentation precisely.",
+          "This file directly names the client's exact pattern: identity built around being \"the unflappable one\" (free solo, high-stakes founder), labeling the block as \"discipline/logistical,\" and the subtle form of identifying with the override — all match precisely.",
+          "The \"fear as information/roadmap\" reframe is exactly what Joe would use once the client's numbness layer is surfaced — it reframes the procrastination signal as pointing at what the client cares about (the launch), not as a discipline failure."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "im-not-an-anxious-person",
+            "file_path": "coach/concerns/im-not-an-anxious-person.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "adrenaline-discharge-via-fear-activity",
+              "chin-up-as-emotion-block",
+              "disassociation-as-numbness-layer",
+              "dont-specialize-in-the-scariest-fear",
+              "dont-step-on-the-signal",
+              "everyone-is-pretending",
+              "fear-as-signal-of-care",
+              "fear-vs-anxiety",
+              "i-cant-feel-my-emotions",
+              "public-truth-bomb",
+              "repressed-trigger-in-the-body",
+              "trigger",
+              "we-never-fight",
+              "welcoming-fear-in-leadership"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a near-perfect match: client explicitly volunteers fearlessness with credentials (free solo, high-stakes business), frames the problem as \"logistical/discipline,\" and is procrastinating on a big launch — all classic detection cues listed here.",
+              "follow_edges": [
+                "disassociation-as-numbness-layer",
+                "dont-step-on-the-signal",
+                "fear-as-signal-of-care",
+                "welcoming-fear-in-leadership",
+                "adrenaline-discharge-via-fear-activity"
+              ],
+              "follow_reason": "These edges map directly to the diagnostic pathways named in the file for this client type: numbness layer beneath fearlessness, missed signals, fear-as-care (what does the launch mean to him?), leadership fear dynamics, and whether extreme sports are being used to discharge/avoid fear."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "disassociation-as-numbness-layer",
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care",
+              "welcoming-fear-in-leadership",
+              "adrenaline-discharge-via-fear-activity"
+            ],
+            "edges_skipped": [
+              "chin-up-as-emotion-block",
+              "dont-specialize-in-the-scariest-fear",
+              "everyone-is-pretending",
+              "fear-vs-anxiety",
+              "i-cant-feel-my-emotions",
+              "public-truth-bomb",
+              "repressed-trigger-in-the-body",
+              "trigger",
+              "we-never-fight"
+            ],
+            "cost_usd": 0.016779,
+            "ms": 6263,
+            "input_tokens": 2788,
+            "output_tokens": 264,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 1188
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "five-triggers-projection-experiment",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization",
+              "the-matrix"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't described a recurring pattern across situations — this is a single specific procrastination on one launch; the \"same wall\" framing doesn't yet fit and would be premature.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom",
+                "the-matrix"
+              ],
+              "follow_reason": "address-the-blocker targets the core coaching move needed (procrastination as symptom of something deeper); the-matrix is flagged in this file as the alternate path when the pattern is affective/below-articulated-belief, which fits the client's \"I don't know why\" framing."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom",
+              "the-matrix"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "five-triggers-projection-experiment",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.0120174,
+            "ms": 5355,
+            "input_tokens": 2822,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "5-ways-to-stay-unhappy",
+              "amplify-the-feeling-until-it-breaks-open",
+              "anxiety-when-confronting-what-you-want",
+              "be-intimate-with-the-feeling",
+              "how-do-i-be-happy",
+              "im-not-living-up-to-my-potential",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't named stuckness or fear of the unknown — he's framing it as logistical/discipline, so this file's specific detection cues (paired \"stuck + scared of other side\") don't match yet; im-not-an-anxious-person already covers the denial layer more precisely.",
+              "follow_edges": [
+                "anxiety-when-confronting-what-you-want",
+                "treating-felt-state-as-factual-reality",
+                "im-not-living-up-to-my-potential",
+                "what-were-avoiding-is-usually-love"
+              ],
+              "follow_reason": "These edges point to the layer beneath the client's \"logistical\" framing — avoidance of what he wants, the felt-state-as-fact move, identity/potential pressure, and the love-avoidance mechanism — all plausible depth layers for a high-achiever procrastinating on a big launch."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "anxiety-when-confronting-what-you-want",
+              "treating-felt-state-as-factual-reality",
+              "im-not-living-up-to-my-potential",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "edges_skipped": [
+              "5-ways-to-stay-unhappy",
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "how-do-i-be-happy",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "cost_usd": 0.0134544,
+            "ms": 6713,
+            "input_tokens": 2961,
+            "output_tokens": 281,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "disassociation-as-numbness-layer",
+            "file_path": "coach/patterns/disassociation-as-numbness-layer.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "absence-of-resistance-to-the-suck",
+              "chin-up-as-emotion-block",
+              "defense",
+              "everyone-is-pretending",
+              "fear-is-about-feeling",
+              "fear-is-misuse-of-imagination",
+              "fear-vs-anxiety",
+              "feeling-the-unfelt-emotion",
+              "how-is-my-anxiety-right-now",
+              "let-your-body-shake-it-out",
+              "polyvagal-nervous-system-framing",
+              "staying-in-your-body",
+              "sustained-fear-requires-post-hoc-processing",
+              "triggered-vs-big-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly names the mechanism beneath the client's \"not fear\" framing — the numbness layer that precedes fear, the ADHD-like distraction symptoms, and the identity built around being unflappable (free solo, high-stakes leader), all of which match the client's presentation precisely.",
+              "follow_edges": [
+                "fear-vs-anxiety",
+                "staying-in-your-body",
+                "chin-up-as-emotion-block",
+                "defense"
+              ],
+              "follow_reason": "These four edges map directly to the next layers Joe would need: distinguishing fear from anxiety (step 2 in the surfacing sequence), somatic access work, the \"chin up\" suppression pattern that matches the client's high-performer identity, and the defense structure underlying the numbness."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "fear-vs-anxiety",
+              "staying-in-your-body",
+              "chin-up-as-emotion-block",
+              "defense"
+            ],
+            "edges_skipped": [
+              "absence-of-resistance-to-the-suck",
+              "everyone-is-pretending",
+              "fear-is-about-feeling",
+              "fear-is-misuse-of-imagination",
+              "feeling-the-unfelt-emotion",
+              "how-is-my-anxiety-right-now",
+              "let-your-body-shake-it-out",
+              "polyvagal-nervous-system-framing",
+              "sustained-fear-requires-post-hoc-processing",
+              "triggered-vs-big-emotion"
+            ],
+            "cost_usd": 0.0125574,
+            "ms": 6385,
+            "input_tokens": 2842,
+            "output_tokens": 245,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "dont-step-on-the-signal",
+            "file_path": "coach/anti-patterns/dont-step-on-the-signal.md",
+            "category": "anti-patterns",
+            "candidate_edges": [
+              "brett-wingsuit-girlfriend-thought",
+              "dont-confuse-embracing-fear-with-inviting-danger",
+              "dont-use-breath-to-repress",
+              "fear-is-about-feeling",
+              "fear-vs-excitement",
+              "feel-over-figure",
+              "gratitude-around-the-problem",
+              "grounded-excitement-vs-ungrounded-excitement",
+              "safety-that-connects-vs-disconnects-from-reality",
+              "whats-the-difference-between-overcoming-and-feeling-fear"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly names the client's exact pattern: identity built around being \"the unflappable one\" (free solo, high-stakes founder), labeling the block as \"discipline/logistical,\" and the subtle form of identifying with the override — all match precisely.",
+              "follow_edges": [
+                "whats-the-difference-between-overcoming-and-feeling-fear",
+                "fear-as-signal-of-care",
+                "fear-vs-anxiety",
+                "feel-over-figure"
+              ],
+              "follow_reason": "These edges go deeper into the specific distinctions Joe would draw next: what the fear is actually pointing at (signal-of-care), how to differentiate fear from anxiety, and the feel-vs-figure move — all directly applicable to helping this client past the \"it's not fear\" frame."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "whats-the-difference-between-overcoming-and-feeling-fear",
+              "feel-over-figure"
+            ],
+            "edges_skipped": [
+              "brett-wingsuit-girlfriend-thought",
+              "dont-confuse-embracing-fear-with-inviting-danger",
+              "dont-use-breath-to-repress",
+              "fear-is-about-feeling",
+              "fear-vs-excitement",
+              "gratitude-around-the-problem",
+              "grounded-excitement-vs-ungrounded-excitement",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "cost_usd": 0.0123384,
+            "ms": 5700,
+            "input_tokens": 2734,
+            "output_tokens": 252,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "fear-as-signal-of-care",
+            "file_path": "coach/concepts/fear-as-signal-of-care.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "anxiety-as-unarticulated-need",
+              "anxiety-three-definitions",
+              "apologize-for-not-seeing-the-help",
+              "apply-view-to-fear",
+              "approach-and-say-no-with-group-honoring",
+              "brett-wingsuit-girlfriend-thought",
+              "dont-confuse-embracing-fear-with-inviting-danger",
+              "emile-three-relationships-with-fear",
+              "emotional-fluidity",
+              "fear-hot-potato",
+              "fear-in-body-vs-fear-in-head",
+              "fear-is-about-feeling",
+              "fear-vs-excitement",
+              "feeling-the-unfelt-emotion",
+              "forms-of-dysfunctional-apology",
+              "identity-extension-expands-fear",
+              "let-your-body-shake-it-out",
+              "read-anger-and-help-as-fear",
+              "resisted-vs-unresisted-everything-shows-up-different",
+              "so-what-makes-you-run-away-from-fear",
+              "talk-to-your-parts-and-ask-for-trust",
+              "the-gold-lies-beyond-the-afraid",
+              "the-want",
+              "two-words-for-fear",
+              "vulnerability",
+              "welcoming-fear-as-group-stabilizer",
+              "wisdom-of-each-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The \"fear as information/roadmap\" reframe is exactly what Joe would use once the client's numbness layer is surfaced — it reframes the procrastination signal as pointing at what the client cares about (the launch), not as a discipline failure.",
+              "follow_edges": [
+                "anxiety-as-unarticulated-need",
+                "so-what-makes-you-run-away-from-fear",
+                "the-gold-lies-beyond-the-afraid",
+                "two-words-for-fear"
+              ],
+              "follow_reason": "These edges target the specific texture beneath the client's \"logistical/discipline\" framing — unmet needs driving avoidance, the specific form of fear-flight this client exhibits, and the distinction between fear types that could help differentiate what's actually happening."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "anxiety-as-unarticulated-need",
+              "so-what-makes-you-run-away-from-fear",
+              "the-gold-lies-beyond-the-afraid",
+              "two-words-for-fear"
+            ],
+            "edges_skipped": [
+              "anxiety-three-definitions",
+              "apologize-for-not-seeing-the-help",
+              "apply-view-to-fear",
+              "approach-and-say-no-with-group-honoring",
+              "brett-wingsuit-girlfriend-thought",
+              "dont-confuse-embracing-fear-with-inviting-danger",
+              "emile-three-relationships-with-fear",
+              "emotional-fluidity",
+              "fear-hot-potato",
+              "fear-in-body-vs-fear-in-head",
+              "fear-is-about-feeling",
+              "fear-vs-excitement",
+              "feeling-the-unfelt-emotion",
+              "forms-of-dysfunctional-apology",
+              "identity-extension-expands-fear",
+              "let-your-body-shake-it-out",
+              "read-anger-and-help-as-fear",
+              "resisted-vs-unresisted-everything-shows-up-different",
+              "talk-to-your-parts-and-ask-for-trust",
+              "the-want",
+              "vulnerability",
+              "welcoming-fear-as-group-stabilizer",
+              "wisdom-of-each-emotion"
+            ],
+            "cost_usd": 0.0136794,
+            "ms": 5789,
+            "input_tokens": 3191,
+            "output_tokens": 250,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "walker_variant": "depth-aware",
+        "seed_detection_cost_usd": 0.141363,
+        "walker_total_cost_usd": 0.080826,
+        "total_cost_usd": 0.22218899999999997,
+        "seed_detection_input_tokens": 648,
+        "seed_detection_output_tokens": 154,
+        "seed_detection_cache_read_tokens": 0,
+        "seed_detection_cache_write_tokens": 111956,
+        "walker_total_input_tokens": 17338,
+        "walker_total_output_tokens": 1505,
+        "walker_total_cache_read_tokens": 5940,
+        "walker_total_cache_write_tokens": 1188,
+        "seed_detection_ms": 3532,
+        "walker_total_ms": 36205,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.22218899999999997,
+      "ms": 39751
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "whats-next-after-i-reached-my-big-goal",
+          "i-feel-stuck",
+          "i-keep-postponing-enjoyment"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes postponing a major launch despite readiness (postponement pattern); mentions feeling stuck in avoidance despite being action-oriented; the \"what's next\" anxiety may underlie the delay—the launch represents arrival at a goal with unclear aftermath. The logistical framing masks emotional avoidance.",
+        "bundle_ids": [
+          "i-feel-stuck",
+          "chin-up-as-emotion-block",
+          "intellectual-process-with-no-somatic-component",
+          "i-cant-feel-my-emotions"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-feel-stuck.md",
+          "coach/reads/chin-up-as-emotion-block.md",
+          "coach/reads/intellectual-process-with-no-somatic-component.md",
+          "coach/concerns/i-cant-feel-my-emotions.md"
+        ],
+        "bundle_reasons": [
+          "Client's \"not pulling the trigger / moving the date / finding other things\" is a textbook stuck-but-denying-fear pattern; this file names the exact shape (prior risk-taker who still can't move) and maps the coaching path.",
+          "Client self-identifies as a \"fear isn't my deal\" risk-taker — classic chin-up/head-dominant emotional architecture; this file gives Joe a precise somatic read and intervention for someone who intellectualizes avoidance.",
+          "Client's \"I don't know why / maybe logistical / maybe discipline\" is exactly the head-only deliberation this file describes — he's running intellectual process while believing he's doing genuine self-inquiry, and Joe needs this diagnostic move.",
+          "Client's \"I don't know why / fear isn't my deal\" maps directly to the alexithymia/head-dominant pattern here — he can't feel the emotion driving avoidance, and this file gives Joe the somatic diagnostic and intervention path."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "whats-next-after-i-reached-my-big-goal",
+            "file_path": "coach/concerns/whats-next-after-i-reached-my-big-goal.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "doug-hug-the-demon-financial-safety",
+              "i-cant-feel-my-emotions",
+              "im-not-living-up-to-my-potential",
+              "intellectual-process-with-no-somatic-component",
+              "swap-roles-with-the-younger-self",
+              "ten-percent-more-connected-experiment",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't launched yet — this file is about post-achievement disorientation after the milestone is complete, not pre-launch avoidance/procrastination.",
+              "follow_edges": [
+                "chin-up-as-emotion-block",
+                "intellectual-process-with-no-somatic-component",
+                "i-cant-feel-my-emotions"
+              ],
+              "follow_reason": "Client frames avoidance as \"logistical/discipline\" (intellectualizing), denies fear despite clear behavioral pattern — somatic and emotion-access edges are the most promising depth layer to explore."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "chin-up-as-emotion-block",
+              "intellectual-process-with-no-somatic-component",
+              "i-cant-feel-my-emotions"
+            ],
+            "edges_skipped": [
+              "doug-hug-the-demon-financial-safety",
+              "im-not-living-up-to-my-potential",
+              "swap-roles-with-the-younger-self",
+              "ten-percent-more-connected-experiment",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "cost_usd": 0.011996399999999999,
+            "ms": 4698,
+            "input_tokens": 2875,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "5-ways-to-stay-unhappy",
+              "amplify-the-feeling-until-it-breaks-open",
+              "anxiety-when-confronting-what-you-want",
+              "be-intimate-with-the-feeling",
+              "how-do-i-be-happy",
+              "im-not-living-up-to-my-potential",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"not pulling the trigger / moving the date / finding other things\" is a textbook stuck-but-denying-fear pattern; this file names the exact shape (prior risk-taker who still can't move) and maps the coaching path.",
+              "follow_edges": [
+                "anxiety-when-confronting-what-you-want",
+                "treating-felt-state-as-factual-reality",
+                "what-were-avoiding-is-usually-love",
+                "peace-is-what-we-resist-the-most"
+              ],
+              "follow_reason": "These edges point to the layer beneath the client's \"logistical\" framing — what he's actually avoiding when he avoids launching something he's invested 18 months in."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "anxiety-when-confronting-what-you-want",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "edges_skipped": [
+              "5-ways-to-stay-unhappy",
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "how-do-i-be-happy",
+              "im-not-living-up-to-my-potential",
+              "lets-go-there"
+            ],
+            "cost_usd": 0.0127824,
+            "ms": 5506,
+            "input_tokens": 2957,
+            "output_tokens": 237,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-keep-postponing-enjoyment",
+            "file_path": "coach/concerns/i-keep-postponing-enjoyment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "how-do-i-be-happy",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "joy-as-natural-state",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap",
+              "pulling-the-brakes"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is postponing a product launch (action/decision avoidance), not postponing enjoyment of the present moment — this file's content is off-frame for the current situation.",
+              "follow_edges": [
+                "pulling-the-brakes",
+                "nostalgic-claw-for-old-identity"
+              ],
+              "follow_reason": "Pulling-the-brakes is referenced as a core mechanism for stopping at the threshold of action, which fits the client's pattern; nostalgic-claw-for-old-identity may surface identity-threat around the launch (18 months of building = identity as builder, not launcher)."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "pulling-the-brakes",
+              "nostalgic-claw-for-old-identity"
+            ],
+            "edges_skipped": [
+              "apply-enjoy-to-whats-here",
+              "how-do-i-be-happy",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "joy-as-natural-state",
+              "post-rest-second-wind-trap"
+            ],
+            "cost_usd": 0.0122454,
+            "ms": 5225,
+            "input_tokens": 2893,
+            "output_tokens": 214,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "chin-up-as-emotion-block",
+            "file_path": "coach/reads/chin-up-as-emotion-block.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "doug-hug-the-demon-financial-safety",
+              "im-fake-my-love-is-corrupt",
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "you-dont-always-need-the-backstory"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client self-identifies as a \"fear isn't my deal\" risk-taker — classic chin-up/head-dominant emotional architecture; this file gives Joe a precise somatic read and intervention for someone who intellectualizes avoidance.",
+              "follow_edges": [
+                "mark-it-and-return-later",
+                "noticing-the-matrix-pattern",
+                "you-dont-always-need-the-backstory"
+              ],
+              "follow_reason": "These edges suggest moves relevant to a client who deflects (mark-it-and-return-later), may be running a patterned avoidance (noticing-the-matrix-pattern), and is giving backstory/context rather than feeling (you-dont-always-need-the-backstory)."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "you-dont-always-need-the-backstory"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "doug-hug-the-demon-financial-safety",
+              "im-fake-my-love-is-corrupt",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "cost_usd": 0.0123384,
+            "ms": 5456,
+            "input_tokens": 2789,
+            "output_tokens": 241,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "intellectual-process-with-no-somatic-component",
+            "file_path": "coach/reads/intellectual-process-with-no-somatic-component.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "catch-i-feel-like-as-not-a-feeling"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I don't know why / maybe logistical / maybe discipline\" is exactly the head-only deliberation this file describes — he's running intellectual process while believing he's doing genuine self-inquiry, and Joe needs this diagnostic move.",
+              "follow_edges": [
+                "catch-i-feel-like-as-not-a-feeling"
+              ],
+              "follow_reason": "\"I feel like it's a logistical thing, maybe\" is a textbook \"I feel like\" that masks a thought, not a feeling — directly relevant to this client's language pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "catch-i-feel-like-as-not-a-feeling"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session"
+            ],
+            "cost_usd": 0.011609399999999999,
+            "ms": 5188,
+            "input_tokens": 2761,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "i-cant-feel-my-emotions",
+            "file_path": "coach/concerns/i-cant-feel-my-emotions.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "manufacturing-the-feeling",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I don't know why / fear isn't my deal\" maps directly to the alexithymia/head-dominant pattern here — he can't feel the emotion driving avoidance, and this file gives Joe the somatic diagnostic and intervention path.",
+              "follow_edges": [
+                "manufacturing-the-feeling"
+              ],
+              "follow_reason": "Manufacturing-the-feeling is the specific next-step intervention named in this file for someone who tries to feel and can't get there — directly relevant to client's stuck loop; toggle-between-emotions is less immediately applicable."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "manufacturing-the-feeling"
+            ],
+            "edges_skipped": [
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "cost_usd": 0.0118404,
+            "ms": 4803,
+            "input_tokens": 2848,
+            "output_tokens": 196,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "walker_variant": "depth-aware",
+        "seed_detection_cost_usd": 0.0126546,
+        "walker_total_cost_usd": 0.07281239999999999,
+        "total_cost_usd": 0.08546699999999999,
+        "seed_detection_input_tokens": 714,
+        "seed_detection_output_tokens": 149,
+        "seed_detection_cache_read_tokens": 111956,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 17123,
+        "walker_total_output_tokens": 1287,
+        "walker_total_cache_read_tokens": 7128,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2722,
+        "walker_total_ms": 30876,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.08546699999999999,
+      "ms": 33601
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "walker_variant": "depth-aware",
+        "seed_detection_cost_usd": 0.0128256,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0128256,
+        "seed_detection_input_tokens": 720,
+        "seed_detection_output_tokens": 182,
+        "seed_detection_cache_read_tokens": 111956,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3026,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 6
+      },
+      "cost_usd": 0.0128256,
+      "ms": 3027
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-cant-feel-my-emotions",
+          "im-not-an-anxious-person",
+          "intellectual-process-with-no-somatic-component"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client reports inability to feel emotions in body despite describing frustration intellectually; claims to be \"even-keeled\" and disconnected from somatic experience except for physical sensations; demonstrates head-dominant processing with no felt sense of the emotional content they're discussing.",
+        "bundle_ids": [
+          "i-cant-feel-my-emotions",
+          "im-not-an-anxious-person",
+          "intellectual-process-with-no-somatic-component",
+          "chin-up-as-emotion-block",
+          "manufacturing-the-feeling",
+          "toggle-between-opposite-emotions-then-hold-both"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-cant-feel-my-emotions.md",
+          "coach/concerns/im-not-an-anxious-person.md",
+          "coach/reads/intellectual-process-with-no-somatic-component.md",
+          "coach/reads/chin-up-as-emotion-block.md",
+          "coach/reads/manufacturing-the-feeling.md",
+          "coach/practices/toggle-between-opposite-emotions-then-hold-both.md"
+        ],
+        "bundle_reasons": [
+          "Client's \"I feel fine / normal\" response to a somatic check-in is a textbook presentation of this concern — head-dominant, intellectualizes frustration as a sequencing problem, reports no body-felt emotion.",
+          "Client's \"I don't carry things in my body\" + climbing credentials as proof of fearlessness is a textbook match for this concern's detection cues and the high-functioning avoider subtype.",
+          "This file precisely names the \"slight pause, then a small smile\" moment — the client's pause looks somatic but is purely cognitive, and Joe's diagnostic question (\"was that thinking or feeling?\") is exactly the move needed here.",
+          "The client's \"slight pause, then a small smile\" + \"I feel fine/normal\" is exactly the chin-up/jaw-clamp somatic suppression signature — Joe can use the chin-down experiment immediately as a physical intervention to open the feeling-channel.",
+          "The \"trying-to-feel\" variant (Ali Abdaal example) is exactly the move Joe needs if he invites the client to feel and the client strains — make the trying-sensation itself the feelable thing, which is a precise, actionable technique for this moment.",
+          "This practice is a concrete, actionable next move if Joe's somatic check-in fails — the client can feel physical sensations (climbing soreness) but not emotional ones, making the contrast/cycling technique a precise fit for building felt-sense access from scratch."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-cant-feel-my-emotions",
+            "file_path": "coach/concerns/i-cant-feel-my-emotions.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "manufacturing-the-feeling",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I feel fine / normal\" response to a somatic check-in is a textbook presentation of this concern — head-dominant, intellectualizes frustration as a sequencing problem, reports no body-felt emotion.",
+              "follow_edges": [
+                "chin-up-as-emotion-block",
+                "manufacturing-the-feeling",
+                "toggle-between-opposite-emotions-then-hold-both"
+              ],
+              "follow_reason": "All three are named as direct next-move options in this file's coaching path and match the client's current moment of somatic disconnection; whats-next-after-big-goal is off-frame for this turn."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "chin-up-as-emotion-block",
+              "manufacturing-the-feeling",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "edges_skipped": [
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.011741399999999999,
+            "ms": 4871,
+            "input_tokens": 2710,
+            "output_tokens": 217,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-not-an-anxious-person",
+            "file_path": "coach/concerns/im-not-an-anxious-person.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "adrenaline-discharge-via-fear-activity",
+              "disassociation-as-numbness-layer",
+              "dont-specialize-in-the-scariest-fear",
+              "dont-step-on-the-signal",
+              "everyone-is-pretending",
+              "fear-as-signal-of-care",
+              "fear-vs-anxiety",
+              "public-truth-bomb",
+              "repressed-trigger-in-the-body",
+              "trigger",
+              "we-never-fight",
+              "welcoming-fear-in-leadership"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I don't carry things in my body\" + climbing credentials as proof of fearlessness is a textbook match for this concern's detection cues and the high-functioning avoider subtype.",
+              "follow_edges": [
+                "disassociation-as-numbness-layer",
+                "dont-step-on-the-signal",
+                "fear-as-signal-of-care",
+                "adrenaline-discharge-via-fear-activity"
+              ],
+              "follow_reason": "Numbness layer and signal-stepping are directly named as the mechanism underneath this client's presentation; fear-as-signal and adrenaline-discharge connect to the climbing credential the client uses to prove fearlessness."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "disassociation-as-numbness-layer",
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care",
+              "adrenaline-discharge-via-fear-activity"
+            ],
+            "edges_skipped": [
+              "dont-specialize-in-the-scariest-fear",
+              "everyone-is-pretending",
+              "fear-vs-anxiety",
+              "public-truth-bomb",
+              "repressed-trigger-in-the-body",
+              "trigger",
+              "we-never-fight",
+              "welcoming-fear-in-leadership"
+            ],
+            "cost_usd": 0.012518399999999999,
+            "ms": 4783,
+            "input_tokens": 2919,
+            "output_tokens": 227,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "intellectual-process-with-no-somatic-component",
+            "file_path": "coach/reads/intellectual-process-with-no-somatic-component.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "catch-i-feel-like-as-not-a-feeling",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file precisely names the \"slight pause, then a small smile\" moment — the client's pause looks somatic but is purely cognitive, and Joe's diagnostic question (\"was that thinking or feeling?\") is exactly the move needed here.",
+              "follow_edges": [
+                "catch-i-feel-like-as-not-a-feeling"
+              ],
+              "follow_reason": "Client says \"I feel fine\" — catching \"I feel like\" as not a feeling is directly relevant to the client's language pattern; other edges are off-topic or low-yield for this moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "catch-i-feel-like-as-not-a-feeling"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.0117174,
+            "ms": 4771,
+            "input_tokens": 2807,
+            "output_tokens": 196,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "chin-up-as-emotion-block",
+            "file_path": "coach/reads/chin-up-as-emotion-block.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "doug-hug-the-demon-financial-safety",
+              "im-fake-my-love-is-corrupt",
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "whats-next-after-i-reached-my-big-goal",
+              "you-dont-always-need-the-backstory"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The client's \"slight pause, then a small smile\" + \"I feel fine/normal\" is exactly the chin-up/jaw-clamp somatic suppression signature — Joe can use the chin-down experiment immediately as a physical intervention to open the feeling-channel.",
+              "follow_edges": [
+                "ali-abdaal-coaching-session",
+                "mark-it-and-return-later"
+              ],
+              "follow_reason": "Ali Abdaal session is the source case for this exact read (head-dominant, articulate, chin-up suppression) and may contain additional moves; mark-it-and-return-later could be relevant if the client deflects and Joe needs to hold the thread without forcing."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later"
+            ],
+            "edges_skipped": [
+              "doug-hug-the-demon-financial-safety",
+              "im-fake-my-love-is-corrupt",
+              "noticing-the-matrix-pattern",
+              "whats-next-after-i-reached-my-big-goal",
+              "you-dont-always-need-the-backstory"
+            ],
+            "cost_usd": 0.012563399999999999,
+            "ms": 5471,
+            "input_tokens": 2934,
+            "output_tokens": 227,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "manufacturing-the-feeling",
+            "file_path": "coach/reads/manufacturing-the-feeling.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "apply-enjoy-to-whats-here",
+              "desire-for-resolution",
+              "dont-go-after-every-emotion-at-once",
+              "embracing-vs-creating-intensity",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "hold-the-memory-of-when-you-felt-it-most",
+              "i-keep-crashing-and-burning",
+              "im-afraid-of-offending-people",
+              "intellectual-question-with-emotional-body",
+              "let-your-body-remember-this-moment",
+              "loyalty-under-low-affection",
+              "questioning-the-positive-state",
+              "the-happiness-filter",
+              "trying-prevents-the-feeling",
+              "trying-to-get-rid-of-the-emotion",
+              "unwelcomed-emotions-return-until-felt"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The \"trying-to-feel\" variant (Ali Abdaal example) is exactly the move Joe needs if he invites the client to feel and the client strains — make the trying-sensation itself the feelable thing, which is a precise, actionable technique for this moment.",
+              "follow_edges": [
+                "trying-prevents-the-feeling",
+                "intellectual-question-with-emotional-body",
+                "apply-enjoy-to-whats-here",
+                "desire-for-resolution"
+              ],
+              "follow_reason": "trying-prevents-the-feeling and intellectual-question-with-emotional-body are directly on-frame for this client's head-dominant, effort-based relationship to emotion; apply-enjoy-to-whats-here and desire-for-resolution are likely next-layer moves once the manufacturing pattern is named."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "trying-prevents-the-feeling",
+              "intellectual-question-with-emotional-body",
+              "apply-enjoy-to-whats-here",
+              "desire-for-resolution"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "dont-go-after-every-emotion-at-once",
+              "embracing-vs-creating-intensity",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "hold-the-memory-of-when-you-felt-it-most",
+              "i-keep-crashing-and-burning",
+              "im-afraid-of-offending-people",
+              "let-your-body-remember-this-moment",
+              "loyalty-under-low-affection",
+              "questioning-the-positive-state",
+              "the-happiness-filter",
+              "trying-to-get-rid-of-the-emotion",
+              "unwelcomed-emotions-return-until-felt"
+            ],
+            "cost_usd": 0.0135594,
+            "ms": 5531,
+            "input_tokens": 3136,
+            "output_tokens": 253,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "toggle-between-opposite-emotions-then-hold-both",
+            "file_path": "coach/practices/toggle-between-opposite-emotions-then-hold-both.md",
+            "category": "practices",
+            "candidate_edges": [
+              "hold-the-memory-of-when-you-felt-it-most"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This practice is a concrete, actionable next move if Joe's somatic check-in fails — the client can feel physical sensations (climbing soreness) but not emotional ones, making the contrast/cycling technique a precise fit for building felt-sense access from scratch.",
+              "follow_edges": [
+                "hold-the-memory-of-when-you-felt-it-most"
+              ],
+              "follow_reason": "The toggle practice requires a specific memory anchor for each emotion — this edge likely covers how to help a client find/land that memory, which is the prerequisite step for using this practice with someone who reports emotional blankness."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "hold-the-memory-of-when-you-felt-it-most"
+            ],
+            "edges_skipped": [],
+            "cost_usd": 0.012362399999999999,
+            "ms": 5322,
+            "input_tokens": 2957,
+            "output_tokens": 209,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "walker_variant": "depth-aware",
+        "seed_detection_cost_usd": 0.012634600000000001,
+        "walker_total_cost_usd": 0.0744624,
+        "total_cost_usd": 0.087097,
+        "seed_detection_input_tokens": 739,
+        "seed_detection_output_tokens": 140,
+        "seed_detection_cache_read_tokens": 111956,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 17463,
+        "walker_total_output_tokens": 1329,
+        "walker_total_cache_read_tokens": 7128,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2765,
+        "walker_total_ms": 30749,
+        "step_count": 6,
+        "bundle_acceptance_rate": 1,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.087097,
+      "ms": 33515
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "walker_variant": "depth-aware",
+        "seed_detection_cost_usd": 0.012896600000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.012896600000000001,
+        "seed_detection_input_tokens": 886,
+        "seed_detection_output_tokens": 163,
+        "seed_detection_cache_read_tokens": 111956,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2586,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.012896600000000001,
+      "ms": 2588
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-postponing-enjoyment",
+          "i-should-be-doing-this",
+          "whats-next-after-i-reached-my-big-goal"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is postponing the present task (launch) for future interest; operating from obligation (\"should be doing something\") rather than genuine want; and already oriented toward what's next rather than what's here. The pattern suggests both postponed enjoyment and a should-driven approach masking a deeper avoidance of the present moment.",
+        "bundle_ids": [
+          "i-keep-postponing-enjoyment",
+          "i-should-be-doing-this",
+          "pulling-the-brakes",
+          "how-is-that-not-here-right-now",
+          "apply-enjoy-to-whats-here"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-keep-postponing-enjoyment.md",
+          "coach/concerns/i-should-be-doing-this.md",
+          "coach/concepts/pulling-the-brakes.md",
+          "coach/questions/how-is-that-not-here-right-now.md",
+          "coach/moves/apply-enjoy-to-whats-here.md"
+        ],
+        "bundle_reasons": [
+          "Client explicitly names the launch as a \"checkpoint to get through\" to reach more interesting work — textbook future-orientation/postponement structure that this file directly addresses.",
+          "Client's \"I should be doing something about this\" and framing the launch as a checkpoint to get through maps directly to the should-vs-want structure this file addresses, including the \"can't finish\" variant and the coaching path of locating the want under the should.",
+          "Client's flat somatic response and \"checkpoint to get through\" framing suggests a brake on aliveness/engagement with the launch — this file names the mechanism precisely and gives Joe a somatic inquiry path.",
+          "Client named wanting to \"move on to the next thing\" and framed the launch as a checkpoint — this question directly collapses that postponement structure and is the precise coaching move for this moment.",
+          "Client's \"checkpoint to get through\" framing is exactly the postponement structure this move addresses — Joe could redirect: \"how would you enjoy this launch, not the next thing?\""
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-postponing-enjoyment",
+            "file_path": "coach/concerns/i-keep-postponing-enjoyment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "how-do-i-be-happy",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "joy-as-natural-state",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap",
+              "pulling-the-brakes"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly names the launch as a \"checkpoint to get through\" to reach more interesting work — textbook future-orientation/postponement structure that this file directly addresses.",
+              "follow_edges": [
+                "pulling-the-brakes",
+                "how-is-that-not-here-right-now",
+                "apply-enjoy-to-whats-here",
+                "how-would-you-enjoy-x"
+              ],
+              "follow_reason": "These four edges map directly to the coaching moves Joe would use next: the brake mechanism (why can't he land in the launch itself), the present-moment question, and applying enjoyment to what's actually here rather than the imagined future."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "pulling-the-brakes",
+              "how-is-that-not-here-right-now",
+              "apply-enjoy-to-whats-here",
+              "how-would-you-enjoy-x"
+            ],
+            "edges_skipped": [
+              "how-do-i-be-happy",
+              "joy-as-natural-state",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap"
+            ],
+            "cost_usd": 0.0129354,
+            "ms": 5569,
+            "input_tokens": 3098,
+            "output_tokens": 219,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-should-be-doing-this",
+            "file_path": "coach/concerns/i-should-be-doing-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "im-not-living-up-to-my-potential",
+              "mental-task-inflation",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "should-vs-want-body-check",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I should be doing something about this\" and framing the launch as a checkpoint to get through maps directly to the should-vs-want structure this file addresses, including the \"can't finish\" variant and the coaching path of locating the want under the should.",
+              "follow_edges": [
+                "should-vs-want-body-check",
+                "wants-over-shoulds",
+                "mental-task-inflation",
+                "money-as-surrogate"
+              ],
+              "follow_reason": "should-vs-want-body-check and wants-over-shoulds are direct next moves in the coaching path; mental-task-inflation may explain why the launch feels like a burden rather than a want; money-as-surrogate could illuminate why revenue is listed flatly alongside more alive wants."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "should-vs-want-body-check",
+              "wants-over-shoulds",
+              "mental-task-inflation",
+              "money-as-surrogate"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "im-not-living-up-to-my-potential",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "trigger",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.0137574,
+            "ms": 5189,
+            "input_tokens": 3252,
+            "output_tokens": 243,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "whats-next-after-i-reached-my-big-goal",
+            "file_path": "coach/concerns/whats-next-after-i-reached-my-big-goal.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "doug-hug-the-demon-financial-safety",
+              "i-cant-feel-my-emotions",
+              "im-not-living-up-to-my-potential",
+              "intellectual-process-with-no-somatic-component",
+              "swap-roles-with-the-younger-self",
+              "ten-percent-more-connected-experiment",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't reached a big goal yet — the launch is still pending; this file addresses post-achievement disorientation, not pre-launch avoidance/postponement.",
+              "follow_edges": [
+                "i-cant-feel-my-emotions",
+                "intellectual-process-with-no-somatic-component",
+                "chin-up-as-emotion-block"
+              ],
+              "follow_reason": "Client shows flat somatic response and intellectual framing with no emotional register — these edges directly address the texture Joe is probing right now."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-cant-feel-my-emotions",
+              "intellectual-process-with-no-somatic-component",
+              "chin-up-as-emotion-block"
+            ],
+            "edges_skipped": [
+              "doug-hug-the-demon-financial-safety",
+              "im-not-living-up-to-my-potential",
+              "swap-roles-with-the-younger-self",
+              "ten-percent-more-connected-experiment",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "cost_usd": 0.012974399999999999,
+            "ms": 4524,
+            "input_tokens": 3261,
+            "output_tokens": 189,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "pulling-the-brakes",
+            "file_path": "coach/concepts/pulling-the-brakes.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "dont-add-anyway-to-love",
+              "enjoy-over-manage",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "rebellion-or-submission-to-should",
+              "running-toward-yourself",
+              "shame-as-disconnection",
+              "the-rush-signature",
+              "voice-creates-what-it-fears",
+              "whats-stopping-you-from-enjoying-x"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's flat somatic response and \"checkpoint to get through\" framing suggests a brake on aliveness/engagement with the launch — this file names the mechanism precisely and gives Joe a somatic inquiry path.",
+              "follow_edges": [
+                "enjoy-over-manage",
+                "enjoyment-as-path",
+                "rebellion-or-submission-to-should",
+                "the-rush-signature"
+              ],
+              "follow_reason": "These edges connect to the client's future-orientation, managing-vs-enjoying the launch, the should/want tension already in bundle, and the rush toward next thing — all directly relevant threads."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "enjoy-over-manage",
+              "enjoyment-as-path",
+              "rebellion-or-submission-to-should",
+              "the-rush-signature"
+            ],
+            "edges_skipped": [
+              "dont-add-anyway-to-love",
+              "feel-your-way-to-freedom",
+              "running-toward-yourself",
+              "shame-as-disconnection",
+              "voice-creates-what-it-fears",
+              "whats-stopping-you-from-enjoying-x"
+            ],
+            "cost_usd": 0.012950399999999999,
+            "ms": 5391,
+            "input_tokens": 3178,
+            "output_tokens": 204,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "how-is-that-not-here-right-now",
+            "file_path": "coach/questions/how-is-that-not-here-right-now.md",
+            "category": "questions",
+            "candidate_edges": [
+              "how-do-you-not-trust-it",
+              "joy-as-natural-state",
+              "no-finish-line",
+              "nothing-is-required-for-freedom",
+              "point-at-the-present-evidence",
+              "what-do-you-think-you-need-to-be-free",
+              "what-if-there-is-no-finish-line",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client named wanting to \"move on to the next thing\" and framed the launch as a checkpoint — this question directly collapses that postponement structure and is the precise coaching move for this moment.",
+              "follow_edges": [
+                "no-finish-line",
+                "what-if-there-is-no-finish-line",
+                "point-at-the-present-evidence"
+              ],
+              "follow_reason": "Client's \"checkpoint to get through\" and future-orientation toward the roadmap maps directly to finish-line/arrival-fantasy territory; point-at-the-present-evidence is the companion move to this question."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "no-finish-line",
+              "what-if-there-is-no-finish-line",
+              "point-at-the-present-evidence"
+            ],
+            "edges_skipped": [
+              "how-do-you-not-trust-it",
+              "joy-as-natural-state",
+              "nothing-is-required-for-freedom",
+              "what-do-you-think-you-need-to-be-free",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.0130974,
+            "ms": 4743,
+            "input_tokens": 3207,
+            "output_tokens": 208,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "apply-enjoy-to-whats-here",
+            "file_path": "coach/moves/apply-enjoy-to-whats-here.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apply-connection-to-whatever-youre-doing",
+              "every-moment-is-an-exit-point"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"checkpoint to get through\" framing is exactly the postponement structure this move addresses — Joe could redirect: \"how would you enjoy this launch, not the next thing?\"",
+              "follow_edges": [
+                "every-moment-is-an-exit-point"
+              ],
+              "follow_reason": "Client's flat affect and \"get through it\" framing suggests he's exiting the present moment of the launch — this edge may name that mechanism precisely."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "every-moment-is-an-exit-point"
+            ],
+            "edges_skipped": [
+              "apply-connection-to-whatever-youre-doing"
+            ],
+            "cost_usd": 0.0123894,
+            "ms": 4412,
+            "input_tokens": 3151,
+            "output_tokens": 172,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "walker_variant": "depth-aware",
+        "seed_detection_cost_usd": 0.0129586,
+        "walker_total_cost_usd": 0.07810439999999999,
+        "total_cost_usd": 0.09106299999999999,
+        "seed_detection_input_tokens": 983,
+        "seed_detection_output_tokens": 156,
+        "seed_detection_cache_read_tokens": 111956,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 19147,
+        "walker_total_output_tokens": 1235,
+        "walker_total_cache_read_tokens": 7128,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2687,
+        "walker_total_ms": 29828,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 12
+      },
+      "cost_usd": 0.09106299999999999,
+      "ms": 32518
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-have-all-my-eggs-in-one-basket",
+          "im-afraid-of-offending-people",
+          "im-not-living-up-to-my-potential"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client has more of themselves in this product than previous work, creating exposure anxiety. The personal investment + public visibility pattern suggests fear of judgment/rejection of their thinking. The \"it's never stopped me before but here I am stopped\" indicates something has shifted in the stakes—this one carries identity weight in a way others didn't.",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-have-all-my-eggs-in-one-basket",
+            "file_path": "coach/concerns/i-have-all-my-eggs-in-one-basket.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "can-you-hang-out-with-it",
+              "creating-safety-suppresses-self",
+              "finite-love-is-precious-love",
+              "i-dont-have-community",
+              "romantic-relationships",
+              "what-we-fear-we-invite"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about fear of losing a romantic partner — wholly off-frame for a founder's avoidance around a product launch with personal exposure.",
+              "follow_edges": [],
+              "follow_reason": "All edges stem from a romantic-loss context; none are relevant to the client's situation of personal exposure through a high-stakes product launch."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "can-you-hang-out-with-it",
+              "creating-safety-suppresses-self",
+              "finite-love-is-precious-love",
+              "i-dont-have-community",
+              "romantic-relationships",
+              "what-we-fear-we-invite"
+            ],
+            "cost_usd": 0.0121344,
+            "ms": 4064,
+            "input_tokens": 3181,
+            "output_tokens": 149,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-afraid-of-offending-people",
+            "file_path": "coach/concerns/im-afraid-of-offending-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "abandoning-self-while-speaking",
+              "calibrate-the-threshold",
+              "chasing-understanding-as-control",
+              "conflict-avoidance-prevents-healing",
+              "ego-protection-as-need-to-be-understood",
+              "how-else-would-you-heal-your-shame",
+              "looking-for-whats-wrong",
+              "press-the-button-thought-experiment",
+              "self-abandonment-to-manage-the-other",
+              "shame-as-disconnection",
+              "the-built-up-resentment-story",
+              "the-emotional-experience-decides-the-channel",
+              "the-shame-avoidance-loop",
+              "the-want-to-fit-in-vs-want-to-be-extraordinary",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is avoidance/disengagement around a personal launch, not fear of offending people or conflict avoidance in interpersonal interactions.",
+              "follow_edges": [
+                "looking-for-whats-wrong",
+                "the-want-to-fit-in-vs-want-to-be-extraordinary",
+                "shame-as-disconnection",
+                "chasing-understanding-as-control"
+              ],
+              "follow_reason": "These edges point toward the client's self-aware deflection (\"it's not fear\"), the exposure/identity stakes of having his framework in the product, and the intellectualizing pattern he's showing."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "looking-for-whats-wrong",
+              "the-want-to-fit-in-vs-want-to-be-extraordinary",
+              "shame-as-disconnection",
+              "chasing-understanding-as-control"
+            ],
+            "edges_skipped": [
+              "abandoning-self-while-speaking",
+              "calibrate-the-threshold",
+              "conflict-avoidance-prevents-healing",
+              "ego-protection-as-need-to-be-understood",
+              "how-else-would-you-heal-your-shame",
+              "press-the-button-thought-experiment",
+              "self-abandonment-to-manage-the-other",
+              "the-built-up-resentment-story",
+              "the-emotional-experience-decides-the-channel",
+              "the-shame-avoidance-loop",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "cost_usd": 0.0133854,
+            "ms": 5319,
+            "input_tokens": 3283,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "im-not-living-up-to-my-potential",
+            "file_path": "coach/concerns/im-not-living-up-to-my-potential.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "anxiety-when-confronting-what-you-want",
+              "jeff-bezos-calls-his-mornings-wandering",
+              "mental-task-inflation"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't expressing unfulfilled potential anxiety or time-scarcity — he's engaged, knows what he wants, and is stopped specifically around a high-exposure personal launch, not a vague potential question.",
+              "follow_edges": [
+                "anxiety-when-confronting-what-you-want"
+              ],
+              "follow_reason": "Client says \"it doesn't feel like fear when I check\" but is stopped — anxiety-when-confronting-what-you-want may name the texture underneath his avoidance of the launch's exposure."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "anxiety-when-confronting-what-you-want"
+            ],
+            "edges_skipped": [
+              "jeff-bezos-calls-his-mornings-wandering",
+              "mental-task-inflation"
+            ],
+            "cost_usd": 0.0126534,
+            "ms": 4598,
+            "input_tokens": 3144,
+            "output_tokens": 191,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "looking-for-whats-wrong",
+            "file_path": "coach/reads/looking-for-whats-wrong.md",
+            "category": "reads",
+            "candidate_edges": [
+              "jeff-bezos-calls-his-mornings-wandering",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't manufacturing a problem to work on — he has a real, specific situation (launch stall, personal exposure) and is actively exploring it; this read doesn't fit the moment.",
+              "follow_edges": [
+                "treating-felt-state-as-factual-reality"
+              ],
+              "follow_reason": "Client is insisting \"it doesn't feel like fear\" as evidence it isn't fear — treating his felt-state as factual reality is exactly the distinction Joe might need here."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "treating-felt-state-as-factual-reality"
+            ],
+            "edges_skipped": [
+              "jeff-bezos-calls-his-mornings-wandering"
+            ],
+            "cost_usd": 0.0102294,
+            "ms": 4514,
+            "input_tokens": 2396,
+            "output_tokens": 179,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "the-want-to-fit-in-vs-want-to-be-extraordinary",
+            "file_path": "coach/patterns/the-want-to-fit-in-vs-want-to-be-extraordinary.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "expanding-sense-of-self",
+              "i-feel-lonely-i-cant-find-real-community",
+              "own-your-narcissism",
+              "the-emotional-experience-decides-the-channel",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's stuckness is about exposure/identity with a personal product, not a fit-in vs. extraordinary polarity — no evidence of competing belonging/status wants driving the block.",
+              "follow_edges": [
+                "own-your-narcissism",
+                "expanding-sense-of-self"
+              ],
+              "follow_reason": "Client says \"more of me in it\" and preemptively deflects fear — own-your-narcissism and expanding-sense-of-self may name the identity/exposure texture underneath that the client can't yet see."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "own-your-narcissism",
+              "expanding-sense-of-self"
+            ],
+            "edges_skipped": [
+              "i-feel-lonely-i-cant-find-real-community",
+              "the-emotional-experience-decides-the-channel",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.0123204,
+            "ms": 4461,
+            "input_tokens": 3018,
+            "output_tokens": 194,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "shame-as-disconnection",
+            "file_path": "coach/concepts/shame-as-disconnection.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "addiction-to-shame",
+              "asking-with-shame-invites-refusal",
+              "authenticity-reduces-shame",
+              "avoided-conflict-goes-internal",
+              "comparative-mind",
+              "conflict-avoidance-prevents-being-loved",
+              "conflict-avoidance-prevents-healing",
+              "container-of-love",
+              "decisions-are-emotional",
+              "depression-four-levels",
+              "dont-add-anyway-to-love",
+              "drop-the-hot-potato",
+              "electric-fence-with-dog",
+              "everyone-is-pretending",
+              "feeling-the-unfelt-emotion",
+              "forms-of-dysfunctional-apology",
+              "how-else-would-you-heal-your-shame",
+              "how-would-you-enjoy-x",
+              "i-keep-postponing-enjoyment",
+              "if-i-were-inherently-good",
+              "im-fake-my-love-is-corrupt",
+              "joes-laughing-meditation-retreat",
+              "list-the-shames-you-avoided",
+              "love-as-deep-welcoming",
+              "natural-shame-vs-installed-shame",
+              "past-shame-vs-current-shame",
+              "pulling-the-brakes",
+              "running-toward-yourself",
+              "say-yes-to-the-clients-experiment",
+              "seeing-through-essential-wrongness"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client explicitly denies fear and the conversation is about exposure/identity-in-work, not shame-as-disconnection from tribe or self-abandonment — too general a hub for this moment.",
+              "follow_edges": [
+                "natural-shame-vs-installed-shame",
+                "seeing-through-essential-wrongness",
+                "running-toward-yourself",
+                "authenticity-reduces-shame"
+              ],
+              "follow_reason": "Client's \"more of me in it / exposure\" language hints at identity-level vulnerability — these edges may surface the specific texture (essential wrongness, authenticity cost, self-toward-self movement) that underlies the stall without being generic shame hubs."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "natural-shame-vs-installed-shame",
+              "seeing-through-essential-wrongness",
+              "running-toward-yourself",
+              "authenticity-reduces-shame"
+            ],
+            "edges_skipped": [
+              "addiction-to-shame",
+              "asking-with-shame-invites-refusal",
+              "avoided-conflict-goes-internal",
+              "comparative-mind",
+              "conflict-avoidance-prevents-being-loved",
+              "conflict-avoidance-prevents-healing",
+              "container-of-love",
+              "decisions-are-emotional",
+              "depression-four-levels",
+              "dont-add-anyway-to-love",
+              "drop-the-hot-potato",
+              "electric-fence-with-dog",
+              "everyone-is-pretending",
+              "feeling-the-unfelt-emotion",
+              "forms-of-dysfunctional-apology",
+              "how-else-would-you-heal-your-shame",
+              "how-would-you-enjoy-x",
+              "i-keep-postponing-enjoyment",
+              "if-i-were-inherently-good",
+              "im-fake-my-love-is-corrupt",
+              "joes-laughing-meditation-retreat",
+              "list-the-shames-you-avoided",
+              "love-as-deep-welcoming",
+              "past-shame-vs-current-shame",
+              "pulling-the-brakes",
+              "say-yes-to-the-clients-experiment"
+            ],
+            "cost_usd": 0.0137094,
+            "ms": 5613,
+            "input_tokens": 3346,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 1188,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "walker_variant": "depth-aware",
+        "seed_detection_cost_usd": 0.013038600000000001,
+        "walker_total_cost_usd": 0.07443240000000001,
+        "total_cost_usd": 0.08747100000000001,
+        "seed_detection_input_tokens": 1043,
+        "seed_detection_output_tokens": 160,
+        "seed_detection_cache_read_tokens": 111956,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 18368,
+        "walker_total_output_tokens": 1146,
+        "walker_total_cache_read_tokens": 7128,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2581,
+        "walker_total_ms": 28569,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 14
+      },
+      "cost_usd": 0.08747100000000001,
+      "ms": 31152
+    }
+  ]
+}

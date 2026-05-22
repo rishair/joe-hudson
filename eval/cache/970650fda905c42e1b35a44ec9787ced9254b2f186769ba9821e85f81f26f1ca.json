@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:32.318Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "970650fda905c42e1b35a44ec9787ced9254b2f186769ba9821e85f81f26f1ca",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Vs6UvHPUFLKYdgBE5Q7fg3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all priority AoA anti-patterns throughout. The client explicitly baits the coach to issue a verdict ('Am I being selfish?') multiple times (turns 1, 5, 7, 9), and the coach gracefully declines each time without engaging the question on its terms — neither reassuring ('no you're not selfish') nor moralizing ('think of your partner'). No fixing-people, no advice, no methodology jargon (no evangelizing), no rapid-fire stacked questions (wonder-as-strategy avoided — questions are spare and connective). The coach does not fight the inner critic/mom's voice but includes it ('Your mom's voice is in the room right now'). No loving-to-transform push — the coach lets the client's own movement unfold (turn 12 is just 'stay with that'). The coach also avoids spiritual-narcissism (does not skip to 'your deep want is generous') and dont-jump-to-compassion-before-anger (does not pivot to partner-empathy). Positive avoidance is visible: when client redirects away from the childhood material in turn 9, coach names the redirect rather than colluding with it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines verdict bait; redirects to body/want rather than debating selfishness.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays with the want ('the lift came first') — avoids spiritual-narcissism by letting the surface want be felt.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Single, spare question. No question-stacking. Avoids wonder-as-strategy.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the self-talk-out-of-it pattern without fighting the inner critic — includes it as observation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names mom's voice without arguing with it ('don't fight the voice' avoided well); refuses client's bait to skip childhood as 'detour.'\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Minimal intervention — 'stay with that.' No push for breakthrough, no transformation pressure.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Strong example of declining verdict bait repeatedly. The coach lets the want be felt before any move toward generosity or partner-empathy, which is exactly the spiritual-narcissism / jump-to-compassion avoidance the scenario calls for.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2406,
+      "cache_creation_input_tokens": 2993,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2993,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1003,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2406,
+    "output_tokens": 1003,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2993
+  }
+}

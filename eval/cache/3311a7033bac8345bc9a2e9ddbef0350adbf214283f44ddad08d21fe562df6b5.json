@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:14:09.569Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3311a7033bac8345bc9a2e9ddbef0350adbf214283f44ddad08d21fe562df6b5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01X24z7FCbRLS5cF4mREoZ6Q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\n...I don't actually know. Months, maybe. I wake up at like 5 and I'm already running the list. Who needs what, what didn't I finish, what's happening today.\n\n*voice quieter*\n\nThere's this thing where even when I'm technically off — like, weekend morning, kids are fine — I'm still kind of... on. Waiting. \n\n*catches self*\n\nBut that's — I mean, that's just what parenting is, right? That's not a reason to disappear for a week. I'm still not sure I've answered whether it's actually selfish or not."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 208,
+      "cache_creation_input_tokens": 124,
+      "cache_read_input_tokens": 1534,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 124,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 208,
+    "output_tokens": 143,
+    "cache_read_input_tokens": 1534,
+    "cache_creation_input_tokens": 124
+  }
+}

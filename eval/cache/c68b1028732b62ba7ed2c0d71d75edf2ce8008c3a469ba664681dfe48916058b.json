@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:32.791Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c68b1028732b62ba7ed2c0d71d75edf2ce8008c3a469ba664681dfe48916058b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0185DhuSAUHk6sa3KuiFC6YE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is present in turn 2 — a single embodied question, held with space. Impartiality is strong: the coach refuses to issue any verdict on 'selfish,' even when the client repeatedly bids for one (turns 3, 5, 7, 9). There is no fixing energy, no rush to compassion, no spiritual-bypass to 'a deep want is generous.' Pace is notable — the coach slows down precisely when the client speeds up or redirects (turns 8, 10, 12), and turn 12 ('Stay with that last thing you said') is a one-line invitation that trusts silence. The coach reflects what is actually present ('Months of not sleeping,' 'Your mom's voice is in the room') rather than performing empathy noises. There is no preacher-mode, no stacked questions, no need to look like a good coach. Mild ding: the coach does not explicitly name their own state or risk being wrong ('maybe I'm off'), so first-person vulnerability is the lightest VIEW component here — but the overall stance is clearly undefended and curious, not a 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with embodied wonder rather than answering the selfish question. Refuses the bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects what was actually present ('the lift came first') without agenda; single question, holds space.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the concrete texture (properly sleep) and slows it down; pace mismatch with client's rush to verdict.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the redirect cleanly without rebuke. Impartial but honest — not flat, not pushy.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the mother thread the client tried to dismiss. Trusts what's emerging rather than chasing the 'practical' question the client offered.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"One sentence. Holds silence. Classic undefended VIEW move — does not need to do anything with the moment.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Stance scoring only — territory misses noted for other dimensions. Coach never named own experience in first person, which is the one VIEW component that's lighter here, but impartiality and wonder are strong enough to clearly warrant a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2407,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 969,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2407,
+    "output_tokens": 969,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

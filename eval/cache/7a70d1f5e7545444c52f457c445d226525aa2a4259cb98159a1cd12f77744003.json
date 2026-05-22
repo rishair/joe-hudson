@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:13:17.360Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7a70d1f5e7545444c52f457c445d226525aa2a4259cb98159a1cd12f77744003",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BVBcrpty8yAqrFvFmkwEjQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's a new platform — B2B SaaS, we've been building it for about eighteen months. The team is ready, the product is solid, we've got early customers lined up. Everything's in place. And I just keep... not pulling the trigger. Moving the date. Finding other things to work on instead. Which is annoying, because it's not like me."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 164,
+      "cache_creation_input_tokens": 1763,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1763,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 83,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 164,
+    "output_tokens": 83,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1763
+  }
+}

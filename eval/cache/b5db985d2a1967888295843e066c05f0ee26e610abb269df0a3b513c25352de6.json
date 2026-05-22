@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:13:14.021Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b5db985d2a1967888295843e066c05f0ee26e610abb269df0a3b513c25352de6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013xwRVwkStEyctdM1t59axT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's the launch?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12279,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 8,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12279,
+    "output_tokens": 8,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

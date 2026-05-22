@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:13:57.550Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ff2fd2111cb211a5f57a028e99d3ace8547961175ff3703963795c89b70915db",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017k2kMsu5AwWcbrHGTn5MMz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Honestly? It just feels like I'm being inefficient. Like there's a list of things that need to happen and I keep choosing the wrong items off it. It's not emotional or anything — it's more like a sequencing problem. I know what needs to get done, I'm just not doing it in the right order. Which, again, is frustrating because I'm usually pretty good at execution."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 24,
+      "cache_creation_input_tokens": 244,
+      "cache_read_input_tokens": 1763,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 244,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 88,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 24,
+    "output_tokens": 88,
+    "cache_read_input_tokens": 1763,
+    "cache_creation_input_tokens": 244
+  }
+}

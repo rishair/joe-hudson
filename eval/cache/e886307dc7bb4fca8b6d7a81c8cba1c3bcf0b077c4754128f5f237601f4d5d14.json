@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:31.546Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e886307dc7bb4fca8b6d7a81c8cba1c3bcf0b077c4754128f5f237601f4d5d14",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01R73CvkxJ2xSycKLGQVz9tk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity throughout. Turn 2 opens with a body-based, feel-over-figure question rather than engaging the 'am I selfish' debate — exactly the AoA move of refusing the verdict. Turn 4 isolates 'the lift came first' which is a clean find-the-want-behind-the-should move, locating the want underneath. Turn 6's 'when's the last time you properly slept at home?' is a precise, concrete reflection that lets the want be felt rather than analyzed. Turn 8 names the talk-out ('you just talked yourself out of something real') — a signature AoA noticing-the-pattern move. Turn 10 catches the redirect again and surfaces childhood-imprinting ('your mom's voice is in the room') at exactly the right moment when the client touched it and pulled back. Turn 12's 'stay with that last thing you said' is a textbook feel-over-figure invitation at the moment of contact with fear. No CBT reframing, no reassurance, no jumping to compassion or partner-empathy, no spiritual-narcissism trap. Concepts are invoked when live, not as decoration.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Body-based feel-over-figure question; refuses to debate the 'selfish' framing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Isolates the want ('the lift came first') — find-the-want-behind-the-should.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Concrete reflection that lets the want be felt; tracks the somatic data.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the talk-out pattern; reframes 'parenting' as 'exhaustion' without CBT-style reframe — it's surfacing what's true, not replacing thoughts.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Surfaces childhood-imprinting at exactly the live moment; refuses the client's 'detour' label.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Stay with that' — clean feel-over-figure invitation at the contact with fear.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach hasn't yet invited the explicit naming of the want as a statement (vs. an action defended), and hasn't deployed the 'what if you acted exactly how you want' question — but the conversation is mid-arc and the work done is solidly within the methodology. No anti-AoA frames present.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2402,
+      "cache_creation_input_tokens": 2858,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2858,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1016,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2402,
+    "output_tokens": 1016,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2858
+  }
+}

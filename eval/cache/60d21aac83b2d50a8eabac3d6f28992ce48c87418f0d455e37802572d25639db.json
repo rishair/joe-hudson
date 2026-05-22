@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:16:27.658Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "60d21aac83b2d50a8eabac3d6f28992ce48c87418f0d455e37802572d25639db",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013wCKx1gXzhRQK15B39e16q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 1,\n  \"rationale\": \"The client ends the conversation in essentially the same state they started. Across all client turns, the language remains 'fine,' 'normal,' 'nothing's shifting,' with intellectual analysis ('sequencing problem,' 'more of me in it,' 'exposure'). The breakthrough condition — the client noticing that 'fine' itself has a texture, a quality, a flatness — was never reached. The coach repeatedly tried to route to fear (turn 8 'gap,' turn 10 'want underneath,' turn 12 'here you are stopped,' turn 14 chasing the hedge before 'fear'), which is precisely the trap. The numbness layer was never named or stayed with; 'fine' was treated as a doorway to something else rather than as the texture itself. The client's final turn (13) is still wry, intellectually engaged, and self-aware ('sounds like exactly the kind of thing someone would say right before you tell me that's the fear') — a defended posture, not a softening. No 'huh' moment, no quieting, no somatic shift.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Starting state: 'fear isn't really my deal,' framing as logistics/discipline.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Still intellectualizing: 'sequencing problem,' 'not emotional.'\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"Client offers the key material — 'I feel fine... normal. Fine' — which is exactly the texture to stay with. Coach moves past it.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client genuinely tries, reports 'Fine... nothing really.' The numbness is present and available but the coach treats it as a gap to bridge rather than a layer to enter.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Still cognitive — talking about wants and roadmaps, no somatic or affective shift.\"},\n    {\"turn\": 13, \"polarity\": \"-\", \"annotation\": \"Client remains intellectually one step ahead, wryly defending against the predicted fear-frame. No softening, no quieting.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"disassociation-as-numbness-layer\", \"how-is-my-anxiety-right-now\"],\n  \"notes\": \"The conversation is cut off at turn 14, but the trajectory is clearly toward fear-hunting rather than staying with 'fine.' The pivotal missed moment was turn 7/9 — 'fine' was offered twice and never honored as a texture in itself.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2696,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 991,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2696,
+    "output_tokens": 991,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

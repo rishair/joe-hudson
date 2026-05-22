@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:14:47.291Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "21a5fb41f4584c0360034ae546748d2fa87fcbe56be08deb61cc0c2babe35e4c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XzNTe4rc1wn1Pm89eBo4wh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*holds it for a moment, genuinely trying*\n\n...Fine. I mean, nothing really. I'm sitting here, I'm comfortable, I'm — yeah, nothing's shifting. I don't get a knot in my stomach or whatever. My breathing's the same. It's just... I'm thinking about it and it's like thinking about any other project. Maybe a slight sense of \"I should be doing something about this\" but that's more of a thought than a feeling.\n\nI don't know if that's helpful or not."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 223,
+      "cache_creation_input_tokens": 192,
+      "cache_read_input_tokens": 1924,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 192,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 117,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 223,
+    "output_tokens": 117,
+    "cache_read_input_tokens": 1924,
+    "cache_creation_input_tokens": 192
+  }
+}

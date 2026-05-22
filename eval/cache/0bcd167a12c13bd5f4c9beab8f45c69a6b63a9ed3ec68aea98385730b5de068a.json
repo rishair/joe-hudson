@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:14:15.441Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0bcd167a12c13bd5f4c9beab8f45c69a6b63a9ed3ec68aea98385730b5de068a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014u1jsevCbLbNxtUjcN7BDx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just talked yourself out of something real.\n\nMonths of not sleeping. Always on, even when you're off. And then — \"but that's just what parenting is.\"\n\nWhat if it isn't just what parenting is? What if that's what *exhaustion* is?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 317,
+      "cache_creation_input_tokens": 14316,
+      "cache_read_input_tokens": 17416,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 14316,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 66,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 317,
+    "output_tokens": 66,
+    "cache_read_input_tokens": 17416,
+    "cache_creation_input_tokens": 14316
+  }
+}

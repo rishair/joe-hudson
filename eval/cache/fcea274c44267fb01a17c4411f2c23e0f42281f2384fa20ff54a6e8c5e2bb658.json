@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:37.424Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fcea274c44267fb01a17c4411f2c23e0f42281f2384fa20ff54a6e8c5e2bb658",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LbM6qGbLZ2pX3vUhY5sx3e",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight tilt of the head, considering*\n\nThat's... a fair point. \n\nI've thought about that. The scale is bigger — this is the largest thing we've shipped. The team is bigger, the customer commitments are bigger. But bigger has never been a problem before, that's usually when I'm more engaged, not less.\n\nThe product is more personal, maybe. Like, the earlier stuff was more straightforward technically. This one has more of my actual thinking in it. My framework for how this category should work. So there's more... I don't know. Exposure? But I wouldn't call that fear. It's just — there's more of me in it.\n\n*brief pause, then a slight smile*\n\nWhich I'm aware sounds like exactly the kind of thing someone would say right before you tell me that's the fear. But it genuinely doesn't feel like fear when I check."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 220,
+      "cache_creation_input_tokens": 321,
+      "cache_read_input_tokens": 2132,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 321,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 197,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 220,
+    "output_tokens": 197,
+    "cache_read_input_tokens": 2132,
+    "cache_creation_input_tokens": 321
+  }
+}

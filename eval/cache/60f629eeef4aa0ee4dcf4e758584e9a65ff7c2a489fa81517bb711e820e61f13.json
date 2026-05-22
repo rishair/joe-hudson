@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:14:04.574Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "60f629eeef4aa0ee4dcf4e758584e9a65ff7c2a489fa81517bb711e820e61f13",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VhuB8izAttNvFjEczgHVBA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You've been somewhere twice and you properly sleep there.\n\nWhen's the last time you properly slept at home?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 14437,
+      "cache_creation_input_tokens": 14201,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 14201,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 14437,
+    "output_tokens": 27,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 14201
+  }
+}

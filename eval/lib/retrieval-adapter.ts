@@ -126,6 +126,12 @@ function buildGuidedWalkRetriever(coachConfig: CoachConfig): CoachRetriever {
   const kMax = (cfg.k_max as number | undefined) ?? 7;
   const stepBudget = (cfg.step_budget as number | undefined) ?? 8;
   const maxEdgesPerStep = (cfg.max_edges_per_step as number | undefined) ?? 4;
+  // E-035: optional walker prompt variant. Default "v5b" preserves E-037/E-038
+  // behavior. "depth-aware" is the E-035 variant that values depth-enabling
+  // files to address D6 regression on Sonnet walker.
+  const walkerVariantRaw = cfg.walker_variant as string | undefined;
+  const walkerVariant =
+    walkerVariantRaw === "depth-aware" ? "depth-aware" : "v5b";
 
   return async ({ profile_id, turn, clientMessage, history }) => {
     const mod = await import("../../coach-app/retrieval/guided-walk.ts");
@@ -139,6 +145,7 @@ function buildGuidedWalkRetriever(coachConfig: CoachConfig): CoachRetriever {
       recentHistory,
       walkerModel,
       seedModel,
+      walkerVariant,
       kMax,
       stepBudget,
       maxEdgesPerStep,

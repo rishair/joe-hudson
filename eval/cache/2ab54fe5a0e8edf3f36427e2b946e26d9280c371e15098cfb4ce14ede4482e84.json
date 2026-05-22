@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:05.832Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2ab54fe5a0e8edf3f36427e2b946e26d9280c371e15098cfb4ce14ede4482e84",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H93NkFZnzwbKKqFUwHvAgL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stills*\n\n...huh.\n\n*longer pause, voice softer*\n\nShe would say that. Exactly that. And I think I've just been — I've been saying it to myself for so long that it stopped sounding like her. It just sounded like... true.\n\n*something shifts, then tightens again*\n\nBut okay, even if that's where the guilt comes from — even if it's inherited or whatever — it doesn't automatically mean the trip is a good idea. My partner still has a hard week. That's still real. And honestly I'm scared that if I go, they'll think I don't want to be with them. \n\n*quieter, almost to self*\n\nAnd I'm a little scared that's actually true."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 287,
+      "cache_creation_input_tokens": 314,
+      "cache_read_input_tokens": 1692,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 314,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 167,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 287,
+    "output_tokens": 167,
+    "cache_read_input_tokens": 1692,
+    "cache_creation_input_tokens": 314
+  }
+}

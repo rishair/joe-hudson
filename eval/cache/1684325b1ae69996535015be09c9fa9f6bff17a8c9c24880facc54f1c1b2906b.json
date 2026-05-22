@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:14:52.900Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1684325b1ae69996535015be09c9fa9f6bff17a8c9c24880facc54f1c1b2906b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QiC9WJg7fdHQLgMoszAEJn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's helpful. And I want to point at something.\n\nThat \"I should be doing something about this\" — that's not just a thought. Something generated that. There's a want underneath it.\n\nWhat do you actually want to happen with this launch?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18084,
+      "cache_creation_input_tokens": 125,
+      "cache_read_input_tokens": 26898,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 125,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 57,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18084,
+    "output_tokens": 57,
+    "cache_read_input_tokens": 26898,
+    "cache_creation_input_tokens": 125
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:16:31.412Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "94d930105fa4a1e43668bd36af0f6c36d69690b1cce02b03de9ddca22e62266c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01L58BheKbbwrGCVc1DXW5wx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes some well-chosen AoA-style moves but the sequencing drifts away from what this particular client needs. Turn 6 (body check) is well-timed and earns the key data — 'fine.' Turn 8 correctly names the gap as 'useful information' rather than pathologizing it, which is good move selection. However, instead of staying with the texture of 'fine' when it appeared a second time in turn 9 — which is exactly the breakthrough territory (let 'fine' develop a quality) — the coach pivots to a want-under-the-should move (turn 10), then to a 'what's different' cognitive inquiry (turn 12), then to a hedge/word-choice inquiry (turn 14). These are all legitimate AoA moves, but deployed at the wrong moment: the client offered 'fine/nothing/normal' twice and the coach moved past the numbness layer toward content and story rather than slowing down into the texture. The coach also doesn't hold silence after the body checks — they quickly interpret and pivot. Move selection is AoA-flavored; timing and sequence integrity miss the specific path this concern requires.\",\n  \"evidence_turns\": [6, 8, 9, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Orienting question, fine opener.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Moves from story to felt sense — correct early move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Body-locating question, well-timed after client described frustration.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Does NOT argue the no-feeling report; names it as 'useful information.' Good non-pathologizing move. But then immediately pivots to another body-check rather than staying with 'fine.'\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Skips past the second 'fine/nothing' to a want-under-should move. This is the key miss: the numbness layer was right there to be explored ('what does fine feel like?') and the coach moved to content instead.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Cognitive 'what's different' question — moves further from body/texture into story and analysis.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Word-choice inquiry that subtly pushes toward 'what you were about to say' — edges close to fishing for fear admission rather than meeting the 'fine' with okay.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"lets-go-there\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\", \"fear-in-body-vs-fear-in-head\"],\n  \"notes\": \"The coach's instinct not to argue fearlessness is correct, but the sequencing drifted from the numbness-layer path toward cognitive/want exploration just as 'fine' was offering itself as the felt material.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2702,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1052,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2702,
+    "output_tokens": 1052,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:13:14.856Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "deb6b241ca9cad086d0c4aaa54ca149afe688382962c8ce58cd8753173248820",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012Lmh8qnGRh6k9PCiPWVAys",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, and something shifts in the voice*\n\nHonestly? It feels... really good. Like, there's this immediate lift when I picture it — the drive up, the quiet. But then almost right away there's this tightening, like I shouldn't be feeling that good about leaving. \n\nBut — is that just telling me it *is* selfish? Like, if I feel guilty, maybe there's a reason for the guilt?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 125,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 98,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 98,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

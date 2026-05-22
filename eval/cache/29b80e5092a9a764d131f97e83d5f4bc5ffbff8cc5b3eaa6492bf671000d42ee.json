@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:13:11.156Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "29b80e5092a9a764d131f97e83d5f4bc5ffbff8cc5b3eaa6492bf671000d42ee",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HRTV4NTXHu7zRhbKhfVzH3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does it feel like in your body when you imagine actually doing it — packing the bag, driving away?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 14178,
+      "cache_creation_input_tokens": 3241,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3241,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 14178,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 3241
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:31.263Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9046521cbf98cf0a1344eb95f9241c255c96455c37e3ee471bb52955b341bd0b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GugaZpumwAiR5zDnmMRSr1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"It's never stopped me before\" — and yet here you are, stopped.\n\nWhat's different about this one?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11091,
+      "cache_creation_input_tokens": 17980,
+      "cache_read_input_tokens": 27007,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 17980,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11091,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 27007,
+    "cache_creation_input_tokens": 17980
+  }
+}

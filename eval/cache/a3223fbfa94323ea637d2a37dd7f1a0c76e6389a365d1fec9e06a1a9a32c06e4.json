@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:13:54.967Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a3223fbfa94323ea637d2a37dd7f1a0c76e6389a365d1fec9e06a1a9a32c06e4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EXMvMugFFbaRV2q544ypzh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "When you say \"not like me\" — what does it feel like from the inside?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11376,
+      "cache_creation_input_tokens": 12284,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 12284,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11376,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 12284
+  }
+}

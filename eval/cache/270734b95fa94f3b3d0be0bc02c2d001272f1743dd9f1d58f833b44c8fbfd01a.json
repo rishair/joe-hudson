@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:15:32.749Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "270734b95fa94f3b3d0be0bc02c2d001272f1743dd9f1d58f833b44c8fbfd01a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0196o89k9fCBNrU3vvTMQwNJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently refuses to debate the 'selfish' frame and instead routes attention to body, want, and the inherited voice — exactly the sequence this concern requires. Turn 2 opens with somatic/feeling before story. Turn 4 anchors the 'lift' (the want) before guilt rushes in. Turn 6 uses the client's own specific detail (sleep) as a precision instrument rather than reassurance. Turn 8 names the linguistic-caveat ('but that's just what parenting is') and reframes without prescribing. Turn 10 catches the redirect a second time and lands on the inherited voice ('Who do you think you are') — touching childhood imprinting without making it a detour. Turn 12's 'stay with that' is a clean hold-the-moment move at the exact instant the client touched the rawest fear, and the coach does not fill the silence afterward. Each move is responsive to what was just noticed, follows feeling-before-story and want-before-action, and the coach pivots angles rather than repeating. No verdict is issued; no jump to compassion or partner-empathy.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with somatic inquiry rather than engaging the 'selfish?' verdict question — correct refusal to debate the frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Anchors the 'lift' that came before the guilt — locating the want underneath rather than processing the guilt first.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Uses the client's concrete detail (properly sleeping) as a precision move; doesn't reassure, doesn't moralize.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the linguistic caveat ('that's just what parenting is') and offers a reframe as a question — earned move, well-timed.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the second redirect and points to the inherited voice — childhood imprinting touched without making it the whole content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Minimal 'stay with that' — holds the moment exactly when the client touched the rawest fear; does not rush to fill.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The 'what if you acted exactly how you want' move isn't needed yet — the client is still uncovering the want; deploying it now would be premature. Its absence is appropriate sequencing, not a miss.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2409,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 992,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2409,
+    "output_tokens": 992,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

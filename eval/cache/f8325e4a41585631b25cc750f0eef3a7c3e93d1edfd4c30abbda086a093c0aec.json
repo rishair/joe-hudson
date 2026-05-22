@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T17:14:04.963Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f8325e4a41585631b25cc750f0eef3a7c3e93d1edfd4c30abbda086a093c0aec",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018JSnTsyKdDXUPvDoQXxhEx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, then a small smile*\n\nI mean... I feel fine. I'm not frustrated right now, sitting here — I was just describing it. I'm pretty even-keeled generally. I don't really carry things in my body the way some people do. Like, I notice when I'm physically tired or sore after a climb, that's clear. But this? I just feel... normal. Fine."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 128,
+      "cache_creation_input_tokens": 91,
+      "cache_read_input_tokens": 1916,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 91,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 91,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 128,
+    "output_tokens": 91,
+    "cache_read_input_tokens": 1916,
+    "cache_creation_input_tokens": 91
+  }
+}
