@@ -4,7 +4,7 @@ id: find-the-want-behind-the-should
 title: "Find the Want Behind the Should"
 aliases: ["locate the want under the should", "what do you actually want here", "translate the should", "the want behind it"]
 tags: ["moves", "shoulds", "wants", "coaching", "translation"]
-related: ["wants-over-shoulds", "the-want", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "i-should-be-doing-this", "impulse-to-should"]
+related: ["wants-over-shoulds", "the-want", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "i-should-be-doing-this", "impulse-to-should", "say-the-forbidden-want-out-loud", "money-as-surrogate"]
 sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should"]
 ---
 
@@ -58,6 +58,12 @@ A clean want feels expansive. The body opens. A should feels like compression. W
 ## What Comes Next
 
 Once the want is located, the work shifts to [[the-want]]: feel it as a feeling, not just as a target. Let the want deepen. The first want is often not the final want. See [[wants-deepen-as-you-follow-them]] and [[owning-the-want-dissolves-it]].
+
+## The Live Substitution Form
+
+A more active variant of this move is the substitution dialogue: instead of locating the want intellectually, have the person say the surface want out loud (or its shame-loaded form), then have them substitute progressively closer versions of the underlying want. See [[say-the-forbidden-want-out-loud]] for the full move. The substitution does the same work but engages the body directly. The structure is "Say: 'I want X.' What does X give you? Say: 'I want a shit ton of [substitute].'" Each substitution that lands more accurately produces an observable body shift.
+
+The find-the-want and the say-it-out-loud versions are not in competition. The find-the-want translation is faster and lighter, useful for shoulds that are not heavily shame-loaded. The say-it-out-loud version is more potent for wants that have been forbidden, where the body needs to hear itself voice the want for the dissolution to land.
 
 ## Tone
 

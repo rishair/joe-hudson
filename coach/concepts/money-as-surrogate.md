@@ -4,8 +4,8 @@ id: money-as-surrogate
 title: "Money as Surrogate"
 aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money", "money and spirituality as parallel surrogates", "money and awakening as the same projection", "the linkage with fame and status", "status as money surrogate", "fame as money surrogate", "the scorecard-swap pattern", "money to likes to notoriety is the same surrogate", "swapping scorecards doesn't change the surrogate"]
 tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection", "status", "spirituality", "scorecard"]
-related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money", "state-seeking", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange", "i-need-a-scorecard", "scorecard-keeping-as-identity-structure", "whats-the-scorecard-that-cant-be-taken-away"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2023-12-08_What's Your Scorecard? (Coaching Session)"]
+related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money", "state-seeking", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange", "i-need-a-scorecard", "scorecard-keeping-as-identity-structure", "whats-the-scorecard-that-cant-be-taken-away", "say-the-forbidden-want-out-loud", "apologize-to-the-projected-object"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2023-12-08_What's Your Scorecard? (Coaching Session)", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe"]
 ---
 
 # Money as Surrogate
@@ -55,6 +55,26 @@ The next move is to separate what is actually wanted from money as one possible 
 "It's really important to be able to separate what you want from money, and money being only one avenue to get there." -- Joe Hudson, Money Can't Save You
 
 This is the money-domain version of [[find-the-want-behind-the-should]].
+
+## The Substitution Dialogue (How To Make the Surrogate Audible)
+
+A specific conversational form for working the surrogate live: have the person say the surface want out loud, then ask "what does money give you?", then have them say the substituted want with the new word in place of money. Repeat for each layer of the surrogate.
+
+The structure:
+
+- "Say out loud, 'I want a shit ton of money.'" The person says it. Notice what arrives in the body.
+- "What does money give you?" Person names it: "Freedom."
+- "So say, 'I want a shit ton of freedom.'" Person says it. The body responds differently.
+- "What else does money give you?" "The ability to feel safe."
+- "Say, 'I want a shit ton of safety in my life.'"
+
+Each substitution moves the language one layer closer to the actual want. Often, by the second or third substitution, the prohibition that was on "wanting money" has collapsed, because the prohibition was on the surrogate, not on the actual want. Nobody refuses themselves freedom or safety the way they refused themselves money. The substitution makes that asymmetry impossible to ignore.
+
+The dialogue form does in conversation what [[money-as-surrogate]] does conceptually. The conceptual version requires the person to see the surrogate. The dialogue form lets the body see the surrogate by giving it a different word and watching what shifts. See [[say-the-forbidden-want-out-loud]] for the full move.
+
+The follow-up question is structural: "If we ask everybody in this group, do you want freedom and security, are they all selfish?" The question forces the person to recognize that the original moral judgment was on a phantom; what was actually wanted is what everyone wants, and is not selfish at all.
+
+After the substitution has done its work, the apology to the surrogate often follows naturally: "Sorry for making you the most important thing in my life." See [[apologize-to-the-projected-object]] for the full apology move. The apology lands the recognition into a relationship rather than leaving it as insight.
 
 ## The Reverse Form
 
@@ -168,3 +188,4 @@ This pairs with the broader question about faith objects: community satisfies th
 - 2023-07-07_Much Ado About Money (the status/fame/notoriety linkage, the awakening-as-parallel-surrogate framing, the "hurdle after hurdle" recognition)
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
 - 2023-12-08_What's Your Scorecard? (Coaching Session) — the scorecard-swap pattern; K's money-to-likes-to-notoriety pivot as the surrogate switching substrate while keeping the same function
+- 2024-01-05_What's Bad About Money? Coaching with Joe — the substitution dialogue form (money → freedom → safety) that makes the surrogate audible live; the apology to money for the projection placed on it; the surrogate as the mechanism by which the person was using money to avoid making the actual most important things (family, kids) the most important things

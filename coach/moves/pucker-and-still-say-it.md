@@ -4,8 +4,8 @@ id: pucker-and-still-say-it
 title: "Pucker and Still Say It (Risk the Attack to Say the Freeing Thing)"
 aliases: ["pucker and still say it", "say the uncomfortable thing", "risk the attack for their freedom", "the puckering coach", "the I-pucker-when-I-say-this move", "saying things that might get you attacked", "the freedom-is-on-the-line move", "the deeply fucking uncomfortable thing move", "rapid-fire coaching honesty", "follow the call into discomfort in coaching", "shake-the-nervous-system move"]
 tags: ["move", "coaching", "humility", "courage", "calling", "facilitation", "risk"]
-related: ["humility", "enjoyment-as-surrender", "love-vs-nice", "say-the-thing-youre-not-saying", "conflict-avoidance-prevents-healing", "i-dont-buy-your-story", "receive-the-projection-and-let-it-move-through", "agree-when-challenged-on-the-teaching"]
-sources: ["2023-10-18_Humility"]
+related: ["humility", "enjoyment-as-surrender", "love-vs-nice", "say-the-thing-youre-not-saying", "conflict-avoidance-prevents-healing", "i-dont-buy-your-story", "receive-the-projection-and-let-it-move-through", "agree-when-challenged-on-the-teaching", "listening-to-impulse", "rapid-fire-coaching-impulse-check", "training-coaches-and-facilitators"]
+sources: ["2023-10-18_Humility", "2024-01-09_Coaching As A Practice"]
 ---
 
 # Pucker and Still Say It
@@ -15,6 +15,10 @@ sources: ["2023-10-18_Humility"]
 In live coaching, the freeing thing is often the thing that risks attack. The client may judge you, accuse you of treating them poorly, retaliate in their own way. The move is to feel the body's pucker at the prospect of saying the thing, and to say the thing anyway because their potential freedom is on the line.
 
 The move is not about being harsh, blunt, or contrarian for its own sake. It is about following the call to say what would free them, with full somatic awareness of the risk you are taking. The pucker is the body acknowledging the risk. The saying is the move. Both are present.
+
+A second framing of the same move, from the coach-training context: listening to the internal call moment-to-moment, even when the mind says do not say that. The detection signature is the "holy shit, am I about to say that?" recognition. The recognition is the green light, not the red light. The mind argues against it. The internal call points at it. The move is to follow the call.
+
+"It's a very rare coaching session where there's some point where I'm just like, holy shit, am I about to say that? And then I say it. And usually those are some of the best things to say." -- Joe Hudson, Coaching as a Practice
 
 "In my rapid-fire coaching, I will say some deeply fucking uncomfortable things to people because it's their potential freedom that's on the line. And when I do that, I'm taking a risk. I often pucker when I say those things because, oh, I'm inviting a potential attack. I'm inviting potentially somebody to judge me, or to say that I've treated them poorly, or whatever it is. And it seems to work out most of the time, not all the time, but it seems to work out most of the time for the benefit of others." -- Joe Hudson, Humility Q&A
 
@@ -54,6 +58,16 @@ A third condition: the coach has to have a real read on the person. Saying uncom
 Joe's specific somatic detail: the pucker. The body tightens at the anus, the breath catches, there is a small full-body brace. This is the body acknowledging that something risky is about to happen. The signature is involuntary and reliable.
 
 The skilled version of the move uses the pucker as a green light, not a red light. The pucker says "this is the thing." The choice is to say it anyway. The pucker does not disappear with practice. It is still present after decades. The relationship to the pucker is what changes -- it becomes a signal to proceed, not a signal to retreat.
+
+## The Cognitive Signature: "Holy Shit, Am I About To Say That?"
+
+Alongside the somatic pucker, there is a cognitive signature: the moment of "holy shit, am I about to say that?" The thought arises in the gap between the impulse to say the thing and the actual saying. The thought is the mind's version of the pucker -- it registers the risk in language. The skilled move uses the thought the same way: as a green light. The thought says "this is the thing." The saying is the choice.
+
+"It's a very rare coaching session where there's some point where I'm just like, holy shit, am I about to say that? And then I say it. And usually those are some of the best things to say." -- Joe Hudson, Coaching as a Practice
+
+The detail to notice: "usually those are some of the best things to say." The "holy shit" moment is, statistically across many sessions, the location of the most freeing moves. Not the pre-planned moves, not the safe moves, not the moves the coach is comfortable with. The moves that surprise the coach themselves. This is the operational form of [[listening-to-impulse]] applied specifically to coaching speech.
+
+The cognitive signature and the somatic signature usually arise together. Both are reading the same risk. Either one can be the reliable green-light cue depending on the coach's primary mode of internal information.
 
 ## When to Use This Move
 
@@ -113,3 +127,4 @@ Joe describes this with a mixture of seriousness and lightness. The seriousness 
 ## Sources
 
 - 2023-10-18_Humility (the explicit framing: "I will say some deeply fucking uncomfortable things to people because it's their potential freedom that's on the line... I often pucker when I say those things")
+- 2024-01-09_Coaching As A Practice (the "holy shit, am I about to say that" cognitive signature; "usually those are some of the best things to say"; framed in the context of one of the four foundational ingredients for coaches in training: listening to the internal call moment-to-moment)

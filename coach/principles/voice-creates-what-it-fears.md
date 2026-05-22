@@ -5,7 +5,7 @@ title: "The Voice in the Head Creates the Reality It's Trying to Avoid"
 aliases: ["voice creates what it fears", "the voice produces what it warns against", "perfectionist voice prevents quality", "voice's self-defeating nature", "the voice causes the thing it's preventing"]
 tags: ["voice in head", "self-fulfilling", "perfectionism", "principle", "paradox"]
 related: ["voice-in-the-head", "perfectionism", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "rebellion-or-submission-to-should", "voice-as-care"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-12-29_Fear Of Overworking"]
 ---
 
 # The Voice in the Head Creates the Reality It's Trying to Avoid
@@ -31,6 +31,12 @@ The rehearsal case: the voice says "you have to get this conversation right" and
 The relational case: the voice says "don't say anything that will make them leave." The careful self-monitoring registers as distance to the other person. The distance creates the disconnection the voice was trying to prevent.
 
 The shame spiral case: the voice criticizes a past action to prevent it from happening again. The criticism produces shame. Shame is the actual mechanism that holds bad habits in place. The voice trying to prevent the bad habit has supplied the fuel that maintains it. See [[shame-drives-behavior]].
+
+The reversion-fear case: a person takes a bold action that breaks an old pattern (quits the overworking job, leaves the bad relationship, sets the boundary). Immediately the voice starts worrying: "what if I revert?" The worry is not separate from the pattern. The worry is the pattern. The overworker overworks because they live in future-anxiety. The voice now warning about future reversion is operating in the exact tense and the exact anxiety-mode that produced the overworking in the first place. The voice trying to prevent the relapse is doing the relapse live. See [[im-afraid-ill-revert-to-my-old-pattern]] and [[quit-hope-lose-cycle]]. The recognition that lands this is felt rather than intellectual:
+
+> "This pattern of worrying about your what you're going to do in the future — how much of that pattern is the thing that made you overwork?" -- Joe Hudson, Fear Of Overworking
+
+The client's response: "A thousand percent. Oh, that just hit like a ton of bricks." The voice was the thing it was warning against. The seeing of that is the break in the loop.
 
 ## Why This Happens
 

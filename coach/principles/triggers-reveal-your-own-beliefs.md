@@ -70,6 +70,18 @@ Examples:
 
 The belief is often the more uncomfortable thing to look at than the original trigger. That is the sign you have found it.
 
+## The "Horrible Fucking Father" Example
+
+The same principle stated from the inverse: if there is no belief inside you for the accusation to attach to, you do not need to defend. The defense itself is the diagnostic of the belief.
+
+"If somebody said to me, you know, 'you're a horrible fucking father,' that would not create shame in me. There's nothing in me that feels like, 'Oh, I'm a horrible fucking father,' right? So, that wouldn't create shame in me. But if somebody said something that actually would trigger me, then something that I actually believed about myself, then there would be this need to defend myself typically. So, the important thing there is that if you actually believe the thing, then you'll think you need to defend it. If you don't believe it, you won't need to defend it." -- Joe Hudson, The Shame Hot Potato
+
+The example also makes visible what is going on inside relational fights specifically. In a [[shame-hot-potato]], each throw lands because each person believes, at some level, the accusation being thrown at them. The fight is not really between the two people. It is between each person and the part of themselves that agrees with the other person. Working the belief is what dissolves the trigger; arguing the surface claim does not.
+
+A subtler form Brett raises: belief and bothered-ness are not identical. You can believe something and not be triggered by it because you do not care about it. Brett's example: "I could believe I'm a horrible violin player and if I'm at my first violin lesson, I'll be like, yeah, great, I'm a horrible violin player. I'm not going to defend that." The triggering threshold requires both holding the belief and caring about being good at the thing the belief is about. The trigger thus reveals not just a belief but a place where the belief touches something the person cares about — usually identity-relevant material.
+
+The combination of "I believe this" plus "this matters to me" is what makes the trigger a useful entry point into identity work. The trigger is showing you both a belief and a value at the same time.
+
 ## Why This Makes Triggers Productive
 
 Without this principle, a trigger is just suffering with extra steps. With this principle, every trigger is offering: here is one of the beliefs that runs your life. Want to see it?
@@ -117,3 +129,4 @@ Joe delivers this with the energy of a useful discovery rather than a confrontat
 ## Sources
 
 - 2022-09-30_Triggered
+- 2023-12-22_The Shame Hot Potato (the "horrible fucking father" example showing the principle in the relational form; Brett's "horrible violin player" distinction between belief-held and trigger-active)

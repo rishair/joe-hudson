@@ -4,8 +4,8 @@ id: identity-lags-behind-growth
 title: "Identity Lags Behind Your Actual Growth"
 aliases: ["identity lags behind growth", "your identity is behind your actual capacity", "you have already grown more than you think", "the gap between actual capacity and self-image", "your self-image is behind your real capability", "the lag between growth and identity", "growth happens before you see it", "you have grown but your story hasn't caught up", "the always-already grown principle", "internal stability was always there", "self-trust was always there", "the work was already happening", "you've been playing this game your whole life", "your wife would tell you you've always done it", "the witness sees what the self-image doesn't", "the new scorecard turns out to be a lifetime practice", "the orientation has been there the whole time"]
 tags: ["identity", "growth", "limiting beliefs", "self-trust", "stability", "principle"]
-related: ["limiting-belief", "knowing-yourself-is-the-only-safety", "epiphany-vs-transformation", "stages-of-emotional-development", "wants-deepen-as-you-follow-them", "self-realization", "trust-as-multifaceted", "ask-the-witnesses", "whats-the-scorecard-that-cant-be-taken-away", "scorecard-keeping-as-identity-structure"]
-sources: ["2022-11-11_But... Is It Safe?", "2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business", "2023-12-08_What's Your Scorecard? (Coaching Session)"]
+related: ["limiting-belief", "knowing-yourself-is-the-only-safety", "epiphany-vs-transformation", "stages-of-emotional-development", "wants-deepen-as-you-follow-them", "self-realization", "trust-as-multifaceted", "ask-the-witnesses", "whats-the-scorecard-that-cant-be-taken-away", "scorecard-keeping-as-identity-structure", "point-at-the-present-evidence", "quit-hope-lose-cycle", "im-afraid-ill-revert-to-my-old-pattern"]
+sources: ["2022-11-11_But... Is It Safe?", "2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business", "2023-12-08_What's Your Scorecard? (Coaching Session)", "2023-12-29_Fear Of Overworking"]
 ---
 
 # Identity Lags Behind Your Actual Growth
@@ -96,6 +96,16 @@ There is a life-level lag: the person has navigated situations the identity woul
 
 Both forms are addressable by the same recognition: trust what you have actually done over what you tell yourself about who you are.
 
+## The Present-Tense Form of the Recognition
+
+The lag also shows up in real time: someone has just taken an action that demonstrates a capacity they fear they lack, and the identity refuses to count the action. The Fear Of Overworking session is canonical. The person quit a job without a plan to take care of themselves and immediately produced fear that they would not take care of themselves in the future. The action was already evidence. The identity was not letting the evidence count.
+
+> "You basically are telling me, I just quit a job without a plan because I wanted to take care of myself, and I'm afraid that I'm not going to take care of myself in the future. Like, you just did something to take care of yourself, and then the first reaction is, I'm scared I won't do this again in the future." -- Joe Hudson, Fear Of Overworking
+
+The mismatch between the action and the self-image is the lag, observed live. The coaching move at this stage is [[point-at-the-present-evidence]] — reflecting the just-taken action and the live conversation as evidence the identity is failing to incorporate.
+
+When the move lands, the person can sometimes name what is holding the lag in place. From the same session: "I once read that if you who you are is what you do, and how often you do something is kind of like a measure of how much of that person you are. And because I've only done it once and it took 4 years, that it's still not who I am in a way." The self-image has a threshold: enough instances of the behavior before the identity is willing to claim it. The lag will not close until the threshold is reached. Naming the threshold is the work; the identity can sometimes update once it sees the rule it was using.
+
 ## The Witness Form of the Recognition
 
 A specific way the lag gets surfaced: ask the people who have actually watched the person what they would say about the capacity in question. The witnesses see the capacity that the self-image hasn't admitted yet. See [[ask-the-witnesses]] for the move that operationalizes this.
@@ -135,3 +145,4 @@ This principle is delivered with calm. There is no urgency to convince. The reco
 - 2022-11-11_What is Safety? Applying Lessons From Extreme Sports to Life and Business (re-release of the But... Is It Safe? episode under a longer title)
 - 2023-12-08_What's Your Scorecard? (Coaching Session) — the witness-form of the recognition; K's self-trust orientation surfaced as a lifetime practice rather than a new project
 - 2023-12-08_What's Your Scorecard？ (Coaching Session) — alternate release of the same session including the podcast intro/outro framing
+- 2023-12-29_Fear Of Overworking — the present-tense form of the recognition: a person who has just taken a self-care action immediately fears they won't take care of themselves; the identity refuses to count the action; coaching reflects the just-taken action and the live conversation back as evidence; the client names a self-imposed threshold rule ("I've only done it once so it's not who I am yet") that explains why the identity won't update on a single instance

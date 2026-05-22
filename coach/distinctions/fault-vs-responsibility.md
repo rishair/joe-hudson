@@ -4,8 +4,8 @@ id: fault-vs-responsibility
 title: "Fault vs. Responsibility"
 aliases: ["it's not your fault, it's your responsibility", "what if it's not your fault, it's your responsibility", "fault and responsibility are different", "self-responsibility vs imposed responsibility", "blame vs ownership", "responsibility without fault", "carrying responsibility without shame"]
 tags: ["responsibility", "fault", "blame", "shame", "ownership", "empowerment", "leadership"]
-related: ["shame-drives-behavior", "patient-on-the-table", "empowered-vs-power", "self-realization", "wins-yours-failures-ours", "voice-in-the-head", "fear-triangle"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
+related: ["shame-drives-behavior", "patient-on-the-table", "empowered-vs-power", "self-realization", "wins-yours-failures-ours", "voice-in-the-head", "fear-triangle", "shame-hot-potato", "drop-the-hot-potato", "seeing-through-essential-wrongness", "non-defense-is-the-ocean", "upright-apology"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2023-12-22_The Shame Hot Potato"]
 ---
 
 # Fault vs. Responsibility
@@ -37,6 +37,20 @@ The distinction also has an internal version. The voice in your head can install
 - **Self-responsibility:** "I'm responsible for the outcomes in my life." The orientation is owned, not imposed. It does not require justification. It does not produce shame when violated.
 
 The same external situation can be carried either way. The carrier is the difference. The carrying matters more than the situation.
+
+## "The Buck Stops Here" as the Leadership Signature
+
+The clearest external sign of a leader living in the responsibility frame: the announced refusal to spend time on blame, paired with the announced ownership of the outcome. Truman's "the buck stops here" sign on the desk is the iconic example. The signature has two parts that have to be present together.
+
+**Part 1: Refuse the blame frame.** The leader explicitly takes the room out of the fault-assignment game. "We're not going to spend time figuring out who's to blame." This is not avoidance of accountability — it is redirection from a question that consumes energy without producing change to a question that does produce change.
+
+**Part 2: Take full responsibility without taking shame.** The leader claims the problem as their own without collapsing under it. "The whole thing is my responsibility. I'm the leader. Now, how are we going to fix it?" Full responsibility, zero shame. The combination is the signature.
+
+"You see great leaders do this all the time. They'll say like, oh, we're not going to spend any time figuring out who's to blame. We're going to figure out — we're going to spend time figuring out how to make sure this doesn't happen again, is the way that a leader would happen. Or another one would be a leader saying, the whole thing is my responsibility. I'm the leader. I take full responsibility. Now, how are we going to fix it? Like somebody who can show that I can take responsibility for this and I don't have to be ashamed in the taking of responsibility. I can be wrong. And I don't need to take on any kind of shame. That's another — that's the kind of leader we really want to follow." -- Joe Hudson, The Shame Hot Potato
+
+The two parts together are what break the team-level [[shame-hot-potato]]. A team stuck in mutual blame is the organizational form of the hot potato dynamic. The leader who refuses to play either side of the blame game and takes responsibility without shame is, in the team context, the one who drops the hot potato. The team usually follows. See [[drop-the-hot-potato]] and [[non-defense-is-the-ocean]] for the related stances.
+
+This is also the basis for [[seeing-through-essential-wrongness]]: the leader's ability to do this depends on having dissolved (or at least loosened) the belief that being responsible for a failure means being essentially bad.
 
 ## The "Wins Are Yours, Failures Are Ours" Principle
 
@@ -87,3 +101,4 @@ The distinction also does not mean apologies are wrong. An apology can come from
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
 - 2022-10-26_Jaime Waydo | Putting My Needs First
+- 2023-12-22_The Shame Hot Potato ("the buck stops here" as the leadership signature of the distinction; the two-part stance of refusing the blame frame while taking full responsibility without shame)

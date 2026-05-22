@@ -4,8 +4,8 @@ id: apologies-as-power-struggle-surrogate
 title: "Apologies as Power-Struggle Surrogate for Being Seen"
 aliases: ["apology as power struggle", "apology as surrogate for being seen", "winner and loser apology", "weak surrogate for being seen", "apology as sugar high", "the surrogate apology", "apology substitutes for acknowledgment", "apologies in power struggles", "the apology loser/winner frame"]
 tags: ["apology", "power-struggle", "being-seen", "relationships", "fights"]
-related: ["upright-apology", "forms-of-dysfunctional-apology", "apologize-to-exit-a-fight", "being-heard", "power-dynamics-as-two-defenders", "empowered-vs-power"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
+related: ["upright-apology", "forms-of-dysfunctional-apology", "apologize-to-exit-a-fight", "being-heard", "power-dynamics-as-two-defenders", "empowered-vs-power", "shame-hot-potato", "drop-the-hot-potato"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology", "2023-12-22_The Shame Hot Potato"]
 ---
 
 # Apologies as Power-Struggle Surrogate for Being Seen
@@ -43,6 +43,18 @@ The apology continues to feel intimate. The intimacy is no longer because it is 
 The cowering apology is "not as good of a feeling, but it's better than feeling like a loser. So people go for it." The asymmetric appeal is the trap. When the alternative is feeling like the loser in the power struggle, the cowering apology from the other person feels like a step up. But it is not actually feeding the want. It is keeping the fight alive in a new form.
 
 The way out is not to win more apologies. The way out is to step out of the power struggle and into a relationship where both people see themselves and each other. See [[upright-apology]] for the kind of apology that does feed the want, and [[being-heard]] for the underlying need.
+
+## Joe and Tara's "She's Always Right" Realization
+
+A concrete example of the move out of the surrogate-apology power struggle. Joe describes arriving at a stage in his marriage where he had to internalize the stance that Tara is, from her point of view, always right. The shift is not factual ("she actually is right") but perspectival ("her truth is right for her, and the project is to understand it"). Once that shift was in place, the conversation he was having with her stopped being the same conversation.
+
+"I remember this time in the marriage with Tara and I, marriage, where I had to come to the conclusion she's always right, that from her point of view she is right, her truth is right. It is something that I should seek to understand. Should is a strong word, but if I seek to understand how what she's saying is true for her, it is a completely different discussion than if I am trying to show her how she's mistaken." -- Joe Hudson, The Shame Hot Potato
+
+The two conversations are structurally different. "Showing her how she's mistaken" is the surrogate-apology power struggle in a different costume — the project is to install enough wrongness in her to extract acknowledgment. "Seeking to understand how what she's saying is true for her" is the exit move from that whole game. The conversation can be about what is actually happening for both people rather than about who's right.
+
+The move is the marriage-level form of [[drop-the-hot-potato]]. The power-struggle apology and the shame hot potato are different surface presentations of the same underlying dynamic. Both are dissolved by the same shift: refuse the win-or-lose frame, listen for what is actually true for the other person, ask actual questions, stay impartial.
+
+Brett's observation: "the latter does not work very well." The point is not just that the better strategy is more effective — the point is that the win-the-argument strategy is so ineffective that people repeat it only because it pays out the small sugar-high of relief described above, not because it ever produces what they actually want. The recognition that the strategy doesn't work is what makes the alternative available.
 
 ## When Someone Experiences This
 
@@ -87,3 +99,5 @@ Steady, clarifying. Not condemning either party. Both people in the dynamic are 
 ## Sources
 
 - 2022-06-24_The Upright Apology- Accountability Without Shame
+- 2022-10-26_The Upright Apology
+- 2023-12-22_The Shame Hot Potato (Joe's marriage realization that seeking-to-understand differs structurally from showing-her-she's-mistaken; the marriage-level exit from the power-struggle apology dynamic)

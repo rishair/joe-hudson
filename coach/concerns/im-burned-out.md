@@ -104,6 +104,7 @@ The most important read is whether the person is on the "running hard" side of t
 - [[i-should-be-doing-this]]: the should-language that fuels the burnout engine.
 - [[im-depressed]]: when the burnout has progressed into clinical-looking depression. The recovery from burnout often looks like depression. See [[nervous-system-recovery-after-stress]].
 - [[ive-lost-my-joy]]: the loss of pleasure in the work that often arrives mid-burnout.
+- [[im-afraid-ill-revert-to-my-old-pattern]]: the adjacent concern that often arrives after the person has already made a change to escape burnout (quit the job, taken the leave, drawn the boundary) and now fears they will undo it. The future-worry mode that produces the reversion-fear is often the same future-worry mode that produced the burnout in the first place.
 
 ## Sources
 

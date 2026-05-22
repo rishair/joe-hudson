@@ -2,9 +2,9 @@
 type: concern
 id: am-i-being-selfish
 title: "Am I being selfish? / I don't want to be selfish"
-aliases: ["I'm being selfish", "I don't want to be selfish", "am I selfish", "is this selfish", "I feel selfish for wanting this", "the selfishness worry", "the selfishness question", "I shouldn't be so selfish", "they said I was selfish", "selfish for wanting", "I felt like it was self-indulgent", "self-indulgent", "doing this work feels self-indulgent", "therapy feels self-indulgent", "I don't have time for this kind of self-focus"]
-tags: ["selfishness", "wants", "guilt", "shame", "childhood-programming", "self-indulgent"]
-sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2022-10-26_What Is Selfishness？"]
+aliases: ["I'm being selfish", "I don't want to be selfish", "am I selfish", "is this selfish", "I feel selfish for wanting this", "the selfishness worry", "the selfishness question", "I shouldn't be so selfish", "they said I was selfish", "selfish for wanting", "I felt like it was self-indulgent", "self-indulgent", "doing this work feels self-indulgent", "therapy feels self-indulgent", "I don't have time for this kind of self-focus", "any money makes me selfish", "having money is selfish", "wanting money is selfish", "wanting wealth is selfish", "it's selfish to have abundance", "selfish for wanting money"]
+tags: ["selfishness", "wants", "guilt", "shame", "childhood-programming", "self-indulgent", "money"]
+sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2022-10-26_What Is Selfishness？", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe"]
 ---
 
 # Am I being selfish? / I don't want to be selfish
@@ -36,6 +36,18 @@ This variant is especially common in women trained to derive worth from caretaki
 "I was extremely resistant... I felt like I don't have the time for this. I'm a mom, I'm working. I need to be spending time with my team and my family. And I know I don't need to dwell on all this stuff." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
 
 The recognition that often unlocks the work: the "self-indulgence" was itself the pattern. The aversion to feeling, framed as virtue, was the structure that needed to come down. Carla reports that on the other side, "I wasn't meeting people's needs at all. I wasn't validating their needs at all. I was just trying to fix it all the time." The thing that called itself selfless was the thing that prevented real contact.
+
+### The Money Variant: Any Amount Is Selfish
+
+A specific form of this concern attaches to money. The person may not moralize money out loud, may even be actively trying to grow their business, but holds a body-level belief that having money is selfish. The diagnostic that surfaces this version: ask "how much money would you have to have for you to think you're selfish?" The answer comes fast: "Any."
+
+That answer reveals the structure. The belief is not calibrated -- it does not say "more than $5 million makes you selfish" or "more than you need is selfish." Any amount above subsistence triggers the label. The belief is total. Which means it is operating at the body level, not the cognitive level, and is the actual restriction underneath whatever business or career constraint the person reports.
+
+"How much money do you have to be -- do you have to have for, um, you to think that you're selfish?" / "Any." / "Makes sense that you don't want any money then." -- Joe Hudson, What's Bad About Money? Coaching Session
+
+Joe's response -- "makes sense that you don't want any money then" -- is the move. He does not argue with the answer. He shows the person what the answer logically produces: if any amount is selfish, the system will subconsciously make sure they do not have any amount. The repulsion is doing the structural work.
+
+The work then proceeds by progressively dismantling the moral logic ("what's wrong with being lucky? With not having earned it? What's wrong with having $100 million?") and surfacing the surrogate ("what does money give you?"). See [[say-the-forbidden-want-out-loud]] and [[money-as-surrogate]]. The selfishness label was the cover. What was actually being avoided was usually the want underneath the money, often a want for safety, freedom, or being seen.
 
 ### The Leader/Mother Variant
 
@@ -114,3 +126,4 @@ This is why the coaching does not need to police the surface wants. The wants se
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
 - 2022-10-26_Jaime Waydo | Putting My Needs First (overlapping conversation with the 2022-01-28 episode, covering similar themes including the leader/mother variant)
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
+- 2024-01-05_What's Bad About Money? Coaching with Joe — the money sub-form of the concern; the "any amount makes me selfish" diagnostic and Joe's response "makes sense that you don't want any money then"; the work of dismantling the moral logic and substituting the surrogate to dissolve the prohibition

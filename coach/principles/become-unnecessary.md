@@ -2,10 +2,10 @@
 type: principle
 id: become-unnecessary
 title: "Become Unnecessary"
-aliases: ["the less involved I can be the better", "less needed the better", "becoming unnecessary as success", "a good teacher becomes unnecessary", "the math teacher test", "remove yourself from the equation", "make yourself replaceable", "necessary teacher trap"]
+aliases: ["the less involved I can be the better", "less needed the better", "becoming unnecessary as success", "a good teacher becomes unnecessary", "the math teacher test", "remove yourself from the equation", "make yourself replaceable", "necessary teacher trap", "design the platform to continue without you", "when I'm dead the work continues"]
 tags: ["teaching", "coaching", "business", "leadership", "cult dynamics", "scaling", "principle"]
-related: ["community-over-teacher", "dont-evangelize-the-work", "consciousness-is-the-product", "fixing-people", "integration", "childhood-imprinting", "structure-and-empowerment"]
-sources: ["2021-06-04_The Business Behind our Courses", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_The Business Behind Our Courses"]
+related: ["community-over-teacher", "dont-evangelize-the-work", "consciousness-is-the-product", "fixing-people", "integration", "childhood-imprinting", "structure-and-empowerment", "training-coaches-and-facilitators", "coach-personality-determines-style", "coaches-foundation-self-awareness"]
+sources: ["2021-06-04_The Business Behind our Courses", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_The Business Behind Our Courses", "2024-01-05_Coaching as a Practice"]
 ---
 
 # Become Unnecessary
@@ -73,6 +73,24 @@ When a coachee is the leader of an organization that creates transformation (a c
 
 The work is often at the level of the personal need to be needed, not at the level of the business structure. The structure follows from the stance.
 
+## The Design Goal: The Work Continues After You
+
+The principle has a long-horizon form: the design goal is that the work continues without you. Not just that students develop independence within their lifetimes; that the platform of practice continues to exist, evolve, and serve people after the teacher is no longer there.
+
+"When I'm done, when I'm like, okay, I'm out of here or dead or whatever the hell happens, that it just continues going. Maybe it doesn't go even with anything that I ever taught. Maybe the podcast is gone and the Connection Course is gone. Great. But there's this community that constantly changes and evolves and supports one another and feels grateful." -- Joe Hudson, Coaching as a Practice
+
+The key phrase: "maybe it doesn't go even with anything that I ever taught." The design goal is not the preservation of the teacher's content; it is the continuation of the community of practice. The specific frameworks may not survive. The lineage of orientation may. This is a much stronger version of the principle than "I don't need to be in every session." It is "the artifacts of my teaching are not the point; the community that the artifacts helped to seed is the point."
+
+The structural implication for the design: do not protect the artifacts. Do not gatekeep the frameworks. Do not insist on the specific tools being preserved. The community that develops its own tools from its own consciousness (see [[community-over-teacher]]) is the design goal. The continuity of the orientation through new expressions is what the design enables.
+
+This is the design-level form of [[coach-personality-determines-style]]: each coach develops their own expression, and across many coaches and many generations, the orientation propagates through expressions the teacher never produced. The teacher's job is to start the process, not to control its output.
+
+## The Selection Criterion Connects to the Principle
+
+A specific application of the principle in the design of the coach training: trainees are selected for their commitment to their own self-awareness, not for their commitment to coaching. The reasoning ties directly to becoming unnecessary. A trainee whose primary commitment is to be a coach is structurally invested in needing to be a coach -- in being needed, in being central, in being the source. A trainee whose primary commitment is to self-awareness is structurally available to coach in service of others' becoming unnecessary too.
+
+See [[coaches-foundation-self-awareness]] for the full version. The selection criterion is itself an expression of this principle: the lineage selects for the orientation that produces coaches who can become unnecessary, not for the orientation that produces coaches who need to be needed.
+
 ## Upstream (What Leads Here)
 
 - When a teacher or coach reports feeling burned out by the demand to be central
@@ -98,3 +116,4 @@ Plain, structural. Joe states this without moralizing. It is presented as a desi
 - 2021-06-04_The Business Behind our Courses
 - 2021-08-13_Seeing Through Family Dynamics
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
+- 2024-01-05_Coaching as a Practice (the design-goal-is-continuation-without-the-teacher passage; the selection-criterion form of the principle in the coach training)

@@ -89,6 +89,7 @@ Warm, curious, slightly playful. Not cross-examining. The energy is "I'm just cu
 - [[mirror-the-judgment]]: a related move for when the person is judging someone else and that judgment also applies to them.
 - [[not-sometimes-right-now]]: complementary in that both moves collapse the distance between the story and the lived reality.
 - [[whats-the-scorecard-that-cant-be-taken-away]]: the question this move often follows; together they install an internal substrate as the recognition of a lifetime practice rather than a new project.
+- [[point-at-the-present-evidence]]: the present-tense companion to this move. Where ask-the-witnesses summons third-party reports of long-standing capacity, point-at-the-present-evidence makes the person their own witness using what they have just done or are doing in the room. The two can be sequenced: witnesses first to establish that the capacity has been there all along, present-evidence second to make the current operating capacity undeniable.
 
 ## Related Principles
 

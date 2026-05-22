@@ -2,10 +2,10 @@
 type: concept
 id: conflict-avoidance-prevents-being-loved
 title: "Conflict Avoidance Prevents Being Loved (You Cannot Be Loved For What You Hide)"
-aliases: ["conflict avoidance prevents being loved", "you can't be loved for what you hide", "if you're conflict avoidant you can't be loved", "hiding from love through conflict avoidance", "scared of being loved drives conflict avoidance", "the truth-self gets the love", "if I'm not showing up in my truth nobody can love me", "the image gets the love not me", "the love-prevention mechanism of conflict avoidance", "scared of being seen and loved"]
+aliases: ["conflict avoidance prevents being loved", "you can't be loved for what you hide", "if you're conflict avoidant you can't be loved", "hiding from love through conflict avoidance", "scared of being loved drives conflict avoidance", "the truth-self gets the love", "if I'm not showing up in my truth nobody can love me", "the image gets the love not me", "the love-prevention mechanism of conflict avoidance", "scared of being seen and loved", "make the important thing something you have to earn", "push away what you most care about", "the important thing becomes something you have to earn", "earn the love-substitute to avoid being seen"]
 tags: ["conflict avoidance", "love", "being seen", "vulnerability", "authenticity", "hiding"]
-related: ["conflict-avoidance-prevents-healing", "shame-as-disconnection", "the-shame-avoidance-loop", "walking-on-eggshells", "vulnerability", "im-afraid-of-offending-people", "authenticity-reduces-shame", "what-we-fear-we-invite", "different-languages-of-love", "idea-of-self-vs-actual-self"]
-sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
+related: ["conflict-avoidance-prevents-healing", "shame-as-disconnection", "the-shame-avoidance-loop", "walking-on-eggshells", "vulnerability", "im-afraid-of-offending-people", "authenticity-reduces-shame", "what-we-fear-we-invite", "different-languages-of-love", "idea-of-self-vs-actual-self", "money-as-surrogate", "apologize-to-the-projected-object"]
+sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe"]
 ---
 
 # Conflict Avoidance Prevents Being Loved
@@ -84,6 +84,20 @@ This is a specific instance of [[what-we-fear-we-invite]] applied to love. The a
 
 The cleanest path out is the one [[what-we-fear-we-invite]] also names: feel the avoided emotion. In this case, the avoided emotion is the dissolution that being loved would produce. Feeling it through is the route.
 
+## The Substitution Form: Make the Important Thing Something You Have to Earn
+
+A specific variant of the love-avoidance mechanism: rather than rejecting love outright, the person installs a substitute as the "most important thing" -- usually money, achievement, status, recognition. The substitute is something that has to be earned, which gives the person a reason to be perpetually short of having it. The structure pushes away what is actually most important (often family, kids, the people the person loves) by relocating "most important" to a thing the person can never quite arrive at.
+
+The mechanism: whatever the person makes the most important thing in their life becomes something they have to earn, and therefore something they keep at arm's length. If the actual most important thing is the people they love, and being seen by those people is painful, the system protects against that pain by promoting a substitute (money, accomplishment) to the most-important-thing slot. The substitute then absorbs the energy, the time, the worry, and the structural sense of "I have to earn this." The actual important things get less attention because something else has been put in charge.
+
+"And because that being seen is painful, whatever the most important thing in your life is something that you make something that you have to earn and therefore push it away." -- Joe Hudson, What's Bad About Money? Coaching Session
+
+The form is symmetrical for any substitute. The person who has made the work the most important thing pushes away family by making work the thing to earn. The person who has made their appearance the most important thing pushes away intimacy by making appearance the thing to perfect. The substitute is portable. What stays constant is the function: keep the actual most important thing at a distance by promoting something else.
+
+The pivot question, once this is seen: "What's really the most important thing in your life?" The person names it (family, children, the people they love). The question lands because, by the time it is asked, the substitute has been seen as a substitute. The actual most important thing can come into view because the projection that was hiding it has been addressed.
+
+See [[apologize-to-the-projected-object]] for the move that completes this work. The apology to the substitute (money, in this transcript) clears the projection, and the actual priorities surface naturally.
+
 ## Upstream (What Leads Here)
 
 - When someone is in a relationship that has gone flat and they cannot identify why
@@ -109,3 +123,4 @@ Quietly devastating when delivered well. Joe names this without dramatizing it. 
 ## Sources
 
 - 2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement
+- 2024-01-05_What's Bad About Money? Coaching with Joe — the substitution form of the same mechanism: making the actual most important thing into something you have to earn, with money serving as the substitute that absorbs the worry while keeping the actual important things at a distance

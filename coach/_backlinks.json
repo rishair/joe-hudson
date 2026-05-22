@@ -1,12 +1,48 @@
 {
+  "say-the-forbidden-want-out-loud": [
+    "am-i-being-selfish",
+    "money-is-bad",
+    "any-amount-answer-as-total-installation",
+    "money-as-surrogate",
+    "apologize-to-the-projected-object",
+    "find-the-want-behind-the-should"
+  ],
+  "money-as-surrogate": [
+    "am-i-being-selfish",
+    "i-have-to-X-to-be-free",
+    "i-need-a-scorecard",
+    "if-i-had-more-money",
+    "money-is-bad",
+    "any-amount-answer-as-total-installation",
+    "scorecard-keeping-as-identity-structure",
+    "coaching-as-surrogate-intimacy",
+    "money-as-surrogate",
+    "money-is-impersonal",
+    "childhood-imprinting",
+    "same-scarcity-story-regardless-of-wealth",
+    "apologize-to-the-projected-object",
+    "say-the-forbidden-want-out-loud",
+    "external-freedom-vs-internal-freedom",
+    "resources-vs-resourcefulness",
+    "expensive-to-be-poor",
+    "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+    "integrity-as-money-compass",
+    "material-problems-are-emotional-problems",
+    "money-relationship-is-an-energetic-exchange",
+    "what-we-fear-we-invite",
+    "joes-pleasing-dad-money-story",
+    "money-domain"
+  ],
   "selfishness-is-the-engine-of-unity": [
     "am-i-being-selfish",
     "spiritual-narcissism",
     "expanding-sense-of-self",
     "the-want",
+    "say-the-forbidden-want-out-loud",
     "surface-the-assumed-dichotomy",
     "improvement-vs-authenticity",
     "enjoyment-as-surrender",
+    "own-your-narcissism",
     "wants-deepen-as-you-follow-them",
     "wants-over-shoulds",
     "what-is-truly-compassionate",
@@ -25,6 +61,7 @@
     "my-inner-critic-wont-stop",
     "i-turned-out-fine",
     "tell-the-unchanging-part-it-has-to-move",
+    "coaching-as-savior-role",
     "anxious-avoidant-dynamic",
     "fear-of-losing-yourself-in-love",
     "feeling-the-unfelt-emotion",
@@ -82,7 +119,8 @@
     "wanting-itself-not-what-you-want",
     "wants-change-as-you-change",
     "what-is-truly-compassionate",
-    "need-behind-the-want"
+    "need-behind-the-want",
+    "rapid-fire-coaching-impulse-check"
   ],
   "the-want": [
     "am-i-being-selfish",
@@ -164,6 +202,7 @@
     "rehearsing-how-to-say-it",
     "you-think-they-cant-handle-it",
     "what-would-happen-if-you-stopped",
+    "coaching-as-savior-role",
     "dont-comfort-the-mourner-from-your-own-discomfort",
     "weaponized-not-caretaking",
     "boundaries",
@@ -235,6 +274,7 @@
     "joy-of-accomplishment-is-the-absence-of-wants",
     "the-want",
     "find-the-want-behind-the-should",
+    "say-the-forbidden-want-out-loud",
     "wanting-vs-craving",
     "wants-vs-partiality",
     "craving-is-the-pushing-away",
@@ -245,14 +285,16 @@
     "wants-over-shoulds",
     "what-is-truly-compassionate",
     "feeling-the-want-as-emotion",
-    "need-behind-the-want"
+    "need-behind-the-want",
+    "rapid-fire-coaching-impulse-check"
   ],
   "need-behind-the-want": [
     "am-i-being-selfish",
     "if-i-were-inherently-good",
     "the-want",
     "selfishness-is-the-engine-of-unity",
-    "wants-deepen-as-you-follow-them"
+    "wants-deepen-as-you-follow-them",
+    "rapid-fire-coaching-impulse-check"
   ],
   "wants-over-shoulds": [
     "am-i-being-selfish",
@@ -306,11 +348,14 @@
     "humility-vs-disempowerment",
     "good-and-corruption-cycle",
     "heart-opening-needs-boundaries",
+    "non-defense-is-the-ocean",
+    "own-your-narcissism",
     "parenting-as-honest-mirror",
     "practice-cannot-fool-itself-in-real-conditions",
     "selfishness-is-the-engine-of-unity",
     "sincerity-is-the-prerequisite",
-    "what-is-truly-compassionate"
+    "what-is-truly-compassionate",
+    "training-coaches-and-facilitators"
   ],
   "dont-jump-to-compassion-before-anger": [
     "am-i-being-selfish",
@@ -466,6 +511,7 @@
     "enjoyment-as-surrender",
     "feared-stories-about-emotions-sense-something-real",
     "knowing-yourself-is-the-only-safety",
+    "non-defense-is-the-ocean",
     "peace-is-what-we-resist-the-most",
     "the-gold-lies-beyond-the-afraid",
     "what-we-fear-we-invite",
@@ -527,6 +573,7 @@
     "apologies-as-power-struggle-surrogate",
     "arms-of-the-cross-relationship",
     "binary-thinking-signals-fear",
+    "shame-hot-potato",
     "acknowledge-the-fear-by-role",
     "apologize-to-exit-a-fight",
     "ask-open-ended-non-judgmental-questions-when-triggered",
@@ -548,6 +595,7 @@
     "apologize-for-not-seeing-the-help",
     "apologize-for-trying-to-control",
     "apologize-to-exit-a-fight",
+    "apologize-to-the-projected-object",
     "receive-the-apology-permeably",
     "welcome-the-shame-without-extracting",
     "sorry-from-shame-vs-sorry-as-solidarity",
@@ -555,6 +603,8 @@
     "dont-shame-kids-they-self-shame",
     "dont-use-you-in-an-apology",
     "full-understanding-of-a-behavior-dissolves-it",
+    "non-defense-is-the-ocean",
+    "seeing-through-essential-wrongness",
     "apologize-as-daily-practice-for-bad-habits",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint"
   ],
@@ -564,6 +614,7 @@
     "i-need-to-improve-myself",
     "i-should-be-doing-this",
     "ill-become-lazy-without-shoulds",
+    "im-afraid-ill-revert-to-my-old-pattern",
     "im-afraid-of-stagnating",
     "my-inner-critic-wont-stop",
     "dont-extract-apologies",
@@ -583,7 +634,9 @@
     "negative-self-reinforcement",
     "perfectionism",
     "rebellion-or-submission-to-should",
+    "shame-hot-potato",
     "acknowledge-the-fear-by-role",
+    "state-no-wish-for-their-shame",
     "welcome-the-shame-without-extracting",
     "defense-vs-love",
     "empowered-vs-power",
@@ -602,6 +655,7 @@
     "inherent-goodness",
     "nervous-system-recovery-after-stress",
     "refuse-to-be-defined-by-the-worst-act",
+    "seeing-through-essential-wrongness",
     "unconscious-principles-run-your-life",
     "voice-creates-what-it-fears",
     "wants-over-shoulds",
@@ -619,13 +673,15 @@
     "apologies-as-power-struggle-surrogate",
     "upright-apology",
     "apologize-for-trying-to-control",
+    "drop-the-hot-potato",
     "sorry-from-shame-vs-sorry-as-solidarity",
     "dont-use-you-in-an-apology"
   ],
   "apologize-as-daily-practice-for-bad-habits": [
     "i-cant-apologize",
     "upright-apology",
-    "full-understanding-of-a-behavior-dissolves-it"
+    "full-understanding-of-a-behavior-dissolves-it",
+    "non-defense-is-the-ocean"
   ],
   "dont-use-you-in-an-apology": [
     "i-cant-apologize",
@@ -645,6 +701,7 @@
     "i-cant-find-love",
     "i-keep-chasing-emotionally-unavailable-people",
     "are-you-willing-to-do-the-work",
+    "coaching-as-surrogate-intimacy",
     "anxious-avoidant-dynamic",
     "love-misconceptions-inherited-from-childhood",
     "self-reliance-pushes-people-away",
@@ -732,6 +789,7 @@
   ],
   "transactional-relationships-as-defense": [
     "i-cant-find-love",
+    "coaching-as-surrogate-intimacy",
     "anxious-avoidant-dynamic",
     "push-pull-dynamics-in-dating"
   ],
@@ -745,6 +803,7 @@
   ],
   "whatever-you-think-you-need-to-be-lovable-is-self-rejection": [
     "i-cant-find-love",
+    "coaching-to-be-seen-as-wise",
     "anxious-avoidant-dynamic",
     "push-pull-dynamics-in-dating",
     "the-partner-checklist-doesnt-survive-the-actual-relationship",
@@ -984,6 +1043,7 @@
   ],
   "fixing-people": [
     "i-caretake-people",
+    "coaching-as-savior-role",
     "dont-evangelize-the-work",
     "dont-position-yourself-as-your-partners-growth-guide",
     "using-limiting-belief-frame-to-judge-others",
@@ -1033,7 +1093,9 @@
     "receive-the-apology-permeably",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "empathy-makes-you-better-at-hard-jobs",
-    "people-want-you-in-it-with-them-not-advice"
+    "people-want-you-in-it-with-them-not-advice",
+    "presence-over-technique-in-coaching",
+    "welcome-the-dumpster-fire-in-facilitation"
   ],
   "state-the-want-not-the-action": [
     "i-caretake-people",
@@ -1120,9 +1182,11 @@
     "i-dont-have-community",
     "i-need-a-scorecard",
     "im-exhausted-holding-space-for-my-partner",
+    "any-amount-answer-as-total-installation",
     "confidence-only-where-approval-isnt-needed",
     "chameleon-leadership",
     "just-be-yourself-and-see-what-happens",
+    "say-the-forbidden-want-out-loud",
     "selfishness-is-the-engine-of-unity",
     "need-behind-the-want"
   ],
@@ -1260,11 +1324,13 @@
     "i-dont-have-time-for-this",
     "i-have-to-sacrifice-to-succeed",
     "parenting-as-real-world-test-of-inner-work",
+    "coaches-foundation-self-awareness",
     "embrace-intensity",
     "practice-cannot-fool-itself-in-real-conditions",
     "ceo-big-house-market-cap-drop",
     "walmart-environmental-profitability",
-    "authenticity-in-business"
+    "authenticity-in-business",
+    "training-coaches-and-facilitators"
   ],
   "the-attack-and-cling-test-of-real-community": [
     "i-feel-lonely-i-cant-find-real-community",
@@ -1274,6 +1340,7 @@
     "i-feel-lonely-i-cant-find-real-community",
     "im-not-an-anxious-person",
     "what-are-you-defending",
+    "coaching-as-surrogate-intimacy",
     "dont-lean-into-conflict-from-defendedness",
     "dont-position-yourself-as-your-partners-growth-guide",
     "dont-step-on-the-signal",
@@ -1351,6 +1418,7 @@
     "apply-view-to-fear",
     "apply-view-to-the-voice",
     "ask-open-ended-non-judgmental-questions-when-triggered",
+    "drop-the-hot-potato",
     "wonder-vs-curiosity",
     "community-over-teacher",
     "connection-as-life-bottom-line",
@@ -1359,6 +1427,7 @@
     "follow-the-demand",
     "good-and-corruption-cycle",
     "people-want-you-in-it-with-them-not-advice",
+    "presence-over-technique-in-coaching",
     "process-over-result",
     "seeing-through-projections-expands-possibility",
     "stay-centered-while-holding-space",
@@ -1380,6 +1449,7 @@
     "i-need-to-set-boundaries",
     "does-saying-it-increase-your-love",
     "what-are-you-defending",
+    "coaching-as-savior-role",
     "dont-modify-behavior-to-exit-the-triangle",
     "dont-ping-pong-on-responsibility",
     "dont-use-boundaries-as-ultimatums",
@@ -1523,7 +1593,8 @@
     "what-if-they-did-see-you",
     "being-heard",
     "calibrate-the-threshold",
-    "mirror-the-judgment"
+    "mirror-the-judgment",
+    "say-the-forbidden-want-out-loud"
   ],
   "fight-or-roll-over-binary": [
     "i-freeze-around-authority",
@@ -1554,6 +1625,8 @@
     "connection-doesnt-require-the-other",
     "grieve-the-marriage-to-save-it",
     "love-requires-empowerment",
+    "non-defense-is-the-ocean",
+    "seeing-through-essential-wrongness",
     "feel-love-and-empowerment-as-the-same",
     "esme-just-need-to-be-sad",
     "gandhi-isnt-weak"
@@ -1638,6 +1711,7 @@
     "dont-ping-pong-on-responsibility",
     "creating-safety-suppresses-self",
     "have-partner-state-the-welcome-aloud",
+    "let-your-body-remember-this-moment",
     "strip-away-externals-thought-experiment",
     "what-does-your-heart-say",
     "visualizing-feared-outcomes"
@@ -1707,26 +1781,6 @@
     "where-you-are-is-the-lesson",
     "mandela-empowerment",
     "mandela-prison-freedom"
-  ],
-  "money-as-surrogate": [
-    "i-have-to-X-to-be-free",
-    "i-need-a-scorecard",
-    "if-i-had-more-money",
-    "money-is-bad",
-    "scorecard-keeping-as-identity-structure",
-    "money-is-impersonal",
-    "childhood-imprinting",
-    "same-scarcity-story-regardless-of-wealth",
-    "external-freedom-vs-internal-freedom",
-    "resources-vs-resourcefulness",
-    "expensive-to-be-poor",
-    "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
-    "integrity-as-money-compass",
-    "material-problems-are-emotional-problems",
-    "money-relationship-is-an-energetic-exchange",
-    "what-we-fear-we-invite",
-    "joes-pleasing-dad-money-story",
-    "money-domain"
   ],
   "improvement-vs-authenticity": [
     "i-have-to-X-to-be-free",
@@ -1819,6 +1873,7 @@
     "what-if-there-is-no-finish-line",
     "no-finish-line",
     "apply-enjoy-to-whats-here",
+    "point-at-the-present-evidence",
     "nothing-is-required-for-freedom",
     "where-you-are-is-the-lesson"
   ],
@@ -2042,6 +2097,7 @@
     "leaders-calm-becomes-the-teams-calm",
     "marketing-as-the-beginning",
     "money-relationship-is-an-energetic-exchange",
+    "presence-over-technique-in-coaching",
     "public-failure-as-leadership-modeling",
     "subway-kid",
     "walmart-environmental-profitability",
@@ -2078,6 +2134,7 @@
     "connection-over-perfection",
     "dont-shame-kids-they-self-shame",
     "nature-improves-itself",
+    "seeing-through-essential-wrongness",
     "shame-drives-behavior",
     "teach-teenagers-to-be-their-own-authority",
     "wants-over-shoulds",
@@ -2173,14 +2230,17 @@
     "negative-self-reinforcement",
     "pleasure-capacity",
     "rehearsing-conversations",
+    "shame-hot-potato",
     "the-attack-and-cling-test-of-real-community",
     "the-shame-avoidance-loop",
     "three-reasons-we-dont-see-limiting-beliefs",
     "three-signals-of-unfelt-emotion",
     "can-you-hang-out-with-it",
     "chase-it-around-the-room",
+    "drop-the-hot-potato",
     "find-the-emotion-under-self-judgment",
     "not-sometimes-right-now",
+    "state-no-wish-for-their-shame",
     "treat-yourself-as-actor-of-emotion",
     "trigger-the-shame-live",
     "welcome-the-shame-without-extracting",
@@ -2227,6 +2287,7 @@
     "mourn-the-breakup-fully",
     "negative-emotions-precede-positive",
     "owning-the-want-dissolves-it",
+    "seeing-through-essential-wrongness",
     "self-judgment-protects-from-emotion",
     "simplicity-on-the-other-side-of-complexity",
     "spaciousness-is-the-mechanism-of-belief-dissolution",
@@ -2275,6 +2336,7 @@
   "chase-it-around-the-room": [
     "i-keep-chasing-emotionally-unavailable-people",
     "anxious-avoidant-dynamic",
+    "let-your-body-remember-this-moment",
     "trigger-the-shame-live"
   ],
   "grief-as-gateway-to-self-love": [
@@ -2300,7 +2362,9 @@
     "what-is-it-without-resistance",
     "apply-enjoy-to-whats-here",
     "ask-the-witnesses",
+    "let-your-body-remember-this-moment",
     "lets-go-there",
+    "point-at-the-present-evidence",
     "question-the-caveat",
     "trigger-the-shame-live",
     "what-does-your-heart-say"
@@ -2320,6 +2384,7 @@
     "scorecard-keeping-as-identity-structure",
     "whats-the-scorecard-that-cant-be-taken-away",
     "soul-dysmorphia",
+    "point-at-the-present-evidence",
     "push-past-the-protective-frame",
     "strip-away-externals-thought-experiment",
     "identity-lags-behind-growth"
@@ -2337,6 +2402,7 @@
     "dont-go-after-every-emotion-at-once",
     "feel-your-way-to-freedom",
     "apply-enjoy-to-whats-here",
+    "let-your-body-remember-this-moment",
     "embracing-vs-creating-intensity",
     "trying-prevents-the-feeling",
     "unwelcomed-emotions-return-until-felt",
@@ -2433,6 +2499,7 @@
   ],
   "quit-hope-lose-cycle": [
     "i-keep-crashing-and-burning",
+    "im-afraid-ill-revert-to-my-old-pattern",
     "dont-cement-insight-as-identity",
     "dont-conflate-the-bliss-with-the-insight",
     "dont-forget-the-tool-when-things-feel-good",
@@ -2441,6 +2508,7 @@
     "undoing-not-doing",
     "epiphany-becomes-rut",
     "helplessness-is-the-gateway",
+    "voice-creates-what-it-fears",
     "wisdom-is-when-you-dont-have-to-remember",
     "move-the-body-to-integrate-insight",
     "pow-optimist"
@@ -2527,7 +2595,10 @@
     "addiction-to-shame",
     "everyone-is-pretending",
     "forms-of-dysfunctional-apology",
+    "shame-hot-potato",
     "the-shame-avoidance-loop",
+    "drop-the-hot-potato",
+    "state-no-wish-for-their-shame",
     "welcome-the-shame-without-extracting",
     "natural-shame-vs-installed-shame",
     "past-shame-vs-current-shame",
@@ -2536,6 +2607,7 @@
     "avoided-conflict-goes-internal",
     "conflict-avoidance-prevents-healing",
     "decisions-are-emotional",
+    "seeing-through-essential-wrongness",
     "shame-drives-behavior",
     "list-the-shames-you-avoided",
     "joes-laughing-meditation-retreat"
@@ -2678,6 +2750,7 @@
     "pucker-and-still-say-it",
     "push-past-the-protective-frame",
     "dont-buy-the-story-validate-the-emotion",
+    "coach-as-mirror-not-customer-service",
     "sincerity-is-the-prerequisite"
   ],
   "using-limiting-belief-frame-to-judge-others": [
@@ -2833,10 +2906,12 @@
   ],
   "identity-lags-behind-growth": [
     "i-need-a-scorecard",
+    "im-afraid-ill-revert-to-my-old-pattern",
     "scorecard-keeping-as-identity-structure",
     "whats-the-scorecard-that-cant-be-taken-away",
     "trust-as-multifaceted",
     "ask-the-witnesses",
+    "point-at-the-present-evidence",
     "knowing-yourself-is-the-only-safety",
     "brett-cape-town-napkins",
     "brett-slackline-metaphor"
@@ -2851,9 +2926,12 @@
   "i-have-to-X-to-be-free": [
     "i-need-a-scorecard",
     "if-i-had-more-money",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "any-amount-answer-as-total-installation",
     "scorecard-keeping-as-identity-structure",
     "what-do-you-think-you-need-to-be-free",
     "same-scarcity-story-regardless-of-wealth",
+    "say-the-forbidden-want-out-loud",
     "end-of-the-fight-is-the-freedom",
     "nothing-is-required-for-freedom",
     "what-we-fear-we-invite"
@@ -2867,6 +2945,7 @@
   ],
   "how-do-i-trust-myself": [
     "i-need-a-scorecard",
+    "im-afraid-ill-revert-to-my-old-pattern",
     "parts-work-made-things-worse",
     "am-i-doing-it-right",
     "intellectual-question-with-emotional-body",
@@ -2887,6 +2966,7 @@
     "money-is-impersonal",
     "poverty-mentality",
     "same-scarcity-story-regardless-of-wealth",
+    "say-the-forbidden-want-out-loud",
     "resources-vs-resourcefulness",
     "constraints-increase-creativity",
     "expensive-to-be-poor",
@@ -2995,9 +3075,11 @@
     "i-need-to-improve-myself",
     "i-should-be-doing-this",
     "if-i-had-more-money",
+    "im-afraid-ill-revert-to-my-old-pattern",
     "im-afraid-of-stagnating",
     "im-burned-out",
     "my-inner-critic-wont-stop",
+    "any-amount-answer-as-total-installation",
     "looking-for-whats-wrong",
     "joy-of-accomplishment-is-the-absence-of-wants",
     "urgency-as-motivation",
@@ -3111,10 +3193,13 @@
     "money-as-surrogate",
     "impulse-to-should",
     "rebellion-or-submission-to-should",
+    "apologize-to-the-projected-object",
     "i-dont-buy-your-story",
+    "say-the-forbidden-want-out-loud",
     "address-the-blocker-not-the-symptom",
     "wants-over-shoulds",
     "need-behind-the-want",
+    "rapid-fire-coaching-impulse-check",
     "should-vs-want-body-check",
     "joes-godson-vape-pen",
     "joes-pleasing-dad-money-story",
@@ -3160,8 +3245,10 @@
   ],
   "money-is-bad": [
     "if-i-had-more-money",
+    "any-amount-answer-as-total-installation",
     "money-as-surrogate",
     "money-is-impersonal",
+    "say-the-forbidden-want-out-loud",
     "expensive-to-be-poor",
     "money-domain"
   ],
@@ -3169,6 +3256,7 @@
     "if-i-had-more-money",
     "money-is-bad",
     "money-as-surrogate",
+    "apologize-to-the-projected-object",
     "happy-money-game",
     "expensive-to-be-poor",
     "hardening-means-personal",
@@ -3180,6 +3268,63 @@
     "spend-time-across-class-boundaries",
     "money-domain"
   ],
+  "im-burned-out": [
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "burnout-cycle",
+    "rest-is-an-accomplishment",
+    "adrenaline-discharge-via-fear-activity",
+    "post-rest-second-wind-trap",
+    "urgency-as-motivation",
+    "how-could-you-do-this-and-gain-energy",
+    "energy-management-over-time-management"
+  ],
+  "i-keep-crashing-and-burning": [
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "im-burned-out",
+    "im-not-an-anxious-person",
+    "desire-for-resolution",
+    "linguistic-caveat",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "adrenaline-discharge-via-fear-activity",
+    "urgency-as-motivation",
+    "nervous-system-recovery-after-stress",
+    "ceo-pajama-house-study"
+  ],
+  "i-keep-running-into-the-same-wall": [
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "can-you-hang-out-with-it",
+    "address-the-blocker-not-the-symptom",
+    "the-change-or-no-change-visualization"
+  ],
+  "voice-creates-what-it-fears": [
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "my-inner-critic-wont-stop",
+    "depression-four-levels",
+    "voice-in-the-head",
+    "perfectionism",
+    "quit-hope-lose-cycle",
+    "rehearsing-conversations",
+    "the-shame-avoidance-loop",
+    "point-at-the-present-evidence",
+    "symptoms-vs-root-causes-of-depression",
+    "fear-is-misuse-of-imagination"
+  ],
+  "point-at-the-present-evidence": [
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "quit-hope-lose-cycle",
+    "ask-the-witnesses",
+    "let-your-body-remember-this-moment",
+    "identity-lags-behind-growth"
+  ],
+  "find-the-emotion-under-self-judgment": [
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "the-arrogantly-humble-paradox",
+    "self-judgment-protects-from-emotion"
+  ],
+  "let-your-body-remember-this-moment": [
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "point-at-the-present-evidence"
+  ],
   "the-shame-avoidance-loop": [
     "im-afraid-of-offending-people",
     "im-not-an-anxious-person",
@@ -3188,12 +3333,14 @@
     "identity",
     "shame-as-disconnection",
     "shame-stagnates-emotion",
+    "shame-hot-potato",
     "fault-vs-responsibility",
     "natural-shame-vs-installed-shame",
     "past-shame-vs-current-shame",
     "sorry-from-shame-vs-sorry-as-solidarity",
     "authenticity-reduces-shame",
     "conflict-avoidance-prevents-healing",
+    "non-defense-is-the-ocean",
     "shame-drives-behavior",
     "list-the-shames-you-avoided",
     "patient-on-the-table"
@@ -3210,6 +3357,7 @@
   ],
   "calibrate-the-threshold": [
     "im-afraid-of-offending-people",
+    "any-amount-answer-as-total-installation",
     "press-the-button-thought-experiment"
   ],
   "trigger-the-shame-live": [
@@ -3235,6 +3383,7 @@
     "diagnose-the-meeting-live",
     "pucker-and-still-say-it",
     "avoided-conflict-goes-internal",
+    "coach-as-mirror-not-customer-service",
     "conflict-coming-to-you-means-youre-avoiding",
     "shame-drives-behavior",
     "trust-as-foundation-of-team-dysfunction",
@@ -3253,6 +3402,7 @@
     "trust-as-multifaceted",
     "chameleon-leadership",
     "loving-conflict-vs-wanting-conflict",
+    "coach-as-mirror-not-customer-service",
     "conflict-avoidance-prevents-healing",
     "conflict-coming-to-you-means-youre-avoiding",
     "dont-hate-your-kids-and-they-wont-hate-you",
@@ -3298,7 +3448,8 @@
     "humility",
     "humility-vs-disempowerment",
     "improvement-vs-authenticity",
-    "love-requires-empowerment"
+    "love-requires-empowerment",
+    "own-your-narcissism"
   ],
   "burnout-cycle": [
     "im-burned-out",
@@ -3373,21 +3524,16 @@
     "leaders-calm-becomes-the-teams-calm",
     "reducing-overwhelm-in-organizations"
   ],
-  "i-keep-crashing-and-burning": [
-    "im-burned-out",
-    "im-not-an-anxious-person",
-    "desire-for-resolution",
-    "linguistic-caveat",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "adrenaline-discharge-via-fear-activity",
-    "urgency-as-motivation",
-    "nervous-system-recovery-after-stress",
-    "ceo-pajama-house-study"
-  ],
   "im-depressed": [
     "im-burned-out",
     "soul-dysmorphia",
     "symptoms-of-depression"
+  ],
+  "im-afraid-ill-revert-to-my-old-pattern": [
+    "im-burned-out",
+    "quit-hope-lose-cycle",
+    "point-at-the-present-evidence",
+    "voice-creates-what-it-fears"
   ],
   "symptoms-of-depression": [
     "im-depressed",
@@ -3595,10 +3741,12 @@
   "send-the-message-that-youre-whole": [
     "im-depressed",
     "someone-i-love-has-mental-health-issues",
+    "coaching-as-savior-role",
     "community",
     "depression-four-levels",
     "agree-with-the-depression-dont-talk-them-out",
     "people-want-you-in-it-with-them-not-advice",
+    "presence-over-technique-in-coaching",
     "your-issue-is-the-communitys-issue",
     "community-grief-ceremony",
     "foot-washing-quaker",
@@ -3982,6 +4130,7 @@
     "resistance",
     "vulnerability",
     "wonder",
+    "drop-the-hot-potato",
     "follow-wonder-flag-the-deflection",
     "owning-your-partiality",
     "receive-the-projection-and-let-it-move-through",
@@ -4001,6 +4150,7 @@
     "inherent-goodness",
     "leaders-calm-becomes-the-teams-calm",
     "nothing-is-wrong-with-it-its-just-painful",
+    "presence-over-technique-in-coaching",
     "process-over-result",
     "right-question-over-right-answer",
     "seeing-others-clearly-requires-not-looking-for-yourself",
@@ -4052,6 +4202,13 @@
     "three-ways-to-fire-someone",
     "money-domain"
   ],
+  "apologize-to-the-projected-object": [
+    "money-is-bad",
+    "any-amount-answer-as-total-installation",
+    "conflict-avoidance-prevents-being-loved",
+    "money-as-surrogate",
+    "say-the-forbidden-want-out-loud"
+  ],
   "money-domain": [
     "money-is-bad",
     "money-must-flow"
@@ -4081,16 +4238,6 @@
     "experimenting-with-the-voice",
     "i-exist-affirmation-against-collapse",
     "lawyer-the-voice"
-  ],
-  "voice-creates-what-it-fears": [
-    "my-inner-critic-wont-stop",
-    "depression-four-levels",
-    "voice-in-the-head",
-    "perfectionism",
-    "rehearsing-conversations",
-    "the-shame-avoidance-loop",
-    "symptoms-vs-root-causes-of-depression",
-    "fear-is-misuse-of-imagination"
   ],
   "apply-view-to-the-voice": [
     "my-inner-critic-wont-stop",
@@ -4279,6 +4426,7 @@
   ],
   "never-rob-pain-or-gold": [
     "someone-i-love-has-mental-health-issues",
+    "coaching-as-savior-role",
     "dont-position-yourself-as-your-partners-growth-guide",
     "push-past-the-protective-frame",
     "over-control-vs-hands-off-oscillation",
@@ -4296,6 +4444,7 @@
   "wonder": [
     "the-more-i-grow-the-more-alone-i-feel",
     "what-am-i",
+    "coaching-to-be-seen-as-wise",
     "dont-go-after-every-emotion-at-once",
     "dont-indulge-emotion-instead-of-welcoming",
     "dont-try-to-change-your-partner",
@@ -4318,7 +4467,9 @@
     "lead-and-follow",
     "body-lies-as-much-as-mind",
     "choosing-the-projection-that-serves",
+    "coach-as-mirror-not-customer-service",
     "follow-the-demand",
+    "presence-over-technique-in-coaching",
     "principles-free-you",
     "process-over-result",
     "right-question-over-right-answer",
@@ -4407,6 +4558,7 @@
     "trigger",
     "walking-on-eggshells",
     "ask-open-ended-non-judgmental-questions-when-triggered",
+    "drop-the-hot-potato",
     "pucker-and-still-say-it",
     "reflect-back-to-make-partner-feel-heard",
     "intra-dependent-vs-codependent",
@@ -4415,6 +4567,31 @@
     "avoided-conflict-goes-internal",
     "do-the-work-thats-harder-for-you",
     "weekly-tension-inventory"
+  ],
+  "shame-hot-potato": [
+    "we-have-built-up-resentment",
+    "shame-stagnates-emotion",
+    "the-shame-avoidance-loop",
+    "drop-the-hot-potato",
+    "state-no-wish-for-their-shame",
+    "fault-vs-responsibility",
+    "non-defense-is-the-ocean",
+    "seeing-through-essential-wrongness",
+    "triggers-reveal-your-own-beliefs"
+  ],
+  "drop-the-hot-potato": [
+    "we-have-built-up-resentment",
+    "apologies-as-power-struggle-surrogate",
+    "shame-hot-potato",
+    "the-shame-avoidance-loop",
+    "state-no-wish-for-their-shame",
+    "fault-vs-responsibility",
+    "non-defense-is-the-ocean"
+  ],
+  "state-no-wish-for-their-shame": [
+    "we-have-built-up-resentment",
+    "shame-hot-potato",
+    "drop-the-hot-potato"
   ],
   "weekly-tension-inventory": [
     "we-have-built-up-resentment",
@@ -4553,6 +4730,7 @@
     "absence-of-resistance-to-the-suck",
     "integration",
     "late-stage-reversion",
+    "let-your-body-remember-this-moment",
     "mind-unsees-first-body-last",
     "process-over-result",
     "simplicity-on-the-other-side-of-complexity",
@@ -4710,10 +4888,12 @@
   ],
   "the-arrogantly-humble-paradox": [
     "humility-in-the-system",
+    "coaching-to-be-seen-as-wise",
     "humility",
     "identity",
     "humility-vs-disempowerment",
     "nothing-is-wrong-with-it-its-just-painful",
+    "own-your-narcissism",
     "surround-yourself-with-people-who-make-fun-of-you",
     "the-fu-joe-handle"
   ],
@@ -4739,7 +4919,9 @@
     "humility-vs-disempowerment",
     "the-arrogantly-humble-paradox",
     "enjoyment-as-surrender",
+    "non-defense-is-the-ocean",
     "nothing-is-wrong-with-it-its-just-painful",
+    "own-your-narcissism",
     "feel-love-and-empowerment-as-the-same",
     "surround-yourself-with-people-who-make-fun-of-you",
     "the-fu-joe-handle"
@@ -4750,6 +4932,7 @@
     "let-it-move-through-and-clean-the-channel",
     "the-arrogantly-humble-paradox",
     "enjoyment-as-surrender",
+    "own-your-narcissism",
     "feel-love-and-empowerment-as-the-same"
   ],
   "the-pattern-is-not-personal": [
@@ -4855,6 +5038,7 @@
   ],
   "hold-the-memory-of-when-you-felt-it-most": [
     "manufacturing-the-feeling",
+    "let-your-body-remember-this-moment",
     "trying-prevents-the-feeling",
     "unwelcomed-emotions-return-until-felt",
     "5-second-spice-check"
@@ -4895,6 +5079,7 @@
     "nostalgic-claw-for-old-identity",
     "dont-cement-insight-as-identity",
     "dont-identify-as-awakened",
+    "coach-personality-determines-style",
     "expanding-sense-of-self",
     "grief-as-identity-dismantling",
     "humility",
@@ -5014,6 +5199,7 @@
     "the-built-up-resentment-story",
     "conflict-avoidance-prevents-being-loved",
     "push-pull-dynamics-in-dating",
+    "shame-hot-potato",
     "love-means-signing-up-to-be-hurt",
     "take-care-of-yourself-then-marriage-then-kids",
     "joe-and-tara-weekend-reset"
@@ -5153,6 +5339,7 @@
     "connection-doesnt-require-the-other",
     "friction-is-required-for-life",
     "heart-opening-needs-boundaries",
+    "non-defense-is-the-ocean",
     "resentment-as-unspoken-want",
     "subjugation-prevents-healing",
     "gandhi-isnt-weak",
@@ -5174,6 +5361,7 @@
     "how-do-you-want-to-be",
     "opposite-of-trying",
     "the-want",
+    "pucker-and-still-say-it",
     "enjoy-over-manage",
     "improvement-vs-authenticity",
     "letting-go-vs-doing-nothing",
@@ -5186,7 +5374,8 @@
     "dont-improve-for-two-weeks",
     "butchers-blade",
     "joes-calling-to-have-kids",
-    "joes-hacky-sack"
+    "joes-hacky-sack",
+    "training-coaches-and-facilitators"
   ],
   "should-vs-want-body-check": [
     "how-do-you-want-to-be",
@@ -5233,9 +5422,11 @@
     "dont-evangelize-the-work",
     "being-heard",
     "wonder",
+    "drop-the-hot-potato",
     "how-could-you-do-this-and-gain-energy",
     "name-your-trigger-as-vulnerability",
     "community-over-teacher",
+    "presence-over-technique-in-coaching",
     "eye-contact-as-view-training",
     "view"
   ],
@@ -5301,6 +5492,7 @@
     "grieve-the-marriage-to-save-it",
     "hardening-means-personal",
     "love-requires-empowerment",
+    "non-defense-is-the-ocean",
     "joes-board-member",
     "joes-weeping-at-superficial-conversations"
   ],
@@ -5336,6 +5528,7 @@
   ],
   "caretaking-prevents-the-bottom": [
     "what-would-happen-if-you-stopped",
+    "coaching-as-savior-role",
     "dont-make-self-discovery-entertainment",
     "welcome-the-shame-without-extracting",
     "over-control-vs-hands-off-oscillation",
@@ -5373,6 +5566,7 @@
     "hire-by-dream-job",
     "meet-resistance-with-okay",
     "state-the-want-not-the-action",
+    "coach-as-mirror-not-customer-service",
     "management-required-to-launch-predicts-management-required-forever",
     "sincerity-is-the-prerequisite",
     "the-clients-wisdom-not-the-teachers",
@@ -5515,6 +5709,60 @@
     "joes-pancake-anger-story",
     "anger-and-politics"
   ],
+  "the-clients-wisdom-not-the-teachers": [
+    "coaching-as-savior-role",
+    "coaching-to-be-seen-as-wise",
+    "dont-position-yourself-as-your-partners-growth-guide",
+    "coach-personality-determines-style",
+    "definition-of-asshole",
+    "downward-spiral-between-teacher-and-students",
+    "agree-when-challenged-on-the-teaching",
+    "receive-the-projection-and-let-it-move-through",
+    "identification-with-the-teaching",
+    "coach-as-mirror-not-customer-service",
+    "coaches-foundation-self-awareness",
+    "never-rob-pain-or-gold",
+    "presence-over-technique-in-coaching",
+    "seeing-through-projections-expands-possibility",
+    "sincerity-is-the-prerequisite",
+    "teach-teenagers-to-be-their-own-authority",
+    "the-clients-wisdom-not-the-teachers",
+    "unwelcomed-emotions-return-until-felt",
+    "welcome-the-dumpster-fire-in-facilitation",
+    "where-you-are-is-the-lesson",
+    "red-flags-of-a-teacher-or-path",
+    "esme-step-by-step-project",
+    "joes-no-compliments-daughter",
+    "training-coaches-and-facilitators"
+  ],
+  "love-means-signing-up-to-be-hurt": [
+    "coaching-as-surrogate-intimacy",
+    "fear-of-losing-yourself-in-love",
+    "gandhi-isnt-weak"
+  ],
+  "downward-spiral-between-teacher-and-students": [
+    "coaching-to-be-seen-as-wise",
+    "humility",
+    "receive-the-projection-and-let-it-move-through",
+    "visualize-the-reality-of-leadership",
+    "own-your-narcissism",
+    "surround-yourself-with-people-who-make-fun-of-you",
+    "red-flags-of-a-teacher-or-path",
+    "the-fu-joe-handle",
+    "training-coaches-and-facilitators"
+  ],
+  "coaching-as-savior-role": [
+    "coaching-to-be-seen-as-wise",
+    "coaches-foundation-self-awareness",
+    "rapid-fire-coaching-impulse-check",
+    "training-coaches-and-facilitators"
+  ],
+  "coaching-as-surrogate-intimacy": [
+    "coaching-to-be-seen-as-wise",
+    "coaches-foundation-self-awareness",
+    "rapid-fire-coaching-impulse-check",
+    "training-coaches-and-facilitators"
+  ],
   "say-yes-to-the-clients-experiment": [
     "dont-add-anyway-to-love",
     "shame-as-disconnection"
@@ -5523,10 +5771,14 @@
     "dont-add-the-overwhelm-of-creating-the-overwhelm",
     "using-limiting-belief-frame-to-judge-others",
     "upright-apology",
+    "shame-hot-potato",
     "team-feels-oppressed-not-accountable",
+    "drop-the-hot-potato",
     "adversity-as-for-not-against",
     "meaning-of-overwhelm-determines-direction",
+    "non-defense-is-the-ocean",
     "refuse-to-be-defined-by-the-worst-act",
+    "seeing-through-essential-wrongness",
     "patient-on-the-table"
   ],
   "emotion-can-move-without-a-story": [
@@ -5582,6 +5834,7 @@
   "move-the-body-to-integrate-insight": [
     "dont-cement-insight-as-identity",
     "integration",
+    "let-your-body-remember-this-moment",
     "wisdom-is-when-you-dont-have-to-remember"
   ],
   "wisdom-is-when-you-dont-have-to-remember|the willingness to eventually forget it": [
@@ -5675,6 +5928,7 @@
   ],
   "community-over-teacher": [
     "dont-evangelize-the-work",
+    "coach-personality-determines-style",
     "community",
     "container-of-love",
     "cult-of-one",
@@ -5686,6 +5940,7 @@
     "intra-dependent-vs-codependent",
     "surrender-to-ineffable-vs-person",
     "become-unnecessary",
+    "coaches-foundation-self-awareness",
     "dropping-roles-makes-room",
     "good-and-corruption-cycle",
     "subjugation-prevents-healing",
@@ -5694,7 +5949,8 @@
     "keeping-cult-dynamics-conscious",
     "surround-yourself-with-people-who-make-fun-of-you",
     "red-flags-of-a-teacher-or-path",
-    "finding-and-cultivating-community"
+    "finding-and-cultivating-community",
+    "training-coaches-and-facilitators"
   ],
   "good-and-corruption-cycle": [
     "dont-evangelize-the-work",
@@ -5876,24 +6132,6 @@
   "worthlessness-freedom": [
     "dont-position-yourself-as-your-partners-growth-guide"
   ],
-  "the-clients-wisdom-not-the-teachers": [
-    "dont-position-yourself-as-your-partners-growth-guide",
-    "definition-of-asshole",
-    "downward-spiral-between-teacher-and-students",
-    "agree-when-challenged-on-the-teaching",
-    "receive-the-projection-and-let-it-move-through",
-    "identification-with-the-teaching",
-    "never-rob-pain-or-gold",
-    "seeing-through-projections-expands-possibility",
-    "sincerity-is-the-prerequisite",
-    "teach-teenagers-to-be-their-own-authority",
-    "the-clients-wisdom-not-the-teachers",
-    "unwelcomed-emotions-return-until-felt",
-    "where-you-are-is-the-lesson",
-    "red-flags-of-a-teacher-or-path",
-    "esme-step-by-step-project",
-    "joes-no-compliments-daughter"
-  ],
   "what-you-cant-love-in-partner-is-what-you-cant-love-in-self": [
     "dont-position-yourself-as-your-partners-growth-guide",
     "dont-try-to-change-your-partner",
@@ -5997,6 +6235,8 @@
     "depression-four-levels",
     "shame-as-disconnection",
     "addiction-to-shame",
+    "shame-hot-potato",
+    "seeing-through-essential-wrongness",
     "shame-drives-behavior",
     "what-we-fear-we-invite",
     "list-the-shames-you-avoided",
@@ -6161,8 +6401,10 @@
     "apply-view-to-the-voice",
     "good-and-corruption-cycle",
     "marketing-as-the-beginning",
+    "presence-over-technique-in-coaching",
     "process-over-result",
-    "view"
+    "view",
+    "training-coaches-and-facilitators"
   ],
   "joes-first-meditation-retreat": [
     "state-seeking",
@@ -6287,6 +6529,7 @@
   "fear-of-self-destruction-by-anger": [
     "anger",
     "three-childhood-origins-of-anger-repression",
+    "say-the-forbidden-want-out-loud",
     "feared-stories-about-emotions-sense-something-real",
     "tell-the-body-its-safe",
     "three-reflection-questions-on-anger"
@@ -6316,6 +6559,7 @@
   ],
   "anger-and-politics": [
     "anger",
+    "shame-hot-potato",
     "get-angry-in-the-car"
   ],
   "head-heart-gut": [
@@ -6437,6 +6681,7 @@
     "public-truth-bomb",
     "pucker-and-still-say-it",
     "over-control-vs-hands-off-oscillation",
+    "coach-as-mirror-not-customer-service",
     "different-languages-of-love",
     "love-means-signing-up-to-be-hurt",
     "three-effects-of-connection",
@@ -6459,14 +6704,34 @@
     "caring-vs-caretaking",
     "humility-vs-disempowerment"
   ],
-  "im-burned-out": [
-    "burnout-cycle",
-    "rest-is-an-accomplishment",
-    "adrenaline-discharge-via-fear-activity",
-    "post-rest-second-wind-trap",
-    "urgency-as-motivation",
-    "how-could-you-do-this-and-gain-energy",
-    "energy-management-over-time-management"
+  "do-the-work-thats-harder-for-you": [
+    "coach-personality-determines-style",
+    "being-with-anothers-emotion-is-being-with-your-own-pain",
+    "welcome-the-dumpster-fire-in-facilitation"
+  ],
+  "presence-over-technique-in-coaching": [
+    "coach-personality-determines-style",
+    "coaches-foundation-self-awareness",
+    "welcome-the-dumpster-fire-in-facilitation",
+    "training-coaches-and-facilitators"
+  ],
+  "training-coaches-and-facilitators": [
+    "coach-personality-determines-style",
+    "coach-as-mirror-not-customer-service",
+    "coaches-foundation-self-awareness",
+    "own-your-narcissism",
+    "presence-over-technique-in-coaching",
+    "welcome-the-dumpster-fire-in-facilitation",
+    "rapid-fire-coaching-impulse-check"
+  ],
+  "coaches-foundation-self-awareness": [
+    "coach-personality-determines-style",
+    "become-unnecessary",
+    "coach-as-mirror-not-customer-service",
+    "own-your-narcissism",
+    "presence-over-technique-in-coaching",
+    "rapid-fire-coaching-impulse-check",
+    "training-coaches-and-facilitators"
   ],
   "container-of-love": [
     "community",
@@ -6667,6 +6932,7 @@
     "good-decision-is-how-you-make-it-not-the-outcome",
     "principles-free-you",
     "wanting-itself-not-what-you-want",
+    "welcome-the-dumpster-fire-in-facilitation",
     "wrestle-with-your-principles",
     "ask-from-slowness-not-intellect",
     "listening-to-impulse",
@@ -6852,10 +7118,6 @@
     "helplessness-is-the-gateway",
     "5-second-spice-check"
   ],
-  "love-means-signing-up-to-be-hurt": [
-    "fear-of-losing-yourself-in-love",
-    "gandhi-isnt-weak"
-  ],
   "loving-the-feeling-not-just-with-it": [
     "feel-your-way-to-freedom"
   ],
@@ -6943,6 +7205,7 @@
   "unprocessed-grief-creates-conflict": [
     "grief-as-identity-dismantling",
     "helplessness-distinguishes-death-grief",
+    "shame-stagnates-emotion",
     "without-grief-we-recreate-the-pattern",
     "your-pain-when-witnessed-heals-the-whole-community",
     "truth-and-reconciliation-south-africa",
@@ -6985,6 +7248,7 @@
   "refuse-to-be-defined-by-the-worst-act": [
     "humility",
     "identity",
+    "seeing-through-essential-wrongness",
     "the-pattern-is-not-personal",
     "emile-three-relationships-with-fear"
   ],
@@ -6995,14 +7259,6 @@
     "let-it-move-through-and-clean-the-channel",
     "welcome-the-shame-without-extracting",
     "sorry-from-shame-vs-sorry-as-solidarity"
-  ],
-  "downward-spiral-between-teacher-and-students": [
-    "humility",
-    "receive-the-projection-and-let-it-move-through",
-    "visualize-the-reality-of-leadership",
-    "surround-yourself-with-people-who-make-fun-of-you",
-    "red-flags-of-a-teacher-or-path",
-    "the-fu-joe-handle"
   ],
   "receive-the-projection-and-let-it-move-through": [
     "humility",
@@ -7020,10 +7276,13 @@
   "surround-yourself-with-people-who-make-fun-of-you": [
     "humility",
     "receive-the-projection-and-let-it-move-through",
+    "own-your-narcissism",
     "the-fu-joe-handle"
   ],
   "pucker-and-still-say-it": [
-    "humility"
+    "humility",
+    "coach-as-mirror-not-customer-service",
+    "training-coaches-and-facilitators"
   ],
   "trace-emotion-to-its-first-felt": [
     "i-cant-trust-my-thoughts-right-now",
@@ -7083,6 +7342,7 @@
   ],
   "wisdom-is-when-you-dont-have-to-remember": [
     "integration",
+    "let-your-body-remember-this-moment",
     "practice-cannot-fool-itself-in-real-conditions"
   ],
   "dont-cement-insight-as-identity|cement-into-identity": [
@@ -7114,6 +7374,7 @@
   "epiphany-vs-transformation": [
     "integration",
     "zen-sickness",
+    "let-your-body-remember-this-moment",
     "decisions-are-emotional",
     "embracing-intensity-as-leading-indicator",
     "identity-changes-on-three-levels",
@@ -7248,7 +7509,8 @@
   ],
   "flow-vs-managing-reality": [
     "opposite-of-trying",
-    "letting-go-vs-doing-nothing"
+    "letting-go-vs-doing-nothing",
+    "welcome-the-dumpster-fire-in-facilitation"
   ],
   "ask-from-slowness-not-intellect": [
     "overwhelm",
@@ -7264,6 +7526,7 @@
   ],
   "parenting-as-honest-mirror": [
     "parenting-as-deep-tissue-massage",
+    "coaches-foundation-self-awareness",
     "every-trigger-with-your-kid-is-projection",
     "kids-release-emotions-where-they-feel-safe",
     "kids-respond-to-emotional-presence-not-words",
@@ -7281,6 +7544,7 @@
     "dont-hate-your-kids-and-they-wont-hate-you",
     "kids-release-emotions-where-they-feel-safe",
     "people-want-you-in-it-with-them-not-advice",
+    "presence-over-technique-in-coaching",
     "esme-just-having-my-emotions",
     "una-grabbing-joes-face",
     "parenting-as-coaching-domain"
@@ -7350,6 +7614,7 @@
   ],
   "falling-in-love-with-projections": [
     "projections",
+    "apologize-to-the-projected-object",
     "mirror-the-judgment",
     "choosing-the-projection-that-serves",
     "seeing-through-projections-expands-possibility",
@@ -7386,6 +7651,7 @@
   "if-i-were-inherently-good": [
     "shame-as-disconnection",
     "inherent-goodness",
+    "seeing-through-essential-wrongness",
     "list-the-shames-you-avoided",
     "three-month-inherent-goodness-experiment"
   ],
@@ -7395,6 +7661,7 @@
   ],
   "blocker-emotions": [
     "shame-stagnates-emotion",
+    "drop-the-hot-potato",
     "negative-emotions-precede-positive",
     "what-we-fear-we-invite"
   ],
@@ -7469,6 +7736,7 @@
   ],
   "triggers-reveal-your-own-beliefs": [
     "trigger",
+    "shame-hot-potato",
     "ask-open-ended-non-judgmental-questions-when-triggered",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "every-trigger-with-your-kid-is-projection"
@@ -7637,6 +7905,7 @@
   ],
   "apologies-as-power-struggle-surrogate": [
     "forms-of-dysfunctional-apology",
+    "shame-hot-potato",
     "apologize-to-exit-a-fight"
   ],
   "being-right-college-story": [
@@ -7649,6 +7918,7 @@
   "leaders-calm-becomes-the-teams-calm": [
     "one-team-member-holds-the-helplessness",
     "kids-respond-to-emotional-presence-not-words",
+    "presence-over-technique-in-coaching",
     "principled-board-decision",
     "una-grabbing-joes-face"
   ],
@@ -7677,6 +7947,24 @@
     "gratitude-rounds-before-meetings",
     "notice-and-be-grateful-for-connection",
     "vietnam-malnutrition-story"
+  ],
+  "are-you-willing-to-do-the-work": [
+    "shame-hot-potato",
+    "drop-the-hot-potato",
+    "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
+  ],
+  "non-defense-is-the-ocean": [
+    "shame-hot-potato",
+    "drop-the-hot-potato",
+    "fault-vs-responsibility",
+    "seeing-through-essential-wrongness"
+  ],
+  "seeing-through-essential-wrongness": [
+    "shame-hot-potato",
+    "drop-the-hot-potato",
+    "state-no-wish-for-their-shame",
+    "fault-vs-responsibility",
+    "non-defense-is-the-ocean"
   ],
   "coach-defensive-behavior-out-of-the-meeting": [
     "signs-of-a-dysfunctional-leader"
@@ -7731,11 +8019,6 @@
     "reflect-back-to-make-partner-feel-heard",
     "state-the-want-not-the-action",
     "vulnerability-in-the-workplace"
-  ],
-  "i-keep-running-into-the-same-wall": [
-    "can-you-hang-out-with-it",
-    "address-the-blocker-not-the-symptom",
-    "the-change-or-no-change-visualization"
   ],
   "aggressive-victim-stance|aggressive victim": [
     "empathize-with-fear-under-constricted-boundary"
@@ -7803,16 +8086,24 @@
     "good-and-corruption-cycle",
     "marketing-as-the-beginning",
     "the-clients-wisdom-not-the-teachers",
-    "the-work-is-yours-not-mine"
+    "the-work-is-yours-not-mine",
+    "training-coaches-and-facilitators"
   ],
   "agree-when-challenged-on-the-teaching": [
     "pucker-and-still-say-it",
     "receive-the-projection-and-let-it-move-through",
     "identification-with-the-teaching"
   ],
+  "asking-with-shame-invites-refusal": [
+    "say-the-forbidden-want-out-loud"
+  ],
   "dont-add-anyway-to-love": [
     "say-yes-to-the-clients-experiment",
     "send-the-message-that-youre-whole"
+  ],
+  "welcome-the-shame-without-extracting": [
+    "state-no-wish-for-their-shame",
+    "dont-shame-kids-they-self-shame"
   ],
   "walled-no-vs-open-hearted-limit": [
     "stay-close-and-insist",
@@ -7919,6 +8210,7 @@
     "wonder-vs-curiosity",
     "embrace-intensity",
     "principles-free-you",
+    "welcome-the-dumpster-fire-in-facilitation",
     "wrestle-with-your-principles",
     "defining-principles-well",
     "conditions-for-transformation"
@@ -7989,10 +8281,6 @@
     "knowing-yourself-is-the-only-safety",
     "five-principles-of-the-path"
   ],
-  "find-the-emotion-under-self-judgment": [
-    "the-arrogantly-humble-paradox",
-    "self-judgment-protects-from-emotion"
-  ],
   "safety-that-connects-vs-disconnects-from-reality": [
     "trust-vs-safety",
     "knowing-yourself-is-the-only-safety",
@@ -8000,7 +8288,8 @@
     "brett-wingsuit-girlfriend-thought"
   ],
   "wants-change-as-you-change": [
-    "wanting-vs-craving"
+    "wanting-vs-craving",
+    "rapid-fire-coaching-impulse-check"
   ],
   "Wants-Over-Shoulds": [
     "acting-as-if-already-true"
@@ -8021,6 +8310,11 @@
   "joes-laughing-meditation-retreat": [
     "authenticity-reduces-shame"
   ],
+  "coach-personality-determines-style": [
+    "become-unnecessary",
+    "community-over-teacher",
+    "training-coaches-and-facilitators"
+  ],
   "dont-evangelize-the-work": [
     "become-unnecessary",
     "community-over-teacher",
@@ -8029,8 +8323,20 @@
     "heart-opening-needs-boundaries",
     "romantic-relationships"
   ],
-  "do-the-work-thats-harder-for-you": [
-    "being-with-anothers-emotion-is-being-with-your-own-pain"
+  "coaching-to-be-seen-as-wise": [
+    "coaches-foundation-self-awareness",
+    "rapid-fire-coaching-impulse-check",
+    "training-coaches-and-facilitators"
+  ],
+  "own-your-narcissism": [
+    "coaches-foundation-self-awareness",
+    "training-coaches-and-facilitators"
+  ],
+  "coach-as-mirror-not-customer-service": [
+    "coaches-foundation-self-awareness",
+    "community-over-teacher",
+    "welcome-the-dumpster-fire-in-facilitation",
+    "training-coaches-and-facilitators"
   ],
   "keeping-cult-dynamics-conscious": [
     "community-over-teacher",
@@ -8117,9 +8423,6 @@
     "bar-couple-priority-order",
     "joe-and-tara-weekend-reset",
     "parenting-as-coaching-domain"
-  ],
-  "welcome-the-shame-without-extracting": [
-    "dont-shame-kids-they-self-shame"
   ],
   "natural dissolution of stuck patterns": [
     "embrace-intensity"
@@ -8214,6 +8517,9 @@
   "over-control-vs-hands-off-oscillation": [
     "never-rob-pain-or-gold"
   ],
+  "joes-board-member": [
+    "non-defense-is-the-ocean"
+  ],
   "mandela-prison-freedom": [
     "nothing-is-required-for-freedom",
     "hitchhiking-freedom"
@@ -8229,6 +8535,10 @@
   "arms-of-the-cross-relationship": [
     "nre-returns-in-grounded-form-after-each-healing",
     "romantic-relationships"
+  ],
+  "the-fu-joe-handle": [
+    "own-your-narcissism",
+    "surround-yourself-with-people-who-make-fun-of-you"
   ],
   "every-trigger-with-your-kid-is-projection": [
     "parenting-as-honest-mirror",
@@ -8365,9 +8675,6 @@
   "renegotiate-commitments-as-you-change": [
     "say-the-thing-youre-not-saying"
   ],
-  "the-fu-joe-handle": [
-    "surround-yourself-with-people-who-make-fun-of-you"
-  ],
   "goal-beyond-the-goal": [
     "visualize-the-felt-aftermath",
     "tennis-quarter"
@@ -8443,9 +8750,6 @@
   "hitchhiking-freedom": [
     "mandela-prison-freedom"
   ],
-  "are-you-willing-to-do-the-work": [
-    "marriage-as-two-people-trying-to-find-out-theyre-good-enough"
-  ],
   "us-vs-them": [
     "political-signs-steakhouse-story"
   ],
@@ -8470,5 +8774,11 @@
   ],
   "intra-dependent-vs-codependent": [
     "romantic-relationships"
+  ],
+  "welcome-the-dumpster-fire-in-facilitation": [
+    "training-coaches-and-facilitators"
+  ],
+  "rapid-fire-coaching-impulse-check": [
+    "training-coaches-and-facilitators"
   ]
 }

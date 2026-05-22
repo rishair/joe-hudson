@@ -2,10 +2,10 @@
 type: principle
 id: the-clients-wisdom-not-the-teachers
 title: "The Client's Wisdom, Not the Teacher's"
-aliases: ["the client's wisdom not the teacher's", "their wisdom not mine", "you have to experience it for it to be real", "the experience is the teacher", "no answer outside your question", "I won't coach someone without a question", "no transmission of wisdom", "the wisdom is yours", "I won't try to get anybody anywhere"]
+aliases: ["the client's wisdom not the teacher's", "their wisdom not mine", "you have to experience it for it to be real", "the experience is the teacher", "no answer outside your question", "I won't coach someone without a question", "no transmission of wisdom", "the wisdom is yours", "I won't try to get anybody anywhere", "credentials do not predict good coaching", "qualification is a weird word for coaching"]
 tags: ["principle", "coaching-methodology", "wisdom", "epistemology", "autonomy", "experience-based-learning"]
-related: ["the-work-is-yours-not-mine", "become-unnecessary", "community-over-teacher", "follow-the-demand", "fixing-people", "dont-evangelize-the-work", "sincerity-is-the-prerequisite", "frame-it-as-an-experiment"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
+related: ["the-work-is-yours-not-mine", "become-unnecessary", "community-over-teacher", "follow-the-demand", "fixing-people", "dont-evangelize-the-work", "sincerity-is-the-prerequisite", "frame-it-as-an-experiment", "training-coaches-and-facilitators", "coaches-foundation-self-awareness", "presence-over-technique-in-coaching"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-01-05_Coaching as a Practice"]
 ---
 
 # The Client's Wisdom, Not the Teacher's
@@ -17,6 +17,16 @@ The coach does not transmit wisdom. The coach creates the conditions in which th
 This is an epistemological principle, not just a methodological one. It says the coach does not know the answer for the client. The coach can know the structure of the inquiry. The coach can know what exercises tend to produce contact. The coach cannot know what the client will find. The client's experience is what makes the finding real.
 
 "It was always really important to me from the beginning, just like in my coaching, that everything is about a person's wisdom, not about my wisdom. Meaning that there -- here's an exercise, it's an experiment. You get to learn what you want from it. You have to experience it for it to be real to you. It's not about what somebody tells you." -- Joe Hudson, How to Tell if the Master Class Isn't For You
+
+## Credentials Do Not Predict Good Coaching (A Corollary)
+
+If the wisdom does not come from the teacher's accumulated content, then the standard credentials that certify the accumulated content do not predict whether the teacher can actually do this work. Joe's flat version: he does not believe in qualifications in the standard sense. The therapists and coaches with multiple advanced degrees in his life have been both amazing and terrible at roughly the same rate. The credential is not the signal.
+
+"I don't really believe generally in qualifications. I've had people who have been extremely qualified with multiple degrees as my coaches or therapists in my life. And some of them are just amazing and some of them are horrible. And the qualification, as far as like standards go, is the same. And so I don't really -- qualification is a weird word for me." -- Joe Hudson, Coaching as a Practice
+
+The signal Joe accepts as a qualification is demand from people who have experienced the work -- people watch what someone does and ask to learn it. The demand is downstream of the work being real. The credential is upstream of the work being done in a way that does not actually predict whether the work transmits.
+
+This is structurally aligned with the broader principle. If wisdom is in the client's experience, then the question of who is qualified to coach reduces to who can create the conditions for the client to access their own wisdom. That capacity is not certified by content-based credentials. It is a function of the coach's presence, their own ongoing inner work, and their willingness to hold the structural orientation this principle describes.
 
 ## The Distinction From Pedagogy
 

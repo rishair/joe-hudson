@@ -4,8 +4,8 @@ id: shame-stagnates-emotion
 title: "Shame Stagnates Emotional Fluidity"
 aliases: ["shame stops emotions", "shame freezes emotion", "shame blocks emotional flow", "shame as emotional barrier", "shame is an emotion that blocks other emotions", "shame as emotional nemesis", "the kick in the stomach", "shame creates emotional dead zones", "shame as the awareness desert", "shame as the blocker layer", "judgment and guilt as blockers too", "shame guilt judgment as the lid", "the three blocker emotions"]
 tags: ["shame", "emotional fluidity", "stagnation", "felt sense", "body", "emotion", "blocker"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "emotional-fluidity", "feeling-the-unfelt-emotion", "kinked-emotions", "the-shame-avoidance-loop", "love-as-deep-welcoming", "blocker-emotions", "negative-emotions-precede-positive"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2023-02-10_The Golden Algorithm"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "emotional-fluidity", "feeling-the-unfelt-emotion", "kinked-emotions", "the-shame-avoidance-loop", "love-as-deep-welcoming", "blocker-emotions", "negative-emotions-precede-positive", "shame-hot-potato", "we-have-built-up-resentment"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2023-02-10_The Golden Algorithm", "2023-12-22_The Shame Hot Potato"]
 ---
 
 # Shame Stagnates Emotional Fluidity
@@ -76,6 +76,20 @@ This means the diagnostic for whether the blocker layer is active is broader tha
 
 The practical implication: when working with stuck emotional material, scan for all three blockers, not just for shame. The person may have moved past one and be sitting in another. Each blocker, when welcomed, releases its lid on whatever emotion lives underneath.
 
+## The Stagnation Scales: Marriages, Companies, Countries
+
+The same stagnation mechanism that locks an individual's emotional channel locks larger systems built of multiple people. A marriage that has the same fight for years, a company that has the same conflict between two teams, a country with the same political deadlock, a war that does not end — these are all the relational and societal forms of shame's stagnation. The signature is identical at every scale: the same dynamic repeating, no resolution available, energy going into who-is-wrong rather than into what-to-do.
+
+"If your marriage has the same kind of fight, or if your company has the same kind of problem over and over again, or if you're a country with the same problem over and over again, like political system, you're pretty much sure that you're in a shame hot potato because just as shame... it stagnates emotions. It stagnates fights in countries and politics and marriages as well. So, when you see that stagnation, you know, like shame, guilt, that kind of thing is involved." -- Joe Hudson, The Shame Hot Potato
+
+"Shame slows down the process as much in groups as it does in an individual." -- Joe Hudson, The Shame Hot Potato
+
+The fractal nature of the principle is useful diagnostically. Whenever you see the same problem recurring at any scale, look for the shame layer. A team conflict that won't resolve, a marriage stuck in the same argument, a national political deadlock — all are forms of the same mechanism. The exit move is the same at every scale: the underlying emotion (grief, anger, helplessness) has to be felt. See [[shame-hot-potato]] for the relational and societal pattern, and [[unprocessed-grief-creates-conflict]] for the related principle about identity politics as ungrieved grief.
+
+The thought experiment Joe offers for wars makes the principle vivid: if every person on both sides of a war could fully feel the grief, anger, and helplessness underneath their position, the war would be over. The reason wars persist is that the shame layer prevents the underlying emotions from being felt, and the unfelt emotions keep recreating the dynamic. The same is true of a marriage that won't resolve.
+
+"If everybody — if you look at a war, if I took a war situation and I could snap my fingers and everybody could fully feel the grief and the anger and the helplessness of that war, everybody top to bottom of both sides of the war, the war would be done. It'd be over. It's the fact that everybody can't do that and they're in shame that perpetuates the whole thing. And that's true with a marriage or in a company." -- Joe Hudson, The Shame Hot Potato
+
 ## Connection to Other Concepts
 
 This concept is the mechanism underneath [[shame-drives-behavior]]: the reason shame holds bad habits in place is precisely that it stagnates the emotional movement that would otherwise process the underlying material. With the emotions frozen, the behavior cannot shift.
@@ -105,3 +119,4 @@ It connects to [[kinked-emotions]] as a special case: shame is not just kinked, 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2023-02-10_The Golden Algorithm (the explicit grouping of shame, judgment, and guilt as "blocker emotional states" sharing the stagnation mechanism; the placement of the blocker layer above the negative-emotion layer in the three-layer architecture)
+- 2023-12-22_The Shame Hot Potato (the stagnation scales to relational, organizational, and national levels; the war thought experiment showing that shame is what perpetuates wars)

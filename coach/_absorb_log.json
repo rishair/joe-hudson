@@ -4240,15 +4240,124 @@
     },
     {
       "folder": "2023-12-22_The Shame Hot Potato",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T12:29:31Z",
+      "articles_created": [
+        "shame-hot-potato",
+        "drop-the-hot-potato",
+        "state-no-wish-for-their-shame",
+        "non-defense-is-the-ocean",
+        "seeing-through-essential-wrongness"
+      ],
+      "articles_updated": [
+        "triggers-reveal-your-own-beliefs",
+        "the-shame-avoidance-loop",
+        "shame-stagnates-emotion",
+        "fault-vs-responsibility",
+        "apologies-as-power-struggle-surrogate",
+        "we-have-built-up-resentment",
+        "power-dynamics-as-two-defenders"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T12:43:05Z"
+    },
+    {
+      "folder": "2023-12-29_Fear Of Overworking",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:35:02Z",
+      "articles_created": [
+        "im-afraid-ill-revert-to-my-old-pattern",
+        "point-at-the-present-evidence",
+        "let-your-body-remember-this-moment"
+      ],
+      "articles_updated": [
+        "quit-hope-lose-cycle",
+        "voice-creates-what-it-fears",
+        "ask-the-witnesses",
+        "identity-lags-behind-growth",
+        "im-burned-out"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T12:43:41Z"
+    },
+    {
+      "folder": "2024-01-05_Coaching as a Practice",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:44:25Z",
+      "articles_created": [
+        "training-coaches-and-facilitators",
+        "presence-over-technique-in-coaching",
+        "coaches-foundation-self-awareness",
+        "own-your-narcissism",
+        "coaching-as-savior-role",
+        "coaching-as-surrogate-intimacy",
+        "coaching-to-be-seen-as-wise",
+        "welcome-the-dumpster-fire-in-facilitation",
+        "coach-as-mirror-not-customer-service",
+        "coach-personality-determines-style",
+        "rapid-fire-coaching-impulse-check"
+      ],
+      "articles_updated": [
+        "community-over-teacher",
+        "become-unnecessary",
+        "pucker-and-still-say-it",
+        "the-clients-wisdom-not-the-teachers"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T13:02:40Z"
+    },
+    {
+      "folder": "2024-01-05_What's Bad About Money\uff1f \uff5c Coaching with Joe",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:44:34Z",
+      "articles_created": [
+        "say-the-forbidden-want-out-loud",
+        "apologize-to-the-projected-object",
+        "any-amount-answer-as-total-installation"
+      ],
+      "articles_updated": [
+        "money-as-surrogate",
+        "money-is-bad",
+        "am-i-being-selfish",
+        "conflict-avoidance-prevents-being-loved",
+        "find-the-want-behind-the-should"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T12:54:58Z"
+    },
+    {
+      "folder": "2024-01-09_Coaching As A Practice",
+      "status": "complete",
+      "claimed_at": "2026-05-22T12:55:56Z",
+      "articles_created": [],
+      "articles_updated": [
+        "rapid-fire-coaching-impulse-check",
+        "pucker-and-still-say-it",
+        "training-coaches-and-facilitators",
+        "coaches-foundation-self-awareness",
+        "welcome-the-dumpster-fire-in-facilitation",
+        "coach-as-mirror-not-customer-service",
+        "own-your-narcissism",
+        "presence-over-technique-in-coaching",
+        "coach-personality-determines-style",
+        "coaching-as-savior-role",
+        "coaching-as-surrogate-intimacy",
+        "coaching-to-be-seen-as-wise"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T13:03:43Z"
+    },
+    {
+      "folder": "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T13:03:27Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2023-12-29_Fear Of Overworking",
+      "folder": "2024-01-19_Emotional Inquiry - Emotion Series #14",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T12:35:02Z",
+      "claimed_at": "2026-05-22T13:05:28Z",
       "articles_created": [],
       "articles_updated": []
     }

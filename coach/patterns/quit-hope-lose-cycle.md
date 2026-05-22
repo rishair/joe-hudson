@@ -2,10 +2,10 @@
 type: pattern
 id: quit-hope-lose-cycle
 title: "The Quit-Hope-Lose Cycle"
-aliases: ["I hope this lasts", "holding on to change", "fear of losing progress", "achievement and loss cycle", "transformation relapse cycle", "how do I keep it", "fear of losing the serenity", "the gripping question"]
+aliases: ["I hope this lasts", "holding on to change", "fear of losing progress", "achievement and loss cycle", "transformation relapse cycle", "how do I keep it", "fear of losing the serenity", "the gripping question", "I just made a change and I'm afraid I'll revert", "the worry-after-the-brave-action pattern", "the post-bold-action reversion fear", "the worry-pattern is what made the problem"]
 tags: ["transformation", "resistance", "patterns", "attachment"]
-related: ["pendulation", "enjoyment-as-path", "process-over-result", "resistance", "empowered-vs-power", "helplessness-is-the-gateway", "pow-optimist", "undoing-not-doing", "no-finish-line", "integration"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Embarking On The Journey", "2022-10-26_Empower Over Power", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-05-26_Tara Howley — From Insight to Wisdom"]
+related: ["pendulation", "enjoyment-as-path", "process-over-result", "resistance", "empowered-vs-power", "helplessness-is-the-gateway", "pow-optimist", "undoing-not-doing", "no-finish-line", "integration", "voice-creates-what-it-fears", "im-afraid-ill-revert-to-my-old-pattern", "point-at-the-present-evidence", "identity-lags-behind-growth"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Embarking On The Journey", "2022-10-26_Empower Over Power", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-05-26_Tara Howley — From Insight to Wisdom", "2023-12-29_Fear Of Overworking"]
 ---
 
 # The Quit-Hope-Lose Cycle
@@ -96,6 +96,30 @@ See [[undoing-not-doing]] for the underlying mechanism. The serenity that arrive
 
 This dynamic also explains why optimists fail under sustained pressure. See [[pow-optimist]]. The POW optimists were essentially doing a long-form version of "I hope this lasts": gripping a specific timeline for liberation, then collapsing when the timeline passed. The survivors held the vision without the timeline. They did not need to keep anything in a particular form.
 
+## The Worry-Is-The-Pattern Recognition
+
+A specific case of the cycle, often seen right after a bold action: the person takes a brave step (quits a job, leaves a relationship, sets a boundary, stops a habit) and immediately produces fear that they will not keep doing it. The fear arrives as a future-projection: "what if I revert?"
+
+What is often invisible to the person: the future-projection itself is the exact pattern that created the problem they just escaped from. The overworker overworks because they live in future-anxiety about consequences. The chronic over-committer over-commits to head off an imagined future loss. The person who can't rest can't rest because the mind is in a perpetual future they have to prepare for.
+
+So the question "how do I make sure I don't revert?" is being asked in the very tense and the very anxiety-state that produces the reverting behavior. The asking is the doing.
+
+The coaching move is to surface this. Not as a diagnosis. As a question the person can feel.
+
+> "This pattern of worrying about your what you're going to do in the future — how much of that pattern is the thing that made you overwork?" -- Joe Hudson, Fear Of Overworking
+
+The response, when it lands, is often visceral. From the Fear Of Overworking session:
+
+> "A thousand percent. Oh, that just hit like a ton of bricks. Oh my God, I just felt like everything that was on me just splatted out... my body feels — it's just like exploding with joy and just ready. I can't contain it. Like, part of me, I'm like happy, and part of me like wants to cry a little bit at the same time."
+
+The recognition is that the entire mechanism is a closed loop. The worry produces the behavior, which produces more material to worry about, which produces more worry, which produces more behavior. Seeing this once breaks the loop because the worry can no longer hide as the solution to itself.
+
+This recognition is the felt version of [[voice-creates-what-it-fears]] applied to the post-change moment. The voice trying to keep the change going is the same voice whose operating mode created the problem in the first place. The voice cannot deliver the outcome because its only mode is the mode that produces the opposite outcome.
+
+The companion move at this stage is to point at the action the person already took as evidence — see [[point-at-the-present-evidence]]. The capacity is already operating; the worry is operating as if it isn't. Reflecting the already-operating capacity back makes the worry visibly out of date.
+
+See also [[im-afraid-ill-revert-to-my-old-pattern]] for the front-door concern this dynamic presents as.
+
 ## Upstream (What Leads Here)
 
 - When someone has a history of starting and stopping the same change
@@ -118,3 +142,4 @@ This dynamic also explains why optimists fail under sustained pressure. See [[po
 - 2022-10-26_Empower Over Power (rebroadcast of the 2021-03-26 episode)
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
 - 2023-05-26_Tara Howley — From Insight to Wisdom (the post-insight form of the gripping reflex; gratitude as the counter to the grip; self-attack for needing to redo the insight as a second form of the same sabotage)
+- 2023-12-29_Fear Of Overworking (the worry-is-the-pattern recognition: the future-projection that produces fear of reverting is the same future-projection mode that created the problem being escaped; live coaching example of the recognition landing somatically)

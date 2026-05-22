@@ -4,8 +4,8 @@ id: the-shame-avoidance-loop
 title: "The Shame Avoidance Loop"
 aliases: ["shame loop", "avoiding shame creates shame", "the lose-lose of shame avoidance", "shame creates shame", "shame avoidance creates more shame", "the shame catch-22", "either way shame", "the disconnection paradox"]
 tags: ["shame", "disconnection", "paradox", "self-betrayal", "people-pleasing"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite", "shame-hot-potato", "drop-the-hot-potato"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2023-12-22_The Shame Hot Potato"]
 ---
 
 # The Shame Avoidance Loop
@@ -78,6 +78,16 @@ This pattern is a specific case of [[voice-creates-what-it-fears]]: the strategy
 
 It is also closely related to [[what-we-fear-we-invite]]: the avoidance creates the conditions for the feared thing.
 
+## The Interpersonal Sibling: The Shame Hot Potato
+
+The shame avoidance loop is the intrapersonal form of a structurally identical interpersonal pattern: the [[shame-hot-potato]]. The avoidance loop runs inside one person — the strategy to avoid shame produces shame. The hot potato runs between two or more people — each person's attempt to expel their shame onto another gives the other person shame to expel back.
+
+The two patterns are usually coupled. Inside each person, the avoidance loop is running. Between them, the hot potato is running, because each is using the throw at the other as one of the avoidance strategies. The two patterns reinforce each other.
+
+The exit moves are also paired. Internally, the work is to let shame be felt rather than avoided. Externally, the work is to drop the throw — receive the shame the other person is trying to install, feel it, and listen to what is actually true for them. See [[drop-the-hot-potato]].
+
+A diagnostic: chronic recurring fight (same fight, year after year, with partner or team or political opponent) is almost certainly running on the hot potato in addition to whatever else is happening. The signature of shame-driven dynamics is stagnation. Other emotions resolve. Shame does not. So shame-driven patterns persist.
+
 ## Tone
 
 Joe explains the loop methodically, often with examples and humor. The framing is not "you are caught in a tragedy" but "you are caught in a math problem." The lightness is part of the medicine: the loop feels less heavy when it is described as a structural absurdity rather than a personal failure.
@@ -86,3 +96,4 @@ Joe explains the loop methodically, often with examples and humor. The framing i
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
+- 2023-12-22_The Shame Hot Potato (the interpersonal sibling pattern and the coupling between the avoidance loop and the hot potato)
