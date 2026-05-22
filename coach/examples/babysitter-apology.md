@@ -5,7 +5,7 @@ title: "The Babysitter Apology"
 aliases: ["doubling down on vulnerability", "vulnerability after rejection", "it never ends"]
 tags: ["vulnerability", "rejection", "practice"]
 related: ["vulnerability", "letting-judgment-in", "vulnerability-is-personal"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2022-10-26_Vulnerability"]
 ---
 
 # The Babysitter Apology
@@ -31,3 +31,4 @@ When someone assumes vulnerability is a single moment of exposure. When someone 
 ## Sources
 
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)

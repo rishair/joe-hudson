@@ -4,7 +4,7 @@ id: how-do-you-want-to-be
 title: "How do you want to be?"
 aliases: ["how do you want to be when you grow up", "how vs what question", "how do you want to live", "the how question", "how question instead of what", "how do you want to be right now", "the should vs want comparison question", "how do you want to be vs how should you be"]
 tags: ["wants", "being vs doing", "authenticity", "reframe", "question"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_Want Over Should"]
 ---
 
 # How do you want to be?
@@ -50,6 +50,20 @@ The "how" answers tend to be the actual wants underneath the "what" answers. The
 
 - If the answer is about avoiding something ("I don't want to be like my dad"): Joe redirects toward what they do want. Negative wants are still in the orbit of the thing being avoided.
 
+## The Body Version: "How Do I Want to Be in My Body Right Now?"
+
+A specific application that converts the "should" frame for self-care into the "want" frame. Instead of "I should work out for 30 minutes today," the question becomes "how do I want to be in my body for 30 minutes right now?"
+
+The two questions sound almost identical. They produce opposite results. The first compresses the body, generates resistance, and frequently does not produce the workout. The second invites attention to what the body wants -- which might be stretching, dancing, walking, lifting, lying still -- and that attention is itself the movement the workout was trying to produce.
+
+"How do I want to be in my body right now? And you just -- 30 minutes of how do I want to be in my body right now would get you exactly where you want to be in your body. And how much more appealing is that? I have to work out today, or how do I want to be in my body for 30 minutes? It seems like it's almost no different, and it's like worlds and worlds apart." -- Joe Hudson, Want Over Should
+
+The mechanism: the "should" version installs a goal (the workout) and frames the body as something to be acted upon. The "want" version asks what the body itself is moving toward and follows that. The first treats the body as an instrument; the second treats it as a participant.
+
+This is also the diagnostic that confirms a should-want translation is working. If "how do I want to be in my body for 30 minutes" produces a small expansion in the chest and an actual impulse to move, the translation has landed. If it produces a confused intellectual answer ("I don't know what I want, I just know I should exercise"), the should is still running underneath.
+
+The principle generalizes. "How do I want to eat right now?" replaces "I should eat healthy." "How do I want to work right now?" replaces "I should be more productive." Each replacement converts a target into an inquiry, and the inquiry produces the action the target was failing to compel.
+
 ## The Internal Application
 
 The question works internally too. When a project, conversation, or moment is approached with "how do I want to be in this?" instead of "what do I want to get out of this?" the move from management to authenticity becomes available.
@@ -85,3 +99,5 @@ The question can also produce paralysis if the person has been trained to think 
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_Want Over Should

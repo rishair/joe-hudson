@@ -5,7 +5,7 @@ title: "Don't Discharge Anger At Your Partner (Move It First, Then Talk)"
 aliases: ["don't yell at your partner", "don't do anger at people", "don't discharge at partner", "yelling at partner anti-pattern", "anger release is not anger at partner", "move anger somewhere else first", "don't aim anger at partner", "the discharge-at-partner anti-pattern", "release anger before the conversation", "I'm just expressing my feelings as bypass", "don't use the relationship as your gym for anger", "don't make your partner take your anger work", "the unconsented anger dump", "don't yell at your partner to get the anger out", "no permission no anger dump"]
 tags: ["anti-pattern", "anger", "relationships", "discharge", "consent", "anger release"]
 related: ["trigger", "walking-on-eggshells", "get-angry-in-the-car", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "dont-do-anger-at-your-partner", "say-the-thing-youre-not-saying", "anger"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Don't Discharge Anger At Your Partner (Move It First, Then Talk)
@@ -83,3 +83,4 @@ For the somatic mechanics, see [[fake-the-anger-to-let-it-move]] (the body needs
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

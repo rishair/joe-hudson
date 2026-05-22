@@ -5,7 +5,7 @@ title: "'I Exist' (and Other Sentences Against Collapse)"
 aliases: ["I exist affirmation", "phrase against collapse", "sentence against collapse", "I will not collapse", "you will not stop me", "the phrase that releases anger", "affirmation in the collapse", "fighting the childhood injunction"]
 tags: ["practice", "anger", "collapse", "affirmation", "release", "embodiment"]
 related: ["anger", "three-things-that-go-wrong-when-releasing-anger", "three-forms-of-anger-repression", "get-angry-in-the-car", "childhood-imprinting", "trace-emotion-to-its-first-felt"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # 'I Exist' (and Other Sentences Against Collapse)
@@ -131,3 +131,4 @@ The practice is fierce when it lands. The sentence has to be said like the perso
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

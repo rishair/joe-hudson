@@ -4,8 +4,8 @@ id: dont-make-it-your-job-to-prevent-their-triggers
 title: "Don't Make It Your Job to Prevent Your Partner's Triggers"
 aliases: ["don't manage your partner's triggers", "preventing their triggers is not love", "it's not your job to prevent their triggers", "stop managing their emotional state", "the trigger-prevention trap", "don't take responsibility for their triggers", "you can't prevent their triggers anyway", "managing each other's triggers is the wrong work", "if I just walk carefully enough they won't get triggered"]
 tags: ["anti-pattern", "relationships", "trigger", "caretaking", "responsibility", "marriage"]
-related: ["trigger", "walking-on-eggshells", "caring-vs-caretaking", "dont-take-responsibility-for-anothers-happiness", "losing-yourself-in-others", "say-the-thing-youre-not-saying", "capacity-to-love-other-is-capacity-to-love-self", "i-caretake-people", "you-think-they-cant-handle-it"]
-sources: ["2022-09-30_Triggered"]
+related: ["trigger", "walking-on-eggshells", "caring-vs-caretaking", "dont-take-responsibility-for-anothers-happiness", "losing-yourself-in-others", "say-the-thing-youre-not-saying", "capacity-to-love-other-is-capacity-to-love-self", "i-caretake-people", "you-think-they-cant-handle-it", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Don't Make It Your Job to Prevent Your Partner's Triggers
@@ -85,3 +85,4 @@ See [[capacity-to-love-other-is-capacity-to-love-self]] for the underlying princ
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

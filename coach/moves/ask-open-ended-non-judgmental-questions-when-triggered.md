@@ -5,7 +5,7 @@ title: "Ask Open-Ended Non-Judgmental Questions When You're the Triggered One"
 aliases: ["ask questions when triggered", "the Navy SEAL question move", "Navy SEAL trigger move", "respond to trigger with a question", "trigger to wonder move", "wonder breaks the trigger", "the open question move when triggered", "the Connection Course question move", "the curiosity response to feeling attacked", "the Navy SEAL story move", "convert defense into a question", "ask instead of defend", "what can you do to help me with that question", "the trigger-to-wonder pivot"]
 tags: ["move", "trigger", "wonder", "VIEW", "questions", "Connection Course", "defense", "transformation"]
 related: ["trigger", "wonder", "view", "how-what-questions", "triggers-reveal-your-own-beliefs", "fear-vs-anxiety", "vulnerability", "defense", "ask-the-witnesses"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Ask Open-Ended Non-Judgmental Questions When You're the Triggered One
@@ -129,3 +129,4 @@ The question is asked from genuine wonder, not from technique. The voice tends t
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

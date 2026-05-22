@@ -5,7 +5,7 @@ title: "Observer Position vs. Immersion in Story (by Anger Type)"
 aliases: ["observer vs story by repression type", "actor vs believer by type", "when to take the observer position and when not to", "story vs witness by anger type", "different release approach by anger type", "what helps which kind of angry person"]
 tags: ["anger", "observer", "story", "release", "distinction", "type-based-intervention"]
 related: ["three-forms-of-anger-repression", "three-things-that-go-wrong-when-releasing-anger", "treat-yourself-as-actor-of-emotion", "anger", "kinked-emotions", "dysregulated-vs-released-into-freedom"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Observer Position vs. Immersion in Story (by Anger Type)
@@ -133,3 +133,4 @@ Joe is precise but not heavy about this. The contradiction in the teaching is no
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

@@ -5,7 +5,7 @@ title: "Joe's 26-Year-Old Brutal Honesty List"
 aliases: ["the brutal honesty list", "the awareness experiment", "Joe's list of things he didn't want to admit", "the should diagnostic list", "the awareness changes things story"]
 tags: ["examples", "awareness", "shoulds", "shame", "self-honesty"]
 related: ["wants-over-shoulds", "awareness-as-change-agent", "shame-drives-behavior", "joes-pleasing-dad-money-story", "should-as-threat", "joes-stinky-house-experiment", "find-the-want-behind-the-should"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Want Over Should"]
 ---
 
 # Joe's 26-Year-Old Brutal Honesty List
@@ -49,3 +49,4 @@ The story embeds an exercise that can be assigned: write down everything you do 
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

@@ -5,7 +5,7 @@ title: "Recycling Anger Without Clarity"
 aliases: ["anger that keeps coming back", "stuck in anger loops", "the anger that doesn't land", "small clarities but no big landing", "anger that recycles", "the recycling anger pattern"]
 tags: ["read", "anger", "diagnostics", "release", "cycles"]
 related: ["anger-as-cover-for-deeper-emotion", "visceral-clarity-from-anger", "anger", "three-things-that-go-wrong-when-releasing-anger", "feeling-the-unfelt-emotion"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Recycling Anger Without Clarity
@@ -114,3 +114,4 @@ The risk of missing this read: the person concludes the practice does not work a
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

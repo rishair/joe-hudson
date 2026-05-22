@@ -5,7 +5,7 @@ title: "The Voice in the Head"
 aliases: ["voice in head", "voice in your head", "the inner critic", "self-talk", "internal dialogue", "the inner voice", "the editor", "the recurring negative voice", "upper dog", "the voice", "internal critic", "horrible micromanaging boss"]
 tags: ["voice in head", "self-talk", "inner critic", "awareness", "shame", "perfectionism", "core concept"]
 related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations", "cult-of-one"]
-sources: ["2021-07-16_Who is the Voice in Your Head?"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Want Over Should"]
 ---
 
 # The Voice in the Head
@@ -68,6 +68,18 @@ Often the voice is not actually addressing you. It is talking to itself and proj
 "Oftentimes the voice in the head is talking to itself more than it's talking to you." -- Joe Hudson, Who is the Voice in Your Head?
 
 This recognition shifts the relationship. The voice stops being an authority addressing you and becomes a process you can observe.
+
+## The Roommate Test
+
+Imagine the voice in your head as a roommate. If a friend told you what the voice tells you all day -- you should do this, you shouldn't do that, you're not doing enough, you should be different -- you would either stop spending time with them or move out. Most people would move out. The voice gets a free pass because it lives inside.
+
+"Most humans would just move out. But there are some, some of us are engineered or programmed to give up our own empowerment for a person like that." -- Joe Hudson, Want Over Should
+
+The metaphor extends to the boss case. Most people who had a manager who spoke to them the way the voice in their head speaks would quit or be miserable. The voice produces the same misery. The miserableness is often invisible to the person hosting it because there is no outside reference point: this is what it has always sounded like.
+
+"Most of us who had a boss who spoke to us like the -- that should voice in our head, we would quit or we would be miserable. If that should voice in your head is really strong and really loud, you -- there is a strong case that you're miserable whether you see it or not." -- Joe Hudson, Want Over Should
+
+The diagnostic use: if you would not tolerate the voice from a roommate, a partner, or a manager, that is the data that the voice is producing the same effect on you internally that you would refuse externally. The work is not to argue with the voice. The work is to recognize the asymmetry and stop accepting from yourself what you would not accept from anyone else.
 
 ## The Voice Was Programmed Without Your Consent
 
@@ -160,3 +172,4 @@ This concept also applies primarily to the repetitive, critical, recurring voice
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Want Over Should

@@ -5,7 +5,7 @@ title: "Visceral Clarity from Anger"
 aliases: ["clarity from anger", "what real clarity feels like", "the relief after anger", "visceral clarity", "anger clarity diagnostic", "clarity is about self not other", "the clarity test", "I'm clear fuck them vs real clarity"]
 tags: ["anger", "clarity", "release", "diagnostics", "self-vs-other"]
 related: ["anger", "three-things-that-go-wrong-when-releasing-anger", "logic-vs-emotional-movement", "feeling-the-unfelt-emotion", "anger-as-cover-for-deeper-emotion", "kinked-emotions"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Visceral Clarity from Anger
@@ -134,3 +134,4 @@ Joe presents this gently. The misidentification of false clarity for real clarit
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)

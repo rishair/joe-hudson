@@ -5,7 +5,7 @@ title: "Kinked Emotions (The Garden Hose)"
 aliases: ["garden hose metaphor", "kinks in the garden hose", "constricted emotion", "anger as garden hose", "the kinked emotion", "emotion under pressure", "what people call the emotion is the kink"]
 tags: ["emotions", "resistance", "anger", "metaphor", "core mechanism"]
 related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement", "stages-of-emotional-development", "what-we-fear-we-invite", "anger", "passive-aggressive-vs-aggressive-aggressive", "fear-of-self-destruction-by-anger", "three-forms-of-anger-repression"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Kinked Emotions (The Garden Hose)
@@ -120,3 +120,4 @@ Concrete, accessible. The garden hose is a friendly image, not a clinical metaph
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)

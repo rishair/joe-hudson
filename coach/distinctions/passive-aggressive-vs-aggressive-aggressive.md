@@ -5,7 +5,7 @@ title: "Passive-Aggressive vs. Aggressive-Aggressive"
 aliases: ["passive aggressive vs aggressive aggressive", "passive aggression vs direct anger", "covert anger vs open anger", "anger through safety language", "passive aggression as kinked anger", "open anger is easier to meet"]
 tags: ["distinction", "anger", "passive aggression", "kinked emotions", "communication"]
 related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "invite-the-aggression-out", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "caring-vs-caretaking"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Passive-Aggressive vs. Aggressive-Aggressive
@@ -112,3 +112,5 @@ Both forms are kinked. Neither is morally worse than the other. The distinction 
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording with same framing on passive-aggressive vs aggressive-aggressive)
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

@@ -5,7 +5,7 @@ title: "Three Things That Go Wrong When Releasing Anger"
 aliases: ["collapse dysregulation shame", "what goes wrong releasing anger", "anger release failures", "three failure modes of anger release", "anger backfire", "what happens when anger goes wrong", "collapse and dysregulation and shame recreation"]
 tags: ["anger", "release", "failure modes", "diagnostics", "patterns", "collapse", "dysregulation", "shame"]
 related: ["anger", "three-forms-of-anger-repression", "three-childhood-origins-of-anger-repression", "get-angry-in-the-car", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "i-exist-affirmation-against-collapse", "observer-vs-immersion-by-anger-type"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Three Things That Go Wrong When Releasing Anger
@@ -141,3 +141,4 @@ Joe presents these as mechanical, not pathological. The failures are expected. T
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

@@ -5,7 +5,7 @@ title: "Anger as Cover for a Deeper Emotion (and Vice Versa)"
 aliases: ["anger covering grief", "anger as default emotion", "anger over hurt", "anger over fear", "anger over helplessness", "recycling anger means deeper emotion", "anger as cover", "anger as defense against hurt", "the emotion underneath anger", "anger under hurt", "hurt under anger", "the bidirectional layering of anger and hurt", "under anger is hurt under hurt is anger", "sadness covering anger", "crying as cover for anger", "crying doesn't resolve because anger underneath"]
 tags: ["anger", "grief", "hurt", "fear", "emotions", "diagnostics", "defense", "sadness"]
 related: ["anger", "visceral-clarity-from-anger", "three-things-that-go-wrong-when-releasing-anger", "feeling-the-unfelt-emotion", "kinked-emotions", "negative-emotions-precede-positive", "dont-jump-to-compassion-before-anger", "emile-three-relationships-with-fear", "everyone-is-pretending"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Emile DeWeaver", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Emile DeWeaver", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Stages Of Emotional Development", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Anger as Cover for a Deeper Emotion
@@ -124,6 +124,18 @@ This is the same dynamic as the more common adult version, but with two distinct
 
 The extreme case of where this strategy leads when it is left to run: Émile's murder at 18 happened "out of fear and uncontrolled anger manufactured up." The mechanism is the ordinary one. The cost depended on the circumstances. In professional or relational settings the same pattern produces fights, sabotaged relationships, and outbursts that the person later cannot explain to themselves. In Émile's case it produced a death.
 
+## The Voice-Cracking Signal (Sadness Arriving at the End of Anger Work)
+
+A concrete in-session signal that anger has been doing cover work: the person is releasing anger, gets carried into it, and at the very end the voice cracks in pain. The crack is the sadness underneath arriving as the anger completes.
+
+"I've had this experience where as I'm just getting into an anger release, I'll start and I'm not really feeling it. And then I'll kind of find myself getting carried away into it. And then like at the very end of it, my voice will crack in pain. And it's like, oh, like it was actually sadness under there." -- Brett Kistler, Stages of Emotional Development
+
+Joe confirms the structure: this is the system completing the work the anger had been carrying. The anger moved first, in the more outward, mobilized form. As it spent itself, the sadness underneath became reachable, and the body delivered it through the voice crack at the end. The full release was the rainbow of feeling moving through, not the anger alone.
+
+The signal matters for the practitioner. The voice crack at the end is not a failure of anger release. It is the indicator that the release reached the layer underneath. The work then is to let the sadness keep moving rather than to clamp it back down or treat the anger as having been "wrong."
+
+A related diagnostic from Brett: trusting that "I'm going to become a reorganized human at the end of this. And I don't need to even have a story for what emotion it was." Joe affirms: "That's right. That's exactly it." The body knows what it is moving. The mind does not need to label each strand of the rainbow for the release to do its work. See [[emotion-can-move-without-a-story]] for the principle and [[emotional-fluidity]] for the broader state this is part of.
+
 ## The Cultural-Conditioning Variant
 
 A specific application: sadness is more socially acceptable than anger, especially for women. People who have learned that anger is dangerous or unwelcome often develop a sophisticated capacity for sadness and an underdeveloped capacity for anger.
@@ -163,3 +175,5 @@ Joe presents this matter-of-factly. The anger functioning as cover is not a mora
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_Emile DeWeaver (the childhood-installed manufactured-anger-to-cover-fear variant)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2022-10-26_Stages Of Emotional Development (Brett's voice-cracking-at-end-of-anger example and the "reorganized human" trust frame for unstoried gradient release)
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)

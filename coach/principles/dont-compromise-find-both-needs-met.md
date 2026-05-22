@@ -4,7 +4,7 @@ id: dont-compromise-find-both-needs-met
 title: "Don't Compromise -- Find a Way Both Needs Get Met"
 aliases: ["don't compromise in relationships", "no compromise principle", "find a way both needs are met", "compromise builds resentment", "compromise is neglect of self", "both needs met not compromise", "never sacrifice yourself for the relationship", "the no-compromise principle"]
 tags: ["relationships", "needs", "compromise", "resentment", "creativity", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Triggered!"]
 ---
 
 # Don't Compromise -- Find a Way Both Needs Get Met
@@ -118,3 +118,4 @@ Direct and practical. Joe is not gentle on this one. The "highly recommend never
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
+- 2022-10-26_Triggered!

@@ -5,7 +5,7 @@ title: "Inherent Goodness"
 aliases: ["you are inherently good", "belief in inherent goodness", "people are good", "trust in goodness", "not a lazy gluttonous asshole", "the oak tree never has to earn it", "without the should I'd be lazy", "trust your own wants", "letting go of shame reveals goodness", "shame requires the belief you are not inherently good"]
 tags: ["self-trust", "management", "parenting", "leadership", "shame", "foundational"]
 related: ["enjoy-over-manage", "shame-drives-behavior", "impartiality", "childhood-imprinting", "fixing-people", "seven-limiting-beliefs", "art-of-accomplishment", "defense-vs-love", "improvement-vs-authenticity", "wants-over-shoulds", "ill-become-lazy-without-shoulds", "the-want", "if-i-were-inherently-good", "shame-as-disconnection", "natural-shame-vs-installed-shame", "dont-shame-kids-they-self-shame"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Anatomy Of Shame", "2022-10-26_The Art of Accomplishment"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Anatomy Of Shame", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should"]
 ---
 
 # Inherent Goodness
@@ -132,3 +132,4 @@ Trusting your inherent goodness is what allows the flow state. Jim Carrey-level 
 - 2022-10-26_Enjoy Over Manage
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

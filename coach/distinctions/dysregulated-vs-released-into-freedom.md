@@ -5,7 +5,7 @@ title: "Dysregulated vs. Released Into Freedom"
 aliases: ["losing it vs being free", "dysregulation vs healthy loss of self", "lost in anger vs released by anger", "out of body anger types", "dysregulated vs ecstatic release"]
 tags: ["anger", "release", "distinction", "dysregulation", "freedom", "diagnostics"]
 related: ["three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger", "anger", "treat-yourself-as-actor-of-emotion"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Dysregulated vs. Released Into Freedom
@@ -124,3 +124,4 @@ Joe holds the distinction precisely without making the fear of dysregulation a m
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

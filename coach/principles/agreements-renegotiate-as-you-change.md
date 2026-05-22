@@ -5,7 +5,7 @@ title: "Agreements Renegotiate as You Change (The Only Commitment Is to the Rela
 aliases: ["renegotiate commitments", "renegotiate commitments as you change", "renegotiate vows", "only commitment is to the relationship", "less rules more attunement", "agreements evolve", "the only fixed commitment is to growth", "you change so the agreements change", "no fixed commitments outside growth", "renegotiation is the practice", "the moving agreement", "agreements are temporary", "what we agreed at 26 isn't what we need now", "ongoing renegotiation as the practice"]
 tags: ["principle", "relationships", "marriage", "commitment", "agreements", "attunement", "growth", "non-monogamy"]
 related: ["relationships-as-personal-growth-path", "dont-compromise-find-both-needs-met", "boundaries-expand-as-capacity-grows", "boundaries", "epiphany-becomes-rut", "say-the-thing-youre-not-saying"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Renegotiate Commitments as You Change (The Only Commitment Is to the Relationship)
@@ -125,3 +125,4 @@ Joe is light and direct on this one. He acknowledges he does not even remember h
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

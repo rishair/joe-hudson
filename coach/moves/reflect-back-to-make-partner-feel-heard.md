@@ -5,7 +5,7 @@ title: "Reflect Back So Your Partner Feels Heard (Third Trigger-Response Move)"
 aliases: ["make sure your partner feels heard during a trigger", "the I-hear-you trigger move", "reflect back what they said", "the reflection move for triggers", "what I'm hearing you say is", "I hear that's your experience", "the third trigger-response move", "calming the trigger by reflecting", "third option for handling triggers", "the hearing move", "make them feel seen in the trigger", "I hear that that's your experience", "reflect to drop the escalation"]
 tags: ["move", "trigger", "relationships", "reflection", "active listening", "communication", "deescalation"]
 related: ["trigger", "being-heard", "ask-open-ended-non-judgmental-questions-when-triggered", "say-the-thing-youre-not-saying", "view", "empathy", "dont-make-it-your-job-to-prevent-their-triggers", "power-dynamics-as-two-defenders"]
-sources: ["2022-09-30_Triggered! — Relationships Series #2"]
+sources: ["2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_Triggered!"]
 ---
 
 # Reflect Back So Your Partner Feels Heard (Third Trigger-Response Move)
@@ -126,3 +126,4 @@ Joe describes this move with calm. The voice that delivers a working reflection 
 ## Sources
 
 - 2022-09-30_Triggered! — Relationships Series #2
+- 2022-10-26_Triggered!

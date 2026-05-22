@@ -5,7 +5,7 @@ title: "Three Forms of Anger Repression"
 aliases: ["three forms of repressed anger", "three ways anger gets kinked", "inward sideways outward", "anger inward outward sideways", "three kinks of anger", "self-abuse passive-aggression rage", "three ways anger leaks", "anger inwards anger sideways anger outwards"]
 tags: ["anger", "repression", "kinked-emotions", "diagnostics", "patterns"]
 related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "passive-aggressive-vs-aggressive-aggressive", "three-things-that-go-wrong-when-releasing-anger", "three-childhood-origins-of-anger-repression"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Three Forms of Anger Repression
@@ -143,3 +143,4 @@ The outward-anger person feels abandoned by the freezing/withdrawing person. The
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

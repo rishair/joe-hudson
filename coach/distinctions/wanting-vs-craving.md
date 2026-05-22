@@ -5,7 +5,7 @@ title: "Wanting vs. Craving"
 aliases: ["want vs craving", "clean want vs craving", "desire vs craving", "wanting is not craving", "Sufi desire vs Buddhist craving", "expansive want vs sticky craving"]
 tags: ["wants", "craving", "attachment", "non-attachment", "Buddhism", "tantra"]
 related: ["the-want", "wants-over-shoulds", "state-seeking", "owning-the-want-dissolves-it", "feeling-the-want-as-emotion", "process-over-result", "intention-vs-goal", "craving-is-the-pushing-away", "peace-is-what-we-resist-the-most"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Want Over Should"]
 ---
 
 # Wanting vs. Craving
@@ -87,3 +87,4 @@ If they are in clean wanting, follow it. The want has its own intelligence. It d
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

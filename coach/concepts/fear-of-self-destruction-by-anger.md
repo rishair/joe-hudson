@@ -4,8 +4,8 @@ id: fear-of-self-destruction-by-anger
 title: "The Fear of Being Destroyed by Your Own Anger"
 aliases: ["fear of losing myself in anger", "fear of my own anger", "the destruction fear", "I might lose myself in anger", "anger will destroy me", "why we fear our anger", "the third option blindness", "body fears during anger release", "fear of freedom from anger release"]
 tags: ["anger", "fear", "resistance", "self-loss", "control"]
-related: ["anger", "kinked-emotions", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "fear-is-about-feeling", "three-childhood-origins-of-anger-repression", "tell-the-body-its-safe", "dysregulated-vs-released-into-freedom"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+related: ["anger", "kinked-emotions", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "fear-is-about-feeling", "three-childhood-origins-of-anger-repression", "tell-the-body-its-safe", "dysregulated-vs-released-into-freedom", "feared-stories-about-emotions-sense-something-real"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2021-09-24_Stages of Emotional Development", "2022-10-26_Stages Of Emotional Development", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # The Fear of Being Destroyed by Your Own Anger
@@ -78,6 +78,8 @@ There is a subtler truth inside the fear. Allowing anger fully does destroy some
 
 The fear is sensing this real thing -- a softening of the rigid self -- and describing it as destruction. The work is not to dismiss the fear but to see what it is pointing at and discover that what is on the other side of the feared dissolution is not catastrophe but fluidity.
 
+This is the specific anger-version of [[feared-stories-about-emotions-sense-something-real]]. The principle generalizes: each feared story about an emotion has a kernel of truth that gets misread as catastrophe but is actually liberation.
+
 ## In Coaching
 
 When a person says "I can't get angry because I'll lose control," the coaching path:
@@ -108,8 +110,13 @@ Joe holds this gently. The fear is real, the person is not weak for having it. T
 - Toward [[get-angry-in-the-car]]: the safe, contained entry-level practice.
 - Toward [[daily-emotional-yoga]]: the sustained practice that lowers the held charge.
 - Toward [[what-we-fear-we-invite]]: the larger pattern in which fear of an emotion produces the feared version.
+- Toward [[feared-stories-about-emotions-sense-something-real]]: the generalized principle that the feared stories about anger, fear, and sadness are sensing a real dissolution but reading it as catastrophe.
 
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2021-09-24_Stages of Emotional Development (Joe's "the way it destroys everything, particularly yourself" framing about fluid anger softening the hard-edged self)
+- 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode)
+- 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording of the 2021-10-22 episode with the same "third option blindness" framing)
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same body-level fear framing)

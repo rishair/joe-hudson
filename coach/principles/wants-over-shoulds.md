@@ -5,7 +5,7 @@ title: "Wants Over Shoulds"
 aliases: ["follow your wants", "shoulds slow transformation", "wants accelerate transformation", "should is control", "wants vs shoulds", "0 to 7 no shoulds", "shoulds slow development", "should is a bad management technique", "the should kills motivation"]
 tags: ["transformation", "wants", "shoulds", "freedom", "motivation"]
 related: ["wants-vs-partiality", "wanting-vs-craving", "the-want", "resistance", "selfishness-is-the-engine-of-unity", "enjoyment-as-path", "shame-drives-behavior", "seven-limiting-beliefs", "inherent-goodness", "impulse-to-should", "should-as-threat", "rebellion-or-submission-to-should", "find-the-want-behind-the-should", "ill-become-lazy-without-shoulds", "i-should-be-doing-this", "owning-the-want-dissolves-it", "joes-pleasing-dad-money-story", "joes-26-year-old-list"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_Want Over Should"]
 ---
 
 # Wants Over Shoulds
@@ -108,3 +108,4 @@ What takes years is the meta-version: telling yourself you should stop using sho
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2022-10-26_Embarking On The Journey
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

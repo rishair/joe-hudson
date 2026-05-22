@@ -2,10 +2,10 @@
 type: concept
 id: should-as-threat
 title: "Should as Threat"
-aliases: ["should is a threat", "four layers of should", "energetic should", "should produces rebellion or submission", "should as bad management"]
-tags: ["shoulds", "shame", "control", "threat", "nervous system", "voice in head"]
-related: ["wants-over-shoulds", "shame-drives-behavior", "rebellion-or-submission-to-should", "impulse-to-should", "perfectionism", "inherent-goodness", "voice-in-the-head", "lawyer-the-voice"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-07-16_Who is the Voice in Your Head?"]
+aliases: ["should is a threat", "four layers of should", "energetic should", "should produces rebellion or submission", "should as bad management", "shoulding yourself is also trigger", "self-shoulding as trigger"]
+tags: ["shoulds", "shame", "control", "threat", "nervous system", "voice in head", "trigger"]
+related: ["wants-over-shoulds", "shame-drives-behavior", "rebellion-or-submission-to-should", "impulse-to-should", "perfectionism", "inherent-goodness", "voice-in-the-head", "lawyer-the-voice", "trigger"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Triggered!", "2022-10-26_Want Over Should"]
 ---
 
 # Should as Threat
@@ -63,6 +63,18 @@ Joe's own discovery of this happened through Fritz Perls's Gestalt frame of "upp
 
 The should requires the person to believe they are bad. To see the should clearly, the premise of badness has to drop. Because it does not drop, the should stays invisible to the person running it on themselves -- even while they can see it instantly when another person runs it on someone else. See [[wants-over-shoulds]] for the war metaphor.
 
+## Shoulding Yourself Is Itself a Trigger
+
+Alexa Hudson named a corollary in the Triggered! episode that sharpens the concept: any time you are shoulding yourself, you are in a trigger. The energetic, neurological, and emotional registers that classify a should as a threat also classify it as a trigger response. The self-should is not a benign motivational tactic that occasionally goes wrong. It is itself the system being in trauma rather than in itself.
+
+"I would even go so far as to say anytime you're shoulding yourself, that's also trigger. And probably you're avoiding something." -- Alexa Hudson, Triggered!
+
+Joe agreed and added: "If it's a should, it's a shame cycle. There's a healthy way to say, oh, this isn't the partner I want to be, and I want to do this. But if you're in the should, then you're in a shame spiral with it." -- Joe Hudson, Triggered!
+
+The implication for coaching: when a person reports the inner pressure of a should, the move is not to help them comply with the should more skillfully. The move is to treat the should itself as a trigger and work it as such. See [[trigger]] for the response sequence.
+
+The corollary also points back to what the should is hiding. Shoulds usually arise as defenses against an underlying emotion the person is avoiding. Naming the should and refusing to comply with it both surface the emotion (often grief, fear, or anger) that the should was suppressing. See [[wants-over-shoulds]] and [[feeling-the-unfelt-emotion]].
+
 ## Upstream (What Leads Here)
 
 - When someone is using self-criticism as a motivation strategy and wondering why it isn't working
@@ -80,3 +92,5 @@ The should requires the person to believe they are bad. To see the should clearl
 
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-07-16_Who is the Voice in Your Head?
+- 2022-10-26_Triggered!
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

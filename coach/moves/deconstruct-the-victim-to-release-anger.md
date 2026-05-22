@@ -5,7 +5,7 @@ title: "Deconstruct the Victim to Release the Anger"
 aliases: ["call out the victim stance", "challenge the stuck story", "you're not stuck you're pretending", "deconstructing victimhood", "questioning the victim narrative", "really? you're stuck because of that?", "calling the victim's bluff"]
 tags: ["move", "anger", "victim", "trappedness", "release", "coaching"]
 related: ["anger", "trappedness-feeling", "victim-stance-invites-abuse", "i-feel-trapped", "kinked-emotions", "fear-triangle", "three-forms-of-anger-repression"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Deconstruct the Victim to Release the Anger
@@ -113,3 +113,4 @@ Light, slightly playful, undefended. The coach is not enjoying the discomfort. T
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

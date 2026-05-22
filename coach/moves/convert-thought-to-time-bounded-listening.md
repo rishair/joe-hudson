@@ -5,7 +5,7 @@ title: "I've Listened to You for a Decade, Now I'll Listen to the Anger for 20 M
 aliases: ["time-bounded listening to anger", "listening contract with the voice", "negotiated time for emotion", "the 20 minute deal with the voice", "trading time with the head voice", "give the anger its turn"]
 tags: ["move", "anger", "voice in the head", "release", "negotiation"]
 related: ["voice-in-the-head", "anger", "get-angry-in-the-car", "treat-yourself-as-actor-of-emotion", "apply-view-to-the-voice", "observer-vs-immersion-by-anger-type"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # I've Listened to You for a Decade, Now I'll Listen to the Anger for 20 Minutes
@@ -109,3 +109,4 @@ Light. The negotiation is between two parts of self, not between a person and an
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

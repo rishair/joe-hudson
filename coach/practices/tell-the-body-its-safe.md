@@ -5,7 +5,7 @@ title: "Tell the Body It's Safe Before Anger Release"
 aliases: ["safety message before release", "verbal reassurance to the body", "telling your body it's safe", "I am not in danger here", "no abusive brother here", "speak safety to the nervous system"]
 tags: ["practice", "anger", "safety", "nervous system", "body", "release"]
 related: ["anger", "get-angry-in-the-car", "fear-of-self-destruction-by-anger", "three-childhood-origins-of-anger-repression", "let-your-body-shake-it-out"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Tell the Body It's Safe Before Anger Release
@@ -118,3 +118,4 @@ The practice is gentle. The speaker is addressing their own body as a being that
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

@@ -5,7 +5,7 @@ title: "Rebellion or Submission to Should"
 aliases: ["two responses to should", "rebellion to should", "submission to should", "self-rebellion", "self-submission", "why bad habits stick"]
 tags: ["shoulds", "patterns", "rebellion", "submission", "habits", "self-relationship"]
 related: ["should-as-threat", "wants-over-shoulds", "shame-drives-behavior", "empowered-vs-power", "inherent-goodness"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Want Over Should"]
 ---
 
 # Rebellion or Submission to Should
@@ -58,3 +58,4 @@ The boss-employee model of the relationship to self is the structure that produc
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

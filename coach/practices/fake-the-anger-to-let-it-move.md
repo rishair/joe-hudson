@@ -5,7 +5,7 @@ title: "Fake the Anger to Let It Move"
 aliases: ["fake it to make it for anger", "perform the anger before you feel it", "acting your way into anger", "the body needs the shape first", "rehearse the angry motion", "perform anger as practice", "play the angry five year old"]
 tags: ["practice", "anger", "fake it", "release", "embodiment", "performance"]
 related: ["anger", "joes-crying-story", "daily-emotional-yoga", "treat-yourself-as-actor-of-emotion", "three-childhood-origins-of-anger-repression", "observer-vs-immersion-by-anger-type", "feeling-the-unfelt-emotion"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Fake the Anger to Let It Move
@@ -116,3 +116,4 @@ Light. The practice is permissioned playfulness. The instruction "just fake it" 
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

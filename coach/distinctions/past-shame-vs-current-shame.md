@@ -5,7 +5,7 @@ title: "Past Shame vs. Current Shame"
 aliases: ["current shame vs past shame", "useful shame", "shame about the past", "self-brutalization", "shame that perpetuates patterns"]
 tags: ["shame", "vulnerability", "healing"]
 related: ["shame-drives-behavior", "vulnerability", "feeling-the-unfelt-emotion", "shame-as-disconnection", "the-shame-avoidance-loop", "natural-shame-vs-installed-shame", "shame-stagnates-emotion"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_The Anatomy Of Shame"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_The Anatomy Of Shame", "2022-10-26_Vulnerability"]
 ---
 
 # Past Shame vs. Current Shame
@@ -60,3 +60,4 @@ This explains a particular failure mode: when current shame arises from self-dis
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
+- 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)

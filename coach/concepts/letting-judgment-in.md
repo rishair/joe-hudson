@@ -5,7 +5,7 @@ title: "Letting Judgment In"
 aliases: ["let it break your heart", "receiving judgment", "letting judgment break your heart", "opening to judgment"]
 tags: ["vulnerability", "judgment", "emotions", "courage"]
 related: ["vulnerability", "feeling-the-unfelt-emotion", "vulnerability-vs-weakness", "heartbreak-as-capacity-expansion", "defense", "love-as-deep-welcoming"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Vulnerability"]
 ---
 
 # Letting Judgment In
@@ -57,3 +57,5 @@ Letting judgment in is the same mechanism that makes confession (in Catholic tra
 ## Sources
 
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)

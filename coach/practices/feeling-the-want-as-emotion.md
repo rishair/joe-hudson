@@ -5,7 +5,7 @@ title: "Feeling the Want as Emotion"
 aliases: ["feel the wanting", "let the want move through", "sit with the want", "wanting practice", "Sufi longing practice"]
 tags: ["practices", "wants", "emotion", "feeling", "love", "longing"]
 related: ["the-want", "wanting-vs-craving", "wants-over-shoulds", "owning-the-want-dissolves-it", "feeling-the-unfelt-emotion", "daily-emotional-yoga"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Want Over Should"]
 ---
 
 # Feeling the Want as Emotion
@@ -53,3 +53,4 @@ This practice can be folded into [[daily-emotional-yoga]] as one of the emotions
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

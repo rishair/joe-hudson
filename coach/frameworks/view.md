@@ -5,7 +5,7 @@ title: "VIEW"
 aliases: ["VUE", "vulnerability impartiality empathy wonder", "communication methodology", "view state of mind", "view framework"]
 tags: ["communication", "state-of-mind", "coaching", "sales", "relationships", "teams"]
 related: ["vulnerability", "impartiality", "empathy", "wonder", "how-what-questions", "view-as-technique", "owning-your-partiality", "fixing-people", "love-as-deep-welcoming", "four-faces-of-love", "loving-to-transform", "connection"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-02-13_Connection over Perfection — Master Class Series #3", "2021-04-09_Love over Defense — Master Class Series #9", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-04-29_Connection- A State Beyond States", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability"]
 ---
 
 # VIEW
@@ -137,3 +137,4 @@ See [[love-as-deep-welcoming]] for the central treatment of the love that VIEW o
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)

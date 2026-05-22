@@ -5,7 +5,7 @@ title: "Impulse to Should"
 aliases: ["natural impulse becomes should", "should kills motivation", "desire hijacked by perfectionism", "want becomes obligation", "the want gets converted to a should", "egoic layer on top of impulse"]
 tags: ["perfectionism", "motivation", "patterns", "resistance"]
 related: ["perfectionism", "connection-over-perfection", "resistance", "negative-self-reinforcement", "shame-drives-behavior", "wants-over-shoulds", "find-the-want-behind-the-should", "the-want", "should-as-threat"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Want Over Should"]
 ---
 
 # Impulse to Should
@@ -68,3 +68,4 @@ The reframe is often somatic: not "I should work out for 30 minutes today" but "
 
 - 2021-02-13_Connection over Perfection -- Master Class Series #3
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

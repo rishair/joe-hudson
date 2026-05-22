@@ -5,7 +5,7 @@ title: "Walking on Eggshells"
 aliases: ["walking on eggshells", "eggshells pattern", "I can't bring this part of myself", "the eggshell relationship", "managing around the trigger", "managing each other's triggers", "the partner whose job is to prevent the other's trigger", "preventing your partner's triggers", "the cold marriage", "the relationship that never fights", "shoring up the relationship by self-suppression", "I have to be careful what I say around them", "the relationship where everything is fine"]
 tags: ["relationships", "marriage", "partnership", "trigger", "suppression", "resentment", "self-abandonment"]
 related: ["trigger", "walking-on-eggshells", "we-never-fight", "resentment-as-unspoken-want", "subjugation-prevents-healing", "dont-make-it-your-job-to-prevent-their-triggers", "dont-compromise-find-both-needs-met", "say-the-thing-youre-not-saying", "you-think-they-cant-handle-it", "trauma-heals-in-relationship", "capacity-to-love-other-is-capacity-to-love-self"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Walking on Eggshells
@@ -101,3 +101,4 @@ Joe holds this pattern with sadness and matter-of-factness. He does not condemn 
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

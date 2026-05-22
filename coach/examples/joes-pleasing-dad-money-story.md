@@ -5,7 +5,7 @@ title: "Joe's Pleasing-Dad Money Story (VC Career)"
 aliases: ["Joe's VC story", "Joe's hammock realization", "the multibillion sale story", "Joe's money should", "Joe's father should", "creating great cultures want", "Joe in El Salvador", "the WhatsApp gut punch", "the chasing-deprivation-resentment identity", "the emotional sequence as identity"]
 tags: ["examples", "shoulds", "wants", "childhood-imprinting", "career", "money", "surrogate", "identity"]
 related: ["wants-over-shoulds", "find-the-want-behind-the-should", "childhood-imprinting", "shame-drives-behavior", "joes-26-year-old-list", "the-want", "money-as-surrogate", "if-i-had-more-money", "money-domain", "identity", "trace-emotion-to-its-first-felt"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-04-23_Money Can't Save You", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Money Can't Save You"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-04-23_Money Can't Save You", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Money Can't Save You", "2022-10-26_Want Over Should"]
 ---
 
 # Joe's Pleasing-Dad Money Story
@@ -78,3 +78,4 @@ This same story is the canonical illustration of [[money-as-surrogate]]. Joe's e
 - 2021-04-23_Money Can't Save You
 - 2022-09-16_Seeing Identity for What It Is
 - 2022-10-26_Money Can't Save You (rebroadcast)
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

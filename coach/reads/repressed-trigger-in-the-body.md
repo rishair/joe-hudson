@@ -5,7 +5,7 @@ title: "Repressed Trigger in the Body (The Half-Inch Nod, The Flat Tone)"
 aliases: ["repressed trigger", "repressed rage in the body", "the half-inch nod", "the violently shut down read", "violently shut down", "the silent triggered read", "the contained trigger read", "facial repression read", "the Marine read", "the flat tone trigger read", "the calm that is actually trigger", "containment as trigger signature", "the small response to a big stimulus"]
 tags: ["read", "trigger", "anger", "repression", "body language", "containment"]
 related: ["trigger", "triggered-vs-big-emotion", "the-happiness-filter", "kinked-emotions", "three-forms-of-anger-repression", "disassociation-as-numbness-layer", "passive-aggressive-vs-aggressive-aggressive"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Repressed Trigger in the Body (The Half-Inch Nod, The Flat Tone)
@@ -85,3 +85,4 @@ The opposite tone -- "let it out, man, get angry" -- is exactly wrong for this r
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

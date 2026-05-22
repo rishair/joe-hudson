@@ -5,7 +5,7 @@ title: "What's the Scary Thing That's True?"
 aliases: ["scary truth question", "vulnerability compass", "what's the scary thing that's true for me right now", "fear plus truth"]
 tags: ["vulnerability", "practice", "self-inquiry"]
 related: ["vulnerability", "vulnerability-is-personal", "feeling-the-unfelt-emotion"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2022-10-26_Vulnerability"]
 ---
 
 # What's the Scary Thing That's True?
@@ -57,3 +57,4 @@ The practice has three layers of benefit:
 ## Sources
 
 - 2020-11-10_Vulnerability -- Connection Course Series #5
+- 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)

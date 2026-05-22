@@ -5,7 +5,7 @@ title: "Get Angry in the Car (or at the Beach, or in the Woods)"
 aliases: ["anger release practice", "get angry on your commute", "yell in the car", "private anger practice", "anger discharge practice", "anger somewhere not at someone", "the commute anger practice", "yell at the ocean"]
 tags: ["practice", "anger", "emotions", "discharge", "embodiment", "release"]
 related: ["anger", "daily-emotional-yoga", "let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "unfelt-emotion-leaks", "joes-angry-executive-commute", "tell-the-body-its-safe", "i-exist-affirmation-against-collapse", "fake-the-anger-to-let-it-move", "convert-thought-to-time-bounded-listening", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Get Angry in the Car (or at the Beach, or in the Woods)
@@ -141,3 +141,5 @@ Joe presents this almost casually. Get in your car. Yell. That is it. The tone s
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording of the 2021-10-22 episode)
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)

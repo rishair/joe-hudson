@@ -4,8 +4,8 @@ id: trigger
 title: "Trigger"
 aliases: ["triggered", "what a trigger is", "Joe's definition of trigger", "being triggered", "trigger as trauma activation", "in your trauma not yourself", "trigger as opportunity", "the trigger definition", "what does triggered mean", "the two definitions of trigger"]
 tags: ["trauma", "trigger", "relationships", "emotion", "presence", "self-awareness"]
-related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "i-cant-trust-my-thoughts-right-now", "kinked-emotions", "feeling-the-unfelt-emotion", "triggered-vs-big-emotion", "walking-on-eggshells", "triggers-reveal-your-own-beliefs", "anxious-avoidant-dynamic", "agreements-renegotiate-as-you-change", "reflect-back-to-make-partner-feel-heard", "say-the-thing-youre-not-saying", "ask-open-ended-non-judgmental-questions-when-triggered", "dont-do-anger-at-your-partner", "capacity-to-love-other-is-capacity-to-love-self", "repressed-trigger-in-the-body"]
-sources: ["2022-09-30_Triggered"]
+related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "i-cant-trust-my-thoughts-right-now", "kinked-emotions", "feeling-the-unfelt-emotion", "triggered-vs-big-emotion", "walking-on-eggshells", "triggers-reveal-your-own-beliefs", "anxious-avoidant-dynamic", "agreements-renegotiate-as-you-change", "reflect-back-to-make-partner-feel-heard", "say-the-thing-youre-not-saying", "ask-open-ended-non-judgmental-questions-when-triggered", "dont-do-anger-at-your-partner", "capacity-to-love-other-is-capacity-to-love-self", "repressed-trigger-in-the-body", "should-as-threat", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Trigger
@@ -60,7 +60,19 @@ Triggers travel through generations unless conscious work interrupts them. The t
 
 "Most people do repeat patterns for generations and generations... unless we're really saying, hey, we're going to consciously work on this and try to change it the healing process can take generations." -- Joe Hudson, Triggered
 
+The pattern is especially clean in alcoholism. The alcoholic parent produces the rigid, controlling, Al-Anon-shaped adult child. The Al-Anon adult often produces the next-generation alcoholic. The next-generation alcoholic produces the next-generation Al-Anon adult. The form alternates but the system is one continuous trauma transmission.
+
+"You'll see somebody with kind of have an alcoholic parent and they become very rigid and controlling and have a very clear Al-Anon thing. And then they give rise to the next generation of alcoholic and then they give rise to the next generation of Al-Anon. I can look back at family histories and I see that all the time, that kind of repeating pattern." -- Joe Hudson, Triggered!
+
 This is sobering, not despairing. The implication is that work on your own triggers is not just about you. It is the place where a multi-generational pattern actually changes.
+
+## Shoulding Yourself Is Itself a Trigger
+
+A corollary that surfaces in the second Triggered episode: any time you are shoulding yourself, you are in a trigger. The internal pressure of "I should be doing this" is the trigger response in another costume.
+
+"Anytime you're shoulding yourself, that's also trigger. And probably you're avoiding something." -- Alexa Hudson, Triggered!
+
+Joe affirmed and added the mechanism: "If it's a should, it's a shame cycle." See [[should-as-threat]] for the four-layer threat structure that explains why this is. The implication for coaching: when a person reports trying to motivate themselves with a should, the move is not to help them comply more skillfully. The should is itself the trauma response, and the productive work is to treat it as a trigger and find what the should is hiding.
 
 ## Triggers as the Productive Material of a Relationship
 

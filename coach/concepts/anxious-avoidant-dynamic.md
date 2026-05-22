@@ -5,7 +5,7 @@ title: "The Anxious-Avoidant Dynamic (Chasing as the Push-Away)"
 aliases: ["anxious avoidant dynamic", "the chaser and the aloof", "the pursuer and the distancer", "chasing pushes away", "neediness pushes away", "jealousy pushes away", "love equals chasing", "scared of receiving love", "the chasing configuration", "the pursuit-distance pattern", "fear of being adored", "the receiving abyss", "scared of love where I receive"]
 tags: ["relationships", "attachment", "anxious avoidant", "pursuit-distance", "trauma mapping", "chasing"]
 related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "craving-is-the-pushing-away", "engineering-heartbreak-to-avoid-heartbreak", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "chase-it-around-the-room", "i-keep-chasing-emotionally-unavailable-people", "mourn-the-breakup-fully", "without-grief-we-recreate-the-pattern"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # The Anxious-Avoidant Dynamic (Chasing as the Push-Away)
@@ -113,3 +113,4 @@ Joe is direct and a little unsparing on this. The empowering reframe ("you are c
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

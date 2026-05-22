@@ -4,7 +4,7 @@ id: ill-become-lazy-without-shoulds
 title: "I'll become lazy if I stop should-ing myself"
 aliases: ["fear of laziness without shoulds", "couch potato fear", "I'd never do anything", "I need the pressure", "without discipline I'd fall apart", "I won't be productive", "fear of becoming a slacker", "fear is what motivates me", "I'd be unmotivated without my fear", "fear-driven motivation concern", "if I felt secure I'd do nothing", "what would I do without my fear", "where would action come from if not fear"]
 tags: ["shoulds", "self-management", "laziness", "fear", "concerns", "inherent-goodness"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Money Can't Save You"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Money Can't Save You", "2022-10-26_Want Over Should"]
 ---
 
 # I'll become lazy if I stop should-ing myself
@@ -72,3 +72,4 @@ The opening into this work is to treat "where does action come from when not fro
 
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2022-10-26_Money Can't Save You
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

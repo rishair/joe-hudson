@@ -5,7 +5,7 @@ title: "Owning the Want Often Dissolves It"
 aliases: ["fully feeling the want releases it", "ownership transforms the want", "want refines when owned", "the $10 million dissolves to security", "name the want and watch it shift"]
 tags: ["wants", "ownership", "vulnerability", "transformation", "release"]
 related: ["the-want", "wants-deepen-as-you-follow-them", "wants-vs-partiality", "feeling-the-want-as-emotion", "feeling-the-unfelt-emotion", "wanting-vs-craving"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2020-11-05_Impartiality — Connection Course Series #3", "2022-10-26_Impartiality"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2020-11-05_Impartiality — Connection Course Series #3", "2022-10-26_Impartiality", "2022-10-26_Want Over Should"]
 ---
 
 # Owning the Want Often Dissolves It
@@ -69,3 +69,4 @@ It is also not a promise that the want disappears. Sometimes the want is exactly
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2020-11-05_Impartiality -- Connection Course Series #3
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
+- 2022-10-26_Want Over Should (rebroadcast of the 2021-03-15 master class)

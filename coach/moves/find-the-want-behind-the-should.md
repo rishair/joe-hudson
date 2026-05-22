@@ -5,7 +5,7 @@ title: "Find the Want Behind the Should"
 aliases: ["locate the want under the should", "what do you actually want here", "translate the should", "the want behind it"]
 tags: ["moves", "shoulds", "wants", "coaching", "translation"]
 related: ["wants-over-shoulds", "the-want", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "i-should-be-doing-this", "impulse-to-should"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should"]
 ---
 
 # Find the Want Behind the Should
@@ -36,6 +36,21 @@ The translation is also diagnostic. Sometimes there is no want underneath, only 
 
 Sometimes the want under the should is surprising. "I should make more money" often translates not to "I want money" but to something like "I want to please my father" or "I want to stop feeling like I'm failing." That redirect is where the real coaching happens. See [[joes-pleasing-dad-money-story]].
 
+## The "How Do I Want to Be" Reframe
+
+A specific form of the move that converts a "should-do-an-action" frame into a "want-to-be-a-quality" frame.
+
+- "I should work out for 30 minutes today" -> "How do I want to be in my body for 30 minutes today?"
+- "I should eat healthy" -> "How do I want to eat right now?"
+- "I should work harder" -> "How do I want to be in this work?"
+- "I should be more present with my kids" -> "How do I want to be with my kids right now?"
+
+The two versions sound nearly identical. They produce opposite results. The first installs a goal and treats the body or the situation as something to be acted upon. The second asks what is being moved toward and follows that.
+
+"How much more appealing is that? I have to work out today, or how do I want to be in my body for 30 minutes? It seems like it's almost no different, and it's like worlds and worlds apart." -- Joe Hudson, Want Over Should
+
+See [[how-do-you-want-to-be]] for the question as a coaching instrument and [[should-vs-want-body-check]] for the body diagnostic that confirms the reframe is landing.
+
 ## The Body Test
 
 A clean want feels expansive. The body opens. A should feels like compression. When the translation lands correctly, the person can feel the shift somatically. If the translation does not produce expansion, it is probably the wrong want. Keep looking.
@@ -52,3 +67,4 @@ Curious, light. Not corrective. The frame is not "you're using the wrong word." 
 
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
+- 2022-10-26_Want Over Should

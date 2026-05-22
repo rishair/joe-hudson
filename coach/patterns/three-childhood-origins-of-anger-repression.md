@@ -5,7 +5,7 @@ title: "Three Childhood Origins of Anger Repression"
 aliases: ["why anger gets repressed", "where anger suppression comes from", "childhood roots of anger repression", "how anger repression gets installed", "three ways anger gets shut down", "anger trauma origins"]
 tags: ["anger", "repression", "childhood", "imprinting", "trauma"]
 related: ["anger", "three-forms-of-anger-repression", "childhood-imprinting", "kinked-emotions", "trauma-mapping", "trace-emotion-to-its-first-felt"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Three Childhood Origins of Anger Repression
@@ -115,3 +115,4 @@ Joe holds these matter-of-factly. The origins are mechanical descriptions, not p
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)

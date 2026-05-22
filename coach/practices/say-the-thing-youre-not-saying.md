@@ -5,7 +5,7 @@ title: "Say the Thing You're Not Saying"
 aliases: ["say the suppressed thing", "say what you're not saying", "the say-it practice", "one thing a day", "the trigger discovery practice", "find triggers by saying", "say it kindly but say it", "the hedging-isn't-allowed practice", "if you're not triggered try saying things", "Joe's practice for low-conflict couples", "the eggshell discovery practice"]
 tags: ["practice", "relationships", "trigger", "marriage", "communication", "vulnerability", "self-discovery"]
 related: ["trigger", "walking-on-eggshells", "we-never-fight", "you-think-they-cant-handle-it", "dont-make-it-your-job-to-prevent-their-triggers", "vulnerability", "boundaries", "state-the-want-not-the-action", "tell-them-like-an-asshole", "ask-open-ended-non-judgmental-questions-when-triggered"]
-sources: ["2022-09-30_Triggered"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
 ---
 
 # Say the Thing You're Not Saying
@@ -115,3 +115,4 @@ Joe gives the practice playfully but seriously. He delivers the airport-dropoff 
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!

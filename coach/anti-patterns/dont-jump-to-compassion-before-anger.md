@@ -5,7 +5,7 @@ title: "Don't Jump to Compassion Before the Anger Has Moved"
 aliases: ["compassion as bypass", "the compassion jump", "they had their reasons trap", "reasonableness as suppression", "premature compassion", "compassion before anger", "skipping anger with compassion", "compassion order-of-operations problem"]
 tags: ["anti-pattern", "anger", "compassion", "bypass", "suppression", "order of operations"]
 related: ["anger", "kinked-emotions", "three-forms-of-anger-repression", "feel-over-figure", "negative-emotions-precede-positive", "dont-name-emotion-to-avoid-feeling"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
 ---
 
 # Don't Jump to Compassion Before the Anger Has Moved
@@ -119,3 +119,4 @@ Joe holds this without judgment. Premature compassion is not a moral failing. It
 ## Sources
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)
