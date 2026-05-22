@@ -55,12 +55,12 @@
     - [x] E-021 Build anti-pattern test cases
     - [x] E-022 Build methodology fidelity checklist
     - [x] E-023 Implement multi-turn test harness
-    - [ ] E-024 Run baseline eval against naive system prompt
+    - [x] E-024 Run baseline eval against naive system prompt (AoA-named)
     - [x] E-025 Judge calibration and reliability check
     - [x] E-026 Extract gold-standard coaching exchanges from transcripts
     - [x] E-027 Design safety hard-fail criteria
     - [x] E-028 Validate simulated client LLM behavior
-    - [ ] E-029 Run baseline eval against pure generic coach prompt (no methodology naming)
+    - [x] E-029 Run baseline eval against pure generic coach prompt (no methodology naming)
     - [x] E-030 Build legible scorecard renderer for terminal and markdown output
 - [ ] G-009 Build the Joe Hudson AI coach
   - Research
