@@ -146,6 +146,7 @@
     "impulse-to-should",
     "needing-to-be-right-in-teams",
     "rehearsing-conversations",
+    "be-intimate-with-the-feeling",
     "find-the-want-behind-the-should",
     "say-no-to-find-the-want",
     "external-freedom-vs-internal-freedom",
@@ -397,8 +398,10 @@
   ],
   "parts-work-made-things-worse": [
     "how-do-i-trust-myself",
+    "i-feel-stuck",
     "am-i-doing-it-right",
     "intellectual-question-with-emotional-body",
+    "treating-felt-state-as-factual-reality",
     "how-do-you-not-trust-it",
     "just-be-yourself-and-see-what-happens",
     "lets-go-there",
@@ -429,6 +432,7 @@
     "anxious-avoidant-dynamic",
     "familiar-over-safe",
     "projections",
+    "the-matrix",
     "trauma-mapping",
     "rehearsing-conversations",
     "embrace-intensity",
@@ -441,9 +445,11 @@
     "i-have-all-my-eggs-in-one-basket",
     "i-have-to-X-to-be-free",
     "i-keep-crashing-and-burning",
+    "i-keep-running-into-the-same-wall",
     "if-i-had-more-money",
     "im-afraid-of-stagnating",
     "im-burned-out",
+    "trying-to-get-rid-of-the-emotion",
     "what-makes-you-care-about-the-outcome",
     "dont-specialize-in-the-scariest-fear",
     "aggression-amplifies-against-conflict-avoidance",
@@ -458,6 +464,8 @@
     "kinked-emotions",
     "obligation-as-management",
     "power-dynamics-as-two-defenders",
+    "resistance",
+    "the-matrix",
     "trauma-mapping",
     "creating-safety-suppresses-self",
     "forms-of-dysfunctional-apology",
@@ -478,15 +486,18 @@
     "material-problems-are-emotional-problems",
     "money-relationship-is-an-energetic-exchange",
     "nothing-is-required-for-freedom",
+    "peace-is-what-we-resist-the-most",
     "perceived-certainty-not-actual-certainty",
     "refuse-to-be-defined-by-the-worst-act",
     "unwelcomed-emotions-return-until-felt",
     "victim-stance-invites-abuse",
     "voice-creates-what-it-fears",
     "vulnerability-protects",
+    "what-were-avoiding-is-usually-love",
     "without-grief-we-recreate-the-pattern",
     "anxiety-as-unarticulated-need",
     "feel-the-pain-of-not-being-loved",
+    "noticing-the-matrix-pattern",
     "three-questions-on-the-pattern",
     "electric-fence-with-dog",
     "joes-abandonment-mapping",
@@ -562,15 +573,20 @@
   ],
   "peace-is-what-we-resist-the-most": [
     "how-do-i-trust-myself",
+    "i-feel-stuck",
     "whats-the-ultimate-thing-youre-running-from",
     "definition-of-asshole",
     "opposite-of-trying",
     "resistance",
     "running-toward-yourself",
+    "the-matrix",
+    "amplify-the-feeling-until-it-breaks-open",
     "lets-go-there",
     "wanting-vs-craving",
     "craving-is-the-pushing-away",
-    "peace-precedes-joy-after-non-duality"
+    "peace-precedes-joy-after-non-duality",
+    "what-we-fear-we-invite",
+    "what-were-avoiding-is-usually-love"
   ],
   "i-need-a-scorecard": [
     "how-do-i-trust-myself",
@@ -745,6 +761,7 @@
     "apply-enjoy-to-whats-here",
     "let-your-body-remember-this-moment",
     "embracing-vs-creating-intensity",
+    "enjoyment-as-path",
     "trying-prevents-the-feeling",
     "unwelcomed-emotions-return-until-felt",
     "hold-the-memory-of-when-you-felt-it-most",
@@ -755,6 +772,7 @@
     "whats-next-after-i-reached-my-big-goal",
     "intellectual-process-with-no-somatic-component",
     "mark-it-and-return-later",
+    "noticing-the-matrix-pattern",
     "toggle-between-opposite-emotions-then-hold-both",
     "ali-abdaal-coaching-session"
   ],
@@ -861,6 +879,7 @@
   ],
   "my-inner-critic-wont-stop": [
     "i-cant-feel-my-emotions",
+    "i-feel-stuck",
     "i-have-to-do-it-all-myself",
     "i-keep-running-into-the-same-wall",
     "im-afraid-of-offending-people",
@@ -901,10 +920,12 @@
     "joy-as-matriarch",
     "joy-as-natural-state",
     "fear-of-joy",
-    "post-rest-second-wind-trap"
+    "post-rest-second-wind-trap",
+    "enjoy-your-breath-for-five-minutes"
   ],
   "i-keep-chasing-emotionally-unavailable-people": [
     "i-cant-find-love",
+    "i-keep-running-into-the-same-wall",
     "anxious-avoidant-dynamic",
     "fear-of-losing-yourself-in-love",
     "push-pull-dynamics-in-dating"
@@ -959,7 +980,8 @@
     "every-no-contains-a-better-answer",
     "if-you-think-youre-deciding-youre-in-fear",
     "peace-is-what-we-resist-the-most",
-    "peace-precedes-joy-after-non-duality"
+    "peace-precedes-joy-after-non-duality",
+    "what-were-avoiding-is-usually-love"
   ],
   "there-is-no-the-one": [
     "i-cant-find-love",
@@ -1057,7 +1079,12 @@
   ],
   "losing-self-in-love-two-forms": [
     "i-cant-find-love",
-    "fear-of-losing-yourself-in-love"
+    "i-feel-stuck",
+    "fear-of-losing-yourself-in-love",
+    "be-intimate-with-the-feeling",
+    "intimate-with-vs-giving-in-to-feeling",
+    "what-were-avoiding-is-usually-love",
+    "you-dont-control-love"
   ],
   "from-looking-for-love-to-being-love": [
     "i-cant-find-love",
@@ -1073,6 +1100,7 @@
   ],
   "stronger-story-stuckier-emotion": [
     "i-cant-get-over-this-loss",
+    "treating-felt-state-as-factual-reality",
     "dont-block-emotion-waiting-for-reason",
     "emotional-fluidity",
     "emotions-and-stories-dance",
@@ -1215,6 +1243,7 @@
   "i-feel-trapped": [
     "i-caretake-people",
     "i-dont-have-time-for-this",
+    "i-feel-stuck",
     "i-freeze-around-authority",
     "i-have-to-sacrifice-to-succeed",
     "i-keep-running-into-the-same-wall",
@@ -1224,6 +1253,7 @@
     "fight-or-roll-over-binary",
     "in-the-story-im-not-being-seen",
     "recycling-anger-without-clarity",
+    "treating-felt-state-as-factual-reality",
     "you-think-they-cant-handle-it",
     "what-if-you-acted-exactly-how-you-want",
     "boundaries",
@@ -1742,9 +1772,84 @@
     "finding-and-cultivating-community",
     "vulnerability-in-the-workplace"
   ],
+  "familiar-over-safe": [
+    "i-feel-stuck",
+    "view-as-technique",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "fear-of-self-destruction-by-anger",
+    "poverty-mentality",
+    "subconscious-partner-selection",
+    "the-matrix",
+    "3-to-5-rule",
+    "addiction-to-shame",
+    "pleasure-capacity",
+    "paradoxical-instruction-to-resist",
+    "shame-drives-behavior",
+    "what-we-fear-we-invite",
+    "without-grief-we-recreate-the-pattern",
+    "joes-abandonment-mapping"
+  ],
+  "what-were-avoiding-is-usually-love": [
+    "i-feel-stuck",
+    "be-intimate-with-the-feeling",
+    "lets-go-there",
+    "you-dont-control-love"
+  ],
+  "treating-felt-state-as-factual-reality": [
+    "i-feel-stuck"
+  ],
+  "lets-go-there": [
+    "i-feel-stuck",
+    "i-have-all-my-eggs-in-one-basket",
+    "whats-the-ultimate-thing-youre-running-from",
+    "amplify-the-feeling-until-it-breaks-open",
+    "be-intimate-with-the-feeling",
+    "can-you-hang-out-with-it",
+    "strip-away-externals-thought-experiment",
+    "what-does-your-heart-say",
+    "intimate-with-vs-giving-in-to-feeling",
+    "peace-is-what-we-resist-the-most",
+    "what-were-avoiding-is-usually-love",
+    "you-dont-control-love"
+  ],
+  "amplify-the-feeling-until-it-breaks-open": [
+    "i-feel-stuck",
+    "be-intimate-with-the-feeling",
+    "lets-go-there"
+  ],
+  "be-intimate-with-the-feeling": [
+    "i-feel-stuck",
+    "lets-go-there",
+    "intimate-with-vs-giving-in-to-feeling",
+    "what-were-avoiding-is-usually-love",
+    "you-dont-control-love"
+  ],
+  "you-dont-control-love": [
+    "i-feel-stuck",
+    "heartbreak-as-capacity-expansion",
+    "be-intimate-with-the-feeling",
+    "intimate-with-vs-giving-in-to-feeling",
+    "what-were-avoiding-is-usually-love"
+  ],
+  "i-have-to-X-to-be-free": [
+    "i-feel-stuck",
+    "i-need-a-scorecard",
+    "if-i-had-more-money",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "whats-next-after-i-reached-my-big-goal",
+    "any-amount-answer-as-total-installation",
+    "scorecard-keeping-as-identity-structure",
+    "what-do-you-think-you-need-to-be-free",
+    "same-scarcity-story-regardless-of-wealth",
+    "say-the-forbidden-want-out-loud",
+    "end-of-the-fight-is-the-freedom",
+    "nothing-is-required-for-freedom",
+    "what-we-fear-we-invite"
+  ],
   "fear-triangle": [
     "i-feel-trapped",
     "i-need-to-set-boundaries",
+    "treating-felt-state-as-factual-reality",
     "does-saying-it-increase-your-love",
     "what-are-you-defending",
     "coaching-as-savior-role",
@@ -2028,6 +2133,7 @@
     "i-have-all-my-eggs-in-one-basket",
     "heartbreak-as-capacity-expansion",
     "love-means-signing-up-to-be-hurt",
+    "you-dont-control-love",
     "visualizing-feared-outcomes",
     "romantic-relationships"
   ],
@@ -2047,7 +2153,9 @@
     "letting-judgment-in",
     "love-as-deep-welcoming",
     "parenting-as-deep-tissue-massage",
+    "be-intimate-with-the-feeling",
     "take-contrary-action",
+    "intimate-with-vs-giving-in-to-feeling",
     "softening-as-caring-diagnostic",
     "adversity-as-for-not-against",
     "annihilation-reveals-what-is-real",
@@ -2057,6 +2165,8 @@
     "mourn-the-breakup-fully",
     "nre-returns-in-grounded-form-after-each-healing",
     "relationships-as-personal-growth-path",
+    "what-were-avoiding-is-usually-love",
+    "you-dont-control-love",
     "compassion-as-of-the-guts",
     "love-yourself-the-way-you-always-wanted",
     "visualizing-feared-outcomes",
@@ -2069,14 +2179,6 @@
   ],
   "the-thing-not-being-said-as-the-fear-signal": [
     "i-have-all-my-eggs-in-one-basket"
-  ],
-  "lets-go-there": [
-    "i-have-all-my-eggs-in-one-basket",
-    "whats-the-ultimate-thing-youre-running-from",
-    "can-you-hang-out-with-it",
-    "strip-away-externals-thought-experiment",
-    "what-does-your-heart-say",
-    "peace-is-what-we-resist-the-most"
   ],
   "can-you-hang-out-with-it": [
     "i-have-all-my-eggs-in-one-basket",
@@ -2223,6 +2325,7 @@
     "overwhelm",
     "three-keepers-of-stuck-beliefs",
     "external-freedom-vs-internal-freedom",
+    "intimate-with-vs-giving-in-to-feeling",
     "losing-self-in-love-two-forms",
     "safety-that-connects-vs-disconnects-from-reality",
     "trust-vs-safety",
@@ -2285,6 +2388,7 @@
     "i-have-to-do-it-all-myself",
     "i-keep-chasing-emotionally-unavailable-people",
     "i-keep-crashing-and-burning",
+    "i-keep-running-into-the-same-wall",
     "money-is-bad",
     "view-as-technique",
     "anxious-avoidant-dynamic",
@@ -2301,6 +2405,7 @@
     "reclaiming-abandonment",
     "self-reliance-pushes-people-away",
     "subconscious-partner-selection",
+    "the-matrix",
     "trappedness-feeling",
     "believing-the-convenient-lie",
     "complementary-trauma-surfaces",
@@ -2316,6 +2421,7 @@
     "relationships-as-personal-growth-path",
     "what-we-fear-we-invite",
     "without-grief-we-recreate-the-pattern",
+    "noticing-the-matrix-pattern",
     "three-questions-on-the-pattern",
     "electric-fence-with-dog",
     "joe-apologizes-to-esme-for-the-3-year-old-imprint",
@@ -2329,8 +2435,10 @@
     "feeling-the-unfelt-emotion",
     "reclaiming-abandonment",
     "self-reliance-pushes-people-away",
+    "the-matrix",
     "trauma-mapping",
     "what-we-fear-we-invite",
+    "noticing-the-matrix-pattern",
     "joes-daughter-new-boyfriend-fear"
   ],
   "meet-resistance-with-okay": [
@@ -2403,11 +2511,13 @@
     "self-reliance-pushes-people-away",
     "push-pull-dynamics-in-dating",
     "transactional-relationships-as-defense",
+    "be-intimate-with-the-feeling",
     "hot-crushy-feeling-as-sugar-high",
     "nre-returns-in-grounded-form-after-each-healing",
     "searching-for-love-cuts-off-love",
     "the-partner-checklist-doesnt-survive-the-actual-relationship",
     "there-is-no-the-one",
+    "what-were-avoiding-is-usually-love",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
     "from-looking-for-love-to-being-love",
     "what-was-wired-with-love-needs-untying"
@@ -2586,6 +2696,7 @@
     "shame-as-disconnection",
     "shame-stagnates-emotion",
     "should-as-threat",
+    "the-matrix",
     "three-keepers-of-stuck-beliefs",
     "trauma-mapping",
     "trigger",
@@ -2685,6 +2796,7 @@
     "daily-emotional-yoga",
     "embodied-stages-of-grief-ritual",
     "emotional-inquiry",
+    "enjoy-your-breath-for-five-minutes",
     "fake-the-anger-to-let-it-move",
     "feel-the-pain-of-not-being-loved",
     "feeling-the-want-as-emotion",
@@ -2694,6 +2806,7 @@
     "let-your-body-shake-it-out",
     "list-the-shames-you-avoided",
     "move-the-body-to-integrate-insight",
+    "noticing-the-matrix-pattern",
     "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
     "try-to-feel-scared-then-stop-experiment",
@@ -2716,6 +2829,7 @@
   "chase-it-around-the-room": [
     "i-keep-chasing-emotionally-unavailable-people",
     "anxious-avoidant-dynamic",
+    "amplify-the-feeling-until-it-breaks-open",
     "let-your-body-remember-this-moment",
     "trigger-the-shame-live"
   ],
@@ -2908,6 +3022,7 @@
     "dont-indulge-emotion-instead-of-welcoming",
     "joy-as-matriarch",
     "running-toward-yourself",
+    "the-matrix",
     "three-stages-of-emotional-inquiry-maturity",
     "apply-view-to-fear",
     "love-the-anxiety-not-just-with-it",
@@ -3022,6 +3137,7 @@
     "parenting-as-deep-tissue-massage",
     "parenting-as-real-world-test-of-inner-work",
     "pulling-the-brakes",
+    "amplify-the-feeling-until-it-breaks-open",
     "apply-enjoy-to-whats-here",
     "say-yes-to-the-clients-experiment"
   ],
@@ -3181,6 +3297,36 @@
     "mind-unsees-first-body-last",
     "trust-the-awareness-dont-add-effort"
   ],
+  "the-matrix": [
+    "i-keep-running-into-the-same-wall",
+    "trying-to-get-rid-of-the-emotion",
+    "dont-indulge-emotion-instead-of-welcoming",
+    "feeling-the-unfelt-emotion",
+    "resistance",
+    "feared-stories-about-emotions-sense-something-real",
+    "what-we-fear-we-invite",
+    "daily-emotional-yoga",
+    "noticing-the-matrix-pattern"
+  ],
+  "noticing-the-matrix-pattern": [
+    "i-keep-running-into-the-same-wall",
+    "the-matrix",
+    "what-we-fear-we-invite",
+    "daily-emotional-yoga"
+  ],
+  "i-keep-crashing-and-burning": [
+    "i-keep-running-into-the-same-wall",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "im-burned-out",
+    "im-not-an-anxious-person",
+    "desire-for-resolution",
+    "linguistic-caveat",
+    "engineering-heartbreak-to-avoid-heartbreak",
+    "adrenaline-discharge-via-fear-activity",
+    "urgency-as-motivation",
+    "nervous-system-recovery-after-stress",
+    "ceo-pajama-house-study"
+  ],
   "money-as-surrogate|surrogate": [
     "i-need-a-scorecard"
   ],
@@ -3288,20 +3434,6 @@
     "trying-prevents-the-feeling",
     "you-cant-let-go-of-emotions-only-thoughts",
     "hold-the-memory-of-when-you-felt-it-most"
-  ],
-  "i-have-to-X-to-be-free": [
-    "i-need-a-scorecard",
-    "if-i-had-more-money",
-    "im-afraid-ill-revert-to-my-old-pattern",
-    "whats-next-after-i-reached-my-big-goal",
-    "any-amount-answer-as-total-installation",
-    "scorecard-keeping-as-identity-structure",
-    "what-do-you-think-you-need-to-be-free",
-    "same-scarcity-story-regardless-of-wealth",
-    "say-the-forbidden-want-out-loud",
-    "end-of-the-fight-is-the-freedom",
-    "nothing-is-required-for-freedom",
-    "what-we-fear-we-invite"
   ],
   "confidence-only-where-approval-isnt-needed": [
     "i-need-a-scorecard",
@@ -3486,6 +3618,7 @@
     "dont-use-safety-as-control",
     "definition-of-asshole",
     "fear-of-losing-yourself-in-love",
+    "wisdom-of-each-emotion",
     "apologize-for-trying-to-control",
     "empathize-with-fear-under-constricted-boundary",
     "reflect-back-to-make-partner-feel-heard",
@@ -3701,21 +3834,11 @@
     "how-could-you-do-this-and-gain-energy",
     "energy-management-over-time-management"
   ],
-  "i-keep-crashing-and-burning": [
-    "im-afraid-ill-revert-to-my-old-pattern",
-    "im-burned-out",
-    "im-not-an-anxious-person",
-    "desire-for-resolution",
-    "linguistic-caveat",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "adrenaline-discharge-via-fear-activity",
-    "urgency-as-motivation",
-    "nervous-system-recovery-after-stress",
-    "ceo-pajama-house-study"
-  ],
   "i-keep-running-into-the-same-wall": [
     "im-afraid-ill-revert-to-my-old-pattern",
+    "the-matrix",
     "same-defense-shows-up-in-marriage-and-team",
+    "amplify-the-feeling-until-it-breaks-open",
     "can-you-hang-out-with-it",
     "address-the-blocker-not-the-symptom",
     "the-change-or-no-change-visualization"
@@ -3735,6 +3858,7 @@
   ],
   "point-at-the-present-evidence": [
     "im-afraid-ill-revert-to-my-old-pattern",
+    "treating-felt-state-as-factual-reality",
     "quit-hope-lose-cycle",
     "ask-the-witnesses",
     "let-your-body-remember-this-moment",
@@ -3775,7 +3899,8 @@
     "patient-on-the-table"
   ],
   "looking-for-whats-wrong": [
-    "im-afraid-of-offending-people"
+    "im-afraid-of-offending-people",
+    "treating-felt-state-as-factual-reality"
   ],
   "press-the-button-thought-experiment": [
     "im-afraid-of-offending-people",
@@ -3971,6 +4096,7 @@
   ],
   "im-depressed": [
     "im-burned-out",
+    "treating-felt-state-as-factual-reality",
     "soul-dysmorphia",
     "symptoms-of-depression"
   ],
@@ -4264,6 +4390,7 @@
     "discipline-starts-engine-then-let-gravity",
     "negative-emotions-precede-positive",
     "there-is-no-better-person-on-the-other-side",
+    "enjoy-your-breath-for-five-minutes",
     "try-to-feel-scared-then-stop-experiment"
   ],
   "connection-as-life-bottom-line": [
@@ -4452,6 +4579,7 @@
     "im-not-an-anxious-person",
     "anxiety-three-definitions",
     "identity-extension-expands-fear",
+    "wisdom-of-each-emotion",
     "adrenaline-discharge-via-fear-activity",
     "fear-hot-potato",
     "name-your-trigger-as-vulnerability",
@@ -4524,6 +4652,7 @@
     "dont-use-breath-to-repress",
     "overwhelm",
     "polyvagal-nervous-system-framing",
+    "amplify-the-feeling-until-it-breaks-open",
     "breath-as-fertile-soil-vs-breath-as-control",
     "ask-from-slowness-not-intellect",
     "humming-exhale-for-vagal-tone"
@@ -4556,6 +4685,7 @@
     "peace-is-what-we-resist-the-most",
     "peace-precedes-joy-after-non-duality",
     "what-we-fear-we-invite",
+    "enjoy-your-breath-for-five-minutes",
     "stages-of-emotional-development",
     "cafe-emotional-stigma",
     "esme-heartbreak-feels-good",
@@ -4646,6 +4776,19 @@
     "view",
     "mikey-siegel-pitch"
   ],
+  "joy-vs-equanimity": [
+    "ive-lost-my-joy",
+    "joy-as-matriarch",
+    "joy-as-natural-state",
+    "peace-precedes-joy-after-non-duality"
+  ],
+  "peace-precedes-joy-after-non-duality": [
+    "ive-lost-my-joy",
+    "listlessness-after-awakening",
+    "joy-vs-equanimity",
+    "awakening-as-natural-development",
+    "peace-is-what-we-resist-the-most"
+  ],
   "observe-vs-move-emotion": [
     "ive-lost-my-joy",
     "dont-name-emotion-to-avoid-feeling",
@@ -4665,6 +4808,12 @@
     "what-we-fear-we-invite",
     "stages-of-emotional-development",
     "cafe-emotional-stigma"
+  ],
+  "enjoy-your-breath-for-five-minutes": [
+    "ive-lost-my-joy",
+    "joy-as-matriarch",
+    "joy-as-natural-state",
+    "pleasure-capacity"
   ],
   "expensive-to-be-poor": [
     "money-is-bad",
@@ -4706,7 +4855,8 @@
     "feel-over-figure",
     "judgment-vs-discernment",
     "decisions-are-emotional",
-    "self-judgment-protects-from-emotion"
+    "self-judgment-protects-from-emotion",
+    "noticing-the-matrix-pattern"
   ],
   "dont-fight-the-voice": [
     "my-inner-critic-wont-stop",
@@ -5119,7 +5269,8 @@
   ],
   "joy-of-accomplishment-is-the-absence-of-wants": [
     "whats-next-after-i-reached-my-big-goal",
-    "no-finish-line"
+    "no-finish-line",
+    "efficiency-as-enjoyment"
   ],
   "intellectual-process-with-no-somatic-component": [
     "whats-next-after-i-reached-my-big-goal",
@@ -5284,6 +5435,7 @@
     "impartiality",
     "kinked-emotions",
     "love-as-deep-welcoming",
+    "the-matrix",
     "impulse-to-should",
     "layered-resistance",
     "pendulation",
@@ -5305,6 +5457,7 @@
     "resisted-vs-unresisted-everything-shows-up-different",
     "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
+    "what-we-fear-we-invite",
     "joes-pot-habit"
   ],
   "approval-seeking": [
@@ -5485,12 +5638,6 @@
     "no-doctrine-leadership",
     "welcoming-fear-in-leadership"
   ],
-  "peace-precedes-joy-after-non-duality": [
-    "listlessness-after-awakening",
-    "joy-vs-equanimity",
-    "awakening-as-natural-development",
-    "peace-is-what-we-resist-the-most"
-  ],
   "im-afraid-of-offending-people": [
     "looking-for-whats-wrong",
     "the-built-up-resentment-story",
@@ -5591,6 +5738,7 @@
   ],
   "story": [
     "nostalgic-claw-for-old-identity",
+    "treating-felt-state-as-factual-reality",
     "dont-use-story-frame-to-bypass",
     "emotions-and-stories-dance",
     "zen-sickness",
@@ -5626,6 +5774,7 @@
     "enjoy-over-manage",
     "decisions-are-emotional",
     "what-we-fear-we-invite",
+    "enjoy-your-breath-for-five-minutes",
     "gratitude-rounds-before-meetings",
     "try-to-feel-scared-then-stop-experiment",
     "cafe-emotional-stigma",
@@ -5737,6 +5886,7 @@
     "the-thing-not-being-said-as-the-fear-signal",
     "opposite-of-trying",
     "overwhelm",
+    "amplify-the-feeling-until-it-breaks-open",
     "flow-vs-managing-reality",
     "knowing-yourself-is-the-only-safety",
     "leaders-calm-becomes-the-teams-calm",
@@ -5763,6 +5913,19 @@
     "fear-vs-excitement",
     "safety-that-connects-vs-disconnects-from-reality",
     "brett-wingsuit-girlfriend-thought"
+  ],
+  "problem-vs-something-happening": [
+    "treating-felt-state-as-factual-reality",
+    "material-problems-are-emotional-problems",
+    "what-we-fear-we-invite"
+  ],
+  "i-feel-stuck": [
+    "treating-felt-state-as-factual-reality",
+    "amplify-the-feeling-until-it-breaks-open",
+    "be-intimate-with-the-feeling",
+    "lets-go-there",
+    "peace-is-what-we-resist-the-most",
+    "what-were-avoiding-is-usually-love"
   ],
   "can-you-look-forward-to-feeling-it": [
     "trying-to-get-rid-of-the-emotion",
@@ -5926,6 +6089,7 @@
     "how-is-my-anxiety-right-now",
     "dont-indulge-emotion-instead-of-welcoming",
     "anxiety-as-constricted-life-force",
+    "intimate-with-vs-giving-in-to-feeling",
     "friction-is-required-for-life",
     "emotional-inquiry",
     "love-relationship-with-anxiety"
@@ -5934,6 +6098,7 @@
     "how-is-my-anxiety-right-now",
     "anxiety-three-definitions",
     "power-dynamics-as-two-defenders",
+    "wisdom-of-each-emotion",
     "fear-of-joy",
     "love-the-anxiety-not-just-with-it",
     "friction-is-required-for-life",
@@ -6585,6 +6750,7 @@
     "feeling-the-unfelt-emotion",
     "helplessness-as-cayenne-pepper-of-fear",
     "three-stages-of-emotional-inquiry-maturity",
+    "be-intimate-with-the-feeling",
     "can-you-hang-out-with-it",
     "enter-inquiry-with-soft-sense-of-self",
     "catastrophizing-vs-visualizing",
@@ -6601,6 +6767,7 @@
     "5-second-spice-check",
     "hold-the-memory-of-when-you-felt-it-most",
     "nervous-system-support-during-intense-inquiry",
+    "noticing-the-matrix-pattern",
     "toggle-between-opposite-emotions-then-hold-both"
   ],
   "gentleness-not-trying-to-be-patient": [
@@ -6655,6 +6822,7 @@
     "feel-the-love-then-feel-obligation",
     "if-you-couldnt-feel-this-whats-underneath",
     "acceptance-is-not-love",
+    "what-were-avoiding-is-usually-love",
     "compassion-as-of-the-guts",
     "divorce-client-love-vs-obligation-demo"
   ],
@@ -6994,6 +7162,8 @@
     "love-requires-empowerment",
     "obligation-cuts-off-love",
     "responsibility-stops-love",
+    "what-were-avoiding-is-usually-love",
+    "you-dont-control-love",
     "compassion-as-of-the-guts",
     "feel-love-and-empowerment-as-the-same",
     "from-looking-for-love-to-being-love",
@@ -7041,21 +7211,6 @@
     "talk-to-your-parts-and-ask-for-trust",
     "view",
     "romantic-relationships"
-  ],
-  "familiar-over-safe": [
-    "view-as-technique",
-    "engineering-heartbreak-to-avoid-heartbreak",
-    "fear-of-self-destruction-by-anger",
-    "poverty-mentality",
-    "subconscious-partner-selection",
-    "3-to-5-rule",
-    "addiction-to-shame",
-    "pleasure-capacity",
-    "paradoxical-instruction-to-resist",
-    "shame-drives-behavior",
-    "what-we-fear-we-invite",
-    "without-grief-we-recreate-the-pattern",
-    "joes-abandonment-mapping"
   ],
   "empathy": [
     "view-as-technique",
@@ -7660,6 +7815,7 @@
     "trigger",
     "walking-on-eggshells",
     "victim-anger-vs-dominating-anger",
+    "feared-stories-about-emotions-sense-something-real",
     "say-the-thing-youre-not-saying",
     "sadie-christopher-anger-together"
   ],
@@ -7709,6 +7865,7 @@
   ],
   "acting-out-emotions-as-fluidity": [
     "emotional-fluidity",
+    "feared-stories-about-emotions-sense-something-real",
     "you-dont-control-emotions-they-dont-control-you"
   ],
   "joes-pot-habit": [
@@ -7752,6 +7909,7 @@
     "emotional-fluidity",
     "joy-as-matriarch",
     "joy-as-natural-state",
+    "the-matrix",
     "joy-vs-equanimity",
     "approach-to-emotion-matters-as-much-as-emotion",
     "resisted-vs-unresisted-everything-shows-up-different",
@@ -8100,8 +8258,11 @@
     "vietnam-malnutrition-story",
     "reducing-overwhelm-in-organizations"
   ],
-  "joy-vs-equanimity": [
-    "joy-as-natural-state"
+  "joy-as-natural-state": [
+    "joy-as-matriarch",
+    "discipline-starts-engine-then-let-gravity",
+    "enjoyment-as-path",
+    "enjoy-your-breath-for-five-minutes"
   ],
   "opposite-of-trying": [
     "joy-as-natural-state",
@@ -8109,16 +8270,17 @@
     "trying-vs-doing",
     "allowing-creates-resilience",
     "discipline-starts-engine-then-let-gravity",
+    "enjoyment-as-path",
     "peace-is-what-we-resist-the-most",
+    "you-dont-control-love",
     "hands-together-exercise",
     "listen-as-the-wisest-person",
     "butchers-blade"
   ],
-  "enjoy-your-breath-for-five-minutes": [
-    "joy-as-natural-state"
-  ],
   "discipline-starts-engine-then-let-gravity": [
-    "joy-as-natural-state"
+    "joy-as-natural-state",
+    "enjoyment-as-path",
+    "enjoy-your-breath-for-five-minutes"
   ],
   "joes-pancake-anger-story": [
     "kinked-emotions",
@@ -8436,6 +8598,13 @@
     "triggers-reveal-your-own-beliefs",
     "will-chesney-seal-collapse-and-return"
   ],
+  "dont-indulge-emotion-instead-of-welcoming": [
+    "the-matrix",
+    "amplify-the-feeling-until-it-breaks-open",
+    "breath-as-fertile-soil-vs-breath-as-control",
+    "what-we-fear-we-invite",
+    "noticing-the-matrix-pattern"
+  ],
   "feeling-the-want-as-emotion": [
     "the-want",
     "wanting-vs-craving",
@@ -8510,6 +8679,7 @@
   ],
   "full-understanding-of-a-behavior-dissolves-it": [
     "upright-apology",
+    "amplify-the-feeling-until-it-breaks-open",
     "embracing-changes-unconscious-decisions",
     "apologize-as-daily-practice-for-bad-habits"
   ],
@@ -8730,7 +8900,8 @@
     "the-attack-and-cling-test-of-real-community"
   ],
   "i-feel-lonely-i-cant-find-real-community": [
-    "the-attack-and-cling-test-of-real-community"
+    "the-attack-and-cling-test-of-real-community",
+    "what-were-avoiding-is-usually-love"
   ],
   "invite-the-aggression-out": [
     "three-forms-of-anger-repression",
@@ -8746,6 +8917,7 @@
     "three-stages-of-emotional-inquiry-maturity",
     "apply-connection-to-whatever-youre-doing",
     "trying-prevents-the-feeling",
+    "daily-emotional-yoga",
     "emotional-inquiry",
     "nervous-system-support-during-intense-inquiry"
   ],
@@ -8762,6 +8934,9 @@
     "agree-when-challenged-on-the-teaching",
     "sorry-from-shame-vs-sorry-as-solidarity",
     "three-kinds-of-limiting-beliefs"
+  ],
+  "paradoxical-instruction-to-resist": [
+    "amplify-the-feeling-until-it-breaks-open"
   ],
   "fear-triangle|savior": [
     "apologize-for-trying-to-control"
@@ -8795,6 +8970,16 @@
     "reflect-back-to-make-partner-feel-heard",
     "state-the-want-not-the-action",
     "vulnerability-in-the-workplace"
+  ],
+  "intimate-with-vs-giving-in-to-feeling": [
+    "be-intimate-with-the-feeling",
+    "you-dont-control-love"
+  ],
+  "loving-the-anxiety-vs-being-with-it": [
+    "be-intimate-with-the-feeling"
+  ],
+  "inside-out-vs-top-down-observation": [
+    "be-intimate-with-the-feeling"
   ],
   "aggressive-victim-stance|aggressive victim": [
     "empathize-with-fear-under-constricted-boundary"
@@ -8987,10 +9172,6 @@
     "breath-to-exit-overwhelm",
     "emotional-inquiry"
   ],
-  "dont-indulge-emotion-instead-of-welcoming": [
-    "breath-as-fertile-soil-vs-breath-as-control",
-    "what-we-fear-we-invite"
-  ],
   "three-ways-to-fire-someone": [
     "caring-vs-caretaking",
     "just-business-vs-impersonal",
@@ -9046,6 +9227,9 @@
     "wrestle-with-your-principles",
     "defining-principles-well",
     "conditions-for-transformation"
+  ],
+  "indulge-emotion-instead-of-welcoming": [
+    "intimate-with-vs-giving-in-to-feeling"
   ],
   "community-over-teacher|sangha": [
     "intra-dependent-vs-codependent"
@@ -9227,9 +9411,6 @@
     "if-you-think-youre-deciding-youre-in-fear",
     "surrender-the-outcome-of-a-decision"
   ],
-  "joy-as-natural-state": [
-    "discipline-starts-engine-then-let-gravity"
-  ],
   "approach-the-pink-elephant": [
     "do-the-work-thats-harder-for-you",
     "embrace-intensity",
@@ -9350,10 +9531,6 @@
     "management-required-to-launch-predicts-management-required-forever",
     "listening-to-impulse"
   ],
-  "problem-vs-something-happening": [
-    "material-problems-are-emotional-problems",
-    "what-we-fear-we-invite"
-  ],
   "over-control-vs-hands-off-oscillation": [
     "never-rob-pain-or-gold"
   ],
@@ -9393,6 +9570,9 @@
     "defining-principles-well",
     "five-principles-of-the-path",
     "ray-dalio-transparency"
+  ],
+  "golden-algorithm-open-the-drawer": [
+    "principles-free-you"
   ],
   "rollout-principles-in-organization": [
     "principles-free-you",

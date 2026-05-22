@@ -4,7 +4,7 @@ id: trying-to-get-rid-of-the-emotion
 title: "Trying to Get Rid of the Emotion"
 aliases: ["wanting to be done with it", "trying to get over an emotion", "feeling it to make it go away", "the motivation is management", "wanting it gone", "doing the work to make the feeling stop", "feeling as strategy"]
 tags: ["emotions", "management", "stages of development", "motivation", "diagnostic"]
-sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
 ---
 
 # Trying to Get Rid of the Emotion
@@ -39,6 +39,16 @@ The fear-disappears version of the same trap: a person reports that they used th
 The recurrence is the diagnostic. If the practice felt like it worked and then the emotion came back, the management was operating. The welcoming that actually releases the loop produces a body that does not have to re-encounter the same material in the same way. The welcoming that was secretly management produces brief relief followed by return.
 
 There is a paradox built in. When emotions are genuinely welcomed, they do move and change. So an authentic welcoming and a strategic welcoming look identical on the surface. Both produce some movement. Only the authentic one moves the underlying pattern. The system can tell the difference even when the person cannot.
+
+## The Practice Becomes the Avoidance
+
+A sharp formulation of the same trap from the public-facing Matrix teaching (see [[the-matrix]]). The structural problem is recursive: the welcoming practice that initially worked, once converted into a strategy for making the emotion stop, becomes the new avoidance behavior. The avoidance was supposed to be what the practice replaced; the practice is now doing the avoidance under a more sophisticated name.
+
+"When you start to really invite it, it goes away. Like the emotion stops happening. And so you're like, oh cool, I'm gonna do this thing to make it go away. But then you're not welcoming it anymore. And it's like such a head trip, but as soon as you're doing any of these practices to get rid of the emotion, it basically becomes the avoidance that invites it towards you." -- Joe Hudson, How To Get Out Of The Matrix
+
+The phrasing "becomes the avoidance that invites it towards you" closes the loop: the same [[what-we-fear-we-invite]] mechanism that produces the original pattern is now being produced by the practice itself. The practice was meant to dissolve the loop. The practice has become the loop. The diagnostic for the read is precisely the same diagnostic for the original pattern, applied one layer up. The behavior generating the recurrence is now the welcoming-as-strategy rather than the original avoidance, but the structural shape is identical.
+
+This is why naming the read matters so much in this configuration. The person believes they are doing the work. The form of their doing matches the form of the work exactly. Only the internal motivation has changed. Without an outside read, the person stays inside the recursive trap indefinitely, refining the practice while the underlying loop keeps running.
 
 ## What Joe Does
 
@@ -81,3 +91,4 @@ Direct, slightly amused. The paradox here is structurally funny. Joe holds it li
 
 - 2021-09-24_Stages of Emotional Development - Emotion Series #1
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the fear-disappears variant: the practice produces apparent relief but the emotion comes back because the welcoming was secretly management; the recurrence is the diagnostic)
+- 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the recursive-trap formulation: when the welcoming practice gets converted into a strategy to make the emotion stop, the practice itself becomes the new avoidance and the loop reactivates with the practice as the production line for the same emotion)

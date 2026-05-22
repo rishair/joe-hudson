@@ -5,7 +5,7 @@ title: "Feeling the Unfelt Emotion"
 aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling", "falling in love with the emotion"]
 tags: ["trauma", "healing", "emotions", "core mechanism"]
 related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "feel-over-figure", "unfelt-emotion-leaks", "three-signals-of-unfelt-emotion", "disassociation-as-numbness-layer", "fear-vs-anxiety", "let-your-body-shake-it-out", "repression-vs-management", "observe-vs-move-emotion", "love-the-anxiety-not-just-with-it", "love-relationship-with-anxiety"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Vulnerability", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Vulnerability", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
 ---
 
 # Feeling the Unfelt Emotion
@@ -60,6 +60,16 @@ Joe's body-as-cell framing makes the mechanism explicit. The organism is structu
 "What's happening in our system is like, it's like we're a cell that's trying to get back to homeostasis. And if we weren't allowed to feel something, we're going to recreate that negative pattern in our life over and over and over again until we feel it. And then once we've felt it, then we don't have to recreate the pattern." -- Joe Hudson, Embracing Intensity
 
 The mechanism gives the most direct route to stopping a recurring negative pattern: feel the underlying emotion fully. "As soon as someone fully falls in love with the feeling they're trying to avoid, the pattern stops. It's the quickest way to stop a negative pattern in your life." -- Joe Hudson, Embracing Intensity
+
+The public-facing version of the same teaching (the "Matrix" framing -- see [[the-matrix]]) compresses the cell-homeostasis mechanism into a simple installation story: childhood emotional shutdown leaves a chemical loop incomplete, and the system spends decades generating opportunities for the loop to finally close. The arrival language is more accessible:
+
+"We are like cells and we're trying to get back to homeostasis. If for whatever reason that emotion doesn't go all the way through us and we don't get back to homeostasis, we start creating these patterns in our life over and over again so that we can feel that emotional experience and get back to homeostasis." -- Joe Hudson, How To Get Out Of The Matrix
+
+The same teaching also gives the cleanest distillation of what stops the recreation: full welcoming with no agenda for the emotion to leave.
+
+"When they fully embrace the abandonment feeling, they fall in love with it and recognize the signal that it's actually sending them and recognize how it's protecting them. Then they stop dating people who emotionally abandoned them and they stop creating emotional abandonment in their life." -- Joe Hudson, How To Get Out Of The Matrix
+
+The naming of the three things the welcoming opens up -- the signal the emotion is sending, what it has been protecting, and the felt experience of falling in love with it -- is what distinguishes welcoming from tolerating. The person who tolerates does none of the three. The person who welcomes does all three.
 
 ## The Welcoming Paradox
 
@@ -136,3 +146,4 @@ The three mechanisms compound. Better decisions reduce the situations that produ
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the three-mechanisms framing tying the welcoming work to decisions, pattern interruption, and connection; the explicit naming of the compounding effect)
+- 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the cell-homeostasis mechanism delivered in the simplest public-facing form; the framing that recreations stop when the person "fully embraces the abandonment feeling, falls in love with it, recognizes the signal it's sending, and recognizes how it's protecting them" -- three-part welcoming as distinct from tolerating)

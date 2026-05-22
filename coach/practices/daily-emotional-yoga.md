@@ -5,7 +5,7 @@ title: "Daily Emotional Yoga"
 aliases: ["emotional yoga", "daily emotional practice", "20 minutes of emotion", "feeling practice", "scheduled emotional release"]
 tags: ["practice", "emotions", "embodiment", "daily practice", "feeling"]
 related: ["feeling-the-unfelt-emotion", "stages-of-emotional-development", "kinked-emotions", "emotions-live-in-muscles", "feel-over-figure"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
 ---
 
 # Daily Emotional Yoga
@@ -58,6 +58,24 @@ The practice is the operational form of [[feel-over-figure]]. By giving emotions
 
 Especially valuable in the early stages of emotional work, when there are years or decades of suppressed material to release. Less needed once emotions are flowing daily in real time, but still useful as a maintenance practice.
 
+## The Two-Week Experiment Container
+
+For a person who has not yet begun the practice, Joe offers a low-overhead time-bounded experiment that compresses the daily emotional yoga commitment into a fourteen-day container. Each day, identify one emotion that has been avoided and bring it into emotional inquiry. That is the entire prescription.
+
+"Here's an experiment that you can try out. Every day at the end of the day or at the beginning of the day, you notice an emotion that you've been avoiding and you bring it into the emotional inquiry. You just do that every day for 2 weeks. Every day for 2 weeks. And notice how much your life changes." -- Joe Hudson, How To Get Out Of The Matrix
+
+The container has three useful properties for a beginner.
+
+**Time-bounded.** Fourteen days is short enough to commit to without resistance and long enough to accumulate body-level evidence. The person does not have to decide whether to take on a lifelong practice; they take on two weeks.
+
+**One emotion per day.** No accumulation pressure. The instruction is not to feel all the unfelt emotions in one sitting (see [[dont-go-after-every-emotion-at-once]]). One per day is plenty. The body integrates between sessions.
+
+**The framing is observational.** "Notice how much your life changes" is the invitation. The person is not promised a specific outcome. They are invited to run the experiment and see what they find. The lightness of the framing is part of what allows the practice to work without becoming another should.
+
+The two-week container pairs naturally with the [[noticing-the-matrix-pattern]] three-step diagnostic. The diagnostic surfaces what emotion is being avoided in any given day; the emotional inquiry session then welcomes the emotion the diagnostic surfaced. The combination of "notice today's avoided emotion" plus "feel it through" in a daily cadence for two weeks is the public-facing operational prescription Joe gives for breaking the Matrix pattern. See [[the-matrix]].
+
+After two weeks, the practice can be continued, paused, or evolved. The point of the container is not the container; it is the body-level evidence the container produces. Once the evidence is there, the practice typically continues in some form because the person has discovered what it does for them, not because they have committed to keeping it up.
+
 ## Tone
 
 Casual, practical. Joe presents this as something he just did, not as a sacred ritual. The emotional yoga is functional. It is yoga because the body is being moved and stretched into capacity, just as physical yoga does.
@@ -80,3 +98,4 @@ Casual, practical. Joe presents this as something he just did, not as a sacred r
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the two-week experiment container: each day notice one avoided emotion and bring it into emotional inquiry; the low-overhead time-bounded framing as an entry point for someone new to the practice; the "notice how much your life changes" observational invitation rather than promised outcome)

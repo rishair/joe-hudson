@@ -5,7 +5,7 @@ title: "Each Emotion Carries Its Own Wisdom"
 aliases: ["the wisdom of emotions", "emotions as information", "what each emotion is telling you", "the message of each emotion", "anger fear sadness as information", "what anger tells you", "what sadness tells you", "what fear tells you", "emotions have a message", "three indicators of anger", "anger as care boundary fear"]
 tags: ["emotions", "wisdom", "anger", "sadness", "fear", "information", "signal"]
 related: ["emotions-as-road-signs", "fear-as-signal-of-care", "feeling-the-unfelt-emotion", "kinked-emotions", "stages-of-emotional-development", "joy-as-matriarch", "the-want", "feel-over-figure", "anger", "logic-vs-emotional-movement"]
-sources: ["2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Stages Of Emotional Development"]
+sources: ["2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Stages Of Emotional Development", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
 ---
 
 # Each Emotion Carries Its Own Wisdom
@@ -70,6 +70,22 @@ The problem is not the emotion. The problem is the resistance to the emotion, wh
 
 "There's no emotion I've run into that hasn't been a benefit to me." -- Joe Hudson, Feel over Figure
 
+## The Signal Inside the Noise of Each Emotion
+
+The wisdom of each emotion can also be framed as the signal the emotion is sending. In the public-facing Matrix teaching, Joe names the move to welcoming the emotion as "finding the signal throughout all the noise" -- the gift that becomes operational once the resistance to the emotion has dropped.
+
+"You can find out what the signal is for the emotional experience. Angry might mean, oh, I have a boundary that I need to draw. And so, wow, I'm allowed to feel anger because it tells me I need to draw a boundary or it gives me a sense of clarity. There's a gift in this emotional experience. And so I can actually look forward to it. I can welcome it. Oh, I'm anxious. That might mean that I'm not saying my whole truth. Huh. I'm like, I'm holding something in. And since I don't feel safe that I can be myself, of course I have anxiety. So that tells me, oh, here's a place where I need to speak my truth." -- Joe Hudson, How To Get Out Of The Matrix
+
+Two specific signal-readings worth naming as standalone instances of the principle:
+
+**Anger signal: a boundary needs drawing.** The unwelcomed anger reads as the kinked version (sputtering, displaced, leaking). The welcomed anger reads as the signal that something needs a clear line: "no, this isn't going to happen." See [[anger]] and [[boundaries]].
+
+**Anxiety signal: a truth is being held in.** A particularly clean signal-reading for anxiety. The body is holding back something it needs to say; the holding produces the anxiety; speaking the truth releases the holding. This sits alongside the other signal-readings of anxiety (unarticulated need, constricted life force, performance pressure) as a distinct flavor of the same underlying mechanism. The diagnostic question: what truth am I not saying right now? See [[anxiety-as-unarticulated-need]] and [[anxiety-as-constricted-life-force]].
+
+The framing point: the signal is what becomes available once the welcoming begins. A person in resistance to anger cannot hear the boundary signal; they hear only the discomfort of the anger. A person in resistance to anxiety cannot hear the held-truth signal; they hear only the agitation. The welcoming is what makes the signal legible. This is why the practice precedes the interpretation: the wisdom is downstream of the flow, and the flow requires the welcoming.
+
+The opposite read also operates: if a person reports they have "interpreted" an emotion's message but the emotion keeps recurring, the interpretation likely arrived without the welcoming. The signal was extracted from outside the emotion rather than read from inside it. The result is a story that may even sound right but does not move the system. See [[repression-vs-management]].
+
 ## Reading the Emotion vs Feeling the Emotion
 
 There is a sequencing point. The wisdom of an emotion becomes available when the emotion is felt, not when it is named or analyzed. A person who jumps to "what is my anger telling me?" without first letting the anger move tends to produce intellectual answers that do not move the system. The intelligence is in the felt experience, not in the conceptual extraction.
@@ -113,3 +129,4 @@ Practical and respectful. Each emotion is presented as a colleague rather than a
 - 2021-09-24_Stages of Emotional Development
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode)
+- 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the explicit "signal throughout all the noise" framing for each emotion's wisdom; the two specific signal-readings of anger-as-boundary-needed and anxiety-as-truth-being-held-in; the framing of welcoming as the move that makes the signal legible)

@@ -5,7 +5,7 @@ title: "Peace Precedes Joy After Non-Duality (Sometimes for a Decade)"
 aliases: ["peace before joy", "joy comes after peace", "the 10 year peace phase", "peace is not the end", "non-duality is not the end", "evolution doesn't stop at non-duality", "people stuck in peace", "from peace to joy after awakening", "the post-non-duality joy phase", "awakening becomes background", "awakening is like hair color eventually"]
 tags: ["non-duality", "joy", "peace", "development", "stages", "self-realization"]
 related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive", "peace-is-what-we-resist-the-most", "craving-is-the-pushing-away", "awakening-as-natural-development", "joes-bathroom-realization", "dont-identify-as-awakened"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
 ---
 
 # Peace Precedes Joy After Non-Duality (Sometimes for a Decade)
@@ -37,6 +37,18 @@ The mistake is treating "I no longer need anything else" as evidence that nothin
 "I think on the outside, I probably seem much less joyous than I used to. I'm like not a loud, boisterous, laughing person... But I feel like incredibly joyful all of the time. Well, not all the time. But it's like, it's rare that I don't. And yet I feel like no need to express, and I don't think it like comes through talking to me, or at least it doesn't. It wouldn't have fit my model of how a joyful person acted. But there's like a quiet version of it that's really strong and I'm really grateful for almost all the time." -- Sam Altman, Sam Altman
 
 Two notes: first, the joy that arrives is often a quiet joy that does not match the prior model of what joy looks like (loud, boisterous, expressive). Second, it can take years to recognize. From the outside the person may seem flat; inside they are saturated.
+
+## The Depressed-Monk Variant: Equanimity Without Emotional Fluidity
+
+A specific failure mode that lives next to this developmental phase. The person arrives at equanimity through meditation or non-dual practice, the equanimity becomes stable, and depression sets in alongside it. They have built the stillness without building the emotional fluidity that joy requires. The equanimity is real and operating; the joy never comes because the meditation was also functioning as an emotional management tool.
+
+"I know people who have that and are depressed. There's a famous monk meditation teacher who talks openly about his depression. Um, and typically that's because the — in my experience of the people that I've met like that is they have learned the equanimity, but they haven't actually allowed the emotions to be without resistance, the meditation has become an emotional management tool as well as a tool for equanimity." -- Joe Hudson, Joy
+
+This pattern is the diagnostic edge of the developmental phase described above. The peace-before-joy phase will produce joy on its own timeline if the emotional channel is open. The depressed-monk phase will not, because the emotional channel was closed in the very practice that produced the equanimity. The two phases look similar from outside (both are equanimous, neither is visibly joyful). They are produced by opposite practices.
+
+The diagnostic that separates them: is the emotional channel open or closed? In the developmental phase, emotions move through the equanimity. In the depressed-monk variant, emotions have been suppressed alongside the development of the stillness. The fix is different in each case. The developmental phase needs time and the trust that joy is coming. The depressed-monk variant needs the welcoming of the emotions that were never welcomed.
+
+See [[joy-vs-equanimity]] for the full distinction and the structural reason these two states are produced by different mechanisms.
 
 ## What Distinguishes This From Zen Sickness
 
@@ -113,3 +125,5 @@ Joe delivers this conversationally, almost casually. He does not make a big deal
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (the phase after the joy: awakening becoming background, like hair color; Joe's own arc through peace, joy-via-emotional-work, and eventually ordinary integration where the recognition is present and unimportant)
+- 2024-03-15_Joy (the depressed-monk variant: the failure mode where equanimity arrives without emotional fluidity and produces sustained depression; the diagnostic between developmental phase and failure mode based on whether the emotional channel is open or closed; Joe's lineage note that meditation in Adyashanti's tradition produced significant emotional movement, distinguishing it from suppressive forms)
+- 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; same depressed-monk variant, Adyashanti lineage note, and equanimity-vs-joy distinction)

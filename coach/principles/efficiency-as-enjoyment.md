@@ -5,7 +5,7 @@ title: "Efficiency Is Measured by Enjoyment"
 aliases: ["enjoyment is efficiency", "human efficiency", "efficient when enjoying", "the human fuel measure", "fastest is not most efficient"]
 tags: ["efficiency", "enjoyment", "productivity", "principle", "measurement"]
 related: ["enjoyment-as-path", "enjoy-over-manage", "art-of-accomplishment", "butchers-blade", "sleep-deprived-soldier"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
 ---
 
 # Efficiency Is Measured by Enjoyment
@@ -65,6 +65,38 @@ The signal of false efficiency: you feel busy and important. The signal of real 
 
 Direct, slightly bemused at the obviousness once stated. Joe finds the alternative framing self-evidently absurd: "Cars, it's really obvious."
 
+## The Silicon Valley Multitasking-Meeting Example
+
+A specific demonstration of the principle at work in a high-status, high-stakes setting. An executive at one of the major Silicon Valley companies described to Joe how all the executives multitask through their meetings. Email open, Slack open, half-attending to whoever is talking. Each individual feels productive because they are doing two things at once. The aggregate result is wreckage.
+
+"Everybody feels more productive, but it like so many emails afterwards, nobody's enjoying it." -- Joe Hudson, Joy
+
+The wreckage: emails afterward to clarify what was decided. Decisions made without context becoming problems later. Nobody enjoying the meeting -- which means nobody is in the meeting in the way that would let them produce real value from it.
+
+Joe's reframe: "If they were all sitting down and said, okay, we, the number one thing is that we are going to learn to have a meeting that we all enjoy having. That meeting would be super effective." The criterion of enjoyment is not soft. It is the operational test of whether the meeting is producing what a meeting is supposed to produce. A meeting nobody is enjoying is a meeting nobody is fully in. A meeting nobody is fully in is a meeting where the leverage of having multiple people in a room together is being wasted.
+
+The diagnostic generalizes: any work session, any decision process, any team interaction can be evaluated by whether the people doing it are enjoying it. The not-enjoying is the data that something about the structure is wrong. Often the structure is the multitasking, the lack of presence, the absence of any criterion other than getting through the agenda.
+
+## The Slow-Is-Smooth-Is-Fast Compatibility
+
+A common counter to the enjoyment principle: enjoying takes longer. If you are going to feel the sensation of writing each email, express the joy in it, attend to what you actually want to say, you will write fewer emails. The objection is correct on the per-email basis and wrong on the portfolio basis.
+
+"It's slower. I can write an email much quicker than that. However, I probably am going to write a lot less emails. My relationships are going to be a lot better. There's going to be a lot less problems to handle. So like anything that takes discipline, you know, it's a long-term result that you're getting. It's not the short-term result that you're getting. Like exercise doesn't feel quite as good up front, but makes you feel great through the day." -- Joe Hudson, Joy
+
+The Navy SEAL framing of the same principle: "Slow is smooth and smooth is fast." The slowness at the individual-action level produces the smoothness that produces the speed at the system level. The not-enjoying / faster / sloppy mode is locally fastest and globally slowest. The enjoying / slower / present mode is locally slower and globally fastest.
+
+This is also why "I don't have time to enjoy it" is structurally wrong as an objection. The time saved by not enjoying is more than spent in cleaning up the consequences of not having been present. The accounting that says rushing is more efficient is performed at the wrong layer.
+
+## The Joy-as-KPI Thought Experiment
+
+The principle pressed to its operational form: what would it look like to actually measure joy in an organization the way we measure revenue or velocity? Most companies do not, despite tracking dozens of other metrics. The reasons are several -- there is no obvious instrument, employees would roll their eyes, joy is hard to translate into the next quarter's plan.
+
+Joe's response to the eye-rolling objection: the eye-rolling is itself a data point worth investigating. "I would love that if I was like, oh, we're gonna track your joy, and they're like, oh great. I'd be like, okay, let's start there. What makes you say that? What makes you not happy that this company wants you to have a joyous work experience?"
+
+The resistance is the work. If the team cannot tolerate the idea of joy being a metric, the team has something to look at about what joy means to them and why being asked to enjoy themselves feels like a threat. The investigation itself would produce more than most other interventions.
+
+The deeper reason joy is not measured: most people in business, most people in general, feel like joy has to be earned. Being of value to have joy. Even after being of value for twenty years, they still do not have a deep life of joy. The principle does not stop operating; the structure that says joy has to be earned just keeps moving the goalpost. See [[joy-of-accomplishment-is-the-absence-of-wants]] for the structural reason this strategy fails.
+
 ## The Root-Cause Lens
 
 The same principle applied to organizational decisions: inefficiency shows up wherever someone is managing the symptom rather than fixing the cause. The MG owner repairing the engine every 500 miles is "efficient" at the repair but inefficient overall because they keep working on the wrong layer. The Lexus owner who built once and rarely repairs is more efficient even though they appear to do less.
@@ -78,3 +110,5 @@ Enjoyment-as-measure works because enjoyment correlates with operating at the ri
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_Enjoy Over Manage
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2024-03-15_Joy (the Silicon Valley multitasking-meeting example; the slow-is-smooth-is-fast Navy SEAL framing; the joy-as-KPI thought experiment and the diagnostic value of teams resisting it; the structural reason joy is not measured -- because most people believe joy has to be earned)
+- 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical Silicon Valley meeting example, slow-is-smooth-is-fast framing, and joy-as-KPI thought experiment)

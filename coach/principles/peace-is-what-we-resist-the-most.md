@@ -2,9 +2,9 @@
 type: principle
 id: peace-is-what-we-resist-the-most
 title: "Peace Is What We Resist the Most (The Abyss Turns Out to Be Peace)"
-aliases: ["peace is what we resist", "we resist peace more than fear", "the abyss is peace", "what we're avoiding is peace", "the feared territory is peace", "resistance to peace", "we push away peace", "peace as the scary thing", "the spiral abyss becomes peace", "what we're running from is peace", "peace as the avoided experience", "in a war with yourself you always lose", "the war with yourself loses", "peace cannot be forced", "peace cannot be tried into being"]
-tags: ["peace", "resistance", "abyss", "fear", "non-duality", "craving", "non-resistance"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2023-04-14_The Opposite of Trying"]
+aliases: ["peace is what we resist", "we resist peace more than fear", "the abyss is peace", "what we're avoiding is peace", "the feared territory is peace", "resistance to peace", "we push away peace", "peace as the scary thing", "the spiral abyss becomes peace", "what we're running from is peace", "peace as the avoided experience", "in a war with yourself you always lose", "the war with yourself loses", "peace cannot be forced", "peace cannot be tried into being", "the avoidance is the stuckness", "the avoidance of the hole is the stuckness", "the stuckness IS the avoidance", "stuckness as avoidance of the abyss", "the avoidance is the suffering", "what you're running from is your relief", "running from the thing that brings freedom quickest"]
+tags: ["peace", "resistance", "abyss", "fear", "non-duality", "craving", "non-resistance", "stuckness"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2023-04-14_The Opposite of Trying", "2024-03-18_I Am Scared Of The Unknown"]
 ---
 
 # Peace Is What We Resist the Most
@@ -98,6 +98,22 @@ Peace also is not reached through avoiding conflict. Avoiding conflict in the wo
 
 "Any moment that you've had in peace, it's been received. It hasn't been something that you have forced yourself into or tried to get into." -- Joe Hudson, The Opposite of Trying
 
+## The Stuckness Variant: The Avoidance of the Hole IS the Stuckness
+
+A specific operational form of the principle in coaching. A person reports being stuck — chronically, for years, in a pattern they cannot break out of. The conventional interpretation is that the stuckness is a state to be escaped. The principle inverts this: the stuckness is the felt sense of avoiding what is on the other side. The activity of stuck-making is what produces the stuckness. Once the person enters what they have been avoiding, the stuckness dissolves because the activity that was generating it stops.
+
+Joe states this in its compressed form during the 2024 session: "That's how it works. The avoidance of the hole is the stuckness. The abyss." — Joe Hudson, I Am Scared Of The Unknown
+
+And then more sharply: "You are avoiding something that is your relief. You are running away from the thing that brings you freedom quickest."
+
+The structure: the stuck-feeling is not a state of being trapped. The stuck-feeling is the felt activity of holding the abyss at bay. The person experiences the holding as "being stuck" because the holding requires constant effort to maintain. The effort feels like stuckness from inside, but it is actually the activity of avoidance. Stop the avoidance, and the stuckness goes with it.
+
+The intervention follows directly. Enter the avoided territory (see [[lets-go-there]] and the "go into the hole" variant). The person discovers that what they were avoiding is not the catastrophe the avoidance was generating, and the stuckness — which was the avoidance — releases.
+
+This is also why the standard advice for stuckness ("try harder, make a plan, take action") tends to make things worse. The advice operates on the assumption that the person is trapped. But the person is not trapped; they are avoiding. Adding effort on top of the avoidance compounds the activity that was producing the stuckness. The actual move is the opposite of effort: enter what is being avoided.
+
+The stuckness variant is the explicit live-coaching companion to [[what-we-fear-we-invite]]. Both principles describe the same mechanism — avoidance generates the thing being avoided. The stuckness variant is the felt-state form: when avoidance becomes long-running and chronic, the felt sense of the avoidance presents itself as the felt sense of being stuck. The diagnostic question once this variant is recognized: "what is on the other side of the stuckness that I have been avoiding?" Almost always, what is on the other side is what the person originally wanted. See [[i-feel-stuck]] for the concern this variant typically presents as.
+
 ## When Someone Experiences This
 
 - They describe a fear of "losing themselves" if they really feel something
@@ -106,6 +122,7 @@ Peace also is not reached through avoiding conflict. Avoiding conflict in the wo
 - They have been working hard on something internal and the work itself has become the avoidance
 - They are stuck in a pattern that they understand intellectually but can't drop -- the pattern is keeping peace at bay
 - They describe a low-grade chronic activity (worry, planning, monitoring) that they can't seem to stop
+- They describe being chronically stuck — the felt-state form of the principle is the stuckness variant above
 
 ## Upstream (What Leads Here)
 
@@ -131,3 +148,4 @@ Quiet, deliberate, almost gentle. This principle is delivered in the same low re
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2023-04-14_The Opposite of Trying (the corollary that peace cannot be forced; "in a war with yourself, you always lose"; avoiding conflict creates a war inside)
+- 2024-03-18_I Am Scared Of The Unknown (the stuckness variant: "the avoidance of the hole is the stuckness, the abyss"; "you are avoiding something that is your relief; you are running away from the thing that brings you freedom quickest"; the live demonstration of the principle in the felt-state-of-stuckness form, where entering the catastrophic image dissolves the chronic stuck-feeling)

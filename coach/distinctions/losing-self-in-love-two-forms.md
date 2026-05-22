@@ -2,10 +2,10 @@
 type: distinction
 id: losing-self-in-love-two-forms
 title: "The Two Forms of Losing Yourself in Love (Identity-Dissolution vs. Self-Abandonment)"
-aliases: ["losing self in love two forms", "the two ways of losing yourself in love", "good losing self vs bad losing self", "identity dissolution vs codependency", "oneness vs self-abandonment", "the love-erodes-boundaries distinction", "the healthy and unhealthy losing of self", "love dissolving identity vs love dissolving self", "the two erosions in love", "spiritual dissolution vs codependent dissolution", "love as oneness vs love as monster-making", "the unity-type losing-self vs the codependent-type losing-self"]
+aliases: ["losing self in love two forms", "the two ways of losing yourself in love", "good losing self vs bad losing self", "identity dissolution vs codependency", "oneness vs self-abandonment", "the love-erodes-boundaries distinction", "the healthy and unhealthy losing of self", "love dissolving identity vs love dissolving self", "the two erosions in love", "spiritual dissolution vs codependent dissolution", "love as oneness vs love as monster-making", "the unity-type losing-self vs the codependent-type losing-self", "love rips away identity", "love rips away our identity", "love absorbs", "what love does to identity", "love is really fucking big", "the identity-dissolving function of love"]
 tags: ["love", "identity", "boundaries", "self", "codependency", "oneness", "distinction"]
-related: ["fear-of-losing-yourself-in-love", "heart-opening-needs-boundaries", "boundaries", "boundary-with-vs-boundary-against", "love-as-deep-welcoming", "i-cant-find-love", "push-pull-dynamics-in-dating"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+related: ["fear-of-losing-yourself-in-love", "heart-opening-needs-boundaries", "boundaries", "boundary-with-vs-boundary-against", "love-as-deep-welcoming", "i-cant-find-love", "push-pull-dynamics-in-dating", "you-dont-control-love", "what-were-avoiding-is-usually-love", "be-intimate-with-the-feeling"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-03-18_I Am Scared Of The Unknown"]
 ---
 
 # The Two Forms of Losing Yourself in Love
@@ -19,6 +19,20 @@ This is one of the things people are afraid of when they say they are afraid of 
 But "losing self in love" has two distinct forms that share the same surface description and produce completely different lives. The fear is almost always of the second form. The first form is what love actually offers when the conditions are right.
 
 "Love in itself is another way of losing yourself, more in a good way... like, there's a way in which what love does is it like erodes your boundaries and it erodes your identity, which is, can be incredibly healthy. It's, you know, creates like a feeling of oneness... But then there's this way that happens, like, in society where we lose ourselves and it's, we're acting like monsters, or we're, you know, in huge fights where we weren't in huge fights before, or we are codependent and we don't, or jealous or anything like that. And so that kind of losing oneself is, I think, what people are really scared of." -- Joe Hudson, Finding a Romantic Partner
+
+## What Love Does (Both Forms Encounter This)
+
+Before distinguishing the two forms, the structural fact about love that both forms encounter has to be named directly. Love does, in fact, rip away identity. This is not optional. It is what love does.
+
+"It feels like if I connect to it, like, it might absorb me whole." — Person, I Am Scared Of The Unknown
+
+"It will. That's what love does. It rips away our identity." — Joe Hudson, I Am Scared Of The Unknown
+
+The person who fears that love will absorb them is correctly sensing what love does to the defended identity. The fear is not paranoia. It is accurate perception of love's actual function. What the fear gets wrong is that the absorption is the catastrophe it's anticipating. The dissolution is real; the catastrophe is a story the defended identity tells about its own dissolution.
+
+This is why love is described as big — "love is really fucking big," in Joe's phrasing. The person who has been managing the size of love is shocked when they make actual contact with it. The bigness is not exaggeration. It is the actual scale of the force the person has been holding off.
+
+The fact that both Form A and Form B encounter love's identity-dissolving function is what makes the distinction necessary. The dissolution alone does not tell you which form is operating. The variable is what is dissolving and what is being preserved.
 
 ## Form A: Identity-Dissolution (The Healthy Losing-Self)
 
@@ -126,3 +140,4 @@ Careful. The distinction is subtle enough that delivering it too quickly will co
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2024-03-18_I Am Scared Of The Unknown (the direct statement that love rips away identity — "It will. That's what love does. It rips away our identity"; the "love is really fucking big" framing for the actual scale of what love does; the fear-of-absorption exchange that makes the structural fact explicit; the use of this distinction inside an intra-personal coaching context, not just relational — the same dynamic operates when a person is making intimate contact with their own longing/love)

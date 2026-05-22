@@ -4,7 +4,7 @@ id: ive-lost-my-joy
 title: "I've lost my joy / I can't enjoy things anymore"
 aliases: ["I don't feel joy", "I can't play anymore", "I'm flat", "I've lost my aliveness", "nothing feels good anymore", "I used to enjoy things", "I don't have joy", "I can't have fun", "I feel numb", "the joy is gone", "I'm not happy even though everything is fine"]
 tags: ["joy", "flatness", "numbness", "repression", "stages of development", "emotional management"]
-sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1"]
+sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
 ---
 
 # I've lost my joy / I can't enjoy things anymore
@@ -48,6 +48,7 @@ Two people can present "I've lost my joy" and the coaching paths diverge based o
 - If the person presents this as a problem to fix with more management ("how do I get my joy back"): Joe will not chase the joy. The chasing is the management. He will move toward the emotions that have not been moving — anger, sadness, fear. The path is through the family, not around it.
 - If the person is at Stage 3 (overwhelmed by emotion) presenting as Stage 4 (lost joy because they over-managed): Joe will distinguish the two. The work for a person who never managed at all is different from the work for a person who has been managing for years.
 - If the person describes their flatness as "peace": Joe will look for whether this is the spaciousness of [[impartiality]] or the deadness of suppression. They can look similar from the outside; internally they are opposite.
+- If the person describes their flatness as "equanimity" reached through meditation or non-dual practice: distinguish the developmental phase (equanimity arrived, joy on its way) from the failure mode (equanimity arrived through suppressing the emotional channel, joy structurally blocked). See [[joy-vs-equanimity]] and [[peace-precedes-joy-after-non-duality]].
 - If the person has been doing emotional work and the joy still has not arrived: Joe looks for what is being observed but not moved. See [[observe-vs-move-emotion]]. Years of insight without bodily release leaves the joy still locked.
 
 ## Coaching Path
@@ -68,6 +69,12 @@ A specific subtype: the nervous-system depression that follows prolonged stress.
 
 Joe does not treat lost joy as a tragedy. He treats it as a diagnostic. The flatness is information about the system: a particular kind of suppression has been working too well. The framing is warm but unsentimental.
 
+## A Starting Practice to Offer
+
+For someone who wants to begin testing the matriarch teaching in their own body, the most concrete entry point is [[enjoy-your-breath-for-five-minutes]]. The practice is small (five minutes), the object is always available (the breath), and the prediction is precise (the system will reach for a problem; the body will clamp at a threshold; the data will be visible). Starting here lets the work begin with what is already here rather than waiting for conditions to be right.
+
 ## Sources
 
 - 2021-09-24_Stages of Emotional Development - Emotion Series #1
+- 2024-03-15_Joy (the joy-vs-equanimity distinction for the read about flatness described as peace or equanimity; the five-minute breath practice as a concrete entry point; the daughter's heartbreak example as evidence that fully feeling the difficult emotion is the path to joy)
+- 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; same joy-vs-equanimity distinction, five-minute breath practice, and daughter's heartbreak example)

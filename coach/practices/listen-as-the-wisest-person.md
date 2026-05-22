@@ -4,7 +4,7 @@ id: listen-as-the-wisest-person
 title: "Listen to Everyone as the Wisest Person You Know (For a Day)"
 aliases: ["listen as the wisest person", "listen to everyone with skepticism then like a sage", "the listening experiment", "two-day listening practice", "skeptical day vs sage day", "listen to everyone like they're a sage", "the listening experiment for a day", "skepticism day and wisdom day", "listening as the receive"]
 tags: ["practice", "listening", "receiving", "view", "connection", "experiment", "two-day"]
-related: ["opposite-of-trying", "view", "empathy", "wonder", "connection", "being-heard", "how-what-questions", "ask-from-slowness-not-intellect", "five-star-meeting-commitment"]
+related: ["opposite-of-trying", "view", "empathy", "wonder", "connection", "being-heard", "how-what-questions", "ask-from-slowness-not-intellect", "five-star-meeting-commitment", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block"]
 sources: ["2023-04-14_The Opposite of Trying"]
 ---
 

@@ -4,7 +4,7 @@ id: i-keep-running-into-the-same-wall
 title: "I keep running into the same wall / There's something I'm not seeing"
 aliases: ["I keep doing the same thing", "I keep hitting the same wall", "there's something I'm not seeing", "same pattern different situation", "I keep getting stuck in the same place", "I've tried everything", "I know better but I keep doing it", "I keep getting the same result", "I think I have a limiting belief", "I think I have a blind spot", "why do I keep doing this", "the same thing keeps happening", "I see the pattern but I can't break it"]
 tags: ["limiting beliefs", "stuck", "patterns", "blind spot", "concern"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns"]
 ---
 
 # I keep running into the same wall / There's something I'm not seeing
@@ -93,13 +93,28 @@ The typical flow:
 - Does not let the person turn the framework into a tool for judging others.
 - Does not let the work become another should.
 
+## The Other Path: Pattern as Unfelt Emotion (The Matrix Framing)
+
+A second major path the coaching takes from this concern is the [[the-matrix]] / [[trauma-mapping]] / [[what-we-fear-we-invite]] framing rather than the limiting-belief framing above. Both are operating in most cases; which one to lead with depends on the read.
+
+**Lead with limiting belief when:** the recursion has a clearly cognitive surface (the person keeps articulating a belief about how the world is, a story that determines what they let themselves try, an "I am the kind of person who" identity claim that has fused with their behavior).
+
+**Lead with Matrix / unfelt-emotion when:** the recursion has a clearly relational or affective surface (the person keeps ending up with the same kind of partner, the same kind of boss, the same kind of fight; the recurring problem is about how they keep feeling rather than about what they think they know; the pattern operates below the level of articulated belief).
+
+The two framings are not in tension. The limiting belief is often the cognitive housing for the unfelt emotion; the unfelt emotion is often what makes the limiting belief unfalsifiable through ordinary reasoning. But the entry door matters. If the person is led through belief-dissolution work when the structure is emotional, the work produces understanding without movement. If the person is led through emotion-welcoming work when the structure is cognitive, the work produces emotion without insight.
+
+A useful diagnostic question for picking the path: "Is the pattern more about what you keep believing, or about what you keep feeling?" The person's first response usually points at the right entry door. See [[noticing-the-matrix-pattern]] for the three-step diagnostic that operates on the emotional side.
+
 ## Related Concerns
 
 - [[i-need-to-improve-myself]]: when the recursion is in the improvement project itself.
 - [[my-inner-critic-wont-stop]]: when the recursion is in the voice.
 - [[i-should-be-doing-this]]: when the recursion is in the language of obligation.
 - [[i-feel-trapped]]: when the recursion is felt as trappedness.
+- [[i-keep-chasing-emotionally-unavailable-people]]: when the recursion is specifically in romantic attachment.
+- [[i-keep-crashing-and-burning]]: when the recursion is in cycles of overcommit-and-collapse.
 
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2024-03-25_How To Get Out Of The Matrix - Break Through Emotional Patterns (the alternative entry door for the same concern -- when the recursion is relational/affective rather than cognitive, the Matrix / trauma-mapping / unfelt-emotion framing is what the coaching reaches for; the diagnostic question for picking which entry door fits the specific concern presented)

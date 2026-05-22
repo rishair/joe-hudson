@@ -5,7 +5,7 @@ title: "Living By Principles Frees You"
 aliases: ["principles create freedom", "principled living", "principles as empowerment", "elegant structure of principles", "personal constitution", "I don't work with assholes principle", "I put connection first principle", "principles handle the deciding in advance", "principled decisions evaporate the decision-feel", "principled decision-making", "decisions evaporate when principled", "live by principles to dissolve decisions", "the asshole principle", "connection-first principle"]
 tags: ["principles", "freedom", "empowerment", "structure", "values", "decisions"]
 related: ["empowered-vs-power", "process-over-result", "acting-as-if-already-true", "five-principles-of-the-path", "structure-and-empowerment", "good-decision-is-how-you-make-it-not-the-outcome", "decisions-as-portfolio", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear", "surrender-the-outcome-of-a-decision", "principled-board-decision", "wrestle-with-your-principles", "principle-vs-value", "defining-principles-well", "unconscious-principles-run-your-life", "rollout-principles-in-organization", "ray-dalio-transparency"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-17_Wrestle With Your Principles — Decisions Series #4"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-17_Wrestle With Your Principles — Decisions Series #4", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
 ---
 
 # Living By Principles Frees You
@@ -136,6 +136,24 @@ Joe's current five principles have been mostly stable for about five years. They
 
 The evolution of the wonder principle illustrates what wrestling produces: refinement over years, not invention in a retreat. The current form is stronger than the earlier forms because it does not require an answer at the end.
 
+## Joy Ensures Principles; Principles Don't Necessarily Ensure Joy
+
+A specific asymmetry Joe identifies between joy and principled living. The two are related but not symmetric. Principles can get you closer to joy. Joy guarantees principles.
+
+"I know people who live principled lives who are pretty happy. I'm not sure joyful, but I don't know anybody who lives a joyful life who doesn't live principled. So I think that principles can get you closer to joy, but they can't ensure it. But joy ensures principles." -- Joe Hudson, Joy
+
+The asymmetry matters because it identifies what is upstream of what. A life organized around principles does not automatically produce joy. The principles can be the wrong principles ("built around how to be most productive" rather than around the life you want to live). The principles can be held in a managing or controlling way that produces a principled life with no aliveness in it. The principles, in short, are not sufficient. They are powerful but they can miss.
+
+A life that has reached joy, by contrast, will be principled by default. The structure of joy is the absence of friction between the self and the action. That absence is what principled living also produces -- the dropping of the internal negotiation. When the joy is operating, the principles are operating too, even if the person has not articulated them. The joy is the upstream variable.
+
+The mechanism of overlap: most principles, when held seriously, contain at least one "lean in" principle -- a commitment to do the thing you do not particularly want to do because you know it is beneficial. "I'm going to open the drawer in the kitchen that nobody wants to look in, or I'm going to embrace the intensity, or I'm going to say the problem when it's there." See [[embrace-intensity]] and [[golden-algorithm-open-the-drawer]]. This is structurally identical to what produces joy -- leaning into the avoided emotional experience until it moves. Principles that include the lean-in are, by structure, also producing the conditions for joy.
+
+"What a principle does is it makes you feel into the shit that you don't want to feel into when it's inconvenient, which is really the same thing that we're saying gets joy, which is leaning into the shit that you don't particularly want to lean into, feeling it, allowing for it." -- Joe Hudson, Joy
+
+This explains why the leaders Joe knows who run principled businesses are the happier leaders he knows. The principled approach forces the same lean-in pattern that opens the door to joy in the inner work.
+
+The coaching implication: when working with someone who has good principles but no joy, the work is on the joy side. The principles are intact. The emotional fluidity that produces joy has not been developed alongside them. When working with someone who has joy but is being asked about principles, the work is gentle: their joy has likely already organized their life around what amounts to principles even if they would not call them that.
+
 ## In Organizations
 
 The same principles operate at organizational scale. A company runs on principles whether they are articulated or not. When they are not articulated, the principles are typically the CEO's unconscious patterns ("the company is run by trying to make the CEO happy"). When they are articulated and rolled out well, they become the operating system for distributed decision-making.
@@ -164,3 +182,5 @@ For an extended example of principles in operation at a major firm, see [[ray-da
 - 2022-10-26_Empower Over Power (rebroadcast of the 2021-03-26 episode)
 - 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the board-decision example; principles dissolving decisions into actions; principles include short-term ego cost)
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
+- 2024-03-15_Joy (the asymmetry between principles and joy: principles can get you closer to joy but cannot ensure it, while joy ensures principles; the mechanism by which most principles include a lean-in commitment that structurally produces the conditions for joy; the leaders-who-run-principled-businesses-are-happier-leaders observation)
+- 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical principles-vs-joy asymmetry teaching and lean-in-principle mechanism)

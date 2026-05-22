@@ -5,7 +5,7 @@ title: "Enjoyment as Path"
 aliases: ["enjoy the process", "how do I enjoy the things I'm doing", "enjoyment is more effective", "golden mean of the journey", "enjoy yourself", "enjoy whatever is here", "enjoy the difficult thing", "apply enjoyment to the current experience"]
 tags: ["transformation", "enjoyment", "principle", "approach"]
 related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity", "efficiency-as-enjoyment", "art-of-accomplishment", "consciousness-is-the-product", "enjoyment-as-surrender", "how-would-you-enjoy-x", "whats-stopping-you-from-enjoying-x", "apply-enjoy-to-whats-here", "running-toward-yourself", "pulling-the-brakes", "i-keep-postponing-enjoyment"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses", "2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses", "2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
 ---
 
 # Enjoyment as Path
@@ -63,6 +63,20 @@ The discovery the person makes when this is sustained: enjoyment is not a proper
 
 This is also the answer to the most common objection to the principle: "but how do I enjoy [the genuinely difficult thing]?" The objection treats certain experiences as exempt from the principle. The sustained use shows that the principle applies to those experiences too. The chronic pain, the shame, the stress, the helplessness — all of these are candidates. Not because the difficulty is a fiction, but because the enjoyment is a separate variable from the difficulty. The two can coexist. The person who learns this in the body learns that nothing in their life is structurally outside the principle's reach.
 
+## Trying to Enjoy Is the Resistance
+
+A specific failure mode worth naming because it looks like the principle but is its opposite. A person hears "enjoy what is here" and starts trying to enjoy it. The trying is the resistance. The principle has been collapsed into a forcing function.
+
+"If you're trying to feel it, then you're making some — then you're creating resistance. The trying is in itself the resistance that prevents it. And, and it also assumes that it's hard to get. Like, to try means that it's something that isn't your natural state. It's not like the current flowing freely. And so you put more constriction in the line and it drives it further and further away." -- Joe Hudson, Joy
+
+The error rests on a hidden premise: that enjoyment is something that has to be produced, achieved, manufactured. The trying enacts that premise. Each act of trying re-installs the assumption that the state is not currently available. The assumption is the obstacle.
+
+The correction is not "stop trying" in a way that becomes its own trying. The correction is a shift in framing: enjoyment is what is here when the resistance to what is here drops. The work is on the resistance, not on producing enjoyment. See [[joy-as-natural-state]] and [[opposite-of-trying]].
+
+The clearest version of the warning Joe offers is the college-roommate version of [[manufacturing-the-feeling]]: "We all met that person in college who's like, great, everything's great. It's like they're pretending happiness so that they might one day actually be happy. Like, that doesn't work. Like, unfortunately, that doesn't work." The pretending is the trying in social-presentation form. The state never arrives because the trying is the resistance.
+
+The line between practice and trying is subtle and matters. Practice can install the channel without becoming trying if it operates in the discipline-then-let-go frame. See [[discipline-starts-engine-then-let-gravity]]. The discipline phase is sincere and effortful. The release phase is where the actual enjoying happens. Practice that never releases becomes trying. Trying that never started as practice has no foundation. Both phases are required.
+
 ## The Inverse Test
 
 Paired with "how would you enjoy this?" is the diagnostic "how would you NOT enjoy this?" The inverse surfaces the specific mechanism by which the person has been blocking enjoyment. See [[whats-stopping-you-from-enjoying-x]].
@@ -95,3 +109,5 @@ This makes enjoyment not a luxury but a measure of how well the system is functi
 - 2022-10-26_Embarking On The Journey
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
+- 2024-03-15_Joy (the "trying to enjoy is the resistance" nuance; the college-roommate failure mode of pretending happiness; the discipline-then-release framing of how practice fits inside the principle without becoming trying)
+- 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; same trying-as-resistance teaching, college-roommate failure mode, and discipline-then-release framing)

@@ -4,7 +4,7 @@ id: being-heard
 title: "Being Heard"
 aliases: ["feeling heard", "I don't feel heard", "fully heard", "the need to be heard"]
 tags: ["connection", "communication", "resistance", "teams", "productivity"]
-related: ["view", "empathy", "how-what-questions", "impartiality"]
+related: ["view", "empathy", "how-what-questions", "impartiality", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move"]
 sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Introduction to VIEW"]
 ---
 

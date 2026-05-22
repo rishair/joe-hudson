@@ -2,10 +2,10 @@
 type: concept
 id: heartbreak-as-capacity-expansion
 title: "Heartbreak as Capacity Expansion"
-aliases: ["heartbreak expands capacity", "heart breaks open", "every heartbreak increases love", "let your heart break", "break open not break down", "expansion through heartbreak", "you never told me it could feel so good", "the heartbreak feels so good moment", "heartbreak is breaking open", "the contractions-are-expansions metaphor", "men slower to recover from heartbreak than women", "the gender pattern of heartbreak processing"]
+aliases: ["heartbreak expands capacity", "heart breaks open", "every heartbreak increases love", "let your heart break", "break open not break down", "expansion through heartbreak", "you never told me it could feel so good", "the heartbreak feels so good moment", "heartbreak is breaking open", "the contractions-are-expansions metaphor", "men slower to recover from heartbreak than women", "the gender pattern of heartbreak processing", "be heartbroken from time to time", "you get to be heartbroken increasing your capacity to love", "heartbreak is what love produces", "heartbreak as the trade for being in love"]
 tags: ["heartbreak", "love", "capacity", "intensity", "purification"]
-related: ["love-as-deep-welcoming", "letting-judgment-in", "feeling-the-unfelt-emotion", "embrace-intensity", "defense", "vulnerability", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "take-contrary-action"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Love Over Defense", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-04-28_How Love Gets Confused", "2023-06-09_Marriage, Love, and Death"]
+related: ["love-as-deep-welcoming", "letting-judgment-in", "feeling-the-unfelt-emotion", "embrace-intensity", "defense", "vulnerability", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "take-contrary-action", "you-dont-control-love", "what-were-avoiding-is-usually-love", "be-intimate-with-the-feeling"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Love Over Defense", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-04-28_How Love Gets Confused", "2023-06-09_Marriage, Love, and Death", "2024-03-18_I Am Scared Of The Unknown"]
 ---
 
 # Heartbreak as Capacity Expansion
@@ -184,6 +184,18 @@ When someone reports being unable to feel anything anymore: defense is intact an
 - Toward [[feeling-the-unfelt-emotion]]: the practice that allows heartbreak to do its expansion work.
 - Toward [[embrace-intensity]]: the broader principle of running toward what is intense.
 
+## Heartbreak as the Trade for Being in Love (The Un-Negotiable Compensation)
+
+A related framing, surfaced in the 2024 session, makes the relationship between love and heartbreak explicit as the structural exchange the person is consenting to when they choose intimate contact with love. The person who wants love wants what love does. What love does includes heartbreak. The heartbreak is not a malfunction. It is part of what's on offer.
+
+"You don't get to control love. That's not how it works. You just get to be heartbroken from time to time, increasing your capacity to love." — Joe Hudson, I Am Scared Of The Unknown
+
+The phrasing is precise. "You get to be heartbroken" — not "you have to," not "you suffer being." The "get to" is operative. The heartbreak is described as part of the privilege, not part of the cost. Because the heartbreak is what produces the capacity expansion the person was reaching for when they reached for love.
+
+This is the same teaching as the central definition above, restated from inside the moment a person is about to make contact with love. The person who wants love-without-heartbreak is asking for love without the function that produces what they actually wanted from love. The trade isn't negotiable. The compensation is the trade.
+
+See [[you-dont-control-love]] for the principle that frames what is and is not within the person's control when they begin intimate contact with love.
+
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
@@ -193,3 +205,4 @@ When someone reports being unable to feel anything anymore: defense is intact an
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood (Esmé's report at the car after her first breakup: "you never told me it could feel so good")
 - 2023-04-28_How Love Gets Confused (heartbreak as the path out of the trapped feeling in a relationship; the 80/20 estimate on partner-meets vs. relationship-ends; the gender pattern of recovery time; the contractions-are-expansions framing as the explicit reason heartbreak is breaking-open not breaking-apart; heartbreak as the deeper emotion underneath the fear of saying the hard thing)
 - 2023-06-09_Marriage, Love, and Death (the pre-heartbreak-in-a-living-relationship application: feeling the eventual loss now, with the partner present, producing the same expansion as retrospective heartbreak; the wedding-eve coaching arc from fear of loss to sadness to wanting-to-pour-self-out to vows as the expansion in real time)
+- 2024-03-18_I Am Scared Of The Unknown ("You just get to be heartbroken from time to time, increasing your capacity to love" — the explicit framing of heartbreak as the un-negotiable trade that comes with intimate contact with love; the "get to" rather than "have to" phrasing that situates heartbreak as part of the privilege rather than part of the cost)

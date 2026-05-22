@@ -5,7 +5,7 @@ title: "Pleasure Capacity"
 aliases: ["capacity for pleasure", "pleasure ceiling", "nervous system ceiling for enjoyment", "too much pleasure", "enjoyment overwhelm"]
 tags: ["nervous system", "enjoyment", "safety", "childhood", "capacity"]
 related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance", "fear-of-joy", "joy-as-matriarch", "cafe-emotional-stigma", "measuring-transformation-across-three-brains", "head-heart-gut", "polyvagal-nervous-system-framing"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
 ---
 
 # Pleasure Capacity
@@ -96,9 +96,21 @@ The point of the demonstration: enjoyment is not a thing you have to achieve or 
 
 This is also why "find better circumstances" is the wrong answer to "I can't enjoy my life." There are people in 3x3 cells, who haven't lain down in two years and two months and a day, who are training themselves to enjoy. The circumstance is not the variable. The capacity is the variable. The capacity can be trained anywhere.
 
+## The Five-Minute Diagnostic
+
+A specific test Joe offers for measuring the current capacity. Spend five uninterrupted minutes attending to the pleasure of breathing, or doing the dishes, or watching a flower. Notice what happens.
+
+The prediction: the system will not be able to maintain the focus for five full minutes. The mind will reach for a problem to solve. The body will clamp at a certain threshold. Some thought will arrive to interrupt. Each of these is the pleasure ceiling becoming visible.
+
+"You'll notice it's expansive. You'll notice you kind of relax into it, and you'll notice you can't even maintain it for 5 minutes. You'll notice that your mind goes to do something else, find some sort of problem, because to feel joy is — it brings up a lot of fear in people." -- Joe Hudson, Joy
+
+The not-being-able-to-maintain is the data. The reaching for a problem is the data. The clamping at a threshold is the data. The diagnostic surfaces the apparatus the system has been using to cap pleasure invisibly during ordinary life. Once visible, the apparatus can be worked with. See [[enjoy-your-breath-for-five-minutes]] for the practice as practice and [[fear-of-joy]] for the broader pattern the diagnostic surfaces.
+
 ## Sources
 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6 (the other-shoe-will-drop belief that operates at the pleasure ceiling)
 - 2022-10-26_Enjoy Over Manage (rebroadcast of the 2021-02-13 master class)
 - 2024-02-26_How To Measure Your Progress In Personal Development & Transformation (the pleasure-as-awareness-of-energy-moving definition and Joe's refinement to "awareness of sensations without resistance"; the bidirectional safety/pleasure mechanism; the no-ceiling claim; the framing of pleasure capacity as the gut/nervous-system marker of transformation)
+- 2024-03-15_Joy (the five-minute breath diagnostic for measuring current pleasure capacity; the prediction that the system will reach for a problem when joy approaches; the diagnostic surfacing the apparatus that caps pleasure invisibly during ordinary life)
+- 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical five-minute breath diagnostic and prediction that the system will reach for a problem when joy approaches)

@@ -2,9 +2,9 @@
 type: move
 id: lets-go-there
 title: "Let's Go There (The Invitation Into the Avoided Territory)"
-aliases: ["let's go there", "lets go there", "let's go", "the invitation to enter the abyss", "stepping into the avoided", "go into it move", "into the avoided territory", "the let's-go-there move", "the descent invitation"]
+aliases: ["let's go there", "lets go there", "let's go", "the invitation to enter the abyss", "stepping into the avoided", "go into it move", "into the avoided territory", "the let's-go-there move", "the descent invitation", "go into the hole", "go into the black hole", "step into the middle of it", "go in", "the go-into-the-image move", "the entry move", "enter the catastrophic image", "enter the avoided image"]
 tags: ["live coaching", "invitation", "abyss", "fear", "presence", "companionship"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2024-03-18_I Am Scared Of The Unknown"]
 ---
 
 # Let's Go There
@@ -77,19 +77,38 @@ Quiet, slow, low. The voice has no urgency. The pacing widens. The "let's go" is
 
 There is no enthusiasm in it. Enthusiasm would feel performative. There is no gravity in it. Gravity would make the territory feel more dangerous. There is just steady invitation.
 
+## The Stuckness Variant: "Go Into the Hole"
+
+A specific operational form: when the avoided territory is named as a catastrophic image (a black hole, an abyss, an explosion, a void) rather than as a specific feared emotion. The image has been doing the work of keeping the person out of the territory; the move dissolves the image by entering it.
+
+The arc in the source session: the person, after [[amplify-the-feeling-until-it-breaks-open]] has surfaced the deeper feeling, says "It feels like I'm gonna get sucked into this black hole and never be able to come out." Joe responds: "Go in, go into the hole." The person enters. What they discover is that the hole is not what they expected.
+
+"Yeah, and you're smiling because when I went into the hole, suddenly there was a different way and I just came back out again." — Person, I Am Scared Of The Unknown
+
+The structural fact Joe names immediately after: "That's how it works. The avoidance of the hole is the stuckness." The image was the avoidance; entering the image dissolves the avoidance; the stuckness (which was the avoidance) dissolves with it.
+
+The variant differs from the canonical use only in what is being entered. In the canonical case, the person enters a felt territory (the abyss). In the stuckness variant, the person enters a specific catastrophic image. The mechanism is the same. The image, which has been functioning as a wall, becomes a doorway once entered.
+
+The move in this variant is short and concrete. Two words: "go in." Or four: "go into the hole." The brevity matters. The person is already at the edge; what they need is the permission and the companionship, not an explanation. A long sentence at this moment would pull them back into thinking.
+
 ## Connected Concerns
 
 - [[how-do-i-trust-myself]]: a common context where the move appears late in the session
 - [[parts-work-made-things-worse]]: the move that interrupts the meta-loop and goes into the felt material
+- [[i-feel-stuck]]: the canonical concern for the catastrophic-image variant; the stuckness IS the avoidance of the hole
 
 ## Related
 
 - [[whats-the-ultimate-thing-youre-running-from]]: the question that opens the door this move walks through
+- [[amplify-the-feeling-until-it-breaks-open]]: the partner move that often precedes this one when the avoided thing is a felt-state rather than a named fear
 - [[peace-is-what-we-resist-the-most]]: the principle that explains why the move often produces surprise
+- [[what-were-avoiding-is-usually-love]]: the principle that names what is often found once the territory is entered
 - [[annihilation-reveals-what-is-real]]: the broader principle that the going-into produces what survives
 - [[not-sometimes-right-now]]: a related move -- both bring the person from talk into present experience
+- [[be-intimate-with-the-feeling]]: the move that often comes next once the territory has been entered and the actual material has surfaced
 
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2024-03-18_I Am Scared Of The Unknown (the stuckness variant: "go in, go into the hole" with the catastrophic-image of the black hole; the immediate dissolution upon entry and the person's smiling recognition; Joe's structural naming afterward that "the avoidance of the hole is the stuckness")
