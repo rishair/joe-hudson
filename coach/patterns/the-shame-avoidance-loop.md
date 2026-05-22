@@ -2,10 +2,10 @@
 type: pattern
 id: the-shame-avoidance-loop
 title: "The Shame Avoidance Loop"
-aliases: ["shame loop", "avoiding shame creates shame", "the lose-lose of shame avoidance", "shame creates shame", "shame avoidance creates more shame", "the shame catch-22", "either way shame", "the disconnection paradox"]
-tags: ["shame", "disconnection", "paradox", "self-betrayal", "people-pleasing"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite", "shame-hot-potato", "drop-the-hot-potato"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2023-12-22_The Shame Hot Potato"]
+aliases: ["shame loop", "avoiding shame creates shame", "the lose-lose of shame avoidance", "shame creates shame", "shame avoidance creates more shame", "the shame catch-22", "either way shame", "the disconnection paradox", "running away from shame creates more shame", "the addiction shame loop"]
+tags: ["shame", "disconnection", "paradox", "self-betrayal", "people-pleasing", "addiction"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite", "shame-hot-potato", "drop-the-hot-potato", "should-i-stop-drinking", "heart-in-a-box-want-to-drink", "do-i-stop-drinking-session"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves", "2023-12-22_The Shame Hot Potato", "2024-06-13_Do I Stop Drinking？"]
 ---
 
 # The Shame Avoidance Loop
@@ -88,6 +88,18 @@ The exit moves are also paired. Internally, the work is to let shame be felt rat
 
 A diagnostic: chronic recurring fight (same fight, year after year, with partner or team or political opponent) is almost certainly running on the hot potato in addition to whatever else is happening. The signature of shame-driven dynamics is stagnation. Other emotions resolve. Shame does not. So shame-driven patterns persist.
 
+## The Addiction Variant: Substance Use as the Avoidance Strategy
+
+When the avoidance strategy is a substance (alcohol, cannabis, food, scrolling, shopping) the loop has a specific shape. The person feels shame and uses the substance to escape it. The substance use produces more shame (about using the substance, about not being able to stop, about doing it again). The new shame increases the want for the substance. The cycle tightens.
+
+Joe's compression of this in a live coaching session about drinking:
+
+"How does it feel to know that you've been running away from shame and guilt, and in the running away from it, creating more shame and guilt?" -- Joe Hudson, Do I Stop Drinking?
+
+The client recognized this immediately as the dynamic he was in: "That's where I am. It's just like a downward spiral."
+
+This variant is structurally the same as the social form (avoiding shame in relationship to others creates more shame). The only difference is that the substance plays the role the avoidance behavior plays in the social form. The exit is also the same: stop fighting the shame, welcome it, and the cycle loses its fuel. The substance use changes downstream of the welcoming, not through behavioral force. See [[shame-drives-behavior]] and [[joes-pot-habit]] for the mechanism, and [[do-i-stop-drinking-session]] for the compressed coaching demonstration.
+
 ## Tone
 
 Joe explains the loop methodically, often with examples and humor. The framing is not "you are caught in a tragedy" but "you are caught in a math problem." The lightness is part of the medicine: the loop feels less heavy when it is described as a structural absurdity rather than a personal failure.
@@ -97,3 +109,4 @@ Joe explains the loop methodically, often with examples and humor. The framing i
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
 - 2023-12-22_The Shame Hot Potato (the interpersonal sibling pattern and the coupling between the avoidance loop and the hot potato)
+- 2024-06-13_Do I Stop Drinking？ (the substance-use variant of the loop: Joe names the cycle explicitly — "you've been running away from shame and guilt, and in the running away from it, creating more shame and guilt"; the client recognizes the downward spiral form of the pattern)

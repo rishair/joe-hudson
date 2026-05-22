@@ -2,9 +2,9 @@
 type: move
 id: point-at-the-present-evidence
 title: "Point at the Present Evidence (You're Already Doing the Thing You Fear You Won't Do)"
-aliases: ["point at present evidence", "reflect the action they just took", "you just did the thing", "you're doing it right now", "how did you do that question", "you're talking to me right now is also that", "the self-as-witness move", "the present-tense witness move", "the you-just-did-it move", "reflect their just-taken action", "you took that action so you're doing it", "this conversation is also evidence", "the right-in-front-of-us evidence move", "the live-demonstration move", "you have already proven the capacity move", "this very thing right now is the proof"]
-tags: ["moves", "evidence", "self-trust", "identity-update", "present-moment", "self-witness", "reflection"]
-sources: ["2023-12-29_Fear Of Overworking"]
+aliases: ["point at present evidence", "reflect the action they just took", "you just did the thing", "you're doing it right now", "how did you do that question", "you're talking to me right now is also that", "the self-as-witness move", "the present-tense witness move", "the you-just-did-it move", "reflect their just-taken action", "you took that action so you're doing it", "this conversation is also evidence", "the right-in-front-of-us evidence move", "the live-demonstration move", "you have already proven the capacity move", "this very thing right now is the proof", "the connection-is-happening-now demonstration", "how hard is your connection with me right now"]
+tags: ["moves", "evidence", "self-trust", "identity-update", "present-moment", "self-witness", "reflection", "connection"]
+sources: ["2023-12-29_Fear Of Overworking", "2024-06-13_Do I Stop Drinking？"]
 ---
 
 # Point at the Present Evidence (You're Already Doing the Thing You Fear You Won't Do)
@@ -86,8 +86,22 @@ Joe is direct with the reflection but does not push. If the person discounts, he
 - **For someone afraid they can't set a boundary:** "You set one to be here for this hour. How did you do that?"
 - **For someone afraid they can't ask for help:** "You're asking for help right now."
 - **For someone afraid they can't slow down:** "You're slowing down to talk to me. How did you do that?"
+- **For someone who thinks they need a substance to connect:** "How hard is your connection with me right now?" (The connection is happening without alcohol; the person's belief is being falsified in real time. See [[heart-in-a-box-want-to-drink]].)
 
 The precision matters. The evidence should be exactly the capacity the person is afraid they lack, in its exact form, happening right now.
+
+## The Connection-Is-Happening-Now Variant (For Substance-Use Patterns)
+
+A specific form: when the person believes they need a substance (alcohol, cannabis) to access connection, warmth, or the openhearted version of themselves, point at the connection that is happening in the coaching room without the substance.
+
+The form:
+- "How hard is your connection with me right now?"
+- (When the person reports it as hard:) "Right now it's happening."
+- (When the person says they can't connect because of the rubbish in the way:) "Yeah, so that means you're connected to the rubbish and me."
+
+The move usually has to be repeated across several turns. The first version often does not land because the person's habitual experience of trying to connect is that it is effortful. Joe re-asks "how hard is this?" at the moments the openhearted self is most present, and the body eventually reports what is actually happening: "super easy."
+
+The variant operates as a live A/B demonstration of the boxed-quality-is-available-without-the-substance teaching. The body verifies. Once verified, the substance loses its monopoly on the access. See [[heart-in-a-box-want-to-drink]] for the underlying mechanism and [[do-i-stop-drinking-session]] for the full sequencing across a session.
 
 ## Connected Moves
 
@@ -104,3 +118,4 @@ The precision matters. The evidence should be exactly the capacity the person is
 ## Sources
 
 - 2023-12-29_Fear Of Overworking
+- 2024-06-13_Do I Stop Drinking？ (the connection-is-happening-now variant of the move: the client believed he needed alcohol to access easy connection; Joe asked "how hard is your connection with me right now?" multiple times across the session; the live demonstration that the boxed quality was already available in the room without the substance was the operative breakthrough; the variant is the application of this move to substance-use patterns)

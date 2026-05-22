@@ -4,8 +4,8 @@ id: parenting-as-coaching-domain
 title: "Parenting as a Coaching Domain"
 aliases: ["parenting as the work", "parenting as coaching domain", "parenting as a coaching topic", "parenting is the work", "parenting work", "raising children as the deepest work", "the parent's coaching topic", "coaching parents", "parents in coaching", "parent-child coaching", "the parenting domain", "raising kids work", "the parenting development arc", "what happens in coaching with parents", "where parenting fits in the work"]
 tags: ["parenting", "application", "coaching", "family", "transformation", "children"]
-related: ["parenting-as-honest-mirror", "family-as-team", "hand-in-hand-parenting", "never-rob-pain-or-gold", "dont-shame-kids-they-self-shame", "joes-daughter-silent-retreat", "esme-just-need-to-be-sad", "esme-heartbreak-feels-good", "connection-as-family-metric", "loving-all-parts", "teach-teenagers-to-be-their-own-authority", "esme-step-by-step-project", "joes-no-compliments-daughter", "take-care-of-yourself-then-marriage-then-kids", "parenting-as-deep-tissue-massage", "kids-respond-to-emotional-presence-not-words", "kids-release-emotions-where-they-feel-safe", "dont-hate-your-kids-and-they-wont-hate-you", "every-trigger-with-your-kid-is-projection", "stay-close-and-insist", "esme-just-having-my-emotions", "una-grabbing-joes-face", "joe-apologizes-to-esme-for-the-3-year-old-imprint", "bar-couple-priority-order", "joe-and-tara-weekend-reset", "should-we-have-kids", "joes-calling-to-have-kids", "people-want-you-in-it-with-them-not-advice", "model-emotional-movement-for-your-kids", "draw-boundaries-with-kids-to-let-anger-arise", "dont-manage-your-kids-into-moving-emotion"]
-sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2023-05-12_Who Owns Your Authority?", "2023-10-13_Parenthood", "2023-10-18_Parenthood"]
+related: ["parenting-as-honest-mirror", "family-as-team", "hand-in-hand-parenting", "never-rob-pain-or-gold", "dont-shame-kids-they-self-shame", "joes-daughter-silent-retreat", "esme-just-need-to-be-sad", "esme-heartbreak-feels-good", "connection-as-family-metric", "loving-all-parts", "teach-teenagers-to-be-their-own-authority", "esme-step-by-step-project", "joes-no-compliments-daughter", "take-care-of-yourself-then-marriage-then-kids", "parenting-as-deep-tissue-massage", "kids-respond-to-emotional-presence-not-words", "kids-release-emotions-where-they-feel-safe", "dont-hate-your-kids-and-they-wont-hate-you", "every-trigger-with-your-kid-is-projection", "stay-close-and-insist", "esme-just-having-my-emotions", "una-grabbing-joes-face", "joe-apologizes-to-esme-for-the-3-year-old-imprint", "bar-couple-priority-order", "joe-and-tara-weekend-reset", "should-we-have-kids", "joes-calling-to-have-kids", "people-want-you-in-it-with-them-not-advice", "model-emotional-movement-for-your-kids", "draw-boundaries-with-kids-to-let-anger-arise", "dont-manage-your-kids-into-moving-emotion", "treat-your-kid-like-an-adult-you-respect", "liking-your-kid-vs-loving-your-kid", "if-you-do-x-youre-telling-them-its-okay-to-do-x", "bring-the-problem-to-your-teen", "dont-chase-your-teen-stay-available", "go-down-the-rabbit-hole-in-your-kids-world", "dont-micromanage-your-kid", "meet-each-kid-where-they-are", "connect-trip-with-your-kid", "joe-and-lowell-tuttle", "joes-high-waisted-jeans-decoy", "criticism-posture-vs-shame-posture", "no-attachment-to-the-outcome"]
+sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2023-05-12_Who Owns Your Authority?", "2023-10-13_Parenthood", "2023-10-18_Parenthood", "2024-06-07_Joe and Esme — The Teenage Years"]
 ---
 
 # Parenting as a Coaching Domain
@@ -49,6 +49,44 @@ The repair side of the same principle: imprints that were installed in earlier y
 ## The Teen-Years Reframe
 
 A specific anxiety many parents carry: the cultural script that says teenagers will hate them. The reframe: teens who hate their parents are mostly teens who have been told for years that some part of them is not okay. The pushing-off in adolescence is developmental; the cold rejection is the predictable response to years of accumulated not-okay messages. See [[dont-hate-your-kids-and-they-wont-hate-you]]. The principle also gives the parent a clear set of boundaries for the teen years: a "lane to swim in" defined by respect, contribution, and demonstrated responsibility — not micromanagement.
+
+## The Operational Stance and Moves for the Teen Years
+
+The teen years have a specific operational stance and a specific set of moves that follow from it. The stance is to treat the teen the way you would treat an adult you respect, with the caveat that you still draw boundaries. See [[treat-your-kid-like-an-adult-you-respect]] for the full treatment.
+
+This stance is structurally related to [[liking-your-kid-vs-loving-your-kid]]: the parent has to be transmitting like, not just love, for the relationship to be sustainable. Love is structural orientation; like is felt enjoyment of who the kid actually is, transmitted daily. The kid registers like through the absence of constant correction and the presence of genuine interest.
+
+The stance is enabled by the mirror-modeling principle: whatever the parent does to the kid is what the parent is implicitly authorizing the kid to do back. See [[if-you-do-x-youre-telling-them-its-okay-to-do-x]]. Yelling teaches yelling. Disliking teaches disliking. Respecting teaches respecting.
+
+The specific behavioral moves of the teen-years stance:
+
+- **[[bring-the-problem-to-your-teen]]** — when something needs to be addressed, bring the whole problem (including the parent's conflict about it) as a shared problem rather than a directive
+- **[[dont-chase-your-teen-stay-available]]** — never chase, always be available; the chase pushes them away, the availability draws them in
+- **[[go-down-the-rabbit-hole-in-your-kids-world]]** — get genuinely curious about their actual world rather than steering them toward yours
+- **[[meet-each-kid-where-they-are]]** — when there are multiple kids, drop the comparison habit and meet each one individually
+- **[[connect-trip-with-your-kid]]** — the practice of taking a 2-3 day phones-down trip every 6 months as the structural maintenance of the relationship
+
+The anti-patterns to avoid:
+
+- **[[dont-micromanage-your-kid]]** — the impulse to micromanage is the parent regulating their own out-of-control feeling by reaching for control over the kid; the kid is the available target, not the actual issue
+
+The underlying posture across all of these is [[no-attachment-to-the-outcome]] (NATO), one of the operational facets of [[view]]. The parent asks questions, makes contact, and brings problems from a place of no attachment to what the kid will produce. This is what makes the contact land as care rather than as management.
+
+## Reads for Adolescent Substance Use
+
+A specific application: when working with parents whose teens are using substances, two body reads are useful. See [[criticism-posture-vs-shame-posture]]. Kids in the criticism posture (held in the shoulders) often gravitate toward vaping. Kids in the shame posture (tucked butt, internal critical voice) often gravitate toward weed, because weed temporarily quiets the internal critic. Joe's own pattern in his 20s: weed correlated with repressed anger turned inward; once he started moving the anger, the desire for weed dissolved.
+
+The implication: substance use is downstream of held emotional states, and the parenting work is to address the held state, not the substance.
+
+## The Foundational Example: Being Seen Reshapes Who the Teenager Becomes
+
+The principles of the teen-years stance trace back to one foundational experience in Joe's own life. See [[joe-and-lowell-tuttle]]. Joe at 14 was the "most disturbed kid in the class" — small, smoked, lied compulsively, getting yelled at every night, kicked out of the house, eventually shipped to boarding school. The transformation came not from intervention or therapy, but from one adult (Lowell Tuttle, the headmaster at his second boarding school) who wanted to know who Joe actually was and saw the best in him. Joe went from disturbed to straight-A's. He explicitly traces his parenting philosophy back to this moment.
+
+The implication for coaching parents of difficult teens: the teen they are dealing with is one expression of who the teen is, calibrated to what the environment has been transmitting. A different transmission produces a different teen. This is not abstract — Joe is the lived demonstration.
+
+## Working With the Rebellion Need Playfully
+
+A specific (and slightly playful) parenting move worth knowing: the parent can engineer a low-stakes target for the teen to rebel against, channeling the developmental need for rebellion away from things that would actually cost the kid. See [[joes-high-waisted-jeans-decoy]] for the example. The move works inside a relationship where the trust is robust enough to absorb the eventual revelation that the parent was making it up for the plot.
 
 ## What This Application Adds to "Family as Team"
 
@@ -163,3 +201,4 @@ A coach working with parents needs to be able to:
 - 2023-05-12_Who Owns Your Authority? (the authority shift from young child to teenager)
 - 2023-10-13_Parenthood (the most comprehensive treatment of parenting as a coaching domain across early years, teen years, and the self-work the parent must do)
 - 2023-10-18_Parenthood (the same teaching extended to the pre-parent fork: coaching people who are still deciding whether to become parents at all, surfacing the question as a call rather than a decision)
+- 2024-06-07_Joe and Esme — The Teenage Years (the teen-years stance and moves articulated together in dialogue with Esme; Joe surfaces the operational stance — treat as respected adult, don't chase, be available, bring the problem, go down the rabbit hole, don't micromanage; introduces NATO as the underlying posture; surfaces the foundational origin story of Lowell Tuttle; introduces the criticism vs shame body reads with substance-use applications; demonstrates the relationship from both sides with Esme describing Joe as one of her best friends)

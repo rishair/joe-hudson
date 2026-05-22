@@ -4,6 +4,7 @@
     "money-is-bad",
     "anxiety-when-confronting-what-you-want",
     "any-amount-answer-as-total-installation",
+    "hidden-rebellion-under-the-habit",
     "money-as-surrogate",
     "apologize-to-the-projected-object",
     "binary-that-forces-the-avoidance-into-view",
@@ -348,6 +349,7 @@
     "i-should-be-doing-this",
     "im-burned-out",
     "whats-next-after-i-reached-my-big-goal",
+    "hidden-rebellion-under-the-habit",
     "what-if-you-acted-exactly-how-you-want",
     "what-was-x-going-to-get-you",
     "limiting-belief-meta-trap",
@@ -651,6 +653,7 @@
     "using-limiting-belief-frame-to-judge-others",
     "emotional-fluidity",
     "dehumanization-begins-with-right-and-wrong",
+    "meet-each-kid-where-they-are",
     "open-your-heart-while-judging-experiment",
     "spend-time-across-class-boundaries",
     "5-ways-to-stay-unhappy",
@@ -944,6 +947,7 @@
     "noticing-the-matrix-pattern",
     "three-questions-on-the-pattern",
     "electric-fence-with-dog",
+    "esme-basketball-teammate-attention-seeking",
     "joes-abandonment-mapping",
     "joes-daughter-new-boyfriend-fear",
     "target-fixation"
@@ -1113,6 +1117,7 @@
     "im-afraid-ill-revert-to-my-old-pattern",
     "im-afraid-of-stagnating",
     "my-inner-critic-wont-stop",
+    "should-i-stop-drinking",
     "who-isnt-an-imposter",
     "dont-extract-apologies",
     "blocker-emotions",
@@ -1133,7 +1138,9 @@
     "rebellion-or-submission-to-should",
     "religious-identity-around-pain",
     "shame-hot-potato",
+    "the-shame-avoidance-loop",
     "acknowledge-the-fear-by-role",
+    "reframe-the-question-to-the-blocker-emotion",
     "state-no-wish-for-their-shame",
     "welcome-the-shame-without-extracting",
     "defense-vs-love",
@@ -1168,6 +1175,7 @@
     "three-month-inherent-goodness-experiment",
     "fear-triangle",
     "seven-limiting-beliefs",
+    "do-i-stop-drinking-session",
     "joes-26-year-old-list",
     "joes-pot-habit"
   ],
@@ -1198,17 +1206,21 @@
   "rebellion-or-submission-to-should": [
     "i-cant-be-disciplined",
     "i-should-be-doing-this",
+    "should-i-stop-drinking",
+    "hidden-rebellion-under-the-habit",
     "dont-ping-pong-on-responsibility",
     "should-as-threat",
     "trappedness-feeling",
     "voice-in-the-head",
     "find-the-want-behind-the-should",
     "name-the-authoritys-fear",
-    "experimenting-with-the-voice"
+    "experimenting-with-the-voice",
+    "do-i-stop-drinking-session"
   ],
   "full-understanding-of-a-behavior-dissolves-it": [
     "i-cant-be-disciplined",
     "ill-become-lazy-without-shoulds",
+    "should-i-stop-drinking",
     "upright-apology",
     "religious-identity-around-pain",
     "amplify-the-feeling-until-it-breaks-open",
@@ -1232,6 +1244,7 @@
   "find-a-healthy-replacement": [
     "i-cant-be-disciplined",
     "ill-become-lazy-without-shoulds",
+    "heart-in-a-box-want-to-drink",
     "negative-self-reinforcement",
     "avoid-the-decision-by-design",
     "discipline-starts-engine-then-let-gravity",
@@ -1295,7 +1308,9 @@
     "im-exhausted-holding-space-for-my-partner",
     "im-not-living-up-to-my-potential",
     "my-inner-critic-wont-stop",
+    "should-i-stop-drinking",
     "acceptance-without-love",
+    "hidden-rebellion-under-the-habit",
     "anger",
     "money-as-surrogate",
     "trigger",
@@ -1335,6 +1350,13 @@
     "peace-is-what-we-resist-the-most",
     "punishing-the-remembering"
   ],
+  "should-i-stop-drinking": [
+    "i-cant-be-disciplined",
+    "hidden-rebellion-under-the-habit",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "heart-in-a-box-want-to-drink",
+    "rebellion-or-submission-to-should"
+  ],
   "manufacturing-the-feeling": [
     "i-cant-feel-my-emotions",
     "i-keep-crashing-and-burning",
@@ -1366,6 +1388,7 @@
     "i-cant-feel-my-emotions",
     "im-fake-my-love-is-corrupt",
     "whats-next-after-i-reached-my-big-goal",
+    "criticism-posture-vs-shame-posture",
     "intellectual-process-with-no-somatic-component",
     "mark-it-and-return-later",
     "you-dont-always-need-the-backstory",
@@ -1567,6 +1590,7 @@
     "i-cant-find-love",
     "i-keep-chasing-emotionally-unavailable-people",
     "push-pull-dynamics-in-dating",
+    "dont-chase-your-teen-stay-available",
     "decisions-are-emotional",
     "what-we-fear-we-invite",
     "joe-mina-china-overwhelm",
@@ -2300,6 +2324,7 @@
     "expanding-sense-of-self",
     "impartiality",
     "listening",
+    "no-attachment-to-the-outcome",
     "projections",
     "voice-in-the-head",
     "vulnerability",
@@ -2309,6 +2334,7 @@
     "ask-open-ended-non-judgmental-questions-when-triggered",
     "drop-the-hot-potato",
     "enter-inquiry-with-soft-sense-of-self",
+    "go-down-the-rabbit-hole-in-your-kids-world",
     "hold-a-perspective-without-thinking-youre-right",
     "inside-out-vs-top-down-observation",
     "wonder-vs-curiosity",
@@ -2343,6 +2369,7 @@
     "gandhi-isnt-weak",
     "island-experiment",
     "finding-and-cultivating-community",
+    "parenting-as-coaching-domain",
     "speaking-authentically",
     "vulnerability-in-the-workplace"
   ],
@@ -2368,9 +2395,11 @@
   ],
   "what-were-avoiding-is-usually-love": [
     "i-feel-stuck",
+    "heart-in-a-box-want-to-drink",
     "be-intimate-with-the-feeling",
     "lets-go-there",
-    "you-dont-control-love"
+    "you-dont-control-love",
+    "do-i-stop-drinking-session"
   ],
   "treating-felt-state-as-factual-reality": [
     "i-feel-stuck",
@@ -2538,12 +2567,14 @@
   ],
   "conditional-clauses-of-heart-closure": [
     "i-feel-trapped",
+    "heart-in-a-box-want-to-drink",
     "love-misconceptions-inherited-from-childhood",
     "take-contrary-action"
   ],
   "obligation-cuts-off-love": [
     "i-feel-trapped",
     "im-fake-my-love-is-corrupt",
+    "heart-in-a-box-want-to-drink",
     "love-as-deep-welcoming",
     "obligation-as-management",
     "childhood-imprinting",
@@ -3171,6 +3202,7 @@
     "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
     "emile-three-relationships-with-fear",
+    "joes-high-waisted-jeans-decoy",
     "predator-or-prey-hayes-valley"
   ],
   "i-cant-find-love": [
@@ -3362,6 +3394,7 @@
     "familiar-over-safe",
     "feel-your-way-to-freedom",
     "grief-as-gateway-to-self-love",
+    "heart-in-a-box-want-to-drink",
     "heartbreak-as-capacity-expansion",
     "helplessness-as-cayenne-pepper-of-fear",
     "i-cant-trust-my-thoughts-right-now",
@@ -3690,6 +3723,7 @@
     "listening-shapes-the-reality-that-comes-back",
     "self-abandonment-to-manage-the-other",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "listen-to-yourself-one-minute-a-day",
     "savannah-misunderstood-session"
   ],
   "self-abandonment-to-manage-the-other": [
@@ -3752,6 +3786,7 @@
     "self-abandonment-to-manage-the-other",
     "wanting-others-to-listen-is-the-block",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "listen-to-yourself-one-minute-a-day",
     "put-attention-in-inner-ear",
     "savannah-misunderstood-session"
   ],
@@ -3770,12 +3805,14 @@
     "self-abandonment-to-manage-the-other",
     "wanting-others-to-listen-is-the-block",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more",
     "savannah-misunderstood-session"
   ],
   "have-them-receive-your-listening": [
     "i-keep-feeling-misunderstood",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more"
   ],
   "the-rush-signature": [
@@ -3829,6 +3866,7 @@
     "i-keep-postponing-enjoyment",
     "im-afraid-of-offending-people",
     "im-fake-my-love-is-corrupt",
+    "criticism-posture-vs-shame-posture",
     "how-else-would-you-heal-your-shame",
     "how-would-you-enjoy-x",
     "if-i-were-inherently-good",
@@ -4127,6 +4165,7 @@
     "i-make-money-only-when-i-hate-what-im-doing",
     "im-fake-my-love-is-corrupt",
     "the-pulled-back-from-part-is-the-unloveable-part",
+    "heart-in-a-box-want-to-drink",
     "loving-all-parts",
     "childhood-imprinting",
     "apply-the-childhood-pattern-to-the-present-problem",
@@ -4159,6 +4198,7 @@
     "what-was-x-going-to-get-you",
     "money-as-surrogate",
     "apply-the-childhood-pattern-to-the-present-problem",
+    "reframe-the-question-to-the-blocker-emotion",
     "wanting-got-wired-to-unlovability",
     "public-speaking-coach-money-session"
   ],
@@ -4257,7 +4297,8 @@
     "i-need-a-scorecard",
     "scorecard-keeping-as-identity-structure",
     "treating-it-as-a-decision-when-its-an-emotion",
-    "whats-the-scorecard-that-cant-be-taken-away"
+    "whats-the-scorecard-that-cant-be-taken-away",
+    "reframe-the-question-to-the-blocker-emotion"
   ],
   "tell-the-unchanging-part-it-has-to-move": [
     "i-need-a-scorecard",
@@ -4420,6 +4461,7 @@
   ],
   "joes-godson-vape-pen": [
     "i-need-to-improve-myself",
+    "criticism-posture-vs-shame-posture",
     "joes-hacky-sack"
   ],
   "dont-improve-for-two-weeks": [
@@ -4524,6 +4566,7 @@
     "i-should-be-doing-this",
     "im-burned-out",
     "whats-next-after-i-reached-my-big-goal",
+    "hidden-rebellion-under-the-habit",
     "if-i-were-inherently-good",
     "what-are-you-trying-to-control-for",
     "money-as-surrogate",
@@ -4535,6 +4578,7 @@
     "i-dont-buy-your-story",
     "is-the-shame-in-the-room-or-in-you",
     "redirect-from-doing-it-right-to-enjoying-it",
+    "reframe-the-question-to-the-blocker-emotion",
     "say-the-forbidden-want-out-loud",
     "skill-transfer-redirect",
     "stick-a-fucking-shit-in-front-of-the-should",
@@ -4546,6 +4590,7 @@
     "need-behind-the-want",
     "rapid-fire-coaching-impulse-check",
     "should-vs-want-body-check",
+    "do-i-stop-drinking-session",
     "joes-godson-vape-pen",
     "joes-pleasing-dad-money-story",
     "joes-stinky-house-experiment",
@@ -4567,6 +4612,7 @@
     "voice-in-the-head",
     "have-them-say-i-want-all-of-me-loved",
     "mirror-to-group-then-substitute-i-for-you",
+    "listen-to-yourself-one-minute-a-day",
     "three-month-inherent-goodness-experiment"
   ],
   "stick-a-fucking-shit-in-front-of-the-should": [
@@ -4653,6 +4699,8 @@
   ],
   "i-cant-be-disciplined": [
     "ill-become-lazy-without-shoulds",
+    "should-i-stop-drinking",
+    "hidden-rebellion-under-the-habit",
     "negative-self-reinforcement",
     "avoid-the-decision-by-design",
     "find-a-healthy-replacement",
@@ -4716,7 +4764,8 @@
     "ask-the-witnesses",
     "let-your-body-remember-this-moment",
     "mark-it-and-return-later",
-    "identity-lags-behind-growth"
+    "identity-lags-behind-growth",
+    "do-i-stop-drinking-session"
   ],
   "find-the-emotion-under-self-judgment": [
     "im-afraid-ill-revert-to-my-old-pattern",
@@ -4731,6 +4780,7 @@
     "im-burned-out",
     "treating-it-as-a-decision-when-its-an-emotion",
     "ask-the-body-the-question",
+    "reframe-the-question-to-the-blocker-emotion",
     "caring-what-others-think-is-the-burnout-engine",
     "decisions-are-emotional"
   ],
@@ -4754,12 +4804,14 @@
   "the-shame-avoidance-loop": [
     "im-afraid-of-offending-people",
     "im-not-an-anxious-person",
+    "should-i-stop-drinking",
     "how-else-would-you-heal-your-shame",
     "conflict-avoidance-prevents-being-loved",
     "identity",
     "shame-as-disconnection",
     "shame-stagnates-emotion",
     "shame-hot-potato",
+    "reframe-the-question-to-the-blocker-emotion",
     "fault-vs-responsibility",
     "natural-shame-vs-installed-shame",
     "past-shame-vs-current-shame",
@@ -4770,7 +4822,8 @@
     "shame-drives-behavior",
     "the-emotional-experience-decides-the-channel",
     "list-the-shames-you-avoided",
-    "patient-on-the-table"
+    "patient-on-the-table",
+    "do-i-stop-drinking-session"
   ],
   "looking-for-whats-wrong": [
     "im-afraid-of-offending-people",
@@ -4962,8 +5015,11 @@
   ],
   "treating-it-as-a-decision-when-its-an-emotion": [
     "im-burned-out",
+    "should-i-stop-drinking",
     "whats-the-emotion-youre-trying-to-avoid",
-    "decisions-are-emotional"
+    "reframe-the-question-to-the-blocker-emotion",
+    "decisions-are-emotional",
+    "do-i-stop-drinking-session"
   ],
   "energy-management-over-time-management": [
     "im-burned-out",
@@ -5031,6 +5087,7 @@
     "im-depressed",
     "im-exhausted-holding-space-for-my-partner",
     "my-inner-critic-wont-stop",
+    "criticism-posture-vs-shame-posture",
     "letting-it-in-vs-deflecting-the-welcome",
     "dont-fight-the-voice",
     "dont-use-inquiry-to-win",
@@ -5091,7 +5148,8 @@
     "observer-vs-immersion-by-anger-type",
     "passive-aggressive-vs-aggressive-aggressive",
     "triggered-vs-big-emotion",
-    "i-exist-affirmation-against-collapse"
+    "i-exist-affirmation-against-collapse",
+    "joes-pot-habit"
   ],
   "experimenting-with-the-voice": [
     "im-depressed",
@@ -5732,6 +5790,7 @@
     "view-as-technique",
     "empathy",
     "expanding-sense-of-self",
+    "no-attachment-to-the-outcome",
     "resistance",
     "right-and-wrong-flips-from-head-to-action",
     "vulnerability",
@@ -5975,6 +6034,50 @@
     "story-dissolution-is-progress",
     "joes-daughter-silent-retreat"
   ],
+  "heart-in-a-box-want-to-drink": [
+    "should-i-stop-drinking",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "conditional-clauses-of-heart-closure",
+    "addiction-to-shame",
+    "point-at-the-present-evidence",
+    "shame-drives-behavior",
+    "do-i-stop-drinking-session",
+    "joes-pot-habit"
+  ],
+  "reframe-the-question-to-the-blocker-emotion": [
+    "should-i-stop-drinking",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "shame-drives-behavior",
+    "do-i-stop-drinking-session"
+  ],
+  "hidden-rebellion-under-the-habit": [
+    "should-i-stop-drinking",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "heart-in-a-box-want-to-drink",
+    "rebellion-or-submission-to-should",
+    "do-i-stop-drinking-session"
+  ],
+  "joes-pot-habit": [
+    "should-i-stop-drinking",
+    "emotional-fluidity",
+    "heart-in-a-box-want-to-drink",
+    "the-shame-avoidance-loop",
+    "embracing-changes-unconscious-decisions",
+    "find-a-healthy-replacement",
+    "full-understanding-of-a-behavior-dissolves-it",
+    "apologize-as-daily-practice-for-bad-habits",
+    "do-i-stop-drinking-session",
+    "joe-7-years-of-reichian-breathwork",
+    "joes-hacky-sack"
+  ],
+  "addiction-to-shame": [
+    "should-i-stop-drinking",
+    "heart-in-a-box-want-to-drink",
+    "shame-as-disconnection",
+    "religious-identity-around-pain",
+    "shame-drives-behavior",
+    "electric-fence-with-dog"
+  ],
   "if-you-think-youre-deciding-youre-in-fear|fear, not decision-making": [
     "should-we-have-kids"
   ],
@@ -6104,6 +6207,7 @@
     "empathy",
     "limiting-belief",
     "listening",
+    "no-attachment-to-the-outcome",
     "self-realization",
     "voice-in-the-head",
     "vulnerability",
@@ -6114,6 +6218,7 @@
     "ask-open-ended-non-judgmental-questions-when-triggered",
     "enter-inquiry-with-soft-sense-of-self",
     "follow-wonder-flag-the-deflection",
+    "go-down-the-rabbit-hole-in-your-kids-world",
     "name-your-trigger-as-vulnerability",
     "push-past-the-protective-frame",
     "boundary-with-vs-boundary-against",
@@ -6425,8 +6530,10 @@
     "listening-shapes-the-reality-that-comes-back",
     "self-abandonment-to-manage-the-other",
     "wanting-others-to-listen-is-the-block",
+    "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more",
     "put-attention-in-inner-ear",
+    "joe-and-lowell-tuttle",
     "savannah-misunderstood-session"
   ],
   "im-afraid-of-offending-people": [
@@ -6615,6 +6722,51 @@
     "confidence-only-where-approval-isnt-needed",
     "caring-vs-caretaking",
     "esme-listens-at-the-door",
+    "parenting-as-coaching-domain"
+  ],
+  "shame-stagnates-emotion": [
+    "criticism-posture-vs-shame-posture",
+    "dont-shame-your-grief-process",
+    "blocker-emotions",
+    "depression-four-levels",
+    "shame-as-disconnection",
+    "addiction-to-shame",
+    "shame-hot-potato",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
+    "obligation-cuts-off-love",
+    "seeing-through-essential-wrongness",
+    "shame-drives-behavior",
+    "wanting-got-wired-to-unlovability",
+    "what-we-fear-we-invite",
+    "list-the-shames-you-avoided",
+    "three-reflection-questions-on-anger"
+  ],
+  "dont-shame-kids-they-self-shame": [
+    "criticism-posture-vs-shame-posture",
+    "stay-close-and-insist",
+    "welcome-the-shame-without-extracting",
+    "natural-shame-vs-installed-shame",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "every-trigger-with-your-kid-is-projection",
+    "inherent-goodness",
+    "kids-release-emotions-where-they-feel-safe",
+    "parenting-as-honest-mirror",
+    "teach-teenagers-to-be-their-own-authority",
+    "esme-just-having-my-emotions",
+    "joes-daughter-silent-retreat",
+    "parenting-as-coaching-domain"
+  ],
+  "dont-hate-your-kids-and-they-wont-hate-you": [
+    "criticism-posture-vs-shame-posture",
+    "dont-micromanage-your-kid",
+    "bring-the-problem-to-your-teen",
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "liking-your-kid-vs-loving-your-kid",
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x",
+    "treat-your-kid-like-an-adult-you-respect",
+    "hand-in-hand-parenting",
+    "joe-and-lowell-tuttle",
+    "joes-high-waisted-jeans-decoy",
     "parenting-as-coaching-domain"
   ],
   "projections": [
@@ -6964,6 +7116,7 @@
     "feeling-changes-story",
     "free-write-the-anger",
     "get-angry-in-the-car",
+    "joes-pot-habit",
     "joes-rental-house-anger"
   ],
   "anger": [
@@ -7113,6 +7266,18 @@
     "describable-vs-changed",
     "experiential-before-intellectual",
     "the-first-thing-they-say-is-the-kernel"
+  ],
+  "blocker-emotions": [
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "heartbreak-is-the-love-underneath-the-blockers",
+    "shame-stagnates-emotion",
+    "drop-the-hot-potato",
+    "if-you-couldnt-feel-this-whats-underneath",
+    "every-thought-about-not-feeling-is-an-emotion-to-feel",
+    "negative-emotions-precede-positive",
+    "obligation-cuts-off-love",
+    "wanting-got-wired-to-unlovability",
+    "what-we-fear-we-invite"
   ],
   "can-you-look-forward-to-feeling-it": [
     "trying-to-get-rid-of-the-emotion",
@@ -7329,6 +7494,7 @@
     "drop-the-hot-potato",
     "how-could-you-do-this-and-gain-energy",
     "name-your-trigger-as-vulnerability",
+    "active-vs-passive-listening",
     "community-over-teacher",
     "presence-over-technique-in-coaching",
     "eye-contact-as-view-training",
@@ -7410,6 +7576,7 @@
   ],
   "what-makes-you-care-about-the-outcome": [
     "what-do-you-think-you-need-to-be-free",
+    "no-attachment-to-the-outcome",
     "visualize-the-felt-aftermath"
   ],
   "what-are-you-defending": [
@@ -7498,6 +7665,7 @@
   ],
   "emotional-fluidity": [
     "acting-out-emotions-as-fluidity",
+    "dont-micromanage-your-kid",
     "anger-as-cover-for-deeper-emotion",
     "comparative-mind",
     "connection",
@@ -8044,6 +8212,7 @@
     "trigger",
     "walking-on-eggshells",
     "mirror-to-group-then-substitute-i-for-you",
+    "liking-your-kid-vs-loving-your-kid",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
     "conversation-as-microcosm-of-relationship",
     "dont-hate-your-kids-and-they-wont-hate-you",
@@ -8098,17 +8267,21 @@
     "speak-from-listening",
     "the-last-to-speak-move",
     "wait-for-someone-else-to-say-it",
+    "active-vs-passive-listening",
     "chain-vs-tree-thinking-for-content",
     "conversation-as-microcosm-of-relationship",
     "listening-shapes-the-reality-that-comes-back",
     "state-not-framework",
+    "the-question-asker-wins-not-the-presenter",
     "wanting-others-to-listen-is-the-block",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more",
     "put-attention-in-inner-ear",
     "staying-in-your-body",
     "aristotle-project",
     "carl-rogers-three-day-listening-experiment",
+    "the-horticulture-train-ride",
     "speaking-authentically"
   ],
   "embracing-intensity-as-leading-indicator": [
@@ -8124,19 +8297,23 @@
     "parenting-as-deep-tissue-massage",
     "model-emotional-movement-for-your-kids",
     "stay-close-and-insist",
+    "liking-your-kid-vs-loving-your-kid",
     "dont-hate-your-kids-and-they-wont-hate-you",
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x",
     "inner-work-as-generational-repair",
     "kids-release-emotions-where-they-feel-safe",
     "people-want-you-in-it-with-them-not-advice",
     "presence-over-technique-in-coaching",
     "state-not-framework",
+    "esme-basketball-teammate-attention-seeking",
     "esme-just-having-my-emotions",
     "una-grabbing-joes-face",
     "parenting-as-coaching-domain"
   ],
   "model-emotional-movement-for-your-kids": [
     "dont-manage-your-kids-into-moving-emotion",
-    "draw-boundaries-with-kids-to-let-anger-arise"
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x"
   ],
   "draw-boundaries-with-kids-to-let-anger-arise": [
     "dont-manage-your-kids-into-moving-emotion",
@@ -8145,6 +8322,7 @@
   "dont-make-listening-a-morality": [
     "dont-manage-your-kids-into-moving-emotion",
     "listening",
+    "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more",
     "savannah-misunderstood-session"
   ],
@@ -8154,10 +8332,89 @@
     "community-over-teacher",
     "dont-hate-your-kids-and-they-wont-hate-you",
     "people-want-you-in-it-with-them-not-advice",
+    "treat-your-kid-like-an-adult-you-respect",
     "esme-step-by-step-project",
     "hand-in-hand-parenting",
+    "joes-high-waisted-jeans-decoy",
     "joes-no-compliments-daughter",
     "parenting-as-coaching-domain"
+  ],
+  "liking-your-kid-vs-loving-your-kid": [
+    "dont-micromanage-your-kid",
+    "go-down-the-rabbit-hole-in-your-kids-world",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x",
+    "kids-respond-to-emotional-presence-not-words",
+    "meet-each-kid-where-they-are",
+    "treat-your-kid-like-an-adult-you-respect",
+    "esme-basketball-teammate-attention-seeking",
+    "joe-and-lowell-tuttle",
+    "parenting-as-coaching-domain"
+  ],
+  "if-you-do-x-youre-telling-them-its-okay-to-do-x": [
+    "dont-micromanage-your-kid",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "kids-respond-to-emotional-presence-not-words",
+    "treat-your-kid-like-an-adult-you-respect",
+    "parenting-as-coaching-domain"
+  ],
+  "treat-your-kid-like-an-adult-you-respect": [
+    "dont-micromanage-your-kid",
+    "bring-the-problem-to-your-teen",
+    "dont-chase-your-teen-stay-available",
+    "go-down-the-rabbit-hole-in-your-kids-world",
+    "liking-your-kid-vs-loving-your-kid",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x",
+    "meet-each-kid-where-they-are",
+    "joe-and-lowell-tuttle",
+    "joes-high-waisted-jeans-decoy",
+    "parenting-as-coaching-domain"
+  ],
+  "dont-chase-your-teen-stay-available": [
+    "dont-micromanage-your-kid",
+    "bring-the-problem-to-your-teen",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "treat-your-kid-like-an-adult-you-respect",
+    "connect-trip-with-your-kid",
+    "parenting-as-coaching-domain"
+  ],
+  "bring-the-problem-to-your-teen": [
+    "dont-micromanage-your-kid",
+    "dont-chase-your-teen-stay-available",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "treat-your-kid-like-an-adult-you-respect",
+    "parenting-as-coaching-domain"
+  ],
+  "parenting-as-coaching-domain": [
+    "dont-micromanage-your-kid",
+    "parenting-as-deep-tissue-massage",
+    "bring-the-problem-to-your-teen",
+    "dont-chase-your-teen-stay-available",
+    "go-down-the-rabbit-hole-in-your-kids-world",
+    "liking-your-kid-vs-loving-your-kid",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "every-trigger-with-your-kid-is-projection",
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x",
+    "meet-each-kid-where-they-are",
+    "take-care-of-yourself-then-marriage-then-kids",
+    "teach-teenagers-to-be-their-own-authority",
+    "treat-your-kid-like-an-adult-you-respect",
+    "connect-trip-with-your-kid",
+    "bar-couple-priority-order",
+    "esme-basketball-teammate-attention-seeking",
+    "esme-heartbreak-feels-good",
+    "esme-just-having-my-emotions",
+    "esme-just-need-to-be-sad",
+    "esme-listens-at-the-door",
+    "esme-step-by-step-project",
+    "joe-and-lowell-tuttle",
+    "joe-and-tara-weekend-reset",
+    "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+    "joes-high-waisted-jeans-decoy",
+    "joes-no-compliments-daughter",
+    "una-grabbing-joes-face",
+    "family-as-team"
   ],
   "emotions-live-in-muscles": [
     "dont-name-emotion-to-avoid-feeling",
@@ -8290,22 +8547,6 @@
     "authenticity-in-business",
     "reducing-overwhelm-in-organizations",
     "vulnerability-in-the-workplace"
-  ],
-  "shame-stagnates-emotion": [
-    "dont-shame-your-grief-process",
-    "blocker-emotions",
-    "depression-four-levels",
-    "shame-as-disconnection",
-    "addiction-to-shame",
-    "shame-hot-potato",
-    "every-thought-about-not-feeling-is-an-emotion-to-feel",
-    "obligation-cuts-off-love",
-    "seeing-through-essential-wrongness",
-    "shame-drives-behavior",
-    "wanting-got-wired-to-unlovability",
-    "what-we-fear-we-invite",
-    "list-the-shames-you-avoided",
-    "three-reflection-questions-on-anger"
   ],
   "dont-block-emotion-waiting-for-reason": [
     "dont-shame-your-grief-process",
@@ -8618,7 +8859,9 @@
     "follow-wonder-flag-the-deflection",
     "meet-resistance-with-okay",
     "reflect-back-to-make-partner-feel-heard",
-    "good-and-corruption-cycle"
+    "active-vs-passive-listening",
+    "good-and-corruption-cycle",
+    "the-question-asker-wins-not-the-presenter"
   ],
   "inner-critic-prevents-rest-and-integration": [
     "activation-release-rest-cycle",
@@ -8726,7 +8969,8 @@
     "observer-vs-immersion-by-anger-type"
   ],
   "anger-is-love": [
-    "anger"
+    "anger",
+    "joes-pot-habit"
   ],
   "three-reflection-questions-on-anger": [
     "anger",
@@ -8935,6 +9179,7 @@
   ],
   "presence-over-technique-in-coaching": [
     "coach-personality-determines-style",
+    "no-attachment-to-the-outcome",
     "cant-remember-what-i-said-in-flow",
     "coach-as-follower-not-director",
     "coaches-foundation-self-awareness",
@@ -9285,15 +9530,6 @@
     "feared-stories-about-emotions-sense-something-real",
     "you-dont-control-emotions-they-dont-control-you"
   ],
-  "joes-pot-habit": [
-    "emotional-fluidity",
-    "embracing-changes-unconscious-decisions",
-    "find-a-healthy-replacement",
-    "full-understanding-of-a-behavior-dissolves-it",
-    "apologize-as-daily-practice-for-bad-habits",
-    "joe-7-years-of-reichian-breathwork",
-    "joes-hacky-sack"
-  ],
   "each-emotion-has-its-own-positive-flavor": [
     "emotional-fluidity",
     "joy-as-matriarch",
@@ -9574,19 +9810,15 @@
     "cia-organization-sabotage-manual",
     "joes-bathroom-realization"
   ],
+  "the-emotional-experience-decides-the-channel": [
+    "heart-in-a-box-want-to-drink",
+    "the-want-to-fit-in-vs-want-to-be-extraordinary",
+    "state-not-framework",
+    "joes-extemporaneous-vc-speech",
+    "speaking-authentically"
+  ],
   "examples/joes-weeping-at-superficial-conversations": [
     "heartbreak-as-capacity-expansion"
-  ],
-  "blocker-emotions": [
-    "heartbreak-is-the-love-underneath-the-blockers",
-    "shame-stagnates-emotion",
-    "drop-the-hot-potato",
-    "if-you-couldnt-feel-this-whats-underneath",
-    "every-thought-about-not-feeling-is-an-emotion-to-feel",
-    "negative-emotions-precede-positive",
-    "obligation-cuts-off-love",
-    "wanting-got-wired-to-unlovability",
-    "what-we-fear-we-invite"
   ],
   "care-vs-caretaking": [
     "heartbreak-is-the-love-underneath-the-blockers"
@@ -9812,6 +10044,18 @@
     "wisdom-is-when-you-dont-have-to-remember",
     "joes-first-meditation-retreat"
   ],
+  "active-vs-passive-listening": [
+    "listening",
+    "listening-shapes-the-reality-that-comes-back",
+    "the-question-asker-wins-not-the-presenter",
+    "the-horticulture-train-ride"
+  ],
+  "the-question-asker-wins-not-the-presenter": [
+    "listening",
+    "active-vs-passive-listening",
+    "listening-shapes-the-reality-that-comes-back",
+    "the-horticulture-train-ride"
+  ],
   "flow-vs-managing-reality": [
     "listening",
     "obligation-as-management",
@@ -9837,7 +10081,8 @@
     "listening",
     "the-last-to-speak-move",
     "listening-shapes-the-reality-that-comes-back",
-    "wanting-others-to-listen-is-the-block"
+    "wanting-others-to-listen-is-the-block",
+    "the-horticulture-train-ride"
   ],
   "the-last-to-speak-move": [
     "listening",
@@ -9858,6 +10103,9 @@
     "wait-for-someone-else-to-say-it",
     "the-clients-wisdom-not-the-teachers",
     "speaking-authentically"
+  ],
+  "listen-to-yourself-one-minute-a-day": [
+    "listening"
   ],
   "four-faces-of-love": [
     "love-as-deep-welcoming",
@@ -9896,6 +10144,17 @@
     "money-must-flow",
     "money-relationship-is-an-energetic-exchange",
     "money-domain"
+  ],
+  "go-down-the-rabbit-hole-in-your-kids-world": [
+    "no-attachment-to-the-outcome",
+    "dont-chase-your-teen-stay-available",
+    "liking-your-kid-vs-loving-your-kid",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "meet-each-kid-where-they-are",
+    "treat-your-kid-like-an-adult-you-respect",
+    "connect-trip-with-your-kid",
+    "joe-and-lowell-tuttle",
+    "parenting-as-coaching-domain"
   ],
   "potato-chipping-the-rigid-body-under-obligation": [
     "obligation-as-management",
@@ -9955,6 +10214,7 @@
     "model-emotional-movement-for-your-kids",
     "coaches-foundation-self-awareness",
     "every-trigger-with-your-kid-is-projection",
+    "if-you-do-x-youre-telling-them-its-okay-to-do-x",
     "inner-work-as-generational-repair",
     "kids-release-emotions-where-they-feel-safe",
     "kids-respond-to-emotional-presence-not-words",
@@ -9965,24 +10225,6 @@
     "una-grabbing-joes-face",
     "family-as-team",
     "parenting-as-coaching-domain"
-  ],
-  "parenting-as-coaching-domain": [
-    "parenting-as-deep-tissue-massage",
-    "dont-hate-your-kids-and-they-wont-hate-you",
-    "every-trigger-with-your-kid-is-projection",
-    "take-care-of-yourself-then-marriage-then-kids",
-    "teach-teenagers-to-be-their-own-authority",
-    "bar-couple-priority-order",
-    "esme-heartbreak-feels-good",
-    "esme-just-having-my-emotions",
-    "esme-just-need-to-be-sad",
-    "esme-listens-at-the-door",
-    "esme-step-by-step-project",
-    "joe-and-tara-weekend-reset",
-    "joe-apologizes-to-esme-for-the-3-year-old-imprint",
-    "joes-no-compliments-daughter",
-    "una-grabbing-joes-face",
-    "family-as-team"
   ],
   "hand-in-hand-parenting": [
     "parenting-as-deep-tissue-massage",
@@ -10089,12 +10331,6 @@
     "addiction-to-shame",
     "embrace-intensity"
   ],
-  "addiction-to-shame": [
-    "shame-as-disconnection",
-    "religious-identity-around-pain",
-    "shame-drives-behavior",
-    "electric-fence-with-dog"
-  ],
   "if-i-were-inherently-good": [
     "shame-as-disconnection",
     "inherent-goodness",
@@ -10143,6 +10379,7 @@
     "coach-as-follower-not-director",
     "relationships-as-personal-growth-path",
     "triggers-reveal-your-own-beliefs",
+    "esme-basketball-teammate-attention-seeking",
     "will-chesney-seal-collapse-and-return"
   ],
   "cant-remember-what-i-said-in-flow": [
@@ -10256,7 +10493,8 @@
   ],
   "read-anger-and-help-as-fear": [
     "welcoming-fear-as-group-stabilizer",
-    "fear-hot-potato"
+    "fear-hot-potato",
+    "esme-basketball-teammate-attention-seeking"
   ],
   "approach-and-say-no-with-group-honoring": [
     "welcoming-fear-as-group-stabilizer",
@@ -10282,7 +10520,9 @@
     "wonder"
   ],
   "find-what-you-dont-know": [
-    "wonder"
+    "wonder",
+    "active-vs-passive-listening",
+    "the-question-asker-wins-not-the-presenter"
   ],
   "wonder-vs-curiosity": [
     "wonder",
@@ -10396,7 +10636,8 @@
   ],
   "scapegoat-as-marriage-stabilizer": [
     "one-team-member-holds-the-helplessness",
-    "identity-shapes-who-is-around-you"
+    "identity-shapes-who-is-around-you",
+    "joe-and-lowell-tuttle"
   ],
   "leaders-calm-becomes-the-teams-calm": [
     "one-team-member-holds-the-helplessness",
@@ -10417,6 +10658,13 @@
     "listening-to-impulse",
     "seven-limiting-beliefs"
   ],
+  "do-i-stop-drinking-session": [
+    "rebellion-or-submission-to-should",
+    "the-shame-avoidance-loop",
+    "point-at-the-present-evidence",
+    "shame-drives-behavior",
+    "joes-pot-habit"
+  ],
   "name-the-authoritys-fear": [
     "rehearsing-conversations",
     "empathize-with-fear-under-constricted-boundary",
@@ -10433,6 +10681,9 @@
     "notice-and-be-grateful-for-connection",
     "two-person-gratitude-practice",
     "vietnam-malnutrition-story"
+  ],
+  "inner-work-as-generational-repair": [
+    "scapegoat-as-marriage-stabilizer"
   ],
   "are-you-willing-to-do-the-work": [
     "shame-hot-potato",
@@ -10477,12 +10728,6 @@
     "dont-claim-the-wisdom-as-yours",
     "narcissism-as-incapacity-to-feel",
     "training-coaches-and-facilitators"
-  ],
-  "the-emotional-experience-decides-the-channel": [
-    "the-want-to-fit-in-vs-want-to-be-extraordinary",
-    "state-not-framework",
-    "joes-extemporaneous-vc-speech",
-    "speaking-authentically"
   ],
   "invite-the-aggression-out": [
     "three-forms-of-anger-repression",
@@ -10556,10 +10801,41 @@
   "inside-out-vs-top-down-observation": [
     "be-intimate-with-the-feeling"
   ],
+  "stay-close-and-insist": [
+    "bring-the-problem-to-your-teen",
+    "draw-boundaries-with-kids-to-let-anger-arise",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "kids-respond-to-emotional-presence-not-words",
+    "esme-just-having-my-emotions",
+    "parenting-as-coaching-domain"
+  ],
+  "people-want-you-in-it-with-them-not-advice": [
+    "bring-the-problem-to-your-teen"
+  ],
+  "dont-micromanage-your-kid": [
+    "bring-the-problem-to-your-teen",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "parenting-as-coaching-domain"
+  ],
   "what-is-it-without-resistance": [
     "compare-resisting-vs-not-resisting-the-feeling",
     "three-kinds-of-limiting-beliefs",
     "joe-ferris-wheel-ride"
+  ],
+  "take-care-of-yourself-then-marriage-then-kids": [
+    "dont-chase-your-teen-stay-available",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "kids-respond-to-emotional-presence-not-words",
+    "bar-couple-priority-order",
+    "joe-and-tara-weekend-reset",
+    "parenting-as-coaching-domain"
+  ],
+  "connect-trip-with-your-kid": [
+    "dont-chase-your-teen-stay-available",
+    "go-down-the-rabbit-hole-in-your-kids-world",
+    "dont-hate-your-kids-and-they-wont-hate-you",
+    "meet-each-kid-where-they-are",
+    "parenting-as-coaching-domain"
   ],
   "dont-manage-your-kids-into-moving-emotion": [
     "draw-boundaries-with-kids-to-let-anger-arise",
@@ -10567,18 +10843,6 @@
   ],
   "three-childhood-origins-of-anger-repression|origins of anger repression": [
     "draw-boundaries-with-kids-to-let-anger-arise"
-  ],
-  "dont-hate-your-kids-and-they-wont-hate-you": [
-    "draw-boundaries-with-kids-to-let-anger-arise",
-    "hand-in-hand-parenting",
-    "parenting-as-coaching-domain"
-  ],
-  "stay-close-and-insist": [
-    "draw-boundaries-with-kids-to-let-anger-arise",
-    "dont-hate-your-kids-and-they-wont-hate-you",
-    "kids-respond-to-emotional-presence-not-words",
-    "esme-just-having-my-emotions",
-    "parenting-as-coaching-domain"
   ],
   "kids-release-emotions-where-they-feel-safe": [
     "draw-boundaries-with-kids-to-let-anger-arise",
@@ -10617,6 +10881,17 @@
     "enjoy-over-manage",
     "allowing-creates-resilience"
   ],
+  "no-attachment-to-the-outcome": [
+    "go-down-the-rabbit-hole-in-your-kids-world",
+    "active-vs-passive-listening",
+    "the-question-asker-wins-not-the-presenter",
+    "parenting-as-coaching-domain"
+  ],
+  "meet-each-kid-where-they-are": [
+    "go-down-the-rabbit-hole-in-your-kids-world",
+    "liking-your-kid-vs-loving-your-kid",
+    "parenting-as-coaching-domain"
+  ],
   "money-must-flow": [
     "happy-money-game",
     "giving-from-desire-not-obligation",
@@ -10635,10 +10910,14 @@
   "listening-shapes-the-reality-that-comes-back": [
     "have-them-receive-your-listening",
     "the-last-to-speak-move",
+    "active-vs-passive-listening",
     "conversation-as-microcosm-of-relationship",
+    "the-question-asker-wins-not-the-presenter",
     "wanting-others-to-listen-is-the-block",
     "you-cant-be-seen-when-youre-not-in-yourself",
-    "aristotle-project"
+    "listen-to-yourself-one-minute-a-day",
+    "aristotle-project",
+    "the-horticulture-train-ride"
   ],
   "letting-it-in-vs-deflecting-the-welcome": [
     "have-them-receive-your-listening",
@@ -10741,20 +11020,6 @@
   "welcome-the-shame-without-extracting": [
     "state-no-wish-for-their-shame",
     "dont-shame-kids-they-self-shame"
-  ],
-  "dont-shame-kids-they-self-shame": [
-    "stay-close-and-insist",
-    "welcome-the-shame-without-extracting",
-    "natural-shame-vs-installed-shame",
-    "dont-hate-your-kids-and-they-wont-hate-you",
-    "every-trigger-with-your-kid-is-projection",
-    "inherent-goodness",
-    "kids-release-emotions-where-they-feel-safe",
-    "parenting-as-honest-mirror",
-    "teach-teenagers-to-be-their-own-authority",
-    "esme-just-having-my-emotions",
-    "joes-daughter-silent-retreat",
-    "parenting-as-coaching-domain"
   ],
   "and-vs-but": [
     "surface-the-assumed-dichotomy"
@@ -11074,10 +11339,13 @@
   "emotion-at-someone-means-self-manipulation": [
     "dont-do-emotion-at-people"
   ],
-  "take-care-of-yourself-then-marriage-then-kids": [
+  "joe-and-lowell-tuttle": [
     "dont-hate-your-kids-and-they-wont-hate-you",
-    "bar-couple-priority-order",
-    "joe-and-tara-weekend-reset",
+    "esme-basketball-teammate-attention-seeking",
+    "parenting-as-coaching-domain"
+  ],
+  "joes-high-waisted-jeans-decoy": [
+    "dont-hate-your-kids-and-they-wont-hate-you",
     "parenting-as-coaching-domain"
   ],
   "natural dissolution of stuck patterns": [
@@ -11176,12 +11444,22 @@
     "kids-respond-to-emotional-presence-not-words",
     "parenting-as-coaching-domain"
   ],
+  "criticism-posture-vs-shame-posture": [
+    "kids-respond-to-emotional-presence-not-words",
+    "esme-basketball-teammate-attention-seeking",
+    "joes-pot-habit",
+    "parenting-as-coaching-domain"
+  ],
+  "esme-basketball-teammate-attention-seeking": [
+    "kids-respond-to-emotional-presence-not-words"
+  ],
   "binary-thinking-signals-fear|binary panic": [
     "leaders-calm-becomes-the-teams-calm"
   ],
   "hire-by-dream-job": [
     "management-required-to-launch-predicts-management-required-forever",
     "seeing-others-clearly-requires-not-looking-for-yourself",
+    "the-question-asker-wins-not-the-presenter",
     "valve-handbook-desks-on-wheels"
   ],
   "creative-career-story": [
@@ -11279,6 +11557,7 @@
   ],
   "joe-and-tara-weekend-reset": [
     "take-care-of-yourself-then-marriage-then-kids",
+    "connect-trip-with-your-kid",
     "bar-couple-priority-order",
     "parenting-as-coaching-domain"
   ],
@@ -11298,6 +11577,9 @@
   ],
   "ali-abdaal-coaching-session": [
     "the-first-thing-they-say-is-the-kernel"
+  ],
+  "the-horticulture-train-ride": [
+    "the-question-asker-wins-not-the-presenter"
   ],
   "truth-and-reconciliation-south-africa": [
     "unprocessed-grief-creates-conflict"

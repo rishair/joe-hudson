@@ -4,8 +4,8 @@ id: addiction-to-shame
 title: "Addiction to Shame (The Shame Adds to the Thrill)"
 aliases: ["addicted to shame", "shame as the thrill", "shame is the addiction", "wiring fires together", "the dog running through the fence", "running through the fence pattern", "shame as part of the appetite", "I want it and I'll take the shock", "shame-wired pleasure", "the shameful behavior is wired to need the shame"]
 tags: ["shame", "addiction", "compulsion", "habits", "wiring", "pattern"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "shame-stagnates-emotion", "the-shame-avoidance-loop", "electric-fence-with-dog", "kinked-emotions", "negative-self-reinforcement", "familiar-over-safe"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "shame-stagnates-emotion", "the-shame-avoidance-loop", "electric-fence-with-dog", "kinked-emotions", "negative-self-reinforcement", "familiar-over-safe", "heart-in-a-box-want-to-drink", "should-i-stop-drinking", "do-i-stop-drinking-session"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2024-06-13_Do I Stop Drinking？"]
 ---
 
 # Addiction to Shame (The Shame Adds to the Thrill)
@@ -68,6 +68,8 @@ It is a special case of [[familiar-over-safe]]: the wired association is familia
 
 It also explains why [[negative-self-reinforcement]] cycles persist: the self-criticism after the act provides the shame that the next round of the appetite will be wired to. The reinforcement is reinforcing the wiring.
 
+This pattern is distinct from but adjacent to [[heart-in-a-box-want-to-drink]]. The addiction-to-shame pattern names the case where shame has wired into the appetite as part of its appeal (the dog running through the fence). The heart-in-a-box pattern names the case where the substance is providing positive access to a boxed-off quality (warmth, expression, connection) that is otherwise unavailable. Both can be operating at once on the same substance. The drinking can be both a relief from shame and a workaround for the boxed heart. The work addresses both: name the shame loop, name the boxed quality, demonstrate the access without the substance.
+
 ## Upstream (What Leads Here)
 
 - A natural appetite (sex, eating, spending, attention, substances) that the person was taught early to feel bad about
@@ -92,3 +94,4 @@ Curious, not pathologizing. The pattern is framed as fascinating wiring rather t
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
+- 2024-06-13_Do I Stop Drinking？ (a live coaching session where the shame-and-drinking wiring is operating alongside the boxed-heart access mechanism; demonstrates how the two patterns can interlock in a single substance use, and how the work addresses both)

@@ -2,10 +2,10 @@
 type: principle
 id: shame-drives-behavior
 title: "Shame Drives Behavior"
-aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame", "shame is the locks of the chains of bad habits"]
+aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame", "shame is the locks of the chains of bad habits", "shame is the locks that hold the chains of bad habits in place"]
 tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment", "addiction"]
-related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "addiction-to-shame", "shame-stagnates-emotion", "i-cant-be-disciplined", "avoid-the-decision-by-design", "find-a-healthy-replacement"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Feel Over Figure", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_The Anatomy Of Shame", "2022-10-26_Vulnerability", "2023-04-11_Master Class - What is Holding You Back？", "2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "addiction-to-shame", "shame-stagnates-emotion", "i-cant-be-disciplined", "avoid-the-decision-by-design", "find-a-healthy-replacement", "should-i-stop-drinking", "reframe-the-question-to-the-blocker-emotion", "heart-in-a-box-want-to-drink", "do-i-stop-drinking-session"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Feel Over Figure", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_The Anatomy Of Shame", "2022-10-26_Vulnerability", "2023-04-11_Master Class - What is Holding You Back？", "2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)", "2024-06-13_Do I Stop Drinking？"]
 ---
 
 # Shame Drives Behavior
@@ -121,6 +121,26 @@ In the specific case of conflict-avoidance and people-pleasing, the principle ha
 
 Once shame is welcome, the behavioral architecture organized around avoiding it collapses. The person can be themselves because there is no longer a feared outcome that requires hiding to prevent. See [[the-shame-avoidance-loop]] for the full structure.
 
+## The Reframe Move (Operationalizing the Principle in Coaching)
+
+The principle has a specific operational form when a person presents a habit-change question. The move is to reframe the question from the behavior to the underlying shame. The structural form: "What if the question was, should I give up shame and guilt or not?"
+
+The Adyashanti compression Joe gives at this moment is the principle's most compact form:
+
+"Shame is the locks that hold the chains of bad habits in place." -- Joe Hudson (attributing Adyashanti), Do I Stop Drinking?
+
+The compression frames the work. The chain is the bad habit. The lock is the shame. Trying to break the chain without addressing the lock just reattaches the chain. Working on the lock — addressing the shame — releases the chain on its own.
+
+The reframe operationalizes this. Instead of letting the person work on the surface question ("should I stop drinking?"), the work moves to the underlying question ("should I give up shame and guilt?"). The reframed question is the actual question. The work on the actual question is what produces change in the habit. The change is downstream, not upstream.
+
+See [[reframe-the-question-to-the-blocker-emotion]] for the move itself and [[do-i-stop-drinking-session]] for the canonical demonstration. The pattern extends beyond drinking. Any habit being held in place by shame can be approached through the same reframe: replace the behavior in the question with the shame the behavior is managing, and ask the new question instead.
+
+## The Shame-as-Permission-to-Have-the-Habit Inversion
+
+A more specific application of the principle: in some cases the substance is not just providing relief from shame but is providing the only access to a part of the self that has been boxed off. The shame keeps the openhearted (or playful, or warm, or expressive) part boxed; the substance temporarily releases the boxing so the part can come out. The drinking is for permission to shine. See [[heart-in-a-box-want-to-drink]] for this specific mechanism.
+
+In this case the principle still holds — the shame is the lock — but the work is two-step. First, addressing the shame loosens the lock. Second, the boxed quality has to be experienced as available without the substance, in the room. The substance was providing the access; the access has to be re-routed through a means other than the substance. The live demonstration of the access in the present moment (the connection happening with the coach without alcohol) is what convinces the body that the substance is not the only path.
+
 ## Sources
 
 - 2020-11-05_Impartiality -- Connection Course Series #3
@@ -137,3 +157,4 @@ Once shame is welcome, the behavioral architecture organized around avoiding it 
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
 - 2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips) (the vicious-cycle compression — "you feel bad and then you continue to do the thing so that you can avoid feeling bad, so that you can feel bad, so you can continue doing the thing" — applied to the everyday "I should be more disciplined" framing; the instruction to be gentle with yourself as the structural intervention that breaks the cycle, not as a soft-skills nicety)
+- 2024-06-13_Do I Stop Drinking？ (the principle operationalized as a coaching move: when the client presents the binary "should I stop drinking?", Joe locates the shame and guilt the drinking is managing and reframes the question — "what if the question was, should I give up shame and guilt or not?"; the Adyashanti compression delivered in the moment of the reframe — "shame is the locks that hold the chains of bad habits in place"; the additional inversion where the substance is providing access to a boxed-off openhearted self, requiring the access to be re-routed through a means other than the substance)

@@ -5,7 +5,7 @@ title: "Listening Shapes the Reality That Comes Back to You (Quality of Listenin
 aliases: ["listening shapes reality", "quality of listening shapes reality", "how you listen creates what you hear", "the listening creates the world", "listening shapes your reality", "your listening shapes what comes back", "listening as the lever", "how you listen is the lever", "listening shapes what people say", "people give different things to different listeners", "the listening shapes the data", "the world that arrives back to you depends on your listening", "listening as the most profound way to shift reality", "the back-channel of listening", "the quality of the listener back-channels into what is shared", "your listening to yourself shapes how you are received", "self-listening shapes how others listen to you"]
 tags: ["listening", "receiving", "principle", "leadership", "reality", "communication", "feedback"]
 related: ["listening", "listen-as-the-wisest-person", "being-heard", "opposite-of-trying", "aristotle-project", "different-languages-of-love", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move", "you-cant-be-seen-when-youre-not-in-yourself", "listen-to-yourself-ten-percent-more", "abandoning-self-while-speaking"]
-sources: ["2024-03-29_Listening", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
+sources: ["2024-03-29_Listening", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-06-10_How To Listen Better"]
 ---
 
 # Listening Shapes the Reality That Comes Back to You
@@ -41,6 +41,14 @@ The world changes in a day. Not the world out there. The world that is offered t
 **Business.** The quality of your listening affects how good your product is, how happy your customers are, how heard your employees feel, how many of your best people stay, what intelligence your team is able to surface. As a venture capitalist Joe noticed that the CEOs who got picked were the ones who asked questions and listened. The ones who answered questions usually did not get the job. The same pattern repeats with customers, investors, partners.
 
 "Listening basically is one of the most profound ways to make your business accelerate quicker than coming up with an idea." -- Joe Hudson, Listening
+
+The VC-pitch data is striking once specified. Over 15 years, dozens of pitches per week. Out of all of them, four or five founders ever asked Joe and his partners what they were looking for. The rest presented decks that often did not even match the published investment thesis. The four or five askers were the ones the firm remembered. One specifically — a CEO who walked in and asked "Tell me about your business model. Tell me what you're looking for in your investments so I can tell you if we're fit and how we're fit." — got the response Joe still recalls: "Finally, somebody actually is listening to us. Not by just paying attention, but listening by asking us questions."
+
+The hiring pattern is the same lever in inverse. When the executives Joe coaches come back excited about a candidate, the prediction is reliable:
+
+"Let me guess, they asked you more questions than you asked them in the interview." -- Joe Hudson, How To Listen Better
+
+The candidate's questions are doing to the interviewer what they would do to anyone — producing the engagement, the felt-encountered quality, the willingness to move forward. The interviewer's reality (this candidate is exciting) is shaped by the candidate's listening (in its active form, as asking). See [[the-question-asker-wins-not-the-presenter]] for the principle this pattern instances and [[active-vs-passive-listening]] for the underlying distinction.
 
 **Teams.** Google's Project Aristotle found that the variable that distinguished functional teams was that everyone felt free to express themselves and everyone actually did. That only happens when the listening is in place. See [[aristotle-project]].
 
@@ -114,3 +122,5 @@ Conviction-grounded-in-observation. Joe is reporting what he has watched happen 
 ## Sources
 
 - 2024-03-29_Listening
+- 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the speaker-side corollary; the chasing-pushes-the-listener-back loop)
+- 2024-06-10_How To Listen Better (the VC-pitch numbers specifying the asker pattern; the executive-hiring prediction)

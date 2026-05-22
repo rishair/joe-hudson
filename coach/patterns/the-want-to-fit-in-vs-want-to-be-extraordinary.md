@@ -2,10 +2,10 @@
 type: pattern
 id: the-want-to-fit-in-vs-want-to-be-extraordinary
 title: "The Want-to-Fit-In vs. Want-to-Be-Extraordinary Polarity"
-aliases: ["the want-to-fit-in vs want-to-be-extraordinary polarity", "fit-in vs extraordinary", "I want to be normal and special", "the contradictory wants pattern", "wanting to be a billionaire and wanting to fit in", "the rich and famous and normal contradiction", "the two competing wants pattern", "the wanting both ordinary and extraordinary trap", "the friction between two opposite ambitions", "competing wants produce stuck action"]
+aliases: ["the want-to-fit-in vs want-to-be-extraordinary polarity", "fit-in vs extraordinary", "I want to be normal and special", "the contradictory wants pattern", "wanting to be a billionaire and wanting to fit in", "the rich and famous and normal contradiction", "the two competing wants pattern", "the wanting both ordinary and extraordinary trap", "the friction between two opposite ambitions", "competing wants produce stuck action", "the two movements that don't fit together", "fierce friction from contradictory wants", "action that is not completely aligned", "wanting to go somewhere and never getting there", "they never put it together that being extraordinary means not fitting in", "the structural blindness to contradiction"]
 tags: ["polarity", "ambition", "belonging", "identity", "friction", "pattern", "contradictory wants"]
 related: ["own-your-narcissism", "i-feel-lonely-i-cant-find-real-community", "im-afraid-of-offending-people", "expanding-sense-of-self", "the-more-i-grow-the-more-alone-i-feel", "shame-as-disconnection", "the-emotional-experience-decides-the-channel"]
-sources: ["2024-04-05_Speaking Authentically With Tristan de Montebello"]
+sources: ["2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-06-14_Do You Want To Fit In Or Be Extraordinary ｜ Joe Hudson @Ultraspeaking"]
 ---
 
 # The Want-to-Fit-In vs. Want-to-Be-Extraordinary Polarity
@@ -19,6 +19,10 @@ The person striving to be extraordinary rarely thinks through what extraordinary
 The result is a system in friction, producing motion in two opposite directions at once. The person works hard but does not arrive. They want to go somewhere and never get there because the system is half-pushing toward extraordinary and half-pulling toward normal.
 
 "We have both a desire to be normal, to fit in, right? Which is not extraordinary. And then we have the desire to be extraordinary, right? Like everybody's like, oh, I want to be rich. That's extraordinary. It's like, you know, less than 1%. I want to be really, I want to be a billionaire. It's like 0.001%. I want to be famous. 0.0001%. Like we have all these desires to be extraordinary. Smartest, best, and yet at the same time we want to fit in. And it's very rare that any human being that I've ever met actually looks at them and goes, [I see this contradiction]." -- Joe Hudson, Speaking Authentically With Tristan de Montebello
+
+The blindness to the structural contradiction is itself the diagnostic. The person striving for extraordinariness "never puts it together that that would make them stand out. It would make them exactly not ordinary and not fit in." The two wants are not held side by side and weighed. They run in parallel inside the same person without ever being placed next to each other long enough to notice that satisfying one cancels the other.
+
+"I see these two movements in people all the time create like a fierce amount of friction in their system and a whole bunch of action that is not completely aligned. And so they want to go somewhere, but they don't ever get there because they have these two competing wants." -- Joe Hudson, Do You Want To Fit In Or Be Extraordinary
 
 ## The Evolutionary Origin
 

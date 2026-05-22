@@ -2,10 +2,10 @@
 type: example
 id: joes-pot-habit
 title: "Joe's Pot Habit"
-aliases: ["pot smoking story", "marijuana habit story", "Joe's addiction story", "pot habit in his twenties", "Joe's nicotine and marijuana addictions", "Joe's addictions released by anger", "marijuana released by anger", "the addiction from a dysfunctional house", "anger released the marijuana"]
-tags: ["resistance", "shame", "addiction", "personal example", "transformation"]
-related: ["resistance", "negative-self-reinforcement", "shame-drives-behavior", "feeling-the-unfelt-emotion", "embrace-intensity", "emotional-fluidity", "each-emotion-has-its-own-positive-flavor"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2023-10-27_Emotional Fluidity - Emotion Series #13"]
+aliases: ["pot smoking story", "marijuana habit story", "Joe's addiction story", "pot habit in his twenties", "Joe's nicotine and marijuana addictions", "Joe's addictions released by anger", "marijuana released by anger", "the addiction from a dysfunctional house", "anger released the marijuana", "all my anger was going towards myself", "repressed anger turned inward as shame", "the pot kids are missing fire", "anger as the fire in kids", "Joe's repressed anger and pot in his 20s", "weed kids and shame", "vape kids and criticism posture", "anger fully expressed becomes determination and clarity", "the Tibetan teaching on anger"]
+tags: ["resistance", "shame", "addiction", "personal example", "transformation", "anger", "teenagers", "fire", "determination"]
+related: ["resistance", "negative-self-reinforcement", "shame-drives-behavior", "feeling-the-unfelt-emotion", "embrace-intensity", "emotional-fluidity", "each-emotion-has-its-own-positive-flavor", "visceral-clarity-from-anger", "three-forms-of-anger-repression", "anger-is-love", "kinked-emotions", "heart-in-a-box-want-to-drink", "do-i-stop-drinking-session"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2023-10-27_Emotional Fluidity - Emotion Series #13", "2024-06-07_Joe and His Daughter Esme - The Teenage Years"]
 ---
 
 # Joe's Pot Habit
@@ -60,8 +60,74 @@ Joe immediately adds an honest qualifier in this retelling, to prevent the story
 
 So the example supports the mechanism without overclaiming. Emotional fluidity reliably reduces destructive habits. It does not reliably eliminate all of them. Physical addiction, neurochemistry, and other layers still matter.
 
+## The Mechanism Retold Across a Daughter Conversation (The Anger-Inward-as-Shame Frame)
+
+In conversation with his teenage daughter Esme about kids at her school who smoke a lot of weed, Joe gives the cleanest version of the underlying mechanism: the pot was managing the experience of repressed anger that had turned inward against himself as shame.
+
+"For me, when I was in my, my 20s and was like smoking pot a lot, yeah, for me, part of it was a big repressed anger. All my anger was going towards myself, like that shame. And there was like all this repressed anger. And when I started moving it, when I started moving it a lot, like my desire for pot, seem to go away." -- Joe Hudson, Joe and Esme — The Teenage Years
+
+This version explicitly names the mechanism that the other tellings name more obliquely: the anger was not absent. The anger was going inward, where it manifested as the self-critical voice and the shame loop. The substance was managing the inward-turned anger. When the anger was allowed to move outward — to be felt and expressed where it actually pointed — the substance lost its job.
+
+This is the application of [[three-forms-of-anger-repression]] in personal example. Anger turned inward is one of the three kinks. The kink shows up as self-attack, depression, and the impulse to numb. The unkinking is the release of the substance.
+
+## Esme's Observation About the Weed Kids (Missing the Fire)
+
+In the same conversation, Esme reflects on her observation of friends who smoke a lot of weed and notices what they have lost — a specific quality she calls "fire":
+
+"There's not a fire to them, if that makes any sense. Or like, for example, I know this one kid, we were friends freshman year. He was super spunky, like quick with the comebacks, had a lot of like sass but in a really like sweet and lively way. And yeah, he started smoking a lot of weed sophomore, junior year, um, kind of still in the loop right now. And he's so different. The fire is just so much more dull and there's this like, kind of like, okay, like, I'm just gonna go with it. And I would guess that that is not feeling anger." -- Esme, Joe and Esme — The Teenage Years
+
+Esme's diagnostic is what anger looks like as visible aliveness. The "fire" is the felt presence of healthy anger. When the anger gets repressed (by the substance, by shame, by social pressure), the fire goes out. The kid becomes "okay, I'm just gonna go with it" — passive, motivationally flat, present without engagement.
+
+This is the same loss Joe is naming about himself in his twenties. The substance dulled the fire. The fire was the access channel for what mattered to him. Without it, he was managing a flat life through more substance use.
+
+## The Tibetan Frame: Anger Fully Expressed Becomes Determination and Clarity
+
+Joe extends Esme's observation with the underlying frame that explains what the "fire" is doing structurally. Drawing from a Tibetan teaching:
+
+"There's a, there's a, there's like a Tibetan thing, I think it is, where they talk about how anger, when it's fully expressed and fully loved, it represents, it shows up as determination and clarity. Like, and when it's kinked, it might be repressed, or it might be yelling at somebody, or it might be something like that. But it sounds like you're noticing like a lack of determination in, in these—" -- Joe Hudson, Joe and Esme — The Teenage Years
+
+Esme completes the sentence: "a lack of motivation, a lack of determination."
+
+This is the largest frame the example sits inside. Anger is not a problem emotion. Fully felt and loved, anger shows up as the determination to move toward what matters and the clarity to see how. When repressed, the same energy goes sideways: inward as shame and self-attack, outward as yelling or aggression, or downward as flatness and lack of motivation. The kid without the fire is not missing anger — they are running anger in its repressed form, which is to say not running it at all.
+
+This frame is the parent-side rationale for the related principles around anger: see [[anger-is-love]] (anger marks what is cared about), [[visceral-clarity-from-anger]] (the felt arrival of real clarity after the anger has moved), and [[each-emotion-has-its-own-positive-flavor]] (each emotion's allowed form has its own gift). The Tibetan version names that gift specifically for anger: determination plus clarity.
+
+## Esme's Own Cycle: Anger Avoided Produced the Same Flatness
+
+In the same conversation, Esme then names that she has noticed the same dynamic in herself when she has been avoiding her anger:
+
+"I even feel that when I haven't felt my anger, or like, I think exercise is a way that I often kind of release that stress. And if I'm feeling frustration or anger, like, I'll exercise, or you'll send me to the bedroom with a baseball bat and give me a timer. Um, but, but I think when I, or I don't know, it just kind of happened. I was feeling a lot of anger around, um, I don't know, all sorts of things last week. And I felt myself kind of lose motivation. Like I had a chem test today and most of last week I was just kind of avoiding studying and just avoiding... I felt shitty and I felt stuck and then as soon as I exercised, I was like, oh, like we're back." -- Esme, Joe and Esme — The Teenage Years
+
+Esme's self-report is the contemporary version of Joe's twenties story. Anger avoided produces stuckness, avoidance, low motivation, a felt "shitty" state. The release (exercise, the bat in the bedroom) brings the fire back. Same mechanism, no substance involved, immediately legible in a teenager.
+
+This is also evidence that the principle does not require a chronic addiction to demonstrate. The avoidance-of-anger / loss-of-fire / release-restores-fire cycle runs at all scales. The pot habit was Joe's adult version. The chem-test avoidance is Esme's teenage version. The underlying mechanism is identical.
+
+## Why This Matters for Coaching Teen Substance Use
+
+The frame this example sits inside is directly applicable to parenting and coaching conversations about adolescent substance use. The conventional response to a kid smoking a lot of weed is to address the behavior. The teaching from this example is to look for the avoided anger underneath. The substance is managing something. The thing it is managing is often anger that has been turned inward, which shows up as the loss of the kid's fire.
+
+The mechanism extends to other substances too. Esme's separate observation about the kids who vape a lot is that they tend to carry the body posture of someone who has been criticized — different signature from the weed kids who carry the body posture of shame. See [[criticism-posture-vs-shame-posture]] for the somatic read this implies. The substance and the underlying emotional configuration are correlated in patterns that can be read off the body.
+
+For a parent or coach working with this: the work is not on the substance. The work is on the avoided emotion. Substance reduction follows naturally once the emotion is allowed to move.
+
+## The Same Mechanism in Live Coaching (Alcohol and the Boxed Heart)
+
+The same structural pattern shows up in Joe's live coaching of a sobriety question. See [[do-i-stop-drinking-session]] and [[heart-in-a-box-want-to-drink]]. The client presented the binary "should I stop drinking?" The drinking was managing shame and guilt at the surface and providing access to an openhearted self underneath. The work was not on the alcohol; it was on the shame loop and on the boxing that was making the openhearted self unavailable without the substance.
+
+The pot habit and the drinking case demonstrate the same teaching from two angles. Joe's own version shows what the mechanism feels like from inside, looking back. The live coaching shows the mechanism being addressed in real time with someone else. The structural moves are identical:
+
+1. Refuse the behavioral question as posed.
+2. Ask what the substance is giving.
+3. Locate the emotion the substance is managing.
+4. Address the emotion directly.
+5. Let the substance dissolve downstream of the emotional work.
+
+The mechanism is reliable enough that Joe can coach a 60-turn version of his own decade-long arc when the conditions are right.
+
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the compressed retelling used to anchor the principle that habits change automatically when underlying emotions are welcomed; the "just lost interest" framing)
+- 2023-10-27_Emotional Fluidity - Emotion Series #13 (the canonical multi-addiction telling with anger as the specific releasing emotion for marijuana, plus Joe's qualifier that emotional fluidity reduces but doesn't eliminate all destructive patterns)
+- 2024-06-07_Joe and His Daughter Esme - The Teenage Years (the cleanest articulation of the anger-turned-inward-as-shame mechanism; Esme's "fire" diagnostic for kids who smoke a lot of weed; the Tibetan teaching that anger fully expressed becomes determination and clarity; Esme's contemporary version of the same cycle running in a teenager through chem-test avoidance; the substance-posture correlation Esme observes between weed kids carrying shame and vape kids carrying criticism)

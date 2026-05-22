@@ -5,7 +5,7 @@ title: "Listening"
 aliases: ["deep listening", "attuned listening", "listening as attunement", "listening as receiving", "listening as allowing", "the quality of listening", "the caliber of listening", "whole-body listening", "embodied listening", "listening with the body", "always listening", "you're always listening", "non-management listening", "listening simultaneously to self and other", "listening through filters", "what listening is", "listening fundamentals", "listening sushi rice", "speaking from listening", "channeling through listening", "listening is presence"]
 tags: ["listening", "receiving", "presence", "attunement", "core concept", "view", "connection", "communication"]
 related: ["view", "empathy", "vulnerability", "wonder", "impartiality", "opposite-of-trying", "staying-in-your-body", "listen-as-the-wisest-person", "head-heart-gut", "being-heard", "listening-to-impulse", "applied-self-awareness", "different-languages-of-love", "the-butler-metaphor", "faithing-faith-as-verb", "wait-for-someone-else-to-say-it", "cant-remember-what-i-said-in-flow", "dont-claim-the-wisdom-as-yours"]
-sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
+sources: ["2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-06-10_How To Listen Better"]
 ---
 
 # Listening
@@ -46,6 +46,12 @@ Listening sits inside the family of receiving moves: receiving, allowing, channe
 
 This is why the practice is so foundational. To learn listening is to learn one corner of the receive. To learn the receive in one corner makes the rest available.
 
+## Both Active and Passive Forms
+
+Although listening at its core is receiving, it has two operational faces. The *passive* form is silent receiving — letting what is being offered arrive in you. The *active* form is asking questions to evoke what the speaker would not otherwise offer, then receiving what comes. Both are listening. The questioner is listening just as the silent receiver is listening. See [[active-vs-passive-listening]] for the full distinction.
+
+Most people identify "listening" with the silent form only and miss that asking from genuine interest *is* listening. The miss has consequences in any situation where engagement matters — pitches, interviews, first meetings, conflict, the first hour with a new person. See [[the-question-asker-wins-not-the-presenter]] for the principle that follows from the active form. The relevant test is not "should I be asking or silent?" but "am I oriented toward the speaker or toward myself?" If toward the speaker, both forms work.
+
 ## Attunement Falls Out Of It
 
 You do not have to tell yourself to attune. Attunement happens automatically when listening is deep.
@@ -63,7 +69,13 @@ The listening is always there. What gets in the way is what you are doing on top
 
 **Listening to figure out what to say next.** The attention is on the future — what comes after the silence is your turn. Listening becomes a holding pattern for response-generation. The signal is being half-processed; the rest is being prepared for outgoing.
 
-**Listening to help, fix, judge, or save.** The attention is on what the listener is going to *do* about what they hear. The receiving is collapsed into evaluation. The speaker feels evaluated rather than received.
+**Listening to help, fix, judge, or save.** The attention is on what the listener is going to *do* about what they hear. The receiving is collapsed into evaluation. The speaker feels evaluated rather than received. Each of these contaminants has a specific signature for the speaker:
+
+- *Judging while listening:* the speaker shares less, becomes less vulnerable, leaves the conversation knowing the listener gathered little. No connection forms.
+- *Listening to fix, save, or be of value:* the speaker responds with resentment or tentativeness. They feel positioned as a problem to be solved. They withhold.
+- *Listening with unconditional acceptance:* the speaker shares more, more honestly, more vulnerably, with more patience. They want to keep talking. The listener gathers more without trying. Opportunities — for connection, for business, for fit — become visible because the speaker has unfolded enough for them to appear.
+
+"Imagine that you're just being listened to with unconditional acceptance. Just simple unconditional acceptance. You're gonna get a lot more data. You're gonna get to hear a lot more about the person. They're gonna share a lot more. They're gonna be more vulnerable. It's gonna be more honest. It's gonna be more patient." -- Joe Hudson, How To Listen Better
 
 **Listening to be valuable or useful.** The attention is on the listener's own worth. "What if I have nothing to say? What if they don't like me? How do I add value here?" The listening is being deployed in the service of self-presentation rather than meeting the speaker.
 
@@ -277,6 +289,9 @@ After the conversation, the details may be hard to recall. Something deeper land
 - Toward [[listen-as-the-wisest-person]]: the two-day experiment that makes the listening lever felt directly.
 - Toward [[staying-in-your-body]]: the practice that anchors listening to oneself while listening to others.
 - Toward [[listen-to-yourself-ten-percent-more]]: the smallest viable in-conversation move toward self-listening.
+- Toward [[listen-to-yourself-one-minute-a-day]]: the daily-reps practice that builds self-listening over time.
+- Toward [[the-question-asker-wins-not-the-presenter]] for the leadership/business application of the active form.
+- Toward [[active-vs-passive-listening]] when the question is whether to ask or to receive.
 - Toward [[put-attention-in-inner-ear]]: an on-demand body-anchor for the same shift.
 - Toward [[view]]: the relational framework that is built on the listening capacity.
 - Toward [[empathy]] and [[wonder]] as components of VIEW.
@@ -298,3 +313,4 @@ Plain, conversational, unhurried. The teaching is not delivered as a difficult i
 - 2024-04-05_Speaking Authentically With Tristan de Montebello (the asymmetry between say-side prep and listen-side prep in high-stakes meetings; the pause as the operational form of listening; the parallel between the coaching state and the speaking state; the listening that lets the butler show up)
 - 2024-04-06_Speaking Authentically with Tristan de Montebello
 - 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the inner-ear hack named explicitly as a hack; the principle that you cannot be seen when you are not in yourself; the live application of self-listening to dissolve a chasing-to-be-understood pattern)
+- 2024-06-10_How To Listen Better (the active vs. passive distinction; the specific signatures of judging-listening vs. fixing-listening vs. unconditional-acceptance listening; the daily-reps approach to building self-listening)

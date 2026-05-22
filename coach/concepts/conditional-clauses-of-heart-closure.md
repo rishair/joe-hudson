@@ -4,7 +4,7 @@ id: conditional-clauses-of-heart-closure
 title: "Conditional Clauses of Heart Closure"
 aliases: ["if I open my heart then", "if-then beliefs about love", "the closed-heart conditionals", "the clauses that close the heart", "if I love them I have to stay", "if I open my heart I'll lose my boundaries", "if I open my heart I'll have to put up with it", "false correlations about loving", "the love-or-something-else binaries", "loving means I can't leave", "the trappedness inside love", "subconscious if-then about loving"]
 tags: ["love", "defense", "heart", "false correlation", "relationships", "trappedness"]
-related: ["love-as-deep-welcoming", "defense", "love-misconceptions-inherited-from-childhood", "i-feel-trapped", "heartbreak-as-capacity-expansion", "love-requires-empowerment", "boundary-with-vs-boundary-against", "take-contrary-action", "dont-take-responsibility-for-anothers-happiness"]
+related: ["love-as-deep-welcoming", "defense", "love-misconceptions-inherited-from-childhood", "i-feel-trapped", "heartbreak-as-capacity-expansion", "love-requires-empowerment", "boundary-with-vs-boundary-against", "take-contrary-action", "dont-take-responsibility-for-anothers-happiness", "heart-in-a-box-want-to-drink"]
 sources: ["2023-04-28_How Love Gets Confused"]
 ---
 
@@ -83,6 +83,14 @@ The reframe to provide once the clause is named: love is the welcoming, and the 
 The clauses are the operational expression of [[love-requires-empowerment]] from the opposite direction. The principle states that love cannot exist without empowerment. The conditional clauses are the specific way disempowerment manifests as heart closure. The person who believes opening the heart will cost them their boundary, their freedom, or their self is unable to love freely. The clauses contain the cost the person is too disempowered to pay.
 
 Working with the clauses is one path to the empowerment. Each time a clause is seen and the heart opens anyway, the person discovers that the cost was not actually mandatory. Each such discovery is empowering. Empowerment grows. The clauses lose their grip. Love becomes available without the closure.
+
+## The Substance-as-Workaround Form
+
+A specific operational form of the clauses: when the cost the clause names is too high to face, some people find a chemical workaround that bypasses the clause temporarily. Alcohol especially does this. The substance temporarily disables the self-monitoring that runs the clauses, and the heart can come out from under them for a few hours. The person experiences this as warmth, connection, ease. The clause has not been dissolved — it has been bypassed.
+
+This is the case where the substance becomes psychologically necessary not because of pain but because of the boxing the clauses maintain. The drinking provides access to a part of the self that the clauses keep boxed. The work in this case has two layers: surface the clauses, and re-route the access through a means other than the substance. See [[heart-in-a-box-want-to-drink]] for the specific mechanism.
+
+The structure makes intuitive sense once seen. The substance is doing exactly what the clauses prevent. The body wants the substance not because of the substance itself but because the substance is the only available release of the clauses. Dissolve the clauses and the substance is no longer required to access the heart.
 
 ## When Someone Experiences This
 

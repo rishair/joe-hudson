@@ -73,6 +73,7 @@ The deeper hearing: the request is for discipline, but the answer is to stop try
 - [[ill-become-lazy-without-shoulds]] — the fear that if you stop should-ing yourself you will collapse. Often comes with this concern.
 - [[i-should-be-doing-this]] — the closely related concern in different words. "I should be working out" vs "I can't make myself work out."
 - [[my-inner-critic-wont-stop]] — when the self-criticism around the discipline failure is the louder concern.
+- [[should-i-stop-drinking]] — the substance-specific variant where the binary "stop or moderate" frames the broader discipline concern in alcohol terms.
 
 ## Sources
 

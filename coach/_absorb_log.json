@@ -5247,15 +5247,112 @@
     },
     {
       "folder": "2024-06-07_Joe and Esme \u2014\u00a0The Teenage Years",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T17:56:58Z",
+      "articles_created": [
+        "liking-your-kid-vs-loving-your-kid",
+        "dont-chase-your-teen-stay-available",
+        "bring-the-problem-to-your-teen",
+        "treat-your-kid-like-an-adult-you-respect",
+        "go-down-the-rabbit-hole-in-your-kids-world",
+        "if-you-do-x-youre-telling-them-its-okay-to-do-x",
+        "meet-each-kid-where-they-are",
+        "connect-trip-with-your-kid",
+        "joes-high-waisted-jeans-decoy",
+        "joe-and-lowell-tuttle",
+        "criticism-posture-vs-shame-posture",
+        "dont-micromanage-your-kid",
+        "no-attachment-to-the-outcome"
+      ],
+      "articles_updated": [
+        "dont-hate-your-kids-and-they-wont-hate-you",
+        "parenting-as-coaching-domain",
+        "kids-respond-to-emotional-presence-not-words",
+        "esme-basketball-teammate-attention-seeking",
+        "joes-pot-habit"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T18:16:14Z"
+    },
+    {
+      "folder": "2024-06-07_Joe and His Daughter Esme -\u00a0The Teenage Years",
+      "status": "complete",
+      "claimed_at": "2026-05-22T17:57:04Z",
+      "articles_created": [
+        "esme-basketball-teammate-attention-seeking"
+      ],
+      "articles_updated": [
+        "joes-pot-habit",
+        "scapegoat-as-marriage-stabilizer"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T18:16:19Z"
+    },
+    {
+      "folder": "2024-06-10_How To Listen Better",
+      "status": "complete",
+      "claimed_at": "2026-05-22T18:18:19Z",
+      "articles_created": [
+        "active-vs-passive-listening",
+        "the-question-asker-wins-not-the-presenter",
+        "listen-to-yourself-one-minute-a-day",
+        "the-horticulture-train-ride"
+      ],
+      "articles_updated": [
+        "listening",
+        "listening-shapes-the-reality-that-comes-back",
+        "wanting-others-to-listen-is-the-block"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T18:28:44Z"
+    },
+    {
+      "folder": "2024-06-13_Do I Stop Drinking\uff1f",
+      "status": "complete",
+      "claimed_at": "2026-05-22T18:20:30Z",
+      "articles_created": [
+        "should-i-stop-drinking",
+        "heart-in-a-box-want-to-drink",
+        "reframe-the-question-to-the-blocker-emotion",
+        "hidden-rebellion-under-the-habit",
+        "do-i-stop-drinking-session"
+      ],
+      "articles_updated": [
+        "treating-it-as-a-decision-when-its-an-emotion",
+        "shame-drives-behavior",
+        "joes-pot-habit",
+        "addiction-to-shame",
+        "the-shame-avoidance-loop",
+        "rebellion-or-submission-to-should",
+        "i-cant-be-disciplined",
+        "conditional-clauses-of-heart-closure",
+        "point-at-the-present-evidence"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T18:37:16Z"
+    },
+    {
+      "folder": "2024-06-14_Do You Want To Fit In Or Be Extraordinary\uff1f \uff5c Joe Hudson @Ultraspeaking",
+      "status": "complete",
+      "claimed_at": "2026-05-22T18:33:49Z",
+      "articles_created": [],
+      "articles_updated": [
+        "the-want-to-fit-in-vs-want-to-be-extraordinary"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T18:34:59Z"
+    },
+    {
+      "folder": "2024-06-19_3 Reasons You Can't Build Wealth",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T18:35:35Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-06-07_Joe and His Daughter Esme -\u00a0The Teenage Years",
+      "folder": "2024-06-21_How Do I Get Unstuck? (Coaching Session Breakdown)",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T17:57:04Z",
+      "claimed_at": "2026-05-22T18:38:23Z",
       "articles_created": [],
       "articles_updated": []
     }

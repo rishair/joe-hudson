@@ -5,7 +5,7 @@ title: "If You Want Them to Listen, Start Listening Yourself (Wanting It Is the 
 aliases: ["wanting others to listen is the block", "if you want them to listen start listening", "how do I get people to listen to me", "stop trying to get people to listen to you", "stop it stop it stop it", "you want people to listen become a great listener", "if you want them to listen to you listen better", "concerning yourself with how they listen stops you listening", "the more you try to get someone to listen the less they will", "trying to make people listen pushes them away", "what we really want is to listen to ourselves", "the listening you want is the listening you can give", "the listening problem is yours not theirs", "wanting to be listened to is the block to listening", "stop wanting people to listen", "wanting to be understood is the block", "you want to be understood but the more you chase it the less it happens", "chasing being understood prevents being understood", "the more you chase being understood the more the listener backs away", "the understanding-chase loop"]
 tags: ["listening", "principle", "communication", "self-listening", "control", "management"]
 related: ["listening", "listening-shapes-the-reality-that-comes-back", "listen-as-the-wisest-person", "being-heard", "dont-try-to-change-your-partner", "what-we-fear-we-invite", "the-thing-you-want-becomes-the-thing-that-pushes-it-away", "you-cant-be-seen-when-youre-not-in-yourself", "i-keep-feeling-misunderstood", "chasing-understanding-as-control", "listen-to-yourself-ten-percent-more", "put-attention-in-inner-ear", "two-levels-of-hurt-in-being-misunderstood"]
-sources: ["2024-03-29_Listening", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
+sources: ["2024-03-29_Listening", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-06-10_How To Listen Better"]
 ---
 
 # If You Want Them to Listen, Start Listening Yourself
@@ -76,6 +76,20 @@ Often the person has been so focused on not being heard that they have stopped h
 
 This is the same move Joe makes with "how do I get my kids to listen?" — same answer. With "my employees don't listen" — same answer. With "my parents never listened" — the answer is still about your listening now, not theirs then.
 
+## The Cascade That Often Follows
+
+When someone actually does the inversion — stops trying to get others to listen and starts listening to themselves and then to the people around them — the cascade is often larger than they expected.
+
+A specific client of Joe's had a relationship causing them so much pain it was constraining their work performance; they were focused on the relational suffering all day. One week they tried the move: listen to the partner with unconditional acceptance. Just that. They came to the next session asking, with some incredulity, whether it could be that simple — did the partner just need to be listened to?
+
+The realization did not stay in the relationship:
+
+"In that came this huge epiphany for them that just was realization that, oh wait, probably my employees don't feel listened to, my direct reports don't feel listened to. And they just start opening up and listening. And all of a sudden they understood the problems of their business, they understood the problems of their marriage. People felt closer to them, they shared more deeply, and in that sharing, and as they talked about their problems, the solutions started forming. Because as people talk about their problems, eventually they run into their own solutions." -- Joe Hudson, How To Listen Better
+
+The pattern shows what the principle predicts. The client had been trying to fix one painful relationship by getting the partner to listen. The move that worked was the inversion: become the listener. Once the capacity was developed, it transferred to every relationship the client had — the marriage, the team, the direct reports. Problems that had been intractable became visible because the people around the client started telling them what was happening. Solutions formed in the speakers themselves, because people working out their problems out loud, to a real listener, often arrive at their own answers.
+
+The lever was on the client's side the whole time. Pulling it changed the marriage *and* the business *and* the relationships with the team — none of which was the original presenting problem.
+
 ## The Forbidden Direction
 
 What you should not do:
@@ -124,3 +138,4 @@ Direct, almost playful. The "stop it stop it stop it" repetition is the tone mar
 
 - 2024-03-29_Listening
 - 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the live coaching demonstration of the principle, the explicit naming of the chase-makes-it-worse loop in the misunderstanding variant, the diagnostic that the listener responds to chasing-for-understanding identically to chasing-for-listening)
+- 2024-06-10_How To Listen Better (the client cascade story: one relationship's listening practice rippling outward through marriage, employees, business)

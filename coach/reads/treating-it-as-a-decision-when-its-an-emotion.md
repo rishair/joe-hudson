@@ -2,9 +2,9 @@
 type: read
 id: treating-it-as-a-decision-when-its-an-emotion
 title: "Treating It As a Decision When It's an Avoided Emotion"
-aliases: ["treating it as a decision when it's an emotion", "presenting the fork as the work", "the decision is the cover", "the decision-frame as avoidance", "presenting a decision when the work is the emotion", "the decision frame read", "they brought a decision but the work is the emotion", "the I-need-to-choose framing as avoidance", "the fork as cover for the feeling", "the deliberation as cover", "asking how to choose is asking how to avoid the feeling", "the decision-as-symptom read", "the choosing-between-two-paths cover", "the let-me-think-this-through-with-you-coach cover", "deliberating to avoid feeling"]
-tags: ["read", "decisions", "avoidance", "intellectualization", "fork", "diagnostic"]
-sources: ["2024-05-27_How Do I Not Burn Out Again？"]
+aliases: ["treating it as a decision when it's an emotion", "presenting the fork as the work", "the decision is the cover", "the decision-frame as avoidance", "presenting a decision when the work is the emotion", "the decision frame read", "they brought a decision but the work is the emotion", "the I-need-to-choose framing as avoidance", "the fork as cover for the feeling", "the deliberation as cover", "asking how to choose is asking how to avoid the feeling", "the decision-as-symptom read", "the choosing-between-two-paths cover", "the let-me-think-this-through-with-you-coach cover", "deliberating to avoid feeling", "the binary decision about a habit as cover", "the should-I-stop-X question as cover", "the fork about a behavior is about the underlying feeling"]
+tags: ["read", "decisions", "avoidance", "intellectualization", "fork", "diagnostic", "habits"]
+sources: ["2024-05-27_How Do I Not Burn Out Again？", "2024-06-13_Do I Stop Drinking？"]
 ---
 
 # Treating It As a Decision When It's an Avoided Emotion
@@ -70,6 +70,7 @@ The second move is the question that opens the avoided emotion. He does not work
 - [[im-afraid-ill-revert-to-my-old-pattern]]: when the reversion-fear hides inside a fork between two paths that both threaten reversion.
 - [[i-feel-stuck]]: when the stuckness is presented as inability to decide. The decision-frame is often what is keeping the person stuck.
 - [[should-we-have-kids]]: a specific instance of this read — the kids-or-no-kids fork that has been sitting for years.
+- [[should-i-stop-drinking]]: the habit-change variant of this read. The person presents "should I stop or moderate?" as the question; the actual question is about the underlying emotion the drinking is managing.
 
 ## Connected Moves and Questions
 
@@ -78,6 +79,17 @@ The second move is the question that opens the avoided emotion. He does not work
 - [[fuck-the-right-answer]]: when the person is performing the deliberation rather than actually deciding
 - [[if-you-think-youre-deciding-youre-in-fear]]: the broader principle this read is one application of
 - [[surface-the-assumed-dichotomy]]: when the fork rests on a false binary that can be dissolved
+- [[reframe-the-question-to-the-blocker-emotion]]: when the decision is about a behavior managing a blocker emotion, reframe the question in the emotion's terms
+
+## The Habit-Change Variant
+
+A specific form of this read fires when the person presents a binary about a habit they cannot stop ("should I keep drinking or stop?", "should I keep eating sugar or stop?", "should I keep scrolling or quit?"). The binary often arrives with mild urgency or self-frustration but rarely with crisis. The framing is "fun in the moment vs. consequences later" — a present-future tradeoff.
+
+The structural signal: the person has been carrying the question for a while, has cycled through stop-and-restart attempts, and has the question polished into a clean binary. The drinking case has the cleanest form because alcohol is socially calibrated as moderable; the binary "stop completely vs. drink a little" stays open indefinitely because both options are defensible.
+
+What is being avoided in this variant is usually a [[blocker-emotions]] — shame, guilt, judgment — that the habit is providing relief from. The reframe move is [[reframe-the-question-to-the-blocker-emotion]]: "what if the question was, should I give up shame and guilt or not?" The reframe collapses the binary into the actual question, which is about the relationship with the avoided emotion, not about the substance.
+
+See [[should-i-stop-drinking]] for the canonical concern, [[heart-in-a-box-want-to-drink]] for the specific access-mechanism the substance is often providing, and [[hidden-rebellion-under-the-habit]] for the second layer (the rebellion against the inner should that is keeping the habit alive against the conscious attempt to stop it).
 
 ## What This Read Is Not
 
@@ -88,3 +100,4 @@ It is also not [[performing-growth]]. The decision-frame can be performed (a per
 ## Sources
 
 - 2024-05-27_How Do I Not Burn Out Again？ (the live presentation of a post-burnout person framing her work as a choice between career and family, and Joe naming the decision-frame as the avoidance and going underneath it)
+- 2024-06-13_Do I Stop Drinking？ (the habit-change variant of the read: the client presents "should I stop drinking or just drink a little?" and Joe refuses the fork, locates the shame-and-guilt the drinking is managing, and reframes the question in those terms; the case demonstrates how the binary-decision frame works specifically when the decision is about a persistent habit)

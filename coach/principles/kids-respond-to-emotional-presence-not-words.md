@@ -2,10 +2,10 @@
 type: principle
 id: kids-respond-to-emotional-presence-not-words
 title: "Kids Respond to Your Emotional Presence, Not Your Words"
-aliases: ["kids respond to emotional presence", "children respond to emotional presence not words", "kids react to your nervous system not your sentences", "talking down to a 2-year-old does not work", "you don't intellectualize with a 2-year-old", "their prefrontal isn't online", "the kid is responding to your felt state", "you get wound up they get wound up", "you calm down they calm down", "kids mimic your emotional state", "small kids are in a dream state", "kids in feeling not thought", "the child reads the field", "kids are full feeling machines", "kids respond to how you ARE not what you say", "the parent's emotional presence is the message"]
+aliases: ["kids respond to emotional presence", "children respond to emotional presence not words", "kids react to your nervous system not your sentences", "talking down to a 2-year-old does not work", "you don't intellectualize with a 2-year-old", "their prefrontal isn't online", "the kid is responding to your felt state", "you get wound up they get wound up", "you calm down they calm down", "kids mimic your emotional state", "small kids are in a dream state", "kids in feeling not thought", "the child reads the field", "kids are full feeling machines", "kids respond to how you ARE not what you say", "the parent's emotional presence is the message", "the teen can tell which kids have parents who fight at home", "kids carry the home environment into school"]
 tags: ["principle", "parenting", "presence", "emotional regulation", "co-regulation", "children", "nervous system"]
-related: ["parenting-as-coaching-domain", "parenting-as-honest-mirror", "hand-in-hand-parenting", "leaders-calm-becomes-the-teams-calm", "kids-release-emotions-where-they-feel-safe", "head-heart-gut", "una-grabbing-joes-face", "stay-close-and-insist"]
-sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood"]
+related: ["parenting-as-coaching-domain", "parenting-as-honest-mirror", "hand-in-hand-parenting", "leaders-calm-becomes-the-teams-calm", "kids-release-emotions-where-they-feel-safe", "head-heart-gut", "una-grabbing-joes-face", "stay-close-and-insist", "if-you-do-x-youre-telling-them-its-okay-to-do-x", "liking-your-kid-vs-loving-your-kid", "criticism-posture-vs-shame-posture", "esme-basketball-teammate-attention-seeking", "take-care-of-yourself-then-marriage-then-kids", "dont-hate-your-kids-and-they-wont-hate-you"]
+sources: ["2023-10-13_Parenthood", "2023-10-18_Parenthood", "2024-06-07_Joe and Esme — The Teenage Years"]
 ---
 
 # Kids Respond to Your Emotional Presence, Not Your Words
@@ -67,6 +67,18 @@ A child raised by a parent who works this way develops the felt sense that the f
 
 A child raised without this — by parents who imagine their words are the medium — develops the felt sense that the words mean one thing and the felt reality means another. The child learns to mistrust either the words or themselves. Many adults are still untangling this exact thing in their own therapy.
 
+## The Principle Operates Beyond Early Childhood
+
+The principle is most acute with infants and young children, but it does not stop operating when the prefrontal cortex comes online. Teenagers and adults also calibrate to the felt state of those around them, regardless of the words. The channel is bidirectional — the parent transmits their state to the kid, and the kid transmits their state right back, and both parties read each other's actual condition through felt sense regardless of any verbal narrative.
+
+This is why teenagers in a school can reliably read which of their peers come from homes where the parents are fighting. The kid's behavior at school is downstream of the felt environment at home, and a peer with any developed sensitivity can read it. Esme describes this directly:
+
+"Whenever the parents are fighting, you can see it in the kids. How clear is it for you to be able to walk around your school and know whose parents have been like where there's like home strife and has been for like more than a couple months? I would say it's incredibly clear. And sometimes I don't notice it right away, and then I'll meet the parents, I'm like, ah, that's why." -- Esme, Joe and Esme — The Teenage Years
+
+The kid carries the home into the school. The school behavior is a faithful transmission of the home conditions, regardless of what the kid says about home. See [[criticism-posture-vs-shame-posture]] for the somatic forms this transmission takes, and [[esme-basketball-teammate-attention-seeking]] for the specific example of a teen reading her teammate's home situation through the teammate's behavior.
+
+For parents, the implication is that the home transmission shows up in places far from home — at school, on teams, in friendships. The kid is carrying the parent's state into every social context. The home is not contained inside the house.
+
 ## When Someone Experiences This
 
 - A parent who is exhausted because their words are not landing and they are repeating themselves louder
@@ -91,6 +103,11 @@ A child raised without this — by parents who imagine their words are the mediu
 - Toward [[stay-close-and-insist]]: the practical boundary move for young kids
 - Toward [[leaders-calm-becomes-the-teams-calm]]: the same principle at organizational scale
 - Toward [[get-angry-in-the-car]]: the regulation practice that helps parents arrive ready to be in the field
+- Toward [[if-you-do-x-youre-telling-them-its-okay-to-do-x]]: the mirror-modeling principle that operates through the same channel
+- Toward [[liking-your-kid-vs-loving-your-kid]]: the specific transmission of like/dislike through felt presence
+- Toward [[criticism-posture-vs-shame-posture]]: the somatic forms that home conditions take in the kid's body
+- Toward [[esme-basketball-teammate-attention-seeking]]: the example of teen reading the home environment through peer behavior
+- Toward [[take-care-of-yourself-then-marriage-then-kids]]: the upstream condition for the parent's transmitted state to be one that supports the kid
 
 ## Tone
 
@@ -100,3 +117,4 @@ Direct and slightly humorous. Joe says "their brain isn't online" and "they're j
 
 - 2023-10-13_Parenthood
 - 2023-10-18_Parenthood (the same teaching with the same Una face-grabbing story, surfaced in the context of a pre-parent asking what parenting is actually like)
+- 2024-06-07_Joe and Esme — The Teenage Years (Esme's articulation of how reliably teen behavior at school reveals the home environment; extends the principle past early childhood into the teen years; surfaces that the channel does not turn off when the prefrontal comes online)
