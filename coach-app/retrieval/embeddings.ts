@@ -399,26 +399,27 @@ class PythonQueryEmbedder implements QueryEmbedder {
 
   async shutdown(): Promise<void> {
     if (this.dead || !this.proc) return;
+    const proc = this.proc;
+    this.dead = true;
+    // Resolve any pending requests so the caller can move on.
+    for (const p of this.queue) p.resolve(null);
+    this.queue = [];
+    // The Python subprocess holds a stdio pipe back to Bun; the cleanest way
+    // to make Bun exit is to SIGKILL the child unconditionally rather than
+    // negotiate stdin EOF (which Bun has been observed to wait on
+    // indefinitely). The Python process is stateless so SIGKILL is safe.
     try {
-      this.proc.stdin.write("QUIT\n");
-      this.proc.stdin.end();
+      proc.kill("SIGKILL");
+    } catch {
+      // ignore — already dead
+    }
+    try {
+      proc.stdin.destroy();
+      proc.stdout.destroy();
+      proc.stderr.destroy();
     } catch {
       // ignore
     }
-    await new Promise<void>((resolve) => {
-      const t = setTimeout(() => {
-        try {
-          this.proc?.kill("SIGTERM");
-        } catch {
-          // ignore
-        }
-        resolve();
-      }, 2000);
-      this.proc?.once("exit", () => {
-        clearTimeout(t);
-        resolve();
-      });
-    });
   }
 }
 
