@@ -2,9 +2,9 @@
 type: read
 id: treating-it-as-a-decision-when-its-an-emotion
 title: "Treating It As a Decision When It's an Avoided Emotion"
-aliases: ["treating it as a decision when it's an emotion", "presenting the fork as the work", "the decision is the cover", "the decision-frame as avoidance", "presenting a decision when the work is the emotion", "the decision frame read", "they brought a decision but the work is the emotion", "the I-need-to-choose framing as avoidance", "the fork as cover for the feeling", "the deliberation as cover", "asking how to choose is asking how to avoid the feeling", "the decision-as-symptom read", "the choosing-between-two-paths cover", "the let-me-think-this-through-with-you-coach cover", "deliberating to avoid feeling", "the binary decision about a habit as cover", "the should-I-stop-X question as cover", "the fork about a behavior is about the underlying feeling"]
+aliases: ["treating it as a decision when it's an emotion", "presenting the fork as the work", "the decision is the cover", "the decision-frame as avoidance", "presenting a decision when the work is the emotion", "the decision frame read", "they brought a decision but the work is the emotion", "the I-need-to-choose framing as avoidance", "the fork as cover for the feeling", "the deliberation as cover", "asking how to choose is asking how to avoid the feeling", "the decision-as-symptom read", "the choosing-between-two-paths cover", "the let-me-think-this-through-with-you-coach cover", "deliberating to avoid feeling", "the binary decision about a habit as cover", "the should-I-stop-X question as cover", "the fork about a behavior is about the underlying feeling", "the relationship-decision frame as caretaking cover"]
 tags: ["read", "decisions", "avoidance", "intellectualization", "fork", "diagnostic", "habits"]
-sources: ["2024-05-27_How Do I Not Burn Out Again？", "2024-06-13_Do I Stop Drinking？"]
+sources: ["2024-05-27_How Do I Not Burn Out Again？", "2024-06-13_Do I Stop Drinking？", "2024-07-01_Should I Stay With My Ex？"]
 ---
 
 # Treating It As a Decision When It's an Avoided Emotion
@@ -81,6 +81,16 @@ The second move is the question that opens the avoided emotion. He does not work
 - [[surface-the-assumed-dichotomy]]: when the fork rests on a false binary that can be dissolved
 - [[reframe-the-question-to-the-blocker-emotion]]: when the decision is about a behavior managing a blocker emotion, reframe the question in the emotion's terms
 
+## The Relationship-Decision Variant
+
+A specific form of this read fires when the binary is "should I stay with this partner or leave?" — and the relationship has gone heavy under sustained caretaking of the partner's emotional state. The decision-frame covers the caretaking dynamic. The person is asking how to decide about the relationship when the actual work is the caretaking pattern that has made the relationship dead in its current configuration.
+
+The structural signals for this variant: the person describes the partner's emotional state extensively (depression, anger, shame, mental health), describes themselves as the one managing that state, reports more aliveness during a recent breakup or separation than during the relationship, and frames the question as "do I want to be with this person?" rather than "what's happening between us?"
+
+The reframe move is [[redirect-from-stay-or-leave-to-self-love]]: the work is not the decision; the work is self-love, and under conditions of self-love the decision loses its weight. The diagnostic question is [[what-would-it-take-for-you-to-not-take-care-of-them]]: surface the caretaking by asking the person to imagine being with the partner without managing them.
+
+See [[decision-question-covers-the-caretaking]] for the dedicated read for this variant, [[should-i-stay-with-my-ex]] for the concern, and [[qa-trial-separation-client]] for the canonical example.
+
 ## The Habit-Change Variant
 
 A specific form of this read fires when the person presents a binary about a habit they cannot stop ("should I keep drinking or stop?", "should I keep eating sugar or stop?", "should I keep scrolling or quit?"). The binary often arrives with mild urgency or self-frustration but rarely with crisis. The framing is "fun in the moment vs. consequences later" — a present-future tradeoff.
@@ -101,3 +111,4 @@ It is also not [[performing-growth]]. The decision-frame can be performed (a per
 
 - 2024-05-27_How Do I Not Burn Out Again？ (the live presentation of a post-burnout person framing her work as a choice between career and family, and Joe naming the decision-frame as the avoidance and going underneath it)
 - 2024-06-13_Do I Stop Drinking？ (the habit-change variant of the read: the client presents "should I stop drinking or just drink a little?" and Joe refuses the fork, locates the shame-and-guilt the drinking is managing, and reframes the question in those terms; the case demonstrates how the binary-decision frame works specifically when the decision is about a persistent habit)
+- 2024-07-01_Should I Stay With My Ex? (the relationship-decision variant: the woman presents "should I stay with my ex?" and Joe refuses the fork, surfaces the caretaking of the husband's depression and anger, lands on self-love as the work that makes the decision irrelevant)

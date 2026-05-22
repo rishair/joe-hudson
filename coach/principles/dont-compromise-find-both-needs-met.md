@@ -4,7 +4,7 @@ id: dont-compromise-find-both-needs-met
 title: "Don't Compromise -- Find a Way Both Needs Get Met"
 aliases: ["don't compromise in relationships", "no compromise principle", "find a way both needs are met", "compromise builds resentment", "compromise is neglect of self", "both needs met not compromise", "never sacrifice yourself for the relationship", "the no-compromise principle"]
 tags: ["relationships", "needs", "compromise", "resentment", "creativity", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Triggered!"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Triggered!", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # Don't Compromise -- Find a Way Both Needs Get Met
@@ -114,8 +114,23 @@ The healthy boundary said clearly often opens the both-needs-met conversation ra
 
 Direct and practical. Joe is not gentle on this one. The "highly recommend never doing that. Highly recommend never doing that" is repeated with emphasis. The doubling is the tone. The cost of compromise is treated as obvious and large, and the creative alternative is treated as available, not aspirational.
 
+## The Yes-Dear Compression (How the Compromise Pattern Hollows the Marriage)
+
+The principle has a compressed, story-driven form Joe uses in the 4-keys public teaching. The story is the [[yes-dear-old-timers]] anecdote: Joe at 25 surveying long-married couples and discovering that the half who answered "Yes, dear" to the question of marriage's secret were uniformly miserable.
+
+The mechanism Joe describes in this version is the carving image:
+
+"People have a disagreement and they say, 'Hey, we're gonna compromise.' And compromising means we're gonna just carve a little piece of myself off, gonna leave that on the side so that you can be happy, and then you're gonna carve a little piece of yourself off and leave that behind, and then I'm gonna be happy. And then we just keep on carving away, we keep on saying, 'Yes, dear,' and then all of a sudden there's nothing left in the marriage. Our entire personhood is outside of the marriage, and there's just this, like, shell of a skeleton of a person inside of the marriage." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The skeleton-in-the-marriage image makes the cost felt rather than just intellectually agreed-to. The compromise is not an abstract bad strategy. It is a sequence of small amputations that produces a recognizable end state -- the long marriage that has nothing left in it.
+
+The alternative Joe pairs the image with is the Tara-and-Joe agreement: "We decided early on that we're just never gonna compromise. And what I mean by that is that we are gonna think to ourselves, 'We're smart enough to find a solution that works for both of us. We can find a way that we can both be happy, that we can both support each other in the growth, and that every place where we can't find a way to be happy with one another, means that there's something in us to work on.'"
+
+The added piece in this telling is the diagnostic value of friction: every place where the both-needs-met solution does not yet exist marks a place where there is internal work to be done. The friction is information, not failure. See [[relationships-as-personal-growth-path]] for the framing the diagnostic depends on, and [[4-keys-to-save-your-relationship]] for the framework this principle is the fourth key of.
+
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
 - 2022-10-26_Triggered!
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the carving image: "we just keep on carving away, we keep on saying, 'Yes, dear,' and then all of a sudden there's nothing left in the marriage"; the skeleton-in-the-marriage end-state; the diagnostic value of every place the both-needs-met solution doesn't yet exist; the pairing with the [[yes-dear-old-timers]] story; the principle delivered as the fourth key in the [[4-keys-to-save-your-relationship]] framework)

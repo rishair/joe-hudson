@@ -5,7 +5,7 @@ title: "Shame Drives Behavior"
 aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame", "shame is the locks of the chains of bad habits", "shame is the locks that hold the chains of bad habits in place"]
 tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment", "addiction"]
 related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "addiction-to-shame", "shame-stagnates-emotion", "i-cant-be-disciplined", "avoid-the-decision-by-design", "find-a-healthy-replacement", "should-i-stop-drinking", "reframe-the-question-to-the-blocker-emotion", "heart-in-a-box-want-to-drink", "do-i-stop-drinking-session"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Feel Over Figure", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_The Anatomy Of Shame", "2022-10-26_Vulnerability", "2023-04-11_Master Class - What is Holding You Back？", "2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)", "2024-06-13_Do I Stop Drinking？"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Feel Over Figure", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_The Anatomy Of Shame", "2022-10-26_Vulnerability", "2023-04-11_Master Class - What is Holding You Back？", "2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)", "2024-06-13_Do I Stop Drinking？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # Shame Drives Behavior
@@ -135,6 +135,22 @@ The reframe operationalizes this. Instead of letting the person work on the surf
 
 See [[reframe-the-question-to-the-blocker-emotion]] for the move itself and [[do-i-stop-drinking-session]] for the canonical demonstration. The pattern extends beyond drinking. Any habit being held in place by shame can be approached through the same reframe: replace the behavior in the question with the shame the behavior is managing, and ask the new question instead.
 
+## Blame as the Relational Form of Shame (The Marriage Application)
+
+The principle has a relational form that surfaces in the context of marriages and partnerships. Blame between partners produces shame in the partner. The shame stagnates the partner's emotional flow, which holds in place exactly the behaviors the blaming partner wants to change.
+
+"Placing blame onto another person or onto yourself, it doesn't actually help you get better. It just creates shame and shame stagnates the emotions that we're having and stagnates the reality we are having... When you're blaming, you're putting shame on each other. And when you do that, it's just holding those bad habits in place." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The compression: blame produces shame; shame is the lock; therefore blame is the lock-installer. A relationship organized around mutual blame is a relationship organized around mutually installing the locks that prevent change in the other person.
+
+The corrective is [[turn-blame-into-wants]]. Replacing blame with owned want removes the shame-installing mechanism. The behavior the blame was supposedly trying to change can now actually change. See also [[shame-hot-potato]] for how the blame-shame cycle perpetuates between partners.
+
+The Adyashanti compression appears again in the 4-keys teaching, in a slightly different form:
+
+"There's a great saying that I love and it says, Shame is the locks that hold the chains of bad habits in place." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The structural point is the same regardless of which form Joe uses: the lock is the shame; the chain is the bad habit; trying to break the chain without removing the lock just reattaches the chain.
+
 ## The Shame-as-Permission-to-Have-the-Habit Inversion
 
 A more specific application of the principle: in some cases the substance is not just providing relief from shame but is providing the only access to a part of the self that has been boxed off. The shame keeps the openhearted (or playful, or warm, or expressive) part boxed; the substance temporarily releases the boxing so the part can come out. The drinking is for permission to shine. See [[heart-in-a-box-want-to-drink]] for this specific mechanism.
@@ -158,3 +174,4 @@ In this case the principle still holds — the shame is the lock — but the wor
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
 - 2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips) (the vicious-cycle compression — "you feel bad and then you continue to do the thing so that you can avoid feeling bad, so that you can feel bad, so you can continue doing the thing" — applied to the everyday "I should be more disciplined" framing; the instruction to be gentle with yourself as the structural intervention that breaks the cycle, not as a soft-skills nicety)
 - 2024-06-13_Do I Stop Drinking？ (the principle operationalized as a coaching move: when the client presents the binary "should I stop drinking?", Joe locates the shame and guilt the drinking is managing and reframes the question — "what if the question was, should I give up shame and guilt or not?"; the Adyashanti compression delivered in the moment of the reframe — "shame is the locks that hold the chains of bad habits in place"; the additional inversion where the substance is providing access to a boxed-off openhearted self, requiring the access to be re-routed through a means other than the substance)
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the relational form: blame between partners creates shame in the partner, which holds the bad habits in place; the principle operationalized as the basis for the [[turn-blame-into-wants]] move; the Adyashanti compression delivered in the context of marriages -- "shame is the locks that hold the chains of bad habits in place")

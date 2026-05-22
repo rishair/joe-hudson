@@ -2,9 +2,9 @@
 type: move
 id: feel-the-love-then-feel-obligation
 title: "Feel the Love, Then Feel the Obligation (The Live Trade Demonstration)"
-aliases: ["feel the love then feel the obligation", "the love-obligation toggle move", "feel the love then add the obligation", "show them the love disappear", "the in-body demonstration of the obligation trade", "the obligation-cuts-off-love coaching demo", "have them feel the love disappear under obligation", "make them feel the love disappear", "find the love then add responsibility", "the obligation diagnostic move", "the obligation-love switch", "live somatic proof of the love-obligation trade", "what happened to the love"]
+aliases: ["feel the love then feel the obligation", "the love-obligation toggle move", "feel the love then add the obligation", "show them the love disappear", "the in-body demonstration of the obligation trade", "the obligation-cuts-off-love coaching demo", "have them feel the love disappear under obligation", "make them feel the love disappear", "find the love then add responsibility", "the obligation diagnostic move", "the obligation-love switch", "live somatic proof of the love-obligation trade", "what happened to the love", "compressed version of the love-obligation toggle"]
 tags: ["obligation", "love", "somatic", "in-body demonstration", "live coaching", "moves"]
-sources: ["2024-03-01_Love and Obligation"]
+sources: ["2024-03-01_Love and Obligation", "2024-07-01_Should I Stay With My Ex？"]
 ---
 
 # Feel the Love, Then Feel the Obligation (The Live Trade Demonstration)
@@ -122,7 +122,31 @@ Direct, sometimes sharp, occasionally profane. The move is alive — Joe is genu
 - Toward [[say-no-to-find-the-want]] — when the next step is releasing the obligation through saying no
 - Toward [[heartbreak-is-the-love-underneath-the-blockers]] — when the heart needs to break to find the love that has been hidden
 
+## The Compressed Q&A Variant
+
+In a shorter coaching window (a Q&A session of seven minutes or less), Joe sometimes uses a compressed version of the move that does not require the explicit "find the love / now add obligation" toggle. The compression works by asking a single harder question that contains the trade implicitly:
+
+"You're living in this apartment for him for a month, you can't take care of him, and you have to feel love. What's that gonna require from you?" -- Joe Hudson, Should I Stay With My Ex?
+
+The structure: instead of running the toggle and watching the love disappear, Joe poses a hypothetical that requires both removal of the obligation AND presence of the love. The client, trying to imagine this state, immediately surfaces the requirement: "Monumental amounts of unconditional love for myself."
+
+The compressed version produces the same recognition as the toggle but takes one exchange instead of three. The client is doing the same somatic work — feeling what would be required to maintain love in the absence of obligation — but the work is done internally rather than demonstrated externally.
+
+Use the compressed version when:
+- The coaching window is short (under ten minutes)
+- The client is already somatically available (can find the love quickly)
+- The toggle would take too long to run cleanly in the available time
+
+Use the full version when:
+- The coaching window allows for it
+- The client is in their head and needs the live somatic disappearance to make the trade felt
+- The client has been intellectually agreeing with the principle but has not yet felt it
+- The work needs to land with the sharp "motherfucker" quality of the live disappearance
+
+Both versions are doing the same teaching. The choice between them is about the available time and the client's current somatic availability.
+
 ## Sources
 
-- 2024-03-01_Love and Obligation (the canonical example of the move; the divorce client demonstration)
+- 2024-03-01_Love and Obligation (the canonical example of the full move; the divorce client demonstration)
 - 2024-03-01_What Blocks Your Love? (parallel coverage of the same coaching session; see [[responsibility-stops-love]])
+- 2024-07-01_Should I Stay With My Ex? (the compressed Q&A variant; the woman in trial separation; the harder question that contains the trade implicitly; see [[qa-trial-separation-client]])

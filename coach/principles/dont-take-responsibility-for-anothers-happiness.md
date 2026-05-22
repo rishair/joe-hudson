@@ -4,7 +4,7 @@ id: dont-take-responsibility-for-anothers-happiness
 title: "Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)"
 aliases: ["nobody else is responsible for your happiness", "you can't make your partner happy", "don't take responsibility for happiness", "happiness is internal", "the responsibility-for-happiness principle", "stop trying to make them happy", "no one can make me happy", "responsibility for own happiness", "we're responsible for our own happiness"]
 tags: ["relationships", "happiness", "responsibility", "freedom", "autonomy", "boundaries", "codependence"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-03-01_What Blocks Your Love？", "2024-03-01_Love and Obligation"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-03-01_What Blocks Your Love？", "2024-03-01_Love and Obligation", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)
@@ -123,7 +123,28 @@ If you are in a relationship and exhausted by the work of keeping your partner o
 
 Direct, plain, sometimes with weight. Joe is not gentle about this principle when someone is in deep about it -- not harsh either, but the principle is delivered with the firmness of a structural fact. The relief in the room when this lands is usually visible. People have been carrying weight they did not have to carry.
 
+## The Adult-Acting-Like-a-Kid Compression
+
+In the 4-keys teaching, Joe gives the principle a particularly clean compression that names the structural cost of caretaking the partner's emotional state:
+
+"It's not your job to take care of them. They're a full-grown adult, and if you start taking care of them, they start acting like a kid, it's a horrible thing." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The mechanism is structural and bidirectional. The caretaking installs the parent-child configuration. The adult-partner starts inhabiting the child role because the caretaking has authored it. The configuration is now in place regardless of what either partner originally intended. See [[nobody-wants-to-have-sex-with-a-kid]] for the consequences of this configuration on the relationship's aliveness, and [[treat-them-like-an-adult]] for the exit move.
+
+The 4-keys teaching also gives the principle a clean contrast between the wrong move and the right one:
+
+"Hey, don't be sad," as compared to, "Oh, I see that you're sad. Yeah, I'm right here. Maybe you can even say, 'What, if anything, can I do?' Maybe they don't want you to do anything." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The right move is presence without management. Care is preserved; the responsibility-for-fixing is dropped. The partner is permitted to have their state. See [[caring-vs-caretaking]] for the distinction, and [[4-keys-to-save-your-relationship]] for the framework this principle is the third key of.
+
+The 4-keys teaching also notes the resentment-creating quality of the dynamic on both sides:
+
+"Eventually we're gonna fail. Even more than that, if I start trying to make you happy, what I'm actually communicating to you is that you're not capable of making yourself happy, which is disempowering, which means you're going to be resentful of me. Or if you're saying to me, oh, my job is to make you happy, then I'm disempowered and I feel like I have to be resentful to just even maintain any sense of self." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The resentment is built into the structure. The caretaker fails (because the project is impossible) and creates disempowerment in the partner. The partner-on-the-receiving-end is disempowered and must use resentment to preserve any sense of self. Both ends of the dynamic produce resentment, which is the [[resentment-as-caretaking-diagnostic]] in its bidirectional form.
+
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the principle delivered as the third key in the [[4-keys-to-save-your-relationship]] framework; the adult-acting-like-a-kid compression; the bidirectional resentment mechanism; the wrong-move-vs-right-move contrast on responding to a partner's emotion)

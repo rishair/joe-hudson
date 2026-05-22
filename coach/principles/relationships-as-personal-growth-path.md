@@ -4,7 +4,7 @@ id: relationships-as-personal-growth-path
 title: "The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom"
 aliases: ["relationships are for personal freedom", "the relationship agreement", "we're here to grow not to make each other happy", "personal freedom as relationship purpose", "the freedom agreement", "we're here for our own growth", "use the relationship for your own freedom", "the founding agreement of a healthy relationship", "the purpose of a relationship", "is this the right person answer", "are you both willing to do the work", "the work never ends after you find the person", "the diagnostic for the right person"]
 tags: ["relationships", "partnership", "marriage", "agreement", "freedom", "growth", "core principle"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death", "2023-11-10_Finding a Romantic Partner"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death", "2023-11-10_Finding a Romantic Partner", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom
@@ -150,6 +150,18 @@ This connects to [[grieve-the-marriage-to-save-it]] and [[nre-returns-in-grounde
 
 Plain, almost obvious in delivery, but with weight underneath. Joe states this the way he would state any other structural fact. He is not selling the agreement. He is reporting what works and what does not. The slight directness lands because there is no marketing in it.
 
+## The "Make It All About You" Compression (The 4-Keys Form)
+
+In the 4-keys public teaching, Joe gives this principle a compressed form as the fourth key: "make it all about you." The framing sounds initially counterintuitive for a relationship-saving teaching -- the apparent prescription for marriage is to focus on yourself. The full statement makes the logic clear:
+
+"When you are working on the relationship, you don't work on the other person ever. You always work on yourself. Not with blame, you're not blaming yourself, you're not blaming the other person, but you're taking the relationship as a path of growth. Every place where there's that little, uh-uh-uh, where you wanna compromise or you wanna give up is a place for you to look at yourself and see yourself more clearly. And when you both are making it all about yourselves and about your growth, then the relationship just thrives." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The "make it all about you" is the working compression of this principle. The relationship is the path of growth. The friction is the work. Each impulse to give in or give up is a pointer to internal material.
+
+The 4-keys version also names the diagnostic value of the friction more explicitly than other tellings: every place where the both-needs-met solution does not yet exist marks a place where there is internal work to do. The friction is information, not relationship failure. See [[dont-compromise-find-both-needs-met]] for the principle this pairs with.
+
+The closing frame the 4-keys teaching adds: "The relationship you have with another is really best reflected in the relationship you have with yourself." See [[capacity-to-love-other-is-capacity-to-love-self]] for the principle that makes the "all about you" prescription structurally coherent. The work on the self IS the work on the relationship -- not by analogy but by structural fact.
+
 ## Sources
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
@@ -157,3 +169,4 @@ Plain, almost obvious in delivery, but with weight underneath. Joe states this t
 - 2022-10-26_How Relationships Reveal Us
 - 2023-06-09_Marriage, Love, and Death (Tara's account of choosing Joe because he was as dedicated to learning about himself as she was; the pre-marriage agreements -- 10-day Vipassana, therapy together, six months travel through Southeast Asia -- as field-tests of the shared frame; "the number one principle, most important thing I was looking for in a life partner was someone who would do the work with me")
 - 2023-11-10_Finding a Romantic Partner (Joe's standard answer to "is this the right person" -- "are you both willing to do the work"; the work does not end when you find the person; the early-marriage bumpiness in Joe and Tara's own relationship as the work in action)
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the "make it all about you" compression as the fourth key in the [[4-keys-to-save-your-relationship]] framework; the diagnostic value of every impulse to compromise as a pointer to internal work; the principle delivered together with the never-compromise principle as one move)

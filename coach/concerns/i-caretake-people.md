@@ -2,9 +2,9 @@
 type: concern
 id: i-caretake-people
 title: "I caretake people / I manage everyone's emotions"
-aliases: ["I'm codependent", "I'm always taking care of people", "I'm exhausted from caring for others", "I'm a caretaker", "I manage everyone's feelings", "I caretake my partner", "I caretake my family", "people-pleasing in care form"]
+aliases: ["I'm codependent", "I'm always taking care of people", "I'm exhausted from caring for others", "I'm a caretaker", "I manage everyone's feelings", "I caretake my partner", "I caretake my family", "people-pleasing in care form", "I'm trying to manage him into happiness", "I'm trying to save my partner", "I'm trying to fix my partner so I can love them again", "I'm trying to bring back the person I fell in love with"]
 tags: ["codependence", "caretaking", "boundaries", "obligation", "savior"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2024-07-01_Should I Stay With My Ex？"]
 ---
 
 # I caretake people / I manage everyone's emotions
@@ -123,8 +123,19 @@ The diagnostic markers specific to this shape:
 
 In this form, the work often includes [[exhaustion-is-unexpressed-anger]]: the chronic fatigue is the held mobilization that has had no outlet. The release path is often anger at the situation (the illness, the chronic processing) rather than at the partner. In a couples coaching context, both partners can move anger together at the shared circumstance -- see [[victim-anger-vs-dominating-anger]] and the example [[sadie-christopher-anger-together]].
 
+## The Stay-or-Leave Presentation
+
+A particularly common surface form: the person presents a stay-or-leave question about a long relationship. "Should I stay with my ex?" "Should we keep trying?" "I'm in a trial separation and need to decide whether to come back." The caretaking is rarely named directly. What is described is a relationship that has gone heavy, a partner whose emotional state (depression, anger, shame, mental health) has been the center of the dynamic, and a request for help deciding what to do.
+
+The diagnostic signal that this is caretaking presenting as a decision: the partner's emotional state is the primary variable in the speaker's description of the relationship, and the speaker's role is described as managing or holding or trying to fix that state. The decision question is sitting on top of the caretaking pattern.
+
+When this is the presentation, the work is not the decision. The decision is downstream of the configuration change. The relevant moves are [[redirect-from-stay-or-leave-to-self-love]] and [[treat-them-like-an-adult]]. The relevant principles are [[self-love-makes-the-decision]], [[obligation-cuts-off-love]], and [[nobody-wants-to-have-sex-with-a-kid]]. See the dedicated concern [[should-i-stay-with-my-ex]] for the full coaching path for this presentation.
+
+A specific strategy often surfaces underneath the stay-or-leave question: the caretaking is functioning as a way to bring back the partner the speaker fell in love with. "I'm managing him into happiness so I can get back the same man I fell in love with." Joe names this strategy as the love-killer: the management IS the love-loss, and the strategy is reaching for the love it is killing. See [[responsibility-stops-love]] for the principle and [[qa-trial-separation-client]] for the canonical example.
+
 ## Related Concerns
 
+- [[should-i-stay-with-my-ex]]: when the caretaking presents as a stay-or-leave question about a long relationship.
 - [[i-feel-trapped]]: the felt cage is often the caretaking dynamic.
 - [[i-have-to-sacrifice-to-succeed]]: a related framing in the work domain.
 - [[i-should-be-doing-this]]: the should layer that often holds caretaking in place.
@@ -137,3 +148,4 @@ In this form, the work often includes [[exhaustion-is-unexpressed-anger]]: the c
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session demonstrating the chronic-illness-partner form, where caretaking presents as exhaustion and unexpressed anger
+- 2024-07-01_Should I Stay With My Ex? -- Q&A session demonstrating caretaking presenting as a stay-or-leave question about a trial separation; the woman is managing her depressed husband into happiness to recover the man she fell in love with

@@ -2,10 +2,10 @@
 type: question
 id: what-are-you-trying-to-control-for
 title: "What are you trying to control for?"
-aliases: ["what are you trying to control for", "what are you trying to create", "if you got the thing what would change", "what are you actually after", "what are you trying to make happen", "the control-for question", "the underneath-the-jealousy question", "what's the outcome you're chasing", "the surrogate-outcome question", "what's the thing you're trying to create"]
+aliases: ["what are you trying to control for", "what are you trying to create", "if you got the thing what would change", "what are you actually after", "what are you trying to make happen", "the control-for question", "the underneath-the-jealousy question", "what's the outcome you're chasing", "the surrogate-outcome question", "what's the thing you're trying to create", "what are you trying to manage him into happiness so you can get", "what's the strategy reaching for", "what is the management trying to produce"]
 tags: ["coaching question", "wants", "control", "jealousy", "surrogate", "defense", "diagnostic"]
-related: ["every-no-contains-a-better-answer", "find-the-want-behind-the-should", "money-as-surrogate", "craving-is-the-pushing-away", "what-do-you-want", "the-want"]
-sources: ["2024-03-11_How Do I Love The ＂No＂？"]
+related: ["every-no-contains-a-better-answer", "find-the-want-behind-the-should", "money-as-surrogate", "craving-is-the-pushing-away", "what-do-you-want", "the-want", "responsibility-stops-love"]
+sources: ["2024-03-11_How Do I Love The ＂No＂？", "2024-07-01_Should I Stay With My Ex？"]
 ---
 
 # What are you trying to control for?
@@ -116,6 +116,17 @@ The dialogue shows the question working: it surfaces the real target (the friend
 - Toward [[craving-is-the-pushing-away]] when the controlling behavior is the same motion as keeping the wanted thing away
 - Toward [[find-the-want-behind-the-should]] when the answer surfaces a want that has been hidden under obligation
 
+## The Caretaking Variant
+
+The question takes a specific form when the controlling behavior is caretaking of a partner. Joe asks: "You're trying to manage him into happiness so that you can get what?" The structure is the same — name the management, ask what it is reaching for — but the framing is specific to the caretaking dynamic.
+
+In a trial-separation Q&A, the answer surfaces the strategy underneath: "The same man I fell in love with." Joe extends the question to make the strategy explicit: "So that you can fall in love, so that you can be in love. If you save him, then you get to feel love." The naming removes the moral cover. The caretaking is a strategy to recover the felt love, and the strategy is what is killing the love.
+
+The follow-up in the caretaking variant connects the recognition to the principle [[responsibility-stops-love]]: the management IS the love-loss, and the strategy is reaching for the love it is killing. This connection makes the principle workable in real time. The client can see the structure of the trade they have been making for years.
+
+See [[qa-trial-separation-client]] for the full example, [[decision-question-covers-the-caretaking]] for the read that often makes this variant available, and [[should-i-stay-with-my-ex]] for the concern this most often serves.
+
 ## Sources
 
 - 2024-03-11_How Do I Love The "No"? (Joe uses the question to surface the underlying target of somatic jealousy, then tests whether the named outcome would actually dissolve the behavior)
+- 2024-07-01_Should I Stay With My Ex? (the caretaking variant: Joe asks "you're trying to manage him into happiness so you can get what?" and the answer surfaces the strategy of recovering the man the woman fell in love with through the management that is killing the love)

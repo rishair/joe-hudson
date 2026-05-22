@@ -4,8 +4,8 @@ id: forms-of-dysfunctional-apology
 title: "Forms of Dysfunctional Apology"
 aliases: ["dysfunctional apology types", "kinds of bad apologies", "the four bad apologies", "habitual apology", "shame-extracting apology", "guilt-relief apology", "passive-aggressive apology", "the chronic I'm sorry", "weaponized apology", "apology as control", "apology forms that don't work"]
 tags: ["apology", "shame", "patterns", "passive-aggression", "control", "appeasement"]
-related: ["upright-apology", "sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "vulnerability-as-control", "passive-aggressive-vs-aggressive-aggressive", "dont-extract-apologies", "apologies-as-power-struggle-surrogate"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
+related: ["upright-apology", "sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "vulnerability-as-control", "passive-aggressive-vs-aggressive-aggressive", "dont-extract-apologies", "apologies-as-power-struggle-surrogate", "list-who-you-subtly-blame"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology", "2024-07-05_Passive Aggression"]
 ---
 
 # Forms of Dysfunctional Apology
@@ -53,6 +53,12 @@ The apology that disguises blame, contempt, or a demand for the other to apologi
 Other examples Joe references: "I'm sorry I let you do that, it was my fault that I let this happen" (with the subtle implication that the other person is the actual wrongdoer).
 
 Detection signal: the body of the receiver constricts on hearing it. The words say sorry; the energy demands an apology back. See [[passive-aggressive-vs-aggressive-aggressive]].
+
+A specific high-frequency case: passive-aggressive apologies for past passive aggression. When someone has been working on themselves and decides to apologize for old guilt trips or withdrawals of love, the same engine that produced the original passive aggression often produces the apology in the same shape.
+
+"It's like, 'I'm sorry that you made me get angry at you the other day. I'm sorry that you made me guilt trip you. There was just no other way to do it. Sorry I put up with your bullshit.' Oh my gosh. It just goes to prove like you can take any, any recognition and weaponize it." -- Joe Hudson, Passive Aggression
+
+The grammatical signature: the word "you" is the subject of the apology's content. Real ownership keeps the focus on the speaker. The work-around for this trap is the no-you hack — see [[dont-use-you-in-an-apology]].
 
 ## The Common Mechanism
 

@@ -2,10 +2,10 @@
 type: move
 id: invite-the-aggression-out
 title: "Invite the Aggression Out"
-aliases: ["convert passive to direct anger", "ask for the direct anger", "can you be direct with me", "name the passive aggression", "the experiment invitation move", "invite the aggression out as experiment", "request direct anger"]
+aliases: ["convert passive to direct anger", "ask for the direct anger", "can you be direct with me", "name the passive aggression", "the experiment invitation move", "invite the aggression out as experiment", "request direct anger", "make passive aggression active", "rule of thumb permission for anger"]
 tags: ["move", "anger", "passive aggression", "group dynamics", "facilitation"]
-related: ["passive-aggressive-vs-aggressive-aggressive", "anger", "welcoming-the-others-emotion", "kinked-emotions"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+related: ["passive-aggressive-vs-aggressive-aggressive", "anger", "welcoming-the-others-emotion", "kinked-emotions", "dont-weaponize-the-make-it-active-move", "say-ouch", "dont-do-anger-at-your-partner"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2024-07-05_Passive Aggression"]
 ---
 
 # Invite the Aggression Out
@@ -59,6 +59,33 @@ When not to use it:
 - When the person is in a state where being asked to be direct would be retraumatizing.
 - When the passive aggression is the cover for something more serious (active abuse) that should be addressed differently.
 - When the move would be heard as "stop being so sensitive" rather than as an invitation.
+- When you are not a facilitator with explicit permission. Bringing this move to a partner, family member, or team member without their consent turns the move into the very thing it is trying to address. See [[dont-weaponize-the-make-it-active-move]].
+
+## The Permission Rule
+
+Joe's general rule: do not direct anger at someone without their permission. This rule applies in reverse here too. The invitation to be directly angry is itself an invitation that should be received as such, not extracted.
+
+"Our rule of thumb is that we don't get angry at somebody. So that doesn't matter if it's aggressive anger or passive-aggressive anger. We don't get angry at somebody without permission. And so you want to be permissive — give, get permission. If we're facilitating somebody and we're getting paid to help somebody work with this stuff, we'll be like, hey, that's passive. Let's make it aggressive and like invite them into experiencing that." -- Joe Hudson, Passive Aggression
+
+The bracket of "facilitating somebody and we're getting paid" is significant. The move belongs to a coaching frame. Outside that frame, the structure of permission has to be built differently or skipped entirely.
+
+## A Safer Variant: You Don't Need to Do It At Anybody
+
+A version of the same release that does not require a target: the person can move the anger underneath the passive aggression on their own, in private, not at anyone. This is the safer entry point for someone who wants to start working with this material outside of a facilitated context.
+
+"You don't need to do it at anybody. You can just do it. You can just get into a room and move the anger that's underneath the passive aggression. And that's going to be your most effective way to reduce the amount of passive aggression also that you're doing." -- Joe Hudson, Passive Aggression
+
+See [[get-angry-in-the-car]] for the practice. The release in private addresses the underlying kink without requiring anyone else to be the target.
+
+## When the Move Crosses Into a Long-Term Relationship
+
+For a long-term relationship where one party wants to invite the other into this work, the risk profile is significantly higher than in a coaching session. Even with permission, the retraumatization potential is real.
+
+"If somebody wants to give you permission, fantastic. If they do, it's very tentative. It's very risky, especially if it's in a long-term relationship. There can be a lot of retraumatization and damage. So I really recommend if you're going to do that, at least the first couple of times, do it with a professional." -- Joe Hudson, Passive Aggression
+
+The additional protection inside any such session: the receiver can stop the experiment at any moment. The person being invited to be directly angry has to be able to call a pause without negotiation.
+
+"If you're going to do that, at any time the person wants to stop, you stop. So that somebody can actually feel like they're in control, that they're not just being yelled at and retraumatizing themselves." -- Joe Hudson, Passive Aggression
 
 ## What the Move Requires of the Mover
 
@@ -103,7 +130,12 @@ Joe's tone with this move is open, slightly playful, and undefended. Not solemn.
 - Toward [[welcoming-the-others-emotion]]: the welcome that has to happen if the experiment succeeds.
 - Toward [[anger]]: the underlying emotion that becomes workable once made explicit.
 - Toward [[passive-aggressive-vs-aggressive-aggressive]]: the distinction this move operates on.
+- Toward [[dont-weaponize-the-make-it-active-move]]: the anti-pattern for taking this move outside its proper frame.
+- Toward [[say-ouch]]: the alternate move when you are on the receiving end without coaching authority.
+- Toward [[get-angry-in-the-car]]: the safer practice that does the same release work without a target.
+- Toward [[dont-do-anger-at-your-partner]]: the principle that bounds when this move is appropriate.
 
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2024-07-05_Passive Aggression (the permission rule, the safer variant of doing it without a target, the warnings about applying this in long-term relationships)

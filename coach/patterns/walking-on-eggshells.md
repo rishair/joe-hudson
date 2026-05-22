@@ -5,7 +5,7 @@ title: "Walking on Eggshells"
 aliases: ["walking on eggshells", "eggshells pattern", "I can't bring this part of myself", "the eggshell relationship", "managing around the trigger", "managing each other's triggers", "the partner whose job is to prevent the other's trigger", "preventing your partner's triggers", "the cold marriage", "the relationship that never fights", "shoring up the relationship by self-suppression", "I have to be careful what I say around them", "the relationship where everything is fine"]
 tags: ["relationships", "marriage", "partnership", "trigger", "suppression", "resentment", "self-abandonment"]
 related: ["trigger", "we-never-fight", "resentment-as-unspoken-want", "subjugation-prevents-healing", "dont-make-it-your-job-to-prevent-their-triggers", "dont-compromise-find-both-needs-met", "say-the-thing-youre-not-saying", "you-think-they-cant-handle-it", "trauma-heals-in-relationship", "capacity-to-love-other-is-capacity-to-love-self", "conflict-avoidance-prevents-healing", "the-built-up-resentment-story", "conflict-avoidance-prevents-being-loved", "avoided-conflict-goes-internal", "feel-the-pain-of-not-being-loved", "what-makes-you-care-about-their-emotional-state", "conflict-as-evolutionary-tension"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # Walking on Eggshells
@@ -106,8 +106,23 @@ The corrective is not "yell at your partner." Joe is explicit: see [[dont-do-ang
 
 Joe holds this pattern with sadness and matter-of-factness. He does not condemn the people inside it. He treats it as one of the most common and most tragic configurations he sees. The "wow, you guys are both pissed all the time" line is delivered with the recognition that they did not know, and that the work to undo it is doable but takes time.
 
+## The Crazy Trade (The Public-Teaching Compression)
+
+In the 4-keys teaching, Joe names the central deception of the eggshells pattern with a compressed image: the trade of being liked for who you are not.
+
+"It's like this crazy trade that we make when we say, oh, I can be liked for who I'm not rather than be liked for who I am. And if you're not sharing that deep stuff, you can't actually be liked for who you are. You can only be liked for who you're pretending to be." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The compression makes the cost of the pattern recognizable in one sentence. The eggshells produce a relationship in which the love is being given to the performance, not to the person. The person inside the performance is unloved -- because they are not present in the relationship in any form the partner could love.
+
+The 4-keys teaching also identifies the two motivations that produce the pattern:
+
+"Oftentimes when a relationship deteriorates, people stop saying the difficult stuff and they stop saying it for a couple of reasons. One of the reasons is that if I share it, they're gonna get upset or they're going to fall apart or they're gonna get angry. So I call that walking on eggshells. So I'm not gonna do it because I don't like the consequence of their behavior. And the other reason is because we're trying to manage each other often in a relationship like, oh, how do I get them to be X, Y, and Z? Because once they're X, Y, and Z, then I can be happy." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The two motivations are: avoidance of the partner's reaction, and management of the partner toward a state that would make the speaker happy. Both are sub-forms of [[dont-take-responsibility-for-anothers-happiness]] -- the eggshells are organized around managing what the speaker thinks the partner is responsible for delivering.
+
 ## Sources
 
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
 - 2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the "crazy trade" compression: being liked for who you are not; the two motivations for the pattern -- partner's-reaction avoidance and partner-management; the pattern named explicitly as "walking on eggshells" in the public-teaching context; the principle that without sharing the deep stuff, you cannot actually be liked for who you are)

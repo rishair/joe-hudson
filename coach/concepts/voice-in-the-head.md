@@ -173,6 +173,8 @@ When the voice quiets in a healthy way, the experience is one of efficiency, pre
 - Toward [[wonder]]: turn curiosity onto the voice itself.
 - Toward [[what-am-i]] and [[self-realization]]: the deeper question of who the voice is talking to and who is listening.
 - Toward [[wants-over-shoulds]]: replace the should-language with want-language.
+- Toward [[passive-aggression-toward-self]]: when the voice is taking the form of the cheery internal coach overriding what you feel, or the undermining "this won't work" voice, the work is to recognize the form as passive aggression rather than as friendship or realism.
+- Toward [[self-aggression-permits-others-aggression]]: the link between the voice's behavior and what you accept from others.
 
 ## Tone
 

@@ -2,9 +2,9 @@
 type: principle
 id: obligation-cuts-off-love
 title: "Obligation Cuts Off the Felt Experience of Love"
-aliases: ["obligation and love can't coexist", "you can't feel obligated and feel love at the same time", "obligation stops love", "obligation kills love in the moment", "obligation as love-killer", "obligation prevents love feeling", "feeling obligation cuts off feeling love", "the moment you act from obligation you stop loving", "obligation traded for love", "you have to stop loving them to take responsibility for them", "the obligation-love trade", "every act of obligation cuts off love", "obligation and love are mutually exclusive in the moment", "the felt love stops when obligation starts", "obligation constricts the emotional experience of love"]
+aliases: ["obligation and love can't coexist", "you can't feel obligated and feel love at the same time", "obligation stops love", "obligation kills love in the moment", "obligation as love-killer", "obligation prevents love feeling", "feeling obligation cuts off feeling love", "the moment you act from obligation you stop loving", "obligation traded for love", "you have to stop loving them to take responsibility for them", "the obligation-love trade", "every act of obligation cuts off love", "obligation and love are mutually exclusive in the moment", "the felt love stops when obligation starts", "obligation constricts the emotional experience of love", "managing someone into happiness kills the love", "the management strategy that kills the love it reaches for"]
 tags: ["obligation", "love", "responsibility", "shoulds", "caretaking", "felt sense", "core principle"]
-sources: ["2024-03-01_Love and Obligation", "2024-04-15_Am I A Fake？"]
+sources: ["2024-03-01_Love and Obligation", "2024-04-15_Am I A Fake？", "2024-07-01_Should I Stay With My Ex？"]
 ---
 
 # Obligation Cuts Off the Felt Experience of Love
@@ -160,7 +160,18 @@ When teaching the principle, matter-of-fact and clinical. The mechanism is descr
 
 The sibling principle [[responsibility-stops-love]] (from the related 2024-03-01_What Blocks Your Love? episode) covers the same teaching from a parallel framing. The two articles should likely be merged. This article emphasizes the obligation mechanism across all domains (love, money, work, self); the sibling emphasizes the responsibility-for-others form and the mirror dynamic with the inner critic. Until merged, treat them as two angles on the same principle.
 
+## The Trial-Separation Q&A Variant: The Strategy That Kills What It Reaches For
+
+The principle has a particularly clean form when the obligation is operating as a strategy to *recover* love that has been lost. In a trial-separation Q&A session, the woman describes managing her husband's depression, anger, and shame in an effort to bring back "the same man I fell in love with." Joe names the strategy explicitly as a greedy act: "If you save him, then you get to feel love." See [[qa-trial-separation-client]] for the full sequence.
+
+What makes this variant useful: it shows that the obligation can be a strategy to feel love, not just an alternative to feeling love. The person is trying to engineer the conditions under which their love-feeling would return. The strategy fails for a structural reason: the engineering itself is the obligation, and the obligation is the love-killer. The very effort to feel love again is what prevents the love from arriving.
+
+The Q&A session also adds the second teaching that pairs naturally with this principle: under conditions of self-love, the question of whether to stay with the partner loses its weight. See [[self-love-makes-the-decision]]. The decision was being asked to do what self-love alone can do. Once self-love is present, the deliberation stops, the obligation stops, and the relationship becomes whatever it becomes.
+
+A third companion teaching: the caretaking that obligation produces also kills the sexual aliveness of the relationship, because the configuration becomes parent-child. See [[nobody-wants-to-have-sex-with-a-kid]]. The dead sex is a structural consequence of the obligation, not a separate problem. The corrective is the same: exit the obligation, treat the partner as an adult, and the configuration shifts back to adult-adult — at which point the sex (and the joy, and the silliness, and the love) can return.
+
 ## Sources
 
 - 2024-03-01_Love and Obligation (the central episode for this principle; includes both the teaching and the in-vivo coaching demonstration)
 - 2024-04-15_Am I A Fake？ (the developmental origin of the principle; the mother who felt shame at not being able to provide and traded love for responsibility, installing the wiring in the child)
+- 2024-07-01_Should I Stay With My Ex? (the trial-separation Q&A: obligation as strategy to recover love, the self-love-as-the-only-work landing, the parent-child configuration's effect on sex; demonstrates the principle in compressed seven-minute Q&A form)

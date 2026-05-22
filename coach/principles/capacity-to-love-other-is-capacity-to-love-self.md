@@ -5,7 +5,7 @@ title: "Your Capacity to Love Others Equals Your Capacity to Love Yourself"
 aliases: ["capacity to love is capacity to love self", "you can only love others as much as you love yourself", "self-love is the prerequisite", "loving yourself is loving others", "self-acceptance enables love of other", "the capacity equation", "loving others requires loving self", "no self-love no love of other", "love yourself to love them", "self-love is upstream of love", "the reflection inside is the reflection outside", "cutting off love internally cuts off love externally", "the same move done to yourself is done to others", "the mirror move of cutting off love"]
 tags: ["principle", "love", "self-love", "relationships", "capacity", "acceptance"]
 related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization", "responsibility-stops-love"]
-sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？"]
+sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # Your Capacity to Love Others Equals Your Capacity to Love Yourself
@@ -119,6 +119,23 @@ The principle also does not mean you have to be fully self-loving before you can
 
 Joe delivers this almost casually, but it is one of the keystones. The "completely based on" is unqualified. He does not soften it. The directness is the teaching. There are no extra conditions. The capacities are one capacity.
 
+## The Self-Relationship Reflects All Relationships (The 4-Keys Closing Compression)
+
+In the 4-keys public teaching, Joe gives the principle its broadest form -- not just love-of-partner but the structure of the self-relationship reflecting every relationship the person has:
+
+"The relationship you have with another is really best reflected in the relationship you have with yourself. If you have a loving relationship with yourself, you're going to have a loving marriage. You're going to have a loving relationship with your lover, with your girlfriend, with your boyfriend. If you have a relationship with yourself where you're at war, you're going to be at war with your wife or your partner." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+This is the structural justification for the fourth key of the [[4-keys-to-save-your-relationship]] framework: "make it all about you." The principle is what makes the "all about you" prescription coherent. The reason working on the self is the work on the marriage is not psychological metaphor -- it is structural. The capacity for the self-relationship is the capacity for every other relationship. The work on the self-relationship is the work on every other relationship.
+
+"The main thing about keeping that focus on yourself is really working on the relationship that you have with yourself, because that is what reflects in the world, in your company, and the people you work with, and with the people you love." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+The 4-keys teaching also extends the principle beyond the romantic partnership -- the same self-relationship reflects in the company, in the work, in friendships. The principle is one structural fact with applications wherever the person has a relationship at all.
+
+See [[4-keys-to-save-your-relationship]] for the framework this principle closes, and [[relationships-as-personal-growth-path]] for the agreement that operationalizes the principle in long-term partnership.
+
 ## Sources
 
 - 2022-09-30_Triggered
+- 2024-02-12_Welcome To The Art Of Accomplishment
+- 2024-03-01_What Blocks Your Love?
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the self-relationship-reflects-all-relationships compression; the principle delivered as the closing frame of the [[4-keys-to-save-your-relationship]] framework; the extension of the principle beyond romantic partnership to company, work, and friendships)

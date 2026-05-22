@@ -5438,15 +5438,93 @@
     },
     {
       "folder": "2024-07-01_Should I Stay With My Ex\uff1f",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T19:05:55Z",
+      "articles_created": [
+        "should-i-stay-with-my-ex",
+        "decision-question-covers-the-caretaking",
+        "what-would-it-take-for-you-to-not-take-care-of-them",
+        "redirect-from-stay-or-leave-to-self-love",
+        "self-love-makes-the-decision",
+        "nobody-wants-to-have-sex-with-a-kid",
+        "treat-them-like-an-adult",
+        "give-me-a-good-attempt",
+        "qa-trial-separation-client"
+      ],
+      "articles_updated": [
+        "responsibility-stops-love",
+        "obligation-cuts-off-love",
+        "feel-the-love-then-feel-obligation",
+        "i-caretake-people",
+        "treating-it-as-a-decision-when-its-an-emotion",
+        "what-are-you-trying-to-control-for"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T19:23:44Z"
+    },
+    {
+      "folder": "2024-07-05_Passive Aggression",
+      "status": "complete",
+      "claimed_at": "2026-05-22T19:08:11Z",
+      "articles_created": [
+        "passive-aggression-toward-self",
+        "self-aggression-permits-others-aggression",
+        "nice-vs-kind-from-open-heart",
+        "dont-weaponize-the-make-it-active-move",
+        "say-ouch",
+        "cant-take-the-victim-role-away",
+        "dont-meet-aggression-with-aggression",
+        "list-who-you-subtly-blame",
+        "withdrawal-of-love-as-passive-aggression"
+      ],
+      "articles_updated": [
+        "passive-aggressive-vs-aggressive-aggressive",
+        "invite-the-aggression-out",
+        "three-forms-of-anger-repression",
+        "aggressive-victim-stance",
+        "upright-apology",
+        "forms-of-dysfunctional-apology",
+        "voice-in-the-head"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T19:25:49Z"
+    },
+    {
+      "folder": "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!",
+      "status": "complete",
+      "claimed_at": "2026-05-22T19:24:45Z",
+      "articles_created": [
+        "4-keys-to-save-your-relationship",
+        "belief-you-cant-have-both-a-great-career-and-a-great-marriage",
+        "yes-dear-old-timers",
+        "champion-swimmer-belief",
+        "turn-blame-into-wants"
+      ],
+      "articles_updated": [
+        "toilet-blame-story",
+        "shame-drives-behavior",
+        "dont-compromise-find-both-needs-met",
+        "dont-take-responsibility-for-anothers-happiness",
+        "walking-on-eggshells",
+        "say-the-thing-youre-not-saying",
+        "capacity-to-love-other-is-capacity-to-love-self",
+        "relationships-as-personal-growth-path",
+        "we-have-built-up-resentment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T19:37:28Z"
+    },
+    {
+      "folder": "2024-07-12_I Can't Get Over My Ex",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T19:26:46Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-07-05_Passive Aggression",
+      "folder": "2024-07-15_How To Stop Being Judgmental - 3 Ways",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T19:08:11Z",
+      "claimed_at": "2026-05-22T19:38:34Z",
       "articles_created": [],
       "articles_updated": []
     }

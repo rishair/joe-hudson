@@ -2,10 +2,10 @@
 type: principle
 id: responsibility-stops-love
 title: "Taking Responsibility for Someone Stops the Love You Feel for Them"
-aliases: ["responsibility stops love", "taking responsibility kills love", "obligation stops love", "every time you took responsibility it stopped the love", "responsibility cuts off love", "obligation cuts off love", "you stopped loving her to take responsibility for her", "the responsibility-love trade-off", "responsibility and love don't coexist", "obligation and love don't coexist", "you cut off love to take responsibility", "the love-or-responsibility incompatibility", "obligation is the love killer", "the felt-mechanism of love loss in obligation"]
+aliases: ["responsibility stops love", "taking responsibility kills love", "obligation stops love", "every time you took responsibility it stopped the love", "responsibility cuts off love", "obligation cuts off love", "you stopped loving her to take responsibility for her", "the responsibility-love trade-off", "responsibility and love don't coexist", "obligation and love don't coexist", "you cut off love to take responsibility", "the love-or-responsibility incompatibility", "obligation is the love killer", "the felt-mechanism of love loss in obligation", "managing him into happiness kills the love", "trying to save them stops the love", "you traded love for management"]
 tags: ["love", "responsibility", "obligation", "relationships", "self-love", "shoulds", "principle"]
-related: ["dont-take-responsibility-for-anothers-happiness", "capacity-to-love-other-is-capacity-to-love-self", "should-as-threat", "love-as-deep-welcoming", "walking-on-eggshells", "wants-over-shoulds", "creating-safety-suppresses-self"]
-sources: ["2024-03-01_What Blocks Your Love？"]
+related: ["dont-take-responsibility-for-anothers-happiness", "capacity-to-love-other-is-capacity-to-love-self", "should-as-threat", "love-as-deep-welcoming", "walking-on-eggshells", "wants-over-shoulds", "creating-safety-suppresses-self", "self-love-makes-the-decision", "nobody-wants-to-have-sex-with-a-kid", "treat-them-like-an-adult"]
+sources: ["2024-03-01_What Blocks Your Love？", "2024-07-01_Should I Stay With My Ex？"]
 ---
 
 # Taking Responsibility for Someone Stops the Love You Feel for Them
@@ -102,6 +102,23 @@ Direct, plain, but inviting. Joe does not pronounce this as doctrine — he walk
 
 When the client tries to take responsibility for FEELING the principle ("Instead of trying to manufacture a deep feeling so I can be performative"), Joe is gently amused. The same pattern surfaces meta -- the obligation to feel obligation correctly.
 
+## The Trial-Separation Variant: "Managing Him Into Happiness to Get the Love Back"
+
+A specific form of this principle surfaces when one partner has been caretaking the other through depression, anger, or shame. The caretaker's strategy is to manage the partner into happiness so the partner becomes "the same man I fell in love with" again. The caretaker reads the strategy as devotion. Joe names the strategy as the love-killer:
+
+- **Joe:** "You're trying to manage him into happiness so that you can get what?"
+- **Woman:** "The same man I fell in love with."
+- **Joe:** "So that you can fall in love, so that you can be in love. If you save him, then you get to feel love. Like, assuming it's a greedy act. Yeah, assuming that you're trying to make him happy for your own ends, so that you can feel that love again."
+
+The naming is structural. The management is not separate from the love-loss. The management IS the love-loss. Each act of trying to manage him into happiness is a moment of stopped loving. The strategy is reaching for the same love it is killing.
+
+The follow-up Joe gives in the trial-separation variant is harder than the divorce-client variant. In the divorce client case, the recognition lands and Joe lets it sit. In the trial-separation case, Joe pushes further: what would it take to be with him for a month and NOT take care of him, AND still feel love? The woman's answer surfaces the requirement: "monumental amounts of unconditional love for myself."
+
+This is the move from external responsibility to internal self-love. The principle becomes operationally: you cannot give what you do not have. The self-love is upstream of the partner-love. The responsibility-for-the-partner was the substitute for the self-love that would have made the partner-love possible.
+
+See [[self-love-makes-the-decision]] for what becomes available once the self-love is in place: the stay-or-leave question itself loses its weight. See [[treat-them-like-an-adult]] for the relational instruction that exits the caretaking configuration. See [[nobody-wants-to-have-sex-with-a-kid]] for the structural cost the configuration has on the relationship's aliveness.
+
 ## Sources
 
-- 2024-03-01_What Blocks Your Love?
+- 2024-03-01_What Blocks Your Love? (the divorce client; the chest/upper-arms obligation location; the "motherfucker" recognition)
+- 2024-07-01_Should I Stay With My Ex? (the trial-separation woman; the management-into-happiness strategy; the "monumental amounts of unconditional love for myself" requirement; the self-love-as-the-only-work landing)

@@ -5,7 +5,7 @@ title: "Say the Thing You're Not Saying"
 aliases: ["say the suppressed thing", "say what you're not saying", "the say-it practice", "one thing a day", "the trigger discovery practice", "find triggers by saying", "say it kindly but say it", "the hedging-isn't-allowed practice", "if you're not triggered try saying things", "Joe's practice for low-conflict couples", "the eggshell discovery practice"]
 tags: ["practice", "relationships", "trigger", "marriage", "communication", "vulnerability", "self-discovery"]
 related: ["trigger", "walking-on-eggshells", "we-never-fight", "you-think-they-cant-handle-it", "dont-make-it-your-job-to-prevent-their-triggers", "vulnerability", "boundaries", "state-the-want-not-the-action", "tell-them-like-an-asshole", "ask-open-ended-non-judgmental-questions-when-triggered"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # Say the Thing You're Not Saying
@@ -112,7 +112,22 @@ If the relationship is one where the person has been told "everything is fine" f
 
 Joe gives the practice playfully but seriously. He delivers the airport-dropoff example with humor. The underlying instruction is firm: just say it. The kindness is real, but the kindness is not allowed to be a workaround.
 
+## The Two Tools for the Deeper Conversation
+
+In the 4-keys teaching, Joe offers two specific tools that make the deeper conversations possible -- companions to the say-the-thing practice that govern the listening side of the exchange:
+
+**Listen without judgment, fixing, or saving.** "Don't listen with judgment. Don't listen with trying to fix the other person. Don't listen trying to save the other person. You just listen. Just be with whatever emotions you have and listen. Listen with unconditional acceptance." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+**Draw boundaries to make the heard-ness available.** "Hey, I just wanna share, I don't want input right now, I just wanna be heard. Or, I don't wanna solve the problem, I just wanna be heard. Or, nothing needs to change, I'm just exploring some thoughts, I just wanna be heard." -- Joe Hudson, 4 Keys To Save Your Relationship
+
+These two tools are not separate from the say-the-thing practice. They are what makes saying the thing land. Without unconditional acceptance on the listening end, the saying produces conflict instead of contact. Without the boundary-for-being-heard at the front of the conversation, the listener defaults to fixing mode and the saying gets converted into a problem to be solved before it can be heard.
+
+The downstream effect Joe names: "Oftentimes when we get heard, what we want, what happens, what we're gonna do next changes because we actually get to process it and find out our deeper truth." The act of being heard is itself the processing. The wanted resolution often is not a fix from the partner -- it is the partner's listening that lets the speaker hear themselves.
+
+See [[carl-rogers-three-day-listening-experiment]] for the extended teaching on the transformative effect of pure listening.
+
 ## Sources
 
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the practice delivered as the second key in the [[4-keys-to-save-your-relationship]] framework; the two companion tools -- unconditional-acceptance listening and the boundary-for-being-heard; the "crazy trade" framing -- you can be liked for who you're not or you can be loved for who you are; the principle that being heard is itself the processing)

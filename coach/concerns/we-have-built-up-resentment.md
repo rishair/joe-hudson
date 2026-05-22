@@ -4,7 +4,7 @@ id: we-have-built-up-resentment
 title: "We have built-up resentment / We're not entirely happy with each other anymore"
 aliases: ["we have built up resentment", "we're not entirely happy with each other", "we're walking on eggshells", "the resentment has been building", "we used to be happy and now we're not", "we got married and were happy and now there's this", "we've grown apart", "things have built up", "we're not as connected as we used to be", "our marriage has gotten heavy", "the same fight keeps coming up", "we're stuck in this dynamic", "our relationship has gotten stagnant", "low-grade resentment in a long marriage", "the slow-burn marriage", "the slow-burn business partnership", "the gradual erosion of the relationship", "we used to talk about everything", "the marriage that slowly went flat", "the company that lost its aliveness", "the founder relationship that turned competitive"]
 tags: ["relationships", "marriage", "partnership", "presenting concern", "resentment", "stagnation", "conflict avoidance"]
-sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato"]
+sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
 ---
 
 # We have built-up resentment / We're not entirely happy with each other anymore
@@ -86,7 +86,19 @@ The path is not to start with "tell me about the resentment." The path is to nam
 
 6. Address the fear of the aftermath. The person is usually afraid that the conversations will end the relationship. Joe's frame: the relationship as it currently exists is already ending. The conversations are the only thing that might save it.
 
+## The 4-Keys Compressed Path
+
+When the presenting concern is "we have built-up resentment" and the listener needs a complete, actionable structure rather than a single starting point, Joe offers the [[4-keys-to-save-your-relationship]] framework. The four keys map onto the four most common forms the dynamic takes:
+
+1. **The blame autopilot** (key 1: [[turn-blame-into-wants]]). The blame has been running on autopilot for years; converting it back to wants reestablishes the self-ownership that the relationship lost.
+2. **The eggshells around difficult conversations** (key 2: [[say-the-thing-youre-not-saying]]). The conversations that were never had are the structure of the resentment; the practice surfaces them gradually.
+3. **The mutual responsibility-for-happiness contract** (key 3: [[dont-take-responsibility-for-anothers-happiness]]). The terminal agreement that has been quietly draining both partners.
+4. **The compromise as self-amputation** (key 4: [[dont-compromise-find-both-needs-met]] plus [[relationships-as-personal-growth-path]]). The slow disappearance of both selves into the negotiated peace.
+
+The 4-keys framework is the public-teaching version. It does not replace the deeper work but provides a structured entry point when the client needs to know what to do this week rather than what to understand about the dynamic.
+
 ## Sources
 
 - 2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement
 - 2023-12-22_The Shame Hot Potato (the same-fight-for-years variant where the resentment is being passed back and forth as shame between the partners)
+- 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the compressed four-key framework as a public-teaching entry into the dynamic; the four keys offered as parallel doors into the underlying work)

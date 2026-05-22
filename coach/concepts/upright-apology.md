@@ -4,8 +4,8 @@ id: upright-apology
 title: "The Upright Apology"
 aliases: ["upright apology", "empowered apology", "shameless apology", "apology as transformation tool", "the empowered sorry", "apology from your power", "responsibility without shame", "back upright apology", "apology from the upright body", "non-shame apology"]
 tags: ["apology", "shame", "empowerment", "responsibility", "transformation", "body", "vulnerability"]
-related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate", "five-triggers-projection-experiment", "projections", "trigger", "self-forgiveness-as-spoken-move"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology", "2024-04-29_Triggered By Others？ Watch This"]
+related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate", "five-triggers-projection-experiment", "projections", "trigger", "self-forgiveness-as-spoken-move", "list-who-you-subtly-blame", "passive-aggressive-vs-aggressive-aggressive"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology", "2024-04-29_Triggered By Others？ Watch This", "2024-07-05_Passive Aggression"]
 ---
 
 # The Upright Apology
@@ -131,6 +131,24 @@ The link between the upright form specifically and projection work: a shame apol
 
 For the full sequence (recognize the trigger, find the projection, love or forgive the trait, then apologize uprightly), see [[five-triggers-projection-experiment]]. The upright apology is the third step of that practice, and the practice is one of the main settings in which Joe assigns the upright apology by name.
 
+## The Upright Apology for Past Passive Aggression
+
+A specific application Joe assigns as an experiment after the teaching on passive aggression. Most people doing passive aggression have years of past acts they could apologize for: guilt trips, withheld love, talking behind backs, perpetual small-late-nesses for specific people. Going back and apologizing uprightly for these is one of the most powerful interventions for reducing one's ongoing passive aggression.
+
+"Very powerful, is to do an upright, not a regular, but an upright apology for all the places that you've been passive-aggressive. So I know that if you probably make 20 apologies for passive aggression, you're — the amount of passive aggression that you're going to be doing in the world will probably decrease by at least 30 or 40%." -- Joe Hudson, Passive Aggression
+
+The mechanism is straightforward: the upright apology releases shame and installs ownership. Both reduce the conditions under which passive aggression originates. The shame that was protected by the indirect form gets faced, and the agency that was hidden behind the victim role gets reclaimed.
+
+The companion practice for finding the material to apologize for: [[list-who-you-subtly-blame]] — write down the people you subtly blame and how you have been aggressive toward them. The list produces the apology candidates.
+
+## The Trap: Passive-Aggressive Apologies for Passive Aggression
+
+When apologizing for passive aggression, the apology must itself be upright. Joe warns that the apology can become the very thing it is supposedly apologizing for. The trap is high-frequency at this specific juncture because the same engine that produced the passive aggression is the engine that produces the bad apology.
+
+"Upright apology. It's like, 'I'm sorry that you made me get angry at you the other day. I'm sorry that you made me guilt trip you. There was just no other way to do it. Sorry I put up with your bullshit.' Oh my gosh. It just goes to prove like you can take any, any recognition and weaponize it." -- Joe Hudson, Passive Aggression
+
+The diagnostic: the word "you" appears as the subject of the apology's content. See [[dont-use-you-in-an-apology]] and the no-"you" hack above. If the apology is "sorry you made me," "sorry for putting up with your," "sorry I let you" — the form is still passive aggression. The apology has to be about your own behavior and your own ownership, period.
+
 ## Upstream (What Leads Here)
 
 - When someone is in a fight and starts to recognize their own part. See [[apologize-to-exit-a-fight]].
@@ -139,6 +157,7 @@ For the full sequence (recognize the trigger, find the projection, love or forgi
 - When the person presents with "I can't apologize" or "saying sorry feels like losing." See [[i-cant-apologize]].
 - When a person has been chronically over-apologizing as appeasement.
 - As the closing step of [[five-triggers-projection-experiment]] after a projection has been recognized and the shame around the disowned trait has been loosened.
+- After someone has done [[list-who-you-subtly-blame]] and has a list of past passive-aggressive acts that warrant repair.
 
 ## Downstream (Where This Leads)
 

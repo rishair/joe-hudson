@@ -4,8 +4,8 @@ id: three-forms-of-anger-repression
 title: "Three Forms of Anger Repression"
 aliases: ["three forms of repressed anger", "three ways anger gets kinked", "inward sideways outward", "anger inward outward sideways", "three kinks of anger", "self-abuse passive-aggression rage", "three ways anger leaks", "anger inwards anger sideways anger outwards"]
 tags: ["anger", "repression", "kinked-emotions", "diagnostics", "patterns"]
-related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "passive-aggressive-vs-aggressive-aggressive", "three-things-that-go-wrong-when-releasing-anger", "three-childhood-origins-of-anger-repression"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)"]
+related: ["anger", "kinked-emotions", "unfelt-emotion-leaks", "passive-aggressive-vs-aggressive-aggressive", "three-things-that-go-wrong-when-releasing-anger", "three-childhood-origins-of-anger-repression", "passive-aggression-toward-self", "withdrawal-of-love-as-passive-aggression", "say-ouch"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-05-20_How Anger Works (8-min Guide to Healthy Anger)", "2024-07-05_Passive Aggression"]
 ---
 
 # Three Forms of Anger Repression
@@ -53,15 +53,20 @@ The anger is real and aimed at a person, but the form denies it. The person doin
 
 - Passive aggression: subtle undermining, being late, not taking out the trash
 - Guilting another person
-- "Getting sad at" someone to produce behavior change
+- "Getting sad at" or "getting scared at" someone to produce behavior change
 - Blaming the other person for your emotional experience
 - Codependent caretaking that creates obligation
 - Freezing in your own head
 - Stonewalling and cold withdrawal
+- [[withdrawal-of-love-as-passive-aggression|Withdrawing love]] as a form of leverage or punishment, often framed as self-protection
+- Confusion, playing dumb, perpetual lateness for a specific person
+- Talking behind someone's back to lower their standing
 
 "Guilting somebody is another great example of passive aggression. [...] When you're being sad at somebody, in a weird way, that is passive aggression." -- Joe Hudson, The Wisdom of Anger Part II
 
-The signature: the aggression is real, the form is deniable. The person being passive-aggressive feels stuck, oppressed, like they have no choice. They do not recognize the form as aggression. See [[passive-aggressive-vs-aggressive-aggressive]].
+The signature: the aggression is real, the form is deniable. The person being passive-aggressive feels stuck, oppressed, like they have no choice. They do not recognize the form as aggression. See [[passive-aggressive-vs-aggressive-aggressive]] for the full taxonomy of forms.
+
+Form 2 also occurs internally, between parts of the self. The cheery internal coach that overrides what one part is feeling, and the undermining voice that quietly dismisses every insight, are both Form 2 happening between parts of the self. See [[passive-aggression-toward-self]] for the internal version.
 
 ### Form 3: Anger Outward (Yelling, Rage)
 
@@ -115,7 +120,7 @@ Whichever form a person uses, the mind has additional general blocks:
 Asking which form is dominant for the person opens specific paths:
 
 - **If Form 1 (inward):** the work is releasing the anger somewhere external. See [[get-angry-in-the-car]]. The body needs to discover that anger does not have to point at the self.
-- **If Form 2 (sideways):** the work is making the anger visible to the person themselves first. Passive-aggressors usually do not know they are doing it. The first move is the [[invite-the-aggression-out]] move applied to the self: "what if you were just directly angry about this?" See [[passive-aggressive-vs-aggressive-aggressive]].
+- **If Form 2 (sideways):** the work is making the anger visible to the person themselves first. Passive-aggressors usually do not know they are doing it. The first move is the [[invite-the-aggression-out]] move applied to the self: "what if you were just directly angry about this?" See [[passive-aggressive-vs-aggressive-aggressive]]. The diagnostic signature: feeling stuck plus blaming. "If you feel stuck and you're blaming, then that is — even the blame is a form of passive aggression. Because you're blaming somebody for your situation that you have full choice in." (Joe Hudson, Passive Aggression) For the receiving end, see [[say-ouch]].
 - **If Form 3 (outward):** the work is moving the release away from the person. The body and voice can do the same release at the ocean or in the car, and the relational damage stops. See [[treat-yourself-as-actor-of-emotion]] for the stance that prevents getting captured by the story while letting the anger move.
 
 Most people use more than one form. They have a dominant one in a given context (with partners, with bosses, with family) but use different forms in different contexts.

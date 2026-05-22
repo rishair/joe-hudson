@@ -4,8 +4,8 @@ id: aggressive-victim-stance
 title: "The Aggressive Victim Stance (Topping from the Bottom)"
 aliases: ["topping from the bottom", "aggressive victim", "victim becomes aggressor", "abused becomes abuser", "weaponized victimhood", "victim power move", "control through victimhood", "the victim who dominates"]
 tags: ["fear-triangle", "victim", "power-dynamics", "manipulation", "abuse", "boundaries"]
-related: ["fear-triangle", "victim-stance-invites-abuse", "dont-use-safety-as-control", "vulnerability-as-control", "weaponized-not-caretaking", "empowered-vs-power"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
+related: ["fear-triangle", "victim-stance-invites-abuse", "dont-use-safety-as-control", "vulnerability-as-control", "weaponized-not-caretaking", "empowered-vs-power", "cant-take-the-victim-role-away", "say-ouch", "passive-aggressive-vs-aggressive-aggressive"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2024-07-05_Passive Aggression"]
 ---
 
 # The Aggressive Victim Stance (Topping from the Bottom)
@@ -60,6 +60,16 @@ The progression: the surface stance is constricted aggression dressed as sufferi
 
 See [[deconstruct-the-victim-to-release-anger]] for the move.
 
+## The Diagnostic: Take Away the Victim Role and Watch What Happens
+
+A practical test for whether someone is in the aggressive victim stance: try not to participate in the role they have assigned. Specifically, refuse to be the aggressor in their story, and refuse to confirm them as the wronged party. If they are in the aggressive victim stance, they will fight to keep the role.
+
+"If you really want to see someone go from passive aggression to aggression, take away their victim role." -- Joe Hudson, Passive Aggression
+
+The fight to keep the role looks like: producing more grievances, escalating to "you're attacking me," collapsing dramatically, switching to overt anger if the passive form is no longer working. The escalation itself is the proof that the role was identity-protective, not a report of actual injury.
+
+The case Joe gave in the 2024 episode: a client whose European mother was being relentlessly passive-aggressive while presenting as oppressed. The client started saying "ouch" every time she criticized. The mother fought back: "You can't take that from me. I'm the hurt one. That's me." The line is the diagnostic — the role was the identity, not the situation. See [[say-ouch]] for the move and [[cant-take-the-victim-role-away]] for the read that explains the resistance.
+
 ## How Joe Responds in Non-Coaching Contexts
 
 When this is happening in a business or personal relationship and the relationship is not a coaching one, Joe names it directly and refuses to participate.
@@ -108,8 +118,12 @@ The other diagnostic: does the person become flexible when offered real solution
 - Toward [[empowered-vs-power]]: the only real exit from the cycle
 - Toward [[dont-use-safety-as-control]]: the specific language-level manifestation
 - Toward [[vulnerability-as-control]]: the parallel pattern using vulnerability instead of safety
+- Toward [[say-ouch]]: the move for the non-coaching context — the relational equivalent of taking the role away
+- Toward [[cant-take-the-victim-role-away]]: the read that explains the resistance when the role is contested
+- Toward [[passive-aggressive-vs-aggressive-aggressive]]: the form of aggression that the victim stance typically uses
 
 ## Sources
 
 - 2022-03-18_What's So Scary About Boundaries?
 - 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
+- 2024-07-05_Passive Aggression (the diagnostic test of taking the role away; the European-mother example showing the fight to keep the role)
