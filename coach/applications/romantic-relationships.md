@@ -4,7 +4,7 @@ id: romantic-relationships
 title: "Romantic Relationships as a Coaching Domain"
 aliases: ["romantic relationships", "coaching about relationships", "relationship coaching", "the relationship domain", "long-term partnership work", "marriage as coaching domain", "relationships work"]
 tags: ["relationships", "partnership", "marriage", "application", "domain"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death"]
 ---
 
 # Romantic Relationships as a Coaching Domain
@@ -54,6 +54,10 @@ People rarely walk in saying "I am in a complementary trauma configuration with 
 - "The chemistry is gone, the relationship feels dead" -> see [[nre-returns-in-grounded-form-after-each-healing]], [[arms-of-the-cross-relationship]]
 - "I'm broken up and don't know what to do" -> see [[mourn-the-breakup-fully]]
 - "How do I know if we're a good match?" -> the question is malformed; see [[subconscious-partner-selection]]
+- "I have all my eggs in one basket / I'm scared I'll lose them" -> see [[i-have-all-my-eggs-in-one-basket]], [[finite-love-is-precious-love]], [[creating-safety-suppresses-self]]
+- "Am I codependent?" -> see [[intra-dependent-vs-codependent]] -- often the question is misdirected
+- "I've had a heart opening and now I can't draw boundaries" -> see [[heart-opening-needs-boundaries]]
+- "I keep ping-ponging between feeling responsible and rejecting responsibility" -> see [[dont-ping-pong-on-responsibility]]
 
 The methodology has clear entry points for each of these presentations.
 
@@ -104,3 +108,4 @@ It is not relationship-specific. The methodology in this domain is the general m
 
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
+- 2023-06-09_Marriage, Love, and Death (Tara's coaching of Brett and Alexa through eggs-in-one-basket fear, finite-love preciousness, the safety-creation suppression pattern, intra-dependence vs. codependence, heart-opening-needs-boundaries; the pre-wedding coaching session as an example of the full methodology applied in one conversation)

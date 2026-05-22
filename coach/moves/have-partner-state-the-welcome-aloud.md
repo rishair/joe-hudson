@@ -5,7 +5,7 @@ title: "Have the Partner State the Welcome Aloud (in Couples Coaching)"
 aliases: ["have the partner say it directly", "have him state the welcome", "let the partner voice what they actually want", "I never want you to deal with my emotions move", "couples coaching welcoming move", "have them say I love you in your emotions", "have the partner speak the welcome", "let the other partner offer the welcome directly", "the I-want-this-for-you move in couples"]
 tags: ["move", "couples coaching", "welcoming", "caretaking", "partner support", "live coaching", "direct experience"]
 related: ["welcoming-the-others-emotion", "caring-vs-caretaking", "you-think-they-cant-handle-it", "im-exhausted-holding-space-for-my-partner", "stay-centered-while-holding-space", "agree-with-the-depression-dont-talk-them-out", "love-as-deep-welcoming"]
-sources: ["2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
+sources: ["2023-01-20_I Can't Hold It All Anymore (Coaching Session)", "2023-06-09_Marriage, Love, and Death"]
 ---
 
 # Have the Partner State the Welcome Aloud (in Couples Coaching)
@@ -91,6 +91,21 @@ If the recipient does not let it in fully, the move is not failed. The bounce is
 
 The move surfaces what else is in the way. Whatever the welcome doesn't dissolve is the next thing to look at.
 
+## Variation: The Welcome Emerges Spontaneously From the Coached Partner's Felt Experience
+
+In some cases, the welcome does not need the coach's prompt. When the coached partner has been hung out with their fear (see [[can-you-hang-out-with-it]]) long enough that the fear becomes felt grief or love, the welcome emerges spontaneously as an impulse to turn toward the partner and say what is true.
+
+In the Marriage, Love, and Death session, Alexa moved through fear into grief into wanting to pour herself out, and Tara surfaced the impulse with a simple question: "If you look at Brett, what does that feeling want to say to him?" Alexa's answer: "I want you to want to be here with me as much as I want to be here with you." Tara named what had just happened: "I think we just found some of your vows."
+
+Later in the same session, after Brett surfaced his own fear and grief, Alexa offered him the welcome in her own form without any coaching prompt: "I want to own that it doesn't feel like I chose this part of you. Like, this doesn't feel like the thing that I'm attracted to, but I do feel like I'm saying yes to all of you." The welcome came with a partiality (the honesty about not having chosen the specific aspect) and the deeper yes (saying yes to all of him). The honesty was what made the welcome real.
+
+Two variations on the move:
+
+- **Coach-prompted welcome:** the form in the original I Can't Hold It All Anymore session. The coach offers a sentence template and lets the partner find their own words. Useful when the welcome is needed and the partner has not yet found their way to offer it spontaneously.
+- **Surface-the-impulse welcome:** the form in the Marriage, Love, and Death session. The coach notices that the coached partner has an impulse to turn toward the other and asks them what wants to be said. Useful when the work has produced a felt impulse and the move is to let the impulse complete itself.
+
+Both forms produce the same kind of moment: the partner speaking directly to the other from a clean place, the other receiving with the body open. The variation depends on where the energy is.
+
 ## When to Use This Move
 
 Use when:
@@ -123,3 +138,4 @@ After the speaking, the coach's tone moves to noticing: "You let that in." "I sa
 ## Sources
 
 - 2023-01-20_I Can't Hold It All Anymore (Coaching Session)
+- 2023-06-09_Marriage, Love, and Death (the surface-the-impulse variation of the move; Tara surfacing Alexa's impulse to turn toward Brett with "what does that feeling want to say to him?"; the vows that emerged from the impulse; the spontaneous welcome Alexa offered Brett later in the session)

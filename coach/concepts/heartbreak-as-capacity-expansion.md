@@ -5,7 +5,7 @@ title: "Heartbreak as Capacity Expansion"
 aliases: ["heartbreak expands capacity", "heart breaks open", "every heartbreak increases love", "let your heart break", "break open not break down", "expansion through heartbreak", "you never told me it could feel so good", "the heartbreak feels so good moment", "heartbreak is breaking open", "the contractions-are-expansions metaphor", "men slower to recover from heartbreak than women", "the gender pattern of heartbreak processing"]
 tags: ["heartbreak", "love", "capacity", "intensity", "purification"]
 related: ["love-as-deep-welcoming", "letting-judgment-in", "feeling-the-unfelt-emotion", "embrace-intensity", "defense", "vulnerability", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "take-contrary-action"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Love Over Defense", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-04-28_How Love Gets Confused"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Love Over Defense", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-04-28_How Love Gets Confused", "2023-06-09_Marriage, Love, and Death"]
 ---
 
 # Heartbreak as Capacity Expansion
@@ -146,6 +146,18 @@ This is the relational signature of the expansion described in the central defin
 
 For the leadership and team implication of this same dynamic, see [[vulnerability-in-the-workplace]] and the cascade pattern described there.
 
+## Pre-Heartbreak in a Living Relationship (Grieving Now What You Will Eventually Lose)
+
+A specific application that comes up in long-term partnership: the heartbreak available right now from feeling, in advance, the loss that has not yet happened. Both partners are alive. The relationship is good. And the felt sense that this love is finite produces a pre-grief that can be felt now, with the partner present, and that operates as capacity-expansion in real time rather than retrospectively.
+
+This is what happens in the source transcript. Tara coaches Alexa through her eggs-in-one-basket fear; the fear becomes sadness about her former partner who died; the sadness becomes a wanting to pour herself out toward Brett, the current partner; the wanting becomes a vow. The whole arc is heartbreak-in-advance, with no actual loss having occurred. The expansion is the result.
+
+The structure: the love that is currently alive is also, simultaneously, the love that will be lost. The heart can break around that fact while both people are still in the room. The breaking-open expands capacity in the same way as retrospective heartbreak, with the added gift that the expanded capacity gets to be lived in the relationship as it continues.
+
+The application is most useful at moments of deepening commitment (weddings, anniversaries, milestone birthdays, after-near-loss recoveries) and at moments when the finitude of the relationship is becoming intimate (mortality talk, aging, illness, geographic separation). The coaching move is not to manage the fear of loss. The move is to let the heart break around the recognition of finitude, and to watch what becomes available when it does. See [[finite-love-is-precious-love]] for the principle that this application enacts.
+
+The link to [[visualizing-feared-outcomes]] is direct: the practice of feeling the loss in advance, fully, is what produces the pre-heartbreak. The pre-heartbreak is what produces the expansion. The expansion is what makes the present love more present, not less. The defended heart cannot drop into the love. The pre-broken heart can.
+
 ## When Someone Experiences This
 
 When a person describes a hard situation and notices their heart aching: that is the heartbreak. The work is to allow it.
@@ -180,3 +192,4 @@ When someone reports being unable to feel anything anymore: defense is intact an
 - 2022-10-26_Love Over Defense (podcast version of the masterclass)
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood (Esmé's report at the car after her first breakup: "you never told me it could feel so good")
 - 2023-04-28_How Love Gets Confused (heartbreak as the path out of the trapped feeling in a relationship; the 80/20 estimate on partner-meets vs. relationship-ends; the gender pattern of recovery time; the contractions-are-expansions framing as the explicit reason heartbreak is breaking-open not breaking-apart; heartbreak as the deeper emotion underneath the fear of saying the hard thing)
+- 2023-06-09_Marriage, Love, and Death (the pre-heartbreak-in-a-living-relationship application: feeling the eventual loss now, with the partner present, producing the same expansion as retrospective heartbreak; the wedding-eve coaching arc from fear of loss to sadness to wanting-to-pour-self-out to vows as the expansion in real time)

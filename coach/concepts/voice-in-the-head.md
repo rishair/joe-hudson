@@ -2,10 +2,10 @@
 type: concept
 id: voice-in-the-head
 title: "The Voice in the Head"
-aliases: ["voice in head", "voice in your head", "the inner critic", "self-talk", "internal dialogue", "the inner voice", "the editor", "the recurring negative voice", "upper dog", "the voice", "internal critic", "horrible micromanaging boss"]
+aliases: ["voice in head", "voice in your head", "the inner critic", "self-talk", "internal dialogue", "the inner voice", "the editor", "the recurring negative voice", "upper dog", "the voice", "internal critic", "horrible micromanaging boss", "overdog underdog", "Fritz Perls overdog underdog"]
 tags: ["voice in head", "self-talk", "inner critic", "awareness", "shame", "perfectionism", "core concept"]
-related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations", "cult-of-one", "tell-yourself-you-love-yourself-in-a-mirror"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Want Over Should", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations", "cult-of-one", "tell-yourself-you-love-yourself-in-a-mirror", "depression-four-levels", "im-depressed", "soul-dysmorphia"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Want Over Should", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-06-23_Exploring Depression in the Head, Heart, and Gut"]
 ---
 
 # The Voice in the Head
@@ -70,6 +70,21 @@ Often the voice is not actually addressing you. It is talking to itself and proj
 "Oftentimes the voice in the head is talking to itself more than it's talking to you." -- Joe Hudson, Who is the Voice in Your Head?
 
 This recognition shifts the relationship. The voice stops being an authority addressing you and becomes a process you can observe.
+
+A live application: when the voice says "you really fucked up," the response can be "are you talking to you? Is this the voice in the head talking to itself or is it talking to me? Did I fuck up or did you fuck up?" The question is real, not rhetorical. The voice often cannot specify whom it is addressing. See [[experimenting-with-the-voice]] for this and other response experiments.
+
+## The Overdog-Underdog Structure (Fritz Perls)
+
+The Gestalt therapist Fritz Perls described the internal dynamic around shoulds as overdog and underdog.
+
+- **Overdog** is the voice that says: "you should do this. You should do this. You should really make it this way."
+- **Underdog** is the response: "Yeah, I should... fuck you. Yeah, I should... fuck you."
+
+The "fuck you" arrives as sabotage. The person says they should not watch video games, then watches video games. They say they should call their mother, then forgets. The underdog is the rebellion that produces the actual behavior, while the overdog continues to assert the should that is being ignored.
+
+"Most of us, once they start realizing that the voice in the head is the issue, they try to change the voice in the head, but you can also change the response." -- Joe Hudson, Exploring Depression in the Head, Heart, and Gut
+
+The leverage point in this frame is the underdog's response, not the overdog's content. Most personal-development work tries to make the overdog kinder or to get the underdog to comply. Both leave the structure intact. The shift is recognizing the overdog-underdog dance and trying entirely different responses. See [[experimenting-with-the-voice]] for the response experiments. See [[rebellion-or-submission-to-should]] for the broader pattern this is a specific case of.
 
 ## The Roommate Test
 

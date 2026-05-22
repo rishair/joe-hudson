@@ -5,7 +5,7 @@ title: "The Quit-Hope-Lose Cycle"
 aliases: ["I hope this lasts", "holding on to change", "fear of losing progress", "achievement and loss cycle", "transformation relapse cycle", "how do I keep it", "fear of losing the serenity", "the gripping question"]
 tags: ["transformation", "resistance", "patterns", "attachment"]
 related: ["pendulation", "enjoyment-as-path", "process-over-result", "resistance", "empowered-vs-power", "helplessness-is-the-gateway", "pow-optimist", "undoing-not-doing", "no-finish-line", "integration"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Embarking On The Journey", "2022-10-26_Empower Over Power", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Embarking On The Journey", "2022-10-26_Empower Over Power", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-05-26_Tara Howley — From Insight to Wisdom"]
 ---
 
 # The Quit-Hope-Lose Cycle
@@ -66,6 +66,24 @@ The recursion: when the person notices the fear of losing the state and tries to
 
 The way through is the same as elsewhere: feel the fear of the loss directly. Not strategize against it, not deny it. Feel it. The feeling completes; the gripping does not need to.
 
+## Gratitude as the Counter to the Grip
+
+Tara Howley offers a specific intervention for the post-insight version of the grip. When the fear of losing the insight arises, gratitude for having seen it shifts the system out of the gripping posture. The gratitude is not a positive-thinking override of the fear. It is a different orientation that releases the hand without having to pry the fingers open.
+
+"If someone's feeling fear that they will forget it, then gratitude for it is often one of the best counters. Just like moving to like, oh, I'm so grateful that I saw that, will let go of that grip of fear." -- Tara Howley, From Insight to Wisdom
+
+The mechanism: gratitude orients toward what already happened. Fear orients toward a future loss. The body cannot simultaneously be reaching forward to prevent something and resting in appreciation for what already occurred. The shift in orientation does the work the willpower could not.
+
+This is the gentler form of the instruction "appreciate the change in the moment it occurs." It can also be applied retroactively when the gripping has already started -- the gratitude for the insight that landed is available even when the bliss is gone.
+
+## Self-Attack as a Second Form of the Grip
+
+The same gripping reflex also shows up as self-criticism: "I saw it -- why am I redoing this?" The self-attack functions as another way of treating the insight as something to maintain through willpower, and as another way of refusing to be where the integration actually is. Tara names this as a primary form of sabotage during integration.
+
+"Another way I see people sabotage themselves is by beating themselves up. Like, oh, I saw it, why am I redoing this? And, you know, I'm always... how do we create paths of gentleness with ourselves?" -- Tara Howley, From Insight to Wisdom
+
+The reframe: every redo of the pattern is the next turn of the corkscrew, not a regression. See [[development-as-corkscrew]]. The gentleness with the process is what allows the next layer to actually move. Self-attack tightens the system around the very thing the integration is trying to unwind.
+
 ## Why Undoing-Based Shifts Do Not Need to Be Kept
 
 A state arrived at through doing must be kept. A state arrived at through undoing does not. The diagnostic question "how do I keep it?" applied to an undoing-based shift reveals that the question itself is treating the shift as if it were a doing. The category error generates the gripping that generates the loss.
@@ -99,3 +117,4 @@ This dynamic also explains why optimists fail under sustained pressure. See [[po
 - 2022-10-26_Embarking On The Journey (rebroadcast of the 2021-02-13 episode)
 - 2022-10-26_Empower Over Power (rebroadcast of the 2021-03-26 episode)
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
+- 2023-05-26_Tara Howley — From Insight to Wisdom (the post-insight form of the gripping reflex; gratitude as the counter to the grip; self-attack for needing to redo the insight as a second form of the same sabotage)

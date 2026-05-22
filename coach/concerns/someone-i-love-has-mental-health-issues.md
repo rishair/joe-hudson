@@ -63,6 +63,7 @@ The branching point. Two people with the same concern go very different directio
 - If the person is presenting frustration that the other person is not who they used to be: the path goes through grief. The relationship has changed. The form that loved them then has to release into the form that can love them now.
 - If the person is positioning themselves as the one who has to fix this: the path goes through [[dont-take-responsibility-for-anothers-happiness]] and [[the-work-is-yours-not-mine]]. They are not the cure. They cannot be the cure. Continuing to try is part of what is exhausting them.
 - If the person is reporting they have no support, no professional help, and have been carrying this alone: the path goes through the practical reality that this load is bigger than any individual relationship can hold. Professional help, support groups for people supporting others (Al-Anon, NAMI family support, dementia caregiver groups, etc.) are the answer.
+- If the loved one is depressed specifically: the path includes the depression-specific move [[send-the-message-that-youre-whole]] and the [[foot-washing-quaker]] story. The frame is that every attempt to fix communicates "you are broken" and amplifies the depression. The supporter's work is in the wholeness message, not in addressing the depression's content.
 
 ## Coaching Path
 
@@ -100,3 +101,4 @@ The full operational treatment of how to be in this kind of relationship lives a
 
 - 2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Followup Questions
 - 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More
+- 2023-06-23_Exploring Depression in the Head, Heart, and Gut

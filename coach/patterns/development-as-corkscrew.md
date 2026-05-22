@@ -5,7 +5,7 @@ title: "Development as Corkscrew"
 aliases: ["corkscrew development", "spiral development", "same issues different level", "I thought I dealt with my dad issues", "before awakening after awakening", "subtle till you see it"]
 tags: ["development", "patterns", "transformation"]
 related: ["pendulation", "late-stage-reversion", "three-stages-of-integration", "embrace-intensity", "caring-vs-caretaking", "weaponized-not-caretaking"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Embarking On The Journey"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Embarking On The Journey", "2023-05-26_Tara Howley — From Insight to Wisdom"]
 ---
 
 # Development as Corkscrew
@@ -38,6 +38,18 @@ The trap is treating the new visibility as failure. The person thinks "I should 
 
 This applies specifically to [[caring-vs-caretaking]]. The first round of work removes the loud caretaking. The second round removes the medium-volume caretaking. The third round removes the sentence-level caretaking. Each round was complete relative to the sensitivity available at the time. See [[weaponized-not-caretaking]] for the predictable failure modes between rounds.
 
+## Wisdom Is Asymptotic, Not Terminal
+
+Tara Howley uses the same image -- the spiral -- to describe how insights become wisdom. An insight integrates through the body, becomes coherent, and then the same theme may resurface later at a deeper level. The wisdom is not a hard endpoint that locks in and never shifts again. It is asymptotic: always integrating further, always meeting itself again on a finer scale.
+
+"I do believe it's asymptotic. I believe that we can have these insights, they can integrate through our being, move to wisdom, and then resurface as we develop and as we evolve in different points in our life. So wisdom is an asymptotic, ever-changing, like it's not a hard, fast thing that happens and then it's done and never will shift again." -- Tara Howley, From Insight to Wisdom
+
+The practical implication: a person who has integrated an insight is not done with the theme. They are done with that level of it. The theme will return, in a more nuanced form, because the integration of one layer increased the sensitivity that lets the next layer be seen.
+
+This is why looking forward to the trigger returning is a useful orientation. "I can't wait to get triggered again so I can see where it hasn't integrated through my system." The return of the theme is the access point to the next turn of the spiral, not evidence that the previous integration failed.
+
+The trap is the opposite orientation: trying to be done. Reading the return of the theme as failure of the prior integration. That reading short-circuits the next turn before it can complete. The corkscrew requires the recurrence to keep moving up.
+
 ## Three Brains and the Corkscrew
 
 The three systems (intellectual, emotional, somatic) limit each other. Like three pencils bound by rubber bands: one can only rise as high as the lowest allows. If development stalls, one system has likely been neglected. The most leverage comes from raising the lowest one, which gives all three more flexibility.
@@ -61,3 +73,4 @@ The three systems (intellectual, emotional, somatic) limit each other. Like thre
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
+- 2023-05-26_Tara Howley — From Insight to Wisdom (Tara's framing of wisdom as asymptotic rather than terminal; the corkscrew described as the journey of an insight returning at deeper levels over time)

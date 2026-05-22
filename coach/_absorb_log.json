@@ -3609,15 +3609,132 @@
     },
     {
       "folder": "2023-05-25_Tara Howley \u2014 From Insight to Wisdom",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T09:33:18Z",
+      "articles_created": [
+        "move-the-body-to-integrate-insight",
+        "wisdom-is-when-you-dont-have-to-remember",
+        "dont-cement-insight-as-identity"
+      ],
+      "articles_updated": [
+        "integration",
+        "dont-conflate-the-bliss-with-the-insight"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T09:40:49Z"
+    },
+    {
+      "folder": "2023-05-26_Tara Howley \u2014 From Insight to Wisdom",
+      "status": "complete",
+      "claimed_at": "2026-05-22T09:34:14Z",
+      "articles_created": [
+        "dont-conflate-the-bliss-with-the-insight"
+      ],
+      "articles_updated": [
+        "integration",
+        "epiphany-vs-transformation",
+        "feeling-changes-story",
+        "quit-hope-lose-cycle",
+        "development-as-corkscrew"
+      ],
+      "type": "guest-interview",
+      "absorbed_at": "2026-05-22T09:41:26Z"
+    },
+    {
+      "folder": "2023-06-08_The Connection Course Trailer",
+      "status": "complete",
+      "claimed_at": "2026-05-22T09:41:28Z",
+      "articles_created": [
+        "three-effects-of-connection"
+      ],
+      "articles_updated": [
+        "connection-as-life-bottom-line",
+        "art-of-accomplishment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T09:45:26Z"
+    },
+    {
+      "folder": "2023-06-09_Marriage, Love, and Death",
+      "status": "complete",
+      "claimed_at": "2026-05-22T09:44:41Z",
+      "articles_created": [
+        "i-have-all-my-eggs-in-one-basket",
+        "can-you-hang-out-with-it",
+        "dont-ping-pong-on-responsibility",
+        "heart-opening-needs-boundaries",
+        "intra-dependent-vs-codependent",
+        "finite-love-is-precious-love",
+        "creating-safety-suppresses-self",
+        "what-does-your-heart-say"
+      ],
+      "articles_updated": [
+        "what-we-fear-we-invite",
+        "relationships-as-personal-growth-path",
+        "romantic-relationships",
+        "heartbreak-as-capacity-expansion",
+        "boundaries",
+        "visualizing-feared-outcomes",
+        "have-partner-state-the-welcome-aloud"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T09:59:53Z"
+    },
+    {
+      "folder": "2023-06-23_Exploring Depression in the Head, Heart, and Gut",
+      "status": "complete",
+      "claimed_at": "2026-05-22T09:46:21Z",
+      "articles_created": [
+        "im-depressed",
+        "symptoms-vs-root-causes-of-depression",
+        "foot-washing-quaker",
+        "soul-dysmorphia",
+        "symptoms-of-depression",
+        "send-the-message-that-youre-whole"
+      ],
+      "articles_updated": [
+        "depression-four-levels",
+        "nervous-system-recovery-after-stress",
+        "experimenting-with-the-voice",
+        "lawyer-the-voice",
+        "voice-in-the-head",
+        "agree-with-the-depression-dont-talk-them-out",
+        "relating-to-someone-with-mental-health-issues",
+        "someone-i-love-has-mental-health-issues"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:00:12Z"
+    },
+    {
+      "folder": "2023-06-23_Exploring Depression in the Head, Heart, and Gut \u2014 Emotion Series #11",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:00:46Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:02:00Z"
+    },
+    {
+      "folder": "2023-06-23_Marriage, Love, and Death",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:01:11Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T10:02:54Z",
+      "note": "Duplicate of 2023-06-09_Marriage, Love, and Death (re-publication of the same Tara/Brett/Alexa episode with only minor diarization and punctuation differences). All teaching content was extracted in the June 9 absorb pass; no new articles to create or update."
+    },
+    {
+      "folder": "2023-07-07_Much Ado About Money",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T10:02:40Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2023-05-26_Tara Howley \u2014 From Insight to Wisdom",
+      "folder": "2023-07-21_Helplessness- The Cayenne Pepper of Fear \u2014 Emotion Series #12",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T09:34:14Z",
+      "claimed_at": "2026-05-22T10:04:05Z",
       "articles_created": [],
       "articles_updated": []
     }

@@ -5,7 +5,7 @@ title: "Visualizing Feared Outcomes"
 aliases: ["feel the fear in advance", "grieve the loss in advance", "Stoic visualization", "pre-feeling", "pre-feel the loss", "mourn before deciding", "feel the death in advance", "pre-grieve the loss", "assume the loss has happened", "feel the death of the relationship in advance", "pre-jump visualization", "feel-through every possible outcome before acting", "the pre-feel practice"]
 tags: ["fear", "impartiality", "emotions", "practice", "Stoic", "Buddhist", "grief", "caretaking", "relationships", "BASE jumping"]
 related: ["impartiality", "feeling-the-unfelt-emotion", "fear-is-about-feeling", "what-we-fear-we-invite", "caring-vs-caretaking", "caretaking-prevents-the-bottom", "what-is-truly-compassionate", "grieve-the-marriage-to-save-it", "grief-as-identity-dismantling", "safety-that-connects-vs-disconnects-from-reality", "grounded-excitement-vs-ungrounded-excitement", "brett-wingsuit-girlfriend-thought"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Impartiality", "2022-10-26_The Beauty Of Grief", "2022-11-11_But... Is It Safe?"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Impartiality", "2022-10-26_The Beauty Of Grief", "2022-11-11_But... Is It Safe?", "2023-06-09_Marriage, Love, and Death"]
 ---
 
 # Visualizing Feared Outcomes
@@ -76,6 +76,26 @@ This is the same mechanism Joe describes for caretakers. The fear that holds the
 
 The leadership-specific form: at work, the worst thing that can happen is usually you get fired. That is a finite, knowable, survivable outcome. Once that has been pre-felt, the fear of all the smaller outcomes (offending a colleague, displeasing a manager, being seen as difficult) collapses, because they are all milder versions of the same thing.
 
+## Application: Pre-Mortality in a Living Partnership
+
+A related application at the more existential end of the spectrum: in a long-term partnership where mortality is becoming intimate (engagement, wedding, illness, aging together), the practice can be applied to the eventual death of the partner. The pre-feel collapses the fear of the loss into the felt grief of the loss. The grief, fully felt, expands the capacity to love now rather than deferring the love until safety has been established.
+
+Tara names the underlying recognition while coaching a couple before their wedding:
+
+"That is what makes love so edgy, right? It is finite. Our time here is finite... It's that finite, finite preciousness of love in the heart, right? That the heart has capacity for that, knowing that there's an end." -- Tara Howley, Marriage, Love, and Death
+
+The application sequence in the source transcript:
+
+1. The fear arrives (eggs in one basket; what if I lose them).
+2. Tara invites the person to hang out with the fear; see [[can-you-hang-out-with-it]].
+3. The fear becomes sadness; the sadness becomes connection to a previous partner who died.
+4. The connection becomes a wanting to be more fully present with the current partner: "I want you to want to be here with me as much as I want to be here with you."
+5. The fear is gone; what is left is aliveness and the impulse toward fuller relating.
+
+The pre-feel here is not done as a structured practice in isolation. It is done in the live moment when the fear has surfaced, with the partner in the room. The practice and the [[can-you-hang-out-with-it]] move are working in tandem. The visualization is implicit (the felt sense of the loss) rather than narrated step by step.
+
+The principle that this application enacts: see [[finite-love-is-precious-love]] and [[heartbreak-as-capacity-expansion]]. The expansion that comes from pre-feeling the eventual loss is the same expansion that comes from retrospective heartbreak, but with the gift that the expanded capacity gets to be lived in the relationship while both partners are still alive.
+
 ## Application: High-Stakes Action Where Execution Requires Full Presence
 
 A specific application where the pre-feel becomes operational rather than reflective: any high-stakes act where the execution itself requires full presence and cannot accommodate mid-execution feeling-through.
@@ -120,3 +140,4 @@ For everyday applications -- a hard conversation, a difficult decision in a meet
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
 - 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)
+- 2023-06-09_Marriage, Love, and Death (the pre-mortality application in a living partnership; Tara coaching Alexa and Brett through the eggs-in-one-basket fear into the felt grief of eventual loss, the wedding-eve coaching arc; the implicit visualization done in the live moment with the partner in the room rather than as a structured solo practice)

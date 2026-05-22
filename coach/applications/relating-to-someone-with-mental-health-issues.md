@@ -2,10 +2,10 @@
 type: application
 id: relating-to-someone-with-mental-health-issues
 title: "Relating to Someone Whose Mental Health Has Changed"
-aliases: ["mental health in relationships", "loving someone with mental illness", "loved one with mental health issues", "how to be with someone who is struggling mentally", "relating to someone with mental health changes", "supporting someone with mental health", "a family member with mental illness", "approaching someone with mental health problems", "the friend or relative whose mental health has changed", "what to do when a loved one's mental health declines", "the Alzheimer's analogy for mental health", "the paralyzed friend analogy", "relating to someone in psychosis"]
+aliases: ["mental health in relationships", "loving someone with mental illness", "loved one with mental health issues", "how to be with someone who is struggling mentally", "relating to someone with mental health changes", "supporting someone with mental health", "a family member with mental illness", "approaching someone with mental health problems", "the friend or relative whose mental health has changed", "what to do when a loved one's mental health declines", "the Alzheimer's analogy for mental health", "the paralyzed friend analogy", "relating to someone in psychosis", "how to be with a depressed friend", "how to be with someone who is depressed", "supporting a depressed friend", "supporting a depressed partner"]
 tags: ["mental health", "relationships", "boundaries", "self-care", "grief", "caretaking", "family", "application"]
-related: ["caring-vs-caretaking", "boundaries", "dont-take-responsibility-for-anothers-happiness", "losing-yourself-in-others", "mourn-the-breakup-fully", "stay-centered-while-holding-space", "weaponized-not-caretaking", "i-caretake-people", "is-this-mine"]
-sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+related: ["caring-vs-caretaking", "boundaries", "dont-take-responsibility-for-anothers-happiness", "losing-yourself-in-others", "mourn-the-breakup-fully", "stay-centered-while-holding-space", "weaponized-not-caretaking", "i-caretake-people", "is-this-mine", "send-the-message-that-youre-whole", "foot-washing-quaker", "agree-with-the-depression-dont-talk-them-out", "depression-four-levels", "fixing-people"]
+sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-06-23_Exploring Depression in the Head, Heart, and Gut"]
 ---
 
 # Relating to Someone Whose Mental Health Has Changed
@@ -141,6 +141,17 @@ His coaching here applies general principles from the larger work (boundaries, s
 - A parent's mental decline has changed the dynamic in the family
 - A child has developed mental health issues the parent does not know how to be with
 
+## The Depression-Specific Application
+
+When the loved one is depressed (rather than in another form of mental health change), the operational frame narrows to: send the message that they are whole, not that they need to be fixed. This is [[send-the-message-that-youre-whole]].
+
+The canonical illustration is the [[foot-washing-quaker]] story: a depressed Quaker man found that every well-intentioned friend who offered help made his depression worse because the offering implicitly delivered "you are broken." The only person who helped was someone who washed his feet every Tuesday, an act of devotion that carried only "you are whole."
+
+For in-the-moment conversation with a depressed loved one, the specific move is [[agree-with-the-depression-dont-talk-them-out]] -- meeting expressions of despair with presence rather than argument.
+
+The broader frame applies: the four layers of depression (see [[depression-four-levels]]) operate inside the person. The supporter's work is at a different level -- maintaining the wholeness message, not trying to address any of the four layers themselves. The person addresses their own layers when given the space to do so.
+
 ## Sources
 
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
+- 2023-06-23_Exploring Depression in the Head, Heart, and Gut

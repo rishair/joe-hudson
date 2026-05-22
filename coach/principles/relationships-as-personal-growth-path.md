@@ -4,7 +4,7 @@ id: relationships-as-personal-growth-path
 title: "The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom"
 aliases: ["relationships are for personal freedom", "the relationship agreement", "we're here to grow not to make each other happy", "personal freedom as relationship purpose", "the freedom agreement", "we're here for our own growth", "use the relationship for your own freedom", "the founding agreement of a healthy relationship", "the purpose of a relationship"]
 tags: ["relationships", "partnership", "marriage", "agreement", "freedom", "growth", "core principle"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_How Relationships Reveal Us"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered! — Relationships Series #2", "2022-10-26_How Relationships Reveal Us", "2023-06-09_Marriage, Love, and Death"]
 ---
 
 # The Agreement That Makes a Relationship Work: We Are Here for Our Own Freedom
@@ -68,6 +68,20 @@ The "individualistic" reading misses that the alternative produces a smaller rel
 
 This is also why the agreement enables the renegotiation of all the specific agreements over time. See [[agreements-renegotiate-as-you-change]]. Within the larger space the meta-agreement creates, the working agreements can keep updating as both people grow.
 
+## The Partner-Selection Implication (Pick Someone Who Is Already Doing This Work)
+
+The agreement is hardest to establish retroactively in a relationship that did not start with it. If both partners are not already operating in a "we're here for our own freedom" frame, attempting to retrofit the agreement onto a relationship structured around the alternative is hard work and often does not succeed. The implication for the moment of choosing a partner: pick someone for whom this is already foundational.
+
+Tara names this as her own foundational criterion:
+
+"I very much remember thinking, I can marry this man because he's as dedicated to learning about himself and supporting his self-development as I am. And that was to me the number one principle, most important thing I was looking for in a life partner was someone who would do the work with me." -- Tara Howley, Marriage, Love, and Death
+
+The framing is not "someone who values self-development as a hobby." The framing is "someone for whom doing their own work is foundational the way it is for me." Tara and Joe made specific concrete agreements before getting married that operationalized this: a 10-day meditation retreat together, therapy together, six months of travel through Southeast Asia. The agreements were not romantic gestures. They were field-tests of whether the underlying frame was actually shared.
+
+This frame becomes a stronger filter than most checklists people use when evaluating partners. Compatibility on lifestyle, looks, finances, family vision are all weaker predictors of relationship sustainability than whether both partners share the operating agreement that the relationship is for personal growth.
+
+For a coachee weighing whether to commit to a relationship, the diagnostic question is: does this person want to grow into who they are becoming, and do they want to support me growing into who I am becoming? If both answers are clearly yes, the other compatibility questions can be worked. If either answer is no, the other compatibilities will not be enough.
+
 ## When One Partner Discovers This Work First
 
 A common sticking point: one partner finds a transformation path and the other does not. The first partner starts trying to get the second on board. This is itself a violation of the agreement.
@@ -119,3 +133,4 @@ Plain, almost obvious in delivery, but with weight underneath. Joe states this t
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-09-30_Triggered! — Relationships Series #2
 - 2022-10-26_How Relationships Reveal Us
+- 2023-06-09_Marriage, Love, and Death (Tara's account of choosing Joe because he was as dedicated to learning about himself as she was; the pre-marriage agreements -- 10-day Vipassana, therapy together, six months travel through Southeast Asia -- as field-tests of the shared frame; "the number one principle, most important thing I was looking for in a life partner was someone who would do the work with me")

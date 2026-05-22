@@ -5,7 +5,7 @@ title: "When You Feel the Emotion Fully, the Story Changes (Every Time)"
 aliases: ["feeling emotion changes the story", "feel the emotion the story shifts", "moving emotion shifts the narrative", "release emotion the story changes", "every time you feel it the story shifts", "you can't change a story without feeling the emotion"]
 tags: ["emotions", "story", "transformation", "principle", "core mechanism"]
 related: ["emotions-and-stories-dance", "story", "stronger-story-stuckier-emotion", "feeling-the-unfelt-emotion", "visceral-clarity-from-anger", "joes-rental-house-anger", "feel-over-figure", "emotional-fluidity", "can-you-look-forward-to-feeling-it", "trying-to-get-rid-of-the-emotion", "dont-name-emotion-to-avoid-feeling"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_When The Story Falls Apart"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_When The Story Falls Apart", "2023-05-26_Tara Howley — From Insight to Wisdom"]
 ---
 
 # When You Feel the Emotion Fully, the Story Changes (Every Time)
@@ -25,6 +25,21 @@ A story holds an emotional charge. The emotion holds the story in place. When th
 The mind cannot accomplish this by itself. Cognitive deconstruction can change which story is in awareness, but it cannot release the emotional charge that locks a particular story in. That release requires the body to actually move the emotion.
 
 See [[emotions-and-stories-dance]] for the bidirectional framing.
+
+## The Glue and Solvent Image
+
+Tara Howley names the same mechanism with a concrete image. The emotion is the glue that holds the story in place. The moving of the emotion is the solvent. Insight alone is the seeing-through. The seeing-through does not dissolve the glue. The emotion has to move for the structure to come apart.
+
+"Insights are seeing through an old story or belief or habit, story about self or the world. And those stories are all held in place by an emotion. That emotion's like the glue that holds pieces of our identity in place, any story around identity or the world in place. And the, so the glue has to be, you need a, what do you call the thing that releases glue?... solvent. And in this case, it's moving the emotions." -- Tara Howley, From Insight to Wisdom
+
+The practical consequence: a person can have an insight and still act out the old pattern indefinitely if the emotional glue is not metabolized. The insight is necessary but not sufficient. The seeing identifies the structure; the feeling dissolves it. Both are required for behavior to actually shift.
+
+Tara's concrete example: a client has the insight that other people's anger does not mean she did something wrong. The insight gives relief in the moment. But to actually live differently, several emotions need to move:
+- Her own anger ("that's not okay to put that on me, stop telling me I did something wrong").
+- Her fear of anger (since the old belief made anger unsafe, the fear has to come out as shaking).
+- Her grief for all the years and all the times she made other people's anger mean she was bad.
+
+Each of these is a layer of glue. Each one that moves removes another structural support for the old behavior. When enough has moved, the old behavior stops being automatic.
 
 ## Concrete Example: The Rental House
 
@@ -129,3 +144,4 @@ Joe says this with quiet certainty. Not as a sales pitch. He has watched it happ
 - 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)
+- 2023-05-26_Tara Howley — From Insight to Wisdom (Tara's glue-and-solvent image: the emotion is the glue holding the story in place; moving the emotion is the solvent; insight alone is the seeing, not the dissolution; the multi-layered example of the client who had to move anger, fear, and grief to integrate an insight about anger)

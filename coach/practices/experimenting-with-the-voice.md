@@ -2,10 +2,10 @@
 type: practice
 id: experimenting-with-the-voice
 title: "Experimenting with the Voice"
-aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice", "sing the voice a musical", "nickname the voice as a politician you hate", "treat the voice like a kid having a temper tantrum", "how to play with depression voice", "play with the voice as depression intervention"]
+aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice", "sing the voice a musical", "nickname the voice as a politician you hate", "treat the voice like a kid having a temper tantrum", "how to play with depression voice", "play with the voice as depression intervention", "Fritz Perls overdog underdog", "overdog underdog voice", "change the response to the voice", "respond differently to the voice", "the underdog response", "who is talking to who voice"]
 tags: ["voice in head", "practice", "experimentation", "play", "relationship", "depression"]
-related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts", "depression-four-levels"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts", "depression-four-levels", "im-depressed", "rebellion-or-submission-to-should"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-06-23_Exploring Depression in the Head, Heart, and Gut"]
 ---
 
 # Experimenting with the Voice
@@ -37,6 +37,38 @@ Joe offers a range of experiments without prescribing one as correct:
 "You wanna play with it, have different responses to it. Every time it does it, sing it a musical. Every time it does it, just call it the politician that you hate the most and make a nickname for it or play with it or tickle it or love it or see it as a little kid who's having a temper tantrum and you just need to hold it. That's a great way to play with it, is to really not take the voice in your head seriously, the critical voice in your head seriously." -- Joe Hudson, Q&A January 2023
 
 "I'm gonna laugh at it hysterically one day, and I'm gonna just notice it another day, and I'm gonna love it the third day. So there's so much flexibility in it. But there's something in our system that is so scared of having that voice in the head go away or to change that it convinces us that we have no flexibility or no options around the voice in the head." -- Joe Hudson, Who is the Voice in Your Head?
+
+## Change the Response, Not the Content
+
+A specific framing Joe offers: most attempts to work with the voice try to change what the voice says. The deeper move is to change the response to what the voice says.
+
+The default pattern: voice says "you really fucked up." Person responds: "yeah, I really fucked up, I should do something about that." The voice gets to act as feedback and the person agrees as if it were management.
+
+The alternative: the voice says the same thing. The response is different. Examples Joe gives:
+
+- "Wow, you really fucked up. Are you talking to you? Is this the voice in the head talking to itself or is it talking to me? Did I fuck up or did you fuck up?"
+- "Every day I fuck up while listening to you for the past 10 years."
+- "I see that you're really scared and that's okay. It's okay that you're scared."
+- "Wow, you repeat yourself a lot and yet I still don't listen to you apparently. Maybe you should try a different way."
+
+"One of the things that the voice in the head is that if you treat it differently, it starts behaving differently. And so most of us just kind of accept, acquiesce to the voice in the head." -- Joe Hudson, Exploring Depression in the Head, Heart, and Gut
+
+The point of the new response is not to be right. The new response is the experiment. Try one. See what happens. Try another tomorrow.
+
+## The Fritz Perls Frame: Overdog and Underdog
+
+Joe references the Gestalt therapist Fritz Perls' frame for the inner conflict around shoulds.
+
+- **Overdog** is the voice that says "you should do this. You should do this. You should really make it this way."
+- **Underdog** is the response: "Yeah, I should... fuck you. Yeah, I should... fuck you."
+
+The "fuck you" arrives as sabotage. The person says they should not watch video games, then watches video games. They say they should call their mother, then do not. The underdog's role is the rebellion that produces the sabotage. See [[rebellion-or-submission-to-should]] for the broader pattern.
+
+The trap: most personal development tries to make the overdog kinder, or tries to make the underdog comply. Both leave the dynamic intact. The shift is recognizing the structure and trying entirely different responses.
+
+"So most of us, once they start realizing that the voice in the head is the issue, they try to change the voice in the head, but you can also change the response. It could be like, 'Yeah, you really shouldn't have done that.' It's like, 'Yeah, I really, really shouldn't have done that. I'm such a bad, bad, bad, bad person for having done that.' Or you can be, 'You shouldn't have done that,' and your response can be, I don't know, sing them a musical. Say, 'Wow, you repeat yourself a lot and yet I still don't listen to you apparently. Maybe you should try a different way.' Thousands of responses." -- Joe Hudson, Exploring Depression in the Head, Heart, and Gut
+
+The hyperbolic agreement ("I'm such a bad, bad, bad, bad person") is itself an experiment. It exposes the absurdity of the voice's content by amplifying it past the point of credibility. Singing the voice's pronouncement as a musical does the same operation in a different register: the form is incompatible with the gravitas the voice depends on.
 
 ## Why Experimentation Works
 
@@ -84,4 +116,5 @@ This is not about pretending the voice is funny. It is about refusing to treat i
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
-- 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & Moreowup Questions
+- 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More
+- 2023-06-23_Exploring Depression in the Head, Heart, and Gut

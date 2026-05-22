@@ -2,10 +2,10 @@
 type: practice
 id: lawyer-the-voice
 title: "Lawyer the Voice"
-aliases: ["argumentative lawyer to the voice", "lawyer the voice in head", "cross-examine the voice", "find the untruth practice", "challenging the voice", "journal the voice and lawyer it"]
+aliases: ["argumentative lawyer to the voice", "lawyer the voice in head", "cross-examine the voice", "find the untruth practice", "challenging the voice", "journal the voice and lawyer it", "the 20 thoughts practice", "list 20 negative self-thoughts and debate them", "debate the voice", "the most persistent negative thoughts practice", "debate the voice as depression intervention"]
 tags: ["voice in head", "practice", "journaling", "inquiry", "logic"]
-related: ["voice-in-the-head", "untruth-in-every-thought", "should-as-threat", "the-want", "wants-over-shoulds", "binary-thinking-signals-fear", "awareness-as-change-agent"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
+related: ["voice-in-the-head", "untruth-in-every-thought", "should-as-threat", "the-want", "wants-over-shoulds", "binary-thinking-signals-fear", "awareness-as-change-agent", "depression-four-levels", "im-depressed", "soul-dysmorphia"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-06-23_Exploring Depression in the Head, Heart, and Gut"]
 ---
 
 # Lawyer the Voice
@@ -21,6 +21,10 @@ This is the operational form of [[untruth-in-every-thought]]. Every statement th
 ## How to Run It
 
 **Step 1: Capture the voice on paper.** Write what it has been saying. Use its actual phrasing. "I should lose weight." "I'm bad at this." "They think I'm stupid." Get the statements out of your head and onto the page.
+
+The depression-specific variant: write the 20 most persistent negative self-thoughts you can identify. The 20-thought constraint forces excavation past the first three or four obvious ones, into the loops that have been running quieter. The list itself is often a revelation -- many people are surprised by how much they can produce and how repetitive the underlying message is.
+
+"Literally write down, here's the 20 negative, most persistent negative self-thoughts, and then literally debate them with yourself. Take the other side and say, 'I'm going to see if the voice in my head is actually accurate,' and really debate with it. At some point, you get to a place where any of the negative self-talk, you're just like, 'Yeah, that's bullshit. That's bullshit.' There's a little bit of truth in each of them, but the general premise is bullshit, bullshit, bullshit, bullshit. And that makes the change happen really quickly when you can see that." -- Joe Hudson, Exploring Depression in the Head, Heart, and Gut
 
 **Step 2: Pick a statement.** Start with one. The most-repeated one is usually a good place to begin.
 
@@ -58,6 +62,12 @@ Common discoveries when running this:
 
 **The want underneath becomes visible.** Most shoulds, lawyered, reveal a want. "I should call my mom" reveals "I'd like to feel connected to her." See [[wants-over-shoulds]] and [[the-want]].
 
+**Most negative thoughts contain a kernel of partial truth from selective data.** The depressed voice rarely makes things up entirely. It pulls real data points and weighs them disproportionately. "I'm 40 and I don't own a house" is data. Treating that single data point as a verdict on a whole life is the move the lawyer can name. The voice has been operating on selective evidence; the lawyer surfaces what was being left out.
+
+"You're treating yourself the way you wouldn't treat somebody else typically." -- Joe Hudson, Exploring Depression in the Head, Heart, and Gut
+
+A useful test the lawyer can run on any negative self-thought: would I make this verdict about my closest friend on the same evidence? If not, the verdict is the voice's selective application, not the truth.
+
 ## The Lawyer Is Not an Attacker
 
 The role matters. An attacker is trying to destroy. A lawyer is trying to test. The energy is different.
@@ -89,3 +99,4 @@ This practice fits the moment when the person is ready to investigate the voice'
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2023-06-23_Exploring Depression in the Head, Heart, and Gut
