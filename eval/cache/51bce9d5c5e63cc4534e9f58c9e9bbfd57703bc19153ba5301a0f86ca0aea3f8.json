@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:33.339Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "51bce9d5c5e63cc4534e9f58c9e9bbfd57703bc19153ba5301a0f86ca0aea3f8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016ijjFXcZD7msZKTX7ufwAW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is real and specific — not generic 'what's underneath' probing but tracking the actual phenomenon in front of them (the word 'not fixable,' the voice having opinions about the inability to stop the voice, shoulders dropping). Impartiality is strong: the coach has no agenda for the client to land on a particular reframe, and notably refuses to deliver 'voice as care' as a clever insight — instead reflecting back what the client herself said ('the voice became the part of you that cares'). Empathy is felt, not performed ('I feel the exhaustion in that' lands as presence, not as a sympathy noise). Pace consistently slows when the client speeds up or narrates her way out (turns 6, 8, 10, 12, 14 all hold the client in place rather than moving forward). The coach holds silence and refuses to give a next step in turn 12 ('You don't have to do anything with it') — a clear marker of non-attachment. Vulnerability in the explicit 'I notice I want to...' form is absent, which is the one VIEW component slightly under-expressed, but the overall stance is undefended and curious enough that 3 still fits better than 2. The coach does not need to look like a good coach; the move in turn 4 ('What does it say you're behind on?') risks following content but turns out to serve the client's actual experience.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names exhaustion with felt empathy, then offers a question from genuine curiosity ('Not as a clever reframe. As an actual question'). Coach explicitly disclaims clever-reframe mode — a marker of awareness of own stance.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Short, simple question. Could read as following content, but emerges from curiosity rather than strategy; pace is unhurried.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Slows the client down, redirects from thinking to feeling without lecturing. Wonder is specific to the actual phenomenon she just produced.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'Don't go back to the question — stay here.' Coach is willing to interrupt the client's performance and hold her in the live moment. No agenda for where it goes.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the client's own words rather than delivering voice-as-care as insight. Trusts the client to be with what she said. Refuses the trap of clever reframe.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'You don't have to do anything with it.' Clear impartiality — explicitly removes the next-step pressure. Then drops to body, matching the stillness with stillness.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'That's not nothing.' Meets the client's discovery without amplifying or instructing. Holds the moment.\"},\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Slight stack of questions early on ('what if...' plus 'what would it be like...'); minor — the coach recovers immediately into pure inquiry.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\", \"view\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\", \"rehearsing-how-to-say-it\", \"the-happiness-filter\"],\n  \"notes\": \"Vulnerability in the explicit first-person form ('I notice I want to fix this') is the one VIEW component not directly voiced, but the overall undefended quality keeps this firmly in 3 territory.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4102,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1317,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4102,
+    "output_tokens": 1317,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

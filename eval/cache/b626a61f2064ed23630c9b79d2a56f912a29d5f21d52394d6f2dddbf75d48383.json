@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:03:47.092Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b626a61f2064ed23630c9b79d2a56f912a29d5f21d52394d6f2dddbf75d48383",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Aoq3oN7juZoVsux5jYUC6s",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with what just came out.\n\nYou don't need to defend your life right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 27455,
+      "cache_creation_input_tokens": 9441,
+      "cache_read_input_tokens": 31004,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9441,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 27455,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 31004,
+    "cache_creation_input_tokens": 9441
+  }
+}

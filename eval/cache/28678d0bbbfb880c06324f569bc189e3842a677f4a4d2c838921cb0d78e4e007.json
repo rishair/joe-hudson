@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:01:11.498Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "28678d0bbbfb880c06324f569bc189e3842a677f4a4d2c838921cb0d78e4e007",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011dWM75TzZUhkXTtq5rPpjN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[the laugh fades a little faster than usual]*\n\nIt felt... \n\n*[pauses, looks slightly to the side]*\n\nUncomfortable. Like — I kept waiting for the other shoe to drop. Like, why is he being so... *much*. You know? It felt almost suffocating, which doesn't even make sense because that's what I say I want.\n\n*[small frown, more to herself than to the coach]*\n\nI think I told myself he was just kind of... intense. Or needy. That's the word I used. Needy.\n\n*[quieter now, less performative]*\n\nBut he wasn't actually needy. He was just... present."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 194,
+      "cache_creation_input_tokens": 252,
+      "cache_read_input_tokens": 1844,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 252,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 155,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 194,
+    "output_tokens": 155,
+    "cache_read_input_tokens": 1844,
+    "cache_creation_input_tokens": 252
+  }
+}

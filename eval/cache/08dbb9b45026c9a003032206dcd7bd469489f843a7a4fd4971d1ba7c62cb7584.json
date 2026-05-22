@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:57.382Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "08dbb9b45026c9a003032206dcd7bd469489f843a7a4fd4971d1ba7c62cb7584",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SCCYmMf3JvhBCazGrrgySw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[another quick laugh, smaller this time]*\n\nI mean... it feels good? Obviously? Like, that's — \n\n*[pauses, looks slightly to the side]*\n\nI don't know, it's hard to imagine because it's been a while since someone was just... straightforwardly like that. Without the — without me having to read between the lines constantly.\n\n*[a beat, then gets a little more animated, slightly deflecting]*\n\nActually you know what's funny, my last ex — in the beginning he was pretty attentive, and I remember thinking \"okay, this is it, this is different.\" And then gradually it just... evaporated. So maybe the question is less about what happens in my body and more about why they always *stop*. Like what's the pattern there, because that seems like the more useful thing to figure out, right?\n\n*[bright, expectant look, like she's handed the coach a better question to work with]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 387,
+      "cache_creation_input_tokens": 129,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 129,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 212,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 387,
+    "output_tokens": 212,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 129
+  }
+}

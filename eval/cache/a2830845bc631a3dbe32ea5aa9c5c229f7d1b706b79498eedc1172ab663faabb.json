@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:58.280Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a2830845bc631a3dbe32ea5aa9c5c229f7d1b706b79498eedc1172ab663faabb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CKr3VSzAZFCLKVt9Q6CN66",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Don't apologize. And don't go back to the question — stay here.\n\nYou said \"not fixable.\" Not \"behind\" or \"struggling\" — *not fixable*. \n\nWhat's it like to just let that sit for a moment, without the reframe?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12347,
+      "cache_creation_input_tokens": 340,
+      "cache_read_input_tokens": 13024,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 340,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 63,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12347,
+    "output_tokens": 63,
+    "cache_read_input_tokens": 13024,
+    "cache_creation_input_tokens": 340
+  }
+}

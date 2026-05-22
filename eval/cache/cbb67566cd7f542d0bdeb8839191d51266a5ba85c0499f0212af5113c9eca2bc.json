@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:09.749Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cbb67566cd7f542d0bdeb8839191d51266a5ba85c0499f0212af5113c9eca2bc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TeYprBbbNpA3cc2xtXnRUJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(long pause)*\n\nQuieter.\n\n*(almost surprised)*\n\nWhich is strange because nothing's changed. It's still — I mean, I'm still behind on the project, the conversation with my manager still happened, all of it is still true. And the voice is still there, I can feel it sort of... hovering.\n\nBut I'm not —\n\n*(pause, working something out)*\n\nI've been fighting it for so long that I don't think I noticed the fighting had become its own thing. Like the fighting was the constant, not even the voice. I wake up and I'm already in the ring.\n\n*(quiet laugh, genuine this time)*\n\nI haven't tried not fighting it. That's — I've tried a hundred different ways to fight it more skillfully and I haven't tried just... not.\n\n*(looks up)*\n\nI don't know if I can. I don't know if I'll walk out of here and be back in the ring in twenty minutes. Probably. But right now it's just...\n\n*(exhales fully)*\n\nThere's something that feels almost like — I want to say tenderness, which is a word I would normally immediately make fun of myself for using. But that's what it is.\n\n[EXIT_POSITIVE]\n\nHuh. I didn't think to stop fighting it. I genuinely didn't think of that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 344,
+      "cache_creation_input_tokens": 585,
+      "cache_read_input_tokens": 2698,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 585,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 297,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 344,
+    "output_tokens": 297,
+    "cache_read_input_tokens": 2698,
+    "cache_creation_input_tokens": 585
+  }
+}

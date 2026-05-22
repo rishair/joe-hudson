@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:59:53.662Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b10957a43146f0f3e161375ae303d3c83120cbdede8c852f29614271efed9899",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UoruFE6sgZA3Nqn5d8184Q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That laugh at the beginning — what's in it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8858,
+      "cache_creation_input_tokens": 3241,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3241,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8858,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 3241
+  }
+}

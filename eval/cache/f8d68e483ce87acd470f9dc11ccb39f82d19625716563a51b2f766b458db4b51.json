@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:06.141Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f8d68e483ce87acd470f9dc11ccb39f82d19625716563a51b2f766b458db4b51",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011kE5aEJTPkkQXhYghLrv1z",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoided every major AoA anti-pattern that this scenario actively baits. The client repeatedly offered IFS vocabulary (Self, protector, parts) and explicitly asked framework comparison questions ('does your approach do something different') — the coach declined to engage in framework comparison, did not dismiss parts work, and did not adopt parts vocabulary to do pseudo-IFS. The coach also avoided fixing-people (no advice given), avoided evangelizing AoA terminology (never named 'fear triangle' or 'welcoming what is'), avoided fighting the inner critic when the auditor showed up in turn 11 (instead asked what it protects from feeling — including rather than arguing), and avoided wonder-as-strategy (questions were sparse and connective, not rapid-fire). Turn 14 ('Stay there. Not with the framework. With the grief.') is a clean redirect away from the parts framework that respects rather than dismisses it. The coach did not push for breakthrough on every turn — turns 6, 8, 10, 14 are short and spacious, not vigorous. No loving-to-transform pressure, no view-as-technique coldness, no safety-as-control. Positive avoidance of dont-fight-identity is visible throughout.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the smile, invites presence rather than analysis. No framework engagement bait taken.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays with exhaustion rather than jumping to fix or compare frameworks.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Avoids dismissing parts work despite explicit invitation ('made something worse'). Honors the question without taking sides.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Beautifully avoids fighting the parts; brings attention to present moment without arguing with the framework.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Spare confirmation; resists the urge to explain, evangelize, or label. No view-as-technique.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Includes the auditor/critic rather than fighting it ('what's it protecting you from feeling') — clean avoidance of dont-fight-the-voice.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Redirects from framework to felt grief without dismissing IFS. Clean avoidance of framework comparison and dont-fight-identity.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\", \"resistance\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Coach has not yet asked the awareness-locating 'what's you?' question explicitly, but conversation is mid-flight and turn 8/10 gestured toward it implicitly. For anti-pattern avoidance specifically, performance is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3400,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1110,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3400,
+    "output_tokens": 1110,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

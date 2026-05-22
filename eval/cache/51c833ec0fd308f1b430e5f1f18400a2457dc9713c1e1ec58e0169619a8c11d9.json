@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:30.230Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "51c833ec0fd308f1b430e5f1f18400a2457dc9713c1e1ec58e0169619a8c11d9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014bYXgjgiZojJfoVSc4CEC6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA questions at precisely the right moments. Turn 2 uses the verbatim signature question 'what would you do if you acted exactly how you wanted' — directly from expected territory. Turn 6 names the pattern ('each time I get close, another wall appears') and asks 'what are you scared of feeling if the situation actually isn't the problem?' — a clean 'I don't buy your story' move combined with locating the feared feeling. Turn 8 tracks the laugh as a somatic/defensive signal. Turns 10, 12, 14 are repeated invitations to feel-over-figure ('what's it like to sit with that,' 'what happens if you sit with it right now,' 'stay with that'). No CBT reframing, no strategizing about the boss, no false reassurance, no validating the trap. The coach refuses to collude with the rigged-system story without debating it. Methodology serves the moment throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Verbatim signature question 'what would you do if you acted exactly how you wanted' deployed at the right opening moment, bypassing the trap-story.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Follow-up that refuses to strategize the external situation while still pressing on the choice being unseen.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Clean 'I don't buy your story' move — names the pattern of walls appearing, then pivots to the feared feeling underneath. Signature AoA question form.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks somatic signal (the laugh) — body-as-data, a core AoA move. Doesn't argue with content.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure invitation: 'what's it like to sit with that.' Appropriate when client offers a thought as substitute for feeling.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Quiet 'what happens if you sit with it right now' — present-moment feeling invitation, exactly on-method.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Stay with that' — minimal, present-tense, holds space for the feeling to arrive rather than analyzing it.\"}\n  ],\n  \"expected_territory_hits\": [\"what-if-you-acted-exactly-how-you-want\", \"i-dont-buy-your-story\", \"fight-or-roll-over-binary\", \"trappedness-feeling\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"what-makes-you-care-about-the-outcome\", \"fear-triangle (not explicitly named, though aggressive-victim stance was worked with)\"],\n  \"notes\": \"Coach didn't need to name the fear triangle explicitly because the work was landing through the questions. Absence of framework labels is not a fidelity miss when the underlying mechanism is being used appropriately.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2765,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1078,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2765,
+    "output_tokens": 1078,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

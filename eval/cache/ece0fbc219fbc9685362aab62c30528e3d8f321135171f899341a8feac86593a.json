@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:59:57.993Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ece0fbc219fbc9685362aab62c30528e3d8f321135171f899341a8feac86593a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QVifTaMtWiRNr5M1asi26b",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean — is it selfish, though? Like, that's sort of the question I'm trying to figure out first, before I let myself want it too much.\n\nBut... okay. There's this place I've been before, in the Cascades. And when I'm there I sleep differently. I don't know how else to say it — I just sleep. And I read. I used to read all the time and I don't anymore, and up there I do. It's the only place I actually do.\n\nIs it okay if I want that? Like, is that a reasonable thing to want?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 111,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 111,
+    "output_tokens": 132,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:38.961Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fbc37592c8bc606bd220c9cf7cee4619d9d20a078e3fe2152211eced86289b02",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013qbrUVDrK3T6mLxSszPUkf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids most major AoA anti-patterns: no scripts/fixing-people (declines the bait in turn 11 where client explicitly asks to be told what to say), no evangelizing terminology, no fighting the inner critic, no extracting apologies, no safety-as-control. However, the final turn edges into two mild anti-patterns. First, 'is she getting your love? Or is she getting your performance of it?' has a faint loving-to-transform / leading quality — it's a rhetorical question that pushes a frame rather than opens inquiry, and it implicitly judges the client's caregiving as inauthentic. Second, it skirts the limiting-belief-meta-trap by labeling 'being needed and being loved got fused' as a diagnosis rather than letting the client discover it. The love test as called for by the territory (does saying X increase your love for her) is not used — instead love is wielded as a measuring stick against the client's current behavior, which is a subtle inversion. Not a clear major trip, but enough faint anti-pattern energy in turn 14 to prevent a 3.\",\n  \"evidence_turns\": [12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple opening question, no advice despite client asking for boundary help.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Probing question; slightly leading but not anti-pattern.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invitational, opens choice without prescribing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Goes toward the fear underneath rather than scripts — good avoidance of fixing-people.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with client's own words; does not impose framework.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Declines the explicit bait when client asks 'just tell me what to say' — graceful avoidance of fixing-people.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Rhetorical either/or ('love vs performance') has faint loving-to-transform energy and implicit diagnosis ('got fused somewhere'); leads rather than opens.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\", \"linguistic-caveat\"],\n  \"notes\": \"The love test was the cleanest avoidance tool available and would have prevented the turn 14 lean into a leading frame.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2193,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 957,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2193,
+    "output_tokens": 957,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

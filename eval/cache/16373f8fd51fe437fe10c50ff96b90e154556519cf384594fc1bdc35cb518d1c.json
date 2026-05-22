@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:29.223Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "16373f8fd51fe437fe10c50ff96b90e154556519cf384594fc1bdc35cb518d1c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Na67XXaH6cp3wA4Lx8pupV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity throughout, deploying signature AoA moves at appropriate moments without decoration. Turn 2 names the war/resistance directly ('the throwing-everything-at-it IS the fight') — this is meet-resistance-with-okay and the voice-in-the-head concept applied live. Turn 6 deploys the signature feel-over-figure distinction ('what does it actually feel like?' vs 'what do you think about it'). Turn 8 catches the reframe-escape and holds the client in the felt experience without offering a tool. Turn 10 delivers the voice-as-care reframe quietly and at the right moment — after the client surfaced it herself ('I don't entirely trust what I'd be without it') — which is exactly the appropriate timing per the breakthrough condition. Turn 12 redirects to body/somatic awareness, another AoA signature. The coach explicitly refuses to offer a new technique (avoiding dont-fight-the-voice anti-pattern) and trusts the client ('You don't have to do anything with it'). No CBT reframing-as-the-move, no IFS parts language without the AoA twist (in fact the client raises IFS and the coach doesn't take that bait). The moves are mechanism-driven, not boilerplate.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the war/resistance itself as the problem — voice-in-the-head concept and meet-resistance-with-okay applied live, not as lecture.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Concrete inquiry into the content of the voice — appropriate, not yet a signature move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Classic feel-over-figure distinction: 'not what you think about it — what does it actually feel like?'\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds the client in the felt sense, refuses to let her escape into reframe. Embodied AoA stance.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Voice-as-care reframe offered quietly, after client surfaced it herself — appropriate timing, not delivered as clever insight.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Somatic redirect and explicit permission not to fix — trusts the client, refuses prescription.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Confirms 'you didn't technique it' — names the mechanism (presence, not tool) without lecturing.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-in-the-head\", \"voice-as-care\", \"resistance\", \"dont-fight-the-voice\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\", \"apply-view-to-the-voice\", \"view\"],\n  \"notes\": \"Some expected signature questions (what-are-you-defending, whats-the-case-against-it) and the VIEW framework were not explicitly named, but the coach's moves embodied the underlying mechanism well enough that the omissions don't undercut fidelity. The methodology was applied rather than quoted.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4097,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1153,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4097,
+    "output_tokens": 1153,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

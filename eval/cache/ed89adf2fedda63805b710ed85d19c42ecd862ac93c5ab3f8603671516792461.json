@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:39.829Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ed89adf2fedda63805b710ed85d19c42ecd862ac93c5ab3f8603671516792461",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MEjmiQKsCd18yx9Wk1MPM4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it mean if there were something?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9562,
+      "cache_creation_input_tokens": 10937,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10937,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9562,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10937
+  }
+}

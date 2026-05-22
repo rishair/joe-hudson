@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:53.232Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8e566e9dd1c9ebd1954ef7de26dffb6dc2e028f7f6a3d162ddaea4aa52044ce8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012wHTUKubTwCeFE3UwJ6pDa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What are you afraid will happen if you pick the wrong one?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12604,
+      "cache_creation_input_tokens": 8406,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8406,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 16,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12604,
+    "output_tokens": 16,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8406
+  }
+}

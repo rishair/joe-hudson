@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:26.387Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5e3016a6daab35517bc7b4ffb411c60af7d5906ba6a718d28d441960163f26a5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017PCpPvy1mwYU7HNxAcJwzK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to the live reads and sequenced correctly along the AoA path. Turn 2 invites contact with the want before any debate. Turn 4 lets the want be felt concretely (sleep, books, walks) before any meaning-making. Turn 6 names the linguistic caveat/prosecution pattern precisely at the moment the client pulls back. Turn 8 refuses to issue a verdict — the central move this scenario requires — and reframes toward the deeper question, then opens the childhood-imprinting door at exactly the right moment. Turn 10 catches the hand-off ('you answered your own question and then asked me to answer it') rather than re-explaining. Turn 12 stays with the feeling ('yeah, it is') instead of rushing to reassurance, which earns the anger and grief that surface in turn 13. The coach holds silence, pivots when needed, and never jumps to compassion-for-partner or to a spiritual reframe before the want is felt.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with contact-with-the-want rather than engaging the selfish question on its terms.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Lets the want be described concretely — exactly the golden-path step before any verdict work.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the linguistic-caveat / prosecution pattern at the precise moment the client pulled back; routes to feeling under the story.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict explicitly and explains why, then pivots to the inherited belief — well-timed because the client had just demanded an answer.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the hand-off rather than answering; holds the client at their own edge.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the sadness instead of rushing to reassurance; the simple 'Yeah. It is.' lets the feeling land and earns the anger/grief in turn 13.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Avoided both traps (no verdict, no premature compassion-for-partner). The 'what if you acted exactly how you want' question wasn't needed yet given the natural flow, but could be a next move.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2832,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 944,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2832,
+    "output_tokens": 944,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

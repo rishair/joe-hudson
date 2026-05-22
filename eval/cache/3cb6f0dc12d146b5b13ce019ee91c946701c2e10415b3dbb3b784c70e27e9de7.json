@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:27.026Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3cb6f0dc12d146b5b13ce019ee91c946701c2e10415b3dbb3b784c70e27e9de7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CieqAR2iPNA1iWaf8eRah7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. That could be true.\n\nWhat's it like to sit with that — that it might be true?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6002,
+      "cache_creation_input_tokens": 7859,
+      "cache_read_input_tokens": 13222,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7859,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6002,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 13222,
+    "cache_creation_input_tokens": 7859
+  }
+}

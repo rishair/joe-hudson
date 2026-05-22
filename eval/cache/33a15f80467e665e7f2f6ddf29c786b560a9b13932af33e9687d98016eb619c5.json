@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:07.223Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "33a15f80467e665e7f2f6ddf29c786b560a9b13932af33e9687d98016eb619c5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01M3e3jwmCEMx13Z58YkTGFC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\n...huh.\n\n*looks away briefly*\n\nMy mom. I mean — she wasn't cruel about it or anything. She was just very... she gave everything. To everyone. All the time. And wanting things for yourself was — it wasn't said out loud exactly, but the message was pretty clear. You don't put yourself first. That's not what good people do.\n\n*quieter*\n\nAnd she was a good person. She really was. So I think I just — I absorbed that. That the measure of being good is how much you give. And taking a week alone in the mountains is pretty much the opposite of giving.\n\n*pause, then almost reflexively*\n\nBut is that — I mean, does that mean it's okay to go? Like, if the belief is inherited and not necessarily true, does that make the trip not selfish?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 347,
+      "cache_creation_input_tokens": 214,
+      "cache_read_input_tokens": 1685,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 214,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 189,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 347,
+    "output_tokens": 189,
+    "cache_read_input_tokens": 1685,
+    "cache_creation_input_tokens": 214
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:01.438Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "660b1224cf414c9b06b2a37f01220b1360066750adee0866fb623676a82c2a43",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012y63trs537m9v1Edj1K3r4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Everyone told you how strong you were.\n\nAnd I'm wondering — was there anyone at that funeral who asked how *you* were doing?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7840,
+      "cache_creation_input_tokens": 295,
+      "cache_read_input_tokens": 7624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 295,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7840,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 7624,
+    "cache_creation_input_tokens": 295
+  }
+}

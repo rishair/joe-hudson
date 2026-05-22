@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:21.414Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "35ba19e872f762ac55da245f51936b35c79d69019886ae62494ce6d6f0e04167",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MpiqRNSzyRatWnNaiC7aEm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, the smile stays*\n\nConstrained. Like... like I'd made myself smaller than I needed to be. Or alternatively -- overextended in a way that I couldn't sustain. \n\n*brief stop*\n\nThose are actually opposite fears, which is interesting. I hadn't quite noticed that before. One job feels like it might be too safe and one feels like it might be too much.\n\n*slight recalibration, back to the original frame*\n\nBut I'm not sure that helps with the original question. Both of those could still be fear responses rather than accurate predictions. The fact that I can articulate the fear doesn't tell me whether the fear is tracking something real."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18,
+      "cache_creation_input_tokens": 352,
+      "cache_read_input_tokens": 1495,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 352,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 150,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18,
+    "output_tokens": 150,
+    "cache_read_input_tokens": 1495,
+    "cache_creation_input_tokens": 352
+  }
+}

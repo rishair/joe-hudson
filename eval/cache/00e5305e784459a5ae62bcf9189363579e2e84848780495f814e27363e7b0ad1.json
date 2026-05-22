@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:55.199Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "00e5305e784459a5ae62bcf9189363579e2e84848780495f814e27363e7b0ad1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AUM5cj975sSqPdf8J6qGPL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that*\n\nHm. I think... I was good at it. And being good at something feels... safe, I guess. Like I knew where I stood.\n\nAnd I think... there's something about being needed that felt like being loved? Like, if she needed me, that meant something. About us. About the relationship.\n\n*pause, then slightly defensive*\n\nWhich sounds kind of sad when I say it out loud. I don't mean it like I was only doing it for myself. I genuinely care about her. I do.\n\nBut I think... yeah. I think I got something from it too. I just haven't thought about what it costs now that I'm... I don't know, older. More tired. Less able to just absorb it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 277,
+      "cache_creation_input_tokens": 221,
+      "cache_read_input_tokens": 1740,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 221,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 169,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 277,
+    "output_tokens": 169,
+    "cache_read_input_tokens": 1740,
+    "cache_creation_input_tokens": 221
+  }
+}

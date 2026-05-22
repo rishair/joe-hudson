@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:44.759Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "64c43369a1e77f772f0e3006271c6dfb3285f8e26e0cb107fe1c8b38478016f9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019A13nAMuLV39TK2e4eK5Lo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That last part — the voice having opinions about your inability to stop the voice — that's the one I want to stay with for a second.\n\nAll that knowledge, all those tools, and the voice just... adds them to the list. \"You know better and you're still failing at this.\" \n\nWhat does it feel like to not be able to fix it? Not what you think about it — what does it actually feel like?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12241,
+      "cache_creation_input_tokens": 9888,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9888,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12241,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9888
+  }
+}

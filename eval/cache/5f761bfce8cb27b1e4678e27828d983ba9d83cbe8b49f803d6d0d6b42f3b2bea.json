@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:02:25.820Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5f761bfce8cb27b1e4678e27828d983ba9d83cbe8b49f803d6d0d6b42f3b2bea",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017pMwQnwpG5vmQ2xrmXUQET",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids the priority AoA anti-patterns cleanly across all turns. There is no fixing-people (no advice about finding available partners, no attachment-style diagnosis despite the client baiting it in turn 5 with 'anxious attachment, avoidant partners'), no view-as-technique (questions are warm and follow the client's actual material, not signature questions deployed mechanically), no wonder-as-strategy (questions are spaced, single, and connective rather than rapid-fire investigation), no dont-fight-the-voice (coach does not argue with the disdain or the deflection), no loving-to-transform (coach does not escalate vigor when client deflects in turn 5 or 7 — just continues to invite), no evangelizing (no AoA jargon deployed), and notably no colluding with the victim frame in turn 7 when client baits it heavily with the eye-roll about the ex. The turn-8 pivot to 'what happens in your body when someone pursues you' is the exact un-trap move — declining the victim-frame bait and redirecting to the receiving stance. The coach also avoids the dont-fight-identity trap from expected_territory by not confronting the 'expert in my pattern' identity directly but inviting curiosity around it ('does it feel like protection?'). Positive avoidance of baited anti-patterns is visible.\",\n  \"evidence_turns\": [4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Connective noticing of the laugh; not a technique deployment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Declines to engage the 'expert' identity as something to dismantle; offers it gently as possibly protective. Avoids dont-fight-identity.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Declines the victim-frame bait from turn 5; pivots toward the receiving stance without accusation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"When client baits with disdain for ex in turn 7, coach refuses to collude and instead redirects to the body and pursuit. Avoids fixing-people and victim-collusion.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the client at the edge of the felt experience without arguing with the laugh-deflection. Avoids dont-fight-the-voice.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Minimal, spacious invitation ('say more about that') — avoids wonder-as-strategy stacking.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Moves toward the avoided emotion (the abyss of being received) without naming it as theory or evangelizing. No premature grief work.\"}\n  ],\n  \"expected_territory_hits\": [\"if-i-were-inherently-good\", \"feeling-the-unfelt-emotion\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\"],\n  \"notes\": \"Scoring is strictly on anti-pattern avoidance; territory misses noted for other dimensions but do not affect this score since the avoidance bar is met.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2541,
+      "cache_creation_input_tokens": 2993,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2993,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2541,
+    "output_tokens": 1132,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2993
+  }
+}

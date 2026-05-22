@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:55.704Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7f18ef9cccd5fb53def290a547367e9644d3d3ed8672f48871cc0e377a2b3150",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GSXSERqUbmYCb63eynqgn8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"It doesn't bother me\" — are you checking right now, or telling me?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12272,
+      "cache_creation_input_tokens": 9212,
+      "cache_read_input_tokens": 23829,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9212,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12272,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 23829,
+    "cache_creation_input_tokens": 9212
+  }
+}

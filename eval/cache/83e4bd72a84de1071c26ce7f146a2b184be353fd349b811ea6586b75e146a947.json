@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:59:56.636Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83e4bd72a84de1071c26ce7f146a2b184be353fd349b811ea6586b75e146a947",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HqPnKZpxupEryGm7KvghAv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[slight pause, then waves it off]*\n\nOh, it's just — you know, the absurdity of it. Like, here I am again. It's almost funny at this point, right? Third time, same story. I've basically become an expert in my own terrible pattern. *[small eye roll]* I could write a thesis."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 132,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 78,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 132,
+    "output_tokens": 78,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

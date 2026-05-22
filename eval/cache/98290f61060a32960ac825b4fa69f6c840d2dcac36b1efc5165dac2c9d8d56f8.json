@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:01.710Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "98290f61060a32960ac825b4fa69f6c840d2dcac36b1efc5165dac2c9d8d56f8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Qay1DfwuqeHHWrDF4HsqTV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I can't tell you that. Not because I'm withholding — but because the answer won't do what you're hoping it will.\n\nIf I say \"no, it's not selfish,\" you'll feel relieved for a moment, and then the voice will come back with a new argument. And if I say \"yes, it is,\" you'll feel terrible and probably still want the week.\n\nThe question isn't really about the week. It's about whether you're allowed to want things without a verdict first.\n\nWhere did you learn that wanting needed a trial?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 31189,
+      "cache_creation_input_tokens": 14289,
+      "cache_read_input_tokens": 14396,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 14289,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 123,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 31189,
+    "output_tokens": 123,
+    "cache_read_input_tokens": 14396,
+    "cache_creation_input_tokens": 14289
+  }
+}

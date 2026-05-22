@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:22.696Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0c6bda983f4b6c33e5e5ed825b0a72fd9e43a295fd75500cf03e81b0cc4405c6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EsZBgdxbC7iwUUp7xn8Wp2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely AoA reads throughout. Turn 2 immediately redirects from content to soma. Turn 4 explicitly names the deflection ('I notice you moved away from the body question pretty fast') — naming the rush/avoidance signature as it happens. Turn 6 catches the linguistic caveat ('it's probably fine, it's probably nothing' followed by subject change) — a textbook 'distinguish the said from the shown' read. Turn 10 catches the pause as somatic data and inquires into it rather than past it. Turn 12 names what's true vs. what's defended ('that's the first true thing you've said'). Reads consistently precede questions, and they target the specific rush-signature/false-end territory this scenario requires. Pattern-level read of the running-to-not-feel dynamic is surfaced in turn 12 in a way that lets the client name it themselves in turn 13.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens by tracking body rather than engaging the list content — refuses to match the rush energy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Explicit observation language naming the deflection in real time: 'I notice you moved away from the body question pretty fast.'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat and the subject-change pattern — names the said-vs-shown gap precisely.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Holds the thread without a fresh read, but signals he's tracking the avoidance ('before we go to the list').\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the pause as somatic/energetic signal: 'You just paused. Something landed there.' Read precedes the question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Distinguishes the true from the defended ('first true thing you've said') and names the pull toward the list as defense — pattern-level read.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The rush signature isn't named with that label but is named by function across turns 4, 6, and 12. The false-end question is approached via 'what's the worst version' and 'what would that mean about you' — adjacent moves that successfully surface the feared outcome.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2587,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 884,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2587,
+    "output_tokens": 884,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

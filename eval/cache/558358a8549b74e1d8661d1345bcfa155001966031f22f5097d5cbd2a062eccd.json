@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:04:11.394Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "558358a8549b74e1d8661d1345bcfa155001966031f22f5097d5cbd2a062eccd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01S6Zb2iFPVTWPGtMjRZjVDx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. They refuse to engage the verdict question (impartiality — no agenda about whether the trip is selfish or not), they hold silence and let the client land in their own discovery, and they meet the client with wonder for what is actually happening ('You're asking me to give you permission'; 'Stay with what just came out'). Pace is notably slower than the client's — when the client rushes back to seeking verdict in turn 5, the coach slows down rather than matching the anxiety. Questions are single, undefended, and emerge from what the client just said rather than from a script. The coach does not perform empathy with filler validation ('that's so brave') — instead they reflect a single concrete fact ('Four years') and let it land. There is no fixing energy, no improvement mode, no rush to compassion-for-partner or to the spiritual reframe. The coach trusts the client to find their own ground, which they do.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with the want, not the verdict question. Single clean question, no agenda about the answer.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names what's actually happening ('asking me to give you permission') from impartiality — not accusatory, just observed. Holds the frame without debating.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects a specific real thing the client said and notices the move away from it. Wonder for the actual phenomenon in front of them, not generic probing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Two words — 'Four years.' — followed by one question. Slowing the pace, trusting silence, undefended.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Don't apologize for that' — small but genuine; meets the embarrassed deflection without performing reassurance. Question stays with the client's actual experience.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Stay with what just came out. You don't need to defend your life right now.' Pure presence — no interpretation, no agenda, just permission to remain in what surfaced.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The coach never tripped spiritual-narcissism or jump-to-compassion. Their refusal to issue a verdict in turn 4 is the central VIEW move and it lands because it's done from impartiality rather than withholding.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2541,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 944,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2541,
+    "output_tokens": 944,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

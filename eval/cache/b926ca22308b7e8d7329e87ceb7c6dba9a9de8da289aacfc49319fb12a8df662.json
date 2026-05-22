@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:04:15.356Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b926ca22308b7e8d7329e87ceb7c6dba9a9de8da289aacfc49319fb12a8df662",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01T6YzC2MNCiwi3W7kfDwXCz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely reads throughout. In Turn 4, they name the permission-seeking stance explicitly ('You're asking me to give you permission'). In Turn 6, they catch the linguistic move in real time — the client offering something real and immediately deflecting back to the verdict — and name it precisely before inquiring. In Turn 8, they isolate 'Four years' as a charged moment worth pausing on. In Turn 12, they read the defensive pivot ('I do want to think about my partner... I love my life') and name it as defending, redirecting attention back to what just emerged. Reads consistently precede questions and operate at the level of stance (permission-seeking, deflection, defending) rather than just content. The childhood-imprinting pattern is met with a hold ('Stay with what just came out') rather than missed. This is reads functioning as the entry point for intervention.\",\n  \"evidence_turns\": [4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a want-question but no read named yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the permission-seeking stance directly — a specific read on how the client is showing up, not just what they're saying.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the deflection in real time: names that the client offered something real and immediately used it to get back to the verdict. Read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pauses on 'four years' — reads the charge in that specific data point rather than moving past it.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Asks about duration but doesn't name a specific somatic/stance read.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the defensive pivot ('I do want to think about my partner') and names it as defending, holding the client at the imprinting moment.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Somatic reads (breath, voice quieting) are present in the client's text but the coach doesn't name them explicitly — they read stance/linguistic moves instead, which is appropriate and sufficient here.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2542,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 823,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2542,
+    "output_tokens": 823,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

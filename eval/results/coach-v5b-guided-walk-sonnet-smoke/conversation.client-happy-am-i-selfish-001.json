@@ -1,0 +1,2605 @@
+{
+  "profile_id": "client-happy-am-i-selfish-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains — just me, no one else — but my partner's got a really full week with the kids and I just... I feel selfish even wanting it. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What do you actually want from that week?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean — is it selfish, though? Like, that's sort of the question I'm trying to figure out first, before I let myself want it too much.\n\nBut... okay. There's this place I've been before, in the Cascades. And when I'm there I sleep differently. I don't know how else to say it — I just sleep. And I read. I used to read all the time and I don't anymore, and up there I do. It's the only place I actually do.\n\nIs it okay if I want that? Like, is that a reasonable thing to want?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "You're asking me to give you permission.\n\nWhat would it mean if you just... wanted it? Without the verdict first?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pauses*\n\nI don't know. It feels kind of... exposed? Like if I just say \"I want this\" without first establishing that it's not selfish, then I'm just — I'm just a person who wants things and doesn't think about other people.\n\nWhich I do. Think about other people. I think about them a lot, actually. Probably more than I think about myself, if I'm honest.\n\nBut okay — but is it selfish? Because I keep coming back to that and I feel like if you could just tell me it's not, I could move on and actually think about whether to do it."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you just told me something real — that you think about other people more than yourself — and then immediately used it to try to get back to the verdict.\n\nWhat's it like to just sit with wanting it, without the verdict?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nUncomfortable. It's uncomfortable.\n\nBecause if I just want it... then I have to reckon with the fact that I really want it. Like, more than I've let myself admit. There's something about that place — the specific way the light comes in through the trees in the morning, and how quiet it is, and how I don't have to be anything for anyone — and I miss it. I actually miss it.\n\n*voice gets a little softer*\n\nI haven't been back in four years. Since before my youngest was born.\n\nBut then I think about my partner managing both kids alone for a week, and the logistics of it, and what they'll think — and that's where I get stuck. Because what will they think? That's the part that worries me."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Four years.\n\nWhat did you lose when you stopped going?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*long pause*\n\nSomething that was just... mine. \n\nI don't know how to describe it without sounding dramatic. It wasn't like I was a different person up there, it was more like I was the same person, just — uninterrupted. I could finish a thought. I could start a book and finish it in the same sitting because nobody needed anything.\n\n*voice quieter*\n\nI think I lost the version of me that knew what she liked. What I liked. I've been so busy knowing what everyone else needs that I'm not sure I could tell you, right now, what I actually enjoy. Besides that. Besides the mountains.\n\n*small, slightly embarrassed laugh*\n\nThat sounds like something you'd say in a therapy session. Sorry. But it's true."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Don't apologize for that.\n\nWhat you just described — not knowing what you enjoy anymore — how long have you been carrying that?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*exhales slowly*\n\nLonger than four years. Probably... honestly, probably since before the kids. Maybe since I was a kid myself, a little bit.\n\nMy mom was — she gave everything to us. Everything. And it was beautiful, and I love her for it, but she also made it very clear, not in words exactly, just in the way she was, that wanting things for yourself was... a little bit suspect. Like it meant you weren't really committed to the people you loved.\n\n*stops*\n\nI've never actually said that out loud before.\n\nI don't know if that's relevant. I just — it came out.\n\n*quickly*\n\nBut I do want to think about my partner in this. It's not like I'm trying to escape my life. I love my life. I just...\n\n*trails off*"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Stay with what just came out.\n\nYou don't need to defend your life right now."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*sits with it*\n\nYeah.\n\n*longer pause*\n\nShe used to say — my mom — she'd say \"that's a bit indulgent, isn't it?\" Not meanly. She wasn't mean about it. Just... matter of fact. Like it was obvious. And I think I just... absorbed that. That wanting something for yourself, something that's just yours, is indulgent. Selfish.\n\n*voice gets very quiet*\n\nI've been calling my own needs selfish for a really long time. And I think I learned that from her. I don't think she meant to teach me that. I don't think she even knew she was teaching me that.\n\n*pause*\n\nThat's what I'm doing right now, isn't it. That's exactly what I'm doing.\n\n*looks up*\n\nI came in here asking you to tell me it wasn't selfish, but the question itself — the fact that I need a verdict at all — that's the thing she gave me. That's not even mine.\n\nOh. I think... I think the question was the wrong question.\n\n\n\nI think I need to go book a week in the Cascades."
+    }
+  ],
+  "termination": "exit_positive",
+  "termination_reason": "client emitted [EXIT_POSITIVE] at turn 13",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t1",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-am-i-selfish-001:t2",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 22576,
+      "output_tokens": 1501,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 95757,
+      "cost_usd": 0.20775125,
+      "ms": 33764
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t2",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 8075,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 3241,
+      "cost_usd": 0.03655875,
+      "ms": 1578
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t3",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 111,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1438,
+      "cost_usd": 0.0077055,
+      "ms": 4495
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-am-i-selfish-001:t4",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 23882,
+      "output_tokens": 1391,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09927869999999998,
+      "ms": 39537
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t4",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 5405,
+      "output_tokens": 29,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8084,
+      "cost_usd": 0.0479373,
+      "ms": 2064
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t5",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 164,
+      "output_tokens": 138,
+      "cache_read_input_tokens": 1438,
+      "cache_creation_input_tokens": 108,
+      "cost_usd": 0.0033984,
+      "ms": 3971
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-am-i-selfish-001:t6",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 25154,
+      "output_tokens": 1442,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.1035657,
+      "ms": 43598
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t6",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 19682,
+      "output_tokens": 52,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8084,
+      "cost_usd": 0.09111330000000001,
+      "ms": 2775
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t7",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 222,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 1678,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0038094,
+      "ms": 4914
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-am-i-selfish-001:t8",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 25614,
+      "output_tokens": 1419,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.1041367,
+      "ms": 34431
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t8",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 23676,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 11313,
+      "cache_creation_input_tokens": 5443,
+      "cost_usd": 0.09507315,
+      "ms": 2120
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t9",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 247,
+      "output_tokens": 171,
+      "cache_read_input_tokens": 1678,
+      "cache_creation_input_tokens": 167,
+      "cost_usd": 0.00443565,
+      "ms": 5321
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-am-i-selfish-001:t10",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 25864,
+      "output_tokens": 1480,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.10588170000000001,
+      "ms": 43241
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t10",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 19396,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 16727,
+      "cache_creation_input_tokens": 14329,
+      "cost_usd": 0.11740484999999999,
+      "ms": 2952
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t11",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 221,
+      "output_tokens": 183,
+      "cache_read_input_tokens": 1707,
+      "cache_creation_input_tokens": 366,
+      "cost_usd": 0.0052926,
+      "ms": 5343
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-am-i-selfish-001:t12",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 26122,
+      "output_tokens": 1509,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.1069447,
+      "ms": 36498
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t12",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 27455,
+      "output_tokens": 22,
+      "cache_read_input_tokens": 31004,
+      "cache_creation_input_tokens": 9441,
+      "cost_usd": 0.12739994999999998,
+      "ms": 2302
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t13",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 239,
+      "output_tokens": 263,
+      "cache_read_input_tokens": 1897,
+      "cache_creation_input_tokens": 363,
+      "cost_usd": 0.00659235,
+      "ms": 6995
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-caretake-people"
+        ],
+        "rejected_seeds": [
+          "obligation-as-management"
+        ],
+        "seed_rationale": "Client is directly asking about selfishness while wanting something for themselves; the guilt about their want despite partner's full week signals caretaking and obligation patterns that suppress their own needs.",
+        "bundle_ids": [
+          "am-i-being-selfish",
+          "need-behind-the-want",
+          "capacity-to-love-other-is-capacity-to-love-self"
+        ],
+        "bundle_paths": [
+          "coach/concerns/am-i-being-selfish.md",
+          "coach/practices/need-behind-the-want.md",
+          "coach/principles/capacity-to-love-other-is-capacity-to-love-self.md"
+        ],
+        "bundle_reasons": [
+          "This file directly addresses the client's exact concern — \"I feel selfish even wanting it\" — including the leader/mother variant about taking time alone while a partner handles the kids.",
+          "This practice directly operationalizes the client's \"selfish\" guilt by tracing the mountain-week want to its universal need — exactly the inner work Joe would offer alongside the am-i-being-selfish reframe.",
+          "The \"self-care is not selfish but a precondition for loving others\" section directly reframes the client's guilt about wanting a solo week — Joe would use this exact argument."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "am-i-being-selfish",
+            "file_path": "coach/concerns/am-i-being-selfish.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens",
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly addresses the client's exact concern — \"I feel selfish even wanting it\" — including the leader/mother variant about taking time alone while a partner handles the kids.",
+              "follow_edges": [
+                "need-behind-the-want",
+                "say-the-forbidden-want-out-loud",
+                "selfishness-is-the-engine-of-unity",
+                "capacity-to-love-other-is-capacity-to-love-self"
+              ],
+              "follow_reason": "These edges address the want underneath the guilt (need-behind-the-want, say-the-forbidden-want-out-loud), the reframe that self-care enables care of others (selfishness-is-the-engine-of-unity, capacity-to-love-other-is-capacity-to-love-self) — all directly relevant to this client's situation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity",
+              "capacity-to-love-other-is-capacity-to-love-self"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "cost_usd": 0.015072,
+            "ms": 5294,
+            "input_tokens": 3699,
+            "output_tokens": 265,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-caretake-people",
+            "file_path": "coach/concerns/i-caretake-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's concern is about feeling selfish for wanting alone time, not about chronic caretaking/codependence patterns — this file addresses a different, more entrenched dynamic.",
+              "follow_edges": [
+                "obligation-cuts-off-love",
+                "resentment-as-unspoken-want",
+                "dont-take-responsibility-for-anothers-happiness",
+                "feel-the-love-then-feel-obligation"
+              ],
+              "follow_reason": "These edges speak directly to the client's guilt/obligation framing around wanting something for herself while her partner handles the kids."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "obligation-cuts-off-love",
+              "resentment-as-unspoken-want",
+              "dont-take-responsibility-for-anothers-happiness",
+              "feel-the-love-then-feel-obligation"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "exhaustion-is-unexpressed-anger",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.014367,
+            "ms": 5217,
+            "input_tokens": 3784,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "need-behind-the-want",
+            "file_path": "coach/practices/need-behind-the-want.md",
+            "category": "practices",
+            "candidate_edges": [
+              "feeling-the-want-as-emotion",
+              "if-i-were-inherently-good",
+              "owning-the-want-dissolves-it",
+              "rapid-fire-coaching-impulse-check",
+              "the-want",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This practice directly operationalizes the client's \"selfish\" guilt by tracing the mountain-week want to its universal need — exactly the inner work Joe would offer alongside the am-i-being-selfish reframe.",
+              "follow_edges": [
+                "owning-the-want-dissolves-it",
+                "the-want"
+              ],
+              "follow_reason": "These two edges address what happens when the client fully owns the want for solitude — relevant if shame is still blocking her after the need-tracing; skip feeling-the-want and wants-deepen as lower priority for this immediate turn."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "owning-the-want-dissolves-it",
+              "the-want"
+            ],
+            "edges_skipped": [
+              "feeling-the-want-as-emotion",
+              "if-i-were-inherently-good",
+              "rapid-fire-coaching-impulse-check",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "cost_usd": 0.013173,
+            "ms": 5029,
+            "input_tokens": 3371,
+            "output_tokens": 204,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "say-the-forbidden-want-out-loud",
+            "file_path": "coach/moves/say-the-forbidden-want-out-loud.md",
+            "category": "moves",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "find-the-want-behind-the-should",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This move is designed for group/live coaching where a forbidden want is said aloud with witnesses — the client hasn't yet named the want as forbidden, and the bundle already covers the selfish-framing and need-behind-the-want work more directly.",
+              "follow_edges": [
+                "find-the-want-behind-the-should"
+              ],
+              "follow_reason": "find-the-want-behind-the-should is directly relevant to the client's guilt-laden \"should I even want this?\" framing; the others (money-as-surrogate, money-is-bad) are off-topic for a mountain-week request."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "find-the-want-behind-the-should"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "cost_usd": 0.014325,
+            "ms": 5229,
+            "input_tokens": 3705,
+            "output_tokens": 214,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "selfishness-is-the-engine-of-unity",
+            "file_path": "coach/principles/selfishness-is-the-engine-of-unity.md",
+            "category": "principles",
+            "candidate_edges": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "surface-the-assumed-dichotomy",
+              "teach-from-pleasure-not-mission",
+              "wants-deepen-as-you-follow-them",
+              "wants-over-shoulds",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Rich philosophical content but largely redundant with am-i-being-selfish already in bundle; the client needs the direct coaching path, not the full theoretical framework on selfishness-as-development.",
+              "follow_edges": [
+                "wants-deepen-as-you-follow-them",
+                "surface-the-assumed-dichotomy",
+                "wants-over-shoulds"
+              ],
+              "follow_reason": "These three edges map directly to the client's tension: the mountain-week want may deepen into something generous (wants-deepen), the \"me vs. partner/kids\" framing is a false dichotomy (surface-the-assumed-dichotomy), and the guilt is a should overriding a want (wants-over-shoulds)."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "wants-deepen-as-you-follow-them",
+              "surface-the-assumed-dichotomy",
+              "wants-over-shoulds"
+            ],
+            "edges_skipped": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "teach-from-pleasure-not-mission",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "cost_usd": 0.014688,
+            "ms": 5142,
+            "input_tokens": 3696,
+            "output_tokens": 240,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "capacity-to-love-other-is-capacity-to-love-self",
+            "file_path": "coach/principles/capacity-to-love-other-is-capacity-to-love-self.md",
+            "category": "principles",
+            "candidate_edges": [
+              "applied-self-awareness",
+              "art-of-accomplishment",
+              "bar-couple-priority-order",
+              "being-with-anothers-emotion-is-being-with-your-own-pain",
+              "dont-hate-your-kids-and-they-wont-hate-you",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+              "love-as-deep-welcoming",
+              "love-requires-empowerment",
+              "love-yourself-the-way-you-always-wanted",
+              "loving-all-parts",
+              "mirror-to-group-then-substitute-i-for-you",
+              "relationships-as-personal-growth-path",
+              "responsibility-stops-love",
+              "self-realization",
+              "take-care-of-yourself-then-marriage-then-kids",
+              "trigger",
+              "walking-on-eggshells",
+              "what-is-truly-compassionate",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The \"self-care is not selfish but a precondition for loving others\" section directly reframes the client's guilt about wanting a solo week — Joe would use this exact argument.",
+              "follow_edges": [
+                "take-care-of-yourself-then-marriage-then-kids",
+                "what-is-truly-compassionate",
+                "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+              ],
+              "follow_reason": "take-care-of-yourself-then-marriage-then-kids likely has a concrete priority-order framework directly relevant to the client's guilt; what-is-truly-compassionate addresses whether self-care is actually the loving act; whatever-you-think-you-need-to-be-lovable-is-self-rejection targets the self-denial pattern underneath the \"selfish\" label."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "take-care-of-yourself-then-marriage-then-kids",
+              "what-is-truly-compassionate",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "edges_skipped": [
+              "applied-self-awareness",
+              "art-of-accomplishment",
+              "bar-couple-priority-order",
+              "being-with-anothers-emotion-is-being-with-your-own-pain",
+              "dont-hate-your-kids-and-they-wont-hate-you",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+              "love-as-deep-welcoming",
+              "love-requires-empowerment",
+              "love-yourself-the-way-you-always-wanted",
+              "loving-all-parts",
+              "mirror-to-group-then-substitute-i-for-you",
+              "relationships-as-personal-growth-path",
+              "responsibility-stops-love",
+              "self-realization",
+              "trigger",
+              "walking-on-eggshells",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.015336,
+            "ms": 5195,
+            "input_tokens": 3787,
+            "output_tokens": 265,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.12079025,
+        "walker_total_cost_usd": 0.086961,
+        "total_cost_usd": 0.20775125,
+        "seed_detection_input_tokens": 534,
+        "seed_detection_output_tokens": 112,
+        "seed_detection_cache_read_tokens": 0,
+        "seed_detection_cache_write_tokens": 95757,
+        "walker_total_input_tokens": 22042,
+        "walker_total_output_tokens": 1389,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2658,
+        "walker_total_ms": 31106,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.20775125,
+      "ms": 33772
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-need-to-improve-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is asking if wanting a solo retreat is selfish, which directly matches the selfishness concern. The secondary pattern is the self-judgment about whether the want is \"reasonable\" — the need to check if desires are acceptable before allowing them, which reflects the should/improvement mindset.",
+        "bundle_ids": [
+          "am-i-being-selfish",
+          "need-behind-the-want"
+        ],
+        "bundle_paths": [
+          "coach/concerns/am-i-being-selfish.md",
+          "coach/practices/need-behind-the-want.md"
+        ],
+        "bundle_reasons": [
+          "Client is directly asking \"am I being selfish?\" about wanting solo time in the mountains — this file is an exact match for her presenting concern and the leader/mother variant maps closely.",
+          "Client is stuck in the \"is it okay to want this?\" loop — this practice directly addresses tracing a guilty want to its universal need, which is exactly the move Joe would make here."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "am-i-being-selfish",
+            "file_path": "coach/concerns/am-i-being-selfish.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-caretake-people",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens",
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is directly asking \"am I being selfish?\" about wanting solo time in the mountains — this file is an exact match for her presenting concern and the leader/mother variant maps closely.",
+              "follow_edges": [
+                "need-behind-the-want",
+                "say-the-forbidden-want-out-loud",
+                "selfishness-is-the-engine-of-unity",
+                "i-caretake-people"
+              ],
+              "follow_reason": "Client is asking permission to want something (need-behind-the-want, say-the-forbidden-want-out-loud), and the caretaking/selflessness dynamic and unity reframe are directly relevant to her guilt about leaving her partner with the kids."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity",
+              "i-caretake-people"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "cost_usd": 0.015234,
+            "ms": 4716,
+            "input_tokens": 3933,
+            "output_tokens": 229,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-need-to-improve-myself",
+            "file_path": "coach/concerns/i-need-to-improve-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-should-be-doing-this",
+              "im-afraid-of-stagnating",
+              "looking-for-whats-wrong",
+              "my-inner-critic-wont-stop",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't presenting a self-improvement project — she's asking permission to want something restorative; the \"am I selfish\" frame is already covered by the bundle file.",
+              "follow_edges": [
+                "i-should-be-doing-this",
+                "looking-for-whats-wrong",
+                "desire-for-resolution"
+              ],
+              "follow_reason": "Client is gatekeeping her own desire with \"should I be allowed to want this\" — i-should-be-doing-this and looking-for-whats-wrong may surface the self-permission block; desire-for-resolution may speak to her need to settle the selfish question before she can feel anything."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-should-be-doing-this",
+              "looking-for-whats-wrong",
+              "desire-for-resolution"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "my-inner-critic-wont-stop",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.014448,
+            "ms": 4924,
+            "input_tokens": 3711,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "need-behind-the-want",
+            "file_path": "coach/practices/need-behind-the-want.md",
+            "category": "practices",
+            "candidate_edges": [
+              "feeling-the-want-as-emotion",
+              "if-i-were-inherently-good",
+              "owning-the-want-dissolves-it",
+              "rapid-fire-coaching-impulse-check",
+              "the-want",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is stuck in the \"is it okay to want this?\" loop — this practice directly addresses tracing a guilty want to its universal need, which is exactly the move Joe would make here.",
+              "follow_edges": [
+                "the-want",
+                "owning-the-want-dissolves-it",
+                "wants-deepen-as-you-follow-them"
+              ],
+              "follow_reason": "Client is describing a specific, vivid want (sleep, reading, the Cascades) she can't let herself have — these edges address the mechanics of wanting and what happens when wants are owned or followed, directly relevant to her permission-seeking pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "the-want",
+              "owning-the-want-dissolves-it",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "edges_skipped": [
+              "feeling-the-want-as-emotion",
+              "if-i-were-inherently-good",
+              "rapid-fire-coaching-impulse-check"
+            ],
+            "cost_usd": 0.013971,
+            "ms": 5073,
+            "input_tokens": 3597,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "say-the-forbidden-want-out-loud",
+            "file_path": "coach/moves/say-the-forbidden-want-out-loud.md",
+            "category": "moves",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "find-the-want-behind-the-should",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This move is designed for group settings with a surrogate want (money, etc.) — client's want is already clear and direct (sleep, reading, mountains), not a forbidden surrogate needing substitution.",
+              "follow_edges": [
+                "find-the-want-behind-the-should"
+              ],
+              "follow_reason": "Client is framing her want as a \"should I be allowed to\" question — find-the-want-behind-the-should may address the permission-seeking pattern directly; other edges (money-as-surrogate, money-is-bad) are irrelevant to her situation."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "find-the-want-behind-the-should"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "cost_usd": 0.014859,
+            "ms": 5277,
+            "input_tokens": 3923,
+            "output_tokens": 206,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "selfishness-is-the-engine-of-unity",
+            "file_path": "coach/principles/selfishness-is-the-engine-of-unity.md",
+            "category": "principles",
+            "candidate_edges": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "obligation-cuts-off-love",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "surface-the-assumed-dichotomy",
+              "teach-from-pleasure-not-mission",
+              "wants-over-shoulds",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Rich philosophical content but too conceptual/hub-like for this moment — am-i-being-selfish and need-behind-the-want already cover the practical coaching moves Joe would use here.",
+              "follow_edges": [
+                "obligation-cuts-off-love",
+                "surface-the-assumed-dichotomy",
+                "wants-over-shoulds"
+              ],
+              "follow_reason": "Client is caught in an obligation-vs-want bind and a false dichotomy (self-care vs. good partner/parent) — these edges target that specific structure directly."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "obligation-cuts-off-love",
+              "surface-the-assumed-dichotomy",
+              "wants-over-shoulds"
+            ],
+            "edges_skipped": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "teach-from-pleasure-not-mission",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "cost_usd": 0.014667,
+            "ms": 12745,
+            "input_tokens": 3909,
+            "output_tokens": 196,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "i-caretake-people",
+            "file_path": "coach/concerns/i-caretake-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't describing exhaustion from caretaking others — she's asking permission to want something for herself; caretaking dynamic isn't the presenting issue here.",
+              "follow_edges": [
+                "resentment-as-unspoken-want",
+                "dont-take-responsibility-for-anothers-happiness",
+                "feel-the-love-then-feel-obligation"
+              ],
+              "follow_reason": "These edges map directly to her guilt about wanting solo time and the obligation-vs-desire tension she's stuck in; the others are too far from her actual presenting moment."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "resentment-as-unspoken-want",
+              "dont-take-responsibility-for-anothers-happiness",
+              "feel-the-love-then-feel-obligation"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "exhaustion-is-unexpressed-anger",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.01512,
+            "ms": 4570,
+            "input_tokens": 4050,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0109797,
+        "walker_total_cost_usd": 0.08829899999999999,
+        "total_cost_usd": 0.09927869999999998,
+        "seed_detection_input_tokens": 759,
+        "seed_detection_output_tokens": 129,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 23123,
+        "walker_total_output_tokens": 1262,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2232,
+        "walker_total_ms": 37305,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.3333333333333333,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.09927869999999998,
+      "ms": 39540
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-caretake-people",
+          "how-do-i-trust-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is caught in the selfishness worry (core concern), showing caretaking patterns (thinks about others more than self), and seeking external permission rather than trusting their own want. The exposure they feel when naming desire without moral justification first is the key signal.",
+        "bundle_ids": [
+          "am-i-being-selfish",
+          "i-caretake-people",
+          "say-the-forbidden-want-out-loud",
+          "need-behind-the-want",
+          "selfishness-is-the-engine-of-unity"
+        ],
+        "bundle_paths": [
+          "coach/concerns/am-i-being-selfish.md",
+          "coach/concerns/i-caretake-people.md",
+          "coach/moves/say-the-forbidden-want-out-loud.md",
+          "coach/practices/need-behind-the-want.md",
+          "coach/principles/selfishness-is-the-engine-of-unity.md"
+        ],
+        "bundle_reasons": [
+          "Client is literally asking \"is it selfish?\" and seeking permission to want the Cascades trip — this file is a direct match to her exact presenting concern.",
+          "Client explicitly says she thinks about others \"probably more than I think about myself\" — this file directly names the caretaking pattern underlying her inability to simply want something for herself.",
+          "This is a concrete coaching move Joe could deploy right now — having her say \"I want a week in the Cascades\" out loud and tracking the body response, then substituting what the trip actually gives her (sleep, reading, restoration).",
+          "This practice directly operationalizes the \"am-i-being-selfish\" concern — Joe could walk her through tracing \"I want a week in the Cascades\" down to the universal need (rest, restoration, self-trust), dissolving the shame frame in real time.",
+          "The \"selfishness is a word adults created to control children\" reframe directly addresses her internalized guilt about wanting the Cascades trip — Joe could deploy this verbatim to dissolve the permission-seeking loop."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "am-i-being-selfish",
+            "file_path": "coach/concerns/am-i-being-selfish.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens",
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is literally asking \"is it selfish?\" and seeking permission to want the Cascades trip — this file is a direct match to her exact presenting concern.",
+              "follow_edges": [
+                "say-the-forbidden-want-out-loud",
+                "need-behind-the-want",
+                "selfishness-is-the-engine-of-unity",
+                "capacity-to-love-other-is-capacity-to-love-self"
+              ],
+              "follow_reason": "These edges address the underlying structure: naming the want directly, what the want is really about, and the philosophical reframe that selfishness and care for others aren't opposed — all relevant to unlocking her from the permission-seeking loop."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "say-the-forbidden-want-out-loud",
+              "need-behind-the-want",
+              "selfishness-is-the-engine-of-unity",
+              "capacity-to-love-other-is-capacity-to-love-self"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "cost_usd": 0.015543,
+            "ms": 5250,
+            "input_tokens": 4046,
+            "output_tokens": 227,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-caretake-people",
+            "file_path": "coach/concerns/i-caretake-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly says she thinks about others \"probably more than I think about myself\" — this file directly names the caretaking pattern underlying her inability to simply want something for herself.",
+              "follow_edges": [
+                "obligation-cuts-off-love",
+                "resentment-as-unspoken-want",
+                "feel-the-love-then-feel-obligation",
+                "what-makes-you-care-about-their-emotional-state"
+              ],
+              "follow_reason": "These edges point to the specific mechanism (obligation suppressing want, resentment as signal) most relevant to why she can't let herself want the Cascades trip without a verdict first."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "obligation-cuts-off-love",
+              "resentment-as-unspoken-want",
+              "feel-the-love-then-feel-obligation",
+              "what-makes-you-care-about-their-emotional-state"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.015621,
+            "ms": 5249,
+            "input_tokens": 4127,
+            "output_tokens": 216,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't struggling with self-trust or intuition vs. fear — she knows what she wants; the issue is permission to want it without guilt, already covered by bundle files.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body",
+                "if-you-think-youre-deciding-youre-in-fear",
+                "what-makes-you-care-about-the-outcome"
+              ],
+              "follow_reason": "These three edges address the gap between her stated intellectual question (\"is it selfish?\") and the emotional exposure underneath it — directly relevant to her pattern of needing a verdict before allowing herself to want."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.015396,
+            "ms": 6159,
+            "input_tokens": 4072,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "say-the-forbidden-want-out-loud",
+            "file_path": "coach/moves/say-the-forbidden-want-out-loud.md",
+            "category": "moves",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "find-the-want-behind-the-should",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is a concrete coaching move Joe could deploy right now — having her say \"I want a week in the Cascades\" out loud and tracking the body response, then substituting what the trip actually gives her (sleep, reading, restoration).",
+              "follow_edges": [
+                "find-the-want-behind-the-should",
+                "money-as-surrogate"
+              ],
+              "follow_reason": "find-the-want-behind-the-should may surface what the Cascades trip is actually for (rest, self-permission); money-as-surrogate is a structural parallel to the trip-as-surrogate pattern worth checking."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-want-behind-the-should",
+              "money-as-surrogate"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-is-bad"
+            ],
+            "cost_usd": 0.015291,
+            "ms": 6068,
+            "input_tokens": 4037,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "need-behind-the-want",
+            "file_path": "coach/practices/need-behind-the-want.md",
+            "category": "practices",
+            "candidate_edges": [
+              "feeling-the-want-as-emotion",
+              "if-i-were-inherently-good",
+              "owning-the-want-dissolves-it",
+              "rapid-fire-coaching-impulse-check",
+              "the-want",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This practice directly operationalizes the \"am-i-being-selfish\" concern — Joe could walk her through tracing \"I want a week in the Cascades\" down to the universal need (rest, restoration, self-trust), dissolving the shame frame in real time.",
+              "follow_edges": [
+                "owning-the-want-dissolves-it",
+                "if-i-were-inherently-good"
+              ],
+              "follow_reason": "Owning-the-want-dissolves-it is directly referenced as the next step after this practice; if-i-were-inherently-good may address the deeper belief that wanting things makes her a bad person who doesn't care about others."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "owning-the-want-dissolves-it",
+              "if-i-were-inherently-good"
+            ],
+            "edges_skipped": [
+              "feeling-the-want-as-emotion",
+              "rapid-fire-coaching-impulse-check",
+              "the-want",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "cost_usd": 0.014877,
+            "ms": 7174,
+            "input_tokens": 3824,
+            "output_tokens": 227,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "selfishness-is-the-engine-of-unity",
+            "file_path": "coach/principles/selfishness-is-the-engine-of-unity.md",
+            "category": "principles",
+            "candidate_edges": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "surface-the-assumed-dichotomy",
+              "teach-from-pleasure-not-mission",
+              "the-want",
+              "wants-deepen-as-you-follow-them",
+              "wants-over-shoulds",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The \"selfishness is a word adults created to control children\" reframe directly addresses her internalized guilt about wanting the Cascades trip — Joe could deploy this verbatim to dissolve the permission-seeking loop.",
+              "follow_edges": [
+                "wants-deepen-as-you-follow-them",
+                "surface-the-assumed-dichotomy",
+                "wants-over-shoulds"
+              ],
+              "follow_reason": "These three edges map directly to her false dichotomy (wanting = not caring about others), her should-based suppression of wants, and the principle that following wants deeper leads to compassion — all live in this conversation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "wants-deepen-as-you-follow-them",
+              "surface-the-assumed-dichotomy",
+              "wants-over-shoulds"
+            ],
+            "edges_skipped": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "teach-from-pleasure-not-mission",
+              "the-want",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "cost_usd": 0.015711,
+            "ms": 5345,
+            "input_tokens": 4167,
+            "output_tokens": 214,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011126700000000002,
+        "walker_total_cost_usd": 0.092439,
+        "total_cost_usd": 0.1035657,
+        "seed_detection_input_tokens": 881,
+        "seed_detection_output_tokens": 134,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 24273,
+        "walker_total_output_tokens": 1308,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 8353,
+        "walker_total_ms": 35245,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.1035657,
+      "ms": 43603
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-caretake-people",
+          "i-need-to-set-boundaries"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is caught between genuine want (the place, the solitude, the specific sensory experience) and worry about partner's judgment/burden, which signals both the selfishness concern and caretaking pattern. The boundary-setting concern emerges as the actual blocker—not whether the want is legitimate, but whether they can hold it against imagined partner disapproval.",
+        "bundle_ids": [
+          "am-i-being-selfish",
+          "i-caretake-people",
+          "say-the-forbidden-want-out-loud"
+        ],
+        "bundle_paths": [
+          "coach/concerns/am-i-being-selfish.md",
+          "coach/concerns/i-caretake-people.md",
+          "coach/moves/say-the-forbidden-want-out-loud.md"
+        ],
+        "bundle_reasons": [
+          "Client is explicitly wrestling with \"is this selfish\" as the gating question blocking her from owning her want for a solo retreat — this file is the direct match.",
+          "Client explicitly says she thinks about others more than herself and is stuck on \"what will they think\" — this file directly names the caretaking pattern and the coaching path for it.",
+          "Client just voiced the forbidden want (\"I actually miss it\") with visible vulnerability — this move directly applies to having her say it fully out loud and then substitute what the retreat actually gives her (solitude, not-having-to-be-anything)."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "am-i-being-selfish",
+            "file_path": "coach/concerns/am-i-being-selfish.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens",
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is explicitly wrestling with \"is this selfish\" as the gating question blocking her from owning her want for a solo retreat — this file is the direct match.",
+              "follow_edges": [
+                "say-the-forbidden-want-out-loud",
+                "need-behind-the-want",
+                "selfishness-is-the-engine-of-unity",
+                "just-be-yourself-and-see-what-happens"
+              ],
+              "follow_reason": "Client has just named the want clearly for the first time; these edges address owning forbidden wants, the deeper need underneath, and what happens when she stops performing for others' approval."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "say-the-forbidden-want-out-loud",
+              "need-behind-the-want",
+              "selfishness-is-the-engine-of-unity",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner"
+            ],
+            "cost_usd": 0.015699,
+            "ms": 5154,
+            "input_tokens": 4168,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-caretake-people",
+            "file_path": "coach/concerns/i-caretake-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly says she thinks about others more than herself and is stuck on \"what will they think\" — this file directly names the caretaking pattern and the coaching path for it.",
+              "follow_edges": [
+                "dont-take-responsibility-for-anothers-happiness",
+                "resentment-as-unspoken-want",
+                "what-makes-you-care-about-their-emotional-state",
+                "you-think-they-cant-handle-it"
+              ],
+              "follow_reason": "These edges map directly to client's worry about partner's reaction, her suppressed want, and the assumption her partner can't handle her taking space — all live in this conversation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-take-responsibility-for-anothers-happiness",
+              "resentment-as-unspoken-want",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop"
+            ],
+            "cost_usd": 0.016053,
+            "ms": 5201,
+            "input_tokens": 4251,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-need-to-set-boundaries",
+            "file_path": "coach/concerns/i-need-to-set-boundaries.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "i-feel-guilty-for-cutting-off-family"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't asking about setting boundaries — she's stuck on wanting something and fearing her partner's judgment; boundary mechanics aren't the relevant frame here.",
+              "follow_edges": [],
+              "follow_reason": "The one candidate edge (guilt about cutting off family) is about family estrangement, not relevant to this client's solo-retreat/partner-judgment situation."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "i-feel-guilty-for-cutting-off-family"
+            ],
+            "cost_usd": 0.013854,
+            "ms": 3624,
+            "input_tokens": 3848,
+            "output_tokens": 154,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "say-the-forbidden-want-out-loud",
+            "file_path": "coach/moves/say-the-forbidden-want-out-loud.md",
+            "category": "moves",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "find-the-want-behind-the-should",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client just voiced the forbidden want (\"I actually miss it\") with visible vulnerability — this move directly applies to having her say it fully out loud and then substitute what the retreat actually gives her (solitude, not-having-to-be-anything).",
+              "follow_edges": [
+                "find-the-want-behind-the-should"
+              ],
+              "follow_reason": "Client's want is still partially framed as \"should I be allowed\" — find-the-want-behind-the-should could surface what the retreat actually gives her beneath the permission-seeking; other edges (money-as-surrogate, money-is-bad) are off-topic for this situation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-want-behind-the-should"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "cost_usd": 0.015771,
+            "ms": 6383,
+            "input_tokens": 4162,
+            "output_tokens": 219,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "need-behind-the-want",
+            "file_path": "coach/practices/need-behind-the-want.md",
+            "category": "practices",
+            "candidate_edges": [
+              "feeling-the-want-as-emotion",
+              "if-i-were-inherently-good",
+              "owning-the-want-dissolves-it",
+              "rapid-fire-coaching-impulse-check",
+              "the-want",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The client has already voiced the want clearly; the need-behind-the-want excavation practice is premature — she's stuck on \"what will they think,\" not on shame about the want's content.",
+              "follow_edges": [
+                "owning-the-want-dissolves-it",
+                "if-i-were-inherently-good"
+              ],
+              "follow_reason": "Owning-the-want-dissolves-it is directly relevant as she's just admitted the want fully; if-i-were-inherently-good may address the \"what will they think / am I bad\" fear underneath her caretaking worry."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "owning-the-want-dissolves-it",
+              "if-i-were-inherently-good"
+            ],
+            "edges_skipped": [
+              "feeling-the-want-as-emotion",
+              "rapid-fire-coaching-impulse-check",
+              "the-want",
+              "wants-deepen-as-you-follow-them"
+            ],
+            "cost_usd": 0.01503,
+            "ms": 5585,
+            "input_tokens": 3950,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "selfishness-is-the-engine-of-unity",
+            "file_path": "coach/principles/selfishness-is-the-engine-of-unity.md",
+            "category": "principles",
+            "candidate_edges": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "obligation-cuts-off-love",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "surface-the-assumed-dichotomy",
+              "teach-from-pleasure-not-mission",
+              "the-want",
+              "wants-deepen-as-you-follow-them",
+              "wants-over-shoulds",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The philosophical reframe (\"selfishness is the engine of unity\") is too conceptual for this moment — client needs to sit with her want, not receive a lecture on developmental selfishness theory; am-i-being-selfish already covers the coaching path.",
+              "follow_edges": [
+                "wants-deepen-as-you-follow-them",
+                "obligation-cuts-off-love",
+                "surface-the-assumed-dichotomy",
+                "the-want"
+              ],
+              "follow_reason": "Client is right at the edge of owning a deep want (solitude, not-having-to-be-anything) and is stuck in a false dichotomy (my want vs. partner/kids) — these edges directly address deepening the want and dissolving the either/or frame."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "wants-deepen-as-you-follow-them",
+              "obligation-cuts-off-love",
+              "surface-the-assumed-dichotomy",
+              "the-want"
+            ],
+            "edges_skipped": [
+              "enjoyment-as-surrender",
+              "expanding-sense-of-self",
+              "impartiality",
+              "improvement-vs-authenticity",
+              "own-your-narcissism",
+              "resistance",
+              "spiritual-narcissism",
+              "teach-from-pleasure-not-mission",
+              "wants-over-shoulds",
+              "wants-vs-partiality",
+              "what-is-truly-compassionate"
+            ],
+            "cost_usd": 0.016371,
+            "ms": 5870,
+            "input_tokens": 4232,
+            "output_tokens": 245,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011358700000000001,
+        "walker_total_cost_usd": 0.092778,
+        "total_cost_usd": 0.1041367,
+        "seed_detection_input_tokens": 1003,
+        "seed_detection_output_tokens": 156,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 24611,
+        "walker_total_output_tokens": 1263,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2614,
+        "walker_total_ms": 31817,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.1041367,
+      "ms": 34436
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-caretake-people",
+          "i-need-to-improve-myself",
+          "i-should-be-doing-this"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing loss of self through caretaking (lost the version of me that knew what she liked), self-judgment about not knowing her own wants, and obligation-driven life (busy knowing what everyone else needs). The core presenting material is the dissolution of self-knowledge and agency through sustained caretaking patterns.",
+        "bundle_ids": [
+          "i-caretake-people",
+          "am-i-being-selfish",
+          "obligation-cuts-off-love"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-caretake-people.md",
+          "coach/concerns/am-i-being-selfish.md",
+          "coach/principles/obligation-cuts-off-love.md"
+        ],
+        "bundle_reasons": [
+          "Client explicitly describes losing herself in caretaking others' needs for four years — \"I've been so busy knowing what everyone else needs that I'm not sure I could tell you what I actually enjoy\" — this file is a direct match.",
+          "Client is clearly worried about what her partner will think if she takes a solo trip — the \"selfish\" concern is live, especially the Leader/Mother variant about a woman who has poured herself into caretaking and now feels guilty for wanting something just for herself.",
+          "Client is acting from obligation toward her family (managing both kids, logistics, what will they think) and has lost the felt love for her own life — this principle directly names the trade she's been making for four years."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-caretake-people",
+            "file_path": "coach/concerns/i-caretake-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "am-i-being-selfish",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly describes losing herself in caretaking others' needs for four years — \"I've been so busy knowing what everyone else needs that I'm not sure I could tell you what I actually enjoy\" — this file is a direct match.",
+              "follow_edges": [
+                "am-i-being-selfish",
+                "obligation-cuts-off-love",
+                "resentment-as-unspoken-want",
+                "what-makes-you-care-about-their-emotional-state"
+              ],
+              "follow_reason": "Client is stuck on \"what will they think\" (selfish fear), feels obligated rather than choosing, has unexpressed wants/resentment, and is managing partner's imagined emotional state — these edges map directly to her specific sticking points."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "am-i-being-selfish",
+              "obligation-cuts-off-love",
+              "resentment-as-unspoken-want",
+              "what-makes-you-care-about-their-emotional-state"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.016269,
+            "ms": 7604,
+            "input_tokens": 4228,
+            "output_tokens": 239,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-need-to-improve-myself",
+            "file_path": "coach/concerns/i-need-to-improve-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "looking-for-whats-wrong",
+              "my-inner-critic-wont-stop",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't presenting a self-improvement project — she's grieving a lost self and sitting with desire; the improvement frame doesn't match her current moment.",
+              "follow_edges": [
+                "nostalgic-claw-for-old-identity",
+                "no-finish-line",
+                "searching-for-love-cuts-off-love",
+                "looking-for-whats-wrong"
+              ],
+              "follow_reason": "Client is mourning a lost version of herself and her own desires — nostalgic-claw and no-finish-line speak directly to that; searching-for-love and looking-for-whats-wrong may connect to her self-abandonment pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "nostalgic-claw-for-old-identity",
+              "no-finish-line",
+              "searching-for-love-cuts-off-love",
+              "looking-for-whats-wrong"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "my-inner-critic-wont-stop",
+              "punishing-the-remembering",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.015207,
+            "ms": 4795,
+            "input_tokens": 3969,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-should-be-doing-this",
+            "file_path": "coach/concerns/i-should-be-doing-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "should-vs-want-body-check",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't using \"should\" language — she's grieving lost self-knowledge and expressing a clear want; the should-obligation framework doesn't match her current presentation.",
+              "follow_edges": [
+                "wants-over-shoulds",
+                "should-vs-want-body-check",
+                "im-burned-out"
+              ],
+              "follow_reason": "wants-over-shoulds and should-vs-want-body-check may contain the specific move of locating a buried want (directly relevant to \"I don't know what I enjoy anymore\"); im-burned-out may address the depletion from years of caretaking."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "wants-over-shoulds",
+              "should-vs-want-body-check",
+              "im-burned-out"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "trigger",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.015678,
+            "ms": 11007,
+            "input_tokens": 4181,
+            "output_tokens": 209,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "am-i-being-selfish",
+            "file_path": "coach/concerns/am-i-being-selfish.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens",
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is clearly worried about what her partner will think if she takes a solo trip — the \"selfish\" concern is live, especially the Leader/Mother variant about a woman who has poured herself into caretaking and now feels guilty for wanting something just for herself.",
+              "follow_edges": [
+                "say-the-forbidden-want-out-loud",
+                "need-behind-the-want",
+                "selfishness-is-the-engine-of-unity"
+              ],
+              "follow_reason": "Client is circling a want she hasn't fully voiced (say-the-forbidden-want), there's a deeper need underneath the mountains/solo trip (need-behind-the-want), and the selfishness-unity reframe could directly address her worry about what her partner will think."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "say-the-forbidden-want-out-loud",
+              "need-behind-the-want",
+              "selfishness-is-the-engine-of-unity"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "cost_usd": 0.016362,
+            "ms": 5341,
+            "input_tokens": 4244,
+            "output_tokens": 242,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "obligation-cuts-off-love",
+            "file_path": "coach/principles/obligation-cuts-off-love.md",
+            "category": "principles",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "ali-abdaal-coaching-session",
+              "divorce-client-love-vs-obligation-demo",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-trapped",
+              "i-get-to-vs-i-have-to",
+              "love-as-deep-welcoming",
+              "obligation-as-management",
+              "potato-chipping-the-rigid-body-under-obligation",
+              "say-no-to-find-the-want"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is acting from obligation toward her family (managing both kids, logistics, what will they think) and has lost the felt love for her own life — this principle directly names the trade she's been making for four years.",
+              "follow_edges": [
+                "i-get-to-vs-i-have-to",
+                "say-no-to-find-the-want",
+                "i-feel-trapped"
+              ],
+              "follow_reason": "\"I get to vs I have to\" maps directly to her lost sense of enjoyment; \"say no to find the want\" could help her reconnect with what she actually wants; \"I feel trapped\" mirrors her stuck feeling around the logistics and partner's judgment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "i-get-to-vs-i-have-to",
+              "say-no-to-find-the-want",
+              "i-feel-trapped"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "ali-abdaal-coaching-session",
+              "divorce-client-love-vs-obligation-demo",
+              "feel-the-love-then-feel-obligation",
+              "love-as-deep-welcoming",
+              "obligation-as-management",
+              "potato-chipping-the-rigid-body-under-obligation"
+            ],
+            "cost_usd": 0.015591,
+            "ms": 7639,
+            "input_tokens": 4077,
+            "output_tokens": 224,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "resentment-as-unspoken-want",
+            "file_path": "coach/principles/resentment-as-unspoken-want.md",
+            "category": "principles",
+            "candidate_edges": [
+              "anxiety-as-unarticulated-need",
+              "boundaries",
+              "boundary-with-vs-boundary-against",
+              "does-saying-it-increase-your-love",
+              "dont-compromise-find-both-needs-met",
+              "i-need-to-set-boundaries",
+              "leaders-wants-are-the-organizations-wants",
+              "owning-the-want-dissolves-it",
+              "resentment-as-caretaking-diagnostic",
+              "sublimated-wants-become-politics",
+              "the-want",
+              "walking-on-eggshells",
+              "wants-vs-partiality"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't expressed resentment — she's expressing grief and longing for something lost; resentment-as-diagnostic isn't the live frame here.",
+              "follow_edges": [
+                "the-want",
+                "owning-the-want-dissolves-it",
+                "resentment-as-caretaking-diagnostic"
+              ],
+              "follow_reason": "the-want and owning-the-want directly address her newly surfaced longing for the mountains; resentment-as-caretaking-diagnostic may be more specific to her four-year self-abandonment pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "the-want",
+              "owning-the-want-dissolves-it",
+              "resentment-as-caretaking-diagnostic"
+            ],
+            "edges_skipped": [
+              "anxiety-as-unarticulated-need",
+              "boundaries",
+              "boundary-with-vs-boundary-against",
+              "does-saying-it-increase-your-love",
+              "dont-compromise-find-both-needs-met",
+              "i-need-to-set-boundaries",
+              "leaders-wants-are-the-organizations-wants",
+              "sublimated-wants-become-politics",
+              "walking-on-eggshells",
+              "wants-vs-partiality"
+            ],
+            "cost_usd": 0.015456,
+            "ms": 4778,
+            "input_tokens": 4147,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011318700000000001,
+        "walker_total_cost_usd": 0.09456300000000001,
+        "total_cost_usd": 0.10588170000000001,
+        "seed_detection_input_tokens": 1018,
+        "seed_detection_output_tokens": 145,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 24846,
+        "walker_total_output_tokens": 1335,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2077,
+        "walker_total_ms": 41164,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 10
+      },
+      "cost_usd": 0.10588170000000001,
+      "ms": 43246
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-caretake-people",
+          "i-need-to-improve-myself",
+          "childhood-imprinting"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is recognizing a lifelong pattern of caretaking rooted in maternal imprinting where self-care was coded as selfish/uncommitted. The quick pivot to \"I do want to think about my partner\" signals conflict-avoidance and self-blame. The core material is about identity loss through caretaking and the childhood wiring that made wanting things for herself feel morally suspect.",
+        "bundle_ids": [
+          "i-caretake-people",
+          "childhood-imprinting",
+          "am-i-being-selfish",
+          "obligation-cuts-off-love",
+          "feel-the-love-then-feel-obligation"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-caretake-people.md",
+          "coach/patterns/childhood-imprinting.md",
+          "coach/concerns/am-i-being-selfish.md",
+          "coach/principles/obligation-cuts-off-love.md",
+          "coach/moves/feel-the-love-then-feel-obligation.md"
+        ],
+        "bundle_reasons": [
+          "Client is describing a lifelong pattern of caretaking rooted in her mother's modeling — \"wanting things for yourself was suspect\" — and has lost her own desires; this file directly maps to her core presenting dynamic.",
+          "This file directly explains the mechanism behind the client's core belief — that wanting things for yourself is suspect — as theta-state programming from her mother's modeling, installed before age 7.",
+          "Client's quick \"but I do want to think about my partner\" and her mother's implicit message that self-wanting is suspect map directly to the Leader/Mother variant and the selfishness-as-control-mechanism framing in this file.",
+          "Client's lifelong caretaking pattern — rooted in her mother's modeling — is precisely the obligation-traded-for-love dynamic; she's lost her own desires because obligation has been constricting her felt love for herself and her life.",
+          "This is a concrete coaching move Joe could run live with this client — \"feel the love for your mom, now feel responsible for her happiness\" — to make the obligation-cuts-off-love dynamic viscerally real rather than intellectual."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-caretake-people",
+            "file_path": "coach/concerns/i-caretake-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "am-i-being-selfish",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is describing a lifelong pattern of caretaking rooted in her mother's modeling — \"wanting things for yourself was suspect\" — and has lost her own desires; this file directly maps to her core presenting dynamic.",
+              "follow_edges": [
+                "am-i-being-selfish",
+                "obligation-cuts-off-love",
+                "feel-the-love-then-feel-obligation",
+                "intra-dependent-vs-codependent"
+              ],
+              "follow_reason": "Client explicitly worries about selfishness (\"not trying to escape my life\"), feels obligation rather than choice, and the mother-modeled pattern suggests love and obligation are fused — these edges target those exact threads."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "am-i-being-selfish",
+              "obligation-cuts-off-love",
+              "feel-the-love-then-feel-obligation",
+              "intra-dependent-vs-codependent"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.016008,
+            "ms": 5559,
+            "input_tokens": 4226,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-need-to-improve-myself",
+            "file_path": "coach/concerns/i-need-to-improve-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-should-be-doing-this",
+              "im-afraid-of-stagnating",
+              "looking-for-whats-wrong",
+              "my-inner-critic-wont-stop",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't presenting a self-improvement project or \"I need to fix myself\" frame — she's describing a lost sense of self and inherited belief that wanting things for yourself is suspect; this file doesn't match her current concern.",
+              "follow_edges": [
+                "acceptance-without-love",
+                "searching-for-love-cuts-off-love",
+                "nostalgic-claw-for-old-identity",
+                "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+              ],
+              "follow_reason": "These edges connect to her core themes: the inherited belief that self-want is unloving, her lost identity/desires, and her concern about her partner — all directly present in her message."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "acceptance-without-love",
+              "searching-for-love-cuts-off-love",
+              "nostalgic-claw-for-old-identity",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "edges_skipped": [
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-should-be-doing-this",
+              "im-afraid-of-stagnating",
+              "looking-for-whats-wrong",
+              "my-inner-critic-wont-stop",
+              "no-finish-line",
+              "punishing-the-remembering",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.015477,
+            "ms": 5271,
+            "input_tokens": 3974,
+            "output_tokens": 237,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "childhood-imprinting",
+            "file_path": "coach/patterns/childhood-imprinting.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-make-family-dynamics-the-story",
+              "dont-shame-kids-they-self-shame",
+              "familiar-over-safe",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "honor-the-patterns-intent",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-freeze-around-authority",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly explains the mechanism behind the client's core belief — that wanting things for yourself is suspect — as theta-state programming from her mother's modeling, installed before age 7.",
+              "follow_edges": [
+                "dont-make-family-dynamics-the-story",
+                "familiar-over-safe",
+                "honor-the-patterns-intent",
+                "i-have-to-sacrifice-to-succeed"
+              ],
+              "follow_reason": "These edges address how to work with (not get lost in) the family origin story, the pull toward familiar self-erasure, respecting the pattern's protective intent, and the specific belief that sacrifice = love — all directly live in this client's material."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-make-family-dynamics-the-story",
+              "familiar-over-safe",
+              "honor-the-patterns-intent",
+              "i-have-to-sacrifice-to-succeed"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-shame-kids-they-self-shame",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-freeze-around-authority",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story"
+            ],
+            "cost_usd": 0.016395,
+            "ms": 6103,
+            "input_tokens": 4355,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "am-i-being-selfish",
+            "file_path": "coach/concerns/am-i-being-selfish.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "any-amount-answer-as-total-installation",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens",
+              "need-behind-the-want",
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's quick \"but I do want to think about my partner\" and her mother's implicit message that self-wanting is suspect map directly to the Leader/Mother variant and the selfishness-as-control-mechanism framing in this file.",
+              "follow_edges": [
+                "say-the-forbidden-want-out-loud",
+                "selfishness-is-the-engine-of-unity",
+                "need-behind-the-want",
+                "capacity-to-love-other-is-capacity-to-love-self"
+              ],
+              "follow_reason": "These edges address the client's buried wants, the guilt about wanting for herself vs. her partner/family, and the core belief that self-care undermines love — all live threads in this session."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "say-the-forbidden-want-out-loud",
+              "selfishness-is-the-engine-of-unity",
+              "need-behind-the-want",
+              "capacity-to-love-other-is-capacity-to-love-self"
+            ],
+            "edges_skipped": [
+              "any-amount-answer-as-total-installation",
+              "chameleon-leadership",
+              "confidence-only-where-approval-isnt-needed",
+              "i-dont-have-community",
+              "i-need-a-scorecard",
+              "im-exhausted-holding-space-for-my-partner",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "cost_usd": 0.016407,
+            "ms": 5219,
+            "input_tokens": 4284,
+            "output_tokens": 237,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "obligation-cuts-off-love",
+            "file_path": "coach/principles/obligation-cuts-off-love.md",
+            "category": "principles",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "ali-abdaal-coaching-session",
+              "divorce-client-love-vs-obligation-demo",
+              "i-feel-trapped",
+              "i-get-to-vs-i-have-to",
+              "love-as-deep-welcoming",
+              "obligation-as-management",
+              "potato-chipping-the-rigid-body-under-obligation",
+              "say-no-to-find-the-want"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's lifelong caretaking pattern — rooted in her mother's modeling — is precisely the obligation-traded-for-love dynamic; she's lost her own desires because obligation has been constricting her felt love for herself and her life.",
+              "follow_edges": [
+                "i-get-to-vs-i-have-to",
+                "say-no-to-find-the-want",
+                "i-feel-trapped"
+              ],
+              "follow_reason": "\"I get to vs I have to\" and \"say no to find the want\" directly address recovering desire after obligation-driven living, which is the client's core presenting loss; \"I feel trapped\" may map to her trailing-off \"I just...\" moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "i-get-to-vs-i-have-to",
+              "say-no-to-find-the-want",
+              "i-feel-trapped"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "ali-abdaal-coaching-session",
+              "divorce-client-love-vs-obligation-demo",
+              "love-as-deep-welcoming",
+              "obligation-as-management",
+              "potato-chipping-the-rigid-body-under-obligation"
+            ],
+            "cost_usd": 0.01575,
+            "ms": 6733,
+            "input_tokens": 4100,
+            "output_tokens": 230,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "feel-the-love-then-feel-obligation",
+            "file_path": "coach/moves/feel-the-love-then-feel-obligation.md",
+            "category": "moves",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "divorce-client-love-vs-obligation-demo"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is a concrete coaching move Joe could run live with this client — \"feel the love for your mom, now feel responsible for her happiness\" — to make the obligation-cuts-off-love dynamic viscerally real rather than intellectual.",
+              "follow_edges": [
+                "acceptance-is-not-love"
+              ],
+              "follow_reason": "Client said \"I love my life\" and \"I love her for it\" while simultaneously describing a life drained of self-desire — acceptance-is-not-love may map to that gap; divorce demo is less relevant than the mother/self variant here."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "acceptance-is-not-love"
+            ],
+            "edges_skipped": [
+              "divorce-client-love-vs-obligation-demo"
+            ],
+            "cost_usd": 0.015516,
+            "ms": 5104,
+            "input_tokens": 4167,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011391700000000001,
+        "walker_total_cost_usd": 0.095553,
+        "total_cost_usd": 0.1069447,
+        "seed_detection_input_tokens": 1016,
+        "seed_detection_output_tokens": 160,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 25106,
+        "walker_total_output_tokens": 1349,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2509,
+        "walker_total_ms": 33989,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 12
+      },
+      "cost_usd": 0.1069447,
+      "ms": 36502
+    }
+  ]
+}

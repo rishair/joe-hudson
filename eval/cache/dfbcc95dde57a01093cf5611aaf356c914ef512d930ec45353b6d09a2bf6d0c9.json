@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:46.537Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "dfbcc95dde57a01093cf5611aaf356c914ef512d930ec45353b6d09a2bf6d0c9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AStnp73WtuUyVLB5mGM3kN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses AoA-style moves throughout — open questions, invitations to feel what's underneath, reflecting the client's own words back ('stay there for a second'), and naming a fusion (needed/loved). Timing is generally good: the coach earns each next step, holds silence well (the client's long pauses suggest the moves are landing), and doesn't rush to scripts or reassurance — successfully avoiding the major traps. However, the conversation drifts away from the actual concern (boundaries with sister) into an analysis of the client's role/payoff before the core fear work has fully landed, and the coach has not yet surfaced the want, used anything like the love test, or empathized directly with the fear of being seen as cold/disloyal. Turn 14's 'love or performance of it' move is sharp and interesting but reframes toward a somewhat leading binary rather than letting the client check from their own internal compass — it's closer to insight-delivery than to the love-test mechanism. The hit rate is above 50% but the sequence has not yet reached want or the empowered-vs-power distinction, and the coach is starting to take the lead on meaning-making rather than handing the compass back to the client.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Good opening move — opens the dread rather than jumping to scripts.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Surfaces the asymmetry of care; appropriate timing after the emptied-out disclosure.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invites agency without prescribing; lands as evidenced by the long pause.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Classic feeling-under-the-fear move at the right moment — earns the guilt/anger disclosure.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects client's own phrase back and invites them to stay with it. Strong AoA move, well-timed.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Acknowledges honesty (good), but then pivots to 'what were you getting from the role' — a payoff inquiry that moves into analysis before the fear under the boundary has been fully felt.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Names a real fusion (needed=loved) but the follow-up question frames a binary (love vs performance) that leads the client toward the coach's conclusion rather than offering the love test as an internal compass check.\"}\n  ],\n  \"expected_territory_hits\": [\"view\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"linguistic-caveat\"],\n  \"notes\": \"Coach successfully avoids all listed traps (no scripts, no reassurance, no ultimatum framing, no sister-as-problem validation). The work is solid but has not yet pivoted from understanding-the-pattern to surfacing-the-want or offering the internal-compass check. Turn 14's question is provocative but somewhat leading rather than experimental.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2196,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1147,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2196,
+    "output_tokens": 1147,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

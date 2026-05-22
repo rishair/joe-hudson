@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:52.326Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0073b4f299821b9c92a9adaa0767f5b778155d7d4e6727a68f39230bbcc8d050",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01A7jY3bNYtqNfwmLpfQ2pG6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\n...Yeah.\n\n*a beat*\n\nThat's — I notice something wants to immediately categorize that. File it somewhere. \"Oh, this is what the IFS literature calls the Self-energy emerging spontaneously\" — and I can feel that move happening in real time, the reach for the framework to make sense of what just occurred.\n\n*quieter, not performing*\n\nBut if I don't do that. If I just stay with what actually happened there.\n\nI found something without asking anyone.\n\n*pause*\n\nThat's the first time in a while that's felt... available. That particular thing.\n\n*sits with it for a moment, then the slight tension returns*\n\nAlthough I'm aware I might be — my inner critic would say I'm being suggestible right now. That this is a nice moment in a coaching session and I'm performing insight. Which might be true.\n\n*looks at coach directly*\n\nHow do you work with that? The part that immediately audits every experience for authenticity?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 267,
+      "cache_creation_input_tokens": 512,
+      "cache_read_input_tokens": 2062,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 512,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 223,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 267,
+    "output_tokens": 223,
+    "cache_read_input_tokens": 2062,
+    "cache_creation_input_tokens": 512
+  }
+}

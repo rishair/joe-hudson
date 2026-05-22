@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:33.225Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6d97daece3ae0c5c4386115d813c222fe4d5ddf757a2f52354a87b2c0a2b5c8d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01824UJUqFyXXLWxxzWpDkGv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"It's probably fine, it's probably nothing\" — and then you immediately changed the subject.\n\nWhat's the worst version of what Thursday could be?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20042,
+      "cache_creation_input_tokens": 8810,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8810,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20042,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8810
+  }
+}

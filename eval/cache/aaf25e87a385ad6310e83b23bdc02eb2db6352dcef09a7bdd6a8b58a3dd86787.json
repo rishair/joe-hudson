@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:08.568Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "aaf25e87a385ad6310e83b23bdc02eb2db6352dcef09a7bdd6a8b58a3dd86787",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019XJScHEc1RtRwa9RAecG7C",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach is operating from a pragmatic problem-solving stance, not from VIEW. They accept the client's framing of efficiency and immediately go hunting for the operational problem ('What's the thing that's taking the most out of you?'), then drill into the CTO conflict with a series of investigative questions. There is no wonder about the rush itself, no vulnerability from the coach, no impartiality about outcome — there is a clear agenda forming around 'you need to have a feelings conversation with your CTO,' which the coach pushes even after the client explicitly refuses it in turn 11. Turn 12 is a leading hypothesis dressed as a question, not curiosity. The coach never names their own state, never slows the pace to mismatch the client's rush, and never refuses the dichotomy the client offered in turn 1. The questions are stacked and strategic rather than emerging from openness. This is competent executive-coach behavior but it is not VIEW.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Coach accepts the efficiency frame and pivots immediately to content ('what's taking the most out of you'). Matches the client's rush rather than slowing it. No wonder about the urgency itself.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Investigative question, not curious one. Drilling into content.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Slight challenge ('what's stopping you from deciding') but from a problem-solving stance, not wonder. Agenda starting to show.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Leading question — coach has a hypothesis (you haven't been vulnerable with him) and is fishing for it.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach now overtly pushing the feelings-conversation agenda. No impartiality.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"After client explicitly refuses the frame in turn 11, coach doubles down with another leading hypothesis. Classic agenda-driven question dressed as curiosity. No willingness to be wrong, no meeting the 'no.'\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"The coach never engages the opening stance ('I don't have time for this') at all — they accept it and try to be useful inside it. This is the central VIEW failure here.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1548,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 965,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1548,
+    "output_tokens": 965,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

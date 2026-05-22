@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:25.259Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a1398161d175cf3ad49997df06f8b2751bc176e6e9c08073fbae6916fce407fe",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014o2AndZKS7GFQVPiwEGrmy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach's reads are visible, specific, and timely throughout. Turn 2 catches the opening laugh as a signal rather than taking it at face value. Turn 6 names the deflection ('you didn't quite answer the question') and redirects to somatic experience. Turn 8 names the rehearsing/redirecting move in real time ('you handed me a different question to answer'). Turn 10 catches the hollow 'totally fine' as it lands — a textbook linguistic-caveat read. Turn 12 reads the somatic shift from animation to stillness and inquires into it. Turn 14 catches the bright-voiced closing-the-door move and the attachment-theory intellectualization, holding her to the live phrase 'without me having to earn it.' Each read precedes a question, distinguishes the said from the shown, and lands at the moment that changes the conversation — culminating in the client touching the avoided emotion in turn 15. The defensiveness-as-identity-signal and looking-for-whats-wrong reads are operative even if not named by term.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Immediate read on the opening laugh — refuses to take it at face value.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Question without an explicit read, but probing the avoided territory.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the non-answer explicitly and redirects to somatic — distinguishes said from shown.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the handing-over-a-better-question move in real time — a precise read on the deflection pattern.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the hollow 'totally fine' as linguistic caveat — read precedes question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the somatic shift to stillness and inquires into it specifically.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the bright-voiced door-closing and the attachment-theory intellectualization; holds her to the live phrase.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\", \"anxious-avoidant-dynamic (only client-named, coach did not surface as pattern read)\"],\n  \"notes\": \"Strong somatic-and-linguistic tracking throughout. The coach consistently names what they noticed before asking, which is the hallmark of a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3137,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 951,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3137,
+    "output_tokens": 951,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

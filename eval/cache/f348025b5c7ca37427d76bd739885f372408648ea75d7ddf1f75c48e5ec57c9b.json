@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:50.854Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f348025b5c7ca37427d76bd739885f372408648ea75d7ddf1f75c48e5ec57c9b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011N7tCZj7gx1fNR3ThXPeXZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I noticed you didn't quite answer the question.\n\nNot \"what do you want\" — what actually *happens* in your body when someone is clearly, unambiguously into you. Like, right now, if you imagine it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7183,
+      "cache_creation_input_tokens": 10734,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10734,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 52,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7183,
+    "output_tokens": 52,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10734
+  }
+}

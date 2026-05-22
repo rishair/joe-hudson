@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:50.259Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "72d7c9d998541b8a66a7c3d4dd0efc2f863f9cd81831eecf450817cac29a0eff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Br7BfbFMw48B9xcCaww1Es",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief pause, looking slightly to the side*\n\nI don't know... fine? It's just something I do. I'm more organized than he is, so it makes sense that I handle it.\n\n*small shrug*\n\nI think I'm just practical about it. It doesn't bother me."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 84,
+      "cache_creation_input_tokens": 169,
+      "cache_read_input_tokens": 1828,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 169,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 68,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 84,
+    "output_tokens": 68,
+    "cache_read_input_tokens": 1828,
+    "cache_creation_input_tokens": 169
+  }
+}

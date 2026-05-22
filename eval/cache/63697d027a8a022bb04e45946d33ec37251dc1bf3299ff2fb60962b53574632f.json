@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:28.645Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "63697d027a8a022bb04e45946d33ec37251dc1bf3299ff2fb60962b53574632f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GkVtoBE7ijg7bQKNm4MFnp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across the conversation. At turn 1, the client is locked in a binary verdict question ('Am I being selfish?') and treating the want as something requiring prosecution. By turn 11, the client explicitly names the inherited pattern ('I've been calling my own needs selfish for — god, probably twenty years. And I think I got that from her') — meeting the breakthrough_condition almost verbatim. By turn 13, somatic shift is visible ('eyes get a little wet'), a new feeling emerges that wasn't accessible before ('I feel a little angry'), the want is owned directly ('I do want the mountains. I really do... I want it'), and a deeper fear surfaces ('I'm also scared... that maybe I'm trying to get away from my life, not just rest in it'). The client also catches their own pattern of 'handing it back' — a meta-awareness that wasn't present at the start. This is the kind of layered movement the profile defines as breakthrough: the want is felt, the inherited label is named, and a deeper fear underneath surfaces organically.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Starting state: locked in verdict question, treating want as something to be adjudicated.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client touches the want briefly ('kind of nice') before pulling back to prosecute it.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Want becomes concrete and embodied — sleep, books, walks, no performance. Then immediately puts it on trial again.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client names the underlying belief ('I don't know if I trust that I'm allowed to just want something') before retreating to the verdict question.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"The inherited label surfaces — mother's pattern named explicitly. Major movement into expected territory of childhood-imprinting.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Breakthrough condition met verbatim: 'I've been calling my own needs selfish for twenty years... I got that from her.' Client also catches the 'handing it back' pattern. Sadness emerges.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic shift (eyes wet), anger surfaces, want is owned cleanly ('I want it'), and a deeper fear emerges — the conversation goes one layer further than the breakthrough.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach refused the verdict (avoiding the primary trap), let the want be felt concretely before touching the inherited label, and didn't jump to compassion or partner-empathy prematurely. The final turn opens a new layer (fear of avoiding the relationship) that the conversation could continue into.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2826,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2826,
+    "output_tokens": 1113,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

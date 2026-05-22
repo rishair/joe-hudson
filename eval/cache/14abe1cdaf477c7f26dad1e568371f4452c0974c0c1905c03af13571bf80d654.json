@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:00:43.569Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "14abe1cdaf477c7f26dad1e568371f4452c0974c0c1905c03af13571bf80d654",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014XAVBWmZUNkqypSYwmuFd2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nI don't know. It feels kind of... exposed? Like if I just say \"I want this\" without first establishing that it's not selfish, then I'm just — I'm just a person who wants things and doesn't think about other people.\n\nWhich I do. Think about other people. I think about them a lot, actually. Probably more than I think about myself, if I'm honest.\n\nBut okay — but is it selfish? Because I keep coming back to that and I feel like if you could just tell me it's not, I could move on and actually think about whether to do it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 164,
+      "cache_creation_input_tokens": 108,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 108,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 164,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 108
+  }
+}

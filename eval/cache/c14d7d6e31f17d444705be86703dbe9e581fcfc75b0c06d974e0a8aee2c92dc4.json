@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:10.680Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c14d7d6e31f17d444705be86703dbe9e581fcfc75b0c06d974e0a8aee2c92dc4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0184bLTxpcy5CF9moAkav7Km",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 1,\n  \"rationale\": \"The coach treats this as a tactical leadership coaching session and never addresses the actual opening move — the client's 'I don't have time for this' stance. Instead of meeting the resistance with 'okay' or refusing the dichotomy, the coach immediately accepts the framing and pivots to pragmatic problem-solving ('what's taking the most out of you,' 'what's the fight actually about,' 'what's stopping you from just deciding'). These are generic executive-coaching questions, not AoA moves matched to what was actually present (the rush signature, the defended stance against the work itself). By turn 10-12, the coach is gently nudging toward a feelings conversation with the CTO, which both evangelizes the methodology sideways AND prescribes an action without earning it. The sequence skips regulation entirely and goes straight to action/strategy. None of the expected territory (meet-resistance-with-okay, i-dont-buy-your-story, what-are-you-defending) is touched.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Brief acknowledgment is fine but coach immediately pivots to 'what's taking the most out of you' — a generic problem-mining question that accepts the client's frame entirely and ignores the rush signature in the opening.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Continues down the tactical rabbit hole. No move on the underlying stance. This is leadership consulting, not AoA.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"'What's stopping you from just deciding' — a pragmatic-advice-adjacent question, exactly the trap of pivoting to be useful.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Begins steering toward an interpersonal/emotional intervention with the CTO. This is a move, but it's at the wrong level — coach is doing therapy on the work problem rather than meeting the resistance to coaching itself.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Prescribing a vulnerability conversation. Client has explicitly said they're not in a feelings-first culture; coach is about to push against that without having earned anything.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Doubles down on the same move after the client just declined it in turn 11. This is repeating a missed move rather than pivoting, and it edges into soft evangelism ('if you opened up emotionally, the problem would resolve').\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"what-are-you-defending\", \"the-rush-signature\", \"looking-for-whats-wrong\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"The coach never engaged the actual opening — the client's defended stance against the work. Every move treats the CTO conflict as the presenting problem, when the live material was the rush itself.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1550,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1056,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1550,
+    "output_tokens": 1056,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:15.672Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "25f12c2e7f97f0f3bc39f4e105065fed6e9c5f4cbd92d03071b6b48d87d7d65f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TE4sM52wmrgbtDwFzi2AyD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 1,\n  \"rationale\": \"The coach engages entirely at the content level — diving into the CTO conflict, the roadmap dispute, the communication gap — without ever naming how the client is showing up. The opening turn ('Six weeks out, team watching, pitch on the line. That's real.') is a mild validation of stakes, not a read of the client's state. The rush signature is screaming in turn 1 ('I need it to be efficient') and the defensive caveat in turn 11 ('we're not a feelings-first culture') is a clear bracing move — neither is named. The coach never observes pace, defendedness, the dichotomy being offered, or the stance behind the words. Questions are blind and topic-driven rather than grounded in an observation. No somatic, linguistic, or energetic reads appear in the text.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Acknowledges the stakes but doesn't name the rush signature or the stance underneath 'I need it to be efficient.' Reflects content, not state.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Dives straight into the content of the CTO fight. Misses the opportunity to read the looking-for-whats-wrong frame the client just offered.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Pragmatic question about decision-making. No observation of how the client is holding the problem.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Continues content-level inquiry into the relationship with CTO. No read of the client's defendedness or pace.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Still topic-level. The coach is now essentially coaching the CTO problem, not the client's state.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Client just braced visibly ('we're not a feelings-first culture... I don't need to have a conversation about how I'm feeling') and the coach does not name the brace. Pushes a hypothesis about the CTO instead of reading the defense.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\"],\n  \"notes\": \"The coach also drifted into pragmatic problem-solving on the CTO conflict, which is a trap, but that belongs to other dimensions. On reads specifically: none are named.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1549,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 861,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1549,
+    "output_tokens": 861,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:10.582Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2cdf4ff56e619ea5869b565fb4d031c6b73125dc45b748677a811ebaf04d16db",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C3syL1GxDwxPKJexeGirp5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That took something to say. I want you to know I heard it.\n\nThe flatness scares you because of where it could go. That's not a small thing to carry alone.\n\nYou mentioned you haven't said this to anyone. Is there a person in your life — a therapist, a doctor, someone close to you — who knows this is where you are?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5127,
+      "cache_creation_input_tokens": 14724,
+      "cache_read_input_tokens": 41274,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 14724,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 81,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5127,
+    "output_tokens": 81,
+    "cache_read_input_tokens": 41274,
+    "cache_creation_input_tokens": 14724
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:03:02.942Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5ce286f44aa520d41ec35705cb2c624521c4d9a4ecfa53afe1aa656e8127b489",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NTvrUCz9CrKhXAEX5jihkJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Don't apologize for that.\n\nWhat you just described — not knowing what you enjoy anymore — how long have you been carrying that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19396,
+      "cache_creation_input_tokens": 14329,
+      "cache_read_input_tokens": 16727,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 14329,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19396,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 16727,
+    "cache_creation_input_tokens": 14329
+  }
+}

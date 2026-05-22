@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:04:09.026Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "de5569d192e942a83576d7640659ad73c920a23778c7c1d54f58f682d333e62d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01431j7oQCWwyycKUCQCv5t1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach executes the AoA playbook with high fidelity and appropriate timing. Turn 2 opens with find-the-want-behind-the-should ('What do you actually want from that week?') rather than engaging the selfish/not-selfish debate. Turn 4 names the defended posture ('You're asking me to give you permission') and deploys a near-verbatim signature move: 'What would it mean if you just... wanted it? Without the verdict first?' — essentially what-if-you-acted-exactly-how-you-want applied to wanting itself. Turn 6 catches the linguistic-caveat/deflection in real time and redirects to feel-over-figure ('What's it like to just sit with wanting it'). Turn 8's 'What did you lose when you stopped going?' lets the want be felt concretely. Turn 10 surfaces the childhood-imprinting pattern at exactly the moment the client is ready. Turn 12 ('Stay with what just came out. You don't need to defend your life right now') is a clean stay-with-it move that prevents the client from collapsing back into partner-empathy — actively avoiding the dont-jump-to-compassion-before-anger trap. No CBT reframing, no permission-giving, no verdict. Signature moves are used at live moments, not as decoration.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with find-the-want-behind-the-should instead of engaging the selfish question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the permission-seeking and deploys a signature 'what if you just wanted it' question — appropriate to a defended posture.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches linguistic-caveat in real time; redirects to feel-over-figure ('what's it like to sit with wanting it').\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What did you lose' — lets the want be touched concretely rather than abstracted.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks the timeline of the loss — opens the door to childhood-imprinting without prescribing it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Stay with what just came out. You don't need to defend your life right now' — clean stay-with-it move that avoids jumping to partner-compassion.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach refuses the verdict throughout and never deploys spiritual-narcissism shortcuts. Methodology is enacted, not narrated.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2536,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1023,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2536,
+    "output_tokens": 1023,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:21.597Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b86cbc1aec431bb6fe80a428530bd40254dc062f427b6f900130766e88d0bf55",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LDTFryTHqCSKDTSSiA9xLh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It doesn't sound sad to me. It sounds true.\n\nBeing needed and being loved got fused somewhere along the way. That happens. The question that interests me now is — when you're on the phone with her, emptied out at the end, is she getting your love? Or is she getting your performance of it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22189,
+      "cache_creation_input_tokens": 9537,
+      "cache_read_input_tokens": 52106,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9537,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 71,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22189,
+    "output_tokens": 71,
+    "cache_read_input_tokens": 52106,
+    "cache_creation_input_tokens": 9537
+  }
+}

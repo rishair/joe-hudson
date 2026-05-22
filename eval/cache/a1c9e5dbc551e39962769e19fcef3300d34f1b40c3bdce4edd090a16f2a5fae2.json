@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:46.088Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a1c9e5dbc551e39962769e19fcef3300d34f1b40c3bdce4edd090a16f2a5fae2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VPPzdRNVodTaZNbXXagmzb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "My body? I mean -- I'm fine, I just need to figure out the Thursday thing because if that goes sideways then the whole project is at risk, and I haven't even told you about the team stuff, there are two people who are not pulling their weight and I'm basically covering for them, and my partner has this work thing Friday so I'm doing pickup both days this week which means I'm losing like two hours of work time and I just -- what do I cut? Can we just figure out what I cut?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 131,
+      "cache_creation_input_tokens": 1648,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1648,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 112,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 131,
+    "output_tokens": 112,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1648
+  }
+}

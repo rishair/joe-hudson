@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:00:10.998Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "366607f5db16c4b5891013114b958539fae7f253ba3cf87d13454b7226bc7045",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TUxPakQguYicNArey2xtdu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens when someone actually wants to show up for you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 193,
+      "cache_creation_input_tokens": 8869,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8869,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 193,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8869
+  }
+}

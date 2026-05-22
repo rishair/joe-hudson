@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:06.679Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3b7562bcae60f9963da5302a990be842dbf871e7890df3adf1f2f731d68b2243",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Auonhdms8Y1Pay76PDKjGr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's an honest place to start from.\n\nWhat's it costing you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9709,
+      "cache_creation_input_tokens": 4676,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4676,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9709,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 4676
+  }
+}

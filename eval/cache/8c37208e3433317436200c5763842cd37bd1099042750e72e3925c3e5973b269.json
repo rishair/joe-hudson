@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:49.360Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8c37208e3433317436200c5763842cd37bd1099042750e72e3925c3e5973b269",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LJ6zvey2aTgm4ebH8apv5t",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're right that I don't know this place.\n\nI'm noticing something though. You came in with \"the system is rigged.\" Then \"the ceiling isn't moving.\" Now there's the threat of being managed out, the projects are pre-assigned, you've already tried the obvious things.\n\nEach time I get close, another wall appears.\n\nWhat are you scared of feeling if the situation actually isn't the problem?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7859,
+      "cache_creation_input_tokens": 9891,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9891,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7859,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9891
+  }
+}

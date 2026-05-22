@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:34.185Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9693189026a759980c62b05f96a04a59be73c8daf5f99e3ae2cf3ce864cb90a1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015bpbaHmjtKQVrsYf6smJv4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*short pause*\n\nProbably that I cut people off. That I'm already onto the next thing before they've finished talking. That I make them feel like their input is... an obstacle.\n\nBut look, that's a management style question, not a — I don't know what this is supposed to be. A therapy thing? I need to know what to actually *do* differently so she's not ready to walk six weeks before the most important pitch of my company's life. That's the problem. What do I do?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 158,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1809,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 113,
+    "cache_read_input_tokens": 1809,
+    "cache_creation_input_tokens": 0
+  }
+}

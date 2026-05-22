@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:45.530Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f1ba80a4555e7c69310be3901fa060c65c6084ec4d698bfc834cb5d5f01b7165",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XwG59LacbBoo9WPW45kB2w",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[quick smile, a little too quick]*\n\nI mean — that's what I *want*, right? That's the whole thing. I want someone who actually shows up, who's present, who's like... *there*. \n\n*[shifts slightly]*\n\nI've had that, kind of. Like early on, before things get complicated, there's usually a phase where they seem really into it. And then something shifts and suddenly I'm the one texting first every time and wondering if I said something wrong and—\n\n*[catches herself]*\n\nBut yeah, no, someone being clearly into me would be — that would be great. That's the dream. Why, do you think that's the issue? Like I'm somehow repelling the available ones?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 301,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 163,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 301,
+    "output_tokens": 163,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

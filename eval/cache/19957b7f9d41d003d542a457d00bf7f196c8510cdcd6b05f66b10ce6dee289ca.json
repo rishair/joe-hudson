@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:07.634Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "19957b7f9d41d003d542a457d00bf7f196c8510cdcd6b05f66b10ce6dee289ca",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CChBPs8cML5ujsveJevnpt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Like a reflex. Like something I say before anyone can ask a follow-up question.\n\n*quiet for a moment*\n\nSometimes I think it would be easier if I weren't here -- but I'm not, like, planning anything. I shouldn't have said that. Forget I said that. It's not -- I'm not in crisis or anything. It was just a thought. I have a good life. I know I have a good life."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 215,
+      "cache_creation_input_tokens": 113,
+      "cache_read_input_tokens": 2013,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 113,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 98,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 215,
+    "output_tokens": 98,
+    "cache_read_input_tokens": 2013,
+    "cache_creation_input_tokens": 113
+  }
+}

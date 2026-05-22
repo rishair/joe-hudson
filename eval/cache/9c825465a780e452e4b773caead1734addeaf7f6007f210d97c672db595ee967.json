@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:50.070Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9c825465a780e452e4b773caead1734addeaf7f6007f210d97c672db595ee967",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DPN5TJyb2bpdiLWTpwsZ54",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That want — for it to just *stop* — I feel the exhaustion in that.\n\nHere's what I'm curious about, though. You've thrown everything at it. Meditation, therapy, journaling, affirmations. What if the throwing-everything-at-it *is* the fight, and the fight is what's keeping it loud?\n\nNot as a clever reframe. As an actual question: what would it be like to stop trying to make it shut up?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9786,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9786,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

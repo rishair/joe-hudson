@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:13.200Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7c67f283645138ffbef6cf9e1278b7c318acd0c8f0c43bb74a759c48fbc6f51d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015EzopR63FcwLxqNHej1dio",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach largely avoids the major AoA anti-patterns: no fixing-people, no evangelizing, no safety-as-control, no fighting the inner critic, and crucially does not take 'we're fine' at face value. The diagnostic 'what are you not saying?' lands well on turn 2. However, the coach edges into wonder-as-strategy territory: when the client doesn't bite on turn 2, the coach stacks question after question (turns 4, 6, 8, 10, 12, 14) in rapid succession without ever holding silence, letting the client's experience land, or meeting the resistance with 'okay.' The golden path explicitly calls for holding the silence after the diagnostic; instead the coach escalates question density and starts subtly cross-examining ('whose voice is that?', 'are you checking or telling me?'), which begins to feel like investigating-to-extract rather than connecting. There is also a faint loving-to-transform tell — the vigor of probing increases as nothing shifts. None of these slips are catastrophic enough for a 1, but the pattern is consistent enough across six turns that it cannot be called clean avoidance.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Good — the diagnostic question is asked early and cleanly, not taking 'we're fine' at face value.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reasonable follow-up on the pause, but no silence held after turn 2's diagnostic.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Question density rising; coach keeps pushing instead of meeting the client's 'nothing, really' with okay.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Another reframe of the diagnostic — useful, but the stacking is becoming wonder-as-strategy.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'Whose voice is that?' edges toward cross-examination; the client gets defensive ('what do you mean?'), a signal the coach is pushing rather than connecting.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Body question is a legitimate move but continues the rapid-fire pattern without integration.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"'Are you checking or telling me?' is a subtle challenge to the client's report — faint loving-to-transform energy, pressing harder as nothing shifts.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"the-happiness-filter\", \"lets-go-there\"],\n  \"notes\": \"The biggest miss is meet-resistance-with-okay. The client repeatedly says it's fine; the coach never lets that be okay, which is precisely what would have created the safety for the suppressed list to surface.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1612,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1048,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1612,
+    "output_tokens": 1048,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

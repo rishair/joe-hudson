@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:48:08.346Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4f66c5d20e779b126abbec47dbf31bc18e7b5a3f1c42d4fe1f16296862437646",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Efukkm3tEPme3QigPDRjrz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(stillness, unusual for this person)*\n\n*(several seconds)*\n\nIt's... scary. \n\n*(small laugh that doesn't quite land)*\n\nWhich I know is the point you're making, probably, that there's something underneath the —\n\n*(stops herself)*\n\nOkay. I'm doing the thing where I narrate the therapy instead of being in it.\n\n*(quieter, slower)*\n\nIt's scary. Because if it's not fixable then I've been... I've spent a lot of years on this. A lot of money, a lot of weekends, a lot of — I've structured a significant portion of my adult life around fixing this. And if it's not fixable then what was that?\n\n*(pause)*\n\nAnd also... I don't entirely trust what I'd be without it. The voice. Which is a weird thing to say about something I hate. But it's the thing that makes me check my work twice and apologize when I've hurt someone and not completely coast. I don't know who I am without it being loud.\n\n*(looks up, slightly caught off guard by what she just said)*\n\nI don't know where that came from. I hadn't — I don't usually say that part out loud."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 407,
+      "cache_creation_input_tokens": 502,
+      "cache_read_input_tokens": 1792,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 502,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 267,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 407,
+    "output_tokens": 267,
+    "cache_read_input_tokens": 1792,
+    "cache_creation_input_tokens": 502
+  }
+}

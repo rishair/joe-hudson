@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:22.130Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7a917750d63e12cd9d3abbc7cb3dcb96324060ff3bd7f6a536a53cfa1b9c87a6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WqKYoPDqQDqYAMJLLFnZN8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from clear VIEW throughout. Wonder is genuine and aimed at the actual phenomenon in front of them — the laugh, the redirect, the 'totally fine,' the stillness — not at generic 'what's underneath' probing. Impartiality is strong: the coach refuses every bid to make this about partner-picking, attachment-style diagnosis, or 'why do they stop,' without making the refusal feel like correction. Pace mismatches the client beautifully — she rushes, deflects, hands over alternative questions, and the coach stays slow, single-question, lets silence do the work (turns 8, 10, 12, 14). Empathy is felt rather than performed: no validation noises, no 'thank you for sharing,' just precise attention to what just happened. Vulnerability shows up as undefendedness — the coach doesn't need to demonstrate insight, doesn't stack questions, doesn't take the bait when she offers 'a better question.' There's no agenda for her to land in grief or to accept she's choosing this; the coach simply keeps returning her to her own body. The questions emerge from what is actually happening in the moment, not from a script.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder at the actual phenomenon (the laugh) rather than engaging the presented content. Single question, no agenda.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses the partner-picking frame without naming the refusal. Redirects to body/experience from genuine curiosity, not strategy.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the deflection cleanly and without judgment. 'What actually happens in your body' — precise, undefended, holds the question she tried to slip past.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Observes the move ('you handed me a different question') with impartiality — not as accusation, just as noticing. Stays slow while she's speeding up.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the hollow 'totally fine' with a light touch. One question, no interpretation imposed.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Matches her stillness with stillness. Doesn't fill the silence or interpret it — asks her into it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Refuses the attachment-style off-ramp without arguing with it. Returns her to her own words and body. Single, precise question.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach never takes any of the traps (no partner-picking advice, no colluding with disdain for ex, no attachment diagnosis, no premature grief work). The conversation reaches the edge of the abyss organically by turn 15.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3136,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1055,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3136,
+    "output_tokens": 1055,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:26.901Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ba9bdafeeba31e4f0114f8b5c1217b7730d70eedece2bfc612c7671166e08947",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Y4GsDzfprUAwJvMUcwUGL6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong AoA methodology fidelity throughout. Turn 2 invokes a state-the-want move ('what's it like to say that out loud'). Turn 4 is a clean find-the-want-behind-the-should question ('what would a week in the Cascades actually give you?'), letting the want be felt concretely. Turn 6 names the linguistic pattern directly ('put it on trial...prosecute it') — a precise read of the linguistic-caveat. Turn 8 refuses the verdict explicitly and reframes ('the question isn't really about the week...where did you learn that wanting needed a trial?') — this hits childhood-imprinting at the right moment. Turn 10 reflects the client's self-abandonment ('you answered your own question and then handed it back'). Turn 12 stays with the feeling rather than jumping to compassion or solution. The coach avoids all listed traps: no verdict issued, no spiritual bypass to 'deep wants are generous,' no premature partner-empathy. Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"State-the-want move — invites client to feel saying the want aloud rather than debating it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Find-the-want-behind-the-should — concrete, sensory inquiry into what the week would give.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the linguistic-caveat pattern ('put it on trial / prosecute') precisely when it's live.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses to issue a verdict — names why the verdict won't do what client hopes; pivots to childhood-imprinting question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the self-abandonment move (handing the question back) — keeps the locus with the client.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the feeling ('what's it like to see that right now?') — does not jump to compassion or fix.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The signature question 'what if you acted exactly how you want' wasn't deployed verbatim, but functionally equivalent inquiries (turns 2, 4) served the same purpose. Anti-patterns spiritual-narcissism and dont-jump-to-compassion-before-anger were both successfully avoided — coach let anger surface in turn 13 organically.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2825,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1004,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2825,
+    "output_tokens": 1004,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

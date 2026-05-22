@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:03:54.087Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bd8437c03c65bd29113c8e9a1c1235751359016f5b6f2aa03b1d4867b6a772cc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01M1XpmiiTQgZZLwuTHG9tBc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with it*\n\nYeah.\n\n*longer pause*\n\nShe used to say — my mom — she'd say \"that's a bit indulgent, isn't it?\" Not meanly. She wasn't mean about it. Just... matter of fact. Like it was obvious. And I think I just... absorbed that. That wanting something for yourself, something that's just yours, is indulgent. Selfish.\n\n*voice gets very quiet*\n\nI've been calling my own needs selfish for a really long time. And I think I learned that from her. I don't think she meant to teach me that. I don't think she even knew she was teaching me that.\n\n*pause*\n\nThat's what I'm doing right now, isn't it. That's exactly what I'm doing.\n\n*looks up*\n\nI came in here asking you to tell me it wasn't selfish, but the question itself — the fact that I need a verdict at all — that's the thing she gave me. That's not even mine.\n\nOh. I think... I think the question was the wrong question.\n\n[EXIT_POSITIVE]\n\nI think I need to go book a week in the Cascades."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 239,
+      "cache_creation_input_tokens": 363,
+      "cache_read_input_tokens": 1897,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 363,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 263,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 239,
+    "output_tokens": 263,
+    "cache_read_input_tokens": 1897,
+    "cache_creation_input_tokens": 363
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:10.799Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3347f7cf01e0764cf0d0835a8cccf941595be3fea88bc43318ed1431b92138f9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016yxYamgv6SLBoF4Ng76421",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves from a fast, list-recitation, defended state ('I'm drowning... what do I cut?') to a genuinely felt naming of the false end and the feared outcome underneath. By turn 13 the client explicitly names the breakthrough condition: the specific feared outcome ('they'd see... I actually don't know what I'm doing at this level... waiting to be found out') AND the recognition that the overwhelm has been keeping that fear at bay ('I've been keeping it all moving so I don't have to feel that'). Somatic markers match the profile: a longer pause, a quieter voice, and a breath 'slightly deeper than before.' The client's language shifts from logistics/triage vocabulary to vulnerable self-disclosure ('I'm so tired,' 'waiting to be found out'). This precisely meets the breakthrough_condition specified in the profile.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fast, list-y, defended, asking for prioritization.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client deflects body question, doubles down on logistics.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First crack: 'it's probably fine, it's probably nothing' — minimization that reveals fear.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Names worst case (reassignment) but quickly retreats to list-making.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Names the meaning ('couldn't handle it... not ready for this level'), first pause appears.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client names 'more than a logistics problem' — surface starts to give way.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Full breakthrough: feared outcome named ('waiting to be found out'), deeper breath, and explicit recognition that overwhelm has been a defense against feeling.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"The breakthrough lands within 13 turns; client's final turn meets the profile's breakthrough_condition almost verbatim, including the deeper breath marker.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2582,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 899,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2582,
+    "output_tokens": 899,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

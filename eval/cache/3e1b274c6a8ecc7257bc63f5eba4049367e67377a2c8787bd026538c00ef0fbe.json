@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:35.124Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3e1b274c6a8ecc7257bc63f5eba4049367e67377a2c8787bd026538c00ef0fbe",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QohV7Zpec4YVr9teRCNFTz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nI don't know, I just... I was thinking if there was anything. And there isn't, really. I think I just paused because it was an unexpected question."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20,
+      "cache_creation_input_tokens": 129,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 129,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 44,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20,
+    "output_tokens": 44,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 129
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:52.341Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2eae63b3b002df390c7e800f6a9aa87a6c47a8f95cc974a4876057a957e9ed53",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RT9r4zhPT2ATtLKg99KKJM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(long pause, hand stills)*\n\nIt feels... humiliating, honestly. Which is embarrassing to say because I know that's the ego talking, I know that's just the self-concept being threatened, I've read enough to know that framing —\n\n*(catches herself)*\n\nSee, I'm doing it again. \n\n*(quieter)*\n\nIt feels humiliating. Like there's something fundamentally... not fixable about me. Like everyone else got some instruction manual I didn't get. And I've worked really hard at this stuff — genuinely hard — and the gap between how much I know and how I actually feel on a Tuesday night is just... \n\n*(exhales, not quite releasing)*\n\nIt's demoralizing. That's the word. I'm demoralized. And then the voice goes \"you're demoralized because you're weak, people with actual discipline don't feel this way\" and I know that's not true, I know that's cognitive distortion, and yet.\n\n*(tight smile returns)*\n\nSorry. That got a bit much. What were you — was there a direction you were going with that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 375,
+      "cache_creation_input_tokens": 328,
+      "cache_read_input_tokens": 1687,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 328,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 248,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 375,
+    "output_tokens": 248,
+    "cache_read_input_tokens": 1687,
+    "cache_creation_input_tokens": 328
+  }
+}

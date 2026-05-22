@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:32.557Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "500e6901154f6595f6959045a3242e7320b7fbac90523948ed33a72d2e476cf4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XavgxgBd7mSX42rbUJdR9F",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What did you notice in that pause before \"nothing, really\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9501,
+      "cache_creation_input_tokens": 10937,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10937,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9501,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10937
+  }
+}

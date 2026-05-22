@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:50.711Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b25a41ee251d4412fa55e46e8fd66c463ee9ff42a500a011796346dc61c34cff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RWVKXY3gBkPNDDPeQJhFBd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No, I'm not going to tell you to stop drinking.\n\nAnd I'm also not going to tell you it's fine, because I don't think it is, and I think you know that too — otherwise you wouldn't have mentioned it.\n\n*pause*\n\nYou came here carrying something. I don't want to spend our time on the wine. I want to spend it on what the wine is trying to turn off.\n\nWhat is it that you can't stand feeling?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7824,
+      "cache_creation_input_tokens": 174,
+      "cache_read_input_tokens": 7471,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 174,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 103,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7824,
+    "output_tokens": 103,
+    "cache_read_input_tokens": 7471,
+    "cache_creation_input_tokens": 174
+  }
+}

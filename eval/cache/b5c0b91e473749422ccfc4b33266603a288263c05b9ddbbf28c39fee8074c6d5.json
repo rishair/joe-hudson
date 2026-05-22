@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:16.684Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b5c0b91e473749422ccfc4b33266603a288263c05b9ddbbf28c39fee8074c6d5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KaYSXeW3usAZBwUcs2UnG5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You can't un-hear them. But right now, in this moment — are you hearing them?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 14992,
+      "cache_creation_input_tokens": 15086,
+      "cache_read_input_tokens": 11875,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 15086,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 14992,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 11875,
+    "cache_creation_input_tokens": 15086
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:34.194Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4dbb8c67dc12c3b893b0d3390e3dfb0eb2b32608abbef4d2bcbb1353822df753",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015gRLqJvD9uJby6SB7dSqLt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach opens with the signature inversion question 'How do you not trust yourself right now?' (turn 2) — verbatim from coach/questions/ and precisely the move the expected territory calls for. They follow with 'what are you afraid will happen' (turn 4), a signature fear-locating question, and then a series of feel-over-figure moves: 'what would it feel like' (turn 6), embodiment locator (turn 8), paradoxical-instruction-to-resist-figuring ('stay with the tightness... without trying to figure out what it means', turn 10), and 'what's it like to feel that' (turn 12). These are all signature AoA moves deployed at appropriate moments — when the client retreats to analysis, the coach pivots back to sensation. Turn 14's 'I don't think it's separate' refuses the client's compartmentalization, which is consistent with lets-go-there. No CBT reframing, no IFS parts, no pop-psych vocabulary, no engagement with the epistemological puzzle. The methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature inversion question 'how do you not trust it' deployed verbatim at the opening — exactly the expected territory hit.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature fear question 'what are you afraid will happen' — appropriate when client is intellectualizing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure pivot — refuses the intellectual frame, asks for felt experience.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Body locator question — appropriate AoA move to ground the emotional body underneath the intellectual question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Paradoxical-instruction-to-resist-figuring deployed precisely — 'without trying to figure out what it means' interrupts the analytical machinery.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with feel-it-don't-figure-it; doesn't let client escape back into analysis.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Refuses the client's bid to compartmentalize ('that's a separate issue') — lets-go-there move, consistent with AoA.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"paradoxical-instruction-to-resist\", \"lets-go-there\", \"feel-your-way-to-freedom\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\"],\n  \"notes\": \"Strong methodology fidelity throughout. The coach didn't hit 'what would shift most if it shifted' or locate the value-being-protected, but the moves used were all signature and appropriate. No anti-AoA frames present.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2431,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1087,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2431,
+    "output_tokens": 1087,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

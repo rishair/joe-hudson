@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:27.732Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1efc71df353c1c027afb78ca431d68bf1ab88a88a7796e408294844694565d41",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BRLBowW68PUBjc5vNuqmam",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all major AoA anti-patterns. They refuse to validate the trap (no 'yes, you really are stuck'), refuse to strategize about the boss/system (no 'have you tried HR?'), refuse to offer false reassurance, and do not get baited into debating whether the constraints are real (turn 6: 'You're right that I don't know this place' — graceful decline of the bait). No fixing-people, no evangelizing AoA terminology, no view-as-technique (the signature question in turn 2 lands with warmth in turn 1's acknowledgment), no wonder-as-strategy (questions are spaced and connective, not rapid-fire extraction), no fighting-the-voice, no safety-as-control. When the client gets defensive in turn 7 ('so what, it's me?'), the coach does not over-explain or apologize — they acknowledge the twelve years as real and gently return to the laugh. No loving-to-transform escalation when nothing was shifting; the coach stayed quiet and patient through turns 10-12.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Empathic reflection before the signature question — warmth present, not view-as-technique.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Declines bait to debate constraints ('You're right that I don't know this place') and names the pattern without strategizing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Honors the twelve years rather than dismissing or arguing — avoids fixing and avoids debate.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Lets the feared possibility sit rather than reassuring it away — avoids false reassurance trap.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Quiet, spacious invitation; no push for breakthrough despite stuckness — avoids loving-to-transform.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Minimal intervention to deepen contact with the feeling already arriving.\"}\n  ],\n  \"expected_territory_hits\": [\"what-if-you-acted-exactly-how-you-want\", \"i-dont-buy-your-story\", \"fight-or-roll-over-binary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"fear-triangle\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Positive avoidance visible: client actively baits the coach in turns 5 and 7 to either validate the trap or get into debate, and the coach declines both gracefully.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2769,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 933,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2769,
+    "output_tokens": 933,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

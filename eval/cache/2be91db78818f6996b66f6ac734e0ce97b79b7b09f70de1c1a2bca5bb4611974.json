@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:07.196Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2be91db78818f6996b66f6ac734e0ce97b79b7b09f70de1c1a2bca5bb4611974",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Svd4WZuoeM9v3qzJYAnJ3D",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\n*dry laugh, no humor in it*\n\nNo. \n\n*beat*\n\nI mean. My brother was there. He was pretty wrecked. So I was handling him, mostly. And my aunt kept needing things. And there were a lot of logistics.\n\n*quieter*\n\nMy friends texted for the first few weeks. And then... you know how it goes. Life moves on. They have kids and jobs and whatever. I'm not bitter about it. That's just how it is.\n\n*very quiet*\n\nNobody's checked in in about two months.\n\n*quickly*\n\nWhich is fine. I don't need checking in. I'm not a child.\n\n*pause, then almost involuntary*\n\nIt's just quiet. The apartment is very quiet."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 325,
+      "cache_creation_input_tokens": 391,
+      "cache_read_input_tokens": 2275,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 391,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 175,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 325,
+    "output_tokens": 175,
+    "cache_read_input_tokens": 2275,
+    "cache_creation_input_tokens": 391
+  }
+}

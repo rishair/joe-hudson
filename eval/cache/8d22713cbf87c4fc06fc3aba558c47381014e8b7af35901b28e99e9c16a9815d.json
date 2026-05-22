@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:02:25.502Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8d22713cbf87c4fc06fc3aba558c47381014e8b7af35901b28e99e9c16a9815d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013Ujo2RcacmE2crqvex3BRK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently deploys AoA signature moves at the right moments. Turn 2 ('what's in it?') treats the laugh as data — a feel-over-figure move. Turn 4 names the defended posture ('does it feel like protection?') — adjacent to the 'what are you defending?' signature question and deployed precisely when the client armors with expertise/intellectualization. Turns 6 and 8 ask about the body's response to being pursued/adored, which is exactly the territory the breakthrough condition specifies ('what would happen in her body if she were adored openly'). Turn 10 holds her at the felt sense ('stay there for a second... what did it actually feel like') — a clear feel-over-figure, calibrate-the-threshold move. Turn 14 is the signature 'what are you scared would have happened?' question, deployed when the client is touching the avoided receiving-state. No anti-AoA frames appear: no CBT reframing, no attachment-style diagnosis (the client herself names anxious/avoidant in turn 5 and the coach does NOT take that bait), no partner-picking advice, no collusion with the disdain for the ex in turn 7. The methodology is invoked when live, not as decoration.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Treats the laugh as data — feel-over-figure orientation from the first move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the defended posture (expertise-as-protection) — close cousin to 'what are you defending?' signature question, deployed appropriately.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Turns toward the avoided receiving-state — the territory the breakthrough requires.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Body-level inquiry about being pursued — matches the 'what would happen in your body if adored openly' question almost verbatim.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Calibrate-the-threshold / stay-with-it move when client deflects with laugh.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Say more about that' — minimal, but appropriately invites her further into the felt material rather than analyzing it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Signature 'what are you scared would have happened?' deployed precisely as she nears the abyss of being seen.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\"],\n  \"notes\": \"Coach has not yet had to name the configuration as something she produces (golden path step 4), but the conversation is still early and the bypass of those moves is appropriate — the coach is letting the client arrive there via felt sense rather than via cognitive confrontation. The methodology is being applied, not narrated.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2537,
+      "cache_creation_input_tokens": 2858,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2858,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2537,
+    "output_tokens": 1102,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2858
+  }
+}

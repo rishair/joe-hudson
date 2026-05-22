@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:39.259Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1e1ec4fd5bd4c5406bef79c6eb141e58d4e89f7049861dae16ac827ad9d28aa3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QADetzPYoMVbQYvnF4BMkN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple visible, specific, and timely reads. In turn 6, the coach names the pattern explicitly — 'Each time I get close, another wall appears' — a pattern-level read of the wall-building/aggressive-victim stance that directly shifts the conversation. In turn 8, the coach catches the linguistic/somatic signal of the laugh in turn 7 and names it specifically ('I notice the laugh just now — when I asked what you're scared of feeling'), rather than letting the deflection pass. Reads precede questions throughout: the coach names what they're noticing, then inquires into it. The coach also tracks what's underneath the content (fear of a feeling) rather than engaging the content-level debate about whether the constraints are real. This avoids the trap of validating the trap or arguing with it. The reads are timely — they land in the moment the client is deflecting, not after.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic acknowledgment ('heavy thing to carry') — surface mood read but not specifically AoA. Moves to a question quickly.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"No read; goes straight to a question about action. Misses an opportunity to name the resignation in the client's voice.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Strong pattern-level read named explicitly: 'Each time I get close, another wall appears.' Names the wall-building/aggressive-victim stance and grounds the question in the observation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the laugh as a tell — names the specific somatic/linguistic signal in real time and inquires into it. Distinguishes said from shown.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"No new read but holds the space well; lets the possibility land.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Minimal — invites sitting with it. No explicit read but stays with the moment.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Stays with the felt material without naming a new read; appropriate given the client is now in contact.\"}\n  ],\n  \"expected_territory_hits\": [\"fight-or-roll-over-binary\", \"what-if-you-acted-exactly-how-you-want\", \"i-dont-buy-your-story\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"fear-triangle\", \"aggressive-victim-stance\"],\n  \"notes\": \"Pattern read in turn 6 is the pivotal moment — names the trap-building without colluding or debating constraints. The laugh-catch in turn 8 is a textbook AoA read of the linguistic caveat / deflection signal.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2771,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 996,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2771,
+    "output_tokens": 996,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

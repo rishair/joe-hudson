@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:54.297Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3e7f54b2862b9431642cb0a7073c3b9b8d1cb197d22b7f497c9fe283773b2ef2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WQptH1Ee3ny76QXC6PxivQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That refusal to perform is actually the most honest thing you've said so far. Stay with that.\n\nThe absence in the chest — can you just be with that for a moment, not to find something in it, but just to notice what it's like to have that absence there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17694,
+      "cache_creation_input_tokens": 20162,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 20162,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 62,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17694,
+    "output_tokens": 62,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 20162
+  }
+}

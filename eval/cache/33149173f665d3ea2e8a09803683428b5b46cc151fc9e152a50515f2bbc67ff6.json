@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:07.671Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "33149173f665d3ea2e8a09803683428b5b46cc151fc9e152a50515f2bbc67ff6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Eeg49TigNaEHRQwP2DXAz2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you moved away from the body question pretty fast.\n\nWhat's the thing you're most scared of happening?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12232,
+      "cache_creation_input_tokens": 8810,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8810,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12232,
+    "output_tokens": 27,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8810
+  }
+}

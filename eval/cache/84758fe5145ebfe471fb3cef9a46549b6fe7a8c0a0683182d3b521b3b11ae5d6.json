@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:37.017Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "84758fe5145ebfe471fb3cef9a46549b6fe7a8c0a0683182d3b521b3b11ae5d6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AbHDbtCYrr1rKQ1fThJd7m",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause*\n\nIt's... actually kind of nice? Like, saying it out loud makes it feel more real. I can almost picture it — there's this specific place I've been thinking about, up in the Cascades, and just... yeah. \n\n*voice drops a little*\n\nBut then immediately I hear myself saying it and I think, okay, but is that actually okay? Like, is that a reasonable thing to want, or am I just being — I don't know. Self-indulgent. My partner would have to handle everything alone for a whole week."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 124,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 126,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 124,
+    "output_tokens": 126,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

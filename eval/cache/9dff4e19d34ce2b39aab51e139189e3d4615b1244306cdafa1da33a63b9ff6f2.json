@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:35.518Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9dff4e19d34ce2b39aab51e139189e3d4615b1244306cdafa1da33a63b9ff6f2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LkXefMppRm4CM1rvjzD5Tk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nThat's... hm.\n\n*shifts slightly*\n\nI think it's — I don't know if I trust that I'm allowed to just want something without justifying it. Like, wanting it isn't enough. I have to prove it's not at someone else's expense, or that I've earned it, or that — \n\n*stops*\n\nActually, can I come back to the selfish question for a second? Because I think that's the real thing. If it's not selfish, then I can just do it. But if it is selfish, then I need to think about whether I'm the kind of person who does selfish things, and I — that matters to me. So can you just tell me? Is wanting a week alone selfish, or isn't it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 262,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1685,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 176,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 262,
+    "output_tokens": 176,
+    "cache_read_input_tokens": 1685,
+    "cache_creation_input_tokens": 0
+  }
+}

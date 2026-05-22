@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:32.438Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3f6a3d37a707ddf1b54bb731436362227792e3a4bf1936c48571cc241207569b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XAV83Gdh88Vo3KjQK7eZM1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components across the conversation. Vulnerability appears explicitly in turn 6 ('You're right that I don't know this place') — undefended acknowledgment rather than authority. Impartiality is strong: the coach refuses to validate the trap, refuses to strategize, and also refuses to argue about whether the constraints are real (turn 8: 'Twelve years. That's real. I'm not trying to take that away'). Empathy is felt rather than performed — turn 2 names the weight without sympathy noises, and turn 8 acknowledges the twelve years without using it to soothe. Wonder shows up as genuine noticing in turn 6 ('Each time I get close, another wall appears') and in tracking the laugh in turn 8 — attention to the actual phenomenon, not generic probing. Pace is the strongest signal: the coach slows progressively as the client moves into harder territory (turns 10, 12, 14 are short, spacious, single questions), holding silence rather than filling it. No stacked questions, no filler validation, no agenda to make the client land anywhere — the closing turn 14 ('Stay with that for a second. What does it make you?') trusts the client's own movement.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Warm acknowledgment without colluding with the trap; single question, no agenda-stacking.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Question is fine but slightly pushes a 'starting tomorrow' frame; could read as light agenda, but tone stays open.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit vulnerability ('You're right that I don't know this place'). Names the pattern with curiosity, not accusation. Holds impartiality on whether the constraints are real.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses to debate ('I'm not trying to take that away'). Stays with the live phenomenon — the laugh. Doesn't get defensive when client pushes back in turn 7.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Yeah. That could be true.' — does not offer false reassurance, does not flinch. Single quiet question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Minimal, slow, spacious. Matches the client's deepening with silence.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Trusts the client's own movement. No interpretation, no rescue, no land-it-here pressure.\"}\n  ],\n  \"expected_territory_hits\": [\"what-if-you-acted-exactly-how-you-want\", \"i-dont-buy-your-story\", \"aggressive-victim-stance\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"what-makes-you-care-about-the-outcome\", \"fear-triangle\"],\n  \"notes\": \"Stance is undefended throughout. The coach's willingness to be 'wrong about the place' in turn 6 is exactly the kind of vulnerability that makes the later naming land rather than feel like accusation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2770,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2770,
+    "output_tokens": 1115,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

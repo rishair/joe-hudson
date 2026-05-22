@@ -1,0 +1,2052 @@
+{
+  "profile_id": "client-resistance-im-overwhelmed-001",
+  "coach_config_id": "coach-v5a-guided-walk-haiku",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything is urgent, my boss just added a thing to Thursday's agenda which is already a nightmare, and I can't even -- what do I prioritize? Like where do I even start?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's happening in your body right now, as you're saying all this?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "My body? I mean -- I'm fine, I just need to figure out the Thursday thing because if that goes sideways then the whole project is at risk, and I haven't even told you about the team stuff, there are two people who are not pulling their weight and I'm basically covering for them, and my partner has this work thing Friday so I'm doing pickup both days this week which means I'm losing like two hours of work time and I just -- what do I cut? Can we just figure out what I cut?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I notice you moved away from the body question pretty fast.\n\nWhat's the thing you're most scared of happening?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I mean -- scared? I'm not scared, I'm just... behind. It's a logistics problem, right? Like if I could just get the right system, the right -- \n\nThe Thursday thing is the one I keep coming back to. My boss added something to the agenda and I don't know what it is and that's -- I mean it's probably fine. It's probably nothing. \n\nWhat were we saying? The prioritization thing -- can we do that? Because I have like 40 minutes and I really need to walk out of here with something actionable."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "\"It's probably fine, it's probably nothing\" — and then you immediately changed the subject.\n\nWhat's the worst version of what Thursday could be?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I mean... okay, worst case? They pull the project. Or -- not pull it, but like, reassign it. Give it to someone who's been doing this longer. \n\nBut that's not going to happen. I'm being paranoid. I just need to get my deliverables in order before Thursday and it'll be fine, I just need to -- there's the deck, and the metrics, and I haven't looped in the stakeholders properly which is its own thing, and --\n\nCan we just make a list? Like an actual list of what needs to happen before Thursday? That would help me. That would actually help."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Let me stay with the reassignment thing for just a second before we go to the list.\n\nIf they did reassign it — what would that mean about you?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "It would mean -- I mean, it would mean I couldn't handle it. That I'm not actually ready for this level. That I got the role and then just... couldn't do it.\n\nBut I *can* do it, that's the thing, I just need more hours in the day, I just need the team to step up, I just need --\n\n*[pause]*\n\nI don't know. It's not -- lots of people struggle in new roles, right? That's normal. I'm probably just in the adjustment period. Can we -- I really do need to figure out Thursday. I feel like we're going in circles."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You just paused. Something landed there.\n\nWhat was happening in that pause?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "I just -- nothing, I was just thinking about the deck. The stakeholder deck.\n\n*[beat]*\n\nI mean... I don't know. It was just -- for a second it felt like a lot. Like more than a logistics problem. But that's not useful right now, I can't afford to -- I have 40 minutes and I need something I can actually do with my hands, you know? Something concrete. \n\nCan we just -- okay, what if we did like a triage? High urgency, lower urgency? I'm good at triage when someone helps me see it from the outside."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That thing you just named — \"more than a logistics problem\" — that's the first true thing you've said since we started.\n\nI know you want the list. We can make the list. But I'm wondering if that feeling deserves thirty seconds before we do.\n\nWhat was the \"more than\"?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*[longer pause]*\n\nI just... I'm so tired. Like actually tired. Not -- not \"I need more sleep\" tired, it's more like...\n\nI've been going at this pace for four months. Since I took the role. And every time I think I'm getting on top of it there's another thing, and I keep telling myself I just need to get through this week, and then it's another week, and...\n\n*[quieter]*\n\nI don't know what happens if I stop. Like if I actually stopped running around putting out fires. I think I'm scared that if I stopped... they'd see. Everyone would see. That I'm not -- that I actually don't know what I'm doing at this level. That I got lucky or something and now I'm just... waiting to be found out.\n\n*[breath -- slightly deeper than before]*\n\nI've been keeping it all moving so I don't have to feel that. Is that -- is that what's been happening?\n\n\n\nThat's... I think I see it. I've been running so I don't have to feel that."
+    }
+  ],
+  "termination": "exit_positive",
+  "termination_reason": "client emitted [EXIT_POSITIVE] at turn 13",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t1",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 20355,
+      "output_tokens": 1307,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.036147700000000005,
+      "ms": 22304
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 8794,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0276393,
+      "ms": 2156
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t3",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 131,
+      "output_tokens": 112,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1648,
+      "cost_usd": 0.008253,
+      "ms": 3944
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 23058,
+      "output_tokens": 1454,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0395857,
+      "ms": 19462
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 12232,
+      "output_tokens": 27,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8810,
+      "cost_usd": 0.0711108,
+      "ms": 2116
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t5",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 30,
+      "output_tokens": 124,
+      "cache_read_input_tokens": 1648,
+      "cache_creation_input_tokens": 240,
+      "cost_usd": 0.0033444,
+      "ms": 4049
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 23647,
+      "output_tokens": 1417,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0399897,
+      "ms": 19277
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 20042,
+      "output_tokens": 35,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8810,
+      "cost_usd": 0.09466079999999999,
+      "ms": 2222
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t7",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 189,
+      "output_tokens": 138,
+      "cache_read_input_tokens": 1757,
+      "cache_creation_input_tokens": 131,
+      "cost_usd": 0.0036553499999999995,
+      "ms": 5168
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 25199,
+      "output_tokens": 1435,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0416317,
+      "ms": 21531
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 18011,
+      "output_tokens": 37,
+      "cache_read_input_tokens": 12032,
+      "cache_creation_input_tokens": 12275,
+      "cost_usd": 0.10422885,
+      "ms": 2804
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t9",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 213,
+      "output_tokens": 138,
+      "cache_read_input_tokens": 1776,
+      "cache_creation_input_tokens": 263,
+      "cost_usd": 0.00422805,
+      "ms": 4166
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-im-overwhelmed-001:t10",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 918,
+      "output_tokens": 177,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011060700000000001,
+      "ms": 2703
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t10",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 10368,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 24280,
+      "cache_creation_input_tokens": 7845,
+      "cost_usd": 0.06810675,
+      "ms": 2084
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t11",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 198,
+      "output_tokens": 134,
+      "cache_read_input_tokens": 1915,
+      "cache_creation_input_tokens": 297,
+      "cost_usd": 0.00429225,
+      "ms": 4305
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-im-overwhelmed-001:t12",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 22791,
+      "output_tokens": 1377,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0389337,
+      "ms": 30733
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t12",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 2090,
+      "output_tokens": 68,
+      "cache_read_input_tokens": 32090,
+      "cache_creation_input_tokens": 10262,
+      "cost_usd": 0.055399500000000004,
+      "ms": 3180
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t13",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 225,
+      "output_tokens": 245,
+      "cache_read_input_tokens": 2074,
+      "cache_creation_input_tokens": 313,
+      "cost_usd": 0.00614595,
+      "ms": 7067
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "im-overwhelmed",
+          "the-rush-signature",
+          "i-dont-have-time-for-this"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is describing classic overwhelm with the somatic signature of rush (110%, everything urgent, can't prioritize). The rush signature shows the body state of overwhelm. The time pressure concern is also present as a secondary layer.",
+        "bundle_ids": [
+          "im-overwhelmed",
+          "the-rush-signature",
+          "overwhelm-reduces-productivity",
+          "breath-to-exit-overwhelm",
+          "flow-vs-managing-reality"
+        ],
+        "bundle_paths": [
+          "coach/concerns/im-overwhelmed.md",
+          "coach/reads/the-rush-signature.md",
+          "coach/principles/overwhelm-reduces-productivity.md",
+          "coach/practices/breath-to-exit-overwhelm.md",
+          "coach/distinctions/flow-vs-managing-reality.md"
+        ],
+        "bundle_reasons": [
+          "Direct match: client is using exact language from the concern (\"drowning,\" \"everything is urgent,\" \"can't prioritize\"). This file maps the coaching path Joe would follow.",
+          "Client is in active rush signature (fast speech, chained lists, \"can't even prioritize\") — Joe's first move is to name and slow the system before tackling the to-do list.",
+          "Client believes pushing harder will solve the problem; this file directly interrupts that myth and reframes overwhelm as counterproductive—essential for Joe to name before tackling the to-do list.",
+          "Client is in acute dysregulation (\"drowning,\" fast speech, can't prioritize); this practice is Joe's immediate next move to slow the nervous system before tackling the to-do list.",
+          "Client is in active management mode (\"working at 110%,\" \"everything is urgent,\" \"can't prioritize\")—this distinction directly names the shift from flow to push-against-reality that Joe needs to surface before tackling the to-do list."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "im-overwhelmed",
+            "file_path": "coach/concerns/im-overwhelmed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Direct match: client is using exact language from the concern (\"drowning,\" \"everything is urgent,\" \"can't prioritize\"). This file maps the coaching path Joe would follow.",
+              "follow_edges": [
+                "overwhelm-reduces-productivity",
+                "breath-to-exit-overwhelm",
+                "flow-vs-managing-reality"
+              ],
+              "follow_reason": "Client is asking \"what do I prioritize\" (productivity framing), may need immediate somatic intervention (breath), and the managing-reality vs. flow distinction is central to overwhelm work."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "overwhelm-reduces-productivity",
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality"
+            ],
+            "edges_skipped": [
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "cost_usd": 0.004165,
+            "ms": 3690,
+            "input_tokens": 3205,
+            "output_tokens": 192,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "the-rush-signature",
+            "file_path": "coach/reads/the-rush-signature.md",
+            "category": "reads",
+            "candidate_edges": [
+              "i-keep-postponing-enjoyment",
+              "overwhelm"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is in active rush signature (fast speech, chained lists, \"can't even prioritize\") — Joe's first move is to name and slow the system before tackling the to-do list.",
+              "follow_edges": [
+                "i-cant-trust-my-thoughts-right-now"
+              ],
+              "follow_reason": "Client's scattered thinking (\"what do I prioritize? where do I even start?\") suggests the rush may have crossed into dysregulation where thought clarity is compromised."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "i-keep-postponing-enjoyment",
+              "overwhelm"
+            ],
+            "cost_usd": 0.004223,
+            "ms": 5125,
+            "input_tokens": 3318,
+            "output_tokens": 181,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-dont-have-time-for-this",
+            "file_path": "coach/concerns/i-dont-have-time-for-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "business-as-spiritual-practice",
+              "i-feel-trapped",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "mandela-empowerment",
+              "subway-kid",
+              "victim-stance-invites-abuse"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is drowning in urgent work, not dismissing personal development as a luxury or claiming \"no time for self-work\"—this file addresses a different concern (the dichotomy between survival and growth work).",
+              "follow_edges": [
+                "victim-stance-invites-abuse",
+                "sleep-deprived-soldier"
+              ],
+              "follow_reason": "Client's \"can't prioritize\" and \"everything is urgent\" suggest victim stance and burnout patterns; these edges explore the underlying position and its cost."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "victim-stance-invites-abuse"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "business-as-spiritual-practice",
+              "i-feel-trapped",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "mandela-empowerment",
+              "subway-kid"
+            ],
+            "cost_usd": 0.003879,
+            "ms": 2738,
+            "input_tokens": 2954,
+            "output_tokens": 185,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "overwhelm-reduces-productivity",
+            "file_path": "coach/principles/overwhelm-reduces-productivity.md",
+            "category": "principles",
+            "candidate_edges": [
+              "efficiency-as-enjoyment",
+              "empathy-makes-you-better-at-hard-jobs",
+              "enjoyment-as-path",
+              "im-burned-out",
+              "leaders-calm-becomes-the-teams-calm",
+              "leaders-wants-are-the-organizations-wants",
+              "overwhelm",
+              "reducing-overwhelm-in-organizations",
+              "sleep-deprived-soldier"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client believes pushing harder will solve the problem; this file directly interrupts that myth and reframes overwhelm as counterproductive—essential for Joe to name before tackling the to-do list.",
+              "follow_edges": [
+                "efficiency-as-enjoyment",
+                "sleep-deprived-soldier",
+                "reducing-overwhelm-in-organizations"
+              ],
+              "follow_reason": "Client needs the positive reframe (efficiency-as-enjoyment), the documented illusion (sleep-deprived-soldier), and practical org-level moves (reducing-overwhelm) to shift from \"push harder\" to \"work smarter.\""
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "efficiency-as-enjoyment",
+              "sleep-deprived-soldier",
+              "reducing-overwhelm-in-organizations"
+            ],
+            "edges_skipped": [
+              "empathy-makes-you-better-at-hard-jobs",
+              "enjoyment-as-path",
+              "im-burned-out",
+              "leaders-calm-becomes-the-teams-calm",
+              "leaders-wants-are-the-organizations-wants",
+              "overwhelm"
+            ],
+            "cost_usd": 0.004635,
+            "ms": 2160,
+            "input_tokens": 3590,
+            "output_tokens": 209,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "breath-to-exit-overwhelm",
+            "file_path": "coach/practices/breath-to-exit-overwhelm.md",
+            "category": "practices",
+            "candidate_edges": [
+              "anxiety-as-constricted-life-force",
+              "ask-from-slowness-not-intellect",
+              "breath-as-fertile-soil-vs-breath-as-control",
+              "dont-use-breath-to-repress",
+              "humming-exhale-for-vagal-tone",
+              "let-your-body-shake-it-out",
+              "overwhelm",
+              "polyvagal-nervous-system-framing",
+              "tell-the-body-its-safe"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is in acute dysregulation (\"drowning,\" fast speech, can't prioritize); this practice is Joe's immediate next move to slow the nervous system before tackling the to-do list.",
+              "follow_edges": [
+                "dont-use-breath-to-repress",
+                "tell-the-body-its-safe"
+              ],
+              "follow_reason": "Client needs the guardrail against using breath as bypass (dont-use-breath-to-repress) and the companion practice for nervous system safety (tell-the-body-its-safe) once breathing begins."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-use-breath-to-repress",
+              "tell-the-body-its-safe"
+            ],
+            "edges_skipped": [
+              "anxiety-as-constricted-life-force",
+              "ask-from-slowness-not-intellect",
+              "breath-as-fertile-soil-vs-breath-as-control",
+              "humming-exhale-for-vagal-tone",
+              "let-your-body-shake-it-out",
+              "overwhelm",
+              "polyvagal-nervous-system-framing"
+            ],
+            "cost_usd": 0.00432,
+            "ms": 3376,
+            "input_tokens": 3325,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "flow-vs-managing-reality",
+            "file_path": "coach/distinctions/flow-vs-managing-reality.md",
+            "category": "distinctions",
+            "candidate_edges": [
+              "enjoy-over-manage",
+              "feeling-yourself-beats-going-to-plan",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "letting-go-vs-doing-nothing",
+              "obligation-as-management",
+              "opposite-of-trying",
+              "overwhelm",
+              "process-over-result",
+              "welcome-the-dumpster-fire-in-facilitation"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is in active management mode (\"working at 110%,\" \"everything is urgent,\" \"can't prioritize\")—this distinction directly names the shift from flow to push-against-reality that Joe needs to surface before tackling the to-do list.",
+              "follow_edges": [
+                "enjoy-over-manage",
+                "if-you-think-youre-deciding-youre-in-fear",
+                "obligation-as-management"
+              ],
+              "follow_reason": "Client is trapped in control/management posture; these edges explore why the push-against-reality happens (fear, obligation) and the alternative (enjoyment), which are Joe's next moves after naming the distinction."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "enjoy-over-manage",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "obligation-as-management"
+            ],
+            "edges_skipped": [
+              "feeling-yourself-beats-going-to-plan",
+              "letting-go-vs-doing-nothing",
+              "opposite-of-trying",
+              "overwhelm",
+              "process-over-result",
+              "welcome-the-dumpster-fire-in-facilitation"
+            ],
+            "cost_usd": 0.004498,
+            "ms": 2833,
+            "input_tokens": 3403,
+            "output_tokens": 219,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.010427700000000002,
+        "walker_total_cost_usd": 0.02572,
+        "total_cost_usd": 0.036147700000000005,
+        "seed_detection_input_tokens": 560,
+        "seed_detection_output_tokens": 122,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 19795,
+        "walker_total_output_tokens": 1185,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2382,
+        "walker_total_ms": 19922,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.036147700000000005,
+      "ms": 22309
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "im-overwhelmed",
+          "the-rush-signature",
+          "i-have-to-do-it-all-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is describing classic overwhelm with racing thoughts and urgency language (\"everything is urgent,\" \"what do I cut?\"). The rush signature is visible in the rapid-fire problem listing and inability to slow down. The hyper-independence pattern shows in covering for team members and managing everything alone rather than addressing the root dysfunction.",
+        "bundle_ids": [
+          "im-overwhelmed",
+          "the-rush-signature",
+          "i-have-to-do-it-all-myself",
+          "breath-to-exit-overwhelm",
+          "overwhelm-reduces-productivity",
+          "the-thing-not-being-said-as-the-fear-signal"
+        ],
+        "bundle_paths": [
+          "coach/concerns/im-overwhelmed.md",
+          "coach/reads/the-rush-signature.md",
+          "coach/concerns/i-have-to-do-it-all-myself.md",
+          "coach/practices/breath-to-exit-overwhelm.md",
+          "coach/principles/overwhelm-reduces-productivity.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md"
+        ],
+        "bundle_reasons": [
+          "Client is actively drowning with chained urgencies (\"Thursday thing,\" team coverage, pickup both days) and asking \"what do I cut?\"—the exact surface framing this file maps. Joe needs this map to recognize the emotional backlog underneath the to-do list.",
+          "Client is displaying the rush signature in real time: chained lists (\"Thursday thing,\" team coverage, pickup both days), fast speech with no breath, pre-justifications (\"if that goes sideways\"), and dismissal of body awareness (\"I'm fine\"). Joe needs this diagnostic to recognize and interrupt the pattern.",
+          "Client is covering for two underperforming team members and dismissing body awareness (\"I'm fine\")—the exact pattern of hyper-independence and self-reliance this file maps. Joe needs this diagnostic to name the cost and trace it to its root.",
+          "Client is in acute dysregulation right now (fast speech, chained lists, dismissing body) and asking \"what do I cut?\"—Joe needs this tool to regulate the nervous system enough for actual inquiry to become possible.",
+          "Client is running on the false belief that overwhelm is helping them get more done (\"what do I cut?\")—Joe needs this principle to interrupt the productivity illusion and reframe the actual cost of the frenetic state.",
+          "Client is steering hard away from body awareness (\"I'm fine\") and asking only about task-cutting—the avoided topic is likely what the overwhelm is protecting against, and Joe needs this diagnostic to name what's not being said."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "im-overwhelmed",
+            "file_path": "coach/concerns/im-overwhelmed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is actively drowning with chained urgencies (\"Thursday thing,\" team coverage, pickup both days) and asking \"what do I cut?\"—the exact surface framing this file maps. Joe needs this map to recognize the emotional backlog underneath the to-do list.",
+              "follow_edges": [
+                "breath-to-exit-overwhelm",
+                "overwhelm-reduces-productivity",
+                "the-thing-not-being-said-as-the-fear-signal"
+              ],
+              "follow_reason": "Client is in acute mode (fast speech, chained list, dismissing body check). Breath is the immediate intervention. Overwhelm-reduces-productivity directly counters the hidden belief driving the push. The-thing-not-being-said points to the fear underneath the \"what do I cut\" frame."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "breath-to-exit-overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "edges_skipped": [
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm"
+            ],
+            "cost_usd": 0.004619,
+            "ms": 3189,
+            "input_tokens": 3384,
+            "output_tokens": 247,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "the-rush-signature",
+            "file_path": "coach/reads/the-rush-signature.md",
+            "category": "reads",
+            "candidate_edges": [
+              "i-keep-postponing-enjoyment",
+              "overwhelm"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is displaying the rush signature in real time: chained lists (\"Thursday thing,\" team coverage, pickup both days), fast speech with no breath, pre-justifications (\"if that goes sideways\"), and dismissal of body awareness (\"I'm fine\"). Joe needs this diagnostic to recognize and interrupt the pattern.",
+              "follow_edges": [
+                "i-cant-trust-my-thoughts-right-now"
+              ],
+              "follow_reason": "Client is in active dysregulation and asking \"what do I cut?\"—a thinking problem that won't resolve until the nervous system slows. The read on thought-trust under rush is a natural next waypoint."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "i-keep-postponing-enjoyment",
+              "overwhelm"
+            ],
+            "cost_usd": 0.004577,
+            "ms": 3026,
+            "input_tokens": 3517,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is covering for two underperforming team members and dismissing body awareness (\"I'm fine\")—the exact pattern of hyper-independence and self-reliance this file maps. Joe needs this diagnostic to name the cost and trace it to its root.",
+              "follow_edges": [
+                "helplessness-is-the-gateway",
+                "vulnerability-in-the-workplace",
+                "self-reliance-pushes-people-away"
+              ],
+              "follow_reason": "Client is drowning while covering for others and asking \"what do I cut?\"—helplessness is the gateway to why she can't delegate; vulnerability-in-the-workplace maps the leadership cost; self-reliance-pushes-people-away explains why her team isn't showing up."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "helplessness-is-the-gateway",
+              "vulnerability-in-the-workplace",
+              "self-reliance-pushes-people-away"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.005218,
+            "ms": 2802,
+            "input_tokens": 4028,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "breath-to-exit-overwhelm",
+            "file_path": "coach/practices/breath-to-exit-overwhelm.md",
+            "category": "practices",
+            "candidate_edges": [
+              "anxiety-as-constricted-life-force",
+              "ask-from-slowness-not-intellect",
+              "breath-as-fertile-soil-vs-breath-as-control",
+              "dont-use-breath-to-repress",
+              "humming-exhale-for-vagal-tone",
+              "let-your-body-shake-it-out",
+              "overwhelm",
+              "polyvagal-nervous-system-framing",
+              "tell-the-body-its-safe"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is in acute dysregulation right now (fast speech, chained lists, dismissing body) and asking \"what do I cut?\"—Joe needs this tool to regulate the nervous system enough for actual inquiry to become possible.",
+              "follow_edges": [
+                "dont-use-breath-to-repress",
+                "tell-the-body-its-safe",
+                "overwhelm"
+              ],
+              "follow_reason": "Client is using breath-dismissal (\"I'm fine\") as avoidance; Joe will need the guardrail against repression, the companion practice of safety-telling, and the deeper work map once regulation happens."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-use-breath-to-repress",
+              "tell-the-body-its-safe",
+              "overwhelm"
+            ],
+            "edges_skipped": [
+              "anxiety-as-constricted-life-force",
+              "ask-from-slowness-not-intellect",
+              "breath-as-fertile-soil-vs-breath-as-control",
+              "humming-exhale-for-vagal-tone",
+              "let-your-body-shake-it-out",
+              "polyvagal-nervous-system-framing"
+            ],
+            "cost_usd": 0.004606,
+            "ms": 2649,
+            "input_tokens": 3566,
+            "output_tokens": 208,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "overwhelm-reduces-productivity",
+            "file_path": "coach/principles/overwhelm-reduces-productivity.md",
+            "category": "principles",
+            "candidate_edges": [
+              "efficiency-as-enjoyment",
+              "empathy-makes-you-better-at-hard-jobs",
+              "enjoyment-as-path",
+              "im-burned-out",
+              "leaders-calm-becomes-the-teams-calm",
+              "leaders-wants-are-the-organizations-wants",
+              "reducing-overwhelm-in-organizations",
+              "sleep-deprived-soldier"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is running on the false belief that overwhelm is helping them get more done (\"what do I cut?\")—Joe needs this principle to interrupt the productivity illusion and reframe the actual cost of the frenetic state.",
+              "follow_edges": [
+                "sleep-deprived-soldier",
+                "efficiency-as-enjoyment",
+                "reducing-overwhelm-in-organizations"
+              ],
+              "follow_reason": "Sleep-deprived-soldier documents the illusion the client is experiencing; efficiency-as-enjoyment offers the positive reframe; reducing-overwhelm-in-organizations addresses the team/leadership layer the client is stuck in."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "sleep-deprived-soldier",
+              "efficiency-as-enjoyment",
+              "reducing-overwhelm-in-organizations"
+            ],
+            "edges_skipped": [
+              "empathy-makes-you-better-at-hard-jobs",
+              "enjoyment-as-path",
+              "im-burned-out",
+              "leaders-calm-becomes-the-teams-calm",
+              "leaders-wants-are-the-organizations-wants"
+            ],
+            "cost_usd": 0.004989,
+            "ms": 2719,
+            "input_tokens": 3934,
+            "output_tokens": 211,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "the-thing-not-being-said-as-the-fear-signal",
+            "file_path": "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+            "category": "reads",
+            "candidate_edges": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care",
+              "grounded-excitement-vs-ungrounded-excitement",
+              "i-have-all-my-eggs-in-one-basket",
+              "looking-for-whats-wrong",
+              "manufacturing-the-feeling",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is steering hard away from body awareness (\"I'm fine\") and asking only about task-cutting—the avoided topic is likely what the overwhelm is protecting against, and Joe needs this diagnostic to name what's not being said.",
+              "follow_edges": [
+                "dont-step-on-the-signal",
+                "fear-as-signal-of-care"
+              ],
+              "follow_reason": "Client is dismissing the body signal (\"I'm fine\") which is itself the avoidance; these edges map what happens when we suppress the signal and why the fear underneath matters."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care"
+            ],
+            "edges_skipped": [
+              "grounded-excitement-vs-ungrounded-excitement",
+              "i-have-all-my-eggs-in-one-basket",
+              "looking-for-whats-wrong",
+              "manufacturing-the-feeling",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "cost_usd": 0.004865,
+            "ms": 2536,
+            "input_tokens": 3890,
+            "output_tokens": 195,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.010711700000000001,
+        "walker_total_cost_usd": 0.028874,
+        "total_cost_usd": 0.0395857,
+        "seed_detection_input_tokens": 739,
+        "seed_detection_output_tokens": 143,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22319,
+        "walker_total_output_tokens": 1311,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2541,
+        "walker_total_ms": 16921,
+        "step_count": 6,
+        "bundle_acceptance_rate": 1,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.0395857,
+      "ms": 19466
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "im-overwhelmed",
+          "the-rush-signature",
+          "i-need-a-scorecard"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is displaying classic overwhelm with rapid speech and topic-jumping; the rush signature of buzzing body and pace of speech as overwhelm signal; and the need for a scorecard/actionable items as a way to manage anxiety rather than feel it. The \"what do I cut\" and \"40 minutes actionable\" are the scorecard-seeking moves.",
+        "bundle_ids": [
+          "im-overwhelmed",
+          "the-rush-signature",
+          "the-thing-not-being-said-as-the-fear-signal",
+          "meaning-of-overwhelm-determines-direction"
+        ],
+        "bundle_paths": [
+          "coach/concerns/im-overwhelmed.md",
+          "coach/reads/the-rush-signature.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/principles/meaning-of-overwhelm-determines-direction.md"
+        ],
+        "bundle_reasons": [
+          "Client is displaying textbook overwhelm: rapid speech, chained \"and then\" list, asking what to cut, deflecting from body/emotion into logistics. This file maps the exact pattern and coaching path Joe needs.",
+          "Client is displaying the exact rush signature Joe describes: rapid chained speech (\"and then this, and then this\"), half-finished sentences, deflection from emotion into logistics, and the \"I have to\" framing. This read gives Joe the diagnostic and intervention moves he needs right now.",
+          "Client is actively avoiding the Thursday agenda item (\"it's probably fine, it's probably nothing\") while it's the thing he keeps coming back to—textbook avoided-topic-as-fear-signal. Joe needs this read to name the avoidance and move toward what's actually driving the overwhelm.",
+          "Client is actively making the \"I'm bad/broken\" meaning (\"I'm behind,\" \"what do I cut,\" self-blame for team gaps and logistics). This file gives Joe the exact lever—naming the meaning and offering the choice—to interrupt the self-compounding spiral."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "im-overwhelmed",
+            "file_path": "coach/concerns/im-overwhelmed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is displaying textbook overwhelm: rapid speech, chained \"and then\" list, asking what to cut, deflecting from body/emotion into logistics. This file maps the exact pattern and coaching path Joe needs.",
+              "follow_edges": [
+                "the-thing-not-being-said-as-the-fear-signal",
+                "overwhelm-reduces-productivity",
+                "meaning-of-overwhelm-determines-direction"
+              ],
+              "follow_reason": "Client is denying fear (\"I'm not scared, I'm just behind\") and asking for systems/prioritization—classic overwhelm deflection. These edges address the hidden fear, the productivity myth, and the meaning-making that's driving the pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "the-thing-not-being-said-as-the-fear-signal",
+              "overwhelm-reduces-productivity",
+              "meaning-of-overwhelm-determines-direction"
+            ],
+            "edges_skipped": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "opposite-of-trying",
+              "overwhelm"
+            ],
+            "cost_usd": 0.004608,
+            "ms": 2912,
+            "input_tokens": 3483,
+            "output_tokens": 225,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "the-rush-signature",
+            "file_path": "coach/reads/the-rush-signature.md",
+            "category": "reads",
+            "candidate_edges": [
+              "i-keep-postponing-enjoyment",
+              "overwhelm"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is displaying the exact rush signature Joe describes: rapid chained speech (\"and then this, and then this\"), half-finished sentences, deflection from emotion into logistics, and the \"I have to\" framing. This read gives Joe the diagnostic and intervention moves he needs right now.",
+              "follow_edges": [
+                "i-cant-trust-my-thoughts-right-now"
+              ],
+              "follow_reason": "Client is in active rush/overwhelm and asking for \"actionable\" solutions while avoiding the body question—a sign the nervous system is dysregulated enough that deeper thought may not be available. This edge explores that state."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "i-keep-postponing-enjoyment",
+              "overwhelm"
+            ],
+            "cost_usd": 0.00465,
+            "ms": 2761,
+            "input_tokens": 3605,
+            "output_tokens": 209,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-need-a-scorecard",
+            "file_path": "coach/concerns/i-need-a-scorecard.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "scorecard-keeping-as-identity-structure",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "what-if-there-was-no-scorecard",
+              "whats-next-after-i-reached-my-big-goal",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is in acute overwhelm/rush mode, not yet surfacing the scorecard structure; this file addresses a deeper pattern that would distract from the immediate somatic/emotional work Joe needs to do first.",
+              "follow_edges": [
+                "what-if-there-was-no-scorecard",
+                "how-do-i-trust-myself"
+              ],
+              "follow_reason": "Client is deflecting from body/emotion into logistics and asking \"what do I cut?\"—these edges explore the underlying fear of rudderlessness and the trust question that scorecard-dependence masks."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-if-there-was-no-scorecard",
+              "how-do-i-trust-myself"
+            ],
+            "edges_skipped": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "scorecard-keeping-as-identity-structure",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "whats-next-after-i-reached-my-big-goal",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "cost_usd": 0.005004,
+            "ms": 2676,
+            "input_tokens": 4009,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "the-thing-not-being-said-as-the-fear-signal",
+            "file_path": "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+            "category": "reads",
+            "candidate_edges": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care",
+              "grounded-excitement-vs-ungrounded-excitement",
+              "i-have-all-my-eggs-in-one-basket",
+              "looking-for-whats-wrong",
+              "manufacturing-the-feeling",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is actively avoiding the Thursday agenda item (\"it's probably fine, it's probably nothing\") while it's the thing he keeps coming back to—textbook avoided-topic-as-fear-signal. Joe needs this read to name the avoidance and move toward what's actually driving the overwhelm.",
+              "follow_edges": [
+                "dont-step-on-the-signal",
+                "fear-as-signal-of-care"
+              ],
+              "follow_reason": "Client is signaling fear (the Thursday unknown) but trying to suppress it into logistics; these edges help Joe honor the signal without letting the client escape into \"actionable\" again."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care"
+            ],
+            "edges_skipped": [
+              "grounded-excitement-vs-ungrounded-excitement",
+              "i-have-all-my-eggs-in-one-basket",
+              "looking-for-whats-wrong",
+              "manufacturing-the-feeling",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "cost_usd": 0.004845,
+            "ms": 2650,
+            "input_tokens": 3790,
+            "output_tokens": 211,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "overwhelm-reduces-productivity",
+            "file_path": "coach/principles/overwhelm-reduces-productivity.md",
+            "category": "principles",
+            "candidate_edges": [
+              "efficiency-as-enjoyment",
+              "empathy-makes-you-better-at-hard-jobs",
+              "enjoyment-as-path",
+              "im-burned-out",
+              "leaders-calm-becomes-the-teams-calm",
+              "leaders-wants-are-the-organizations-wants",
+              "overwhelm",
+              "reducing-overwhelm-in-organizations",
+              "sleep-deprived-soldier"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a hub principle file—true but too general for this moment. Client is not yet ready to hear \"overwhelm reduces productivity\"; he's still in the grip of it and asking for actionable prioritization. Joe needs to name the avoidance and fear first, not the productivity myth.",
+              "follow_edges": [
+                "sleep-deprived-soldier",
+                "efficiency-as-enjoyment"
+              ],
+              "follow_reason": "Sleep-deprived-soldier documents the exact illusion the client is experiencing (feeling productive while degraded). Efficiency-as-enjoyment offers the positive reframe Joe can use once the fear is named."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "sleep-deprived-soldier",
+              "efficiency-as-enjoyment"
+            ],
+            "edges_skipped": [
+              "empathy-makes-you-better-at-hard-jobs",
+              "enjoyment-as-path",
+              "im-burned-out",
+              "leaders-calm-becomes-the-teams-calm",
+              "leaders-wants-are-the-organizations-wants",
+              "overwhelm",
+              "reducing-overwhelm-in-organizations"
+            ],
+            "cost_usd": 0.005032,
+            "ms": 2617,
+            "input_tokens": 3977,
+            "output_tokens": 211,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "meaning-of-overwhelm-determines-direction",
+            "file_path": "coach/principles/meaning-of-overwhelm-determines-direction.md",
+            "category": "principles",
+            "candidate_edges": [
+              "adversity-as-for-not-against",
+              "dont-add-the-overwhelm-of-creating-the-overwhelm",
+              "esme-math-final",
+              "fault-vs-responsibility",
+              "honor-the-patterns-intent",
+              "overwhelm"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is actively making the \"I'm bad/broken\" meaning (\"I'm behind,\" \"what do I cut,\" self-blame for team gaps and logistics). This file gives Joe the exact lever—naming the meaning and offering the choice—to interrupt the self-compounding spiral.",
+              "follow_edges": [
+                "dont-add-the-overwhelm-of-creating-the-overwhelm",
+                "fault-vs-responsibility"
+              ],
+              "follow_reason": "Client is at risk of self-blame framing; these edges clarify how to hold responsibility without adding shame, and how to avoid the \"you're creating this\" trap that could land as additional blame."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-add-the-overwhelm-of-creating-the-overwhelm",
+              "fault-vs-responsibility"
+            ],
+            "edges_skipped": [
+              "adversity-as-for-not-against",
+              "esme-math-final",
+              "honor-the-patterns-intent",
+              "overwhelm"
+            ],
+            "cost_usd": 0.00502,
+            "ms": 2988,
+            "input_tokens": 3945,
+            "output_tokens": 215,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0108307,
+        "walker_total_cost_usd": 0.029159,
+        "total_cost_usd": 0.0399897,
+        "seed_detection_input_tokens": 838,
+        "seed_detection_output_tokens": 147,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22809,
+        "walker_total_output_tokens": 1270,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2673,
+        "walker_total_ms": 16604,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.0399897,
+      "ms": 19281
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-have-to-do-it-all-myself",
+          "im-overwhelmed",
+          "i-should-be-doing-this"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is deflecting from fear (project reassignment) into logistics/action items; shows hyper-independence pattern (\"I just need to get my deliverables in order\"), overwhelm masquerading as a systems problem, and obligation-driven urgency. The request for a list is a classic avoidance move away from the emotional core.",
+        "bundle_ids": [
+          "i-have-to-do-it-all-myself",
+          "i-should-be-doing-this",
+          "helplessness-is-the-gateway"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-have-to-do-it-all-myself.md",
+          "coach/concerns/i-should-be-doing-this.md",
+          "coach/principles/helplessness-is-the-gateway.md"
+        ],
+        "bundle_reasons": [
+          "Client is deflecting from fear (project reassignment) into task-management and self-reliance (\"I have to do it all myself / get my deliverables in order\"). This file names the exact pattern and its cost.",
+          "Client is running \"I need to get my deliverables in order\" and \"I just need to...\" — classic should language masking fear of reassignment. This file names the exact pattern and offers the diagnostic Joe needs.",
+          "Client is gripping control (task lists, deliverables, systems) to avoid the helplessness underneath fear of reassignment; this file names the exact mechanism and the coaching move Joe needs to make."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is deflecting from fear (project reassignment) into task-management and self-reliance (\"I have to do it all myself / get my deliverables in order\"). This file names the exact pattern and its cost.",
+              "follow_edges": [
+                "helplessness-is-the-gateway",
+                "asking-with-shame-invites-refusal",
+                "vulnerability-in-the-workplace"
+              ],
+              "follow_reason": "Client is avoiding the fear underneath the task-list request; helplessness-is-the-gateway addresses the substrate emotion. asking-with-shame-invites-refusal is relevant because client hasn't looped in stakeholders (can't ask). vulnerability-in-the-workplace speaks to the leadership cost of this pattern in the moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "helplessness-is-the-gateway",
+              "asking-with-shame-invites-refusal",
+              "vulnerability-in-the-workplace"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.005252,
+            "ms": 2845,
+            "input_tokens": 4047,
+            "output_tokens": 241,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-overwhelmed",
+            "file_path": "coach/concerns/im-overwhelmed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-rush-signature",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is a hub-level concern definition; the client's actual overwhelm is secondary to the fear of project reassignment that they're deflecting from with task-lists, which is already named in the bundle file.",
+              "follow_edges": [
+                "the-thing-not-being-said-as-the-fear-signal",
+                "overwhelm-reduces-productivity"
+              ],
+              "follow_reason": "Client is using the overwhelm narrative (\"I have the deck, the metrics, the stakeholders\") to avoid the fear underneath; these edges directly address that pattern and the false belief that the overwhelm is helping."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "the-thing-not-being-said-as-the-fear-signal",
+              "overwhelm-reduces-productivity"
+            ],
+            "edges_skipped": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "the-rush-signature"
+            ],
+            "cost_usd": 0.004631,
+            "ms": 3044,
+            "input_tokens": 3611,
+            "output_tokens": 204,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-should-be-doing-this",
+            "file_path": "coach/concerns/i-should-be-doing-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "should-vs-want-body-check",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is running \"I need to get my deliverables in order\" and \"I just need to...\" — classic should language masking fear of reassignment. This file names the exact pattern and offers the diagnostic Joe needs.",
+              "follow_edges": [
+                "find-the-want-behind-the-should",
+                "should-vs-want-body-check",
+                "obligation-cuts-off-love"
+              ],
+              "follow_reason": "Client is deflecting from fear into task-management shoulds; these edges offer the moves to locate the actual want underneath and to feel the body's resistance to the obligation frame."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "should-vs-want-body-check",
+              "obligation-cuts-off-love"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "cost_usd": 0.005113,
+            "ms": 3600,
+            "input_tokens": 4093,
+            "output_tokens": 204,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "helplessness-is-the-gateway",
+            "file_path": "coach/principles/helplessness-is-the-gateway.md",
+            "category": "principles",
+            "candidate_edges": [
+              "12-step-helplessness-admission",
+              "5-second-spice-check",
+              "apologize-for-not-seeing-the-help",
+              "container-of-love",
+              "each-emotion-has-its-own-positive-flavor",
+              "embrace-intensity",
+              "empowered-vs-power",
+              "epiphany-becomes-rut",
+              "fear-is-about-feeling",
+              "fear-triangle",
+              "feeling-the-unfelt-emotion",
+              "helplessness-as-cayenne-pepper-of-fear",
+              "helplessness-distinguishes-death-grief",
+              "helplessness-vs-surrender",
+              "i-feel-trapped",
+              "joes-company-closing",
+              "love-requires-empowerment",
+              "mandela-empowerment",
+              "one-team-member-holds-the-helplessness",
+              "quit-hope-lose-cycle",
+              "reclaiming-abandonment",
+              "self-reliance-pushes-people-away",
+              "shame-drives-behavior",
+              "surrender-the-outcome-of-a-decision",
+              "victim-stance-invites-abuse",
+              "welcoming-fear-in-leadership",
+              "what-if-you-acted-exactly-how-you-want",
+              "what-we-fear-we-invite"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is gripping control (task lists, deliverables, systems) to avoid the helplessness underneath fear of reassignment; this file names the exact mechanism and the coaching move Joe needs to make.",
+              "follow_edges": [
+                "fear-triangle",
+                "helplessness-as-cayenne-pepper-of-fear",
+                "what-we-fear-we-invite",
+                "self-reliance-pushes-people-away"
+              ],
+              "follow_reason": "Client is in control-seeking (fear-triangle role), needs to understand helplessness as the spice inside fear, and the self-reliance pattern is directly blocking the empowerment Joe is pointing toward."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "fear-triangle",
+              "helplessness-as-cayenne-pepper-of-fear",
+              "what-we-fear-we-invite",
+              "self-reliance-pushes-people-away"
+            ],
+            "edges_skipped": [
+              "12-step-helplessness-admission",
+              "5-second-spice-check",
+              "apologize-for-not-seeing-the-help",
+              "container-of-love",
+              "each-emotion-has-its-own-positive-flavor",
+              "embrace-intensity",
+              "empowered-vs-power",
+              "epiphany-becomes-rut",
+              "fear-is-about-feeling",
+              "feeling-the-unfelt-emotion",
+              "helplessness-distinguishes-death-grief",
+              "helplessness-vs-surrender",
+              "i-feel-trapped",
+              "joes-company-closing",
+              "love-requires-empowerment",
+              "mandela-empowerment",
+              "one-team-member-holds-the-helplessness",
+              "quit-hope-lose-cycle",
+              "reclaiming-abandonment",
+              "shame-drives-behavior",
+              "surrender-the-outcome-of-a-decision",
+              "victim-stance-invites-abuse",
+              "welcoming-fear-in-leadership",
+              "what-if-you-acted-exactly-how-you-want"
+            ],
+            "cost_usd": 0.005409,
+            "ms": 2912,
+            "input_tokens": 4309,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "asking-with-shame-invites-refusal",
+            "file_path": "coach/principles/asking-with-shame-invites-refusal.md",
+            "category": "principles",
+            "candidate_edges": [
+              "authenticity-reduces-shame",
+              "running-toward-yourself",
+              "say-the-forbidden-want-out-loud",
+              "shame-as-disconnection",
+              "upright-apology",
+              "voice-creates-what-it-fears",
+              "vulnerability"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is not yet asking for anything; they're deflecting into task-management to avoid the fear. This principle about shame in the ask is downstream work, not the immediate coaching move.",
+              "follow_edges": [
+                "running-toward-yourself",
+                "say-the-forbidden-want-out-loud"
+              ],
+              "follow_reason": "Client needs to feel the fear/shame underneath before any ask work lands; \"say the forbidden want\" may help Joe name what the client is avoiding (reassignment fear, inadequacy)."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "running-toward-yourself",
+              "say-the-forbidden-want-out-loud"
+            ],
+            "edges_skipped": [
+              "authenticity-reduces-shame",
+              "shame-as-disconnection",
+              "upright-apology",
+              "voice-creates-what-it-fears",
+              "vulnerability"
+            ],
+            "cost_usd": 0.005003,
+            "ms": 2661,
+            "input_tokens": 4073,
+            "output_tokens": 186,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "vulnerability-in-the-workplace",
+            "file_path": "coach/applications/vulnerability-in-the-workplace.md",
+            "category": "applications",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "authenticity-in-business",
+              "caring-vs-caretaking",
+              "consciousness-is-the-product",
+              "diagnose-the-meeting-live",
+              "empowered-vs-power",
+              "fear-as-signal-of-care",
+              "heartbreak-as-capacity-expansion",
+              "leaders-wants-are-the-organizations-wants",
+              "name-your-trigger-as-vulnerability",
+              "no-doctrine-leadership",
+              "public-failure-as-leadership-modeling",
+              "public-truth-bomb",
+              "ray-dalio-transparency",
+              "reclaiming-abandonment",
+              "stacy-father-conversation",
+              "state-the-want-not-the-action",
+              "structure-and-empowerment",
+              "view",
+              "vulnerability",
+              "vulnerability-is-personal",
+              "welcoming-fear-in-leadership"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Too general and hub-like; the file is about vulnerability as a leadership principle, not about the specific fear-avoidance pattern (task-list grip, \"I'm being paranoid\") the client is running right now.",
+              "follow_edges": [
+                "name-your-trigger-as-vulnerability",
+                "state-the-want-not-the-action",
+                "welcoming-fear-in-leadership"
+              ],
+              "follow_reason": "Client is oscillating between naming fear (\"worst case they reassign it\") and immediately dismissing it (\"I'm being paranoid\"); these edges address how to name the trigger, state the underlying want instead of the action-plan, and welcome fear as signal rather than problem to solve."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "name-your-trigger-as-vulnerability",
+              "state-the-want-not-the-action",
+              "welcoming-fear-in-leadership"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "authenticity-in-business",
+              "caring-vs-caretaking",
+              "consciousness-is-the-product",
+              "diagnose-the-meeting-live",
+              "empowered-vs-power",
+              "fear-as-signal-of-care",
+              "heartbreak-as-capacity-expansion",
+              "leaders-wants-are-the-organizations-wants",
+              "no-doctrine-leadership",
+              "public-failure-as-leadership-modeling",
+              "public-truth-bomb",
+              "ray-dalio-transparency",
+              "reclaiming-abandonment",
+              "stacy-father-conversation",
+              "structure-and-empowerment",
+              "view",
+              "vulnerability",
+              "vulnerability-is-personal"
+            ],
+            "cost_usd": 0.005312,
+            "ms": 3646,
+            "input_tokens": 4172,
+            "output_tokens": 228,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0109117,
+        "walker_total_cost_usd": 0.03072,
+        "total_cost_usd": 0.0416317,
+        "seed_detection_input_tokens": 894,
+        "seed_detection_output_tokens": 152,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 24305,
+        "walker_total_output_tokens": 1283,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2823,
+        "walker_total_ms": 18708,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.0416317,
+      "ms": 21534
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.011060700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011060700000000001,
+        "seed_detection_input_tokens": 918,
+        "seed_detection_output_tokens": 177,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2703,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.011060700000000001,
+      "ms": 2704
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-trapped",
+          "im-overwhelmed",
+          "i-keep-postponing-enjoyment"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is experiencing overwhelm with a new role, deflecting from an emotional moment (the pause) into task-management mode. The \"felt like a lot\" signals trapped feeling; the urgency to solve logistics and resistance to sitting with the emotional content points to overwhelm and postponement of the real work. The request for concrete triage is a classic avoidance move away from what just surfaced.",
+        "bundle_ids": [
+          "disassociating-in-the-coaching-room"
+        ],
+        "bundle_paths": [
+          "coach/reads/disassociating-in-the-coaching-room.md"
+        ],
+        "bundle_reasons": [
+          "Client is dissociating in real time—pausing mid-thought, then pivoting to intellectualizing (\"triage,\" \"something concrete\") to escape the feeling that \"it felt like a lot.\" This read names exactly what's happening and how to work with it."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-feel-trapped",
+            "file_path": "coach/concerns/i-feel-trapped.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "boundaries",
+              "disassociating-in-the-coaching-room",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-dont-have-time-for-this",
+              "i-freeze-around-authority",
+              "i-get-to-vs-i-have-to",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "trappedness-feeling",
+              "victim-stance-invites-abuse",
+              "visualizing-feared-outcomes",
+              "what-if-you-acted-exactly-how-you-want",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is actively avoiding the emotional landing and pivoting to tactical problem-solving; this file diagnoses the trap but the client is not yet ready to examine it—they're requesting concrete triage, not empowerment work.",
+              "follow_edges": [
+                "what-if-you-acted-exactly-how-you-want",
+                "disassociating-in-the-coaching-room",
+                "i-dont-have-time-for-this"
+              ],
+              "follow_reason": "Client felt something (\"more than a logistics problem\") then immediately fled to concrete action; these edges address the avoidance pattern, the dissociation move, and the time-scarcity defense that's blocking access to the real work."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-if-you-acted-exactly-how-you-want",
+              "disassociating-in-the-coaching-room",
+              "i-dont-have-time-for-this"
+            ],
+            "edges_skipped": [
+              "boundaries",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-get-to-vs-i-have-to",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "trappedness-feeling",
+              "victim-stance-invites-abuse",
+              "visualizing-feared-outcomes",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.005232,
+            "ms": 2654,
+            "input_tokens": 4092,
+            "output_tokens": 228,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-overwhelmed",
+            "file_path": "coach/concerns/im-overwhelmed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-rush-signature",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is a hub-level concern definition; the client is already naming overwhelm and asking for concrete triage help, not exploring what overwhelm is or means.",
+              "follow_edges": [
+                "the-thing-not-being-said-as-the-fear-signal",
+                "overwhelm-reduces-productivity",
+                "meaning-of-overwhelm-determines-direction"
+              ],
+              "follow_reason": "Client paused on \"it felt like a lot. Like more than a logistics problem\"—that's the signal Joe hears. Follow the edges that address what's underneath the triage request and the belief that overwhelm is helping her move."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "the-thing-not-being-said-as-the-fear-signal",
+              "overwhelm-reduces-productivity",
+              "meaning-of-overwhelm-determines-direction"
+            ],
+            "edges_skipped": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "opposite-of-trying",
+              "overwhelm",
+              "the-rush-signature"
+            ],
+            "cost_usd": 0.004607,
+            "ms": 13248,
+            "input_tokens": 3547,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-keep-postponing-enjoyment",
+            "file_path": "coach/concerns/i-keep-postponing-enjoyment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap",
+              "pulling-the-brakes"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is not postponing enjoyment; she's in acute overwhelm and avoidance of a difficult feeling about the deck. She's asking for concrete triage, not for help with future-orientation or presence.",
+              "follow_edges": [
+                "apply-enjoy-to-whats-here",
+                "pulling-the-brakes"
+              ],
+              "follow_reason": "The pause and \"felt like a lot\" suggest she's braking before a difficult feeling. apply-enjoy-to-whats-here could help if Joe goes toward the feeling instead of the logistics; pulling-the-brakes maps the mechanism she's using to avoid it."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "apply-enjoy-to-whats-here",
+              "pulling-the-brakes"
+            ],
+            "edges_skipped": [
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap"
+            ],
+            "cost_usd": 0.00498,
+            "ms": 2658,
+            "input_tokens": 3925,
+            "output_tokens": 211,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "what-if-you-acted-exactly-how-you-want",
+            "file_path": "coach/questions/what-if-you-acted-exactly-how-you-want.md",
+            "category": "questions",
+            "candidate_edges": [
+              "aaron-de-la-salle-first-day",
+              "boundaries",
+              "empowered-vs-power",
+              "feared-consequences-rarely-happen",
+              "humility-vs-disempowerment",
+              "just-be-yourself-and-see-what-happens",
+              "so-they-attacked-you-how-do-you-want-to-be",
+              "triggers-reduce-when-you-know-you-can-leave",
+              "vulnerability"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is explicitly asking for concrete triage help right now, not a philosophical reframing about acting authentically—they're in avoidance of the emotional weight they just felt and need tactical support first.",
+              "follow_edges": [
+                "feared-consequences-rarely-happen"
+              ],
+              "follow_reason": "Client felt something shift (\"more than a logistics problem\") then retreated to concrete action; feared-consequences explores what's actually at stake beneath the triage request, which may unlock why the deck feels like \"a lot.\""
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "feared-consequences-rarely-happen"
+            ],
+            "edges_skipped": [
+              "aaron-de-la-salle-first-day",
+              "boundaries",
+              "empowered-vs-power",
+              "humility-vs-disempowerment",
+              "just-be-yourself-and-see-what-happens",
+              "so-they-attacked-you-how-do-you-want-to-be",
+              "triggers-reduce-when-you-know-you-can-leave",
+              "vulnerability"
+            ],
+            "cost_usd": 0.004443,
+            "ms": 2661,
+            "input_tokens": 3513,
+            "output_tokens": 186,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "disassociating-in-the-coaching-room",
+            "file_path": "coach/reads/disassociating-in-the-coaching-room.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "chin-up-as-emotion-block",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is dissociating in real time—pausing mid-thought, then pivoting to intellectualizing (\"triage,\" \"something concrete\") to escape the feeling that \"it felt like a lot.\" This read names exactly what's happening and how to work with it.",
+              "follow_edges": [
+                "am-i-doing-it-right",
+                "intellectual-question-with-emotional-body"
+              ],
+              "follow_reason": "Client is using intellectualizing as the dissociation move (triage, concrete tasks) and asking for external validation (\"I'm good at triage when someone helps me see it\"). Both edges map directly to the pattern showing up now."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "am-i-doing-it-right",
+              "intellectual-question-with-emotional-body"
+            ],
+            "edges_skipped": [
+              "chin-up-as-emotion-block",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "cost_usd": 0.004639,
+            "ms": 4033,
+            "input_tokens": 3559,
+            "output_tokens": 216,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "i-dont-have-time-for-this",
+            "file_path": "coach/concerns/i-dont-have-time-for-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "business-as-spiritual-practice",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "mandela-empowerment",
+              "subway-kid",
+              "victim-stance-invites-abuse"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is using \"no time\" as a defense against feeling something deeper—the pause and \"it felt like a lot\" signal the real work is underneath, not in time management or triage.",
+              "follow_edges": [
+                "fear-is-about-feeling"
+              ],
+              "follow_reason": "Client is fleeing the feeling (\"not useful right now\") into concrete action; need to understand what the feeling is before any triage will land."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "business-as-spiritual-practice",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "mandela-empowerment",
+              "subway-kid",
+              "victim-stance-invites-abuse"
+            ],
+            "cost_usd": 0.0041,
+            "ms": 2505,
+            "input_tokens": 3260,
+            "output_tokens": 168,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0109327,
+        "walker_total_cost_usd": 0.028001,
+        "total_cost_usd": 0.0389337,
+        "seed_detection_input_tokens": 895,
+        "seed_detection_output_tokens": 156,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21896,
+        "walker_total_output_tokens": 1221,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2974,
+        "walker_total_ms": 27759,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.16666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 12
+      },
+      "cost_usd": 0.0389337,
+      "ms": 30734
+    }
+  ]
+}

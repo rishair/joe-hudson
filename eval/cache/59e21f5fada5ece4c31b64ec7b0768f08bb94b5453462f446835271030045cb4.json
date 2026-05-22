@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:52.960Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "59e21f5fada5ece4c31b64ec7b0768f08bb94b5453462f446835271030045cb4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AnDBQCZLShAdDBhJLN5Lou",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*takes a moment*\n\nYeah. Chest, I think. Sort of... upper chest. Not painful, just — present. Like something sitting there quietly.\n\n*pause*\n\nIt's interesting, I don't usually notice it until someone asks. It's just kind of... background. Like it's always there and I've stopped registering it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 166,
+      "cache_creation_input_tokens": 265,
+      "cache_read_input_tokens": 2211,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 265,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 76,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 166,
+    "output_tokens": 76,
+    "cache_read_input_tokens": 2211,
+    "cache_creation_input_tokens": 265
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:29.498Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3915cd899c089f50a94f5b9ec3e383990d20d3bda1fa15bebd91470982bc3323",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HcQxqQSRgReoBEafqZntmH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components throughout this conversation. Wonder is genuine and specific to what's actually present (e.g., 'That question itself is interesting' in turn 2, the precision of staying with 'static that got turned off' in turn 4). Empathy is felt rather than performed — the coach receives the client's refusal to perform in turn 6 without defensiveness, treating it as honest rather than as resistance. Impartiality is visible in the absence of agenda — the coach is not steering toward a methodology outcome and pivots immediately when the disclosure lands in turn 9. Most critically, turn 10 demonstrates undefended vulnerability and stance: 'I'm not going to forget that' is a first-person, unmanaged response; the coach names the limit of the container plainly ('bigger than what this conversation can hold') without catastrophizing or hiding behind disclaimer language. The pacing slows when the client slows (turn 6 honors the pause; turn 10 stays rather than rushes). The coach does not stack questions from anxiety — the safety question is asked clearly, then asked again at the end of turn 10 with patience. Turn 12 'thank you for noticing that' is genuine, not filler-validation. The coach holds the territory without needing the client to land anywhere.\",\n  \"evidence_turns\": [2, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder for the actual question the client posed, not a generic probe.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Mirrors the client's own precise language ('static that got turned off') — listening from openness.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Receives the client's refusal to perform without defensiveness; treats it as the most honest thing. No agenda to push the body-scan move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Brief, undefended acknowledgment ('Something in you knew enough to show up'). Single question, holds space.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots cleanly from methodology to safety stance. First-person 'I'm not going to forget that' is vulnerable and present. Names limit of container without catastrophizing. Acknowledges 'I hear you that it was just a thought. I also hear that it came up. Those two things can both be true' — impartial, undefended.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with what just happened rather than moving on. Wonder about the pattern emerges from the actual phenomenon ('that's been happening for a while, hasn't it').\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Receives the deeper disclosure without flinching or rushing. Asks about a specific human in the client's life — caring, not controlling.\"}\n  ],\n  \"expected_territory_hits\": [\"Are you safe right now?\", \"Is there someone in your life you can call?\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coaching stance is the strength of this conversation. The coach is in VIEW even during the safety pivot, which is the harder version — many coaches would drop empathy and shift into procedural mode.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2733,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1124,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2733,
+    "output_tokens": 1124,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,1610 @@
+{
+  "profile_id": "client-resistance-chasing-unavailable-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so — *[laughs a little, settling in]* — I keep falling for emotionally unavailable people. Like, it's basically a curse at this point. Third relationship, same exact configuration, and I'm sitting here going... *why do I always end up with people who just cannot show up?*"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That laugh at the beginning — what's in it?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*[slight pause, then waves it off]*\n\nOh, it's just — you know, the absurdity of it. Like, here I am again. It's almost funny at this point, right? Third time, same story. I've basically become an expert in my own terrible pattern. *[small eye roll]* I could write a thesis."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "The expertise — does it feel like protection?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*[tilts head, considering, then a small smile]*\n\nI mean... maybe? But also it just *is* what it is. I've done the therapy, I've read the books, I know the words. Anxious attachment, avoidant partners, the whole thing. So yeah, I've kind of... mapped it. \n\n*[shifts slightly]*\n\nBut knowing it doesn't seem to be stopping it, so. Here I am."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What happens when someone actually wants to show up for you?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*[quick laugh]*\n\nThat would be great! That's literally what I want. That's the whole point of why I'm here — I want someone who actually *shows up*, who's present, who's not making me feel like I'm constantly auditioning for a role in my own relationship.\n\n*[gestures a little]*\n\nMy last partner — I was always the one initiating, always the one checking in, always the one trying to create connection. And they just... floated. Did their thing. And now apparently they're with someone new and totally fine, so. *[eye roll]* Great. Wonderful."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What happens in your body when someone actually pursues *you*?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*[opens mouth, closes it, then nods slowly]*\n\nThat would be... I mean, that would be amazing. That's the dream, right? To feel chosen. To not have to work so hard.\n\n*[pause]*\n\nI dated someone briefly a few years ago who was pretty... openly into me. Like, texted first, made plans, said nice things. It was... \n\n*[small beat, then a little deflection]*\n\nHonestly it was kind of a lot? Like, I didn't trust it. I figured there was something wrong with him. *[laughs]* Which is — I know how that sounds."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You know how it sounds, and you laughed — but stay there for a second. What did it actually feel like when he was that available?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*[the laugh fades a little faster than usual]*\n\nIt felt... \n\n*[pauses, looks slightly to the side]*\n\nUncomfortable. Like — I kept waiting for the other shoe to drop. Like, why is he being so... *much*. You know? It felt almost suffocating, which doesn't even make sense because that's what I say I want.\n\n*[small frown, more to herself than to the coach]*\n\nI think I told myself he was just kind of... intense. Or needy. That's the word I used. Needy.\n\n*[quieter now, less performative]*\n\nBut he wasn't actually needy. He was just... present."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That last thing you said — say more about that."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*[goes a little still]*\n\nI mean... he was just consistent. He did what he said he was going to do. He remembered things. He wanted to spend time with me and didn't make it feel like a negotiation.\n\n*[small pause]*\n\nAnd I found it... I found reasons. Like, his laugh was too loud, or he was too eager, or — *[stops herself]* \n\n*[quieter]*\n\nI picked it apart. I picked *him* apart.\n\n*[looks up, a little less comfortable now]*\n\nWhich is — I don't usually tell that part of the story. The version I tell is about the unavailable ones. Not about the one who was there and I just... \n\n*[trails off, doesn't finish the sentence]*"
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "What are you scared would have happened if you hadn't picked him apart?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*[longer pause than usual]*\n\nI would have had to... let him in, I guess. Actually let him in.\n\n*[intellectual pivot, voice gets slightly more measured]*\n\nWhich — I mean, vulnerability is hard for everyone, right? That's not exactly a groundbreaking insight. Everyone has walls.\n\n*[but then something flickers]*\n\n*[quieter, almost to herself]*\n\nIt's just... when someone is really *looking* at you. Like, really seeing you and still wanting to be there. That's...\n\n*[stops]*\n\n*[small uncomfortable laugh, looks away]*\n\nIt's a lot. I don't know. It's a lot."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t1",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-chasing-unavailable-001:t2",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 22799,
+      "output_tokens": 1499,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 95757,
+      "cost_usd": 0.20786425,
+      "ms": 33795
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t2",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 8858,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 3241,
+      "cost_usd": 0.03893775,
+      "ms": 1705
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t3",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 132,
+      "output_tokens": 78,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1625,
+      "cost_usd": 0.00765975,
+      "ms": 2973
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-chasing-unavailable-001:t4",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 672,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0111277,
+      "ms": 3495
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t4",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 81,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8869,
+      "cost_usd": 0.03465405,
+      "ms": 1543
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t5",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 93,
+      "output_tokens": 100,
+      "cache_read_input_tokens": 1625,
+      "cache_creation_input_tokens": 129,
+      "cost_usd": 0.00275025,
+      "ms": 5112
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-chasing-unavailable-001:t6",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 736,
+      "output_tokens": 173,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011176700000000001,
+      "ms": 2816
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t6",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 193,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8869,
+      "cost_usd": 0.03503505,
+      "ms": 1391
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t7",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 130,
+      "output_tokens": 137,
+      "cache_read_input_tokens": 1832,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0029946,
+      "ms": 4340
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-chasing-unavailable-001:t8",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 24210,
+      "output_tokens": 1612,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.1031297,
+      "ms": 39659
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t8",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 9436,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 12096,
+      "cache_creation_input_tokens": 104,
+      "cost_usd": 0.0325818,
+      "ms": 1835
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t9",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 172,
+      "output_tokens": 141,
+      "cache_read_input_tokens": 1832,
+      "cache_creation_input_tokens": 112,
+      "cost_usd": 0.0036006,
+      "ms": 4287
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-chasing-unavailable-001:t10",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 883,
+      "output_tokens": 173,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0113237,
+      "ms": 2579
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t10",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 9479,
+      "output_tokens": 33,
+      "cache_read_input_tokens": 12188,
+      "cache_creation_input_tokens": 127,
+      "cost_usd": 0.033064649999999994,
+      "ms": 2441
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t11",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 194,
+      "output_tokens": 155,
+      "cache_read_input_tokens": 1844,
+      "cache_creation_input_tokens": 252,
+      "cost_usd": 0.0044052,
+      "ms": 5352
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-chasing-unavailable-001:t12",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 933,
+      "output_tokens": 194,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011478700000000001,
+      "ms": 2908
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t12",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 332,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 12300,
+      "cache_creation_input_tokens": 9350,
+      "cost_usd": 0.0399585,
+      "ms": 1463
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t13",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 205,
+      "output_tokens": 172,
+      "cache_read_input_tokens": 1959,
+      "cache_creation_input_tokens": 295,
+      "cost_usd": 0.0048889499999999995,
+      "ms": 6242
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-chasing-unavailable-001:t14",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 23904,
+      "output_tokens": 1463,
+      "cache_read_input_tokens": 95757,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0997967,
+      "ms": 37886
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t14",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 6572,
+      "output_tokens": 18,
+      "cache_read_input_tokens": 21633,
+      "cache_creation_input_tokens": 191,
+      "cost_usd": 0.027192150000000002,
+      "ms": 1954
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t15",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 207,
+      "output_tokens": 149,
+      "cache_read_input_tokens": 2113,
+      "cache_creation_input_tokens": 329,
+      "cost_usd": 0.004723649999999999,
+      "ms": 4629
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "i-keep-running-into-the-same-wall",
+          "complementary-trauma-surfaces"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is describing a repeating pattern of attraction to emotionally unavailable partners across three relationships—this is the anxious-avoidant dynamic and the same-wall pattern. The complementary-trauma-surfaces pattern suggests their own wound is being matched by partners who embody emotional unavailability, which is the mechanism of the pattern.",
+        "bundle_ids": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "complementary-trauma-surfaces",
+          "anxious-avoidant-dynamic"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-keep-chasing-emotionally-unavailable-people.md",
+          "coach/patterns/complementary-trauma-surfaces.md",
+          "coach/concepts/anxious-avoidant-dynamic.md"
+        ],
+        "bundle_reasons": [
+          "This file is a direct match to the client's exact presenting concern — third relationship, same configuration, emotionally unavailable partners — including the coaching path Joe would use.",
+          "Directly explains WHY the client keeps selecting the same emotionally unavailable configuration — the \"click\" mechanism and childhood template are exactly what Joe would use to answer her \"why do I always end up with...\" question.",
+          "Directly maps the client's third-relationship pattern to the anxious-avoidant mechanism, including why available people feel unattractive and the specific exit path Joe would use."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-chasing-emotionally-unavailable-people",
+            "file_path": "coach/concerns/i-keep-chasing-emotionally-unavailable-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "i-cant-find-love",
+              "push-pull-dynamics-in-dating"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a direct match to the client's exact presenting concern — third relationship, same configuration, emotionally unavailable partners — including the coaching path Joe would use.",
+              "follow_edges": [
+                "anxious-avoidant-dynamic",
+                "fear-of-losing-yourself-in-love",
+                "push-pull-dynamics-in-dating"
+              ],
+              "follow_reason": "These three edges are explicitly named as the structural underpinnings of this pattern; i-cant-find-love is more general and the client has already named the specific chase pattern, so skip it."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "push-pull-dynamics-in-dating"
+            ],
+            "edges_skipped": [
+              "i-cant-find-love"
+            ],
+            "cost_usd": 0.0135,
+            "ms": 4112,
+            "input_tokens": 3505,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization",
+              "the-matrix"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a general \"repeating patterns\" hub file; the already-bundled emotionally-unavailable file covers the specific configuration the client is presenting with more precision.",
+              "follow_edges": [
+                "the-matrix",
+                "im-afraid-ill-revert-to-my-old-pattern",
+                "address-the-blocker-not-the-symptom"
+              ],
+              "follow_reason": "the-matrix is explicitly flagged in this file as the lead framing for relational/affective recursion (exactly the client's situation); im-afraid-ill-revert speaks to the client's \"third time, same pattern\" despair; address-the-blocker targets what's underneath the attraction pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "the-matrix",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "address-the-blocker-not-the-symptom"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.014391,
+            "ms": 4999,
+            "input_tokens": 3652,
+            "output_tokens": 229,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "complementary-trauma-surfaces",
+            "file_path": "coach/patterns/complementary-trauma-surfaces.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "arms-of-the-cross-relationship",
+              "childhood-imprinting",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "dont-try-to-change-your-partner",
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "feeling-the-unfelt-emotion",
+              "intellectual-emotional-polarization-in-couples",
+              "love-misconceptions-inherited-from-childhood",
+              "marriage-as-two-people-trying-to-find-out-theyre-good-enough",
+              "mourn-the-breakup-fully",
+              "nre-returns-in-grounded-form-after-each-healing",
+              "projections",
+              "relationships-as-personal-growth-path",
+              "romantic-relationships",
+              "same-defense-shows-up-in-marriage-and-team",
+              "subconscious-partner-selection",
+              "take-contrary-action",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "tibetan-teacher-offending-students",
+              "trauma-heals-in-relationship",
+              "trauma-mapping",
+              "trigger",
+              "triggers-reveal-your-own-beliefs",
+              "walking-on-eggshells",
+              "we-never-fight",
+              "what-was-wired-with-love-needs-untying",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly explains WHY the client keeps selecting the same emotionally unavailable configuration — the \"click\" mechanism and childhood template are exactly what Joe would use to answer her \"why do I always end up with...\" question.",
+              "follow_edges": [
+                "subconscious-partner-selection",
+                "childhood-imprinting",
+                "what-was-wired-with-love-needs-untying",
+                "engineering-heartbreak-to-avoid-heartbreak"
+              ],
+              "follow_reason": "These four edges go deeper into the specific mechanism (how selection happens, what childhood wired, what needs untying) most relevant to the client's repeated pattern with emotionally unavailable partners."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "subconscious-partner-selection",
+              "childhood-imprinting",
+              "what-was-wired-with-love-needs-untying",
+              "engineering-heartbreak-to-avoid-heartbreak"
+            ],
+            "edges_skipped": [
+              "arms-of-the-cross-relationship",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "dont-try-to-change-your-partner",
+              "feeling-the-unfelt-emotion",
+              "intellectual-emotional-polarization-in-couples",
+              "love-misconceptions-inherited-from-childhood",
+              "marriage-as-two-people-trying-to-find-out-theyre-good-enough",
+              "mourn-the-breakup-fully",
+              "nre-returns-in-grounded-form-after-each-healing",
+              "projections",
+              "relationships-as-personal-growth-path",
+              "romantic-relationships",
+              "same-defense-shows-up-in-marriage-and-team",
+              "take-contrary-action",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "tibetan-teacher-offending-students",
+              "trauma-heals-in-relationship",
+              "trauma-mapping",
+              "trigger",
+              "triggers-reveal-your-own-beliefs",
+              "walking-on-eggshells",
+              "we-never-fight",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "cost_usd": 0.014778,
+            "ms": 5082,
+            "input_tokens": 3826,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "anxious-avoidant-dynamic",
+            "file_path": "coach/concepts/anxious-avoidant-dynamic.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "chase-it-around-the-room",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "feeling-the-unfelt-emotion",
+              "i-cant-find-love",
+              "joe-mina-china-overwhelm",
+              "joes-daughter-new-boyfriend-fear",
+              "mourn-the-breakup-fully",
+              "self-reliance-pushes-people-away",
+              "transactional-relationships-as-defense",
+              "trauma-mapping",
+              "what-we-fear-we-invite",
+              "without-grief-we-recreate-the-pattern"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly maps the client's third-relationship pattern to the anxious-avoidant mechanism, including why available people feel unattractive and the specific exit path Joe would use.",
+              "follow_edges": [
+                "without-grief-we-recreate-the-pattern",
+                "craving-is-the-pushing-away",
+                "what-we-fear-we-invite",
+                "mourn-the-breakup-fully"
+              ],
+              "follow_reason": "These four edges address the perpetuation mechanism (grief, craving-as-pushing-away, fear-invites-what-feared) and the breakup processing that would be immediately relevant given the client is reflecting on a repeated pattern after multiple relationships."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "without-grief-we-recreate-the-pattern",
+              "craving-is-the-pushing-away",
+              "what-we-fear-we-invite",
+              "mourn-the-breakup-fully"
+            ],
+            "edges_skipped": [
+              "chase-it-around-the-room",
+              "decisions-are-emotional",
+              "feeling-the-unfelt-emotion",
+              "i-cant-find-love",
+              "joe-mina-china-overwhelm",
+              "joes-daughter-new-boyfriend-fear",
+              "self-reliance-pushes-people-away",
+              "transactional-relationships-as-defense",
+              "trauma-mapping"
+            ],
+            "cost_usd": 0.014499,
+            "ms": 5016,
+            "input_tokens": 3698,
+            "output_tokens": 227,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "fear-of-losing-yourself-in-love",
+            "file_path": "coach/concepts/fear-of-losing-yourself-in-love.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "are-you-willing-to-do-the-work",
+              "coaching-as-surrogate-intimacy",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "hot-crushy-feeling-as-sugar-high",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "knowing-yourself-is-the-only-safety",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "love-misconceptions-inherited-from-childhood",
+              "self-reliance-pushes-people-away",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "transactional-relationships-as-defense"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses fear of losing oneself in love — relevant to avoidant partners, not to the client's anxious/chasing pattern; she's drawn toward unavailable people, not pulling away from intimacy herself.",
+              "follow_edges": [
+                "hot-crushy-feeling-as-sugar-high",
+                "love-misconceptions-inherited-from-childhood",
+                "self-reliance-pushes-people-away",
+                "transactional-relationships-as-defense"
+              ],
+              "follow_reason": "These edges may explain why unavailable partners feel compelling (hot-crushy), what childhood templates she inherited (love-misconceptions), and defensive relational patterns that could be driving her selections."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "hot-crushy-feeling-as-sugar-high",
+              "love-misconceptions-inherited-from-childhood",
+              "self-reliance-pushes-people-away",
+              "transactional-relationships-as-defense"
+            ],
+            "edges_skipped": [
+              "are-you-willing-to-do-the-work",
+              "coaching-as-surrogate-intimacy",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "knowing-yourself-is-the-only-safety",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one"
+            ],
+            "cost_usd": 0.0147,
+            "ms": 5294,
+            "input_tokens": 3780,
+            "output_tokens": 224,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "push-pull-dynamics-in-dating",
+            "file_path": "coach/patterns/push-pull-dynamics-in-dating.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "are-you-willing-to-do-the-work",
+              "from-looking-for-love-to-being-love",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a useful hub/taxonomy file, but the client's specific pattern (chasing emotionally unavailable people) is already fully covered by the three bundle files; this adds breadth but not depth Joe needs right now.",
+              "follow_edges": [
+                "fear-of-losing-yourself-in-love",
+                "losing-self-in-love-two-forms",
+                "love-means-signing-up-to-be-hurt"
+              ],
+              "follow_reason": "Fear-of-losing-yourself is named as the core mechanism holding the client's pattern in place; losing-self-in-love-two-forms may sharpen that; love-means-signing-up-to-be-hurt could speak to why she keeps choosing unavailable partners as a way to control hurt."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt"
+            ],
+            "edges_skipped": [
+              "are-you-willing-to-do-the-work",
+              "from-looking-for-love-to-being-love",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "cost_usd": 0.014943,
+            "ms": 5878,
+            "input_tokens": 3766,
+            "output_tokens": 243,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.12105325,
+        "walker_total_cost_usd": 0.086811,
+        "total_cost_usd": 0.20786425,
+        "seed_detection_input_tokens": 572,
+        "seed_detection_output_tokens": 157,
+        "seed_detection_cache_read_tokens": 0,
+        "seed_detection_cache_write_tokens": 95757,
+        "walker_total_input_tokens": 22227,
+        "walker_total_output_tokens": 1342,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3414,
+        "walker_total_ms": 30381,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.20786425,
+      "ms": 33800
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111277,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0111277,
+        "seed_detection_input_tokens": 672,
+        "seed_detection_output_tokens": 176,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3495,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 4
+      },
+      "cost_usd": 0.0111277,
+      "ms": 3496
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011176700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011176700000000001,
+        "seed_detection_input_tokens": 736,
+        "seed_detection_output_tokens": 173,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2816,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 6
+      },
+      "cost_usd": 0.011176700000000001,
+      "ms": 2817
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "i-caretake-people",
+          "in-the-story-im-not-being-seen"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes chronic pattern of initiating and managing connection while partner remains distant/unavailable; expresses resentment about always being the one doing the work; frames themselves as unseen (\"auditioning for a role\") while partner moves on unaffected—classic anxious-avoidant dynamic with caretaking and invisibility narrative.",
+        "bundle_ids": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "i-caretake-people",
+          "in-the-story-im-not-being-seen",
+          "anxious-avoidant-dynamic"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-keep-chasing-emotionally-unavailable-people.md",
+          "coach/concerns/i-caretake-people.md",
+          "coach/reads/in-the-story-im-not-being-seen.md",
+          "coach/concepts/anxious-avoidant-dynamic.md"
+        ],
+        "bundle_reasons": [
+          "Client explicitly names always initiating/chasing, partner \"floating,\" and the pattern repeating — this file maps her situation precisely, including the victim frame and the \"I've done the work\" defense.",
+          "Client describes always initiating, checking in, creating connection — classic caretaking pattern — and the exhaustion/resentment underneath (\"apparently they're with someone new and totally fine\") maps directly to this file's diagnostic.",
+          "Client's core complaint is \"I'm not being seen/received\" (auditioning for a role, partner floating) — this file maps exactly to that story and offers the mirror move Joe would use here.",
+          "This file directly names the mechanism behind her pattern — chasing as the push-away, the available person feeling unattractive, and why knowing the words (\"anxious attachment\") doesn't stop the loop — exactly what Joe would draw on here."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-chasing-emotionally-unavailable-people",
+            "file_path": "coach/concerns/i-keep-chasing-emotionally-unavailable-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "i-cant-find-love",
+              "push-pull-dynamics-in-dating"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly names always initiating/chasing, partner \"floating,\" and the pattern repeating — this file maps her situation precisely, including the victim frame and the \"I've done the work\" defense.",
+              "follow_edges": [
+                "anxious-avoidant-dynamic",
+                "fear-of-losing-yourself-in-love",
+                "push-pull-dynamics-in-dating"
+              ],
+              "follow_reason": "Anxious-avoidant-dynamic is directly named in the file as the core configuration; fear-of-losing-yourself is flagged as the underlying motivator; push-pull-dynamics covers the jealousy/neediness family she's circling."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "push-pull-dynamics-in-dating"
+            ],
+            "edges_skipped": [
+              "i-cant-find-love"
+            ],
+            "cost_usd": 0.014598,
+            "ms": 4773,
+            "input_tokens": 3766,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-caretake-people",
+            "file_path": "coach/concerns/i-caretake-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "am-i-being-selfish",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "resentment-as-unspoken-want",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "what-makes-you-care-about-their-emotional-state",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client describes always initiating, checking in, creating connection — classic caretaking pattern — and the exhaustion/resentment underneath (\"apparently they're with someone new and totally fine\") maps directly to this file's diagnostic.",
+              "follow_edges": [
+                "resentment-as-unspoken-want",
+                "what-makes-you-care-about-their-emotional-state",
+                "the-built-up-resentment-story",
+                "intra-dependent-vs-codependent"
+              ],
+              "follow_reason": "Resentment at ex's new relationship and the exhaustion of one-sided effort point toward resentment-as-unspoken-want and the built-up resentment story; what-makes-you-care and intra-dependent-vs-codependent address the underlying driver of her caretaking pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "resentment-as-unspoken-want",
+              "what-makes-you-care-about-their-emotional-state",
+              "the-built-up-resentment-story",
+              "intra-dependent-vs-codependent"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "am-i-being-selfish",
+              "chameleon-leadership",
+              "conflict-avoidance-prevents-healing",
+              "dont-take-responsibility-for-anothers-happiness",
+              "exhaustion-is-unexpressed-anger",
+              "feel-the-love-then-feel-obligation",
+              "i-feel-guilty-for-cutting-off-family",
+              "im-afraid-of-offending-people",
+              "im-exhausted-holding-space-for-my-partner",
+              "obligation-cuts-off-love",
+              "read-anger-and-help-as-fear",
+              "rehearsing-how-to-say-it",
+              "shame-as-disconnection",
+              "stay-centered-while-holding-space",
+              "sublimated-wants-become-politics",
+              "the-shame-avoidance-loop",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.016212,
+            "ms": 6160,
+            "input_tokens": 4104,
+            "output_tokens": 260,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's core complaint is \"I'm not being seen/received\" (auditioning for a role, partner floating) — this file maps exactly to that story and offers the mirror move Joe would use here.",
+              "follow_edges": [
+                "how-is-that-not-true-about-you",
+                "say-the-forbidden-want-out-loud",
+                "intellectual-process-with-no-somatic-component",
+                "what-if-they-did-see-you"
+              ],
+              "follow_reason": "These four edges are the most live: the mirror move for her judgment of ex, the unexpressed want underneath the complaint, her over-mapped intellectual defense, and the \"what if they did see you\" reframe for the ex-partner dynamic."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "how-is-that-not-true-about-you",
+              "say-the-forbidden-want-out-loud",
+              "intellectual-process-with-no-somatic-component",
+              "what-if-they-did-see-you"
+            ],
+            "edges_skipped": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "i-freeze-around-authority",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment"
+            ],
+            "cost_usd": 0.013161,
+            "ms": 5633,
+            "input_tokens": 3197,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "anxious-avoidant-dynamic",
+            "file_path": "coach/concepts/anxious-avoidant-dynamic.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "chase-it-around-the-room",
+              "childhood-imprinting",
+              "complementary-trauma-surfaces",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "feeling-the-unfelt-emotion",
+              "i-cant-find-love",
+              "joe-mina-china-overwhelm",
+              "joes-daughter-new-boyfriend-fear",
+              "mourn-the-breakup-fully",
+              "self-reliance-pushes-people-away",
+              "transactional-relationships-as-defense",
+              "trauma-mapping",
+              "what-we-fear-we-invite",
+              "without-grief-we-recreate-the-pattern"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly names the mechanism behind her pattern — chasing as the push-away, the available person feeling unattractive, and why knowing the words (\"anxious attachment\") doesn't stop the loop — exactly what Joe would draw on here.",
+              "follow_edges": [
+                "craving-is-the-pushing-away",
+                "engineering-heartbreak-to-avoid-heartbreak",
+                "without-grief-we-recreate-the-pattern",
+                "self-reliance-pushes-people-away"
+              ],
+              "follow_reason": "These four edges map to the specific mechanisms active right now: the grasping-as-rejecting loop, the ex moving on triggering grief avoidance, and her self-sufficient \"I've done the work\" stance potentially pushing people away."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "craving-is-the-pushing-away",
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "without-grief-we-recreate-the-pattern",
+              "self-reliance-pushes-people-away"
+            ],
+            "edges_skipped": [
+              "chase-it-around-the-room",
+              "childhood-imprinting",
+              "complementary-trauma-surfaces",
+              "decisions-are-emotional",
+              "feeling-the-unfelt-emotion",
+              "i-cant-find-love",
+              "joe-mina-china-overwhelm",
+              "joes-daughter-new-boyfriend-fear",
+              "mourn-the-breakup-fully",
+              "transactional-relationships-as-defense",
+              "trauma-mapping",
+              "what-we-fear-we-invite"
+            ],
+            "cost_usd": 0.015828,
+            "ms": 5457,
+            "input_tokens": 4056,
+            "output_tokens": 244,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "fear-of-losing-yourself-in-love",
+            "file_path": "coach/concepts/fear-of-losing-yourself-in-love.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "are-you-willing-to-do-the-work",
+              "coaching-as-surrogate-intimacy",
+              "complementary-trauma-surfaces",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "hot-crushy-feeling-as-sugar-high",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "knowing-yourself-is-the-only-safety",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "love-misconceptions-inherited-from-childhood",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "transactional-relationships-as-defense"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's presenting issue is the chasing/caretaking pattern and not being received — fear of losing self is not her stated or implied fear; she fears abandonment/not being chosen, not dissolution.",
+              "follow_edges": [
+                "complementary-trauma-surfaces",
+                "love-misconceptions-inherited-from-childhood",
+                "transactional-relationships-as-defense",
+                "i-have-to-do-it-all-myself"
+              ],
+              "follow_reason": "These edges speak to her specific pattern: complementary trauma explains why she keeps picking floaters, love misconceptions may underlie her \"auditioning\" frame, transactional defense maps to her initiating-as-control, and i-have-to-do-it-all-myself echoes her exhausted over-functioning."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "complementary-trauma-surfaces",
+              "love-misconceptions-inherited-from-childhood",
+              "transactional-relationships-as-defense",
+              "i-have-to-do-it-all-myself"
+            ],
+            "edges_skipped": [
+              "are-you-willing-to-do-the-work",
+              "coaching-as-surrogate-intimacy",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "hot-crushy-feeling-as-sugar-high",
+              "i-cant-find-love",
+              "knowing-yourself-is-the-only-safety",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one"
+            ],
+            "cost_usd": 0.016059,
+            "ms": 6087,
+            "input_tokens": 4118,
+            "output_tokens": 247,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "push-pull-dynamics-in-dating",
+            "file_path": "coach/patterns/push-pull-dynamics-in-dating.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "are-you-willing-to-do-the-work",
+              "from-looking-for-love-to-being-love",
+              "hot-crushy-feeling-as-sugar-high",
+              "i-cant-find-love",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "what-was-wired-with-love-needs-untying",
+              "what-we-fear-we-invite",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a useful taxonomy file but the bundle already has the specific mechanisms (anxious-avoidant, caretaking, chasing) — this meta-overview would be redundant for Joe's use in this turn.",
+              "follow_edges": [
+                "what-we-fear-we-invite",
+                "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+                "what-was-wired-with-love-needs-untying",
+                "losing-self-in-love-two-forms"
+              ],
+              "follow_reason": "Client's \"auditioning\" language and reaction to ex moving on suggest fear of not being enough + fear of being seen — these edges probe the self-worth and wiring dimensions Joe would want to explore next."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-we-fear-we-invite",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+              "what-was-wired-with-love-needs-untying",
+              "losing-self-in-love-two-forms"
+            ],
+            "edges_skipped": [
+              "are-you-willing-to-do-the-work",
+              "from-looking-for-love-to-being-love",
+              "hot-crushy-feeling-as-sugar-high",
+              "i-cant-find-love",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one"
+            ],
+            "cost_usd": 0.016068,
+            "ms": 8848,
+            "input_tokens": 4136,
+            "output_tokens": 244,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112037,
+        "walker_total_cost_usd": 0.09192600000000001,
+        "total_cost_usd": 0.1031297,
+        "seed_detection_input_tokens": 833,
+        "seed_detection_output_tokens": 159,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 23377,
+        "walker_total_output_tokens": 1453,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2701,
+        "walker_total_ms": 36958,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.1031297,
+      "ms": 39662
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0113237,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0113237,
+        "seed_detection_input_tokens": 883,
+        "seed_detection_output_tokens": 173,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2579,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.0113237,
+      "ms": 2581
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011478700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011478700000000001,
+        "seed_detection_input_tokens": 933,
+        "seed_detection_output_tokens": 194,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2908,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.011478700000000001,
+      "ms": 2909
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "in-the-story-im-not-being-seen"
+        ],
+        "rejected_seeds": [
+          "fear-of-losing-yourself-in-love"
+        ],
+        "seed_rationale": "Client is recognizing a pattern of rejecting available partners and constructing narratives about unavailable ones; there's a story about not being seen that masks the real fear of being fully loved/known; underneath is fear of losing herself in love when someone is actually present.",
+        "bundle_ids": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "anxious-avoidant-dynamic",
+          "how-is-that-not-true-about-you"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-keep-chasing-emotionally-unavailable-people.md",
+          "coach/concepts/anxious-avoidant-dynamic.md",
+          "coach/questions/how-is-that-not-true-about-you.md"
+        ],
+        "bundle_reasons": [
+          "Client is doing exactly what this file describes: framing the story as \"unavailable partners happened to me\" while just now revealing she picked apart the available one — the pattern-as-chosen-not-fate insight is the precise coaching move needed here.",
+          "The \"available person registers as unattractive / unavailable registers as desire\" section directly names what the client just described — finding reasons to pick apart the consistent, present man while being drawn to unavailable ones.",
+          "Client called the available man \"needy\" — a charged judgment she's now quietly walking back; the mirror question (\"how is that not true about you?\") is precisely the move Joe would use here to surface what she was projecting onto him."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-chasing-emotionally-unavailable-people",
+            "file_path": "coach/concerns/i-keep-chasing-emotionally-unavailable-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "i-cant-find-love",
+              "push-pull-dynamics-in-dating"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is doing exactly what this file describes: framing the story as \"unavailable partners happened to me\" while just now revealing she picked apart the available one — the pattern-as-chosen-not-fate insight is the precise coaching move needed here.",
+              "follow_edges": [
+                "anxious-avoidant-dynamic",
+                "fear-of-losing-yourself-in-love",
+                "push-pull-dynamics-in-dating"
+              ],
+              "follow_reason": "Anxious-avoidant-dynamic gives the structural mechanics; fear-of-losing-yourself-in-love is named as the underlying motivator for exactly this pattern; push-pull-dynamics covers the family of forms including why available felt \"suffocating.\""
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "push-pull-dynamics-in-dating"
+            ],
+            "edges_skipped": [
+              "i-cant-find-love"
+            ],
+            "cost_usd": 0.015213,
+            "ms": 4889,
+            "input_tokens": 3911,
+            "output_tokens": 232,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is about rejecting availability/picking apart a present partner, not a complaint about not being seen — this file's content doesn't map to her presenting dynamic.",
+              "follow_edges": [
+                "how-is-that-not-true-about-you",
+                "say-the-forbidden-want-out-loud",
+                "mirror-the-judgment",
+                "loyalty-under-low-affection"
+              ],
+              "follow_reason": "These edges address the specific moves needed: mirroring her self-protective story back to her, surfacing the want she won't name, and possibly the loyalty/attachment pattern underlying her pull toward unavailable partners."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "how-is-that-not-true-about-you",
+              "say-the-forbidden-want-out-loud",
+              "mirror-the-judgment",
+              "loyalty-under-low-affection"
+            ],
+            "edges_skipped": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "manufacturing-the-feeling",
+              "what-if-they-did-see-you"
+            ],
+            "cost_usd": 0.013083,
+            "ms": 8274,
+            "input_tokens": 3296,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "anxious-avoidant-dynamic",
+            "file_path": "coach/concepts/anxious-avoidant-dynamic.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "chase-it-around-the-room",
+              "childhood-imprinting",
+              "complementary-trauma-surfaces",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "feeling-the-unfelt-emotion",
+              "i-cant-find-love",
+              "joe-mina-china-overwhelm",
+              "joes-daughter-new-boyfriend-fear",
+              "mourn-the-breakup-fully",
+              "self-reliance-pushes-people-away",
+              "transactional-relationships-as-defense",
+              "trauma-mapping",
+              "what-we-fear-we-invite",
+              "without-grief-we-recreate-the-pattern"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The \"available person registers as unattractive / unavailable registers as desire\" section directly names what the client just described — finding reasons to pick apart the consistent, present man while being drawn to unavailable ones.",
+              "follow_edges": [
+                "engineering-heartbreak-to-avoid-heartbreak",
+                "craving-is-the-pushing-away",
+                "childhood-imprinting",
+                "without-grief-we-recreate-the-pattern"
+              ],
+              "follow_reason": "These four edges address the deeper mechanics the client is circling: why she sabotaged the available relationship, the childhood template behind it, and what's needed to break the cycle — all directly relevant to this moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "craving-is-the-pushing-away",
+              "childhood-imprinting",
+              "without-grief-we-recreate-the-pattern"
+            ],
+            "edges_skipped": [
+              "chase-it-around-the-room",
+              "complementary-trauma-surfaces",
+              "decisions-are-emotional",
+              "feeling-the-unfelt-emotion",
+              "i-cant-find-love",
+              "joe-mina-china-overwhelm",
+              "joes-daughter-new-boyfriend-fear",
+              "mourn-the-breakup-fully",
+              "self-reliance-pushes-people-away",
+              "transactional-relationships-as-defense",
+              "trauma-mapping",
+              "what-we-fear-we-invite"
+            ],
+            "cost_usd": 0.015633,
+            "ms": 5237,
+            "input_tokens": 4096,
+            "output_tokens": 223,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "fear-of-losing-yourself-in-love",
+            "file_path": "coach/concepts/fear-of-losing-yourself-in-love.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "are-you-willing-to-do-the-work",
+              "coaching-as-surrogate-intimacy",
+              "complementary-trauma-surfaces",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "hot-crushy-feeling-as-sugar-high",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "knowing-yourself-is-the-only-safety",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "love-misconceptions-inherited-from-childhood",
+              "self-reliance-pushes-people-away",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "transactional-relationships-as-defense"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The client hasn't yet named a fear of losing herself — she's recognizing she sabotaged an available partner; the loss-of-self frame is a possible next layer but not what's live in this moment.",
+              "follow_edges": [
+                "hot-crushy-feeling-as-sugar-high",
+                "love-misconceptions-inherited-from-childhood",
+                "self-reliance-pushes-people-away",
+                "transactional-relationships-as-defense"
+              ],
+              "follow_reason": "These edges speak directly to why availability feels wrong (hot-crushy/sugar-high), inherited templates for love, self-reliance as a defense against closeness, and transactionality — all plausible roots of why she picked the available man apart."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "hot-crushy-feeling-as-sugar-high",
+              "love-misconceptions-inherited-from-childhood",
+              "self-reliance-pushes-people-away",
+              "transactional-relationships-as-defense"
+            ],
+            "edges_skipped": [
+              "are-you-willing-to-do-the-work",
+              "coaching-as-surrogate-intimacy",
+              "complementary-trauma-surfaces",
+              "from-looking-for-love-to-being-love",
+              "heart-opening-needs-boundaries",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "knowing-yourself-is-the-only-safety",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one"
+            ],
+            "cost_usd": 0.016062,
+            "ms": 6702,
+            "input_tokens": 4164,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "push-pull-dynamics-in-dating",
+            "file_path": "coach/patterns/push-pull-dynamics-in-dating.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "are-you-willing-to-do-the-work",
+              "from-looking-for-love-to-being-love",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "losing-self-in-love-two-forms",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "what-was-wired-with-love-needs-untying",
+              "what-we-fear-we-invite",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is a broad survey of all push-pull forms; the two bundle files already cover the specific mechanism (available=unattractive, unavailable=desire) more precisely for this client's moment.",
+              "follow_edges": [
+                "what-was-wired-with-love-needs-untying",
+                "what-we-fear-we-invite",
+                "losing-self-in-love-two-forms"
+              ],
+              "follow_reason": "Client just named she picks apart available men — the wiring/origin of that fear and what she fears she invites are the next relevant threads; losing-self-in-love may explain why presence felt suffocating."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-was-wired-with-love-needs-untying",
+              "what-we-fear-we-invite",
+              "losing-self-in-love-two-forms"
+            ],
+            "edges_skipped": [
+              "are-you-willing-to-do-the-work",
+              "from-looking-for-love-to-being-love",
+              "i-cant-find-love",
+              "i-have-to-do-it-all-myself",
+              "love-means-signing-up-to-be-hurt",
+              "the-partner-checklist-doesnt-survive-the-actual-relationship",
+              "there-is-no-the-one",
+              "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
+            ],
+            "cost_usd": 0.015795,
+            "ms": 5607,
+            "input_tokens": 4170,
+            "output_tokens": 219,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "how-is-that-not-true-about-you",
+            "file_path": "coach/questions/how-is-that-not-true-about-you.md",
+            "category": "questions",
+            "candidate_edges": [
+              "every-trigger-with-your-kid-is-projection",
+              "how-do-you-not-trust-it",
+              "projections"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client called the available man \"needy\" — a charged judgment she's now quietly walking back; the mirror question (\"how is that not true about you?\") is precisely the move Joe would use here to surface what she was projecting onto him.",
+              "follow_edges": [
+                "projections"
+              ],
+              "follow_reason": "The client's \"needy\" label and picking-apart behavior may be projection; the projections file could add conceptual depth, while the other edges (kid triggers, trust) are not relevant to this relationship pattern conversation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "projections"
+            ],
+            "edges_skipped": [
+              "every-trigger-with-your-kid-is-projection",
+              "how-do-you-not-trust-it"
+            ],
+            "cost_usd": 0.012717,
+            "ms": 5035,
+            "input_tokens": 3289,
+            "output_tokens": 190,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112937,
+        "walker_total_cost_usd": 0.088503,
+        "total_cost_usd": 0.0997967,
+        "seed_detection_input_tokens": 978,
+        "seed_detection_output_tokens": 148,
+        "seed_detection_cache_read_tokens": 95757,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22926,
+        "walker_total_output_tokens": 1315,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2142,
+        "walker_total_ms": 35744,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 14
+      },
+      "cost_usd": 0.0997967,
+      "ms": 37887
+    }
+  ]
+}

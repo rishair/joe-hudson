@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:17.879Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5ddda673e6b4114e3cd24c13acc333d7443290ef280ae394ee31bfd764c086f5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01E4xcMPSH2cPLm6YRiNNSUE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it look like to do work that actually matters — starting tomorrow, ceiling and all?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 93,
+      "cache_creation_input_tokens": 9891,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9891,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 93,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9891
+  }
+}

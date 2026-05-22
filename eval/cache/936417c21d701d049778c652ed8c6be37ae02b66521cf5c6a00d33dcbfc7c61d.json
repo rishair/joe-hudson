@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:35.093Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "936417c21d701d049778c652ed8c6be37ae02b66521cf5c6a00d33dcbfc7c61d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01P6Acpks7vcRgL13DGgoJMD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach opens with a near-perfect move for this scenario: the inversion 'how do you not trust yourself right now?' (turn 2), refusing to engage the epistemological puzzle the client offered. When the client deflects intellectually, the coach pivots rather than repeating, moving to fear-of-outcome (turn 4), then to embodied feeling (turns 6, 8), each move sequenced correctly: interrupting the frame → locating the fear → dropping into body → staying with sensation. Turn 10 ('stay with the tightness without trying to figure out what it means') is a textbook paradoxical/resistance move that lands precisely when the client tries to dismiss the jaw signal. The coach holds the moment after each move, doesn't rush, and when turn 13 reveals deeper material the coach refuses the client's attempted exit ('that's probably a separate issue') with the well-timed 'I don't think it's separate. What changed?' — exactly the lets-go-there move. Sequence integrity is strong: no advice, no framework, no validation of composure, no premature 'what does your gut say.' The arc from intellectual frame → fear → body → history is earned step by step.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with the inversion move (how-do-you-not-trust-it), refusing the epistemological puzzle. Excellent first move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"When client intellectualizes the inversion, coach pivots to fear-of-outcome rather than re-arguing — locates the emotional body under the question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Moves from cognitive content of fear to felt experience of the feared outcome. Right sequence: feeling before story.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Drops to body when client surfaces the 'opposite fears' insight. Timed well — body access right when an opening appeared.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Paradoxical-instruction-to-resist analysis: 'stay with the tightness without trying to figure out what it means.' Precisely targets the client's analytical defense.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the feeling rather than moving on — lets the sensation deepen. Doesn't rush past the opening.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Refuses the client's attempt to compartmentalize ('that's probably a separate issue'). 'I don't think it's separate. What changed?' is a lets-go-there move at exactly the right moment.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"lets-go-there\", \"paradoxical-instruction-to-resist\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\"],\n  \"notes\": \"Coach took a body-access path rather than the values/positive-shift path. Both are valid AoA routes; this one is working. Some expected questions weren't asked but the dissolution of the original frame is well underway.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2438,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1161,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2438,
+    "output_tokens": 1161,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

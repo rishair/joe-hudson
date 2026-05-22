@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:04:12.338Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c15b9e982830968e2b8595069fc519e2ed74dcc5ef3d434036002cf6c93c73d3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LUPZJP1oJWDedvkAajTv1y",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to what's live in each moment and follow the AoA sequence almost perfectly. Turn 2 refuses the verdict and goes straight to the want — the exact opening move the scenario calls for. When the client returns to seeking permission (turn 3), the coach names the move ('you're asking me for permission') and reframes toward wanting without verdict (turn 4). Turn 6 catches a subtle deflection — the client weaponizing a real disclosure to get back to the verdict — and redirects to staying with the want. Turn 8 ('Four years. What did you lose when you stopped going?') is well-timed: the client has just touched longing, and the coach deepens by going into loss rather than racing to insight. Turn 10 widens the time horizon at exactly the moment the client is ready, opening the door to childhood imprinting, which the client walks through on her own. Turn 12 ('Stay with what just came out. You don't need to defend your life right now.') is a precise hold-the-moment move when the client tries to retreat into justifying. The coach consistently held silence (implied by the client's pauses), did not jump to compassion or partner-empathy, did not police the want, and let the integration emerge from the client rather than offering it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses verdict; goes directly to the want. Correct opening move for this concern.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the permission-seeking pattern and invites wanting without verdict — find-the-want-behind-the-should in action.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches a deflection in real time (using a disclosure to return to the verdict) and redirects to staying with the want.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Times the deepening question well — moves from want to loss after the client touches longing, without rushing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Widens the time horizon, opening space for childhood-imprinting without naming or imposing it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the moment after the inherited-label admission; explicitly tells client not to defend, protecting the opening.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Sequence integrity is strong: refused verdict → want → felt want → loss → inherited label → client's own integration. Coach never tripped the spiritual-narcissism or jump-to-compassion traps.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2543,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1001,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2543,
+    "output_tokens": 1001,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

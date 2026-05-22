@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:11.241Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4e92a26051983d17bd585076fa58f8dd055c25a801d6275656ede311424d68d8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NumW1a2J6bszKkcMaF1eXV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual tracking beyond pure content — notably turn 8 ('You landed on an explanation pretty fast there. What were you feeling just before you grabbed it?'), which is a real read of the rush-to-explanation/intellectualization signature and precedes the question. Turn 12 also tracks the client's language ('just a problem I haven't solved yet') and pushes against the framing. However, the coach never names the most active read in the room: the flatness/evenness of the client's delivery, the repeated 'fine,' the small smiles and shrugs, the disassociating-in-the-coaching-room quality. The coach also never references the body, the somatic texture, or what 'fine' actually feels like — which is the exact territory this scenario requires. Reads are content-and-language-level, not somatic or energetic. One good read (turn 8) and one okay one (turn 12) against multiple missed opportunities (turns 3, 5, 9, 11 all had visible flatness/numbness signatures the coach moved past) puts this squarely at 2 — better than blind questioning, but missing the pattern-level read that would change the conversation.\",\n  \"evidence_turns\": [8, 9, 11, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a content question; no read yet, which is fine this early.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Engages the content (what he does instead) without noting the casual, distanced tone.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Picks up on the word 'dumb' — a linguistic catch, but more reframing than a read of stance.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the rush-to-explanation: 'You landed on an explanation pretty fast there.' Read precedes question. This is the strongest read in the session.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client says 'nothing, really... I was just answering the question' — a clear disassociation/numbness signature. Coach does not name it.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Asks about not-knowing rather than tracking the just-displayed flatness. Misses the numbness read.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client says 'it's fine' three times with even tone and small shrug — textbook 'fine has a quality' moment. Coach does not name the flatness or ask what 'fine' feels like.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the client's language ('just a problem I haven't solved yet') and questions the framing — a linguistic read.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Invites a non-managing stance but still doesn't name what he's been observing about how the client is showing up.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\", \"fear-in-body-vs-fear-in-head\"],\n  \"notes\": \"The coach's instincts are oriented toward catching deflection (turn 8, turn 12) but stop at the linguistic/cognitive layer. The somatic and energetic reads — the evenness, the repeated 'fine,' the small smiles that close the inquiry — are visible in the transcript but never named by the coach.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2552,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1208,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2552,
+    "output_tokens": 1208,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

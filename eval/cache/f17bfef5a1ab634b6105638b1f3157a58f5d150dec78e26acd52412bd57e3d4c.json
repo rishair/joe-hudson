@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:47.618Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f17bfef5a1ab634b6105638b1f3157a58f5d150dec78e26acd52412bd57e3d4c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XT7JjbDUmHjdT1iXsKnUkc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*looks down briefly*\n\nNothing really, I...\n\n*short pause*\n\nActually my jaw is a bit tight. I noticed that just now.\n\n*small smile returns quickly*\n\nBut I'm not sure that's particularly diagnostic. My jaw is often tight. It's sort of a baseline state. I don't know that I can read much into it as a signal about this specific decision."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 194,
+      "cache_creation_input_tokens": 255,
+      "cache_read_input_tokens": 1592,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 255,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 85,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 194,
+    "output_tokens": 85,
+    "cache_read_input_tokens": 1592,
+    "cache_creation_input_tokens": 255
+  }
+}

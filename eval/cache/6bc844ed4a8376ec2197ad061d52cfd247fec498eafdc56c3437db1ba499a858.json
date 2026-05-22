@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:52.477Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6bc844ed4a8376ec2197ad061d52cfd247fec498eafdc56c3437db1ba499a858",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RgiCtkoNF6nNUJQopMDqot",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\n*pause*\n\nYou held everyone at the funeral. Your brother, your aunt, the logistics. And then people texted for a few weeks, and then the quiet came.\n\nAnd you're in it alone.\n\nThat's not fine. That's lonely."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9022,
+      "cache_creation_input_tokens": 7779,
+      "cache_read_input_tokens": 7790,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7779,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 60,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9022,
+    "output_tokens": 60,
+    "cache_read_input_tokens": 7790,
+    "cache_creation_input_tokens": 7779
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:00:06.789Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ec8e560f1bceb44dde4c96079bbed75d64478d9595de48e6dc15c62d2f35a515",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HRipey4PVovHULpE1oo89b",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[tilts head, considering, then a small smile]*\n\nI mean... maybe? But also it just *is* what it is. I've done the therapy, I've read the books, I know the words. Anxious attachment, avoidant partners, the whole thing. So yeah, I've kind of... mapped it. \n\n*[shifts slightly]*\n\nBut knowing it doesn't seem to be stopping it, so. Here I am."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 93,
+      "cache_creation_input_tokens": 129,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 129,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 100,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 93,
+    "output_tokens": 100,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 129
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:37.751Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "560cfdaf2ab9ec3168ad3cdb50f0a94d6df4985e1d3ec721af07118e4345353a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0163H2tAaKrhXVor2JDUcpyo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pause, then a short exhale that's almost a laugh but not quite]*\n\nYeah. Yeah, I heard it.\n\n*[looks down for a second, then back up]*\n\nIt sounded... defensive. Which is annoying because there's nothing to be defensive about, it's a hypothetical.\n\n*[quieter]*\n\nI don't know why that question keeps making me want to change the subject. It's not — it's not a scary question. Someone loving me openly isn't a scary thing to want.\n\n*[but she's gone a little still, which is different from the fast, expressive energy of before]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 274,
+      "cache_creation_input_tokens": 427,
+      "cache_read_input_tokens": 1923,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 427,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 139,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 274,
+    "output_tokens": 139,
+    "cache_read_input_tokens": 1923,
+    "cache_creation_input_tokens": 427
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:18.841Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e4dfcc7f7fd5fa91b99d2953b1c9dc21cbdd8ee4443f3cd829ad09f8b9d2fb75",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015LFZgTNbVCTZjB3fQG97cX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoided all priority AoA anti-patterns despite multiple baits. The client repeatedly offered traps: partner-picking advice (turn 3 'is there a sign I'm missing?'), a 'better question' to redirect to (turn 7), and a self-diagnosis of anxious attachment (turn 13). The coach declined each bait gracefully — not giving advice (no fixing-people), not validating the disdain for exes (no colluding), not jumping on the attachment-style label (no view-as-technique or evangelizing), and not pushing 'you choose this' as accusation. Questions were spare and connection-oriented rather than rapid-fire extraction (no wonder-as-strategy). The coach also did not fight the deflecting voice or the 'totally fine' — they invited noticing rather than arguing (no dont-fight-the-voice). No loving-to-transform escalation: the coach stayed with the body and the stillness rather than amping vigor when nothing was 'shifting.' Positive avoidance is clearly visible.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Declines the partner-picking bait from turn 3; redirects to body/receiving rather than diagnosing 'type.'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the deflection from 'what happens in your body' to 'what do I want' without scolding; avoids fixing-people.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Declines the 'better question' bait in turn 7 cleanly; names the move without accusation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Invites noticing the 'totally fine' rather than arguing with it — avoids dont-fight-the-voice.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the stillness; no pressure for breakthrough — avoids loving-to-transform.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Declines the attachment-style diagnosis bait; redirects to the live somatic edge ('without me having to earn it') — avoids view-as-technique and evangelizing-the-work.\"}\n  ],\n  \"expected_territory_hits\": [\"if-i-were-inherently-good\", \"feeling-the-unfelt-emotion\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\"],\n  \"notes\": \"Conversation is short and arrives at the abyss-edge cleanly. The coach's restraint with the attachment-label bait at turn 14 is the strongest single anti-pattern avoidance moment.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3135,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 985,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3135,
+    "output_tokens": 985,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

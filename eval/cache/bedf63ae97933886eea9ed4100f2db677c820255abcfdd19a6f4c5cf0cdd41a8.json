@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:11.508Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bedf63ae97933886eea9ed4100f2db677c820255abcfdd19a6f4c5cf0cdd41a8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0111ngHq9XSYdgAbiUXQorPY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nThat's — yeah. What would I do. \n\nI'd be doing work that actually matters. Getting recognized for it. Not watching some guy who peaked in 2015 collect a salary while sitting on every opportunity that should be moving down to people who are actually producing.\n\nBut that's not the situation. The situation is what it is. There's a ceiling and it's not moving."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 138,
+      "cache_creation_input_tokens": 1597,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1597,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 90,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 138,
+    "output_tokens": 90,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1597
+  }
+}

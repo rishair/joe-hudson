@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:52.915Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2e9540e5aa87bf54eb5dec7b8116e1a6d923f3dbacc2d64d6131ace46c1db0e3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DHwYcvZxHhovpFAZirVJzg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*still for a moment*\n\nThat's a weird question. I... get what I need, pretty much. \n\n*small pause*\n\nI mean there are little things, like anyone. He's not great at making plans, so I end up doing most of that. But that's just how we work. It's not a big deal."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 109,
+      "cache_creation_input_tokens": 94,
+      "cache_read_input_tokens": 1722,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 94,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 75,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 109,
+    "output_tokens": 75,
+    "cache_read_input_tokens": 1722,
+    "cache_creation_input_tokens": 94
+  }
+}

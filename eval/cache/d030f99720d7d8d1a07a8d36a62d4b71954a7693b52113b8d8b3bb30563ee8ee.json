@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:00.071Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d030f99720d7d8d1a07a8d36a62d4b71954a7693b52113b8d8b3bb30563ee8ee",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0181ArFSbD4AvJVzCwJhWhz5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Twelve years. That's real. I'm not trying to take that away.\n\nAnd I notice the laugh just now — when I asked what you're scared of feeling. What was that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8001,
+      "cache_creation_input_tokens": 153,
+      "cache_read_input_tokens": 13091,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 153,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8001,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 13091,
+    "cache_creation_input_tokens": 153
+  }
+}

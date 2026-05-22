@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:12.068Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b50889f85d9cb1fda8cf67f23fe4eff39ff8a502fd0342c93831795c05dc81f1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Fy6vytHxogVTiogPsimJ6Y",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Professionally, a lot. I mean, I'm good at my job — I know I'm good at my job — but the moment my boss walks into a room, something just... collapses. I can't think clearly, I can't speak up, I second-guess everything I was about to say. And then afterwards I'm furious at myself, which costs me too.\n\nAnd I think it's costing me something harder to name. Like... a version of myself I can't access when it matters. That's the part that bothers me more, honestly."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 187,
+      "cache_creation_input_tokens": 1884,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1884,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 123,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 187,
+    "output_tokens": 123,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1884
+  }
+}

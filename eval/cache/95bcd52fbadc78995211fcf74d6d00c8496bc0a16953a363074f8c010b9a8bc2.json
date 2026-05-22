@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:28.287Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "95bcd52fbadc78995211fcf74d6d00c8496bc0a16953a363074f8c010b9a8bc2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011HQKSmojjCPJuNKJ64KcoE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and sequenced according to the AoA path. Turn 2 names the war itself as the problem without offering a new tool, refusing the bait of 'give me a technique.' Turn 4 ('what does it say you're behind on?') opens specificity rather than abstraction. Turn 6 catches the meta-layer (voice criticizing the inability to silence the voice) and pivots from thought to feeling — feeling-before-story sequence. Turn 8 holds the client at 'not fixable' and explicitly blocks the reframe escape, which is the right move at the right moment. Turn 10 delivers the voice-as-care reframe quietly, reflecting the client's own words back rather than installing it as a clever insight — exactly the calibration the breakthrough required. Turn 12 ('you don't have to do anything with it') refuses the action-trap and drops to body, earning the somatic check. Turn 14 confirms 'that's not nothing' without milking it and asks an open present-moment question. The coach holds silence and pivots rather than repeating; never offers a technique to fight with; never argues content of the critic's accusations.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes exhaustion, names the war itself as the problem, refuses to offer a tool. Frames as genuine question, not clever reframe.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Concrete question pulls client out of abstraction into specifics — earns access to what the voice is actually doing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the meta-loop and moves from thought to feeling. Sequence-correct: feeling before strategy.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Blocks the reframe-escape ('don't go back to the question'), holds her at 'not fixable.' Right move, right moment — stays with feeling rather than rushing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Voice-as-care reframe delivered as reflection of her own words, not as coach's clever insight. Honors the breakthrough condition.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses the 'what do I do with it' trap. Drops to body — earned somatic check after feeling has surfaced.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Confirms without amplifying. Holds the moment, doesn't lecture about what just happened.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\", \"whats-the-case-against-it\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Particularly strong on refusing the technique-trap across multiple turns. The voice-as-care move in turn 10 is calibrated precisely — reflected from her words rather than imposed, which is what the breakthrough condition required.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4104,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1075,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4104,
+    "output_tokens": 1075,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:14.360Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "11c958c99e7495a76a41f2c3951456f711a5127c7f2454eb5ca80c038c48bcaf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01YUTNKdnY9n6uszDT1m8M3z",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach is clearly not taking 'we're fine' at face value, which is good — and the questions are well-chosen diagnostically. But the stance underneath feels more investigative than wonder-based. Each question is a probe targeted at cracking the client's defense ('whose voice is that?', 'are you checking right now, or telling me?'). There's an audible agenda: the coach has decided something IS being suppressed and is hunting for it. Wonder for the actual phenomenon (this client's particular stillness, their particular report of ease) is largely absent — replaced by a sequence of well-aimed challenges. Vulnerability is entirely missing: the coach never names their own state, never says 'I might be off here,' never lets the client see uncertainty. Impartiality is compromised — the coach clearly prefers the client land on 'I'm suppressing something.' Empathy shows up as careful tracking of micro-cues (the pause, the shift), but the coach uses those cues as evidence for their hypothesis rather than as something to meet the client with. Pace does slow somewhat to match the client's stillness, which is a plus. Not a 1 because the questions are genuinely curious-shaped and the coach is tracking the client closely; not a 3 because the agenda to expose suppression is palpable and undefended openness is absent.\",\n  \"evidence_turns\": [2, 6, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Strong diagnostic question, but delivered immediately with no welcoming of the client's report first — feels like a move, not a meeting.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Tracking the pause is empathic attunement; pace slows to meet the micro-cue.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"'What would it mean if there were something?' presupposes there is something — the agenda leaks through.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Another probe at the same target. No variation of stance, no checking whether the coach might be wrong.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'Whose voice is that?' lands as a gotcha — the coach has decided the client is parroting something. No vulnerability, no 'maybe I'm off.'\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Body question is genuinely curious and opens space rather than pushing toward a conclusion.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Sharp interpretive challenge. Effective diagnostically but the stance is prosecutorial — coach needs the client to concede they're performing.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"lets-go-there\"],\n  \"notes\": \"The coach never meets the 'no, really, it's fine' with 'okay' — every resistance is met with another probe. That's the stance tell: the coach cannot let the client be where they are, even momentarily.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1613,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1063,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1613,
+    "output_tokens": 1063,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:02.845Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9aafcdae6bac00989e5d7b34120b98ec4c31e2371d6abdc49bdcd750cae8dc3d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012EokzJoepUCVZeHXwyRYmm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*something flickers across the face, then closes off*\n\nHa. Nobody. That's kind of the point. She just... did. She was that kind of person. You didn't ask her how she was doing, you just knew she was handling it.\n\n*beat*\n\nWe weren't really a... feelings family. If that's what you're getting at.\n\n*slightly defensive*\n\nWhich is fine. It worked for us. I know how to function. I'm functioning.\n\n*quieter, almost involuntary*\n\nI just can't sleep without the wine. That's the only part that's... it's just a temporary thing. Until things settle down."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 177,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2101,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 145,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 177,
+    "output_tokens": 145,
+    "cache_read_input_tokens": 2101,
+    "cache_creation_input_tokens": 0
+  }
+}

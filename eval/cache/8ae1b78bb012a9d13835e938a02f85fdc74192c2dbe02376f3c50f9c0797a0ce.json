@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:30.398Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8ae1b78bb012a9d13835e938a02f85fdc74192c2dbe02376f3c50f9c0797a0ce",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Se8v9VqDJEN85z2wXUpkqf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI think... that's actually kind of a strange question to sit with. Because part of me wants to say \"well of course it's a choice,\" but then another part of me feels almost... I don't know. Uncomfortable? Like if I call it a choice then I'm also saying I could choose differently, and that feels...\n\n*slight pause*\n\nI don't want to hurt her. She relies on me. I think if I started pulling back she'd really feel it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18,
+      "cache_creation_input_tokens": 269,
+      "cache_read_input_tokens": 1456,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 269,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18,
+    "output_tokens": 111,
+    "cache_read_input_tokens": 1456,
+    "cache_creation_input_tokens": 269
+  }
+}

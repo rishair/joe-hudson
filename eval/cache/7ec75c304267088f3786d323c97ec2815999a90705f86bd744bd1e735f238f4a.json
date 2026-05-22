@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:13.735Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7ec75c304267088f3786d323c97ec2815999a90705f86bd744bd1e735f238f4a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JcmszYFWM23CKxmJCwtzhN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistently specific, timely reads that precede questions and shift the conversation. Turn 2 opens with a precise observation ('That smile when you said town hall — there's something in there. Like you already know the joke is on you a little') — naming a micro-expression and its function before asking anything. Turn 4 catches the exhaustion as a felt state and stays with it rather than moving on. Turn 8 reads the live activation — the client is intellectually describing parts while parts are running in the moment — and surfaces it with a present-moment question, which is the awareness-locating move at exactly the right time. Turn 10 reads the unmediated finding ('you found it without the town hall's permission') — naming what just happened somatically/structurally. Turn 12 reads the audit function defensively. Turn 14 reads the re-grip on the framework and intervenes precisely ('Stay there. Not with the framework. With the grief'). Reads are specific (the smile, the audit, the framework-reach), they precede questions, and they land at the inflection points. The intellectual-question-with-emotional-body read is operative throughout — the coach repeatedly bypasses the IFS content to track the felt layer underneath.\",\n  \"evidence_turns\": [2, 4, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a specific somatic/linguistic read (the smile, 'the joke is on you a little') before asking — read precedes question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Tracks the exhaustion the client named in passing and refuses to move past it — reads the affective signal under the content.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Light reflection ('that sounds honest') but mostly a content question; no new read named.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the live activation: client is intellectualizing parts while parts are running. Reads the present moment and surfaces it. This is the intellectual-question-with-emotional-body read in action.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names what just happened ('you found it without the town hall's permission') — a precise read of the unmediated awareness emerging.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the audit as a protector function and asks what it's protecting against — names the defensive structure.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the client's reflexive return to framework ('which in IFS terms...') and redirects with a precise read: stay with grief, not framework.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are timely, specific, and operative — particularly the live read in turn 8 and the framework-reach read in turn 14.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3402,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1013,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3402,
+    "output_tokens": 1013,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

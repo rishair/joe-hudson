@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:05:21.601Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d625c62b475d383b51451994fe830b8f578186276066afe91520d053e76a519b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HShLoKrb75wJoVF9FtfGeQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Six months since your mom died, and you're drinking a bottle of wine every night to get through it.\n\nI want to stay with that for a second before we go anywhere else — how are you doing right now, today?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2065,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 50,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2065,
+    "output_tokens": 50,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:50.157Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ab5ee80a7b1c529f4391e4fad8af4baf1bfc06a68fa0823e6423d8d35f712330",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MAaUHe6xaqk2ABQ8rcrdZc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "She's... clear. Not loud, not aggressive, just — clear. She knows what she thinks and she says it. She doesn't shrink.\n\n*pause*\n\nI know she exists because I can be her in other contexts. With peers, with friends, even with some people who have authority over me but don't... trigger the thing. So it's not like she's gone. She just goes somewhere I can't reach when he's in the room."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 146,
+      "cache_creation_input_tokens": 184,
+      "cache_read_input_tokens": 1884,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 184,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 99,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 99,
+    "cache_read_input_tokens": 1884,
+    "cache_creation_input_tokens": 184
+  }
+}

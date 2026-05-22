@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:50.213Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "10a254a5fc0cc2f819df616ce4ae77e1fba7076de5981c0609a8088117aca6fc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FDjbMWv36rgtTCi1g1opdf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would you have to feel if she did?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 24545,
+      "cache_creation_input_tokens": 13337,
+      "cache_read_input_tokens": 14227,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 13337,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 24545,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 14227,
+    "cache_creation_input_tokens": 13337
+  }
+}

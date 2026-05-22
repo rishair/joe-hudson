@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:11.720Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "855a2a1dbaa3660dfd28443f6b90d98477f06939d5d18f540299d88aabf5c387",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TpMBhLMznWSKykQnyCC3X4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean -- scared? I'm not scared, I'm just... behind. It's a logistics problem, right? Like if I could just get the right system, the right -- \n\nThe Thursday thing is the one I keep coming back to. My boss added something to the agenda and I don't know what it is and that's -- I mean it's probably fine. It's probably nothing. \n\nWhat were we saying? The prioritization thing -- can we do that? Because I have like 40 minutes and I really need to walk out of here with something actionable."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 30,
+      "cache_creation_input_tokens": 240,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 240,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 124,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 30,
+    "output_tokens": 124,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 240
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:10.464Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c4058e31c19e58273692f3429454ccb7dd7adaa9cd5fe6060adb10839f527beb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017S2J54CkNWqwYLCCZr48Ne",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does it say you're behind on?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 226,
+      "cache_creation_input_tokens": 9888,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9888,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 226,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9888
+  }
+}

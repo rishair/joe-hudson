@@ -1,0 +1,1656 @@
+{
+  "profile_id": "client-resistance-inner-critic-001",
+  "coach_config_id": "coach-v5a-guided-walk-haiku",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "*(exhales sharply, tight smile)*\n\nMy inner critic is brutal. I've done the meditation, the therapy, the journaling, the affirmations — I've genuinely tried everything — and I just... I want it to shut up. Is there actually a technique that works, or is that just not a thing?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That want — for it to just *stop* — I feel the exhaustion in that.\n\nHere's what I'm curious about, though. You've thrown everything at it. Meditation, therapy, journaling, affirmations. What if the throwing-everything-at-it *is* the fight, and the fight is what's keeping it loud?\n\nNot as a clever reframe. As an actual question: what would it be like to stop trying to make it shut up?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*(pauses, tilts head slightly)*\n\nI mean... I've heard versions of that. The \"stop resisting and it loses power\" thing. That's basically what mindfulness is, right? Observe it without engaging. I've done that. I have a pretty solid practice, actually — I can sit with discomfort, I can notice the thought without fusing with it, I know the ACT stuff, the defusion techniques...\n\n*(waves hand slightly)*\n\nAnd it's fine, it helps a little, but the voice just... waits. It's very patient. I'll do twenty minutes of \"observing without judgment\" and then I close my laptop and it goes \"okay, but you're still behind on that project and you handled that conversation badly and by the way you've been mediocre at basically everything important to you for three years.\"\n\n*(short laugh)*\n\nSo. I don't know if it's exactly a fight. It feels more like... it's just there. Like weather. You can't fight weather."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What does it say you're behind on?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*(slight shift in posture, faster)*\n\nOh, everything. The project at work that I've been avoiding for — honestly, months. A friendship I've been meaning to repair. The book I said I was going to write, which, *(short laugh)* classic. Exercise has been inconsistent. I had a conversation with my manager two weeks ago that I've probably replayed forty or fifty times because I said something that came out wrong and I can't tell if she noticed.\n\n*(pauses)*\n\nAnd the thing is — and I know how this sounds — the thing is it's not wrong. Like, I *am* behind. I *did* handle that conversation awkwardly. The voice isn't making things up, it's just... the volume is insane. And the timing. It doesn't bring this up when I could actually do something about it, it brings it up at two in the morning.\n\n*(looks down briefly)*\n\nAnd then I feel like I should be able to just — I know the cognitive behavioral stuff, I know how to reality-test, I know about the negativity bias, I know all of it — and I still can't make it stop. Which is its own thing the voice has opinions about, obviously."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "That last part — the voice having opinions about your inability to stop the voice — that's the one I want to stay with for a second.\n\nAll that knowledge, all those tools, and the voice just... adds them to the list. \"You know better and you're still failing at this.\" \n\nWhat does it feel like to not be able to fix it? Not what you think about it — what does it actually feel like?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*(long pause, hand stills)*\n\nIt feels... humiliating, honestly. Which is embarrassing to say because I know that's the ego talking, I know that's just the self-concept being threatened, I've read enough to know that framing —\n\n*(catches herself)*\n\nSee, I'm doing it again. \n\n*(quieter)*\n\nIt feels humiliating. Like there's something fundamentally... not fixable about me. Like everyone else got some instruction manual I didn't get. And I've worked really hard at this stuff — genuinely hard — and the gap between how much I know and how I actually feel on a Tuesday night is just... \n\n*(exhales, not quite releasing)*\n\nIt's demoralizing. That's the word. I'm demoralized. And then the voice goes \"you're demoralized because you're weak, people with actual discipline don't feel this way\" and I know that's not true, I know that's cognitive distortion, and yet.\n\n*(tight smile returns)*\n\nSorry. That got a bit much. What were you — was there a direction you were going with that?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Don't apologize. And don't go back to the question — stay here.\n\nYou said \"not fixable.\" Not \"behind\" or \"struggling\" — *not fixable*. \n\nWhat's it like to just let that sit for a moment, without the reframe?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*(stillness, unusual for this person)*\n\n*(several seconds)*\n\nIt's... scary. \n\n*(small laugh that doesn't quite land)*\n\nWhich I know is the point you're making, probably, that there's something underneath the —\n\n*(stops herself)*\n\nOkay. I'm doing the thing where I narrate the therapy instead of being in it.\n\n*(quieter, slower)*\n\nIt's scary. Because if it's not fixable then I've been... I've spent a lot of years on this. A lot of money, a lot of weekends, a lot of — I've structured a significant portion of my adult life around fixing this. And if it's not fixable then what was that?\n\n*(pause)*\n\nAnd also... I don't entirely trust what I'd be without it. The voice. Which is a weird thing to say about something I hate. But it's the thing that makes me check my work twice and apologize when I've hurt someone and not completely coast. I don't know who I am without it being loud.\n\n*(looks up, slightly caught off guard by what she just said)*\n\nI don't know where that came from. I hadn't — I don't usually say that part out loud."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Stay with that. You don't have to go anywhere with it.\n\nYou just said the thing underneath the thing. All the work, all the years — and somewhere in there, the voice became the part of you that *cares*.\n\nWhat's it like to hear yourself say that out loud?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*(very quiet)*\n\nIt's... weird. It's uncomfortable in a different way than usual.\n\n*(pause)*\n\nBecause the way you said that — \"the part of you that cares\" — I've actually heard that framing before. The inner critic as protector, the part that's trying to keep you safe, all of that. I've done parts work, I know the IFS model, I've sat with my \"manager parts\" or whatever —\n\n*(stops)*\n\nBut usually when someone says that to me it feels like... I don't know, like I'm supposed to feel grateful toward it? And that makes me want to argue back even harder because it's *not* grateful behavior, what it does to me at two in the morning.\n\n*(long pause)*\n\nBut the way I said it just now wasn't — I wasn't performing the framework. I just... noticed it. That I don't trust what I'd be without it.\n\n*(very small, almost to herself)*\n\nIt's been working really hard for a long time. In a completely counterproductive way, but. \n\n*(looks up)*\n\nI don't know what to do with that."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "You don't have to do anything with it.\n\nThat's actually the first thing you've said today that didn't have a next step attached to it.\n\n*(pause)*\n\nWhat's happening in your body right now?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*(pause, genuine this time)*\n\nMy shoulders dropped. I just noticed that. They've been basically up around my ears this whole conversation and they just... \n\n*(small exhale, actually releases this time)*\n\nThere's something that feels like — I want to call it sadness but it's not quite that. It's more like... tired in a different way than when I came in. Not the frustrated tired. Something softer.\n\n*(pause)*\n\nWhich is making the voice go \"oh great, now you're going to cry in a coaching session, very professional\" —\n\n*(catches herself, something shifts slightly)*\n\nHuh.\n\n*(quiet)*\n\nIt just did the thing. Right now. I noticed it trying to pull me back out of... whatever this is. \n\n*(looks slightly disoriented)*\n\nI've noticed the voice before, I've labeled it, I've done all of that. But I didn't — I usually immediately start arguing with it or trying to defuse from it and I just... didn't. I just watched it try to pull me out.\n\n*(very quiet)*\n\nThat's not nothing, is it."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "That's not nothing.\n\n*(pause)*\n\nAnd you didn't fix it. You didn't technique it. It just happened because you were actually here.\n\nWhat's it like in there right now?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*(long pause)*\n\nQuieter.\n\n*(almost surprised)*\n\nWhich is strange because nothing's changed. It's still — I mean, I'm still behind on the project, the conversation with my manager still happened, all of it is still true. And the voice is still there, I can feel it sort of... hovering.\n\nBut I'm not —\n\n*(pause, working something out)*\n\nI've been fighting it for so long that I don't think I noticed the fighting had become its own thing. Like the fighting was the constant, not even the voice. I wake up and I'm already in the ring.\n\n*(quiet laugh, genuine this time)*\n\nI haven't tried not fighting it. That's — I've tried a hundred different ways to fight it more skillfully and I haven't tried just... not.\n\n*(looks up)*\n\nI don't know if I can. I don't know if I'll walk out of here and be back in the ring in twenty minutes. Probably. But right now it's just...\n\n*(exhales fully)*\n\nThere's something that feels almost like — I want to say tenderness, which is a word I would normally immediately make fun of myself for using. But that's what it is.\n\n\n\nHuh. I didn't think to stop fighting it. I genuinely didn't think of that."
+    }
+  ],
+  "termination": "exit_positive",
+  "termination_reason": "client emitted [EXIT_POSITIVE] at turn 15",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t1",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-inner-critic-001:t2",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 22643,
+      "output_tokens": 1526,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0395307,
+      "ms": 20838
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t2",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 9786,
+      "output_tokens": 105,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0319053,
+      "ms": 3968
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t3",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 225,
+      "output_tokens": 223,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1570,
+      "cost_usd": 0.0099075,
+      "ms": 9833
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-inner-critic-001:t4",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1054,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0111917,
+      "ms": 3342
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t4",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 226,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9888,
+      "cost_usd": 0.0389103,
+      "ms": 7215
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t5",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 15,
+      "output_tokens": 267,
+      "cache_read_input_tokens": 1570,
+      "cache_creation_input_tokens": 445,
+      "cost_usd": 0.00618975,
+      "ms": 7887
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-inner-critic-001:t6",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 27629,
+      "output_tokens": 1570,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.044736700000000004,
+      "ms": 22243
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t6",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 12241,
+      "output_tokens": 93,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9888,
+      "cost_usd": 0.0761703,
+      "ms": 4161
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t7",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 375,
+      "output_tokens": 248,
+      "cache_read_input_tokens": 1687,
+      "cache_creation_input_tokens": 328,
+      "cost_usd": 0.0065811,
+      "ms": 7582
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-inner-critic-001:t8",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1299,
+      "output_tokens": 163,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0113717,
+      "ms": 2655
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t8",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 12347,
+      "output_tokens": 63,
+      "cache_read_input_tokens": 13024,
+      "cache_creation_input_tokens": 340,
+      "cost_usd": 0.0431682,
+      "ms": 3282
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t9",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 407,
+      "output_tokens": 267,
+      "cache_read_input_tokens": 1792,
+      "cache_creation_input_tokens": 502,
+      "cost_usd": 0.007646099999999999,
+      "ms": 10066
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-inner-critic-001:t10",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 28785,
+      "output_tokens": 1740,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0467427,
+      "ms": 24303
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t10",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 9469,
+      "output_tokens": 65,
+      "cache_read_input_tokens": 13352,
+      "cache_creation_input_tokens": 12108,
+      "cost_usd": 0.0787926,
+      "ms": 2852
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t11",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 398,
+      "output_tokens": 253,
+      "cache_read_input_tokens": 2027,
+      "cache_creation_input_tokens": 608,
+      "cost_usd": 0.007877100000000001,
+      "ms": 7390
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-inner-critic-001:t12",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1332,
+      "output_tokens": 179,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0114847,
+      "ms": 2831
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t12",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 9476,
+      "output_tokens": 49,
+      "cache_read_input_tokens": 25367,
+      "cache_creation_input_tokens": 404,
+      "cost_usd": 0.0382881,
+      "ms": 2642
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t13",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 370,
+      "output_tokens": 247,
+      "cache_read_input_tokens": 2387,
+      "cache_creation_input_tokens": 578,
+      "cost_usd": 0.0076986,
+      "ms": 7687
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-resistance-inner-critic-001:t14",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1292,
+      "output_tokens": 180,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0114497,
+      "ms": 2780
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t14",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 552,
+      "output_tokens": 45,
+      "cache_read_input_tokens": 25708,
+      "cache_creation_input_tokens": 9283,
+      "cost_usd": 0.04485465,
+      "ms": 2282
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t15",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 344,
+      "output_tokens": 297,
+      "cache_read_input_tokens": 2698,
+      "cache_creation_input_tokens": 585,
+      "cost_usd": 0.00849015,
+      "ms": 8626
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "my-inner-critic-wont-stop",
+          "i-need-to-improve-myself",
+          "how-do-i-trust-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is presenting exhaustion with the inner critic voice and has tried multiple self-improvement approaches without success. The tight smile and sharp exhale suggest somatic repression. The \"tried everything\" framing points to a limiting belief about what's possible, and the trust question underlies whether they can trust their own capacity to quiet the voice.",
+        "bundle_ids": [
+          "my-inner-critic-wont-stop",
+          "i-need-to-improve-myself",
+          "find-the-emotion-under-self-judgment",
+          "dont-use-measurement-to-beat-yourself-up",
+          "im-afraid-of-stagnating"
+        ],
+        "bundle_paths": [
+          "coach/concerns/my-inner-critic-wont-stop.md",
+          "coach/concerns/i-need-to-improve-myself.md",
+          "coach/moves/find-the-emotion-under-self-judgment.md",
+          "coach/anti-patterns/dont-use-measurement-to-beat-yourself-up.md",
+          "coach/concerns/im-afraid-of-stagnating.md"
+        ],
+        "bundle_reasons": [
+          "This file directly maps the client's exact complaint (\"I want it to shut up\") and offers Joe's diagnostic framework for what's underneath—the file is the core reference for this concern.",
+          "Client has tried \"everything\" (meditation, therapy, journaling, affirmations) to fix the inner critic—this file directly names the trap: the improvement project itself reinforces the belief that the current self is not enough, which is exactly what's fueling the brutal inner critic.",
+          "This move directly addresses the client's exhaustion with the inner critic by reframing the problem: the judgment isn't the enemy to defeat, but a protection against an underneath emotion—exactly what Joe would deploy when the client says \"I've tried everything\" and wants the critic to \"shut up.\"",
+          "Client has tried \"everything\" (meditation, therapy, journaling, affirmations) to fix the inner critic—this file names the exact trap: using transformation tools to attack rather than recognize, which amplifies the brutal inner critic instead of quieting it.",
+          "Client's exhaustion with \"trying everything\" to fix the inner critic is rooted in the improvement project itself—this file names the fear that defends that project and shows why releasing it is the actual path forward."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "my-inner-critic-wont-stop",
+            "file_path": "coach/concerns/my-inner-critic-wont-stop.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "can-you-hang-out-with-it",
+              "chin-up-as-emotion-block",
+              "depression-four-levels",
+              "find-the-emotion-under-self-judgment",
+              "i-cant-feel-my-emotions",
+              "i-have-to-do-it-all-myself",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-offending-people",
+              "im-not-an-anxious-person",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body",
+              "looking-for-whats-wrong",
+              "peace-is-what-we-resist-the-most",
+              "punishing-the-remembering",
+              "recycling-anger-without-clarity",
+              "the-happiness-filter",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "the-rush-signature",
+              "trying-to-get-rid-of-the-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly maps the client's exact complaint (\"I want it to shut up\") and offers Joe's diagnostic framework for what's underneath—the file is the core reference for this concern.",
+              "follow_edges": [
+                "dont-fight-the-voice",
+                "voice-as-care",
+                "voice-in-the-head",
+                "find-the-emotion-under-self-judgment"
+              ],
+              "follow_reason": "Client has tried standard techniques (meditation, therapy, journaling) without relief—likely fighting the voice. Need the reframe (don't fight, voice-as-care), the naming (voice-in-the-head), and the emotional substrate (find-the-emotion) to move past technique-stacking."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-emotion-under-self-judgment"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "can-you-hang-out-with-it",
+              "chin-up-as-emotion-block",
+              "depression-four-levels",
+              "i-cant-feel-my-emotions",
+              "i-have-to-do-it-all-myself",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-offending-people",
+              "im-not-an-anxious-person",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body",
+              "looking-for-whats-wrong",
+              "peace-is-what-we-resist-the-most",
+              "punishing-the-remembering",
+              "recycling-anger-without-clarity",
+              "the-happiness-filter",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "the-rush-signature",
+              "trying-to-get-rid-of-the-emotion"
+            ],
+            "cost_usd": 0.004864,
+            "ms": 3027,
+            "input_tokens": 3709,
+            "output_tokens": 231,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-need-to-improve-myself",
+            "file_path": "coach/concerns/i-need-to-improve-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-should-be-doing-this",
+              "im-afraid-of-stagnating",
+              "looking-for-whats-wrong",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client has tried \"everything\" (meditation, therapy, journaling, affirmations) to fix the inner critic—this file directly names the trap: the improvement project itself reinforces the belief that the current self is not enough, which is exactly what's fueling the brutal inner critic.",
+              "follow_edges": [
+                "dont-use-measurement-to-beat-yourself-up",
+                "im-afraid-of-stagnating",
+                "i-should-be-doing-this",
+                "looking-for-whats-wrong"
+              ],
+              "follow_reason": "Client is stuck in the improvement frame (tried everything) and likely measuring themselves against an ideal; these edges explore the measurement trap, the fear underneath, the language layer, and the scanning habit that feeds the critic."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-use-measurement-to-beat-yourself-up",
+              "im-afraid-of-stagnating",
+              "i-should-be-doing-this",
+              "looking-for-whats-wrong"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.00471,
+            "ms": 3436,
+            "input_tokens": 3520,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses self-trust and intuition, but the client's core complaint is about the inner critic itself, not about trusting decisions—a different concern layer.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body",
+                "if-you-think-youre-deciding-youre-in-fear",
+                "parts-work-made-things-worse"
+              ],
+              "follow_reason": "Client has tried \"everything\" (meditation, therapy, journaling) which echoes the parts-work-multiplied-voices pattern; the intellectual framing of \"is there a technique\" masks an emotional body underneath; and the decision-fear dynamic may underlie the brutal inner critic."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "parts-work-made-things-worse"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "cost_usd": 0.004916,
+            "ms": 3158,
+            "input_tokens": 3801,
+            "output_tokens": 223,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "find-the-emotion-under-self-judgment",
+            "file_path": "coach/moves/find-the-emotion-under-self-judgment.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apply-view-to-the-voice",
+              "feel-over-figure",
+              "feeling-the-unfelt-emotion",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "perfectionism",
+              "self-judgment-protects-from-emotion",
+              "shame-as-disconnection",
+              "the-arrogantly-humble-paradox",
+              "three-signals-of-unfelt-emotion",
+              "unfelt-emotion-leaks",
+              "voice-in-the-head"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This move directly addresses the client's exhaustion with the inner critic by reframing the problem: the judgment isn't the enemy to defeat, but a protection against an underneath emotion—exactly what Joe would deploy when the client says \"I've tried everything\" and wants the critic to \"shut up.\"",
+              "follow_edges": [
+                "feeling-the-unfelt-emotion",
+                "three-signals-of-unfelt-emotion",
+                "apply-view-to-the-voice"
+              ],
+              "follow_reason": "Client needs the concrete practice of feeling the emotion (not just naming it), the diagnostic framework for recognizing what emotion is being avoided, and the specific application to the voice in the head—all three are operational next steps."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "feeling-the-unfelt-emotion",
+              "three-signals-of-unfelt-emotion",
+              "apply-view-to-the-voice"
+            ],
+            "edges_skipped": [
+              "feel-over-figure",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "perfectionism",
+              "self-judgment-protects-from-emotion",
+              "shame-as-disconnection",
+              "the-arrogantly-humble-paradox",
+              "unfelt-emotion-leaks",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.004775,
+            "ms": 2969,
+            "input_tokens": 3630,
+            "output_tokens": 229,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "dont-use-measurement-to-beat-yourself-up",
+            "file_path": "coach/anti-patterns/dont-use-measurement-to-beat-yourself-up.md",
+            "category": "anti-patterns",
+            "candidate_edges": [
+              "improvement-vs-authenticity",
+              "intelligence-amplifies-self-criticism",
+              "measuring-transformation-across-three-brains",
+              "punishing-the-remembering",
+              "there-is-no-better-person-on-the-other-side",
+              "tools-to-change-not-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client has tried \"everything\" (meditation, therapy, journaling, affirmations) to fix the inner critic—this file names the exact trap: using transformation tools to attack rather than recognize, which amplifies the brutal inner critic instead of quieting it.",
+              "follow_edges": [
+                "there-is-no-better-person-on-the-other-side",
+                "tools-to-change-not-love",
+                "intelligence-amplifies-self-criticism"
+              ],
+              "follow_reason": "These three directly address why the client's \"tried everything\" approach backfires: the first reframes the entire improvement project, the second generalizes the weaponization pattern across all tools, and the third explains why a smart person's inner critic gets more sophisticated with each technique attempted."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "there-is-no-better-person-on-the-other-side",
+              "tools-to-change-not-love",
+              "intelligence-amplifies-self-criticism"
+            ],
+            "edges_skipped": [
+              "improvement-vs-authenticity",
+              "measuring-transformation-across-three-brains",
+              "punishing-the-remembering"
+            ],
+            "cost_usd": 0.004738,
+            "ms": 2787,
+            "input_tokens": 3538,
+            "output_tokens": 240,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "im-afraid-of-stagnating",
+            "file_path": "coach/concerns/im-afraid-of-stagnating.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "cricket-player-up-and-down",
+              "dont-improve-for-two-weeks",
+              "feel-love-and-empowerment-as-the-same",
+              "i-keep-crashing-and-burning",
+              "improvement-mindset-vs-maintenance-mindset",
+              "nature-improves-itself",
+              "wanting-itself-not-what-you-want",
+              "what-if-there-is-no-finish-line",
+              "what-we-fear-we-invite",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's exhaustion with \"trying everything\" to fix the inner critic is rooted in the improvement project itself—this file names the fear that defends that project and shows why releasing it is the actual path forward.",
+              "follow_edges": [
+                "what-we-fear-we-invite",
+                "dont-improve-for-two-weeks",
+                "nature-improves-itself"
+              ],
+              "follow_reason": "These three edges directly support the inversion Joe would deploy: the fear of stagnation (and the improvement project defending it) is what's keeping the inner critic brutal; the empirical test and the natural-growth frame are the next moves."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "what-we-fear-we-invite",
+              "dont-improve-for-two-weeks",
+              "nature-improves-itself"
+            ],
+            "edges_skipped": [
+              "cricket-player-up-and-down",
+              "feel-love-and-empowerment-as-the-same",
+              "i-keep-crashing-and-burning",
+              "improvement-mindset-vs-maintenance-mindset",
+              "wanting-itself-not-what-you-want",
+              "what-if-there-is-no-finish-line",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.004935,
+            "ms": 2868,
+            "input_tokens": 3870,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0105927,
+        "walker_total_cost_usd": 0.028938,
+        "total_cost_usd": 0.0395307,
+        "seed_detection_input_tokens": 575,
+        "seed_detection_output_tokens": 152,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22068,
+        "walker_total_output_tokens": 1374,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2593,
+        "walker_total_ms": 18245,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.0395307,
+      "ms": 20841
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0111917,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0111917,
+        "seed_detection_input_tokens": 1054,
+        "seed_detection_output_tokens": 176,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3342,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 4
+      },
+      "cost_usd": 0.0111917,
+      "ms": 3344
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "my-inner-critic-wont-stop",
+          "i-keep-running-into-the-same-wall",
+          "i-need-to-improve-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes persistent inner critic that won't quiet despite multiple therapeutic approaches (meditation, ACT, CBT); recognizes the voice is accurate but the volume/timing is the problem; shows pattern of knowing intellectually what to do but unable to execute, creating a meta-layer of self-judgment about not being able to stop the voice itself.",
+        "bundle_ids": [
+          "my-inner-critic-wont-stop",
+          "i-keep-running-into-the-same-wall",
+          "i-need-to-improve-myself",
+          "find-the-emotion-under-self-judgment",
+          "address-the-blocker-not-the-symptom",
+          "dont-use-measurement-to-beat-yourself-up"
+        ],
+        "bundle_paths": [
+          "coach/concerns/my-inner-critic-wont-stop.md",
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/concerns/i-need-to-improve-myself.md",
+          "coach/moves/find-the-emotion-under-self-judgment.md",
+          "coach/principles/address-the-blocker-not-the-symptom.md",
+          "coach/anti-patterns/dont-use-measurement-to-beat-yourself-up.md"
+        ],
+        "bundle_reasons": [
+          "This file directly maps the client's exact concern—constant inner critic, rumination, replaying conversations, exhaustion despite knowing all the techniques—and offers the coaching path Joe would use in this turn.",
+          "Client is caught in the exact recursion this file maps: knows all the techniques, can articulate the pattern (inner critic, avoidance, rumination), but cannot dissolve it—classic limiting belief trap. Joe would use this to shift from behavior/technique level to belief level.",
+          "Client is caught in the improvement frame (\"I know all the techniques, I should be able to make it stop\")—this file directly maps that structure and offers the coaching path Joe would use to shift from technique-stacking to questioning the frame itself.",
+          "Client is caught in self-judgment loops (replaying conversations, \"I should be able to make it stop\") and this move directly maps the protective function of that judgment—the emotion underneath is what Joe would surface in this turn.",
+          "This principle directly maps Joe's coaching move in this turn: the client is stuck working on the symptom (making the voice stop, mastering techniques) when the actual block is something deeper—the principle gives Joe the framework to redirect from \"fix the inner critic\" to \"what's actually in the way of what you want.\"",
+          "Client is weaponizing knowledge (\"I know all the techniques, I should be able to make it stop\")—this file directly maps that exact anti-pattern and gives Joe the frame to redirect from self-attack-via-technique to the underlying contraction."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "my-inner-critic-wont-stop",
+            "file_path": "coach/concerns/my-inner-critic-wont-stop.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "can-you-hang-out-with-it",
+              "chin-up-as-emotion-block",
+              "depression-four-levels",
+              "find-the-emotion-under-self-judgment",
+              "i-cant-feel-my-emotions",
+              "i-have-to-do-it-all-myself",
+              "im-afraid-of-offending-people",
+              "im-not-an-anxious-person",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body",
+              "looking-for-whats-wrong",
+              "peace-is-what-we-resist-the-most",
+              "punishing-the-remembering",
+              "recycling-anger-without-clarity",
+              "the-happiness-filter",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "the-rush-signature",
+              "trying-to-get-rid-of-the-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly maps the client's exact concern—constant inner critic, rumination, replaying conversations, exhaustion despite knowing all the techniques—and offers the coaching path Joe would use in this turn.",
+              "follow_edges": [
+                "dont-fight-the-voice",
+                "voice-as-care",
+                "voice-creates-what-it-fears",
+                "find-the-emotion-under-self-judgment"
+              ],
+              "follow_reason": "Client is fighting the voice (meditation, ACT, defusion) and it's not working; they're rehearsing conversations and know the voice isn't wrong, just loud—these edges address the fight-cessation, reframe, and the unfelt emotion underneath the rumination loop."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-emotion-under-self-judgment"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "can-you-hang-out-with-it",
+              "chin-up-as-emotion-block",
+              "depression-four-levels",
+              "i-cant-feel-my-emotions",
+              "i-have-to-do-it-all-myself",
+              "im-afraid-of-offending-people",
+              "im-not-an-anxious-person",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body",
+              "looking-for-whats-wrong",
+              "peace-is-what-we-resist-the-most",
+              "punishing-the-remembering",
+              "recycling-anger-without-clarity",
+              "the-happiness-filter",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "the-rush-signature",
+              "trying-to-get-rid-of-the-emotion"
+            ],
+            "cost_usd": 0.005574,
+            "ms": 4099,
+            "input_tokens": 4424,
+            "output_tokens": 230,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is caught in the exact recursion this file maps: knows all the techniques, can articulate the pattern (inner critic, avoidance, rumination), but cannot dissolve it—classic limiting belief trap. Joe would use this to shift from behavior/technique level to belief level.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom",
+                "find-what-you-absolutely-believe"
+              ],
+              "follow_reason": "Client needs to move past technique-stacking to the belief underneath; \"address-the-blocker\" clarifies why meditation/ACT/CBT haven't worked, and \"find-what-you-absolutely-believe\" is the next coaching move Joe would make."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom"
+            ],
+            "edges_skipped": [
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.005341,
+            "ms": 3380,
+            "input_tokens": 4186,
+            "output_tokens": 231,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-need-to-improve-myself",
+            "file_path": "coach/concerns/i-need-to-improve-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-should-be-doing-this",
+              "im-afraid-of-stagnating",
+              "looking-for-whats-wrong",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is caught in the improvement frame (\"I know all the techniques, I should be able to make it stop\")—this file directly maps that structure and offers the coaching path Joe would use to shift from technique-stacking to questioning the frame itself.",
+              "follow_edges": [
+                "dont-use-measurement-to-beat-yourself-up",
+                "i-should-be-doing-this",
+                "looking-for-whats-wrong"
+              ],
+              "follow_reason": "Client is measuring themselves against knowledge (knows CBT, ACT, defusion) and beating themselves up for not executing perfectly; \"should-be-doing-this\" is the language layer of the improvement frame; \"looking-for-whats-wrong\" maps the inner critic's actual function."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-use-measurement-to-beat-yourself-up",
+              "i-should-be-doing-this",
+              "looking-for-whats-wrong"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "gentleness-not-trying-to-be-patient",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "im-afraid-of-stagnating",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.005503,
+            "ms": 2732,
+            "input_tokens": 4313,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "find-the-emotion-under-self-judgment",
+            "file_path": "coach/moves/find-the-emotion-under-self-judgment.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apply-view-to-the-voice",
+              "feel-over-figure",
+              "feeling-the-unfelt-emotion",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "perfectionism",
+              "self-judgment-protects-from-emotion",
+              "shame-as-disconnection",
+              "the-arrogantly-humble-paradox",
+              "three-signals-of-unfelt-emotion",
+              "unfelt-emotion-leaks",
+              "voice-in-the-head"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is caught in self-judgment loops (replaying conversations, \"I should be able to make it stop\") and this move directly maps the protective function of that judgment—the emotion underneath is what Joe would surface in this turn.",
+              "follow_edges": [
+                "feeling-the-unfelt-emotion",
+                "three-signals-of-unfelt-emotion",
+                "unfelt-emotion-leaks"
+              ],
+              "follow_reason": "Client needs to move from analyzing the judgment to feeling what it protects; these edges map the emotional work that follows the move."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "feeling-the-unfelt-emotion",
+              "three-signals-of-unfelt-emotion",
+              "unfelt-emotion-leaks"
+            ],
+            "edges_skipped": [
+              "apply-view-to-the-voice",
+              "feel-over-figure",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "perfectionism",
+              "self-judgment-protects-from-emotion",
+              "shame-as-disconnection",
+              "the-arrogantly-humble-paradox",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.005395,
+            "ms": 2412,
+            "input_tokens": 4430,
+            "output_tokens": 193,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "address-the-blocker-not-the-symptom",
+            "file_path": "coach/principles/address-the-blocker-not-the-symptom.md",
+            "category": "principles",
+            "candidate_edges": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "find-the-want-behind-the-should",
+              "forms-of-dysfunctional-apology",
+              "full-understanding-of-a-behavior-dissolves-it",
+              "honor-the-patterns-intent",
+              "joes-stinky-house-experiment",
+              "latticework-of-limiting-beliefs",
+              "seven-limiting-beliefs",
+              "shame-drives-behavior",
+              "sincerity-is-the-prerequisite",
+              "symptoms-vs-root-causes-of-depression",
+              "the-change-or-no-change-visualization",
+              "the-clients-wisdom-not-the-teachers",
+              "the-work-is-yours-not-mine",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This principle directly maps Joe's coaching move in this turn: the client is stuck working on the symptom (making the voice stop, mastering techniques) when the actual block is something deeper—the principle gives Joe the framework to redirect from \"fix the inner critic\" to \"what's actually in the way of what you want.\"",
+              "follow_edges": [
+                "find-the-want-behind-the-should",
+                "honor-the-patterns-intent",
+                "seven-limiting-beliefs",
+                "joes-stinky-house-experiment"
+              ],
+              "follow_reason": "Client is caught in shoulds (\"I should be able to make it stop\") and the principle points to want underneath; honor-the-patterns-intent maps the protective function Joe is about to surface; seven-limiting-beliefs gives the structural map of what blocks are most likely here; stinky-house-experiment is the concrete demo of this exact principle in action."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-want-behind-the-should",
+              "honor-the-patterns-intent",
+              "seven-limiting-beliefs",
+              "joes-stinky-house-experiment"
+            ],
+            "edges_skipped": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "forms-of-dysfunctional-apology",
+              "full-understanding-of-a-behavior-dissolves-it",
+              "latticework-of-limiting-beliefs",
+              "shame-drives-behavior",
+              "sincerity-is-the-prerequisite",
+              "symptoms-vs-root-causes-of-depression",
+              "the-change-or-no-change-visualization",
+              "the-clients-wisdom-not-the-teachers",
+              "the-work-is-yours-not-mine",
+              "wants-over-shoulds"
+            ],
+            "cost_usd": 0.005934,
+            "ms": 3528,
+            "input_tokens": 4564,
+            "output_tokens": 274,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "dont-use-measurement-to-beat-yourself-up",
+            "file_path": "coach/anti-patterns/dont-use-measurement-to-beat-yourself-up.md",
+            "category": "anti-patterns",
+            "candidate_edges": [
+              "improvement-vs-authenticity",
+              "intelligence-amplifies-self-criticism",
+              "measuring-transformation-across-three-brains",
+              "punishing-the-remembering",
+              "there-is-no-better-person-on-the-other-side",
+              "tools-to-change-not-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is weaponizing knowledge (\"I know all the techniques, I should be able to make it stop\")—this file directly maps that exact anti-pattern and gives Joe the frame to redirect from self-attack-via-technique to the underlying contraction.",
+              "follow_edges": [
+                "intelligence-amplifies-self-criticism",
+                "there-is-no-better-person-on-the-other-side"
+              ],
+              "follow_reason": "Client's sophistication with frameworks (CBT, ACT, defusion) is being turned into self-attack; intelligence-amplifies-self-criticism maps that directly. there-is-no-better-person-on-the-other-side offers the recontextualizing principle Joe would use to undermine the entire improvement frame driving the recursion."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intelligence-amplifies-self-criticism",
+              "there-is-no-better-person-on-the-other-side"
+            ],
+            "edges_skipped": [
+              "improvement-vs-authenticity",
+              "measuring-transformation-across-three-brains",
+              "punishing-the-remembering",
+              "tools-to-change-not-love"
+            ],
+            "cost_usd": 0.005642,
+            "ms": 3592,
+            "input_tokens": 4407,
+            "output_tokens": 247,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0113477,
+        "walker_total_cost_usd": 0.033389,
+        "total_cost_usd": 0.044736700000000004,
+        "seed_detection_input_tokens": 1305,
+        "seed_detection_output_tokens": 157,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 26324,
+        "walker_total_output_tokens": 1413,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2500,
+        "walker_total_ms": 19743,
+        "step_count": 6,
+        "bundle_acceptance_rate": 1,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.044736700000000004,
+      "ms": 22245
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0113717,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0113717,
+        "seed_detection_input_tokens": 1299,
+        "seed_detection_output_tokens": 163,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2655,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 8
+      },
+      "cost_usd": 0.0113717,
+      "ms": 2656
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "my-inner-critic-wont-stop",
+          "i-need-to-improve-myself",
+          "i-have-to-do-it-all-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is grappling with the voice as identity structure and the fear of who she'd be without it—the inner critic as both torment and scaffold. She's also touching on the self-reliance pattern (structured her life around fixing this alone) and the improvement mindset that's become identity. The deeper material emerging is about the voice as identity keeper and the terror of dissolution.",
+        "bundle_ids": [
+          "my-inner-critic-wont-stop",
+          "i-need-to-improve-myself",
+          "find-the-emotion-under-self-judgment",
+          "peace-is-what-we-resist-the-most"
+        ],
+        "bundle_paths": [
+          "coach/concerns/my-inner-critic-wont-stop.md",
+          "coach/concerns/i-need-to-improve-myself.md",
+          "coach/moves/find-the-emotion-under-self-judgment.md",
+          "coach/principles/peace-is-what-we-resist-the-most.md"
+        ],
+        "bundle_reasons": [
+          "This file maps the exact concern the client is surfacing—the voice that won't stop—and the coaching path directly addresses her current moment: she's just named that the voice feels unfixable and that she doesn't trust who she'd be without it, which signals she's defending the voice as necessary. The file's reframe of voice-as-care and the note about people defending the voice as motivator are precisely where Joe needs to go next.",
+          "Client just surfaced the core dynamic: she's structured her adult life around fixing herself, and now faces the terror that it might not be fixable—which reveals she's been defending the voice as necessary for discipline and care. This file maps exactly that improvement-project-as-identity pattern and offers the coaching path to question the frame itself rather than the items on the list.",
+          "Client just surfaced the core fear underneath the voice: \"I don't know who I am without it being loud.\" This move directly maps that moment—the self-judgment (the voice) is protecting her from feeling something deeper, and Joe needs to help her find what emotion the voice is defending against.",
+          "Client just surfaced the core terror: \"I don't know who I am without it being loud\"—which is exactly the identity-dissolution fear this principle maps. She's defending the voice as necessary for discipline and care, and the principle explains why: peace (the absence of the voice's activity) dissolves the self she's organized around. This is the next layer Joe needs to name."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "my-inner-critic-wont-stop",
+            "file_path": "coach/concerns/my-inner-critic-wont-stop.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "can-you-hang-out-with-it",
+              "chin-up-as-emotion-block",
+              "depression-four-levels",
+              "find-the-emotion-under-self-judgment",
+              "i-cant-feel-my-emotions",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-offending-people",
+              "im-not-an-anxious-person",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body",
+              "looking-for-whats-wrong",
+              "peace-is-what-we-resist-the-most",
+              "punishing-the-remembering",
+              "recycling-anger-without-clarity",
+              "the-happiness-filter",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "the-rush-signature",
+              "trying-to-get-rid-of-the-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file maps the exact concern the client is surfacing—the voice that won't stop—and the coaching path directly addresses her current moment: she's just named that the voice feels unfixable and that she doesn't trust who she'd be without it, which signals she's defending the voice as necessary. The file's reframe of voice-as-care and the note about people defending the voice as motivator are precisely where Joe needs to go next.",
+              "follow_edges": [
+                "voice-as-care",
+                "dont-fight-the-voice",
+                "find-the-emotion-under-self-judgment",
+                "peace-is-what-we-resist-the-most"
+              ],
+              "follow_reason": "The client just revealed she doesn't trust herself without the voice and has structured years around fixing it—she's defending it as necessary. \"voice-as-care\" and \"dont-fight-the-voice\" are the immediate reframes. \"find-the-emotion-under-self-judgment\" and \"peace-is-what-we-resist-the-most\" address the deeper fear underneath her attachment to the voice's function."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-emotion-under-self-judgment",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "can-you-hang-out-with-it",
+              "chin-up-as-emotion-block",
+              "depression-four-levels",
+              "i-cant-feel-my-emotions",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-offending-people",
+              "im-not-an-anxious-person",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body",
+              "looking-for-whats-wrong",
+              "punishing-the-remembering",
+              "recycling-anger-without-clarity",
+              "the-happiness-filter",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "the-rush-signature",
+              "trying-to-get-rid-of-the-emotion"
+            ],
+            "cost_usd": 0.006083,
+            "ms": 3721,
+            "input_tokens": 4488,
+            "output_tokens": 319,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-need-to-improve-myself",
+            "file_path": "coach/concerns/i-need-to-improve-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "dont-use-measurement-to-beat-yourself-up",
+              "gentleness-not-trying-to-be-patient",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-should-be-doing-this",
+              "im-afraid-of-stagnating",
+              "looking-for-whats-wrong",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "searching-for-love-cuts-off-love",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client just surfaced the core dynamic: she's structured her adult life around fixing herself, and now faces the terror that it might not be fixable—which reveals she's been defending the voice as necessary for discipline and care. This file maps exactly that improvement-project-as-identity pattern and offers the coaching path to question the frame itself rather than the items on the list.",
+              "follow_edges": [
+                "im-afraid-of-stagnating",
+                "dont-use-measurement-to-beat-yourself-up",
+                "searching-for-love-cuts-off-love"
+              ],
+              "follow_reason": "Client fears losing the voice because she doesn't trust who she'd be without it—stagnation fear is likely underneath. The measurement/beating-herself-up dynamic is active in her self-criticism. The searching-for-love edge may surface what she's actually seeking through all the improvement work."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "im-afraid-of-stagnating",
+              "dont-use-measurement-to-beat-yourself-up",
+              "searching-for-love-cuts-off-love"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "confidence-only-where-approval-isnt-needed",
+              "daily-gratitude-for-your-own-transformation",
+              "desire-for-resolution",
+              "gentleness-not-trying-to-be-patient",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-should-be-doing-this",
+              "looking-for-whats-wrong",
+              "no-finish-line",
+              "nostalgic-claw-for-old-identity",
+              "punishing-the-remembering",
+              "symptoms-vs-root-causes-of-depression",
+              "voice-in-the-head",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.00569,
+            "ms": 3373,
+            "input_tokens": 4355,
+            "output_tokens": 267,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file maps hyper-independence and self-reliance, but the client hasn't surfaced that pattern yet—she's surfaced the voice, the improvement project, and the terror of not being fixable. The self-reliance may be *underneath* those, but it's not the presenting material Joe needs to work with right now.",
+              "follow_edges": [
+                "helplessness-is-the-gateway",
+                "joes-abandonment-mapping"
+              ],
+              "follow_reason": "The client just named \"I don't know who I am without the voice\" and \"I've structured my life around fixing this\"—both point to a deeper abandonment/helplessness substrate that this file flags. These two edges map the structure underneath what she's just surfaced."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "helplessness-is-the-gateway",
+              "joes-abandonment-mapping"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "cost_usd": 0.005915,
+            "ms": 3132,
+            "input_tokens": 4720,
+            "output_tokens": 239,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "find-the-emotion-under-self-judgment",
+            "file_path": "coach/moves/find-the-emotion-under-self-judgment.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apply-view-to-the-voice",
+              "feel-over-figure",
+              "feeling-the-unfelt-emotion",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "perfectionism",
+              "self-judgment-protects-from-emotion",
+              "shame-as-disconnection",
+              "the-arrogantly-humble-paradox",
+              "three-signals-of-unfelt-emotion",
+              "unfelt-emotion-leaks",
+              "voice-in-the-head"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client just surfaced the core fear underneath the voice: \"I don't know who I am without it being loud.\" This move directly maps that moment—the self-judgment (the voice) is protecting her from feeling something deeper, and Joe needs to help her find what emotion the voice is defending against.",
+              "follow_edges": [
+                "feeling-the-unfelt-emotion",
+                "three-signals-of-unfelt-emotion",
+                "shame-as-disconnection"
+              ],
+              "follow_reason": "Client is at the threshold of feeling the emotion under the judgment; these edges map the next steps: how to actually feel it, what signals to watch for, and the specific emotion (shame/disconnection) likely underneath her fear of being \"not fixable.\""
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "feeling-the-unfelt-emotion",
+              "three-signals-of-unfelt-emotion",
+              "shame-as-disconnection"
+            ],
+            "edges_skipped": [
+              "apply-view-to-the-voice",
+              "feel-over-figure",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "perfectionism",
+              "self-judgment-protects-from-emotion",
+              "the-arrogantly-humble-paradox",
+              "unfelt-emotion-leaks",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.005673,
+            "ms": 3779,
+            "input_tokens": 4498,
+            "output_tokens": 235,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "peace-is-what-we-resist-the-most",
+            "file_path": "coach/principles/peace-is-what-we-resist-the-most.md",
+            "category": "principles",
+            "candidate_edges": [
+              "craving-is-the-pushing-away",
+              "definition-of-asshole",
+              "how-do-i-trust-myself",
+              "lets-go-there",
+              "opposite-of-trying",
+              "peace-precedes-joy-after-non-duality",
+              "resistance",
+              "running-toward-yourself",
+              "wanting-vs-craving",
+              "whats-the-ultimate-thing-youre-running-from"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client just surfaced the core terror: \"I don't know who I am without it being loud\"—which is exactly the identity-dissolution fear this principle maps. She's defending the voice as necessary for discipline and care, and the principle explains why: peace (the absence of the voice's activity) dissolves the self she's organized around. This is the next layer Joe needs to name.",
+              "follow_edges": [
+                "lets-go-there",
+                "craving-is-the-pushing-away",
+                "whats-the-ultimate-thing-youre-running-from"
+              ],
+              "follow_reason": "Client is at the threshold of stepping into the avoided territory (who she'd be without the voice). \"lets-go-there\" is the direct coaching move. \"craving-is-the-pushing-away\" clarifies the mechanism of her defense. \"whats-the-ultimate-thing-youre-running-from\" probes the deeper fear beneath the voice itself."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "lets-go-there",
+              "craving-is-the-pushing-away",
+              "whats-the-ultimate-thing-youre-running-from"
+            ],
+            "edges_skipped": [
+              "definition-of-asshole",
+              "how-do-i-trust-myself",
+              "opposite-of-trying",
+              "peace-precedes-joy-after-non-duality",
+              "resistance",
+              "running-toward-yourself",
+              "wanting-vs-craving"
+            ],
+            "cost_usd": 0.006018,
+            "ms": 3747,
+            "input_tokens": 4588,
+            "output_tokens": 286,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "im-afraid-of-stagnating",
+            "file_path": "coach/concerns/im-afraid-of-stagnating.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "cricket-player-up-and-down",
+              "dont-improve-for-two-weeks",
+              "feel-love-and-empowerment-as-the-same",
+              "i-keep-crashing-and-burning",
+              "improvement-mindset-vs-maintenance-mindset",
+              "nature-improves-itself",
+              "wanting-itself-not-what-you-want",
+              "what-if-there-is-no-finish-line",
+              "what-we-fear-we-invite",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses fear of stagnation as a defense of the improvement project, but the client has already moved past that layer—she's now facing the terror of *not* being fixable and the identity dissolution underneath the voice, not the fear of stopping improvement itself.",
+              "follow_edges": [
+                "what-we-fear-we-invite",
+                "nature-improves-itself"
+              ],
+              "follow_reason": "These two edges map the inversion Joe needs to name: the fear of stagnation (and the fear of being unfixable) invites the very thing she's defending against, and growth happens naturally without the voice's relentless push—both directly relevant to her current realization about the voice's role."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-we-fear-we-invite",
+              "nature-improves-itself"
+            ],
+            "edges_skipped": [
+              "cricket-player-up-and-down",
+              "dont-improve-for-two-weeks",
+              "feel-love-and-empowerment-as-the-same",
+              "i-keep-crashing-and-burning",
+              "improvement-mindset-vs-maintenance-mindset",
+              "wanting-itself-not-what-you-want",
+              "what-if-there-is-no-finish-line",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.005907,
+            "ms": 2919,
+            "input_tokens": 4767,
+            "output_tokens": 228,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0114567,
+        "walker_total_cost_usd": 0.035286,
+        "total_cost_usd": 0.0467427,
+        "seed_detection_input_tokens": 1369,
+        "seed_detection_output_tokens": 166,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 27416,
+        "walker_total_output_tokens": 1574,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3632,
+        "walker_total_ms": 20671,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 10
+      },
+      "cost_usd": 0.0467427,
+      "ms": 24306
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0114847,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0114847,
+        "seed_detection_input_tokens": 1332,
+        "seed_detection_output_tokens": 179,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2831,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.0114847,
+      "ms": 2832
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0114497,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0114497,
+        "seed_detection_input_tokens": 1292,
+        "seed_detection_output_tokens": 180,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2780,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 14
+      },
+      "cost_usd": 0.0114497,
+      "ms": 2781
+    }
+  ]
+}

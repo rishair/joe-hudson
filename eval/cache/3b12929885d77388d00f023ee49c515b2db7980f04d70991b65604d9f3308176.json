@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:47.028Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3b12929885d77388d00f023ee49c515b2db7980f04d70991b65604d9f3308176",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XsZ8iKCw4pQpNRYvUTvyif",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long silence*\n\n*something shifts in the posture, very slightly — not dramatic, just a small release somewhere in the shoulders*\n\nI was good at things. I just... moved through the world and I trusted that. And somewhere in the process of learning to understand myself better, I — \n\n*stops*\n\nI stopped being able to find the floor.\n\n*quiet, not performing*\n\nThat's what it is. I used to know where the floor was. Now there are so many maps of the floor that I can't feel it under my feet anymore.\n\n*another silence, longer*\n\nI really thought understanding more would make it easier. That was the whole — that was why I did the work. And instead I'm standing in the middle of all this... knowledge about myself, and I can't move.\n\n*voice slightly different, less precise*\n\nI miss being able to move."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 242,
+      "cache_creation_input_tokens": 463,
+      "cache_read_input_tokens": 2598,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 463,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 192,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 242,
+    "output_tokens": 192,
+    "cache_read_input_tokens": 2598,
+    "cache_creation_input_tokens": 463
+  }
+}

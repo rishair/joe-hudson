@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:02:11.421Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7578787850e0618cbeda17e6ee05c8b1bcee3ef94bb2b39f7fadc7217529d96f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GHr6HsfobdgZVu9FgoWffD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Four years.\n\nWhat did you lose when you stopped going?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23676,
+      "cache_creation_input_tokens": 5443,
+      "cache_read_input_tokens": 11313,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 5443,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 16,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23676,
+    "output_tokens": 16,
+    "cache_read_input_tokens": 11313,
+    "cache_creation_input_tokens": 5443
+  }
+}

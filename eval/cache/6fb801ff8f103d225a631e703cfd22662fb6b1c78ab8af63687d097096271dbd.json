@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:58.088Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6fb801ff8f103d225a631e703cfd22662fb6b1c78ab8af63687d097096271dbd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018MKwQUU8sw5pu28K86Mkcu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness*\n\n*several seconds*\n\n*jaw tight, then something shifts slightly in the shoulders*\n\nIt's...\n\nThere's this thing where — \n\n*stops, restarts*\n\nTwelve years is a long time to be somewhere and still feel like you're waiting for it to start. Like the real thing is still coming. And maybe it's...\n\n*pause*\n\nMaybe it's not coming. Maybe this is it and I just — I kept telling myself the problem was the ceiling, the system, the guys above me, and that was easier than thinking about what it means if none of that is actually the obstacle.\n\n*quiet, not quite looking at the coach*\n\nI don't know what that makes me."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 158,
+      "cache_creation_input_tokens": 344,
+      "cache_read_input_tokens": 2088,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 344,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 157,
+    "cache_read_input_tokens": 2088,
+    "cache_creation_input_tokens": 344
+  }
+}

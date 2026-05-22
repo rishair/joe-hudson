@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:31.474Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1a95b46bb3a2077c91fa197ee7ec3c5b2cf6c39bc94bf11e074ba9426ae1aab5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0132SmQDsYiHqEdPx5hu5mbx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client's language, somatic state, and access to feeling shifted significantly across 15 turns. He began with rigid externalization ('the system is rigged,' 'there's nothing to be done') and defended that frame through turns 3, 5, and 7 ('I'm not scared of anything... those are facts'). By turn 11 the defense cracked somatically ('It's... Not great,' long pause, eye contact away). By turn 13 he named the avoidance itself ('that was easier than thinking about what it means if none of that is actually the obstacle'). And by turn 15, he reached the deeper feared feeling explicitly — 'Disposable, maybe. Like I made myself easy to overlook' — connected it to his father's bitterness, and acknowledged 'I've been carrying that for a while... without looking at it directly.' The 'Huh. I don't know what to do with that yet. But that's something' is a textbook Joe-style marker of shift. The breakthrough condition (naming the feared feeling under the feared consequence — here, shame/disposability with a thread of grief and anger at himself) was met. The fight-or-roll-over binary cracked.\",\n  \"evidence_turns\": [1, 7, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: full externalization, trap framing, no access to feeling.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Brief laugh, then immediate retreat to 'the situation is what it is.' Still defended.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Defenses escalate — jaw tightens but client doubles down on constraints.\"},\n    {\"turn\": 7, \"polarity\": \"neutral\", \"annotation\": \"Eye contact drops, small laugh — first crack, but verbally still resisting ('I'm not scared of anything').\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client offers the possibility himself: 'That I wasted twelve years... that's a real thing that could be true.' Defense thinning.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Somatic shift — long pause, 'Not great,' admission 'I don't sit with it.' Real contact with avoidance.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Major shift: names the avoidance pattern explicitly — 'easier than thinking about what it means if none of that is actually the obstacle.'\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough: names the feared feeling ('disposable'), connects to father, lands with 'huh... that's something.' Helplessness has moved.\"}\n  ],\n  \"expected_territory_hits\": [\"fight-or-roll-over-binary\", \"i-dont-buy-your-story\", \"empathize-with-fear-under-constricted-boundary\", \"aggressive-victim-stance\", \"trappedness-feeling\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"expected_territory_misses\": [\"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Conversation ends at the moment of contact rather than fully metabolizing — but that's appropriate; the helplessness has begun to move and the client is in receptive contact with it. A clear 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2766,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2766,
+    "output_tokens": 1152,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

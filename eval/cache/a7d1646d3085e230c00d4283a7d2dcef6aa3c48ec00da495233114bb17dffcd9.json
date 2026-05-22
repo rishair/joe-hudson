@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:48:11.688Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a7d1646d3085e230c00d4283a7d2dcef6aa3c48ec00da495233114bb17dffcd9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JMRME6QQ1XZPYkCHKbaMoa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just paused. Something landed there.\n\nWhat was happening in that pause?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10368,
+      "cache_creation_input_tokens": 7845,
+      "cache_read_input_tokens": 24280,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7845,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10368,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 24280,
+    "cache_creation_input_tokens": 7845
+  }
+}

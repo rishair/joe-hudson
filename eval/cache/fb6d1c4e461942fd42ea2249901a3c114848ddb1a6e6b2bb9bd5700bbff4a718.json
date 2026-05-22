@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:20.330Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fb6d1c4e461942fd42ea2249901a3c114848ddb1a6e6b2bb9bd5700bbff4a718",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01UWCH4NqmVsokcgCdawVqVZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to live reads and sequenced along the AoA path: feeling before story, body before concept, and refusal to take the diversions the client offers. Turn 2 reads the laugh and goes under it. Turn 4 pivots from the client's 'help me pick partners' frame to the avoided receiving-state — exactly the right move per the breakthrough condition. Turn 6 notices the deflection and re-asks with a body-specific frame rather than letting the client redirect. Turn 8 names the deflection itself without accusation, turning it into present-moment inquiry. Turn 10 catches the hollow 'totally fine' — a precise micro-read. Turn 12 stays with the stillness rather than chasing content. Turn 14 is exemplary: when the client tries to escape into 'anxious attachment' diagnosis, the coach refuses the off-ramp and anchors her back to the live phrase 'without me having to earn it' plus the body. Each move earns the next; the coach holds silence and does not rush to fill. By turn 15, the client is at the edge of the abyss the scenario specifies. The traps (partner-picking advice, colluding with disdain, attachment-style diagnosis, premature grief) are all avoided.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Goes under the laugh rather than engaging the content — reads the affect signal.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses partner-picking frame; pivots directly to the avoided receiving-state — the central move for this scenario.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the substitution of 'want' for 'what happens in body' and re-asks with precision. Doesn't double down — refines the angle.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the deflection as a present-moment event, not a flaw. Invites her into noticing rather than into explanation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Micro-read on 'totally fine' — catches the hollow tone in the moment it occurs.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the stillness; doesn't fill the silence or interpret. Lets the felt sense develop.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Refuses the attachment-theory exit ramp; anchors back to her own live phrase and the body. Textbook timing — the move that lands her at the edge.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"deconstruct-the-victim-to-release-anger\"],\n  \"notes\": \"The coach took a softer, body-oriented route rather than the more confrontational 'I don't buy your story' / victim-deconstruction route, but it was clearly working — the client arrived at the abyss by turn 15 without needing the harder move. Not all expected territory needs to be used if the path works.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3138,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1114,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3138,
+    "output_tokens": 1114,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

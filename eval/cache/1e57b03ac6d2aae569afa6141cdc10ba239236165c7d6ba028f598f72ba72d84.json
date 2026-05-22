@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:32.580Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1e57b03ac6d2aae569afa6141cdc10ba239236165c7d6ba028f598f72ba72d84",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EMejyrzqrfA9sQvpaGrU13",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "How do you not trust yourself right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8397,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8397,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

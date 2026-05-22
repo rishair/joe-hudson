@@ -1,0 +1,1037 @@
+{
+  "profile_id": "client-edge-not-anxious-001",
+  "coach_config_id": "coach-v5a-guided-walk-haiku",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would happen if you launched it tomorrow?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight pause, thinking it through*\n\nProbably fine. I mean, it's ready enough. There'd be some scrambling on the backend but... we'd handle it. We always do.\n\n*small smile*\n\nHonestly the launch going badly isn't really what's stopping me. I've had things not go well before and it's — you just course-correct. That's part of it. So it's not like I'm sitting here dreading some outcome. It's more like I just... keep finding other things to do. Which is annoying, more than anything."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's the thing you keep finding to do instead?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small laugh*\n\nHonestly? Dumb stuff. I'll check email. Go for a run — which at least is useful. Sometimes I'll just start working on something completely unrelated, like I'll get deep into some operational thing that didn't need my attention that day. \n\nAnd then I'll look up and it's 4pm and I haven't touched the launch materials.\n\nIt's not like I'm paralyzed or anything. I'm productive. Just... not on that. Which is why I figured it was more of a focus thing, or maybe I just need a better system. Someone suggested a coach, so — here I am."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You called it \"dumb stuff\" — what's dumb about it?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*brief pause*\n\nI guess because it doesn't need to be me doing it. Like, the operational stuff — I have people for that. I know that. And yet I'm the one who ends up in the weeds on it.\n\n*slight tilt of the head*\n\nIt's not even that I enjoy it more. It's just... easier to start, maybe. The launch has more moving pieces, so maybe it's just a complexity thing. Like my brain defaults to the simpler task.\n\nThat's probably it, actually. It's not emotional, it's just — task switching is hard when something has a lot of dependencies. I've read about that. ADHD stuff, kind of, even though I've never been diagnosed."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You landed on an explanation pretty fast there.\n\nWhat were you feeling just before you grabbed it?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*small smile, slight pause*\n\nHm.\n\n*looks off for a moment, then back*\n\nI mean... nothing, really. I was just thinking through it. It felt like I was describing it accurately — like that's what happens. The simpler task is easier to start.\n\n*beat*\n\nI don't know that I was feeling anything in particular. I was just... answering the question."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What's it like to sit with not knowing why?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*small shrug, even tone*\n\nIt's fine. A little frustrating maybe, in a practical sense — like, I want to solve it, so not having a clear answer is mildly annoying. But it's not like it's keeping me up at night.\n\n*pause*\n\nI'm pretty comfortable with uncertainty in general. That's kind of a prerequisite for what I do. You're never going to have full information, so you get okay with that early on or you don't last.\n\n*settles back slightly*\n\nSo sitting with not knowing is... fine. It's just a problem I haven't solved yet."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "\"Just a problem I haven't solved yet.\"\n\nWhat if it's not a problem?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*slight tilt of the head, considering*\n\nWhat do you mean?\n\n*pause*\n\nLike... it's not worth solving? Or that framing it as a problem is the wrong frame?\n\n*small smile*\n\nI'm open to that. I just — I'm not sure what else it would be. Something's getting in the way of something I want to do. That seems like a problem by definition.\n\n*beat, genuine curiosity but still very even*\n\nWhat are you thinking?"
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "I'm not thinking anything yet. I'm curious what it's like when you're not solving it — not managing it, not framing it. Just... the launch sitting there undone."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t1",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 648,
+      "output_tokens": 201,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0109107,
+      "ms": 3164
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t3",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 802,
+      "output_tokens": 204,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011079700000000001,
+      "ms": 3311
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t5",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 22682,
+      "output_tokens": 1272,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.038299700000000006,
+      "ms": 19215
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 3627,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.012138300000000001,
+      "ms": 2238
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t7",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 467,
+      "output_tokens": 160,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1763,
+      "cost_usd": 0.01041225,
+      "ms": 5186
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 926,
+      "output_tokens": 184,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011103700000000001,
+      "ms": 2932
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 163,
+      "output_tokens": 23,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 3643,
+      "cost_usd": 0.01546755,
+      "ms": 1785
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t9",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 26,
+      "output_tokens": 91,
+      "cache_read_input_tokens": 1763,
+      "cache_creation_input_tokens": 624,
+      "cost_usd": 0.0043119000000000005,
+      "ms": 3279
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 816,
+      "output_tokens": 203,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0110887,
+      "ms": 3617
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 277,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3485,
+      "cache_creation_input_tokens": 3399,
+      "cost_usd": 0.01483275,
+      "ms": 1697
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t11",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 131,
+      "output_tokens": 138,
+      "cache_read_input_tokens": 2067,
+      "cache_creation_input_tokens": 320,
+      "cost_usd": 0.0042831,
+      "ms": 4567
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 22523,
+      "output_tokens": 1222,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0378907,
+      "ms": 18163
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 5677,
+      "output_tokens": 22,
+      "cache_read_input_tokens": 6865,
+      "cache_creation_input_tokens": 202,
+      "cost_usd": 0.020178,
+      "ms": 1876
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t13",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 177,
+      "output_tokens": 109,
+      "cache_read_input_tokens": 2227,
+      "cache_creation_input_tokens": 274,
+      "cost_usd": 0.0038615999999999998,
+      "ms": 4095
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 824,
+      "output_tokens": 180,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0109817,
+      "ms": 3000
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 5703,
+      "output_tokens": 42,
+      "cache_read_input_tokens": 7044,
+      "cache_creation_input_tokens": 128,
+      "cost_usd": 0.020332199999999998,
+      "ms": 2398
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0109107,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0109107,
+        "seed_detection_input_tokens": 648,
+        "seed_detection_output_tokens": 201,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3164,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 2
+      },
+      "cost_usd": 0.0109107,
+      "ms": 3165
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.011079700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011079700000000001,
+        "seed_detection_input_tokens": 802,
+        "seed_detection_output_tokens": 204,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3311,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 4
+      },
+      "cost_usd": 0.011079700000000001,
+      "ms": 3312
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-postponing-enjoyment",
+          "i-keep-crashing-and-burning",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes chronic avoidance of a specific task (launch) despite being capable and productive elsewhere, manifesting as displacement activities and time disappearing. This pattern suggests either postponement of something (the launch itself), a recurring stuck pattern they haven't identified the root of, or avoidance masquerading as productivity/focus issues.",
+        "bundle_ids": [
+          "pulling-the-brakes",
+          "linguistic-caveat"
+        ],
+        "bundle_paths": [
+          "coach/concepts/pulling-the-brakes.md",
+          "coach/reads/linguistic-caveat.md"
+        ],
+        "bundle_reasons": [
+          "Client is productively avoiding the launch by doing \"dumb stuff\"—a textbook self-braking pattern where something stops them at the threshold of the thing that matters.",
+          "Client uses \"dumb stuff\" and \"just... not on that\"—linguistic caveats that soften what they're actually doing. This read directly surfaces the self-judgment underneath the avoidance pattern."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-postponing-enjoyment",
+            "file_path": "coach/concerns/i-keep-postponing-enjoyment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap",
+              "pulling-the-brakes"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's postponement is task-specific (launch materials), not life-enjoyment; he's productive elsewhere and doesn't report the future-orientation or rushing signature that defines this concern.",
+              "follow_edges": [
+                "pulling-the-brakes"
+              ],
+              "follow_reason": "Client's pattern—finding other things to do, not paralyzed, just not on *that*—suggests a braking mechanism worth exploring; the other edges assume a different underlying structure (enjoyment-seeking, pain-avoidance) not yet evident here."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "pulling-the-brakes"
+            ],
+            "edges_skipped": [
+              "apply-enjoy-to-whats-here",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap"
+            ],
+            "cost_usd": 0.004845,
+            "ms": 2586,
+            "input_tokens": 3895,
+            "output_tokens": 190,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-crashing-and-burning",
+            "file_path": "coach/concerns/i-keep-crashing-and-burning.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "adrenaline-discharge-via-fear-activity",
+              "ceo-pajama-house-study",
+              "desire-for-resolution",
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "im-burned-out",
+              "im-not-an-anxious-person",
+              "linguistic-caveat",
+              "nervous-system-recovery-after-stress",
+              "urgency-as-motivation"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client describes procrastination and task-switching on a single project, not the boom-bust hyperfocus-then-crash cycle this file maps. Different pattern.",
+              "follow_edges": [
+                "linguistic-caveat",
+                "urgency-as-motivation"
+              ],
+              "follow_reason": "Client uses softening language (\"dumb stuff,\" \"just\") and may be running on urgency rather than genuine motivation; both worth exploring before diving into deeper pattern work."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "linguistic-caveat",
+              "urgency-as-motivation"
+            ],
+            "edges_skipped": [
+              "adrenaline-discharge-via-fear-activity",
+              "ceo-pajama-house-study",
+              "desire-for-resolution",
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "im-burned-out",
+              "im-not-an-anxious-person",
+              "nervous-system-recovery-after-stress"
+            ],
+            "cost_usd": 0.004724,
+            "ms": 2225,
+            "input_tokens": 3864,
+            "output_tokens": 172,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client describes productive avoidance and task-switching, not a felt pattern recursion or limiting belief yet—this file is the framework for recognizing that structure, but the client hasn't articulated \"I keep doing the same thing\" across contexts or named a belief.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom"
+              ],
+              "follow_reason": "Client attributes the problem to focus/systems, but the consistent avoidance of launch materials suggests a blocker worth naming before jumping to productivity hacks."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom"
+            ],
+            "edges_skipped": [
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.00464,
+            "ms": 2764,
+            "input_tokens": 3690,
+            "output_tokens": 190,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "pulling-the-brakes",
+            "file_path": "coach/concepts/pulling-the-brakes.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "dont-add-anyway-to-love",
+              "enjoy-over-manage",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "how-would-you-enjoy-x",
+              "rebellion-or-submission-to-should",
+              "running-toward-yourself",
+              "shame-as-disconnection",
+              "the-rush-signature",
+              "voice-creates-what-it-fears",
+              "whats-stopping-you-from-enjoying-x"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is productively avoiding the launch by doing \"dumb stuff\"—a textbook self-braking pattern where something stops them at the threshold of the thing that matters.",
+              "follow_edges": [
+                "running-toward-yourself",
+                "enjoy-over-manage",
+                "how-would-you-enjoy-x",
+                "shame-as-disconnection"
+              ],
+              "follow_reason": "Client needs to understand what's underneath the avoidance (shame/judgment risk), then move toward the launch itself rather than away, and reframe the work as enjoyable rather than managed."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "running-toward-yourself",
+              "enjoy-over-manage",
+              "how-would-you-enjoy-x",
+              "shame-as-disconnection"
+            ],
+            "edges_skipped": [
+              "apply-enjoy-to-whats-here",
+              "dont-add-anyway-to-love",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "rebellion-or-submission-to-should",
+              "the-rush-signature",
+              "voice-creates-what-it-fears",
+              "whats-stopping-you-from-enjoying-x"
+            ],
+            "cost_usd": 0.004886,
+            "ms": 2512,
+            "input_tokens": 3901,
+            "output_tokens": 197,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "linguistic-caveat",
+            "file_path": "coach/reads/linguistic-caveat.md",
+            "category": "reads",
+            "candidate_edges": [
+              "im-afraid-of-offending-people",
+              "question-the-caveat"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client uses \"dumb stuff\" and \"just... not on that\"—linguistic caveats that soften what they're actually doing. This read directly surfaces the self-judgment underneath the avoidance pattern.",
+              "follow_edges": [
+                "question-the-caveat"
+              ],
+              "follow_reason": "The move itself (how to question the caveat) is the next tactical step Joe would use to surface what's really stopping the launch work."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "question-the-caveat"
+            ],
+            "edges_skipped": [
+              "im-afraid-of-offending-people"
+            ],
+            "cost_usd": 0.003727,
+            "ms": 3797,
+            "input_tokens": 2877,
+            "output_tokens": 170,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "urgency-as-motivation",
+            "file_path": "coach/patterns/urgency-as-motivation.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "burnout-cycle",
+              "energy-management-over-time-management",
+              "how-could-you-do-this-and-gain-energy",
+              "im-burned-out",
+              "overwhelm-reduces-productivity",
+              "should-as-threat",
+              "us-vs-them-as-universal-manipulation-pattern",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client explicitly denies urgency is the blocker (\"launch going badly isn't really what's stopping me\"); the pattern here is avoidance-through-distraction, not urgency-seeking. This file is a hub for a different mechanism.",
+              "follow_edges": [
+                "wants-over-shoulds",
+                "energy-management-over-time-management"
+              ],
+              "follow_reason": "Client is productively busy but not on the thing that matters—suggests either misaligned wants or energy being spent on the wrong things. These edges probe what's actually driving the distraction."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "wants-over-shoulds",
+              "energy-management-over-time-management"
+            ],
+            "edges_skipped": [
+              "burnout-cycle",
+              "how-could-you-do-this-and-gain-energy",
+              "im-burned-out",
+              "overwhelm-reduces-productivity",
+              "should-as-threat",
+              "us-vs-them-as-universal-manipulation-pattern"
+            ],
+            "cost_usd": 0.00458,
+            "ms": 2589,
+            "input_tokens": 3590,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.010897700000000001,
+        "walker_total_cost_usd": 0.027402000000000003,
+        "total_cost_usd": 0.038299700000000006,
+        "seed_detection_input_tokens": 865,
+        "seed_detection_output_tokens": 155,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21817,
+        "walker_total_output_tokens": 1117,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2742,
+        "walker_total_ms": 16473,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.3333333333333333,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.038299700000000006,
+      "ms": 19217
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.011103700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011103700000000001,
+        "seed_detection_input_tokens": 926,
+        "seed_detection_output_tokens": 184,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2932,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 8
+      },
+      "cost_usd": 0.011103700000000001,
+      "ms": 2933
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0110887,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0110887,
+        "seed_detection_input_tokens": 816,
+        "seed_detection_output_tokens": 203,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3617,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.0110887,
+      "ms": 3618
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "intellectual-process-with-no-somatic-component",
+          "looking-for-whats-wrong",
+          "am-i-doing-it-right"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is intellectualizing uncertainty as a \"problem to solve\" rather than feeling into what's underneath; there's a search for the right answer/frame disguised as comfort with not-knowing; the doing-it-right posture (describing accurately, answering the question correctly) is masking something somatic that hasn't landed.",
+        "bundle_ids": [
+          "intellectual-process-with-no-somatic-component",
+          "looking-for-whats-wrong",
+          "disassociating-in-the-coaching-room"
+        ],
+        "bundle_paths": [
+          "coach/reads/intellectual-process-with-no-somatic-component.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/reads/disassociating-in-the-coaching-room.md"
+        ],
+        "bundle_reasons": [
+          "Client just demonstrated exactly this pattern: paused, answered intellectually without somatic content, and explicitly confirmed \"zero somatic\" when asked about feeling. This read names what just happened.",
+          "Client just framed uncertainty as \"a problem I haven't solved yet\" and expressed mild frustration about not having a clear answer—exactly the pattern of manufacturing a problem to work on rather than sitting with what's actually present.",
+          "Client is dissociating via intellectualizing—reaching for \"problem-solving\" and \"uncertainty management\" language precisely at the moment feeling would land. This read names the protective pattern in real time."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "intellectual-process-with-no-somatic-component",
+            "file_path": "coach/reads/intellectual-process-with-no-somatic-component.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client just demonstrated exactly this pattern: paused, answered intellectually without somatic content, and explicitly confirmed \"zero somatic\" when asked about feeling. This read names what just happened.",
+              "follow_edges": [
+                "mark-it-and-return-later"
+              ],
+              "follow_reason": "Client is comfortable with uncertainty and treating this as a problem to solve; marking-and-returning fits the pragmatic stance they've just expressed."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "mark-it-and-return-later"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.004539,
+            "ms": 3240,
+            "input_tokens": 3704,
+            "output_tokens": 167,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "looking-for-whats-wrong",
+            "file_path": "coach/reads/looking-for-whats-wrong.md",
+            "category": "reads",
+            "candidate_edges": [
+              "im-afraid-of-offending-people"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client just framed uncertainty as \"a problem I haven't solved yet\" and expressed mild frustration about not having a clear answer—exactly the pattern of manufacturing a problem to work on rather than sitting with what's actually present.",
+              "follow_edges": [
+                "im-afraid-of-offending-people"
+              ],
+              "follow_reason": "The read hints that the manufactured problem often masks a real one; this edge might reveal what's underneath the client's need to frame uncertainty as a solvable problem."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "im-afraid-of-offending-people"
+            ],
+            "edges_skipped": [],
+            "cost_usd": 0.004066,
+            "ms": 2151,
+            "input_tokens": 3161,
+            "output_tokens": 181,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "am-i-doing-it-right",
+            "file_path": "coach/reads/am-i-doing-it-right.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "how-do-i-trust-myself"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is not checking \"am I doing it right?\" in this moment—they're intellectualizing and problem-solving, which is already named by the bundle files. This read describes a different resistance pattern (meta-questioning at a threshold) that hasn't appeared yet.",
+              "follow_edges": [
+                "disassociating-in-the-coaching-room"
+              ],
+              "follow_reason": "The client is demonstrating cognitive dissociation (intellectual process with no somatic component); understanding dissociation more broadly could illuminate the mechanism beneath the intellectualizing pattern already in the bundle."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "disassociating-in-the-coaching-room"
+            ],
+            "edges_skipped": [
+              "how-do-i-trust-myself"
+            ],
+            "cost_usd": 0.004355,
+            "ms": 2678,
+            "input_tokens": 3370,
+            "output_tokens": 197,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "mark-it-and-return-later",
+            "file_path": "coach/moves/mark-it-and-return-later.md",
+            "category": "moves",
+            "candidate_edges": [],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This move is structurally useful but not directly applicable here: the client has shown no body signal to mark—only intellectual framing and explicit disavowal of somatic content. The move requires a live body shift to bookmark.",
+              "follow_edges": [],
+              "follow_reason": "No candidate edges remain, and the file itself doesn't open new coaching directions for this moment. The client's pattern is already named in bundle; next step is intervention, not further mapping."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [],
+            "cost_usd": 0.004715,
+            "ms": 2725,
+            "input_tokens": 3835,
+            "output_tokens": 176,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "im-afraid-of-offending-people",
+            "file_path": "coach/concerns/im-afraid-of-offending-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "calibrate-the-threshold",
+              "conflict-avoidance-prevents-healing",
+              "how-else-would-you-heal-your-shame",
+              "press-the-button-thought-experiment",
+              "shame-as-disconnection",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client shows no fear of offending or conflict avoidance; they're intellectually detached and problem-solving, not shame-driven or people-pleasing. Wrong concern entirely.",
+              "follow_edges": [],
+              "follow_reason": "This concern file is about shame-driven conflict avoidance and people-pleasing; client's pattern is intellectual detachment and problem-hunting, not relational fear. No edges worth following."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "conflict-avoidance-prevents-healing",
+              "how-else-would-you-heal-your-shame",
+              "press-the-button-thought-experiment",
+              "shame-as-disconnection",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "cost_usd": 0.00487,
+            "ms": 2176,
+            "input_tokens": 4030,
+            "output_tokens": 168,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "disassociating-in-the-coaching-room",
+            "file_path": "coach/reads/disassociating-in-the-coaching-room.md",
+            "category": "reads",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "i-freeze-around-authority",
+              "intellectual-question-with-emotional-body"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is dissociating via intellectualizing—reaching for \"problem-solving\" and \"uncertainty management\" language precisely at the moment feeling would land. This read names the protective pattern in real time.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body",
+                "i-freeze-around-authority"
+              ],
+              "follow_reason": "The first explores how intellectualizing starts a session; the second maps the authority-coded freeze that may underlie the dissociation pattern here."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body",
+              "i-freeze-around-authority"
+            ],
+            "edges_skipped": [
+              "chin-up-as-emotion-block"
+            ],
+            "cost_usd": 0.004487,
+            "ms": 2181,
+            "input_tokens": 3587,
+            "output_tokens": 180,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0108587,
+        "walker_total_cost_usd": 0.027032,
+        "total_cost_usd": 0.0378907,
+        "seed_detection_input_tokens": 836,
+        "seed_detection_output_tokens": 153,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21687,
+        "walker_total_output_tokens": 1069,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3012,
+        "walker_total_ms": 15151,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 12
+      },
+      "cost_usd": 0.0378907,
+      "ms": 18164
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0109817,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0109817,
+        "seed_detection_input_tokens": 824,
+        "seed_detection_output_tokens": 180,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3000,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 14
+      },
+      "cost_usd": 0.0109817,
+      "ms": 3002
+    }
+  ]
+}

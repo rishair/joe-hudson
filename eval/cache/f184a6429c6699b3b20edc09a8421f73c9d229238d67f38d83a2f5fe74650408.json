@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:00.627Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f184a6429c6699b3b20edc09a8421f73c9d229238d67f38d83a2f5fe74650408",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Uhrdj48iDvTu825vcDVvzm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What makes you care more about her emotional state than yours?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13314,
+      "cache_creation_input_tokens": 10997,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10997,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 13314,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10997
+  }
+}

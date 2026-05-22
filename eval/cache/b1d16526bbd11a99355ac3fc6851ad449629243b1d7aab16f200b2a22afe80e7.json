@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:29.072Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b1d16526bbd11a99355ac3fc6851ad449629243b1d7aab16f200b2a22afe80e7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01F4dmdDnz5zBa3Xij8R7PNE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small pause*\n\nThat's a good question. I've thought about it a lot, actually. My best theory is that she... hides? Like something in me decides it's not safe to be visible, and she just — tucks back. Goes quiet.\n\nAnd I know that's the dad thing. I know it intellectually. When I was growing up, being visible — having opinions, taking up space — that wasn't... it didn't go well. So I learned to make myself small. And apparently I never fully unlearned it.\n\n*shifts slightly*\n\nIt's interesting, I can talk about this pretty analytically. I've done some work on it. But knowing the origin doesn't seem to change the reflex."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 130,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2191,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 130,
+    "output_tokens": 158,
+    "cache_read_input_tokens": 2191,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:23.259Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "28a086ab3cbd24f823a3f636ec294a06e4d11230a03374f6598e1cd5075ec5a7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0139cLGFQGV1yUTjDT4ZuUEJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*jaw tightens slightly*\n\nThat's — I mean, that's a nice thought. But it doesn't work like that. The projects that matter get assigned to the people above me. That's how it works there. It's not like there's a pile of meaningful work sitting in the corner waiting for someone to claim it.\n\nAnd even if there were — you put your head up, you become a threat. Seen it happen. Person tries to do more, gets managed out because suddenly they're \"not a team player.\" So there's that.\n\nI've tried. Volunteered for things, made the case for different responsibilities. Gets noted and then... nothing. You don't know this place."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 25,
+      "cache_creation_input_tokens": 225,
+      "cache_read_input_tokens": 1597,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 225,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 151,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 25,
+    "output_tokens": 151,
+    "cache_read_input_tokens": 1597,
+    "cache_creation_input_tokens": 225
+  }
+}

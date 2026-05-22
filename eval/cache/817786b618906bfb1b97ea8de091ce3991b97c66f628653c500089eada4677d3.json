@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:58.573Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "817786b618906bfb1b97ea8de091ce3991b97c66f628653c500089eada4677d3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YYtK6byd4VoA9CvYEmzD9N",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*doesn't answer immediately*\n\n*something shifts in the face, then gets very still*\n\n*voice comes out smaller than intended*\n\nYeah.\n\n*clears throat*\n\nI mean. It is what it is. I chose to live here, away from everyone. That was my decision. So.\n\n*beat*\n\n*quieter*\n\nIt's a lot quieter than I thought it would be. After. I thought it would just be... sad for a while and then normal again. But normal hasn't come back yet.\n\n*pause*\n\nThe wine helps with the quiet too. Not just the sleep. Just the... sitting in it alone.\n\n*looks up slightly*\n\nIsn't this what the body is asking for, though? Like, doesn't the body know what it needs? I've read that grief lives in the body and you have to give it what it's asking for. So maybe I'm just... trusting that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 270,
+      "cache_creation_input_tokens": 407,
+      "cache_read_input_tokens": 2549,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 407,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 204,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 270,
+    "output_tokens": 204,
+    "cache_read_input_tokens": 2549,
+    "cache_creation_input_tokens": 407
+  }
+}

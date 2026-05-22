@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:30.849Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "14e531d4034d1571ee65999c1b181b9f35259ce8619ed09a97852d463d686ddf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WAkQ5TpuxLud4iaRWPEbN6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Thank you for noticing that. And for staying with it yourself, even when you offered the out.\n\nThat thing you just described — giving people the retraction so neither of you has to deal with it — that's been happening for a while, hasn't it. Not just in this conversation.\n\nWhat's it like to have someone not take the out?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 14788,
+      "cache_creation_input_tokens": 212,
+      "cache_read_input_tokens": 41094,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 212,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 77,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 14788,
+    "output_tokens": 77,
+    "cache_read_input_tokens": 41094,
+    "cache_creation_input_tokens": 212
+  }
+}

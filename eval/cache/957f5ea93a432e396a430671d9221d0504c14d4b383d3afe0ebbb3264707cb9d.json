@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:05.327Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "957f5ea93a432e396a430671d9221d0504c14d4b383d3afe0ebbb3264707cb9d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EjzUFBuhzcuLV1bkTJyDQa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*shifts slightly, jaw works*\n\nIt was — I don't know. It was just a laugh. \n\n*beat*\n\nIt's just a frustrating question is all. Because it implies there's something I'm missing. Some feeling I'm avoiding. And I've been over this a hundred times. With myself, with my wife. It's not like this is new territory.\n\n*quieter*\n\nI don't know what you want me to say. That I'm scared? Of what exactly. That I wasted twelve years? I mean... that's not a feeling, that's a possibility. That's a real thing that could be true."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 300,
+      "cache_creation_input_tokens": 263,
+      "cache_read_input_tokens": 1732,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 263,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 140,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 300,
+    "output_tokens": 140,
+    "cache_read_input_tokens": 1732,
+    "cache_creation_input_tokens": 263
+  }
+}

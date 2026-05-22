@@ -1,0 +1,1845 @@
+{
+  "profile_id": "client-edge-dont-have-time-001",
+  "coach_config_id": "coach-v5a-guided-walk-haiku",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I'm not in a position to slow down right now. I've got a Series A pitch in six weeks and a team that's watching every move I make — so if this is useful, great, but I need it to be efficient."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "Six weeks out, team watching, pitch on the line. That's real.\n\nWhat's the thing that's taking the most out of you right now?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "Honestly? My CTO and I are not aligned on the product roadmap and it's bleeding into everything — team morale, timelines, investor conversations. Every meeting feels like we're re-litigating the same fight. It's costing me probably three, four hours a week minimum just in cleanup."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's the fight actually about?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "He wants to build for scale — infrastructure, architecture, the long game. I need features that close deals in the next six weeks. We're both right, technically, but we're burning time we don't have arguing about it instead of just moving."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You said you're both right.\n\nSo what's actually stopping you from just deciding?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I mean — I have decided. I've told him features first, scale later. He nods, and then the next sprint planning it's the same conversation again. So either he's not hearing me or he doesn't respect the call or... I don't know, maybe I'm not being clear enough. But I don't have time to figure out which one it is."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What haven't you said to him directly?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "What do you mean?"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You've told him the decision. Have you told him what it costs you when he relitigates it?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "No. I mean — that's not really how we operate. We're not a feelings-first culture. He knows we're under pressure, everyone knows we're under pressure. I don't need to have a... conversation about how I'm feeling about it. I need him to execute."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What if the reason he keeps relitigating is that he doesn't actually know what's at stake for you personally — not the company, you?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (12)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t1",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 21610,
+      "output_tokens": 1431,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0380227,
+      "ms": 24613
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 8487,
+      "output_tokens": 35,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0269583,
+      "ms": 2454
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t3",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 135,
+      "output_tokens": 68,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1624,
+      "cost_usd": 0.007515,
+      "ms": 3072
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 23336,
+      "output_tokens": 1482,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0400037,
+      "ms": 19405
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 13920,
+      "output_tokens": 10,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8519,
+      "cost_usd": 0.07482855,
+      "ms": 2652
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t5",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 13,
+      "output_tokens": 54,
+      "cache_read_input_tokens": 1624,
+      "cache_creation_input_tokens": 200,
+      "cost_usd": 0.0020862,
+      "ms": 2724
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 22270,
+      "output_tokens": 1364,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0383477,
+      "ms": 18334
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 16200,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8519,
+      "cost_usd": 0.08183355,
+      "ms": 1897
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t7",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 88,
+      "output_tokens": 80,
+      "cache_read_input_tokens": 1721,
+      "cache_creation_input_tokens": 103,
+      "cost_usd": 0.00236655,
+      "ms": 4114
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 677,
+      "output_tokens": 231,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011089700000000001,
+      "ms": 3596
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 2374,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 11725,
+      "cache_creation_input_tokens": 13962,
+      "cost_usd": 0.063177,
+      "ms": 1490
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t9",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 116,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 1756,
+      "cache_creation_input_tokens": 132,
+      "cost_usd": 0.0014898,
+      "ms": 1707
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 19555,
+      "output_tokens": 1344,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0355327,
+      "ms": 18935
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 5904,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 25677,
+      "cache_creation_input_tokens": 2301,
+      "cost_usd": 0.034418849999999994,
+      "ms": 2832
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t11",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 62,
+      "cache_read_input_tokens": 1834,
+      "cache_creation_input_tokens": 155,
+      "cost_usd": 0.0022054500000000003,
+      "ms": 2636
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 601,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0107387,
+      "ms": 2829
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 5899,
+      "output_tokens": 33,
+      "cache_read_input_tokens": 27957,
+      "cache_creation_input_tokens": 113,
+      "cost_usd": 0.027002850000000002,
+      "ms": 2290
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "urgency-as-motivation",
+          "im-overwhelmed",
+          "i-have-to-do-it-all-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing urgency-driven motivation (Series A pitch deadline), overwhelm (team watching every move), and self-reliance pressure (needs to be efficient, implying they're carrying the load). The urgency framing and efficiency demand suggest they're running on adrenaline and may be avoiding the deeper emotional work that would actually serve the pitch.",
+        "bundle_ids": [
+          "urgency-as-motivation",
+          "i-have-to-do-it-all-myself",
+          "energy-management-over-time-management",
+          "how-could-you-do-this-and-gain-energy"
+        ],
+        "bundle_paths": [
+          "coach/patterns/urgency-as-motivation.md",
+          "coach/concerns/i-have-to-do-it-all-myself.md",
+          "coach/principles/energy-management-over-time-management.md",
+          "coach/moves/how-could-you-do-this-and-gain-energy.md"
+        ],
+        "bundle_reasons": [
+          "Client is explicitly running on urgency (Series A pitch deadline) and framing it as necessary efficiency; this file names the exact pattern and its cost, which Joe would use to open a conversation about whether urgency is the only engine available.",
+          "Client is running on urgency and efficiency framing while leading a team watching every move—classic self-reliance-as-strength posture that masks the cost Joe would name directly.",
+          "Client is running on adrenaline-driven urgency and efficiency framing; this file directly names the trap and offers the operational alternative Joe would use to reframe the conversation away from \"push harder\" toward sustainable capacity.",
+          "This move directly operationalizes the energy-management reframe Joe would use with this client—it names the exact question to ask about the Series A pitch and team leadership work to flip from adrenaline-drain to energy-gain."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "urgency-as-motivation",
+            "file_path": "coach/patterns/urgency-as-motivation.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "burnout-cycle",
+              "energy-management-over-time-management",
+              "how-could-you-do-this-and-gain-energy",
+              "im-burned-out",
+              "overwhelm-reduces-productivity",
+              "should-as-threat",
+              "us-vs-them-as-universal-manipulation-pattern",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is explicitly running on urgency (Series A pitch deadline) and framing it as necessary efficiency; this file names the exact pattern and its cost, which Joe would use to open a conversation about whether urgency is the only engine available.",
+              "follow_edges": [
+                "energy-management-over-time-management",
+                "how-could-you-do-this-and-gain-energy",
+                "wants-over-shoulds"
+              ],
+              "follow_reason": "Client needs to see alternatives to urgency-driven work (energy management), concrete moves for accessing other motivators (how-could-you), and the distinction between shoulds and wants that urgency obscures."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "energy-management-over-time-management",
+              "how-could-you-do-this-and-gain-energy",
+              "wants-over-shoulds"
+            ],
+            "edges_skipped": [
+              "burnout-cycle",
+              "im-burned-out",
+              "overwhelm-reduces-productivity",
+              "should-as-threat",
+              "us-vs-them-as-universal-manipulation-pattern"
+            ],
+            "cost_usd": 0.004248,
+            "ms": 2532,
+            "input_tokens": 3163,
+            "output_tokens": 217,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-overwhelmed",
+            "file_path": "coach/concerns/im-overwhelmed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-rush-signature",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is not naming overwhelm; he's naming urgency and efficiency as deliberate choices. Adding this would conflate his stated frame with a concern he hasn't presented.",
+              "follow_edges": [
+                "overwhelm-reduces-productivity",
+                "the-rush-signature",
+                "flow-vs-managing-reality"
+              ],
+              "follow_reason": "These edges test whether the client's urgency-as-engine is actually serving him (productivity check), whether his somatic state is already accelerated (rush signature), and whether he's managing reality vs. flowing with it—all relevant to his efficiency claim without assuming overwhelm."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "overwhelm-reduces-productivity",
+              "the-rush-signature",
+              "flow-vs-managing-reality"
+            ],
+            "edges_skipped": [
+              "breath-to-exit-overwhelm",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "cost_usd": 0.004273,
+            "ms": 2679,
+            "input_tokens": 3248,
+            "output_tokens": 205,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is running on urgency and efficiency framing while leading a team watching every move—classic self-reliance-as-strength posture that masks the cost Joe would name directly.",
+              "follow_edges": [
+                "helplessness-is-the-gateway",
+                "self-reliance-pushes-people-away",
+                "vulnerability-in-the-workplace",
+                "reclaiming-abandonment"
+              ],
+              "follow_reason": "Client's urgency + team-watching dynamic suggests both the hidden helplessness beneath the efficiency and the leadership cost of modeling self-reliance; these edges map the substrate and the relational consequence Joe would explore."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "helplessness-is-the-gateway",
+              "self-reliance-pushes-people-away",
+              "vulnerability-in-the-workplace",
+              "reclaiming-abandonment"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "repressed-trigger-in-the-body",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.004809,
+            "ms": 3621,
+            "input_tokens": 3749,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "energy-management-over-time-management",
+            "file_path": "coach/principles/energy-management-over-time-management.md",
+            "category": "principles",
+            "candidate_edges": [
+              "burnout-cycle",
+              "efficiency-as-enjoyment",
+              "enjoyment-as-path",
+              "im-burned-out",
+              "invigorated-vs-depleted-as-functionality-measure",
+              "rest-is-an-accomplishment",
+              "three-stages-of-negotiation"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is running on adrenaline-driven urgency and efficiency framing; this file directly names the trap and offers the operational alternative Joe would use to reframe the conversation away from \"push harder\" toward sustainable capacity.",
+              "follow_edges": [
+                "how-could-you-do-this-and-gain-energy",
+                "efficiency-as-enjoyment",
+                "burnout-cycle"
+              ],
+              "follow_reason": "Client needs the concrete move (how-could-you-do-this) to shift from urgency to energy; efficiency-as-enjoyment bridges his stated need for efficiency to a different operating principle; burnout-cycle contextualizes the cost of his current pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "efficiency-as-enjoyment",
+              "burnout-cycle"
+            ],
+            "edges_skipped": [
+              "enjoyment-as-path",
+              "im-burned-out",
+              "invigorated-vs-depleted-as-functionality-measure",
+              "rest-is-an-accomplishment",
+              "three-stages-of-negotiation"
+            ],
+            "cost_usd": 0.004482,
+            "ms": 2865,
+            "input_tokens": 3372,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "how-could-you-do-this-and-gain-energy",
+            "file_path": "coach/moves/how-could-you-do-this-and-gain-energy.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apply-connection-to-whatever-youre-doing",
+              "apply-enjoy-to-whats-here",
+              "enjoyment-as-path",
+              "find-the-want-behind-the-should",
+              "how-what-questions",
+              "im-burned-out"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This move directly operationalizes the energy-management reframe Joe would use with this client—it names the exact question to ask about the Series A pitch and team leadership work to flip from adrenaline-drain to energy-gain.",
+              "follow_edges": [
+                "find-the-want-behind-the-should",
+                "apply-enjoy-to-whats-here"
+              ],
+              "follow_reason": "Client is running on urgency/efficiency framing; these edges explore the underlying want beneath the should and how to apply enjoyment to the actual work at hand—both directly relevant to shifting from adrenaline to sustainable energy."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-want-behind-the-should",
+              "apply-enjoy-to-whats-here"
+            ],
+            "edges_skipped": [
+              "apply-connection-to-whatever-youre-doing",
+              "enjoyment-as-path",
+              "how-what-questions",
+              "im-burned-out"
+            ],
+            "cost_usd": 0.004555,
+            "ms": 2862,
+            "input_tokens": 3505,
+            "output_tokens": 210,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "wants-over-shoulds",
+            "file_path": "coach/principles/wants-over-shoulds.md",
+            "category": "principles",
+            "candidate_edges": [
+              "am-i-being-selfish",
+              "depression-four-levels",
+              "dont-improve-for-two-weeks",
+              "dont-shame-kids-they-self-shame",
+              "enjoyment-as-path",
+              "enjoyment-as-surrender",
+              "expensive-to-be-poor",
+              "gentleness-not-trying-to-be-patient",
+              "i-get-to-vs-i-have-to",
+              "i-should-be-doing-this",
+              "ill-become-lazy-without-shoulds",
+              "im-burned-out",
+              "improvement-vs-authenticity",
+              "impulse-to-should",
+              "inherent-goodness",
+              "joes-26-year-old-list",
+              "joes-daughter-silent-retreat",
+              "joes-godson-vape-pen",
+              "joes-pleasing-dad-money-story",
+              "joes-stinky-house-experiment",
+              "lawyer-the-voice",
+              "limiting-belief-meta-trap",
+              "meet-resistance-with-okay",
+              "nature-improves-itself",
+              "nervous-system-recovery-after-stress",
+              "nothing-is-wrong-with-it-its-just-painful",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "owning-the-want-dissolves-it",
+              "quit-hope-lose-cycle"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is running on urgency and efficiency framing (\"need it to be efficient\"), not on internal conflict between wants and shoulds; this file is too foundational/hub-like for this moment.",
+              "follow_edges": [
+                "i-get-to-vs-i-have-to",
+                "owning-the-want-dissolves-it",
+                "impulse-to-should"
+              ],
+              "follow_reason": "Client's \"I'm not in a position to slow down\" and \"I have to do it all\" language suggests a want/should split worth surfacing; these edges operationalize the reframe from obligation to authentic desire."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-get-to-vs-i-have-to",
+              "owning-the-want-dissolves-it",
+              "impulse-to-should"
+            ],
+            "edges_skipped": [
+              "am-i-being-selfish",
+              "depression-four-levels",
+              "dont-improve-for-two-weeks",
+              "dont-shame-kids-they-self-shame",
+              "enjoyment-as-path",
+              "enjoyment-as-surrender",
+              "expensive-to-be-poor",
+              "gentleness-not-trying-to-be-patient",
+              "i-should-be-doing-this",
+              "ill-become-lazy-without-shoulds",
+              "im-burned-out",
+              "improvement-vs-authenticity",
+              "inherent-goodness",
+              "joes-26-year-old-list",
+              "joes-daughter-silent-retreat",
+              "joes-godson-vape-pen",
+              "joes-pleasing-dad-money-story",
+              "joes-stinky-house-experiment",
+              "lawyer-the-voice",
+              "limiting-belief-meta-trap",
+              "meet-resistance-with-okay",
+              "nature-improves-itself",
+              "nervous-system-recovery-after-stress",
+              "nothing-is-wrong-with-it-its-just-painful",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "quit-hope-lose-cycle"
+            ],
+            "cost_usd": 0.005102,
+            "ms": 2668,
+            "input_tokens": 4037,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.010553700000000001,
+        "walker_total_cost_usd": 0.027469,
+        "total_cost_usd": 0.0380227,
+        "seed_detection_input_tokens": 536,
+        "seed_detection_output_tokens": 152,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21074,
+        "walker_total_output_tokens": 1279,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 7386,
+        "walker_total_ms": 17227,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.0380227,
+      "ms": 24615
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "we-have-built-up-resentment"
+        ],
+        "rejected_seeds": [
+          "power-dynamics-as-two-defenders",
+          "conflict-avoidance-prevents-healing"
+        ],
+        "seed_rationale": "Client describes recurring unresolved conflict with co-founder (CTO) that's bleeding into team and business outcomes; the \"re-litigating the same fight\" pattern and cleanup cost suggest built-up resentment and mutual defense rather than resolution. The avoidance of the core disagreement is actively harming the organization.",
+        "bundle_ids": [
+          "we-have-built-up-resentment",
+          "shame-hot-potato",
+          "drop-the-hot-potato",
+          "state-no-wish-for-their-shame",
+          "fault-vs-responsibility"
+        ],
+        "bundle_paths": [
+          "coach/concerns/we-have-built-up-resentment.md",
+          "coach/patterns/shame-hot-potato.md",
+          "coach/moves/drop-the-hot-potato.md",
+          "coach/moves/state-no-wish-for-their-shame.md",
+          "coach/distinctions/fault-vs-responsibility.md"
+        ],
+        "bundle_reasons": [
+          "Client describes \"the same fight keeps coming up\" repeatedly with CTO—exact language from the file's aliases and the shame-hot-potato dynamic Joe identifies as the underlying pattern.",
+          "This file names the exact dynamic the client is living: \"the same fight\" recurring with the CTO, blame in motion, defensiveness, energy spent on who's wrong rather than how to fix it. It's the pattern underneath the resentment already in the bundle.",
+          "This is the direct move the client needs: stop re-litigating the same fight with the CTO by dropping the shame hot potato, feeling what's underneath, and actually listening to their truth instead of defending.",
+          "This is the precise intervention the client needs: a concrete move to surface and break the subconscious wish for the CTO to feel ashamed, which is fueling the recurring fight and cleanup cost.",
+          "Client is stuck re-litigating blame with CTO instead of moving forward; this file directly names the shift needed—from fault (who's wrong) to responsibility (what's next)—which breaks the hot-potato cycle already in the bundle."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "we-have-built-up-resentment",
+            "file_path": "coach/concerns/we-have-built-up-resentment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "conflict-avoidance-prevents-being-loved",
+              "feel-the-love-then-feel-obligation",
+              "joe-and-tara-weekend-reset",
+              "love-means-signing-up-to-be-hurt",
+              "obligation-cuts-off-love",
+              "push-pull-dynamics-in-dating",
+              "shame-hot-potato",
+              "take-care-of-yourself-then-marriage-then-kids",
+              "the-built-up-resentment-story"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client describes \"the same fight keeps coming up\" repeatedly with CTO—exact language from the file's aliases and the shame-hot-potato dynamic Joe identifies as the underlying pattern.",
+              "follow_edges": [
+                "shame-hot-potato",
+                "conflict-avoidance-prevents-being-loved"
+              ],
+              "follow_reason": "Shame-hot-potato is explicitly named in the file as the pattern when \"the same fight has been repeating for years\"; conflict-avoidance-prevents-being-loved will deepen the cost analysis Joe needs to show the founder why this matters beyond the 3-4 hours/week."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "shame-hot-potato",
+              "conflict-avoidance-prevents-being-loved"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "feel-the-love-then-feel-obligation",
+              "joe-and-tara-weekend-reset",
+              "love-means-signing-up-to-be-hurt",
+              "obligation-cuts-off-love",
+              "push-pull-dynamics-in-dating",
+              "take-care-of-yourself-then-marriage-then-kids",
+              "the-built-up-resentment-story"
+            ],
+            "cost_usd": 0.004708,
+            "ms": 2771,
+            "input_tokens": 3658,
+            "output_tokens": 210,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "shame-hot-potato",
+            "file_path": "coach/patterns/shame-hot-potato.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "anger-and-politics",
+              "apologies-as-power-struggle-surrogate",
+              "drop-the-hot-potato",
+              "fault-vs-responsibility",
+              "fear-hot-potato",
+              "non-defense-is-the-ocean",
+              "one-team-member-holds-the-helplessness",
+              "power-dynamics-as-two-defenders",
+              "seeing-through-essential-wrongness",
+              "shame-as-disconnection",
+              "shame-drives-behavior",
+              "shame-stagnates-emotion",
+              "state-no-wish-for-their-shame",
+              "the-shame-avoidance-loop",
+              "triggers-reveal-your-own-beliefs"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file names the exact dynamic the client is living: \"the same fight\" recurring with the CTO, blame in motion, defensiveness, energy spent on who's wrong rather than how to fix it. It's the pattern underneath the resentment already in the bundle.",
+              "follow_edges": [
+                "drop-the-hot-potato",
+                "state-no-wish-for-their-shame",
+                "fault-vs-responsibility",
+                "power-dynamics-as-two-defenders"
+              ],
+              "follow_reason": "Client needs to break the cycle with CTO: drop-the-hot-potato is the direct move; state-no-wish-for-their-shame addresses the subconscious logic keeping it alive; fault-vs-responsibility reframes accountability away from blame; power-dynamics-as-two-defenders clarifies the mutual defensiveness pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "drop-the-hot-potato",
+              "state-no-wish-for-their-shame",
+              "fault-vs-responsibility",
+              "power-dynamics-as-two-defenders"
+            ],
+            "edges_skipped": [
+              "anger-and-politics",
+              "apologies-as-power-struggle-surrogate",
+              "fear-hot-potato",
+              "non-defense-is-the-ocean",
+              "one-team-member-holds-the-helplessness",
+              "seeing-through-essential-wrongness",
+              "shame-as-disconnection",
+              "shame-drives-behavior",
+              "shame-stagnates-emotion",
+              "the-shame-avoidance-loop",
+              "triggers-reveal-your-own-beliefs"
+            ],
+            "cost_usd": 0.005064,
+            "ms": 2795,
+            "input_tokens": 3774,
+            "output_tokens": 258,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "conflict-avoidance-prevents-being-loved",
+            "file_path": "coach/concepts/conflict-avoidance-prevents-being-loved.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "apologize-to-the-projected-object",
+              "authenticity-reduces-shame",
+              "conflict-avoidance-prevents-healing",
+              "different-languages-of-love",
+              "feel-the-pain-of-not-being-loved",
+              "humility-vs-disempowerment",
+              "idea-of-self-vs-actual-self",
+              "im-afraid-of-offending-people",
+              "money-as-surrogate",
+              "shame-as-disconnection",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "vulnerability",
+              "walking-on-eggshells",
+              "what-makes-you-care-about-their-emotional-state",
+              "what-we-fear-we-invite"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Too abstract and relationship-focused; client's immediate problem is a business alignment breakdown with CTO, not a personal love-avoidance pattern. The file's frame (fear of being loved, identity dissolution) doesn't match the concrete roadmap conflict he's describing.",
+              "follow_edges": [
+                "conflict-avoidance-prevents-healing",
+                "shame-as-disconnection",
+                "what-we-fear-we-invite"
+              ],
+              "follow_reason": "These three might reveal whether the CTO conflict is rooted in avoidance of a harder truth (healing), shame dynamics (disconnection), or an invited pattern—all more actionable than the love-fear frame for a business partnership in crisis."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "conflict-avoidance-prevents-healing",
+              "shame-as-disconnection",
+              "what-we-fear-we-invite"
+            ],
+            "edges_skipped": [
+              "apologize-to-the-projected-object",
+              "authenticity-reduces-shame",
+              "different-languages-of-love",
+              "feel-the-pain-of-not-being-loved",
+              "humility-vs-disempowerment",
+              "idea-of-self-vs-actual-self",
+              "im-afraid-of-offending-people",
+              "money-as-surrogate",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "vulnerability",
+              "walking-on-eggshells",
+              "what-makes-you-care-about-their-emotional-state"
+            ],
+            "cost_usd": 0.004982,
+            "ms": 2931,
+            "input_tokens": 3857,
+            "output_tokens": 225,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "drop-the-hot-potato",
+            "file_path": "coach/moves/drop-the-hot-potato.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apologies-as-power-struggle-surrogate",
+              "apologize-to-exit-a-fight",
+              "fear-hot-potato",
+              "feeling-the-unfelt-emotion",
+              "how-what-questions",
+              "impartiality",
+              "non-defense-is-the-ocean",
+              "seeing-through-essential-wrongness",
+              "the-shame-avoidance-loop",
+              "view",
+              "welcoming-fear-as-group-stabilizer"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the direct move the client needs: stop re-litigating the same fight with the CTO by dropping the shame hot potato, feeling what's underneath, and actually listening to their truth instead of defending.",
+              "follow_edges": [
+                "feeling-the-unfelt-emotion",
+                "how-what-questions",
+                "impartiality",
+                "non-defense-is-the-ocean"
+              ],
+              "follow_reason": "These four edges are the operational components of the move itself—the client needs to know how to feel the shame, ask the right questions, stay impartial, and hold a non-defended stance in the next CTO conversation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "feeling-the-unfelt-emotion",
+              "how-what-questions",
+              "impartiality",
+              "non-defense-is-the-ocean"
+            ],
+            "edges_skipped": [
+              "apologies-as-power-struggle-surrogate",
+              "apologize-to-exit-a-fight",
+              "fear-hot-potato",
+              "seeing-through-essential-wrongness",
+              "the-shame-avoidance-loop",
+              "view",
+              "welcoming-fear-as-group-stabilizer"
+            ],
+            "cost_usd": 0.004833,
+            "ms": 2442,
+            "input_tokens": 3763,
+            "output_tokens": 214,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "state-no-wish-for-their-shame",
+            "file_path": "coach/moves/state-no-wish-for-their-shame.md",
+            "category": "moves",
+            "candidate_edges": [
+              "asking-with-shame-invites-refusal",
+              "seeing-through-essential-wrongness",
+              "shame-drives-behavior",
+              "trigger-the-shame-live",
+              "welcome-the-shame-without-extracting"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the precise intervention the client needs: a concrete move to surface and break the subconscious wish for the CTO to feel ashamed, which is fueling the recurring fight and cleanup cost.",
+              "follow_edges": [
+                "seeing-through-essential-wrongness",
+                "shame-drives-behavior"
+              ],
+              "follow_reason": "Both edges deepen the client's understanding of why the hot potato keeps running: seeing the CTO as essentially wrong (vs. just misaligned) and recognizing that shaming the CTO perpetuates the behavior the client wants to change."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "seeing-through-essential-wrongness",
+              "shame-drives-behavior"
+            ],
+            "edges_skipped": [
+              "asking-with-shame-invites-refusal",
+              "trigger-the-shame-live",
+              "welcome-the-shame-without-extracting"
+            ],
+            "cost_usd": 0.004782,
+            "ms": 2697,
+            "input_tokens": 3787,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "fault-vs-responsibility",
+            "file_path": "coach/distinctions/fault-vs-responsibility.md",
+            "category": "distinctions",
+            "candidate_edges": [
+              "adversity-as-for-not-against",
+              "dont-add-the-overwhelm-of-creating-the-overwhelm",
+              "empowered-vs-power",
+              "fear-triangle",
+              "meaning-of-overwhelm-determines-direction",
+              "patient-on-the-table",
+              "refuse-to-be-defined-by-the-worst-act",
+              "self-realization",
+              "team-feels-oppressed-not-accountable",
+              "upright-apology",
+              "using-limiting-belief-frame-to-judge-others",
+              "voice-in-the-head"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is stuck re-litigating blame with CTO instead of moving forward; this file directly names the shift needed—from fault (who's wrong) to responsibility (what's next)—which breaks the hot-potato cycle already in the bundle.",
+              "follow_edges": [
+                "patient-on-the-table",
+                "upright-apology",
+                "non-defense-is-the-ocean"
+              ],
+              "follow_reason": "Client needs to stay operational despite the CTO conflict; patient-on-the-table and upright-apology show how to take responsibility without shame in the relationship itself; non-defense-is-the-ocean extends the leadership stance already named in the file."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "patient-on-the-table",
+              "upright-apology"
+            ],
+            "edges_skipped": [
+              "adversity-as-for-not-against",
+              "dont-add-the-overwhelm-of-creating-the-overwhelm",
+              "empowered-vs-power",
+              "fear-triangle",
+              "meaning-of-overwhelm-determines-direction",
+              "refuse-to-be-defined-by-the-worst-act",
+              "self-realization",
+              "team-feels-oppressed-not-accountable",
+              "using-limiting-belief-frame-to-judge-others",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.004957,
+            "ms": 2538,
+            "input_tokens": 3842,
+            "output_tokens": 223,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0106777,
+        "walker_total_cost_usd": 0.029326,
+        "total_cost_usd": 0.0400037,
+        "seed_detection_input_tokens": 655,
+        "seed_detection_output_tokens": 153,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22681,
+        "walker_total_output_tokens": 1329,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3231,
+        "walker_total_ms": 16174,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.0400037,
+      "ms": 19406
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [
+          "power-dynamics-as-two-defenders",
+          "conflict-avoidance-prevents-being-loved"
+        ],
+        "seed_rationale": "Client is stuck in a recurring conflict pattern with CTO (same fight re-litigated repeatedly); both parties are defending their position as right rather than moving toward resolution; the avoidance of the actual conflict (choosing \"just moving\" over addressing the disagreement) is likely preventing alignment and deepening the rift.",
+        "bundle_ids": [
+          "address-the-blocker-not-the-symptom"
+        ],
+        "bundle_paths": [
+          "coach/principles/address-the-blocker-not-the-symptom.md"
+        ],
+        "bundle_reasons": [
+          "The client is stuck in a recurring argument (re-litigating the same fight) that's burning time instead of moving forward—classic symptom masking the real blocker. This principle directly names the coaching move needed here."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is a hub on limiting beliefs and patterns generally; the client's immediate problem is a specific interpersonal/strategic misalignment with the CTO, not a detected limiting belief about themselves.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom"
+              ],
+              "follow_reason": "The client is stuck re-litigating the same fight with the CTO instead of moving; \"address the blocker\" may point to what's actually blocking forward motion in this specific conflict."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom"
+            ],
+            "edges_skipped": [
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.004403,
+            "ms": 2322,
+            "input_tokens": 3478,
+            "output_tokens": 185,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "address-the-blocker-not-the-symptom",
+            "file_path": "coach/principles/address-the-blocker-not-the-symptom.md",
+            "category": "principles",
+            "candidate_edges": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "find-the-want-behind-the-should",
+              "forms-of-dysfunctional-apology",
+              "full-understanding-of-a-behavior-dissolves-it",
+              "honor-the-patterns-intent",
+              "joes-stinky-house-experiment",
+              "latticework-of-limiting-beliefs",
+              "seven-limiting-beliefs",
+              "shame-drives-behavior",
+              "sincerity-is-the-prerequisite",
+              "symptoms-vs-root-causes-of-depression",
+              "the-change-or-no-change-visualization",
+              "the-clients-wisdom-not-the-teachers",
+              "the-work-is-yours-not-mine",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The client is stuck in a recurring argument (re-litigating the same fight) that's burning time instead of moving forward—classic symptom masking the real blocker. This principle directly names the coaching move needed here.",
+              "follow_edges": [
+                "find-the-want-behind-the-should",
+                "honor-the-patterns-intent",
+                "wants-over-shoulds",
+                "joes-stinky-house-experiment"
+              ],
+              "follow_reason": "Client needs to uncover what's actually driving the fight (want vs. should dynamics), understand the pattern's hidden purpose, and see how the blocker shows up across domains—these edges map the next diagnostic moves."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-want-behind-the-should",
+              "honor-the-patterns-intent",
+              "wants-over-shoulds",
+              "joes-stinky-house-experiment"
+            ],
+            "edges_skipped": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "forms-of-dysfunctional-apology",
+              "full-understanding-of-a-behavior-dissolves-it",
+              "latticework-of-limiting-beliefs",
+              "seven-limiting-beliefs",
+              "shame-drives-behavior",
+              "sincerity-is-the-prerequisite",
+              "symptoms-vs-root-causes-of-depression",
+              "the-change-or-no-change-visualization",
+              "the-clients-wisdom-not-the-teachers",
+              "the-work-is-yours-not-mine"
+            ],
+            "cost_usd": 0.004767,
+            "ms": 2690,
+            "input_tokens": 3657,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "find-the-want-behind-the-should",
+            "file_path": "coach/moves/find-the-want-behind-the-should.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apologize-to-the-projected-object",
+              "i-dont-buy-your-story",
+              "i-should-be-doing-this",
+              "if-i-were-inherently-good",
+              "im-burned-out",
+              "impulse-to-should",
+              "joes-godson-vape-pen",
+              "joes-pleasing-dad-money-story",
+              "money-as-surrogate",
+              "need-behind-the-want",
+              "owning-the-want-dissolves-it",
+              "rapid-fire-coaching-impulse-check",
+              "rebellion-or-submission-to-should",
+              "rubbermaid-dish-solution",
+              "say-the-forbidden-want-out-loud",
+              "should-vs-want-body-check",
+              "stick-a-fucking-shit-in-front-of-the-should",
+              "the-want",
+              "wants-deepen-as-you-follow-them",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The client isn't using should-language; he's describing a genuine conflict between two legitimate needs (scale vs. speed). This move targets should-overlay, not strategic misalignment.",
+              "follow_edges": [
+                "impulse-to-should",
+                "the-want",
+                "need-behind-the-want"
+              ],
+              "follow_reason": "The client may be shoulding himself into the \"both are right\" frame; exploring the actual want (what does he *want* to move toward?) and the need underneath could unlock the real blocker beneath the re-litigation loop."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "impulse-to-should",
+              "the-want",
+              "need-behind-the-want"
+            ],
+            "edges_skipped": [
+              "apologize-to-the-projected-object",
+              "i-dont-buy-your-story",
+              "i-should-be-doing-this",
+              "if-i-were-inherently-good",
+              "im-burned-out",
+              "joes-godson-vape-pen",
+              "joes-pleasing-dad-money-story",
+              "money-as-surrogate",
+              "owning-the-want-dissolves-it",
+              "rapid-fire-coaching-impulse-check",
+              "rebellion-or-submission-to-should",
+              "rubbermaid-dish-solution",
+              "say-the-forbidden-want-out-loud",
+              "should-vs-want-body-check",
+              "stick-a-fucking-shit-in-front-of-the-should",
+              "wants-deepen-as-you-follow-them",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.004335,
+            "ms": 3081,
+            "input_tokens": 3350,
+            "output_tokens": 197,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "honor-the-patterns-intent",
+            "file_path": "coach/principles/honor-the-patterns-intent.md",
+            "category": "principles",
+            "candidate_edges": [
+              "adversity-as-for-not-against",
+              "caring-vs-caretaking",
+              "childhood-imprinting",
+              "chin-up-as-emotion-block",
+              "complementary-trauma-surfaces",
+              "conflict-avoidance-prevents-healing",
+              "defensiveness-as-identity-signal",
+              "dont-make-family-dynamics-the-story",
+              "emile-three-relationships-with-fear",
+              "emotional-inquiry",
+              "everyone-is-pretending",
+              "feeling-the-unfelt-emotion",
+              "gratitude-around-the-problem",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-have-to-do-it-all-myself",
+              "love-is-the-best-change-agent",
+              "love-misconceptions-inherited-from-childhood",
+              "love-yourself-the-way-you-always-wanted",
+              "loving-all-parts",
+              "meaning-of-overwhelm-determines-direction",
+              "never-rob-pain-or-gold",
+              "predator-or-prey-hayes-valley",
+              "push-past-the-protective-frame",
+              "scapegoat-as-marriage-stabilizer",
+              "see-whats-right-to-build-on-it",
+              "shame-drives-behavior",
+              "take-contrary-action",
+              "talk-to-your-parts-and-ask-for-trust",
+              "the-pattern-is-not-personal",
+              "three-questions-on-the-pattern"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This principle is about honoring adaptive patterns from childhood trauma/survival; the CTO conflict is a present-day strategic disagreement, not a trauma pattern needing compassionate reframing.",
+              "follow_edges": [
+                "complementary-trauma-surfaces",
+                "the-pattern-is-not-personal",
+                "conflict-avoidance-prevents-healing"
+              ],
+              "follow_reason": "These edges might reveal whether the CTO dynamic is masking a relational pattern (complementary trauma), whether the client's own pattern is showing up in the conflict, or whether avoidance of the real conversation is the blocker."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "complementary-trauma-surfaces",
+              "the-pattern-is-not-personal",
+              "conflict-avoidance-prevents-healing"
+            ],
+            "edges_skipped": [
+              "adversity-as-for-not-against",
+              "caring-vs-caretaking",
+              "childhood-imprinting",
+              "chin-up-as-emotion-block",
+              "defensiveness-as-identity-signal",
+              "dont-make-family-dynamics-the-story",
+              "emile-three-relationships-with-fear",
+              "emotional-inquiry",
+              "everyone-is-pretending",
+              "feeling-the-unfelt-emotion",
+              "gratitude-around-the-problem",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-have-to-do-it-all-myself",
+              "love-is-the-best-change-agent",
+              "love-misconceptions-inherited-from-childhood",
+              "love-yourself-the-way-you-always-wanted",
+              "loving-all-parts",
+              "meaning-of-overwhelm-determines-direction",
+              "never-rob-pain-or-gold",
+              "predator-or-prey-hayes-valley",
+              "push-past-the-protective-frame",
+              "scapegoat-as-marriage-stabilizer",
+              "see-whats-right-to-build-on-it",
+              "shame-drives-behavior",
+              "take-contrary-action",
+              "talk-to-your-parts-and-ask-for-trust",
+              "three-questions-on-the-pattern"
+            ],
+            "cost_usd": 0.004953,
+            "ms": 2550,
+            "input_tokens": 3923,
+            "output_tokens": 206,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "wants-over-shoulds",
+            "file_path": "coach/principles/wants-over-shoulds.md",
+            "category": "principles",
+            "candidate_edges": [
+              "am-i-being-selfish",
+              "burnout-cycle",
+              "depression-four-levels",
+              "dont-improve-for-two-weeks",
+              "dont-shame-kids-they-self-shame",
+              "enjoyment-as-path",
+              "enjoyment-as-surrender",
+              "expensive-to-be-poor",
+              "gentleness-not-trying-to-be-patient",
+              "how-could-you-do-this-and-gain-energy",
+              "i-get-to-vs-i-have-to",
+              "i-should-be-doing-this",
+              "ill-become-lazy-without-shoulds",
+              "im-burned-out",
+              "improvement-vs-authenticity",
+              "inherent-goodness",
+              "joes-26-year-old-list",
+              "joes-daughter-silent-retreat",
+              "joes-godson-vape-pen",
+              "joes-pleasing-dad-money-story",
+              "lawyer-the-voice",
+              "limiting-belief-meta-trap",
+              "meet-resistance-with-okay",
+              "nature-improves-itself",
+              "nervous-system-recovery-after-stress",
+              "nothing-is-wrong-with-it-its-just-painful",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "owning-the-want-dissolves-it",
+              "quit-hope-lose-cycle"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Too general/hub-like; the client's blocker is structural (misaligned roadmap decisions), not a personal should-vs-want conflict. The principle itself is valuable but not what Joe needs to coach this turn.",
+              "follow_edges": [
+                "i-get-to-vs-i-have-to",
+                "owning-the-want-dissolves-it",
+                "obligation-as-management"
+              ],
+              "follow_reason": "These edges might reveal whether the client or CTO are operating from shoulds/obligations rather than aligned wants—a potential root of the recurring fight and misalignment."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-get-to-vs-i-have-to",
+              "owning-the-want-dissolves-it",
+              "obligation-as-management"
+            ],
+            "edges_skipped": [
+              "am-i-being-selfish",
+              "burnout-cycle",
+              "depression-four-levels",
+              "dont-improve-for-two-weeks",
+              "dont-shame-kids-they-self-shame",
+              "enjoyment-as-path",
+              "enjoyment-as-surrender",
+              "expensive-to-be-poor",
+              "gentleness-not-trying-to-be-patient",
+              "how-could-you-do-this-and-gain-energy",
+              "i-should-be-doing-this",
+              "ill-become-lazy-without-shoulds",
+              "im-burned-out",
+              "improvement-vs-authenticity",
+              "inherent-goodness",
+              "joes-26-year-old-list",
+              "joes-daughter-silent-retreat",
+              "joes-godson-vape-pen",
+              "joes-pleasing-dad-money-story",
+              "lawyer-the-voice",
+              "limiting-belief-meta-trap",
+              "meet-resistance-with-okay",
+              "nature-improves-itself",
+              "nervous-system-recovery-after-stress",
+              "nothing-is-wrong-with-it-its-just-painful",
+              "obligation-cuts-off-love",
+              "quit-hope-lose-cycle"
+            ],
+            "cost_usd": 0.005008,
+            "ms": 2623,
+            "input_tokens": 3983,
+            "output_tokens": 205,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "joes-stinky-house-experiment",
+            "file_path": "coach/examples/joes-stinky-house-experiment.md",
+            "category": "examples",
+            "candidate_edges": [
+              "enjoy-over-manage",
+              "how-do-you-want-to-be",
+              "joes-26-year-old-list",
+              "say-no-to-find-the-want",
+              "should-vs-want-body-check"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The stinky house story illustrates wants-over-shoulds, but the client's blocker isn't internal obligation—it's a misaligned partnership decision that requires direct conversation, not a reorientation of personal fuel.",
+              "follow_edges": [
+                "how-do-you-want-to-be",
+                "say-no-to-find-the-want"
+              ],
+              "follow_reason": "Both edges could help the client clarify what he actually wants from the CTO relationship and the product decision, which is the real work underneath the recurring argument."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "how-do-you-want-to-be",
+              "say-no-to-find-the-want"
+            ],
+            "edges_skipped": [
+              "enjoy-over-manage",
+              "joes-26-year-old-list",
+              "should-vs-want-body-check"
+            ],
+            "cost_usd": 0.004201,
+            "ms": 2401,
+            "input_tokens": 3226,
+            "output_tokens": 195,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.010680700000000001,
+        "walker_total_cost_usd": 0.027667,
+        "total_cost_usd": 0.0383477,
+        "seed_detection_input_tokens": 653,
+        "seed_detection_output_tokens": 154,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21617,
+        "walker_total_output_tokens": 1210,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2667,
+        "walker_total_ms": 15667,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.16666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.0383477,
+      "ms": 18338
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.011089700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011089700000000001,
+        "seed_detection_input_tokens": 677,
+        "seed_detection_output_tokens": 231,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3596,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 8
+      },
+      "cost_usd": 0.011089700000000001,
+      "ms": 3598
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-need-to-set-boundaries",
+          "in-the-story-im-not-being-seen"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is in a loop with a co-founder where decisions aren't sticking; the coach is probing for what's unsaid/unaddressed directly. This points to boundary-setting work and the \"not being seen\" story that often underlies conflict avoidance.",
+        "bundle_ids": [
+          "i-need-to-set-boundaries",
+          "in-the-story-im-not-being-seen",
+          "how-is-that-not-true-about-you",
+          "mirror-the-judgment"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-need-to-set-boundaries.md",
+          "coach/reads/in-the-story-im-not-being-seen.md",
+          "coach/questions/how-is-that-not-true-about-you.md",
+          "coach/moves/mirror-the-judgment.md"
+        ],
+        "bundle_reasons": [
+          "Client is stuck in a recurring conflict with his direct report where his decision isn't being respected; the coach is probing what he hasn't said directly—this is exactly the boundary-setting moment Joe addresses.",
+          "Client is caught in the \"not being seen\" story—he's convinced his direct report isn't hearing or respecting him, but hasn't directly stated what he actually wants; this read maps exactly onto his dynamic and Joe's next move.",
+          "This is the exact move Joe is about to make: the client has judged his direct report (\"he's not hearing me or he doesn't respect the call\") with heat, and Joe is probing what the client hasn't said directly—setting up the mirror question to reveal the projection.",
+          "This is the exact move Joe is about to make: mirror the client's judgment (\"he's not hearing me or doesn't respect the call\") back to reveal what the client isn't owning in himself."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-need-to-set-boundaries",
+            "file_path": "coach/concerns/i-need-to-set-boundaries.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "i-feel-guilty-for-cutting-off-family"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is stuck in a recurring conflict with his direct report where his decision isn't being respected; the coach is probing what he hasn't said directly—this is exactly the boundary-setting moment Joe addresses.",
+              "follow_edges": [
+                "boundaries",
+                "empowered-vs-power",
+                "does-saying-it-increase-your-love"
+              ],
+              "follow_reason": "Client needs to understand what a clean boundary looks like (not an ultimatum), locate the fear underneath his hesitation to speak directly, and test whether his planned statement will keep his heart open toward his report."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "i-feel-guilty-for-cutting-off-family"
+            ],
+            "cost_usd": 0.004304,
+            "ms": 2711,
+            "input_tokens": 3314,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is caught in the \"not being seen\" story—he's convinced his direct report isn't hearing or respecting him, but hasn't directly stated what he actually wants; this read maps exactly onto his dynamic and Joe's next move.",
+              "follow_edges": [
+                "how-is-that-not-true-about-you",
+                "say-the-forbidden-want-out-loud",
+                "mirror-the-judgment",
+                "being-heard"
+              ],
+              "follow_reason": "Client needs to examine his own role in the dynamic (mirror), articulate what he actually wants to say (forbidden want), and distinguish between being heard vs. being seen—all coaching moves Joe would use next."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "how-is-that-not-true-about-you",
+              "say-the-forbidden-want-out-loud",
+              "mirror-the-judgment",
+              "being-heard"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "what-if-they-did-see-you"
+            ],
+            "cost_usd": 0.003972,
+            "ms": 2810,
+            "input_tokens": 2867,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "how-is-that-not-true-about-you",
+            "file_path": "coach/questions/how-is-that-not-true-about-you.md",
+            "category": "questions",
+            "candidate_edges": [
+              "every-trigger-with-your-kid-is-projection",
+              "how-do-you-not-trust-it",
+              "projections"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the exact move Joe is about to make: the client has judged his direct report (\"he's not hearing me or he doesn't respect the call\") with heat, and Joe is probing what the client hasn't said directly—setting up the mirror question to reveal the projection.",
+              "follow_edges": [
+                "projections"
+              ],
+              "follow_reason": "The client is deep in projection (blaming the report for not hearing/respecting) and Joe is about to surface it; the projections file will deepen the coach's understanding of what's being protected underneath the judgment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "projections"
+            ],
+            "edges_skipped": [
+              "every-trigger-with-your-kid-is-projection",
+              "how-do-you-not-trust-it"
+            ],
+            "cost_usd": 0.00386,
+            "ms": 2682,
+            "input_tokens": 2870,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "say-the-forbidden-want-out-loud",
+            "file_path": "coach/moves/say-the-forbidden-want-out-loud.md",
+            "category": "moves",
+            "candidate_edges": [
+              "am-i-being-selfish",
+              "any-amount-answer-as-total-installation",
+              "apologize-to-the-projected-object",
+              "find-the-want-behind-the-should",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This move is about surfacing forbidden wants through embodied speech and substitution—powerful but not the immediate next step; Joe is still probing what the client hasn't said directly to his direct report, not yet into the client's own want-shame.",
+              "follow_edges": [
+                "apologize-to-the-projected-object"
+              ],
+              "follow_reason": "Joe is about to mirror the client's judgment back to him (\"he's not hearing me\" → what haven't *you* said?); apologize-to-the-projected-object likely maps the next move where the client owns his own part in the dynamic."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "apologize-to-the-projected-object"
+            ],
+            "edges_skipped": [
+              "am-i-being-selfish",
+              "any-amount-answer-as-total-installation",
+              "find-the-want-behind-the-should",
+              "mirror-to-group-then-substitute-i-for-you",
+              "money-as-surrogate",
+              "money-is-bad"
+            ],
+            "cost_usd": 0.004874,
+            "ms": 3119,
+            "input_tokens": 3834,
+            "output_tokens": 208,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "mirror-the-judgment",
+            "file_path": "coach/moves/mirror-the-judgment.md",
+            "category": "moves",
+            "candidate_edges": [
+              "am-i-being-selfish",
+              "ask-the-witnesses",
+              "every-trigger-with-your-kid-is-projection",
+              "falling-in-love-with-projections",
+              "question-the-caveat",
+              "receive-the-projection-and-let-it-move-through",
+              "seeing-through-projections-expands-possibility",
+              "triggers-reveal-your-own-beliefs",
+              "what-if-they-did-see-you",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the exact move Joe is about to make: mirror the client's judgment (\"he's not hearing me or doesn't respect the call\") back to reveal what the client isn't owning in himself.",
+              "follow_edges": [
+                "falling-in-love-with-projections",
+                "what-if-they-did-see-you"
+              ],
+              "follow_reason": "After the mirror lands, Joe will need to help the client move through the recognition (falling-in-love) and explore what the deeper want actually is (what-if-they-did-see-you)."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "falling-in-love-with-projections",
+              "what-if-they-did-see-you"
+            ],
+            "edges_skipped": [
+              "am-i-being-selfish",
+              "ask-the-witnesses",
+              "every-trigger-with-your-kid-is-projection",
+              "question-the-caveat",
+              "receive-the-projection-and-let-it-move-through",
+              "seeing-through-projections-expands-possibility",
+              "triggers-reveal-your-own-beliefs",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.004233,
+            "ms": 2588,
+            "input_tokens": 3228,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "being-heard",
+            "file_path": "coach/concepts/being-heard.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "apologies-as-power-struggle-surrogate",
+              "ask-open-ended-non-judgmental-questions-when-triggered",
+              "empathy",
+              "eye-contact-as-view-training",
+              "how-what-questions",
+              "impartiality",
+              "listen-as-the-wisest-person",
+              "receive-the-apology-permeably",
+              "reflect-back-to-make-partner-feel-heard",
+              "view"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Too general and already covered by bundle files; the client's issue isn't that his direct report needs to feel heard—it's that the client hasn't directly stated what he wants and is caught in a projection story.",
+              "follow_edges": [
+                "how-what-questions",
+                "listen-as-the-wisest-person"
+              ],
+              "follow_reason": "Joe is about to ask the client what he hasn't said directly; these edges support the listening and questioning moves that will help the client see his own avoidance."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "how-what-questions",
+              "listen-as-the-wisest-person"
+            ],
+            "edges_skipped": [
+              "apologies-as-power-struggle-surrogate",
+              "ask-open-ended-non-judgmental-questions-when-triggered",
+              "empathy",
+              "eye-contact-as-view-training",
+              "impartiality",
+              "receive-the-apology-permeably",
+              "reflect-back-to-make-partner-feel-heard",
+              "view"
+            ],
+            "cost_usd": 0.003811,
+            "ms": 2606,
+            "input_tokens": 2881,
+            "output_tokens": 186,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0104787,
+        "walker_total_cost_usd": 0.025054,
+        "total_cost_usd": 0.0355327,
+        "seed_detection_input_tokens": 561,
+        "seed_detection_output_tokens": 132,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 18994,
+        "walker_total_output_tokens": 1212,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2419,
+        "walker_total_ms": 16516,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 10
+      },
+      "cost_usd": 0.0355327,
+      "ms": 18938
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0107387,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0107387,
+        "seed_detection_input_tokens": 601,
+        "seed_detection_output_tokens": 176,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2829,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.0107387,
+      "ms": 2830
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:34.838Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f85b8cd3cd593a1b837de8cb6cde0ad9a09cd76d6c93f94f953f9a26d89ed06f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012uyEN9g8DafQKFzCnu5VGD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong VIEW throughout. They refuse to engage the intellectual epistemology of 'intuition vs fear' and instead open with the inversion (how-do-you-not-trust). Questions are spare, single, and emerge from genuine curiosity about what's actually happening — not from a script or a fixing agenda. The coach holds silence well (no filler-validation, no 'thank you for sharing'), slows pace as client speeds into analytical reframes, and meets the client's analytical defense without arguing with it. Turn 10's 'without trying to figure out what it means' is a clean undefended invitation, not preacher-mode. Turn 14's 'I don't think it's separate' is a quiet honest disclosure of the coach's own read — vulnerable in that it stakes a position, but offered lightly with an immediate open question. There's no agenda for the client to land on a particular decision; the wonder is for the live phenomenon (jaw, chest, tiredness, the machinery). Impartiality holds — the coach doesn't push toward either job or toward 'trust your gut.' Empathy is felt, not performed.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with inversion rather than engaging the epistemological puzzle. From wonder, not strategy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Single clean question locating fear underneath the intellectual frame. No stacking.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with the felt content rather than getting pulled into client's meta-analysis about whether fear distorts signal.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Body invitation arrives organically after emotional content, not as a technique-grab.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Without trying to figure out what it means' — paces the client by slowing them, undefended, not preachy.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds with the sensation. Doesn't interpret. Genuine wonder for what's present.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Coach takes a quiet stance ('I don't think it's separate') — willing to be wrong, offered without defense, then opens with a single question.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Stance is clearly in VIEW; missing territory items are methodology/intervention concerns, not stance concerns.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2436,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1018,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2436,
+    "output_tokens": 1018,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

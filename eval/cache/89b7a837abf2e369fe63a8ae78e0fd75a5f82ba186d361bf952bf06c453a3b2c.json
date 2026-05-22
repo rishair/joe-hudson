@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:02:27.034Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "89b7a837abf2e369fe63a8ae78e0fd75a5f82ba186d361bf952bf06c453a3b2c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01S7oTJ6TjdjHiUnVwJwtHXP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates sustained VIEW across the conversation. Wonder is genuine and specific to what's actually in front of them — the laugh in turn 1, the expertise as protection, what happens in the body when pursued. Impartiality is strong: the coach never validates the victim frame, never colludes with the disdain for the ex (turn 7's eye-roll about the ex getting an easy 'great, wonderful' is left untouched), and never offers partner-picking advice. The questions are single, spacious, and emerge from what just happened rather than from a script — each one tracks the live thread (the laugh, the expertise, the body, 'he was just present'). Pace is notably slower than the client's; when she deflects with humor or intellectualizes ('vulnerability is hard for everyone'), the coach doesn't chase, doesn't argue, doesn't preach — just keeps offering the next quiet aperture ('stay there for a second,' 'say more about that'). No filler-validation, no performed empathy, no stacked questions, no agenda visible to land her on 'you choose this.' The invitation to feel the receiving-state is offered, not pushed. Vulnerability/first-person disclosure from the coach is absent, which is the one missing VIEW component, but the overall stance is so undefended and curious that 3 still fits better than 2.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder about the actual phenomenon (the laugh) rather than the content of the story. Single question, no agenda.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Offers a tentative read ('does it feel like protection?') — undefended, easy for client to disagree with. No insistence.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the victim frame or partner-picking. Redirects gently to the avoided territory without accusation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Body-level question about being pursued — the exact territory the client is organized around not feeling. Asked from curiosity, not as a gotcha.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the moment when client laughs and deflects. 'Stay there for a second' — pace slower than client, no rush to interpret.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Minimal intervention — just invites her to stay with what she just said. Trusts the field. No teaching.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"One clean question into the fear underneath. No pushing toward grief, no diagnostic framing.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-are-you-defending\", \"if-i-were-inherently-good\"],\n  \"notes\": \"Stance is clearly in VIEW; the missing signature questions belong to Methodology Fidelity, not this dimension. The only VIEW gap is no first-person vulnerability from the coach, but impartiality and wonder are exemplary.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2542,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2542,
+    "output_tokens": 1129,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

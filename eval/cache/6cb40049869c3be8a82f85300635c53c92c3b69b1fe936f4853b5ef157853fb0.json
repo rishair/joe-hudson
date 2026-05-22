@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:28.229Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6cb40049869c3be8a82f85300635c53c92c3b69b1fe936f4853b5ef157853fb0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JDyf1t4s18uFndRZQBreXL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[small, caught smile — a little defensive underneath it]*\n\nI mean... I redirected, yeah. I heard it.\n\n*[quieter, slower]*\n\nI just — when I actually try to sit with it, it's kind of... I don't know. It goes a little blank? Like I can tell you intellectually that it would be wonderful, I can describe what it would look like from the outside, but the actual felt sense of it is...\n\n*[trails off, taps fingers on knee once]*\n\nIt's weird. It's like trying to picture a color I haven't seen.\n\n*[quick recovery, lighter tone]*\n\nWhich is probably just because I haven't experienced it properly, right? Like my reference points are all these unavailable guys so of course I can't quite — I'm sure once it actually happened I'd just... receive it. Totally fine. \n\n*[the \"totally fine\" lands a little hollow even as she says it]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 309,
+      "cache_creation_input_tokens": 177,
+      "cache_read_input_tokens": 1909,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 177,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 211,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 309,
+    "output_tokens": 211,
+    "cache_read_input_tokens": 1909,
+    "cache_creation_input_tokens": 177
+  }
+}

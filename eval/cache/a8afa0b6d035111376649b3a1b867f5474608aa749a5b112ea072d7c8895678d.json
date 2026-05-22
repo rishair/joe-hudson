@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:31.240Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a8afa0b6d035111376649b3a1b867f5474608aa749a5b112ea072d7c8895678d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Pdpaab9TwJquzJjXwEynhK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause, eye contact away*\n\nIt's...\n\n*stops*\n\nNot great.\n\n*another pause, something tightening*\n\nI don't sit with it. That's the honest answer. There's always something else — the kids need something, there's a work thing, whatever. It doesn't — there isn't a lot of sitting.\n\n*small, harder laugh*\n\nAnd anyway it doesn't change anything. Whether I sit with it or not, Monday morning is still Monday morning."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 212,
+      "cache_creation_input_tokens": 405,
+      "cache_read_input_tokens": 1844,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 405,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 212,
+    "output_tokens": 109,
+    "cache_read_input_tokens": 1844,
+    "cache_creation_input_tokens": 405
+  }
+}

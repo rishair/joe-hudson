@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:38.393Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ed8f63f88fef45fd9842a56cdc9c627d95d2d31f5f673ff7fde0767a790eeb7a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014U6j8UZfZxQbYyFFMmc5S4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... okay, worst case? They pull the project. Or -- not pull it, but like, reassign it. Give it to someone who's been doing this longer. \n\nBut that's not going to happen. I'm being paranoid. I just need to get my deliverables in order before Thursday and it'll be fine, I just need to -- there's the deck, and the metrics, and I haven't looped in the stakeholders properly which is its own thing, and --\n\nCan we just make a list? Like an actual list of what needs to happen before Thursday? That would help me. That would actually help."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 189,
+      "cache_creation_input_tokens": 131,
+      "cache_read_input_tokens": 1757,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 131,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 1757,
+    "cache_creation_input_tokens": 131
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:32.926Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "38e30c4226bd0c4833eb7db7c3828bb33dc581b884d547e98ca684f8c602943c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DTptsNJbx43gKV8wzE9foZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's it like to even say that out loud — \"I want a week alone in the mountains\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11158,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11158,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

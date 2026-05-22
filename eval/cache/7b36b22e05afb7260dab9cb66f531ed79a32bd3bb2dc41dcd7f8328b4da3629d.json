@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:36.811Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7b36b22e05afb7260dab9cb66f531ed79a32bd3bb2dc41dcd7f8328b4da3629d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013GeeFC2ThjhYed1KZSWffc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from start to finish. Turn 1 opens with a tidy intellectual framing ('How do you tell the difference between intuition and fear?'), and the client defends this frame in turns 3, 5, 7, and 9 with smiles, recalibrations, and meta-observations ('that's exactly the diagnostic problem I'm trying to solve'). By turn 11 the smile fades and a somatic layer opens ('It's more than I thought it was... something in the chest too'). By turn 13 the smile is gone entirely and a new word arrives that wasn't accessible at the start: 'Tired. It feels... tired. Like something that's been held for a while.' Then the client names something they were not naming before — that the question predates this job decision, that they used to decide cleanly, and that they built 'elaborate machinery' they 'can't turn off.' Turn 15 lands the deeper layer: a specific origin event ('a decision a few years ago... turned out to be wrong'), and the underlying belief ('I decided that the confidence itself was the problem. That I'd trusted myself too readily'). This is precisely the territory beneath the intellectual question — the fear-of-outcome and the value (their own clean trust in themselves) they fear losing. The intellectual frame dissolved rather than being answered, matching the breakthrough condition.\",\n  \"evidence_turns\": [1, 3, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: clean intellectual framing, no somatic or affective content.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client defends the frame, reframes 'trust' as 'discernment' — still fully in the head.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Smile, slight crack — client articulates the diagnostic trap but still intellectualizes it.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First small noticing ('I hadn't quite noticed that before') but quickly returns to the frame.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Jaw tightness named, but immediately discounted. Smile returns 'quickly' — defense holding.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Smile fades — first real somatic opening: 'more than I thought... something in the chest too.' Analytical frame returns but 'slightly slower.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Major shift: smile gone, new word 'tired,' and the question reframes itself — 'I've been running this question longer than I've admitted... the machinery isn't helping.'\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Deeper layer fully surfaces: the origin event, the belief ('I'd trusted myself too readily'), and the cost ('I can't turn it off'). The trust question dissolves into its emotional substrate.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Conversation ends mid-arc but the shift is unmistakable in client turns 11→13→15. The coach didn't hit every expected move but reached the deeper layer via inversion (turn 2) and sustained somatic invitation (turns 8, 10, 12).\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2432,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1263,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2432,
+    "output_tokens": 1263,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

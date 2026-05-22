@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:16.691Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dca0de2a0e5e1d956bede0b51cdf39cf7cd629a408a85a228b3ac1e12518c746",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Mncq5v4KuMSNkNL2yeRPP9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it feel like to be in the wrong job?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21559,
+      "cache_creation_input_tokens": 8406,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8406,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21559,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8406
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:05.245Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fd772ff7e016acb86eb8e9a11fc89452b697b3e5ee6f50e9b9b7dd402216962b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015sAFVTnmT4pytCtTV2hzQr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brightens noticeably*\n\nOh, I sleep differently there. Like, genuinely differently — I wake up when it's light and I'm just... done sleeping. Not exhausted. And I read. I have this whole stack of books that I keep meaning to get to and I just — I never do at home. There's always something. Someone needs something, or I'm too tired, or I feel guilty sitting down when there's still dishes or whatever.\n\nUp there I just... read. Walk. Make coffee slowly. There's no performance of anything.\n\n*pauses, then pulls back slightly*\n\nWhich, I mean, that sounds lovely but it's also — I'm aware that's a pretty significant ask. A whole week of me just reading and walking while my partner manages two kids and a job. So I guess what I'm actually asking is — is that selfish? Like, genuinely. Is it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 146,
+      "cache_creation_input_tokens": 121,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 121,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 197,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 197,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 121
+  }
+}

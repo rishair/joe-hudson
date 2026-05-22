@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:48:15.994Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e63870cced3714bb11842083e2fca69d0a2f457e23267daee6bc3847f5554d4b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01N1GH7C9vn7bPUx26ujdLdR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I just -- nothing, I was just thinking about the deck. The stakeholder deck.\n\n*[beat]*\n\nI mean... I don't know. It was just -- for a second it felt like a lot. Like more than a logistics problem. But that's not useful right now, I can't afford to -- I have 40 minutes and I need something I can actually do with my hands, you know? Something concrete. \n\nCan we just -- okay, what if we did like a triage? High urgency, lower urgency? I'm good at triage when someone helps me see it from the outside."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 198,
+      "cache_creation_input_tokens": 297,
+      "cache_read_input_tokens": 1915,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 297,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 134,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 134,
+    "cache_read_input_tokens": 1915,
+    "cache_creation_input_tokens": 297
+  }
+}

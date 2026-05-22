@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:07.342Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0a3c6b4d7f76badedb4cb63ac4e9274b6a7885a6386fa0d3ac89c8eede2e04c4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019KVcwS2BLiQ9gm2Ls2EWn5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Understanding it and feeling it are different rooms.\n\nWhat's happening in your body right now, as you talk about this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19035,
+      "cache_creation_input_tokens": 5420,
+      "cache_read_input_tokens": 17623,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 5420,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19035,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 17623,
+    "cache_creation_input_tokens": 5420
+  }
+}

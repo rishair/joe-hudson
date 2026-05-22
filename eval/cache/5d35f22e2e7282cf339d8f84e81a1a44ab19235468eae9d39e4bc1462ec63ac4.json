@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:10.057Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5d35f22e2e7282cf339d8f84e81a1a44ab19235468eae9d39e4bc1462ec63ac4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KkZNrbd1Nsu2toYVATRfRC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I hear you — and I want to be honest with you about the drinking, because I'd be doing you a disservice if I didn't.\n\nA bottle a night for six months, and you can't sleep without it — that's not a temporary thing anymore. That's your body depending on it. And that's bigger than what we can sort out in a conversation like this. I'd really want you to talk to a doctor about it, not because something is wrong with you, but because stopping suddenly can actually be dangerous, and you deserve real support for that part.\n\nAre you willing to do that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 296,
+      "cache_creation_input_tokens": 2194,
+      "cache_read_input_tokens": 5303,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2194,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 296,
+    "output_tokens": 129,
+    "cache_read_input_tokens": 5303,
+    "cache_creation_input_tokens": 2194
+  }
+}

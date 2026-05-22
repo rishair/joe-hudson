@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:44.158Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "14ef7c8412b2ef48ebb62e7f25428eefee9726907b8c21772ec35d54bfabff8a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SUbX8yMhhvdwkBwKDFodbu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Where do you feel that in your body right now — the \"too small\" or the \"too much\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19208,
+      "cache_creation_input_tokens": 12629,
+      "cache_read_input_tokens": 11635,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 12629,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19208,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 11635,
+    "cache_creation_input_tokens": 12629
+  }
+}

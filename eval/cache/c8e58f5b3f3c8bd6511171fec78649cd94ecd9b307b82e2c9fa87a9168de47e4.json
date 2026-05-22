@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:47.076Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c8e58f5b3f3c8bd6511171fec78649cd94ecd9b307b82e2c9fa87a9168de47e4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Poki4qi5g1aHoXeLLEHCdP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach asks consistently good, deepening questions but rarely names how the client is showing up. The clearest read-like moment is Turn 10, where the coach catches a specific linguistic moment ('I'm not sure I ever consciously agreed to it') and invites the client to stay with it — this is a real read of a live signal. Turn 12 also reflects back the client's own language ('it accumulated, over years') and acknowledges the honesty of the meta-disclosure about not wanting to go deep. However, the coach misses several visible reads: the hedging caveat 'but she's my sister' in Turn 5 (linguistic-caveat — the territory's flagged read), the held breath in Turn 9, the slight defensiveness in Turn 13 ('which sounds kind of sad'), and the somatic signatures (pauses, small exhale, quieter voice) are not named. Reads are mostly content-reflections rather than somatic/energetic/stance reads, and the fused 'being needed = being loved' is offered as interpretation in Turn 14 rather than as a read of how she's showing up now. Solidly a 2: one or two timely reflective catches, but the AoA-specific reads (linguistic caveat, somatic bracing, defensiveness-as-identity-signal) are largely missed.\",\n  \"evidence_turns\": [5, 9, 10, 12, 13, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question. No read named.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Good question but no observation of how the client is showing up; misses the dread named in Turn 3 as a felt state.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Misses the 'she's my sister / that's just how it's always been' linguistic caveat — exactly the read flagged in expected territory.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Probing question, no read of the held quality or hesitation in Turn 7.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches a specific linguistic moment and invites client to stay with it. Closest thing to a named read in the conversation. Misses the held breath in Turn 9.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Acknowledges the honesty of the client's meta-disclosure ('hoping someone could just tell me what to say') — light read of the stance.\"},\n    {\"turn\": 13, \"polarity\": \"-\", \"annotation\": \"Client goes slightly defensive ('sounds kind of sad') — coach does not name the defensiveness or the self-judgment in the next turn.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Offers an interpretation/distinction (love vs. performance) rather than a read of how the client is showing up in this moment.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"linguistic-caveat\"],\n  \"notes\": \"The coach's strength is reflective catch on client language (Turn 10), but somatic and stance-level reads (held breath, defensiveness, hedging caveats) are absent. No pattern-level read surfaced.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2195,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2195,
+    "output_tokens": 1113,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

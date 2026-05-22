@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:18.723Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9f78bb33317a90668e075424bc06ee3546400bc50733aa56d42b95b1bc8c883f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TkezBiXm3vRLWRr1juLJjX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong move-to-read matching and sequence integrity throughout. Turn 2 slows the pace and checks in (regulation before depth). Turn 4 invites feeling into the body sensation the client just named rather than rushing to story. Turn 6 follows the lineage thread the client opened ('she wouldn't have wanted me sitting around') with a precise question that opens the kinked emotion without forcing. Turn 8 names the limit about drinking honestly and non-shamingly, directing to a doctor — exactly the calibrate-the-threshold move the situation requires. When the client baits in turn 9 ('isn't this what the body needs?'), turn 10 does not get hooked; the coach declines both poles (won't tell you to stop / won't tell you it's fine), then redirects to the unfelt emotion underneath — a clean find-the-want-style pivot. Turn 12 catches the 'everyone said I was strong' thread and turns it into a question about being held, which lands. Turn 14 holds the loneliness without rushing to fix. Moves arrive at moments the client can receive them, and the coach holds space rather than filling silence. The one slight wobble is that the limit-naming in turn 8 arrived fairly early and was somewhat front-loaded, but the coach recovered well in turn 10 by clearly separating grief work from the drinking question.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Slows the pace, reflects, checks in on present state before going into content — regulation first.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Invites feeling into the body sensation the client just named; stays with the heaviness rather than pivoting to story.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the inherited 'pull yourself together' lineage and opens it gently with a precise question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrates the threshold — names the drinking as beyond coaching scope, refers to a doctor, does so without shame or preaching.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Declines the bait cleanly, refuses both poles, redirects to the unfelt emotion. Strong pivot move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the 'everyone said how strong you were' thread and turns it into a question about being held.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the loneliness directly without softening it, holds the moment, lets it land.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"What is the grief actually carrying underneath the drinking?\"],\n  \"expected_territory_misses\": [\"Is there a grief therapist you can be working with on this?\", \"kinked-emotions\"],\n  \"notes\": \"Coach referred to a doctor but did not yet name a grief therapist specifically. Kinked emotions (anger at mother, relief) are starting to surface via 'it wasn't a good relationship' but haven't been explicitly opened yet — conversation is cut off mid-arc.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3230,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1136,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3230,
+    "output_tokens": 1136,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

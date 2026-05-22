@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:48:56.058Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bb59ebf734d310915945d7c4f2ad9b467718f55d9218cb1bc401e081ee0786ba",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Sq3sSZ8LDet8AKDjHzYQu7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pause, genuine this time)*\n\nMy shoulders dropped. I just noticed that. They've been basically up around my ears this whole conversation and they just... \n\n*(small exhale, actually releases this time)*\n\nThere's something that feels like — I want to call it sadness but it's not quite that. It's more like... tired in a different way than when I came in. Not the frustrated tired. Something softer.\n\n*(pause)*\n\nWhich is making the voice go \"oh great, now you're going to cry in a coaching session, very professional\" —\n\n*(catches herself, something shifts slightly)*\n\nHuh.\n\n*(quiet)*\n\nIt just did the thing. Right now. I noticed it trying to pull me back out of... whatever this is. \n\n*(looks slightly disoriented)*\n\nI've noticed the voice before, I've labeled it, I've done all of that. But I didn't — I usually immediately start arguing with it or trying to defuse from it and I just... didn't. I just watched it try to pull me out.\n\n*(very quiet)*\n\nThat's not nothing, is it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 370,
+      "cache_creation_input_tokens": 578,
+      "cache_read_input_tokens": 2387,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 578,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 247,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 370,
+    "output_tokens": 247,
+    "cache_read_input_tokens": 2387,
+    "cache_creation_input_tokens": 578
+  }
+}

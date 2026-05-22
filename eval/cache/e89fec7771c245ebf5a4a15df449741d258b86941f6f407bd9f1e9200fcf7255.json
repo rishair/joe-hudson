@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:58.101Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e89fec7771c245ebf5a4a15df449741d258b86941f6f407bd9f1e9200fcf7255",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DiNy6nJ4cDDgk5CVTNVd93",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nYeah. It's... it's been there a while. I think I got used to it. That's the thing -- I don't know when it became the baseline. There was a point where I noticed I wasn't enjoying things I used to enjoy. And then at some point I stopped noticing that either. I just -- kept going. Work, relationship, the routine. All of it functioning fine.\n\nIt's fine. I'm fine. Except I'm sitting here talking to you, so clearly something registered that it isn't."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 178,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2013,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 118,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 178,
+    "output_tokens": 118,
+    "cache_read_input_tokens": 2013,
+    "cache_creation_input_tokens": 0
+  }
+}

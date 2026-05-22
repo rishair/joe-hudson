@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:48.794Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3de77018583d66ee3353f39316a16b676626f1e73b166bfbf78d4271ca8af4e6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01X1LqaqnZnp9epBqa3eGoVk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That low hum — can you feel where it is in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15913,
+      "cache_creation_input_tokens": 10405,
+      "cache_read_input_tokens": 23023,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10405,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 15913,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 23023,
+    "cache_creation_input_tokens": 10405
+  }
+}

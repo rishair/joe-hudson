@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:49.361Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "894b4e4d23dc362709399985e185f917fae7dcc16930f6a30a6d7b4ca3a09631",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014Z9om1QAmNHz116YCynbMS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I appreciate you saying that. It's honest.\n\nCan I just stay with one thing you said — that it accumulated, over years, without anyone choosing it?\n\nWhat do you think you were getting from playing that role?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21622,
+      "cache_creation_input_tokens": 13349,
+      "cache_read_input_tokens": 38770,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 13349,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21622,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 38770,
+    "cache_creation_input_tokens": 13349
+  }
+}

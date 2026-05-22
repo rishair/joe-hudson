@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:25.016Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "38734ed31e8033f12360ce5686df2853e9e413c92ae52f5dbbe7fa212feb06b6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HRgpceZCZC6Est2A2vBWXz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean, I'm direct. I move fast. When people aren't keeping up or they're bringing me problems without solutions, I don't have a lot of patience for it right now. That's not a character flaw, that's just — we're in a critical window. She knows that.\n\nShe thinks I'm not \"present\" enough in conversations. Which, fine, maybe. But presence is a luxury when you're trying to close a round."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 81,
+      "cache_creation_input_tokens": 133,
+      "cache_read_input_tokens": 1624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 133,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 98,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 81,
+    "output_tokens": 98,
+    "cache_read_input_tokens": 1624,
+    "cache_creation_input_tokens": 133
+  }
+}

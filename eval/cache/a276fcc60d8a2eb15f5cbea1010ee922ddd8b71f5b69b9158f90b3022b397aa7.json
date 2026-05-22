@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:15.998Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a276fcc60d8a2eb15f5cbea1010ee922ddd8b71f5b69b9158f90b3022b397aa7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PJMUDF7u9DFi9cQrNjFMeA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Honestly? My co-founder basically made me. Said I was becoming \"difficult to work with\" — her words — and that I needed to talk to someone before it got worse. So here I am. I've got forty minutes."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 136,
+      "cache_creation_input_tokens": 1624,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1624,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 52,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 136,
+    "output_tokens": 52,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1624
+  }
+}

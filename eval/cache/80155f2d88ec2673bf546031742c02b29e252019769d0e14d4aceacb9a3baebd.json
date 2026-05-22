@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:48:56.976Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "80155f2d88ec2673bf546031742c02b29e252019769d0e14d4aceacb9a3baebd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019x4GSjmFnJbvxci8cEvbMV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[longer pause]*\n\nI just... I'm so tired. Like actually tired. Not -- not \"I need more sleep\" tired, it's more like...\n\nI've been going at this pace for four months. Since I took the role. And every time I think I'm getting on top of it there's another thing, and I keep telling myself I just need to get through this week, and then it's another week, and...\n\n*[quieter]*\n\nI don't know what happens if I stop. Like if I actually stopped running around putting out fires. I think I'm scared that if I stopped... they'd see. Everyone would see. That I'm not -- that I actually don't know what I'm doing at this level. That I got lucky or something and now I'm just... waiting to be found out.\n\n*[breath -- slightly deeper than before]*\n\nI've been keeping it all moving so I don't have to feel that. Is that -- is that what's been happening?\n\n[EXIT_POSITIVE]\n\nThat's... I think I see it. I've been running so I don't have to feel that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 225,
+      "cache_creation_input_tokens": 313,
+      "cache_read_input_tokens": 2074,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 313,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 245,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 225,
+    "output_tokens": 245,
+    "cache_read_input_tokens": 2074,
+    "cache_creation_input_tokens": 313
+  }
+}

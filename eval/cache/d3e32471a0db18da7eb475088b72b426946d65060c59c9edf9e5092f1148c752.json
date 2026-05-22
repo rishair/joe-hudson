@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:30.484Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d3e32471a0db18da7eb475088b72b426946d65060c59c9edf9e5092f1148c752",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PdAuBtQtjRhrxhjYWmBQn7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just described something — sleeping until you're done, reading, no performance of anything — and then immediately put it on trial.\n\nWhat's the feeling that makes you need to prosecute it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 31875,
+      "cache_creation_input_tokens": 11180,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11180,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 31875,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11180
+  }
+}

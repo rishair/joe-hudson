@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:41:03.651Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "969fb9aa91e23b0156dd0bfdd27421ac2eb5443bceb0aa3e9c022a6d7679d836",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0195mbAnEJxHv65XMzRtnJ4M",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nI mean... she's my sister. That's just... that's how it's always been. She's always been the one who needed more support, and I've always been the one who could give it. I think it's just how our family works.\n\n...I don't know if I've ever really thought about it as a choice, actually. It just is what it is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 184,
+      "cache_creation_input_tokens": 1456,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1456,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 88,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 184,
+    "output_tokens": 88,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1456
+  }
+}

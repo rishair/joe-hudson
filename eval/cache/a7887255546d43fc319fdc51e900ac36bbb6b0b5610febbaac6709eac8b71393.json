@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:48:42.895Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a7887255546d43fc319fdc51e900ac36bbb6b0b5610febbaac6709eac8b71393",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EY1cL8YN8E7PX4J5ZstZLR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(very quiet)*\n\nIt's... weird. It's uncomfortable in a different way than usual.\n\n*(pause)*\n\nBecause the way you said that — \"the part of you that cares\" — I've actually heard that framing before. The inner critic as protector, the part that's trying to keep you safe, all of that. I've done parts work, I know the IFS model, I've sat with my \"manager parts\" or whatever —\n\n*(stops)*\n\nBut usually when someone says that to me it feels like... I don't know, like I'm supposed to feel grateful toward it? And that makes me want to argue back even harder because it's *not* grateful behavior, what it does to me at two in the morning.\n\n*(long pause)*\n\nBut the way I said it just now wasn't — I wasn't performing the framework. I just... noticed it. That I don't trust what I'd be without it.\n\n*(very small, almost to herself)*\n\nIt's been working really hard for a long time. In a completely counterproductive way, but. \n\n*(looks up)*\n\nI don't know what to do with that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 398,
+      "cache_creation_input_tokens": 608,
+      "cache_read_input_tokens": 2027,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 608,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 253,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 398,
+    "output_tokens": 253,
+    "cache_read_input_tokens": 2027,
+    "cache_creation_input_tokens": 608
+  }
+}

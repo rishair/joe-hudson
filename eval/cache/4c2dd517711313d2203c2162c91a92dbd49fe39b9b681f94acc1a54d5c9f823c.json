@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:01:06.145Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4c2dd517711313d2203c2162c91a92dbd49fe39b9b681f94acc1a54d5c9f823c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XMr7YHgv9nqwkXH3GsyeuK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You know how it sounds, and you laughed — but stay there for a second. What did it actually feel like when he was that available?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9479,
+      "cache_creation_input_tokens": 127,
+      "cache_read_input_tokens": 12188,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 127,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 33,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9479,
+    "output_tokens": 33,
+    "cache_read_input_tokens": 12188,
+    "cache_creation_input_tokens": 127
+  }
+}

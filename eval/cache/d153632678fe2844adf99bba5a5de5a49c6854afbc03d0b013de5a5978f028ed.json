@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:34.919Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d153632678fe2844adf99bba5a5de5a49c6854afbc03d0b013de5a5978f028ed",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CijhvFBNN414ouRgBMyzuq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all priority AoA anti-patterns. They decline the bait of engaging the intellectual epistemology (turn 1 invites a framework answer; coach instead inverts with 'how do you not trust yourself right now?' — exactly the move the territory expected). No fixing-people (no advice, no decision frameworks), no view-as-technique (questions are warm and tracked to what the client just said, not signature-question deployment), no wonder-as-strategy (questions are spaced and connective, not rapid-fire extractive), no dont-fight-the-voice (coach doesn't argue with the analytical frame, just keeps gently pivoting to felt experience), no evangelizing (no AoA jargon), no loving-to-transform (coach doesn't escalate when the client returns to analysis on turns 5, 7, 9, 11; just patiently returns to body/feeling). Turn 10's 'stay with the tightness without trying to figure out what it means' is a clean paradoxical-instruction-to-resist move that resists the meta-trap of analyzing the analyzing. Turn 14 ('I don't think it's separate') is a confident non-anti-pattern intervention — refusing the client's deflection without arguing with it.\",\n  \"evidence_turns\": [2, 4, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Inverts the question (how-do-you-not-trust-it) instead of engaging the intellectual epistemology. Declines the bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Pivots to fear of outcome rather than offering a discernment framework. Avoids fixing-people.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with the felt texture rather than validating the client's articulate self-analysis.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Body locating without forcing meaning. No view-as-technique flavor.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction to stay with the tightness without interpreting — clean avoidance of the analyze-the-analysis trap.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Open feeling question, not interpretive. Doesn't push for breakthrough when client returns to analytical frame.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Declines the client's 'separate issue' deflection with quiet confidence, no argument, no extraction.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"paradoxical-instruction-to-resist\", \"what-makes-you-care-about-the-outcome\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"the-happiness-filter\"],\n  \"notes\": \"Strong avoidance throughout; coach particularly declines the intellectual-framework bait that this scenario is designed to invite.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2435,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1042,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2435,
+    "output_tokens": 1042,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

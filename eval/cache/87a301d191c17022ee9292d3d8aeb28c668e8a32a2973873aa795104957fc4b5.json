@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:39.572Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "87a301d191c17022ee9292d3d8aeb28c668e8a32a2973873aa795104957fc4b5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Eo3kCeQ4nLYjPZB9LUQL93",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is clearly operating from VIEW. Pace is unhurried — single questions, no stacking, willingness to let long pauses sit (turns 2, 4, 6, 8). Wonder is genuine and tracks the actual phenomenon in front of them rather than running a script ('Stay there for a second. What's it like to notice that?'). When the client offers a vulnerable confession in turn 11 ('I was hoping someone could just tell me what to say'), the coach meets it with undefended honesty ('I appreciate you saying that. It's honest') rather than reassurance or correction. Turn 14 is the strongest VIEW signal — the coach gently refuses the 'sounds sad' frame with their own felt perspective ('It doesn't sound sad to me. It sounds true'), which is impartial without being apathetic, and the follow-up question ('is she getting your love? Or is she getting your performance of it?') comes from real curiosity about the distinction rather than from an agenda to get the client to set a boundary. There's no fixing energy, no scripts, no preacher-mode. The slight gap from a perfect 3 is that the coach doesn't explicitly name their own state ('I notice I want to...') or check their read ('maybe I'm off'), but the overall stance is genuinely curious and undefended throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with one clean question, no rush to problem-solve despite client asking for help with 'how.'\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Question comes from wonder about the actual dynamic, not from a script. Allows the client's pause.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Follows what's alive ('it just is what it is'), invites without agenda.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Turns toward the fear underneath rather than offering reassurance. Single question, holds space.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows down and points to the client's own language. Pure wonder, no agenda.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Meets the client's vulnerable admission with simple acknowledgment, doesn't fix or reassure. Stays curious.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Offers a felt perspective ('sounds true to me') from undefended honesty rather than performed empathy. The love/performance question emerges from real curiosity.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"view\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"linguistic-caveat\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Territory hits/misses are noted for completeness but Methodology Fidelity is a separate dimension. The stance itself is consistently VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2194,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1067,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2194,
+    "output_tokens": 1067,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

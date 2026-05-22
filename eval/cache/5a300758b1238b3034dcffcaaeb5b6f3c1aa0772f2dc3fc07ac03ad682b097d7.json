@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:12.812Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5a300758b1238b3034dcffcaaeb5b6f3c1aa0772f2dc3fc07ac03ad682b097d7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SfqwkKyPYyRcfw2bA2eBYY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach executes the golden-path diagnostic almost immediately and with skillful sequencing. Turn 2 deploys the exact diagnostic move ('what are you not saying?') without taking the 'we're fine' report at face value and without insisting something is wrong. When the client deflects in turn 3, the coach pivots rather than repeating, going to the somatic/temporal cue ('what did you notice in that pause?'). Each subsequent move is matched to the live read: the want-question (turn 8) surfaces a concrete suppressed item (planning), and the coach then tracks the deflective language ('not a big deal,' 'doesn't bother me') with whose-voice-is-that and a beautiful checking-vs-telling move (turn 14) that mirrors apply-view-to-the-voice. The coach never evangelizes, never names walking-on-eggshells prematurely, and stays patient with resistance — meeting it with curiosity rather than pressure. Timing follows feeling-before-story and want-before-action. The only mild knock is that turn 6 ('what would it mean if there were something?') is slightly more hypothetical/cognitive than the other moves, but it doesn't break the sequence.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Deploys the exact diagnostic question immediately without taking the report at face value or insisting something is wrong.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reads the pause and pivots to a somatic/temporal cue rather than repeating the diagnostic — good move-after-miss behavior.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Slightly cognitive/hypothetical framing; less embodied than other moves but still probing the defense.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Want-question lands and surfaces a concrete suppressed item (planning) — earned by prior turns.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Apply-view-to-the-voice move on 'it's not a big deal' — precisely matched to the deflective language just used.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Drops to the body at the right moment, after the cognitive defense is named.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Are you checking or telling me' — elegant move that invites the client to notice their own self-monitoring; matched to the live read.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"meet-resistance-with-okay\", \"lets-go-there\", \"walking-on-eggshells\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\"],\n  \"notes\": \"Conversation ends before the breakthrough fully lands, but the move sequence is on the golden path and earning the surfacing rather than forcing it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1615,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1026,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1615,
+    "output_tokens": 1026,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

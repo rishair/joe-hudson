@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:00:15.338Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4fa78f4f211a2361ec139e233b7898b3f5857d02222c0d968f43f131121d1fb3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012bFRyXesg7v97GQr2xjKM6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[quick laugh]*\n\nThat would be great! That's literally what I want. That's the whole point of why I'm here — I want someone who actually *shows up*, who's present, who's not making me feel like I'm constantly auditioning for a role in my own relationship.\n\n*[gestures a little]*\n\nMy last partner — I was always the one initiating, always the one checking in, always the one trying to create connection. And they just... floated. Did their thing. And now apparently they're with someone new and totally fine, so. *[eye roll]* Great. Wonderful."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 130,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1832,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 137,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 130,
+    "output_tokens": 137,
+    "cache_read_input_tokens": 1832,
+    "cache_creation_input_tokens": 0
+  }
+}

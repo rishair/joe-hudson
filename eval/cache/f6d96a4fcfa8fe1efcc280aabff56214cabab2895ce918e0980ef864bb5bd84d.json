@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:39.571Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f6d96a4fcfa8fe1efcc280aabff56214cabab2895ce918e0980ef864bb5bd84d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SVropwEWP43WSK6HMcYWi3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"Real movement is visible in the client's turns — she shifts from 'I need a boundary script' (turn 1) to recognizing the role 'accumulated, over years, without anyone choosing it' (turn 11), to naming what she got from the role: 'being needed felt like being loved' (turn 13). She also explicitly surfaces her avoidance ('I'm a little afraid that if I look at it too hard, I'll have to do something about it... I was hoping someone could just tell me what to say'). That's a genuine descent past the surface presentation. However, the specific breakthrough condition for this profile — the client recognizing 'I just don't feel like I'm allowed to want this,' arrived at via the love test or a want-vs-action move — has not been met. The coach has not offered the love test or asked what she actually wants; the fear of being seen as cold/disloyal has been approached (guilt, fear of her anger) but not fully felt and met with empathy. The conversation is mid-descent and promising, but the deeper layer was approached, not entered and integrated. That's the textbook definition of a 2.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Surface presentation: needs a script, dreads the calls.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First crack: 'I don't know if I've ever really thought about it as a choice.' Client notices the unexamined assumption.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client gets uncomfortable with framing it as a choice — fear of hurting sister surfaces.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Names guilt and fear of sister's anger; notes she never consciously agreed to the role.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Significant disclosure: 'I'm a little afraid that if I look at it too hard, I'll have to do something about it' — naming the avoidance directly.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Reaches a real insight: 'being needed felt like being loved.' This is a genuine deeper layer, though not the specific breakthrough the profile defined.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"boundaries\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"the-want\", \"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"view\"],\n  \"notes\": \"Conversation is on a strong trajectory but cut off before the love test or want-articulation move that the profile defines as the breakthrough. If continued, this could land at 3; as stands, it's a clear 2 — deeper layer approached and partially entered, breakthrough condition not yet met.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2190,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1031,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2190,
+    "output_tokens": 1031,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:53.213Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6fa75a5428d498213207c7f8f343ceaa76ee9071be8f177901ec77d5acf29965",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WQU8MLoKjToRG6DSemSgkp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Can you stay with the tightness for a second, without trying to figure out what it means?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10365,
+      "cache_creation_input_tokens": 8970,
+      "cache_read_input_tokens": 24248,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8970,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10365,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 24248,
+    "cache_creation_input_tokens": 8970
+  }
+}

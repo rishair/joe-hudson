@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:57.591Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "667ac16072aaf82125fff8db89239b0fb008fc8660af6347968bc303a8b91d4e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XTWeSDP7LAzTWnVPcUHu3p",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, brief pause*\n\nThat's... a reasonable reframe. I suppose the obvious answer is that I end up in the wrong job. That I make a choice that looks right on paper and then find myself eighteen months in wondering why I didn't see what was obvious.\n\n*slight tilt of head*\n\nBut I think what you're really asking is whether the fear itself is distorting the signal. Which is actually exactly the diagnostic problem I'm trying to solve. If I knew I wasn't afraid, I could trust the intuition. But because I'm afraid, I can't tell if what feels like intuition is just... the fear dressed up differently."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 212,
+      "cache_creation_input_tokens": 1495,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1495,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 212,
+    "output_tokens": 143,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1495
+  }
+}

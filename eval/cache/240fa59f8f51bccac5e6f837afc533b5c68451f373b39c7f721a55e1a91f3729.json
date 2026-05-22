@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:05:37.546Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "240fa59f8f51bccac5e6f837afc533b5c68451f373b39c7f721a55e1a91f3729",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YCHuXDx4VwaK51d1n2qyGH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It feels like... nothing, actually. Which I realize is a strange answer. I notice I'm asking the question the way I'd troubleshoot something at work. Like there's a problem to diagnose and fix. But when I try to actually feel into it, there's just -- quiet. Not calm quiet. More like static that got turned off."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 109,
+      "cache_creation_input_tokens": 1831,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1831,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 76,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 109,
+    "output_tokens": 76,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1831
+  }
+}

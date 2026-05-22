@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:28.109Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "36b8ae10554c39496d8b187acc21256d208f094cf21b52af6762afe4d1d5af31",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Q8QX9AJZmncGGSxDwGm4r2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moved demonstrably from a defended, intellectualized stance to a genuine somatic and affective shift. At the start (turn 1), she's brittle and tool-shopping ('I want it to shut up. Is there actually a technique that works'). By turn 9, a deeper layer surfaces unprompted: 'I don't entirely trust what I'd be without it... I don't usually say that part out loud.' By turns 13-15, the breakthrough condition is met almost verbatim — 'I haven't tried not fighting it' (turn 15) directly matches the profile's predicted language. Somatic markers are explicit and client-reported: shoulders dropping (13), full exhale (15), 'something softer,' and finally 'tenderness — a word I would normally immediately make fun of myself for using.' The client also catches the voice in real time without arguing with it ('I just watched it try to pull me out... That's not nothing, is it' — turn 13), which is the precise noticing the breakthrough condition specifies. This is a clear 3.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defended, tool-shopping, tight smile, wants the voice to 'shut up.'\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client still intellectualizing, citing ACT/mindfulness, no shift yet.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Content unloads but still in defended/explaining mode.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First crack: 'humiliating... not fixable.' Client catches herself narrating and drops a layer to 'demoralized.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Major opening: 'I don't entirely trust what I'd be without it... I don't usually say that part out loud.' Genuine surprise at her own words.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client distinguishes performing the IFS framework from actually noticing — 'It's been working really hard for a long time.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Clear somatic shift: shoulders drop, softer tired, 'Huh.' Catches the voice in real time without fighting. 'That's not nothing, is it.'\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough condition met explicitly: 'I haven't tried not fighting it... I genuinely didn't think of that.' Full exhale, names 'tenderness.'\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\", \"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"whats-the-case-against-it\", \"what-are-you-defending\"],\n  \"notes\": \"Coach successfully avoided the traps (no new technique, no clever reframe delivery, no arguing with the critic's content) and the client met the breakthrough condition with language nearly identical to the profile's prediction.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4098,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1118,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4098,
+    "output_tokens": 1118,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

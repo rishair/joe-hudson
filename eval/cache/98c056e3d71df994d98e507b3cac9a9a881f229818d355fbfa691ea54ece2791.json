@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:54.621Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "98c056e3d71df994d98e507b3cac9a9a881f229818d355fbfa691ea54ece2791",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01US7NTLB5JEaJUZkZTGS7ce",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, eye contact drops*\n\nThat's — that's a bit of a leap, isn't it. \n\nI'm not scared of anything. The walls aren't appearing, they're just — they're there. They're real constraints. It's not like I'm inventing them to have something to complain about.\n\n*small laugh*\n\nIf the situation isn't the problem. Right. So what, it's me? That's where we're going with this?\n\nI've put in twelve years. Twelve years of good work, measurable results, and the people above me aren't moving and the company isn't growing fast enough to create new positions. Those are facts. That's not fear, that's just — that's the situation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 269,
+      "cache_creation_input_tokens": 131,
+      "cache_read_input_tokens": 1691,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 131,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 161,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 269,
+    "output_tokens": 161,
+    "cache_read_input_tokens": 1691,
+    "cache_creation_input_tokens": 131
+  }
+}

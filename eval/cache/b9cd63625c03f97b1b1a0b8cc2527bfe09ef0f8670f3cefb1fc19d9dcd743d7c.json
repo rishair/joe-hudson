@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:32.975Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b9cd63625c03f97b1b1a0b8cc2527bfe09ef0f8670f3cefb1fc19d9dcd743d7c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TGrhPNwG7fEgAVWmh7KCmC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just answered your own question and then immediately asked me to answer it for you.\n\nWhat happened in that pause before you asked?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 29305,
+      "cache_creation_input_tokens": 17670,
+      "cache_read_input_tokens": 28668,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 17670,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 29305,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 28668,
+    "cache_creation_input_tokens": 17670
+  }
+}

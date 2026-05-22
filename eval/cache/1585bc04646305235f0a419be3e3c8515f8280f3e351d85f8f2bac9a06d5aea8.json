@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:01:22.112Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1585bc04646305235f0a419be3e3c8515f8280f3e351d85f8f2bac9a06d5aea8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QF4LHibLqYMcU9tjts8s2t",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[goes a little still]*\n\nI mean... he was just consistent. He did what he said he was going to do. He remembered things. He wanted to spend time with me and didn't make it feel like a negotiation.\n\n*[small pause]*\n\nAnd I found it... I found reasons. Like, his laugh was too loud, or he was too eager, or — *[stops herself]* \n\n*[quieter]*\n\nI picked it apart. I picked *him* apart.\n\n*[looks up, a little less comfortable now]*\n\nWhich is — I don't usually tell that part of the story. The version I tell is about the unavailable ones. Not about the one who was there and I just... \n\n*[trails off, doesn't finish the sentence]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 205,
+      "cache_creation_input_tokens": 295,
+      "cache_read_input_tokens": 1959,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 295,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 172,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 205,
+    "output_tokens": 172,
+    "cache_read_input_tokens": 1959,
+    "cache_creation_input_tokens": 295
+  }
+}

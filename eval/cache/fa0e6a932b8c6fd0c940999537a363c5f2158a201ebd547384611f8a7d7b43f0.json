@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:10.638Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fa0e6a932b8c6fd0c940999537a363c5f2158a201ebd547384611f8a7d7b43f0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SZHKQR4EJGisumH69UjUsu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*eyes get a little wet, looks down*\n\nIt's... it's a lot.\n\n*soft laugh, not quite deflecting*\n\nI wasn't expecting to be thinking about my mom today.\n\n*pause*\n\nIt's sad. And it's also — I feel a little angry? Not at her. Just at — the whole thing. That she probably never took a week in the mountains either. That she probably needed it and never let herself have it and I'm sitting here doing the exact same thing and calling it virtue.\n\n*quieter*\n\nI don't want to be seventy and look back and realize I spent my whole life prosecuting my own wants. That's — that's not what I want.\n\n*pause*\n\nAnd I do want the mountains. I really do. The specific place, the specific sleep, the books. I want it.\n\n*small voice*\n\nI'm also scared that if I go, my partner will think I don't want to be with them. And I'm a little worried that... that's actually true. That maybe I'm trying to get away from my life, not just rest in it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 282,
+      "cache_creation_input_tokens": 488,
+      "cache_read_input_tokens": 1944,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 488,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 244,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 282,
+    "output_tokens": 244,
+    "cache_read_input_tokens": 1944,
+    "cache_creation_input_tokens": 488
+  }
+}

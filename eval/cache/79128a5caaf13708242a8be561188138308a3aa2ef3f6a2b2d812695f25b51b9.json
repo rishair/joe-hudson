@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:16.334Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "79128a5caaf13708242a8be561188138308a3aa2ef3f6a2b2d812695f25b51b9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015sAN9CevPfYeVCKG8Ynsor",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness*\n\n*the smile doesn't come back this time*\n\nI... I'm not entirely sure. There was a decision a few years ago that I was very confident about. Very clean, like I said. And it turned out to be wrong in ways I didn't anticipate. Not catastrophically wrong, but -- significantly. And I think somewhere in there I decided that the confidence itself was the problem. That I'd trusted myself too readily.\n\n*pause*\n\nSo I built the machinery. To check. To be more rigorous.\n\n*quiet beat*\n\nAnd now I can't turn it off."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 170,
+      "cache_creation_input_tokens": 251,
+      "cache_read_input_tokens": 2038,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 251,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 170,
+    "output_tokens": 132,
+    "cache_read_input_tokens": 2038,
+    "cache_creation_input_tokens": 251
+  }
+}

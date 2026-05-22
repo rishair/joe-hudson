@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:23.955Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ad4b6ac8f21db934a170e4125a0a1d527aab18c4fd86a37e1ed3873e2702a822",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EXHmkxynUaeabfLCdR1Aek",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nIt's... a little disorienting, actually. Because on one hand I can see it clearly when I say it out loud — like, yeah, no one sat me down and said \"this is your role.\" It just... accumulated. Over years.\n\nBut then there's this other part of me that immediately wants to say, well, but she needs me, and that's real, and I don't want to just... opt out of that because it's inconvenient.\n\n*small exhale*\n\nI think I'm a little afraid that if I look at it too hard, I'll have to do something about it. And I don't know what that something is. That's kind of why I came here — I was hoping someone could just tell me what to say to her so I don't have to... I don't know. Go this deep into it, maybe."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 147,
+      "cache_creation_input_tokens": 214,
+      "cache_read_input_tokens": 1637,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 214,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 191,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 147,
+    "output_tokens": 191,
+    "cache_read_input_tokens": 1637,
+    "cache_creation_input_tokens": 214
+  }
+}

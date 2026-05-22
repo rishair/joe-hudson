@@ -1,0 +1,1649 @@
+{
+  "profile_id": "client-happy-trust-myself-001",
+  "coach_config_id": "coach-v5a-guided-walk-haiku",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "How do you not trust yourself right now?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight pause, small smile*\n\nWhat do you mean, exactly? I'm... I mean, I'm trusting myself enough to ask the question. I'm trusting myself to recognize that there's a conflict. I suppose what I mean is more -- when I have two competing signals, how do I know which one to weight? It's less about trust and more about... discernment, maybe. Distinguishing the signal from the noise."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What are you afraid will happen if you pick the wrong one?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small smile, brief pause*\n\nThat's... a reasonable reframe. I suppose the obvious answer is that I end up in the wrong job. That I make a choice that looks right on paper and then find myself eighteen months in wondering why I didn't see what was obvious.\n\n*slight tilt of head*\n\nBut I think what you're really asking is whether the fear itself is distorting the signal. Which is actually exactly the diagnostic problem I'm trying to solve. If I knew I wasn't afraid, I could trust the intuition. But because I'm afraid, I can't tell if what feels like intuition is just... the fear dressed up differently."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What would it feel like to be in the wrong job?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pause, the smile stays*\n\nConstrained. Like... like I'd made myself smaller than I needed to be. Or alternatively -- overextended in a way that I couldn't sustain. \n\n*brief stop*\n\nThose are actually opposite fears, which is interesting. I hadn't quite noticed that before. One job feels like it might be too safe and one feels like it might be too much.\n\n*slight recalibration, back to the original frame*\n\nBut I'm not sure that helps with the original question. Both of those could still be fear responses rather than accurate predictions. The fact that I can articulate the fear doesn't tell me whether the fear is tracking something real."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Where do you feel that in your body right now — the \"too small\" or the \"too much\"?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*looks down briefly*\n\nNothing really, I...\n\n*short pause*\n\nActually my jaw is a bit tight. I noticed that just now.\n\n*small smile returns quickly*\n\nBut I'm not sure that's particularly diagnostic. My jaw is often tight. It's sort of a baseline state. I don't know that I can read much into it as a signal about this specific decision."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Can you stay with the tightness for a second, without trying to figure out what it means?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*pause*\n\n*the smile fades slightly, which is notable*\n\n...okay.\n\n*quiet for a moment*\n\nIt's... it's more than I thought it was, actually. It's not just the jaw. There's something in the chest too.\n\n*another beat, then the analytical frame comes back, but slightly slower this time*\n\nI don't know what to do with that, though. I've done enough meditation to know that noticing a sensation doesn't automatically translate into clarity about a decision. People feel things in their bodies all the time that are just... ambient stress. It doesn't necessarily mean the body knows something the mind doesn't."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What's it like to feel that — the chest, the jaw — right now?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*longer pause than before*\n\n*the smile is gone*\n\nTired. It feels... tired. Like something that's been held for a while.\n\n*quiet*\n\nI think I've been running this question for longer than I've admitted. It's not just the job offer. I've been -- I used to be someone who made decisions more cleanly. I don't know when that changed exactly. And now there's this... elaborate machinery I run every time, and I'm not sure the machinery is actually helping.\n\n*catches themselves, slight return of the smile*\n\nThat's probably a separate issue though."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "I don't think it's separate.\n\nWhat changed?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*stillness*\n\n*the smile doesn't come back this time*\n\nI... I'm not entirely sure. There was a decision a few years ago that I was very confident about. Very clean, like I said. And it turned out to be wrong in ways I didn't anticipate. Not catastrophically wrong, but -- significantly. And I think somewhere in there I decided that the confidence itself was the problem. That I'd trusted myself too readily.\n\n*pause*\n\nSo I built the machinery. To check. To be more rigorous.\n\n*quiet beat*\n\nAnd now I can't turn it off."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t1",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 21154,
+      "output_tokens": 1293,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0368767,
+      "ms": 17293
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 8397,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0263433,
+      "ms": 1543
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t3",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 22679,
+      "output_tokens": 1262,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0382467,
+      "ms": 18279
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 12604,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8406,
+      "cost_usd": 0.07054679999999999,
+      "ms": 2369
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t5",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 212,
+      "output_tokens": 143,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1495,
+      "cost_usd": 0.00838725,
+      "ms": 4359
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 23248,
+      "output_tokens": 1331,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0391607,
+      "ms": 17401
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 21559,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8406,
+      "cost_usd": 0.0973968,
+      "ms": 1696
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t7",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 18,
+      "output_tokens": 150,
+      "cache_read_input_tokens": 1495,
+      "cache_creation_input_tokens": 352,
+      "cost_usd": 0.0040725,
+      "ms": 4722
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 23680,
+      "output_tokens": 1430,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.040087700000000004,
+      "ms": 19472
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 19208,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 11635,
+      "cache_creation_input_tokens": 12629,
+      "cost_usd": 0.10886325,
+      "ms": 3263
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t9",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 194,
+      "output_tokens": 85,
+      "cache_read_input_tokens": 1592,
+      "cache_creation_input_tokens": 255,
+      "cost_usd": 0.00329085,
+      "ms": 3461
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 793,
+      "output_tokens": 185,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.010975700000000001,
+      "ms": 3527
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 10365,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 24248,
+      "cache_creation_input_tokens": 8970,
+      "cost_usd": 0.07236690000000001,
+      "ms": 2065
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t11",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 138,
+      "output_tokens": 142,
+      "cache_read_input_tokens": 1704,
+      "cache_creation_input_tokens": 308,
+      "cost_usd": 0.0042102,
+      "ms": 4764
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 851,
+      "output_tokens": 181,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011013700000000001,
+      "ms": 3249
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 254,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 33203,
+      "cache_creation_input_tokens": 10292,
+      "cost_usd": 0.0496179,
+      "ms": 1799
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t13",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 189,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 1862,
+      "cache_creation_input_tokens": 261,
+      "cost_usd": 0.0040843500000000005,
+      "ms": 4565
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-haiku-4-5]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 882,
+      "output_tokens": 174,
+      "cache_read_input_tokens": 92577,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0110097,
+      "ms": 2737
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 297,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 43469,
+      "cache_creation_input_tokens": 135,
+      "cost_usd": 0.01466295,
+      "ms": 1641
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t15",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 170,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 2038,
+      "cache_creation_input_tokens": 251,
+      "cost_usd": 0.00404265,
+      "ms": 4358
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "i-have-to-do-it-all-myself",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing difficulty distinguishing intuition from fear and second-guessing themselves, which directly matches the \"how do I trust myself\" concern about trusting intuition vs fear. The pattern of repeated second-guessing suggests a recurring wall they keep hitting. The self-reliance framing (figuring it out alone) hints at the hyper-independence pattern.",
+        "bundle_ids": [
+          "how-do-i-trust-myself",
+          "if-you-think-youre-deciding-youre-in-fear",
+          "how-do-you-not-trust-it"
+        ],
+        "bundle_paths": [
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+          "coach/questions/how-do-you-not-trust-it.md"
+        ],
+        "bundle_reasons": [
+          "Directly addresses the client's exact question and frames the core coaching move: the trust collapse is about fear of outcome, not about sorting intuition from fear.",
+          "Directly answers the client's core confusion: the felt experience of \"deciding\" IS fear, not a separate voice to sort from intuition—this reframes their entire question.",
+          "This is the exact inversion move Joe uses to dismantle the client's malformed question—it shows they're already trusting themselves, reframing the real issue as fear of outcome, not sorting voices."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly addresses the client's exact question and frames the core coaching move: the trust collapse is about fear of outcome, not about sorting intuition from fear.",
+              "follow_edges": [
+                "if-you-think-youre-deciding-youre-in-fear",
+                "intellectual-question-with-emotional-body",
+                "how-do-you-not-trust-it",
+                "what-makes-you-care-about-the-outcome"
+              ],
+              "follow_reason": "These edges map the coaching path Joe uses: reframe the decision-language, notice the gap between intellectual framing and body, invert the trust question, and excavate what outcome-attachment reveals about values."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "if-you-think-youre-deciding-youre-in-fear",
+              "intellectual-question-with-emotional-body",
+              "how-do-you-not-trust-it",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.004724,
+            "ms": 2482,
+            "input_tokens": 3614,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses self-reliance and independence, but the client's presenting issue is about distinguishing intuition from fear in a specific decision—not about dependency patterns or leadership isolation.",
+              "follow_edges": [
+                "helplessness-is-the-gateway"
+              ],
+              "follow_reason": "The client's second-guessing and inability to trust themselves may connect to an underlying helplessness or abandonment imprint that blocks access to intuition; worth exploring as a potential root."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "helplessness-is-the-gateway"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "cost_usd": 0.004591,
+            "ms": 2433,
+            "input_tokens": 3711,
+            "output_tokens": 176,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses repeating patterns and limiting beliefs, but the client's immediate concern is distinguishing intuition from fear in a single decision, not a recurring pattern—skip to stay focused on the acute question.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom"
+              ],
+              "follow_reason": "If the client's second-guessing is rooted in a limiting belief about their own judgment, this edge could reveal the deeper blocker beneath the surface confusion."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom"
+            ],
+            "edges_skipped": [
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.004278,
+            "ms": 2250,
+            "input_tokens": 3383,
+            "output_tokens": 179,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "if-you-think-youre-deciding-youre-in-fear",
+            "file_path": "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+            "category": "principles",
+            "candidate_edges": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly answers the client's core confusion: the felt experience of \"deciding\" IS fear, not a separate voice to sort from intuition—this reframes their entire question.",
+              "follow_edges": [
+                "ask-from-slowness-not-intellect",
+                "do-the-next-most-obvious-thing",
+                "fear-is-about-feeling"
+              ],
+              "follow_reason": "These edges offer the practical moves: how to access non-fear action (slowness, obviousness) and the mechanism to dissolve the decision-feel (feeling the fear itself)."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ask-from-slowness-not-intellect",
+              "do-the-next-most-obvious-thing"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.004579,
+            "ms": 2544,
+            "input_tokens": 3589,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The client's question is genuinely personal and emotionally present (\"I genuinely can't figure out\"), not an intellectualized buffer—the bundle already addresses their core confusion directly.",
+              "follow_edges": [],
+              "follow_reason": "No edges needed; the client is already in the emotional body, not hiding behind an intellectual frame, so the diagnostic moves in this file don't apply."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "cost_usd": 0.003897,
+            "ms": 2657,
+            "input_tokens": 3107,
+            "output_tokens": 158,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "how-do-you-not-trust-it",
+            "file_path": "coach/questions/how-do-you-not-trust-it.md",
+            "category": "questions",
+            "candidate_edges": [
+              "trust-as-multifaceted",
+              "whats-the-most-profound-positive-shift",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the exact inversion move Joe uses to dismantle the client's malformed question—it shows they're already trusting themselves, reframing the real issue as fear of outcome, not sorting voices.",
+              "follow_edges": [],
+              "follow_reason": "The candidate edges (trust-as-multifaceted, whats-the-most-profound-positive-shift, whats-the-scorecard-that-cant-be-taken-away) are too tangential; the bundle already has the core moves for this turn."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "trust-as-multifaceted",
+              "whats-the-most-profound-positive-shift",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "cost_usd": 0.004208,
+            "ms": 2287,
+            "input_tokens": 3238,
+            "output_tokens": 194,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0105997,
+        "walker_total_cost_usd": 0.026277000000000002,
+        "total_cost_usd": 0.0368767,
+        "seed_detection_input_tokens": 512,
+        "seed_detection_output_tokens": 166,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 20642,
+        "walker_total_output_tokens": 1127,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2640,
+        "walker_total_ms": 14653,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.0368767,
+      "ms": 17296
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself"
+        ],
+        "rejected_seeds": [
+          "fear-vs-excitement"
+        ],
+        "seed_rationale": "Client is distinguishing between intuition and fear as competing signals; the core concern is self-trust in the face of conflicting internal voices. The fear-vs-excitement distinction is relevant because fear and intuition often get confused, and the somatic difference between them is key to discernment.",
+        "bundle_ids": [
+          "how-do-i-trust-myself",
+          "if-you-think-youre-deciding-youre-in-fear",
+          "how-do-you-not-trust-it",
+          "what-makes-you-care-about-the-outcome",
+          "ask-from-slowness-not-intellect"
+        ],
+        "bundle_paths": [
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+          "coach/questions/how-do-you-not-trust-it.md",
+          "coach/questions/what-makes-you-care-about-the-outcome.md",
+          "coach/practices/ask-from-slowness-not-intellect.md"
+        ],
+        "bundle_reasons": [
+          "This file directly maps the client's exact presenting concern—distinguishing intuition from fear, second-guessing, and the shift from \"trust\" to \"discernment\"—and provides the coaching architecture Joe would use in this turn.",
+          "Directly reframes the client's core confusion: the felt experience of \"two competing signals\" is itself the diagnostic of fear, not a discernment problem to solve intellectually.",
+          "This file is the exact move Joe just made in the conversation—inverting the client's \"how do I trust\" framing to \"you're already trusting yourself right now\"—and documents the architecture for deepening it.",
+          "Client is caught in outcome-attachment (the \"two competing signals\" are fear-driven), and this question directly surfaces what's underneath the second-guessing loop—the values or identity fears that make the outcome feel heavy.",
+          "Client is intellectually spinning on \"two competing signals\"—this practice directly offers the move to consult the unhurried part instead of forcing resolution through intellect."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly maps the client's exact presenting concern—distinguishing intuition from fear, second-guessing, and the shift from \"trust\" to \"discernment\"—and provides the coaching architecture Joe would use in this turn.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body",
+                "if-you-think-youre-deciding-youre-in-fear",
+                "how-do-you-not-trust-it",
+                "what-makes-you-care-about-the-outcome"
+              ],
+              "follow_reason": "These edges map the immediate coaching moves: naming the gap between the intellectual frame and the body, reframing the decision-fear dynamic, inverting the trust question, and excavating the outcome-attachment underneath the discernment struggle."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "how-do-you-not-trust-it",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.004998,
+            "ms": 2628,
+            "input_tokens": 3778,
+            "output_tokens": 244,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The client has already moved past the intellectual-question buffer; they're now articulating the real distinction (discernment vs. trust) with emotional presence and self-awareness.",
+              "follow_edges": [],
+              "follow_reason": "No edges needed; the client is already in the work, not in the pre-work phase this file describes."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "cost_usd": 0.003977,
+            "ms": 3142,
+            "input_tokens": 3232,
+            "output_tokens": 149,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "if-you-think-youre-deciding-youre-in-fear",
+            "file_path": "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+            "category": "principles",
+            "candidate_edges": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly reframes the client's core confusion: the felt experience of \"two competing signals\" is itself the diagnostic of fear, not a discernment problem to solve intellectually.",
+              "follow_edges": [
+                "ask-from-slowness-not-intellect",
+                "do-the-next-most-obvious-thing",
+                "fear-is-about-feeling"
+              ],
+              "follow_reason": "These edges support the move from \"how do I decide between signals\" to \"what am I afraid of\" and \"how do I access what's actually obvious when fear clears.\""
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ask-from-slowness-not-intellect",
+              "do-the-next-most-obvious-thing"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.004765,
+            "ms": 2506,
+            "input_tokens": 3770,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "how-do-you-not-trust-it",
+            "file_path": "coach/questions/how-do-you-not-trust-it.md",
+            "category": "questions",
+            "candidate_edges": [
+              "trust-as-multifaceted",
+              "whats-the-most-profound-positive-shift",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is the exact move Joe just made in the conversation—inverting the client's \"how do I trust\" framing to \"you're already trusting yourself right now\"—and documents the architecture for deepening it.",
+              "follow_edges": [
+                "if-you-think-youre-deciding-youre-in-fear"
+              ],
+              "follow_reason": "The file itself points to this as the next move when the inversion lands; client is already showing recognition (\"discernment, maybe\"), so the fear-as-decision frame is the natural next layer."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "trust-as-multifaceted",
+              "whats-the-most-profound-positive-shift",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "cost_usd": 0.004405,
+            "ms": 2891,
+            "input_tokens": 3420,
+            "output_tokens": 197,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "what-makes-you-care-about-the-outcome",
+            "file_path": "coach/questions/what-makes-you-care-about-the-outcome.md",
+            "category": "questions",
+            "candidate_edges": [
+              "visualize-the-felt-aftermath",
+              "what-do-you-think-you-need-to-be-free"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is caught in outcome-attachment (the \"two competing signals\" are fear-driven), and this question directly surfaces what's underneath the second-guessing loop—the values or identity fears that make the outcome feel heavy.",
+              "follow_edges": [
+                "what-do-you-think-you-need-to-be-free"
+              ],
+              "follow_reason": "Client is naming discernment as the goal; this edge explores what freedom from outcome-attachment actually requires, which is the next move after naming the attachment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "what-do-you-think-you-need-to-be-free"
+            ],
+            "edges_skipped": [
+              "visualize-the-felt-aftermath"
+            ],
+            "cost_usd": 0.004781,
+            "ms": 2401,
+            "input_tokens": 3851,
+            "output_tokens": 186,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "ask-from-slowness-not-intellect",
+            "file_path": "coach/practices/ask-from-slowness-not-intellect.md",
+            "category": "practices",
+            "candidate_edges": [
+              "feel-over-figure",
+              "head-heart-gut",
+              "knowing-yourself-is-the-only-safety",
+              "listen-as-the-wisest-person",
+              "listening-to-impulse",
+              "overwhelm",
+              "process-over-result"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is intellectually spinning on \"two competing signals\"—this practice directly offers the move to consult the unhurried part instead of forcing resolution through intellect.",
+              "follow_edges": [
+                "listening-to-impulse",
+                "feel-over-figure"
+              ],
+              "follow_reason": "Both are downstream practices for receiving what slowness reveals; client needs concrete next moves after the consultation shift."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "listening-to-impulse",
+              "feel-over-figure"
+            ],
+            "edges_skipped": [
+              "head-heart-gut",
+              "knowing-yourself-is-the-only-safety",
+              "listen-as-the-wisest-person",
+              "overwhelm",
+              "process-over-result"
+            ],
+            "cost_usd": 0.004747,
+            "ms": 2646,
+            "input_tokens": 3952,
+            "output_tokens": 159,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0105737,
+        "walker_total_cost_usd": 0.027673000000000003,
+        "total_cost_usd": 0.0382467,
+        "seed_detection_input_tokens": 676,
+        "seed_detection_output_tokens": 128,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22003,
+        "walker_total_output_tokens": 1134,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2065,
+        "walker_total_ms": 16214,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.0382467,
+      "ms": 18282
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is articulating the core trust-vs-fear diagnostic: can't distinguish intuition from fear-dressed-as-intuition, which is the classic self-trust concern. The pattern of ending up in wrong jobs eighteen months in suggests a recurring blind spot they keep hitting.",
+        "bundle_ids": [
+          "how-do-i-trust-myself",
+          "if-you-think-youre-deciding-youre-in-fear",
+          "what-makes-you-care-about-the-outcome"
+        ],
+        "bundle_paths": [
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+          "coach/questions/what-makes-you-care-about-the-outcome.md"
+        ],
+        "bundle_reasons": [
+          "This file directly maps the client's exact concern: distinguishing intuition from fear-distorted signal, and the diagnostic problem of not knowing whether fear is masquerading as intuition. The coaching path and detection cues are precisely calibrated to this moment.",
+          "This principle directly names the client's exact diagnostic problem: the felt experience of deciding IS the fear, and distinguishing intuition from fear-distorted signal requires recognizing that the decision-feeling itself is the fear-signature.",
+          "This question directly addresses the client's diagnostic problem: the fear is distorting the signal, and outcome-attachment is the mechanism. The file shows how to pivot from \"which signal is right?\" to \"why does the outcome matter?\"—exactly what's needed here."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly maps the client's exact concern: distinguishing intuition from fear-distorted signal, and the diagnostic problem of not knowing whether fear is masquerading as intuition. The coaching path and detection cues are precisely calibrated to this moment.",
+              "follow_edges": [
+                "if-you-think-youre-deciding-youre-in-fear",
+                "intellectual-question-with-emotional-body",
+                "what-makes-you-care-about-the-outcome",
+                "the-happiness-filter"
+              ],
+              "follow_reason": "Client is intellectually precise about the problem (fear distorting signal) but the real work is likely in the fear-of-outcome dynamic, the gap between intellectual framing and emotional body, and what outcome-attachment is protecting. The happiness filter is already visible in the client's \"small smile\" pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "if-you-think-youre-deciding-youre-in-fear",
+              "intellectual-question-with-emotional-body",
+              "what-makes-you-care-about-the-outcome",
+              "the-happiness-filter"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.005234,
+            "ms": 3508,
+            "input_tokens": 3944,
+            "output_tokens": 258,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's concern is not about a repeating pattern across situations, but about distinguishing signal from noise in a single decision moment; this file addresses recursion and limiting beliefs, which is a different diagnostic layer.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom"
+              ],
+              "follow_reason": "Client is trying to work at the signal/intuition level; this edge may clarify whether fear itself is the blocker underneath the discernment problem."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom"
+            ],
+            "edges_skipped": [
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.004624,
+            "ms": 2195,
+            "input_tokens": 3734,
+            "output_tokens": 178,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "if-you-think-youre-deciding-youre-in-fear",
+            "file_path": "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+            "category": "principles",
+            "candidate_edges": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "how-do-you-not-trust-it",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This principle directly names the client's exact diagnostic problem: the felt experience of deciding IS the fear, and distinguishing intuition from fear-distorted signal requires recognizing that the decision-feeling itself is the fear-signature.",
+              "follow_edges": [
+                "how-do-you-not-trust-it",
+                "fear-is-about-feeling",
+                "do-the-next-most-obvious-thing"
+              ],
+              "follow_reason": "These edges map the diagnostic pathway: surfacing what the fear is actually about, feeling it rather than thinking through it, and the alternative to decision-making when fear dissolves."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "how-do-you-not-trust-it",
+              "do-the-next-most-obvious-thing"
+            ],
+            "edges_skipped": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.004983,
+            "ms": 2289,
+            "input_tokens": 3953,
+            "output_tokens": 206,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client has already moved past the intellectual-question buffer; they're now directly naming the diagnostic problem (fear distorting signal). This read describes the *opening move*, not the current moment.",
+              "follow_edges": [],
+              "follow_reason": "No edges needed; the client is already in the real work, not in the buffer-phase this read describes."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "cost_usd": 0.004228,
+            "ms": 1939,
+            "input_tokens": 3468,
+            "output_tokens": 152,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "what-makes-you-care-about-the-outcome",
+            "file_path": "coach/questions/what-makes-you-care-about-the-outcome.md",
+            "category": "questions",
+            "candidate_edges": [
+              "visualize-the-felt-aftermath",
+              "what-do-you-think-you-need-to-be-free"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This question directly addresses the client's diagnostic problem: the fear is distorting the signal, and outcome-attachment is the mechanism. The file shows how to pivot from \"which signal is right?\" to \"why does the outcome matter?\"—exactly what's needed here.",
+              "follow_edges": [
+                "what-do-you-think-you-need-to-be-free"
+              ],
+              "follow_reason": "The client is stuck in outcome-attachment (wrong job, eighteen months of regret). This edge likely explores what freedom from that attachment looks like, which is the next logical move after naming the outcome-care."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "what-do-you-think-you-need-to-be-free"
+            ],
+            "edges_skipped": [
+              "visualize-the-felt-aftermath"
+            ],
+            "cost_usd": 0.004999,
+            "ms": 2600,
+            "input_tokens": 3969,
+            "output_tokens": 206,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "the-happiness-filter",
+            "file_path": "coach/reads/the-happiness-filter.md",
+            "category": "reads",
+            "candidate_edges": [
+              "confidence-only-where-approval-isnt-needed",
+              "joy-as-matriarch",
+              "loyalty-under-low-affection",
+              "triggered-vs-big-emotion",
+              "we-never-fight",
+              "whats-the-ultimate-thing-youre-running-from"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The client's smile and pleasantness are present but not the primary diagnostic signal right now; the real work is on distinguishing intuition from fear-distorted signal, which the bundle already addresses directly.",
+              "follow_edges": [
+                "confidence-only-where-approval-isnt-needed",
+                "whats-the-ultimate-thing-youre-running-from"
+              ],
+              "follow_reason": "Both edges probe the fear underneath the decision-paralysis: one explores how approval-seeking distorts discernment, the other names the root fear driving the signal-noise confusion."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "confidence-only-where-approval-isnt-needed",
+              "whats-the-ultimate-thing-youre-running-from"
+            ],
+            "edges_skipped": [
+              "joy-as-matriarch",
+              "loyalty-under-low-affection",
+              "triggered-vs-big-emotion",
+              "we-never-fight"
+            ],
+            "cost_usd": 0.004333,
+            "ms": 2662,
+            "input_tokens": 3338,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0107597,
+        "walker_total_cost_usd": 0.028401,
+        "total_cost_usd": 0.0391607,
+        "seed_detection_input_tokens": 842,
+        "seed_detection_output_tokens": 132,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22406,
+        "walker_total_output_tokens": 1199,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2208,
+        "walker_total_ms": 15193,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.0391607,
+      "ms": 17402
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [
+          "whats-the-most-profound-positive-shift"
+        ],
+        "seed_rationale": "Client is caught between two opposite fears (constraint vs. overextension) and cannot distinguish between fear-as-signal and fear-as-distortion. This maps to self-trust uncertainty, a pattern of intellectual analysis preventing felt knowing, and the core question of what would shift if they could trust their own discernment.",
+        "bundle_ids": [
+          "how-do-i-trust-myself",
+          "if-you-think-youre-deciding-youre-in-fear",
+          "what-makes-you-care-about-the-outcome",
+          "the-happiness-filter"
+        ],
+        "bundle_paths": [
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+          "coach/questions/what-makes-you-care-about-the-outcome.md",
+          "coach/reads/the-happiness-filter.md"
+        ],
+        "bundle_reasons": [
+          "This file directly maps the client's exact concern: distinguishing intuition from fear while holding opposite fears simultaneously, and the paralysis that comes from articulating fears without knowing if they track reality.",
+          "Directly addresses the client's core diagnostic: the felt experience of deciding IS the fear, not a separate problem to solve. Client is stuck in the paradox that articulating fears doesn't tell them if fears track reality—this principle dissolves that paradox by reframing the decision-feel itself as the diagnostic.",
+          "Client is stuck in outcome-attachment paralysis (\"both could still be fear responses\")—this question directly dissolves that by revealing the values live in how-they-are, not the result, which is the exact move needed to break the diagnostic loop.",
+          "Client's smile stays fixed even while articulating opposite fears and diagnostic paralysis—the happiness filter is the exact mechanism preventing them from contacting what's real underneath the intellectualization."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly maps the client's exact concern: distinguishing intuition from fear while holding opposite fears simultaneously, and the paralysis that comes from articulating fears without knowing if they track reality.",
+              "follow_edges": [
+                "if-you-think-youre-deciding-youre-in-fear",
+                "intellectual-question-with-emotional-body",
+                "what-makes-you-care-about-the-outcome",
+                "the-happiness-filter"
+              ],
+              "follow_reason": "Client is stuck in decision-language and intellectual epistemology about fear vs. intuition; these edges address the reframe (deciding=fear), the body-vs-head gap, the outcome-attachment underneath, and the composed-smile pattern visible in the transcript."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "if-you-think-youre-deciding-youre-in-fear",
+              "intellectual-question-with-emotional-body",
+              "what-makes-you-care-about-the-outcome",
+              "the-happiness-filter"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.005183,
+            "ms": 2900,
+            "input_tokens": 4008,
+            "output_tokens": 235,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses repeating patterns and limiting beliefs, but the client's current concern is not about a recurring pattern—it's about distinguishing signal from noise in a one-time decision between two jobs, with opposite fears that may or may not be tracking reality.",
+              "follow_edges": [],
+              "follow_reason": "None of the candidate edges (blocker, hang-out-with-it, revert-to-pattern, change-or-no-change visualization) map to the client's immediate diagnostic problem: whether fear is distorting intuition in a singular choice."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "address-the-blocker-not-the-symptom",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.004774,
+            "ms": 2505,
+            "input_tokens": 3784,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "if-you-think-youre-deciding-youre-in-fear",
+            "file_path": "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+            "category": "principles",
+            "candidate_edges": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "how-do-you-not-trust-it",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly addresses the client's core diagnostic: the felt experience of deciding IS the fear, not a separate problem to solve. Client is stuck in the paradox that articulating fears doesn't tell them if fears track reality—this principle dissolves that paradox by reframing the decision-feel itself as the diagnostic.",
+              "follow_edges": [
+                "how-do-you-not-trust-it",
+                "do-the-next-most-obvious-thing",
+                "fear-is-about-feeling"
+              ],
+              "follow_reason": "These edges move from diagnosis (what the decision-feel means) to the next step: surfacing what the fear is actually about, and how to work with it once named. The client is ready to go deeper into the fear itself, not stay in the meta-analysis of whether fear is real."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "how-do-you-not-trust-it",
+              "do-the-next-most-obvious-thing"
+            ],
+            "edges_skipped": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.005253,
+            "ms": 3251,
+            "input_tokens": 4003,
+            "output_tokens": 250,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is no longer in the intellectual-question phase; they've already dropped to the emotional body (\"constrained,\" \"overextended\") and are now stuck in a different diagnostic loop—whether articulated fears track reality. This read describes the *opening move*, not the current impasse.",
+              "follow_edges": [],
+              "follow_reason": "Both candidate edges are waypoints for the intellectual-question pattern (naming the gap, finding the real topic). Client has moved past that threshold and doesn't need them now."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "cost_usd": 0.004457,
+            "ms": 2467,
+            "input_tokens": 3537,
+            "output_tokens": 184,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "what-makes-you-care-about-the-outcome",
+            "file_path": "coach/questions/what-makes-you-care-about-the-outcome.md",
+            "category": "questions",
+            "candidate_edges": [
+              "visualize-the-felt-aftermath",
+              "what-do-you-think-you-need-to-be-free"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is stuck in outcome-attachment paralysis (\"both could still be fear responses\")—this question directly dissolves that by revealing the values live in how-they-are, not the result, which is the exact move needed to break the diagnostic loop.",
+              "follow_edges": [
+                "what-do-you-think-you-need-to-be-free"
+              ],
+              "follow_reason": "Client is articulating opposite fears (too safe vs. overextended) without knowing if they track reality; this edge explores what freedom from outcome-attachment actually requires, which is the next logical step after naming the attachment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "what-do-you-think-you-need-to-be-free"
+            ],
+            "edges_skipped": [
+              "visualize-the-felt-aftermath"
+            ],
+            "cost_usd": 0.005063,
+            "ms": 2840,
+            "input_tokens": 4038,
+            "output_tokens": 205,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "the-happiness-filter",
+            "file_path": "coach/reads/the-happiness-filter.md",
+            "category": "reads",
+            "candidate_edges": [
+              "confidence-only-where-approval-isnt-needed",
+              "joy-as-matriarch",
+              "loyalty-under-low-affection",
+              "triggered-vs-big-emotion",
+              "we-never-fight",
+              "whats-the-ultimate-thing-youre-running-from"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's smile stays fixed even while articulating opposite fears and diagnostic paralysis—the happiness filter is the exact mechanism preventing them from contacting what's real underneath the intellectualization.",
+              "follow_edges": [
+                "confidence-only-where-approval-isnt-needed",
+                "whats-the-ultimate-thing-youre-running-from"
+              ],
+              "follow_reason": "First edge tracks the approval-dependence that often roots the filter; second edge probes whether the \"too safe\" vs \"too much\" polarity masks a deeper fear about visibility or constraint that the filter is protecting."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "confidence-only-where-approval-isnt-needed",
+              "whats-the-ultimate-thing-youre-running-from"
+            ],
+            "edges_skipped": [
+              "joy-as-matriarch",
+              "loyalty-under-low-affection",
+              "triggered-vs-big-emotion",
+              "we-never-fight"
+            ],
+            "cost_usd": 0.004414,
+            "ms": 2745,
+            "input_tokens": 3404,
+            "output_tokens": 202,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0109437,
+        "walker_total_cost_usd": 0.029144000000000003,
+        "total_cost_usd": 0.040087700000000004,
+        "seed_detection_input_tokens": 906,
+        "seed_detection_output_tokens": 156,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22774,
+        "walker_total_output_tokens": 1274,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2764,
+        "walker_total_ms": 16708,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.040087700000000004,
+      "ms": 19476
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.010975700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.010975700000000001,
+        "seed_detection_input_tokens": 793,
+        "seed_detection_output_tokens": 185,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3527,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.010975700000000001,
+      "ms": 3528
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.011013700000000001,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011013700000000001,
+        "seed_detection_input_tokens": 851,
+        "seed_detection_output_tokens": 181,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3249,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.011013700000000001,
+      "ms": 3250
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-haiku-4-5",
+        "seed_detection_cost_usd": 0.0110097,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0110097,
+        "seed_detection_input_tokens": 882,
+        "seed_detection_output_tokens": 174,
+        "seed_detection_cache_read_tokens": 92577,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2737,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 14
+      },
+      "cost_usd": 0.0110097,
+      "ms": 2739
+    }
+  ]
+}

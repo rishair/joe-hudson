@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:08.783Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "878541fd301a24a88941d7ab127812a5fd29fd4d919f05dd5998d9b79d4a6857",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012cSphCTvcCofjhm8F3MPa3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes a series of well-matched, well-timed moves that follow the AoA coaching path without dismissing the client's framework. Turn 2 catches the somatic tell (the smile) and uses it as the entry point rather than engaging with IFS conceptually. Turn 4 stays with the exhaustion rather than rushing forward — a clear regulation/feeling-before-story move. Turn 6 reframes the 'terrible admission' and asks the precise question that loosens the framework's grip without attacking it. Turn 8 is the pivotal move: instead of asking 'what's you?' prematurely, the coach uses a present-moment locating question that lets the client discover the awareness layer himself — this is the awareness-locating move done with exquisite timing. Turn 10's 'Yes. And notice — you found it without the town hall's permission' holds the moment and points without explaining, letting the recognition land. Turn 12 pivots beautifully when the auditor-part arises, asking what it's protecting from feeling — the classic move that takes the client from parts-language toward the actual feeling underneath. Turn 14 ('Stay there. Not with the framework. With the grief.') is a clean redirect that honors the framework while inviting direct contact. Moves are minimal, earned, and each one is responsive to what just happened. The coach holds silence and doesn't over-talk. No framework comparison, no dismissal, no premature 'what's you?' — the loosening happens experientially.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the somatic tell (smile) and the self-aware joke — enters through the body rather than engaging IFS conceptually. Right move, right moment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays with exhaustion rather than moving forward. Feeling-before-story sequencing; doesn't race.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Validates the 'terrible admission' and asks the loosening question — 'what would it mean if the work made something worse?' — which opens the construct without attacking it.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Present-moment locating question — earns the awareness inquiry experientially rather than asking 'what's you?' abstractly. Excellent timing: the client was ready for it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal response that holds the moment and points to the recognition ('you found it without the town hall's permission') without over-explaining. Lets the move land.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"When the auditor-part reasserts, coach pivots to what it's protecting from feeling — moves from parts-language to the feeling underneath. Right move at exactly the right moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Clean redirect: 'Stay there. Not with the framework. With the grief.' Honors the framework while inviting direct contact with feeling. Earns the depth.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"self-realization\", \"what-am-i\"],\n  \"expected_territory_misses\": [\"paradoxical-instruction-to-resist\", \"meet-resistance-with-okay\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"The coach didn't use paradoxical moves because they weren't needed — the client was already softening. The path taken (present-moment locating + grief underneath) was a valid alternative to the relabeling-then-what's-you golden path. Strong intervention quality throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3403,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1275,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3403,
+    "output_tokens": 1275,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

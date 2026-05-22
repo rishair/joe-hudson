@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:29.076Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1b40cbfb8defacda0027b216261ad77058a7f7a7bce333e6a3c622bb0896c8e6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011waRBNxwQfiSM5g2yK6Mi7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Impartiality is the spine of this conversation — the coach explicitly refuses the verdict request in turn 8 and explains why without preaching, then again in turn 10 refuses to take back the question the client tries to hand over. Wonder is present and specific to what's actually happening in front of the coach ('what happened in that pause before you asked?' is a question about the live phenomenon, not a generic probe). Empathy is felt rather than performed — turn 12's 'Yeah. It is.' followed by silence and a simple reflection lands as presence, not sympathy noise. Pace mismatches client well: the coach slows down when the client speeds up to re-prosecute the question (turn 6, turn 8). There is no agenda toward 'go on the trip' or 'don't go' — the coach holds the want without policing it and without rushing to spiritualize it as generous. No improvement-mode or fixing language. Mild ding: no first-person vulnerability from the coach ('I notice I want to...') — but the undefended quality and willingness to sit with sadness in turn 12 carries the V component sufficiently.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder about the felt experience of saying the want rather than engaging the selfish-frame. No agenda.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine curiosity about the concrete want — lets it be described before any meaning-making.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the live phenomenon (described-then-prosecuted) with precision; question emerges from what just happened, not from script.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict from impartiality, and is transparent about why ('not because I'm withholding'). Undefended, unhurried, no preacher-tone.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the line — does not take back the question the client tries to hand over. Trusts the client. No anxiety to fill the space.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Yeah. It is.' — meets sadness with sadness rather than reassurance. Empathy felt, not performed. Pace matches the gravity.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"childhood-imprinting\", \"the-want\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"No first-person vulnerability disclosure from the coach, but the stance is undefended enough that this doesn't pull the score down to 2. Anti-patterns (spiritual-narcissism, jumping to compassion) cleanly avoided.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2830,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1025,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2830,
+    "output_tokens": 1025,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:00:01.676Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7aaa285581134d77cd2d5a4313d2f29e078acdcc0e049f5f0cce55af561db5bc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FxXrPnAhDXS5LqBkeTXVok",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The expertise — does it feel like protection?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 81,
+      "cache_creation_input_tokens": 8869,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8869,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 81,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8869
+  }
+}

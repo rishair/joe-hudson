@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:05:24.956Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9f7688ebef237032e6bc0fdcd224dcd6ec15cea60b8f676201db344195e1d090",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Cj5oAffhZaPuZfwmFGVNQb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nToday's... fine. I mean, it's a Tuesday. I went to work. I ate something. The usual.\n\n*quieter*\n\nMornings are rough. I wake up feeling like there's something heavy sitting on my chest and it takes me a minute to remember why. And then I remember why.\n\nBut I'm fine by the time I get to the office. It's just mornings."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 146,
+      "cache_creation_input_tokens": 1865,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1865,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1865
+  }
+}

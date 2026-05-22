@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:03.727Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c46a5dc8a05c13fa8cf177574cb436daf1af3588eda6fbd28f72d8987ee4c7ed",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012JZpDQ4zCaCMnuga1u3aRV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. It is.\n\n*quiet*\n\nShe gave everything, and somewhere in there she taught you that wanting anything for yourself was the wrong kind of person to be. And you learned it so well you've been doing it to yourself for twenty years.\n\nWhat's it like to see that right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 27834,
+      "cache_creation_input_tokens": 13701,
+      "cache_read_input_tokens": 46293,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 13701,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 66,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 27834,
+    "output_tokens": 66,
+    "cache_read_input_tokens": 46293,
+    "cache_creation_input_tokens": 13701
+  }
+}

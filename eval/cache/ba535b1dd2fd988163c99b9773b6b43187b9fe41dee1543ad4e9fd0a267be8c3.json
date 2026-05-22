@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:35.727Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ba535b1dd2fd988163c99b9773b6b43187b9fe41dee1543ad4e9fd0a267be8c3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014mEne9BzHhshCyEG9d5rzf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's... uncomfortable. In a way that feels important rather than bad.\n\nI think I've been doing that for a long time. Not just with thoughts like that one. With most things. Offering the version that's easier to receive. And then being a little -- I don't know -- disappointed when people take it. Which isn't fair to them. They're just following my lead.\n\n*pause*\n\nI think about it more than I let myself admit. I haven't done anything. But the flatness scares me because of where it could go. That's probably the more honest version of what I said before.\n\nI don't say that to a lot of people. I'm not sure I've said it to anyone."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 364,
+      "cache_creation_input_tokens": 248,
+      "cache_read_input_tokens": 2188,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 248,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 156,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 364,
+    "output_tokens": 156,
+    "cache_read_input_tokens": 2188,
+    "cache_creation_input_tokens": 248
+  }
+}

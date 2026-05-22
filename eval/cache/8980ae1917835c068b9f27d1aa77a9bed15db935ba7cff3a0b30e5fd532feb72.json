@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:59.904Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8980ae1917835c068b9f27d1aa77a9bed15db935ba7cff3a0b30e5fd532feb72",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019NFuxgqJjW7r2kp1arEeTb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pauses, tilts head slightly)*\n\nI mean... I've heard versions of that. The \"stop resisting and it loses power\" thing. That's basically what mindfulness is, right? Observe it without engaging. I've done that. I have a pretty solid practice, actually — I can sit with discomfort, I can notice the thought without fusing with it, I know the ACT stuff, the defusion techniques...\n\n*(waves hand slightly)*\n\nAnd it's fine, it helps a little, but the voice just... waits. It's very patient. I'll do twenty minutes of \"observing without judgment\" and then I close my laptop and it goes \"okay, but you're still behind on that project and you handled that conversation badly and by the way you've been mediocre at basically everything important to you for three years.\"\n\n*(short laugh)*\n\nSo. I don't know if it's exactly a fight. It feels more like... it's just there. Like weather. You can't fight weather."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 225,
+      "cache_creation_input_tokens": 1570,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1570,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 223,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 225,
+    "output_tokens": 223,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1570
+  }
+}

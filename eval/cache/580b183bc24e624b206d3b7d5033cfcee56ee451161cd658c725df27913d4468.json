@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:23.164Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "580b183bc24e624b206d3b7d5033cfcee56ee451161cd658c725df27913d4468",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Rzgh6W9yvd8WwfRoLeHosd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Where does she go?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15780,
+      "cache_creation_input_tokens": 9743,
+      "cache_read_input_tokens": 7900,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9743,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 8,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 15780,
+    "output_tokens": 8,
+    "cache_read_input_tokens": 7900,
+    "cache_creation_input_tokens": 9743
+  }
+}

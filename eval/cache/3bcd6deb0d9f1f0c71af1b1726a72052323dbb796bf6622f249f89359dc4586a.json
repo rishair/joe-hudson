@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:16.027Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3bcd6deb0d9f1f0c71af1b1726a72052323dbb796bf6622f249f89359dc4586a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VMe3E21wFQm9cDFQM8ggoz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"Static that got turned off\" — that's a precise description. Stay with that for a second. Where in your body do you notice the place where the static used to be?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12986,
+      "cache_creation_input_tokens": 20162,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 20162,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 40,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12986,
+    "output_tokens": 40,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 20162
+  }
+}

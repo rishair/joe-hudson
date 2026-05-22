@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:48:48.370Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "80d8859facdd5f395c01ca410ba7a83f41443e554ba6442788a32b97b28255df",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GAsnV7Cp54ECtVKEtJpMnT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You don't have to do anything with it.\n\nThat's actually the first thing you've said today that didn't have a next step attached to it.\n\n*(pause)*\n\nWhat's happening in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9476,
+      "cache_creation_input_tokens": 404,
+      "cache_read_input_tokens": 25367,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 404,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9476,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 25367,
+    "cache_creation_input_tokens": 404
+  }
+}

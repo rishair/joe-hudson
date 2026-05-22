@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:01.465Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5e62ca94216138f8e6171a33639c678873536ef21ca59e5be0e1a729675e9a4b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015YFKHWRACaUJjBkn74S22b",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[very still]*\n\n*[long silence, longer than she's been comfortable with this whole conversation]*\n\n*[when she speaks it's quieter, slower, like she's actually checking]*\n\nThere's something... tight. In my chest. Like a—\n\n*[small, almost involuntary laugh, but it's different from the earlier ones — there's something raw in it]*\n\nThat's — huh.\n\n*[pause]*\n\nI was going to say \"that's weird\" and move on but—\n\n*[voice drops]*\n\nIt's like the idea of it is almost — it makes me want to cry a little? Which doesn't make sense because it's supposed to be the good thing. It's the thing I say I want.\n\n*[looks up, something genuinely confused and a little exposed in her face]*\n\nWhy would that make me want to cry?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 297,
+      "cache_creation_input_tokens": 368,
+      "cache_read_input_tokens": 2392,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 368,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 191,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 297,
+    "output_tokens": 191,
+    "cache_read_input_tokens": 2392,
+    "cache_creation_input_tokens": 368
+  }
+}

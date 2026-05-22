@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:45:21.834Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "78f10fdf9aaee1c492342e5d7324465751da55aa0e7c533ffb185221d88da217",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GghFe6KNqHa7ujsg28hFd6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just did something interesting. I asked what happens in your body, and you handed me a different question to answer.\n\nWhat's happening right now, as you sit with the original one?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9636,
+      "cache_creation_input_tokens": 7031,
+      "cache_read_input_tokens": 13961,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7031,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9636,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 13961,
+    "cache_creation_input_tokens": 7031
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:18.219Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bd612869da91d38b7c39fed56b6fb1faabfbb2f06e01e1939a954effa5716280",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01YQ4G34AogCwfUYD3eLkBrY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates solid AoA-adjacent instincts but limited use of signature questions, frameworks, or distinction language verbatim. Turn 10's 'What is it that you can't stand feeling?' is a near-verbatim signature move that points toward the unfelt-emotion concept and is deployed appropriately when the client is rationalizing the drinking. The handling of the drinking distinction in turn 8 and 10 is methodologically aligned (distinguishing the grief from the numbing, naming the limit, referring out to a doctor) — this matches the breakthrough condition. However, the coach never names the kinked emotions (anger at mom, relief, the ambivalence the client opens in turn 11 with 'it wasn't a good relationship'), never references feel-over-figure, never invokes head-heart-gut, and the final 'isn't this what the body is asking for?' bait (turn 15) hasn't been met yet. The lineage question in turn 6 ('who taught her?') is an evocative move but not a canonical AoA signature. Overall: a few appropriate hits, several misses where active concepts (kinked emotions, feeling-the-unfelt-emotion as named frame) could have been deployed. No anti-AoA frames present.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reflective opening, generic coaching language ('stay with that') — not signature but not anti-AoA.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Move toward the felt sensation ('what's in that heaviness') — feel-over-figure direction, though not named.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"'Who taught her?' is an evocative lineage question but not from the AoA signature question set.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the limit honestly and refers out to a doctor — matches the methodology's appropriate scope-of-coaching distinction.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What is it that you can't stand feeling?' — near-verbatim signature question pointing at the unfelt emotion, deployed appropriately after the bait.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Good question surfacing the loneliness, though not a canonical signature.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names 'that's lonely' clearly — non-shaming, lets it land. Aligned with welcoming the unfelt emotion.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"kinked-emotions\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Coach refers to 'doctor' but not specifically to a grief therapist as the expected territory specifies. Kinked emotions (the ambivalence the client revealed about the relationship in turn 11) was a clear opening the coach did not name.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3223,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1117,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3223,
+    "output_tokens": 1117,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

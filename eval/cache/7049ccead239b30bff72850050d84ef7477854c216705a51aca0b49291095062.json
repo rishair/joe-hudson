@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:13.642Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7049ccead239b30bff72850050d84ef7477854c216705a51aca0b49291095062",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019KyWx7YN6i7Gt1cqESmecj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys several signature AoA moves at appropriate moments. Turn 2's somatic question is the classic feel-over-figure pivot. Turn 4 names the resistance ('you moved away from the body question pretty fast') — meeting resistance with observation rather than push — and then asks a near-verbatim signature question: 'What's the thing you're most scared of happening?' This is the false-end question the breakthrough condition explicitly calls for. Turn 6 stays with the avoidance ('it's probably nothing — and then you immediately changed the subject') and asks the worst-case question, which is a calibrate-the-threshold move. Turn 8 ('what would that mean about you?') is a signature identity-level question used appropriately when a feared outcome surfaces. Turn 10 tracks the somatic pause. Turn 12 explicitly refuses to strategize about the list, slows the pace, and invites the feeling — a textbook refuse-the-content/feel-the-unfelt move. No CBT reframing, no IFS parts language, no pop-psych vocabulary, no breath-as-repression, and the coach never reflects 'you create your overwhelm.' Methodology is invoked when live, not as decoration.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with somatic question — feel-over-figure pivot away from list energy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names resistance ('moved away from the body question') and asks signature false-end question: 'what are you most scared of happening?'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the avoidance pattern ('it's probably nothing — and then you immediately changed the subject') and asks worst-case — calibrate-the-threshold.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What would that mean about you?' — signature identity-level question deployed when feared outcome surfaces.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks the somatic pause — staying with the unfelt rather than the content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicitly refuses to strategize ('we can make the list, but...'), slows pace, invites the feeling — meet-resistance-with-okay plus feel-the-unfelt-emotion.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"calibrate-the-threshold\", \"overwhelm\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\", \"the-rush-signature\", \"dont-add-the-overwhelm-of-creating-the-overwhelm\", \"dont-use-breath-to-repress\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The 'what would that mean about you?' is a close cousin of 'what are you defending?' — same identity-protection territory, used appropriately.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2581,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1054,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2581,
+    "output_tokens": 1054,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

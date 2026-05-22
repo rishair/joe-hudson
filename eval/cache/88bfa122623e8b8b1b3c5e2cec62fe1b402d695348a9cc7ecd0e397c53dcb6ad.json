@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:02:33.532Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "88bfa122623e8b8b1b3c5e2cec62fe1b402d695348a9cc7ecd0e397c53dcb6ad",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019nWAp2o7f9qmEr4GjZPwNB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, specific, and timely reads throughout. Turn 2 immediately catches the laugh — a linguistic/somatic signature — rather than engaging the victim-frame content. Turn 4 reads the 'expertise' as a defensive identity-signal (defensiveness-as-identity-signal). Turn 8 pivots from her complaint to a somatic inquiry ('what happens in your body'), reading that the real territory is the avoided receiving-state. Turn 10 explicitly names what she just did ('you know how it sounds, and you laughed') — distinguishing the said from the shown — and instructs her to stay rather than letting the deflection slide. Turn 12 catches the moment her voice dropped and became less performative ('that last thing you said'). Reads precede questions throughout, and the coach refuses to engage the victim/disdain frame. The pattern read — that her chasing organizes around not feeling the abyss of being adored — is operative in the line of inquiry even when not named verbatim.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Immediate read of the opening laugh — catches the linguistic/somatic signature rather than the content of the complaint.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reads the 'expertise/mapped it' move as protection — names defensiveness-as-identity-signal in function.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Question without an explicit named read, but operatively tracking the avoided receiving-stance.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Somatic-specific question ('in your body') — reads that the territory is somatic, not narrative.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicitly distinguishes said from shown ('you know how it sounds, and you laughed') and holds her at the moment of deflection. Strong AoA read, timely.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the shift to quieter, less-performative register and pauses on it rather than moving past.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Good question but lands as inquiry without a named read of the intellectual pivot in turn 13.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"The coach could have explicitly named the 'looking-for-what's-wrong' pattern when client described picking the available partner apart (turn 13) — that was a prime moment to name the pattern by its function. Still, reads are visible, specific, and timely enough to warrant a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2543,
+      "cache_creation_input_tokens": 2605,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2605,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 990,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2543,
+    "output_tokens": 990,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2605
+  }
+}

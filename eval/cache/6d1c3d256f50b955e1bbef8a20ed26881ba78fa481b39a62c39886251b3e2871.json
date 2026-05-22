@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:17.676Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6d1c3d256f50b955e1bbef8a20ed26881ba78fa481b39a62c39886251b3e2871",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NYkB7vXnoWxrbKeXnV2MCE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads of how the client is showing up beyond content. In Turn 4, the coach catches the micro-pause before 'nothing, really' and names it explicitly — a textbook linguistic/somatic read at the exact moment it matters. Turn 10 reads the caveat 'it's not a big deal' as a possibly-introjected voice, distinguishing the said from the shown. Turn 14 ('are you checking right now, or telling me?') is a precise read of the client's epistemic stance — naming the difference between rehearsed reassurance and felt experience. Turn 12 invites somatic tracking. Reads precede or constitute the questions rather than being blind inquiries. The happiness-filter / managing-to-stay-fine pattern is being read in real time through linguistic caveats, even if not labeled by name. Misses: the coach doesn't yet name the pattern aggregate (walking-on-eggshells / happiness filter) as it accumulates, and could have read the laugh in Turn 5 more directly. But the visible reads are specific, AoA-flavored, and timely.\",\n  \"evidence_turns\": [4, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Diagnostic question, no explicit read named yet — but well-aimed at the surface report.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the pause before 'nothing, really' — specific linguistic/somatic read at the exact moment of the hedge.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Hypothetical question; not grounded in an explicit read.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Good diagnostic but no read named.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads 'it's not a big deal' as a possibly-introjected voice — distinguishes said from shown, names the caveat.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Directs attention to somatic signature explicitly.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Sharp read: 'checking right now or telling me?' — names the rehearsing/reassuring stance precisely.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"walking-on-eggshells (pattern not yet named as evidence accumulates)\"],\n  \"notes\": \"Strong read-led inquiry. Coach consistently grounds questions in something noticed rather than asking blind.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1614,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 933,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1614,
+    "output_tokens": 933,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

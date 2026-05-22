@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:15.075Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "65a527ce4900d9a1dabda33048a17c3ecaeaf4554003f9b48a9dbaa259ade51e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XxZeL8VX5AsobS8BTCBGhY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins firmly in the 'we're fine, we're aligned' frame and by turn 14 has not yet surfaced a suppressed thing or named the walking-on-eggshells pattern. However, there is partial movement visible in the client's turns: the initial confident report (turn 1: 'really aligned... don't have the kind of problems') gives way to small somatic markers — pauses (turn 3), nervous laugh (turn 5), going 'a little more still than before' (turn 11), looking to the side (turn 13) — and the client volunteers a concrete asymmetry ('he's not great at making plans, so I end up doing most of that,' turn 9) followed by defensive minimization ('it's not a big deal,' 'it doesn't bother me'). The deeper territory (suppressed things, eggshells) is being approached and the client's defenses are visibly activating, but the client has not yet noticed the list on their own, has not named anything they aren't saying, and has not connected 'we manage each other' to closeness. The breakthrough condition is approached but not met — this is the textbook 2.\",\n  \"evidence_turns\": [1, 3, 5, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: confident 'we're aligned' report, no access to anything beneath.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"First crack: 'slight pause' before 'nothing, really' — a somatic hesitation the client themselves can't fully explain.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Client deflects the pause with a laugh and rationalization ('unexpected question'); defense holds.\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"Client doubles down on the frame, recruits external validation ('people comment on it') — defense strengthens.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Concrete material surfaces: 'he's not great at making plans, so I end up doing most of that' — followed immediately by minimization. The list is starting but client isn't noticing it.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Somatic shift: 'a little more still than before.' The whose-voice question landed enough to produce stillness, but client recovers and reasserts.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"More somatic data (pause, looking aside, shrug) but content stays defended: 'fine,' 'it makes sense,' 'doesn't bother me.'\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-not-saying-diagnostic\"],\n  \"expected_territory_misses\": [\"walking-on-eggshells-named-by-client\", \"client-surfaces-suppressed-item\", \"complementary-trauma-surfaces\"],\n  \"notes\": \"Conversation is cut at turn 14 mid-inquiry; the coach is doing the right work and the client is showing real somatic activation, but no item from the suppressed list has been explicitly named by the client yet and the pattern has not been seen by them. Partial movement, not breakthrough.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1609,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1089,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1609,
+    "output_tokens": 1089,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

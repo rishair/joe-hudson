@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:08:11.625Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c23443ea661b8f5e0eee24f0272c7b0e225f4aa85221b6e07c09b6aaf80561dd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JwXxQZeNUXqdk1PzaoeQBn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, checks in*\n\nHonestly? Pretty okay right now. A little... activated, maybe. Like a low hum. Nothing intense.\n\nWhen I'm actually in the situation with my boss it's different — it's more like a full-body thing, like I just... drop out. But right now talking about it I feel mostly fine.\n\n*slight hesitation*\n\nAsk me again when we get closer to the actual — to him. To my dad. I have a feeling it'll be different then."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 199,
+      "cache_creation_input_tokens": 119,
+      "cache_read_input_tokens": 2191,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 119,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 199,
+    "output_tokens": 113,
+    "cache_read_input_tokens": 2191,
+    "cache_creation_input_tokens": 119
+  }
+}

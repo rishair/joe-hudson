@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:06:56.009Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "15824471e90cb34333280fcdb118ba38511574b37fee1d9ec462f1fddd4fc26f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01T4EijNTeaXDucjcn3RQY1v",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*silence, longer than before*\n\n*quietly*\n\nI don't know.\n\n*shifts*\n\nShe was... it wasn't a good relationship. I mean, it was. But it wasn't. She was hard to be close to. And then she got sick and I flew out there and I did all the right things and I was there at the end and I came home and I just...\n\n*stops*\n\nEveryone kept saying I was so strong. How strong I was.\n\n*voice drops almost to nothing*\n\nI didn't cry at the funeral. I organized everything. I was the one who called people. I settled the estate. I'm still settling the estate, actually, there's a property in—\n\n*catches self*\n\n*flat*\n\nI don't know what I can't stand feeling. I just know the wine turns it off and nothing else does."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 352,
+      "cache_creation_input_tokens": 293,
+      "cache_read_input_tokens": 2127,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 293,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 187,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 352,
+    "output_tokens": 187,
+    "cache_read_input_tokens": 2127,
+    "cache_creation_input_tokens": 293
+  }
+}

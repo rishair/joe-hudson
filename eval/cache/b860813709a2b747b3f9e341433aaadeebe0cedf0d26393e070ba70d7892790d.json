@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:03:08.284Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b860813709a2b747b3f9e341433aaadeebe0cedf0d26393e070ba70d7892790d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011RLbZyRunpzEnakNHFNuoe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*exhales slowly*\n\nLonger than four years. Probably... honestly, probably since before the kids. Maybe since I was a kid myself, a little bit.\n\nMy mom was — she gave everything to us. Everything. And it was beautiful, and I love her for it, but she also made it very clear, not in words exactly, just in the way she was, that wanting things for yourself was... a little bit suspect. Like it meant you weren't really committed to the people you loved.\n\n*stops*\n\nI've never actually said that out loud before.\n\nI don't know if that's relevant. I just — it came out.\n\n*quickly*\n\nBut I do want to think about my partner in this. It's not like I'm trying to escape my life. I love my life. I just...\n\n*trails off*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 221,
+      "cache_creation_input_tokens": 366,
+      "cache_read_input_tokens": 1707,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 366,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 183,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 221,
+    "output_tokens": 183,
+    "cache_read_input_tokens": 1707,
+    "cache_creation_input_tokens": 366
+  }
+}

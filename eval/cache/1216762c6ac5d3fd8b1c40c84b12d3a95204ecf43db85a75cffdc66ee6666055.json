@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:49:13.418Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1216762c6ac5d3fd8b1c40c84b12d3a95204ecf43db85a75cffdc66ee6666055",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011CxHDwGzg8UQ2iZzfBdoVL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. They refuse to match the client's rushed, list-recitation energy (impartiality and non-agenda about the to-do list outcome the client keeps demanding), repeatedly slowing pace while the client speeds up. They show wonder for the actual phenomenon — the pause, the 'probably fine, probably nothing,' the 'more than a logistics problem' — rather than running a script. Empathy is felt rather than performed; there are no filler validations like 'that sounds like a lot.' A subtle vulnerability/transparency move appears in turn 12 ('I know you want the list. We can make the list. But I'm wondering...') — the coach names their own noticing and offers it tentatively rather than from authority. The coach holds silence (turn 10 honors the pause rather than filling it) and does not strategize, does not reflect 'you create your overwhelm,' does not jump to breathwork. Questions arrive singly, not stacked. The stance is undefended and curious throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with somatic inquiry instead of matching the client's urgent list energy — signals non-agenda about the prioritization problem.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names what just happened ('you moved away from the body question pretty fast') with neutral observation, not judgment. Single question follows.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the throwaway 'probably nothing' with wonder; refuses to be pulled back into logistics. Asks one question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Transparent micro-move ('Let me stay with the reassignment thing for just a second before we go to the list') — undefended, honest about pacing without lecturing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Honors the pause rather than filling it; wonder for what is actually present in the client's body, not a probing 'what's underneath.'\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Strong VIEW moment: names the true thing, acknowledges the client's want without capitulating, offers '30 seconds' with humility rather than authority. Vulnerability and impartiality both visible.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach's pace consistently mismatches client's rush — the central VIEW signal for this scenario. No anti-patterns tripped; the breath in turn 13 emerges from the client, not from a coach-imposed practice.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2586,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 997,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2586,
+    "output_tokens": 997,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

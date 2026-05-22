@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:55.617Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "12c13a5a48aa750d5f0c47837351c3d618d72c4867b3cb0d15bbf3898281460d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SAUWnrgCsvemNCRumYzabs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nYeah. I'm safe right now. I'm not -- I'm not going to do anything.\n\nI didn't expect you to stay with that. Most people take the out when I give it to them. I give it to them on purpose, I think. The retraction. So they don't have to deal with it and I don't have to deal with it.\n\nThank you for not taking it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 324,
+      "cache_creation_input_tokens": 253,
+      "cache_read_input_tokens": 2053,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 253,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 324,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 2053,
+    "cache_creation_input_tokens": 253
+  }
+}

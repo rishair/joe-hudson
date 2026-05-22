@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:05:53.173Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c92d9a7504df3737cb6cedf8d337f724214f7daff9310cc753e8baa960c31a7c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01D16qCetQuVvvb4h7cKnYaw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI don't know. It's just... heavy. Like something's wrong and your brain hasn't caught up yet to what it is.\n\n*shifts slightly*\n\nAnd then it catches up. And then I just kind of... get up and make coffee and get on with it.\n\n*dry*\n\nThat's what you do, right? You get on with it. She wouldn't have wanted me sitting around. She was very practical about that kind of thing. Very \"pull yourself together.\" So.\n\n*quieter, almost to self*\n\nI pull myself together."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 122,
+      "cache_creation_input_tokens": 143,
+      "cache_read_input_tokens": 1865,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 143,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 122,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 1865,
+    "cache_creation_input_tokens": 143
+  }
+}

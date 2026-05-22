@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:46:52.785Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7913b73be515066e72896abd52174f1dca6920fd5d0ce02973a4841f12eb980a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Gf9eZ5VunJVUuWqww4QzSk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\n*quiet*\n\nWhat happens if you sit with it right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21770,
+      "cache_creation_input_tokens": 297,
+      "cache_read_input_tokens": 20988,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 297,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21770,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 20988,
+    "cache_creation_input_tokens": 297
+  }
+}

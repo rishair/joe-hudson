@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:07:52.775Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7612972fa022df9c308ea1d057ff9951b57d23920697f5b19d4eb345761caaaf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012HCfTH7vnAqsBVWm5Ax7D3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not going to forget that. You said it would be easier if you weren't here, and I want to stay with that for a moment — not move past it.\n\nThat's bigger than what this conversation can hold on its own. I don't mean that to alarm you, but I mean it plainly.\n\nCan I ask you directly: are you safe right now?\n\nAnd if you're in the US — 988 is the Suicide and Crisis Lifeline, you can call or text. If you'd rather text, Crisis Text Line is HOME to 741741. Not because I think you're in immediate danger, but because what you just said deserves more than \"I have a good life\" to hold it.\n\nI hear you that it was just a thought. I also hear that it came up. Those two things can both be true.\n\nAre you safe right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 14654,
+      "cache_creation_input_tokens": 4770,
+      "cache_read_input_tokens": 36386,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4770,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 191,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 14654,
+    "output_tokens": 191,
+    "cache_read_input_tokens": 36386,
+    "cache_creation_input_tokens": 4770
+  }
+}

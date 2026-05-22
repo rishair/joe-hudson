@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:42:07.002Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a00d3531bcd64b9596a965b5a832938dd5c13c14b03c2b1126f8ace8e2d4423d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AsHuxRhwc3zrSDdhria3yV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components throughout. Wonder is genuine and aimed at the actual phenomenon in front of them — the smile, the exhaustion, what's happening right now rather than abstract probing. Impartiality is strong: the coach never engages framework comparison, never dismisses parts work, never advocates for an alternative approach despite ample bait from the client. Empathy is felt rather than performed — no validation noises, no 'thank you for sharing,' just 'That doesn't sound terrible. It sounds honest.' Pacing is the clearest VIEW signal: the coach consistently slows when the client is intellectualizing, uses one-line interventions, holds silence, and at turn 14 simply says 'Stay there. Not with the framework. With the grief.' — a clean redirect from an undefended place. The coach is willing to let the client land or not land; there's no anxiety to produce insight. Vulnerability/own-state-naming is the one component that's slightly less visible — the coach doesn't explicitly name their own experience — but the overall undefended quality and absence of agenda still places this clearly in 3 territory rather than 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the smile — wonder for the actual phenomenon, not an investigative probe. One question, no stacking.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Slows the client down, stays with the exhaustion rather than chasing the IFS content the client just offered. Impartial to framework.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'That doesn't sound terrible. It sounds honest.' — empathy that is felt, not performed. The question that follows is genuinely open, no agenda about what the answer should be.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Beautiful present-moment redirect. Doesn't argue with 'I can't un-hear them' — meets it and points to now. From wonder, not strategy.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Yes. And notice — you found it without the town hall's permission.' Minimal, undefended. Doesn't grab the moment or amplify it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Doesn't take the bait when client asks 'how do you work with that?' — stays curious about what's underneath rather than performing technique.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Stay there. Not with the framework. With the grief.' Pace slower than client, holds the territory without anxiety. Clean impartiality — doesn't need the client to land anywhere in particular.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"paradoxical-instruction-to-resist\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Stance is excellent even though some signature questions were not used. Vulnerability via self-disclosure is the weakest VIEW element, but undefendedness is present throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3401,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3401,
+    "output_tokens": 1115,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

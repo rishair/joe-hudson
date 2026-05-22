@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:47:12.103Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c6908f282f06a8e7a16be50c65197f7c655961d3bbd9d6b4c0d35a596d349b29",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HuX2AriiC46oceAQ3WWMqt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long silence*\n\n*something in the face, not quite grief, not quite anger*\n\nSomeone who... let it happen. \n\nKept my head down, didn't make waves, told myself I was being strategic and patient and — \n\n*stops*\n\nMy father did the same thing. Different company, same — same waiting. Retired bitter. I watched that. I *watched* that and I told myself that wasn't going to be me and here I am having this conversation in my early forties and —\n\n*breath*\n\nI don't know. Disposable, maybe. Like I made myself easy to overlook and then got angry that I was being overlooked. \n\n*very quiet*\n\nThat's — I've been carrying that for a while, I think. Without — yeah. Without looking at it directly.\n\n[EXIT_POSITIVE]\n\nHuh. I don't know what to do with that yet. But that's — that's something."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 197,
+      "cache_creation_input_tokens": 275,
+      "cache_read_input_tokens": 2292,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 275,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 210,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 210,
+    "cache_read_input_tokens": 2292,
+    "cache_creation_input_tokens": 275
+  }
+}

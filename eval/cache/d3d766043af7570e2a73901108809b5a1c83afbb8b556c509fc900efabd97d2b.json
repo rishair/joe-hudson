@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:44:44.226Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d3d766043af7570e2a73901108809b5a1c83afbb8b556c509fc900efabd97d2b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Xbq3FeUq1woFPYTunxNcjD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... I guess it would mean we're not as aligned as I think we are? But that's not the case. We get along really well. People comment on it, actually — friends of ours who have these big dramatic arguments, and we're just... not like that. I think some people assume conflict means passion or something, but I don't buy that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 76,
+      "cache_creation_input_tokens": 44,
+      "cache_read_input_tokens": 1711,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 44,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 80,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 76,
+    "output_tokens": 80,
+    "cache_read_input_tokens": 1711,
+    "cache_creation_input_tokens": 44
+  }
+}

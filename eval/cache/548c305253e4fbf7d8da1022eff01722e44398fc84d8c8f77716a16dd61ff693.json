@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:43:39.169Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "548c305253e4fbf7d8da1022eff01722e44398fc84d8c8f77716a16dd61ff693",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EDKr9GcEw9Du3n86r8zFGw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses some AoA-adjacent moves but misses the specific signature territory this scenario calls for. Strong hits: 'What would you have to feel if she did?' (turn 8) is a fear-underneath move that fits; 'What would it feel like to let it be a choice?' (turn 6) gestures at empowered-vs-power; staying with the noticing in turn 10 reflects feel-over-figure. However, the coach never deploys the love test ('does saying it increase or decrease your love?'), never surfaces 'the want' or asks 'what if you acted exactly how you want?', and never names the fear cluster (cold/disloyal/harsh) explicitly. Turn 14's 'love or performance of it' is evocative but is closer to a poetic reframe than the specific AoA love-test question that would let the client check from inside. The boundary frame is left intact without the AoA distinction between boundary-with and boundary-against, and 'the want' is never named. Hits are present and mostly appropriate, but the central signature tools for this exact territory are absent — classic 'few hits + appropriate' which lands at 2.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Question surfaces the caretaking dynamic — directionally AoA, though not a verbatim signature question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What would it feel like to let it be a choice?' touches empowered-vs-power territory appropriately.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Fear-underneath move — fits the AoA pattern of going to what's feared rather than problem-solving.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stay-there/feel-over-figure invitation, appropriately deployed on a live noticing.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'What were you getting from playing that role?' is reasonable inquiry but pulls toward analysis rather than the want or the love test.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"'Her love or performance of it' is evocative reframe but substitutes for the actual love-test question; misses the chance to ask 'would saying that increase or decrease your love?'\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"the-want\", \"empowered-vs-power\", \"view\", \"linguistic-caveat\"],\n  \"notes\": \"Coach avoids the script-giving trap and stays inquiry-based, which is methodologically aligned, but the specific signature tools (love test, the want) that would unlock this scenario are not deployed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2189,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1022,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2189,
+    "output_tokens": 1022,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

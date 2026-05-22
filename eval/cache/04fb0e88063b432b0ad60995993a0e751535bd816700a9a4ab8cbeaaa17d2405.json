@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:01:34.863Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "04fb0e88063b432b0ad60995993a0e751535bd816700a9a4ab8cbeaaa17d2405",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LBqhWnsPtHaFGKukKFvg5X",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nUncomfortable. It's uncomfortable.\n\nBecause if I just want it... then I have to reckon with the fact that I really want it. Like, more than I've let myself admit. There's something about that place — the specific way the light comes in through the trees in the morning, and how quiet it is, and how I don't have to be anything for anyone — and I miss it. I actually miss it.\n\n*voice gets a little softer*\n\nI haven't been back in four years. Since before my youngest was born.\n\nBut then I think about my partner managing both kids alone for a week, and the logistics of it, and what they'll think — and that's where I get stuck. Because what will they think? That's the part that worries me."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 222,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1678,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 176,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 222,
+    "output_tokens": 176,
+    "cache_read_input_tokens": 1678,
+    "cache_creation_input_tokens": 0
+  }
+}

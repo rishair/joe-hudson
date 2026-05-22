@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:10.814Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fc4f82ed787f260a4457cd7b06d188e6f40d9e5d433e4b73495c1a70148fe728",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013UGcUq4PHsfA5dzi6B7tL2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness, longer than usual*\n\nIt would mean... *exhales slowly* ...that I've been doing something wrong with it. Or that I misunderstood what it was for. Because the framework isn't supposed to create the paralysis, it's supposed to resolve it. That's the whole premise — you hear the parts, they feel witnessed, they relax, Self leads. That's the arc.\n\n*slight tension in the jaw*\n\nSo if I'm more stuck than I was two years ago, either I haven't completed the work yet — which is what my therapist would probably say, and she's not wrong — or I've been... using the framework in a way it wasn't designed for. Like I've turned a therapeutic tool into an operating system. And those are different things.\n\n*pause*\n\nThe parts framework has been genuinely useful. I want to be clear about that. I'm not looking to throw it out. But I think you're pointing at something real, which is that I might be... *searches for word* ...over-applying it. Running the town hall even when there's no actual emergency requiring democratic input.\n\n*looks up*\n\nI'm not sure what I do with that though. Because now I'm aware of the parts. I can't un-hear them."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 276,
+      "cache_creation_input_tokens": 230,
+      "cache_read_input_tokens": 1791,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 230,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 280,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 276,
+    "output_tokens": 280,
+    "cache_read_input_tokens": 1791,
+    "cache_creation_input_tokens": 230
+  }
+}
