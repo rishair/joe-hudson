@@ -4,8 +4,8 @@ id: parenting-as-coaching-domain
 title: "Parenting as a Coaching Domain"
 aliases: ["parenting as the work", "parenting as coaching domain", "parenting as a coaching topic", "parenting is the work", "parenting work", "raising children as the deepest work", "the parent's coaching topic", "coaching parents", "parents in coaching", "parent-child coaching", "the parenting domain", "raising kids work", "the parenting development arc", "what happens in coaching with parents", "where parenting fits in the work"]
 tags: ["parenting", "application", "coaching", "family", "transformation", "children"]
-related: ["parenting-as-honest-mirror", "family-as-team", "hand-in-hand-parenting", "never-rob-pain-or-gold", "dont-shame-kids-they-self-shame", "joes-daughter-silent-retreat", "esme-just-need-to-be-sad", "esme-heartbreak-feels-good", "connection-as-family-metric", "loving-all-parts"]
-sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood"]
+related: ["parenting-as-honest-mirror", "family-as-team", "hand-in-hand-parenting", "never-rob-pain-or-gold", "dont-shame-kids-they-self-shame", "joes-daughter-silent-retreat", "esme-just-need-to-be-sad", "esme-heartbreak-feels-good", "connection-as-family-metric", "loving-all-parts", "teach-teenagers-to-be-their-own-authority", "esme-step-by-step-project", "joes-no-compliments-daughter"]
+sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2023-05-12_Who Owns Your Authority?"]
 ---
 
 # Parenting as a Coaching Domain
@@ -70,6 +70,16 @@ The implication for coaching parents: the work is not without cost to the child.
 
 This also shows up earlier in the daughter's story: at age 9, after a silent meditation retreat, she stopped meditating because she "didn't want to be too different from my friends" and because she was bullied for the experience when her teacher asked about it. The parent's response was not to insist she continue. The parent's response was to let her have the social development she was prioritizing, trusting that she would return to the meditation when conditions were right. She did. See [[joes-daughter-silent-retreat]].
 
+## The Authority Shift From Young Child to Teenager
+
+The parenting work changes shape with age. When children are young, the parent is the authority and should be — teaching them to sleep, to eat, to be with their emotions. As children grow, the work shifts toward teaching the child to be their own authority.
+
+The risk in continuing the early-stage authority pattern with a teenager: the teenager either rebels (the only way to develop their own voice is to fight the parental voice) or capitulates (the child learns to please rather than to listen to themselves). Both responses block the development of clean internal authority.
+
+The risk on the other side: a parent who so commits to non-authority that they refuse to provide instruction even when the child explicitly asks for it. The child has authority too, and that authority sometimes asks for instruction. The right move is to follow what the child's authority is asking for.
+
+See [[teach-teenagers-to-be-their-own-authority]] for the principle. See [[joes-no-compliments-daughter]] for the example of holding back default praise. See [[esme-step-by-step-project]] for the example of giving instruction when explicitly requested.
+
 ## The Anticipatory Grief of Children Leaving Home
 
 A predictable arc Joe names from his own experience: when his children were young, older parents told him he would hate it when they left. He dismissed this — at the time, he just wanted sleep. Years later, he reports that it will be the biggest heartbreak of his life.
@@ -116,3 +126,4 @@ A coach working with parents needs to be able to:
 ## Sources
 
 - 2022-12-23_Joe and His Daughter Discuss Fatherhood
+- 2023-05-12_Who Owns Your Authority? (the authority shift from young child to teenager)

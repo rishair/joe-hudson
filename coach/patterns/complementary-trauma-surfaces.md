@@ -5,7 +5,7 @@ title: "Complementary Trauma Surfaces"
 aliases: ["click pattern", "trauma click", "complementary surface area of traumas", "matching traumas", "the perfect match", "couples find each other through trauma", "the trauma fit", "perfectly matched traumas", "instinctual way of finding the person who can trigger us", "the trauma-matched partner", "we are wise in our trauma selection", "two patterns interlock kind of perfectly", "things that fire together wire together", "love wired to whatever happened in childhood"]
 tags: ["relationships", "partnership", "trauma", "attraction", "blame", "marriage", "trigger"]
 related: ["trauma-mapping", "childhood-imprinting", "projections", "engineering-heartbreak-to-avoid-heartbreak", "trauma-heals-in-relationship", "feeling-the-unfelt-emotion", "subconscious-partner-selection", "relationships-as-personal-growth-path", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "trigger", "anxious-avoidant-dynamic", "walking-on-eggshells"]
-sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Seeing Through Family Dynamics"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_How Relationships Reveal Us", "2022-10-26_Seeing Through Family Dynamics", "2023-04-28_How Love Gets Confused"]
 ---
 
 # Complementary Trauma Surfaces
@@ -47,6 +47,26 @@ The configuration each partner brings to the click was largely set in the first 
 "Love is associated with shame, or love is associated with authoritarianism, or love is associated with money, or love is associated with food. And that creates certain patterns, certain ways in which they're trying to get the love, certain ways in which they're scared of getting the rejection. And however that pattern gets set in or created, that's where you're going to find somebody in your romantic relationship that holds the other side of that pattern. That's why you hear so many people talk about things like, 'Oh my gosh, my husband is so much like my father. My wife is so much like my mother.'" -- Joe Hudson, How Relationships Reveal Us
 
 The "he's just like my father" recognition is the conscious mind catching up with what the body did long before the dating started. See [[childhood-imprinting]].
+
+## The Symmetric Examples: Two People Meeting Jealousy
+
+A useful pair of cases for understanding the click. Two different people each go on a date with a jealous person. Both observe the jealousy clearly. Their adult relationships diverge entirely.
+
+The first person did not learn that jealousy or possessiveness was something to be accepted as part of love. Their response is clean: "I'm not taking that on, forget it." Either the partner can drop the jealousy or the relationship does not happen. Done.
+
+The second person was taught that they are responsible for other people's emotional states. They say internally: "Oh, I will accept this jealousy even though it sucks, even though I'm not saying the thing I want to say, even though it feels horrible to be in this interaction." They take the jealousy on. They lose power. Over time the attraction dies, the sex dies, the relationship collapses into mutual caretaking.
+
+"Two people who've been together for a while, the attraction's gone, the sex is gone, because they're taking care of each other, because they think they have to take care of each other in different ways to maintain the love." -- Joe Hudson, How Love Gets Confused
+
+The example shows the precise mechanism of the click: the same external stimulus (a jealous partner) is met by two different imprints and produces two completely different futures. The imprint is what made the click happen — not the jealousy alone, not the response alone, but the matching of the configuration that says "jealousy = part of love" with the partner who supplies the jealousy.
+
+## The Criticism Loop as a Self-Maintaining System
+
+A specific case of the same dynamic, drawn out: when love was wired with criticism in childhood, the adult criticizes themselves, criticizes their partner, and chooses partners who criticize them. All three reinforce the loop.
+
+The early step in breaking the loop is to stop the self-criticism, because the self-treatment continues to wire the connection. Joe describes the fear that arises at this step: "When you're separating the criticism from yourself, you're like, oh my gosh, it's a very subconscious thing, but there's this fear that, oh, I'm going to have love pulled away from me." The body interprets the removal of the criticism as the removal of love, because criticism and love are the same shape in the body.
+
+This is why the work to unwire love-as-criticism is somatic, not intellectual. It is also why the same diagnostic ("I don't need to accept criticism to be loved") spoken out loud produces an immediate cascade of justifications: the body is defending the wiring because the wiring is what it knows love to be. See [[love-misconceptions-inherited-from-childhood]] for the broader treatment.
 
 ## The Wiring Mechanism
 
@@ -122,3 +142,4 @@ Joe is steady and almost matter-of-fact about this pattern. He does not present 
 - 2022-09-30_Triggered
 - 2022-10-26_How Relationships Reveal Us
 - 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation)
+- 2023-04-28_How Love Gets Confused (the two-people-meeting-jealousy pair as illustration of how the imprint determines the click; the criticism loop as a self-maintaining system; the somatic fear that arises when removing the wired-in pattern from self-treatment)

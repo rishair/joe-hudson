@@ -4,7 +4,7 @@ id: surrender-to-ineffable-vs-person
 title: "Surrender to the Ineffable vs. Surrender to a Person or Group"
 aliases: ["surrender to ineffable vs person", "surrender to the ineffable", "conscious surrender vs cult surrender", "good surrender vs cult surrender", "surrender to god vs surrender to guru", "surrender direction"]
 tags: ["surrender", "cult", "freedom", "authority", "spirituality"]
-related: ["cult-of-one", "subjugation-prevents-healing", "community-over-teacher", "enjoyment-as-surrender", "good-and-corruption-cycle", "love-requires-empowerment"]
+related: ["cult-of-one", "subjugation-prevents-healing", "community-over-teacher", "enjoyment-as-surrender", "good-and-corruption-cycle", "love-requires-empowerment", "red-flags-of-a-teacher-or-path", "identification-with-the-teaching"]
 sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Group Cohesion Vs Cult Dynamics"]
 ---
 

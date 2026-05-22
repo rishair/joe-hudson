@@ -3557,8 +3557,67 @@
     },
     {
       "folder": "2023-04-28_How Love Gets Confused",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T09:06:10Z",
+      "articles_created": [
+        "conditional-clauses-of-heart-closure",
+        "take-contrary-action",
+        "i-turned-out-fine",
+        "different-languages-of-love",
+        "love-yourself-the-way-you-always-wanted"
+      ],
+      "articles_updated": [
+        "love-misconceptions-inherited-from-childhood",
+        "heartbreak-as-capacity-expansion",
+        "complementary-trauma-surfaces",
+        "love-as-deep-welcoming"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T09:18:56Z"
+    },
+    {
+      "folder": "2023-05-12_Who Owns Your Authority?",
+      "status": "complete",
+      "claimed_at": "2026-05-22T09:19:51Z",
+      "articles_created": [
+        "red-flags-of-a-teacher-or-path",
+        "identification-with-the-teaching",
+        "downward-spiral-between-teacher-and-students",
+        "us-vs-them-as-universal-manipulation-pattern",
+        "teach-teenagers-to-be-their-own-authority",
+        "esme-step-by-step-project",
+        "joes-no-compliments-daughter"
+      ],
+      "articles_updated": [
+        "agree-when-challenged-on-the-teaching",
+        "cult-of-one",
+        "community-over-teacher",
+        "parenting-as-coaching-domain",
+        "surrender-to-ineffable-vs-person"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T09:32:09Z"
+    },
+    {
+      "folder": "2023-05-12_Who Owns Your Authority\uff1f",
+      "status": "complete",
+      "claimed_at": "2026-05-22T09:32:44Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T09:34:10Z"
+    },
+    {
+      "folder": "2023-05-25_Tara Howley \u2014 From Insight to Wisdom",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T09:33:18Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2023-05-26_Tara Howley \u2014 From Insight to Wisdom",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T09:34:14Z",
       "articles_created": [],
       "articles_updated": []
     }

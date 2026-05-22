@@ -2,10 +2,10 @@
 type: concept
 id: love-as-deep-welcoming
 title: "Love as Deep Welcoming"
-aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched"]
+aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched", "love as action not fluff", "the action of love", "love is actionable not abstract"]
 tags: ["love", "core concept", "welcoming", "view", "presence"]
-related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
+related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "different-languages-of-love", "love-yourself-the-way-you-always-wanted", "take-contrary-action"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense", "2023-04-28_How Love Gets Confused"]
 ---
 
 # Love as Deep Welcoming
@@ -131,7 +131,30 @@ When someone is in a conflict and getting harder, welcoming the other person doe
 - Toward [[boundary-with-vs-boundary-against]]: how boundaries express welcoming rather than oppose it.
 - Toward [[defense]]: the somatic and mental opposite of welcoming.
 
+## Love Is Action, Not Sentiment
+
+Religions and philosophies repeatedly assert that love is the cure, the solution, the way. The common reception of this framing collapses it into one of two errors:
+
+1. **Love as fluff.** "That's some abstract spiritual thing that isn't practical."
+2. **Love as feeling good.** "Just feel good and that's love."
+
+Neither captures what is being pointed at. Love is action — specifically, the action of welcoming. It is a thing you do. It is concrete. It is practical. It is operational.
+
+"This is the action. What I'm trying to describe here is the action of love. It is loving and learning to love in a way in which it is not — that it's in the pure sense of love, not in the learned sense of love." -- Joe Hudson, How Love Gets Confused
+
+The practical action looks like:
+
+- Look for the ways you are managing others. Stop the managing. (The not-managing is part of the action.)
+- Look for the things that cause you fights. The fights are usually defense. The action is dropping the defense.
+- Look for the ways you defend yourself. Find the heartbreak underneath the defense. Feel it. (The heartbreak is the action.)
+- Find the ways love might be that you didn't think love had anything to do with. Leaving might be love. Brutal honesty might be love. Playing with someone might be love. Let the definition expand. (The expansion is the action.)
+
+"This is the path. So it's not just like, okay, I'm gonna just be loving all the time. That doesn't work. That's like attempted self-brainwash, and it doesn't work. It's literally just finding the ways that you defend and feeling the heartbreak that you need to feel so that you can love unconditionally and take care of yourself." -- Joe Hudson, How Love Gets Confused
+
+The implication for the AI coach: never let "love is the answer" become a generality. The specific action is always available. Find the defense; feel the heartbreak; expand the definition; drop the management. That sequence is the action.
+
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-10-26_Love Over Defense (podcast version covering the same material)
+- 2023-04-28_How Love Gets Confused (love as practical action vs. love as fluffy concept; the four-part sequence of the action: find defense, feel heartbreak, expand definition, drop management; the rejection of self-brainwash as an alternative to the actual practice)

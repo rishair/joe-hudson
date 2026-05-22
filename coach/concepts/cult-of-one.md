@@ -4,8 +4,8 @@ id: cult-of-one
 title: "Cult of One"
 aliases: ["I'm a cult of one", "internal cult", "cult of one and that's okay", "the internal cult", "everyone is a cult", "cult of materialism", "you cannot see the water you swim in", "no one is free of cult dynamics"]
 tags: ["identity", "belief", "projection", "humility", "freedom", "self-awareness"]
-related: ["projections", "voice-in-the-head", "good-and-corruption-cycle", "community-over-teacher", "subjugation-prevents-healing", "surrender-to-ineffable-vs-person", "self-realization", "what-am-i"]
-sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Group Cohesion Vs Cult Dynamics"]
+related: ["projections", "voice-in-the-head", "good-and-corruption-cycle", "community-over-teacher", "subjugation-prevents-healing", "surrender-to-ineffable-vs-person", "self-realization", "what-am-i", "us-vs-them-as-universal-manipulation-pattern", "red-flags-of-a-teacher-or-path", "downward-spiral-between-teacher-and-students"]
+sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Group Cohesion Vs Cult Dynamics", "2023-05-12_Who Owns Your Authority?"]
 ---
 
 # Cult of One
@@ -70,6 +70,16 @@ Every major transformation involves a loss of center. The fear of losing the cen
 
 "Every major transformation has been a losing of the center or the fear of losing of a center." -- Joe Hudson, Group Cohesion vs. Cult Dynamics
 
+## The Internal Cult Uses the Same Recipe as External Cults
+
+The voice in the head runs the same structural recipe that external cults run. There is a good guy and a bad guy ("you should be doing this, you are bad because you aren't"). There is urgency ("if you don't do this now you will be in pain"). There is the only-this-action-will-solve-it framing. There is the demand that you cede your authority to its instructions.
+
+"All this is happening inside of us. We have a voice in the head. For most of us have a very strong voice in the head, and we believe that voice in the head when it says, 'You have to do this or you're going to be in pain,' or, 'It's only you that can do it,' and, 'Why haven't you gotten off the couch?' All those exact same things, the us and thems, the have-to-do-it, the urgency — that's all happening from the voice in our head talking to ourselves." -- Joe Hudson, Who Owns Your Authority?
+
+The implication: the work of seeing through external manipulation and the work of seeing through internal manipulation are the same work. The recipe is the same. The recognition that the internal voice runs the cult recipe is what makes the external recipes visible too. The corrective is the same in both directions: develop your own authority, do not cede it to the voice that demands action through urgency and us-vs-them.
+
+See [[us-vs-them-as-universal-manipulation-pattern]] for the cross-domain version of the recipe.
+
 ## What This Implies for Coaching
 
 When a coachee is in the position of judging others harshly for being in cults (religious, political, ideological, therapeutic), the cult-of-one frame is the way through. The judgment is the externalization of the disowned recognition that they too are in something they cannot see.
@@ -117,3 +127,4 @@ The frame can also be misused as a position. "I'm a cult of one" said with pride
 
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
 - 2022-10-26_Group Cohesion Vs Cult Dynamics (rebroadcast of the 2021-08-27 conversation)
+- 2023-05-12_Who Owns Your Authority? (the cult recipe operating in the voice in the head, and parallel structures in politics, marketing, and relationships)

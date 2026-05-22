@@ -4,8 +4,8 @@ id: agree-when-challenged-on-the-teaching
 title: "Agree When Challenged on the Teaching"
 aliases: ["agree with the criticism", "yeah yes yeah", "you're full of shit response", "agreeing when challenged on the teaching", "refusing to defend the teaching", "the I can't say this is the absolute truth move", "the undefended-teacher move", "this is a helpful perspective and it might not be"]
 tags: ["move", "teaching", "limiting beliefs", "non-defense", "humility", "wonder"]
-related: ["the-clients-wisdom-not-the-teachers", "three-kinds-of-limiting-beliefs", "limiting-belief-meta-trap", "defense-vs-love", "body-lies-as-much-as-mind", "frame-it-as-an-experiment", "comparative-mind", "wonder"]
-sources: ["2022-10-26_Limiting Beliefs", "2022-10-26_Your World Is A Projection"]
+related: ["the-clients-wisdom-not-the-teachers", "three-kinds-of-limiting-beliefs", "limiting-belief-meta-trap", "defense-vs-love", "body-lies-as-much-as-mind", "frame-it-as-an-experiment", "comparative-mind", "wonder", "identification-with-the-teaching", "red-flags-of-a-teacher-or-path"]
+sources: ["2022-10-26_Limiting Beliefs", "2022-10-26_Your World Is A Projection", "2023-05-12_Who Owns Your Authority?"]
 ---
 
 # Agree When Challenged on the Teaching
@@ -17,6 +17,12 @@ When someone challenges the teaching itself -- says it is wrong, says the coach 
 The teaching is offered as a helpful perspective for certain people at certain times. The coach holds it that way. When someone says it does not work for them, that report is taken at face value, not as resistance to be overcome.
 
 "You see me do this. You've been in rooms with me where someone's like, 'You're full of shit.' And I'll be like, 'Yeah, yes, yeah.' I can't say that what I'm saying is the absolute truth. I'm not gonna say that that's true. I'm gonna say that this is a helpful perspective, and it might not be helpful to you." -- Joe Hudson, Limiting Beliefs
+
+A specific instance: a CEO challenges Joe directly with "you made this shit up." Joe's response:
+
+"I'm like, yeah, just like you made up your company. That's what we're doing, we're just making shit up. That's how this works." -- Joe Hudson, Who Owns Your Authority?
+
+The agreement is total. The reframe is not a defense; it is the observation that everyone making anything is making it up, including the challenger. The teaching is one constructed frame among many possible constructed frames, and the construction is real labor that produced a useful thing. The agreement is the precise opposite of identification with the teaching (see [[identification-with-the-teaching]]).
 
 ## What It Sounds Like
 

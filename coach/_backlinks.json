@@ -20,6 +20,7 @@
     "im-exhausted-holding-space-for-my-partner",
     "money-is-bad",
     "my-inner-critic-wont-stop",
+    "i-turned-out-fine",
     "anxious-avoidant-dynamic",
     "feeling-the-unfelt-emotion",
     "i-cant-trust-my-thoughts-right-now",
@@ -153,6 +154,7 @@
     "connection",
     "empathy",
     "love-as-deep-welcoming",
+    "love-misconceptions-inherited-from-childhood",
     "sublimated-wants-become-politics",
     "chameleon-leadership",
     "development-as-corkscrew",
@@ -245,6 +247,7 @@
     "nervous-system-recovery-after-stress",
     "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
+    "teach-teenagers-to-be-their-own-authority",
     "the-work-is-yours-not-mine",
     "trying-to-be-right-is-the-voice",
     "dont-improve-for-two-weeks",
@@ -333,6 +336,7 @@
     "trauma-mapping",
     "forms-of-dysfunctional-apology",
     "the-shame-avoidance-loop",
+    "take-contrary-action",
     "problem-vs-something-happening",
     "asking-with-shame-invites-refusal",
     "craving-is-the-pushing-away",
@@ -1218,6 +1222,7 @@
     "everyone-is-pretending",
     "scapegoat-as-marriage-stabilizer",
     "push-past-the-protective-frame",
+    "take-contrary-action",
     "caring-vs-caretaking",
     "address-the-blocker-not-the-symptom",
     "adversity-as-for-not-against",
@@ -1228,6 +1233,7 @@
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
     "emotional-inquiry",
     "gratitude-around-the-problem",
+    "love-yourself-the-way-you-always-wanted",
     "talk-to-your-parts-and-ask-for-trust",
     "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
@@ -1325,6 +1331,7 @@
     "dont-shame-kids-they-self-shame",
     "nature-improves-itself",
     "shame-drives-behavior",
+    "teach-teenagers-to-be-their-own-authority",
     "wants-over-shoulds",
     "three-month-inherent-goodness-experiment",
     "seven-limiting-beliefs",
@@ -1613,6 +1620,7 @@
     "peace-precedes-joy-after-non-duality",
     "surrender-the-outcome-of-a-decision",
     "notice-and-be-grateful-for-connection",
+    "red-flags-of-a-teacher-or-path",
     "seven-limiting-beliefs",
     "joes-first-meditation-retreat"
   ],
@@ -1833,6 +1841,7 @@
     "limiting-belief-detection-signals",
     "three-reasons-we-dont-see-limiting-beliefs",
     "three-signals-of-unfelt-emotion",
+    "us-vs-them-as-universal-manipulation-pattern",
     "apply-view-to-fear",
     "feel-over-figure",
     "over-control-vs-hands-off-oscillation",
@@ -2410,6 +2419,7 @@
     "needing-to-be-right-in-teams",
     "perfectionism",
     "rehearsing-conversations",
+    "us-vs-them-as-universal-manipulation-pattern",
     "apply-view-to-the-voice",
     "become-the-authority-figure",
     "find-the-emotion-under-self-judgment",
@@ -2590,6 +2600,7 @@
   "subjugation-prevents-healing": [
     "im-not-an-anxious-person",
     "cult-of-one",
+    "us-vs-them-as-universal-manipulation-pattern",
     "walking-on-eggshells",
     "surrender-to-ineffable-vs-person",
     "community-over-teacher",
@@ -3138,6 +3149,7 @@
     "dont-position-yourself-as-your-partners-growth-guide",
     "push-past-the-protective-frame",
     "over-control-vs-hands-off-oscillation",
+    "teach-teenagers-to-be-their-own-authority",
     "aaron-de-la-salle-first-day",
     "esme-heartbreak-feels-good",
     "joes-daughter-silent-retreat",
@@ -3241,6 +3253,7 @@
     "trigger",
     "childhood-imprinting",
     "intellectual-emotional-polarization-in-couples",
+    "take-contrary-action",
     "mourn-the-breakup-fully",
     "nre-returns-in-grounded-form-after-each-healing",
     "relationships-as-personal-growth-path",
@@ -3254,6 +3267,7 @@
     "dont-do-anger-at-your-partner",
     "dont-make-it-your-job-to-prevent-their-triggers",
     "trigger",
+    "us-vs-them-as-universal-manipulation-pattern",
     "triggered-vs-big-emotion",
     "capacity-to-love-other-is-capacity-to-love-self",
     "say-the-thing-youre-not-saying"
@@ -3503,6 +3517,23 @@
     "humility-in-the-system",
     "the-happiness-filter",
     "will-chesney-seal-collapse-and-return"
+  ],
+  "love-misconceptions-inherited-from-childhood": [
+    "i-turned-out-fine",
+    "dont-add-anyway-to-love",
+    "conditional-clauses-of-heart-closure",
+    "love-as-deep-welcoming",
+    "complementary-trauma-surfaces",
+    "different-languages-of-love",
+    "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+    "joes-abandonment-mapping"
+  ],
+  "the-pattern-is-not-personal": [
+    "i-turned-out-fine",
+    "dont-make-family-dynamics-the-story",
+    "childhood-imprinting",
+    "scapegoat-as-marriage-stabilizer",
+    "honor-the-patterns-intent"
   ],
   "welcoming-the-others-emotion": [
     "letting-it-in-vs-deflecting-the-welcome",
@@ -3768,6 +3799,7 @@
     "weaponized-not-caretaking",
     "anger-as-containment-for-the-conflict-seeker",
     "boundaries",
+    "conditional-clauses-of-heart-closure",
     "defense",
     "love-as-deep-welcoming",
     "love-misconceptions-inherited-from-childhood",
@@ -3981,6 +4013,7 @@
     "whats-the-case-against-it",
     "dont-dismiss-exercise-before-doing-it",
     "agree-when-challenged-on-the-teaching",
+    "take-contrary-action",
     "connection-as-life-bottom-line",
     "the-clients-wisdom-not-the-teachers",
     "gratitude-rounds-before-meetings"
@@ -4028,12 +4061,6 @@
   "lets-go-there": [
     "whats-the-ultimate-thing-youre-running-from",
     "peace-is-what-we-resist-the-most"
-  ],
-  "love-misconceptions-inherited-from-childhood": [
-    "dont-add-anyway-to-love",
-    "love-as-deep-welcoming",
-    "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
-    "joes-abandonment-mapping"
   ],
   "say-yes-to-the-clients-experiment": [
     "dont-add-anyway-to-love",
@@ -4169,21 +4196,28 @@
     "container-of-love",
     "cult-of-one",
     "integration",
+    "downward-spiral-between-teacher-and-students",
     "give-parameters-of-winning",
     "state-the-want-not-the-action",
+    "identification-with-the-teaching",
     "surrender-to-ineffable-vs-person",
     "become-unnecessary",
     "dropping-roles-makes-room",
     "good-and-corruption-cycle",
     "subjugation-prevents-healing",
+    "teach-teenagers-to-be-their-own-authority",
     "the-clients-wisdom-not-the-teachers",
-    "keeping-cult-dynamics-conscious"
+    "keeping-cult-dynamics-conscious",
+    "red-flags-of-a-teacher-or-path"
   ],
   "good-and-corruption-cycle": [
     "dont-evangelize-the-work",
     "cult-of-one",
+    "downward-spiral-between-teacher-and-students",
+    "us-vs-them-as-universal-manipulation-pattern",
     "community-over-teacher",
-    "keeping-cult-dynamics-conscious"
+    "keeping-cult-dynamics-conscious",
+    "red-flags-of-a-teacher-or-path"
   ],
   "i-cant-apologize": [
     "dont-extract-apologies",
@@ -4215,6 +4249,7 @@
     "parenting-as-honest-mirror",
     "the-pattern-is-not-personal",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
+    "love-yourself-the-way-you-always-wanted",
     "talk-to-your-parts-and-ask-for-trust",
     "three-reflection-questions-on-anger"
   ],
@@ -4350,6 +4385,7 @@
     "expanding-sense-of-self",
     "grief-as-identity-dismantling",
     "identity",
+    "identification-with-the-teaching",
     "transparent-identity-vs-rigid",
     "epiphany-becomes-rut"
   ],
@@ -4426,12 +4462,6 @@
     "emotional-inquiry",
     "head-heart-gut"
   ],
-  "the-pattern-is-not-personal": [
-    "dont-make-family-dynamics-the-story",
-    "childhood-imprinting",
-    "scapegoat-as-marriage-stabilizer",
-    "honor-the-patterns-intent"
-  ],
   "three-questions-on-the-pattern": [
     "dont-make-family-dynamics-the-story",
     "childhood-imprinting",
@@ -4443,7 +4473,8 @@
     "trigger",
     "walking-on-eggshells",
     "being-with-anothers-emotion-is-being-with-your-own-pain",
-    "relationships-as-personal-growth-path"
+    "relationships-as-personal-growth-path",
+    "love-yourself-the-way-you-always-wanted"
   ],
   "emotions-live-in-muscles": [
     "dont-name-emotion-to-avoid-feeling",
@@ -4466,12 +4497,18 @@
   "the-clients-wisdom-not-the-teachers": [
     "dont-position-yourself-as-your-partners-growth-guide",
     "definition-of-asshole",
+    "downward-spiral-between-teacher-and-students",
     "agree-when-challenged-on-the-teaching",
+    "identification-with-the-teaching",
     "never-rob-pain-or-gold",
     "seeing-through-projections-expands-possibility",
     "sincerity-is-the-prerequisite",
+    "teach-teenagers-to-be-their-own-authority",
     "the-clients-wisdom-not-the-teachers",
-    "unwelcomed-emotions-return-until-felt"
+    "unwelcomed-emotions-return-until-felt",
+    "red-flags-of-a-teacher-or-path",
+    "esme-step-by-step-project",
+    "joes-no-compliments-daughter"
   ],
   "relationships-as-personal-growth-path": [
     "dont-position-yourself-as-your-partners-growth-guide",
@@ -4735,6 +4772,7 @@
   "love-as-deep-welcoming": [
     "loving-to-transform",
     "boundaries",
+    "conditional-clauses-of-heart-closure",
     "defense",
     "feel-your-way-to-freedom",
     "heartbreak-as-capacity-expansion",
@@ -4745,13 +4783,16 @@
     "voice-as-care",
     "chase-it-around-the-room",
     "have-partner-state-the-welcome-aloud",
+    "take-contrary-action",
     "boundary-with-vs-boundary-against",
     "love-vs-nice",
     "softening-as-caring-diagnostic",
     "capacity-to-love-other-is-capacity-to-love-self",
+    "different-languages-of-love",
     "love-is-the-best-change-agent",
     "love-requires-empowerment",
     "feel-love-and-empowerment-as-the-same",
+    "love-yourself-the-way-you-always-wanted",
     "four-faces-of-love",
     "view",
     "alex-bell-told-joe-he-lied",
@@ -4970,8 +5011,10 @@
   ],
   "heartbreak-as-capacity-expansion": [
     "arms-of-the-cross-relationship",
+    "conditional-clauses-of-heart-closure",
     "letting-judgment-in",
     "love-as-deep-welcoming",
+    "take-contrary-action",
     "softening-as-caring-diagnostic",
     "adversity-as-for-not-against",
     "annihilation-reveals-what-is-real",
@@ -4979,6 +5022,7 @@
     "mourn-the-breakup-fully",
     "nre-returns-in-grounded-form-after-each-healing",
     "relationships-as-personal-growth-path",
+    "love-yourself-the-way-you-always-wanted",
     "esme-heartbreak-feels-good",
     "joes-board-member",
     "joes-weeping-at-superficial-conversations",
@@ -5054,6 +5098,7 @@
     "love-misconceptions-inherited-from-childhood",
     "public-truth-bomb",
     "over-control-vs-hands-off-oscillation",
+    "different-languages-of-love",
     "trust-requires-conflict",
     "what-is-truly-compassionate",
     "alex-bell-told-joe-he-lied",
@@ -5081,6 +5126,25 @@
     "decisions-are-emotional",
     "self-judgment-protects-from-emotion",
     "joes-weeping-at-superficial-conversations"
+  ],
+  "love-requires-empowerment": [
+    "conditional-clauses-of-heart-closure",
+    "love-as-deep-welcoming",
+    "love-misconceptions-inherited-from-childhood",
+    "upright-undefended-love",
+    "us-vs-them-as-universal-manipulation-pattern",
+    "over-control-vs-hands-off-oscillation",
+    "surrender-to-ineffable-vs-person",
+    "capacity-to-love-other-is-capacity-to-love-self",
+    "empathy-makes-you-better-at-hard-jobs",
+    "subjugation-prevents-healing",
+    "triggers-reduce-when-you-know-you-can-leave",
+    "feel-love-and-empowerment-as-the-same",
+    "joes-board-member"
+  ],
+  "take-contrary-action": [
+    "conditional-clauses-of-heart-closure",
+    "love-yourself-the-way-you-always-wanted"
   ],
   "sensitivity-as-byproduct": [
     "connection-as-family-metric",
@@ -5177,11 +5241,17 @@
     "connection",
     "connection-as-life-bottom-line"
   ],
+  "us-vs-them-as-universal-manipulation-pattern": [
+    "cult-of-one",
+    "downward-spiral-between-teacher-and-students",
+    "red-flags-of-a-teacher-or-path"
+  ],
   "surrender-to-ineffable-vs-person": [
     "cult-of-one",
     "community-over-teacher",
     "connection-doesnt-require-the-other",
-    "subjugation-prevents-healing"
+    "subjugation-prevents-healing",
+    "red-flags-of-a-teacher-or-path"
   ],
   "principles-free-you": [
     "decisions-as-portfolio",
@@ -5388,6 +5458,7 @@
   ],
   "embracing-changes-unconscious-decisions": [
     "feeling-the-unfelt-emotion",
+    "take-contrary-action",
     "joes-pot-habit"
   ],
   "self-judgment-protects-from-emotion": [
@@ -5507,6 +5578,7 @@
     "hold-the-memory-of-when-you-felt-it-most",
     "i-exist-affirmation-against-collapse",
     "let-your-body-shake-it-out",
+    "love-yourself-the-way-you-always-wanted",
     "prepare-and-release-the-difficult-conversation",
     "three-questions-on-the-pattern",
     "view-around-self-as-identity-diagnostic",
@@ -5643,18 +5715,12 @@
     "love-as-deep-welcoming",
     "four-faces-of-love"
   ],
-  "love-requires-empowerment": [
-    "love-as-deep-welcoming",
+  "i-turned-out-fine": [
+    "love-misconceptions-inherited-from-childhood"
+  ],
+  "conditional-clauses-of-heart-closure": [
     "love-misconceptions-inherited-from-childhood",
-    "upright-undefended-love",
-    "over-control-vs-hands-off-oscillation",
-    "surrender-to-ineffable-vs-person",
-    "capacity-to-love-other-is-capacity-to-love-self",
-    "empathy-makes-you-better-at-hard-jobs",
-    "subjugation-prevents-healing",
-    "triggers-reduce-when-you-know-you-can-leave",
-    "feel-love-and-empowerment-as-the-same",
-    "joes-board-member"
+    "take-contrary-action"
   ],
   "examples/alex-bell-told-joe-he-lied": [
     "love-misconceptions-inherited-from-childhood",
@@ -5756,11 +5822,15 @@
   ],
   "cult-of-one": [
     "projections",
+    "downward-spiral-between-teacher-and-students",
+    "us-vs-them-as-universal-manipulation-pattern",
+    "identification-with-the-teaching",
     "surrender-to-ineffable-vs-person",
     "good-and-corruption-cycle",
     "subjugation-prevents-healing",
     "find-what-you-absolutely-believe",
-    "keeping-cult-dynamics-conscious"
+    "keeping-cult-dynamics-conscious",
+    "red-flags-of-a-teacher-or-path"
   ],
   "falling-in-love-with-projections": [
     "projections",
@@ -5874,6 +5944,7 @@
   "negative-bias-of-trauma-imprinting": [
     "trauma-mapping",
     "childhood-imprinting",
+    "different-languages-of-love",
     "see-whats-right-to-build-on-it"
   ],
   "triggered-vs-big-emotion": [
@@ -6015,6 +6086,16 @@
     "stories-are-developmental-scaffolding",
     "the-pattern-is-not-personal",
     "three-questions-on-the-pattern"
+  ],
+  "red-flags-of-a-teacher-or-path": [
+    "downward-spiral-between-teacher-and-students",
+    "us-vs-them-as-universal-manipulation-pattern",
+    "identification-with-the-teaching"
+  ],
+  "identification-with-the-teaching": [
+    "downward-spiral-between-teacher-and-students",
+    "agree-when-challenged-on-the-teaching",
+    "red-flags-of-a-teacher-or-path"
   ],
   "questioning-the-positive-state": [
     "fear-of-joy",
@@ -6195,6 +6276,7 @@
     "natural-shame-vs-installed-shame",
     "inherent-goodness",
     "parenting-as-honest-mirror",
+    "teach-teenagers-to-be-their-own-authority",
     "joes-daughter-silent-retreat",
     "parenting-as-coaching-domain"
   ],
@@ -6239,6 +6321,16 @@
     "empathy-makes-you-better-at-hard-jobs",
     "ceo-pajama-house-study",
     "will-chesney-seal-collapse-and-return"
+  ],
+  "agree-when-challenged-on-the-teaching": [
+    "identification-with-the-teaching"
+  ],
+  "dont-identify-as-awakened": [
+    "identification-with-the-teaching",
+    "awakening-as-natural-development",
+    "epiphany-becomes-rut",
+    "joes-bathroom-realization",
+    "joes-first-meditation-retreat"
   ],
   "joes-hacky-sack": [
     "improvement-vs-authenticity",
@@ -6356,12 +6448,6 @@
   "joes-laughing-meditation-retreat": [
     "authenticity-reduces-shame"
   ],
-  "dont-identify-as-awakened": [
-    "awakening-as-natural-development",
-    "epiphany-becomes-rut",
-    "joes-bathroom-realization",
-    "joes-first-meditation-retreat"
-  ],
   "dont-evangelize-the-work": [
     "become-unnecessary",
     "community-over-teacher",
@@ -6375,6 +6461,12 @@
   "keeping-cult-dynamics-conscious": [
     "community-over-teacher",
     "subjugation-prevents-healing"
+  ],
+  "teach-teenagers-to-be-their-own-authority": [
+    "community-over-teacher",
+    "esme-step-by-step-project",
+    "joes-no-compliments-daughter",
+    "parenting-as-coaching-domain"
   ],
   "tibetan-teacher-offending-students": [
     "conflict-avoidance-prevents-healing"
@@ -6580,6 +6672,25 @@
     "will-chesney-seal-collapse-and-return",
     "welcoming-fear-in-leadership"
   ],
+  "esme-step-by-step-project": [
+    "teach-teenagers-to-be-their-own-authority",
+    "joes-no-compliments-daughter",
+    "parenting-as-coaching-domain"
+  ],
+  "parenting-as-coaching-domain": [
+    "teach-teenagers-to-be-their-own-authority",
+    "esme-heartbreak-feels-good",
+    "esme-just-need-to-be-sad",
+    "esme-listens-at-the-door",
+    "esme-step-by-step-project",
+    "joes-no-compliments-daughter",
+    "family-as-team"
+  ],
+  "joes-no-compliments-daughter": [
+    "teach-teenagers-to-be-their-own-authority",
+    "esme-step-by-step-project",
+    "parenting-as-coaching-domain"
+  ],
   "refuse-to-be-defined-by-the-worst-act": [
     "the-pattern-is-not-personal",
     "emile-three-relationships-with-fear"
@@ -6643,6 +6754,9 @@
   "brett-wingsuit-girlfriend-thought": [
     "visualizing-feared-outcomes"
   ],
+  "downward-spiral-between-teacher-and-students": [
+    "red-flags-of-a-teacher-or-path"
+  ],
   "walgreens-sales-per-customer": [
     "team-as-scientific-method"
   ],
@@ -6673,13 +6787,8 @@
   ],
   "esme-just-need-to-be-sad": [
     "esme-heartbreak-feels-good",
+    "esme-step-by-step-project",
     "parenting-as-coaching-domain"
-  ],
-  "parenting-as-coaching-domain": [
-    "esme-heartbreak-feels-good",
-    "esme-just-need-to-be-sad",
-    "esme-listens-at-the-door",
-    "family-as-team"
   ],
   "parenting-as-honest-mirror": [
     "esme-just-need-to-be-sad",
@@ -6692,6 +6801,9 @@
   ],
   "joe-mina-china-overwhelm": [
     "esme-math-final"
+  ],
+  "esme-heartbreak-feels-good": [
+    "esme-step-by-step-project"
   ],
   "esme-math-final": [
     "joe-mina-china-overwhelm"

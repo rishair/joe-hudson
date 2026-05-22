@@ -4,8 +4,8 @@ id: community-over-teacher
 title: "Community Over Teacher"
 aliases: ["community is more important than the teacher", "group intelligence", "community of practice", "wisdom of the group", "the teacher pointing back to the student", "people creating their own tools from their consciousness"]
 tags: ["community", "learning", "development", "teaching", "integration"]
-related: ["integration", "container-of-love", "dont-evangelize-the-work", "become-unnecessary", "good-and-corruption-cycle", "subjugation-prevents-healing", "cult-of-one", "keeping-cult-dynamics-conscious", "surrender-to-ineffable-vs-person"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Group Cohesion Vs Cult Dynamics", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_The Business Behind Our Courses"]
+related: ["integration", "container-of-love", "dont-evangelize-the-work", "become-unnecessary", "good-and-corruption-cycle", "subjugation-prevents-healing", "cult-of-one", "keeping-cult-dynamics-conscious", "surrender-to-ineffable-vs-person", "red-flags-of-a-teacher-or-path", "downward-spiral-between-teacher-and-students", "identification-with-the-teaching", "teach-teenagers-to-be-their-own-authority", "the-clients-wisdom-not-the-teachers"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Group Cohesion Vs Cult Dynamics", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_The Business Behind Our Courses", "2023-05-12_Who Owns Your Authority?"]
 ---
 
 # Community Over Teacher
@@ -60,6 +60,12 @@ A good teacher constantly points the student back to their own truth and teaches
 
 The confusion: someone would not expect to understand physics after two workshops. Teachers have more experience in the terrain. But the relationship should consistently increase the student's capacity, not increase their dependence.
 
+Joe articulates this again in the context of evaluating paths: a teacher who never explicitly says "the truth is in you, not in me" is showing structural dysfunction, even if everything else looks healthy. The teacher's job is to occasionally and clearly redirect the authority back.
+
+"If the teacher isn't directly occasionally saying, 'hey, the truth is in you, it's not in me,' that's a really important sign that the truth is in you, it's not in me. It's a very important sign that there's something else going on besides whatever would make a teacher want to have the authority over other people. It doesn't mean that they might not know stuff that you don't know, but the one thing for sure is that you know what you should do next better than anybody, not better than any teacher. Teacher might be able to point out patterns and stuff like that, but your journey is yours and you're the authority of it. And that's critical if a path isn't pointing there." -- Joe Hudson, Who Owns Your Authority?
+
+The pattern parallels what Joe describes about parenting teenagers — the work shifts from being the authority to teaching the person to be their own authority. See [[teach-teenagers-to-be-their-own-authority]] for the parenting version of this principle.
+
 ## Encouraging Students to Make Their Own Tools
 
 A further extension of the principle: the teacher should encourage students to create tools from their own consciousness, not to carry the teacher's tools forever. The teacher's tools are right for the teacher and their consciousness. The student's tools, made from the student's own consciousness, are right for the student and the people near the student.
@@ -96,3 +102,4 @@ This connects directly to [[become-unnecessary]]. The teacher's tools, when held
 - 2022-10-26_Group Cohesion Vs Cult Dynamics (rebroadcast of the 2021-08-27 conversation)
 - 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
+- 2023-05-12_Who Owns Your Authority?
