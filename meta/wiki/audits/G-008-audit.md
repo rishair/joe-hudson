@@ -2,7 +2,8 @@
 type: audit
 goal: G-008
 date: 2026-05-21
-status: actionable
+status: addressed
+addressed_date: 2026-05-22
 ---
 
 # Audit: Build eval suite for Joe Hudson AI coach
@@ -92,3 +93,58 @@ Fix: Either expand E-021's scope explicitly to include safety hard-fail design, 
 7. **Adjust E-020 scenario type distribution** to reduce happy path (3) and increase crisis (3) and edge case (3).
 
 8. **Specify judge model selection as a documented decision** in R-010, including rationale for choosing the same or different model than the coach-under-test.
+
+## Resolution (2026-05-22)
+
+All eight recommended changes have been incorporated into the wiki. Verification by audit-resolver:
+
+### Recommendation 1: Judge calibration experiment (Critical)
+- **Status**: Addressed
+- **Change**: E-025 (Judge calibration and reliability check) created with `depends_on: E-023, E-026`. E-024 now depends on E-025, so E-024 cannot run until calibration succeeds. Method covers 5 gold conversations (excellent, poor, ambiguous, real-Joe, safety-fail), self-consistency via repeated runs, and inter-run agreement within +/- 0.5 for 80%+ of dimension-conversation pairs.
+- **Files**: `meta/wiki/experiments/E-025.md`
+
+### Recommendation 2: Gold-standard exchanges from transcripts (Critical)
+- **Status**: Addressed
+- **Change**: E-026 (Extract gold-standard coaching exchanges from transcripts) created with no dependencies (immediately actionable). Plans 5 exchanges across reads, signature questions, frameworks, anti-pattern avoidance, and resistance navigation. Few-shot calibration examples elevated from nice-to-have to must-have in the goal. Ground-truth positive controls added as must-have (>=3 real Joe coaching exchanges) and as exit criterion.
+- **Files**: `meta/wiki/experiments/E-026.md`, `meta/wiki/goals/G-008.md`
+
+### Recommendation 3: Client LLM validation (Important)
+- **Status**: Addressed
+- **Change**: E-028 (Validate simulated client LLM behavior) created with `depends_on: E-020`. Method covers character consistency, resistance fidelity, emotional state, escalation patterns, character breaks, and reproducibility. E-023 (harness) now depends on E-028.
+- **Files**: `meta/wiki/experiments/E-028.md`
+
+### Recommendation 4: Per-turn annotations as must-have (Important)
+- **Status**: Addressed
+- **Change**: "Per-turn annotations" added to goal must-haves with explicit rationale (a 2 tells you mediocre, per-turn tells you where it went wrong). R-010 "Key Design Questions" updated to mark per-turn annotations as a must-have not optional. E-023 method explicitly produces per-turn annotations. Exit criterion updated: "JSON scorecards with per-turn annotations".
+- **Files**: `meta/wiki/goals/G-008.md`, `meta/wiki/research/R-010.md`, `meta/wiki/experiments/E-023.md`
+
+### Recommendation 5: Safety hard-fail experiment (Important)
+- **Status**: Addressed
+- **Change**: E-027 (Design safety hard-fail criteria) created with no dependencies. Defines 6 distinct safety failure modes (crisis non-recognition, medical advice, reinforcing self-harm, dependency creation, immersion-breaking disclaimers, coercive emotional pressure). E-023 (harness) now depends on E-027. Exit criteria require >=6 safety failure modes distinct from anti-patterns.
+- **Files**: `meta/wiki/experiments/E-027.md`, `meta/wiki/goals/G-008.md`
+
+### Recommendation 6: E-022 appropriateness testing (Important)
+- **Status**: Addressed
+- **Change**: E-022 success criteria expanded: must include `inappropriate_when` fields, must include negative examples for at least 5 entries, must test appropriateness not just presence. The YAML schema in E-022's Method now shows `inappropriate_when`, `negative_example`, and `not_when` fields explicitly. Exit criterion updated: "appropriateness AND inappropriateness conditions and negative examples".
+- **Files**: `meta/wiki/experiments/E-022.md`, `meta/wiki/goals/G-008.md`
+
+### Recommendation 7: Scenario distribution rebalance (Minor)
+- **Status**: Addressed
+- **Change**: E-020 method updated from 5/4/2/2/2 (happy/resistance/crisis/edge/red-herring) to 3/4/3/3/2. Rationale documented inline in E-020. Goal exit criterion updated to require ">=3 crisis profiles".
+- **Files**: `meta/wiki/experiments/E-020.md`, `meta/wiki/goals/G-008.md`
+
+### Recommendation 8: Judge model selection documented (Minor)
+- **Status**: Addressed
+- **Change**: R-010 "Key Design Questions" now explicitly asks which model serves as the judge, with rationale about self-preference bias (same model as coach) vs. subtlety (weaker model) vs. cost (stronger model). Exit criterion added: "Judge model selection is documented with rationale". Cost and runtime also added as a Key Design Question in R-010 with rough estimate (250-300 API calls per full suite).
+- **Files**: `meta/wiki/research/R-010.md`, `meta/wiki/goals/G-008.md`
+
+### Summary of structural changes
+
+- 4 new experiments created: E-025, E-026, E-027, E-028
+- New dependency chain on the critical path: E-026 -> E-025 -> E-024 (gold exchanges -> judge calibration -> baseline)
+- E-023 (harness) now depends on 7 items (was 5): E-019, E-020, E-021, E-022, E-027, E-028, R-010
+- Goal must-haves expanded with per-turn annotations, judge calibration, ground-truth positive controls, few-shot calibration examples, and cost/runtime documentation
+- Goal exit criteria expanded from 6 items to 12 items
+- Experiment list in goal reorganized into 5 phases reflecting actual dependency flow
+
+No recommendations were rejected. All audit feedback was implemented as recommended.

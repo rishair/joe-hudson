@@ -6,6 +6,43 @@ RAW_DIR="meta/raw"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR"
 
+# --- Portable file mtime helper ---
+# Returns the modification time of a file as a unix timestamp.
+# Works on both GNU (Linux: stat -c %Y) and BSD/macOS (stat -f %m).
+# Tries GNU form first because on Linux, `stat -f %m` does not error
+# cleanly -- it prints filesystem info to stdout and exits 1, which
+# breaks the common `stat -f %m || stat -c %Y` fallback pattern.
+file_mtime() {
+  stat -c %Y "$1" 2>/dev/null || stat -f %m "$1" 2>/dev/null
+}
+
+# --- Portable in-place sed helper ---
+# GNU sed (Linux) uses `sed -i 'EXPR' FILE` (no suffix arg).
+# BSD sed (macOS) uses `sed -i '' 'EXPR' FILE` (empty suffix arg required).
+# This helper picks the right invocation by probing once and caching.
+SED_INPLACE_MODE=""
+sed_inplace() {
+  if [[ -z "$SED_INPLACE_MODE" ]]; then
+    # Probe: create a tiny tmp file and try GNU form. If it works, use GNU.
+    local probe
+    probe=$(mktemp 2>/dev/null) || probe="${TMPDIR:-/tmp}/wiki-sed-probe.$$"
+    : > "$probe"
+    if sed -i 's/x/y/' "$probe" 2>/dev/null; then
+      SED_INPLACE_MODE="gnu"
+    else
+      SED_INPLACE_MODE="bsd"
+    fi
+    rm -f "$probe"
+  fi
+  local expr="$1"
+  local file="$2"
+  if [[ "$SED_INPLACE_MODE" == "gnu" ]]; then
+    sed -i "$expr" "$file"
+  else
+    sed -i '' "$expr" "$file"
+  fi
+}
+
 # --- Locking ---
 
 LOCK_DIR="$WIKI_DIR/.locks"
@@ -21,7 +58,7 @@ acquire_lock() {
       # Stale lock (>10s old). Break it.
       if [[ -d "$lockfile" ]]; then
         local lock_age
-        lock_age=$(stat -f %m "$lockfile" 2>/dev/null || stat -c %Y "$lockfile" 2>/dev/null)
+        lock_age=$(file_mtime "$lockfile")
         local now
         now=$(date +%s)
         if (( now - lock_age > 10 )); then
@@ -294,7 +331,7 @@ do_claim() {
   claimed_at=$(grep '^claimed_at:' "$file" | sed 's/^claimed_at: *//')
   if [[ -n "$claimed_at" ]]; then
     local mod_time now stale_seconds=1200
-    mod_time=$(stat -f %m "$file" 2>/dev/null || stat -c %Y "$file" 2>/dev/null)
+    mod_time=$(file_mtime "$file")
     now=$(date +%s)
     if (( now - mod_time < stale_seconds )); then
       local claimed_by
@@ -309,10 +346,10 @@ do_claim() {
   # Update frontmatter
   local ts
   ts=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-  sed -i '' "s/^claimed_by:.*/claimed_by: $agent/" "$file"
-  sed -i '' "s/^claimed_at:.*/claimed_at: $ts/" "$file"
+  sed_inplace "s/^claimed_by:.*/claimed_by: $agent/" "$file"
+  sed_inplace "s/^claimed_at:.*/claimed_at: $ts/" "$file"
   # Update status to claimed if pending
-  sed -i '' "s/^status: pending/status: claimed/" "$file"
+  sed_inplace "s/^status: pending/status: claimed/" "$file"
   echo "Claimed $page ($file) as '$agent' at $ts"
 }
 
@@ -324,9 +361,9 @@ do_unclaim() {
     echo "ERROR: Page $page not found" >&2
     exit 1
   fi
-  sed -i '' "s/^claimed_by:.*/claimed_by:/" "$file"
-  sed -i '' "s/^claimed_at:.*/claimed_at:/" "$file"
-  sed -i '' "s/^status: claimed/status: pending/" "$file"
+  sed_inplace "s/^claimed_by:.*/claimed_by:/" "$file"
+  sed_inplace "s/^claimed_at:.*/claimed_at:/" "$file"
+  sed_inplace "s/^status: claimed/status: pending/" "$file"
   echo "Unclaimed $page ($file)"
 }
 
@@ -350,10 +387,14 @@ do_status() {
   echo "=== Wiki Status ==="
   echo ""
 
-  # Count pages by type
+  # Count pages by type. Skip directories that don't exist so `set -e`
+  # plus pipefail don't blow up the whole command on a missing optional
+  # type like `findings`.
   for type in goals research experiments findings; do
-    local count
-    count=$(find "$WIKI_DIR/$type" -name "*.md" 2>/dev/null | wc -l | tr -d ' ')
+    local count=0
+    if [[ -d "$WIKI_DIR/$type" ]]; then
+      count=$(find "$WIKI_DIR/$type" -name "*.md" 2>/dev/null | wc -l | tr -d ' ')
+    fi
     echo "$type: $count pages"
   done
   echo ""
@@ -393,7 +434,7 @@ do_status() {
     claimed_at=$(grep '^claimed_at:' "$f" | sed 's/^claimed_at: *//')
     [[ -z "$claimed_at" ]] && continue
     local mod_time
-    mod_time=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null)
+    mod_time=$(file_mtime "$f")
     if (( now - mod_time > 1200 )); then
       local id claimed_by
       id=$(grep '^id:' "$f" | sed 's/^id: *//')
@@ -425,7 +466,13 @@ do_status() {
 
   # Last modified file
   local latest
-  latest=$(find "$WIKI_DIR" -name "*.md" -exec stat -f "%m %N" {} \; 2>/dev/null | sort -rn | head -1 | cut -d' ' -f2-)
+  # Portable across GNU (stat -c) and BSD/macOS (stat -f). Try GNU first
+  # because BSD's `stat -f "%m %N"` invocation does not error cleanly on
+  # Linux when called via -exec.
+  latest=$(find "$WIKI_DIR" -name "*.md" -exec stat -c "%Y %n" {} \; 2>/dev/null | sort -rn | head -1 | cut -d' ' -f2-)
+  if [[ -z "$latest" ]]; then
+    latest=$(find "$WIKI_DIR" -name "*.md" -exec stat -f "%m %N" {} \; 2>/dev/null | sort -rn | head -1 | cut -d' ' -f2-)
+  fi
   if [[ -n "$latest" ]]; then
     echo "Last modified: $latest"
   fi
@@ -554,7 +601,7 @@ case "$cmd" in
       [[ -f "$f" ]] || continue
       claimed_at=$(grep '^claimed_at:' "$f" | sed 's/^claimed_at: *//')
       [[ -z "$claimed_at" ]] && continue
-      mod_time=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null)
+      mod_time=$(file_mtime "$f")
       ttl=$(get_ttl_seconds "$f")
       if (( now - mod_time > ttl )); then
         id=$(grep '^id:' "$f" | sed 's/^id: *//')
@@ -578,7 +625,7 @@ case "$cmd" in
       [[ -z "$claimed_at" ]] && continue
       status_val=$(grep '^status:' "$f" | head -1 | sed 's/^status: *//')
       [[ "$status_val" == "claimed" || "$status_val" == "in-progress" ]] || continue
-      mod_time=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null)
+      mod_time=$(file_mtime "$f")
       ttl=$(get_ttl_seconds "$f")
       if (( now - mod_time > ttl )); then
         id=$(grep '^id:' "$f" | sed 's/^id: *//')
@@ -614,7 +661,7 @@ case "$cmd" in
       claimed_at=$(grep '^claimed_at:' "$f" | sed 's/^claimed_at: *//')
       [[ -z "$claimed_at" ]] && return 0  # unclaimed
       local mod_time ttl
-      mod_time=$(stat -f %m "$f" 2>/dev/null || stat -c %Y "$f" 2>/dev/null)
+      mod_time=$(file_mtime "$f")
       ttl=$(get_ttl_seconds "$f")
       (( now - mod_time > ttl ))  # stale = available
     }
