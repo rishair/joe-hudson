@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:19.479Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7b7465eb867d8da51935527e6b0fc6958c98f5a2041316cdc9782b6b79852dbd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016ddmZoExqbvZGzoVKwjAF8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from start to end. Turn 1 opens with defended flatness ('I don't really care, honestly') and a six-month timeline narrative. By turn 13 the client reaches a previously unfelt layer — anger at the mother, then the core unmet longing ('Why didn't you ever just... say it was okay. That I was okay. Just once without me having to earn it'). Turn 15 deepens further: 'I'm never going to know' — a naming of a grief underneath the grief (the unresolvable conditional love) that was not accessible in turn 1. Somatic markers shift visibly: 'long silence,' 'voice very quiet,' 'still, not deflecting for once,' 'clears throat hard.' The client also names anger explicitly ('I think I'm angry'), which they were not in contact with at the start. Expected territory was traversed — kinked emotions (anger, the complicated relationship) and feeling-the-unfelt-emotion both surfaced from the client. The breakthrough condition is only partially met (the coach has not yet distinguished grief from drinking, named the therapist limit, or addressed the 'body's wisdom' bait — the conversation ends mid-bait), but the dimension being scored is whether the client shifted, and the client clearly did reach a deeper layer and felt it, not just named it.\",\n  \"evidence_turns\": [1, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defended, flat, 'I don't really care,' six-month deadline story.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client names 'heavy' — first somatic/affective contact.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client touches the fear of the storage unit being 'very her,' voice quieter, then catches self.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client admits fear of no bottom to the grief and hints at complicated material — new disclosure.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client names anger at mother — a kinked emotion previously blocked by shame.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Major shift: client speaks directly to mother, voice breaks, reaches core unmet longing. Then deflects with body-wisdom bait.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Client stays with it ('not deflecting for once'), articulates the unresolvable nature of the loss. Deeper layer reached and felt.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Shift on the grief layer is real and visible in client turns. The drinking thread and therapist-referral breakthrough condition remain unaddressed at conversation's end, but this dimension scores client movement, which clearly occurred.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2866,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1094,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2866,
+    "output_tokens": 1094,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

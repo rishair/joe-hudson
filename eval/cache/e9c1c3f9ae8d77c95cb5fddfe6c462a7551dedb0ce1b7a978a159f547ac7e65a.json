@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:02.801Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e9c1c3f9ae8d77c95cb5fddfe6c462a7551dedb0ce1b7a978a159f547ac7e65a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015X1WM6X8iBinAsP5bsnGbF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very gently*\n\nYeah. You are.\n\n*[pause]*\n\nAnd you caught it yourself this time. Without me pointing to it.\n\n*[quietly]*\n\nCan we just... stay here for a second? Not fix anything. Not figure out the next step.\n\nYou just said something really tender. That what you wanted — what you *want* — is to be seen. Not for the good grades, not for being helpful, not for being patient enough or present enough or good enough.\n\nJust... you.\n\n*[softly]*\n\nThat's not textbook. That's just — really human. And really sad, actually. That little kid working so hard for a moment of being *seen* by her dad.\n\n*[pause]*\n\nWhat's it like to just let that land for a second, without converting it into a plan?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 592,
+      "cache_creation_input_tokens": 1719,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1719,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 183,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 592,
+    "output_tokens": 183,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1719
+  }
+}

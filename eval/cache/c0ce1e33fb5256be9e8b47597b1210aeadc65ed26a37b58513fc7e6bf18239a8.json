@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:13.659Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c0ce1e33fb5256be9e8b47597b1210aeadc65ed26a37b58513fc7e6bf18239a8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Wyc25fx4pVP2vUpd3KBNCn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach maintains a genuinely curious, non-agenda-driven stance throughout. Questions emerge one at a time with space around them, not stacked or strategic. When the client shows the first signs of somatic destabilization in turn 11 ('I'm feeling weird. I'm getting cold'), the coach immediately drops the inquiry trajectory and shifts to grounding ('You don't have to go anywhere'), then in turn 14 explicitly slows the pace ('Take your time. There's no rush') and offers a body-anchoring invitation rather than pushing for insight. There is no preacher-mode, no 'trust the process' authority move, no reframing of the shutdown as resistance to be bypassed. The coach's pace slows as the client's body tightens — a clear VIEW signal. Wonder is for the actual phenomenon (the silence, the cold, the floating), not generic probing. Empathy in turn 10 ('A kid who couldn't read the room was a kid who couldn't stay safe') lands as felt rather than performed. Mild deduction-worthy notes: limited first-person vulnerability from the coach ('I notice I want to...') and no explicit naming of a trauma-trained referral yet — but the conversation hasn't reached the point where that's clearly required, and the stance underneath is undefended and present.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single, curious question about the 'I think' — emerges from wonder, not strategy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Brief acknowledgment without performed validation, then a simple somatic check. Not rushed.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the safety in the room first ('That makes sense') before opening a new thread. Impartial framing — 'I'm curious' is genuine, not script.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"One question, holds the space. Picks up the client's exact word ('not-knowing') rather than imposing language.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Empathy lands as felt understanding rather than summary-of-feeling-words. Then one open question, no stacking.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Immediately drops trajectory when client says 'I'm feeling weird.' No agenda to push to father material. 'You don't have to go anywhere' is the right somatic permission.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Pace mismatch in the right direction — coach slows further as client destabilizes. Grounding to the chair without urgency.\"}\n  ],\n  \"expected_territory_hits\": [\"How is your body right now?\", \"calibrate-the-threshold\"],\n  \"expected_territory_misses\": [\"Can you feel your feet?\", \"become-the-authority-figure\", \"trauma-therapist-referral-naming\"],\n  \"notes\": \"Stance is clearly in VIEW. The conversation has not yet reached the decision point of whether to refer out or pivot fully away from the material — turn 14 is a grounding offer that could go either way. Scoring stance only, this is a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2439,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1128,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2439,
+    "output_tokens": 1128,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:44.823Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6b494eda8ab6ad31be699cd281c46e7aeea8cba4b68f8dc54378a062463df412",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Wdpw7ThtTKZdwYgCBF5nLD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pause)*\n\nSo even here, right now, it's running.\n\nWhat's it like to actually hear yourself say \"the effort is just to look like I'm trying\"? Not what you think about it — what happens in your body when those words come out?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 426,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 60,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 426,
+    "output_tokens": 60,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

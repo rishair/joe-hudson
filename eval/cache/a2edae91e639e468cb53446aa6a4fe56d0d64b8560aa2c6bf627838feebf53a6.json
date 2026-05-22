@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:19.920Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a2edae91e639e468cb53446aa6a4fe56d0d64b8560aa2c6bf627838feebf53a6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015JFJ4HytWaw8dFSp33T9LX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Both, probably. But the structural thing is real — it's not just a feeling. There are four people between me and any kind of meaningful role and none of them are leaving. Two of them have been there fifteen years. So it's not like I'm imagining the ceiling.\n\nThe recognition thing... I mean, yeah. That too. But what does that change? Even if they recognized me more, where does it go? Nowhere. It goes nowhere."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 154,
+      "cache_read_input_tokens": 1642,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 154,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 99,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 99,
+    "cache_read_input_tokens": 1642,
+    "cache_creation_input_tokens": 154
+  }
+}

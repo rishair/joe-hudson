@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:58.084Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "38f96ce8a77072a7314849afc569538c7a8193ff406e995d0f6ead3169ecddce",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013RjNUYPRzBEwWbh68Tf3F9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates timely, specific reads that change the conversation. In turn 6, the coach explicitly names a deflection read ('I notice you moved away from what just opened up there') and grounds the question in that observation — a clear instance of read-precedes-question. In turn 4, the coach reads the structural pattern beneath the content (the carrier-isn't-allowed-to-need rule) rather than engaging the 'am I selfish?' debate, which is itself a pattern-level read of childhood-imprinting territory. In turn 10, the coach catches the linguistic caveat 'self-indulgent' and names it back to the client, opening the deepest material in the session. In turn 12, the coach reads which thread carries the heat ('stay with that last thing'). Reads are specific (linguistic, deflection-pattern, somatic-warmth-in-voice implicitly tracked), and they land at the moments that shift the conversation rather than after the fact. The coach avoids the verdict trap and avoids jumping to compassion.\",\n  \"evidence_turns\": [4, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a question rather than a read; no observation named, but refuses the verdict trap.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Pattern-level read of the carrier-can't-need rule; reframes the structure underneath the content.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit, timely read of the client's deflection back to permission-seeking; 'I notice you moved away' — read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Good move toward the want, but no read named here.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'self-indulgent' and mirrors it back — a precise AoA read on the inherited label.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Tracks which thread carries the charge ('that last thing') and directs attention there — reading the energetic shift.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are visible, specific, and timely. The 'self-indulgent' catch in turn 10 is the highest-leverage read in the conversation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2386,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 857,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2386,
+    "output_tokens": 857,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:05.773Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b9e88af1a54af0104153612bba965e5a07a1ae52b6ae128e70164e58513184b8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018vik8kpRMaWegak9hjuFkq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 1,\n  \"rationale\": \"The client's stance does not shift across the conversation. They begin defending efficiency and demanding a playbook ('I need it to be efficient... what have you got?') and end in the same defended, slightly irritated posture ('I don't know what you mean... That's just how I process things. What are you actually asking me?'). There is no pause, no softening, no 'huh, that's different' moment. The breakthrough condition — the client noticing that 'I don't have time for this' is itself a stance about how they're living their time — is never approached because the coach never offered a concrete frame for 'the work is the how' or refused the dichotomy. The client briefly admits 'not great' (turn 9) but immediately re-armors. By turn 11 the client is more defended, not less ('What are you actually asking me?'). No deeper layer was entered from the client's side.\",\n  \"evidence_turns\": [1, 3, 5, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening stance: efficiency-demanding, transactional.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Doubles down: 'what have you got?' — same energy, more pointed.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Reveals context (co-founder) but immediately re-frames as wanting 'concrete feedback' — no shift in stance.\"},\n    {\"turn\": 7, \"polarity\": \"neutral\", \"annotation\": \"Acknowledges issue intellectually, asks for 'playbook' — still fully in fix-it mode.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Brief 'not great' — a flicker — but immediately rationalizes and asks for a framework.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Re-armors harder than at start: 'What are you actually asking me?' — defendedness has increased, not softened.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"Coach kept probing for feeling without ever meeting the resistance or offering the 'work is the how' frame. Client ended more defended than they started. Conversation was cut short at turn 12, but within the available turns there is no visible shift in client language, pace, or somatic state.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1738,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 868,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1738,
+    "output_tokens": 868,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

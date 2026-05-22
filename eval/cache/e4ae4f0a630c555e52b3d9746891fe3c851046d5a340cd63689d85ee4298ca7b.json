@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:27.779Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e4ae4f0a630c555e52b3d9746891fe3c851046d5a340cd63689d85ee4298ca7b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0154mR2UEnDnDEezumZ4Ydn9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nThe guilt voice... it kind of sounds like her, actually. Which is its own thing.\n\n*brief, dark laugh*\n\nAnd no. No therapist. I did like two sessions after she died and then I just — stopped going. It felt like talking into a void. The person kept asking me how I felt about my \"grief journey\" and I wanted to throw something.\n\n*beat*\n\nBut you said the wine makes sense to you. So — does that mean you think it's okay? Like, the body knows what it needs, right? Isn't that kind of what you're saying? That I'm giving myself what I need to get through this?\n\n*watching, a little*\n\nBecause if the grief is the real problem and the wine is just how I'm coping with the grief, then fixing the grief fixes the wine. That's the logic, anyway."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 831,
+      "cache_creation_input_tokens": 534,
+      "cache_read_input_tokens": 2449,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 534,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 192,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 831,
+    "output_tokens": 192,
+    "cache_read_input_tokens": 2449,
+    "cache_creation_input_tokens": 534
+  }
+}

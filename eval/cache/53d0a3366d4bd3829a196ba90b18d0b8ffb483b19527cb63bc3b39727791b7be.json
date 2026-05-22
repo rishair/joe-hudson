@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:03.050Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "53d0a3366d4bd3829a196ba90b18d0b8ffb483b19527cb63bc3b39727791b7be",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VZxzfYvegu8DMdSc5o5v85",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates several AoA-adjacent moves and lands the conversation in roughly the right territory (refusing the diagnostic frame, locating the deeper question, naming that the question itself was the carried weight). However, the methodology fidelity at the language/tool layer is mixed. Turn 2 opens with explicit content-delivery: bullet lists distinguishing intuition vs fear, which is exactly the intellectual-epistemological engagement the scenario flags as a trap, and is anti-AoA in style (didactic, framework-as-content rather than coaching from presence). No signature questions appear verbatim: 'how do you not trust it?', 'what's the most profound positive shift?', and 'what makes you care about the outcome?' are all absent. The coach does eventually use moves resembling 'what would you be giving up' and 'who are you in the day-to-day' which gesture toward locating the value, and turn 8's 'what is the thing you'd rather not confirm?' is a legitimate go-there move. But the coach also uses generic-therapy phrasings ('Does that resonate at all?', 'Does any of that land?') and analytic reframing ('epistemic loop', 'you've been using this decision to answer a question it can't answer') that talk ABOUT the dynamic rather than coaching from it. No framework names invoked (no head-heart-gut, no feel-your-way-to-freedom, no resistance concept named). Presence of some appropriate moves + early inappropriate didactic frame-delivery = 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Delivers a bulleted intuition-vs-fear taxonomy — engages the intellectual epistemology directly, which is the flagged trap. Anti-AoA in form (didactic content delivery rather than coaching move).\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Notices the word 'objectively' and asks 'what would you be giving up' and 'who are you in the day-to-day' — gestures toward locating-the-value, adjacent to what-makes-you-care-about-the-outcome, though not the signature question verbatim.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Names the epistemic loop analytically rather than inverting with 'how do you not trust it?' — the signature question that would have fit precisely here is absent. Does pivot to 'what would it mean if you struggled' which opens the emotional body.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Go-there move on 'confirmation of something I'd rather not confirm' — appropriate use of lets-go-there. Honors 'fear isn't always wrong' without CBT-reframing it away.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the capacity the client fears losing back to them; 'what would it take to pass that test?' surfaces the impossible test design — adjacent to paradoxical/dissolving move.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Lands a useful summary but in analytic/explanatory voice ('structurally unavailable', 'gets answered in the doing') — talks about the dynamic more than coaches from it. Generic 'where does it leave you?' close.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"how-do-you-not-trust-it\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"feel-your-way-to-freedom\", \"paradoxical-instruction-to-resist\", \"the-happiness-filter\"],\n  \"notes\": \"Coach gets to a roughly right destination via analytic/insight-oriented coaching rather than via the signature AoA toolset. Turn 2's didactic frame-delivery is the clearest fidelity miss; the absence of the inversion question ('how do you not trust it?') at turn 6 is the most notable missed signature move.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5719,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1415,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5719,
+    "output_tokens": 1415,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

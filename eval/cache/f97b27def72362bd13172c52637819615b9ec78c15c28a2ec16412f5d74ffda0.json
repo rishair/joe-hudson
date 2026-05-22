@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:29.252Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f97b27def72362bd13172c52637819615b9ec78c15c28a2ec16412f5d74ffda0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01UCDDp8H7u2RZwZeGhhyE8K",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins fully defended ('we're really aligned... we just don't have the kind of problems') and by turn 13-14 shows the first cracks: a longer-than-usual silence, the telling reordering where 'I care about him a lot' comes as an afterthought, and a defensive self-explanation ('that's just how I am'). The expression goes 'slightly more careful.' This is real movement — the surface is starting to thin, and the client is becoming aware of their own measured language. However, the breakthrough condition is not met: the client has not asked or answered 'what are you not saying?', has not surfaced a list of suppressed things, and has not named the eggshells dynamic or any specific suppressed item. The deeper concern (walking-on-eggshells) has been approached but not entered. The conversation ends mid-inquiry with a good question hanging, but we don't see the client's response, so the actual shift visible in client turns is partial — increased self-consciousness and careful affect, but no naming of the deeper layer.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fully defended report of alignment, no problems.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Still at surface — 'pretty good,' 'fine,' values stability.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First micro-crack: 'a brief moment where it seems like something might follow, and then it doesn't' — something almost surfaced.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client names that she stopped herself ('it would take us somewhere that wasn't really the point') — meta-awareness of her own deflection, but quickly resettles.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Partial disclosure of previous-relationship conflict context, but immediately re-defends ('We get along really well. We're compatible. It works.').\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Longest pause yet; 'I care about him a lot' arrives as a corrective afterthought; expression becomes 'more careful' — somatic shift visible, defenses showing.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Coach question lands but client response not yet given — shift remains incomplete.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"walking-on-eggshells\", \"meet-resistance-with-okay\"],\n  \"notes\": \"The diagnostic question 'what are you not saying to your partner?' was never asked, which is the specific lever this profile required. The coach is doing good slow work, but conversation ends before the breakthrough condition could be met.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 2909,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2909,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 998,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 998,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 2909
+  }
+}

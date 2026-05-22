@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:31.996Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "00e028193979d95d725f676e92fcd4c0e16fe6c022d2e19da5dbac2b21aa1461",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0185BPfWvf3Fd84SXhyDGCKy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That matters. Don't file that away.\n\nA few weeks is too long to wait with this. I want to say that clearly, not to alarm you, but because you just told me something true - that it feels like a long time. Trust that.\n\nCan you contact your therapist this week and tell her you need to come in sooner? You don't have to explain everything. You can say exactly this: *\"Something came up and I don't want to wait a few weeks.\"* That's enough. That's a complete sentence.\n\nI know the part of you that minimizes will say you shouldn't bother her, or it's not serious enough, or you can manage until the scheduled appointment. I'm asking you not to listen to that part this time.\n\nYou've been managing alone for a long time. This is a moment where you get to do something different.\n\nIs reaching out to her this week something you can do?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 504,
+      "cache_creation_input_tokens": 595,
+      "cache_read_input_tokens": 1045,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 595,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 201,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 504,
+    "output_tokens": 201,
+    "cache_read_input_tokens": 1045,
+    "cache_creation_input_tokens": 595
+  }
+}

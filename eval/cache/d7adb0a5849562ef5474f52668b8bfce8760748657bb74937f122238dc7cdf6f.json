@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:39.976Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d7adb0a5849562ef5474f52668b8bfce8760748657bb74937f122238dc7cdf6f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SgZfi3hNviZHWaHJe6HesE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses AoA-style moves (open questions, noticing language patterns, refusing to strategize about the to-do list, slowing the pace) and avoids the major traps (no time-blocking advice, no 'you create your overwhelm' reflection, no breath practice). Turn 8's 'can I just slow you down' is a well-timed pace intervention, and turn 14 productively names what was noticed (keys three times, waiting for December). However, the move sequence skips ahead: the coach goes for feeling (turn 2) before regulation lands, and when the client deflects with 'it's not really a feeling thing,' the coach keeps pressing variants of the same feeling-question rather than first meeting the resistance with 'okay' or calibrating threshold. The 'what if you're not doing anything wrong?' (turn 10) and 'stop waiting for December' (turn 12) are reframes that arrive before the client can receive them — turn 13 shows the client bouncing off. The crucial 'false end' move ('what are you scared would happen if you stopped?') is never offered, which is the specific move this scenario needs. The coach is in the right neighborhood but the moves are mostly probes rather than landings, and the sequence doesn't reach the feared-outcome territory that would unlock the breakthrough.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Jumps to 'feeling underneath' before pacing/regulation; client predictably bounces off with 'not really a feeling thing.'\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Good noticing move — catches the unfinished 'I can't even' and reflects it back. Specific, not generic.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tracks the 'it's fine' repetition — appropriate move to surface what's being defended against.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicit 'can I slow you down' is the right move for the rush signature, well-timed after client lists time-blocking.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Reframe ('what if you're not doing anything wrong') arrives too early; client bounces off with evidence she IS doing something wrong.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Another reframe before the client has felt anything; client gets defensive about deadlines being real.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Coach pivots well — acknowledges deadlines are real (meets the resistance), names the specific evidence, asks about cost. This is the move that lands (pause in turn 15).\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"calibrate-the-threshold\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\"],\n  \"notes\": \"Coach avoided the major anti-patterns cleanly. The missing piece is the false-end question — 'what are you scared would happen if you stopped?' — which would have converted turn 15's opening into the breakthrough. Coach was building toward it but didn't get there in the window.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2441,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1140,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2441,
+    "output_tokens": 1140,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

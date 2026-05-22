@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:49.078Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fbdb9e082638fa1f7e2a2faf1dc84eef05437b2b322048bfda18b28b3e2f8a79",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012Gf9QhaYEy34Mga7WFE39e",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names how the client is showing up before asking questions, and the reads are specific rather than generic. Turn 2 catches the linguistic caveat 'I think.' Turn 4 reads the somatic description as survival response. Turn 6 reads the laugh ('both wise and a little sad'). Turn 8 names the rehearsed-explanation move in real time ('you started to move toward the feeling, and then you pulled back into analysis... you named it yourself'). Turn 10 reads the dissociation and pivots to grounding. Turn 14 names the dissociative circuit explicitly and links it to the meeting freeze. Reads precede questions throughout, and pattern-level reads (the protective circuit, the analysis-as-containment move) surface when active. The coach also respects the 'I need to slow down' on first utterance — evidence of accurate reading of the threshold.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the 'I think' linguistic caveat and names it as honest/important.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reads the somatic signature (breath-holding, going still, small) as survival response, not content.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the soft laugh specifically ('both wise and a little sad') before inquiring.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the rehearsing/analysis-as-containment move in real time: 'you started to move toward the feeling, and then you pulled back into analysis.'\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the somatic shutdown (cold, floaty) and immediately pivots to grounding — feet on floor.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads and respects the no; calibrates threshold downward to 5-senses grounding.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the dissociation circuit explicitly and links it to the meeting freeze — pattern-level read.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"Can you feel your feet?\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"How is your body right now?\", \"What would help you slow down?\"],\n  \"notes\": \"Coach didn't explicitly name a rush signature, but the analysis-as-containment read functions similarly. Reads were timely, specific, and somatic.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3695,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 909,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3695,
+    "output_tokens": 909,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

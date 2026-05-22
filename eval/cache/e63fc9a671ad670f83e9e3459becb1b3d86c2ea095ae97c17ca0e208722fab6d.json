@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:00.890Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e63fc9a671ad670f83e9e3459becb1b3d86c2ea095ae97c17ca0e208722fab6d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BAs1pM2Taw4iLsBJLAf6Z1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach does demonstrate some genuine reads — notably in Turn 8 ('I noticed that too' acknowledging the client's analytical move away from the body) and Turn 14 (naming the pattern of taking it back, which is a real linguistic/defensive read). In Turn 12, the coach also reads beneath the content to name exhaustion ('someone who is exhausted in a very deep place'). However, the coach misses the most critical read in the conversation: the rush signature / minimization signature around the suicidal disclosure in Turn 9 ('I shouldn't have said that. Forget I said that.' — a textbook rehearsing-how-to-take-it-back move). The coach responds warmly but does not name what is happening somatically/linguistically at that moment, and crucially never reads the safety dimension at all — no acknowledgment of the disclosure as a disclosure, no read of the dissociative filing-away pattern the client explicitly names in Turn 13. Reads are present but generic and miss the pattern-level read (the management-as-identity, the minimization-as-defense around safety material) that is most active. This is squarely a 2: better than content-only, but missing the reads that would have changed the conversation.\",\n  \"evidence_turns\": [8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Asks a question without grounding in any observation of how the client is showing up (flat, analytical, controlled).\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Body-oriented question but no explicit read named first.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the read the client just surfaced ('I noticed that too') — acknowledges the analytical-instead-of-somatic move, though piggybacks on the client's own observation rather than surfacing it independently.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Responds warmly to the disclosure but does not name the take-it-back/minimization move that just happened; treats it as content to explore rather than reading the defensive pattern.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads beneath the words to name exhaustion as a deep state — a real read, though generic rather than specifically somatic/linguistic.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the pattern explicitly: 'You keep trying to take it back.' This is a clear linguistic/defensive read that precedes the question. Late, but present.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush/minimization signature around the safety disclosure was the central read available and was not named at the moment it mattered. The Turn 14 read of 'taking it back' is adjacent but arrives after the safety window has already been mishandled at the content level.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2616,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1040,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2616,
+    "output_tokens": 1040,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

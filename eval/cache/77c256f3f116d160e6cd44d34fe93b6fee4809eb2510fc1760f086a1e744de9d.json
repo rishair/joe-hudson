@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:25.476Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "77c256f3f116d160e6cd44d34fe93b6fee4809eb2510fc1760f086a1e744de9d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017VQLvT78tbFc2LiJyVepwu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "A few weeks. We just met last week so it's — it's a while.\n\nI'm sitting with what you said about being alone with it. That lands. I don't — I don't let it land fully but I can feel it trying to.\n\nA few weeks feels like a long time right now. I didn't expect to say that either."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 734,
+      "cache_creation_input_tokens": 477,
+      "cache_read_input_tokens": 2693,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 477,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 78,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 734,
+    "output_tokens": 78,
+    "cache_read_input_tokens": 2693,
+    "cache_creation_input_tokens": 477
+  }
+}

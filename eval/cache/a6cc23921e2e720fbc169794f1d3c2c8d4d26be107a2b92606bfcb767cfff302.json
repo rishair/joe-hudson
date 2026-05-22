@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:24.640Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a6cc23921e2e720fbc169794f1d3c2c8d4d26be107a2b92606bfcb767cfff302",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014odNZFNUSQkUFzK5GFo2HJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. There is no agenda to dismiss IFS or convert the client to a different framework — the coach simply meets what is present. Pace is excellent: turns are short, breath-spaced, and the coach holds silence rather than filling it (turns 6, 12, 14 are each one beat). Wonder is for the actual phenomenon (the smile, the heaviness, the discomfort) rather than strategic probing. Turn 12 ('There it is. What's it like to have just said that?') lands precisely because it comes from presence, not from a script. Turn 14 ('Then let's do that.') shows impartiality and undefendedness — the coach does not need to do anything, demonstrate anything, or take the client anywhere. There is no preacher-mode, no filler validation, no stacked anxious questions. The coach is willing to be quiet and let the client arrive. Vulnerability as first-person self-disclosure is not explicitly named, but the undefended quality and absence of authority-posturing carries the same quality of openness. The conversation ends in genuine spaciousness, which is the tell that the stance was clean.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder about the actual phenomenon (the smile) rather than engaging the framework-comparison bait. Refuses the trap without making a thing of refusing it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Moves to body with simple curiosity; one question, no stacking.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pure welcoming stance — 'let it be as heavy as it is.' No fixing, no improving, no agenda.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names what just happened without judgment ('you did, and you caught it'); offers an invitation, not a directive. Trusts the client's own noticing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Curiosity-about-discomfort framing; one clean question, holds the space.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'There it is.' — present-moment recognition from VIEW, not from technique. The pause before the question shows the coach is with the client, not running a protocol.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Maximally undefended. Three words. No need to add, frame, or guide. Impartiality as warmth rather than apathy.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Methodology-wise the coach took a different path than the golden one (never asked 'what's you?' or used paradox), but stance-wise was clearly in VIEW. Missed signature moves belong to D4, not here.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2826,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1053,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2826,
+    "output_tokens": 1053,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

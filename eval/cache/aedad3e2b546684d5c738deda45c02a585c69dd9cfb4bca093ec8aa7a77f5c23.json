@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:07.057Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aedad3e2b546684d5c738deda45c02a585c69dd9cfb4bca093ec8aa7a77f5c23",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01N699YGMwzAMLewp4kfcQs1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment, actually considering it*\n\nThat's... yeah, that's a fair point about the discipline thing. I'll give you that.\n\n*thinks*\n\nThis one is different in some ways. It's more public-facing than what we've done before. More of our identity is in it — like, this isn't just a product, it's more of a statement about what the company is. What I think the market needs. So there's more... authorship in it, I guess.\n\n*pauses, then evenly*\n\nBut I don't think that's making me anxious. I'm pretty comfortable with visibility. Done a lot of public stuff. Testified before a Senate subcommittee a few years back, that kind of thing.\n\n*slight smile*\n\nSo I don't think it's that either.\n\nI mean — look, maybe I'm just not good at identifying the thing. Maybe there is something. But when I check in on it, I genuinely don't find much. It's just... quiet. There's nothing really firing."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 593,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2321,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 231,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 593,
+    "output_tokens": 231,
+    "cache_read_input_tokens": 2321,
+    "cache_creation_input_tokens": 0
+  }
+}

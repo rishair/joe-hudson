@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:21:17.787Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b64aa25def6382eed888299594e76d0018d6046d44fc078fede77e6a23fd2586",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DmZ4PghnQjxCrXYWdcurKb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(slight smile, a little tired)*\n\nNo, I wouldn't think they were a fraud. Obviously. I'd think they were describing a genuinely capable person with some unnecessary self-doubt.\n\n*(beat)*\n\nAnd yes, I hear the implication. I'm applying a double standard. I know. I've known that for years. The knowing doesn't help.\n\n*(something flickers — a little more real)*\n\nWhen did it get proven wrong... there was a presentation about six weeks ago. I was convinced it was going to fall apart — I'd been in my head about it for two weeks beforehand, the critic was *loud*, all the usual. And it went well. Really well, actually. People were engaged, asked good questions, my boss pulled me aside after.\n\nAnd then — and this is what I was saying earlier — that's when it got *worse*. Like, the critic immediately started in with \"okay but that was a fluke, now the bar is higher, now you have more to lose, now they're really watching.\" So the evidence that was supposed to disprove it just became more fuel.\n\n*(a beat, something slightly more open)*\n\nWhich I guess is what you're getting at. The evidence doesn't reach it. It just... gets incorporated. So I don't know what experience actually changes it, because apparently success doesn't. And I'm not going to manufacture failure to test the other direction.\n\nSo I'm genuinely asking — not rhetorically this time — what does move it, if evidence doesn't?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 922,
+      "cache_creation_input_tokens": 648,
+      "cache_read_input_tokens": 2284,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 648,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 332,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 922,
+    "output_tokens": 332,
+    "cache_read_input_tokens": 2284,
+    "cache_creation_input_tokens": 648
+  }
+}

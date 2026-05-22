@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:49.441Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ea94def8822d92340be8ea0067f58bcc3c1f3987bd480c5ddfae9c7abb410324",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WWPTc8XNY2oqx4MbNk7g3i",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know what you mean. \"Not great\" means it's a problem I need to solve. That's — that's just how I process things. Identify the issue, find the fix, move on. That's what's gotten us this far.\n\nWhat are you actually asking me?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 162,
+      "cache_creation_input_tokens": 197,
+      "cache_read_input_tokens": 1824,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 197,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 65,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 65,
+    "cache_read_input_tokens": 1824,
+    "cache_creation_input_tokens": 197
+  }
+}

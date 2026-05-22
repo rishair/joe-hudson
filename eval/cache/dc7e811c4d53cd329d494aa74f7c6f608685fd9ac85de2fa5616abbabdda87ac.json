@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:01.060Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dc7e811c4d53cd329d494aa74f7c6f608685fd9ac85de2fa5616abbabdda87ac",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H8eaPBb3pwM3BSJnTALw9w",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What do you dread about it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 236,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 11,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 236,
+    "output_tokens": 11,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

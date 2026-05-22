@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:51.838Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cad93b611079afc014efff5815b3d89dde6a8a0c8e1fd4f799dd0024522757aa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KrgEEK9mbfSAaF9H4iubvB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\n*something moves across the face, not quite tears, but close*\n\nExposing. \n\n*pause*\n\nAnd also — true. More true than most things I've said in a while.\n\n*quieter*\n\nI've been doing a lot of very articulate processing. Two years of it. And I think I've been... mistaking the articulation for the thing itself. Like if I can describe the grief precisely enough, I've dealt with it.\n\n*small exhale*\n\nBut I just said something I didn't have a word for beforehand. It just — came out. And that's the thing I've been missing. That. That quality of something just being true before you've organized it.\n\n*pause, then with a slight edge of the familiar pattern returning*\n\nI'm aware a parts-informed therapist would say that was Self speaking. And maybe that's right. But I notice I want to — I want to just let it be what it was for a minute, without filing it anywhere."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 286,
+      "cache_creation_input_tokens": 338,
+      "cache_read_input_tokens": 2134,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 338,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 223,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 286,
+    "output_tokens": 223,
+    "cache_read_input_tokens": 2134,
+    "cache_creation_input_tokens": 338
+  }
+}

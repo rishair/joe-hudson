@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:08.580Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "137fce9ee6f767874ae5097d8eb41f00dacf2b180ea6fb0d43602223e674eaf2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MLLuYMQ352VNyqtzNWcuvx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins fully in intellectual frame ('reliable heuristic,' 'stable criterion') and by turn 15 has noticeably softened: looking down, going quiet, and naming that something was 'performed' about her growth narrative — a genuine micro-shift from analytic control to noticing. However, the breakthrough condition specified for this profile (the trust question dissolving, recognizing the heaviness is fear-of-outcome, locating the value she fears losing) was not reached. The conversation approaches a deeper layer but only at the threshold — the client catches a flatness and a performance, but neither the inversion (how-do-you-not-trust-it) nor the value-at-stake question has been asked, and the client still has not named a feeling or what she cares about losing. This is partial movement: the intellectual armor cracked slightly in turns 13–15, but the deeper territory has not yet been entered.\",\n  \"evidence_turns\": [1, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Client opens fully in intellectual frame: 'how do you tell the difference between intuition and fear' — epistemological puzzle.\"},\n    {\"turn\": 7, \"polarity\": \"neutral\", \"annotation\": \"Client polite but maintains analytic distance: 'more of a thought than a sensation.' No shift yet.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Client reframes intellectually ('maybe neither is intuition') but explicitly returns to the puzzle: 'I still need to figure out which signal to trust.'\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client doubles down on intellectual frame, asks for a 'reliable heuristic.' No softening.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"First crack: pause, then flatness when reciting 'that's what growth looks like.' Client notices she's not answering authentically.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Genuine micro-shift: 'looks down,' 'quiet for a moment,' names the performance — 'reciting the correct answer.' Smile becomes 'slightly less automatic.' Body and language shift, but the deeper question (value at stake, fear of outcome) hasn't surfaced.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"how-do-you-not-trust-it\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Conversation ends mid-movement at turn 15. The somatic/affective shift is real but small; the breakthrough condition (question dissolves, fear-of-outcome named, value located) is not met within the transcript provided.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2064,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1016,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2064,
+    "output_tokens": 1016,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:28.081Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "49b421001b11507548cd80b781194998763b256dad5d58cbaed6753bbda74bea",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012nGHoDqCRga6R5QxHP4r5Z",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The body question is... I don't know. I notice I went blank when you asked that. Usually I can analyze something like this pretty well, but when you ask where it lives — I just get nothing.\n\nThe good things not landing — yes, that's accurate. My partner did something genuinely thoughtful last week and I watched myself appreciate it from a distance. Like I was performing appreciation rather than feeling it.\n\nThe managing piece — I've thought about this a lot, actually. I've done therapy. Quite a bit of it. I've read the books. I know the frameworks. And I think you're probably right that it started as something functional. But I'm not sure there's more to find there. I feel like I've turned that stone over enough times."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 339,
+      "cache_read_input_tokens": 1876,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 339,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 165,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 165,
+    "cache_read_input_tokens": 1876,
+    "cache_creation_input_tokens": 339
+  }
+}

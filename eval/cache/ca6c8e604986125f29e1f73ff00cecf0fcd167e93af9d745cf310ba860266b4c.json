@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:50.912Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ca6c8e604986125f29e1f73ff00cecf0fcd167e93af9d745cf310ba860266b4c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WRycyky3oPmqjy385g3rhD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\nYeah. Yeah, that... I think that does land.\n\n*pause*\n\nI mean -- I know I'm allowed to. Like, intellectually I know that. My therapist has said that. But knowing it and... feeling like it's actually okay are different things, I think.\n\n*quieter*\n\nShe's always been the one who needed more. Since we were kids, kind of. And I was just -- I was good at being steady. So that became the thing. I was the steady one. And I think somewhere along the way that stopped being something I chose and became just... what I am. In the family.\n\n*pause, then almost to herself*\n\nI don't know when I stopped getting to choose it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 476,
+      "cache_creation_input_tokens": 249,
+      "cache_read_input_tokens": 1713,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 249,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 167,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 476,
+    "output_tokens": 167,
+    "cache_read_input_tokens": 1713,
+    "cache_creation_input_tokens": 249
+  }
+}

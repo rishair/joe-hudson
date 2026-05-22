@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:27.407Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "38f92812a9428a202f6a590536f7f8ca7f0a759e99df29482cb1b6c113cbaaec",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CqvGTmqX54FXegzCoQN9U7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You trailed off right before you told me what \"immediately available\" felt like in practice.\n\nWhat's the word you didn't say?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 937,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

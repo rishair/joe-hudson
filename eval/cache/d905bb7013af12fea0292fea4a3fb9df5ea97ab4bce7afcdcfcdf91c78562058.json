@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:55.542Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d905bb7013af12fea0292fea4a3fb9df5ea97ab4bce7afcdcfcdf91c78562058",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011RCCgRydiyw3EtJhJ7yvSf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, it makes a lot of sense. And I'm curious — what if you're not doing anything wrong?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 787,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 787,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

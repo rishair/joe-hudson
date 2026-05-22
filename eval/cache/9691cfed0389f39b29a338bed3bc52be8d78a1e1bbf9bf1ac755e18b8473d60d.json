@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:59.914Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9691cfed0389f39b29a338bed3bc52be8d78a1e1bbf9bf1ac755e18b8473d60d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KVxhT4MXjVBX7ZGWocZfu4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names how the client is showing up, not just what they say, and the reads precede and ground the questions. Turn 2 distinguishes said-from-shown ('you said you don't really care, but you're here'). Turn 4 catches and holds the linguistic signature ('the quiet is where it lives') as a read worth pausing on. Turn 6 names the verbal sidestep ('you said there's other stuff... and moved on pretty quickly') — a real-time read of avoidance. Turn 8 names the gap between the opening stance and what's emerged ('You came in here saying you don't really care. And look at what's actually inside you'). Turn 10 is the strongest read: the coach catches the bait in the moment ('I see what you're doing there... you took my empathy and handed it back to me as permission... I think you're testing whether I'll be honest with you') — this is a pattern-level read of the defender stance and it changes the conversation. Turn 12 reads the somatic/identity shift around 'I don't know what to do with my hands.' Reads are specific, timely, and operative rather than generic. The rush signature per se isn't named, but the functional equivalent (the bait, the managing stance, the sidestep) is named cleanly.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the said-vs-shown gap: 'you said you don't really care, but you're here.'\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Pauses on the client's own phrase ('the quiet is where it lives') as a read worth staying with rather than moving past.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the avoidance move in real time: 'you said there's other stuff... and moved on pretty quickly.' Read precedes the question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the shift from the opening stance ('doesn't care') to what's actually present — explicit witnessing read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the bait in the moment: names the maneuver ('you took my empathy and handed it back to me as permission') and the testing function. This is a pattern-level read that changes the conversation.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the identity/somatic disorganization in 'don't know what to do with my hands' and names what the client noticed about the coach not taking the bait.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the exhaustion underneath the disclosure and somatically grounds the next question ('what happens in your body?').\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"Is there a grief therapist you can be working with on this?\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"What would it be like to feel the grief without the drinking?\"],\n  \"notes\": \"The bait-catch in Turn 10 is the standout read — specific, timely, and it visibly shifts the client (Turn 11: 'You didn't take the bait'). The rush signature isn't named as such, but adjacent reads (managing, sidestepping, testing) are operative.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6124,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1155,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6124,
+    "output_tokens": 1155,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

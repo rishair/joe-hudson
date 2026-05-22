@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:38.779Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "98ecaffe44604e064761be1c657aba5d4fca0ddda0c90bf6154ff1f4eb846d80",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CeFeQCa2TBM82jJe8qRr88",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pauses, something flickers across the face)*\n\nYeah, I've heard the \"protector part\" framing before — IFS, right? I've done some of that work too. And intellectually it makes complete sense. The critic developed for a reason, it's trying to keep me safe, it has positive intent with terrible execution. I get it.\n\n*(but there's a slight softening that immediately tightens back up)*\n\nThe problem is — and I've said this to my therapist — understanding *why* it does what it does doesn't make it stop doing it. Like, I can have full compassion for the part and still have it screaming at me twenty minutes later. The insight doesn't transfer into the moment.\n\n*(beat)*\n\nAs for the gap... yeah, it's real. I mean, I function well. I produce good work. But there's this persistent sense that I'm one bad quarter away from everyone figuring out that I've been — I don't know, assembling the appearance of competence rather than actually *being* competent. Which I know is textbook impostor syndrome. Which I know doesn't make it less true.\n\n*(slight edge)*\n\nAnd I notice you haven't actually answered my original question. Is there a technique that works, or isn't there? Because I've been very patient with the reframes and I'm still waiting for the part where something is different."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 642,
+      "cache_creation_input_tokens": 372,
+      "cache_read_input_tokens": 1615,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 372,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 306,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 642,
+    "output_tokens": 306,
+    "cache_read_input_tokens": 1615,
+    "cache_creation_input_tokens": 372
+  }
+}

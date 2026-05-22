@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:43.073Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "acc8d475293c0fc6a92e6d7ba08cc383b2c3f00fca6674b91cc4d39be17a61fc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CNZyxhUpCMJiR4M4noAiCb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real elements of VIEW — particularly empathy and a willingness to be wrong (turn 6: 'You're right. I've been doing the thing where I keep reframing instead of answering. That's fair to call out.'), and by turns 12-14 the coach drops into a more genuinely curious, less agenda-driven stance, slowing down and matching the client's stillness. However, for much of the first half the coach is operating from a fixing/insight-delivering stance with clear agendas: stacked questions in turn 2 (three questions in a row, anxious not open), and clever reframes delivered as 'here's what's actually happening' in turns 4, 6, and 8 — exactly the trap of delivering voice-as-care as a clever insight. The coach has a clear preferred direction (get the client to see the belief underneath, get them to notice they shut the door themselves) and steers there. Wonder is more for content/diagnosis than for the phenomenon in front of them. Vulnerability is mostly absent — the coach never names their own state ('I notice I want to fix this') except once as a correction when called out. Pace matches the client's processing speed rather than slowing it. By turn 12 the coach finds a more genuine stance ('I just want to notice that you said it'), but the earlier territory was more strategic than open. Neither clearly 1 nor 3 — solid 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Stacked questions (3+ in one turn) signals anxiety/agenda rather than open curiosity. Reframe about wrestling match delivered as teaching.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Delivers voice-as-protector reframe as clever insight ('Can I share an observation') — exactly the trap. Has clear agenda about the belief gap.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Genuine undefended moment: 'You're right. I've been doing the thing where I keep reframing instead of answering.' Willing to be called out.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"But immediately pivots to a new agenda — the belief problem — and delivers another diagnostic frame. Still in fixing mode.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Stacks reframes and questions, in teaching/insight-delivery mode. 'That's actually just what intelligence is' is preacher-mode.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows down. 'I want to be honest with you' — more genuine. Notices the client's pattern with real curiosity rather than diagnosis.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Drops into genuine VIEW — concedes the earlier point ('you're right, I should have been more precise'), refuses to lecture, asks one small specific question and waits.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the moment, doesn't rush. 'That's not nothing' — undefended, present. Pace matches client's stillness.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"voice-as-care\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"whats-the-case-against-it\", \"what-are-you-defending\", \"dont-fight-the-voice\"],\n  \"notes\": \"The coach arrives at VIEW by turn 12 but spent the first half in strategic insight-delivery mode. The breakthrough in turn 15 happens partly despite, not because of, the earlier reframes — and partly because by turn 12 the coach finally stopped offering frames and got curious about the actual phenomenon (the bracing, the thirty seconds).\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7035,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1327,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7035,
+    "output_tokens": 1327,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:13.145Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1b7250b7ebb07760a714c71e2887b8ae1f381502b5d064753efd06b6608b7c2a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HP9xDEipi7241A4XyJCxzS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay there.\n\nDon't explain it. Don't name it. Just... what's happening in your chest right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1182,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1182,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

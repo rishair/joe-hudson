@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:39.681Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "34d59a8a608a73826fdc91c8f8d4339f5ae1961042bbcfb867d83f45d87f3744",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019pVEmwWygZtkix4DW6YSvj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, I hear that. You're not stuck because you're passive or afraid - you've been looking, and nothing clean has presented itself. That's different, and it matters.\n\nCan I ask - when you say you've been looking, what has that actually looked like? I'm not asking to find the thing you missed. I'm just trying to understand whether this has been active searching that hasn't turned anything up, or more like... scanning the horizon from where you stand and not seeing anything obvious.\n\nBecause sometimes when we're this deep in frustration and constraint, the search itself gets narrowed without us quite realizing it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 717,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 134,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 717,
+    "output_tokens": 134,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

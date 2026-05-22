@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:07.670Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9239ca489e97bcfe3a3d3a412235d3e0e413fc0d83552e398b78e1a18a811b36",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XYM7rmNGGQWrPTBtEEgWXt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The system is rigged. Can't move up at work because the people above me just — they're not going anywhere, and I'm sitting here watching my best years disappear and there's nothing to be done about it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1597,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1597,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1597
+  }
+}

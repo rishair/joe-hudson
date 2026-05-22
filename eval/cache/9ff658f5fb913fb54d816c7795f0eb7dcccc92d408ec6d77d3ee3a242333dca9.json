@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:39.002Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9ff658f5fb913fb54d816c7795f0eb7dcccc92d408ec6d77d3ee3a242333dca9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Qs8QY7MW6NW8RDCWLXymCp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client undergoes a clear, visible shift across the conversation. They open with performative exhaustion and a demand for technique ('I want it to shut up. Is there actually a technique that works?'), and across the turns their language slows, softens, and becomes less defended. By turn 13, somatic material emerges that the client themselves frames as different ('warm... in the chest... shoulders just down') and they spontaneously discover a distinction they'd never made before: 'Is the bracing the critic? Or is the bracing what happens before the critic? I've been treating them as the same thing.' The final turn meets the breakthrough_condition almost verbatim from the profile: 'I've been trying to defeat it. Even when I was doing compassion practices, I think I was doing them as a strategy to defeat it... That's not the same as actually stopping fighting it. I haven't tried that... Huh.' This is precisely the 'wait, I haven't tried not fighting it' / 'huh, that's not nothing' marker specified. The shift is in client text, not coach confidence: pacing slows, defenses drop ('looks slightly stunned by their own admission'), and a new layer (the war itself, the bracing, the self-closing door) is named from inside experience rather than from a framework.\",\n  \"evidence_turns\": [1, 7, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: performative exhaustion, demand for technique, defended posture.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client still in intellectualizing/credentialing mode ('I know about defusion'); no shift yet.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Slight softening flickers then tightens; client gets sharp and re-demands a technique. Resistance still dominant.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First genuine laugh; client names the underlying belief ('high-functioning mimic'). Deeper layer beginning to surface, though immediately re-armored.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client offers concrete lived material (the presentation); genuine question replaces rhetorical demand ('not rhetorically this time').\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major opening: 'that landed a little differently'; client admits to closing the door themselves in 30 seconds of good feeling.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic material surfaces (warmth, shoulders dropping, bracing); client spontaneously generates a new distinction (bracing vs. critic) from inside their experience.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough condition met: client articulates that all their work has been fighting, including 'gentle fighting,' and that not-fighting is something they've never tried. Quiet 'Huh.' marks the felt landing.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"view\", \"whats-the-case-against-it\"],\n  \"notes\": \"Coach took a slightly different path than the golden path (more focus on the self-closing-door / bracing than on view-of-the-voice as a practice), but the alternate route produced the exact breakthrough the profile specified. The client's final 'I haven't tried not fighting it. Huh.' is a near-verbatim match to the breakthrough_condition.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7031,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1248,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7031,
+    "output_tokens": 1248,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

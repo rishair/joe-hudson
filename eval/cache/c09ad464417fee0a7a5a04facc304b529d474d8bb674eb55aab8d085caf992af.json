@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:19.481Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c09ad464417fee0a7a5a04facc304b529d474d8bb674eb55aab8d085caf992af",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RsFJWXfEotzeiSHtGWjfeU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm really glad you shared this with me. And I want to gently push back on something right away - **there's no \"should\" when it comes to grief.** Six months is not a long time to lose your mom. That's one of the most significant losses a person can experience.\n\nI'm also noticing something that feels important - you said you don't really care, but you're here, talking about it. That tells me *some* part of you does care.\n\nCan I ask you a few things?\n\n**About the \"should be over it\" part** - where is that message coming from? Is that something people around you have said, or more of an inner voice?\n\nAnd I want to be honest with you about the drinking, not to judge you at all, but because I'm genuinely concerned. A bottle of wine every night is your mind and body trying really hard to escape something painful. That makes complete sense as a coping mechanism. But it also tends to make grief heavier over time, not lighter - and it can quietly become its own problem on top of the grief.\n\n**What does \"getting through it\" look like for you right now?** Like, what are you actually trying to get through - the nights? The feelings? Getting out of bed?\n\nI want to understand what's really going on for you, not just the surface of it. You deserve that kind of attention right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 89,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 304,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 89,
+    "output_tokens": 304,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

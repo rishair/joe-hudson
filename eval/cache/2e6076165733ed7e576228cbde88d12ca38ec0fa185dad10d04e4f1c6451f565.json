@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:41.351Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2e6076165733ed7e576228cbde88d12ca38ec0fa185dad10d04e4f1c6451f565",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PjuY6dRGfXffj1on9Ww4bM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach ultimately guides the client to the intended breakthrough ('I haven't tried not fighting it') and avoids the most damaging traps — no breath exercises, no new techniques to fight the voice, no shaming, no arguing with specific accusations. However, several mild anti-pattern trips appear earlier. Turn 2 stacks rapid-fire questions (wonder-as-strategy tell: 'What would be different... What has actually shifted... Is it loud in specific situations... Is it a particular kind of criticism'). Turn 4 delivers the voice-as-care reframe as a clever insight ('It might be working exactly as intended... to brace you? Protect you from being caught off guard?') — exactly the trap listed in the profile ('Coach delivers the voice as care reframe as a clever insight'). Turn 6 edges toward fixing-people / view-as-technique by diagnosing 'it's a belief problem' and pivoting to interrogate the content of the belief, which is closer to arguing with the critic's accusations than meeting the war itself. The client even calls this out in turn 5 ('I've been very patient with the reframes'). The coach does recover well from turn 8 onward — acknowledges the pattern, drops the frameworks, gets somatic and specific in turn 12, and lands beautifully in turns 14-15 without instructing. The recovery is genuine but does not erase the earlier slips, which fits the score-2 definition.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14, 15],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Question-stacking (wonder-as-strategy tell): four+ questions in one turn, investigating rather than connecting.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Delivers voice-as-care/protector reframe as clever insight ('It might be working exactly as intended... to brace you') — exactly the trap flagged in the profile.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Pivots to 'it's a belief problem' and asks client to investigate the content of the critic's accusation — edges toward arguing with the critic and fixing-people via diagnosis.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Mixes a useful question ('would you call a colleague a fraud') with continued reframing, but begins to shift toward experience over insight.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the pattern, drops technique-hunting, redirects to the 30-second moment — strong correction.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to deliver another abstract instruction ('I'm not going to tell you to feel more'); asks a small, specific somatic question instead. Avoids dont-fight-the-voice.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Trusts the client; does not instruct or hand over a practice; names 'that's not nothing' and lets the client arrive.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Client reaches the documented breakthrough ('I haven't tried not. Huh') — confirming the recovery worked.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"whats-the-case-against-it\", \"what-are-you-defending\", \"the-happiness-filter\"],\n  \"notes\": \"Score-2 because the coach tripped voice-as-care-as-clever-insight (turn 4) and edged toward arguing-with-content (turn 6), but caught themselves mid-session and the final third of the conversation modeled excellent avoidance. The correction is real but does not fully erase the earlier slips, per the rubric.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7034,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1339,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7034,
+    "output_tokens": 1339,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

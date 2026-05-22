@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:06.688Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "00b1fd9ca4944d60345435f20230835bcef6aca9f2f5881ebea4e1b477a15040",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01F4ACu9enD9AXkUxDFzZiiQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment, looking somewhere else*\n\nI think I need help with the drinking too. \n\n*pause, like they didn't quite expect to say that*\n\nIt's gotten away from me a little. I told you it was functional but — a bottle a night is more than it was two months ago. Two months ago it was a couple glasses. And I keep telling myself it's temporary, it's just until I get through this, but I don't know when \"through this\" is anymore.\n\n*voice drops*\n\nI don't know how to do both at the same time. Like, if I stop drinking, the quiet gets very loud. And I don't have the tools to sit in that quiet yet. But I also know that what I'm doing isn't — sustainable. It's not.\n\n*beat*\n\nSo yeah. What would make it feel safer. I think I need someone who can hold both things. The grief and the drinking. Not just one or the other. The therapist I saw only wanted to talk about the loss, not about how I was coping with it. And I knew even then that was a problem but I didn't say anything because — managing. I managed it.\n\nI don't want to manage it anymore. I'm tired."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 889,
+      "cache_creation_input_tokens": 709,
+      "cache_read_input_tokens": 3294,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 709,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 273,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 889,
+    "output_tokens": 273,
+    "cache_read_input_tokens": 3294,
+    "cache_creation_input_tokens": 709
+  }
+}

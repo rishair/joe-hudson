@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:33.400Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8348fc6a5e07a59818df37dcbd1e25e7faa8ca3ec59279a72ebb98ca85571755",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WLUi3gqHZg7W42uTx44f6H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(exhales sharply, tight smile)*\n\nMy inner critic is brutal. I've done the meditation, the therapy, the journaling, the affirmations — I've genuinely tried everything — and I just... I want it to shut up. Is there actually a technique that works, or is that just not a thing?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1570,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1570,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 72,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 72,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1570
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:46.705Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d0bcdf15d34b6726f6758db4240501a8a9879d6e2e40d02177fb72767901e2a9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UjADBmCcnMq7QyBcMZp9MC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause, and something in the posture shifts slightly*\n\nIt was — exhausting. Like having a second job. Monitoring her moods, figuring out what version of her I was going to get. Making sure nobody else in the family had to deal with the hard parts.\n\nI was the one who handled things. When she got sick, I was the one coordinating the doctors, the insurance, the whole thing. My sister's in Portland, she has kids, so it kind of fell to me by default. I didn't mind. Or I told myself I didn't mind.\n\n*quieter*\n\nAnd now there's nothing to manage and I don't — I don't quite know what to do with my hands. Metaphorically. \n\n*pause*\n\nYou didn't take the bait, by the way. About the wine. I kind of thought you would.\n\n*half-laugh, but something real underneath it*\n\nThe therapist I saw was useless but I don't think they're all useless. I just — I don't know. The grief and the other stuff, the complicated stuff, it's a lot to hand to someone."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 802,
+      "cache_creation_input_tokens": 751,
+      "cache_read_input_tokens": 2754,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 751,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 251,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 802,
+    "output_tokens": 251,
+    "cache_read_input_tokens": 2754,
+    "cache_creation_input_tokens": 751
+  }
+}

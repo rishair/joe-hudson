@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:43.820Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cb1de0dccfc22f11e32069fe64d06d14c1107b5c39ddeeff0bf3f8847b6ac385",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DUZ6yrZqTMrKqRmqfdzZAZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real empathy and some wonder — they track the micro-moment of the client pulling back (turn 4), they don't give financial advice, and they invite somatic awareness (turn 12) without rushing. The pacing is generally good and the questions are mostly single rather than stacked. However, vulnerability is largely absent — the coach never names their own state, never offers 'maybe I'm off,' never discloses anything first-person. More importantly, an agenda is detectable underneath the questions: turns 8, 10, and especially 14 ('What if the tightness isn't telling you to push harder? What if it's trying to tell you something else entirely?') have a leading quality — the coach is steering toward the money-as-surrogate insight rather than meeting the client in genuine wonder about what's actually present. The client catches this in turn 15 ('I hear what you're implying'), which is diagnostic: the client felt the agenda. That moment of being read as having a hidden direction is the marker of impartiality slipping. Not a 1 because the empathy is real and the coach does slow down at key moments; not a 3 because the agenda is visible and the coach offers no vulnerability or willingness-to-be-wrong.\",\n  \"evidence_turns\": [4, 8, 10, 12, 14, 15],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Clean opening question, single, undefended.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine noticing of the micro-flinch; wonder feels real here.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Welcomes the practical framing AND opens the door — empathy + curiosity both present.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Good question but starts to carry a directional charge — pointing at the gap between grinding and the parents' age.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'I want to ask you something gently' signals the coach knows it's a leading question; the gentleness is a tell that an agenda is being introduced.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Body invitation is clean and well-timed; doesn't rush past the uncertainty.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Leading question — 'what if the tightness isn't telling you to push harder' steers toward a specific reframe rather than wondering openly. Agenda visible.\"},\n    {\"turn\": 15, \"polarity\": \"-\", \"annotation\": \"Client explicitly names having felt the implication ('I hear what you're implying'). This is direct evidence the coach's stance was read as agenda-driven.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"find-the-want-behind-the-should\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"The coach's instincts are warm and they avoided the obvious traps (no financial advice, no abundance-mindset lecture). But the leading quality of turns 10 and 14 — and the client surfacing it in turn 15 — is the signature of stance-as-technique rather than stance-as-state.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2298,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2298,
+    "output_tokens": 1143,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

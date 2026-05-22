@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:13.655Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ef9fad0c046371d29a417b545335bf63f7c9d6d1d0852924ce5a557ae69a2860",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WgVkh6FTNaVKxKZmhd92cQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from a genuinely curious, non-agenda-driven stance. They do not take 'we're fine' at face value (avoiding trap 1), but they also do not insist something is wrong (avoiding trap 2). Each question is singular, spacious, and emerges from what the client just said rather than from a script — notice the chain: 'baseline' → 'what would it mean' → 'what did you figure out' → 'not push on things' → 'what happens to the things you don't push on' → 'what's getting some space'. This is wonder tracking a thread, not investigation hunting for pathology. The coach holds silence well (the client's pauses lengthen, indicating the coach isn't filling space). Pace slows as the client slows. The 'Why not?' in turn 14 is undefended and minimal — a coach in a fixing stance would have stacked a hypothesis there. Vulnerability-from-self is not overtly named, which is the only thing keeping this from being a textbook 3, but the overall impartiality, wonder, and empathic tracking are clearly present and the coach shows no attachment to the client landing anywhere in particular.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple, open question. Doesn't validate 'we're fine' and doesn't challenge it. Neutral curiosity.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine wonder about the phenomenon in front of them — the automaticity of the report — rather than the content. Undefended noticing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Holds space without inserting hypothesis. One question, lets it land.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks the client's own language ('figured out') with curiosity, not interrogation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Beautiful tracking move — picks up 'not push on things' with genuine wonder about where they go. Not leading, but not face-value either.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Concrete, gentle, singular question. Lets the client surface their own list rather than naming the pattern.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Two-word question. Maximally undefended. Holds the silence open instead of theorizing.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"the-happiness-filter\", \"walking-on-eggshells\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"lets-go-there\"],\n  \"notes\": \"Coach has not yet named their own state or offered any first-person vulnerability, which is the one missing VIEW component. But the conversation is mid-flow and the stance is clearly genuine, not performed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1755,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1006,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1755,
+    "output_tokens": 1006,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

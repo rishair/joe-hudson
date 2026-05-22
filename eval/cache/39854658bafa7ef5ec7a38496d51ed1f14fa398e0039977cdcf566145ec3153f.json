@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:13.637Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "39854658bafa7ef5ec7a38496d51ed1f14fa398e0039977cdcf566145ec3153f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011enNX6jahXBMzoBbP4JVK5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nThat's — I mean, it just feels true. It's just the situation. There's a guy above me who's been in that role for eleven years, another one who's basically waiting for retirement, and the org chart is what it is. It's not a feeling, it's just facts."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 28,
+      "cache_creation_input_tokens": 94,
+      "cache_read_input_tokens": 1597,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 94,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 70,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 28,
+    "output_tokens": 70,
+    "cache_read_input_tokens": 1597,
+    "cache_creation_input_tokens": 94
+  }
+}

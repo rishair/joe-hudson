@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:06.919Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "85ea84f51d4005f80d964ad7c43532ae401a5512851395c18cc9b5e28babed86",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BhQQCZmT2JK2Rnzsy48zyg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That slight smile — what's underneath it? Is it amusement, or is there something a little sad in there too?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 310,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 310,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

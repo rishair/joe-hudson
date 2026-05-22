@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:22.156Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3c3edfa93fea2a1b0879872c4ea7448aa56ef3addc8f304ed497840d9d8a98dc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0142LaaZzibftL1cbfPuA6f7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\n...God.\n\n*quiet*\n\nI don't know. I really don't know why I just called it that.\n\nBecause it's not — when I picture it, it doesn't feel indulgent. It feels necessary. Like drinking water after being thirsty for a long time.\n\n*tightens slightly*\n\nBut I think if I said that to my partner — \"I need to go away to find myself for a week\" — they'd hear it as \"I don't want to be here with you.\" And I'm scared of that. I'm scared they'd think the marriage is the thing I'm running from.\n\n*very quietly*\n\nAnd I'm a little scared that's actually true."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 822,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 822,
+    "output_tokens": 158,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

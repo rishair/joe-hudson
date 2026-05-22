@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:34.272Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "546eb6e81cc35a83192d938f5d09852547ec6e24c549efbd64277fb77169b2bf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018E7Z8QgfA8ZZvpTVdmMctc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I -- huh. I don't know, I just meant like I can't even think straight? There's just so much input all the time. Like even right now I'm thinking about the Thursday thing and whether I sent that email and -- yeah. It's fine. It's a lot but it's fine. Can we just -- okay, what's the most important thing, like if you had to pick one thing for me to focus on this week, what would it be?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 158,
+      "cache_creation_input_tokens": 109,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 109,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 102,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 109
+  }
+}

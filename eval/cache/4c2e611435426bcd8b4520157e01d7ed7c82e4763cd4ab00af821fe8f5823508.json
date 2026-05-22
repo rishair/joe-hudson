@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:01.486Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4c2e611435426bcd8b4520157e01d7ed7c82e4763cd4ab00af821fe8f5823508",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NXXrS3sMPSsGLn26ekwKWv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'd tell them they were being too hard on themselves, probably.\n\n*quiet for a moment*\n\nBut it's easier to say that to someone else. When it's your own situation there's more... I don't know. More at stake in the answer. If it's just bad luck or circumstances, fine, nothing to be done. But if there's something I should have done differently, at least that means there's something to do differently now. \n\nWhich is maybe why I keep landing on the structural stuff. The ceiling is real. The people aren't leaving. That part isn't on me."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 397,
+      "cache_creation_input_tokens": 326,
+      "cache_read_input_tokens": 2248,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 326,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 397,
+    "output_tokens": 129,
+    "cache_read_input_tokens": 2248,
+    "cache_creation_input_tokens": 326
+  }
+}

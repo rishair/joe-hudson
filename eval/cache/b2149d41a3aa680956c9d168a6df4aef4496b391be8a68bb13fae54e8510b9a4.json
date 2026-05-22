@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:37.499Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b2149d41a3aa680956c9d168a6df4aef4496b391be8a68bb13fae54e8510b9a4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014HJq32K41cfEHDf5X4cC1q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "She said I'm making people feel like they can't bring me problems. Like everything's on fire and there's no room for anything that isn't a direct line to the pitch. Which — I mean, she's not wrong that the pitch has to be the priority, but apparently people are starting to self-censor and that's creating blind spots. So yeah, I get it, I need to be more — I don't know, accessible or whatever. What's the playbook for that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 133,
+      "cache_creation_input_tokens": 117,
+      "cache_read_input_tokens": 1669,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 117,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 133,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 1669,
+    "cache_creation_input_tokens": 117
+  }
+}

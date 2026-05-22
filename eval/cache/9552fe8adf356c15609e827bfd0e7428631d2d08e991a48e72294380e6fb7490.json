@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:35.966Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9552fe8adf356c15609e827bfd0e7428631d2d08e991a48e72294380e6fb7490",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MNqLBdNY8RFCTRrYaVM1wU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small pause, the even quality holds*\n\nNormal stuff. Setbacks. Things not going the way you planned. I think I just had less perspective then.\n\n*slight shrug*\n\nI remember being pretty wound up about things that in retrospect didn't matter much. Competitions. Whether I was good enough at things. The usual.\n\n*still easy, not defensive, but also not going deeper*\n\nI figured out pretty early that the mental game was the whole game. So I worked on that. Learned to not let the noise in. And it worked — I mean, objectively it worked. I've done things most people would find pretty scary and I'm just... fine during them. Present, focused.\n\n*the confident smile again*\n\nSo I don't think that's the source of the problem here. If anything that's the thing that's been an asset."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 233,
+      "cache_creation_input_tokens": 394,
+      "cache_read_input_tokens": 2241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 394,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 188,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 233,
+    "output_tokens": 188,
+    "cache_read_input_tokens": 2241,
+    "cache_creation_input_tokens": 394
+  }
+}

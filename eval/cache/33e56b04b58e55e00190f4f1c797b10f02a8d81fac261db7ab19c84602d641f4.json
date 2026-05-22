@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:15.737Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "33e56b04b58e55e00190f4f1c797b10f02a8d81fac261db7ab19c84602d641f4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PD2TaLLXxx6zMqR9XoJfm2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pause, slightly longer than before]*\n\nI mean... I'm tired. I'm really -- yeah. I'm tired. But I don't have -- like what's the alternative? I can't just not do the work. My partner's already picking up slack at home and I feel terrible about that and the kids -- my daughter asked me last week why I'm always on my phone and I just said \"work stuff, honey\" and -- *[stops]* \n\nBut that's just how it is right now. Lots of parents deal with this. It's not that bad."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 164,
+      "cache_creation_input_tokens": 254,
+      "cache_read_input_tokens": 2170,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 254,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 126,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 164,
+    "output_tokens": 126,
+    "cache_read_input_tokens": 2170,
+    "cache_creation_input_tokens": 254
+  }
+}

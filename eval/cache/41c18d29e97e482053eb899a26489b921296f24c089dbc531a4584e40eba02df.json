@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:34.568Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "41c18d29e97e482053eb899a26489b921296f24c089dbc531a4584e40eba02df",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CEsaob5nyud9vV4F8TfTaP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'd have options. Real options. Like — I could stop taking clients I don't want to take, I could actually start the book I've been saying I'm going to write for six years, I could be more present for my parents while they're still... while they're still around. I'd just have room to breathe, you know? Right now everything feels like it's one bad quarter away from falling apart."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 16,
+      "cache_creation_input_tokens": 91,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 91,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 90,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 16,
+    "output_tokens": 90,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 91
+  }
+}

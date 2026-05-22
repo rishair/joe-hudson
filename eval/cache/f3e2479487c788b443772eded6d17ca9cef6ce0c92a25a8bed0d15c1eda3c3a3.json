@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:56.064Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f3e2479487c788b443772eded6d17ca9cef6ce0c92a25a8bed0d15c1eda3c3a3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011nT16wXgSq1btRtdBFQVMe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The pitch. Specifically — I keep getting into these prep sessions with my co-founder and they go sideways. We're supposed to be aligned but we end up relitigating founding decisions and I walk out more scattered than when I went in. It's costing me time I don't have."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 111,
+      "cache_read_input_tokens": 1669,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 111,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 65,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 65,
+    "cache_read_input_tokens": 1669,
+    "cache_creation_input_tokens": 111
+  }
+}

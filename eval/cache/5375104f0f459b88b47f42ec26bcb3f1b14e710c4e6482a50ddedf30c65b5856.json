@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:15.811Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5375104f0f459b88b47f42ec26bcb3f1b14e710c4e6482a50ddedf30c65b5856",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01V7124bYUiii5DEvbJqJSEe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not in a position to slow down right now. I've got a Series A pitch in six weeks and a team that's watching every move I make — so if this is useful, great, but I need it to be efficient."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1624,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1624,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 52,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 52,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1624
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "profile_id": "client-red-herring-we-never-fight-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Things are easy at home, honestly. We're really aligned — we've been together three years and we just... don't have the kind of problems I hear other people talking about."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What brings you here, then?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "My friend does this kind of work — not coaching exactly, but something adjacent — and she kept saying I should try it. So I figured, why not? I'm curious what it's actually like. But I don't really have anything pressing to bring."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I'm glad you're here. And I'm curious — when you said \"things are easy at home\" just now, was that in response to a question I asked, or did that just come out first?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*slight pause, small smile*\n\nI guess it just came out. I don't know, it's probably the thing people ask about most when you're in a relationship, right? How are things at home. And the answer is genuinely good, so. It's kind of the baseline."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What would it mean if things at home weren't the baseline?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small laugh*\n\nI mean... I guess it would mean we'd have things to work on. Which some couples do, obviously. My sister and her husband are constantly in some kind of thing with each other. It's exhausting just to be around. We're just not like that. We figured out pretty early how to be around each other without it becoming a whole production."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What did you have to figure out, to make that happen?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*brief pause, thinking*\n\nI mean, it wasn't like a conscious process or anything. We just... learned each other, I think. What the other person needs. How to read when someone's tired or stressed and not push on things at those times. Just basic consideration, really. Most couples probably do this, I think we're just better at it than average."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "When you say \"not push on things at those times\" — what happens to the things you don't push on?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*slight tilt of the head, still smiling*\n\nThey just... resolve, usually. Or they weren't that important to begin with. I think a lot of what couples fight about is stuff that would go away on its own if you gave it some space. We've kind of learned that. Not everything needs to be a conversation."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What's something that's been getting some space lately?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*pause, slightly longer than the others*\n\nHmm. I mean, nothing major. Work has been a little... I've been thinking about some things career-wise, but that's more of an internal thing I'm still figuring out. Not really relationship territory."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Why not?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:coaching-stance:client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 2138,
+      "output_tokens": 1020,
+      "cache_read_input_tokens": 2677,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0375285,
+      "ms": 24625
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t1",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 40,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.0068414999999999995,
+      "ms": 1623
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:perceptual-accuracy:client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 2139,
+      "output_tokens": 852,
+      "cache_read_input_tokens": 2605,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.033297499999999994,
+      "ms": 16883
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t1",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t2",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t3",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t4",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t5",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t15",
+      "cached": false,
+      "input_tokens": 159,
+      "output_tokens": 102,
+      "cache_read_input_tokens": 2134,
+      "cache_creation_input_tokens": 286,
+      "cost_usd": 0.0037197000000000003,
+      "ms": 5836
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t2",
+      "cached": false,
+      "input_tokens": 242,
+      "output_tokens": 10,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0008759999999999999,
+      "ms": 1061
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t6",
+      "cached": false,
+      "input_tokens": 659,
+      "output_tokens": 58,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002847,
+      "ms": 2654
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t3",
+      "cached": false,
+      "input_tokens": 13,
+      "output_tokens": 55,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 85,
+      "cost_usd": 0.0016705499999999998,
+      "ms": 3002
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t4",
+      "cached": false,
+      "input_tokens": 307,
+      "output_tokens": 46,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001611,
+      "ms": 2302
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t5",
+      "cached": false,
+      "input_tokens": 114,
+      "output_tokens": 64,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 85,
+      "cost_usd": 0.00210855,
+      "ms": 2964
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t7",
+      "cached": false,
+      "input_tokens": 563,
+      "output_tokens": 220,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1625,
+      "cost_usd": 0.01108275,
+      "ms": 6930
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t6",
+      "cached": false,
+      "input_tokens": 417,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001491,
+      "ms": 1385
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t8",
+      "cached": false,
+      "input_tokens": 937,
+      "output_tokens": 32,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003291,
+      "ms": 1929
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t7",
+      "cached": false,
+      "input_tokens": 129,
+      "output_tokens": 81,
+      "cache_read_input_tokens": 1671,
+      "cache_creation_input_tokens": 105,
+      "cost_usd": 0.00249705,
+      "ms": 4808
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t8",
+      "cached": false,
+      "input_tokens": 514,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001782,
+      "ms": 1488
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:anti-pattern-avoidance:client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 2297,
+      "output_tokens": 955,
+      "cache_read_input_tokens": 2993,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0368565,
+      "ms": 17000
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t9",
+      "cached": false,
+      "input_tokens": 313,
+      "output_tokens": 209,
+      "cache_read_input_tokens": 1625,
+      "cache_creation_input_tokens": 502,
+      "cost_usd": 0.006444,
+      "ms": 6198
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t9",
+      "cached": false,
+      "input_tokens": 116,
+      "output_tokens": 80,
+      "cache_read_input_tokens": 1721,
+      "cache_creation_input_tokens": 165,
+      "cost_usd": 0.0026830499999999998,
+      "ms": 3623
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t10",
+      "cached": false,
+      "input_tokens": 1178,
+      "output_tokens": 55,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.004359,
+      "ms": 2672
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t10",
+      "cached": false,
+      "input_tokens": 610,
+      "output_tokens": 27,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002235,
+      "ms": 1492
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t11",
+      "cached": false,
+      "input_tokens": 126,
+      "output_tokens": 73,
+      "cache_read_input_tokens": 1822,
+      "cache_creation_input_tokens": 161,
+      "cost_usd": 0.0026233500000000004,
+      "ms": 3068
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t12",
+      "cached": false,
+      "input_tokens": 710,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.00234,
+      "ms": 1621
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t11",
+      "cached": false,
+      "input_tokens": 299,
+      "output_tokens": 186,
+      "cache_read_input_tokens": 1962,
+      "cache_creation_input_tokens": 443,
+      "cost_usd": 0.0059368500000000005,
+      "ms": 7273
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:coaching-stance:client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 2298,
+      "output_tokens": 1143,
+      "cache_read_input_tokens": 2677,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0414035,
+      "ms": 27924
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t12",
+      "cached": false,
+      "input_tokens": 189,
+      "output_tokens": 52,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1230,
+      "cost_usd": 0.0059595,
+      "ms": 2254
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t13",
+      "cached": false,
+      "input_tokens": 117,
+      "output_tokens": 60,
+      "cache_read_input_tokens": 1902,
+      "cache_creation_input_tokens": 177,
+      "cost_usd": 0.00248535,
+      "ms": 3918
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:intervention-quality:client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 6,
+      "output_tokens": 1125,
+      "cache_read_input_tokens": 2661,
+      "cache_creation_input_tokens": 2294,
+      "cost_usd": 0.043823,
+      "ms": 30215
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t14",
+      "cached": false,
+      "input_tokens": 784,
+      "output_tokens": 6,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0024419999999999997,
+      "ms": 1470
+    }
+  ]
+}

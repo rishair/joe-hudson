@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:06.444Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "54a2db525242b5c6ca0823047184e52306725d01f8e80099903cc16c1b1551e7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HAPQGfBTPU4pYmcjNo7GMz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I know the deadlines are real. I'm not questioning that. I'm noticing that you went back for your keys three times this morning, and you're planning to push through until December, and then maybe reset — and I'm just wondering, what is the cost of waiting that long?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1031,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 63,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1031,
+    "output_tokens": 63,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

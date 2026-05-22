@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:27.084Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8666c8880c2b9d33f4e5cc0b74335d9148dd871da97b78dfe097bf30a811ea2b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C8bGiq2bd9daGpu256Rdc8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "My co-founder basically insisted. She thinks I'm — look, she flagged some things about how I'm showing up with the team. People are apparently reading stress off me and it's affecting morale. So fine, I'm here. I'm open to concrete feedback on how to manage that. What do I do differently in the next six weeks?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 106,
+      "cache_creation_input_tokens": 97,
+      "cache_read_input_tokens": 1624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 97,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 76,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 106,
+    "output_tokens": 76,
+    "cache_read_input_tokens": 1624,
+    "cache_creation_input_tokens": 97
+  }
+}

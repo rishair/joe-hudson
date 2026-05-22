@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:30.762Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0b85fb83aa7a74bb22f2976d49f69c479cdb446583d87086ab6080b055141bdb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01D5MzdKdSgd5VsPAkKTjeKq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nI mean... I guess it would mean we'd have things to work on. Which some couples do, obviously. My sister and her husband are constantly in some kind of thing with each other. It's exhausting just to be around. We're just not like that. We figured out pretty early how to be around each other without it becoming a whole production."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 129,
+      "cache_creation_input_tokens": 105,
+      "cache_read_input_tokens": 1671,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 105,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 81,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 129,
+    "output_tokens": 81,
+    "cache_read_input_tokens": 1671,
+    "cache_creation_input_tokens": 105
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:37.771Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "84d5c99a4deb0205d0b88cb7017c13797d5f8fbed3521df697a0866ec4645cd3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QsZzSWbLyLqzjxMbkG1Ksx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nI see what you're doing there. And I want to say - you're smart, and that was a really smooth move. You took my empathy and handed it back to me as permission.\n\nI'm not going to give you that permission. Not because I'm judging you, but because I don't think it's actually what you're looking for. I think you're testing whether I'll be honest with you.\n\nSo here's honest: The wine makes sense to me as in - I understand why a person in your situation would reach for it. That's different from it being okay, or being a solution. And the logic of \"fix the grief, fix the wine\" - I hear it, but I think part of you knows that's not quite how it works. The wine is also by now probably helping maintain the quiet that keeps the grief from moving. They're feeding each other.\n\nBut I don't want to get into a debate about the wine right now, because something else you said is staying with me.\n\nThe guilt voice sounds like her.\n\nYou're still being managed by her, a little. Even now.\n\nThat's not a criticism. That's just - really significant. And it makes me wonder if what you actually need isn't just to process that she's gone, but to process *who she was* and *what that relationship cost you.*\n\nWhat was it like, managing her?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 712,
+      "cache_creation_input_tokens": 1422,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1422,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 301,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 712,
+    "output_tokens": 301,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1422
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:10.721Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "38b737511741f67a3bf34c6a122660c5951fa62c8e0e679df17376449fb3299a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016oVgFGJviEdSsz9iXU3BW2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nIt's... heavier than I usually let it be, I think. Like I'm noticing it more when I sit with it. Usually I just kind of move on to the next thing after we hang up. But right now it feels a little like... tired. A tired that's been there a while.\n\n*slight pause*\n\nI don't know, she's my sister. She's always needed more support than I have. That's just kind of how it's been."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 112,
+      "cache_creation_input_tokens": 79,
+      "cache_read_input_tokens": 1456,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 79,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 107,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 112,
+    "output_tokens": 107,
+    "cache_read_input_tokens": 1456,
+    "cache_creation_input_tokens": 79
+  }
+}

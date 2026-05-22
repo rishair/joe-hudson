@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:17.265Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1e366ca564850287e9837b5e749ed08b33df241593b8fc852d933514f68ec1c9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LRvBUqF7svdajEjJHTPBQU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses a beat longer than usual*\n\nThat's a good question.\n\n*another pause*\n\nI mean... it's the thing I've been building toward for a while. So there's some — I don't know. Pride in it, maybe. It represents a certain direction I've been trying to take the company.\n\n*slight shift, still even*\n\nBut honestly? When I try to locate some big feeling about it, I don't find much. Which is probably fine — I've learned not to get too attached to outcomes. You do that in high-stakes environments, you learn to stay level. That's served me well.\n\n*small, confident smile*\n\nSo maybe the answer is it doesn't mean as much to me personally as it probably should. And maybe that's the problem — not enough skin in the game emotionally. But I'm not sure how you manufacture that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 229,
+      "cache_creation_input_tokens": 289,
+      "cache_read_input_tokens": 1930,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 289,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 190,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 229,
+    "output_tokens": 190,
+    "cache_read_input_tokens": 1930,
+    "cache_creation_input_tokens": 289
+  }
+}

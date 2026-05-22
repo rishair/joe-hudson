@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:13.546Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ef6d7ab75f1e32497f27689b9b76ed983e665fa6755cfa823d68abc57931c094",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JWjibmmpGTpHwFKfu7eNzo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I have a therapist. I see her every few weeks. It's — it's been more maintenance than anything else for a while. I think I've been managing in that room too, if I'm honest.\n\nWhat would get in the way. That's a good question. I think — I think I'd minimize it again. The way I just tried to. I'd say the adjacent version and let her think it was less than it is because it feels — it feels like a lot to hand someone. Even someone whose job it is.\n\nAnd I'd probably convince myself by the time I got there that it wasn't that serious. That's what I do. I'm doing it a little bit now, actually. Some part of me is already composing the version where this was just me being dramatic.\n\nI notice that. I don't know what to do with it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 598,
+      "cache_creation_input_tokens": 503,
+      "cache_read_input_tokens": 2380,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 503,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 185,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 598,
+    "output_tokens": 185,
+    "cache_read_input_tokens": 2380,
+    "cache_creation_input_tokens": 503
+  }
+}

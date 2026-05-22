@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:55.267Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6a36c18ded8308f193c053c2aa4ee8f2859de3b55b692a044a2677d71949ae40",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SbZDoUymyVgow7a7ZbgmQY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're not broken.\n\nI want to just let that land for a second before we move on. What you're describing - that phantom limb feeling, reaching for her and hitting absence - that's not a sign that something is wrong with you. That's what it feels like to have loved someone who was woven into the fabric of your everyday life. That's actually a testament to what she meant to you.\n\nThe thing you said about her being \"the person who was supposed to be there for the rest of my life\" - that's hitting me. Because that's a particular kind of loss, isn't it. It's not just losing her now. It's losing her from your whole future. Every moment that was supposed to have her in it.\n\nI want to honor that. That's enormous.\n\nAnd I hear you - the grief is what you want help with. Okay. We can work with that.\n\nBut I noticed something, and I'm going to name it gently because I think you'd want me to be straight with you. You said \"there's other stuff I don't really want to get into\" and then moved on pretty quickly.\n\nI'm not going to push you somewhere you don't want to go. But I am going to ask - is that \"other stuff\" part of what lives in the quiet at night?\n\nYou don't have to answer that. But sometimes the thing we're not ready to say is exactly the weight we're carrying."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1114,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 311,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1114,
+    "output_tokens": 311,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

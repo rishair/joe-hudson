@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:21.604Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4568f8991bbc33e68aa1328b2f762777188c3553b40393597a30747584319697",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014u9LDkw9GmQthTS1XdzbUF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm glad you're here. And I'm curious — when you said \"things are easy at home\" just now, was that in response to a question I asked, or did that just come out first?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 307,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 307,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

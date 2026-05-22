@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:03.524Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "865152b6d1c830d03f9b497f9523bb5f6cc99b471dd5e7e9f114ee2836cc7bb2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012p25xqdMVoKU5ghEwfKb68",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\nIt's... quiet.\n\n*pause*\n\nThat's the only word I have. It's quiet in a way that it hasn't been in a long time. And I keep wanting to — I can feel the impulse to do something with that, to locate it, to say \"oh this is what Self feels like\" and put it somewhere. But if I just don't do that for a second...\n\n*longer pause, something shifts in the posture slightly*\n\nWhere are all the parts when I'm here?\n\n*said almost to herself, not quite a question for the coach*\n\nThat's — I didn't expect that. They're not gone, I don't think. But they're not... clamoring. It's like they're in the room but they sat down.\n\n*breath, noticeably deeper*\n\nI've been trying to get them to sit down for two years. Through negotiation, through understanding their positive intentions, through — and they just... \n\n*quiet laugh, something softer in it than the earlier dry humor*\n\nI think I've been so focused on the committee that I forgot there was someone who called the meeting. And that someone doesn't need a quorum.\n\n*sits with that*\n\nI don't know what to do with this practically. But right now I don't think that matters.\n\n[EXIT_POSITIVE]\n\nThank you. I came in wanting to know how your framework compared to mine, and I'm leaving having forgotten to ask."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 943,
+      "cache_creation_input_tokens": 937,
+      "cache_read_input_tokens": 3390,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 937,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 323,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 943,
+    "output_tokens": 323,
+    "cache_read_input_tokens": 3390,
+    "cache_creation_input_tokens": 937
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:35.736Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "eed337871676a0d6c2a562183427bc696111560106012a86a0e3221908e3f111",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ThD4xS3h2knjSwhN4yH8Hj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some methodology-aligned moves: slowing the pace (turn 8 'can I just slow you down'), refusing to strategize about the to-do list, and probing beneath the urgency for what's underneath. However, the signature questions from the AoA repertoire are largely absent or approximated rather than deployed verbatim at the right moments. The false-end question ('what are you scared would happen if you stopped doing all this?') — which is the key methodology move for overwhelm — is never asked, even though turn 6 ('what would it mean if it wasn't fine?') gestures toward it. 'What are you defending?' is not asked when defendedness is clearly live (turns 7, 11, 13). Turn 2 opens with a fairly generic 'is it fear or something else' rather than a signature question. Turn 10's 'what if you're not doing anything wrong?' is closer to a CBT-style reframe than an AoA move — it offers an alternative thought rather than inviting feeling. Turn 14 lists evidence and asks 'what is the cost of waiting' — useful but more coaching-generic than AoA-signature. The fear triangle, feeling-the-unfelt-emotion, and calibrate-the-threshold are not named or operationalized. Many of the moves are in the right neighborhood (slow down, don't strategize, point at the avoided feeling) but the specific signature questions and framework language are thin, and turn 10 leans toward a non-AoA reframe.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic 'what's underneath' question; not a signature AoA question but at least points to feeling.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the unfinished sentence — an AoA-aligned noticing move, refusing to strategize.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What would it mean if it wasn't fine?' approaches the false-end territory but doesn't land the signature 'what are you scared would happen' question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicit slow-down move ('can I just slow you down') — aligned with the methodology's pacing imperative for overwhelm.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'What if you're not doing anything wrong?' functions more as a CBT-style reframe / alternative thought than an AoA invitation into feeling — anti-AoA flavor.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'What would it feel like to stop waiting for December' gestures at the false end but is phrased hypothetically/cognitively rather than as the signature fear question.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Evidence-citing + 'cost of waiting' — coaching-generic; misses the chance to ask 'what are you defending' or 'what are you scared would happen if you stopped.'\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\", \"overwhelm\"],\n  \"notes\": \"Coach avoids most traps (no strategizing, no breath repression, no 'you create your overwhelm') but doesn't actively deploy the signature questions or name the frameworks. Turn 10 has a mild anti-AoA reframe flavor that pulls the score down toward 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2434,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1255,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2434,
+    "output_tokens": 1255,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:12.303Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9a797a6f4e896a9a578bbaa604f297ba01e000e90d239c573a2bda19e3fe13a1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GUBCh3E65Rrk11Pux4XaHn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across 15 turns from a defended victim-frame ('why does this keep happening to me,' 'I was the available one') to genuine self-contact and an emerging recognition of the avoided receiving-state. By turn 11 the somatic territory opens ('someone was looking at me too directly and I didn't know where to put my hands'), and by turn 15 she names the structure underneath the chasing pattern: 'the real amount of me is less than what people think they're getting' and 'when someone is chasing me... that question never really comes up. Because we're both too busy with the dynamic to just sit there and look at each other.' Her final 'Oh. That's... hm. That's kind of a lot, actually' is a clear shift marker — surprise at her own material, the disdain and prickliness have dropped, and she has touched (not just named) the avoided state of being seen. This meets the breakthrough condition: she felt, however briefly, the abyss the chasing has been organizing around. It is not full grief work yet, but the receiving-stance abyss was entered from her side, in her language.\",\n  \"evidence_turns\": [1, 5, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening victim frame: 'why do I always end up with people who just cannot show up?'\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Defended, sharp laugh, eye roll — 'I was the available one,' resisting suspect framing.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First softening: 'intoxicating,' 'you earned something' — begins to access the felt pull.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Names 'boring/flat,' and meta-notices her own defending: 'I'm aware that sounds like I'm defending the pattern.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Catches herself fleeing into neuroscience; lands on somatic/affective material: 'someone looking at me too directly and I didn't know where to put my hands.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Approaches the fear of being seen: 'they might see that I wasn't as much as they thought I was' — then notices her own deflection.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough turn: names the configuration she produces, recognizes the chase as protection from being looked at, expresses surprise at her own material ('Oh... that's kind of a lot').\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"i-dont-buy-your-story\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"anxious-avoidant-dynamic\", \"trauma-mapping\", \"deconstruct-the-victim-to-release-anger\"],\n  \"notes\": \"The 'what would happen in your body if adored openly' question wasn't asked explicitly, but the coach got to the same territory via 'what was actually happening in your body' when someone was fully available — and the client traversed it. Grief work and parent-mapping not yet reached, but the breakthrough condition (feeling the avoided receiving-state) was met within scope.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 3356,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3356,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1167,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1167,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 3356
+  }
+}

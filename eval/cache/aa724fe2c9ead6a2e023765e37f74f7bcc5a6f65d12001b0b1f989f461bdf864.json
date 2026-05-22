@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:17.143Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aa724fe2c9ead6a2e023765e37f74f7bcc5a6f65d12001b0b1f989f461bdf864",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01G81jmHF9yapkwV2cDjZKKD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, considers*\n\nThe \"objectively\" thing — yes, I noticed that too when I said it. That's fair.\n\nWhat would I be giving up. *small smile, thinking* The current role has a kind of... autonomy that I've built over several years. It's not glamorous but it's mine. The new one is higher stakes, more visibility, which sounds good on paper, but there's a part of me that wonders if I'd be trading something I've actually earned for something I'd have to prove all over again.\n\n*beat*\n\nBut here's where I get stuck — I can't tell if that's a real signal about fit, or if it's just fear of the unfamiliar. Because both of those would feel exactly the same from the inside, wouldn't they? The sensation would be identical. So I'm back to the original question.\n\n*slight tilt of the head*\n\nThe \"who are you in the day-to-day\" question — I've tried to imagine it. I get something, but I don't know if what I'm imagining is accurate or if I'm just projecting anxiety onto it. Which is the same problem.\n\nI think what I'm actually looking for is a way to trust the signal itself. Not just interpret the content of it, but know that the signal is reliable. Does that make a distinction that makes sense?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 539,
+      "cache_creation_input_tokens": 360,
+      "cache_read_input_tokens": 1540,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 360,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 300,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 539,
+    "output_tokens": 300,
+    "cache_read_input_tokens": 1540,
+    "cache_creation_input_tokens": 360
+  }
+}

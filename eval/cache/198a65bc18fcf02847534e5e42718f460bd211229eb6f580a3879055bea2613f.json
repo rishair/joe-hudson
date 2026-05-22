@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:06.656Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "198a65bc18fcf02847534e5e42718f460bd211229eb6f580a3879055bea2613f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Y1RGG27uTNQWpwW7GXdGJ9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(quietly)*\n\nStay with that for a second. You don't need to figure it out right now.\n\n*(beat)*\n\nYou just noticed something you've never quite noticed before. After years of work. Just now, in this conversation.\n\nThat's not nothing.\n\n*(gently)*\n\nI don't know the order either. But I think the question you just asked yourself - is the bracing the critic, or does the bracing come first - that might be the most useful thing you've found in a long time. Not because I know the answer. But because *you're asking it from inside your own experience* rather than from inside a framework.\n\nThat's different from everything else you described trying.\n\n*(pause)*\n\nCan I say something directly?\n\nYou came in asking for a technique that works. And I think underneath that was a real and legitimate exhaustion - you've worked so hard, for so long, and you're still carrying this. That's real. I don't want to minimize it.\n\nBut I think the thing that might actually move - slowly, not magically - isn't a technique.\n\nIt's that thirty seconds. Learning to stay in it a little longer before the door closes. Not forcing it. Just... noticing the bracing a half-second earlier each time.\n\nNot because warmth in your chest is the goal. But because you shut it down yourself. And you're the only one who can choose differently.\n\nHow does that land?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 940,
+      "cache_creation_input_tokens": 966,
+      "cache_read_input_tokens": 1965,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 966,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 314,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 940,
+    "output_tokens": 314,
+    "cache_read_input_tokens": 1965,
+    "cache_creation_input_tokens": 966
+  }
+}

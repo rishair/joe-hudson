@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:49.621Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9c698a2e7ca7bdc900eff8484d23e5cf0f7600d672eb17907f7f76fc89266f50",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018fLmd4ixiMfvmQYv8esYUj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, then a small smile*\n\nGood things, obviously. Revenue, validation for the team, opens up the next phase. It'd be... yeah, it'd be good. A win.\n\n*brief beat*\n\nI mean, I've had wins before. I know what they look like. This one's bigger, but — I don't know, I'm not sitting here dreaming about it either. It's more like a thing that needs to happen and isn't happening."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17,
+      "cache_creation_input_tokens": 153,
+      "cache_read_input_tokens": 1763,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 153,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 1763,
+    "cache_creation_input_tokens": 153
+  }
+}

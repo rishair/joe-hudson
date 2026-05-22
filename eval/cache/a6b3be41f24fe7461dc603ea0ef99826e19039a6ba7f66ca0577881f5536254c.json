@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:42.213Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a6b3be41f24fe7461dc603ea0ef99826e19039a6ba7f66ca0577881f5536254c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CZ52AKPdEkNoEs45sktPLc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you've moved pretty quickly into analysis. What happens if I ask you — not what you think about this job, but how you feel about the person you'd become if you took it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 800,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 800,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

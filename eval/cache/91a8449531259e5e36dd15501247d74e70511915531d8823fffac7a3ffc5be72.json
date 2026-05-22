@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:59.402Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "91a8449531259e5e36dd15501247d74e70511915531d8823fffac7a3ffc5be72",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01M3h1jMK1w1DgheoZf1Ev5B",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... *[small laugh]* ...then why does it feel like this? Like if I'm not doing anything wrong then why am I always three steps behind and forgetting things and -- I went back in the house three times for my keys this morning. Three times. That's not -- that's not normal for me. I used to be really on top of things. I just need to get back to that. I think if I could just push through this month, get past the December thing, then I can actually like... reset. Does that seem realistic?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 175,
+      "cache_creation_input_tokens": 220,
+      "cache_read_input_tokens": 1912,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 220,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 175,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 1912,
+    "cache_creation_input_tokens": 220
+  }
+}

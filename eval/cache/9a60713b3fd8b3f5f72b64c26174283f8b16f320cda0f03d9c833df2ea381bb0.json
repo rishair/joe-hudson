@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:02.532Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9a60713b3fd8b3f5f72b64c26174283f8b16f320cda0f03d9c833df2ea381bb0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015hCDK6GhpzBYpiunjMwN8k",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a second*\n\nThat's... yeah. That's a harder question.\n\nI mean — $2.3 million liquid, house paid off, that's the number. That's what I've modeled. At my current trajectory I'm looking at 26, maybe 28 months.\n\nBut you're asking something else, aren't you. You're asking if hitting the number would actually make me feel like I made it. And I don't — \n\n*stops*\n\nI don't know if I can answer that honestly right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 232,
+      "cache_creation_input_tokens": 230,
+      "cache_read_input_tokens": 1841,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 230,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 232,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 1841,
+    "cache_creation_input_tokens": 230
+  }
+}

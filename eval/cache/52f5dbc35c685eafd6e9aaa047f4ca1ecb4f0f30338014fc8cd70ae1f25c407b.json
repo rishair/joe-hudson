@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:35.207Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "52f5dbc35c685eafd6e9aaa047f4ca1ecb4f0f30338014fc8cd70ae1f25c407b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014zBaiqJjHMsWXwxgsZoaYi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real empathy and increasingly genuine wonder as the conversation deepens, and importantly shows undefendedness in turn 8 ('You're right. I was pushing too hard in one direction, and you caught it') — a moment of real impartiality and willingness to be wrong that lifts the stance considerably. However, the early turns betray an agenda-driven, somewhat investigative stance: turn 2 stacks multiple bolded questions in a structured therapist-format that reads as managing rather than wondering, and turn 4 has a clear directional pull ('Is there any version of the book... that could start before the number?') that the client correctly senses and pushes back on. The coach's pace is generally good and slows appropriately as the material deepens (turns 6, 8, 10), and vulnerability-as-first-person ('I'm sitting with', 'I'm wondering') is present though never quite naming the coach's own state or limit. The formatting (bolded questions, structured asks) carries a slight performed quality that suggests the coach is partially executing a framework rather than fully meeting the client. Neither a clean 1 (the recovery in turn 8 and the genuine stillness in turns 10-11 are real) nor a clean 3 (the early agenda and stacked-question pattern are too visible).\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Stacked, bolded questions in a structured format; reads as investigative/managing rather than wondering. Multiple hypotheses offered ('scarcity mindset... identity...') feels like a coach demonstrating range rather than meeting what's actually present.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Clear directional pull toward 'start the book now' — an agenda the client detects and resists in turn 5. The 'I'm wondering if... permission' framing is leading rather than open.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pace slows ('sitting with that for a moment'). Genuine empathy lands around the father. Question about what dad would want is offered with some openness, though still slightly stacked.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Real impartiality moment: 'You're right. I was pushing too hard, and you caught it.' Undefended, willing to be wrong. This is the strongest VIEW moment in the call.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Quiet, present, matches the client's stillness with stillness. Single open question at the end ('What's the book actually about?') from genuine wonder.\"},\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Bolded headers and category labels ('About the number itself', 'About the grinding') signal a framework being applied rather than presence.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"find-the-want-behind-the-should\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"money-as-surrogate (named only implicitly)\"],\n  \"notes\": \"The turn 8 recovery is the key reason this isn't a 1. The early agenda and formatted question-stacking are the key reasons this isn't a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4738,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1140,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4738,
+    "output_tokens": 1140,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

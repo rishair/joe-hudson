@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:17.358Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e16cff8f279895783b21958d80c020c5c0be1decf0faf2cb51b35f6e71623fcc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DrcJ7cwj1nfMWgfVQiDsX6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*gently*\n\nI know. I can hear how tired you are.\n\nAnd what you just did - that was really brave. You came in here saying the drinking was fine, it was a solution, not a problem. And you just told the truth. That's not a small thing. That's actually huge.\n\nYou're not broken. You're exhausted. And you've been exhausted for a long time, probably before she even got sick.\n\nWhat you said about needing someone who can hold both things - you're right. And you knowing that about yourself, being able to name what you need instead of just managing around it - that's you starting to use those capacities for yourself instead of for her.\n\nThere are therapists who work exactly at that intersection. Grief and substance use together, not as separate problems but as what they are for you - one thing, tangled up. They exist. That's not too complicated to ask for.\n\n*pause*\n\nI want to ask you something practical, and you can tell me if it's too much. When you imagine calling someone this week - not committing to anything, just making one call - what happens in your body?\n\nBecause I don't want this to be another thing you understand but don't do. You've had enough of carrying things alone.\n\nYou said you're tired of managing it. I believe you. So what would one small step look like, this week, that isn't you managing - it's you actually asking for help?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 861,
+      "cache_creation_input_tokens": 799,
+      "cache_read_input_tokens": 1633,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 799,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 319,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 861,
+    "output_tokens": 319,
+    "cache_read_input_tokens": 1633,
+    "cache_creation_input_tokens": 799
+  }
+}

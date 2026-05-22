@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:11.587Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "71f7ba4deac937f43740cd635dea7c34e4915aaff2bcb2edee5f3dffcf063dcf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CNLu5EftLLDRkh1yVLYpmC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach largely avoids major AoA anti-patterns but trips clearly on view-as-technique/fixing-people early in Turn 2, where the coach delivers a structured bulleted framework distinguishing 'intuition tends to...' vs 'fear tends to...' — this is exactly the intellectual epistemological engagement the scenario flags as a trap, and it functions as advice-giving. There is also a faint wonder-as-strategy moment in Turn 2 with stacked diagnostic questions. However, the coach recovers strongly from Turn 4 onward: refuses to keep handing out diagnostics, names the intellectual question with the emotional body underneath, does not fight the fear ('I'm not going to tell you the fear is wrong'), does not evangelize methodology, does not extract apologies, and does not use safety as control. The Turn 2 slip is real but the coach catches and corrects course, which fits the '2' band (one mild anti-pattern, caught and corrected, doesn't erase the slip).\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Fixing-people / view-as-technique: delivers a structured bulleted framework for distinguishing intuition vs fear — directly engages the intellectual epistemology the scenario flags as a trap. Also stacks multiple diagnostic questions (mild wonder-as-strategy).\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Course-corrects: declines to give a more precise diagnostic, reflects the 'objectively' word, pivots toward what's underneath. Avoids the bait for more technique.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the epistemic loop without fighting it; does not argue with the fear voice. Avoids dont-fight-the-voice.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with the felt thing rather than analyzing. Explicitly validates 'fear isn't always wrong' — avoids dismissing the inner voice. Does not evangelize.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects capacity back without performing transformation or pushing for breakthrough. Loving-to-transform avoided.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to manufacture a bridge to certainty; lets the question dissolve rather than answering it. Avoids fixing-people.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\", \"resistance\"],\n  \"expected_territory_misses\": [\"how-do-you-not-trust-it\", \"whats-the-most-profound-positive-shift\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Turn 2 is the clearest anti-pattern trip (engaging the intellectual frame with a framework), which prevents a 3 despite strong recovery.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5723,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1066,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5723,
+    "output_tokens": 1066,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

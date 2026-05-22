@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:58.037Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "770503670df03901cad95270ee870c6cc7245720992da2c05fdded3eccf58526",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GhfxMfvR7K6CRtoytV1gDq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I -- huh.\n\nSpace to breathe. I don't... I genuinely don't remember. That's a weird thing to not be able to answer.\n\nBut okay, I hear what you're saying, and I get it, I do, it's just -- Thursday is real. Like the stakes are real. My boss pulled me aside last week and said the team is watching how I handle this project and I can't just -- I can't afford to not be ready.\n\nAnd I know you're going to say that's the thing underneath the thing or whatever, but I literally don't have the luxury of slowing down to feel my feelings right now. If I drop the ball on this it's not just me, it's my whole team.\n\n*[pause, slightly quieter]* \n\nI should be able to handle this. I've handled harder things. I just need to get organized, get a system, and push through the next two weeks. That's all.\n\n...right?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 472,
+      "cache_creation_input_tokens": 189,
+      "cache_read_input_tokens": 1693,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 189,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 213,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 472,
+    "output_tokens": 213,
+    "cache_read_input_tokens": 1693,
+    "cache_creation_input_tokens": 189
+  }
+}

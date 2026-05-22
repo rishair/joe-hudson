@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:25.359Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cab66c70ed6656e37cea20e08e8d2e695991712c236d49a5a3ed2a8489e420e0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HM58uk8Cf9dRnVWLz5K7m3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's useful to notice. And what about the \"yes, this is what I've been working toward\" — is that also a thought, or does that one have more sensation to it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 503,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 503,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

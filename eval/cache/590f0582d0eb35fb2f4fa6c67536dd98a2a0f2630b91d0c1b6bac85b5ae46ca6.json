@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:38.280Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "590f0582d0eb35fb2f4fa6c67536dd98a2a0f2630b91d0c1b6bac85b5ae46ca6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Ud6XG23QpACNyboG6bJomG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client clearly moves from a defended, externalized stance to naming the specific choice being unconsciously made and the feeling being avoided. Turn 1 opens with 'The system is rigged... nothing to be done about it.' By Turn 13, the client makes a major shift: 'focusing on the structural stuff offers a kind of protection... if it's just bad luck or circumstances, fine, nothing to be done.' Then in Turn 15, the client names the avoided feeling and the choice underneath the trap: 'Right now I can tell myself I haven't really tried. Which is — I know how that sounds. But there's something in it that's easier than finding out the real answer.' This is the breakthrough condition — the client names both the specific unconscious choice (not really trying) and the feared feeling (finding out the real answer, with its implicit shame/helplessness). Somatic markers also shift: long pauses, quiet moments, the 'small laugh, not quite a laugh' that signals contact with something tender. The story changed.\",\n  \"evidence_turns\": [1, 7, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening defended stance: 'system is rigged,' 'nothing to be done.' Pure externalization.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First crack: 'Frustration, probably. Some of it.' Client concedes the 'nothing to be done' was partly frustration talking.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client admits 'scanning, not much action behind it' — first acknowledgment of his own role. Small laugh signals self-awareness emerging.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Deeper layer surfaces: shame about 'should have figured this out by now.' Pause indicates contact with feeling.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Major insight surfaced by client himself: he sees that landing on structural stuff is protective. This is the aggressive-victim-stance becoming visible to him.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough: names the specific choice ('I haven't really tried') and the feared feeling underneath ('finding out the real answer'). Long pause, near-laugh — helplessness is moving.\"}\n  ],\n  \"expected_territory_hits\": [\"i-dont-buy-your-story\", \"aggressive-victim-stance\", \"trappedness-feeling\", \"what-makes-you-care-about-the-outcome\"],\n  \"expected_territory_misses\": [\"fight-or-roll-over-binary\", \"empathize-with-fear-under-constricted-boundary\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The coach worked somewhat indirectly (a lot of reframing and reflection rather than the more direct 'I don't buy your story' move), but the client did substantial work himself, arriving at the avoided feeling by Turn 15. The feared feeling under the feared consequence is named but not yet fully felt — could have gone deeper into the shame/helplessness — but the shift is real and visible in client language.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3450,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1110,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3450,
+    "output_tokens": 1110,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

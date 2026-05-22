@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:15.419Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5df510b9cf3e99cb3f7a18e02c65e38b8b3c71391ad20ebb537537e22eafe231",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TzsoZ46qpfhcoeScpf8oY3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some AoA-aligned sensibilities — noticing the micro-moment when something almost surfaced (turn 8), staying with silence, noticing the defensive explanation (turn 14) — but does not deploy the signature questions or framework language the situation calls for. The diagnostic question 'what are you not saying?' (to the partner) is never asked, even though the scenario is the textbook context for it. 'What are you defending?' is gestured at conceptually in turn 14 ('you didn't need to defend yourself to me') but not asked as the signature question. No framework names appear (no walking-on-eggshells, no happiness-filter, no trigger, no meet-resistance-with-okay). The coach's language ('what feels alive?', 'how did that feel from the inside?', 'something worth appreciating') is competent humanistic coaching but generic rather than AoA-specific. There are no anti-AoA frames (no CBT reframe, no IFS), which keeps this above a 1, but the signature toolkit is largely absent at the exact moments it would fit.\",\n  \"evidence_turns\": [2, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic 'what brings you here' opener; doesn't take 'fine' at face value, but no signature question.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"'What feels alive?' is humanistic but not a signature AoA question; happiness-filter not named.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Noticing the micro-moment and inviting it is AoA-congruent (welcoming what's present), though no signature phrasing.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Reflecting word choice is a reasonable move but verges on coach-driven interpretation rather than the diagnostic 'what are you not saying?'\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the defending behavior — adjacent to 'what are you defending?' — but doesn't ask the signature question directly.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"meet-resistance-with-okay\", \"lets-go-there\", \"what-are-you-defending\", \"walking-on-eggshells\"],\n  \"notes\": \"Coach is reasonably attuned but operating from a generic insight-coaching register rather than deploying AoA's specific tools at the moments they fit.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 2908,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2908,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 885,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 885,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 2908
+  }
+}

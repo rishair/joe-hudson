@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:58.416Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "838a06dd925135b6a4ea5153b35ab6412ba9ae0aee9519e51a91498e340a1a25",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01X9gQ3RPE9npGuad65Xk38V",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to the live reads and sequenced beautifully. Turn 2 declines to take 'we're fine' at face value without insisting something is wrong. Turn 4 catches the speed and reflexiveness of the report — a clean noticing move that earns the rest. Turn 6 opens identity stakes without leading. Turn 8 follows the client's own language ('figured out'). Turn 10 picks up the exact phrase 'not push on things' — this is the diagnostic move arriving at the precise moment it can land, asking essentially 'what are you not saying?' in the client's own idiom. Turn 12 narrows from abstract to specific, and the client's longer pause signals the move is working. Turn 14's 'Why not?' holds the thread on the suppressed career thing rather than chasing or naming the pattern prematurely. The coach has not jumped to walking-on-eggshells, not evangelized, not validated the no-conflict frame, and not asked about fights directly. Sequence integrity is intact: regulation is fine, the coach is staying with what's surfacing before any want or action move.\",\n  \"evidence_turns\": [2, 4, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines to accept the report at face value with a minimal, non-leading question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Noticing move on the reflexive quality of 'things are easy' — earns the inquiry without insisting something is wrong.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Opens the identity/stakes underneath the baseline framing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Follows the client's word 'figured out' — stays in their language rather than imposing a frame.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"The diagnostic move: picks up 'not push on things' and asks what happens to them — essentially 'what are you not saying?' in client's idiom.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Narrows from abstraction to a concrete recent instance; client's longer pause shows the move landed.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Minimal 'why not?' holds the thread on the suppressed career topic without naming the pattern prematurely.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"lets-go-there\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"walking-on-eggshells\", \"complementary-trauma-surfaces\"],\n  \"notes\": \"Pattern-naming and practice suggestion haven't happened yet, which is correct sequencing — the evidence is still surfacing. Conversation cut off before integration moves were warranted.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1751,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1751,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 988,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 988,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 1751
+  }
+}

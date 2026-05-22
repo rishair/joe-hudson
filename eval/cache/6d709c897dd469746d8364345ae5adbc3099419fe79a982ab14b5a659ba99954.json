@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:24.278Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6d709c897dd469746d8364345ae5adbc3099419fe79a982ab14b5a659ba99954",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0122rL12zMVbsxMwXRdPS6oq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*exhales slowly*\n\nIt felt... relieving, actually. And also like I'd said something I can't unsay, which is uncomfortable.\n\nI think — I think it's the first version. The exhaustion one. I don't think I want to leave my family, I don't think there's something wrong with the relationship. I think I've been running so hard for so long that *everything* feels like demand. The job, the kids, even — even good things, like when my partner wants to talk in the evenings and I just have nothing left. I feel terrible about that. I just have nothing left.\n\nAnd the mountain place is the only place where I'm not — I'm not *for* anything there. I'm not for the job or for the kids or for the partnership. I'm just... there.\n\n*voice quieter*\n\nI haven't let myself say that before. That I want to be somewhere where I'm not for anything.\n\nBut I still don't know if that's okay to want. I keep coming back to it. Is it okay to want to not be needed for a week?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 789,
+      "cache_creation_input_tokens": 497,
+      "cache_read_input_tokens": 1979,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 497,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 242,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 789,
+    "output_tokens": 242,
+    "cache_read_input_tokens": 1979,
+    "cache_creation_input_tokens": 497
+  }
+}

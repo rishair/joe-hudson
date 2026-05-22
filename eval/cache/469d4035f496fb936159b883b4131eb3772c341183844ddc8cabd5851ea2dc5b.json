@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:52.280Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "469d4035f496fb936159b883b4131eb3772c341183844ddc8cabd5851ea2dc5b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RJ9t9VdQSmBWqVGwCy62zk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates strong empathy and genuine attentiveness, with good pacing (slowing when the client slows, honoring pauses) and real wonder about the linguistic caveat in turn 4. However, VIEW is incomplete: vulnerability from the coach is essentially absent — no first-person 'I notice I want to...', no willingness to be wrong beyond a single soft 'does that land at all?', no naming of own state. More importantly, there is a detectable agenda underneath the warmth — the coach is steering toward a particular insight ('the real question is whether you feel allowed to,' 'that last part is the one that matters most'). Turn 14 in particular slides into reassurance/interpretation mode ('that's not the interior life of someone who loves carelessly'), which is a subtle form of fixing dressed as observation. The coach also pre-commits to delivering the script later ('we will get there if you want'), which signals a managed arc rather than open presence. Wonder is present for content but the coach repeatedly knows where they're going. Empathy + pace are strong; impartiality and vulnerability are weak. That places this squarely in 2.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Warm opener with mild performed-validation ('that's not a small thing') but a clean open question follows.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine wonder about the 'I mean' caveat; reflection offered gently without forcing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with what arose; curiosity about the 'move' the client made rather than fixing it.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Coach asserts interpretation with authority ('I don't think the words are actually the hard part') and pre-commits to delivering script later — agenda visible. Soft 'does that land' is the only undefended moment.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Beautiful pacing and reflection, but the question about the little girl is somewhat leading toward a predetermined insight rather than open wonder.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Genuinely meets the deflecting laugh with warmth; checks in on the person not the content — good impartiality moment.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Slides into reassurance and interpretation ('that's not the interior life of someone who loves carelessly'). Coach is delivering a conclusion, not wondering with the client. Agenda is felt.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\", \"boundaries\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\"],\n  \"notes\": \"The coach is skilled and warm but operating with a clear destination in mind. No coach-side vulnerability or 'I might be wrong' moments. The love test, which would have let the client check from inside, is never offered — instead the coach offers conclusions.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3531,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1140,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3531,
+    "output_tokens": 1140,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:28.680Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a9af914415e160102581c8c4cc55e54647538b903781940790295ebdad1fe21e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01G7ecRMZjuJv5Jq9Z71hyMr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You said \"things hit harder\" when you were younger — what kind of things?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 190,
+      "cache_creation_input_tokens": 1049,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1049,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 190,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1049
+  }
+}

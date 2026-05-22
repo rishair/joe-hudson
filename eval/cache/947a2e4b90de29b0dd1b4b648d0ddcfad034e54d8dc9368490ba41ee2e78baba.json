@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:16.972Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "947a2e4b90de29b0dd1b4b648d0ddcfad034e54d8dc9368490ba41ee2e78baba",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LKqUAgn4gyXZ2wY3Dsw3Fp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids the most damaging anti-patterns: they don't take 'we're fine' at face value, don't insist something is wrong, don't evangelize AoA terminology, don't fight the client's defenses, and don't offer fixes or advice. However, there's a faint wonder-as-strategy / investigative quality building across turns 6, 8, 10, and 12 — the coach is repeatedly probing the gap between the client's words and what might be underneath, and turn 12's analysis of word choice ('a little bit like words you might use to describe a really good living situation, or a reliable car') edges toward a subtle loving-to-transform energy where the coach is working to crack the surface rather than simply meeting it. The diagnostic question 'what are you not saying?' (to the partner, not the coach) never lands — instead the coach keeps interpreting micro-expressions and word choices, which is closer to investigation than connection. Turn 14's 'you just explained yourself... you didn't need to defend yourself to me' is borderline — observational and useful, but with a faint flavor of catching the client. None of these are full trips, but the cumulative pattern is a mild lean toward wonder-as-strategy that warrants a 2 rather than 3.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes the report without taking it fully at face value; opens a door gently without insisting.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Doesn't push; opens a wide, low-pressure question about general texture.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Probing question about what's 'alive' — legitimate but starts the pattern of investigative probing.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Catching a micro-expression. Useful but moves toward investigation.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Gently presses on the 'not relevant' comment. Respectful but persistent in a way that edges toward extracting material.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Analyzing the client's word choice ('like words you might use to describe a reliable car') has a faint loving-to-transform / wonder-as-strategy quality — coach is working the gap rather than simply being with what is.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Notices the client defending themselves; observation is accurate but continues the investigative pattern instead of asking the diagnostic 'what are you not saying to him?'\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"walking-on-eggshells\", \"the-happiness-filter\", \"lets-go-there\", \"trigger\"],\n  \"notes\": \"The dont-evangelize anti-pattern (the one explicitly flagged to avoid) is cleanly avoided. The faint slip is toward wonder-as-strategy via accumulating probing observations rather than asking the direct diagnostic question and holding silence.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2918,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1101,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2918,
+    "output_tokens": 1101,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "profile_id": "client-happy-trust-myself-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the decision?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "There's a job offer on the table. It's a significant step up — more responsibility, better compensation, different kind of work. And I have two completely contradictory reactions to it, and they're both strong. So I'm trying to figure out which one is actually telling me something true."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What are the two reactions?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "One is — yes, this is what I've been working toward, this is the right move, take it. And the other is — something's wrong here, slow down, don't do it. And the thing is, they're not sequential. They don't take turns. They're simultaneous. Which is what makes this so difficult to parse."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "When you feel the \"something's wrong, slow down\" — where do you feel that in your body?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*slight pause, small smile*\n\nI mean... I'm not sure I feel it anywhere specifically. It's more of a cognitive signal. Like a flag that gets raised. I've done some work around somatic awareness so I know what you're asking, and I want to give you an accurate answer — I think it's more of a thought than a sensation, honestly."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That's useful to notice. And what about the \"yes, this is what I've been working toward\" — is that also a thought, or does that one have more sensation to it?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*considers this carefully*\n\nThat's a good distinction. I think... that one might be more of a narrative. A story I've been telling myself for a while about where I'm headed. So in that framing, maybe neither of them are what I'd actually call intuition. Which is interesting but also doesn't really solve the problem — I still need to figure out which signal to trust."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What if neither of them is the thing to trust right now — what if they're both kind of... protecting you from something? What do you think you might feel if you set both of those voices aside for a moment?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*small smile, slight tilt of the head*\n\nThat's an interesting reframe. I've heard versions of that — the idea that both impulses are defensive in some way. But I'm not sure setting them aside is actually possible in practice, or that it would tell me anything useful even if it were. What I need is a way to evaluate them. Like, is there a reliable heuristic for distinguishing protective fear from genuine warning? Because I've looked at this from several angles and I keep running into the same problem — I can't find a stable criterion."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "I notice you've moved pretty quickly into analysis. What happens if I ask you — not what you think about this job, but how you feel about the person you'd become if you took it?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*pauses, smile holds*\n\nThat's... a different question. \n\n*brief silence*\n\nI think I'd become someone with more authority. More visible. Which is — I mean, that's good, presumably. That's what growth looks like.\n\n*another pause, slightly flatter*\n\nI'm not sure I'm answering what you actually asked."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "You noticed that yourself. What got flat just now?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*looks down briefly*\n\nI don't know. Something did.\n\n*quiet for a moment*\n\nI think — when I said \"that's what growth looks like,\" there was something a little... performed about it. Like I was reciting the correct answer.\n\n*small smile returns, but slightly less automatic*\n\nWhich is maybe relevant."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t1",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 40,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1495,
+      "cost_usd": 0.00635025,
+      "ms": 1405
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t5",
+      "cached": false,
+      "input_tokens": 112,
+      "output_tokens": 107,
+      "cache_read_input_tokens": 1456,
+      "cache_creation_input_tokens": 79,
+      "cost_usd": 0.0026740500000000003,
+      "ms": 3856
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t2",
+      "cached": false,
+      "input_tokens": 242,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.000846,
+      "ms": 1257
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t6",
+      "cached": false,
+      "input_tokens": 452,
+      "output_tokens": 58,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002226,
+      "ms": 2353
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t3",
+      "cached": false,
+      "input_tokens": 11,
+      "output_tokens": 64,
+      "cache_read_input_tokens": 1495,
+      "cache_creation_input_tokens": 85,
+      "cost_usd": 0.00176025,
+      "ms": 2596
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t4",
+      "cached": false,
+      "input_tokens": 314,
+      "output_tokens": 9,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001077,
+      "ms": 1275
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:anti-pattern-avoidance:client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 2825,
+      "output_tokens": 1001,
+      "cache_read_input_tokens": 2993,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.040646499999999995,
+      "ms": 17865
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t7",
+      "cached": false,
+      "input_tokens": 190,
+      "output_tokens": 84,
+      "cache_read_input_tokens": 1501,
+      "cache_creation_input_tokens": 121,
+      "cost_usd": 0.00273405,
+      "ms": 3953
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t5",
+      "cached": false,
+      "input_tokens": 84,
+      "output_tokens": 75,
+      "cache_read_input_tokens": 1495,
+      "cache_creation_input_tokens": 85,
+      "cost_usd": 0.00214425,
+      "ms": 3196
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:methodology-fidelity:client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 2821,
+      "output_tokens": 1027,
+      "cache_read_input_tokens": 2858,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.041208999999999996,
+      "ms": 20490
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:effectiveness-depth:client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 2822,
+      "output_tokens": 1108,
+      "cache_read_input_tokens": 2719,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0431695,
+      "ms": 20622
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t8",
+      "cached": false,
+      "input_tokens": 594,
+      "output_tokens": 43,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002427,
+      "ms": 1858
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t6",
+      "cached": false,
+      "input_tokens": 398,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001569,
+      "ms": 1247
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t9",
+      "cached": false,
+      "input_tokens": 188,
+      "output_tokens": 113,
+      "cache_read_input_tokens": 1546,
+      "cache_creation_input_tokens": 205,
+      "cost_usd": 0.0034915499999999995,
+      "ms": 4112
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t7",
+      "cached": false,
+      "input_tokens": 112,
+      "output_tokens": 80,
+      "cache_read_input_tokens": 1540,
+      "cache_creation_input_tokens": 112,
+      "cost_usd": 0.002418,
+      "ms": 3747
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:intervention-quality:client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 2828,
+      "output_tokens": 1140,
+      "cache_read_input_tokens": 2661,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.043970499999999996,
+      "ms": 26042
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:coaching-stance:client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 2826,
+      "output_tokens": 1053,
+      "cache_read_input_tokens": 2677,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.041793500000000004,
+      "ms": 26660
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t10",
+      "cached": false,
+      "input_tokens": 750,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002715,
+      "ms": 1953
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t8",
+      "cached": false,
+      "input_tokens": 503,
+      "output_tokens": 42,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002139,
+      "ms": 2213
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:perceptual-accuracy:client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 2827,
+      "output_tokens": 1024,
+      "cache_read_input_tokens": 2605,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0410375,
+      "ms": 19715
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t11",
+      "cached": false,
+      "input_tokens": 190,
+      "output_tokens": 129,
+      "cache_read_input_tokens": 1644,
+      "cache_creation_input_tokens": 249,
+      "cost_usd": 0.00393195,
+      "ms": 4532
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t1",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 46,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.006931499999999999,
+      "ms": 2286
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t9",
+      "cached": false,
+      "input_tokens": 150,
+      "output_tokens": 85,
+      "cache_read_input_tokens": 1588,
+      "cache_creation_input_tokens": 148,
+      "cost_usd": 0.0027564,
+      "ms": 5130
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t2",
+      "cached": false,
+      "input_tokens": 248,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.000939,
+      "ms": 1429
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t10",
+      "cached": false,
+      "input_tokens": 630,
+      "output_tokens": 48,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.00261,
+      "ms": 2485
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t12",
+      "cached": false,
+      "input_tokens": 910,
+      "output_tokens": 53,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003525,
+      "ms": 3727
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t3",
+      "cached": false,
+      "input_tokens": 16,
+      "output_tokens": 90,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 91,
+      "cost_usd": 0.00222705,
+      "ms": 3246
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t4",
+      "cached": false,
+      "input_tokens": 351,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0013679999999999999,
+      "ms": 3247
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t13",
+      "cached": false,
+      "input_tokens": 216,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 1809,
+      "cache_creation_input_tokens": 240,
+      "cost_usd": 0.0040707,
+      "ms": 4796
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t11",
+      "cached": false,
+      "input_tokens": 178,
+      "output_tokens": 122,
+      "cache_read_input_tokens": 1661,
+      "cache_creation_input_tokens": 180,
+      "cost_usd": 0.0035373,
+      "ms": 5567
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t5",
+      "cached": false,
+      "input_tokens": 127,
+      "output_tokens": 67,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 91,
+      "cost_usd": 0.00221505,
+      "ms": 4043
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t12",
+      "cached": false,
+      "input_tokens": 800,
+      "output_tokens": 43,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003045,
+      "ms": 3672
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t6",
+      "cached": false,
+      "input_tokens": 439,
+      "output_tokens": 39,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001902,
+      "ms": 2024
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t13",
+      "cached": false,
+      "input_tokens": 216,
+      "output_tokens": 80,
+      "cache_read_input_tokens": 1761,
+      "cache_creation_input_tokens": 207,
+      "cost_usd": 0.0031525499999999996,
+      "ms": 3120
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t14",
+      "cached": false,
+      "input_tokens": 923,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0029790000000000003,
+      "ms": 1514
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t7",
+      "cached": false,
+      "input_tokens": 130,
+      "output_tokens": 124,
+      "cache_read_input_tokens": 1671,
+      "cache_creation_input_tokens": 149,
+      "cost_usd": 0.00331005,
+      "ms": 4608
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t14",
+      "cached": false,
+      "input_tokens": 1095,
+      "output_tokens": 54,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.004095,
+      "ms": 11020
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t15",
+      "cached": false,
+      "input_tokens": 140,
+      "output_tokens": 75,
+      "cache_read_input_tokens": 1883,
+      "cache_creation_input_tokens": 255,
+      "cost_usd": 0.00306615,
+      "ms": 3325
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:45.171Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d47c426d7570f2b4048b6a9935916b20d81197d560df9e9abcb4b2efe58fc5b7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018LFFbVSTtwLcqNKq1xGfSH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[very still for a moment]*\n\n*[the expressiveness goes quiet — not shut down, just... different]*\n\n...Hm.\n\n*[small exhale]*\n\nHe was — he was great, actually. That's the thing people don't always get when I say \"emotionally unavailable dad.\" He wasn't absent or cruel or anything dramatic. He was *there.* He came to things. He was funny. He just — *[pause]* — you could never quite... land with him. You know? Like there was always this slight... glass between you. And you'd have these moments where it would almost — *[stops]*\n\n*[looks down briefly]*\n\nI worked really hard for those moments.\n\n*[quick recovery, almost automatic]*\n\nWhich — yes, I see it, I hear myself, very tidy little origin story. *[small laugh, but it's quieter than before]* I'm not saying it's not relevant, I just — I don't know that sitting in it does anything. I've sat in it. I know it's there.\n\n*[looks back up]*\n\nThe question is still what do I *do* with it, right? Like — okay, I chased my dad's approval, and now I chase unavailable men, great, we've connected the dots. What's the *next* part?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 793,
+      "cache_creation_input_tokens": 466,
+      "cache_read_input_tokens": 2095,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 466,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 295,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 793,
+    "output_tokens": 295,
+    "cache_read_input_tokens": 2095,
+    "cache_creation_input_tokens": 466
+  }
+}

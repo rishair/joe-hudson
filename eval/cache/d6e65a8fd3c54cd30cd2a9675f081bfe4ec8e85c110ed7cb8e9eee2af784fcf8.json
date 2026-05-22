@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:07.680Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d6e65a8fd3c54cd30cd2a9675f081bfe4ec8e85c110ed7cb8e9eee2af784fcf8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SncLw5BRjb2JfiYw8zKG2d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are consistently matched to live reads and timed to the coaching path. Turn 2 catches the hedge ('I think') with a precise inquiry rather than barreling forward. Turn 4 lands a small validation and then opens somatic awareness — earning the body channel before going to content. Turns 6-10 follow the sequence: situation → trigger → meaning → developmental origin, each step earned by the prior. Critically, when the client shows the first somatic shutdown signal in turn 11 ('I'm getting cold', 'feeling weird'), the coach immediately calibrates the threshold in turn 12 — no push toward father material, an invitation to stay with sensation, and explicit permission ('you don't have to go anywhere'). Turn 14 continues the right move: grounding into the chair, removing time pressure, working with the body rather than verbal methodology. The coach has not yet named that this may be therapy territory (a possible next step if shutdown deepens), but through turn 14 the moves and timing are clean and AoA-specific.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the hedge with a targeted question — precise read-to-move match, doesn't gloss the ambivalence.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Brief reflection then opens the somatic channel early — establishes the body as a reference point before going into content.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Earned move: zooms into the specific moment of shutdown. Sequenced well — situation before meaning.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Moves from event to meaning ('what are you sure is happening') — classic AoA inquiry, well-timed.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the protective function then opens the developmental layer with a feeling-oriented question rather than analysis.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Immediate calibration of threshold when shutdown signal appears. Doesn't push, invites staying with sensation, locates it ('where is it'). Textbook timing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Grounding move — chair, no rush. Matches the dissociative read with somatic resourcing rather than another verbal question.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"Can you feel your feet?\", \"How is your body right now?\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\"],\n  \"notes\": \"If the next turns continue grounding and, if needed, name the therapy referral, this stays a 3. A regression would occur if the coach returns to father material before the client is back in the body.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2441,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1007,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2441,
+    "output_tokens": 1007,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

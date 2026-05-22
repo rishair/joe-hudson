@@ -1,0 +1,306 @@
+{
+  "profile_id": "client-happy-am-i-selfish-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains — just me, no one else — but my partner's got a really full week with the kids and I just... I feel selfish even wanting it. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would it mean about you if you were?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean... it would mean I'm putting my own wants above my family's needs, right? Like, I'm the one who — we both work hard, but I do a lot of the carrying, the logistics, the emotional load of it all, and I *know* that, and I think that's part of why I feel like I don't have the right to just... opt out for a week. So if it's selfish, it means I'm not as good a person as I'm trying to be. I guess that's what I'm scared of."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "So the person who carries the most... is also the one who's not allowed to need anything. How long have you been living by that rule?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pauses*\n\nThat's... hm. That's a longer answer than I expected to have.\n\nI think — honestly? Probably since I was a kid. My mum was the same way. She gave everything and never asked for anything, and I think I always thought that was just what you did. What a good person did. She'd have called it selfish too, wanting a week away. She actually would have said that out loud.\n\nBut I'm not sure that answers your question about whether *I'm* being selfish. Like — is the trip actually okay, given everything that's going on at home right now?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you moved away from what just opened up there — something real about your mum, about a rule you've carried a long time — and back to getting permission for the trip. What's it like to sit with what you just said about her?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nIt's... uncomfortable. In a way that feels important, maybe.\n\nShe worked so hard. She really did. And I loved her for it. But I also remember watching her be exhausted and never saying so, and I think I just absorbed that as — that's what love looks like. You give until you're empty and you don't complain about it.\n\n*small laugh*\n\nI'm doing that, aren't I.\n\nBut — okay, and I know you're probably going to redirect me again — I still genuinely don't know if the trip is the right call right now. Like, my partner isn't my mum, and they're not asking me to sacrifice anything. I'm the one putting this on myself. So doesn't that make it more my problem to solve rather than just... going away for a week?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What do you think you'd find in that week alone in the mountains?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*voice changes slightly, gets quieter and warmer*\n\nSleep, honestly. Real sleep. And — there's this specific place, it's not even that far, but it's high enough that everything goes quiet. I've been there twice before and it's the only place I've read a whole book in... I can't remember how long. Not a useful book, not something for work. Just a novel. Just for the pleasure of it.\n\nAnd I think I'd find — me, a bit. The version of me that exists when I'm not managing anything or anyone.\n\n*pause*\n\nThat sounds so self-indulgent when I say it out loud."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Why does wanting to exist sound self-indulgent to you?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*longer pause*\n\n...God.\n\n*quiet*\n\nI don't know. I really don't know why I just called it that.\n\nBecause it's not — when I picture it, it doesn't feel indulgent. It feels necessary. Like drinking water after being thirsty for a long time.\n\n*tightens slightly*\n\nBut I think if I said that to my partner — \"I need to go away to find myself for a week\" — they'd hear it as \"I don't want to be here with you.\" And I'm scared of that. I'm scared they'd think the marriage is the thing I'm running from.\n\n*very quietly*\n\nAnd I'm a little scared that's actually true."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Stay with that last thing you just said. What's true about it?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*long pause*\n\nI don't think I want to leave the marriage. I don't think that's it.\n\nBut I think... I've lost track of who I am inside it. And that's scary to say because it sounds like a complaint, and it's not — my partner is good, we're good, it's just that I've been so focused on keeping everything running that I've kind of... disappeared into the function of it. The logistics person, the one who remembers the dentist appointments and notices when someone's upset before they know they're upset.\n\nAnd I think what I'm scared of is that if I go to the mountains and I find that quiet version of me... she might have things to say. About what she needs. And that feels dangerous somehow.\n\n*pause*\n\nThough I'm not sure why it feels dangerous. My partner isn't — they're not someone who would punish me for having needs. I think I'm punishing myself before they get the chance."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (13)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t1",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t2",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t3",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t4",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t5",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t6",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t7",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t8",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t9",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t10",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t9",
+      "cached": false,
+      "input_tokens": 229,
+      "output_tokens": 190,
+      "cache_read_input_tokens": 1930,
+      "cache_creation_input_tokens": 289,
+      "cost_usd": 0.0051997499999999995,
+      "ms": 9115
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t5",
+      "cached": false,
+      "input_tokens": 195,
+      "output_tokens": 136,
+      "cache_read_input_tokens": 1638,
+      "cache_creation_input_tokens": 153,
+      "cost_usd": 0.00369015,
+      "ms": 4382
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t10",
+      "cached": false,
+      "input_tokens": 1029,
+      "output_tokens": 23,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0034319999999999997,
+      "ms": 2614
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t6",
+      "cached": false,
+      "input_tokens": 638,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002139,
+      "ms": 1194
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t11",
+      "cached": false,
+      "input_tokens": 822,
+      "output_tokens": 158,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1438,
+      "cost_usd": 0.0102285,
+      "ms": 5868
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t12",
+      "cached": false,
+      "input_tokens": 1134,
+      "output_tokens": 18,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003672,
+      "ms": 3251
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t7",
+      "cached": false,
+      "input_tokens": 171,
+      "output_tokens": 168,
+      "cache_read_input_tokens": 1683,
+      "cache_creation_input_tokens": 283,
+      "cost_usd": 0.00459915,
+      "ms": 5720
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t11",
+      "cached": false,
+      "input_tokens": 239,
+      "output_tokens": 187,
+      "cache_read_input_tokens": 2055,
+      "cache_creation_input_tokens": 367,
+      "cost_usd": 0.00551475,
+      "ms": 7081
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t8",
+      "cached": false,
+      "input_tokens": 821,
+      "output_tokens": 39,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003048,
+      "ms": 2083
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t12",
+      "cached": false,
+      "input_tokens": 190,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1049,
+      "cost_usd": 0.00480375,
+      "ms": 1719
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t13",
+      "cached": false,
+      "input_tokens": 196,
+      "output_tokens": 212,
+      "cache_read_input_tokens": 1438,
+      "cache_creation_input_tokens": 802,
+      "cost_usd": 0.0072069000000000005,
+      "ms": 6329
+    }
+  ]
+}

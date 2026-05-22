@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:09.059Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "eca6e0fef50aeec6a462d9ef8f934757d7dfc099575bdcab426d5e255977fca5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CnnMaWjL2KLa14DSoKJvAW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I can give you a structure — and I will. But I want to make sure it actually solves your problem rather than just containing it temporarily.\n\nBecause here's what I'm noticing: if both of you are carrying unresolved doubt about founding decisions, a tighter agenda might get you through the prep sessions, but that doubt is likely to surface in the room with investors. They're good at finding the cracks.\n\nSo — structure, yes. But let me ask one quick question first, and it's practical not philosophical:\n\n**Is the doubt you're each carrying about the same thing, or different things?**\n\nThat changes what kind of structure will actually hold."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 364,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 144,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 364,
+    "output_tokens": 144,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

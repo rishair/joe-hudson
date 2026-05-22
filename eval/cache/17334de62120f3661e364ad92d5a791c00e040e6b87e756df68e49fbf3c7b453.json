@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:01.576Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "17334de62120f3661e364ad92d5a791c00e040e6b87e756df68e49fbf3c7b453",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017rHtLXaAoPKqbHg6sQz7Aa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nSoup.\n\n*another pause, slightly surprised*\n\nThat was — okay, that was fast. And then immediately after, there was this little flicker of \"but is that what I actually want or is it just what came up first\" and I caught myself about to run the check.\n\n*dry smile*\n\nSo I see the loop. I see it very clearly right now. The question is — and I realize I'm about to do it again — the question is whether \"soup\" is Self speaking or whether it's just the loudest part in that moment. In IFS terms, there's a distinction between an impulse that comes from a part and a response that comes from Self, and they can feel similar from the inside.\n\n*stops herself*\n\nI just did it again.\n\nOkay. Soup. The answer is soup and I know it's soup and something in me is uncomfortable with how simple that was.\n\n*quieter*\n\nI think what I'm circling around — and this might be the actual thing — is that I don't fully trust that the \"I\" who said soup is the right I. Like there's a question underneath the question, which is: which version of me gets to be in charge? And I don't know how to answer that without the framework, because the framework was supposed to help me figure that out."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 976,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2417,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 291,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 976,
+    "output_tokens": 291,
+    "cache_read_input_tokens": 2417,
+    "cache_creation_input_tokens": 0
+  }
+}

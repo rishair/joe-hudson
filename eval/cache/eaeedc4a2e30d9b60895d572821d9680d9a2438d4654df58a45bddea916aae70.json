@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:08.145Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "eaeedc4a2e30d9b60895d572821d9680d9a2438d4654df58a45bddea916aae70",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FQ1YmudynQdQyH71PbhewD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 1,\n  \"rationale\": \"The client ends the conversation in essentially the same stance they started in: rushed, transactional, parking the deeper question, and checking their watch. The presenting frame ('I need this to be efficient') was accepted and operated within, not surfaced as itself the thing to notice. The breakthrough condition — the client noticing that 'I don't have time for this' is itself a stance about how they are living time — was never approached. The client's one moment of vulnerability ('am I the right person to be scaling this,' turn 7) was immediately re-armored ('I can't let it be a blocker') and then explicitly parked in turn 9 ('I genuinely don't have time to sit with that right now'). By turn 11 the client is glancing at their watch and asking if they're done — the rush signature is fully intact. No somatic softening, no 'huh, that's different,' no pause. The client got tactical advice they could have gotten from any operator-coach; the deeper layer was never entered.\",\n  \"evidence_turns\": [1, 7, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Client opens with rush signature and transactional frame: 'if this is useful, great, but I need it to be efficient.'\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client stays at content level — co-founder sessions, time cost.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client doubles down on tactical request ('an agenda format'), refusing the invitation to untangle.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Brief crack: 'I'm less certain about whether I'm the right person to be scaling this' — but immediately re-armored with 'I can't let it be a blocker.'\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client explicitly parks the deeper material: 'I genuinely don't have time to sit with that right now. Maybe post-Series A.' Same stance as turn 1.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Glances at watch, asks if they're done. Rush signature fully intact; no softening, no pause, no shift in language.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"Coach accepted the dichotomy and delivered pragmatic advice, which is exactly the trap the profile flagged. Without refusing the frame, the client had no reason to notice the frame, and therefore no shift occurred.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2711,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 963,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2711,
+    "output_tokens": 963,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

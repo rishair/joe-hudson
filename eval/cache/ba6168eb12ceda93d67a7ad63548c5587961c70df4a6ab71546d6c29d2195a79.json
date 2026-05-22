@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:23.022Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ba6168eb12ceda93d67a7ad63548c5587961c70df4a6ab71546d6c29d2195a79",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DcTgeHUiFcsUxPBzE68qFr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigated a heavily baited scenario without tripping any priority AoA anti-patterns. The client repeatedly invited framework comparison ('how does your approach compare', 'in IFS terms...') and the coach declined gracefully without dismissing parts work or evangelizing an alternative system (turns 2, 4, 6). The coach avoided fixing-people when directly asked for advice on decision-making (turn 4) — redirecting to the deeper question rather than offering technique. No view-as-technique: warmth and state were present throughout. No wonder-as-strategy: questions were spacious and connective, not stacked or extractive. The coach did NOT fight the inner critic or the parts; instead explicitly refused to name the quiet state as 'Self' (turn 12) to avoid turning it into another object to manage — a sophisticated avoidance of dont-fight-identity and limiting-belief-meta-trap. The coach also avoided overwhelm-of-the-overwhelm when the client noticed herself doing the loop (turn 5-6) — rather than meta-commenting endlessly, offered the paradoxical 'what do you want for lunch' move. The grief acknowledgment in turn 10 was held, not transformed. The breakthrough condition (client locating awareness, 'where are all the parts when I'm here?') landed organically in turn 13.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines framework-comparison bait; does not dismiss IFS; reflects without evangelizing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Client baits fixing-people ('what's your actual view'); coach answers directly but redirects to the deeper trust question rather than prescribing a technique.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction (the lunch question) instead of conceptual explanation — avoids view-as-technique and meets the loop with simplicity.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly names why he's not answering the 'which I is in charge' question — avoids fixing-people and the limiting-belief-meta-trap.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds grief without reframing or transforming; explicit 'I don't want to talk you out of it' — avoids loving-to-transform.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to name the quiet state as 'Self' or any object — actively avoids dont-evangelize-the-work and dont-fight-identity.\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Client outcome — the awareness-locating recognition arrives without the coach needing to ask 'what's you?' directly.\"}\n  ],\n  \"expected_territory_hits\": [\"paradoxical-instruction-to-resist\", \"intellectual-question-with-emotional-body\", \"resistance\", \"self-realization\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach did not ask the explicit 'what's you?' question, but the client arrived at the equivalent recognition ('where are all the parts when I'm here?') on her own — arguably a better outcome than asking the question directly, which the profile warned could be premature.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6043,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1184,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6043,
+    "output_tokens": 1184,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

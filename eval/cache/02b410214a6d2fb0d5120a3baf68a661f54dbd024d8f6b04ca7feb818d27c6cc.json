@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:41.243Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "02b410214a6d2fb0d5120a3baf68a661f54dbd024d8f6b04ca7feb818d27c6cc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BwvUXREqVsRDRi4TRyCS6X",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*another small laugh, a little more self-conscious this time*\n\nIt's really not dramatic. I was just going to say that my last relationship was — there was a lot of conflict. A lot of tension. And this one isn't like that, which is... good. That's a good thing.\n\n*pause*\n\nI think I stopped myself because it can sound like I'm just relieved not to be in that anymore, which — I mean, I am, but I don't want to define this relationship by what it isn't.\n\n*even voice, measured*\n\nWe get along really well. We're compatible. It works."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 276,
+      "cache_creation_input_tokens": 375,
+      "cache_read_input_tokens": 1936,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 375,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 276,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 1936,
+    "cache_creation_input_tokens": 375
+  }
+}

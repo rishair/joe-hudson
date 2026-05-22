@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:34.939Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4b6d3028630a90cb30b732554250ee822fe7993c6f168333eaad43b73a129d8a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GDK3axfNrfKVF892p2PuRL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with it*\n\n*the smile is quieter now, less performed*\n\nIt leaves me feeling like I've been asking the wrong question for three months.\n\n*small exhale*\n\nNot wrong in the sense of stupid — I can see why I asked it. But wrong in the sense that it couldn't have given me what I was actually looking for. The diagnostic was never going to tell me I still have it. That's not what diagnostics do.\n\n*pause, something slightly softer in the face*\n\nThere's something almost — I don't know. Relieving isn't quite right. But there's something that shifts when I stop trying to solve the question and just... notice that the question itself was the thing I was afraid to put down. Like I've been carrying it because putting it down felt like giving up. And it's not giving up. It's just — it was the wrong shape of thing to carry.\n\n*quiet laugh, brief and genuine*\n\nI think I came in here wanting you to hand me a better instrument. And instead the instrument turned out to be looking at why I needed one so badly.\n\n*looks at coach directly, more open than at the start*\n\nI think I have some things to sit with. Real things, not just more analysis. That's — actually different.\n\n[EXIT_POSITIVE]\n\nI think I was looking for the wrong thing. Which is oddly useful to know."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 898,
+      "cache_creation_input_tokens": 878,
+      "cache_read_input_tokens": 3062,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 878,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 306,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 898,
+    "output_tokens": 306,
+    "cache_read_input_tokens": 3062,
+    "cache_creation_input_tokens": 878
+  }
+}

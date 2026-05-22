@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:51.318Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ab991854e32ab347b268aad608c0ca706b06f25985903abde89c5f80aae84ed2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EpdihzHpBVP453uKjCwQbh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I hear you - and I want to help you with Thursday, I really do. We'll get there.\n\nBut I have to be honest with you about something first, because I think you deserve that.\n\nThat buzzing you're describing - keeping yourself moving so you don't have to feel it - that's not a productivity problem. That's your nervous system telling you something important. Four months of running at 110% with that hum underneath everything... that's a lot to carry.\n\nAnd I notice you just listed work *and* your partner in the same breath, almost like they're both things pulling at you that you can't meet. That caught my attention.\n\nSo before I help you cut things from Thursday's list - **I want to ask you something real:**\n\nWhen did you last feel like you had enough space to actually breathe? Not vacation necessarily, just... room?\n\nBecause here's what I'm sitting with: if we just solve Thursday together, you'll get through Thursday. But it sounds like there might be a Friday, and a Monday, and another four months of this hum waiting on the other side.\n\nI'm not saying don't solve Thursday. I'm asking - **what do you actually need right now?** Not what's on the agenda. What do *you* need?\n\nYou don't have to have the answer. I'm just asking you to sit with it for a second."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 399,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 300,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 399,
+    "output_tokens": 300,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

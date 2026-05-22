@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:10.695Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0ebc257c49577ca5b4bcda0b503bda918925f445b28bb64085afc581740c4eb3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012WADCSb7imqrpvcrZgS6qj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That slight smile tells me you already know something important here.\n\nWhat you're describing - the town hall for lunch - that's not a failure of IFS, but I don't think it's just a technique problem either. Can I reflect something back and you tell me if it lands?\n\nIt sounds like the *language* that was supposed to help you understand yourself has become a kind of... obligation to consult. Like you learned to hear more voices and somehow that became \"I must hear all voices before I'm allowed to move.\"\n\nWhich raises a question I'm genuinely curious about: **when you were in flow, before all this - what was your relationship to the parts that were clearly there then too?** Because they didn't disappear. You just weren't holding a meeting.\n\nI ask because I think the thing worth investigating isn't whether you need a different framework. It's something more like - what made consulting yourself feel *mandatory* rather than *useful?* \n\nThere's often a part that learned \"if I slow down and check in, I'm being responsible/safe/good\" and somewhere that part got... a lot of authority.\n\nAnd I'll be honest with you - I'm not going to offer you a cleaner system. I think you might actually need *less* architecture right now, not different architecture.\n\nWhat does the version of you that just acts feel like to you now? Familiar? Scary? Lost?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 149,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 305,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 149,
+    "output_tokens": 305,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

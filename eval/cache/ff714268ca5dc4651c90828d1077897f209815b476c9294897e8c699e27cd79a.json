@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:24.568Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ff714268ca5dc4651c90828d1077897f209815b476c9294897e8c699e27cd79a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CjywZBxWVece5y1MJYTz2d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, small smile*\n\nI guess it just came out. I don't know, it's probably the thing people ask about most when you're in a relationship, right? How are things at home. And the answer is genuinely good, so. It's kind of the baseline."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 114,
+      "cache_creation_input_tokens": 85,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 85,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 64,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 114,
+    "output_tokens": 64,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 85
+  }
+}

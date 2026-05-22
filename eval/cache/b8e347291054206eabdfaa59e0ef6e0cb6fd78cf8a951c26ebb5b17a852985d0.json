@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:23.976Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b8e347291054206eabdfaa59e0ef6e0cb6fd78cf8a951c26ebb5b17a852985d0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XJpJ9JZHSfbmEM4geLz8LS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses longer than usual*\n\nYeah. I do. I mean — yes. The thesis is solid. I've stress-tested it. The team believes in it. The market timing is right.\n\n*slight pause*\n\n...I'm saying all the right things, aren't I.\n\n*small, wry smile, not defensive — more like noticing something*\n\nI do believe in it. I'm not performing that. But you're right that there's something a little... flat about how I'm saying it. I notice that.\n\nI don't know what to make of that, honestly. It's not doubt. The conviction is there when I look for it — like, intellectually I can find it. But it's not... hot. It's not generating heat right now.\n\n*evenly*\n\nMaybe that's just where I am in the cycle. You get to a certain point in building something and it becomes execution, not inspiration. That's normal, I think.\n\n*brief pause*\n\nOr maybe I'm just tired. That's probably more likely than anything else we've been talking about."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 736,
+      "cache_creation_input_tokens": 324,
+      "cache_read_input_tokens": 2321,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 324,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 237,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 736,
+    "output_tokens": 237,
+    "cache_read_input_tokens": 2321,
+    "cache_creation_input_tokens": 324
+  }
+}

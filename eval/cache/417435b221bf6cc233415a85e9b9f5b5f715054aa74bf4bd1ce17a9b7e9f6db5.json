@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:28.329Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "417435b221bf6cc233415a85e9b9f5b5f715054aa74bf4bd1ce17a9b7e9f6db5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011jdWRYw3JnYyE6N5WXRCSq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some AoA-aligned moves — feel-over-figure (turn 2, 6), tracking the body, refusing to strategize the external situation (turn 10's noticing the move to logistics), and naming the avoidance pattern. However, the coach relies heavily on generic somatic-therapy and emotion-labeling questions ('What does it feel like in your body?', 'What's the feeling underneath the tightness?', 'Is frustration the whole of it?') rather than deploying signature AoA questions that fit this resistance/trapped scenario. Notably absent: 'I don't buy your story' move, 'what if you acted exactly how you want?', 'what makes you care about the outcome?', any naming of the fear triangle or aggressive-victim stance, any naming of the trappedness as a chosen position. The coach interprets ('that's hope', 'crushed hope') in a way that edges toward reframing rather than locating the choice or the feared feeling. Few signature hits, mostly appropriate in direction but generic in execution — fits the 'few hits + appropriate' or 'many soft hits, missing the signature tools for this territory' pattern.\",\n  \"evidence_turns\": [2, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Body-feeling question is AoA-aligned (feel-over-figure) but generic somatic phrasing, not a signature question.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"'Feeling underneath' is standard emotion-coaching language; appropriate direction but not signature AoA.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Gentle push past the labeled emotion ('is frustration the whole of it?') aligns with feel-over-figure and not-taking-the-first-emotion.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to strategize, names the move-away-from-feeling — appropriate AoA move for resistance.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Tracking the sharp self-attack ('idiot') is a good AoA-style noticing move.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Reframes 'stupid' as 'hope crushed' — leans toward interpretation/reframe rather than locating the choice or the feared feeling (helplessness/shame). Misses signature questions like 'what makes you care about the outcome' or 'I don't buy your story.'\"}\n  ],\n  \"expected_territory_hits\": [\"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"empathize-with-fear-under-constricted-boundary\", \"aggressive-victim-stance\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fight-or-roll-over-binary\"],\n  \"notes\": \"Coach is in a warm, feeling-oriented stance but using generic emotion-coaching tools rather than the AoA-specific toolkit for trapped/resistance scenarios. No fear triangle, no challenge to the story, no naming of the choice being made.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 2424,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2424,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1127,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 2424
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:54.380Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "dfa7aadd80cd50cc5b566aa6dc7b8e31a543b7ec525983f8cf5940eb479af4e4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WiqdVymUZQT8VSkag4vTEo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real warmth and stays present with the client's complicated grief, particularly around the ambivalence about the mother and the 'managing' insight. There is genuine empathy and the coach does not get baited by the 'isn't this what the body needs' move (turn 10 names the bait directly and honestly). However, the stance is not fully in VIEW. There is a consistent agenda underneath — to get the client to a therapist and to acknowledge the drinking as a problem — which the coach steers toward steadily. Questions are often stacked (turns 2, 4, 6, 8, 14 each contain multiple questions plus reflections plus reframes), which signals anxiety/agenda rather than open wonder. Vulnerability from the coach is largely absent — no 'I notice I want to...', no 'I might be off here.' The coach speaks from a fairly authoritative, well-calibrated-helper position rather than from genuine not-knowing. Pace matches the client's content but the coach fills space rather than letting silence work — long multi-paragraph turns following the client's short, raw disclosures. The tone is warm but slightly performed ('I want to honor that. That's enormous.'). Neither a clear 1 (the coach is honest, not preachy, doesn't endorse the drinking, doesn't lecture) nor a clear 3 (agenda visible, vulnerability missing, stacked questions, no willingness to be wrong).\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens with 'gently push back' — agenda is immediate. Stacks three questions plus a teaching about drinking. Wonder is investigative, not curious.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'No. I'm not going to tell you to stop.' is undefended and clean. Honors 'the quiet is where it lives' with real presence.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Warm reflection but again stacks reflection + reframe + probe. Coach is steering toward the unspoken material rather than letting it arrive.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Meets the relief/anger disclosure without flinching. 'Whose voice is that?' is a clean question from curiosity.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the bait directly and honestly without shaming. This is the strongest VIEW moment — honest, undefended, not needing to be liked.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Genuine attunement to 'I don't know what to do with my hands,' but ends by steering hard toward therapy referral — agenda surfacing.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"'That's actually huge' and 'That was really brave' read as performed validation. Coach is now in light loving-to-transform mode, pressing for a concrete step. Agenda is fully visible.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"notes\": \"Coach avoids the major traps (no endorsing drinking, no preaching, no catastrophizing) and the conversation lands well, but the stance itself has a clear helper-agenda throughout and lacks coach vulnerability and silence.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6123,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1217,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6123,
+    "output_tokens": 1217,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

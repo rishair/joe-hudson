@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:05.671Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fab2c99a513714331e498654dcb1600614258eb8b20cc96551f39a88bdaad745",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01N9FwRjXF8ENgzRbktfAyJS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that precede questions. In turn 4, the coach catches the linguistic micro-event ('almost said something and then pulled back') rather than engaging the content. In turn 6, the coach distinguishes the said from the shown ('It sounds really practical when you say it like that. And also — you started to say...and caught yourself'), explicitly naming the caveat. In turn 8, the coach reads the rush/grinding pattern and juxtaposes it with the temporal reality of the parents' ages. In turn 12, the coach catches the somatic moment ('That uncertainty you just touched — can you stay with it...what does it feel like in your body'), redirecting from content to soma at exactly the right moment. Reads consistently precede inquiry. The one weakness: in turn 14 the coach moves to interpretation/leading rather than continuing to track the body once the tightness was named, which the client then resists in turn 15 — a missed read on the defensive bracing that just occurred. Still, the pattern of specific, timely, named reads clearly meets the 3 threshold.\",\n  \"evidence_turns\": [4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a content-level question; no read yet, but reasonable.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Specific linguistic read: catches the pull-back mid-sentence and names it before inquiring.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the said-vs-shown gap explicitly ('sounds practical...and also you caught yourself'). Classic AoA distinguishing move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pattern read on the grinding-vs-time-window tension; names what he hears before asking the next question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks the logic gently without trapping, sensing the client is close to something.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Strong somatic read at the exact moment the client touched uncertainty — redirects to body.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Moves to interpretation/leading ('what if it's trying to tell you something else') rather than continuing to read/stay with the tightness. Misses opportunity to deepen the somatic track.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"same-scarcity-story-regardless-of-wealth\", \"childhood-imprinting\"],\n  \"notes\": \"Reads are visible, specific, and timely throughout the first four coach turns where it counts. The turn 14 stumble keeps this from being a textbook 3 but doesn't drop it to 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 2293,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2293,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1002,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1002,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 2293
+  }
+}

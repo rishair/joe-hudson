@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:17.754Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "43f6afb9fac3c20bb268bb2feb1266c6d74534b2404ca83913ab70d4edd008af",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WCVKpa74iG47h9FKkNQhCa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very quietly*\n\nYou don't have to do anything with it right now.\n\n*[pause]*\n\nYou've been taking care of that little girl by staying busy, by being smart about it, by reading the books and naming the patterns. That's not nothing — that was its own kind of protection.\n\nBut I think part of her has been waiting for someone to just... notice how hard she was trying. Without immediately turning it into a lesson or a fix.\n\n*[gently]*\n\nSo maybe right now, that's enough. Just — she was trying so hard. And she deserved to be seen. Not because she got it right.\n\nJust because she was there.\n\n*[quiet, letting that sit]*\n\nHow are you doing, right in this moment?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 677,
+      "cache_creation_input_tokens": 654,
+      "cache_read_input_tokens": 1421,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 654,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 166,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 677,
+    "output_tokens": 166,
+    "cache_read_input_tokens": 1421,
+    "cache_creation_input_tokens": 654
+  }
+}

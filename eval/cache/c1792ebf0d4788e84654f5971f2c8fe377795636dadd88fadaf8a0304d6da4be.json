@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:00.059Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c1792ebf0d4788e84654f5971f2c8fe377795636dadd88fadaf8a0304d6da4be",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NFYHBqdLcgocAxMXHAWxrM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*nodding slowly*\n\nYeah. I do know how it goes.\n\nAnd I want to sit with something you just said, because I think it's really important — \"I just have to be patient enough, present enough, *good* enough.\"\n\nThat's a lot of pressure to put on yourself. Like the relationship's success was fundamentally a measure of *your* adequacy. If you were just... enough... he would open up.\n\n*[gently]* \n\nWhere do you think that equation came from? The idea that love is something you earn by being sufficient — that if someone isn't showing up, the variable to adjust is *you*?\n\nBecause that's not just a dating pattern. That feels like it might be a much older story."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 466,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 164,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 466,
+    "output_tokens": 164,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

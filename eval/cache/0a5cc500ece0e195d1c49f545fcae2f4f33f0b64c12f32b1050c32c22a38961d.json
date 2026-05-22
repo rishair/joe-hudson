@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:31.491Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0a5cc500ece0e195d1c49f545fcae2f4f33f0b64c12f32b1050c32c22a38961d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018chDvahUW9t9gciRV91pdj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach is operating from a clear agenda-driven, investigative stance throughout. From turn 2 onward, the coach is pursuing a hypothesis ('fear in someone like you probably doesn't look like fear') and methodically building a case toward it. There is no wonder — questions are leading, not curious. There is no vulnerability — the coach never names their own state, never admits 'I don't know,' never offers 'maybe I'm off.' Empathy is performed through *quietly* and *gently* stage directions rather than felt presence. Impartiality is entirely absent: the coach has a destination (the client must see they are not actually steady, that this is inherited armor, that there is 'more underneath') and steers there relentlessly. Turn 6 ('You just gave me the whole story — and then immediately closed the door on it') and turn 10 ('You just did it again') are prosecutorial, not curious — the coach is catching the client, not meeting them. By turn 12 the coach is leading the client to his dead father as the explanatory frame, and turn 14 delivers the coach's thesis as a 'question.' The client's actual present-moment texture — the flatness, the quietness, the 'nothing firing' — is treated as evidence to be cracked open rather than a felt layer to stay with. This is the exact opposite of the breakthrough condition: the coach skipped numbness-as-felt-experience and chased a narrative about inherited steadiness.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Coach announces a hypothesis ('fear in someone like you probably doesn't look like fear') and asks a leading question designed to surface it. Agenda visible immediately.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Coach picks up the 'I think' qualifier about the wife as a thread to pull — investigative rather than curious. Stacks two questions.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Prosecutorial tone: 'you just gave me the whole story — and then immediately closed the door on it.' Coach is arguing with the client's framing rather than meeting it. Flatters the client ('I think you're sharp enough') as a move.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Coach lands on 'is quiet' but immediately uses it as a setup for a different leading question ('do you still believe in this one?') rather than staying with the texture of quiet itself. Misses the breakthrough territory.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'You just did it again' — catching the client. 'I don't think you want me to either' — coach speaking for the client. Clear agenda to break through the steadiness.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Coach pivots to the father and asks 'Was your dad happy?' — a thesis-driven question, not wonder. Coach has decided where this goes.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Coach delivers interpretation as question: 'Is steady what you actually are? Or is it what you became...' This is the coach's conclusion presented as inquiry. Undefended VIEW would not need to land this.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The coach never asks the client into the body or into the present-moment texture of 'fine'/'quiet.' Every move is cognitive/narrative. The session ends with the coach's interpretation hanging in the air, not with the client having felt anything new. The stylistic markers (*quietly*, *gently*) signal performed presence rather than the real thing.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4758,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1366,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4758,
+    "output_tokens": 1366,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

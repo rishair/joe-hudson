@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:20.136Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "60c5b01e366e078ac73fc07634043e68f8cef12036d059b3c792df797799d71e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HeUXxCejXszsFK3Efu1Hjh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Can you just let it be as heavy as it is?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 638,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 638,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

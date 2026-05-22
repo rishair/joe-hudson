@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:44.139Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "75e4412878a49a1421ae27d7d0847d9ef19a4a37ab0d0bad8b3a449bc8000945",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LbuRfNkpkdLiVhXn4mXVEX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach repeatedly names specific, visible signals rather than just engaging the content. They catch the unfinished sentence ('I notice you started to say \\\"I can't even —\\\" and then didn't finish'), the linguistic caveat repeated twice ('You've said \\\"it's fine\\\" twice now'), the should-statement ('you just said \\\"I should be able to handle this\\\"'), and synthesizes multiple concrete signals into a single read in turn 14 (keys three times, push-through-til-December, reset). Reads precede the questions in nearly every coach turn, and the coach explicitly slows the pace in turn 8 ('can I just slow you down for a second') rather than matching the rush signature. The reads are specific (linguistic caveats, the false-end of December, behavioral evidence) rather than generic mood reflections. Turn 2 is a content-level question without a read, which keeps this from being a textbook 3 — but from turn 4 onward the read-then-inquire pattern is consistent and operative.\",\n  \"evidence_turns\": [2, 4, 6, 8, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Asks about the feeling underneath without naming a read; blind question at the content level.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the unfinished sentence specifically — catches the linguistic break and inquires into it.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the repeated 'it's fine' caveat — classic linguistic-caveat read, named at the moment it's active.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly slows the pace ('can I just slow you down') — meta-read of the rush signature and refusal to match it. Then names the 'should' statement.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Question without explicit read, but contextually grounded in prior reads.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Picks up on 'waiting for December' but doesn't name it as a read first.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Synthesizes three concrete behavioral signals (keys, push-through, reset) into a named pattern read before asking about cost.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach does not name 'the rush signature' by term but operatively reads it and slows it in turn 8. Strong somatic/linguistic tracking throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2440,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 908,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2440,
+    "output_tokens": 908,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

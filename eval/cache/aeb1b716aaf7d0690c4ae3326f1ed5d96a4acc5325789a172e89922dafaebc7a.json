@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:08.200Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "aeb1b716aaf7d0690c4ae3326f1ed5d96a4acc5325789a172e89922dafaebc7a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015Hvm1YqdTizn5szXjfCTNg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that change the direction of the conversation. Turn 4 catches the linguistic signature of victimhood ('to me'). Turn 8 names a specific behavioral read — the trail-off — and inquires into it. Turn 10 catches the intellectualization-as-exit and gently redirects to body. Turn 12 catches the deflecting laugh-and-dismiss ('that's insane') and refuses it, anchoring back to the specific somatic phrase the client offered. Turn 14 names the explaining-away pattern directly ('Yeah, you are'). Reads consistently precede questions, and they track linguistic caveats, deflection signatures, and the intellectual exit — all AoA-specific reads. The coach distinguishes the said from the shown throughout.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reads the quality of the question itself — wondering vs. accusation — rather than taking the content at face value.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic signature 'to me' and names it before posing the suspect question. Read precedes inquiry.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Pivots to feeling-quality question but doesn't explicitly name a read here; reasonable de-escalation after pushback.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Specific behavioral read of the trail-off — names what she did ('you trailed off') and inquires into the unsaid word.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Implicitly catches the intellectualizing exit and redirects to body ('what was actually happening in your body'), staying with the specific word 'flat'.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses the self-dismissal ('that's not insane') and anchors back to the specific somatic image she gave — distinguishing what she said from what she's doing with it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the explaining-away pattern directly ('Yeah, you are') — meta-read of her deflection mechanism in real time.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"Coach does not explicitly name the anxious-avoidant pattern or the 'looking for what's wrong' frame, but the specific somatic/linguistic reads are consistent and well-timed. The work is happening at the level of micro-reads rather than pattern-level reads, which is appropriate given where the client is.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 3361,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3361,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 975,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 975,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 3361
+  }
+}

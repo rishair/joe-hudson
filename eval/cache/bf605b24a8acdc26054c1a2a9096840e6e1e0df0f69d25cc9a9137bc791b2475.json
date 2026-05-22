@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:11.681Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bf605b24a8acdc26054c1a2a9096840e6e1e0df0f69d25cc9a9137bc791b2475",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Sm5xjVgH9kGcxNBqpcU4mA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are consistently well-matched to live reads and sequenced along the AoA path: feeling before story, want before action, and surfacing the fear under the constricted boundary before any prescription. Turn 2 opens with curiosity rather than scripts. Turn 4 invites the felt sense of 'emptied out' at exactly the moment the client names it. Turn 6 catches the linguistic caveat ('that's just kind of how it's been') and uses a precise move — naming the door closing and asking what the tiredness was about to say — which lands and produces the want. Turn 8 is a clean state-the-want move that refuses the qualification. Turn 10 reframes the work onto the identity fear underneath (the deeper concern), and Turn 12 invites examination of the inherited role. Turn 14 notices the client's flight back into sister-focus and gently returns her to staying with the unchosen identity. Coach holds silences (clients pause repeatedly), pivots when the client deflects rather than doubling down, and avoids all the traps (no scripts, no reassurance, no ultimatum framing). The one expected-territory item not yet reached is the love test itself, but the conversation is mid-stream and the coach has correctly earned the ground that would make it land.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a clean curiosity question rather than a boundary script; invites client into the dread.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Move-to-read match: client named 'emptied out,' coach invites felt experience of it. Feeling before story.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat ('that's just how it's been') and reflects it precisely as a door closing, then asks what the tiredness was about to say. Excellent timing — the client had just hedged.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"State-the-want move: refuses the qualification, holds both-and, then asks what it's like to want it. Earned by the prior turn.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reframes from action ('boundary') to the fear underneath ('what it says about you') — exactly the empathize-with-fear-under-constricted-boundary territory.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"After the client surfaces the cold/failing identity, coach validates and opens the question of choice vs. inheritance. Doesn't rush to fix.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the client's deflection back to the sister and gently returns her to staying with the unchosen role. Pivots rather than repeating.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"the-want\", \"boundaries\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\"],\n  \"notes\": \"Conversation is mid-stream; the love test would be the natural next move once the identity fear has been fully felt. Coach has earned the ground for it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2140,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2140,
+    "output_tokens": 1158,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

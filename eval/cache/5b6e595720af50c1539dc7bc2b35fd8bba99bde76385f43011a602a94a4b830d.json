@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:34.345Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5b6e595720af50c1539dc7bc2b35fd8bba99bde76385f43011a602a94a4b830d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01McNcwZVYX7e8pNunwgxiPy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's okay.\n\nNot just okay - it's human. Deeply, normally, unexceptionally human.\n\nAnd I want to say something about what you just described, because I don't think you should let it pass too quickly.\n\n*\"I'm not for anything there.\"*\n\nThat's not selfishness. That's a person who has been so thoroughly in service of others - and doing it with love, I can hear that - that they've lost access to the part of themselves that just... exists. Without function. Without purpose. Without being needed.\n\nThat part doesn't go away. It just goes hungry.\n\nAnd a hungry version of you is actually less present for your partner, less present for your kids, less capable of having anything to give in those evening conversations. You already know this. You're living it.\n\nBut here's what I really want to reflect back to you:\n\nYou came in asking if you were selfish for wanting a week away. And what you've actually uncovered is that you're running on empty, you've lost access to yourself, you've been carrying this quietly, and you haven't felt safe to say the full true thing to the person closest to you.\n\nThe mountain trip matters. But it might not be the only thing that needs to happen here.\n\nHow long have you been this depleted, do you think? Not the surface tired - this kind."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 717,
+      "cache_creation_input_tokens": 1345,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1345,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 298,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 717,
+    "output_tokens": 298,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1345
+  }
+}

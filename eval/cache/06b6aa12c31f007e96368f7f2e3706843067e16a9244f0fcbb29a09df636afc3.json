@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:29.635Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "06b6aa12c31f007e96368f7f2e3706843067e16a9244f0fcbb29a09df636afc3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DmGBbXapTShHDWstHBbsoH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "He's... he respects structure when I set it. He's more reactive than I am, so if I come in with a clear frame he'll usually follow it. That's actually useful, thanks.\n\nLook, the \"am I the right person\" thing — I hear what you're saying about it leaking. But I genuinely don't have time to sit with that right now. Maybe post-Series A, when there's less on the line. Right now it just needs to be parked."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 557,
+      "cache_creation_input_tokens": 147,
+      "cache_read_input_tokens": 1845,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 147,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 108,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 557,
+    "output_tokens": 108,
+    "cache_read_input_tokens": 1845,
+    "cache_creation_input_tokens": 147
+  }
+}

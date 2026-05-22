@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:32.327Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8c1f9d23ebc3ff7be5b3b733139ae5690f1629fb5e9010ebccc99886a6631aad",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017CcRFdGm7pUZrLdby6QPxS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That tension you're describing - between the life you've built and the life you imagined - that's a genuinely hard place to sit. The mortgage and kids aren't regrets, but they do change the math on risk. And that can make a stuck situation feel even more stuck, because the exits that might have felt available earlier now have real costs attached.\n\nI want to ask you something, and I mean it as an honest question not a challenge - when you say \"nothing to be done about it,\" do you actually believe that? Or is that the frustration talking?\n\nBecause those are different situations. One is genuinely a closed door. The other is a door that feels too heavy to push right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 496,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 151,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 496,
+    "output_tokens": 151,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

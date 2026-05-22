@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:42.450Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "31139a96b85d51b16ea9ddc66bc88812ffa61a648a0d12922fbafe1f6eda4188",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DWuYaTUhShnsHWPXJ7A3jp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Hey, can I just slow you down for a second? You just said \"I should be able to handle this\" — what happens inside when you say that to yourself?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 641,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 38,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 641,
+    "output_tokens": 38,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

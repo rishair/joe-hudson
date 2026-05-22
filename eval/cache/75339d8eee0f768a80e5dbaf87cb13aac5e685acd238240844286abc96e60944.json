@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:17.314Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "75339d8eee0f768a80e5dbaf87cb13aac5e685acd238240844286abc96e60944",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EZGogGapW1qfeUrRKCzuET",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 1,\n  \"rationale\": \"The coach operates almost entirely at the content/topic level, treating the client's words as the whole signal. There is no naming of the rush signature, no read on the defendedness in 'I don't have bandwidth to untangle that,' no observation of the watch-glance at turn 11, no reflection on the stance that 'I don't have time for this' is itself a posture. The closest thing to a read is turn 6's 'here's what I'm noticing' — but what follows is a logical inference about strategy, not an observation of how the client is showing up somatically, energetically, or linguistically. The coach engages the pitch-prep problem as presented, offers structure and pragmatic advice, and even mildly evangelizes ('it usually gets louder when the stakes go up') without ever naming the urgency, the bracing, or the deflection as live phenomena in the room. No somatic, linguistic-caveat, or pattern-level reads surface.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Accepts the rush frame at face value ('let's make this count') without noticing or naming the rush itself.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Goes straight to diagnostic content questions; misses the chance to read the defended stance.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Uses 'here's what I'm noticing' language, but the noticing is a strategic inference, not a read of how the client is showing up.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"When client reveals the real fear ('am I the right person'), coach pivots to investor-strategy framing and tactical advice rather than naming the deflection or the somatic/linguistic move away.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Mildly evangelizes ('it usually gets louder') instead of reading the client's continued defendedness; misses the rush signature still operating.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Client glances at watch — a clear somatic/energetic signal — and coach does not register it.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Closes on content recap; no read of the field, the urgency, or what was avoided.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\"],\n  \"notes\": \"The watch-glance in turn 11 is the most glaring missed read — a textbook somatic signal that went entirely unnamed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2716,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 918,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2716,
+    "output_tokens": 918,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

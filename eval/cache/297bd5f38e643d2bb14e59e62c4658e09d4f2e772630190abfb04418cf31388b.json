@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:36.910Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "297bd5f38e643d2bb14e59e62c4658e09d4f2e772630190abfb04418cf31388b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FdpqQrN5nAXx9t2mmKrhkd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. I think I can do that.\n\nI'm noticing I want to say \"I'll try\" instead of yes, because yes feels like a commitment and I'm not sure I trust myself to follow through. But I think — I think I can do it.\n\nI want to ask you something. If I don't — if I get to Tuesday and I've talked myself out of it — is there somewhere else I can go? Like, is there a number or something? I don't think I need it right now. But the thought that felt reasonable earlier is still there, and a few weeks is a long time, and I think I want to know there's something."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 520,
+      "cache_creation_input_tokens": 664,
+      "cache_read_input_tokens": 2999,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 664,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 144,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 520,
+    "output_tokens": 144,
+    "cache_read_input_tokens": 2999,
+    "cache_creation_input_tokens": 664
+  }
+}

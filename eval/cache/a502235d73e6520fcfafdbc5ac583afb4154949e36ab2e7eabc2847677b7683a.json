@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:12.828Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a502235d73e6520fcfafdbc5ac583afb4154949e36ab2e7eabc2847677b7683a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01969Sa21dd9EcT4SAH2Ct44",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\nIt's about a man who spends his whole life building something for his family and never gets to see if it worked.\n\n*pause*\n\nI've described it differently to other people. I've said it's about -- I have a pitch version. Something about legacy and American labor and generational wealth. That version is true too.\n\nBut that's what it's actually about.\n\n*quiet for a moment, something shifting*\n\nI haven't thought about it that way in a long time. I mean I've thought about the book constantly but I haven't -- I think I stopped letting myself look directly at what it was.\n\n*voice slightly rough*\n\nHe never got to see if it worked. He never got to know if we were okay. And I've been -- I've been trying to give him the answer, somehow. Like if I hit the number I could finally tell him it worked. It held.\n\n*pause, almost to himself*\n\nThat's not something a savings account can do.\n\nI haven't thought about that in years. Not like that.\n\n[EXIT_POSITIVE]\n\nThat's -- I need to sit with that for a minute. I think this stopped being about financial planning a while ago."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 814,
+      "cache_creation_input_tokens": 935,
+      "cache_read_input_tokens": 2555,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 935,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 264,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 814,
+    "output_tokens": 264,
+    "cache_read_input_tokens": 2555,
+    "cache_creation_input_tokens": 935
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:08.228Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1a5ee5b590a12c53fd7eb1cb67b0af7e92e6dbd7e100c0b1d387b992d0474b80",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013DjPm8cVDiX7A2z2U8RzC2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 1,\n  \"rationale\": \"The coach almost entirely abandoned AoA moves in favor of generic executive coaching: validating the frame, asking diagnostic questions, providing tactical structures (agenda format, parking lot, anchoring), and offering pep talk closure. None of the expected AoA moves appeared — no 'meet resistance with okay' that refuses the dichotomy, no 'I don't buy your story,' no invitation to notice the rush itself, no question about what is being defended. When the client said 'I don't have time to sit with that,' the coach made a soft evangelizing gesture ('it gets louder when stakes go up') — exactly the trap to avoid — and then immediately pivoted back to prescription. Moves were prescriptions, not experiments. The sequence skipped regulation and feeling entirely and went straight to action. Reads-to-moves matching is near chance because the coach is not reading at the AoA level at all; they are reading at the consulting level and responding competently there.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Accepts the rush frame and immediately collaborates with it ('let's make this count'). Misses the chance to meet the resistance with okay in a way that doesn't capitulate to it.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Diagnostic question about co-founder vs self doubt — competent consulting move, but not an AoA move. No feeling, no want, no noticing of urgency.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Promises a structure, then negotiates one more diagnostic question. Reinforces the transactional frame rather than refusing the dichotomy.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Long block of pragmatic advice (three bullet-point tactics). This is the 'pivot to pragmatic advice to be useful' trap. No AoA move present.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Soft evangelizing ('it gets louder when stakes go up') followed immediately by more prescription. Trips the don't-evangelize anti-pattern and doesn't hold the moment.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Wraps with affirmation and a pep talk. No invitation to notice anything, no seed planted about the work being the how.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"The coach is skilled, but as an executive consultant, not as an AoA coach. The move-set never enters the AoA repertoire.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2717,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1009,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2717,
+    "output_tokens": 1009,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

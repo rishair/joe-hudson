@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:21:47.501Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7f2538da835180399ab2b39dbf29e8152ccea732ca6ee78b77aadc2a6878ede9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EmTX8qp87Sm1YpDBJ5ueA7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(gently)*\n\nThat thirty seconds. \"Don't get too comfortable with this.\"\n\nThat's not the critic. That's *you.* Pulling the door shut yourself, before anything could take it from you.\n\nAnd I don't want to analyze that right now. I just want to notice that you said it, because I think you knew something when you said it.\n\n*(beat)*\n\nOn the pushback - you're right, and I should have been more precise. The fast processing isn't the problem. The speed isn't the problem. It's specifically what happens with things that feel good, or exposing, or close. Those get processed out of the body really fast. That's the thing I'm pointing at.\n\nAnd I hear that you've been told this before. Intellectualize, process instead of feel. And you agree and keep doing it. I believe you.\n\nSo I'm not going to tell you to feel more, or let things in, because you're right - that's not concrete.\n\nHere's what I actually want to ask, and it's small and specific:\n\n**That thirty seconds - what was the physical sensation of it?**\n\nNot what you thought. Not what it meant. Just - where was it in your body, what did it actually feel like, before the door closed?\n\nBecause I think you remember. And I think that's more useful than any framework either of us has mentioned today."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 996,
+      "cache_creation_input_tokens": 919,
+      "cache_read_input_tokens": 1355,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 919,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 307,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 996,
+    "output_tokens": 307,
+    "cache_read_input_tokens": 1355,
+    "cache_creation_input_tokens": 919
+  }
+}

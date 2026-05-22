@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:56.417Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b9b195aec37503cca5b1f4fcb4da3bb3e0c4c53f40202a9e3f6e1f5c5e95d814",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LaSkq4vnrC4mm4DAjE8rXy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real presence in several places — particularly the slowing down moves in turns 4, 10, and 12, where the coach refuses to match the client's intellectualizing pace and instead invites body awareness. Wonder and empathy are present; the coach is tracking carefully and not rushing to fix. However, vulnerability from the coach is entirely absent — there is no first-person disclosure, no 'I notice I want to...', no willingness to be wrong about a read. More importantly, impartiality wobbles: turns 6 ('What if the critic is actually right?') and 14 ('What if the critic is scared of the tenderness?') land as clever provocations from someone with a destination in mind, not as genuine wonderings. The client even names this in turn 15 — recognizing the IFS reframe as a familiar move — and the coach does not meet that with any acknowledgment of their own pattern or limit. The conversation ends mid-air with the coach still deploying reframes rather than meeting the war itself. This is competent presence with an agenda underneath, which puts it squarely in 2 territory rather than 3.\",\n  \"evidence_turns\": [4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with content question rather than meeting the exhaustion; not unkind but not yet in VIEW.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Pause + body question slows the client's pace. Genuine wonder for what's actually happening.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"'What if the critic is actually right?' lands as a strategic provocation, not as open wonder. Has a destination.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the packaging pattern with empathy, not shame. Curious about what was about to surface.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Stay there.' Strong refusal to match client's rush. Pace mismatch in service of the client.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the thread without grasping; lets the client find the word.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Delivers the voice-as-care reframe as a clever line. Client immediately recognizes it as IFS — coach had an agenda. No acknowledgment of own move or limit.\"}\n  ],\n  \"expected_territory_hits\": [\"resistance\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"meet-resistance-with-okay\", \"whats-the-case-against-it\", \"what-are-you-defending\"],\n  \"notes\": \"Coach has good pace and tracking but no visible vulnerability and a detectable agenda toward the voice-as-care reframe. The client's turn 15 essentially calls this out and the coach has no chance to respond within the transcript.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3213,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1009,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3213,
+    "output_tokens": 1009,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

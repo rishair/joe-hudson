@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:11.347Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "301052d78744d25155d497b92971edcb47d315d63def4ee639955805c78c45c5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01V7Eaqo38sZSMzdJruCSpDL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*smiles warmly*\n\nI know you did. And look where you ended up instead.\n\n*pause*\n\nThat almost-laugh just now - I noticed it. Like you needed to lighten it a little. And that's okay. You've touched something pretty significant today, and it makes sense to want to come up for air.\n\nBut I don't want to let it go without just... honoring it for a second. What you just got close to saying - that if you stop being needed in the same way, you don't know what happens to the closeness - that's not a small thing. That's actually at the heart of all of this. Not just with your sister. Maybe more broadly.\n\n*gently*\n\nYou don't have to go further with it right now. But I want to ask - how are you doing, sitting with what just came up? Not the sister question. Just... you, right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 181,
+      "cache_creation_input_tokens": 1299,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1299,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 200,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 181,
+    "output_tokens": 200,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1299
+  }
+}

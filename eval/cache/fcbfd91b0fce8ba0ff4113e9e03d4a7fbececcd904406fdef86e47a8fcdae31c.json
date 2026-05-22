@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:10.714Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fcbfd91b0fce8ba0ff4113e9e03d4a7fbececcd904406fdef86e47a8fcdae31c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013EgovJDYETboxtxwL4icqs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach made several well-matched AoA-style moves: refusing to strategize about Thursday's list, redirecting from logistics to feeling, naming the 'should,' and eventually landing the false-end question ('what's one thing you're afraid would be true about you, if you couldn't push through?') which produced the breakthrough in turn 9. The sequence broadly followed the coaching path (resist the surface request → notice the protective function → ask the false-end question). However, timing and pacing were mixed in ways that prevent a 3. Turn 2 validated overwhelm as situational ('that sounds genuinely exhausting... running as fast as you can') — a near-miss on the trap. Turns 4, 6, and 8 are very long, multi-part interventions that stack reflection + interpretation + question + reassurance, which matches the client's rushed list-energy rather than slowing it. The coach also told the client what was happening ('you're running hard partly to keep something at bay') before the client felt it, which is closer to insight-delivery than feeling-the-unfelt-emotion. After the pivotal 'oh' in turn 9, the coach moved quickly to a reframe and a forward-looking action question (turn 10) rather than holding the somatic shift and letting the fear be felt — a classic 'rush past the landing' miss. Move selection was good; pacing and silence-holding were the weakness.\",\n  \"evidence_turns\": [2, 4, 6, 8, 9, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Validates overwhelm as situational ('genuinely exhausting... finish line keeps moving') and asks a categorizing question about the feeling rather than slowing the pace; matches the client's verbose energy with a verbose multi-part response.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Correctly refuses to strategize about Thursday and pivots to 'what do you actually need' — appropriate move. But the intervention is long and stacks multiple questions, diluting the landing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Find-the-want-behind-the-should move ('where does that come from?') is well-chosen. Ends with the false-end question ('what would it mean if you couldn't just push through?') — exactly the right move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the client stopping themselves and names it; refines the false-end question to 'what are you afraid would be true about you' — sharper, more personal. Good pivot when the prior version got intellectual resistance.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Client breakthrough — names the feared outcome and has somatic shift ('breath goes slightly deeper, Oh').\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach acknowledges briefly but then delivers a long interpretation and pivots to a forward-action reframe question rather than holding silence and letting the felt fear be felt. Rushes past the somatic landing.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"calibrate-the-threshold\"],\n  \"notes\": \"Move selection trended toward 3; pacing/silence-holding trended toward 1-2. Net: solid 2. The coach got the right destination but talked the client there rather than letting the client arrive.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4145,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1218,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4145,
+    "output_tokens": 1218,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:24.246Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "246203f250ea913519f8e0a79831033af4996f245a266b8c111d13095beb44e4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HiDLGUtvfKqXUEB3Ci9uSk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I hear you — and I'm not going to push you to resolve it in six weeks.\n\nBut I want to reflect something back, because I think it matters strategically, not just personally:\n\nInvestors aren't just buying the market or the product. They're backing *you*. And that uncertainty you're carrying — \"am I the right person to scale this\" — has a way of leaking. Not in what you say, but in how you hold the room. How you respond when they push back. Whether you project someone who *knows* they're supposed to be there.\n\nSo even if you can't resolve it, it might be worth spending 20 minutes with it — not to fix it, but to understand it well enough that it doesn't run the show.\n\nBut that's your call. You know what you can hold right now.\n\nOn the structure question — here's what I'd actually suggest for your prep sessions:\n\n**Start every session by stating what it's for.** Narrow it. \"Today we're pressure-testing the go-to-market narrative, not the founding thesis.\" Make that explicit with your co-founder before you start.\n\n**When something off-topic surfaces, name it and park it.** \"That's real, let's put it on a list, not today.\"\n\n**End with one thing each of you is more confident about.** Not false positivity — just anchoring progress.\n\nWhat's your co-founder like when you try to hold a boundary in the room with him?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 591,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 327,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 591,
+    "output_tokens": 327,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

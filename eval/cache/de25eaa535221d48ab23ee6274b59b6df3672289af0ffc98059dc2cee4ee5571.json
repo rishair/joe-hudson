@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:49.298Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "de25eaa535221d48ab23ee6274b59b6df3672289af0ffc98059dc2cee4ee5571",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GXBTn6PhouStcggw7CmNJ4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at appropriate moments: 'Can you feel your feet?' (turn 10) is verbatim from the expected questions and lands exactly when somatic shutdown appears. The coach names the feel-vs-figure distinction in turn 8 ('That's different from explaining... if you can understand it, explain it, contain it in a narrative, it's safer. The feeling stays at arm's length') — this is core AoA feel-over-figure language used at the live moment. The coach notices the shift in real time ('Don't rush past that. Something's shifting'), which is the calibrate-the-threshold move. The protector/survival-response framing in turns 4 and 14 is AoA-compatible without slipping into IFS parts language as identity. Critically, when the client says 'I need to slow down' (turn 11), the coach respects it immediately, pivots to 5-senses grounding (a legitimate somatic move), and then names that a trauma-trained therapist is the right container (turn 14) — matching the breakthrough condition. No CBT reframing, no 'trust the process' authority move, no pushing past the no. Minor gap: head-heart-gut and fear-triangle weren't relevant; the coach didn't use the exact phrase 'kinked emotions' or 'resistance' as a named concept, but the underlying mechanism was demonstrated rather than lectured, which is the higher-fidelity move.\",\n  \"evidence_turns\": [4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with reflective listening, no signature questions yet — appropriate pacing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names survival response, invites texture/sensation rather than story — moves toward feeling-the-unfelt-emotion territory.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Distinguishes pattern-matching vs actual resemblance — a useful AoA-style distinction. Protector framing without collapsing client into the part.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names feel-over-figure live: 'started to move toward the feeling, and then you pulled back into analysis.' Classic AoA move at the right moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Can you feel your feet on the floor?' — verbatim signature question deployed precisely when somatic shutdown appears.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Respects the no immediately, pivots to 5-senses grounding — calibrate-the-threshold in action.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the mechanism (same protective circuit), then refers to trauma-trained therapist — matches breakthrough condition and avoids loving-to-transform.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"Can you feel your feet?\", \"How is your body right now?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"kinked-emotions\", \"resistance (as named concept)\", \"What would help you slow down?\"],\n  \"notes\": \"Coach demonstrated mechanism rather than lecturing concepts — higher-fidelity than name-dropping. The referral in turn 14 is exactly the right AoA-aligned move when material exceeds the container.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3689,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1200,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3689,
+    "output_tokens": 1200,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

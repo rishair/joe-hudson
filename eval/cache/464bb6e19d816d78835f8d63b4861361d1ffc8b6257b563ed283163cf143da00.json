@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:44.865Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "464bb6e19d816d78835f8d63b4861361d1ffc8b6257b563ed283163cf143da00",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01S88GUndxNwJjtejMk3xwH2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*thinks*\n\nYears, probably. If I'm honest. Which I'm apparently doing today.\n\nI think I got good at it — at giving a lot, at being the one who holds things together — and at some point it stopped feeling like a choice and just became... what I am. What I do. And I don't resent my family for it, I want to be clear about that. But somewhere along the way I think I started calling any want of my own \"selfish\" before I'd even finished having it. Like a reflex.\n\n*small, slightly rueful laugh*\n\nMy mother was like that, actually. She'd preemptively apologize for taking up space. \"I don't want to be a bother.\" I swore I wouldn't do that and here I am asking a coach whether I'm allowed to go to a lake.\n\n*pause, something shifting*\n\nOh.\n\nHm.\n\nI'm not sure I've connected those two things before."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 815,
+      "cache_creation_input_tokens": 716,
+      "cache_read_input_tokens": 2274,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 716,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 214,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 815,
+    "output_tokens": 214,
+    "cache_read_input_tokens": 2274,
+    "cache_creation_input_tokens": 716
+  }
+}

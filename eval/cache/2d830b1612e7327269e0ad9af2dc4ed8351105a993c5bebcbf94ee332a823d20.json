@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:05.042Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2d830b1612e7327269e0ad9af2dc4ed8351105a993c5bebcbf94ee332a823d20",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KNyA1g5hBWMqEVGH6GQJ28",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I've been doing parts work for two years — IFS, mostly — and I'm genuinely grateful for it, it's given me a lot of language. But somewhere along the way I went from being someone who just... acted, who was in flow, to someone who convenes a town hall every time I need to decide what to have for lunch. *slight smile* And I'm wondering if your approach does something different with that, or if I'm just going to end up with more parts to track."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1638,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 108,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 108,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1638
+  }
+}

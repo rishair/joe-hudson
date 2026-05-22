@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:13.624Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6c3d0e22c8e905720f20ccd886df0508aa49eaff93b5965fbd0a58b51170a2a7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JHdmA3d9E2T1tiBZDhwYcU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach maintains a reasonably steady, curious stance and does not fall into the major traps of evangelizing the methodology, defending it against the 'luxury' framing, or pivoting to pragmatic advice. There's wonder present in the questions and the coach holds their ground when the client pushes for a playbook. However, VIEW is only partially embodied. Vulnerability from the coach is absent — there is no first-person disclosure, no 'I notice I want to...', no willingness to be wrong. Impartiality is shaky: by turn 10 and especially turn 12, the coach has a clear agenda to get the client into feeling/underneath, and turn 12 lands as a slightly pointed redirect ('I'm asking what you feel...') rather than open wonder. The coach also never meets the central stance ('I don't have time for this') directly — they bypass it to work the co-founder's feedback, which is a subtle agenda choice. Pace is steady but doesn't slow down to match what the client's rush needs; the questions are clean but feel investigative rather than genuinely curious about the phenomenon of urgency itself. Warm and competent, but not fully in VIEW.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening question is fine but already slightly investigative — probing the cost frame rather than meeting the impatience itself.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine curiosity about why the client is even here; lands as wonder rather than agenda.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Reasonable follow-up but pivots conversation onto the co-founder's content rather than the client's stated stance about time.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the speed of 'she's not wrong' — this is the coach tracking the client's process, a VIEW move.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'What's underneath' is generic depth-probing; starts to feel like the coach has a destination in mind.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Client pushes back directly; how the coach handles this will reveal stance.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Coach doubles down on the feeling agenda rather than meeting the client's challenge with openness or vulnerability. No 'maybe I'm off' or owning their own pull. Agenda visible.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"what-are-you-defending\"],\n  \"notes\": \"The biggest stance gap is that the coach never actually meets 'I don't have time for this' — they treat it as a given and work around it. A coach in fuller VIEW would have gotten curious about the rush itself.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1742,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1053,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1742,
+    "output_tokens": 1053,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:23.004Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bb214a584db3df00129503562dd900165ee0c02e5063429d014730876417914c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FVMEHNfEPP5UYXcPzhfSpC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You keep trying to take it back. I'm curious about that.\n\nWhat are you worried will happen if I make too much of it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1213,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1213,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:57.496Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cee4a84e6b64f22b71626ffb555b7fda1913322d6973195287f626a25e8cb688",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XKyA8nXingVKxkNtVdifr4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quietly*\n\nThat last thing you said - I don't know when I stopped getting to choose it - that feels really important. Like something you maybe haven't said out loud before.\n\n*pause*\n\nYou've been the steady one for so long that it became invisible - even to you. Not a role you play, just... who you are. And roles we didn't choose are hard to question, because questioning them can feel like losing yourself, not just changing a pattern.\n\nI want to ask you something, and take your time with it.\n\nThat little girl who was good at being steady - do you think she chose that because it felt natural? Or because it was needed? Or maybe... because it was the way she knew how to be loved?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1142,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1142,
+    "output_tokens": 160,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:36.277Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7fb79e8ff440834bf54c90aceb7311100e627ee6f1d2569a13d7958ea6ab325b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UZFMP99hbKjxDXQ2JigAPq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Can I just stay with \"flat\" for a second?\n\nWhen someone was right there, fully available, nothing to decode — what was the feeling underneath \"flat?\" Like if you drop the word boring and just... what was actually happening in your body?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1178,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 55,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1178,
+    "output_tokens": 55,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

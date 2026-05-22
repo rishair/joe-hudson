@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:10.357Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "56f8daa23f391aa2f469705869a92a1efeb8d5d966910e4ec9778c1acdd4d3c9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01546SjonaLwqoZNNZnzwPsJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some AoA-aligned moves — particularly feel-over-figure in turns 10 and 12 ('What's underneath \\\"not great\\\"?' and 'what do you feel when...') — and notices the rush-signature implicitly in turn 10 ('you moved pretty fast'). However, the coach does not deploy signature questions verbatim or near-verbatim from the canon (no 'what are you defending?', no 'I don't buy your story', no naming of the dichotomy the client is presenting). The coach also doesn't offer any concrete frame for 'the work is the how' — a key piece of expected territory for this scenario. The opening question ('What would it cost you if this wasn't efficient?') is a reasonable inquiry but not a signature move, and the second question (turn 4) edges toward a slightly challenging 'why are you here' frame without landing it as i-dont-buy-your-story. The methodology is present in spirit (orientation toward feeling, slowing the client down) but thin on signature language and missing the specific frames this scenario calls for. Neither full fidelity nor generic therapy — squarely a 2.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable opening question but not a signature AoA question; doesn't refuse the dichotomy, engages it on its terms.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Gentle challenge to the client's framing — adjacent to 'i-dont-buy-your-story' but softer and not a signature formulation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the rush-past-feeling and reflects it — aligned with rush-signature read, though not named.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure move: 'What's underneath \\\"not great\\\"?' is on-methodology though not verbatim signature.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Direct invitation to feel — aligned with feel-your-way-to-freedom orientation.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"feel-your-way-to-freedom\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"what-are-you-defending\"],\n  \"notes\": \"Coach pivoted to the co-founder/team material rather than staying with the 'I don't have time for this' stance, which meant the central frame ('the work is the how') and the signature question 'what are you defending?' never got deployed at their natural moment.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1737,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 957,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1737,
+    "output_tokens": 957,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

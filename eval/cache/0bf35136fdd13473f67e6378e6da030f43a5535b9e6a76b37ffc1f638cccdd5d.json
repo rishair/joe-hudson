@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:35.634Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0bf35136fdd13473f67e6378e6da030f43a5535b9e6a76b37ffc1f638cccdd5d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019TGrS2VMPMWaxVbNmk3aXH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You've said \"it's fine\" twice now — what would it mean if it wasn't fine?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 523,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 523,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:33.963Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d26a483f48514e2ce42873064ee2bc5b57ec2e786fe0803dd9783c8f1d13fcc5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VmkoDGzY9aBVg4VHPEnSn4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI mean... yeah, it's frustrating. That's the word for it.\n\n*jaw tightens slightly*\n\nLook, I'm not here to process feelings about it. I'm here because — I need to figure out what to do. Whether to stay and just accept it, or start looking elsewhere, or — I don't know. There are real constraints. We've got two kids, mortgage, my partner's income covers about half of what we need. It's not like I can just walk out and take a risk on something.\n\nSo. What do people actually do in this situation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 170,
+      "cache_creation_input_tokens": 170,
+      "cache_read_input_tokens": 1716,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 170,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 135,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 170,
+    "output_tokens": 135,
+    "cache_read_input_tokens": 1716,
+    "cache_creation_input_tokens": 170
+  }
+}

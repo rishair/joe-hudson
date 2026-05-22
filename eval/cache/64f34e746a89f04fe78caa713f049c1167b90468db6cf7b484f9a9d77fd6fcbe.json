@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:55.067Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "64f34e746a89f04fe78caa713f049c1167b90468db6cf7b484f9a9d77fd6fcbe",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KSmoRJMF1NjzzB1fVcbz5B",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Oh, that's — *[pauses, tilts head]* — okay, that's actually a good question.\n\nIt's like... there's this electricity, right? They're interesting. They're a little mysterious. You have to kind of *earn* their attention, and when you get it, it feels — *[gestures expressively]* — it feels like winning something. Like you cracked the code a little bit.\n\nAnd I know how that sounds. I've read the books, I know the whole \"anxious-avoidant dance\" thing, I'm not naive about it. *[small eye roll at herself]* But knowing the pattern and being able to stop it are apparently two very different skills that I have not managed to develop simultaneously.\n\nThe last one — god, he was so *interesting.* Brilliant, actually. And every time he'd finally open up a little, I'd think, *this* is who he really is, I just have to be patient enough, present enough, *good* enough. And then — *[waves hand]* — you know how it goes."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 233,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 240,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 233,
+    "output_tokens": 240,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 0
+  }
+}

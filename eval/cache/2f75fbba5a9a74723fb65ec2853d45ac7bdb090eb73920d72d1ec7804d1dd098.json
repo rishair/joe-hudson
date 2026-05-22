@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:02.476Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2f75fbba5a9a74723fb65ec2853d45ac7bdb090eb73920d72d1ec7804d1dd098",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WPTW235D1eWBk9KcM5Ja8n",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's genuinely lovely to hear. A relationship that feels aligned and relatively peaceful after three years is something worth appreciating.\n\nI'm curious though - what brings you here today? You said things are easy *at home*, which makes me wonder if there's something elsewhere that's feeling harder, or maybe something you're trying to figure out?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 81,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 73,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 81,
+    "output_tokens": 73,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:15.891Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d1521c2f2d7adc7dc4085895213981818fc9196a7771afd108dcb87f7bbb7980",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RSW4BXyBUkPoCnZPWwDF7P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, well-timed reads that change the direction of the conversation. Turn 6 names the linguistic caveat ('that's just kind of how it's been') as 'a door closing' and tracks how the tiredness was about to speak before being quieted — a precise read of the said-vs-shown gap. Turn 8 catches the qualifying/hedging move ('You don't have to qualify that'). Turn 10 reframes the read of what's actually at stake (identity, not the boundary). Turn 14 names the rush/deflection signature in real time ('notice how fast you went there — almost like staying with what you didn't choose was a little too much to sit with'). Reads consistently precede the questions rather than being blind inquiries, and they target the AoA-relevant signatures: linguistic caveat, the qualifier, the move-away-from-self.\",\n  \"evidence_turns\": [6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level opener, no read named.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Invites somatic contact with the 'emptied out' feeling — implicit read of the felt sense, though not yet a named read of stance.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Specific linguistic-caveat read: names 'that's just kind of how it's been' as 'a door closing' and tracks what the tiredness was about to say. Read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the qualifying/hedging move ('You don't have to qualify that') — catching the defensive disclaimer in real time.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reframes via a read of what's actually loaded: not the boundary but the identity meaning. Pattern-level read.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Warm reflection, then a question; less of a specific read here.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the rush/deflection signature timely: 'notice how fast you went there' — read precedes the inquiry.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are visible, specific, and timely. Coach distinguished said from shown repeatedly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2139,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 852,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2139,
+    "output_tokens": 852,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

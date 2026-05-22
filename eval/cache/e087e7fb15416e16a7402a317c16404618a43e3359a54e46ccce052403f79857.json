@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:20.617Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e087e7fb15416e16a7402a317c16404618a43e3359a54e46ccce052403f79857",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017uM7cToVSiuwi5fn2LL6Mq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*nods, sitting with that for a moment*\n\nSteady, comfortable, good routine... it sounds genuinely settled. And I hear that stability is something you value, not just something you've ended up with by default.\n\nI'm noticing you said \"pretty good\" and \"fine\" a few times, which are solid, real answers. I'm just curious — and feel free to push back on this if it doesn't land — but is there anything that feels *alive* right now? Something you're genuinely excited about, or that's pulling at you, or even unsettling you a little?\n\nI ask because sometimes when life is stable and running smoothly, it's worth checking in on that other dimension too."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 393,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 156,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 393,
+    "output_tokens": 156,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

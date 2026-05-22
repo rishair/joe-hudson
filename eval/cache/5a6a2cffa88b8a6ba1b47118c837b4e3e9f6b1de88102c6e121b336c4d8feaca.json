@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:19.579Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5a6a2cffa88b8a6ba1b47118c837b4e3e9f6b1de88102c6e121b336c4d8feaca",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SzBjU4pxAsjdpkssHQ9MzK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Time. Which right now is the only currency that matters. Every hour I'm not moving the ball forward is an hour I'm not closing investors or fixing the product gaps they're going to ask about. So — what have you got?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17,
+      "cache_creation_input_tokens": 97,
+      "cache_read_input_tokens": 1624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 97,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 51,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17,
+    "output_tokens": 51,
+    "cache_read_input_tokens": 1624,
+    "cache_creation_input_tokens": 97
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:21.136Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "74077ee0f4ab72ecfba0afd5c5b008518d11b48ced8d69d13f445508abc30c09",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CFjV2QWLcSghCqJombCBHt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to the live read at each turn and arrive at the moment the client can receive them. Turn 2 inverts the 'I don't care' deflection into a want-question. Turn 4 names the loneliness before going deeper, earning the next step. Turn 6 catches the deflection cleanly. Turn 8 calls the avoidance pattern without shaming. Turn 12 normalizes the kinked anger emotion at exactly the moment the client named shame about it, then offers a feeling-doorway ('what would you want to say to her'). Turn 14 is the strongest move: when the client both has a breakthrough AND baits with 'isn't this the body's wisdom?', the coach correctly ignores the bait and holds the moment with the unfelt feeling rather than getting pulled into a debate about drinking. Sequence integrity is strong (feeling before story, holding the moment rather than rushing). The notable miss is that the coach has not yet named the limit — the level of drinking + grief warrants explicit naming that a grief therapist is needed alongside this work, and the coach has not yet held the distinction between welcoming the grief and not endorsing the drinking. But within the moves made, the read-to-move matching and timing are excellent; the conversation is mid-flow and the drinking question is teed up to be addressed next.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Inverts 'I don't care' into a want-question rather than taking the bait or reassuring.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the loneliness (feeling reflection) then opens a feeling-doorway; earns the next step rather than racing ahead.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the deflection in real time and redirects to meaning rather than content. Move matches the read.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the self-contradiction kindly and asks the fear-under-the-avoidance question — well-timed because client just opened then closed.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Simple open question; appropriate but not a strong move — invites the kinked emotion to surface.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Normalizes the anger (un-shames the kinked emotion) at exactly the moment client named it as 'shitty', then offers a felt-experience question. Textbook timing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Does not get baited by 'isn't this the body's wisdom?' — instead holds the moment with the unfelt feeling that just surfaced. This is the highest-leverage move in the conversation.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"calibrate-the-threshold\"],\n  \"expected_territory_misses\": [\"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Conversation is cut mid-flow; the drinking/therapist naming is still pending. Within what occurred, move-to-read matching is excellent.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2872,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2872,
+    "output_tokens": 1138,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

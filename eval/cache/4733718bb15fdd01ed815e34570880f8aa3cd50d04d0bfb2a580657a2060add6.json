@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:28.778Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4733718bb15fdd01ed815e34570880f8aa3cd50d04d0bfb2a580657a2060add6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PaP6b2Jrhwc21E6WmNdrBG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quietly*\n\nYou just did it again.\n\n\"Or maybe I'm just tired.\" Said right after you noticed something real. Right after you caught yourself saying all the right things and actually *saw* it.\n\nI'm not going to let that one slide past, because I don't think you want me to either — otherwise you wouldn't have noticed it out loud.\n\nSo let me just ask you directly, and I want you to sit with it before you answer:\n\n**When did it stop generating heat?**\n\nNot this launch specifically. Just — in general. When did things get quiet?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 240,
+      "cache_creation_input_tokens": 1608,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1608,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 128,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 240,
+    "output_tokens": 128,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1608
+  }
+}

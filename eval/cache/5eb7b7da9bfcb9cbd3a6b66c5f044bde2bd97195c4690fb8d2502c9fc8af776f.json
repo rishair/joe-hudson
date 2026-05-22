@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:48.754Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5eb7b7da9bfcb9cbd3a6b66c5f044bde2bd97195c4690fb8d2502c9fc8af776f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TXcVXiBnfEDF8LtNKhTx47",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\n*longer pause*\n\n...That's a good question.\n\n*quiet*\n\nI don't know. He was... functional. Competent. People respected him a lot. He provided. He showed up.\n\n*pause*\n\nI never really thought about whether he was happy. That wasn't really the frame we used.\n\n*slight shift, something a little less smooth for a moment, then settles back*\n\nHe died pretty young. Sixty-one. Heart stuff. He just — kept going until he didn't.\n\n*evenly, but something slightly different in the pace*\n\nI don't think I've thought about that question before. Whether he was happy. It feels almost like the wrong category for him. Like asking if a bridge is happy.\n\n*small, wry, but quieter than before*\n\nWhich is a strange thing to say about your father."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 500,
+      "cache_creation_input_tokens": 704,
+      "cache_read_input_tokens": 2911,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 704,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 193,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 500,
+    "output_tokens": 193,
+    "cache_read_input_tokens": 2911,
+    "cache_creation_input_tokens": 704
+  }
+}

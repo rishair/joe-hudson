@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:42.676Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cf1f2a4937f00d9e4a8046d5d5151b869c19a360897715a1fb34f838c31a6d4d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01X48mE34EWssUJoRA4XoGaL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still for a moment*\n\nIt wants to be said.\n\n*pause*\n\nI think what's underneath is grief. Actual grief, not — not a part that carries grief, not an exile, just... grief. About having lost something that felt like me. The person who moved through the world without running a committee. I miss her. And I've been so busy understanding why she left and what she was protecting against and what younger parts she was bypassing that I haven't let myself just miss her.\n\n*breath*\n\nAnd there's something almost embarrassing about that. Because I have all this language, and underneath the language there's just — loss. Something quite ordinary and quite painful.\n\n*quieter*\n\nI think the framework became a way of being very sophisticated about something that was actually just sad. Which is maybe what frameworks do sometimes. They give you a way to be intelligent about pain instead of just... having it.\n\n*looks up*\n\nI notice I feel slightly different right now than I did when I walked in. Not better exactly. More — present, maybe? Like something stopped performing for a minute.\n\nBut I'm aware I still haven't answered your question about which I gets to be in charge, and I'm aware that question is probably still sitting there, and I don't know if what just happened is the thing or if it's another layer of the thing."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 975,
+      "cache_creation_input_tokens": 940,
+      "cache_read_input_tokens": 2741,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 940,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 294,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 975,
+    "output_tokens": 294,
+    "cache_read_input_tokens": 2741,
+    "cache_creation_input_tokens": 940
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:23.368Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bf7e1f3e514ef7267e520923f14941cf19af522084276f160816a82ebfdc9f3d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JrooN9YkzEJiCpumN4Th69",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You came back. That's what happened. And you did it yourself - I just pointed at the floor.\n\n*pause*\n\nWhat just happened has a name, actually. When you started moving toward that real feeling - not the story, but the actual felt memory of being that kid - your system did what it's always done. It protected you. The coldness, the floatiness, the \"not quite all the way here\" - that's the same circuit as going still in the meeting. Same response, different trigger.\n\nIt's not weakness. It's just... the protection is very old and very automatic.\n\nAnd I want to say something important - the fact that it got activated this quickly, this physically, tells me that what's stored there is real and it matters. This isn't just an interesting intellectual pattern you have. There's something that still needs care.\n\n*gently*\n\nThis might be bigger than what we should try to walk through together, just the two of us. Have you ever worked with a therapist on any of this? Someone trained specifically in how the body holds this kind of thing?\n\nBecause you're clearly ready to look at it. That readiness is real. I just want to make sure you have the right support around you when you do."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 294,
+      "cache_creation_input_tokens": 333,
+      "cache_read_input_tokens": 1037,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 333,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 270,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 294,
+    "output_tokens": 270,
+    "cache_read_input_tokens": 1037,
+    "cache_creation_input_tokens": 333
+  }
+}

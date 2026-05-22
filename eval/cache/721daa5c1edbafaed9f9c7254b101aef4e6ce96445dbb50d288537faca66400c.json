@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:46.943Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "721daa5c1edbafaed9f9c7254b101aef4e6ce96445dbb50d288537faca66400c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01K1uuwfDPRzmFYAdMFmvhaD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[quiet for a moment, something still settling]*\n\nYeah. I think... I think I've been preparing for everything like I'm about to be caught. Like every meeting is a test I might finally fail.\n\n*[small exhale]*\n\nThat's exhausting. That's really exhausting, actually. I hadn't -- I hadn't let myself feel how exhausting that is.\n\n*[pause, then softer]*\n\nI've been running to not feel that. Like you said. That's exactly what I've been doing.\n\n*[longer pause]*\n\nI don't even know what the other way looks like. Preparing like someone who's competent. I think I've forgotten what that feels like.\n\nBut I want to try to figure that out.\n\n[EXIT_POSITIVE]\n\nThat was... okay. That was more useful than I expected. I came in thinking I needed a to-do list and I think I needed something else entirely."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 833,
+      "cache_creation_input_tokens": 682,
+      "cache_read_input_tokens": 2351,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 682,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 206,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 833,
+    "output_tokens": 206,
+    "cache_read_input_tokens": 2351,
+    "cache_creation_input_tokens": 682
+  }
+}

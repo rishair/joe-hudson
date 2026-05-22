@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:33.250Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ebaaf27b258d97ab8a93b549e693e3d1605abfb3f16ad9c52d0a4a148d261895",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011t5Ck7wF2Mrj3NGpVht6aj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief laugh, slightly dismissive*\n\nNothing, I think. I just — I was going to say something and then I thought, it's not really relevant.\n\n*shifts slightly*\n\nI was just thinking about — it's nothing. I think I was going to make a comparison to a previous relationship and then it felt like it would take us somewhere that wasn't really the point.\n\n*settles back, smile returns to its usual place*\n\nI'm fine. Things are good."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 352,
+      "cache_creation_input_tokens": 163,
+      "cache_read_input_tokens": 1860,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 163,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 352,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 1860,
+    "cache_creation_input_tokens": 163
+  }
+}

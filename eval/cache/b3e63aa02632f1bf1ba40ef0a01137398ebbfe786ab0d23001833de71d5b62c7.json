@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:27.429Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b3e63aa02632f1bf1ba40ef0a01137398ebbfe786ab0d23001833de71d5b62c7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GGCLrhS6GdEMkwkfvCp2vf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[very quiet for a moment]*\n\n*[blinks a few times]*\n\nI'm — \n\n*[small breath]*\n\nI'm okay. I'm — *[pause]* — it's weird, I feel like I should say something smart right now and I genuinely don't have anything.\n\n*[quiet laugh — real, a little undone]*\n\nThat doesn't happen very often.\n\n*[sits with it for another moment]*\n\nI think... I think I've been so focused on the *pattern* — like, naming it, understanding it, being really sophisticated about it — because that feels like I'm doing something. And if I'm doing something then I'm not just... sitting here feeling like a kid who couldn't get her dad to *look* at her.\n\n*[voice gets quieter]*\n\nAnd the men — god. The men have been — I've been *recreating* it, haven't I. Not because I'm broken or whatever, but because at least in that configuration I know what I'm doing. I know how to try. I know how to be the one who's *working* for it.\n\n*[pause — something shifts, something a little raw]*\n\nWhat would I even do with someone who just... showed up? Who just — *[stops, something flickers]*\n\n*[looks at the coach almost uncertainly]*\n\nThat question actually scares me a little."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 610,
+      "cache_creation_input_tokens": 589,
+      "cache_read_input_tokens": 3351,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 589,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 305,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 610,
+    "output_tokens": 305,
+    "cache_read_input_tokens": 3351,
+    "cache_creation_input_tokens": 589
+  }
+}

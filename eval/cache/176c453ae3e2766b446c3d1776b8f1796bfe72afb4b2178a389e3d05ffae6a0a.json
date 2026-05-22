@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:43.883Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "176c453ae3e2766b446c3d1776b8f1796bfe72afb4b2178a389e3d05ffae6a0a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NnSzzyinHs2wYeBmDsAGLH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It sounds really practical when you say it like that. And also — you started to say \"while they're still around\" and caught yourself. What's underneath that for you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 439,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 39,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 439,
+    "output_tokens": 39,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

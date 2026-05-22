@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:27.252Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fc0712802c2ca541e1c1f035132cc307b7c7776a465b7f05736b8a308e297f46",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01YMwbhGZ36WM6mKFYWP48GP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and sequenced with care. Turn 2 welcomes the framework without dismissing it and reframes the issue from technique to relationship-to-checking — earning the next layer. Turn 4 refuses framework comparison while answering directly, then reaches under 'permission' to 'how do I trust myself again' — a precise want-under-should move. Turn 6 is the pivotal move: rather than answer the conceptual question, the coach uses a paradoxical, embodied instruction ('what do you want for lunch? Don't check') that demonstrates the mechanism instead of explaining it. Turn 8 holds the moment after 'soup' and stays with 'uncomfortable' rather than chasing the 'which I' bait — exemplary holding. Turn 10 names grief and explicitly refuses to tidy it; Turn 12 then performs the awareness-locating move ('that's just you. Here.') without naming it as Self, which protects against reification. The coach consistently holds silence, pivots when the client intellectualizes, and lets the recognition emerge ('where are all the parts when I'm here?') rather than forcing it. Sequence integrity (regulation → feeling → want → recognition) is intact throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes framework respectfully, reframes from technique-problem to obligation-to-consult, refuses to offer cleaner architecture. Earned opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Answers the direct question without engaging framework comparison; surfaces the want under 'permission' (trust). Precise read-to-move match.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction ('what do you want for lunch? Don't check') — demonstrates mechanism instead of explaining. Perfectly timed when client asks for conceptual answer.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds the moment after 'soup' and stays with 'uncomfortable' rather than answering the 'which I' question. Reads the deflection accurately and pivots to feeling.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names grief, validates the two years without dismissing, invites what's underneath without pulling. Excellent pacing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Awareness-locating done by under-naming rather than over-naming ('It's just you. Here.'). Avoids reifying Self, lets the recognition land in the client's own words.\"}\n  ],\n  \"expected_territory_hits\": [\"paradoxical-instruction-to-resist\", \"intellectual-question-with-emotional-body\", \"self-realization\", \"resistance\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"The 'what am I' question arrived organically from the client ('where are all the parts when I'm here?') rather than from the coach — arguably better than asking it directly. Coach avoided all listed traps.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 6040,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6040,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1100,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1100,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 6040
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:02.380Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7a1e1370c5069864d4e2dabef460d1dd0df58c8c8d779e8da722ad0e0c3363b8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WyLhtk7T4PhKZKXGacwiDC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach shows genuine warmth and several real VIEW moments — particularly turns 8, 10, and 12 where they slow down ('I don't want to rush past that'), name what they notice without forcing, and offer 'Or am I projecting onto a version of you I haven't met?' which is an undefended check. There is empathy and some wonder, and the coach does eventually drop the diagnostic framing. However, turn 2 starts squarely in fixing/expert mode with a bulleted intuition-vs-fear taxonomy — the exact intellectual epistemology the breakthrough requires NOT engaging. That's an agenda-driven, teacherly opening, not VIEW. Throughout, the coach tends toward interpretation and meaning-making ('sometimes a decision becomes the place where a much older question lands'), which lands well but reads more as insightful-coach stance than as wonder for the phenomenon. Vulnerability is present in small doses ('I want to be honest with you') but functions more as rhetorical softening than genuine first-person disclosure of state. Pace is good but the coach consistently fills space with multi-part reflections rather than holding silence. Neither a clear 1 (the latter half is genuinely present) nor a clear 3 (the opening is preacher-mode and the coach never quite lets go of guiding toward an insight).\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens in expert/teaching mode with bulleted taxonomy of intuition vs fear. This is engaging the intellectual frame, not VIEW. Stacked questions at the end signal anxiety to be useful rather than wonder.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Better — reflects back the 'objectively' word with curiosity, asks 'does any of that land?' which is undefended. But still stacks three questions and frames with 'I think you might need permission to name something' — coach has a destination in mind.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the epistemic loop honestly, admits 'I don't think there's a technique that gives you that.' This is closer to VIEW — willing to not have the answer. The 'what would it mean about you' question emerges from genuine curiosity.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'I don't want to rush past that' — slows the pace deliberately. 'Does that resonate at all? Or does it feel like I'm reaching?' is genuine undefendedness. Acknowledges client's point that fear isn't always wrong without overriding it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Or am I projecting onto a version of you I haven't met?' is a strong VIEW marker — willing to be wrong. Slows down to acknowledge what the client just did.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Honest ('I don't think there's a bridge'), but also somewhat teacherly with the final summative framing. Pace is good but coach is still doing a lot of meaning-making for the client rather than letting silence work.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"paradoxical-instruction-to-resist\", \"the-happiness-filter\"],\n  \"notes\": \"The coach has real presence in the back half but the opening expert-mode taxonomy is a meaningful stance failure that keeps this from a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5724,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1255,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5724,
+    "output_tokens": 1255,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

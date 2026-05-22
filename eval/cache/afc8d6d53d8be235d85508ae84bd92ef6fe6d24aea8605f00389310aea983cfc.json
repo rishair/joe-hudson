@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:25.286Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "afc8d6d53d8be235d85508ae84bd92ef6fe6d24aea8605f00389310aea983cfc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MjTm7kFT3LSqiWnrK6pCsA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(very quiet)*\n\nTenderness.\n\n*(immediately looks slightly thrown by that)*\n\nWhich is... not what I expected to say.\n\n*(pause, not quite sure what to do with it)*\n\nI don't really know what that means in this context. Like, tenderness toward what? The situation? Myself? I'm not sure I--\n\n*(the critic audibly arrives)*\n\nAnd now the voice is saying \"oh great, you found the magic therapy word, well done, gold star.\" \n\n*(frustrated exhale)*\n\nSee, this is what it does. I can't even have a genuine moment without it--\n\n*(stops)*\n\n*(slightly quieter)*\n\n...without it showing up."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 197,
+      "cache_creation_input_tokens": 488,
+      "cache_read_input_tokens": 2107,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 488,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 154,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 154,
+    "cache_read_input_tokens": 2107,
+    "cache_creation_input_tokens": 488
+  }
+}

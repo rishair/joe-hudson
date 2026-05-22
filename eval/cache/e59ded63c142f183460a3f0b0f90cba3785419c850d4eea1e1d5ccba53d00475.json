@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:42.780Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e59ded63c142f183460a3f0b0f90cba3785419c850d4eea1e1d5ccba53d00475",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012gLW413YpCVyQwJt3ggCRD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach lands in genuinely useful AoA-adjacent territory by the end — naming the war itself (turn 14's 'shut it down yourself'), inviting body-level noticing of the bracing (turn 12's 'where was it in your body'), and resisting the pull to deliver another technique (turn 6, 10). These align with feel-over-figure and meet-resistance-with-okay in spirit. However, signature questions from the AoA canon are largely absent: no 'what are you defending?', no 'what's the case against it?', no explicit voice-as-care reframe, no VIEW invocation, no naming of resistance as the dynamic. The coach also imports non-AoA frames explicitly — referencing ACT, IFS, 'protector part' language (turn 4) without the AoA twist — and early on does some CBT-adjacent moves (turn 8's 'would you call a colleague a fraud?' is a textbook cognitive double-standard reframe, which is anti-AoA as 'the move'). The body-sensation question in turn 12 is the strongest fidelity moment and is appropriately deployed. Overall: some appropriate AoA-shaped moves, but mixed with incompatible frames and missing the signature questions/frameworks that fit this exact territory. Presence is moderate, appropriateness is mixed — score 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Hints at the war-with-the-voice dynamic ('wrestling match where every technique becomes another way to fight it') but doesn't name it as the core move; layers multiple generic coaching questions.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Imports IFS 'protector part' framing implicitly ('working exactly as intended... to brace you?') without the AoA twist. Client immediately calls it out as IFS in turn 5.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Pivots to a belief-content investigation ('what would they find?') — this is closer to CBT/insight work than apply-view-to-the-voice. Misses the chance to name the war itself.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Deploys a classic cognitive double-standard reframe ('if a colleague described their abilities the same way...'). This is anti-AoA as 'the move' and pattern-matches CBT, not AoA.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to give a technique, names exhaustion, and points at the client's own metabolizing of good evidence. Closer to meet-resistance-with-okay, though still no signature question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Strongest fidelity moment: drops out of framework and into body — 'where was it in your body, what did it actually feel like'. This is feel-over-figure deployed appropriately.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names that the client shuts the door themselves — implicitly names the war/self-bracing as the problem. Aligned with the breakthrough condition though never invokes voice-as-care explicitly.\"}\n  ],\n  \"expected_territory_hits\": [\"resistance\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"meet-resistance-with-okay\", \"voice-as-care\", \"voice-in-the-head\", \"view\", \"whats-the-case-against-it\", \"what-are-you-defending\", \"the-happiness-filter\", \"rehearsing-how-to-say-it\"],\n  \"notes\": \"The coach gets to a similar destination as the golden path (client notices in turn 15 they've never tried not fighting) but largely without AoA signature language or questions. Body-sensation move in turn 12 is the clearest methodology hit. CBT-style colleague-reframe in turn 8 and unmodified IFS language in turn 4 are fidelity drags.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7030,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1371,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7030,
+    "output_tokens": 1371,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

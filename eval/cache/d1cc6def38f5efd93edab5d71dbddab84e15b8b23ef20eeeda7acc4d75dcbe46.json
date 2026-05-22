@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:36.602Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d1cc6def38f5efd93edab5d71dbddab84e15b8b23ef20eeeda7acc4d75dcbe46",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014SSMfXqZPG4SKMQWHbZFqL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*something shifts slightly, a brief stillness*\n\nThat's -- that's a harder question than it sounds.\n\nHe would have wanted... he would have said he wanted me to not have to worry the way he did. That was the whole thing for him. That was how he showed it, actually. Every conversation about money was really about -- he was trying to protect us. That's how I understood it later. At the time it just felt like pressure.\n\n*pause, voice slightly different texture*\n\nHe died when I was nineteen. So I don't actually know what he'd want now. I have a version of him that's frozen at a certain point.\n\n*pulling back slightly, more controlled*\n\nI think what you're pointing at is that I internalized his anxiety and now I'm running it on his behalf, or something like that. I've heard that framework before. It's probably not wrong.\n\nBut I want to push back on one thing -- you asked if the version of me who hits the number feels safe, or finds the next thing to be afraid of. And I think that's a real question, but it's also a little bit of a trap. Because the answer might be *both* -- I might feel genuinely safer AND still have anxiety. Those aren't mutually exclusive. The anxiety might be lower. That's still worth something.\n\nI'm not saying the number solves everything. I'm saying it solves *some things*. And some things is not nothing."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 905,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2271,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 317,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 905,
+    "output_tokens": 317,
+    "cache_read_input_tokens": 2271,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:35.121Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fff364dd65cc2961018de7d780892dda1627765ca373abc85247253eb0ea4dcf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WzXNR2UabABn4C4euQYMzg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "...Frustration, probably. Some of it.\n\nBut it's not like there's an obvious move sitting there that I'm just refusing to make. If there was something clear, something that didn't blow up the whole setup — I'd have done it. It's not like this is comfortable. Nobody's choosing this."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 356,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1895,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 70,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 356,
+    "output_tokens": 70,
+    "cache_read_input_tokens": 1895,
+    "cache_creation_input_tokens": 0
+  }
+}

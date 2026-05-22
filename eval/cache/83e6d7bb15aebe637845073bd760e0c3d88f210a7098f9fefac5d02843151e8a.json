@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:43.551Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83e6d7bb15aebe637845073bd760e0c3d88f210a7098f9fefac5d02843151e8a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SmrVee86DPS5nbhkvUmicv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[goes quiet for a moment, which is unusual]*\n\nI mean... *[intellectual mode clicks on]* ...I think it's probably something about novelty-seeking, right? Like the brain responds to uncertainty with dopamine and when everything is certain there's just less of that neurological—\n\n*[stops herself, seems to notice what she's doing]*\n\n...okay that was a very fast exit into neuroscience. \n\n*[quieter]*\n\nI don't know. It was like... *[searching]* ...uncomfortable? In a way I couldn't really name. Like someone was looking at me too directly and I didn't know where to put my hands. \n\n*[quick laugh, deflecting]*\n\nWhich is such a weird thing to say. Who's uncomfortable being liked? That's insane. That's not a real problem to have."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 299,
+      "cache_creation_input_tokens": 443,
+      "cache_read_input_tokens": 1962,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 443,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 186,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 299,
+    "output_tokens": 186,
+    "cache_read_input_tokens": 1962,
+    "cache_creation_input_tokens": 443
+  }
+}

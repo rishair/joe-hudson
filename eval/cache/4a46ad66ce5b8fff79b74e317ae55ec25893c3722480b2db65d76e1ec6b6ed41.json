@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:53.742Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4a46ad66ce5b8fff79b74e317ae55ec25893c3722480b2db65d76e1ec6b6ed41",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01M7RRVHvULgbDTwoEHhDYF8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Then let's do that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 472,
+      "cache_creation_input_tokens": 1025,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1025,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 9,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 472,
+    "output_tokens": 9,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1025
+  }
+}

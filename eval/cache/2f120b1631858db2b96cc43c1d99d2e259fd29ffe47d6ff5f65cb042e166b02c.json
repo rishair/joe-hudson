@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:52.858Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2f120b1631858db2b96cc43c1d99d2e259fd29ffe47d6ff5f65cb042e166b02c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01N3kGW7KTYhV8DXh5TnECrs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. So there's the critic, and then there's you immediately trying to handle the critic.\n\nWhat if the critic is actually right?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 662,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 662,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

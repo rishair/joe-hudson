@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:39.717Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1a7404e05f0e77fbd77265bf8c5aa0a4ccc7ec60a235504ce96cce9c5d7d64c0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XPKBAZR34oPYqHZa5WSi4q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(small laugh, slightly performative)*\n\nOh, where do I start. That I'm not working hard enough, that I'm wasting my potential, that other people have figured out something I haven't. That I'm... fundamentally a bit lazy underneath all the effort. That the effort is actually just -- this sounds ridiculous to say out loud -- that the effort is just to look like I'm trying, not because I actually care.\n\n*(pause, faster)*\n\nAnd then of course I hear myself saying all that and the critic goes, \"and now you're performing vulnerability in a coaching session,\" so. Yeah. It's pretty relentless."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15,
+      "cache_creation_input_tokens": 117,
+      "cache_read_input_tokens": 1570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 117,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 140,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 15,
+    "output_tokens": 140,
+    "cache_read_input_tokens": 1570,
+    "cache_creation_input_tokens": 117
+  }
+}

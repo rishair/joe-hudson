@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:33.605Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d037797d0ac296ec2872f1e6674c8e5b06bf2ee793c2385ee906ccf31e832a87",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015DD69yRRxeTEKhdkjqEKYe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[small pause, looks slightly caught]*\n\nI was going to say... boring? \n\n*[laughs, a little defensive]*\n\nWhich sounds terrible, I know. And it's not that they were actually boring as people, it's just — the feeling was flat. Like there was no... charge. No tension. And I kept waiting for it to kick in and it just... didn't.\n\n*[shifts slightly, picks at something on her sleeve]*\n\nBut that's just — I mean, that's attraction, right? Either you feel it or you don't. I can't manufacture chemistry with someone just because they're emotionally healthy and available. That would be its own kind of dishonest.\n\n*[beat]*\n\n...I'm aware that sounds like I'm defending the pattern. I'm not. I just — I don't think \"available felt boring\" is the whole story. There was something genuinely compelling about those people. It wasn't just the chase."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 313,
+      "cache_creation_input_tokens": 502,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 502,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 209,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 313,
+    "output_tokens": 209,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 502
+  }
+}

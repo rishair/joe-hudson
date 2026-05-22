@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:17.976Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d3485965522f4e8ce8b3eea56d96b6c6c9e2ad49fd512c325318ad4a2ee51a8d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LG5xjWnFFHZQuV9rgkssXX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates genuine attentiveness and some real wonder — noticing the unspoken moment in turn 8, sitting with silence, and tracking language carefully in turn 12. There is empathy and the coach generally avoids overt fixing. However, VIEW is incomplete in two important ways. First, vulnerability is largely absent: the coach never names their own state, never offers 'maybe I'm off' as genuine willingness to be wrong (the 'feel free to push back' in turn 6 is closer to a polite hedge than real undefendedness). Second, impartiality slips — by turn 12 ('words you might use to describe a really good living situation, or a reliable car') and turn 14 ('you didn't need to defend yourself to me'), there is a discernible agenda: the coach has formed a hypothesis that something is being suppressed and is steering toward it. The questions become slightly investigative rather than purely curious. Pace is good and the coach holds space well, but the underlying stance is closer to 'gently leading the client to see what I see' than to true non-attachment. This is the textbook 2: empathy + wonder present, vulnerability + impartiality weak.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Warm opening but slightly performed ('genuinely lovely to hear'); curiosity is real but framed as strategy ('which makes me wonder').\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Praises the client ('really open and self-aware way to come into this') — mild performance of coachiness rather than presence.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Good slowing, tracks the 'pretty good/fine' language, offers 'push back if it doesn't land' — gestures at impartiality, though it's a hedge more than real undefendedness.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the micro-moment, holds it, asks one question — genuine wonder for the phenomenon in front of them.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Reflects the client's own language back; says 'not going to push' but the framing ('exactly the thing worth looking at') does carry a directional pull.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"The 'reliable car' analogy reveals the coach's interpretation — a hypothesis is forming and being lightly inserted. Impartiality slips.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Points out the client's self-defense — accurate observation but delivered from a position of authority/insight rather than wonder; the agenda (something is being suppressed) is now visible underneath.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"what-are-you-defending\"],\n  \"notes\": \"The coach's stance is warm and attentive but increasingly agenda-laden as the conversation progresses. The diagnostic question 'what are you not saying?' never lands, and resistance is met with gentle reframing rather than genuine 'okay.'\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2919,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2919,
+    "output_tokens": 1111,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

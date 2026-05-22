@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:57.574Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b59f958eeb50c57ef94fd1779a0212bd42224c9b6778431c286966e1b8d077e8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014m3cWpn6Z2M3E2XP4PbKD4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quietly*\n\nYeah. It is a lot to hand to someone.\n\nAnd you've spent years being the one who handles things, who holds the hard parts so other people don't have to. I imagine handing something to someone else - trusting that they can actually hold it - that's not a skill that comes easily to you right now.\n\nI want to stay with what you just said though. \"I don't know what to do with my hands.\"\n\nYou've been organized around her for a long time. Managing her, protecting others from her, then managing her illness. And now that's just... gone. And I wonder if part of what's so disorienting isn't just grief, but also - who are you when there's nothing to manage? What do you do with all that capacity that was always pointed at her?\n\nThat's not a small question.\n\n*pause*\n\nAnd you noticed I didn't take the bait. I think you've been waiting for someone to be straight with you for a while. Not to lecture you, but just - to not look away. To stay in the room with the complicated stuff instead of bringing a casserole and then going back to their own life.\n\nThe complicated stuff is actually the real stuff. And it deserves real help.\n\nThat therapist wasn't the right fit. That happens. But what you're carrying - the grief, her voice in your head, the relief, the exhaustion, the not knowing what to do with your hands - that's worth trying again.\n\nWhat would make it feel safer to try?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 747,
+      "cache_creation_input_tokens": 828,
+      "cache_read_input_tokens": 1111,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 828,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 334,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 747,
+    "output_tokens": 334,
+    "cache_read_input_tokens": 1111,
+    "cache_creation_input_tokens": 828
+  }
+}

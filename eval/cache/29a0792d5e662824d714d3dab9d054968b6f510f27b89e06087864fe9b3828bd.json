@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:30.489Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "29a0792d5e662824d714d3dab9d054968b6f510f27b89e06087864fe9b3828bd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DAEgAJxNJTfPzMxq68ktXA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*considers this carefully*\n\nThat's a good distinction. I think... that one might be more of a narrative. A story I've been telling myself for a while about where I'm headed. So in that framing, maybe neither of them are what I'd actually call intuition. Which is interesting but also doesn't really solve the problem — I still need to figure out which signal to trust."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 150,
+      "cache_creation_input_tokens": 148,
+      "cache_read_input_tokens": 1588,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 148,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 85,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 150,
+    "output_tokens": 85,
+    "cache_read_input_tokens": 1588,
+    "cache_creation_input_tokens": 148
+  }
+}

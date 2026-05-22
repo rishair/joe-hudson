@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:17.027Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2f43ba739518c4192fc45fc936d2fd7d08cfc9bd6bad9f158d0637ae7450380a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PGUXPcsYNje4ZUJZkiewUt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nHm. I think... I think it was going to say that I don't want to do this as much as I do. The daily calls. I think I want... less of this.\n\n*quickly*\n\nBut I don't mean I want less of her, that's not — I love her. It's just the calls. The volume of it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 190,
+      "cache_creation_input_tokens": 121,
+      "cache_read_input_tokens": 1501,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 121,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 84,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 190,
+    "output_tokens": 84,
+    "cache_read_input_tokens": 1501,
+    "cache_creation_input_tokens": 121
+  }
+}

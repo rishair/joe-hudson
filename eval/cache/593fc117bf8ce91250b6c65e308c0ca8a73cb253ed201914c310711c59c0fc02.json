@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:45.196Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "593fc117bf8ce91250b6c65e308c0ca8a73cb253ed201914c310711c59c0fc02",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XaM81CSp5Reft5RBXqjALv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That makes complete sense. And I want to give you a straight answer.\n\nBut I want to name something first, because I think it matters:\n\nYou just described sleeping deeply, reading for pleasure, something going quiet inside you. That's not a luxury you're describing. That's someone who is genuinely depleted, describing what restoration feels like for them.\n\n**Now, straight answer: No, I don't think wanting this is selfish.**\n\nBut here's what I actually notice - and tell me if I'm off base - I'm not sure settling the \"selfish\" question will do what you're hoping it will.\n\nBecause if I say \"not selfish, go guilt-free\" - will the guilt actually lift? Or will it find another foothold?\n\nAnd if you conclude \"yes, selfish, don't go\" - what happens to that need that just lit up when you described the lake and the cabin and the sleep?\n\n**The guilt might not be about selfishness at all.** It might be about something harder - like feeling like your needs and your family's needs are in competition, and you haven't figured out how to hold both yet.\n\nThat's a different problem than \"am I selfish.\"\n\nSo I'm curious - when you imagine telling your partner what you just told me, the lake, the sleep, what goes quiet - what happens in you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 537,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 295,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 537,
+    "output_tokens": 295,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

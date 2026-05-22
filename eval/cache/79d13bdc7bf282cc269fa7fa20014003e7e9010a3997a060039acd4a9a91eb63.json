@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:21:37.574Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "79d13bdc7bf282cc269fa7fa20014003e7e9010a3997a060039acd4a9a91eb63",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011oEMTDzaijJ9JH1bYF76Rt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(stops)*\n\n*(longer pause than usual)*\n\nThat's... okay, that landed a little differently.\n\n*(looks slightly uncomfortable, like something has been seen)*\n\nAfter the presentation. Before the critic. There was maybe... thirty seconds? Where I just felt good. Actually good. And then I remember almost consciously thinking, \"don't get too comfortable with this,\" and then it was gone.\n\n*(quieter)*\n\nAnd I don't know if I did that, or if the critic did that. I'm not sure there's a difference.\n\n*(a beat, then the familiar defensive move)*\n\nBut I think what you're describing — the fast processing, the moving to the next problem — I think I'd push back a little. Because some of that is just how I function. It's not all avoidance. Some of it is genuinely how I think. And I'd be careful about pathologizing competence.\n\n*(but the energy is a little less certain than usual)*\n\nI hear what you're saying though. About not letting things in. I've heard versions of that before — \"you intellectualize,\" \"you process instead of feel,\" my therapist has said similar things. And I always agree with it and then... keep doing it.\n\n*(small, slightly confused laugh)*\n\nWhich I guess proves the point. But I still don't know what the alternative actually looks like in practice. What does \"letting it in\" even mean concretely? Because every time someone says that to me it sounds meaningful and then I have no idea what to do with it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 969,
+      "cache_creation_input_tokens": 916,
+      "cache_read_input_tokens": 2626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 916,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 336,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 969,
+    "output_tokens": 336,
+    "cache_read_input_tokens": 2626,
+    "cache_creation_input_tokens": 916
+  }
+}

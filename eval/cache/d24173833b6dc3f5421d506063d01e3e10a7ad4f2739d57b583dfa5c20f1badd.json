@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:05.119Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d24173833b6dc3f5421d506063d01e3e10a7ad4f2739d57b583dfa5c20f1badd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QiUjAevfmyopnXVxHtLzkf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause, breath held slightly*\n\nI think... all three, maybe. But the last one is the one that kind of stops me.\n\n*quiet*\n\nI was good at it and I got -- I got recognized for it. Like, I was the responsible one, the one who didn't make things harder. And there was something good about that. I'm not saying it was all bad.\n\nBut I think... I think I learned pretty early that being needed was a way of being close. And if I stop being needed in the same way, I don't know what that does to -- \n\n*stops*\n\nI don't know. I think I'm getting into something bigger than I expected to get into today.\n\n*small almost-laugh, a little deflecting*\n\nI really did just come in wanting the script."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 535,
+      "cache_creation_input_tokens": 407,
+      "cache_read_input_tokens": 1823,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 407,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 178,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 535,
+    "output_tokens": 178,
+    "cache_read_input_tokens": 1823,
+    "cache_creation_input_tokens": 407
+  }
+}

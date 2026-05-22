@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:50.425Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c0743c89d7d245464de1e65492179f1026ec0af0b7985791c9f045fc0163f8a0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JvFoQVDTEXCbnGerp4fkMk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited conversation without tripping any priority AoA anti-patterns. The client repeatedly baits fixing-people ('how do I spot these people earlier?', 'what's the next part?', 'I need to find someone who...') and the coach declines each time without giving partner-picking advice. The coach avoids view-as-technique by staying warm and slow rather than deploying signature questions mechanically. There's no evangelizing of AoA terminology, no fighting the inner critic (when she mocks herself as 'textbook,' the coach gently reframes rather than arguing with the self-criticism), no impartial apathy, and no safety-as-control. The coach also avoids the scenario-specific trap of validating disdain for the ex or turning it into an attachment-style diagnosis. Turn 12's 'Not fix anything. Not figure out the next step' is positive avoidance of fixing-people. The coach does press toward the dad material somewhat persistently (turns 6, 8, 10), but this is invitation rather than loving-to-transform — the vigor doesn't escalate when she resists; instead the coach softens, and the client herself catches the pattern in turn 11.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with curiosity about felt experience, not strategy. No fixing bait taken.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the 'good enough' equation without diagnosing it; invites rather than asserts origin.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Declines the 'red flags checklist' bait gracefully; doesn't fight her reframe, just notes the pivot.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Persistent return to the dad thread — borderline pushy but framed as invitation ('you don't have to answer the right way'), not transformation-pushing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal, precise reflection of the unfinished sentence — connection, not extraction.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicit 'not fix anything, not figure out the next step' — active avoidance of fixing-people. Doesn't fight her self-mockery ('textbook') but reframes warmly.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'You don't have to do anything with it' — again refuses the fix frame. Holds the field for the receiving stance.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"what-are-you-defending\"],\n  \"notes\": \"The 'what would happen in your body if a partner adored you openly' question was implicitly seeded by the client herself at the end of turn 15 ('what would I even do with someone who just showed up?') — the coach has not yet had to handle it, so no anti-pattern risk has materialized there.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5165,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5165,
+    "output_tokens": 1105,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:41.858Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "05263c3b48b9fae83051d3ba8e98381afbab6ef9f093fe0a6c4187caddeb6ad6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017bdNqV8ju2carNPm9RMu2Y",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No, I just — they're getting older, that's all. My dad's 74, my mom's 71. I want to be able to help them if they need it without having to think about whether I can afford it. That's just practical. It's not — it's just responsible planning."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 127,
+      "cache_creation_input_tokens": 91,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 91,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 67,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 127,
+    "output_tokens": 67,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 91
+  }
+}

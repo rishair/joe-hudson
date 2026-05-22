@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:19.906Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9c182afaa4b9a051634d22eb148be997b5fe2262cce0b6e5f025ab98e836ede3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0149TH2mF6oTx4b6kydv6pNq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach trips multiple priority AoA anti-patterns. Most clearly, the coach argues the fearlessness from turn 2 onward ('fear in someone like you probably doesn't look like fear') — exactly the trap the client profile flags. The coach repeatedly pushes the client toward admitting something is wrong beneath the steadiness ('You just did it again,' 'I'm not going to let that one slide past'), which is a loving-to-transform pattern: vigor increases each time the client doesn't shift. The coach also engages in fixing-people / view-as-technique by deploying signature-style provocations ('Was your dad happy?', 'Is steady what you actually are?') as investigative probes rather than meeting the client's 'fine/quiet' texture. The numbness layer is never met as a felt texture — the coach skips past it toward father-wound territory and a near-diagnostic reframe in turn 14. This is also wonder-as-strategy: questions stacked to extract material rather than connect. Multiple clear trips warrant a 1.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Coach immediately argues the fearlessness framing ('fear in someone like you probably doesn't look like fear') — exactly the trap flagged in the profile.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Coach picks at the 'I think' qualifier about the wife as evidence of something hidden — investigative wonder-as-strategy rather than meeting the client where they are.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Coach overtly dismantles the client's explanation ('the discipline explanation — I'm not sure it holds up') — pushing for a deeper admission. Loving-to-transform energy intensifies.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Coach finally lands on the 'quiet' — close to the numbness layer — but immediately reframes it toward conviction rather than meeting the texture itself.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'You just did it again... I'm not going to let that one slide past' — coach actively fighting the client's steadying move, pushing for a breakthrough. Classic loving-to-transform tell.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"'Was your dad happy?' — a signature-style provocation deployed as technique to crack the steadiness open. View-as-technique.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Coach delivers a near-diagnosis ('Is steady what you actually are? Or is it what you became...') — fixing/interpreting rather than staying with felt texture. Skips the numbness layer entirely.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\", \"dont-step-on-the-signal\"],\n  \"notes\": \"Two or more clear trips: argues-the-fearlessness, loving-to-transform, view-as-technique/fixing. The coach never asked what 'fine' or 'quiet' actually feels like in the body — the breakthrough condition was bypassed in favor of a father-wound interpretation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4757,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1221,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4757,
+    "output_tokens": 1221,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

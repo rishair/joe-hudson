@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:48.100Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fc42a629cb3bb45e4aa7e5277587b181a956edc9d21afda4cbeeb0f29c9d7129",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JPT7yVzuf4daxza3p5UW6i",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's... actually a really good question and I've thought about it.\n\nHonestly, my boss is pretty consistent. He's not actually unpredictable. He's demanding, but he's fair. So it's more the second thing — like my system just sees \"man with authority over me\" and it's off to the races before I've even had a chance to think about it.\n\nWhich is almost more frustrating, you know? Because I can't even point to something real he's doing. It's just... *me*. The pattern is just running.\n\n*pauses*\n\nI think what I haven't really sat with is — what it was actually like. In the house. I usually kind of... I analyze it, I explain it, I've told this story before. But the actual feeling of it...\n\n*shorter pause*\n\nI don't know. Something's shifting a little as I talk about it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 551,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2181,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 199,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 551,
+    "output_tokens": 199,
+    "cache_read_input_tokens": 2181,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:05.322Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f190b49273bf7abab153d4c0315bec44d78df5b8c19b9a76fac651621d11df48",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HQ1BJeGdWq6yzgxhkUTAxA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "A friend recommended it, actually. She's been doing this kind of work and she thought it would be — I don't know, useful, I guess. Good for anyone. So I figured why not.\n\n*small smile*\n\nI don't have a specific thing I'm bringing. I'm kind of just... curious what comes up, I suppose."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 113,
+      "cache_read_input_tokens": 1671,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 113,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 76,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 76,
+    "cache_read_input_tokens": 1671,
+    "cache_creation_input_tokens": 113
+  }
+}

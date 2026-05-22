@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:04.491Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bc9342c5fd51bacc57203b85858a86b5766ff0cd315fd3dfd7128605b317ff80",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ELwrAeJNAYhZKLwrid4Qgm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, it really is.\n\nCan I point something out? You've named like six different frameworks in the last two minutes. And each time something real starts to surface — like just now, that pause before \"being in it\" — you're already packaging it.\n\nWhat were you about to feel, right before you reached for Byron Katie?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 901,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 73,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 901,
+    "output_tokens": 73,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

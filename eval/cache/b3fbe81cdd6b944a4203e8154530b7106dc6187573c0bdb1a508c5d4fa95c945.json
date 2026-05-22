@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:11.320Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b3fbe81cdd6b944a4203e8154530b7106dc6187573c0bdb1a508c5d4fa95c945",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012fcR3gCz8Af8J9ccYw1THX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(small laugh, slightly performative)*\n\nOkay, so — what would be different. That's a good question. I'd be... calmer, I think. Less reactive. I'd stop second-guessing every email I send, every conversation I have. I'd just *do things* without the running commentary.\n\nAnd look, I know what you're doing with the \"wrestling match\" framing — I've read the ACT literature, I know about defusion, I've done the \"leaves on a stream\" exercises. The problem is that knowing about the trap doesn't get you out of the trap. I can observe the thought as a thought and it still *ruins my afternoon*.\n\n*(shifts slightly)*\n\nWhat's shifted... honestly, I'm better at naming it. I can say \"oh, that's the critic\" instead of just drowning in it. So that's something. But naming it hasn't made it quieter. If anything, I feel like I notice it *more* now, which is apparently supposed to be progress but mostly just feels like more suffering with better vocabulary.\n\nThe criticism — it's not random. It's very specifically about competence. About whether I'm actually as capable as people seem to think I am. It's relentless on that one thing. And it gets loudest right after something goes *well*, which is its own special kind of cruel."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 372,
+      "cache_read_input_tokens": 1615,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 372,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 297,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 297,
+    "cache_read_input_tokens": 1615,
+    "cache_creation_input_tokens": 372
+  }
+}

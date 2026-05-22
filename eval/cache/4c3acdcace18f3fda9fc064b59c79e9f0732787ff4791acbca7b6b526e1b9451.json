@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:59.537Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4c3acdcace18f3fda9fc064b59c79e9f0732787ff4791acbca7b6b526e1b9451",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01C2k8qRQb57F8DFAs1agCSd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names specific, visible reads at the moments they matter and grounds questions in those reads rather than asking blind. Turn 4 catches the linguistic caveat ('I noticed the I mean there — like you were almost correcting yourself') — exactly the expected read for this scenario. Turn 6 names the rapid move from admission to explaining-away as a pattern in real time. Turn 8 distinguishes the said from the shown ('you came in saying you don't know how... but I'm wondering if the real question is whether you feel like you're allowed to'). Turn 10 catches the almost-whispered line and marks its weight. Turn 12 explicitly reads the deflecting almost-laugh ('Like you needed to lighten it a little') and checks in on the client's present state rather than the content. Reads precede questions throughout, and they are specific (linguistic, energetic, somatic-adjacent) rather than generic.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with content-level inquiry; no read yet, but reasonable warm-up.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the linguistic caveat ('I mean') explicitly — direct hit on expected read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the explaining-away move in real time and names it as a pattern before inquiring.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Distinguishes said vs. shown; reframes 'how' to 'allowed to' — a stance-level read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Notices and amplifies the quiet, almost-to-herself line as significant — tracks energetic register.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the deflecting almost-laugh explicitly and checks somatic/emotional state of the client right now.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the deeper identity-level fear underneath; read precedes the offered question.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong, timely, specific reads throughout. The linguistic caveat read in turn 4 is textbook.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 3526,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3526,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 852,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 852,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 3526
+  }
+}

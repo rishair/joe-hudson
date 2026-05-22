@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:42.233Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "12a14c78cc77d576fadffb285d3903b1f729c4e88d389488dbfcc040d9e2c5e5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014mbLYkmomfCzypc1NxCTFY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1763,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1763,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 108,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 108,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1763
+  }
+}

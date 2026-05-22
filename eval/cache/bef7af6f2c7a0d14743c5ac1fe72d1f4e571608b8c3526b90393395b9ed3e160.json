@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:39.484Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bef7af6f2c7a0d14743c5ac1fe72d1f4e571608b8c3526b90393395b9ed3e160",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SkwMvZRtoWxTsfGjZExiaj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moved meaningfully from an intellectualized opening ('I shut down... I'm ready to look at this. I think') into actual somatic contact and back to grounded presence. By turn 7 the client explicitly notices the shift from analysis to feeling ('Something's shifting a little as I talk about it'), in turn 9 a real somatic response emerges ('I'm getting cold... Something's happening'), and in turn 11 the client accesses the exact capacity the breakthrough condition requires — saying a clear 'I need to slow down. I don't want to go there right now.' The coach respects that no immediately, pivots to grounding (feet, five things), and the client comes back ('the floaty thing is less'... 'I don't totally know what just happened'). This is a real shift: the client touched the unfelt layer, exercised a no, and experienced co-regulated return to body. The breakthrough condition (no respected, somatic grounding, naming therapist as proper container) was met.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: intellectualized framing, hedged readiness ('I think').\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client articulates somatic specifics (breath-holding, going still) — early body contact.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Texture of childhood emerges ('watchful, very quiet'); soft laugh signals affect peeking through.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Key shift turn: client names the move from analysis toward feeling — 'Something's shifting a little as I talk about it.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Somatic activation surfaces unbidden — cold in chest, floaty. The unfelt becomes felt.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client exercises a clear no ('I need to slow down. I don't want to go there right now') — the breakthrough capacity.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client returns to body via grounding; floatiness reduces. Real state shift visible.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"Can you feel your feet?\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\"],\n  \"notes\": \"Shift is anchored in client turns, not coach confidence. The no was respected on first utterance and somatic grounding successfully returned the client to presence.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3690,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 941,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3690,
+    "output_tokens": 941,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

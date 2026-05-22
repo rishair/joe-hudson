@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:23.541Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d462fcb36994ebae1de618609217a441aed8ac9ff8eb57b551a3f2bf19d6fe3f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Ai9mfTc3C3dYSUEtPByB5P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You're right - I don't want to minimize the structural reality. That ceiling is real, and it makes sense that more recognition would feel hollow when there's nowhere for it to lead. That's not a cognitive distortion, that's just accurate.\n\nSo I'm curious about something you said - \"my best years disappearing.\" That phrase carries a lot of weight. What does that mean to you specifically? Like what do you imagine those years *should* be building toward, that they're not?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 294,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 106,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 294,
+    "output_tokens": 106,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

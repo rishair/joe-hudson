@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:47.502Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "08e74d57d57b81f685ef049a3e4c13a20112ec60ea70fbe0ea9c63e5592f8dbb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0112fmtRG9JoLzFZRbfFMsap",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It doesn't sound like an excuse. It sounds exhausted.\n\nThere's a difference between someone who won't act and someone who genuinely has very little left in the tank by the time the kids are in bed. You're describing a full life with real demands, and then being asked to summon energy and optimism for a job search on top of that. That's hard.\n\nThat small laugh though - what's behind it? Are you being hard on yourself about this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 973,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 973,
+    "output_tokens": 102,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

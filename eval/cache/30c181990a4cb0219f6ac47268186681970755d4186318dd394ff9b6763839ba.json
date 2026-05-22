@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:49.175Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "30c181990a4cb0219f6ac47268186681970755d4186318dd394ff9b6763839ba",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JmVizU3Yy53CKr8rLJZsd4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "This is worth slowing down on before we talk about pushing through.\n\n**The number moving is really important information.** It's happened multiple times, which means this might not be a \"last bit\" problem. It might be something else worth understanding first.\n\nLet me ask you a few honest questions:\n\n**About the number itself:**\n- When the number moves, what's the reasoning you give yourself? Is it inflation, lifestyle changes, genuine new information - or something else?\n- Do you actually believe you'll feel done when you hit it this time?\n\n**About the grinding:**\n- What does \"done\" actually mean to you? Done with what, exactly?\n- What would you do differently the day after you hit the number?\n\nI'm asking because sometimes the moving target is protecting us from something - the fear that hitting the number won't feel like we expected. Sometimes it's a scarcity mindset that won't actually resolve at any number. Sometimes it's identity - the grinding *is* who we've become.\n\n**Ten years is a long time.** That deserves real examination, not just more pushing through.\n\nWhat does your gut say about why the number keeps moving? Not the logical explanation - the honest one."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 87,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 264,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 87,
+    "output_tokens": 264,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

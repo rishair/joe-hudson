@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:25.726Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d5f942c3101407f1ed54ad5c6f4f96bfbf0e07fbaefa4a1a3edf4446fa4fbca2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01A8vn8BW2jsHZcXnu2rrbJQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and sequenced correctly along the AoA path: feeling before action, refusing to strategize the external situation, and not validating the trap. Turn 2 drops into body rather than engaging the story. Turn 4 catches the laugh — a precise read of a tell. Turn 6 acknowledges the pain without colluding ('No, it doesn't change the org chart') and invites underneath. Turn 8 doesn't accept 'frustrated' as the final answer and offers a more accurate name ('heartbreaking') — a good 'I don't buy your story' move. Turn 10 explicitly names the move away from feeling rather than following it into logistics — refusing to strategize. Turn 12 catches 'idiot' as a sharper affect and goes after it. Turn 14 reframes the self-attack with warmth ('that's hope') and tests the read. Each move arrives at a moment the client can almost receive it, and when the client resists, the coach pivots angle rather than repeating. The coach has not yet reached the helplessness/aggressive-victim naming, but the sequence is on the golden path and pacing is earned, not rushed.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Body-drop instead of engaging the story content — correct opening move for a trapped-narrative read.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the laugh as a tell; precise micro-read followed by a precise small move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Acknowledges pain without validating the trap ('it doesn't change the org chart, and...'); invites feeling underneath tightness. Good sequencing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses 'frustrated' as the whole truth and offers a more accurate name ('heartbreaking') — a clean 'I don't buy your story' move at the right moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the move-away from feeling explicitly and refuses to follow into logistics. Holds the line on sequence integrity (feeling before action).\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches 'idiot' as sharper than frustration and goes after the specific affect — good pivot from previous angle since direct feeling invites were stalling.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reframes self-attack as hope, with warmth. Lands a piece of view on the inner voice without lecturing. Good timing — client's jaw is working.\"}\n  ],\n  \"expected_territory_hits\": [\"i-dont-buy-your-story\", \"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"fight-or-roll-over-binary\", \"aggressive-victim-stance\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Conversation ends before the helplessness/choice naming could land; client is escalating resistance at turn 15, which is the moment for a different angle (possibly the what-makes-you-care or fight-or-roll-over read). So far the moves are well-chosen and well-timed; the next move will determine whether this stays a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2437,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1199,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2437,
+    "output_tokens": 1199,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:15.686Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2fc3a685bfd9c13b418f547ee409014429f4b793b45b7a17a11c0b9711d9f759",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015nbimZNa6kq3tSF7J3bwrL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes several AoA-aligned moves: noticing the micro-expression in turn 7 and inviting it (turn 8), declining to take 'we're fine' fully at face value, and tracking the language ('compatible, works') in turn 12. These are well-timed reads-to-moves. However, the coach never deploys the most diagnostic move the territory calls for — 'what are you not saying to your partner?' — and instead repeatedly orbits the client with reflective observations and meta-commentary ('you just explained yourself,' 'how did that feel from the inside'). The coach also slightly over-talks: each intervention is cushioned with multiple framings rather than a clean question + silence. Turn 14 in particular catches a defense well but then pivots to a process question about how it felt to answer, rather than the more direct diagnostic that would let the client surface the suppressed-list on their own. Sequence is reasonable (no jumping to action, no evangelizing), but the coach is hovering at the threshold without making the precise move that opens the door. Hit rate ~50%.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Doesn't take 'we're fine' fully at face value; gently probes the 'at home' wording. Good early move.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Opens a general texture question — reasonable but somewhat generic.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the 'fine/pretty good' language and asks about aliveness — an AoA-style read, well-timed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the micro-moment where something almost came out and invites it. Strong tracking move.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses the deflection cleanly by pointing back at the no-agenda frame. Good pivot.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the texture of the words ('like describing a reliable car') and asks specifically about the partner. This is close to the diagnostic territory.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Catches the defense but moves to a process/meta question ('how did that feel from the inside') instead of the diagnostic 'what are you not saying to him?' Misses the precise opening.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"meet-resistance-with-okay\", \"lets-go-there\", \"walking-on-eggshells\"],\n  \"notes\": \"Coach is tracking well and avoiding the major traps (no evangelizing, no insisting something is wrong, no premature diagnosis), but the moves stay in the reflective/observational register rather than asking the one diagnostic question that would let the suppressed list surface.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2921,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1029,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2921,
+    "output_tokens": 1029,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

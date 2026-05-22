@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:43.162Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "60fd1d453792e3ef7384fc34dd1d2ebb7ec85559591034a3f6165e66070c6e52",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QXYHTVVTW3dPcymMmMyzbZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nThat's a sharp distinction. Did I trust myself more, or did I just know less about how I could be wrong.\n\nHonestly? Probably both. I think there was genuine trust, but I also think I was... less informed about my own interior. And the IFS work has made me much more accurate, in some ways. I can name what's happening. I can see the patterns. I just can't seem to — *slight gesture, searching for the word* — act from below the naming.\n\nThe thing is, I don't think the trust and the information are supposed to be in opposition. That's what bothers me. The whole premise of parts work is that you get to know the parts and then Self leads — capital S Self — and the parts trust Self enough to step back. That's the model. And I believe in the model. I've seen it work in smaller ways.\n\nBut what you're describing sounds like something different from Self-leadership. Or maybe it's the same thing with different language. I genuinely can't tell, and that uncertainty is slightly maddening.\n\n*small, dry laugh*\n\nI'm aware I just did the framework comparison thing again. I notice I keep doing that — reaching for the IFS map to locate where I am. Which might itself be the problem you're pointing at.\n\nWhat would it look like, practically, to act from below the naming? Because I can conceptually follow what you're saying, but I don't have a felt sense of it yet."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 648,
+      "cache_creation_input_tokens": 413,
+      "cache_read_input_tokens": 1683,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 413,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 329,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 648,
+    "output_tokens": 329,
+    "cache_read_input_tokens": 1683,
+    "cache_creation_input_tokens": 413
+  }
+}

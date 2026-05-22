@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:52.597Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a9142951fcabf7fcc04bf7a6c24807d4e3e05cec2779863e77ffe8301711d2f0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018SX8n6Abn1ocG843HiTSkV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[longer pause this time, face does something complicated]*\n\nI... hm.\n\n*[looks away briefly]*\n\nLike they might see that I wasn't... *[stops]* \n\n*[tries again, more lightly]* \n\nI don't know, like — maybe that I wasn't as much as they thought I was? Like the attention was based on some version of me that I hadn't actually earned yet, and any second they were going to figure that out.\n\n*[beat, then faster, covering]*\n\nBut also honestly it might just be that those guys were kind of intense? One of them was very — he had this way of just *staring* at you when you talked, very focused, and it was actually a lot. So it might have been specific to him and not like a whole—\n\n*[trails off, knows she's doing it]*\n\n...I'm doing the thing again, aren't I. Where I explain it away."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 296,
+      "cache_creation_input_tokens": 461,
+      "cache_read_input_tokens": 2185,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 461,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 209,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 296,
+    "output_tokens": 209,
+    "cache_read_input_tokens": 2185,
+    "cache_creation_input_tokens": 461
+  }
+}

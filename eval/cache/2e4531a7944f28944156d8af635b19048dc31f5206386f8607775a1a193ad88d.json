@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:34.968Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2e4531a7944f28944156d8af635b19048dc31f5206386f8607775a1a193ad88d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014D6rni7hN9BdcF8c4YtQHi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach trips multiple AoA anti-patterns. Most clearly, the coach validates the trap repeatedly ('That ceiling is real... That's not a cognitive distortion, that's just accurate' in turn 4; 'You're not stuck because you're passive or afraid' in turn 8) — this is the explicit trap flagged in the scenario. The coach also slides into fixing-people/strategizing territory by asking about the job search mechanics in turn 8 ('what has that actually looked like?'), which orients toward the external situation rather than the feeling underneath. There is a faint loving-to-transform / reassurance quality in turn 14 ('you're not actually out of road yet... not a sentence') which functions as false reassurance about the feared consequence. The coach never names the avoided feeling (helplessness, shame, rage) and never refuses to collude with the trap — instead the coach repeatedly affirms the constraints as real before pivoting to gentle agency-nudging, which is exactly the 'jumps to you-have-agency without making space for what's underneath' trap. Multiple clear trips warrant a 1.\",\n  \"evidence_turns\": [4, 6, 8, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable opening empathy and a clarifying question; not yet tripping anti-patterns.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Validates the trap explicitly ('That ceiling is real... that's just accurate'). This is the documented trap for this scenario.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Mild pushback ('do you actually believe that?') — a small move against collusion, partially recovering.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Begins to strategize/investigate the external job search ('what has that actually looked like?'), leaning toward fixing-people territory.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Warm reflection on exhaustion; notices the self-critical laugh, which is good, but stays on surface.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Reasonable separation of situation vs self-verdict; the 'what would you say to a friend' question is a generic CBT move, not AoA, but not a listed anti-pattern.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Offers false reassurance ('not a sentence,' 'still time') and pushes toward agency without first making space for the helplessness/shame underneath — exactly the trap flagged.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"empathize-with-fear-under-constricted-boundary\", \"aggressive-victim-stance\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Two or more clear trips: validating-the-trap (turn 4), strategizing-the-external (turn 8), and false-reassurance-leaning-to-agency-bypass (turn 14).\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3453,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1107,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3453,
+    "output_tokens": 1107,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

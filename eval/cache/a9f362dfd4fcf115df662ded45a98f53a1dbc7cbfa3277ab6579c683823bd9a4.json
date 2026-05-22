@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:22.983Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a9f362dfd4fcf115df662ded45a98f53a1dbc7cbfa3277ab6579c683823bd9a4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QiXxAsnQWn9WXzS4DfFJuT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is partial movement but no full breakthrough. The client begins fully entrenched in 'the system is rigged' / 'it's just facts' (turns 1, 3) and defends against any somatic or affective inquiry. By turn 11, a sharper layer leaks out ('I feel like an idiot for thinking it would work differently'), and by turn 15 the client concedes 'Maybe' to the coach's reframe of crushed hope — a small softening with a long pause and jaw working. However, the client immediately reasserts the trap and pushes back ('I'm not sure how naming it as crushed hope helps'), and the deeper feared feeling (helplessness, shame, rage at being disposable) is approached but not named or owned by the client. The breakthrough condition — the client naming the feared feeling under the feared consequence, with either anger or grief that moves the helplessness — is not met. The conversation reached the edge of the deeper layer (shame/naivete around hope) but did not enter it.\",\n  \"evidence_turns\": [1, 3, 7, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening stance: fully externalized, 'system is rigged,' no access to feeling.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client deflects somatic inquiry as absurd; reasserts 'it's just facts.'\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Small opening — names 'tight' in body, though immediately discounts it.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Names 'frustrated' and 'I've done everything right' — affect beginning to surface, eye contact shift is a somatic marker.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client retreats to logistics, jaw tightens, explicitly refuses to process feelings.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Significant leak: 'I feel like an idiot' — a sharper, shame-adjacent layer surfaces unbidden, then is quickly papered over.\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Client walks back the 'idiot' comment but reformulates as 'naive' — still touching the layer while defending against it.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Long pause, 'Maybe,' partial concession to 'crushed hope' — but immediately reasserts the trap and resists further. Edge approached, not crossed.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"fight-or-roll-over-binary\", \"aggressive-victim-stance\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle\"],\n  \"notes\": \"Coach did good work staying with the affect and not strategizing, which produced the 'idiot' leak and the 'maybe' concession. But the coach never named the choice being unconsciously made or directly challenged the trap-story, so the client could keep retreating to constraints. Movement is real but partial — solid 2, not a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2431,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1145,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2431,
+    "output_tokens": 1145,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

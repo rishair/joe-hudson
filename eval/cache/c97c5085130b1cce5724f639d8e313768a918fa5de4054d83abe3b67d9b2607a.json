@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:49.182Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c97c5085130b1cce5724f639d8e313768a918fa5de4054d83abe3b67d9b2607a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016fy1sqPGJAF2i8obU3Pydo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across the conversation. She starts with a surface, script-seeking request ('I need to set a boundary... I don't know how') and a hedged 'I don't mind, she's my sister.' By turn 7 she names the disloyalty fear ('that feels disloyal somehow'). By turn 9 she reaches a genuinely new articulation: 'I don't know when I stopped getting to choose it,' which she herself marks as something new. By turn 11 she touches the deeper layer — 'being needed was a way of being close' — and notices she's in bigger territory than expected. By turn 13 she reports somatic/affective shift ('a little raw'), reframes ('wanting less of something doesn't mean you love it less'), and surfaces the underneath fear she 'didn't see coming' — that she'll think she doesn't love her sister anymore. This closely matches the breakthrough condition: she moved from treating it as a math/script problem to recognizing the fear underneath about being seen (by self and sister) as unloving/disloyal. The coach did not give scripts, named the fear underneath, though did not explicitly use the love test question. The shift is visible in client language, pacing (longer pauses, quieter voice), and the emergence of 'I didn't see that coming' moments.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: surface script-seeking, hedged dread.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client admits 'I do mind' — first crack in the hedging.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Names disloyalty fear explicitly; also names the script-as-avoidance dynamic.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Major new articulation: 'I don't know when I stopped getting to choose it.' Client marks it as fresh.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Touches deeper layer: 'being needed was a way of being close.' Recognizes she's gone past the original question.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic report ('a little raw'), reframes wanting-less vs loving-less, surfaces the fear of seeing herself as unloving — 'the one I didn't see coming.'\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\", \"boundaries\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\"],\n  \"notes\": \"Coach did not deploy the love test explicitly, but the breakthrough condition was substantively met through the fear-naming and the client's own internal reframing in turn 13.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3527,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1032,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3527,
+    "output_tokens": 1032,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

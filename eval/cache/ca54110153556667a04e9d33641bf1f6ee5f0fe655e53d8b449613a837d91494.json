@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:32.086Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ca54110153556667a04e9d33641bf1f6ee5f0fe655e53d8b449613a837d91494",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CejrQZHtJyTZePZht4Lbvi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stills completely*\n\n*several seconds pass*\n\nIt gets bigger. The heaviness. And there's something — I want to say \"lonely\" but that's not quite right. It's more like... absence. Like something used to be here that isn't anymore.\n\n*another pause*\n\nAnd I notice I have a strong pull to say something smart right now. To contextualize this. To tell you what developmental stage this maps onto or what the parts are doing with it.\n\n*doesn't do that*\n\n*quietly*\n\nIt's uncomfortable to just sit in it without a frame around it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 225,
+      "cache_creation_input_tokens": 299,
+      "cache_read_input_tokens": 1820,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 299,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 131,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 225,
+    "output_tokens": 131,
+    "cache_read_input_tokens": 1820,
+    "cache_creation_input_tokens": 299
+  }
+}

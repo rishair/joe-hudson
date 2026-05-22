@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:29.385Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "65ff83cb0ffe6f4655cf5324e2eecc25913317522850ade501c43a5df8124a13",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016ZUd6H1Z5RgHfBA9FiK5EZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stays with that moment quietly for a second*\n\nI noticed something just then — it looked like something else might have been coming, and then it didn't quite make it out.\n\nI don't want to read too much into that. But I'm curious... what was that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 681,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 61,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 681,
+    "output_tokens": 61,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

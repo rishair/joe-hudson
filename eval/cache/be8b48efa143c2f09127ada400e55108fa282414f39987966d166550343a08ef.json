@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:32.203Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "be8b48efa143c2f09127ada400e55108fa282414f39987966d166550343a08ef",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UF5xxtL8K8Bxgb6NHipxWT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's worth noticing that you led with \"I'm not sure this is the right venue\" — and then people keep telling you to talk to someone, and here you are. That's actually worth paying attention to, even if we come back to it.\n\nBut let's stay with the launch for now, because I'm curious about something.\n\nYou ruled out fear pretty quickly. And your evidence is solid — free soloing, high-stakes leadership, those aren't things timid people do. But I want to gently push on that, not because I think you're wrong, but because **fear in someone like you probably doesn't look like fear.**\n\nIt might look exactly like what you're describing — logistical fog, discipline problems, a kind of vague friction you can't quite name.\n\nSo let me ask you this: **When you imagine the launch going really well — like, exceeding expectations — what comes up for you?**\n\nNot the risks. The success. What does that feel like when you sit with it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 149,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 220,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 149,
+    "output_tokens": 220,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

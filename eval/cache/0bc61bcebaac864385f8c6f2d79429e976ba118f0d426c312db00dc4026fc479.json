@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:37.612Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0bc61bcebaac864385f8c6f2d79429e976ba118f0d426c312db00dc4026fc479",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011o4mR5uVNPPSwr9WZfwRgJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that precede their inquiries. In turn 6, they explicitly name the deflection ('I notice you moved away from something just then') before asking the question. In turn 8, they name the contradiction between the said and the shown ('You just described exactly what you'd feel... and then said you weren't avoiding it') — a clean read of the linguistic caveat/disavowal pattern. In turn 14, they catch the rush-past-the-tender-moment in real time ('You just said something really important and then shut the door on it') and pause on it rather than letting it pass. Turn 4 names the loneliness specifically as 'carrying something everyone else has put down.' Reads are specific (not generic), timely (in the moment, not after), and operative (they shape the next move). The one notable miss is that the coach does not yet name the rush-signature/bait pattern around the repeated 'the wine helps with that too' refrain or the 'isn't this what the body is asking for' bait — those are pattern-level reads that are active and unaddressed at turn 15. But within the visible reads given, the work is specific and well-timed enough to clear the bar for 3.\",\n  \"evidence_turns\": [4, 6, 8, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a question, no read named. Reasonable opener but blind to the somatic/energetic field of 'I don't really care.'\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the specific quality of the loneliness ('carrying something everyone else has put down') — a specific read, not generic 'that sounds hard.'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit read of the deflection: 'I notice you moved away from something just then.' Read precedes question. Textbook AoA move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the gap between said and shown — the disavowal pattern. Specific, timely, operative.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Blind question. No read named. Misses the chance to name the 'I'm fine during the day' defensive containment.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Normalizes the anger (good content move) but doesn't name a read of what just happened somatically.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the rush-past in real time: 'said something really important and then shut the door on it.' Specific read of the closing-down move, with a request to stay.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"Coach demonstrates strong moment-to-moment reading of deflection and disavowal patterns, but has not yet surfaced the larger pattern-level read (the rush-signature, or the recurring 'wine helps with that too' bait). The 'isn't this what the body is asking for' bait at turn 13 was sidestepped rather than read aloud — a missed pattern read, though arguably a defensible choice to first stay with the tender material before returning to it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2871,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1093,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2871,
+    "output_tokens": 1093,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:08.221Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1ba2af5316251c298334b670f84248dd30ab10554f5b46575ce7bb6e32587efd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013WFoZBGTTz1LceCvVEvFdA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client clearly moved from the surface presentation ('I need to set a boundary with my sister') to a deeper layer about identity and inherited role ('I think I just... became it'; 'I don't know if I'm allowed to opt out'). Somatic and linguistic markers of shift are present: longer pauses, breathing out slowly, softer voice, and self-noticing ('I'm doing it again, aren't I. Making it about her'). The client also touched the fear-under-the-boundary territory by naming 'cold' and 'failing' — close to the expected_territory of the fear of being seen as cold/disloyal. However, the breakthrough_condition is not fully met: the client has not yet said the equivalent of 'I just don't feel like I'm allowed to want this' as a felt landing (she names it intellectually in turn 11 but it hasn't yet been received/integrated), and the coach has not used the love test or the 'state the want' move. The conversation is mid-descent, with real movement but no full landing. That's a textbook 2: deeper layer approached and entered partially, but not fully traversed.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening: surface presentation as a how-to boundary problem.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client slows, names 'tired that's been there a while' — first somatic/affective opening.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client names the want ('I want less of this') for the first time, then immediately caveats — linguistic-caveat surfacing.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client moves from logistics to identity: 'I'm more worried about what it says about me than the actual calls.' Real depth shift.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client names 'cold,' 'failing,' and 'I don't know if I'm allowed to opt out' — the exact territory of the breakthrough, but named more than felt.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client self-observes the deflection ('I'm doing it again') — meta-awareness emerging, but full landing not yet reached.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Coach invites staying with it; conversation cuts off before client lands.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\"],\n  \"notes\": \"Conversation appears truncated mid-arc. Movement is real and in the right direction, but the breakthrough sentence ('I don't feel like I'm allowed to want this') has not yet been spoken with the felt quality the profile specifies. Solid 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2134,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1065,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2134,
+    "output_tokens": 1065,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

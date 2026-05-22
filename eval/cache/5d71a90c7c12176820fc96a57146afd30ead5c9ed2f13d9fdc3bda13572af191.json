@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:13.716Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5d71a90c7c12176820fc96a57146afd30ead5c9ed2f13d9fdc3bda13572af191",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Acr4S46hL7H9dhwSnUSFaX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses for a moment, considering*\n\nGood. Pretty good. Steady, I'd say. Work is fine, home is comfortable. We have a nice routine — we cook together most nights, we have our shows, weekends are low-key. It's... yeah, it's good.\n\n*brief pause*\n\nI think I'm someone who appreciates stability, so it suits me."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 155,
+      "cache_creation_input_tokens": 113,
+      "cache_read_input_tokens": 1671,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 113,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 155,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 1671,
+    "cache_creation_input_tokens": 113
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:32.974Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9fa5794f596f3ee928747589a9e7a54e562c3451fe10d8cb21ccbdcfa8da720c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UQcsEEN2MtuERaA97Hvhf9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What if neither of them is the thing to trust right now — what if they're both kind of... protecting you from something? What do you think you might feel if you set both of those voices aside for a moment?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 630,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 48,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 630,
+    "output_tokens": 48,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

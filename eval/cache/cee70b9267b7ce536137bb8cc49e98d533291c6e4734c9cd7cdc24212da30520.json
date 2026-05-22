@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:50.692Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cee70b9267b7ce536137bb8cc49e98d533291c6e4734c9cd7cdc24212da30520",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XFgyvtm5414hoP66Fu3dmN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moved substantially from the opening surface question ('Am I being selfish?') into deeper territory across multiple layers: the inherited rule from her mother (turn 5), recognition that she's replicating it ('I'm doing that, aren't I' turn 7), concrete embodied articulation of the want (sleep, the novel, the quiet place, 'me, a bit' turn 9), the fear underneath ('I'm scared they'd think the marriage is the thing I'm running from' / 'a little scared that's actually true' turn 11), and finally a clearly new articulation: 'I've lost track of who I am inside it... I'm punishing myself before they get the chance' (turn 13). Somatic markers shift visibly — pauses lengthen, voice 'gets quieter and warmer' (turn 9), 'God... quiet' (turn 11). The breakthrough condition is largely met: the client locates the want, feels it, names the inherited 'selfish' label from her mother, and recognizes the self-policing. The conversation does not stay on the surface debate about whether the trip is selfish; the deeper concern emerged from the client.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening surface presentation: 'Am I being selfish?' — the red herring.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client pauses, surfaces the inherited rule from her mother — 'She'd have called it selfish too.' New material, though she tries to return to the surface question.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client touches the somatic discomfort, names 'I'm doing that, aren't I' — a recognition moment, then partially retreats.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Voice shifts quieter/warmer; want is described concretely (sleep, the novel, the quiet place, 'me, a bit'). The want is being felt, not just named.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major opening: 'God... I don't know why I just called it that.' Names the fear underneath — that partner will hear it as rejection — and the deeper fear that it's partially true.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Clear articulation the client could not have made at the start: 'I've lost track of who I am inside it... I'm punishing myself before they get the chance.' Self-policing recognized.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Conversation cuts off at turn 13 but the trajectory of shift is unmistakable and the breakthrough condition is substantially met. The final 'trust the want as generous' synthesis hasn't yet been explicitly landed, but the client has already done most of the work herself.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2381,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1080,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2381,
+    "output_tokens": 1080,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

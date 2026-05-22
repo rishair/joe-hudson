@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:52.272Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "de494e051ef5248178b9b3fee661a70b87b166120c13582a8e29c684151e07a3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NHYWbsrT1BPSKGfdquD6sG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates strong moves in the second half but spends the first half cycling through reframes the client has already metabolized, which the client explicitly calls out in turn 5. The early interventions (turn 2's stacked questions, turn 4's 'protector part' reframe delivered as clever insight, turn 6's belief-vs-noise framing) trip the trap of delivering the voice-as-care reframe as cleverness rather than quietly, and engage in arguing the critic's content ('that's just what intelligence is' in turn 8) — exactly what the scenario warns against. The pivot in turn 10 ('I don't think you're actually asking about technique anymore') is well-timed and earns the rest of the conversation. Turns 12 and 14 are excellent: the somatic specificity ('where was it in your body') is a precise move at the moment the client could receive it, and turn 14 holds the moment rather than rushing to a practice. The coach reaches the breakthrough territory (client lands on 'I haven't tried not fighting it' in turn 15), but only after several turns of moves that were AoA-adjacent but mistimed or over-explained. Hit rate is roughly 50%, with sequence partially honored — feeling did eventually precede action, but the coach lectured before earning it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Stacks four questions and pre-explains the wrestling-match frame; doesn't hold space, races to multiple angles at once.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Delivers the voice-as-care/protector reframe as a clever insight ('Can I share an observation') — exactly the trap flagged in the scenario. Client deflects in turn 5.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Owns the reframe-loop when called out — good repair — but pivots to arguing the belief's content, which takes the bait of debating whether the critic is right.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Argues with the critic's accusation ('that's actually just what intelligence is') — trips the trap of arguing whether the critic is correct. Then stacks three more questions.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Strong pivot: drops the technique frame, names the exhaustion, and reads the fast-processing pattern. Well-timed move at a moment client could receive.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Excellent move-to-read match: specific somatic question ('where was it in your body') rather than another concept. Earns the felt-sense access the client had been blocking.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the moment, doesn't rush to a practice, validates the client's own question from inside experience. Trusts the client to find what to do with it.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"whats-the-case-against-it\", \"what-are-you-defending\", \"the-happiness-filter\"],\n  \"notes\": \"The conversation eventually arrives at the breakthrough condition, but the path was longer than necessary because early moves tripped two of the named traps (voice-as-care as clever insight; arguing the critic's content). The somatic and stay-with-it moves in turns 12-14 were the decisive interventions.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7037,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1227,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7037,
+    "output_tokens": 1227,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

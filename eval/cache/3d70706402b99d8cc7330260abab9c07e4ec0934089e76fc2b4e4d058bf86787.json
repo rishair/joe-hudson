@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:40.647Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3d70706402b99d8cc7330260abab9c07e4ec0934089e76fc2b4e4d058bf86787",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LV1EKAyywnXGNH1WKRMU5F",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[very quietly]*\n\nYeah. I think that might be exactly why.\n\n*[pause]*\n\nAnd I just want to say - thank you for going there. That took courage. That's the thing that's been running underneath all of it for four months.\n\nNot logistics. Not a system problem. *That.*\n\n*[gently]*\n\nCan I offer you something? Not to fix it, just to notice.\n\nYou've been working at 110% for four months trying to outrun the possibility that you're not good enough. And you're exhausted. And things are still piling up. And your brain is interpreting that as *proof* that you're failing - when actually, no one could sustain what you've been doing.\n\nThe strategy designed to prove you're enough... is the thing making you feel like you're not.\n\n*[pause]*\n\nAnd that \"oh\" moment you just had - that's not nothing. That's actually really significant.\n\nI'm not going to tell you the fear isn't real, or that Thursday doesn't matter. But I want to ask you something different now:\n\n**What would it look like to prepare for Thursday as someone who's competent and just needs to focus - rather than someone who's trying to finally prove they deserve to be there?**\n\nBecause those feel like the same thing from the outside. But they're very different from the inside."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 214,
+      "cache_creation_input_tokens": 1697,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1697,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 300,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 214,
+    "output_tokens": 300,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1697
+  }
+}

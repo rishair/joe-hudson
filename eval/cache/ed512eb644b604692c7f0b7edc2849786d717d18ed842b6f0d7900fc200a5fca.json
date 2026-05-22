@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:44.481Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ed512eb644b604692c7f0b7edc2849786d717d18ed842b6f0d7900fc200a5fca",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BDGbYRVwR8S9hg8WDBqGG3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's — not great. Obviously. I don't want that. But I also understand why it's happening, it's a high-pressure period and everyone's feeling it. It's not like I'm doing it on purpose. So the question is just what's the fastest way to correct for it before it becomes a real problem. Is there a communication framework or something? I've seen stuff about psychological safety, there's probably a quick version of that I can implement."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 155,
+      "cache_creation_input_tokens": 165,
+      "cache_read_input_tokens": 1735,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 165,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 99,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 155,
+    "output_tokens": 99,
+    "cache_read_input_tokens": 1735,
+    "cache_creation_input_tokens": 165
+  }
+}

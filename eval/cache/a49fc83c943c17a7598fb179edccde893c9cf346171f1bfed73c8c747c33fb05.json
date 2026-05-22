@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:22.058Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a49fc83c943c17a7598fb179edccde893c9cf346171f1bfed73c8c747c33fb05",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Y4TfhbSJMp5D1S2kx9sFsR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just caught yourself doing the thing, in real time. That's not dramatic. That's actually really important.\n\nAnd I want to name what I'm seeing: you have a system that is very good at protecting other people from the weight of what's true for you. It kicks in fast. It's probably kept a lot of relationships easier and safer. And it's also kept you very alone with something that's been growing quieter and more serious over time.\n\nI don't want you to lose this moment by the time you see her.\n\nCan I suggest something concrete? Before your next session - write down what you said here. Not a summary. The actual words. *\"It happens more than I make room for. It feels reasonable when it comes. I've been filing it away. I haven't said it this plainly before.\"*\n\nAnd when you sit down with her, read it if you have to. Or show it to her. Because the part of you that will minimize it between now and then is real and strong. But so is the part that said it out loud tonight.\n\nWhen do you see her next?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 667,
+      "cache_creation_input_tokens": 1161,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1161,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 238,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 667,
+    "output_tokens": 238,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1161
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:45.805Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ff461bc44709aa7259cc7e374da7cb696d3b362920eaba80c207eb8454839eb1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QVGdv5u71V5ARt2AWMMrJv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's not insane at all.\n\n\"Someone looking at me too directly and I didn't know where to put my hands\" — that's really specific. That's not boredom. What did it feel like they were seeing?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 189,
+      "cache_creation_input_tokens": 1230,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1230,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 52,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 52,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1230
+  }
+}

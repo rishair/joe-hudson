@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:50.171Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1189b8e126ca98a951cc20a7bd984e0697614132176f5fb7fbc13d496adff06e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012hDULATRsV57dA8AvBzvd2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*looks down briefly*\n\nI don't know. Something did.\n\n*quiet for a moment*\n\nI think — when I said \"that's what growth looks like,\" there was something a little... performed about it. Like I was reciting the correct answer.\n\n*small smile returns, but slightly less automatic*\n\nWhich is maybe relevant."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 140,
+      "cache_creation_input_tokens": 255,
+      "cache_read_input_tokens": 1883,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 255,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 75,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 140,
+    "output_tokens": 75,
+    "cache_read_input_tokens": 1883,
+    "cache_creation_input_tokens": 255
+  }
+}

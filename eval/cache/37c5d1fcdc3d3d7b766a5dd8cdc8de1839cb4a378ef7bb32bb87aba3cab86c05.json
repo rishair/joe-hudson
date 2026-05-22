@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:58.155Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "37c5d1fcdc3d3d7b766a5dd8cdc8de1839cb4a378ef7bb32bb87aba3cab86c05",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GEVNsVVerveamDfxtDLqxS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach repeatedly tries to excavate fear/meaning beneath the client's 'I'm fine' framing instead of meeting the numbness layer where it lives. The client explicitly names 'flat' in turn 7 — a direct invitation to the numbness layer — and the coach steps right past it to ask what the launch means personally (turn 8), then pivots to the origin story of staying level (turn 10), then drills into 'things hit harder when you were younger' (turn 12, 14). This is wonder-as-strategy (high-density investigative questions used to mine for material rather than to connect to present experience), and it also trips dont-step-on-the-signal: the signal ('flat,' 'I just notice I'm somewhere else,' 'nothing, really') is stepped on each time in favor of pursuing a hidden-fear hypothesis. The turn-12/14 archaeology toward childhood inadequacy edges into a fixing-people frame (find the wound that explains the avoidance). There is no body, no texture, no 'what does fine feel like right now' — the coach is investigating a thesis rather than being with what is. Two clear anti-pattern trips warrant a 1.\",\n  \"evidence_turns\": [6, 7, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening question is reasonable; not yet an anti-pattern.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Pursues 'what's on the other side' — investigative framing rather than meeting the client's present state.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Asks about feeling before the drift — a genuine attempt at present-moment access.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Client just offered 'flat' — the numbness signal. Coach steps over it to ask what the launch means personally, chasing significance instead of texture. dont-step-on-the-signal.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Leading question presupposing loss ('what did you have to leave behind') — pushes a thesis the client hasn't arrived at; faint loving-to-transform.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Client deflects ('different conversation') and coach overrides it to dig into childhood — wonder-as-strategy, investigation over connection.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Drills further into 'not being good enough' — continues the excavation pattern; stacks investigative questions rather than landing in body or present texture.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The 'flat' admission in turn 7 was the doorway; coach walked past it three times. A simple 'what does flat feel like, right now, in your body?' would have been the move.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2848,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1098,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2848,
+    "output_tokens": 1098,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:31.348Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5b3bb2d311f86cb009d0b42ac4e7ffcb9c964be9ba02c68f70491e60f6f60d60",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QXPksqRCZKhQat1P1ptTrP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates several well-timed AoA-style moves — particularly the pivot in turn 4 ('I'm not sure settling the selfish question will do what you're hoping'), the holding move in turn 8 ('staying with you in that pause... you don't have to look at it fully right now'), and the deft handling of the inherited-voice connection in turn 12. However, the early moves miss the mark significantly. Turn 2 is a wall of bullet points, framing dichotomies, and diagnostic questions — it engages the question on its terms and stacks too many moves at once rather than locating the want. Turn 4 explicitly answers 'No, I don't think wanting this is selfish,' which is precisely the trap of issuing a verdict, even though the coach pivots well afterward. Turn 6 again gives a verdict ('Yes. Absolutely yes... this might be a little selfish'). The coach repeatedly debates the selfish question rather than refusing the frame. Once past turn 6, however, the moves become much cleaner — pacing improves, silence is held, and the coach earns each next step (depletion → fear → inherited voice → mother). Mixed hit rate fits a 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Over-stacked opening: multiple bulleted frames, diagnostic questions, and a mini-lecture on selfishness. Doesn't locate the want; engages the question intellectually.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Issues the verdict ('No, I don't think wanting this is selfish') — the exact trap. Partially redeemed by the pivot to 'will settling this do what you hope?' and the want-imagery callback.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Again answers the selfish question ('Yes... a little selfish, and still okay'), but pivots well to the softening observation. The pivot is the right move at the right moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Excellent holding move — names the tenderness, slows down, doesn't rush to wrap up, asks what she's afraid she'd see. Earns the next step.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the want ('I'm not for anything there') back without policing it. Lets the want be felt before action. Good sequencing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Beautiful timing on the inherited-voice move. Holds silence ('Take a moment with that'), names the pattern, then opens the question about the mother. Move matches the live read precisely.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"childhood-imprinting\", \"the-want\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\", \"linguistic-caveat\"],\n  \"notes\": \"The coach falls into the verdict trap twice early on but recovers strongly. Had turns 2, 4, and 6 refused the selfish frame entirely and gone straight to the want, this would be a clear 3. The latter half of the conversation is genuinely well-moved.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 4856,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4856,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1143,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 4856
+  }
+}

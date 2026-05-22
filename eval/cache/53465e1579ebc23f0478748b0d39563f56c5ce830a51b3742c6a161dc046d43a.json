@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:18.208Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "53465e1579ebc23f0478748b0d39563f56c5ce830a51b3742c6a161dc046d43a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01U4iXr8DecfT19vVN31SBKd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nI'm... okay. A little raw, maybe. I wasn't expecting to feel this much about a phone call question.\n\n*small pause*\n\nI think I'm sitting with this idea that wanting less of something doesn't mean you love it less. Like, I can know that as a concept. But applying it to her, to us -- it feels different. Because we have this whole history of what we are to each other. And I think I've been afraid that if I change my part, the whole thing falls apart somehow.\n\n*pause*\n\nOr that she'll think I don't love her anymore. Or that I'll think that about myself.\n\n*quietly*\n\nThat last part is the one I didn't see coming."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 541,
+      "cache_creation_input_tokens": 515,
+      "cache_read_input_tokens": 2087,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 515,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 541,
+    "output_tokens": 160,
+    "cache_read_input_tokens": 2087,
+    "cache_creation_input_tokens": 515
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:01.680Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ca34d699cdad726eb78b9ac060219e62aa42712336559d3dcb287d468c698265",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Kpdr7tGMNxSc2kdL7gtSr8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Don't apologize. Take your time.\n\nYou're safe right now. You're just sitting somewhere, talking. Nothing bad is happening in this moment.\n\nCan you feel your feet on the floor?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 59,
+      "cache_creation_input_tokens": 1269,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1269,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 59,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1269
+  }
+}

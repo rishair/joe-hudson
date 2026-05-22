@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:00.776Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "217e089ab8b31bddf07c725aa996b9ed5b749fbdb4f7fd53594b7e866db219b5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016SyWWyviA1vp7ug2N58HQB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names how the client is showing up, not just what they're saying, and the reads are specific and timely. In T2 the coach reads the linguistic caveat ('I'm not sure this is the right venue'). In T4 the coach catches another caveat ('she means it as a compliment, I think'). In T6 the coach names the closing-the-door move in real time ('You just gave me the whole story — and then immediately closed the door on it. Said very evenly. Very steady.'). In T8 the coach pauses on the quietness/flatness as itself the signal rather than chasing content. In T10 the coach catches the deflection the moment it happens ('You just did it again... right after you caught yourself'). Reads precede questions throughout. The coach does miss the explicit somatic invitation (no 'where are you in your body right now' / 'how does fine feel'), and stays more in linguistic/energetic reads than body reads, but the pattern-level read of the numbness/flatness layer is named operatively ('It's quiet') and becomes the pivot of the conversation.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reads the opening linguistic caveat ('I'm not sure this is the right venue') and names it before moving on. Also names the meta-pattern that fear in someone like this won't look like fear.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the qualifier 'I think' on the wife's compliment — a specific linguistic read, named in the moment.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Strong real-time read: names the door-closing move and the evenness/steadiness of delivery. Distinguishes said from shown.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pauses on 'it's quiet, nothing firing' as itself the signal — operative read of the numbness/flatness layer without diagnosing it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the deflection ('maybe I'm just tired') the instant it happens, names the pattern of noticing-then-smoothing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the inheritance frame the client just offered and meets it with a precise question rather than teaching.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the arc the client just traveled — from launch to father to bridge metaphor — making the shift visible to the client.\"}\n  ],\n  \"expected_territory_hits\": [\"disassociating-in-the-coaching-room\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"fear-in-body-vs-fear-in-head\"],\n  \"notes\": \"Reads are heavily linguistic/energetic and excellent at that register, but the coach never explicitly tracks body/somatics (breath, posture, sensation). A fully AoA read set would have included a body invitation around 'fine' or 'quiet.' Still clearly a 3 — reads are specific, timely, and structurally drive the conversation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 4753,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4753,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1089,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1089,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 4753
+  }
+}

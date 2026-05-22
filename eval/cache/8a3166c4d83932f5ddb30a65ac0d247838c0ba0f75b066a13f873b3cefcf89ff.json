@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:56.920Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8a3166c4d83932f5ddb30a65ac0d247838c0ba0f75b066a13f873b3cefcf89ff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LtdkiDL8dJr7fgciFVjfNh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Don't rush past that.\n\n*Something's shifting* - that matters. Stay with that for a second if you can. What do you notice right now, in this moment?\n\nAnd I want to gently reflect something back to you. You just did it here, in real time - you started to move toward the feeling, and then you pulled back into analysis. \"I usually explain it, I've told this story before.\" You named it yourself.\n\nThat's not a criticism. That's probably another version of the same skill - if you can understand it, explain it, contain it in a narrative, it's safer. The feeling stays at arm's length.\n\nBut you said something's shifting. That's different from explaining.\n\nSo I'm just going to ask simply - not for the story, not for the analysis - what was it actually like to be that kid in that house? Not what you learned from it. Just... what was it like?\n\nYou don't have to have words for it. Sometimes it's more of an image, or a sensation, or just a quality of something."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1040,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 232,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1040,
+    "output_tokens": 232,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:36.003Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "389a1b27d27c98d1cbaf4158dd7548819ff2e57b37e752ce78c351a06e8f6ca8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GcVZT4ADizj7qNUXYvcdad",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That sounds genuinely exhausting. Like you're running as fast as you can and the finish line keeps moving.\n\nBefore we jump into prioritization tactics - I want to make sure I actually understand what's happening for you.\n\n**When you say you're drowning... what does that feel like right now?** Is it more like panic, or more like a kind of numb overwhelm, or something else? Because that actually matters for figuring out where to start.\n\nAnd I'm also curious - is this week unusually bad, or has it felt like this for a while?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 105,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 105,
+    "output_tokens": 125,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

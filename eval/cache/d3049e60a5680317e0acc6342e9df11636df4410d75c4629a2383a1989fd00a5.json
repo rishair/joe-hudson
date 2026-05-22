@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:21:57.228Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d3049e60a5680317e0acc6342e9df11636df4410d75c4629a2383a1989fd00a5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012nionkBgoYwRbJacqdKTTq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(something shifts slightly, caught off guard by the specificity)*\n\n*(pause)*\n\nWarm. It was... warm, I think. In the chest. And for a second my shoulders — *(brief gesture toward their own shoulders)* — they were just down. Not held up like this.\n\n*(catches themselves, slight self-conscious laugh)*\n\nI'm aware that sounds like a cliché therapy answer. \"I felt warmth in my chest.\" But that's actually what it was.\n\n*(quieter, more careful)*\n\nAnd then I remember the thought — \"don't get too comfortable\" — and it was like... like bracing. Like physically bracing. The shoulders came back up.\n\n*(beat, then something slightly more unguarded)*\n\nI do that a lot, I think. I think I do that constantly and I've just stopped noticing it. The bracing.\n\n*(then, almost involuntarily)*\n\nThe critic is always there when I brace. Or — wait. Is the bracing the critic? Or is the bracing what happens *before* the critic? I don't actually know the order.\n\n*(looks slightly unsettled in a way that feels more genuine than the earlier performed exhaustion)*\n\nI've been treating them as the same thing. The voice and the... whatever that physical thing is. But maybe they're not."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 971,
+      "cache_creation_input_tokens": 940,
+      "cache_read_input_tokens": 3243,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 940,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 294,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 971,
+    "output_tokens": 294,
+    "cache_read_input_tokens": 3243,
+    "cache_creation_input_tokens": 940
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:44.175Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1fb562b0978b21ce4d64fbcc933c54013b4fdff8d0f99d2f8fe35fef85a452e7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q5viXG324KA4GBa6NKkxmq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Scanning, mostly. If I'm honest.\n\nThere's not a lot of bandwidth for more than that. Work is full-on, kids have stuff every other night it feels like, and by the time there's a quiet moment the last thing that sounds appealing is — what, updating a resume, reaching out to people I haven't talked to in years, pretending to be enthusiastic about opportunities that probably don't exist anyway.\n\nSo yeah. Scanning. Not much action behind it.\n\n*small laugh* \n\nWhich I'm sure sounds like an excuse."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 358,
+      "cache_creation_input_tokens": 202,
+      "cache_read_input_tokens": 1895,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 202,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 122,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 358,
+    "output_tokens": 122,
+    "cache_read_input_tokens": 1895,
+    "cache_creation_input_tokens": 202
+  }
+}

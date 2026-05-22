@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:38.354Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "928aa784f386ea1ccc25292093ae8c7bee6a4a90834b97b4b601cb7018d3fcc2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011wA7R3hLAHwtTMcdqqpFHk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That image you used - *watching yourself appreciate it from a distance* - that's really precise and honest. That's not peace. That's dissociation from your own life. And it makes sense that it would feel unsettling, even if it's quiet.\n\nI want to gently reflect something back to you.\n\nYou went blank when I asked where it lives in your body. And then you very quickly moved to analysis - what you know, what you've processed, what's been turned over. That happened fast.\n\nI'm not saying that to challenge your therapy work. I believe you've done real work.\n\nBut I'm wondering... **is the analyzing itself part of the pattern?** Like, maybe the way you've survived - and processed, and healed - has been through understanding. And understanding is real. But it might also be another layer of management.\n\nThe blankness when I asked about your body - that might not be \"nothing there.\" It might be the most honest signal you've gotten in a while. Your system going quiet rather than immediately producing an answer.\n\nHere's what I'm genuinely curious about:\n\n**When did you last feel something that surprised you?** Not something you understood or processed - just something that hit you before you could think about it?\n\nAnd I want to ask this carefully - not to push you toward more excavation, but because it matters: **does the flatness feel like rest, or does it feel like loss?**"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 545,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 313,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 545,
+    "output_tokens": 313,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

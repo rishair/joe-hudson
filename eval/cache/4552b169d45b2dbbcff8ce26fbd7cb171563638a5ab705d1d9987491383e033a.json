@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:08.419Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4552b169d45b2dbbcff8ce26fbd7cb171563638a5ab705d1d9987491383e033a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MStM6PifTJrCfeHEqAQG3T",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 1,\n  \"rationale\": \"The coach never names how the client is showing up. There are multiple visible reads available — the 'small smile' that recurs, the longer pauses, the deflection in turn 11 ('that feels like a different conversation'), the flatness the client himself names in turn 7, the 'something in the eyes is slightly less present' moment — and the coach engages none of them. Every coach turn is a content-level question about meaning, history, or feeling-content. The coach never uses observation language ('I notice...', 'the way you said that...'), never references somatic state, never distinguishes the said from the shown, never names the numbness/flatness layer the client is explicitly handing them in turn 7. The coach also misses the disassociating-in-the-coaching-room pattern and the happiness-filter read entirely, and instead chases backstory in turns 10-14, walking the client toward a fear/loss narrative rather than staying with the present-moment texture of 'flat.' This is a textbook content-only engagement.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens with a content question about meaning; no acknowledgement of the client's framing or stance.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Picks up the phrase 'not dreaming about it' but as content, not as a read of the flatness underneath.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Asks about the feeling right before drifting — a reasonable question, but blind: no read named, and misses the chance to track the present-moment state.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Client just handed the coach 'flat' explicitly in turn 7. Coach moves past it to a meaning question instead of staying with the texture of flat.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Pivots to a backstory/loss frame ('what did you have to leave behind') — a leading move, and still no naming of how the client is showing up right now (the recurring confident smile, the evenness).\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client explicitly deflects ('that feels like a different conversation') and the something-less-present-in-the-eyes is visible — coach does not name the deflection or the shift.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Continues the backstory chase; ignores the deflection just offered.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Doubles down on the historical-wound frame; no present-moment read at any point in the session.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The client literally names 'flat' in turn 7 — the single clearest invitation to a numbness-layer read — and the coach moves past it. No somatic, linguistic, or energetic reads are made visible anywhere in the transcript.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2850,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1074,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2850,
+    "output_tokens": 1074,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

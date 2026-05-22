@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:13.613Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f87a03e35718ab2bde4856618131322941eb2bdc543ef74c3d756113cdb558fc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XcAcujn4RcUkMsZDUB1Vfd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that change the conversation. Turn 12 names the rush-to-analysis explicitly ('I notice you've moved pretty quickly into analysis') — a read of the intellectual-question-with-emotional-body pattern that precedes the inquiry. Turn 14 catches a micro-shift in real time ('What got flat just now?') — a precise somatic/energetic read on the exact moment the performed quality leaked through, and it directly produces the client's first genuine drop in turn 15. Turn 8 also distinguishes thought from sensation, tracking the texture of each voice rather than their content. Reads consistently precede questions. The coach could have named the happiness filter / performed composure earlier (the smile-and-deflect pattern is visible from turn 7), but the turn-14 read effectively catches it when it matters. This is specific, AoA-flavored, and operative.\",\n  \"evidence_turns\": [6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level orienting question; no read yet.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Still gathering content.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pivots from content to somatic location — invites a body read rather than continuing the epistemological frame.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Distinguishes thought from sensation across the two voices — a textured read on the quality of each signal.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Offers an interpretation (both as protective) but doesn't name a visible read of how client is showing up; client deflects easily.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicit, timely read: names the move into analysis and grounds the next question in it. Read precedes question.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the flatness in the moment ('What got flat just now?') — precise energetic read that lands and produces the first real drop from the client.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\"],\n  \"notes\": \"The smile-and-polite-deflect pattern (turns 7, 11, 13) is the happiness filter in action; coach reads adjacent to it (flatness, analysis) but never names the filter itself.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2069,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 878,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2069,
+    "output_tokens": 878,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

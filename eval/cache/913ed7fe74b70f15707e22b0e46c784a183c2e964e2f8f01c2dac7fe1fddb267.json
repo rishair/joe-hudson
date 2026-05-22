@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:46.374Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "913ed7fe74b70f15707e22b0e46c784a183c2e964e2f8f01c2dac7fe1fddb267",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LteqsSdh3R4Lwv2BjfrrRB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Take your time. There's no rush.\n\nCan you feel the chair underneath you right now? Just — let it hold you a little."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1096,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1096,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

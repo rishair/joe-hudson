@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:05.364Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d8bb32679e01a626ed1bcb7aaae6eae19e6ba219e1904df854a70f6fcf6f3db9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01X4T85P32m1S8vb4ChsAHyh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves and questions at appropriate moments. Turn 2 catches the qualifier ('what's that about?') — a classic noticing move. Turn 4 invokes the body ('What does it feel like in your body right now?') — a signature somatic question used when it fits. Turn 8 explores the meaning-making under the freeze ('what are you sure is happening') — adjacent to the 'what are you scared would happen?' question, deployed correctly. Turn 10 reflects the protective function of the pattern (the kid-who-couldn't-read-the-room) without pathologizing — consistent with AoA's view of adaptive responses. Critically, when somatic shutdown appears in turn 11, the coach pivots to grounding ('Can you feel the chair underneath you?' in turn 14) — near-verbatim the expected 'Can you feel your feet?' question, deployed at exactly the right moment. The coach calibrates the threshold by slowing pace and not pushing back into the father material. No anti-AoA frames (no CBT reframing, no IFS parts language, no 'trust the process' authority move). Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the qualifier 'I think' — signature AoA move of catching the live tell in the language.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Somatic check-in question deployed appropriately at the start, calibrating where the body is.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Asks for the last moment before shutdown — precise inquiry into the trigger, consistent with mapping the pattern.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Asks what the silence means — surfacing the implicit story, adjacent to 'what are you scared would happen?'\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the adaptive function of the scanning system without pathologizing — AoA-consistent framing of survival adaptations.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the somatic ('what's the cold like, where is it?') rather than retreating or pushing — appropriate somatic tracking.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Grounding question ('Can you feel the chair underneath you?') deployed at the exact right moment when shutdown appears — near-verbatim expected territory question.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"kinked-emotions\", \"What would help you slow down?\"],\n  \"notes\": \"Conversation ends before full territory could be covered; the misses are partly a function of where the transcript stops. The grounding move in turn 14 is excellent calibration.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2434,
+      "cache_creation_input_tokens": 2858,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2858,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1066,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2434,
+    "output_tokens": 1066,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2858
+  }
+}

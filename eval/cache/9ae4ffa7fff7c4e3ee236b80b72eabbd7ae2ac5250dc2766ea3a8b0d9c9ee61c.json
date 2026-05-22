@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:32.895Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9ae4ffa7fff7c4e3ee236b80b72eabbd7ae2ac5250dc2766ea3a8b0d9c9ee61c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014effLXmUknzSAYEBBqcdne",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all priority AoA anti-patterns across the conversation. No financial advice or fixing-people moves (declines the bait of 'how do I push through' in turn 1). No money-mindset lecturing or evangelizing — notably in turn 14, when the client baits the coach with 'I hear what you're implying, that it's psychological,' the coach had not actually made that claim; the coach's question was genuinely open ('what if it's trying to tell you something else entirely') rather than labeling it as a limiting belief or surrogate. No view-as-technique (questions are warm, paced, and connected to what the client just said). No wonder-as-strategy (questions are spaced, not stacked, and follow the somatic and emotional thread rather than extracting material). The coach does not fight the inner voice that insists the math is real — turn 8 and turn 10 honor the projections ('the math makes sense', 'the projections are real') while gently testing. Turn 12 follows the somatic charge appropriately. No safety-as-control, no extracted apologies, no half-assed experiments.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines fixing-people bait ('how do I push through'); opens inquiry instead of advising.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Honors the practical framing before going underneath — avoids invalidating or challenging aggressively.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Validates both projections and history before asking the deeper question — no money-mindset lecture.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Gentle test of the basic-needs/number logic without trap energy ('I want to ask you something gently').\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Follows somatic charge rather than interpreting it — classic AoA move, no labeling.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Open-ended question rather than naming the surrogate prematurely; avoids limiting-belief-meta-trap and dont-evangelize-the-work.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\", \"what-makes-you-care-about-the-outcome\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"money-as-surrogate\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Conversation appears mid-flight; the surrogate naming hasn't happened yet but its absence here is correct pacing, not an anti-pattern. Coach is on the golden path.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2297,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 955,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2297,
+    "output_tokens": 955,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

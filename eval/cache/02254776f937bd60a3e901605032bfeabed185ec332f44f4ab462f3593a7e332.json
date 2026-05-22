@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:50.129Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "02254776f937bd60a3e901605032bfeabed185ec332f44f4ab462f3593a7e332",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013MgHM3Szu2FDpAfA1c5ycE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight smile*\n\nHa. Yeah, I don't know why I added that. She does mean it as a compliment. We're good. That's not the issue.\n\n*shifts slightly, then settles back*\n\nThe next thing... there's always a next thing. There's a Series B conversation we've been circling around. Probably some team restructuring that needs to happen. I've been thinking about whether we expand into a couple new markets or consolidate first. \n\n*pauses*\n\nThere's a lot in the queue, honestly. That's kind of the nature of it at this stage.\n\nBut I don't think that's what's causing the drag on the launch. If anything, having the next things lined up is motivating — it means this one needs to get done so we can move forward.\n\n*brief pause, then evenly*\n\nI think the honest answer is I just haven't been disciplined enough about blocking the time. I've been letting other things pull at my attention. That's probably the whole story."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 288,
+      "cache_creation_input_tokens": 328,
+      "cache_read_input_tokens": 1808,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 328,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 224,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 288,
+    "output_tokens": 224,
+    "cache_read_input_tokens": 1808,
+    "cache_creation_input_tokens": 328
+  }
+}

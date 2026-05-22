@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:20.136Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c772686554c3b701ae46d16f7693238ac7ea4d7fd1e95e7b32c81ed14e5bae53",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RGqWE4TBSMwri3JfRSWAth",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, it did.\n\nIt came in right as you were about to say what's underneath the heavy.\n\nWhat was the word you were reaching for?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 134,
+      "cache_creation_input_tokens": 1207,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1207,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 134,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1207
+  }
+}

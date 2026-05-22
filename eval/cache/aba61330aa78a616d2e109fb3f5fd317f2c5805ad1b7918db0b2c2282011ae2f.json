@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:27.088Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aba61330aa78a616d2e109fb3f5fd317f2c5805ad1b7918db0b2c2282011ae2f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QGT3m13VqtHuJW43yVJuh1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Something that matters. Some kind of — I don't know, forward motion. Like by now there should be something to show for it. Instead it's the same meetings, same projects, same title, and the clock is just... running.\n\nI had ideas about where things would be by this point. Didn't happen. And now there's the mortgage, the kids, so it's not like options are just sitting there waiting to be picked up."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 208,
+      "cache_creation_input_tokens": 154,
+      "cache_read_input_tokens": 1642,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 154,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 96,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 208,
+    "output_tokens": 96,
+    "cache_read_input_tokens": 1642,
+    "cache_creation_input_tokens": 154
+  }
+}

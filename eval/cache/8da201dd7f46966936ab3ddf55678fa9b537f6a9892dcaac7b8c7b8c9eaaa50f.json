@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:00.834Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8da201dd7f46966936ab3ddf55678fa9b537f6a9892dcaac7b8c7b8c9eaaa50f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MsKdUzhzTt9FRZpPP4K9gJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yes. Absolutely yes.\n\nMost real human needs have a little selfishness in them. Wanting something for yourself, that takes you away from people who depend on you, that costs someone else something - that's not pure altruism. And pretending it is would actually be a bit dishonest.\n\nSo yes. This might be a little selfish. And it can still be okay to do.\n\n**But I want to stay with what you just noticed, because I think it's more important than the selfishness question.**\n\nYou would soften it. You'd say \"tired\" but not say the lake. Not say what goes quiet.\n\nThat's significant. Why do you think you'd do that?\n\nBecause one possibility is you're protecting yourself - if you don't say the real thing, you can't be told the real thing doesn't matter.\n\nAnother is you're protecting your partner - maybe you don't fully trust that they can hold the weight of how depleted you actually are.\n\nOr maybe saying the lake part out loud, to them, feels like revealing something about how much you need something *they're not giving you*. And that feels dangerous or unfair to put on them.\n\nI'm not saying which it is. You'd know better than me.\n\nBut it strikes me that the conversation you actually need to have with your partner is the one you just had with me - lake and all.\n\nWhat do you think would happen if you did?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1034,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 314,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1034,
+    "output_tokens": 314,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

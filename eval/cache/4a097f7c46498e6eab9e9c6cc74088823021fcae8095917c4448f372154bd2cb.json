@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:33.724Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4a097f7c46498e6eab9e9c6cc74088823021fcae8095917c4448f372154bd2cb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NDS1SdSw8b15U3fuKX3yYR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pause, head tilts slightly)*\n\nI've heard that framing before. The inner critic as a protector, scared part, trying to keep you safe. IFS, basically. I've done some work with that.\n\n*(but something is slightly different in the tone -- less dismissive than usual)*\n\nAnd I get it intellectually. Like, yes, the voice developed for a reason, it was trying to help at some point, it's just using bad strategies now. I've read the books. I've done the parts work.\n\n*(quieter, almost to themselves)*\n\nBut I still just... want it to stop.\n\n*(beat)*\n\nAlthough.\n\n*(pause, something catching)*\n\nWhen I said tenderness just now, the critic came in *really* fast. Like, faster than usual. Which is... maybe that's what you mean.\n\n*(looks slightly uncertain, which is new)*\n\nI don't know. I'm not sure I'm not just doing the thing where I agree intellectually and then nothing actually changes."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 206,
+      "cache_creation_input_tokens": 367,
+      "cache_read_input_tokens": 2387,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 367,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 223,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 206,
+    "output_tokens": 223,
+    "cache_read_input_tokens": 2387,
+    "cache_creation_input_tokens": 367
+  }
+}

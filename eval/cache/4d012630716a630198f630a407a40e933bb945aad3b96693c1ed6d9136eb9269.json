@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:28.338Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4d012630716a630198f630a407a40e933bb945aad3b96693c1ed6d9136eb9269",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018iQbQ6ftMuCW7457DAJuS8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That question you're asking - \"am I being selfish?\" - is worth sitting with for a moment, because I notice you're already judging the desire before you've even fully explored it.\n\n**What's actually going on when you imagine that week alone?**\n\nLike, what does it feel like in your body when you picture yourself there - in the mountains, just you?\n\nI'm asking because there's a difference between:\n- Wanting to escape *from* your life and people\n- Needing to return *to* yourself so you can actually show up better\n\nBoth are real, neither is automatically selfish.\n\n**A few honest questions worth sitting with:**\n\n- How long have you been running on empty?\n- When did you last have genuine solitude or rest?\n- What's the actual cost to your family if you *don't* take care of this need over time?\n\n**On the \"selfish\" question directly** - wanting something for yourself isn't the same as selfishness. Selfishness would be taking it without caring about the impact on others. The fact that you're wrestling with this suggests you care deeply about your partner and kids.\n\nBut I'd also gently push back on one thing: your need for restoration matters *too*. Not more than your family's needs, but not less either.\n\nWhat does your partner actually know about how depleted you're feeling right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 92,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 304,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 92,
+    "output_tokens": 304,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

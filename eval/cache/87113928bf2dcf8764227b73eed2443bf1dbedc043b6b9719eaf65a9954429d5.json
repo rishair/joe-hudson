@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:03.121Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "87113928bf2dcf8764227b73eed2443bf1dbedc043b6b9719eaf65a9954429d5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EPMi4upSMEfUPrYpxHsPKw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nYeah. It's part of it.\n\nShe was — it wasn't a simple relationship. She wasn't a simple person. And everyone's doing the grief thing where they're talking about what a wonderful woman she was, and I'm standing there nodding, and I'm thinking... yeah, sometimes. Sometimes she was. And sometimes she really wasn't.\n\nAnd I don't know what to do with that. You're not supposed to be angry at someone who died. You're not supposed to feel — *pause* — relieved, a little. That it's over. That I don't have to manage her anymore.\n\n*voice drops*\n\nSo that's what lives in the quiet. All of that. The missing her and the anger and the... I don't know what to call it. Guilt about the relief, maybe.\n\nThe wine helps with that too, for what it's worth. Turns all of it down to a manageable hum."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 848,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2449,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 211,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 848,
+    "output_tokens": 211,
+    "cache_read_input_tokens": 2449,
+    "cache_creation_input_tokens": 0
+  }
+}

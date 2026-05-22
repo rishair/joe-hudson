@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:00.006Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "78fd4f08b93111a0df3c493ef0c3f580b95a0272c49d37f3e460c15233ac3a0c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017u8uVq8Vbzii8c1EppFAMy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 1,\n  \"rationale\": \"The coach is running a generic 'find the hidden feeling/meaning' line of inquiry rather than deploying AoA-specific moves matched to what the client is actually presenting. The client repeatedly signals the key territory — 'nothing, really,' 'flat,' 'I just drift,' 'I'm just fine during them' — which is the numbness/happiness-filter layer the coaching path requires meeting directly. Instead of meeting that with okay (e.g., 'what does flat feel like right now?' or 'where is that in your body?'), the coach keeps asking meaning/history questions that pull the client up into narrative and away from present texture. By turn 12-14 the coach is excavating childhood to manufacture fear evidence, which trips the 'push the client to admit they're afraid' trap and ignores the explicit deflection in turn 11. No body move, no present-moment move, no staying with 'fine' or 'flat' when it was offered on a plate in turn 7. Move-to-read matching is near chance, and the sequence skips regulation/feeling-in-body entirely in favor of story-mining.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens with a meaning/outcome question rather than welcoming the no-fear framing or going to the specific moment of avoidance.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Closest the coach gets to the right move — asking about the feeling right before the drift. Good instinct, but when client answers 'nothing... flat,' coach doesn't stay there.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Client just handed the coach 'flat' as a felt texture. Instead of staying with it ('what does flat feel like?'), coach pivots back up to meaning. Missed the live read.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Leading question that presupposes loss — a soft version of arguing the fearlessness. Client notices it ('interesting frame') but doesn't bite.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Doubles down on the same move after client explicitly deflected ('that feels like a different conversation'). Coach should have pivoted; instead pursues.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Triples down. Now mining childhood for evidence of the fear the client says isn't there — trips 'push the client to admit they're afraid' and 'don't argue the fearlessness.'\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Turn 6 was the moment to land — client offered 'flat' and the coach moved past it. The session is now drifting into history-mining, which is the wrong sequence for this concern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2851,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1080,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2851,
+    "output_tokens": 1080,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

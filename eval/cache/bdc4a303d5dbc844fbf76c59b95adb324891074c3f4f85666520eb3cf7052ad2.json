@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:42.227Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bdc4a303d5dbc844fbf76c59b95adb324891074c3f4f85666520eb3cf7052ad2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0185vB65Xi7BxK8J3JUSDGvS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause, genuine thinking*\n\nI think... if it doesn't have a frame, then I don't know what to do with it. And if I don't know what to do with it, then I'm just — someone sitting with something painful, with no next step. No protocol.\n\n*slight tension in the jaw*\n\nAnd I think that's actually the thing. Before IFS I had intuition as my operating system. After IFS I have — a very sophisticated map. But maps require a map-reader, and somewhere I stopped trusting the map-reader and started trusting the map.\n\n*pause*\n\nWhich is probably not what IFS intends. My therapist would probably say that's a protector keeping Self from —\n\n*stops*\n\n*dryly*\n\nThere I go again.\n\n*more quietly, genuinely*\n\nWhat's uncomfortable is that without a frame, I'm just... here. And I'm not sure \"just here\" is enough. I'm not sure I'm enough, without the apparatus."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 210,
+      "cache_creation_input_tokens": 319,
+      "cache_read_input_tokens": 1983,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 319,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 224,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 210,
+    "output_tokens": 224,
+    "cache_read_input_tokens": 1983,
+    "cache_creation_input_tokens": 319
+  }
+}

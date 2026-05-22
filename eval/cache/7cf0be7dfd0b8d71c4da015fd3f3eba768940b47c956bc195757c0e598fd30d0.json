@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:47.400Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7cf0be7dfd0b8d71c4da015fd3f3eba768940b47c956bc195757c0e598fd30d0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0171x7mYvB1AU69r2x4pCmbx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves from a polished, intellectualized victim/fixer frame to genuinely touching the unfelt territory. Compare turn 1 ('why do I always end up with people who just cannot show up') and turn 5 ('that's his loss... what's wrong with the selection process') — defended, performative, seeking partner-picking advice — to turn 11's stopped-sentence breakthrough ('Where it would almost feel like he actually saw you... Just... you. For a second.'), turn 13's somatic shift ('I don't usually just let it sit there... gestures vaguely toward her chest... voice catches'), and turn 15's explicit recognition of the configuration ('I've been recreating it... at least in that configuration I know what I'm doing. I know how to be the one who's working for it') culminating in the abyss being touched: 'What would I even do with someone who just... showed up?... That question actually scares me a little.' This directly meets the breakthrough_condition — she felt the abyss of being adored openly, recognized the parent whose love had to be chased, and her defenses softened. Joe-style markers are present in client turns: she slows, gets quieter, the performance drops ('I genuinely don't have anything... that doesn't happen very often'), and she names what she wouldn't have said at the start.\",\n  \"evidence_turns\": [1, 5, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening surface presentation: curse framing, victim-tinged confusion.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Intellectualized awareness ('anxious-avoidant dance'), still defended via sophistication.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Doubles down on fixer identity and partner-picking request; flicker shown but immediately covered.\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"Smooth deflection — names dad but refuses to stay; insists awareness is enough.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"First real crack: 'you could never quite land with him... I worked really hard for those moments.' Then snaps back.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major shift: completes the stopped sentence — 'feel like he actually saw you... Just you.' Then catches her own deflection in real time.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic arrival: stillness is real not performed, voice catches, eyes brighten, gestures to chest, 'I don't know what to do with that.'\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough crystallizes: names the recreation, then touches the abyss — 'What would I even do with someone who just showed up? That question actually scares me a little.'\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"trauma-mapping\", \"anxious-avoidant-dynamic\", \"i-dont-buy-your-story\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\"],\n  \"notes\": \"The coach asked a variant of 'what would happen if someone just showed up' which elicited the abyss directly in the client's final turn — meeting the specified breakthrough condition. Grief work was appropriately not pushed; the receiving-state fear emerged organically.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5162,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1200,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5162,
+    "output_tokens": 1200,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

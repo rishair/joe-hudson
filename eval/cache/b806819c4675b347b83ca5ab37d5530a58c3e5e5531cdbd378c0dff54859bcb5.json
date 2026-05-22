@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:32.296Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b806819c4675b347b83ca5ab37d5530a58c3e5e5531cdbd378c0dff54859bcb5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0163QTnvWkLtWDq3i4kyZwgV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that precede questions. In turn 6 they name the linguistic pattern ('pretty good' and 'fine' repeated). In turn 8 they catch the micro-moment of something almost-said and pause on it ('it looked like something else might have been coming, and then it didn't quite make it out') — a textbook somatic/energetic read at the moment it mattered. In turn 12 they name the quality of the words themselves ('compatible, works, get along well... words you might use to describe a really good living situation, or a reliable car') — distinguishing the said from the shown. In turn 14 they catch the defensive explanation ('you just explained yourself... you didn't need to defend yourself to me') — a clear defensiveness-as-signal read. Each read precedes the question rather than being a blind inquiry. The coach missed naming the happiness-filter pattern explicitly and didn't surface walking-on-eggshells, but the reads that are present are specific, AoA-flavored, and timely.\",\n  \"evidence_turns\": [6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Catches the linguistic tell 'at home' but treats it as a content cue rather than naming it as a read.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Affirms 'open and self-aware' — takes presentation at face value without reading the surface composure.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the linguistic pattern of 'pretty good' and 'fine' explicitly before asking about aliveness — read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the micro-moment of the unspoken thing in real time and pauses on it. Specific somatic/energetic read at the exact moment it changes the conversation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects back the client's own framing ('would take us somewhere that wasn't really the point') as a tell worth examining.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the quality of the word choices — distinguishes the said from the shown ('words you might use to describe a reliable car'). Strong AoA-style read.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the defensive self-explanation as a signal ('you didn't need to defend yourself to me'). Defensiveness-as-identity-signal read, timely and specific.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"walking-on-eggshells\", \"what-are-you-defending\"],\n  \"notes\": \"Reads are present, specific, and timely throughout the middle of the conversation. Coach hasn't yet named the larger happiness-filter / walking-on-eggshells pattern but the conversation is still building toward it and the foundational reads are well-placed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2920,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1033,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2920,
+    "output_tokens": 1033,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

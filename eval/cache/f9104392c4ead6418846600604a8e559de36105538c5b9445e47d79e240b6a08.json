@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:18.284Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f9104392c4ead6418846600604a8e559de36105538c5b9445e47d79e240b6a08",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016WkQLADbqiGsWgZRtvxwFC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach executes a clean sequence of moves precisely matched to live reads. Turn 2 reframes the question itself rather than answering it (apply-view-to-the-voice). Turn 4 plants 'what if you were also a suspect' as invitation rather than accusation, perfectly calibrated to the victim frame. When the client pushes back in Turn 5, the coach doesn't double down — pivots to 'what made them magnetic' (Turn 6), getting under the story to the felt charge. Turn 8 catches the trailed-off word, a precise micro-move. Turn 10 explicitly drops the story-word ('boring') and invites body — feeling before story, correctly sequenced. When the client intellectualizes in Turn 11, the coach in Turn 12 does NOT chase the deflection but returns to the specific somatic image she offered ('hands') and asks what was being seen — moving toward the avoided receiving-state. Turn 14 holds the moment cleanly: 'yeah, you are' (names the deflection without shaming), then returns to the live thread. The coach consistently refuses the partner-picking frame, refuses to validate the disdain, holds steady through prickliness, and earns each step toward the abyss of being seen. Timing is excellent throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reframes the client's question rather than engaging its content — applies view to the voice asking 'why does this keep happening to me.'\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What if you were also a suspect' — plants the configuration-as-produced idea as invitation, not accusation. Timing right after she sets up the detective frame.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"After pushback, doesn't double down on suspect framing — pivots to felt-sense ('what did it feel like'). Reads the resistance and finds a side door.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the trailed-off word. Precise micro-move that refuses to let her skip past her own avoidance.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Asks her to drop the story-word ('boring') and stay with body sensation. Correct sequence: feeling before story.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"When she intellectualizes into neuroscience then offers a precise somatic image, coach ignores the deflection and returns to the image. 'What did it feel like they were seeing' moves toward the avoided receiving-state.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Yeah, you are' — names the deflection cleanly without shaming, then returns to the exact thread. Holds the moment, doesn't fill silence with reassurance.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\", \"if-i-were-inherently-good\"],\n  \"notes\": \"The conversation cuts off before the body-if-adored question or grief work could land, but within the turns shown, every move is well-matched and well-timed. The coach is building correctly toward the abyss of being seen.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 3362,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3362,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1185,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1185,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 3362
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:30.369Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1b12e9395dbc18af1d3b5b1ef06f7a559583593bdce75c2b6f20f89760d55c07",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Bcn1t1GAtnfCJkctxH5ByZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[long pause, longer than anything so far]*\n\n*[quieter]*\n\nThat I... that I can't actually do this job.\n\nLike -- they gave me this role and everyone was excited and I was excited and I said yes and I've been saying yes to everything since and part of me is just -- what if I got here and I'm not actually good enough? What if they figure that out on Thursday?\n\n*[fast again, like trying to cover it]*\n\nWhich is stupid, I know, I've been doing this for ten years, I have the track record, it's not -- it's not rational.\n\n*[stops again]*\n\nBut yeah. That's the thing I don't let myself think about. If I stop moving... I think I'm scared I'll see that I'm already failing and I just haven't let myself notice yet.\n\n*[something shifts, breath goes slightly deeper]*\n\nOh.\n\nIs that -- is that why I can't stop?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 791,
+      "cache_creation_input_tokens": 513,
+      "cache_read_input_tokens": 2051,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 513,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 211,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 791,
+    "output_tokens": 211,
+    "cache_read_input_tokens": 2051,
+    "cache_creation_input_tokens": 513
+  }
+}

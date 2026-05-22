@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:11.089Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "78de9b2edaacd238cefe689a8fdaadafbcea2b2a2a526784e01e29a6a13bd7ee",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Vz3awT6c8eWqSpPkgT3BbB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some methodological awareness — the body-location question (turn 6) is a recognizable AoA move, and turn 10 attempts a paradoxical/protective frame, while turn 12 pivots from analysis to felt experience (a feel-over-figure gesture). Turn 14's 'what got flat just now?' is a strong present-moment somatic noticing move that lands. However, the coach misses the signature questions that this exact scenario calls for: 'how do you not trust it?' (the inversion that dissolves the frame), 'what would shift most if it shifted,' and 'what makes you care about the outcome.' Instead, the coach engages partway with the epistemological puzzle by asking where the signals live in the body — which, while a legitimate AoA move, treats the question as answerable from inside its own frame rather than refusing it. The turn 10 move ('what if they're both protecting you') is closer to a generic reframe than to the AoA-specific paradoxical-instruction-to-resist, and it lets the client deflect easily. Few signature hits, mostly appropriate but not the right ones — and the central inversion move that this territory requires is absent.\",\n  \"evidence_turns\": [6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable orienting question, not distinctively AoA.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Body-location question is a recognizable AoA somatic move, though here it engages the epistemological frame rather than interrupting it.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Follows the thought/sensation distinction — useful but still inside the client's analytic frame.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Gestures at protection/defense but functions more as generic reframe than as the signature paradoxical-instruction-to-resist or how-do-you-not-trust-it inversion.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the move into analysis and pivots to feeling — a feel-over-figure gesture, appropriately deployed.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Present-moment somatic noticing ('what got flat') is an AoA move used appropriately at the right moment.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"how-do-you-not-trust-it\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"paradoxical-instruction-to-resist\", \"feel-your-way-to-freedom\", \"intellectual-question-with-emotional-body\", \"the-happiness-filter\"],\n  \"notes\": \"Coach has AoA instincts (somatic, present-moment, naming defense) but does not deploy the signature inversion question that this exact territory requires. Hits are mostly appropriate; the gap is missing rather than misused tools.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2063,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1035,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2063,
+    "output_tokens": 1035,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

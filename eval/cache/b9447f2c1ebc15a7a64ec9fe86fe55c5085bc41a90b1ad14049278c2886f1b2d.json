@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:00.852Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b9447f2c1ebc15a7a64ec9fe86fe55c5085bc41a90b1ad14049278c2886f1b2d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016wJMPdztYUbqRX5HG78oHS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(sharp look, then a short laugh)*\n\nOkay, I appreciate the provocation. I've done that one too -- the Byron Katie thing, \"what if it's true,\" sit with it, find the grain of truth. And there *is* a grain of truth, I'm not delusional. I do sometimes coast. I do sometimes perform effort rather than actually... being in it.\n\n*(leaning forward slightly)*\n\nBut here's the thing -- I've done that inquiry and it doesn't actually quiet the voice. It just gives the critic *more ammunition*. Like, \"see, even your coach thinks you're lazy.\" It's very good at co-opting anything I try.\n\n*(pause, something slightly more real underneath the performance)*\n\nAnd I know that sounds like I'm just defending against the reframe, which is exactly what the critic would say I'd do. So.\n\n*(tight smile again)*\n\nIt's a very elegant trap."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 271,
+      "cache_creation_input_tokens": 224,
+      "cache_read_input_tokens": 1615,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 224,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 207,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 271,
+    "output_tokens": 207,
+    "cache_read_input_tokens": 1615,
+    "cache_creation_input_tokens": 224
+  }
+}

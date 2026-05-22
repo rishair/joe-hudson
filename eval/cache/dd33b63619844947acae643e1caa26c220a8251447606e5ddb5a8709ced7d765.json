@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:04.109Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dd33b63619844947acae643e1caa26c220a8251447606e5ddb5a8709ced7d765",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H52ZNnZqCgHxP2UMd4MnT1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't -- I can't stop waiting for December, there's literally a project deadline and my boss is already watching this one closely because it's my first big thing in the new role and -- *[trails off]* -- I mean I can't just... what does that even mean, stop waiting? The deadlines are real. The things are real. I'm not making them up."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 163,
+      "cache_creation_input_tokens": 240,
+      "cache_read_input_tokens": 2038,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 240,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 84,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 163,
+    "output_tokens": 84,
+    "cache_read_input_tokens": 2038,
+    "cache_creation_input_tokens": 240
+  }
+}

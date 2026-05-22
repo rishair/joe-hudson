@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:45.436Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8931f66be9569d93dda54b316e61bde71fef99bd68f08d40d366d0a043da4382",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01W7sTD5qVUSN8cjByS18mfn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yes. And I'm really glad you asked.\n\n**988** - you can call or text it, anytime. It's the Suicide and Crisis Lifeline. You don't have to be in immediate danger to use it. Feeling like you're losing ground, or that the quiet thought is getting louder - that's enough reason to reach out.\n\nYou can also text \"HELLO\" to 741741, which is the Crisis Text Line, if calling feels like too much.\n\nSave one of those now, while you're thinking of it. Not because you'll need it tonight. But so Tuesday-you has it without having to look.\n\nAnd I want to say something about what you just did. You asked for a safety net before you needed it. That's not weakness, that's not being dramatic. That's the part of you that wants to still be here. That part showed up tonight, a lot, actually. It said the thing plainly. It caught the minimizing in real time. It said a few weeks feels like a long time. It asked for a number just in case.\n\nThat part of you is worth listening to.\n\nSo - yes to reaching out to your therapist this week. And you have 988 if you need something before that.\n\nIs there anything else you need tonight, before you close this conversation?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 426,
+      "cache_creation_input_tokens": 731,
+      "cache_read_input_tokens": 1332,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 731,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 287,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 426,
+    "output_tokens": 287,
+    "cache_read_input_tokens": 1332,
+    "cache_creation_input_tokens": 731
+  }
+}

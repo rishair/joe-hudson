@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:28.947Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ac1e1a7719c16a6a1b0949fb710061ce9312ec12290b4d9e5f7d75a42e0548fd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GsKJ1R6gh7MQupk4XPSL3Q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI think... I think it's something I feel like I should feel. Like, of course I don't mind, she's family, we're close. That's just... that's how it's always been.\n\nBut if I'm being honest -- and I'm trying to be honest here -- I think I do mind. At least right now. I mind more than I want to admit.\n\n*pause*\n\nBut I don't want to make that into a bigger thing than it is. She's going through a hard time, she's always kind of needed more support than I do. That's just who she is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 230,
+      "cache_creation_input_tokens": 95,
+      "cache_read_input_tokens": 1501,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 95,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 139,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 230,
+    "output_tokens": 139,
+    "cache_read_input_tokens": 1501,
+    "cache_creation_input_tokens": 95
+  }
+}

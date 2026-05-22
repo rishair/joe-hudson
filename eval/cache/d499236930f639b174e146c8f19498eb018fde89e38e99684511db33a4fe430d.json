@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:42.172Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d499236930f639b174e146c8f19498eb018fde89e38e99684511db33a4fe430d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019WemaahVp7iBXsxDzAgAyu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\n\"She means it as a compliment, I think.\"\n\nThat's an interesting thing to add. Why the qualifier?\n\nAnd I want to stay with something else you said — that success feels like the expected outcome. Not exciting, not scary, just... expected. And then you move on to the next thing.\n\nI'm wondering — **what is the next thing?** After this launch, what comes next for you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 554,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 100,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 554,
+    "output_tokens": 100,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

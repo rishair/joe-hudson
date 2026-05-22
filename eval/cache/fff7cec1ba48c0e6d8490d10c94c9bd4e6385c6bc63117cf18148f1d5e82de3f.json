@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:44.127Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fff7cec1ba48c0e6d8490d10c94c9bd4e6385c6bc63117cf18148f1d5e82de3f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Phsv5EyhCJTuQviDpinzpi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You called yourself an idiot. That's not frustration — that's something sharper. Where did that come from?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 945,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 945,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

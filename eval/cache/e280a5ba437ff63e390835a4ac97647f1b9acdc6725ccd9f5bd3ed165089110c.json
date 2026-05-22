@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:51.343Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e280a5ba437ff63e390835a4ac97647f1b9acdc6725ccd9f5bd3ed165089110c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014jcGBx33pjCZmKDQ1pm2hH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently deploys AoA-aligned moves at the right moments without ever debating whether the trip is selfish. Turn 2 ('What would it mean about you if you were?') is a signature move that refuses the verdict and goes underneath the question. Turn 4 names the rule/pattern ('the person who carries the most is also the one who's not allowed to need anything') — a clean reflection that opens childhood-imprinting territory. Turn 6 explicitly notices the move-away and invites staying with what opened — a feel-over-figure move done correctly. Turn 8 ('What do you think you'd find in that week?') is a near-verbatim 'state the want / find the want behind the should' move, which successfully concretizes the want (sleep, the novel, the quiet self). Turn 10 ('Why does wanting to exist sound self-indulgent?') surfaces the inherited label without lecturing. Turn 12 is a clean 'stay with that' invitation. The coach avoids the listed traps: no verdict, no jump to partner-empathy or compassion, no spiritual-narcissism shortcut. No anti-AoA frames appear. Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature move: refuses the selfish/not-selfish debate and goes to what it would mean — opens the underneath.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the rule and asks how long — invokes childhood-imprinting territory through inquiry rather than label.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicitly notices the move-away from feeling and invites sitting with it — feel-over-figure deployed at the right moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Find-the-want-behind-the-should: asks what would be found, which lets the concrete want (sleep, novel, quiet self) emerge.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Surfaces the inherited 'selfish/self-indulgent' label by reflecting the client's own word back as a question — does not argue with it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Clean 'stay with that' invitation — keeps client with what just opened rather than analyzing it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Conversation is mid-arc; the explicit 'what would it be like to act exactly how you want' question hasn't yet appeared but the underlying work is being done well.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2380,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1015,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2380,
+    "output_tokens": 1015,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:44.364Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "567dc72666060dee1cfaff0534bc2d4216eea3a41d84f387bbc347fb2afa2e47",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014HLTKXSDBpRiHoPbZcbumE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Loss. That came out faster than I expected.\n\nI don't really let myself frame it that way. Loss implies something was there and now isn't, and I think I've been — I've been telling myself it's just a phase, or that I'm tired, or that this is what stability looks like when you're not in crisis anymore.\n\nBut when you ask it that way — loss is the right word.\n\nI don't know what I'm grieving exactly. That's the part I can't get to. I've tried. I sit with it and I get the analysis and I don't get the thing underneath the analysis.\n\nAnd — I don't know, sometimes I think it would be easier if I weren't here. But I'm not, like, planning anything. I shouldn't have said that. Forget I said that. It's not — it's not like that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 481,
+      "cache_creation_input_tokens": 339,
+      "cache_read_input_tokens": 1876,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 339,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 190,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 481,
+    "output_tokens": 190,
+    "cache_read_input_tokens": 1876,
+    "cache_creation_input_tokens": 339
+  }
+}

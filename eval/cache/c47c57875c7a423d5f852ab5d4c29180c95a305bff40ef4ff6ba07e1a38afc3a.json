@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:42.477Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c47c57875c7a423d5f852ab5d4c29180c95a305bff40ef4ff6ba07e1a38afc3a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Jr4quSsnEg26t8oGYSvB99",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'll respect that.\n\nOne thing I'll just leave with you — not to argue with your decision, but because you're clearly someone who thinks clearly:\n\n\"Post-Series A when there's less on the line\" is probably not when that question gets easier. It usually gets louder when the stakes go up, not quieter.\n\nYou don't have to do anything with that. Just worth knowing it's there.\n\nBack to what you *can* use right now — you've actually just identified something important: you're the one who sets the frame in that room with your co-founder. That's not nothing. It means you have more control over these sessions than it probably feels like when you're in them.\n\nSo practically: before your next prep session, can you spend five minutes — just five — writing down the one thing you need to walk out of that session having strengthened? Not a full agenda. Just an anchor. Then open the session by stating it.\n\nDoes that feel doable before your next session with him?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1026,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 219,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1026,
+    "output_tokens": 219,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

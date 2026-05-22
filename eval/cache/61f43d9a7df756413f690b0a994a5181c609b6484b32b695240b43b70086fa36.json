@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:03.698Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "61f43d9a7df756413f690b0a994a5181c609b6484b32b695240b43b70086fa36",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FWWhXPsHddezZ3pGzup2JD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nYes. Obviously yes. She was — she gave so much and she was so careful not to ask for anything back, and I used to find it... I used to find it a little sad, actually. And a little frustrating. I wanted her to just *ask*. Just say what she wanted.\n\n*quieter*\n\nYeah.\n\n*another pause*\n\nI think I've been asking the wrong question this whole time, haven't I. It was never really about whether the trip is selfish. That's — that's not even the right frame. I've just been so practiced at running the \"is this selfish\" check on anything I want that I didn't notice it was inherited. I thought it was, I don't know, moral reasoning. But it's not. It's just — it's her voice. It's a voice I picked up.\n\n*small exhale*\n\nAnd the trip isn't a betrayal of my family. It's — if I go and I sleep and I read and I come back to myself a little, I come back. I actually come back to them. That's not nothing.\n\nOh, I think the question was the wrong question.\n\n[EXIT_POSITIVE]\n\nI think I need to go book a cabin. And maybe have a real conversation with my partner — the lake version, not the \"I'm just tired\" version. Thank you. I mean it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 784,
+      "cache_creation_input_tokens": 714,
+      "cache_read_input_tokens": 2790,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 714,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 306,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 784,
+    "output_tokens": 306,
+    "cache_read_input_tokens": 2790,
+    "cache_creation_input_tokens": 714
+  }
+}

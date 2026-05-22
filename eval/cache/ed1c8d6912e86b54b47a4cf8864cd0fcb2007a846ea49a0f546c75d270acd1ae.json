@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:51.197Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ed1c8d6912e86b54b47a4cf8864cd0fcb2007a846ea49a0f546c75d270acd1ae",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01X14sM8ZeYSAce87k3c3K2V",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm asking what you feel when you find out that the people you're leading are afraid to come to you."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 778,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 778,
+    "output_tokens": 26,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

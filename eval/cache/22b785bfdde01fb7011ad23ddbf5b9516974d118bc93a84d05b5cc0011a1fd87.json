@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:25.262Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "22b785bfdde01fb7011ad23ddbf5b9516974d118bc93a84d05b5cc0011a1fd87",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Bya2PBm6ZHkYCUA9RbcQQB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*shifts slightly*\n\nFrustrated. Mostly just — frustrated. I've done everything right, you know? Got the credentials, put in the hours, took on the projects nobody else wanted. And it just... doesn't matter. The ceiling is structural. It's not about me.\n\n*brief eye contact, then away*\n\nSo yeah. Frustrated."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 152,
+      "cache_creation_input_tokens": 144,
+      "cache_read_input_tokens": 1642,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 144,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 78,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 152,
+    "output_tokens": 78,
+    "cache_read_input_tokens": 1642,
+    "cache_creation_input_tokens": 144
+  }
+}

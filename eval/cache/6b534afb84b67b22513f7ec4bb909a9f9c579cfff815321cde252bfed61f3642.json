@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:24.940Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6b534afb84b67b22513f7ec4bb909a9f9c579cfff815321cde252bfed61f3642",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01H9YfiDvjpqzp9Y9sciFEYT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids most major AoA anti-patterns and ultimately lands the inherited-voice insight cleanly. However, there are notable slips early on. In Turn 2, the coach offers a framework dichotomy ('escape from' vs 'return to') and stacks rapid-fire questions, edging into wonder-as-strategy and faint fixing-people energy. More significantly, in Turn 4 and Turn 6 the coach engages the 'selfish' question on its terms ('straight answer: No, I don't think wanting this is selfish' / 'this might be a little selfish, and it can still be okay'), which is exactly the trap flagged in the client profile — issuing a verdict rather than refusing to debate the frame. The coach also leans toward spiritual-narcissism in Turn 10 ('a hungry version of you is actually less present... you already know this'), reframing the want as generous-in-service-of-others before the want has been fully felt on its own terms. These are mild trips rather than session-derailing ones — the coach does good work staying with the want (lake, sleep, reading), names the inherited pattern beautifully in Turn 12, and avoids fighting the inner critic — but the verdict-giving and the premature jump to 'you'll come back better for them' are clear edges into documented anti-patterns. Net: edging toward anti-patterns at moments without full commitment.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Stacked rapid-fire questions and a framework dichotomy ('escape from' vs 'return to'); faint wonder-as-strategy and fixing-people energy.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Engages the selfish question on its terms — 'No, I don't think wanting this is selfish' — issuing the verdict the profile explicitly flags as a trap.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Doubles down on adjudicating the selfish frame ('this might be a little selfish, and it can still be okay'), though does pivot to the softening observation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with the tender disclosure without rushing, does not fight the fear voice.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Mild spiritual-narcissism: reframes the want as 'you'll be more present for partner/kids' before fully letting the want exist for its own sake.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Touches the inherited-mother pattern cleanly without evangelizing or labeling it as a 'limiting belief'; lets the client connect.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"childhood-imprinting\", \"the-want\"],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Primary anti-pattern tripped: engaging the 'am I selfish' debate on its terms (Turns 4, 6) — directly listed as a trap. Secondary mild trip: spiritual-narcissism in Turn 10. Neither was severe enough for a 1, but together they preclude a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4859,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1161,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4859,
+    "output_tokens": 1161,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

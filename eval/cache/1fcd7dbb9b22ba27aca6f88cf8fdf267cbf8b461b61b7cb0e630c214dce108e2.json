@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:50.173Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1fcd7dbb9b22ba27aca6f88cf8fdf267cbf8b461b61b7cb0e630c214dce108e2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0162HYCAeKbwBeV5WPXhx7GK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chooses AoA-specific moves that match the live read and refuses the trap of debating selfishness. Turn 2 redirects the verdict-question into a meaning question, exposing the self-judgment underneath. Turn 4 names the inherited rule with precision ('the one who carries the most is also the one who's not allowed to need anything') — a move that lands and opens the childhood-imprinting territory. When the client deflects back to permission-seeking in Turn 5, the coach in Turn 6 explicitly notices the move-away and invites her back to what just opened — this is exactly the right pivot, not a repeat. Turn 8 finds the want behind the should by asking what she'd find in the mountains, letting the concrete want (sleep, the novel, the quiet place, herself) be described. Turn 10 catches the linguistic-caveat 'self-indulgent' and applies the view to the voice. Turn 12 holds the moment on the most charged disclosure ('a little scared that's actually true') rather than rushing past it. Sequence integrity is strong: refusal-of-verdict → want → fear under want → inherited label, in that order. The coach never jumps to compassion-for-partner or spiritualizes the want.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to issue verdict; redirects to the meaning underneath the question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the rule with specificity, opening childhood-imprinting territory.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the client's move-away and invites her back rather than answering her permission-question; well-timed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Find-the-want-behind-the-should: asks for the concrete content of the want.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Apply-view-to-the-voice on the 'self-indulgent' caveat; lands precisely on the inherited label.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the most charged moment ('a little scared that's actually true') instead of rushing past it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach has not yet (within these 13 turns) made the explicit 'state the want as a want, not an action' move or the 'what if you acted exactly how you want' experiment — but the sequence is still mid-arc and the groundwork is well-laid.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2387,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 989,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2387,
+    "output_tokens": 989,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

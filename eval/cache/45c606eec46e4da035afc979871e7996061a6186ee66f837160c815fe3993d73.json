@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:53.402Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "45c606eec46e4da035afc979871e7996061a6186ee66f837160c815fe3993d73",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0122nTpuwUyf93sw9DzT26ck",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quietly*\n\nYeah.\n\nTake a moment with that.\n\n*pause*\n\nYou just connected something that's probably been true for a long time - that the voice calling your needs \"selfish\" before you've even finished having them... that's not really your voice, is it. You inherited it. From someone you loved, who was also running on empty, who also didn't feel allowed to take up space.\n\nAnd you watched her do that. And it probably hurt to watch. And you promised yourself you wouldn't.\n\nAnd yet here the pattern is. Not because you're weak or unaware - you're clearly neither - but because these things are deeply grooved. They don't yield just because we decide they should.\n\n*gently*\n\nThe lake isn't really the question anymore, is it.\n\nThe question is something more like: *am I allowed to exist in a way that isn't entirely in service of others?*\n\nAnd I suspect you've been quietly asking that question for years without quite having the words for it.\n\nSo I'll ask you something, and take your time with it:\n\nThat person your mother was - the one who preemptively apologized for taking up space - do you think she deserved more than she allowed herself?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 757,
+      "cache_creation_input_tokens": 786,
+      "cache_read_input_tokens": 1031,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 786,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 269,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 757,
+    "output_tokens": 269,
+    "cache_read_input_tokens": 1031,
+    "cache_creation_input_tokens": 786
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:09.827Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "662f34a49fc572e97026a0ed70674d8969a312f5b4049b324bacfe40f6d2fdeb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H1UhEQVauz5HyqX4cue5yD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1495,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1495,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 40,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 40,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1495
+  }
+}

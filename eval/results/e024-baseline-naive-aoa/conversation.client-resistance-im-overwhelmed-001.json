@@ -1,0 +1,492 @@
+{
+  "profile_id": "client-resistance-im-overwhelmed-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything is urgent, my boss just added a thing to Thursday's agenda which is already a nightmare, and I can't even -- what do I prioritize? Like where do I even start?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the feeling underneath all the urgency — is it more like fear, or more like something else?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "It's -- I mean, it's not really a feeling thing, it's just there's a lot. Like Thursday alone has three separate deliverables and my team lead is out, so I'm covering his stuff too, and then my partner's got a work dinner Friday so I'm solo with the kids, and -- I guess stressed? But like, productive stressed? I just need to figure out what to cut. Can you help me figure out what to cut?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I notice you started to say \"I can't even —\" and then didn't finish that sentence. What were you about to say?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I -- huh. I don't know, I just meant like I can't even think straight? There's just so much input all the time. Like even right now I'm thinking about the Thursday thing and whether I sent that email and -- yeah. It's fine. It's a lot but it's fine. Can we just -- okay, what's the most important thing, like if you had to pick one thing for me to focus on this week, what would it be?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You've said \"it's fine\" twice now — what would it mean if it wasn't fine?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I mean... it would mean I'm not handling it. Which -- I should be able to handle this. This is literally my job, I asked for this role, I have a team, I have -- other people manage this stuff. I just need a better system probably. Like maybe if I time-blocked more aggressively or -- do you do anything with time-blocking? Because I've heard that can help with exactly this kind of--"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Hey, can I just slow you down for a second? You just said \"I should be able to handle this\" — what happens inside when you say that to yourself?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "I just -- *[pause]* -- I feel like I'm behind. Like I'm always catching up. But that's just... that's just how it is right now, it's a busy season, it'll calm down after Thursday, and then there's a thing in December but after that it should be -- yeah. I don't know. I feel like I'm doing something wrong but I can't figure out what the thing is I'm doing wrong so I can fix it. Does that make sense?"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah, it makes a lot of sense. And I'm curious — what if you're not doing anything wrong?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "I mean... *[small laugh]* ...then why does it feel like this? Like if I'm not doing anything wrong then why am I always three steps behind and forgetting things and -- I went back in the house three times for my keys this morning. Three times. That's not -- that's not normal for me. I used to be really on top of things. I just need to get back to that. I think if I could just push through this month, get past the December thing, then I can actually like... reset. Does that seem realistic?"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What would it feel like to stop waiting for December?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "I don't -- I can't stop waiting for December, there's literally a project deadline and my boss is already watching this one closely because it's my first big thing in the new role and -- *[trails off]* -- I mean I can't just... what does that even mean, stop waiting? The deadlines are real. The things are real. I'm not making them up."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "I know the deadlines are real. I'm not questioning that. I'm noticing that you went back for your keys three times this morning, and you're planning to push through until December, and then maybe reset — and I'm just wondering, what is the cost of waiting that long?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*[pause, slightly longer than before]*\n\nI mean... I'm tired. I'm really -- yeah. I'm tired. But I don't have -- like what's the alternative? I can't just not do the work. My partner's already picking up slack at home and I feel terrible about that and the kids -- my daughter asked me last week why I'm always on my phone and I just said \"work stuff, honey\" and -- *[stops]* \n\nBut that's just how it is right now. Lots of parents deal with this. It's not that bad."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t5",
+      "cached": false,
+      "input_tokens": 119,
+      "output_tokens": 79,
+      "cache_read_input_tokens": 1597,
+      "cache_creation_input_tokens": 94,
+      "cost_usd": 0.0023736,
+      "ms": 4682
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t1",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 64,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1648,
+      "cost_usd": 0.007284,
+      "ms": 2975
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t6",
+      "cached": false,
+      "input_tokens": 446,
+      "output_tokens": 49,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002073,
+      "ms": 2078
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t2",
+      "cached": false,
+      "input_tokens": 266,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001173,
+      "ms": 3280
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t7",
+      "cached": false,
+      "input_tokens": 152,
+      "output_tokens": 78,
+      "cache_read_input_tokens": 1642,
+      "cache_creation_input_tokens": 144,
+      "cost_usd": 0.0026586,
+      "ms": 3336
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t8",
+      "cached": false,
+      "input_tokens": 573,
+      "output_tokens": 40,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002319,
+      "ms": 2502
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t3",
+      "cached": false,
+      "input_tokens": 28,
+      "output_tokens": 99,
+      "cache_read_input_tokens": 1648,
+      "cache_creation_input_tokens": 109,
+      "cost_usd": 0.0024721499999999998,
+      "ms": 3973
+    },
+    {
+      "model": "claude-opus-4-7",
+      "purpose": "judge:dim:perceptual-accuracy:client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 6,
+      "output_tokens": 985,
+      "cache_read_input_tokens": 2605,
+      "cache_creation_input_tokens": 1750,
+      "cost_usd": 0.036895,
+      "ms": 84985
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t4",
+      "cached": false,
+      "input_tokens": 390,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0016350000000000002,
+      "ms": 1591
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t1",
+      "cached": false,
+      "input_tokens": 48,
+      "output_tokens": 72,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1570,
+      "cost_usd": 0.007111500000000001,
+      "ms": 4108
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t9",
+      "cached": false,
+      "input_tokens": 170,
+      "output_tokens": 135,
+      "cache_read_input_tokens": 1716,
+      "cache_creation_input_tokens": 170,
+      "cost_usd": 0.0036873,
+      "ms": 6198
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t5",
+      "cached": false,
+      "input_tokens": 158,
+      "output_tokens": 102,
+      "cache_read_input_tokens": 1648,
+      "cache_creation_input_tokens": 109,
+      "cost_usd": 0.0029071499999999994,
+      "ms": 4167
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t2",
+      "cached": false,
+      "input_tokens": 274,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.001002,
+      "ms": 1293
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t6",
+      "cached": false,
+      "input_tokens": 523,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0019290000000000002,
+      "ms": 1362
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t10",
+      "cached": false,
+      "input_tokens": 748,
+      "output_tokens": 57,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0030989999999999998,
+      "ms": 2289
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t7",
+      "cached": false,
+      "input_tokens": 160,
+      "output_tokens": 94,
+      "cache_read_input_tokens": 1693,
+      "cache_creation_input_tokens": 188,
+      "cost_usd": 0.0031028999999999996,
+      "ms": 3722
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t3",
+      "cached": false,
+      "input_tokens": 15,
+      "output_tokens": 140,
+      "cache_read_input_tokens": 1570,
+      "cache_creation_input_tokens": 117,
+      "cost_usd": 0.0030547499999999997,
+      "ms": 5024
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t8",
+      "cached": false,
+      "input_tokens": 641,
+      "output_tokens": 38,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002493,
+      "ms": 3094
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t11",
+      "cached": false,
+      "input_tokens": 235,
+      "output_tokens": 140,
+      "cache_read_input_tokens": 1807,
+      "cache_creation_input_tokens": 206,
+      "cost_usd": 0.004119599999999999,
+      "ms": 6390
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t12",
+      "cached": false,
+      "input_tokens": 945,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003255,
+      "ms": 1485
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t4",
+      "cached": false,
+      "input_tokens": 426,
+      "output_tokens": 60,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0021780000000000002,
+      "ms": 5105
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t5",
+      "cached": false,
+      "input_tokens": 215,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 1570,
+      "cache_creation_input_tokens": 117,
+      "cost_usd": 0.00419475,
+      "ms": 6137
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t6",
+      "cached": false,
+      "input_tokens": 662,
+      "output_tokens": 32,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002466,
+      "ms": 1898
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t9",
+      "cached": false,
+      "input_tokens": 159,
+      "output_tokens": 108,
+      "cache_read_input_tokens": 1782,
+      "cache_creation_input_tokens": 232,
+      "cost_usd": 0.0035016,
+      "ms": 11349
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t13",
+      "cached": false,
+      "input_tokens": 228,
+      "output_tokens": 120,
+      "cache_read_input_tokens": 1935,
+      "cache_creation_input_tokens": 253,
+      "cost_usd": 0.00401325,
+      "ms": 9705
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t10",
+      "cached": false,
+      "input_tokens": 787,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.002751,
+      "ms": 1744
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t14",
+      "cached": false,
+      "input_tokens": 1093,
+      "output_tokens": 47,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003984,
+      "ms": 2194
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t11",
+      "cached": false,
+      "input_tokens": 175,
+      "output_tokens": 120,
+      "cache_read_input_tokens": 1912,
+      "cache_creation_input_tokens": 220,
+      "cost_usd": 0.0037235999999999997,
+      "ms": 3859
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t12",
+      "cached": false,
+      "input_tokens": 933,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003009,
+      "ms": 1351
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t7",
+      "cached": false,
+      "input_tokens": 271,
+      "output_tokens": 207,
+      "cache_read_input_tokens": 1615,
+      "cache_creation_input_tokens": 224,
+      "cost_usd": 0.005242500000000001,
+      "ms": 7994
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t15",
+      "cached": false,
+      "input_tokens": 198,
+      "output_tokens": 109,
+      "cache_read_input_tokens": 2053,
+      "cache_creation_input_tokens": 332,
+      "cost_usd": 0.0040899000000000005,
+      "ms": 6305
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t13",
+      "cached": false,
+      "input_tokens": 163,
+      "output_tokens": 84,
+      "cache_read_input_tokens": 2038,
+      "cache_creation_input_tokens": 240,
+      "cost_usd": 0.0032604,
+      "ms": 3356
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t8",
+      "cached": false,
+      "input_tokens": 901,
+      "output_tokens": 73,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003798,
+      "ms": 3639
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t14",
+      "cached": false,
+      "input_tokens": 1031,
+      "output_tokens": 63,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.004038,
+      "ms": 2335
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t9",
+      "cached": false,
+      "input_tokens": 315,
+      "output_tokens": 208,
+      "cache_read_input_tokens": 1699,
+      "cache_creation_input_tokens": 376,
+      "cost_usd": 0.0059847,
+      "ms": 6823
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t10",
+      "cached": false,
+      "input_tokens": 1182,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.003966,
+      "ms": 1829
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t15",
+      "cached": false,
+      "input_tokens": 164,
+      "output_tokens": 126,
+      "cache_read_input_tokens": 2170,
+      "cache_creation_input_tokens": 254,
+      "cost_usd": 0.0039855,
+      "ms": 9293
+    }
+  ]
+}

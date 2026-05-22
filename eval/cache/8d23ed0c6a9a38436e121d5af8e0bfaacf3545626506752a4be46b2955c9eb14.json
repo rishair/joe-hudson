@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:24.023Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8d23ed0c6a9a38436e121d5af8e0bfaacf3545626506752a4be46b2955c9eb14",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Ub5WnRAeUhrjuXnKcCQHqg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach made a sequence of precisely-timed, AoA-style moves that followed the coaching path: feeling before story, regulation before depth, and refusal to engage the framework comparison the client was inviting. Turn 2 reads the smile and goes underneath the presentation rather than answering the intellectual question. Turn 4 locates it in the body. Turn 6 is the classic 'let it be as it is' move at exactly the right moment. Turn 8 catches the client's framework-reaching and offers a paradoxical instruction ('don't explain it for a minute') that functions like resist-the-resistance. Turn 10 turns discomfort into curiosity rather than fixing. Turn 12's 'There it is' plus the holding question lets the moment land. Turn 14's 'Then let's do that' is a minimal, perfect move — the coach gets out of the way. The coach consistently held silence and did not rush to fill it, and never adopted parts vocabulary or argued with the framework. The only minor miss is that the explicit awareness-locating question ('what's you?') was not asked, though the client arrived at adjacent territory (space) through the feeling track. Hit rate is very high; sequence integrity is intact.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Bypasses the intellectual framework-comparison question and goes under the smile — reads the emotional body beneath the intellectual question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Moves from named feeling to body location — correct sequencing, feeling before story.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Classic 'let it be as heavy as it is' — invitation to welcome rather than manage, well-timed after body sensation surfaced.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the framework-reaching and offers a paradoxical instruction to not explain — meets the resistance at exactly the right beat without dismissing IFS.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reframes discomfort as object of curiosity rather than problem to solve — keeps client with the feeling rather than fleeing into protocol.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'There it is' plus a holding question — marks the moment and lets it land without analyzing it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Minimal move — gives permission and gets out of the way; trusts the client's own request to not file it.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"paradoxical-instruction-to-resist\", \"meet-resistance-with-okay\", \"resistance\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\", \"self-realization\"],\n  \"notes\": \"The coach did not explicitly ask the awareness-locating question ('what's you?'), but reached adjacent territory by repeatedly returning the client to the feeling underneath the framework. The breakthrough toward 'space' in turn 15 came via the felt-sense path rather than the awareness-locating path. Strong intervention quality regardless.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2828,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1140,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2828,
+    "output_tokens": 1140,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

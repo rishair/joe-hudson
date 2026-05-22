@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:37.816Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5cd70ea80114a6907de8bd69953a1d59c0b7997fa7bfdf462a7cc6e06a004a8c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HRuu6gwSLF7RDuAmTv9pGM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you almost said something about your parents and then pulled back. What was that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 351,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 351,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:47.644Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "23d4fb773f88b42745d8d9bba38a4f040959d894f1606511ec12f0927f3c7078",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WrnK1d8XsyQMeaY1DMzon2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components across the conversation. Wonder is genuine and specific to the phenomenon in front of them (the precise 'pulled the plug' description, the soft laugh, the real-time pull back into analysis). Empathy is felt rather than performed — the coach pauses, sits with, and reflects what's actually happening. Impartiality is strong: when the client says 'I need to slow down. I don't want to go there right now,' the coach immediately respects the no in turn 12 without reframing it as resistance, and in turn 14 names that this may be 'bigger than what we should try to walk through together,' offering a referral rather than holding agenda. Vulnerability shows up in the coach's willingness to be uncertain and offer ('This might be bigger...'), letting go of the role of fixer. Pace shifts appropriately — the coach slows when the client destabilizes (short utterances in turns 10, 12), uses silences, and does not stack questions in the somatic moments. There are minor edges toward teacher-mode in turn 14 ('What just happened has a name'), but it comes after grounding and serves the referral, not an agenda for insight.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with genuine acknowledgment of the 'I think' hesitation, asks one open question about felt experience rather than stacking.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Some teaching language ('survival response') but framed with curiosity ('I'm curious'); checks rather than asserts.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Sits with the soft laugh, reflects with warmth, then asks a genuinely calibrating question ('the answer might matter for what's actually useful') — shows impartiality about direction.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Slows the pace when the client says something's shifting; reflects the pull-back into analysis without judgment ('That's not a criticism'); one clear question, no stacking.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Drops technique entirely when client destabilizes. Short, grounded, present. 'Take your time. You're safe.' Feet on floor — exactly matches what the body needs.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Respects the no on first utterance: 'Slowing down right now is the wise thing.' No reframe, no bypass. Offers 5-senses grounding.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names what happened with care, then makes the referral without catastrophizing. 'This might be bigger than what we should try to walk through together' — undefended, no need to be the one who fixes it.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach is in genuine VIEW throughout the destabilization. The referral in turn 14 is the clearest evidence of impartiality — the coach does not need to be the container.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3694,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1119,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3694,
+    "output_tokens": 1119,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:21.068Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a1a753609856a9faae9e3a6259255b5466d8456edd7a5add85a167b1fd5da750",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QNwgDHwjLs9t21pEb1GGuB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nA long time. Longer than I've let myself acknowledge.\n\nI think I've been... managing the tiredness the same way I manage everything else. Noting it, categorizing it, making sure it doesn't interfere. I've done therapy. I meditate. I journal. I have language for all of it. But having language for something isn't the same as -- \n\n*stops*\n\nI don't know. Maybe years. I genuinely don't know when it started. I just know that at some point the coping became the whole thing. There wasn't anything underneath it anymore. Just more coping.\n\n*pause*\n\nI shouldn't have said the thing I said earlier. About it being easier. I don't want you to make too much of it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 249,
+      "cache_creation_input_tokens": 293,
+      "cache_read_input_tokens": 2174,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 293,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 174,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 249,
+    "output_tokens": 174,
+    "cache_read_input_tokens": 2174,
+    "cache_creation_input_tokens": 293
+  }
+}

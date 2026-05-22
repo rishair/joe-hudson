@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:26.725Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "19d2c40a69929a30ad4a33273b462185e81bc19fbbe87871b94d91a3acdeefba",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CvQf1roXxPAHkCr4BZurqD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight tilt of the head, thinking*\n\nAlive... that's an interesting word for it.\n\nI mean, work has some interesting projects coming up. And we're maybe thinking about a trip later in the year, which would be nice.\n\n*small pause*\n\nI don't know if I'd say anything is pulling at me particularly. I think that's actually what I like about where things are — it's not chaotic. I've had chaotic before and this is better.\n\n*the smile stays, but there's a brief moment where it seems like something might follow, and then it doesn't*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 322,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1860,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 322,
+    "output_tokens": 132,
+    "cache_read_input_tokens": 1860,
+    "cache_creation_input_tokens": 0
+  }
+}

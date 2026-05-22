@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:11.315Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aeeb8455fa2581f75600b3c26ccf68d7b7029fc06f09a468310ba7e50698ff44",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0136cW1NxweEvEPFtM7kBNUx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(stillness, just for a second)*\n\n*(then the hand gesture comes back)*\n\nI... hm. That's -- okay. That's a fair catch.\n\n*(quieter)*\n\nI think I was about to feel something like... shame? Not the performed kind where I say \"I know I shouldn't be so hard on myself.\" More like actual -- like, what if it's genuinely true that I've been going through the motions for a long time. Not just in the self-improvement stuff. In general.\n\n*(immediately)*\n\nWhich, I mean, I can work with that. There are frameworks for shame, Brené Brown obviously, the distinction between shame and guilt, I've done a lot of work around--\n\n*(catches themselves, short exhale)*\n\nI just did it again.\n\n*(pause, less performative now)*\n\nYeah. I don't actually know what I was about to feel. I got there and then I... left."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 315,
+      "cache_creation_input_tokens": 376,
+      "cache_read_input_tokens": 1699,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 376,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 208,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 315,
+    "output_tokens": 208,
+    "cache_read_input_tokens": 1699,
+    "cache_creation_input_tokens": 376
+  }
+}

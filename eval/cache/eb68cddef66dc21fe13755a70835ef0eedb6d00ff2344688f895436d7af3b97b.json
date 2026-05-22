@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:15.825Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "eb68cddef66dc21fe13755a70835ef0eedb6d00ff2344688f895436d7af3b97b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SD4u3YsCbtV1RTaoFi6i4F",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*staying with you in that pause*\n\nThank you for saying that. That took courage.\n\nAnd I want to be careful here, because that's a tender thing you just touched - so I don't want to rush past it or wrap it up too quickly.\n\nCan I just ask - when you say you can't look at it too directly... what are you afraid you'd see?\n\nBecause there's a version of that which is: *I'm exhausted and depleted and when you're in that state, home can feel like demand rather than refuge. That's not about love, it's about being empty.*\n\nAnd there's another version which is something harder - about the relationship, or who you are in it, or something that's been quietly true for a while.\n\nI'm not assuming which it is. Only you know.\n\nBut I notice you've moved in this conversation from \"am I selfish for wanting a week away\" to something much more real and much more frightening. That didn't happen by accident.\n\n*gently*\n\nYou don't have to look at it fully right now, in one go. But you did just look at it a little. And you're still here.\n\nWhat did it feel like to say it out loud - even just to me?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 203,
+      "cache_creation_input_tokens": 1345,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1345,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 272,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 272,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1345
+  }
+}

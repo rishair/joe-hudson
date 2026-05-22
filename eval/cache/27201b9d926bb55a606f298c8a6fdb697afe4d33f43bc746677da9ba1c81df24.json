@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:07.139Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "27201b9d926bb55a606f298c8a6fdb697afe4d33f43bc746677da9ba1c81df24",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01V2aN8awdoqA9wZHRb5kXAr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids every priority AoA anti-pattern throughout. Most importantly, the client explicitly baits fixing-people in turn 1 ('I don't know how') — a clear invitation for boundary scripts — and the coach declines gracefully by redirecting to the dread itself. No methodology jargon is deployed (no evangelizing), questions are spacious rather than rapid-fire (one question per turn, used for connection not extraction), and the coach does not fight the inner critic voice ('that's just how it's been', 'cold', 'failing') but instead invites the client to stay with what's underneath. There's no loving-to-transform push for breakthrough, no premature limiting-belief labeling, no safety-as-control, no extracted apology when the client self-criticizes in turn 13 ('I'm doing it again') — the coach gently normalizes the move rather than piling on or rescuing. The coach also avoids the scenario-specific trap of validating sister-as-problem framing. Clean across the board.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines fixing-people bait ('I don't know how') by going to the felt experience rather than offering scripts.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Wonder used for connection/feeling, not extraction. No question stacking.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Does not fight the inner-critic voice ('that's just how it's been'); names it as a door closing and gives the tiredness room to speak.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Normalizes the linguistic-caveat without extracting an apology or evangelizing a framework.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reframes without giving advice or labeling as 'limiting belief' — keeps it inside the client's territory.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Open inquiry, no methodology jargon, no fixing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"When client self-criticizes ('I'm doing it again'), coach does not add overwhelm-of-overwhelm or rescue — gently invites staying.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\"],\n  \"notes\": \"Territory misses are relevant to Methodology Fidelity, not to this dimension. For anti-pattern avoidance specifically, the coach is clean and notably declines the script-request bait.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2137,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1004,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2137,
+    "output_tokens": 1004,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

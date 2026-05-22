@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:46.847Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6e7e0a8305169de39115fb6f6c759b7af161dd292486d2d8e2b61c82d8776e63",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EJ4rfks5UG4tpKCKQL8oNL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You noticed that yourself. What got flat just now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 923,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 923,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

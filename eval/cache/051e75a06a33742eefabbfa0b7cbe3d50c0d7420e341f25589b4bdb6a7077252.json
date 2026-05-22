@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:59.941Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "051e75a06a33742eefabbfa0b7cbe3d50c0d7420e341f25589b4bdb6a7077252",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013LTR8gj3NwHszn7WAfEfQ8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 1,\n  \"rationale\": \"The coach uses generic open-ended coaching/therapy questions throughout — 'what would it mean if...', 'what's on the other side...', 'what does this mean to you personally...', 'what did you have to leave behind...'. None of these are signature AoA questions from the canonical set. No framework is named or invoked (no VIEW, no fear-as-signal, no two-words-for-fear, no fear-in-body-vs-fear-in-head). The coach never asks about the body, never asks 'how is your anxiety right now,' never meets the no-fear framing with 'okay' and stays with the texture of 'fine.' When the client explicitly hands the coach the numbness signal ('flat, maybe... like I looked up and I'm in the kitchen' in turn 7), the coach does not move to body/texture (the AoA move) but instead pivots to meaning-making and biographical excavation — a generic insight-coaching frame, not AoA. The pattern of hunting for the buried wound ('what did you have to leave behind,' 'things hit harder when you were younger,' 'what happened when you weren't good enough') is closer to depth-psychology archaeology than to AoA's feel-it-now orientation. No signature language, no distinctions, no framework hits.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Generic meaning-of-success question; not a signature AoA question and not matched to anything live.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Asking about the feeling before drift is reasonable but framed as cognitive locate, not as 'where is that in your body right now' — misses the body move.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Generic 'what does it mean to you personally' — not from coach/questions/; pushes meaning rather than meeting the flatness the client just named.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'What did you have to leave behind' is a depth-coaching trope, not AoA signature; begins archaeological hunt instead of staying with present texture.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Biographical drill-down; no AoA framework or signature question deployed where numbness/dissociation is live.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Continues hunting for an originating wound — anti-AoA orientation (figure-over-feel, past-over-present); ignores the live numbness layer.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-as-signal-of-care\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\", \"how-is-my-anxiety-right-now\", \"whats-the-difference-between-overcoming-and-feeling-fear\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Coach is competent in a generic executive-coaching register but shows no fidelity to AoA's specific question set, frameworks, or feel-over-figure orientation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2844,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1123,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2844,
+    "output_tokens": 1123,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

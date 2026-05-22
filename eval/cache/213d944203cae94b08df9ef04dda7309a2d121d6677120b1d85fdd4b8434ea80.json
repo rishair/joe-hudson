@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:23.627Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "213d944203cae94b08df9ef04dda7309a2d121d6677120b1d85fdd4b8434ea80",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014ivFMqHjWC2N29h3DsNkxu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[quietly]*\n\nYeah. I noticed that too. You stopped yourself.\n\n\"I don't really let myself think about that.\"\n\nThat's not logistics. That's something you're protecting yourself from looking at directly.\n\nAnd I'm not going to push you to go there right now if you're not ready. But I do want to name what I'm seeing, because I think you're smart enough to know it too:\n\nYou're running hard partly to keep something at bay. And you don't fully know what it is. And that's actually really common - and really exhausting, because you can never run fast enough.\n\nThe \"lots of people deal with this\" thing - yes, they do. And also, that's not a reason your experience doesn't count. Lots of people are also quietly burning out and telling themselves they're fine.\n\n*[pause]*\n\nHere's what I want to offer you. Two things can be true at once:\n\n**Thursday is real and we can help you prepare for it.**\n\nAnd also: **something needs to change, not in two weeks, but soon.**\n\nI'm willing to work on both with you. But I want you to be honest with yourself about the second one, even just privately, even just a little.\n\nSo - and then we can absolutely get practical - **what's one thing you're afraid would be true about you, if you couldn't push through?**\n\nYou don't have to answer out loud if you don't want to."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1381,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 319,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1381,
+    "output_tokens": 319,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

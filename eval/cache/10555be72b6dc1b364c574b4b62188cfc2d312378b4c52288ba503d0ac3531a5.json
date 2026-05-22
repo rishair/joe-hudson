@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:26.961Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "10555be72b6dc1b364c574b4b62188cfc2d312378b4c52288ba503d0ac3531a5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H1LMtgPNBLcdhHqarfyqLY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a second, the smile stays but something in the eyes is slightly less present*\n\nHuh. That's an interesting frame.\n\n*considers*\n\nI don't know that I left anything behind. It's more like... I got better at not letting things throw me. Which is a skill. Useful one.\n\n*slight pause*\n\nI mean, there were probably times earlier — younger — where things hit harder. But you calibrate. You figure out what's signal and what's noise and you stop reacting to the noise.\n\n*even, measured*\n\nI don't experience that as a loss. It's more like efficiency. You can move faster when you're not carrying a lot of weight around.\n\n*brief beat, then a little deflection*\n\nI'm not sure that's related to the launch thing though. That feels like a different conversation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 239,
+      "cache_creation_input_tokens": 367,
+      "cache_read_input_tokens": 2055,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 367,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 187,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 239,
+    "output_tokens": 187,
+    "cache_read_input_tokens": 2055,
+    "cache_creation_input_tokens": 367
+  }
+}

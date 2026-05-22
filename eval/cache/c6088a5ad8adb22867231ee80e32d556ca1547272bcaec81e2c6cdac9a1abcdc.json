@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:35.872Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c6088a5ad8adb22867231ee80e32d556ca1547272bcaec81e2c6cdac9a1abcdc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HWgWYonsokRsSeRhkJHzZa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief pause, thinking*\n\nI mean, it wasn't like a conscious process or anything. We just... learned each other, I think. What the other person needs. How to read when someone's tired or stressed and not push on things at those times. Just basic consideration, really. Most couples probably do this, I think we're just better at it than average."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 116,
+      "cache_creation_input_tokens": 165,
+      "cache_read_input_tokens": 1721,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 165,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 80,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 116,
+    "output_tokens": 80,
+    "cache_read_input_tokens": 1721,
+    "cache_creation_input_tokens": 165
+  }
+}

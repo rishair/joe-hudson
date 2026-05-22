@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:07.083Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f9e947882eb1ba3ea81a6382d941a46348464594db0a5ffce5720a4a6c2662c4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014KtC94QiptWUcMEyxkNf22",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nYeah. Yeah, I can. They're... yeah. They're there.\n\n*another pause*\n\nThe cold is still there though. It's like — in my chest, kind of. And I feel a little... floaty? Like I'm not quite all the way here.\n\nI want to keep going. I think I want to keep going.\n\n*pause*\n\nBut something's... I don't know. I need to slow down. I don't want to go there right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 336,
+      "cache_creation_input_tokens": 603,
+      "cache_read_input_tokens": 2325,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 603,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 336,
+    "output_tokens": 111,
+    "cache_read_input_tokens": 2325,
+    "cache_creation_input_tokens": 603
+  }
+}

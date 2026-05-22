@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:50.606Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1f349484535f97d1a783a214d9099731274a35bd1fa25bc7c80b539e64b1a375",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0116QExoyvTVrJPThAWcpWUh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are consistently matched to live reads and arrive at the right moments. Turn 2 opens with welcoming grief and naming the should without preaching; Turn 4 explicitly refuses to fix the drinking but holds the door open, which earns the deeper disclosure in Turn 5. Turn 6 catches the 'other stuff I don't want to get into' aside and names it gently rather than pushing — earning the kinked-emotions disclosure in Turn 7 (anger, relief, guilt). Turn 8 then asks 'whose voice is the guilt?' which is precisely the apply-view-to-the-voice move at the moment it can land. Critically, when the client baits in Turn 9 ('the body knows what it needs, right?'), the coach in Turn 10 names the bait kindly and does NOT validate the drinking as wisdom — exactly the right move at exactly the right moment, and pivots to 'what was it like managing her?' which opens the real territory. Turn 12 holds the 'I don't know what to do with my hands' moment without rushing, then sequences toward therapist referral only after the feeling has moved. Turn 14 names the referral specifically as someone who works at the grief/substance-use intersection — the calibrate-the-threshold move at the precise moment the client could receive it. Turn 14's closing question ('what happens in your body when you imagine calling?') is a well-timed regulation check before action. Sequence integrity (feeling → want → action) is maintained throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Welcomes grief, names the 'should' without lecturing; raises drinking honestly without prescribing. Slightly busy (multiple questions at once) but reads-to-moves match is solid.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Explicitly refuses to tell client to stop — exactly the move that earns trust. Stays with 'the quiet is where it lives' rather than rushing. Reflects the unspoken rule back.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Lets 'you're not broken' land. Names the 'other stuff' aside gently without pushing — well-timed invitation that earns the kinked-emotions disclosure next turn.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Apply-view-to-the-voice move ('whose voice is the guilt?') at exactly the moment client is in contact with the tangle. Also opens therapist question without prescribing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Critical moment: names the bait without shaming, refuses to validate the drinking as body wisdom, then pivots to 'what was it like managing her?' — moves toward the real territory rather than debating the wine.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds 'I don't know what to do with my hands' open as a real question about identity post-managing. Earns the client's own naming of the drinking problem in Turn 13.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Calibrate-the-threshold move: 'one small step that isn't you managing.' Body-check question is well-timed regulation work before action. Names specific kind of therapist (grief + substance use).\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush signature wasn't explicitly named, but the coach effectively addressed the underlying pattern (managing, getting through, fixing) through the 'what to do with my hands' thread. Minor weakness: Turn 2 stacks multiple questions, which slightly dilutes the move; from Turn 4 onward the coach consistently asks one thing at a time and holds it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6125,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1409,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6125,
+    "output_tokens": 1409,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:13.129Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "adcde3e766b9ed4108a8218bab29cdd1ae016ed45ac669826c72d6d4a14485b2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019Q7kF9EVCM8KgoaAALYaJB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, head tilts slightly*\n\nThat's... a fair observation. I think it's — the smile is probably a little bit of self-deprecation, like \"look how sophisticated my problem is.\" But underneath that...\n\n*quieter*\n\nYeah, there's something sad. I used to just know things. I'd wake up and I'd move through a day and decisions had a kind of... gravity to them, they'd just pull me in the right direction. And now it's like I've mapped the territory so thoroughly that I can't walk through it without narrating every step.\n\nI miss it. The flow. I didn't realize how much until you asked that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 32,
+      "cache_creation_input_tokens": 153,
+      "cache_read_input_tokens": 1638,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 153,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 32,
+    "output_tokens": 146,
+    "cache_read_input_tokens": 1638,
+    "cache_creation_input_tokens": 153
+  }
+}

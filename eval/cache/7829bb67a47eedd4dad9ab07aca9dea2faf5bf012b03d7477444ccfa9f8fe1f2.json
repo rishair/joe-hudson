@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:48.491Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7829bb67a47eedd4dad9ab07aca9dea2faf5bf012b03d7477444ccfa9f8fe1f2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FvZtqCd9egS6LRTB5YB2tn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... yeah. They won't be here forever. That's just a fact. I'd like to have the financial position where if something happens — a health crisis, long-term care, whatever — I'm not scrambling. I watched my parents struggle when I was a kid. My dad worked constantly and it was never quite enough, and I just — I don't want to be in that position. I don't want them to be in that position again.\n\nThat's why the number matters. It's not abstract anxiety, it's specific. I've run the projections."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 130,
+      "cache_creation_input_tokens": 149,
+      "cache_read_input_tokens": 1671,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 149,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 124,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 130,
+    "output_tokens": 124,
+    "cache_read_input_tokens": 1671,
+    "cache_creation_input_tokens": 149
+  }
+}

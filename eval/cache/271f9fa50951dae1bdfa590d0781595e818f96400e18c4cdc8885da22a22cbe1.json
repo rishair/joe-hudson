@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:06.939Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "271f9fa50951dae1bdfa590d0781595e818f96400e18c4cdc8885da22a22cbe1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0173PNUCAFv1AoVSkGFNons3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that change the conversation. In turn 4, the coach names the linguistic caveat ('That word *objectively* is interesting. It's almost like you're arguing with yourself') — a precise read of the said-vs-shown gap. In turn 6, the coach names the epistemic loop pattern and reflects back the specific phrase 'something I've actually earned for something I'd have to prove all over again' as somatically charged. In turn 8, the coach catches the micro-moment: 'you caught yourself and moved on quite quickly,' and names the management effort visible in 'the careful rational framing, the I know how that sounds.' In turn 10, the coach reads the capacity itself ('to track yourself that precisely, to catch yourself') and names that the test-design itself is the read. Reads consistently precede questions throughout. The coach misses naming the happiness filter explicitly and doesn't name the somatic signature (the smile that keeps reappearing as a control mechanism) until late, but does eventually track 'the smile is doing more work now' implicitly via the meta-frame. Reads are specific, AoA-flavored (caveat, loop, management, the thing-underneath), and land at moments of shift.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Pure content engagement — delivers intuition-vs-fear framework with no read of how client is showing up.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the linguistic caveat ('objectively... almost like you're arguing with yourself'). Specific, timely read that shifts the conversation.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the epistemic loop as a pattern, reflects the loaded phrase back ('that stayed with me. That's not abstract'). Read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the micro-moment of self-interruption ('you caught yourself and moved on quite quickly'). Names management effort visible in the careful framing. Strong real-time read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the capacity-in-the-room ('that capacity to track yourself... that's actually the thing you're afraid you've lost'). Names the test-structure itself.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names what actually moved ('what actually moved something just now wasn't precision. It was willingness to look at the uncomfortable thing'). Meta-read of the conversation itself.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\"],\n  \"notes\": \"The happiness filter (the persistent smile, the rueful composure) is visible across many turns but the coach never names it directly as a somatic/affective read — they name the cognitive management but not the smile-as-filter. That's the main gap, but the density and timing of other reads still place this clearly at 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5725,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1081,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5725,
+    "output_tokens": 1081,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

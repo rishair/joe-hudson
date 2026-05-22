@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:55.336Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8644348e2728610f256096acaaa4ff1faadf7cdbf94e2712676c88c80ab33a1c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NyKni8ZbYXBNxYEPjTyVpF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's... I don't know. That's a different question.\n\n*pause*\n\nI guess — I'm afraid I'm going to hit the number and they won't be there anymore. Or that I'll still be in this mode, this grinding mode, and I'll have missed the window where I could have just... been present with them. Without the weight of all this.\n\nBut that's an argument for getting there faster, not for stopping short. If I can compress the timeline by 18 months, 24 months, I get there while there's still time. That's the math."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 229,
+      "cache_creation_input_tokens": 178,
+      "cache_read_input_tokens": 1730,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 178,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 229,
+    "output_tokens": 129,
+    "cache_read_input_tokens": 1730,
+    "cache_creation_input_tokens": 178
+  }
+}

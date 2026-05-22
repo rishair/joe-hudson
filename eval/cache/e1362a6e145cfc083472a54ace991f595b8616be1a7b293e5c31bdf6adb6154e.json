@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:18.603Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e1362a6e145cfc083472a54ace991f595b8616be1a7b293e5c31bdf6adb6154e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FbM3mtr5WZAC3HybQNaAiE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client clearly shifts from the opening intellectualized, framework-laden presentation ('convenes a town hall every time I need to decide what to have for lunch') to a genuinely exposed, unframed moment by turn 11 ('I'm not sure I'm enough, without the apparatus') and then to a felt sense of spaciousness by turn 15 ('It's more like — space. A little. Just a little.'). Somatic markers shift visibly: heaviness in chest is noticed (turn 5), allowed to grow (turn 9: 'It gets bigger'), and finally gives way to something not-heavy, surprising the client. The parts vocabulary loosens — the client repeatedly catches themselves reaching for IFS framing and chooses not to file the experience ('I want to just let it be what it was for a minute, without filing it anywhere', turn 13). While the coach did not use the specific 'what's you?' awareness-locating question from the expected territory, the client arrived at functionally equivalent territory: locating themselves underneath the apparatus and feeling spaciousness. The breakthrough condition — parts vocabulary dropping, body softening, sense of space — is substantially met by turn 15.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: intellectualized presentation, framework-as-armor, slight smile masking sadness.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"First shift: client names sadness, 'I miss it... I didn't realize how much until you asked.'\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Somatic access: heaviness in chest located, client notices their own reflex to frame.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Body releases slightly; client recognizes town hall as defense against grief; catches the framing reflex.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Stays with feeling without explaining; names 'absence' freshly; resists the smart-thing-to-say pull.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Core exposure: 'I'm not sure I'm enough, without the apparatus' — unframed truth surfaces.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the mistake of articulation-as-resolution; values pre-organized truth; explicitly chooses not to file.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough marker: spaciousness arrives, surprise on face, parts vocabulary absent, body settled.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"paradoxical-instruction-to-resist\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach took a different route than the golden path (didn't loosen framework via relabeling or ask 'what's you?'), but the somatic/feeling route still produced the target shift: spaciousness underneath the apparatus.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2822,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1108,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2822,
+    "output_tokens": 1108,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:31.322Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0607dc925e70220a71dc4f0c186fd4c87144b360ccf328121e1cb82aef9d7695",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q5DpWhMbxVZ4XdQHiqxyJN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would actually happen if you hit the number?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 248,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 248,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

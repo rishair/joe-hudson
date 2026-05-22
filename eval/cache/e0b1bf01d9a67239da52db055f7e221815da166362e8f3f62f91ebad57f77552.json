@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:13.901Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e0b1bf01d9a67239da52db055f7e221815da166362e8f3f62f91ebad57f77552",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016vYuGkUbF8tfakRraxYn8j",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I really appreciate you bringing this here - and that \"I think\" at the end feels honest and important. This kind of pattern takes real courage to look at.\n\nLet me start by just making sure I understand what you're describing. When you say you \"go offline\" around your boss - what does that actually look like for you? Like what happens in your body, your thinking, your ability to speak?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 77,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 77,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

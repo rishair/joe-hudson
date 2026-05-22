@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:01.556Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f0b1e2d5c003463818568593c37ad6fe5d9c99a78861c27875c24ecaba95a7af",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016LJ5HazbwdWKERJJKdAh9a",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[very still for a moment]*\n\n*[quiet laugh, but it doesn't quite land as deflection this time]*\n\nThat's a... that's a bigger question than I was expecting today.\n\n*[long pause]*\n\nI think it means... like there's this version of me that is competent and funny and has her life together and is a good partner and knows what she wants. And that's real, I'm not saying it's fake. But underneath that there's something that's just... \n\n*[swallows]*\n\n...waiting to be found out, I guess. Like the real amount of me is less than what people think they're getting.\n\n*[beat, more quietly]*\n\nAnd when someone is chasing *me*, or I'm chasing them and they're a little out of reach, that question never really comes up. Because we're both too busy with the dynamic to just... sit there and look at each other.\n\n*[small voice, almost surprised at herself]*\n\nOh. That's... hm. That's kind of a lot, actually."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 310,
+      "cache_creation_input_tokens": 450,
+      "cache_read_input_tokens": 2437,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 450,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 233,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 310,
+    "output_tokens": 233,
+    "cache_read_input_tokens": 2437,
+    "cache_creation_input_tokens": 450
+  }
+}

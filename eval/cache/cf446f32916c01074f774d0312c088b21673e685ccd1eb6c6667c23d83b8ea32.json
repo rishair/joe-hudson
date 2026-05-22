@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:21.927Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cf446f32916c01074f774d0312c088b21673e685ccd1eb6c6667c23d83b8ea32",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HABS45dwKZ23whuheKsM52",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No, it doesn't change the org chart. And something's tight and you're watching your best years disappear. That sounds really painful. What's the feeling underneath the tightness — if you let yourself go there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 446,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 49,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 446,
+    "output_tokens": 49,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

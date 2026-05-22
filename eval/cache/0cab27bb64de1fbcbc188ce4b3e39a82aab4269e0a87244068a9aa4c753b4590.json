@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:37.044Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0cab27bb64de1fbcbc188ce4b3e39a82aab4269e0a87244068a9aa4c753b4590",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TZPpHzLAYir9uVZv9ctCk3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*gently*\n\nYou know, \"it would take us somewhere that wasn't really the point\" is actually pretty interesting to me. Because right now, there isn't really a point we need to stay on track for. You came in without an agenda, remember?\n\nI'm not going to push you somewhere you don't want to go. But I'll just say — sometimes the thing we decide isn't relevant is exactly the thing worth looking at.\n\nWhat was the comparison you were going to make?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 847,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 107,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 847,
+    "output_tokens": 107,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

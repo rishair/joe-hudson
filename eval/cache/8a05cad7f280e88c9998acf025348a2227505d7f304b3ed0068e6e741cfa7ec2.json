@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:59.620Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8a05cad7f280e88c9998acf025348a2227505d7f304b3ed0068e6e741cfa7ec2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0169aASbAXMRBvmywxjgFYBg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's a real problem — and it's worth naming clearly: these sessions aren't just inefficient, they're actively undermining your confidence going into the pitch.\n\nA few things I want to understand before we dig in:\n\nWhen you say you're \"relitigating founding decisions\" — is your co-founder raising doubts, or is it more that the questions surface *your own* uncertainty? Or both?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 217,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 89,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 217,
+    "output_tokens": 89,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:18.548Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d39d4ae9196dd274d11810c22ae6dc792459dc8acbd527bf3eea3febd3c5b424",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Bzj8kM1rM6yuBJnEuTGNF7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, I hear you — you were showing up. And I'm not questioning that.\n\nI'm more curious about... what made those particular people so magnetic to you? Like, what did it *feel* like at the beginning, when you first got pulled in?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 659,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 58,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 659,
+    "output_tokens": 58,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

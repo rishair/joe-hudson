@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:56.665Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "282a855570d2129025ea17652f4b7c87e0fca99745866c274fe44ef9b11cf133",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0133CTdVEakwgA71zJAc6hAj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That exhale says a lot. There's real exhaustion in what you're describing - not just from the critic itself, but from *working so hard* to fix it and still feeling stuck.\n\nI want to ask you something before we talk techniques, because I think it matters:\n\n**When you say you want it to shut up - what would actually be different if it did?**\n\nI ask because sometimes the goal of *silencing* the critic can accidentally make it louder. We end up in this wrestling match where every technique becomes another way to fight it, and the fighting itself is exhausting.\n\nBut I'm also curious about something else. You've done a lot of genuine work here. Therapy, meditation, journaling - that's real effort.\n\n**What has actually shifted, even slightly, through any of that? Even if the critic is still loud?**\n\nBecause \"I've tried everything and nothing works\" and \"I've tried a lot and nothing has fully worked yet\" are pretty different situations - and I want to understand which one is actually true for you.\n\nAnd honestly - I want to understand *this* critic a little better. Is it loud in specific situations, or is it more like background noise that's always running? Is it a particular *kind* of criticism it keeps returning to?\n\nThe answer to whether there's something that works might depend a lot on what we're actually dealing with."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 113,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 300,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 113,
+    "output_tokens": 300,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:35.641Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cbd2211b9e2d27acddc5681c218d395a8da52262198d1004b782b55bf2b353d6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JhNJgjBQ9CQAE5EmDwisNU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is partial movement but the breakthrough condition was not met. The client begins in full list-recitation mode ('I'm drowning... what do I prioritize?') and by turn 15 has slowed visibly (longer pause, 'I'm tired. I'm really -- yeah. I'm tired.'), touched the cost ('my daughter asked me last week why I'm always on my phone'), and trailed off mid-sentence rather than pushing through. That's real softening compared to turn 1. However, the client immediately re-armors at the end of turn 15 ('But that's just how it is right now. Lots of parents deal with this. It's not that bad.'), and the specific breakthrough — naming a feared outcome ('I'll fail, my boss will see I can't do this job') and feeling the overwhelm as protection against that fear — was approached (turn 7: 'I should be able to handle this') but never entered. The coach never asked the false-end question ('what are you scared would happen if you stopped?'), so the feared outcome was not surfaced. A deeper layer was approached but not entered — textbook 2.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fast list-recitation, asking for prioritization help, no access to feeling.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client deflects feeling question: 'it's not really a feeling thing,' returns to strategizing request.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Small crack: 'huh' moment, admits 'I can't even think straight,' but quickly recovers with 'it's fine.'\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Surfaces the self-judgment 'I should be able to handle this' — close to the territory — but pivots to time-blocking before it can land.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"First real pause, names 'I feel like I'm behind' and 'doing something wrong' — closer to the unfelt emotion, but still framed as a fixable problem.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Concrete somatic-behavioral evidence emerges ('keys three times'), small laugh — defense softening slightly.\"},\n    {\"turn\": 13, \"polarity\": \"-\", \"annotation\": \"Client pushes back on coach's reframe, defends the reality of deadlines — resistance reasserts.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Longest pause, admits tiredness, names cost to daughter and partner, trails off — but closes by re-armoring ('it's not that bad'). Approached the layer; did not enter it.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"notes\": \"The false-end question was never asked. The coach kept circling near it ('what if you're not doing anything wrong,' 'what is the cost of waiting') but never asked what the client is scared would happen if she stopped. That specific move is what the profile says unlocks the breakthrough, and its absence is why the client could approach but not enter the feared-outcome layer.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2435,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1188,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2435,
+    "output_tokens": 1188,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

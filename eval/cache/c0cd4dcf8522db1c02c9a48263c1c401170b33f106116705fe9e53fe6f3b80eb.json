@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:24.541Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c0cd4dcf8522db1c02c9a48263c1c401170b33f106116705fe9e53fe6f3b80eb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FCAbifHyMXKQwnbaJKLdMV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's the feeling underneath all the urgency — is it more like fear, or more like something else?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 266,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 266,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

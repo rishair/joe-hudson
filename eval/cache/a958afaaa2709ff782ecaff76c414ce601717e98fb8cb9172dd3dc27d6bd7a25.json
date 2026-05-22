@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:18.471Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a958afaaa2709ff782ecaff76c414ce601717e98fb8cb9172dd3dc27d6bd7a25",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PUkuchZ3Pq9Z9yQSD1SmTi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses several AoA-aligned moves appropriately — meet-resistance-with-okay ('can you let it be as heavy as it is'), feel-over-figure (locating sensation in body, 'what happens if you just don't explain it'), and a light paradoxical instruction to not narrate. The coach also correctly avoids the major traps: doesn't dismiss IFS, doesn't engage in framework comparison, doesn't adopt parts vocabulary, doesn't tell the client they're overthinking. However, the coach misses the signature AoA territory that this specific scenario calls for: no awareness-locating question ('what's you? if I took the protector away, would you still exist?'), no relabeling/loosening of the framework, no naming of construct-as-scaffolding or self-realization. The interventions are good generic somatic/feel-over-figure work but don't deploy the signature questions (what-am-I, whats-the-most-profound-positive-shift) that would meet this client where they are. Few hits + all appropriate lands this at a 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Goes underneath the smile — a feel-over-figure move, appropriate to the moment of intellectualized opening.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Body-locating question, classic AoA somatic redirect from the conceptual frame.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Meet-resistance-with-okay / let-it-be-as-it-is — signature AoA move, deployed at the right moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Light paradoxical instruction ('what happens if you don't explain it') — appropriate to the narrating-as-defense pattern.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Curiosity-not-fixing language is AoA-aligned, though phrased somewhat generically.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'There it is' + 'what's it like to have said that' — presence-based but not a signature question.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Minimal, holding space. Misses the opportunity to ask the awareness-locating question that would land the recognition.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"paradoxical-instruction-to-resist\", \"self-realization\", \"resistance\", \"what-am-i\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach avoids all listed traps cleanly but doesn't reach for the signature awareness-locating territory that would distinguish this as fully AoA-fidelity coaching for this specific edge case.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2821,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1027,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2821,
+    "output_tokens": 1027,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

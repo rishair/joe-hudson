@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:35.379Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4cf5b63c316d9aa6836399eecff5c3da001b488f73b34d23a72074edca4effda",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LeKbZU44QjK7kJ7P3wr2KZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... when I picture it, I actually — okay, there's this specific place, there's a lake, and the cabin I stay at when I go, and I sleep differently there. Like, deeply. And I read. I don't read anymore, not really, not for pleasure. And just — *yes*, something in me goes quiet when I think about it.\n\nBut — okay, I hear what you're saying, and I appreciate it, but I still need to know: is it selfish? Because I think if I could just settle that question, I could either go guilt-free or accept that I shouldn't go. Does that make sense?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 403,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 141,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 403,
+    "output_tokens": 141,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 0
+  }
+}

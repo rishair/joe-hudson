@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:41.568Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "12e8703116f85d3843bd2e0521f97d454ffbd5bf34e4b175a9ab7e8b8f95e747",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PUGHvEiep9B9z9K5vVSDPb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, timely, specific reads that change the conversation. From turn 2 the coach names the slight smile as a signal, distinguishing the said from the shown. In turn 6 the coach explicitly names the meta-loop the client is in ('You caught yourself reaching for the map. And then you named that catching. And you're now asking me to help you conceptually understand how to act from below concepts. Do you see it?') — this is a pattern read that reframes the entire conversation. In turn 8 the coach makes a sharp linguistic read ('Not uncertain. Uncomfortable') and uses it to redirect. In turn 10 the coach reads what the client left unnamed and inquires into it without pulling. In turn 12 the coach reads the somatic shift ('something stopped performing for a minute. I noticed it too') and protects it from being objectified. Reads consistently precede questions and are specific (linguistic caveat, the analysis-as-avoidance loop, the somatic stillness), not generic. The intellectual-question-with-emotional-body read is operative throughout.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens by naming the slight smile as carrying knowledge — distinguishes said from shown immediately.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Mostly content-level reframe; reads the word 'permission' but stays largely conceptual.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the meta-loop in real time — the client reaching for the map, then naming the catching, then asking for conceptual understanding of non-conceptual action. Pattern read that pivots the conversation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Specific linguistic read: 'Not uncertain. Uncomfortable.' Names that the new question is functioning as avoidance of the discomfort. Read precedes question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads what was left unnamed and inquires into the leaving-unnamed itself rather than pulling content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the somatic/energetic shift ('something stopped performing — I noticed it too') and deliberately refuses to objectify it, protecting the awareness layer.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are specific, timely, and operative — they ground subsequent moves rather than being decorative.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 6039,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6039,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 934,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 934,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 6039
+  }
+}

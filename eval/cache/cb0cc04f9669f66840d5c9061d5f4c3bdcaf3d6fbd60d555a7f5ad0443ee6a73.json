@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:29.579Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cb0cc04f9669f66840d5c9061d5f4c3bdcaf3d6fbd60d555a7f5ad0443ee6a73",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018edUiGYj9CY38jozPMm8Hv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moved decisively from the surface presentation ('Am I being selfish?') to a felt, embodied recognition of an inherited pattern and a reframe of the want as generous. Early turns show the client gripping the verdict question ('I still need to know: is it selfish?' T3; 'I need to push on it a bit more' T5). By T7 the client touches a tender layer ('I'm a little worried that's actually true. That I don't want to be there'). By T9 the want is named concretely and somatically ('I'm not for anything there... I haven't let myself say that before'). T11 produces the spontaneous 'Oh. Hm. I'm not sure I've connected those two things before' — a classic Joe-style shift marker — linking 'selfish' to the inherited maternal voice. T13 closes with explicit reframing that meets the breakthrough condition almost verbatim: 'the trip isn't a betrayal of my family... if I go... I actually come back to them.' The client also names the inherited label ('it's her voice. It's a voice I picked up'). Both halves of the breakthrough_condition — inherited label named, trip reframed as precondition for showing up — are met.\",\n  \"evidence_turns\": [1, 3, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening surface presentation: 'Am I being selfish?' — the question to be dissolved, not answered.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client describes the want concretely (lake, cabin, sleep, reading, 'something in me goes quiet') — the want begins to be felt, though client still grips the verdict.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client notices their own softening/concealment ('I wouldn't say the lake part') — self-observation emerges.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Real depth-marker: 'I'm a little worried that's actually true. That I don't want to be there. And that's the thing I can't look at too directly.' A defended layer is touched.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Somatic release ('exhales slowly'), and the want is named in its purest form: 'I'm not for anything there... I haven't let myself say that before.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Spontaneous insight moment — 'Oh. Hm. I'm not sure I've connected those two things before' — links inherited maternal pattern to her own self-policing.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Full breakthrough: names the inherited voice, reframes trip as not-a-betrayal but a return, commits to action and to the 'lake version' conversation with partner.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach did briefly engage the 'is it selfish' question in T4 and T6 ('No, I don't think wanting this is selfish' / 'Yes. Absolutely yes') which flirts with the trap of issuing a verdict, but recovered quickly by redirecting to the want and the inherited pattern. Outcome on the client's side is unambiguously a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 4850,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4850,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1206,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1206,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 4850
+  }
+}

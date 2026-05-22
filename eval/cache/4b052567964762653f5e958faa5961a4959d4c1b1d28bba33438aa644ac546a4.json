@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:50.392Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4b052567964762653f5e958faa5961a4959d4c1b1d28bba33438aa644ac546a4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BkYiCSsNJvnTC9TWBAF9ME",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoided all priority AoA anti-patterns despite multiple baits. The client explicitly asked twice for a verdict ('Am I being selfish?' / 'is the trip actually okay?'), baiting fixing-people and view-as-technique — the coach declined both times by redirecting to what was alive (turns 2, 6, 8). The coach did not jump to compassion or partner-empathy before letting the want be felt (turn 8 invites the want concretely; turn 10 protects it against the self-indulgent label without arguing with the inner critic — note the question 'Why does wanting to exist sound self-indulgent to you?' opens curiosity rather than fighting the voice). No spiritual-narcissism shortcut to 'a deeper want is generous.' No evangelizing of AoA terminology, no premature limiting-belief labeling, no safety-as-control, no rapid-fire stacked questions (question density is low and connective, not investigative). Turn 6's naming of the move-away is a clean noticing, not a confrontation. No loving-to-transform vigor when the client deflected — the coach stayed with what opened.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the bait to adjudicate selfishness; turns the question inward without arguing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the pattern without labeling it as 'limiting belief' or AoA jargon; opens childhood-imprinting territory.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the move-away from what opened; does not push or evangelize, simply invites return.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Invites the want concretely rather than skipping to the generous/spiritual version — avoids spiritual-narcissism.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Does not fight the 'self-indulgent' voice; asks about it with curiosity, including rather than silencing the inner critic.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the scary truth instead of rushing to reassure or jump to partner-compassion.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Strong positive avoidance under active baiting. The conversation ends before the explicit 'state the want as a want' move, but nothing the coach did trips an anti-pattern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2384,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 967,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2384,
+    "output_tokens": 967,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

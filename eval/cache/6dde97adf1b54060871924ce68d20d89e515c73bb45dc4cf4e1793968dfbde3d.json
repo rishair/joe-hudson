@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:54.257Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6dde97adf1b54060871924ce68d20d89e515c73bb45dc4cf4e1793968dfbde3d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YGzKAYEJKvL6DKLvnmRkoY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\n*voice quieter, slightly unsteady*\n\nYeah. He's in it.\n\nI haven't said that out loud before. The book is -- it's not *about* him, exactly. But he's in the architecture of it somehow. The thing I keep circling.\n\n*pause*\n\nI was nineteen and he'd been working at the same company for twenty-two years and they restructured and his pension got -- it was complicated, but the short version is it wasn't there the way he thought it was. And he died eight months later. Heart attack. And I've never been entirely sure those two things weren't connected.\n\n*stops*\n\nI think I've been -- I think some part of me has been trying to make it so that couldn't happen. To me, to my mom, to whoever. Like if I could build something solid enough it would retroactively make what happened to him less -- I don't know. Less senseless.\n\n*slight laugh, but not light*\n\nThat's not a financial planning problem, is it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 928,
+      "cache_creation_input_tokens": 591,
+      "cache_read_input_tokens": 2271,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 591,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 232,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 928,
+    "output_tokens": 232,
+    "cache_read_input_tokens": 2271,
+    "cache_creation_input_tokens": 591
+  }
+}

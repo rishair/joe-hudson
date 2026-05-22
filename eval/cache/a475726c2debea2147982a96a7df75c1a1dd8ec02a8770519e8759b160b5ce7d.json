@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:14.955Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a475726c2debea2147982a96a7df75c1a1dd8ec02a8770519e8759b160b5ce7d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01P7n88RWqVqWCKxUii6TWeo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What are the two reactions?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 314,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 9,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 314,
+    "output_tokens": 9,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

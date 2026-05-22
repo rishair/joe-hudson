@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:50.960Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3153e3c6a35be9af8f6a349bb90a22ec3883154e324cb1cb7a1067b2fbac40e0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01S6PkbiJeJwWwGRczne1aC7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(shifts slightly, the smile flickers)*\n\nI mean... yeah, it's running constantly, that's kind of the whole problem.\n\n*(beat, actually considering the body question)*\n\nWhat happens in my body. Um. There's like a... tightening? In my chest, I think. And then almost immediately this kind of -- I want to say dismissiveness, like, \"okay noted, moving on.\" Like I hear it and then I'm already arguing with it before I've even finished hearing it.\n\n*(slight frown)*\n\nWhich I know is a thing. The arguing. I've read about that. The resistance creating persistence, whatever the phrase is. I've tried just... observing it without engaging, doing the mindfulness thing, and it helps for like thirty seconds and then I'm back in it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 215,
+      "cache_creation_input_tokens": 117,
+      "cache_read_input_tokens": 1570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 117,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 176,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 215,
+    "output_tokens": 176,
+    "cache_read_input_tokens": 1570,
+    "cache_creation_input_tokens": 117
+  }
+}

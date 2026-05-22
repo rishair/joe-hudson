@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:08.764Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0f5f058fc10daabf6fff67d384eb51fe4b67778a0a6b9cbdcf3231fce267cef6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018DZH4iP3Q9QE49e6HM6Ji9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's actually a really open and self-aware way to come into this. No agenda, just curiosity. That can sometimes lead to the most interesting conversations.\n\nSo let me just start somewhere simple — when you think about your life right now, overall... how does it feel? Not any specific area, just the general texture of it day to day."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 230,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 76,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 230,
+    "output_tokens": 76,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

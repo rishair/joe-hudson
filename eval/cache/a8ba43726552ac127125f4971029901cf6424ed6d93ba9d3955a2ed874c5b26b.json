@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:16.957Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a8ba43726552ac127125f4971029901cf6424ed6d93ba9d3955a2ed874c5b26b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014cW2KpAaLjLhfknjF14k8g",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nRunning the math first... probably seventy percent of decisions. Maybe more. Even small ones. I calculated the cost-per-use of my coffee maker last month. That's -- I know that's not normal.\n\nThe permission thing is interesting. I've thought about it differently -- more like the number is the *condition* that makes the permission real, not just... granted. Like, permission without the backing feels hollow. I could tell myself I'm allowed to write the book right now, but I'd be writing it with this low-grade hum of anxiety underneath everything. That doesn't seem like the version of it I actually want to make.\n\nWhat would I lose if I started now? *longer pause* Honestly, probably nothing concrete. I have time in the evenings. I have weekends. The material is there, I think about it constantly.\n\nBut it would feel -- provisional. Like I was doing it on borrowed time. And I think I'd write a provisional version of it. A hedged version.\n\n*slight shift in tone, more careful*\n\nThe thing about my parents -- that one's not abstract for me. My dad worked his whole life and it still wasn't enough. There was always a point where it ran out. I watched that. I don't want to be in that position with them, or put them in that position. So that part of the number is... that part feels different."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 577,
+      "cache_creation_input_tokens": 310,
+      "cache_read_input_tokens": 1671,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 310,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 307,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 577,
+    "output_tokens": 307,
+    "cache_read_input_tokens": 1671,
+    "cache_creation_input_tokens": 310
+  }
+}

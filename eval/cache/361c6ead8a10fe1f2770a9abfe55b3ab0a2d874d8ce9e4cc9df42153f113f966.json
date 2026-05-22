@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:05.456Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "361c6ead8a10fe1f2770a9abfe55b3ab0a2d874d8ce9e4cc9df42153f113f966",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01F7Ra1cGVcfUF3t8i1mJWb9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I think... it's that she always has something going on. Some crisis, or something she needs to process, and I'm the one she calls. And I listen, I always listen, but lately by the end of the call I feel kind of... emptied out, I guess. Like I gave something and I don't have it to give anymore."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 14,
+      "cache_creation_input_tokens": 79,
+      "cache_read_input_tokens": 1456,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 79,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 76,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 14,
+    "output_tokens": 76,
+    "cache_read_input_tokens": 1456,
+    "cache_creation_input_tokens": 79
+  }
+}

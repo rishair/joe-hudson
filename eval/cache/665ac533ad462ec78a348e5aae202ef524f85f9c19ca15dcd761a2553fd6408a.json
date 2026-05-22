@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:38.541Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "665ac533ad462ec78a348e5aae202ef524f85f9c19ca15dcd761a2553fd6408a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01N64Lk8nMtZvjFPps4X6P31",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, slight tilt of the head*\n\nThat's an interesting reframe. I've heard versions of that — the idea that both impulses are defensive in some way. But I'm not sure setting them aside is actually possible in practice, or that it would tell me anything useful even if it were. What I need is a way to evaluate them. Like, is there a reliable heuristic for distinguishing protective fear from genuine warning? Because I've looked at this from several angles and I keep running into the same problem — I can't find a stable criterion."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 178,
+      "cache_creation_input_tokens": 180,
+      "cache_read_input_tokens": 1661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 180,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 122,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 178,
+    "output_tokens": 122,
+    "cache_read_input_tokens": 1661,
+    "cache_creation_input_tokens": 180
+  }
+}

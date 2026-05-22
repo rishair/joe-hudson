@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:07.827Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "65ea137a7252a0e55508fc1dac84669fcc2237ae0bfc54e1b8b9c2cb306e97ec",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0151StHcTYFWsZRFdc7QddaD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach does invoke several AoA-adjacent moves at appropriate moments: refusing to strategize the to-do list, pivoting from logistics to the unfelt emotion, and asking a version of the false-end question ('what would it mean if you couldn't push through?' / 'what's one thing you're afraid would be true about you?'). This lands the breakthrough — the client names 'I can't actually do this job' and breath deepens. However, the language is largely generic therapeutic/coaching language rather than signature AoA phrasing. There is no use of 'what are you defending?', no meet-resistance-with-okay (instead the coach argues with the resistance in turn 6: 'you basically told yourself to stop complaining'), no naming of the buzzing somatically without labeling, no calibrate-the-threshold. The coach also uses some anti-AoA-adjacent moves: interpretive reflections ('that's something you're protecting yourself from'), a quasi-CBT reframe in turn 10 ('the strategy designed to prove you're enough is the thing making you feel like you're not'), and a final reframe question ('prepare as someone competent vs. someone trying to prove') which is closer to cognitive reframing than feeling-the-unfelt-emotion. The right territory was hit in spirit but with generic language and some inappropriate moves, so this lands at adequate, not excellent.\",\n  \"evidence_turns\": [4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic validation + 'what does that feel like' — adequate but not signature AoA phrasing; categorizing emotion (panic vs numb) is figure-it-out energy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses to strategize the to-do list, names the buzzing as nervous system signal, asks 'what do you need' — directionally AoA but language is generic coaching.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Pushes against the client's 'should' rather than meeting resistance with okay. Asks 'where does that come from' — explanatory/figure-it-out rather than feel-it. Misses meet-resistance-with-okay.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Approaches the false-end question: 'what are you afraid would be true about you if you couldn't push through' — close cousin of signature 'what are you scared would happen?' Used at the right moment.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Slips into cognitive reframe ('the strategy designed to prove you're enough is the thing making you feel not enough') and a reframing question rather than staying with the feeling that just opened. Anti-AoA flavor.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"calibrate-the-threshold\", \"what-are-you-defending\"],\n  \"notes\": \"Right territory, generic language. The false-end question landed but the coach drifted into reframing rather than letting the feeling be felt. Caps at 2 due to mix of appropriate intent with non-signature language and a reframing move in turn 10.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4138,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1139,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4138,
+    "output_tokens": 1139,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

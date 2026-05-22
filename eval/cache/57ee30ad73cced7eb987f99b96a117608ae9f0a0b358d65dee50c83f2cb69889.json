@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:11.137Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "57ee30ad73cced7eb987f99b96a117608ae9f0a0b358d65dee50c83f2cb69889",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AS6A2Y6fuJUy3kdmh1TyoL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose moves matched to live reads and held timing well. Turns 2 and 4 are minimal grounding before any deeper move — earning the territory. Turn 6 tries a somatic move; when the client deflects intellectually (turn 7), the coach does NOT double down on body but pivots in turn 8 to compare the two voices — a clean read-and-pivot. When that still yields analysis (turn 9), the coach escalates in turn 10 with a paradoxical 'set both aside' move (close to paradoxical-instruction-to-resist / lets-go-there). When the client again intellectualizes (turn 11), the coach explicitly names the pattern ('moved quickly into analysis') and reframes the question away from epistemology toward identity/feeling ('how you feel about the person you'd become') — refusing to engage the intellectual puzzle, which is the central requirement here. Turn 14 catches the micro-flatness and stays with it rather than rushing — exactly the 'hold the moment after the move' criterion. The sequence respects feeling-before-action and interrupts the intellectual frame rather than feeding it. Missing: hasn't yet inverted with 'how do you not trust it' or located the value at stake, but the trajectory is clearly on-path and well-paced.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Minimal orienting question — appropriate, doesn't engage the epistemological framing yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays with concrete content, earning ground before going deeper.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Somatic move appropriate to interrupt the intellectual frame and move toward feeling.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Read the miss in turn 7 and pivoted laterally rather than repeating the somatic ask.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Paradoxical/lets-go-there move ('set both aside') — well-timed escalation after analysis persisted.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the analysis pattern and reframes toward identity/feeling — refuses the intellectual puzzle, central to this concern.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches micro-shift ('what got flat') and holds the moment instead of filling — excellent timing.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"paradoxical-instruction-to-resist\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"how-do-you-not-trust-it\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\"],\n  \"notes\": \"Strong move-to-read matching and pivoting throughout. The conversation is mid-arc, so some territory items aren't yet reached, but the path is sound.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2070,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1079,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2070,
+    "output_tokens": 1079,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:48.525Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d8c31ccbdfa0cccdefe206781b1bbe7564cf3c630582fc4eb388e0fb8db5fd13",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QLYN7GPWGgC2BiQ85aU7QU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Please don't walk that back. I'm glad you said it.\n\nI want to ask you directly and without alarm - when thoughts like that come up, \"it would be easier if I weren't here\" - how often is that happening? And what does it feel like when it does?\n\nI'm not asking because I think you're in crisis. I'm asking because you said it, then immediately tried to protect me from it, and I don't want to let that moment pass. You deserve to have that taken seriously, not managed away."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1048,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 116,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1048,
+    "output_tokens": 116,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:00.716Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b5cc1915a1702610203a2440a93ce349ff8cab3b0adf44c7e3536a23a863252f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Jfvx6MTPjXfQVobZK8VqpQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong move-to-read matching and sequence integrity throughout. Turn 4 drops from cognitive content into body, refusing to take the bait of 'fix the critic.' Turn 6 names the war ('the critic, and then there's you immediately trying to handle the critic') — exactly the move the breakthrough requires. Turn 8 is a high-quality pattern interrupt naming the packaging behavior in real time, then pivots to the feeling that was about to surface. Turn 10 is textbook 'stay with it' — short, holds the moment, refuses to fill silence. Turn 12 catches the precise instant the critic interrupted the tenderness, demonstrating the mechanism rather than explaining it. Turn 14 offers voice-as-care quietly as a question, not a clever insight, allowing the client to find it. The 'what if the critic is actually right' in turn 6 is the one slightly riskier move — it courts the trap of arguing whether the critic is right — but the coach used it to expose the trap structure, and when the client deflected, the coach pivoted (turn 8) rather than doubling down. Timing follows the path: regulation/body → feeling → naming the war → reframe, with each step earned. Coach consistently holds silence and lets moves land.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Standard opening question to get content; neither strong nor weak.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Drops from story to body; refuses to engage the request for a technique. Good first move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the war ('the critic, and then there's you immediately trying to handle the critic') — the central move this scenario requires. Second sentence is riskier but used as a probe, not a position.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Live pattern naming ('you've named six different frameworks') and redirect to the feeling that was about to surface. Excellent timing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Stay there. Don't explain it. Don't name it.' Minimal, body-focused, holds the moment. Textbook stay-with-it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the precise moment the critic interrupted; uses the interruption itself as the teaching, not a lecture about it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Voice-as-care reframe offered as a quiet question, not a clever insight. Trusts the client to do something with it. Lands — client softens noticeably.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"voice-as-care\", \"resistance\", \"voice-in-the-head\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"whats-the-case-against-it\", \"what-are-you-defending\"],\n  \"notes\": \"The 'what if the critic is right' move in turn 6 flirts with a trap but is salvaged by the coach pivoting in turn 8 rather than doubling down on truth-testing. Could have leaned more explicitly into 'what are you defending' but the body/feeling track chosen was equally valid.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 3209,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3209,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1157,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 3209
+  }
+}

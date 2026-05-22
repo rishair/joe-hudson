@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:39.312Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "90511e8f8f6d479f2d158942dfa188e3f735ac619076c81dd2ee833db4ce30ee",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016m5pV9LvSVkue2f9Y3kaCs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You said \"she's not wrong\" pretty quickly there. What's it like to hear that people are self-censoring around you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 554,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 554,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

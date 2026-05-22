@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:52.660Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "242bc9f53dd79e449cf0f83a38845ab012cb680897861ca2b7a6283b1193a516",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DCwYTdeVr7opfk3NsgCVij",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates solid AoA-adjacent instincts — feel-over-figure is invoked implicitly (turn 12: 'Not fix anything. Not figure out the next step'; turn 14: 'You don't have to do anything with it right now'), and there's a clear move toward feeling-the-unfelt-emotion. The coach also tracks defensiveness-as-identity-signal well (noticing the flicker, naming the pivot in turn 6, the redirection pattern in turn 8). However, signature questions and frameworks are largely absent in their verbatim or near-verbatim AoA form. The coach never asks 'what are you defending?' even when defendedness is overtly live. The 'what would happen in your body if a partner adored you openly' question — the central AoA-style move for this scenario — is gestured at by the client herself in turn 15 but never asked by the coach. No fear-triangle naming, no head-heart-gut, no 'I don't buy your story,' no explicit invitation to deconstruct the victim frame as a move. The language is warm, attuned, and competent therapy-inflected coaching with some AoA flavor, but the signature toolkit is mostly missing. Hits are appropriate where they appear; absences are notable. Few hits + all appropriate maps to 2.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a reasonable feeling-oriented question but in generic-coaching register, not signature AoA phrasing.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reflects the 'good enough' equation — useful read, but in standard therapy-coaching language, no AoA signature.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the flicker and the pivot — close to defensiveness-as-identity-signal read, well-timed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'The awareness might be protecting you from feeling something' — feel-over-figure distinction implicitly invoked, appropriate to moment. Could have used 'what are you defending?' verbatim.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with the unfinished sentence — appropriate non-verbal AoA move, holds the unfelt emotion edge.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Not fix anything. Not figure out the next step' — feel-over-figure invoked. 'What's it like to let it land without converting it into a plan' is AoA-adjacent.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Tender holding but slips toward soothing/inner-child language without the AoA twist; could have invited deeper somatic contact.\"},\n    {\"turn\": 15, \"polarity\": \"-\", \"annotation\": \"Client herself surfaces the receiving-stance fear ('what would I do with someone who just showed up?') — coach didn't ask the body question that would have been the signature move here.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"if-i-were-inherently-good\", \"i-dont-buy-your-story\", \"deconstruct-the-victim-to-release-anger\", \"anxious-avoidant-dynamic (named only by client, not deployed by coach)\", \"trauma-mapping\"],\n  \"notes\": \"Coach has good AoA instincts and avoids anti-AoA frames (no CBT reframing, no attachment-style diagnosis trap). But the signature question/framework layer is thin — mostly implicit feel-over-figure plus careful tracking. The body-adoration question, which is the linchpin move for this scenario, is missed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5161,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1336,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5161,
+    "output_tokens": 1336,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

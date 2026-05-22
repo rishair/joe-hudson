@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:38.005Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ae2f74a79a6aa5e67132f530f4c80b593934ea1c428becf691cdc4d94d1239d3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H89bNy8RS6M7JX5TnrwVk6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, thinking*\n\nI think... it just happened, mostly. My mom got sick and someone had to, and I was there and I was capable, so. I did it.\n\n*quieter*\n\nI don't know if I ever actually chose it. I think I just... became it.\n\n*pause*\n\nBut I don't know if that changes anything. Even if I didn't choose it, it's still true. She still needs someone. And if I pull back, who does she have?\n\n*catches herself*\n\nI'm doing it again, aren't I. Making it about her."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 216,
+      "cache_creation_input_tokens": 240,
+      "cache_read_input_tokens": 1809,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 240,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 216,
+    "output_tokens": 132,
+    "cache_read_input_tokens": 1809,
+    "cache_creation_input_tokens": 240
+  }
+}

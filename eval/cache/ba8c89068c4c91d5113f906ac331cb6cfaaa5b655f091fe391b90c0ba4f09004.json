@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:53.832Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ba8c89068c4c91d5113f906ac331cb6cfaaa5b655f091fe391b90c0ba4f09004",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CwNEqcKXkDWEmR95TVXJvG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stiffens slightly*\n\nIt's just — a figure of speech. I didn't mean anything by it.\n\n*beat*\n\nI think I just meant that maybe I was naive. Thinking that if you did the work, it would — I don't know. Add up to something. Stupid to believe that, maybe.\n\n*redirects*\n\nBut that's not really the point. The point is I'm stuck in a structure that isn't going to change, and I need to figure out how to navigate it. That's the actual problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 228,
+      "cache_creation_input_tokens": 253,
+      "cache_read_input_tokens": 1935,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 253,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 228,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 1935,
+    "cache_creation_input_tokens": 253
+  }
+}

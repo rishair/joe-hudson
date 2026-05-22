@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:19.849Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83bdb79cd14914348c5bb87d0a202d4d94cba290e53ba2fc9780c9e1317350aa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UvtkkqPhCQ8c8ra3RLYzQb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's just — I don't know. It's a little absurd, isn't it? Someone asking me how my body feels when the problem is organizational structure. Like, the answer isn't going to be in my shoulders somewhere.\n\n*pause*\n\nIt's tight, if you want the answer. Everything's tight. But that doesn't change the org chart."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 119,
+      "cache_creation_input_tokens": 94,
+      "cache_read_input_tokens": 1597,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 94,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 79,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 119,
+    "output_tokens": 79,
+    "cache_read_input_tokens": 1597,
+    "cache_creation_input_tokens": 94
+  }
+}

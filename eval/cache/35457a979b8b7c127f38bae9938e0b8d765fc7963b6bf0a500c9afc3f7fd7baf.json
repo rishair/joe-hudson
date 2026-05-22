@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:47.576Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "35457a979b8b7c127f38bae9938e0b8d765fc7963b6bf0a500c9afc3f7fd7baf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01A6Nz4HrUke41Tu5YQoPbvV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*smiling a little with you at that laugh*\n\nThree times is enough to make anyone start asking that question seriously. And the fact that you're asking \"why do I keep ending up here\" rather than just \"why are they like this\" — that's actually a really significant shift.\n\nSo let me ask you something, and take your time with it...\n\nWhen you're in the *early* part of these relationships — before it becomes clear they can't show up — what does it *feel* like? What draws you in?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 111,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 111,
+    "output_tokens": 115,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

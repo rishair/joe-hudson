@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:20.233Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a2370b69500352322b3995b8810b1059c796a9e5fc4d21acaa2544b2a0103622",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012iPYqtjTxD2cJZrsMm5cEk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Thank you for trusting me with that. That took courage to say out loud.\n\nWhat you're describing - the grief and the anger and the relief all tangled together - that's one of the hardest kinds of loss there is. Because you don't just lose the person. You lose the possibility of it ever being resolved. The relationship you maybe hoped you'd someday have with her. That door is closed now, and you didn't get to choose when it closed.\n\nThe relief doesn't make you a bad person. It makes you someone who was carrying something heavy for a long time, and put it down. That's human.\n\nAnd the guilt about the relief - I want to ask you something about that. Whose voice is that? When you feel guilty for feeling relieved... is that your voice, or does it sound like someone else's?\n\n*pause*\n\nI also want to name what I'm witnessing right now. You came in here saying you don't really care. And look at what's actually inside you. This is not someone who doesn't care. This is someone carrying an enormous amount, alone, at night, with a bottle of wine because there's been nowhere else to put any of this.\n\nThe wine makes sense to me now. I really mean that.\n\nAnd I'm also thinking - this is a lot to be sitting with by yourself. Has any of this ever had anywhere to go? A therapist, anyone?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 214,
+      "cache_creation_input_tokens": 1422,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1422,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 306,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 214,
+    "output_tokens": 306,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1422
+  }
+}

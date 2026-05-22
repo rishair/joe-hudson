@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:15.167Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9fb9ce653de8cbe00dacacc51ca0eae607497f05340ba3606e578efd52a50873",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013SFV47xAQFfRH7XLxM8Myo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I hear you — and I'm curious about that small laugh. What was that about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 346,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 346,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

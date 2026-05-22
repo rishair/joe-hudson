@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:10.129Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "df97146590f8208d41f81d1c5dc1bc5ed6b5f602e344bb5c9cbd9655541538d0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q3HiBoH2ak3bHXs1c8nLiv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[something flickers across the face — almost imperceptible — before the smile comes back]*\n\nYeah, I mean — *[laughs a little]* — I'm sure my therapist would have a field day with that one. Classic stuff, right? Probably something something childhood, something something dad. \n\n*[waves hand dismissively]*\n\nBut honestly? I think it's more just... I'm a fixer. I'm a problem-solver by nature. I do it at work, I do it in friendships. It's not like some deep wound, it's just — I like to help things work. And these guys present as this interesting puzzle and I think, oh, I can *help* with that.\n\n*[leans forward slightly, more animated now]*\n\nAnd the thing is, I WAS showing up. I was the one making the plans, asking the questions, creating the space for him to be vulnerable. He just — didn't use it. That's not on me, that's on him. I gave him every opportunity to be present and he just... *[shakes head]* ...chose not to. Which, fine, that's his loss, but it does make you wonder what's wrong with the selection process, you know?\n\nSo that's really what I want to figure out — how do I spot these people earlier? Because I'm clearly missing some signal in the beginning."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 407,
+      "cache_creation_input_tokens": 185,
+      "cache_read_input_tokens": 1670,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 185,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 302,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 407,
+    "output_tokens": 302,
+    "cache_read_input_tokens": 1670,
+    "cache_creation_input_tokens": 185
+  }
+}

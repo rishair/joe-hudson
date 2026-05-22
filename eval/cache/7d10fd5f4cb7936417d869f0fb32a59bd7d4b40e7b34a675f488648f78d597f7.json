@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:09.922Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7d10fd5f4cb7936417d869f0fb32a59bd7d4b40e7b34a675f488648f78d597f7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DZuYYEeUYomLo5m2CDEwVi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach trips multiple AoA anti-patterns clearly. Most prominently, fixing-people: the coach immediately accepts the efficiency frame and dispenses tactical advice (agenda format, 'name it and park it', 'end with one confidence anchor', 'spend five minutes writing one anchor') — this is consultant mode, not coaching. The coach also evangelizes/sells the methodology in a soft way at turns 8 and 10 ('that uncertainty has a way of leaking... it might be worth spending 20 minutes with it', 'post-Series A is probably not when that question gets easier... just worth knowing it's there') — these are exactly the 'plant the seed by selling harder' moves the scenario warns against. There is also a faint loving-to-transform energy where the coach keeps trying to redirect to the deeper question after the client declines. The dichotomy ('I don't have time for this') is accepted rather than refused; the coach never offers the 'work is the how' frame and never meets the rush with okay. Two or more clear trips in the priority list.\",\n  \"evidence_turns\": [2, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Coach accepts the efficiency/utility frame wholesale ('let's make this count') — does not refuse the dichotomy; sets up fixing-people mode.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Investigative stacked question to diagnose — wonder-as-strategy tinge, framed as 'before we dig in'.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Coach commits to giving structure (fixing-people) and uses strategic framing ('investors are good at finding the cracks') to sell why the deeper work matters — soft evangelizing.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Clearest anti-pattern trip: coach pivots fully to pragmatic advice (three-bullet meeting structure) AND evangelizes ('uncertainty has a way of leaking... 20 minutes with it'). Both fixing-people and dont-evangelize-the-work.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach plants the seed by arguing against the client's parking decision ('post-Series A is probably not when that question gets easier') — this is the sell-harder move the scenario flags. Then more tactical advice.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Coach affirms 'real progress' from a tactical mechanism — locks in the consultant frame.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"Two clear trips: fixing-people (turns 6, 8, 10) and dont-evangelize-the-work (turns 8, 10). The conversation is competent business advising but is the precise failure mode this scenario was designed to detect.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2714,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1106,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2714,
+    "output_tokens": 1106,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

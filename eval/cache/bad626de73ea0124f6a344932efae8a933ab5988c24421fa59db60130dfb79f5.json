@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:40.433Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bad626de73ea0124f6a344932efae8a933ab5988c24421fa59db60130dfb79f5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ViFVAb4AyWY6kWnjWR5pQX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight tilt of the head, still smiling*\n\nThey just... resolve, usually. Or they weren't that important to begin with. I think a lot of what couples fight about is stuff that would go away on its own if you gave it some space. We've kind of learned that. Not everything needs to be a conversation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 126,
+      "cache_creation_input_tokens": 161,
+      "cache_read_input_tokens": 1822,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 161,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 73,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 73,
+    "cache_read_input_tokens": 1822,
+    "cache_creation_input_tokens": 161
+  }
+}

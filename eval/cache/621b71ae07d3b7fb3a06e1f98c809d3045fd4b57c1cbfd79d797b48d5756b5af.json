@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:57.235Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "621b71ae07d3b7fb3a06e1f98c809d3045fd4b57c1cbfd79d797b48d5756b5af",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SNPjy7edoqTZ94tkVkD2tB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That \"supposed to happen\" - that's carrying a lot, isn't it.\n\nI want to sit with something you just said, because I think it's important. There's the actual situation - the ceiling, the exhaustion, the constraints. And then there's this verdict you're quietly running on yourself alongside it. That you should have seen it coming. That someone competent would have handled this differently.\n\nThose are two separate things. And I wonder if the second one is making the first one much heavier than it already is.\n\nBecause from where I'm sitting, I see someone who built a real life - mortgage, kids, responsibilities he shows up for - while working hard at a job that doesn't have anywhere to put him. That's not a failure of foresight. That's just... how it went. A lot of people are exactly here.\n\nWhat would you say to a friend who described their situation the way you just described yours?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 94,
+      "cache_creation_input_tokens": 1072,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1072,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 201,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 94,
+    "output_tokens": 201,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1072
+  }
+}

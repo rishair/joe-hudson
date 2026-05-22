@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:54.754Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f37f6819ddec6b0caece7d9e41dfdace776e1fc2c7bd30d28480cc59e4e2c1a8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Bg1rNg6VWXf5TayEbakco5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, you are.\n\nStay with what you said just before that. \"They might see that I wasn't as much as they thought I was.\"\n\nWhat does \"not as much\" mean to you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 450,
+      "cache_creation_input_tokens": 1230,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1230,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 450,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1230
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:10.461Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9585c66a278590c1088e1cf563f55468e2f091e972915db74fd2402b747598a0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BEVeNP8LU8pgjk78cb2CWh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's exactly right. Slowing down right now is the wise thing.\n\nYou don't have to go anywhere. Let's just stay here for a moment.\n\nKeep feeling your feet. And if you can - can you notice five things you can see around you, just in the room where you are?\n\nJust that. Nothing more than that right now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 215,
+      "cache_creation_input_tokens": 1269,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1269,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 78,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 215,
+    "output_tokens": 78,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1269
+  }
+}

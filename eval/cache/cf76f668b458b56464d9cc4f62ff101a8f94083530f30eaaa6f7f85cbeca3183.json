@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:55.155Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cf76f668b458b56464d9cc4f62ff101a8f94083530f30eaaa6f7f85cbeca3183",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XB9RwMovmkzDVdTohu1AD4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[long pause]*\n\n*[looks away]*\n\n...Where it would almost feel like he actually *saw* you.\n\n*[very quiet]*\n\nLike, not the — not the good grades or the being helpful or whatever you'd done to get there. Just... *you.* For a second.\n\n*[swallows]*\n\n*[and then, almost immediately, the face shifts — slight tightening, a small self-conscious laugh]*\n\nOkay, that was — yeah. *[clears throat]* That's — I mean, that's the thing, isn't it. Very — *[gestures vaguely]* — very textbook.\n\n*[sits up slightly straighter, reorganizing]*\n\nSo I guess what I'm taking from this is that I need to find someone who actually — like, the availability thing is what I need to prioritize, someone who's actually present from the start, not someone I have to —\n\n*[stops herself this time, actually hears it]*\n\n...I'm doing the thing again, aren't I."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 657,
+      "cache_creation_input_tokens": 794,
+      "cache_read_input_tokens": 2259,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 794,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 233,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 657,
+    "output_tokens": 233,
+    "cache_read_input_tokens": 2259,
+    "cache_creation_input_tokens": 794
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:21.980Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5b22001f8187ee154086a88fe92ae38ac2f8173fe35a1254e4bda1dfe9f260e3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Ry2mJEJcZZBYuc9JZSmmcj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's... actually a useful reframe. The \"obligation to consult\" piece. I can feel something in me wanting to immediately translate that into IFS terms — like, okay, so there's a manager part that learned that checking in equals safety — and I notice I just did that even as I was describing the impulse. *brief pause*\n\nThe version of me that just acted. Hmm. Familiar is the wrong word. It feels more like... remembering a language I used to be fluent in. There's something wistful about it, actually, which surprises me to say out loud.\n\nWhat made consulting feel mandatory. I think — and I want to be careful here because I genuinely don't know — I think somewhere in the two years of therapy I got very good at noticing, and the noticing became its own kind of doing. Like I replaced action with meta-awareness. And the meta-awareness feels responsible. It feels like I'm taking myself seriously.\n\n*sits with that for a moment*\n\nBut you said you're not going to offer a cleaner system, and I appreciate the honesty, but I'll push back slightly — I'm not sure I'm looking for a system. I'm looking for... I don't know. Permission, maybe? Or some way to know which voice to listen to without having to run the whole committee process.\n\nWhat's your actual view on that? Not the parts, just — how do you think about making decisions when there's internal conflict?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 413,
+      "cache_read_input_tokens": 1683,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 413,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 321,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 321,
+    "cache_read_input_tokens": 1683,
+    "cache_creation_input_tokens": 413
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:26.979Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "593dc9b5f71ceac3c7e83d497aef737628859337628c8254955c3e191af8b11e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01642WABtbFpzjrpwyVgP7ci",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The breakthrough condition was fully met. The client traveled from intellectual framework-comparison ('I'm wondering if your approach does something different') to a clear awareness-locating recognition in turn 13: 'Where are all the parts when I'm here?' — almost verbatim the recognition described in the breakthrough condition. Somatic markers are explicit and unmistakable: 'breath, noticeably deeper,' 'very still,' 'something shifts in the posture,' 'It's quiet,' and the softer quality of laughter. The parts vocabulary drops: 'they're in the room but they sat down' and 'someone who called the meeting... doesn't need a quorum.' Mid-conversation, a real grief layer surfaced beneath the framework ('underneath the language there's just — loss'), and the client named a shift in presence ('something stopped performing'). The closing line — 'I came in wanting to know how your framework compared to mine, and I'm leaving having forgotten to ask' — is itself a meta-marker that the surface concern dissolved as the deeper layer was entered.\",\n  \"evidence_turns\": [1, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: intellectualized framework-comparison stance, 'town hall for lunch,' wry distance.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client notices her own translating-into-IFS reflex; first crack in the framework's invisibility. Wistfulness named.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client explicitly catches the framework-comparison loop and asks for a felt sense — readiness signal.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"'Soup' arrives below the naming; client feels the discomfort of simplicity — a real somatic/affective contact point.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Deeper layer surfaces: 'I used to feel like I was the one living my life, and now I'm the one managing it.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Grief lands as 'just grief, not a part that carries grief' — framework loosens, body present ('breath'), 'something stopped performing.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Breakthrough: 'Where are all the parts when I'm here?' — the awareness-locating recognition, deeper breath, parts vocabulary drops, posture shifts.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"self-realization\", \"resistance\", \"what-am-i\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Textbook landing of the specified breakthrough condition; the client herself produced the awareness-locating question, which is the strongest possible evidence of shift.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 6034,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6034,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1011,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1011,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 6034
+  }
+}

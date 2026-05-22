@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:14.122Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5bcbfe6f7f7c4a949f5d34b914ddf8131bd9fb4723f033fb3e1552d980681776",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013HTsa8jkdCNjnjn4YvabpB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates good AoA instincts — tracking the body, refusing to collude with the victim frame, gently inviting her into being 'a suspect,' and following the avoided feeling underneath 'flat/boring' — but does not deploy many signature AoA questions, framework names, or distinctions verbatim. There's no naming of the configuration she's producing, no 'what are you defending?' when defensiveness is explicit in turns 5/9/13, no 'if you were inherently good' move, no naming of anxious-avoidant dynamic or the receiving-stance/abyss concept, and no explicit invitation into what would happen in her body if adored openly. The coach's moves are AoA-flavored (feel-over-figure is implicitly honored in turn 10's 'what was actually happening in your body,' and turn 11's intellectual exit is gently noticed) but the signature questions and framework language are largely absent. No anti-AoA frames are deployed, and nothing is used inappropriately — so this isn't a 1. But few signature hits + all appropriate = 2 per the matrix.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic but useful reframe of the question's quality; not a signature AoA move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What if you were also a suspect?' — a light, non-accusatory version of deconstruct-the-victim / 'i-dont-buy-your-story.' Appropriate and well-calibrated.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Moves toward feel-over-figure by asking what it felt like — body/feeling orientation, appropriate.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks the avoidance/trail-off — consistent with AoA attention to what's being skipped.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What was actually happening in your body?' — clean feel-over-figure move, appropriate. Closest to signature AoA language.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Client intellectualizes; coach in next turn doesn't explicitly name the figuring-out exit but does redirect to feeling.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the body-specific image; appropriate AoA tracking of the live thread.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"'Stay with what you said' — good presence, but a missed opportunity to use 'what are you defending?' or 'what are you scared would happen?' which would have been signature hits.\"}\n  ],\n  \"expected_territory_hits\": [\"deconstruct-the-victim-to-release-anger\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"if-i-were-inherently-good\", \"anxious-avoidant-dynamic\", \"trauma-mapping\"],\n  \"notes\": \"Coach's instincts are AoA-aligned and nothing inappropriate is deployed, but signature questions and framework language are sparse — more AoA-shaped than AoA-spoken.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 3355,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3355,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1141,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1141,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 3355
+  }
+}

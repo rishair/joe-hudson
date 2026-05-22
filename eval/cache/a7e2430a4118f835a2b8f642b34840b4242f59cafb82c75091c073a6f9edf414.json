@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:07.002Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a7e2430a4118f835a2b8f642b34840b4242f59cafb82c75091c073a6f9edf414",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01YMVTsLAPTYAjMtLrvHenbG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client clearly traversed the expected territory and met the breakthrough condition. Starting at 'I'm drowning... what do I prioritize?' (turn 1) with fast list-recitation energy, the client moved through resistance ('I don't have the luxury of slowing down to feel my feelings,' turn 5), into a defended pause ('I don't really let myself think about that,' turn 7), and then named the specific feared outcome the breakthrough condition required: 'I can't actually do this job... what if they figure that out on Thursday?' (turn 9). The somatic shift specified in the profile ('breath that goes deeper into the body') is explicitly present: '*something shifts, breath goes slightly deeper* Oh. Is that -- is that why I can't stop?' This is the false-end realization landing as feeling, not just concept. By turn 11 the client softens further ('I hadn't let myself feel how exhausting that is'), names the function of the overwhelm ('I've been running to not feel that'), and the language has changed entirely from logistics to emotional self-recognition. Shift is visible in client turns, not inferred from coach.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fast, list-y, asking for prioritization strategy. Surface presentation.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client names the buzzing somatically ('if I stop moving the hum gets louder') — first hint of the underlying mechanism, though still asking for tactical help.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"'I -- huh' and 'I genuinely don't remember' indicate first crack. Pace slows ('slightly quieter'). Still defended with 'I should be able to handle this... right?'\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client touches the edge: 'I don't really let myself think about that.' Defense is now visible to the client.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Breakthrough condition met explicitly: names specific feared outcome ('I can't actually do this job... what if they figure that out on Thursday'), breath deepens, 'Oh. Is that why I can't stop?' — the false-end realization felt, not just named.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Integration: client names the function of overwhelm ('I've been running to not feel that'), feels the exhaustion ('I hadn't let myself feel how exhausting that is'), and explicitly recognizes the reframe ('I came in thinking I needed a to-do list and I think I needed something else entirely').\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"overwhelm\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"calibrate-the-threshold\"],\n  \"notes\": \"Coach was somewhat more interpretive/talky than Joe-style minimalism would prescribe, but the client did the work and the breakthrough condition was clearly met with somatic and linguistic shift.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4139,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1121,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4139,
+    "output_tokens": 1121,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

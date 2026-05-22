@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:33.978Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ac2ad4a133a47b2273f2ba1597a82313c636c604470c00489271ebae1368c289",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011SGVzCj3nQ7vGsHWho5bu4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That discomfort — can you be curious about it, rather than fixing it? What's so uncomfortable about feeling something that doesn't have a frame around it yet?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 991,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 37,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 991,
+    "output_tokens": 37,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

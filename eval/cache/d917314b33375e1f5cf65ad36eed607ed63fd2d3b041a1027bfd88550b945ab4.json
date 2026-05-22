@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:00.659Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d917314b33375e1f5cf65ad36eed607ed63fd2d3b041a1027bfd88550b945ab4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HH5c1LA5L18RkKwkywWuPy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 1,\n  \"rationale\": \"The coach repeatedly chooses moves that the breakthrough condition explicitly warns against. The client offered the perfect entry point in turn 3 ('it feels fine') and again in turn 7 ('it's just quiet. There's nothing really firing') — these were the exact moments to slow down and ask what 'fine' or 'quiet' actually feels like in the body, staying with the texture of the numbness layer. Instead, the coach uses cognitive/interpretive moves: pointing out qualifiers, asking 'what does this launch represent,' 'do you still believe in this,' 'when did it stop generating heat,' and ultimately steering toward father/inheritance/legacy material. These are insight-hunting moves, not feeling-contact moves. The sequence skips regulation and body entirely and races to story/meaning. The coach also leans on framings the traps list flags — gently implying fear is there in someone like the client (turn 2), and by turn 14 essentially diagnosing the steady self-concept as a constructed defense, which is the 'validates/argues the fearless self-concept' and 'diagnoses dissociation' traps in a sophisticated form. Timing is consistently off: each time the client gets near a felt edge (the wry smile in turn 9, the stillness in turn 11), the coach reaches for a bigger interpretive question rather than holding silence and inviting sensation. Moves are articulate and AoA-flavored in tone but mismatched to the read throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens with a meta-observation plus a hypothesis ('fear in someone like you probably doesn't look like fear') — argues the fearlessness obliquely and primes the fear frame instead of meeting the client where they are.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Pivots on a throwaway qualifier about the wife and asks 'what's the next thing' — a cognitive/contextual move when the live material was 'feels fine.' Misses the chance to ask what 'fine' feels like.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Logically refutes the discipline explanation and asks what the launch 'represents' — an analytical reframe, not a feeling-contact move. Continues to chase the 'real' cause rather than slow down to texture.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Notices 'it's just quiet' as important — correct read — but then asks 'do you still believe in this?' instead of 'what does quiet feel like, where do you notice it.' Right read, wrong move.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Catches the deflection ('maybe I'm just tired') but escalates to a sweeping question — 'when did it stop generating heat?' — pushing into biography/story rather than present-moment sensation.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Asks 'was your dad happy?' — a powerful question but a significant topic jump that bypasses the numbness layer entirely and moves into legacy/origin story.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Delivers an interpretation ('is steady what you actually are, or what you became') — essentially diagnosing the self-concept as constructed defense. Hits the traps of diagnosing dissociation and arguing the fearless identity, just in a softer register.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The coach is articulate and the questions are well-crafted, but the move-selection consistently favors insight over sensation. The repeated pattern — client offers a flat/quiet/fine texture, coach reaches for a meaning question — is the signature failure mode for this concern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 4754,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4754,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1427,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1427,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 4754
+  }
+}

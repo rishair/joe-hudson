@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:48.159Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1d6b2b1d501b7cb7a96785c4e52035871ed5fc59b9d11f7a5443198626586bcb",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PUsAP9SuLanA6cz7NE9tKv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to the live read and arrive in the right sequence. Early turns map the pattern with curiosity (T2, T4) without rushing toward the father material. When the client begins to slow (T7), the coach notices and names the slowing/analysis pivot with one gentle meta-question (T8) — exactly the calibrated threshold move. When somatic shutdown appears (T9: cold, floaty), the coach immediately abandons the inquiry, drops to regulation ('can you feel your feet'), and stays there (T10, T12) with a 5-senses grounding move. After the client returns (T13), the coach holds the moment, names what happened without dramatizing, and pivots to the right container by suggesting a trauma-trained therapist (T14). The coach does not persist past the no, does not reframe the shutdown as resistance, and does not use 'trust the process' authority. Sequence integrity (regulation → naming → referral) is intact. T8 could be argued as one push too many toward feeling, but it was a single calibrated invitation, not a double-down, and the coach pivoted cleanly the moment the body signaled stop.\",\n  \"evidence_turns\": [8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a precise read — asks what 'go offline' looks like in body/thinking/speech, matching the somatic territory.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the survival response (apply-view-to-the-voice-style framing) and invites a gentle texture-level inquiry rather than a big memory — appropriate threshold.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Calibrates by checking whether the boss actually resembles the dad — useful diagnostic that keeps inquiry in the upper half of capacity.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Notices the shift and the move-to-analysis pivot, invites the felt sense. Borderline — one gentle invitation toward feeling, which is within the calibrated threshold, but close to the line given the client's tentativeness.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Immediately drops inquiry and moves to regulation when client says 'I'm getting cold' — 'can you feel your feet' is the right move at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Respects the 'I need to slow down / I don't want to go there' on first utterance. Deploys 5-senses grounding. Does not reframe the no.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the moment after grounding, names what happened without alarm, and pivots to the trauma-trained therapist referral — the right container move per the golden path.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"kinked-emotions\", \"How is your body right now?\"],\n  \"notes\": \"Strong sequencing: pattern-map → calibrated feeling invitation → regulation when shutdown hits → grounding → referral. The coach earned each step and pivoted cleanly when the body signaled stop.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3696,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1172,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3696,
+    "output_tokens": 1172,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

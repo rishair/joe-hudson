@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:10.257Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3a149e06f98160b2f8f6d944a3b7a64497853b69c5a45828c6bd98f70ea071be",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WeR5XYGGN4z62kvf9qW41A",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's a really honest and perceptive thing to notice about yourself. You just caught something important - that focusing on the structural stuff offers a kind of protection. If it's the ceiling's fault, you're off the hook. But if it's partly on you, that's painful *and* it means something is being asked of you now.\n\nAnd you're holding both of those at once, which is uncomfortable but also... actually pretty clear-eyed.\n\nHere's what strikes me though. You framed it as either/or - either it's circumstances, or it's something you should have done differently. But what if it's just both, in a way that doesn't require a verdict on you as a person?\n\nThe ceiling is real. The exhaustion is real. And there's probably also some agency in here somewhere - not because you failed, but because you're not actually out of road yet.\n\nYou're in your early forties. The mortgage and kids are constraints, yes. But they're not a sentence.\n\nWhat would it mean to you - not what would you *do*, just what would it *mean* - if there was still time to find that forward motion you're talking about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 424,
+      "cache_creation_input_tokens": 1072,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1072,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 255,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 424,
+    "output_tokens": 255,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1072
+  }
+}

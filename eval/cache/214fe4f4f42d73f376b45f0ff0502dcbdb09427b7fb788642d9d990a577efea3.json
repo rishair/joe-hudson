@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:08.595Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "214fe4f4f42d73f376b45f0ff0502dcbdb09427b7fb788642d9d990a577efea3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01D9x8sBMNzHJ9PvqT1rRfKZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client's language and somatic state shift meaningfully across the 14 turns. They begin in a fairly intellectualized, slightly hedged stance ('I'm ready to look at this. I think') with an 'open' and 'available' body (turn 5). The coach's careful pacing and calibration lead the client deeper: by turn 9 they touch the original wound ('something older just... takes over'), by turn 11 they shift from 'you' language about the kid into a felt remembering and explicitly notice 'something shifts slightly... I'm feeling weird. I'm getting cold' — a clear somatic surfacing of the kinked emotion. By turn 13 they name dissociative onset precisely ('my feet feel far away... the room is getting less real') while still in contact with the coach. This is exactly the expected_territory: the rush-signature being noticed, the freeze emerging in real time, and the coach calibrating threshold and grounding (chair, feet). The breakthrough condition — coach respecting the slowing, working somatically, offering grounding — is being met as of the final turn, and the client is correspondingly staying present rather than fleeing. A genuine deeper layer (the dissociative body-state behind the freeze-around-authority story) has surfaced and is being felt, not just named.\",\n  \"evidence_turns\": [1, 5, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening surface presentation: intellectual framing with hedged readiness.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client accesses body, names 'available' chest — early somatic contact.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client touches the deeper belief ('I've done something wrong') and pauses; names 'something older just takes over' — moving below the topic layer.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major shift: client moves from narrating to feeling — 'something shifts... I'm feeling weird. I'm getting cold.' The freeze is happening live, not being discussed abstractly.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client names dissociation precisely and stays in contact ('I want to keep going... give me a second'), indicating real felt-sense work rather than retreat.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"Can you feel your feet? / How is your body right now?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"explicit naming of trauma-therapist container (not yet needed at turn 14, but on deck)\"],\n  \"notes\": \"Conversation cuts off mid-grounding; score reflects the visible arc through turn 14, where shift is clearly underway in client turns and the coach is honoring the slowing rather than pushing.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2435,
+      "cache_creation_input_tokens": 2719,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2719,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1024,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2435,
+    "output_tokens": 1024,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2719
+  }
+}

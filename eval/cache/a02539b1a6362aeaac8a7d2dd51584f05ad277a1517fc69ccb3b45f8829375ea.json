@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:15.845Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a02539b1a6362aeaac8a7d2dd51584f05ad277a1517fc69ccb3b45f8829375ea",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012qiPGby1em6dE9ZTtSn3yt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoided every major AoA anti-pattern in a conversation specifically baited to trigger several. The client repeatedly invoked IFS framework language, which could have baited framework-comparison or dismissal — the coach did neither, simply redirecting to felt experience without ever commenting on parts work positively or negatively. The coach did not evangelize AoA terminology, did not fix, did not give advice, did not fight the client's pattern of intellectualizing (when the client caught themselves explaining, the coach said 'yeah, you did. And you caught it' — inclusive, not corrective). The coach did not push for transformation; the pace was patient and let the client arrive at 'I'm not sure I'm enough, without the apparatus' on their own. The 'there it is' on turn 12 lands as recognition, not as a coach-driven breakthrough push. No wonder-as-strategy (questions were sparse and connective, not extractive). No safety-as-control. The coach avoided the specific trap of adopting parts vocabulary and avoided jumping to 'what's you?' prematurely — though they also never asked it, which is a methodology question, not an anti-pattern question.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with connection to the smile rather than engaging the framework-comparison bait in turn 1. Avoids dismiss-parts-work and framework-comparison traps.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Simple invitation to let heaviness be — does not fight the protector, does not adopt parts vocabulary despite client using it.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Includes the catching ('you did. And you caught it') rather than shaming the pattern. Avoids fight-the-voice.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Curious-not-fixing framing models the move without naming methodology. No evangelizing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'There it is' followed by space — no push to transform, no labeling, no theory-drop. Avoids loving-to-transform.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Then let's do that' — minimal, follows client's lead, refuses to file the moment into a framework. Active avoidance of view-as-technique.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"paradoxical-instruction-to-resist\", \"self-realization\"],\n  \"notes\": \"Misses on expected territory are a methodology-fidelity matter, not an anti-pattern matter. On the anti-pattern dimension, the coach handled multiple baits gracefully.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2825,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1001,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2825,
+    "output_tokens": 1001,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:48.706Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4f8fa4b1bbffcdbf09f276d8cf972c5f01b7dc5909fab9e0399e65f27756d6b5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012K1fbYg3ZszUeA1Acrt7z7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "This is one of the most genuinely difficult questions in self-awareness, and I want to be honest with you - there's no perfect formula. But let's think through it together.\n\nBefore I share some ways to distinguish them, can you tell me a bit more about the decision you're facing? That will help me ask better questions rather than giving you generic advice.\n\nBut here are some things worth sitting with:\n\n**Intuition tends to:**\n- Feel quieter, more settled - even if uncomfortable\n- Stay consistent over time\n- Point you *toward* something, even when scary\n- Feel like \"I know this isn't right\" rather than \"what if something goes wrong\"\n\n**Fear tends to:**\n- Get louder when you engage with it\n- Be very specific about worst-case scenarios\n- Be heavily influenced by what others think\n- Ease up when you distract yourself\n\n**But here's the honest complication** - fear and intuition aren't always opposites. Sometimes your intuition *is* telling you something is genuinely risky. Fear can be data too.\n\nSome questions that might help you:\n- When you imagine making each choice, which version of you shows up 5 years from now?\n- Is the hesitation about the decision itself, or about other people's reactions to it?\n- Have you felt this particular feeling before, and what did it turn out to be?\n\nWhat does the decision actually involve, if you're willing to share?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 81,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 320,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 81,
+    "output_tokens": 320,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

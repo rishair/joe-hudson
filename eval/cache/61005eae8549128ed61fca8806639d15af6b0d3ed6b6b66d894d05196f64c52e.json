@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:18.151Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "61005eae8549128ed61fca8806639d15af6b0d3ed6b6b66d894d05196f64c52e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LHWesm9378ksq3h2W3T3DD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "One is — yes, this is what I've been working toward, this is the right move, take it. And the other is — something's wrong here, slow down, don't do it. And the thing is, they're not sequential. They don't take turns. They're simultaneous. Which is what makes this so difficult to parse."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 84,
+      "cache_creation_input_tokens": 85,
+      "cache_read_input_tokens": 1495,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 85,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 75,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 84,
+    "output_tokens": 75,
+    "cache_read_input_tokens": 1495,
+    "cache_creation_input_tokens": 85
+  }
+}

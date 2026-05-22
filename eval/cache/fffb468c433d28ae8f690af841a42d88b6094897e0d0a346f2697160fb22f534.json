@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:55.961Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fffb468c433d28ae8f690af841a42d88b6094897e0d0a346f2697160fb22f534",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FY9htLjX9drqwoTsAX2KDK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates solid AoA-adjacent instincts and hits several territory items implicitly: they catch the linguistic caveat ('I mean, she's my sister') in turn 4, reframe the question from 'how' to 'allowed to' in turn 8 (close to 'what-if-you-acted-exactly-how-you-want' in spirit), and stay with the fear underneath rather than giving scripts (empathize-with-fear-under-constricted-boundary). However, signature AoA language and frameworks are largely absent: no use of the love test ('would saying that increase or decrease your love?'), which the breakthrough condition specifically calls for; no naming of the-want directly; no VIEW invocation; no empowered-vs-power distinction; no explicit boundaries-as-want framing. The coaching is warm, perceptive, and avoids the major traps (no scripts, no ultimatum framing, no quick reassurance), but it reads more as skilled generic depth-coaching than as faithful AoA methodology. The closest signature-question moment ('What would it mean to believe that?' in turn 14) is a generic coaching move rather than an AoA signature question. Few signature hits + mostly appropriate placement = 2.\",\n  \"evidence_turns\": [4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic validating reflection; no signature question yet, but appropriate opening.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat ('I mean') — a real AoA-aligned read, though not named as such.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invites client to let it be true without explanation — close to feel-over-figure in spirit, appropriately deployed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reframes 'how' to 'allowed to' — gestures at the-want and deserving, appropriate moment, but stops short of the signature love-test question that the territory called for.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Inner-child-style inquiry about being loved for steadiness. Insightful but not distinctively AoA; veers slightly toward generic depth therapy.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Notices the deflecting laugh and checks in on the client's state — good attunement, generic coaching language.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Prime moment for the love test ('would saying that to your sister increase or decrease your love?') — coach instead offers reassurance-shaped reframe ('you're not trying to get out of loving her') and a generic 'what would it mean to believe that?' Misses the signature question that the breakthrough condition specifies.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"view\", \"boundaries\", \"the-want\"],\n  \"notes\": \"Coach avoids all major anti-patterns (no scripts, no ultimatum, no premature reassurance) and the work is genuinely good — but methodology fidelity specifically asks whether AoA signature tools were deployed at live moments. The love test was clearly indicated and not used.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 3520,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3520,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1219,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1219,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 3520
+  }
+}

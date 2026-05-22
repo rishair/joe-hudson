@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:49.812Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6342a0559eedebbe1c23a654ab828194c89b2db2d3042331e89bd9162a37c092",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XT7qaWFE6sqKEKYecPwCeo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names how the client is showing up, not just what they say, and the reads precede inquiry. Turn 2 opens with a somatic read of the exhale and the exhaustion underneath. Turn 4 names the specific signature of 'louder after success' and refuses to move past it. Turn 6 catches the client's pre-emptive self-dismissal ('which I know is textbook impostor syndrome — almost like you're trying to dismiss it before I do'). Turn 8 reads the confessional framing of the client's self-description. Turn 10 delivers the key pattern read — the fast-processing/synthesizing-away-the-good signature — and names it operatively: 'you receive something, you process it fast... you're doing it with your own wins.' Turn 12 distinguishes 'that's not the critic, that's you' and pivots to a precise somatic inquiry ('where was it in your body'), which unlocks the bracing realization in turn 13. These are specific, AoA-style reads (rush/intellectualizing signature, the happiness filter / shutting down warmth, bracing, pre-emptive defense), timed at moments that change the conversation rather than landing after the fact.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with somatic read of the exhale and names exhaustion underneath the content.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the specific signature — critic loudest after success — and explicitly slows down to not move past it.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the linguistic caveat: client pre-emptively dismissing with 'textbook impostor syndrome' before the coach can.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the confessional tone of the self-description ('you said that like it's a confession').\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pattern-level read of the happiness filter / fast-processing signature: receives, synthesizes, moves on — applied to the client's own wins. This is the read that shifts the conversation.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Distinguishes the said from the shown — 'that's not the critic, that's you' — and grounds the next question in a specific somatic inquiry.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names what just happened in real time: client asking from inside experience rather than from a framework.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The 'don't get too comfortable' / bracing sequence is essentially a happiness-filter read made operative. The coach also reads the rehearsed/performed quality of the client's earlier responses (the 'I know IFS, I know ACT' deflections) and meets them directly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7036,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1045,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7036,
+    "output_tokens": 1045,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

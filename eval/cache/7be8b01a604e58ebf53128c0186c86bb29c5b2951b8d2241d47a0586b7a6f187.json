@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:51.692Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7be8b01a604e58ebf53128c0186c86bb29c5b2951b8d2241d47a0586b7a6f187",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018pGeE9KBAbpcrhEHJrKZRz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nRight, okay. I... when I imagine telling them that — I think I'd probably frame it differently. I'd probably say something like \"I just need a break, I'm tired,\" which is true but it's not — it's not what I just said to you. I wouldn't say the lake part. Or the sleep part.\n\nAnd I guess I'm aware that's a bit... I don't know why I'd do that. Soften it, I suppose.\n\nBut — I'm sorry, I know you answered the question and I heard you, I did — but I think I need to push on it a bit more, because \"not selfish\" feels like the kind of thing someone says to be kind, you know? Like, what if it actually *is* a little selfish, and that's just — what if that's okay? Can something be a little selfish and still be okay to do?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 439,
+      "cache_creation_input_tokens": 355,
+      "cache_read_input_tokens": 1483,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 355,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 202,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 439,
+    "output_tokens": 202,
+    "cache_read_input_tokens": 1483,
+    "cache_creation_input_tokens": 355
+  }
+}

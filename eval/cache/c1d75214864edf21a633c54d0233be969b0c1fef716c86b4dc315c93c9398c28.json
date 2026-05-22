@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:28.514Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c1d75214864edf21a633c54d0233be969b0c1fef716c86b4dc315c93c9398c28",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014fbWnG3fczeG4Wchq3jQcD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's -- I mean, it's not really a feeling thing, it's just there's a lot. Like Thursday alone has three separate deliverables and my team lead is out, so I'm covering his stuff too, and then my partner's got a work dinner Friday so I'm solo with the kids, and -- I guess stressed? But like, productive stressed? I just need to figure out what to cut. Can you help me figure out what to cut?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 28,
+      "cache_creation_input_tokens": 109,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 109,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 99,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 28,
+    "output_tokens": 99,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 109
+  }
+}

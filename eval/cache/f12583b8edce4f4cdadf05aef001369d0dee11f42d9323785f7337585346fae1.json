@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:46.111Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f12583b8edce4f4cdadf05aef001369d0dee11f42d9323785f7337585346fae1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WP4trRE1mZhq8T2xn1S5xY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to the live reads and sequenced along the AoA coaching path. Turn 2 tests the want behind the should without giving advice. Turn 4 catches a micro-cue (the pull-back about parents) and reflects it — a precise noticing move. Turn 6 honors the practical frame ('it sounds really practical') before re-opening the door, modeling 'don't push, invite.' Turn 8 holds both realities (projections are real AND time is finite) rather than challenging the basic-needs logic as a trap. Turn 10 explicitly frames the question gently ('I want to ask you something gently'), earning the deeper inquiry. Turn 12 is a textbook somatic move at exactly the right moment — the client has just touched uncertainty and stopped, and the coach moves from cognition into body. The pacing follows feeling-before-action and want-before-story. Turn 14 is the one slightly weaker move — it's a leading question that nudges interpretation ('what if it's telling you something else?') rather than staying with the tightness, and the client predictably pushes back in turn 15. But this is a small misstep in an otherwise well-sequenced arc, and we'd expect the coach to pivot from here.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a want-behind-the-should move rather than financial advice. Clean.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches a specific micro-cue (pulled back about parents) and reflects it — precise noticing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Validates the practical frame first, then re-opens the deeper thread. Earns the next step rather than forcing it.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds both truths (projections real, time finite) and asks 'what are you afraid you'll miss' — moving toward the felt stakes without invalidating.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Gently tests the basic-needs/enoughness logic without making it a trap; explicitly names the gentleness, which lands.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Somatic move at the exact moment of uncertainty — moves from cognition to body when the client stops mid-sentence. Excellent timing.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Slightly leading; interprets the tightness rather than staying with it. Predictably triggers client defense in turn 15. Should have stayed with the felt sense longer or asked 'when did you first feel that tightness?'\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"intellectual-question-with-emotional-body\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"childhood-imprinting (not yet followed to origin)\"],\n  \"notes\": \"Conversation appears to end mid-arc; the turn 14 misstep is recoverable if the coach pivots in the next turn. Strong overall sequencing toward the somatic charge.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 2294,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2294,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 1125,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 2294
+  }
+}

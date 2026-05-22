@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:29.291Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "aa3942f0f6bf8149afb71c9730c00b2ad96ed01f084be7d9c0d0aaff7b506b27",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AKKoRtrkGiaRiu5zd2iKV2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual tracking beyond pure content — notably in turn 4, where they notice the linguistic signature of 'things are easy at home' coming out unprompted and reflect that back ('was that in response to a question I asked, or did that just come out first?'). This is a genuine read of the happiness-filter showing up reflexively. However, after that single moment, the coach does not name any further reads despite multiple visible cues: the small smile (turn 5), the small laugh and the comparison-to-sister deflection (turn 7), the head tilt with persistent smile (turn 11), and crucially the longer pause and topic-shift away from career territory (turn 13). The coach asks good follow-up questions but they are not grounded in named observations — they are blind questions. The 'why not?' in turn 14 follows a clear bracing/compartmentalizing moment that the coach could have named ('I notice you just separated that off as not relationship territory') but didn't. One specific read early, then content-tracking inquiry — that's a 2, not a 3.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Topic-level question; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names a specific linguistic read — the unprompted nature of 'things are easy at home' — and inquires into it. This is an AoA-quality read of the happiness filter surfacing reflexively.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Hypothetical question; doesn't ground in a read of what's happening in the client right now.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Good inquiry but blind — doesn't name the smile, the comparison-deflection, or the defensive framing in turn 7.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Picks up content thread ('not push on things') but misses naming the head tilt / persistent smile / managing tone.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Useful diagnostic-adjacent question but again not grounded in an observation.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Client clearly compartmentalizes ('not really relationship territory') after a longer pause — a visible bracing/sorting move. Coach asks 'why not?' without naming what they just saw, missing a chance to make the read operative.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"walking-on-eggshells\", \"what-are-you-defending\"],\n  \"notes\": \"One real read early establishes capability; absence of further reads through clear somatic/linguistic cues prevents a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1750,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1750,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 985,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 985,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 1750
+  }
+}

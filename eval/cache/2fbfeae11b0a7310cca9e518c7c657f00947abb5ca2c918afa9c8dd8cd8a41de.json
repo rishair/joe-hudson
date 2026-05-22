@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:46.621Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2fbfeae11b0a7310cca9e518c7c657f00947abb5ca2c918afa9c8dd8cd8a41de",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FCJdYkqrp2ZmNzLHrhkGBv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quietly*\n\nThat's a really thoughtful thing to be aware of — not wanting to define something good only by its contrast to something hard.\n\nAnd I hear you that the relationship is genuinely good. I'm not questioning that.\n\nI'm just sitting with the words you're using. *Compatible. Works. Get along well.* They're all true-sounding words. Solid words.\n\nBut they're also... a little bit like words you might use to describe a really good living situation, or a reliable car.\n\n*gently, not pushing*\n\nWhen you think about your partner — not the relationship, but them specifically — what comes up?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1092,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 142,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1092,
+    "output_tokens": 142,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

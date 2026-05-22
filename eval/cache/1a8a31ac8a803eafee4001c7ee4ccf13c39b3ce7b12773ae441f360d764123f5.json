@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:26.563Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1a8a31ac8a803eafee4001c7ee4ccf13c39b3ce7b12773ae441f360d764123f5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SYAzcB7ycpQucVsK3AKxX7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nYes. That distinction makes complete sense. And I think it's actually the sharper question. You're not asking \"what is my gut saying\" - you're asking \"can I trust my gut at all right now.\" That's different.\n\nAnd I want to be honest with you: I don't think there's a technique that gives you that. Not because you're broken or because the situation is unresolvable, but because **signal reliability isn't something you can test from inside the same state that's making you doubt it.**\n\nHere's what I mean. You're describing a kind of epistemic loop - every time you check the signal, the anxiety about whether it's reliable contaminates the reading. So you check again. Same problem.\n\nWhich makes me wonder something.\n\n**How long have you been in this loop with this decision?**\n\nBecause there's a version of this where the indecision itself is the thing worth examining - not as a character flaw, but as information. Sustained inability to land anywhere, on a decision that objectively has a lot going for it, sometimes points to something underneath that neither option is actually addressing.\n\nNot always. But sometimes.\n\nThe thing you said - *\"something I've actually earned for something I'd have to prove all over again\"* - that stayed with me. That's not abstract. That's quite specific.\n\n**What would it mean about you if you took the new role and struggled?**\n\nNot what would happen practically. What would it mean?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1237,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 326,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1237,
+    "output_tokens": 326,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

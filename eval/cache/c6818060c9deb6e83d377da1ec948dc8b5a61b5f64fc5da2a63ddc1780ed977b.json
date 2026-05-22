@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:26.855Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c6818060c9deb6e83d377da1ec948dc8b5a61b5f64fc5da2a63ddc1780ed977b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013o6yYjFhJmwYQgm3f1Xaq3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That description is so precise - \"someone pulled the plug.\" And the breath-holding, going still, trying to be small. That's not a confidence problem or a preparation problem. Your body is doing something very specific there.\n\nWhat you're describing sounds less like a thought and more like a **survival response**. Like some part of you learned, probably a long time ago, that being small and still and invisible was the smart move.\n\nI'm curious - when you think about your dad, does that \"trying to be small\" feeling connect to anything specific with him? Not necessarily a single big memory, but maybe just... a texture of what it was like to be around him?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 293,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 144,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 293,
+    "output_tokens": 144,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

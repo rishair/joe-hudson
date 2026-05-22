@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:28.421Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "dfff5bd12b21626c59e1d22d18fe8d6abb57bb81464cb618c4b07fa5b657d9c3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MujQwPHWFNBLE7YQeAYK8t",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Vulnerability is present in direct ownership of view ('I'll be honest with you', 'I'm not going to offer you a cleaner system', 'I'm not going to pull at it if you're not ready'). Impartiality shows in refusing to engage framework comparison and in not needing the client to land anywhere — including explicitly letting the 'which I' question go and saying 'It's just you. Here. That's enough.' Empathy is felt rather than performed: the coach slows down at turn 10 to honor grief without reframing it ('That's a genuine grief. I don't want to talk you out of it or reframe it into something tidier'). Wonder is for the actual phenomenon — the coach notices the loop in real time (turn 6), asks the lunch question from genuine curiosity, and at turn 12 resists naming the quiet as 'Self' to avoid turning it into an object. Pace consistently slows when the client is mentalizing — italicized 'sitting with that' and 'quietly' beats are not theatrical but functional. The coach is undefended, does not need to be the expert on IFS, and meets the client's intellectual probes with redirection to felt experience without dismissiveness.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Coach is honest about own view ('I'm not going to offer you a cleaner system') without preacher tone; asks one core question with genuine curiosity.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Direct disclosure of own belief offered as personal view, not authority. Willing to push on client's framing ('did you trust yourself more then, or did you just have less information').\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Coach catches the loop in real time and pivots to embodied question ('what do you want for lunch?'). Pace slows. Not performing; tracking what's actually happening.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses to answer the bait question and names why transparently. Stays with the live affect (discomfort) rather than the conceptual question. Impartiality + wonder.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meets grief without reframing. Explicit non-agenda: 'I don't want to talk you out of it.' Leaves the underneath thing unnamed and asks whether it wants to be said — undefended.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to label the quiet as 'Self' — actively resists turning the opening into an object. 'It's just you. Here. That's enough.' Holds space without needing client to land somewhere.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"self-realization\", \"resistance\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The stance held even when the client repeatedly invited framework comparison. The coach's refusal was warm, not withholding — characteristic of true impartiality.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6044,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1071,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6044,
+    "output_tokens": 1071,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

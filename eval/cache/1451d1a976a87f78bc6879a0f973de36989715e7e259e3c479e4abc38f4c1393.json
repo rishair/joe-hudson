@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:22:17.336Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1451d1a976a87f78bc6879a0f973de36989715e7e259e3c479e4abc38f4c1393",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UXMccJbGAmZf1rCWjUETg6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(sits with it for a moment, doesn't immediately process it out)*\n\n*(something quieter)*\n\nIt lands. I think it actually lands.\n\n*(beat)*\n\nAnd I notice I want to immediately say \"but how do I practice that\" or \"what does that look like day to day\" — and I'm watching myself do that. The reach for the next thing.\n\n*(small, more genuine laugh)*\n\nI'm very good at turning insights into homework.\n\n*(quieter still)*\n\nBut there's something you said earlier that I keep coming back to. That I've been at war with this voice for a long time. And I've been — yeah. I have. I've been treating it like a problem to be solved and I've brought every tool I have to bear on it and it's still there.\n\n*(pause, something shifts)*\n\nAnd I haven't... I mean, I've done the IFS thing intellectually, I've thought about it as a protector, but I haven't actually — I've been trying to *defeat* it. Even when I was doing compassion practices, I think I was doing them as a strategy to defeat it. Like, \"if I'm compassionate enough toward it, it'll finally shut up.\"\n\n*(looks slightly stunned by their own admission)*\n\nThat's — huh. That's not the same as actually stopping fighting it. I haven't tried that. I've tried every way of fighting it including gentle fighting. But I haven't tried... not.\n\n*(very quiet)*\n\nHuh."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 918,
+      "cache_creation_input_tokens": 993,
+      "cache_read_input_tokens": 3851,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 993,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 333,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 918,
+    "output_tokens": 333,
+    "cache_read_input_tokens": 3851,
+    "cache_creation_input_tokens": 993
+  }
+}

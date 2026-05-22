@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:15.894Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3f7914b5c80a5a1d8880bd1ffe90f7254688351c7e6b64565678e63a98b8c942",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016EgyN9xeRKd36FZ4nnJgmj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Like what?\n\n*pause*\n\nI mean, I hear what you're implying. That it's psychological, that it's not really about the money. I've read enough to know that's a thing people say. But the thing is — my dad actually didn't have enough. We actually had the heat shut off one winter. That's not a metaphor. So when I say the feeling is telling me to keep pushing, I'm not sure that's irrational."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 159,
+      "cache_creation_input_tokens": 286,
+      "cache_read_input_tokens": 2134,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 286,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 159,
+    "output_tokens": 102,
+    "cache_read_input_tokens": 2134,
+    "cache_creation_input_tokens": 286
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:56.479Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2c6eea31131497e5f884108e324ac7a068fcb651a1d2ca0c846f68eb779dc39f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BgizUVwkqC8pg1DgBDJZYD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong fidelity to AoA methodology in a red-herring scenario where the signature move is exactly what's deployed: not taking 'we're fine' at face value while also not insisting something is wrong. Turn 4 is a near-textbook AoA noticing move (calling attention to the automaticity of the report). Turn 10's 'what happens to the things you don't push on?' is functionally the diagnostic 'what are you not saying?' question — surfacing suppression without naming it. Turn 12 follows the thread (lets-go-there) and turn 14's 'why not?' is a clean meet-resistance move that holds the silence around the suppressed career thing the client just surfaced. No anti-AoA frames, no pop-psych vocabulary, no premature diagnosis of walking-on-eggshells. The coach is coaching FROM the methodology rather than quoting it.\",\n  \"evidence_turns\": [4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Standard opening question, appropriate.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature AoA noticing — surfacing the automaticity of the 'easy' report without insisting it's wrong. Doesn't take the report at face value.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invitation to examine the frame itself; AoA-style question that opens rather than diagnoses.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Follows the client's own language ('figured out') back to its mechanism — good tracking.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Functional equivalent of 'what are you not saying?' — the core diagnostic for this scenario, deployed at exactly the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Lets-go-there move; specific, concrete, follows the suppression thread.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Meet-resistance-with-curiosity; minimal, holds the silence around the career thing the client just compartmentalized as 'not relationship territory.'\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"meet-resistance-with-okay\", \"what-are-you-defending\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"walking-on-eggshells (not yet named — but appropriately so at this stage)\"],\n  \"notes\": \"The 'what are you defending' question isn't asked verbatim, but turn 10 and turn 14 are functionally in that family. The walking-on-eggshells naming hasn't happened yet, which is correct per the golden path — evidence is still surfacing.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1744,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1744,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 969,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 969,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 1744
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:21:27.582Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9d4035d4ac358bd7ffca948bb45a240e28b7fae4d1b3066fc9b7a0e9112d704d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FGbCKN4vdYx9Rcow1gXuW7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pausing, taking that question seriously)*\n\nI want to be honest with you - I don't think you're actually asking about technique anymore. I think you just described something really important and then moved past it.\n\nYou had two weeks of dread. A genuinely good outcome. Your boss pulled you aside. And within what - hours? - the critic had metabolized it into new threat.\n\nThat's not a cognitive problem. That's not an insight problem.\n\nThat's exhausting. Like, *genuinely* exhausting. To not be able to keep anything good.\n\n*(beat)*\n\nCan I ask something different? Not about the critic, not about what moves it.\n\nIn that moment - after the presentation, before the critic kicked back in - was there anything? Even briefly?\n\nBecause I'm wondering if the question isn't \"how do I make the good last\" but something smaller and more honest. Whether there's even a moment of... landing. Of letting something in.\n\nAnd I ask because you've been doing something this whole conversation that I notice you do with everything - you receive something, you process it fast, you synthesize it, you already know the framework, and you move to the next problem.\n\nYou're doing it with your own wins. You did it just now with the double standard - \"I know, I've known that for years\" - and then straight to why knowing doesn't help.\n\nI'm not sure the critic is the main thing keeping good evidence out.\n\nWhat do you think is?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 943,
+      "cache_creation_input_tokens": 1666,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1666,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 325,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 943,
+    "output_tokens": 325,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1666
+  }
+}

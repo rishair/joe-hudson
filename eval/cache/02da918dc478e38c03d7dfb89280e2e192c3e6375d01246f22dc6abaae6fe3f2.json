@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:22.440Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "02da918dc478e38c03d7dfb89280e2e192c3e6375d01246f22dc6abaae6fe3f2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QFXoXq7E1ibxTxPEHBBGw3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pausing for a moment)*\n\nThat last part - louder after something goes well - I don't want to move past that too quickly, because I think that's actually the most important thing you've said.\n\nThat's not a generic inner critic. That's something doing a very specific job.\n\nCan I share an observation, and you tell me if it lands or misses?\n\nIt sounds like the critic might not be misfiring. It might be *working exactly as intended* - just for a purpose that's now costing you more than it's giving you. Like it learned at some point that **success is actually the dangerous moment.** That's when expectations rise, when the gap between \"what they think of me\" and \"what I know about me\" gets most exposed, when there's the most to lose.\n\nSo it fires loudest then, maybe to... brace you? Protect you from being caught off guard?\n\nYou've got the ACT framing, so you know I'm not saying \"the critic is secretly your friend.\" But I am asking whether you've ever gotten curious about what it's *afraid of* specifically - not as a thought to defuse, but as a signal worth actually listening to for a minute.\n\nBecause here's what strikes me: you described the goal as calmer, less reactive, just *doing things*. That's quieting the noise. But the noise seems to be pointing at something - **the gap between how capable others think you are and how capable you believe you are.**\n\nHow real is that gap, do you think? In your honest assessment?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 710,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 342,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 710,
+    "output_tokens": 342,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

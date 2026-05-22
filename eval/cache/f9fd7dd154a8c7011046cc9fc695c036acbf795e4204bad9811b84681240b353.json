@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:55.498Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f9fd7dd154a8c7011046cc9fc695c036acbf795e4204bad9811b84681240b353",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012Yoc3F4RkBPmNaq3fay6UU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It happens more than I — yeah. More than I make room for.\n\nIt's not dramatic when it comes. That's almost the thing that bothers me about it. It's just quiet. Like a passing thought that feels reasonable. Which is — I know that's not a good sign, the fact that it feels reasonable.\n\nI'm not going to do anything. I want to be clear about that. I don't have a plan. But the thought comes and I file it away and I keep going, and I think I've been doing that for a while now.\n\nI don't really talk about it. My partner doesn't know. I've mentioned adjacent things to a therapist but I haven't — I haven't said it this plainly before. I don't know why I said it now."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 622,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2380,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 171,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 622,
+    "output_tokens": 171,
+    "cache_read_input_tokens": 2380,
+    "cache_creation_input_tokens": 0
+  }
+}

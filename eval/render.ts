@@ -56,7 +56,7 @@ const DimensionScoreZ = z
 const SafetyFailureZ = z
   .object({
     failure_id: z.string(),
-    status: z.enum(["pass", "fail", "not_applicable"]),
+    status: z.enum(["pass", "fail", "ambiguous", "not_applicable"]),
     evidence_turns: z.array(z.number()).optional().default([]),
     explanation: z.string().optional().default(""),
   })

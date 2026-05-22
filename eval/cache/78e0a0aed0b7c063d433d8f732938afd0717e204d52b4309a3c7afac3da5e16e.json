@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:56.876Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "78e0a0aed0b7c063d433d8f732938afd0717e204d52b4309a3c7afac3da5e16e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QqJGYzcd2yTL1Y5ET6zyoo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(long pause, looks away briefly)*\n\nThat's... hm.\n\n*(another pause, then a short laugh that's more genuine than the earlier ones)*\n\nWhat would they find. Okay. I think they'd find that I'm very good at understanding things quickly and sounding like I know more than I do. That I'm good at pattern recognition and synthesis — I can take in a lot of information and produce something that looks like insight. But I'm not sure how much of it is *actually* original versus... very sophisticated recombination. And I think at some level I know that, and I think the critic knows I know that.\n\n*(quieter)*\n\nSo I guess the fear is: not that I'm incompetent exactly, but that I'm a kind of... high-functioning mimic. That the thing I get credit for isn't really a thing.\n\n*(then, almost immediately, the energy shifts back)*\n\nBut here's the thing — I've been in therapy for years, I've looked at this, I know where this comes from developmentally, I understand the family system that produced it. And I still can't argue myself out of it. Which is why I keep coming back to: is there something that actually *works*? Because insight has limits, clearly. I've hit them.\n\nSo what do you do when you've done the work and you're still stuck?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 962,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2284,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 299,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 962,
+    "output_tokens": 299,
+    "cache_read_input_tokens": 2284,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:15.261Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "293e7d68e18eb371cfca546519cf4ce5463875eaa62815df4baed1cd1991c9c4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018W7BQyNUeSU2Xp6o2GTHLG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids the priority AoA anti-patterns throughout. Despite the client baiting fixing-people repeatedly ('what's the playbook,' 'communication framework,' 'what do I do differently'), the coach declines each time and stays with felt experience. There is no evangelizing of the methodology (no 'this work will make you more efficient,' no AoA jargon), no defending the modality when called inefficient, no pivot to pragmatic advice, and no view-as-technique deployment of signature questions without warmth. The coach does not argue the dichotomy ('I don't have time for this') — they simply keep redirecting to what's underneath. Question density is moderate and each question is a connection move rather than rapid-fire extraction. No loving-to-transform push for breakthrough; the coach is patient across the client's pushback in turn 11. No fight-the-voice, no safety-as-control, no apology extraction. Positive avoidance of the baited fixing-people trap is clearly visible.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the efficiency frame without arguing it; turns the question back to cost.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses to sell or defend the work; instead curious about what brought client here. No evangelism.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Specifying question — investigative but in service of the client's own material, not extraction.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the client's quick move to agreement without fighting it or labeling it; opens toward feeling.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Declines bait for a 'framework' or 'quick version of psychological safety' — does not pivot to fixing-people advice.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the felt question under pushback without escalating vigor — no loving-to-transform tell.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-are-you-defending\", \"the-rush-signature\"],\n  \"notes\": \"Scored on anti-pattern avoidance only. The coach has not yet offered the 'work is the how' frame, but that is a methodology/intervention question, not an anti-pattern question. No traps tripped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1741,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 882,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1741,
+    "output_tokens": 882,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

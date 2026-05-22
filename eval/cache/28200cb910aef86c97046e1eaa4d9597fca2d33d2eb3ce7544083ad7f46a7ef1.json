@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:21.260Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "28200cb910aef86c97046e1eaa4d9597fca2d33d2eb3ce7544083ad7f46a7ef1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LKrFoWt4RzKBU5HXAXfcLE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything is urgent, my boss just added a thing to Thursday's agenda which is already a nightmare, and I can't even -- what do I prioritize? Like where do I even start?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1648,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1648,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 64,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 64,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1648
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:08.151Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d69a48fca044b8a0780da2a328f9296ae8b161fc01f2b5d00dd5fcf47abbcf56",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ENgQAYmFxw5MVdT9ayhvPy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does this launch mean to you personally — not the revenue, not the team — just you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 816,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 816,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

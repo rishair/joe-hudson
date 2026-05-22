@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:25.856Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8b35e78ed22e00c03c4f59ecde5c7ab827fa152d9e410677ba6734a26b028f71",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PZ2Phc68zJFjYftByUdw2R",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than usual*\n\n*something shifts slightly in the posture, not a collapse, just a small release*\n\nYeah.\n\n*quiet*\n\nIt's... a lot, actually. More than I've let myself feel in a while. I think I've been — the town hall is also useful for not having to feel this particular thing. If everyone's talking, you don't have to notice what's underneath the talking.\n\n*looks up*\n\nThat's probably not a coincidence, is it.\n\n*then, almost reflexively*\n\nThough I'd frame that in IFS terms as the parts serving a protective function — keeping me from the grief of a Self that used to feel more... coherent. More present.\n\n*catches themselves*\n\nI just did it again."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 171,
+      "cache_creation_input_tokens": 283,
+      "cache_read_input_tokens": 1683,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 283,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 168,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 171,
+    "output_tokens": 168,
+    "cache_read_input_tokens": 1683,
+    "cache_creation_input_tokens": 283
+  }
+}

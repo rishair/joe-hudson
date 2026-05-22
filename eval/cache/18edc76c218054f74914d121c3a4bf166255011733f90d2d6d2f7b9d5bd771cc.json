@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:36.252Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "18edc76c218054f74914d121c3a4bf166255011733f90d2d6d2f7b9d5bd771cc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012F6Ari17zSZAn7w2sCNtu2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you moved pretty quickly there — from something that sounded almost heartbreaking, straight to logistics and constraints. I'm not going to ignore that. What happens if you just sit with \"I did everything right and it doesn't matter\" for a moment?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 748,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 57,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 748,
+    "output_tokens": 57,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

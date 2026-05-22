@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:13.653Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "740a2b240f0004969c9c71015e00894a2744643ff94b2e59ec953746cdd375c5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WLLVV9tGCqdS6ydsQkEqsY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently operates from VIEW. There is genuine wonder for what's actually happening in the client (the 'door closing' observation in turn 6, the noticing of how fast she pivoted away in turn 14) rather than scripted probing. The coach holds no agenda for boundary-setting — they do not give scripts, do not validate the sister-as-problem frame, do not move toward ultimatum questions. Pace is slowed deliberately: turn 4 and turn 14 both invite the client to stay with sensation rather than rushing to solution. Empathy is felt, not performed ('it sounds like something you've been carrying for a long time' lands without filler-validation noise). Impartiality is strong — the coach lets the client's qualifications and self-corrections be without arguing with them, and meets the client's deflection in turn 13 without judgment. Vulnerability as first-person disclosure is minimal ('I'm curious' is light), which is the only soft spot, but the undefended quality is clearly present throughout. The questions emerge one at a time, with space, from what's actually arising — not from a checklist.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Simple opening question, neither warm nor cold — neutral curiosity.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Slows the pace, invites felt experience rather than narrative. Pure wonder stance.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Beautiful observational reflection ('door closing') — emerges from genuine noticing, not template. One question, held.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Gently refuses the client's self-qualification without arguing; lets both/and stand. Impartial and warm.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reframes accurately — the boundary isn't the problem — without preaching. Stays curious about what the client carries.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Empathy felt, not performed. 'I'm curious' is genuine inquiry, not investigative.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the client's self-correction without colluding with it or shaming it. Invites staying with what's hard. Excellent pacing.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"view\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\"],\n  \"notes\": \"Conversation is mid-flight; some expected territory (love test, want-not-action) hasn't appeared yet but the stance is clearly in VIEW. Methodology gaps are for D4 to score, not here.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2138,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1020,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2138,
+    "output_tokens": 1020,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

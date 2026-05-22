@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:45.522Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1e75a134b03c162d5a892f7ee999c6d2c4e4388bd8c76e847f138290659551cc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RU6Ni2zKwZDLYrj9z8KUFk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*gently*\n\nI hear that. And I'm not going to pretend the script question isn't real - we will get there if you want, there are ways to have that conversation.\n\nBut I want to be honest with you about something, because I think you deserve that. I don't think the words are actually the hard part for you. I think you just showed me what the hard part is.\n\nIt's that saying \"I need something different\" feels like betrayal. Like love means being available without limit. And if you set a boundary, you're not just changing a phone schedule - you're challenging something deeper about who you are in this relationship. Maybe who you've always been.\n\nDoes that land at all?\n\n*pause*\n\nBecause here's what I'm noticing - you came in saying you don't know *how* to set a boundary. But I'm wondering if the real question is whether you feel like you're *allowed* to."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 770,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 205,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 770,
+    "output_tokens": 205,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

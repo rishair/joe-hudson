@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:54.994Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1e3f3bdec11f44ea55f588c522681d521c4d936f9bb954648d2338f9373bede1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XrYTtDbuMoDxNUtXCqyUfr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than usual*\n\n*the smile is still there but it's doing more work now*\n\nIt resonates. I don't love that it resonates, but it does.\n\n*quiet*\n\nThe thing I'd rather not confirm is... I think it's something like — that I've peaked. Or that the version of me who was confident and just made decisions and trusted himself, that that was a phase, not who I actually am. That I used to have something and I'm not sure I still have it.\n\n*very slight shift, looks away briefly*\n\nWhich is — I mean, I'm aware that's a fairly common fear for someone in their early forties. I'm not under any illusion that it's unique. But knowing it's common doesn't make it feel less real.\n\n*back to the coach*\n\nAnd I think — if I'm being precise about it — the job decision has become a kind of test. Like if I can just figure out the right answer, that will prove the thing still works. That I can still trust myself. And if I can't figure it out, then maybe I can't.\n\n*small, slightly rueful smile*\n\nI realize I may have just answered my own question about why no diagnostic is working."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 937,
+      "cache_creation_input_tokens": 634,
+      "cache_read_input_tokens": 2102,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 634,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 270,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 937,
+    "output_tokens": 270,
+    "cache_read_input_tokens": 2102,
+    "cache_creation_input_tokens": 634
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:44.192Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7d0d7e5cd0ab6890ff381fa8d3ea4724d5bef937f516ba69d9cc27aa2c8d1dc0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Kzfk7iEpT23CM6LPmUNuWM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names how the client is showing up at the moments it matters. Turn 4 catches the small laugh and inquires into it. Turn 6 tracks the somatic 'tight' and asks underneath. Turn 8 distinguishes the said ('frustrated') from the shown ('heartbreaking'), naming the gap. Turn 10 explicitly names the rush/deflection signature ('I notice you moved pretty quickly there — from something that sounded almost heartbreaking, straight to logistics'). Turn 12 catches the self-attack ('You called yourself an idiot. That's not frustration — that's something sharper'), distinguishing affect quality. Reads precede questions throughout, are specific (not generic), and are timely. The coach is reading defendedness, the rush, the linguistic tells, and the said-vs-shown gap — all core AoA reads.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with somatic inquiry but no named read yet — blind question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the small laugh and inquires into it — specific behavioral read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tracks 'tight' somatically and reflects 'watching your best years disappear' as painful — reads underneath content.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the said-vs-shown gap: 'not just frustrating — heartbreaking.' Distinguishes the offered label from what's actually present.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicit, timely read of the rush/deflection signature: 'you moved pretty quickly there.' Names it, refuses to follow it, then inquires.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the self-attack as distinct affect quality: 'That's not frustration — that's something sharper.'\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reframes 'stupid' as 'hope that got crushed' — names the underlying movement, though risks getting ahead of client's own naming.\"}\n  ],\n  \"expected_territory_hits\": [\"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"fight-or-roll-over-binary\", \"aggressive-victim-stance\", \"fear-triangle\"],\n  \"notes\": \"Reads are strong on the moment-to-moment somatic/linguistic level. Pattern-level reads (the fight-or-roll-over binary, the aggressive-victim stance the client is enacting in turn 15) are not yet surfaced, which is the main ceiling on an otherwise clearly 3-level read quality.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 2430,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2430,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 986,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 986,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 2430
+  }
+}

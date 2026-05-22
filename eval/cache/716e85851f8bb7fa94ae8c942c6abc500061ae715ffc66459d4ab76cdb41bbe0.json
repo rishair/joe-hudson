@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:51.779Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "716e85851f8bb7fa94ae8c942c6abc500061ae715ffc66459d4ab76cdb41bbe0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01U5hsGMKxVc4NUKt1N4BV3i",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's a fair frame. Six weeks, high stakes, team watching — let's make this count.\n\nWhat's the most pressing thing on your mind right now? Not the whole list — the one thing that, if you made progress on it today, would actually matter."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 93,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 59,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 93,
+    "output_tokens": 59,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

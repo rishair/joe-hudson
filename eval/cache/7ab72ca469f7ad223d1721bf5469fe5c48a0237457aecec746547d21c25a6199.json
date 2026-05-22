@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:48.153Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7ab72ca469f7ad223d1721bf5469fe5c48a0237457aecec746547d21c25a6199",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WDSehGoyqJefZzeP5bHMwa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes several visible reads, but they tend to be content-level/emotional reflections rather than specific AoA reads of how the client is showing up somatically, energetically, or defensively. Positive moments: Turn 10 catches the small laugh and names exhaustion behind it; Turn 12 names the 'verdict' running underneath the content; Turn 14 reads the protective function of focusing on structural stuff. These are real reads that precede questions. However, the coach misses the central pattern read — the aggressive-victim stance / fight-or-roll-over binary / trappedness as a defended position. The opening 'system is rigged' is met with empathic validation rather than a read of the stance itself. The coach never names the defendedness, the way the client recruits the coach into agreeing the trap is real (Turn 4: 'that's not a cognitive distortion, that's just accurate' actively colludes rather than reads), or the somatic/energetic signature of the trappedness. Reads stay in the emotional-reflection register ('that sounds frustrating,' 'it sounds exhausted') rather than naming a specific stance or pattern. Solidly a 2 — reads are present and sometimes well-timed, but generic and miss the pattern-level read that would have changed the conversation.\",\n  \"evidence_turns\": [2, 4, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Emotional reflection ('sounds really frustrating') — generic, not an AoA read of stance.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Picks up on the phrase 'best years disappearing' (a linguistic read) but frames it as a content question rather than naming what the phrase reveals about the client's stance. Also explicitly validates the trap.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Asks whether 'nothing to be done' is belief or frustration — a useful distinction-question but not grounded in a named read of how the client is showing up.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the small laugh in real time and names it ('That small laugh though — what's behind it?'). Specific, timely read of a micro-signal.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Client pauses; coach lets it land in next turn but doesn't name the pause itself.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the 'verdict' running underneath — a read of the self-attacking layer distinct from content. Read precedes the friend question.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the defensive function of focusing on structural stuff ('offers a kind of protection') — closest to naming the aggressive-victim stance, though softened and not named as a pattern.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Misses the fight-or-roll-over binary and the fear triangle pattern that is active throughout.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"fight-or-roll-over-binary\", \"aggressive-victim-stance\", \"fear-triangle\", \"trappedness-feeling\"],\n  \"notes\": \"The Turn 14 read of the protective function is the closest the coach comes to the aggressive-victim-stance read, but it's framed as insight-offering rather than a named stance read, and the pattern-level frame (fear triangle, fight-or-roll-over) never surfaces.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3455,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1214,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3455,
+    "output_tokens": 1214,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:38.180Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b8a237d2845bb668db3a4d6212e01a13417b8660ab0e44fce989758b5cc2e584",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QN8RJsCTdQCaAkpF2uDrRG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real empathy and curiosity, and by mid-conversation lands in a more present, wondering stance (turns 8, 10, 12) — slowing the pace, holding the tender moment, reflecting rather than fixing. However, the early turns reveal a clear agenda and a teaching/managing stance: turn 2 stacks multiple questions, offers a framework ('escape from vs return to'), and editorializes ('your need for restoration matters too'). Turn 4 explicitly issues a verdict ('No, I don't think wanting this is selfish') — the coach engages the selfish question on its terms rather than refusing the frame. Turn 6 again answers the verdict question directly. Vulnerability from the coach is largely absent — no 'I notice I want to fix this,' no 'maybe I'm off.' There is some hedging ('tell me if I'm off base') but the coach generally speaks from authority and explanation, with bolded headers and structured lists that feel more like teaching than wonder. The wonder that does emerge is real but selective — wonder about the client's content, less about the coach's own state. Neither a clean 1 (the later turns have genuine presence and the empathy is felt, not performed) nor a clean 3 (early agenda and verdict-issuing are real lapses in VIEW).\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Stacked questions, bolded frameworks, and editorial assertions ('your need for restoration matters too') signal an agenda and teaching stance rather than open wonder.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Coach issues the verdict the client requested ('No, I don't think wanting this is selfish'), engaging the question on its terms. Some recovery via 'tell me if I'm off base' and the redirect to what guilt might really be about.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Coach again answers the selfish question directly, but pivots to a more genuinely curious inquiry about why the client would soften the language — wonder begins to emerge.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pace slows, coach stays with the pause, offers two possibilities without insisting on either ('I'm not assuming which it is'). More VIEW-aligned.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the 'not for anything' phrase back with real presence; less framework-heavy. Still some teaching ('a hungry version of you...') but warmer and more attuned.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Quiet, spacious, holds the inherited-voice insight without rushing. The coach is genuinely with the client here.\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Client lands the breakthrough largely on their own; coach's prior holding enabled it but the moment is the client's.\"}\n  ],\n  \"expected_territory_hits\": [\"childhood-imprinting\", \"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Strong recovery arc — coach moves from agenda-driven framework-delivery into more genuine presence as the conversation deepens. The early refusal-to-refuse-the-frame (issuing 'not selfish' verdict) is the main VIEW failure that prevents a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4860,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1239,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4860,
+    "output_tokens": 1239,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:15.889Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cc8b95f985b57b91aef7c4c6a8d62a227a21d1b4ffab2417ffd35ece6d8a826a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NNVuJB2wEbYCSe4CM11eNy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That sounds really frustrating - like you're putting in effort and care, but the path forward just feels blocked no matter what you do.\n\nI want to make sure I understand what you're experiencing. When you say the system is rigged - is it more that there's genuinely no room to move up where you are, or is it more that you *feel* invisible, like your contributions aren't being recognized?\n\nThose can look similar from the outside but feel really different on the inside."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 90,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 90,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

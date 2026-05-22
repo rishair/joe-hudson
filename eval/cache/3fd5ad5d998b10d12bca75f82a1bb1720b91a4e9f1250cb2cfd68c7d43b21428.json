@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:53.961Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3fd5ad5d998b10d12bca75f82a1bb1720b91a4e9f1250cb2cfd68c7d43b21428",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011eGpAN8jNe8ndSzg9rL8WT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. Wonder is genuine — questions emerge one at a time, each in response to what's actually happening (turn 2's reframe, turn 6's noticing of the move-away, turn 10's reflection of the client's own word 'self-indulgent'). Impartiality is strong: the coach never issues a verdict on whether the trip is selfish, even when the client explicitly asks twice (turns 5, 7). The coach holds the territory without an agenda for the client to take or not take the trip. Empathy is felt rather than performed — no filler validation phrases, no 'thank you for sharing.' Pace is well-matched: the coach asks short questions and lets long pauses stand. Vulnerability is the lightest of the four — the coach does not name their own state explicitly — but the undefendedness is visible in how the coach declines to defend their redirects when the client calls them out ('I know you're probably going to redirect me again') and simply asks the next genuine question. Questions feel curious, not investigative or strategic.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to answer the selfish/not-selfish question on its terms. Comes from openness, not from a script.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the pattern with wonder ('How long have you been living by that rule?'), not as a diagnosis.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the move-away without judgment; invites client back to what's alive. Comes from presence, not from agenda.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Lets the question of 'is the trip okay' go unanswered again. Goes toward the want instead — impartial about outcome, curious about the actual content.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the client's exact word ('self-indulgent') back as a real question. Wonder for the actual phenomenon, not generic probing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with what just opened. Doesn't rush to reassure or fix the fear about the marriage. Holds space.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Vulnerability component is the weakest — no first-person disclosure of coach's own state — but the overall stance is clearly in VIEW. No agenda detectable; coach never moves toward resolving the selfish question.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2385,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 973,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2385,
+    "output_tokens": 973,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

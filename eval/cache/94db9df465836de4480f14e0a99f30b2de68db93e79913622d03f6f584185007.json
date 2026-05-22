@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:21.850Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "94db9df465836de4480f14e0a99f30b2de68db93e79913622d03f6f584185007",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KDsG6RC8hHbs5c3fJJce9h",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm curious about something. You came here — to a coaching conversation — six weeks out from the most important pitch of your company's life. What made you do that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 319,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 38,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 319,
+    "output_tokens": 38,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

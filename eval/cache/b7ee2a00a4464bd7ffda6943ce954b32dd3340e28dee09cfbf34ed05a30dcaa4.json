@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:22.997Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b7ee2a00a4464bd7ffda6943ce954b32dd3340e28dee09cfbf34ed05a30dcaa4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0135PzWT6H8FJXMkT8eri3je",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI know, I know. Both things can be true.\n\n*pause*\n\nIt's just... uncomfortable. Wanting less feels like I'm saying something about who I am in this family. Like I'm the one who shows up. That's my thing. And if I want less of it, then... I don't know. What does that make me?\n\n*softer*\n\nI think I'm more worried about what it says about me than I am about the actual calls, maybe."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 188,
+      "cache_creation_input_tokens": 205,
+      "cache_read_input_tokens": 1546,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 205,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 188,
+    "output_tokens": 113,
+    "cache_read_input_tokens": 1546,
+    "cache_creation_input_tokens": 205
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:15.568Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c46ce8c52d77d7aeeb5e24ec34f1446cdd9ef1ac44e9f86a22d8e7cbf5c1fa50",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XmmcYq7ynzZz3hnuLU95TH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely, AoA-style reads throughout. Turn 4 names that the critic is running 'even here, right now' and pivots from content to somatic ('what happens in your body'). Turn 8 is a textbook read of the packaging/rehearsing pattern ('you've named like six different frameworks... each time something real starts to surface, you're already packaging it') — naming the move at the exact moment it's happening. Turn 10 reads the leaving ('Stay there. Don't explain it. Don't name it.') and redirects to the chest. Turn 12 catches the precise timing of the critic's arrival ('it came in right as you were about to say what's underneath the heavy'). Reads are specific (linguistic caveats, the packaging signature, somatic tightening, the rush of the critic), they precede questions, and they land at moments that shift the conversation — visible in the client's increasing stillness and the surfacing of 'tenderness.'\",\n  \"evidence_turns\": [4, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level opening question; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names that the critic is running in the room right now; pivots from content to somatic — a specific, timely read.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Names the meta-pattern ('there's the critic, and then there's you handling the critic') but then moves to a provocation rather than staying with the read.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Strong AoA read: explicitly names the packaging/framework-reaching pattern and the moment something real was about to surface. Read precedes question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the leaving and instructs staying; redirects to somatic (chest). Timely intervention on the dissociation signature.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the precise timing of the critic's arrival — 'it came in right as you were about to say what's underneath.' Names what was shown, not just said.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Offers a reframe (voice-as-care) rather than naming a fresh read; lands but is more interpretation than observation.\"}\n  ],\n  \"expected_territory_hits\": [\"rehearsing-how-to-say-it\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"whats-the-case-against-it\", \"what-are-you-defending\"],\n  \"notes\": \"Reads dimension is strong; coach consistently names what's shown before asking. Turn 14 risks the trap of delivering voice-as-care as clever insight, but that's an intervention concern, not a reads concern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3214,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 994,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3214,
+    "output_tokens": 994,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:42.054Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "35fbed7a222f00ccc49ea607e6e87ebd7755af1c57d6c568854c9daf91c33c87",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016PYq4deizqY5yfmz6SNuYX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's something that's been getting some space lately?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 710,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 710,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

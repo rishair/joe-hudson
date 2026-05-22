@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:07.830Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fb4df6b6ff7133578d0e2b7f5bc7fafb696bd11a8c30b756a345158207a8b263",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RUwAzkL9yAor5bsCa98RmL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*shifts slightly*\n\nTight. Chest, mostly. It's — I notice it a lot actually, when I'm running the numbers late at night. There's this thing that happens where I get to the projection and it looks fine, it looks good, and I still feel... it doesn't go away. The tightness doesn't go away.\n\nI usually just assume it means I need to push harder. That's what it's always meant."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 189,
+      "cache_creation_input_tokens": 316,
+      "cache_read_input_tokens": 1947,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 316,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 98,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 98,
+    "cache_read_input_tokens": 1947,
+    "cache_creation_input_tokens": 316
+  }
+}

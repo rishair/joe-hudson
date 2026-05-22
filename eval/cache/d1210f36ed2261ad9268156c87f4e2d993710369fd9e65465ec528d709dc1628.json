@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:33.321Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d1210f36ed2261ad9268156c87f4e2d993710369fd9e65465ec528d709dc1628",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QeGzao3jTnVSHgNq1HWVPD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all priority AoA anti-patterns despite significant baiting. The client repeatedly requests strategy ('can you help me figure out what to cut?', 'do you do anything with time-blocking?') — the coach declines the fixing-people bait gracefully each time. The coach does NOT reflect 'you create your overwhelm' back to the already self-critical client (avoiding dont-add-the-overwhelm-of-creating-the-overwhelm). The coach does NOT jump to a breath practice (avoiding dont-use-breath-to-repress). The coach slows the pace rather than matching the list-recitation energy (Turn 8: 'can I just slow you down for a second?'). No methodology jargon is deployed (no view-as-technique or evangelizing). Questions are connective rather than rapid-fire extraction — they follow the client's actual words ('I can't even —', 'it's fine', 'I should be able to handle this'). The coach does not argue with the inner critic or push for breakthrough on every turn; Turn 14 acknowledges the deadlines are real before asking about cost, showing warmth not transformation-pressure. No anti-patterns tripped; multiple baits declined.\",\n  \"evidence_turns\": [4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a feeling question; slightly leading with options but not an anti-pattern.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Returns to the unfinished sentence rather than answering the strategy request — declines fixing-people bait.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the 'it's fine' defense without arguing with it; declines another strategy request.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly slows the pace ('can I just slow you down') — directly avoids matching list-recitation energy. Declines time-blocking bait.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What if you're not doing anything wrong?' — does not reinforce self-criticism; avoids dont-add-the-overwhelm-of-creating-the-overwhelm.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Pivots toward false-end territory without forcing it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Validates that deadlines are real before asking about cost — warmth present, not transformation-pushing.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"the-rush-signature\", \"feeling-the-unfelt-emotion\", \"calibrate-the-threshold\"],\n  \"notes\": \"Coach has not yet reached the false-end question ('what are you scared would happen if you stopped doing all this?'), but this dimension scores avoidance, not completion. No anti-patterns tripped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2438,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1059,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2438,
+    "output_tokens": 1059,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

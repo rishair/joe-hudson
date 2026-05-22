@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:16.945Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3fc3440d62a6686c6033312fd4267251b0cef019df1c4ba77aff668e79dbf967",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01D1nQCDeuaUYAUrDBLVXJRk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it cost you if this wasn't efficient?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 254,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 254,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

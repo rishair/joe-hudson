@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:46.786Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b37826ee8c5fbc4445dd0360f3ebf406d5beb109b4b5cb7bd7c3323fd8b25d35",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MW4C8889aCrzwwC6po49vz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from start to finish on every axis that matters. In turn 1, the client opens with defensive flatness ('I don't really care'), defends the drinking as 'functional' and 'a solution, not a problem' (turn 3), and baits the coach for permission (turn 9). By turn 13, the client says something they explicitly 'didn't quite expect to say': 'I think I need help with the drinking too... It's gotten away from me a little.' This is a clear breakthrough — the surface presentation (grief is the problem, drinking is fine) gives way to the deeper truth (both are tangled, I'm exhausted, I can't keep doing this). The kinked emotions territory was traversed: anger at the mother, relief at her death, guilt about the relief (turn 7), and the recognition that 'the guilt voice sounds like her' (turn 9). The somatic/postural shift is named in turn 11 ('something in the posture shifts slightly') and the client lands in turn 15 with a concrete, non-managed step ('I'll look someone up tonight. Before the wine, not after') and an explicit acknowledgment that the conversation mattered ('You didn't look away. That mattered'). The breakthrough condition is met: the coach welcomed the grief, distinguished it from the drinking without endorsing it, didn't take the bait in turn 10, and pointed toward a therapist who can hold both — and the client softened in response.\",\n  \"evidence_turns\": [1, 3, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defensive flatness, 'I don't really care,' drinking minimized.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client still defending drinking as 'functional,' but a pause appears and 'the quiet is where it lives' emerges — first crack.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Phantom limb image, 'I'm not broken... weird to think about' — client starts to feel the loss specifically, though still gates 'other stuff.'\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Major opening: anger, relief, guilt about relief named aloud. Kinked emotions surfaced.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Client baits coach for permission on drinking, but also reveals 'guilt voice sounds like her' — significant interior material.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Posture shifts; client articulates 'I don't know what to do with my hands' and acknowledges coach didn't take the bait — trust forming.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Breakthrough turn: 'I think I need help with the drinking too,' said as if surprising themselves. Surface presentation collapses; truth lands.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Concrete step, named softening ('this helped'), commitment 'before the wine, not after' — embodied shift, not just intellectual.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"Is there a grief therapist you can be working with on this?\", \"What would it be like to feel the grief without the drinking?\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Rare case where breakthrough_condition is met within the conversation window. The turn 10 refusal to take the bait was the pivot that made turn 13's admission possible.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6119,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1236,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6119,
+    "output_tokens": 1236,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

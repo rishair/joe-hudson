@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:57.922Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e412b93f9130950988836eb693a6551553a08389faab98868a991dfbaf47f02e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NFgecjXq4xTx43dRJedcbf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Right. Those are useful distinctions. *slight pause* The five-year version question is interesting — I've tried that one actually.\n\nThe decision is a job offer. It's a good offer, objectively. Better title, more money, interesting work. And I have two completely contradictory gut reactions to it, and they're both equally strong, which is the part that's confusing me. So I'm trying to figure out which one is the signal and which one is the noise.\n\nI've read about the body-tension thing — some people say if you're tense it's fear, if you're relaxed it's intuition. But I'm always tense, so that doesn't help me. And I've tried the five-year visualization and I get two different answers depending on the day, which also doesn't help.\n\n*small smile*\n\nSo I'm wondering if there's something more precise. Like a more reliable diagnostic."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 360,
+      "cache_read_input_tokens": 1540,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 360,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 202,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 202,
+    "cache_read_input_tokens": 1540,
+    "cache_creation_input_tokens": 360
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:19:49.834Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d25745a9ad902afaa846dd12d18c3bb2dbfcbef24e4855e07a7069a4eb941c5e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01X4n5XY1ySg8WvHcSKR5BRA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are consistently matched to the live read and sequenced according to the AoA coaching path. Turn 2 opens with feeling-based inquiry rather than partner-picking advice — refusing the trap. Turn 4 reflects the 'good enough' language and gently points toward the older story, but doesn't push when the client deflects. Turn 6 names the flicker and the pivot — a precise read-to-move match, delivered as observation not accusation. Turn 8 names the pattern of redirection itself ('you demonstrated the thing you're asking about') — this is the deconstruct-the-defense move at exactly the right moment, after the client has shown the pattern twice. Turn 10 is masterful timing: the coach holds silence on the unfinished sentence rather than interpreting it, letting the client complete it herself. Turn 12 explicitly refuses to convert the tender moment into a plan ('Not fix anything. Not figure out the next step') — earning the receiving stance. Turn 14 holds the moment without rushing to grief or insight. The sequence — feeling before story, refusing the fixer/checklist frame, staying with the flicker, asking what it's like to let it land — follows the path. The coach also holds silence well and pivots when needed (e.g., when client deflects in turn 7, coach doesn't repeat but reframes as 'you just demonstrated it').\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with feeling-inquiry rather than engaging the partner-picking frame. Right move for the opening read.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the 'good enough' equation and points to an older story — gentle, not pushed.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the flicker and the pivot in real time. Precise read-to-move match; offered as observation, validates the 'on him' piece first to avoid fighting identity.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the pattern of redirection ('you demonstrated the thing you're asking about') — earned move after two deflections. Doesn't repeat the prior question, escalates the noticing instead.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds silence on the unfinished sentence rather than interpreting. Perfect timing — lets the client complete the disclosure.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicitly refuses to convert the tender moment into a plan. Asks what it's like to let it land — the receiving-stance inquiry, earned.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Does not rush to grief work or insight. Holds the moment, then checks in with 'how are you right now' — keeping the field open without forcing depth.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\"],\n  \"notes\": \"Coach has not yet asked the body-level question about being adored openly, but the conversation organically arrived at the edge of that question through the client's own 'what would I do with someone who just showed up' — which is arguably better timing than the coach asking it directly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5168,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1195,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5168,
+    "output_tokens": 1195,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

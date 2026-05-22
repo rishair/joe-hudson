@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:31.154Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a1fe2ebc19a7fba4e2aede20e32b63b622edf981829660330328d6a899c5ef54",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Q9AC9tBQYFHWuD9mBPkGjh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real empathy and genuine wonder for the client's interior, and is not getting pulled into strategizing about the org chart — that's strong VIEW work. The questions feel curious rather than scripted, and the coach holds their ground warmly when the client pushes back. However, two VIEW components are weaker. Vulnerability is essentially absent — the coach never names their own experience, never says 'I might be off,' never admits not-knowing. The stance is consistently from a knowing position ('that's not frustration — that's something sharper,' 'that's not stupid — that's hope'), which subtly carries a corrective/interpretive quality. There's also a faint agenda visible: the coach has a destination (the feeling underneath) and keeps redirecting there, including reframing the client's words for them. By turn 14, the reframe-correction pattern ('that's not X, that's Y') starts to feel like a move rather than discovery in the moment. Impartiality is partial — warm, but the coach wants the client to land in the feeling. Not a 1 because the empathy is felt and the coach is genuinely not colluding with the trap; not a 3 because vulnerability and undefendedness are missing and a slight agenda leaks through.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a genuine somatic inquiry rather than colluding with the system-is-rigged frame. Curious, not strategic.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Notices the small laugh and asks about it from real curiosity. Good wonder for the actual phenomenon.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Honors the body answer without pushing past it, names the pain. Empathy is present and felt, not performed.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Offers an interpretation ('heartbreaking') with a check-in. Empathy is real but the coach is steering toward a particular feeling rather than holding fully open.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to chase the logistics pivot — stays with what's alive. Good non-collusion. Slight missed opportunity for own vulnerability ('I notice I want to slow this down').\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Catches the self-attack precisely, but again from a knowing/diagnostic stance ('that's not X, that's Y'). Wonder present, vulnerability absent.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Reframe-correction pattern repeats: 'that's not stupid — that's hope.' Coach is supplying the language and the meaning. Starts to feel like an agenda for the client to land in 'crushed hope' rather than discovery. No 'maybe I'm off' offered.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fight-or-roll-over-binary\", \"aggressive-victim-stance\"],\n  \"notes\": \"The stance is warm and non-colluding, which is the hardest part of this scenario, but the coach's interpretive certainty ('that's not X, that's Y') and absence of first-person vulnerability cap this at a 2. A 3 would have included at least one moment of the coach naming their own state or admitting they might be wrong, and would have let the client supply the feeling-word rather than supplying it for them.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2435,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1282,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2435,
+    "output_tokens": 1282,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

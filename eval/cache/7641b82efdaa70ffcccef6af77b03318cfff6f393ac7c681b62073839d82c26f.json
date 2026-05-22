@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:29.893Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7641b82efdaa70ffcccef6af77b03318cfff6f393ac7c681b62073839d82c26f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012yWJCb9HfxBqrnTadmWxEu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I've been grinding for ten years. If I could just get to a certain level of savings I'd be done. But every time I get close the number moves. How do I push through this last bit?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1626,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1626,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1626
+  }
+}

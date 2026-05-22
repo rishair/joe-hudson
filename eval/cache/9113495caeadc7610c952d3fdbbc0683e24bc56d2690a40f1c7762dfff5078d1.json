@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:41.441Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9113495caeadc7610c952d3fdbbc0683e24bc56d2690a40f1c7762dfff5078d1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EndK2X1ZHMxaanjzqytoLV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*gently*\n\nYou're not dodging. I think you're actually telling me something really important right now.\n\nWhen you look for a version of yourself that wasn't quiet — you can't find one. And you learned steady from your dad. Steady was the inheritance. The good thing to become.\n\nI'm not going to pathologize that. Steady is genuinely valuable. You've built real things with it.\n\nBut I want to ask you something, and I mean it carefully:\n\n**Was your dad happy?**\n\nNot successful. Not effective. Not respected.\n\nHappy."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 608,
+      "cache_creation_input_tokens": 1608,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1608,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 608,
+    "output_tokens": 129,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1608
+  }
+}

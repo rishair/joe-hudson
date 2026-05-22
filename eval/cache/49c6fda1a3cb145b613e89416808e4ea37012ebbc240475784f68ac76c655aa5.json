@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:00.752Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "49c6fda1a3cb145b613e89416808e4ea37012ebbc240475784f68ac76c655aa5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Lrae7fH7N6gzVvZvtR4Na8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it feel like to stop waiting for December?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 933,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 933,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

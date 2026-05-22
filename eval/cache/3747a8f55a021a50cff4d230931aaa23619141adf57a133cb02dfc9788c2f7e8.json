@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:51.109Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3747a8f55a021a50cff4d230931aaa23619141adf57a133cb02dfc9788c2f7e8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01A3Bv6PfTmUj4HAmvM8X92T",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I hear you — the projections are real, the history is real. And I'm also noticing that you've been grinding for ten years, the number keeps moving, and your parents are 74 and 71 right now. What are you actually afraid you're going to miss?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 602,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 63,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 602,
+    "output_tokens": 63,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

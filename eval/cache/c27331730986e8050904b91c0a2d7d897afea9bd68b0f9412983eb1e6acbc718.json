@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:41.887Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c27331730986e8050904b91c0a2d7d897afea9bd68b0f9412983eb1e6acbc718",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017rGAHRvyeHNAbZEGFibgLU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's -- yeah, it's been like this for a while. Since I took the new role, honestly. Which was like four months ago?\n\nAnd the feeling is -- I don't know, it's like... buzzing? Like there's this constant hum and if I stop moving the hum gets louder. So I just keep moving.\n\nBut I don't have time to feel it, I have to figure out the Thursday thing, because if I don't nail Thursday my boss is going to -- and then there's the team meeting I haven't prepped for, and my partner keeps asking me to be more present at home and I'm like, I can't, I can't right now, and --\n\nWhat would you do? Like if you were me, what would you cut?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 189,
+      "cache_read_input_tokens": 1693,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 189,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 169,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 169,
+    "cache_read_input_tokens": 1693,
+    "cache_creation_input_tokens": 189
+  }
+}

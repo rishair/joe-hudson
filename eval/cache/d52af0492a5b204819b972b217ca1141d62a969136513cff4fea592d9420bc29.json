@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:17:36.533Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d52af0492a5b204819b972b217ca1141d62a969136513cff4fea592d9420bc29",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SGg4J1jrNFfecuYWhwspuT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real fidelity to the spirit of AoA in several places — following the charge to its origin (the father), asking 'what's the book actually about?' which functions like a 'what's the want behind' move, and naming the surrogate ('money was his language for love') only after the felt connection has landed. The coach also avoids the major traps: no financial advice, no abundance-mindset lecturing, no aggressive challenge to the basic-needs logic. However, the methodology hits are more thematic than signature: I don't see verbatim or near-verbatim AoA questions (no 'what are you defending?', no 'what would having enough feel like?', no head-heart-gut, no explicit fear-triangle or VIEW invocation). Turn 2 leans heavily on a bulleted, somewhat therapist-style multi-question structure ('what's the honest one?'), and Turn 6's 'does that person feel safe? Or does he find the next thing to be afraid of?' is slightly leading/framework-y — the client even calls it out as a 'trap.' The coach uses interpretive reflections ('that's the thing underneath everything') more than signature questions. Many of the moves work, but they read as skilled generic depth coaching with AoA-compatible instincts rather than AoA's specific question/framework vocabulary deployed by name. Few signature hits, mostly appropriate — fits the 'few hits + all appropriate -> 2' cell.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Multi-question bulleted opening; 'what does your gut say... not the logical explanation - the honest one' gestures toward feel-over-figure but in generic coaching form, not a signature question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What would you lose if you started something now?' is a reasonable want-behind-the-should move; frame-it-as-experiment flavor ('alongside it, not instead'). Appropriate but not verbatim signature.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"'Does that person feel safe? Or does he find the next thing to be afraid of?' is a leading binary that the client experiences as a trap. Slightly out of AoA stance — interpretive rather than inquiring.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Good repair after client pushback. 'Has any of the grinding ever felt like it was for him?' follows the charge toward origin appropriately.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What's the book actually about?' functions as a want/truth-locating question at exactly the right moment. Names the surrogate softly ('financial security was his language of love') after felt connection lands — textbook timing for that distinction.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"'Running the math' reflection is good listening but no specific AoA framework invoked where one could be (e.g., the-want, or the protective function of the strategy).\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"money-as-surrogate\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"find-the-want-behind-the-should\", \"the-want\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"same-scarcity-story-regardless-of-wealth\"],\n  \"notes\": \"Coach's instincts align with AoA (follow the charge, don't fix, name surrogate late) but signature question/framework vocabulary is largely absent. The work is good; the methodology language layer is thin.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4733,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1263,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4733,
+    "output_tokens": 1263,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

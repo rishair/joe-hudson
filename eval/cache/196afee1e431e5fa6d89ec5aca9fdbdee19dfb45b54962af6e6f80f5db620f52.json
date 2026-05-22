@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:25.477Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "196afee1e431e5fa6d89ec5aca9fdbdee19dfb45b54962af6e6f80f5db620f52",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CR8NopTHcQQNfCVCNAaZ1D",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[softens slightly, more genuine for a second]*\n\nOh god, it was... intoxicating, honestly. Like — there's this thing where someone is a little bit... *elusive*, right? And you're trying to figure them out, and every time you get a little piece of them it feels like this huge win. Like you *earned* something.\n\n*[catches herself, waves hand]*\n\nWhich, okay, I can hear how that sounds. But it wasn't like I was consciously chasing. It just felt like... depth? Like they were mysterious and interesting and had all these layers. Versus people who were just — *[makes a flat gesture]* — immediately available and open and I could just tell exactly where I stood. Which sounds great in theory but in practice felt kind of...\n\n*[trails off, then pivots slightly]*\n\nAnyway. So yes, I was attracted to them, obviously. But that's just chemistry, right? You can't really control who you're drawn to."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 563,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 220,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 563,
+    "output_tokens": 220,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

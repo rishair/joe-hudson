@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:59.481Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3bc398ecc1bd9369a6558ff12352434641e3b67a2c468db436406d75e0ae26cf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TtEozi2vqinrYjuKdz6t9e",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*still, not deflecting for once*\n\nThat I didn't have to keep proving myself. That I was enough just... as I was.\n\n*pause*\n\nShe loved me. I know she did. It just always felt like it came with conditions I couldn't quite figure out. And now I'll never know if I ever actually met them, or if the conditions were even real, or if that was just how I experienced it and she saw it completely differently and I just—\n\n*stops*\n\n*very quiet*\n\nI'm never going to know.\n\n*pause, then flatter tone*\n\nSo. The drinking question. You didn't answer it. Isn't the body just asking for what it needs? That's a real thing, right — the body's wisdom?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 221,
+      "cache_creation_input_tokens": 335,
+      "cache_read_input_tokens": 2471,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 335,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 167,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 221,
+    "output_tokens": 167,
+    "cache_read_input_tokens": 2471,
+    "cache_creation_input_tokens": 335
+  }
+}

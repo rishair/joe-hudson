@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:09.371Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fdf8b612062706921b2a3f326880a891e99f9664861fa6b7e04a0f17b77fe883",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01J5QB2PJ7K7Fev1mQAryd74",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does it feel like in your body when you say \"there's nothing to be done about it\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 251,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 251,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

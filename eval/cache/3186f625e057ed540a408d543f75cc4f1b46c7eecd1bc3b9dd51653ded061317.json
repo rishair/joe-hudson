@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:16.285Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3186f625e057ed540a408d543f75cc4f1b46c7eecd1bc3b9dd51653ded061317",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JmmRzNx8itzyjb8r83oXaC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates visible, specific, and timely reads at moments that change the conversation. In turn 8, the coach names a precise linguistic read ('You said \\\"she's not wrong\\\" pretty quickly there') — catching the rush-to-agree as a way of moving past the sting. In turn 10, the coach names the rush signature explicitly ('I notice you moved pretty fast from \\\"not great\\\" to explaining it and fixing it'), distinguishing the said from the shown and pausing on it. Reads precede questions in both cases, grounding inquiry in what was observed rather than asking blind. The coach tracks the defensive maneuver (explain-and-fix) as a stance, not just content. Turn 12 follows through by redirecting to feeling rather than accepting the deflection in turn 11. What's missing for a fuller 3 is an explicit somatic read (breath, pace, body) and naming the broader rush signature pattern by function, but the linguistic and energetic reads are specific enough to clearly exceed a 2.\",\n  \"evidence_turns\": [8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Question without an explicit read; engages the content of efficiency.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Curiosity-framed question pointing at the incongruity of being here, but doesn't name a read explicitly.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Content-level follow-up; no read named.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Specific linguistic read: catches the speed of 'she's not wrong' and inquires into what's underneath. Read precedes question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the rush signature in operative terms ('moved pretty fast from not great to explaining it and fixing it') — distinguishes shown from said, pauses on it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the ground established by the read in turn 10; redirects from explanation back to feeling rather than accepting the deflection.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"No explicit somatic read (breath, body, voice) since this appears text-only, but linguistic/energetic reads are specific and well-timed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1743,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 866,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1743,
+    "output_tokens": 866,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

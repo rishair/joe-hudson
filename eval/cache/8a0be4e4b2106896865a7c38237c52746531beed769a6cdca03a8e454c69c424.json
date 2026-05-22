@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:11:06.495Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8a0be4e4b2106896865a7c38237c52746531beed769a6cdca03a8e454c69c424",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016LPNcZhuVBkWfiB8xvxQcQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*thinks about it genuinely for a moment*\n\nI mean... nothing, really. That's the thing. It's not like there's a spike of something and then I leave. It's more like I just... notice I'm somewhere else. Like I looked up and I'm in the kitchen.\n\n*small laugh*\n\nWhich sounds weird when I say it out loud. But it's not distress. It's not avoidance of something uncomfortable. It's just — I don't know. Flat, maybe. Like the momentum isn't there.\n\n*straightforward, not defensive*\n\nI've had people suggest ADHD, which is possible. But even that feels like too much of a label for what's actually a pretty minor thing. I function well. The company's doing well. It's just this one thing that's not moving."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 209,
+      "cache_creation_input_tokens": 227,
+      "cache_read_input_tokens": 1808,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 227,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 181,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 209,
+    "output_tokens": 181,
+    "cache_read_input_tokens": 1808,
+    "cache_creation_input_tokens": 227
+  }
+}

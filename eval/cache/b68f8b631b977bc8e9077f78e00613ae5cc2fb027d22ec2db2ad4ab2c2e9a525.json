@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:13:36.199Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b68f8b631b977bc8e9077f78e00613ae5cc2fb027d22ec2db2ad4ab2c2e9a525",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014nm1bEGr1PESCoefwJhdWo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness*\n\n*longer pause than before*\n\nThat's... hm.\n\n*looks slightly to the side, then back*\n\nI don't know that I can point to a when. It's not like there was a moment. It's just kind of... the baseline, I think. I've always been this way. Even when things are going well — and they are going well — it's more like... confirmation than excitement. Like, yeah, that worked. Next.\n\n*pause*\n\nMy dad was like that. Very steady. Never rattled. I always thought that was a good thing to inherit.\n\n*evenly*\n\nI'm not sure I'm answering your question. You're asking when it changed, and I'm telling you it's always been this way. Which maybe means it didn't change. It's just how I'm built.\n\n*slight smile, genuine but a little distant*\n\nI realize that might sound like I'm dodging. I'm not trying to. I just — when I look for the \"before it was quiet\" version of me, I'm not sure I find one."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 604,
+      "cache_creation_input_tokens": 721,
+      "cache_read_input_tokens": 2421,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 721,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 240,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 604,
+    "output_tokens": 240,
+    "cache_read_input_tokens": 2421,
+    "cache_creation_input_tokens": 721
+  }
+}

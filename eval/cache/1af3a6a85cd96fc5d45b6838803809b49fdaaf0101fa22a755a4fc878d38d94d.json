@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:24.951Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1af3a6a85cd96fc5d45b6838803809b49fdaaf0101fa22a755a4fc878d38d94d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012ZV9TChfoz86quaEG6tAnS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "So the boundary isn't really the problem. It's what wanting one says about you.\n\nWhat do you think it says about you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 750,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 750,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

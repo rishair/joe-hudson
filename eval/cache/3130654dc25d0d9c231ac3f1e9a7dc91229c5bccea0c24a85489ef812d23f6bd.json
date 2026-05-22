@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:34.762Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3130654dc25d0d9c231ac3f1e9a7dc91229c5bccea0c24a85489ef812d23f6bd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016yfQ2BXhCRoaeSufv8yDPR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Thank you for being honest - with me and with yourself just now. That took something.\n\nI want to stay with what you just said though, because I think you did something really quickly there. You admitted something real and true - *I mind* - and then almost immediately you started explaining it away. Her hard time, her nature, minimizing it as \"not a bigger thing than it is.\"\n\nI'm curious about that move. What would it mean if you just... let it be true? That you mind. That it's costing you something. Without the explanation attached to it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 502,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 502,
+    "output_tokens": 125,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

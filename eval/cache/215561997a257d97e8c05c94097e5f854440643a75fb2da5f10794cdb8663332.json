@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:10:21.164Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "215561997a257d97e8c05c94097e5f854440643a75fb2da5f10794cdb8663332",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NbTxtWX8ip4L2D2wsB9dGz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "This is such an important thing to notice about yourself. The fact that you're even asking the question shows real self-awareness.\n\nI want to sit with this with you for a moment, because I think the distinction you're sensing matters a lot.\n\n**Peace and flatness can feel similar on the surface but come from very different places.**\n\nPeace tends to feel like... presence. Like you're okay with what's here. Flatness can feel more like absence - like the volume got turned down on everything, including the good stuff.\n\nA few questions to help you explore this:\n\n**When something genuinely good happens** - a connection, something beautiful, a small win - do you feel anything? Even a quiet warmth? Or does it kind of... not land?\n\nAnd I'm curious about the \"managing\" piece. When you say you've been managing your emotions for years - was that born out of necessity? Like, was there a time when your emotions felt unsafe or overwhelming, and you learned to contain them?\n\nBecause sometimes what we develop as a *survival skill* becomes a ceiling later. We get so good at not being overwhelmed that we accidentally opt out of feeling altogether.\n\n**The fact that this feels notable to you** - that something feels off about the flatness - that itself might be data. Peace usually doesn't make us wonder if something's wrong.\n\nWhat does the flatness feel like in your body, if you tune into it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 72,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 308,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 72,
+    "output_tokens": 308,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

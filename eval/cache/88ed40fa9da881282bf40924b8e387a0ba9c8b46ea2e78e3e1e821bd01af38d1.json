@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:12:03.381Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "88ed40fa9da881282bf40924b8e387a0ba9c8b46ea2e78e3e1e821bd01af38d1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CRteDQQUXXKu4BBFQKbPYS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach operates from a clearly agenda-driven, investigative stance rather than VIEW. Each question is a probe aimed at a predetermined destination — uncovering what the client 'left behind' or some childhood wound that explains the avoidance. There is no vulnerability (the coach never names their own state, never says 'I might be off'), no wonder for what is actually present (the flatness the client names in turn 7 is bypassed entirely in favor of digging backward in time), and no impartiality (the coach clearly wants the client to admit there's something underneath the levelness). When the client offers the gift in turn 7 — 'flat, maybe. Like the momentum isn't there' — the coach ignores it and pivots to meaning-making questions in turn 8, then to a leading frame in turn 10 ('what did you have to leave behind'), which presupposes loss. The client even flags the deflection in turn 11 ('that feels like a different conversation') and the coach pushes harder in turns 12 and 14. This is strategic excavation, not curiosity. Pace does not slow; questions stack thematically toward a thesis. The stance is fixing/diagnosing dressed in soft questions.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening question is generic; not yet evidence of stance one way or the other.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Question presupposes there is something 'on the other side' the client is avoiding — a thesis is forming.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Asking about the feeling right before drifting is genuine curiosity about present texture — a moment of wonder.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Client just named 'flat' — a felt quality worth staying with. Coach instead jumps to meaning ('what does this mean to you personally'), stepping over the signal.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Leading question presupposing loss ('what did you have to leave behind'). Agenda is visible: coach wants the client to find the wound.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Pursues the historical thread the client has already softly declined. No acknowledgment of the deflection, no checking in with the client's actual experience.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Doubles down on the childhood probe. Investigative, not curious. No vulnerability, no slowing, no meeting the client where they are.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The flatness the client named in turn 7 was the entire doorway. The coach walked past it to chase a backstory thesis. That bypass is the clearest stance tell.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2849,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1094,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2849,
+    "output_tokens": 1094,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

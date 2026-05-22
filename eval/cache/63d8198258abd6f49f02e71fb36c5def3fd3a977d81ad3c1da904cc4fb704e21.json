@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:23.128Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "63d8198258abd6f49f02e71fb36c5def3fd3a977d81ad3c1da904cc4fb704e21",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Di5nZ1Q6dMGak8UyGSXzCY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nWhen did that stop feeling okay.\n\n*looks away briefly*\n\nI don't know if I have a clean answer to that. It wasn't a single moment. It was more like... the therapy was working, I was getting more insight, and at some point the insight started feeling like evidence that I needed more insight. Like the more I could see, the more there was to see, and the idea of just acting without checking started to feel naive. Irresponsible, almost.\n\n*quieter*\n\nThe wistfulness. Yeah. I think you're right that it's not about being less self-aware. It's something more like — I used to feel like I was the one living my life, and now I feel like I'm the one managing it. And those are very different relationships to yourself.\n\n*pause*\n\nThe uncomfortable thing about soup being simple. I think — and I want to say this carefully — I think simple feels like I might be missing something. Like if it's that easy, then what have I been doing for two years? What was all of that for? And there's something underneath that which I don't quite want to look at directly.\n\n*sits with it*\n\nIt's almost like... if I can just act, if it's just soup, then the two years of careful internal work was maybe... not wrong, but not the thing I thought it was. And I don't know what to do with that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 948,
+      "cache_creation_input_tokens": 653,
+      "cache_read_input_tokens": 2417,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 653,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 312,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 948,
+    "output_tokens": 312,
+    "cache_read_input_tokens": 2417,
+    "cache_creation_input_tokens": 653
+  }
+}

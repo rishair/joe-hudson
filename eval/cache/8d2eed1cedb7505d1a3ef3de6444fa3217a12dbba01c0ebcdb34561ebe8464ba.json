@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:45.835Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8d2eed1cedb7505d1a3ef3de6444fa3217a12dbba01c0ebcdb34561ebe8464ba",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FsGsCfFt6ZqDF5zkAtonbn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\n\"Confirmation of something I'd rather not confirm.\"\n\nI don't want to rush past that. Because I think that might be the most important thing you've said, and you caught yourself and moved on quite quickly.\n\nYou don't have to answer this if it's not the right direction. But I'm curious - what is the thing you'd rather not confirm? Not the fear of misjudging yourself in this situation. The thing underneath that. The something.\n\nBecause three months in a loop, the careful rational framing, the \"I know how that sounds\" - that's a lot of effort going into managing something. And I wonder if the reason no diagnostic is working is that the real question isn't actually about this job.\n\n*pause*\n\nI'm not saying the job decision isn't real or doesn't matter. It does. But sometimes a decision becomes the place where a much older question lands. And when that happens, you can analyze the decision forever and never quite resolve it, because you're not actually arguing about the job.\n\nDoes that resonate at all? Or does it feel like I'm reaching?\n\nAnd I want to name something else directly - you said *\"fear isn't always wrong\"* and you're right. That's genuinely true and it's not just a cognitive distortion. So I'm not going to tell you the fear is wrong.\n\nBut I am wondering what it's actually about."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 300,
+      "cache_creation_input_tokens": 1560,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1560,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 311,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 300,
+    "output_tokens": 311,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1560
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:51.053Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ddc28ed9cd026a7cefe60b0c059a26428bdb03b7fb17274a13782f43d31cd9ba",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017SfBJvd3xAeL9gtjWSdiVs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "A little. Yeah.\n\nLike — there's this background noise that says I should have figured this out by now. That someone who had it together would have made a move, would have seen it coming, would have set something up before the walls closed in. And instead here it is, early forties, same place, same ceiling, and it's... \n\n*pause*\n\nIt's not what was supposed to happen."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 361,
+      "cache_creation_input_tokens": 317,
+      "cache_read_input_tokens": 2001,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 317,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 91,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 361,
+    "output_tokens": 91,
+    "cache_read_input_tokens": 2001,
+    "cache_creation_input_tokens": 317
+  }
+}

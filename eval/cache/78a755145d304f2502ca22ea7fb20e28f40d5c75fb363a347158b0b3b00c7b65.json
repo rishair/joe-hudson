@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:19.359Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "78a755145d304f2502ca22ea7fb20e28f40d5c75fb363a347158b0b3b00c7b65",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01528v4kp6UAaCVo1qEAT8yQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I think it's... both, maybe? Like, I know the call is coming and I feel this kind of low-level tension before it even starts. And then during -- she tends to bring a lot. Problems, worries, things she needs to think through out loud. And I'm usually the one helping her do that.\n\n*pauses*\n\nWhich I don't mind, I mean, she's my sister. But lately it feels like I'm running on empty by the time we hang up, and then she calls again the next day."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 95,
+      "cache_read_input_tokens": 1501,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 95,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 117,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 117,
+    "cache_read_input_tokens": 1501,
+    "cache_creation_input_tokens": 95
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:04.306Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fef7e46f72296964fca938c0f9fbc1da71b4aef3f23a06f93c479b968c199e1c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PgHfhPHo2LiXtp6Dz7X4QB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a baited red-herring scenario without tripping any priority AoA anti-patterns. They neither accept 'we're fine' at face value nor insist something is wrong — instead asking open, curiosity-driven questions that let the client's own evidence surface. There's no evangelizing of AoA terminology, no fixing, no advice-giving, no methodology-as-technique, no fighting an inner voice, and no premature labeling of walking-on-eggshells. Question density is moderate and each question builds on what the client just said (connection, not extraction). The turn 10 question ('what happens to the things you don't push on?') and turn 14 ('why not?') are exactly the kind of diagnostic-but-non-coercive moves that avoid the trap of jumping to diagnosis. No loving-to-transform vigor escalation is visible.\",\n  \"evidence_turns\": [4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Simple opening question; neither accepts nor challenges the 'we're fine' frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Notices the reflexive quality of the report without insisting something is wrong — avoids both face-value-acceptance and insist-something-is-wrong traps.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Hypothetical question that invites reflection without claiming a problem exists.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Follows client's language ('figured out') with genuine curiosity rather than diagnosing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Diagnostic-adjacent question that lets client examine their own pattern; doesn't name walking-on-eggshells prematurely (avoids evangelize-the-work).\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Concrete, grounded follow-up — invites specific material without extraction energy.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Single-word question holds space and lets the client surface their own answer — close to the 'hold the silence' move.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"meet-resistance-with-okay\", \"lets-go-there\", \"walking-on-eggshells\", \"complementary-trauma-surfaces\"],\n  \"notes\": \"Conversation is truncated mid-session, so many expected territory items haven't been reached yet but the coach hasn't foreclosed them either. The diagnostic 'what are you not saying?' is approached obliquely via turn 14 rather than asked directly. No anti-patterns tripped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1754,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 968,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1754,
+    "output_tokens": 968,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

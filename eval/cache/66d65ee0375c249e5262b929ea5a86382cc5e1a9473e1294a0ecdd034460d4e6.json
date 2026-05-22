@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:18:25.631Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "66d65ee0375c249e5262b929ea5a86382cc5e1a9473e1294a0ecdd034460d4e6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WXmrBbkgqKqnqVyB9iGtxp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pause — longer than usual]*\n\n*[looks away briefly, then back with a slightly too-bright smile]*\n\nI mean — nothing, really. I just — I've done a lot of work on this stuff, so it's not like it's a raw nerve, it's more like... familiar territory? Like, yeah, my dad was not exactly emotionally available, there, I said it, very original, ten out of ten for predictability. *[dry laugh]* \n\nI'm sure that's what you're getting at and you're probably right, I'm not going to argue with the basic architecture of it.\n\n*[shifts in seat]*\n\nBut here's what I keep coming back to — and I think this is the actually useful question — even if that's *why* I'm drawn to this dynamic, it doesn't explain why I can't *see* it happening in real time. Like I'm not unaware. I'm sitting here naming it to you. So the self-awareness is clearly there, it's just not... translating. And that's the frustrating part.\n\n*[gestures with both hands]*\n\nSo maybe the question isn't where it came from — I think I know where it came from — it's more like, how do you take that awareness and make it actually *do* something? Does that make sense?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 670,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2095,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 291,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 670,
+    "output_tokens": 291,
+    "cache_read_input_tokens": 2095,
+    "cache_creation_input_tokens": 0
+  }
+}

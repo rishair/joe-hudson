@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:16:40.074Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1cb482fa2d77b53d53add9567beebe5909e07c5773a65a5071fe438f63199771",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XngtWznwafzgtmVLZV6NKb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates partial VIEW presence — there is empathy and some genuine curiosity, and importantly the coach does not strategize about the to-do list or match the client's rushed list-recitation pace, which is a real stance win. The coach explicitly slows the client in turn 8 ('can I just slow you down for a second?') and refuses to take the time-blocking bait. However, vulnerability is essentially absent — the coach never names their own state, never offers an 'I notice I want to...' or 'maybe I'm off,' and never lets themselves be wrong. Wonder is present but feels somewhat investigative/strategic rather than open — questions like 'what would it mean if it wasn't fine?' and 'what is the cost of waiting that long?' carry a faint agenda (the coach wants the client to see the cost) rather than emerging from pure curiosity about what is actually happening. Turn 14 in particular has a subtle preacher-edge — listing back the keys, the December plan, the cost — which is closer to persuasion than to wonder. Impartiality is therefore wobbly; the coach has a direction they want the client to face. Empathy is real but the coach mostly stays in question-mode rather than meeting the tiredness in turn 15 with stillness. Neither a clean 1 nor a clean 3 — genuinely a 2.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens with a stacked binary question ('fear or something else') from a slightly investigative stance rather than meeting the client's rush with presence.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Notices the unfinished sentence — genuine curiosity about a specific phenomenon in front of the coach, not a generic probe.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Catches the 'it's fine' repetition — wonder is present, but the question has a slight leading quality.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicit pace-mismatch ('can I just slow you down') — a real VIEW move; coach does not match the list energy.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What if you're not doing anything wrong?' lands from a relatively open place, not a fixing place.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Question carries an agenda — the coach wants the client to stop waiting for December. Impartiality slips.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Coach defends position ('I'm not questioning that') and then lists evidence back — edges toward persuasion/preacher-mode rather than wonder. No vulnerability about own pull to push here.\"},\n    {\"turn\": 15, \"polarity\": \"neutral\", \"annotation\": \"Client opens into tiredness — we don't see the coach's next move, but the prior turn shaped this opening through pressure as much as presence.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\"],\n  \"notes\": \"Coach avoids the major traps (no strategizing, no 'you create your overwhelm,' no premature breathwork) but does not yet inhabit full VIEW — particularly missing vulnerability and a touch of agenda in the later questions.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2439,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1208,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2439,
+    "output_tokens": 1208,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

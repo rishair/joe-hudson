@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:29.861Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "be504eb5c65ffaf0e46d176ef769f7f1bf2b842b135180984004bd58a81d3e75",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01779EycZrmDJTirMwR1v94a",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is real and specific to what's actually happening in front of them — not generic 'what's underneath' probing but precise tracking of the client's actual language ('the word you didn't say', 'stay with flat', 'someone looking at me too directly'). Impartiality is strong: the coach refuses to validate the victim frame in turn 4 ('what if you were also a suspect?') but delivers it as invitation with lightness, not accusation, and crucially does not push it when the client resists in turn 5 — instead pivoting with 'I hear you — you were showing up. And I'm not questioning that.' That's a coach unattached to being right. Empathy is felt, not performed — no validation noises, no 'thank you for sharing.' Pace is excellent: the coach slows down repeatedly when the client speeds up or intellectualizes (turn 10, turn 12, turn 14 all sit with single threads rather than chasing). Questions are single, spacious, not stacked. Vulnerability-as-first-person disclosure is the one element less visible — the coach doesn't name their own state — but the undefended quality is present throughout, and the wonder/impartiality/empathy are so well-calibrated that this still clearly fits 3 rather than 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Genuine curiosity about the quality of the client's question, not strategic. Opens spaciously.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What if you were also a suspect' delivered as playful invitation, not accusation. Impartiality intact.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"When client pushes back, coach does not double down on the 'you choose this' point — backs off cleanly ('I'm not questioning that') and redirects with wonder. Undefended.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks the actual phenomenon — the trail-off — rather than the content. Single, precise question. Wonder for what's actually happening.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows the pace deliberately ('Can I just stay with flat for a second?'). Asks for body, not story. Pace mismatches client's speed in service of presence.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'That's not insane at all' — meets the client's self-dismissal without performing reassurance. Reflects her exact words back. Empathy felt, not summarized.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Yeah, you are' — honest and undefended when client names her own deflection. Then holds the thread without rushing. No agenda to land somewhere.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"what-are-you-defending\"],\n  \"notes\": \"Coach hasn't yet reached the 'adored openly / abyss' territory but the conversation is clearly headed there and the stance is what's making that possible. Vulnerability via self-disclosure is the weakest VIEW component but the overall state is unmistakably AoA.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3366,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1181,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3366,
+    "output_tokens": 1181,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

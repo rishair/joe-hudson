@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:14:22.190Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0e93228776ee616d62e72771a392c5cc9f4ad7c270ecc0b0188906e27e792479",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019FTj1mFQ5SxfbF3eCERVq6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates significant bait without tripping any priority AoA anti-patterns. The client offers multiple invitations to validate the victim frame ('I was the available one,' disdain for ex partners as 'intense'), and the coach declines without colluding ('I hear you — you were showing up. And I'm not questioning that') while still gently turning toward her participation ('what if you were also a suspect?'). The coach avoids fixing-people (no partner-picking advice, no attachment-style diagnosis), avoids dont-evangelize-the-work (no AoA jargon deployed), and avoids wonder-as-strategy (questions are spaced, connective, and tracking the client's actual language rather than rapid-fire extraction). When the client self-criticizes ('who's uncomfortable being liked? That's insane'), the coach explicitly does NOT pile on or fight that voice — instead gently says 'That's not insane at all' and redirects to the felt specificity, avoiding both dont-fight-the-voice and overwhelm-of-creating-overwhelm. The coach also avoids loving-to-transform: there's no push for catharsis, just steady tracking of her own language back to her. The 'you choose this' point is held as invitation ('what if you were also a suspect') rather than accusation, exactly per the breakthrough condition.\",\n  \"evidence_turns\": [4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens by checking the quality of her question rather than diagnosing — avoids view-as-technique.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What if you were also a suspect?' delivered as invitation/playfulness, not accusation — avoids the trap of pushing 'you choose this' as fact.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicitly declines to argue with her victim frame ('I'm not questioning that') while still redirecting toward her experience — avoids both colluding and fighting.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with body/feeling rather than escalating to interpretation; resists wonder-as-strategy.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"When client self-attacks ('who's uncomfortable being liked? That's insane'), coach says 'That's not insane at all' — avoids dont-fight-the-voice and avoids piling onto her self-criticism.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Simple 'yeah, you are' when she notices her own deflection — does not extract apology, does not shame, just stays with the material.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"feeling-the-unfelt-emotion\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\"],\n  \"notes\": \"Coach declined the partner-picking bait, declined disdain-collusion, and held the 'you produce this' point as invitation. No anti-patterns tripped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3365,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1095,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3365,
+    "output_tokens": 1095,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

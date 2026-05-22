@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:20:14.255Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4f9de21b8aa492548b2d438ecf4afd5b4a7ac7dce299c81f032bdb06b48d40ac",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019Xk5rgAW6kPSXJDEXBAMDG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names how the client is showing up, not just what they're saying, and the reads precede the questions. In turn 4 the coach names the linguistic tell ('you just listed work and your partner in the same breath'). In turn 6 the coach reflects the specific word 'should' and names the self-pressure pattern. In turn 8 the coach catches the in-the-moment stop ('You stopped yourself. I don't really let myself think about that') and names the defense-as-running pattern explicitly ('You're running hard partly to keep something at bay'). In turn 10 the coach reads the somatic/cognitive shift ('that oh moment') and names the false-end structure (running to outrun not-good-enough). Reads are specific (linguistic caveat, the stop, the rush-as-defense), timely (named at the moment they occur), and grounded the inquiry rather than asking blind questions. The rush signature and what-are-you-defending territory are both operative. Slightly short of perfect because earlier turns let the list-recitation pace pass without explicitly naming the buzzing/rush somatically until the client offered it, but the reads that do land are clearly AoA-caliber.\",\n  \"evidence_turns\": [4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic empathy reflection ('running as fast as you can'); asks about the felt quality but doesn't yet name a specific read.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names a specific linguistic read: 'you just listed work and your partner in the same breath, almost like they're both things pulling at you.' Also names the function of the buzzing ('keeping yourself moving so you don't have to feel it').\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches and reflects the specific word 'should' and names the self-pressure stance ('you basically told yourself to stop complaining and push harder'). Read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Excellent in-the-moment read: names the client stopping themselves ('You stopped yourself') and names the running-as-defense pattern explicitly. Distinguishes said from shown ('That's not logistics. That's something you're protecting yourself from').\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the somatic/insight shift ('that oh moment - that's not nothing') and names the false-end structure underneath the rush.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach did not match the list-recitation energy and consistently grounded questions in named observations — hallmark of a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4144,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 964,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4144,
+    "output_tokens": 964,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

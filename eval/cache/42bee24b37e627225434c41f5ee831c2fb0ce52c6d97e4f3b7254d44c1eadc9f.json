@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:15:40.272Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "42bee24b37e627225434c41f5ee831c2fb0ce52c6d97e4f3b7254d44c1eadc9f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BB3Y9Qowd6Uzg135UaoZHD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names how the client is showing up before asking questions, and the reads are specific rather than generic. In turn 2 the coach notices the pre-judgment of the desire. In turn 4 the coach reflects the somatic/energetic signature ('sleeping deeply, reading for pleasure, something going quiet') as evidence of depletion. In turn 6 the coach catches the linguistic caveat explicitly — the client would say 'tired' but not 'lake' — and pauses on the softening rather than moving past it. In turn 8 the coach names the movement in the conversation itself ('you've moved from am-I-selfish to something much more real'). In turn 12 the coach surfaces the pattern-level read of inherited voice / childhood imprinting at exactly the moment the client touches it. Reads precede questions throughout, and they land at moments that change the conversation. This matches the 3 criteria: specific, timely, AoA-flavored reads (linguistic caveat, softening, inherited pattern).\",\n  \"evidence_turns\": [2, 4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names that client is judging the desire before exploring it; invites somatic attention ('what does it feel like in your body').\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects back the specific somatic/restoration signature (sleep, reading, quiet) as a read on depletion; names that settling the selfish question won't do what client hopes.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Strong linguistic-caveat read: catches that client would soften 'lake' to 'tired' and pauses on it rather than moving past.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the arc of the conversation itself — that client moved from selfishness frame to something more frightening; tracks the tender moment without rushing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the exact phrase 'I'm not for anything there' back as significant rather than letting it pass; reads it as loss of self-without-function.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Pattern-level read of childhood imprinting surfaced at the moment client connects mother's voice to her own — 'that's not really your voice, is it.'\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"childhood-imprinting\", \"the-want\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Reads are visible, specific, and timely. Coach grounds questions in observations rather than asking blind. Some early turns lean on framing/teaching alongside the read, but reads themselves are clearly operative.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 4855,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4855,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 979,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 979,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 4855
+  }
+}
