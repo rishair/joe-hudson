@@ -2,10 +2,10 @@
 type: principle
 id: become-unnecessary
 title: "Become Unnecessary"
-aliases: ["the less involved I can be the better", "less needed the better", "becoming unnecessary as success", "a good teacher becomes unnecessary", "the math teacher test", "remove yourself from the equation", "make yourself replaceable", "necessary teacher trap", "design the platform to continue without you", "when I'm dead the work continues"]
-tags: ["teaching", "coaching", "business", "leadership", "cult dynamics", "scaling", "principle"]
-related: ["community-over-teacher", "dont-evangelize-the-work", "consciousness-is-the-product", "fixing-people", "integration", "childhood-imprinting", "structure-and-empowerment", "training-coaches-and-facilitators", "coach-personality-determines-style", "coaches-foundation-self-awareness"]
-sources: ["2021-06-04_The Business Behind our Courses", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_The Business Behind Our Courses", "2024-01-05_Coaching as a Practice"]
+aliases: ["the less involved I can be the better", "less needed the better", "becoming unnecessary as success", "a good teacher becomes unnecessary", "the math teacher test", "remove yourself from the equation", "make yourself replaceable", "necessary teacher trap", "design the platform to continue without you", "when I'm dead the work continues", "the Taoist leader principle", "the best leaders nobody knew were there", "your ego's not in the game", "the leader whose ego is not in the game", "the need-to-be-valuable engine", "the I-must-be-valuable engine"]
+tags: ["teaching", "coaching", "business", "leadership", "cult dynamics", "scaling", "principle", "ego"]
+related: ["community-over-teacher", "dont-evangelize-the-work", "consciousness-is-the-product", "fixing-people", "integration", "childhood-imprinting", "structure-and-empowerment", "training-coaches-and-facilitators", "coach-personality-determines-style", "coaches-foundation-self-awareness", "speak-to-the-problem-without-solving-it", "humility", "state-the-want-not-the-action", "give-parameters-of-winning", "hire-by-dream-job"]
+sources: ["2021-06-04_The Business Behind our Courses", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_The Business Behind Our Courses", "2024-01-05_Coaching as a Practice", "2024-08-23_How To Lead Without Managing"]
 ---
 
 # Become Unnecessary
@@ -51,6 +51,28 @@ The teacher has to be willing to let the work succeed without them. Has to be wi
 "Everything that I do is all about pointing people back to themselves. And the less involved I can be, the less involved the organization can be, the better, so that we don't create an organization where people need us." -- Joe Hudson, The Business Behind our Courses
 
 For a teacher whose ego is hooked into being central, this is uncomfortable. For a teacher who has done the inner work, this is freeing. The release from being needed is itself a part of the work.
+
+## The Taoist Form of the Principle
+
+The principle has a much older articulation. The Taoists describe the leader whose presence is barely noticed as the best kind of leader, precisely because the work continues without them being central. The reframe is identical: the leader's ego is not in the game. Neither the ego of "it has to be my way" nor the ego of "I am necessary" is operating. The work runs because the conditions for it have been set, not because the leader is propping it up.
+
+"Even the Taoists 2,000 years ago talked about leaders who nobody knew was there and how they were the best leaders. And basically what they're saying is that your ego's not in the game, not the ego of it has to be my way, not the ego of, oh, I'm necessary." -- Joe Hudson, How To Lead Without Managing
+
+The teaching is structural, not virtue-based. The leader whose ego runs the operation produces an operation that depends on the leader. The leader whose ego is not in the game produces an operation that does not need them. Removing the ego is not a moral upgrade; it is a structural shift in what the organization becomes.
+
+The two egos Joe names are worth distinguishing because they fail differently:
+- **The "it has to be my way" ego** produces overcontrol. The team has to wait for the leader, route everything through the leader, and second-guess everything they do against what the leader would prefer. The team's intelligence is suppressed.
+- **The "I am necessary" ego** produces dependency. The leader makes themselves the bottleneck on every decision because being needed is what their identity rests on. The team learns it cannot operate without them and the prophecy becomes true.
+
+Both produce the same structural outcome (an organization that depends on the leader), via different psychological engines. The principle requires releasing both.
+
+## The Behavioral Form: Speak to the Problem Without Solving It
+
+The most concrete daily behavior that operationalizes this principle in leadership: when something feels off, name it and stop. Do not solve. The leader who solves every problem they name is running the I-am-necessary engine. The leader who names without solving is the leader the Taoists are describing.
+
+See [[speak-to-the-problem-without-solving-it]] for the dedicated treatment. The principle here is the underlying structural truth; that move is the behavior that embodies it. A leader cannot maintain "I am becoming unnecessary" while continuing to solve every problem; the solving is the necessity-making machine.
+
+The same logic applies to wants ([[state-the-want-not-the-action]]) and to standards ([[give-parameters-of-winning]]). Each is a way of being present in the leadership role without being the bottleneck. The cumulative effect is the leader who is structurally less needed because they are no longer the locus of solving, the locus of assigning, or the locus of specifying.
 
 ## The Executive Threshold
 
@@ -117,3 +139,4 @@ Plain, structural. Joe states this without moralizing. It is presented as a desi
 - 2021-08-13_Seeing Through Family Dynamics
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
 - 2024-01-05_Coaching as a Practice (the design-goal-is-continuation-without-the-teacher passage; the selection-criterion form of the principle in the coach training)
+- 2024-08-23_How To Lead Without Managing (the Taoist articulation of the principle; the two egos the leader has to release — "it has to be my way" and "I am necessary"; the connection to the speak-to-the-problem-without-solving-it behavior)

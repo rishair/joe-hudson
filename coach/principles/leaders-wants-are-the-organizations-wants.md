@@ -2,10 +2,10 @@
 type: principle
 id: leaders-wants-are-the-organizations-wants
 title: "A Leader's Wants Are the Organization's Wants"
-aliases: ["my wants are the organization's wants", "the leader's wants represent the organization", "leader wants as organizational signal", "naming wants as duty", "I owe it to my team to say what I want", "wants as organizational information", "the CEO who hides fear destroys trust", "leader hiding feelings is leader hiding wants"]
-tags: ["wants", "leadership", "organizations", "responsibility", "vulnerability", "trust"]
-related: ["the-want", "wants-vs-partiality", "sublimated-wants-become-politics", "state-the-want-not-the-action", "tell-them-like-an-asshole", "anxiety-as-unarticulated-need", "vulnerability-in-the-workplace", "resentment-as-unspoken-want", "trust-as-multifaceted", "welcoming-fear-in-leadership", "functional-team"]
-sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
+aliases: ["my wants are the organization's wants", "the leader's wants represent the organization", "leader wants as organizational signal", "naming wants as duty", "I owe it to my team to say what I want", "wants as organizational information", "the CEO who hides fear destroys trust", "leader hiding feelings is leader hiding wants", "the leader's wants are the most aligned to the organization's wants", "leader-wants are the best-aligned wants in the organization", "say what you want as a leader", "leader-wants as the only wants that see the whole organization", "the leader's wants matter most because they see the whole picture", "ask cleanly for what you want as a leader", "clean asking by leaders builds loyalty", "the leader who asks cleanly gets the loyal team", "the cleanly-said want as the loyalty engine", "the leader who hid fear is destroying trust", "why uncommunicated leader-wants make team members feel unsafe", "uncommunicated leader-wants generate the who's-running-this-feeling"]
+tags: ["wants", "leadership", "organizations", "responsibility", "vulnerability", "trust", "loyalty", "alignment"]
+related: ["the-want", "wants-vs-partiality", "sublimated-wants-become-politics", "state-the-want-not-the-action", "tell-them-like-an-asshole", "anxiety-as-unarticulated-need", "vulnerability-in-the-workplace", "resentment-as-unspoken-want", "trust-as-multifaceted", "welcoming-fear-in-leadership", "functional-team", "everybody-wants-the-same-kind-of-team", "asking-with-shame-invites-refusal", "speak-to-the-problem-without-solving-it"]
+sources: ["2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2024-08-23_How To Lead Without Managing"]
 ---
 
 # A Leader's Wants Are the Organization's Wants
@@ -17,6 +17,14 @@ A leader's individual wants and needs are not private. They are organizational d
 The reframe inverts the usual model. The leader's wants are typically treated as personal preferences that must be subordinated to organizational requirements. The actual relationship is the reverse: the leader is positioned in the organization in a way that makes their internal state a sampling of the organization's state. Suppressing the sampling does not make the organization not want the thing. It just removes the leader's ability to see what the organization wants.
 
 "I've come to learn that my wants and needs are the wants and needs of the organization. So I feel that it's my responsibility to express them, whereas before I pushed them down." -- Carla Piñeyro Sublett, Finding Compassion in Self-Indulgence
+
+## Why the Leader's Wants Are the Most Aligned
+
+There is a structural reason the leader's wants merit the weight the principle gives them. The leader's position is the only one in the organization that sees the whole. Every other role sees a slice. The leader's wants are the only wants that arise from the felt sense of the whole. That does not make them objectively correct. It makes them the wants most aligned to what the organization needs.
+
+"The interesting thing about being a leader of an organization is that your wants, your specific wants, not everybody else's, are the best aligned wants to the wants of the organization. It doesn't mean that everybody else's wants aren't important, but your wants are the most important wants because they are the only ones that see the entire organization." -- Joe Hudson, How To Lead Without Managing
+
+The reframe is precise. It is not "the leader's wants are more important than the team's wants because the leader is more important." It is "the leader's wants are the most aligned to the organization's wants because the leader's position is the only one with the field of view that makes alignment to the whole possible." The principle is structural, not hierarchical.
 
 ## Why This Is True
 
@@ -38,6 +46,14 @@ The leader believes hiding fear protects the team. The team experiences the hidd
 
 The structural failure: the team cannot trust a leader whose actual state is hidden. Trust requires being able to see what is going on. See [[trust-as-multifaceted]]. The hidden internal state of the leader is the same betrayal of trust as the hidden want, with the same downstream consequences.
 
+## The Safety Failure for the Team
+
+A different angle on the same dynamic: a team without visible leader-wants does not just lose trust. It loses orientation. The team members do not know whether they are doing a good job, whether they are aligned, whether they are even in the right direction. The leader's hidden wants leave the team in a continuous low-grade vertigo about whether the work is what is wanted.
+
+"If you're leading an organization and people don't know what you want, then they feel things like, 'Oh my gosh, who's leading the organization?' Or they feel things like, 'I don't know if I'm doing a good job.' Or they don't know if they're in alignment or not in alignment. And so without cleanly saying what you want, it's very hard for anybody to feel like they know what they're doing or that they're doing the right thing." -- Joe Hudson, How To Lead Without Managing
+
+The unstated leader-want produces a felt-state in the team that the team then tries to manage with their own work. They overproduce, hedge their bets, build the wrong thing carefully, ask in roundabout ways. The energy that should go into the actual work goes into the meta-work of trying to figure out what the leader wanted. The leader's silence becomes a tax on the whole organization.
+
 ## The Mistaken Self-Reliance
 
 The leader who hides their feelings often experiences it as responsibility. "I have to carry this so the team does not have to." The frame is heroic. The actual effect is the opposite of what the frame describes.
@@ -49,6 +65,24 @@ When the leader names the state, the team can either help carry it consciously o
 "This brings me back to some of my experience as a CEO where I would take things on from a self-reliance perspective of this is mine to carry, this is my fear, I don't need to let this trickle down through the team. And there's a way that that's not trusting them to handle the reality of a scary situation." -- Brett Kistler, Building a Functional Team
 
 The reframe: the self-reliance is also a failure to trust the team. The leader is asserting that the team cannot handle the truth. That assertion is itself a betrayal of trust in the reverse direction. The leader's hiding signals "I don't trust you to handle this," and the team registers the distrust.
+
+## The Cleanly-Said Want and the Loyalty It Builds
+
+How the want is said is as important as that it is said. A want stated cleanly — owned, undefended, without the apologetic hedging or the aggressive "you'd better" pressure — is what produces the loyalty effect the principle predicts. A want stated with shame or with armor produces the opposite.
+
+"The more hard you are in the way that you ask for what you want, the less likely somebody's gonna be able to give it to you or want to give it to you. Also, if you ask for it like, 'Oh my gosh, you're never gonna wanna do this for me,' even the hand motion of, 'Oh, you're never gonna wanna do this,' is a no. It's like, 'Don't give me what you want.' So asking for what you want is just a very clean process. They have the choice to say yes or no." -- Joe Hudson, How To Lead Without Managing
+
+The two failure modes both pre-load a refusal into the request. The hard-ask pre-loads the refusal because the team's compliance feels coerced; even when granted, it costs the relationship. The squished-ask pre-loads the refusal because the asker has already conceded that the want is unreasonable; the team's job becomes confirming the asker's prediction. The clean ask is the one where the wanting and the asking are not contaminated by either defense.
+
+See [[asking-with-shame-invites-refusal]] for the deeper version of this teaching. The leader version adds that the loyalty produced by clean asking is large enough to do work the leader otherwise has to do through pressure. The executive Joe describes in the next section made this visible empirically.
+
+## The Loyalty Example: Workers Who Stayed Without Pay
+
+The empirical evidence Joe reaches for when teaching this principle: an executive whose clean asking built so much loyalty that her team worked without pay during a cash shortage. The example is not romantic; it is structural. The combination of cleanly stating her wants and genuinely supporting her people produced a level of team commitment that traditional management cannot purchase.
+
+"One of the executives I was working with got really good at asking for what she wanted. Anytime she felt any discomfort, she said, 'Oh, this is what I want.' She was also exceptionally good at being supportive of other people. She was constantly making sure that the people that she had working with her had the support they needed to do a great job. And as her company was growing, they had a cash shortage. They didn't have enough money to pay everybody. And everybody stuck around and worked without pay for a little while. They had so much loyalty to this leader. So think about it like this: If people are willing to work without pay, how much do you really need to manage them?" -- Joe Hudson, How To Lead Without Managing
+
+The diagnostic question Joe leaves at the end of the example is structurally important: if the loyalty produced by clean want-stating is large enough that people will work without pay, the management overhead the leader thought was necessary was an artifact of unclean wanting, not a feature of working with humans. The principle, fully applied, replaces a substantial portion of what most leaders think of as the work of leadership.
 
 ## The Reframe of Duty
 
@@ -123,6 +157,9 @@ Direct and serious. The reframe is a significant inversion of how most leaders h
 - Toward [[anxiety-as-unarticulated-need]] as the related principle about anxiety as want signal.
 - Toward [[resentment-as-unspoken-want]] as the diagnostic that wants are being suppressed.
 - Toward [[vulnerability-in-the-workplace]] as the broader application.
+- Toward [[asking-with-shame-invites-refusal]] for the form-of-asking that determines whether the stated want lands.
+- Toward [[speak-to-the-problem-without-solving-it]] as the problem-side counterpart of the wants-side teaching here.
+- Toward [[everybody-wants-the-same-kind-of-team]] for the courage source: the wants you have for the team are the wants the team has.
 
 ## Sources
 
@@ -130,3 +167,4 @@ Direct and serious. The reframe is a significant inversion of how most leaders h
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-10-26_Building A Functional Team
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
+- 2024-08-23_How To Lead Without Managing (the structural reason leader-wants are most aligned to organizational wants; the safety-failure-for-the-team angle; the cleanly-said want as the loyalty engine; the worked-without-pay example)

@@ -2,9 +2,9 @@
 type: move
 id: amplify-the-feeling-until-it-breaks-open
 title: "Amplify the Feeling Until It Breaks Open (Go More Stuck, Go So Stuck You Can't Talk)"
-aliases: ["amplify the feeling until it breaks open", "increase the feeling", "go more stuck", "feel it more", "increase the feeling of X", "the amplification move", "I want you to feel more stuck", "go so stuck you can't talk", "go even more stuck", "amplify the felt sense", "deliberately intensify the feeling", "go further into the feeling", "feel it bigger", "let the feeling get bigger", "the more-of-it move", "the amplification instruction", "the deliberate intensification move", "go all the way in to find the exit", "the going-deeper-into-the-feeling move", "the maximizing move", "feel it to its full intensity", "the do-it-more move for feelings"]
+aliases: ["amplify the feeling until it breaks open", "increase the feeling", "go more stuck", "feel it more", "increase the feeling of X", "the amplification move", "I want you to feel more stuck", "go so stuck you can't talk", "go even more stuck", "amplify the felt sense", "deliberately intensify the feeling", "go further into the feeling", "feel it bigger", "let the feeling get bigger", "the more-of-it move", "the amplification instruction", "the deliberate intensification move", "go all the way in to find the exit", "the going-deeper-into-the-feeling move", "the maximizing move", "feel it to its full intensity", "the do-it-more move for feelings", "go more blank", "go super blank", "go even more blank", "go blank all the way", "amplify the blank", "amplify the freeze", "go all the way into the blank", "you're really good at that go more"]
 tags: ["live coaching", "amplification", "paradoxical", "feeling", "stuckness", "embodied", "intensification"]
-sources: ["2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
+sources: ["2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)"]
 ---
 
 # Amplify the Feeling Until It Breaks Open
@@ -83,6 +83,26 @@ This is the same mechanism described in [[full-understanding-of-a-behavior-disso
 
 There is also a friendly trick built into the move. The instruction "I want you to feel more stuck" is structurally absurd if "stuck" is a feeling, because the person has been trying to feel less stuck. The absurdity produces a small comic break. The break is part of what makes the felt material accessible — the system is no longer braced against the work, because the work just turned into an invitation to do more of what was already happening.
 
+## The Variant: Amplifying the Blank
+
+A specific deployment of the move worth naming on its own: when a person reports "I'm blank inside" or "I have nothing" in response to an emotional question, Joe asks them to go more blank. The same paradoxical structure applies — the person has been spending energy holding the blank just-tolerable; asking for more blank either drops the holding or exposes the holding as voluntary.
+
+"Okay, so, uh I want you to become even more blank. So I'm going to ask you what the sound is, and you're going to go blank. But I don't want you to go blank like this blank. I want you to go blank, super blank. Okay, okay. So what's the sound that you want to make when you think about your entire life? Even more, just like all the way. Oh wow, you're really good at that." — Joe Hudson, I Can't Feel Anything
+
+Note several pieces:
+
+1. **The amplification of the blank is preceded by an instruction the blank is the response to.** Joe asks for the sound, then names that the response will be more blank, then asks for the blank to be amplified. The blank is framed not as failure to answer but as the answer the body is producing. By asking for more of it, Joe converts what was an apparent obstacle into the work itself.
+
+2. **The distinction between "this blank" and "super blank" matters.** "This blank" is the held, defensive blank — kept at a tolerable level. "Super blank" is the structural blank revealed in its full form. The escalation surfaces the structure.
+
+3. **The "oh wow, you're really good at that" is operative.** The praise is paradoxical — it rewards the person for being deep in the defense. This rewards the system for showing its actual shape rather than hiding it. The system relaxes its hiding once the hiding is no longer being rewarded.
+
+4. **What the amplification surfaces is different than with stuckness.** With "go more stuck," the amplification often surfaces a catastrophic image (the black hole, the explosion). With "go more blank," the amplification often surfaces the positive quality of the blank — the quiet, the peace, the "almost holy." See [[the-blank-place-as-refuge]] and [[find-whats-enjoyable-in-the-defense]]. The next move after the amplification is to name what is enjoyable about the now-fully-surfaced blank, which builds the platform for the rest of the work.
+
+The mechanism is the same as with the stuckness amplification. The defense gets surfaced in its full form so it can be honored rather than fought. The amplification is the surfacing tool; the honoring is what happens with what gets surfaced.
+
+This variant is particularly useful with [[i-cant-feel-my-emotions]] when the person's inability to feel is organized around an inner refuge they retreat to. Asking them to feel emotion produces the blank. Asking them to amplify the blank produces the structure of the refuge in legible form, which is the material the rest of the session works with.
+
 ## What This Move Is Not
 
 This is not catastrophizing. It is not asking the person to make up a worse story about their situation. The amplification is somatic — feel more of what is already in the body — not narrative.
@@ -136,3 +156,4 @@ The tone shifts when the catastrophic image arrives. The voice drops. "Go in, go
 
 - 2024-03-18_I Am Scared Of The Unknown (the canonical use of the move; the full arc from the initial amplification instruction through the body's resistance to the deeper feelings to the catastrophic image to the entry move; the structural naming afterward of "the avoidance of the hole is the stuckness")
 - 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — Joe's reflective commentary on the same arc, including the structural frame that each layer is the previous layer's actual form once resistance drops ("a feeling resisted shows up as a different feeling"); the "no bottom exactly, but the next level down" frame for how to think about the layered surfacing; Brett's observation about the grammar shift from "feels like I'm going to" (prediction) to "it feels like" (present-tense felt-state) as the diagnostic that a layer has dropped
+- 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach) — the amplify-the-blank variant: "I want you to become even more blank. I want you to go blank, super blank... Even more, just like all the way. Oh wow, you're really good at that." The amplification of the blank surfaces the positive quality of the refuge (quiet, almost holy) rather than a catastrophic image; the next move after the amplification is [[find-whats-enjoyable-in-the-defense]] which names what is good about what has just been surfaced

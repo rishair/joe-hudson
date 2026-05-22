@@ -2,9 +2,9 @@
 type: concern
 id: i-should-be-doing-this
 title: "I should be doing this / I shouldn't be doing this"
-aliases: ["the should concern", "I know I should", "I keep telling myself I should", "should language", "I shouldn't be eating this", "obligation language", "I have to", "I've been trying for years", "the thing I've been trying to do for years", "the unstarted business", "the exercise I never start", "the relationship goal I keep failing at", "I keep beating myself up about it", "I can't finish up with this divorce", "I can't finish up with this", "I can't end this", "patterns of obligation and responsibility get in the way", "I'm on the cusp of everything I want and obligation is in the way", "obligation patterns get in the way", "responsibility and obligation get in the way", "patterns of obligation get in the way", "obligation intertwined with fear and scarcity", "patterns of obligation responsibility fear scarcity", "the obligation-and-scarcity pattern"]
+aliases: ["the should concern", "I know I should", "I keep telling myself I should", "should language", "I shouldn't be eating this", "obligation language", "I have to", "I've been trying for years", "the thing I've been trying to do for years", "the unstarted business", "the exercise I never start", "the relationship goal I keep failing at", "I keep beating myself up about it", "I can't finish up with this divorce", "I can't finish up with this", "I can't end this", "patterns of obligation and responsibility get in the way", "I'm on the cusp of everything I want and obligation is in the way", "obligation patterns get in the way", "responsibility and obligation get in the way", "patterns of obligation get in the way", "obligation intertwined with fear and scarcity", "patterns of obligation responsibility fear scarcity", "the obligation-and-scarcity pattern", "everything I do is because it's the right thing", "everything I do is just because that's the right thing to do", "I do everything because I have to not because I want", "I can't find pleasure in what to do next", "I don't know what I want to do", "I do all the right things but I don't want any of it", "I'm doing everything I'm supposed to and it's empty"]
 tags: ["shoulds", "obligation", "self-criticism", "concerns"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2023-04-11_Master Class - What is Holding You Back？", "2024-03-01_What Blocks Your Love？"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2023-04-11_Master Class - What is Holding You Back？", "2024-03-01_What Blocks Your Love？", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)"]
 ---
 
 # I should be doing this / I shouldn't be doing this
@@ -33,6 +33,29 @@ The concern can also surface as a complaint about a bad habit, a missed goal, a 
 A specific shape of this concern: the person can name what they want, and they have done significant work, and they cannot finish. They are on the cusp of what they want -- the divorce that needs to be finalized, the company that needs to be sold, the move that needs to be made -- and obligation and responsibility patterns keep stalling them at the threshold. The body locates the stuckness somewhere (chest, upper arms, unease). They can describe it precisely. They cannot move past it.
 
 The diagnostic for this variant: ask what someone could say to them that would immediately drop them into the felt sense of obligation. The answer usually names the original conditional-love source ("you ruined my life" was the wife's; the inner critic's version follows the same template). Once the source sentence is in the room, the body locates it and the work can begin. See [[responsibility-stops-love]] for the principle that explains why the can't-finish state happens: the obligation has been substituting for love for so long that the person no longer trusts that love can be the operating mode of the decision.
+
+## The "Everything I Do Is From Obligation" Variant (The High-Functioning Empty Form)
+
+A specific shape worth naming distinctly: the person reports that they are already doing all the things — high achievement on the outside, straight A's, good work, the right behaviors — but everything they do is from "should" and nothing is from desire. The person is not failing to do the right things. They are doing them perfectly. The complaint is that the doing is empty.
+
+The presenting language for this variant:
+- "Everything I do is just because that's the right thing to do and not because I want to do this."
+- "I do all the things and none of them feel good."
+- "I can't find pleasure in what to do next."
+- "I'm very high achieving on the outside but I don't actually want any of it."
+
+The diagnostic difference from the "years of trying" variant: in the years-of-trying form, the person is failing to do the should-thing and beating themselves up about it. In the everything-from-obligation form, the person is succeeding at the should-things and reporting that the success is empty. The shame layer is different: years-of-trying carries the shame of failure; everything-from-obligation often carries the shame of being ungrateful for what the person has achieved.
+
+The underlying mechanism is often deeper: the wants are not just buried under shoulds; the channel that carries wants has been sealed by long-term compartmentalization. The person cannot just locate the want behind the should because the want-signal is structurally offline. See [[the-blank-place-as-refuge]] for the read this variant often pairs with, and [[i-cant-feel-my-emotions]] for the related concern.
+
+The coaching path for this variant differs from the standard shoulds path. Locating the want directly often fails — the person genuinely does not know what they want, not because they have not looked, but because the want-signal is not arriving. The work first has to re-open the emotional channel that wants ride on. See [[joy-as-matriarch]] for the structural mechanism: the wants are part of the family that has been kept out.
+
+The opening move is often the matriarch teaching paired with the wisdom-frame (see [[honor-the-patterns-intent]] compact form): "you very wisely compartmentalized your emotions so that you could survive [the original conditions]." The wisdom-frame is critical because the person presenting this variant is often holding shame about the want-absence ("I should be able to want things") that would only get louder under a directly want-focused intervention.
+
+The arc from there moves through:
+1. Honor the strategy that sealed the wants (the compartmentalization was wise)
+2. Open the channel by allowing the difficult emotions back through (matriarch's children first)
+3. The wants return as part of the family — not as a separate project, but as the natural arrival once the channel is open
 
 ## The "Years of Trying" Variant
 
@@ -87,3 +110,4 @@ In the relationship/can't-finish variant, the underlying mechanism is more speci
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach) — the everything-I-do-is-from-obligation variant in its full form, presented by a woman who lost her mother at 5 and reports she is high-achieving on the outside (straight A's, good work) while internally everything is done because it's the right thing and nothing is from desire; the variant pairs with the [[the-blank-place-as-refuge]] read and is opened with the matriarch teaching plus the wisdom-frame rather than with the standard locate-the-want-under-the-should move

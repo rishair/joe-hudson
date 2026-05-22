@@ -2,10 +2,10 @@
 type: example
 id: joes-crying-story
 title: "Joe Learning to Cry"
-aliases: ["faking it in the woods", "Joe's crying story", "fake crying for three months", "Joe couldn't cry for fourteen years", "the photo album story"]
+aliases: ["faking it in the woods", "Joe's crying story", "fake crying for three months", "Joe couldn't cry for fourteen years", "the photo album story", "I cried for 4 days straight when I first cried after 14 years", "Joe's 14 years and 4 days", "the long cry after the long shutdown"]
 tags: ["personal example", "crying", "feeling", "transformation", "shame"]
-related: ["daily-emotional-yoga", "stages-of-emotional-development", "feeling-the-unfelt-emotion", "kinked-emotions", "childhood-imprinting"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure", "2024-06-28_4 Ways To Feel Your Emotions"]
+related: ["daily-emotional-yoga", "stages-of-emotional-development", "feeling-the-unfelt-emotion", "kinked-emotions", "childhood-imprinting", "tears-dont-disturb-the-refuge", "give-me-the-sound-of-the-emotion"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure", "2024-06-28_4 Ways To Feel Your Emotions", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)"]
 ---
 
 # Joe Learning to Cry
@@ -59,6 +59,19 @@ The thing that he could not access at all in his twenties became something he so
 5. **[[stages-of-emotional-development]]:** Stage 1 to stage 2 in action. From "I don't even know I have these emotions" to "I can let them move."
 6. **[[feeling-the-unfelt-emotion]]:** Fourteen years of unfelt material released in days once the door opened.
 
+## The Condensed Live-Coaching Form
+
+In a live coaching session with a person whose grief has been frozen for decades, Joe sometimes deploys the story in its most compressed form — a single sentence offered when the person predicts the cry will be very long. The compression preserves the operative element (long shutdown produces long release) while removing everything that would slow the moment down.
+
+- **Person:** "I think it's going to be like a very long period of crying, like so many things."
+- **Joe:** "Yeah. When I first cried after 14 years, I cried for 4 days straight."
+
+*(Source: I Can't Feel Anything (Coaching Session With Master Coach))*
+
+The sentence does specific work in the moment. The person was predicting the cry would be long and was using the prediction as part of the reason not to start. Joe's reply confirms the prediction is reasonable — long shutdowns do produce long releases — and removes the implicit fear that the length would mean something is wrong. The example is offered as a fellow-traveler note, not as a teaching. The brevity is part of the warmth.
+
+Note also that Joe does not pivot to the longer story (the photo album, the woods, the three months of fake crying). The longer story would shift the focus from the person's about-to-arrive cry to Joe's biography. The single-sentence version stays focused on the person's experience and just gives one piece of evidence that what is coming is safe.
+
 ## When Joe Reaches for This Story
 
 - When someone says they cannot access an emotion they want to feel.
@@ -66,6 +79,7 @@ The thing that he could not access at all in his twenties became something he so
 - When someone is embarrassed about feeling weird or fake while trying to feel.
 - When the shame around emotional expression is itself the obstacle.
 - When someone needs evidence that faking it is a legitimate starting point.
+- When someone is predicting the cry will be very long and the prediction is being used as a reason not to start. The compressed form (just the 14-years/4-days line) is the form for this moment.
 
 ## Tone
 
@@ -76,3 +90,4 @@ Self-deprecating, warm. Joe tells this on himself. The three miles off-trail is 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2024-06-28_4 Ways To Feel Your Emotions (the public-facing video version of the same story, condensed for a general audience as the operational example in the framework's expression step; the "learning how not to feel better" inversion that lands the emotional payoff for someone who has not yet trusted the work; positioned alongside the actor-with-an-emotional-scene method as one of two on-ramps to letting expression happen)
+- 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach) — the single-sentence condensed deployment of the story in live coaching when a person whose mother died at age 5 predicts her cry will be very long: "Yeah. When I first cried after 14 years, I cried for 4 days straight." The condensation preserves the operative element (long shutdown produces long release) while removing everything that would slow the moment down or shift focus from the person to Joe's biography

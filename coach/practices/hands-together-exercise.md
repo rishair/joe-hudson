@@ -4,8 +4,8 @@ id: hands-together-exercise
 title: "Hands Together Exercise"
 aliases: ["hands together", "the trying vs undoing exercise", "palms together exercise", "feel the opposite of trying", "the somatic undoing", "the receiving exercise", "the allowing exercise", "feel the opposite to find the receive"]
 tags: ["practice", "somatic", "undoing", "trying", "exercise", "receiving", "allowing"]
-related: ["undoing-not-doing", "trying-vs-doing", "art-of-accomplishment", "resistance", "opposite-of-trying", "letting-go-vs-doing-nothing"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying"]
+related: ["undoing-not-doing", "trying-vs-doing", "art-of-accomplishment", "resistance", "opposite-of-trying", "letting-go-vs-doing-nothing", "feel-the-searching-then-feel-the-opposite"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment", "2023-04-14_The Opposite of Trying", "2024-08-20_How Do I Find My Purpose？"]
 ---
 
 # Hands Together Exercise
@@ -58,6 +58,22 @@ The recognition is often immediate: this is what I do all day. I try without doi
 - When someone is intellectualizing the difference between trying and doing.
 - Early in a coaching conversation about effort, productivity, or transformation, to ground the concepts in the body.
 
+## The Same Logic Applied to Intangible Searches
+
+The hands-together exercise targets the felt distinction between trying and undoing in the body. The same somatic logic — feel the loaded state, then feel the exact opposite — applies to abstract pursuits the person has been searching for over time. Purpose, love, meaning, the right work, the right partner. See [[feel-the-searching-then-feel-the-opposite]] for the move that applies this exercise's structure to an intangible target.
+
+In Joe's coaching session with someone who had spent years searching for her purpose, the same instruction format produced an immediate emotional response:
+
+"In your body, feel what it is to, like, go out and try to find the thing you're meant to do. Just feel like that... Now I want you to feel what it is to receive the same information... instead of going out and looking, see what it's like to actually just assume it's coming toward you and your job is just to receive it." -- Joe Hudson, How Do I Find My Purpose?
+
+The session closed with the wordless version of the same move:
+
+"And now, without even thinking about anything, just feel the exact opposite. Let your body just show you the exact — go in the exact opposite direction." -- Joe Hudson, How Do I Find My Purpose?
+
+The "let your body just show you the exact opposite" instruction is the hands-together exercise's step 4 generalized. The body knows the opposite of any held state — including held abstract states like "searching for my purpose." Asking the body to demonstrate the opposite produces the alternative state directly, without the head having to figure out what the opposite would be.
+
+This generalization matters for the AI coach. The hands-together exercise has wider application than its name suggests. Anywhere a person has been carrying a loaded state — physical or abstract — the same A/B works. Load it, feel its opposite, notice the difference. The body teaches the distinction the head has been arguing about.
+
 ## What It Tends to Produce
 
 A pause. A recognition. Often a small smile of relief as the person feels how much they have been loading their system without moving anything.
@@ -69,3 +85,4 @@ For many, the immediate next question is: "Then what do I do instead?" The hones
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2023-04-14_The Opposite of Trying (Joe re-uses the exercise to introduce the receiving/allowing/listening positive frame; "you just put your two hands together... try to pull your pinkies apart... then without thinking for a moment, without using your head at all, take this feeling that you have and then feel the opposite of it")
+- 2024-08-20_How Do I Find My Purpose? (the exercise's logic applied to an abstract search target — purpose — with the same somatic A/B producing an immediate emotional response; the closing instruction "let your body just show you the exact opposite" generalizing the exercise's step 4 to any held state)

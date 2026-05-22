@@ -5801,15 +5801,112 @@
     },
     {
       "folder": "2024-08-20_How Do I Find My Purpose\uff1f",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T21:06:48Z",
+      "articles_created": [
+        "i-cant-find-my-purpose",
+        "searching-for-purpose-pushes-it-away",
+        "feel-the-searching-then-feel-the-opposite",
+        "seeking-as-the-wall",
+        "how-question-as-defense-against-having",
+        "challenge-the-premise-in-the-framing"
+      ],
+      "articles_updated": [
+        "hands-together-exercise",
+        "searching-for-love-cuts-off-love",
+        "always-something-spectacular-happening",
+        "the-natural-integration-arc-after-breakthrough",
+        "im-not-living-up-to-my-potential",
+        "opposite-of-trying"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T21:19:00Z"
+    },
+    {
+      "folder": "2024-08-23_How To Lead Without Managing",
+      "status": "complete",
+      "claimed_at": "2026-05-22T21:07:27Z",
+      "articles_created": [
+        "speak-to-the-problem-without-solving-it"
+      ],
+      "articles_updated": [
+        "leaders-wants-are-the-organizations-wants",
+        "asking-with-shame-invites-refusal",
+        "become-unnecessary"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T21:14:59Z"
+    },
+    {
+      "folder": "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T21:15:46Z",
+      "articles_created": [
+        "give-me-the-sound-of-the-emotion",
+        "the-blank-place-as-refuge",
+        "tears-dont-disturb-the-refuge",
+        "whats-the-real-question",
+        "find-whats-enjoyable-in-the-defense"
+      ],
+      "articles_updated": [
+        "the-smile-of-recognition",
+        "i-cant-feel-my-emotions",
+        "joes-crying-story",
+        "joy-as-matriarch",
+        "honor-the-patterns-intent",
+        "amplify-the-feeling-until-it-breaks-open",
+        "i-should-be-doing-this",
+        "ive-lost-my-joy",
+        "childhood-imprinting"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T21:35:29Z"
+    },
+    {
+      "folder": "2024-08-30_How Saying \u201cNo\u201d Sets You Free (Coaching Reaction Video)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T21:19:37Z",
+      "articles_created": [
+        "point-at-truth-from-where-they-stand"
+      ],
+      "articles_updated": [
+        "i-cant-stop-being-jealous-of-my-partners-friend",
+        "name-the-body-defense-in-real-time",
+        "every-no-contains-a-better-answer",
+        "hold-a-perspective-without-thinking-youre-right",
+        "decisions-are-emotional"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T21:27:54Z"
+    },
+    {
+      "folder": "2024-08-30_Loving the No (Coaching Session Breakdown)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T21:28:46Z",
+      "articles_created": [],
+      "articles_updated": [
+        "coaches-foundation-self-awareness",
+        "every-no-contains-a-better-answer",
+        "name-the-body-defense-in-real-time",
+        "hold-a-perspective-without-thinking-youre-right",
+        "point-at-truth-from-where-they-stand",
+        "decisions-are-emotional",
+        "i-cant-stop-being-jealous-of-my-partners-friend"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T21:35:32Z"
+    },
+    {
+      "folder": "2024-09-02_How To Stop Being Resentful",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T21:36:07Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-08-23_How To Lead Without Managing",
+      "folder": "2024-09-06_How Do I Feel My Body\uff1f",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T21:07:27Z",
+      "claimed_at": "2026-05-22T21:36:25Z",
       "articles_created": [],
       "articles_updated": []
     }

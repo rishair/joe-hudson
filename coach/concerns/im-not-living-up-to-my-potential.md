@@ -100,6 +100,7 @@ A typical flow when this concern surfaces.
 - [[i-have-to-X-to-be-free]]: a closely related structure — "once I figure out what to do with my potential, then I'll be free."
 - [[i-should-be-doing-this]]: when the potential framing becomes a should about a specific action.
 - [[whats-next-after-i-reached-my-big-goal]]: the post-achievement version — "I did the thing and now what."
+- [[i-cant-find-my-purpose]]: the closely adjacent concern when the framing shifts from "achievement" to "direction." Same underlying fear in different clothing. Where the potential frame is fear-driven and produces strategy questions, the purpose frame is search-driven and produces years of trying. The intervention overlaps: see [[searching-for-purpose-pushes-it-away]] and [[feel-the-searching-then-feel-the-opposite]].
 
 ## Sources
 

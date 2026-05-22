@@ -130,6 +130,9 @@ The instruction "look harder" is the wrong instruction. The instruction "look le
 - Toward [[faithing-faith-as-verb]] for the underlying stance
 - Toward [[gratitude-as-acknowledgment-of-greater-force]] for what the receiving opens onto
 - Toward [[no-finish-line]] for the parallel structure where future-locating an experience produces the experience of missing it
+- Toward [[searching-for-purpose-pushes-it-away]] for the parallel structure with purpose — the same searching-pushes-it-away mechanism applied to a years-long search for meaning
+- Toward [[searching-for-love-cuts-off-love]] for the parallel structure with love
+- Toward [[feel-the-searching-then-feel-the-opposite]] for the somatic move that demonstrates the searching/receiving distinction in any domain
 
 ## Tone
 

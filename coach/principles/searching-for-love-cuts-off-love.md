@@ -38,12 +38,26 @@ The principle has to be applied carefully because it can be misread as anti-self
 - "I have to find myself" → strategy to get self-love. Cuts off the self-love available now.
 - "I have to love myself more" → strategy to get self-love. Cuts off the self-love available now.
 - "I have to be awake" → strategy to get the experience that requires no strategy. Cuts off the experience.
+- "I have to find my purpose" → strategy to get a sense of meaning. Cuts off the meaning available now. See [[searching-for-purpose-pushes-it-away]].
 
 Brett added: "Even I have to find myself, or I have to love myself more."
 
 Joe agreed: "Yeah, exactly. I have to be awake, or whatever the fuck it is."
 
 The implication: the work itself can become a strategy that cuts off what the work is pointing at. See [[state-seeking]] and [[no-finish-line]] for related forms of the trap.
+
+## The Parallel Across Domains
+
+The same structural principle operates wherever a person tries to acquire something that lives in the receive-state:
+
+- **Love:** any strategy to get love cuts you off from love. (this article)
+- **Purpose:** searching for your thing pushes it away. See [[searching-for-purpose-pushes-it-away]].
+- **Gratitude:** searching for gratitude pushes it away. See [[always-something-spectacular-happening]].
+- **Listening:** trying to listen better is the anti-listen. See [[dont-make-listening-a-morality]].
+- **Spiritual states:** chasing states pushes the state away. See [[state-seeking]].
+- **A partner:** love arrives when you stop being scared of losing yourself. See [[love-arrives-when-youre-not-scared-of-losing-yourself]].
+
+The unifying principle: anything that lives in the receive-state cannot be acquired through the search-state. The search-state is what cuts off the thing being searched for. The exit is not a better search; it is dropping into the receive-state and noticing what is already available. The somatic move that demonstrates this in seconds is [[feel-the-searching-then-feel-the-opposite]].
 
 ## What This Is Not
 

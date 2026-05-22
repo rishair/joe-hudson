@@ -199,6 +199,9 @@ The third sense, often, is "oh — this is what I was supposed to be doing this 
 - Toward [[listening-to-impulse]]: the practical version of receiving applied to action.
 - Toward [[flow-vs-managing-reality]]: the moment-to-moment version of the same orientation.
 - Toward [[feeling-the-unfelt-emotion]]: the receiving move applied to emotion.
+- Toward [[searching-for-purpose-pushes-it-away]]: the receive vs trying distinction applied to the search for purpose.
+- Toward [[feel-the-searching-then-feel-the-opposite]]: the move that demonstrates the receive in the domain of years-long searches for intangibles.
+- Toward [[how-question-as-defense-against-having]]: the catch for when the receive is demonstrated and the person reflexively converts it back into a how-to question.
 
 ## Tone
 

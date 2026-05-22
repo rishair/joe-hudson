@@ -2,9 +2,9 @@
 type: concern
 id: i-cant-feel-my-emotions
 title: "I can't feel my emotions / 'How do you feel' doesn't compute"
-aliases: ["I can't feel my emotions", "I don't know what I'm feeling", "I struggle to feel my own emotions", "when people ask how do you feel I don't know what to say", "the phrase how do you feel does not even vaguely compute", "I don't know how I feel", "the how do you feel question is foreign to me", "I can't tell what emotion I'm having", "I'm not in touch with my feelings", "I don't really feel anything", "emotions don't show up for me", "I'm pretty disconnected from my emotions", "I can't access my feelings", "I'm not very emotional", "emotions are a foreign language", "I have tears in my eyes and don't know why", "my brother says I look like I'm about to cry and I don't feel anything", "I reverse-engineer what I must be feeling from external clues", "I don't have somatic awareness", "I'm head-dominant"]
-tags: ["emotions", "dissociation", "alexithymia", "body", "head-dominant", "achievement"]
-sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)", "2024-06-28_4 Ways To Feel Your Emotions"]
+aliases: ["I can't feel my emotions", "I don't know what I'm feeling", "I struggle to feel my own emotions", "when people ask how do you feel I don't know what to say", "the phrase how do you feel does not even vaguely compute", "I don't know how I feel", "the how do you feel question is foreign to me", "I can't tell what emotion I'm having", "I'm not in touch with my feelings", "I don't really feel anything", "emotions don't show up for me", "I'm pretty disconnected from my emotions", "I can't access my feelings", "I'm not very emotional", "emotions are a foreign language", "I have tears in my eyes and don't know why", "my brother says I look like I'm about to cry and I don't feel anything", "I reverse-engineer what I must be feeling from external clues", "I don't have somatic awareness", "I'm head-dominant", "I cannot label emotions", "I tried not to feel anything", "emotions are useless ineffective things", "I just have pressure in the chest and nothing else comes up", "I'm completely blank inside", "I have nothing inside", "all I have is my blank space", "I retreat to the quiet place on purpose", "I don't know what's happening internally", "I lost my parent young and shut down feeling"]
+tags: ["emotions", "dissociation", "alexithymia", "body", "head-dominant", "achievement", "compartmentalization", "childhood loss"]
+sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)", "2024-06-28_4 Ways To Feel Your Emotions", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)"]
 ---
 
 # I can't feel my emotions / 'How do you feel' doesn't compute
@@ -23,6 +23,11 @@ The defining feature is the explicit report that the question of how they are fe
 - "I have no sense of feeling in the body any different to what I was like 10 seconds ago."
 - "I can feel my eyes sort of screwing up a little bit, but I have no idea what's happening internally."
 - "I'd be cool with experiencing positive emotions, but love or sadness -- I'm not sure how I feel about those."
+- "I cannot label emotions. I don't know what's happening."
+- "I can find some sensations, but most of them are just pressure in the chest, and nothing else comes up."
+- "I'm very blank."
+- "All I have inside is my blank space."
+- "I retreat to it like often on purpose. It's the only place that I know of."
 
 The report is usually delivered with intellectual precision and zero defensiveness. The person knows this is a thing about them. They are usually curious about it rather than ashamed.
 
@@ -66,6 +71,12 @@ Two people can present this concern and Joe goes different directions based on w
 
 - If the person has a history of childhood circumstances where feelings were not welcomed: Joe will trace the inability to feel back to its origin, but without insisting the trace happens cognitively. The trace happens through the body. See [[trace-emotion-to-its-first-felt]] and [[childhood-imprinting]].
 
+- If the person describes an inner blank place they retreat to that has positive valence (quiet, peaceful, comforting): the read is [[the-blank-place-as-refuge]]. The inability to feel is not absence — it is a sophisticated survival structure built around early loss or trauma. The path differs from the head-dominant case. The work is to honor the refuge first, bring the body into it without leaving it, and reassure that the inevitable feeling will not destroy it. See [[tears-dont-disturb-the-refuge]] and [[find-whats-enjoyable-in-the-defense]].
+
+- If the person smiles while saying "I don't know" in response to a question about which emotion is most scary: the smile is the body identifying the emotion even though the verbal channel is producing the disclaimer. Joe names the smile ("I saw that smile, so I know something came to mind") and offers an easier door — often the sound of the emotion rather than the name. See [[the-smile-of-recognition]] (the smile-while-disclaiming variant) and [[give-me-the-sound-of-the-emotion]].
+
+- If the early loss involved a parent (death of mother or father young, abandonment, severe neglect): the compartmentalization has been in place for the entirety of the person's adult life and is likely organized around that specific origin. Joe will name the wisdom of the strategy ("you very wisely compartmentalized your emotions so that you could survive") before any movement is attempted. The honoring of the strategy is a prerequisite for any felt work. See [[honor-the-patterns-intent]].
+
 ## Coaching Path
 
 1. Mark the somatic repression. If the person's chin is up, name it. If the jaw is clamped, name it. The teaching is short: these are two of the primary ways humans block emotion from being felt. Adjusting these positions slightly often produces an immediate increase in somatic access. See [[chin-up-as-emotion-block]].
@@ -81,6 +92,32 @@ Two people can present this concern and Joe goes different directions based on w
 6. Install the minimum-viable feeling practice. The most powerful one is also the simplest: keep ten percent of your attention in your body as much as possible throughout the day. Everything else takes care of itself. The practice does not require a meditation cushion or a journal. It requires only the attentional shift. See [[staying-in-your-body]] and [[ten-percent-more-connected-experiment]].
 
 7. Offer the public-facing four-step framework if the person needs a packaged on-ramp. The four [[four-tactical-ways-to-feel-your-emotions]] are: recognize, breathe, feel in the body, express. The framework is built for the person who has never deliberately felt an emotion. It provides a sequence the body can be walked through. The detection cue Joe names for way 1 -- binary thinking as the signature of unfelt fear ([[binary-thinking-signals-fear]]) -- gives the head-dominant person an intellectually legible entry that does not require somatic access first.
+
+## Dialogue Example: The Sound of the Emotion When Naming Fails
+
+A different sub-pattern of this concern: a person whose blank is the inner state and who cannot produce a name for any emotion that comes up. Naming has hit the wall. The cognitive labeling apparatus was never built or has been offline since childhood. The intake sensation is "pressure in the chest" and nothing else.
+
+Joe's sequence in this case is to bypass naming entirely.
+
+- **Person:** "I cannot like label emotions. I don't know what's happening. Ever after like listening to your podcast, I can like find some sensations, but most of them are just like, you know, pressure in the chest or like a spoke through the chest, and nothing else comes up. I'm very blank."
+- **Joe:** "So what's the real question?"
+- **Person:** "I'm struggling, you know, to find pleasure in like what to do next or anything. Like everything I do is, you know, just because that's the right thing to do and not because I want to do this."
+- *(Joe deploys [[joy-as-matriarch]]: "joy is the matriarch of a family of emotions, and she won't come into a house where her children aren't welcome. And it sounds like you very, uh, very wisely compartmentalized your emotions so that you could survive a world without a mother." Note the wisdom-frame: see [[honor-the-patterns-intent]].)*
+- **Joe:** "So what's the emotion that you're scared to feel? If you were looking at the history of your life, what would be the emotion that's most scary to feel? That's there, you know it's there, but you're like, I can't, I'm not allowed to feel that. I saw that smile, so I know something came to mind."
+- **Person:** "Like I said, uh, I don't know, like it's been so long."
+- **Joe:** "Uh, I'm not going to ask you to feel it, I'm just going to ask you to name it. What's the — Let's try something different. Instead of naming it, give me the sound of the emotion that you aren't allowed to feel."
+
+*(Source: 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach))*
+
+The sequence shows the full chain of moves in this branch of the coaching path:
+1. Ask for the real question (see [[whats-the-real-question]]) — surface the actual concern beneath the contextual report
+2. Deploy [[joy-as-matriarch]] to name the structural mechanism
+3. Honor the strategy ("you very wisely compartmentalized")
+4. Notice the smile of recognition when asking about the scary emotion
+5. Reduce the ask: "I'm not going to ask you to feel it, I'm just going to ask you to name it"
+6. Further reduce the ask: "Instead of naming it, give me the sound" — see [[give-me-the-sound-of-the-emotion]]
+
+The reduction-of-ask pattern is critical when working with someone whose compartmentalization is severe and long-standing. Each rejection of an ask is met with a smaller, more accessible ask, until the wire that can carry the request is found.
 
 ## Dialogue Example: The Live Contrast Experiment
 
@@ -120,3 +157,4 @@ The mechanism: the body's signature for each emotion becomes detectable only whe
 - 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)
 - 2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)
 - 2024-06-28_4 Ways To Feel Your Emotions (the public-facing four-step framework Joe uses with this concern when the person needs a packaged on-ramp; the abused-child-and-the-quarter example that explains how the somatic shutoff installed in the first place; the binary-thinking detection cue as the entry point for the head-dominant person; positioning the framework as the seventh step in the coaching path for this concern)
+- 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach) — the early-childhood-loss variant of this concern (woman lost her mother at age 5 and compartmentalized emotion to survive); the coaching sequence that pairs naming-failure with the sound-of-the-emotion bypass; the read of the blank place as a positive refuge ("Swami") that has to be honored before any movement; the closing reassurance that tears do not destroy the refuge — they help the body

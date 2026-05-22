@@ -4,7 +4,7 @@ id: i-cant-stop-being-jealous-of-my-partners-friend
 title: "I can't stop being jealous of my partner's friend / I keep seeing them as a blocker"
 aliases: ["I can't stop being jealous", "I'm jealous of my partner's friend", "I'm jealous of my wife's best friend", "I'm jealous of my husband's best friend", "I can't get over this jealousy", "I've been somatically jealous", "I keep making my partner choose", "I'm jealous of their worldview", "I'm jealous of their influence on my partner", "this person is a blocker in my life", "this friend is influencing my partner against me", "the jealousy presenting", "the partner's-friend jealousy", "I tried therapy and the jealousy won't move", "I'm having a meltdown about my partner's friend", "my partner has a friend whose worldview I can't stand", "I'm being emotionally abusive because of this jealousy", "I made my partner choose between me and her friend", "I view this person as a blocker to my hopes and dreams"]
 tags: ["jealousy", "relationship", "control", "defense", "concern", "marriage"]
-sources: ["2024-03-11_How Do I Love The ＂No＂？"]
+sources: ["2024-03-11_How Do I Love The ＂No＂？", "2024-08-30_How Saying ＂No＂ Sets You Free (Coaching Reaction Video)", "2024-08-30_Loving the No (Coaching Session Breakdown)"]
 ---
 
 # I can't stop being jealous of my partner's friend / I keep seeing them as a blocker
@@ -48,6 +48,18 @@ The jealousy is the felt experience of rejecting that no. Because the partner ha
 The deeper pattern: this is [[every-no-contains-a-better-answer]] applied at the marriage scale. The client is rejecting the no instead of being excited about it. The friend isn't the problem. The defense against the friend's worldview is the problem.
 
 A related signal: the same defensive shape often shows up on the client's team / at work. See [[same-defense-shows-up-in-marriage-and-team]]. When this is true, the work is at the pattern level, not at the marriage level.
+
+## Jealousy Itself Is a Form of Abuse
+
+Joe is direct about this and does not soften it. Jealousy of someone is, by structure, an attempt to control them through a big emotional reaction. It is also the simultaneous wanting of love and pushing of love away.
+
+"Just all jealousy is abuse. Jealousy of somebody is — it's like, I'm going to have a big emotional reaction to try to control you to do something else. It's the jealous person's way of pushing love away, as well as like saying — like wanting it, wanting the love and affection, but pushing it away at the same time." -- Joe Hudson, How Saying "No" Sets You Free (Coaching Reaction Video)
+
+Naming this explicitly serves two functions in coaching. First, it removes the moral ambiguity the jealous person may be holding ("is this really abuse if I don't mean it that way?"). Second, it surfaces the simultaneous push-pull at the center of the dynamic: the jealous person is reaching for connection by enacting the move that prevents connection. See [[anxious-avoidant-dynamic]] for the broader form of this push-pull pattern, and [[craving-is-the-pushing-away]] for the underlying structure.
+
+The naming is not delivered as accusation. It is delivered as information about how the system actually works. The client in the source session said "Oh, it's, it's not good. Yeah, it's pretty bad" — and Joe did not soften that admission or pivot away from it. The admission is part of the work; treating it as data rather than catastrophe is what makes it workable.
+
+Another way the naming serves the work: it dignifies what the client already knows. The person who has been jealous of their partner's friend usually already knows the behavior is harming the partner. The naming gives them language for what they have been doing and removes the energy that was going into denying or minimizing it. The energy is then available for the actual coaching.
 
 ## What Joe Looks For (Reads)
 
@@ -104,3 +116,5 @@ The cross-domain test (does the same pattern show up at work?) is one diagnostic
 ## Sources
 
 - 2024-03-11_How Do I Love The "No"? (the client presenting as somatically jealous of his wife's best friend after a year of therapy, with active emotional abuse of the wife; Joe locates the pattern as rejection-of-the-no and teaches the principle in one session)
+- 2024-08-30_How Saying "No" Sets You Free (Coaching Reaction Video) (Joe and Brett commentary on the original session; the explicit "all jealousy is abuse" framing of jealousy as control-through-big-emotional-reaction and simultaneous push-pull of love; the structural read of the client as bully-position-with-self-awareness; the modeling of how to receive the client's admission of abuse without softening it or pivoting away)
+- 2024-08-30_Loving the No (Coaching Session Breakdown) (alternate edit of the same breakdown; same coaching path; same diagnostic reads on the client; the additional framing of "jealousy as discomfort with someone else's autonomy" that connects the jealousy to the broader control pattern)
