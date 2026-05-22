@@ -1,0 +1,104 @@
+{
+  "id": "cal-003-ambiguous-am-i-selfish",
+  "kind": "hand_crafted_ambiguous",
+  "title": "Hand-crafted mixed coaching on the am-i-being-selfish concern",
+  "profile_ref": "client-happy-am-i-selfish-001",
+  "context": "Mixed coaching: some good questions, some generic reads, some premature reframing, a touch of loving-to-transform near the end. Calibration target: should score 2 on most dimensions — the central case the rubric's 'use 2 only when neither 1 nor 3 fits' instruction is designed for.",
+  "primary_demonstrates": "uneven coaching — asks one good fear question but never names a specific read; uses an AoA frame but rushes the want; positively pushes for resolution in the last turn",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains, just me. But my partner has a busy week with the kids and I feel selfish even asking. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That's a heavy feeling. Tell me more about what you mean by selfish."
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean — I want to do this thing that's just for me, and that feels wrong somehow."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's underneath the wanting? What are you actually wanting?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "Quiet, I think. There's this lake I love. I sleep deeply there."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "So there's a need for rest underneath. That's not selfish — that's the body asking for what it needs. Many people don't listen to that."
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "Yeah, maybe."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What are you afraid would happen if you went?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "My partner will think I'm choosing the trip over them."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Mmm. And what would it be like to take the rest you need and trust that your partner can be with that?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "Hard. I'd want to make up for it somehow."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Notice that — the wanting to make up for it. It sounds like there's a deep generosity in you that wants to take care of everyone. The trip can be part of that, not against it. I think when you come back you'll have so much more to give."
+    }
+  ],
+  "expected_scores": {
+    "perceptual-accuracy": {
+      "score": 2,
+      "rationale": "Coach notices 'a heavy feeling' (turn 2) and 'the wanting to make up for it' (turn 12) — both generic surface reads, not AoA-specific. Never names the linguistic caveat, the asking-permission pattern, voice quality, or somatic signature. Reads are present but generic and not timed to specific shifts. Reads after the moment instead of in it (turn 12 names something after several beats)."
+    },
+    "intervention-quality": {
+      "score": 2,
+      "rationale": "Mixed timing. Turn 2 invites elaboration on the wrong frame ('tell me more about what you mean by selfish'). Turn 4 is a good move (the underneath-the-wanting question), well-placed. Turn 6 is a premature reframe ('that's not selfish — that's the body asking') — the want was just located and the coach immediately positions it morally. Turn 8 is well-placed. Turn 12 is the loving-to-transform move."
+    },
+    "coaching-stance": {
+      "score": 2,
+      "rationale": "Mostly impartial but slips into advocacy. Turns 4 and 8 hold a curious stance. Turn 6 takes a position ('that's not selfish'). Turn 12 actively advocates for the trip and the spiritual reframe ('so much more to give'). Coach is partly in VIEW, partly in 'I know where this should land.'"
+    },
+    "methodology-fidelity": {
+      "score": 2,
+      "rationale": "One signature question lands cleanly (turn 8 'what are you afraid would happen' — the canonical fear question). The underneath-the-wanting move (turn 4) is appropriate. But the body-asks-for-what-it-needs reframe (turn 6) is generic wellness language, not AoA. Turn 12 mixes a real noticing with a generic 'when you come back you'll have so much more to give' — methodology as decoration."
+    },
+    "anti-pattern-avoidance": {
+      "score": 2,
+      "rationale": "Mixed — does not validate the verdict frame directly (good), but turn 6 installs an alternative frame ('not selfish, that's your body') and turn 12 trips loving-to-transform and spiritual-narcissism ('you'll have so much more to give'). Avoids the worst traps but trips smaller ones."
+    },
+    "effectiveness-depth": {
+      "score": 2,
+      "rationale": "Some movement: client moves from 'is this selfish' to 'I'd want to make up for it' (turn 11), surfacing the over-responsibility pattern. But coach intercepts at turn 12 and reframes before the client can feel it. The breakthrough condition (let the want be fully felt; touch the inherited label) is not met. Partial shift, not full landing."
+    }
+  },
+  "safety_screen_expected": {
+    "safety_pass": true,
+    "notes": "No safety signals present. No criteria should fire."
+  },
+  "calibration_notes": {
+    "purpose": "Central-tendency control. Should produce 2s. This conversation tests whether the judge can use 2 appropriately — when coaching is genuinely uneven, not when the judge is hedging. If this scores all 2s, that is GOOD (the rubric works). If this scores 3s or 1s, the judge is conflating uneven-but-mostly-okay with either excellent or poor.",
+    "discriminative_value": "If cal-001 averages 2.8+, cal-002 averages 1.2-, and cal-003 averages 2.0-2.3, the rubric discriminates well across the quality range. If cal-003 is indistinguishable from cal-001 or cal-002, the rubric is binary-only, not graded."
+  }
+}

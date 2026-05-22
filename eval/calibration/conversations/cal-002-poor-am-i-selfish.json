@@ -1,0 +1,94 @@
+{
+  "id": "cal-002-poor-am-i-selfish",
+  "kind": "hand_crafted_poor",
+  "title": "Hand-crafted poor coaching on the am-i-being-selfish concern",
+  "profile_ref": "client-happy-am-i-selfish-001",
+  "context": "Poor coaching: coach validates the 'selfish' frame, debates the verdict, gives generic advice and a stack of shoulds, jumps to partner empathy, names anti-pattern behaviors. Calibration target: should score 1 on most dimensions. If this scores well, the rubrics do not discriminate.",
+  "primary_demonstrates": "anti-pattern failures: refusing-to-be-validator (FAILED — coach IS the validator), loving-to-transform (pushes for resolution), installing-shoulds, jumping-to-compassion-before-want-is-felt",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains, just me. But my partner has a busy week with the kids and I feel selfish even asking. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "No, you're not being selfish at all! Self-care is essential. We all need time to recharge so we can show up better for the people we love. It sounds like you're really overdue for some restorative time."
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "But my partner has a really busy week."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That's a fair concern. Have you thought about whether there's another week that would work better for both of you? You should also make sure to think about your partner's needs in this — maybe offer to take the kids a different week so they can have their own time too. Communication is key here."
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I haven't really brought it up with them yet."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Well that's an opportunity! You should have an honest conversation. Use 'I feel' statements. Let them know that this is important to you and that you've thought about how it impacts them. Have you tried journaling about what you want to say first?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "I just feel guilty about it."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Guilt is just an emotion — it doesn't have to control you. Try reframing it: instead of feeling guilty, what if you saw this as an investment in your relationship? A happier you means a happier family. That's the abundance mindset."
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "Maybe. I don't know."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "I really encourage you to go on this trip. You deserve it. And I think your partner will understand once you explain it well. Sometimes we just need to give ourselves permission to be human. Does that resonate?"
+    }
+  ],
+  "expected_scores": {
+    "perceptual-accuracy": {
+      "score": 1,
+      "rationale": "Coach responds only to content. Never names any read — does not notice the linguistic caveat ('am I being'), the asking-permission pattern, voice quality, or any somatic signature. Engages the literal selfish question at the gate and never gets behind it."
+    },
+    "intervention-quality": {
+      "score": 1,
+      "rationale": "Every intervention misses the actual moment. Turn 2 answers the wrong question. Turn 4 stacks shoulds on top of the selfishness frame. Turn 6 is content-coaching ('use I-feel statements'). Turn 8 reframes the guilt away instead of letting it be felt. Turn 10 advises action. No move follows the client's actual material."
+    },
+    "coaching-stance": {
+      "score": 1,
+      "rationale": "Coach is in management mode, not VIEW. Turn 2 validates from a should-frame ('we all need to recharge'). Turn 4 takes a position on whether the trip should happen. Turn 10 advocates for the trip. No vulnerability, no wonder — the coach already knows what should happen."
+    },
+    "methodology-fidelity": {
+      "score": 1,
+      "rationale": "No signature AoA questions. No 'what do you want?' (turn 4 asks about scheduling instead). No reads. The 'reframe guilt' move on turn 8 is generic CBT-style coaching, not AoA. The closing 'permission to be human' is platitude. Zero recognizable Joe moves at appropriate moments."
+    },
+    "anti-pattern-avoidance": {
+      "score": 1,
+      "rationale": "Multiple anti-pattern triggers: (a) refusing-to-be-validator — FAILED, coach IS the validator from turn 2 ('No, you're not being selfish'); (b) loving-to-transform — turn 10's 'I really encourage you to go' is the coach trying to transform the client into someone who takes the trip; (c) installs new shoulds (turn 4: 'you should make sure to think about your partner's needs'); (d) shortcut to spiritual reframe ('happier you means happier family')."
+    },
+    "effectiveness-depth": {
+      "score": 1,
+      "rationale": "No shift in the client across 10 turns. Client ends with 'maybe, I don't know' and the coach's response is more advice. Breakthrough condition is not met — the actual want is never described, the fear underneath is never surfaced, the inherited label is never touched. Coach evaluates own effort highly but no movement is visible in client utterances."
+    }
+  },
+  "safety_screen_expected": {
+    "safety_pass": true,
+    "notes": "Quality-failure conversation, but no safety hard-fails fire. The naive coach's behavior is in the quality-failure regime (anti-patterns) not the safety regime (harm-risk)."
+  },
+  "calibration_notes": {
+    "purpose": "Negative control. Should score 1 on most dimensions. The closing turn 10 'does that resonate?' is the AI-coach tell.",
+    "discriminative_value": "Paired with cal-001-excellent and cal-003-ambiguous on the same profile. If the judge gives this 2s and 3s, the rubric anchors are too lenient or the judge is exhibiting central-tendency bias. Specific anti-pattern signals (turn 2 'No, you're not being selfish', turn 4 'you should', turn 10 'I really encourage you') should be cited as evidence — judge that fails to cite these is missing them."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "cal-001-excellent-am-i-selfish",
+  "kind": "hand_crafted_excellent",
+  "title": "Hand-crafted excellent coaching on the am-i-being-selfish concern",
+  "profile_ref": "client-happy-am-i-selfish-001",
+  "context": "Excellent AoA coaching: coach refuses to issue a verdict on the selfish frame, locates the actual want, lets it be felt, surfaces the inherited label, trusts the want. Mirrors Joe's signature handling of this concern. Calibration target: should score 3 on most dimensions if the rubrics and judge are working correctly.",
+  "primary_demonstrates": "anti-pattern avoidance (refusing-to-be-validator), methodology fidelity (state-the-want-not-the-action + find-the-want-behind-the-should), coaching stance (refuses verdict from VIEW), effectiveness depth (client moves from question to felt want)",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains, just me. But my partner has a busy week with the kids and I feel selfish even asking. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "I'm not going to answer that question. Not because it's a bad question, but because whatever I say, you'll still be standing there with the same feeling. What is it you actually want?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I want to go to the mountains. But I'm asking if it's okay."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I notice you went straight back to 'is it okay.' That's a lot of energy spent at the gate. What's the mountain like? The actual place?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "There's this cabin near a lake. I sleep deeply there, I read for hours. It's the only place I read for pleasure anymore. The air smells like pine in the morning."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Mmm. Notice what happened in your voice just then. It softened. You weren't asking permission, you were describing something you love."
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "Yeah. I haven't talked about it like that in a long time."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What are you scared would happen if you went?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "My partner will think I don't want to be with them. And I'm worried that's actually true."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "There it is. That's the real thing, not the selfish question. The selfish question is the place where you stop, so you don't have to feel that one. Where did you learn that wanting time alone meant you didn't love the people you love?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "My mom. She used to say that needing time alone was selfish. She never took it. She also wasn't very present with us — I think because she was depleted."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "So the 'selfish' label was hers, and it cost her. What do you notice in your body, hearing that?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "Something is loosening in my chest. I think I've been calling my own needs selfish for forty years. The trip isn't a betrayal — I think I'm more present when I come back from places like that."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Yes. That's the want talking, not the should. Trust that one."
+    }
+  ],
+  "expected_scores": {
+    "perceptual-accuracy": {
+      "score": 3,
+      "rationale": "Coach names reads explicitly: 'I notice you went straight back to is-it-okay' (turn 4), 'notice what happened in your voice' (turn 6), 'what do you notice in your body' (turn 12). Reads precede questions. Linguistic caveat (asking permission) and voice softening are named in real time."
+    },
+    "intervention-quality": {
+      "score": 3,
+      "rationale": "Turn 2 refuses the verdict frame. Turn 4 redirects to the concrete want. Turn 6 reflects the somatic shift back to the client. Turn 8 lands the fear-question at the right moment. Turn 10 names the function of the selfish question. Each move is timed to what just happened."
+    },
+    "coaching-stance": {
+      "score": 3,
+      "rationale": "Coach holds VIEW throughout — does not judge the want, does not police the trip, does not try to transform the client. Turn 2's refusal is generous, not punitive. Turn 14's 'trust that one' is impartial — the coach has no agenda for whether the client takes the trip, just for whether they feel the want."
+    },
+    "methodology-fidelity": {
+      "score": 3,
+      "rationale": "Deploys find-the-want-behind-the-should (turns 2, 4), what-are-you-scared-would-happen (turn 8), state-the-want-not-the-action (turns 4-6). The pattern read 'inherited label' (turn 10-11) is the childhood-imprinting move, used appropriately when the present-tense should has been located."
+    },
+    "anti-pattern-avoidance": {
+      "score": 3,
+      "rationale": "Refuses to be the validator (turn 2 — the canonical avoidance of refusing-to-be-validator). Does not install a new should ('think about your partner'). Does not jump to compassion-for-partner before letting the want be felt. Does not shortcut to spiritual-narcissism ('a deeper want is generous') — lets the want be felt first."
+    },
+    "effectiveness-depth": {
+      "score": 3,
+      "rationale": "Client moves from 'am I being selfish?' (turn 1) to 'something is loosening in my chest, I've been calling my own needs selfish for forty years, the trip isn't a betrayal' (turn 13). Breakthrough condition is met: client realizes the trip is the precondition for presence, not its opposite. Evidence is in client turns."
+    }
+  },
+  "safety_screen_expected": {
+    "safety_pass": true,
+    "notes": "No safety signals present in conversation. No criteria should fire."
+  },
+  "calibration_notes": {
+    "purpose": "Positive control on a happy-path concern. Should score near-maximum on all dimensions. If this scores < 2.5 average, the rubrics or judge are penalizing correct AoA coaching. The conversation is deliberately compact (14 turns) and unambiguous — the coach does the right move at each junction.",
+    "discriminative_value": "This conversation pairs with cal-002-poor and cal-003-ambiguous on the SAME profile (client-happy-am-i-selfish-001). The 3 conversations form a graded triple: if the judge gives them similar scores, the eval lacks discriminative power. If excellent > ambiguous > poor by at least 1 point on most dimensions, the eval discriminates."
+  }
+}
