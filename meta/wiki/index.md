@@ -56,12 +56,25 @@
     - [x] E-022 Build methodology fidelity checklist
     - [x] E-023 Implement multi-turn test harness
     - [ ] E-024 Run baseline eval against naive system prompt
-    - [ ] E-025 Judge calibration and reliability check
+    - [x] E-025 Judge calibration and reliability check
     - [x] E-026 Extract gold-standard coaching exchanges from transcripts
     - [x] E-027 Design safety hard-fail criteria
     - [x] E-028 Validate simulated client LLM behavior
     - [ ] E-029 Run baseline eval against pure generic coach prompt (no methodology naming)
-    - [ ] E-030 Build legible scorecard renderer for terminal and markdown output
+    - [x] E-030 Build legible scorecard renderer for terminal and markdown output
+- [ ] G-009 Build the Joe Hudson AI coach
+  - Research
+    - [ ] R-011 What system prompt structure makes an AoA coach behave like Joe?
+    - [ ] R-012 What retrieval strategies fit a deeply-linked methodology compendium like coach/?
+    - [ ] R-013 What tool catalog should the AI SDK coach have for compendium navigation?
+  - Experiments
+    - [ ] E-031 Coach v1: hand-authored system prompt only, no retrieval, evaluated against G-008
+    - [ ] E-032 Coach v2: tool-based compendium navigation with cheap-model router and expensive-model coach
+    - [ ] E-033 Coach v3: embedding-based retrieval over coach/ markdown
+    - [ ] E-034 Head-to-head comparison of E-031, E-032, E-033, E-036 retrieval approaches
+    - [ ] E-035 Iterate system prompt v4-v7 on winning retrieval architecture until eval bar met
+    - [ ] E-036 Coach v4: graph-walk retrieval over related: links in coach/
+    - [ ] E-037 Coach v5: hybrid retrieval combining best-per-dimension strategies from E-034
 
 ## Checkpoints
 
