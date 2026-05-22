@@ -4,7 +4,7 @@ id: sleep-deprived-soldier
 title: "The Sleep-Deprived Soldier Study"
 aliases: ["Army boot camp study", "sleep-deprived test", "the illusion of efficiency study", "U.S. Army efficiency study"]
 tags: ["example", "efficiency", "illusion", "research", "Army"]
-related: ["efficiency-as-enjoyment", "enjoy-over-manage", "art-of-accomplishment"]
+related: ["efficiency-as-enjoyment", "enjoy-over-manage", "art-of-accomplishment", "overwhelm-reduces-productivity", "overwhelm"]
 sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
 ---
 

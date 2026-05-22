@@ -5,7 +5,7 @@ title: "Momentum and Margin Allow Dysfunction to Persist for Years"
 aliases: ["momentum hides dysfunction", "company momentum and dysfunction", "why dysfunctional companies survive", "tailwinds mask dysfunction", "Fortune 500 dysfunction lag", "blue ocean tolerates dysfunction", "why bad results take years to show up", "low margin requires functionality"]
 tags: ["teams", "leadership", "organizations", "concept", "business", "diagnostics", "dysfunction"]
 related: ["dysfunction-as-spectrum", "functional-team", "signs-of-a-dysfunctional-leader", "signs-of-a-dysfunctional-team"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Momentum and Margin Allow Dysfunction to Persist for Years
@@ -93,3 +93,4 @@ Joe delivers this as analysis. No alarm, no moralism. The concept is a piece of 
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

@@ -5,7 +5,7 @@ title: "Fear vs. Anxiety"
 aliases: ["fear is specific anxiety is general", "specific fear vs generalized anxiety", "fear has a target anxiety doesn't", "anxiety differentiates into fears", "the difference between fear and anxiety", "fear and anxiety are not the same"]
 tags: ["fear", "anxiety", "differentiation", "diagnostics", "emotion", "needs"]
 related: ["disassociation-as-numbness-layer", "fear-as-signal-of-care", "fear-vs-excitement", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "three-signals-of-unfelt-emotion", "anxiety-three-definitions", "anxiety-as-constricted-life-force", "identity-extension-expands-fear"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Brett Kistler On Welcoming Fear"]
 ---
 
 # Fear vs. Anxiety
@@ -93,3 +93,5 @@ See [[feeling-the-unfelt-emotion]] for the broader practice.
 ## Sources
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)

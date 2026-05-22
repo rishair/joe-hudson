@@ -5,7 +5,7 @@ title: "Anxiety as an Unarticulated Need or Boundary"
 aliases: ["anxiety means unarticulated need", "anxiety means boundary not set", "the anxiety diagnostic", "anxiety as need signal", "when I feel anxiety I haven't asked for something", "anxiety decoding practice", "name the need under the anxiety"]
 tags: ["anxiety", "needs", "boundaries", "diagnostic", "practice", "leadership"]
 related: ["fear-as-signal-of-care", "fear-vs-anxiety", "welcoming-fear-in-leadership", "vulnerability", "whats-the-scary-truth", "caring-vs-caretaking", "im-not-an-anxious-person", "anxiety-three-definitions", "anxiety-as-constricted-life-force", "what-we-fear-we-invite", "love-the-anxiety-not-just-with-it"]
-sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # Anxiety as an Unarticulated Need or Boundary
@@ -133,3 +133,6 @@ Matter-of-fact. The practice is not solemn. It is a diagnostic, like checking a 
 ## Sources
 
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast of the 2022-01-21 episode)

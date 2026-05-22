@@ -5,7 +5,7 @@ title: "Trust vs. Safety"
 aliases: ["trust versus safety", "safety as control vs trust", "safety vs trust", "why Joe steers away from safety", "trust over safety", "the safety word problem", "safety as manipulation"]
 tags: ["trust", "safety", "teams", "leadership", "manipulation", "boundaries"]
 related: ["trust-as-multifaceted", "functional-team", "safety-vs-defensiveness", "vulnerability-as-control", "dont-use-safety-as-control", "friction-is-required-for-life", "conditions-for-transformation"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Trust vs. Safety
@@ -98,3 +98,4 @@ Joe is measured here. He acknowledges safety is real and important. He is making
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

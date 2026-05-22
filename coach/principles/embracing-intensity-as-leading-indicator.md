@@ -5,7 +5,7 @@ title: "Willingness to Embrace Intensity Is the Leading Indicator of Transformat
 aliases: ["embrace intensity as leading indicator", "leading indicator of transformation", "predicting transformation", "how to measure transformation", "transformation predictor", "willingness to feel as predictor"]
 tags: ["transformation", "measurement", "leading indicator", "principle"]
 related: ["embrace-intensity", "feeling-the-unfelt-emotion", "epiphany-vs-transformation", "embrace-vs-brace", "are-you-bracing-or-embracing", "public-truth-bomb"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions"]
 ---
 
 # Willingness to Embrace Intensity Is the Leading Indicator of Transformation
@@ -107,3 +107,4 @@ Joe delivers this principle as something he discovered through years of watching
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)

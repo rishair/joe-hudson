@@ -5,7 +5,7 @@ title: "Disassociation as the Numbness Layer Before Fear"
 aliases: ["dissociation before fear", "the numbness layer", "feel the numbness first", "shutdown before anxiety", "the body shuts down anxiety", "numbness as gateway", "dissociation as protection", "patterned numbness", "tightrope without a net", "no somatic feeling"]
 tags: ["dissociation", "numbness", "fear", "anxiety", "body", "trauma", "patterns"]
 related: ["fear-as-signal-of-care", "fear-vs-anxiety", "feeling-the-unfelt-emotion", "defense", "im-not-an-anxious-person", "staying-in-your-body"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear"]
 ---
 
 # Disassociation as the Numbness Layer Before Fear
@@ -122,3 +122,5 @@ See [[staying-in-your-body]] for the broader practice of using the body as the l
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
+- 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)

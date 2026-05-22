@@ -4,7 +4,7 @@ id: what-would-happen-if-you-stopped
 title: "What would happen if you stopped doing the caretaking thing?"
 aliases: ["what if you just walked out every time", "the consequence inversion question", "what if you stopped tomorrow", "how long would it last if you stopped", "what would happen if you stopped paying for it"]
 tags: ["caretaking", "questions", "consequences", "inversion", "addiction"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # What would happen if you stopped doing the caretaking thing?
@@ -99,3 +99,4 @@ The tone is not contemptuous. It is the tone of someone who genuinely believes t
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

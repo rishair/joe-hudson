@@ -4,8 +4,8 @@ id: signs-of-a-dysfunctional-team
 title: "Signs of a Dysfunctional Team"
 aliases: ["dysfunctional team checklist", "team dysfunction signs", "what to look for in a struggling team", "team-level dysfunction patterns", "what Joe looks for when assessing a team", "team red flags", "talking without listening", "uneven participation", "rabbit holes in meetings", "unclear roles", "context switching", "needing to be right", "team prefers talk to action"]
 tags: ["teams", "diagnostics", "pattern", "organizations", "meetings", "dysfunction"]
-related: ["signs-of-a-dysfunctional-leader", "functional-team", "team-feels-oppressed-not-accountable", "needing-to-be-right-in-teams", "dysfunction-as-spectrum", "five-star-meeting-commitment", "politics-from-unclear-standards"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+related: ["signs-of-a-dysfunctional-leader", "functional-team", "team-feels-oppressed-not-accountable", "needing-to-be-right-in-teams", "dysfunction-as-spectrum", "five-star-meeting-commitment", "politics-from-unclear-standards", "trust-as-foundation-of-team-dysfunction"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Signs of a Dysfunctional Team
@@ -115,3 +115,4 @@ Joe runs through these signs as a working list, not a manifesto. The diagnostic 
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

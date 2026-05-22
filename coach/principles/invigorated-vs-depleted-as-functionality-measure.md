@@ -5,7 +5,7 @@ title: "Invigorated vs. Depleted at the End of a Meeting Is the Functionality Me
 aliases: ["invigorated vs depleted", "the meeting-end diagnostic", "do you feel invigorated or depleted after the meeting", "the best way to measure team dysfunction", "end-of-meeting energy as diagnostic", "depleted means dysfunction", "invigorated means function", "meeting energy diagnostic", "the post-meeting gut check"]
 tags: ["teams", "leadership", "meetings", "measurement", "diagnostics", "principle", "functionality"]
 related: ["functional-team", "dysfunction-as-spectrum", "five-star-meeting-commitment", "efficiency-as-enjoyment", "enjoyment-as-path"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Invigorated vs. Depleted at the End of a Meeting Is the Functionality Measure
@@ -69,3 +69,4 @@ Joe delivers this with the directness of someone naming the obvious that the lis
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

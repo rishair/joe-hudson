@@ -4,8 +4,8 @@ id: trust-as-multifaceted
 title: "Trust Is Multifaceted"
 aliases: ["trust has many dimensions", "trust is not one thing", "kinds of trust", "multifaceted trust", "trust as multiple things", "different forms of trust", "trust of self has dimensions too", "self-trust is multifaceted", "trusting myself dimensions"]
 tags: ["trust", "teams", "relationships", "leadership", "vulnerability", "self-trust"]
-related: ["functional-team", "trust-vs-safety", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "vulnerability", "leaders-wants-are-the-organizations-wants", "how-do-i-trust-myself", "if-you-think-youre-deciding-youre-in-fear"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+related: ["functional-team", "trust-vs-safety", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "vulnerability", "leaders-wants-are-the-organizations-wants", "how-do-i-trust-myself", "if-you-think-youre-deciding-youre-in-fear", "trust-as-foundation-of-team-dysfunction"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Building A Functional Team"]
 ---
 
 # Trust Is Multifaceted
@@ -129,3 +129,4 @@ A deeper pattern: the trust collapse is actually fear-of-outcome dressed as a tr
 
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_Building A Functional Team

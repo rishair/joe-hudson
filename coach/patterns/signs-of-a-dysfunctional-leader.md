@@ -5,7 +5,7 @@ title: "Signs of a Dysfunctional Leader"
 aliases: ["leader dysfunction signs", "dysfunctional leader checklist", "signs the leader is the problem", "leader-level dysfunction", "what a dysfunctional leader looks like", "what to look for in a struggling leader", "leader red flags", "indecisive leader", "political leader", "conflict-avoidant leader", "defensive leader", "leader who doesn't lead or follow"]
 tags: ["leadership", "teams", "diagnostics", "pattern", "organizations", "dysfunction"]
 related: ["functional-team", "dysfunction-as-spectrum", "conflict-avoidance-prevents-healing", "lead-and-follow", "coach-defensive-behavior-out-of-the-meeting", "politics-from-unclear-standards", "signs-of-a-dysfunctional-team"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Signs of a Dysfunctional Leader
@@ -100,3 +100,4 @@ Joe runs through this list with the matter-of-factness of a checklist. There is 
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

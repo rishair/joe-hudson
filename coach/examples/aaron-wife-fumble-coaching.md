@@ -5,7 +5,7 @@ title: "Aaron's Wife and the Fumble Coaching (First NFL Broadcast)"
 aliases: ["Aaron Taylor's wife fumble coaching", "the squeeze it so tightly story", "the first NFL game story", "the felt-aftermath visualization origin story", "Aaron's wife's coaching move", "the night-before-the-broadcast story", "the Olympic volleyball spouse story"]
 tags: ["example", "performance-anxiety", "visualization", "fear", "presence", "preparation"]
 related: ["visualize-the-felt-aftermath", "fear-is-about-feeling", "embrace-vs-brace", "embracing-vs-creating-intensity", "fear-vs-excitement"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Aaron's Wife and the Fumble Coaching (First NFL Broadcast)
@@ -101,3 +101,4 @@ These elements describe an effective coaching move regardless of whether the coa
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

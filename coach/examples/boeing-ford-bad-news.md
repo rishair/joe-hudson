@@ -5,7 +5,7 @@ title: "The Boeing-to-Ford CEO Who Promoted the Bad-News Bringer"
 aliases: ["the Ford bad news CEO story", "Boeing to Ford CEO", "Alan Mulally story", "the CEO who waited for bad news", "promoting the bad news bringer", "the COO appointment story"]
 tags: ["leadership", "truth", "organizations", "culture", "courage", "example"]
 related: ["trust-as-multifaceted", "conflict-avoidance-prevents-healing", "no-doctrine-leadership", "vulnerability-in-the-workplace", "team-as-scientific-method"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # The Boeing-to-Ford CEO Who Promoted the Bad-News Bringer
@@ -64,3 +64,4 @@ Joe delivers this as illustrative. The story is short. The point is sharp. The e
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

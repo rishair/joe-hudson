@@ -4,8 +4,8 @@ id: cia-sabotage-manual
 title: "The CIA Sabotage Manual (Decisions By Board of Six)"
 aliases: ["CIA document on destroying organizations", "OSS Simple Sabotage Field Manual", "board-controlled decisions sabotage", "the CIA dysfunction manual", "decisions by committee sabotage", "six-person consensus sabotage"]
 tags: ["organizations", "decision-making", "dysfunction", "design", "sabotage", "example"]
-related: ["team-as-scientific-method", "structure-and-empowerment", "politics-from-unclear-standards", "sublimated-wants-become-politics"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+related: ["team-as-scientific-method", "structure-and-empowerment", "politics-from-unclear-standards", "sublimated-wants-become-politics", "aristotle-project"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # The CIA Sabotage Manual (Decisions By Board of Six)
@@ -45,7 +45,7 @@ The example provides external validation for the discomfort the leader may feel 
 
 The example does not argue against inclusion in decisions. It argues against a specific failure mode of inclusion: requiring consensus among many for decisions that should be made by fewer.
 
-The Aristotle Project at Google (which Joe references in the same conversation) found that teams in which everyone expressed themselves outperformed teams in which they did not. That finding and the CIA manual are not in contradiction. The first is about voices being heard in the work. The second is about decision authority. The first should be high; the second is best held by fewer people who are accountable for the outcome.
+The [[aristotle-project]] at Google (which Joe references in the same conversation) found that teams in which everyone expressed themselves outperformed teams in which they did not. That finding and the CIA manual are not in contradiction. The first is about voices being heard in the work. The second is about decision authority. The first should be high; the second is best held by fewer people who are accountable for the outcome.
 
 A high-performing team has wide input and narrow decision authority. The CIA manual sabotages the second. The Aristotle Project commends the first. The functional team has both.
 
@@ -56,3 +56,4 @@ The example is delivered with mild humor by Brett. Joe agrees, then uses it to m
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

@@ -5,7 +5,7 @@ title: "Development as Corkscrew"
 aliases: ["corkscrew development", "spiral development", "same issues different level", "I thought I dealt with my dad issues", "before awakening after awakening", "subtle till you see it"]
 tags: ["development", "patterns", "transformation"]
 related: ["pendulation", "late-stage-reversion", "three-stages-of-integration", "embrace-intensity", "caring-vs-caretaking", "weaponized-not-caretaking"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Development as Corkscrew
@@ -59,3 +59,5 @@ The three systems (intellectual, emotional, somatic) limit each other. Like thre
 ## Sources
 
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
+- 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

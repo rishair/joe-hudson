@@ -5,7 +5,7 @@ title: "Adversity Is For You, Not Against You (The Wheelbarrow Falls)"
 aliases: ["adversity is for you", "God doesn't do things to us he does them for us", "what you wanted would have hurt you", "the protection in not getting what you wanted", "thank God for unanswered prayers", "the wheelbarrow falls and refines", "loss as refinement", "the painful protection", "I was protected by not getting it", "the disaster that becomes a gift"]
 tags: ["principle", "adversity", "faith", "loss", "reframe", "transformation", "identity"]
 related: ["annihilation-reveals-what-is-real", "honor-the-patterns-intent", "heartbreak-as-capacity-expansion", "fault-vs-responsibility", "improvement-vs-authenticity", "fear-as-signal-of-care"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Adversity Is For You, Not Against You (The Wheelbarrow Falls)
@@ -125,3 +125,4 @@ The honest tone is: this is a possibility, not a verdict. It is offered for the 
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

@@ -5,7 +5,7 @@ title: "The Idea of Self vs. The Actual Self"
 aliases: ["narcissists fall in love with the idea of themselves", "the idea of myself", "self-image vs actual self", "the idea of you meeting the actual you", "the blind date with yourself", "in love with the persona", "image-self vs real self", "the constructed self vs the actual self", "the loved idea vs the actual person"]
 tags: ["concept", "self", "authenticity", "narcissism", "self-image", "identity", "ego"]
 related: ["identity", "annihilation-reveals-what-is-real", "improvement-vs-authenticity", "self-realization", "what-am-i", "identity-extension-expands-fear", "inherent-goodness", "vulnerability", "every-identity-has-limits", "transparent-identity-vs-rigid"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-09-16_Seeing Identity for What It Is"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # The Idea of Self vs. The Actual Self
@@ -127,3 +127,4 @@ Joe receives this distinction with appreciation rather than authoring it. The fr
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the 2022-08-05 conversation)

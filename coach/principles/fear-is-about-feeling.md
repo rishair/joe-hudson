@@ -4,8 +4,8 @@ id: fear-is-about-feeling
 title: "Fear Is About What You'll Have to Feel"
 aliases: ["fear is about feeling", "fear of feeling", "the fear is in the emotion", "visualize the feared outcome", "feel the fear in advance"]
 tags: ["fear", "emotion", "impartiality", "Stoic", "visualization", "helplessness"]
-related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in", "helplessness-is-the-gateway", "feared-consequences-rarely-happen", "fear-as-signal-of-care", "fear-vs-anxiety", "disassociation-as-numbness-layer"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in", "helplessness-is-the-gateway", "feared-consequences-rarely-happen", "fear-as-signal-of-care", "fear-vs-anxiety", "disassociation-as-numbness-layer", "overwhelm", "visualizing-feared-outcomes"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-26_Brett Kistler On Welcoming Fear"]
 ---
 
 # Fear Is About What You'll Have to Feel
@@ -53,6 +53,16 @@ Fear of outcomes is what makes [[impartiality]] hard. The person gripping a conv
 
 "The one that's most commonly not seen is what's the feeling I'm resisting? What's the thing I don't wanna feel? And go and feel it." -- Joe Hudson, If You Can't Love the Feeling, Love the Resistance
 
+## Overwhelm's False End
+
+The same principle operates inside [[overwhelm]]. Overwhelm has a false end the way fear does. The person is overwhelmed because they are scared of the emotional result of something not getting done. "If I don't finish this, my boss will be mad." That is the false end. The work is the same: feel through the boss being mad. Grieve the result. Allow yourself to live in the reality of the feared outcome until you know you can survive it.
+
+What is found at the end of that work is usually not just the boss. The "my boss will be mad" is the surface. Underneath is "my mom or dad got mad at me." Underneath that is "the critical parent who wanted me to be productive to be loved." The chain runs back. Feeling through the false end gives access to the whole chain.
+
+"Usually when there's overwhelm, there's a false end, just like in fear there's a false end, and you're scared of the emotional result of that false end. So, oh my God, if I don't get this job done, my boss is going to be mad at me. Feel through, grieve, allow yourself to have the full emotional process of having your boss mad at you. Live in that reality, feel all that experience, allow it to move through you so that you know you can survive it and you're not scared of it anymore." -- Joe Hudson, What Can I Do About Overwhelm?
+
+For people who find "what am I scared of feeling?" hard, the easier question is: "what am I scared of happening, and what would I have to feel if that happened?" The outcome is easier to identify than the emotion. Once the outcome is named, the emotion can be approached through it.
+
 ## Helplessness as the Substrate Feeling
 
 In many situations, the feeling the person is avoiding is helplessness. The fear of losing a job, a relationship, a status is often fear of the helplessness that would arrive in the wake of that loss. Underneath the helplessness is usually a story of shame or blame; underneath that story, the helplessness itself.
@@ -92,3 +102,5 @@ This connects to [[apply-view-to-fear]]. VIEW is the state of mind that allows t
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
+- 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)

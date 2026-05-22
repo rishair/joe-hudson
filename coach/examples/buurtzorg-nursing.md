@@ -5,7 +5,7 @@ title: "The Buurtzorg Nursing Company"
 aliases: ["Buurtzorg", "Hertzog nursing", "the Dutch nursing company", "Reinventing Organizations nursing example", "self-reliance nursing", "nursing efficiency story"]
 tags: ["business", "authenticity", "efficiency", "altruism", "organizational design"]
 related: ["improvement-vs-authenticity", "authenticity-in-business", "efficiency-as-enjoyment", "nature-improves-itself", "structure-and-empowerment"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # The Buurtzorg Nursing Company
@@ -88,3 +88,4 @@ Joe tells this with the casualness of someone citing a book they read. He is bad
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

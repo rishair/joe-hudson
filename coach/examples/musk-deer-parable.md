@@ -5,7 +5,7 @@ title: "The Musk Deer Parable"
 aliases: ["musk deer", "the deer chasing the scent", "the deer parable", "scent comes from me", "musk deer story", "the deer who chased its own scent"]
 tags: ["self-realization", "parable", "self-improvement", "non-dual", "search"]
 related: ["self-realization", "improvement-vs-authenticity", "state-seeking", "what-am-i"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # The Musk Deer Parable
@@ -69,3 +69,4 @@ Joe tells this parable plainly, almost casually. There is no theatrical mystique
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

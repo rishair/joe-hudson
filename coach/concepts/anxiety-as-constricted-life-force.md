@@ -5,7 +5,7 @@ title: "Anxiety as Constricted Life Force"
 aliases: ["anxiety is life force constricted", "anxiety as energy clamped down", "the constriction of life force", "anxiety is just energy", "life force constriction", "anxiety is your battery"]
 tags: ["anxiety", "life force", "nervous system", "energy", "vitality"]
 related: ["anxiety-three-definitions", "kinked-emotions", "embrace-vs-brace", "love-the-anxiety-not-just-with-it", "feeling-the-unfelt-emotion", "joy-as-matriarch"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # Anxiety as Constricted Life Force
@@ -105,3 +105,4 @@ Curious, neutral. The anxiety is not a problem to be solved with urgency. It is 
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

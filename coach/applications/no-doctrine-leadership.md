@@ -5,7 +5,7 @@ title: "The No Doctrine: Leading With the Truth Behind the Platitudes"
 aliases: ["no doctrine", "lead with no", "welcoming no", "no as enabler", "the no doctrine", "lead with the no", "skip the platitudes", "platitude tax", "what's after the but"]
 tags: ["leadership", "vulnerability", "truth", "communication", "organizational design", "boundaries", "application"]
 related: ["vulnerability-in-the-workplace", "welcoming-fear-in-leadership", "vulnerability", "boundary-with-vs-boundary-against", "love-vs-nice", "follow-the-demand", "fixing-people", "welcoming-the-others-emotion"]
-sources: ["2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions"]
 ---
 
 # The No Doctrine: Leading With the Truth Behind the Platitudes
@@ -138,3 +138,4 @@ The doctrine is downstream of an organizational culture that has been built to h
 ## Sources
 
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)

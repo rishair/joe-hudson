@@ -5,7 +5,7 @@ title: "Push Past the Protective Frame (When a Parent Underestimates Their Child
 aliases: ["push past the protective frame", "challenge the protective framing", "I'm going to push here just a little bit", "challenge the underestimation of the kids", "the protective-framing pushback", "challenging the worry-frame about your children", "question the I-have-to-teach-them frame", "push past the maybe-they-already-have-it block"]
 tags: ["move", "parenting", "challenging", "framing", "coaching-move", "permission"]
 related: ["never-rob-pain-or-gold", "making-vs-allowing", "press-the-button-thought-experiment", "ask-the-witnesses", "dropping-roles-makes-room", "i-dont-buy-your-story", "deconstruct-the-victim-to-release-anger"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Push Past the Protective Frame (When a Parent Underestimates Their Children)
@@ -139,3 +139,4 @@ After this move lands, Joe typically goes to one or more of:
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

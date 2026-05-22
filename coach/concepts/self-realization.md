@@ -5,7 +5,7 @@ title: "Self-Realization"
 aliases: ["self realization", "what am I", "the question what am I", "self-discovery", "self discovery", "realizing what you are", "knowing what you are", "non-dual realization", "recognition of self"]
 tags: ["self-realization", "non-dual", "awakening", "inquiry", "self-discovery", "authenticity"]
 related: ["what-am-i", "improvement-vs-authenticity", "undoing-not-doing", "musk-deer-parable", "wonder", "inherent-goodness", "expanding-sense-of-self", "zen-sickness", "annihilation", "projections", "whats-looking-out-behind-my-eyes"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # Self-Realization
@@ -135,3 +135,4 @@ See [[zen-sickness]] for the failure mode where the recognition is mistaken for 
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
 - 2021-07-30_Your World is a Projection
+- 2022-10-26_Authenticity Over Improvement

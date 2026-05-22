@@ -5,7 +5,7 @@ title: "Politics Arise From Unclear Performance Standards"
 aliases: ["politics from unclear standards", "if it's political, the standards aren't clear", "politics means success is based on relationship not performance", "the politics diagnostic", "political company diagnostic", "ambiguous standards produce politics", "politics is misdirected anxiety", "all politics come from this"]
 tags: ["politics", "teams", "organizations", "performance", "leadership", "clarity", "anxiety"]
 related: ["functional-team", "structure-and-empowerment", "sublimated-wants-become-politics", "fear-triangle", "trust-as-multifaceted"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Politics Arise From Unclear Performance Standards
@@ -95,3 +95,4 @@ Joe states this as observation, not as policy advice. The frame is "here is how 
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

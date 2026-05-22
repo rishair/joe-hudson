@@ -5,7 +5,7 @@ title: "Team Feels Oppressed by the Dynamic Rather Than Accountable for It"
 aliases: ["team feels controlled by the dynamic", "team feels oppressed", "I'm in a dysfunctional team and can't do anything about it", "the helpless team member", "blaming the leader for the team", "victimhood about the team", "I can't change the team", "the team feels done-to", "team members feel powerless"]
 tags: ["teams", "accountability", "victimhood", "pattern", "leadership", "responsibility"]
 related: ["signs-of-a-dysfunctional-team", "signs-of-a-dysfunctional-leader", "fault-vs-responsibility", "fear-triangle", "i-feel-trapped", "deconstruct-the-victim-to-release-anger"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Team Feels Oppressed by the Dynamic Rather Than Accountable for It
@@ -89,3 +89,4 @@ Joe is careful not to blame the team member. The pattern is named with sympathy 
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

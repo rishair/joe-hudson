@@ -4,7 +4,7 @@ id: im-afraid-of-stagnating
 title: "I'm afraid of stagnating"
 aliases: ["fear of stagnation", "I don't want to stagnate", "I need to keep growing", "I'll get stuck if I stop pushing", "fear of getting stuck", "stagnation fear", "I'll stop growing"]
 tags: ["fear", "stagnation", "growth", "improvement", "concern"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # I'm afraid of stagnating
@@ -81,6 +81,8 @@ The fear of meaninglessness is the mind looking for somewhere to plant its flag.
 5. Address the deeper fear if it arises. The fear of stillness may be fear of what stillness reveals. See [[self-realization]] and the questions underneath the busyness.
 
 6. Frame the holy confusion. Disorientation when goals shift is the territory, not a problem. "Sometimes falling feels like flying for a little while." Rumi's "holy confusion." See the disorientation section below.
+
+7. If the conversation has the space, run [[feel-love-and-empowerment-as-the-same]]. The visualization briefly drops the constriction that the fear of stagnation is producing. When the person comes out and reports "there wasn't any fear in either state," the diagnostic lands experientially: the fear of stagnation is the stagnation, and it dissolves when the system stops bracing.
 
 ## Holy Confusion
 

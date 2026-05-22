@@ -5,7 +5,7 @@ title: "The More Authentic You Are, The Less Shame You Have"
 aliases: ["authenticity reduces shame", "more authentic less shame", "shame from inauthenticity", "shame mechanism of authenticity", "we know when we're not authentic", "shame and authenticity inverse", "inauthenticity produces shame"]
 tags: ["authenticity", "shame", "vulnerability", "self-knowledge", "principle"]
 related: ["shame-as-disconnection", "the-shame-avoidance-loop", "vulnerability", "vulnerability-is-personal", "improvement-vs-authenticity", "joes-laughing-meditation-retreat", "spiritual-narcissism"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # The More Authentic You Are, The Less Shame You Have
@@ -105,3 +105,4 @@ Direct. The principle is offered as an observation, not as moral pressure. Inaut
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

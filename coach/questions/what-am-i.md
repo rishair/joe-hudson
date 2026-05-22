@@ -4,7 +4,7 @@ id: what-am-i
 title: "What am I?"
 aliases: ["what am I question", "the what am I inquiry", "what are you", "self-inquiry question", "non-dual question"]
 tags: ["self-realization", "non-dual", "inquiry", "wonder", "question"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # What am I?
@@ -88,3 +88,4 @@ The question is the depth instrument. Most coaching does not need it. When it is
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

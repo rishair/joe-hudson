@@ -5,7 +5,7 @@ title: "Welcoming the Other's Difficult Emotion"
 aliases: ["tell me how angry you are", "I can accept your anger", "I welcome your sadness", "the anti-caretaking welcoming move", "yeah baby give me your anger", "let them have it"]
 tags: ["caretaking", "anger", "welcoming", "boundaries", "emotions", "move"]
 related: ["caring-vs-caretaking", "love-as-deep-welcoming", "empathy", "boundary-with-vs-boundary-against", "feeling-the-unfelt-emotion", "embrace-intensity", "anger", "invite-the-aggression-out", "dont-should-yourself-to-welcome-anger", "passive-aggressive-vs-aggressive-aggressive"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Welcoming the Other's Difficult Emotion
@@ -131,3 +131,4 @@ The capacity to welcome others' anger develops as the byproduct of loving your o
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

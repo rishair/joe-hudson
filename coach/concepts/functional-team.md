@@ -4,8 +4,8 @@ id: functional-team
 title: "Functional Team"
 aliases: ["what makes a team functional", "functional team definition", "people want to be part of it", "desirability as functionality measure", "functional team measure", "the want-to-be-here test", "people like being on the team", "team as soil", "team dynamics as soil", "bad soil makes nothing grow"]
 tags: ["teams", "leadership", "trust", "organizations", "functionality", "measurement"]
-related: ["trust-as-multifaceted", "trust-vs-safety", "team-as-scientific-method", "conflict-avoidance-prevents-healing", "structure-and-empowerment", "family-as-team", "sublimated-wants-become-politics", "dysfunction-as-spectrum", "invigorated-vs-depleted-as-functionality-measure", "momentum-allows-dysfunction-to-persist", "five-star-meeting-commitment", "signs-of-a-dysfunctional-team", "signs-of-a-dysfunctional-leader"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+related: ["trust-as-multifaceted", "trust-vs-safety", "team-as-scientific-method", "conflict-avoidance-prevents-healing", "structure-and-empowerment", "family-as-team", "sublimated-wants-become-politics", "dysfunction-as-spectrum", "invigorated-vs-depleted-as-functionality-measure", "momentum-allows-dysfunction-to-persist", "five-star-meeting-commitment", "signs-of-a-dysfunctional-team", "signs-of-a-dysfunctional-leader", "everybody-wants-the-same-kind-of-team", "aristotle-project"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team", "2022-10-26_Building A Functional Team"]
 ---
 
 # Functional Team
@@ -91,6 +91,12 @@ A practice that operationalizes this measure: [[five-star-meeting-commitment]].
 - Difficult conversations happen as part of the work rather than as crises
 - The team can change goals and stay functional, because the functionality is in the relationships, not the goals
 
+This last quality has empirical support: see [[aristotle-project]] for Google's finding that the most functional teams retained their functionality across goal changes, and the variable that predicted it was that everyone freely expressed themselves.
+
+## The Wants Underneath Functionality Are Universal
+
+The wants that define a functional team are not idiosyncratic. Trust, support, direct communication, the ability to disagree without it being personal — these are wanted by virtually everyone on the team, even when no one is saying so. See [[everybody-wants-the-same-kind-of-team]]. The implication for the leader trying to move a team toward functionality: the wants you have for the team are the wants the team has. You are not imposing your preferences when you name them; you are giving voice to what everyone is silently hoping for.
+
 ## Upstream (What Leads Here)
 
 - A leader asks "what should a great team look like?"
@@ -108,8 +114,12 @@ A practice that operationalizes this measure: [[five-star-meeting-commitment]].
 - Toward [[invigorated-vs-depleted-as-functionality-measure]] when the leader needs a diagnostic that does not lag by years
 - Toward [[five-star-meeting-commitment]] when the leader is ready for a forcing practice
 - Toward [[signs-of-a-dysfunctional-team]] and [[signs-of-a-dysfunctional-leader]] when the team is presenting symptoms
+- Toward [[everybody-wants-the-same-kind-of-team]] when the leader hesitates to state what they want from the team
+- Toward [[aristotle-project]] when the leader needs external validation that expression is the leading indicator of functionality
 
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team
+- 2022-10-26_Building A Functional Team

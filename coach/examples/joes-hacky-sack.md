@@ -5,7 +5,7 @@ title: "Joe's Hacky Sack Story"
 aliases: ["hacky sack story", "Joe's hacky sacking", "the hacky sack example", "Joe's sensory processing", "Joe and the hacky sack"]
 tags: ["authenticity", "natural improvement", "personal story", "sensory processing", "play"]
 related: ["improvement-vs-authenticity", "nature-improves-itself", "listening-to-impulse", "joes-pot-habit", "authenticity-as-river"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # Joe's Hacky Sack Story
@@ -75,3 +75,4 @@ Joe tells this story plainly, with some self-deprecation about how long the smok
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

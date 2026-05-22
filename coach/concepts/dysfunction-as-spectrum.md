@@ -5,7 +5,7 @@ title: "Dysfunction as a Spectrum, Not a Binary"
 aliases: ["dysfunction is a spectrum", "function and dysfunction as a scale", "not binary functional or dysfunctional", "team functionality as endless game", "infinite game of team functionality", "always more functional possible", "the functional team thought trap", "function as continuous"]
 tags: ["teams", "leadership", "functionality", "framing", "infinite game", "concept"]
 related: ["functional-team", "invigorated-vs-depleted-as-functionality-measure", "five-star-meeting-commitment", "epiphany-becomes-rut", "no-finish-line"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Dysfunction as a Spectrum, Not a Binary
@@ -80,3 +80,4 @@ Joe presents this with the patience of someone who has watched the binary frame 
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

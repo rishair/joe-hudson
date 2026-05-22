@@ -5,7 +5,7 @@ title: "Nature Improves Itself"
 aliases: ["growth is natural", "the oak tree grows on its own", "your nature is to learn", "growth happens without trying", "we don't need to improve", "the river runs on its own", "growth is the nature of being alive"]
 tags: ["growth", "authenticity", "nature", "learning", "improvement", "principle"]
 related: ["improvement-vs-authenticity", "inherent-goodness", "ill-become-lazy-without-shoulds", "wants-over-shoulds", "listening-to-impulse", "dont-improve-for-two-weeks", "joes-hacky-sack", "nature-improves-itself"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # Nature Improves Itself
@@ -105,3 +105,4 @@ The second instinct, after testing it: amazement. The growth happens anyway. Oft
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

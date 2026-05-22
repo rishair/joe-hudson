@@ -5,7 +5,7 @@ title: "Walgreens: Sales Per Customer, Not Sales Per Store"
 aliases: ["Walgreens example", "the Walgreens metric", "sales per customer metric", "Good to Great Walgreens", "Walgreens drugstore example"]
 tags: ["metrics", "leadership", "organizations", "design", "measurement", "business", "example"]
 related: ["team-as-scientific-method", "functional-team", "politics-from-unclear-standards"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Walgreens: Sales Per Customer, Not Sales Per Store
@@ -44,3 +44,4 @@ Joe delivers this as illustration, not as case study. The point is the principle
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

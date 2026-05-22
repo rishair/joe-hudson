@@ -5,7 +5,7 @@ title: "Aaron's First Day at De La Salle (The Mother Who Did Not Spare the Pain)
 aliases: ["Aaron Taylor De La Salle story", "Aaron's first day of full pads", "the breakfast decision story", "the if-you-get-up I'll-know story", "Aaron's mother and the football decision", "the price you have to pay story", "the close-to-never-becoming story", "Aaron's developmental fork"]
 tags: ["example", "parenting", "developmental-moment", "non-interference", "pain", "agency", "freedom-of-choice"]
 related: ["never-rob-pain-or-gold", "caretaking-prevents-the-bottom", "what-if-you-acted-exactly-how-you-want", "annihilation-reveals-what-is-real"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Aaron's First Day at De La Salle (The Mother Who Did Not Spare the Pain)
@@ -105,3 +105,4 @@ This example fits when a coachee:
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

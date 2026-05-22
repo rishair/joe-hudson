@@ -5,7 +5,7 @@ title: "Coach Defensive Behavior Out of the Meeting"
 aliases: ["we don't do defensiveness here", "take a break and come back", "addressing defensiveness in a meeting", "coaching defensiveness in real time", "name the defensiveness in the moment", "handling defense in a meeting", "the defensiveness break move"]
 tags: ["leadership", "teams", "meetings", "defense", "move", "facilitation"]
 related: ["defense", "signs-of-a-dysfunctional-leader", "signs-of-a-dysfunctional-team", "safety-vs-defensiveness", "welcoming-fear-in-leadership", "name-your-trigger-as-vulnerability"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Coach Defensive Behavior Out of the Meeting
@@ -83,3 +83,4 @@ Direct and warm. Not harsh, not gentle in a way that softens the message into no
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

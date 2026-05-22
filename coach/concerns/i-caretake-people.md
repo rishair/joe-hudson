@@ -4,7 +4,7 @@ id: i-caretake-people
 title: "I caretake people / I manage everyone's emotions"
 aliases: ["I'm codependent", "I'm always taking care of people", "I'm exhausted from caring for others", "I'm a caretaker", "I manage everyone's feelings", "I caretake my partner", "I caretake my family", "people-pleasing in care form"]
 tags: ["codependence", "caretaking", "boundaries", "obligation", "savior"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # I caretake people / I manage everyone's emotions
@@ -119,3 +119,4 @@ The leadership and parenting versions converge: in both, the person believes the
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

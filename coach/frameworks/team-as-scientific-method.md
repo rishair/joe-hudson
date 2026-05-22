@@ -5,7 +5,7 @@ title: "Team Design as Scientific Method (Thesis, Principles, Metrics, Iterate)"
 aliases: ["team as scientific method", "scientific method for teams", "thesis principles metrics", "team design as experiment", "iterative team design", "the team thesis", "running the team as experiment"]
 tags: ["teams", "leadership", "organizations", "design", "iteration", "experimentation", "metrics", "principles"]
 related: ["functional-team", "structure-and-empowerment", "principles-free-you", "process-over-result", "epiphany-becomes-rut", "politics-from-unclear-standards"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Team Design as Scientific Method (Thesis, Principles, Metrics, Iterate)
@@ -134,3 +134,4 @@ The framework is not "design the right team and then operate it." The framework 
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

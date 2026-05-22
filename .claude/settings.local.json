@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./wiki.sh create:*)",
+      "Bash(python3 rebuild-index.py)",
+      "Bash(./wiki.sh status:*)",
+      "Bash(./wiki.sh next:*)",
+      "Bash(./wiki.sh claim:*)",
+      "WebSearch",
+      "WebFetch(domain:feeds.simplecast.com)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:www.listennotes.com)",
+      "Bash(./wiki.sh rebuild-index:*)",
+      "Bash(.venv/bin/python scripts/relabel_speakers.py)",
+      "Bash(git commit:*)",
+      "Bash(git add:*)",
+      "Bash(grep -roh [[[a-z0-9-]*]] coach/concepts/ coach/frameworks/ coach/distinctions/ coach/patterns/ coach/moves/ coach/principles/ coach/practices/ coach/anti-patterns/ coach/questions/ coach/reads/ coach/concerns/ coach/arcs/ coach/examples/ coach/applications/)",
+      "Bash(bash coach/bin/*)",
+      "Bash(find /Users/rishair/projects/joe-hudson -type f -name .claude* -o -name *.claude -o -name SKILL.md)",
+      "Bash(bash /Users/rishair/projects/joe-hudson/coach/bin/claim-next.sh)",
+      "Bash(python3:*)",
+      "Write",
+      "Edit"
+    ]
+  }
+}
+

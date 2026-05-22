@@ -5,7 +5,7 @@ title: "Caretaking Prevents the Bottom That Healing Requires"
 aliases: ["enabling prevents recovery", "no bottom no healing", "the wealthy alcoholic principle", "caretaking strengthens the dynamic", "caretaking trains the behavior"]
 tags: ["caretaking", "addiction", "consequences", "recovery", "enabling", "principle"]
 related: ["caring-vs-caretaking", "what-is-truly-compassionate", "victim-stance-invites-abuse", "shame-drives-behavior", "boundary-with-vs-boundary-against"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Caretaking Prevents the Bottom That Healing Requires
@@ -114,3 +114,4 @@ The principle delivered with care can produce a substantial reframe. The person 
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

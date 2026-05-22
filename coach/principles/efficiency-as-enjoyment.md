@@ -56,6 +56,8 @@ The signal of false efficiency: you feel busy and important. The signal of real 
 - Toward [[enjoyment-as-path]]: enjoyment is not a side benefit, it is the metric.
 - Toward [[enjoy-over-manage]]: the practice of releasing management to find enjoyment.
 - Toward [[art-of-accomplishment]]: ease is one of the three pillars.
+- Toward [[overwhelm-reduces-productivity]]: the negative version of the same principle, with the body's data on what overwhelm actually does to output.
+- Toward [[reducing-overwhelm-in-organizations]]: the leadership application.
 - Toward asking "would the same outcome arrive with less friction?" before adding effort.
 
 ## Tone

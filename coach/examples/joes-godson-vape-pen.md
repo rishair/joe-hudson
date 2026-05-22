@@ -5,7 +5,7 @@ title: "Joe's Godson and the Vape Pen"
 aliases: ["godson story", "the vape pen story", "godson ambition", "the laser tag story", "Joe's friend's son", "CEO level ambition", "stealing fifty dollars"]
 tags: ["authenticity", "ambition", "parenting", "wants", "reframing"]
 related: ["improvement-vs-authenticity", "wants-over-shoulds", "nature-improves-itself", "find-the-want-behind-the-should", "the-want"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # Joe's Godson and the Vape Pen
@@ -79,3 +79,4 @@ The telling is funny. Joe sets it up with self-aware acknowledgement ("this is g
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

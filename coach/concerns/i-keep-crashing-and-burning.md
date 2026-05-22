@@ -4,7 +4,7 @@ id: i-keep-crashing-and-burning
 title: "I keep crashing and burning / I go all-in then it all falls apart"
 aliases: ["wild oscillation pattern", "boom and bust life", "hyperfocus then collapse", "I go deep then crash", "deep dive then crash pattern", "I get obsessed and then everything else falls apart", "rabbit hole pattern", "attentional black holes", "I disappear into things", "I commit hard then drop it", "wild swings in my life"]
 tags: ["pattern", "hyperfocus", "self-abandonment", "concern", "shame", "engineering"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Allowing Yourself To Change – Joe Coaches Brett"]
 ---
 
 # I keep crashing and burning / I go all-in then it all falls apart
@@ -96,3 +96,4 @@ The original imprint is often a childhood divergence from a community the person
 ## Sources
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2022-10-26_Allowing Yourself To Change – Joe Coaches Brett (republication of the same session)

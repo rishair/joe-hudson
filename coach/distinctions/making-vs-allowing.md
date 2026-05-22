@@ -5,7 +5,7 @@ title: "Making vs. Allowing (First Half vs. Second Half of Life)"
 aliases: ["making vs allowing", "the back nine of life", "front nine vs back nine", "becoming vs allowing", "doing-getting-having vs allowing", "first half vs second half of life", "Richard Rohr first half second half", "the life reorientation from making to allowing", "from striving to allowing", "the assumption that everything is already there"]
 tags: ["distinction", "life-stages", "surrender", "allowing", "ambition", "transformation", "ego-development"]
 related: ["enjoyment-as-surrender", "undoing-not-doing", "trying-vs-doing", "improvement-vs-authenticity", "expanding-sense-of-self", "nature-improves-itself", "listening-to-impulse"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Making vs. Allowing (First Half vs. Second Half of Life)
@@ -102,3 +102,4 @@ The distinction is also not a moral hierarchy. Making is not less spiritual than
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

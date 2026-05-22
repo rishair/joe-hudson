@@ -5,7 +5,7 @@ title: "Family as Team"
 aliases: ["family as a team", "applying team principles to family", "running your family as a team", "family team dynamics", "the family team", "team principles in family"]
 tags: ["family", "teams", "leadership", "parenting", "marriage", "relationships", "application"]
 related: ["functional-team", "trust-as-multifaceted", "connection-as-family-metric", "team-as-scientific-method", "conflict-avoidance-prevents-healing", "leaders-wants-are-the-organizations-wants"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Family as Team
@@ -99,3 +99,4 @@ A leader who has not done this work with themselves cannot do it for the family.
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

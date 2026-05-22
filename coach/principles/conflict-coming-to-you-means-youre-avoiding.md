@@ -5,7 +5,7 @@ title: "If People Bring Conflict To You, You Are Conflict-Avoidant"
 aliases: ["the conflict-coming-to-you diagnostic", "if conflicts come to you you're avoiding them", "the conflict avoidance diagnostic", "you can't tell if you're conflict-avoidant by feeling", "the manager conflict diagnostic", "people bringing you conflict means you're not dealing with it", "exacerbating conflict diagnostic"]
 tags: ["conflict", "leadership", "self-awareness", "avoidance", "teams", "diagnostic"]
 related: ["conflict-avoidance-prevents-healing", "trust-requires-conflict", "trust-as-multifaceted", "functional-team", "im-afraid-of-offending-people"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # If People Bring Conflict To You, You Are Conflict-Avoidant
@@ -108,3 +108,4 @@ Joe is sharp here. He acknowledges he is going on a tangent because he wants to 
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

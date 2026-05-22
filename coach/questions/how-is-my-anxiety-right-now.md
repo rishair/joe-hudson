@@ -5,7 +5,7 @@ title: "How is my anxiety right now?"
 aliases: ["how is my anxiety", "the anxiety quality question", "asking how the anxiety is", "the awkward anxiety question", "how is your anxiety right now"]
 tags: ["anxiety", "self-inquiry", "question", "felt sense", "diagnostic"]
 related: ["anxiety-as-constricted-life-force", "love-the-anxiety-not-just-with-it", "embrace-vs-brace", "anxiety-three-definitions", "feeling-the-unfelt-emotion", "are-you-bracing-or-embracing"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # How is my anxiety right now?
@@ -100,3 +100,4 @@ When the question is reported back in session ("I tried asking how my anxiety wa
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

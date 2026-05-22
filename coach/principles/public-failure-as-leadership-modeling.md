@@ -5,7 +5,7 @@ title: "Public Failure Models More Than Performed Competence"
 aliases: ["letting the team watch you fail", "public failure as modeling", "the failure as teaching", "leader failing in front of team", "I have to figure this out in front of you", "modeling struggle", "watching me fail"]
 tags: ["leadership", "vulnerability", "modeling", "teams", "principle", "transformation"]
 related: ["vulnerability-in-the-workplace", "welcoming-fear-in-leadership", "embrace-intensity", "connection-over-perfection", "improvement-vs-authenticity", "epiphany-vs-transformation", "consciousness-is-the-product"]
-sources: ["2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions"]
 ---
 
 # Public Failure Models More Than Performed Competence
@@ -116,3 +116,4 @@ The principle is delivered without heroism. The leader is not being brave by fai
 ## Sources
 
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)

@@ -5,7 +5,7 @@ title: "Don't Defer Decisions to Large Committees"
 aliases: ["committee decision making", "deferring decisions to groups over 6", "groups over 6 can't decide", "committee dysfunction", "decision-by-committee anti-pattern", "more than 5 direct reports", "over 8 direct reports red flag", "committee decision trap"]
 tags: ["leadership", "teams", "decision-making", "committees", "anti-pattern", "organizations"]
 related: ["cia-organization-sabotage-manual", "signs-of-a-dysfunctional-leader", "functional-team", "structure-and-empowerment"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Don't Defer Decisions to Large Committees
@@ -55,3 +55,4 @@ The Gore-Tex split-at-150 model is a related practice: when any part of the orga
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

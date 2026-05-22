@@ -4,8 +4,8 @@ id: visualize-the-felt-aftermath
 title: "Visualize the Felt Aftermath (Not the Performance)"
 aliases: ["visualize how you want to feel after", "feel the aftermath in advance", "the felt-aftermath visualization", "imagine the feeling not the outcome", "the bedtime feeling visualization", "the post-event feeling visualization", "shift focus from feared outcome to desired aftermath", "what's the predominant feeling at the end"]
 tags: ["practice", "fear", "performance", "visualization", "anxiety", "presence", "preparation"]
-related: ["visualizing-feared-outcomes", "goal-beyond-the-goal", "fear-is-about-feeling", "embracing-vs-creating-intensity", "fear-vs-excitement", "intention-vs-goal", "im-not-an-anxious-person", "what-makes-you-care-about-the-outcome"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+related: ["visualizing-feared-outcomes", "goal-beyond-the-goal", "fear-is-about-feeling", "fear-is-misuse-of-imagination", "embracing-vs-creating-intensity", "fear-vs-excitement", "intention-vs-goal", "im-not-an-anxious-person", "what-makes-you-care-about-the-outcome"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Visualize the Felt Aftermath (Not the Performance)
@@ -115,3 +115,4 @@ The practice also fails when used as a guarantee: "If I visualize feeling proud,
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

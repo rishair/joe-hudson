@@ -5,7 +5,7 @@ title: "Don't Improve for Two Weeks"
 aliases: ["two week non-improvement", "stop improving experiment", "the holiday experiment", "no improvement experiment", "don't try to grow", "the non-improvement test"]
 tags: ["experiment", "authenticity", "improvement", "release", "practice"]
 related: ["improvement-vs-authenticity", "nature-improves-itself", "im-afraid-of-stagnating", "i-need-to-improve-myself", "listening-to-impulse"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # Don't Improve for Two Weeks
@@ -108,3 +108,4 @@ Joe offers this casually, almost as a dare. The casualness is the right tone. Th
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

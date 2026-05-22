@@ -4,7 +4,7 @@ id: im-not-an-anxious-person
 title: "I'm not an anxious person / I don't really get scared"
 aliases: ["I don't have anxiety", "I'm not afraid", "I'm not a fearful person", "I'm pretty brave", "I'm not scared", "I handle fear well", "I'm courageous", "fear doesn't really get to me", "the fearless self-concept", "Class A avoider", "avoider impresario", "high-functioning anxious denier", "the survival no-fear identity", "I had to be fearless to survive", "I never feel fear and I never have"]
 tags: ["fear", "anxiety", "self-concept", "denial", "identity"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear"]
 ---
 
 # I'm not an anxious person / I don't really get scared
@@ -166,3 +166,5 @@ He does not dismiss the courage. The person often has done genuinely courageous 
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
+- 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
+- 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)

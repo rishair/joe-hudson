@@ -5,7 +5,7 @@ title: "Sublimated Wants Become Politics and Gossip"
 aliases: ["unspoken wants become politics", "wants come out sideways in groups", "the leak in organizations", "withheld wants leak as gossip", "the leak from unspoken wants", "sublimated wants leak", "wants you don't say come out as politics", "organizational version of unfelt emotion leaks"]
 tags: ["wants", "organizations", "politics", "gossip", "leadership", "groups", "sublimation", "teams"]
 related: ["the-want", "wants-vs-partiality", "unfelt-emotion-leaks", "structure-and-empowerment", "no-doctrine-leadership", "authenticity-in-business", "tell-them-like-an-asshole", "politics-from-unclear-standards", "functional-team"]
-sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2021-11-19_What is Selfishness?", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Sublimated Wants Become Politics and Gossip
@@ -120,3 +120,4 @@ Without this moral inversion, the leader who tries to state wants more openly wi
 - 2021-11-19_What is Selfishness?
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

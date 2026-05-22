@@ -5,7 +5,7 @@ title: "The Love Relationship With Anxiety Experiment"
 aliases: ["love relationship with anxiety", "the anxiety love experiment", "loving your anxiety as practice", "anxiety embrace experiment", "in a love relationship with anxiety", "daily anxiety welcoming practice"]
 tags: ["anxiety", "practice", "experiment", "welcoming", "loving", "daily practice"]
 related: ["love-the-anxiety-not-just-with-it", "anxiety-as-constricted-life-force", "how-is-my-anxiety-right-now", "anxiety-as-unarticulated-need", "daily-emotional-yoga", "embrace-intensity"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # The Love Relationship With Anxiety Experiment
@@ -35,6 +35,31 @@ Joe ran this experiment for an extended period. His report:
 "During it, I recall just an appreciation for the anxiety, the love for the anxiety, and that the more that I paid attention to it, the more that it transformed inside of me, the more it... just showed that it was life force. That's the best way that I can describe it." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
 
 The transformation he describes is not the anxiety going away. It is the anxiety revealing what it was underneath: life force, energy. The constriction loosens enough that what remains is visible as vitality rather than threat. See [[anxiety-as-constricted-life-force]].
+
+## Brett's Throat-Constriction Application
+
+A practitioner-level account of running the experiment. Brett had noticed that anxiety in his throat correlated with moments of self-suppression -- making himself small, hiding, holding back. He had been in a cycle where he would notice the throat constriction, judge himself for hiding, and try to fix the behavior directly. The cycle did not produce shift.
+
+The change came when he stopped trying to alter the behavior and started staying with the constriction itself:
+
+"I was feeling anxiety in times when I felt like I was limiting myself. And times when I was making myself smaller or hiding. And then I used to be in sort of a cycle where I'd feel that in my throat and that would be a sign that I'm like hiding. And then I would be like, oh look, I'm doing it. And then I would just try to not be doing that by like altering my behavior rather than just by feeling, oh, what's, what's this thing that I'm, this constriction I'm feeling in my throat. And then going into that and finding that there's other constrictions, there's really subtle muscle tension in certain parts of my body. And then just sitting in those." -- Brett Kistler, Anxiety: A Signpost to Unmet Needs
+
+On a difficult day, Brett sat with the anxiety rather than going to the fridge or doing other avoidant things. Within thirty seconds an impulse arose to send important messages he had been putting off. He sent them. The pattern repeated through the day: every time avoidance surfaced, he sat with the underlying anxiety, and shortly afterward a beneficial impulse arose.
+
+"In very little time, suddenly an impulse came up to do something that was actually beneficial for me." -- Brett Kistler, Anxiety: A Signpost to Unmet Needs
+
+The account illustrates several features of the practice when it is operating cleanly:
+
+- The constriction is met where it is in the body, not where the mind thinks it should be
+- The behavior modification approach is dropped in favor of direct contact with the somatic signal
+- The impulse to act on what is actually needed surfaces from the contact itself, not from analysis
+- The practice replaces avoidant behavior (the fridge, procrastination) with action that the deeper system already wanted
+
+Joe's response to Brett's account names the link to the broader teaching:
+
+"The more you were with your anxiety in wonder, in vulnerability, in view, if you will, or with love, then the less the avoidance happened." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+The avoidance was the surface symptom. The constriction was the actual signal. Met directly, the avoidance dissolved on its own.
 
 ## The Child-Seeking-Attention Mechanism
 
@@ -123,3 +148,4 @@ Curious, experimental, light. The practice is offered as an interesting investig
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast; source for Brett's throat-constriction practitioner account)

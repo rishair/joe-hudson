@@ -5,7 +5,7 @@ title: "Authenticity in Business"
 aliases: ["authentic business", "authenticity in companies", "authenticity at work", "hooking into authentic drives", "natural drives in business", "company authenticity"]
 tags: ["business", "authenticity", "organizational design", "efficiency", "leadership", "application"]
 related: ["improvement-vs-authenticity", "vulnerability-in-the-workplace", "structure-and-empowerment", "efficiency-as-enjoyment", "consciousness-is-the-product", "buurtzorg-nursing", "nature-improves-itself"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
 # Authenticity in Business
@@ -112,3 +112,4 @@ The mechanism: the leader's relationship to their own authenticity becomes the r
 ## Sources
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement

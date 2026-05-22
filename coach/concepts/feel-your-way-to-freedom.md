@@ -5,7 +5,7 @@ title: "Feel Your Way to Freedom"
 aliases: ["feel your way to freedom", "feeling as the portal to freedom", "felt experience as the path", "feeling as access", "feeling not numbing as the route", "the avoidance-of-feeling that traps us", "feeling our way out", "freedom through feeling"]
 tags: ["concept", "feeling", "freedom", "addiction", "avoidance", "emotion", "transformation"]
 related: ["feel-over-figure", "feeling-the-unfelt-emotion", "love-as-deep-welcoming", "stages-of-emotional-development", "fear-is-about-feeling", "embrace-intensity", "love-is-the-best-change-agent"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Feel Your Way to Freedom
@@ -115,3 +115,4 @@ The phrase is delivered with a specific tone in the transcript: lightness, recog
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

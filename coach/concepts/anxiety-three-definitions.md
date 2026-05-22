@@ -5,7 +5,7 @@ title: "Anxiety Defined Through Three Brains"
 aliases: ["three brains definition of anxiety", "head heart gut anxiety", "anxiety from head heart gut perspective", "what is anxiety", "anxiety as preparing for attack and unmet needs and life force constriction", "three definitions of anxiety", "the head heart gut framing of anxiety", "anxiety from three intelligences"]
 tags: ["anxiety", "definitions", "head", "heart", "gut", "three brains", "framework"]
 related: ["head-heart-gut", "fear-vs-anxiety", "anxiety-as-unarticulated-need", "anxiety-as-constricted-life-force", "fear-as-signal-of-care", "identity-extension-expands-fear"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # Anxiety Defined Through Three Brains
@@ -97,3 +97,4 @@ Matter-of-fact. The three definitions are offered as tools, not as a hierarchy. 
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

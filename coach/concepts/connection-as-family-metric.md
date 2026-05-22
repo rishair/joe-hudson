@@ -5,7 +5,7 @@ title: "Connection as the Family's Bottom-Line Metric"
 aliases: ["connection as family bottom line", "family metric of connection", "do we feel connected", "family functionality measured by connection", "the family connection measure", "family functionality test"]
 tags: ["family", "connection", "metrics", "teams", "relationships"]
 related: ["family-as-team", "functional-team", "team-as-scientific-method", "trust-as-multifaceted", "container-of-love", "connection", "connection-as-life-bottom-line"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Connection as the Family's Bottom-Line Metric
@@ -80,3 +80,4 @@ The principle is: pick your metric, make it explicit, iterate on it. The specifi
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

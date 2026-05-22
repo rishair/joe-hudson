@@ -5,7 +5,7 @@ title: "Resentment as Caretaking Diagnostic"
 aliases: ["resentment signals caretaking", "if you feel resentful you're caretaking", "the resentment tell", "two-way resentment in caretaking"]
 tags: ["caretaking", "diagnostic", "resentment", "codependence", "boundaries"]
 related: ["caring-vs-caretaking", "softening-as-caring-diagnostic", "boundary-with-vs-boundary-against", "fear-triangle", "resentment-as-unspoken-want"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-11-19_What is Selfishness?"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-11-19_What is Selfishness?", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Resentment as Caretaking Diagnostic
@@ -107,3 +107,5 @@ When a person describes being resented by someone they are caring for, the quest
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2021-11-19_What is Selfishness?
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

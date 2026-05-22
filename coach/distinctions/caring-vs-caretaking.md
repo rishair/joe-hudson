@@ -5,7 +5,7 @@ title: "Caring vs. Caretaking"
 aliases: ["care vs caretake", "being in support vs fixing", "supporting vs managing emotions", "caretaking pattern", "codependence vs care", "managing emotions vs supporting"]
 tags: ["empathy", "boundaries", "coaching", "leadership", "relationships", "savior", "codependence"]
 related: ["empathy", "empathy-vs-sympathy", "fixing-people", "impartiality", "losing-yourself-in-others", "fear-triangle", "love-as-deep-welcoming", "four-faces-of-love", "love-vs-nice", "resentment-as-caretaking-diagnostic", "softening-as-caring-diagnostic", "you-think-they-cant-handle-it", "rehearsing-how-to-say-it", "weaponized-not-caretaking", "what-is-truly-compassionate"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Caring vs. Caretaking
@@ -191,6 +191,18 @@ The clean move from the receiving side: "I'm so glad that you're asking for what
 
 The instruction for the person making the transition: hold yourself with love and care as you do it. Do not defend. Allow attacks to land and use them as sandpaper. Most of the time, in a year or two, you will be surrounded by people who want to hear your truth and want to be sovereign next to you, not in you or through you.
 
+## Caretaking Is a Developmental Stage to Embrace, Not Eliminate
+
+A subtle point that is easy to miss in the work: the goal is not to eradicate caretaking. The goal is to learn to embrace it. Caretaking is one of the developmental stages a human moves through. Trying to skip it is like trying to pull a butterfly out of its cocoon before it is ready.
+
+Asked whether he would prefer a vaccine for caretaking or for a virus, Joe declines both:
+
+"I wouldn't pull the butterfly out of the cocoon because it won't be able to fly afterwards. For me, it would be like, do you build a vaccine for crawling or do you build a vaccine for, in a capacity to do mathematics in an 8-year-old? There are developmental steps that we need to go through. Like all systems require something to challenge them so that they can grow and be strong and evolve. If there's no challenge, there's no evolution. So I don't want to get rid of our challenges. I want to learn how to embrace them, how to learn how to embrace the death that we face, to learn how to embrace the caretaking that we do, to learn how to embrace the innocence that tries to get us to manage other people to feel safe. Like, that's what I want. It's not to get rid of it. It's to learn how to embrace it." -- Joe Hudson, Care over Caretaking
+
+The framing of caretaking as "the innocence that tries to get us to manage other people to feel safe" is important. The caretaker is not a perpetrator. The caretaker is a frightened part of the self that learned this strategy for safety. The strategy gets refined over time, not amputated. See [[honor-the-patterns-intent]] for the broader teaching this expresses.
+
+The practical consequence: when a person is working with their caretaking, the stance is not war. It is welcoming. The caretaking pattern is one of the things they are learning to love and let evolve, not one of the things they are trying to kill. See [[weaponized-not-caretaking]] for what happens when this distinction collapses.
+
 ## What Is Actually Compassionate
 
 Joe's reframe of the apparent conflict between self-care and care for others: there is no conflict. What is actually most compassionate for you is also what is actually most compassionate for them. See [[what-is-truly-compassionate]].
@@ -230,3 +242,4 @@ The follow-up Joe asks when someone finally breaks through into their want: "And
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

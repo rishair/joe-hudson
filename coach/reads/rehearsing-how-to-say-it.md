@@ -4,7 +4,7 @@ id: rehearsing-how-to-say-it
 title: "Rehearsing How to Say It"
 aliases: ["managing the delivery", "running it through in your head", "crafting the message", "rehearsing the conversation", "scripting before speaking", "the safe paragraph"]
 tags: ["caretaking", "diagnostic", "preparation", "performance", "people-pleasing"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Rehearsing How to Say It
@@ -77,3 +77,4 @@ When the person resists ("but I just want to say it well"), Joe holds the line t
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

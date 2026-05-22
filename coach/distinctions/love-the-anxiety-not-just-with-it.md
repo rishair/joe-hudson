@@ -5,7 +5,7 @@ title: "Loving the Anxiety vs. Being With the Anxiety"
 aliases: ["loving vs being with", "be with anxiety vs love anxiety", "love it not just sit with it", "the be-with trap", "I can't wait to be anxious again", "looking forward to anxiety", "loving the emotion not just observing it"]
 tags: ["anxiety", "loving", "welcoming", "meditation", "subtle management", "distinction"]
 related: ["embrace-vs-brace", "trying-to-get-rid-of-the-emotion", "love-is-the-best-change-agent", "can-you-look-forward-to-feeling-it", "feeling-the-unfelt-emotion", "loving-to-transform", "anxiety-as-constricted-life-force", "observe-vs-move-emotion"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # Loving the Anxiety vs. Being With the Anxiety
@@ -110,3 +110,4 @@ Direct but unhurried. The distinction is offered without judgment of the being-w
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

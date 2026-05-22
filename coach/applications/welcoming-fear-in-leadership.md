@@ -5,7 +5,7 @@ title: "Welcoming Fear in Leadership"
 aliases: ["welcoming fear at work", "leader's relationship to fear", "fear in teams", "permissioning fear", "naming fear with the team", "CEO fear", "welcoming team fear", "fear and team trust", "leader doesn't have to keep it all together", "saying I'm scared at work"]
 tags: ["leadership", "fear", "teams", "vulnerability", "business", "CEO", "trust", "application"]
 related: ["fear-as-signal-of-care", "dont-step-on-the-signal", "vulnerability-in-the-workplace", "welcoming-the-others-emotion", "im-not-an-anxious-person", "disassociation-as-numbness-layer", "fear-vs-anxiety", "vulnerability", "public-truth-bomb", "anxiety-as-unarticulated-need", "public-failure-as-leadership-modeling", "trace-emotion-to-its-first-felt"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear"]
 ---
 
 # Welcoming Fear in Leadership
@@ -180,3 +180,5 @@ When a leader makes this shift, the person-level changes show up first:
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-10-15_Ant Taylor on Embracing Emotions
+- 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
+- 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)

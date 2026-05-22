@@ -5,7 +5,7 @@ title: "Art of Accomplishment"
 aliases: ["accomplishment as art", "the art of accomplishment", "AoA", "artistry of accomplishment", "how not what", "art of getting things done"]
 tags: ["accomplishment", "art", "consciousness", "ease", "self-awareness", "foundational"]
 related: ["consciousness-is-the-product", "efficiency-as-enjoyment", "undoing-not-doing", "inherent-goodness", "connection-over-perfection", "enjoy-over-manage", "intention-vs-goal", "seven-limiting-beliefs", "enjoyment-as-path"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Art of Accomplishment
@@ -103,3 +103,5 @@ Foundational. Direct. The frame for the entire podcast. Joe speaks about this wi
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the 2022-08-05 conversation)

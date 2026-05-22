@@ -4,7 +4,7 @@ id: confidence-only-where-approval-isnt-needed
 title: "Confidence Only Where Approval Isn't Needed"
 aliases: ["confidence only in circle", "confidence only with peers", "I only feel confident in [one specific context]", "the surprising confidence location", "confidence happens where I'm not seeking validation", "approval-free confidence", "no-approval confidence", "the only-here-can-I-be-myself report", "confident only with my therapist", "confident only in men's group", "the achievement paradox -- accomplished everywhere, confident nowhere"]
 tags: ["read", "confidence", "approval", "people-pleasing", "authenticity", "self-worth"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
 ---
 
 # Confidence Only Where Approval Isn't Needed
@@ -81,3 +81,4 @@ This is also why the read is more useful than asking the person why they don't f
 ## Sources
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the same conversation)

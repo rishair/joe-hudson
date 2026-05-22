@@ -5,7 +5,7 @@ title: "What Is Truly Compassionate for You Is Truly Compassionate for Them"
 aliases: ["self-care and care converge", "deep self-care is deep care for others", "no conflict between self and other", "the deepest compassion is mutual", "the masochist God objection", "self-love vs love of other"]
 tags: ["compassion", "self-care", "caretaking", "love", "wants", "principle"]
 related: ["caring-vs-caretaking", "love-as-deep-welcoming", "selfishness-is-the-engine-of-unity", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "vulnerability"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # What Is Truly Compassionate for You Is Truly Compassionate for Them
@@ -121,3 +121,4 @@ The principle delivered cleanly often produces immediate relief. The person has 
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

@@ -5,7 +5,7 @@ title: "Don't Reflect Your Behavior Patterns As Company Culture"
 aliases: ["culture as CEO personality", "the company that runs by trying to make the CEO happy", "your patterns are not your culture", "default culture is leader's neurosis", "the unconscious culture trap", "personality as policy"]
 tags: ["leadership", "culture", "organizations", "self-awareness", "anti-pattern"]
 related: ["team-as-scientific-method", "functional-team", "leaders-wants-are-the-organizations-wants", "chameleon-leadership", "structure-and-empowerment", "sublimated-wants-become-politics"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Don't Reflect Your Behavior Patterns As Company Culture
@@ -90,3 +90,4 @@ Joe is matter-of-fact here. The pattern is so common in Silicon Valley that he i
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

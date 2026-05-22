@@ -4,7 +4,7 @@ id: you-think-they-cant-handle-it
 title: "You Think They Can't Handle It"
 aliases: ["they're too weak to hear it", "they can't take it", "I have to protect them from the truth", "if I say this they'll fly off the handle", "softening the truth", "they're too fragile"]
 tags: ["caretaking", "codependence", "diagnostic", "contempt", "respect"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # You Think They Can't Handle It
@@ -82,3 +82,4 @@ Joe sometimes uses humor or bluntness ("Ah, BS, you like it") to break the serio
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

@@ -5,7 +5,7 @@ title: "Joe Laughing Through the Meditation Retreat"
 aliases: ["Joe at the silent retreat", "Joe laughing at the meditation retreat", "Joe's last meditation retreat", "the laughing retreat story", "Joe laughing in the back of the meditation hall", "Joe and the sincere questions", "the laughter decision"]
 tags: ["authenticity", "laughter", "shame", "anxiety", "meditation", "example", "Joe"]
 related: ["authenticity-reduces-shame", "fear-of-joy", "cafe-emotional-stigma", "shame-as-disconnection", "vulnerability-is-personal", "conflict-avoidance-prevents-healing"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # Joe Laughing Through the Meditation Retreat
@@ -93,3 +93,4 @@ The anxiety load and the authenticity level are inversely related at scale. The 
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

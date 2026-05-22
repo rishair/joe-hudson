@@ -5,7 +5,7 @@ title: "Don't step on the signal"
 aliases: ["overriding fear with positivity", "powering through fear", "stepping on the signal", "ignoring the fear", "conquering fear", "overcoming fear as anti-pattern", "boldness as suppression", "courage as denial", "staying positive as suppression", "the fear was right"]
 tags: ["fear", "suppression", "leadership", "self-care", "anti-pattern"]
 related: ["fear-as-signal-of-care", "fear-vs-anxiety", "disassociation-as-numbness-layer", "fear-vs-excitement", "welcoming-fear-in-leadership", "feel-over-figure"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2022-10-26_Brett Kistler On Welcoming Fear"]
 ---
 
 # Don't step on the signal
@@ -85,3 +85,4 @@ The diagnostic: did the fear get heard? If yes, the action that follows is not s
 ## Sources
 
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
+- 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)

@@ -5,7 +5,7 @@ title: "Softening as Caring Diagnostic"
 aliases: ["the soft-hearted person", "caring makes you soft", "the long-term tell", "neurotic vs soft caretakers", "soft but strong"]
 tags: ["caretaking", "diagnostic", "softness", "long-term", "caring"]
 related: ["caring-vs-caretaking", "resentment-as-caretaking-diagnostic", "love-as-deep-welcoming", "heartbreak-as-capacity-expansion", "fear-triangle"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
 ---
 
 # Softening as Caring Diagnostic
@@ -102,3 +102,4 @@ The reverse is also useful. When the person describes years of hardening, the qu
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
+- 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)

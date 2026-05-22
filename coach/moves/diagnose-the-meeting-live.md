@@ -5,7 +5,7 @@ title: "Diagnose the Meeting Live (Ask Each Member What's Happening)"
 aliases: ["live meeting diagnostic", "what made you not listen", "the 7-minute story", "asking the room what's actually happening", "calling out the meeting in the meeting", "what made you tune out", "asking each person about the dynamic", "the in-meeting diagnostic move"]
 tags: ["leadership", "teams", "vulnerability", "truth", "groups", "consent", "move", "facilitation"]
 related: ["public-truth-bomb", "trust-as-multifaceted", "conflict-avoidance-prevents-healing", "vulnerability-in-the-workplace", "trust-vs-safety", "container-of-love"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
 ---
 
 # Diagnose the Meeting Live (Ask Each Member What's Happening)
@@ -113,3 +113,4 @@ The directness with the avoidance phase requires firmness. "I don't consider you
 ## Sources
 
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Building A Functional Team

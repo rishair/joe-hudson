@@ -5,7 +5,7 @@ title: "Needing to Be Right in Teams"
 aliases: ["needing to be right at work", "being right in teams", "the right-needing team member", "right vs the best solution", "no one is 100 percent right", "zero-sum win-lose in teams", "the right-needing leader", "right-needing as ego in teams", "needing to be right at work makes value contingent on being right"]
 tags: ["teams", "ego", "pattern", "leadership", "right-needing", "collaboration", "value"]
 related: ["trying-to-be-right-is-the-voice", "signs-of-a-dysfunctional-team", "defense", "being-right-college-story", "functional-team", "follow-the-demand"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Needing to Be Right in Teams
@@ -99,3 +99,4 @@ Joe runs through the pattern with the calm of someone who has been on every side
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

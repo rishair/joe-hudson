@@ -5,7 +5,7 @@ title: "Friction Is Required for Life"
 aliases: ["life requires resistance", "resistance is necessary", "a cell needs friction", "anxiety isn't going away because life", "you can't eliminate friction", "no friction means death", "life requires friction"]
 tags: ["anxiety", "friction", "resistance", "life", "biology", "acceptance"]
 related: ["anxiety-as-constricted-life-force", "embrace-intensity", "resistance", "process-over-result", "epiphany-becomes-rut"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # Friction Is Required for Life
@@ -87,3 +87,4 @@ Matter-of-fact. The principle is delivered as observation, not as comfort. It is
 ## Sources
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

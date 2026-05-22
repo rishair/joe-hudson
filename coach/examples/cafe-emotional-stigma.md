@@ -5,7 +5,7 @@ title: "The Cafe Test: How Stigmatized Emotion Is in Public"
 aliases: ["the cafe test", "cafe emotion experiment", "person at a cafe", "emotional stigma cafe", "the cafe thought experiment", "how kinky emotions are", "alone at a cafe"]
 tags: ["emotions", "stigma", "society", "thought experiment", "example", "repression"]
 related: ["stages-of-emotional-development", "repression-vs-management", "kinked-emotions", "feeling-the-unfelt-emotion", "emotions-live-in-muscles", "fear-of-joy", "joy-as-matriarch", "authenticity-reduces-shame"]
-sources: ["2021-09-24_Stages of Emotional Development", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2021-09-24_Stages of Emotional Development", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
 ---
 
 # The Cafe Test: How Stigmatized Emotion Is in Public
@@ -73,3 +73,5 @@ Light, slightly playful. The word "kinky" is doing work here -- it makes the soc
 ## Sources
 
 - 2021-09-24_Stages of Emotional Development
+- 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
+- 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)

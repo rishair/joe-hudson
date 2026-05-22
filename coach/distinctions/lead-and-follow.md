@@ -5,7 +5,7 @@ title: "Lead AND Follow (Not One or the Other)"
 aliases: ["leading and following", "leaders who don't lead or follow", "lead and follow distinction", "follow as listening to wisdom", "leading from vulnerability", "lead first follow first", "the buck stops here and I follow your wisdom", "two halves of leadership"]
 tags: ["leadership", "teams", "vulnerability", "wonder", "distinction", "authority"]
 related: ["signs-of-a-dysfunctional-leader", "functional-team", "vulnerability", "wonder", "structure-and-empowerment", "public-failure-as-leadership-modeling"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # Lead AND Follow (Not One or the Other)
@@ -74,3 +74,4 @@ Joe identifies this as the more subtle of the linchpin signs. The treatment is p
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team

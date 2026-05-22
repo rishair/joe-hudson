@@ -5,7 +5,7 @@ title: "The Five-Star Meeting Commitment"
 aliases: ["5-star meeting practice", "five star meeting commitment", "rank every meeting 1 to 5 stars", "two weeks of 5-star meetings", "the meeting rating commitment", "every meeting must be a 5-star meeting", "5-star meeting hack", "the executive 5-star challenge", "the meeting transformation challenge"]
 tags: ["practice", "leadership", "teams", "meetings", "organizations", "transformation", "accountability"]
 related: ["invigorated-vs-depleted-as-functionality-measure", "functional-team", "dysfunction-as-spectrum", "five-star-meeting", "conflict-avoidance-prevents-healing", "welcoming-fear-in-leadership"]
-sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2"]
+sources: ["2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
 ---
 
 # The Five-Star Meeting Commitment
@@ -76,3 +76,4 @@ Joe describes the practice with humor and the confidence of repeated success. "I
 ## Sources
 
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
+- 2022-10-26_Building A Dysfunctional Team
