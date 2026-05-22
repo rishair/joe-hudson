@@ -5,7 +5,7 @@ title: "Wanting vs. Craving"
 aliases: ["want vs craving", "clean want vs craving", "desire vs craving", "wanting is not craving", "Sufi desire vs Buddhist craving", "expansive want vs sticky craving"]
 tags: ["wants", "craving", "attachment", "non-attachment", "Buddhism", "tantra"]
 related: ["the-want", "wants-over-shoulds", "state-seeking", "owning-the-want-dissolves-it", "feeling-the-want-as-emotion", "process-over-result", "intention-vs-goal", "craving-is-the-pushing-away", "peace-is-what-we-resist-the-most"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Want Over Should"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Want Over Should", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
 ---
 
 # Wanting vs. Craving
@@ -62,6 +62,20 @@ If a person has been hurt by craving and has not yet experienced clean wanting, 
 
 The corrective: feel the want as a feeling without attaching to getting it. The want itself, fully felt, is pleasant. The craving is the addition of "I must have this or I will not be okay." Drop that addition and the want returns to its clean form.
 
+## The Same Distinction Applied to Connection
+
+The wanting-vs-craving distinction has a direct analog at the level of connection: connection vs. clinging.
+
+What people often call connection is actually clinging -- the gripping, attached reaching for another person that contracts the body and produces fear of loss. Real connection is the open, expansive, unclinging form. The same word names two opposite internal experiences, just as "wanting" does.
+
+This shows up most clearly when someone is doing extended growth work. The craving in their wants starts to relax. The clinging in their connections does too. The relaxation is initially experienced as loss: "I am less connected, less drawn to people, less wanting things." What is actually happening is that the clinging is dissolving and the underlying clean wanting and clean connection are becoming available.
+
+"A lot of times we conflate connection with clinging. And when we find ourselves no longer clinging and craving something from somebody, then we might feel more alone but not lonely." -- Brett Kistler
+
+See [[the-more-i-grow-the-more-alone-i-feel]] for the related concern that often arrives at this transition. The unclung version of connection sits comfortably alongside the structural truth that we are each separate. The clung version mistook clinging for connection and needed the clinging to feel connected.
+
+The general principle: as work matures, the gripped versions of internal states relax into their cleaner forms. Wanting becomes wanting. Connection becomes connection. The intensity does not disappear; it relocates from the grip to the meeting.
+
 ## What This Means for Coaching
 
 When someone presents an unhealthy-sounding want (the cake, the affair, the destructive habit), the move is not to talk them out of it. The move is to check whether they are in wanting or craving. If they are in craving, the work is to drop the attachment so the want can be felt. Often the want shifts once it is felt clean. See [[owning-the-want-dissolves-it]].
@@ -81,6 +95,8 @@ If they are in clean wanting, follow it. The want has its own intelligence. It d
 - Toward [[the-want]] as a felt experience close to love.
 - Toward [[process-over-result]]: craving is outcome-fixation; wanting holds the direction without grip.
 - Toward [[intention-vs-goal]]: a related distinction at the level of action.
+- Toward [[wants-change-as-you-change]]: what happens to the wants themselves when the craving relaxes -- they refine, evolve, and intensity migrates rather than disappears.
+- Toward [[aloneness-vs-loneliness]]: the connection-as-clinging parallel transferred to the level of self and other.
 
 ## Sources
 

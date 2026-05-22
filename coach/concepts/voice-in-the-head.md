@@ -5,7 +5,7 @@ title: "The Voice in the Head"
 aliases: ["voice in head", "voice in your head", "the inner critic", "self-talk", "internal dialogue", "the inner voice", "the editor", "the recurring negative voice", "upper dog", "the voice", "internal critic", "horrible micromanaging boss"]
 tags: ["voice in head", "self-talk", "inner critic", "awareness", "shame", "perfectionism", "core concept"]
 related: ["should-as-threat", "perfectionism", "shame-drives-behavior", "rebellion-or-submission-to-should", "awareness-as-change-agent", "wonder", "self-realization", "what-am-i", "voice-as-care", "untruth-in-every-thought", "voice-creates-what-it-fears", "trying-to-be-right-is-the-voice", "repetitive-vs-inspirational-voice", "experimenting-with-the-voice", "lawyer-the-voice", "dont-fight-the-voice", "apply-view-to-the-voice", "rehearsing-conversations", "cult-of-one", "tell-yourself-you-love-yourself-in-a-mirror"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Want Over Should", "2022-10-26_Who Is The Voice In Your Head"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Want Over Should", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
 ---
 
 # The Voice in the Head
@@ -42,6 +42,8 @@ This applies even after years of practice. Joe describes meditation reducing his
 A loud, critical, recurring voice in the head is clinically significant. The DSM definition of dysthymia — low-level chronic depression — is essentially constant negative self-talk. The voice is not a small quality-of-life issue. It is the substrate of widespread, unrecognized depression.
 
 "If that should voice in your head is really strong and really loud, there is a strong case that you're miserable whether you see it or not." -- Joe Hudson, Want over Should
+
+In the four-level model of depression (see [[depression-four-levels]]), the voice in the head is the intellectual layer. An abnormal amount of negative self-talk -- high enough volume to depress mood -- is depression seen from the head. This is the layer where voice-work intervenes directly. The depression-four-levels frame makes clear that the voice is not the whole of depression, but it is one of the four legs the structure stands on. Working on the voice is necessary but not always sufficient; the other three layers (emotional, nervous system, community) still need their own work.
 
 Beyond depression: artists drink and use drugs to silence the voice so they can enter flow. The same problem occurs in any context that requires presence — a sales call, a first date, a difficult conversation. The voice prevents being here. Rehearsal becomes a substitute for participation.
 
@@ -174,3 +176,4 @@ This concept also applies primarily to the repetitive, critical, recurring voice
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Want Over Should
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More

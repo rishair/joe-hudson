@@ -5,7 +5,7 @@ title: "Container of Love"
 aliases: ["container", "held in love", "environment of love", "shame dissolves in a loving witness", "loved in the action you're ashamed of", "the AA principle", "12-step container", "bringing shame into the light"]
 tags: ["healing", "safety", "group work", "relationships", "spiritual", "shame"]
 related: ["feeling-the-unfelt-emotion", "trauma-heals-in-relationship", "loving-all-parts", "integration", "community-over-teacher", "helplessness-is-the-gateway", "reclaiming-abandonment", "shame-as-disconnection", "shame-stagnates-emotion", "welcome-the-shame-without-extracting"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2022-10-26_The Anatomy Of Shame"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-12-11_Integrating a Transformative Experience", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2022-10-26_The Anatomy Of Shame", "2022-12-26_Joe And His Daughter Discuss Fatherhood"]
 ---
 
 # Container of Love
@@ -65,6 +65,20 @@ In Joe's workshops, this often happens when someone names a small shame ("I feel
 
 For solo work without a group, the move can sometimes happen with one trusted person, or with the felt sense of being held by something larger (see Faith as Container below). But the relational dimension is structural to shame dissolution. Some shame work cannot be done alone, and trying to do it alone will not succeed not because the person lacks willpower but because the medicine is relational.
 
+## The Container as the Founder's Own Receiving
+
+A second motivation for building containers of love that is rarely named: the people who build them often build them because they have so much love available to give and need a context where it can be received. The container serves the giver as much as the receivers, by producing the conditions where the giver's capacity has somewhere to go.
+
+Joe names this directly about his cohort program Groundbreakers, when his daughter asks him why he does the work:
+
+"I do this because through Groundbreakers, we're creating an environment where a whole bunch of people can accept all the love that I want to give. And there's truth to that. There's also truth to like I take a great pleasure in helping folks lead the life that they want to lead. But it was like to some degree even, I think your mom and I do this work so that we can create an environment where there's that much love and openness that creates a community around us with that much love and openness." -- Joe Hudson, Joe And His Daughter Discuss Fatherhood
+
+This adds a layer to the container teaching that the helping-orientation framing alone does not capture. The container is not built only because people need it. It is built because a person with significant capacity to love benefits from being in an environment where the love can land. Without the environment, the capacity has nowhere to go and shows up as ambient overflow that strangers, partners, and family receive without context.
+
+The structural implication: a teacher or coach who has a large capacity for love is in part doing the work because the work organizes the receiving. This is not a self-serving fact to hide; it is a coherent reason. The student who is loved by a teacher who needs them to receive the love is not in a transactional position; they are in a community whose existence is one of the ways the teacher is alive.
+
+This also reframes the cohort or community as serving both directions. The participants receive the container's holding. The container's builder receives the field of people who can take in what is being offered. The cycle is mutual. See [[community-over-teacher]] for the related teaching that the group is more important than the teacher.
+
 ## What Happens Without It
 
 When someone enters deep trauma material without a loving container, the trauma can get stuck again. It will eventually move, but the process is neither skillful, gentle, nor efficient.
@@ -89,3 +103,4 @@ Joe specifically warns against unskilled practitioners who know exercises that c
 - 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
+- 2022-12-26_Joe And His Daughter Discuss Fatherhood (the "creating an environment where a whole bunch of people can accept all the love that I want to give" framing of why Joe builds his cohort program)

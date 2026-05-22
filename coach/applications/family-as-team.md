@@ -4,8 +4,8 @@ id: family-as-team
 title: "Family as Team"
 aliases: ["family as a team", "applying team principles to family", "running your family as a team", "family team dynamics", "the family team", "team principles in family"]
 tags: ["family", "teams", "leadership", "parenting", "marriage", "relationships", "application"]
-related: ["functional-team", "trust-as-multifaceted", "connection-as-family-metric", "team-as-scientific-method", "conflict-avoidance-prevents-healing", "leaders-wants-are-the-organizations-wants"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
+related: ["functional-team", "trust-as-multifaceted", "connection-as-family-metric", "team-as-scientific-method", "conflict-avoidance-prevents-healing", "leaders-wants-are-the-organizations-wants", "parenting-as-honest-mirror", "parenting-as-coaching-domain"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2022-12-23_Joe and His Daughter Discuss Fatherhood"]
 ---
 
 # Family as Team
@@ -64,6 +64,14 @@ The conflict-avoidance dynamic is often more acute in families than at work. Wor
 The conflict-avoidant parent produces a family with the same dysfunctions as the conflict-avoidant manager: low trust, high politics, accumulating unresolved issues, and members who do not feel they can be honest. See [[conflict-coming-to-you-means-youre-avoiding]] applied to the parent who is constantly mediating between siblings or between spouses and grandparents.
 
 The fix is the same: engage the actual conflict rather than absorbing it. The form requires more care because the relationships are more intimate, but the structural intervention is the same.
+
+## The Parent's Own Work Is the Family Work
+
+The most important leverage in family functioning is the parent's own state. Joe explicitly names raising his children as "the most important work that I ever did was raising you for my own freedom, for my own joy. For your own joy." The order is exact: the parent's freedom comes first, the child's joy follows.
+
+This inverts the standard parenting framing. The standard framing positions the parent's job as developing the child. The reality is that the parent's job is doing the parent's own work, in front of and with the child, and the child's development follows from being in proximity to a parent who is doing it. The family's functionality is downstream of the parents' inner state. See [[parenting-as-honest-mirror]] for the related principle and [[parenting-as-coaching-domain]] for the broader application.
+
+This is also why the parent's pretending does not work. The family is the closest team the parent will ever be on. Whatever the parent's nervous system is actually doing will land on the children regardless of what the parent intellectually claims. The family team operates at the nervous system level, not at the level of stated values.
 
 ## The Hardest Member: Yourself
 

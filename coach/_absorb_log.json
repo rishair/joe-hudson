@@ -3158,15 +3158,132 @@
     },
     {
       "folder": "2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T06:28:00Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "i-keep-postponing-enjoyment",
+        "pulling-the-brakes",
+        "running-toward-yourself",
+        "how-would-you-enjoy-x",
+        "whats-stopping-you-from-enjoying-x",
+        "apply-enjoy-to-whats-here",
+        "say-yes-to-the-clients-experiment",
+        "dont-add-anyway-to-love"
+      ],
+      "articles_updated": [
+        "enjoyment-as-path",
+        "shame-as-disconnection",
+        "how-is-that-not-here-right-now",
+        "not-sometimes-right-now",
+        "enjoy-over-manage"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T06:40:52Z"
     },
     {
       "folder": "2022-12-10_How Do I Stop Postponing My Enjoyment\uff1f (Coaching Session)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T06:32:01Z",
+      "articles_created": [
+        "asking-with-shame-invites-refusal"
+      ],
+      "articles_updated": [
+        "pulling-the-brakes",
+        "running-toward-yourself",
+        "i-keep-postponing-enjoyment",
+        "how-would-you-enjoy-x",
+        "apply-enjoy-to-whats-here",
+        "whats-stopping-you-from-enjoying-x",
+        "shame-as-disconnection"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T06:40:19Z"
+    },
+    {
+      "folder": "2022-12-23_Joe and His Daughter Discuss Fatherhood",
+      "status": "complete",
+      "claimed_at": "2026-05-22T06:40:57Z",
+      "articles_created": [
+        "parenting-as-honest-mirror",
+        "the-work-as-three-levels-of-change",
+        "parenting-as-coaching-domain",
+        "esme-just-need-to-be-sad",
+        "esme-heartbreak-feels-good",
+        "esme-listens-at-the-door"
+      ],
+      "articles_updated": [
+        "family-as-team",
+        "identity-changes-on-three-levels"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T06:51:39Z"
+    },
+    {
+      "folder": "2022-12-26_Joe And His Daughter Discuss Fatherhood",
+      "status": "complete",
+      "claimed_at": "2026-05-22T06:42:05Z",
+      "articles_created": [
+        "parenting-as-real-world-test-of-inner-work",
+        "three-layers-of-the-work"
+      ],
+      "articles_updated": [
+        "hand-in-hand-parenting",
+        "joes-daughter-silent-retreat",
+        "caring-vs-caretaking",
+        "heartbreak-as-capacity-expansion",
+        "joy-as-matriarch",
+        "container-of-love"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T06:51:02Z"
+    },
+    {
+      "folder": "2023-01-06_Q&A \u2013 Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Foll",
+      "status": "complete",
+      "claimed_at": "2026-05-22T06:51:58Z",
+      "articles_created": [
+        "aloneness-vs-loneliness",
+        "self-judgment-protects-from-emotion",
+        "someone-i-love-has-mental-health-issues"
+      ],
+      "articles_updated": [
+        "experimenting-with-the-voice",
+        "apply-enjoy-to-whats-here",
+        "wanting-vs-craving",
+        "dont-do-emotion-at-people",
+        "the-more-i-grow-the-more-alone-i-feel"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T07:07:01Z"
+    },
+    {
+      "folder": "2023-01-08_Q&A \u2013 Expressing 'Anger At', Playing with Depression, & More",
+      "status": "complete",
+      "claimed_at": "2026-05-22T06:52:33Z",
+      "articles_created": [
+        "depression-four-levels",
+        "the-more-i-grow-the-more-alone-i-feel",
+        "gentleness-not-trying-to-be-patient",
+        "daily-gratitude-for-your-own-transformation",
+        "relating-to-someone-with-mental-health-issues",
+        "wants-change-as-you-change",
+        "find-the-emotion-under-self-judgment"
+      ],
+      "articles_updated": [
+        "dont-do-emotion-at-people",
+        "experimenting-with-the-voice",
+        "wanting-vs-craving",
+        "expanding-sense-of-self",
+        "voice-in-the-head",
+        "how-would-you-enjoy-x"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T07:07:00Z"
+    },
+    {
+      "folder": "2023-01-20_I Can't Hold It All Anymore (Coaching Session)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T07:08:10Z",
       "articles_created": [],
       "articles_updated": []
     }

@@ -2,10 +2,10 @@
 type: principle
 id: enjoyment-as-path
 title: "Enjoyment as Path"
-aliases: ["enjoy the process", "how do I enjoy the things I'm doing", "enjoyment is more effective", "golden mean of the journey", "enjoy yourself"]
+aliases: ["enjoy the process", "how do I enjoy the things I'm doing", "enjoyment is more effective", "golden mean of the journey", "enjoy yourself", "enjoy whatever is here", "enjoy the difficult thing", "apply enjoyment to the current experience"]
 tags: ["transformation", "enjoyment", "principle", "approach"]
-related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity", "efficiency-as-enjoyment", "art-of-accomplishment", "consciousness-is-the-product", "enjoyment-as-surrender"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses"]
+related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity", "efficiency-as-enjoyment", "art-of-accomplishment", "consciousness-is-the-product", "enjoyment-as-surrender", "how-would-you-enjoy-x", "whats-stopping-you-from-enjoying-x", "apply-enjoy-to-whats-here", "running-toward-yourself", "pulling-the-brakes", "i-keep-postponing-enjoyment"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses", "2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)"]
 ---
 
 # Enjoyment as Path
@@ -50,6 +50,26 @@ The principle in its mature form: not just tolerating discomfort, but learning t
 This is enjoyment at the layer where most people give up on the principle. The first level is "enjoy the things I'm doing." The second level is "enjoy things that are neutral." The third level, the one Joe demonstrates here, is "enjoy the very things I have been telling myself are unbearable." Each level is a tighter integration of the principle. The third level is where the principle stops being theory and becomes a way of moving through life.
 
 See [[joes-rental-house-anger]] for the full story and what it produced.
+
+## Apply It to Whatever Is Here (The Sustained Coaching Use)
+
+In a single coaching session with a person in chronic pain who wanted to "stop postponing enjoyment into an abstract imaginary future," Joe applied the principle to whatever the person was actually experiencing in the moment, layer by layer. The session is a case study in how the principle operates when sustained over an entire conversation.
+
+Each time the person reached for the future, Joe redirected: how about right now? How do you enjoy yourself right now? Each time a difficult feeling arose, Joe applied the principle to that feeling. When sadness came: "what would stop you from enjoying the sadness?" When shame came: "how would you enjoy your shame?" When stress came: "how do you enjoy that?" When chronic pain came: "what would your chronic pain look like if you didn't pull the brakes?" When the victim-feeling came: "let me be a victim for a little bit."
+
+The structure is the principle in operational form. The candidate for enjoyment is whatever the person is currently in. The instruction is not "find something enjoyable to enjoy." It is "apply enjoyment to *this*." See [[how-would-you-enjoy-x]] for the verbal form and [[apply-enjoy-to-whats-here]] for the move.
+
+The discovery the person makes when this is sustained: enjoyment is not a property of certain experiences. It is a relationship available to any experience. Once that becomes felt knowledge rather than concept, the postponement structure dissolves. The person stops needing the future to deliver the enjoyment, because the present has it whenever attention can land here.
+
+This is also the answer to the most common objection to the principle: "but how do I enjoy [the genuinely difficult thing]?" The objection treats certain experiences as exempt from the principle. The sustained use shows that the principle applies to those experiences too. The chronic pain, the shame, the stress, the helplessness — all of these are candidates. Not because the difficulty is a fiction, but because the enjoyment is a separate variable from the difficulty. The two can coexist. The person who learns this in the body learns that nothing in their life is structurally outside the principle's reach.
+
+## The Inverse Test
+
+Paired with "how would you enjoy this?" is the diagnostic "how would you NOT enjoy this?" The inverse surfaces the specific mechanism by which the person has been blocking enjoyment. See [[whats-stopping-you-from-enjoying-x]].
+
+When the positive question gets stuck, the inverse almost always produces an answer. The person can describe what they have been doing to prevent enjoyment long before they can describe how to enjoy. The not-doing has been their lifelong practice; it is known terrain. Naming it makes it optional. Once optional, the brake can release and the enjoyment can land.
+
+The pairing of the two questions — "how would you enjoy this?" and "how would you NOT enjoy this?" — is one of the cleanest operational tools the principle generates.
 
 ## Enjoyment Is the Measure of Efficiency
 

@@ -4,7 +4,7 @@ id: enjoy-over-manage
 title: "Enjoying vs. Managing"
 aliases: ["enjoy over manage", "enjoyment vs management", "managing life", "self-management trap", "stop managing start enjoying", "fighting the river", "management is fighting the river", "the river metaphor"]
 tags: ["enjoyment", "management", "freedom", "efficiency", "control", "flow"]
-related: ["impartiality", "process-over-result", "resistance", "inherent-goodness", "listening-to-impulse", "pleasure-capacity", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "efficiency-as-enjoyment", "art-of-accomplishment", "whats-the-case-against-it", "give-parameters-of-winning", "hire-by-dream-job", "valve-handbook-desks-on-wheels", "management-required-to-launch-predicts-management-required-forever", "address-the-blocker-not-the-symptom", "flow-vs-managing-reality"]
+related: ["impartiality", "process-over-result", "resistance", "inherent-goodness", "listening-to-impulse", "pleasure-capacity", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "efficiency-as-enjoyment", "art-of-accomplishment", "whats-the-case-against-it", "give-parameters-of-winning", "hire-by-dream-job", "valve-handbook-desks-on-wheels", "management-required-to-launch-predicts-management-required-forever", "address-the-blocker-not-the-symptom", "flow-vs-managing-reality", "pulling-the-brakes", "running-toward-yourself", "apply-enjoy-to-whats-here"]
 sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment"]
 ---
 

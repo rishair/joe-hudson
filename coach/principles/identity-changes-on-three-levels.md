@@ -4,7 +4,7 @@ id: identity-changes-on-three-levels
 title: "Identity Changes on Three Levels: Intellectual, Emotional, Nervous System"
 aliases: ["identity changes on three levels", "three levels of identity change", "intellectual emotional nervous system change", "head heart body identity change", "all three levels must shift", "rational understanding is not enough", "you can see it intellectually but still act it out", "why intellectual insight is not enough", "the three-layer change requirement", "boss-as-dad pattern", "I know my boss isn't my dad but I still react that way", "intellectual understanding without emotional understanding", "I know it intellectually but I can't act on it"]
 tags: ["identity", "transformation", "change", "principle", "head heart body", "integration"]
-related: ["identity", "head-heart-gut", "feeling-the-unfelt-emotion", "feel-over-figure", "trace-emotion-to-its-first-felt", "epiphany-vs-transformation", "every-identity-has-limits"]
+related: ["identity", "head-heart-gut", "feeling-the-unfelt-emotion", "feel-over-figure", "trace-emotion-to-its-first-felt", "epiphany-vs-transformation", "every-identity-has-limits", "the-work-as-three-levels-of-change", "three-layers-of-the-work"]
 sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Feel Over Figure", "2022-10-26_Seeing Identity For What It Is"]
 ---
 

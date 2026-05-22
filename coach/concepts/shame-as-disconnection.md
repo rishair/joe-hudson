@@ -2,10 +2,10 @@
 type: concept
 id: shame-as-disconnection
 title: "Shame as Disconnection"
-aliases: ["shame is disconnection", "shame as the felt sense of disconnection", "the auntie metaphor", "the farting kid metaphor", "shame as signal", "shame as reminder to reconnect", "shame as an amazing feature", "shame as a feature not a bug", "shame as nature's tribe-training", "shame as civic training", "shame trains the citizen", "shame is what tribes use to keep you inside"]
+aliases: ["shame is disconnection", "shame as the felt sense of disconnection", "the auntie metaphor", "the farting kid metaphor", "shame as signal", "shame as reminder to reconnect", "shame as an amazing feature", "shame as a feature not a bug", "shame as nature's tribe-training", "shame as civic training", "shame trains the citizen", "shame is what tribes use to keep you inside", "I'm an inconvenience shame", "shame about being a burden", "shame about being a victim", "the chronic illness shame", "shame projected onto others as inconvenience"]
 tags: ["shame", "disconnection", "connection", "emotion", "signals", "vulnerability", "tribe", "evolution"]
-related: ["shame-drives-behavior", "past-shame-vs-current-shame", "vulnerability", "feeling-the-unfelt-emotion", "love-as-deep-welcoming", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "shame-stagnates-emotion", "natural-shame-vs-installed-shame", "addiction-to-shame", "electric-fence-with-dog"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_The Anatomy Of Shame"]
+related: ["shame-drives-behavior", "past-shame-vs-current-shame", "vulnerability", "feeling-the-unfelt-emotion", "love-as-deep-welcoming", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "shame-stagnates-emotion", "natural-shame-vs-installed-shame", "addiction-to-shame", "electric-fence-with-dog", "pulling-the-brakes", "how-would-you-enjoy-x", "say-yes-to-the-clients-experiment", "dont-add-anyway-to-love", "running-toward-yourself"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_The Anatomy Of Shame", "2022-12-09_How Do I Stop Postponing My Enjoyment? (Coaching Session)", "2022-12-10_How Do I Stop Postponing My Enjoyment？ (Coaching Session)"]
 ---
 
 # Shame as Disconnection
@@ -68,6 +68,34 @@ The second source above has a sharper name: shame is what you feel when you aban
 The corollary: when shame arrives, one diagnostic question is "what part of myself did I just abandon, or am I about to abandon?" Often the answer is more legible than "what did I do wrong?" The shame is reporting a self-betrayal, and the resolution is to come back to the part of yourself that was being abandoned rather than to fix the behavior.
 
 This reframes the prescription. Telling someone in shame "stop doing the bad thing" addresses the wrong end. The shame is not about the action; it is about the abandonment of self that occurred to perform the action (or to avoid being seen wanting the action). The work is to come back to the self, not to police the behavior.
+
+## The Inconvenience Form (Chronic Pain, Chronic Illness, Ongoing Need)
+
+A specific form shame takes in people living with chronic pain, chronic illness, or any ongoing condition that requires care from others: the conviction that they are an inconvenience. The shame is not about a discrete act they did. It is about the ongoing fact of their condition.
+
+The internal logic: "I shouldn't be like this. It's not fun to be around. It's draining for people. I'm an inconvenience." The condition becomes the disconnection-source. The person disconnects from themselves to avoid being the cause of disconnection from others.
+
+Joe asks a specific diagnostic question of this form: "how much of that is a projection? How much of you feeling like an inconvenience to somebody else is actually you feeling like an inconvenience to yourself?" The question usually lands hard. The answer is almost always "a lot of it." The shame about being inconvenient to others turns out to be the felt sense of the person's own inability to be with their own condition.
+
+This reframes the work. The person was trying to fix the external (be less inconvenient to others). The actual material is internal (be willing to be inconvenient to oneself). The latter is what produces the shift the former never could.
+
+The chronic-pain version often has a specific brake attached: the person cannot express their needs *because they are in pain*. The pain is the legitimate cause of need; the shame about needing prevents the expression. The brake doubles up. See [[pulling-the-brakes]].
+
+> "If you're the inconvenience for having it, then yeah, so you can't even express your needs when you're in chronic pain. Because that's an inconvenience." -- Joe Hudson, How Do I Stop Postponing My Enjoyment?
+
+The healing move is, paradoxically, to let oneself be inconvenient — including to a partner, even when the partner has some discomfort with it. The person who can be in their own anguish without making it the bad guy can also let someone else be in adjacent anguish without trying to fix it. This is where the work radiates outward: the same allowance the person learns to give themselves becomes available to give to others. See [[say-yes-to-the-clients-experiment]] for the structural move underneath.
+
+## Asymmetric Reception: People Don't Want to Sit With Your Shame
+
+A practical pattern: when a person makes a request from shame, they are much more likely to get a no than when they make the same request without the shame. This is not because people are punishing the shame. It is because shame is contagious; people instinctively avoid sitting in a field of someone else's shame.
+
+> "People don't want to sit with other people's shame. Like, even if you see somebody when they ask, oh, this is what I want, they're much more likely to get a yes than if they say, this is what I want, and it's full of shame. Yeah, they're much more likely to get a no. People just don't want to be around each other's shame." -- Joe Hudson, How Do I Stop Postponing My Enjoyment?
+
+The implication for the person stuck in the shame-burden loop: the very thing they think makes them less of a burden (apologizing for the request, qualifying it, hedging it, leading with their unworthiness) is what makes the request harder to grant. The clean request, even for a difficult thing, lands better than the shamed request for an easy thing.
+
+The example the same session gives is the awkward energy that arrives when shame is in the room: "kind of like when someone does something and feels really embarrassed, and then people get embarrassed rather than just, 'Oh, oh, I farted. Oh, look at that,' and nobody cares." The shame is what creates the social awkwardness, not the original act.
+
+This connects forward to the work of letting the shame be felt rather than performed: the person who can be in their pain or in their need without shame is much easier to be around than the person who is in the same pain with shame layered on top.
 
 ## What People Experience
 
@@ -143,6 +171,18 @@ The reframe addresses the despair that often comes with shame: "the fact that I 
 
 When this reframe lands, the shame becomes natural guide rails rather than a verdict. It still arrives when something is off. But the off-ness is not your character; the off-ness is the connection being broken in this moment. And the shame is the care underneath, asking for the reconnection.
 
+## Asking With Shame Invites Refusal
+
+A specific interpersonal consequence of unowned shame: when a want is expressed with shame attached to it, the want is less likely to be granted. The shame in the ask creates discomfort in the listener, and the listener moves away from the discomfort by moving away from the request.
+
+"Even if you see somebody when they ask, oh, this is what I want, they're much more likely to get a yes than if they say, this is what I want, and it's full of shame. Yeah, and much more likely to get a no. People just don't want to be around each other's shame." -- Joe Hudson, How Do I Stop Postponing My Enjoyment?
+
+The mechanism is not judgment. People are not refusing the want because they think the want is bad. They are refusing because the shame in the ask transmits discomfort to them, and the felt move toward comfort is to disengage from the source. The cleaner ask gets the yes because the cleaner ask is bearable to be present with. The shamed ask gets the no because the shamed ask requires the listener to sit inside the asker's shame, which most people will not do.
+
+The same phenomenon shows up around expression of need or pain. A person in chronic pain who expresses the pain cleanly ("this fucking sucks") gets met. A person in chronic pain who expresses the same pain in the mr.-in-between form -- the want squished by shame, the half-suppressed and half-expressed version -- creates an awkward field that people withdraw from. The pain is not the problem. The shame around the pain is the problem. See [[upright-apology]] for the same principle in the apology domain.
+
+The coaching implication: when someone presents a chronic pattern of getting refused, of not being heard, of feeling that their wants do not land -- consider that the shame in the asking is doing the work, not the asking. The repair is upstream of the ask. Feel the shame, drop the shame, then ask. See [[run-toward-yourself]] for the move that releases the shame before the expression.
+
 ## The Whole Work in One Line
 
 When Joe describes the entire approach to shame in one sentence, it is this:
@@ -157,3 +197,4 @@ The line condenses three moves: (1) feel the body where the shame lives, which a
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
+- 2022-12-10_How Do I Stop Postponing My Enjoyment？ (Coaching Session)

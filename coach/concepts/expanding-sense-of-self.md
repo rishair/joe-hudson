@@ -5,7 +5,7 @@ title: "Expanding Sense of Self"
 aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift", "the tenderization of identity over time", "identity softens toward the universal"]
 tags: ["development", "identity", "oneness", "collaboration"]
 related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
 ---
 
 # Expanding Sense of Self
@@ -39,6 +39,18 @@ When the identity shift extends to the universal level, this is what Joe calls a
 The continuity matters. Awakening is not a mystical break from ordinary development. It is the same identity-shift process operating at a wider scale. The "I" that was once a child wanting GI Joe, then a self distinct from parents, now includes more. The mechanism is the same. Only the scope is different.
 
 This framing also clarifies why awakening can be met with relief or with distress depending on the story attached. The shift is the shift. The emotional valence depends on what the person makes of it. See [[zen-sickness]] for how the same identity expansion produces opposite responses depending on framing.
+
+## The More-Solid-and-More-Transparent Paradox
+
+A specific subjective signature appears when this expansion is actually happening: identity becomes simultaneously more solid and more transparent. The same self feels firmer in some way and less defined in another. Two opposite-sounding reports come out of the same person about the same self.
+
+"What I notice is that both makes me have a firmer sense of identity and less of an identity eventually. There's -- it's like my identity becomes more transparent, more fluid on one level, and it becomes more clear in myself in another level, more solid almost in another level." -- Joe Hudson, Q&A January 2023
+
+The structure: "more solid" refers to the loss of negotiation with the outside world about who one is. The identity no longer needs to be defended, performed, or shored up against challenges. That makes it feel more substantial, more itself, more present. "More transparent" refers to the loss of the hard edges that distinguish this identity from everything else. The boundary between "me" and "not me" thins out. That makes the identity feel less defined, less personal, less bounded.
+
+Both descriptions are accurate at the same time. The paradox dissolves once it is lived rather than thought about. Trying to make it coherent intellectually keeps it as a paradox. Resting in the dual experience, the paradox stops being a problem.
+
+This is what makes the report [[the-more-i-grow-the-more-alone-i-feel]] coherent: the person is more themselves (the alone version of themselves) and less themselves (the bounded version) at the same time. Both are the same movement.
 
 ## Tenderization, Not Replacement
 
@@ -78,3 +90,4 @@ Eventually, collaboration becomes natural because [[selfishness-is-the-engine-of
 - 2022-09-16_Seeing Identity for What It Is
 - 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of the 2021-01-20 episode)
 - 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)
+- 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More

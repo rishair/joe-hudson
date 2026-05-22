@@ -2,10 +2,10 @@
 type: practice
 id: experimenting-with-the-voice
 title: "Experimenting with the Voice"
-aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice"]
-tags: ["voice in head", "practice", "experimentation", "play", "relationship"]
-related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
+aliases: ["experimenting with voice in head", "play with the voice", "voice in head experiments", "different relationships with the voice", "tickle the voice", "love the voice as practice", "sing the voice a musical", "nickname the voice as a politician you hate", "treat the voice like a kid having a temper tantrum", "how to play with depression voice", "play with the voice as depression intervention"]
+tags: ["voice in head", "practice", "experimentation", "play", "relationship", "depression"]
+related: ["voice-in-the-head", "voice-as-care", "dont-fight-the-voice", "apply-view-to-the-voice", "awareness-as-change-agent", "loving-all-parts", "depression-four-levels"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
 ---
 
 # Experimenting with the Voice
@@ -30,6 +30,11 @@ Joe offers a range of experiments without prescribing one as correct:
 - **Laugh hysterically at it.** Treat its most serious pronouncements as comedy.
 - **Just notice it.** No response. Just observation.
 - **Have a real conversation.** Write down what it says and respond on the page.
+- **Sing it a musical.** When it speaks, sing the line it just said. The musical form is structurally incompatible with the voice's gravitas.
+- **Nickname it after a politician you hate.** Give the voice the name of someone whose pronouncements you have no impulse to take seriously.
+- **Treat it as a little kid having a temper tantrum.** Hold it the way you would hold a toddler. The tantrum is real; the tantrum is not authority.
+
+"You wanna play with it, have different responses to it. Every time it does it, sing it a musical. Every time it does it, just call it the politician that you hate the most and make a nickname for it or play with it or tickle it or love it or see it as a little kid who's having a temper tantrum and you just need to hold it. That's a great way to play with it, is to really not take the voice in your head seriously, the critical voice in your head seriously." -- Joe Hudson, Q&A January 2023
 
 "I'm gonna laugh at it hysterically one day, and I'm gonna just notice it another day, and I'm gonna love it the third day. So there's so much flexibility in it. But there's something in our system that is so scared of having that voice in the head go away or to change that it convinces us that we have no flexibility or no options around the voice in the head." -- Joe Hudson, Who is the Voice in Your Head?
 
@@ -65,8 +70,18 @@ Some experiments require persistence. The voice has been at war for decades. A o
 - When they have been trying to fight the voice and are exhausted. See [[dont-fight-the-voice]].
 - When they hold the assumption that the voice is fixed.
 - As a complement to [[apply-view-to-the-voice]] — the experimental frame can be one way to enter the VIEW state with the voice.
+- As the head-layer intervention for depression. See [[depression-four-levels]]. The depressed person's habitual response to the voice is to accept its content as truth with a small "okay, fine, you're right." Disrupting that single habitual response is one of the highest-leverage moves on the head layer of depression.
+
+## Why Play, Specifically, for Depression
+
+The voice in the head producing depression is sustained by the seriousness with which it is taken. The depressed person treats the voice as a competent, accurate authority worth listening to. The seriousness is what gives the voice its damaging effect.
+
+Play disrupts the seriousness directly. Singing the voice's pronouncements as a musical, giving it a ridiculous nickname, or treating it as a tantruming child all do the same operation: they refuse the gravitas the voice needs to function as a depression-producer.
+
+This is not about pretending the voice is funny. It is about refusing to treat its statements as if they were findings. The voice's content can stay exactly the same; the relationship to it shifts. The depression lifts as the relationship shifts, not as the content of the voice changes.
 
 ## Sources
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & Moreowup Questions
