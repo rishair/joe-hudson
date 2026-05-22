@@ -80,3 +80,36 @@ When done:
 - Update the parent goal's Decision Log with what you learned and how it affects the plan.
 - Check whether any sibling items are now unblocked by your results.
 - Check whether the goal's exit criteria are now met.
+
+## Long-running background processes (CRITICAL — read before any eval/download/transcription run)
+
+Some experiments start a long-lived subprocess via Bash with `run_in_background: true` — most commonly `bun run eval/run.ts full ...` which runs 5-20 minutes and writes results to `eval/results/<run-id>/`. The pattern below is mandatory. Past agents have stalled here, emitting hundreds of empty heartbeat events and never writing up the experiment.
+
+### The completion signal is a file on disk, not a notification
+
+When you start a long-running bun/eval/download process in the background, do NOT treat Monitor stdout, "process exited" notifications, or wall-clock heuristics as your completion signal. The authoritative signal is the existence of the run's `summary.json` (for evals, at `eval/results/<run-id>/summary.json`; for other tools, the documented terminal artifact). Identify that path BEFORE you start the process and write it on the experiment page so the next wake knows where to look.
+
+### Polling rules
+
+1. **Cadence: slow.** Poll for `summary.json` with `test -f <path> && echo READY || echo WAIT` every 60-180 seconds. Never poll every 2-10 seconds. Tight polling produces a flood of zero-work notifications and burns the context window before writeup.
+2. **Every wake must produce real work.** A wake-up where you only emit "Continuing." / "Still running." / "Nearly done." with zero tool_uses is a bug. If there is nothing useful to do, sleep longer instead of narrating. Acceptable real work during a wait: checking `summary.json` existence, tailing the latest partial output for a sanity check, reading a sibling page, drafting the writeup skeleton against the Hypothesis/Method.
+3. **Bound the wait.** Decide an upper bound up front (typically 2x the expected runtime). If `summary.json` does not appear by then, switch modes: read the most recent partial output, decide whether to kill the process and mark the experiment `failed` / `inconclusive`, or extend the bound once with an explicit reason written to the page.
+4. **Set `claim_ttl` appropriately.** For a 15-minute eval, put `claim_ttl: 60` in the experiment frontmatter before you start, so the claim doesn't go stale mid-run.
+
+### The moment `summary.json` exists, switch to writeup immediately
+
+Do not wait for an additional notification, a "process exited" signal, or anything else. The file existing IS the completion event. On that wake, in the same turn:
+
+1. Read `summary.json` and any per-conversation JSON files you need.
+2. Fill in the experiment page: Result (raw facts from summary.json), Analysis (with scope), Dead Ends (if anything failed), Next Steps.
+3. Update the parent goal's Decision Log with what was learned.
+4. If the goal has an iteration log (e.g., G-009), append the iteration entry there.
+5. Set `status: succeeded` (or `failed` / `inconclusive`), clear `claimed_by` and `claimed_at`.
+6. Run `./wiki.sh rebuild-index`.
+7. Exit.
+
+Do not start another poll cycle after `summary.json` appears. Do not emit a "writing up now" heartbeat — just write up.
+
+### Anti-pattern to avoid
+
+The failure mode that has cost four agents today: bun process exits, `summary.json` is on disk, agent keeps emitting `tool_uses: 0` notifications ("Continuing.", "Nearly done.") every few seconds for 10+ minutes, never reads `summary.json`, never updates the experiment page, claim eventually goes stale. If you notice yourself about to emit a zero-tool-use heartbeat: stop, check `summary.json`, and if it exists, write the experiment up right now.
