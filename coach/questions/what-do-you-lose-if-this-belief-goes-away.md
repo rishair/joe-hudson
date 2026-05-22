@@ -4,7 +4,7 @@ id: what-do-you-lose-if-this-belief-goes-away
 title: "What do you lose if this idea that you're not enough goes away?"
 aliases: ["what do you lose if this belief goes away", "what do you lose if this idea goes away", "what would you lose if X went away", "the payoff question", "the protection-of-the-belief question", "what does this belief protect you from", "what does this idea protect", "what does the belief give you", "what's the trade you're making with this belief", "what would change if you stopped believing this", "the I'm not enough payoff question", "what do you lose if you're enough", "surface the payoff of the limiting belief question", "what's the structural job of this belief", "the structural-payoff question for limiting beliefs", "what protects you about not being enough", "the inversion question for limiting beliefs", "the give-up question for a stuck belief"]
 tags: ["limiting beliefs", "control", "identity", "payoff", "self-rejection", "enoughness", "question"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # What do you lose if this idea that you're not enough goes away?
@@ -123,3 +123,4 @@ It is not a way to talk the person out of the belief. The question is not the st
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

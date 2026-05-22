@@ -5,7 +5,7 @@ title: "Loss of Control and Loss of Self Are the Same Thing (Surrender Is the Di
 aliases: ["loss of control and loss of self are the same", "control and self are the same", "the control is the self", "surrender is the dissolution of the self", "letting go of control is dissolution", "the controller is the self", "what dissolves in surrender is the controller", "control and self are the same structure", "the self is the controller", "the controller is what dissolves", "the I that is in control is the self being preserved", "the control identity", "control as the identity-preservation move", "what dissolves in surrender is the I", "surrender dissolves the I-that-controls", "loss-of-control as identity-death", "the management is the self", "if there is no controller there is no self", "control and identity are the same move", "the self is the control", "the controller-self equation", "control preserves the self that controls"]
 tags: ["control", "surrender", "self", "identity", "dissolution", "love", "principle"]
 related: ["surrender-your-way-out-not-think-your-way-out", "losing-self-in-love-two-forms", "fear-of-losing-yourself-in-love", "undoing-not-doing", "annihilation-reveals-what-is-real", "humility", "letting-go-vs-doing-nothing", "what-do-you-lose-if-this-belief-goes-away", "tell-it-to-god", "love-arrives-when-youre-not-scared-of-losing-yourself"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # Loss of Control and Loss of Self Are the Same Thing
@@ -141,3 +141,4 @@ The principle is also delivered with care. Joe does not push the client into the
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

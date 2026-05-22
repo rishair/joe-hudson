@@ -4,7 +4,7 @@ id: i-need-to-set-boundaries
 title: "I need to set boundaries / How do I know if I'm setting good boundaries?"
 aliases: ["how do I set boundaries", "I don't know how to set boundaries", "is this a good boundary", "what's the difference between a boundary and an ultimatum", "I'm bad at boundaries", "I can't draw boundaries", "I'm scared to set a boundary", "how do I know if my boundary is good", "I'm being too harsh with my boundary", "I keep being walked over", "I need to enforce a boundary", "I'm setting a boundary"]
 tags: ["boundaries", "concerns", "self-worth", "relationships", "fear"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2024-08-05_How to Draw HEALTHY Boundaries"]
 ---
 
 # I need to set boundaries / How do I know if I'm setting good boundaries?
@@ -68,6 +68,10 @@ The branching point is what kind of boundary trouble the person is in. Different
 - If the person is at the late stage and trying to refine an existing boundary: Joe supports the refinement and the discrimination it represents.
 
 - If the person is in resentment about not setting a boundary: Joe explores whether the boundary is needed or whether the underlying want is what needs naming. See [[resentment-as-unspoken-want]].
+
+- If the person has tried the same boundary repeatedly and it never works: Joe looks for where they enact the same behavior on themselves internally. See [[self-boundary-mirrors-external-boundary]]. The external boundary is bottlenecked by the internal one. The work is on the inner standard.
+
+- If the person is scared of being attacked when they draw the boundary: Joe redirects from "how do I manage their reaction" to "are you actually okay with this boundary yourself?" When the boundary is firmly held inside, the fear of the attack drops because the attack cannot land on a clearly-held boundary. See [[self-boundary-mirrors-external-boundary]] and [[extend-the-no-asshole-rule-inward]].
 
 ## Coaching Path
 

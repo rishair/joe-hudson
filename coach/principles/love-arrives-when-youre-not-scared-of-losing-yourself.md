@@ -5,7 +5,7 @@ title: "Love Doesn't Come Into Our Lives When We're Scared of Losing Ourselves (
 aliases: ["love arrives when youre not scared of losing yourself", "we don't find the right person", "love doesnt come when youre scared of losing yourself", "love doesn't come into our lives when we're scared of losing ourselves", "the partner doesnt arrive while the controller is operating", "love arrives at the location of surrendered self", "love doesn't arrive when you're protecting yourself", "you don't find the right person you become available", "the partner shows up when the work is done", "the structural mechanism for the partner showing up", "love doesn't come when youre scared of losing control", "the partner can't arrive while the controller is in charge", "the receive-the-love prerequisite", "structural mechanism behind the right-person-arrives observation", "I don't believe you haven't found the man", "the I-dont-believe-you-haven't-found-the-man principle"]
 tags: ["love", "partnership", "surrender", "self", "control", "dating", "principle"]
 related: ["i-cant-find-love", "fear-of-losing-yourself-in-love", "losing-self-in-love-two-forms", "loss-of-control-and-loss-of-self-are-the-same", "whatever-you-think-you-need-to-be-lovable-is-self-rejection", "push-pull-dynamics-in-dating", "craving-is-the-pushing-away", "self-love-makes-the-decision", "surrender-your-way-out-not-think-your-way-out"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2023-11-10_Finding a Romantic Partner"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)", "2023-11-10_Finding a Romantic Partner"]
 ---
 
 # Love Doesn't Come Into Our Lives When We're Scared of Losing Ourselves
@@ -127,4 +127,5 @@ The tone is also slightly tender. The principle puts responsibility back with th
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title
 - 2023-11-10_Finding a Romantic Partner

@@ -5696,15 +5696,120 @@
     },
     {
       "folder": "2024-08-02_When Will I Be Enough? (Coaching Session)",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T20:35:22Z",
+      "articles_created": [
+        "functional-vs-dysfunctional-relationship-configuration"
+      ],
+      "articles_updated": [
+        "intellectualizing-as-the-form-of-control",
+        "love-arrives-when-youre-not-scared-of-losing-yourself",
+        "loss-of-control-and-loss-of-self-are-the-same",
+        "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+        "what-do-you-lose-if-this-belief-goes-away",
+        "losing-self-in-love-two-forms",
+        "i-cant-find-love",
+        "heartbreak-is-the-love-underneath-the-blockers",
+        "fear-of-losing-yourself-in-love",
+        "mirror-the-clients-own-framework-back",
+        "tell-it-to-god",
+        "surrender-your-way-out-not-think-your-way-out"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T20:45:30Z"
+    },
+    {
+      "folder": "2024-08-05_How to Draw HEALTHY Boundaries",
+      "status": "complete",
+      "claimed_at": "2026-05-22T20:37:39Z",
+      "articles_created": [
+        "self-boundary-mirrors-external-boundary"
+      ],
+      "articles_updated": [
+        "boundaries",
+        "i-need-to-set-boundaries",
+        "withdrawal-with-vs-without-a-timeline",
+        "extend-the-no-asshole-rule-inward"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T20:42:17Z"
+    },
+    {
+      "folder": "2024-08-09_I'm Afraid I'll Get Depressed Again",
+      "status": "complete",
+      "claimed_at": "2026-05-22T20:42:52Z",
+      "articles_created": [
+        "speak-the-welcoming-of-the-feared-state-aloud"
+      ],
+      "articles_updated": [
+        "press-the-button-thought-experiment",
+        "what-we-fear-we-invite",
+        "love-the-anxiety-not-just-with-it",
+        "the-smile-of-recognition",
+        "im-afraid-ill-revert-to-my-old-pattern",
+        "how-do-i-trust-myself"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T20:52:55Z"
+    },
+    {
+      "folder": "2024-08-12_STOP Chasing Approval \u2014\u00a0Here's How To Get Free",
+      "status": "complete",
+      "claimed_at": "2026-05-22T20:48:15Z",
+      "articles_created": [
+        "how-do-i-stop-seeking-approval",
+        "seeking-approval-pushes-people-away",
+        "putting-someone-above-blocks-emotion",
+        "chase-your-own-approval",
+        "dont-call-them-a-liar-with-deflection",
+        "eating-but-not-digesting-the-food"
+      ],
+      "articles_updated": [
+        "let-it-move-through-and-clean-the-channel"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T20:59:10Z"
+    },
+    {
+      "folder": "2024-08-16_The Desire To Be Seen with Tara Howley",
+      "status": "complete",
+      "claimed_at": "2026-05-22T20:59:51Z",
+      "articles_created": [
+        "the-desire-to-be-seen",
+        "false-front",
+        "pointers-to-unseen-parts",
+        "see-yourself-and-acknowledge-others",
+        "say-of-course-i-just-want-to-be-seen-here",
+        "wanting-from-lack-vs-wanting-from-wholeness"
+      ],
+      "articles_updated": [
+        "being-heard",
+        "in-the-story-im-not-being-seen"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T21:04:54Z"
+    },
+    {
+      "folder": "2024-08-16_The Desire To Be Seen",
+      "status": "complete",
+      "claimed_at": "2026-05-22T21:05:26Z",
+      "articles_created": [],
+      "articles_updated": [],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T21:06:00Z",
+      "note": "Duplicate transcription of 2024-08-16_The Desire To Be Seen with Tara Howley (alternate transcription pass of the same Brett Kistler + Tara Howley conversation). Joe Hudson does not speak in this episode. Per speaker discipline rule, no extraction performed."
+    },
+    {
+      "folder": "2024-08-20_How Do I Find My Purpose\uff1f",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T21:06:48Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-08-05_How to Draw HEALTHY Boundaries",
+      "folder": "2024-08-23_How To Lead Without Managing",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T20:37:39Z",
+      "claimed_at": "2026-05-22T21:07:27Z",
       "articles_created": [],
       "articles_updated": []
     }

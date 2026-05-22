@@ -4,7 +4,7 @@ id: tell-it-to-god
 title: "Tell It to God (Speak the Position Aloud to the Highest Framework the Client Holds)"
 aliases: ["tell it to god", "say it to god", "say it to the highest framework", "speak the position aloud to god", "say it out loud to the absolute", "tell it to the universe", "speak it to the source", "the to-god move", "the say-it-to-god move", "the say-it-to-the-highest-thing-you-respect move", "the speak-the-position-to-the-absolute move", "say I'm in control to God", "say it to the framework", "speak the stance aloud to god", "the address-the-absolute move", "the I'm-not-playing-God-I'm-asking-you-to-tell-god move", "say it to the framework you've been hiding behind", "the framework-is-witness move", "tell the framework what you're actually doing", "speak the disowned position to the highest authority"]
 tags: ["surrender", "ownership", "spirituality", "self-rejection", "control", "voice", "embodiment", "move"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # Tell It to God
@@ -124,3 +124,4 @@ The tone is not solemn. A solemn delivery would protect the position. The slight
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

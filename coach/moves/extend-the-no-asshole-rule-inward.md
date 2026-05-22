@@ -83,6 +83,7 @@ There is also a kind of cheerful realism in the delivery. Everyone has one. The 
 - [[voice-as-care]]: the deeper reframe that the internal asshole is not actually an enemy. The protection that is needed is not protection against the asshole but a different relationship with it.
 - [[voice-in-the-head]]: the broader pattern the internal asshole sits within.
 - [[principles-free-you]]: the external no-asshole rule is a principle. This move asks whether the principle has been internalized as a self-relationship.
+- [[self-boundary-mirrors-external-boundary]]: the underlying principle that gives this move its structural justification. The reason the asymmetry is a problem -- and why the move surfaces real work rather than mere hypocrisy -- is that the external boundary's capacity is bottlenecked by the internal boundary's capacity. The person who allows the internal asshole has also installed the permission that allows external assholes.
 
 ## Connected Concerns
 

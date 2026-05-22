@@ -4,7 +4,7 @@ id: how-do-i-trust-myself
 title: "How do I trust myself? / How do I tell intuition from fear?"
 aliases: ["I can't trust myself", "how do I trust my intuition", "how do I tell the difference between intuition and fear", "how do I tell the difference between intuition and projection", "I've lost my confidence in what feels right for me", "I don't trust my decisions", "I can't tell what's intuition and what's reaction", "I can't tell intuition from anxiety", "I keep second-guessing myself", "I've lost trust in myself", "trust in myself", "self-trust concern"]
 tags: ["trust", "intuition", "fear", "decision-making", "second-guessing", "self-doubt"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2024-08-09_I'm Afraid I'll Get Depressed Again"]
 ---
 
 # How do I trust myself? / How do I tell intuition from fear?
@@ -71,7 +71,12 @@ The trust question often surfaces as the deeper layer underneath other presentin
 
 - [[i-need-a-scorecard]] — when a person whose identity has organized around external scoreboards is asked what could replace the scorecard, "trusting myself" often surfaces as the internal substrate. The path runs in the opposite direction: from scorecard concern down into the trust question. The two concerns are deeply linked because the absence of a scorecard exposes the absence of self-trust that the scorecard had been substituting for.
 
+The trust question also serves as a cover for other concerns it is upstream of:
+
+- [[im-afraid-ill-revert-to-my-old-pattern]] (emotional-state variant) — when the person has come through a difficult emotional state (depression, anxiety, dark period) and is now afraid that trusting their intuition will lead them back. The trust frame ("I can't trust my voice") covers an underlying recurrence fear ("if I trust my intuition I'll go back to making the same mistakes"). The session that surfaces the underlying concern treats the trust question as downstream and addresses the recurrence-fear directly via [[press-the-button-thought-experiment]] (past-suffering form) and [[what-we-fear-we-invite]]. When the welcoming of the feared state is real, trust returns automatically; there is no longer a state the person is trying to steer themselves away from.
+
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2024-08-09_I'm Afraid I'll Get Depressed Again (the trust question presented as a cover for a recurrence fear: the guest opens with "how can I trust my voice and my worth again" but the underlying fear is that following her intuition will lead her back into depression; Joe pivots from the trust frame to the recurrence fear directly and resolves the trust concern by dissolving the avoidance pattern rather than by clarifying intuition)

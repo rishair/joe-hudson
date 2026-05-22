@@ -4,7 +4,7 @@ id: intellectualizing-as-the-form-of-control
 title: "Intellectualizing as the Form of Control (Thinking Through the Inquiry to Stay in Charge of It)"
 aliases: ["intellectualizing as the form of control", "thinking through the inquiry to stay in charge", "thinking as control move", "intellectualization as control mechanism", "intellectualization as managing the inquiry", "going metaphysical to avoid feeling", "the cognitive route as the controller", "the cognitive bypass read", "thinking through the inquiry as control", "metaphysical detour read", "the meta-frame as control", "the abstract-question dodge", "going abstract to control", "intellectualizing the work to remain in control of it", "the smart-clients-think-their-way-out read", "the sophisticated-cognitive-bypass read", "the answering-from-the-head pattern", "the I-can-explain-everything-I-do-and-nothing-changes pattern", "the thinking-is-the-defense read", "the controller-in-cognition read", "the cognition-as-controller read", "competent-thinking-as-avoidance"]
 tags: ["intellectualization", "control", "cognitive bypass", "defense", "read", "thinking"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # Intellectualizing as the Form of Control
@@ -130,3 +130,4 @@ In each case, the read shifts the work from "let's understand this more clearly"
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

@@ -5,7 +5,7 @@ title: "The Heartbreak Underneath the Blockers Is the Love"
 aliases: ["heartbreak is the love", "the heartbreak is the love", "underneath the guilt is the love", "underneath the disgust is the love", "underneath the layers is heartbreak and heartbreak is the love", "the bottom of the descent is love", "the love you have for the parent you can't love", "the love underneath the guilt about cutting them off", "the love you have for the family member you separated from", "the heartbreak is what your love looks like here", "the love is the heartbreak that they couldn't be loved cleanly", "of-course-you-want-them-to-be-well love"]
 tags: ["love", "heartbreak", "blocker emotions", "family", "boundaries", "feeling sequence", "what is love"]
 related: ["heartbreak-as-capacity-expansion", "blocker-emotions", "love-as-deep-welcoming", "love-misconceptions-inherited-from-childhood", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "i-feel-guilty-for-cutting-off-family", "if-you-couldnt-feel-this-whats-underneath"]
-sources: ["2024-02-22_How Do I Love My Mom？", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2024-02-22_How Do I Love My Mom？", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # The Heartbreak Underneath the Blockers Is the Love
@@ -132,3 +132,4 @@ Joe delivers the "of course you want her to call up and say I'm sorry" line with
 
 - 2024-02-22_How Do I Love My Mom？
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson) (the "let your heart break every time" practice instruction; the extension of the heartbreak-is-the-love concept beyond the estranged-family case to the love-of-self and love-of-world case; the recognition that the love opens to scale that the system finds overwhelming and the practice is to keep letting it open)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

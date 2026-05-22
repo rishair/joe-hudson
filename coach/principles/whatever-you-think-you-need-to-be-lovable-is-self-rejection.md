@@ -5,7 +5,7 @@ title: "Whatever You Think You Need to Be to Be Lovable Is What You Need to Be t
 aliases: ["whatever you think you need to be lovable is self-rejection", "what you think you need to be to be lovable", "what you think you need to be to love yourself", "the lovability requirements are self-rejection", "achieving the lovability condition never produces self-love", "the not-pretty-enough not-rich-enough not-successful-enough trap", "the conditions of self-love never work", "the perfect body doesn't make you love yourself", "the billion dollars doesn't make you love yourself", "external attainment is not the path to self-love", "the lovability gate"]
 tags: ["self-love", "lovability", "self-rejection", "criteria", "achievement", "principle"]
 related: ["i-cant-find-love", "push-pull-dynamics-in-dating", "the-partner-checklist-doesnt-survive-the-actual-relationship", "capacity-to-love-other-is-capacity-to-love-self", "love-misconceptions-inherited-from-childhood", "from-looking-for-love-to-being-love", "same-scarcity-story-regardless-of-wealth", "fear-of-losing-yourself-in-love"]
-sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # Whatever You Think You Need to Be to Be Lovable Is What You Need to Be to Love Yourself (And Achieving It Never Works)
@@ -155,3 +155,5 @@ Direct and slightly weary. Joe has watched this pattern many times. The "by the 
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

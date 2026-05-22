@@ -4,7 +4,7 @@ id: mirror-the-clients-own-framework-back
 title: "Mirror the Client's Own Framework Back at Their Self-Rejection"
 aliases: ["mirror the client's own framework back", "mirror the clients own framework back", "mirror their own theology back", "use the client's theology against the self-rejection", "use the client's framework to expose the contradiction", "the framework-mirror move", "the client-theology mirror", "the everybody-but-you move", "everybody but you", "your God loves everyone except you", "the everyone-but-you mirror", "apply the client's own framework to themselves", "use the client's belief system to expose the gap", "the client's framework excludes themselves", "the in-your-own-framework contradiction", "the contradiction-with-your-own-belief move", "the your-own-framework-says-otherwise move", "the contradiction-in-your-own-terms move", "use the client's spirituality to expose self-rejection", "the framework-applied-to-self move", "use what they believe about everyone else and apply it to them", "the their-own-framework move", "the client's-own-words-mirror", "the not-yourself contradiction"]
 tags: ["self-rejection", "theology", "spirituality", "contradiction", "self-love", "move", "framework", "mirror"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # Mirror the Client's Own Framework Back at Their Self-Rejection
@@ -122,3 +122,4 @@ The directness lands as care, not as attack, because the framework is honored th
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

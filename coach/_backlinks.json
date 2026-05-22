@@ -14,6 +14,7 @@
     "find-the-want-behind-the-should",
     "have-them-say-i-want-all-of-me-loved",
     "mirror-to-group-then-substitute-i-for-you",
+    "speak-the-welcoming-of-the-feared-state-aloud",
     "surface-the-rejection-then-demand-its-evidence",
     "swap-roles-with-the-younger-self",
     "tell-it-to-god",
@@ -73,6 +74,7 @@
   ],
   "childhood-imprinting": [
     "am-i-being-selfish",
+    "how-do-i-stop-seeking-approval",
     "i-cant-feel-my-emotions",
     "i-cant-find-love",
     "i-freeze-around-authority",
@@ -212,6 +214,7 @@
     "the-want",
     "aloneness-vs-loneliness",
     "intention-vs-goal",
+    "wanting-from-lack-vs-wanting-from-wholeness",
     "wants-vs-partiality",
     "craving-is-the-pushing-away",
     "if-you-think-youre-deciding-youre-in-fear",
@@ -225,6 +228,7 @@
   ],
   "i-caretake-people": [
     "am-i-being-selfish",
+    "how-do-i-stop-seeking-approval",
     "i-feel-guilty-for-cutting-off-family",
     "im-afraid-of-offending-people",
     "im-exhausted-holding-space-for-my-partner",
@@ -330,6 +334,7 @@
     "how-is-that-not-true-about-you",
     "what-if-they-did-see-you",
     "projections",
+    "pointers-to-unseen-parts",
     "ask-the-witnesses",
     "go-down-one-level-to-find-projection",
     "question-the-caveat",
@@ -418,6 +423,7 @@
     "the-work-is-yours-not-mine",
     "trying-to-be-right-is-the-voice",
     "wanting-got-wired-to-unlovability",
+    "chase-your-own-approval",
     "dont-improve-for-two-weeks",
     "lawyer-the-voice",
     "should-vs-want-body-check",
@@ -450,6 +456,7 @@
     "selfishness-is-the-engine-of-unity",
     "sincerity-is-the-prerequisite",
     "what-is-truly-compassionate",
+    "chase-your-own-approval",
     "training-coaches-and-facilitators"
   ],
   "dont-jump-to-compassion-before-anger": [
@@ -690,6 +697,7 @@
     "dehumanization-begins-with-right-and-wrong",
     "judgment-hurts-the-judger",
     "meet-each-kid-where-they-are",
+    "putting-someone-above-blocks-emotion",
     "open-your-heart-while-judging-experiment",
     "spend-time-across-class-boundaries",
     "5-ways-to-stay-unhappy",
@@ -783,6 +791,7 @@
   ],
   "i-need-a-scorecard": [
     "how-do-i-be-happy",
+    "how-do-i-stop-seeking-approval",
     "how-do-i-trust-myself",
     "whats-next-after-i-reached-my-big-goal",
     "scorecard-keeping-as-identity-structure",
@@ -795,7 +804,9 @@
     "surface-the-assumed-dichotomy",
     "compass-not-map",
     "caring-what-others-think-is-the-burnout-engine",
-    "only-your-own-judgment-matters"
+    "only-your-own-judgment-matters",
+    "putting-someone-above-blocks-emotion",
+    "chase-your-own-approval"
   ],
   "money-is-bad": [
     "how-do-i-create-wealth-and-financial-stability",
@@ -923,7 +934,8 @@
   "narcissism-as-incapacity-to-feel": [
     "how-do-i-deal-with-narcissistic-parent",
     "view-as-technique",
-    "contain-the-narcissist"
+    "contain-the-narcissist",
+    "putting-someone-above-blocks-emotion"
   ],
   "every-trigger-with-your-kid-is-projection": [
     "how-do-i-deal-with-narcissistic-parent",
@@ -996,17 +1008,165 @@
     "heart-opening-needs-boundaries",
     "narcissism-as-incapacity-to-feel",
     "self-aggression-permits-others-aggression",
+    "self-boundary-mirrors-external-boundary",
     "triggers-reduce-when-you-know-you-can-leave",
     "say-the-thing-youre-not-saying",
     "what-was-wired-with-love-needs-untying"
   ],
   "i-need-to-set-boundaries": [
     "how-do-i-deal-with-narcissistic-parent",
-    "i-feel-guilty-for-cutting-off-family"
+    "i-feel-guilty-for-cutting-off-family",
+    "self-boundary-mirrors-external-boundary"
   ],
   "i-cant-stop-being-jealous-of-my-partners-friend": [
     "how-do-i-deal-with-narcissistic-parent",
     "using-your-emotion-to-make-others-hold-it"
+  ],
+  "confidence-only-where-approval-isnt-needed": [
+    "how-do-i-stop-seeking-approval",
+    "i-need-a-scorecard",
+    "scorecard-keeping-as-identity-structure",
+    "art-of-accomplishment",
+    "pulling-the-brakes",
+    "caring-what-others-think-is-the-burnout-engine",
+    "seeking-approval-pushes-people-away",
+    "joes-daughter-silent-retreat"
+  ],
+  "caring-what-others-think-is-the-burnout-engine": [
+    "how-do-i-stop-seeking-approval",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "im-burned-out",
+    "whats-the-emotion-youre-trying-to-avoid",
+    "burnout-cycle",
+    "putting-someone-above-blocks-emotion",
+    "seeking-approval-pushes-people-away",
+    "chase-your-own-approval"
+  ],
+  "seeking-approval-pushes-people-away": [
+    "how-do-i-stop-seeking-approval",
+    "dont-call-them-a-liar-with-deflection",
+    "let-it-move-through-and-clean-the-channel",
+    "putting-someone-above-blocks-emotion",
+    "chase-your-own-approval",
+    "eating-but-not-digesting-the-food"
+  ],
+  "putting-someone-above-blocks-emotion": [
+    "how-do-i-stop-seeking-approval",
+    "seeking-approval-pushes-people-away",
+    "chase-your-own-approval"
+  ],
+  "letting-it-in-vs-deflecting-the-welcome": [
+    "how-do-i-stop-seeking-approval",
+    "dont-call-them-a-liar-with-deflection",
+    "pointers-to-unseen-parts",
+    "have-them-receive-your-listening",
+    "let-it-move-through-and-clean-the-channel",
+    "say-of-course-i-just-want-to-be-seen-here",
+    "welcoming-the-others-emotion",
+    "from-looking-for-love-to-being-love",
+    "see-yourself-and-acknowledge-others",
+    "eating-but-not-digesting-the-food",
+    "sadie-christopher-anger-together"
+  ],
+  "let-it-move-through-and-clean-the-channel": [
+    "how-do-i-stop-seeking-approval",
+    "humility-in-the-system",
+    "dont-call-them-a-liar-with-deflection",
+    "humility",
+    "the-desire-to-be-seen",
+    "two-levels-of-hurt-in-being-misunderstood",
+    "pointers-to-unseen-parts",
+    "receive-the-projection-and-let-it-move-through",
+    "use-the-live-group-as-love-field",
+    "seeking-approval-pushes-people-away",
+    "chase-your-own-approval",
+    "from-looking-for-love-to-being-love",
+    "see-yourself-and-acknowledge-others",
+    "surround-yourself-with-people-who-make-fun-of-you",
+    "eating-but-not-digesting-the-food"
+  ],
+  "chasing-understanding-as-control": [
+    "how-do-i-stop-seeking-approval",
+    "i-keep-feeling-misunderstood",
+    "ego-protection-as-need-to-be-understood",
+    "listening",
+    "two-levels-of-hurt-in-being-misunderstood",
+    "invert-the-responsibility-for-understanding",
+    "say-the-same-sentence-five-ways",
+    "self-abandonment-to-manage-the-other",
+    "wanting-others-to-listen-is-the-block",
+    "you-cant-be-seen-when-youre-not-in-yourself",
+    "listen-to-yourself-ten-percent-more",
+    "put-attention-in-inner-ear",
+    "savannah-misunderstood-session"
+  ],
+  "abandoning-self-while-speaking": [
+    "how-do-i-stop-seeking-approval",
+    "i-keep-feeling-misunderstood",
+    "shame-blocks-connection-in-real-time",
+    "have-them-receive-your-listening",
+    "speak-from-listening",
+    "caring-what-others-think-is-the-burnout-engine",
+    "seeking-approval-pushes-people-away",
+    "self-abandonment-to-manage-the-other",
+    "wanting-others-to-listen-is-the-block",
+    "you-cant-be-seen-when-youre-not-in-yourself",
+    "listen-to-yourself-ten-percent-more",
+    "put-attention-in-inner-ear",
+    "savannah-misunderstood-session"
+  ],
+  "dont-call-them-a-liar-with-deflection": [
+    "how-do-i-stop-seeking-approval",
+    "let-it-move-through-and-clean-the-channel",
+    "seeking-approval-pushes-people-away",
+    "eating-but-not-digesting-the-food"
+  ],
+  "chase-your-own-approval": [
+    "how-do-i-stop-seeking-approval",
+    "dont-call-them-a-liar-with-deflection",
+    "let-it-move-through-and-clean-the-channel",
+    "putting-someone-above-blocks-emotion",
+    "seeking-approval-pushes-people-away",
+    "eating-but-not-digesting-the-food"
+  ],
+  "two-person-gratitude-practice": [
+    "how-do-i-stop-seeking-approval",
+    "gratitude-as-full-body-sport",
+    "gratitude-rounds-before-meetings"
+  ],
+  "im-afraid-of-offending-people": [
+    "how-do-i-stop-seeking-approval",
+    "abandoning-self-while-speaking",
+    "chasing-understanding-as-control",
+    "ego-protection-as-need-to-be-understood",
+    "looking-for-whats-wrong",
+    "the-built-up-resentment-story",
+    "how-else-would-you-heal-your-shame",
+    "shame-as-disconnection",
+    "the-shame-avoidance-loop",
+    "the-want-to-fit-in-vs-want-to-be-extraordinary",
+    "calibrate-the-threshold",
+    "press-the-button-thought-experiment",
+    "trigger-the-shame-live",
+    "conflict-avoidance-prevents-healing",
+    "self-abandonment-to-manage-the-other",
+    "the-emotional-experience-decides-the-channel",
+    "trust-requires-conflict"
+  ],
+  "im-burned-out": [
+    "how-do-i-stop-seeking-approval",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "whats-the-emotion-youre-trying-to-avoid",
+    "burnout-cycle",
+    "rest-is-an-accomplishment",
+    "adrenaline-discharge-via-fear-activity",
+    "post-rest-second-wind-trap",
+    "urgency-as-motivation",
+    "how-could-you-do-this-and-gain-energy",
+    "performance-vs-play",
+    "caring-what-others-think-is-the-burnout-engine",
+    "energy-management-over-time-management"
   ],
   "parts-work-made-things-worse": [
     "how-do-i-trust-myself",
@@ -1068,6 +1228,7 @@
     "i-keep-crashing-and-burning",
     "i-keep-running-into-the-same-wall",
     "if-i-had-more-money",
+    "im-afraid-ill-revert-to-my-old-pattern",
     "im-afraid-of-stagnating",
     "im-burned-out",
     "trying-to-get-rid-of-the-emotion",
@@ -1095,6 +1256,8 @@
     "mental-task-inflation",
     "push-pull-dynamics-in-dating",
     "the-shame-avoidance-loop",
+    "press-the-button-thought-experiment",
+    "speak-the-welcoming-of-the-feared-state-aloud",
     "take-contrary-action",
     "problem-vs-something-happening",
     "asking-with-shame-invites-refusal",
@@ -1144,6 +1307,7 @@
     "confidence-only-where-approval-isnt-needed",
     "loyalty-under-low-affection",
     "whats-the-ultimate-thing-youre-running-from",
+    "false-front",
     "joy-as-matriarch",
     "triggered-vs-big-emotion"
   ],
@@ -1220,6 +1384,27 @@
     "peace-precedes-joy-after-non-duality",
     "what-we-fear-we-invite",
     "what-were-avoiding-is-usually-love"
+  ],
+  "im-afraid-ill-revert-to-my-old-pattern": [
+    "how-do-i-trust-myself",
+    "im-burned-out",
+    "treating-it-as-a-decision-when-its-an-emotion",
+    "whats-the-emotion-youre-trying-to-avoid",
+    "quit-hope-lose-cycle",
+    "point-at-the-present-evidence",
+    "voice-creates-what-it-fears",
+    "what-we-fear-we-invite"
+  ],
+  "press-the-button-thought-experiment": [
+    "how-do-i-trust-myself",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "im-afraid-of-offending-people",
+    "calibrate-the-threshold",
+    "push-past-the-protective-frame",
+    "speak-the-welcoming-of-the-feared-state-aloud",
+    "strip-away-externals-thought-experiment",
+    "what-we-fear-we-invite",
+    "would-you-sell-your-ability-to-connect"
   ],
   "forms-of-dysfunctional-apology": [
     "i-cant-apologize",
@@ -1560,7 +1745,8 @@
     "awareness-of-pattern-is-halfway-through",
     "dont-believe-the-stories-you-tell-yourself",
     "peace-is-what-we-resist-the-most",
-    "punishing-the-remembering"
+    "punishing-the-remembering",
+    "self-boundary-mirrors-external-boundary"
   ],
   "should-i-stop-drinking": [
     "i-cant-be-disciplined",
@@ -1675,6 +1861,7 @@
     "apply-connection-to-whatever-youre-doing",
     "connection-as-life-bottom-line",
     "conversation-as-microcosm-of-relationship",
+    "see-yourself-and-acknowledge-others",
     "ali-abdaal-coaching-session"
   ],
   "four-tactical-ways-to-feel-your-emotions": [
@@ -1760,6 +1947,7 @@
     "self-reliance-pushes-people-away",
     "push-pull-dynamics-in-dating",
     "transactional-relationships-as-defense",
+    "functional-vs-dysfunctional-relationship-configuration",
     "hot-crushy-feeling-as-sugar-high",
     "losing-self-in-love-two-forms",
     "love-arrives-when-youre-not-scared-of-losing-yourself",
@@ -1804,8 +1992,10 @@
     "love-arrives-when-youre-not-scared-of-losing-yourself",
     "peace-is-what-we-resist-the-most",
     "peace-precedes-joy-after-non-duality",
+    "seeking-approval-pushes-people-away",
     "wanting-got-wired-to-unlovability",
-    "what-were-avoiding-is-usually-love"
+    "what-were-avoiding-is-usually-love",
+    "eating-but-not-digesting-the-food"
   ],
   "there-is-no-the-one": [
     "i-cant-find-love",
@@ -1820,6 +2010,7 @@
     "i-keep-chasing-emotionally-unavailable-people",
     "push-pull-dynamics-in-dating",
     "dont-chase-your-teen-stay-available",
+    "wanting-from-lack-vs-wanting-from-wholeness",
     "decisions-are-emotional",
     "what-we-fear-we-invite",
     "joe-mina-china-overwhelm",
@@ -1908,6 +2099,7 @@
     "mirror-the-clients-own-framework-back",
     "surrender-your-way-out-not-think-your-way-out",
     "tell-it-to-god",
+    "functional-vs-dysfunctional-relationship-configuration",
     "losing-self-in-love-two-forms",
     "love-arrives-when-youre-not-scared-of-losing-yourself",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
@@ -1938,6 +2130,7 @@
     "i-cant-find-love",
     "fear-of-losing-yourself-in-love",
     "creating-safety-suppresses-self",
+    "functional-vs-dysfunctional-relationship-configuration",
     "losing-self-in-love-two-forms",
     "gandhi-isnt-weak",
     "romantic-relationships"
@@ -1947,6 +2140,7 @@
     "i-feel-stuck",
     "fear-of-losing-yourself-in-love",
     "be-intimate-with-the-feeling",
+    "functional-vs-dysfunctional-relationship-configuration",
     "intimate-with-vs-giving-in-to-feeling",
     "loss-of-control-and-loss-of-self-are-the-same",
     "what-were-avoiding-is-usually-love",
@@ -1957,16 +2151,20 @@
     "fear-of-losing-yourself-in-love",
     "love-misconceptions-inherited-from-childhood",
     "push-pull-dynamics-in-dating",
+    "say-of-course-i-just-want-to-be-seen-here",
+    "wanting-from-lack-vs-wanting-from-wholeness",
     "searching-for-love-cuts-off-love",
     "the-partner-checklist-doesnt-survive-the-actual-relationship",
     "there-is-no-the-one",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
+    "see-yourself-and-acknowledge-others",
     "what-was-wired-with-love-needs-untying",
     "gandhi-isnt-weak"
   ],
   "love-arrives-when-youre-not-scared-of-losing-yourself": [
     "i-cant-find-love",
     "fear-of-losing-yourself-in-love",
+    "functional-vs-dysfunctional-relationship-configuration",
     "loss-of-control-and-loss-of-self-are-the-same",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection"
   ],
@@ -1990,6 +2188,7 @@
     "whats-next-after-i-reached-my-big-goal",
     "scorecard-keeping-as-identity-structure",
     "what-do-you-lose-if-this-belief-goes-away",
+    "false-front",
     "familiar-over-safe",
     "fully-feeling-restructures-the-self",
     "grief-as-gateway-to-self-love",
@@ -2826,6 +3025,7 @@
     "listening",
     "no-attachment-to-the-outcome",
     "projections",
+    "the-desire-to-be-seen",
     "voice-in-the-head",
     "vulnerability",
     "wonder",
@@ -2835,6 +3035,7 @@
     "drop-the-hot-potato",
     "enter-inquiry-with-soft-sense-of-self",
     "go-down-the-rabbit-hole-in-your-kids-world",
+    "say-of-course-i-just-want-to-be-seen-here",
     "hold-a-perspective-without-thinking-youre-right",
     "inside-out-vs-top-down-observation",
     "wonder-vs-curiosity",
@@ -2966,6 +3167,7 @@
     "surrender-your-way-out-not-think-your-way-out",
     "intimate-with-vs-giving-in-to-feeling",
     "emotional-movement-unsticks-stuckness",
+    "putting-someone-above-blocks-emotion",
     "what-were-avoiding-is-usually-love",
     "you-dont-control-love"
   ],
@@ -2988,6 +3190,7 @@
   "the-natural-integration-arc-after-breakthrough": [
     "i-feel-stuck",
     "the-smile-of-recognition",
+    "false-front",
     "familiar-over-safe",
     "its-a-human-thing-redirect",
     "talk-to-the-part-that-knows",
@@ -3058,6 +3261,7 @@
     "one-team-member-holds-the-helplessness",
     "quit-hope-lose-cycle",
     "apologize-for-not-seeing-the-help",
+    "speak-the-welcoming-of-the-feared-state-aloud",
     "empowered-vs-power",
     "helplessness-vs-surrender",
     "each-emotion-has-its-own-positive-flavor",
@@ -3118,7 +3322,8 @@
     "become-the-authority-figure",
     "mirror-the-judgment",
     "name-the-authoritys-fear",
-    "reframe-boss-as-customer"
+    "reframe-boss-as-customer",
+    "putting-someone-above-blocks-emotion"
   ],
   "conditional-clauses-of-heart-closure": [
     "i-feel-trapped",
@@ -3190,9 +3395,12 @@
     "how-is-that-not-true-about-you",
     "what-if-they-did-see-you",
     "being-heard",
+    "false-front",
+    "the-desire-to-be-seen",
     "two-levels-of-hurt-in-being-misunderstood",
     "calibrate-the-threshold",
     "mirror-the-judgment",
+    "say-of-course-i-just-want-to-be-seen-here",
     "say-the-forbidden-want-out-loud"
   ],
   "fight-or-roll-over-binary": [
@@ -3295,6 +3503,7 @@
     "notice-what-judgment-costs-you-and-what-you-actually-want",
     "so-what-makes-you-run-away-from-fear",
     "take-contrary-action",
+    "functional-vs-dysfunctional-relationship-configuration",
     "intimate-with-vs-giving-in-to-feeling",
     "softening-as-caring-diagnostic",
     "adversity-as-for-not-against",
@@ -3569,12 +3778,15 @@
     "love-means-signing-up-to-be-hurt",
     "nothing-is-required-for-freedom",
     "ask-from-slowness-not-intellect",
+    "chase-your-own-approval",
     "brett-cape-town-napkins",
     "brett-slackline-metaphor",
     "esme-math-final"
   ],
   "adversity-as-for-not-against": [
     "i-have-to-X-to-be-free",
+    "im-afraid-ill-revert-to-my-old-pattern",
+    "press-the-button-thought-experiment",
     "always-something-spectacular-happening",
     "annihilation-reveals-what-is-real",
     "gratitude-as-healing-medicine",
@@ -3779,6 +3991,7 @@
     "push-pull-dynamics-in-dating",
     "transactional-relationships-as-defense",
     "be-intimate-with-the-feeling",
+    "functional-vs-dysfunctional-relationship-configuration",
     "hot-crushy-feeling-as-sugar-high",
     "love-arrives-when-youre-not-scared-of-losing-yourself",
     "nre-returns-in-grounded-form-after-each-healing",
@@ -4146,6 +4359,7 @@
     "swap-roles-with-the-younger-self",
     "trigger-the-shame-live",
     "use-the-live-group-as-love-field",
+    "self-boundary-mirrors-external-boundary",
     "shame-dissipates-in-the-question-itself",
     "comedian-to-coach-money-shame-session",
     "doug-hug-the-demon-financial-safety",
@@ -4304,8 +4518,10 @@
     "listening",
     "invert-the-responsibility-for-understanding",
     "listening-shapes-the-reality-that-comes-back",
+    "seeking-approval-pushes-people-away",
     "self-abandonment-to-manage-the-other",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "chase-your-own-approval",
     "listen-to-yourself-one-minute-a-day",
     "savannah-misunderstood-session"
   ],
@@ -4323,20 +4539,6 @@
     "wanting-others-to-listen-is-the-block",
     "savannah-misunderstood-session"
   ],
-  "chasing-understanding-as-control": [
-    "i-keep-feeling-misunderstood",
-    "ego-protection-as-need-to-be-understood",
-    "listening",
-    "two-levels-of-hurt-in-being-misunderstood",
-    "invert-the-responsibility-for-understanding",
-    "say-the-same-sentence-five-ways",
-    "self-abandonment-to-manage-the-other",
-    "wanting-others-to-listen-is-the-block",
-    "you-cant-be-seen-when-youre-not-in-yourself",
-    "listen-to-yourself-ten-percent-more",
-    "put-attention-in-inner-ear",
-    "savannah-misunderstood-session"
-  ],
   "say-the-same-sentence-five-ways": [
     "i-keep-feeling-misunderstood",
     "chasing-understanding-as-control",
@@ -4344,19 +4546,6 @@
     "invert-the-responsibility-for-understanding",
     "listening-shapes-the-reality-that-comes-back",
     "state-not-framework",
-    "savannah-misunderstood-session"
-  ],
-  "abandoning-self-while-speaking": [
-    "i-keep-feeling-misunderstood",
-    "shame-blocks-connection-in-real-time",
-    "have-them-receive-your-listening",
-    "speak-from-listening",
-    "caring-what-others-think-is-the-burnout-engine",
-    "self-abandonment-to-manage-the-other",
-    "wanting-others-to-listen-is-the-block",
-    "you-cant-be-seen-when-youre-not-in-yourself",
-    "listen-to-yourself-ten-percent-more",
-    "put-attention-in-inner-ear",
     "savannah-misunderstood-session"
   ],
   "listen-to-yourself-ten-percent-more": [
@@ -4372,6 +4561,7 @@
     "self-abandonment-to-manage-the-other",
     "wanting-others-to-listen-is-the-block",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "chase-your-own-approval",
     "listen-to-yourself-one-minute-a-day",
     "put-attention-in-inner-ear",
     "savannah-misunderstood-session"
@@ -4391,6 +4581,7 @@
     "self-abandonment-to-manage-the-other",
     "wanting-others-to-listen-is-the-block",
     "you-cant-be-seen-when-youre-not-in-yourself",
+    "chase-your-own-approval",
     "listen-to-yourself-one-minute-a-day",
     "listen-to-yourself-ten-percent-more",
     "savannah-misunderstood-session"
@@ -4904,7 +5095,8 @@
     "strip-away-externals-thought-experiment",
     "compass-not-map",
     "identity-lags-behind-growth",
-    "only-your-own-judgment-matters"
+    "only-your-own-judgment-matters",
+    "chase-your-own-approval"
   ],
   "compass-not-map": [
     "i-need-a-scorecard",
@@ -4946,14 +5138,6 @@
     "you-cant-let-go-of-emotions-only-thoughts",
     "hold-the-memory-of-when-you-felt-it-most"
   ],
-  "confidence-only-where-approval-isnt-needed": [
-    "i-need-a-scorecard",
-    "scorecard-keeping-as-identity-structure",
-    "art-of-accomplishment",
-    "pulling-the-brakes",
-    "caring-what-others-think-is-the-burnout-engine",
-    "joes-daughter-silent-retreat"
-  ],
   "how-do-i-trust-myself": [
     "i-need-a-scorecard",
     "im-afraid-ill-revert-to-my-old-pattern",
@@ -4969,7 +5153,9 @@
     "lets-go-there",
     "compass-not-map",
     "craving-is-the-pushing-away",
-    "if-you-think-youre-deciding-youre-in-fear"
+    "if-you-think-youre-deciding-youre-in-fear",
+    "what-we-fear-we-invite",
+    "chase-your-own-approval"
   ],
   "perfectionism": [
     "i-need-to-improve-myself",
@@ -5090,7 +5276,8 @@
     "sense-of-time-expansion"
   ],
   "does-saying-it-increase-your-love|love test": [
-    "i-need-to-set-boundaries"
+    "i-need-to-set-boundaries",
+    "boundaries"
   ],
   "dont-use-boundaries-as-ultimatums": [
     "i-need-to-set-boundaries",
@@ -5132,6 +5319,22 @@
     "resentment-as-caretaking-diagnostic",
     "dont-compromise-find-both-needs-met",
     "leaders-wants-are-the-organizations-wants"
+  ],
+  "self-boundary-mirrors-external-boundary": [
+    "i-need-to-set-boundaries",
+    "boundaries",
+    "extend-the-no-asshole-rule-inward"
+  ],
+  "extend-the-no-asshole-rule-inward": [
+    "i-need-to-set-boundaries",
+    "my-inner-critic-wont-stop",
+    "whats-next-after-i-reached-my-big-goal",
+    "definition-of-asshole",
+    "voice-as-care",
+    "self-aggression-permits-others-aggression",
+    "self-boundary-mirrors-external-boundary",
+    "list-who-you-subtly-blame",
+    "doug-hug-the-demon-financial-safety"
   ],
   "rubbermaid-dish-solution": [
     "i-need-to-set-boundaries"
@@ -5183,6 +5386,7 @@
     "caring-what-others-think-is-the-burnout-engine",
     "giving-from-desire-not-obligation",
     "wants-over-shoulds",
+    "chase-your-own-approval",
     "need-behind-the-want",
     "rapid-fire-coaching-impulse-check",
     "should-vs-want-body-check",
@@ -5496,6 +5700,7 @@
   ],
   "im-depressed": [
     "im-a-failure",
+    "im-afraid-ill-revert-to-my-old-pattern",
     "im-burned-out",
     "treating-felt-state-as-factual-reality",
     "anger",
@@ -5510,27 +5715,14 @@
     "who-isnt-an-imposter",
     "expert-is-imposter-with-most-reps",
     "everyone-doing-something-real-is-an-imposter",
-    "only-your-own-judgment-matters"
+    "only-your-own-judgment-matters",
+    "putting-someone-above-blocks-emotion"
   ],
   "show-me-the-bracing-and-show-me-the-opposite": [
     "im-afraid-i-wont-get-anything-done",
     "what-am-i-bracing-for",
     "embrace-vs-brace",
     "bracing-as-control-of-emotional-experience"
-  ],
-  "im-burned-out": [
-    "im-afraid-ill-revert-to-my-old-pattern",
-    "treating-it-as-a-decision-when-its-an-emotion",
-    "whats-the-emotion-youre-trying-to-avoid",
-    "burnout-cycle",
-    "rest-is-an-accomplishment",
-    "adrenaline-discharge-via-fear-activity",
-    "post-rest-second-wind-trap",
-    "urgency-as-motivation",
-    "how-could-you-do-this-and-gain-energy",
-    "performance-vs-play",
-    "caring-what-others-think-is-the-burnout-engine",
-    "energy-management-over-time-management"
   ],
   "i-keep-running-into-the-same-wall": [
     "im-afraid-ill-revert-to-my-old-pattern",
@@ -5591,13 +5783,15 @@
     "ask-the-body-the-question",
     "reframe-the-question-to-the-blocker-emotion",
     "caring-what-others-think-is-the-burnout-engine",
-    "decisions-are-emotional"
+    "decisions-are-emotional",
+    "putting-someone-above-blocks-emotion"
   ],
-  "caring-what-others-think-is-the-burnout-engine": [
+  "speak-the-welcoming-of-the-feared-state-aloud": [
     "im-afraid-ill-revert-to-my-old-pattern",
-    "im-burned-out",
-    "whats-the-emotion-youre-trying-to-avoid",
-    "burnout-cycle"
+    "the-smile-of-recognition",
+    "press-the-button-thought-experiment",
+    "love-the-anxiety-not-just-with-it",
+    "what-we-fear-we-invite"
   ],
   "let-your-body-remember-this-moment": [
     "im-afraid-ill-revert-to-my-old-pattern",
@@ -5608,6 +5802,7 @@
     "mark-it-and-return-later",
     "point-at-the-present-evidence",
     "redirect-from-stay-or-leave-to-self-love",
+    "speak-the-welcoming-of-the-feared-state-aloud",
     "surrender-your-way-out-not-think-your-way-out",
     "tell-it-to-god",
     "treat-them-like-an-adult",
@@ -5647,13 +5842,6 @@
     "decision-question-covers-the-caretaking",
     "treating-felt-state-as-factual-reality",
     "jeff-bezos-calls-his-mornings-wandering"
-  ],
-  "press-the-button-thought-experiment": [
-    "im-afraid-of-offending-people",
-    "calibrate-the-threshold",
-    "push-past-the-protective-frame",
-    "strip-away-externals-thought-experiment",
-    "would-you-sell-your-ability-to-connect"
   ],
   "trigger-the-shame-live": [
     "im-afraid-of-offending-people",
@@ -5723,6 +5911,7 @@
     "we-have-built-up-resentment",
     "the-built-up-resentment-story",
     "what-makes-you-care-about-their-emotional-state",
+    "false-front",
     "caring-vs-caretaking",
     "humility-vs-disempowerment",
     "conflict-avoidance-prevents-healing",
@@ -5852,14 +6041,6 @@
     "leaders-calm-becomes-the-teams-calm",
     "reducing-overwhelm-in-organizations"
   ],
-  "im-afraid-ill-revert-to-my-old-pattern": [
-    "im-burned-out",
-    "treating-it-as-a-decision-when-its-an-emotion",
-    "whats-the-emotion-youre-trying-to-avoid",
-    "quit-hope-lose-cycle",
-    "point-at-the-present-evidence",
-    "voice-creates-what-it-fears"
-  ],
   "symptoms-of-depression": [
     "im-depressed",
     "depression-four-levels",
@@ -5926,6 +6107,7 @@
     "inner-critic-prevents-rest-and-integration",
     "see-whats-right-to-build-on-it",
     "self-aggression-permits-others-aggression",
+    "self-boundary-mirrors-external-boundary",
     "self-judgment-protects-from-emotion",
     "triggers-reveal-your-own-beliefs",
     "trying-to-be-right-is-the-voice",
@@ -6091,6 +6273,7 @@
     "tools-to-change-not-love",
     "connection",
     "expanding-sense-of-self",
+    "false-front",
     "grief-as-gateway-to-self-love",
     "humility",
     "identity",
@@ -6169,7 +6352,9 @@
   ],
   "the-pulled-back-from-part-is-the-unloveable-part": [
     "im-fake-my-love-is-corrupt",
+    "false-front",
     "loving-all-parts",
+    "pointers-to-unseen-parts",
     "have-them-say-i-want-all-of-me-loved",
     "scan-body-for-what-cant-be-loved",
     "wheres-you-go-naming-the-retreat-from-connection",
@@ -6189,8 +6374,11 @@
   ],
   "have-them-say-i-want-all-of-me-loved": [
     "im-fake-my-love-is-corrupt",
+    "false-front",
     "loving-all-parts",
+    "pointers-to-unseen-parts",
     "scan-body-for-what-cant-be-loved",
+    "speak-the-welcoming-of-the-feared-state-aloud",
     "tell-it-to-god",
     "am-i-a-fake-coaching-session"
   ],
@@ -6414,6 +6602,7 @@
   "everyone-is-pretending": [
     "im-not-an-anxious-person",
     "anger-as-cover-for-deeper-emotion",
+    "false-front",
     "triggered-vs-big-emotion",
     "emile-three-relationships-with-fear",
     "predator-or-prey-hayes-valley"
@@ -6803,6 +6992,7 @@
     "convert-thought-to-time-bounded-listening",
     "extend-the-no-asshole-rule-inward",
     "is-the-shame-in-the-room-or-in-you",
+    "self-boundary-mirrors-external-boundary",
     "voice-creates-what-it-fears",
     "emotional-inquiry",
     "experimenting-with-the-voice",
@@ -6848,15 +7038,6 @@
     "rehearsing-conversations",
     "apply-view-to-the-voice",
     "fuck-the-right-answer"
-  ],
-  "extend-the-no-asshole-rule-inward": [
-    "my-inner-critic-wont-stop",
-    "whats-next-after-i-reached-my-big-goal",
-    "definition-of-asshole",
-    "voice-as-care",
-    "self-aggression-permits-others-aggression",
-    "list-who-you-subtly-blame",
-    "doug-hug-the-demon-financial-safety"
   ],
   "untruth-in-every-thought": [
     "my-inner-critic-wont-stop",
@@ -7320,6 +7501,7 @@
     "conflict-as-evolutionary-tension",
     "walking-on-eggshells",
     "just-be-yourself-and-see-what-happens",
+    "functional-vs-dysfunctional-relationship-configuration",
     "intra-dependent-vs-codependent",
     "walled-no-vs-open-hearted-limit",
     "agreements-renegotiate-as-you-change",
@@ -7436,9 +7618,11 @@
     "abandoning-self-while-speaking",
     "chasing-understanding-as-control",
     "ego-protection-as-need-to-be-understood",
+    "in-the-story-im-not-being-seen",
     "the-pulled-back-from-part-is-the-unloveable-part",
     "being-heard",
     "listening",
+    "the-desire-to-be-seen",
     "two-levels-of-hurt-in-being-misunderstood",
     "have-them-receive-your-listening",
     "invert-the-responsibility-for-understanding",
@@ -7524,6 +7708,7 @@
     "abandoning-self-while-speaking",
     "being-heard",
     "listening",
+    "the-desire-to-be-seen",
     "two-levels-of-hurt-in-being-misunderstood",
     "have-them-receive-your-listening",
     "invert-the-responsibility-for-understanding",
@@ -7537,24 +7722,6 @@
     "put-attention-in-inner-ear",
     "joe-and-lowell-tuttle",
     "savannah-misunderstood-session"
-  ],
-  "im-afraid-of-offending-people": [
-    "abandoning-self-while-speaking",
-    "chasing-understanding-as-control",
-    "ego-protection-as-need-to-be-understood",
-    "looking-for-whats-wrong",
-    "the-built-up-resentment-story",
-    "how-else-would-you-heal-your-shame",
-    "shame-as-disconnection",
-    "the-shame-avoidance-loop",
-    "the-want-to-fit-in-vs-want-to-be-extraordinary",
-    "calibrate-the-threshold",
-    "press-the-button-thought-experiment",
-    "trigger-the-shame-live",
-    "conflict-avoidance-prevents-healing",
-    "self-abandonment-to-manage-the-other",
-    "the-emotional-experience-decides-the-channel",
-    "trust-requires-conflict"
   ],
   "embrace-vs-brace": [
     "absence-of-resistance-to-the-suck",
@@ -7903,15 +8070,6 @@
     "the-smile-of-recognition",
     "will-chesney-seal-collapse-and-return"
   ],
-  "let-it-move-through-and-clean-the-channel": [
-    "humility-in-the-system",
-    "humility",
-    "two-levels-of-hurt-in-being-misunderstood",
-    "receive-the-projection-and-let-it-move-through",
-    "use-the-live-group-as-love-field",
-    "from-looking-for-love-to-being-love",
-    "surround-yourself-with-people-who-make-fun-of-you"
-  ],
   "humility": [
     "humility-in-the-system",
     "identity",
@@ -7937,6 +8095,7 @@
   ],
   "humility-vs-disempowerment": [
     "humility-in-the-system",
+    "dont-call-them-a-liar-with-deflection",
     "humility",
     "let-it-move-through-and-clean-the-channel",
     "the-arrogantly-humble-paradox",
@@ -7954,6 +8113,45 @@
     "honor-the-patterns-intent",
     "wanting-got-wired-to-unlovability"
   ],
+  "the-desire-to-be-seen": [
+    "in-the-story-im-not-being-seen",
+    "being-heard",
+    "false-front",
+    "pointers-to-unseen-parts",
+    "say-of-course-i-just-want-to-be-seen-here",
+    "wanting-from-lack-vs-wanting-from-wholeness",
+    "see-yourself-and-acknowledge-others"
+  ],
+  "false-front": [
+    "in-the-story-im-not-being-seen",
+    "the-desire-to-be-seen",
+    "pointers-to-unseen-parts",
+    "see-yourself-and-acknowledge-others"
+  ],
+  "say-of-course-i-just-want-to-be-seen-here": [
+    "in-the-story-im-not-being-seen",
+    "being-heard",
+    "the-desire-to-be-seen",
+    "wanting-from-lack-vs-wanting-from-wholeness"
+  ],
+  "see-yourself-and-acknowledge-others": [
+    "in-the-story-im-not-being-seen",
+    "being-heard",
+    "the-desire-to-be-seen",
+    "pointers-to-unseen-parts",
+    "say-of-course-i-just-want-to-be-seen-here",
+    "wanting-from-lack-vs-wanting-from-wholeness"
+  ],
+  "pointers-to-unseen-parts": [
+    "in-the-story-im-not-being-seen",
+    "false-front",
+    "the-desire-to-be-seen",
+    "see-yourself-and-acknowledge-others"
+  ],
+  "wanting-from-lack-vs-wanting-from-wholeness": [
+    "in-the-story-im-not-being-seen",
+    "the-desire-to-be-seen"
+  ],
   "surrender-your-way-out-not-think-your-way-out": [
     "intellectualizing-as-the-form-of-control",
     "what-do-you-lose-if-this-belief-goes-away",
@@ -7967,7 +8165,8 @@
     "treating-it-as-a-decision-when-its-an-emotion",
     "give-me-a-good-attempt",
     "let-your-body-remember-this-moment",
-    "surrender-your-way-out-not-think-your-way-out"
+    "surrender-your-way-out-not-think-your-way-out",
+    "putting-someone-above-blocks-emotion"
   ],
   "mark-it-and-return-later": [
     "intellectualizing-as-the-form-of-control",
@@ -8025,6 +8224,7 @@
   "dont-try-to-change-your-partner": [
     "loyalty-under-low-affection",
     "dont-position-yourself-as-your-partners-growth-guide",
+    "boundaries",
     "so-they-attacked-you-how-do-you-want-to-be",
     "dont-meet-aggression-with-aggression",
     "dont-take-responsibility-for-anothers-happiness",
@@ -8037,6 +8237,7 @@
     "loyalty-under-low-affection",
     "aggression-amplifies-against-conflict-avoidance",
     "extend-the-no-asshole-rule-inward",
+    "self-boundary-mirrors-external-boundary",
     "triggers-reduce-when-you-know-you-can-leave",
     "tire-shop-guy-customer-container"
   ],
@@ -8235,6 +8436,7 @@
   "idea-of-self-vs-actual-self": [
     "scorecard-keeping-as-identity-structure",
     "conflict-avoidance-prevents-being-loved",
+    "false-front",
     "identity",
     "every-identity-has-limits",
     "loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor",
@@ -8336,6 +8538,7 @@
     "dont-indulge-emotion-instead-of-welcoming",
     "joy-as-matriarch",
     "three-stages-of-emotional-inquiry-maturity",
+    "speak-the-welcoming-of-the-feared-state-aloud",
     "love-the-anxiety-not-just-with-it",
     "feeling-changes-story",
     "good-decision-is-how-you-make-it-not-the-outcome",
@@ -8433,6 +8636,7 @@
     "heart-opening-needs-boundaries",
     "non-defense-is-the-ocean",
     "resentment-as-unspoken-want",
+    "self-boundary-mirrors-external-boundary",
     "subjugation-prevents-healing",
     "compassion-as-of-the-guts",
     "gandhi-isnt-weak",
@@ -8491,6 +8695,7 @@
     "how-is-my-anxiety-right-now",
     "dont-indulge-emotion-instead-of-welcoming",
     "anxiety-as-constricted-life-force",
+    "speak-the-welcoming-of-the-feared-state-aloud",
     "intimate-with-vs-giving-in-to-feeling",
     "friction-is-required-for-life",
     "emotional-inquiry",
@@ -8979,6 +9184,12 @@
     "dont-block-emotion-waiting-for-reason",
     "visualizing-feared-outcomes"
   ],
+  "how-do-i-stop-seeking-approval": [
+    "dont-call-them-a-liar-with-deflection",
+    "let-it-move-through-and-clean-the-channel",
+    "seeking-approval-pushes-people-away",
+    "chase-your-own-approval"
+  ],
   "move-the-body-to-integrate-insight": [
     "dont-cement-insight-as-identity",
     "activation-release-rest-cycle",
@@ -9237,6 +9448,7 @@
     "apply-the-clients-stuck-place-to-understand-the-other",
     "feel-the-love-then-feel-obligation",
     "if-you-couldnt-feel-this-whats-underneath",
+    "say-of-course-i-just-want-to-be-seen-here",
     "acceptance-is-not-love",
     "loss-of-control-and-loss-of-self-are-the-same",
     "love-arrives-when-youre-not-scared-of-losing-yourself",
@@ -9278,6 +9490,7 @@
     "nobody-wants-to-have-sex-with-a-kid",
     "relationships-as-personal-growth-path",
     "responsibility-stops-love",
+    "self-boundary-mirrors-external-boundary",
     "self-love-makes-the-decision",
     "take-care-of-yourself-then-marriage-then-kids",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
@@ -9751,6 +9964,7 @@
     "name-your-trigger-as-vulnerability",
     "owning-your-partiality",
     "state-the-want-not-the-action",
+    "wanting-from-lack-vs-wanting-from-wholeness",
     "leaders-wants-are-the-organizations-wants",
     "owning-the-want-dissolves-it",
     "resentment-as-unspoken-want",
@@ -9794,6 +10008,7 @@
     "gratitude-as-full-body-sport",
     "two-person-gratitude-practice",
     "base-jumping-broken-hand-gratitude",
+    "eating-but-not-digesting-the-food",
     "lottery-winners-vs-accident-survivors"
   ],
   "gratitude-as-full-body-sport": [
@@ -10133,6 +10348,7 @@
   "being-heard": [
     "apologies-as-power-struggle-surrogate",
     "listening",
+    "the-desire-to-be-seen",
     "two-levels-of-hurt-in-being-misunderstood",
     "ask-open-ended-non-judgmental-questions-when-triggered",
     "receive-the-apology-permeably",
@@ -10143,6 +10359,7 @@
     "you-cant-be-seen-when-youre-not-in-yourself",
     "eye-contact-as-view-training",
     "listen-as-the-wisest-person",
+    "see-yourself-and-acknowledge-others",
     "view"
   ],
   "parenting-as-real-world-test-of-inner-work": [
@@ -10398,7 +10615,8 @@
     "conflict-avoidance-prevents-being-loved",
     "energetic-system-as-fourth-layer",
     "soul-dysmorphia",
-    "listening-shapes-the-reality-that-comes-back"
+    "listening-shapes-the-reality-that-comes-back",
+    "eating-but-not-digesting-the-food"
   ],
   "sensitivity-as-byproduct": [
     "connection-as-family-metric",
@@ -10867,13 +11085,10 @@
     "gratitude-as-healing-medicine",
     "punishing-the-remembering",
     "wealth-identity-shift",
+    "see-yourself-and-acknowledge-others",
     "two-person-gratitude-practice",
     "5-ways-to-stay-unhappy",
     "money-domain"
-  ],
-  "two-person-gratitude-practice": [
-    "gratitude-as-full-body-sport",
-    "gratitude-rounds-before-meetings"
   ],
   "joes-friend-yuma-grief-drives": [
     "grief-as-gateway-to-self-love",
@@ -10941,7 +11156,8 @@
     "apologize-to-exit-a-fight",
     "let-it-move-through-and-clean-the-channel",
     "welcome-the-shame-without-extracting",
-    "sorry-from-shame-vs-sorry-as-solidarity"
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "eating-but-not-digesting-the-food"
   ],
   "receive-the-projection-and-let-it-move-through": [
     "humility",
@@ -11118,6 +11334,7 @@
   ],
   "im-judgmental-how-do-i-stop": [
     "letting-judgment-in",
+    "pointers-to-unseen-parts",
     "notice-what-judgment-costs-you-and-what-you-actually-want",
     "judgment-hurts-the-judger"
   ],
@@ -11250,6 +11467,7 @@
   "love-the-aspect-through-someone-else": [
     "loving-all-parts",
     "projections",
+    "pointers-to-unseen-parts",
     "five-triggers-projection-experiment",
     "self-forgiveness-as-spoken-move"
   ],
@@ -11277,6 +11495,7 @@
   ],
   "poverty-mentality": [
     "money-as-surrogate",
+    "wanting-from-lack-vs-wanting-from-wholeness",
     "money-must-flow",
     "wealth-identity-shift",
     "money-domain"
@@ -11533,6 +11752,7 @@
   ],
   "feeling-the-want-as-emotion": [
     "the-want",
+    "wanting-from-lack-vs-wanting-from-wholeness",
     "wanting-vs-craving",
     "owning-the-want-dissolves-it",
     "wants-change-as-you-change",
@@ -12095,13 +12315,6 @@
     "aristotle-project",
     "the-horticulture-train-ride"
   ],
-  "letting-it-in-vs-deflecting-the-welcome": [
-    "have-them-receive-your-listening",
-    "let-it-move-through-and-clean-the-channel",
-    "welcoming-the-others-emotion",
-    "from-looking-for-love-to-being-love",
-    "sadie-christopher-anger-together"
-  ],
   "speak-from-listening": [
     "have-them-receive-your-listening",
     "listen-to-yourself-ten-percent-more",
@@ -12130,6 +12343,9 @@
     "feared-consequences-rarely-happen",
     "triggers-reduce-when-you-know-you-can-leave",
     "aaron-de-la-salle-first-day"
+  ],
+  "eating-but-not-digesting-the-food": [
+    "let-it-move-through-and-clean-the-channel"
   ],
   "the-opposite-of-trying": [
     "let-it-move-through-and-clean-the-channel"
@@ -12201,6 +12417,11 @@
     "joes-extemporaneous-vc-speech",
     "speaking-authentically"
   ],
+  "the-smile-of-recognition": [
+    "speak-the-welcoming-of-the-feared-state-aloud",
+    "talk-to-the-part-that-knows",
+    "what-we-fear-we-invite"
+  ],
   "welcome-the-shame-without-extracting": [
     "state-no-wish-for-their-shame",
     "dont-shame-kids-they-self-shame"
@@ -12213,9 +12434,6 @@
   ],
   "name-the-pattern": [
     "surface-the-assumed-dichotomy"
-  ],
-  "the-smile-of-recognition": [
-    "talk-to-the-part-that-knows"
   ],
   "talk-to-your-parts-and-ask-for-trust": [
     "talk-to-the-part-that-knows",
@@ -12299,6 +12517,9 @@
     "empathy-makes-you-better-at-hard-jobs",
     "ceo-pajama-house-study",
     "will-chesney-seal-collapse-and-return"
+  ],
+  "losing-self-in-love-two-forms|Form B (self-abandonment)": [
+    "functional-vs-dysfunctional-relationship-configuration"
   ],
   "what-if-i-dont-want-to-be-in-view": [
     "hold-a-perspective-without-thinking-youre-right"
@@ -12747,6 +12968,9 @@
     "see-whats-right-to-build-on-it",
     "gratitude-around-the-problem"
   ],
+  "no-asshole-rule": [
+    "self-boundary-mirrors-external-boundary"
+  ],
   "chips-fall-where-the-chips-fall": [
     "self-love-makes-the-decision"
   ],
@@ -12811,6 +13035,9 @@
     "wants-change-as-you-change"
   ],
   "target-fixation": [
+    "what-we-fear-we-invite"
+  ],
+  "press-the-button-thought-experiment#The Past-Suffering Form: Would You Erase What You Went Through?|past-suffering form": [
     "what-we-fear-we-invite"
   ],
   "joes-daughter-new-boyfriend-fear": [

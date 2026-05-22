@@ -4,8 +4,8 @@ id: boundaries
 title: "Boundaries"
 aliases: ["what a boundary is", "setting boundaries", "drawing boundaries", "boundary", "Joe's definition of boundaries", "the boundary teaching", "how Joe defines boundaries", "good boundaries", "effective boundaries", "loving boundaries"]
 tags: ["boundaries", "love", "empowerment", "vulnerability", "relationships", "fear"]
-related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise"]
-sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9"]
+related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise", "self-boundary-mirrors-external-boundary", "withdrawal-with-vs-without-a-timeline", "dont-try-to-change-your-partner"]
+sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9", "2024-08-05_How to Draw HEALTHY Boundaries"]
 ---
 
 # Boundaries
@@ -49,6 +49,20 @@ Three features of this example matter:
 
 See [[withdrawal-with-vs-without-a-timeline]].
 
+## The Boundary Holds Regardless of Their Reaction
+
+A clean boundary does not depend on the other person agreeing with it, accepting it, or responding well to it. The boundary is what you will do. Their reaction does not change what you will do.
+
+Joe describes the realization with his wife when they were learning this:
+
+"One of us would say, 'Hey, I'm gonna walk away. I'll be back in 10 minutes.' And the other one would get even more angry. And I realized like, 'Oh, get angry as you want. I'm just, I'm gonna walk away either way. Like it's all good. I don't need to stop your anger. I just need to stop listening to it for a while so that I can be back in myself.'" -- Joe Hudson, How to Draw HEALTHY Boundaries
+
+This is the structural difference between a boundary and a negotiation. A negotiation is contingent on the other party agreeing. A boundary is not. The boundary may produce a response Joe describes as "even more angry" -- and the boundary still holds. The person walks away anyway.
+
+The implication for the speaker's internal state: you do not need to stop their reaction. You do not need to manage their anger. You just need to do what you said you would do. The relief is significant. The energy that would otherwise go into managing their reaction can go into actually carrying out the boundary.
+
+This is also why the [[does-saying-it-increase-your-love|love test]] is asked of the speaker, not the receiver. The boundary's quality lives in the speaker's internal state before delivery, not in the receiver's response after.
+
 ## You Cannot Change Another Person
 
 The central anti-effort that boundaries replace: trying to change someone else's behavior because their behavior is making you feel something you do not want to feel.
@@ -59,6 +73,16 @@ The desire to change the other is the desire to outsource emotional responsibili
 
 The boundary is the cleaner move: take responsibility for your own emotions by deciding how you are going to respond.
 
+The indigenous saying Joe quotes captures the asymmetry of effort:
+
+"I would rather move a mountain than change a person because moving a mountain is easier." -- indigenous saying, quoted by Joe Hudson, How to Draw HEALTHY Boundaries
+
+"If you get into a place where you're trying to change the other person, it is an uphill battle the whole way, but you can control your behaviors every single time." -- Joe Hudson, How to Draw HEALTHY Boundaries
+
+The boundary moves the locus of effort from the impossible (changing someone else) to the available (deciding what you will do). The relief is structural. The effort becomes commensurate with the result instead of infinitely greater than it.
+
+See [[dont-try-to-change-your-partner]] for the anti-pattern this principle dissolves.
+
 ## Boundaries Mirror Self-Love
 
 Anytime you want someone else to be different, you are showing yourself a place you cannot love yourself.
@@ -66,6 +90,26 @@ Anytime you want someone else to be different, you are showing yourself a place 
 "If you're not capable of loving somebody for who they are, then what that really means is that you're incapable of loving that part of yourself. I really want them to be happy means I can't love my own sadness. I really want them to be more faithful to me is, it's like there's some part of yourself that can't love either and/or your desires that are outside of the relationship or the love yourself in a way that you can get what you deserve." -- Joe Hudson, What's So Scary About Boundaries?
 
 This does not mean accepting any behavior. The boundary can still be: "I love you just the way you are. And the way you are is not the relationship I want." Loving the person fully and choosing not to be in the relationship are not contradictory. Both are clean.
+
+The mirror is structural in the other direction too: external boundaries are bottlenecked by internal boundaries. The behaviors you tolerate from your own internal voice you will tolerate from others. See [[self-boundary-mirrors-external-boundary]].
+
+"If we yell at ourselves, it's hard for us to see that it's not okay for somebody else to yell at us. If we criticize ourselves all the time, then it's hard for us to draw a boundary with somebody who's constantly criticizing us." -- Joe Hudson, How to Draw HEALTHY Boundaries
+
+This is why boundary work that ignores the internal relationship often fails. The person learns the technique and still cannot draw the boundary in the moment. The internal standard is what authorizes or refuses the external behavior.
+
+## Fear of the Attack Is Often Uncertainty About the Boundary
+
+The fear that the other person will attack you when you draw a boundary -- get angry, retaliate, withdraw -- is often not really fear of the attack. It is uncertainty about whether you are allowed to draw the boundary at all.
+
+"You only care about the response when you aren't firm on your own boundary, when you're not okay with your own boundary, when you say, 'No, it's not okay for me to leave,' or, 'It's not okay for me to take care of myself.' That's the only time you're really scared of an attack." -- Joe Hudson, How to Draw HEALTHY Boundaries
+
+The diagnostic: if the fear of the attack is significant, the boundary is not yet held internally. The work is on being okay with the boundary yourself, not on developing techniques to manage the other's response.
+
+"If you can't overcome your fear of the attack, if you can't get over the idea that they're gonna run over your boundary or they're gonna attack you, then the real work is to be okay with the boundary yourself. To say, yeah, it's okay for me to walk away if someone's yelling." -- Joe Hudson, How to Draw HEALTHY Boundaries
+
+When the boundary is firmly held inside, the attack becomes irrelevant. The person leaves anyway. The attack does not have a place to land.
+
+See [[self-boundary-mirrors-external-boundary]] for the underlying principle.
 
 ## Boundaries Are Scary on Both Sides of the Outcome
 

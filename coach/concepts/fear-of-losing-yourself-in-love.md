@@ -5,7 +5,7 @@ title: "Fear of Losing Yourself in Love (The Real Fear Underneath Fear of Intima
 aliases: ["fear of losing yourself in love", "fear of losing oneself in love", "fear of intimacy is fear of losing self", "fear of commitment is fear of losing self", "the real fear underneath fear of intimacy", "the real fear underneath fear of commitment", "loss-of-self fear in partnership", "the losing-self fear", "scared of disappearing in a relationship", "scared of becoming who my parents were in love", "scared of becoming a monster in love", "scared of the codependent version of myself", "scared of jealousy taking over", "the loss-of-self fear under commitment phobia"]
 tags: ["love", "intimacy", "commitment", "fear", "identity", "boundaries", "self"]
 related: ["i-cant-find-love", "push-pull-dynamics-in-dating", "love-misconceptions-inherited-from-childhood", "anxious-avoidant-dynamic", "complementary-trauma-surfaces", "losing-self-in-love-two-forms", "heart-opening-needs-boundaries", "knowing-yourself-is-the-only-safety", "transactional-relationships-as-defense", "self-reliance-pushes-people-away", "i-have-to-do-it-all-myself"]
-sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # Fear of Losing Yourself in Love
@@ -149,3 +149,5 @@ Matter-of-fact, almost diagnostic. The naming of the fear is not soft. Joe state
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

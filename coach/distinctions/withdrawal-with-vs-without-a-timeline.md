@@ -5,7 +5,7 @@ title: "Withdrawal With a Timeline vs. Withdrawal Without One"
 aliases: ["leaving with a timeline", "the 20 minute promise", "stonewalling vs taking space", "I'll be back in 20 minutes", "punishment by withdrawal vs taking space", "leaving as punishment vs leaving to take care of self", "abandonment vs space", "the timeline distinguishes withdrawal types"]
 tags: ["distinction", "relationships", "withdrawal", "abandonment", "anger", "boundaries", "communication"]
 related: ["anger", "get-angry-in-the-car", "dont-do-emotion-at-people", "boundary-with-vs-boundary-against", "weaponized-not-caretaking"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-08-05_How to Draw HEALTHY Boundaries"]
 ---
 
 # Withdrawal With a Timeline vs. Withdrawal Without One
@@ -39,6 +39,20 @@ The timeline is not a logistical detail. It is the marker that distinguishes:
 The person being left cannot read the inside of the leaver's intent. They can read whether they have been given a frame inside which to wait. The frame is the signal.
 
 A timeline also requires the leaver to actually mean it. "Give me 20 minutes" is a commitment to return. The person who is leaving as punishment cannot give a clean timeline because the not-coming-back is the point.
+
+## The Abandonment Mechanism in the Boundary Context
+
+In the boundary teaching, the same distinction appears with a sharper consequence named: when leaving lands as abandonment, it entrenches the very behavior the boundary was supposed to address.
+
+"You always tell somebody when you're gonna be back, because if you don't tell them that, it feels like abandonment. So you never wanna have the person feel abandoned because that's only gonna entrench the behavior 'cause they get even more scared and it's even more of a power struggle." -- Joe Hudson, How to Draw HEALTHY Boundaries
+
+The mechanism: a boundary intends to interrupt a behavior pattern (yelling, contempt, manipulation). If the leaving lands as abandonment, the other person's fear increases. The fear amplifies the original behavior. The boundary that was supposed to create more space for the relationship has just intensified the dynamic it was meant to address.
+
+The timeline is what prevents this. Without it, the boundary works against itself. With it, the boundary creates space without producing escalation.
+
+"You just wanna let them know that you'll be back when the conditions are right, when you are comfortable and safe and feel good about coming back, which really helps you refine the thought process that it is about what you're gonna do, not what they're gonna do." -- Joe Hudson, How to Draw HEALTHY Boundaries
+
+The framing also disciplines the leaver. Stating the conditions of return ("when I'm comfortable and safe and feel good about coming back") forces the leaver to articulate what they are actually doing. The articulation prevents the leaving from drifting into punishment.
 
 ## Connection to Anger Work
 

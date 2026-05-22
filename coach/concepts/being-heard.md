@@ -2,10 +2,10 @@
 type: concept
 id: being-heard
 title: "Being Heard"
-aliases: ["feeling heard", "I don't feel heard", "fully heard", "the need to be heard", "being understood", "feeling understood", "being seen as a giver"]
-tags: ["connection", "communication", "resistance", "teams", "productivity"]
-related: ["view", "empathy", "how-what-questions", "impartiality", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move", "two-levels-of-hurt-in-being-misunderstood", "you-cant-be-seen-when-youre-not-in-yourself", "i-keep-feeling-misunderstood"]
-sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Introduction to VIEW", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)"]
+aliases: ["feeling heard", "I don't feel heard", "fully heard", "the need to be heard", "being understood", "feeling understood", "being seen as a giver", "I just want to be seen and heard", "under most fights is I just want to be seen and heard", "the universal want under conflict", "the seeing-and-hearing want underneath", "want to be seen and heard"]
+tags: ["connection", "communication", "resistance", "teams", "productivity", "seeing", "conflict"]
+related: ["view", "empathy", "how-what-questions", "impartiality", "listening", "listening-shapes-the-reality-that-comes-back", "wanting-others-to-listen-is-the-block", "the-last-to-speak-move", "two-levels-of-hurt-in-being-misunderstood", "you-cant-be-seen-when-youre-not-in-yourself", "i-keep-feeling-misunderstood", "the-desire-to-be-seen", "say-of-course-i-just-want-to-be-seen-here", "see-yourself-and-acknowledge-others"]
+sources: ["2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Introduction to VIEW", "2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session)", "2024-08-16_The Desire To Be Seen with Tara Howley"]
 ---
 
 # Being Heard
@@ -42,6 +42,18 @@ The work in such cases is not to find someone who finally sees them. It is to le
 
 Joe states the structural principle directly when the speaker has vacated their own body while complaining of not being seen: "You can't be seen or heard when you're not in yourself. How could I ever see you? You're not you. You're running away from yourself to manage me." See [[you-cant-be-seen-when-youre-not-in-yourself]] for the principle in full and [[i-keep-feeling-misunderstood]] for the concern this principle most often answers.
 
+For the broader treatment of the desire-to-be-seen as a biological need running from infancy onward, see [[the-desire-to-be-seen]]. For the in-the-moment move that softens the chronic hunger, see [[say-of-course-i-just-want-to-be-seen-here]]. For the daily practice that addresses the hunger from the only direction the person controls, see [[see-yourself-and-acknowledge-others]].
+
+## The Universal Want Underneath Most Fights
+
+A diagnostic shorthand that holds across marriages, boardrooms, founder splits, parent-child conflicts, coach-client friction: under most fights is "I just want to be seen and heard." Two people, each running the want, each frustrated that the other is not meeting it, each responding to the frustration in a way that makes the other less able to meet it.
+
+"Under most fights, most boardroom fights, most couples fights, is this: I just want to be seen and heard. And you're not seeing me, you're not hearing me on both sides. It takes two sides, right? And that's, but that basic need is there and is creating the conflict." -- Tara Howley, The Desire To Be Seen
+
+This is why content-focused conflict resolution often fails to dissolve the conflict. The dispute is not really about the content. The content is the surface where the unmet seeing-and-hearing need is being negotiated. When both people get fully heard, the apparent disagreement frequently dissolves, because the dispute was never about the position; it was about needing the seeing to land before the position could be relaxed.
+
+The clinical move in the room: when a fight is escalating about content, name the layer underneath. "It sounds like both of you are wanting to be seen here, and the fight is happening because neither of you feels seen by the other." The naming often produces an immediate de-escalation, because the substrate need is now in the room as the explicit topic instead of leaking through the disagreement.
+
 ## The Two-Layer Wound
 
 A diagnostic Joe makes for the deeper version of unheardness: there are usually two layers of hurt stacked on top of each other. The first is the obvious one — *I did not feel understood*. The second is rarely named — *the goodness I was bringing was not recognized*. The first is about content. The second is about the giver. See [[two-levels-of-hurt-in-being-misunderstood]] for the full teaching.
@@ -67,3 +79,4 @@ The second-layer hurt explains why content-focused communication advice fails to
 - 2022-10-26_Father Figures And Authority (Coaching Session)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2024-04-12_How Do I Stop Being Misunderstood? (Coaching Session) (the principle that you cannot be seen when you are not in yourself; the two-layer hurt of not being received as both content and giver)
+- 2024-08-16_The Desire To Be Seen with Tara Howley (the diagnostic that under most fights, in marriages and boardrooms, is "I just want to be seen and heard"; the bidirectional nature of the unmet need in conflict)

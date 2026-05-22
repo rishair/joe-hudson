@@ -4,7 +4,7 @@ id: surrender-your-way-out-not-think-your-way-out
 title: "Surrender Your Way Out, Don't Think Your Way Out (Block the Cognitive Exit, Insist on the Felt One)"
 aliases: ["surrender your way out not think your way out", "let's assume for a second you can't think your way out of this", "you can't think your way out of this", "the surrender redirect", "the no-thinking-your-way-out instruction", "stop trying to think your way out", "surrender your way out", "the surrender-instead-of-think instruction", "the block-the-cognitive-exit move", "the assume-you-cant-think-your-way-out move", "redirect from cognitive resolution to surrender", "the I'll-go-there-just-not-in-the-head move", "the not-in-the-head redirect", "the from-that-place redirect", "the don't-go-into-your-head-with-me move", "the not-the-head move", "the block-the-intellectualization move", "the cognitive exit closed move", "the close-the-head-exit move"]
 tags: ["surrender", "intellectualization", "cognitive bypass", "embodiment", "move", "control"]
-sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
+sources: ["2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)", "2024-08-02_When Will I Be Enough? (Coaching Session)"]
 ---
 
 # Surrender Your Way Out, Don't Think Your Way Out
@@ -128,3 +128,4 @@ The vigilance throughout the session is patient. Joe does not get frustrated whe
 ## Sources
 
 - 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)
+- 2024-08-02_When Will I Be Enough? (Coaching Session) -- same session, alternate transcript title

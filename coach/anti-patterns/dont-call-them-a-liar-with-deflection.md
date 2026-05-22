@@ -1,0 +1,83 @@
+---
+type: anti-pattern
+id: dont-call-them-a-liar-with-deflection
+title: "Don't Deflect Compliments (You're Calling Them a Liar)"
+aliases: ["don't call them a liar with deflection", "deflecting a compliment is calling them a liar", "you're telling them they're a liar", "the polite-thank-you-while-still-thinking-they're-a-liar", "deflecting compliments is rude", "deflecting compliments costs them", "the deflection-as-disagreement anti-pattern", "deflection contradicts the giver", "saying thank you while disbelieving is still deflection", "the polite-deflection trap", "the polite-disbelief deflection", "the I'll-be-polite-but-disbelieve move", "no I'm not the pretty one move", "the you're-the-pretty-one deflection", "deflecting hurts the giver", "the compliment-giver felt rejection", "the giver stops giving compliments after deflection", "the deflection costs the relationship", "the unreceived compliment as rejection of the giver", "saying thank you is not enough you have to receive"]
+tags: ["compliments", "anti-pattern", "approval", "humility", "deflection", "smallness", "self-deprecation"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free"]
+---
+
+# Don't Deflect Compliments (You're Calling Them a Liar)
+
+## The Anti-Pattern
+
+A compliment arrives. The instinct, especially in the approval-seeking person, is to deflect: "oh no, you're the pretty one," "no, it wasn't really me," "you're being too kind," "I didn't really do that much." Each of these responses is socially coded as humility. Structurally, each is the same move: telling the person who gave the compliment that they are lying.
+
+"Oh, I'm not pretty. You're the pretty one. Oh, you know, oh, that's not really true. I'm not that pretty. They do something like that, which is basically telling the person who gave you a compliment that they're a liar." -- Joe Hudson, STOP Chasing Approval
+
+The deflector usually does not see this. They believe they are being modest. Often the modesty is socially trained — "don't get a big head" was the lesson. The lesson installed a script that the deflector now runs reflexively. The script is, structurally, an accusation of dishonesty against the person trying to honor them.
+
+## The Polite Version Is Still the Anti-Pattern
+
+A specific failure mode is the polite-thank-you-with-internal-disbelief move. The deflector hears the lesson "don't call people liars when they compliment you" and decides to say "thank you" while still internally not receiving the compliment. The verbal deflection has stopped. The somatic deflection continues. The structural problem persists.
+
+"And the thing that I did was I was like, oh, thank you. Which was like, I'm still thinking you're a liar, but I'm gonna be polite about it, right?" -- Joe Hudson, STOP Chasing Approval
+
+The polite version is a half-measure that allows the deflector to feel like they have addressed the issue while keeping the actual structure intact. The compliment still does not land. The giver still feels the absence. The deflector still maintains the smallness identity. The only thing that has changed is the surface politeness.
+
+The genuine move requires the somatic receiving — letting the compliment actually touch the body, actually land where it would normally have been deflected, actually move through. See [[let-it-move-through-and-clean-the-channel]].
+
+## Why It Fails
+
+Three specific costs:
+
+**It rejects the giver.** The person giving the compliment offered something real. They saw something. They expressed it. Being told "no, that's not true" is being told their perception was wrong. The compliment was an act of contact. The deflection is the breaking of the contact. The giver feels it as rejection.
+
+**It teaches the giver to stop giving.** A compliment that does not land registers as wasted effort. The giver may not consciously decide to stop, but the body learns: with this person, my acts of appreciation do not work. Over time, the compliments stop arriving. The deflector then sometimes reports feeling unappreciated, unrecognized, unloved. The deflection itself was producing the absence.
+
+**It compounds the smallness identity.** Each deflection reinforces the internal story that the compliment was not warranted. The identity ("I am not enough," "I am not pretty," "I am not capable") gets one more piece of self-confirming evidence. The deflection is not protecting against the inflation of ego; it is protecting against the dissolution of the deflated identity. The deflected compliment was the substance that would have dissolved the smallness. By deflecting, the smallness gets to stay.
+
+## What Joe Says Instead
+
+The corrective move is not "say thank you." That can be the polite-disbelief deflection. The corrective is the somatic receiving — letting the compliment move all the way through the body, without blocking it, without redirecting it, without minimizing it.
+
+"What if I actually let this in? And when I let it in, it just like hit me over and over again. Sometimes it made me cry. Sometimes it made me laugh. Sometimes it tickled me, but I let it move all the way through my body." -- Joe Hudson, STOP Chasing Approval
+
+The full move is documented in [[let-it-move-through-and-clean-the-channel]]. The short version: when a compliment arrives, notice the deflection impulse, do not act on it, let the compliment land in the body, let whatever wants to move through the body move through. Often the result is some combination of crying, laughing, tickling, discomfort, and, eventually, a felt sense of being fed by something that has been being refused for years.
+
+The verbal accompaniment can be simple. "Thank you" delivered while the receiving is actually happening is enough. The words are not the point. The somatic landing is the point. The words follow from the landing or do not need to be there at all.
+
+## The Joe-Hudson Origin Story
+
+The teaching has Joe's autobiographical evidence behind it. The realization that he had been calling people liars produced the specific shift.
+
+"For me in that journey, when I realized that I was calling people liars, I felt like such an asshole that I was like, oh my gosh, I'm gonna start allowing these compliments and just saying thank you. And the thing that I did was I was like, oh, thank you. Which was like, I'm still thinking you're a liar, but I'm gonna be polite about it, right? That's what was happening for me. And then I was like, wait a second, what if I actually let this in?" -- Joe Hudson, STOP Chasing Approval
+
+The arc: noticing the calling-them-a-liar move, switching to polite-thank-you, recognizing the polite version was still the same problem, finally moving to actual somatic receiving. The arc is worth offering to clients who are working on this — most people stop at the polite-thank-you and believe they have done the work. The actual work is one more layer in.
+
+## Joe's Words
+
+- "Oh, I'm not pretty. You're the pretty one. They do something like that, which is basically telling the person who gave you a compliment that they're a liar." -- Joe Hudson, STOP Chasing Approval
+- "If you don't receive the compliment, guess what it feels like to the person giving you the compliment? It feels like shit. Why would I keep giving you compliments if you don't actually receive them, if you don't enjoy them?" -- Joe Hudson, STOP Chasing Approval
+- "When I realized that I was calling people liars, I felt like such an asshole." -- Joe Hudson, STOP Chasing Approval
+
+## Upstream (What Leads Here)
+
+- When a client deflects a compliment in the session
+- When a client describes feeling unappreciated or unrecognized
+- When the work on [[how-do-i-stop-seeking-approval]] reaches the receiving move
+- When [[let-it-move-through-and-clean-the-channel]] is being taught and the cost of the deflection needs to be named
+- When the client is using "humility" as the justification for the deflection (see [[humility-vs-disempowerment]])
+- When a client's spouse, friend, or team has stopped offering compliments
+
+## Downstream (Where This Leads)
+
+- Toward [[let-it-move-through-and-clean-the-channel]]: the corrective somatic move
+- Toward [[seeking-approval-pushes-people-away]]: the structural reason the deflection costs the relationship
+- Toward [[humility-vs-disempowerment]]: the distinction that exposes the deflection as smallness-protection rather than humility
+- Toward [[letting-it-in-vs-deflecting-the-welcome]]: the parallel read for partners and love
+- Toward [[chase-your-own-approval]]: the eventual destination once the receiving channel works
+
+## Sources
+
+- 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source of the "calling them a liar" framing, the polite-thank-you-while-disbelieving sequence, and the autobiographical arc from polite deflection to actual receiving)

@@ -2,10 +2,10 @@
 type: distinction
 id: love-the-anxiety-not-just-with-it
 title: "Loving the Anxiety vs. Being With the Anxiety"
-aliases: ["loving vs being with", "be with anxiety vs love anxiety", "love it not just sit with it", "the be-with trap", "I can't wait to be anxious again", "looking forward to anxiety", "loving the emotion not just observing it"]
-tags: ["anxiety", "loving", "welcoming", "meditation", "subtle management", "distinction"]
-related: ["embrace-vs-brace", "trying-to-get-rid-of-the-emotion", "love-is-the-best-change-agent", "can-you-look-forward-to-feeling-it", "feeling-the-unfelt-emotion", "loving-to-transform", "anxiety-as-constricted-life-force", "observe-vs-move-emotion"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
+aliases: ["loving vs being with", "be with anxiety vs love anxiety", "love it not just sit with it", "the be-with trap", "I can't wait to be anxious again", "looking forward to anxiety", "loving the emotion not just observing it", "I can't wait to be depressed again", "love the depression not just be with it", "loving the feared state vs being with it", "the welcoming-aloud test"]
+tags: ["anxiety", "loving", "welcoming", "meditation", "subtle management", "distinction", "depression", "feared states"]
+related: ["embrace-vs-brace", "trying-to-get-rid-of-the-emotion", "love-is-the-best-change-agent", "can-you-look-forward-to-feeling-it", "feeling-the-unfelt-emotion", "loving-to-transform", "anxiety-as-constricted-life-force", "observe-vs-move-emotion", "speak-the-welcoming-of-the-feared-state-aloud", "press-the-button-thought-experiment", "what-we-fear-we-invite"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2024-08-09_I'm Afraid I'll Get Depressed Again"]
 ---
 
 # Loving the Anxiety vs. Being With the Anxiety
@@ -76,6 +76,25 @@ The deeper claim: loving the anxiety is the location of actual freedom.
 
 The being-with stance still contains a management agenda, however subtle. The loving stance has released the management agenda completely. The person is not managing themselves. They are simply alive with whatever is alive in them.
 
+## Generalizing to Any Feared Emotional State
+
+The distinction is named for anxiety because that is the original teaching context, but it operates on any emotional state the person has been afraid of recurring. The same "I can't wait to be X again" sentence form applies, with the specific feared word in the slot. The shift from being-with to loving happens through the same mechanism regardless of the object.
+
+The depression case is structurally identical to the anxiety case. A person who came through depression is being-with the possibility of its return: cautious, vigilant, organizing behavior to keep the depression away. The being-with stance functions as it always does -- the brain notices it is keeping the depression at bay, the practice becomes a strategy, the strategy fails. The shift to loving is the felt willingness for the depression to come back. "I can't wait to be depressed again." Said with a body that is no longer bracing, the sentence is the operative form of the love rather than the being-with.
+
+The depression-specific session ends with this exact sentence:
+
+- **Joe:** "So what is it like to say, I can't wait to be depressed again? Look at that smile. Just say it out, try it."
+- **Guest:** "Oh yeah."
+- **Joe:** "So yeah, let's do the experiment. I can't wait to be depressed again."
+- **Guest:** "I can't wait to be depressed again."
+- **Joe:** "What a pleasure."
+- *(Source: I'm Afraid I'll Get Depressed Again)*
+
+The sentence is the same operational test of love-vs-be-with that Joe applies to anxiety in the original teaching. The form generalizes. See [[speak-the-welcoming-of-the-feared-state-aloud]] for the dedicated move and its protocol across different feared states. The diagnostic for whether the shift has actually happened in any case: would the person speak the welcoming sentence aloud about their specific feared state, in their own mouth, with the body's smile already on their face? When yes, the shift from being-with to loving has occurred for that state.
+
+The principle the generalization rests on: any state the person is bracing against is one they are being-with at best, regardless of how welcoming the language sounds. Bracing reveals the underlying posture. The brace dissolves only when the welcoming becomes lived rather than performed -- when the person would happily greet the state's return. The same diagnostic applies in every domain. The same closing move (speak the welcoming aloud) instantiates the shift in every domain.
+
 ## How the Shift Happens
 
 The shift from being-with to loving is not produced by trying. Trying to love the anxiety produces a performance of love, which is just being-with in disguise.
@@ -111,3 +130,4 @@ Direct but unhurried. The distinction is offered without judgment of the being-w
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
+- 2024-08-09_I'm Afraid I'll Get Depressed Again (the distinction applied to depression: the depression case is structurally identical to the anxiety case in the original teaching; the same "I can't wait to be X again" sentence form is the operative diagnostic; the session ends on the guest speaking the welcoming aloud, the operational form of love-rather-than-be-with for the specific feared state)
