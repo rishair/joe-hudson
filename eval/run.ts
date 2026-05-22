@@ -378,7 +378,14 @@ async function cmdRun(opts: CliOpts, mode: "smoke" | "full"): Promise<number> {
     console.log(`  ${dim.padEnd(28)} ${agg.mean.toFixed(2)} (n=${agg.count})`);
   }
   console.log(`Output:                ${outDir}`);
-  console.log(`Cache:                 hits=${cache.hits} misses=${cache.misses}`);
+  console.log(`Local cache:           hits=${cache.hits} misses=${cache.misses}`);
+
+  // Anthropic prompt-cache statistics (separate from local file cache).
+  const liveCalls = api.callLog.filter((r) => !r.cached);
+  const totCacheRead = liveCalls.reduce((a, r) => a + r.cache_read_input_tokens, 0);
+  const totCacheWrite = liveCalls.reduce((a, r) => a + r.cache_creation_input_tokens, 0);
+  const totUncachedIn = liveCalls.reduce((a, r) => a + r.input_tokens, 0);
+  console.log(`Anthropic prompt cache: read=${totCacheRead.toLocaleString()} tokens  write=${totCacheWrite.toLocaleString()} tokens  uncached_input=${totUncachedIn.toLocaleString()} tokens`);
 
   return 0;
 }

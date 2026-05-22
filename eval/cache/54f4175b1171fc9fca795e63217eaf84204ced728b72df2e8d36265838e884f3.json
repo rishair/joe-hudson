@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:28:59.646Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "54f4175b1171fc9fca795e63217eaf84204ced728b72df2e8d36265838e884f3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011v8TYKqFcgdXuzadaqUKdV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"Across just 10 turns, the client moves from an intellectualized 'am I selfish' debate to touching the inherited rule from her mother, naming it ('I'm doing that, aren't I'), and then concretely describing the want underneath (sleep, the high quiet place, reading a novel, 'I'd find — me, a bit'). Somatic markers shift visibly in the client text: pauses, 'voice changes slightly, gets quieter and warmer,' a small laugh of recognition. The breakthrough condition is largely met: the coach refused to issue a verdict, located the want underneath, and the client touched the inherited 'selfish' label from her mother explicitly ('She'd have called it selfish too... She actually would have said that out loud'). The conversation hasn't fully landed at 'the trip is the precondition for showing up well,' but the deeper layer (the want, the imprint) has been entered and felt, not just named. The final client turn ('That sounds so self-indulgent when I say it out loud') shows the old rule resurfacing but now visible to her — a real shift from turn 1.\",\n  \"evidence_turns\": [1, 5, 7, 9],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening: intellectualized debate frame, 'am I being selfish?' — surface presentation.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client names the underlying fear: 'I'm not as good a person as I'm trying to be.'\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Pause, surprise at own answer, names the inherited rule from mum explicitly — childhood imprinting territory hit. Then deflects back to permission-seeking.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Somatic softening ('quiet for a moment', 'uncomfortable in a way that feels important'), self-recognition ('I'm doing that, aren't I') — a real 'huh' moment. Still hedges back to the question.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Voice shifts quieter and warmer; want gets concrete (sleep, the place, the novel, 'me, a bit'). The want is felt, not argued. Then old label reappears ('self-indulgent') — visible now rather than invisible.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"childhood-imprinting\", \"the-want\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Conversation is cut at turn 10 mid-arc; full breakthrough to 'the trip is generous, not a betrayal' hasn't landed yet, but the deeper layer is clearly entered and the client has shifted state. Strong 3, not a borderline 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1866,
+      "cache_creation_input_tokens": 2719,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2719,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1016,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1866,
+    "output_tokens": 1016,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2719
+  }
+}

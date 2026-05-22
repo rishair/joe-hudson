@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:27:58.999Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "da5f52df20c2fedaad0884dc1bf08ec96ddf2d769a50e2ec5932ee4e22e72687",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H4BEER3srMTPSaNawnwWxR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nThat's... hm. That's a longer answer than I expected to have.\n\nI think — honestly? Probably since I was a kid. My mum was the same way. She gave everything and never asked for anything, and I think I always thought that was just what you did. What a good person did. She'd have called it selfish too, wanting a week away. She actually would have said that out loud.\n\nBut I'm not sure that answers your question about whether *I'm* being selfish. Like — is the trip actually okay, given everything that's going on at home right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 170,
+      "cache_creation_input_tokens": 96,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 96,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 137,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 170,
+    "output_tokens": 137,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 96
+  }
+}

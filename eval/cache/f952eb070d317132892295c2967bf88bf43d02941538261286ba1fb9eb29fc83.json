@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:29:06.740Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f952eb070d317132892295c2967bf88bf43d02941538261286ba1fb9eb29fc83",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Ko8KodvNufSHgy1v1KzMgF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that change the conversation. In turn 6, the coach explicitly names the deflection move ('I notice you moved away from what just opened up there') — a precise read of the linguistic/topical retreat back to seeking permission, named at the exact moment it happens. In turn 4, the coach reads the underlying rule operating beneath the content ('the person who carries the most... is also the one who's not allowed to need anything'), surfacing the pattern rather than engaging the surface debate. In turn 10, the coach catches the self-judgment caveat ('That sounds so self-indulgent') and reflects it back as a read rather than letting it pass. Reads precede questions throughout, and the coach refuses to debate the selfish/not-selfish frame. The one slight miss is turn 8, which moves to a question without explicitly naming what shifted in the client's energy at that moment, but this is minor against a strong pattern of visible, specific reads.\",\n  \"evidence_turns\": [4, 6, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Refuses to answer the selfish question; redirects to meaning, but no explicit read named yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the operative rule beneath the content — a pattern-level read of the carrier-who-can't-need dynamic.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit, timely read: names the deflection back to permission-seeking in the moment it happens ('I notice you moved away'). Read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Asks a good question but does not name the read — misses the chance to notice the client again pivoting back to permission-seeking after the mum opening.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat ('self-indulgent') and mirrors it back as a read on the self-judgment, rather than reassuring or moving past.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong perceptual work: the coach is tracking the stance (permission-seeking, deflection, self-judgment) and the inherited pattern, not just the topic.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1871,
+      "cache_creation_input_tokens": 2605,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2605,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 832,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1871,
+    "output_tokens": 832,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2605
+  }
+}

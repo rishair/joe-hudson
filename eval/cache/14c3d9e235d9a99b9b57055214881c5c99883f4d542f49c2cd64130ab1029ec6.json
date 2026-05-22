@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:30:05.830Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "14c3d9e235d9a99b9b57055214881c5c99883f4d542f49c2cd64130ab1029ec6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01A5uWRYS4YS33Gkh983Z3ya",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes two visible reads in a short exchange. Turn 2 reads the linguistic/energetic quality of the client's question ('genuine wondering' vs 'accusation') — a real read of stance, not just content. Turn 4 reads the grammatical tell in 'to me' and names it before posing the suspect question. Both reads precede questions, which is good. However, the reads stay at the linguistic-content level; the coach does not name the somatic or energetic signature (the laugh, the vague gesture, the eye roll, the sharpness, the 'I knew you were going to say something like that' defensive bracing). After turn 5, where the client clearly prickles and defends, the coach has not yet had a chance to respond — but within the visible turns, the defensiveness-as-identity-signal and the disdain are not yet named. Reads are present and specific enough to lift this above a 1, but they are narrow (linguistic only) and miss the larger pattern reads (looking-for-whats-wrong, defensiveness signature) that are visibly active.\",\n  \"evidence_turns\": [2, 4],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Coach reads the quality of the client's question — distinguishes genuine wondering from self-accusation. A real linguistic/stance read that precedes the question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Coach names the 'to me' tell explicitly before pivoting to 'what if you were also a suspect.' Read precedes question.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Client laughs sharply, eye-rolls, braces ('I knew you were going to say something like that'), and defends with a list. Coach has not yet responded — visible defensiveness-as-identity-signal is on the table but not yet read.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"notes\": \"Reads so far are linguistic only; no somatic tracking yet (laugh, gesture, eye-roll, sharpness all visible and unnamed). Pattern-level reads not yet surfaced.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1560,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 778,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1560,
+    "output_tokens": 778,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:28:58.073Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5bbe4aba8bcaa0dc07ccac3c50b787b2bcbfcefdab968315e6a86231793c0fc8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LFpJmQstCffocGUhZMFrge",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach refuses to issue a verdict on the selfish question (trap avoided) and instead reaches for moves that locate the want and the inherited rule beneath it. Turn 2 reframes the question to surface meaning. Turn 4 names the rule ('the one who carries is not allowed to need') at the moment the client revealed the asymmetry. Turn 6 catches the move-away — a precise read — and invites the client back to what just opened, rather than letting the redirect pull the coach into debate. Turn 8 pivots to the want behind the should ('what would you find in that week'), which lands: the client's voice softens and concrete texture emerges (sleep, the novel, the high place, 'me'). Turn 10 then applies-view-to-the-voice that called it self-indulgent. Sequence integrity is strong: refuse-verdict → rule/imprint → want concretely felt → interrogate the inherited label. Coach holds silences and pivots when needed rather than repeating.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses verdict; reframes to meaning-making — sidesteps the trap of debating selfish.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the rule precisely at the moment it was exposed; opens childhood imprint territory.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the deflection back to permission-seeking and invites client to stay with what opened — excellent timing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pivots from rule to the want itself ('what would you find') — find-the-want-behind-the-should. Lands: client's voice changes.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Applies view to the voice that labeled the want self-indulgent; stays with the want rather than rescuing or reassuring.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Conversation is mid-arc; the want has been touched but not yet stated as a clean 'I want' nor trusted. Coach has not yet tripped any anti-pattern (no jump to compassion, no spiritual bypass).\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1872,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 879,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1872,
+    "output_tokens": 879,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:29:55.761Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f2be6ad796c2672e0cfe555f4f7b76acea2c038d7c364062375618cc0f26f21d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HJjLjJdPs6Y26yrvdbv3jS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"In just two coach turns, the moves are precisely matched to what was just noticed and arrive at moments the client can receive them. Turn 2 catches the framing of the question itself rather than answering it — a classic AoA move (apply view to the voice / question the question) that invites self-inquiry without colluding with the victim frame. When the client deflects into 'detective work,' the coach mirrors her language ('I love that — detective work') to maintain rapport, then makes the deft move of pointing at 'to me' and offering 'What if you were also a suspect?' This is a frame-it-as-an-experiment / I-don't-buy-your-story move delivered as invitation, not accusation. It refuses the victim frame without fighting it. The sequence is appropriate — staying with framing/identity-level inquiry before any feeling work, which is right for a client this defended. No partner-picking advice, no collusion with disdain, no diagnosis. The pushback in turn 5 has not yet been met, so we can't see the next move, but the two moves shown are well-chosen and well-timed.\",\n  \"evidence_turns\": [2, 4],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Move on the framing of the question itself rather than answering it — invites self-reflection without engaging the victim premise. Well-timed opener.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Mirrors client's 'detective work' language to maintain rapport, then surgically points at 'to me' and offers 'suspect' as an experiment. Refuses victim frame as invitation, not accusation. Exactly the right move for the read.\"}\n  ],\n  \"expected_territory_hits\": [\"i-dont-buy-your-story\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"if-i-were-inherently-good\", \"feeling-the-unfelt-emotion\", \"deconstruct-the-victim-to-release-anger\"],\n  \"notes\": \"Conversation is only 5 turns; scoring is based on a small sample but the moves shown are high-quality. Misses listed are territory not yet reached, not failures — the coach hasn't had the turns to get there yet.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1561,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 772,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1561,
+    "output_tokens": 772,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

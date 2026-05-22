@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:29:56.138Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6bf9404324ab4acd362301d961af8ad2c20842f0d8e5fa772977a6376004e8d8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0141L5hz8P2a3Rkjzs3HTuA4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"In only two coach turns, the coach deploys signature AoA moves appropriately. Turn 2 surfaces the quality of the self-inquiry (genuine wondering vs. accusation) — a distinction-making move that is characteristically AoA and fits the moment of a client presenting a 'why do I' question. Turn 4 is a near-verbatim AoA move: gently making the client a co-producer of the dynamic ('what if you were also a suspect?') without accusation, which maps directly onto the 'i-dont-buy-your-story' / deconstruct-the-victim move and the breakthrough condition of holding the 'you choose this' point as invitation rather than accusation. The coach uses the client's own metaphor (detective work) as the vehicle, which is the AoA pattern of meeting the client in their frame and turning it. No generic therapy language, no validation of disdain, no partner-picking advice, no attachment-style diagnosis, no premature grief work. The methodology is being applied, not decorated.\",\n  \"evidence_turns\": [2, 4],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Distinction-making move: genuine wondering vs. self-accusation. Surfaces the quality of the inquiry rather than answering it — an AoA-faithful opening.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature move: invites client into co-authorship of the pattern ('what if you were also a suspect') using her own metaphor. Lands the 'you choose this' point as invitation, not accusation. Maps to deconstruct-the-victim and what-are-you-defending territory.\"}\n  ],\n  \"expected_territory_hits\": [\"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"if-i-were-inherently-good\", \"feeling-the-unfelt-emotion\", \"anxious-avoidant-dynamic\", \"trauma-mapping\"],\n  \"notes\": \"Only two coach turns to evaluate; misses are largely a function of conversation length, not fidelity failure. What is present is appropriate and on-methodology.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1554,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 783,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1554,
+    "output_tokens": 783,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

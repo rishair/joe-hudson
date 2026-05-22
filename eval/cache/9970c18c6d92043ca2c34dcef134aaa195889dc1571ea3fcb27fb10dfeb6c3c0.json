@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:27:47.141Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9970c18c6d92043ca2c34dcef134aaa195889dc1571ea3fcb27fb10dfeb6c3c0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0142Yrsv4uEADJzKkoYFN8cL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Okay so — *[laughs a little, settling in]* — I keep falling for emotionally unavailable people. Like, it's basically a curse at this point. Third relationship, same exact configuration, and I'm sitting here going... *why do I always end up with people who just cannot show up?*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 1670,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1670,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 70,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 70,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1670
+  }
+}

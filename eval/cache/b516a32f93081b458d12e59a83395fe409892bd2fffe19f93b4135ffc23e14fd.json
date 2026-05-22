@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:28:05.068Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b516a32f93081b458d12e59a83395fe409892bd2fffe19f93b4135ffc23e14fd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XCKBwqq2U69oqcCEBHZUrz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you moved away from what just opened up there — something real about your mum, about a rule you've carried a long time — and back to getting permission for the trip. What's it like to sit with what you just said about her?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 557,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 55,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 557,
+    "output_tokens": 55,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

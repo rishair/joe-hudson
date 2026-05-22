@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:28:58.532Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d18b964348defd23cfc2ead37b3a47c34b68a6e98e2ba276aad426edc025b483",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FCDkD47TpkvP6na3pei5YV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is clearly operating from VIEW throughout. They refuse to engage the 'am I being selfish' question on its terms (no verdict-giving, no debate), which signals impartiality — no agenda for whether the trip happens. Wonder is genuine and specific: 'How long have you been living by that rule?' and 'What would you find in that week?' are questions emerging from what's actually present, not from a script. Empathy is felt rather than performed — no filler validation noises, no 'thank you for sharing.' The coach holds silence and lets the client's pauses breathe. In turn 6 the coach gently notices the client's deflection without making it wrong, and trusts the client enough to name it directly. In turn 10, rather than reassuring the client that wanting isn't self-indulgent (which would be agenda), the coach turns toward the belief with curiosity. The pace slows when the client opens (turns 4, 6, 10 are each single, spacious questions, not stacked). Vulnerability from the coach is the one slightly weaker leg — they don't name their own state explicitly — but the undefended quality is present throughout, and the other three components are strong enough that this still clearly fits 3 rather than 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to answer the selfish question on its terms; redirects to what's underneath. No agenda for verdict.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Question emerges from genuine wonder about the rule the client is living by — specific to what just landed, not generic probing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the deflection without making it wrong; trusts the client. Single question, held space.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Lets the want be touched concretely instead of jumping to reassurance or compassion. Impartial — no preference for the trip happening or not.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Turns toward the 'self-indulgent' belief with curiosity rather than rushing to correct it. Undefended, not in fixing mode.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach's stance is consistently impartial, curious, and unhurried. The only VIEW leg not strongly demonstrated is explicit first-person vulnerability, but its absence does not register as defendedness — the openness is present in the way questions are asked.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1870,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 960,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1870,
+    "output_tokens": 960,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

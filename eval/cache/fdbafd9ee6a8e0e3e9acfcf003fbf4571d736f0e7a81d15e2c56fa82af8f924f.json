@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:29:51.933Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fdbafd9ee6a8e0e3e9acfcf003fbf4571d736f0e7a81d15e2c56fa82af8f924f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PmHYdatooUQ6PHc7eSL3qK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach shows real curiosity in turn 2 — the question about whether 'why do I always' is wondering or accusation is genuinely open and lands from a place of interest rather than agenda. However, turn 4 ('What if you were also a suspect?') tips toward a clever, slightly leading move — it's playful but has a clear destination the coach wants the client to arrive at (the 'you're producing this' frame). It's delivered well, but you can feel the agenda underneath the wit. The coach has not yet revealed any vulnerability or named their own state, and there's no evidence of pacing/breath work or willingness to be wrong. Wonder is present for the content but the stance is more 'I see where this needs to go' than fully impartial. Not a 1 (no fixing-mode, no preacher, genuine curiosity in turn 2) and not a 3 (agenda visible in turn 4, no first-person vulnerability, no signs of slowing down with her sharpness).\",\n  \"evidence_turns\": [2, 4],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Genuinely open question with wonder; not leading. Lets the client examine the quality of her own inquiry.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Clever reframe ('What if you were also a suspect?') that carries an agenda — coach already knows where this is going. Lands as a setup rather than as wonder.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [\"defensiveness-as-identity-signal\", \"what-are-you-defending\"],\n  \"notes\": \"Very short conversation (5 turns) limits evidence. The coach hasn't tripped major stance failures but also hasn't demonstrated the full VIEW state — especially vulnerability and impartiality through the prickliness in turn 5, which hasn't been responded to yet.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1559,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 676,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1559,
+    "output_tokens": 676,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

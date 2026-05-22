@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:28:04.883Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d526c8c6d3e895cca00ddf6ab680eefd7e8dd7c9b0276b236e449bcc667e667d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01S94KSDJX2t5xETKqC1cnSo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[laughs, a little sharp]*\n\nOkay, I knew you were going to say something like that. \n\nBut — no, genuinely, hear me out — I *was* the available one. Every single time. I was the one texting first, I was the one planning things, I was the one saying \"hey, are we okay?\" when things got weird. So like... I'm not sure what I'm a suspect *of*, exactly. Being too present? Caring too much? \n\n*[slight eye roll]* \n\nIf anything, I'm guilty of picking people who don't match my energy. Which, sure, fine, that's on me to figure out. But I wasn't the one creating the distance. That was them."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 225,
+      "cache_creation_input_tokens": 115,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 115,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 165,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 225,
+    "output_tokens": 165,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 115
+  }
+}

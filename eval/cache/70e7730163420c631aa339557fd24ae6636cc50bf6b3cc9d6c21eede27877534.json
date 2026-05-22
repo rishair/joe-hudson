@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:27:50.654Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "70e7730163420c631aa339557fd24ae6636cc50bf6b3cc9d6c21eede27877534",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014XBAmnaNpzxufSBMneR5nF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... it would mean I'm putting my own wants above my family's needs, right? Like, I'm the one who — we both work hard, but I do a lot of the carrying, the logistics, the emotional load of it all, and I *know* that, and I think that's part of why I feel like I don't have the right to just... opt out for a week. So if it's selfish, it means I'm not as good a person as I'm trying to be. I guess that's what I'm scared of."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 112,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 121,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 112,
+    "output_tokens": 121,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 0
+  }
+}

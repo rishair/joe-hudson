@@ -1,0 +1,8 @@
+{
+  "profile_id": "client-resistance-chasing-unavailable-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [],
+  "termination": "error",
+  "termination_reason": "error after turn 0: 529 {\"type\":\"error\",\"error\":{\"type\":\"overloaded_error\",\"message\":\"Overloaded\"},\"request_id\":\"req_011CbH3d9P54KA25xfsAUobj\"}",
+  "call_records": []
+}

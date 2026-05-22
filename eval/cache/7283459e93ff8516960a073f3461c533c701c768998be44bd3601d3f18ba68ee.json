@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:28:20.737Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7283459e93ff8516960a073f3461c533c701c768998be44bd3601d3f18ba68ee",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016yx77uAP9jDfPXJPrSPBfU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*voice changes slightly, gets quieter and warmer*\n\nSleep, honestly. Real sleep. And — there's this specific place, it's not even that far, but it's high enough that everything goes quiet. I've been there twice before and it's the only place I've read a whole book in... I can't remember how long. Not a useful book, not something for work. Just a novel. Just for the pleasure of it.\n\nAnd I think I'd find — me, a bit. The version of me that exists when I'm not managing anything or anyone.\n\n*pause*\n\nThat sounds so self-indulgent when I say it out loud."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 261,
+      "cache_creation_input_tokens": 291,
+      "cache_read_input_tokens": 1547,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 291,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 144,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 261,
+    "output_tokens": 144,
+    "cache_read_input_tokens": 1547,
+    "cache_creation_input_tokens": 291
+  }
+}

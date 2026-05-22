@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:27:45.017Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "231c9f1765750b3c769bf0902db7d02b2742e4caf2d5be55841bb5db3eba19ea",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WZmUSM2p1hRPw9rSpZmDvj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it mean about you if you were?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 253,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 253,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

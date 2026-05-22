@@ -1,0 +1,20 @@
+{
+  "profile_id": "client-resistance-chasing-unavailable-001",
+  "coach_config_id": "naive-aoa",
+  "turns": [],
+  "termination": "error",
+  "termination_reason": "error after turn 0: 529 {\"type\":\"error\",\"error\":{\"type\":\"overloaded_error\",\"message\":\"Overloaded\"},\"request_id\":\"req_011CbH2ywPiWKZ9hLLqz6ZPN\"}",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t1",
+      "cached": false,
+      "input_tokens": 3,
+      "output_tokens": 75,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1483,
+      "cost_usd": 0.00669525,
+      "ms": 9971
+    }
+  ]
+}

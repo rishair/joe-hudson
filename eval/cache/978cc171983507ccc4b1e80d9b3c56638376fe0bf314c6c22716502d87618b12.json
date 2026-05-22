@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:27:53.737Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "978cc171983507ccc4b1e80d9b3c56638376fe0bf314c6c22716502d87618b12",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Dxe5yVxp9F631EBk2YaGmB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "So the person who carries the most... is also the one who's not allowed to need anything. How long have you been living by that rule?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 387,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 33,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 387,
+    "output_tokens": 33,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}
