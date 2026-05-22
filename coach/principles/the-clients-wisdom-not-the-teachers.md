@@ -5,7 +5,7 @@ title: "The Client's Wisdom, Not the Teacher's"
 aliases: ["the client's wisdom not the teacher's", "their wisdom not mine", "you have to experience it for it to be real", "the experience is the teacher", "no answer outside your question", "I won't coach someone without a question", "no transmission of wisdom", "the wisdom is yours", "I won't try to get anybody anywhere"]
 tags: ["principle", "coaching-methodology", "wisdom", "epistemology", "autonomy", "experience-based-learning"]
 related: ["the-work-is-yours-not-mine", "become-unnecessary", "community-over-teacher", "follow-the-demand", "fixing-people", "dont-evangelize-the-work", "sincerity-is-the-prerequisite", "frame-it-as-an-experiment"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # The Client's Wisdom, Not the Teacher's
@@ -94,6 +94,25 @@ This makes the principle radically symmetrical. The coach's perspective has limi
 
 The implication for the AI coach: the same instruction must be available. If a user is concluding "the AI is right about me," the AI should be able to redirect: "the only thing that matters is what your own experience tells you about what I just said. If it lands, take it. If it doesn't, ignore it. Your experience is the test, not my framing."
 
+## The Developmental Cost of Being the Teacher: Don't Believe Your Own Philosophy
+
+A specific cost of occupying the teacher role, named in the same Q&A: many teachers stop developing because they start believing what they teach. The position itself is a structural pull toward developmental stagnation, and the corrective is to refuse the certainty that the role invites.
+
+"The other cost that I see is that a lot of people who are in the position of teacher, in this case, they get stuck where they are. Their development stops continuing. And so that's another cost -- to constantly understand that you don't know crap, that you are speaking from your experience, and hopefully that something that you're saying is benefiting somebody else is where it's at. It's not thinking that you actually know anything, that you don't buy or believe your own philosophy, that instead you're constantly in wonder and question about your own thoughts and experiences." -- Joe Hudson, Q&A #2
+
+The diagnostic for this stagnation: the teacher who buys their own philosophy stops asking the questions that produced the philosophy in the first place. The philosophy becomes the destination instead of the working hypothesis. Once the philosophy is the destination, the teacher's own [[wonder]] dies.
+
+The corrective is structural rather than attitudinal. It is not "try to be humble" -- which would be one more performance of the teacher role. It is "don't buy your own philosophy" -- treat your own framings the same way you treat any other framing the [[the-clients-wisdom-not-the-teachers]] principle says should be tested against experience. The teacher's experience is the only ground the teacher should be standing on. The teacher's philosophy is a description of past experience, not a claim on the future.
+
+This is also what protects the work itself from becoming doctrinal. A teacher who is still in wonder about their own teaching keeps the teaching alive. A teacher who has settled into the teaching is curating an artifact. The artifact may still be useful to others, but it is no longer growing with the person delivering it, and over time the gap between the artifact and lived reality widens.
+
+The other costs Joe names in the same exchange round out the full picture:
+
+- **Separation.** Being in the teacher position attracts projections (both positive -- "he's so great" -- and negative -- "what an asshole"), none of which are the actual person. The projections function as a wall between the teacher and the kind of intimacy the teacher most values. "All of that is separation. None of that is actually the intimacy that makes life meaningful to me. So to some degree, the cost is separation." -- Joe Hudson, Q&A #2
+- **Developmental stagnation** (above) -- the teacher whose growth stops because they believe their own teaching.
+
+The benefits Joe acknowledges in the same exchange: meaningful encounters with people in coaching, the work reaching more people through course sales, an experience of contribution. The benefits are real. The costs are real. The principle does not require pretending the role has no upside; it requires staying alert to the structural temptations the role contains.
+
 ## "I Would Far Rather Hear How People Are Than to Tell Them How They Are"
 
 A related operational statement, in the same Q&A response:
@@ -168,3 +187,4 @@ Calm, structural, undefended. This is not a humility performance. It is a descri
 - 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)
 - 2022-10-26_Love Over Defense (the "gravity in roses, grass, birds, trees" passage on how the trust is built from observation)
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the "please stop, trust your own experience" passage; the "I would far rather hear how people are than tell them how they are" passage; the authenticity-over-inclusivity extension)
+- 2023-03-09_Q&A #2 - Connecting with Difficult People, and More (the developmental cost of being the teacher; the "don't buy your own philosophy" framing; the explicit naming of separation as the projection cost; a re-recording or republication of the same Q&A content as the 2023-03-03 episode with slight wording differences)

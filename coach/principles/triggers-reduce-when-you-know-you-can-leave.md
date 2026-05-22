@@ -5,7 +5,7 @@ title: "Triggers Reduce When You Know You Can Leave"
 aliases: ["knowing you can leave reduces triggers", "learning to leave is how you stop being triggered", "you can't love what can dominate you", "the leave principle", "knowing you don't have to accept it", "trigger reduction via boundary capacity", "the leave-or-stay choice makes the staying possible", "domination produces trigger", "love requires the option to leave"]
 tags: ["triggers", "principle", "boundaries", "love", "domination", "freedom", "choice"]
 related: ["trigger", "boundaries", "definition-of-asshole", "principles-free-you", "love-requires-empowerment", "empowered-vs-power", "feared-consequences-rarely-happen", "boundaries-expand-as-capacity-grows", "what-if-you-acted-exactly-how-you-want"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Triggers Reduce When You Know You Can Leave

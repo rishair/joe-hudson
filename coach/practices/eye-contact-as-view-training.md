@@ -5,7 +5,7 @@ title: "Eye Contact as VIEW Training (Bumpers on a Bowling Alley)"
 aliases: ["eye contact is a training tool", "the bumpers metaphor for eye contact", "eye contact for raising oxytocin", "is eye contact necessary for VIEW", "alternatives to eye contact for VIEW practice", "eye contact bowling alley bumpers", "eye contact as training wheels for VIEW", "the somatic connection scaffold", "eye contact substitutes", "what to do when eye contact is hard"]
 tags: ["practice", "view", "eye contact", "connection", "oxytocin", "somatic", "accessibility", "neurodivergence"]
 related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "connection", "start-stay-end-in-connection", "staying-in-your-body", "being-heard"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Eye Contact as VIEW Training (Bumpers on a Bowling Alley)

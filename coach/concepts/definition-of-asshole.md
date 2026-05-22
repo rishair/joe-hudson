@@ -5,7 +5,7 @@ title: "Joe's Definition of Asshole (And Why Seeking Out Difficult People Isn't 
 aliases: ["what is an asshole", "Joe's definition of asshole", "who is an asshole", "the asshole definition", "don't seek out triggering people", "don't go find people who trigger you", "the I-don't-work-with-assholes principle definition", "shortcut: just have the life you want"]
 tags: ["principle", "boundaries", "triggers", "asshole-principle", "self-development", "relationships"]
 related: ["principles-free-you", "triggers-reduce-when-you-know-you-can-leave", "boundaries", "dont-confuse-embracing-fear-with-inviting-danger", "dont-specialize-in-the-scariest-fear", "trigger", "complementary-trauma-surfaces", "fear-of-joy", "enjoy-over-manage"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Joe's Definition of Asshole (And Why Seeking Out Difficult People Isn't the Path)

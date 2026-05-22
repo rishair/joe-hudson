@@ -5,7 +5,7 @@ title: "Letting Go vs. Doing Nothing"
 aliases: ["surrender vs doing nothing", "letting go is not passivity", "non-management vs inactivity", "letting go definition", "what surrender means", "doing nothing is impossible", "letting go is non-management of experience"]
 tags: ["distinction", "surrender", "letting-go", "management", "passivity", "action"]
 related: ["enjoy-over-manage", "making-vs-allowing", "trying-vs-doing", "flow-vs-managing-reality", "undoing-not-doing", "enjoyment-as-surrender", "impartiality", "listening-to-impulse"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Letting Go vs. Doing Nothing

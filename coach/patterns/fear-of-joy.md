@@ -5,7 +5,7 @@ title: "Fear of Joy"
 aliases: ["scared of joy", "pleasure anxiety", "the other shoe is going to drop", "stopping the laughter", "afraid to feel good", "the joy clamp", "if I let the love in", "shutting down the laughing", "fear of feeling good", "afraid of pleasure", "foreboding joy", "the inevitable doom thought", "if I'm happy I won't be prepared", "resistance to gratitude", "scared of being content"]
 tags: ["joy", "fear", "pleasure", "anxiety", "self-protection", "pattern", "gratitude"]
 related: ["joy-as-matriarch", "pleasure-capacity", "cafe-emotional-stigma", "embrace-vs-brace", "ive-lost-my-joy", "anxiety-as-constricted-life-force", "feeling-the-unfelt-emotion", "gratitude-rounds-before-meetings"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team", "2023-02-10_The Golden Algorithm", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team", "2023-02-10_The Golden Algorithm", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Fear of Joy

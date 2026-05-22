@@ -4,7 +4,7 @@ id: dont-try-to-change-your-partner
 title: "Don't Try to Change Your Partner"
 aliases: ["change your partner anti-pattern", "trying to change the other person", "the change-the-partner trap", "stop trying to change them", "trying to get your partner to be different", "the partner-fixing anti-pattern", "trying to get your partner on board with your path"]
 tags: ["relationships", "anti-pattern", "fixing", "control", "growth", "partnership"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Don't Try to Change Your Partner

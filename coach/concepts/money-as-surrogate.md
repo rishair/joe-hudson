@@ -4,7 +4,7 @@ id: money-as-surrogate
 title: "Money as Surrogate"
 aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money"]
 tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection"]
-related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should"]
+related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money"]
 sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You"]
 ---
 

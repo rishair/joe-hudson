@@ -4,7 +4,7 @@ id: questioning-the-positive-state
 title: "Questioning the Positive State"
 aliases: ["questioning the good feeling", "is it okay that I feel peaceful", "should I feel this good", "is this delusional", "wait am I supposed to feel this happy", "the suspicion of peace", "the suspicion of joy", "the mind interrogating contentment", "the positive-state interrogation", "am I avoiding by feeling good"]
 tags: ["read", "joy", "peace", "questioning emotions", "management", "subtle", "positive emotions"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Questioning the Positive State

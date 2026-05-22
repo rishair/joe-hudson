@@ -3434,8 +3434,71 @@
     },
     {
       "folder": "2023-03-09_Q&A #2 - Connecting with Difficult People, and More",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T08:07:55Z",
+      "articles_created": [],
+      "articles_updated": [
+        "emotional-inquiry",
+        "the-clients-wisdom-not-the-teachers",
+        "loyalty-under-low-affection",
+        "questioning-the-positive-state",
+        "manufacturing-the-feeling",
+        "trying-prevents-the-feeling",
+        "triggers-reduce-when-you-know-you-can-leave",
+        "unwelcomed-emotions-return-until-felt",
+        "dont-try-to-change-your-partner",
+        "letting-go-vs-doing-nothing",
+        "enjoy-over-manage",
+        "emotions-show-up-at-inopportune-times",
+        "view",
+        "definition-of-asshole",
+        "eye-contact-as-view-training",
+        "hold-the-memory-of-when-you-felt-it-most",
+        "fear-of-joy"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T08:16:13Z"
+    },
+    {
+      "folder": "2023-03-17_Privilege, Pain, and Projection \u2014 Joe Hudson\u2019s Story (Part I)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T08:20:09Z",
+      "articles_created": [
+        "joes-first-meditation-retreat",
+        "intellectual-emotional-polarization-in-couples",
+        "scapegoat-as-marriage-stabilizer",
+        "how-you-related-to-parents-is-how-you-relate-to-god-and-money"
+      ],
+      "articles_updated": [
+        "state-seeking",
+        "joes-abandonment-mapping",
+        "money-as-surrogate",
+        "childhood-imprinting"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T08:27:38Z"
+    },
+    {
+      "folder": "2023-03-22_Privilege, Pain and Projection \u2014 Joe Hudson\u2019s Story (Part I)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T08:28:18Z",
+      "articles_created": [],
+      "articles_updated": [
+        "joes-first-meditation-retreat",
+        "scapegoat-as-marriage-stabilizer",
+        "intellectual-emotional-polarization-in-couples",
+        "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+        "state-seeking",
+        "joes-abandonment-mapping",
+        "childhood-imprinting"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T08:33:31Z"
+    },
+    {
+      "folder": "2023-03-31_8 Seconds of Oneness \u2014 Joe Hudson\u2019s Story (Part II)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T08:34:20Z",
       "articles_created": [],
       "articles_updated": []
     }

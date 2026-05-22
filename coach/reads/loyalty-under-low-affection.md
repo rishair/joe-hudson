@@ -4,7 +4,7 @@ id: loyalty-under-low-affection
 title: "Loyalty Under Low Affection (The Hidden Gift in a Partner Who Doesn't Show Affection)"
 aliases: ["loyalty as shadow of low affection", "partners who don't show affection are often loyal", "the loyalty of the un-affectionate", "low-affection partners often have pronounced loyalty", "the trade-off in affection capacity", "the silver lining in the cold partner", "the loyalty signature"]
 tags: ["read", "relationships", "affection", "loyalty", "partner-traits", "reframe"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Loyalty Under Low Affection

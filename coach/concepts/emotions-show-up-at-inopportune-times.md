@@ -5,7 +5,7 @@ title: "Emotions Show Up at Inopportune Times (Because Partial Containment Is Wh
 aliases: ["emotions arrive in restaurants", "emotions show up at the worst times", "couples bring it up in restaurants", "the in-the-car emotion", "the restaurant fight pattern", "why emotions ambush you mid-meeting", "the partial-containment safety", "emotions need a constrained context to arise"]
 tags: ["emotions", "timing", "feeling safety", "concept", "partial containment", "couples"]
 related: ["unwelcomed-emotions-return-until-felt", "feeling-the-unfelt-emotion", "trying-prevents-the-feeling", "emotional-inquiry", "unfelt-emotion-leaks"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Emotions Show Up at Inopportune Times (Because Partial Containment Is What Makes Surfacing Safe)

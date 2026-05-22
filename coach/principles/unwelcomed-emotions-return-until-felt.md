@@ -5,7 +5,7 @@ title: "Unwelcomed Emotions Return Until Felt"
 aliases: ["whatever you don't love and address will show up again", "emotions return until welcomed", "the unfelt emotion comes back", "don't worry it'll come back", "no rush to self-development", "the emotion you missed will show up again", "you don't have to chase the emotion", "the return-rate of emotions", "emotions are patient", "the unfelt feeling waits", "the emotion comes back"]
 tags: ["principle", "emotions", "patience", "feeling", "trust", "return"]
 related: ["feeling-the-unfelt-emotion", "emotions-show-up-at-inopportune-times", "what-we-fear-we-invite", "manufacturing-the-feeling", "trace-emotion-to-its-first-felt", "emotional-inquiry", "unfelt-emotion-leaks"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Unwelcomed Emotions Return Until Felt

@@ -2,10 +2,10 @@
 type: practice
 id: emotional-inquiry
 title: "Emotional Inquiry (Meeting the Emotion With VIEW)"
-aliases: ["emotional inquiry", "meeting emotion with VIEW", "the turtle approach to emotion", "look at the emotion like a kid finding a turtle", "the undoing approach to emotion", "drop the hot frying pan approach to feeling", "approaching an emotion with VIEW", "the welcoming-the-emotion practice", "applying VIEW inward to a feeling", "the in-the-moment emotion practice", "how to meet a difficult emotion when it arises"]
-tags: ["practice", "emotions", "VIEW", "in-the-moment", "undoing", "feeling"]
-related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "feeling-the-unfelt-emotion", "daily-emotional-yoga", "undoing-not-doing", "apply-view-to-fear", "apply-view-to-the-voice", "love-the-anxiety-not-just-with-it", "treat-yourself-as-actor-of-emotion", "trying-to-get-rid-of-the-emotion", "embrace-vs-brace"]
-sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions"]
+aliases: ["emotional inquiry", "meeting emotion with VIEW", "the turtle approach to emotion", "look at the emotion like a kid finding a turtle", "the undoing approach to emotion", "drop the hot frying pan approach to feeling", "approaching an emotion with VIEW", "the welcoming-the-emotion practice", "applying VIEW inward to a feeling", "the in-the-moment emotion practice", "how to meet a difficult emotion when it arises", "applying VIEW to body sensation", "applying inquiry to stagnation in the body", "trust the stagnation as wisdom", "the pelvis stagnation example", "breath into the part of the body that is stuck", "dance as somatic inquiry support"]
+tags: ["practice", "emotions", "VIEW", "in-the-moment", "undoing", "feeling", "somatic"]
+related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "feeling-the-unfelt-emotion", "daily-emotional-yoga", "undoing-not-doing", "apply-view-to-fear", "apply-view-to-the-voice", "love-the-anxiety-not-just-with-it", "treat-yourself-as-actor-of-emotion", "trying-to-get-rid-of-the-emotion", "embrace-vs-brace", "honor-the-patterns-intent", "trying-prevents-the-feeling"]
+sources: ["2023-02-03_Embracing Emotions： The Key to Great Decisions", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Emotional Inquiry (Meeting the Emotion With VIEW)
@@ -90,6 +90,42 @@ A short experiment that surfaces the distinction between resisted and unresisted
 
 The experiment is itself instructive. It shows that the same emotion has two distinct feels depending on the relationship to it. The unresisted version is what the practice is reaching for.
 
+## Applying the Practice to a Body Sensation (Not Just to a Named Emotion)
+
+The same practice applies to a constriction, stagnation, or "gunk" in the body that is not yet legible as a named emotion. The instruction is identical: stop trying to move it, drop the agenda of moving through it, meet it with VIEW. The frame change is to recognize the stagnation itself as wisdom rather than as a problem to be solved.
+
+A listener asked what to do about a sense of contraction or gunk in the pelvis that they could not feel through on their own. Joe questioned the framing first:
+
+"I'm going to question your assumption there. The assumption is that you can't move through it all the way. If you are aware of it, my experience is if you're aware of it, you can move through it all the way. What usually stops us from being able to move through it all the way is the fact that we're trying to move through it all the way instead of be with it and love it. And let it move the way that it wants to move. So we have an agenda for it, we're trying to manage it, we're not in view with it, and therefore it resists and it rebels and it's like, 'Fuck you.'" -- Joe Hudson, Q&A #2
+
+The structural failure mode for body-sensation inquiry is the same as for emotion inquiry: agenda contaminates the practice. The body-part-that-is-stuck has the same response to being managed as the emotion-that-will-not-move: it digs in. The corrective is the same: drop the agenda, be with the sensation all day if necessary, let it move the way it wants to move.
+
+"What is it to just be with that sensation all day with love and attention and just continue to be with it and not ask it to change and not ask it to be different?" -- Joe Hudson, Q&A #2
+
+This is emotional inquiry directed at a felt sense rather than at a label. Body sensations do not always announce themselves as "sadness" or "fear" -- sometimes they show up as contraction, density, heaviness, or stagnation in a specific area. The practice does not require the sensation to identify itself before being met.
+
+## Stagnation Is Wisdom, Not Pathology
+
+The corollary frame Joe articulates in the same exchange: when a stagnation persists, the response is not to redouble the effort to dissolve it. The response is to recognize that the way it is being held as a problem is itself the constriction.
+
+"Most of the time what I notice is that people see the stagnation as a problem. They treat it like a problem, which increases the stagnation instead of seeing it as a wisdom, instead of trusting the stagnation." -- Joe Hudson, Q&A #2
+
+The reframe operates at the level of relationship to the sensation, not at the level of the sensation itself. Treating the stagnation as something that ought not to be there generates the very resistance that keeps it stagnant. Trusting the stagnation -- letting it be whatever it is, for as long as it is -- is what allows it to move when it is ready.
+
+This is the same teaching as [[honor-the-patterns-intent]] applied at the somatic level. The stagnation is also a pattern. It came online for a reason. The mechanism that produced it is intelligent. The work is not to overpower it but to respect it.
+
+## Somatic Modalities That Support the Practice (Breath and Dance)
+
+Two practices Joe names as concretely helpful when applying inquiry to body-held material:
+
+**Deep breath directed into the part of the body that is stuck.** Not breath as a way to make the sensation leave, but breath as a way to be more fully present in the area. For pelvic stagnation: deep breath into that part of the belly. The breath is the company, not the eviction notice.
+
+**Dance, especially involving the part of the body that is stuck.** Movement that the body chooses, in the area that is held, allows the held material to move without the intellect directing the movement. The body knows how to release; the intellect's job is to let the body do it.
+
+"As far as other modalities, breathwork and dance. Breathwork is amazing, lots of forms of breathwork. But in this particular case, I would be doing a lot of deep breath into that part of the belly. That would be a tremendous asset. Dance, especially if in that part of the body, I find dance has a lot to do with it." -- Joe Hudson, Q&A #2
+
+Both modalities are supports for the practice, not substitutes for it. The same orientation -- drop the agenda, meet what is here with VIEW -- has to be present, or the breath becomes a technique for getting rid of the sensation (see [[dont-use-breath-to-repress]]) and the dance becomes a performance.
+
 ## Pitfalls
 
 Three failure modes to watch:
@@ -130,3 +166,4 @@ Joe describes this practice with the lightness and concreteness of something he 
 ## Sources
 
 - 2023-02-03_Embracing Emotions: The Key to Great Decisions (the full articulation of the practice; the undoing framing; the meeting-emotion-with-VIEW structure; the turtle metaphor; the hot-frying-pan image; the resisted-vs-unresisted experiment)
+- 2023-03-09_Q&A #2 - Connecting with Difficult People, and More (the application of the practice to a body sensation rather than a named emotion; the pelvic stagnation question; the stagnation-as-wisdom reframe; breath and dance as supporting somatic modalities)

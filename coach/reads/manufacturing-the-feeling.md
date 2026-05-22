@@ -4,7 +4,7 @@ id: manufacturing-the-feeling
 title: "Manufacturing the Feeling"
 aliases: ["producing the emotion", "trying to feel it", "performing the feeling", "you started manufacturing it", "engineering the feeling", "doing the feeling at yourself"]
 tags: ["emotion", "performance", "trying", "reads", "subtle"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Manufacturing the Feeling

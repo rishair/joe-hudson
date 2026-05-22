@@ -5,7 +5,7 @@ title: "Hold the Memory of When You Felt It Most Completely"
 aliases: ["hold the memory in your body of the time you felt it most", "the memory recall practice for emotions", "calling up an avoided emotion", "the body-memory practice for accessing emotion", "how to access a missed emotion", "the memory-anchor practice for calling up emotion", "the lesser-version-of-the-emotion practice", "memory anchor for emotion"]
 tags: ["practice", "emotion", "memory", "feeling", "access"]
 related: ["feeling-the-unfelt-emotion", "emotional-inquiry", "trace-emotion-to-its-first-felt", "unwelcomed-emotions-return-until-felt", "manufacturing-the-feeling", "staying-in-your-body", "visualize-the-felt-aftermath"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Hold the Memory of When You Felt It Most Completely

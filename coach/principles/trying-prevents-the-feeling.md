@@ -5,7 +5,7 @@ title: "Trying to Generate the Feeling Prevents the Feeling"
 aliases: ["trying prevents feeling", "trying pushes the emotion away", "the harder you try the less it comes", "effort prevents the emotion", "you can't push emotions into being", "trying is the new resistance", "the harder you try in inquiry the more it disappears", "pushing the emotion away by trying"]
 tags: ["principle", "emotions", "trying", "effort", "resistance", "inquiry"]
 related: ["unwelcomed-emotions-return-until-felt", "manufacturing-the-feeling", "trying-vs-doing", "hold-the-memory-of-when-you-felt-it-most", "emotional-inquiry", "feeling-the-unfelt-emotion", "undoing-not-doing", "dont-half-ass-the-experiment"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
 ---
 
 # Trying to Generate the Feeling Prevents the Feeling
