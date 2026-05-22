@@ -21,16 +21,44 @@ When done addressing, update the audit file's `status` from `actionable` to `add
 
 ## Creating new goals
 
-If your work reveals the need for a new goal (not just sub-experiments or research), create it with its research/experiments, then stop work on that goal. Use the Agent tool to spawn a `wiki-audit` agent to audit it in a fresh context: `prompt: "Audit goal G-XXX"`. The audit will be picked up by the next wiki-next cycle.
+If your work reveals the need for a new goal (not just sub-experiments or research):
+
+1. **Read `meta/wiki/playbooks/index.md`** and load any playbooks relevant to the new goal's domain. Let the playbooks shape how you design the experiments and research — they encode patterns for how to structure specific types of work.
+2. Create the goal with its research/experiments, informed by the playbook guidance.
+3. Stop work on that goal. Use the Agent tool to spawn a `wiki-audit` agent to audit it in a fresh context: `prompt: "Audit goal G-XXX"`. The audit will be picked up by the next wiki-next cycle.
 
 ## Standard flow
 
-Before starting, read `meta/wiki/index.md` to understand the full project state. When you pick up an item, read its page AND any pages it `depends_on` so you have full context. Also read sibling research/experiments under the same parent goal to avoid repeating work.
+### 1. Build context before doing anything
 
-For research items: use web search, read wiki pages, read coach/ files as needed. Record findings with boundary conditions.
+Every work item exists inside a larger plan. Before you start working, read enough to understand why this item exists and what's already been learned. Follow this sequence:
 
-For experiments: actually build/run the thing. Write code, create files, run tests. Record results honestly.
+1. **Read `meta/wiki/index.md`** — understand the full project tree and what's active.
+2. **Read the parent goal page** (`meta/wiki/goals/<parent-goal-id>.md`) — understand the outcome, correctness criteria, and decision log. This is the "why" behind every item.
+3. **Read your work item page** — the research or experiment you're about to do.
+4. **Read all `depends_on` pages** — these are your inputs. Their findings/results are prerequisites.
+5. **Read completed sibling items** under the same goal — research and experiments that are already done. Their results shape your work. Don't repeat what they found. Build on it.
+6. **Check `meta/wiki/audits/`** for any audit of this goal — even if `status: addressed`, read it for context on what was flagged and why. The audit may have commentary specifically about your item.
+7. **If the goal references source material** (e.g., `coach/` files), sample relevant files to ground yourself in the actual content, not just the wiki's description of it.
 
-For checkpoints: do the full strategic assessment and quality audit per the wiki skill instructions.
+Only after completing this context-gathering should you begin the work itself.
 
-When done, update the page with results, update the parent goal's decision log, and check whether exit criteria are now met.
+### 2. Load relevant playbooks
+
+Read `meta/wiki/playbooks/index.md`. Based on the work item's content, decide which playbook(s) are relevant and load them from `meta/wiki/playbooks/`. This is dynamic — you don't need a `toolkit` field in the frontmatter. Just read the index, understand what each playbook covers, and load what applies to the work at hand. Load multiple if the work spans types.
+
+The playbooks contain type-specific instructions, quality checklists, available resources/skills, and common pitfalls. Follow them.
+
+### 3. Do the work
+
+Execute according to the relevant playbook(s). They define what good execution looks like for this type of work.
+
+For checkpoints: do the full strategic assessment and quality audit per the wiki skill instructions (no playbook needed).
+
+### 4. Record and connect
+
+When done:
+- Update the page with results.
+- Update the parent goal's Decision Log with what you learned and how it affects the plan.
+- Check whether any sibling items are now unblocked by your results.
+- Check whether the goal's exit criteria are now met.

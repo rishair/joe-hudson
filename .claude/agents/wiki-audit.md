@@ -19,6 +19,7 @@ You will be given a goal ID (e.g., G-008). Do the following:
 - Read the parent goal (if any) to understand what this goal serves
 - If the goal references source material (e.g., `coach/` files), sample 5-10 of them to understand what's actually there
 - Read any completed sibling goals or checkpoints for context on what's already been learned
+- **Read `meta/wiki/playbooks/index.md`** and load any playbooks relevant to this goal's domain. The playbooks encode hard-won patterns for specific types of work (e.g., eval design, AI experiments). The plan should follow these patterns where they apply.
 
 ### 2. Audit the plan
 
@@ -39,6 +40,8 @@ Evaluate across these lenses:
 **Experiment design quality**: For each experiment, does the method actually test the hypothesis? Are success criteria concrete enough to be falsifiable? Is the blast radius understood? Are there experiments whose "success" wouldn't actually move the goal forward?
 
 **Research question quality**: Are the research questions asking the right things? Are they too broad (will produce unfocused findings) or too narrow (will miss the bigger picture)? Do they front-load learning that genuinely de-risks later experiments?
+
+**Playbook adherence**: If a relevant playbook exists (e.g., `eval-design` for an eval goal, `ai-experiment` for LLM work), does the plan follow its patterns? Are the dependency chains, quality checks, and methodological guidance from the playbook reflected in the experiments? If the plan deviates from a playbook, is that deviation intentional and justified, or an oversight?
 
 ### 3. Write the audit
 

@@ -44,6 +44,22 @@
     - [x] R-007 Survey transcripts to identify Joe Hudson's coaching taxonomy
   - Experiments
     - [x] E-018 Prototype compendium absorption on 5 transcripts
+- [ ] G-008 Build eval suite for Joe Hudson AI coach
+  - Research
+    - [~] R-008 What dimensions should an AoA coaching eval score on?
+    - [ ] R-009 How should simulated client profiles be structured for multi-turn coaching eval?
+    - [ ] R-010 What is the right LLM-as-judge prompt structure for coaching eval?
+  - Experiments
+    - [ ] E-019 Define scoring dimensions and rubrics
+    - [ ] E-020 Build 15 simulated client profiles from coach/concerns/
+    - [ ] E-021 Build anti-pattern test cases
+    - [ ] E-022 Build methodology fidelity checklist
+    - [ ] E-023 Implement multi-turn test harness
+    - [ ] E-024 Run baseline eval against naive system prompt
+    - [ ] E-025 Judge calibration and reliability check
+    - [ ] E-026 Extract gold-standard coaching exchanges from transcripts
+    - [ ] E-027 Design safety hard-fail criteria
+    - [ ] E-028 Validate simulated client LLM behavior
 
 ## Checkpoints
 
