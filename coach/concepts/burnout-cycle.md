@@ -5,7 +5,7 @@ title: "The Burnout Cycle (Three Layers: Nervous System, Psychological, Emotiona
 aliases: ["burnout cycle", "the burnout cycle", "three layers of burnout", "how burnout works", "what is burnout", "Joe's definition of burnout", "burnout as adrenal depletion plus psychological pressure plus emotional avoidance", "the burnout engine", "three faces of burnout", "burnout through three layers", "what causes burnout", "the structure of burnout", "burnout cycle definition", "running on adrenaline as burnout engine", "the burnout map", "the adrenal exhaustion diagnostic", "no-adrenaline at the bridge as adrenal exhaustion signal", "the empty adrenal reserve", "tiredness as recovery signal", "tiredness as the body asking to rest", "kids burnout and unschooling recovery"]
 tags: ["burnout", "adrenaline", "nervous system", "stress", "shoulds", "concept", "framework"]
 related: ["nervous-system-recovery-after-stress", "depression-four-levels", "should-as-threat", "urgency-as-motivation", "post-rest-second-wind-trap", "rest-is-an-accomplishment", "how-could-you-do-this-and-gain-energy", "energy-management-over-time-management", "wants-over-shoulds", "what-we-fear-we-invite", "im-burned-out", "ceo-pajama-house-study", "adrenaline-discharge-via-fear-activity", "nature-improves-itself"]
-sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle"]
+sources: ["2023-09-01_The Burnout Cycle", "2023-09-08_The Burnout Cycle", "2024-05-27_How Do I Not Burn Out Again？"]
 ---
 
 # The Burnout Cycle
@@ -46,8 +46,11 @@ The architecture of the psychological burnout is built out of:
 - **Perfectionism: it has to be done exactly right** (see [[perfectionism]])
 - **Strict deadlines that turn every task into an urgency**
 - **Operating from how to improve myself instead of how to be authentic**
+- **Constant monitoring and management of other people's opinions of you** (see [[caring-what-others-think-is-the-burnout-engine]])
 
 Every one of these is an adrenaline cost. Living without them does not mean doing less work. It means doing the same work without the system reading every task as a threat.
+
+The constant-other-monitoring item deserves separate attention because of how often it is the dominant fuel and how rarely it is named as such. A person whose work has involved making sure everyone is happy, that things are landing well, that they are perceived as capable, has been running fight-or-flight continuously for the years the engine has been on. The body cannot distinguish between vigilance for a threat to survival and vigilance for a threat to social standing. The depletion is the same. In one live session a person estimated that "more than half" of her burnout came from the activity of making sure other people were happy and that she was liked. See [[caring-what-others-think-is-the-burnout-engine]] for the principle and the corrective. This is one specific shape the psychological layer takes, and it is one of the most common in leaders, parents, people in customer-facing work, and anyone whose work requires sustained emotional performance for others.
 
 ## The Emotional Layer: Running From a Feeling
 

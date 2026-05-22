@@ -4,7 +4,7 @@ id: let-your-body-remember-this-moment
 title: "Let Your Body Remember This Moment (Anchor the Felt Shift)"
 aliases: ["let your body remember this moment", "let your body remember", "feel your body", "just feel your body", "body anchor for the shift", "anchor the present-moment insight", "plant the felt shift in the body", "the somatic anchor move", "the post-insight body invitation", "the body-remember instruction", "let your body have this", "let your body have that", "the body memory move", "the felt-anchor move", "remember this in your body", "the body remembers move", "instruct the body to remember", "the body-anchor instruction", "trust your body to catch it", "don't write it down let it integrate", "the body will catch what you don't need to write down", "the body-integration-before-list teaching", "let it integrate in the body then go write it down", "the body integrates better than the list", "trust the body to remember instead of writing it down"]
 tags: ["moves", "integration", "body", "felt-sense", "insight", "anchor", "memory"]
-sources: ["2023-12-29_Fear Of Overworking", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)"]
+sources: ["2023-12-29_Fear Of Overworking", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-05-27_How Do I Not Burn Out Again？"]
 ---
 
 # Let Your Body Remember This Moment (Anchor the Felt Shift)
@@ -106,6 +106,14 @@ For the person who is head-dominant and has built a productivity practice around
 
 *(Source: Ali Abdaal coaching session)*
 
+## Pairs With Ask-the-Body-the-Question
+
+The two moves form a sequence in sessions where the body's report is the work. First, [[ask-the-body-the-question]] uses the body as an answering source: a question the head has been failing on gets put to the body and the body produces a different answer. The body often produces a visible reaction along with the answer — a smile, a softening, a shift in the eyes. The reaction is the body's report on its own state.
+
+Once the reaction is visible, this move can be used to keep the person with the body's report rather than letting the head come back to interpret. "Let your body remember this." The pairing is: the body answers, then the body remembers it answered. The first move surfaces the body's report; this move installs the felt memory of the report.
+
+In one session, after the body answered "movement" to the question "what is progress?" and the smile arrived, Joe extended the bodily presence with a series of related body-instructions: "Go back to your body for a minute. Just be there with your body. Keep your sensation in your body. Look out into this room of people. Look at — open your eyes, look into the room of people, but don't leave your body." The instruction "don't leave your body" is the work of this move applied to a sustained period rather than to a single moment. The body that has been listened to is being held in place against the gravity of the head pulling attention back to its accustomed mode.
+
 ## What This Is Not
 
 - It is not a meditation instruction. The person is not being asked to observe the body neutrally. They are being asked to inhabit a specific moment.
@@ -132,3 +140,4 @@ For the person who is head-dominant and has built a productivity practice around
 
 - 2023-12-29_Fear Of Overworking
 - 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) (the Body-Catches-It-Better-Than-the-List teaching, applied to a head-dominant author who reached to write down an insight in real time)
+- 2024-05-27_How Do I Not Burn Out Again？ (the move's use after the body has produced an answer to a question the head was failing on; the sustained body-presence instruction "don't leave your body" applied across an extended moment rather than to a single landing)

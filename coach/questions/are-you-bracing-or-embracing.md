@@ -77,9 +77,18 @@ It is also short and self-applicable. Once taught, the person can use it on them
 
 Light. The question is offered with affection, the way Joe describes loving asking it of himself. It is not a stern self-examination. It is a friendly check-in with the body.
 
+## Companion Question: What Am I Bracing For?
+
+Once this question has confirmed bracing is present, [[what-am-i-bracing-for]] is the natural next inquiry. The IF question gets the body's first answer (bracing or embracing). The FOR-WHAT question goes the next layer down: what is the brace targeting, what consequence is it controlling for, what feared experience does the body think it is preventing.
+
+The two questions function as a pair. The IF question is the binary diagnostic for any given moment. The FOR-WHAT question is the take-home daily-practice that, repeated lightly throughout the day, dissolves chronic bracing patterns.
+
+When the FOR-WHAT question produces an identity-level answer ("I'm bracing to be needed; I'm bracing to hold it all together"), the work has surfaced [[bracing-hardens-identity-makes-you-needed]] -- the deeper layer of why the brace is so hard to release.
+
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
 - 2022-10-26_Embracing Intensity (re-recording with the same loving-the-question framing)
+- 2024-06-03_I'm Afraid I Won't Get Anything Done (companion FOR-WHAT question, identity-layer surfacing)

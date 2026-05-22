@@ -4,7 +4,7 @@ id: boundaries
 title: "Boundaries"
 aliases: ["what a boundary is", "setting boundaries", "drawing boundaries", "boundary", "Joe's definition of boundaries", "the boundary teaching", "how Joe defines boundaries", "good boundaries", "effective boundaries", "loving boundaries"]
 tags: ["boundaries", "love", "empowerment", "vulnerability", "relationships", "fear"]
-related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries"]
+related: ["boundary-with-vs-boundary-against", "love-as-deep-welcoming", "empowered-vs-power", "fear-triangle", "vulnerability", "love-requires-empowerment", "resentment-as-unspoken-want", "heart-opening-needs-boundaries", "contain-the-narcissist", "draw-boundaries-with-kids-to-let-anger-arise"]
 sources: ["2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2021-04-09_Love over Defense — Master Class Series #9"]
 ---
 

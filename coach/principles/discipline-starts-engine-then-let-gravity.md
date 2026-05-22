@@ -4,7 +4,7 @@ id: discipline-starts-engine-then-let-gravity
 title: "Discipline Starts the Engine, Then You Let Gravity Take Care of It"
 aliases: ["discipline starts the engine", "discipline gets the engine running", "discipline then gravity", "let gravity take care of it", "the downhill slide", "discipline then let go", "two phases of practice", "the practice has two halves", "discipline at the start surrender after", "engine then gravity", "trying then receiving", "where fake-it-till-you-make-it works and where it doesn't", "the nuance on faking it", "the discipline-surrender pairing", "the both-and of effort and allowing", "Zen sit-more-like-this until you give up", "trying until you can't anymore", "the give-up moment after sustained effort"]
 tags: ["discipline", "surrender", "practice", "principle", "trying", "effort", "allowing"]
-related: ["opposite-of-trying", "enjoyment-as-path", "joy-as-natural-state", "daily-emotional-yoga", "joes-woods-fast-stopped-fighting", "trying-vs-doing", "making-vs-allowing", "letting-go-vs-doing-nothing", "fear-of-joy", "joy-as-matriarch"]
+related: ["opposite-of-trying", "enjoyment-as-path", "joy-as-natural-state", "daily-emotional-yoga", "joes-woods-fast-stopped-fighting", "trying-vs-doing", "making-vs-allowing", "letting-go-vs-doing-nothing", "fear-of-joy", "joy-as-matriarch", "full-understanding-of-a-behavior-dissolves-it", "avoid-the-decision-by-design", "find-a-healthy-replacement", "i-cant-be-disciplined"]
 sources: ["2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
 ---
 
@@ -93,6 +93,14 @@ The principle helps when a client reports either:
 - "I have tried letting go but I just end up doing nothing." Letting go is being mistaken for doing nothing. See [[letting-go-vs-doing-nothing]]. The discipline phase still applies until the system can distinguish receiving from collapse.
 
 The reverse error: a client who treats every teaching about allowing as a license to stop doing the work. Here the principle is delivered with the first half emphasized. The discipline is real and required. You do not get to skip the engine-starting phase.
+
+## What This Is Not (vs. Behavior-Change Discipline)
+
+This principle is about practices that produce a natural state — joy, presence, authentic expression. It is not about the discipline word as it appears in everyday behavior change ("I should be more disciplined about exercise / about not eating sugar / about not playing video games").
+
+For that domain of discipline, see the separate set: [[full-understanding-of-a-behavior-dissolves-it]], [[avoid-the-decision-by-design]], [[find-a-healthy-replacement]]. None of those is "be more disciplined." All of them remove the conditions that make willpower necessary. The discipline framing in the behavior-change context is almost always the wrong tool; the disciplined people in that domain are not disciplined in the way the asker thinks, they have built lives and bodies that do not require the willpower.
+
+This principle, by contrast, is about the discipline of practice — the sustained attention to a way of being that does require initial structure before the state can arrive. The two are not in conflict; they are answering different questions. This principle answers: "how does discipline relate to a natural state I am trying to grow into?" The other set answers: "how do I stop a specific bad habit?"
 
 ## Why This Is Not Two Different Teachings
 

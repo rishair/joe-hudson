@@ -4,8 +4,8 @@ id: view-as-technique
 title: "Don't use VIEW as a technique"
 aliases: ["weaponized VIEW", "VIEW as manipulation", "technique without state", "communication training gone south"]
 tags: ["VIEW", "authenticity", "technique-vs-state"]
-related: ["view", "vulnerability", "wonder-as-strategy", "vulnerability-as-control"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-06_Empathy — Connection Course Series #4", "2020-11-10_Vulnerability — Connection Course Series #5", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability"]
+related: ["view", "vulnerability", "wonder-as-strategy", "vulnerability-as-control", "contain-the-narcissist", "narcissism-as-incapacity-to-feel", "what-if-i-dont-want-to-be-in-view"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-06_Empathy — Connection Course Series #4", "2020-11-10_Vulnerability — Connection Course Series #5", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
 ---
 
 # Don't use VIEW as a technique
@@ -58,6 +58,10 @@ Wonder-specific version: see [[wonder-as-strategy]] for the pattern where questi
 
 **Vulnerability-specific version:** Using vulnerability to control, guilt, or keep score. Performing weakness to get caretaking. Saying "I don't feel safe" to require others to change. Tracking whether someone was "vulnerable back." All of these use vulnerability language without the vulnerability state. The test: guilt indicates control, not vulnerability. See [[vulnerability-as-control]] for the full pattern.
 
+**Narcissist-specific version:** Using VIEW with someone far out on the narcissistic spectrum (see [[narcissism-as-incapacity-to-feel]]) converts the practice into technique in a particularly visible way. The narcissistic system is specifically tuned to detect openings created by vulnerability and to exploit them. The moment a person uses VIEW to "get somewhere" with the narcissist, they have stepped out of VIEW (because VIEW cannot be used instrumentally) and the deployed vulnerability becomes a lever the narcissist will use against them. The principle: VIEW directed at a narcissist as strategy is no longer VIEW; the appropriate tool is containment via boundaries. See [[contain-the-narcissist]].
+
+"When people are using VIEW, they drop, like using VIEW in itself is dropping, is becoming partial. So if you're using VIEW as a way to get somewhere with the parent, then you're not actually in VIEW because VIEW can't be used particularly." -- Joe Hudson, Q&A #3 — Common Questions, Uncommon Answers
+
 ## Sources
 
 - 2020-10-26_Introduction to VIEW
@@ -68,3 +72,4 @@ Wonder-specific version: see [[wonder-as-strategy]] for the pattern where questi
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
+- 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers (the narcissist-specific application: VIEW used as a tool to "get somewhere" with a narcissistic parent automatically converts to technique because VIEW cannot be used particularly; the narcissist exploits the vulnerability that VIEW creates)

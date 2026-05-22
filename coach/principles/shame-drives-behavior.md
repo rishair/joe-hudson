@@ -4,8 +4,8 @@ id: shame-drives-behavior
 title: "Shame Drives Behavior"
 aliases: ["shame causes the actions", "shame is the lock", "shame holds bad habits in place", "remove shame first", "should is a mechanism of shame", "shame is the locks of the chains of bad habits"]
 tags: ["shame", "behavior", "habits", "causation", "blame", "empowerment", "addiction"]
-related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "addiction-to-shame", "shame-stagnates-emotion"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Feel Over Figure", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_The Anatomy Of Shame", "2022-10-26_Vulnerability", "2023-04-11_Master Class - What is Holding You Back？"]
+related: ["impartiality", "fixing-people", "familiar-over-safe", "past-shame-vs-current-shame", "vulnerability", "empowered-vs-power", "fear-triangle", "helplessness-is-the-gateway", "feeling-the-unfelt-emotion", "wants-over-shoulds", "should-as-threat", "joes-26-year-old-list", "shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "addiction-to-shame", "shame-stagnates-emotion", "i-cant-be-disciplined", "avoid-the-decision-by-design", "find-a-healthy-replacement"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-15_Want over Should — Master Class Series #6", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Feel Over Figure", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Impartiality", "2022-10-26_The Anatomy Of Shame", "2022-10-26_Vulnerability", "2023-04-11_Master Class - What is Holding You Back？", "2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)"]
 ---
 
 # Shame Drives Behavior
@@ -103,6 +103,16 @@ Underneath the shame and blame story is helplessness. The unwillingness to feel 
 - Toward [[the-shame-avoidance-loop]]: the structural form of the principle in conflict-avoidance patterns.
 - Toward [[conflict-avoidance-prevents-healing]]: the relational application — shame cannot heal without the conflict the person has been organizing against.
 
+## The Vicious-Cycle Compression (The Discipline Form)
+
+When asked about how to be disciplined without being disciplined, Joe describes the shame cycle in its everyday behavior-change form:
+
+"When you shame yourself and tell yourself you're bad because you didn't live up to the idea of discipline in your head, all it does is create this vicious cycle where you feel bad and then you continue to do the thing so that you can avoid feeling bad, so that you can feel bad, so you can continue doing the thing. So the thing to do is to really be gentle with yourself." -- Joe Hudson, How To Be Disciplined Without Having Discipline
+
+The cycle has a specific shape: shame about not being disciplined produces the very behavior the discipline was meant to prevent, because the behavior is providing relief from the shame. The relief is temporary, the shame returns reinforced, the cycle tightens. Every iteration adds another layer.
+
+The instruction that follows is the structural one: be gentle with yourself. Not as a soft-skills nicety but as the mechanical move that breaks the cycle. The gentleness is what stops adding fuel to the loop. Once the loop loses fuel, the behavior loses its function. See [[i-cant-be-disciplined]] for the concern this resolves.
+
 ## Conflict Avoidance as the Behavioral Form
 
 In the specific case of conflict-avoidance and people-pleasing, the principle has a recursive form. The shame the person carries drives the people-pleasing behavior. The people-pleasing prevents the conflict that would allow the shame to be felt and healed. The shame stays in place because the behavior organized around avoiding shame is the same behavior that prevents shame from being processed.
@@ -126,3 +136,4 @@ Once shame is welcome, the behavioral architecture organized around avoiding it 
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
+- 2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips) (the vicious-cycle compression — "you feel bad and then you continue to do the thing so that you can avoid feeling bad, so that you can feel bad, so you can continue doing the thing" — applied to the everyday "I should be more disciplined" framing; the instruction to be gentle with yourself as the structural intervention that breaks the cycle, not as a soft-skills nicety)

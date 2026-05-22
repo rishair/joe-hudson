@@ -4,7 +4,7 @@ id: im-afraid-ill-revert-to-my-old-pattern
 title: "I'm afraid I'll revert to my old pattern / What if I go back to how I was?"
 aliases: ["I'm afraid I'll revert", "I'm scared I'll go back", "what if I revert", "what if I go back to overworking", "what if I burn out again", "I'm scared I'll fall back into the pattern", "I'm scared the change won't stick", "I'm scared I'll relapse into the old behavior", "I'm worried I'll do it again", "I'm afraid the old self will come back", "I just made a change and I'm scared it won't last", "I'm scared I'll undo what I did", "I'm afraid I'll backslide", "I just quit but I'm scared I'll go back to the same job", "I just left the relationship but I'm scared I'll pick the same person", "I just stopped drinking but I'm scared I'll start again", "the reversion fear", "the post-change reversion fear", "the fear of going back after a bold move", "I made a brave choice and now I'm scared I won't keep choosing it", "I quit without a plan and I'm scared I won't take care of myself next time"]
 tags: ["transformation", "reversion", "fear-of-loss", "post-change", "self-care", "burnout", "concern"]
-sources: ["2023-12-29_Fear Of Overworking"]
+sources: ["2023-12-29_Fear Of Overworking", "2024-05-27_How Do I Not Burn Out Again？"]
 ---
 
 # I'm afraid I'll revert to my old pattern / What if I go back to how I was?
@@ -61,6 +61,8 @@ The branching depends on what's underneath the asking.
 
 - **If the person presents the fear with light energy and an authentic smile:** this is often someone close to seeing it themselves. Joe can be playful. The golf-swing analogy lands: "if you hit a perfect golf swing, would you say I'm scared I'll never do that again?" Once they laugh, the recursion is visible.
 
+- **If the reversion-fear is hiding inside a decision-frame:** the person is not asking "how do I make sure I don't revert?" directly. They are asking "how do I choose between A and B?" — where both options are colored by the same reversion fear. Path A would mean reverting to overworking. Path B would mean reverting in a different shape. The decision is a cover for the deeper question. The move is to surface the underneath question: "What's the emotional experience you're trying to avoid in each option?" See [[whats-the-emotion-youre-trying-to-avoid]]. When the person sees both options have the same emotional avoidance underneath, the decision dissolves and the real work appears: how do I do anything at all without re-running the pattern? At that point the question is no longer about the choice but about the relationship to whatever is being done. See [[caring-what-others-think-is-the-burnout-engine]] for the specific case where what generates the reversion is the constant management of other people's opinion.
+
 ## Coaching Path
 
 1. **Find the action they just took.** Sometimes the person presents the fear without naming the action that produced the fear. Surface the action. "What did you just do that you're afraid you won't keep doing?"
@@ -91,3 +93,4 @@ The branching depends on what's underneath the asking.
 ## Sources
 
 - 2023-12-29_Fear Of Overworking
+- 2024-05-27_How Do I Not Burn Out Again？ (the decision-frame variant: a person who has rested for six months and is now standing between two paths (career and family), where both paths are colored by the burnout fear; Joe surfaces the avoided emotion underneath each option and the decision-frame dissolves)

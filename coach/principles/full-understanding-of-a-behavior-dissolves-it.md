@@ -2,10 +2,10 @@
 type: principle
 id: full-understanding-of-a-behavior-dissolves-it
 title: "If You Fully Understood the Behavior, You Wouldn't Do It"
-aliases: ["full understanding dissolves behavior", "if you fully understood it you wouldn't do it", "fully feel the behavior to stop it", "understand the habit don't fight it", "feel the behavior all the way through", "understanding over doing", "the felt-experience-of-the-behavior approach", "understand instead of try to stop", "stop trying to stop start understanding", "the no-figure-it-out behavior change", "feel the behavior in the act", "the wrapping-boys-around-her-finger example", "the smoking mindfulness approach"]
-tags: ["principle", "bad habits", "behavior change", "understanding", "feeling", "transformation", "addiction", "awareness"]
-related: ["awareness-as-change-agent", "shame-drives-behavior", "address-the-blocker-not-the-symptom", "joes-pot-habit", "feeling-the-unfelt-emotion", "apologize-as-daily-practice-for-bad-habits", "dissolution-not-behavior-control", "undoing-not-doing", "embrace-intensity"]
-sources: ["2022-10-26_The Upright Apology", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison"]
+aliases: ["full understanding dissolves behavior", "if you fully understood it you wouldn't do it", "fully feel the behavior to stop it", "understand the habit don't fight it", "feel the behavior all the way through", "understanding over doing", "the felt-experience-of-the-behavior approach", "understand instead of try to stop", "stop trying to stop start understanding", "the no-figure-it-out behavior change", "feel the behavior in the act", "the wrapping-boys-around-her-finger example", "the smoking mindfulness approach", "focus on the pain", "feel the pain of the behavior", "feel the pain of not doing the thing", "the sedentary-pain version", "feel the pain of being sedentary", "the friend who overate and felt the bloating", "drop the hot frying pan of the bad habit", "drop the hot frying pan of being sedentary", "feel the pain of the habit and the pain of the avoidance", "pain on both sides of the behavior", "feel the pain you've been blocking", "the felt-cost-as-the-mechanism principle"]
+tags: ["principle", "bad habits", "behavior change", "understanding", "feeling", "transformation", "addiction", "awareness", "discipline"]
+related: ["awareness-as-change-agent", "shame-drives-behavior", "address-the-blocker-not-the-symptom", "joes-pot-habit", "feeling-the-unfelt-emotion", "apologize-as-daily-practice-for-bad-habits", "dissolution-not-behavior-control", "undoing-not-doing", "embrace-intensity", "sit-with-the-aftermath", "avoid-the-decision-by-design", "find-a-healthy-replacement", "i-cant-be-disciplined"]
+sources: ["2022-10-26_The Upright Apology", "2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison", "2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison", "2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)"]
 ---
 
 # If You Fully Understood the Behavior, You Wouldn't Do It
@@ -53,6 +53,30 @@ A young woman in her twenties noticed that she could "wrap boys around her finge
 "I was like, 'Just feel it. Next time you're doing it, just feel it. Feel it all the way through. Allow your, like, don't stop feeling any part of it. Have the full and total experience of it.' And two days later, I was talking to her again and I was like, 'Well, how'd it go?' And she said, 'Well, I saw myself doing it. I felt it all the way through.' I was like, 'Oh, and what happened?' And she goes, 'Well, I didn't figure anything out, but boy, I just stopped doing it. Didn't feel good.' And that was it." -- Joe Hudson, The Upright Apology
 
 Two days, no analysis, no plan, no willpower. The behavior dissolved when she stopped dissociating from the experience of doing it. The didn't-feel-good was always there. She had been blocking it. Feeling it all the way through removed the block, which removed the behavior.
+
+## Feel the Pain of the Behavior — and of the Avoidance
+
+A specific extension of the principle. The pain of an unwanted behavior is not always located in doing it. Sometimes it is located in the avoidance — in the not-doing of the alternative. The classic example is exercise.
+
+"How much discipline does it take you to drop a hot frying pan after you grab it? It doesn't take any because immediately your body knows that it's painful. But oftentimes when we're doing something that we don't wanna be doing, like a bad habit, we're doing everything we can not to feel the pain. We're not feeling the pain of the pornography or the drug addiction, or we're not feeling the pain of the lying, or we're not feeling the pain of gossiping. So let's say you've always wanted to be disciplined about working out. How often are you in touch with the pain of being sedentary, right? So every day when you work out, you feel a little bit better. Every day you don't work out, you don't feel a little bit better. How often are you in touch with that?" -- Joe Hudson, How To Be Disciplined Without Having Discipline
+
+This is the corollary to the principle: for behaviors of omission (not exercising, not calling a parent, not starting the work, not eating well), the pain to feel is the felt cost of the omission itself. The disciplined-people-who-just-work-out are not winning a willpower fight. They are in contact with how much worse they feel on the days they do not move. The non-disciplined person has dissociated from that signal, which is why discipline is needed at all.
+
+The instruction generalizes: locate where the pain actually lives. For a behavior of commission (smoking, scrolling, snapping at people), the pain is often in the doing or its immediate aftermath. For a behavior of omission, the pain is in the slow degradation of the days without the missing thing. Either way, the move is to slow down and let the actual felt signal arrive. The signal is what would make the change automatic.
+
+The same instruction applies to lying, gossiping, addictive behaviors of all kinds. "We're doing everything we can not to feel the pain" — the active suppression of the felt signal is what the practice undoes.
+
+## The Friend Who Overate and Sat With the Bloating
+
+The aftermath-form of the principle has its cleanest example in a friend Joe describes who was overeating.
+
+"I had a friend who was constantly overeating, and he was overeating because eating a lot somehow made him feel a little bit more settled. So there was something he was getting out of it, but it also made him feel bloated and bad. And so he decided what he was gonna do is every time he overate, he was gonna sit silently for 10 minutes and just feel the bloating, just feel the pain of overeating. He was never gonna tell himself not to do it, he wasn't gonna tell himself to eat less, he was just going to feel the sensation. And over time, and not that much time, but over time he stopped overeating because he knew how much it hurt him. And it was just as simple as that, it was just bringing awareness to the pain and that makes it so that you don't have to be disciplined, you just drop the hot frying pan." -- Joe Hudson, How To Be Disciplined Without Having Discipline
+
+Several details earn attention. The friend never told himself not to do it. He did not impose a rule. He did not try to eat less. He only added a sitting-with-the-aftermath afterward. The behavior shifted because the body's signal — the bloating, the heaviness — was no longer being immediately overwritten by the next thing on the day's list. Ten minutes of contact was enough to begin restoring the channel.
+
+"Over time, and not that much time" — Joe's phrasing. The change is faster than the willpower model predicts because the willpower model has been pulling against the body's actual signal, not aligning with it. Once the alignment is restored, the change is along the grain.
+
+The practice form of this is captured in [[sit-with-the-aftermath]]. The general principle, in its most compressed form, is the same: bring awareness to the pain, drop the hot frying pan.
 
 ## What the Person Is Not Doing
 
@@ -135,9 +159,13 @@ Joe holds this principle with confidence and lightness. The confidence is becaus
 - Toward [[apologize-as-daily-practice-for-bad-habits]] as the complementary verbal practice.
 - Toward [[awareness-as-change-agent]] as the broader principle this is a specific form of.
 - Toward [[undoing-not-doing]] as the orientation this fits inside.
+- Toward [[sit-with-the-aftermath]] as the concrete entry-point practice when the in-the-act feeling is too automated to access.
+- Toward [[avoid-the-decision-by-design]] when the felt-pain work has reduced the appeal but the environmental encounters are still keeping the behavior available.
+- Toward [[find-a-healthy-replacement]] when the behavior was meeting a real need that needs a different vehicle.
 
 ## Sources
 
 - 2022-10-26_The Upright Apology
 - 2024-05-17_Happiness, the New Way – Joe Hudson with Stephanie Harrison (the hot frying pan compression of the principle: "How do you drop a hot frying pan? All you have to do is feel it. If you want to drop bad habits, you just need to feel them"; the recounting of the severe backlash to this Twitter post, requiring Joe to block multiple commenters — the source for [[religious-identity-around-pain]] as the diagnostic of why the teaching produces defense rather than experimentation in some hearers)
 - 2024-05-17_The Plight Of Perfection – Joe Hudson with Stephanie Harrison (alternate-version transcript of the same conversation containing the same hot frying pan compression)
+- 2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips) (the "focus on the pain" version of the principle as the first of three tips for being disciplined without being disciplined; the extension that for behaviors of omission like not working out, the pain to feel is the felt cost of being sedentary, not the act itself; the friend-who-overate-and-sat-with-bloating example of the aftermath form of the principle; the explicit framing that "you don't have to be disciplined, you just drop the hot frying pan")

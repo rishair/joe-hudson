@@ -5,7 +5,7 @@ title: "Embrace vs. Brace"
 aliases: ["bracing vs embracing", "embracing or bracing", "embrace or brace", "the brace vs embrace felt sense", "am I bracing or embracing"]
 tags: ["felt sense", "resistance", "embracing", "diagnostic", "embodied"]
 related: ["embrace-intensity", "resistance", "feeling-the-unfelt-emotion", "are-you-bracing-or-embracing", "embracing-vs-creating-intensity", "love-the-anxiety-not-just-with-it", "anxiety-as-constricted-life-force"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-10-26_Embracing Intensity"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-10-26_Embracing Intensity", "2024-06-03_I'm Afraid I Won't Get Anything Done"]
 ---
 
 # Embrace vs. Brace
@@ -77,12 +77,25 @@ The distinction is delivered as a friendly question, not an injunction. "Am I br
 
 ## Downstream (Where This Leads)
 
-- Toward [[are-you-bracing-or-embracing]]: the question as a coaching instrument.
+- Toward [[are-you-bracing-or-embracing]]: the IF diagnostic, the question as a coaching instrument.
+- Toward [[what-am-i-bracing-for]]: the FOR-WHAT diagnostic, the take-home daily-practice version of the inquiry.
+- Toward [[show-me-the-bracing-and-show-me-the-opposite]]: the live somatic demonstration that resolves the intellectual argument by having the body show both sides.
+- Toward [[bracing-as-control-of-emotional-experience]]: the principle that explains what the brace is doing, and why the predicted consequences of releasing it do not occur.
+- Toward [[bracing-hardens-identity-makes-you-needed]]: the identity layer underneath the brace, which often surfaces once the brace begins to release.
 - Toward [[feeling-the-unfelt-emotion]]: once the brace is seen, the underlying feeling becomes accessible.
 - Toward [[embrace-intensity]]: the principle this distinction operationalizes.
 - Toward [[embracing-vs-creating-intensity]]: the adjacent distinction that prevents misapplication.
+
+## A Common Mistaken Prediction
+
+A person who has bracing as a chronic posture often predicts that releasing the brace will produce chaos: bouncing off the walls, being unproductive, being too much, being rejected. The prediction is constructed by the brace to defend itself. The prediction is wrong.
+
+The actual consequence of releasing the brace, observable in the body and in live demonstration, is increased presence. More breath, more energy, more available attention, more capacity. The "bouncing off the walls" version, when actually attempted, is itself a brace -- a manic, scattered effortfulness that is still bracing, just at a different tempo.
+
+See [[bracing-as-control-of-emotional-experience]] for the full inversion: the brace is controlling emotion, and the release does not produce loss of control but more presence.
 
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2
 - 2022-10-26_Embracing Intensity (re-recording of the same teaching)
+- 2024-06-03_I'm Afraid I Won't Get Anything Done (the productivity-bracing application; opposite-of-bracing as presence not chaos; identity layer of the brace)

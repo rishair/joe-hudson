@@ -4,7 +4,7 @@ id: what-makes-you-care-about-their-emotional-state
 title: "What makes you care more about their emotional state than yours?"
 aliases: ["what makes you care more about their emotional state", "the emotional state question", "what makes it your job to take care of their emotional state", "what would make it their job to take care of your emotional state", "the caretaking-of-mood question", "the eggshell diagnostic question", "the managing-the-mood question", "why are you managing their mood", "the inversion question for caretaking conflict avoidance"]
 tags: ["question", "conflict avoidance", "caretaking", "eggshells", "boundaries", "managing emotions"]
-related: ["walking-on-eggshells", "conflict-avoidance-prevents-being-loved", "conflict-avoidance-prevents-healing", "you-think-they-cant-handle-it", "i-caretake-people", "dont-make-it-your-job-to-prevent-their-triggers", "caring-vs-caretaking"]
+related: ["walking-on-eggshells", "conflict-avoidance-prevents-being-loved", "conflict-avoidance-prevents-healing", "you-think-they-cant-handle-it", "i-caretake-people", "dont-make-it-your-job-to-prevent-their-triggers", "caring-vs-caretaking", "using-your-emotion-to-make-others-hold-it"]
 sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement"]
 ---
 

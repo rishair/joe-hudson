@@ -4,7 +4,7 @@ id: im-burned-out
 title: "I'm burned out / I'm running on fumes"
 aliases: ["I'm burned out", "I'm burnt out", "I'm running on fumes", "I'm exhausted", "I have nothing left", "I'm fried", "I'm running on empty", "I can't keep going like this", "I'm depleted", "I've been running too hard for too long", "I think I'm burning out", "I'm about to burn out", "everything feels like too much", "I'm spent", "I've got nothing left to give", "I'm wiped", "I have no energy", "I'm constantly tired", "I'm running on adrenaline", "I can't think clearly anymore", "I feel like I'm drowning at work", "I dread getting up", "I don't enjoy anything anymore"]
 tags: ["burnout", "exhaustion", "adrenaline", "stress", "concern"]
-sources: ["2023-09-01_The Burnout Cycle"]
+sources: ["2023-09-01_The Burnout Cycle", "2024-05-27_How Do I Not Burn Out Again？"]
 ---
 
 # I'm burned out / I'm running on fumes
@@ -72,6 +72,10 @@ The most important read is whether the person is on the "running hard" side of t
 
 - **If a normally-adrenalizing activity has stopped producing adrenaline:** the adrenals are exhausted. Stop using the discharge activity and actually rest. See [[burnout-cycle]] for the diagnostic.
 
+- **If the person has rested for months and is now standing at a decision about what comes next, presenting the decision as the work:** the decision is not the work. The work is what the decision is trying to avoid. Both options are usually being read through the same lens that produced the burnout. The question "how do I choose between A and B?" is operating as a substitute for the deeper question "how do I do anything at all without burning out?" The decision-frame is itself the pattern. See [[whats-the-emotion-youre-trying-to-avoid]] and [[treating-it-as-a-decision-when-its-an-emotion]].
+
+- **If the person identifies caring about other people's opinion as a major source of the burnout:** the read is exact. Constantly managing other people's perceptions is one of the highest-adrenaline activities the body can run. The person who burned out while making sure everyone was happy was running a fight-or-flight loop continuously for months or years. See [[caring-what-others-think-is-the-burnout-engine]]. The work is to reframe progress as internal rather than as something to display.
+
 ## Coaching Path
 
 1. **Name which side of the cycle they are on.** Mid-run or post-collapse. The intervention differs. See [[burnout-cycle]].
@@ -110,3 +114,4 @@ The most important read is whether the person is on the "running hard" side of t
 
 - 2023-09-01_The Burnout Cycle
 - 2023-09-08_The Burnout Cycle
+- 2024-05-27_How Do I Not Burn Out Again？ (the post-burnout reversion-decision variant: a person who has rested for six months now standing at a fork between career and family, presenting the choice as the work; Joe redirects to the avoided emotion underneath the choice and names caring-what-others-think as the prior burnout's engine)

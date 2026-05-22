@@ -4,7 +4,7 @@ id: negative-self-reinforcement
 title: "Negative Self-Reinforcement"
 aliases: ["AC current pattern", "self-punishment loop", "kicking yourself in the face", "associating the task with pain", "negative reward cycle"]
 tags: ["resistance", "procrastination", "shame", "habits", "patterns"]
-related: ["resistance", "layered-resistance", "shame-drives-behavior", "feeling-the-unfelt-emotion"]
+related: ["resistance", "layered-resistance", "shame-drives-behavior", "feeling-the-unfelt-emotion", "i-cant-be-disciplined", "avoid-the-decision-by-design", "find-a-healthy-replacement", "sit-with-the-aftermath", "full-understanding-of-a-behavior-dissolves-it"]
 sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
 ---
 
@@ -44,6 +44,10 @@ This is not visualization as a trick. It is interrupting the automatic associati
 - Toward [[feeling-the-unfelt-emotion]]: identifying the emotion underneath the avoidance and feeling it.
 - Toward [[embrace-intensity]]: running toward the feeling rather than away.
 - Away from [[layered-resistance]]: recognizing the self-punishment as another layer rather than a motivational tool.
+- Toward [[avoid-the-decision-by-design]] when the loop runs at a specific environmental encounter that can be removed.
+- Toward [[find-a-healthy-replacement]] when the avoided thing has been replaced by a behavior that is meeting a need that needs a different vehicle.
+- Toward [[sit-with-the-aftermath]] when the avoided thing has a felt aftermath that has been bypassed.
+- Toward [[i-cant-be-disciplined]] as the concern this pattern often presents under.
 
 ## Sources
 

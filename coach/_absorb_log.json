@@ -5127,13 +5127,39 @@
       "status": "complete",
       "claimed_at": "2026-05-22T17:13:41Z",
       "articles_created": [
-        "narcissism-as-incapacity-to-feel",
+        "actor-giving-most-convincing-performance",
         "contain-the-narcissist",
-        "stress-from-not-doing-the-thing",
+        "dont-believe-your-emotions-as-identity",
+        "dont-manage-your-kids-into-moving-emotion",
+        "draw-boundaries-with-kids-to-let-anger-arise",
+        "hold-a-perspective-without-thinking-youre-right",
+        "how-do-i-deal-with-narcissistic-parent",
+        "identity-shapes-who-is-around-you",
+        "joes-parents-stressed-at-40-percent-story",
+        "model-emotional-movement-for-your-kids",
+        "narcissism-as-incapacity-to-feel",
         "raw-ambition-vs-stories-on-ambition",
-        "how-do-i-deal-with-narcissistic-parent"
+        "stress-from-not-doing-the-thing",
+        "using-your-emotion-to-make-others-hold-it",
+        "what-if-i-dont-want-to-be-in-view"
       ],
-      "articles_updated": [],
+      "articles_updated": [
+        "boundaries",
+        "dont-do-emotion-at-people",
+        "emotion-at-someone-means-self-manipulation",
+        "enjoyment-as-path",
+        "every-thought-about-not-feeling-is-an-emotion-to-feel",
+        "fully-feeling-restructures-the-self",
+        "identity",
+        "identity-reproduces-childhood-stress-levels",
+        "parenting-as-coaching-domain",
+        "redirect-from-doing-it-right-to-enjoying-it",
+        "three-stages-of-emotional-inquiry-maturity",
+        "treat-yourself-as-actor-of-emotion",
+        "view",
+        "view-as-technique",
+        "what-makes-you-care-about-their-emotional-state"
+      ],
       "type": "teaching",
       "absorbed_at": "2026-05-22T17:34:36Z"
     },
@@ -5161,8 +5187,75 @@
     },
     {
       "folder": "2024-05-27_How Do I Not Burn Out Again\uff1f",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T17:36:13Z",
+      "articles_created": [
+        "whats-the-emotion-youre-trying-to-avoid",
+        "treating-it-as-a-decision-when-its-an-emotion",
+        "ask-the-body-the-question",
+        "caring-what-others-think-is-the-burnout-engine"
+      ],
+      "articles_updated": [
+        "im-burned-out",
+        "im-afraid-ill-revert-to-my-old-pattern",
+        "decisions-are-emotional",
+        "burnout-cycle",
+        "let-your-body-remember-this-moment"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T17:46:42Z"
+    },
+    {
+      "folder": "2024-05-31_How To Be Disciplined Without Having Discipline (3 Tips)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T17:46:31Z",
+      "articles_created": [
+        "i-cant-be-disciplined",
+        "avoid-the-decision-by-design",
+        "find-a-healthy-replacement",
+        "sit-with-the-aftermath"
+      ],
+      "articles_updated": [
+        "full-understanding-of-a-behavior-dissolves-it",
+        "discipline-starts-engine-then-let-gravity",
+        "ill-become-lazy-without-shoulds",
+        "shame-drives-behavior",
+        "negative-self-reinforcement",
+        "rebellion-or-submission-to-should"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T17:55:54Z"
+    },
+    {
+      "folder": "2024-06-03_I'm Afraid I Won't Get Anything Done",
+      "status": "complete",
+      "claimed_at": "2026-05-22T17:47:50Z",
+      "articles_created": [
+        "im-afraid-i-wont-get-anything-done",
+        "show-me-the-bracing-and-show-me-the-opposite",
+        "what-am-i-bracing-for",
+        "bracing-hardens-identity-makes-you-needed",
+        "bracing-as-control-of-emotional-experience"
+      ],
+      "articles_updated": [
+        "embrace-vs-brace",
+        "are-you-bracing-or-embracing",
+        "ill-become-lazy-without-shoulds"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T17:56:15Z"
+    },
+    {
+      "folder": "2024-06-07_Joe and Esme \u2014\u00a0The Teenage Years",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T17:56:58Z",
+      "articles_created": [],
+      "articles_updated": []
+    },
+    {
+      "folder": "2024-06-07_Joe and His Daughter Esme -\u00a0The Teenage Years",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T17:57:04Z",
       "articles_created": [],
       "articles_updated": []
     }
