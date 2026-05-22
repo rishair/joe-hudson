@@ -1,0 +1,50 @@
+# Coach config: v5b — model-guided graph navigation, Sonnet walker (E-038)
+#
+# IDENTICAL to v5a-guided-walk-haiku.yaml except `walker_model` is swapped
+# from Haiku to Sonnet. This is the deliberate experimental setup for E-038:
+# isolate walker-model strength as the variable, holding everything else
+# (algorithm, prompt, seed-detection model, k_max, step_budget, max edges)
+# constant.
+#
+# Architecture: identical seed-detection (Haiku 4.5 reads coach/_index.md,
+# returns 1-3 seeds restricted to concerns/, patterns/, reads/). Then a
+# SONNET 4.6 walker (one tier below the Opus coach for cost; one tier above
+# Haiku for reasoning) visits one frontier file per step, reads its body,
+# and decides via structured output: (A) add this file to the bundle?
+# (B) which of its `related:` edges to add to the frontier?
+#
+# Cost ceiling: $19 (per E-038 success criteria). Real expected: $15-18.
+# Walker cost guard: if smoke shows >$0.20 per turn average (4x Haiku
+# budget), abort.
+#
+# Decision rule for the head-to-head (per E-038.md):
+#   - Sonnet > Haiku by ≥0.10 on ≥2 dims, no regression >0.05: walker model
+#     is the right substrate. Justify cost premium.
+#   - Sonnet ≈ Haiku (delta <0.05): Haiku is sufficient. Cheaper is better.
+#   - Sonnet < Haiku: walker reasoning is not the bottleneck OR Sonnet
+#     introduces its own failure modes.
+
+id: coach-v5b-guided-walk-sonnet
+description: >
+  Coach v5b (E-038): model-guided graph navigation with Sonnet walker. Same
+  v1 prompt, same algorithm, same seed-detection model as v5a; the only
+  swap is the walker model from claude-haiku-4-5 to claude-sonnet-4-6.
+
+model: claude-sonnet-4-6
+temperature: 0.7
+max_tokens_per_turn: 1024
+
+system_prompt_path: ../prompts/v1.md
+
+retrieval:
+  strategy: guided-walk
+  config:
+    seed_model: claude-haiku-4-5
+    walker_model: claude-sonnet-4-6
+    seed_filter: [concerns, patterns, reads]
+    k_max: 7
+    # Held identical to v5a so model is the only variable.
+    step_budget: 6
+    max_edges_per_step: 4
+
+trigger_policy: every_turn

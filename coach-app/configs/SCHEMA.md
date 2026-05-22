@@ -99,7 +99,31 @@ retrieval:
 trigger_policy: every_turn
 ```
 
-**`strategy: hybrid`** (E-037) — finalized in E-037, placeholder:
+**`strategy: guided-walk`** (E-037 Haiku walker / E-038 Sonnet walker) —
+shipped in E-037. Identical seed detection to graph-walk (Haiku 4.5 reads
+coach/_index.md, picks 1-3 seeds restricted to concerns/, patterns/, reads/),
+then an LLM walker visits one frontier node per step, reads the body, and
+makes two structured decisions per call: add this file to the bundle?
+which `related:` edges to add to the frontier? E-038 swaps only the walker
+model — same algorithm, same prompt, same seed step.
+
+```yaml
+retrieval:
+  strategy: guided-walk
+  config:
+    seed_model: claude-haiku-4-5           # E-036 seed-detection step (reused)
+    walker_model: claude-haiku-4-5         # E-037; E-038 sets this to claude-sonnet-4-6
+    seed_filter: [concerns, patterns, reads]
+    k_max: 7                                # max bundle size
+    step_budget: 6                          # max walker visits per turn
+    max_edges_per_step: 4                   # max frontier additions per step
+trigger_policy: every_turn
+```
+
+**`strategy: hybrid`** (E-037 original spec; superseded by guided-walk above
+after E-036 results) — was placeholder for "best-per-dimension fusion of
+graph-walk and embedding"; redesigned 2026-05-22 to the model-guided walk
+above when the user reframed E-037 as a navigation experiment.
 
 ```yaml
 retrieval:
