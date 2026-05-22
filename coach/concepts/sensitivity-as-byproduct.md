@@ -5,7 +5,7 @@ title: "Sensitivity to Self and Others as a Byproduct of Embracing"
 aliases: ["increased sensitivity", "sensitivity to others' emotions", "perception of others' states", "reading the room as byproduct", "feeling the energy in the room", "perceiving emotional states", "cultivated attention creates sensitivity", "the bass line example", "the ice words example", "the BASE jumper wind example", "looks like magic but is years of cultivation", "Malcolm Gladwell Blink intuition", "the firefighter intuition", "mantis shrimp 12 colors"]
 tags: ["sensitivity", "empathy", "perception", "relational", "byproduct", "attention"]
 related: ["embrace-intensity", "empathy", "feeling-the-unfelt-emotion", "emotional-fluidity", "decisions-are-emotional", "staying-in-your-body", "head-heart-gut"]
-sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Embracing Intensity", "2022-10-26_How Your Body Speaks"]
+sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Embracing Intensity", "2022-10-26_How Your Body Speaks", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 
 # Sensitivity to Self and Others as a Byproduct of Embracing
@@ -76,6 +76,16 @@ This produces some result, but the result has a ceiling. The instrument doing th
 
 The path through embracing intensity bypasses this ceiling. The instrument gets retuned. The sensitivity that emerges is not a learned skill; it is a recovered capacity. See [[empathy]].
 
+## Sensitivity Earlier Enables Better Decisions
+
+The sensitivity also operates as an early-warning system for the small avoidances that would otherwise compound into bigger problems. As the practice deepens, the body registers the tiny gut-punch of "I am avoiding something here" much earlier than before -- often during a conversation, sometimes during the half-second before a sentence comes out.
+
+"The more you welcome them, the more you'll notice that tiny little bit of gut punch of like, 'oh, I'm probably over my parking, but I don't want to leave this conversation. It's so good. I'll just ignore that for a minute.' And so this is something we mentioned in the Q&A episode recently. Where, you know, the more of this work you do, the more sensitive you become, and the less you're willing to handle certain and deal with certain things in your life. So you end up feeling, feeling more, and it comes earlier, which is really good for making great emotional decisions." -- Brett Kistler, Embracing Emotions: The Key to Great Decisions
+
+Joe's affirmation: "You can make a lot better decisions if you are sensitive to the emotional experience that you're having in the moment. And you become more sensitive the more you feel into them." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The "comes earlier" point is operationally important. A person can act on a felt signal at the half-second mark before any narrative has formed; they can also act on the same signal at the ten-minute mark after it has been suppressed long enough to become unconscious; they can also act on the same signal at the months-later mark when the suppressed material has produced an external crisis. Sensitivity moves the operative moment earlier in the chain. The earlier intervention is cheaper, cleaner, and produces less downstream wreckage. This is one of the structural advantages [[decisions-are-emotional]] confers on people who have done substantial embracing work.
+
 ## The Risk
 
 Increased sensitivity is not always pleasant. The person who could not feel certain emotions also could not feel them in others. Once the perception opens, the world becomes louder. The grief in the room becomes obvious. The fear in the team becomes visible. The shame in the family becomes palpable.
@@ -113,3 +123,4 @@ Joe presents this as something he noticed almost in passing -- a benefit of the 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Embracing Intensity (re-recording where Joe reaffirms sensitivity as the fifth/bonus benefit of embracing intensity)
 - 2022-10-26_How Your Body Speaks (rebroadcast of the 2022-01-07 conversation)
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the "tiny gut-punch sensitivity" framing for in-the-moment decision quality; the "comes earlier" point about sensitivity moving the operative moment in the chain earlier)

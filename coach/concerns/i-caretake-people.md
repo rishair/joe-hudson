@@ -4,7 +4,7 @@ id: i-caretake-people
 title: "I caretake people / I manage everyone's emotions"
 aliases: ["I'm codependent", "I'm always taking care of people", "I'm exhausted from caring for others", "I'm a caretaker", "I manage everyone's feelings", "I caretake my partner", "I caretake my family", "people-pleasing in care form"]
 tags: ["codependence", "caretaking", "boundaries", "obligation", "savior"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
 ---
 
 # I caretake people / I manage everyone's emotions
@@ -108,15 +108,32 @@ The parenting version is the matriarch who pours everything into the family and 
 
 The leadership and parenting versions converge: in both, the person believes the role requires self-sacrifice, and the people they are caretaking suffer as a result of the suppression rather than benefit from the sacrifice. The corrective in both cases is the same -- find what you actually want, state it, and let the team or family find their own response. See [[stay-centered-while-holding-space]] and [[state-the-want-not-the-action]].
 
+## The Chronic Illness / Mental Health Partner Form
+
+A particularly intense version of this concern appears when the person is partnered with someone who has chronic illness, mental health issues, addiction, or long-term trauma processing. The caretaking becomes the architecture of the relationship. The caretaker stops sharing their own pain because there is "no room" given how much the partner is processing. The exhaustion compounds over years.
+
+For the specific shape this takes -- the "I have to be the strong one because my partner can't," the asymmetric processing, the fear of mutual collapse, the should that says "I should have unlimited time for him" -- see [[im-exhausted-holding-space-for-my-partner]].
+
+The diagnostic markers specific to this shape:
+- A felt obligation that has been running for years, not weeks
+- "I'm tired" as the primary complaint rather than resentment
+- The caretaker has lost contact with their own wants entirely ("I just want what's best for him")
+- Self-judgment for being tired ("I shouldn't be tired, his situation is harder")
+- A belief that they have to be strong because the partner cannot be
+
+In this form, the work often includes [[exhaustion-is-unexpressed-anger]]: the chronic fatigue is the held mobilization that has had no outlet. The release path is often anger at the situation (the illness, the chronic processing) rather than at the partner. In a couples coaching context, both partners can move anger together at the shared circumstance -- see [[victim-anger-vs-dominating-anger]] and the example [[sadie-christopher-anger-together]].
+
 ## Related Concerns
 
 - [[i-feel-trapped]]: the felt cage is often the caretaking dynamic.
 - [[i-have-to-sacrifice-to-succeed]]: a related framing in the work domain.
 - [[i-should-be-doing-this]]: the should layer that often holds caretaking in place.
 - [[am-i-being-selfish]]: the verbal label that often guards the caretaking from being examined.
+- [[im-exhausted-holding-space-for-my-partner]]: the specific shape this takes when the partner has chronic illness or mental health issues.
 
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
+- 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session demonstrating the chronic-illness-partner form, where caretaking presents as exhaustion and unexpressed anger

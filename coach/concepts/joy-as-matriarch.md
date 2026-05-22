@@ -2,10 +2,10 @@
 type: concept
 id: joy-as-matriarch
 title: "Joy as the Matriarch of a Family of Emotions"
-aliases: ["joy as matriarch", "joy is a matriarch", "joy as mother", "joy won't come without her children", "the matriarch metaphor", "joy as gateway emotion", "the family of emotions", "docks in your port metaphor", "joy as the diagnostic of the household", "natural easeful joy as the sign", "joy as parenting diagnostic"]
+aliases: ["joy as matriarch", "joy is a matriarch", "joy as mother", "joy won't come without her children", "the matriarch metaphor", "joy as gateway emotion", "the family of emotions", "docks in your port metaphor", "joy as the diagnostic of the household", "natural easeful joy as the sign", "joy as parenting diagnostic", "the rainbow of positive emotions", "happiness joy contentment bliss peace", "joy is many emotions not one", "the spectrum of positive emotions", "the positive emotions rainbow"]
 tags: ["joy", "emotions", "metaphor", "welcoming", "positive emotions", "repression"]
-related: ["stages-of-emotional-development", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "kinked-emotions", "pleasure-capacity", "daily-emotional-yoga", "embrace-intensity", "emotional-fluidity", "fear-of-joy", "cafe-emotional-stigma", "grief-is-many-emotions-not-just-sadness", "dont-shame-your-grief-process", "parenting-as-real-world-test-of-inner-work"]
-sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Embracing Intensity", "2022-10-26_Emile DeWeaver", "2022-10-26_Stages Of Emotional Development", "2022-12-26_Joe And His Daughter Discuss Fatherhood"]
+related: ["stages-of-emotional-development", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "kinked-emotions", "pleasure-capacity", "daily-emotional-yoga", "embrace-intensity", "emotional-fluidity", "fear-of-joy", "cafe-emotional-stigma", "grief-is-many-emotions-not-just-sadness", "dont-shame-your-grief-process", "parenting-as-real-world-test-of-inner-work", "blocker-emotions"]
+sources: ["2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Embracing Intensity", "2022-10-26_Emile DeWeaver", "2022-10-26_Stages Of Emotional Development", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-02-10_The Golden Algorithm — Decisions Series #3"]
 ---
 
 # Joy as the Matriarch of a Family of Emotions
@@ -55,6 +55,16 @@ Most people do not know they are repressing positive emotions. They assume joy w
 "And then we'll usually do anger and sadness first, then probably fear, and then joy and bliss, peace. All that stuff starts coming, and this is where the meat of the work is. And for some people, some emotions are easier than others. Usually the negative emotions, almost always... need to move first and then the positive emotions. Oftentimes people don't understand that they're repressing the positive emotions." -- Joe Hudson, Stages of Emotional Development
 
 See [[negative-emotions-precede-positive]] for the developmental ordering.
+
+## The Rainbow Beyond Joy
+
+Once the matriarch is welcomed in, what arrives is not a single emotion called "joy" but an entire spectrum of positive emotions, each with its own intensity. As the welcoming work deepens, the positive emotions become more varied and more vivid: happiness, then joy, then contentment, then bliss, then peace.
+
+"You feel better and better and better and better. And it goes from like, oh, happiness, and then there's joy and contentment and bliss. There's like a whole rainbow of positive emotions out there. And it just gets more -- the intensity of the positive emotions gets bigger and, and it's wonderful." -- Joe Hudson, The Golden Algorithm
+
+The rainbow framing matters for a specific reason: it correctly anticipates that the deeper positive emotions are not just "more joy." They are different in quality. Bliss is not happiness turned up. Peace is not contentment intensified. Each is its own state, with its own felt sense, its own relationship to identity, its own way of arriving. The matriarch image gets people in the door; the rainbow image describes what is actually behind the door.
+
+The intensity also matters. As the positive emotions deepen, they become big enough to threaten the identity that has been organizing experience. Bliss especially "doesn't make a lot of room for you as an entity" -- the sense of being a separate self softens in deep positive states the way it does in deep grief or deep anger. This is part of why the positive layer is also scary, not just the negative layer. See the resistance section below and [[fear-of-joy]] for the specific case.
 
 ## The Resistance to Positive Emotions
 
@@ -127,3 +137,4 @@ Warm. The matriarch image is offered with affection. The emotions are not proble
 - 2022-10-26_Emile DeWeaver (rebroadcast; Joe shares the matriarch saying with Émile, who confirms it lands as a perfect description of what his post-prison work has been doing)
 - 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode where the matriarch image first appeared)
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood (Joe quoting the matriarch teaching to his daughter and naming her natural easeful joy as the diagnostic of the household)
+- 2023-02-10_The Golden Algorithm — Decisions Series #3 (the rainbow framing of the positive emotions extending from happiness through joy, contentment, bliss, and peace; the identity-dissolution character of bliss as why the positive layer is also scary)

@@ -5,7 +5,7 @@ title: "Feeling the Unfelt Emotion"
 aliases: ["fully feeling the emotion", "processing the held-back emotion", "inviting the emotion", "welcoming the avoided feeling", "falling in love with the emotion"]
 tags: ["trauma", "healing", "emotions", "core mechanism"]
 related: ["trauma-mapping", "container-of-love", "grief-as-gateway-to-self-love", "vulnerability", "letting-judgment-in", "past-shame-vs-current-shame", "childhood-imprinting", "kinked-emotions", "treat-yourself-as-actor-of-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "feel-over-figure", "unfelt-emotion-leaks", "three-signals-of-unfelt-emotion", "disassociation-as-numbness-layer", "fear-vs-anxiety", "let-your-body-shake-it-out", "repression-vs-management", "observe-vs-move-emotion", "love-the-anxiety-not-just-with-it", "love-relationship-with-anxiety"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Vulnerability"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-11-10_Vulnerability — Connection Course Series #5", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_Vulnerability", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 
 # Feeling the Unfelt Emotion
@@ -95,6 +95,22 @@ The emotion may sound garbly. Anger does not speak in clean logical sentences. I
 
 Joe recommends dedicated time, especially in early stages: twenty to thirty minutes of [[daily-emotional-yoga]]. Feel what is not being felt. Teach the body the motion. Repeat. The musculature releases as the emotions move, and the next layer of emotion becomes accessible. See [[emotions-live-in-muscles]] and [[stages-of-emotional-development]].
 
+For the in-the-moment version of the encounter (an emotion that arises during the day, rather than scheduled time to find what is not being felt), see [[emotional-inquiry]]. The two practices complement each other: dedicated time builds the capacity that lets the moment-by-moment encounter become possible.
+
+## The Three Mechanisms of What This Produces
+
+When the welcoming becomes reliable, three reinforcing mechanisms of transformation become operative simultaneously. Joe names this triad explicitly:
+
+"The three major mechanisms of of that transform our lives because we're embracing welcoming emotions are the decision-making, the stopping the patterns, and the increase of connection." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+1. **Decision-making clarifies.** Decisions stop being structured around avoiding feelings. The actual decision criteria become visible. See [[decisions-are-emotional]] and [[embracing-changes-unconscious-decisions]] for the full treatment, including how the small unconscious daily choices change as a byproduct.
+
+2. **Patterns interrupt themselves.** The patterns that were keeping the avoided emotion in circulation no longer have a purpose. The recreations slow and stop. See [[what-we-fear-we-invite]] for the golden algorithm form of this mechanism.
+
+3. **Connection deepens.** The mechanisms of disconnection -- shame, judgment, defensiveness -- all serve emotional avoidance. When the underlying emotions are felt, those mechanisms relax. Connection with self and others deepens because the structures separating them have less work to do. See [[shame-as-disconnection]] and [[self-judgment-protects-from-emotion]].
+
+The three mechanisms compound. Better decisions reduce the situations that produce the avoided emotions. Pattern interruption frees the energy that was sustaining the avoidance. Increased connection provides the container in which the next layer of emotion can be safely felt. This is why people who do sustained embracing work appear, from the outside, to be transforming at an accelerating pace -- not because the transformations are getting easier but because the three mechanisms keep feeding each other.
+
 ## Downstream (Where This Leads)
 
 - The dissolution of [[trauma-mapping]] patterns
@@ -119,3 +135,4 @@ Joe recommends dedicated time, especially in early stages: twenty to thirty minu
 - 2022-10-26_Embracing Intensity (re-recording of the 2021-10-08 teaching; reaffirms the curbing-addiction and breaking-trauma-loops applications)
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the three-mechanisms framing tying the welcoming work to decisions, pattern interruption, and connection; the explicit naming of the compounding effect)

@@ -5,7 +5,7 @@ title: "Welcoming the Other's Difficult Emotion"
 aliases: ["tell me how angry you are", "I can accept your anger", "I welcome your sadness", "the anti-caretaking welcoming move", "yeah baby give me your anger", "let them have it"]
 tags: ["caretaking", "anger", "welcoming", "boundaries", "emotions", "move"]
 related: ["caring-vs-caretaking", "love-as-deep-welcoming", "empathy", "boundary-with-vs-boundary-against", "feeling-the-unfelt-emotion", "embrace-intensity", "anger", "invite-the-aggression-out", "dont-should-yourself-to-welcome-anger", "passive-aggressive-vs-aggressive-aggressive"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
 ---
 
 # Welcoming the Other's Difficult Emotion
@@ -127,8 +127,19 @@ This move requires real capacity. Trying to perform the welcoming when the syste
 
 The capacity to welcome others' anger develops as the byproduct of loving your own anger, not as a skill applied through will. See [[dont-should-yourself-to-welcome-anger]] for the full anti-pattern, and [[get-angry-in-the-car]] for the underlying practice that builds the capacity.
 
+## Specific Applications in Couples Coaching
+
+Two specific variations show up when the welcoming move is applied within a coaching session with both partners present:
+
+**[[have-partner-state-the-welcome-aloud]]:** When one partner has been operating under a false belief about what the other needs ("they need me to be the strong one"), have the actual partner speak the welcome directly in their own words. The welcome from the source person carries weight that no third-party description can. The receiver's body shows whether the welcome lands (see [[letting-it-in-vs-deflecting-the-welcome]]).
+
+**[[agree-with-the-depression-dont-talk-them-out]]:** When the partner is voicing despair or depression, the welcoming form is agreement rather than argument. Saying "yeah, shit" to "I'm never going to get better" is the welcome. The reflex to lift them out is the caretaking; the agreement is the welcoming.
+
+Both variations are instances of this broader pattern. The structural move -- stop managing the emotion, welcome it, indicate it is acceptable -- runs underneath.
+
 ## Sources
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
+- 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- live couples session demonstrating welcoming variations: partner voicing welcome aloud, and agreeing with the depression rather than fighting it

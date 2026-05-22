@@ -5,7 +5,7 @@ title: "Anger"
 aliases: ["the emotion of anger", "anger as energy", "anger as care", "beautiful energy of anger", "loving your anger", "what anger is", "healthy anger", "anger's three indicators", "the wisdom of anger"]
 tags: ["anger", "emotions", "care", "boundaries", "fear", "trauma", "energy", "empowerment"]
 related: ["wisdom-of-each-emotion", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "trappedness-feeling", "logic-vs-emotional-movement", "fear-of-self-destruction-by-anger", "passive-aggressive-vs-aggressive-aggressive", "get-angry-in-the-car", "joes-pancake-anger-story", "three-forms-of-anger-repression", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger", "anger-as-cover-for-deeper-emotion"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1", "2022-10-26_The Wisdom Of Anger, Part 2", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
 ---
 
 # Anger
@@ -99,6 +99,22 @@ When anger releases cleanly, what arrives at the end is visceral clarity: a smal
 
 The "I'm clear, fuck them" sentence is not clarity. It is the kink in clarity costume. The body is still constricted. Real clarity is dissolved tension and a small sentence about what the speaker will do.
 
+## Two Forms of Expression Both Required: Victim and Dominating
+
+A finding from couples coaching work: anger release at a situation, illness, or internalized injury moves cleanly when both *victim anger* ("you have done this to me") and *dominating anger* ("you will not take this from me anymore") are expressed. Skipping either one leaves the release partial.
+
+Most people find one form easier than the other. The victim form often arrives first for those whose anger was repressed into compliance. The dominating form often requires explicit modeling for those whose anger collapses into sadness or self-pity. The coach watches which form is missing and directs toward it.
+
+See [[victim-anger-vs-dominating-anger]] for the full treatment and the source example of Sadie and Christopher moving through both forms together at his chronic illness.
+
+## Exhaustion as a Diagnostic for Held Anger
+
+When someone reports chronic exhaustion in a context of long-term caretaking, holding-it-all-together, or "being the strong one," the exhaustion is often unexpressed anger. The body has been mobilized for action against something for years without permission to discharge. The held mobilization presents as fatigue.
+
+"The kind of the exhaustion to some degree is unexpressed anger that's happening. Yeah. And it's okay to feel exhausted too." -- Joe Hudson, I Can't Hold It All Anymore
+
+See [[exhaustion-is-unexpressed-anger]] for the full treatment. The diagnostic test in the moment: if the person smiles at the suggestion that they might be angry, the anger has been waiting. If the body lights up, the work is anger work.
+
 ## When Release Does Not Land
 
 If a person is doing the release work and the same anger keeps recycling without producing the big landing of clarity, the anger is likely covering a deeper emotion (grief, hurt, fear, helplessness). The work shifts to feeling what is underneath. See [[anger-as-cover-for-deeper-emotion]] and the read [[recycling-anger-without-clarity]].
@@ -173,3 +189,4 @@ Joe speaks of anger with affection. It is "beautiful," "amazing energy." When te
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording of the 2021-10-22 episode; same teaching with additional framing around the political dimension of anger and the closing reflection questions)
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode covering the technicalities of anger release)
+- 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session that produced the victim/dominating anger distinction and the exhaustion-as-unexpressed-anger framing in live demonstration

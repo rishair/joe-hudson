@@ -2,10 +2,10 @@
 type: principle
 id: what-we-fear-we-invite
 title: "What We Fear, We Invite"
-aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite", "the emotional self-fulfilling prophecy", "the things we fear we invite through avoidance of the feeling", "avoidance of the feeling is what invites the thing", "the avoidance-of-feeling invites the feared outcome"]
-tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality"]
-related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears", "kinked-emotions", "feared-stories-about-emotions-sense-something-real", "joes-daughter-new-boyfriend-fear", "anxious-avoidant-dynamic", "engineering-heartbreak-to-avoid-heartbreak"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-10-26_Impartiality", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_Stages Of Emotional Development", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
+aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite", "the emotional self-fulfilling prophecy", "the things we fear we invite through avoidance of the feeling", "avoidance of the feeling is what invites the thing", "the avoidance-of-feeling invites the feared outcome", "the golden algorithm", "golden algorithm", "we invite the thing we are avoiding in the exact way we are avoiding it", "the trustworthy paradox", "the wife disappointment loop", "Esme Fish and Game story", "the daughter at the bureaucracy", "every problem is an avoided emotion", "the gym and guilt example", "the passive-aggressive partner example", "the abandonment defense example", "material problems are emotional problems", "all problems are emotional", "every single problem has an avoided emotion", "the depth of the avoided emotion", "pain vs helplessness specificity", "name the emotion specifically", "the algorithm requires specificity", "the time dilation of avoidance", "short-term comfort long-term suffering", "mammal reward system vs identity defense", "problem vs something happening", "what makes something a problem", "the algorithm and uncontrollable events", "the tree on the car objection", "the algorithm for car accidents", "the something stolen example", "the algorithm and recurring problems", "the kitchen drawer metaphor", "the CEO and the kitchen drawer", "open the drawer everyone is avoiding", "the algorithm doesn't work with positive emotions", "blocker emotions shame judgment guilt", "shame judgment guilt as blocker layer", "the three layers of emotion blockers negative positive", "joy comes after the negative emotions", "positive emotions are scary too", "expansive emotions threaten identity", "the algorithm pitfalls", "pitfalls of the golden algorithm", "multiple emotions being avoided", "depth pitfall of the algorithm", "indulging instead of welcoming", "feeling vs welcoming the emotion", "self-blame as a pitfall of the algorithm"]
+tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality", "golden algorithm"]
+related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears", "kinked-emotions", "feared-stories-about-emotions-sense-something-real", "joes-daughter-new-boyfriend-fear", "anxious-avoidant-dynamic", "engineering-heartbreak-to-avoid-heartbreak", "emotional-inquiry", "joy-as-matriarch", "negative-emotions-precede-positive", "shame-stagnates-emotion", "dont-go-after-every-emotion-at-once", "problem-vs-something-happening", "blocker-emotions", "material-problems-are-emotional-problems", "dont-indulge-emotion-instead-of-welcoming"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-10-26_Impartiality", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_Stages Of Emotional Development", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-03_Embracing Emotions： The Key to Great Decisions", "2023-02-10_The Golden Algorithm — Decisions Series #3"]
 ---
 
 # What We Fear, We Invite
@@ -15,6 +15,186 @@ sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05
 The things we fear are often things we are unknowingly, subconsciously inviting into our lives. The actions taken to avoid the feared outcome are frequently the very actions that bring it about.
 
 "One of the principles that I work with often is that the thing that we fear is often something that we are unknowingly, subconsciously inviting into our world. Because the things that we do to avoid the thing that we fear are often the things that bring them to us." -- Joe Hudson, Impartiality -- Connection Course Series #3
+
+## The Golden Algorithm
+
+The compressed operational form of the principle. Joe began naming this as "the golden algorithm" because of how reliably it produces structural insight when applied to any presenting problem.
+
+"We invite the thing that we're avoiding in the exact way that we are avoiding it." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The phrasing matters. Not "approximately" the way we avoid it. "Exactly" the way. The avoidance behavior generates the precise conditions of the feared outcome. The architecture of the recreation is in the architecture of the avoidance. See [[engineering-heartbreak-to-avoid-heartbreak]] for the active-construction frame of the same mechanism.
+
+Joe is explicit about his hesitation in claiming completeness:
+
+"It's just so important and it took me years to realize this is kind of at the bottom of everything to some degree. And I'm always hesitant to say this is always at the bottom of everything, right? There's a lot of completeness in that, which is never true. And it also feels so important and so true so often." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The hedge is itself instructive. The algorithm is not a universal law; it is a structural pattern that shows up reliably enough that it is worth applying as a diagnostic question against any persistent problem. The diagnostic form: "What emotion am I avoiding here? How is the way I am avoiding it actually creating the problem?"
+
+## Every Single Problem (And the Open Invitation)
+
+In the dedicated Golden Algorithm episode, Joe takes the strong form of the claim. Not most problems. Not recurring problems. Every single problem.
+
+"There's no problem that you can mention that you're having that doesn't have an emotion that's trying to be avoided. And in that strategy of avoiding the emotion is recreating it. And oftentimes there's several emotions that you may be trying to avoid." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+He pairs the strong claim with a standing invitation: if anyone can find a problem in their life where this is not the case, send it. The invitation is not a rhetorical flourish. It is the structural form of the principle as a diagnostic — the diagnostic is supposed to fail eventually if the principle is wrong. It has not failed yet. The invitation stays open.
+
+"If you can find a problem where you're not avoiding an emotion, please let us know." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+The strong-form claim coexists with the hedge quoted earlier ("there's a lot of completeness in that, which is never true"). The two are not contradictory: the principle is worth operating as if universal, while remaining open to the counterexample that has not arrived.
+
+## Problem vs. Something Happening
+
+A central distinction inside the algorithm. The algorithm targets problems, not events. The "tree fell on my car" objection is real: a tree falling on a car was not caused by an avoided emotion. But "tree fell on my car" is not yet a problem in the algorithm's sense. A problem is what happens when the event gets wrapped in resistance.
+
+"I'm making a distinction between something that's happening in our life that needs to be addressed and a problem. A problem being something that consumes us and guides us and pushes us and we rebel against and resist." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+The event is the tree falling. The problem is what stays consuming us months later when we are still being pushed around by it. The algorithm targets the second, not the first. See [[problem-vs-something-happening]] for the full distinction.
+
+The algorithm still operates on the event-level case, but through a different door. How quickly a person recovers from the tree falling, how paralyzed they are by it, how it becomes a recurring problem (the pattern of being unable to handle accidents, of being unable to grieve losses cleanly) -- those are all the algorithm at work. The accident is not caused by an avoided emotion. The wraparound is.
+
+"How you handle that and how quickly you recover from that deeply are influenced by the emotions that you are allowing yourself to feel or not feel... them blaming themselves for that and trying to avoid the feeling of deep sadness and grief and anger is making that recovery time take a tremendous, longer than it would otherwise." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+The instruction is not to find an avoided emotion that "caused" the tree to fall. The instruction is to notice that the way the event becomes a sticky problem is structured by what is being avoided in relation to it. Joe is also explicit about another guardrail: we are never the whole dynamic. The tool is not meant to assign blame. It is meant as a way of moving through problems faster.
+
+"We're never completely the full dynamic... we're never fully a part of any of the dynamics that create what we call problems in our lives. The tool isn't meant to assign blame. The tool isn't meant as a way that you get to beat yourself up. Oh, if I only would've felt this. It's meant as a, oh, here is a way that I can move through my problems more quickly. Here's a way that I can stop repeating patterns." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+## The Kitchen Drawer Metaphor
+
+The work of looking at what has been avoided has a specific metaphor Joe uses, credited to a CEO he worked with:
+
+"I had a CEO say to me one time, I love this. She said, my job as a CEO is to look in all the kitchen drawers that nobody wants to look in. There's the drawer where everything just gets shoved. My job is to open them up and look in them and sort out what's in there that everybody else is avoiding. And it's the same thing. It's the same thing here. It's that that's the work. And you open the door and you have that first moment of, oh crap. And then when it's all cleaned and organized, it feels great." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+The metaphor names two things. First, that the work is on the avoided drawers, not the well-lit cabinets. Second, that the dread of opening the drawer is short-lived; the feeling after is the relief of organization. The "oh crap" moment is real but transient. The settled state on the other side is the actual reward.
+
+This is also the operational instruction for applying the algorithm: notice what is being avoided, open that drawer, sort through it. The avoidance behavior was what was producing the problem. The opening-and-sorting is what dissolves it.
+
+## Additional Pitfalls Beyond Depth and Self-Blame
+
+Beyond the depth pitfall (named in its own section above) and the self-blame pitfall (named below), the dedicated Golden Algorithm episode adds two more failure modes worth naming distinctly:
+
+**Assuming only one emotion is being avoided.** The algorithm finds one avoided emotion at a time. There may be several. The pattern may not dissolve until all of them are named and felt. People often complete the diagnostic on the first emotion, see partial dissolution, and conclude the work is done. The pattern then returns because the second or third avoided emotion is still doing its work underneath.
+
+"It's only one emotion at a time. And a lot of times people make the assumption that there's only one emotion they're avoiding." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+**Seeing the emotion without welcoming it.** Naming the emotion is half the work. Welcoming, loving, inviting it is the other half. People often complete the diagnostic step (oh, I'm avoiding shame), feel some relief from the recognition, and stop there. The pattern continues because nothing was actually welcomed.
+
+"So one thing is seeing the feelings that you avoid is one thing, but until you can feel into them, welcome them, love them, invite them in, nothing's going to change." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+A subtler version: the person sits in the emotion (feels the shame, the sadness, the anger) without ever welcoming it. They occupy the feeling without extending love to it. The emotion does not move because the underlying stance is "this feeling is here and I cannot help it" rather than "this feeling is here and I want to know it." See [[dont-indulge-emotion-instead-of-welcoming]] for the dedicated treatment of this failure mode.
+
+The mental attitude that works: "I want to understand this, I want to explore it, I want to listen to it, I want to hear the information it has, I want to respect it, I want to give it the love that it never got, I want to welcome it, and I'm not here to try to change it. I'm here to just fully be with, appreciate this emotional experience." -- Joe Hudson, The Golden Algorithm -- Decisions Series #3
+
+## The Three Emotional Layers (Blockers, Negatives, Positives)
+
+A structural map of how emotions stack inside a person, surfaced in the Golden Algorithm episode:
+
+"What I've noticed is there is emotional states that people call emotional states, but they're kind of blocker emotional states. And we've talked about this with shame. So I would call these things like shame, judgment, and guilt. And what they do is they stagnate the emotional experience. And so there are emotions that have to be felt through, but they're kind of the top level because they stagnate the emotional experience. And then underneath that, you have the emotions of like sadness and anger and helplessness and what we call negative emotions. And then if those are all felt through, then you get to the positive emotions." -- Joe Hudson, The Golden Algorithm
+
+Three layers, top to bottom:
+
+1. **Blocker emotions:** shame, judgment, guilt. These do not move easily on their own; they stagnate the field around them. They have to be felt through, but they are the top layer because they prevent access to the layer underneath. See [[blocker-emotions]] for the dedicated concept and [[shame-stagnates-emotion]] for the mechanism.
+2. **The "negative" emotions:** sadness, anger, fear, helplessness. These are what the Golden Algorithm most reliably targets. Once the blockers have moved, these can be felt; feeling them dissolves the problems built on their avoidance.
+3. **The positive emotions:** happiness, joy, contentment, bliss, peace. These arrive after the negatives have moved. They are also resisted; the resistance is at the level of identity dissolution rather than discomfort. See [[joy-as-matriarch]] and [[negative-emotions-precede-positive]].
+
+The map matters because someone trying to use the algorithm at the wrong layer will not get traction. A person sitting on a mountain of shame who tries to feel "the sadness underneath" will find the sadness inaccessible because the shame is blocking the channel. The work has to start with the shame.
+
+The map also explains why the work does not stop at "feeling better." The positive emotions, when they begin to flow, are also intense and also bring up fear. The matriarch metaphor (joy will not come into a house where her children are not welcome) operates here: positive emotions also need welcoming, and the resistance to them can revert the person to the lower layers.
+
+"The positive emotions also make not a lot of room for you as an entity, or like, as a -- doesn't make them, they don't make a lot of room for your identity. When you are in bliss, there's, like, it's more like you're one with everything and less like you are you. And so there's a scariness to that... when you constrict on any of them, it brings you into negative emotions. It brings you back up the ladder. So if you constrict on the joyous emotions, you're going to be back into the fear and anger and helplessness. And if you constrict on those, you're going to be back in the shame and the judgment." -- Joe Hudson, The Golden Algorithm
+
+The constriction-equals-regression dynamic is important. The layers are not progressed through and left behind. They remain available. Constricting on whatever is currently moving pulls the person back up the ladder to the previous layer.
+
+## Backwards-Engineering Any Problem With the Algorithm
+
+Once the algorithm is named, almost any sticky problem can be reverse-engineered through two questions: (1) what is the emotion being avoided? (2) how is the avoidance producing the feared outcome?
+
+**The bureaucracy and the daughter:** Joe's teenage daughter went to a Fish and Game office to do something larger than she had attempted before, and the secretary there chided her for "trying to do something bigger than her britches." She told Joe afterward: "It sucked." Joe asked what she was trying not to feel. Her answer: "I didn't want to feel like a failure." Joe: "What did you do to not feel like a failure?" Her answer: "I stopped trying." Joe's reflection: "What did not trying create? It created me feeling like a failure. That's how it works." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The structure is clean. Avoided feeling: failure. Avoidance behavior: stop trying. Result of avoidance: confirmation of failure. The avoidance was the most direct route to the feared experience.
+
+**The wife disappointment loop:** A man reports: "I can never make my wife happy. No matter what I do, my wife isn't happy." Apply the algorithm. What emotion is being avoided? Her disappointment. How is the avoidance happening? Either by running away from her whenever she is disappointed (which produces more disappointment), or by trying to fix her problems (which makes her feel like she is being managed and is not enough, which produces more disappointment). Either avoidance behavior is the direct cause of the ongoing disappointment that is being avoided. -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+**The trustworthiness paradox:** A person wants people to see them as trustworthy. Apply the algorithm. What is being avoided? The feeling of being seen as untrustworthy. How does the avoidance show up? Not speaking the truth about when they do not trust the other person, projecting onto how they want to be seen, performing trustworthiness. But wanting to be seen as trustworthy is itself untrustworthy behavior -- "I'm not gonna trust somebody who wants me to see them in a certain light as much as I'm gonna trust somebody who's just gonna be with me as I am and with them how they are." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions. The architecture of the avoidance (managing the projection rather than telling the truth) is exactly what produces the untrustworthiness it was trying to avoid.
+
+Each example illustrates the same shape. The avoidance is not adjacent to the feared outcome. The avoidance is its production line.
+
+## Three More Worked Examples (The Diagnostic Form)
+
+The algorithm becomes legible by running it across many quick examples. The diagnostic shape is always the same: name the problem, name the avoided emotion, name the avoidance strategy, watch how the strategy produces the feared emotion.
+
+**The gym and guilt:** Problem -- "I want to work out but I have a hard time getting motivated to go." Avoided emotion -- guilt (the moment you think about the gym, the negative self-talk about not being in shape arrives, and the guilt with it). Avoidance strategy -- go to the fridge instead. Result -- more guilt about eating, which compounds the original guilt about not working out. The way you tried to dodge the guilt is the way you generated more of it.
+
+**The partner and anger:** Problem -- "I feel put upon and frustrated by my partner." Avoided emotion -- anger. Avoidance strategy -- suppress the anger, push it down, come around passive-aggressively to try to get what you want without being direct. Result -- the more passive-aggressive the behavior, the more the partner gets frustrated back, which produces more anger in the system. The avoidance behavior is exactly the production line for the anger being avoided.
+
+**Joe's own emotional abandonment loop:** Problem -- chronic feeling of being emotionally abandoned. Avoided emotion -- the horror of emotional abandonment (a childhood trauma). Avoidance strategy -- get hard, get defended, get short with people whenever the feeling started to arrive. Result -- "of course, people are more likely to emotionally abandon me or abandon me altogether if I'm being a prick, which is what I was being." -- Joe Hudson, The Golden Algorithm. The defense behavior produces the abandonment the defense was protecting against. See [[joes-abandonment-mapping]].
+
+The form does not change. The contents change. The diagnostic is the same: what emotion is being avoided, and how is the avoidance producing it?
+
+## Material Problems Are Emotional Problems
+
+The algorithm only works once a particular reframe lands: the problems people call "material" or "external" are almost always emotional problems wearing material costumes. If a person knew in advance that the material catastrophe would feel great -- that the company imploding or the divorce or the firing would produce freedom, success, peace, joy -- there would be no problem. The "problem" exists because of the anticipated feeling, not because of the event.
+
+"What we call material problems out in the world, what they really are are emotional problems. What they really are is that we don't want to feel a certain way." -- Joe Hudson, The Golden Algorithm
+
+The thought experiment Joe uses: imagine your company is about to implode, and you know with certainty that in the implosion you will feel free, successful, full of joy, with a felt sense that this is exactly what needed to happen. What is the problem? The event has not changed. The anticipated feeling has changed. The problem evaporated with the feeling.
+
+This is the reframe that makes the algorithm operable. Without it, the algorithm gets applied to the wrong layer ("how do I prevent the material outcome?") and produces the very avoidance that creates the material outcome. With it, the algorithm gets applied to the right layer ("what feeling am I avoiding, and how is the avoidance generating the conditions for it?").
+
+The reframe is what every major religion has pointed at in its own way: you are never going to get the happiness you want from the external world. The material strategy is a surrogate for the emotional one, and surrogates fail in predictable ways. See [[decisions-are-emotional]] and [[money-as-surrogate]] for related framings.
+
+A clarification Joe is careful about: this does not mean material events do not happen. A tree can fall on your car. The economy can tank. A car accident is not your emotional avoidance. But the recurring problems in a life -- the patterns that keep showing up -- are almost always emotional problems generating their material expression. And even for genuinely random material events, how quickly a person recovers and how cleanly they integrate the event is determined by which emotions they will and will not feel. The same accident generates a sustained problem for the person who avoids the underlying grief and a temporary one for the person who lets it move.
+
+## Depth: The Algorithm Only Works When the Avoided Emotion Is Named Specifically
+
+A pitfall in applying the algorithm: naming the avoided emotion too generically. "I'm avoiding pain" is too shallow to produce structural insight. "I'm avoiding helplessness" is specific enough that the avoidance behavior becomes legible.
+
+"One of the pitfalls in using the tool is the depth in which you're using it... if you say, what's the thing I'm avoiding? I'm avoiding pain. That's not going to work as well as, I'm avoiding helplessness." -- Joe Hudson, The Golden Algorithm
+
+The reason is that the avoidance behavior is shaped by the specific emotion, not by the general category. The behaviors generated to avoid helplessness (control, micromanagement, taking on too much) are different from the behaviors generated to avoid shame (hiding, performing competence) or grief (busyness, distraction). Until the specific emotion is named, the specific avoidance cannot be seen, and the connection between the avoidance and the recreation stays vague.
+
+This is also why the algorithm often takes several passes. There is usually more than one emotion being avoided in any given problem. The first specific emotion produces partial insight; following the avoidance behavior to its next layer often reveals another emotion underneath. The algorithm is iterative, not a single application.
+
+The pitfall is structural: people stay at the level of "I'm in pain" or "I'm uncomfortable" because the specificity itself feels too vulnerable. Naming "helplessness" or "shame" or "the fear that I will never be loved" requires getting closer to the thing than naming "pain" does. The shallow naming protects the system from the same emotion the avoidance behavior is protecting it from. The depth requirement is itself a form of welcoming the feeling.
+
+## The Asymmetry: Avoiding Negative Emotions Recreates Them; Avoiding Positive Emotions Does Not
+
+The algorithm has a directional asymmetry that matters for applying it correctly. It works when negative emotions are being avoided. It does not work the same way when positive emotions are being avoided.
+
+"The algorithm works if you're avoiding negative emotions. The algorithm doesn't work if you're avoiding positive emotions." -- Joe Hudson, The Golden Algorithm
+
+Joe is careful about the labels (he does not experience helplessness, anger, and shame as negative; they have been "blessings" for him), but using the conventional labels for clarity: the negative-emotion avoidance generates the negative emotion. Avoiding sadness produces depression. Avoiding anger produces resentment that leaks. Avoiding fear produces chronic anxiety. The avoidance is the production line.
+
+The positive case runs in the opposite direction. Avoiding joy does not produce joy. Avoiding joy produces the absence of joy and the return of negative emotions. The workout metaphor Joe uses to make this concrete:
+
+- If your body feels bad and you start to work out and the workout doesn't feel good, and you avoid the workout, your body keeps feeling bad. (Avoiding the negative produces more negative.)
+- If your body feels bad and you lean into the workout despite the discomfort, your body starts feeling better. (Welcoming the negative releases it.)
+- If your body feels good and you start to work out and you do not allow yourself to feel the goodness, you immediately start feeling bad, the workout feels bad, and you stop. (Avoiding the positive collapses back into the negative.)
+
+The same pattern holds for emotions. If you have negative emotions and you feel into them, you feel better. If you have positive emotions and you do not feel into them, you feel worse. The corrective in both directions is the same: lean in. But the consequences of not leaning in are different.
+
+This matters operationally because people sometimes apply the algorithm to a problem caused by avoiding joy or expansiveness and look for the negative emotion the algorithm tells them must be there. The negative emotion is there -- but it is downstream of the unfelt positive emotion, not upstream. The actual move is to welcome the positive expansiveness. See [[fear-of-joy]] and [[joy-as-matriarch]] for the dedicated treatments of why positive emotions also require welcoming and why people are often more scared of them than of the negative ones.
+
+## The Time Dilation of Avoidance (Mammal Reward System vs. Identity Defense)
+
+Why is the avoidance so durable, given that it produces the feared outcome? Because the reward system that runs it was evolved for short-term physical threats, not for long-term identity protection. The mammal reward system gives an immediate hit for avoiding something painful, and that hit is real -- in the moment, the avoidance feels better than the welcoming would have.
+
+"Our reward system as a mammal was built in such a way for short-term rewards to be the important one because we didn't have psychological development then... when you're dealing with, oh, I eat that mushroom and it causes me pain, it's a great thing to avoid. When it's, oh, somebody points out some way that I'm in error and it causes me pain, so I get defensive, it doesn't work so well." -- Joe Hudson, The Golden Algorithm
+
+The mammal system was correctly designed: avoid the thing that causes pain, you survive longer. The system breaks when applied to psychological pain because the "pain" being avoided is not a survival threat to the body; it is a threat to the identity. The defense behaviors that protect the identity are precisely the behaviors that produce the recurrence of the threat. The mammal reward says "good job avoiding that" while the system as a whole loses ground.
+
+The operational implication: the felt sense in the moment of avoidance is "I just made the better choice." The felt sense one week or one month later is "I am stuck in this same problem again." The two felt senses are produced by the same choice. The mammal reward arrives first; the structural consequence arrives later. People keep choosing the short-term hit because the long-term cost is not legible at the moment of choice.
+
+This is why the algorithm is hard to see even when explained clearly. Each individual avoidance feels reasonable. The cumulative pattern only becomes visible when many avoidances are looked at together, often retrospectively. The diagnostic question that breaks the time dilation: "If I keep handling this the way I have been handling it, where am I in a year?" Often the answer is "exactly where I am now," which is exactly what the algorithm predicts.
+
+## When the Algorithm Becomes a New Way to Beat Yourself Up
+
+A predictable misuse: once the algorithm is visible, the person uses it to add a new layer of shame. "I must have been avoiding this. Of course this happened. I did it again." The pattern recognition becomes the new self-attack. See [[shame-drives-behavior]] for why this misuse keeps the pattern in place rather than dissolving it.
+
+The corrective is to apply the algorithm to the beating-up itself. What emotion is the beating-up avoiding? Often the first level is just the original emotion the original avoidance was protecting against. The shame about lying, for example, is usually avoiding the remorse, sadness, or anger underneath. Feeling that underlying emotion -- not the shame about feeling it -- dissolves the layer of self-attack and returns the algorithm to its diagnostic function.
+
+"Inside of beating myself up, I would look for what's the emotion I'm avoiding and I would feel it... Oftentimes the first level of what they're avoiding is the thing they're beating themselves up for. So let's say the shame is the way to stop the emotional experience. And so whatever they're ashamed of is what they're preventing themselves from feeling." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The algorithm is meant to be a diagnostic that points at the work, not a verdict that fixes blame. When it starts functioning as a verdict, the same algorithm shows the way out: there is an emotion underneath the verdict, and feeling it returns the algorithm to its useful form.
 
 ## In Practice
 
@@ -162,3 +342,5 @@ Feeling the emotion is also what grounds the person into actual reality rather t
 - 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode; Brett's framing about "you're only grounding into what's real by feeling the emotion" -- the facade in a codependent relationship is what holds together by not feeling the anger)
 - 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the daughter-and-the-boyfriend example for the live, small-scale mechanism: avoidance of hurt by extracting reassurance produces the needy reaching that pushes self-possessed partners away)
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the "golden algorithm" naming; the Fish-and-Game-secretary daughter example; the wife-disappointment loop; the trustworthiness paradox; the warning about using the algorithm as a new way to self-attack and the corrective of applying it to the self-attack itself)
+- 2023-02-10_The Golden Algorithm — Decisions Series #3 (the dedicated episode on the algorithm; the gym/guilt and partner/anger worked examples; Joe's own emotional-abandonment loop as the third worked example; the material-problems-are-emotional-problems reframe with the company-implosion thought experiment; the depth-of-specificity principle with the pain-vs-helplessness example; the asymmetry between avoiding negative and positive emotions with the workout metaphor; the mammal-reward-system-vs-identity-defense argument for why the algorithm is hard to see; the time dilation of avoidance; the every-single-problem strong-form claim with the open-invitation challenge; the problem-vs-something-happening distinction with the tree-on-the-car objection; the kitchen-drawer metaphor for the work of opening the avoided; the additional pitfalls of assuming-one-emotion and seeing-without-welcoming and indulging-instead-of-welcoming; the three-emotional-layers map with shame-judgment-guilt as the blocker layer above the negatives above the positives; the constriction-equals-regression dynamic that returns the system up the ladder)

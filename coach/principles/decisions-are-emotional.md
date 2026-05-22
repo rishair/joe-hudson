@@ -2,10 +2,10 @@
 type: principle
 id: decisions-are-emotional
 title: "Decisions Are Emotional"
-aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion", "SWOT analysis is emotional", "pro and con lists are emotional", "Darwin's marriage list is emotional", "the intellect serves the emotional question of how you'll feel"]
+aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion", "SWOT analysis is emotional", "pro and con lists are emotional", "Darwin's marriage list is emotional", "the intellect serves the emotional question of how you'll feel", "decisions from depression produce depression", "happy people make happy decisions", "the billion dollars but miserable thought experiment", "depression breeds depression", "the three mechanisms of embracing", "three mechanisms of transformation through emotion"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
-related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling", "body-lies-as-much-as-mind", "good-decision-is-how-you-make-it-not-the-outcome", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？"]
+related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling", "body-lies-as-much-as-mind", "good-decision-is-how-you-make-it-not-the-outcome", "do-the-next-most-obvious-thing", "if-you-think-youre-deciding-youre-in-fear", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "shame-as-disconnection", "self-judgment-protects-from-emotion", "embracing-changes-unconscious-decisions"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-11-25_How Can I Make Better Decisions? — Decisions Series #1", "2022-11-29_How Can I Make Better Decisions？", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 
 # Decisions Are Emotional
@@ -120,6 +120,40 @@ This is why the principle is not "let your emotions decide for you" -- the emoti
 
 Because decisions are emotional, the move when standing in front of a decision is not to think harder. The move is to address the fear that is shaping the decision-feel and take the next genuine step. See [[do-the-next-most-obvious-thing]] and [[if-you-think-youre-deciding-youre-in-fear]]. The success criterion is the quality of how the decision is made, not the outcome. See [[good-decision-is-how-you-make-it-not-the-outcome]].
 
+## Decisions Made From a Feeling State Tend to Produce More of That Feeling State
+
+A sharper, predictive formulation of the principle. The internal emotional state at the moment of decision tends to determine the emotional consequences of the decision. Decisions made from depression usually produce more depression. Decisions made from trauma usually produce more trauma. Decisions made from happiness usually produce more happiness.
+
+"If you make a decision from depression, it's most likely to bring more depression. If you make a decision from trauma, it's most likely to bring more trauma. If you make a decision from happiness, it's more likely to bring more happiness. Or the other way to think about it is that happy people seem to make decisions that continue to make them happy, and depressed people seem to make the decisions that make them more depressed." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The forward-looking framing ("depression breeds depression") and the observational framing ("happy people make happiness-sustaining decisions") are the same mechanism viewed from two angles. The decision-maker is solving for an emotional outcome that uses the current emotional state as its postulate. The state shapes which option seems best, which risks feel acceptable, which futures appear desirable.
+
+This is why "I want to make a non-emotional decision" is impossible. The choice was already made by the emotional state operating underneath. The only real question is which emotional state is doing the deciding.
+
+"It's not about not making an emotional decision, it's about not avoiding emotions in your decision-making." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+## The Billion-Dollars-But-Miserable Example
+
+The most direct way to surface the emotional substrate beneath any apparently-financial decision: ask what would happen if the financial outcome was severed from the emotional one.
+
+"If you had a choice between like, oh, you got the billion dollars, but you're absolutely freaking miserable and you want to kill yourself every day and it's just a struggle to stay alive, you know, what do you make of that decision? Or vice versa, if you lost everything but you were happier than you've ever been and you felt like totally comfortable and at peace and joyful, how would you feel about that?" -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The thought experiment reveals what was always true: the billion-dollar outcome was being pursued for the emotional state expected to come with it. Once the link between outcome and feeling is broken, the financial outcome ceases to be wanted. The decision was emotional all along. The dollars were the proxy.
+
+The implication for any decision: the goal is not the goal. The goal is the predicted feeling that comes with the goal. The decision will be made for the feeling. The intellect is just running the predictions.
+
+## The Three Mechanisms by Which Embracing Emotions Transforms Decisions
+
+The decision-making mechanism is one of three interlocking mechanisms by which the willingness to feel difficult emotions transforms a life. Embracing emotions changes:
+
+1. **Decision-making.** Decisions are no longer being made to avoid or chase a feeling. The actual decision criteria become visible. See above.
+2. **Pattern interruption.** The patterns that were keeping the avoided emotion in circulation stop having a purpose. See [[what-we-fear-we-invite]] for the golden algorithm and [[feeling-the-unfelt-emotion]] for the dissolution mechanism.
+3. **Connection.** Shame, judgment, and defensiveness -- the major mechanisms of disconnection -- all serve emotional avoidance. When the underlying emotions are felt, those mechanisms relax. Connection deepens both with self and with others. See [[shame-as-disconnection]] and [[self-judgment-protects-from-emotion]].
+
+"The three major mechanisms of transformation of our lives because we're embracing welcoming emotions are the decision-making, the stopping the patterns, and the increase of connection." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+Each mechanism reinforces the others. Better decisions reduce the situations that produce the avoided emotions. Pattern interruption frees the energy that was sustaining the avoidance. Increased connection provides the container in which the next layer of emotion can be safely felt. The three together produce the apparent compounding speed of transformation in someone who has begun the embracing work.
+
 ## Upstream (What Leads Here)
 
 - When someone believes logic alone should drive a decision and is frustrated that people are not responding to their arguments.
@@ -144,3 +178,4 @@ Because decisions are emotional, the move when standing in front of a decision i
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
 - 2022-11-25_How Can I Make Better Decisions? -- Decisions Series #1 (the SWOT-analysis tell, the Darwin pro-and-con list example, the assumption-stack inside the intellect's service)
 - 2022-11-29_How Can I Make Better Decisions？ (rebroadcast of the 2022-11-25 episode)
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the depression-breeds-depression formulation; the billion-dollars-but-miserable thought experiment; the three-mechanisms framing tying decisions to pattern interruption and connection)

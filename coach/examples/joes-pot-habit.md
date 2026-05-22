@@ -5,7 +5,7 @@ title: "Joe's Pot Habit"
 aliases: ["pot smoking story", "marijuana habit story", "Joe's addiction story", "pot habit in his twenties"]
 tags: ["resistance", "shame", "addiction", "personal example", "transformation"]
 related: ["resistance", "negative-self-reinforcement", "shame-drives-behavior", "feeling-the-unfelt-emotion", "embrace-intensity"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 
 # Joe's Pot Habit
@@ -38,7 +38,16 @@ Once he faced those emotions, pot lost its appeal. Not through willpower. Not th
 
 When someone is fighting a habit or pattern through willpower. When shame about a behavior is visible. When someone asks how to stop something they cannot stop.
 
+## Joe's Compressed Retelling for the Habit-Change Mechanism
+
+In later teachings Joe reaches for this story specifically to demonstrate that habits change automatically once the underlying emotion is welcomed -- with no willpower, no plan, and no intention to stop. The point is the absence of effort, not the dramatic recovery arc.
+
+"I was smoking quite a bit of pot and I was beating myself up for smoking pot. And as soon as I started to love anger and allow anger in a whole new way, then, and then the beginning of sadness, marijuana, I just lost interest. I just lost interest in it. And I have found that with a lot of the habits that we have are used to help us not feel something. And so if we -- bad, what we call bad habits. And so the more that you allow those emotional experiences, you learn to love them and you embrace them, then the habits are unnecessary." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The compressed form serves a slightly different teaching purpose than the original story. The original emphasizes the depth of the shame loop and the relief of the underlying emotional encounter. The compressed form emphasizes the cleanness of the dissolution: the habit "just lost interest" once the underlying emotion was no longer being avoided. See [[embracing-changes-unconscious-decisions]] for the principle this example anchors.
+
 ## Sources
 
 - 2021-01-20_If You Can't Love the Feeling, Love the Resistance
 - 2022-10-26_If You Can't Love The Feeling, Love The Resistance (rebroadcast of 2021-01-20)
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the compressed retelling used to anchor the principle that habits change automatically when underlying emotions are welcomed; the "just lost interest" framing)

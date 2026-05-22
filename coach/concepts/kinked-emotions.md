@@ -5,7 +5,7 @@ title: "Kinked Emotions (The Garden Hose)"
 aliases: ["garden hose metaphor", "kinks in the garden hose", "constricted emotion", "anger as garden hose", "the kinked emotion", "emotion under pressure", "what people call the emotion is the kink"]
 tags: ["emotions", "resistance", "anger", "metaphor", "core mechanism"]
 related: ["resistance", "feeling-the-unfelt-emotion", "feel-over-figure", "emotions-live-in-muscles", "fear-vs-excitement", "stages-of-emotional-development", "what-we-fear-we-invite", "anger", "passive-aggressive-vs-aggressive-aggressive", "fear-of-self-destruction-by-anger", "three-forms-of-anger-repression"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure", "2022-10-26_The Wisdom Of Anger, Part 2"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure", "2022-10-26_The Wisdom Of Anger, Part 2", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 
 # Kinked Emotions (The Garden Hose)
@@ -82,6 +82,18 @@ Similarly, allowing fear fully does make a person less capable in one specific s
 
 The stories are sensing something real and describing it awkwardly. The work is not to dismiss the stories but to see what they are pointing at and to discover that what is on the other side of the feared dissolution is not the catastrophe the story predicted.
 
+## The Gut Punch Is Not the Same Gut Punch
+
+A direct consequence of the kinked/unkinked distinction: the felt sensation of a difficult emotion is not a fixed property of the situation that triggered it. It is a property of the body's relationship to the emotion. The same triggering event will produce a different felt experience in a body that welcomes the emotion than in a body that braces against it.
+
+"As you learn to embrace, enjoy, welcome these emotions, they change, right? So that gut punch won't be the same gut punch if you fully embrace and enjoy it and love it and accept it and look forward to it. Then all of a sudden the gut punch isn't the same expression. It doesn't feel the same in the body." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+This is the everyday version of the unkinked-emotions point. The dramatic versions are the headline -- unkinked sadness contains joy, unkinked anger is Gandhi or MLK -- but the same mechanism operates at small scale every time a person gets a parking ticket, hears criticism, or experiences disappointment. The gut punch can be a sharp electric jab the body braces against. The same situation can be a soft thud that moves through and dissipates. The body's stance is what determines which one happens.
+
+This matters operationally because most people are negotiating with the kinked version when they think they are negotiating with the emotion itself. They make decisions about whether to feel a feeling based on how the kinked version feels. If the kinked version is intolerable, they refuse to enter. But the refusal preserves the kink. The release would require entering the kinked version with welcoming, at which point the felt experience itself begins to change.
+
+See [[meaning-change-vs-feeling-through]] for the distinction between using reframes to dodge the gut punch and feeling through to change what the gut punch is.
+
 ## What You Are Overtaken By
 
 People say they are overtaken by their emotions. They are not. They are overtaken by the resistance to the emotions. The kinks are the resistance.
@@ -121,3 +133,4 @@ Concrete, accessible. The garden hose is a friendly image, not a clinical metaph
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the "gut punch is not the same gut punch" formulation applied to small-scale daily emotional events; the link to meaning-change vs feeling-through)

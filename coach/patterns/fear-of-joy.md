@@ -5,7 +5,7 @@ title: "Fear of Joy"
 aliases: ["scared of joy", "pleasure anxiety", "the other shoe is going to drop", "stopping the laughter", "afraid to feel good", "the joy clamp", "if I let the love in", "shutting down the laughing", "fear of feeling good", "afraid of pleasure", "foreboding joy", "the inevitable doom thought", "if I'm happy I won't be prepared", "resistance to gratitude", "scared of being content"]
 tags: ["joy", "fear", "pleasure", "anxiety", "self-protection", "pattern", "gratitude"]
 related: ["joy-as-matriarch", "pleasure-capacity", "cafe-emotional-stigma", "embrace-vs-brace", "ive-lost-my-joy", "anxiety-as-constricted-life-force", "feeling-the-unfelt-emotion", "gratitude-rounds-before-meetings"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team", "2023-02-10_The Golden Algorithm"]
 ---
 
 # Fear of Joy
@@ -69,6 +69,24 @@ Joe offers several places to look for evidence of this pattern in oneself:
 - **Receiving care.** When someone offers you care, do you let it in, or do you deflect to giving care back?
 
 "How well do you accept compliments? Do you let the, like if someone compliments you, do you let it in?... It's the same with like other things of pleasure, orgasms or whatever. Or laughter, you know, how openly can you laugh? How long is the orgasm? Like all these things are good indicators of how much joy you can feel." -- Joe Hudson, Anxiety: A Signpost to Unmet Needs
+
+## The Identity-Dissolution Dimension (Deep Joy Threatens the Self)
+
+A more structural reason the deep positive emotions are scary, beyond loss-of-control and inevitability-of-doom: deep bliss, joy, and peace literally do not make a lot of room for the self that has been organizing experience. The "you" that has been at the center of attention softens as the positive emotions deepen. This is exciting in the abstract and terrifying in the body, because the self that gets threatened is the one doing the work of self-protection.
+
+"The positive emotions make not a lot of room for you as an entity, or like, doesn't make -- they don't make a lot of room for your identity. When you are in bliss, there's like, it's more like you're one with everything and less like you are you. And so there's a scariness to that, and there's like a, wow, what's -- like, fears come up, like, how will I relate to people? Or I might just like go off into the infinite and not come back. Or what if I'm just like sitting there laughing in a coffee shop all by myself where everyone's going to think I'm crazy? Or what -- wow, I'm happy all the time. Everyone's looking at me like, what's wrong with me?" -- Joe Hudson, The Golden Algorithm
+
+The specific fears that surface when deep joy approaches:
+
+- **Identity dissolution.** In bliss, the boundary between self and world thins. The familiar self has less to do. For a person whose safety depends on the familiar self being present, this thinning feels like disappearing.
+- **Loss of capacity to function.** "How will I relate to people if I am like this?" The fear is that the new state will be incompatible with the practical life that has been built around the old state.
+- **Permanent dissolution.** "What if I just go off into the infinite and not come back?" The fear that the expansive state, once entered, becomes a one-way door.
+- **Social exclusion.** "What if I'm just sitting there laughing in a coffee shop alone where everyone thinks I'm crazy?" The fear that visible joy will make the person unfit for normal social contexts.
+- **Being marked as wrong.** "I'm happy all the time. Everyone's looking at me like, what's wrong with me?" The fear that sustained happiness will become its own kind of social problem.
+
+These fears are not silly. They reflect something real about what happens when positive emotions deepen: the self does change, social position does shift, the relationship to normal life does become different. The fears are pointing at consequences that are genuine. But the consequences are usually liberating rather than catastrophic, and the only way to find out is to allow the deepening rather than clamp it.
+
+This is why the corrective to fear of joy is the same as the corrective to fear of any other emotion: welcome the fear, welcome the joy, allow the deepening, find out that the dissolved self is more resilient than the protected self assumed.
 
 ## The Loss-of-Control Dimension
 
@@ -147,3 +165,4 @@ Curious, warm. The fear of joy is treated as a real phenomenon, not as a failure
 - 2022-03-11_How Does Gratitude Create Better Teams?
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
 - 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation as the 2022-03-11 episode)
+- 2023-02-10_The Golden Algorithm (the identity-dissolution character of deep positive emotions; the specific fears that surface when bliss approaches -- identity loss, capacity loss, permanent dissolution, social exclusion, being marked as wrong; the explanation for why deep positive emotions need their own welcoming alongside the negative emotions)

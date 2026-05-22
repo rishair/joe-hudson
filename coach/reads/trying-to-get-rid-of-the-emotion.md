@@ -4,7 +4,7 @@ id: trying-to-get-rid-of-the-emotion
 title: "Trying to Get Rid of the Emotion"
 aliases: ["wanting to be done with it", "trying to get over an emotion", "feeling it to make it go away", "the motivation is management", "wanting it gone", "doing the work to make the feeling stop", "feeling as strategy"]
 tags: ["emotions", "management", "stages of development", "motivation", "diagnostic"]
-sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1"]
+sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 
 # Trying to Get Rid of the Emotion
@@ -31,6 +31,12 @@ The system reads the motivation, not just the behavior. When the motivation is t
 This produces a frustrating loop: the person does the practice, feels some release, expects the emotion to be resolved, encounters it again next week, concludes they need to do the practice harder. The intensity of the practice increases. The underlying pattern stays in place. The person is doing management with a felt-experience layer on top.
 
 "If you notice that you're trying to get over an emotion, just the act of trying to be done with an emotion or get over an emotion will send you backwards in the process." -- Joe Hudson, Stages of Emotional Development
+
+The fear-disappears version of the same trap: a person reports that they used the practice and now their fear is gone. Joe's reading of this is that the fear has not gone; the felt sense has just changed enough that the person no longer identifies it as the uncomfortable thing they were trying to escape. The strategy of welcoming-to-make-it-go-away has produced a softer kink, not a release. Without the management motivation, the same emotion would change in a different way -- the way that the body uses to actually move through and release.
+
+"If you are loving an emotion, welcoming an emotion to make it go away, it won't work. Like, a lot of people will learn, oh wow, I do this, and then all of a sudden I don't -- you know, that my feeling of fear goes away. It doesn't actually go away. It just feels different, and so we don't identify it as that uncomfortable thing. But if you're doing it to do that, then you're still in resistance and it comes back. So that's the other pitfall, is to -- it is welcoming it at every level. It is not trying to make it go away by welcoming it." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The recurrence is the diagnostic. If the practice felt like it worked and then the emotion came back, the management was operating. The welcoming that actually releases the loop produces a body that does not have to re-encounter the same material in the same way. The welcoming that was secretly management produces brief relief followed by return.
 
 There is a paradox built in. When emotions are genuinely welcomed, they do move and change. So an authentic welcoming and a strategic welcoming look identical on the surface. Both produce some movement. Only the authentic one moves the underlying pattern. The system can tell the difference even when the person cannot.
 
@@ -74,3 +80,4 @@ Direct, slightly amused. The paradox here is structurally funny. Joe holds it li
 ## Sources
 
 - 2021-09-24_Stages of Emotional Development - Emotion Series #1
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the fear-disappears variant: the practice produces apparent relief but the emotion comes back because the welcoming was secretly management; the recurrence is the diagnostic)

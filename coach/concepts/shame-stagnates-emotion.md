@@ -2,10 +2,10 @@
 type: concept
 id: shame-stagnates-emotion
 title: "Shame Stagnates Emotional Fluidity"
-aliases: ["shame stops emotions", "shame freezes emotion", "shame blocks emotional flow", "shame as emotional barrier", "shame is an emotion that blocks other emotions", "shame as emotional nemesis", "the kick in the stomach", "shame creates emotional dead zones", "shame as the awareness desert"]
-tags: ["shame", "emotional fluidity", "stagnation", "felt sense", "body", "emotion"]
-related: ["shame-as-disconnection", "shame-drives-behavior", "emotional-fluidity", "feeling-the-unfelt-emotion", "kinked-emotions", "the-shame-avoidance-loop", "love-as-deep-welcoming"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
+aliases: ["shame stops emotions", "shame freezes emotion", "shame blocks emotional flow", "shame as emotional barrier", "shame is an emotion that blocks other emotions", "shame as emotional nemesis", "the kick in the stomach", "shame creates emotional dead zones", "shame as the awareness desert", "shame as the blocker layer", "judgment and guilt as blockers too", "shame guilt judgment as the lid", "the three blocker emotions"]
+tags: ["shame", "emotional fluidity", "stagnation", "felt sense", "body", "emotion", "blocker"]
+related: ["shame-as-disconnection", "shame-drives-behavior", "emotional-fluidity", "feeling-the-unfelt-emotion", "kinked-emotions", "the-shame-avoidance-loop", "love-as-deep-welcoming", "blocker-emotions", "negative-emotions-precede-positive"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame", "2023-02-10_The Golden Algorithm"]
 ---
 
 # Shame Stagnates Emotional Fluidity
@@ -64,6 +64,18 @@ Welcoming the shame back into awareness. Bringing the body back to the region th
 
 The body becomes the primary instrument here. The mind will spin on shame loops. The body knows where the dead zone is. Bringing attention into the dead zone, with welcoming rather than fixing, is what allows the fluidity to return.
 
+## Shame Sits in a Family of Three Blocker Emotions
+
+Shame is the most legible example of the stagnation mechanism, but it is not the only emotion that operates this way. Joe groups three emotions together as "blocker emotional states": shame, judgment, and guilt. All three share the same operational signature -- they do not move when felt the way other emotions move; they freeze the system.
+
+"There's emotional states that people call emotional states, but they're kind of blocker emotional states... I would call these things like shame, judgment, and guilt. And what they do is they stagnate the emotional experience." -- Joe Hudson, The Golden Algorithm
+
+The three behave differently in their content -- shame is about the self, judgment is directed outward or inward at the bad/wrong/should, guilt is specifically about action -- but the structural mechanism is the same. All three create the awareness desert. All three sit as a lid on top of the emotions underneath that would otherwise move. All three have to be welcomed before the underlying negative emotions (sadness, anger, fear, helplessness) become accessible.
+
+This means the diagnostic for whether the blocker layer is active is broader than just shame. A person who reports being unable to feel anything may be sitting in judgment about the situation (judgment about themselves for being in the situation, judgment about others, judgment about what should or shouldn't be happening) or in guilt about a specific action. Both will produce the same flatness as shame does, and both require the same welcoming move before the negative layer opens. See [[blocker-emotions]] for the dedicated treatment of the three-layer architecture.
+
+The practical implication: when working with stuck emotional material, scan for all three blockers, not just for shame. The person may have moved past one and be sitting in another. Each blocker, when welcomed, releases its lid on whatever emotion lives underneath.
+
 ## Connection to Other Concepts
 
 This concept is the mechanism underneath [[shame-drives-behavior]]: the reason shame holds bad habits in place is precisely that it stagnates the emotional movement that would otherwise process the underlying material. With the emotions frozen, the behavior cannot shift.
@@ -92,3 +104,4 @@ It connects to [[kinked-emotions]] as a special case: shame is not just kinked, 
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
 - 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)
+- 2023-02-10_The Golden Algorithm (the explicit grouping of shame, judgment, and guilt as "blocker emotional states" sharing the stagnation mechanism; the placement of the blocker layer above the negative-emotion layer in the three-layer architecture)

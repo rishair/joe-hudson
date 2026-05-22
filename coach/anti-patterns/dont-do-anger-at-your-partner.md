@@ -5,7 +5,7 @@ title: "Don't Discharge Anger At Your Partner (Move It First, Then Talk)"
 aliases: ["don't yell at your partner", "don't do anger at people", "don't discharge at partner", "yelling at partner anti-pattern", "anger release is not anger at partner", "move anger somewhere else first", "don't aim anger at partner", "the discharge-at-partner anti-pattern", "release anger before the conversation", "I'm just expressing my feelings as bypass", "don't use the relationship as your gym for anger", "don't make your partner take your anger work", "the unconsented anger dump", "don't yell at your partner to get the anger out", "no permission no anger dump"]
 tags: ["anti-pattern", "anger", "relationships", "discharge", "consent", "anger release"]
 related: ["trigger", "walking-on-eggshells", "get-angry-in-the-car", "dont-do-emotion-at-people", "three-forms-of-anger-repression", "dont-do-anger-at-your-partner", "say-the-thing-youre-not-saying", "anger"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
 ---
 
 # Don't Discharge Anger At Your Partner (Move It First, Then Talk)
@@ -54,6 +54,16 @@ The conditions for this:
 
 Without these conditions, the move is the anti-pattern dressed up as healing work.
 
+## The Shared-Target Variation: Anger Together, at the Situation
+
+The cleanest version of couples doing anger work together is when both partners direct their anger at a shared external object -- a chronic illness, a circumstance, an internalized injury -- rather than at each other. The same energy that gets misdirected at the partner moves cleanly when redirected at the actual source.
+
+In the source coaching session with Sadie and Christopher, the chronic illness became the shared target. Both partners moved through victim anger and dominating anger at his illness (see [[victim-anger-vs-dominating-anger]]). The result was bonding rather than damage. As Christopher named: "We're bonding over -- because this could easily be the thing where it's directed, misdirected at each other, and then one person gets to express this, but the other person just feels pushed down."
+
+Joe's framing: "You can be together in the sadness of it, and you can be together in the anger of it, and you can be together in the victim of it. Nobody has to take care of each other here. You can just be together."
+
+This is the constructive corollary to the anti-pattern. The anger does need to move. When the move can be done together at a shared external object, the relationship deepens instead of suffering the discharge. See [[sadie-christopher-anger-together]] for the full example.
+
 ## The Failure Mode This Anti-Pattern Replaces
 
 Some people read "do not yell at your partner" as "suppress the anger." That is also wrong. Anger that does not move either goes to disdain or to physical symptoms or to leaking sideways at people who are not the source.
@@ -84,3 +94,4 @@ For the somatic mechanics, see [[fake-the-anger-to-let-it-move]] (the body needs
 
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
+- 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session demonstrating the shared-target variation: both partners moving anger together at a chronic illness rather than at each other

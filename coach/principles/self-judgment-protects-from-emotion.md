@@ -5,7 +5,7 @@ title: "Self-Judgment Protects You From an Emotion Underneath It"
 aliases: ["judgment of self protects from emotion", "self-judgment as defense against feeling", "the judgment hides the emotion", "what the self-judgment is protecting you from", "when you judge yourself find the emotion underneath", "judgment as emotional shield", "the emotion under self-criticism", "judging yourself to avoid feeling", "self-criticism as emotion avoidance", "the function of self-judgment"]
 tags: ["self-judgment", "emotions", "voice in the head", "perfectionism", "avoidance", "felt experience", "expression"]
 related: ["three-signals-of-unfelt-emotion", "voice-in-the-head", "feeling-the-unfelt-emotion", "unfelt-emotion-leaks", "judgment-vs-discernment", "perfectionism", "dont-name-emotion-to-avoid-feeling", "feel-over-figure"]
-sources: ["2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Foll", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+sources: ["2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Foll", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-02-03_Embracing Emotions： The Key to Great Decisions"]
 ---
 
 # Self-Judgment Protects You From an Emotion Underneath It
@@ -72,6 +72,22 @@ The emotions most commonly found underneath sticky self-judgment in social or ex
 
 Each of these, when felt fully, releases the judgment that was holding it back. The person's expression returns. Often what comes out is something they did not consciously plan but which lands more cleanly than the rehearsed version would have.
 
+## Defensiveness and Shame as Sibling Avoidances
+
+The same protective mechanism that runs as self-judgment also runs as defensiveness and as shame. All three are forms the system uses to keep an emotion from being felt. The protective function is identical even though the surface presentation differs.
+
+"Oftentimes we use judgment as a way to not feel difficult emotions... every time you're judging somebody, there's an emotion there that you're not feeling, or every time you're defensive, there's an emotion there that you don't wanna feel... Defensiveness is another one that when there's a defensiveness happening, we often feel wrong and we're avoiding it. And even if we are not wrong, we feel like we're wrong. And I would say almost every time that happens." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+Defensiveness has a specific emotional signature underneath it: the feeling of being wrong. The defense is the system's way of preventing that feeling from being fully felt. Whether the person actually is wrong is structurally irrelevant -- the defense fires either way, because the trigger is the felt-wrongness rather than the factual situation.
+
+Shame operates similarly. The shame is the management form; the unfelt emotion is underneath. "Shame is one of the ways that we use to avoid emotions. And that shame disconnects us from ourselves, disconnects us from the people around us." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+The unified frame: when a person is disconnecting from themselves, what they are disconnecting from is the emotional experience that is currently arising. The form the disconnection takes (judgment of self, judgment of others, defensiveness, shame) varies by context and history. The mechanism is the same.
+
+"Most simply put, when we feel disconnected from ourselves, what we feel disconnected from is our emotional experience. That's the thing that we are running away from or avoiding." -- Joe Hudson, Embracing Emotions: The Key to Great Decisions
+
+This expands the diagnostic reach of the principle. Any of these signals -- harsh self-judgment, defensiveness, shame loops, judgment of others -- can be entered through the same question: what feeling is being kept from being felt? See [[three-signals-of-unfelt-emotion]] for the broader cataloguing of the diagnostic signals.
+
 ## The Connection to the Voice in the Head
 
 This principle is one specific application of the larger relationship to [[voice-in-the-head]]. The voice's most common content is self-judgment. The voice's deeper function is protection -- specifically, protection from emotion that has not been felt.
@@ -114,3 +130,4 @@ Direct, structural, not pitying. The judgment is being treated as functional rat
 
 - 2023-01-06_Q&A – Expressing 'Anger At', Playing with Depression, Alone But Not Lonely, Followup Questions
 - 2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More
+- 2023-02-03_Embracing Emotions: The Key to Great Decisions (the expanded framing that defensiveness and shame operate as sibling avoidances using the same protective mechanism; the unified diagnostic that disconnection from self is disconnection from current emotional experience)

@@ -5,7 +5,7 @@ title: "Visceral Clarity from Anger"
 aliases: ["clarity from anger", "what real clarity feels like", "the relief after anger", "visceral clarity", "anger clarity diagnostic", "clarity is about self not other", "the clarity test", "I'm clear fuck them vs real clarity"]
 tags: ["anger", "clarity", "release", "diagnostics", "self-vs-other"]
 related: ["anger", "three-things-that-go-wrong-when-releasing-anger", "logic-vs-emotional-movement", "feeling-the-unfelt-emotion", "anger-as-cover-for-deeper-emotion", "kinked-emotions"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
 ---
 
 # Visceral Clarity from Anger
@@ -103,6 +103,8 @@ Joe describes the arrival across both episodes with consistent language:
 
 The "yeah" is informative. The clarity is often more of an exhale than an insight. The system stops protesting. What to do becomes obvious because the obstruction has cleared.
 
+For someone earlier in their relationship with anger, the felt confirmation can be more visceral and somatic before it settles into the quieter quality described above. Sadie, after running through both [[victim-anger-vs-dominating-anger]] forms at her husband's chronic illness: "It felt good. Like, I kind of wanted to, you know, stab something, maybe. Yeah, a little violent. Yeah, yeah, it felt really nice, actually." The "wanting to stab something" is not yet the dissolved quietude of mature release; it is the body confirming the dominating form has begun to move. The clarity that arrives at the end of the full sequence is the relief; the energized aliveness during the release is the body recognizing it has been allowed to do something it has held back for years.
+
 ## In Coaching
 
 When working with someone on anger:
@@ -135,3 +137,4 @@ Joe presents this gently. The misidentification of false clarity for real clarit
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode)
+- 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session where Sadie's felt response after the dominating anger form ("it felt really nice, actually") demonstrates the early-stage embodied confirmation of release

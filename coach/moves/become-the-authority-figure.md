@@ -4,7 +4,7 @@ id: become-the-authority-figure
 title: "Become the Authority Figure"
 aliases: ["role-play the authority", "I'll be your boss", "live role-play", "stand in for the trigger", "be the dad", "role-play move"]
 tags: ["live coaching", "role-play", "authority", "practice", "embodiment"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2023-01-20_I Can't Hold It All Anymore (Coaching Session)"]
 ---
 
 # Become the Authority Figure
@@ -64,14 +64,34 @@ Joe takes the role-play seriously but lightly. He flags the transition ("I'll be
 - Do not stay in role too long. The role-play is a moment, not the rest of the session.
 - Do not analyze the role-play immediately. Let the felt experience land before processing.
 
+## Variation: Standing in for the Parent to Hear Withheld Words
+
+Joe also uses this move with a slight inversion: rather than playing the authority so the person can practice a new stance, he plays the parent figure so the person can finally express what they never could express. The receiver of the role-play is the unspoken truth, not the new stance.
+
+"What would you like to say to the people who taught you? Not -- I don't want names or anything like that. What I want is for you to just -- what would be the feelings you could express to them right now if you were to express to the people who taught you that your job was to take care of them emotionally as a child or as a teenager?" -- Joe Hudson, I Can't Hold It All Anymore
+
+After the person describes what they would say, Joe steps in: "So can you do it like as if you're -- I'll be that whoever those people are, I'll be that, and you speak to me directly."
+
+The person then speaks directly. In the source session, Sadie spoke to her parents: "You tried your best, but you ultimately failed me. And I needed you. And you were never there." The words she had never said before came out through Joe standing in.
+
+This variation is appropriate when:
+- The work is about expressing what was never expressed, not practicing a new stance.
+- The childhood figure is the source of a voice in the head that is still running. See [[voice-in-the-head]].
+- The person needs the felt experience of speaking to the source, not just describing what they wish they could say.
+
+The mechanics are otherwise the same: flag the role-play, deliver in role without softening, return to own voice when the moment completes. Joe's brief acknowledgment in role -- "You have every right to be mad at me. Yeah, I know that's not what they would say." -- both honors what the person expressed and returns the frame to coaching.
+
 ## Related
 
 - [[upright-undefended-love]]: the stance the role-play is designed to test
 - [[fight-or-roll-over-binary]]: the pattern the role-play is breaking
 - [[i-freeze-around-authority]]: the concern this move addresses
 - [[trigger-the-shame-live]]: the same role-play mechanic applied specifically to producing the shame state in the room when the concern is fear of offending people
+- [[voice-in-the-head]]: the parent-stand-in variation often surfaces the source of the voice
+- [[im-exhausted-holding-space-for-my-partner]]: the parent-stand-in variation often appears in this concern, where the should-toughen-up voice traces to a childhood figure
 
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2022-10-26_Father Figures And Authority (Coaching Session)
+- 2023-01-20_I Can't Hold It All Anymore (Coaching Session) -- couples session where Joe used the parent-stand-in variation to let Sadie speak the words she had never said to her parents about being trained to caretake
