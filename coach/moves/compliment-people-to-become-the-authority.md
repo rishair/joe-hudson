@@ -5,7 +5,7 @@ title: "Compliment People on Their Work to Become the Authority in the Room"
 aliases: ["compliment people to become the authority", "the executive compliment move", "the peer power-struggle dissolver", "make yourself the authority by complimenting others", "complimenting work as authority move", "the no-one-is-complimenting-the-authority insight", "the executive coaching compliment hack", "authority through acknowledgment", "the room-leader-becomes-the-complimenter principle"]
 tags: ["leadership", "executive coaching", "authority", "compliments", "power dynamics", "move", "peer dynamics"]
 related: ["authority-issues", "the-four-authority-positions", "visualize-the-reality-of-leadership", "i-have-to-do-it-all-myself", "apologize-for-not-seeing-the-help", "vulnerability-in-the-workplace", "empowered-vs-power", "spit-at-the-top-is-a-waterfall-at-the-bottom", "structure-and-empowerment"]
-sources: ["2024-09-13_Authority Issues"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
 ---
 
 # Compliment People on Their Work to Become the Authority in the Room
@@ -97,3 +97,4 @@ The delivery is matter-of-fact. Not effusive. Not performed. The way you would n
 ## Sources
 
 - 2024-09-13_Authority Issues (the move stated directly: "compliment people on their work. It makes you the authority in the room"; the structural mechanism: no one is complimenting the authority figure, so the person who does is operating from the authority seat)
+- 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (parallel transcription of the same Alexa-hosted conversation)

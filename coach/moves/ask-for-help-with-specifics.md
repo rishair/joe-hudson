@@ -5,7 +5,7 @@ title: "Ask for Help with Specifics (Including the Criteria for What Would Actua
 aliases: ["ask for help with specifics", "ask for specific help", "the specific help-ask move", "how the lonely CEO actually gets help", "the criteria-for-help move", "the not-vague help-ask", "specify what would actually work", "the lonely-CEO ask-for-help move", "the help-ask that doesn't sabotage itself", "the why-cant-you-just-fucking-do-X anti-pattern", "the contrast between vague and specific help-asks"]
 tags: ["leadership", "CEO", "vulnerability", "help", "asking", "specificity", "move", "Position 4"]
 related: ["i-have-to-do-it-all-myself", "apologize-for-not-seeing-the-help", "the-four-authority-positions", "authority-issues", "vulnerability-in-the-workplace", "welcoming-fear-in-leadership", "state-the-want-not-the-action", "leaders-wants-are-the-organizations-wants", "anxiety-as-unarticulated-need"]
-sources: ["2024-09-13_Authority Issues"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
 ---
 
 # Ask for Help with Specifics
@@ -122,3 +122,4 @@ The pace is part of the move. The vague version is usually delivered fast — th
 ## Sources
 
 - 2024-09-13_Authority Issues (the move stated directly with the canonical example: contrast between "why can't you just fucking get the sales numbers up" and the longer specific ask with vulnerability, operational handles, stated criteria, and a direct invitation)
+- 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (parallel transcription of the same Alexa-hosted conversation)

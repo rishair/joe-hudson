@@ -5,7 +5,7 @@ title: "The $100,000 Video for the CEO (Layer Distortion at Scale)"
 aliases: ["the $100k video for the CEO", "the 100000 dollar video", "the polished video to the CEO", "the budget-approval video", "$100k spent on a single video", "the CEO budget-approval cascade", "the polished piece for CEO approval", "the example of layer distortion", "the spit-at-the-top example"]
 tags: ["leadership", "CEO", "authority", "organizational distortion", "example", "layer dynamics", "approval-seeking", "$100k"]
 related: ["spit-at-the-top-is-a-waterfall-at-the-bottom", "only-work-with-the-leader", "authority-issues", "the-four-authority-positions", "structure-and-empowerment", "visualize-the-reality-of-leadership"]
-sources: ["2024-09-13_Authority Issues"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
 ---
 
 # The $100,000 Video for the CEO
@@ -84,3 +84,4 @@ Joe tells this story flatly. The numbers do the work. There is no editorial outr
 ## Sources
 
 - 2024-09-13_Authority Issues (the example told as concrete illustration of the spit-and-waterfall principle; the contrast between the $100k polished video and the five-minute honest version; the implicit critique of intermediate management running approval-seeking on the CEO)
+- 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (parallel transcription of the same Alexa-hosted conversation)

@@ -5,7 +5,7 @@ title: "If You Don't Stand Into Authority, Others Will Vie for It (And Create Ch
 aliases: ["if you don't stand into authority others will vie for it", "the under-asserting leader principle", "absence of authority creates chaos", "vacuum of authority produces vying", "the entrepreneur who won't be the authority", "the rebel-turned-leader trap", "the don't-want-to-oppress trap", "people need structure for safety", "the middle path of authority", "process and principles not directives"]
 tags: ["leadership", "authority", "structure", "safety", "principle", "Position 3"]
 related: ["authority-issues", "the-four-authority-positions", "structure-and-empowerment", "no-doctrine-leadership", "visualize-the-reality-of-leadership", "leaders-wants-are-the-organizations-wants", "state-the-want-not-the-action", "spit-at-the-top-is-a-waterfall-at-the-bottom"]
-sources: ["2024-09-13_Authority Issues"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
 ---
 
 # If You Don't Stand Into Authority, Others Will Vie for It
@@ -126,3 +126,4 @@ Joe delivers this principle as a correction to his own earlier instinct. The ton
 ## Sources
 
 - 2024-09-13_Authority Issues (the principle stated directly: "when there's no authority, people start vying for that authority role. If you don't provide it, other people will vie for it, and that creates utter chaos"; the rebel-turned-leader trap; the middle path of process and principles; the facilitator version of the same balance)
+- 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (parallel transcription of the same Alexa-hosted conversation)

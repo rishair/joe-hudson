@@ -4,7 +4,7 @@ id: sarah-i-love-your-frustration
 title: "Sarah's 'I Love Your Frustration' (When Being Seen Dissolved the Authority Separation)"
 aliases: ["Sarah I love your frustration", "Joe and Sarah and the frustration story", "the frustration that dissolved the separation", "Joe felt the them-and-us coming up and Sarah dissolved it", "the I-love-your-frustration moment", "the moment Joe felt seen as a leader", "the disappearance of leader-team separation", "Joe's separation moment with the team", "the welcoming of the leader's emotion"]
 tags: ["being seen", "leadership", "authority", "welcoming emotion", "Joe and Sarah", "Joe's story", "example", "team", "separation"]
-related: ["authority-issues", "the-four-authority-positions", "welcoming-the-others-emotion", "welcoming-fear-in-leadership", "i-have-to-do-it-all-myself", "apologize-for-not-seeing-the-help", "visualize-the-reality-of-leadership", "ant-emotional-bypass-meeting"]
+related: ["authority-issues", "the-four-authority-positions", "welcoming-the-others-emotion", "welcoming-fear-in-leadership", "i-have-to-do-it-all-myself", "apologize-for-not-seeing-the-help", "visualize-the-reality-of-leadership", "ant-emotional-bypass-meeting", "i-love-your-frustration", "make-everyone-feel-seen-when-things-go-wrong"]
 sources: ["2024-09-13_Authority Issues"]
 ---
 
@@ -77,6 +77,8 @@ Joe describes this moment with warmth and a touch of awe. The transformation was
 
 ## Downstream (Where Joe Goes From Here)
 
+- Toward [[i-love-your-frustration]] for the move extracted from this story as a coaching instrument
+- Toward [[make-everyone-feel-seen-when-things-go-wrong]] for the leader-side move this experience produced in Joe ("my first move now is to make sure everybody feels seen")
 - Toward [[welcoming-the-others-emotion]] for the general move
 - Toward [[welcoming-fear-in-leadership]] for the leader-of-team version
 - Toward [[authority-issues]] for the broader teaching

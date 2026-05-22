@@ -99,7 +99,18 @@ Joe presents this casually, almost as a throwaway closing. The casualness is par
 - Toward [[joy-as-matriarch]]: the practice invites the rest of the family by making the door safe enough to open.
 - Toward [[discipline-starts-engine-then-let-gravity]]: the practice is in the engine-starting phase; the long arc is releasing into not needing the practice.
 
+## The Guided Audio (view.life/experiments)
+
+Joe's group produced a guided audio specifically for this practice — for people who try the five minutes on their own and notice their attention drift back to producing something. The audio holds the listener in the practice for the duration.
+
+"We have a guided audio for how to just like experience pleasure just sitting around. And so you can get that at view.life/experiments. That's the easiest way to do it. You can walk through it 3 or 4 times. And then after that, you can use it anywhere, anytime without actually having to listen to it because you get the system really quickly of how to take pleasure in just the most simple things." -- Joe Hudson, Pleasure
+
+The audio exists because of a specific failure pattern: a person tries the five minutes, notices "oh, that feels really good," and then the next thought is "now I'm off to produce some pleasure that I'm actually pushing away." The shift from receive-mode back to produce-mode happens within seconds. The audio works against that shift by holding the container.
+
+The audio is also a useful first introduction for a person who has not yet developed the container themselves. The audio establishes the rhythm. After a few rounds with guidance, the rhythm is internalized and the practice can be done without the audio anywhere.
+
 ## Sources
 
 - 2024-03-15_Joy (the practice as Joe's closing instruction; the prediction of what comes up in the five minutes; the instruction to feel the edge as well as the pleasure; the somatic evaporation of self as a marker)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical closing practice with the same instructions to enjoy breath or dishes or flower for 5 minutes and feel the resistance at the edge)
+- 2024-09-27_Pleasure (the existence of the guided audio at view.life/experiments specifically for this practice; the structural reason the audio helps — the person tries it on their own, notices it feels good, and within seconds the system shifts to producing more pleasure rather than staying in receive-mode; the audio is designed to hold the container across this shift)

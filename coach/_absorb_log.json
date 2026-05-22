@@ -5990,15 +5990,108 @@
     },
     {
       "folder": "2024-09-13_How To Approach Authority Issues \uff5c with Alexa Kistler & Joe Hudson",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T21:57:49Z",
+      "articles_created": [
+        "leadership-emerges-from-confident-direction",
+        "make-everyone-feel-seen-when-things-go-wrong",
+        "i-love-your-frustration",
+        "require-an-action-at-the-end-of-every-email",
+        "alzheimer-village-fame-metaphor",
+        "leader-receives-criticism-with-curiosity"
+      ],
+      "articles_updated": [
+        "authority-issues",
+        "the-four-authority-positions",
+        "compliment-people-to-become-the-authority",
+        "ask-for-help-with-specifics",
+        "if-you-dont-stand-into-authority-others-will-vie-for-it",
+        "spit-at-the-top-is-a-waterfall-at-the-bottom",
+        "100k-video-for-the-ceo",
+        "only-work-with-the-leader",
+        "baboon-leadership-study",
+        "sarah-i-love-your-frustration"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T22:13:45Z"
+    },
+    {
+      "folder": "2024-09-17_How Do I Not Get Ruined By Narcissism\uff1f",
+      "status": "complete",
+      "claimed_at": "2026-05-22T22:08:31Z",
+      "articles_created": [
+        "how-do-i-stay-open-after-narcissistic-abuse",
+        "defensive-scanning-for-the-feared-threat",
+        "whats-the-need-for-the-defense",
+        "how-much-of-this-is-fear-of-feeling-the-hurt-you-already-have",
+        "demonstrate-the-already-trained-detection",
+        "pour-the-love-at-the-threat"
+      ],
+      "articles_updated": [
+        "heartbreak-as-capacity-expansion",
+        "contain-the-narcissist",
+        "without-grief-we-recreate-the-pattern",
+        "fear-is-about-feeling",
+        "each-emotion-has-its-own-positive-flavor"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T22:21:32Z"
+    },
+    {
+      "folder": "2024-09-20_How to Break Free From Overthinking",
+      "status": "complete",
+      "claimed_at": "2026-05-22T22:14:42Z",
+      "articles_created": [
+        "voice-as-guide-to-unhealed-places",
+        "the-politician-and-the-acolytes"
+      ],
+      "articles_updated": [
+        "voice-in-the-head",
+        "voice-as-care",
+        "experimenting-with-the-voice",
+        "dont-fight-the-voice",
+        "my-inner-critic-wont-stop"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T22:22:26Z"
+    },
+    {
+      "folder": "2024-09-27_Pleasure",
+      "status": "complete",
+      "claimed_at": "2026-05-22T22:22:55Z",
+      "articles_created": [
+        "joe-thich-nhat-hanh-dishes",
+        "chasing-pleasure-is-avoidance",
+        "guilty-pleasure-vs-real-pleasure",
+        "fully-feel-the-forbidden-arousal",
+        "punishment-when-good-stings-more",
+        "tara-bacon-wrapped-dates",
+        "pleasure-is-letting-life-fully-hit-you",
+        "dont-make-pleasure-a-morality",
+        "the-fired-product-head-now-150k-a-week",
+        "pleasure-amplifies-vs-detracts-from-emotion"
+      ],
+      "articles_updated": [
+        "pleasure-capacity",
+        "fear-of-joy",
+        "enjoy-your-breath-for-five-minutes",
+        "each-emotion-has-its-own-positive-flavor",
+        "joy-as-natural-state"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T22:37:52Z"
+    },
+    {
+      "folder": "2024-10-11_How Experiments Will Change Your Life",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T22:23:19Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-09-17_How Do I Not Get Ruined By Narcissism\uff1f",
+      "folder": "2024-10-16_Pleasure",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T22:08:31Z",
+      "claimed_at": "2026-05-22T22:38:44Z",
       "articles_created": [],
       "articles_updated": []
     }

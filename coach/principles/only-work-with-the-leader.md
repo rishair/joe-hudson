@@ -5,7 +5,7 @@ title: "Only Work With the Leader (Refuse the Intermediate-Management Distortion
 aliases: ["only work with the leader", "Joe only works with the CEO", "refuse to work through layers", "the layer-distortion principle", "the intermediate management distortion", "Joe's refusal to work through intermediaries", "work at the level where the cascade originates", "the layers can't deliver the work"]
 tags: ["consulting", "coaching", "leadership", "authority", "principle", "organizational distortion"]
 related: ["spit-at-the-top-is-a-waterfall-at-the-bottom", "authority-issues", "the-four-authority-positions", "100k-video-for-the-ceo", "structure-and-empowerment", "joes-hr-call-firing"]
-sources: ["2024-09-13_Authority Issues"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
 ---
 
 # Only Work With the Leader
@@ -91,3 +91,4 @@ Joe states this principle as a hard-won boundary. He used to work through layers
 ## Sources
 
 - 2024-09-13_Authority Issues (the principle stated directly: "I only work with the leader. I won't work with the everything in between. I just refuse to do that because it gets so distorted"; the three-layers-of-management example from a top-5 company; the rationale: layers cannot deliver the work cleanly because they are managing the leader's projected response rather than the substance)
+- 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (parallel transcription of the same Alexa-hosted conversation)

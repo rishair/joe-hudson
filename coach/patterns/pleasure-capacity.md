@@ -106,6 +106,34 @@ The prediction: the system will not be able to maintain the focus for five full 
 
 The not-being-able-to-maintain is the data. The reaching for a problem is the data. The clamping at a threshold is the data. The diagnostic surfaces the apparatus the system has been using to cap pleasure invisibly during ordinary life. Once visible, the apparatus can be worked with. See [[enjoy-your-breath-for-five-minutes]] for the practice as practice and [[fear-of-joy]] for the broader pattern the diagnostic surfaces.
 
+## The Origin of the Cap: Punishment While Feeling Good
+
+A specific developmental mechanism explains why some people have particularly low pleasure ceilings. When a kid is punished while feeling bad about themselves, the punishment is painful but is somehow what the system expected. When a kid is punished while feeling good — being themselves, doing what felt right, enjoying something — the punishment carries a different sting. The "what the fuck" sting. The body encodes the pairing: good-state preceded unexpected punishment, so good-state is risky.
+
+The body that has been trained by this experience clamps pleasure before it can rise to the level at which the historical punishment would have arrived. The clamping is invisible because it operates below conscious notice. The person experiences this as "I just don't feel that much pleasure" or "things are going well and I feel anxious."
+
+"Getting punished when you don't feel good is just easier on the system than getting punished when you feel really good. Having something really good taken from us is harder. There's a sting to that that's different. There's a what the fuck? And I think that's probably part of the reason that we're so scared of pleasure, because the taking-away of it is so hard on our system." -- Joe Hudson, Pleasure
+
+This is reinforced by the loss-aversion finding: the brain weights losses about twice as heavily as gains, and the loss of pleasure is felt more deeply than the gain. The contrast between high-pleasure and the punishment that interrupted it is encoded with more durable charge than a flat-to-punished transition would have been. See [[punishment-when-good-stings-more]] for the full mechanism and the operational implications.
+
+The healing path: the body has to accumulate new evidence that pleasure can rise without the punishment arriving. The first stretch of practice is the hardest because the body is most certain of its old prediction. Eventually the practice reveals something the body did not expect: the pleasure source is the breath, the dishes, the sensation — and these cannot be permanently disrupted. "You can take it away from me for a couple minutes if you want, but there it is again. I can have it." The body learns, slowly, that this pleasure is not the kind the old punishment could permanently remove.
+
+## The Chase-Pleasure Failure Mode
+
+The capacity does not stretch through chasing pleasure. The chase is its own configuration — get-mode — which is structurally incompatible with the receive-mode the capacity is being trained for. A person who tries to expand pleasure-capacity by pursuing pleasurable experiences more aggressively ends up training the chase, not the capacity. The chase produces transient body-states with anxiety underneath. The capacity produces ease, with felt safety underneath.
+
+"If there's any kind of hunger in getting the pleasure, then that usually is a clear sign that it's become either avoidant or you're pushing the pleasure away." -- Joe Hudson, Pleasure
+
+The diagnostic for whether the practice is operating in the receive-configuration or has slipped into the chase: is there hunger in the pleasure-getting? Hunger looks like reaching, defining oneself by the pleasure, anxiety underneath the sensation. When hunger is present, the capacity is not being stretched. The practice has to be reoriented to the receive-mode for the capacity work to resume. See [[chasing-pleasure-is-avoidance]] for the full structural treatment of this failure mode and [[guilty-pleasure-vs-real-pleasure]] for the distinction between the chase-pleasure and the capacity-pleasure.
+
+## The Discovery Origin: Doing the Dishes
+
+The teaching has a personal origin point. Joe was reading Thich Nhat Hanh describing doing the dishes as a pleasurable experience — warm water, soap, the sensation of it. Joe hated doing the dishes. He tried it. The dishes were pleasurable. The pleasure had been available the whole time.
+
+The realization extended: if the dishes could be pleasurable, anything could be. Joe started experimenting with how much pleasure could be extracted from any given moment. What he expected (sex, peak experiences) was not what arrived. What arrived was small, available, always-here pleasure — the breath, the walk, the dishes. After several weeks of the experiment, the constant background anxiety started dissipating. The nervous system was settling. The capacity was stretching.
+
+The story is the origin point for the broader framing: pleasure-capacity is trainable, the training happens through the mundane more than through the dramatic, and the training produces the felt safety that the dramatic chase never delivers. See [[joe-thich-nhat-hanh-dishes]] for the full story and the second beat — Joe forgot the practice within a month and had to rediscover it, which is also part of the teaching about how the practice has to be re-entered.
+
 ## Sources
 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
@@ -114,3 +142,4 @@ The not-being-able-to-maintain is the data. The reaching for a problem is the da
 - 2024-02-26_How To Measure Your Progress In Personal Development & Transformation (the pleasure-as-awareness-of-energy-moving definition and Joe's refinement to "awareness of sensations without resistance"; the bidirectional safety/pleasure mechanism; the no-ceiling claim; the framing of pleasure capacity as the gut/nervous-system marker of transformation)
 - 2024-03-15_Joy (the five-minute breath diagnostic for measuring current pleasure capacity; the prediction that the system will reach for a problem when joy approaches; the diagnostic surfacing the apparatus that caps pleasure invisibly during ordinary life)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical five-minute breath diagnostic and prediction that the system will reach for a problem when joy approaches)
+- 2024-09-27_Pleasure (the developmental mechanism of punishment-while-feeling-good as the origin of low pleasure ceilings, sourced from [[punishment-when-good-stings-more]]; the chase-pleasure failure mode in which hunger-in-the-pleasure-getting prevents the capacity from stretching, sourced from [[chasing-pleasure-is-avoidance]]; the personal origin story of Joe and Thich Nhat Hanh's dishes as the discovery point for the pleasure-capacity teaching, sourced from [[joe-thich-nhat-hanh-dishes]]; the framing that the pleasure-source cannot be permanently disrupted because it is in the breath and body, which is part of how the capacity stretches over time as the body accumulates new evidence)

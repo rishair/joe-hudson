@@ -170,6 +170,24 @@ A clear illustration of the clamp in action. In a week-long workshop, someone to
 
 The joy was real, intense, and rejected within seconds. The body's response to the supernova was to put it out. The "bringing myself back into the present" framing is the language a person uses to justify the clamp to themselves: it sounds like restraint or composure, but it functions as suppression.
 
+## Pleasure Is More Intense Than Rage
+
+A specific reason for the depth of the clamp that deserves to be named directly: pleasure, joy, and peace, when allowed deeply, are more intense than the difficult emotions. Most people assume that the difficult emotions (rage, terror, deep grief) are the most intense experiences a body can have. Joe inverts this. The intensity of pleasure can be far greater than the intensity of rage. The intensity of joy and peace can exceed the intensity of any difficult emotion.
+
+"It's actually part of the reason why embracing intensity is so important for this work. It's not only the intensity of, let's say, pain or anger or sadness. It's the intensity of pleasure, which I find to be far more intense than the intensity of joy, the intensity of peace can be far more intense than the intensity of rage. And you lose control in it. You lose yourself in it to some degree. And that's very scary for people." -- Joe Hudson, Pleasure
+
+The framing matters because it explains why the clamp on positive emotion is often stronger than the clamp on negative emotion. The body is protecting itself from the more intense experience, not the less intense one. A person who has been doing emotional work and feels comfortable with anger, grief, and fear may still clamp pleasure tightly — not because they have failed to do the work but because pleasure is structurally more intense and requires more capacity to be present with.
+
+## The Orgasm Parallel
+
+The clearest everyday analogue for the fear-of-deep-pleasure pattern is the difficulty some people have with sexual orgasm. The conditions need to be just right. The loss of control is intolerable. The expansion into pleasure feels like falling or losing oneself. These are the same dynamics that operate at the level of pleasure-as-aliveness in general.
+
+"Ask any person who's had trouble having an orgasm, like, we've all met someone who's like, I can't do it unless everything is just right, and I feel like I lose control. This is a very similar thing that happens, except for the orgasm is just life itself." -- Joe Hudson, Pleasure
+
+The parallel is operational, not metaphorical. The same somatic apparatus that clamps the orgasmic release clamps the joy-release. The same fear of dissolution operates in both. The same need for conditions-to-be-right operates in both. A person who knows what their orgasm-clamp feels like can use that knowledge to identify their joy-clamp, which often operates the same way.
+
+The reverse is also true: the work on the joy-clamp can soften the orgasm-clamp. The same capacity is being trained. Working on it in either domain stretches it for the other.
+
 ## The Coaching Move
 
 When the joy clamp shows up in session, the move is to gently name what just happened. "You started laughing and then you stopped. What was that?" The naming makes the clamp visible. Once visible, the body has the option to let the joy continue rather than abbreviate it.
@@ -248,3 +266,4 @@ Curious, warm. The fear of joy is treated as a real phenomenon, not as a failure
 - 2024-03-15_Joy (the loss-of-predictability dimension of fear of joy -- losing the ability to predict self, action, and consequences; the divorce-your-wife / quit-your-job fears that surface when joy is fully allowed; the mind-wide-as-sky / action-fine-as-barley-flour Tibetan saying that frames what replaces the lost predictability; the index-fund-of-life reassurance for the in-between period; the bottling-up-then-release pattern in kids that demonstrates why safety triggers difficult emotions)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical loss-of-predictability fears, divorce-your-wife / quit-your-job examples, Tibetan mind-wide-as-sky framing, and index-fund-of-life reassurance)
 - 2024-05-10_Gratitude (the "kinky to feel good in public" social-discomfort framing; the Tara-eating-purple-potatoes example of someone who has not adopted the social containment; the extension of the clamp into sexuality and masturbation as transactional; the framing of fear-of-joy as one specific reason people resist gratitude practice -- they're scared the gratitude will release a level of pleasure they're not comfortable having visible)
+- 2024-09-27_Pleasure (the pleasure-is-more-intense-than-rage framing: the intensity of pleasure and peace exceeds the intensity of rage, which is why the clamp on positive emotion is often stronger than the clamp on negative emotion; the orgasm parallel: the difficulty some have with sexual orgasm is the same somatic clamp operating in a familiar domain, and life itself becomes the orgasm when the clamp is generalized; the developmental origin of the fear in punishment-while-feeling-good [[punishment-when-good-stings-more]]; the Tara-bacon-wrapped-dates example as another instance of the cultural cap on visible pleasure [[tara-bacon-wrapped-dates]])

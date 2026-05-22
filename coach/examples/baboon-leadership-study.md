@@ -4,7 +4,7 @@ id: baboon-leadership-study
 title: "The Baboon Leadership Study (Anyone Can Lead with Directness)"
 aliases: ["the baboon leadership study", "the baboon troop study", "baboon tracking collars", "the baboon morning decision", "anyone can lead the troop", "the directness study", "the baboon directness study", "anyone can lead with confidence", "the baboon authority example", "the alpha-baboon doesn't always lead", "the most direct baboon leads", "what makes a baboon get followed"]
 tags: ["leadership", "authority", "example", "primatology", "directness", "baboons", "natural hierarchy"]
-related: ["authority-issues", "the-four-authority-positions", "structure-and-empowerment", "if-you-dont-stand-into-authority-others-will-vie-for-it", "empowered-vs-power", "leaders-calm-becomes-the-teams-calm"]
+related: ["authority-issues", "the-four-authority-positions", "structure-and-empowerment", "if-you-dont-stand-into-authority-others-will-vie-for-it", "empowered-vs-power", "leaders-calm-becomes-the-teams-calm", "leadership-emerges-from-confident-direction", "leader-receives-criticism-with-curiosity"]
 sources: ["2024-09-13_Authority Issues"]
 ---
 
@@ -76,12 +76,14 @@ Joe describes this example with appreciation for what the data revealed. The fra
 
 ## Downstream (Where Joe Goes From Here)
 
+- Toward [[leadership-emerges-from-confident-direction]] for the principle this example most directly grounds
 - Toward [[authority-issues]] for the broader teaching
 - Toward [[the-four-authority-positions]] for the structural map
 - Toward [[empowered-vs-power]] for the underlying distinction
 - Toward [[name-the-authoritys-fear]] for the application of the directness principle to subordinate truth-telling
 - Toward [[leaders-calm-becomes-the-teams-calm]] for the leader-state version of the same dynamic
 - Toward [[if-you-dont-stand-into-authority-others-will-vie-for-it]] when the leader needs to inhabit directness alongside humility
+- Toward [[leader-receives-criticism-with-curiosity]] for the founder-defensiveness application Joe explicitly draws from the baboon example
 
 ## Sources
 

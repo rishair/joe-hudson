@@ -4,8 +4,8 @@ id: contain-the-narcissist
 title: "Contain the Narcissist (Boundaries Are the Tool, Not VIEW)"
 aliases: ["contain the narcissist", "boundaries with narcissist", "VIEW with narcissist doesn't work", "use boundaries not VIEW with narcissist", "containment is what the narcissist actually needs", "the narcissist exploits vulnerability", "VIEW with a narcissist gets exploited", "the trip not working is containment", "love your own anger so theirs doesn't affect you", "narcissist needs boundaries to feel safe", "separation is a valid option with narcissist", "you can love them and not be in the room", "boundary that holds is the only thing that lands"]
 tags: ["narcissism", "boundaries", "VIEW", "containment", "principle", "relationships"]
-related: ["narcissism-as-incapacity-to-feel", "boundaries", "view-as-technique", "view", "vulnerability-as-control", "dont-use-boundaries-as-ultimatums", "boundaries-expand-as-capacity-grows", "how-do-i-deal-with-narcissistic-parent", "every-trigger-with-your-kid-is-projection"]
-sources: ["2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
+related: ["narcissism-as-incapacity-to-feel", "boundaries", "view-as-technique", "view", "vulnerability-as-control", "dont-use-boundaries-as-ultimatums", "boundaries-expand-as-capacity-grows", "how-do-i-deal-with-narcissistic-parent", "how-do-i-stay-open-after-narcissistic-abuse", "every-trigger-with-your-kid-is-projection", "heartbreak-as-capacity-expansion", "without-grief-we-recreate-the-pattern", "pour-the-love-at-the-threat", "demonstrate-the-already-trained-detection"]
+sources: ["2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2024-09-17_How Do I Not Get Ruined By Narcissism？"]
 ---
 
 # Contain the Narcissist (Boundaries Are the Tool, Not VIEW)
@@ -102,6 +102,20 @@ Joe distinguishes two forms of narcissistic behavior that respond to containment
 
 In both cases, the principle is the same: the behavior does not work. The system, finding the limit, can rest.
 
+## The Post-Relationship Recovery Complement
+
+This principle addresses what to do when the narcissist is still in the person's life — partner, parent, boss. A different and related question arises after the narcissist is no longer in the relationship: how does the person who has just exited recover, stay open, and avoid the pattern recurring?
+
+The recovery work is structurally distinct from the containment work. Containment requires boundaries against the still-present person. Recovery requires the grief of what already happened. The two are sequenced: containment while the contact continues, recovery once the contact ends.
+
+The recovery question is treated in [[how-do-i-stay-open-after-narcissistic-abuse]]. The short form: the person who has just exited a narcissistic relationship has already trained the detection system. The vigilance they think they need is redundant. The actual work is the grief of what just happened. Once the grief moves, the detection is operationally sufficient without the vigilance, and the opened heart becomes structurally unhookable by the next narcissist's bait.
+
+The connection between the two articles: the containment principle says boundaries are the tool while the narcissist is present. The recovery principle says grief is the tool once the narcissist is gone. Both principles dissolve the same delusion in different forms — the delusion that the person needs to do something more sophisticated to manage the narcissist's effect on them. The actual work in both cases is the person's own internal work, not technique applied to the narcissist.
+
+See [[heartbreak-as-capacity-expansion]] for the post-relationship grief that produces the recovery, [[demonstrate-the-already-trained-detection]] for the move that surfaces the redundant vigilance, and [[pour-the-love-at-the-threat]] for the closing move that verifies the recovery in the body.
+
+The recovery work also dissolves a specific fear that contributes to staying in the narcissistic relationship in the first place: the fear of being the kind of person who attracts narcissists. The fear keeps the person scanning for and avoiding all situations where a narcissist might appear. The actual mechanism is the inverse: the unprocessed pattern from the previous narcissist (often a parent) is what made the person available to the next one. Once that pattern is grieved, the next narcissist cannot land — and the work of staying or leaving the current narcissist can be done without the trapped feeling.
+
 ## Tone
 
 Even and firm. Joe does not dramatize the narcissist as villain or perform pity for them. The teaching is clinical: here is what is happening in their system, here is what works with that system, here is what you get to learn by interacting with that system. The moralizing is absent on every side.
@@ -126,3 +140,4 @@ Even and firm. Joe does not dramatize the narcissist as villain or perform pity 
 ## Sources
 
 - 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers
+- 2024-09-17_How Do I Not Get Ruined By Narcissism? (the post-relationship recovery complement to the containment principle; the recovery question is structurally distinct from the containment question — containment for while the narcissist is present, grief for after they are gone; the recovery work dissolves the residual fear of attracting narcissists and produces the openness that makes the next narcissist's bait unable to land)

@@ -5,7 +5,7 @@ title: "Don't Use the Voice to Silence the Voice"
 aliases: ["thief security guard", "thief as security", "fighting the voice", "war with the voice", "voice vs voice", "attacking the inner critic", "trying to silence the voice"]
 tags: ["voice in head", "anti-pattern", "resistance", "self-attack"]
 related: ["voice-in-the-head", "voice-as-care", "layered-resistance", "awareness-as-change-agent", "experimenting-with-the-voice", "apply-view-to-the-voice", "resistance"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2024-09-20_How to Break Free From Overthinking"]
 ---
 
 # Don't Use the Voice to Silence the Voice
@@ -62,6 +62,20 @@ Specific alternatives:
 
 "Just the recognition of the voice in the head can change the way the voice in the head dialogues with you until you resist it, until you're like, 'Oh man, I gotta change that voice in my head.' Then the voice in the head is now telling you to change the voice in your head." -- Joe Hudson, Who is the Voice in Your Head?
 
+## Any Technique Used To Get Rid Of It Will Stop Working
+
+A specific corollary of this anti-pattern: if you take any of the productive practices for working with the voice — [[experimenting-with-the-voice]], [[lawyer-the-voice]], [[apply-view-to-the-voice]], welcoming it, loving it — and use them with the goal of getting rid of the voice, the techniques will stop working. The voice reads the agenda. The technique becomes another instance of fight.
+
+"If you use them to actually get rid of the voice in the head, they will stop working. If you use them just like, I'm experimenting, I'm exploring, I'm learning to have a better relationship with the voice in the head, then the voice in the head will start letting go and it'll just dissipate and slowly move into the background and disappear." -- Joe Hudson, How to Break Free From Overthinking
+
+The same move ("love the voice") produces opposite results depending on intent:
+- Love it to get rid of it: more voice.
+- Love it because you are exploring what happens when you love it: voice softens.
+
+The difference is not detectable from the outside. It is detectable to the system performing the move. The voice cannot be fooled because the voice is the system. There is no audience to perform for.
+
+This is the diagnostic test for any voice-work practice. If the practice is being used to produce a specific outcome (silence, change, removal), the practice has been hijacked. If the practice is being used as exploration without an outcome required, the practice is functioning. The exploratory frame is the operating condition of every approach that works.
+
 ## How to Catch Yourself Doing It
 
 Diagnostic questions:
@@ -82,3 +96,4 @@ Also strong in high-performers and self-improvers who are used to fixing things 
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2024-09-20_How to Break Free From Overthinking (the corollary that any technique used with the agenda of getting rid of the voice will stop working — the diagnostic distinction between exploratory and outcome-seeking use of the same practice; "if you use them to actually get rid of the voice in the head, they will stop working")

@@ -5,7 +5,7 @@ title: "Spit at the Top Is a Waterfall at the Bottom"
 aliases: ["spit at the top is a waterfall at the bottom", "the spit and the waterfall", "small CEO actions become massive org changes", "leader small action becomes org change", "leader's small criticism cascades", "leverage at the top", "amplification through the org", "the $100k video principle"]
 tags: ["leadership", "CEO", "organizational dynamics", "leverage", "principle", "authority"]
 related: ["authority-issues", "the-four-authority-positions", "100k-video-for-the-ceo", "visualize-the-reality-of-leadership", "leaders-calm-becomes-the-teams-calm", "leaders-wants-are-the-organizations-wants", "only-work-with-the-leader", "structure-and-empowerment", "spit-at-the-top-is-a-waterfall-at-the-bottom"]
-sources: ["2024-09-13_Authority Issues"]
+sources: ["2024-09-13_Authority Issues", "2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson"]
 ---
 
 # Spit at the Top Is a Waterfall at the Bottom
@@ -95,3 +95,4 @@ Joe describes this principle as an operational fact that leaders need to absorb.
 ## Sources
 
 - 2024-09-13_Authority Issues (the principle stated directly: "a little bit of a criticism of a CEO can create million-dollar changes at the bottom of the company"; the $100k video example; the principle of refusing to work through layers; the leader-and-culture-as-dance framing)
+- 2024-09-13_How To Approach Authority Issues ｜ with Alexa Kistler & Joe Hudson (parallel transcription of the same Alexa-hosted conversation)

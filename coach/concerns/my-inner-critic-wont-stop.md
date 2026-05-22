@@ -4,7 +4,7 @@ id: my-inner-critic-wont-stop
 title: "My inner critic won't stop / The voice in my head is constant"
 aliases: ["voice in my head won't shut up", "constant self-criticism", "I'm always criticizing myself", "I can't quiet my mind", "my mind never stops", "the critic in my head", "constant internal chatter", "my brain never shuts up", "I'm so hard on myself", "the voice in my head", "I keep rehearsing", "rumination concern", "I can't stop the loop"]
 tags: ["voice in head", "inner critic", "self-criticism", "rumination", "concerns"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2022-10-26_Who Is The Voice In Your Head", "2024-09-20_How to Break Free From Overthinking"]
 ---
 
 # My inner critic won't stop / The voice in my head is constant
@@ -71,6 +71,10 @@ The branching point depends on what is underneath the surface complaint.
 
 **If the critic has become an internal figure the person describes as a demon, monster, dragon, or "the thing inside me":** the figure has hardened from voice into entity. The work is the chase-and-hug move. See [[chase-it-around-the-room]]. Fighting the figure has produced more figure; the inverse relationship is pursuit-with-love. The "demon" is just looking for hugs.
 
+**If the person is ready to move from softening the voice to using it:** introduce [[voice-as-guide-to-unhealed-places]]. Once the voice no longer feels like an enemy, its content becomes a high-specificity map of what is still unhealed. The recurring themes are not noise; they are coordinates for the next layer of work.
+
+**If the person keeps automatically agreeing with the voice's claims:** the work is to withdraw the acolyte's nod. See [[the-politician-and-the-acolytes]]. The voice's authority depends on the listener's automatic validation; refusing the validation is the prerequisite for any other practice to land.
+
 ## Coaching Path
 
 1. Name the voice. Often the person has not separated the voice from themselves. Naming creates a useful distance: "you are the one hearing this voice, not the voice itself." See [[voice-in-the-head]].
@@ -100,3 +104,4 @@ The branching point depends on what is underneath the surface complaint.
 
 - 2021-07-16_Who is the Voice in Your Head?
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2024-09-20_How to Break Free From Overthinking (additional reads: when the person is ready to use the voice as a guide rather than just soften it, and when the person is automatically agreeing with the voice's claims and needs to withdraw the acolyte's nod first)

@@ -4,8 +4,8 @@ id: voice-as-care
 title: "The Voice Is Love With Bad Strategies"
 aliases: ["voice as care", "voice as love", "voice in head as care", "the voice loves you", "voice's intention", "deep care behind the voice", "the voice cares", "intention behind the voice"]
 tags: ["voice in head", "reframe", "self-relationship", "compassion", "core reframe"]
-related: ["voice-in-the-head", "loving-all-parts", "love-as-deep-welcoming", "apply-view-to-the-voice", "dont-fight-the-voice", "shame-drives-behavior"]
-sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Who Is The Voice In Your Head"]
+related: ["voice-in-the-head", "loving-all-parts", "love-as-deep-welcoming", "apply-view-to-the-voice", "dont-fight-the-voice", "shame-drives-behavior", "voice-as-guide-to-unhealed-places"]
+sources: ["2021-07-16_Who is the Voice in Your Head?", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Who Is The Voice In Your Head", "2024-09-20_How to Break Free From Overthinking"]
 ---
 
 # The Voice Is Love With Bad Strategies
@@ -60,6 +60,23 @@ A useful response in voice: "Oh, I see that you really care that I do a good job
 
 The "I see that you really care" lands as a reframe. The "use better management techniques" lands as a request. This is the structure of healthy relationship with any part of self: acknowledge the intention, request a different approach.
 
+## The Translation Move (See How Much It Cares)
+
+A specific in-the-moment operationalization: translate what the voice says into the care it is poorly expressing. The voice says one thing; the care underneath is saying something else. Speak the care back to the voice.
+
+"There is nothing it says to you that isn't an act of care. Granted, it says it horribly. It's like the worst micromanaging boss. If you can actually translate it so you can feel what the deep care is when it says, 'Hey, lose weight,' you can be like, 'Oh, I really see that you care about my health. Wow, I appreciate that,' right?" -- Joe Hudson, How to Break Free From Overthinking
+
+The structure of the translation:
+- Voice content: "Hey, lose weight."
+- Care underneath: "You care about my health."
+- Spoken back: "I really see that you care about my health. I appreciate that."
+
+This is a discrete, repeatable move. The voice speaks. The person silently or out loud names the care under the words. The naming is the response. Over time, the voice can also be asked to express the care more directly: "Could you say that more caringly next time?" The relationship becomes a real one, with feedback in both directions.
+
+"You can even ask it to just be more caring in the way it expresses it to you, and then that changes the relationship. And pretty soon that repetitive negative self-talk just starts to dwindle and evaporate slowly but surely." -- Joe Hudson, How to Break Free From Overthinking
+
+The move is operational where "the voice loves you" alone is conceptual. Saying the care out loud (or in inner speech, addressed to the voice) gives the system something to do with the reframe in real time.
+
 ## The Voice Cannot Hear Itself Be Loved If It Is Being Hated
 
 The voice has been at war with you for years. If you suddenly turn around and try to love it, expect distrust, suspicion, and renewed attack. The voice will read your sudden warmth as a trick. It takes time and repetition for it to land.
@@ -99,6 +116,7 @@ The 20/80 framing is worth noting. The shift does not require complete reconcili
 - Toward [[experimenting-with-the-voice]]: the play-based approach to discovering what works.
 - Toward [[chase-it-around-the-room]]: the embodied move when the voice has personified as an internal figure (demon, monster, dragon) that the person has been at war with. The chase-with-hugs is the relational form the reframe takes when the voice has hardened into something the person experiences as an enemy.
 - Toward [[extend-the-no-asshole-rule-inward]]: the boundary form when the voice is operating as an internal asshole while the person tolerates no equivalent behavior externally.
+- Toward [[voice-as-guide-to-unhealed-places]]: the next-order reframe once the care has been recognized. The care points at something, and what it points at is what is unhealed. The voice becomes a guide to the work, not just a misguided well-meaner.
 
 ## Tone
 
@@ -116,3 +134,4 @@ This reframe also fails if it is used as a way to dismiss real damage. "The voic
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
 - 2022-10-26_Who Is The Voice In Your Head (rebroadcast of the 2021-07-16 conversation)
+- 2024-09-20_How to Break Free From Overthinking (the translation move: silently name the care underneath the voice's content and speak it back; the next step of asking the voice to express the care more directly; the operational form of how the reframe lands as a discrete repeatable move)
