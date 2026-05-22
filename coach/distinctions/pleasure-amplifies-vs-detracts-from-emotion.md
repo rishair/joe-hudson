@@ -4,8 +4,8 @@ id: pleasure-amplifies-vs-detracts-from-emotion
 title: "Pleasure That Amplifies the Emotion vs. Pleasure That Detracts From the Emotion"
 aliases: ["pleasure amplifies vs detracts from emotion", "pleasure into the anger vs pleasure away from the anger", "going to pleasure to escape vs taking pleasure in what's here", "the amplify-the-aliveness use of pleasure", "the avoid-the-emotion use of pleasure", "using pleasure to feel more vs using pleasure to feel less", "pleasure as bypass vs pleasure as deepening", "anger-then-pleasure vs anger-into-pleasure", "the pleasure-as-bypass move", "the pleasure-in-the-anger move", "pleasure-on-top-of-the-emotion vs pleasure-instead-of-the-emotion", "the use of pleasure that disables emotional experience", "the use of pleasure that opens emotional experience", "pleasure that opens the boundary vs pleasure that runs away"]
 tags: ["distinction", "pleasure", "emotion", "amplification", "bypass", "embodiment", "anger", "boundary"]
-related: ["each-emotion-has-its-own-positive-flavor", "pleasure-is-letting-life-fully-hit-you", "chasing-pleasure-is-avoidance", "joy-as-matriarch", "emotional-fluidity", "spiritual-bypass", "feeling-the-unfelt-emotion", "anger", "the-pleasure-of-drawing-a-boundary"]
-sources: ["2024-09-27_Pleasure"]
+related: ["each-emotion-has-its-own-positive-flavor", "pleasure-is-letting-life-fully-hit-you", "chasing-pleasure-is-avoidance", "joy-as-matriarch", "emotional-fluidity", "spiritual-bypass", "feeling-the-unfelt-emotion", "anger", "pleasure-in-the-expression-prevents-attack"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Pleasure That Amplifies the Emotion vs. Pleasure That Detracts From the Emotion
@@ -95,8 +95,9 @@ Joe presents this as a clarification, not as a warning. The framing is matter-of
 - Toward [[joy-as-matriarch]]: the broader teaching that the welcoming has to extend to all the children
 - Toward [[chasing-pleasure-is-avoidance]]: the related principle; the detract-use is one form of the chase
 - Toward [[spiritual-bypass]]: the broader pattern of which the detract-use is a domain-specific instance
-- Toward [[the-pleasure-of-drawing-a-boundary]]: the specific operational form of the amplify-use in the boundary domain
+- Toward [[pleasure-in-the-expression-prevents-attack]]: the specific operational principle that the amplify-use produces — pleasure-in-the-emotion is the marker of being in the body rather than managing the response, which makes the expression less likely to be attacked
 
 ## Sources
 
 - 2024-09-27_Pleasure (the explicit articulation that pleasure can detract from emotion or amplify emotion; the worked example of getting angry at mom and either going to pleasure to escape the anger vs. staying with the anger and finding pleasure inside the boundary-drawing; the Brett mapping of how the amplify-use shifts the locus from over-there to in-here and changes the resulting action)
+- 2024-10-16_Pleasure (re-articulation of the same teaching with an added principle: when pleasure is present in the expression of an emotional act — asking for a want, drawing a boundary, even getting scared — the speaker is in their body and not managing the result, which produces a configuration that is less likely to be received as attack)

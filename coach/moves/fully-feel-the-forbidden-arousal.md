@@ -5,7 +5,7 @@ title: "Fully Feel the Forbidden Arousal (Without Fantasizing): The Fixation Dis
 aliases: ["fully feel the forbidden arousal", "feel the attraction without fantasizing", "the feel-the-arousal-don't-fantasize move", "feel the sexual arousal it comes and goes", "fully feeling dissolves the fixation", "you don't have to act on the want", "feel the want, don't move on it", "the forbidden-arousal-move", "feel it and notice it's not fixated anymore", "the attraction-on-the-street move", "feel the arousal it comes and goes", "the cut-the-arousal trap", "the not-allowed-to-feel-this trap", "the trap of cutting the arousal", "the trap of stopping the sexual feeling", "the forbidden-desire-just-feel-it move", "the don't-cut-it-just-feel-it move", "feel it through and the fixation drops", "the fully-feel move for forbidden desire"]
 tags: ["move", "pleasure", "arousal", "desire", "fantasy", "fixation", "forbidden", "what-we-fear-we-invite", "sexual", "attraction"]
 related: ["what-we-fear-we-invite", "say-the-forbidden-want-out-loud", "chasing-pleasure-is-avoidance", "feeling-the-unfelt-emotion", "pleasure-is-letting-life-fully-hit-you", "guilty-pleasure-vs-real-pleasure", "hidden-rebellion-under-the-habit", "engineering-heartbreak-to-avoid-heartbreak", "addiction-to-shame", "i-cant-stop-doing-things-i-dont-want-to-do"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Fully Feel the Forbidden Arousal (Without Fantasizing)
@@ -113,3 +113,4 @@ The structure of the exchange is the structure of the move: configuration named,
 ## Sources
 
 - 2024-09-27_Pleasure (the move as articulated to the sexual-arousal-on-the-street example; the explicit two-part instruction to fully feel the arousal AND not fantasize; the prediction that the fixation drops; the cutting-creates-fixation mechanism; the suppression-rebound to porn-or-different-domain pattern; the cheating-on-husband / financially-irresponsible-car fear that the move addresses)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the forbidden-arousal teaching is recounted identically)

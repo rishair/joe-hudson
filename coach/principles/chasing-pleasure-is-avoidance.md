@@ -5,7 +5,7 @@ title: "Chasing Pleasure Is Itself the Avoidance of Pleasure"
 aliases: ["chasing pleasure is avoidance", "if you have to chase it it's not safe", "chasing the pleasure pushes it away", "pleasure chased is pleasure not safe", "the chase is the avoidance", "pleasure that has to be chased is unsafe", "real pleasure is always-available pleasure", "if pleasure has to be chased the safety is gone", "the chase signals the anxiety", "any hunger in the pleasure-getting is a tell", "chasing it is the easiest way to lose it", "the reaching is the avoidance", "if you reach for pleasure you push it away", "the hunger in pleasure-getting is the tell", "safety comes from this-is-the-way-it-is not from getting", "pleasure can't be a state you reach", "anxiety in the chase prevents pleasure", "the once-I-do-this-then-I'll-get pattern", "the reaching pattern as anti-pleasure", "the safety dimension of pleasure"]
 tags: ["principle", "pleasure", "chasing", "avoidance", "safety", "nervous system", "anti-pattern"]
 related: ["pleasure-capacity", "fear-of-joy", "joy-as-natural-state", "opposite-of-trying", "enjoyment-as-path", "state-seeking", "chasing-pleasure-is-avoidance-of-pleasure", "joe-thich-nhat-hanh-dishes", "dont-make-pleasure-a-morality", "what-we-fear-we-invite"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Chasing Pleasure Is Itself the Avoidance of Pleasure
@@ -99,3 +99,4 @@ Direct. Joe is not warning against pleasure-chasing as morally wrong. He is nami
 ## Sources
 
 - 2024-09-27_Pleasure (the principle articulated as "if there's any kind of hunger in getting the pleasure, then that usually is a clear sign that it's become either avoidant or you're pushing the pleasure away"; the safety mechanism "this is the way it is creates the safety, not once I do this then I'll get"; the heroin/X-Y-Z argument that pleasure-as-condition is structurally unsustainable; the push-away variant as the conservative half of the same mechanism)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the chasing-pleasure-is-avoidance principle is recounted identically)

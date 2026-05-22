@@ -2,10 +2,10 @@
 type: move
 id: frame-it-as-an-experiment
 title: "Frame It As an Experiment (For the Skeptic)"
-aliases: ["the experiment frame", "make it experimental", "framing as experiment", "the 3 week experiment", "let's just do the experiment", "the test it for three weeks move", "the experimental framing move", "the time-bounded experiment", "introduce it as an experiment", "if it doesn't work we'll stop", "the intellectual buy-in move", "skepticism after not before", "skepticism contaminates the experiment", "the experiment requires bracketing skepticism"]
+aliases: ["the experiment frame", "make it experimental", "framing as experiment", "the 3 week experiment", "let's just do the experiment", "the test it for three weeks move", "the experimental framing move", "the time-bounded experiment", "introduce it as an experiment", "if it doesn't work we'll stop", "the intellectual buy-in move", "skepticism after not before", "skepticism contaminates the experiment", "the experiment requires bracketing skepticism", "the experiment as identity protection", "the experiment separates identity from behavior change", "use the experiment frame to avoid identity threat"]
 tags: ["move", "leadership", "introducing-practices", "skeptics", "intellectual-resistance", "buy-in", "experiment"]
-related: ["gratitude-rounds-before-meetings", "team-as-scientific-method", "dont-half-ass-the-experiment", "love-relationship-with-anxiety", "dont-improve-for-two-weeks", "sincerity-is-the-prerequisite", "the-clients-wisdom-not-the-teachers", "dont-dismiss-exercise-before-doing-it"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_The Power Of Gratitude In A Team"]
+related: ["gratitude-rounds-before-meetings", "team-as-scientific-method", "dont-half-ass-the-experiment", "love-relationship-with-anxiety", "dont-improve-for-two-weeks", "sincerity-is-the-prerequisite", "the-clients-wisdom-not-the-teachers", "dont-dismiss-exercise-before-doing-it", "iterative-mindset", "dont-take-my-word-for-it", "first-experiments-should-contradict-assumptions", "stay-in-the-experiment-through-the-tension", "when-experiments-become-management", "one-experiment-at-a-time"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_The Power Of Gratitude In A Team", "2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life"]
 ---
 
 # Frame It As an Experiment (For the Skeptic)
@@ -88,6 +88,24 @@ The pattern of how Joe describes running it:
 
 The third move (calling out half-assing) is what protects the experiment from being a false negative.
 
+## The Identity-Separation Effect
+
+The experiment frame has a second function beyond skeptic-management: it separates the change from the person's identity. The person who thinks "I am the person who talks too much" finds it almost impossible to change because their identity is at stake. The experiment is structurally identity-free. "I am just going to learn some shit" is not an identity statement; it has no claim about who the person is.
+
+"Experiments separate your identity when -- if I think I'm the person who talks too much, it's very hard to become the person who doesn't talk too much because my identity's at stake. But an experiment isn't, doesn't have anything to do with your identity. I'm just going to learn some shit, right? And so I'm just doing some experiments to learn some shit and then I change because I've learned." -- Joe Hudson, How Experiments Will Change Your Life
+
+This is a second route by which the experiment frame produces change. The first (skeptic management) gets the door open. The second (identity protection) lets the change actually happen once inside. The change comes from learning, and the learning happens because the experiment did not threaten the identity.
+
+The implication for coaches: when a person is stuck in a behavior they identify with ("I'm just always like this"), suggesting they "change" the behavior often triggers the identity defense. Suggesting they "run an experiment" for a defined period of time often does not. The experiment is small enough not to threaten the identity. The change that results from the experiment then alters the identity downstream, gently, rather than head-on.
+
+## Calibrating the Time Bound to the Person
+
+The 3-week recommendation works for many practices, but the right time bound depends on the experiment. A week is often enough for many personal experiments. Some experiments produce their main learning within two days. Some need a month. The principle is not "always 3 weeks." It is "a specific, named, time-bounded period long enough for the practice to do its work but short enough to commit to."
+
+"I typically will do something for at least a week because that will teach me a lot. Sometimes I don't need to, I'll say I'll do it for a week, but after 2 days it's so fricking obvious. And then I'll just go to the next experiment that I put on top of it." -- Joe Hudson, How Experiments Will Change Your Life
+
+The time bound can also be shorter than initially planned. If the learning lands quickly, the experiment is complete and the next experiment can begin building on it. The honoring is of the structure, not the calendar number.
+
 ## When This Move Is Used
 
 - Introducing gratitude practice to a skeptical team
@@ -130,3 +148,5 @@ Calm, intellectual, almost clinical. The move is delivered with the energy of a 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
 - 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)
 - 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)
+- 2024-10-11_How Experiments Will Change Your Life (the identity-separation effect of the experiment frame; the principle that the change comes from learning rather than from willpower; the calibration of the time bound -- typically a week but sometimes shorter if the learning lands quickly)
+- 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation; reinforces the identity-separation framing of why experiments succeed where willpower-based change fails)

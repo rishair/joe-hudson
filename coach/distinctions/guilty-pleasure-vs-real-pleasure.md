@@ -5,7 +5,7 @@ title: "Guilty Pleasure vs. Real Pleasure (Shame-Laced vs. Body-Aliveness)"
 aliases: ["guilty pleasure vs real pleasure", "guilty pleasure vs the pleasure of aliveness", "the shame-laced pleasure", "the I-bought-something teehee", "guilty pleasure has shame next to it", "the eating something that makes you feel like shit pleasure", "the cut-off-gut pleasure", "real pleasure undoes guilty pleasure", "the Lamborghini vs the breath", "guilty pleasure has the shame baked in", "the teehee look-what-I-bought pleasure", "shame next to pleasure", "the pleasure that costs the body later", "transactional pleasure vs aliveness pleasure", "the guilty pleasure becomes optional when real pleasure is available"]
 tags: ["distinction", "pleasure", "guilty pleasure", "shame", "aliveness", "body", "transaction"]
 related: ["chasing-pleasure-is-avoidance", "pleasure-capacity", "pleasure-is-letting-life-fully-hit-you", "joy-as-natural-state", "addiction-to-shame", "shame-drives-behavior", "wisdom-vs-self-improvement"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Guilty Pleasure vs. Real Pleasure
@@ -91,3 +91,4 @@ The distinction is not "no pleasure has a cost ever." Some pleasures involve rea
 ## Sources
 
 - 2024-09-27_Pleasure (the relative-with-the-teehee example as the canonical illustration; the cut-off-gut as the structural prerequisite for guilty pleasure; the eating-something-you-shouldn't-eat analogy for the body paying the cost later; the Lamborghini-vs-breathing-deeply structural comparison; the explanation that real pleasure development makes guilty pleasures lose their grip; the framing that shame gets recruited because deep pleasure dissolves the self and scares people)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the teehee/Lamborghini/cut-off-gut teaching appears verbatim)

@@ -2,10 +2,10 @@
 type: principle
 id: dont-take-my-word-for-it
 title: "Don't Take Anyone's Word for It (Including Joe's) — Run the Experiment"
-aliases: ["don't take anyone's word for it", "don't take my word for it", "design your own experiment", "fuck that run an experiment", "run an experiment instead of believing", "experiment instead of agreeing", "experiment instead of dismissing", "the experiment alternative to belief", "active relationship with the teaching", "don't digest what others tell you is true", "find out what's true for you", "the experiment is more important than the agreement", "the right way to relate to teachings", "run it for two weeks and see"]
+aliases: ["don't take anyone's word for it", "don't take my word for it", "design your own experiment", "fuck that run an experiment", "run an experiment instead of believing", "experiment instead of agreeing", "experiment instead of dismissing", "the experiment alternative to belief", "active relationship with the teaching", "don't digest what others tell you is true", "find out what's true for you", "the experiment is more important than the agreement", "the right way to relate to teachings", "run it for two weeks and see", "trace your thought back to its origin", "Papaji trace your thought", "the Papaji experiment", "Joe's first experiment", "the origin of experiments practice"]
 tags: ["principle", "experimentation", "epistemology", "self-development", "authenticity", "wisdom", "learning"]
-related: ["the-clients-wisdom-not-the-teachers", "frame-it-as-an-experiment", "dont-half-ass-the-experiment", "dont-improve-for-two-weeks", "improvement-vs-authenticity", "punishing-the-remembering", "nature-improves-itself", "wrestle-with-your-principles", "love-relationship-with-anxiety", "experimenting-with-the-voice"]
-sources: ["2024-02-19_3 Mindsets That Transform Self-Development"]
+related: ["the-clients-wisdom-not-the-teachers", "frame-it-as-an-experiment", "dont-half-ass-the-experiment", "dont-improve-for-two-weeks", "improvement-vs-authenticity", "punishing-the-remembering", "nature-improves-itself", "wrestle-with-your-principles", "love-relationship-with-anxiety", "experimenting-with-the-voice", "authority-issues", "joe-and-adyashanti-rebellion", "iterative-mindset", "migratory-path", "evolution-of-the-experimenter", "first-experiments-should-contradict-assumptions"]
+sources: ["2024-02-19_3 Mindsets That Transform Self-Development", "2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life"]
 ---
 
 # Don't Take Anyone's Word for It — Run the Experiment
@@ -81,6 +81,32 @@ The experiment principle is one of the [[improvement-vs-authenticity]] supports.
 
 The structural parallel: every time you accept a teaching without testing it, you have outsourced your sense of what is true to the teacher. Every time you test a teaching, you reclaim the sense of what is true as a thing you arrive at through your own contact with reality. The reclaimed version is sturdier under pressure and more specific to your actual life.
 
+## How the Practice Started for Joe (Authority Issues as the Opening)
+
+Joe's own commitment to the experiment-instead-of-belief stance has a specific origin. He had what he describes as "really bad authority issues" -- his father was an authority not to be trusted, and that pattern was projected onto every authority figure. The result: no teacher could do right by him. He would read a teacher's work and find reasons to dismiss them. He nearly missed Adyashanti by dismissing him for having his face on a book (see [[joe-and-adyashanti-rebellion]]).
+
+The opening came when he heard enough teachers say the same thing: don't trust me, test it for yourself. Adyashanti was one of them. The instruction met the authority-issue at exactly its sticking point. Joe could not trust the teachers, but he could trust the instruction to not trust them.
+
+"Eventually I heard enough teachers say, don't trust me, uh, try it out for yourself, test it. And in fact, Adyashanti, the guy who, who who was a huge influence on me that I got over the picture clearly, uh, would, was one of those people who would say that. And so I did, and I took their advice. I, I said, okay, that's, that's something I can do. You want to put the power in my hands, that's where I can trust it. And so I started testing everything that I read." -- Joe Hudson, How Experiments Will Change Your Life
+
+The first specific experiment Joe remembers running came from a stray instruction in a book by Papaji that he encountered in a hotel: "trace your thought back to its origin." Joe was inspired to try it. The experience surprised him -- "what the fuck was that?" -- and the surprise produced the next experiment: what if I trace as many thoughts as I can for an hour? The cascade of experiments began from that single inspired-to-try moment.
+
+"He said, trace your thought back to its origin. I did it. I just was inspired to do exactly that. And I somatically traced the thought back to where it came from. I was like, what the fuck was that?... And so the next experiment that I ran, particularly with that one, when I had that discovery was, what if I start tracing as many thoughts as I can for an hour back to their source? What happens then?" -- Joe Hudson, How Experiments Will Change Your Life
+
+What this origin story reveals about the principle: the experiment-instead-of-belief stance is structurally compatible with both deep skepticism (you don't have to trust the teacher) and deep openness (you can still get the teaching). The two seemingly-opposite stances coexist because the trust is not in the teacher; the trust is in the testing.
+
+The implication for coaching: a coachee with authority issues -- and many of the most coachable people have them -- can often be met through this exact opening. They cannot trust the teacher. They can run an experiment. The experiment is the bridge from rebellion to learning.
+
+See [[authority-issues]] for the broader pattern. See [[evolution-of-the-experimenter]] for the developmental arc that begins with the rebellious experiment-running and matures over decades.
+
+## What the Experimentation Was Initially Versus What It Became
+
+The early experiments were Joe's tool for not being controlled by authority. As the practice matured, the function changed. The same activity (designing and running experiments) became, over time, a way to internalize his own knowing and eventually a way to surrender into what wanted to be learned next.
+
+"I'm on Twitter and I'll say something on Twitter and I'll see somebody intellectually debate it. And so often what I want to do is just say, hey, like, don't debate it. Just try it out. If it works, great. If it doesn't work, don't. Like, just let it go. But you'll see this kind of intellectual thought process. And in the intellectual thought process, maybe semantics are disagreed on, or maybe there's an idea of something, but you haven't actually embodied it. It's not somatic. You don't understand it. You don't grok it." -- Joe Hudson, How Experiments Will Change Your Life
+
+The instruction "don't take my word for it" is offered in the same spirit Adyashanti offered it to Joe. The teacher who is comfortable being doubted is the teacher whose teachings can actually be tested. The teacher who needs to be agreed with is the teacher whose teachings cannot be tested cleanly because the agreement is contaminating the experiment.
+
 ## Tone
 
 Joe delivers this with a kind of irreverence. "Fuck that, run an experiment." The irreverence is structural — it is the same irreverence he is asking the listener to bring to all teachings, including his own. The tone makes it clear that the teaching does not deserve special protection. He would rather you test it than agree with it.
@@ -117,3 +143,5 @@ The irreverence is not dismissive. It is the right level of seriousness. Serious
 ## Sources
 
 - 2024-02-19_3 Mindsets That Transform Self-Development (the explicit articulation: "instead of going, oh, that's right, and I'm gonna be grateful, fuck that, run an experiment"; the three reasons — active relationship, the teaching may not be right for you, your version may be different; the symmetric application to teachings that resonate and teachings that trigger; "looking for someone else to tell you your truth is never going to work as effectively as running experiments")
+- 2024-10-11_How Experiments Will Change Your Life (the origin story of Joe's experimentation practice from his authority issues; the Adyashanti-and-other-teachers permission to test rather than believe; the Papaji "trace your thought to its origin" as the first specific experiment; the framing that the intellectual debate on Twitter is what experiments are designed to replace; the embodiment-not-debate framing of why testing matters)
+- 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation; same origin story and same Papaji trace-your-thought retelling)

@@ -6083,15 +6083,110 @@
     },
     {
       "folder": "2024-10-11_How Experiments Will Change Your Life",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T22:23:19Z",
+      "articles_created": [
+        "migratory-path",
+        "mit-media-lab-principle",
+        "experiments-must-stay-in-window-of-tolerance",
+        "when-experiments-become-management",
+        "stay-in-the-experiment-through-the-tension",
+        "everything-is-already-an-experiment",
+        "evolution-of-the-experimenter",
+        "one-experiment-at-a-time",
+        "first-experiments-should-contradict-assumptions"
+      ],
+      "articles_updated": [
+        "iterative-mindset",
+        "dont-take-my-word-for-it",
+        "joes-stinky-house-experiment",
+        "joe-and-adyashanti-rebellion",
+        "wonder-vs-curiosity",
+        "frame-it-as-an-experiment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T22:39:34Z"
+    },
+    {
+      "folder": "2024-10-16_Pleasure",
+      "status": "complete",
+      "claimed_at": "2026-05-22T22:38:44Z",
+      "articles_created": [
+        "pleasure-in-the-expression-prevents-attack"
+      ],
+      "articles_updated": [
+        "pleasure-amplifies-vs-detracts-from-emotion",
+        "dont-make-pleasure-a-morality",
+        "joy-as-natural-state",
+        "guilty-pleasure-vs-real-pleasure",
+        "joe-thich-nhat-hanh-dishes",
+        "tara-bacon-wrapped-dates",
+        "the-fired-product-head-now-150k-a-week",
+        "fully-feel-the-forbidden-arousal",
+        "pleasure-capacity",
+        "enjoy-your-breath-for-five-minutes",
+        "fear-of-joy",
+        "chasing-pleasure-is-avoidance",
+        "each-emotion-has-its-own-positive-flavor",
+        "pleasure-is-letting-life-fully-hit-you",
+        "punishment-when-good-stings-more"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T22:48:37Z"
+    },
+    {
+      "folder": "2024-10-18_Why You Should Run Experiments In Life",
+      "status": "complete",
+      "claimed_at": "2026-05-22T22:40:19Z",
+      "articles_created": [],
+      "articles_updated": [
+        "iterative-mindset",
+        "migratory-path",
+        "when-experiments-become-management",
+        "frame-it-as-an-experiment",
+        "wonder-vs-curiosity",
+        "joe-and-adyashanti-rebellion",
+        "joes-stinky-house-experiment",
+        "evolution-of-the-experimenter",
+        "dont-take-my-word-for-it",
+        "everything-is-already-an-experiment",
+        "experiments-must-stay-in-window-of-tolerance",
+        "mit-media-lab-principle",
+        "one-experiment-at-a-time",
+        "first-experiments-should-contradict-assumptions",
+        "stay-in-the-experiment-through-the-tension"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T22:46:13Z"
+    },
+    {
+      "folder": "2024-10-22_How Connection Helps You Succeed In Business",
+      "status": "complete",
+      "claimed_at": "2026-05-22T22:47:15Z",
+      "articles_created": [
+        "disconnection-precedes-decline",
+        "if-you-have-to-convince-them-they-dont-want-it",
+        "serial-ceo-builds-products-through-customer-connection",
+        "self-connection-catches-meeting-friction"
+      ],
+      "articles_updated": [
+        "connection-as-life-bottom-line",
+        "vulnerability-in-the-workplace"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T22:56:37Z"
+    },
+    {
+      "folder": "2024-10-25_How To Fight And Win",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T22:49:21Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-10-16_Pleasure",
+      "folder": "2024-10-25_How To Fight Well",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T22:38:44Z",
+      "claimed_at": "2026-05-22T22:57:14Z",
       "articles_created": [],
       "articles_updated": []
     }

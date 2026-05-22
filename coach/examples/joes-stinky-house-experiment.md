@@ -2,10 +2,10 @@
 type: example
 id: joes-stinky-house-experiment
 title: "Joe's Stinky House Experiment (I'm Not Going to Do Anything I Don't Want to Do)"
-aliases: ["the stinky house story", "I won't do anything I don't want to do experiment", "the trash experiment", "Joe's two-week no-should experiment", "the want to take out the trash discovery", "the how matters more than the what story"]
-tags: ["examples", "wants", "shoulds", "experiments", "personal-practice", "how-vs-what"]
-related: ["wants-over-shoulds", "how-do-you-want-to-be", "enjoy-over-manage", "find-the-want-behind-the-should", "joes-26-year-old-list", "should-vs-want-body-check", "impulse-to-should"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
+aliases: ["the stinky house story", "I won't do anything I don't want to do experiment", "the trash experiment", "Joe's two-week no-should experiment", "the want to take out the trash discovery", "the how matters more than the what story", "the trash-can moment", "what to do at the trash-can moment", "the trash-can-moment story", "the experiment-tension moment story"]
+tags: ["examples", "wants", "shoulds", "experiments", "personal-practice", "how-vs-what", "tension", "discomfort", "embrace-intensity"]
+related: ["wants-over-shoulds", "how-do-you-want-to-be", "enjoy-over-manage", "find-the-want-behind-the-should", "joes-26-year-old-list", "should-vs-want-body-check", "impulse-to-should", "stay-in-the-experiment-through-the-tension", "embrace-intensity", "iterative-mindset", "embracing-vs-creating-intensity"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2024-09-12_How To Enjoy Your Work (And Get More Done!)", "2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life"]
 ---
 
 # Joe's Stinky House Experiment
@@ -44,6 +44,21 @@ The structural sequence the story names:
 5. The action, now fueled by want, becomes enjoyable.
 
 This is the canonical micro-arc of [[find-the-want-behind-the-should]] told with a single chore. The instruction "find the want underneath" is abstract; this story is what it looks like when the body actually does it.
+
+## The Tension Moment as a Teaching About Experiments
+
+There is a second layer to this story, useful for an entirely different teaching. The moment at the trash can -- "what am I going to do?" -- is the canonical image of the tension that arrives inside a well-designed experiment. The experiment had pushed Joe up against the limit of his pattern. The body was registering the contradiction. The instinct was to abandon the experiment (just take out the trash, the whole thing is silly anyway). The discipline was to stay.
+
+"That's a very tense moment. I know it seems weird, but it's like, no, I guaranteed I wasn't going to do anything I don't want to do. And I don't want to smell this. And I'm not gonna just cheat on my experiment and like, okay, fine, fuck it, and go to the, God, that sucked. But okay, at least the trash is out. Like, what do I do?... And so the, the experiments will push you up against that limit. And so when you feel that tension, that's when you don't give up on your experiment." -- Joe Hudson, How Experiments Will Change Your Life
+
+What made the trash-can moment teach what it taught: Joe did not abandon the experiment when the tension arrived. He stayed in it. The staying was what produced the discovery. If he had cheated on the experiment at the moment of tension, he would have left with a story about how the experiment didn't work and a slightly cleaner kitchen. The principle that emerged -- finding the want underneath the should -- arrived because he stayed long enough for the want to surface.
+
+This is the canonical example for [[stay-in-the-experiment-through-the-tension]]. The trash-can moment doubles as the worked image for that principle. The same story carries two distinct teachings:
+
+1. The want-discovery teaching: when you remove the should, the want underneath becomes available. (The principle that grounds [[wants-over-shoulds]].)
+2. The tension-discipline teaching: when an experiment pushes you up against your limit, that is when you stay, not when you bail. (The principle that grounds [[stay-in-the-experiment-through-the-tension]].)
+
+The two teachings are connected. The want only becomes available if you stay through the tension. Bailing at the tension means missing the want. The discipline (stay) is what makes the discovery (want) accessible.
 
 ## What This Story Establishes
 
@@ -93,3 +108,5 @@ See also [[ill-become-lazy-without-shoulds]] for the concern this story addresse
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode) (the original telling, with the "house started to stink" framing and the generalization "how I approach things was far more important than if I approached them")
 - 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)
 - 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the canonical trash-can-moment retelling, with Joe staring at the trash can and the "I want this trash gone" formulation; the explicit naming of the move from "I have to take out the trash" to "I want to take out the trash"; the use of this story to anchor the first of the three ways to enjoy your work — stop acting from obligation)
+- 2024-10-11_How Experiments Will Change Your Life (the trash-can story re-used to teach the tension-discipline of experiments; the principle that this tense moment is when you stay in the experiment rather than abandon it; the framing of the experiment pushing you up against the limit as where the learning lives)
+- 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation; same trash-can retelling in service of the tension-discipline teaching)

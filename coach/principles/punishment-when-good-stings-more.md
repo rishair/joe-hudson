@@ -5,7 +5,7 @@ title: "Punishment When the Kid Feels Good Stings More Than Punishment When the 
 aliases: ["punishment when good stings more", "getting punished while feeling good is harder", "the punishment-while-happy sting", "but I was being good and I got punished", "being punished while doing the right thing", "the what-the-fuck sting of punishment-while-good", "loss-of-pleasure is harder than additional pain", "the body remembers being punished while happy", "the childhood-punishment-while-good origin", "punishment-while-happy as the origin of pleasure-fear", "the asymmetry of punishment", "the taking-away-of-good-stings-more principle", "kids punished while good become afraid of pleasure", "the I-was-being-good-and-got-hit pattern", "being good and getting punished as the pleasure-fear origin", "the more-stinging form of punishment is the unexpected one"]
 tags: ["principle", "pleasure", "punishment", "childhood", "shame", "fear-of-joy", "origin"]
 related: ["fear-of-joy", "pleasure-capacity", "childhood-imprinting", "shame-drives-behavior", "pour-the-love-at-the-threat", "guilty-pleasure-vs-real-pleasure", "joy-as-matriarch", "loss-aversion-emotional"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Punishment When the Kid Feels Good Stings More Than Punishment When the Kid Feels Bad
@@ -87,3 +87,4 @@ The principle applies most cleanly when the childhood punishment was relatively 
 ## Sources
 
 - 2024-09-27_Pleasure (the principle articulated as "punishment when feeling good stings more than punishment when feeling bad"; the "but I was being good and got punished" memory pattern; the loss-aversion parallel; the discovery that pleasure-being-always-available eventually heals the fear because the pleasure-source cannot be permanently disrupted)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the punishment-when-good-stings-more principle is recounted identically)

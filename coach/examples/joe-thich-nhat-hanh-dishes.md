@@ -4,7 +4,7 @@ id: joe-thich-nhat-hanh-dishes
 title: "Joe and the Thich Nhat Hanh Dishes (Origin of the Pleasure Work)"
 aliases: ["the Thich Nhat Hanh dishes story", "Joe and the dishes", "doing the dishes pleasure story", "the origin of Joe's pleasure work", "how Joe discovered pleasure", "Joe reading Thich Nhat Hanh", "the dishes as pleasure story", "the chore that became pleasure", "the soapy water moment", "the I-can-have-this-all-the-time story", "the dishes are pleasurable story", "Joe's first experiment with pleasure", "the experiment that started the pleasure practice", "Joe discovering pleasure in any moment", "the warm soapy water teaching", "the pleasure-is-available-now origin", "the wait-I-forgot-about-this moment", "Joe forgetting pleasure a month later", "the once-you-know-it's-an-avoidance story"]
 tags: ["pleasure", "example", "origin story", "Joe's story", "practice", "Thich Nhat Hanh", "dishes", "discovery"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Joe and the Thich Nhat Hanh Dishes
@@ -74,3 +74,4 @@ Light, casual. The story is told without ceremony. The "wait, what the fuck just
 ## Sources
 
 - 2024-09-27_Pleasure (the full origin story: reading Thich Nhat Hanh on doing the dishes, trying it, discovering the pleasure was available the whole time, the experiment to extract pleasure from any moment, the discovery that the expected form of chasing — sex, peak experiences — was not what arrived, the forgetting a month later, the realization that not-feeling-pleasure is an active avoidance once pleasure is known to be available)
+- 2024-10-16_Pleasure (re-edited version of the same origin story; the dishes-and-soapy-water moment is recounted identically)

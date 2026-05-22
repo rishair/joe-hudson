@@ -5,7 +5,7 @@ title: "Pleasure Capacity"
 aliases: ["capacity for pleasure", "pleasure ceiling", "nervous system ceiling for enjoyment", "too much pleasure", "enjoyment overwhelm"]
 tags: ["nervous system", "enjoyment", "safety", "childhood", "capacity"]
 related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance", "fear-of-joy", "joy-as-matriarch", "cafe-emotional-stigma", "measuring-transformation-across-three-brains", "head-heart-gut", "polyvagal-nervous-system-framing"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Pleasure Capacity
@@ -143,3 +143,4 @@ The story is the origin point for the broader framing: pleasure-capacity is trai
 - 2024-03-15_Joy (the five-minute breath diagnostic for measuring current pleasure capacity; the prediction that the system will reach for a problem when joy approaches; the diagnostic surfacing the apparatus that caps pleasure invisibly during ordinary life)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical five-minute breath diagnostic and prediction that the system will reach for a problem when joy approaches)
 - 2024-09-27_Pleasure (the developmental mechanism of punishment-while-feeling-good as the origin of low pleasure ceilings, sourced from [[punishment-when-good-stings-more]]; the chase-pleasure failure mode in which hunger-in-the-pleasure-getting prevents the capacity from stretching, sourced from [[chasing-pleasure-is-avoidance]]; the personal origin story of Joe and Thich Nhat Hanh's dishes as the discovery point for the pleasure-capacity teaching, sourced from [[joe-thich-nhat-hanh-dishes]]; the framing that the pleasure-source cannot be permanently disrupted because it is in the breath and body, which is part of how the capacity stretches over time as the body accumulates new evidence)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the capacity teaching is recounted identically)

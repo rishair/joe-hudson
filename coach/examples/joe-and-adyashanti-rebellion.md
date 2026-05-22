@@ -2,10 +2,10 @@
 type: example
 id: joe-and-adyashanti-rebellion
 title: "Joe and Adyashanti (The 'You Need Your Face on a Book' Thought)"
-aliases: ["Joe and Adyashanti", "the Adyashanti rebellion thought", "you need your face on a book", "Joe almost missed Adyashanti", "Joe's rebellion against the spiritual teacher", "the look-at-you-needing-your-face-on-a-book story", "Joe's near-miss with his teacher", "the rebel-dismisses-the-teacher story", "Joe's authority issues with a teacher who mattered"]
+aliases: ["Joe and Adyashanti", "the Adyashanti rebellion thought", "you need your face on a book", "Joe almost missed Adyashanti", "Joe's rebellion against the spiritual teacher", "the look-at-you-needing-your-face-on-a-book story", "Joe's near-miss with his teacher", "the rebel-dismisses-the-teacher story", "Joe's authority issues with a teacher who mattered", "Adyashanti's test-it-yourself instruction", "the teacher who told Joe to test it"]
 tags: ["authority", "rebellion", "Adyashanti", "teachers", "spiritual teacher", "mentorship", "Joe's story", "example", "near-miss"]
-related: ["authority-issues", "the-four-authority-positions", "i-freeze-around-authority", "rebellion-or-submission-to-should", "case-the-consultant", "joes-bathroom-realization", "teacher-as-mirror", "community-over-teacher"]
-sources: ["2024-09-13_Authority Issues"]
+related: ["authority-issues", "the-four-authority-positions", "i-freeze-around-authority", "rebellion-or-submission-to-should", "case-the-consultant", "joes-bathroom-realization", "teacher-as-mirror", "community-over-teacher", "dont-take-my-word-for-it", "iterative-mindset", "evolution-of-the-experimenter"]
+sources: ["2024-09-13_Authority Issues", "2024-10-11_How Experiments Will Change Your Life", "2024-10-18_Why You Should Run Experiments In Life"]
 ---
 
 # Joe and Adyashanti
@@ -47,6 +47,20 @@ The thought "you need your face on a book" worked as a disqualifier because it f
 The structural feature: the rebel position generates thoughts that look like assessments but function as defenses. The thoughts are not lies; they may even point at something real (Adyashanti did publish books with his picture on them). But the function the thought serves in the rebel's perception is to keep the authority safely dismissed.
 
 The work for the rebel is to learn to recognize the dismissal-thoughts as such. Not to override them — that produces submission, not empowerment. To notice them: "I am about to dismiss this person. What is the dismissal protecting me from?" The longing or the hurt that surfaces is usually the actual material.
+
+## The Adyashanti Move That Worked: Test It Yourself
+
+There is a related side of this story that explains how Adyashanti and other teachers eventually got through to the young Joe despite the authority pattern. The instruction many of them gave was: don't trust me, test it for yourself.
+
+That instruction was structurally compatible with the rebellion. Joe could not trust the teacher, but he could agree to test it. The instruction met the authority issue at exactly its sticking point. The teacher who insisted on being believed could not be received. The teacher who insisted on being doubted could be received -- because the doubting was permitted.
+
+"Eventually I heard enough teachers say, don't trust me, uh, try it out for yourself, test it. And in fact, Adyashanti, the guy who, who who was a huge influence on me that I got over the picture clearly, uh, would, was one of those people who would say that. And so I did, and I took their advice. I, I said, okay, that's, that's something I can do. You want to put the power in my hands, that's where I can trust it. And so I started testing everything that I read." -- Joe Hudson, How Experiments Will Change Your Life
+
+This is the origin of Joe's experimentation practice and the principle [[dont-take-my-word-for-it]]. The Adyashanti opening was the beginning of an experimental orientation that became one of Joe's central operating modes. The rebellion got Joe to the experiments. The experiments got Joe to everything that followed.
+
+The pedagogical implication: a teacher working with a rebellious student should not try to be trusted. The instruction is the opposite. Tell them to doubt you and to test it. The trust will not come through being convinced; it will come through their own testing producing results they can verify themselves.
+
+See [[evolution-of-the-experimenter]] for the broader developmental arc -- Joe's rebellion was Stage 1 of an experimentation practice that matured over decades into surrender.
 
 ## What Made the Relationship Possible Anyway
 
@@ -91,3 +105,5 @@ Joe tells this story with humor and a touch of self-mockery. The "look, look at 
 ## Sources
 
 - 2024-09-13_Authority Issues (the Adyashanti dismissal thought as a concrete instance of Joe's rebel-position pattern; the longing-or-hurt underneath the rebellion explicitly named; the recognition that the rebellion was about to cost a relationship that became one of the most important in Joe's life)
+- 2024-10-11_How Experiments Will Change Your Life (the Adyashanti instruction "test it for yourself" as one of the openings that worked with the young Joe; the structural compatibility of this instruction with the rebellion; the origin of Joe's experimentation practice from this opening)
+- 2024-10-18_Why You Should Run Experiments In Life (re-cut/re-release of the same conversation; same telling of the Adyashanti opening via the test-it-for-yourself instruction)

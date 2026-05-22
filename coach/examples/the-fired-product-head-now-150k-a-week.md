@@ -4,7 +4,7 @@ id: the-fired-product-head-now-150k-a-week
 title: "The Fired Head of Product Now Making $150K a Week (Shame as the Block to Feeling How Good Life Is)"
 aliases: ["the fired head of product", "the $150k a week app story", "the shame-blocking-aliveness story", "the why-aren't-you-stoked-you-got-fired story", "the rapid coaching shame story", "the I-let-the-job-slide story", "the woman-and-the-job story", "the getting-fired-was-the-best-thing story", "the head of product app story", "the shame on the wonderful outcome", "the why-are-you-beating-yourself-up-for-the-best-thing story", "Joe's rapid coaching example pleasure episode", "the shame as the apparatus that hides the goodness story", "the year-long-program rapid-coaching example", "the shame is doing exactly what it's designed to do story", "the everyone-does-this realization", "shame as the prevention of feeling alive", "what shame is structurally for"]
 tags: ["example", "shame", "pleasure", "aliveness", "rapid coaching", "year-long program", "fired", "best thing that happened", "what shame is for"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # The Fired Head of Product Now Making $150K a Week
@@ -88,3 +88,4 @@ Joe tells this story with energy and a small profanity ("why are you not fucking
 ## Sources
 
 - 2024-09-27_Pleasure (the full story of the rapid-coaching call in the year-long program; the man who got fired and now runs an app making $150K/week; Joe's "why are you not fucking stoked you got fired" intervention; the man's laughter as the release; Joe's universal generalization that this is with everybody, that everyone beats themselves up for the thing that produced their current good life; the structural framing of shame as the apparatus designed to stop the feeling of aliveness)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the rapid-coaching story is recounted identically)

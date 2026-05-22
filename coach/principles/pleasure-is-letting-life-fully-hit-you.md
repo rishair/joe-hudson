@@ -5,7 +5,7 @@ title: "Pleasure Is Letting Life Fully Hit You"
 aliases: ["pleasure is letting life fully hit you", "letting life hit you fully", "real pleasure is non-management of impact", "non-managing the sensations is pleasure", "the controlling-the-hit prevents the pleasure", "pleasure means the food fully hits you", "out-of-control is the operating description of pleasure", "the pleasure of being hit by life", "letting it fully land is pleasure", "real pleasure is uncontrolled impact", "pleasure as not-managing-the-hit", "the food hitting you definition of pleasure", "pleasure as alive feeling", "the very alive feeling of pleasure", "loss of control as the operating description of pleasure", "pleasure as being affected", "pleasure is being affectable"]
 tags: ["principle", "pleasure", "control", "non-management", "aliveness", "impact"]
 related: ["pleasure-capacity", "guilty-pleasure-vs-real-pleasure", "joy-as-natural-state", "enjoy-over-manage", "embrace-vs-brace", "fear-of-joy", "each-emotion-has-its-own-positive-flavor", "chasing-pleasure-is-avoidance", "tara-bacon-wrapped-dates"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Pleasure Is Letting Life Fully Hit You
@@ -104,3 +104,4 @@ Direct, slightly playful. Joe presents this as "an interesting way to think abou
 ## Sources
 
 - 2024-09-27_Pleasure (the principle articulated as "pleasure is letting life fully hit you"; the contrast with controlling-the-hit; the somatic dissolution of the self-boundary as the impact deepens; the falling-that-never-ends becoming flying or being-held; the connection to the cultural discomfort with people in full pleasure)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the letting-life-fully-hit-you principle is recounted identically; the related principle that being-in-your-body during expression means not-managing-the-result and therefore less likely to be attacked, sourced from [[pleasure-in-the-expression-prevents-attack]])

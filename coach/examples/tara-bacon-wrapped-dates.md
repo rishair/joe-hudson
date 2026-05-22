@@ -4,7 +4,7 @@ id: tara-bacon-wrapped-dates
 title: "Tara, the Bacon-Wrapped Dates, and the New Boyfriend ('Now I Know Why I Can't Embarrass You')"
 aliases: ["Tara bacon-wrapped dates", "the bacon-wrapped goat cheese dates story", "the new boyfriend story", "now I know why I can't embarrass you", "the fancy restaurant pleasure story", "Tara and the dates at the restaurant", "Esme's boyfriend at the restaurant", "the noise-while-eating story", "the public pleasure embarrassment story", "Tara eating in public", "the dates story Tara", "Esme can't be embarrassed", "the kid who can't be embarrassed by her mom", "the why-Esme-can't-be-embarrassed moment", "the goat cheese dates dinner", "the boyfriend who realized why Esme can't be embarrassed", "Joe's family at the fancy restaurant", "the family modeling public pleasure", "the parent who eats with full pleasure", "the visible pleasure of eating story"]
 tags: ["example", "pleasure", "Tara", "Esme", "family", "public pleasure", "embarrassment", "social discomfort", "modeling"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Tara and the Bacon-Wrapped Dates
@@ -73,3 +73,4 @@ The story is told with affection and a small punchline. Joe is amused by Tara, n
 ## Sources
 
 - 2024-09-27_Pleasure (the full story of the fancy restaurant first-meeting with Esme's new boyfriend; the bacon-wrapped goat cheese dates that nobody else liked; Tara's noise-while-eating; the boyfriend's "now I know why I can't embarrass you" line; Joe's framing of why this matters for understanding the cultural cap on public pleasure and the inter-generational transmission of pleasure-capacity)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the story is told identically)

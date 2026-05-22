@@ -5,7 +5,7 @@ title: "Don't Make Pleasure a Morality (The Have-to-Feel-Pleasure Trap)"
 aliases: ["don't make pleasure a morality", "I have to feel pleasure trap", "pleasure as a should", "the pleasure-supposed-to trap", "pleasure as the new rule", "the pleasure-morality trap", "if pleasure becomes a have-to it stops working", "pleasure has to be a get-to not a have-to", "the extreme view of pleasure-everywhere", "I have to find pleasure in everything", "making pleasure a discipline", "pleasure as obligation kills pleasure", "the pleasure-supposed-to-be-felt-all-the-time mistake", "even nuclear bombs have to have pleasure mistake", "treating pleasure as morality chases the pleasure away", "the get-to vs have-to distinction for pleasure", "pleasure as receiving not producing"]
 tags: ["anti-pattern", "pleasure", "morality", "should", "obligation", "shoulds"]
 related: ["chasing-pleasure-is-avoidance", "pleasure-capacity", "joy-as-natural-state", "wants-over-shoulds", "dont-make-listening-a-morality", "enjoyment-as-path", "opposite-of-trying", "find-the-want-behind-the-should"]
-sources: ["2024-09-27_Pleasure"]
+sources: ["2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Don't Make Pleasure a Morality
@@ -111,3 +111,4 @@ Joe delivers this warning lightly, almost in passing. The lightness is part of t
 ## Sources
 
 - 2024-09-27_Pleasure (Joe's explicit warning that "I don't want pleasure to become a morality"; the nuclear-bomb extremism example used to head off the universal-coverage misreading; the reframe to get-to / receiving / noticing instead of have-to; the "chase all the pleasure right out" mechanism)
+- 2024-10-16_Pleasure (re-edited version of the same teaching; the same warning against pleasure-as-morality articulated identically)

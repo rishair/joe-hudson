@@ -5,7 +5,7 @@ title: "Joy as the Natural State (Water Under the Boats, Not Another Boat)"
 aliases: ["joy as natural state", "joy is the natural state", "joy as the water not the boat", "water under the boats", "joy is the water underneath", "joy as baseline", "joy requires no effort", "joy is already always there", "joy is the default", "joy as the always-available", "joy as the felt sense of being alive", "joy is aliveness", "joy doesn't have to be earned", "joy as the deep breath", "joy as the awareness of energy moving", "the natural-state framing of joy", "joy is the current with minimal resistance", "joy as electricity in the line"]
 tags: ["joy", "natural state", "concept", "effortlessness", "pleasure", "aliveness"]
 related: ["joy-as-matriarch", "fear-of-joy", "pleasure-capacity", "enjoyment-as-path", "opposite-of-trying", "joy-vs-equanimity", "each-emotion-has-its-own-positive-flavor", "discipline-starts-engine-then-let-gravity", "enjoy-your-breath-for-five-minutes", "i-keep-postponing-enjoyment", "ive-lost-my-joy", "peace-is-what-we-resist-the-most"]
-sources: ["2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
+sources: ["2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Joy as the Natural State
@@ -131,3 +131,4 @@ Direct, almost matter-of-fact. Joe states this as a structural feature of how be
 - 2024-03-15_Joy (the entire framing: joy as water under the boats rather than a boat; joy as energy through the circuit with minimal resistance; the breath as the test case; the daughter's heartbreak quote; the trying-creates-resistance argument; the dictionary-definition experiment that establishes joy as happiness with pleasure)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical framing of joy as water under the boats, current through the circuit with minimal resistance, and the natural state that does not need to be produced)
 - 2024-09-27_Pleasure (the Lowen-credited definition of pleasure as noticing the movement of sensations in the body, applied here as the operating description of how the natural state becomes available; the experimental confirmation through Joe's "doing the dishes" experiment that pleasure is available in any moment via attention to sensation, sourced from [[joe-thich-nhat-hanh-dishes]]; the safety-from-pleasure framing: cultivating pleasure produces a nervous system that feels safer, which in turn lets more of the natural state be felt)
+- 2024-10-16_Pleasure (re-edited version of the September pleasure conversation; same definition and same safety-from-pleasure framing)

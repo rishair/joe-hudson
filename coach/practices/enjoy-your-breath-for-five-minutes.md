@@ -5,7 +5,7 @@ title: "Enjoy Your Breath for Five Minutes (Or Whatever Is Here)"
 aliases: ["enjoy your breath for 5 minutes", "the five-minute breath practice", "enjoy your breath", "the breath enjoyment practice", "five minutes of enjoying breathing", "stretching joy through breath", "the joy-capacity stretch", "enjoy doing the dishes", "enjoy the flower for five minutes", "joy as practice", "noticing the sense of self evaporate", "joy as somatic practice", "Joe's closing practice for joy episode", "the present-moment pleasure practice", "the pleasure-of-aliveness practice", "five minutes of present pleasure", "letting the resistance to joy show up"]
 tags: ["practice", "breath", "joy", "pleasure", "presence", "capacity"]
 related: ["joy-as-natural-state", "pleasure-capacity", "fear-of-joy", "joy-as-matriarch", "enjoyment-as-path", "discipline-starts-engine-then-let-gravity", "breath-as-fertile-soil-vs-breath-as-control", "feeling-the-unfelt-emotion", "embrace-vs-brace", "ive-lost-my-joy"]
-sources: ["2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
+sources: ["2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-27_Pleasure", "2024-10-16_Pleasure"]
 ---
 
 # Enjoy Your Breath for Five Minutes
@@ -114,3 +114,4 @@ The audio is also a useful first introduction for a person who has not yet devel
 - 2024-03-15_Joy (the practice as Joe's closing instruction; the prediction of what comes up in the five minutes; the instruction to feel the edge as well as the pleasure; the somatic evaporation of self as a marker)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical closing practice with the same instructions to enjoy breath or dishes or flower for 5 minutes and feel the resistance at the edge)
 - 2024-09-27_Pleasure (the existence of the guided audio at view.life/experiments specifically for this practice; the structural reason the audio helps — the person tries it on their own, notices it feels good, and within seconds the system shifts to producing more pleasure rather than staying in receive-mode; the audio is designed to hold the container across this shift)
+- 2024-10-16_Pleasure (re-edited version of the same conversation; the audio-at-view.life/experiments reference is recounted identically)
