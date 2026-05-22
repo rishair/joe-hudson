@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:50.225Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83bce59a4a920d43c72d10aaeaa4b6415af0a19125eef0cd4a0e487c40d8e910",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01F8uM34aBpsXUDRA97Ea36j",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "There's a lot in that list. But I notice you didn't say anything about what it's like to be presenting to the senior team for the first time.\n\nWhat's that like?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23185,
+      "cache_creation_input_tokens": 11805,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11805,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23185,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11805
+  }
+}

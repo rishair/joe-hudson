@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:08.866Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dc15a6bc98584347b6fac999dbb56f800f623d11d00ffdea20da9f22f62132fe",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EvFxzqNs2X8aKVyWNeTTg7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(very still for a moment)*\n\nIt's... exhausting. \n\n*(quieter than before)*\n\nIt's really exhausting.\n\n*(then, almost immediately, the armor comes back up)*\n\nBut I also — look, I've had this exact conversation. With my therapist, more than once. And I leave feeling like I've touched something real, and then two days later the critic is back and it's louder, and I'm back to square one. So I don't know what touching it actually accomplishes. \n\n*(slight frustration)*\n\nI feel like I keep having the same breakthrough over and over and nothing changes. Which the critic then has a field day with, obviously. \"You can't even do therapy right.\" So now I'm criticizing myself for not being able to stop criticizing myself, which is — *(gestures broadly)* — very efficient, at least."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 329,
+      "cache_creation_input_tokens": 400,
+      "cache_read_input_tokens": 1875,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 400,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 194,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 329,
+    "output_tokens": 194,
+    "cache_read_input_tokens": 1875,
+    "cache_creation_input_tokens": 400
+  }
+}

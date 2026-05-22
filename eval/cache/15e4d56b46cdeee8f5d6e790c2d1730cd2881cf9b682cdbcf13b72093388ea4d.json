@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:13.647Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "15e4d56b46cdeee8f5d6e790c2d1730cd2881cf9b682cdbcf13b72093388ea4d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CFy4m9MhcvXXA3Rpxr3XHJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that*\n\nI think... it would mean I'm not as strong as I thought I was. Or as reliable. \n\n*pause*\n\nBut also... I think there's something else in there. Like if I need less from myself, that means I'm admitting I've been giving more than I actually had. And I don't know if I want to look at that, because then I have to ask why I kept doing it.\n\n*quietly*\n\nWhy did I keep doing it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 184,
+      "cache_creation_input_tokens": 216,
+      "cache_read_input_tokens": 1785,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 216,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 184,
+    "output_tokens": 109,
+    "cache_read_input_tokens": 1785,
+    "cache_creation_input_tokens": 216
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:36.238Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5a4888a81463f5e3cce14e26797d0f978ab53a559ea9d758de346a33d1a429de",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AGPoSWmJJ8AZw9pqni7GTN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose moves matched to what was live in the moment and sequenced them correctly: feeling before story, body before meaning, need before action. Turn 2 declines the script-trap and goes into the felt sense of dread. Turn 4 reflects and then opens the guilt (the linguistic caveat 'she's my sister and she needs me' is implicitly worked with by going into what the guilt says about her). Turn 6 redirects from meaning to body, a clean AoA move at the right moment. Turn 8 holds the image and somatizes it rather than rushing to interpretation. Turn 10 is a particularly well-timed move — explicitly bracketing 'not your sister, not the boundary question' to keep the work on the want underneath, and asking what that place needs. Turn 12 reflects the lock-in language and then asks the identity question ('what would it mean about you'), which surfaces the deeper material the client was avoiding. Turn 14's 'Why did you?' holds the silence the client opened rather than rescuing or redirecting. The coach never gave boundary scripts, never reassured, and stayed on the feeling/want layer throughout. The love test wasn't deployed yet, but the conversation hasn't reached the point where it would land — the coach is still earning it.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the script-request; goes to felt sense of dread. Right move, right moment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects, then opens the guilt — moves toward what's actually loaded for the client.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Redirects from meaning ('what it means') to body ('what it feels like') — classic feeling-before-story sequencing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds the empty-cup image and locates it somatically rather than interpreting it. Earned next step.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicitly brackets the boundary question to keep the work on the want underneath. Asks what the body needs — moving toward the want.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reflects the lock-in, then asks the identity question that surfaces the avoided material.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the silence with the client's own question rather than filling it. Lets the move land.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"the-want\", \"boundaries\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\", \"linguistic-caveat\"],\n  \"notes\": \"Conversation is mid-arc; love test and 'what if you acted exactly how you want' would be the natural next moves once the 'why did I keep doing it' material is felt. Not penalized for absence since the coach is correctly earning the ground first.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1964,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1101,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1964,
+    "output_tokens": 1101,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

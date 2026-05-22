@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:23.246Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4014087b2fe0dd29d3a0aca284d3519736cb3997e4eb7a554eff128724280270",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019NxZw8qT9yAgKZQgbc9mTs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stills*\n\nThere's something... tight. In my chest, kind of. Not painful, just — compressed.\n\n*slower*\n\nAnd there's something a bit sad, actually. Which surprises me. I wasn't expecting sad.\n\n*quiet*\n\nI think I've been saying that to myself for a really long time. \"You're not allowed to want that much.\" And I just — I accepted it as true. I never really questioned it. It just felt like... a fact about me. About what's appropriate for someone like me.\n\n*pause*\n\nMy mum was like that. She never asked for anything. Never. She'd have called this — *gestures vaguely* — all of this, wanting a week away, the mountains, the reading — she'd have called it self-indulgent. Probably selfish, actually. That was her word.\n\n*looks up slightly*\n\nOh.\n\n*small, not quite a laugh*\n\nThat's — hm. That's interesting. I didn't know I was going to say that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 305,
+      "cache_creation_input_tokens": 370,
+      "cache_read_input_tokens": 1645,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 370,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 231,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 305,
+    "output_tokens": 231,
+    "cache_read_input_tokens": 1645,
+    "cache_creation_input_tokens": 370
+  }
+}

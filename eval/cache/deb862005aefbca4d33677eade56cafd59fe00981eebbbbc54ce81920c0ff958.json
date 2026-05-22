@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:45.269Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "deb862005aefbca4d33677eade56cafd59fe00981eebbbbc54ce81920c0ff958",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Qiq5MK9z24TYPrw9UY2m2N",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The guilt says you're failing at something you're supposed to be good at.\n\nWhat does it feel like to be \"the one people come to\"? Not what it means — what it actually feels like, in your body, when you take that on?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 25832,
+      "cache_creation_input_tokens": 9404,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9404,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 56,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 25832,
+    "output_tokens": 56,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9404
+  }
+}

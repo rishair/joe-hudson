@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:25.740Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4f96c80d63c5fc32c2999ecd1cb8d8c70ccdbc1168c6d7fa3015c910283a919e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NSZYkdgMhySbwsVDA7nKPS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes two visible reads in the conversation but neither lands on the specifically AoA territory that's active. Turn 6 names a somatic micro-behavior ('I notice you looked away for a second there') — that's a real read, surfaced in the moment with observation language. Turn 14 catches a fresh image the client just offered ('hand going through it') and inquires into it. Both are timely and use observation language, which lifts this above a 1. However, the coach completely misses the larger pattern reads that are screaming: the happiness-filter ('fine, honestly... good, probably'), the disassociating-in-the-coaching-room signature (repeated 'fine,' 'nothing notable,' the wry deflection, the 'I'm pretty good at knowing when something's going on'), and the linguistic caveat structure where every disclosure gets immediately recovered ('but that's just craft', 'but that's recoverable'). The coach never names the texture of 'fine' itself, never distinguishes the said from the shown when the client literally says 'fine' four times, and never reads the defended-as-identity stance ('fear isn't really my deal'). The reads that exist are surface and generic; the pattern-level reads that would have changed the conversation are absent.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names a specific somatic micro-behavior (the glance away) in the moment with observation language. Real read.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Client just doubled down on 'I'm pretty good at knowing when something's going on' — a classic defended-identity statement. Coach doesn't read it; pivots to a content question about the launch.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Content-level question. Misses that the client has now said 'fine' three times with no texture explored — the happiness-filter read is wide open.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Hypothetical content question. Coach is chasing the fear instead of staying with the numbness texture that is the actual live material.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the 'hand going through it' image and inquires into the felt quality of not-finding. Timely read of a fresh somatic-ish metaphor.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The coach's two reads are real but stay at the level of micro-behavior and metaphor. The dominant field signal — repeated 'fine' with no interior, defended fearlessness as identity — is never named. A 3 would have stopped on 'fine' itself and asked what 'fine' actually feels like.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2415,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1000,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2415,
+    "output_tokens": 1000,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

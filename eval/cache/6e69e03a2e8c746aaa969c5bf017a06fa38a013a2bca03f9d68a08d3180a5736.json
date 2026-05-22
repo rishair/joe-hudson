@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:37.431Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6e69e03a2e8c746aaa969c5bf017a06fa38a013a2bca03f9d68a08d3180a5736",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012NrepaTMvzt6ZBi3ub8eNq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The guilt bothers you more than the dread.\n\nWhat does the guilt say about you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12759,
+      "cache_creation_input_tokens": 9404,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9404,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12759,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9404
+  }
+}

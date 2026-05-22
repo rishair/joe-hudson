@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:37.586Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "085d04bcd022205ceb9414ca9a181921ec8d96f0df2ec68ebf3068c2e183eb26",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GppxunVyvPWR5sco8ayA2v",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a second*\n\nIt's... warm. Like, there's this thing that happens in my chest when I think about the cabin specifically. The way the light comes through in the morning. I'd have my coffee and just — sit. Nobody needing anything.\n\n*voice tightens slightly*\n\nBut then I immediately go to — my partner's going to think I don't want to be with them. Like, why would someone who was happy at home want to disappear for a week? And I'm... I'm a little worried that question has an answer I don't want to look at."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 252,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1586,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 130,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 252,
+    "output_tokens": 130,
+    "cache_read_input_tokens": 1586,
+    "cache_creation_input_tokens": 0
+  }
+}

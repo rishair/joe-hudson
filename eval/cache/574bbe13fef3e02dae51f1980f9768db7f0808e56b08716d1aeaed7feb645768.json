@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:55.780Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "574bbe13fef3e02dae51f1980f9768db7f0808e56b08716d1aeaed7feb645768",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VBCA1CwEfcKsDejPMsdvRK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "In my body? I mean I'm just -- I'm a little tense, I guess. My shoulders are up. But that's just because I've been at my desk all day, it's not -- \n\nI mean, it's not that bad. Lots of people deal with this. New leadership role, two kids, it's just a busy season. I just need to get through this month and then things will settle down. They always settle down."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 197,
+      "cache_creation_input_tokens": 259,
+      "cache_read_input_tokens": 1903,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 259,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 99,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 99,
+    "cache_read_input_tokens": 1903,
+    "cache_creation_input_tokens": 259
+  }
+}

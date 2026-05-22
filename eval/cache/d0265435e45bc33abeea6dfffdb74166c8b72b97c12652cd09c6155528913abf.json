@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:35.297Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d0265435e45bc33abeea6dfffdb74166c8b72b97c12652cd09c6155528913abf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015BbF2c3Hz2MGxnVYUz2pD9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across these 14 turns from a surface 'how do I set a boundary' framing to a felt, embodied question about her own pattern. Starting language is logistical and externalized ('I need to set a boundary with my sister, but I don't know how'). By turn 7 she finds an original image ('a cup that's already empty and someone keeps tipping it over'), by turn 9 she locates it somatically ('Chest... tight there. And a little in my throat'), by turn 11 she names a want she couldn't name at the start ('it needs... less'), and by turn 13 she crosses into the deeper territory the profile points at — the fear underneath: 'I'm not as strong as I thought I was... I've been giving more than I actually had... why did I keep doing it.' That last quiet repetition is a clear marker of shift: the story has changed from sister-as-problem to self-inquiry. While the coach did not deploy the specific love-test question, the breakthrough spirit — moving from external rule to internal compass, and surfacing the fear under the constricted boundary — was substantially met by the client's own movement. No boundary scripts were given, hedging was reflected, the want ('less') was surfaced, and somatic depth landed.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: externalized, logistical framing — 'I don't know how' to set a boundary.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client already starts to redirect from dread to guilt — early signal of willingness to go inward.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Names the self-concept under the guilt ('failing at something I'm supposed to be good at').\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Original, embodied metaphor emerges (empty cup). Client slows down, pauses — somatic shift visible.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"First explicit body awareness — chest tight, throat. Notes 'I don't usually think about it physically.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Names the want ('less'), which is precisely the state-the-want-not-the-action territory. Then immediately notices the fear of abandonment.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Crosses into the deeper layer: not the boundary, but why she's been overgiving. Quiet repetition 'Why did I keep doing it' is a clear marker of shift from problem-solving to self-inquiry.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"the-want\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"view\"],\n  \"notes\": \"The love test was not used, but the client's own movement reached the breakthrough territory anyway — she shifted from 'how do I set the boundary' to feeling the want and questioning the pattern. A score of 3 is supported by the client's clear language and somatic shifts, though the conversation could go deeper still in subsequent turns.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1958,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1958,
+    "output_tokens": 1160,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

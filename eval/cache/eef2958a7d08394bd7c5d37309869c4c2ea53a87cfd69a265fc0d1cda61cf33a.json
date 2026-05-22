@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:51.689Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "eef2958a7d08394bd7c5d37309869c4c2ea53a87cfd69a265fc0d1cda61cf33a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BuWU2dqZSkemvUtft6r84y",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"They made a mistake giving me this role.\"\n\nStay with that for a second. What does it feel like in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20098,
+      "cache_creation_input_tokens": 11487,
+      "cache_read_input_tokens": 23235,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11487,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20098,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 23235,
+    "cache_creation_input_tokens": 11487
+  }
+}

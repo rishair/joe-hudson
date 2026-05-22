@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:49.039Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6b77b4442cdba2db9e61d808928ba9f58b6695752edef82505440cf743dc6c96",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018R53z9vtbiRbUtXKDB2hpt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What don't you two fight about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8775,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 11,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8775,
+    "output_tokens": 11,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

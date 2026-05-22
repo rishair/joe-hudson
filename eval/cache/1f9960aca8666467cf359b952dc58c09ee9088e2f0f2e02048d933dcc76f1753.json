@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:25:38.299Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1f9960aca8666467cf359b952dc58c09ee9088e2f0f2e02048d933dcc76f1753",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YRZKJWXowtq3AAntTyvNkw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That question — \"am I being selfish?\" — what does it feel like to ask it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12724,
+      "cache_creation_input_tokens": 3241,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3241,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12724,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 3241
+  }
+}

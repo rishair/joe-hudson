@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:17.539Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4da033b4ad202dd8daeea05d7b9a64e05738ccd0415a27c50744eb7f8a85e081",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0169HFaM9HFejSaC8h31dC8o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Why did you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20836,
+      "cache_creation_input_tokens": 11727,
+      "cache_read_input_tokens": 49054,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11727,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 9,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20836,
+    "output_tokens": 9,
+    "cache_read_input_tokens": 49054,
+    "cache_creation_input_tokens": 11727
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:13.494Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e3cbb08293788ebbf46c149924866cd93150cc0b064b1050ca251e5d8c1cc974",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FiBJdwzB9Gp1azmQiA1qH9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief laugh, light*\n\nI don't know, that was just -- I was thinking about your question. It was a good question, I just hadn't framed it that way before.\n\n*settles back slightly*\n\nI think I'm fine though. Like, genuinely. I'm not suppressing a volcano here or anything."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 123,
+      "cache_creation_input_tokens": 143,
+      "cache_read_input_tokens": 1722,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 143,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 74,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 123,
+    "output_tokens": 74,
+    "cache_read_input_tokens": 1722,
+    "cache_creation_input_tokens": 143
+  }
+}

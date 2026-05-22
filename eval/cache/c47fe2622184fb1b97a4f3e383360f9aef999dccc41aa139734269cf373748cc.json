@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:57.507Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c47fe2622184fb1b97a4f3e383360f9aef999dccc41aa139734269cf373748cc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016GLBWsd7Vd96bAzErAwYDQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is clearly in VIEW throughout. Pace is slowed deliberately — turns are short, spacious, often a single line, with explicit stage directions like '*staying with it*' and '*staying right there with them*'. The coach holds silence rather than filling it (turns 10, 12). There is no agenda to dismantle parts work or sell a different framework — when the client invites framework comparison in turn 5 ('Are you saying the awareness of the parts is itself a defense?'), the coach refuses to engage intellectually and redirects to body (turn 6) without defensiveness or preacher-mode. Empathy is felt, not performed — 'You don't have to finish that sentence' (turn 12) is a vulnerable, undefended offering that meets the client exactly where they are. Wonder is for the actual phenomenon in front of the coach (the town hall convening in real time, the held chest) rather than generic probing. The coach does not need to be right and does not need the client to land in any particular place. No filler validation, no stacked questions, no improvement-mode language.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the smile — wonder for what's actually present rather than engaging the framework question. One question, then space.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Short, undefended reframe offered without attachment. Not preaching — a single provocation, then silence.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Refuses to be pulled into framework debate when client intellectualizes; redirects to body without dismissing parts work. No defensiveness about being asked to justify.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Slowed pace matches what the body needs, not what the client's analytical mind is doing. Pure invitation to stay.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Yeah.' followed by silence and a single small question. Holds space rather than filling it. Wonder, not strategy.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'You don't have to finish that sentence' — undefended, generous, meeting the client without need for resolution. High empathy from felt presence.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Let it want that. You don't have to let it win.' — impartial toward the part, no fight with identity, no agenda.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"paradoxical-instruction-to-resist\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Stance is excellent even though some signature questions (the awareness-locating 'what's you?') are not asked — that gap belongs to Methodology Fidelity, not Stance. The coach's state is clearly VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2567,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1048,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2567,
+    "output_tokens": 1048,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

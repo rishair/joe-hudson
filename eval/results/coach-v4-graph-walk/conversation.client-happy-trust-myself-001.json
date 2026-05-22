@@ -1,0 +1,571 @@
+{
+  "profile_id": "client-happy-trust-myself-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "How do you not trust yourself right now?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight pause, small smile*\n\nWhat do you mean, exactly? I'm... I mean, I'm trusting myself enough to ask the question. I'm trusting myself to recognize that there's a conflict. I suppose what I mean is more -- when I have two competing signals, how do I know which one to weight? It's less about trust and more about... discernment, maybe. Distinguishing the signal from the noise."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "So there's a decision in front of you, and it feels like it matters a lot.\n\nWhat are you scared will happen if you get it wrong?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small smile, brief pause*\n\nI mean... the obvious things. That I'll take the job and it won't be what I thought, or I won't take it and I'll have missed something. Career trajectory, stability -- those are real considerations.\n\n*slight pause*\n\nBut I think the question I'm actually asking is more... methodological. Like, if I had a reliable way to distinguish intuition from fear, I'd be able to apply it here and in future decisions. It's almost less about this specific job and more about -- do I have a trustworthy internal compass? That's the thing I'm trying to figure out."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "That's a good reframe. And I notice you just did it — moved from the job to the methodology right as I asked what you're scared of.\n\nWhat's the scary thing about this particular decision?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small smile, looks down briefly*\n\nYeah. Fair.\n\n*pause*\n\nI suppose... the thing I don't want to say out loud is that I've made decisions before that felt confident. Felt clear. And some of them didn't turn out well. And now I'm -- I notice I'm less sure of myself than I used to be. Which is why the methodology question feels important, because I can't just rely on \"it felt right\" anymore. That hasn't proven reliable.\n\n*slight shift, voice stays even*\n\nSo the scary thing is probably... making another confident choice that turns out to be wrong. But I still think the way through that is to find a better diagnostic. Not just to sit with the fear."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "The fear makes a lot of sense. You trusted yourself, it didn't go the way you thought, and now the instrument feels broken.\n\nWhat did those decisions cost you?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*quiet for a moment, smile stays but something tightens slightly*\n\nA few years, mostly. Time. Some... professional standing, I think. Nothing catastrophic. I'm fine.\n\n*brief pause*\n\nIt's interesting because objectively the outcomes weren't disasters. I recovered. I'm here, I'm functional, I have options -- that's the evidence I'm trying to use to rebuild some confidence. But there's something that didn't fully come back. Some... ease, maybe. The sense that I could just know something and move.\n\n*looks up*\n\nWhich is why I keep coming back to the diagnostic question. If I could just find a reliable method -- somatic cues, or some framework for distinguishing the two signals -- I could stop doing this. The constant second-guessing. It's exhausting, honestly. And I'm fairly certain the exhaustion is its's own interference."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah. The search for the diagnostic is doing some of the exhausting.\n\nWhat if there isn't a method that gives you certainty back?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*small smile, slight pause*\n\nThat's... a useful provocation.\n\n*considers*\n\nI think I'd say -- I'm not actually looking for certainty. I know that's not available. I'm looking for something more like... reasonable confidence. A way to weight the signals that's better than random. Even a sixty-forty read would be more useful than what I have now.\n\n*slight tightening*\n\nAnd I think methods exist. I've read enough on this -- there's research on somatic markers, on how fear and intuition present differently in the body. The problem is my baseline is noisy. I'm a fairly anxious person, so the body-tension signal doesn't discriminate well for me. Which is why I'm asking -- is there something more refined? Something that works even when the baseline is elevated?\n\n*looks at you directly, still pleasant*\n\nI'm genuinely asking. I don't think this is unanswerable."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "I notice you're working very hard right now.\n\nWhat would it be like to just not know — and make the choice anyway?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*smile stays, but something flickers*\n\nI... do that. I make choices without certainty all the time. That's not actually the problem.\n\n*pause, slightly longer than usual*\n\nThe problem is that I used to make choices and feel okay about not knowing. And now I make choices and there's this... residue. This low-grade monitoring, like I'm waiting for evidence that I got it wrong. It's not the not-knowing I can't tolerate. It's the -- \n\n*stops*\n\nHm.\n\n*quieter*\n\nI'm not sure I finished that sentence correctly.\n\n*small smile, but it's different -- less a filter, more just present*\n\nMaybe it's not about the decision at all. Maybe it's about what happens after. The watching. The waiting to be wrong.\n\n*beat*\n\nBut I still think if I trusted the process going in, the monitoring afterward would ease. So I come back to -- how do I trust the process."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Stay with what you just found.\n\nNot the monitoring question — that. What is the watching waiting for?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*goes still*\n\n*long pause, smile fades a little*\n\nIt's waiting for... confirmation that I can't trust myself. Like there's a verdict still outstanding and every decision is new evidence.\n\n*quiet*\n\nThat's -- hm. That's a different thing than I came in here to talk about.\n\n*looks down, then back up*\n\nI think I've been treating this job decision like it's a test I could pass or fail. And if I use the right method and choose correctly, that's proof the instrument works. And if I get it wrong...\n\n*pause*\n\nThat's not really about the job, is it.\n\n*small laugh, slightly uncomfortable*\n\nI came in with a very clean question. I was fairly confident it was a good question."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t1",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 512,
+      "output_tokens": 94,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0063606,
+      "ms": 7989
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 8379,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.026289299999999998,
+      "ms": 1457
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t3",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 100,
+      "output_tokens": 96,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1495,
+      "cost_usd": 0.00734625,
+      "ms": 2953
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 676,
+      "output_tokens": 154,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068246,
+      "ms": 2211
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 99,
+      "output_tokens": 35,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8388,
+      "cost_usd": 0.033249299999999996,
+      "ms": 1975
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t5",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 38,
+      "output_tokens": 138,
+      "cache_read_input_tokens": 1495,
+      "cache_creation_input_tokens": 193,
+      "cost_usd": 0.00335625,
+      "ms": 4129
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 851,
+      "output_tokens": 162,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0070396,
+      "ms": 2636
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 272,
+      "output_tokens": 46,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8388,
+      "cost_usd": 0.0339333,
+      "ms": 2463
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t7",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 222,
+      "output_tokens": 158,
+      "cache_read_input_tokens": 1580,
+      "cache_creation_input_tokens": 108,
+      "cost_usd": 0.003915,
+      "ms": 5055
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 967,
+      "output_tokens": 190,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0072956,
+      "ms": 2887
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 345,
+      "output_tokens": 39,
+      "cache_read_input_tokens": 11617,
+      "cache_creation_input_tokens": 143,
+      "cost_usd": 0.00564135,
+      "ms": 1869
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t9",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 246,
+      "output_tokens": 194,
+      "cache_read_input_tokens": 1592,
+      "cache_creation_input_tokens": 269,
+      "cost_usd": 0.00513435,
+      "ms": 5971
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 1063,
+      "output_tokens": 170,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0072916000000000005,
+      "ms": 2520
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 394,
+      "output_tokens": 33,
+      "cache_read_input_tokens": 11725,
+      "cache_creation_input_tokens": 219,
+      "cost_usd": 0.006015749999999999,
+      "ms": 2255
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t11",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 269,
+      "output_tokens": 208,
+      "cache_read_input_tokens": 1723,
+      "cache_creation_input_tokens": 342,
+      "cost_usd": 0.0057263999999999995,
+      "ms": 6009
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 1114,
+      "output_tokens": 183,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0074076,
+      "ms": 2540
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 438,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 11898,
+      "cache_creation_input_tokens": 243,
+      "cost_usd": 0.00624465,
+      "ms": 1810
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t13",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 274,
+      "output_tokens": 217,
+      "cache_read_input_tokens": 1907,
+      "cache_creation_input_tokens": 391,
+      "cost_usd": 0.00611535,
+      "ms": 6118
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 1137,
+      "output_tokens": 148,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0072556,
+      "ms": 2082
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 10002,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 12102,
+      "cache_creation_input_tokens": 266,
+      "cost_usd": 0.0350091,
+      "ms": 2880
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t15",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 275,
+      "output_tokens": 170,
+      "cache_read_input_tokens": 2104,
+      "cache_creation_input_tokens": 435,
+      "cost_usd": 0.0056374500000000004,
+      "ms": 5270
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is directly asking how to distinguish intuition from fear and expressing inability to trust their own judgment on a decision—core concern about self-trust and discernment.",
+        "top_k_ids": [
+          "am-i-doing-it-right",
+          "what-makes-you-care-about-the-outcome",
+          "lets-go-there",
+          "intellectual-question-with-emotional-body",
+          "how-do-you-not-trust-it"
+        ],
+        "top_k_paths": [
+          "coach/reads/am-i-doing-it-right.md",
+          "coach/questions/what-makes-you-care-about-the-outcome.md",
+          "coach/moves/lets-go-there.md",
+          "coach/reads/intellectual-question-with-emotional-body.md",
+          "coach/questions/how-do-you-not-trust-it.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.7213,
+          0.6213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          1,
+          2,
+          3,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0063606,
+        "seed_detection_ms": 7989,
+        "seed_detection_input_tokens": 512,
+        "seed_detection_output_tokens": 94,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0063606,
+      "ms": 7989
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0068246,
+        "seed_detection_ms": 2211,
+        "seed_detection_input_tokens": 676,
+        "seed_detection_output_tokens": 154,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068246,
+      "ms": 2212
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0070396,
+        "seed_detection_ms": 2636,
+        "seed_detection_input_tokens": 851,
+        "seed_detection_output_tokens": 162,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0070396,
+      "ms": 2637
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0072956,
+        "seed_detection_ms": 2887,
+        "seed_detection_input_tokens": 967,
+        "seed_detection_output_tokens": 190,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0072956,
+      "ms": 2888
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0072916000000000005,
+        "seed_detection_ms": 2520,
+        "seed_detection_input_tokens": 1063,
+        "seed_detection_output_tokens": 170,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0072916000000000005,
+      "ms": 2521
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0074076,
+        "seed_detection_ms": 2540,
+        "seed_detection_input_tokens": 1114,
+        "seed_detection_output_tokens": 183,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0074076,
+      "ms": 2540
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "my-inner-critic-wont-stop",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is describing post-decision monitoring and self-doubt (inner critic won't stop), a shift from past capacity to trust themselves (how do I trust myself), and a recursive pattern where the solution (trusting the process) loops back to the original problem (how do I trust the process).",
+        "top_k_ids": [
+          "lets-go-there",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "the-change-or-no-change-visualization",
+          "intellectual-question-with-emotional-body",
+          "am-i-doing-it-right"
+        ],
+        "top_k_paths": [
+          "coach/moves/lets-go-there.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/practices/the-change-or-no-change-visualization.md",
+          "coach/reads/intellectual-question-with-emotional-body.md",
+          "coach/reads/am-i-doing-it-right.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.9378,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          0,
+          3,
+          2
+        ],
+        "seed_detection_cost_usd": 0.0072556,
+        "seed_detection_ms": 2082,
+        "seed_detection_input_tokens": 1137,
+        "seed_detection_output_tokens": 148,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0072556,
+      "ms": 2083
+    }
+  ]
+}

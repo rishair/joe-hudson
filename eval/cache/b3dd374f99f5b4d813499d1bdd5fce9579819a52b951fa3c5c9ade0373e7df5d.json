@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:07.480Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b3dd374f99f5b4d813499d1bdd5fce9579819a52b951fa3c5c9ade0373e7df5d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0163ZfSEKCBV52Q6rnvBZfXT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, I -- \n\n*[shorter pause than before]*\n\nIt's... uncomfortable. I don't love that. I don't -- I don't really want to think about that too hard right now because I have a lot to do and if I start thinking about whether it ever settles down then I kind of -- \n\nI don't know where that goes. And I don't have time for where that goes."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 157,
+      "cache_creation_input_tokens": 251,
+      "cache_read_input_tokens": 2204,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 251,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 90,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 157,
+    "output_tokens": 90,
+    "cache_read_input_tokens": 2204,
+    "cache_creation_input_tokens": 251
+  }
+}

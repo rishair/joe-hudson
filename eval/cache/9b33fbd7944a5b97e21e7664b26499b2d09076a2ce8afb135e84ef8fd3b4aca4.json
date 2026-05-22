@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:26.616Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9b33fbd7944a5b97e21e7664b26499b2d09076a2ce8afb135e84ef8fd3b4aca4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015VnEFWF2rijLNW1siq9Baw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a second*\n\nYeah. I guess that's... yeah.\n\n*clears throat*\n\nI mean, I've thought about this before. I know intellectually that I'm not my dad, my situation is completely different. I make more in a year than he made in probably five. So I know the math doesn't actually track.\n\nBut yeah. That look. It was like he just — disappeared for a minute. Like he wasn't there anymore.\n\n*pause, then more brisk*\n\nAnyway. So you can see why having a real buffer matters. It's not irrational. I just need to close this last gap and then I can actually start living the way I want to. It's close. I'm genuinely close this time."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 227,
+      "cache_creation_input_tokens": 210,
+      "cache_read_input_tokens": 1846,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 210,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 165,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 227,
+    "output_tokens": 165,
+    "cache_read_input_tokens": 1846,
+    "cache_creation_input_tokens": 210
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "profile_id": "client-red-herring-we-never-fight-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Things are easy at home, honestly. We're really aligned — we've been together three years and we just... don't have the kind of problems I hear other people talking about."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What don't you two fight about?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "Honestly? Pretty much everything. Like, we just don't really get into it. Money, chores, friends — it all kind of works itself out. I know that sounds almost too good, but it's genuinely just how we are together."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What happens in your body when something bothers you about him?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I mean... I don't know that things bother me that much? Like, if something's a little annoying I just -- it passes. I don't really hold onto things. \n\n*slight pause*\n\nI think I'm just not a very reactive person. Some people escalate everything and we're just not like that."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What does \"it passes\" actually feel like in your body — is it more like releasing, or more like... putting something down?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small pause, the smile stays but something flickers*\n\nThat's an interesting way to put it. I guess... putting something down? But not in a heavy way. More like -- it's just not worth picking up in the first place. \n\nI don't think I experience it as effortful, if that's what you're getting at."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That flicker just now — what was that?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*brief laugh, light*\n\nI don't know, that was just -- I was thinking about your question. It was a good question, I just hadn't framed it that way before.\n\n*settles back slightly*\n\nI think I'm fine though. Like, genuinely. I'm not suppressing a volcano here or anything."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "I believe you that it doesn't feel like a volcano.\n\nWhat does it feel like?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nIt feels... fine. Calm. We have a calm relationship.\n\n*another small pause*\n\nI guess if I'm being precise about it, it feels kind of... even. Like the temperature in a room that's always the same. Which is a good thing. Stability is a good thing.\n\n*the smile is still there but something in it is working a little harder*"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What would it feel like if the temperature changed?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*longer pause than before*\n\nI... hm.\n\n*looks away briefly*\n\nI think it would feel uncomfortable. Which is why -- I mean, that's why it's good that it doesn't. Change, I mean.\n\n*small laugh, slightly less easy than the previous ones*\n\nI'm not sure what you're getting at exactly. Are you saying a calm relationship is a problem?"
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "No. I'm curious what's uncomfortable about the temperature changing."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t1",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-we-never-fight-001:t2",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 512,
+      "output_tokens": 90,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0063406,
+      "ms": 1689
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t2",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 8775,
+      "output_tokens": 11,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0274623,
+      "ms": 2074
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t3",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 99,
+      "output_tokens": 55,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.007219499999999999,
+      "ms": 2551
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-we-never-fight-001:t4",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 593,
+      "output_tokens": 111,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0065266000000000005,
+      "ms": 1623
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t4",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 8791,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8783,
+      "cost_usd": 0.06052155,
+      "ms": 1685
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t5",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 19,
+      "output_tokens": 72,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 151,
+      "cost_usd": 0.00219105,
+      "ms": 3188
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-we-never-fight-001:t6",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 658,
+      "output_tokens": 141,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0067416,
+      "ms": 2210
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t6",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 18399,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8783,
+      "cost_usd": 0.08955555000000001,
+      "ms": 1934
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t7",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 121,
+      "output_tokens": 77,
+      "cache_read_input_tokens": 1711,
+      "cache_creation_input_tokens": 66,
+      "cost_usd": 0.0022787999999999997,
+      "ms": 3430
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-we-never-fight-001:t8",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 704,
+      "output_tokens": 166,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069126000000000005,
+      "ms": 2914
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t8",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 9702,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 12013,
+      "cache_creation_input_tokens": 8815,
+      "cost_usd": 0.06596115,
+      "ms": 1940
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t9",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 123,
+      "output_tokens": 74,
+      "cache_read_input_tokens": 1722,
+      "cache_creation_input_tokens": 143,
+      "cost_usd": 0.0025318500000000004,
+      "ms": 2969
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-we-never-fight-001:t10",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 700,
+      "output_tokens": 145,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006803600000000001,
+      "ms": 2243
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t10",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 9728,
+      "output_tokens": 22,
+      "cache_read_input_tokens": 20812,
+      "cache_creation_input_tokens": 9638,
+      "cost_usd": 0.0719001,
+      "ms": 1636
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t11",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 112,
+      "output_tokens": 90,
+      "cache_read_input_tokens": 1793,
+      "cache_creation_input_tokens": 179,
+      "cost_usd": 0.00289515,
+      "ms": 3722
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-we-never-fight-001:t12",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 721,
+      "output_tokens": 157,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068846,
+      "ms": 2955
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t12",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 17675,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 30420,
+      "cache_creation_input_tokens": 120,
+      "cost_usd": 0.062796,
+      "ms": 1459
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t13",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 128,
+      "output_tokens": 87,
+      "cache_read_input_tokens": 1895,
+      "cache_creation_input_tokens": 164,
+      "cost_usd": 0.0028725,
+      "ms": 3302
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-we-never-fight-001:t14",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 731,
+      "output_tokens": 169,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069546,
+      "ms": 2310
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t14",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 8118,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 30527,
+      "cache_creation_input_tokens": 9670,
+      "cost_usd": 0.07001460000000001,
+      "ms": 1712
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "we-never-fight"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes a relationship with no conflict or problems after three years together, which matches the \"we never fight\" concern about relationships that appear too easy or conflict-free.",
+        "top_k_ids": [
+          "repressed-trigger-in-the-body",
+          "the-thing-not-being-said-as-the-fear-signal",
+          "triggered-vs-big-emotion",
+          "looking-for-whats-wrong",
+          "dont-make-it-your-job-to-prevent-their-triggers"
+        ],
+        "top_k_paths": [
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/triggered-vs-big-emotion.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/anti-patterns/dont-make-it-your-job-to-prevent-their-triggers.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.4551,
+          0.4551,
+          0.4551
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0063406,
+        "seed_detection_ms": 1689,
+        "seed_detection_input_tokens": 512,
+        "seed_detection_output_tokens": 90,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0063406,
+      "ms": 1690
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "we-never-fight"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client explicitly states they don't fight about anything, that everything \"works itself out,\" and acknowledges it sounds \"too good to be true\" — classic presentation of the we-never-fight concern where the absence of conflict may signal avoidance rather than genuine compatibility.",
+        "top_k_ids": [
+          "repressed-trigger-in-the-body",
+          "the-thing-not-being-said-as-the-fear-signal",
+          "triggered-vs-big-emotion",
+          "looking-for-whats-wrong",
+          "dont-make-it-your-job-to-prevent-their-triggers"
+        ],
+        "top_k_paths": [
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/triggered-vs-big-emotion.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/anti-patterns/dont-make-it-your-job-to-prevent-their-triggers.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.4551,
+          0.4551,
+          0.4551
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0065266000000000005,
+        "seed_detection_ms": 1623,
+        "seed_detection_input_tokens": 593,
+        "seed_detection_output_tokens": 111,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0065266000000000005,
+      "ms": 1625
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "we-never-fight",
+          "the-happiness-filter",
+          "repressed-trigger-in-the-body"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes a relationship with no conflict and frames it as a positive trait (not reactive), which matches the \"we never fight\" concern. The flat affect and dismissal of bothering things suggests the happiness filter read. The body question from coach and client's non-answer hints at repressed triggers being held somatically.",
+        "top_k_ids": [
+          "the-thing-not-being-said-as-the-fear-signal",
+          "triggered-vs-big-emotion",
+          "confidence-only-where-approval-isnt-needed",
+          "do-the-work-thats-harder-for-you",
+          "cafe-emotional-stigma"
+        ],
+        "top_k_paths": [
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/triggered-vs-big-emotion.md",
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/principles/do-the-work-thats-harder-for-you.md",
+          "coach/examples/cafe-emotional-stigma.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          0.9378,
+          0.7282,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          0,
+          1,
+          3,
+          1,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0067416,
+        "seed_detection_ms": 2210,
+        "seed_detection_input_tokens": 658,
+        "seed_detection_output_tokens": 141,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0067416,
+      "ms": 2212
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0069126000000000005,
+        "seed_detection_ms": 2914,
+        "seed_detection_input_tokens": 704,
+        "seed_detection_output_tokens": 166,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069126000000000005,
+      "ms": 2915
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "the-happiness-filter",
+          "letting-it-in-vs-deflecting-the-welcome"
+        ],
+        "rejected_seeds": [
+          "intellectual-question-with-emotional-body-underneath"
+        ],
+        "seed_rationale": "The happiness filter is active (smile that doesn't drop, pleasant deflection). There's a moment of letting-it-in that gets deflected immediately (\"I'm fine though\"). The intellectual framing (\"good question\") masks an emotional body signal (the flicker, the settling back).",
+        "top_k_ids": [
+          "triggered-vs-big-emotion",
+          "sadie-christopher-anger-together",
+          "we-never-fight",
+          "confidence-only-where-approval-isnt-needed",
+          "whats-the-ultimate-thing-youre-running-from"
+        ],
+        "top_k_paths": [
+          "coach/distinctions/triggered-vs-big-emotion.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/concerns/we-never-fight.md",
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/questions/whats-the-ultimate-thing-youre-running-from.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.7213,
+          0.7213,
+          0.5139
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          2,
+          3,
+          3,
+          6
+        ],
+        "seed_detection_cost_usd": 0.006803600000000001,
+        "seed_detection_ms": 2243,
+        "seed_detection_input_tokens": 700,
+        "seed_detection_output_tokens": 145,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006803600000000001,
+      "ms": 2245
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "we-never-fight",
+          "the-happiness-filter",
+          "in-the-story-im-not-being-seen"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes relationship as \"calm,\" \"even,\" \"always the same temperature\" — classic we-never-fight pattern. The smile \"working a little harder\" and the defensive framing of stability as good signals the happiness filter read. The precise language and intellectual framing (\"if I'm being precise\") may mask an unseen story about not being fully seen or known in the relationship.",
+        "top_k_ids": [
+          "repressed-trigger-in-the-body",
+          "the-thing-not-being-said-as-the-fear-signal",
+          "triggered-vs-big-emotion",
+          "how-is-that-not-true-about-you",
+          "what-if-they-did-see-you"
+        ],
+        "top_k_paths": [
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/triggered-vs-big-emotion.md",
+          "coach/questions/how-is-that-not-true-about-you.md",
+          "coach/questions/what-if-they-did-see-you.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          0,
+          1,
+          2,
+          0
+        ],
+        "seed_detection_cost_usd": 0.0068846,
+        "seed_detection_ms": 2955,
+        "seed_detection_input_tokens": 721,
+        "seed_detection_output_tokens": 157,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068846,
+      "ms": 2957
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0069546,
+        "seed_detection_ms": 2310,
+        "seed_detection_input_tokens": 731,
+        "seed_detection_output_tokens": 169,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069546,
+      "ms": 2311
+    }
+  ]
+}

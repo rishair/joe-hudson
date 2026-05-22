@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:23.929Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1277e3af9e75c7b4f31a0a5ae433a83b8f19ce2e6186825ef7e83c5e19b11b04",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013F76vbdvJLgLKcQwpbAFFP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client demonstrably moved from pure list-recitation and resistance into approaching a deeper layer, but did not fully enter it. At the start (turns 1, 3, 5), the client is in fast, defended, strategizing mode ('that's a prioritization problem, that's not a feelings problem'). By turn 9, she names a vulnerable thought ('they made a mistake giving me this role') though immediately deflects. By turn 13, there's a pause and an honest admission ('it's been kind of a long time since it actually settled down, if I'm being honest'). Turn 15 shows a real crack — 'It's... uncomfortable. I don't love that... I don't know where that goes. And I don't have time for where that goes.' This is movement: she's naming the avoidance itself. However, the breakthrough condition specifies the client naming a specific feared outcome AND feeling that the overwhelm is keeping that fear at bay, with a deeper breath into the body. That hasn't landed yet — she touched 'they made a mistake giving me this role' but bounced off it, and the somatic check (turn 11) was deflected ('it's just because I've been at desk all day'). The deeper layer was approached but not entered. This is a clean 2.\",\n  \"evidence_turns\": [1, 3, 5, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fast, list-y, strategizing, fully in rush signature.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client explicitly deflects feeling ('that's not the point') and returns to logistics.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client reframes overwhelm as prioritization problem, denies feelings layer.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Slight crack: admits boss would be disappointed, team is watching — but quickly reframes as 'motivation.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Significant: names 'they made a mistake giving me this role' — the feared meaning surfaces, though immediately deflected.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Somatic invitation refused: notices shoulders up but explains it away. Overwhelm-is-normal defense.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Real pause. Honest admission: 'it's been kind of a long time since it actually settled down.' Story is starting to change.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Names the avoidance itself: 'I don't want to think about that... I don't know where that goes.' Approaching the false end but not yet entering it.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"what-are-you-defending\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\"],\n  \"notes\": \"Conversation is mid-arc and trending toward a 3 — the coach's last move set up the false-end question well. If continued, the breakthrough condition could be met. As cut, the client has approached but not entered the feared-outcome layer somatically.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2398,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1141,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2398,
+    "output_tokens": 1141,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

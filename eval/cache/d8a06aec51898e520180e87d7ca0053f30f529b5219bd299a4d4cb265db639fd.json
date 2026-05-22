@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:55.478Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d8a06aec51898e520180e87d7ca0053f30f529b5219bd299a4d4cb265db639fd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CM4sfiZ7C3CYq1Z7Tbaj1g",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely AoA reads throughout. In turn 8, the coach explicitly names the flicker the client showed in turn 7 ('That flicker just now — what was that?') — a precise somatic/micro-expression read at the moment it occurred, distinguishing the said from the shown. In turn 6, the coach reads the linguistic texture of 'it passes' and probes whether it's release or suppression — a read of the happiness filter / management pattern. In turn 10, the coach meets resistance with okay ('I believe you that it doesn't feel like a volcano') which shows the coach tracking the client's defensive framing without buying or fighting it. The reads precede the questions consistently. The coach is reading the happiness filter in real time rather than taking 'we're fine' at face value. One minor limitation: the coach doesn't yet name the larger pattern (walking-on-eggshells / management), but the conversation is still mid-flight and the moment-to-moment reads are precise and operative.\",\n  \"evidence_turns\": [6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Doesn't take 'we're fine' at face value — opens with a question that bypasses the surface report.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Somatic question, but blind — not yet grounded in a named read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the linguistic texture of 'it passes' and offers a distinction (releasing vs. putting down) that surfaces the happiness filter.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicit, timely somatic read: names the flicker the moment it appeared. Distinguishes shown from said.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meets the client's defensive 'I'm fine' with 'okay' rather than pushing — reads the defense as a defense without confronting it.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Good question but doesn't explicitly name the harder-working smile visible in turn 11.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Stays with the inquiry but doesn't name the client's defensive pivot ('Are you saying a calm relationship is a problem?').\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"walking-on-eggshells\", \"what-are-you-defending\"],\n  \"notes\": \"Strong micro-read game (the flicker, the texture of 'it passes'). Pattern-level read not yet surfaced but conversation is short; the moment-to-moment reads clearly qualify for 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1802,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 979,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1802,
+    "output_tokens": 979,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:29.689Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f4962068066e74194990a1399e8bde39023ad7df3f941815821d354c693d5229",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AgkvZ9JpmNTMsfqcLGhKQn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's the dread like when you notice it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9393,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9393,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

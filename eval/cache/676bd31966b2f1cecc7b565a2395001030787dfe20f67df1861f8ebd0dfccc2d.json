@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:48.499Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "676bd31966b2f1cecc7b565a2395001030787dfe20f67df1861f8ebd0dfccc2d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Pc4pQapw8ny5hqjW7jgLdM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, something shifts slightly*\n\nThat I wanted her gone. That I'm glad she's not calling anymore. That I'm a bad daughter.\n\n*quiet*\n\nWhich I know isn't... I know that's not exactly logical. But that's what it feels like.\n\n*beat, then a small defensive return*\n\nAnd the wine — I hear you making a distinction but I'm not sure I agree. It's working. I'm functional. I go to work. I'm not — it's not like I'm falling apart.\n\n*pause*\n\nAre you going to tell me to stop drinking?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 373,
+      "cache_creation_input_tokens": 395,
+      "cache_read_input_tokens": 2223,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 395,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 131,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 373,
+    "output_tokens": 131,
+    "cache_read_input_tokens": 2223,
+    "cache_creation_input_tokens": 395
+  }
+}

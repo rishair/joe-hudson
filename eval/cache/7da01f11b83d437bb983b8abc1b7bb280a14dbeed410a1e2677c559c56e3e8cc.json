@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:18.035Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7da01f11b83d437bb983b8abc1b7bb280a14dbeed410a1e2677c559c56e3e8cc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BoLfJhHpnQusGNkvVH9Pfc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach holds a fairly steady, non-agenda-driven presence and shows genuine curiosity, particularly in the final turn where they catch the client's own image ('hand going through it') and slow down around it. There is no preaching, no evangelizing, no diagnosing of dissociation, and no arguing the fearlessness — which keeps the stance from sliding to a 1. However, vulnerability from the coach is absent: no first-person noticing ('I notice I want to find something here'), no willingness to be wrong, no naming of own state. Wonder is present for content but the coach keeps moving forward to new probes (turns 8, 10, 12) rather than staying with the texture of 'fine' itself when the client says it twice. The 'what would it mean if it didn't land right' line in turn 10 and the hypothetical in turn 12 have a faint investigative quality — searching for the charge rather than welcoming what is actually here (numbness/flatness). Pace is okay but does not slow to match the client's repeated 'fine'; the coach treats 'fine' as something to get past rather than something to land in. Some VIEW components clearly present (empathy, partial wonder, impartiality on outcome), others weak (vulnerability, wonder for the actual phenomenon of flatness in front of them). That places it in 2 territory, not 3.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable opening probe; neither warm nor agenda-laden — functional curiosity.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Body question is appropriate and non-pushy; emerges from openness.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Noticing the look-away is a present-moment observation, offered cleanly without interpretation.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"'Smallest most ordinary thing with a slight charge' is a clever question but carries a subtle agenda — coach is looking for the charge rather than welcoming the no-charge report.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Moves into hypothetical/meaning-making rather than staying with the 'fine' texture the client just reported.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Second hypothetical pressing on stakes; feels like searching for the fear rather than meeting what's actually present (flatness).\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Genuine wonder here — catches the client's own metaphor and invites sitting with it rather than solving. Closest moment to full VIEW.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Coach never names own state or limit, and never slows down to let 'fine' have a quality. Stance is competent and non-harmful but not in full VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2414,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2414,
+    "output_tokens": 1109,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

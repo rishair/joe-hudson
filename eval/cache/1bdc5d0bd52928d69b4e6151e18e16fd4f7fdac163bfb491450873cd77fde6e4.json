@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:56.587Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1bdc5d0bd52928d69b4e6151e18e16fd4f7fdac163bfb491450873cd77fde6e4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01L7aYZr69jskvWK1Mwxe8wv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That low hum that doesn't go anywhere — how long has it been like that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10061,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10061,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:39.239Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5b508db8089bf7ca831333dd6c713457dc8a87a1a45c3b171d375ff90a8b8dbd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TDvfm6xTyEMC8Xq8wL21pb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean -- it's not going to go badly, I just need to be prepared. But if it did... I mean my boss would be disappointed, obviously. And the team is already kind of watching me because it's a new role, so. But that's just -- that's motivation, right? That's why I'm working hard. It's fine. Can we just -- can you help me figure out the Thursday thing? Like what I actually need to have ready?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 195,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1870,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 100,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 195,
+    "output_tokens": 100,
+    "cache_read_input_tokens": 1870,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:30.164Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bed9551c653222f25dcce4e9cda58e8c69f1ce09a540c9c8fc6bd7687773f5c4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01M6WxdrhNq9HjQhcbX7Soaa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "...No. No, it probably doesn't. I'd probably just find another reason to feel bad about it.\n\n*small laugh*\n\nOkay. What do I actually want. Um. There's this place — it's in the Cascades, we went once before the kids, and I've thought about it basically every year since. There's a cabin, it's very simple, and I sleep differently there. Like, deeply. And I read — actual books, not just scrolling — and I walk in the morning and I don't have to be anything for anyone. \n\n*pause*\n\nBut is that — I mean, a whole week is a lot to ask. My partner would have to manage everything solo, and that's not nothing."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 85,
+      "cache_creation_input_tokens": 65,
+      "cache_read_input_tokens": 1483,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 65,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 85,
+    "output_tokens": 160,
+    "cache_read_input_tokens": 1483,
+    "cache_creation_input_tokens": 65
+  }
+}

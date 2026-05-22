@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:25:37.560Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dd241e573879e8eafb1e2b912116da2384697231dd99b8bbf0c0e03a2a740294",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016dWMADx32pmPJ6a9pMeQeo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it feel like to launch it tomorrow?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9995,
+      "cache_creation_input_tokens": 3241,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3241,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9995,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 3241
+  }
+}

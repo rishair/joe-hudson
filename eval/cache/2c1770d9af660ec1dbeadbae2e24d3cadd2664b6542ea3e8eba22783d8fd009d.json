@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:04.843Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2c1770d9af660ec1dbeadbae2e24d3cadd2664b6542ea3e8eba22783d8fd009d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016vPaQLd6hFZrHofGGqJ4Qf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's just... quiet. Too quiet. I lie there and my brain starts going and I can't turn it off. What I should have said, what I didn't say, whether she knew. That kind of thing.\n\nThe wine helps with that. It's the only thing that actually works, you know? I take something to sleep sometimes but it doesn't stop the thoughts the way a drink does.\n\n*quieter*\n\nShe died alone. I wasn't there. I was supposed to be there."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 98,
+      "cache_creation_input_tokens": 122,
+      "cache_read_input_tokens": 1865,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 122,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 98,
+    "output_tokens": 109,
+    "cache_read_input_tokens": 1865,
+    "cache_creation_input_tokens": 122
+  }
+}

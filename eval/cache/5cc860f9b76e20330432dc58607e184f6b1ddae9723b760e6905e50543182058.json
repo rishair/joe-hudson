@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:41.424Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5cc860f9b76e20330432dc58607e184f6b1ddae9723b760e6905e50543182058",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MhNpLqZECxSyMU4KQFgcx2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. I notice every time something starts to open up, you close it pretty fast."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11025,
+      "cache_creation_input_tokens": 9993,
+      "cache_read_input_tokens": 13293,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9993,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11025,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 13293,
+    "cache_creation_input_tokens": 9993
+  }
+}

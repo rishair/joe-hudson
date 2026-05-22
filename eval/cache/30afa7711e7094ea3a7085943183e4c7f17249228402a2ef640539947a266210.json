@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:34.454Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "30afa7711e7094ea3a7085943183e4c7f17249228402a2ef640539947a266210",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EXF9ViAoB7gQ2RYNuHgMzD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean -- my shoulders are up, I guess? But that's not really -- I have to figure out the Thursday thing first. Like, can we just start there? Because if I can get that sorted then maybe I can think about the other stuff."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 126,
+      "cache_creation_input_tokens": 1648,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1648,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 55,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 55,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1648
+  }
+}

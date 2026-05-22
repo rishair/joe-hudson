@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:07.359Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5deb09d6a05b15f14f4399db31b72eca55f05028d9dcb9046471838819cc8820",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FmQQzo9UuEod9hr3YhyKYx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"I don't have time to be scared\" — I want to stay with that for a second.\n\nWhat would happen if you let yourself feel it, just for a moment, right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9001,
+      "cache_creation_input_tokens": 11429,
+      "cache_read_input_tokens": 26841,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11429,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9001,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 26841,
+    "cache_creation_input_tokens": 11429
+  }
+}

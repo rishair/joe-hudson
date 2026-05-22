@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:15.135Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ccc4c6f3f302b9701a72b2a9bb90f8774a5dfd384f8c4df1c2da61af50abd386",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GUMyJ6wCdhShLGE3aQNsLk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nYeah. That's... yeah.\n\nI think it's bracing against — not knowing which version I'm going to get. Like, is this the okay day or is this the day where anything I do is wrong. And I learned to read the room really fast. Really fast. My dad was... unpredictable. Not violent, I want to be clear about that, but the emotional temperature could shift without warning and I had to track it constantly.\n\nSo I think that's what the bracing is. It's the tracking system coming online. Before I even know I need it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 151,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2084,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 132,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 151,
+    "output_tokens": 132,
+    "cache_read_input_tokens": 2084,
+    "cache_creation_input_tokens": 0
+  }
+}

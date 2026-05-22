@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:45.253Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8ffd650d314e1addd39a8e449cb64bb9a762e6d4bf365d881dee0896adda9e55",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CTHatZBenmuFjEUecD7svE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment, smile stays but something tightens slightly*\n\nA few years, mostly. Time. Some... professional standing, I think. Nothing catastrophic. I'm fine.\n\n*brief pause*\n\nIt's interesting because objectively the outcomes weren't disasters. I recovered. I'm here, I'm functional, I have options -- that's the evidence I'm trying to use to rebuild some confidence. But there's something that didn't fully come back. Some... ease, maybe. The sense that I could just know something and move.\n\n*looks up*\n\nWhich is why I keep coming back to the diagnostic question. If I could just find a reliable method -- somatic cues, or some framework for distinguishing the two signals -- I could stop doing this. The constant second-guessing. It's exhausting, honestly. And I'm fairly certain the exhaustion is its's own interference."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 246,
+      "cache_creation_input_tokens": 269,
+      "cache_read_input_tokens": 1592,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 269,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 194,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 246,
+    "output_tokens": 194,
+    "cache_read_input_tokens": 1592,
+    "cache_creation_input_tokens": 269
+  }
+}

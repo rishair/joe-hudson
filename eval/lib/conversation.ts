@@ -24,6 +24,55 @@ export interface Turn {
   content: string;
 }
 
+/**
+ * Per-coach-turn retrieval telemetry. Captured when a coach config supplies a
+ * non-`none` retrieval strategy. Stored on the ConversationResult so the
+ * scorecard renderer + downstream eval analysis can inspect what retrieval
+ * surfaced on each turn.
+ */
+export interface RetrievalTurnTelemetry {
+  turn: number;
+  /** e.g., "graph-walk", "embedding". */
+  strategy: string;
+  /** Strategy-specific telemetry payload. Free-form JSON. */
+  payload: Record<string, unknown>;
+  /** Cost charged for this retrieval invocation (includes seed-detection LLM call etc.). */
+  cost_usd: number;
+  /** Wall-clock ms. */
+  ms: number;
+}
+
+/**
+ * Retriever interface implemented by each retrieval strategy. Returns an
+ * "injection" string that the conversation runner prepends to the coach's
+ * user message under "RETRIEVED CONTEXT", plus telemetry.
+ */
+export type CoachRetriever = (args: {
+  profile_id: string;
+  turn: number;
+  clientMessage: string;
+  history: { role: "client" | "coach"; content: string }[];
+}) => Promise<{
+  injection: string;
+  telemetry: Record<string, unknown>;
+  cost_usd: number;
+  ms: number;
+  /**
+   * Optional CallRecord shaped like the rest of the eval's call log. When
+   * provided, the runner pushes it onto `api.callLog` so cost reporting
+   * aggregates retrieval cost into the same pipeline as conversation and
+   * judge cost.
+   */
+  call_record?: Partial<CallRecord> & {
+    input_tokens: number;
+    output_tokens: number;
+    cache_read_input_tokens: number;
+    cache_creation_input_tokens: number;
+    cost_usd: number;
+    ms: number;
+  };
+}>;
+
 export interface ConversationResult {
   profile_id: string;
   coach_config_id: string;
@@ -31,6 +80,8 @@ export interface ConversationResult {
   termination: "exit_positive" | "exit_negative" | "max_turns" | "error";
   termination_reason: string;
   call_records: CallRecord[];
+  /** Populated when retrieval is enabled. */
+  retrieval_telemetry?: RetrievalTurnTelemetry[];
 }
 
 /**
@@ -123,6 +174,15 @@ export async function runConversation(args: {
   clientConfig: ClientConfig;
   clientTemplate: string;
   hardMaxTurns?: number;
+  /**
+   * Optional retriever called before each coach turn when
+   * `coachConfig.retrieval.strategy !== "none"`. The returned `injection`
+   * string is appended to the coach's incoming user message under a
+   * "RETRIEVED CONTEXT" block; per R-012 we use `every_turn` by default and
+   * the trigger_policy is on the coach config. (For E-036 the policy is
+   * always `every_turn`; future strategies may gate the call here.)
+   */
+  retriever?: CoachRetriever;
 }): Promise<ConversationResult> {
   const turns: Turn[] = [];
   const clientSystemText = renderClientSystemPrompt(args.clientTemplate, args.profile);
@@ -165,6 +225,7 @@ export async function runConversation(args: {
 
   let termination: ConversationResult["termination"] = "max_turns";
   let terminationReason = `reached max_turns (${maxTurns})`;
+  const retrievalTelemetry: RetrievalTurnTelemetry[] = [];
 
   let turnNumber = 1;
 
@@ -214,7 +275,81 @@ export async function runConversation(args: {
       if (turnNumber > maxTurns) break;
 
       // COACH TURN
-      coachMessages.push({ role: "user", content: cleanClient });
+      // Retrieval (only when configured). The injection is prepended to the
+      // user message Mark Claude sees, under a RETRIEVED CONTEXT block. The
+      // coach's `messages` history retains the bare client message in
+      // subsequent turns so we don't double-pay for old retrievals and the
+      // history remains coherent. The injection is "present-tense": each
+      // coach turn sees its own freshly-retrieved bundle.
+      const retrievalStrategy = args.coachConfig.retrieval.strategy;
+      const triggerPolicy = args.coachConfig.trigger_policy;
+      let injectionForThisTurn = "";
+      if (
+        args.retriever &&
+        retrievalStrategy !== "none" &&
+        // R-012 default: every_turn. Honor first_turn_only and on_topic_shift
+        // if the strategy supports it; otherwise treat every_turn-equivalent.
+        (triggerPolicy === "every_turn" ||
+          (triggerPolicy === "first_turn_only" && turnNumber === 2))
+      ) {
+        try {
+          const retT0 = Date.now();
+          const retResult = await args.retriever({
+            profile_id: args.profile.id,
+            turn: turnNumber,
+            clientMessage: cleanClient,
+            history: turns.map((t) => ({
+              role: t.role,
+              content: t.content,
+            })),
+          });
+          injectionForThisTurn = retResult.injection;
+          retrievalTelemetry.push({
+            turn: turnNumber,
+            strategy: retrievalStrategy,
+            payload: retResult.telemetry,
+            cost_usd: retResult.cost_usd,
+            ms: retResult.ms ?? Date.now() - retT0,
+          });
+          // Stamp a synthetic CallRecord for cost attribution. We use
+          // `retrieval:<strategy>:<profile>:t<turn>` as the purpose so the
+          // cost log can distinguish retrieval cost from conversation cost.
+          if (retResult.call_record) {
+            args.api.callLog.push({
+              model: (retResult.call_record.model as string) ?? "claude-haiku-4-5",
+              purpose: `retrieval:${retrievalStrategy}:${args.profile.id}:t${turnNumber}`,
+              profile_id: args.profile.id,
+              cached: retResult.call_record.cached ?? false,
+              input_tokens: retResult.call_record.input_tokens,
+              output_tokens: retResult.call_record.output_tokens,
+              cache_read_input_tokens: retResult.call_record.cache_read_input_tokens,
+              cache_creation_input_tokens: retResult.call_record.cache_creation_input_tokens,
+              cost_usd: retResult.call_record.cost_usd,
+              ms: retResult.call_record.ms,
+            });
+          }
+        } catch (e: unknown) {
+          // Retrieval failures degrade gracefully: the turn proceeds without
+          // injection. Telemetry records the failure for diagnosis.
+          retrievalTelemetry.push({
+            turn: turnNumber,
+            strategy: retrievalStrategy,
+            payload: { error: e instanceof Error ? e.message : String(e) },
+            cost_usd: 0,
+            ms: 0,
+          });
+        }
+      }
+
+      // Build the coach's user message: optional retrieval block + the literal
+      // client message. The retrieval block is FIRST so the coach reads
+      // grounding context before the new client utterance — this is the
+      // R-012-specified inject format.
+      const augmentedUserContent =
+        injectionForThisTurn.length > 0
+          ? `${injectionForThisTurn}\n\n${cleanClient}`
+          : cleanClient;
+      coachMessages.push({ role: "user", content: augmentedUserContent });
       const coachCall = await args.api.complete({
         purpose: `coach:${args.profile.id}:t${turnNumber}`,
         profile_id: args.profile.id,
@@ -249,6 +384,7 @@ export async function runConversation(args: {
     termination,
     termination_reason: terminationReason,
     call_records,
+    retrieval_telemetry: retrievalTelemetry.length > 0 ? retrievalTelemetry : undefined,
   };
 }
 

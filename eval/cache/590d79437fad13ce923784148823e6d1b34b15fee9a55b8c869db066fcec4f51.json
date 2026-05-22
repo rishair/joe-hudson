@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:40.389Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "590d79437fad13ce923784148823e6d1b34b15fee9a55b8c869db066fcec4f51",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Gv7Trq3kGNxAELd1b9uoto",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with that for a second — the worry that the question has an answer you don't want to look at.\n\nWhat do you think the answer might be?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23070,
+      "cache_creation_input_tokens": 9642,
+      "cache_read_input_tokens": 15016,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9642,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 36,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23070,
+    "output_tokens": 36,
+    "cache_read_input_tokens": 15016,
+    "cache_creation_input_tokens": 9642
+  }
+}

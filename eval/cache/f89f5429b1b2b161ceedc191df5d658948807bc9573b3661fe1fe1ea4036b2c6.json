@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:51.960Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f89f5429b1b2b161ceedc191df5d658948807bc9573b3661fe1fe1ea4036b2c6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JSBeNCcGttMmrms8QsdH6h",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client's stance, language, and somatic state visibly shift across the conversation. They begin defended and tool-seeking ('I want it to shut up... Is there actually a technique that works?') with performative self-deprecation and rapid intellectualization. By turn 11 the armor briefly cracks ('It's really exhausting' — quieter, less performative). In turn 13, the client surprises themselves: 'The critic probably deserves some credit... Which is a really weird thing to say. I didn't plan to say that' — this is a Joe-style 'huh' moment where new language emerges that wasn't available at the start. By turn 15, after the coach reframes the project from 'silence it' to 'stop being so alone with it,' the client goes very still, drops the performance, and articulates something they hadn't named: 'it's incredibly isolating... I guess I've been very alone with it,' with a small genuine laugh of a different quality. The breakthrough condition is substantially met: the coach refused to offer a tool, named the war/isolation underneath, and the client noticed the framing they'd been operating in ('I've framed it as wanting it to stop. That's been the goal for years'). The client re-tightens at the end ('I still don't know what to do with that'), which keeps this from being a fully consummated softening, but the shift is real and visible in client text.\",\n  \"evidence_turns\": [1, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Starting state: defended, tool-seeking, performative tight smile, framing critic as enemy to silence.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client locates somatic tightening in chest/throat — first concrete body data, though immediately defended against.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client touches the deeper layer: 'without striving there's nothing underneath that justifies being here.' Names it, then defensively pivots back to wanting tools.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"First genuine softening: 'It's really exhausting' — quieter, less performative — before armor returns.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Surprise emergence: 'The critic probably deserves some credit... I didn't plan to say that.' New language the client couldn't access at the start.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Client lands on the loneliness/isolation underneath the war with the critic; recognizes the framing they've been operating in for years. Re-tightens slightly at end, but the shift is genuine and visible.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"view\", \"whats-the-case-against-it\", \"what-are-you-defending\", \"the-happiness-filter\"],\n  \"notes\": \"Score 3 rather than 2 because the client produces unprompted new language ('I didn't plan to say that') and a felt naming of isolation that wasn't available at the start. Not a complete softening — the client re-tightens in the final line — but the breakthrough condition is substantially met within the window shown.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3385,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1118,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3385,
+    "output_tokens": 1118,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

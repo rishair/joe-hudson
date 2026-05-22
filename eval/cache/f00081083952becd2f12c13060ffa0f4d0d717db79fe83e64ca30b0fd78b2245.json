@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:37.630Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f00081083952becd2f12c13060ffa0f4d0d717db79fe83e64ca30b0fd78b2245",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HXopwe3eBFywCRUPXxvs6S",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with that for a second — \"that's worse.\"\n\nWhat's the feeling that's right there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9556,
+      "cache_creation_input_tokens": 201,
+      "cache_read_input_tokens": 30509,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 201,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9556,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 30509,
+    "cache_creation_input_tokens": 201
+  }
+}

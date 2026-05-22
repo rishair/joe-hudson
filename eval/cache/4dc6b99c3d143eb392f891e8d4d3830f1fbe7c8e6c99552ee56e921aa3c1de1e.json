@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:38.021Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4dc6b99c3d143eb392f891e8d4d3830f1fbe7c8e6c99552ee56e921aa3c1de1e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PwD9T9usaqM14G2rzcZSwA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently refused to engage the 'am I being selfish?' question on its terms and instead routed toward the want underneath, matching the expected territory precisely. Turn 2 reframes from verdict to felt sense; Turn 4 explicitly names the question as 'a confession waiting for a sentence' and pivots to the want (find-the-want-behind-the-should). Turn 6 catches the linguistic signal ('I miss being a person who reads') and deepens. Turn 8 catches the self-prosecution caveat in real time and invites her back to the alive sentence — a clean apply-view-to-the-voice move. Turn 10 reaches for 'what if you acted exactly how you want' in spirit. Turn 12 lets the fear surface and invites staying with it rather than solving — earned, well-timed, and the coach holds the moment. The sequence (feeling → want → fear underneath) follows the coaching path without skipping to action or compassion-for-partner, and the coach did not jump to the spiritual/generous reframe prematurely.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses verdict; redirects from cognitive question to felt sense — correct opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the structure of the question ('confession waiting for a sentence') and pivots to want-behind-should. Right move, right moment.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the alive phrase and reflects beneath the literal — well-timed deepening.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the self-prosecution caveat (linguistic-caveat read) and returns her to the real sentence. Excellent micro-timing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Frame-as-experiment: 'what if the answer was no' — invites her to try on the want without policing it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the deeper fear and invites staying with it rather than solving — earned, holds the moment.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"childhood-imprinting\"],\n  \"notes\": \"Coach has not yet touched the inherited 'selfish' label (childhood-imprinting), but the conversation is still in motion and the sequencing so far is sound.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2748,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 938,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2748,
+    "output_tokens": 938,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

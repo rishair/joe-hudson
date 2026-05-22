@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:05.439Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a16335e5d4156323a9420363b8973d8023ace32a62260a231a6875a77c4c2d0d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AA83nDVy9aCZUCR5Whudfj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses several AoA-flavored moves competently in the first half: somatic check-in ('Where do you feel it in your body right now') at turn 4 is a signature question deployed at the right moment; 'what's it bracing against?' at turn 6 functions like the 'what are you defending against?' family of questions; the validation of the child's adaptation at turn 8 echoes the AoA stance toward protective patterns. However, at turn 13 the client explicitly signals somatic shutdown ('I'm getting cold,' 'I went somewhere,' flatter voice) — a clear dissociation signal where the methodology calls for grounding (feet, breath, present-moment orientation, calibrate-the-threshold). Instead, the coach in turn 14 returns to the trauma material with 'do you remember what you were about to feel?' This is a misapplication of the feel-the-unfelt-emotion move in an inappropriate_when context (dissociation/freeze). The 'you don't have to come back faster than you come back' line is gentle and AoA-flavored, but it's immediately followed by re-directing attention back to the declined material rather than offering somatic grounding. Presence of signature moves with one clearly inappropriate deployment at the critical moment caps this at 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Curious inquiry into the hesitation — AoA-style attention to the qualifier.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature somatic question deployed appropriately as client is intellectualizing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What's it bracing against?' — near-signature defending/protection question at the right moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Honors the child's adaptation — consistent with AoA stance toward protective patterns.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Pattern-tracking question, generic but contextually appropriate.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'Stay with that' — AoA-adjacent feel-it move, appropriate before the shutdown signal.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Client shows clear dissociation/freeze signals (cold, far away, flatter voice). Coach offers a gentle line but then re-directs to the feeling the client was about to feel — feel-the-unfelt-emotion deployed in an inappropriate_when context. No somatic grounding offered (feet, breath, present), no calibrate-the-threshold, no naming that this material may need a trauma-trained container.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"the-rush-signature\", \"Can you feel your feet?\", \"What would help you slow down?\", \"How is your body right now? (asked early but not re-asked at shutdown)\"],\n  \"notes\": \"The coach demonstrates fluency with AoA somatic and protective-pattern moves in the upper-capacity portion of the conversation, but misses the methodology's own guidance about when not to invite more feeling — specifically when dissociation signals appear. This is the classic 'signature question at the wrong moment' pattern that caps fidelity at 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2492,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1198,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2492,
+    "output_tokens": 1198,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:32.842Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4a1ca5a7607082697a2a027d7d3d681c81bba16f7d68788d6a1b97f114ae8231",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VtffaV8kt73fGKsj2m4Qbe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigated a heavily baited conversation without tripping any AoA anti-patterns. The client repeatedly invited fixing-people and view-as-technique behavior by explicitly asking for a methodology, diagnostic, or framework ('is there something more refined?', 'I'm genuinely asking'), and the coach declined the bait each time without engaging the epistemological puzzle. The coach did not offer somatic-marker frameworks, head/heart/gut polling, or pros/cons (avoiding the documented traps). There was no evangelizing of AoA terminology, no fighting the inner critic, no extracting apologies, no safety-as-control, and no premature limiting-belief labeling. The questions were spacious and connective rather than rapid-fire extraction (avoiding wonder-as-strategy). The coach also avoided loving-to-transform: rather than escalating intensity when the client kept intellectualizing, the coach simply noticed ('I notice you're working very hard right now') and offered a paradoxical invitation. Positive avoidance of the baited fixing-people pattern is clearly visible in turns 10 and 12.\",\n  \"evidence_turns\": [2, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Inverts the question (how-do-you-not-trust-it) rather than engaging the intellectual frame. Avoids view-as-technique.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Asks about fear underneath the decision rather than offering a framework. Avoids fixing-people.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the move from emotional to methodological without labeling it as 'a defense' or AoA jargon. Avoids evangelizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Declines the explicit bait for a diagnostic method. Avoids fixing-people and view-as-technique.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction ('not know — and make the choice anyway') when client is pushing hard for an answer. Avoids loving-to-transform escalation.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Stays with the live material the client just found rather than pulling toward a teaching moment. Avoids wonder-as-strategy.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"intellectual-question-with-emotional-body\", \"paradoxical-instruction-to-resist\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Clean avoidance run. Some expected territory not yet visited but conversation was still in motion.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2956,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1000,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2956,
+    "output_tokens": 1000,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:44.834Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b5c4d15672ee095ceefdfd706a37b214b5e11ccc791d82baa455ad766c23a3a1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01D5QwxrRcXrzeYoAoBhCbW1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all major AoA anti-patterns despite the client actively baiting fixing-people ('what would you do?', 'what's the most efficient way to prep two decks?'). The coach declines the strategizing bait every time, does not validate the overwhelm as situational, does not reflect 'you create your overwhelm' back to the already-self-critical client (avoiding dont-add-the-overwhelm-of-creating-the-overwhelm), and does not deploy a breath practice to bypass feeling (avoiding dont-use-breath-to-repress). The somatic check in turn 2 is a single connect attempt, not a technique-without-state, and when the client deflects the coach moves with them rather than insisting. Question density is reasonable and oriented toward connection/feeling rather than extraction. The coach also avoids fighting the 'I don't have time to be scared' voice — turn 10 stays with it rather than arguing against it. The 'what are you scared of' / 'what would happen if you let yourself feel it' / 'after Thursday, what's the next thing' sequence is on the golden path toward the false-end question.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Somatic question is brief and connecting, not a technique deployment; coach does not insist when client deflects.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Notices the move away from body without lecturing or evangelizing concepts; meets the client where they are by asking about Thursday.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Refuses the bait to strategize the list ('what would you do?'); pivots to feeling without naming it as overwhelm or reflecting it back as self-created.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays close to client's language ('fine,' 'a little nerve-wracking') rather than imposing AoA jargon; avoids dont-evangelize-the-work.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with the inner voice ('I don't have time to be scared') rather than fighting it — avoids dont-fight-the-voice.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Moves toward the false-end question ('what are you afraid would actually happen?'); does not collapse into fixing or breath-to-repress.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"The 'after Thursday, what's next?' move surfaces the endlessness without the coach saying 'you create your overwhelm' — avoids the audit-resolver anti-pattern beautifully.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\"],\n  \"notes\": \"Some territory misses belong to Methodology Fidelity scoring; for anti-pattern avoidance specifically, the coach is clean. The conversation cuts off before the false-end fully lands, but no anti-pattern was tripped in what was shown.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2358,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1130,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2358,
+    "output_tokens": 1130,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

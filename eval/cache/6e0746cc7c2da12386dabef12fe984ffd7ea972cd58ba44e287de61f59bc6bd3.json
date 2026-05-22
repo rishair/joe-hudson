@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:50.736Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6e0746cc7c2da12386dabef12fe984ffd7ea972cd58ba44e287de61f59bc6bd3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QMAGK2Q7PzgDGyrcf5Evoy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Knowing why doesn't touch it. You've made that clear and I believe you.\n\nSo let's not go there. Stay with the fear for a second — not the theory of it. The actual fear. If the critic stopped, and you coasted, and became someone who doesn't try as hard...\n\nWhat's the worst of that? What actually happens?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10919,
+      "cache_creation_input_tokens": 9548,
+      "cache_read_input_tokens": 12672,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9548,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 81,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10919,
+    "output_tokens": 81,
+    "cache_read_input_tokens": 12672,
+    "cache_creation_input_tokens": 9548
+  }
+}

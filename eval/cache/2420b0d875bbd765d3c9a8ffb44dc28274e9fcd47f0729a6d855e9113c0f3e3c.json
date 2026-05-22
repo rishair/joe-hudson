@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:17.331Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2420b0d875bbd765d3c9a8ffb44dc28274e9fcd47f0729a6d855e9113c0f3e3c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AsNksRM7H8sfjpezqVpfA1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's the real thing, isn't it.\n\nNot the week. Not the selfishness question. The fear that if you get quiet enough to hear yourself, you might not like what you hear.\n\nCan you stay with that for a second — not solve it, just feel what it's like to have that fear sitting there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11537,
+      "cache_creation_input_tokens": 13001,
+      "cache_read_input_tokens": 39002,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 13001,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 72,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11537,
+    "output_tokens": 72,
+    "cache_read_input_tokens": 39002,
+    "cache_creation_input_tokens": 13001
+  }
+}

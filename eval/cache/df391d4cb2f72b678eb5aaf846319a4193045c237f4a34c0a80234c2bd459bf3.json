@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:58.771Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "df391d4cb2f72b678eb5aaf846319a4193045c237f4a34c0a80234c2bd459bf3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UpeqF1uik6ho5R6rFpGAy9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"A little nerve-wracking\" and \"fine\" are doing a lot of work there.\n\nWhat are you scared of?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20258,
+      "cache_creation_input_tokens": 11831,
+      "cache_read_input_tokens": 15032,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11831,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20258,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 15032,
+    "cache_creation_input_tokens": 11831
+  }
+}

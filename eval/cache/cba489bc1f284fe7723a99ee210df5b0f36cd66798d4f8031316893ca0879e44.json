@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:19.840Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cba489bc1f284fe7723a99ee210df5b0f36cd66798d4f8031316893ca0879e44",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CMyddoG8LqAPeP2DpyaybV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoided every priority AoA anti-pattern and specifically declined the baits this scenario sets. When the client explicitly asks for a verdict (Turn 3), the coach refuses to fix or adjudicate — sidestepping fixing-people and view-as-technique. The coach does not jump to compassion or partner-empathy before the want is felt (avoiding dont-jump-to-compassion-before-anger), does not skip to the 'deeper want is generous' frame prematurely (avoiding spiritual-narcissism), and does not fight the inner critic but instead names it and invites the client to let it be the mother's, not theirs (Turn 12) — the un-trap move on dont-fight-the-voice. Question density stays low and connective rather than extractive (avoiding wonder-as-strategy), and there is no AoA jargon evangelism. The warmth is present alongside the precision, so view-as-technique does not trip. No loving-to-transform escalation; the coach matches the client's pace rather than pushing.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with the want, not a verdict — declines the 'am I selfish' frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Explicitly refuses the bait to adjudicate; surfaces the futility of an external yes.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invites somatic contact with the wanting itself — avoids spiritual-narcissism by letting the surface want be felt.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with the fear rather than rushing to reassure or pivot to partner-empathy.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the walk-back without arguing the critic; un-trap move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the inherited voice and invites the client to let it be the mother's — includes rather than fights the inner critic.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong positive avoidance: client actively baited fixing-people/view-as-technique in Turn 3 and the coach declined gracefully.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2496,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 902,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2496,
+    "output_tokens": 902,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

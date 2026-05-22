@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:50.805Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7a976dc8af015bbf73d62f78691bb454e42732d4613dca97783cb1bcf386e2d0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01217Pt4SeErkzkjRvPmcQzs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach refuses to engage the 'is it selfish?' question on its terms (avoiding the spiritual-narcissism and verdict traps) and instead works the linguistic-caveat read. Turn 2 inverts the question into a feel-into-it move ('what does it feel like to ask it?') — a signature AoA gesture of feel-over-figure. Turn 6 ('who are you waiting to get that permission from?') exposes the projected authority. Turn 8 surfaces the client's own self-contradiction without rescuing — a clean AoA reflection that trusts the client's knowing. Turn 10 deploys the somatic invocation ('what happens in your body when you say it out loud?') at exactly the right moment when an emotionally loaded sentence has emerged. Turn 12 ('stay with that oh') honors the moment of insight and the childhood-imprinting pattern emerges organically. The coach never reframes CBT-style, never deploys frameworks as decoration, never jumps to compassion or partner-empathy, and never issues a verdict. Every move fits its moment.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to answer the selfish question; redirects to feeling — feel-over-figure move at the right moment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Keeps the client's own frame alive without endorsing it; lets the want surface naturally.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Surfaces projected authority — 'who are you waiting for?' — appropriate when permission-seeking is live.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the contradiction back without rescuing; trusts the client's own knowing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Somatic invocation deployed precisely when a charged sentence ('not allowed to want') emerged — textbook AoA timing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Stay with that oh' — honors the integration moment instead of analyzing it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"The signature question 'what if you acted exactly how you want?' was not deployed verbatim, but the client arrived at the equivalent territory ('I just want to go to the mountains') through the coach's other moves. Misses are minor because the breakthrough was reached without them.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2636,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 954,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2636,
+    "output_tokens": 954,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

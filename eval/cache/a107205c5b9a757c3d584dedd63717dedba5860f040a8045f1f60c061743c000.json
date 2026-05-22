@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:53.164Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a107205c5b9a757c3d584dedd63717dedba5860f040a8045f1f60c061743c000",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Hst6S8nvH7V5MHArVvg6kP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. There is no agenda to declare the trip non-selfish, no rush to rescue, no preacher-mode. Questions are single, spacious, and emerge from what the client just said rather than from a script — turn 2 redirects from the verdict question into experience, turn 8 reflects the client's own move back without judgment, turn 10 honors what's real and slows the pace into the body. The coach holds silence (the client's long pauses are not filled), refuses to issue verdicts even when asked directly in turn 7, and trusts the client's process enough to let the inherited-word recognition arise organically in turn 11 rather than pointing at it. Wonder is for the actual phenomenon (the 'oh' in turn 12) not generic depth-probing. Empathy is felt, not performed — 'that's the realest thing you've said' is honest rather than validating-noise. Impartiality holds: the coach never steers toward 'go to the mountains' as the right answer. Minor note: no explicit first-person vulnerability from the coach (no 'I notice I want to...'), but the overall stance is clearly undefended and curious rather than managing.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict frame; redirects to felt experience with one clean question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays light, doesn't moralize the 'weird answer' worry, opens hypothetical space without leading.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Single question, no stacking, lets the client find the authority question themselves.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the client's move back to the original question without judgment or rescue; reflects it as a question, not a correction. Impartial.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Doesn't accept the apology, names what's real, slows pace into body. Empathy felt not performed.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the 'oh' rather than interpreting it. Wonder at the actual phenomenon in front of the coach.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"childhood-imprinting\", \"the-want\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Coach never names own state explicitly (mild VIEW gap on vulnerability), but the stance is clearly undefended and impartial. No traps tripped — verdict was refused, compassion-jumping avoided, surface want was allowed before any 'deeper generous want' framing.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2641,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 997,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2641,
+    "output_tokens": 997,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:16.052Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9a8ddf4a7690aae0945f00ae863bfa600ce2bc785dc080c4a70acb7b3d5db41b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MYKKuxoHiZeCBv6Ao1MZnd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, small smile*\n\nWhat do you mean, exactly? I'm... I mean, I'm trusting myself enough to ask the question. I'm trusting myself to recognize that there's a conflict. I suppose what I mean is more -- when I have two competing signals, how do I know which one to weight? It's less about trust and more about... discernment, maybe. Distinguishing the signal from the noise."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 100,
+      "cache_creation_input_tokens": 1495,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1495,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 96,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 100,
+    "output_tokens": 96,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1495
+  }
+}

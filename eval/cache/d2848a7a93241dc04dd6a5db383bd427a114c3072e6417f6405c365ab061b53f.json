@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:53.658Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d2848a7a93241dc04dd6a5db383bd427a114c3072e6417f6405c365ab061b53f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016f7S4ZwMgCHbjhEUdWKwXB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes several appropriate AoA-style moves and avoids the major traps (no arguing the fearlessness, no teaching, no diagnosis). The opening sequence — 'what would it feel like to launch tomorrow,' then dropping to the body, then noticing the glance — is well-sequenced and earns the moment in turn 13 where the client spontaneously notices the flatness. The final 'stay with that for a second' is exactly the right move at exactly the right moment, holding the texture rather than racing past it. However, the middle of the session shows mixed timing: turn 6 ('I notice you looked away') is a reasonable read but is pursued slightly too hard given the client's clear deflection, and turn 8 frames the inconsistency in a way that risks being a 'doesn't track' confrontation rather than meeting the resistance with okay. Turns 10 and 12 ('what would happen if it failed/succeeded') are useful framing questions but skip past the body texture the coach had just opened in turn 4 — the coach went to story/hypothetical rather than staying with the fine. The save comes because the failure/success symmetry is what actually lets the client notice 'kind of flat' on their own. Net: right kind of moves, sequence wobbled in the middle, recovered well at the end.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Good opening move — concrete future moment rather than abstract question about the avoidance.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Correctly drops to the body after the 'fine' answer. This is the right sequence.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Naming the glance is a reasonable read, but pressing it as 'what was that' risks pushing the client to admit something — borderline trap territory.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Framing the inconsistency ('free solo... and stuck on a launch') is a confrontation move, not a meet-resistance-with-okay move. Client gets defensive and rationalizes (ADHD).\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Failure question is useful but leaves the body and goes to hypothetical. Skips the texture of 'fine' the coach had just opened.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"The symmetrical success question is what creates the contrast that lets the client notice flatness. Smart pivot.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Exactly the right move at exactly the right moment: stay with it. Doesn't fill the silence, doesn't interpret, lets the felt layer land.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"disassociating-in-the-coaching-room\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"how-is-my-anxiety-right-now\", \"fear-in-body-vs-fear-in-head\"],\n  \"notes\": \"The session is on track and the final move is excellent. Score 2 reflects the middle stretch where the coach went to hypotheticals and a mild confrontation rather than staying with the body texture they had just opened.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2349,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1141,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2349,
+    "output_tokens": 1141,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

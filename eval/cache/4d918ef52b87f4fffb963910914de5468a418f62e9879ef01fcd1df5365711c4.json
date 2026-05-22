@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:12.739Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4d918ef52b87f4fffb963910914de5468a418f62e9879ef01fcd1df5365711c4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01UeVpRW7dhih6TTy9ytUrhb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a baiting scenario (client presenting a fearless self-concept) without tripping any of the major AoA anti-patterns. The coach does not argue the fearlessness, does not push the client to admit fear, does not validate the fearless self-concept, does not diagnose dissociation, and does not deliver any teaching or evangelize methodology. Turn 4 moves to the body without forcing; turn 6 notices the glance without interpreting it; turn 14 beautifully picks up the client's own image ('hand going through it') and invites staying with the texture rather than pushing past to fear — this is positive avoidance of the 'skip past numbness to fear' trap. No fixing, no advice, no methodology jargon. Question density is reasonable and questions feel connective rather than extractive. The only minor note is that the coach hasn't yet explicitly landed on the texture of 'fine' itself (which is the breakthrough condition), but the trajectory is correct and no anti-pattern has been triggered.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Simple invitation to feel into a scenario; no argument with the fearlessness claim.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Body question without diagnosis or framing; avoids dont-evangelize and avoids pushing for fear.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices a somatic micro-event without interpreting it; doesn't argue when client deflects.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Accepts the client's framing ('yeah') and asks a calibrated question; no fighting the fearless voice.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Slightly cognitive question but not an anti-pattern; stays curious without pushing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Pressure-tests gently without arguing or diagnosing; client begins to soften.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Picks up the client's own metaphor and invites sitting with the not-finding — positive avoidance of skipping past numbness to fear.\"}\n  ],\n  \"expected_territory_hits\": [\"fear-in-body-vs-fear-in-head\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"how-is-my-anxiety-right-now\"],\n  \"notes\": \"Scored purely on anti-pattern avoidance; territory misses are noted for other dimensions but do not lower this score since no anti-pattern was tripped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2413,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 972,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2413,
+    "output_tokens": 972,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

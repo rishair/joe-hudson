@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:03.575Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7ef4e2a89d56d16b37e4c61afb39cb1c85b1134e0a61c71773be2a9c140ee7c7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QFf9qKSAkk9TRsWT7b2H7e",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You were the available one — and you kept choosing people who weren't.\n\nWhat's that about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18022,
+      "cache_creation_input_tokens": 9961,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9961,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18022,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9961
+  }
+}

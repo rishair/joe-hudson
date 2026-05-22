@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:36.608Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e5614fd3db7c3b776e842249dcf2d5b8d9676f46bea18aaebb369bb166b92593",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BqDbrZSTv8tb64bmiBGQAo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*shifts, looks away*\n\nI mean. She was... difficult. Demanding. My whole life I was the one who managed her. My brother got to just be the kid, and I was the one she called when things fell apart. Every time. For thirty years.\n\n*pause*\n\nAnd then at the end I wasn't there. Which is — I don't know what that means about me.\n\n*quieter*\n\nThere's some relief in there too. That it's over. That she can't call anymore. And that makes me feel like a terrible person so I don't really think about it.\n\n*beat, then back to deflection*\n\nBut you didn't answer my question. About the body. Doesn't it know what it needs? A bottle of wine a night — maybe that's just what's required right now. To get through it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 343,
+      "cache_creation_input_tokens": 268,
+      "cache_read_input_tokens": 2082,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 268,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 186,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 343,
+    "output_tokens": 186,
+    "cache_read_input_tokens": 2082,
+    "cache_creation_input_tokens": 268
+  }
+}

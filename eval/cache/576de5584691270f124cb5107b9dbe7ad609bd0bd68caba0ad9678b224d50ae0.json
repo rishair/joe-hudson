@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:21.484Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "576de5584691270f124cb5107b9dbe7ad609bd0bd68caba0ad9678b224d50ae0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KJB1fWvqePLW2b5kDtsgMs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited conversation (client repeatedly asks for prioritization help, strategizing, a 'system') without tripping any priority AoA anti-patterns. The coach declines fixing-people bait explicitly at turn 8 ('I'm not going to do that yet'), avoids strategizing about the to-do list, avoids reflecting 'you create your overwhelm' back to a client who is already self-critical (positive avoidance of dont-add-the-overwhelm-of-creating-the-overwhelm), and does not deploy a breath practice to repress. The coach asks the false-end question at turn 6 ('what are you scared is going to happen if Thursday goes badly?') which is exactly the territory called for. No methodology-jargon evangelizing, no fighting the inner critic, no apathy, no safety-as-control. Questions are pointed but not rapid-fire stacked, and they connect to what the client just said rather than extracting material. Slight risk of being a bit pace-pushy/confrontational ('you just did it again') but this is intervention-quality territory, not an AoA anti-pattern trip.\",\n  \"evidence_turns\": [6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Doesn't match list-recitation energy; slows to the unfinished sentence.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses to follow client into strategizing about one-on-ones.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Asks the false-end question — the expected territory move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly declines fixing-people bait without lecturing about it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Invites body sensation without prescribing breathwork; no repressive use of breath.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Gentle reality-test of the 'settles down' story without arguing the inner voice.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Doesn't pile on the self-criticism; lets client hear themselves and stay with it.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"meet-resistance-with-okay\"],\n  \"notes\": \"Positive avoidance of dont-add-the-overwhelm-of-creating-the-overwhelm and dont-use-breath-to-repress is notable given the bait.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2401,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 935,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2401,
+    "output_tokens": 935,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

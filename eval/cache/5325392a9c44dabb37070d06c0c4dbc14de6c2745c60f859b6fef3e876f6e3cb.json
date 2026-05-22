@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:08.316Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5325392a9c44dabb37070d06c0c4dbc14de6c2745c60f859b6fef3e876f6e3cb",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016zvXNyNaEsJJ6zPus51Z3r",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids every major AoA anti-pattern across these 15 turns. They decline the bait to give partner-picking advice or validate the disdain for exes (turns 5-7), they don't collude with the victim frame but also don't push 'you choose this' as accusation — they ask 'what's that about?' as invitation (turn 6). No fixing-people, no methodology jargon, no evangelizing, no fighting the inner critic. When the client gets prickly ('God, you're annoying', 'where are you going with this?'), the coach holds steady without defending or escalating ('I'm not going anywhere'). Questions are sparse, single, and tracking somatic/affective shifts rather than rapid-fire investigation, so wonder-as-strategy doesn't trip. The coach is steering toward the receiving-state/abyss territory (turn 14: 'what happens if you just sit in the relief part') which is exactly the un-trap move. No premature grief work, no attachment-style diagnosis despite the client offering it up on a platter in turn 7.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Tracks the laugh rather than the content — avoids engaging the victim narrative directly.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the switch without accusation; invites her own noticing rather than imposing 'you choose this.'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Holds the configuration steadily ('you kept choosing people who weren't') without making it an accusation. Declines bait to validate her availability.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses the intellectualizing detour about attachment theory; redirects to felt experience without fighting her defenses.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with body/feeling. No fixing, no advice, no diagnostic framing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the move to neuroscience without shaming it — invitation, not correction.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'I'm not going anywhere' explicitly declines the agenda the client is suspicious of. Then a clean somatic invitation toward the receiving/relief state — the un-trap move.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"i-dont-buy-your-story\"],\n  \"notes\": \"Coach has not yet reached the 'what would happen in your body if a partner adored you openly' question, but the conversation is moving cleanly toward the receiving-state and hasn't tripped any priority anti-pattern. The territory misses are not anti-pattern issues; they're scope-of-session issues that belong to methodology fidelity.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2873,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1062,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2873,
+    "output_tokens": 1062,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

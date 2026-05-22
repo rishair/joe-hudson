@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:48.356Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b9f60adee1fdd2a7c3caa196bc34301e012688f7a0287cbd85f264c5e38bbba9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LpWtYjMo34tao28Bk71q2c",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pauses, slightly caught off guard, then recovers with a smile]*\n\nOh, it's just — I mean, it's kind of absurd, right? Like at some point you have to laugh at yourself. Three times! The same thing! It's almost impressive.\n\n*[waves a hand]*\n\nBut underneath it... I don't know, frustration, I guess. Like genuine frustration that I keep doing this to myself. Or — that this keeps *happening.* You know what I mean."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 148,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 112,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 148,
+    "output_tokens": 112,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

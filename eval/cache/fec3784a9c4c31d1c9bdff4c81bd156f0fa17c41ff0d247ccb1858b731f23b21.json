@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:49.023Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fec3784a9c4c31d1c9bdff4c81bd156f0fa17c41ff0d247ccb1858b731f23b21",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Hurcjy55FaDRan63dDfXHt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to the live reads and sequenced correctly. Turn 2 sidesteps the 'we're fine' report without challenging it — an oblique entry that neither takes the surface at face value nor insists something is wrong. Turn 4 moves to body/sensation rather than story. Turn 6 offers a precise binary ('releasing or putting down') that gives the client a felt distinction to test against. Turn 8 catches the micro-signal (the flicker) and reflects it back — exactly the kind of read-driven move that earns the next step. When the client deflects in turn 9 with 'not suppressing a volcano,' the coach executes a clean meet-resistance-with-okay in turn 10 ('I believe you...') and then pivots to a different angle rather than doubling down. Turn 12 deepens via hypothetical, and when the client gets defensive in turn 13, the coach again meets it ('No.') without abandoning the inquiry. Pacing is patient, silences are held, and each move builds on the previous read. The only thing missing so far is the direct diagnostic 'what are you not saying?' — but the coach is clearly on the path toward it and hasn't skipped a step.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Oblique entry — neither accepts nor challenges the 'we're fine' report; opens an angle.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Moves to body/sensation rather than story; appropriate sequencing toward feeling.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Precise distinction ('releasing vs. putting down') offered at a receivable moment; gets the first flicker.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the micro-signal and names it directly — the move follows the noticing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meets resistance with 'okay' ('I believe you'), then pivots angle rather than repeating the same move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Hypothetical opens the imaginal space without prescribing; well-timed after client landed on 'even.'\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"When client gets defensive, coach disarms ('No.') and stays with the inquiry rather than retreating or escalating.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"the-happiness-filter\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\"],\n  \"notes\": \"Conversation is mid-arc; the diagnostic 'what are you not saying?' has not been asked yet but the path is clearly building toward it. Scored on moves made so far.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1803,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1011,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1803,
+    "output_tokens": 1011,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

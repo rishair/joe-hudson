@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:21.752Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "379e60f2eda1a2bf5a872d757ec92d2991056da1988f1f33a8fd0c3538e0932a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Uev84BFvUGycxpzg5WaG1D",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean -- I don't know, I'd just -- I'd lose focus and then nothing would get done and then the presentation would be bad and then --\n\n*stops*\n\nI just need to get through Thursday. If I can get through Thursday it'll be fine."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 181,
+      "cache_creation_input_tokens": 281,
+      "cache_read_input_tokens": 2028,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 281,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 59,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 181,
+    "output_tokens": 59,
+    "cache_read_input_tokens": 2028,
+    "cache_creation_input_tokens": 281
+  }
+}

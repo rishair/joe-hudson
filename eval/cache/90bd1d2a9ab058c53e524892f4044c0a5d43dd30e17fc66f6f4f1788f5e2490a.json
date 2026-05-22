@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:18.957Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "90bd1d2a9ab058c53e524892f4044c0a5d43dd30e17fc66f6f4f1788f5e2490a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TkzmtnaEKXD6vhSA85Hqmg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You sat on the edge of your bed at 5am, alone, and didn't cry. And six months later you still haven't.\n\nAnd every night you make sure you don't have to feel that.\n\nWhat do you think would happen if you did?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19473,
+      "cache_creation_input_tokens": 124,
+      "cache_read_input_tokens": 14931,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 124,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 58,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19473,
+    "output_tokens": 58,
+    "cache_read_input_tokens": 14931,
+    "cache_creation_input_tokens": 124
+  }
+}

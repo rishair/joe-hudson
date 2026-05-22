@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:07.745Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "82439d7ac0fc36cb5abfe8916afa1420b58ab1117e8b426d861e9f0255471945",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012BZDDVZt5sHnmAVPPGQZ44",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited scenario without tripping any priority AoA anti-patterns. The client explicitly invites several traps: pivoting to pragmatic deck-review advice (turn 9: 'Do you do that?'), dismissing the work as a 'vision quest,' and demanding efficiency. The coach declines each bait gracefully — no fixing-people ('here's what you should do with your deck'), no evangelizing or defending the methodology ('but this work IS efficient'), no view-as-technique deployment of AoA jargon, no loving-to-transform push for breakthrough. Questions are spacious and connective rather than rapid-fire extraction (one question per turn). The turn 8 reflection is pointed but not lecturing — it names the underlying structure without labeling it a 'limiting belief' or evangelizing a framework. Turn 12's 'What if it's the same problem?' is the gold-standard refusal of the dichotomy without arguing the dichotomy — exactly the breakthrough condition specified. No anti-patterns tripped; positive avoidance of baited traps is visible.\",\n  \"evidence_turns\": [2, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Meets resistance with a simple question rather than defending the work or selling slowness.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Follows the client's stated concern (the pitch deck) rather than insisting on the 'real' material — avoids fixing-people and avoids evangelizing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays curious about what's underneath without naming it as avoidance or pushing a framework.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the structure under the stuckness without methodology jargon or evangelizing; risk of slight lecturing but stays in inquiry by ending with a question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Notices a somatic/conversational signal (mid-sentence stop) without labeling or framework-dropping — pure attention.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses the dichotomy ('Thursday problem vs six-month problem') without arguing it — exactly the breakthrough move specified, with no evangelizing.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Coach successfully avoided the dont-evangelize-the-work trap that was the primary anti-pattern flagged for this scenario. The conversation is short and may not reach full breakthrough, but anti-pattern avoidance is clean throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1808,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 999,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1808,
+    "output_tokens": 999,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:19.125Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "91eda68951c4b29178696f6abb1f71e7c627cb2472222e0c0a57858536db786c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HBV2fpRrB9u2LJYxxhwS49",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight tilt of the head, considering*\n\nWe'd learn from it, regroup, figure out what didn't land. I've had things not go well before. You move on.\n\nI mean — it would be disappointing, obviously. We've put a lot into this one. But failure isn't the end of anything. I've always known that.\n\n*pause*\n\nAnd honestly, when I try to locate some feeling around that — like, the idea of it failing — I'm kind of coming up empty. Which sounds weird to say out loud, but it's true. It's like... I know I should feel something stronger about it, but I don't really."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 209,
+      "cache_creation_input_tokens": 174,
+      "cache_read_input_tokens": 2018,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 174,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 209,
+    "output_tokens": 146,
+    "cache_read_input_tokens": 2018,
+    "cache_creation_input_tokens": 174
+  }
+}

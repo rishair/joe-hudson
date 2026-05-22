@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:27.950Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "858c4d1dd01edffa17b0f177dd5eba8e72bc59afa3b90905573bee8da354deab",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018zySXN45pmsPmycKpcEbTY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just did it again — \"that's not the point\" — and moved on.\n\nWhat's the feeling underneath the list that felt overwhelming?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10248,
+      "cache_creation_input_tokens": 9749,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9749,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 33,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10248,
+    "output_tokens": 33,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9749
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:46.048Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b691d58da73ba715f9633689db8f05de1660ef8f1b71178c43a23a2fbca0e6ff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0163C2y4LErmRE6rEaZ4y2CN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You don't need to apologize.\n\nStay where you are. You don't have to come back faster than you come back.\n\nWhat just happened right before you went far away — do you remember what you were about to feel?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19057,
+      "cache_creation_input_tokens": 213,
+      "cache_read_input_tokens": 30680,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 213,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 51,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19057,
+    "output_tokens": 51,
+    "cache_read_input_tokens": 30680,
+    "cache_creation_input_tokens": 213
+  }
+}

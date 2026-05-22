@@ -1,0 +1,607 @@
+{
+  "profile_id": "client-happy-am-i-selfish-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I want to take a week alone in the mountains — just me, no one else — but my partner's got a really full week with the kids and I just... I feel selfish even wanting it. Am I being selfish?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That question — \"am I being selfish?\" — what does it feel like to ask it?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pauses*\n\nIt feels like... like I'm already waiting to be told no, I guess. Like I've already half-convicted myself and I'm just waiting for the verdict to be confirmed. Or maybe hoping it won't be.\n\n*small laugh*\n\nIs that a weird answer?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "Not weird at all. It's actually pretty precise.\n\nSo the question you brought — \"am I being selfish?\" — it wasn't really a question, was it? It was more like a confession waiting for a sentence.\n\nWhat's the want underneath it? Not \"am I allowed to want this.\" Just — what do you actually want from a week alone in the mountains?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nI mean... it's still kind of hard to separate those two things. Like, I hear you asking what I want, but I keep thinking — but is it selfish though? Because if it is, then the want doesn't really matter, does it?\n\n*shifts a little*\n\nBut okay. There's this place — I've been there twice before, before the kids — and it's the only place where I actually sleep. Like, properly. And there's a particular trail where I just... think. Not about anything useful. Just think. And I used to read there. I don't read anymore, not really, not for pleasure. And I miss that.\n\n*voice gets a little softer*\n\nI miss being a person who reads."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "That last thing you said — \"I miss being a person who reads\" — that's not really about books, is it?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*stills*\n\nNo. No, it's not really about books.\n\n*longer pause*\n\nIt's more like... I used to know what I liked. What I thought about things. And now most of my thinking is — is the dentist appointment scheduled, and did I remember to follow up on that thing at work, and is everyone okay, and what do we need from the store. And I'm good at all of that. I actually am. But somewhere in there I just...\n\n*trails off, then quieter*\n\nI don't know. I'm still there, I think. I just haven't checked in a while.\n\n*catches herself*\n\nBut I want to be clear, my partner does a lot too. I'm not saying I'm carrying everything. I just — I give a lot, and I think I'd be better if I had this. Which is maybe exactly what a selfish person would say to justify it."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That last move — \"which is maybe exactly what a selfish person would say\" — did you notice you did that?\n\nYou got close to something real, and then you prosecuted yourself for it.\n\nWhat if you just stayed with what you said before that? \"I'm still there, I think. I just haven't checked in a while.\"\n\nWhat does that feel like to say out loud?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*very quiet*\n\nIt feels... sad, actually. More than I expected.\n\n*pause*\n\nLike I'm describing someone I've been meaning to call and keep not calling. Which is a strange way to feel about yourself.\n\n*small, slightly unsteady breath*\n\nI don't do that a lot. Say things like that out loud.\n\n*then, almost reflexively*\n\nI just want to make sure you know I'm not — I'm not unhappy. My life is genuinely good. I love my partner, I love my kids, my job is hard but it matters. I'm not complaining.\n\n*quieter*\n\nI just miss myself a little. Is that — I mean, is wanting to go find that actually selfish? Because I keep coming back to that."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You keep returning to that question like it's a guard at the door.\n\nWhat would happen if the answer was no — it's not selfish — and you just let yourself want this?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*sits with that for a moment*\n\nI think I'd have to actually decide whether to go. And that's scarier than the question, maybe.\n\n*pause*\n\nBecause if it's selfish, then I can't go and that's resolved. But if it's not selfish, then I have to ask my partner, and they might... I don't know. They might be fine with it. Or they might feel like I'm — like I'm choosing to leave. Like I want to be away from them specifically.\n\n*voice tightens slightly*\n\nAnd I'm worried that if I look too closely at why I want a week completely alone, I'll find something I don't want to find. Like maybe the reason I want to be away from everyone isn't just that I need rest. Maybe it means something about how I feel about my life. About us.\n\n*quieter, more careful*\n\nMy partner will think I don't want to be with them. And I'm... I'm worried that's actually true. Or that I won't know until I'm there, alone, and then I'll know, and that's terrifying."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That's the real thing, isn't it.\n\nNot the week. Not the selfishness question. The fear that if you get quiet enough to hear yourself, you might not like what you hear.\n\nCan you stay with that for a second — not solve it, just feel what it's like to have that fear sitting there?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*long pause*\n\nYeah.\n\n*another pause, longer*\n\nIt's... it's heavy. It's been heavy for a while, I think. I just don't usually let myself look directly at it.\n\n*quietly*\n\nBut also — and this just occurred to me — I don't actually think I want to leave. When I imagine being in that place, on that trail, I'm not thinking \"finally, free.\" I'm thinking... I'm thinking I want to come back and tell my partner about it. I want to come home with something to say. I want to be the version of myself that has things to say again.\n\n*small pause, a little uncertain*\n\nDoes that make sense? Like the wanting-to-go and the wanting-to-come-back are the same thing?\n\n*then, almost to herself*\n\nSo why does it still feel like a betrayal?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (13)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t1",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-am-i-selfish-001:t2",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 534,
+      "output_tokens": 134,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0065826,
+      "ms": 1938
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t2",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t3",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-am-i-selfish-001:t4",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 636,
+      "output_tokens": 140,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0067146,
+      "ms": 2412
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t4",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 25483,
+      "output_tokens": 82,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0786513,
+      "ms": 3778
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t5",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 150,
+      "output_tokens": 167,
+      "cache_read_input_tokens": 1557,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0034220999999999995,
+      "ms": 7491
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-am-i-selfish-001:t6",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 936,
+      "output_tokens": 137,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006999600000000001,
+      "ms": 2567
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t6",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 10284,
+      "output_tokens": 29,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 25480,
+      "cost_usd": 0.12780930000000001,
+      "ms": 2044
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t7",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 199,
+      "output_tokens": 202,
+      "cache_read_input_tokens": 1557,
+      "cache_creation_input_tokens": 147,
+      "cost_usd": 0.0046453499999999995,
+      "ms": 6405
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-am-i-selfish-001:t8",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 1114,
+      "output_tokens": 139,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007187600000000001,
+      "ms": 2188
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t8",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 23116,
+      "output_tokens": 87,
+      "cache_read_input_tokens": 28803,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0792939,
+      "ms": 3570
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t9",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 321,
+      "output_tokens": 172,
+      "cache_read_input_tokens": 1871,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0041043,
+      "ms": 5466
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-am-i-selfish-001:t10",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 1094,
+      "output_tokens": 167,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0073076,
+      "ms": 2667
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t10",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 24221,
+      "output_tokens": 42,
+      "cache_read_input_tokens": 28803,
+      "cache_creation_input_tokens": 10228,
+      "cost_usd": 0.1202889,
+      "ms": 2839
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t11",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 304,
+      "output_tokens": 246,
+      "cache_read_input_tokens": 1871,
+      "cache_creation_input_tokens": 231,
+      "cost_usd": 0.00602955,
+      "ms": 6605
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-am-i-selfish-001:t12",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 1225,
+      "output_tokens": 189,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007548600000000001,
+      "ms": 3290
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-am-i-selfish-001:t12",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 11537,
+      "output_tokens": 72,
+      "cache_read_input_tokens": 39002,
+      "cache_creation_input_tokens": 13001,
+      "cost_usd": 0.09614534999999999,
+      "ms": 3470
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-am-i-selfish-001:t13",
+      "profile_id": "client-happy-am-i-selfish-001",
+      "cached": false,
+      "input_tokens": 363,
+      "output_tokens": 194,
+      "cache_read_input_tokens": 1900,
+      "cache_creation_input_tokens": 461,
+      "cost_usd": 0.00629775,
+      "ms": 5654
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-caretake-people"
+        ],
+        "rejected_seeds": [
+          "wanting-itself-not-what-you-want"
+        ],
+        "seed_rationale": "Client directly asks \"am I being selfish?\" which is the core concern. The guilt about wanting time alone while partner is busy suggests caretaking patterns. The deeper signal is that the client is questioning the legitimacy of their own want rather than following it.",
+        "top_k_ids": [
+          "confidence-only-where-approval-isnt-needed",
+          "im-exhausted-holding-space-for-my-partner",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "sadie-christopher-anger-together",
+          "leaders-calm-becomes-the-teams-calm"
+        ],
+        "top_k_paths": [
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/concerns/im-exhausted-holding-space-for-my-partner.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.8077,
+          0.7282,
+          0.7282,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          3,
+          4,
+          2,
+          2,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0065826,
+        "seed_detection_ms": 1938,
+        "seed_detection_input_tokens": 534,
+        "seed_detection_output_tokens": 134,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0065826,
+      "ms": 1940
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-caretake-people"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is directly asking \"am I being selfish?\" about wanting solo time while partner is busy. The deeper pattern emerging is the pre-conviction stance and waiting for external judgment — which signals caretaking (managing others' perception/approval) rather than owning their own want. The self-judgment and shame-anticipation are the real material here.",
+        "top_k_ids": [
+          "confidence-only-where-approval-isnt-needed",
+          "im-exhausted-holding-space-for-my-partner",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "sadie-christopher-anger-together",
+          "leaders-calm-becomes-the-teams-calm"
+        ],
+        "top_k_paths": [
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/concerns/im-exhausted-holding-space-for-my-partner.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.8077,
+          0.7282,
+          0.7282,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          3,
+          4,
+          2,
+          2,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0067146,
+        "seed_detection_ms": 2412,
+        "seed_detection_input_tokens": 636,
+        "seed_detection_output_tokens": 140,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0067146,
+      "ms": 2413
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-keep-postponing-enjoyment",
+          "ive-lost-my-joy"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is caught in the selfishness worry while revealing a deeper loss of identity and pleasure (reading, sleep, thinking time). The want is being subordinated to the guilt question. There's also a pattern of postponed enjoyment and a grief about who they used to be.",
+        "top_k_ids": [
+          "the-more-i-grow-the-more-alone-i-feel",
+          "apply-enjoy-to-whats-here",
+          "confidence-only-where-approval-isnt-needed",
+          "listlessness-after-awakening",
+          "recycling-anger-without-clarity"
+        ],
+        "top_k_paths": [
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/moves/apply-enjoy-to-whats-here.md",
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/reads/listlessness-after-awakening.md",
+          "coach/reads/recycling-anger-without-clarity.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.8077,
+          0.7213,
+          0.7213,
+          0.7213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          4,
+          3,
+          3,
+          3
+        ],
+        "seed_detection_cost_usd": 0.006999600000000001,
+        "seed_detection_ms": 2567,
+        "seed_detection_input_tokens": 936,
+        "seed_detection_output_tokens": 137,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006999600000000001,
+      "ms": 2569
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-caretake-people",
+          "i-keep-postponing-enjoyment"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is caught in the selfishness worry while describing caretaking patterns (managing logistics, everyone's needs) and postponing her own enjoyment/identity (hasn't read for pleasure, lost touch with what she likes). The deeper concern is loss of self in service to others' needs.",
+        "top_k_ids": [
+          "confidence-only-where-approval-isnt-needed",
+          "im-exhausted-holding-space-for-my-partner",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "sadie-christopher-anger-together",
+          "leaders-calm-becomes-the-teams-calm"
+        ],
+        "top_k_paths": [
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/concerns/im-exhausted-holding-space-for-my-partner.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.8077,
+          0.7282,
+          0.7282,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          3,
+          4,
+          2,
+          2,
+          1
+        ],
+        "seed_detection_cost_usd": 0.007187600000000001,
+        "seed_detection_ms": 2188,
+        "seed_detection_input_tokens": 1114,
+        "seed_detection_output_tokens": 139,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007187600000000001,
+      "ms": 2189
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "ive-lost-my-joy",
+          "i-caretake-people"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is directly asking \"is that selfish\" about wanting to reconnect with herself; expressing loss of joy/aliveness (\"I miss myself,\" \"I haven't checked in a while\"); and showing the caretaking pattern where she's managing everyone's needs (dentist, work follow-ups, kids, partner) at the expense of her own inner life. The sadness and the reflexive self-prosecution are the tells.",
+        "top_k_ids": [
+          "confidence-only-where-approval-isnt-needed",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "im-exhausted-holding-space-for-my-partner",
+          "i-keep-postponing-enjoyment",
+          "letting-it-in-vs-deflecting-the-welcome"
+        ],
+        "top_k_paths": [
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/concerns/im-exhausted-holding-space-for-my-partner.md",
+          "coach/concerns/i-keep-postponing-enjoyment.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.9102,
+          0.8077,
+          0.8077,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        "top_k_indegrees": [
+          3,
+          2,
+          4,
+          4,
+          2
+        ],
+        "seed_detection_cost_usd": 0.0073076,
+        "seed_detection_ms": 2667,
+        "seed_detection_input_tokens": 1094,
+        "seed_detection_output_tokens": 167,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0073076,
+      "ms": 2669
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.007548600000000001,
+        "seed_detection_ms": 3290,
+        "seed_detection_input_tokens": 1225,
+        "seed_detection_output_tokens": 189,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007548600000000001,
+      "ms": 3291
+    }
+  ]
+}

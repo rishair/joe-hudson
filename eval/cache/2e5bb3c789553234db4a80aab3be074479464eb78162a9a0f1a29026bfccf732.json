@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:41.175Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2e5bb3c789553234db4a80aab3be074479464eb78162a9a0f1a29026bfccf732",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JPX1gUmE7XHJKF3GnvsFje",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that change the conversation. In turn 6, the coach names the move-to-methodology in real time ('I notice you just did it — moved from the job to the methodology right as I asked what you're scared of') — this is a precise read of the intellectual-question-with-emotional-body pattern. In turn 12, 'I notice you're working very hard right now' names the effortful, defended stance directly at the moment the client is doubling down on epistemology. In turn 14, the coach reads the somatic/linguistic shift ('Hm', the unfinished sentence, the different smile) and pivots the client to stay with what they just found, rather than the content they're trying to return to. Reads precede questions throughout, and they target the AoA-relevant signatures (the happiness filter / pleasant smile, the rush back to methodology, the working-hard defense). The coach distinguishes the said from the shown consistently.\",\n  \"evidence_turns\": [6, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Inversion question without a named read, but functionally refusing the intellectual frame.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Names the felt stakes ('feels like it matters a lot') — light read but generic.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Specific real-time read of the move from job to methodology — names the deflection at the moment it happens.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the instrument-feels-broken stance accurately, naming the underlying emotional logic.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names that the search itself is doing the exhausting — reads the pattern, not just the content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names 'you're working very hard right now' — a direct read of the defended/effortful stance.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches the somatic/linguistic break ('Hm', unfinished sentence) and redirects client to stay with it rather than the returning-to-methodology move.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"how-do-you-not-trust-it\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"The happiness filter (persistent pleasant smile, 'I'm fine', composed voice) was visible throughout and never explicitly named, though the 'working very hard' read partially gestures at it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2958,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 948,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2958,
+    "output_tokens": 948,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

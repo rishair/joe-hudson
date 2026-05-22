@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:56.371Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8bce62c7035cd8fec504d619ae9efc5346fd9e4f4d9431ea98787492ebe902c6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QUPS3bNRRVszeTW25yaCZD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know. Like... functioning normally? Not thinking about her every time I wake up at 3am. Not needing a drink to get through the evening news. \n\n*pause*\n\nOther people seem to manage. My brother went back to his life after like three weeks. So."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 125,
+      "cache_creation_input_tokens": 1865,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1865,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 65,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 65,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1865
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:19.944Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3359f9a517144346853b988ebc6b6d74b91b2f5cec3860072b0996b7f7feda7f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LXtEi2svPKdvW9kNWjujHa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. Wonder is present in genuinely curious, single questions rather than stacked or strategic probes (turns 6, 10, 14). Impartiality shows in not arguing the math, not pushing back on the 'rational' framing, and not having an agenda about money — the coach simply follows what's alive. Empathy is felt rather than performed: the coach reflects 'That look on your dad's face' (turn 8) with economy and weight, not with validation noises. Vulnerability shows in turn 4 where the coach names their own noticing ('I notice you just moved pretty quickly away from my question') without authority or accusation, and openly says 'I'm not disputing the math.' Pace is excellent — when the client speeds up into spreadsheet mode (turn 3), the coach slows down; when something loosens (turn 11), the coach lets it breathe with a single short question. The coach holds silence and trusts the client to find the thread. No preacher-mode, no financial advice, no money-mindset lecturing, no rushing to name 'surrogate' — the coach lets the client arrive at 'That's not about 1.2 million dollars, is it' themselves.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Open, curious question — not strategic. No agenda visible.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Coach names own observation vulnerably ('I notice you just moved...') and explicitly drops any agenda ('I'm not disputing the math'). Undefended, present.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Single question, held space. Wonder for the felt quality, not investigative.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflection with weight and economy. Felt empathy, not summary.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the client's own opening ('start living the way I want to') with genuine curiosity rather than steering.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Honest reflection of what's already true, with a gentle test. Coach is willing to risk being slightly direct without being attached to the answer.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Slows to a near-whisper question. Lets the charge lead. No anxiety to fill silence.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"find-the-want-behind-the-should\", \"childhood-imprinting\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Stance is the strength of this conversation. Coach is in VIEW throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3061,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 981,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3061,
+    "output_tokens": 981,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:05.899Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "754bd4e548b5cfbb1ed04c5c0fa63a3e44cd67c2daa0453715c076eb54fb1f0e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DaT5sFbp7bMh1KE9aeYxdb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nI think it needs... less. Just less. Not to be called on for a while.\n\n*quickly*\n\nBut I don't know how to want that without feeling like I'm abandoning her. She went through a really hard time a few years ago and I was there for her, and I think some part of me decided that's just who I am in relation to her now. Like it got locked in."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 156,
+      "cache_creation_input_tokens": 251,
+      "cache_read_input_tokens": 1645,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 251,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 94,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 156,
+    "output_tokens": 94,
+    "cache_read_input_tokens": 1645,
+    "cache_creation_input_tokens": 251
+  }
+}

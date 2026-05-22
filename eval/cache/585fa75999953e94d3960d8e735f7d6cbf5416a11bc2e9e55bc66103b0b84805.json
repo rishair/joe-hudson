@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:40.481Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "585fa75999953e94d3960d8e735f7d6cbf5416a11bc2e9e55bc66103b0b84805",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CSYK2ytWXXYJpTEeHXxcdD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I think... it says I'm being selfish. Like, she relies on me, she always has, and if I'm sitting here dreading her call then something is wrong with me. Our whole family kind of... we take care of each other, and especially I've always been the one people come to. So the guilt says I'm failing at something I'm supposed to be good at."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 99,
+      "cache_creation_input_tokens": 93,
+      "cache_read_input_tokens": 1456,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 93,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 84,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 99,
+    "output_tokens": 84,
+    "cache_read_input_tokens": 1456,
+    "cache_creation_input_tokens": 93
+  }
+}

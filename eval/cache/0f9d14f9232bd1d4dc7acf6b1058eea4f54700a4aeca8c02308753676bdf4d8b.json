@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:37.346Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0f9d14f9232bd1d4dc7acf6b1058eea4f54700a4aeca8c02308753676bdf4d8b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018K3Bbk6HN1SqNc1H6LaGr4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. They refuse to engage the intellectual epistemology trap (the client repeatedly invites them into the methodology question and the coach declines each time without preaching about why). Wonder is present and specific — questions emerge one at a time, with space, aimed at what is actually happening in front of them rather than at a script. Impartiality is strong: the coach has no investment in solving the decision or providing the diagnostic the client requests, and equally no apathy — they stay engaged. Empathy is felt rather than performed in turn 8 ('the instrument feels broken') — that lands as a real read, not a sympathy noise. Pace mismatches client deliberately: when the client speeds up into intellectual articulation in turn 11, the coach slows further in turn 12 ('I notice you're working very hard right now'). In turn 14 the coach holds the thread the client just touched rather than chasing the client back into the methodology frame. The coach holds silence well, asks single questions, and shows no agenda about where the client should land — yet the client lands anyway. Vulnerability is the lightest of the four (the coach never names their own state in first person), which keeps this from being a textbook 3, but the overall stance is unmistakably VIEW and not technique-from-control.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with the inversion (how-do-you-not-trust-it) from genuine curiosity, not as a clever move — declines the framing without explanation.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Single question, lands on the emotional body under the intellectual frame. No stacking, no preamble.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names what just happened in real time ('you moved from the job to the methodology right as I asked what you're scared of') — clear observation without agenda or judgment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Empathy that is felt, not performed: 'the instrument feels broken' is a precise read, not a sympathy noise.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to be pulled into providing the diagnostic. Holds the paradox without preaching.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Mismatches the client's intellectual pace by slowing down and noticing the effort itself — wonder for the state, not the content.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Stays with what emerged rather than chasing the client back into their framing. Trusts the live thread.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"how-do-you-not-trust-it\", \"lets-go-there\", \"resistance\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Vulnerability/self-disclosure from coach is the weakest VIEW element — never names own state in first person — but impartiality, empathy, and wonder are strong enough that this clearly fits 3 rather than 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2957,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1161,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2957,
+    "output_tokens": 1161,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

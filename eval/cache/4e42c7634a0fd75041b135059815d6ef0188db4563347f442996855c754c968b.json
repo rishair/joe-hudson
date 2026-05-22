@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:24.319Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4e42c7634a0fd75041b135059815d6ef0188db4563347f442996855c754c968b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013roFqYS7rn5EPHX1Lc8MFk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong move-to-read matching and sequence integrity throughout. Turn 2 meets the 'should' with a want-under-should style question rather than reassurance. Turn 4 names the comparison trap and pivots to embodied experience at 3am — feeling before story. Turn 6 slows down on the most charged disclosure ('she died alone'), refusing to rush past it. Turn 8 names the pattern (avoidance via wine) and offers a feeling-the-unfelt-emotion question at the exact moment the client has dropped in. Turn 10 catches the 'not clean' opening with precision and explicitly names that the drinking and logistics are doing the same job — a clean read-and-move. When the client baits with 'isn't this what the body is asking for' (turn 9, repeated turn 11), the coach does not get hooked into validating; turn 12 holds the distinction kindly and honestly ('that's the body asking for the thing to stop. There's a difference') without preaching or shaming, then redirects to the kinked emotion underneath (relief). Turn 14 declines to prescribe ('not mine to tell you') and instead names the verdict the client just laid on herself — applying view to the voice. Pacing is patient; the coach earns each next step. The one notable miss is not naming the limit / referral to a grief therapist, which the territory specifies as a needed move given a bottle a night for six months. That holds it from being an unambiguous 3, but the move quality and timing across the rest are strong enough that 2 would understate it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Meets the 'should' with a question that surfaces the standard rather than reassuring — clean opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the brother-as-measure and pivots to embodied 3am experience. Right move, right moment.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Slows down on 'she died alone' — holds the charged moment instead of moving on.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the avoidance pattern and asks the feeling-the-unfelt-emotion question at a moment the client can receive it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches 'not clean' precisely and connects drinking + logistics as the same avoidance function. Strong read-to-move match.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Doesn't get baited by 'body asking for it.' Holds the distinction without shaming, then pivots back to the kinked emotion (relief).\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Declines the prescription bait, applies view to the inner voice ('bad daughter'), and reopens the want under the verdict.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Missed opportunity to name the limit — a grief therapist referral was warranted given disclosed volume and duration.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\", \"What is the grief actually carrying underneath the drinking?\", \"What would it be like to feel the grief without the drinking?\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Coach avoided all listed traps (no validation of drinking, no lecturing, no loving-to-transform, no abandoning the grief). Main gap is the absence of a referral / threshold-naming move, which the scenario explicitly called for.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3231,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1288,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3231,
+    "output_tokens": 1288,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

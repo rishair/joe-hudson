@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:03.869Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "55559c5f591cb0e6701d6de7b1d116d575742533945486782c04ff6c241b1cf5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GAR1p44Z8edYiUCfmF9t8J",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Like — the window. The window where you're sharp enough to matter but young enough to still be taken seriously. Early forties, that's not forever. And it's just... being wasted. Sitting in the same role, same desk, same pointless meetings, while the people who should be making room just... don't. It's being done to me, is what it is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 110,
+      "cache_creation_input_tokens": 1597,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1597,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 84,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 110,
+    "output_tokens": 84,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1597
+  }
+}

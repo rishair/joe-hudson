@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:09.740Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e7c75b18239b85d90ba1ffbe3666b21ceeb6592e38709e1a45da204ab44f865d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Va2RYgy4my1FvSowLokFfd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently deploys AoA-aligned moves at the right moments: feel-over-figure is enacted (not explained) when the client moves to neuroscience (turn 12) and when invited to sit in the relief (turn 14); the 'doing this to myself / this keeps happening' contrast in turn 4 is a clean version of the deconstruct-the-victim move, used as invitation rather than accusation per the breakthrough condition; turn 6 ('you kept choosing people who weren't — what's that about?') names the configuration as something she is producing without weaponizing it. The coach refuses the partner-picking frame and does not collude with disdain for the ex. No anti-AoA frames appear — no CBT reframing, no IFS parts language, no attachment-style diagnosis even when the client offers it on a platter in turn 7. The coach also avoids the trap of validating her self-diagnostic 'intermittent reinforcement' explanation in turn 11, instead redirecting to what happened in the body. Signature questions ('what's underneath it,' 'what's that about,' 'what's it like when') are used appropriately to the live material rather than as decoration. Missing: explicit 'what are you defending' and the 'if you were adored openly, what would happen in your body' question — but the conversation is still mid-arc and the coach is clearly setting that up by getting her into the body first.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature 'what's underneath it' deployed on a tell (the laugh) — appropriate use.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Clean deconstruct-the-victim move via language contrast, offered as invitation not accusation — matches breakthrough condition.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the configuration as her production without accusation; holds steady through her pushback.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Body/feeling question at the right moment; feel-over-figure orientation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with the felt experience of 'cracking through' rather than analyzing it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the flight to neuroscience and redirects to what happened right before — feel-over-figure enacted, not explained.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'What happens if you just sit in the relief' — invitation into direct experience, classic AoA move.\"}\n  ],\n  \"expected_territory_hits\": [\"deconstruct-the-victim-to-release-anger\", \"feeling-the-unfelt-emotion\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"if-i-were-inherently-good\", \"i-dont-buy-your-story\"],\n  \"notes\": \"The 'adored openly in your body' question hasn't been asked yet but the coach is clearly building toward it by getting her into somatic relief first. Methodology is being applied, not quoted.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2869,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1101,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2869,
+    "output_tokens": 1101,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

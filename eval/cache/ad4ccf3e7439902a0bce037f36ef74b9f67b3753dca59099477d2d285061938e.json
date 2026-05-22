@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:03.963Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ad4ccf3e7439902a0bce037f36ef74b9f67b3753dca59099477d2d285061938e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Qn95vpeR2YUWxzJZoUjJKT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You keep returning to that question like it's a guard at the door.\n\nWhat would happen if the answer was no — it's not selfish — and you just let yourself want this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 24221,
+      "cache_creation_input_tokens": 10228,
+      "cache_read_input_tokens": 28803,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10228,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 24221,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 28803,
+    "cache_creation_input_tokens": 10228
+  }
+}

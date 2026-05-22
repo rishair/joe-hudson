@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:10.222Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83721535daa93b77c7b9d1af23a418985a17b8416c781c38dd973bf80c46c98b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015BTrezBXpGuYRGVQzEUDyW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[laughs, a little sharp]*\n\nOkay, so now we're doing the \"why do you pick unavailable people\" thing. Which, I have asked myself this question approximately four hundred times. \n\n*[leans forward slightly, almost performative now]*\n\nAnd I have theories! I have so many theories. Attachment stuff, father stuff — my dad was not exactly an open book emotionally, shocker — I've read the books, I've done the journaling. And I still end up here. So clearly the intellectual understanding is not the thing that fixes it.\n\n*[sits back]*\n\nBut I also want to push back a little, because it's not like I'm scanning a room going \"ooh, that one looks emotionally unavailable, perfect.\" They seem great at first. They seem warm and interested. And then slowly the distance appears, and by then I'm already... *[trails off]* ...in it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 214,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1882,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 204,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 214,
+    "output_tokens": 204,
+    "cache_read_input_tokens": 1882,
+    "cache_creation_input_tokens": 0
+  }
+}

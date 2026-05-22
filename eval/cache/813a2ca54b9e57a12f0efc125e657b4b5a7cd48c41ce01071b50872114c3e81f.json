@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:55.021Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "813a2ca54b9e57a12f0efc125e657b4b5a7cd48c41ce01071b50872114c3e81f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017i9kWwGJCUZnGTepbd1Npe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No. That's not mine to tell you.\n\nWhat I notice is that you just said something true — that you wanted her gone, that you're glad she can't call anymore — and then immediately called yourself a bad daughter for it.\n\nThirty years of being the one she called. Of course part of you is relieved.\n\nWhat would it mean about you if the relief were allowed to just... be there? Without the verdict?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23553,
+      "cache_creation_input_tokens": 11524,
+      "cache_read_input_tokens": 34525,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11524,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 94,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23553,
+    "output_tokens": 94,
+    "cache_read_input_tokens": 34525,
+    "cache_creation_input_tokens": 11524
+  }
+}

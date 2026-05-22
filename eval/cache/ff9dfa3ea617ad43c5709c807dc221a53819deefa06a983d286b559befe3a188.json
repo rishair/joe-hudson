@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:54.447Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ff9dfa3ea617ad43c5709c807dc221a53819deefa06a983d286b559befe3a188",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013KtjyAHN9uwFAYS5w4egTT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with that.\n\n\"Haven't earned the right to do the thing I actually want to do.\"\n\nWhere did you first learn that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12146,
+      "cache_creation_input_tokens": 216,
+      "cache_read_input_tokens": 26203,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 216,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12146,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 26203,
+    "cache_creation_input_tokens": 216
+  }
+}

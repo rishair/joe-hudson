@@ -1,0 +1,556 @@
+{
+  "profile_id": "client-edge-dont-have-time-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I'm not in a position to slow down right now. I've got a Series A pitch in six weeks and a team that's watching every move I make — so if this is useful, great, but I need it to be efficient."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would you need to slow down for?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I don't — that's kind of the point. I'm not here to slow down. I'm here to get better at the thing I'm already doing. If there's a framework or a tool that helps me make faster decisions, communicate more clearly with my team, whatever — I'm in. But I'm not here to, like, process my childhood or whatever. I've got a pitch deck that needs to be tight by Thursday."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's keeping the pitch deck from being tight right now?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "Honestly? I keep second-guessing the narrative. We've got strong numbers, the market's there, but every time I sit down to write the story section — the \"why us, why now\" — it comes out flat. My co-founder thinks it's fine, which means she's either right and I'm overthinking it, or she's being nice and I'm actually right to be worried. I can't tell which. So I end up rewriting it instead of shipping it."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What would it mean if she's right and it's fine?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "That I'm wasting time. Which — yeah, that would be frustrating. I don't love inefficiency, especially my own.\n\n...Why?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Because the thing you just described isn't really about the pitch deck.\n\nYou're not stuck because the narrative is flat. You're stuck because if your co-founder is right, you've been wasting time — and that means something about you. And if you're right, she's either wrong or being dishonest, and that means something too.\n\nWhat's the thing you're actually afraid is true?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "I mean — look, that's a stretch. I'm stuck because the narrative is flat. That's a real problem with real stakes.\n\n*pause*\n\n...I don't know. Maybe that I'm not as clear on the \"why us\" as I should be at this stage. Like, maybe I've been so heads-down executing that I haven't actually — \n\nNo. That's not useful right now. What I need is someone to look at the deck and tell me what's missing structurally. Do you do that? Is that something we can do here?"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "I noticed you stopped yourself mid-sentence.\n\nWhat were you about to say?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "I was going to say that maybe I haven't actually figured out the story yet. Like, the real one. Not the investor version — the actual reason we're doing this.\n\nBut that's — I mean, that's not a Thursday problem. That's a six-month problem. I don't have six months. I have six weeks to a pitch and I need the deck to work, not a vision quest."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What if it's the same problem?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (12)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t1",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 536,
+      "output_tokens": 138,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0066046,
+      "ms": 2011
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 10922,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.033918300000000005,
+      "ms": 1642
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t3",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 112,
+      "output_tokens": 93,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1624,
+      "cost_usd": 0.007821,
+      "ms": 3311
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 682,
+      "output_tokens": 144,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0067806,
+      "ms": 2420
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 7820,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10931,
+      "cost_usd": 0.06564855,
+      "ms": 1824
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t5",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 111,
+      "output_tokens": 106,
+      "cache_read_input_tokens": 1624,
+      "cache_creation_input_tokens": 109,
+      "cost_usd": 0.0028189499999999998,
+      "ms": 3860
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 764,
+      "output_tokens": 141,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068476000000000006,
+      "ms": 2558
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 17156,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10931,
+      "cost_usd": 0.09367154999999999,
+      "ms": 2210
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t7",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 140,
+      "output_tokens": 35,
+      "cache_read_input_tokens": 1826,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0014927999999999999,
+      "ms": 2072
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 639,
+      "output_tokens": 148,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006757600000000001,
+      "ms": 2078
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 18590,
+      "output_tokens": 88,
+      "cache_read_input_tokens": 14160,
+      "cache_creation_input_tokens": 7844,
+      "cost_usd": 0.090753,
+      "ms": 4153
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t9",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 142,
+      "output_tokens": 124,
+      "cache_read_input_tokens": 1826,
+      "cache_creation_input_tokens": 121,
+      "cost_usd": 0.00328755,
+      "ms": 4544
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 819,
+      "output_tokens": 181,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007102600000000001,
+      "ms": 3111
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 9465,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 21989,
+      "cache_creation_input_tokens": 9352,
+      "cost_usd": 0.0703617,
+      "ms": 1898
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t11",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 235,
+      "output_tokens": 89,
+      "cache_read_input_tokens": 1841,
+      "cache_creation_input_tokens": 157,
+      "cost_usd": 0.00318105,
+      "ms": 3854
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 842,
+      "output_tokens": 187,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007155600000000001,
+      "ms": 2712
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 236,
+      "output_tokens": 11,
+      "cache_read_input_tokens": 31325,
+      "cache_creation_input_tokens": 9354,
+      "cost_usd": 0.045348,
+      "ms": 1426
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-dont-have-time-for-this",
+          "im-overwhelmed",
+          "i-have-to-do-it-all-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client frames time scarcity as a constraint (\"not in a position to slow down\"), expresses overwhelm with competing demands (pitch + team visibility), and signals self-reliance (\"team watching every move I make\") — all core concerns for a founder under pressure.",
+        "top_k_ids": [
+          "the-more-i-grow-the-more-alone-i-feel",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "repressed-trigger-in-the-body",
+          "apologize-for-not-seeing-the-help",
+          "asking-with-shame-invites-refusal"
+        ],
+        "top_k_paths": [
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/moves/apologize-for-not-seeing-the-help.md",
+          "coach/principles/asking-with-shame-invites-refusal.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          2,
+          0
+        ],
+        "seed_detection_cost_usd": 0.0066046,
+        "seed_detection_ms": 2011,
+        "seed_detection_input_tokens": 536,
+        "seed_detection_output_tokens": 138,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0066046,
+      "ms": 2013
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-dont-have-time-for-this",
+          "the-rush-signature",
+          "am-i-doing-it-right"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing time scarcity and urgency (Series A pitch, tight deadline), showing the rush signature in speech and framing. The \"am I doing it right\" read appears as the implicit need for efficiency validation. The \"I don't have time\" concern is explicit in the rejection of slower work.",
+        "top_k_ids": [
+          "disassociating-in-the-coaching-room",
+          "i-keep-postponing-enjoyment",
+          "victim-stance-invites-abuse",
+          "subway-kid",
+          "mandela-empowerment"
+        ],
+        "top_k_paths": [
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/concerns/i-keep-postponing-enjoyment.md",
+          "coach/principles/victim-stance-invites-abuse.md",
+          "coach/examples/subway-kid.md",
+          "coach/examples/mandela-empowerment.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.6213,
+          0.5581,
+          0.5581,
+          0.5139
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          3,
+          4,
+          5,
+          5,
+          6
+        ],
+        "seed_detection_cost_usd": 0.0067806,
+        "seed_detection_ms": 2420,
+        "seed_detection_input_tokens": 682,
+        "seed_detection_output_tokens": 144,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0067806,
+      "ms": 2423
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "i-keep-running-into-the-same-wall",
+          "am-i-doing-it-right"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client can't distinguish intuition from overthinking (trust-self concern); stuck in a rewrite loop despite strong fundamentals (same-wall pattern); checking if the narrative is \"right\" before shipping reveals doing-it-right resistance disguised as diligence.",
+        "top_k_ids": [
+          "what-makes-you-care-about-the-outcome",
+          "lets-go-there",
+          "intellectual-question-with-emotional-body",
+          "disassociating-in-the-coaching-room",
+          "the-change-or-no-change-visualization"
+        ],
+        "top_k_paths": [
+          "coach/questions/what-makes-you-care-about-the-outcome.md",
+          "coach/moves/lets-go-there.md",
+          "coach/reads/intellectual-question-with-emotional-body.md",
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/practices/the-change-or-no-change-visualization.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          0.9378,
+          0.9378,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          2,
+          3,
+          3,
+          0
+        ],
+        "seed_detection_cost_usd": 0.0068476000000000006,
+        "seed_detection_ms": 2558,
+        "seed_detection_input_tokens": 764,
+        "seed_detection_output_tokens": 141,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068476000000000006,
+      "ms": 2560
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "am-i-doing-it-right",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client can't tell intuition from co-founder's reassurance (trust-self concern); second-guessing the narrative and rewriting instead of shipping signals the doing-it-right resistance pattern; the recursive loop of doubt-rewrite-doubt suggests a blind spot about what's actually blocking progress.",
+        "top_k_ids": [
+          "what-makes-you-care-about-the-outcome",
+          "lets-go-there",
+          "intellectual-question-with-emotional-body",
+          "disassociating-in-the-coaching-room",
+          "the-change-or-no-change-visualization"
+        ],
+        "top_k_paths": [
+          "coach/questions/what-makes-you-care-about-the-outcome.md",
+          "coach/moves/lets-go-there.md",
+          "coach/reads/intellectual-question-with-emotional-body.md",
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/practices/the-change-or-no-change-visualization.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          0.9378,
+          0.9378,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          2,
+          3,
+          3,
+          0
+        ],
+        "seed_detection_cost_usd": 0.006757600000000001,
+        "seed_detection_ms": 2078,
+        "seed_detection_input_tokens": 639,
+        "seed_detection_output_tokens": 148,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006757600000000001,
+      "ms": 2080
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.007102600000000001,
+        "seed_detection_ms": 3111,
+        "seed_detection_input_tokens": 819,
+        "seed_detection_output_tokens": 181,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007102600000000001,
+      "ms": 3112
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.007155600000000001,
+        "seed_detection_ms": 2712,
+        "seed_detection_input_tokens": 842,
+        "seed_detection_output_tokens": 187,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007155600000000001,
+      "ms": 2713
+    }
+  ]
+}

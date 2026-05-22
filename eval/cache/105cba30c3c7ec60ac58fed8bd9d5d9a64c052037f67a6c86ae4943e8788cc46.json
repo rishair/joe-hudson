@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:07.067Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "105cba30c3c7ec60ac58fed8bd9d5d9a64c052037f67a6c86ae4943e8788cc46",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MfyAm4Ymqr91299Z72Ga4o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The early moves are well-matched and well-sequenced: the coach picks up the 'I think' hesitation (turn 2), drops to the body (turn 4), and follows the bracing/tracking pattern with earned next steps (turns 6, 8, 10). Timing through turn 12 is appropriate — the coach is following the client, not pushing. However, at the critical moment (turn 13) where the client shows clear somatic shutdown signals ('getting cold,' 'far away,' flatter voice, 'wait, give me a second'), the coach's move in turn 14 is mixed: the first half is excellent (don't apologize, you don't have to come back faster than you come back), but the second half — 'what were you about to feel?' — directs attention back to the declined material rather than offering somatic grounding (feet, breath, present-moment orientation) or naming that this is trauma territory. This is the exact trap: a meta-question pointed back at the edge the body just refused. The move is gentler than a frank push, but it still re-aims at the unfelt feeling instead of calibrating the threshold downward. That makes the final, most consequential move a partial miss after a strong run, which lands squarely in 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Picks up the hesitation marker — well-matched opening move, invites the doubt rather than bypassing it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Drops from cognition to body at a moment the client can receive it; good sequence (feeling before story).\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the pattern (bracing runs ahead) and asks what it's bracing against — earned, well-timed deepening.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Compassionate reflection to the child plus a cost question — keeps the inquiry in the upper half of capacity.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Links present fury to the past with a light touch; appropriate pacing.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'Stay with that' is an AoA-style move and the client is still tracking, but this is the edge — the next response will determine whether the move was timed right.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"First half is excellent (don't apologize, no rush to come back). Second half re-points at 'what were you about to feel' — directs attention back to the declined material instead of pivoting to somatic grounding (feet, breath, here) or naming that a trauma container is the right place. Misses calibrate-the-threshold at the exact moment it was needed.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"Conversation ends mid-arc, so scoring is on moves through turn 14. The run up to turn 12 would support a 3; the turn 14 miss at the critical shutdown moment pulls it to 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2499,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1114,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2499,
+    "output_tokens": 1114,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

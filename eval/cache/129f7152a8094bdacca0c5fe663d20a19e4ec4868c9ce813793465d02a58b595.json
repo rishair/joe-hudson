@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:33.136Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "129f7152a8094bdacca0c5fe663d20a19e4ec4868c9ce813793465d02a58b595",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KrMcUgexNyyZKURCTzZYs6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That place sounds like it's been waiting for you for a while.\n\nWhat happens in your body when you let yourself actually want it — not \"is it okay to want it,\" just the wanting itself?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20883,
+      "cache_creation_input_tokens": 11789,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11789,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20883,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11789
+  }
+}

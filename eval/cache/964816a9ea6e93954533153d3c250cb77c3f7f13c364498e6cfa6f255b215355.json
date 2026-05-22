@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:22.899Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "964816a9ea6e93954533153d3c250cb77c3f7f13c364498e6cfa6f255b215355",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AARGbVURCYkf5GtujzKFAb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What about if it succeeded?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 311,
+      "cache_creation_input_tokens": 8636,
+      "cache_read_input_tokens": 23420,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8636,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 9,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 311,
+    "output_tokens": 9,
+    "cache_read_input_tokens": 23420,
+    "cache_creation_input_tokens": 8636
+  }
+}

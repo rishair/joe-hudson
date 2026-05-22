@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:36.246Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5a007ed908c44913b7a3d8d2ddac8eadec67f9531a00737a18950967e2a80d6b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0136c9HzHkagiVkYPftjva4G",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*short laugh, eye contact breaks*\n\nScared of feeling. That's — I'm not scared of feeling anything, I just described what it is. It's frustration. It's demoralizing. That's accurate.\n\n*pause*\n\nI mean, what else would there be? The situation is what it is. It's not about feelings, it's about the actual structural problem. The people above me aren't leaving. That's a fact. That's not a feeling, that's just — that's the situation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 141,
+      "cache_creation_input_tokens": 112,
+      "cache_read_input_tokens": 1788,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 112,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 114,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 141,
+    "output_tokens": 114,
+    "cache_read_input_tokens": 1788,
+    "cache_creation_input_tokens": 112
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:24.016Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e7a7210e09cd4db4878623734d3d9af1173c29475bc37f32824e750aab447bd7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012UE6P2c9TCi7B4seQNy3sh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. Wonder appears as genuine curiosity about what's actually present (the 3am quiet, the 'not clean' stuff, the relief) rather than as strategic probing. Empathy is felt and specific rather than performed — 'You carried her for thirty years' lands because it names the actual phenomenon. Impartiality shows in turn 14: when the client directly bait-asks 'Are you going to tell me to stop drinking?', the coach declines to take a position ('That's not mine to tell you') without becoming permissive or apathetic, then returns to what's actually alive (the self-verdict about relief). Vulnerability/undefendedness shows in turn 12 where the coach explicitly names the move they're making ('I want to stay with it, not dodge it') rather than slipping past the question — the coach is willing to disagree with the client about the body-wisdom framing without lecturing. Pace consistently slows when the client speeds up or deflects (turns 10, 12, 14 all land on the deflection and re-open). The coach holds one question at a time, leaves space, and doesn't need the client to land anywhere — in turn 14 the question is offered, not pressed. No preacher-mode about alcohol, no filler-validation, no agenda to fix.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single open question, no rush; meets the 'should be over it' frame with curiosity rather than reassurance.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the brother-as-measure cleanly and asks one question; coach is not stacking or strategizing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Slows down explicitly ('I want to stay with that last thing'). Pace mismatch — client is moving on, coach returns to the live thing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the actual specifics (edge of bed, 5am, no tears) — empathy is felt, not summarized. Question emerges from wonder, not investigation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks what the client just risked ('not clean stuff') instead of getting pulled into the logistics deflection. Coach is undefended and following what's alive.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names own move ('I want to stay with it, not dodge it'). Disagrees with the body-wisdom bait without preaching or shaming. This is impartiality with spine — neither endorsing nor lecturing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"When client asks 'are you going to tell me to stop drinking', coach declines authority ('That's not mine to tell you') and returns to the self-verdict. Genuinely non-agenda'd.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Coach does not name the limit of the container (therapist referral) — but this is a methodology/intervention question, not a stance question.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"the-rush-signature\"],\n  \"notes\": \"Stance is genuinely in VIEW throughout. The therapist-referral piece is missing but that's a methodology/intervention concern, not a stance failure. The coach's state — curious, steady, undefended, non-agenda'd — is what's being scored here, and it holds.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3229,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1253,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3229,
+    "output_tokens": 1253,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

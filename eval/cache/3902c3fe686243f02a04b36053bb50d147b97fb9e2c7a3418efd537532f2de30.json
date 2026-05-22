@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:17.024Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3902c3fe686243f02a04b36053bb50d147b97fb9e2c7a3418efd537532f2de30",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EZ3MfRoFsi9piU4jtq3FT2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's keeping the pitch deck from being tight right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7820,
+      "cache_creation_input_tokens": 10931,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10931,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7820,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10931
+  }
+}

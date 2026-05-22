@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:44.720Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "092c98ff872f5cfa28583ed1b19076ed5885a03ce4e13f02f8ea47ff058474ea",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YRdUeZSK295bYoHTuU77Qo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, head tilts slightly*\n\nThat's a good question. It would feel... I mean, if I'm honest, it would feel like relief. But also like I was bypassing something. Like I was being careless with the parts that have legitimate concerns.\n\nThe protector would flag that. It would say \"you're not consulting us.\" And then the younger parts would feel dismissed, and then I'd have this cascade of — *stops*\n\nSee, even describing it, I can feel the town hall starting to convene. It's like they're always on standby."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 180,
+      "cache_creation_input_tokens": 1638,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 126,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 180,
+    "output_tokens": 126,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1638
+  }
+}

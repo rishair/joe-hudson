@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:45.883Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4b3c2a5da33e6335429d6c2a2eb88c56c1fff381bab0389928d21551ce843cba",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XipmLX3QevaKbpZMeGYZop",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it mean about me... I mean, it would mean I wasn't ready. That I -- that they made a mistake giving me this role. Which is -- I mean that's not going to happen, I'm going to be prepared, that's why I'm doing all this. That's the whole point of the 110%. \n\nBut I should be able to handle this, right? Like other people get promoted and they don't fall apart. I'm just -- I need a system. If I had a better system I wouldn't be in this situation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 182,
+      "cache_creation_input_tokens": 155,
+      "cache_read_input_tokens": 1870,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 155,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 182,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 1870,
+    "cache_creation_input_tokens": 155
+  }
+}

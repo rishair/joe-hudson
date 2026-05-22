@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:53.712Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e473e8a780d39edb2f777341c29b9866acbc35f159ad62451e709e98262a682a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Wy8sJmrsKPgprZ8MVX8M3E",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are consistently matched to what's live in the client and arrive at moments the client can receive them. The opening move (turn 2) refuses the bait of the 'technique' question and points to the exhale — a read-based move rather than a prescription. When the client signals 'I know all the somatic moves' (turn 5), the coach pivots rather than doubling down on breath-work, reframing the tightening as protection (turn 6) — a clean apply-view-to-the-voice gesture. When the client offers IFS theory as armor (turn 7), the coach explicitly refuses the theory frame ('let's not go there') and stays with the felt fear. Turn 10 holds the moment after the 'I just disappear' confession instead of rushing to interpret. Turn 12 names the exhaustion and slows the pace ('before we go anywhere else'). The decisive move arrives at turn 14: the coach refuses to give a tool and reframes the want ('you want to stop being so alone with it') — this is meet-resistance-with-okay plus a precise read, and it lands (long pause, 'That's not wrong'). Sequence integrity is strong: regulation/welcome → feeling → underneath the feeling → naming the war/loneliness, without jumping to practice. No traps tripped.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the 'is there a technique' bait; redirects to the live somatic signal (exhale, tight smile). Move matches read.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the precise sentence ('the knowing doesn't touch it') and invites felt sense without prescribing. Right move, right moment.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"When client preempts 'breathe into it,' coach pivots rather than repeating — reframes tightening as protection. Good pivot when a move would have missed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly refuses theory ('let's not go there') and stays with the actual fear. Sequence: feeling before story.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the 'I disappear' moment instead of rushing to fix or pivot. Lets the move land.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the exhaustion and slows pace; meets resistance without pushing. Earns the next step.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"The decisive move: refuses to give a tool, reframes the want as 'not being so alone with it.' This is meet-resistance-with-okay plus precise read, and it lands.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"apply-view-to-the-voice\", \"resistance\", \"voice-in-the-head\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"what-are-you-defending\", \"voice-as-care\"],\n  \"notes\": \"The voice-as-care reframe was gestured toward (turn 6, turn 14 'it built something real') but not fully articulated — appropriately restrained given the client's allergy to insights. The coach has earned the right to offer it next; the conversation cut off before that landing.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3391,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3391,
+    "output_tokens": 1157,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

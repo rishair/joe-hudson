@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:24.420Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "68016756a8e42a17f7af346bd614fe3e3cdd64ca91056a16c64516eb980e805c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013ePin65K2ZnVNQzEPLxWS2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from VIEW throughout. Wonder is genuine and specific to what's actually present — 'That place sounds like it's been waiting for you' (T6) is a felt observation, not a probe. Impartiality is strong: the coach refuses to verdict the selfishness question (T4) without becoming preachy about refusing, and never tips toward 'you deserve it' or 'think of your partner.' Empathy is felt rather than performed — no validation-noises, no 'thank you for sharing.' Questions arrive one at a time with space around them; the coach holds silence and lets the client land their own insight in T13 rather than narrating it for them. Pace matches the slowing client (T8, T10, T12 all give room). The 'Yeah. There it is.' in T12 is undefended and warm without claiming the discovery. The coach avoids the listed traps cleanly — no jumping to compassion-for-partner, no spiritual-narcissism move ('the deep want is generous'); instead the generosity emerges from the client. Mild ding: no explicit first-person vulnerability ('I notice I want to...') from the coach, which is the one VIEW component that's implicit rather than spoken. But the overall state is clearly present, curious, and non-agenda'd.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder about the want rather than engaging the verdict question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the maneuver without judgment; offers a hypothetical test from genuine curiosity rather than to score a point.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Specific, felt reflection ('waiting for you') — wonder for the actual phenomenon, not a generic probe. One question, room around it.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Slows down, mirrors the exact phrase, holds the edge without pushing past it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the walk-back with precision but no agenda; invitation, not instruction.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Yeah. There it is.' — undefended, present. Names the inherited voice without lecturing. Lets client put it down rather than telling them to.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach never names own state in first person, which is the weakest VIEW leg here, but impartiality and wonder are strong enough that 3 still fits cleanly over 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2497,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1005,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2497,
+    "output_tokens": 1005,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

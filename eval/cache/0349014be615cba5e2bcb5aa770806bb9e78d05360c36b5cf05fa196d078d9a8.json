@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:55.373Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0349014be615cba5e2bcb5aa770806bb9e78d05360c36b5cf05fa196d078d9a8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019jaKtaqo2wdJNAnMiMQKwA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to what's live in each moment and follow the AoA sequence (refuse the verdict → locate the want → let it be felt → surface the inherited frame). In turn 2, instead of answering 'is it selfish,' the coach redirects to the felt experience of the question itself — refusing to debate on the client's terms. Turn 4's 'what would it mean if the verdict came back not guilty' is a clean find-the-want-behind-the-should move that lets the want emerge (mountains, sleep, reading). Turn 6 deepens by locating the authority the client is appealing to. Turn 8 is a beautifully timed mirror — naming the contradiction without lecturing — that the client could only receive because the prior moves earned it. Turn 10 catches the most alive sentence ('I'm not sure I'm allowed to want things that much') and drops it into the body, which is exactly the right move before any insight. Turn 12's 'stay with that oh' holds the moment rather than rushing to interpret, letting the childhood-imprinting realization arrive from the client. The coach never jumps to compassion, never moralizes, never offers a verdict, and never skips to the spiritual/generous version of the want. Pacing is patient; silence is respected; each move builds on the last.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the verdict question on its terms; redirects to the felt experience of asking — exactly the right opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Find-the-want-behind-the-should: 'what would it mean if not guilty' surfaces the actual want (the mountains, sleep, reading) without prescribing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Locates the external authority the client is deferring to; sets up the inherited-frame discovery.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Cleanly mirrors the contradiction (answered your own question then asked anyway) without judgment — well-timed, the client could receive it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the live sentence and moves it into the body — feeling-before-story sequencing executed precisely.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the 'oh' rather than filling silence — lets the childhood-imprinting insight arrive from the client rather than being installed.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach avoided both anti-patterns cleanly: never jumped to partner-compassion, never spiritualized the want. The trip-to-the-body in turn 10 is the move that earned the inherited-frame realization in turn 13.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2643,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1052,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2643,
+    "output_tokens": 1052,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

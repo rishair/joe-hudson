@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:24.870Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "27addfdcf36b7ab0220427dc34d9e1fb29454a3656c96b08872378fb65b01a86",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015xE2RWw21SR6Z9z3JtjfVc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at appropriate moments without decoration. Turn 8 is a near-verbatim signature question ('what are you scared of feeling') deployed precisely when the client has hinted at more-than-frustration ('mostly'). Turn 10 names the defensive closure pattern — an AoA-style noticing move rather than CBT reframing or generic 'tell me more.' Turn 12 refuses to validate the trap ('No. The ceiling's real') while redirecting away from strategizing — exactly the i-dont-buy-your-story-but-warmly stance. Turn 14 is a felt-reflection that lands the loneliness underneath the complaint, working the empathize-with-fear-under-constricted-boundary move. No anti-AoA frames appear: no CBT reframe, no IFS parts, no pop-psych vocabulary, no strategizing about the boss/system, no false reassurance. The fear-triangle is implicitly worked (refusing the victim stance without collapsing it) rather than named — appropriate given the resistance level. Few framework names are spoken aloud, but the moves themselves demonstrate the underlying mechanism, which is the higher form of fidelity.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening clarifier; neither signature nor anti-AoA.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects client's own language ('being done to me') and invites felt experience — feel-over-figure orientation.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the 'mostly' tell — appropriate noticing of where the door cracked open.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Signature question 'what are you scared of feeling' deployed at the right moment after client hedged.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the closure pattern without confrontation — AoA-style noticing of defended posture.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to validate the trap ('the ceiling's real') without colluding with strategizing — exactly the i-dont-buy-your-story move done warmly.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Felt empathy for the loneliness under the complaint — empathize-with-fear-under-constricted-boundary territory.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"i-dont-buy-your-story\", \"aggressive-victim-stance\", \"fight-or-roll-over-binary\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle (not explicitly named)\", \"trappedness-feeling (not yet named directly)\"],\n  \"notes\": \"Conversation is mid-arc; some expected territory may simply not have been reached yet. Fidelity of what is present is high.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2303,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1093,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2303,
+    "output_tokens": 1093,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

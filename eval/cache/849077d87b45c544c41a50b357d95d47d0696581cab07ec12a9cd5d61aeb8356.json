@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:37.391Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "849077d87b45c544c41a50b357d95d47d0696581cab07ec12a9cd5d61aeb8356",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XRsrqB3R24TGim2j2Mxorr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That slight smile is doing some work.\n\nWhat would it feel like to just... decide about lunch?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8682,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8682,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

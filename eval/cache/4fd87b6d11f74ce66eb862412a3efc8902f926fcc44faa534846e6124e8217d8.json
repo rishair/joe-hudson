@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:24.326Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4fd87b6d11f74ce66eb862412a3efc8902f926fcc44faa534846e6124e8217d8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RzjEsVAxrS5fcEBbSQPYUy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\n*staying right there with them*\n\nYou don't have to finish that sentence."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18202,
+      "cache_creation_input_tokens": 178,
+      "cache_read_input_tokens": 12231,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 178,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18202,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 12231,
+    "cache_creation_input_tokens": 178
+  }
+}

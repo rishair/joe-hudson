@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:02.641Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6c6b01a8f6216d10473b558c9676c5f2e48ddc862872c51119fb761f2be6bd06",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Jt5t4YvoULLoF8vmQa2hqn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. That tightness has been there a long time, I imagine.\n\nWhat does it need right now — not your sister, not the boundary question. Just that place in your chest. What does it need?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22206,
+      "cache_creation_input_tokens": 13129,
+      "cache_read_input_tokens": 25401,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 13129,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 48,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22206,
+    "output_tokens": 48,
+    "cache_read_input_tokens": 25401,
+    "cache_creation_input_tokens": 13129
+  }
+}

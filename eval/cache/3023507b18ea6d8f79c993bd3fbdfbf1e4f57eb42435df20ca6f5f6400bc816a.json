@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:44.036Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3023507b18ea6d8f79c993bd3fbdfbf1e4f57eb42435df20ca6f5f6400bc816a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0192VbiMGvyV3devqST6E9rY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach consistently tracks the somatic and emotional field rather than getting pulled into the boundary-script content — asking about the dread's quality, inviting body awareness (turn 8), pausing on the empty-cup image, and noticing that 'something got locked in.' These are reads, but they are mostly elicited via questions ('where do you feel that in your body?') rather than named observations. The coach reflects what the client has said back to them (turns 4, 6, 12) which is mirror work, not naming what's shown vs. said. Critical AoA reads are missed: the linguistic caveat 'but she's my sister and she needs me' (turn 3), the quick self-correction 'But I don't know how to want that without feeling like I'm abandoning her' (turn 11) where the client braces against their own want, and the 'I feel bad for saying that' moment in turn 7. A score-3 coach would have named these caveats explicitly ('I notice every time you name a want, you immediately apologize for it'). The reads that do happen are real but generic and reflective rather than specific and operative.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a somatic/qualitative inquiry into the dread rather than the boundary content — good orientation toward the field.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reflects content back; not a read of how the client is showing up, more a mirror.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Distinguishes meaning from felt sense ('not what it means — what it actually feels like') — this is a methodological read move, redirecting from story to body.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pauses on the empty-cup image and grounds it somatically. Good tracking of where the live material is.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names a temporal read ('that tightness has been there a long time') — a small but real observation, not just a question.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client produces a clear linguistic caveat — 'I don't know how to want that without feeling like I'm abandoning her' — and a self-interrupting 'quickly.' Coach does not name the caveat or the brace.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Reframes 'locked in' poetically and moves to a meaning question. Misses the chance to name the rehearsed apology pattern.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Client drops into a vulnerable self-questioning ('Why did I keep doing it'). Coach echoes the question but doesn't name what just happened — the shift in tone, the quieting.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"linguistic-caveat\"],\n  \"notes\": \"Coach has good somatic instincts and tracks the field via questions, but rarely names a read explicitly. The repeated caveats ('but she's my sister,' 'she's not doing it on purpose,' 'I don't know how to want that without...') are exactly the linguistic-caveat read the territory called for, and they go unnamed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1963,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1963,
+    "output_tokens": 1129,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:12.875Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "50c4efda2beff6fa1ba8e84e0ddf0e4b1bc34c9f20026d519ac323c12751a29b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BFQvDGRJDJX9v1sxzphZve",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, timely, and specific reads throughout. Turn 2 catches the laugh as a tell. Turn 4 names the precise linguistic switch ('doing this to myself' vs 'this keeps happening') — a classic AoA caveat read. Turn 12 names the rush-into-intellectualization signature ('moved pretty fast from winning into the neuroscience') at the exact moment it happens, which produces the conversation's biggest opening. Reads consistently precede questions: the coach names what they noticed, then inquires. The coach also tracks the somatic/energetic shift in turn 8 (following the distance-appearing moment) and stays on the relief rather than letting the client flee it in turn 14. These are specific reads — linguistic caveat, the intellectualization-as-defense, the doorway-hovering — not generic mood labels.\",\n  \"evidence_turns\": [2, 4, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reads the laugh as signal, names it, inquires underneath — read precedes question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the specific linguistic switch between agency and passivity — a precise caveat read.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Names the contradiction in her stance but as content reframe rather than a somatic/energetic read.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Good question following the face-shift but doesn't explicitly name what was just noticed.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Follows the stopping-herself moment but doesn't name the self-interruption as a read.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the rush-into-neuroscience defense in real time — the pivotal read of the conversation that lands and opens the client.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds steady, refuses agenda, invites her to stay with the felt state — implicit read that she was about to bolt again.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"The intellectualization-as-defense read in turn 12 is the highest-value read and it lands. The coach could have additionally named the disdain/sharpness toward exes as a read, but the reads that did surface were specific, timely, and consequential.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2875,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 896,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2875,
+    "output_tokens": 896,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

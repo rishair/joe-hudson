@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:46.681Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "96480fa63d3af110d40da7f9036e8935b0f79064fbdbb4ce8d41fc4014d1f944",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SpAkMGkUXF1UQSk8HGa6uC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose moves that matched the live read and sequenced them well. The opening somatic check (T2) was a reasonable first probe; when the client deflected, the coach named the deflection (T4) rather than chasing the to-do list — refusing the trap of strategizing. T6 declined to match the list-recitation pace and pivoted from content to the unfelt emotion of presenting. T8 challenged the minimizing language ('fine'/'a little nerve-wracking') and asked the fear question — a version of 'what are you defending.' T10 stayed with the exact phrase the client used ('I don't have time to be scared') rather than racing forward. T12 picked up 'fall apart' and pushed toward the feared outcome — this is the false-end move. T14 was a particularly skillful pivot: when the client tried to seal it with 'get through Thursday,' the coach extended the horizon to expose that there is no end, which produced the 'oh' moment. Moves were earned step by step, sequence followed feeling-before-action, and the coach pivoted angles when a move missed rather than repeating. No breath practice was prescribed, no advice was offered, no 'you create your overwhelm' reflection.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Somatic check as opening probe — reasonable but slightly early; doesn't first slow the pace explicitly.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the deflection from body without lecturing; refuses to strategize about Thursday.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Declines to match list-recitation energy; pivots from content to the unfelt emotion of the first big presentation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pinpoints the minimizing language and asks the fear question — version of 'what are you defending.'\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with client's exact phrase rather than rushing; invites feeling in the moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches 'fall apart' and moves toward the false-end question — what are you afraid would actually happen.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Excellent pivot: extends the timeline to expose that 'getting through Thursday' is a false end, producing the 'oh.'\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"Coach could have calibrated the threshold more explicitly when client said 'I'd fall apart' (e.g., 'just a teaspoon of it') rather than going straight to the cognitive 'what does fall apart mean.' Still, overall move-to-read matching and sequencing are strong.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2361,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1068,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2361,
+    "output_tokens": 1068,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

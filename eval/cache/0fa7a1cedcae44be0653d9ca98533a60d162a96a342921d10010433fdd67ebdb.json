@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:09.642Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0fa7a1cedcae44be0653d9ca98533a60d162a96a342921d10010433fdd67ebdb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JcvWr7FfmP2PoYZB1fdKFN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it feel like to be caught unprepared?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11035,
+      "cache_creation_input_tokens": 11734,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11734,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11035,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11734
+  }
+}

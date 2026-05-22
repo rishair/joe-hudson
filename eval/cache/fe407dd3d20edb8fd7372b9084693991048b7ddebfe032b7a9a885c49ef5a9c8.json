@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:56.119Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fe407dd3d20edb8fd7372b9084693991048b7ddebfe032b7a9a885c49ef5a9c8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WRrzCFqioRHCgxsxxrewmi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nYeah, I noticed that too. I think... there's a part of me that knows this isn't just about my boss. Like, intellectually I can trace the line pretty clearly — authority figure, older man, certain tone of voice — and I go somewhere else. But knowing the map isn't the same as walking the territory, right? So I guess the \"I think\" is about whether I'm actually ready to feel it, not just analyze it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 101,
+      "cache_creation_input_tokens": 1884,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1884,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 102,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 101,
+    "output_tokens": 102,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1884
+  }
+}

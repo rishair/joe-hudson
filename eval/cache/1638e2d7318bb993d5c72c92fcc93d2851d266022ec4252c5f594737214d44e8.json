@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:54.235Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1638e2d7318bb993d5c72c92fcc93d2851d266022ec4252c5f594737214d44e8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015f5db5uRTSAdjEGWyBgode",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with that image for a second — the empty cup still going through the motions.\n\nWhere do you feel that in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23633,
+      "cache_creation_input_tokens": 12793,
+      "cache_read_input_tokens": 12631,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 12793,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 33,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23633,
+    "output_tokens": 33,
+    "cache_read_input_tokens": 12631,
+    "cache_creation_input_tokens": 12793
+  }
+}

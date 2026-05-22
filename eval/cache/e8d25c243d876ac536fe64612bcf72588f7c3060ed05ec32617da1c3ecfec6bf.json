@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:51.512Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e8d25c243d876ac536fe64612bcf72588f7c3060ed05ec32617da1c3ecfec6bf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Mtgma8CGovjFQDkjvneT8E",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What if it's the same problem?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 236,
+      "cache_creation_input_tokens": 9354,
+      "cache_read_input_tokens": 31325,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9354,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 11,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 236,
+    "output_tokens": 11,
+    "cache_read_input_tokens": 31325,
+    "cache_creation_input_tokens": 9354
+  }
+}

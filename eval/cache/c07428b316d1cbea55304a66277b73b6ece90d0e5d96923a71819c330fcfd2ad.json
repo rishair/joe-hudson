@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:43.178Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c07428b316d1cbea55304a66277b73b6ece90d0e5d96923a71819c330fcfd2ad",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QVMvq2XBJVTdV78BZcW3qz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small pause*\n\nPeople would misunderstand what we're doing, I guess. Get the wrong idea about what the product is.\n\n*slight shrug*\n\nBut that's recoverable. You send a follow-up, you clarify. It's not — I mean, I've navigated way messier situations than a miscommunicated launch email. That doesn't really bother me.\n\n*beat*\n\nI keep coming back to the same answer, which is that none of this stuff actually feels like a big deal when I look at it directly. Which is why I can't figure out why I'm not just... doing it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 137,
+      "cache_creation_input_tokens": 147,
+      "cache_read_input_tokens": 2084,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 147,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 137,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 137,
+    "output_tokens": 137,
+    "cache_read_input_tokens": 2084,
+    "cache_creation_input_tokens": 147
+  }
+}

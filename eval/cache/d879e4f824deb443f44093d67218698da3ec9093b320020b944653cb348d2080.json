@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:30.156Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d879e4f824deb443f44093d67218698da3ec9093b320020b944653cb348d2080",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HzNxA1Lsy4aVFXFMUVgSYA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[goes a little still, then fills the space quickly]*\n\nIt feels like — winning, kind of? Like you worked for something and you got it. There's this rush of like, *see, I knew it was there, I knew they were capable of it.*\n\n*[tilts head, almost analytical now]*\n\nIt's probably dopamine, right? Like the variable reward schedule thing. I know about this. The intermittent reinforcement makes the connection feel more valuable than it actually is because you had to work for it.\n\n*[gestures vaguely]*\n\nSo I know the mechanism. I just apparently haven't figured out how to... want something different."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 223,
+      "cache_creation_input_tokens": 384,
+      "cache_read_input_tokens": 1913,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 384,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 223,
+    "output_tokens": 146,
+    "cache_read_input_tokens": 1913,
+    "cache_creation_input_tokens": 384
+  }
+}

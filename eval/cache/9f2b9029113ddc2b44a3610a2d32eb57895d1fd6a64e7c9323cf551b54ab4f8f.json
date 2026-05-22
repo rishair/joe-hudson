@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:27.304Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9f2b9029113ddc2b44a3610a2d32eb57895d1fd6a64e7c9323cf551b54ab4f8f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013edr2gGUaiM1ok2QoZJawT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The knowing doesn't touch it — yeah. That's the real thing you just said.\n\nWhat does \"unfixable\" feel like in your body right now, when the critic says it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9474,
+      "cache_creation_input_tokens": 9465,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9465,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9474,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9465
+  }
+}

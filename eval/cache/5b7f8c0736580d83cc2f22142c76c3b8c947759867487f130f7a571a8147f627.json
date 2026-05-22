@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:56.038Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5b7f8c0736580d83cc2f22142c76c3b8c947759867487f130f7a571a8147f627",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NXs3mpC3KeKWujcneS5KKT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, slight pause*\n\nThat's... a useful provocation.\n\n*considers*\n\nI think I'd say -- I'm not actually looking for certainty. I know that's not available. I'm looking for something more like... reasonable confidence. A way to weight the signals that's better than random. Even a sixty-forty read would be more useful than what I have now.\n\n*slight tightening*\n\nAnd I think methods exist. I've read enough on this -- there's research on somatic markers, on how fear and intuition present differently in the body. The problem is my baseline is noisy. I'm a fairly anxious person, so the body-tension signal doesn't discriminate well for me. Which is why I'm asking -- is there something more refined? Something that works even when the baseline is elevated?\n\n*looks at you directly, still pleasant*\n\nI'm genuinely asking. I don't think this is unanswerable."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 269,
+      "cache_creation_input_tokens": 342,
+      "cache_read_input_tokens": 1723,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 342,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 208,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 269,
+    "output_tokens": 208,
+    "cache_read_input_tokens": 1723,
+    "cache_creation_input_tokens": 342
+  }
+}

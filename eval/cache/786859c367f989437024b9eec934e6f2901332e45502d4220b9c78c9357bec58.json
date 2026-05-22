@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:22.645Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "786859c367f989437024b9eec934e6f2901332e45502d4220b9c78c9357bec58",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01N3gGfRrWVZFdnVKCTYdMHv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to live reads and sequenced according to the AoA coaching path: feeling before story, want under should, and following the somatic charge to its origin. When the client deflects into spreadsheet mode (T3), the coach names the deflection and pivots to feeling (T4) rather than engaging the financial frame — avoiding the financial-advice trap. When the client intellectualizes the fear as rational (T5), the coach lowers the threshold with a simple felt question ('what would it feel like to be caught unprepared?') (T6). When the dad memory surfaces (T7), the coach reflects the most charged image back ('That look on your dad's face') (T8) and holds — earning the next step. The find-the-want-behind-the-should arrives at exactly the right moment (T10) after the client says 'live the way I want to.' The experiment frame in T12 ('start the book this week — not finish it, just start') is the textbook frame-it-as-an-experiment move, and it cracks the defense. Then when the charge appears ('haven't earned the right'), the coach follows it to origin with 'where did you first learn that?' (T14) — exactly the golden-path step 6. The coach never lectures, never gives advice, never traps the basic-needs logic, and never names 'money as surrogate' — letting the client arrive there themselves (T15 final line).\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a reasonable probe ('what is it protecting you from') — appropriate first move but slightly premature; client predictably deflects.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Excellent recovery: names the deflection without shaming, validates the math, then redirects to feeling. Perfect move-after-miss pivot.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Lowers the threshold to a felt question rather than arguing with the rationalization. Earned move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the most charged image back ('that look on your dad's face') — minimal, lets it land. Holds silence rather than over-interpreting.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Finds-the-want-behind-the-should at the precise moment the client used the word 'living.' Timing is excellent.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment, scaled appropriately ('not finish, just start'). Tests the logic gently without invalidating. This is the move that cracks the defense.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Follows-the-charge-to-its-origin at the exact moment somatic intensity emerges ('I don't know where that came from'). Textbook timing.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"find-the-want-behind-the-should\", \"intellectual-question-with-emotional-body\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"The coach lets the client name 'that's not about 1.2 million dollars, is it' rather than evangelizing the money-as-surrogate concept — avoids the dont-evangelize anti-pattern beautifully.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3063,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1182,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3063,
+    "output_tokens": 1182,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

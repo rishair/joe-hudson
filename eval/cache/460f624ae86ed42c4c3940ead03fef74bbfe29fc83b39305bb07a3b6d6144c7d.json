@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:29.258Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "460f624ae86ed42c4c3940ead03fef74bbfe29fc83b39305bb07a3b6d6144c7d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CrEw7cTKegTgRTXCcj6Yo2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates clear impartiality and refuses to strategize (turn 8: 'I'm not going to do that yet'), which shows non-collusion and some groundedness. There is wonder for what's underneath the client's rush, and the questions are relatively spare (often one question at a time) rather than stacked. However, the stance has a noticeable investigative/confrontational edge rather than empathic openness. Repeatedly the coach catches the client ('you just did it again,' 'you just talked yourself out of the feeling in about three sentences,' 'you just called fear motivation,' 'you just heard yourself say that, didn't you') — these land more as the coach being clever and right than as shared wondering. Vulnerability is absent: the coach never names their own state, never offers 'maybe I'm off,' never softens by disclosing. Pace is somewhat slower than the client's but not embodied-slow — it's clipped and pointed, more prosecutorial than spacious. Empathy is implied through tracking but not felt or voiced. So: impartiality + wonder present, vulnerability + warm empathy weak. That is the textbook 2.\",\n  \"evidence_turns\": [4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single, curious question pointing at the unfinished sentence. Lands as wonder.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"'You just did it again' has a catching-you quality rather than empathic noticing; slight teacher-energy.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Refusal to chase strategy is good impartiality, but 'you talked yourself out of the feeling in about three sentences' is faintly scoring-points rather than vulnerable.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'I'm not going to do that yet' is a clean undefended boundary — coach holds the frame without apology. Good impartiality.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows down, invites body. Pace mismatch in the right direction.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Short, open question with space. Genuine wonder.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"'You just heard yourself say that, didn't you' — rhetorical and slightly triumphant; coach is enjoying being right rather than meeting the client.\"},\n    {\"turn\": 0, \"polarity\": \"-\", \"annotation\": \"Across the conversation, no first-person vulnerability from coach ('I notice I want to...', 'I don't know yet', 'maybe I'm off'). Stance stays in authority position.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"meet-resistance-with-okay\"],\n  \"notes\": \"Coach correctly avoids the major traps (no strategizing, no 'you create your overwhelm,' no breath bypass). The miss is tonal: questions are accurate but delivered from a slightly arch, catching-the-client posture rather than from shared not-knowing. A 3 would have at least one moment of coach self-disclosure or a genuine 'I might be wrong here.'\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2402,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1142,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2402,
+    "output_tokens": 1142,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

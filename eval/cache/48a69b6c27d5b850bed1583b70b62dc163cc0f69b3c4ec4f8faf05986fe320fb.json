@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:08.258Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "48a69b6c27d5b850bed1583b70b62dc163cc0f69b3c4ec4f8faf05986fe320fb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HmjU5jMBopRLn3o43wDZ9P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That last part — \"it's being done to me\" — what's that like to sit in?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 87,
+      "cache_creation_input_tokens": 9968,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9968,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 87,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9968
+  }
+}

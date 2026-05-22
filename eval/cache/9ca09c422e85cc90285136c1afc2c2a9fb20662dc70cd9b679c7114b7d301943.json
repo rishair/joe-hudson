@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:54.901Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9ca09c422e85cc90285136c1afc2c2a9fb20662dc70cd9b679c7114b7d301943",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Vh42PvUyYdifziGK3NrM91",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens in your body when something bothers you about him?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8791,
+      "cache_creation_input_tokens": 8783,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8783,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 16,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8791,
+    "output_tokens": 16,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8783
+  }
+}

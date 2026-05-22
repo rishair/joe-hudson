@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:20.884Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9d81e5cde8c541205a1ad3ecc5cf0a950fc6f43ec19ddca03af3b54776076dd9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Y8TvLHy61hXSJbpGGr6bwR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Honestly? I keep second-guessing the narrative. We've got strong numbers, the market's there, but every time I sit down to write the story section — the \"why us, why now\" — it comes out flat. My co-founder thinks it's fine, which means she's either right and I'm overthinking it, or she's being nice and I'm actually right to be worried. I can't tell which. So I end up rewriting it instead of shipping it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 111,
+      "cache_creation_input_tokens": 109,
+      "cache_read_input_tokens": 1624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 109,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 106,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 111,
+    "output_tokens": 106,
+    "cache_read_input_tokens": 1624,
+    "cache_creation_input_tokens": 109
+  }
+}

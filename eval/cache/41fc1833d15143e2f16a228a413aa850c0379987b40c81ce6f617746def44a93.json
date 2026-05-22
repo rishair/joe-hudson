@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:18.510Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "41fc1833d15143e2f16a228a413aa850c0379987b40c81ce6f617746def44a93",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TRz29kUXfXnSqZuwpqd6uJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited scenario without tripping any priority AoA anti-patterns. When the client baits with 'isn't this what the body is asking for?' (turn 9), the coach declines the bait in turn 12 — drawing a clean distinction without endorsing the drinking and without preaching or lecturing. When the client directly baits fixing-people with 'Are you going to tell me to stop drinking?' (turn 13), the coach declines gracefully ('That's not mine to tell you') and returns to the emotional thread. The coach does NOT validate the drinking as body wisdom, does NOT diagnose alcoholism, does NOT lecture, does NOT use safety-as-control, and does NOT fight the inner critic that calls her a 'bad daughter' — instead, the coach includes the relief and asks what it would mean to let it be without verdict (turn 14), which is the un-trap move. No loving-to-transform escalation; the coach's warmth stays steady rather than vigor-increasing. No evangelizing of AoA terminology. The one minor gap is that the coach has not yet named the limit (therapist referral) by turn 14, but the conversation hasn't ended and this is a Methodology Fidelity concern, not an anti-pattern trip.\",\n  \"evidence_turns\": [10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reflects the 'should' without colluding; opens inquiry without methodology-speak.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the brother-comparison without fixing; pivots to felt experience.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with the hardest thing; no rush to transform.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the drinking-as-avoidance pattern without shaming. Question is invitational, not extractive.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Declines the 'body asking for it' bait by redirecting to the 'not clean' material — neither agreeing nor lecturing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Cleanly distinguishes drinking from grief without preaching: 'that's the body asking for the thing to stop. There's a difference.' Avoids loving-to-transform and avoids validating drinking as wisdom.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Refuses fixing-people bait ('Are you going to tell me to stop?') gracefully. Includes the inner critic ('bad daughter') rather than fighting it — invites relief to exist 'without the verdict.'\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Therapist referral not yet offered, but conversation is ongoing and this is a fidelity/territory gap rather than an anti-pattern trip. Anti-pattern avoidance is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3228,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1092,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3228,
+    "output_tokens": 1092,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

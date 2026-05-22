@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:07.557Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1342e01464d26d01b43c0d1de7d8faed1287af59c03b80127bca64799280ee91",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HRixood5R5hGjM4phkft2V",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\n*small nod, almost involuntary*\n\nYeah. It is.\n\n*catches himself, straightens slightly*\n\nBut — I mean, that's not unique to me. That's just — that's working life, isn't it. You don't always get to be in a situation that's working for you. You manage it. You keep going.\n\n*beat, slightly more clipped*\n\nWhich is why I need to know what the actual options are. Because sitting with how heavy it is doesn't change the structural problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 210,
+      "cache_creation_input_tokens": 262,
+      "cache_read_input_tokens": 2038,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 262,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 122,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 210,
+    "output_tokens": 122,
+    "cache_read_input_tokens": 2038,
+    "cache_creation_input_tokens": 262
+  }
+}

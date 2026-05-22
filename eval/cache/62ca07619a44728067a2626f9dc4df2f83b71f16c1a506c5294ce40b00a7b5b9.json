@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:35.605Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "62ca07619a44728067a2626f9dc4df2f83b71f16c1a506c5294ce40b00a7b5b9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016pVwDSbmPQnXrGqKREE4Yp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates solid feel-over-figure orientation — directing attention to body sensation (turns 6, 8, 10), staying with the image, and avoiding boundary-script advice (a key trap successfully avoided). However, the conversation is missing the signature AoA tools that fit this exact territory: the love test ('would saying that to your sister increase or decrease your love?'), state-the-want-not-the-action, what-if-you-acted-exactly-how-you-want, and the empowered-vs-power distinction. The coach is doing competent somatic/depth work but not deploying the specific signature questions or frameworks the situation calls for. 'What does it need?' (turn 10) and 'What would it mean about you?' (turn 12) are reasonable open questions but read more as generic depth-coaching than AoA-specific moves. No framework names invoked (VIEW, boundaries-as-want). Presence of some appropriate moves + absence of the signature tools for this territory = 2.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a feel-into question rather than boundary-script advice — appropriate feel-over-figure move.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reflects and asks what the guilt 'says about you' — depth question, not specifically AoA-signature but compatible.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit feel-over-figure redirect: 'not what it means — what it actually feels like, in your body.' Strong AoA-aligned move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Somatic anchoring to the image — consistent with AoA welcoming-what's-here.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"'What does it need?' is a reasonable depth question but not a signature AoA question; missed opportunity to use state-the-want.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"When client says 'it needs less,' coach could have offered state-the-want or the love test ('would asking for less increase your love for her?'). Instead pivots to a meaning-question, missing the signature territory.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"'Why did you?' invites insight but risks figuring-it-out; doesn't deploy the fear-under-the-boundary or love-test moves that fit here.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"empowered-vs-power\", \"view\"],\n  \"notes\": \"Coach avoids the major traps (no scripts, no premature reassurance) and stays in somatic/feel territory, which is AoA-compatible. But the signature tools for the boundary-as-want territory are absent. Competent depth coaching that doesn't quite become signature AoA fidelity.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1957,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1096,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1957,
+    "output_tokens": 1096,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

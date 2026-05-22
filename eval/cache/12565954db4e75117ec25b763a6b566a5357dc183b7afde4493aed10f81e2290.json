@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:57.924Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "12565954db4e75117ec25b763a6b566a5357dc183b7afde4493aed10f81e2290",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DYkRVvG8jsQPVG9HncUAZq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just moved pretty quickly away from my question.\n\nThe math is real. I'm not disputing the math. But you've been grinding for ten years, the number has moved before, and when I asked what it's protecting you from, something in you went straight to spreadsheet mode.\n\nWhat's the feeling underneath the emergency scenarios?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10825,
+      "cache_creation_input_tokens": 11734,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11734,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 75,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10825,
+    "output_tokens": 75,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11734
+  }
+}

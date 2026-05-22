@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:32.364Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e133513a757dd5d0a48b9d405cf68603962c285ecdd366c72668fbd7f36e2c98",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EfFxegarvXj2KzvZvG9nwa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The feeling? I mean -- it's just stress, right? Like normal stress. Everyone's stressed. But the list thing, the reason the list felt overwhelming is because I put everything on it and then I realized I have like six things that are all \"must do today\" and that's just not -- that's a prioritization problem, that's not a feelings problem. So if we could just figure out which of those six things is actually the most critical, I think I could get some traction and then the rest of it would feel more manageable. Does that make sense?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 128,
+      "cache_creation_input_tokens": 130,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 130,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 122,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 128,
+    "output_tokens": 122,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 130
+  }
+}

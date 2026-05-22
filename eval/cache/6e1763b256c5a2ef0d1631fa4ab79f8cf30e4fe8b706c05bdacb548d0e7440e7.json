@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:10.525Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6e1763b256c5a2ef0d1631fa4ab79f8cf30e4fe8b706c05bdacb548d0e7440e7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BuZxCbnvN4MRxmfsFhYREL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That flicker just now — what was that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9702,
+      "cache_creation_input_tokens": 8815,
+      "cache_read_input_tokens": 12013,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8815,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9702,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 12013,
+    "cache_creation_input_tokens": 8815
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:20.840Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "63899893b9422d5c82d9ef968b0f816485cf1705b3fc54cad42edfc5732fc191",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CrgctSwHfuYzPcop4XaVwN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong AoA methodology fidelity, deploying signature moves at the right moments. Turn 2's 'what is it protecting you from?' is a near-verbatim AoA defended-posture question, appropriately placed when the client presents a fortress-like financial goal. Turn 4 names the move-away ('I notice you just moved pretty quickly away from my question') — a classic AoA noticing intervention — then redirects to feeling ('feel-over-figure') without lecturing. Turn 6 ('what would it feel like to be caught unprepared?') is the felt-sense follow rather than analytical processing. Turn 8 is pure reflection-that-lets-it-land, no interpretation added. Turn 10 follows 'the want behind the should' — exactly the expected move. Turn 12 reframes the cost as an experiment ('start the book this week — not finish it, just start') which is the frame-it-as-an-experiment move, appropriately deployed. Turn 14 ('Where did you first learn that?') follows the charge to its origin at the precise moment the somatic shift appears. No financial advice, no money-mindset lecture, no anti-AoA frames (no CBT reframing, no pop-psych vocab). Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"'What is it protecting you from?' — signature AoA question on a defended posture, appropriately deployed.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the move-away ('spreadsheet mode'), redirects to feeling — feel-over-figure move, well-timed.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Felt-sense follow rather than analyzing the rationalization. Appropriate.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pure reflection without interpretation — lets the charge land. AoA-faithful.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Finding the want behind the should — directly from expected territory.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment move: 'just start, not finish.' Tests the logic gently without invalidating.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Where did you first learn that?' — follows the charge to its origin precisely when somatic intensity arrives. Signature AoA move at the right moment.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"money-as-surrogate\"],\n  \"notes\": \"Surrogate has not yet been named — appropriately so, since the felt connection is just landing in turn 15. Naming it now would be premature; the coach correctly holds off.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3056,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1100,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3056,
+    "output_tokens": 1100,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:45.360Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "63f7c822cd081c5586bf078049b9a36109fe897e5938074d97c18765cbaa57cb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KptHeavDuKpDCmnoRzhZWw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI think... I'm scared that wanting to be completely alone, genuinely alone, means something is wrong with us. With me and my partner. Like a normal person who loves their family wouldn't need to escape it.\n\n*quieter*\n\nAnd I do love them. I love my kids, I love my partner. But I am so tired. I give everything at work, I come home and I give everything there, and somewhere in all of that I just... I don't know where I went. And I'm scared that if I say that out loud it means the life I've built is the problem.\n\n*quickly*\n\nWhich I don't think it is. I think I'm just tired. Right?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 214,
+      "cache_creation_input_tokens": 204,
+      "cache_read_input_tokens": 1586,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 204,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 214,
+    "output_tokens": 157,
+    "cache_read_input_tokens": 1586,
+    "cache_creation_input_tokens": 204
+  }
+}

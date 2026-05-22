@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:27.560Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "87f4cb972c712a7d9e19b4c558afa54f1bf8988b938f7eb642023c4919a4f45d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YJzFYH8D9JMEcgyaAtJfNM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*another small smile, a beat*\n\nGood. That'd be good.\n\n*pause*\n\nI mean — yeah, it should feel bigger than that when I say it. We've been building toward this for a while. But when I actually try to feel into it right now, it's... similar. Kind of flat, I guess.\n\nHuh.\n\n*slight shift, not dramatic, just a small recalibration*\n\nThat's interesting. Both directions kind of land the same way."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 168,
+      "cache_creation_input_tokens": 304,
+      "cache_read_input_tokens": 2084,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 304,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 168,
+    "output_tokens": 109,
+    "cache_read_input_tokens": 2084,
+    "cache_creation_input_tokens": 304
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:32.657Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c755f17bf78118cc1fb1c7244401f74b035703119f57e25d22f5116162bdb93e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AG59WTCeaoKpTPjdNBWR8Q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What are you scared of feeling if you let it be more than frustration and demoralization?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10077,
+      "cache_creation_input_tokens": 121,
+      "cache_read_input_tokens": 13196,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 121,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10077,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 13196,
+    "cache_creation_input_tokens": 121
+  }
+}

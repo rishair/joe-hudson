@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:10.055Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c6109ba74388fead844adfa80b84cc616901015d855f2a15b7f539af31d74fef",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015ig78eBeh8bnzpzaLeuVmR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*laughs quietly, nods*\n\nYeah. I know. It doesn't track, right? That's exactly why I'm here, because logically it makes no sense.\n\nMy best guess is it's just — I have a lot of things going on, and this keeps getting deprioritized. There's always something more urgent. Or I'll sit down to work on it and end up doing something else. Classic ADHD-adjacent stuff, probably. I've always been a bit like that with the finishing line.\n\nBut it's not — I want to be clear, it's not like I'm dreading it or avoiding it. It doesn't feel like that. It just keeps... not happening."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 173,
+      "cache_creation_input_tokens": 64,
+      "cache_read_input_tokens": 2002,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 64,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 173,
+    "output_tokens": 152,
+    "cache_read_input_tokens": 2002,
+    "cache_creation_input_tokens": 64
+  }
+}

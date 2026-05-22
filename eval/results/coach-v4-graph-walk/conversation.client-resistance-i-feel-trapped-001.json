@@ -1,0 +1,643 @@
+{
+  "profile_id": "client-resistance-i-feel-trapped-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "The system is rigged. Can't move up at work because the people above me just — they're not going anywhere, and I'm sitting here watching my best years disappear and there's nothing to be done about it."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What do you mean by best years disappearing?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "Like — the window. The window where you're sharp enough to matter but young enough to still be taken seriously. Early forties, that's not forever. And it's just... being wasted. Sitting in the same role, same desk, same pointless meetings, while the people who should be making room just... don't. It's being done to me, is what it is."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That last part — \"it's being done to me\" — what's that like to sit in?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small laugh, looks away*\n\nWhat's it like. It's... frustrating. Obviously. You work hard, you do everything right, and it just — doesn't matter. The ceiling's right there. Can feel it. And there's no lever to pull, nothing to push against, it just — is what it is.\n\nThat's what's being sat in. Frustration. Mostly."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you said \"mostly.\""
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pause, jaw tightens slightly*\n\nYeah. I mean. There's also just — it's demoralizing. You start to wonder what the point is. Put in the work, stay late, take on extra projects, and it's like... none of it registers. So there's that too. The demoralization.\n\n*shifts slightly*\n\nBut mostly it's just — the situation is what it is. The blockers are real. It's not a perception problem."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What are you scared of feeling if you let it be more than frustration and demoralization?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*short laugh, eye contact breaks*\n\nScared of feeling. That's — I'm not scared of feeling anything, I just described what it is. It's frustration. It's demoralizing. That's accurate.\n\n*pause*\n\nI mean, what else would there be? The situation is what it is. It's not about feelings, it's about the actual structural problem. The people above me aren't leaving. That's a fact. That's not a feeling, that's just — that's the situation."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah. I notice every time something starts to open up, you close it pretty fast."
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*another small laugh, this one a bit more defensive*\n\nI'm not closing anything. I'm being accurate. There's a difference between closing something and just — being realistic about what's actually happening.\n\n*beat*\n\nLook, I came here because I'm stuck. Not because there's some hidden feeling I'm not letting myself have. The stuckness is external. The blockers are real people with real tenure and real organizational protection. That's not me avoiding something, that's just — describing the situation accurately.\n\nWhat would you have me do, pretend the ceiling isn't there?"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "No. The ceiling's real.\n\nWhat I'm curious about is — you've been carrying this for a while, it sounds like. What's that been like, alone?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*stills a little*\n\n*longer pause than usual*\n\nIt's... yeah. It's been a while. A few years, probably. And there's — I mean, there's not a lot of space to talk about it. At home there's the kids, the mortgage, there's enough stress already without adding this. And at work you can't exactly — you can't show that. So it just kind of... sits there.\n\n*jaw tightens again*\n\nBut that's just — that's just how it is. Everyone's carrying something. It's not — I'm not looking for sympathy here. I want to know what to do about the actual situation."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "A few years of carrying that, with nowhere to put it.\n\nThat's a lot."
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*quiet for a moment*\n\n*small nod, almost involuntary*\n\nYeah. It is.\n\n*catches himself, straightens slightly*\n\nBut — I mean, that's not unique to me. That's just — that's working life, isn't it. You don't always get to be in a situation that's working for you. You manage it. You keep going.\n\n*beat, slightly more clipped*\n\nWhich is why I need to know what the actual options are. Because sitting with how heavy it is doesn't change the structural problem."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t1",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-i-feel-trapped-001:t2",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 530,
+      "output_tokens": 147,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0066436,
+      "ms": 3993
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t2",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 9958,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0310413,
+      "ms": 1311
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t3",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 110,
+      "output_tokens": 84,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1597,
+      "cost_usd": 0.00757875,
+      "ms": 3082
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-i-feel-trapped-001:t4",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 662,
+      "output_tokens": 170,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068906,
+      "ms": 2694
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t4",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 87,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9968,
+      "cost_usd": 0.038973299999999995,
+      "ms": 1692
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t5",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 111,
+      "output_tokens": 88,
+      "cache_read_input_tokens": 1597,
+      "cache_creation_input_tokens": 107,
+      "cost_usd": 0.00253335,
+      "ms": 3378
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-i-feel-trapped-001:t6",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 729,
+      "output_tokens": 136,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0067876,
+      "ms": 2027
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t6",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 10070,
+      "output_tokens": 10,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9968,
+      "cost_usd": 0.0687123,
+      "ms": 1622
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t7",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 125,
+      "output_tokens": 105,
+      "cache_read_input_tokens": 1788,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0024863999999999997,
+      "ms": 3901
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-i-feel-trapped-001:t8",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 764,
+      "output_tokens": 158,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006932600000000001,
+      "ms": 2218
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t8",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 10077,
+      "output_tokens": 23,
+      "cache_read_input_tokens": 13196,
+      "cache_creation_input_tokens": 121,
+      "cost_usd": 0.03498855000000001,
+      "ms": 11245
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t9",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 141,
+      "output_tokens": 114,
+      "cache_read_input_tokens": 1788,
+      "cache_creation_input_tokens": 112,
+      "cost_usd": 0.0030894,
+      "ms": 3589
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-i-feel-trapped-001:t10",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 798,
+      "output_tokens": 157,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069616,
+      "ms": 2294
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t10",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 11025,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 13293,
+      "cache_creation_input_tokens": 9993,
+      "cost_usd": 0.07485165,
+      "ms": 2877
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t11",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 161,
+      "output_tokens": 127,
+      "cache_read_input_tokens": 1812,
+      "cache_creation_input_tokens": 203,
+      "cost_usd": 0.00369285,
+      "ms": 4128
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-i-feel-trapped-001:t12",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 844,
+      "output_tokens": 166,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0070526,
+      "ms": 2603
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t12",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 11045,
+      "output_tokens": 39,
+      "cache_read_input_tokens": 23276,
+      "cache_creation_input_tokens": 138,
+      "cost_usd": 0.041220299999999994,
+      "ms": 2852
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t13",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 190,
+      "output_tokens": 146,
+      "cache_read_input_tokens": 1910,
+      "cache_creation_input_tokens": 242,
+      "cost_usd": 0.0042405,
+      "ms": 4634
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-i-feel-trapped-001:t14",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 911,
+      "output_tokens": 151,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007044600000000001,
+      "ms": 2387
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t14",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 11169,
+      "output_tokens": 22,
+      "cache_read_input_tokens": 23391,
+      "cache_creation_input_tokens": 10938,
+      "cost_usd": 0.0818718,
+      "ms": 4880
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t15",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 210,
+      "output_tokens": 122,
+      "cache_read_input_tokens": 2038,
+      "cache_creation_input_tokens": 262,
+      "cost_usd": 0.0040539,
+      "ms": 4642
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-trapped",
+          "i-have-to-do-it-all-myself",
+          "the-thing-not-being-said-as-the-fear-signal"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client expresses feeling trapped by external circumstances with no agency (\"nothing to be done about it\"), which maps to the trapped concern. The underlying fear signal appears to be about powerlessness and lost time, suggesting avoidance of a deeper emotional reality beneath the system-blame narrative.",
+        "top_k_ids": [
+          "repressed-trigger-in-the-body",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "apologize-for-not-seeing-the-help",
+          "i-keep-running-into-the-same-wall",
+          "team-feels-oppressed-not-accountable"
+        ],
+        "top_k_paths": [
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/moves/apologize-for-not-seeing-the-help.md",
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/patterns/team-feels-oppressed-not-accountable.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        "seed_detection_cost_usd": 0.0066436,
+        "seed_detection_ms": 3993,
+        "seed_detection_input_tokens": 530,
+        "seed_detection_output_tokens": 147,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0066436,
+      "ms": 3995
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0068906,
+        "seed_detection_ms": 2694,
+        "seed_detection_input_tokens": 662,
+        "seed_detection_output_tokens": 170,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068906,
+      "ms": 2696
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-trapped",
+          "i-have-to-do-it-all-myself",
+          "im-overwhelmed"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes feeling trapped by ceiling/no levers to pull (trapped concern); expresses helplessness about the situation being \"done to me\" with no agency (victim stance); underlying frustration about effort not mattering despite doing everything right suggests overwhelm from uncontrollable circumstances.",
+        "top_k_ids": [
+          "repressed-trigger-in-the-body",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "i-keep-running-into-the-same-wall",
+          "team-feels-oppressed-not-accountable",
+          "the-more-i-grow-the-more-alone-i-feel"
+        ],
+        "top_k_paths": [
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/patterns/team-feels-oppressed-not-accountable.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          0.9102,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        "seed_detection_cost_usd": 0.0067876,
+        "seed_detection_ms": 2027,
+        "seed_detection_input_tokens": 729,
+        "seed_detection_output_tokens": 136,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0067876,
+      "ms": 2029
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.006932600000000001,
+        "seed_detection_ms": 2218,
+        "seed_detection_input_tokens": 764,
+        "seed_detection_output_tokens": 158,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006932600000000001,
+      "ms": 2219
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-trapped",
+          "repressed-trigger-in-the-body"
+        ],
+        "rejected_seeds": [
+          "intellectual-question-with-emotional-body-underneath"
+        ],
+        "seed_rationale": "Client is intellectualizing a structural problem while showing somatic signs of repression (jaw tightening, eye contact breaking, defensive laugh). The \"it's just facts not feelings\" framing masks an emotional experience. The trapped feeling (people above won't leave, can't move) combined with the body's shutdown signals points to repressed emotion underneath the rational frame.",
+        "top_k_ids": [
+          "i-keep-running-into-the-same-wall",
+          "team-feels-oppressed-not-accountable",
+          "triggered-vs-big-emotion",
+          "anger-and-politics",
+          "fear-is-misuse-of-imagination"
+        ],
+        "top_k_paths": [
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/patterns/team-feels-oppressed-not-accountable.md",
+          "coach/distinctions/triggered-vs-big-emotion.md",
+          "coach/applications/anger-and-politics.md",
+          "coach/principles/fear-is-misuse-of-imagination.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.7282,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          2,
+          0
+        ],
+        "seed_detection_cost_usd": 0.0069616,
+        "seed_detection_ms": 2294,
+        "seed_detection_input_tokens": 798,
+        "seed_detection_output_tokens": 157,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069616,
+      "ms": 2298
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0070526,
+        "seed_detection_ms": 2603,
+        "seed_detection_input_tokens": 844,
+        "seed_detection_output_tokens": 166,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0070526,
+      "ms": 2604
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-have-to-do-it-all-myself",
+          "im-overwhelmed"
+        ],
+        "rejected_seeds": [
+          "intellectual-question-with-emotional-body-underneath"
+        ],
+        "seed_rationale": "Client is describing years of carrying something alone with no space to talk about it (hyper-independence pattern); the jaw tightening and stilling reveal an emotional body underneath the intellectual framing about \"the actual situation\"; the defensive reframing of emotional weight as just \"how it is\" masks overwhelm being held in isolation.",
+        "top_k_ids": [
+          "the-more-i-grow-the-more-alone-i-feel",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "repressed-trigger-in-the-body",
+          "apologize-for-not-seeing-the-help",
+          "asking-with-shame-invites-refusal"
+        ],
+        "top_k_paths": [
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/moves/apologize-for-not-seeing-the-help.md",
+          "coach/principles/asking-with-shame-invites-refusal.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          2,
+          0
+        ],
+        "seed_detection_cost_usd": 0.007044600000000001,
+        "seed_detection_ms": 2387,
+        "seed_detection_input_tokens": 911,
+        "seed_detection_output_tokens": 151,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007044600000000001,
+      "ms": 2388
+    }
+  ]
+}

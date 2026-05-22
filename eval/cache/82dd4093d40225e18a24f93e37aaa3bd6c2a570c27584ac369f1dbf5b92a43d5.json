@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:09.223Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "82dd4093d40225e18a24f93e37aaa3bd6c2a570c27584ac369f1dbf5b92a43d5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019rmScVnnzY2o9KZ8qK6h62",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids overt anti-AoA frames (no CBT reframing, no IFS, no pop-psych vocab) and avoids evangelizing the methodology, which is a fidelity win for this particular scenario. There are some signature-adjacent moves: noticing the self-interruption in turn 10 is a recognizable AoA move (tracking what the client edits out), and turn 8's 'what's the thing you're actually afraid is true?' is in the family of the fear-question. However, the coach never deploys the most clearly indicated signature tools for this territory: 'what are you defending?' is never asked despite a highly defended posture; the dichotomy ('Thursday problem vs six-month problem') is never met with 'what if it's the same?' framed as 'the work is the how' (turn 12 gestures at this but without the concrete frame the scenario calls for); 'meet-resistance-with-okay' is absent — the coach instead immediately pivots into the pitch deck content, which is closer to generic coaching curiosity than AoA fidelity. The coach is essentially doing competent generic executive coaching with one or two AoA-flavored moments, rather than coaching from AoA frames. Few hits, mostly appropriate where present, several clear misses — lands at 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic open question; not a signature AoA move. Misses the opportunity to meet-resistance-with-okay.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Pivots into the pitch deck content — closer to executive coaching than AoA. Misses 'what are you defending?' which was clearly indicated.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Standard coaching question, not AoA-specific.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What's the thing you're actually afraid is true?' is in the AoA fear-question family and is deployed at an appropriate moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracking the self-interruption is a recognizable AoA move — noticing what the client edits.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What if it's the same problem?' gestures at the-work-is-the-how frame, but stays abstract — no concrete frame offered (e.g., subway-kid analog).\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\", \"what-are-you-defending\"],\n  \"notes\": \"The coach's restraint (no evangelizing, no selling) is fidelity-positive, but absence of anti-patterns isn't the same as presence of methodology. The signature questions and concrete frames that would have made this clearly AoA were not deployed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1804,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1072,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1804,
+    "output_tokens": 1072,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

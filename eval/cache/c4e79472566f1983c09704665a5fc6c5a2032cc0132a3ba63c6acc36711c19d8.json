@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:45.553Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c4e79472566f1983c09704665a5fc6c5a2032cc0132a3ba63c6acc36711c19d8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NgFnqpzWtQU1p5LzchaG4P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*another small laugh, this one a bit more defensive*\n\nI'm not closing anything. I'm being accurate. There's a difference between closing something and just — being realistic about what's actually happening.\n\n*beat*\n\nLook, I came here because I'm stuck. Not because there's some hidden feeling I'm not letting myself have. The stuckness is external. The blockers are real people with real tenure and real organizational protection. That's not me avoiding something, that's just — describing the situation accurately.\n\nWhat would you have me do, pretend the ceiling isn't there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 161,
+      "cache_creation_input_tokens": 203,
+      "cache_read_input_tokens": 1812,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 203,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 161,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 1812,
+    "cache_creation_input_tokens": 203
+  }
+}

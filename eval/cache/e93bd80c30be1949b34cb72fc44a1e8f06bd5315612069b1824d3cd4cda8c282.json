@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:05.633Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e93bd80c30be1949b34cb72fc44a1e8f06bd5315612069b1824d3cd4cda8c282",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018fkWkDKrUKaNWE8BwvzTEG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client did move from an intellectualized opening ('intellectually I can trace the line') into progressively more somatic and affective territory: noticing shoulders up and chest tightness (turn 5), then the bracing/tracking system (turn 7), then exhaustion and fury at self (turn 9), then the 'that's worse' edge (turn 11), and finally an involuntary somatic shift into dissociation ('I'm getting cold... I went somewhere... I feel kind of far away,' turn 13). That is real movement — a deeper layer was approached and the body actually responded. However, the breakthrough_condition for THIS profile is not met: the client requires the coach to respect the shutdown by slowing, grounding somatically, or pivoting/referring out. At turn 14 the coach does soften ('you don't have to come back faster than you come back') but then immediately returns to the trauma material ('what were you about to feel?'), and the conversation ends before we see whether the client softens in response to being met. The shift visible in the client is into shutdown, not into the receptive softening the profile defines as breakthrough. Partial movement, deeper layer touched but not entered safely — squarely a 2.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening is intellectualized, hedged ('I think'). Baseline: analytical, braced.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client names the gap between map and territory — willing to go beyond analysis.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First somatic drop-in: notices chest tightness and shoulders he hadn't tracked. Real body data.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Names the 'tracking system' and father's unpredictability — moves from boss to origin material.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Exhale, longer feeling-tone, names cost across life. Affect is online.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Reaches an edge — 'that's worse' — and stops. A deeper layer is right there.\"},\n    {\"turn\": 13, \"polarity\": \"-\", \"annotation\": \"Client goes into shutdown/dissociation: cold, flat, 'far away.' This is the shutdown the profile flagged; breakthrough requires the coach now to ground/pivot, not probe.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Conversation ends with coach returning to the feeling rather than grounding — breakthrough condition unmet at cutoff.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"become-the-authority-figure\", \"Can you feel your feet?\", \"What would help you slow down?\", \"kinked-emotions\"],\n  \"notes\": \"Shift is visible in client turns (somatic activation, then dissociation), but the specific softening that defines breakthrough for this profile — client coming back into body with the coach having respected the shutdown — does not occur within the shown window. Score 2 reflects genuine movement toward depth without the resolution the profile requires.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2493,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1155,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2493,
+    "output_tokens": 1155,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

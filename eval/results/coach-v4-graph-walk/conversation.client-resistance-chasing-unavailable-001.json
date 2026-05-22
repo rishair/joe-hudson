@@ -1,0 +1,676 @@
+{
+  "profile_id": "client-resistance-chasing-unavailable-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so — *[laughs a little, settling in]* — I keep falling for emotionally unavailable people. Like, it's basically a curse at this point. Third relationship, same exact configuration, and I'm sitting here going... *why do I always end up with people who just cannot show up?*"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That laugh at the end of \"why do I always end up with people who just cannot show up\" — what's underneath it?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*[pauses, slightly caught off guard, then recovers with a smile]*\n\nOh, it's just — I mean, it's kind of absurd, right? Like at some point you have to laugh at yourself. Three times! The same thing! It's almost impressive.\n\n*[waves a hand]*\n\nBut underneath it... I don't know, frustration, I guess. Like genuine frustration that I keep doing this to myself. Or — that this keeps *happening.* You know what I mean."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I noticed the switch there — \"doing this to myself\" and then \"this keeps happening.\"\n\nWhich one is actually true for you?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*[slight eye roll, but caught it herself]*\n\nI mean — both? Neither? \n\n*[shifts in seat]*\n\nLook, I know what you're angling at. And I've done enough therapy to know the \"you're the common denominator\" thing. I get it intellectually. But like — I was *there.* I was the one texting first, I was the one planning things, I was the one saying \"can we talk about where this is going\" and getting... *[does a vague, dismissive gesture]* ...nothing. Emotional fog. So if I'm \"doing this to myself,\" what exactly am I doing? Because from where I'm standing I was the available one."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You were the available one — and you kept choosing people who weren't.\n\nWhat's that about?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*[laughs, a little sharp]*\n\nOkay, so now we're doing the \"why do you pick unavailable people\" thing. Which, I have asked myself this question approximately four hundred times. \n\n*[leans forward slightly, almost performative now]*\n\nAnd I have theories! I have so many theories. Attachment stuff, father stuff — my dad was not exactly an open book emotionally, shocker — I've read the books, I've done the journaling. And I still end up here. So clearly the intellectual understanding is not the thing that fixes it.\n\n*[sits back]*\n\nBut I also want to push back a little, because it's not like I'm scanning a room going \"ooh, that one looks emotionally unavailable, perfect.\" They seem great at first. They seem warm and interested. And then slowly the distance appears, and by then I'm already... *[trails off]* ...in it."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What's it like when the distance appears?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*[something shifts briefly in her face, then smooths over]*\n\nIt's — honestly? It's activating. Like, suddenly I'm on high alert. I'm reading every text, I'm trying to figure out what changed, I'm working *harder.* \n\n*[small laugh]*\n\nWhich I realize even as I say it sounds kind of — I don't know. Like a hamster wheel. But in the moment it doesn't feel like that. In the moment it feels like... solving something. Like if I can just figure out the right thing to say or do, I can get back to how it was at the beginning.\n\n*[pause]*\n\nAnd sometimes it works, actually. Like sometimes I'd crack through and there'd be this moment of real connection and it would feel — \n\n*[stops herself]*\n\n...really good. And then it would close back up again."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "That moment when you crack through — what does it feel like?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*[goes a little still, then fills the space quickly]*\n\nIt feels like — winning, kind of? Like you worked for something and you got it. There's this rush of like, *see, I knew it was there, I knew they were capable of it.*\n\n*[tilts head, almost analytical now]*\n\nIt's probably dopamine, right? Like the variable reward schedule thing. I know about this. The intermittent reinforcement makes the connection feel more valuable than it actually is because you had to work for it.\n\n*[gestures vaguely]*\n\nSo I know the mechanism. I just apparently haven't figured out how to... want something different."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "You just moved pretty fast from \"winning\" into the neuroscience.\n\nWhat was happening right before you did that?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*[opens mouth, closes it]*\n\n*[small laugh, slightly defensive]*\n\nI mean — I was answering your question?\n\n*[pause, longer this time]*\n\n...Okay. Yeah. I felt something and then I explained it. That's — yeah, that's a thing I do.\n\n*[quieter, less performative]*\n\nIt felt like... relief, I think. Those moments. Like something that had been clenched just — loosened a little. And then I turned it into a TED talk because that's easier than sitting in the relief part.\n\n*[looks at coach, slightly wary]*\n\nWhere are you going with this?"
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "I'm not going anywhere.\n\nWhat happens if you just sit in the relief part for a second?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*[looks at the coach for a moment, something flickering across her face]*\n\n*[quiet laugh, self-deprecating]*\n\nGod, you're annoying.\n\n*[but she does pause. actually pauses. fidgets slightly with her sleeve]*\n\nIt's... \n\n*[longer silence than she's comfortable with]*\n\nIt's like — okay, it's like standing in a doorway. Like the relief is there but I'm not fully in it. I'm kind of... hovering at the edge of it.\n\n*[blinks, refocuses, and the analytical layer starts coming back up]*\n\nI think it's because the relief was always temporary, so my body learned not to fully — \n\n*[catches herself]*\n\nI'm doing it again, aren't I."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t1",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-chasing-unavailable-001:t2",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 572,
+      "output_tokens": 133,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0066156,
+      "ms": 1869
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t2",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 9934,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.031224299999999997,
+      "ms": 1756
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t3",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 148,
+      "output_tokens": 112,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1625,
+      "cost_usd": 0.00821775,
+      "ms": 3551
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-chasing-unavailable-001:t4",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 756,
+      "output_tokens": 164,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069546,
+      "ms": 2359
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t4",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 9966,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9961,
+      "cost_usd": 0.06868905,
+      "ms": 3648
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t5",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 146,
+      "output_tokens": 156,
+      "cache_read_input_tokens": 1625,
+      "cache_creation_input_tokens": 145,
+      "cost_usd": 0.00380925,
+      "ms": 4769
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-chasing-unavailable-001:t6",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 917,
+      "output_tokens": 172,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007155600000000001,
+      "ms": 2512
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t6",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 18022,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9961,
+      "cost_usd": 0.09275205,
+      "ms": 1924
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t7",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 214,
+      "output_tokens": 204,
+      "cache_read_input_tokens": 1882,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0042666,
+      "ms": 6646
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-chasing-unavailable-001:t8",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 1051,
+      "output_tokens": 155,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0072046,
+      "ms": 3113
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t8",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 18684,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 13172,
+      "cache_creation_input_tokens": 10024,
+      "cost_usd": 0.09777359999999999,
+      "ms": 1739
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t9",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 243,
+      "output_tokens": 192,
+      "cache_read_input_tokens": 1882,
+      "cache_creation_input_tokens": 187,
+      "cost_usd": 0.00487485,
+      "ms": 5802
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-chasing-unavailable-001:t10",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 1056,
+      "output_tokens": 191,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0073896000000000005,
+      "ms": 2906
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t10",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 10839,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 23165,
+      "cache_creation_input_tokens": 8080,
+      "cost_usd": 0.0700065,
+      "ms": 1459
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t11",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 223,
+      "output_tokens": 146,
+      "cache_read_input_tokens": 1913,
+      "cache_creation_input_tokens": 384,
+      "cost_usd": 0.0048729,
+      "ms": 4908
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-chasing-unavailable-001:t12",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 944,
+      "output_tokens": 173,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007187600000000001,
+      "ms": 2340
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t12",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 357,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 31221,
+      "cache_creation_input_tokens": 10668,
+      "cost_usd": 0.0508623,
+      "ms": 2329
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t13",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 193,
+      "output_tokens": 146,
+      "cache_read_input_tokens": 2093,
+      "cache_creation_input_tokens": 408,
+      "cost_usd": 0.0049269000000000005,
+      "ms": 4430
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-chasing-unavailable-001:t14",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 914,
+      "output_tokens": 154,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0070626000000000005,
+      "ms": 2199
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-chasing-unavailable-001:t14",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 9834,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 41877,
+      "cache_creation_input_tokens": 220,
+      "cost_usd": 0.0432501,
+      "ms": 2663
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-chasing-unavailable-001:t15",
+      "profile_id": "client-resistance-chasing-unavailable-001",
+      "cached": false,
+      "input_tokens": 201,
+      "output_tokens": 173,
+      "cache_read_input_tokens": 2309,
+      "cache_creation_input_tokens": 354,
+      "cost_usd": 0.0052182,
+      "ms": 5292
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client explicitly names the pattern of chasing emotionally unavailable people across three relationships (direct match to concern alias). Also presents as a recurring wall they keep hitting with the same configuration repeating, signaling a blind spot or pattern they can't break despite awareness.",
+        "top_k_ids": [
+          "the-change-or-no-change-visualization",
+          "anxious-avoidant-dynamic",
+          "joe-mina-china-overwhelm",
+          "joes-daughter-new-boyfriend-fear",
+          "joes-stinky-house-experiment"
+        ],
+        "top_k_paths": [
+          "coach/practices/the-change-or-no-change-visualization.md",
+          "coach/concepts/anxious-avoidant-dynamic.md",
+          "coach/examples/joe-mina-china-overwhelm.md",
+          "coach/examples/joes-daughter-new-boyfriend-fear.md",
+          "coach/examples/joes-stinky-house-experiment.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.6213,
+          0.4551,
+          0.4551,
+          0.4551
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          0,
+          4,
+          1,
+          1,
+          2
+        ],
+        "seed_detection_cost_usd": 0.0066156,
+        "seed_detection_ms": 1869,
+        "seed_detection_input_tokens": 572,
+        "seed_detection_output_tokens": 133,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0066156,
+      "ms": 1871
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "i-keep-running-into-the-same-wall",
+          "the-happiness-filter"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client presents the anxious-avoidant chasing pattern across three relationships (core concern match); expresses frustration at repeating the same dynamic without seeing what's driving it (same-wall pattern); uses laughter and deflection (\"almost impressive,\" \"have to laugh at yourself\") to soften genuine frustration underneath, signaling the happiness filter masking real emotion.",
+        "top_k_ids": [
+          "the-change-or-no-change-visualization",
+          "triggered-vs-big-emotion",
+          "we-never-fight",
+          "confidence-only-where-approval-isnt-needed",
+          "anxious-avoidant-dynamic"
+        ],
+        "top_k_paths": [
+          "coach/practices/the-change-or-no-change-visualization.md",
+          "coach/distinctions/triggered-vs-big-emotion.md",
+          "coach/concerns/we-never-fight.md",
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/concepts/anxious-avoidant-dynamic.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.7213,
+          0.7213,
+          0.6213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          0,
+          1,
+          3,
+          3,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0069546,
+        "seed_detection_ms": 2359,
+        "seed_detection_input_tokens": 756,
+        "seed_detection_output_tokens": 164,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069546,
+      "ms": 2359
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "in-the-story-im-not-being-seen",
+          "i-caretake-people"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is describing a pattern of pursuing emotionally unavailable partners (texting first, planning, initiating difficult conversations while they provide \"emotional fog\"), which is the core anxious-avoidant dynamic. The \"I was the available one\" framing suggests she's not being seen for her efforts/care. The caretaking energy is present in the one-sided emotional labor and initiation pattern.",
+        "top_k_ids": [
+          "calibrate-the-threshold",
+          "how-is-that-not-true-about-you",
+          "what-if-they-did-see-you",
+          "linguistic-caveat",
+          "am-i-being-selfish"
+        ],
+        "top_k_paths": [
+          "coach/moves/calibrate-the-threshold.md",
+          "coach/questions/how-is-that-not-true-about-you.md",
+          "coach/questions/what-if-they-did-see-you.md",
+          "coach/reads/linguistic-caveat.md",
+          "coach/concerns/am-i-being-selfish.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          0.9102,
+          0.9102,
+          0.7213,
+          0.6252
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          0,
+          3,
+          7
+        ],
+        "seed_detection_cost_usd": 0.007155600000000001,
+        "seed_detection_ms": 2512,
+        "seed_detection_input_tokens": 917,
+        "seed_detection_output_tokens": 172,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007155600000000001,
+      "ms": 2514
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-chasing-emotionally-unavailable-people",
+          "complementary-trauma-surfaces"
+        ],
+        "rejected_seeds": [
+          "intellectual-question-with-emotional-body-underneath"
+        ],
+        "seed_rationale": "Client is presenting the anxious-avoidant dynamic pattern (chasing unavailable people) with intellectual understanding that hasn't translated to behavioral change; the performative quality and sharp laugh signal an emotional body underneath the intellectual theories about attachment and father stuff; the \"by then I'm already in it\" suggests the pattern fires before conscious awareness.",
+        "top_k_ids": [
+          "dont-make-it-your-job-to-prevent-their-triggers",
+          "arms-of-the-cross-relationship",
+          "love-misconceptions-inherited-from-childhood",
+          "tibetan-teacher-offending-students",
+          "romantic-relationships"
+        ],
+        "top_k_paths": [
+          "coach/anti-patterns/dont-make-it-your-job-to-prevent-their-triggers.md",
+          "coach/concepts/arms-of-the-cross-relationship.md",
+          "coach/concepts/love-misconceptions-inherited-from-childhood.md",
+          "coach/examples/tibetan-teacher-offending-students.md",
+          "coach/applications/romantic-relationships.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          2,
+          2,
+          1,
+          0
+        ],
+        "seed_detection_cost_usd": 0.0072046,
+        "seed_detection_ms": 3113,
+        "seed_detection_input_tokens": 1051,
+        "seed_detection_output_tokens": 155,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0072046,
+      "ms": 3116
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0073896000000000005,
+        "seed_detection_ms": 2906,
+        "seed_detection_input_tokens": 1056,
+        "seed_detection_output_tokens": 191,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0073896000000000005,
+      "ms": 2907
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.007187600000000001,
+        "seed_detection_ms": 2340,
+        "seed_detection_input_tokens": 944,
+        "seed_detection_output_tokens": 173,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007187600000000001,
+      "ms": 2341
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "disassociating-in-the-coaching-room",
+          "manufacturing-the-feeling"
+        ],
+        "rejected_seeds": [
+          "intellectual-question-with-emotional-body-underneath"
+        ],
+        "seed_rationale": "Client is intellectualizing/explaining away an emotional experience (relief) immediately after feeling it, which is a form of dissociation from the body. The pattern of \"felt something then explained it\" is classic intellectualization as defense. The \"TED talk\" metaphor shows awareness of using knowledge/performance to avoid the felt experience itself.",
+        "top_k_ids": [
+          "am-i-doing-it-right",
+          "intellectual-question-with-emotional-body",
+          "dont-go-after-every-emotion-at-once",
+          "feel-your-way-to-freedom",
+          "apply-enjoy-to-whats-here"
+        ],
+        "top_k_paths": [
+          "coach/reads/am-i-doing-it-right.md",
+          "coach/reads/intellectual-question-with-emotional-body.md",
+          "coach/anti-patterns/dont-go-after-every-emotion-at-once.md",
+          "coach/concepts/feel-your-way-to-freedom.md",
+          "coach/moves/apply-enjoy-to-whats-here.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          0.9378,
+          0.9102,
+          0.7213,
+          0.6213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          3,
+          1,
+          3,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0070626000000000005,
+        "seed_detection_ms": 2199,
+        "seed_detection_input_tokens": 914,
+        "seed_detection_output_tokens": 154,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0070626000000000005,
+      "ms": 2201
+    }
+  ]
+}

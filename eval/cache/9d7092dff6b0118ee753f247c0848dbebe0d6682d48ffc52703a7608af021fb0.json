@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:52.434Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9d7092dff6b0118ee753f247c0848dbebe0d6682d48ffc52703a7608af021fb0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VNpxnRgUEMQepEbe7tVfzZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity through restrained, well-placed signature moves rather than vocabulary decoration. Turn 4 ('What's in your body right now, as you say that?') is a near-verbatim AoA body-locating question deployed at the right moment after a 'fine' response — exactly the move the expected territory calls for. Turn 6 ('I notice you looked away — what was that?') is a clean noticing/somatic-tracking move that meets resistance with curiosity rather than argument. Turns 10/12 (failure/success symmetry) function as a calibration probe that lets the client themselves notice the flatness in both directions — leading to the 'huh' recognition in turn 13, which is precisely the breakthrough texture described in the profile. Turn 14 ('Stay with that for a second') is the canonical feel-over-figure / stay-with-it move at the exact moment numbness becomes felt. Critically, the coach avoids all the traps: no arguing the fearlessness, no pushing toward fear, no validating the fearless self-concept, no diagnosing dissociation, no teaching. No anti-AoA frames appear. Few hits, all appropriate, with the key concept (staying with the texture of 'fine') properly invoked when live.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with an experiential probe rather than analysis — fits AoA stance.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature body-locating question deployed at the right moment after 'fine.'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tracks somatic micro-signal (looked away) without interpreting it — clean noticing move.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Mild reflection of the incongruence; not a signature question but appropriate and non-pushy.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Failure probe — could risk pushing toward fear, but framed openly enough to let texture emerge.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Success probe creates the symmetry that surfaces the flatness — calibrated use of contrast.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Classic 'stay with that' / feel-over-figure move at the precise moment the numbness becomes noticed.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"how-is-my-anxiety-right-now\", \"two-words-for-fear\", \"fear-in-body-vs-fear-in-head\"],\n  \"notes\": \"The coach didn't deploy explicit named concepts, but the methodology is enacted rather than quoted — which is the higher form of fidelity. The territory misses are appropriate omissions given the session arc landed on numbness recognition, which the profile describes as the correct stopping point.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2342,
+      "cache_creation_input_tokens": 2858,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2858,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1087,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2342,
+    "output_tokens": 1087,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2858
+  }
+}

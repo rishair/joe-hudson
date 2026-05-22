@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:14.739Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3b7a1c879c7728e3ad4007ba9b70f98a365ecc5293328d8019a19fe6feca1880",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VZ6V2gQQfiaQYxUSwALtLE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some genuine perceptual tracking but misses the most critical read at the end. Early on, the coach catches the linguistic caveat 'I think' (turn 2) — a specific AoA read of hesitation in the language. The coach also names the bracing pattern functionally in turn 6 ('something that runs ahead of him'), which is a real pattern-level read of the tracking system. However, when the client shows the most important shift — dissociation/freeze in turn 13 ('I'm getting cold', flatter voice, 'I went somewhere', 'far away') — the coach acknowledges it gently but does not name the freeze or the somatic shutdown specifically. The coach says 'stay where you are' but then immediately redirects back to 'what were you about to feel,' missing the read that the body has just left the room. A score-3 coach would have explicitly named the freeze/dissociation as a state ('this is your nervous system protecting you — this is the shutdown we've been talking about'), tracked the cold/flatness as somatic signature, and pivoted to grounding. The reads present are real but generic-to-moderate; the crucial pattern read (freeze/dissociation in the room) is missed at the moment it matters most.\",\n  \"evidence_turns\": [2, 4, 6, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'I think' — a specific read of hesitation in language.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Directs attention to the body — invites somatic tracking, though doesn't name a specific read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the bracing as pattern, not response — a functional pattern-level read of the tracking system running ahead.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Compassionate reflection but not a read of how the client is showing up in the moment.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Pattern question about the fury but no read of the current somatic state.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Pushes toward 'what's the feeling right there' without reading the lengthening pauses and slowing pace — misses the rush-to-feeling signature in the coach's own move.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Acknowledges the shift gently but fails to name the freeze/dissociation explicitly. The cold, flatness, and 'far away' are the textbook freeze signature and go unnamed. Redirects back to feeling rather than naming the state.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The coach's reads are real in the first half (linguistic caveat, bracing-as-pattern) but the critical freeze read in turn 13 is unnamed. The coach also doesn't catch their own rush signature in turn 12, which is what precipitated the shutdown.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2498,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1053,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2498,
+    "output_tokens": 1053,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

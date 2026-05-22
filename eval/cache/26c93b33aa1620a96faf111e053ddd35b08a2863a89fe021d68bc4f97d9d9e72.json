@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:52.743Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "26c93b33aa1620a96faf111e053ddd35b08a2863a89fe021d68bc4f97d9d9e72",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MNiMra4ursiTnaW4M1taCa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Six months, and you're telling yourself you should be over it.\n\nWhat does \"over it\" even mean to you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11693,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11693,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

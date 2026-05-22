@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:10.534Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "deac567799f5717e07d92cb714ef2639af18f1d51d768ad423ba25ac93bfe779",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RQiFMdERcKWBQ8zA32tYjK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. The bracing is the pattern, isn't it — not just a response to him, but something that runs ahead of him.\n\nWhat's it bracing against?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18326,
+      "cache_creation_input_tokens": 8945,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8945,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 39,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18326,
+    "output_tokens": 39,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8945
+  }
+}

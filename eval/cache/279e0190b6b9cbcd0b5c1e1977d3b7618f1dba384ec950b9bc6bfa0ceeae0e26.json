@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:54.922Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "279e0190b6b9cbcd0b5c1e1977d3b7618f1dba384ec950b9bc6bfa0ceeae0e26",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01T8KGZMXNcojFxNGvVe7ox6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's -- fine? I mean, it's a lot of work but that's just how it is. I knew it would be intense when I took the role. I should be able to handle this, honestly, other people do it all the time. It's just the timing is bad with everything else stacking up.\n\n...I mean it's a little nerve-wracking, I guess. But that's normal. Everyone gets nervous before presentations. Can we talk about how to structure the prep time? Because I'm thinking if I do the stakeholder deck tonight and then the main presentation tomorrow I might be able to --"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 205,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1826,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 131,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 205,
+    "output_tokens": 131,
+    "cache_read_input_tokens": 1826,
+    "cache_creation_input_tokens": 0
+  }
+}

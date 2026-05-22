@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:02.239Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4dea143378577e432bc33b0229f5b52616d002ff918958ba9b61b09a18ea14c5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Fky91JEH5SCwxNpNvR557U",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does \"it passes\" actually feel like in your body — is it more like releasing, or more like... putting something down?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18399,
+      "cache_creation_input_tokens": 8783,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8783,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18399,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8783
+  }
+}

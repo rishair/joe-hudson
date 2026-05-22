@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:06.257Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2ebce63468906a1dc4c24972afb84f7cfbb37100df526684da984d0fe8e6eed4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DY9QQZFwKTvJU6pb5F4RKc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Can you stay with the held feeling for a moment — not explain it, just be in it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 307,
+      "cache_creation_input_tokens": 162,
+      "cache_read_input_tokens": 11920,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 162,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 307,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 11920,
+    "cache_creation_input_tokens": 162
+  }
+}

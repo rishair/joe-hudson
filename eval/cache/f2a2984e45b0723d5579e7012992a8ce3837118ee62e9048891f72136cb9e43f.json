@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:42.341Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f2a2984e45b0723d5579e7012992a8ce3837118ee62e9048891f72136cb9e43f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018NGS5u6xDY3BnAURTqKcK6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach holds a genuine VIEW stance throughout. They refuse to debate the selfishness question on its terms (impartiality), instead consistently turning toward what's actually present. Questions emerge from real curiosity about the phenomenon in front of them ('what does it feel like to ask it?', 'that's not really about books, is it?') rather than from a script or agenda. Pace is notably slowed — single questions held with space, no stacking, no rushing to fix when the client gets tearful or vulnerable in turns 7 and 9. The coach catches the self-prosecution move in turn 8 with precision and warmth, without making the client wrong for it. Empathy is felt, not performed — no filler validation noises. Wonder is for the actual texture of what the client is saying ('I miss being a person who reads'), not generic probing. The coach has no apparent agenda for the client to land on 'go on the trip' or 'don't go' — they stay with the fear in turn 12 rather than rescuing toward resolution. Vulnerability/own-state-naming from the coach is the one component less visible, but its absence doesn't read as defended — more as appropriate restraint in a client-led moment.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with genuine wonder about the felt experience of the question itself rather than engaging the selfishness debate. Single question, held.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names what's actually happening ('a confession waiting for a sentence') with precision, not performance. Then redirects to the want without preaching.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"One quiet, curious question that meets exactly what the client just said. No agenda, no stacking.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the self-prosecution move with warmth and accuracy. Does not shame the client for it; invites her back to what was real. Stance is undefended.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the impartial frame — 'what if the answer was no' — without pushing her toward it. Lets her discover what the question is actually guarding.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the fear rather than rescuing. 'Not solve it, just feel what it's like' is genuine welcoming, not technique.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\"],\n  \"expected_territory_misses\": [\"childhood-imprinting\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach never names their own state/experience (the V in VIEW is the weakest leg), but the conversation doesn't call for it and the absence doesn't read as defended. Other three VIEW components are clearly present.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2746,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1021,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2746,
+    "output_tokens": 1021,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

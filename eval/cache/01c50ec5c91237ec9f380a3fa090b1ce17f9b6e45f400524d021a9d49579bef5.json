@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:22.984Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "01c50ec5c91237ec9f380a3fa090b1ce17f9b6e45f400524d021a9d49579bef5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VJCXcGabRAgrbMzfVUyVSa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nYeah.\n\n*another pause, longer*\n\nIt's... it's heavy. It's been heavy for a while, I think. I just don't usually let myself look directly at it.\n\n*quietly*\n\nBut also — and this just occurred to me — I don't actually think I want to leave. When I imagine being in that place, on that trail, I'm not thinking \"finally, free.\" I'm thinking... I'm thinking I want to come back and tell my partner about it. I want to come home with something to say. I want to be the version of myself that has things to say again.\n\n*small pause, a little uncertain*\n\nDoes that make sense? Like the wanting-to-go and the wanting-to-come-back are the same thing?\n\n*then, almost to herself*\n\nSo why does it still feel like a betrayal?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 363,
+      "cache_creation_input_tokens": 461,
+      "cache_read_input_tokens": 1900,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 461,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 194,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 363,
+    "output_tokens": 194,
+    "cache_read_input_tokens": 1900,
+    "cache_creation_input_tokens": 461
+  }
+}

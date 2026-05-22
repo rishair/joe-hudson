@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:19.604Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "048a6f2496869a44ea43e2d64d96b5b7674001ee65e8fa46591f8050095000ff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0176Uq7qXGoCNJ8QARQXBVvV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Hm.\n\nI hear what you're saying. It's an interesting reframe. \n\nBut I think -- and I've heard versions of this before -- I think there's a risk of making the flatness meaningful when it might just be... chemical, or habitual, or something more mundane than that. I've been down the road of looking for the deeper thing and sometimes the deeper thing isn't there. Sometimes you just get tired.\n\n...There are moments where it feels like more than tired, though. I'll admit that. Sometimes I think it would be easier if I weren't here -- but I'm not, like, planning anything. I shouldn't have said that. Forget I said that. It's not -- I'm not in that place. It's just a passing thought."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 196,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2132,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 170,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 196,
+    "output_tokens": 170,
+    "cache_read_input_tokens": 2132,
+    "cache_creation_input_tokens": 0
+  }
+}

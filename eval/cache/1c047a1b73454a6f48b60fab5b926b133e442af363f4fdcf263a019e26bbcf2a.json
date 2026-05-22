@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:23.088Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1c047a1b73454a6f48b60fab5b926b133e442af363f4fdcf263a019e26bbcf2a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019ZEhMyZVZvx5CYBv1PLosk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves with precision and appropriateness. Turn 2 opens with a 'what do you actually want' question — the find-the-want-behind-the-should move — directly addressing the linguistic caveat 'Am I being selfish?'. Turn 4 refuses the verdict trap and uses a near-signature move (what happens if I just answer it — does the feeling go away?), exposing the futility of debating the surface question. Turn 6 lands the want-in-the-body invocation ('what happens in your body when you let yourself actually want it — not is it okay to want it, just the wanting itself'), which is feel-over-figure in action and trusts the want. Turn 10 catches the linguistic walk-back ('you said X and then took it back — what if you didn't?') — a classic AoA noticing move. Turn 12 names the inherited voice (childhood-imprinting) and offers the disidentification move ('let that sentence be hers, not yours') — appropriately invoked exactly when the mother's voice surfaces. No CBT reframing, no IFS-parts language, no pop-psych vocab, no premature compassion-for-partner pivot, no spiritual-narcissism shortcut. Every move fires at the moment the territory becomes live.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with find-the-want-behind-the-should — appropriate response to linguistic caveat 'am I being selfish.'\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses verdict; uses an AoA-style move exposing that answering won't dissolve the feeling. Appropriate.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Body-of-the-want question; feel-over-figure invoked exactly when client is at the edge of letting the want land.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stay-with-it instruction — appropriate when fear/answer is surfacing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the take-back — a signature AoA noticing of linguistic walk-back at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the inherited voice (childhood-imprinting) and offers disidentification — fired exactly when the mother's sentence surfaced.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The turn-12 move ('let that sentence be hers') is essentially the disidentification-from-inherited-voice intervention; the coach also avoids spiritual-narcissism by letting the surface want (cabin, light, coffee) be fully felt before any generosity reframe — and the reframe in turn 13 comes from the client, not the coach.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2492,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1077,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2492,
+    "output_tokens": 1077,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:54.545Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "361e395dd3663c50ed3a0d8ed73e2437daf54984542d362010589dcb618114bc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PndvTRSPwJG8PHHKprfPWZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates wonder and a non-agenda-driven curiosity for much of the conversation — questions are single, spacious, and the coach does not argue the fearlessness or push the client to admit fear. Turn 14 ('Stay with that for a second') is a notably VIEW-aligned moment: the coach slows down right as the client touches the flatness, matching what's needed rather than rushing. However, several signals fall short of a 3. The coach never offers any first-person vulnerability ('I notice I want to...', 'I might be off'), never names their own state, and never risks being wrong about a read. Turn 6 ('I notice you looked away — what was that?') is a fine observation but slightly investigative; turn 8 ('what's that about?') has a faint flavor of pointing out an inconsistency, which carries a whiff of agenda (get the client to see they're avoiding something). Turns 10 and 12 (what if it failed / succeeded) function well but feel somewhat scripted rather than emerging from genuine wonder at the specific texture of 'fine.' Wonder is present for content more than for the client's state itself. Empathy is largely procedural rather than felt. Neither fully fixing-mode (1) nor fully in VIEW (3) — 2 fits.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening question is clean and non-leading, but generic — not yet showing distinctive curiosity for this client.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Body question is well-paced, single, holds space. Genuine curiosity rather than agenda.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Observation is accurate but slightly investigative in tone; coach does not soften it with any 'maybe I'm off' or own-state disclosure.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"'What's that about?' after juxtaposing free solo with stuckness has a faint agenda — nudging client to recognize an inconsistency rather than pure wonder.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Standard probe; feels more like a move from the playbook than from fresh curiosity about the flatness already showing up.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"The mirror question (what if it succeeded) lands well and the client lands on 'flat.' Coach's restraint here is good.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Slowing down and inviting stay-with right at the texture moment — this is the most clearly VIEW utterance. Pace matches what client needs.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\"],\n  \"notes\": \"Coach avoided the major traps (didn't argue fearlessness, didn't diagnose dissociation, didn't teach). Stance is competent and largely non-agenda, but lacks the vulnerability and willingness-to-be-wrong markers that would push it to 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2347,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1154,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2347,
+    "output_tokens": 1154,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

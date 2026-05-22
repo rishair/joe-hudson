@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:39.184Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7e1397335714c2d1f0b3e282189731aabfa6516376b53148411ba73b3597448f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SHbgFTBbHNrBdWa2ueqfSu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very small smile, different from the earlier one — less performed*\n\nYeah.\n\n*sits with it*\n\n...The wanting-to-name is so fast. It's like a reflex. Something moves and immediately there's this — cataloguing impulse. \n\n*pause*\n\nI've been doing that for two years. Something happens and I — file it.\n\n*quieter*\n\nWhat if I've been filing instead of... feeling.\n\n*that lands somewhere, you can see it in the slight change around the eyes*\n\nThat's not a question I've asked before. I've asked \"which part is feeling this\" but not... what if the filing is the thing that stops the feeling from completing.\n\n*upright posture softens very slightly*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 168,
+      "cache_creation_input_tokens": 293,
+      "cache_read_input_tokens": 2280,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 293,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 165,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 168,
+    "output_tokens": 165,
+    "cache_read_input_tokens": 2280,
+    "cache_creation_input_tokens": 293
+  }
+}

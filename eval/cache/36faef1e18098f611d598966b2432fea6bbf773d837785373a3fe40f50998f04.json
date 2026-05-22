@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:25:56.140Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "36faef1e18098f611d598966b2432fea6bbf773d837785373a3fe40f50998f04",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018wr826JMoDrmEsK7oStnCC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you looked away for a second there.\n\nWhat was that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10177,
+      "cache_creation_input_tokens": 10005,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10005,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 18,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10177,
+    "output_tokens": 18,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10005
+  }
+}

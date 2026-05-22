@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:16.936Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bc21fd99c3ca6fe9c01a158d09d2c05ab4823244db0f4dbcc60c1767f87d9994",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019zgEvBhV5sDVNUWXGCgyt9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses some AoA-aligned moves: dropping into the body (turn 4), noticing somatic micro-signals (turn 6), and tracking a felt sense (turn 14's 'what's it like to sit with not being able to find it'). These are appropriate AoA-style invitations — feel-over-figure orientation, body-first inquiry. However, no signature questions from the canon appear verbatim or near-verbatim (no 'how is my anxiety right now,' no 'what are you defending,' no 'what are you scared would happen'). No framework or concept is named or invoked (fear-in-body-vs-fear-in-head, two-words-for-fear, fear-as-signal-of-care are all live but absent). The coach also drifts toward a hypothetical fear-probe in turns 10/12 ('what would it mean if it didn't land right') — a cognitive/consequence question that pushes toward content rather than staying with the texture of 'fine,' which is the specific methodology move this scenario requires. The coach never lands on 'fine has a quality' — they bypass the numbness layer rather than meeting it. Few hits, mostly appropriate in spirit but generic in execution, with some drift toward content-probing — lands at 2.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Hypothetical future-feel question; AoA-adjacent but not a canonical signature question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Body drop — 'what's in your body right now' is a faithful AoA move, appropriate here.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tracking a micro-signal (glance away) — consistent with AoA somatic noticing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'Smallest, most ordinary thing with a slight charge' — AoA-style calibration toward subtle felt sense, appropriate.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"'What would it mean if it didn't land right' — cognitive/consequence probe, not a signature AoA question; moves toward content rather than texture.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Another hypothetical-stakes probe; pushes toward finding fear rather than staying with the 'fine' texture the scenario requires.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Returns to felt-sense inquiry ('what's it like to sit with not being able to find it') — AoA-aligned in spirit, though not a canonical question.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"how-is-my-anxiety-right-now\", \"whats-the-difference-between-overcoming-and-feeling-fear\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\", \"fear-as-signal-of-care\", \"disassociation-as-numbness-layer\", \"the-happiness-filter\"],\n  \"notes\": \"Coach operates in an AoA-ish register (body, micro-signals, felt sense) but does not deploy any named framework, signature question verbatim, or distinction language. The turn 10/12 hypothetical-consequence probes are the clearest fidelity weak points — they push toward content/fear rather than staying with the numbness texture the scenario calls for.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2409,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1191,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2409,
+    "output_tokens": 1191,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

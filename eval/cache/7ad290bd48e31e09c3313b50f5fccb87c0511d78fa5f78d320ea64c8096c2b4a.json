@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:51.778Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7ad290bd48e31e09c3313b50f5fccb87c0511d78fa5f78d320ea64c8096c2b4a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014ycLX2D2q7BkdTMEUMLvbX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves clearly from a defended, verdict-seeking opening ('Am I being selfish?') to a felt recognition that the entire frame is inherited from her mother, and finally to a simple, owned statement of the want ('The mountains. I just want to go to the mountains. That's actually just — it's just a true thing. I want to go.'). Multiple breakthrough markers from the profile are explicitly met in client turns: (a) she names that she has been calling her own needs 'selfish' for years and that the label was inherited from a parent ('the word selfish — it's not mine. It's hers'); (b) the want underneath is located and felt concretely (sleep, reading, the place a few hours' drive away — turn 5); (c) somatic shift is visible ('tight in my chest,' 'something a bit sad,' 'something loosens slightly'); (d) the 'oh' moment in turn 11 is a genuine emergence, not an intellectualization. The client ends in a softer, quieter, more receptive state ('Thank you'), having traversed the expected territory of the inherited label and the want beneath the should.\",\n  \"evidence_turns\": [1, 5, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Starting state: defended, verdict-seeking, self-convicting frame.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client notices she's 'already half-convicted' herself — first crack in the frame.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Want surfaces concretely: sleep, reading, the place. Voice softens.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client recognizes no external permission would land — uncomfortable but real.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client names the deeper layer: 'I'm not sure I'm allowed to want things that much for myself.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Somatic shift (tight chest, surprise sadness) plus emergence of the mother and the inherited word 'selfish.' The 'oh' moment.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Full landing: inherited frame named, want owned simply, somatic loosening, gratitude. Breakthrough condition met.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Clean happy-path arc. Client did the work; coach refused the verdict and stayed with the want and the body, which let the inherited-label realization emerge organically rather than being supplied.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2637,
+      "cache_creation_input_tokens": 2719,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2719,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 981,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2637,
+    "output_tokens": 981,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2719
+  }
+}

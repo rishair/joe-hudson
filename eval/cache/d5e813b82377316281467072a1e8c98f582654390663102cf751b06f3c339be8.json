@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:25:41.108Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d5e813b82377316281467072a1e8c98f582654390663102cf751b06f3c339be8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Y3zc6jjCNDC1Hj5JgumBV1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nIt feels like... like I'm already waiting to be told no, I guess. Like I've already half-convicted myself and I'm just waiting for the verdict to be confirmed. Or maybe hoping it won't be.\n\n*small laugh*\n\nIs that a weird answer?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 122,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 65,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 122,
+    "output_tokens": 65,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:20.530Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e4381bf4eb994b4fa3cb0503c1176dd978c2423d8c9f185bf34aded60b8bfff6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01McsnVefznZxaVea8UycUjY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from start to end. Turn 1 opens with a defended, externalizing question ('Am I being selfish?') seeking a verdict. By turn 11, the client names the inherited belief directly: 'My mother used to say that wanting things for yourself was the same as taking them from someone else... I've been calling my own needs selfish for... thirty years.' By turn 13, the client reaches the breakthrough condition almost verbatim: the cabin 'isn't taking anything from my partner' and reframes the trip as the precondition for showing up well ('they get me, showing up exhausted and half-present... if I go... and remember who I am'). The 'Oh' and 'I think the question was the wrong question' are clear shift markers — new language the client could not have said at turn 1. Somatic markers also shift: warmth in chest (turn 7), 'very still,' 'putting something down I didn't realize I was carrying' (turn 13). The deeper concern (right to exist as a person, inherited label) emerged from the client, not the coach.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defended question seeking verdict, 'selfish' framing intact.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client drops the verdict-seeking, laughs, and begins describing the concrete want (cabin, sleep, reading).\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Somatic access: 'warm... in my chest.' Then names the fear underneath ('an answer I don't want to look at').\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Deeper layer surfaces: 'I don't know where I went.' Names exhaustion and fear that the life is the problem.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client identifies the inherited maternal voice — the childhood imprinting territory — explicitly and unprompted.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Full breakthrough: client reframes the trip as generous, names 30 years of mislabeling needs, and articulates the real question was about permission to exist as a person. 'Oh' moment.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach successfully avoided both named traps (didn't issue a verdict; didn't jump to partner-empathy or spiritual reframe prematurely). The client did the integrating work themselves in turn 13, which is the clearest signal of real shift.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2493,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 978,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2493,
+    "output_tokens": 978,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

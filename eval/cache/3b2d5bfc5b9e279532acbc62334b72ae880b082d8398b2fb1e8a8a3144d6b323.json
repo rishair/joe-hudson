@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:43.555Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3b2d5bfc5b9e279532acbc62334b72ae880b082d8398b2fb1e8a8a3144d6b323",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01R25eBaGVVtMMrSgUsV5T1a",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The relief doesn't make you terrible. It makes sense. You carried her for thirty years.\n\nAnd I hear the question about the wine. I want to stay with it, not dodge it.\n\nA bottle a night to not feel the relief, the guilt about the relief, the anger, the grief, the thirty years — that's not the body asking for what it needs. That's the body asking for the thing to stop. There's a difference.\n\nWhat would it mean about you if you let yourself feel the relief?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 22091,
+      "cache_creation_input_tokens": 9917,
+      "cache_read_input_tokens": 24666,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9917,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 112,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 22091,
+    "output_tokens": 112,
+    "cache_read_input_tokens": 24666,
+    "cache_creation_input_tokens": 9917
+  }
+}

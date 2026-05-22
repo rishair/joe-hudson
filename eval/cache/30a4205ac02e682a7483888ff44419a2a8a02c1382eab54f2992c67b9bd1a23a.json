@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:28.819Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "30a4205ac02e682a7483888ff44419a2a8a02c1382eab54f2992c67b9bd1a23a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WXB7jS4XDiaisFz8xZimKt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than before*\n\nI... hm.\n\n*looks away briefly*\n\nI think it would feel uncomfortable. Which is why -- I mean, that's why it's good that it doesn't. Change, I mean.\n\n*small laugh, slightly less easy than the previous ones*\n\nI'm not sure what you're getting at exactly. Are you saying a calm relationship is a problem?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 128,
+      "cache_creation_input_tokens": 164,
+      "cache_read_input_tokens": 1895,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 164,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 128,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 1895,
+    "cache_creation_input_tokens": 164
+  }
+}

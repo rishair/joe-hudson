@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:06.506Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "06e59f9aec6ae70af0a8213e140a96108a3ddb5ca1a7186296cfd51fd503c4e1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HHK3yyumVxw3Gbc31PPzhT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*smile stays, but something flickers*\n\nI... do that. I make choices without certainty all the time. That's not actually the problem.\n\n*pause, slightly longer than usual*\n\nThe problem is that I used to make choices and feel okay about not knowing. And now I make choices and there's this... residue. This low-grade monitoring, like I'm waiting for evidence that I got it wrong. It's not the not-knowing I can't tolerate. It's the -- \n\n*stops*\n\nHm.\n\n*quieter*\n\nI'm not sure I finished that sentence correctly.\n\n*small smile, but it's different -- less a filter, more just present*\n\nMaybe it's not about the decision at all. Maybe it's about what happens after. The watching. The waiting to be wrong.\n\n*beat*\n\nBut I still think if I trusted the process going in, the monitoring afterward would ease. So I come back to -- how do I trust the process."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 274,
+      "cache_creation_input_tokens": 391,
+      "cache_read_input_tokens": 1907,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 391,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 217,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 274,
+    "output_tokens": 217,
+    "cache_read_input_tokens": 1907,
+    "cache_creation_input_tokens": 391
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:51.760Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "23d7a9fec876e695de186d3c6974e06ac43edee61dd942cdcd4b6a74769b64ab",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GUV8f7wYx8eMEwcCKhnDBR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... it's not really \"protecting\" me from anything. It's just math. When I hit 800k liquid, I realized that wasn't actually enough to cover a real emergency plus my parents' care plus a market downturn scenario. So now I'm at 1.2 as the target. That's not goalpost-moving, that's just recalculating based on actual variables. The question is how do I get there faster — are we talking about income optimization or investment strategy?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 114,
+      "cache_creation_input_tokens": 1626,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1626,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 114,
+    "output_tokens": 109,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1626
+  }
+}

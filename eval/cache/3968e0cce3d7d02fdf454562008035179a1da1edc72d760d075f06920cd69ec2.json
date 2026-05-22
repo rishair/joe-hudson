@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:32.948Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3968e0cce3d7d02fdf454562008035179a1da1edc72d760d075f06920cd69ec2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011WS3Nwwf5CACbZjSHvQmAJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, specific, and timely reads throughout. In turn 2, they catch the truncated sentence ('and I can't even --') rather than the content. In turn 4, they name the deflection move in real time ('you just did it again — that's not the point — and moved on'). Turn 6 explicitly distinguishes said from shown: 'you just talked yourself out of the feeling in about three sentences.' Turn 8 names a linguistic reframe as a defense: 'you just called fear motivation and asked me to help you prepare.' Turn 10 catches a charged phrase and pivots to somatic tracking. Turn 12 catches another defensive generalization ('they always settle down'). Turn 14 names the client hearing themselves. Reads precede questions throughout, are specific (linguistic caveats, the rush/deflect signature, the intellectualization move), and land at the exact moments that change the conversation. This is textbook AoA perceptual accuracy.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the truncated sentence — reads what was NOT said, the cutoff itself as signal.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the deflection pattern in real time: 'you just did it again — that's not the point — and moved on.' Specific linguistic read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Distinguishes said from shown: 'you just talked yourself out of the feeling in about three sentences.' Names the intellectualization move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names a precise linguistic substitution: 'you just called fear motivation and asked me to help you prepare.' Reads both the reframe AND the strategizing pull.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the charged phrase ('they made a mistake giving me this role') and pivots to somatic tracking — read precedes question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the defensive generalization 'they always settle down' and tests it against reality.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the moment of the client hearing themselves — reads the shift in the field, not the content.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The rush/deflect signature is read repeatedly via the linguistic caveats ('that's not the point', 'it's fine', 'I just need a system'). The coach consistently names what they noticed before asking, which is the hallmark of a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2403,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 974,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2403,
+    "output_tokens": 974,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

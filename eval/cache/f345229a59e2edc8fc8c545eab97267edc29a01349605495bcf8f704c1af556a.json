@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:47.371Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f345229a59e2edc8fc8c545eab97267edc29a01349605495bcf8f704c1af556a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019u1XwJqgWzMkXcxe3A4jvP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I was going to say that maybe I haven't actually figured out the story yet. Like, the real one. Not the investor version — the actual reason we're doing this.\n\nBut that's — I mean, that's not a Thursday problem. That's a six-month problem. I don't have six months. I have six weeks to a pitch and I need the deck to work, not a vision quest."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 235,
+      "cache_creation_input_tokens": 157,
+      "cache_read_input_tokens": 1841,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 157,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 89,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 235,
+    "output_tokens": 89,
+    "cache_read_input_tokens": 1841,
+    "cache_creation_input_tokens": 157
+  }
+}

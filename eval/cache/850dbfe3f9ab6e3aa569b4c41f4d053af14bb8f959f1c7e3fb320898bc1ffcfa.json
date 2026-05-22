@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:32.844Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "850dbfe3f9ab6e3aa569b4c41f4d053af14bb8f959f1c7e3fb320898bc1ffcfa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01REbgVuma8Mcj52sQz6NfUk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No. I'm curious what's uncomfortable about the temperature changing."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8118,
+      "cache_creation_input_tokens": 9670,
+      "cache_read_input_tokens": 30527,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9670,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 16,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8118,
+    "output_tokens": 16,
+    "cache_read_input_tokens": 30527,
+    "cache_creation_input_tokens": 9670
+  }
+}

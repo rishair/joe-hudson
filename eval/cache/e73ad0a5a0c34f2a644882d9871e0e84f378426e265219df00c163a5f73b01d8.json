@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:26.953Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e73ad0a5a0c34f2a644882d9871e0e84f378426e265219df00c163a5f73b01d8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JbPKeqerNby6YcxWeMNcBR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You didn't plan to say that — and then you said it anyway. That's worth something.\n\nThe critic gets credit. It built something real. And it's been running at full volume for a long time, and you're exhausted.\n\nBoth of those things are true at once.\n\nI'm not going to give you a way to turn it down. Not because one doesn't exist, but because I don't think that's actually what you want. I think you want to stop being so alone with it.\n\nIs that wrong?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10218,
+      "cache_creation_input_tokens": 10891,
+      "cache_read_input_tokens": 33136,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10891,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10218,
+    "output_tokens": 115,
+    "cache_read_input_tokens": 33136,
+    "cache_creation_input_tokens": 10891
+  }
+}

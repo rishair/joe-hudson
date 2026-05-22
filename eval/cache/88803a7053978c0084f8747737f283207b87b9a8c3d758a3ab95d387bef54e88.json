@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:53.752Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "88803a7053978c0084f8747737f283207b87b9a8c3d758a3ab95d387bef54e88",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KwkLTt2L6krekgRRMnJPPG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that*\n\n...I've been doing that for a long time, haven't I. Just — saying the real thing and then walking it back before anyone can react to it.\n\n*voice softer*\n\nI don't know where I went. That's... that's actually true. I used to read constantly. I used to have opinions about things that weren't related to anyone else's schedule. I used to just — exist, as a person, not just as a function.\n\n*pause, something tightening*\n\nBut I chose this. I wanted the family, I wanted the job, I — \n\n*stops*\n\nMy mother used to say that wanting things for yourself was the same as taking them from someone else. She said it like it was obvious. I heard it so many times I stopped noticing I believed it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 231,
+      "cache_creation_input_tokens": 335,
+      "cache_read_input_tokens": 1630,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 335,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 180,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 231,
+    "output_tokens": 180,
+    "cache_read_input_tokens": 1630,
+    "cache_creation_input_tokens": 335
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:07.176Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "203048fbf945ecfeff803d934ae5ac17c24c7be0a284b525cb72751a3afb4df8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Y7Upsd9E6hGJwQEUYU6Qkt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is alive and pointed at the actual phenomenon in front of them (the laugh, the switch in language, the speed of the move into neuroscience) rather than at generic 'what's underneath.' Pace is notably mismatched in the right direction — when the client speeds up, performs, or intellectualizes, the coach slows down with single, short questions and holds silence. Impartiality is strong: the coach does not collude with the victim frame in turn 5 ('I was the available one') nor does the coach push 'you choose this' as accusation — turn 6 names the configuration steadily and then opens, without agenda. When the client gets prickly ('Where are you going with this?'), the coach's response in turn 14 — 'I'm not going anywhere' — is undefended, non-strategic, and lands as genuine non-attachment rather than technique. Questions arrive one at a time, not stacked, which signals the coach is not anxious. No filler validation, no preacher mode, no fixing energy. The coach is curious about the actual texture of the relief/doorway moment rather than steering toward insight.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single, specific noticing question aimed at the live phenomenon (the laugh). Wonder, not investigation.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the language switch without interpreting it. Impartial — does not push either side as correct.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Steady naming of the configuration without accusation; holds ground through prickliness without escalating or retreating.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Short, open question. Coach does not chase the client's theories or validate the disdain for exes.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with the felt experience the client almost touched and pulled away from. Wonder for the actual moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the move into neuroscience without judgment. Curious about the pivot itself, not trying to fix it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'I'm not going anywhere' — undefended, no agenda, no need to be the smart coach. Classic VIEW-state response to client defensiveness.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"what-are-you-defending\"],\n  \"notes\": \"Stance is clean and unhurried. Misses on signature questions belong to Methodology Fidelity, not here.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2874,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 989,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2874,
+    "output_tokens": 989,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

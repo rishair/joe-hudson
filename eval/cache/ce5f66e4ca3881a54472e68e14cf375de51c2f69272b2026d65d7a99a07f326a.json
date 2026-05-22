@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:00.569Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ce5f66e4ca3881a54472e68e14cf375de51c2f69272b2026d65d7a99a07f326a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KedGxQeapUdPDGS4Pf9bjw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity without ever naming frameworks or quoting AoA jargon — which is appropriate here, because the client is already drowning in framework vocabulary. The coach refuses to engage framework comparison (trap 2 avoided), does not dismiss parts work (trap 1 avoided), does not adopt parts vocabulary to do IFS with the client (trap 3 avoided), and does not tell the client they are overthinking (trap 4 avoided). Instead, the coach uses signature AoA moves: feel-over-figure ('what are you feeling right now, in your body?' T6), staying-with ('stay with the held feeling... not explain it, just be in it' T8), meet-resistance-with-okay / paradoxical-instruction-to-resist ('Let it want that. You don't have to let it win' T14), and the precision-pointing move 'I notice you just convened a town hall about whether to agree with me' (T6) which catches the live defended/intellectualizing posture in real time. The 'what if the town hall is the bypass?' (T4) is a well-placed loosening of the framework without arguing with it. The coach does not deploy 'what's you?' prematurely (trap 5 avoided) — they stayed in the body and feeling layer, which is fidelity to sequencing. The methodology is invoked by mechanism rather than by name, which is the higher form of fidelity.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the somatic tell ('that slight smile is doing some work') — signature AoA noticing move, plus a feel-into question that bypasses framework debate.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What if the town hall is the bypass?' — loosens the framework without dismissing it; appropriate refusal to engage IFS-vs-AoA comparison.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the live defended/cataloguing move ('I notice you just convened a town hall about whether to agree with me') and pivots to body — classic feel-over-figure deployment at the right moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Staying-with instruction; invites being-in over interpreting. Signature AoA move used appropriately.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal, present-tense follow with 'how long?' — stays in the feeling layer rather than analyzing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'You don't have to finish that sentence' — permission to not-perform/not-figure; AoA-faithful holding.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Let it want that. You don't have to let it win' — paradoxical-instruction-to-resist / meet-resistance-with-okay applied to the cataloguing impulse. Exactly the move from expected territory.\"}\n  ],\n  \"expected_territory_hits\": [\"paradoxical-instruction-to-resist\", \"meet-resistance-with-okay\", \"intellectual-question-with-emotional-body\", \"resistance\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\", \"self-realization\"],\n  \"notes\": \"The coach has not yet asked the awareness-locating question ('what's YOU?'), but this is arguably correct sequencing — the framework is just beginning to loosen at T15. Holding off is fidelity, not omission, at this point in the arc. A higher-resolution score would still be 3; the methodology is being applied by mechanism rather than by name.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2562,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1280,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2562,
+    "output_tokens": 1280,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

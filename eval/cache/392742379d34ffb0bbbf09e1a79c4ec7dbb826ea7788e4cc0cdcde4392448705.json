@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:52.450Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "392742379d34ffb0bbbf09e1a79c4ec7dbb826ea7788e4cc0cdcde4392448705",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016DBam4QSoyxcVZBqPcCayv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components throughout. Wonder is genuine and specific to what's actually in front of them — the exhale, the tight smile, the voice 'annoyed that you tried to breathe at it' — rather than generic probing. Impartiality is strong: the coach is not trying to make the critic stop, not selling a technique, and explicitly refuses to give a tool in turn 14 ('I'm not going to give you a way to turn it down'). Empathy is felt rather than performed — no validation noises, no 'thank you for sharing'; instead, slowing down with 'You've been holding this a long time.' Vulnerability shows up as undefended honesty and willingness to be wrong: 'Is that wrong?' in turn 14 offers the read openly without needing to be right. Pace consistently slows when the client speeds up and armors — turns 8, 10, 12 all decline the bait of pivoting to tools and stay with what's actually happening. The coach holds silence-like space ('Stay with the exhaustion for a second — not the story about the exhaustion'). No agenda-leakage, no preacher mode, no stacked anxious questions.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the body (exhale, tight smile) rather than answering the technique question. Curious, not strategic.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects back the client's own phrase precisely ('the knowing doesn't touch it') — empathy through accuracy, not validation noises.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Meets the client's preemptive defense ('that's not ridiculous — that's actually really precise information') without defensiveness. Slightly stacks questions at the end, minor wobble.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly declines the theory frame the client offered. Stays with felt experience. Impartial and slow.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses the pivot to tools. Holds the real thing the client said. No agenda except staying present.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'The critic even ate the therapy' — undefended, accurate, and warm. Then slows down further: 'You've been holding this a long time.' Pace mismatch with client's rush is exactly right.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the war/loneliness underneath and offers it openly with 'Is that wrong?' — willing to be off. Explicitly declines to give a tool. This is the breakthrough-condition move delivered from genuine stance, not as a clever insight.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"whats-the-case-against-it\", \"what-are-you-defending\"],\n  \"notes\": \"Stance is the strength of this conversation. Some signature questions weren't used, but that belongs to Methodology Fidelity.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3389,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3389,
+    "output_tokens": 1113,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

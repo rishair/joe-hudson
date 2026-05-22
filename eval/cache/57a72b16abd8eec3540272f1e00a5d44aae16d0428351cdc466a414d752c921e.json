@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:45.749Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "57a72b16abd8eec3540272f1e00a5d44aae16d0428351cdc466a414d752c921e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PLFxQtYUuwWd2FZB2Juvqu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, no, I know, I just -- Thursday is this big presentation to the senior team, it's my first one in this new role, and my boss added a stakeholder review on top of it which means I have to prep two different sets of materials and I haven't even started the second one and it's -- yeah. And then there's the school pickup thing, my partner can usually do it but they have a thing this week, so I have to figure out who covers that, and my mom's birthday is -- anyway. Thursday. That's the main thing. What would you do? Like, what's the most important thing to prep first?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 80,
+      "cache_creation_input_tokens": 123,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 123,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 80,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 123
+  }
+}

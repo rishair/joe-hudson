@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:02.462Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b5c44a352b3ae5315cea545fd75fd754bddb48f07fddfc9d9dabfcbe04ddd3c7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CSsoMfJKUixbeKaG2GDCob",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nThe feeling is... I don't want to be caught unprepared. That's it. That's the whole thing. If I have enough, I don't have to be scrambling. I can just — handle things. Whatever comes up.\n\nI know that probably sounds like anxiety to you, but it's actually pretty rational given my situation. My parents are in their late 60s, my dad never really... he wasn't great with money, so there's going to be a point where that falls to me. And I've always known that. So this isn't irrational fear, it's just planning."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 187,
+      "cache_creation_input_tokens": 111,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 111,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 135,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 187,
+    "output_tokens": 135,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 111
+  }
+}

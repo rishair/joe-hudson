@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:52.515Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bd4c4a7662fccb32071eba06e396860cd39e1d6f47088db2a826f61258b0d3f9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ESTwsah1TUB6ZehpH9jgZ3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That \"I think\" — what's there in that hesitation?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8931,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8931,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

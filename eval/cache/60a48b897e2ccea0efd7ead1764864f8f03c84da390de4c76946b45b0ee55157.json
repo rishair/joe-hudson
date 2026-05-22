@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:49.414Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "60a48b897e2ccea0efd7ead1764864f8f03c84da390de4c76946b45b0ee55157",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TTWvMkAsPhaMrdpHSKYohV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[looks at the coach for a moment, something flickering across her face]*\n\n*[quiet laugh, self-deprecating]*\n\nGod, you're annoying.\n\n*[but she does pause. actually pauses. fidgets slightly with her sleeve]*\n\nIt's... \n\n*[longer silence than she's comfortable with]*\n\nIt's like — okay, it's like standing in a doorway. Like the relief is there but I'm not fully in it. I'm kind of... hovering at the edge of it.\n\n*[blinks, refocuses, and the analytical layer starts coming back up]*\n\nI think it's because the relief was always temporary, so my body learned not to fully — \n\n*[catches herself]*\n\nI'm doing it again, aren't I."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 201,
+      "cache_creation_input_tokens": 354,
+      "cache_read_input_tokens": 2309,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 354,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 173,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 201,
+    "output_tokens": 173,
+    "cache_read_input_tokens": 2309,
+    "cache_creation_input_tokens": 354
+  }
+}

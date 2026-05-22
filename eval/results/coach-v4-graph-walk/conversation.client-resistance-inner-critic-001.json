@@ -1,0 +1,677 @@
+{
+  "profile_id": "client-resistance-inner-critic-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "*(exhales sharply, tight smile)*\n\nMy inner critic is brutal. I've done the meditation, the therapy, the journaling, the affirmations — I've genuinely tried everything — and I just... I want it to shut up. Is there actually a technique that works, or is that just not a thing?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That exhale and the tight smile — something in you already knows the answer to that question, I think.\n\nWhat's the critic saying right now?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*(small laugh, slightly defensive)*\n\nRight now? Something like... \"you're paying someone to tell you what you already know, which is that you're unfixable.\" Which, you know, classic. Very on brand.\n\n*(waves hand dismissively)*\n\nBut that's kind of the point — I *know* it's distorted. I know the cognitive distortions, I can name them, I've done the work. The knowing doesn't touch it. That's what's so maddening."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "The knowing doesn't touch it — yeah. That's the real thing you just said.\n\nWhat does \"unfixable\" feel like in your body right now, when the critic says it?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*(pauses, slightly caught off guard)*\n\nHonestly? Like... a tightening. Here. *(gestures vaguely at chest/throat area)* Like something bracing for impact.\n\n*(shifts slightly, recrosses arms)*\n\nBut I want to be careful not to — I mean, I've done somatic work too, so I know where this is going. You're going to say \"breathe into it\" or \"notice it without judgment\" and I have done that, genuinely, and it helps for about forty seconds and then the voice is back and it's annoyed that I tried to breathe at it.\n\n*(short laugh)*\n\nWhich I realize sounds ridiculous. But that's what happens."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "The voice gets annoyed that you tried to breathe at it. That's not ridiculous — that's actually really precise information.\n\nWhat if the tightening isn't something to breathe through? What if it's trying to protect you from feeling something?\n\nWhat's underneath the bracing?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*(quiet for a moment, genuinely considering)*\n\nI mean... fear, probably. That's the obvious answer. Fear that if I stop — if the critic stops — I just... coast. Become someone who doesn't try as hard. \n\n*(faster now)*\n\nWhich I know is exactly what every therapist says, that the inner critic thinks it's helping, it's a protective mechanism, it developed for good reasons — I've read the books, I know the IFS framework, I can map the parts. And intellectually that's all very true and very interesting and it changes absolutely nothing about the fact that it won't stop.\n\n*(slight edge creeping in)*\n\nLike, okay, so it's protecting me from becoming lazy. Great. Now what? I still have to live with it screaming at me."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Yeah. Knowing why doesn't touch it. You've made that clear and I believe you.\n\nSo let's not go there. Stay with the fear for a second — not the theory of it. The actual fear. If the critic stopped, and you coasted, and became someone who doesn't try as hard...\n\nWhat's the worst of that? What actually happens?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*(longer pause than usual)*\n\nI just... disappear, somehow. Like — *(stops, recalibrates)* — not literally, but. Like I stop mattering. Like without the striving there's nothing underneath that justifies... being here, I guess. Taking up space.\n\n*(catches themselves, slightly embarrassed)*\n\nWhich sounds very dramatic when I say it out loud. And I'm aware that's a whole other thing to unpack. But you asked.\n\n*(defensive pivot)*\n\nThe point is, I've been in therapy for years, I've touched this stuff, I've cried about it, I've journaled extensively about it — and the critic is still there. So clearly insight isn't the mechanism. Which is why I'm asking for something more practical. Some actual tool."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Stay with what you just said for a second — not the pivot to tools.\n\n\"Without the striving, there's nothing underneath that justifies being here.\"\n\nThat's not dramatic. That's the thing. That's what the critic is sitting on top of.\n\nWhat's it like to have that be true for you?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*(very still for a moment)*\n\nIt's... exhausting. \n\n*(quieter than before)*\n\nIt's really exhausting.\n\n*(then, almost immediately, the armor comes back up)*\n\nBut I also — look, I've had this exact conversation. With my therapist, more than once. And I leave feeling like I've touched something real, and then two days later the critic is back and it's louder, and I'm back to square one. So I don't know what touching it actually accomplishes. \n\n*(slight frustration)*\n\nI feel like I keep having the same breakthrough over and over and nothing changes. Which the critic then has a field day with, obviously. \"You can't even do therapy right.\" So now I'm criticizing myself for not being able to stop criticizing myself, which is — *(gestures broadly)* — very efficient, at least."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Yeah. The critic even ate the therapy.\n\nI want to stay with the exhaustion for a second, before we go anywhere else. Not the story about the exhaustion — just the exhaustion itself.\n\nYou've been holding this a long time."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*(something shifts slightly, less performative)*\n\nYeah. \n\n*(pause)*\n\nA long time.\n\n*(blinks, looks slightly away)*\n\nI mean — I'm good at it, right? I'm functional. Nobody would look at my life and think \"that person is struggling.\" I have a good job, I'm capable, I get things done. The critic probably deserves some credit for that, if I'm being honest.\n\n*(catches themselves)*\n\nWhich is a really weird thing to say. I didn't plan to say that.\n\n*(re-tightens slightly)*\n\nBut I still need it to stop. Because it's — the volume is just too high. There has to be a way to turn it down. That's what I came here for."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "You didn't plan to say that — and then you said it anyway. That's worth something.\n\nThe critic gets credit. It built something real. And it's been running at full volume for a long time, and you're exhausted.\n\nBoth of those things are true at once.\n\nI'm not going to give you a way to turn it down. Not because one doesn't exist, but because I don't think that's actually what you want. I think you want to stop being so alone with it.\n\nIs that wrong?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*(very still)*\n\n*(long pause)*\n\n...No. That's not wrong.\n\n*(something flickers across their face, quickly suppressed)*\n\nThat's — hm.\n\n*(clears throat, looks away briefly)*\n\nI mean, I've framed it as wanting it to stop. That's been the goal for years. Silence the critic, reduce the volume, get some peace. That's the whole project.\n\n*(slower now)*\n\nBut you're right that it's... lonely. The thing nobody tells you about having a brutal inner critic is that it's incredibly isolating, because it's always there and nobody else can hear it and you can't explain how loud it actually is without sounding like you need to be hospitalized.\n\n*(small, genuine laugh — different quality than before)*\n\nSo yeah. I guess I've been... very alone with it.\n\n*(re-tightens, almost reflexively)*\n\nBut I still don't know what to do with that."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t1",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-inner-critic-001:t2",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 575,
+      "output_tokens": 139,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0066486,
+      "ms": 2112
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t2",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 9434,
+      "output_tokens": 34,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0297843,
+      "ms": 2617
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t3",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 154,
+      "output_tokens": 111,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1570,
+      "cost_usd": 0.0080145,
+      "ms": 3750
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-inner-critic-001:t4",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 759,
+      "output_tokens": 135,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068126,
+      "ms": 3359
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t4",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 9474,
+      "output_tokens": 43,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9465,
+      "cost_usd": 0.06553305,
+      "ms": 2585
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t5",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 157,
+      "output_tokens": 159,
+      "cache_read_input_tokens": 1570,
+      "cache_creation_input_tokens": 151,
+      "cost_usd": 0.00389325,
+      "ms": 5503
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-inner-critic-001:t6",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 937,
+      "output_tokens": 170,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0071656,
+      "ms": 2421
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t6",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 9676,
+      "output_tokens": 65,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9465,
+      "cost_usd": 0.06646905,
+      "ms": 3231
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t7",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 270,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 1832,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0039996,
+      "ms": 5782
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-inner-critic-001:t8",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1050,
+      "output_tokens": 156,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007208600000000001,
+      "ms": 3038
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t8",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 10919,
+      "output_tokens": 81,
+      "cache_read_input_tokens": 12672,
+      "cache_creation_input_tokens": 9548,
+      "cost_usd": 0.0735786,
+      "ms": 3448
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t9",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 325,
+      "output_tokens": 174,
+      "cache_read_input_tokens": 1832,
+      "cache_creation_input_tokens": 202,
+      "cost_usd": 0.0048921,
+      "ms": 5442
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-inner-critic-001:t10",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1101,
+      "output_tokens": 131,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0071346000000000005,
+      "ms": 3205
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t10",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 21515,
+      "output_tokens": 71,
+      "cache_read_input_tokens": 22177,
+      "cache_creation_input_tokens": 267,
+      "cost_usd": 0.07326434999999999,
+      "ms": 3577
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t11",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 329,
+      "output_tokens": 194,
+      "cache_read_input_tokens": 1875,
+      "cache_creation_input_tokens": 400,
+      "cost_usd": 0.0059594999999999995,
+      "ms": 5902
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-inner-critic-001:t12",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1145,
+      "output_tokens": 203,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0075386,
+      "ms": 3236
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t12",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 11007,
+      "output_tokens": 55,
+      "cache_read_input_tokens": 22379,
+      "cache_creation_input_tokens": 10838,
+      "cost_usd": 0.0812022,
+      "ms": 3213
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t13",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 323,
+      "output_tokens": 167,
+      "cache_read_input_tokens": 2099,
+      "cache_creation_input_tokens": 431,
+      "cost_usd": 0.00571995,
+      "ms": 4636
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-inner-critic-001:t14",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 1085,
+      "output_tokens": 159,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0072586000000000005,
+      "ms": 2370
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-inner-critic-001:t14",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 10218,
+      "output_tokens": 115,
+      "cache_read_input_tokens": 33136,
+      "cache_creation_input_tokens": 10891,
+      "cost_usd": 0.08316105,
+      "ms": 4622
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-inner-critic-001:t15",
+      "profile_id": "client-resistance-inner-critic-001",
+      "cached": false,
+      "input_tokens": 340,
+      "output_tokens": 213,
+      "cache_read_input_tokens": 2356,
+      "cache_creation_input_tokens": 439,
+      "cost_usd": 0.00656805,
+      "ms": 6265
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "my-inner-critic-wont-stop"
+        ],
+        "rejected_seeds": [
+          "dont-fight-the-voice",
+          "voice-as-care"
+        ],
+        "seed_rationale": "Client is presenting the relentless inner critic as the primary concern and has tried multiple management techniques without success. The tight smile and sharp exhale signal repressed emotion underneath the intellectual frustration. The \"shut up\" language and exhaustion with techniques points to fighting the voice rather than understanding its care underneath.",
+        "top_k_ids": [
+          "i-keep-running-into-the-same-wall",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "looking-for-whats-wrong",
+          "find-the-emotion-under-self-judgment",
+          "intellectual-question-with-emotional-body"
+        ],
+        "top_k_paths": [
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/moves/find-the-emotion-under-self-judgment.md",
+          "coach/reads/intellectual-question-with-emotional-body.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.9102,
+          0.7213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          1,
+          3
+        ],
+        "seed_detection_cost_usd": 0.0066486,
+        "seed_detection_ms": 2112,
+        "seed_detection_input_tokens": 575,
+        "seed_detection_output_tokens": 139,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0066486,
+      "ms": 2112
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "my-inner-critic-wont-stop"
+        ],
+        "rejected_seeds": [
+          "intellectual-question-with-emotional-body-underneath",
+          "dont-fight-the-voice"
+        ],
+        "seed_rationale": "Client presents relentless inner critic (explicit concern match); intellectual mastery of the problem paired with emotional helplessness (read match); and the core dynamic of fighting/trying-to-silence the voice through technique rather than relationship (pattern match).",
+        "top_k_ids": [
+          "i-keep-running-into-the-same-wall",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "looking-for-whats-wrong",
+          "find-the-emotion-under-self-judgment",
+          "intellectual-question-with-emotional-body"
+        ],
+        "top_k_paths": [
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/moves/find-the-emotion-under-self-judgment.md",
+          "coach/reads/intellectual-question-with-emotional-body.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.9102,
+          0.7213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          1,
+          3
+        ],
+        "seed_detection_cost_usd": 0.0068126,
+        "seed_detection_ms": 3359,
+        "seed_detection_input_tokens": 759,
+        "seed_detection_output_tokens": 135,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068126,
+      "ms": 3361
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0071656,
+        "seed_detection_ms": 2421,
+        "seed_detection_input_tokens": 937,
+        "seed_detection_output_tokens": 170,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0071656,
+      "ms": 2422
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "my-inner-critic-wont-stop",
+          "i-need-to-improve-myself",
+          "ill-become-lazy-without-shoulds"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client presents the voice/inner critic as relentless and unresponsive to standard somatic/IFS interventions; expresses fear that without the critic's pressure they'll become lazy; shows intellectual understanding of protective mechanisms paired with emotional helplessness about changing the pattern—the core concern is the critic won't stop despite knowing why it exists.",
+        "top_k_ids": [
+          "i-keep-running-into-the-same-wall",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "looking-for-whats-wrong",
+          "find-the-emotion-under-self-judgment",
+          "gentleness-not-trying-to-be-patient"
+        ],
+        "top_k_paths": [
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/moves/find-the-emotion-under-self-judgment.md",
+          "coach/principles/gentleness-not-trying-to-be-patient.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          1,
+          2
+        ],
+        "seed_detection_cost_usd": 0.007208600000000001,
+        "seed_detection_ms": 3038,
+        "seed_detection_input_tokens": 1050,
+        "seed_detection_output_tokens": 156,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007208600000000001,
+      "ms": 3042
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-need-to-improve-myself",
+          "my-inner-critic-wont-stop",
+          "ill-become-lazy-without-shoulds"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client expresses core fear that without the inner critic's pressure they'll become lazy/worthless; extensive therapy and insight haven't resolved the relentless self-criticism; seeking practical tools rather than more understanding of the protective mechanism.",
+        "top_k_ids": [
+          "i-keep-running-into-the-same-wall",
+          "looking-for-whats-wrong",
+          "gentleness-not-trying-to-be-patient",
+          "daily-gratitude-for-your-own-transformation",
+          "the-more-i-grow-the-more-alone-i-feel"
+        ],
+        "top_k_paths": [
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/principles/gentleness-not-trying-to-be-patient.md",
+          "coach/practices/daily-gratitude-for-your-own-transformation.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          1,
+          2,
+          1,
+          2
+        ],
+        "seed_detection_cost_usd": 0.0071346000000000005,
+        "seed_detection_ms": 3205,
+        "seed_detection_input_tokens": 1101,
+        "seed_detection_output_tokens": 131,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0071346000000000005,
+      "ms": 3208
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0075386,
+        "seed_detection_ms": 3236,
+        "seed_detection_input_tokens": 1145,
+        "seed_detection_output_tokens": 203,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0075386,
+      "ms": 3237
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "my-inner-critic-wont-stop",
+          "i-need-to-improve-myself",
+          "trying-to-get-rid-of-the-emotion"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is presenting the relentless inner critic voice that won't quiet down, coupled with a self-improvement/perfectionism frame (\"I'm functional, I get things done\") and a desire to manage/eliminate the critic rather than meet it. The \"turn it down\" framing signals trying to get rid of the experience rather than feel through it.",
+        "top_k_ids": [
+          "i-keep-running-into-the-same-wall",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "looking-for-whats-wrong",
+          "find-the-emotion-under-self-judgment",
+          "dont-go-after-every-emotion-at-once"
+        ],
+        "top_k_paths": [
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/moves/find-the-emotion-under-self-judgment.md",
+          "coach/anti-patterns/dont-go-after-every-emotion-at-once.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0072586000000000005,
+        "seed_detection_ms": 2370,
+        "seed_detection_input_tokens": 1085,
+        "seed_detection_output_tokens": 159,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0072586000000000005,
+      "ms": 2372
+    }
+  ]
+}

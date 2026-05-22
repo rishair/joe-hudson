@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:11.471Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bf5ee5ce39f19b3a657d26059a1fc5a4d09b3f81c814758e33b9833e27063e24",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017PQCvCfdRMf3oEr9Q4jXqK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with what you just found.\n\nNot the monitoring question — that. What is the watching waiting for?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10002,
+      "cache_creation_input_tokens": 266,
+      "cache_read_input_tokens": 12102,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 266,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10002,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 12102,
+    "cache_creation_input_tokens": 266
+  }
+}

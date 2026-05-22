@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:32.645Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6de370023c8fdd21f05d13b32df830b47e25e74fd589d8beeef8d353126118fc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PkbEvLTJgRGwCfGjJdm9tP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's like... I think it's like a kind of heaviness. When I see her name on my phone I notice my shoulders go up a little. And then I feel guilty about that, immediately, because she's my sister and she needs me. I think it's more the guilt that bothers me than the dread, actually."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 96,
+      "cache_creation_input_tokens": 1456,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1456,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 73,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 96,
+    "output_tokens": 73,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1456
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:12.776Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7b27f067eecd5160b3ec0c9b7cf30bf3e274e9aa9e0612b4e70a8f0868e3ebf5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DS2qWKUDz3TqSwht6wATxw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't — that's kind of the point. I'm not here to slow down. I'm here to get better at the thing I'm already doing. If there's a framework or a tool that helps me make faster decisions, communicate more clearly with my team, whatever — I'm in. But I'm not here to, like, process my childhood or whatever. I've got a pitch deck that needs to be tight by Thursday."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 112,
+      "cache_creation_input_tokens": 1624,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1624,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 112,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1624
+  }
+}

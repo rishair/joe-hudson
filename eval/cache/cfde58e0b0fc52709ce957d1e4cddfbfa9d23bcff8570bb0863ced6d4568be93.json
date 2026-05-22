@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:24.769Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cfde58e0b0fc52709ce957d1e4cddfbfa9d23bcff8570bb0863ced6d4568be93",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017AqupaChqMJRPkbNemnHuJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*exhales slowly*\n\nA lot. It costs a lot.\n\nI'm exhausted a lot of the time and I don't always know why. And I'm — I'm good at my job, I know I'm good at my job, but the moment my boss walks in the room I can't access that. It's like... all my competence just goes somewhere I can't reach it. And then afterward I'm furious at myself, because I know what happened but I couldn't stop it.\n\nAnd I think — *pauses* — I think it costs me in relationships too. The tracking thing. People feel it. Like I'm always slightly... braced. Even when there's no reason to be.\n\n*shorter pause*\n\nYeah. A lot."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 204,
+      "cache_creation_input_tokens": 109,
+      "cache_read_input_tokens": 2084,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 109,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 165,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 204,
+    "output_tokens": 165,
+    "cache_read_input_tokens": 2084,
+    "cache_creation_input_tokens": 109
+  }
+}

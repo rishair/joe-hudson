@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:20.880Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "83bbc712dcb82c8e053ab8d0e8944f3281f7689da404bedbb987701ef09235e8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DsTathZ6UvfqvKqjYJVMBQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[something shifts briefly in her face, then smooths over]*\n\nIt's — honestly? It's activating. Like, suddenly I'm on high alert. I'm reading every text, I'm trying to figure out what changed, I'm working *harder.* \n\n*[small laugh]*\n\nWhich I realize even as I say it sounds kind of — I don't know. Like a hamster wheel. But in the moment it doesn't feel like that. In the moment it feels like... solving something. Like if I can just figure out the right thing to say or do, I can get back to how it was at the beginning.\n\n*[pause]*\n\nAnd sometimes it works, actually. Like sometimes I'd crack through and there'd be this moment of real connection and it would feel — \n\n*[stops herself]*\n\n...really good. And then it would close back up again."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 243,
+      "cache_creation_input_tokens": 187,
+      "cache_read_input_tokens": 1882,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 187,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 192,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 243,
+    "output_tokens": 192,
+    "cache_read_input_tokens": 1882,
+    "cache_creation_input_tokens": 187
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:38.462Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e3df85ef54057387409aa8d5342042a7dabb4ebd1b974faf3d04b40db80cede4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WviqDx7QqhijUwwwVrGKoH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The voice gets annoyed that you tried to breathe at it. That's not ridiculous — that's actually really precise information.\n\nWhat if the tightening isn't something to breathe through? What if it's trying to protect you from feeling something?\n\nWhat's underneath the bracing?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9676,
+      "cache_creation_input_tokens": 9465,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9465,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 65,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9676,
+    "output_tokens": 65,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9465
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:57.437Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "36427df4ae0e877fbe13043974e60f68d033f82abe97dafe938ad47f90a20418",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DT5a4UwNihr2A1ieLfmTBW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"They always settle down.\"\n\nHas that been true?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20733,
+      "cache_creation_input_tokens": 10453,
+      "cache_read_input_tokens": 34685,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10453,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20733,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 34685,
+    "cache_creation_input_tokens": 10453
+  }
+}

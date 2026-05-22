@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:29.053Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ab2a33c4daa749797246ae98e5b47218a81e6cbf9a1332ba92b6c04cd5ba35cb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C8QrjzMHSxLrwXfayhUnKC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long silence*\n\n*something in the chest moves*\n\n...Thank you.\n\n*stays still, but it's a different kind of still now — less held*\n\nI don't usually — I'm used to being the person who finishes the sentence. Who has the framework for the sentence. \n\n*small exhale*\n\nThat was... something just moved a little. In the holding.\n\n*pause, then with a slight return to the more analytical register, but quieter than before*\n\nI notice a part wants to name what just happened. To file it somewhere."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 207,
+      "cache_creation_input_tokens": 259,
+      "cache_read_input_tokens": 2133,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 259,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 124,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 207,
+    "output_tokens": 124,
+    "cache_read_input_tokens": 2133,
+    "cache_creation_input_tokens": 259
+  }
+}

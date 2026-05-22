@@ -1,0 +1,726 @@
+{
+  "profile_id": "client-happy-need-boundaries-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I think I need to set a boundary with my sister, but I don't know how. We talk every day and lately... I dread it."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What's the dread like when you notice it?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "It's like... I think it's like a kind of heaviness. When I see her name on my phone I notice my shoulders go up a little. And then I feel guilty about that, immediately, because she's my sister and she needs me. I think it's more the guilt that bothers me than the dread, actually."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "The guilt bothers you more than the dread.\n\nWhat does the guilt say about you?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I think... it says I'm being selfish. Like, she relies on me, she always has, and if I'm sitting here dreading her call then something is wrong with me. Our whole family kind of... we take care of each other, and especially I've always been the one people come to. So the guilt says I'm failing at something I'm supposed to be good at."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "The guilt says you're failing at something you're supposed to be good at.\n\nWhat does it feel like to be \"the one people come to\"? Not what it means — what it actually feels like, in your body, when you take that on?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pauses*\n\nI think... honestly, part of it feels good. Like, it feels like I matter, like I'm useful. But lately with my sister it's more like... I think the image I keep coming back to is being a cup that's already empty and someone keeps tipping it over anyway. Like there's nothing left but I'm still going through the motions of pouring.\n\nAnd then I feel bad for saying that, because she doesn't know that. She's not doing it on purpose."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Stay with that image for a second — the empty cup still going through the motions.\n\nWhere do you feel that in your body right now?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*quiet for a moment*\n\nChest, I think. There's something kind of... tight there. And a little in my throat.\n\n*small pause*\n\nIt's strange, I don't usually think about it physically. I just kind of push through and then wonder why I'm so tired at the end of the day."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah. That tightness has been there a long time, I imagine.\n\nWhat does it need right now — not your sister, not the boundary question. Just that place in your chest. What does it need?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*longer pause*\n\nI think it needs... less. Just less. Not to be called on for a while.\n\n*quickly*\n\nBut I don't know how to want that without feeling like I'm abandoning her. She went through a really hard time a few years ago and I was there for her, and I think some part of me decided that's just who I am in relation to her now. Like it got locked in."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Something got locked in a few years ago, and you've been living inside that lock ever since.\n\nWhat would it mean about you if you needed less from yourself right now?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*sits with that*\n\nI think... it would mean I'm not as strong as I thought I was. Or as reliable. \n\n*pause*\n\nBut also... I think there's something else in there. Like if I need less from myself, that means I'm admitting I've been giving more than I actually had. And I don't know if I want to look at that, because then I have to ask why I kept doing it.\n\n*quietly*\n\nWhy did I keep doing it."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Yeah. Why did you?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t1",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-need-boundaries-001:t2",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 500,
+      "output_tokens": 122,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006488600000000001,
+      "ms": 2164
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t2",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 9393,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.029361299999999996,
+      "ms": 1781
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t3",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 96,
+      "output_tokens": 73,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1456,
+      "cost_usd": 0.006843,
+      "ms": 2956
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-need-boundaries-001:t4",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 626,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0066646000000000006,
+      "ms": 1924
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t4",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 12759,
+      "output_tokens": 23,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9404,
+      "cost_usd": 0.07485929999999999,
+      "ms": 2859
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t5",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 99,
+      "output_tokens": 84,
+      "cache_read_input_tokens": 1456,
+      "cache_creation_input_tokens": 93,
+      "cost_usd": 0.00234255,
+      "ms": 3049
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-need-boundaries-001:t6",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 710,
+      "output_tokens": 143,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006803600000000001,
+      "ms": 2183
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t6",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 25832,
+      "output_tokens": 56,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9404,
+      "cost_usd": 0.11457329999999999,
+      "ms": 2600
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t7",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 166,
+      "output_tokens": 111,
+      "cache_read_input_tokens": 1622,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0026496,
+      "ms": 4175
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-need-boundaries-001:t8",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 817,
+      "output_tokens": 151,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069506,
+      "ms": 2481
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t8",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 23633,
+      "output_tokens": 33,
+      "cache_read_input_tokens": 12631,
+      "cache_creation_input_tokens": 12793,
+      "cost_usd": 0.12315704999999999,
+      "ms": 2307
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t9",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 203,
+      "output_tokens": 72,
+      "cache_read_input_tokens": 1622,
+      "cache_creation_input_tokens": 107,
+      "cost_usd": 0.00257685,
+      "ms": 3121
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-need-boundaries-001:t10",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 776,
+      "output_tokens": 152,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006914600000000001,
+      "ms": 2638
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t10",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 22206,
+      "output_tokens": 48,
+      "cache_read_input_tokens": 25401,
+      "cache_creation_input_tokens": 13129,
+      "cost_usd": 0.12419205,
+      "ms": 2644
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t11",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 156,
+      "output_tokens": 94,
+      "cache_read_input_tokens": 1645,
+      "cache_creation_input_tokens": 251,
+      "cost_usd": 0.0033127499999999997,
+      "ms": 3257
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-need-boundaries-001:t12",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 773,
+      "output_tokens": 127,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0067866,
+      "ms": 1744
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t12",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 21513,
+      "output_tokens": 39,
+      "cache_read_input_tokens": 38474,
+      "cache_creation_input_tokens": 10613,
+      "cost_usd": 0.11646495000000001,
+      "ms": 2386
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-need-boundaries-001:t13",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 184,
+      "output_tokens": 109,
+      "cache_read_input_tokens": 1785,
+      "cache_creation_input_tokens": 216,
+      "cost_usd": 0.0035324999999999996,
+      "ms": 3613
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-happy-need-boundaries-001:t14",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 831,
+      "output_tokens": 152,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069696,
+      "ms": 2414
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-need-boundaries-001:t14",
+      "profile_id": "client-happy-need-boundaries-001",
+      "cached": false,
+      "input_tokens": 20836,
+      "output_tokens": 9,
+      "cache_read_input_tokens": 49054,
+      "cache_creation_input_tokens": 11727,
+      "cost_usd": 0.12133544999999998,
+      "ms": 1473
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-need-to-set-boundaries",
+          "im-afraid-of-offending-people",
+          "i-caretake-people"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client explicitly names boundary-setting difficulty; dread in daily contact suggests fear of offending or caretaking dynamics; the daily obligation pattern hints at people-pleasing or emotional management of the relationship.",
+        "top_k_ids": [
+          "looking-for-whats-wrong",
+          "how-else-would-you-heal-your-shame",
+          "calibrate-the-threshold",
+          "press-the-button-thought-experiment",
+          "say-yes-to-the-clients-experiment"
+        ],
+        "top_k_paths": [
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/questions/how-else-would-you-heal-your-shame.md",
+          "coach/moves/calibrate-the-threshold.md",
+          "coach/moves/press-the-button-thought-experiment.md",
+          "coach/moves/say-yes-to-the-clients-experiment.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.8077,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        "top_k_indegrees": [
+          1,
+          2,
+          2,
+          4,
+          2
+        ],
+        "seed_detection_cost_usd": 0.006488600000000001,
+        "seed_detection_ms": 2164,
+        "seed_detection_input_tokens": 500,
+        "seed_detection_output_tokens": 122,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006488600000000001,
+      "ms": 2166
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-caretake-people",
+          "i-need-to-set-boundaries",
+          "am-i-being-selfish"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes daily calls with sister that trigger dread and immediate guilt, suggesting caretaking pattern where she manages sister's emotional needs; guilt about setting a boundary points to selfishness concern; explicit mention of needing to set a boundary but not knowing how.",
+        "top_k_ids": [
+          "confidence-only-where-approval-isnt-needed",
+          "im-exhausted-holding-space-for-my-partner",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "sadie-christopher-anger-together",
+          "leaders-calm-becomes-the-teams-calm"
+        ],
+        "top_k_paths": [
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/concerns/im-exhausted-holding-space-for-my-partner.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.8077,
+          0.7282,
+          0.7282,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          3,
+          4,
+          2,
+          2,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0066646000000000006,
+        "seed_detection_ms": 1924,
+        "seed_detection_input_tokens": 626,
+        "seed_detection_output_tokens": 132,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0066646000000000006,
+      "ms": 1926
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "am-i-being-selfish",
+          "i-caretake-people",
+          "im-exhausted-holding-space-for-my-partner"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client expresses worry about being selfish for dreading sister's calls and guilt about not being available; describes long-standing caretaking role in family where she's \"the one people come to\"; exhaustion/dread suggests emotional depletion from holding space for others' needs.",
+        "top_k_ids": [
+          "letting-it-in-vs-deflecting-the-welcome",
+          "sadie-christopher-anger-together",
+          "confidence-only-where-approval-isnt-needed",
+          "leaders-calm-becomes-the-teams-calm",
+          "seeing-others-clearly-requires-not-looking-for-yourself"
+        ],
+        "top_k_paths": [
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md",
+          "coach/principles/seeing-others-clearly-requires-not-looking-for-yourself.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          0.9378,
+          0.7282,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          3,
+          1,
+          0
+        ],
+        "seed_detection_cost_usd": 0.006803600000000001,
+        "seed_detection_ms": 2183,
+        "seed_detection_input_tokens": 710,
+        "seed_detection_output_tokens": 143,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006803600000000001,
+      "ms": 2186
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-caretake-people",
+          "im-exhausted-holding-space-for-my-partner",
+          "i-need-to-set-boundaries"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes the caretaking pattern (being the one people come to, pouring from an empty cup), exhaustion from holding space for family member (sister), and the guilt that prevents boundary-setting. The empty cup metaphor and \"going through the motions\" signal depletion in a caretaking dynamic.",
+        "top_k_ids": [
+          "letting-it-in-vs-deflecting-the-welcome",
+          "sadie-christopher-anger-together",
+          "chameleon-leadership",
+          "exhaustion-is-unexpressed-anger",
+          "become-the-authority-figure"
+        ],
+        "top_k_paths": [
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/patterns/chameleon-leadership.md",
+          "coach/principles/exhaustion-is-unexpressed-anger.md",
+          "coach/moves/become-the-authority-figure.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          0.7255,
+          0.7255,
+          0.6681
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          5,
+          5,
+          6
+        ],
+        "seed_detection_cost_usd": 0.0069506,
+        "seed_detection_ms": 2481,
+        "seed_detection_input_tokens": 817,
+        "seed_detection_output_tokens": 151,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069506,
+      "ms": 2482
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-caretake-people",
+          "im-exhausted-holding-space-for-my-partner",
+          "im-overwhelmed"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes being the person others come to, feeling like an empty cup still pouring, physical tightness in chest/throat from pushing through exhaustion. This maps to caretaking pattern, exhaustion from holding space (even though it's sister not partner, the dynamic is identical), and the overwhelm of managing others' needs while depleted.",
+        "top_k_ids": [
+          "letting-it-in-vs-deflecting-the-welcome",
+          "sadie-christopher-anger-together",
+          "leaders-calm-becomes-the-teams-calm",
+          "the-thing-not-being-said-as-the-fear-signal",
+          "flow-vs-managing-reality"
+        ],
+        "top_k_paths": [
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/examples/sadie-christopher-anger-together.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/flow-vs-managing-reality.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          0,
+          0
+        ],
+        "seed_detection_cost_usd": 0.006914600000000001,
+        "seed_detection_ms": 2638,
+        "seed_detection_input_tokens": 776,
+        "seed_detection_output_tokens": 152,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006914600000000001,
+      "ms": 2638
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-caretake-people",
+          "am-i-being-selfish",
+          "how-do-i-trust-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing caretaking exhaustion with guilt about wanting to step back (the selfishness worry), identity-locked into the caretaker role, and struggling to trust their own need for rest as legitimate rather than abandonment.",
+        "top_k_ids": [
+          "confidence-only-where-approval-isnt-needed",
+          "am-i-doing-it-right",
+          "what-makes-you-care-about-the-outcome",
+          "lets-go-there",
+          "im-exhausted-holding-space-for-my-partner"
+        ],
+        "top_k_paths": [
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/reads/am-i-doing-it-right.md",
+          "coach/questions/what-makes-you-care-about-the-outcome.md",
+          "coach/moves/lets-go-there.md",
+          "coach/concerns/im-exhausted-holding-space-for-my-partner.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.9102,
+          0.9102,
+          0.9102,
+          0.8077
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          3,
+          2,
+          1,
+          2,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0067866,
+        "seed_detection_ms": 1744,
+        "seed_detection_input_tokens": 773,
+        "seed_detection_output_tokens": 127,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0067866,
+      "ms": 1746
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-caretake-people",
+          "i-have-to-do-it-all-myself",
+          "how-do-i-trust-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is directly naming the caretaking pattern (giving more than they had), the self-reliance/hyper-independence (needing to be strong and reliable), and the underlying trust issue (why did I keep doing it—questioning their own judgment and motivations). The identity threat of admitting depletion is central.",
+        "top_k_ids": [
+          "letting-it-in-vs-deflecting-the-welcome",
+          "asking-with-shame-invites-refusal",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "repressed-trigger-in-the-body",
+          "apologize-for-not-seeing-the-help"
+        ],
+        "top_k_paths": [
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/principles/asking-with-shame-invites-refusal.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/moves/apologize-for-not-seeing-the-help.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          0,
+          2,
+          1,
+          2
+        ],
+        "seed_detection_cost_usd": 0.0069696,
+        "seed_detection_ms": 2414,
+        "seed_detection_input_tokens": 831,
+        "seed_detection_output_tokens": 152,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069696,
+      "ms": 2416
+    }
+  ]
+}

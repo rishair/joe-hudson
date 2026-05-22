@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:20.579Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bfc1e222e88fdf5397b7f07b3c01c828b187c50c104b048435bfd7d6eedd5f27",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AGkFnho84jNw5jhYff4zWw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach makes one explicit, well-timed read at turn 10 ('I noticed you stopped yourself mid-sentence'), which is a specific linguistic/behavioral observation that precedes the question and changes the conversation — the client then drops into the realer material. Turn 8 also includes an implicit read of the defensive structure underneath the content ('the thing you just described isn't really about the pitch deck'), naming what's underneath the said. However, the coach never names the most active reads in the field: the rush signature is everywhere (Series A in six weeks, Thursday, 'I don't love inefficiency'), and the looking-for-what's-wrong stance saturates the second-guessing material — neither is named. The coach also doesn't name the defendedness when the client snaps back into pragmatic mode in turn 9 ('No. That's not useful right now') or the rehearsed quality of the opening frame. So one solid specific read, one decent implicit read, multiple obvious pattern reads missed. That lands at 2, not 3.\",\n  \"evidence_turns\": [8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Question with no read named; engages content.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Follows the client into the pitch-deck content without naming the rush or the swerve away from the slow-down question.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Hypothetical question, still content-level, no read surfaced.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Implicit read of what's underneath the content ('isn't really about the pitch deck') — names the said vs. the shown, though not in somatic/linguistic terms.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client visibly defends and re-asserts the dichotomy ('No. That's not useful right now') — coach will respond next turn but doesn't name this defendedness explicitly.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Specific, timely behavioral read: names the self-interruption and inquires into it. Read precedes question. This is the clearest AoA-style read in the transcript.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Frame-offering move, not a read; rush signature still unnamed.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\"],\n  \"notes\": \"One strong specific read (turn 10) and one implicit structural read (turn 8), but the dominant field-level reads (rush signature, looking-for-what's-wrong) are never named, and the defendedness in turn 9 passes without being surfaced. Pattern of reads is present but partial.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1810,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 981,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1810,
+    "output_tokens": 981,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

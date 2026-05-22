@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:00.550Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "132c305eca93b103889bee586c025a2a716c99e4ab6770058c05595413cc2fde",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SgCTTXybgvGTBSwSwpKPdE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the live read and sequenced correctly: notice the smile → invite a hypothetical felt sense → meet the intellectualizing cascade with a paradoxical reframe ('what if the town hall is the bypass?') → when the client convenes a town hall about agreeing, the coach names it and redirects to the body. Crucially, when the client locates 'held' in the chest, the coach does not race to interpretation or to 'what's you?' — they slow down, invite staying, ask the minimal deepener ('how long?'), and then explicitly hold the moment ('you don't have to finish that sentence'). This is feeling-before-story discipline. The 'let it want that, you don't have to let it win' move is a textbook apply-view-to-the-voice move that loosens the framework without dismissing it — without ever engaging framework comparison or adopting parts vocabulary. Timing is excellent throughout: each move lands at a moment the client can receive it, and the coach holds silence rather than filling it. The only thing missing from the expected territory is the explicit awareness-locating question ('what's you?'), but the coach is wisely earning toward it rather than jumping — by turn 15 the client is essentially asking it themselves ('what if the filing is the thing that stops the feeling').\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the somatic tell (the smile) and offers a felt-sense hypothetical rather than engaging the framework question. Skillful refusal of framework comparison.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Paradoxical reframe that loosens the framework without dismissing it — meets the intellectual question with a destabilizing question rather than agreement or argument.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the live pattern (convening a town hall about agreeing) and redirects to body. Move-to-read match is exact; timing arrives just as client is mid-defense.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Invitation to stay with the feeling rather than interpret. Feeling-before-story sequence preserved; coach earns the next layer.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal deepener ('how long?') after 'yeah' — holds the moment, does not rush, lets the sadness expand.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Exceptional restraint: 'you don't have to finish that sentence' grants permission to stay in the unformed feeling rather than push for articulation. Right move, right moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Let it want that. You don't have to let it win.' Loosens the cataloguing reflex with a view-to-the-voice move without dismissing parts vocabulary.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"paradoxical-instruction-to-resist\", \"resistance\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach is on a clean trajectory toward the awareness-locating question but the conversation ends before they ask it. The client is essentially self-arriving at the recognition, which suggests the timing of withholding 'what's you?' is correct — the coach is earning it rather than jumping.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2569,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1210,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2569,
+    "output_tokens": 1210,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

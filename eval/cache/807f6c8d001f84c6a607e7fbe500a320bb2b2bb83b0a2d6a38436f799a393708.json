@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:58.453Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "807f6c8d001f84c6a607e7fbe500a320bb2b2bb83b0a2d6a38436f799a393708",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01B9s93n7RwUoQbwsxZNRLai",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very quiet*\n\nIt feels... sad, actually. More than I expected.\n\n*pause*\n\nLike I'm describing someone I've been meaning to call and keep not calling. Which is a strange way to feel about yourself.\n\n*small, slightly unsteady breath*\n\nI don't do that a lot. Say things like that out loud.\n\n*then, almost reflexively*\n\nI just want to make sure you know I'm not — I'm not unhappy. My life is genuinely good. I love my partner, I love my kids, my job is hard but it matters. I'm not complaining.\n\n*quieter*\n\nI just miss myself a little. Is that — I mean, is wanting to go find that actually selfish? Because I keep coming back to that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 321,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1871,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 172,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 321,
+    "output_tokens": 172,
+    "cache_read_input_tokens": 1871,
+    "cache_creation_input_tokens": 0
+  }
+}

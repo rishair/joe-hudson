@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:25.040Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "de9184e63f842d2ff487586c914f4e2b9182caf408fa753b7d164987ce0f8dd9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01He7ayJeGu9vXWcKZW1QwCE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I can't even -- I don't know, keep track of it all? Like I made a list this morning and the list itself felt overwhelming. But that's not -- I mean, that's not the point, the point is Thursday. Do you think I should push the one-on-ones or is that going to make it worse with the team? Because I have four of them and they take an hour each and I just --"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 133,
+      "cache_creation_input_tokens": 1648,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1648,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 92,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 133,
+    "output_tokens": 92,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1648
+  }
+}

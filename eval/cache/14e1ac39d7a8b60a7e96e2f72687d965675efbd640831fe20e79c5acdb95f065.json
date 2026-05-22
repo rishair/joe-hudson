@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:24.677Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "14e1ac39d7a8b60a7e96e2f72687d965675efbd640831fe20e79c5acdb95f065",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UQxCpytZiWNCXUffGDPwEP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you're asking me to settle the question so you can move on from it.\n\nWhat happens if I just say yes, it's reasonable — does the feeling of selfishness go away?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9587,
+      "cache_creation_input_tokens": 11789,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11789,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 44,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9587,
+    "output_tokens": 44,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11789
+  }
+}

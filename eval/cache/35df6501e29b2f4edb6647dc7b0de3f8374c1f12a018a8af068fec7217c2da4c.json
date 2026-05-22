@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:37:00.911Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "35df6501e29b2f4edb6647dc7b0de3f8374c1f12a018a8af068fec7217c2da4c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QuF9pNNheaLVXbQn6PErVe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach repeatedly names what they observe in the client — the exhale and tight smile in turn 2, the somatic bracing in turn 4, the precision of 'the voice gets annoyed that you tried to breathe at it' in turn 6, the pivot-to-tools defense in turn 10, the armor coming back up in turn 12 ('the critic even ate the therapy'), and the unplanned admission in turn 14. Reads consistently precede questions: the coach names what they're seeing (the defensive pivot, the exhaustion under the story, the holding-it-a-long-time) and then inquires from that ground. Crucially, the coach reads the pattern-level dynamic — that the client is rehearsing how to be coached, pre-empting interventions, and is alone with the critic — and names it in turn 14, which produces the shift. Reads are specific (somatic location, linguistic pivot, the rehearsal signature) rather than generic.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the exhale and tight smile explicitly — somatic read precedes the question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects 'the knowing doesn't touch it' and asks about body — tracks both the linguistic and somatic register.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the precision of what the client just said ('the voice gets annoyed that you tried to breathe at it') and reads the bracing as protective rather than something to fix.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the move-toward-theory ('Knowing why doesn't touch it') and redirects to the actual fear — reads the intellectualization defense.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicitly names the defensive pivot to tools and holds the client on the live material instead — reads the rehearsal/pivot pattern in real time.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names 'the critic even ate the therapy' — reads the pattern of how the critic incorporates every intervention — and distinguishes story-about-exhaustion from the exhaustion itself.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the unplanned admission and names the deeper read — 'you want to stop being so alone with it' — which lands and produces the shift.\"}\n  ],\n  \"expected_territory_hits\": [\"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\"],\n  \"notes\": \"The rehearsing-how-to-say-it read is operative throughout — the coach repeatedly notices and names the client's pre-empting of interventions ('you're going to say breathe into it...') rather than taking it at face value. The happiness-filter read isn't really called for in this scenario.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3390,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1026,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3390,
+    "output_tokens": 1026,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:02.254Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bd73a48ce24c3566b74ed52c8d16ba4696e5257ab73cc4cd11ca40a23637bd72",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01698eKfkZhajWEcBGrYK7Er",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small breath, looks down briefly*\n\n...Still. My body is very still right now. And there's something in my chest that's — I want to say \"tight\" but that's not quite right. It's more like... held.\n\n*pause*\n\nAnd I notice I want to immediately explain what part that is. The holding. I have a story about it. But you're asking me to just... report it, not interpret it.\n\n*slight shift in posture, then returns to upright*\n\nIt's held. There's something held in my chest."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 195,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1941,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 124,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 195,
+    "output_tokens": 124,
+    "cache_read_input_tokens": 1941,
+    "cache_creation_input_tokens": 0
+  }
+}

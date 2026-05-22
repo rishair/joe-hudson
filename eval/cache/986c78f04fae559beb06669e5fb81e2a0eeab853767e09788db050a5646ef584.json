@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:34.524Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "986c78f04fae559beb06669e5fb81e2a0eeab853767e09788db050a5646ef584",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AFNNsQgpcs8UArGiWFSpm6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, looks down briefly*\n\nYeah. Fair.\n\n*pause*\n\nI suppose... the thing I don't want to say out loud is that I've made decisions before that felt confident. Felt clear. And some of them didn't turn out well. And now I'm -- I notice I'm less sure of myself than I used to be. Which is why the methodology question feels important, because I can't just rely on \"it felt right\" anymore. That hasn't proven reliable.\n\n*slight shift, voice stays even*\n\nSo the scary thing is probably... making another confident choice that turns out to be wrong. But I still think the way through that is to find a better diagnostic. Not just to sit with the fear."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 222,
+      "cache_creation_input_tokens": 108,
+      "cache_read_input_tokens": 1580,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 108,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 222,
+    "output_tokens": 158,
+    "cache_read_input_tokens": 1580,
+    "cache_creation_input_tokens": 108
+  }
+}

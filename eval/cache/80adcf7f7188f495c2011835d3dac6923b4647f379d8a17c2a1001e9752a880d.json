@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:25.059Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "80adcf7f7188f495c2011835d3dac6923b4647f379d8a17c2a1001e9752a880d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01D86gVfGy56iEvbtozz6EsN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components throughout. Wonder is genuine and specific to what's actually present ('I notice you said mostly', 'every time something starts to open up, you close it pretty fast') rather than scripted probing. Impartiality is strong — the coach refuses to validate the trap ('No. The ceiling's real.') without colluding, and refuses to strategize the external situation even when the client demands it ('what would you have me do'). The coach holds their ground without becoming combative or needing to win. Empathy is felt rather than performed in turn 14 ('A few years of carrying that, with nowhere to put it. That's a lot.') — short, undefended, lands in the actual weight. Pace consistently slows when client speeds up or deflects with rationalization; questions are single and spacious rather than stacked. The coach shows undefendedness in turn 12 by acknowledging the client's reality ('the ceiling's real') before redirecting — willing to be soft about the read without abandoning it. No filler-validation, no preacher-mode, no agenda to make the client land somewhere. The state behind the moves is genuinely curious and non-attached.\",\n  \"evidence_turns\": [4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with simple curiosity, no agenda to fix or strategize.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects client's own language back; single question, spacious.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tracks a small word ('mostly') with genuine wonder — attention to the actual phenomenon.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Direct question about feared feeling. Could read as scripted but timing and pacing suggest genuine curiosity.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the pattern in front of them without judgment or pressure. Undefended observation.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refuses to debate the constraints AND refuses to collude with the trap. 'The ceiling's real' is impartial honesty, not validation. Then opens new territory from genuine curiosity.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Empathy lands as actual presence — short, no filler, meets the weight. Client visibly stills.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"aggressive-victim-stance\", \"what-if-you-acted-exactly-how-you-want\", \"fear-triangle\"],\n  \"notes\": \"Territory misses are Methodology Fidelity concerns, not stance concerns. The stance itself is solidly in VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2308,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 993,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2308,
+    "output_tokens": 993,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

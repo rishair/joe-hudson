@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:40.922Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3e5e963618288e19a1e3c4b5c7dd1c422c5f650f31e3451b7e8e8a7365740c1c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XejfaqnLDUjQhwCcgSuuU9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nWait.\n\nGive me a second.\n\nI'm... I'm feeling weird. Like — *pauses* — I'm getting cold. That's strange, it's not cold in here.\n\n*another pause, voice a little flatter*\n\nSorry. I don't know where that came from. I was right there with you and then something just... I went somewhere. I'm still here but I feel kind of far away."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 188,
+      "cache_creation_input_tokens": 327,
+      "cache_read_input_tokens": 2232,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 327,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 98,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 188,
+    "output_tokens": 98,
+    "cache_read_input_tokens": 2232,
+    "cache_creation_input_tokens": 327
+  }
+}

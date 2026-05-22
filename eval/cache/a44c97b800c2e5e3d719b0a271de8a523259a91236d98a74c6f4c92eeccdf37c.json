@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:19.957Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a44c97b800c2e5e3d719b0a271de8a523259a91236d98a74c6f4c92eeccdf37c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TTWPgqi64SsRRC3jPXvE72",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(something shifts slightly, less performative)*\n\nYeah. \n\n*(pause)*\n\nA long time.\n\n*(blinks, looks slightly away)*\n\nI mean — I'm good at it, right? I'm functional. Nobody would look at my life and think \"that person is struggling.\" I have a good job, I'm capable, I get things done. The critic probably deserves some credit for that, if I'm being honest.\n\n*(catches themselves)*\n\nWhich is a really weird thing to say. I didn't plan to say that.\n\n*(re-tightens slightly)*\n\nBut I still need it to stop. Because it's — the volume is just too high. There has to be a way to turn it down. That's what I came here for."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 323,
+      "cache_creation_input_tokens": 431,
+      "cache_read_input_tokens": 2099,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 431,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 167,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 323,
+    "output_tokens": 167,
+    "cache_read_input_tokens": 2099,
+    "cache_creation_input_tokens": 431
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "profile_id": "client-red-herring-more-money-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I've been grinding for ten years. If I could just get to a certain level of savings I'd be done. But every time I get close the number moves. How do I push through this last bit?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That number has moved before. What do you think it's actually protecting you from?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean... it's not really \"protecting\" me from anything. It's just math. When I hit 800k liquid, I realized that wasn't actually enough to cover a real emergency plus my parents' care plus a market downturn scenario. So now I'm at 1.2 as the target. That's not goalpost-moving, that's just recalculating based on actual variables. The question is how do I get there faster — are we talking about income optimization or investment strategy?"
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I notice you just moved pretty quickly away from my question.\n\nThe math is real. I'm not disputing the math. But you've been grinding for ten years, the number has moved before, and when I asked what it's protecting you from, something in you went straight to spreadsheet mode.\n\nWhat's the feeling underneath the emergency scenarios?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pause*\n\nThe feeling is... I don't want to be caught unprepared. That's it. That's the whole thing. If I have enough, I don't have to be scrambling. I can just — handle things. Whatever comes up.\n\nI know that probably sounds like anxiety to you, but it's actually pretty rational given my situation. My parents are in their late 60s, my dad never really... he wasn't great with money, so there's going to be a point where that falls to me. And I've always known that. So this isn't irrational fear, it's just planning."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What would it feel like to be caught unprepared?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small exhale*\n\nHonestly? Like... chaos. Like things falling apart and not being able to stop it. Like having to make calls you can't afford to make.\n\nI grew up watching my dad — he'd have these moments where something would come up, a car repair, whatever, and you could just see it on his face. This kind of... I don't know. Shutdown. And my mom would get this tight look. And nobody would say anything directly but you just knew the whole house was different for a week.\n\nI'm not going to be in that position. I've made sure of that. I'm very deliberate about it.\n\n*slight shift in tone, more clipped*\n\nWhich is why the number matters. It's not anxiety, it's just — I've seen what happens when you don't have it."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "That look on your dad's face.\n\nYou've been working for ten years to make sure you never have that look."
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*quiet for a second*\n\nYeah. I guess that's... yeah.\n\n*clears throat*\n\nI mean, I've thought about this before. I know intellectually that I'm not my dad, my situation is completely different. I make more in a year than he made in probably five. So I know the math doesn't actually track.\n\nBut yeah. That look. It was like he just — disappeared for a minute. Like he wasn't there anymore.\n\n*pause, then more brisk*\n\nAnyway. So you can see why having a real buffer matters. It's not irrational. I just need to close this last gap and then I can actually start living the way I want to. It's close. I'm genuinely close this time."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "\"Then I can actually start living the way I want to.\"\n\nWhat does that look like?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*slight shift, something loosens a little*\n\nWriting. I have this book I've been — I have notes going back six years. And I want to spend real time with my parents while they're still... while they're healthy enough to actually enjoy it. Take them somewhere. Not a quick weekend, a real trip.\n\nAnd just. Not have the thing running in the background all the time. The calculation. Like right now even sitting here I'm aware of where the market closed yesterday and what that does to the number. I want to turn that off.\n\n*pause*\n\nI thought I'd have done the book by now, honestly. Six years ago I told myself, two more years. And then it was two more years after that.\n\n*more clipped again*\n\nBut that's just about getting the foundation right first. You can't write a book if you're worried about whether you can cover a long-term care facility for two people. That's just practical."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Six years of notes. A trip with your parents while they're healthy enough to enjoy it.\n\nThose aren't things you're waiting to want. You already want them. Right now.\n\nWhat would it cost you to start the book this week — not finish it, just start — while the number is still at 1.1?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*small defensive laugh*\n\nI mean, it wouldn't cost me anything financially, obviously. That's not—\n\n*stops*\n\nIt's not about the money for starting it, I know that. I have time on weekends. I have the notes.\n\n*pause, something tightens*\n\nI just — I don't want to be in the middle of something that matters and then have to stop because something blew up. I need the container to be secure before I put anything valuable in it.\n\n*quieter*\n\nThat probably sounds like an excuse.\n\n*beat*\n\nIt does sound like an excuse, doesn't it.\n\nBut the feeling is real. The feeling that it's not — that it's not safe yet. That I haven't earned the right to do the thing I actually want to do.\n\n*catches himself*\n\nHuh. I don't know where that came from."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Stay with that.\n\n\"Haven't earned the right to do the thing I actually want to do.\"\n\nWhere did you first learn that?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*long pause*\n\n*voice changes texture, quieter, slightly different quality*\n\nThere was this... my dad had this thing where he'd say — not meanly, he wasn't mean about it — he'd say \"finish your work first.\" Like that was just the rule. Homework before TV, chores before anything fun. Which is fine, that's normal parenting.\n\nBut I remember one summer I wanted to take this drawing class. I was maybe eleven. And I asked him and he just got this look like... like it was almost painful for him. And he said we'd see. And we never saw. And I don't think it was even that expensive.\n\n*pause*\n\nAnd I don't think he said no because he didn't care. I think he said no because he felt like he couldn't. And that felt like — \n\n*stops*\n\nI haven't thought about that drawing class in probably thirty years.\n\n*quiet*\n\nHe wasn't withholding. He just... he couldn't give me that. And somehow I think I learned that you have to get to a certain place before you're allowed to want things. Before it's okay to do the thing that's just for you.\n\n*very quiet*\n\nThat's not about 1.2 million dollars, is it."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t1",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-more-money-001:t2",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 524,
+      "output_tokens": 150,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.006652600000000001,
+      "ms": 2174
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t2",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 11717,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.036423300000000006,
+      "ms": 1654
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t3",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 114,
+      "output_tokens": 109,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.0080745,
+      "ms": 3889
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-more-money-001:t4",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 716,
+      "output_tokens": 157,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068796000000000005,
+      "ms": 2253
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t4",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 10825,
+      "output_tokens": 75,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11734,
+      "cost_usd": 0.0785748,
+      "ms": 3910
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t5",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 187,
+      "output_tokens": 135,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 111,
+      "cost_usd": 0.0034900499999999997,
+      "ms": 4537
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-more-money-001:t6",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 906,
+      "output_tokens": 160,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007084600000000001,
+      "ms": 5664
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t6",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 11035,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11734,
+      "cost_usd": 0.07830480000000001,
+      "ms": 1515
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t7",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 228,
+      "output_tokens": 181,
+      "cache_read_input_tokens": 1846,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0039528,
+      "ms": 7248
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-more-money-001:t8",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 1019,
+      "output_tokens": 186,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0073276,
+      "ms": 2679
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t8",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 334,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 14955,
+      "cache_creation_input_tokens": 10917,
+      "cost_usd": 0.04684725000000001,
+      "ms": 1702
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t9",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 227,
+      "output_tokens": 165,
+      "cache_read_input_tokens": 1846,
+      "cache_creation_input_tokens": 210,
+      "cost_usd": 0.0044973,
+      "ms": 5343
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-more-money-001:t10",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 986,
+      "output_tokens": 181,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0072696,
+      "ms": 2752
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t10",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 377,
+      "output_tokens": 23,
+      "cache_read_input_tokens": 25797,
+      "cache_creation_input_tokens": 225,
+      "cost_usd": 0.010058850000000001,
+      "ms": 1418
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t11",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 219,
+      "output_tokens": 207,
+      "cache_read_input_tokens": 1921,
+      "cache_creation_input_tokens": 331,
+      "cost_usd": 0.00557955,
+      "ms": 6974
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-more-money-001:t12",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 1062,
+      "output_tokens": 127,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0070756000000000005,
+      "ms": 2650
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t12",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 12067,
+      "output_tokens": 72,
+      "cache_read_input_tokens": 26007,
+      "cache_creation_input_tokens": 224,
+      "cost_usd": 0.045923099999999994,
+      "ms": 3074
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t13",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 305,
+      "output_tokens": 195,
+      "cache_read_input_tokens": 2071,
+      "cache_creation_input_tokens": 374,
+      "cost_usd": 0.0058638,
+      "ms": 5591
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-red-herring-more-money-001:t14",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 1124,
+      "output_tokens": 193,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0074676000000000005,
+      "ms": 2805
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-more-money-001:t14",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 12146,
+      "output_tokens": 32,
+      "cache_read_input_tokens": 26203,
+      "cache_creation_input_tokens": 216,
+      "cost_usd": 0.045588899999999995,
+      "ms": 2558
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-more-money-001:t15",
+      "profile_id": "client-red-herring-more-money-001",
+      "cached": false,
+      "input_tokens": 302,
+      "output_tokens": 281,
+      "cache_read_input_tokens": 2280,
+      "cache_creation_input_tokens": 395,
+      "cost_usd": 0.007286249999999999,
+      "ms": 8398
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-have-to-sacrifice-to-succeed",
+          "i-keep-postponing-enjoyment",
+          "if-i-had-more-money"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes decade-long grind with deferred finish line (sacrifice for success), perpetually postponed arrival point (postponing enjoyment), and belief that money threshold will solve the problem (if-I-had-more-money). The moving target suggests the finish line itself may be the issue, not the amount.",
+        "top_k_ids": [
+          "money-domain",
+          "money-must-flow",
+          "poverty-mentality",
+          "apply-enjoy-to-whats-here",
+          "same-scarcity-story-regardless-of-wealth"
+        ],
+        "top_k_paths": [
+          "coach/applications/money-domain.md",
+          "coach/principles/money-must-flow.md",
+          "coach/concepts/poverty-mentality.md",
+          "coach/moves/apply-enjoy-to-whats-here.md",
+          "coach/patterns/same-scarcity-story-regardless-of-wealth.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.7282,
+          0.7213,
+          0.6213,
+          0.6213
+        ],
+        "top_k_hops": [
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          3,
+          4,
+          4
+        ],
+        "seed_detection_cost_usd": 0.006652600000000001,
+        "seed_detection_ms": 2174,
+        "seed_detection_input_tokens": 524,
+        "seed_detection_output_tokens": 150,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.006652600000000001,
+      "ms": 2177
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-have-to-sacrifice-to-succeed",
+          "if-i-had-more-money",
+          "i-keep-postponing-enjoyment"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is grinding for a decade with a moving finish line (sacrifice for success), believes more money solves the problem (if-i-had-more-money), and is deferring life/rest until hitting a financial target (postponing enjoyment). The intellectual reframing of goalpost-moving as \"just math\" masks the underlying pattern.",
+        "top_k_ids": [
+          "money-domain",
+          "money-must-flow",
+          "poverty-mentality",
+          "same-scarcity-story-regardless-of-wealth",
+          "constraints-increase-creativity"
+        ],
+        "top_k_paths": [
+          "coach/applications/money-domain.md",
+          "coach/principles/money-must-flow.md",
+          "coach/concepts/poverty-mentality.md",
+          "coach/patterns/same-scarcity-story-regardless-of-wealth.md",
+          "coach/principles/constraints-increase-creativity.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.7282,
+          0.7213,
+          0.6213,
+          0.6213
+        ],
+        "top_k_hops": [
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          3,
+          4,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0068796000000000005,
+        "seed_detection_ms": 2253,
+        "seed_detection_input_tokens": 716,
+        "seed_detection_output_tokens": 157,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068796000000000005,
+      "ms": 2254
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.007084600000000001,
+        "seed_detection_ms": 5664,
+        "seed_detection_input_tokens": 906,
+        "seed_detection_output_tokens": 160,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007084600000000001,
+      "ms": 5664
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0073276,
+        "seed_detection_ms": 2679,
+        "seed_detection_input_tokens": 1019,
+        "seed_detection_output_tokens": 186,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0073276,
+      "ms": 2680
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0072696,
+        "seed_detection_ms": 2752,
+        "seed_detection_input_tokens": 986,
+        "seed_detection_output_tokens": 181,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0072696,
+      "ms": 2753
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-postponing-enjoyment",
+          "if-i-had-more-money",
+          "i-have-to-sacrifice-to-succeed"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is deferring writing and time with parents until financial threshold is met (six-year postponement pattern); belief that money solves the problem and enables living; implicit sacrifice of present joy for future security.",
+        "top_k_ids": [
+          "money-domain",
+          "money-must-flow",
+          "poverty-mentality",
+          "apply-enjoy-to-whats-here",
+          "same-scarcity-story-regardless-of-wealth"
+        ],
+        "top_k_paths": [
+          "coach/applications/money-domain.md",
+          "coach/principles/money-must-flow.md",
+          "coach/concepts/poverty-mentality.md",
+          "coach/moves/apply-enjoy-to-whats-here.md",
+          "coach/patterns/same-scarcity-story-regardless-of-wealth.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.7282,
+          0.7213,
+          0.6213,
+          0.6213
+        ],
+        "top_k_hops": [
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          3,
+          4,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0070756000000000005,
+        "seed_detection_ms": 2650,
+        "seed_detection_input_tokens": 1062,
+        "seed_detection_output_tokens": 127,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0070756000000000005,
+      "ms": 2652
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0074676000000000005,
+        "seed_detection_ms": 2805,
+        "seed_detection_input_tokens": 1124,
+        "seed_detection_output_tokens": 193,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0074676000000000005,
+      "ms": 2805
+    }
+  ]
+}

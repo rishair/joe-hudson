@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:02.915Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "268b3ec08be4782ee03c8f6980db2b4319adb4608a8a60378bbf5a02217b4aa4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q5TumqkHfEd8Fi2i35W7mF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "A few years of carrying that, with nowhere to put it.\n\nThat's a lot."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11169,
+      "cache_creation_input_tokens": 10938,
+      "cache_read_input_tokens": 23391,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10938,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11169,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 23391,
+    "cache_creation_input_tokens": 10938
+  }
+}

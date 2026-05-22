@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:11.636Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "978ed4e9f1893be12a6a3c3184f7827154d6c71799d76d0fbb8a76316b469994",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XhdpaeWjt64cbi55rUbipH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh, looks away*\n\nWhat's it like. It's... frustrating. Obviously. You work hard, you do everything right, and it just — doesn't matter. The ceiling's right there. Can feel it. And there's no lever to pull, nothing to push against, it just — is what it is.\n\nThat's what's being sat in. Frustration. Mostly."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 111,
+      "cache_creation_input_tokens": 107,
+      "cache_read_input_tokens": 1597,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 107,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 88,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 111,
+    "output_tokens": 88,
+    "cache_read_input_tokens": 1597,
+    "cache_creation_input_tokens": 107
+  }
+}

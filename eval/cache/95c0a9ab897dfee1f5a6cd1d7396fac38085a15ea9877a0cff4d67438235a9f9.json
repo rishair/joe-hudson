@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:00.578Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "95c0a9ab897dfee1f5a6cd1d7396fac38085a15ea9877a0cff4d67438235a9f9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016gVUA8B3LJ1onoGVfqGD1f",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "A few years, probably. Though I've been telling myself it was just... stress, or a phase, or something that would lift when things settled down. Things have settled down, more or less. And it's still there.\n\nI used to have a clearer sense of -- I don't know -- being present in my own life. That's mostly gone now. I keep doing the things I'm supposed to do. Work, the relationship, the weekends. But it's like watching it from a slight distance."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 194,
+      "cache_creation_input_tokens": 1831,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1831,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 110,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 194,
+    "output_tokens": 110,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1831
+  }
+}

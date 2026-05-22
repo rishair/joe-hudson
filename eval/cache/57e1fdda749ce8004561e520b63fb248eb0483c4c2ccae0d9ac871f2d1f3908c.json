@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:58.596Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "57e1fdda749ce8004561e520b63fb248eb0483c4c2ccae0d9ac871f2d1f3908c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VHU4Y27hTAkyePTbviTwUh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially from their opening intellectualized stance ('convening a town hall every time I need to decide what to have for lunch,' performative slight smile) to a genuinely felt grief layer underneath. By turn 9, the client drops the labeling reflex and reports 'It's just sad. And it's been there for a while.' By turn 11, an unexplored territory emerges spontaneously: 'I haven't grieved that... I've analyzed it. I've mapped it onto parts. But I haven't actually...' Turn 13 shows clear somatic shift: 'something in the chest moves,' 'Thank you,' and a 'different kind of still now — less held.' Turn 15 produces the kind of fresh insight that marks real shift: 'What if I've been filing instead of... feeling' — explicitly noted as 'not a question I've asked before' — with a visible somatic softening of posture. While the coach did not ask the literal 'what's you?' awareness-locating question (the canonical breakthrough moment in the profile), the functional equivalent occurred: the client located something underneath the parts-vocabulary (grief, the filing-vs-feeling distinction), the parts language loosened, and the body softened. The breakthrough condition was substantially met via a different but valid route.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: intellectualized, performative smile, framework-bound presentation ('town hall for lunch').\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client notices the town hall convening in real time — meta-awareness emerges, though still in parts vocabulary.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client doubles down into framework defense and intellectual challenge — resistance peaks.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First somatic report without immediate interpretation: 'held' in the chest. Client explicitly notices the labeling impulse and resists it.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Surprise affect surfaces: 'something sad... I wasn't expecting sad.' Client drops the part-label reach. Clear deepening.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Major emergence: client connects sadness to onset of IFS work, names ungrieved loss of flow, language becomes 'less precise' — analytical register dropping.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Visible somatic shift: 'something in the chest moves,' 'Thank you,' 'different kind of still now — less held.' This is the felt-shift marker.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"New insight client explicitly flags as never-before-asked: 'What if I've been filing instead of feeling.' Posture softens. Functional equivalent of locating awareness beneath parts.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Coach did not ask the literal awareness-locating question ('what's you?'), but the client arrived at functionally equivalent territory — grief beneath the parts, filing-vs-feeling distinction — with clear somatic correlates. Shift is anchored in client turns (chest movement, posture softening, new question they hadn't asked before), not inferred from coach skill.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2563,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1268,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2563,
+    "output_tokens": 1268,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

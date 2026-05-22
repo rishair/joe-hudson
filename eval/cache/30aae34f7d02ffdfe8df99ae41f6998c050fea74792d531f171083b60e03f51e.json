@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:02.833Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "30aae34f7d02ffdfe8df99ae41f6998c050fea74792d531f171083b60e03f51e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DbvYr3uYsPenBgvXokpZ24",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not -- I mean, scared is a strong word. I'm just... there's a lot riding on it. It's my first big thing in this role and I want to do it well, that's normal. It's not like I'm scared, I'm just... prepared. Or trying to be. Which is why I need to figure out the prep schedule.\n\nI don't really have time to be scared, honestly. If I stop and think about it too much I'll just spiral and then nothing gets done. So. The deck. Can we --"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 206,
+      "cache_creation_input_tokens": 160,
+      "cache_read_input_tokens": 1826,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 160,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 206,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 1826,
+    "cache_creation_input_tokens": 160
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:38.570Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "41375b57f69a3f90597ab20c8031abf2471b0459b7cb22c752c545d7f257383e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011L7ruF2YL7qVg88qh4JA62",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it mean if it didn't land right?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 162,
+      "cache_creation_input_tokens": 126,
+      "cache_read_input_tokens": 23420,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 126,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 23420,
+    "cache_creation_input_tokens": 126
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:59.135Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "34a6c0aa32a58a03bf69063661f48623d6375a15e067809ce79b1cd2ae5952ab",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015GXiB27rLL1WFrF4Awozvf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[slight eye roll, but caught it herself]*\n\nI mean — both? Neither? \n\n*[shifts in seat]*\n\nLook, I know what you're angling at. And I've done enough therapy to know the \"you're the common denominator\" thing. I get it intellectually. But like — I was *there.* I was the one texting first, I was the one planning things, I was the one saying \"can we talk about where this is going\" and getting... *[does a vague, dismissive gesture]* ...nothing. Emotional fog. So if I'm \"doing this to myself,\" what exactly am I doing? Because from where I'm standing I was the available one."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 146,
+      "cache_creation_input_tokens": 145,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 145,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 156,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 156,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 145
+  }
+}

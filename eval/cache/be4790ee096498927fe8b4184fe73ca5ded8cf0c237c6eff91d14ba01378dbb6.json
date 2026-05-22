@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:52.986Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "be4790ee096498927fe8b4184fe73ca5ded8cf0c237c6eff91d14ba01378dbb6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DuMgWM7Pah6b4YJbHskWWo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That last move — \"which is maybe exactly what a selfish person would say\" — did you notice you did that?\n\nYou got close to something real, and then you prosecuted yourself for it.\n\nWhat if you just stayed with what you said before that? \"I'm still there, I think. I just haven't checked in a while.\"\n\nWhat does that feel like to say out loud?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23116,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 28803,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23116,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 28803,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:47.871Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "bb46ab47753b1453c298ccf11cf92fe10747d7d2192cce3d2be1991d5ca692d9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01T8bAWHppHBVqYu2FdrbWFQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That number has moved before. What do you think it's actually protecting you from?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11717,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11717,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

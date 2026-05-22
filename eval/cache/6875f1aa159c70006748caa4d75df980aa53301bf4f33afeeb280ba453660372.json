@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:59.961Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6875f1aa159c70006748caa4d75df980aa53301bf4f33afeeb280ba453660372",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HmqKb8xsbgZh7vEuafTcmh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach asks effective, well-timed questions that open the territory, but rarely names a visible read. The closest moments are turn 8 ('You just answered your own question — and then asked me to answer it anyway') which names a behavioral pattern, and turn 10 ('That's the realest thing you've said' + asking about body), which directs to somatic awareness. However, the coach never explicitly names what they notice somatically or energetically — no naming of the linguistic caveat ('I feel selfish even wanting it'), no naming of the rehearsal/self-conviction stance in turn 3, no naming of the brace or shift at turn 7 ('shifts slightly'), no read of the 'oh' moment beyond inviting the client to stay with it. The coach lets the client do the noticing rather than reflecting back specific reads. Reads are functional but generic and sparse — this is question-led coaching with light pattern-naming, not specific AoA somatic/linguistic reads.\",\n  \"evidence_turns\": [2, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Question redirects to felt experience of the question itself, but doesn't name a read — doesn't reflect the linguistic caveat 'feel selfish even wanting it.'\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Stays with the verdict frame; no read named.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Good question but no observation language; doesn't name what's visible in client's stance.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names a pattern read — the self-answer followed by re-asking. This is a behavioral observation that lands and shifts the conversation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Mirrors the client's exact language and directs to somatic awareness ('what happens in your body'), implicitly reading that something live just surfaced. Read is implicit rather than explicit.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the 'oh' — a micro-read of an arrival moment. Brief but timely.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"linguistic-caveat\"],\n  \"notes\": \"The coach misses the explicit linguistic-caveat read in turn 1 ('feel selfish even wanting it'). The 'oh' catch in turn 12 is the strongest read but is more a tracking move than a named observation. Overall reads are present but generic and content-driven, not specifically somatic/linguistic in the AoA sense.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2642,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 922,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2642,
+    "output_tokens": 922,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

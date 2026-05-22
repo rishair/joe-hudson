@@ -1,0 +1,673 @@
+{
+  "profile_id": "client-resistance-im-overwhelmed-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Okay so -- I'm drowning. I'm working at like 110% and still falling behind, everything is urgent, my boss just added a thing to Thursday's agenda which is already a nightmare, and I can't even -- what do I prioritize? Like where do I even start?"
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "Where in your body do you feel it right now?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "I mean -- my shoulders are up, I guess? But that's not really -- I have to figure out the Thursday thing first. Like, can we just start there? Because if I can get that sorted then maybe I can think about the other stuff."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "I notice you just moved away from your body pretty fast.\n\nWhat's the Thursday thing?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "Yeah, no, I know, I just -- Thursday is this big presentation to the senior team, it's my first one in this new role, and my boss added a stakeholder review on top of it which means I have to prep two different sets of materials and I haven't even started the second one and it's -- yeah. And then there's the school pickup thing, my partner can usually do it but they have a thing this week, so I have to figure out who covers that, and my mom's birthday is -- anyway. Thursday. That's the main thing. What would you do? Like, what's the most important thing to prep first?"
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "There's a lot in that list. But I notice you didn't say anything about what it's like to be presenting to the senior team for the first time.\n\nWhat's that like?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "It's -- fine? I mean, it's a lot of work but that's just how it is. I knew it would be intense when I took the role. I should be able to handle this, honestly, other people do it all the time. It's just the timing is bad with everything else stacking up.\n\n...I mean it's a little nerve-wracking, I guess. But that's normal. Everyone gets nervous before presentations. Can we talk about how to structure the prep time? Because I'm thinking if I do the stakeholder deck tonight and then the main presentation tomorrow I might be able to --"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "\"A little nerve-wracking\" and \"fine\" are doing a lot of work there.\n\nWhat are you scared of?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "I'm not -- I mean, scared is a strong word. I'm just... there's a lot riding on it. It's my first big thing in this role and I want to do it well, that's normal. It's not like I'm scared, I'm just... prepared. Or trying to be. Which is why I need to figure out the prep schedule.\n\nI don't really have time to be scared, honestly. If I stop and think about it too much I'll just spiral and then nothing gets done. So. The deck. Can we --"
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "\"I don't have time to be scared\" — I want to stay with that for a second.\n\nWhat would happen if you let yourself feel it, just for a moment, right now?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "I just -- I'd probably -- I don't know, I'd fall apart? And I can't do that right now. I have too much to do. Like the feeling can wait, the Thursday thing cannot wait, my kids cannot wait, none of it waits for me to have a moment, so.\n\n*brief pause*\n\nI'm fine. It's fine. Can we just -- what's the most efficient way to prep two decks in two days?"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "You just said you'd fall apart.\n\nThat's not nothing. What does \"fall apart\" mean to you — what are you afraid would actually happen?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "I mean -- I don't know, I'd just -- I'd lose focus and then nothing would get done and then the presentation would be bad and then --\n\n*stops*\n\nI just need to get through Thursday. If I can get through Thursday it'll be fine."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "And after Thursday, what's the next thing you need to get through?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "There's the -- well there's the team offsite the week after, and then the Q3 planning cycle starts, and my boss mentioned something about a board update in six weeks that I might be presenting at, and --\n\n*pause*\n\n...oh.\n\nI mean. It's just a busy period. It'll calm down eventually."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t1",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 560,
+      "output_tokens": 121,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0065436,
+      "ms": 1840
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t2",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 11794,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0365643,
+      "ms": 1510
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t3",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 126,
+      "output_tokens": 55,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1648,
+      "cost_usd": 0.007383,
+      "ms": 2607
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 620,
+      "output_tokens": 134,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0066686,
+      "ms": 3092
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t4",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 11798,
+      "output_tokens": 22,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11805,
+      "cost_usd": 0.08096505000000001,
+      "ms": 3209
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t5",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 80,
+      "output_tokens": 138,
+      "cache_read_input_tokens": 1648,
+      "cache_creation_input_tokens": 123,
+      "cost_usd": 0.0032656499999999997,
+      "ms": 4989
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 799,
+      "output_tokens": 136,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068576,
+      "ms": 2011
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t6",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 23185,
+      "output_tokens": 42,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11805,
+      "cost_usd": 0.11542605,
+      "ms": 2462
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t7",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 205,
+      "output_tokens": 131,
+      "cache_read_input_tokens": 1826,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0031278,
+      "ms": 4696
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 896,
+      "output_tokens": 143,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069896,
+      "ms": 1963
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t8",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 20258,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 15032,
+      "cache_creation_input_tokens": 11831,
+      "cost_usd": 0.11009985,
+      "ms": 1882
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t9",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 206,
+      "output_tokens": 120,
+      "cache_read_input_tokens": 1826,
+      "cache_creation_input_tokens": 160,
+      "cost_usd": 0.0035658,
+      "ms": 4062
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-im-overwhelmed-001:t10",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 875,
+      "output_tokens": 165,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0070786,
+      "ms": 2323
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t10",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 9001,
+      "output_tokens": 43,
+      "cache_read_input_tokens": 26841,
+      "cache_creation_input_tokens": 11429,
+      "cost_usd": 0.07855904999999999,
+      "ms": 2199
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t11",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 196,
+      "output_tokens": 100,
+      "cache_read_input_tokens": 1848,
+      "cache_creation_input_tokens": 311,
+      "cost_usd": 0.0038086500000000002,
+      "ms": 3766
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-im-overwhelmed-001:t12",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 825,
+      "output_tokens": 128,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068436,
+      "ms": 1956
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t12",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 11134,
+      "output_tokens": 35,
+      "cache_read_input_tokens": 38228,
+      "cache_creation_input_tokens": 8920,
+      "cost_usd": 0.07884540000000001,
+      "ms": 2149
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t13",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 181,
+      "output_tokens": 59,
+      "cache_read_input_tokens": 2028,
+      "cache_creation_input_tokens": 281,
+      "cost_usd": 0.00309015,
+      "ms": 6520
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-resistance-im-overwhelmed-001:t14",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 728,
+      "output_tokens": 161,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069116,
+      "ms": 2410
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-im-overwhelmed-001:t14",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 11065,
+      "output_tokens": 18,
+      "cache_read_input_tokens": 47118,
+      "cache_creation_input_tokens": 193,
+      "cost_usd": 0.04832415,
+      "ms": 1517
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-im-overwhelmed-001:t15",
+      "profile_id": "client-resistance-im-overwhelmed-001",
+      "cached": false,
+      "input_tokens": 115,
+      "output_tokens": 74,
+      "cache_read_input_tokens": 2189,
+      "cache_creation_input_tokens": 263,
+      "cost_usd": 0.0030979500000000004,
+      "ms": 2962
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "im-overwhelmed",
+          "the-rush-signature"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is explicitly stating overwhelm (\"drowning,\" \"110%,\" \"falling behind,\" \"everything is urgent\") and showing the somatic signature of overwhelm (rapid speech pattern, scattered thinking, inability to prioritize). The rush signature is visible in the pace and the sense of panic.",
+        "top_k_ids": [
+          "the-thing-not-being-said-as-the-fear-signal",
+          "flow-vs-managing-reality",
+          "leaders-calm-becomes-the-teams-calm",
+          "meaning-of-overwhelm-determines-direction",
+          "i-keep-postponing-enjoyment"
+        ],
+        "top_k_paths": [
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/flow-vs-managing-reality.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md",
+          "coach/principles/meaning-of-overwhelm-determines-direction.md",
+          "coach/concerns/i-keep-postponing-enjoyment.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.9378,
+          0.8077
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          0,
+          0,
+          1,
+          3,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0065436,
+        "seed_detection_ms": 1840,
+        "seed_detection_input_tokens": 560,
+        "seed_detection_output_tokens": 121,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0065436,
+      "ms": 1841
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "im-overwhelmed",
+          "the-rush-signature",
+          "am-i-doing-it-right"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing overwhelm with multiple urgent demands and somatic signs of rush (shoulders up). They're also showing resistance to body awareness and trying to solve the problem intellectually first—a classic \"am I doing it right\" move where they want to handle the immediate task before addressing the underlying state.",
+        "top_k_ids": [
+          "the-thing-not-being-said-as-the-fear-signal",
+          "flow-vs-managing-reality",
+          "leaders-calm-becomes-the-teams-calm",
+          "meaning-of-overwhelm-determines-direction",
+          "i-keep-postponing-enjoyment"
+        ],
+        "top_k_paths": [
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/flow-vs-managing-reality.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md",
+          "coach/principles/meaning-of-overwhelm-determines-direction.md",
+          "coach/concerns/i-keep-postponing-enjoyment.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          0.9378,
+          0.8077
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          0,
+          0,
+          1,
+          3,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0066686,
+        "seed_detection_ms": 3092,
+        "seed_detection_input_tokens": 620,
+        "seed_detection_output_tokens": 134,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0066686,
+      "ms": 3095
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "im-overwhelmed",
+          "am-i-doing-it-right"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is overwhelmed with multiple competing demands (presentation prep, school pickup, mother's birthday) and seeking external direction on what's \"most important\" — a classic doing-it-right resistance disguised as practical problem-solving. The rapid deflection from body sensation to task-management is also a read on how the client is showing up.",
+        "top_k_ids": [
+          "the-thing-not-being-said-as-the-fear-signal",
+          "flow-vs-managing-reality",
+          "leaders-calm-becomes-the-teams-calm",
+          "the-rush-signature",
+          "meaning-of-overwhelm-determines-direction"
+        ],
+        "top_k_paths": [
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/flow-vs-managing-reality.md",
+          "coach/principles/leaders-calm-becomes-the-teams-calm.md",
+          "coach/reads/the-rush-signature.md",
+          "coach/principles/meaning-of-overwhelm-determines-direction.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.7213,
+          0.7213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          0,
+          0,
+          1,
+          3,
+          3
+        ],
+        "seed_detection_cost_usd": 0.0068576,
+        "seed_detection_ms": 2011,
+        "seed_detection_input_tokens": 799,
+        "seed_detection_output_tokens": 136,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068576,
+      "ms": 2012
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-should-be-doing-this",
+          "im-overwhelmed",
+          "am-i-doing-it-right"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is using \"should\" language (\"I should be able to handle this\"), minimizing their emotional experience (\"it's fine,\" \"that's normal\"), and seeking the \"right way\" to structure prep time rather than addressing the underlying nervousness and overwhelm. The deflection from emotion to logistics is a classic resistance pattern.",
+        "top_k_ids": [
+          "disassociating-in-the-coaching-room",
+          "the-rush-signature",
+          "i-keep-running-into-the-same-wall",
+          "the-thing-not-being-said-as-the-fear-signal",
+          "flow-vs-managing-reality"
+        ],
+        "top_k_paths": [
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/reads/the-rush-signature.md",
+          "coach/concerns/i-keep-running-into-the-same-wall.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/distinctions/flow-vs-managing-reality.md"
+        ],
+        "top_k_scores": [
+          0.9378,
+          0.9378,
+          0.9102,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          3,
+          3,
+          2,
+          0,
+          0
+        ],
+        "seed_detection_cost_usd": 0.0069896,
+        "seed_detection_ms": 1963,
+        "seed_detection_input_tokens": 896,
+        "seed_detection_output_tokens": 143,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069896,
+      "ms": 1966
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0070786,
+        "seed_detection_ms": 2323,
+        "seed_detection_input_tokens": 875,
+        "seed_detection_output_tokens": 165,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0070786,
+      "ms": 2324
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-dont-have-time-for-this",
+          "im-overwhelmed",
+          "i-have-to-do-it-all-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is postponing emotional experience due to perceived time scarcity and multiple competing demands; expressing overwhelm with no capacity for self-care; operating from hyper-independence and the belief that everything depends on them alone.",
+        "top_k_ids": [
+          "the-more-i-grow-the-more-alone-i-feel",
+          "letting-it-in-vs-deflecting-the-welcome",
+          "repressed-trigger-in-the-body",
+          "apologize-for-not-seeing-the-help",
+          "asking-with-shame-invites-refusal"
+        ],
+        "top_k_paths": [
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/moves/apologize-for-not-seeing-the-help.md",
+          "coach/principles/asking-with-shame-invites-refusal.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833,
+          1.1833
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          1,
+          2,
+          0
+        ],
+        "seed_detection_cost_usd": 0.0068436,
+        "seed_detection_ms": 1956,
+        "seed_detection_input_tokens": 825,
+        "seed_detection_output_tokens": 128,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068436,
+      "ms": 1957
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0069116,
+        "seed_detection_ms": 2410,
+        "seed_detection_input_tokens": 728,
+        "seed_detection_output_tokens": 161,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069116,
+      "ms": 2411
+    }
+  ]
+}

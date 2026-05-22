@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:21.357Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f02ecfeaeb22d83c5c75884a76f05a9d29e74987e5381dcb8b5a3d466b26b55c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015oFfKCovTmh4n2SNqdAhh8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(small laugh, slightly defensive)*\n\nRight now? Something like... \"you're paying someone to tell you what you already know, which is that you're unfixable.\" Which, you know, classic. Very on brand.\n\n*(waves hand dismissively)*\n\nBut that's kind of the point — I *know* it's distorted. I know the cognitive distortions, I can name them, I've done the work. The knowing doesn't touch it. That's what's so maddening."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 154,
+      "cache_creation_input_tokens": 1570,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1570,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 154,
+    "output_tokens": 111,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1570
+  }
+}

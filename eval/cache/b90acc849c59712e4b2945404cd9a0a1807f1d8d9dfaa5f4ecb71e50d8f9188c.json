@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:31.370Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b90acc849c59712e4b2945404cd9a0a1807f1d8d9dfaa5f4ecb71e50d8f9188c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015iNRyZWySVqiE7qZKMbuw8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just named the thing that's actually here.\n\nNot just grief. The \"not clean\" stuff. The complicated part — what it was like to have her, not just to lose her.\n\nThe logistics and the drinking are both doing the same job. Keeping that from opening.\n\nWhat's the \"not clean\" stuff?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21282,
+      "cache_creation_input_tokens": 9673,
+      "cache_read_input_tokens": 15025,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9673,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 72,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21282,
+    "output_tokens": 72,
+    "cache_read_input_tokens": 15025,
+    "cache_creation_input_tokens": 9673
+  }
+}

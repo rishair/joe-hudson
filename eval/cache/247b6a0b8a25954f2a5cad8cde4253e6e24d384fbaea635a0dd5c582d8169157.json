@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:43.516Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "247b6a0b8a25954f2a5cad8cde4253e6e24d384fbaea635a0dd5c582d8169157",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012D3VbsRhFhqsutQDnMPmwf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I noticed you stopped yourself mid-sentence.\n\nWhat were you about to say?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9465,
+      "cache_creation_input_tokens": 9352,
+      "cache_read_input_tokens": 21989,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9352,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9465,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 21989,
+    "cache_creation_input_tokens": 9352
+  }
+}

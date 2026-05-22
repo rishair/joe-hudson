@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:33.271Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "711e073284a6c277b582f54660dd518b7c361a9fa9e7838c0455da3e75f31f7b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016ZYE8YXZ1Tb3PZYFPuBwrn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client clearly shifts across the conversation. She begins with a tightly packaged intellectual question about methodology ('how do you tell the difference between intuition and fear?') and defends that framing repeatedly through turns 3, 5, 7, 9, 11 ('I don't think this is unanswerable'). By turn 13 her composure cracks mid-sentence ('Hm. I'm not sure I finished that sentence correctly') and a new layer emerges: 'Maybe it's not about the decision at all. Maybe it's about what happens after. The watching. The waiting to be wrong.' By turn 15 she goes still, the happiness-filter smile fades, and she names the deeper layer directly: 'It's waiting for confirmation that I can't trust myself. Like there's a verdict still outstanding and every decision is new evidence.' She then explicitly recognizes the question dissolved ('That's not really about the job, is it') and laughs softly at her own opening framing ('I came in with a very clean question') — which matches the breakthrough_condition almost exactly. Somatic markers (goes still, smile fades, voice quieter, sentence breaking off) confirm the shift is felt, not just named.\",\n  \"evidence_turns\": [1, 3, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening intellectual frame fully intact: methodology question, no affect.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client reframes around 'discernment' to maintain the intellectual frame; happiness filter visible in the small smile.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First crack: client admits past confident decisions went wrong, but immediately re-armors with 'the way through is to find a better diagnostic.'\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client doubles down on the methodology frame, asserts 'I don't think this is unanswerable' — defenses tighten.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Sentence breaks: 'Hm. I'm not sure I finished that sentence correctly.' New language emerges: 'the watching. The waiting to be wrong.' Smile changes quality.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Full shift: goes still, smile fades, names the verdict-outstanding layer, recognizes 'that's not really about the job,' soft laugh at her own clean opening question — breakthrough condition met.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"intellectual-question-with-emotional-body\", \"the-happiness-filter\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Coach didn't hit every expected move, but the inversion in turn 2 and the 'stay with what you just found' in turn 14 did the load-bearing work. Client did substantial work herself, consistent with a happy_path profile.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2953,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1101,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2953,
+    "output_tokens": 1101,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

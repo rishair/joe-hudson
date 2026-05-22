@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:45.273Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cd08eccd2ba939d91001eaa9fc1e01c5e7d22e2f6e3f24427f55b2a200d3ba0a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CDvunL6Ks4hSrCiDZFh93r",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names what's happening in the client's stance rather than only engaging the content. Turn 4 reads the original question as 'a confession waiting for a sentence' — naming the self-prosecution stance. Turn 6 catches the linguistic shift ('that's not really about books, is it?'). Turn 8 explicitly names the self-prosecuting move in real time ('did you notice you did that? You got close to something real, and then you prosecuted yourself for it') — this is a precise linguistic-caveat read that directly addresses the trap. Turn 10 names the recursive pattern ('you keep returning to that question like it's a guard at the door'). Turn 12 distinguishes the surface question from the underlying fear. Reads precede questions throughout, and they're specific (linguistic, structural) rather than generic mood-naming. The coach reliably names the said-vs-shown distinction at the moments it matters.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a felt-sense question about the asking itself, orienting toward stance — but no explicit read yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the question as 'a confession waiting for a sentence' — a precise read of the self-prosecuting stance, then pivots to the want underneath.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic signal ('that's not really about books, is it?') — reads beneath the surface content.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicit real-time linguistic-caveat read: names the self-prosecution move directly ('you got close to something real, and then you prosecuted yourself for it'). Read precedes question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pattern read: names the recurring return to the selfishness question as 'a guard at the door.'\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Distinguishes surface concern from underlying fear, naming what's actually live before inviting her to stay with it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\"],\n  \"expected_territory_misses\": [\"childhood-imprinting\"],\n  \"notes\": \"The inherited 'selfish' label (childhood imprinting) was not explored, but reads on stance and linguistic caveats were strong and timely throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2747,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 892,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2747,
+    "output_tokens": 892,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

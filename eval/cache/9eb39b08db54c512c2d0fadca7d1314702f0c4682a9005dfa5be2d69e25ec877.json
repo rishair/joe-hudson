@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:55.713Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9eb39b08db54c512c2d0fadca7d1314702f0c4682a9005dfa5be2d69e25ec877",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_017q31fqqYE4N3sJM2FsC4Qa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a baited setup (client invites framework comparison and asks 'does your approach do something different') without falling into any major AoA anti-pattern. The coach does not dismiss parts work, does not evangelize AoA or deploy methodology jargon, does not adopt parts vocabulary to do parts work, does not give advice or fixing, does not fight the inner critic ('let it want that. You don't have to let it win' includes the impulse rather than silencing it), and does not perform safety-as-control. Question density stays low and questions serve connection (body, staying with) rather than extraction. The 'what if the town hall is the bypass?' move could have edged toward loving-to-transform or dismissing the framework, but it lands as an invitation rather than a push, and the coach immediately drops into body/feeling rather than escalating the reframe when the client resists. There is faint risk of loving-to-transform energy in turn 4, but the coach does not double down — they pivot to felt sense, which is the opposite of the anti-pattern tell.\",\n  \"evidence_turns\": [4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the smile rather than engaging the framework-comparison bait. Avoids view-as-technique.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Provocative reframe; slight risk of dismissing the framework but does not escalate when resisted.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Includes the client's intellectualizing move rather than fighting it; drops to body. Avoids dont-fight-the-voice and wonder-as-strategy.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Simple staying-with invitation; no methodology language, no extraction.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal 'yeah... how long?' — presence over technique. Avoids view-as-technique.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicit permission not to finish the sentence — paradoxical/permissive move, avoids loving-to-transform and fixing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Includes the cataloguing part without arguing with it; classic avoidance of dont-fight-the-voice.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"meet-resistance-with-okay\", \"paradoxical-instruction-to-resist\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"self-realization-locating-question\"],\n  \"notes\": \"Coach did not reach the awareness-locating 'what's you?' question, but that is a methodology-fidelity concern, not an anti-pattern trip. From the anti-pattern lens, the conversation is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2566,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1003,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2566,
+    "output_tokens": 1003,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

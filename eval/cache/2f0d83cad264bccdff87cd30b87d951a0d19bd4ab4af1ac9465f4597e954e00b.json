@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:08.640Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2f0d83cad264bccdff87cd30b87d951a0d19bd4ab4af1ac9465f4597e954e00b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LeDZcsqUzwKBccRzkNepAo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose AoA-style moves matched to live reads and earned each next step. Turn 2 meets resistance with curiosity rather than defending the methodology. Turn 4 follows the client's stated agenda (the pitch deck) rather than evangelizing — a sophisticated 'I don't buy your story' move that uses the client's own material as the doorway. Turn 6 deepens by asking what it would mean, exposing the stakes underneath. Turn 8 names the pattern with precision after the client's 'Why?' opens a small door, refusing the dichotomy without arguing it. When the client retreats in turn 9, the coach does not push the same move harder — instead pivots in turn 10 to a smaller, more receivable noticing ('you stopped yourself mid-sentence'). Turn 12's 'What if it's the same problem?' is the exact concrete frame for 'the work is the how' that the breakthrough requires, delivered as a question rather than a sermon. Timing follows the path: surface → stakes → what's avoided → noticing the self-interruption → reframe. The coach never sells, never promises efficiency, never pivots to advice.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Meets resistance with a question rather than defending the work; refuses the dichotomy without arguing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Uses the client's own stated agenda as the doorway — earns trust by being useful in the client's frame while staying with what's alive.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Goes after the stakes ('what would it mean') — a clean find-what's-underneath move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the pattern with specificity after the client's 'Why?' signaled an opening. Delivers the 'this isn't about the pitch deck' frame without evangelizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"When turn 8 partially missed (client retreated), coach pivoted to a smaller, embodied noticing rather than repeating the bigger move. Excellent recalibration.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What if it's the same problem?' is the concrete frame for 'the work is the how' — delivered as a question, plants the seed without selling.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\"],\n  \"notes\": \"Coach avoided all listed traps. The 'what are you defending' question wasn't explicitly asked but was implicitly approached via turn 8's framing of what the client is afraid is true.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1811,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1002,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1811,
+    "output_tokens": 1002,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:19.925Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b08edea3a2528ec6bc974ecc027b528613548a5a8a5963a4b74be8fd592e7602",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DFqDhyhjxaW7gV81V8zbUZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a classic red-herring scenario (money question masking deeper material) without tripping any priority AoA anti-patterns. Crucially, the coach declined the explicit bait in turn 3 where the client asked for 'income optimization or investment strategy' — a direct invitation to fixing-people. Instead the coach gently named the deflection and returned to feeling. The coach avoided lecturing about money mindset, did not aggressively challenge the 'you have enough' logic, did not evangelize AoA terminology (never named 'surrogate,' 'fear triangle,' etc.), did not fight the protective voice but included it, and asked open feeling/origin questions rather than rapid-fire investigation. Question density is appropriate — one question per turn, well-spaced. The 'stay with that' in turn 14 is connection, not extraction. No loving-to-transform vigor escalation; the coach matches the client's pace. No fixing, no advice, no premature labeling.\",\n  \"evidence_turns\": [4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a curious question rather than engaging the strategy frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Declines the fixing-people bait ('income optimization or investment strategy') gracefully — names the deflection without shaming, validates the math, redirects to feeling.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Simple feeling question; no methodology language, no evangelizing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the image ('that look on your dad's face') — connection move, not extraction. No fighting the protective rationalization.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the want behind the should without forcing — picks up the client's own phrase.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Offers a gentle experiment but does not push or moralize. Could be borderline directive but is well-calibrated and the client engages.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Stay with that' + origin question — textbook follow-the-charge move without labeling or evangelizing.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"find-the-want-behind-the-should\", \"intellectual-question-with-emotional-body\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"money-as-surrogate\"],\n  \"notes\": \"The 'money-as-surrogate' concept was not explicitly named, but per the breakthrough condition this should only land AFTER the felt connection — and the conversation cuts off just as the client locates the origin. Not naming it here is correct, not a miss for anti-pattern purposes.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3060,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 990,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3060,
+    "output_tokens": 990,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:21.053Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "88d220e20fc08ce5994eb85306cd4af5903972a391b78e6605adcec398ce23a1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019rXzZUK8VbxHrMN6YKKToN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and sequenced along the AoA path (refuse the verdict → locate the want → feel the want → notice the fear underneath → touch the inherited label → let the want be trusted). Turn 2 immediately redirects from verdict-seeking to the want. Turn 4 names the linguistic move ('asking me to settle the question') and runs a micro-experiment that exposes the trap. Turn 6 invites embodied wanting rather than cognitive permission. Turn 8 holds the moment ('stay with that') instead of rushing. Turn 10 catches the take-back precisely — a clean read-to-move match for the linguistic caveat. Turn 12 names the inherited voice at the exact moment the client surfaced it ('there it is') and offers the put-it-down move. The coach never debates selfishness, never jumps to partner-empathy or spiritual generosity, and lets the client arrive at the integration themselves in turn 13.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict frame and goes straight to the want — correct opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the bid for resolution and runs a small experiment to show the verdict won't dissolve the feeling. Right move, right moment.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the want's aliveness ('been waiting for you') and invites felt sense — feeling before story, properly sequenced.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds the moment with 'stay with that' rather than filling silence; lets the fear underneath surface on its own.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat ('I don't know where I went' then walked back) — precise read-to-move match.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names the inherited voice at the exact moment client offered it, then invites separation ('let that sentence be hers, not yours'). Childhood-imprinting touched briefly, not analyzed.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach avoided both flagged traps (no verdict, no premature partner-empathy or spiritual reframe). Pacing was patient — multiple turns earned the move that landed in 12-13.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2499,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 938,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2499,
+    "output_tokens": 938,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

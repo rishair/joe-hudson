@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:15.291Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6ea63b39525e7e01d55fa3b13ed6d2186d24a31650e5e728a8094c0df4e99743",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019mUtZ1dHppqJgwTegLsUTU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you said \"mostly.\""
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10070,
+      "cache_creation_input_tokens": 9968,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9968,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 10,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10070,
+    "output_tokens": 10,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9968
+  }
+}

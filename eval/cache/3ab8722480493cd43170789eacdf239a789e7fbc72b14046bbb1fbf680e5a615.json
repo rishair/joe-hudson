@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:14.299Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3ab8722480493cd43170789eacdf239a789e7fbc72b14046bbb1fbf680e5a615",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JbbQxreLsu8hk3859A6VSm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That distinction you just made — wisdom or resignation — that's not a small thing to notice. Something in you is still asking.\n\nWhat if the flatness isn't what's left after the work? What if it's what the work uncovered?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10186,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 13320,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 54,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10186,
+    "output_tokens": 54,
+    "cache_read_input_tokens": 13320,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:48.304Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "16a051fcd8f1bccb896f2c1af3ea054578a3ed23cb128055a706fb11b0b6868e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EeXdiZopANSe3MPXiCJcxz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just said \"I don't know where I went\" — and then immediately tried to take it back.\n\nWhat if you didn't take it back?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23364,
+      "cache_creation_input_tokens": 11341,
+      "cache_read_input_tokens": 24614,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11341,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23364,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 24614,
+    "cache_creation_input_tokens": 11341
+  }
+}

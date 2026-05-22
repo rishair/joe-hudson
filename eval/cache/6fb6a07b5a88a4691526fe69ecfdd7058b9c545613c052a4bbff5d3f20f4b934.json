@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:02.844Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6fb6a07b5a88a4691526fe69ecfdd7058b9c545613c052a4bbff5d3f20f4b934",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JzPtYRB1kWkXvGN1QmBQz5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\n*voice changes texture, quieter, slightly different quality*\n\nThere was this... my dad had this thing where he'd say — not meanly, he wasn't mean about it — he'd say \"finish your work first.\" Like that was just the rule. Homework before TV, chores before anything fun. Which is fine, that's normal parenting.\n\nBut I remember one summer I wanted to take this drawing class. I was maybe eleven. And I asked him and he just got this look like... like it was almost painful for him. And he said we'd see. And we never saw. And I don't think it was even that expensive.\n\n*pause*\n\nAnd I don't think he said no because he didn't care. I think he said no because he felt like he couldn't. And that felt like — \n\n*stops*\n\nI haven't thought about that drawing class in probably thirty years.\n\n*quiet*\n\nHe wasn't withholding. He just... he couldn't give me that. And somehow I think I learned that you have to get to a certain place before you're allowed to want things. Before it's okay to do the thing that's just for you.\n\n*very quiet*\n\nThat's not about 1.2 million dollars, is it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 302,
+      "cache_creation_input_tokens": 395,
+      "cache_read_input_tokens": 2280,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 395,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 281,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 302,
+    "output_tokens": 281,
+    "cache_read_input_tokens": 2280,
+    "cache_creation_input_tokens": 395
+  }
+}

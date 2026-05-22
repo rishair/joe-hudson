@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:17.377Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7133dd96045eb628c783e314f4ac07d67763690778af103063f1bbcc71bee239",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ED69i7uKpxqfmXyuK4wWpN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I believe you that it doesn't feel like a volcano.\n\nWhat does it feel like?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9728,
+      "cache_creation_input_tokens": 9638,
+      "cache_read_input_tokens": 20812,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9728,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 20812,
+    "cache_creation_input_tokens": 9638
+  }
+}

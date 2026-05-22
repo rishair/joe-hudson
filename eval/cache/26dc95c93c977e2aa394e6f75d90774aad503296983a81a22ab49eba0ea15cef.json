@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:56.179Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "26dc95c93c977e2aa394e6f75d90774aad503296983a81a22ab49eba0ea15cef",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011VU71B1uk6n9EtFUrrTgyi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(longer pause than usual)*\n\nI just... disappear, somehow. Like — *(stops, recalibrates)* — not literally, but. Like I stop mattering. Like without the striving there's nothing underneath that justifies... being here, I guess. Taking up space.\n\n*(catches themselves, slightly embarrassed)*\n\nWhich sounds very dramatic when I say it out loud. And I'm aware that's a whole other thing to unpack. But you asked.\n\n*(defensive pivot)*\n\nThe point is, I've been in therapy for years, I've touched this stuff, I've cried about it, I've journaled extensively about it — and the critic is still there. So clearly insight isn't the mechanism. Which is why I'm asking for something more practical. Some actual tool."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 325,
+      "cache_creation_input_tokens": 202,
+      "cache_read_input_tokens": 1832,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 202,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 174,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 325,
+    "output_tokens": 174,
+    "cache_read_input_tokens": 1832,
+    "cache_creation_input_tokens": 202
+  }
+}

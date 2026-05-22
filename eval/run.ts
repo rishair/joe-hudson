@@ -37,6 +37,7 @@ import {
   loadProfile,
 } from "./lib/loaders.ts";
 import { runConversation } from "./lib/conversation.ts";
+import { buildRetriever, shutdownRetrieverSingletons } from "./lib/retrieval-adapter.ts";
 import { scoreConversation } from "./lib/judge.ts";
 import { buildScorecard, summarizeRun } from "./lib/aggregate.ts";
 import type { Profile, ClientConfig, JudgeConfig } from "./lib/schemas.ts";
@@ -321,6 +322,16 @@ async function cmdRun(opts: CliOpts, mode: "smoke" | "full"): Promise<number> {
   const t0 = Date.now();
 
   const profileLimit = pLimit(3); // 3 conversations in flight at once
+
+  // Build the retriever once from the coach config; reuse for every profile.
+  // Returns undefined when retrieval.strategy === "none".
+  const retriever = buildRetriever(coachConfig);
+  if (retriever) {
+    console.log(
+      `Retrieval enabled: strategy=${coachConfig.retrieval.strategy}, trigger=${coachConfig.trigger_policy}`,
+    );
+  }
+
   const scorecardsPromises = chosenProfiles.map((profile) =>
     profileLimit(async () => {
       console.log(`[${profile.id}] starting conversation...`);
@@ -332,6 +343,7 @@ async function cmdRun(opts: CliOpts, mode: "smoke" | "full"): Promise<number> {
         clientConfig,
         clientTemplate,
         hardMaxTurns: opts.maxTurns,
+        retriever,
       });
       console.log(
         `[${profile.id}] conversation done in ${Math.round((Date.now() - convStart) / 1000)}s, ${conv.turns.length} turns, termination=${conv.termination}.`,
@@ -386,6 +398,10 @@ async function cmdRun(opts: CliOpts, mode: "smoke" | "full"): Promise<number> {
   );
 
   const scorecards = await Promise.all(scorecardsPromises);
+  // Tear down any retrieval singletons (e.g., the persistent Python embedding
+  // subprocess spawned by the embedding strategy). Safe no-op for strategies
+  // that don't allocate singletons.
+  await shutdownRetrieverSingletons();
   const finishedAt = new Date().toISOString();
   const wallClock = Date.now() - t0;
 

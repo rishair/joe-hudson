@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:15.231Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "60d7e0679300a5c6ca422e893fa1d45d080de2c26ea7fa5b3a870d85cd7dc953",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NKMPK9sZkvwhSYjMiRMDNF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just said you'd fall apart.\n\nThat's not nothing. What does \"fall apart\" mean to you — what are you afraid would actually happen?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11134,
+      "cache_creation_input_tokens": 8920,
+      "cache_read_input_tokens": 38228,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8920,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11134,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 38228,
+    "cache_creation_input_tokens": 8920
+  }
+}

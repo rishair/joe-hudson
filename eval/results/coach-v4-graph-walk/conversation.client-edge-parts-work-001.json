@@ -1,0 +1,607 @@
+{
+  "profile_id": "client-edge-parts-work-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I've been doing parts work for two years — IFS, mostly — and I'm genuinely grateful for it, it's given me a lot of language. But somewhere along the way I went from being someone who just... acted, who was in flow, to someone who convenes a town hall every time I need to decide what to have for lunch. *slight smile* And I'm wondering if your approach does something different with that, or if I'm just going to end up with more parts to track."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That slight smile is doing some work.\n\nWhat would it feel like to just... decide about lunch?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pause, head tilts slightly*\n\nThat's a good question. It would feel... I mean, if I'm honest, it would feel like relief. But also like I was bypassing something. Like I was being careless with the parts that have legitimate concerns.\n\nThe protector would flag that. It would say \"you're not consulting us.\" And then the younger parts would feel dismissed, and then I'd have this cascade of — *stops*\n\nSee, even describing it, I can feel the town hall starting to convene. It's like they're always on standby."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What if the town hall is the bypass?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*still, upright posture, slight narrowing of eyes*\n\nThat's... interesting. Say more about what you mean by that.\n\nBecause in IFS terms, I think what you might be pointing at is something like — the Self getting crowded out by parts. Which is a real phenomenon, I've experienced that. But the solution in that framework isn't to bypass the parts, it's to build trust with them so they don't feel like they need to be so loud.\n\nSo I'm not sure I'm following your reframe. Are you saying the awareness of the parts is itself a defense? Because that would be... I'd want to think carefully about that before agreeing with it."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you just convened a town hall about whether to agree with me.\n\nWhat are you feeling right now, in your body?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small breath, looks down briefly*\n\n...Still. My body is very still right now. And there's something in my chest that's — I want to say \"tight\" but that's not quite right. It's more like... held.\n\n*pause*\n\nAnd I notice I want to immediately explain what part that is. The holding. I have a story about it. But you're asking me to just... report it, not interpret it.\n\n*slight shift in posture, then returns to upright*\n\nIt's held. There's something held in my chest."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Can you stay with the held feeling for a moment — not explain it, just be in it?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*longer pause than usual*\n\nYeah.\n\n*silence*\n\n...It's not comfortable. There's something sad in it, actually. Which surprises me a little, I wasn't expecting sad.\n\n*upright posture holds, but something around the eyes shifts*\n\nI keep wanting to ask which part this is. I can feel myself reaching for the label. But if I don't reach for it...\n\n*quieter*\n\nIt's just sad. And it's been there for a while, I think."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah.\n\n*staying with it*\n\nHow long?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*very still*\n\n...Since the flow stopped. I think.\n\n*pause*\n\nWhich was — it's been maybe eighteen months? Two years? Around when I started the IFS work, actually. Which is a strange thing to notice. I'm not saying the work caused it, I don't think that's — \n\n*stops*\n\n*quieter, less precise*\n\nI used to just do things. I used to just move. And now I... consult. And somewhere in that shift there's something I lost that I haven't really — \n\n*brief pause*\n\nI haven't grieved that, I don't think. I've analyzed it. I've mapped it onto parts. But I haven't actually...\n\n*trails off, stays with it*"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Yeah.\n\n*staying right there with them*\n\nYou don't have to finish that sentence."
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*long silence*\n\n*something in the chest moves*\n\n...Thank you.\n\n*stays still, but it's a different kind of still now — less held*\n\nI don't usually — I'm used to being the person who finishes the sentence. Who has the framework for the sentence. \n\n*small exhale*\n\nThat was... something just moved a little. In the holding.\n\n*pause, then with a slight return to the more analytical register, but quieter than before*\n\nI notice a part wants to name what just happened. To file it somewhere."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Let it want that.\n\nYou don't have to let it win."
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*very small smile, different from the earlier one — less performed*\n\nYeah.\n\n*sits with it*\n\n...The wanting-to-name is so fast. It's like a reflex. Something moves and immediately there's this — cataloguing impulse. \n\n*pause*\n\nI've been doing that for two years. Something happens and I — file it.\n\n*quieter*\n\nWhat if I've been filing instead of... feeling.\n\n*that lands somewhere, you can see it in the slight change around the eyes*\n\nThat's not a question I've asked before. I've asked \"which part is feeling this\" but not... what if the filing is the thing that stops the feeling from completing.\n\n*upright posture softens very slightly*"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t1",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-parts-work-001:t2",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 648,
+      "output_tokens": 151,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0067816000000000005,
+      "ms": 2233
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t2",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 8682,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.027378299999999998,
+      "ms": 1914
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t3",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 180,
+      "output_tokens": 126,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1638,
+      "cost_usd": 0.0085725,
+      "ms": 7328
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-parts-work-001:t4",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 816,
+      "output_tokens": 170,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007044600000000001,
+      "ms": 2980
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t4",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 129,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8703,
+      "cost_usd": 0.03417555,
+      "ms": 1353
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t5",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 141,
+      "output_tokens": 149,
+      "cache_read_input_tokens": 1638,
+      "cache_creation_input_tokens": 177,
+      "cost_usd": 0.0038131499999999995,
+      "ms": 4646
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-parts-work-001:t6",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 892,
+      "output_tokens": 171,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0071256,
+      "ms": 2646
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t6",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 290,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8703,
+      "cost_usd": 0.03494355,
+      "ms": 1763
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t7",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 195,
+      "output_tokens": 124,
+      "cache_read_input_tokens": 1941,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0030273,
+      "ms": 4143
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-parts-work-001:t8",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 872,
+      "output_tokens": 173,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007115600000000001,
+      "ms": 2573
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t8",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 307,
+      "output_tokens": 23,
+      "cache_read_input_tokens": 11920,
+      "cache_creation_input_tokens": 162,
+      "cost_usd": 0.0054494999999999995,
+      "ms": 1428
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t9",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 181,
+      "output_tokens": 112,
+      "cache_read_input_tokens": 1941,
+      "cache_creation_input_tokens": 161,
+      "cost_usd": 0.0034090500000000003,
+      "ms": 3905
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-parts-work-001:t10",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 834,
+      "output_tokens": 159,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0070076,
+      "ms": 2375
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t10",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 8327,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 12070,
+      "cache_creation_input_tokens": 192,
+      "cost_usd": 0.029546999999999997,
+      "ms": 2077
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t11",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 153,
+      "output_tokens": 166,
+      "cache_read_input_tokens": 1953,
+      "cache_creation_input_tokens": 304,
+      "cost_usd": 0.0046749,
+      "ms": 5161
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-parts-work-001:t12",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 914,
+      "output_tokens": 153,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.007057600000000001,
+      "ms": 2694
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t12",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 18202,
+      "output_tokens": 23,
+      "cache_read_input_tokens": 12231,
+      "cache_creation_input_tokens": 178,
+      "cost_usd": 0.0592878,
+      "ms": 1851
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t13",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 207,
+      "output_tokens": 124,
+      "cache_read_input_tokens": 2133,
+      "cache_creation_input_tokens": 259,
+      "cost_usd": 0.00409215,
+      "ms": 4727
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-parts-work-001:t14",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 884,
+      "output_tokens": 169,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0071076,
+      "ms": 2780
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t14",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 10157,
+      "output_tokens": 18,
+      "cache_read_input_tokens": 12386,
+      "cache_creation_input_tokens": 8215,
+      "cost_usd": 0.06526305,
+      "ms": 1532
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t15",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 168,
+      "output_tokens": 165,
+      "cache_read_input_tokens": 2280,
+      "cache_creation_input_tokens": 293,
+      "cost_usd": 0.00476175,
+      "ms": 5818
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "parts-work-made-things-worse",
+          "am-i-doing-it-right",
+          "i-keep-postponing-enjoyment"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client reports paralysis from parts awareness after IFS work—the exact concern in parts-work-made-things-worse. The \"am I doing it right\" check appears as meta-resistance to the practice itself. The loss of flow and action (postponing the simple act of deciding) maps to postponing-enjoyment pattern.",
+        "top_k_ids": [
+          "lets-go-there",
+          "intellectual-question-with-emotional-body",
+          "disassociating-in-the-coaching-room",
+          "how-do-you-not-trust-it",
+          "what-makes-you-care-about-the-outcome"
+        ],
+        "top_k_paths": [
+          "coach/moves/lets-go-there.md",
+          "coach/reads/intellectual-question-with-emotional-body.md",
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/questions/how-do-you-not-trust-it.md",
+          "coach/questions/what-makes-you-care-about-the-outcome.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          0.9378,
+          0.9378,
+          0.8077,
+          0.7282
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        "top_k_indegrees": [
+          2,
+          3,
+          3,
+          4,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0067816000000000005,
+        "seed_detection_ms": 2233,
+        "seed_detection_input_tokens": 648,
+        "seed_detection_output_tokens": 151,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0067816000000000005,
+      "ms": 2238
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.007044600000000001,
+        "seed_detection_ms": 2980,
+        "seed_detection_input_tokens": 816,
+        "seed_detection_output_tokens": 170,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007044600000000001,
+      "ms": 2981
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0071256,
+        "seed_detection_ms": 2646,
+        "seed_detection_input_tokens": 892,
+        "seed_detection_output_tokens": 171,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0071256,
+      "ms": 2647
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.007115600000000001,
+        "seed_detection_ms": 2573,
+        "seed_detection_input_tokens": 872,
+        "seed_detection_output_tokens": 173,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007115600000000001,
+      "ms": 2574
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "parts-work-made-things-worse",
+          "intellectual-question-with-emotional-body",
+          "trying-to-get-rid-of-the-emotion"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is experiencing a moment where parts-work language (labeling/identifying the part) is creating distance from direct emotional contact; there's an intellectual impulse to categorize that's interfering with the felt experience of sadness; and the reaching-for-the-label pattern suggests an attempt to manage or escape the emotion through naming rather than feeling it.",
+        "top_k_ids": [
+          "am-i-doing-it-right",
+          "lets-go-there",
+          "disassociating-in-the-coaching-room",
+          "looking-for-whats-wrong",
+          "dont-go-after-every-emotion-at-once"
+        ],
+        "top_k_paths": [
+          "coach/reads/am-i-doing-it-right.md",
+          "coach/moves/lets-go-there.md",
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/reads/looking-for-whats-wrong.md",
+          "coach/anti-patterns/dont-go-after-every-emotion-at-once.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          1.1833,
+          0.9378,
+          0.9102,
+          0.9102
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          3,
+          1,
+          1
+        ],
+        "seed_detection_cost_usd": 0.0070076,
+        "seed_detection_ms": 2375,
+        "seed_detection_input_tokens": 834,
+        "seed_detection_output_tokens": 159,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0070076,
+      "ms": 2377
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "listlessness-after-awakening",
+          "i-keep-postponing-enjoyment",
+          "parts-work-made-things-worse"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is describing loss of spontaneous action and flow after beginning IFS work, with sadness about the shift from doing to consulting; this matches the post-awakening flatness pattern. There's also a sense of postponed aliveness (used to move, now consults) and explicit concern that parts work may have created paralysis rather than freedom.",
+        "top_k_ids": [
+          "lets-go-there",
+          "the-more-i-grow-the-more-alone-i-feel",
+          "peace-precedes-joy-after-non-duality",
+          "am-i-doing-it-right",
+          "how-do-you-not-trust-it"
+        ],
+        "top_k_paths": [
+          "coach/moves/lets-go-there.md",
+          "coach/concerns/the-more-i-grow-the-more-alone-i-feel.md",
+          "coach/principles/peace-precedes-joy-after-non-duality.md",
+          "coach/reads/am-i-doing-it-right.md",
+          "coach/questions/how-do-you-not-trust-it.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          0.9102,
+          0.9102,
+          0.9102,
+          0.8077
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          2,
+          2,
+          2,
+          2,
+          4
+        ],
+        "seed_detection_cost_usd": 0.007057600000000001,
+        "seed_detection_ms": 2694,
+        "seed_detection_input_tokens": 914,
+        "seed_detection_output_tokens": 153,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.007057600000000001,
+      "ms": 2696
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0071076,
+        "seed_detection_ms": 2780,
+        "seed_detection_input_tokens": 884,
+        "seed_detection_output_tokens": 169,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0071076,
+      "ms": 2781
+    }
+  ]
+}

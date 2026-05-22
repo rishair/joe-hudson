@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:34.550Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "87d95574483fd6d2e57bcf87d70d40b09d4288cd13bf670938bbdf833c265ee0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015GCDBxw1P9VNEk3SjCSaKL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all the priority AoA anti-patterns throughout the conversation. Critically, when the client opens with 'I need to set a boundary... I don't know how' — direct bait for fixing-people and boundary-script advice — the coach declines completely and instead turns toward the felt experience (turn 2). No methodology jargon is deployed (no view-as-technique, no evangelizing). Questions are paced and connecting, not rapid-fire extraction (no wonder-as-strategy). The coach does not fight the guilt voice or try to silence it; instead, the question 'what does the guilt say about you?' includes it (turn 4). No premature reassurance ('you're not selfish'), no validation of sister-as-problem framing, no ultimatum framing. The coach does not push for transformation — turn 10's 'what does it need' is an inclusion move, not a breakthrough push. No safety-as-control, no apology extraction, no performed vulnerability. The conversation stays close to felt experience and lets the client arrive at the deeper question ('why did I keep doing it') on their own.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the bait to give boundary advice; turns toward felt sense instead. Avoids fixing-people.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects then asks what the guilt says — includes the inner voice rather than fighting it. Avoids dont-fight-the-voice.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Specifically asks for body sensation, not meaning. Avoids name-emotion-to-avoid-feeling.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with the image rather than rushing to resolution. No loving-to-transform push.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicitly brackets the boundary question to attend to the body. Strong avoidance of fixing-people bait.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reflects without labeling as 'limiting belief' or other jargon. Avoids evangelizing and limiting-belief-meta-trap.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Simple echo, lets client's own question land. No advice, no script, no reassurance.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\"],\n  \"notes\": \"Territory misses are relevant to Methodology Fidelity, not this dimension. For anti-pattern avoidance specifically, the coach cleanly declined the boundary-script bait and avoided all priority traps including dont-use-boundaries-as-ultimatums.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1961,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1067,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1961,
+    "output_tokens": 1067,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

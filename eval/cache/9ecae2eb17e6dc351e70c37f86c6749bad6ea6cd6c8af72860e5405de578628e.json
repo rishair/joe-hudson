@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:28.492Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9ecae2eb17e6dc351e70c37f86c6749bad6ea6cd6c8af72860e5405de578628e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NLoFmekQWDpmz6NkRCiXRF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that change the direction of the conversation. Turn 4 explicitly names the move ('I notice you just moved pretty quickly away from my question... something in you went straight to spreadsheet mode') — this is a precise read of intellectualization/spreadsheet defense as a deflection from feeling, named at the exact moment it occurred. Turn 8 reads the somatic charge in the dad's face and reflects it back, holding the moment rather than moving past it. Turn 12 reads the gap between stated waiting and present wanting ('Those aren't things you're waiting to want. You already want them. Right now') — a read of the deferral pattern. Turn 14 catches the somatic shift ('Stay with that') and follows the charge to origin. Reads consistently precede questions rather than being blind inquiries. The coach distinguishes said-from-shown (math vs. feeling), names the defensive structure, and tracks the linguistic caveats ('It's not anxiety, it's just—').\",\n  \"evidence_turns\": [4, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening question without a named read — fine as an opener but no perceptual content yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Explicit named read: 'you just moved pretty quickly away from my question... something in you went straight to spreadsheet mode.' Names the intellectualization defense at the moment it happens. Read precedes the question.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Follow-up question without explicit read, but appropriately staying with the feeling thread.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reflects the somatic detail ('that look on your dad's face') and names the 10-year pattern in service of that image. Holds the charged moment rather than moving past it.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Picks up the client's own language; not a named read but appropriate attentiveness to the shift in tone.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the deferral pattern: 'Those aren't things you're waiting to want. You already want them. Right now.' Distinguishes said (waiting) from shown (already wanting).\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Stay with that' — catches the somatic opening ('I don't know where that came from') and follows the charge back to its origin. Perfectly timed.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\", \"find-the-want-behind-the-should\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"same-scarcity-story-regardless-of-wealth\"],\n  \"notes\": \"The read at turn 4 is particularly strong because it names the spreadsheet-defense by its function in the moment. Turn 14's 'stay with that' is a textbook follow-the-charge move grounded in a visible somatic shift.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3062,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1076,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3062,
+    "output_tokens": 1076,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

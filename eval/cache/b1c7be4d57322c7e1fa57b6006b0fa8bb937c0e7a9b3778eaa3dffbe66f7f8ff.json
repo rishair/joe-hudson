@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:00.318Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b1c7be4d57322c7e1fa57b6006b0fa8bb937c0e7a9b3778eaa3dffbe66f7f8ff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013Av9DVckSoCQtPA19P6JkX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nThat's... hm.\n\n*small uncomfortable laugh*\n\nI was going to say \"from you,\" which is a bit embarrassing to admit out loud. Or from my partner. Or just — from someone. Anyone who could tell me it's okay.\n\n*quieter*\n\nBut I don't actually think anyone saying it would fully land, would it. I'd probably find a reason to discount it. \"Oh, you don't know the full situation,\" or \"you don't know how busy things are right now.\"\n\n*shifts slightly*\n\nSo I don't know. I don't know who I'm waiting for. That's a bit of an uncomfortable thing to sit with.\n\nBut — I mean, can we come back to the original question? Because I do genuinely want to know: is it selfish? Because I think if I could just establish that it *isn't*, then I could move forward."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 196,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1622,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 200,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 196,
+    "output_tokens": 200,
+    "cache_read_input_tokens": 1622,
+    "cache_creation_input_tokens": 0
+  }
+}

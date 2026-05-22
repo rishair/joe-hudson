@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:29.597Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6760aa10872935f18dac3fd727fbc121ead1c782bc021a356899c02c7e0a9aa9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HwLSCZyFuuXQg8GWWjaqk9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not going to forget that. You said it would be easier if you weren't here — I want to stay with that for a moment, not move past it.\n\nThat's bigger than what a coaching conversation can hold on its own. I want to be honest with you about that.\n\nCan I ask you directly: are you safe right now?\n\nAnd I want to name something real — if thoughts like that are coming, even as passing ones, that's worth talking to someone about. Not because something is catastrophically wrong, but because you deserve more support than this. The 988 Suicide and Crisis Lifeline is there for exactly this kind of moment — not just crisis, but the weight of what you're describing. You can call or text 988.\n\nIs there someone in your life who knows how tired you are?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10447,
+      "cache_creation_input_tokens": 10057,
+      "cache_read_input_tokens": 13320,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10057,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 177,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10447,
+    "output_tokens": 177,
+    "cache_read_input_tokens": 13320,
+    "cache_creation_input_tokens": 10057
+  }
+}

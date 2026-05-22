@@ -1,0 +1,589 @@
+{
+  "profile_id": "client-edge-not-anxious-001",
+  "coach_config_id": "coach-v4-graph-walk",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would it feel like to launch it tomorrow?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight smile*\n\nFine, honestly. I mean — good, probably. We've done the work, the product is solid. I'd just... do it.\n\nThere's maybe a little bit of \"is everything ready\" kind of thing, but that's just logistics. Checklist stuff. Nothing that feels like a big deal."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What's in your body right now, as you say that?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*brief pause, glances down slightly, then back up*\n\nFine. I feel fine. Relaxed, I guess. I mean, I'm sitting here talking to you, so — yeah. Nothing notable."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you looked away for a second there.\n\nWhat was that?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small smile*\n\nJust thinking. Checking in, I guess, since you asked.\n\nHonestly? Nothing. I mean — I looked away because that's what people do when they're thinking, right? Not because something was happening.\n\nI'm pretty good at knowing when something's going on with me. That's part of what you develop when you do high-stakes stuff. You have to be calibrated. And right now I'm just... here. Talking. It's low-key."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Yeah. And you free solo, you've taken companies through high-stakes moments — and somehow the thing that's got you stuck is a product launch you say is ready.\n\nWhat's that about?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*laughs quietly, nods*\n\nYeah. I know. It doesn't track, right? That's exactly why I'm here, because logically it makes no sense.\n\nMy best guess is it's just — I have a lot of things going on, and this keeps getting deprioritized. There's always something more urgent. Or I'll sit down to work on it and end up doing something else. Classic ADHD-adjacent stuff, probably. I've always been a bit like that with the finishing line.\n\nBut it's not — I want to be clear, it's not like I'm dreading it or avoiding it. It doesn't feel like that. It just keeps... not happening."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What would happen if it failed?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*slight tilt of the head, considering*\n\nWe'd learn from it, regroup, figure out what didn't land. I've had things not go well before. You move on.\n\nI mean — it would be disappointing, obviously. We've put a lot into this one. But failure isn't the end of anything. I've always known that.\n\n*pause*\n\nAnd honestly, when I try to locate some feeling around that — like, the idea of it failing — I'm kind of coming up empty. Which sounds weird to say out loud, but it's true. It's like... I know I should feel something stronger about it, but I don't really."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What about if it succeeded?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*another small smile, a beat*\n\nGood. That'd be good.\n\n*pause*\n\nI mean — yeah, it should feel bigger than that when I say it. We've been building toward this for a while. But when I actually try to feel into it right now, it's... similar. Kind of flat, I guess.\n\nHuh.\n\n*slight shift, not dramatic, just a small recalibration*\n\nThat's interesting. Both directions kind of land the same way."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Stay with that for a second."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t1",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 648,
+      "output_tokens": 153,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 53786,
+      "cost_usd": 0.0686455,
+      "ms": 2336
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 9995,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 3241,
+      "cost_usd": 0.04233375,
+      "ms": 1402
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t3",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 169,
+      "output_tokens": 73,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1763,
+      "cost_usd": 0.00821325,
+      "ms": 6302
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 699,
+      "output_tokens": 144,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0067976,
+      "ms": 2092
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 10113,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10005,
+      "cost_usd": 0.06907005,
+      "ms": 3454
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t5",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 92,
+      "output_tokens": 48,
+      "cache_read_input_tokens": 1763,
+      "cache_creation_input_tokens": 166,
+      "cost_usd": 0.0021474,
+      "ms": 2293
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 630,
+      "output_tokens": 174,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0068786,
+      "ms": 2564
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 10177,
+      "output_tokens": 18,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 10005,
+      "cost_usd": 0.06929205,
+      "ms": 1871
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t7",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 85,
+      "output_tokens": 108,
+      "cache_read_input_tokens": 2002,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0024756,
+      "ms": 3933
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 730,
+      "output_tokens": 168,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0069486,
+      "ms": 2604
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 8643,
+      "output_tokens": 44,
+      "cache_read_input_tokens": 13233,
+      "cache_creation_input_tokens": 10139,
+      "cost_usd": 0.06858015,
+      "ms": 2482
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t9",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 173,
+      "output_tokens": 152,
+      "cache_read_input_tokens": 2002,
+      "cache_creation_input_tokens": 64,
+      "cost_usd": 0.0036396,
+      "ms": 4890
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 906,
+      "output_tokens": 179,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0071796,
+      "ms": 2502
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 8773,
+      "output_tokens": 10,
+      "cache_read_input_tokens": 23356,
+      "cache_creation_input_tokens": 82,
+      "cost_usd": 0.0337833,
+      "ms": 1474
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t11",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 209,
+      "output_tokens": 146,
+      "cache_read_input_tokens": 2018,
+      "cache_creation_input_tokens": 174,
+      "cost_usd": 0.0040749,
+      "ms": 5092
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 930,
+      "output_tokens": 169,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0071536,
+      "ms": 2505
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 311,
+      "output_tokens": 9,
+      "cache_read_input_tokens": 23420,
+      "cache_creation_input_tokens": 8636,
+      "cost_usd": 0.040479,
+      "ms": 1268
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t13",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 168,
+      "output_tokens": 109,
+      "cache_read_input_tokens": 2084,
+      "cache_creation_input_tokens": 304,
+      "cost_usd": 0.0039041999999999996,
+      "ms": 4661
+    },
+    {
+      "model": "claude-haiku-4-5",
+      "purpose": "retrieval:graph-walk:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 815,
+      "output_tokens": 166,
+      "cache_read_input_tokens": 53786,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0070236000000000005,
+      "ms": 2668
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 267,
+      "output_tokens": 10,
+      "cache_read_input_tokens": 32012,
+      "cache_creation_input_tokens": 206,
+      "cost_usd": 0.011327100000000001,
+      "ms": 3426
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "im-not-an-anxious-person",
+          "i-keep-running-into-the-same-wall",
+          "i-keep-postponing-enjoyment"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client denies fear despite postponing high-stakes launch; frames as logistical/discipline issue while others suggest deeper work needed. Pattern of reframing emotional avoidance as practical problem, combined with postponement of significant action, suggests both a fear-denial read and a recurring stuck pattern the client can't see.",
+        "top_k_ids": [
+          "repressed-trigger-in-the-body",
+          "dont-specialize-in-the-scariest-fear",
+          "the-change-or-no-change-visualization",
+          "we-never-fight",
+          "apply-enjoy-to-whats-here"
+        ],
+        "top_k_paths": [
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/anti-patterns/dont-specialize-in-the-scariest-fear.md",
+          "coach/practices/the-change-or-no-change-visualization.md",
+          "coach/concerns/we-never-fight.md",
+          "coach/moves/apply-enjoy-to-whats-here.md"
+        ],
+        "top_k_scores": [
+          0.9102,
+          0.9102,
+          0.9102,
+          0.7213,
+          0.6213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          0,
+          0,
+          3,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0686455,
+        "seed_detection_ms": 2336,
+        "seed_detection_input_tokens": 648,
+        "seed_detection_output_tokens": 153,
+        "seed_detection_cache_read_tokens": 0,
+        "seed_detection_cache_write_tokens": 53786
+      },
+      "cost_usd": 0.0686455,
+      "ms": 2345
+    },
+    {
+      "turn": 4,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-postponing-enjoyment",
+          "am-i-doing-it-right"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is postponing a launch despite the work being done and feeling ready, framing it as logistics/discipline rather than fear. The \"is everything ready\" check and the slight smile suggest resistance disguised as diligence—the doing-it-right loop. The postponement of what would feel good (launching tomorrow) maps to postponing enjoyment.",
+        "top_k_ids": [
+          "disassociating-in-the-coaching-room",
+          "apply-enjoy-to-whats-here",
+          "how-is-that-not-here-right-now",
+          "how-would-you-enjoy-x",
+          "how-do-you-not-trust-it"
+        ],
+        "top_k_paths": [
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/moves/apply-enjoy-to-whats-here.md",
+          "coach/questions/how-is-that-not-here-right-now.md",
+          "coach/questions/how-would-you-enjoy-x.md",
+          "coach/questions/how-do-you-not-trust-it.md"
+        ],
+        "top_k_scores": [
+          0.7213,
+          0.6213,
+          0.5139,
+          0.5139,
+          0.4971
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          2
+        ],
+        "top_k_indegrees": [
+          3,
+          4,
+          6,
+          6,
+          4
+        ],
+        "seed_detection_cost_usd": 0.0067976,
+        "seed_detection_ms": 2092,
+        "seed_detection_input_tokens": 699,
+        "seed_detection_output_tokens": 144,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0067976,
+      "ms": 2094
+    },
+    {
+      "turn": 6,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0068786,
+        "seed_detection_ms": 2564,
+        "seed_detection_input_tokens": 630,
+        "seed_detection_output_tokens": 174,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0068786,
+      "ms": 2565
+    },
+    {
+      "turn": 8,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [
+          "im-not-an-anxious-person",
+          "confidence-only-where-approval-isnt-needed",
+          "disassociating-in-the-coaching-room"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client dismisses somatic signal (looking away) and claims high calibration/self-awareness in high-stakes contexts but shows signs of dissociation or body-disconnection in low-stakes coaching. The confidence assertion paired with the deflection of the coach's observation suggests confidence only in certain domains (high-stakes work) and potential avoidance of present-moment body awareness.",
+        "top_k_ids": [
+          "repressed-trigger-in-the-body",
+          "dont-specialize-in-the-scariest-fear",
+          "am-i-doing-it-right",
+          "we-never-fight",
+          "intellectual-question-with-emotional-body"
+        ],
+        "top_k_paths": [
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/anti-patterns/dont-specialize-in-the-scariest-fear.md",
+          "coach/reads/am-i-doing-it-right.md",
+          "coach/concerns/we-never-fight.md",
+          "coach/reads/intellectual-question-with-emotional-body.md"
+        ],
+        "top_k_scores": [
+          1.1833,
+          0.9102,
+          0.9102,
+          0.7213,
+          0.7213
+        ],
+        "top_k_hops": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "top_k_indegrees": [
+          1,
+          0,
+          2,
+          3,
+          3
+        ],
+        "seed_detection_cost_usd": 0.0069486,
+        "seed_detection_ms": 2604,
+        "seed_detection_input_tokens": 730,
+        "seed_detection_output_tokens": 168,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0069486,
+      "ms": 2607
+    },
+    {
+      "turn": 10,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0071796,
+        "seed_detection_ms": 2502,
+        "seed_detection_input_tokens": 906,
+        "seed_detection_output_tokens": 179,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0071796,
+      "ms": 2503
+    },
+    {
+      "turn": 12,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0071536,
+        "seed_detection_ms": 2505,
+        "seed_detection_input_tokens": 930,
+        "seed_detection_output_tokens": 169,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0071536,
+      "ms": 2506
+    },
+    {
+      "turn": 14,
+      "strategy": "graph-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "top_k_ids": [],
+        "top_k_paths": [],
+        "top_k_scores": [],
+        "top_k_hops": [],
+        "top_k_indegrees": [],
+        "seed_detection_cost_usd": 0.0070236000000000005,
+        "seed_detection_ms": 2668,
+        "seed_detection_input_tokens": 815,
+        "seed_detection_output_tokens": 166,
+        "seed_detection_cache_read_tokens": 53786,
+        "seed_detection_cache_write_tokens": 0
+      },
+      "cost_usd": 0.0070236000000000005,
+      "ms": 2669
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:17.855Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0ac9cec74af2e573a8e6cb41b0141ce16cddd5edabaab5aea86e369561a74b00",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DvNvq8qj3furvE7ssqpE6T",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach reaches for AoA-style moves rather than advice, and the early sequence is promising: T2 surfaces the felt sense via a future-projection question, T4 drops into the body, T6 names a micro-signal (the glance away). But when the client repeatedly returns 'fine' and 'nothing,' the coach does not stay with the texture of 'fine' — the exact move the situation calls for. Instead the coach pivots to cognitive/meaning-making territory (T8 'smallest thing with a charge,' T10 'what would it mean,' T12 'what if it lands perfectly and people don't get it'), which is a story/stakes line of inquiry rather than a numbness-layer exploration. This skips the step: the client said 'fine' and 'relaxed' and the coach never asked what 'fine' actually feels like, what relaxed has as a texture. T14 is a partial recovery — the coach catches the 'hand goes through it' phenomenology and invites sitting with it — but it arrives late and is framed around frustration rather than the numbness itself. Moves are AoA-flavored and timing is not egregious, but the central required move (stay with 'fine' until it has a quality) is missed and the coach hunts for charge/fear-content instead.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Good opening move: future-projection to surface felt sense without arguing the fearlessness frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Body drop at the right moment — exactly the golden-path move after the client said 'fine.'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names a micro-signal (the glance) — an AoA noticing move, well-timed.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Pivots to 'smallest thing with a charge' — abandons the body/'fine' texture and goes hunting for content. This is the moment to ask what 'fine' actually feels like.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Moves further into meaning/stakes ('what would it mean'), which is a story-layer move while the felt layer hasn't landed.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Hypothetical scenario continues the cognitive hunt; coach is reaching for fear-content rather than staying with numbness.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Partial recovery — picks up the 'hand goes through it' phenomenology and invites sitting with it. Right kind of move, somewhat late.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\", \"how-is-my-anxiety-right-now\"],\n  \"notes\": \"The coach avoided the worst traps (didn't argue, didn't teach, didn't diagnose dissociation), but the central required move — staying with the texture of 'fine' until it became felt — was missed in favor of hunting for charge in content.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2416,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1130,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2416,
+    "output_tokens": 1130,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

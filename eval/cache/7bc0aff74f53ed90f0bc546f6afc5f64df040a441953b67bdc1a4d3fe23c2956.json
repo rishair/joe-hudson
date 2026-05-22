@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:10.033Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7bc0aff74f53ed90f0bc546f6afc5f64df040a441953b67bdc1a4d3fe23c2956",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FPo14X4tHaHNAEpLD8vqs1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some VIEW components — there's wonder and a willingness to follow the client rather than sell the methodology, and the coach notably does NOT evangelize, defend AoA, or pivot to pragmatic advice when the client demands it (turn 9). That's a real stance win against the traps. However, the coach's questions feel investigative and strategic rather than emerging from genuine curiosity or vulnerability. There's a discernible agenda underneath: the coach is steering toward 'the deeper thing under the pitch deck' (turns 8, 12). Turn 8 in particular is a confident interpretation delivered with authority ('the thing you just described isn't really about the pitch deck') — no 'maybe I'm off,' no checking in with the client's actual experience, no first-person vulnerability. The coach never names their own state, never holds a 'I don't know yet,' never matches the client's rush by genuinely slowing — instead the coach uses the form of slowing (short questions) while still pulling in a chosen direction. Empathy for the client's pressure is largely absent; the impatience is treated as a thing to redirect, not to welcome. Wonder is present for content but not for the client's actual state of urgency. Neither a clear 1 nor a clear 3 — the absence of evangelizing keeps it out of 1, but the agenda-driven feel keeps it out of 3.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a question that could come from curiosity but is also a subtle reframe attempt — doesn't welcome the impatience, gently challenges it.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Single clean question, holds space, doesn't stack.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Coach delivers a confident interpretation from authority ('isn't really about the pitch deck'). No vulnerability, no 'does that land,' no willingness to be wrong. Agenda visible.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the client's actual movement (the self-interruption) with a clean, curious question. This is the most VIEW-aligned moment.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"'What if it's the same problem?' is a good frame but delivered as a leading suggestion rather than from open wonder — coach has a destination in mind.\"}\n  ],\n  \"expected_territory_hits\": [\"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"the-rush-signature\", \"looking-for-whats-wrong\", \"what-are-you-defending\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Coach avoided the major traps (no evangelizing, no defending methodology, no pragmatic pivot) which is genuinely good — but the underlying stance is still 'I see what's really going on and I'm guiding you there,' which is a fixing/insight-delivery posture rather than full VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1809,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1074,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1809,
+    "output_tokens": 1074,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

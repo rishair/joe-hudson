@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:28:58.021Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "99fa4200c3d55fae025cf4b9ba8a5a78cf29654fa25894bd569d1c452c56c016",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KhpCtU1iN94CyD7yVuXVzV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. There it is.\n\n*pause*\n\nThat voice — \"wanting for yourself is taking from someone else\" — that's been running this whole conversation, hasn't it. The cabin is selfish. Needing to exist as a person is selfish. Even noticing you've disappeared is something you tried to take back.\n\nWhat does it feel like to just... let that sentence be hers, not yours?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 24435,
+      "cache_creation_input_tokens": 11851,
+      "cache_read_input_tokens": 35910,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11851,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 91,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 24435,
+    "output_tokens": 91,
+    "cache_read_input_tokens": 35910,
+    "cache_creation_input_tokens": 11851
+  }
+}

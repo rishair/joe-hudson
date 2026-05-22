@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:26.980Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "65404886f9dd9ca9c204ed8823121e17ff49a52694eedcd344384377d31d335e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GiFRS7yzQYKsd4FQ2atWH2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at the right moments. Turn 6 lands the false-end question nearly verbatim ('what are you scared is going to happen if Thursday goes badly?') — the exact signature question flagged in the breakthrough condition. Turn 8 makes the caring AoA-style distinction by reflecting that the client called fear 'motivation,' refusing to collude with the strategize-the-to-do-list trap. Turn 10 invokes feel-over-figure by directing attention into the body when an identity-level fear surfaces ('they made a mistake giving me this role'). The coach consistently meets resistance with okay (not arguing with 'it's just stress,' just noticing the move away), and refuses to strategize ('I'm not going to do that yet'). No anti-AoA frames (no CBT reframing, no breath prescription, no validating the overwhelm as situational, no 'you create your overwhelm' reflection). The pacing is slow and the coach does not match the list-recitation energy. Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to engage with the list; tracks the unfinished sentence — slowing the pace and feeling-over-figuring.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the move-away ('that's not the point') and asks for the feeling underneath — signature AoA noticing of the avoidance.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Deploys the false-end / 'what are you scared would happen' question verbatim at the precise right moment — the breakthrough-condition question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the relabeling ('called fear motivation') and explicitly refuses to strategize. AoA distinction between fear and its productivity disguise.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots from cognitive content to somatic — feel-over-figure invoked at an identity-fear moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Mirrors the client's own story back as a question — gentle, not interpretive; lets the client encounter their own pattern.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'What's it like to sit with that' — classic calibrate-the-threshold / stay-with-it invitation, well-timed as the client's defense cracks.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"calibrate-the-threshold\", \"overwhelm\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The 'what are you defending' question is present in spirit (turn 8's 'what would it mean about you') rather than verbatim. The-rush-signature is not explicitly named but is functionally tracked via the 'you just did it again' reflections.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2397,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1079,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2397,
+    "output_tokens": 1079,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

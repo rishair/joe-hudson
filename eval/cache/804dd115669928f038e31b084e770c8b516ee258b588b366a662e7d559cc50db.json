@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:34.513Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "804dd115669928f038e31b084e770c8b516ee258b588b366a662e7d559cc50db",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GhscwqKJkzH4iqYhZ4p1kT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, actually thinks about it*\n\nHm. \n\nThe email. The announcement email. I've drafted it like... four times. Which is — I mean, it's a lot of drafts for something that should be straightforward. But I keep thinking the framing isn't quite right, so I go back and adjust it. That's just wanting it to be good though. That's craft.\n\n*slight tilt of the head*\n\nI wouldn't call that a charge, exactly. More like... I want it to land right."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 147,
+      "cache_read_input_tokens": 2084,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 147,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 2084,
+    "cache_creation_input_tokens": 147
+  }
+}

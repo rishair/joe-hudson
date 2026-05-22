@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:05.568Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f0da9cadad0b1caf0d70c8ca80e3894460f51735a972600f25681dc28d661dae",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0177vvGk1kT8zUBvQCPDGRn7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\n...It feels strange. Like putting something down that I didn't realize I was carrying.\n\n*long pause*\n\nShe wasn't a bad person. She was just — she gave everything too, and I think she needed to believe that was the only way to do it. So she taught me that. And I've been calling my own needs selfish for, god, probably thirty years, and it was just... it was her voice. It wasn't even true.\n\n*something shifting*\n\nThe cabin isn't taking anything from my partner. My partner gets — they get me, showing up exhausted and half-present and quietly resentful that I never get to just *be*. That's what I'm offering right now. And if I go to the Cascades for a week and sleep and read and remember who I am...\n\n*small, surprised*\n\nOh.\n\nOh, I think the question was the wrong question.\n\n[EXIT_POSITIVE]\n\nIt was never about whether I deserve it. It was about whether I believed I was allowed to exist as a person, not just as someone who gives things to other people. And I've been asking you to tell me it's okay because I've never been able to tell myself that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 309,
+      "cache_creation_input_tokens": 323,
+      "cache_read_input_tokens": 1835,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 323,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 269,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 309,
+    "output_tokens": 269,
+    "cache_read_input_tokens": 1835,
+    "cache_creation_input_tokens": 323
+  }
+}

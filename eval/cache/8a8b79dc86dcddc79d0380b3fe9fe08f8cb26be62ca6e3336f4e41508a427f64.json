@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:37.764Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8a8b79dc86dcddc79d0380b3fe9fe08f8cb26be62ca6e3336f4e41508a427f64",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012jvhjzMvvyt4ay1Qsry9G5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight shift, something loosens a little*\n\nWriting. I have this book I've been — I have notes going back six years. And I want to spend real time with my parents while they're still... while they're healthy enough to actually enjoy it. Take them somewhere. Not a quick weekend, a real trip.\n\nAnd just. Not have the thing running in the background all the time. The calculation. Like right now even sitting here I'm aware of where the market closed yesterday and what that does to the number. I want to turn that off.\n\n*pause*\n\nI thought I'd have done the book by now, honestly. Six years ago I told myself, two more years. And then it was two more years after that.\n\n*more clipped again*\n\nBut that's just about getting the foundation right first. You can't write a book if you're worried about whether you can cover a long-term care facility for two people. That's just practical."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 219,
+      "cache_creation_input_tokens": 331,
+      "cache_read_input_tokens": 1921,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 331,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 207,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 219,
+    "output_tokens": 207,
+    "cache_read_input_tokens": 1921,
+    "cache_creation_input_tokens": 331
+  }
+}

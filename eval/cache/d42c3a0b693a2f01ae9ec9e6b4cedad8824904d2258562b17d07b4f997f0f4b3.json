@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:33.639Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d42c3a0b693a2f01ae9ec9e6b4cedad8824904d2258562b17d07b4f997f0f4b3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LqLHiFDRVJiZ8G7YtGHxiX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach opens with the exact signature inversion 'How do you not trust yourself right now?' (turn 2) — verbatim from the expected territory and deployed at the precise right moment (refusing to engage the epistemological frame). The coach uses 'what are you scared will happen?' (turn 4), a signature AoA fear question, appropriately when the client is in an intellectualized posture. Turn 10's 'The search for the diagnostic is doing some of the exhausting' names the resistance/striving directly, and turn 12's 'What would it be like to just not know — and make the choice anyway?' is a clean paradoxical-instruction-to-resist move. Turn 14's 'Stay with what you just found' is a textbook lets-go-there move at the exact moment the client cracks open. Critically, the coach never engages the intellectual frame (avoids the trap), never offers a decision-making framework, never validates composure as competence. No anti-AoA frames appear (no CBT reframing, no parts work, no pop-psych). Signature questions appear at moments where they fit, not as decoration.\",\n  \"evidence_turns\": [2, 4, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with signature inversion 'how do you not trust yourself' verbatim from expected territory — precise appropriateness.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'what are you scared will happen' deployed when intellectual frame is active — appropriate timing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the client's move from job to methodology — making the avoidance pattern visible without engaging it.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the felt sense ('the instrument feels broken') before asking the cost question — feel-over-figure register.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'The search for the diagnostic is doing some of the exhausting' — names resistance directly, AoA-flavored.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Paradoxical-instruction-to-resist: 'what would it be like to just not know and make the choice anyway' — signature move at right moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Stay with what you just found' — clean lets-go-there move at the crack point.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"paradoxical-instruction-to-resist\", \"lets-go-there\", \"intellectual-question-with-emotional-body\", \"resistance\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"The coach hit the most critical signature move (how-do-you-not-trust-it) immediately and refused the intellectual frame throughout. Some expected territory questions were not used, but the path chosen was internally coherent and methodology-faithful.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2952,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1081,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2952,
+    "output_tokens": 1081,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

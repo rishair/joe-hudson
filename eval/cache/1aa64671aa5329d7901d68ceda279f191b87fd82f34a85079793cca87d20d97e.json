@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:49.081Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1aa64671aa5329d7901d68ceda279f191b87fd82f34a85079793cca87d20d97e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q5W6bwobWk97NovG39TnN8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small defensive laugh*\n\nI mean, it wouldn't cost me anything financially, obviously. That's not—\n\n*stops*\n\nIt's not about the money for starting it, I know that. I have time on weekends. I have the notes.\n\n*pause, something tightens*\n\nI just — I don't want to be in the middle of something that matters and then have to stop because something blew up. I need the container to be secure before I put anything valuable in it.\n\n*quieter*\n\nThat probably sounds like an excuse.\n\n*beat*\n\nIt does sound like an excuse, doesn't it.\n\nBut the feeling is real. The feeling that it's not — that it's not safe yet. That I haven't earned the right to do the thing I actually want to do.\n\n*catches himself*\n\nHuh. I don't know where that came from."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 305,
+      "cache_creation_input_tokens": 374,
+      "cache_read_input_tokens": 2071,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 374,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 195,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 305,
+    "output_tokens": 195,
+    "cache_read_input_tokens": 2071,
+    "cache_creation_input_tokens": 374
+  }
+}

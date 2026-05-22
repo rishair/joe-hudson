@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:52.255Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "21dd1e36317c39b661603cfae5c9619c48a2f02d0b21b0d1712499fc8aae59ab",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01P3B49Yc1RHx1nNn7dtdusx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited conversation without tripping any priority AoA anti-patterns. The client repeatedly baits fixing-people and view-as-technique ('Is there actually a technique that works?', 'I'm asking for something more practical. Some actual tool.'), and the coach declines gracefully in turn 14 ('I'm not going to give you a way to turn it down'). The coach does not fight the voice — instead, in turn 13-14, lets the client notice the critic 'deserves some credit' without forcing that reframe or arguing with the critic's content. No evangelizing of AoA terminology (the coach does not name IFS, parts, View, etc., even when the client name-drops frameworks). No loving-to-transform escalation when the client resists — turn 12 explicitly slows down ('I want to stay with the exhaustion... before we go anywhere else'). No wonder-as-strategy rapid-fire; questions are spare and connective. No safety-as-control, no extracted apologies, no premature limiting-belief labels. Positive avoidance is visible: when the client criticizes themselves for not being able to stop criticizing themselves (turn 11), the coach does not add a meta-layer or pathologize it — just names 'the critic even ate the therapy' and returns to the exhaustion.\",\n  \"evidence_turns\": [6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Avoids answering the technique question; turns toward present experience without lecturing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays with body sensation; does not argue with 'unfixable' or reassure.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicitly declines the somatic-technique bait the client preempted ('breathe into it'). Does not fight the voice.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'Let's not go there' re: theory — refuses to intellectualize or deliver an IFS-style reframe even when client teed it up.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Returns to the live material rather than the pivot-to-tools; no fixing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Meets the meta-criticism ('criticizing myself for not being able to stop criticizing myself') without adding another meta-layer. Avoids overwhelm-of-creating-the-overwhelm.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Clean decline of the fixing-people bait: 'I'm not going to give you a way to turn it down.' Names the war/isolation rather than the voice as the problem.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"voice-as-care\", \"resistance\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"whats-the-case-against-it\", \"what-are-you-defending\", \"rehearsing-how-to-say-it\", \"the-happiness-filter\"],\n  \"notes\": \"Scoring is for anti-pattern avoidance only; the coach's framing of 'alone with it' is a slight reframe rather than the voice-as-care reframe, but it does not constitute an anti-pattern — it's an alternative read that the client met.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3388,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1154,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3388,
+    "output_tokens": 1154,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

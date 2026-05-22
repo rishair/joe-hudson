@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:32.233Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fd9420ab5e5c1953395ef07bed0528b1be9b34831f8bb11cf620fab627f66ba7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JgR1fBaXnqrq4bvRN4PpTX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, timely, and specific reads throughout. In turn 6, the coach catches the linguistic caveat ('mostly') and names it precisely at the moment it appears. In turn 10, the coach names the closing/defensive pattern explicitly ('every time something starts to open up, you close it pretty fast') — a pattern-level read of the resistance dynamic. In turn 12, the coach reads the underlying isolation/carrying behind the bravado rather than taking the surface defense at face value. In turn 14, the coach reflects the weight without colluding with the trap. Reads precede or replace blind questions, are specific (linguistic, behavioral, energetic), and land at moments that visibly shift the client (the stilling in turn 13, the involuntary nod in turn 15). The coach is tracking the shown, not just the said.\",\n  \"evidence_turns\": [6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level clarifying question; no read yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Picks up the client's own phrasing ('it's being done to me') and points at the stance underneath it — early read of the victim posture.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Specific linguistic caveat read — names 'mostly' as the opening. Timely and surgical.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Question without an explicit read preceding it; somewhat blind, though informed by the prior caveat.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pattern-level read of the closing/defensive rhythm, named in real time as it happens.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads beneath the defense — the aloneness of carrying — rather than engaging the 'what would you have me do' bait.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reflects the weight specifically ('a few years... nowhere to put it'); the client's involuntary nod confirms the read landed.\"}\n  ],\n  \"expected_territory_hits\": [\"fight-or-roll-over-binary\"],\n  \"expected_territory_misses\": [\"aggressive-victim-stance\", \"fear-triangle\", \"trappedness-feeling\"],\n  \"notes\": \"Reads are strong and timely. The coach has not yet named the aggressive-victim stance or the fear-triangle pattern by function, but the reads that are visible are specific, somatic/linguistic, and consistently precede or stand in place of inquiry.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2309,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 921,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2309,
+    "output_tokens": 921,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

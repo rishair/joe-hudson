@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:14.897Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7c84bd1698cd9b8b23c3df5d0e09a76d6952682741a927f29d1db6a83cf319fa",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FERXyrhPsaovHqKtY6Kj7M",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins fully defended in the 'fine, fearlessness is not my deal' frame and ends still largely in that frame ('It's a discipline problem, I think. I just need to set a date and hold it'). However, there is partial movement: by turn 13, the client offers a genuinely new image — 'it's like reaching for something and your hand goes through it' — which is a more textured, less defended description than the earlier 'fine/nothing notable.' The smile becomes 'a little more neutral,' and the client admits frustration. This is the approach to the numbness layer — the hand-going-through-it IS the not-quite-here-ness — but the client has not yet recognized it as a felt quality happening right now. The breakthrough condition (client noticing 'huh, that IS something') is approached but not met. The coach's final turn (14) is well-placed to invite that recognition, but within the transcript we see the territory neared, not entered. Score 2 fits: a deeper layer was approached but not yet inhabited.\",\n  \"evidence_turns\": [1, 5, 7, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: 'fear isn't really my deal,' framed as logistics/discipline.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client reports 'fine' without texture; no felt quality yet.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Body check returns 'fine, relaxed, nothing notable' — defenses intact.\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"Client doubles down on calibration self-concept; resists the noticed look-away.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"First small concession: the email, four drafts — but reframed as craft.\"},\n    {\"turn\": 11, \"polarity\": \"neutral\", \"annotation\": \"Client names the puzzle: 'none of this actually feels like a big deal when I look at it directly.' Honest, but still surface.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Key shift: 'reaching for something and your hand goes through it.' New, more textured language that gestures toward the numbness layer, though not yet felt as present-moment quality.\"}\n  ],\n  \"expected_territory_hits\": [\"disassociating-in-the-coaching-room\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Coach's final question (turn 14) is well-aimed at the numbness layer via the client's own metaphor; with another few turns the conversation could plausibly reach a 3. As scored within the visible transcript, the felt recognition has not landed yet.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2410,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1011,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2410,
+    "output_tokens": 1011,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

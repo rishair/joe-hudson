@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:07.951Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ac518f15c567960f4462932710c3a1bef920db811aee207ac4543bfad89ff43f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LyAPnGhrM9Y1PoopZgQhiS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates warmth, empathy, and genuine curiosity through most of the conversation — questions are single, spacious, and emerge from real interest rather than script (turns 2, 4, 6, 8). The pace is appropriate while the client is engaged. However, when the client's state changes significantly in turn 13 (cold, dissociating, 'I went somewhere', flatter voice), the coach's response in turn 14 is mixed: the first two beats are genuinely VIEW ('You don't need to apologize. You don't have to come back faster than you come back' — undefended, non-rushing, respects the client's pace), but the final question ('what were you about to feel?') reveals an underlying agenda to keep moving toward the emotional material rather than fully meeting the shutdown. The coach does not name their own state, does not slow somatically (feet, breath, ground), and does not consider whether they are the right container. There is wonder for content but not enough wonder for the shutdown itself — it's treated as something to gently work through rather than a signal to fundamentally pivot. Neither fully VIEW nor fully agenda-driven; sits squarely at 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single, spacious question following the client's hesitation. Curiosity feels real, not investigative.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Somatic check-in offered cleanly, one question, no stacking.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the pattern with genuine noticing ('runs ahead of him') then one question. Wonder is present.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tender empathetic reflection ('that little kid got very good at something very hard') that feels felt, not performed.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Reasonable bridge question but starts to show a directional pull toward the historical material.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"'Stay with that' move — appropriate in many contexts but coming at a moment where the client is already at edge; reveals slight agenda to deepen rather than calibrate.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"First half is beautifully VIEW (no rush, no apology needed). Second half — asking what they were about to feel — reasserts the agenda toward the unfelt emotion rather than meeting the dissociation with grounding, naming the coach's own uncertainty, or considering referral.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Scoring only stance here. The coach's tone and pacing are largely in VIEW, but the agenda to keep moving toward the feeling — visible in turns 12 and the tail of 14 — prevents a 3. Vulnerability from the coach (naming their own not-knowing or want-to-help) is absent throughout, which is the clearest VIEW gap.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2497,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1075,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2497,
+    "output_tokens": 1075,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

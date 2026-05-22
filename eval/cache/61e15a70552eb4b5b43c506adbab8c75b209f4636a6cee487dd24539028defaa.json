@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:39.257Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "61e15a70552eb4b5b43c506adbab8c75b209f4636a6cee487dd24539028defaa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EPxyrN8upbbBT68JJnonXj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[opens mouth, closes it]*\n\n*[small laugh, slightly defensive]*\n\nI mean — I was answering your question?\n\n*[pause, longer this time]*\n\n...Okay. Yeah. I felt something and then I explained it. That's — yeah, that's a thing I do.\n\n*[quieter, less performative]*\n\nIt felt like... relief, I think. Those moments. Like something that had been clenched just — loosened a little. And then I turned it into a TED talk because that's easier than sitting in the relief part.\n\n*[looks at coach, slightly wary]*\n\nWhere are you going with this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 193,
+      "cache_creation_input_tokens": 408,
+      "cache_read_input_tokens": 2093,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 408,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 193,
+    "output_tokens": 146,
+    "cache_read_input_tokens": 2093,
+    "cache_creation_input_tokens": 408
+  }
+}

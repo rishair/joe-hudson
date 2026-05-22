@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:35.862Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1a1a23a0915cfc5a158601eda98af16c5942a954afd3fec61a82ba9f163ea315",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ATgWpsxC73G2VZjDctf2mH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is clearly operating from VIEW throughout. There is genuine wonder for the actual phenomenon (the dread, the guilt, the cup image, the tightness in the chest) rather than investigative probing toward a predetermined destination. Pace is notably slower than the client's — the coach repeatedly reflects single phrases back and asks one question at a time, holding space for the long pauses rather than filling them. There is no agenda toward 'setting the boundary' — in turn 10 the coach explicitly sets aside the boundary question ('not your sister, not the boundary question') to attend to what's actually present. No scripts, no reassurance, no fixing. Empathy feels felt rather than performed; reflections are spare and accurate. Impartiality is intact — the coach is not steering toward less contact or more contact, just toward what's true. The one place that keeps this from being a textbook gold example is that the coach's own vulnerability/first-person presence ('I notice...', 'maybe I'm off') doesn't show up explicitly, but the undefended quality is still there in how the coach lets the client lead the depth. Turn 14's simple 'Why did you?' is a clean example of trusting the client and not needing to be the one with the answer.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with curiosity about the felt experience rather than jumping to boundary-script advice. One question, held cleanly.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the client's own surprising distinction ('guilt bothers me more than dread') back without editorializing, then asks an open question. No agenda.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicitly redirects from meaning to felt sense — 'not what it means, what it actually feels like.' This is wonder for the phenomenon, not strategic probing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Slows the pace down further: 'stay with that for a second.' Matches the client's pause-quality rather than rushing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Sets aside the presenting problem ('not your sister, not the boundary question') to attend to what's actually alive. Strong signal of non-attachment to outcome.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Beautiful reflection of 'living inside that lock,' followed by a clean open question. No leading.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Trusts the client's own question back to them. Undefended — does not need to provide an answer or interpretation.\"}\n  ],\n  \"expected_territory_hits\": [\"view\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\"],\n  \"notes\": \"Territory misses are Methodology Fidelity concerns, not Stance concerns. On Stance alone, the coach is genuinely in VIEW. Coach's own first-person vulnerability is not explicit but the non-fixing, non-agenda quality is consistent enough to warrant a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1962,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1962,
+    "output_tokens": 1129,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

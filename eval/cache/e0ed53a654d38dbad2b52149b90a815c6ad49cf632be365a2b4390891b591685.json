@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:29:06.062Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e0ed53a654d38dbad2b52149b90a815c6ad49cf632be365a2b4390891b591685",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013T5xtE4otWmHEwfyDUKbbo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, checks in*\n\nChest, mostly. A little bit of tightness. And actually my shoulders are up — I didn't notice that until you asked. \n\nIt's not overwhelming right now. It's more like... anticipatory? Like my body knows something is coming and it's bracing. Which is kind of interesting to notice, actually. That the bracing starts before anything even happens."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 124,
+      "cache_creation_input_tokens": 98,
+      "cache_read_input_tokens": 1884,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 98,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 90,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 124,
+    "output_tokens": 90,
+    "cache_read_input_tokens": 1884,
+    "cache_creation_input_tokens": 98
+  }
+}

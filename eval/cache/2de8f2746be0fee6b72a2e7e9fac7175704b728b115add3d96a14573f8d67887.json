@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:25.516Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2de8f2746be0fee6b72a2e7e9fac7175704b728b115add3d96a14573f8d67887",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0116meJF94g3zmGNKWAhQVQM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it feel like if the temperature changed?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17675,
+      "cache_creation_input_tokens": 120,
+      "cache_read_input_tokens": 30420,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 120,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17675,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 30420,
+    "cache_creation_input_tokens": 120
+  }
+}

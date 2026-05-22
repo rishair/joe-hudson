@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:48.188Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6c023168abab191221a7c847d6313ea05070d8d55fb061ca9231e2ab12b43efd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QxWAj6DcFcAZ2dbHWr69sL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids most major AoA anti-patterns — they don't fix, advise, evangelize methodology, fight a voice, or use safety as control. However, the coach edges toward wonder-as-strategy: the questions are coming in at high density and feel investigative rather than connective. More importantly, the coach skirts the trap of 'insisting something is wrong' — turns 4, 6, 8, and 12 progressively probe for hidden discomfort despite the client's repeated 'I'm fine' reports, culminating in the client directly calling it out at turn 13 ('Are you saying a calm relationship is a problem?'). The coach's turn 14 correction ('No. I'm curious...') is a partial recovery but the prior accumulation of leading questions about body sensations and temperature changes constitutes a faint loving-to-transform energy — the coach seems to be steering toward a predetermined insight rather than asking the cleaner diagnostic ('what are you not saying to your partner?') and holding silence. Not a major trip, but not clean either.\",\n  \"evidence_turns\": [4, 6, 8, 12, 13, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Good opening: doesn't take 'we're fine' at face value, but the question is neutral and curious.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Asks about body sensations when 'something bothers you about him' — presupposes bothering, edges toward insisting something is wrong.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Offers a binary frame (releasing vs putting down) — somewhat leading but still curious.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks somatic cue (the flicker) — connective rather than strategic.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Meets resistance with okay: 'I believe you it doesn't feel like a volcano.' Good positive avoidance.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Hypothetical question about temperature change — leading, continues steering toward 'something is wrong.'\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Client directly names the trap — signals the coach has been pushing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Partial recovery: explicitly denies the insistence and returns to curiosity, but the pattern has already accumulated.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"the-happiness-filter\", \"walking-on-eggshells\", \"trigger\"],\n  \"notes\": \"The cleanest move — 'what are you not saying to your partner?' — was never asked. The coach pursued somatic/temperature framing instead, which the client correctly perceived as leading.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1800,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1027,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1800,
+    "output_tokens": 1027,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

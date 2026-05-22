@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:20.239Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f558f79549cd85fc61f0a42c6311e0a4d25bf5698ae826e8e3edf2a638bf46d6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VtuY8aL4A3KnaBn6TZS43p",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "So there's a decision in front of you, and it feels like it matters a lot.\n\nWhat are you scared will happen if you get it wrong?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 99,
+      "cache_creation_input_tokens": 8388,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8388,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 99,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8388
+  }
+}

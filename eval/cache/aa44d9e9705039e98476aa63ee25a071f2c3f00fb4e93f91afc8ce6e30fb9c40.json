@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:05.669Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aa44d9e9705039e98476aa63ee25a071f2c3f00fb4e93f91afc8ce6e30fb9c40",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017ra7RJC4mVsTEs3rCnMWtn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small pause, the smile stays but something flickers*\n\nThat's an interesting way to put it. I guess... putting something down? But not in a heavy way. More like -- it's just not worth picking up in the first place. \n\nI don't think I experience it as effortful, if that's what you're getting at."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 121,
+      "cache_creation_input_tokens": 66,
+      "cache_read_input_tokens": 1711,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 66,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 77,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 121,
+    "output_tokens": 77,
+    "cache_read_input_tokens": 1711,
+    "cache_creation_input_tokens": 66
+  }
+}

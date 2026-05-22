@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:44.244Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "fe5b2a08efb052e3df0af1384b9a3a2d7c75bd967b09c9e30ec5e63d0652abad",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Wz8gumAqy7Z7fWHQ7zLobT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(quiet for a moment, genuinely considering)*\n\nI mean... fear, probably. That's the obvious answer. Fear that if I stop — if the critic stops — I just... coast. Become someone who doesn't try as hard. \n\n*(faster now)*\n\nWhich I know is exactly what every therapist says, that the inner critic thinks it's helping, it's a protective mechanism, it developed for good reasons — I've read the books, I know the IFS framework, I can map the parts. And intellectually that's all very true and very interesting and it changes absolutely nothing about the fact that it won't stop.\n\n*(slight edge creeping in)*\n\nLike, okay, so it's protecting me from becoming lazy. Great. Now what? I still have to live with it screaming at me."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 270,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1832,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 176,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 270,
+    "output_tokens": 176,
+    "cache_read_input_tokens": 1832,
+    "cache_creation_input_tokens": 0
+  }
+}

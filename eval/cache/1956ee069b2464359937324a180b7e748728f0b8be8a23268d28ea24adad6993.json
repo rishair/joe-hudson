@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:30.605Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1956ee069b2464359937324a180b7e748728f0b8be8a23268d28ea24adad6993",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015k8ueYTYViMnBgAbmHChkn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. And you've been sitting with a delayed launch for a while now.\n\nWhat's the smallest, most ordinary thing about this launch that has a slight charge around it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3,
+      "cache_creation_input_tokens": 126,
+      "cache_read_input_tokens": 23420,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 126,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 39,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3,
+    "output_tokens": 39,
+    "cache_read_input_tokens": 23420,
+    "cache_creation_input_tokens": 126
+  }
+}

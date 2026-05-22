@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:05.164Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f4a4b7ed68463d45133439c496de13d0adef8ced7e1c27626d5b160d21748674",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WygbmiSAdp6kGvsfsQ6hPp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. And you free solo, you've taken companies through high-stakes moments — and somehow the thing that's got you stuck is a product launch you say is ready.\n\nWhat's that about?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8643,
+      "cache_creation_input_tokens": 10139,
+      "cache_read_input_tokens": 13233,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10139,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 44,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8643,
+    "output_tokens": 44,
+    "cache_read_input_tokens": 13233,
+    "cache_creation_input_tokens": 10139
+  }
+}

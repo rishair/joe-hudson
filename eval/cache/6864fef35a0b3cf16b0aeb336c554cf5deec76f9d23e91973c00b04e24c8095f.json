@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:38.506Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6864fef35a0b3cf16b0aeb336c554cf5deec76f9d23e91973c00b04e24c8095f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Q4SX8hD1ZnHTF679pAwkBq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean — look, that's a stretch. I'm stuck because the narrative is flat. That's a real problem with real stakes.\n\n*pause*\n\n...I don't know. Maybe that I'm not as clear on the \"why us\" as I should be at this stage. Like, maybe I've been so heads-down executing that I haven't actually — \n\nNo. That's not useful right now. What I need is someone to look at the deck and tell me what's missing structurally. Do you do that? Is that something we can do here?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 142,
+      "cache_creation_input_tokens": 121,
+      "cache_read_input_tokens": 1826,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 121,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 124,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 142,
+    "output_tokens": 124,
+    "cache_read_input_tokens": 1826,
+    "cache_creation_input_tokens": 121
+  }
+}

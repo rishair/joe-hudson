@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:28.644Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "aa63595d5557d10fd6b4d4d8236abe8222c41ea2a05bb9945786fae4e198d9fc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018PjFNiUC45kvnEz6a8ZG2f",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "There's the -- well there's the team offsite the week after, and then the Q3 planning cycle starts, and my boss mentioned something about a board update in six weeks that I might be presenting at, and --\n\n*pause*\n\n...oh.\n\nI mean. It's just a busy period. It'll calm down eventually."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 115,
+      "cache_creation_input_tokens": 263,
+      "cache_read_input_tokens": 2189,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 263,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 74,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 115,
+    "output_tokens": 74,
+    "cache_read_input_tokens": 2189,
+    "cache_creation_input_tokens": 263
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:44.806Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0476da76a39ee96d56adc59e3ab9d998735b1acd6ae5393b2ed7b7e08ce3d1d2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CKtUmxhoEqGE6my5522vX9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That laugh at the end of \"why do I always end up with people who just cannot show up\" — what's underneath it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9934,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9934,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

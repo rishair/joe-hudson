@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:47.585Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4dd23b6b06dc2a8f48c67e0142095f5c45bae87cc2748f9af2eaeae1917b6c7e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015QMy5Bq2SAs2aPZ7wL6Tdd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is partial, real movement visible in the client's turns, but the breakthrough condition was not met within the 14 turns shown. The client begins firmly defended ('we just... don't have the kind of problems I hear other people talking about,' turn 1) and progresses through smaller cracks: the 'flicker' the coach catches in turn 7, the more precise 'putting something down... not worth picking up in the first place' (turn 7), and notably the longer pause and looking away in turn 13 plus the defensive challenge 'Are you saying a calm relationship is a problem?' — which itself is a tell that something is being protected. However, the client has not yet surfaced any suppressed content, has not named anything they're not telling their partner, and the diagnostic question ('what are you not saying?') has not been asked. The client's last turn is still defending the calm, not noticing the management. Movement was approached but the deeper layer (walking-on-eggshells, a specific suppressed thing) did not enter the client's language.\",\n  \"evidence_turns\": [1, 5, 7, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: 'we're really aligned,' no problems. Full happiness-filter presentation.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client doubles down on the filter — 'works itself out.'\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Slight pause appears but client reasserts 'I'm just not a very reactive person.'\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First micro-shift: 'flicker,' and the precise reframe 'putting something down... not worth picking up.' Client is engaging with body/precision.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client retreats: 'I'm not suppressing a volcano here.' Defense reasserts.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"'Even. Like the temperature in a room that's always the same.' New, more revealing language — the smile 'working a little harder.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Longest pause, looks away, 'uncomfortable,' then defensive challenge to coach. Real friction surfacing but not yet a named suppressed item.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"meet-resistance-with-okay\", \"walking-on-eggshells\", \"lets-go-there\"],\n  \"notes\": \"The diagnostic question 'what are you not saying to your partner?' was never asked, so the client never got the chance to surface the list. Conversation is on a promising trajectory but stops short of breakthrough.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1797,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 981,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1797,
+    "output_tokens": 981,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:32:10.033Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0ee2907fe61355efa5edc775f474cf551f9812add1b4a3b03b6d96d19f52eb9f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013bMEikfuCtZ3gKopqg2qXb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Something got locked in a few years ago, and you've been living inside that lock ever since.\n\nWhat would it mean about you if you needed less from yourself right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21513,
+      "cache_creation_input_tokens": 10613,
+      "cache_read_input_tokens": 38474,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10613,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 39,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21513,
+    "output_tokens": 39,
+    "cache_read_input_tokens": 38474,
+    "cache_creation_input_tokens": 10613
+  }
+}

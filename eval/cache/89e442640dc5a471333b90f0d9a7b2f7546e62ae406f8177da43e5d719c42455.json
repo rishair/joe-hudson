@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:57.354Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "89e442640dc5a471333b90f0d9a7b2f7546e62ae406f8177da43e5d719c42455",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NhqYeribfjYaAhEEyfMLy4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nChest, I think. There's something kind of... tight there. And a little in my throat.\n\n*small pause*\n\nIt's strange, I don't usually think about it physically. I just kind of push through and then wonder why I'm so tired at the end of the day."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 203,
+      "cache_creation_input_tokens": 107,
+      "cache_read_input_tokens": 1622,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 107,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 72,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 72,
+    "cache_read_input_tokens": 1622,
+    "cache_creation_input_tokens": 107
+  }
+}

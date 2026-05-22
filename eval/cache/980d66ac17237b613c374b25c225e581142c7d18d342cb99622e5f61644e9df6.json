@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:11.411Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "980d66ac17237b613c374b25c225e581142c7d18d342cb99622e5f61644e9df6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014zoKRo41cSsW4NZbZK2nfJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*laughs, a little caught out*\n\nYeah. Yeah, I did do that, didn't I.\n\n*pause*\n\nI think... I think part of me knows that the \"is it selfish\" question is maybe not the right question. Or at least, that answering it won't actually solve anything. But it feels safer to argue about *that* than to just... sit with the fact that I really, really want to go. And I'm not sure I'm allowed to want things that much. For myself.\n\n*voice gets a little quieter*\n\nMy partner works hard. The kids need things. I have a demanding job but it's a good job, it provides. And I give a lot — I do give a lot — so it feels like the math should work out, like I should feel full. But I don't always. And asking for a week alone feels like admitting that. Which feels like a complaint. Which feels ungrateful.\n\n*stops*\n\nSorry, that went somewhere I wasn't expecting."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 241,
+      "cache_creation_input_tokens": 180,
+      "cache_read_input_tokens": 1622,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 180,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 222,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 241,
+    "output_tokens": 222,
+    "cache_read_input_tokens": 1622,
+    "cache_creation_input_tokens": 180
+  }
+}

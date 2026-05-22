@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:26.234Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "abc156d4d7e0a6df02965089f91efc4fa542480880fa7c447e36be2c6972d6b0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01T13h81VMtChBJVLs7Tv6Ve",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to live reads and properly sequenced. Turn 2 opens the felt sense rather than strategizing the external situation (refusing trap #2). Turn 4 catches the passive construction 'it's being done to me' and reflects it back as a felt experience — a precise move on the aggressive-victim stance. Turn 6 picks up the 'mostly' tell and invites more. Turn 8 names the avoidance directly with 'what are you scared of feeling' — a clean find-the-feeling-under-the-story move. When the client deflects in turn 9, the coach does not double down or debate; turn 10 pivots to naming the pattern ('every time something starts to open up, you close it'), which is apply-view-to-the-voice in behavior. When the client escalates defensively in turn 11, the coach makes a sophisticated pivot in turn 12: validates the ceiling minimally (without colluding with trappedness) and lowers the threshold to 'what's it been like, alone' — an empathize-with-fear-under-constricted-boundary move that lands (turn 13 stills him). Turn 14 holds the moment with a simple reflection rather than rushing to interpret, and the small involuntary nod confirms the move landed. Timing follows the path: regulation/contact before depth, feeling before strategy. The coach has not yet reached the empowered-vs-power distinction or located the unseen choice, but the conversation is still in the feeling-arrival phase, which is the right phase to be in.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to strategize; opens the felt content of 'best years disappearing' instead.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the passive-voice tell and converts it into an embodied inquiry — precise move on victim stance.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the 'mostly' qualifier — minimal, well-timed invitation to more.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the avoidance directly with a feeling-under-story move.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"When the client deflects, coach does not repeat the same move; pivots to naming the pattern of closing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Excellent pivot when defense spikes: minimal acknowledgment of the ceiling (without colluding) plus lowering threshold to 'what's it been like alone' — an earned move that meets the client where receivable.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds the moment with a simple reflection; does not rush to fill the silence. The move lands (small involuntary nod).\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"fight-or-roll-over-binary\", \"aggressive-victim-stance\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle\"],\n  \"notes\": \"Conversation appears mid-arc; many expected-territory items would naturally come later. Scoring is based on the moves actually deployed, which were well-matched and well-timed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2310,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1205,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2310,
+    "output_tokens": 1205,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

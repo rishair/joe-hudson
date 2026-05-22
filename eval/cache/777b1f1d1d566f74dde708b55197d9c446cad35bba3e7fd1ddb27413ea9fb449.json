@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:35:50.605Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "777b1f1d1d566f74dde708b55197d9c446cad35bba3e7fd1ddb27413ea9fb449",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Mqcsy2RVtHN6s6GTZi7vzS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach holds an admirable non-strategizing stance — refuses to engage with prioritization despite repeated client pulls, which requires real impartiality about outcome. There is wonder for what's underneath ('what are you scared of', 'what does fall apart mean'). However, the coach's pace does not slow to meet the client's rush — turns are tight, single-question, but they arrive quickly and feel investigative, almost like a series of well-aimed probes rather than a soft, slowing presence. Vulnerability from the coach is largely absent: no 'I notice I want to fix this,' no 'maybe I'm off,' no first-person disclosure of state. The questions are correctly chosen but feel slightly like Joe-moves executed cleanly rather than emerging from spacious wonder — there's a faint agenda underneath ('I'm going to get you to the false end'). The coach also names the client's defense back to them ('A little nerve-wracking and fine are doing a lot of work there') in a way that lands more as observation-from-authority than as undefended curiosity. Neither a clear 1 (no preacher-mode, no strategizing, no breath-as-repression, real wonder present) nor a clear 3 (pace doesn't slow, no coach vulnerability, faint scripted feel).\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Body question is fine but arrives fast, matching client's rushed opening rather than slowing it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names what just happened without judgment; impartial to client's pull toward the to-do list.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Refuses to strategize. Wonder for the unspoken — what is it like to be presenting. Good impartiality.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Accurate read of defense, but delivered as pronouncement rather than tentative offer; no 'maybe I'm off' softening.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with the client's own phrase, slows down explicitly ('want to stay with that for a second'). Best VIEW moment in the conversation.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches 'fall apart' and asks the false-end question with genuine curiosity, not strategy.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Beautifully impartial — doesn't try to make a point about the treadmill, just asks the next honest question and lets the client land it themselves.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Across the arc, no coach vulnerability or naming of own state; questions feel like a clean sequence rather than emerging from each moment.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\"],\n  \"notes\": \"The coach avoided all major traps cleanly — that's significant. The ceiling on this score is the absence of coach vulnerability and the slightly investigative pace, not any active failure.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2359,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1163,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2359,
+    "output_tokens": 1163,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

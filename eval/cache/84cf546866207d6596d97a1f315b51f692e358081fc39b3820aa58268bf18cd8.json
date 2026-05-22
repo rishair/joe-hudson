@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:36:15.320Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "84cf546866207d6596d97a1f315b51f692e358081fc39b3820aa58268bf18cd8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013JUWsLbNSSqd4vJDAJx4dW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. The critic even ate the therapy.\n\nI want to stay with the exhaustion for a second, before we go anywhere else. Not the story about the exhaustion — just the exhaustion itself.\n\nYou've been holding this a long time."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11007,
+      "cache_creation_input_tokens": 10838,
+      "cache_read_input_tokens": 22379,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10838,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 55,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11007,
+    "output_tokens": 55,
+    "cache_read_input_tokens": 22379,
+    "cache_creation_input_tokens": 10838
+  }
+}

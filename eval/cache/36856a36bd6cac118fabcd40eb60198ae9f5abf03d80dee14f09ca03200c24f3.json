@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:34.824Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "36856a36bd6cac118fabcd40eb60198ae9f5abf03d80dee14f09ca03200c24f3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012Rx31ASjps8CFWXuxJcfFK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a long moment*\n\nThat the word \"selfish\" — it's not mine. It's hers. I've been carrying it around like it's just... a true thing, a moral fact, and it's not. It's her voice. It's what she would have said.\n\n*something loosens slightly*\n\nShe worked so hard and she never asked for anything and I think she thought that was virtue. And I loved her, I love her, so I just... absorbed it. \"People who are good don't take up that much space.\"\n\n*pause*\n\nAnd I've been asking you to tell me I'm not selfish, but what I actually needed was to notice that I inherited the whole frame. The question itself. I've been arguing inside someone else's courtroom this whole time.\n\n*looks a bit stunned*\n\nI think... I think the question was the wrong question. I think it was always the wrong question.\n\n*soft*\n\nThe mountains. I just want to go to the mountains. That's actually just — it's just a true thing. I want to go.\n\n[EXIT_POSITIVE]\n\nThat's a lot to take in. But I think I needed to say it out loud. Thank you."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 307,
+      "cache_creation_input_tokens": 447,
+      "cache_read_input_tokens": 1815,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 447,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 269,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 307,
+    "output_tokens": 269,
+    "cache_read_input_tokens": 1815,
+    "cache_creation_input_tokens": 447
+  }
+}

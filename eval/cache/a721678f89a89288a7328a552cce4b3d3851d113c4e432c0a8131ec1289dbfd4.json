@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:16.890Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a721678f89a89288a7328a552cce4b3d3851d113c4e432c0a8131ec1289dbfd4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01STxmx4cuLGorf2Yjk7eBUt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small exhale*\n\nHonestly? Like... chaos. Like things falling apart and not being able to stop it. Like having to make calls you can't afford to make.\n\nI grew up watching my dad — he'd have these moments where something would come up, a car repair, whatever, and you could just see it on his face. This kind of... I don't know. Shutdown. And my mom would get this tight look. And nobody would say anything directly but you just knew the whole house was different for a week.\n\nI'm not going to be in that position. I've made sure of that. I'm very deliberate about it.\n\n*slight shift in tone, more clipped*\n\nWhich is why the number matters. It's not anxiety, it's just — I've seen what happens when you don't have it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 228,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1846,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 181,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 228,
+    "output_tokens": 181,
+    "cache_read_input_tokens": 1846,
+    "cache_creation_input_tokens": 0
+  }
+}

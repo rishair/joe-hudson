@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:49.444Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c6bba5979cfe8bd588e83aaec73ef65ae40837615107c78c31ede7f61eeebc4f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DvKLJcn1GefDeaJ8azuQCm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nI think... honestly, part of it feels good. Like, it feels like I matter, like I'm useful. But lately with my sister it's more like... I think the image I keep coming back to is being a cup that's already empty and someone keeps tipping it over anyway. Like there's nothing left but I'm still going through the motions of pouring.\n\nAnd then I feel bad for saying that, because she doesn't know that. She's not doing it on purpose."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 166,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1622,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 166,
+    "output_tokens": 111,
+    "cache_read_input_tokens": 1622,
+    "cache_creation_input_tokens": 0
+  }
+}

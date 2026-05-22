@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:34:19.192Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b27788cd7dca4c12e8037a2536ebf1a683baafc6b53cd869fdfc77f4f819c531",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KXnkjRt4XN3D1f2dgJCVhP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, jaw tightens slightly*\n\nYeah. I mean. There's also just — it's demoralizing. You start to wonder what the point is. Put in the work, stay late, take on extra projects, and it's like... none of it registers. So there's that too. The demoralization.\n\n*shifts slightly*\n\nBut mostly it's just — the situation is what it is. The blockers are real. It's not a perception problem."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 125,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1788,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 105,
+    "cache_read_input_tokens": 1788,
+    "cache_creation_input_tokens": 0
+  }
+}

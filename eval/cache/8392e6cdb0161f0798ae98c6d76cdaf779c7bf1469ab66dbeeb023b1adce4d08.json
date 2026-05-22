@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:25:50.101Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8392e6cdb0161f0798ae98c6d76cdaf779c7bf1469ab66dbeeb023b1adce4d08",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014opbXYrPrN12zVFEtWxQ3t",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nI think... I think I'd go. I think I'd actually let myself go.\n\n*voice softens*\n\nThere's this place — it's not even that far, a few hours' drive — but it's the only place where I genuinely sleep. Like, properly sleep. And I read there. I don't read anymore, not really, not for pleasure. I used to read all the time and now I just... don't. But up there I do.\n\n*catches herself*\n\nBut that's — I mean, that's not really answering your question, is it. What I mean is, if it came back not guilty, I'd feel like I had permission. To go."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 91,
+      "cache_creation_input_tokens": 119,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 119,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 91,
+    "output_tokens": 157,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 119
+  }
+}

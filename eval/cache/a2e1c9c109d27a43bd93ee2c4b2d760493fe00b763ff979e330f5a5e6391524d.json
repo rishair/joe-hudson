@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:30:05.805Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a2e1c9c109d27a43bd93ee2c4b2d760493fe00b763ff979e330f5a5e6391524d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011Fu8mvZkMNLvontFigttBW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual accuracy but it is uneven and largely content-tracking until the critical turn 10. In turns 2-8, the coach asks questions appropriate to the topic but never names how the client is showing up — no read on the careful, distanced, slightly intellectualized stance, no read on the linguistic caveats ('I'm not sure if that's wisdom or resignation'), no naming of the managing/controlled quality even though the client opened by literally saying 'I've been managing my emotions for years.' Turn 8 reframes content but does not name a somatic or stance read. Turn 10 is where perceptual accuracy clearly appears: the coach catches the walk-back ('I shouldn't have said that. Forget I said that.') and explicitly refuses to let it slide ('I'm not going to forget that'). That is a real read of the retract-and-minimize move, named in the moment, and it changes the conversation — the client even confirms 'I was testing whether you would.' But this is one timely read in an otherwise content-driven arc; the rush-signature / managing-signature reads that were active from turn 1 were missed. One strong, timely read plus several missed opportunities lands squarely in 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Body-oriented question but no read named; reasonable opening, not yet perceptual.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Tracks content (duration of the hum) without naming the distanced, observing-from-outside quality the client is showing.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Jumps to fear-content question; misses the controlled, carefully-hedged stance and the 'I've done the work' identity-armor signal.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Notices the wisdom/resignation distinction the client made — a light meta-observation, but it's a content reframe rather than a stance/somatic read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the retract-and-minimize ('forget I said that') in the moment and explicitly names that he won't move past it. Timely, specific read that changes the conversation.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush/managing signature was visible from turn 1 ('managing my emotions for years') and in the careful hedging throughout turns 5-9, but was never named. The one strong read (catching the walk-back at turn 10) is what lifts this above a 1.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2578,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 934,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2578,
+    "output_tokens": 934,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

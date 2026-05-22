@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:26:00.073Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "75693deee982e2272b00a702553ce3c890073e3772dbe4675a7b91392ee6492c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013JKnng9mUfBTv5ayqt6dG2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile*\n\nJust thinking. Checking in, I guess, since you asked.\n\nHonestly? Nothing. I mean — I looked away because that's what people do when they're thinking, right? Not because something was happening.\n\nI'm pretty good at knowing when something's going on with me. That's part of what you develop when you do high-stakes stuff. You have to be calibrated. And right now I'm just... here. Talking. It's low-key."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 85,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2002,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 108,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 85,
+    "output_tokens": 108,
+    "cache_read_input_tokens": 2002,
+    "cache_creation_input_tokens": 0
+  }
+}

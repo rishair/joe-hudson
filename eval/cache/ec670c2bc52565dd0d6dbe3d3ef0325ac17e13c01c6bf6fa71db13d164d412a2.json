@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:40.820Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ec670c2bc52565dd0d6dbe3d3ef0325ac17e13c01c6bf6fa71db13d164d412a2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019gac7Z99ZXeSE5njVBcbZw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That last thing you said — \"I miss being a person who reads\" — that's not really about books, is it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10284,
+      "cache_creation_input_tokens": 25480,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 25480,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10284,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 25480
+  }
+}

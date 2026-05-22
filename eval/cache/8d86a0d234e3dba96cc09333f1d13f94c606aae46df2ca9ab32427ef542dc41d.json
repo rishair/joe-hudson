@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:16.740Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8d86a0d234e3dba96cc09333f1d13f94c606aae46df2ca9ab32427ef542dc41d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014EV5UXVSQQKt9tQtSMwsY1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*goes still*\n\n*long pause, smile fades a little*\n\nIt's waiting for... confirmation that I can't trust myself. Like there's a verdict still outstanding and every decision is new evidence.\n\n*quiet*\n\nThat's -- hm. That's a different thing than I came in here to talk about.\n\n*looks down, then back up*\n\nI think I've been treating this job decision like it's a test I could pass or fail. And if I use the right method and choose correctly, that's proof the instrument works. And if I get it wrong...\n\n*pause*\n\nThat's not really about the job, is it.\n\n*small laugh, slightly uncomfortable*\n\nI came in with a very clean question. I was fairly confident it was a good question."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 275,
+      "cache_creation_input_tokens": 435,
+      "cache_read_input_tokens": 2104,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 435,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 170,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 275,
+    "output_tokens": 170,
+    "cache_read_input_tokens": 2104,
+    "cache_creation_input_tokens": 435
+  }
+}

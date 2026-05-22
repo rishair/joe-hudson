@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:31:14.617Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "254c8364d48bd328a2fa67d862be1a9bf6776fb326254affb99c1115f491f470",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SdwQEq6ZmJjBqrGabNQrAt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\n*staying with it*\n\nHow long?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8327,
+      "cache_creation_input_tokens": 192,
+      "cache_read_input_tokens": 12070,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 192,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8327,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 12070,
+    "cache_creation_input_tokens": 192
+  }
+}

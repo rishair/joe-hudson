@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T07:33:21.273Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "771c6152f46f10997dbde536db86825cca5ebb0c389adc299083e587dc3c43ac",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JHq7NH6C7ut8i8uCN2ouKP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That look on your dad's face.\n\nYou've been working for ten years to make sure you never have that look."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 334,
+      "cache_creation_input_tokens": 10917,
+      "cache_read_input_tokens": 14955,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10917,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 28,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 334,
+    "output_tokens": 28,
+    "cache_read_input_tokens": 14955,
+    "cache_creation_input_tokens": 10917
+  }
+}
