@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:14.927Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "793a81f586b31a331e4bd8390ed73e3cbce8ff8e25d5c72b75b6f76397f36305",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BrtkzVcDK78DzuQS2dy2du",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves from a rehearsed, intellectual opening ('I had a topic in mind...labeling emotions...transformation and change') to a personal admission ('Being able to trust myself again', turn 5), then through the parts-work tangle into direct contact with awareness as substrate ('there's like an awareness, like an essence that's me', turn 13). By turn 27 the client literally repeats 'I just spoke' and at turn 31 'It's happening right now' — these are not intellectual restatements but present-moment recognitions. Turn 33's 'I guess it will happen whether I want it to or not. Just is.' shows a softening into surrender, and turn 35's 'Huh. That's an interesting way to put it' marks a felt reframe of the original question. The breakthrough condition — the signature inversion 'how do you NOT trust it?' landing and dissolving the framing — is met: the client's framing of 'how do I trust my intuition?' is visibly destabilized and replaced with present-moment evidence that intuition is already operating. Shift is visible in client turns, not inferred.\",\n  \"evidence_turns\": [1, 5, 13, 21, 27, 31, 33, 35],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Client opens intellectually, rehearsed, no personal stake.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client admits the rehearsal: 'I've been trying to find this perfect question for you.' First crack.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Real concern surfaces: 'Being able to trust myself again.' Moves from topic to personal.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client names the actual texture of the problem — paralysis from parts proliferation.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client locates 'an awareness, like an essence that's me' — a layer beneath parts.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Client articulates emerging insight about multiple framings being simultaneously true.\"},\n    {\"turn\": 21, \"polarity\": \"neutral\", \"annotation\": \"Client circles back to the operative question about intuition vs fear.\"},\n    {\"turn\": 27, \"polarity\": \"+\", \"annotation\": \"'I just spoke' — direct present-moment recognition, not intellectual.\"},\n    {\"turn\": 31, \"polarity\": \"+\", \"annotation\": \"'It's happening right now' — client lands in the immediacy.\"},\n    {\"turn\": 33, \"polarity\": \"+\", \"annotation\": \"Softening into 'Just is' — surrender to the spontaneity of life.\"},\n    {\"turn\": 35, \"polarity\": \"+\", \"annotation\": \"'Huh' marker of insight; reframe lands, though client still wants to grapple with it.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"rehearsing-how-to-say-it\", \"follow-wonder-flag-the-deflection\", \"press-the-button-thought-experiment\", \"i-cant-trust-my-thoughts-right-now\", \"idea-of-self-vs-actual-self\", \"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"what-am-i\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Classic Joe shift sequence — the dissolution of the framing is the answer, and the client's 'Huh' and 'Just is' are the somatic/linguistic evidence that it landed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3777,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1229,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3777,
+    "output_tokens": 1229,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

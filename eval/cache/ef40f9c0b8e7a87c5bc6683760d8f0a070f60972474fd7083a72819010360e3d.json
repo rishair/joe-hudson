@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:59:09.044Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ef40f9c0b8e7a87c5bc6683760d8f0a070f60972474fd7083a72819010360e3d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011Zmefy1rjaujG4mnqvq6CZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"Every coach move is matched to the live read and timed to what the client just offered. Joe refuses to validate the externalization ('they don't see me') and instead tests it (turns 4, 6), then deploys the mirror at the precise moment the client admits judgment (turns 8, 10, 12). The signature 'how is that not true about you?' lands after the client names what she judged in her father — earned, not premature. When the client deflects with sarcasm (17), Joe pivots to a concrete situational question rather than repeating the mirror. He explicitly names an unanswered question while honoring his own wonder (turn 22) — a high-skill sequencing move. He then escalates by pulling the dynamic into the present-moment relationship (28, 30, 32), forcing the impossibility of the criteria to surface, before naming the want for her (38) and reframing toward empowerment (40, 42). The sequence follows feeling/structure → want → reframe without rushing to action or practice.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 16, 22, 28, 30, 34, 38, 40],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a structural question rather than validating the freeze.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Tests the externalization ('how do you know') instead of accepting it.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pushes for evidence — refuses to let the story stand unexamined.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Frames as hypothetical ('what if they did see you') — flips premise without bulldozing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"At the moment client admits judgment, pivots to origin — perfectly timed.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Deploys the signature mirror at the earned moment, even acknowledges the vulnerability of asking.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Tightens the mirror onto her own admission about wanting.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Re-iterates the mirror in a new angle when she partially deflected.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Pivots to a concrete situational question when sarcasm appears — doesn't double down.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Explicitly names the unanswered question AND follows live wonder — high-skill sequencing.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Mirror applied to the wanting layer at the right moment.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Pulls the dynamic into the present relationship — embodied test of the premise.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Brilliant role-reversal move exposing the impossibility of the criteria.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Direct logical conclusion delivered cleanly: 'So they are seeing you.'\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"Names the want the client was about to deny — find-the-want-behind-the-should in action.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Reframes from seen-ness to empowerment — the structural pivot.\"},\n    {\"turn\": 42, \"polarity\": \"+\", \"annotation\": \"Closes with empowerment question that lets the client land the insight herself.\"}\n  ],\n  \"expected_territory_hits\": [\"mirror-the-judgment\", \"follow-wonder-flag-the-deflection\", \"i-dont-buy-your-story\", \"find-the-want-behind-the-should\", \"what-if-they-did-see-you\", \"how-is-that-not-true-about-you\", \"view\", \"empowered-vs-power\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Textbook deployment of mirror-the-judgment with earned sequencing. The turn-22 move (naming deflection while honoring wonder) is particularly notable.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3614,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1438,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3614,
+    "output_tokens": 1438,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

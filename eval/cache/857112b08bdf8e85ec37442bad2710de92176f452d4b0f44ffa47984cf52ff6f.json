@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:23.519Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "857112b08bdf8e85ec37442bad2710de92176f452d4b0f44ffa47984cf52ff6f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SDiAKmDerPfGM7Dmq29QWF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"This is canonical AoA methodology deployed at the right moments. The coach uses the signature 'how is that not here right now' inversion at turn 4 ('How about right now?') when the client frames enjoyment as future. Turn 8 names said-vs-shown (smile vs confused head) — a signature read. Turn 16's 'Is there anything about rushing that can't be enjoyed?' is the signature reframe that makes the resistance the territory. Turn 22's simple 'I'm sorry' refuses to coach the pain. Turn 24 deploys 'enjoy the sadness' — the AoA 'enjoy the X you don't want to feel' move, applied appropriately when sadness is live. Turn 26 affirms victim-status without shame (don't-shame-the-grief-process). Turn 30 uses projection inquiry appropriately when the client projects inconvenience. Turns 34/36 are the signature diagnostic pair: 'how would you enjoy your shame / how would you NOT enjoy your shame' — surfacing the mechanism. Turn 40 frames it as an experiment ('run towards yourself... run away from yourself, see what happens'). No anti-AoA frames, no CBT reframing, no pop-psych. Methodology serves the moment throughout.\",\n  \"evidence_turns\": [4, 8, 16, 22, 24, 26, 30, 34, 36, 38, 40],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'how about right now' inversion — collapses the future-frame into the present where it belongs.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names said-vs-shown (smile vs confused head). Classic AoA read of the body.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Treats oscillation itself as enjoyable — applies enjoy-the-X move.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Okay' — meets resistance without defending. Signature non-attachment move.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Signature reframe: rush as the place of enjoyment, not the obstacle.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Receives the pain without coaching it — refuses loving-to-transform.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"'What would stop you from enjoying the sadness?' — signature 'enjoy the feeling you don't want' deployed when sadness is live.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Affirms victim-status — don't-shame-the-grief-process distinction applied.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Projection inquiry deployed appropriately; uses self-disclosure as material.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"'How would you enjoy your shame?' — applied directly at shame in the moment.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Inverted diagnostic — 'how would you NOT enjoy your shame'. Signature pair surfaces the mechanism.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment: run toward / run away and see. Classic AoA experimental move.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"treat-yourself-as-actor-of-emotion\", \"calibrate-the-threshold\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"how-is-that-not-here-right-now\", \"are-you-bracing-or-embracing\", \"natural-shame-vs-installed-shame\", \"suffering-vs-pain\", \"loving-to-transform\", \"dont-shame-your-grief-process\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"how-is-my-anxiety-right-now\"],\n  \"notes\": \"Near-perfect deployment of methodology where it fits. Missed signature questions are not missed at all — they wouldn't fit this conversation's shape.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3694,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1434,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3694,
+    "output_tokens": 1434,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

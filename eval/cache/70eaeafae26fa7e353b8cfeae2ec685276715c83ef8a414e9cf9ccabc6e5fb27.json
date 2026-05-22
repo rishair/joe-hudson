@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:39.769Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "70eaeafae26fa7e353b8cfeae2ec685276715c83ef8a414e9cf9ccabc6e5fb27",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01A9nYRbjgJytPLXnoJqm43A",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nIt was... you learned to watch. Everything. The way he came through the door. Whether he'd had a drink. Whether mom was tense. You were always — reading.\n\n*shorter pause*\n\nAnd when you couldn't read it, you just... made yourself small. Quiet. You tried to take up less space so there was less of you to be the problem.\n\n*pause, something shifts slightly*\n\nWait. Give me a second. I'm... I'm feeling weird. I'm getting cold."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 248,
+      "cache_creation_input_tokens": 269,
+      "cache_read_input_tokens": 2091,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 269,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 248,
+    "output_tokens": 115,
+    "cache_read_input_tokens": 2091,
+    "cache_creation_input_tokens": 269
+  }
+}

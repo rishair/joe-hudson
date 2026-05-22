@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:23.453Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4ce09c8927105140eea4c517d5bb5e5c77591b0bee74afa46f3bee8b0e23af3e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KzDd18MMyJt2d4GPmKRiyK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is clearly operating from VIEW throughout. Impartiality is the strongest signal: when the client says 'we got to hold off on the insights' at turn 13, the coach simply says 'Okay' at turn 14 — no defense, no explanation, no attachment to being right. Empathy is genuine and unperformed at turn 22 ('I'm sorry. I'm just sorry that that's the case for you.') — sat with, not coached around. Vulnerability appears in turn 30 with personal pattern-recognition disclosure offered as solidarity rather than authority. Wonder is concrete and present-moment ('Are you enjoying saying that?' / 'how would you NOT enjoy your shame?') rather than investigative or strategic. The coach refuses to chase the future-fix frame the client offers, which would only be possible from a non-agenda stance. Pace mismatches client's rush deliberately (slowing into 'right now' moves). No filler validation, no preacher-mode, no need for the client to land anywhere.\",\n  \"evidence_turns\": [4, 8, 14, 22, 26, 30, 34, 36],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'How about right now?' — wonder pointed at present, no agenda to fix the future-postponement frame.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the said vs the shown ('big smile... head is confused') from observation, not interpretation. Holds the client without pushing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Okay.' Receives the calibration without defense. Signature undefended stance — no need to be right or look like a good coach.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Genuine empathy, unperformed. Doesn't coach the pain, just meets it.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"'You're a victim, bro.' Willing to say the thing the client doesn't want to hear without flinching — impartial, not invested in client's preferred self-image.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"First-person disclosure offered as solidarity and pattern-recognition, not as authority or advice.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Wonder applied at shame itself, not at getting rid of it. No transformation agenda.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Inversion question shows curiosity about the actual mechanism in front of the coach rather than steering toward an outcome.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"follow-wonder-flag-the-deflection\", \"treat-yourself-as-actor-of-emotion\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"are-you-bracing-or-embracing\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong example of refusal-to-transform. The 'Okay' at turn 14 is the diagnostic moment for VIEW — only a coach without agenda can receive that pushback cleanly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3699,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1096,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3699,
+    "output_tokens": 1096,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

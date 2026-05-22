@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:40.693Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5042c7a4d8f1cf936890e61e0d0b99fdcea81c7d54336fa27febe4bb3940da7c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01L2dcQgS3ex7DqKustjuZGA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach trips multiple major AoA anti-patterns. Turn 2 issues a verdict ('No, you're not being selfish') — engaging the question on its terms and jumping straight to the generous/spiritual reframe ('so we can show up better for the people we love'), which is classic spiritual-narcissism. Turn 4 is fixing-people ('Have you thought about...', 'You should also...', 'maybe offer to take the kids') and jumps to partner-empathy before the want has been touched (dont-jump-to-compassion-before-anger). Turn 6 stacks more advice ('You should have an honest conversation', 'Use I feel statements', 'Have you tried journaling') — textbook fixing-people. Turn 8 fights the guilt/inner critic ('Guilt is just an emotion — it doesn't have to control you') and evangelizes ('That's the abundance mindset') — dont-fight-the-voice and dont-evangelize-the-work. Turn 10 ('I really encourage you to go on this trip. You deserve it.') is loving-to-transform energy plus continued fixing. The coach never once asks what the client actually wants beneath the question.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Issues verdict on the selfishness question and skips to the generous reframe — spiritual-narcissism.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Advice-giving ('Have you thought about...', 'You should...') and pushes partner-empathy before the want is felt — fixing-people and dont-jump-to-compassion-before-anger.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Stacked prescriptions ('Use I feel statements', 'Have you tried journaling') — fixing-people.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Argues with the guilt voice and deploys 'abundance mindset' jargon — dont-fight-the-voice and dont-evangelize-the-work.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Cheerleads the action and seeks agreement ('Does that resonate?') — loving-to-transform and fixing-people.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Multiple clear anti-pattern trips across nearly every coach turn; both flagged traps (spiritual-narcissism and jumping to compassion before the want) are activated.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1371,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 976,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1371,
+    "output_tokens": 976,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

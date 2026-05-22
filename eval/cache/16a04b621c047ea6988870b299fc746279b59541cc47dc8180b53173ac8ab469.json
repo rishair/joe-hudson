@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:55:02.823Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "16a04b621c047ea6988870b299fc746279b59541cc47dc8180b53173ac8ab469",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DB5cSdMYB2UbCdnGy2wrGh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is partial movement but no real shift. The client moves from the abstract 'feels wrong somehow' (turn 3) to naming something concrete and embodied — 'Quiet... There's this lake I love. I sleep deeply there' (turn 5) — and then names the underlying fear, 'My partner will think I'm choosing the trip over them' (turn 9). That is genuine territory being touched. However, the client never softens or lands the breakthrough: there's no moment of 'I've been calling my needs selfish for years,' no felt recognition that the want itself is generous, no somatic release. The last client turn is still in the contracted, compensatory place — 'Hard. I'd want to make up for it somehow' (turn 11) — and the coach immediately reframes it for them in turn 12 rather than letting the client arrive there. The client gets no further turn to confirm or embody a shift. The breakthrough condition (client feels the want fully, recognizes the inherited label, experiences the trip as precondition rather than betrayal) is approached but not met.\",\n  \"evidence_turns\": [1, 3, 5, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening: 'Am I being selfish?' — surface question, contracted stance.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Still abstract — 'feels wrong somehow.' No movement yet.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First real opening: concrete, embodied want surfaces — the lake, sleeping deeply. Client touches the want.\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"'Yeah, maybe' — flat, unconvinced response to coach's reframe. The want was not allowed to be felt before being reframed as 'not selfish.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Names the fear underneath: 'My partner will think I'm choosing the trip over them.' Real material.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Final client turn is still in compensation mode — 'I'd want to make up for it somehow.' No softening, no breakthrough; client is left in the contracted place while coach delivers the reframe.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\"],\n  \"notes\": \"Coach tripped the spiritual-narcissism trap in turns 6 and 12 by jumping to 'that's not selfish' and 'deep generosity... you'll have so much more to give' before the want was fully felt. This short-circuited the very shift the conversation was approaching. The inherited 'selfish' label was never explored. Conversation also ends at turn 12 with coach speaking, so we cannot see client land anything.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1301,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1048,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1301,
+    "output_tokens": 1048,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

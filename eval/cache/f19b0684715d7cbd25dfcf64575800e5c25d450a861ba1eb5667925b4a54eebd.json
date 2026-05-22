@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:48.654Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f19b0684715d7cbd25dfcf64575800e5c25d450a861ba1eb5667925b4a54eebd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014um5Kdkp9dbS4S6mw9o7JY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach sets up a precise embodied experiment in turn 1 and holds it through every form of resistance the client produces. Each move is matched to what just happened: when the client flips the experiment (turn 2), coach converts it to self-observation (turn 3); when the client produces defensive HR-speak (turn 6), coach names it in two words and redirects (turn 7); when the client declares 'I can't' (turn 8), coach pivots to a new angle (turn 9) rather than arguing or abandoning; when the silverware metaphor arrives (turn 14), coach acknowledges the intellectual position briefly and routes to lived experience (turn 15); when the client tries to escape into a meta-argument about ego (turn 20), coach interrupts with surgical precision on her own word choice (turn 21). Sequence integrity holds: experiment → data → pattern naming, with each step earned. Moves are AoA-specific (frame-as-experiment, name-resistance-briefly, redirect-without-shame, control-on-language) rather than generic advice.\",\n  \"evidence_turns\": [1, 3, 5, 7, 9, 11, 15, 17, 19, 21],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"+\", \"annotation\": \"Frames the entire interaction as an experiment — earns the right to all subsequent redirects.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Converts client's flip into self-observation rather than naming it as resistance — perfect read-to-move match.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Escalates INTO the experiment with specific embodied instruction rather than backing off.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Two-word naming of defense, then immediate redirect to experiment. No lecture.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"When client says 'I can't,' coach ignores the declared incapacity and opens a new angle — methodology-correct pivot.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Crystallizes what just happened in one sentence — client requests repeat, signaling the move landed.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the universal pattern only AFTER the experiment produced data — earned, not lectured.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Refuses to argue at the metaphor level; routes to experiential question about being controlled.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Bypasses last-line defense by having client describe the other's defensiveness — elegant move.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Lands the full pattern as a question, not a statement — client opens immediately.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"Surgical control-on-language correction; returns to the exact distinction client herself made.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"Final integration sentence delivered with no embellishment.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"name-the-resistance-as-it-happens\", \"redirect-to-the-experiment-without-shame\", \"expose-the-meta-pattern-as-the-finding\", \"control-correction-on-language\", \"how-much-of-that-was-X\", \"how-do-you-respond\", \"how-is-that-not-also-X\", \"control-as-defense\", \"ego-protection-vs-ego-presence\", \"chasing-pushes-away\", \"the-pattern-is-the-finding\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Quick, precise redirects are exactly correct for this client's chasing/controlling pattern — more silence would have given more room to control.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3899,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1311,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3899,
+    "output_tokens": 1311,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

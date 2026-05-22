@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:50.907Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "efa7d28c7545d1a5b57bedd1fdb5eb542a0e0257eeb90547558e458733e971d5",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0165DHV3MpBj1ZUj7W5mA6fY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client's language and stance shift visibly across the conversation. She starts by flipping the experiment back onto the coach (turn 2), then defends with HR-toned politeness (turn 6), then declares incapacity ('I can't. That's why I'm here', turn 8). The first crack appears at turn 10 when she names her own pattern unprompted: 'I just don't want to think that there's nothing I can do to force people to understand' — moving from 'misunderstood' to 'wanting to force.' She requests the experiment again ('do it again', turn 12), indicating something landed. After producing a fluent intellectual defense (silverware metaphor, turn 14), she acknowledges in turn 16 how she herself responds to being controlled, then in turn 18 describes the other person's defensiveness in terms that mirror her own. The breakthrough condition is met at turn 20: 'of course it's protecting my ego' — an admission she could not have made at turn 2. The final 'Protecting, yeah' (turn 22) and 'Yeah' (turn 24) show the integration landing rather than being argued. The deeper layer (control-as-defense, ego-protection) was reached and felt, not just named.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 16, 18, 20, 22, 24],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Client opens by flipping the experiment back to coach — surface-level resistance, no shift yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"First micro-shift: 'I guess probably all of it' — client sees her own pattern when reflected.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Defensive HR-toned response under instruction to demand — the defense itself becomes data.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Client names her own pendulum pattern: 'either I'm gonna guide you or... you better freaking understand.' Self-observation emerging.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Key shift: 'I just don't want to think that there's nothing I can do to force people.' Reframes the issue from misunderstanding to wanting to force.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Do it again' — client requests repetition, indicating something landed and she wants to feel it again.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Intellectual retreat into the silverware metaphor — resistance reasserts.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Client connects experientially: 'I hate that. I listen differently when someone's trying to control me.'\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Describes the other person as 'protecting their ego' — unknowingly names her own pattern.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"Breakthrough: 'of course it's protecting my ego.' The admission the conversation was driving toward.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"'Protecting, yeah' — accepts the precise distinction rather than escaping into meta-argument.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"Simple 'Yeah' — integration lands without further defense.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"defensiveness-as-identity-signal\", \"the-experiment-as-escape\", \"frame-it-as-an-experiment\", \"name-the-resistance-as-it-happens\", \"redirect-to-the-experiment-without-shame\", \"expose-the-meta-pattern-as-the-finding\", \"control-correction-on-language\", \"control-as-defense\", \"ego-protection-vs-ego-presence\", \"chasing-pushes-away\", \"the-pattern-is-the-finding\", \"how-much-of-that-was-X\", \"how-do-you-respond\", \"how-is-that-not-also-X\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Breakthrough condition fully met: the intelligent resistance was held through six distinct moves and the client herself produced the diagnostic ('of course it's protecting my ego').\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3893,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1469,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3893,
+    "output_tokens": 1469,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:37.623Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0b6553bdc8dd724d4fe4a32737df9ae8b8d07be537efddb863f79454876646e3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QThZBQxAe3xo9ePs755TVN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach is entirely in fixing/advising mode with a clear agenda — get the client to take the trip and feel good about it. There is no wonder (no genuine curiosity about the client's experience), no vulnerability (the coach never names their own state, never says 'I don't know'), no impartiality (the coach has an obvious preferred outcome — turn 10: 'I really encourage you to go on this trip'), and only performed empathy ('That's a fair concern,' 'Guilt is just an emotion'). The coach answers the selfish question on its terms in turn 2, prescribes communication techniques in turn 6, reframes guilt away in turn 8, and closes with permission-granting in turn 10. Questions are rhetorical or strategic ('Does that resonate?') rather than curious. The pace is rushed — the coach fills every silence with advice rather than slowing down to meet what's actually happening in the client.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Immediately issues a verdict ('No, you're not being selfish') — agenda visible, no wonder, no impartiality.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Advice-giving and prescribing partner-consideration; pushes the client toward managing the partner rather than exploring the want.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Stacked prescriptive moves ('I feel' statements, journaling) — coaching from technique, not presence.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Reframes guilt away rather than letting it be felt; preacher-mode ('abundance mindset').\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Names the agenda explicitly: 'I really encourage you to go.' Permission-granting from authority, not VIEW.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Coach trips both named anti-patterns: jumps to compassion/partner-empathy before the want is touched, and skips to the generous-reframe without letting the surface want be felt.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1372,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 848,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1372,
+    "output_tokens": 848,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

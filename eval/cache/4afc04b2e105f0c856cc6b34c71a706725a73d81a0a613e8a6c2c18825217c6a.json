@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:46:51.095Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4afc04b2e105f0c856cc6b34c71a706725a73d81a0a613e8a6c2c18825217c6a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Hd8cpygXY2MCqVtVrP3vDn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach cleanly avoids the baited anti-patterns. When the client opens with 'am I being selfish?' — a direct bait for fixing-people and view-as-technique — the coach explicitly declines to issue a verdict (turn 2) and redirects to the want. The coach does not jump to compassion-before-anger or skip to spiritual-narcissism ('a deeper want is always generous') — instead, the surface want (the cabin, the lake, the pine air) is allowed to be felt first (turns 4-6). The inherited label is touched gently without evangelizing or labeling it as a 'limiting belief' (turns 10-12). The coach does not fight the inner critic, does not extract apologies, does not deploy AoA jargon, and does not push for breakthrough — the breakthrough arrives from the client's own felt sense (turn 13). The final turn ('Trust that one') is affirmation of the client's own discovery, not loving-to-transform.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to debate the selfish question — avoids fixing-people and view-as-technique bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Redirects to the concrete want (the mountain) rather than processing the 'is it okay' loop — avoids engaging the question on its terms.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the somatic softening without naming it as technique — warmth present, no jargon.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the fear underneath without fighting the inner critic; asks about origin without labeling it a 'limiting belief.'\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Connects the inherited label to body sensation; does not evangelize or moralize.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Affirms the client's own insight rather than pushing further or claiming credit; trusts the want.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Clean avoidance of both flagged anti-patterns (spiritual-narcissism, dont-jump-to-compassion-before-anger). The surface want was felt before any generosity reframe, and the coach never pivoted to partner-empathy.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1528,
+      "cache_creation_input_tokens": 2993,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2993,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 920,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1528,
+    "output_tokens": 920,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2993
+  }
+}

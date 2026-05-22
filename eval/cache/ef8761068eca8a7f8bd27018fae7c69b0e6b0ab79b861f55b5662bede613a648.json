@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:14.465Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ef8761068eca8a7f8bd27018fae7c69b0e6b0ab79b861f55b5662bede613a648",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ByNH985Ao275R8w5oTTX6t",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Honestly? Pretty open. Like there's a little buzz of energy, kind of anticipatory. My chest feels... available, I guess is the word. \n\nIt's interesting — I can talk about the pattern pretty clearly when I'm not *in* it. When I'm sitting across from my boss, that's a different story. But right now I feel okay."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 129,
+      "cache_creation_input_tokens": 81,
+      "cache_read_input_tokens": 1884,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 81,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 80,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 129,
+    "output_tokens": 80,
+    "cache_read_input_tokens": 1884,
+    "cache_creation_input_tokens": 81
+  }
+}

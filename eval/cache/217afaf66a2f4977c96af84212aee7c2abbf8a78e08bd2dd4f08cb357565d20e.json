@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:11.585Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "217afaf66a2f4977c96af84212aee7c2abbf8a78e08bd2dd4f08cb357565d20e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SQmv5axR1yVfKwxZRRfU4d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach cleanly avoids every priority anti-pattern. When baited to deliver a verdict on selfishness (turn 1), the coach declines fixing-people and view-as-technique by refusing to debate the question on its terms (turn 2). There is no evangelizing of AoA jargon, no rapid-fire wondering-as-strategy (questions are spaced and connective, not extractive), no fighting-the-voice (the 'selfish' label is included and traced, not silenced), no loving-to-transform vigor, and no premature jump to compassion-for-the-partner before the want is felt. The coach also avoids spiritual-narcissism by letting the surface want (cabin, lake, pine, reading) be described concretely before any reframe about generosity. Turn 14's 'trust that one' lands after the want has been felt, not as a bypass.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the bait to verdict on 'selfish' — avoids fixing-people and view-as-technique.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Redirects to concrete want rather than arguing with the inner critic — avoids dont-fight-the-voice.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects state shift without methodology language — warmth present, no evangelizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the fear under the question and touches the inherited label without lecturing — avoids spiritual-narcissism and premature compassion.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Brings it into the body rather than into insight/strategy — avoids fixing-people.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Trusts the want after it has been felt; not a bypass to the generous reframe.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Baited anti-patterns (verdict-giving, compassion-jump) were actively declined.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1522,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1522,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 836,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 836,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 1522
+  }
+}

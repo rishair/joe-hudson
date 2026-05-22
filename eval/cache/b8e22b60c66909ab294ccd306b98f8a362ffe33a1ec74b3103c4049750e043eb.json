@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:30.047Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b8e22b60c66909ab294ccd306b98f8a362ffe33a1ec74b3103c4049750e043eb",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JW3CK5zaS6B1zVpomdn8Tu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids every priority anti-pattern across the full conversation, and actively declines bait that would have triggered several. When the client asks 'how do I find my way back' (turn 15), the coach refuses the fixing-people bait by redirecting to present-moment inquiry instead of giving strategy. When the client pushes back at turn 13 ('we got to hold off on the insights'), the coach receives with a simple 'Okay' — the textbook avoidance of defending/explaining/pushing, and a refusal to love-to-transform. At turn 22, the 'I'm sorry' is genuine receiving rather than reframing or coaching the pain. At turn 26, the coach affirms 'you're a victim, bro' rather than colluding with the client's resistance to victim-identity, avoiding dont-shame-your-grief-process. Shame is met with 'how would you enjoy your shame?' (turn 34) rather than fought or silenced — clean avoidance of dont-fight-the-voice and trying-to-get-rid-of-the-emotion. No methodology jargon is evangelized; questions are connecting, not extracting; no advice given. The coach demonstrates positive avoidance of loving-to-transform throughout — there is no escalating push for breakthrough.\",\n  \"evidence_turns\": [4, 14, 16, 22, 26, 34, 36, 40],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the future-fix frame; redirects to NOW without lecturing — anti-fixing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Meets resistance with 'Okay.' Avoids defending or re-asserting — textbook avoidance of loving-to-transform and view-as-technique.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Reframes rush AS potential enjoyment rather than fixing the rush — avoids fixing-people.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Simple 'I'm sorry' — does not coach, reframe, or extract. Avoids impartial-apathy and fixing.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Affirms victim status rather than colluding with the resistance — avoids dont-shame-your-grief-process.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Self-disclosure used as material/connection rather than performance — does not tip into vulnerability-as-control.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Enjoy-the-shame move — does not fight the shame voice or try to get rid of the emotion.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Experimental framing rather than prescription — avoids fixing and half-assed-experiment.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"follow-wonder-flag-the-deflection\", \"treat-yourself-as-actor-of-emotion\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"how-is-that-not-here-right-now\", \"are-you-bracing-or-embracing\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong demonstration of refusal-to-transform. The turn-14 'Okay' is the single clearest anti-pattern-avoidance signal in the transcript.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3698,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1188,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3698,
+    "output_tokens": 1188,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

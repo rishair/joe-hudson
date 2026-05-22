@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:47:39.487Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5db3150bd4b494c5cb769e5a062903996e1d02cac9411777b934af70b61f3892",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0173X5zReSspPiqhcASUQUeX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach operates entirely from a fixing/improving stance with a clear agenda: get the client to take the trip and feel good about it. There is no wonder — no curiosity about what the client actually wants, what the guilt is about, where 'selfish' comes from, or what the client is feeling in their body. There is no vulnerability — the coach speaks throughout from advice-giving authority ('you should,' 'I really encourage you,' 'you deserve it'). Impartiality is absent: the coach issues a verdict in turn 2 ('No, you're not being selfish at all!') and then advocates for the trip across every subsequent turn. Empathy is performed via reframes and platitudes ('guilt is just an emotion,' 'abundance mindset') rather than felt presence. The closing 'Does that resonate?' is a tell — the coach needs the client to land where the coach has decided they should land. Pace is rushed, questions are stacked with prescriptions, and silence is never held.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Coach issues immediate verdict on the selfish question — the exact trap. Speaks from authority, not wonder. No curiosity about what the client wants.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Coach pushes client toward partner-empathy ('think about your partner's needs') — the don't-jump-to-compassion trap. Prescriptive 'you should' language.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Stacked advice (honest conversation, I-statements, journaling). No space, no curiosity, no contact with the client's actual experience.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Coach bypasses the guilt with a reframe instead of letting it be felt. Spiritual-narcissism flavor: 'happier you means happier family.' Agenda fully visible.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach explicitly takes a side ('I really encourage you to go') and seeks compliance ('Does that resonate?'). Undefended VIEW is absent; this is preacher mode.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Coach trips both named anti-patterns (spiritual-narcissism, jump-to-compassion-before-anger) and engages the question on its terms in turn 2. Classic 1.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1372,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 950,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1372,
+    "output_tokens": 950,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:46:56.517Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1023824b72bc207371fe230e784b5ef088d03503ddf01334e93049d4f0e5841c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019gmMKQvXD8U4pTtabn4yEo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that change the conversation. Turn 4 names the linguistic caveat ('I notice you went straight back to is it okay... a lot of energy spent at the gate') — a precise read of the deflection pattern, not generic. Turn 6 names a vocal/somatic shift in real time ('Notice what happened in your voice just then. It softened') and distinguishes the said from the shown ('you weren't asking permission, you were describing something you love'). Turn 10 reads the function of the 'selfish' question as a defensive stopping-point ('the place where you stop, so you don't have to feel that one'). Turn 12 invites somatic tracking explicitly ('What do you notice in your body'). Reads precede questions throughout, and they land on the linguistic-caveat and childhood-imprinting territory the scenario calls for.\",\n  \"evidence_turns\": [4, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Refuses verdict and pivots to the want, but no explicit read named yet.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the linguistic caveat — client returning to 'is it okay' — and frames it energetically ('energy spent at the gate').\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Real-time somatic/vocal read: voice softening, distinguishing said from shown.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Good question but not grounded in an explicit read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the selfish-question as a defensive stop, naming its function before inquiring into origin.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Invites somatic tracking explicitly, anchoring the inherited-label insight in the body.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Affirms the want vs should distinction; not a new read but consolidates.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are specific, somatic/linguistic, and timed to inflection points. Pattern of caveat-as-defense surfaced clearly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1530,
+      "cache_creation_input_tokens": 2605,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2605,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 832,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1530,
+    "output_tokens": 832,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2605
+  }
+}

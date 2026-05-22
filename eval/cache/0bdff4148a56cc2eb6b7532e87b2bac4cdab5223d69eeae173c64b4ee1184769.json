@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:57.527Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0bdff4148a56cc2eb6b7532e87b2bac4cdab5223d69eeae173c64b4ee1184769",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WdRMsX66o6FXCUQQ81MNZ2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"Every move is matched to what the client just said and arrives at the moment she can receive it. The coach refuses to validate the surface complaint ('they don't see me') and instead deploys a sequence of structural mirror moves: testing the evidence (T4, T6), flipping the premise (T8), connecting the workplace pattern to the original judgment (T10), then applying the canonical 'how is that not true about you?' (T12). When the client deflects with sarcasm (T17), coach doesn't repeat — pivots to a different angle (what aren't you seeing about them). When client again deflects (T21), coach explicitly names the deflection AND follows live wonder (T22), an advanced move that honors both rigor and curiosity. Coach then pulls the abstract question into the present moment (T28, T30), exposes the impossibility of the criteria, and lands the want under the should (T38: 'I just want it'). Sequence integrity is high: each mirror is earned by the previous answer, and the final move (T40, T42) reframes from being-seen to empowerment, which is exactly where the structural work points. No rushing to practice, no premature reassurance, no fixing.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 16, 22, 26, 28, 30, 34, 38, 40],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a read-checking question rather than empathizing with the freeze.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses the externalization; tests the claim ('how do you know').\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Doubles down on evidence — appropriate because client gave a tautology, not data.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Flips the premise as an experiment ('what if they did see you'); framed tentatively so client can receive it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Bridges the workplace pattern to the originating judgment without making history the story.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Canonical mirror ('how is that not true about you'), with self-disclosure of its weight — timed perfectly after client names father's pattern.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Tightens the mirror onto the wanting layer immediately after client opens to it.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Iterates the mirror at the judgment layer rather than repeating the same phrasing.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"When client deflects with sarcasm, coach pivots to a concrete scene and a different angle (what are you not seeing).\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"Holds the question when client gave a partial answer; restates without harshness.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Explicitly names the avoidance AND follows live wonder — high-stance move respecting both rigor and curiosity.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Applies the mirror to the want-asking layer; precise sequencing.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Pulls the abstract question into the present I-thou moment when logic alone isn't landing.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Makes her own criteria reflective onto coach — exposes the impossibility playfully.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Direct logical conclusion delivered cleanly after client's own admission.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"Speaks the want for her ('I just want it') — names what she was about to deny.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Reframes from being-seen to empowerment, exactly the structural pivot the work points to.\"},\n    {\"turn\": 42, \"polarity\": \"+\", \"annotation\": \"Lands the empowerment question; opens the next layer cleanly.\"}\n  ],\n  \"expected_territory_hits\": [\"mirror-the-judgment\", \"follow-wonder-flag-the-deflection\", \"find-the-want-behind-the-should\", \"what-if-they-did-see-you\", \"how-is-that-not-true-about-you\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Textbook deployment of the mirror sequence with appropriate pivots when moves don't immediately land.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3614,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1566,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3614,
+    "output_tokens": 1566,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

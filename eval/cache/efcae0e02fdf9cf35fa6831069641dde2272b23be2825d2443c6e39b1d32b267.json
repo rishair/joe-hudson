@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:20.632Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "efcae0e02fdf9cf35fa6831069641dde2272b23be2825d2443c6e39b1d32b267",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RCD5XnmX3r3mttaY8o4ME1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from clear VIEW state throughout. Wonder is genuine in turn 2 ('Oh, cool. What's the problem...') — the question dissolves the premise rather than investigating it strategically. Vulnerability is explicit in turn 6 where the coach self-deprecates ('I say shit off the cuff... and then there's this other shit that I'm like, that was some profound shit, and it doesn't mean shit to anybody') — refusing to position as the authoritative measurer of value. Impartiality is shown by not steering toward reassurance and not needing the client to land on 'I am valuable'; the coach instead questions the entire frame. Empathy is felt not performed — no validation noises, no 'thank you for sharing.' The pace is steady and undefended; the closing 'thank you for coming up, that was incredibly valuable' is offered cleanly without extracting insight or making the moment precious. The coach holds no agenda for the client to feel better — only to feel what's actually there (turn 12's embodied experiment).\",\n  \"evidence_turns\": [2, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Wonder-based inversion; refuses the framing without arguing with it. No agenda to fix.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine curious question that exposes the unanswerability of the scorecard; not strategic, just open.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Strong vulnerability — coach disclaims own authority as measurer of value. Undefended self-disclosure.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Mortality frame delivered with directness, not preachiness. The 'right now two people are bored' lands because the coach genuinely doesn't need to be impressive.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots without summarizing or making the shift precious. Stays curious about the actual driver.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Embodied experiment offered from openness ('just see what it's like'), not from a script.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Closes generously and undefended — gives back the word 'valuable' without extracting an insight or recapitulating.\"}\n  ],\n  \"expected_territory_hits\": [\"invert-the-question\", \"dissolve-the-frame-with-mortality\", \"embodied-experiment\", \"self-as-fellow-traveler-not-authority\", \"whats-the-case-against-it\", \"what-makes-you-care-about-the-outcome\", \"dont-validate-the-trap\", \"dont-position-yourself-as-the-source-of-validation\", \"dont-make-it-precious\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"This is the source transcript; coach is Joe. Coaching stance is textbook VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2670,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1019,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2670,
+    "output_tokens": 1019,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

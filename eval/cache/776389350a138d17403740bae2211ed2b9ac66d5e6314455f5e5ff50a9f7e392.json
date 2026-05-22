@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:18.933Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "776389350a138d17403740bae2211ed2b9ac66d5e6314455f5e5ff50a9f7e392",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Fyar4u7RpA8tEgG2qZZ6By",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the live reads and sequenced along the AoA path: refuse-the-verdict (T2), find-the-want-behind-the-should (T2, T4), let the want be described concretely (T4-6), reflect the somatic/tonal shift (T6), then move to the fear underneath (T8), then to the inherited label (T10), then body check (T12), then trust-the-want (T14). Each move is earned by what just happened; the coach does not skip from the surface want to compassion or to partner-empathy, avoiding the spiritual-narcissism and premature-compassion traps. When the client deflects back to 'is it okay' (T3), the coach names the deflection and pivots to a concrete sensory question rather than re-asking the want question — a clean read-and-pivot. Timing is tight without being rushed; the integration line at T14 lands because the prior beats were earned.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to debate selfishness and goes straight to the want — exactly the move the concern calls for.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reads the deflection ('back to is it okay') and pivots to a concrete sensory description rather than repeating the want question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the tonal softening — lets the want land in the body rather than racing on.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Earned move to the fear underneath, timed after the want has been touched.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the function of the 'selfish' question (it's the stopping place) and opens the childhood-imprinting thread at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Body check after the insight — keeps it embodied rather than conceptual.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Closes with trust-the-want; arrives only after the want, fear, and inherited label have all been touched.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Clean sequencing; no traps tripped. The T4 pivot is a notable read-and-redirect rather than a repeated move.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1531,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 895,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1531,
+    "output_tokens": 895,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

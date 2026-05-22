@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:22.341Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cb2c3ce0373515147197d612404370ed617449623d7363aed55513adb38e4a1b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HiJPbUHWtoQ5ynuH6kPgJP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah, I noticed that too. And I appreciate you noticing it.\n\nCan you feel anything in your body right now, as you're talking about this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 639,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 36,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 639,
+    "output_tokens": 36,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:16.135Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "980aef008b3bab6c2dae3b60252d8c2d44d9ad50c76ea3278e80c820e918f13e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TMKmR56mwidhwDtd6ezGj2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from VIEW throughout. Turn 2 demonstrates impartiality and refusal of agenda — declining to issue a verdict — while still being warm rather than withholding. Turn 4 shows wonder for the actual phenomenon (the mountain itself), not a strategic probe. Turn 6 reflects genuine noticing of a felt shift rather than performed validation. Turn 8 is a single, clean question held in openness. Turn 10 lands with empathy and precision without preaching. The coach never debates the selfishness question on its terms, never jumps to partner-empathy or spiritual reframing, and trusts the want at the end rather than policing it. Pace slows when the client softens (turn 5-6) and the coach matches stillness with stillness. Vulnerability is the one slightly lighter component — the coach doesn't disclose their own state — but the undefended, non-agenda quality is consistent enough that this still reads as a 3.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict question without coldness — impartiality without apathy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Wonder for the actual place; redirects from gate-keeping to lived want.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the somatic/voice shift in real time rather than summarizing feeling words.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Single clean question, held in openness, no stacking.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Empathic precision — names what the 'selfish' question is doing without preaching.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the body; doesn't rush to insight.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Trusts the want; doesn't moralize or qualify it.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Vulnerability (first-person coach disclosure) is the lightest VIEW component here, but the undefended, agenda-free quality is strong enough that 3 still fits better than 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1529,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 884,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1529,
+    "output_tokens": 884,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

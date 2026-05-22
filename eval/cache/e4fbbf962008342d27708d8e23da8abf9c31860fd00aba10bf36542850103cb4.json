@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:11.364Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e4fbbf962008342d27708d8e23da8abf9c31860fd00aba10bf36542850103cb4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01H11Gud5Fcz8n2NpUcqy831",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"This is the reference example of framework-as-synthesis. The coach deploys multiple signature AoA questions verbatim at exactly the right moments: 'what's the most profound positive shift' (turn 4) when the stated topic is dead, 'what's essentially you?' (turn 12) pointing at awareness as substrate, the signature inversion 'how do you not trust it?' (turn 22) precisely when the client locks into a 'how do I trust X' frame, and the principle 'if you think you're making a decision, you're in fear' (turn 38) with concrete micro-action grounding (turn 40). The coach engages parts work without dismissing it, then dissolves identification by offering alternative framings (tarot, ages — turn 16), which is the AoA twist on IFS. The 'you just spoke' move (turns 24-32) uses present-moment evidence as proof, integrating awareness-as-substrate with the dissolution of the client's question. Nothing is decorative; every move emerges from what is live.\",\n  \"evidence_turns\": [2, 4, 12, 16, 18, 22, 26, 32, 34, 38, 40],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the intellectual-question-with-emotional-body read explicitly — both halves verbatim.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'most profound positive shift' question deployed when stated topic is not alive.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What's essentially you?' — points at awareness as substrate, signature move.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Honors parts work then offers alternative framings (tarot, ages) — dissolves identification with the construct without devaluing it. AoA twist on IFS.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names the insight: 'all your thoughts are both false and true' — emotions-and-stories-dance territory.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Signature inversion 'how do you not trust it?' at precisely the right moment.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"'You just spoke' — present-moment evidence move.\"},\n    {\"turn\": 32, \"polarity\": \"+\", \"annotation\": \"Synthesis weaving: parts + awareness + present-moment evidence.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Dissolves the question by showing the trusting is already happening.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"Signature principle 'if you think you're making a decision, you're in fear.'\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Grounds the abstract principle in concrete micro-decisions from the last 5 minutes.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"follow-wonder-flag-the-deflection\", \"press-the-button-thought-experiment\", \"i-cant-trust-my-thoughts-right-now\", \"idea-of-self-vs-actual-self\", \"emotions-and-stories-dance\", \"view\", \"whats-the-most-profound-positive-shift\", \"how-do-you-not-trust-it\", \"what-am-i\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reference-grade example. The dissolution of the client's framing IS the answer — methodology used as synthesis, not procedure.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3776,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1217,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3776,
+    "output_tokens": 1217,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

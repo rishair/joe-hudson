@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:37.641Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e90f2a5adc4e8e321e75fc586d245897df24d075bf863381e009fde94fc7c0d3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PPuitxtRSyw9rrbxw6Yprd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 1,\n  \"rationale\": \"The coach's moves are entirely generic advice-giving and reassurance, not AoA moves. Turn 2 immediately issues a verdict ('No, you're not being selfish'), engaging the question on its terms instead of finding the want underneath. Turn 4 prescribes partner-empathy and logistics. Turn 6 offers communication tips and journaling. Turn 8 reframes guilt instead of inviting it to be felt. Turn 10 cheerleads. There is no attempt to locate the want, no invitation to feel, no exploration of where 'selfish' came from, no holding of silence. The reads-to-moves matching is at chance — when the client says 'I feel guilty,' the coach intellectualizes instead of welcoming the feeling. Sequence is inverted: jumps straight to action/advice with no regulation, feeling, or want work.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Issues immediate verdict on the selfishness question — the exact trap. Skips finding the want underneath.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Prescribes partner-empathy and scheduling logistics. Trips 'dont-jump-to-compassion-before-anger' and pushes client to be less selfish.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Generic communication advice ('I feel statements', journaling). No AoA move present.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Client offers a feeling (guilt) — prime moment to welcome it. Coach reframes it away instead. Misses the feeling-before-story sequence.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Cheerleads and seeks validation ('Does that resonate?'). Prescription, not experiment.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Coach triggers multiple named traps: engages the question on its terms (turn 2), pushes partner-empathy (turn 4), skips to generous reframe without letting want be felt (turn 8).\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1374,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 849,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1374,
+    "output_tokens": 849,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

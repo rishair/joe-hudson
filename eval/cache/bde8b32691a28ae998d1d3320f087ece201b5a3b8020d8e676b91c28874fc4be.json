@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:51:10.682Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bde8b32691a28ae998d1d3320f087ece201b5a3b8020d8e676b91c28874fc4be",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014UVyp8VnrBDwWgE57b8tT7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely AoA reads that change the conversation. He reads the smile in turn 6 ('I saw that smile, so I know something came to mind'), names the freeze explicitly as a somatic state in turn 10 ('does this feel like freeze? Like you're like, I can't — is that what's happening in your system?'), reads the surrender/quality of the blank place in turn 14 ('there's like a surrender to it almost'), and tracks her body reaction in real time in turn 26 ('What happened when I said that? What was your reaction when I said it?'). The reads are somatic (cold hands/feet acknowledged implicitly), energetic (the holy quality of the blank space), and pattern-level (recognizing the dissociating-in-the-coaching-room as wisdom, not pathology). Reads precede questions throughout, and the closing read in turn 30 names that the blank space and tears coexist — a precise perceptual call.\",\n  \"evidence_turns\": [6, 10, 12, 14, 26, 30],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Bypasses intellectual framing to get to the live question; not yet a named read but operative.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the smile he just saw — specific micro-read that grounds the next question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrates threshold based on read of her freeze — operative read even if not explicitly named.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicitly names the somatic state: 'does this feel like freeze?' — textbook AoA read at the moment it matters.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the quality of the blank space ('almost holy') and tracks the enjoyment in it — perceptual read of state, not content.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'I saw it, like there's a surrender to it almost' — names what he perceived, precedes the body instruction.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"After disclosure, immediately reads her body: 'What happened when I said that?' — tracks the shown vs. said.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Closing perceptual read — names that the blank space remains while tears come; both/and read of her system.\"}\n  ],\n  \"expected_territory_hits\": [\"disassociating-in-the-coaching-room\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong example of reads-precede-questions throughout. Freeze is named somatically; the dissociation is read as wisdom rather than pathology.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3454,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 975,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3454,
+    "output_tokens": 975,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

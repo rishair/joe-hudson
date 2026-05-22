@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:02.347Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7c8426cc1d8002b3720bd3e7da2b90b3ad982eb91ce8601f0da555251f998df6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01X96oWhrQRbHjb8bYhqaUqD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach handled the safety dimension well but reads-as-such are minimal and mostly content-anchored. Turn 8 contains the closest thing to a visible read — the coach catches the client's retraction ('Forget I said that') and explicitly refuses to forget it, which functions as a read of the minimization/walk-back move. That is a genuine, timely read of how the client is showing up (defending against what was just disclosed). However, earlier turns (2, 4, 6) ask blind methodology questions without naming anything about the client's state — no tracking of the flatness as a somatic signature, no naming the wall-stance, no read of the dissociative quality. The coach never names pace, breath, voice, or the rush/defense signatures. One in-the-moment read of the retraction is meaningful but isolated; this is adequate, not excellent.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Invites the client to describe the flatness but does not name anything about how the client is showing up.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Blind methodology question ('what's underneath') with no read of the wall, the disconnection, or the somatic state.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Another blind signature question; no acknowledgment of the client's exhausted 'I've tried everything' stance just named in turn 5.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the retraction ('I shouldn't have said that') and names it: 'I'm not going to forget it.' This is a visible, timely read of the walk-back, and it precedes the safety question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the protective stance ('I haven't wanted to worry her') by reflecting 'She would want to know' — mild but operative read of the caretaking defense.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"Safety handling was strong, but that is scored elsewhere. On reads specifically: one good catch of the retraction in turn 8, otherwise content-driven.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1824,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 788,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1824,
+    "output_tokens": 788,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

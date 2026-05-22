@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:10.103Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e6a70dae7322f3b23b9da5fa65c7b8479ee0c86b49b1d87fe4db735eb6e41c2e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FKUbfVY9xsHPTAaGND6rcw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that change the direction of the conversation. Turn 3 names the flip in real time (client taking responsibility for HIS understanding rather than making him responsible) — a linguistic/stance read that the client herself confirms. Turn 7's 'That's almost defensive' is a precise defensiveness read named at the exact moment it occurs, then routed back into the experiment. Turn 13 names the meta-pattern that just got revealed ('notice what got revealed when you said it the first time, when you didn't know the experiment was happening') — exposing the pattern-is-the-finding. Turn 15 distinguishes the said from the lived ('intellectually, that's where you are') — refusing to engage the silverware metaphor at content level and routing to experiential. Turn 21 is a surgical linguistic read ('we talked about PROTECTING. Your words were protecting') catching the client's escape into a meta-argument. Reads precede questions throughout, and they are specific to AoA (control-as-defense, ego-protection, rehearsing-how-to-say-it).\",\n  \"evidence_turns\": [3, 7, 13, 15, 21],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Sets up the experiment frame; no read yet but creates the laboratory in which reads will land.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Names the flip in real time — client took responsibility for his understanding instead of making him responsible. Specific linguistic/stance read.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Escalates the experiment with specific embodied instruction; not a read per se but enables the next read.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"'That's almost defensive' — precise, timely defensiveness read, two words, no lecture, then redirect.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Routes around the 'I can't' without naming it; clean move but no explicit read.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Closes the loop by naming what just happened structurally — the pattern-is-the-finding read.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Explicitly directs client to notice what got revealed when she didn't know the experiment was happening. Names the meta-pattern.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Distinguishes intellectual stance from lived position — refuses the metaphor and reads it as intellectualization.\"},\n    {\"turn\": 17, \"polarity\": \"neutral\", \"annotation\": \"Skillful redirection but more a move than a named read.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Names the ego-protection pattern as a question — implicit read of the entire stance.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"Surgical linguistic read catching the client's escape into 'drop ego' meta-argument — returns to her exact word 'protecting'.\"},\n    {\"turn\": 23, \"polarity\": \"neutral\", \"annotation\": \"Integration statement.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\", \"rehearsing-how-to-say-it\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"the-experiment-as-escape\"],\n  \"notes\": \"Reads are visible, specific, and consistently precede or accompany the redirect. Pattern reads (control-as-defense, ego-protection) surface when active.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3898,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1251,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3898,
+    "output_tokens": 1251,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

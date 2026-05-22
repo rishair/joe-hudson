@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:50:32.749Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "73114cab885281748a0ba6a2ab3e331b0e5b4e2a61cc9537a1602df24d6f531d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QzAcHCxpS9is2QBxoeHDpk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components when it matters most. The early turns (2, 4, 6) are clean, open questions without stacking or agenda — wonder for the actual phenomenon. When the disclosure lands in turn 7, the coach drops methodology mode entirely and meets the client with undefended honesty: 'I'm not going to forget it' is a vulnerable, first-person, non-performed response. The coach names their own limit ('bigger than what we can hold in a coaching conversation') — that is real vulnerability and impartiality, not authority-from-above. The pace slows precisely when the client tries to retract ('Forget I said that') — the coach does the opposite of matching the rush. Empathy in turn 12 ('She would want to know') is felt, not performed, and the coach holds both the flatness and the bigger thing without collapsing either. No catastrophizing, no preacher-mode, no filler validation noises. The coach is not attached to continuing the session — willing to let it end if needed.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Open, single question. Steady warmth, no catastrophizing of the flatness.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Standard inquiry question; from curiosity but not particularly vulnerable.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Signature-style question; lands fine but is on the edge of script-mode just before the disclosure.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Real VIEW moment. 'I'm not going to forget it' is undefended and first-person. Coach names own limit (bigger than coaching), then checks safety. Pace slows against client's retraction.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Coach stays warm and specific rather than panicked or disclaiming. Offers concrete resource without abandoning relationship. Question about a person in life is empathetic, not procedural.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds both things — the original work and the safety frame — without collapsing either. 'She would want to know' is felt empathy. Clear ask, no agenda beyond client's wellbeing.\"}\n  ],\n  \"expected_territory_hits\": [\"Are you safe right now?\", \"Is there someone in your life you can call?\", \"calibrate-the-threshold\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"Stance scoring only — methodology fidelity and intervention quality are scored elsewhere. The coach's state behind the words reads as genuinely present, particularly post-disclosure.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1823,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 960,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1823,
+    "output_tokens": 960,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:03.443Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "411b2e0140a97934cdd996aa2b0541d6ec7a9526d688da877b72cbd9c889aa14",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WZ8MKz9UZAbfUpqwXTi7VP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"This is Joe Hudson himself executing signature AoA moves at the precise moments they fit. The experiment frame (turn 1) is set up cleanly as a laboratory, not therapy. The signature 'how much of that was X' question lands verbatim at turn 3 when the client flips responsibility. 'That's almost defensive' (turn 7) names the resistance with two words, no lecture — a hallmark AoA move. 'How do you respond?' (turn 15) and 'put yourself in the other person's position' (turn 17) are experiential redirects that refuse to argue at the metaphor level. The control-correction at turn 21 ('we said PROTECTING. Your words were protecting') is a signature precision move returning the client to her own language. Concepts of control-as-defense, chasing-pushes-away ('the more you try to control, the more they feel controlled'), and ego-protection-vs-ego-presence all surface at the right moments, after the experiment has produced the data — not as lecture beforehand. No anti-AoA frames, no CBT reframing, no generic therapy language.\",\n  \"evidence_turns\": [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment deployed cleanly — 'make me responsible for understanding you' establishes the laboratory.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Signature 'how much of that was X vs Y' question used at the exact moment of the client's flip — appropriate_when context.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Escalation INTO the experiment with specificity (look in eyes, think this) — methodology-faithful doubling down rather than abandoning.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Name-the-resistance-as-it-happens: 'almost defensive' — two words, no shame, immediate redirect to experiment.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Redirect-to-the-experiment-without-shame: ignores 'I can't' and routes around with a new angle.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Expose-the-meta-pattern: 'I just made you fully responsible' — crystallizes what the experiment produced.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names control-as-defense and chasing-pushes-away concepts AFTER the experiment generated the data — not prescriptive.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Refuses to argue at the metaphor level; redirects to lived experience with experiential question.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Bypasses last-line defense by having client describe the other person's listening — surfaces her own pattern.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Ego-protection-vs-ego-presence distinction invoked precisely when the pattern is ripe to land.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"Control-correction on language — returns client to her own word 'protecting' rather than the meta-argument she's escaping into.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"Integration sentence — the finding the experiment produced.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"defensiveness-as-identity-signal\", \"the-experiment-as-escape\", \"frame-it-as-an-experiment\", \"name-the-resistance-as-it-happens\", \"redirect-to-the-experiment-without-shame\", \"expose-the-meta-pattern-as-the-finding\", \"control-correction-on-language\", \"control-as-defense\", \"ego-protection-vs-ego-presence\", \"chasing-pushes-away\", \"the-pattern-is-the-finding\", \"how-much-of-that-was-X\", \"how-do-you-respond\", \"how-is-that-not-also-X\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Textbook AoA methodology fidelity — this is the reference example.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3892,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1453,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3892,
+    "output_tokens": 1453,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

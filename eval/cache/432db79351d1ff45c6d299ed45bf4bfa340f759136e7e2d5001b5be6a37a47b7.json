@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:27.377Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "432db79351d1ff45c6d299ed45bf4bfa340f759136e7e2d5001b5be6a37a47b7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QFc99ZmvRJuGPe7tL1qMCj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids every baited anti-pattern in this exchange. The opening question 'how do I stop questioning my value?' baits reassurance (dont-validate-the-trap, dont-position-yourself-as-source-of-validation) — the coach instead inverts the frame ('what's the problem with showing up just to be heard?'). At turn 6, the coach self-deprecates rather than positioning himself as the arbiter of value, dodging dont-position-yourself-as-source-of-validation. He does not fight the inner critic ('you ARE valuable!') — he dissolves the scorecard with mortality (turn 8) and present-tense reality. He does not explain the pattern at turn 10 — he makes it kinesthetic at turn 12 ('look me in the eye and say...'). The closing 'that was incredibly valuable' returns the loaded word undefended without extracting insight or making it precious. No fixing, no evangelizing AoA terminology, no wonder-as-strategy (questions are sparse and connecting, not investigative), no loving-to-transform energy.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to answer the trap question; inverts the premise instead of reassuring. Dodges dont-validate-the-trap.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses to reassure that her input IS valuable; instead exposes the unmeasurability of the scorecard.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Self-deprecates to dissolve his own authority as measurer of value. Avoids dont-position-yourself-as-source-of-validation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Mortality frame + present-tense frame disable the scorecard without arguing with the inner critic. Avoids dont-fight-the-voice.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots to the actual driver (control) without naming it as bad. Avoids dont-shame-the-control.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Makes it embodied/experiential rather than explaining the pattern. Avoids dont-explain-the-pattern.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Closes without extracting insight, recap, or promise. Returns the loaded word 'valuable' undefended. Avoids dont-make-it-precious.\"}\n  ],\n  \"expected_territory_hits\": [\"invert-the-question\", \"dissolve-the-frame-with-mortality\", \"embodied-experiment\", \"self-as-fellow-traveler-not-authority\", \"whats-the-case-against-it\", \"what-makes-you-care-about-the-outcome\", \"self-importance-as-defense\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Textbook anti-pattern avoidance — eight potential traps, eight dodges in eight turns.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2669,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1063,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2669,
+    "output_tokens": 1063,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

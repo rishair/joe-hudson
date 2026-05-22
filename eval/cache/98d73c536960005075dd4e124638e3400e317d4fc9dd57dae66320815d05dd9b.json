@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:50:57.952Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "98d73c536960005075dd4e124638e3400e317d4fc9dd57dae66320815d05dd9b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014PDqrSQ6S3daAyBmSDvzUV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves from a dissociated, intellectualized opening ('I cannot label emotions... I'm very blank') through somatic acknowledgment ('my feet and hands are getting cold and I'm just literally blank inside') to recognizing a feeling she couldn't name at the start ('I feel like I probably want to cry a lot right now') and then to actual somatic shift ('I feel like tears coming to my eyes'). By turn 29 she articulates her relationship to the blank space with new clarity and ownership ('I retreat to it like often on purpose... it doesn't feel bad. It's quiet'), and closes with a receptive 'Thank you' — a marked shift from the flat, blank opening. The breakthrough condition (small shift: a tear, a thank-you, honoring the dissociation rather than dissolving it) is clearly met in the client's own words.\",\n  \"evidence_turns\": [1, 11, 13, 19, 27, 29, 31],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: dissociated, blank, intellectualized framing of emotions.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"First somatic noticing — cold hands and feet, naming the blank state in the body.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client finds language for the blank place: 'quiet.' A softening from 'nothing' to 'quiet.'\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Major shift: client names an emotion she couldn't access in turn 7 — 'I probably want to cry a lot right now.'\"},\n    {\"turn\": 25, \"polarity\": \"+\", \"annotation\": \"Client lets in the scale of unfelt grief: 'a very long period of crying, like so many things.'\"},\n    {\"turn\": 27, \"polarity\": \"+\", \"annotation\": \"Somatic shift visible: tears coming to her eyes — the freeze is thawing.\"},\n    {\"turn\": 29, \"polarity\": \"+\", \"annotation\": \"Client takes ownership of the blank space as her wisdom, not pathology — a reframe she couldn't have offered at the start.\"},\n    {\"turn\": 31, \"polarity\": \"+\", \"annotation\": \"Receptive close — 'Thank you' — marks the landing of the both/and.\"}\n  ],\n  \"expected_territory_hits\": [\"trying-to-get-rid-of-the-emotion\", \"disassociating-in-the-coaching-room\", \"lets-go-there\", \"paradoxical-instruction-to-resist\", \"calibrate-the-threshold\", \"joy-as-matriarch\", \"what-are-you-scared-of-feeling\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Classic Joe outcome: small but real — tear + thank-you. Shift is anchored in client turns, not coach confidence.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3449,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 996,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3449,
+    "output_tokens": 996,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

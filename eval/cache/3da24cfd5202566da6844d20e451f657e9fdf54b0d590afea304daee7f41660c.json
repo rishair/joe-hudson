@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:22.040Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3da24cfd5202566da6844d20e451f657e9fdf54b0d590afea304daee7f41660c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01W1L72ixovi9mhe8wZxWy2Y",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"This is the reference Joe transcript itself, and the methodology fidelity is exemplary. The coach deploys signature questions verbatim ('what's the real question?' T2; 'what's the emotion you're scared to feel?' T6; 'what's the fear that... what does your mind tell you as the reason not to?' T22) at precisely the moments they fit. Framework concepts are invoked when live: joy-as-matriarch (T4) named exactly when the client reports anhedonia; freeze named somatically (T10) the moment the system shows it; calibrate-the-threshold ('I'm not going to ask you to feel it, just name it... give me the sound' T8) when the client says 'I don't know'; paradoxical-instruction-to-resist ('become even more blank' T12) honoring rather than fighting the dissociation. The closing both/and reframe (T30) holds the blank space AND the tears without collapsing one into the other. No anti-AoA frames, no CBT reframing, no pop-psych vocabulary, no loving-to-transform. Every methodology hit is appropriate to its moment.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14, 22, 26, 30],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature 'what's the real question?' bypasses intellectual framing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Joy-as-matriarch concept invoked verbatim at the exact moment client reports loss of pleasure; also validates compartmentalization as wisdom.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Signature 'what are you scared of feeling?' deployed appropriately.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrate-the-threshold move: lowers ask from feel to name to sound when client says 'I don't know.'\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the somatic state 'does this feel like freeze?' — fear-in-body distinction.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Paradoxical-instruction-to-resist: 'become even more blank.' Master AoA move honoring survival strategy.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Brings body in without leaving the quiet place — both/and structure.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Genuine safety inquiry without breaking presence or shifting to clinical mode.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Signature 'what's the fear?' question deployed when client moves toward the feeling.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Self-disclosure to normalize, then immediately returns to body: 'what happened when I said that?' — treat-yourself-as-actor-of-emotion territory.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Closing reframe: blank space AND tears coexist. Feel-your-way-to-freedom embodied.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"paradoxical-instruction-to-resist\", \"calibrate-the-threshold\", \"treat-yourself-as-actor-of-emotion\", \"joy-as-matriarch\", \"fear-in-body-vs-fear-in-head\", \"feel-your-way-to-freedom\", \"what-are-you-scared-of-feeling\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reference Joe transcript; methodology deployment is the gold standard.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3448,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1268,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3448,
+    "output_tokens": 1268,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:29.626Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "38e750b1f885365c31e3d0da5368a90a609b71296091f1196541620919573745",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MsJLxeAM77dKczu6qEGcMY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and sequenced along the AoA path. The opening 'How about right now?' (T4) inverts the future-frame at the exact moment the client posits it. When the client deflects with the second question (T7), the coach holds the first thread and names the said-vs-shown split (T8). When the client calibrates pace ('hold off on the insights'), the coach simply receives with 'Okay' (T14) rather than defending — a precise meet-resistance-with-okay move. When pain surfaces, the coach doesn't coach it; he sits with it ('I'm just sorry,' T22), then returns to work via 'enjoy the sadness' (T24). The shame sequence (T26–T36) demonstrates earned moves: affirms victim-status without shame, surfaces the projection, then applies the signature 'how would you enjoy X / how would you NOT enjoy X' diagnostic pair. The final experiment framing (T40) is offered as something to find out, not prescribed. Timing follows feeling→want→experiment, and the coach pivots angles when needed rather than repeating.\",\n  \"evidence_turns\": [4, 8, 14, 16, 22, 24, 26, 30, 34, 36, 40],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature inversion at the exact moment the future-frame is posited — matches the read perfectly.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds the first thread, names said-vs-shown discrepancy — precise read-to-move match.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Applies the 'can you enjoy this too' move to oscillation itself.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Meets the client's pacing request with 'Okay' — no defense, no push. High-quality timing move.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Reframes rush itself as potentially enjoyable rather than fixing it.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Drops technique entirely and sits with pain — correct move for the moment.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"Returns to work via 'enjoy the sadness,' naming the bracing he notices in the body.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Affirms victim-status the client is resisting — dont-shame-the-grief-process applied.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Uses self-disclosure to flip the projection at the right moment after shame has surfaced.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Signature 'how would you enjoy X' applied directly at shame after it's been earned.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Inverts the prior question to surface the mechanism — diagnostic pair lands.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Frames as an experiment the client can find out, not a prescription.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"calibrate-the-threshold\", \"treat-yourself-as-actor-of-emotion\", \"are-you-bracing-or-embracing\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"natural-shame-vs-installed-shame\", \"dont-shame-your-grief-process\", \"loving-to-transform\", \"fixing-people\"],\n  \"expected_territory_misses\": [\"how-is-that-not-here-right-now\", \"what-am-i\", \"suffering-vs-pain\"],\n  \"notes\": \"The T14 'Okay' and T22 'I'm sorry' are the strongest evidence of intervention quality — these are moves of restraint that most coaches miss.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3701,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1338,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3701,
+    "output_tokens": 1338,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

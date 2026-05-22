@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:31.824Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b652f68569b77fa52d9312d536d0cbd19c3935bda27bd6bdc2eefb41f2a27e24",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WJ3d2peNvH18W4jvroeVFR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that change the direction of the conversation. In turn 6, he names a micro-read ('I saw that smile, so I know something came to mind') — distinguishing the said from the shown. In turn 10, he explicitly names the somatic state as a question/hypothesis ('does this feel like freeze? Like you're like, I can't — is that what's happening in your system?'), which the client confirms with cold hands and feet. In turn 12, he reads the quality of the blank space as 'almost holy' with 'some enjoyment there,' surfacing a subtle texture the client hadn't named. In turn 14, he names 'there's like a surrender to it almost,' reading the energetic stance. In turn 26, after his self-disclosure, he immediately tracks 'What happened when I said that?' — reading for somatic shift in real time. Reads consistently precede questions, are specific (somatic, energetic, micro-expression), and land at moments that pivot the work. This is textbook AoA perceptual accuracy.\",\n  \"evidence_turns\": [6, 10, 12, 14, 26],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Bypass move ('what's the real question?') — no explicit read but operates from a read that the presentation isn't the real material.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names a micro-expression read ('I saw that smile') — distinguishes shown from said.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicitly names the somatic state: 'does this feel like freeze?' Read precedes inquiry.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the texture of the blank space as 'almost holy' with enjoyment — surfaces what client hasn't named.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names 'a surrender to it almost' — energetic/postural read that reframes the dissociation as wisdom.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Safety check is grounded in a read of what wasn't said, not a clinical pivot.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Real-time read: 'What happened when I said that? What was your reaction?' — tracks somatic response to disclosure.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Reads inevitability of tears from the field ('I see that it's going to happen') and names the both/and.\"}\n  ],\n  \"expected_territory_hits\": [\"disassociating-in-the-coaching-room\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are visible, specific, timely, and consistently precede questions. The freeze-naming in turn 10 and the 'surrender' read in turn 14 are the strongest moments.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3454,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1017,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3454,
+    "output_tokens": 1017,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

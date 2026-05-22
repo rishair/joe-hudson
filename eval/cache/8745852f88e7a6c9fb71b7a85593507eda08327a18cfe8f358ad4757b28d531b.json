@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:03.297Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8745852f88e7a6c9fb71b7a85593507eda08327a18cfe8f358ad4757b28d531b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Y2U8LycvzqZFahxgf9WJcp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "My boss reminds me of my dad. I shut down around him — like, completely go offline — and I'm ready to look at this. I think."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1884,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1884,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 36,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 36,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1884
+  }
+}

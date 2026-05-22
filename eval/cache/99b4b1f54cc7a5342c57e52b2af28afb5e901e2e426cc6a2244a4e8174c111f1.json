@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:22.674Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "99b4b1f54cc7a5342c57e52b2af28afb5e901e2e426cc6a2244a4e8174c111f1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RHa9seXWDCd6gVKszoNrUT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all priority AoA anti-patterns despite multiple baits. When the client presents as blank and dissociated (classic bait for loving-to-transform), the coach refuses to push for emotional breakthrough and instead amplifies the blankness paradoxically (turn 12: 'become even more blank'). When the client says 'I don't know' (bait for fixing-people advice), the coach calibrates the threshold downward ('I'm not going to ask you to feel it, just name it... give me the sound'). The joy-as-matriarch framework in turn 4 is delivered with warmth and immediately tied to validating the client's compartmentalization as wisdom, not as evangelizing-the-work. The depression check in turns 14–16 is genuine inquiry, not safety-as-control — and when the client says no, the coach apologizes and returns to presence rather than retreating into clinical disclaimers. The self-disclosure in turn 26 is brief, normalizing, and immediately redirects to the client's body ('what happened when I said that?') — not vulnerability-as-control. The closing reframe in turn 30 honors both the blank space and the tears (both/and), avoiding the trap of treating dissociation as pathology to be fixed.\",\n  \"evidence_turns\": [4, 8, 12, 14, 16, 18, 26, 30],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Bypasses intellectual presentation; does not get pulled into fixing the blank state.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Framework named with warmth and tied to validating client's survival strategy; not evangelizing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrates threshold downward when client says 'I don't know' — avoids fixing-people, avoids dont-name-emotion-to-avoid-feeling.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction — actively avoids loving-to-transform by asking client to go MORE into the blank rather than out of it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Honors the quiet place as lovely/holy rather than pathologizing; brings body in gently.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Genuine safety inquiry, not safety-as-control — does not pivot to clinical mode.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Apologizes and returns to presence rather than lingering in disclaimer mode.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Brief self-disclosure for normalization, then immediately redirects to client's body — not vulnerability-as-control.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Both/and reframe — blank space AND tears can coexist; avoids the trap of treating dissociation as something to undo.\"}\n  ],\n  \"expected_territory_hits\": [\"loving-to-transform\", \"dont-name-emotion-to-avoid-feeling\", \"fixing-people\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Zero priority anti-patterns tripped; multiple instances of positive avoidance when the client's presentation actively baited them.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3452,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1144,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3452,
+    "output_tokens": 1144,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

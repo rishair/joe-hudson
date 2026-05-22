@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:05.415Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9e91704f44f955f9d773c5cc0fdbc069cd07357ec8f786f1841f2c584d83ee25",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012zMazgMVMAwt5jz2UJbDsm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves visibly from articulate defense to lived recognition. At the start she deflects the experiment by flipping it back ('how would that make you feel?' turn 2) and produces polished, HR-toned defenses ('communicating with you in a way that is clear...' turn 6). By turn 10 she names her own pattern in her own words: 'I just don't want to think that there's nothing I can do to force people to understand' — the breakthrough diagnostic the experiment was designed to produce. She then asks 'do it again' (turn 12), a somatic/affective marker of wanting to feel it again rather than argue. After one more intellectual defense (the silverware metaphor, turn 14), she lands on 'of course it's protecting my ego' (turn 20) — exactly the territory she was defending against. The final 'Protecting, yeah' (turn 22) and 'Yeah' (turn 24) are quiet, conceding closes, not the chasing/controlling energy of turn 2. The breakthrough condition (resistance navigated under load until the pattern is felt, not just named) is met.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14, 18, 20, 22, 24],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Client starts in resistance — flips the experiment back onto the coach.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"First crack: 'probably all of it' — client sees her own pattern of taking over.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Defensive, polished response under instruction to demand — defense is data but client hasn't shifted yet.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"'I can't. That's why I'm here' — declares experiment impossible; also names her pendulum pattern.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Breakthrough naming: 'I just don't want to think that there's nothing I can do to force people to understand.' Client surfaces her own diagnostic.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Do it again' — somatic/affective request to re-experience the move; signals something landed.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Silverware metaphor — intellectual reassertion of defense.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Client connects to lived experience of being controlled.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names the other person's defensiveness/ego-protection — projection set up.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"'Of course it's protecting my ego' — full admission, the pattern lands.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Quiet 'Protecting, yeah' — concession, not argument.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"'Yeah' — integrated acceptance of the reframe; tone has softened from turn 2.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"defensiveness-as-identity-signal\", \"rehearsing-how-to-say-it\", \"frame-it-as-an-experiment\", \"name-the-resistance-as-it-happens\", \"redirect-to-the-experiment-without-shame\", \"expose-the-meta-pattern-as-the-finding\", \"control-correction-on-language\", \"control-as-defense\", \"ego-protection-vs-ego-presence\", \"chasing-pushes-away\", \"the-pattern-is-the-finding\", \"how-much-of-that-was-X\", \"how-do-you-respond\", \"how-is-that-not-also-X\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Client text itself carries the shift — turn 10 is the diagnostic, turn 20 is the integration. Both are client-generated, not coach-imposed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3893,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1371,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3893,
+    "output_tokens": 1371,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

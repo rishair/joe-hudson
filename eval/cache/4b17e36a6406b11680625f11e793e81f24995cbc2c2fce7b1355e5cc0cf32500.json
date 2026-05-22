@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:23.878Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4b17e36a6406b11680625f11e793e81f24995cbc2c2fce7b1355e5cc0cf32500",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PzcPk4chMsa8YFEqTQZPia",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nThat it's real. Like, if I go through her stuff, that's... that's a thing you do after someone's gone. And I've been kind of — not doing those things. \n\n*voice gets quieter*\n\nShe kept everything. Cards, photos, just — junk, probably. But it would be her junk. And I don't know what I'd do if I opened a box and found something that was just very *her*, you know?\n\n*catches himself*\n\nAnyway. It'll get done eventually. I'm not avoiding it, I just haven't had time.\n\n*beat*\n\nThe wine helps with that too, honestly. Takes the edge off the thinking about it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 201,
+      "cache_creation_input_tokens": 162,
+      "cache_read_input_tokens": 1910,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 162,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 201,
+    "output_tokens": 158,
+    "cache_read_input_tokens": 1910,
+    "cache_creation_input_tokens": 162
+  }
+}

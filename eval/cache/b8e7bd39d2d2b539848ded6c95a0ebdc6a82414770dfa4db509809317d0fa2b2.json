@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:20.519Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b8e7bd39d2d2b539848ded6c95a0ebdc6a82414770dfa4db509809317d0fa2b2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KVoDmnCQECEZPVk4uDMvVT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nI'm trying to remember. There was something like... anticipation, I suppose. The night before, I'd be thinking about the route. Maybe some restlessness. I'd wake up early without an alarm.\n\n*quieter*\n\nI don't wake up early anymore. I mean, I do, for work. But not for anything else.\n\nI notice I'm describing this analytically. You asked about my body and I'm giving you a narrative. I do that. I've had enough therapy to know I do that. I just -- I don't have easy access to the body stuff. It's been a while."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 189,
+      "cache_creation_input_tokens": 112,
+      "cache_read_input_tokens": 1876,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 112,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 139,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 139,
+    "cache_read_input_tokens": 1876,
+    "cache_creation_input_tokens": 112
+  }
+}

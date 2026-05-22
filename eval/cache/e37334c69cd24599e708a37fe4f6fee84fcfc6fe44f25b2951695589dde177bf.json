@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:16.417Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e37334c69cd24599e708a37fe4f6fee84fcfc6fe44f25b2951695589dde177bf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012xh4hbkXnLEir9ZgeswDxU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a second*\n\nHeavy. It's... yeah, it's heavy.\n\n*clears throat*\n\nBut that's kind of why the wine helps, honestly. Like, I can put it down for a few hours. Wake up, pick it back up, but at least there's a break. It's the only thing that actually works right now.\n\n*deflecting slightly*\n\nThe estate stuff is a nightmare, by the way. She had accounts nobody knew about, a storage unit full of — I don't even know what's in there yet. I keep not going."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 152,
+      "cache_creation_input_tokens": 93,
+      "cache_read_input_tokens": 1865,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 93,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 126,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 152,
+    "output_tokens": 126,
+    "cache_read_input_tokens": 1865,
+    "cache_creation_input_tokens": 93
+  }
+}

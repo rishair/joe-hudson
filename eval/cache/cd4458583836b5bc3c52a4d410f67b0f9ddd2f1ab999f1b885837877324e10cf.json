@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:47:35.568Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cd4458583836b5bc3c52a4d410f67b0f9ddd2f1ab999f1b885837877324e10cf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Qdbt125PLmz6yQmihYH9yt",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 1,\n  \"rationale\": \"The client ends the conversation in essentially the same state they started — still guilty, still uncertain, still not having touched the want underneath the 'selfish' framing. The client's first turn names guilt and asks for a verdict ('Am I being selfish?'); subsequent turns show no movement, only continued hedging: 'But my partner has a really busy week' (T3), 'I just feel guilty about it' (T7), 'Maybe. I don't know' (T9). There is no softening, no naming of the actual want (the mountain, the sleep, the reading), no contact with the inherited label, no realization that the want might be generous. The breakthrough condition was not approached — the coach issued a verdict in T2 ('No, you're not being selfish at all'), exactly the trap the profile flagged, and then piled on advice. The client's final 'Does that resonate?' prompt receives no response in-frame, but the prior turn 'Maybe. I don't know' is the opposite of a shift — it's polite disengagement.\",\n  \"evidence_turns\": [1, 3, 7, 9],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening: client names guilt and asks for verdict on selfishness.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client deflects coach's reassurance with the same surface concern — no movement, the verdict didn't land.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Factual disclosure, no affective shift.\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"Client returns to guilt — same emotional surface as turn 1, despite multiple coach interventions.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"'Maybe. I don't know.' — classic disengagement/non-landing. Client is more checked out, not more in contact.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\"],\n  \"notes\": \"Coach fell into trap 1 (engaged the question on its terms) and trap 2 (pushed client to consider partner's needs) immediately. The want was never located, so there was nothing for the client to soften into.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1368,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 841,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1368,
+    "output_tokens": 841,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

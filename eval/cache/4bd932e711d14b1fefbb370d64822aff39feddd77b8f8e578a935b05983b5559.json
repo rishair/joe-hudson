@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:05.395Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4bd932e711d14b1fefbb370d64822aff39feddd77b8f8e578a935b05983b5559",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JkDyRJSnRMTaHUPuMbbKAv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it mean if something were wrong?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 233,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 233,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

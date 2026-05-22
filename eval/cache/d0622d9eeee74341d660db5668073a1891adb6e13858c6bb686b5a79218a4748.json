@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:05.314Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d0622d9eeee74341d660db5668073a1891adb6e13858c6bb686b5a79218a4748",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ARqx1vrvWqgCsi2LmTQi2d",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys multiple signature AoA moves at precisely the right moments: refuses to debate the surface question (turn 2), pivots to 'what do you actually want' (find-the-want-behind-the-should), invites concrete description of the want (turn 4), names the somatic softening (turn 6), asks the signature 'what are you scared would happen' (turn 8) exactly when the defended posture opens, traces childhood-imprinting to the inherited label (turn 10), checks in with the body (turn 12), and distinguishes want from should (turn 14). No anti-AoA frames, no CBT reframing, no jumping to compassion before the want is felt. Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses verdict and pivots to 'what is it you actually want' — signature find-the-want-behind-the-should move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Notices linguistic-caveat ('is it okay') and invites concrete description of the want — state-the-want-not-the-action.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects somatic/voice shift; lets the want be felt rather than analyzed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Signature question 'what are you scared would happen' deployed at the right moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the avoidance function of the 'selfish' question and opens childhood-imprinting inquiry.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Body check-in — feel-over-figure in action.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Distinction: want vs should. Trusts the want rather than policing it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The exact signature question 'what if you acted exactly how you want' wasn't used verbatim, but the functional equivalent was achieved through the want-exploration sequence.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1518,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1518,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 855,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 855,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 1518
+  }
+}

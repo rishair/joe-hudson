@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:36.290Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2dcc95fabe6301b6a3781c782374a5668680d5cd3a7c25183db086ed8427c8bc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HXxJjXAYHGfRoMMTX4t66q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at the precise moments they fit. 'How about right now?' (turn 4) is the canonical inversion of future-frame postponing. 'Is there anything about rushing through your day that can't be enjoyed?' (turn 16) is the signature reframe that makes the resistance itself the territory. 'How would you enjoy your shame?' (turn 34) followed by 'How would you NOT enjoy your shame?' (turn 36) is a textbook Joe diagnostic pair — applying enjoyment AT the thing the client doesn't want to feel, then surfacing the mechanism of resistance. 'You're a victim, bro' (turn 26) refuses to shame the grief process and names what's true rather than validating the resistance. 'Meet-resistance-with-okay' is executed cleanly at turn 14. The experimental framing at turn 40 ('run towards yourself... run away from yourself, see what happens') is treat-yourself-as-actor-of-emotion in action. Naming said-vs-shown at turn 8 ('big smile... head is confused'). No CBT reframing, no IFS-without-twist, no pop-psych vocabulary. Every move points back to NOW. Methodology serves the moment throughout.\",\n  \"evidence_turns\": [4, 6, 8, 14, 16, 22, 24, 26, 30, 34, 36, 40],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature inversion 'how about right now?' — names the future-frame as the postponing itself.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"How-is-that-not-here-right-now applied as a present-moment question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names said-vs-shown (smile vs confused thoughts) — a clean AoA observation move.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Meet-resistance-with-okay — receives the client's calibration without defending.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Signature reframe — instead of fixing the rush, asks if the rush can be the place of enjoyment.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Sits with the pain without coaching it — doesn't try to transform it.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"'What would stop you from enjoying the sadness?' — feel-your-way-to-freedom, sadness as something to enjoy not solve.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Affirms victim-status without shame — dont-shame-your-grief-process applied directly.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Uses own pattern-recognition to surface projection mechanism — flips the looking-for-whats-wrong read.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Signature 'enjoy the X you don't want to feel' move applied AT shame.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Inversion pair — diagnostic move that surfaces what client does to NOT enjoy.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment + treat-yourself-as-actor — 'see what happens' framing.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"calibrate-the-threshold\", \"treat-yourself-as-actor-of-emotion\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"how-is-that-not-here-right-now\", \"are-you-bracing-or-embracing\", \"dont-shame-your-grief-process\"],\n  \"expected_territory_misses\": [\"natural-shame-vs-installed-shame\", \"suffering-vs-pain\", \"what-am-i\"],\n  \"notes\": \"The distinction between natural and installed shame could have been named explicitly at turn 28-30 but the coach worked the territory implicitly through the projection question. Overall an exceptionally faithful deployment of methodology.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3694,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1432,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3694,
+    "output_tokens": 1432,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

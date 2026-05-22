@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:32.335Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9e8b3940ff6ea1006eb1c0beaaf9fbc2b2787fe7ada7796f3c55eca10d258453",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014xB8WnuG1PoPDFabcZEAC9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*dry laugh*\n\nCaught me.\n\n*quiet*\n\nI don't know. That it wouldn't stop, maybe. Like if I actually... let it in, it just keeps going. There's no bottom to it. At least with the wine there's a floor, you know? It only goes so far and then you're just... out. Done for the night.\n\n*pause*\n\nShe wasn't — it's not like it was a perfect relationship either. There's stuff I'm... I don't know. Stuff that's complicated. It's not just sad. There's other things in there too that I don't really want to look at.\n\n*quickly*\n\nBut mostly I'm fine during the day. I function. I go to work. It's just nights that are bad."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 241,
+      "cache_creation_input_tokens": 263,
+      "cache_read_input_tokens": 1970,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 263,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 172,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 241,
+    "output_tokens": 172,
+    "cache_read_input_tokens": 1970,
+    "cache_creation_input_tokens": 263
+  }
+}

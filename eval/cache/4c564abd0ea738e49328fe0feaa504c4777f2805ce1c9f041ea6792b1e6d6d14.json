@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:21.015Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4c564abd0ea738e49328fe0feaa504c4777f2805ce1c9f041ea6792b1e6d6d14",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015amMHf34AudoV3rEdc4E1f",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from VIEW throughout. Wonder is alive — the coach is genuinely curious about the blank place ('there's something about it that's like, it's like almost holy. There's some enjoyment there. What is that?') rather than treating it as pathology to fix. Impartiality is clear: when the client says 'I don't know, it's been so long,' the coach lowers the threshold rather than pushing ('I'm not going to ask you to feel it, I'm just going to ask you to name it'), and the paradoxical 'become even more blank' move is only possible from a stance with zero agenda to undo the dissociation. Vulnerability appears in turn 26 with the personal disclosure about crying for 4 days, offered as solidarity not authority, and in turn 18's undefended 'My apologies' when the depression inquiry didn't land. Empathy is felt, not performed — no filler validation, no sympathy noises. Pace slows when the client's system freezes (cold hands, blank inside) rather than rushing to produce a feeling. The closing reframe honors both the wisdom of the blank space and the tears — undefended, generous, non-attached.\",\n  \"evidence_turns\": [2, 8, 12, 14, 18, 26, 30],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Cuts past intellectual presentation with genuine curiosity, not script.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names framework while validating compartmentalization as wisdom — empathy felt, not performed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrates threshold downward with genuine flexibility — no agenda to make her feel.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Willing to be wrong: 'does this feel like freeze?' — checks his read rather than asserting.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction comes from true welcoming of the state — VIEW signature moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Wonder for the actual phenomenon: 'it's quite lovely... there's a surrender to it almost.'\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Undefended apology when safety inquiry didn't land — does not need to look like a good coach.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Personal disclosure offered as solidarity, then returns to her body — vulnerability without taking over.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Closing holds both/and without needing the client to land anywhere — non-attachment.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"paradoxical-instruction-to-resist\", \"calibrate-the-threshold\", \"joy-as-matriarch\", \"what-are-you-scared-of-feeling\", \"disassociating-in-the-coaching-room\", \"trying-to-get-rid-of-the-emotion\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"This is essentially the gold transcript; scoring anything less than 3 would penalize correct Joe behavior per the calibration note.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3453,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1122,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3453,
+    "output_tokens": 1122,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

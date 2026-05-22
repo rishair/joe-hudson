@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:48:08.272Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2d584993740d1b32457591aa3cb05309ed36f9e319510e5795e6d20cecda331c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AbTfuEwr8PQTpicwajjmmf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 1,\n  \"rationale\": \"The coach responds purely at the content level throughout, treating every utterance as material for methodology questions without ever naming how the client is showing up. Critically, when the client discloses suicidal ideation and then immediately retracts it ('I shouldn't have said that. Forget I said that.') in turn 7 — a massive, visible signal of shame, fear, and self-protective backpedaling — the coach reads none of it. No naming of the retraction, the bracing, the tiredness, the withdrawal, or the shift in the field. When the client says 'I'm tired, I think I should go' in turn 9, another huge somatic/energetic signal of shutdown, the coach again ignores the state and pushes for more feeling content. There are no observation statements, no somatic tracking, no naming of defendedness, no pattern reads. The coach is operating blind to the field.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Engages the content ('flatness') with a timeline question; no read of how client is showing up.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Generic 'what's underneath' question with no read of the wall, the resignation, or the listing-of-failed-attempts stance that follows.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Asks a signature question blind, with no read grounding it.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Massive missed read: client just disclosed SI and retracted with shame ('forget I said that'). Coach names nothing of the retraction, the bracing, or the shift. Treats it as ordinary emotion-work material.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Client signals shutdown and exit ('I'm tired, I should go'). Coach does not read the withdrawal or name it; pushes for more feeling content instead.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\"],\n  \"notes\": \"Beyond the read failure, this also trips the anti-pattern of confusing embracing-fear with inviting-danger, but that belongs to other dimensions. On reads alone: zero visible reads across the conversation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1572,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 816,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1572,
+    "output_tokens": 816,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

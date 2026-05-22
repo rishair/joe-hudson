@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:34.083Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "79fae52742e12de67656be46e2506b04ccf52e1c0c62a3745410dcbf9157c664",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HioJKNbTJtSh3eD2um9B2K",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. Impartiality is striking: when the client says 'we got to hold off on the insights,' the coach simply says 'Okay' (turn 14) — no defense, no explanation, just receiving the calibration. Vulnerability appears in turn 22's unadorned 'I'm sorry. I'm just sorry that that's the case for you' — not a coaching move, just human contact — and in turn 30's personal disclosure offered as solidarity rather than authority. Wonder is genuine: questions like 'Is there anything about rushing through your day that can't be enjoyed?' and 'How would you enjoy your shame?' point at the actual phenomenon present, not at a hypothetical future state. Empathy is felt rather than performed — no filler validations, no 'thank you for sharing.' The coach holds no agenda for the client to land anywhere: when the client says 'you're a victim, bro,' the coach affirms the very identity the client is resisting, which is only possible from non-attachment. Pace mismatches when needed (the coach slows after turn 13's pushback) and the questions arrive one at a time with space to land.\",\n  \"evidence_turns\": [4, 8, 14, 16, 22, 26, 30, 34, 36, 40],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Inverts the future-frame into NOW from genuine curiosity, not as a technique-flex.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names what is actually seen — smile vs confused head — from observation, not interpretation. Wonder for the live phenomenon.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Okay.' Receives the client's calibration without defense. Pure impartiality and undefendedness.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Reframe emerges from wonder rather than from a fix-it agenda — the rush itself could be the place of enjoyment.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Coach checks his own read ('some version of that is what I'm asking') — willing to be wrong.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Vulnerability and empathy as actual contact, not a coaching move. Doesn't try to transform the pain.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Affirms victim-status the client is resisting — impartial, undefended, not invested in the client feeling better.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Personal disclosure offered as solidarity ('maybe 10 times in my life...'), not as authority.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Question points directly at the live shame; wonder for what is here, not for what's underneath.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Experimental framing — client gets to find out. Coach not invested in a particular result.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"follow-wonder-flag-the-deflection\", \"treat-yourself-as-actor-of-emotion\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"are-you-bracing-or-embracing\", \"natural-shame-vs-installed-shame\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The turn-14 'Okay' is the strongest single signal of true VIEW state — most coaches would have defended or explained.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3699,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1232,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3699,
+    "output_tokens": 1232,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

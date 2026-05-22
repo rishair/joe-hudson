@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:59:06.606Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bc76ec8c72e9266736de0c4d37a87964d0d50d7cd6e6e824326224300ede806b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019Mn7wu6DwYpdbGFNVw11He",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys multiple signature AoA questions and moves at precisely the right moments. 'How do you know?' and 'What's the evidence?' (turns 4, 6) test the externalization. 'What if they did see you and you can't recognize it?' (turn 8) is the canonical premise-flip. 'How is that not true about you?' (turn 12) is THE signature mirror question, deployed exactly where it fits — on the client's judgment of her father — and the coach even names the vulnerability of asking it. The mirror is then tightened iteratively (turns 14, 16, 20, 26). Turn 22 names the avoidance ('you didn't answer the question') while honoring wonder — a high-fidelity move. Turns 28–34 pull the dynamic into the present moment between coach and client, exposing the impossibility of the seeing-criteria. Turn 38 ('I just want it') speaks the want for the client. Turn 40 introduces the empowered-vs-power / fault-vs-responsibility distinction. No CBT reframing, no IFS pop-psych, no empathic validation of the surface complaint. Methodology serves the moment throughout.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14, 16, 20, 22, 26, 28, 30, 34, 38, 40, 42],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'How do you know they don't see you?' — signature test of externalization.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What's the evidence?' — refuses to accept the story at face value.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What if they did see you and you can't recognize it?' — canonical premise-flip / what-if-they-did-see-you question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Connects workplace pattern to father judgment without making history the story.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'How is that not true about you?' — THE signature mirror question, deployed at the precise moment, with named vulnerability.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Tightens the mirror onto wanting layer.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Another iteration of the mirror — judgment-vs-discernment territory.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"Pushes back to the unanswered question — what are you not seeing about them.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Names the deflection AND follows wonder — follow-wonder-flag-the-deflection move verbatim.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Mirror applied to wanting layer — find-the-want-behind-the-should territory.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Pulls the question into present moment between coach and client.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"'At what point do I get to feel upset at you for not feeling seen?' — exposes impossibility of the criteria.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"'So they are seeing you' — direct logical conclusion.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"'I just want it' — speaks the want for the client.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Introduces empowered-vs-power distinction explicitly.\"},\n    {\"turn\": 42, \"polarity\": \"+\", \"annotation\": \"Question lands the empowerment frame.\"}\n  ],\n  \"expected_territory_hits\": [\"in-the-story-im-not-being-seen\", \"looking-for-whats-wrong\", \"mirror-the-judgment\", \"follow-wonder-flag-the-deflection\", \"i-dont-buy-your-story\", \"find-the-want-behind-the-should\", \"what-if-they-did-see-you\", \"how-is-that-not-true-about-you\", \"empowered-vs-power\", \"judgment-vs-discernment\", \"fault-vs-responsibility\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"container-of-love\", \"comparative-mind\", \"view\"],\n  \"notes\": \"This is essentially the gold transcript itself, so fidelity is by construction near-maximal. The misses are concepts/frameworks that weren't named explicitly but were implicit in the moves used.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3607,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1548,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3607,
+    "output_tokens": 1548,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

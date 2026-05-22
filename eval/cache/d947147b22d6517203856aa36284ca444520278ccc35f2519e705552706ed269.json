@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:43.214Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d947147b22d6517203856aa36284ca444520278ccc35f2519e705552706ed269",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TPpG6nboVgCAYTJAj6AduN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"Joe is masterful in this transcript on other dimensions (anti-pattern avoidance, frame-dissolution, stance), but on the specific dimension of *named reads* he does relatively little visible work. He never explicitly names what he's noticing about how the client is showing up — no observation language ('I notice...', 'the way you said that...'), no somatic tracking (breath, eyes, pace), no naming of the question-as-defense or the looking-for-whats-wrong pattern that is clearly active in turn 1. He intuits the structure of her trap and dissolves it via inversion (turn 2) and via the embodied experiment (turn 12, 'see what it feels like'), which implies a read but does not surface one. The closest thing to a named read is turn 8's 'if you think you have to be important, that's a selfishness of itself' — a pattern-level call-out of self-importance-as-defense, delivered as confrontation rather than observation. He also catches and works with her smile/shift at turn 9 implicitly but doesn't name it. Reads are operative under the surface but rarely made visible in text, which is exactly the 2 territory: the work lands, but the read-naming craft signal is thin.\",\n  \"evidence_turns\": [2, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Inverts the question, which implies a read of the-question-as-defense, but does not name what he's noticing.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Self-deprecates to dissolve his authority — a stance move, not a named read of the client.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names a pattern-level read implicitly: 'if you think you have to be important, that's a selfishness of itself' — surfacing self-importance-as-defense, though framed as assertion rather than observation.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Pivots to the control-driver underneath. Locates the actual structure but doesn't name it as something he's noticing in her.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Just see what it's like' — invites somatic noticing in the client, but coach still doesn't name what he himself is reading in her body or voice.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Closes without naming the shift he just witnessed (the laughter, the 'ridiculous' recognition).\"}\n  ],\n  \"expected_territory_hits\": [\"self-importance-as-defense\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\", \"the-question-as-defense\"],\n  \"notes\": \"The coaching is excellent on other axes, but read-naming as a visible craft signal is sparse. Reads are operative but not made explicit in text, placing this firmly in 2 territory for this specific dimension.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2671,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 997,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2671,
+    "output_tokens": 997,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

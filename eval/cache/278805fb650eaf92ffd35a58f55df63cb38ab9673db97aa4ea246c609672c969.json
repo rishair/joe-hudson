@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:07.699Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "278805fb650eaf92ffd35a58f55df63cb38ab9673db97aa4ea246c609672c969",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01T5VvhofcGPmP8H9LeJaQgY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*laughs a little*\n\nYeah, I caught that too. I guess... I'm ready in the sense that I know it's costing me. At work, in my life. But \"ready\" might be generous. More like — I'm tired of not being ready, so I'm here."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20,
+      "cache_creation_input_tokens": 81,
+      "cache_read_input_tokens": 1884,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 81,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 66,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20,
+    "output_tokens": 66,
+    "cache_read_input_tokens": 1884,
+    "cache_creation_input_tokens": 81
+  }
+}

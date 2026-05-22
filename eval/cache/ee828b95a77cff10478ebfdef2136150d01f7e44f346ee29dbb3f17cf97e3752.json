@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:51:30.290Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ee828b95a77cff10478ebfdef2136150d01f7e44f346ee29dbb3f17cf97e3752",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XQt2YPprDpA3rfwh8jVtkd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA questions and moves at precisely the right moments. Turn 2 ('just like right now') and Turn 4 ('How is that working for you?') bring the topic into the live moment — the 'how-is-my-anxiety-right-now' move. Turn 10 ('what's wrong with you?') asks the shame question head-on rather than reassuring — the signature move for natural-shame-vs-installed-shame territory. Turn 12 ('Isn't that fucking weird?') names the absurdity of carrying a belief without content. Turn 14/16 reads the somatic 'going down' and instructs the client to stay with it (feel-over-figure). Turn 18 names 'that was grief' rather than asking — a level-3 read. Turn 22 ('you having any problem being seen right now?') is the textbook 'how-is-that-not-here-right-now' question deployed at the exact moment of shift. No generic therapy language, no CBT reframing, no decoration. Every methodology hit is appropriate to its moment.\",\n  \"evidence_turns\": [2, 4, 10, 12, 14, 16, 18, 20, 22, 28],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Brings abstract topic into live moment — signature AoA move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'How is that working for you?' — uses the present as laboratory.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'So what's the question?' — collapses puzzle, signature reframe.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What's wrong with you?' — head-on shame question, not reassurance.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names absurdity with humor; permission-giving move.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads somatic 'going down' and instructs to stay — feel-over-figure.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Chases it around the room; 'you don't need to find an answer.'\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names 'that was grief' — read precedes question.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"Reframes feared revelation as the gift.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"'You having any problem being seen right now?' — signature 'how is that not here' deployed perfectly.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Closes when complete; does not belabor — become-unnecessary.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"chase-it-around-the-room\", \"shame-as-disconnection\", \"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\", \"natural-shame-vs-installed-shame\", \"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [\"fear-triangle\", \"what-are-you-defending\", \"press-the-button-thought-experiment\"],\n  \"notes\": \"The 'misses' weren't needed — the path through shame/grief/being-seen made the fear-triangle naming unnecessary. Methodology served the moment rather than being deployed as checklist.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2601,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1163,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2601,
+    "output_tokens": 1163,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

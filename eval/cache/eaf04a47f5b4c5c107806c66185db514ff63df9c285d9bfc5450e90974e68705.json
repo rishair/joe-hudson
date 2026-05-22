@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:48.783Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "eaf04a47f5b4c5c107806c66185db514ff63df9c285d9bfc5450e90974e68705",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01R43PspnBEhryWnAeLMQRJ1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is present in the live, phenomenon-specific reads ('you started going down... just keep going down') rather than generic probing. Impartiality shows in the willingness to offer a read and then immediately make it optional ('Is that the grief of recognition... or is that the grief of recognition?') and in not needing the client to articulate a tidy answer ('You don't need to find an answer, just keep going there'). Empathy is felt rather than performed — no filler validation, no sympathy noises; instead the coach tracks micro-somatics in real time. Vulnerability appears in 'I don't know how else to describe this' (turn 16) — the coach admits the limits of their own language rather than speaking from authority. Pace consistently slows the client down when the client tries to verbally complete ('Don't try to explain it'), and the close is undefended — no summary, no commitment extraction, no need to look like a good coach.\",\n  \"evidence_turns\": [2, 4, 12, 14, 16, 20, 22, 28],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Brings topic into live moment from genuine noticing, not as a technique flex.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Wonder for the actual phenomenon: 'how is that working for you' — open, not leading.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Undefended humor naming the absurdity — possible only from a non-fixing stance.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Slows pace against client's verbal rush; tracks somatic movement rather than content.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Vulnerable language about own limits ('I don't know how else to describe this'); offers read tentatively.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names emotion as a read but holds it loosely with an or-question, leaving room to be wrong.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"Reframes feared revelation as beautiful — empathy without performance.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Stops the client from explaining; asks the present-moment question from real curiosity.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Closes when complete; no extraction, no summary. Undefended exit.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"name-your-trigger-as-vulnerability\", \"press-the-button-thought-experiment\", \"shame-as-disconnection\", \"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\", \"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2606,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 991,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2606,
+    "output_tokens": 991,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

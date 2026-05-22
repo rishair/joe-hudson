@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:36.669Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1b93fbdd90d2dee157c2c7fa04eac3d77f7c1e9b95f1e2cdb49d71ecfa4d6531",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Bk9rPCG2bFvEDEzmD3hzYB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"Nearly every coach move is matched precisely to what was just noticed and arrives at a moment the client can receive it. The opening 'How about right now?' inverts the future-frame the instant it appears. When the client signals 'we got to hold off on the insights,' the coach meets resistance with a single 'Okay' rather than defending — a textbook calibration of threshold. When pain emerges, the coach pauses to offer 'I'm sorry' without trying to coach it, then re-enters via the live sadness rather than the story. The shame sequence (28 → 30 → 32 → 34 → 36) builds in correct order: surface the belief, test the projection, locate it in self, then run the enjoy/not-enjoy diagnostic pair, then frame it as an experiment in turn 40. Moves are AoA-specific (frame-as-experiment, calibrate-threshold, treat-client-as-actor-of-emotion, follow-wonder-flag-the-deflection in turn 8) rather than generic. Timing follows feeling-before-action throughout; the coach holds silence and lets moves land.\",\n  \"evidence_turns\": [4, 8, 14, 16, 22, 24, 26, 30, 34, 36, 40],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Instant inversion of the future-frame — move precisely matches the read that 'postponing' is the concern.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the said vs the shown (smile vs confused head) — flag-the-deflection move at the right moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Meets resistance with 'Okay.' Calibrates threshold rather than pushing — high-skill restraint.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Signature reframe: can the rush itself be enjoyed? Matches the read perfectly.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Stops coaching to receive the pain. Correct pacing — does not reframe or fix.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"Returns to the work via the live feeling (sadness) with the 'enjoy the X' move; notices body and names it.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Affirms victim-status the client is resisting — does not collude with the resistance. Right move, right moment.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Long disclosure used as projection-flip; lands because rapport and feeling have been earned.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"'How would you enjoy your shame?' — applied AT the felt shame, not abstractly.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Inversion pair makes the resistance mechanism visible — signature diagnostic sequencing.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Frame-it-as-an-experiment: client tests both directions and finds out, rather than being prescribed.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"follow-wonder-flag-the-deflection\", \"calibrate-the-threshold\", \"treat-yourself-as-actor-of-emotion\", \"are-you-bracing-or-embracing\", \"how-is-that-not-here-right-now\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Move-to-read matching is consistently high; the 'Okay' in turn 14 is the strongest single signal of timing skill.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3701,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1251,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3701,
+    "output_tokens": 1251,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

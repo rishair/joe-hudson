@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:32.036Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "944f422b1606de5111f1ff8020d2f162903839370383efcc0ef752c927339f76",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BeetMaWvGj5ZyiZtUStZpH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach repeatedly names what they see in real time and grounds questions in those reads. Turn 8 is a signature said-vs-shown read ('I see this big smile on your face, and I see your head is confused. I see your thoughts are not quite jiving'). Turn 10 catches the live affect ('Are you enjoying saying that?'). Turn 24 names a somatic signature ('I noticed that you're breathing or something to try to get into yourself') and reads the sadness present in the moment. Turn 30 reads a pattern-level projection dynamic (caregiver-softening) and names it operatively. Reads consistently precede the inquiries rather than coming as blind questions, and they land at moments that redirect the conversation (e.g., turn 8 stops the client's escape into the second topic; turn 24 opens the shame thread).\",\n  \"evidence_turns\": [8, 10, 24, 26, 30, 36],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reads the future-frame as itself the postponing; inverts to now without needing explicit somatic naming.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicit said-vs-shown read: names the smile, the confused head, the non-jiving thoughts. Signature AoA read.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks live affect in the act of speaking — reads enjoyment present in the description of oscillation.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Receives the calibration ('hold off on insights') with 'Okay' — implicit read of the client's pacing need, met without defense.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"Names a somatic signature (the breathing-to-get-into-yourself) and reads the sadness present right now; read precedes the question.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Reads the resistance-to-victim-identity and names the victim status directly — surfaces what the client was bracing against.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Pattern-level read of caregiver softness and projection dynamic, named operatively before the question.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Diagnostic inversion that surfaces the not-enjoying mechanism — reads that the client needs to see what they DO to block enjoyment.\"}\n  ],\n  \"expected_territory_hits\": [\"trying-to-get-rid-of-the-emotion\", \"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [\"rehearsing-how-to-say-it\"],\n  \"notes\": \"Strong, timely, specific reads throughout. The rehearsing-how-to-say-it read (client opened by saying they were thinking about how to summarize) was not explicitly named, but the other reads more than carry the dimension.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3700,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1010,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3700,
+    "output_tokens": 1010,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

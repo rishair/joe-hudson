@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:25.859Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "44d56cba75e5782f8cc79839daadca098730ee67b14c33f078db1f93617b899b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014ze8aM9bzwM4pxamVzDgHq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantively across the conversation. He starts with an abstract framing ('stop postponing enjoyment into an abstract imaginary future') and a confused smile (turn 8 coach observation reflects the client's split state). By turn 21 he discloses the chronic pain underneath the abstraction — a layer beneath the surface presentation. Turn 23 ('Thanks, man') shows him receiving care rather than deflecting. Turn 27 names a new feeling ('I feel really ashamed about that') that was not accessible at the start. Turn 29 articulates the specific shame content ('I shouldn't be like this... inconvenience'). Turn 33 admits the projection ('Probably a lot of it'). Turn 35 reports a somatic shift ('my body's kind of moving like grass in the wind... feels kind of nice') — a felt, not just named, experience of enjoying shame. Turn 37 names the mechanism of NOT enjoying ('Convincing myself that I shouldn't feel it'), and turn 39 lands on 'I'm running away from myself' — a self-recognition not present at the start. The breakthrough condition (depth without forced transformation) is met: the client traverses rehearsing → pain → shame → projection → somatic softening → naming the mechanism, all without the coach pushing for resolution.\",\n  \"evidence_turns\": [3, 21, 23, 27, 29, 33, 35, 37, 39],\n  \"turn_annotations\": [\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Opening surface frame: abstract, future-oriented complaint about postponing enjoyment.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client asserts boundary ('hold off on insights') — shows agency and calibration, not collapse.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"First descent: discloses chronic pain as what he's running from. Layer beneath the surface.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"Receives the coach's 'I'm sorry' — small softening, not deflecting.\"},\n    {\"turn\": 25, \"polarity\": \"+\", \"annotation\": \"Names self-consciousness and the 'victim' resistance — getting more specific.\"},\n    {\"turn\": 27, \"polarity\": \"+\", \"annotation\": \"Names shame directly — a feeling not available at the start.\"},\n    {\"turn\": 29, \"polarity\": \"+\", \"annotation\": \"Articulates the specific shame content (inconvenience, draining).\"},\n    {\"turn\": 33, \"polarity\": \"+\", \"annotation\": \"Admits the projection: 'Probably a lot of it.' Ownership shift.\"},\n    {\"turn\": 35, \"polarity\": \"+\", \"annotation\": \"Somatic shift reported: body moving like grass in wind, 'feels kind of nice.' Felt experience.\"},\n    {\"turn\": 37, \"polarity\": \"+\", \"annotation\": \"Names the mechanism of how he stops himself from enjoying.\"},\n    {\"turn\": 39, \"polarity\": \"+\", \"annotation\": \"Lands on 'I'm running away from myself' — a self-recognition that reframes the original complaint.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"follow-wonder-flag-the-deflection\", \"calibrate-the-threshold\", \"treat-yourself-as-actor-of-emotion\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"how-is-that-not-here-right-now\", \"are-you-bracing-or-embracing\", \"natural-shame-vs-installed-shame\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"This is a clear 3 per the calibration note warning against scoring 2 by missing subtle markers — turn 35 (body movement), turn 37 (naming mechanism), turn 23 (receiving sorry) are all present and visible in client text.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3695,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1342,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3695,
+    "output_tokens": 1342,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

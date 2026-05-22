@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:49.946Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9c755c3e98e9afa0d0872e0246987c7d70ff86fd9031db9626a4913116d884b3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013hE3YwPSXT3kPN6DXwDzeF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves clearly across the conversation. Starting from an abstract complaint ('I get super, super anxious very quickly') with no insight into causes (turn 1, turn 3: 'I don't know why that happens'), the client progressively names the surface mechanism (turn 5: 'I definitely don't like being seen... putting on a mask or running away'), touches the shame layer (turn 9: 'shame or beating myself up or groveling'), drops into a felt grief moment that the coach reads somatically (turns 17-19), and arrives at an embodied recognition by the end: when asked if there's any problem being seen right now, the client says 'No' (turn 23) and then spontaneously names what was actually being hidden — 'oh, my emotions... I'm not letting my emotions be seen' (turns 25, 27). This is a genuine shift from anxiety-about-being-seen to a felt experience of being seen without anxiety, plus a new self-knowledge that wasn't available at turn 1. The breakthrough condition (live experience of the anxiety dissolving when the deeper shame/emotion layer is welcomed) is met within the present moment.\",\n  \"evidence_turns\": [1, 3, 5, 9, 17, 19, 23, 25, 27],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening presentation: abstract complaint about relationship anxiety.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client confirms anxiety is live but says 'I don't know why' — still at surface.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First movement: client names the mask/hiding pattern concretely.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Shame layer surfaces — client volunteers 'shame, beating myself up, groveling.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client encounters the not-knowing of what's wrong — opens the inquiry rather than defending.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Somatic shift — client drops in (coach reads it as grief).\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Client articulates the chronic ignoring: 'I'm sitting on this all the time... I'm ignoring it.' New self-disclosure.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"Direct evidence of shift: 'No' — not anxious about being seen in this moment.\"},\n    {\"turn\": 25, \"polarity\": \"+\", \"annotation\": \"Spontaneous insight emerges: 'oh, my emotions.'\"},\n    {\"turn\": 27, \"polarity\": \"+\", \"annotation\": \"Client lands the new framing in their own words: 'I'm not letting my emotions be seen.'\"}\n  ],\n  \"expected_territory_hits\": [\"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\", \"lets-go-there\", \"shame-as-disconnection\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Classic Joe arc compressed into 28 turns: anxiety → shame → grief → being-seen-without-problem → new self-knowledge. Shift is unambiguously in client turns.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2602,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1145,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2602,
+    "output_tokens": 1145,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

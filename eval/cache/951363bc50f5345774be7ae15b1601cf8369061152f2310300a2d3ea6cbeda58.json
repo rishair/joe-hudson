@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:08.180Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "951363bc50f5345774be7ae15b1601cf8369061152f2310300a2d3ea6cbeda58",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AgmKcePBT5fCNu2UCAKgz1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not sure. I think... if something were wrong, there would be more urgency to it. More signal. But it just feels like the volume got turned down on everything. Which is why I can't tell if I've finally gotten good at regulating, or if I've regulated myself into a corner somehow."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15,
+      "cache_creation_input_tokens": 76,
+      "cache_read_input_tokens": 1831,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 76,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 69,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 15,
+    "output_tokens": 69,
+    "cache_read_input_tokens": 1831,
+    "cache_creation_input_tokens": 76
+  }
+}

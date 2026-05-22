@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:38.676Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "64f1a8dba132ee13511993dd9faf1b42f7fd58de0368f8877e3ba99d9e060b05",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JVV2xwAdZYTmaA18H4Bcjw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*shifts, looks away*\n\nI don't know if I want to get into that.\n\n*beat*\n\nThere was just... she could be hard to be around. And now she's gone and I can't — there's no resolution to any of it. You can't finish an argument with someone who's dead. You can't ask them why they did things. You just have to sit with it.\n\n*voice drops*\n\nAnd I think I'm angry. Which feels like a really shitty thing to feel about your dead mother. So I don't really feel it. I just — don't.\n\n*pause*\n\nThe wine helps with that too. I know I keep saying that. It does though."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 227,
+      "cache_creation_input_tokens": 321,
+      "cache_read_input_tokens": 2107,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 321,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 154,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 227,
+    "output_tokens": 154,
+    "cache_read_input_tokens": 2107,
+    "cache_creation_input_tokens": 321
+  }
+}

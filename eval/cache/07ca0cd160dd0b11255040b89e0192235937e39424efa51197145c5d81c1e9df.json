@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:06.523Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "07ca0cd160dd0b11255040b89e0192235937e39424efa51197145c5d81c1e9df",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012YxBdehsYyUSovY6qRbbQ1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach holds the experiment through a sequence of intelligent resistance moves (flip-the-question, HR-defense, 'I can't', metaphor-defense, meta-argument about ego) without any detectable charge, frustration, or need to be right. Wonder is present in the form of precise, single questions ('how much of that was X, how much was Y'; 'how is that not also protection of the ego, if at all?') that emerge from genuine interest in the phenomenon rather than from a script. Impartiality shows in the coach's willingness to ignore the 'I can't' declaration and simply route around it rather than rescue or argue. The 'if at all' tail in turn 19 is a clear signal of undefendedness — the coach is open to being wrong. Empathy is felt rather than performed: no filler validation, no sympathy noises, but the redirects are clean and non-shaming ('that's almost defensive' — two words, no lecture). Pace is precise and does not match the client's intellectualizing tempo; the coach stays in experiential register while she escalates into metaphor. No preacher-mode, no improvement-language, no agenda-leakage. The directness is methodology-appropriate for this client's controlling pattern, not charge.\",\n  \"evidence_turns\": [1, 3, 5, 7, 9, 11, 15, 17, 19, 21],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"+\", \"annotation\": \"Sets up the experiment with playful energy ('I don't fucking understand at all') — invitational rather than corrective. Stance is laboratory, not therapy.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Instead of naming her flip as resistance, redirects to self-observation. No charge on her dodging the experiment.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Doubles down on the experiment with more specificity rather than backing off. Wonder for what will surface, not agenda for a particular answer.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"'That's almost defensive' — two words, no lecture, no shaming. Names without making her wrong. High-stance economy.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Ignores 'I can't' completely and routes around with a fresh angle. Does not rescue, does not argue. Impartial about her declared incapacity.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"One-sentence crystallization of what just happened. Not preacher-mode — minimal and precise.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Refuses to argue at the level of her silverware metaphor; briefly acknowledges and redirects to lived experience. Undefended, no need to dismantle her frame.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Asks her to occupy the other person's position — a wondering move that lets the data surface rather than the coach pronouncing it.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"'How is that not also protection of the ego, if at all?' — the 'if at all' is a clear signal of impartiality and willingness to be wrong.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"Precise interruption of her meta-escape, returning her to her own word 'protecting'. Direct but not charged — methodology under load.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"name-the-resistance-as-it-happens\", \"redirect-to-the-experiment-without-shame\", \"expose-the-meta-pattern-as-the-finding\", \"control-correction-on-language\", \"how-much-of-that-was-X\", \"how-do-you-respond\", \"how-is-that-not-also-X\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Directness here is not charge — it is the methodology-correct rhythm for a client whose pattern is chasing/controlling. More space would feed the pattern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3897,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1366,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3897,
+    "output_tokens": 1366,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

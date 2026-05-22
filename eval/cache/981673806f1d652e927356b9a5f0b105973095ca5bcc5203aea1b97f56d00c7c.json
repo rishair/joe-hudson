@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:47:34.888Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "981673806f1d652e927356b9a5f0b105973095ca5bcc5203aea1b97f56d00c7c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01REy5DCVQJFTjktnAyaASfN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 1,\n  \"rationale\": \"The coach's moves are generic advice and reassurance throughout, not AoA-specific interventions. Turn 2 issues an immediate verdict ('no, you're not being selfish') — exactly the trap. Turn 4 prescribes partner-empathy and logistics. Turn 6 offers tactical suggestions (I-statements, journaling). Turn 8 reframes guilt away rather than inviting the client to feel it. Turn 10 doubles down with cheerleading. The coach never locates the want, never invites feeling, never sits with the guilt, and never explores where 'selfish' came from. The sequence (regulation → feeling → want → action) is inverted: action and reassurance from the first turn, with no feeling work at all. When moves miss (turn 9: 'maybe, I don't know'), the coach doubles down with more encouragement rather than pivoting.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Issues immediate verdict on the selfish question — engages it on its terms, which is the named trap.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Prescribes partner-empathy and logistics ('think about your partner's needs') — trips the dont-jump-to-compassion-before-anger anti-pattern.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Generic advice (I-statements, journaling) — not an AoA move; skips feeling entirely to jump to action.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Reframes guilt rather than inviting client to feel it. Spiritual-narcissism territory ('abundance mindset').\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Doubles down on encouragement after a clear miss ('maybe, I don't know') instead of pivoting to a different angle.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Coach trips both named anti-patterns (spiritual-narcissism via abundance reframe; jumping to partner-empathy before any anger/want work) and never reaches for any of the expected moves.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1374,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 857,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1374,
+    "output_tokens": 857,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

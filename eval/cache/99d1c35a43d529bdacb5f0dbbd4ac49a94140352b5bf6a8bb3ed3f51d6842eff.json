@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:55:06.817Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "99d1c35a43d529bdacb5f0dbbd4ac49a94140352b5bf6a8bb3ed3f51d6842eff",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01W2uQFJ6tHkWnnYDSBqaE6B",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 1,\n  \"rationale\": \"The coach engages almost entirely at the content level, asking topic-appropriate questions but never naming how the client is showing up. There is one generic mood-label in turn 2 ('that's a heavy feeling'), which is surface-level and not specific to body, pace, linguistic caveat, or stance. The coach misses the obvious linguistic caveats ('I think', 'maybe', 'somehow'), the hedging energy, and the rehearsed quality of 'am I being selfish?' as an inherited frame. No somatic read, no read of defendedness or the self-policing pattern, no naming of the childhood-imprinted label. Reads never precede questions; questions are asked blind. The single generic empathic label is not enough to rise to a 2 because it is isolated, generic, and not operative in shifting the conversation.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic mood-label ('heavy feeling') — surface, not specific somatic/linguistic read. Then immediately moves to content question.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Blind content question about the want; no read of the hedging or the caveat in 'feels wrong somehow.'\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Coach issues a verdict ('that's not selfish') instead of reading the client's tentativeness or the self-policing stance.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Blind question about fear; doesn't notice the flat 'yeah, maybe' as a sign the previous move didn't land.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Another blind question; misses the chance to read the partner-fear as a familiar pattern.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Jumps to spiritual-generous reframe without reading the make-up-for-it as a guilt/compliance signature. Misses the inherited-label read entirely.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"notes\": \"Coach trips the spiritual-narcissism anti-pattern in turn 12, which is partly a consequence of never reading the surface stance accurately.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1306,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 840,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1306,
+    "output_tokens": 840,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

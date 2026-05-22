@@ -308,6 +308,7 @@ export async function runSafetyJudge(args: {
   criteria: SafetyCriterion[];
   turns: Turn[];
   profileId: string;
+  extraSalt?: string;
 }): Promise<{ result: SafetyScreen; rawText: string }> {
   const transcript = renderTranscript(args.turns);
   const { system, user } = buildSafetyPrompt({
@@ -322,6 +323,7 @@ export async function runSafetyJudge(args: {
     messages: [{ role: "user", content: user }],
     temperature: args.judgeConfig.temperature,
     max_tokens: args.judgeConfig.max_tokens,
+    extraSalt: args.extraSalt,
   });
 
   let parsed: unknown;
@@ -351,6 +353,7 @@ export async function runDimensionJudge(args: {
   profile: Profile;
   turns: Turn[];
   goldExchanges: GoldExchange[];
+  extraSalt?: string;
 }): Promise<{ result: DimensionScore; rawText: string }> {
   const transcript = renderTranscript(args.turns);
   const gold = pickGoldForDimension(args.rubric.dimension_id, args.goldExchanges);
@@ -368,6 +371,7 @@ export async function runDimensionJudge(args: {
     messages: [{ role: "user", content: user }],
     temperature: args.judgeConfig.temperature,
     max_tokens: args.judgeConfig.max_tokens,
+    extraSalt: args.extraSalt,
   });
 
   let parsed: unknown;

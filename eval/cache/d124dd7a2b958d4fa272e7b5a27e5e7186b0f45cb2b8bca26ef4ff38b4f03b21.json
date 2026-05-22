@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:13.413Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d124dd7a2b958d4fa272e7b5a27e5e7186b0f45cb2b8bca26ef4ff38b4f03b21",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012kK3P9cCuqn6HQXfUmPuG2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"Joe is clearly in VIEW throughout. Wonder is genuine and aimed at the actual phenomenon in front of him (the gap between her intellectual question and her emotional body in turn 2; the live fact of her speaking in turns 24-32). Vulnerability appears as honest self-disclosure without authority-posturing ('I like parts work, I'll use it even sometimes' in turn 16) — he doesn't need to invalidate her framework to make his point. Impartiality is strong: when the client says her original topic isn't alive, he doesn't push it and instead opens space ('I'm wondering if you have something else you want to work on?'). Empathy is felt rather than performed — no filler validation, no 'thank you for sharing.' The pace is unhurried; questions are single and held (turn 10 'so what's you?'; turn 22 'How do you not trust it?'; turn 26 'You just spoke.') with room for the client to land. The signature inversion in turn 22 and the present-moment pointing in turns 24-32 emerge from genuine noticing of what's happening in the room, not from running a script. No agenda for outcome is detectable — he's tracking what's alive, not steering toward a predetermined insight.\",\n  \"evidence_turns\": [2, 6, 10, 16, 22, 26, 30, 32],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names what he's noticing transparently and offers the client the choice to redirect — impartial, not attached to original topic.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Simple, undefended acknowledgment. No over-validation, no rush to technique.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Single question, held open. Wonder for the actual phenomenon of self vs. parts.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Vulnerable disclosure ('I like parts work, I'll use it') — doesn't position himself above her framework.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"The inversion arrives from genuine curiosity, not as a script move — he's actually wondering.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Three words. Pace slows dramatically. Pointing at the live moment without explanation.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Stays with the present-moment phenomenon. No rush to land it for her.\"},\n    {\"turn\": 32, \"polarity\": \"+\", \"annotation\": \"Synthesis is offered as wondering ('How is that happening?') rather than as teaching.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"Offers the reframe with a light touch ('I've got another one for you') — undefended, not preacher-mode.\"}\n  ],\n  \"expected_territory_hits\": [\"view\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"This dimension is about state, not moves. The state is clearly VIEW — the moves catalog is for methodology fidelity.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3781,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1058,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3781,
+    "output_tokens": 1058,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:24.853Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5911cc3269280e61f8e88d63559621143fbc78eac1cb35536a1df34bd9a84d42",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013DX3sFLP7f2C3hJp12BK9B",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 1,\n  \"rationale\": \"The coach uses generic self-help, CBT, and pop-psych vocabulary throughout with zero signature AoA questions or frameworks. Turn 2 immediately issues a verdict ('No, you're not being selfish'), which is the trap. Turn 4 prescribes communication tips ('I feel statements'), Turn 8 explicitly deploys CBT reframing ('Try reframing it... abundance mindset') — an anti-AoA frame. There is no exploration of the want underneath, no 'what do you actually want?', no touching of the inherited 'selfish' label, no feel-over-figure, no fear question. The coach talks ABOUT emotions ('Guilt is just an emotion') rather than coaching the client into feeling. Pop-psych terms ('self-care,' 'abundance mindset,' 'give yourself permission,' 'resonate') replace any signature methodology.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Issues verdict on the question instead of refusing to debate it; generic self-care language, no signature question.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Prescriptive communication advice ('think about your partner's needs,' 'communication is key') — pop-coaching, not AoA.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"'I feel statements' and journaling prompts — generic therapy boilerplate, no signature move.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Explicit CBT reframing ('reframing it,' 'abundance mindset') — an anti-AoA frame. Talks about guilt rather than inviting the client to feel it.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Cheerleading and 'permission' framing; no fear question, no want question, no fidelity to methodology.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"linguistic-caveat\", \"childhood-imprinting\"],\n  \"notes\": \"Anti-AoA frame (CBT reframing) deployed explicitly in turn 8, plus zero signature questions or frameworks — clear floor score.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1361,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1361,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 851,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 851,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 1361
+  }
+}

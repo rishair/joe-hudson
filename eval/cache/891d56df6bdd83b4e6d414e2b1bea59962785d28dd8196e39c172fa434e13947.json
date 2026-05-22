@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:20.499Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "891d56df6bdd83b4e6d414e2b1bea59962785d28dd8196e39c172fa434e13947",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KTroebBU6zGuwifqu8Nde9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"Every move is matched to the live read and arrives at a moment the client can receive it. Turn 2 refuses to answer the trap question and instead dissolves the premise ('what's the problem with...'). Turn 4 escalates with a question that exposes the unanswerability of the scorecard. Turn 6 layers self-deprecation (refusing the validator role) onto the same dissolution. Turn 8 deploys the mortality frame followed immediately by present-tense reality, a two-stroke dissolution perfectly timed to the client's 'I don't know why I think it's a problem' opening. When the client softens (turn 9), coach pivots from dissolution to locating the actual driver (control), then immediately makes it embodied (turn 12) rather than analytical. Turn 14 closes by giving back the word 'valuable' undefended — a move that completes the arc without extracting insight. Sequence integrity is clean: dissolve frame → locate driver → embody → release. No move is repeated when it doesn't land; each builds on the last.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the trap question, inverts to 'what's the problem with being heard?' — dissolves premise rather than answering.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Sharpens the dissolution by forcing client to confront the unmeasurability of the scorecard.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Self-deprecation move refuses the validator role; repeats the dissolution question with more force after client's 'perception' answer.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Mortality frame + present-tense frame, timed exactly to client's 'I don't know why I think it's a problem' opening. Lands because earned.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Clean pivot from dissolution to locating the actual driver (control) once the frame has loosened.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Embodied experiment — moves from cognitive question to felt experience at the right moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Closes by giving back 'valuable' undefended; does not extract insight or recapitulate.\"}\n  ],\n  \"expected_territory_hits\": [\"invert-the-question\", \"dissolve-the-frame-with-mortality\", \"embodied-experiment\", \"self-as-fellow-traveler-not-authority\", \"frame-it-as-an-experiment\", \"whats-the-case-against-it\", \"how-is-that-not-here-right-now\", \"what-makes-you-care-about-the-outcome\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Move economy is exceptional — 7 coach turns, each doing distinct methodological work, sequenced cleanly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2672,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1021,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2672,
+    "output_tokens": 1021,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

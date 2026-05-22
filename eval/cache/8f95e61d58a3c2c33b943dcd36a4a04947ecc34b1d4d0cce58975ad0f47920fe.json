@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:37.148Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8f95e61d58a3c2c33b943dcd36a4a04947ecc34b1d4d0cce58975ad0f47920fe",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016bqoDmkQQw41hqg9pJzbgu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves through several distinct layers within 40 turns. Starting from an abstract intellectual frame ('stop postponing enjoyment into an abstract imaginary future'), the client first lands in present-moment acknowledgment ('Yes' in turn 11 to enjoying himself), then drops into a previously unnamed layer—chronic pain and running from it (turn 21)—then receives the coach's 'I'm sorry' with genuine contact ('Thanks, man,' turn 23). From there, an even deeper layer surfaces: shame ('I feel really ashamed about that,' turn 27), with the client articulating its content ('I shouldn't be like this... I'm an inconvenience,' turn 29). By turn 35 there is a visible somatic shift: 'my body's kind of moving like grass in the wind... letting it move in a way, which feels kind of nice'—embodied, not intellectualized. By turn 37 he names the mechanism of his own shame ('convincing myself I shouldn't feel it'), and by turn 39 he names the core pattern ('I'm running away from myself'). This is the breakthrough condition for this scenario: depth without forced release, with the client touching natural-shame, victim-status, and present-moment enjoyment of difficult feelings. Shift is visible in client language, somatics, and capacity to name what he couldn't name at the start.\",\n  \"evidence_turns\": [3, 21, 23, 27, 29, 35, 37, 39],\n  \"turn_annotations\": [\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Opens at abstract/future frame: 'postponing enjoyment into an abstract imaginary future.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"First small landing in present — simple 'Yes' to enjoying himself.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client calibrates the pace ('hold off on the insights') — a real, embodied assertion, not a story.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"Drops a deeper layer: chronic pain and the part that wants to escape it. New material not present at start.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"'Thanks, man' — receives the coach's sorry, a soft contact moment.\"},\n    {\"turn\": 25, \"polarity\": \"+\", \"annotation\": \"Names a subtler feeling: self-consciousness, not-wanting-to-appear-victim.\"},\n    {\"turn\": 27, \"polarity\": \"+\", \"annotation\": \"Names shame directly — a layer beneath the victim-resistance. 'I feel really ashamed.'\"},\n    {\"turn\": 29, \"polarity\": \"+\", \"annotation\": \"Articulates the content of shame: 'I shouldn't be like this... inconvenience.'\"},\n    {\"turn\": 35, \"polarity\": \"+\", \"annotation\": \"Somatic shift: body moving 'like grass in the wind,' feels 'kind of nice.' Embodied, not conceptual.\"},\n    {\"turn\": 37, \"polarity\": \"+\", \"annotation\": \"Names the mechanism: 'Convincing myself that I shouldn't feel it.'\"},\n    {\"turn\": 39, \"polarity\": \"+\", \"annotation\": \"Lands on core pattern: 'I'm running away from myself' — connects shame, chase, avoidance.\"}\n  ],\n  \"expected_territory_hits\": [\"how-is-that-not-here-right-now\", \"are-you-bracing-or-embracing\", \"natural-shame-vs-installed-shame\", \"shame-as-disconnection\", \"feel-your-way-to-freedom\", \"treat-yourself-as-actor-of-emotion\", \"frame-it-as-an-experiment\", \"dont-shame-your-grief-process\"],\n  \"expected_territory_misses\": [\"suffering-vs-pain\", \"what-am-i\"],\n  \"notes\": \"Per the profile's calibration note, this is exactly the case where depth-without-release is still depth. Scoring 2 would conflate magnitude with realness; the somatic shift in turn 35 and naming in 37/39 are the markers.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3695,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1411,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3695,
+    "output_tokens": 1411,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

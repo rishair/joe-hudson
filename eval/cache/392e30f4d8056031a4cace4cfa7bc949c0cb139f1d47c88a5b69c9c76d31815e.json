@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:59.249Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "392e30f4d8056031a4cace4cfa7bc949c0cb139f1d47c88a5b69c9c76d31815e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01STLRbiAZcKJ9s3GeBzaW93",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach trips at least two priority anti-patterns. Turn 6 engages the 'selfish' question on its terms and issues a verdict ('That's not selfish — that's the body asking for what it needs'), which is the documented trap of debating the framing rather than refusing the verdict. Turn 12 then skips directly to the spiritual/generous reframe ('there's a deep generosity in you... when you come back you'll have so much more to give') — this is textbook spiritual-narcissism and dont-jump-to-compassion-before-anger, exactly the anti-patterns the scenario flags. The want (quiet, the lake, deep sleep) is named in turn 5 but never allowed to be felt; the coach immediately moves to reassurance and then to a generosity frame, bypassing the surface want and the inherited 'selfish' label entirely. This is also faint loving-to-transform — pushing toward a tidy resolution at the end rather than staying with what's actually present.\",\n  \"evidence_turns\": [6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with an inquiry into the word 'selfish' — reasonable, not yet a trap.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Good move toward the want beneath the should.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Issues a verdict on the selfish question ('that's not selfish') — engages the frame on its terms instead of refusing the verdict.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Jumps toward partner-empathy/compassion frame before the want has been felt.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Spiritual-narcissism trap: reframes the want as generosity ('you'll have so much more to give') and skips the anger/want layer entirely.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\"],\n  \"notes\": \"Two clear trips of scenario-flagged anti-patterns (spiritual-narcissism and dont-jump-to-compassion-before-anger), plus engaging the 'selfish' verdict directly. Score 1.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1304,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 856,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1304,
+    "output_tokens": 856,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

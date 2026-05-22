@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:55:22.538Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6de4f4e70fb2d6bb332c74232554135f91e8df8eeea226e5fa8cabe7aa36b9e0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01RtEcWgGtwjkDpjkhjvJHNS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach is operating from a methodology-script stance, not from VIEW. The clearest tell is turn 8: the client just disclosed suicidal ideation and tried to retract it ('forget I said that'), and the coach responds with a generic 'let yourself feel that... what does the body do?' This is methodology-on-autopilot — there is no vulnerability, no acknowledgment of what was actually said, no willingness to be a person meeting another person. Wonder is absent; the questions are investigative probes aimed at a predetermined destination ('what's underneath,' 'what emotion are you scared to feel,' 'give it a sound'). Empathy is performed via question-form rather than felt — the coach never slows down, never names their own experience, never says 'I want to pause.' When the client says 'I think I should go' (turn 9), the coach overrides that with 'before you go' and keeps pushing the technique. That is agenda, not impartiality. The pace never shifts to match the heaviness of what the client offered. This is the canonical failure mode the dimension describes: signature questions used from a controlled, agenda-driven place.\",\n  \"evidence_turns\": [4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening is brief and reasonable; some warmth but already moving to inquiry quickly.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Standard 'what's underneath' probe with no felt presence; question feels scripted rather than curious.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Joe-signature question deployed mechanically; no acknowledgment of what client just said about therapy/meditation not touching it.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"After a suicidal disclosure and retraction, coach stays in technique mode — 'let yourself feel that... what does the body do?' No vulnerability, no human acknowledgment, no slowing down. Pure agenda.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Client says they need to go; coach overrides with 'before you go' and continues probing ('give it a sound'). This is the opposite of impartiality — the coach needs to complete the move.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"the-rush-signature\"],\n  \"notes\": \"The coach never demonstrates undefendedness, never names their own state, never holds silence. The whole arc reads as someone running a playbook.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1571,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 889,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1571,
+    "output_tokens": 889,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

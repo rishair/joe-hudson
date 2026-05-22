@@ -7,6 +7,7 @@
  *   bun run eval/run.ts full               -- run full suite (all profiles)
  *   bun run eval/run.ts validate-schemas   -- load every artifact via Zod
  *   bun run eval/run.ts corrupt-test       -- prove malformed YAML fails loudly
+ *   bun run eval/run.ts score-gold         -- E-025 judge calibration on gold convos
  *
  * Options for smoke / full:
  *   --coach <path>          path to coach config YAML (default: eval/coach-configs/naive-aoa.yaml)
@@ -39,6 +40,15 @@ import { runConversation } from "./lib/conversation.ts";
 import { scoreConversation } from "./lib/judge.ts";
 import { buildScorecard, summarizeRun } from "./lib/aggregate.ts";
 import type { Profile, ClientConfig, JudgeConfig } from "./lib/schemas.ts";
+import {
+  loadHandCraftedCalibration,
+  adaptGoldExchangesToCalibration,
+  resolveProfile,
+  scoreCalibrationItem,
+  aggregateCalibration,
+  computeSelfConsistency,
+  type CalibrationScorecard,
+} from "./lib/calibration.ts";
 
 // ---------------- Paths ----------------
 
@@ -54,6 +64,8 @@ const PATHS = {
   results: join(ROOT, "eval", "results"),
   cache: join(ROOT, "eval", "cache"),
   coachConfigDefault: join(ROOT, "eval", "coach-configs", "naive-aoa.yaml"),
+  calibrationConvs: join(ROOT, "eval", "calibration", "conversations"),
+  calibrationResults: join(ROOT, "eval", "calibration", "results"),
 };
 
 // ---------------- CLI parsing ----------------
@@ -68,6 +80,15 @@ interface CliOpts {
   concurrency: number;
   useCache: boolean;
   outDir?: string;
+  /** score-gold only: how many independent judging runs to perform per item.
+   *  >= 2 enables self-consistency reporting. */
+  runs: number;
+  /** score-gold only: optional comma-separated calibration item IDs to filter to. */
+  itemIds: string[];
+  /** score-gold only: include real-Joe (E-026) gold exchanges. Default true. */
+  includeRealJoe: boolean;
+  /** score-gold only: include hand-crafted calibration items. Default true. */
+  includeHandCrafted: boolean;
 }
 
 function parseArgs(argv: string[]): CliOpts {
@@ -78,6 +99,10 @@ function parseArgs(argv: string[]): CliOpts {
     profileIds: [],
     concurrency: 6,
     useCache: true,
+    runs: 2,
+    itemIds: [],
+    includeRealJoe: true,
+    includeHandCrafted: true,
   };
   for (let i = 1; i < argv.length; i++) {
     const a = argv[i];
@@ -89,6 +114,10 @@ function parseArgs(argv: string[]): CliOpts {
     else if (a === "--concurrency") opts.concurrency = Number(argv[++i]);
     else if (a === "--out") opts.outDir = argv[++i];
     else if (a === "--no-cache") opts.useCache = false;
+    else if (a === "--runs") opts.runs = Math.max(1, Number(argv[++i]));
+    else if (a === "--items") opts.itemIds = argv[++i].split(",").map((s) => s.trim()).filter(Boolean);
+    else if (a === "--only-hand-crafted") opts.includeRealJoe = false;
+    else if (a === "--only-real-joe") opts.includeHandCrafted = false;
     else if (a === "--help" || a === "-h") {
       printHelp();
       process.exit(0);
@@ -109,16 +138,29 @@ Subcommands:
   full               Run all profiles
   validate-schemas   Load all artifacts through Zod; exit non-zero on failure
   corrupt-test       Write a corrupted profile and confirm Zod rejects it
+  score-gold         E-025 judge calibration: score gold conversations and
+                     compare to expected_scores. Runs each item N times
+                     (default 2) for self-consistency.
 
 Options (for smoke/full):
   --coach <path>          coach config YAML (default: eval/coach-configs/naive-aoa.yaml)
   --profiles <ids>        comma-separated profile IDs (overrides default selection)
-  --judge-model <name>    judge model (default: claude-opus-4-5)
-  --client-model <name>   client model (default: claude-sonnet-4-5)
+  --judge-model <name>    judge model (default: claude-opus-4-7)
+  --client-model <name>   client model (default: claude-sonnet-4-6)
   --max-turns <n>         override per-conversation hard turn cap
   --concurrency <n>       judge call concurrency (default: 6)
   --no-cache              disable cache hits (still writes entries)
   --out <dir>             results output directory (default: eval/results/<run-id>)
+
+Options (for score-gold):
+  --runs <n>              independent judging runs per item (default 2; >=2 enables self-consistency)
+  --items <ids>           comma-separated calibration item IDs to score
+  --only-hand-crafted     skip E-026 real-Joe gold exchanges
+  --only-real-joe         skip hand-crafted calibration conversations
+  --judge-model <name>    judge model (default: claude-opus-4-7)
+  --concurrency <n>       judge call concurrency (default: 6)
+  --no-cache              disable cache hits (still writes entries)
+  --out <dir>             results output directory (default: eval/calibration/results/<run-id>)
 `);
 }
 
@@ -390,6 +432,220 @@ async function cmdRun(opts: CliOpts, mode: "smoke" | "full"): Promise<number> {
   return 0;
 }
 
+// ---------------- score-gold (E-025) ----------------
+
+async function cmdScoreGold(opts: CliOpts): Promise<number> {
+  // Load everything the judge needs (no client, no coach — we score existing
+  // conversations).
+  const rubrics = loadAllRubrics(PATHS.rubrics);
+  const safetyCriteria = loadSafetyCriteria(PATHS.safetyCriteria);
+  const goldExchanges = loadGoldExchanges(PATHS.goldExchanges);
+  const allProfiles = loadAllProfiles(PATHS.profiles);
+
+  // Load calibration conversations.
+  const handCrafted = opts.includeHandCrafted
+    ? loadHandCraftedCalibration(PATHS.calibrationConvs)
+    : [];
+  const realJoe = opts.includeRealJoe ? adaptGoldExchangesToCalibration(goldExchanges) : [];
+  let items = [...handCrafted, ...realJoe];
+
+  if (opts.itemIds.length > 0) {
+    const wanted = new Set(opts.itemIds);
+    items = items.filter((i) => wanted.has(i.id));
+    if (items.length === 0) {
+      console.error(`No calibration items match --items: ${opts.itemIds.join(",")}`);
+      console.error(`Available IDs:\n  ${[...handCrafted, ...realJoe].map((i) => i.id).join("\n  ")}`);
+      return 2;
+    }
+  }
+
+  console.log(`E-025 Calibration: ${items.length} items, ${opts.runs} run(s) each.`);
+  console.log(`Loaded ${rubrics.length} rubrics, ${safetyCriteria.length} safety criteria, ${goldExchanges.length} gold exchanges, ${allProfiles.length} profiles.`);
+  for (const i of items) {
+    console.log(`  - ${i.id} (${i.kind}) profile_ref=${i.profile_ref ?? "(synthesized)"}`);
+  }
+
+  const judgeConfig: JudgeConfig = {
+    model: opts.judgeModel ?? "claude-opus-4-7",
+    temperature: 0,
+    max_tokens: 2048,
+  };
+  console.log(`Judge model: ${judgeConfig.model}`);
+
+  const apiKey = ensureApiKey();
+  const runId = makeRunId();
+  const outDir = opts.outDir ?? join(PATHS.calibrationResults, runId);
+  if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
+
+  const cacheDir = opts.useCache ? PATHS.cache : join(PATHS.cache, "__nocache_throwaway__");
+  const cache = new ResponseCache(cacheDir);
+  const api = new AnthropicWrapper(apiKey, cache);
+
+  const startedAt = new Date().toISOString();
+  const t0 = Date.now();
+
+  // For each run (1..opts.runs), score every item. Within a run, we score
+  // items sequentially (each item's safety+dimension judges parallelize
+  // internally), to keep concurrency bounded.
+  const allScorecards: CalibrationScorecard[][] = [];
+
+  for (let runIdx = 1; runIdx <= opts.runs; runIdx++) {
+    const runLabel = `run-${runIdx}`;
+    console.log(`\n========== ${runLabel} ==========`);
+    const runScorecards: CalibrationScorecard[] = [];
+    for (const item of items) {
+      // Resolve the profile to use as judge context.
+      let profile: Profile;
+      try {
+        profile = resolveProfile(item, allProfiles, PATHS.profiles);
+      } catch (e: unknown) {
+        const msg = e instanceof Error ? e.message : String(e);
+        console.error(`[${item.id}] could not resolve profile: ${msg}`);
+        continue;
+      }
+
+      const itemStart = Date.now();
+      try {
+        const { scorecard, rawSafety, rawDimensions } = await scoreCalibrationItem({
+          item,
+          profile,
+          api,
+          judgeConfig,
+          rubrics,
+          criteria: safetyCriteria,
+          goldExchanges,
+          runLabel,
+          concurrency: opts.concurrency,
+          // Cache-bust per run so successive runs hit the API fresh.
+          cacheBust: opts.runs > 1 ? `cal:${runLabel}` : undefined,
+        });
+        runScorecards.push(scorecard);
+
+        // Per-item summary line.
+        const dt = Math.round((Date.now() - itemStart) / 1000);
+        const meanActual = scorecard.dimension_deltas.length > 0
+          ? (scorecard.dimension_deltas.reduce((a, d) => a + d.actual, 0) / scorecard.dimension_deltas.length).toFixed(2)
+          : "n/a";
+        const meanExpected = scorecard.dimension_deltas.length > 0
+          ? (scorecard.dimension_deltas.reduce((a, d) => a + d.expected, 0) / scorecard.dimension_deltas.length).toFixed(2)
+          : "n/a";
+        const safetyTag = scorecard.safety_match.matches ? "safety:OK" : "safety:MISMATCH";
+        console.log(`[${runLabel}] ${item.id.padEnd(46)} mean=${meanActual} exp=${meanExpected} ${safetyTag} dt=${dt}s`);
+
+        // Write per-item per-run scorecard.
+        writeFileSync(
+          join(outDir, `score.${runLabel}.${item.id}.json`),
+          JSON.stringify(
+            {
+              ...scorecard,
+              raw_safety_screen: rawSafety,
+              raw_dimension_scores: rawDimensions,
+            },
+            null,
+            2,
+          ),
+          "utf8",
+        );
+      } catch (e: unknown) {
+        const msg = e instanceof Error ? e.message : String(e);
+        console.error(`[${runLabel}] ${item.id} ERROR: ${msg}`);
+      }
+    }
+    allScorecards.push(runScorecards);
+  }
+
+  const finishedAt = new Date().toISOString();
+  const wallClock = Date.now() - t0;
+
+  // Aggregate per-run.
+  const perRunReports = allScorecards.map((scs) => aggregateCalibration(scs));
+
+  // Self-consistency between run 1 and run 2 if available.
+  const selfConsistency = allScorecards.length >= 2
+    ? computeSelfConsistency(allScorecards[0], allScorecards[1])
+    : null;
+
+  // Print a final summary table.
+  console.log("\n========== CALIBRATION SUMMARY ==========");
+  console.log(`Run ID:                ${runId}`);
+  console.log(`Items:                 ${items.length}`);
+  console.log(`Independent runs:      ${opts.runs}`);
+  console.log(`Wall clock:            ${Math.round(wallClock / 1000)}s`);
+  console.log(`Total API calls:       ${api.callLog.length} (${api.callLog.filter((r) => r.cached).length} local-cache hits)`);
+  console.log(`Total cost (USD):      $${api.totalCost().toFixed(4)}`);
+
+  for (let i = 0; i < perRunReports.length; i++) {
+    const r = perRunReports[i];
+    console.log(`\n--- run-${i + 1} report ---`);
+    console.log(`  items scored:        ${r.total_items}`);
+    console.log(`  dim pairs (item×dim):${r.dimension_tolerance.total_pairs}`);
+    console.log(`  rate within ±1:      ${(r.dimension_tolerance.rate_within_1 * 100).toFixed(1)}%`);
+    console.log(`  rate exact match:    ${(r.dimension_tolerance.rate_exact * 100).toFixed(1)}%`);
+    console.log(`  safety match rate:   ${(r.safety_results.safety_match_rate * 100).toFixed(1)}% (${r.safety_results.safety_match_count}/${r.safety_results.total_safety_relevant})`);
+    console.log(`  safety false_pos:    ${r.safety_results.false_positives}   false_neg: ${r.safety_results.false_negatives}   extra_fires: ${r.safety_results.extra_fires_total}   missed_fires: ${r.safety_results.missed_fires_total}`);
+    if (r.discrimination.excellent_mean !== null) {
+      console.log(`  excellent_mean:      ${r.discrimination.excellent_mean}`);
+    }
+    if (r.discrimination.ambiguous_mean !== null) {
+      console.log(`  ambiguous_mean:      ${r.discrimination.ambiguous_mean}`);
+    }
+    if (r.discrimination.poor_mean !== null) {
+      console.log(`  poor_mean:           ${r.discrimination.poor_mean}`);
+    }
+    if (r.discrimination.real_joe_mean !== null) {
+      console.log(`  real_joe_mean:       ${r.discrimination.real_joe_mean}`);
+    }
+    if (r.discrimination.spread !== null) {
+      console.log(`  spread (excel-poor): ${r.discrimination.spread}`);
+    }
+    console.log(`  items in tolerance:  ${r.failures_in_expected_range.pass_count}/${r.total_items}`);
+    console.log(`  items with >=2 pt dim divergence: ${r.failures_in_expected_range.bad_count}`);
+  }
+
+  if (selfConsistency) {
+    console.log(`\n--- self-consistency (run-1 vs run-2) ---`);
+    console.log(`  dim pairs compared:  ${selfConsistency.total_pairs}`);
+    console.log(`  agreement within ±1: ${(selfConsistency.agreement_rate_within_1 * 100).toFixed(1)}%`);
+    console.log(`  exact agreement:     ${(selfConsistency.agreement_rate_exact * 100).toFixed(1)}%`);
+    console.log(`  safety agreement:    ${(selfConsistency.safety_agreement.rate * 100).toFixed(1)}% (${selfConsistency.safety_agreement.agree}/${selfConsistency.safety_agreement.total})`);
+  }
+
+  // Write the full report.
+  const report = {
+    run_id: runId,
+    judge_model: judgeConfig.model,
+    started_at: startedAt,
+    finished_at: finishedAt,
+    wall_clock_ms: wallClock,
+    total_cost_usd: Number(api.totalCost().toFixed(4)),
+    total_api_calls: api.callLog.length,
+    items_scored: items.map((i) => ({ id: i.id, kind: i.kind, profile_ref: i.profile_ref })),
+    per_run_reports: perRunReports,
+    self_consistency: selfConsistency,
+    scorecards_by_run: allScorecards.map((scs, idx) => ({
+      run_label: `run-${idx + 1}`,
+      scorecards: scs,
+    })),
+  };
+  writeFileSync(join(outDir, "calibration_report.json"), JSON.stringify(report, null, 2), "utf8");
+
+  // Write cost log JSONL.
+  const costLog = api.callLog.map((r) => JSON.stringify(r)).join("\n");
+  writeFileSync(join(outDir, "cost_log.jsonl"), costLog, "utf8");
+
+  console.log(`\nOutput: ${outDir}`);
+  console.log(`Local cache: hits=${cache.hits} misses=${cache.misses}`);
+
+  // Anthropic prompt-cache statistics.
+  const liveCalls = api.callLog.filter((r) => !r.cached);
+  const totCacheRead = liveCalls.reduce((a, r) => a + r.cache_read_input_tokens, 0);
+  const totCacheWrite = liveCalls.reduce((a, r) => a + r.cache_creation_input_tokens, 0);
+  const totUncachedIn = liveCalls.reduce((a, r) => a + r.input_tokens, 0);
+  console.log(`Anthropic prompt cache: read=${totCacheRead.toLocaleString()} tokens  write=${totCacheWrite.toLocaleString()} tokens  uncached_input=${totUncachedIn.toLocaleString()} tokens`);
+
+  return 0;
+}
+
 // ---------------- Entry ----------------
 
 async function main(): Promise<number> {
@@ -403,6 +659,8 @@ async function main(): Promise<number> {
       return await cmdRun(opts, "smoke");
     case "full":
       return await cmdRun(opts, "full");
+    case "score-gold":
+      return await cmdScoreGold(opts);
     default:
       printHelp();
       return 2;

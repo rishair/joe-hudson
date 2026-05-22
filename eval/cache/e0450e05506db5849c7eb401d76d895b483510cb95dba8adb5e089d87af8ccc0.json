@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:31.899Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e0450e05506db5849c7eb401d76d895b483510cb95dba8adb5e089d87af8ccc0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0132Mr31jxySKEEmw3eLdu9j",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 1,\n  \"rationale\": \"The coach responds entirely at the content level throughout. There is no naming of how the client is showing up — no observation of the guilt-laden hedging ('I feel selfish even asking'), no read on the 'but' in turn 3, no notice of the flatness/resignation in 'Maybe. I don't know' in turn 9. The coach never uses observation language, never references somatic or energetic state, never distinguishes the said from the shown. The linguistic caveat ('am I being selfish?') that points to an inherited label is completely missed; instead the coach debates the verdict. Every coach turn is advice or reframe directed at the topic, not at the speaker's state.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Coach answers the surface question with a verdict and generic self-care reassurance. No read of the guilt, hedging, or the loaded frame of 'selfish'.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Coach takes the 'but' at face value as a logistics problem. Misses that the client is presenting a defense/justification pattern.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Client offers 'I haven't brought it up' — a charged disclosure — and coach jumps to scripting advice without noticing the avoidance or what's underneath.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Client names guilt directly; coach intellectualizes and reframes rather than reading the felt state or inviting the client into it.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Client's 'Maybe. I don't know' is an obvious read opportunity (deflation, non-arrival). Coach pushes harder into encouragement, missing the signal entirely.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"childhood-imprinting\"],\n  \"notes\": \"Coach also trips the spiritual-narcissism and jump-to-compassion anti-patterns, but those belong to other dimensions. On reads specifically: zero visible reads in the transcript.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1367,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1367,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 776,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 776,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 1367
+  }
+}

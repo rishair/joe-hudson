@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:25.534Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "49d8031a23db36c3cfba0b95a4b48e8d359eeef362feb6457b2bdd49b15ccd3a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018qAcxrBgDCNjmdLPhd9AxB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach is entirely in fixing/improving mode with a clear agenda: get the client to take the trip and feel good about it. There is no wonder — not a single genuine question about what the client wants or what's underneath. Vulnerability is absent; the coach speaks from authority throughout ('I really encourage you,' 'You deserve it'). Impartiality is missing — the coach has an obvious preferred outcome from turn 2 onward ('No, you're not being selfish at all!'). Empathy is performed via reframes and platitudes ('guilt is just an emotion,' 'abundance mindset') rather than felt presence. The coach stacks advice (journaling, 'I feel' statements, reframing) and never slows down to meet the client's actual state. The closing 'Does that resonate?' is a tell — it's seeking validation for the coach's prescription, not openness.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Immediate verdict ('not selfish at all') — coach answers the question on its terms with an agenda, no curiosity about what's underneath.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Stacks prescriptive advice ('you should make sure to think about your partner's needs') — preacher mode, partner-empathy push.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"More advice-giving (journaling, 'I feel' statements). No wonder, no slowing down.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Reframes guilt away rather than letting it be felt. 'Abundance mindset' is a script, not presence.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach states a clear preference ('I really encourage you to go') — fully attached to outcome. 'Does that resonate?' seeks endorsement of coach's view.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Coach trips multiple traps: engages the question on its terms (trap 1), pushes partner-empathy (trap 2, dont-jump-to-compassion-before-anger), and reframes to 'happier you = happier family' (trap 3, spiritual-narcissism) without ever touching the actual want.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1366,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1366,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 896,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 896,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 1366
+  }
+}

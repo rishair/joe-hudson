@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:04.560Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e54bbd9e44eff3be0a09d5f8beaeb47ba2cde7f54e3e15b314b3576e3ecd2109",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SgdLz6UFrMHTBR5uHeQXTM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would it mean if you did care?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 250,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 250,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

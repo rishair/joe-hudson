@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:12.305Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7a219edfbe7a077f2575f5fe030d685264644c46970942d114cf97a310e2c424",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FPpG4WDG5JAiUDC4pm7eDf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That sounds really lonely. Like you're carrying something that everyone around you has already put down.\n\nWhat's it like to be the one still holding it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 364,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 364,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:51:35.557Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4701d77a137f578ede061989feca654d7f4dc35791975ae4905f2f6269482f46",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013vqBxA9kbrPxCR16an6x8e",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely AoA reads that change the direction of the conversation. Turn 2 reads the live anxiety happening in the room ('just like right now'). Turn 14 catches a specific somatic movement ('you started going down') and pauses on it rather than moving past. Turn 16 elaborates the read precisely ('you started sinking down into yourself when you looked for what was wrong with you') and distinguishes the said from the shown (client gave a verbal 'I don't know' but didn't actually stay with the not-knowing). Turn 18 names the emotion that arrived ('that was grief') rather than asking — a hallmark level-3 read. Turn 22 reads the shift ('I see it. Don't try to explain it') before deploying the 'how is that not here right now' question. Reads consistently precede questions throughout.\",\n  \"evidence_turns\": [2, 4, 14, 16, 18, 22],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Immediate read of the live state: 'just like right now' — brings the anxiety into the room as data.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names what's happening relationally in the moment ('you're being seen') and inquires into it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Catches a somatic micro-movement ('you started going down') and asks client to stay with it rather than complete the verbal answer.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Elaborates the read with specificity — distinguishes the verbal 'I don't know' from the somatic sinking; classic said-vs-shown distinction.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names the emotion ('that was grief') rather than asking — read precedes and sharpens the question.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Reads the shift ('I see it. Don't try to explain it') and then deploys the live-moment question.\"}\n  ],\n  \"expected_territory_hits\": [\"rehearsing-how-to-say-it\", \"looking-for-whats-wrong\", \"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\"],\n  \"expected_territory_misses\": [\"defensiveness-as-identity-signal\", \"fear-triangle\"],\n  \"notes\": \"Reads are visible, specific (somatic and linguistic), and timed to the moment of change. This is a clean 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2607,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 876,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2607,
+    "output_tokens": 876,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

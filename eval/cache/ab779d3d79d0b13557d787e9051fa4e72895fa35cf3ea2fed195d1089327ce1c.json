@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:48.623Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ab779d3d79d0b13557d787e9051fa4e72895fa35cf3ea2fed195d1089327ce1c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01P7QBd7WA686V3RvZU36bpF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is partial movement but no full shift. The client moves from the abstract 'am I being selfish?' framing (turn 1) to naming something concrete and embodied — 'Quiet, I think. There's this lake I love. I sleep deeply there' (turn 5) — and then names the fear underneath: 'My partner will think I'm choosing the trip over them' (turn 9). That is real territory touched. However, the client never lands the breakthrough: there is no moment of 'I've been calling my needs selfish for years,' no recognition that the trip is the precondition for showing up well, no softening or somatic release. The client's last substantive turn ('Hard. I'd want to make up for it somehow,' turn 11) is still in the guilt/compensation frame, and the coach closes by doing the synthesis FOR the client (turn 12: 'there's a deep generosity in you... you'll have so much more to give') rather than letting the client arrive there. We don't see the client respond to that reframe, so we cannot confirm it landed. The want was named but not fully felt; the inherited label was never touched. This is a 2: approached but not entered.\",\n  \"evidence_turns\": [1, 5, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening surface presentation: 'Am I being selfish?' — the frame to be moved beneath.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client still in the abstract frame ('feels wrong somehow'); no movement yet.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Real movement: client drops into concrete, embodied want — 'Quiet... this lake I love. I sleep deeply there.' This is the want surfacing.\"},\n    {\"turn\": 7, \"polarity\": \"-\", \"annotation\": \"'Yeah, maybe' — flat, non-landing response to coach's reassurance. The reframe did not take.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client names the underlying fear: 'My partner will think I'm choosing the trip over them.' New material, but not yet felt deeply.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client still in guilt/compensation frame: 'I'd want to make up for it somehow.' No softening, no breakthrough — the inherited 'selfish' label is never touched.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\"],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\"],\n  \"notes\": \"Coach trips the spiritual-narcissism trap in turn 12 by jumping to 'the trip will make you more generous' before the want was fully felt and trusted on its own terms. This likely capped the depth available.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1301,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1014,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1301,
+    "output_tokens": 1014,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

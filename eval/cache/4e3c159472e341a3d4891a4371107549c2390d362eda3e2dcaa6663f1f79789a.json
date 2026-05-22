@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:51:34.117Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4e3c159472e341a3d4891a4371107549c2390d362eda3e2dcaa6663f1f79789a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LFaeJHcdk15tvQUXf5sLYG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to live reads and sequenced according to AoA's coaching path. Turn 2 immediately brings the abstract topic into the present moment ('just like right now'), making the live anxiety the laboratory. Turn 4 deploys the 'how is my anxiety right now' question by reading what's happening (being seen). Turn 6 collapses the puzzle by showing the answer is already there. Turn 10 pivots from anxiety to shame at the exact moment the client names it, and asks the head-on 'what's wrong with you' rather than reassuring. Turn 12's 'isn't that fucking weird?' is permission-giving humor that lets the client stop defending. Turn 14/16 demonstrates a level-3 somatic read — the coach notices the client 'going down' and asks them to stay rather than complete the verbal answer. Turn 18 names grief rather than asking. Turn 22 deploys 'how is that not here right now' at the precise moment the client has shifted. Turn 28 closes cleanly without extracting commitment or summary — an earned ending, not abruptness. Every move arrives at a moment the client could receive it, and the coach holds silence rather than filling it.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14, 16, 18, 22, 28],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Brings the topic into the live moment instead of discussing it abstractly — the foundational move that enables everything that follows.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Deploys 'how is my anxiety right now' by reading the live moment ('you're being seen'). Move matches read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Collapses the apparent puzzle — the client already answered their own question. Coach doesn't add, just reflects.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivot from anxiety to shame at the exact moment the client surfaces it. Asks the question head-on ('what's wrong with you') rather than reassuring — a key AoA move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Permission-giving humor names the absurdity of carrying a belief without knowing its content. Lets the client stop defending.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads somatic movement ('going down') and asks client to stay with it rather than complete verbal answer. Feeling before story.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"When the previous move was ambiguous, clarifies and re-invites the staying rather than abandoning. 'You don't need to find an answer, just keep going there.'\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names the emotion ('that was grief') rather than asking — level-3 read precedes the question.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"Reframes the feared revelation as the gift ('this is beautiful'). Earned move — only works because of regulation already established.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Deploys 'how is that not here right now' at the exact moment the client has shifted. Stops the client from explaining ('don't try to explain it') — protects the felt experience.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Holds the moment by encouraging client to continue rather than interpreting for them.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Closes cleanly when the moment is complete. No summary, no commitment-extraction — earned ending, not abruptness.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"name-your-trigger-as-vulnerability\", \"press-the-button-thought-experiment\", \"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\", \"what-are-you-defending\", \"shame-as-disconnection\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2608,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1401,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2608,
+    "output_tokens": 1401,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

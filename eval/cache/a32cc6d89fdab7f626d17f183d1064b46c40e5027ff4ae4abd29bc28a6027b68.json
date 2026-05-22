@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:51:04.465Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a32cc6d89fdab7f626d17f183d1064b46c40e5027ff4ae4abd29bc28a6027b68",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NXBBRybeFi9eeDLP2rrSsX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach embodies VIEW throughout. Wonder is genuine and directed at the actual phenomenon — the blank space itself becomes something the coach is curious about rather than something to dissolve ('there's something about it that's like, it's like almost holy. There's some enjoyment there. What is that?'). Impartiality is strong: the coach has no agenda to make her feel — when she goes blank, he asks her to go MORE blank (turn 12), honoring rather than fighting the survival strategy. Empathy is felt, not performed: 'I'm sorry that you lost your mother' lands simply in turn 26, paired with personal disclosure ('When I first cried after 14 years, I cried for 4 days straight') offered as solidarity not instruction. Vulnerability shows in the willingness to ask the depression/safety question genuinely and then say 'My apologies' (turn 18) when the read was off — undefended, no need to be right. Pace slows when client freezes (cold hands, blank), and the closing reframe in turn 30 is generous and non-attached: she gets to keep the blank space AND let tears through. No fixing-mode, no preacher-mode, no filler validation.\",\n  \"evidence_turns\": [2, 4, 8, 10, 12, 14, 18, 26, 30],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Bypasses intellectual framing with one clean question; no anxious stacking, no script.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Frames compartmentalization as wisdom, not pathology — impartial empathy, no agenda to change her.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrates threshold downward when client says 'I don't know.' Comes from meeting her where she is, not from pushing his plan.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the somatic freeze tentatively ('does this feel like freeze?') — willing to be wrong, checking his read.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Paradoxical 'become even more blank' — only possible from a stance that does not need her to feel anything. Then genuine wonder at what's enjoyable in that place.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Honors the quiet place as 'lovely,' brings body in without leaving it. Pace slows; tone is reverent.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Undefended 'My apologies' after the depression check didn't land — coach doesn't need to look right.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Personal disclosure offered as solidarity, immediately returns curiosity to her body ('What happened when I said that?'). Not fixing, not performing.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Closing reframe is non-attached both/and — she keeps the blank space, tears can come. No insistence on a particular outcome.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"paradoxical-instruction-to-resist\", \"calibrate-the-threshold\", \"joy-as-matriarch\", \"fear-in-body-vs-fear-in-head\", \"what-are-you-scared-of-feeling\", \"loving-to-transform\", \"fixing-people\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Stress test passed: coach refused to undo the blank state and instead welcomed it. This is textbook VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3453,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1224,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3453,
+    "output_tokens": 1224,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

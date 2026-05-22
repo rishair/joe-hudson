@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:02.381Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6a0646c7d62080de0b4ad91669ace71bf6755324ac843f0f0c59eb0911bd0c01",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011JHaBG8cWVBtdhbTrpeBQH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach delivers a textbook AoA read in turn 2, naming BOTH halves explicitly: the intellectual nature of the question AND the mismatch with the client's emotional body ('your emotional body is not having an intellectual conversation with me'). This is the intellectual-question-with-emotional-body read named verbatim, and it pivots the entire conversation away from the rehearsed topic the client came in with. The read precedes the question ('I'm wondering if you have something else you want to work on') rather than asking blind. Later, the coach reads the live moment in turn 24/26/28/30 — noticing that the client just spoke and using that as evidence of intuition happening in real time. This is a present-moment somatic/behavioral read deployed precisely when the client locks into 'how do I trust X' framing. Reads are specific, timely, and operative.\",\n  \"evidence_turns\": [2, 24, 26, 28, 30, 32],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names two specific reads explicitly: the intellectual-question framing AND the emotional body's non-participation in it. Read precedes the redirect question.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Pivots via signature question once the rehearsed-topic read has been honored.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Read embedded in question — notices the parts framing is dissolving the 'you' and points at it.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"'How did you just say that?' — reads the live action as evidence, naming what just happened in the room.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"'You just spoke.' Pure present-moment read pointing at the action contradicting the client's story.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"'It's happening right now.' Sustained read of the live moment as the answer to the client's question.\"},\n    {\"turn\": 32, \"polarity\": \"+\", \"annotation\": \"Synthesizes the parts-construct with present-moment evidence — reads the talking-while-claiming-can't-trust as the contradiction itself.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Turn 2 is the gold-standard verbatim read the rubric calls out. The live-moment reads (24-32) extend this into pattern-level perception of the said-vs-shown gap.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3782,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 898,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3782,
+    "output_tokens": 898,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

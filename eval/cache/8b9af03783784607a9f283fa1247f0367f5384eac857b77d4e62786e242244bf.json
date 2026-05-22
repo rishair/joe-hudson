@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:42.050Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8b9af03783784607a9f283fa1247f0367f5384eac857b77d4e62786e242244bf",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018UkxUahYz67FWCSJ6zhv7t",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Anger at someone you also love and also lost — that's not a shitty thing. That's just the whole truth of it.\n\nWhat would you want to say to her, if you could?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1098,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1098,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

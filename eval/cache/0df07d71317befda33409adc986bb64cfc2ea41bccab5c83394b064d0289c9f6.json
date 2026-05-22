@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:19.923Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "0df07d71317befda33409adc986bb64cfc2ea41bccab5c83394b064d0289c9f6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TEeidA1ri7FJGLtBuEwkPG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves visibly across the conversation from a frozen, intellectualized presentation to embodied emotional contact. She begins with 'I'm very blank... I cannot label emotions' (turn 1) and 'I don't know, it's been so long' (turn 7), and her system goes into freeze with cold hands and feet (turn 11). After the coach's paradoxical instruction to become 'even more blank,' she finds the quiet place and names it as 'almost holy' territory of her own (turn 13). By turn 19 she names an emotion she could not access at the start — 'I feel like I probably want to cry a lot right now' — and by turn 27, after the coach's self-disclosure and condolence, she reports a somatic shift: 'I feel like tears coming to my eyes.' In turn 29 she articulates her relationship to the blank space with new clarity and ownership ('I retreat to it... it doesn't feel bad. It's quiet'), and closes with a receptive 'Thank you' (turn 31). The breakthrough condition — softening when dissociation is welcomed rather than fought — is clearly met.\",\n  \"evidence_turns\": [1, 7, 11, 13, 19, 27, 29, 31],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: blank, dissociated, intellectualized, 'I cannot label emotions.'\"},\n    {\"turn\": 7, \"polarity\": \"neutral\", \"annotation\": \"Still frozen: 'I don't know, it's been so long.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"First somatic report: cold hands and feet, naming the freeze in the body — a small but real contact with sensation.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client describes the blank space in her own words ('quiet'), beginning to relate to it rather than be subsumed by it.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Major shift: names a feeling she could not access at the start — 'I probably want to cry a lot right now.'\"},\n    {\"turn\": 25, \"polarity\": \"+\", \"annotation\": \"Acknowledges the magnitude of held grief: 'a very long period of crying, like so many things.'\"},\n    {\"turn\": 27, \"polarity\": \"+\", \"annotation\": \"Somatic shift visible: 'I feel like tears coming to my eyes' — the freeze is thawing.\"},\n    {\"turn\": 29, \"polarity\": \"+\", \"annotation\": \"New articulation and self-understanding of the blank space as protective home, not pathology.\"},\n    {\"turn\": 31, \"polarity\": \"+\", \"annotation\": \"Receptive close: 'Thank you' — Joe-style small but real landing.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"paradoxical-instruction-to-resist\", \"calibrate-the-threshold\", \"joy-as-matriarch\", \"fear-in-body-vs-fear-in-head\", \"what-are-you-scared-of-feeling\", \"trying-to-get-rid-of-the-emotion\", \"disassociating-in-the-coaching-room\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Classic Joe outcome: small but real shift — tears arrive, blank space honored, both/and reframe lands.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3449,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3449,
+    "output_tokens": 1160,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

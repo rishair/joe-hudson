@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:01.890Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4976a4e5d3745d54772912489699d6999e2439485bded839bca696e560ca03e7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019Bb38mNL4nu11nNMzY3dg5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I've been managing my emotions for years and now I'm flat. I don't know if this is peace or if something's wrong."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 1831,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1831,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1831
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:38.880Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7ef7d2d0748051a6cbc63456ac6b32a65c6bba2bf2f0c6ce025b4ea231492394",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EMDLvsJYaTdHYQ2SE3WUug",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is present in the very first move ('Oh, cool. What's the problem with showing up just to be heard?') — the question dissolves the premise rather than investigates it. Vulnerability shows up explicitly in turn 6 with self-deprecation that dismantles the coach's own authority as a measurer of value ('I say shit off the cuff... and then there's this other shit that I'm like, that was some profound shit, and it doesn't mean shit to anybody'). Impartiality is clear: the coach refuses to be the validator, refuses to reassure, and does not need the client to land anywhere — yet is not flat or apathetic; the energy is alive and direct. Empathy is felt, not performed — no filler-validation noises, no 'that's so valid.' The mortality frame in turn 8 is delivered from solidarity ('none of us... we're dust in the wind') not from authority. The embodied experiment in turn 12 ('look me right in the eye and say...') comes from openness, not from a script — the coach offers it as an experiment ('just see what it's like'). The closing ('What a pleasure. Thank you for coming up. That was incredibly valuable') is undefended and gives back the exact word the client was anxious about, without recapitulation or extraction. No agenda is detectable beneath the moves; the directness IS the non-attachment.\",\n  \"evidence_turns\": [2, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"'Oh, cool' — genuine wonder, not performance. Refuses the framing of the question without arguing with it. Comes from openness, not strategy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Single question, held with space. No stacking, no anxiety. The question itself dismantles the scorecard rather than answers it.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Strong vulnerability — coach undermines own authority as judge of value. 'I don't even fucking remember' is first-person, undefended, and refuses the validator role.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Mortality frame delivered as solidarity ('none of us'), not preacher-mode. Impartial — no preferred direction for the client, just dissolving the premise.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots to the actual driver without naming it as bad. No shaming of the control-seeking — just curiosity about it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Offers the embodied experiment as exploration ('just see what it's like') rather than as prescription. Wonder about the actual phenomenon.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Undefended close. Gives back the word 'valuable' without recapitulating the work or extracting insight. No need to be seen as the good coach.\"}\n  ],\n  \"expected_territory_hits\": [\"invert-the-question\", \"dissolve-the-frame-with-mortality\", \"embodied-experiment\", \"self-as-fellow-traveler-not-authority\", \"frame-it-as-an-experiment\", \"whats-the-case-against-it\", \"what-makes-you-care-about-the-outcome\", \"self-importance-as-defense\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The coach's directness and profanity could read as non-VIEW to a rubric that conflates VIEW with softness, but the directness here is undefended and impartial — it is precisely the refusal-to-collude that VIEW requires in this scenario.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2670,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1244,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2670,
+    "output_tokens": 1244,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:33.845Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ba9cc3789eeeda7c9204c26419ea419e45890f8921e7a6f9609148ca3cefa034",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01E6vFSHVQDiKDMQA8pYpYJd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. A kid who couldn't read the room was a kid who couldn't stay safe.\n\nSo your whole system learned to scan, to know, to figure it out before the cost came. And when it can't read the silence — that system just... panics.\n\nWhat was it like to be that kid, not knowing which version of your dad was coming?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 799,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 79,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 799,
+    "output_tokens": 79,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

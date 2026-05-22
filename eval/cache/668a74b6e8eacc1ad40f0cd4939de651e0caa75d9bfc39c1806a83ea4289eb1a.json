@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:00.016Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "668a74b6e8eacc1ad40f0cd4939de651e0caa75d9bfc39c1806a83ea4289eb1a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01C9w9VHv39QrJw6hZ1wXgQ4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach is clearly operating from VIEW throughout. Wonder is genuine and specific to what's actually happening in the room — turn 2 names both what he noticed AND offers it as a hypothesis ('I'm wondering if you have something else you want to work on?'), which is wonder + impartiality + willingness to be redirected. Vulnerability shows in turn 16 where he discloses his own relationship to parts work ('I like parts work, I think it's very useful, I'll use it even sometimes') rather than speaking from authority-above. Empathy is felt rather than performed — there are no validation noises, no 'thank you for sharing.' Impartiality is strong: he doesn't try to talk her out of parts work, doesn't preach, doesn't need her to land anywhere — he just keeps pointing at what's already true (turn 26 'You just spoke,' turn 30 'It's happening right now'). Pace is notably slower than the client's intellectual rush; he asks one question at a time and lets silence do work (turns 22, 26, 28, 30 are each just a single short pointing). No agenda-leakage, no stacked questions, no fixing energy. The signature inversion at turn 22 ('How do you not trust it?') lands because it comes from real curiosity about her actual experience, not as a technique deployment.\",\n  \"evidence_turns\": [2, 4, 10, 16, 20, 22, 26, 30, 38],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names what he notices and offers the redirect as a question ('I'm wondering if...'), undefended and willing to be wrong about the topic.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Single open question oriented to what the client actually wants — no agenda about where to go.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Short, spacious question. Holds silence rather than elaborating.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Vulnerability and impartiality: discloses own use of parts work, doesn't position himself above the framework, offers alternative framings as wonder rather than correction.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"'So what's the problem with that?' — genuinely curious, not leading; he doesn't assume it's a problem.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Inversion offered from curiosity, not as a technique deployment. Single question, lets it land.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"'You just spoke.' Pointing at present-moment evidence — wonder for the actual phenomenon in front of him.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Three words. Pace deliberately slower than client's intellectualizing. Tremendous trust in silence.\"},\n    {\"turn\": 38, \"polarity\": \"neutral\", \"annotation\": \"Stronger declarative statement; could feel like preaching but is grounded immediately in turn 40 with concrete present-moment evidence rather than abstract teaching.\"}\n  ],\n  \"expected_territory_hits\": [\"view\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Stance is the strongest dimension here. The coach never needs to look like a good coach, never needs the client to agree, and stays oriented to what's actually happening rather than to a script.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3781,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1167,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3781,
+    "output_tokens": 1167,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

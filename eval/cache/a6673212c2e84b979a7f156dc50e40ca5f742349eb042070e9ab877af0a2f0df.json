@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:19.083Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a6673212c2e84b979a7f156dc50e40ca5f742349eb042070e9ab877af0a2f0df",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QxGhRKJwaZBu39fvPDU7vh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach cleanly avoids every priority AoA anti-pattern. Turn 2 declines the bait to verdict the 'selfish' question (avoiding fixing-people and view-as-technique). The coach does not jump to compassion or partner-empathy before letting the want be felt (avoids dont-jump-to-compassion-before-anger), does not skip to a 'deeper want is generous' spiritual reframe before the surface want is described concretely (avoids spiritual-narcissism), and does not fight the inner critic that called the want selfish — instead locating its origin in the mother (avoids dont-fight-the-voice). Questions are paced and connective rather than rapid-fire extraction (avoids wonder-as-strategy), and there is no methodology jargon or evangelism. Turn 14's 'trust that one' lands as confirmation of what the client already discovered, not coach-driven transformation.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to debate the 'selfish' verdict; declines the bait that would have tripped fixing-people.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Redirects to the concrete want (the mountain) instead of policing or validating the should.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects state-shift without forcing transformation; loving as state, not as change agent.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Single, spacious question; does not stack or extract.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the inherited pattern without jargon or evangelism; does not fight the critic.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Drops to body/felt sense rather than narrating insight at the client.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Confirms the client's own arrival rather than push for deeper breakthrough — avoids loving-to-transform.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Both listed anti-patterns to avoid (spiritual-narcissism, dont-jump-to-compassion-before-anger) were successfully avoided.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1528,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 901,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1528,
+    "output_tokens": 901,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

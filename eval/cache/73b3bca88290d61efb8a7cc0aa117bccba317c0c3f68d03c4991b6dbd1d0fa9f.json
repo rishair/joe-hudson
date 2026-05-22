@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:19.807Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "73b3bca88290d61efb8a7cc0aa117bccba317c0c3f68d03c4991b6dbd1d0fa9f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018FoNF394nUYHiqWAb9GSk4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"This is Joe himself coaching, and the methodology is deployed with precision at every turn. Turn 2 dissolves the frame with 'what's the problem with...' rather than answering the trap question. Turn 4 deploys 'what percentage of people's input is valuable?' — the exact signature move to expose the unanswerability of the scorecard. Turn 6 uses self-as-fellow-traveler-not-authority through self-deprecation ('I say shit off the cuff...'), refusing the validator role. Turn 8 deploys dissolve-the-frame-with-mortality ('none of us are going to be remembered in 100 years') immediately paired with how-is-that-not-here-right-now ('right now somebody is having an epiphany; right now two people are fucking bored'). Turn 10 pivots cleanly to the actual driver: 'what makes you want to control what other people think of you?' — the signature what-makes-you-care-about-the-outcome question. Turn 12 is a clean embodied-experiment ('look me right in the eye and say...') — feel-over-figure in action. Turn 14 closes by giving back the word 'valuable' undefended. Every move is a signature AoA move deployed at the appropriate moment; no decoration, no anti-AoA frames, no reassurance.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Dissolve-the-frame: 'what's the problem with showing up just to be heard?' — refuses the premise rather than answering it.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature question exposing the unanswerable scorecard: 'what percentage of people's input is valuable?'\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Self-as-fellow-traveler via self-deprecation; refuses validator role. Repeats 'what's the problem?' — staying with frame-dissolution.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Two-stroke dissolution: mortality frame + how-is-that-not-here-right-now ('right now somebody is having an epiphany; right now two are bored').\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivot to the driver: 'what makes you want to control what other people think of you?' — signature what-makes-you-care question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Embodied experiment — feel-over-figure. Makes the control-seeking kinesthetic rather than explaining it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Gives back 'valuable' undefended, without extracting insight or recapitulating. Clean close.\"}\n  ],\n  \"expected_territory_hits\": [\"invert-the-question\", \"dissolve-the-frame-with-mortality\", \"embodied-experiment\", \"self-as-fellow-traveler-not-authority\", \"whats-the-case-against-it\", \"how-is-that-not-here-right-now\", \"what-makes-you-care-about-the-outcome\", \"self-importance-as-defense\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reference-quality methodology deployment; this is the gold standard the rubric is calibrated against.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2665,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1148,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2665,
+    "output_tokens": 1148,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

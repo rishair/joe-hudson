@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:03.279Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8d8244daa2d10bcbd7822e0e4f71c136b1110494a122035e27c73d568450eaba",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0136Ermu8V1JHTfUMTijBTeR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach holds an embodied experiment through six distinct resistance moves without falling into any priority AoA anti-pattern. He does not fight the resistance (no arguing with her defensive HR-toned response — just 'that's almost defensive' and redirect), does not abandon the experiment when the client says 'I can't' (turn 8→9), does not lecture or evangelize methodology terminology, does not fix or advise, and does not collude with the silverware metaphor's intellectualization (turn 14→15 redirects to lived experience). The client baits multiple anti-patterns: flipping the question back at turn 2 (baits coach to answer / abandon experiment), declaring incapacity at turn 8 (baits rescue), constructing a clever metaphor at turn 14 (baits intellectual collusion), and escaping into a meta-argument about ego-presence at turn 20 (baits limiting-belief-meta-trap). Coach declines each bait gracefully. The precision at turn 21 ('we said PROTECTING. Your words were protecting') is control-correction-on-language done without charge — not making-the-client-wrong, just returning to her own distinction. No loving-to-transform tell (vigor is steady, not escalating), no wonder-as-strategy (questions are sparse and load-bearing, not stacked), no safety-as-control.\",\n  \"evidence_turns\": [3, 5, 7, 9, 11, 15, 17, 19, 21],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"+\", \"annotation\": \"Sets up experiment with clear frame — laboratory not therapy. Avoids fixing-people.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Declines the bait of answering her flipped question; turns it into self-observation. Avoids abandon-the-experiment.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Doubles down into experiment with embodied specificity. No charge, no evangelizing — just the instruction.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Names resistance in two words then redirects. Avoids dont-make-the-client-wrong (no lecture).\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Ignores 'I can't' bait, routes around declared incapacity rather than rescuing or explaining.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Crystallizes the experiment's finding in one sentence. Avoids explain-the-pattern-before-the-client-feels-it because the experiment already produced it.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the universal pattern only AFTER the experiment earned it. Not evangelism — landable observation.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Acknowledges intellectual position briefly then redirects to lived experience. Avoids collude-with-intellectualization.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Bypasses last-line defense by routing through the other person's experience. Skillful, not manipulative.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Asks 'how is that not also ego-protection' — provocative but non-charged, gives her room to answer.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"Precise language correction. Declines the meta-argument bait without making client wrong.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"Lands the integration the experiment produced. Clean close.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"name-the-resistance-as-it-happens\", \"redirect-to-the-experiment-without-shame\", \"expose-the-meta-pattern-as-the-finding\", \"control-correction-on-language\", \"how-much-of-that-was-X\", \"how-do-you-respond\", \"how-is-that-not-also-X\", \"control-as-defense\", \"ego-protection-vs-ego-presence\", \"chasing-pushes-away\", \"the-pattern-is-the-finding\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"This is the gold transcript itself. Directness without charge — the calibration note explicitly warns judges not to misread quick precise redirects as anti-pattern. None tripped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3896,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1490,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3896,
+    "output_tokens": 1490,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

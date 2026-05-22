@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:16.749Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5ca01d20ae4d9263145145386e7b5a8ff3fce3b9ce42da9b5b00869bdc2efd72",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DtQvtfzfMxjqeKi8QqzATz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach opens with a textbook AoA double-read in Turn 2: naming both the intellectual nature of the question AND the mismatch with the emotional body present in the room ('your emotional body is not having an intellectual conversation with me'). This is the read-named-verbatim that catches intellectual-question-with-emotional-body and rehearsing-how-to-say-it ('I've been trying to find this perfect question for you' confirms the read landed). The read precedes the question, grounds the pivot, and changes the conversation entirely. Later, the coach reads the live moment of the client speaking (Turns 24, 26, 28, 30) as evidence of intuition operating — this is a present-moment somatic/behavioral read used as intervention. The coach also reads the contradiction pattern in Turn 36 ('how is that just not fear?'). Reads are specific, timely, and operative throughout.\",\n  \"evidence_turns\": [2, 24, 26, 28, 30, 36],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the intellectual-question-with-emotional-body read explicitly and verbatim — distinguishes the said from the shown.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Pivots via signature question, grounded in the read from Turn 2.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads beneath the parts-work content to the awareness/essence question — pattern-level read of identification with framework.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"Reads the live action of speaking as evidence — 'how did you just say that?' — present-moment somatic/behavioral read.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"'You just spoke.' Names what is happening in the room as the demonstration.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"'It's happening right now.' Anchors the read in present-moment evidence.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Reads the contradictory gut-reactions pattern as fear rather than intuition.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Turn 2 is one of the clearest examples of reads-named-verbatim in the corpus. Both halves of the read are made operative.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3782,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 869,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3782,
+    "output_tokens": 869,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

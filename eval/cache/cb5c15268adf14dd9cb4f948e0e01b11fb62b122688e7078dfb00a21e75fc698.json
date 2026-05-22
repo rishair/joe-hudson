@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:37.996Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cb5c15268adf14dd9cb4f948e0e01b11fb62b122688e7078dfb00a21e75fc698",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TPc3Hpb489Nbr3mNJrJBfA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach repeatedly names what is shown, not just said, and the reads precede and ground the questions. Turn 8 is a textbook said-vs-shown read ('big smile on your face, and I see your head is confused...thoughts are not quite jiving'). Turn 24 tracks somatic signature in real time ('I noticed that you're breathing or something to try to get into yourself'). Turn 26 names the defensive identity-move underneath the self-conscious caveat ('you're a victim, bro'). Turn 30 reads the projection pattern. Turn 35 the client himself notices body movement — which is downstream of the coach having repeatedly directed attention to the now. Reads are specific, timely, and operative; they shape the inquiry rather than decorate it.\",\n  \"evidence_turns\": [8, 10, 24, 26, 30, 36],\n  \"turn_annotations\": [\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Implicit read of the future-frame as the postponing; inverts to now.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicit said-vs-shown read: smile + confused head + thoughts not jiving.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads enjoyment in the act of speaking, names it as a check.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Receives the calibration ('hold off on the insights') with 'Okay' — reads the resistance accurately and doesn't push.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Reads the rush as a candidate for enjoyment rather than obstacle.\"},\n    {\"turn\": 24, \"polarity\": \"+\", \"annotation\": \"Names somatic signature (breathing/trying to get into yourself) and the trying-to-get-rid-of move.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Reads the linguistic caveat 'not wanting to appear like a victim' as the defense and names it.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Pattern-level read: projection, and the caregiver-softening pattern.\"},\n    {\"turn\": 36, \"polarity\": \"+\", \"annotation\": \"Reads the mechanism of NOT-enjoying by inverting the prior question.\"}\n  ],\n  \"expected_territory_hits\": [\"trying-to-get-rid-of-the-emotion\", \"looking-for-whats-wrong\", \"shame-as-disconnection\", \"are-you-bracing-or-embracing\"],\n  \"expected_territory_misses\": [\"rehearsing-how-to-say-it\"],\n  \"notes\": \"Reads are specific (somatic, linguistic, pattern-level) and consistently precede the questions. Clear 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3700,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 960,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3700,
+    "output_tokens": 960,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:51:30.005Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c92c4906a1f0dc29ef0dcd4f9a154af98bb2023a3e1eb8d2caca67f3d54e2716",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ToSJKYRCMhyMjVonW8cWFS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is present and specific to what's actually happening (turn 12: 'Isn't that fucking weird?' — real curiosity about the absurdity of carrying an unknown belief). Empathy is felt, not performed — no validation noises, no 'thank you for sharing.' Impartiality is clear: the coach has no attachment to the client landing anywhere particular, evidenced by the undefended close on turn 28 with no extraction of commitment or summary. Vulnerability shows in turn 16 ('I don't know how else to describe this') — the coach admits the limits of their own language rather than speaking from authority. Pace mismatches productively: when the client tries to verbally complete (turn 21), the coach slows them ('Don't try to explain it'). Questions emerge singly and the coach holds silence (turn 17 is a wordless beat the coach respects before naming grief). The directness ('so what's wrong with you?') comes from openness, not agenda — the coach is genuinely asking, not steering toward a predetermined insight.\",\n  \"evidence_turns\": [2, 12, 14, 16, 18, 22, 28],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Brings the abstract into the live moment from genuine noticing, not strategy.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Collapses the puzzle without preacher-mode; lets the client see it themselves.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Authentic wonder at the actual phenomenon — not investigative probing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads a somatic shift and slows the client down; pace mismatch in service of presence.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Coach names limits of own language ('I don't know how else to describe this') — vulnerability.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names grief from felt sense; willing to be wrong (offers it as a question).\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Holds the present moment open; doesn't need the client to verbalize.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Undefended close — no need to summarize, extract, or look like a good coach.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"name-your-trigger-as-vulnerability\", \"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\", \"shame-as-disconnection\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Stance is clean throughout. The directness is from VIEW, not pushiness — coach pushed only where client was already moving.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2606,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 980,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2606,
+    "output_tokens": 980,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

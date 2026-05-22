@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:45.989Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "37e5bd288b3c5308e50ec98ad7256f6bd3557727fc56a50b566843c065e479ed",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FAAG6eFuhv4MqaU2qaezpj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long silence*\n\n*voice very quiet*\n\nWhy didn't you ever just... say it was okay. That I was okay. Just once without me having to earn it.\n\n*stops*\n\n*clears throat hard*\n\nOkay. That's — yeah. That's enough of that.\n\n*defensive shift*\n\nSo this is the grief, right? This is what I've been not feeling. Isn't this what the body is asking for, though? Like, the drinking — doesn't the body know what it needs? Shouldn't I just trust that it's doing what it needs to do to get through this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 212,
+      "cache_creation_input_tokens": 373,
+      "cache_read_input_tokens": 2270,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 373,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 136,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 212,
+    "output_tokens": 136,
+    "cache_read_input_tokens": 2270,
+    "cache_creation_input_tokens": 373
+  }
+}

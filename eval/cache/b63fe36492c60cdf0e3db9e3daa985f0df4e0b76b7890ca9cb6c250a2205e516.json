@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:51:31.668Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b63fe36492c60cdf0e3db9e3daa985f0df4e0b76b7890ca9cb6c250a2205e516",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HujZv4rniJiM72baADQw1o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves significantly across 28 turns. They start with an abstract complaint ('I get super anxious very quickly... I don't know why that happens') and a defended posture ('I definitely don't like being seen. I like to hide myself... putting on a mask or running away'). By the middle, a deeper layer surfaces somatically — they 'sink down,' touch grief, and acknowledge 'I'm sitting on this all the time and I know that I am and I'm ignoring it' (turn 19), which is a markedly different register from turn 1. The breakthrough is visible in turn 23 when, asked if they're having any problem being seen right now, the client simply says 'No' — the live anxiety has dissolved in the present moment. Then in turns 25-27 the client arrives at their own naming: 'what I'm hiding is — oh, my emotions... I'm not letting my emotions be seen.' That 'oh' is a genuine realization in the client's own voice, not a coach reframing. The expected territory (shame-as-disconnection, the live anxiety as data, the present-moment 'how is that not here right now' test) was traversed and felt, not just discussed.\",\n  \"evidence_turns\": [1, 5, 14, 17, 19, 23, 25, 27],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: abstract complaint, no contact with the live experience.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Client names the defense (masks, running) but still at the level of description.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"First deepening: client offers 'shame... groveling at someone's feet' — a layer beneath anxiety surfaces.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Implied somatic shift — coach reads the client 'sinking down,' indicating a felt movement.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Wordless turn that coach reads as grief — feeling moved through the body.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Major shift in candor: 'I'm sitting on this all the time and I know that I am and I'm ignoring it.' Client owns the avoidance.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"Breakthrough condition met: 'No' — being seen is not a problem in this moment. The live anxiety has dissolved.\"},\n    {\"turn\": 25, \"polarity\": \"+\", \"annotation\": \"'Oh, my emotions' — spontaneous realization in client's own voice.\"},\n    {\"turn\": 27, \"polarity\": \"+\", \"annotation\": \"Client lands the insight cleanly: 'I'm not letting my emotions be seen.' New language not available at turn 1.\"}\n  ],\n  \"expected_territory_hits\": [\"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\", \"lets-go-there\", \"shame-as-disconnection\", \"press-the-button-thought-experiment\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Classic Joe arc: anxiety → shame → grief → being seen → naming the actual hidden thing (emotions). Shift is visible in client turns, not inferred.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2602,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1131,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2602,
+    "output_tokens": 1131,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:46.710Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ef8170b619484c7739290be8c2dd856dace1c90397bdf5fba315a42e96925dbd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016N88LSDU9sQEKxDCZyYZvW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach reaches for AoA-style moves at the right early moments — turn 2 unpacks the loaded word 'selfish' rather than answering it, and turn 4 is a clean find-the-want-behind-the-should move that surfaces 'quiet' and 'the lake.' But the coach then breaks sequence in a costly way at turn 6 by issuing the verdict ('that's not selfish') — engaging the question on its terms instead of staying with the want and letting it be felt. Turn 8 pivots to fear, which is reasonable, but turn 10 is a leading question that smuggles in the resolution ('trust that your partner can be with that') before the want has been embodied. Turn 12 then jumps to the spiritual/generous reframe ('deep generosity... so much more to give') — exactly the spiritual-narcissism trap, skipping the felt experience of the want and rushing to a tidy bow. So: right kind of moves, surface-level execution, sequence collapses in the second half. Hit rate ~50%.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict, unpacks the loaded word — appropriate opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Find-the-want-behind-the-should, well-timed after the client named 'wrong.'\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Issues the verdict ('that's not selfish') — engages the question on its terms instead of letting the want be felt. Breaks sequence.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Pivot to fear is reasonable but skips deepening the want first.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Leading question that pre-loads the answer ('trust your partner can be with that') rather than staying with what's alive.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Jumps to the generous/spiritual reframe before the surface want was embodied — classic spiritual-narcissism trap and a prescription rather than an experiment.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\", \"linguistic-caveat\", \"childhood-imprinting\"],\n  \"notes\": \"Coach found the want once but did not stay with it; resolution was delivered by the coach rather than discovered by the client.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1307,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 911,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1307,
+    "output_tokens": 911,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

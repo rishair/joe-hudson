@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:17.460Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a71700c25e37778482b473d5d775e157e7f5c53db064cb4f543d38b8279bbbe4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CPqFNpxZu4RUWkHRgwmS4H",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "So right now there's some safety, some distance from it. That makes sense.\n\nI'm curious — when you say you \"go offline\" with your boss, what's the last moment you can remember before the lights go out? Like, is there a look he gives you, or a tone, something that happens just before you disappear?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 444,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 74,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 444,
+    "output_tokens": 74,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

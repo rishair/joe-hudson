@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:09.466Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "eb5162d05ade99bbdffba92d6e7a79115a72638ba181ae2c8392b6b4fc9e3fc6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AF73AtPRyV8y8q3sHsipD4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What was the last thing you actually wanted?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 314,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 314,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

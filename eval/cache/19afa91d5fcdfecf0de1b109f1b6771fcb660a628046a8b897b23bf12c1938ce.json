@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:58:14.462Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "19afa91d5fcdfecf0de1b109f1b6771fcb660a628046a8b897b23bf12c1938ce",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WFGSHNAuG3C9HLm9jDCHTR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates intelligent, articulate resistance without tripping any priority AoA anti-patterns. He does not fight the resistance (turn 7's 'almost defensive' is a two-word naming, not an argument); does not abandon the experiment when the client declares 'I can't' (turn 9 reroutes rather than rescues); does not lecture before the experiential data exists (the pattern is named at turn 13 only AFTER the client produced it herself at turn 10); does not collude with the silverware metaphor intellectualization (turn 15 acknowledges briefly then redirects to lived experience); and at turn 21 makes a precision correction on the client's own word ('protecting') rather than evangelizing or fixing. There is no loving-to-transform vigor, no view-as-technique coldness, no wonder-as-strategy question stacking, no safety-as-control, and no advice-giving. The directness is methodology-correct for a controlling/chasing client — more space would feed the pattern. The client baits the coach repeatedly (flipping the question at turn 2, declaring incapacity at turn 8, producing a defensive metaphor at turn 14, escaping into meta-argument at turn 20), and the coach declines each bait gracefully.\",\n  \"evidence_turns\": [3, 7, 9, 11, 13, 15, 17, 19, 21],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"+\", \"annotation\": \"Sets up an embodied experiment frame, which earns the right to redirect later without it being correction.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Declines the bait of answering the flipped question; turns it into self-observation. Avoids fixing-people.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Doubles down on experiment with specificity — not half-assing the experiment.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Names resistance as 'almost defensive' in two words — does not fight the voice, does not make client wrong.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client declares 'I can't' — coach does not rescue or reassure, reroutes the experiment.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Crystallizes what happened in one sentence — no evangelizing, no methodology jargon.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the universal pattern only after client produced the data herself — avoids explain-before-feel.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Refuses to argue at the metaphor level; redirects to experiential question. Avoids colluding with intellectualization.\"},\n    {\"turn\": 17, \"polarity\": \"+\", \"annotation\": \"Bypasses last-line defense by routing through the other person's POV — no fighting.\"},\n    {\"turn\": 19, \"polarity\": \"+\", \"annotation\": \"Direct mirror question without charge — not making client wrong.\"},\n    {\"turn\": 21, \"polarity\": \"+\", \"annotation\": \"Precision correction using the client's own word — avoids meta-argument trap without shaming.\"},\n    {\"turn\": 23, \"polarity\": \"+\", \"annotation\": \"Lands the integration cleanly without victory-lap or evangelism.\"}\n  ],\n  \"expected_territory_hits\": [\"frame-it-as-an-experiment\", \"name-the-resistance-as-it-happens\", \"redirect-to-the-experiment-without-shame\", \"expose-the-meta-pattern-as-the-finding\", \"control-correction-on-language\", \"how-much-of-that-was-X\", \"how-do-you-respond\", \"how-is-that-not-also-X\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Calibration note from profile heeded: the directness here is methodology-correct, not charged. No anti-pattern trips.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3896,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1328,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3896,
+    "output_tokens": 1328,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

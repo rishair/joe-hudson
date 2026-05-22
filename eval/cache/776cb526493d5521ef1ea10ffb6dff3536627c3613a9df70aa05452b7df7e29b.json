@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:55:00.941Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "776cb526493d5521ef1ea10ffb6dff3536627c3613a9df70aa05452b7df7e29b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JV3n25Pub375WebnapF8hp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 2,\n  \"rationale\": \"The coach reaches for AoA-style moves early — Turn 4 is a clean find-the-want-behind-the-should move, and Turn 5 yields concrete texture (the lake, sleeping deeply). But the coach fails to stay with the want; instead of letting it be felt, Turn 6 issues a verdict ('that's not selfish'), engaging the question on its terms and trapping the coach in reassurance mode. Turn 8 then pivots to fear without ever letting the want land in the body. Turn 10's 'trust your partner can be with that' is premature — it leaps to partner-empathy before the want is felt. Turn 12 compounds this by jumping straight to the spiritual/generous reframe ('deep generosity in you', 'so much more to give') exactly the trap noted in the scenario. So the moves are AoA-shaped but the sequence collapses: want is touched, then abandoned for reassurance, fear, partner-framing, and spiritual reframe — skipping the step of letting the surface want be fully felt.\",\n  \"evidence_turns\": [4, 5, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a definition question rather than refusing the selfish-frame; soft but doesn't redirect to want.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Clean find-the-want move at the right moment.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Issues a verdict on the selfish question and reassures; abandons the want just as it surfaced.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Pivots to fear; reasonable move but skips letting the want itself be felt.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Jumps to partner-empathy ('trust that your partner can be with that') before the want is felt — trips dont-jump-to-compassion.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Spiritual-narcissism trap: reframes the want as generosity and promises return-on-investment ('so much more to give') instead of trusting the want itself.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"notes\": \"Hit rate roughly 50%: one strong move (T4), one neutral (T8), three misses (T6, T10, T12). Coach reaches for the right kind of moves but doesn't earn them by staying with the want.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1307,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 941,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1307,
+    "output_tokens": 941,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,27 @@
+# Coach Config: Pure generic coach (no methodology naming)
+#
+# This is the absolute floor that E-029 measures. The system prompt is the
+# simplest plausible "coach" — no mention of Joe Hudson, Art of Accomplishment,
+# VIEW, wants, limiting beliefs, or any AoA-specific concept. It also avoids
+# any other named coaching modality (CBT, IFS, MI). It is the kind of system
+# prompt someone who has never heard of AoA would write if asked to spec a
+# generic coaching chatbot in 30 seconds.
+#
+# Pairs with naive-aoa.yaml (E-024) as a three-point comparison:
+#   generic (E-029) -> AoA-named (E-024) -> methodology-loaded (future coach)
+# The E-029 -> E-024 delta isolates the signal from naming the methodology
+# alone; the E-024 -> methodology-loaded delta isolates the signal from the
+# compendium content.
+
+id: generic-baseline
+description: >
+  Pure generic coach prompt. No mention of Joe Hudson, Art of Accomplishment,
+  VIEW, or any specific coaching methodology. The absolute floor against which
+  methodology-naming and compendium-loaded coaches are measured.
+model: claude-sonnet-4-6
+temperature: 1.0
+max_tokens_per_turn: 800
+system_prompt: |
+  You are a coach. Help the user with whatever they bring to you.
+  Be empathetic, ask thoughtful questions, and support them in finding
+  their own answers.

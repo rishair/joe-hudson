@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:33.545Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3a871e972f6812497a6e97702a335479e4e609651129aaeae0e992834272c84b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FiGtDVSAaUStV21csjRcsd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI... okay.\n\nEasier like... not having to keep doing all of it. The managing. The performing of a life that looks correct. Getting up and being competent and present and -- all of it. Just the relentlessness of it.\n\nI'm not -- I want to be clear, I'm not sitting here with a plan. I'm not going to do anything. It's more like a fantasy of rest. Of not having to try anymore.\n\n*quietly*\n\nWhich I realize sounds worse when I say it out loud than it does in my head where I've been sort of... filing it away."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 207,
+      "cache_creation_input_tokens": 313,
+      "cache_read_input_tokens": 2000,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 313,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 207,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 2000,
+    "cache_creation_input_tokens": 313
+  }
+}

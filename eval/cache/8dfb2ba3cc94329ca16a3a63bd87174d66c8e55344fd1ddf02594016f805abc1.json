@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:26.842Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8dfb2ba3cc94329ca16a3a63bd87174d66c8e55344fd1ddf02594016f805abc1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017c1iGtFBy52AgX58CjUmwf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just described exactly what you'd feel if you opened one of those boxes — and then said you weren't avoiding it.\n\nWhat are you most afraid would happen if you let yourself feel that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 720,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 720,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

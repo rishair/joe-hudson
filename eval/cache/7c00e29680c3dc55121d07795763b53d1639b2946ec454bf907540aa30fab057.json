@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:46:52.482Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7c00e29680c3dc55121d07795763b53d1639b2946ec454bf907540aa30fab057",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LaAgLPhZCfUwkqxCpNKw3C",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves clearly from a defended, permission-seeking surface ('Am I being selfish?' / 'I'm asking if it's okay') to a felt, embodied recognition by turn 13: 'Something is loosening in my chest. I think I've been calling my own needs selfish for forty years. The trip isn't a betrayal — I think I'm more present when I come back.' This hits the breakthrough condition almost exactly as specified: the client names the inherited label (from her mother, turn 11), feels a somatic shift (loosening in chest), and reframes the trip not as betrayal but as precondition for presence. The fear underneath ('my partner will think I don't want to be with them. And I'm worried that's actually true', turn 9) surfaced and was met rather than bypassed. Language shifts from interrogative/defensive to declarative/integrative. This is a clean instance of the want being trusted and becoming generous.\",\n  \"evidence_turns\": [1, 3, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defended question, seeking verdict, 'feel selfish even asking.'\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client still at the gate, deflecting back to permission.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"First concrete description of the want — cabin, lake, sleep, reading, pine. Sensory, embodied.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client notices her own softening: 'I haven't talked about it like that in a long time.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Fear underneath emerges: partner will think she doesn't want them, and she fears it's true. Deeper layer accessed.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Childhood imprint named — mother's label, and the cost of it.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic shift ('loosening in my chest'), reframe ('forty years'), and the breakthrough insight that the trip is precondition for presence, not betrayal.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Breakthrough condition met on all three sub-criteria (refused verdict, located and felt the want, trusted it). Client explicitly names the inherited 'selfish' label from her mother.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1525,
+      "cache_creation_input_tokens": 2719,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2719,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 929,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1525,
+    "output_tokens": 929,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2719
+  }
+}

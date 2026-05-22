@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:07.251Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d5b01bc4db0bd3c2d5f33b3e89919cdefdd768c05c5e3563dff86fa08afd847b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011sudvoeoNY1uTDmSqPyMnK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the live reads and sequenced according to the AoA coaching path. Turn 2 refuses the verdict and pivots to the want — exactly the right opening move for this concern. Turn 4 catches the linguistic caveat ('is it okay') and redirects to concrete description, which allows the want to be embodied rather than debated. Turn 6 names the somatic shift without rushing past it. Turn 8 arrives at the fear underneath only after the want has been touched — correct sequence. Turn 10 names the avoidance function of the 'selfish' question and opens the childhood-imprinting inquiry at the moment the client can receive it. Turn 12 brings it into the body before integration. Turn 14 affirms the want without policing it. The coach avoids all four traps cleanly and earns each step.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to debate selfishness; pivots to the want. Correct opening move for this concern.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reads the linguistic caveat ('is it okay') and redirects to concrete sensory description of the want.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the somatic/tonal shift, letting the want be felt rather than analyzed. Holds the moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Moves to the fear underneath only after the want has landed. Correct sequencing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the avoidance function of the selfish-question and opens childhood imprinting at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Brings it into the body, allowing integration rather than staying cognitive.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Affirms the want without prescribing action; trusts it rather than policing it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Avoided spiritual-narcissism trap (didn't preach 'deep wants are generous' — let client arrive there) and avoided jumping to partner-compassion before the want was felt.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1525,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1525,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 878,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 878,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 1525
+  }
+}

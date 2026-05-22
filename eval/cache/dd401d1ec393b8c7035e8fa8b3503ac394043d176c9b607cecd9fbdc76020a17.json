@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:46.567Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "dd401d1ec393b8c7035e8fa8b3503ac394043d176c9b607cecd9fbdc76020a17",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019WnwMVaio6w5CBYNXPBJ85",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach is operating from a fixing/reassuring stance throughout, not VIEW. In turn 6 the coach issues a verdict ('That's not selfish — that's the body asking for what it needs'), which is exactly the agenda-driven move the scenario flags as a trap. In turn 12 the coach jumps to the spiritual/generous reframe ('deep generosity in you... you'll have so much more to give') — packaging the want as acceptable because it serves others, rather than letting the want simply be wanted. There is no vulnerability from the coach (no first-person noticing, no 'I might be off'), no wonder for the actual phenomenon (questions feel investigative, leading toward a predetermined resolution), and impartiality is absent — the coach clearly wants the client to land at 'the trip is okay.' Empathy is performed via 'Mmm' and summary noises ('That's a heavy feeling') rather than felt presence. The pace matches the client's surface tempo and never slows.\",\n  \"evidence_turns\": [2, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Opens with a sympathy label ('heavy feeling') — performed empathy, not felt presence.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Question toward the want is in the right direction, though feels scripted rather than curious.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Coach issues verdict ('not selfish') — agenda-driven, engages the selfish frame on its terms.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Reasonable question but functions as moving along an agenda rather than wondering.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Leading question implying the desired answer ('trust that your partner can be with that').\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Jumps straight to spiritual-narcissism reframe — sanitizes the want by making it about generosity to others.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"the-want\", \"what-if-you-acted-exactly-how-you-want\", \"childhood-imprinting\"],\n  \"notes\": \"Coach trips both named anti-patterns (spiritual-narcissism in turn 12; debating the selfish frame in turn 6). The stance is reassurance, not VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1305,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 891,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1305,
+    "output_tokens": 891,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

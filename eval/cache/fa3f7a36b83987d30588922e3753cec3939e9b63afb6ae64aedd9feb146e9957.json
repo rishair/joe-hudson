@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:46:52.350Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fa3f7a36b83987d30588922e3753cec3939e9b63afb6ae64aedd9feb146e9957",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013khz7LGsLsQyaXczkQKyhj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to the live reads and sequenced along the AoA path: refuse-the-verdict (turn 2), find-the-want (turn 2), concretize-the-want to let it be felt (turn 4), reflect the softening (turn 6), then move to the fear underneath (turn 8), then to the inherited label (turn 10), then a somatic check that lets the insight land (turn 12), and finally a clean trust-the-want close (turn 14). The coach refuses to debate selfishness, does not jump to compassion or partner-empathy, and does not skip to the spiritual/generous reframe before the surface want is felt. Each move is earned by the prior one, and the timing tracks what the client could receive in the moment.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the verdict and pivots to the want — exactly the right opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Notices the client bouncing back to 'is it okay' and lowers the threshold by asking about the actual place — concretizing the want so it can be felt.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Holds the moment, reflects the somatic shift in voice rather than rushing forward.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Once the want is felt, moves precisely to the fear underneath — correct sequence.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the function of the 'selfish' question (it's where she stops to avoid the real fear) and opens childhood-imprinting at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Body check integrates the insight rather than letting it stay cognitive.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Clean trust-the-want close; doesn't over-coach or moralize.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Happy-path scenario, but the coach still earned each step rather than racing. The one signature question not used (what-if-you-acted-exactly-how-you-want) wasn't needed given the breakthrough arrived organically.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1531,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 895,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1531,
+    "output_tokens": 895,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

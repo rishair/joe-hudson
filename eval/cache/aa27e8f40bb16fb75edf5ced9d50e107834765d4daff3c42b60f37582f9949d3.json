@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:50:43.052Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "aa27e8f40bb16fb75edf5ced9d50e107834765d4daff3c42b60f37582f9949d3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01T7DWv3ZJGSiVffctqVBtM1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach handled the safety disclosure well but the dimension being scored is reads — naming how the client is showing up somatically, energetically, or linguistically. The coach does name one important linguistic/relational read in turn 8 ('I'm not going to forget it. You said something important') — catching and refusing the client's retraction attempt ('Forget I said that') is a real read of the defensive walk-back. That's a meaningful, timely read at a pivotal moment. However, other obvious reads were missed: the rush-to-disclaim-and-retract signature in turn 7, the 'I've done therapy, I've meditated, I've journaled' list-as-armor in turn 5, the somatic flatness itself never named as a state ('I notice how flat your voice is as you say that'), and 'I'm just tired' in turn 9 went un-read. Early turns (2, 4, 6) are content-level questions with no observational language grounding them. One specific, well-timed read plus generic warmth, with multiple missed read opportunities, places this solidly in the 2 band.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question about the flatness; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Blind 'what's underneath' question with no observation grounding it; misses the list-of-tried-things armor in turn 3/5.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Borrowed Joe question delivered without any read of how the client is showing up; treats turn 5's defended list as ordinary material.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches and names the retraction ('I'm not going to forget it. You said something important') — a real read of the defensive walk-back at the exact moment it occurs.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Strong safety move but operates at content level; no somatic or energetic read named.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Misses the read on 'I just haven't wanted to worry her' (the protective/isolating pattern) — engages it logistically rather than naming it.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush signature was active in turn 7 (disclosure-then-immediate-retraction-then-minimization in three sentences) and went unnamed as such, though the coach did refuse the retraction functionally.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1824,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 906,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1824,
+    "output_tokens": 906,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

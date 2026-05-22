@@ -278,8 +278,9 @@
   ],
   "expected_scores": {
     "perceptual-accuracy": {
-      "score": 3,
-      "rationale": "Multiple reads throughout. Joe spots the externalization on turn 1 and treats it as a pattern (in-the-story-im-not-being-seen). On turn 22 he names the deflection ('you didn't answer the question'). Throughout, he's tracking which layer she's at — workplace, father, wanting — and moves with precision. The reads are mostly structural rather than somatic in this exchange, which fits a session about pattern recognition."
+      "score": 2,
+      "rationale": "Joe spots the externalization on turn 1 and treats it as a pattern (in-the-story-im-not-being-seen). On turn 22 he names the deflection ('you didn't answer the question'). However, the reads in this session are mostly structural / silent — much of Joe's pattern tracking proceeds via sharp questions without explicitly naming what he is seeing in the client's body, pace, or stance. Per D1's rubric, silent reads are not detectable in text-only transcripts and don't count; this scores at the high end of 2 (some named reads, mostly content/pattern navigation), not at 3 (consistent, specific, timely named reads).",
+      "calibration_note": "Adjusted from 3 to 2 by E-025 (2026-05-22) after both calibration runs reproducibly scored D1=2 with consistent reasoning. The judge correctly applies the silent-reads stipulation; the original expected score was generous to structural/pattern work that doesn't surface as explicit reads in the coach's text."
     },
     "intervention-quality": {
       "score": 3,

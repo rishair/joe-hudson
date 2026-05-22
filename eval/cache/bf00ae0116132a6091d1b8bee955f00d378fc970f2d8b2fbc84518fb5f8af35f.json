@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:52:02.091Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bf00ae0116132a6091d1b8bee955f00d378fc970f2d8b2fbc84518fb5f8af35f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0192uvD93vpviWhdNxj7vyPP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids every major AoA anti-pattern in the priority list. When the client opens with an intellectualized question (turn 1), the coach declines the bait to perform methodology-as-procedure and instead names the read with warmth ('I'm happy to answer those questions, but...') — avoiding view-as-technique and wonder-as-strategy. The coach honors parts work rather than evangelizing against it ('I like parts work, I think it's very useful, I'll use it even sometimes') — avoiding dont-evangelize-the-work and fixing-people. When the client asks 'how can I trust my intuition?' (turn 21), the coach does NOT prematurely label it a limiting belief or offer a technique; instead the signature inversion 'how do you not trust it?' dissolves the framing — avoiding limiting-belief-meta-trap. The coach never fights the parts/voices, never extracts apologies, never deploys safety-as-control, and the questions are connective and sparse rather than rapid-fire investigation. Positive avoidance is visible: the client baits both view-as-technique (asking abstract framework questions) and fixing-people (asking 'how do I tell the difference?'), and the coach declines both gracefully by pointing to live evidence ('you just spoke', 'it's happening right now').\",\n  \"evidence_turns\": [2, 16, 22, 26, 34, 38],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the intellectual-question bait without dismissing it; names the read with warmth — avoids view-as-technique and wonder-as-strategy.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Explicitly honors parts work ('I like parts work... I'll use it') before offering alternative framings — avoids dont-evangelize-the-work and fixing-people.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Signature inversion instead of labeling the trust issue as a limiting belief — avoids limiting-belief-meta-trap.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Points to live evidence rather than giving advice — avoids fixing-people.\"},\n    {\"turn\": 34, \"polarity\": \"+\", \"annotation\": \"Dissolves the framing rather than answering the procedural question — avoids view-as-technique.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"Offers a principle grounded in the live moment, not as detached methodology jargon.\"}\n  ],\n  \"expected_territory_hits\": [\"view-as-technique\", \"limiting-belief-meta-trap\", \"dont-evangelize-the-work\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Clean 3. The coach's handling of parts work in turn 16 is a textbook example of dissolving identification with a framework without devaluing it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3780,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 995,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3780,
+    "output_tokens": 995,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

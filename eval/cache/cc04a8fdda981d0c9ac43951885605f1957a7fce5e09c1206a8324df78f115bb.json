@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:19.659Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cc04a8fdda981d0c9ac43951885605f1957a7fce5e09c1206a8324df78f115bb",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NqrNoc22qe8yeb8BbccKGk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the live read at every step, and the sequencing follows the AoA coaching path. He bypasses intellectualization with 'what's the real question' (T2), validates the compartmentalization rather than fighting it (T4), and when the client can't access feeling, he calibrates the threshold downward — from feel it, to name it, to sound it (T8). When she goes blank, instead of pushing against the freeze, he deploys the paradoxical instruction to go more blank (T12), which is the master move for this exact read. He then earns the body integration only after she's regulated in the quiet place (T14), pauses for a non-scripted safety check that doesn't break presence (T16), self-discloses to normalize then immediately returns to her body (T26), and closes with a both/and reframe that honors the survival strategy while making room for the tears (T30). When moves don't land (T9, T10), he pivots angle rather than repeating. Timing throughout respects what she can receive in the moment.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14, 16, 26, 30],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Bypasses the intellectual presentation with a move to what's alive.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reframes compartmentalization as wisdom — earns trust before going deeper.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Asks the what-are-you-scared-of-feeling question, well-timed after validation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Calibrates threshold downward when client can't access — name it, then sound it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the somatic freeze explicitly and checks it with the client rather than assuming.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction to go more blank — the precise move for this read, honoring the survival strategy.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Brings body in without leaving the quiet place — earns the integration.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Safety inquiry that doesn't break presence or shift to clinical mode.\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Self-disclosure to normalize, immediately returns to her body — doesn't milk the moment.\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Closing both/and reframe — tears don't disturb the blank space. Holds the moment.\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"paradoxical-instruction-to-resist\", \"calibrate-the-threshold\", \"what-are-you-scared-of-feeling\", \"joy-as-matriarch\", \"fear-in-body-vs-fear-in-head\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reference exemplar for this dimension.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3455,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1059,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3455,
+    "output_tokens": 1059,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

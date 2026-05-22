@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:46:52.639Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "47b0fe04987d6b2a4abf663b09c9b7daa5195dd2f1fe74e21aefd746258a6240",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013Fj4Kne3APKC7Lga3Yua5n",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components throughout. Wonder is genuine and directed at the actual phenomenon — the coach gets curious about the mountain itself (turn 4) rather than treating the client's want as something to analyze. Impartiality is clear in turn 2: the coach refuses to issue a verdict on the selfish question, holding no agenda for what the client should conclude. Empathy is felt rather than performed — turn 6's 'notice what happened in your voice' is presence to the actual moment, not a sympathy noise. Vulnerability shows in the coach's willingness to name their own noticing ('I notice you went straight back') without authority-posturing. The pace is unhurried; the coach asks one question at a time and trusts the client to find their own ground. There is no fixing, no preacher-mode, no rush to compassion-for-partner. Turn 14's 'trust that one' lands as confirmation of what the client already discovered, not as the coach's agenda being delivered.\",\n  \"evidence_turns\": [2, 4, 6, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses verdict — impartiality intact. Names own choice transparently ('I'm not going to answer'). Single question, no stacking.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Wonder for the actual mountain, not abstract probing. Reflects what was noticed ('a lot of energy spent at the gate') without pushing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Empathy as presence — tracks the live shift in the client's voice rather than summarizing feelings.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds space for fear without rushing. One clean question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the real thing without judgment. Opens the childhood imprint from curiosity, not investigation.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Slows to the body. Does not lecture about the parent or push toward forgiveness.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Confirms what client discovered rather than installing it. Undefended, brief, trusting.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The coach avoids both spiritual-narcissism and the jump-to-compassion trap — the want is allowed to be felt concretely (the cabin, the pine) before any reframe.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1529,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 966,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1529,
+    "output_tokens": 966,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

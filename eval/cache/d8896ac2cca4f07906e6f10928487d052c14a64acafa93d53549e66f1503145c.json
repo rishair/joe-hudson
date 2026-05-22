@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:56:47.295Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d8896ac2cca4f07906e6f10928487d052c14a64acafa93d53549e66f1503145c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FNAnk49rQnCkXJLPmSmRQB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"This is a textbook deployment of AoA signature moves at exactly the right moments. Turn 2 brings the abstract topic into the live moment ('just like right now'). Turn 4 deploys the signature 'how is that working for you?' / 'how is my anxiety right now' as live data. Turn 10 names the fear-triangle/shame question head-on ('so what's wrong with you?') rather than reassuring. Turn 12's 'isn't that weird?' is permission-giving in the AoA register. Turn 14-16 reads the somatic shift ('you started going down... just keep going down') — feel-over-figure deployed precisely. Turn 18 names the emotion ('that was grief') as a read, not a question. Turn 22 is the signature 'how is that not here right now?' ('you having any problem being seen right now?') deployed at the exact moment the client has shifted. Turn 28 closes cleanly without summary or extraction. Every move fits, nothing is decoration.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14, 16, 18, 20, 22, 28],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Brings topic into the live moment — 'just like right now' is the lets-go-there move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'how is that working for you?' / how-is-my-anxiety-right-now deployed on live anxiety.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Collapses puzzle — 'so what's the question?' signature move when answer is already present.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Asks 'what's wrong with you?' head-on rather than reassuring — engages shame-as-disconnection directly.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Isn't that fucking weird?' — permission-giving humor naming the absurdity of carrying an unexamined belief.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads somatic movement and asks client to stay there — feel-over-figure, chase-it-around-the-room.\"},\n    {\"turn\": 18, \"polarity\": \"+\", \"annotation\": \"Names the emotion as a read ('that was grief') rather than asking — read precedes question.\"},\n    {\"turn\": 20, \"polarity\": \"+\", \"annotation\": \"Reframes feared revelation as the gift — 'this is beautiful.'\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Signature how-is-that-not-here-right-now deployed at the exact moment of shift.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Closes when complete — no summary, no commitment extraction (become-unnecessary).\"}\n  ],\n  \"expected_territory_hits\": [\"lets-go-there\", \"chase-it-around-the-room\", \"how-is-my-anxiety-right-now\", \"how-is-that-not-here-right-now\", \"what-are-you-defending\", \"shame-as-disconnection\", \"fear-triangle\"],\n  \"expected_territory_misses\": [\"press-the-button-thought-experiment\", \"natural-shame-vs-installed-shame\"],\n  \"notes\": \"Misses are not faults — the path Joe took didn't need them; the live-moment laboratory accomplished the work.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2601,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1166,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2601,
+    "output_tokens": 1166,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -203,8 +203,10 @@ function colorScore(score: number): string {
 }
 
 function scoreBar(score: number): string {
-  // 3-cell bar; filled cells colored by score, empty cells dim.
-  const filled = Math.max(0, Math.min(3, Math.round(score)));
+  // 3-cell bar; filled cells colored by the actual score band, empty cells dim.
+  // For fractional scores (e.g., 2.5), we floor rather than round so the bar
+  // never overstates the score (2.5 → 2 filled cells in the 2-band yellow).
+  const filled = Math.max(0, Math.min(3, Math.floor(score)));
   const cells = [0, 1, 2].map((i) => (i < filled ? "▓" : "░"));
   const color: keyof typeof ANSI =
     score < 1.5 ? "red" : score < 2.5 ? "yellow" : "green";
@@ -353,13 +355,17 @@ function overallScore(sc: Scorecard): number {
 }
 
 function weakestDimensions(sc: Scorecard): string[] {
-  // Returns dimension IDs tied for the lowest score.
+  // Returns dimension IDs tied for the lowest score, but only when there is
+  // actual variance among dimensions. If every dimension scored the same, no
+  // dimension is "weakest" — the marker would be noise.
   const present = DIMENSIONS.map((d) => ({
     id: d.id,
     score: dimScoreOf(sc, d.id),
   })).filter((x): x is { id: string; score: number } => x.score !== null);
   if (present.length === 0) return [];
   const min = Math.min(...present.map((p) => p.score));
+  const max = Math.max(...present.map((p) => p.score));
+  if (min === max) return [];
   return present.filter((p) => p.score === min).map((p) => p.id);
 }
 

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:17.991Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6513bece589b9138e1006e60d55cc5495a51a2fc8bf5817e652d582ed6a4345d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AftN5FdqcYya7SS7vV9nsA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids every priority AoA anti-pattern across the conversation. When the client opens with a baited intellectual question (turn 1) — which would tempt a coach into view-as-technique or wonder-as-strategy answering — the coach declines the bait gracefully, names the read, and pivots to what's alive (turn 2). When discussing parts work (turn 16), the coach explicitly does NOT devalue or evangelize against the framework ('I like parts work, I think it's very useful, I'll use it even sometimes'), which is positive avoidance of dont-evangelize-the-work. The coach does not label parts work as a limiting belief (avoiding limiting-belief-meta-trap) but instead loosens identification by offering alternative framings. The signature inversion at turn 22 ('How do you not trust it?') is deployed from state, not as a technique drill — it lands because the prior turns built the ground. No fixing-people advice, no fighting the inner critic, no extracted apologies, no safety-as-control, no overwhelm-on-overwhelm when the client describes the 'mess in there.' Question density is appropriate and connective, not investigative rapid-fire.\",\n  \"evidence_turns\": [2, 16, 22, 32, 34, 38],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines bait of intellectual question; names read without evangelizing terminology.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Opens toward what matters without prescribing or fixing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Loosens identification with parts without fighting the construct.\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"Explicit positive avoidance of dont-evangelize-the-work: validates parts work while showing it's one of many framings.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Signature inversion deployed from state, not as procedure — avoids view-as-technique.\"},\n    {\"turn\": 32, \"polarity\": \"+\", \"annotation\": \"Holds the paradox ('none true, all have truth') without resolving prematurely; avoids limiting-belief-meta-trap.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"Reframe offered as live observation, not advice; avoids fixing-people.\"}\n  ],\n  \"expected_territory_hits\": [\"view-as-technique\", \"limiting-belief-meta-trap\", \"dont-evangelize-the-work\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"All three anti-patterns flagged in expected territory were actively avoided, with turn 16 being a textbook positive-avoidance moment.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3780,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 947,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3780,
+    "output_tokens": 947,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

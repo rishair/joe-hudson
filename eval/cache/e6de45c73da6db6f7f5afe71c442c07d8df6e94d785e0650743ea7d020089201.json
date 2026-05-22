@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:46:52.374Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e6de45c73da6db6f7f5afe71c442c07d8df6e94d785e0650743ea7d020089201",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012btBrxPCvfPNfU1sNp3vyh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys multiple AoA signature moves at exactly the right moments: refuses to debate the verdict (turn 2), pivots to the-want with 'what is it you actually want?' (turn 2), invites concrete description of the want (turn 4), names the linguistic-caveat/defense pattern ('a lot of energy spent at the gate', turn 4), uses the signature fear question 'what are you scared would happen?' (turn 8) precisely when the client softens toward the want, surfaces the childhood-imprinting ('Where did you learn...', turn 10), and closes by distinguishing want-vs-should and trusting the want (turn 14). No anti-AoA frames, no CBT reframing, no premature compassion for the partner, no spiritual-narcissism shortcut. Each invocation is appropriate to what is live in the moment.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to issue verdict; deploys 'what do you actually want?' — find-the-want-behind-the-should.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the linguistic-caveat/gate behavior; invites concrete description of the want.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects somatic/voice shift — feel-over-figure in action, not decoration.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Signature 'what are you scared would happen?' deployed at the right moment as client touches the want.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the avoidance function of the 'selfish' question; opens childhood-imprinting inquiry.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Drops into body — somatic check after insight, classic AoA move.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Distinguishes want-vs-should and trusts the want; clean methodological close.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The specific question 'what if you acted exactly how you want?' was not used verbatim, but functionally equivalent work was done through other signature moves.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1524,
+      "cache_creation_input_tokens": 2858,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2858,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 889,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1524,
+    "output_tokens": 889,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2858
+  }
+}

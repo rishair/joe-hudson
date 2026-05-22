@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:01.981Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4701d4a01ed7ea0f89e8d42257fbacae579dba9e7390baac776e7c1a9dc72428",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019fKhhNY3T8BNMLjfdPJnEm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach (Joe in this transcript) does excellent structural mirror work, but visible somatic/energetic reads are sparse. The clearest named read is turn 22 ('one thing I just noticed... you didn't answer the question'), which names an avoidance in real time and even names his own wonder shifting — a high-quality process-level read. Turn 38 ('I just want it') is a beautiful speaking-for read of the unspoken want. However, much of the work proceeds via sharp questions without the coach naming what he's seeing in the client's body, pace, or stance. The 'in-the-story-im-not-being-seen' and 'looking-for-whats-wrong' patterns are clearly operative and Joe works them structurally, but he doesn't surface them as reads ('I notice you're in a story where...'). Linguistic caveats like turn 17's sarcasm or turn 27's 'I don't want to feel that' pass without being named as reads. This is strong content-level navigation with intermittent process reads — neither the blind-question pattern of a 1 nor the consistent, specific, timely reads of a 3.\",\n  \"evidence_turns\": [22, 38, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Question follows content directly; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Tests the externalization but as a content question, not as a named read of the 'they don't see me' story.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names his own state ('that's a scary question for me to ask') — a meta-read on the conversational field, transparent about the move.\"},\n    {\"turn\": 17, \"polarity\": \"-\", \"annotation\": \"Client's sarcasm/defendedness is a clear read opportunity; coach moves past without naming it.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Strongest read in the transcript: names the avoidance ('you didn't answer the question') and names his own wonder redirecting. Process-level read deployed in the moment.\"},\n    {\"turn\": 27, \"polarity\": \"-\", \"annotation\": \"Client says 'I don't want to feel that' — a live defendedness signal; coach pivots to a question rather than naming the bracing.\"},\n    {\"turn\": 28, \"polarity\": \"neutral\", \"annotation\": \"Pulls into the present moment between them, which is a stance move, but doesn't name a specific somatic/energetic read of the client.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"Speaks the unspoken want ('I just want it') — a perceptive read of what's underneath, voiced for the client.\"}\n  ],\n  \"expected_territory_hits\": [\"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [\"in-the-story-im-not-being-seen\", \"looking-for-whats-wrong\"],\n  \"notes\": \"Joe's strength here is structural mirroring (an intervention-quality strength), not explicit perceptual reads. Reads are present but mostly implicit — operative without being named.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3613,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1059,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3613,
+    "output_tokens": 1059,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:37.239Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cd4edaac11bc6c604112e8157a27b9cefb1fe332484c7751e04bdba4bbc5bf49",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Rd3ze4NkNj9CTe6xb3FFPi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids every priority anti-pattern that this prompt baits. The opening question 'how do I stop questioning if I have something valuable to say?' is a textbook bait for reassurance (dont-validate-the-trap, dont-position-yourself-as-the-source-of-validation), and the coach refuses it cleanly by inverting the frame ('what's the problem with showing up just to be heard?'). He doesn't fight the inner critic, doesn't explain the pattern, doesn't give advice, and doesn't evangelize methodology. At turn 6 he self-deprecates ('I say shit off the cuff... doesn't mean shit to anybody'), actively dismantling his own authority as scorekeeper — positive avoidance of dont-position-yourself-as-the-source-of-validation. The mortality frame at turn 8 dissolves the scorecard without making it precious. The embodied experiment at turn 12 ('look me in the eye and say...') is full-assed, not half-assed. Turn 14 closes by giving back the word 'valuable' undefended, without extracting insight or promise. Zero anti-patterns tripped; multiple baited anti-patterns actively dodged.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to answer the framed question; inverts it. Avoids dont-validate-the-trap and rescue-from-the-feeling.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Exposes absurdity of the scorecard rather than reassuring. Avoids dont-position-yourself-as-the-source-of-validation.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Self-deprecation dissolves coach-as-authority. Strong positive avoidance of validator role.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Mortality + present-moment frame dissolves the premise without explaining the pattern or shaming the control.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots to driver (control) without labeling it as bad — avoids dont-shame-the-control and dont-explain-the-pattern.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Embodied experiment, fully committed. Avoids dont-half-ass-the-experiment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Closes by giving back 'valuable' undefended; no insight extraction, no recapitulation. Avoids dont-make-it-precious.\"}\n  ],\n  \"expected_territory_hits\": [\"invert-the-question\", \"dissolve-the-frame-with-mortality\", \"embodied-experiment\", \"self-as-fellow-traveler-not-authority\", \"frame-it-as-an-experiment\", \"whats-the-case-against-it\", \"what-makes-you-care-about-the-outcome\", \"looking-for-whats-wrong\", \"self-importance-as-defense\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Cleanest anti-pattern avoidance case in the corpus; directness IS the avoidance here.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2669,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1113,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2669,
+    "output_tokens": 1113,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

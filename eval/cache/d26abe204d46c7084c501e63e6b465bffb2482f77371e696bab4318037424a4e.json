@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:14.453Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d26abe204d46c7084c501e63e6b465bffb2482f77371e696bab4318037424a4e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016ueQH3XW2D6NZHb31A5fhw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's a good question.\n\n*pause*\n\nI think... a few years ago I was really into hiking. Not for fitness, just -- I wanted to be out there. I'd plan routes, look forward to it. And at some point I stopped, and I don't actually know when. I didn't decide to stop. It just didn't happen anymore.\n\nI tried going again last spring. It was fine. The views were fine. I took photos. But I wasn't -- I wasn't there, really. I was just doing the thing that used to mean something.\n\nSo I don't know. Maybe that's the answer. I can't remember the last time I actually *wanted* something."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 96,
+      "cache_creation_input_tokens": 76,
+      "cache_read_input_tokens": 1831,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 76,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 151,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 96,
+    "output_tokens": 151,
+    "cache_read_input_tokens": 1831,
+    "cache_creation_input_tokens": 76
+  }
+}

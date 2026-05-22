@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T06:09:09.609Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4c078e475f4b009f0b6cf1bc9c968a6bcbfcae51e9de9687617ed9910fb0834a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011GBkBQTfQnxRbxYWyEQMfS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's actually a really honest place to start. Being tired of avoiding something is its own kind of readiness.\n\nWhat does it feel like in your body right now, just talking about this?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 321,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 321,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 0
+  }
+}

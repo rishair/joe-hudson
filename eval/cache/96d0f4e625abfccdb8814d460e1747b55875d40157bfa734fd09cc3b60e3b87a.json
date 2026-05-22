@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:54:58.492Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "96d0f4e625abfccdb8814d460e1747b55875d40157bfa734fd09cc3b60e3b87a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012tLnxwTLEfv8foE8m2vQup",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 1,\n  \"rationale\": \"The coach operates from a fixing/reassuring stance rather than VIEW. In turn 6 the coach issues a verdict ('That's not selfish — that's the body asking for what it needs'), directly engaging the selfish/not-selfish frame the client offered and taking a side. In turn 12 the coach packages the experience into a tidy reframe ('deep generosity in you... you'll have so much more to give'), which is preacher-mode and reveals an agenda for where the client should land. There is no vulnerability from the coach (no first-person noticing, no 'I might be off'), no genuine wonder (questions feel investigative, moving toward a predetermined destination), and impartiality is absent — the coach clearly wants the client to feel okay about the trip. Empathy is performed ('That's a heavy feeling. Mmm.') rather than felt presence. Pace is brisk and content-driven; the coach does not slow down or hold silence with the want itself.\",\n  \"evidence_turns\": [2, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Generic empathy noise ('That's a heavy feeling') followed by a content question — performed rather than present.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Question toward the want is directionally fine but feels procedural, not curious.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Coach issues a verdict — engages the selfish/not-selfish frame and takes a side. Clear agenda.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Leading question pointing the client toward a preferred outcome ('trust that your partner can be with that').\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Preacher-mode reframe; coach packages it up and predicts a generous outcome. No wonder, strong agenda.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"childhood-imprinting\", \"linguistic-caveat\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Trips spiritual-narcissism trap in turn 12 by jumping to the generous/spiritual frame without letting the surface want be felt.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1305,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 823,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1305,
+    "output_tokens": 823,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

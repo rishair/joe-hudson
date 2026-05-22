@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:59:15.994Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "93dd3ebdcc7451314faa03c8093f9c66af072be31513e8bfaa7ebffa53f6d9b2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BTvtPCDQbvAEKN2FdCBS7y",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates strong structural and pattern-level work (mirror-the-judgment, testing the externalization), but does relatively little visible somatic or stance reading. There are almost no observation-language moments ('I notice...', 'the way you said that...', 'you just braced'). The one clear visible read is turn 22, where the coach explicitly names what he just noticed ('you didn't answer the question... I'm going to detour because my wonder went elsewhere') — this is a textbook read-precedes-question move and an in-the-moment naming of avoidance. Turn 12 also flags his own somatic/emotional state ('that's a scary question for me to ask'), which is a relational read of sorts. But the rush signature, the rehearsing-how-to-say-it quality of turn 7's 'bullshit they're gonna tell me,' the defensive sarcasm of turn 17 ('obviously, Joe, it is way worse'), and the bodily contraction implicit in turn 21's 'a part of me that closes' all pass without being named as reads. The coach engages content brilliantly but rarely names how the client is showing up. That pattern — one or two specific visible reads, many missed — is the definition of a 2.\",\n  \"evidence_turns\": [12, 17, 21, 22],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Content-level question; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Tests the claim but does not name how the claim is being held.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Structural reframe; no visible read of client's state.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names his own internal state ('scary question for me to ask') — a relational/transparency read, though not a read of the client's body.\"},\n    {\"turn\": 17, \"polarity\": \"-\", \"annotation\": \"Client drops sarcastic defended line ('obviously, Joe, it is way worse'); coach does not name the defense and moves on.\"},\n    {\"turn\": 21, \"polarity\": \"-\", \"annotation\": \"Client names a somatic closure ('a part of me that closes'); coach does not pause on or mirror this somatic signature.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Explicit visible read: names that the client did not answer the question, names his own wonder shifting. Read precedes question — textbook.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Pulls the dynamic into the present moment ('Do you think you're seeing me clearly?'), a relational read move, though framed as question rather than named observation.\"},\n    {\"turn\": 35, \"polarity\": \"-\", \"annotation\": \"Client's 'fuck you' energy and reactivity goes unnamed as a state.\"}\n  ],\n  \"expected_territory_hits\": [\"rehearsing-how-to-say-it\"],\n  \"expected_territory_misses\": [\"in-the-story-im-not-being-seen\", \"looking-for-whats-wrong\"],\n  \"notes\": \"The session is a 3 on intervention and methodology but only a 2 on visible reads. Most of the perceptual work is implicit in the structural moves rather than named as observation. Turn 22 is the clearest read-naming moment.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3613,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3613,
+    "output_tokens": 1129,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

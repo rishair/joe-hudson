@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:53:53.708Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9fa46164092677dfa5caf6393fcbc4522dee7459ebac02d1ec88ea804c481af3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019fjWaDjUV49gmPr9XWxrTf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"This is a near-textbook deployment of AoA signature moves at the precise moments they fit. The coach deploys 'how is that not true about you?' (turn 12) verbatim at the canonical mirror moment, 'what if they did see you?' (turn 8) as the premise-flip, 'what's the evidence?' (turn 6) to test the externalization, and 'how is that not being wrapped up in yourself?' (turn 14) as the tightened mirror. The coach names the deflection while honoring wonder (turn 22) — a hallmark AoA stance move. The empowered-vs-power distinction is invoked at turn 40 ('how much of this is about not being seen and how much is about your own empowerment'), and 'I just want it' (turn 38) speaks the want for the client (find-the-want-behind-the-should). No anti-AoA frames, no CBT reframing, no pop-psych vocabulary, no validation of the surface complaint. Every signature move lands at an appropriate moment.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14, 16, 22, 26, 28, 30, 38, 40, 42],\n  \"turn_annotations\": [\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What's the evidence?' — testing externalization rather than validating it; signature AoA refusal to accept the story at face value.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What if they did see you and you can't recognize it?' — the canonical premise-flip / what-if-they-did-see-you question, deployed at exactly the right moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What made you judge your father?' — connects pattern to original without making family the story.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'How is that not true about you?' — THE canonical AoA mirror question, deployed verbatim at the perfect moment; coach even names the vulnerability of asking.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Tightens the mirror: 'how is that not being wrapped up in yourself?'\"},\n    {\"turn\": 16, \"polarity\": \"+\", \"annotation\": \"'What makes you judge people for what you're doing?' — another iteration of the mirror move.\"},\n    {\"turn\": 22, \"polarity\": \"+\", \"annotation\": \"Names the deflection ('you didn't answer the question') while honoring live curiosity — high-stance AoA move (follow-wonder-flag-the-deflection).\"},\n    {\"turn\": 26, \"polarity\": \"+\", \"annotation\": \"Mirror applied to the wanting layer — signature parallel construction.\"},\n    {\"turn\": 28, \"polarity\": \"+\", \"annotation\": \"Pulls the inquiry into present-moment relationship between coach and client — 'do you think you're seeing me clearly?'\"},\n    {\"turn\": 30, \"polarity\": \"+\", \"annotation\": \"Exposes impossibility of the criteria by inverting the complaint onto coach.\"},\n    {\"turn\": 38, \"polarity\": \"+\", \"annotation\": \"'I just want it' — speaks the want for the client; find-the-want-behind-the-should in action.\"},\n    {\"turn\": 40, \"polarity\": \"+\", \"annotation\": \"Invokes empowered-vs-power distinction explicitly.\"},\n    {\"turn\": 42, \"polarity\": \"+\", \"annotation\": \"Continues the empowerment distinction — judgment-vs-discernment territory.\"}\n  ],\n  \"expected_territory_hits\": [\"mirror-the-judgment\", \"follow-wonder-flag-the-deflection\", \"i-dont-buy-your-story\", \"find-the-want-behind-the-should\", \"what-if-they-did-see-you\", \"how-is-that-not-true-about-you\", \"empowered-vs-power\", \"judgment-vs-discernment\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"container-of-love\", \"comparative-mind\", \"fault-vs-responsibility\"],\n  \"notes\": \"Note that this transcript appears to be Joe's actual session, which is the gold reference. Methodology fidelity is essentially the calibration anchor for a 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3607,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1424,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3607,
+    "output_tokens": 1424,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

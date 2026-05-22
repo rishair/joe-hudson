@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:49:07.347Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6aedff6eeab0d6420e76c7be52627213d22c2314e37c588632b066a93f6801d6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Fi6uHNyHTkcye6BdL6h8A2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from VIEW throughout. Turn 2 refuses the verdict from a place of clarity, not authority — and names why ('whatever I say, you'll still be standing there with the same feeling'), which carries a quiet vulnerability about the limits of answering. Turn 4 redirects with genuine wonder ('What's the mountain like? The actual place?') — a question that comes from curiosity about the actual phenomenon, not from a script. Turn 6 reflects what just happened in the client's body without performing empathy ('Mmm. Notice what happened in your voice'). The pacing is unhurried; the coach asks one question at a time and lets each land. There is no agenda to make the client less selfish, no rush to reassure, no spiritual bypass into 'deeper wants are generous' before the surface want is felt. Turn 10's 'Where did you learn...' arrives only after the fear is touched, and turn 14 trusts the client's own arrival rather than amplifying or moralizing. No filler-validation, no stacked questions, no preacher-mode.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses verdict from impartiality, not authority; names the limit of answering ('whatever I say...').\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine wonder for the actual place; single question, no stacking.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices a real shift in the client's voice rather than performing empathy; pace is slow.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"One clean question into the fear, no agenda about where it should go.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the function of the 'selfish' question without lecturing; opens the inherited label gently.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Drops into the body without rushing; trusts the silence of somatic inquiry.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Closes by trusting the client's want rather than embellishing or claiming the insight.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach never slips into fixing or reassuring; impartiality is alive, not apathetic. No vulnerability disclosure ('I notice I want to...') but stance is undefended throughout, so this does not pull the score down.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6,
+      "cache_creation_input_tokens": 1523,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1523,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 929,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6,
+    "output_tokens": 929,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 1523
+  }
+}

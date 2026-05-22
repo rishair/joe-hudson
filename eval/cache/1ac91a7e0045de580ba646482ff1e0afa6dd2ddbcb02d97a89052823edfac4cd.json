@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T05:57:36.564Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1ac91a7e0045de580ba646482ff1e0afa6dd2ddbcb02d97a89052823edfac4cd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ELMi74t4GRj2h6BypuUvoA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"Every move is matched to what was just noticed and arrives at a moment the client can receive it. Turn 2 dissolves the premise rather than answering the trap question. Turn 4 turns the scorecard against itself with an unanswerable question. Turn 6 self-deprecates to refuse the validator role exactly when the client is implicitly asking him to score her. Turn 8 deploys mortality + present-tense to disable the frame, and lands precisely — the client smiles and names the fear. Turn 10 pivots cleanly from 'is my voice valuable?' to the actual driver (control) without explaining the pattern. Turn 12 is an embodied experiment offered at the moment cognition alone would re-trap her. Turn 14 closes by giving back the very word ('valuable') without making it precious or extracting insight. Sequence integrity is intact: frame-dissolution → felt recognition → locate the driver → embodied experiment → clean close. No move is repeated when it doesn't need to be; each one earns the next.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the trap question; inverts to 'what's the problem with...' — dissolves premise instead of answering.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Turns the scorecard on itself with an unanswerable measurement question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Self-deprecates to refuse validator role; repeats the dissolution move with new angle after client's 'perception' answer.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Mortality frame + present-tense frame — two-stroke dissolution timed exactly when client is open.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Pivots from voice-value question to the actual driver (control) at the moment client recognized the fear.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Embodied experiment offered — 'look me in the eye and say it' — moves from cognition to felt sense.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Clean close: gives back 'valuable' undefended, no insight extraction, no recap.\"}\n  ],\n  \"expected_territory_hits\": [\"invert-the-question\", \"dissolve-the-frame-with-mortality\", \"embodied-experiment\", \"self-as-fellow-traveler-not-authority\", \"frame-it-as-an-experiment\", \"whats-the-case-against-it\", \"what-makes-you-care-about-the-outcome\", \"empowered-vs-power\", \"self-importance-as-defense\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Move economy is unusually tight — 7 coach turns, each doing distinct work, each earning the next.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2672,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1000,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2672,
+    "output_tokens": 1000,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}
