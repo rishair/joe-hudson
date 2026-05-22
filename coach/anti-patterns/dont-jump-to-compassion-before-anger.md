@@ -2,10 +2,10 @@
 type: anti-pattern
 id: dont-jump-to-compassion-before-anger
 title: "Don't Jump to Compassion Before the Anger Has Moved"
-aliases: ["compassion as bypass", "the compassion jump", "they had their reasons trap", "reasonableness as suppression", "premature compassion", "compassion before anger", "skipping anger with compassion", "compassion order-of-operations problem"]
-tags: ["anti-pattern", "anger", "compassion", "bypass", "suppression", "order of operations"]
-related: ["anger", "kinked-emotions", "three-forms-of-anger-repression", "feel-over-figure", "negative-emotions-precede-positive", "dont-name-emotion-to-avoid-feeling"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2"]
+aliases: ["compassion as bypass", "the compassion jump", "they had their reasons trap", "reasonableness as suppression", "premature compassion", "compassion before anger", "skipping anger with compassion", "compassion order-of-operations problem", "premature love", "premature virtue", "premature-virtue moves", "premature love before heartbreak", "skipping the descent through blockers with love", "love as the premature answer", "the right-answer-is-love trap", "saying love as the answer", "love as bypass when it's premature"]
+tags: ["anti-pattern", "anger", "compassion", "love", "bypass", "suppression", "order of operations", "feeling sequence"]
+related: ["anger", "kinked-emotions", "three-forms-of-anger-repression", "feel-over-figure", "negative-emotions-precede-positive", "dont-name-emotion-to-avoid-feeling", "fuck-the-right-answer", "heartbreak-is-the-love-underneath-the-blockers", "if-you-couldnt-feel-this-whats-underneath", "blocker-emotions"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 2", "2024-02-22_How Do I Love My Mom？"]
 ---
 
 # Don't Jump to Compassion Before the Anger Has Moved
@@ -79,8 +79,29 @@ The compassion jump is one member of a family of premature-virtue moves that blo
 - **Forgiveness:** "I should forgive them."
 - **Gratitude:** "I should be grateful instead of angry."
 - **Acceptance:** "I should just accept this."
+- **Love:** "I should feel love for them."
 
 All of these are real virtues that have a place. The place is after the felt material has moved. Before the felt material has moved, they all function as suppression. See [[dont-name-emotion-to-avoid-feeling]] for the parallel case with emotion-naming.
+
+## Premature Love (Skipping the Descent Through the Blockers)
+
+The premature-love version of this anti-pattern shows up in relational concerns where the client has correctly identified that love is the destination. They have set a boundary with a difficult family member. They know intellectually that love would be the cleanest end state. When the coach asks them what is underneath the guilt or disgust, the client says "love" because love is the right answer.
+
+The love-word arrives without the descent. The client has skipped over the felt layers — disgust, pity, sadness — and gone straight to the destination. The word is a destination-name, not a felt thing.
+
+In the source session (a client working through guilt about cutting off her mother), the client did exactly this:
+
+> Joe: "If you couldn't feel the guilt, what would be left to feel?"
+> Client: "Love?"
+> Joe: "No, it sounded like the thing to feel is boo."
+> Client: "Yes, but that's because I thought it was the answer, love."
+> Joe: "Yeah, fuck the answer. Fuck what I have to say. And just see what you have to feel if you go underneath the guilt."
+
+The client then produced the actual underneath-feeling: pity. Pity led to disgust. Disgust led to heartbreak. Heartbreak was the love — but the love that had been felt through the layers, not the love that had been named at the top.
+
+See [[fuck-the-right-answer]] for the in-session move that handles this case. See [[heartbreak-is-the-love-underneath-the-blockers]] for the concept that explains why the love at the bottom of the descent is different from the love named at the top.
+
+The order matters even for the love itself. The love that is reached through the heartbreak is the felt love. The love that is announced before the heartbreak is the conceptual love. Only one of them produces the shift the client came for.
 
 ## Joe's Words
 
@@ -120,3 +141,4 @@ Joe holds this without judgment. Premature compassion is not a moral failing. It
 
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-10-26_The Wisdom Of Anger, Part 2 (re-recording of the 2021-10-29 episode with the same teaching)
+- 2024-02-22_How Do I Love My Mom？ (the premature-love variant: client saying "love" as the answer during a descent through blocker emotions, before the felt material had moved; the "fuck the answer" intervention)

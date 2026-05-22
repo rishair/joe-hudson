@@ -4,7 +4,7 @@ id: the-work-as-three-levels-of-change
 title: "The Work as Three Levels: Intellectual, Emotional, Nervous System"
 aliases: ["the work as three levels", "Joe's definition of the work", "what is the work", "intellectual emotional nervous system work", "head heart body work", "what the coaching is", "three levels of the work", "how Joe defines coaching", "the three-level definition of the work", "what the work does", "the three operating layers of coaching", "what coaching changes", "the work targets three layers", "intellectual layer of the work", "emotional layer of the work", "nervous system layer of the work", "reptilian mammalian human brain layers", "three brain layers reptilian mammalian prefrontal", "the bidirectional dance between the three layers", "cause and effect across the three layers", "one system three layers", "the work as one system in three layers"]
 tags: ["the work", "concept", "definition", "head heart body", "coaching", "foundational"]
-related: ["identity-changes-on-three-levels", "art-of-accomplishment", "head-heart-gut", "voice-in-the-head", "emotional-fluidity", "voice-as-care", "feel-your-way-to-freedom", "polyvagal-nervous-system-framing", "take-access-points-wherever-you-can-get-them", "activation-release-rest-cycle", "energetic-system-as-fourth-layer"]
+related: ["identity-changes-on-three-levels", "art-of-accomplishment", "head-heart-gut", "voice-in-the-head", "emotional-fluidity", "voice-as-care", "feel-your-way-to-freedom", "polyvagal-nervous-system-framing", "take-access-points-wherever-you-can-get-them", "activation-release-rest-cycle", "energetic-system-as-fourth-layer", "measuring-transformation-across-three-brains"]
 sources: ["2022-12-23_Joe and His Daughter Discuss Fatherhood", "2024-02-16_'WTF Is A Nervous System?' With Jonny Miller"]
 ---
 
@@ -133,6 +133,7 @@ For the AI coach, this definition functions as a north star. The AI is not just 
 - Toward [[energetic-system-as-fourth-layer]]: the optional fourth layer some traditions add
 - Toward [[art-of-accomplishment]]: how this work shows up in the productive domain
 - Toward [[feel-your-way-to-freedom]]: the emotional-layer methodology in its own right
+- Toward [[measuring-transformation-across-three-brains]]: the parallel three-layer framework on the measurement side. The work changes across three layers; the changes can be tracked across three corresponding markers.
 
 ## Tone
 

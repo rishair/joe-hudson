@@ -103,6 +103,8 @@ VIEW and love are the same thing, approached from different doors. The teaching 
 - [[loving-to-transform]]: Once you feel the power of love, the temptation is to use love to change things. The instant love becomes a strategy, it stops working.
 - [[tools-to-change-not-love]]: Same dynamic at the level of practice. Tools used to improve rather than to welcome stop producing.
 - Loving as a bypass: Loving everything as a way to avoid feeling parts of it. Love that excludes some part of experience is not deep welcoming.
+- [[obligation-cuts-off-love]]: Acting from obligation constricts the felt experience of love. The two states cannot occupy the same body in the same moment. Performing care from duty is not welcoming.
+- [[searching-for-love-cuts-off-love]]: Any strategy to get love presupposes its absence, and the presupposition is the closure. The search itself produces the lack.
 
 "To love everything means that you're really happy to feel everything, that you're happy to express everything, that you're happy to be wrong about everything. That you're happy to be empowered and you're happy to feel helpless." -- Joe Hudson, Love over Defense
 

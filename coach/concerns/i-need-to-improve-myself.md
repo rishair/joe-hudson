@@ -78,6 +78,8 @@ The typical flow:
 
 6. If the person is ready, point at the deeper question: what are you actually searching for in all this improvement? See [[musk-deer-parable]] and [[self-realization]].
 
+7. If the person is specifically measuring themselves against transformation markers (emotional fluidity, sense of self, pleasure capacity, etc.) and beating themselves up with the measurements, surface the [[dont-use-measurement-to-beat-yourself-up]] dynamic and offer [[there-is-no-better-person-on-the-other-side]] as the foundational reframe.
+
 ## Where People Get Stuck
 
 - The improvement project provides identity and direction. Releasing it produces disorientation. The disorientation is part of the territory.

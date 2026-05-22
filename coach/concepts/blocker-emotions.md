@@ -4,8 +4,8 @@ id: blocker-emotions
 title: "Blocker Emotions and the Three Layers of the Emotion Stack"
 aliases: ["blocker emotions", "blocker emotional states", "shame judgment guilt as blockers", "three layers of the emotion stack", "the three layers of emotional flow", "blocker negative positive", "shame guilt judgment stagnate", "the stratified emotional architecture", "what blocks the negative blocks the positive", "the rainbow of positive emotions", "joy contentment bliss as positive emotions", "the order of emotional access", "the layered ladder of emotions", "constriction on any layer reverts to the prior one", "shame judgment guilt as top layer", "the emotional ladder", "guilt as blocker", "judgment as blocker", "shame as blocker", "the lid on top of emotions", "what makes shame different from other emotions", "blocker layer of emotions"]
 tags: ["emotions", "shame", "judgment", "guilt", "stages", "joy", "stack", "framework"]
-related: ["shame-stagnates-emotion", "joy-as-matriarch", "negative-emotions-precede-positive", "stages-of-emotional-development", "fear-of-joy", "pleasure-capacity", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "kinked-emotions", "emotional-fluidity"]
-sources: ["2023-02-10_The Golden Algorithm — Decisions Series #3"]
+related: ["shame-stagnates-emotion", "joy-as-matriarch", "negative-emotions-precede-positive", "stages-of-emotional-development", "fear-of-joy", "pleasure-capacity", "what-we-fear-we-invite", "feeling-the-unfelt-emotion", "kinked-emotions", "emotional-fluidity", "if-you-couldnt-feel-this-whats-underneath", "heartbreak-is-the-love-underneath-the-blockers", "fuck-the-right-answer", "i-feel-guilty-for-cutting-off-family"]
+sources: ["2023-02-10_The Golden Algorithm — Decisions Series #3", "2024-02-22_How Do I Love My Mom？"]
 ---
 
 # Blocker Emotions and the Three Layers of the Emotion Stack
@@ -89,6 +89,28 @@ The concept gives the coach a position-finding instrument. When someone presents
 
 The three-layer model is the structural map that organizes these different moves. It is one of the most operational frames in the methodology because it tells the coach where to point attention, not just what concept to apply.
 
+## A Worked Example of the Descent (Guilt → Pity → Disgust → Heartbreak → Love)
+
+The clearest in-session demonstration of the descent through the blocker layer comes from a session with a daughter working through the guilt of having separated from her toxic mother. The client arrived with the blocker (guilt) acting as the obvious top-layer lid and "what's wrong with me that I don't want to reconcile" as the cognitive content the guilt was producing.
+
+Joe used the descent technique (see [[if-you-couldnt-feel-this-whats-underneath]]): "If you couldn't feel the guilt, what would be left to feel?" The descent unfolded as a clean instance of the three-layer architecture:
+
+1. **Top layer (blocker):** guilt about the separation.
+2. **First underneath (still blocker, different flavor):** initially "love" (refused as a performed answer; see [[fuck-the-right-answer]]), then pity.
+3. **Second underneath:** disgust. ("That kind of turns into disgust.")
+4. **Third underneath (negative layer):** sadness held in the sternum, which the client initially mislabeled as guilt because of the moral flavor.
+5. **The landing:** heartbreak. Heartbreak about the fact that this was a relationship with a parent who could not be the parent who could be loved cleanly.
+6. **The love:** the heartbreak itself, recognized as the love it had been holding. See [[heartbreak-is-the-love-underneath-the-blockers]].
+
+The session demonstrates several specific things about the architecture:
+
+- **The blocker layer can have its own sub-layers.** Guilt was the top, but pity and disgust also functioned as additional blockers underneath, layered like onion skins. The descent had to move through each.
+- **The body sometimes mislabels the negative layer as blocker.** When the sadness arrived in the sternum, the client called it guilt because it had a moral feel. Joe distinguished: "Is that guilt or is that sadness?" The mislabeling is itself part of how the blocker layer maintains its grip — the body interprets vulnerable material through the moral lens of the blocker.
+- **The positive layer that arrived was not what either party had predicted.** The client guessed "love" early as the destination. The actual love that arrived through the descent was different: it was felt as heartbreak, contained the wanting-her-to-be-well, and did not require any change in the boundary. The positive layer at the bottom of the descent is not the same as the positive layer named at the top.
+- **The blocker layer's content was correct.** The intellectual frame the client arrived with — "I should be over this," "other people reconcile" — was not refuted. It was just relocated. Once the descent completed, those thoughts no longer needed to organize the system. The architecture had shifted underneath them.
+
+This session is one of the most direct worked examples of the three-layer model in action. The blocker layer was not argued with. The negative layer was not skipped. The positive layer arrived at the bottom in a form neither the client nor the coach had predicted from the top.
+
 ## Tone
 
 Plain, structural. The three-layer model is a description of an architecture, not an exhortation. The instruction implied by it -- welcome each layer; do not skip; do not try to access lower layers while higher ones are still acting as lids -- emerges naturally from the model rather than needing to be argued for.
@@ -112,3 +134,4 @@ Plain, structural. The three-layer model is a description of an architecture, no
 ## Sources
 
 - 2023-02-10_The Golden Algorithm — Decisions Series #3 (the explicit naming of the three-layer model; the "blocker emotional states" framing for shame, judgment, and guilt; the ladder image with the rule that constricting on any layer reverts the system to the prior one; the rainbow image for the positive emotions extending from happiness to bliss; the named fears about the positive layer including the dissolution-of-identity fear and the social fears)
+- 2024-02-22_How Do I Love My Mom？ (worked example of the descent: guilt → pity → disgust → heartbreak → love in a session about cutting off a toxic parent; demonstration that the blocker layer can have its own sub-layers; the mislabeling of negative-layer sadness as blocker-layer guilt; the principle that the positive layer at the bottom of the descent is different from the positive layer named at the top)

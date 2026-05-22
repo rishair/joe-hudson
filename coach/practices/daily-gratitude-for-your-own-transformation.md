@@ -4,8 +4,8 @@ id: daily-gratitude-for-your-own-transformation
 title: "Daily Gratitude for Your Own Transformation"
 aliases: ["daily gratitude for transformation", "daily gratitude for growth", "gratitude for the work you've done", "thank yourself daily", "the daily acknowledgment practice", "the encouragement-not-fixing practice", "daily acknowledgement of growth", "appreciate the transformation you've had", "gratitude for the little wins of the day", "the showing-up gratitude", "thank yourself for showing up", "the gentleness gratitude practice", "the growth-gratitude practice", "Joe's biggest hack for transformation"]
 tags: ["gratitude", "practice", "transformation", "growth", "gentleness", "daily practice", "self-relationship"]
-related: ["gentleness-not-trying-to-be-patient", "gratitude-around-the-problem", "love-is-the-best-change-agent", "notice-and-be-grateful-for-connection", "wants-over-shoulds", "voice-as-care", "i-need-to-improve-myself"]
-sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More"]
+related: ["gentleness-not-trying-to-be-patient", "gratitude-around-the-problem", "love-is-the-best-change-agent", "notice-and-be-grateful-for-connection", "wants-over-shoulds", "voice-as-care", "i-need-to-improve-myself", "punishing-the-remembering", "pendulation"]
+sources: ["2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2024-02-19_3 Mindsets That Transform Self-Development"]
 ---
 
 # Daily Gratitude for Your Own Transformation
@@ -113,6 +113,20 @@ This practice fits with and reinforces several others:
 - As a daily floor for anyone working on themselves -- there is no level of practice at which this stops being useful
 - After breakthroughs, when the person is tempted to immediately set the next bar -- this practice anchors them in the breakthrough before they move past it
 
+## The In-the-Moment Version: Grateful for the Remembering
+
+The daily form of this practice has a smaller, more frequent companion: gratitude at the exact moment you notice you forgot. You realize you have not been in the practice for hours. You realize you have been carried away by the inner critic. You realize you have been in the story rather than feeling the body. The instant of that realization is the moment to bring gratitude.
+
+"It's so much better to say, oh, I've done it and I'm grateful. And oh, I just remembered and I'm grateful that I remembered." — Joe Hudson, 3 Mindsets That Transform Self-Development
+
+The form is one breath, one internal sentence, one body softening. "Oh, I remembered. Thank you." Then continue.
+
+This is the in-the-moment version of the same practice. The end-of-day version names what happened today. The in-the-moment version meets each instance of remembering with gratitude as it happens. Both reinforce the same wiring: the moment of recognition is met with reward instead of with punishment.
+
+The connection to [[punishing-the-remembering]]: the in-the-moment gratitude is the operational antidote to the nervous-system pattern where self-criticism trains the system to avoid the moment of remembering. The end-of-day gratitude is the wider-frame version of the same antidote. Doing both together is what makes the practice robust.
+
+For an AI coach: when a person reports "I keep forgetting" or "I noticed I haven't been doing the practice" or "I caught myself doing the old pattern again," the responsive move is not to validate the self-criticism that often accompanies the report. The responsive move is to invite gratitude for the catching. "What if 'I noticed' is the practice working? Try saying 'thank you for remembering' instead of 'damn it I forgot.' See what happens."
+
 ## A Note On Resistance to the Practice
 
 Some people resist this practice with the report "I have nothing to thank myself for today." That report is the voice, not the truth. Every day contains many things worth thanking. The voice's job is to filter them out.
@@ -122,3 +136,4 @@ If the person genuinely cannot name anything, start them very small: "Thank your
 ## Sources
 
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
+- 2024-02-19_3 Mindsets That Transform Self-Development (the in-the-moment "grateful for the remembering" form: meet the moment of recognition with gratitude, not punishment; the explicit instruction "oh, I just remembered and I'm grateful that I remembered")

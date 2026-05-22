@@ -4455,6 +4455,111 @@
       "articles_updated": [],
       "type": "teaching",
       "absorbed_at": "2026-05-22T13:38:28Z"
+    },
+    {
+      "folder": "2024-02-19_3 Mindsets That Transform Self-Development",
+      "status": "complete",
+      "claimed_at": "2026-05-22T13:40:03Z",
+      "articles_created": [
+        "punishing-the-remembering",
+        "dont-take-my-word-for-it"
+      ],
+      "articles_updated": [
+        "improvement-vs-authenticity",
+        "pendulation",
+        "daily-gratitude-for-your-own-transformation"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T13:47:57Z"
+    },
+    {
+      "folder": "2024-02-22_How Do I Love My Mom？",
+      "status": "complete",
+      "claimed_at": "2026-05-22T13:43:24Z",
+      "articles_created": [
+        "i-feel-guilty-for-cutting-off-family",
+        "if-you-couldnt-feel-this-whats-underneath",
+        "fuck-the-right-answer",
+        "heartbreak-is-the-love-underneath-the-blockers",
+        "compassion-as-of-the-guts"
+      ],
+      "articles_updated": [
+        "dont-jump-to-compassion-before-anger",
+        "blocker-emotions"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T13:54:05Z"
+    },
+    {
+      "folder": "2024-02-26_How To Measure Your Progress In Personal Development & Transformation",
+      "status": "complete",
+      "claimed_at": "2026-05-22T13:48:33Z",
+      "articles_created": [
+        "measuring-transformation-across-three-brains",
+        "sense-of-time-expansion",
+        "dont-use-measurement-to-beat-yourself-up",
+        "there-is-no-better-person-on-the-other-side"
+      ],
+      "articles_updated": [
+        "expanding-sense-of-self",
+        "pleasure-capacity",
+        "emotional-fluidity",
+        "embracing-intensity-as-leading-indicator",
+        "head-heart-gut",
+        "the-work-as-three-levels-of-change",
+        "i-need-to-improve-myself"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T13:58:30Z"
+    },
+    {
+      "folder": "2024-03-01_Love and Obligation",
+      "status": "complete",
+      "claimed_at": "2026-05-22T13:55:55Z",
+      "articles_created": [
+        "obligation-cuts-off-love",
+        "obligation-as-management",
+        "searching-for-love-cuts-off-love",
+        "feel-the-love-then-feel-obligation",
+        "divorce-client-love-vs-obligation-demo",
+        "acceptance-is-not-love",
+        "i-get-to-vs-i-have-to",
+        "say-no-to-find-the-want",
+        "potato-chipping-the-rigid-body-under-obligation"
+      ],
+      "articles_updated": [
+        "i-should-be-doing-this",
+        "i-feel-trapped",
+        "love-as-deep-welcoming",
+        "dont-take-responsibility-for-anothers-happiness"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T14:09:01Z"
+    },
+    {
+      "folder": "2024-03-01_What Blocks Your Love？",
+      "status": "complete",
+      "claimed_at": "2026-05-22T13:59:31Z",
+      "articles_created": [
+        "responsibility-stops-love",
+        "acceptance-without-love",
+        "mirror-to-group-then-substitute-i-for-you",
+        "stick-a-fucking-shit-in-front-of-the-should"
+      ],
+      "articles_updated": [
+        "i-should-be-doing-this",
+        "capacity-to-love-other-is-capacity-to-love-self",
+        "dont-take-responsibility-for-anothers-happiness"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T14:07:51Z"
+    },
+    {
+      "folder": "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T14:08:34Z",
+      "articles_created": [],
+      "articles_updated": []
     }
   ]
 }

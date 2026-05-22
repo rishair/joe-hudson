@@ -4,7 +4,7 @@ id: dont-take-responsibility-for-anothers-happiness
 title: "Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)"
 aliases: ["nobody else is responsible for your happiness", "you can't make your partner happy", "don't take responsibility for happiness", "happiness is internal", "the responsibility-for-happiness principle", "stop trying to make them happy", "no one can make me happy", "responsibility for own happiness", "we're responsible for our own happiness"]
 tags: ["relationships", "happiness", "responsibility", "freedom", "autonomy", "boundaries", "codependence"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-03-01_What Blocks Your Love？", "2024-03-01_Love and Obligation"]
 ---
 
 # Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)
@@ -26,6 +26,14 @@ The principle has two faces, and most relational dysfunction includes both:
 **2. Giving your own happiness away.** "If they would just change, I would be happy. They're the reason I'm not happy. If only they would do X, I could finally be okay." This is the position of waiting for someone else to provide what only you can provide.
 
 The two faces interlock. The person taking responsibility for someone else's happiness usually has a partner who is giving their happiness away to them, and vice versa. The configuration is stable until one person stops playing their assigned side.
+
+## The Felt Mechanism: Responsibility Stops the Love
+
+The structural principle has a felt mechanism beneath it. Taking responsibility for another person does not just damage the relationship over time -- it stops the love in real time. The two postures (responsibility for them, love for them) cannot occupy the body simultaneously. When the responsibility-posture enters, the love-posture retreats.
+
+This can be demonstrated directly. Bring up the love for someone you love. Then add the obligation for their happiness. The love disappears. The mechanism is the felt content of why this principle is terminal: the relationship dies because moment-by-moment the love is being traded for obligation.
+
+See [[responsibility-stops-love]] for the full treatment of this mechanism, including the live demonstration Joe walks clients through.
 
 ## Why It Kills Relationships
 
@@ -109,6 +117,7 @@ If you are in a relationship and exhausted by the work of keeping your partner o
 - Toward [[losing-yourself-in-others]]: the anti-pattern this principle prevents
 - Toward [[just-be-yourself-and-see-what-happens]]: the move when the principle has been violated for years
 - Toward [[dont-try-to-change-your-partner]]: the corollary
+- Toward [[responsibility-stops-love]]: the felt mechanism beneath this principle
 
 ## Tone
 

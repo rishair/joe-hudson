@@ -4,8 +4,8 @@ id: expanding-sense-of-self
 title: "Expanding Sense of Self"
 aliases: ["sense of self expands", "I am my family", "I am the ecosystem", "universal will", "oneness", "self gets bigger", "GI Joe with a kung fu grip", "identity development from child to universal", "awakening as identity shift", "the tenderization of identity over time", "identity softens toward the universal", "many ways to dissolve the self", "dissolution of self has many paths", "relational practice for dissolving self"]
 tags: ["development", "identity", "oneness", "collaboration"]
-related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts", "awakening-as-natural-development", "view", "joes-bathroom-realization"]
-sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)"]
+related: ["identity", "resistance", "selfishness-is-the-engine-of-unity", "impartiality", "zen-sickness", "self-realization", "story", "transparent-identity-vs-rigid", "loving-all-parts", "awakening-as-natural-development", "view", "joes-bathroom-realization", "sense-of-time-expansion", "measuring-transformation-across-three-brains", "there-is-no-better-person-on-the-other-side"]
+sources: ["2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_If You Can't Love The Feeling, Love The Resistance", "2022-10-26_When The Story Falls Apart", "2023-01-08_Q&A – Expressing 'Anger At', Playing with Depression, & More", "2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II)", "2024-02-26_How To Measure Your Progress In Personal Development & Transformation"]
 ---
 
 # Expanding Sense of Self
@@ -29,6 +29,24 @@ Joe describes the early stage with a recurring example. Ask a small child what m
 "You're like, you say to a little kid, like, 'Hey, what does mom want for Christmas?' And it's like, 'I want G.I. Joe with a kung fu grip.' 'What does dad want?' 'Dad wants a G.I. Joe with a kung fu grip.' You know, like, because you see the world as you are the world in this, like, very personal way." -- Joe Hudson, When the Story Falls Apart
 
 The child has no working differentiation between self and other. As they grow, they learn that mom and dad are different from them. The sense of self differentiates from the world. Then, with further development, it can expand outward again -- not by losing the differentiation but by including more inside what "I" refers to.
+
+## The Stage Sequence (And the Eventual Implosion)
+
+When Joe lays out the developmental stages explicitly, the sequence runs: me → family → community → tribe → nation → humanity → ecosystem → everything. At each stage, the previous configuration is included rather than discarded; the boundary of "I" widens by another ring.
+
+"Sense of self that is me to family to community to tribe to nation and then it continues to grow into humanity and it continues to grow into like the earth, right? Like, oh, I see myself as part of this entire ecosystem and to take care of myself is to take care of the ecosystem." -- Joe Hudson, How To Measure Your Progress In Personal Development & Transformation
+
+The cleanest test of which stage someone is operating at: what does "taking care of myself" automatically include? If it includes the family, the person is at the family stage. If it includes the ecosystem, the person is at the ecosystem stage. The boundary of self-care is the boundary of self.
+
+"To take care of myself is to take care of the ecosystem. Or I see myself as this family, and to take care of the family is a way to take care of myself." -- Joe Hudson, How To Measure Your Progress In Personal Development & Transformation
+
+Then, after the ecosystem-level expansion, the same implosion described earlier:
+
+"But at some point, again, it implodes on you, and all of a sudden you see yourself as everything. Everything is you, and you are everything and/or nothing. And so the sense of self becomes universal." -- Joe Hudson, How To Measure Your Progress In Personal Development & Transformation
+
+The "and/or nothing" phrasing matters. The implosion does not produce a fixed positive identity ("I am everything"). It produces a state in which everything-and-nothing become indistinguishable as descriptors of the self. The structure of having an identity that is some particular thing rather than other things has loosened to the point where the question stops applying.
+
+This expansion of self is one of the two head-level markers of transformation in [[measuring-transformation-across-three-brains]]. The parallel marker is the expansion of [[sense-of-time-expansion]], which moves on the same arc and undergoes the same implosion into the present.
 
 ## Awakening as Identity Shift
 
@@ -116,3 +134,4 @@ Eventually, collaboration becomes natural because [[selfishness-is-the-engine-of
 - 2022-10-26_When The Story Falls Apart (rebroadcast of the 2022-05-27 conversation)
 - 2023-01-08_Q&A -- Expressing 'Anger At', Playing with Depression, & More
 - 2023-03-31_8 Seconds of Oneness — Joe Hudson's Story (Part II) (the many-paths principle: lots of ways to dissolve the self; the relational form of the practice and why "you can't fool yourself" in a relationship; the report that VIEW feels like meditating in a conversation; the implicit teaching method woven through all of Joe's work)
+- 2024-02-26_How To Measure Your Progress In Personal Development & Transformation (the explicit stage sequence me → family → community → tribe → nation → humanity → ecosystem → everything; the take-care-of-yourself-as-the-boundary-of-self diagnostic; the implosion phrasing "everything is you, and you are everything and/or nothing"; the framing of this expansion as the head-level marker of transformation alongside the parallel expansion of sense of time)

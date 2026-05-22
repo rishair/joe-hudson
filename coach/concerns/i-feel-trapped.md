@@ -93,9 +93,18 @@ The trapped stance is not just a misperception. It is an active organization of 
 - [[i-have-to-sacrifice-to-succeed]]: the "trapped" stance applied to success.
 - [[i-freeze-around-authority]]: the "trapped" stance localized to specific authority figures, almost always a transferred parental pattern.
 
+## When Obligation Is the Cage
+
+A specific form of this concern: the person feels trapped inside a relationship, marriage, or role they cannot leave because of obligation. The obligation is often disguised as love ("I have to stay because I love them") but functions as the bars of the cage. This is the [[conditional-clauses-of-heart-closure]] producing the trappedness it was supposed to prevent.
+
+The diagnostic question: if you let yourself love this person without obligation, would the trappedness change? Usually yes — the trappedness was produced by the obligation, not by the love. The path through is [[obligation-cuts-off-love]]: notice that obligation is not love and is in fact what is keeping you stuck. The exit is [[say-no-to-find-the-want]] and [[i-get-to-vs-i-have-to]].
+
+The shape this often takes: a long marriage where both partners have organized around mutual obligation, walking on eggshells, performing care, and slowly losing the love. See [[walking-on-eggshells]] and [[the-built-up-resentment-story]]. The trap is real but it is self-constructed and self-maintained. The structure could change.
+
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2022-10-26_Empower Over Power
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2024-03-01_Love and Obligation (the obligation-as-cage diagnostic)

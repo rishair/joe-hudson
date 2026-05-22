@@ -4,7 +4,7 @@ id: embracing-intensity-as-leading-indicator
 title: "Willingness to Embrace Intensity Is the Leading Indicator of Transformation"
 aliases: ["embrace intensity as leading indicator", "leading indicator of transformation", "predicting transformation", "how to measure transformation", "transformation predictor", "willingness to feel as predictor"]
 tags: ["transformation", "measurement", "leading indicator", "principle"]
-related: ["embrace-intensity", "feeling-the-unfelt-emotion", "epiphany-vs-transformation", "embrace-vs-brace", "are-you-bracing-or-embracing", "public-truth-bomb"]
+related: ["embrace-intensity", "feeling-the-unfelt-emotion", "epiphany-vs-transformation", "embrace-vs-brace", "are-you-bracing-or-embracing", "public-truth-bomb", "measuring-transformation-across-three-brains"]
 sources: ["2021-10-08_Embracing Intensity - Emotion Series #2", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Embracing Intensity"]
 ---
 
@@ -31,6 +31,8 @@ Most people watch lagging indicators of transformation: changed behavior, better
 The leading indicator appears earlier. You can see willingness to embrace intensity in a single conversation, in the first ten minutes of meeting someone, in their response to a difficult question. The willingness predicts the lagging indicators that will follow.
 
 This matters for anyone trying to assess where to invest coaching, attention, or hope. A person with willingness is going to move. A person without it is not, regardless of how good their other resources are.
+
+The specific lagging indicators Joe maps out — emotional fluidity, expansion of self and time, pleasure capacity, each one keyed to one of the three brains — are described in [[measuring-transformation-across-three-brains]]. The willingness principle here is what predicts that those markers will move. The two measurements answer different questions: this principle answers "is this person about to change?" and the three-brain measurement answers "how far has this person come?"
 
 ## How to Detect Willingness
 

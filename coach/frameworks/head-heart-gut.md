@@ -4,7 +4,7 @@ id: head-heart-gut
 title: "Head, Heart, Gut"
 aliases: ["three intelligences", "head heart gut", "speaking from your head", "speaking from your heart", "speaking from your gut", "listening from head heart gut", "three ways of knowing", "the three centers", "head heart body", "speaking from different intelligences", "three pointers"]
 tags: ["body", "intelligence", "ways of knowing", "framework", "intuition"]
-related: ["staying-in-your-body", "feel-over-figure", "decisions-are-emotional", "body-lies-as-much-as-mind", "wonder", "view", "anxiety-three-definitions", "athletes-unlocking-body-intelligence-in-business"]
+related: ["staying-in-your-body", "feel-over-figure", "decisions-are-emotional", "body-lies-as-much-as-mind", "wonder", "view", "anxiety-three-definitions", "athletes-unlocking-body-intelligence-in-business", "measuring-transformation-across-three-brains", "the-work-as-three-levels-of-change"]
 sources: ["2022-01-07_How Your Body Speaks", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Embarking On The Journey", "2022-10-26_How Your Body Speaks"]
 ---
 
@@ -129,6 +129,8 @@ The cultivated intelligence is the on-ramp. From there, the other intelligences 
 - Toward [[decisions-are-emotional]] for the neuroscience grounding of why all three intelligences are required.
 - Toward [[body-lies-as-much-as-mind]] when a person has elevated the body to absolute truth.
 - Toward [[wonder]] when listening from the heart and gut is being cultivated.
+- Toward [[measuring-transformation-across-three-brains]] when the framework is applied as a map for tracking developmental progress on each layer (sense-of-self/sense-of-time on the head, emotional fluidity on the heart, pleasure capacity on the gut).
+- Toward [[the-work-as-three-levels-of-change]] when the framework is applied to *changing* a system rather than reading one.
 
 ## Sources
 

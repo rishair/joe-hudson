@@ -2,10 +2,10 @@
 type: principle
 id: capacity-to-love-other-is-capacity-to-love-self
 title: "Your Capacity to Love Others Equals Your Capacity to Love Yourself"
-aliases: ["capacity to love is capacity to love self", "you can only love others as much as you love yourself", "self-love is the prerequisite", "loving yourself is loving others", "self-acceptance enables love of other", "the capacity equation", "loving others requires loving self", "no self-love no love of other", "love yourself to love them", "self-love is upstream of love"]
+aliases: ["capacity to love is capacity to love self", "you can only love others as much as you love yourself", "self-love is the prerequisite", "loving yourself is loving others", "self-acceptance enables love of other", "the capacity equation", "loving others requires loving self", "no self-love no love of other", "love yourself to love them", "self-love is upstream of love", "the reflection inside is the reflection outside", "cutting off love internally cuts off love externally", "the same move done to yourself is done to others", "the mirror move of cutting off love"]
 tags: ["principle", "love", "self-love", "relationships", "capacity", "acceptance"]
-related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization"]
-sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment"]
+related: ["loving-all-parts", "love-as-deep-welcoming", "what-you-cant-love-in-partner-is-what-you-cant-love-in-self", "what-is-truly-compassionate", "walking-on-eggshells", "dont-take-responsibility-for-anothers-happiness", "love-requires-empowerment", "self-realization", "responsibility-stops-love"]
+sources: ["2022-09-30_Triggered", "2024-02-12_Welcome To The Art Of Accomplishment", "2024-03-01_What Blocks Your Love？"]
 ---
 
 # Your Capacity to Love Others Equals Your Capacity to Love Yourself
@@ -43,6 +43,18 @@ The strategy "I will work harder at being loving to my partner" usually fails fo
 The more effective move is counterintuitive: work on accepting and loving the parts of yourself that you have been at war with. The capacity to love the partner expands as a byproduct.
 
 This is also why the [[walking-on-eggshells]] strategy fails. The person trying to suppress themselves to be a better partner is reducing their self-acceptance, which reduces their capacity to love. The strategy that looks like love actively destroys love.
+
+## The Reflection Inside Is the Reflection Outside
+
+There is a specific operational form of this principle that surfaces in coaching: the exact move you make on yourself is the move you make on your partner. The two are not analogous — they are the same move performed in two directions.
+
+In one transcript, a man describes cutting off love for his wife to take responsibility for her. He then describes her response: accommodation, walking on eggshells, not confronting. Joe then names what he is doing inside himself with the internal critical voice: the voice says "you should be doing more," he stops loving himself to take responsibility for himself, and his response to the voice is the same — accommodation, walking on eggshells, paying attention to that voice more than the others.
+
+"All that's happening is you're stopping loving yourself to take responsibility for yourself, and then you start accommodating. Same thing that happened with her. You stopped loving her to take responsibility for her, and then she started accommodating. The reflection inside, the reflection outside, it's the same." -- Joe Hudson, What Blocks Your Love?
+
+The structural observation: the response to the cessation of love is identical whether the cessation is happening to a partner or to a part of the self. If your partner accommodates and walks on eggshells, that is what your internal parts are doing in response to your internal critic. The dynamics are isomorphic.
+
+This makes the principle more than a capacity equation. It is also a recognition pattern: if you want to see what you are doing inside, look at what is happening outside. The relationship is a live readout of the inner state. See [[responsibility-stops-love]] for the mechanism behind the cessation.
 
 ## Alexa's Reflection in the Transcript
 
