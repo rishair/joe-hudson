@@ -4,7 +4,7 @@ id: amplify-the-feeling-until-it-breaks-open
 title: "Amplify the Feeling Until It Breaks Open (Go More Stuck, Go So Stuck You Can't Talk)"
 aliases: ["amplify the feeling until it breaks open", "increase the feeling", "go more stuck", "feel it more", "increase the feeling of X", "the amplification move", "I want you to feel more stuck", "go so stuck you can't talk", "go even more stuck", "amplify the felt sense", "deliberately intensify the feeling", "go further into the feeling", "feel it bigger", "let the feeling get bigger", "the more-of-it move", "the amplification instruction", "the deliberate intensification move", "go all the way in to find the exit", "the going-deeper-into-the-feeling move", "the maximizing move", "feel it to its full intensity", "the do-it-more move for feelings"]
 tags: ["live coaching", "amplification", "paradoxical", "feeling", "stuckness", "embodied", "intensification"]
-sources: ["2024-03-18_I Am Scared Of The Unknown"]
+sources: ["2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
 ---
 
 # Amplify the Feeling Until It Breaks Open
@@ -58,6 +58,20 @@ The person enters and discovers that the catastrophic image isn't what they expe
 Joe then names the structural fact: "That's how it works. The avoidance of the hole is the stuckness. The abyss." See [[peace-is-what-we-resist-the-most]]. The naming gives the person the structural map so the experience can be returned to outside the session.
 
 If the amplification produces an emotional release rather than a catastrophic image (the person weeps, shakes, laughs, sobs), Joe stays quiet and lets the feeling move. The move was the on-ramp; the moving feeling is the work. Words pull the person back out of the felt material.
+
+## The Commentary on the Layered Surfacing
+
+In the post-session commentary, Joe describes what the escalation is doing structurally. The successive reports — wanting to get out, exploding, helpless, black-hole — are not separate feelings. They are the same material being revealed in layers as the resistance drops.
+
+"A feeling resisted shows up as a different feeling. Like, resisted anger feels very different than embraced anger. And so this is what's like, in her particular case, what stuckness feels like if you are not trying to get unstuck. Like, this is the thing that's really at the bottom of this particular pattern. But there's no bottom exactly, but the next level down." — Joe Hudson, How Do I Get Unstuck? (Coaching Commentary)
+
+The "no bottom exactly, but the next level down" frame is operationally important for the coach. The escalation is not aimed at finding the ultimate emotion. It is aimed at letting each layer become available, one at a time, as the resistance to it dissolves. Each layer is what the previous layer was hiding when held at a distance.
+
+This also clarifies what the coach is listening for between escalations. The shift from "I'm going to explode" to "I feel helpless" is the diagnostic that a layer has dropped — the person has moved from a future-tense catastrophic prediction ("going to explode") to a present-tense felt-state ("I feel helpless"). The grammar of the report tells the coach when the next instruction is ready to be given.
+
+Brett's observation in the commentary names this distinction directly: "Earlier she was describing the feelings in terms of what it feels like is going to happen. Like, she just right there transferred from 'feels like I'm going to explode' to 'it feels like helplessness.'" The transfer from prediction to present-tense felt-state is the marker of the resistance dropping.
+
+The principle [[resisted-vs-unresisted-everything-shows-up-different]] is the underlying mechanism. The same emotion presents differently depending on whether it is being met with resistance. The amplification move uses this principle directly: by asking for more of the feeling, the coach removes one layer of resistance at a time, and the feeling becomes its actual self instead of its resisted form.
 
 ## Why It Works
 
@@ -121,3 +135,4 @@ The tone shifts when the catastrophic image arrives. The voice drops. "Go in, go
 ## Sources
 
 - 2024-03-18_I Am Scared Of The Unknown (the canonical use of the move; the full arc from the initial amplification instruction through the body's resistance to the deeper feelings to the catastrophic image to the entry move; the structural naming afterward of "the avoidance of the hole is the stuckness")
+- 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — Joe's reflective commentary on the same arc, including the structural frame that each layer is the previous layer's actual form once resistance drops ("a feeling resisted shows up as a different feeling"); the "no bottom exactly, but the next level down" frame for how to think about the layered surfacing; Brett's observation about the grammar shift from "feels like I'm going to" (prediction) to "it feels like" (present-tense felt-state) as the diagnostic that a layer has dropped

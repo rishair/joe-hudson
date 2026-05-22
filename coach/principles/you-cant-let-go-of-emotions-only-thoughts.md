@@ -4,8 +4,8 @@ id: you-cant-let-go-of-emotions-only-thoughts
 title: "You Can't Let Go of an Emotion. You Can Let Go of a Thought."
 aliases: ["you can't let go of an emotion", "letting go of emotions is impossible", "emotion is like breath", "you don't get to choose what emotion you're having", "you can't let go of sadness", "you can't let go of anger", "what you can let go of is the thought", "thought change shifts emotion", "let-go misconception", "the let-it-go fallacy", "you can't just let go", "letting go applies to thoughts not emotions", "emotion is always happening", "you can't stop an emotion you can change a thought"]
 tags: ["emotions", "thoughts", "letting go", "principle", "distinction"]
-related: ["emotional-fluidity", "kinked-emotions", "feeling-the-unfelt-emotion", "letting-go-vs-doing-nothing", "you-dont-control-emotions-they-dont-control-you", "logic-vs-emotional-movement", "stronger-story-stuckier-emotion", "feel-over-figure"]
-sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13"]
+related: ["emotional-fluidity", "kinked-emotions", "feeling-the-unfelt-emotion", "letting-go-vs-doing-nothing", "you-dont-control-emotions-they-dont-control-you", "logic-vs-emotional-movement", "stronger-story-stuckier-emotion", "feel-over-figure", "four-tactical-ways-to-feel-your-emotions"]
+sources: ["2023-10-27_Emotional Fluidity - Emotion Series #13", "2024-06-28_4 Ways To Feel Your Emotions"]
 ---
 
 # You Can't Let Go of an Emotion. You Can Let Go of a Thought.
@@ -23,6 +23,12 @@ The reverse is also true. When you fully feel an emotion, the thought that was a
 Emotion is constantly happening. There is no moment in which a person is not having an emotional experience, in the same way that there is no waking moment in which they are not breathing. Asking someone to let go of their emotion is asking them to let go of something that is always currently occurring.
 
 "Emotion is like breath. You're always having an experience of one. And you don't get to choose what it is. So you can't let go of an emotion. You can let go of a thought that changes your emotional experience." -- Joe Hudson, Emotional Fluidity
+
+The same principle stated in the public-facing video, as the setup for the four-tactical-ways framework. The framing here serves a different audience -- the beginner who has not yet accepted that there is always something to feel:
+
+"There is no time when you're awake when a feeling isn't happening. You might not note it, you might not register it, but there is always an emotional sensation happening in your body at all times." -- Joe Hudson, 4 Ways To Feel Your Emotions
+
+The "you might not note it" qualifier addresses the most common objection: "I don't feel anything." The principle does not say the person is currently in touch with their feeling; it says the feeling is currently happening regardless of whether they have access to it. This reframe is what makes the framework's first tactical way ("recognize the emotion when it is happening") sensible. The emotion does not need to be summoned. It needs to be detected.
 
 The implication: any practice or instruction framed as "let go of the anger / fear / sadness" is mislocating the work. The work is upstream (a thought that holds the emotion in place) or downstream (allowing the emotion to move). It is not on the emotion itself.
 
@@ -92,3 +98,4 @@ Plain and clarifying. The point is to dissolve a confusion that produces real ha
 ## Sources
 
 - 2023-10-27_Emotional Fluidity - Emotion Series #13 (the explicit "you can't let go of an emotion, you can let go of a thought" formulation; the emotion-as-breath analogy; the two-direction symmetry between thought-changes-emotion-shifts and emotion-moves-thought-changes; Joe's direct "yeah, no, you didn't" correction when Brett offers the common let-go framing)
+- 2024-06-28_4 Ways To Feel Your Emotions (the public-facing video setup for the four-tactical-ways framework that asserts the same always-an-emotion-happening principle for a beginner audience; the "you might not note it, you might not register it" qualifier that addresses the most common objection from a person who reports no felt access; positioning the principle as the foundation that makes "recognize the emotion when it is happening" sensible as a tactical instruction)

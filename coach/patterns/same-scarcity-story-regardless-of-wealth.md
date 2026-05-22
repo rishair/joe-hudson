@@ -56,6 +56,14 @@ The practice that opened the recognition for Joe was a daily gratitude practice:
 
 Within about six months of starting the daily practice, the perceptual shift had taken hold. The "billionaire" recognition emerged from within this same period of trained attention. The practice did not directly produce the recognition; it produced the conditions under which the mind could see what it had not been able to see before. See [[gratitude-around-the-problem]] for the targeted form of this practice.
 
+## The $40k-to-$60k Time Frame
+
+The canonical numerical version of how fast the perceptual shift can produce material results: Joe went from $40,000 in debt to $60,000 in the bank in under eight months. He attributes the financial swing not to a new strategy but to the change in self-definition the gratitude practice produced. The debt was being accumulated during the meditation period; the savings appeared once the scan switched from absence to presence.
+
+"I went from $40,000 in debt to $60,000 in the bank in under 8 months simply because I had changed my idea of myself from somebody who doesn't have enough to somebody who feels so grateful and lucky for everything that they do have." -- Joe Hudson, 3 Reasons You Can't Build Wealth
+
+The framing matters more than the dollar amount. The shift is being named as a shift in self-definition, not as a shift in income or expenses. The income changed because the self-definition changed. See [[wealth-identity-shift]] for the principle that organizes this.
+
 ## In Coaching
 
 When a person describes a milestone that will end their scarcity, the question to test is: at the previous milestone, did the scarcity end? Usually the answer reveals the pattern. The person realizes they have made this prediction before and it did not come true.
@@ -91,3 +99,4 @@ Within roughly six to eight months of starting the gratitude practice, Joe was c
 - 2023-07-07_Much Ado About Money (the daily gratitude practice mechanism, the 6-month time frame, the jungle of money perception, the "I'm a fucking billionaire" framing)
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
 - 2023-11-24_What We're Afraid to Lose (the wealth-anxiety form: the same scarcity-story-substance running both pre-acquisition and post-acquisition, with the surface complaint changing but the underlying contingency-of-okayness unchanged)
+- 2024-06-19_3 Reasons You Can't Build Wealth (the canonical $40k-debt-to-$60k-in-bank-in-eight-months numerical framing, with the gratitude-with-Tara practice as the named mechanism and the identity shift from "doesn't have enough" to "grateful for everything they do have" as the named cause)

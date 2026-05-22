@@ -1,6 +1,7 @@
 {
   "say-the-forbidden-want-out-loud": [
     "am-i-being-selfish",
+    "how-do-i-create-wealth-and-financial-stability",
     "money-is-bad",
     "anxiety-when-confronting-what-you-want",
     "any-amount-answer-as-total-installation",
@@ -8,14 +9,17 @@
     "money-as-surrogate",
     "apologize-to-the-projected-object",
     "binary-that-forces-the-avoidance-into-view",
+    "feel-it-as-the-sun",
     "find-the-want-behind-the-should",
     "have-them-say-i-want-all-of-me-loved",
     "mirror-to-group-then-substitute-i-for-you",
+    "surface-the-rejection-then-demand-its-evidence",
     "swap-roles-with-the-younger-self",
     "wanting-got-wired-to-unlovability"
   ],
   "money-as-surrogate": [
     "am-i-being-selfish",
+    "how-do-i-create-wealth-and-financial-stability",
     "i-have-to-X-to-be-free",
     "i-need-a-scorecard",
     "if-i-had-more-money",
@@ -25,6 +29,7 @@
     "scorecard-keeping-as-identity-structure",
     "what-are-you-trying-to-control-for",
     "coaching-as-surrogate-intimacy",
+    "money-as-paint",
     "money-as-surrogate",
     "money-is-impersonal",
     "childhood-imprinting",
@@ -32,6 +37,7 @@
     "apologize-to-the-projected-object",
     "extend-the-no-asshole-rule-inward",
     "say-the-forbidden-want-out-loud",
+    "surface-the-rejection-then-demand-its-evidence",
     "swap-roles-with-the-younger-self",
     "external-freedom-vs-internal-freedom",
     "resources-vs-resourcefulness",
@@ -40,6 +46,7 @@
     "integrity-as-money-compass",
     "material-problems-are-emotional-problems",
     "money-relationship-is-an-energetic-exchange",
+    "wealth-identity-shift",
     "what-we-fear-we-invite",
     "doug-hug-the-demon-financial-safety",
     "joes-pleasing-dad-money-story",
@@ -126,6 +133,7 @@
     "i-exist-affirmation-against-collapse",
     "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
+    "four-tactical-ways-to-feel-your-emotions",
     "stages-of-emotional-development",
     "ali-abdaal-coaching-session",
     "joes-abandonment-mapping",
@@ -355,6 +363,7 @@
     "limiting-belief-meta-trap",
     "burnout-cycle",
     "depression-four-levels",
+    "money-as-paint",
     "obligation-as-management",
     "should-as-threat",
     "the-want",
@@ -607,7 +616,8 @@
     "emotions-live-in-muscles",
     "four-hour-emotional-repression-experiment",
     "open-your-heart-while-judging-experiment",
-    "5-ways-to-stay-unhappy"
+    "5-ways-to-stay-unhappy",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "see-whats-right-to-build-on-it": [
     "how-do-i-be-happy",
@@ -709,13 +719,19 @@
     "how-do-i-be-happy",
     "im-not-living-up-to-my-potential",
     "anxiety-when-confronting-what-you-want",
+    "the-smile-of-recognition",
     "treating-felt-state-as-factual-reality",
     "treating-it-as-a-decision-when-its-an-emotion",
     "anger",
+    "familiar-over-safe",
     "three-forms-of-anger-repression",
     "amplify-the-feeling-until-it-breaks-open",
     "be-intimate-with-the-feeling",
+    "its-a-human-thing-redirect",
     "lets-go-there",
+    "talk-to-the-part-that-knows",
+    "dont-believe-the-stories-you-tell-yourself",
+    "emotional-movement-unsticks-stuckness",
     "peace-is-what-we-resist-the-most",
     "what-were-avoiding-is-usually-love",
     "5-ways-to-stay-unhappy"
@@ -745,6 +761,124 @@
     "compass-not-map",
     "caring-what-others-think-is-the-burnout-engine",
     "only-your-own-judgment-matters"
+  ],
+  "money-is-bad": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "if-i-had-more-money",
+    "any-amount-answer-as-total-installation",
+    "money-as-surrogate",
+    "money-is-impersonal",
+    "feel-it-as-the-sun",
+    "say-the-forbidden-want-out-loud",
+    "surface-the-rejection-then-demand-its-evidence",
+    "expensive-to-be-poor",
+    "money-domain"
+  ],
+  "if-i-had-more-money": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "i-need-a-scorecard",
+    "whats-next-after-i-reached-my-big-goal",
+    "nostalgic-claw-for-old-identity",
+    "money-as-surrogate",
+    "money-is-impersonal",
+    "poverty-mentality",
+    "same-scarcity-story-regardless-of-wealth",
+    "extend-the-no-asshole-rule-inward",
+    "feel-it-as-the-sun",
+    "say-the-forbidden-want-out-loud",
+    "swap-roles-with-the-younger-self",
+    "resources-vs-resourcefulness",
+    "constraints-increase-creativity",
+    "expensive-to-be-poor",
+    "material-problems-are-emotional-problems",
+    "wealth-identity-shift",
+    "money-domain"
+  ],
+  "money-as-surrogate|surrogate": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "i-need-a-scorecard"
+  ],
+  "surface-the-rejection-then-demand-its-evidence": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "money-is-bad",
+    "feel-it-as-the-sun",
+    "trace-emotion-to-its-first-felt"
+  ],
+  "calibrate-the-threshold": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "im-afraid-of-offending-people",
+    "im-fake-my-love-is-corrupt",
+    "any-amount-answer-as-total-installation",
+    "press-the-button-thought-experiment",
+    "surface-the-rejection-then-demand-its-evidence",
+    "whats-wrong-with-the-thing-theyre-judging",
+    "am-i-a-fake-coaching-session"
+  ],
+  "trace-emotion-to-its-first-felt": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "i-cant-feel-my-emotions",
+    "whats-next-after-i-reached-my-big-goal",
+    "i-cant-trust-my-thoughts-right-now",
+    "idea-of-self-vs-actual-self",
+    "identity",
+    "love-misconceptions-inherited-from-childhood",
+    "money-as-surrogate",
+    "money-is-impersonal",
+    "reclaiming-abandonment",
+    "trappedness-feeling",
+    "trauma-mapping",
+    "childhood-imprinting",
+    "three-childhood-origins-of-anger-repression",
+    "feel-it-as-the-sun",
+    "reframe-boss-as-customer",
+    "surface-the-rejection-then-demand-its-evidence",
+    "identity-changes-on-three-levels",
+    "triggers-reduce-when-you-know-you-can-leave",
+    "anxiety-as-unarticulated-need",
+    "fake-the-anger-to-let-it-move",
+    "hold-the-memory-of-when-you-felt-it-most",
+    "i-exist-affirmation-against-collapse",
+    "let-your-body-shake-it-out",
+    "love-yourself-the-way-you-always-wanted",
+    "prepare-and-release-the-difficult-conversation",
+    "three-questions-on-the-pattern",
+    "toggle-between-opposite-emotions-then-hold-both",
+    "view-around-self-as-identity-diagnostic",
+    "ali-abdaal-coaching-session",
+    "joes-pleasing-dad-money-story",
+    "welcoming-fear-in-leadership"
+  ],
+  "feel-it-as-the-sun": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "money-is-bad",
+    "money-is-impersonal",
+    "surface-the-rejection-then-demand-its-evidence",
+    "trace-emotion-to-its-first-felt"
+  ],
+  "money-is-impersonal": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "if-i-had-more-money",
+    "money-is-bad",
+    "money-as-paint",
+    "money-as-surrogate",
+    "apologize-to-the-projected-object",
+    "feel-it-as-the-sun",
+    "happy-money-game",
+    "expensive-to-be-poor",
+    "hardening-means-personal",
+    "integrity-as-money-compass",
+    "money-must-flow",
+    "money-relationship-is-an-energetic-exchange",
+    "the-pattern-is-not-personal",
+    "patient-on-the-table",
+    "spend-time-across-class-boundaries",
+    "money-domain"
+  ],
+  "money-as-paint": [
+    "how-do-i-create-wealth-and-financial-stability",
+    "feel-it-as-the-sun",
+    "wealth-identity-shift",
+    "money-domain"
   ],
   "contain-the-narcissist": [
     "how-do-i-deal-with-narcissistic-parent",
@@ -845,6 +979,7 @@
     "just-be-yourself-and-see-what-happens",
     "lets-go-there",
     "swap-roles-with-the-younger-self",
+    "emotional-movement-unsticks-stuckness",
     "if-you-think-youre-deciding-youre-in-fear",
     "surrender-the-outcome-of-a-decision",
     "the-emotional-experience-decides-the-channel",
@@ -1031,6 +1166,7 @@
     "resistance",
     "running-toward-yourself",
     "the-matrix",
+    "the-natural-integration-arc-after-breakthrough",
     "amplify-the-feeling-until-it-breaks-open",
     "lets-go-there",
     "wanting-vs-craving",
@@ -1225,6 +1361,7 @@
     "religious-identity-around-pain",
     "amplify-the-feeling-until-it-breaks-open",
     "avoid-the-decision-by-design",
+    "awareness-of-pattern-is-halfway-through",
     "discipline-starts-engine-then-let-gravity",
     "embracing-changes-unconscious-decisions",
     "find-a-healthy-replacement",
@@ -1340,6 +1477,7 @@
     "the-happiness-filter",
     "the-pulled-back-from-part-is-the-unloveable-part",
     "the-rush-signature",
+    "the-smile-of-recognition",
     "trying-to-get-rid-of-the-emotion",
     "anger",
     "depression-four-levels",
@@ -1347,6 +1485,10 @@
     "can-you-hang-out-with-it",
     "extend-the-no-asshole-rule-inward",
     "find-the-emotion-under-self-judgment",
+    "its-a-human-thing-redirect",
+    "talk-to-the-part-that-knows",
+    "awareness-of-pattern-is-halfway-through",
+    "dont-believe-the-stories-you-tell-yourself",
     "peace-is-what-we-resist-the-most",
     "punishing-the-remembering"
   ],
@@ -1391,9 +1533,11 @@
     "criticism-posture-vs-shame-posture",
     "intellectual-process-with-no-somatic-component",
     "mark-it-and-return-later",
+    "emotions-live-in-muscles",
     "you-dont-always-need-the-backstory",
     "noticing-the-matrix-pattern",
     "toggle-between-opposite-emotions-then-hold-both",
+    "four-tactical-ways-to-feel-your-emotions",
     "ali-abdaal-coaching-session",
     "doug-hug-the-demon-financial-safety"
   ],
@@ -1414,35 +1558,6 @@
     "inner-critic-prevents-rest-and-integration",
     "compassion-as-of-the-guts",
     "ali-abdaal-coaching-session"
-  ],
-  "trace-emotion-to-its-first-felt": [
-    "i-cant-feel-my-emotions",
-    "whats-next-after-i-reached-my-big-goal",
-    "i-cant-trust-my-thoughts-right-now",
-    "idea-of-self-vs-actual-self",
-    "identity",
-    "love-misconceptions-inherited-from-childhood",
-    "reclaiming-abandonment",
-    "trappedness-feeling",
-    "trauma-mapping",
-    "childhood-imprinting",
-    "three-childhood-origins-of-anger-repression",
-    "reframe-boss-as-customer",
-    "identity-changes-on-three-levels",
-    "triggers-reduce-when-you-know-you-can-leave",
-    "anxiety-as-unarticulated-need",
-    "fake-the-anger-to-let-it-move",
-    "hold-the-memory-of-when-you-felt-it-most",
-    "i-exist-affirmation-against-collapse",
-    "let-your-body-shake-it-out",
-    "love-yourself-the-way-you-always-wanted",
-    "prepare-and-release-the-difficult-conversation",
-    "three-questions-on-the-pattern",
-    "toggle-between-opposite-emotions-then-hold-both",
-    "view-around-self-as-identity-diagnostic",
-    "ali-abdaal-coaching-session",
-    "joes-pleasing-dad-money-story",
-    "welcoming-fear-in-leadership"
   ],
   "toggle-between-opposite-emotions-then-hold-both": [
     "i-cant-feel-my-emotions",
@@ -1487,6 +1602,38 @@
     "conversation-as-microcosm-of-relationship",
     "ali-abdaal-coaching-session"
   ],
+  "four-tactical-ways-to-feel-your-emotions": [
+    "i-cant-feel-my-emotions",
+    "overwhelm",
+    "decisions-are-emotional",
+    "emotions-live-in-muscles"
+  ],
+  "binary-thinking-signals-fear": [
+    "i-cant-feel-my-emotions",
+    "i-keep-running-into-the-same-wall",
+    "fight-or-roll-over-binary",
+    "cult-of-one",
+    "fear-in-body-vs-fear-in-head",
+    "limiting-belief",
+    "power-dynamics-as-two-defenders",
+    "trappedness-feeling",
+    "untruth-in-every-thought",
+    "limiting-belief-detection-signals",
+    "three-reasons-we-dont-see-limiting-beliefs",
+    "three-signals-of-unfelt-emotion",
+    "us-vs-them-as-universal-manipulation-pattern",
+    "apply-view-to-fear",
+    "feel-over-figure",
+    "over-control-vs-hands-off-oscillation",
+    "constriction-not-truth-is-the-test",
+    "decisions-are-emotional",
+    "empathy-makes-you-better-at-hard-jobs",
+    "if-you-think-youre-deciding-youre-in-fear",
+    "voice-creates-what-it-fears",
+    "do-the-next-most-obvious-thing",
+    "four-tactical-ways-to-feel-your-emotions",
+    "three-kinds-of-limiting-beliefs"
+  ],
   "im-not-an-anxious-person": [
     "i-cant-feel-my-emotions",
     "we-never-fight",
@@ -1504,7 +1651,11 @@
     "welcoming-fear-in-leadership"
   ],
   "i-keep-doing-things-i-dont-want-to-do": [
-    "i-cant-feel-my-emotions"
+    "i-cant-feel-my-emotions",
+    "the-smile-of-recognition",
+    "talk-to-the-part-that-knows",
+    "awareness-of-pattern-is-halfway-through",
+    "dont-believe-the-stories-you-tell-yourself"
   ],
   "whats-next-after-i-reached-my-big-goal": [
     "i-cant-feel-my-emotions",
@@ -1711,6 +1862,7 @@
     "grief-as-identity-dismantling",
     "story",
     "dont-buy-the-story-validate-the-emotion",
+    "dont-believe-the-stories-you-tell-yourself",
     "emotion-can-move-without-a-story",
     "feeling-changes-story",
     "you-cant-let-go-of-emotions-only-thoughts"
@@ -1720,6 +1872,7 @@
     "someone-i-love-has-mental-health-issues",
     "whats-next-after-i-reached-my-big-goal",
     "scorecard-keeping-as-identity-structure",
+    "familiar-over-safe",
     "fully-feeling-restructures-the-self",
     "grief-as-gateway-to-self-love",
     "grief-is-many-emotions-not-just-sadness",
@@ -1728,6 +1881,7 @@
     "parenting-as-deep-tissue-massage",
     "disorienting-middle-of-self-inquiry",
     "the-attack-and-cling-test-of-real-community",
+    "the-natural-integration-arc-after-breakthrough",
     "death-is-not-the-end-of-the-relationship",
     "feared-stories-about-emotions-sense-something-real",
     "grieve-the-marriage-to-save-it",
@@ -1759,6 +1913,7 @@
     "dont-shame-your-grief-process",
     "grief-as-identity-dismantling",
     "helplessness-distinguishes-death-grief",
+    "the-natural-integration-arc-after-breakthrough",
     "death-is-not-the-end-of-the-relationship",
     "exhaustion-is-unexpressed-anger",
     "without-grief-we-recreate-the-pattern",
@@ -2201,6 +2356,7 @@
   "business-as-spiritual-practice": [
     "i-dont-have-time-for-this",
     "i-have-to-sacrifice-to-succeed",
+    "money-as-paint",
     "parenting-as-real-world-test-of-inner-work",
     "coaches-foundation-self-awareness",
     "embrace-intensity",
@@ -2396,6 +2552,7 @@
   "what-were-avoiding-is-usually-love": [
     "i-feel-stuck",
     "heart-in-a-box-want-to-drink",
+    "the-natural-integration-arc-after-breakthrough",
     "be-intimate-with-the-feeling",
     "lets-go-there",
     "you-dont-control-love",
@@ -2405,33 +2562,61 @@
     "i-feel-stuck",
     "im-fake-my-love-is-corrupt",
     "im-not-living-up-to-my-potential",
-    "catch-i-feel-like-as-not-a-feeling"
+    "catch-i-feel-like-as-not-a-feeling",
+    "dont-believe-the-stories-you-tell-yourself",
+    "emotional-movement-unsticks-stuckness"
+  ],
+  "dont-believe-the-stories-you-tell-yourself": [
+    "i-feel-stuck",
+    "the-smile-of-recognition",
+    "treating-felt-state-as-factual-reality",
+    "talk-to-the-part-that-knows",
+    "awareness-of-pattern-is-halfway-through"
+  ],
+  "awareness-of-pattern-is-halfway-through": [
+    "i-feel-stuck",
+    "the-smile-of-recognition",
+    "treating-felt-state-as-factual-reality",
+    "the-natural-integration-arc-after-breakthrough",
+    "its-a-human-thing-redirect",
+    "talk-to-the-part-that-knows",
+    "dont-believe-the-stories-you-tell-yourself"
+  ],
+  "emotional-movement-unsticks-stuckness": [
+    "i-feel-stuck"
   ],
   "lets-go-there": [
     "i-feel-stuck",
     "i-have-all-my-eggs-in-one-basket",
     "whats-the-ultimate-thing-youre-running-from",
+    "the-natural-integration-arc-after-breakthrough",
     "amplify-the-feeling-until-it-breaks-open",
     "be-intimate-with-the-feeling",
     "can-you-hang-out-with-it",
     "strip-away-externals-thought-experiment",
     "what-does-your-heart-say",
     "intimate-with-vs-giving-in-to-feeling",
+    "emotional-movement-unsticks-stuckness",
     "peace-is-what-we-resist-the-most",
     "what-were-avoiding-is-usually-love",
     "you-dont-control-love"
   ],
   "amplify-the-feeling-until-it-breaks-open": [
     "i-feel-stuck",
+    "the-natural-integration-arc-after-breakthrough",
     "be-intimate-with-the-feeling",
     "compare-resisting-vs-not-resisting-the-feeling",
-    "lets-go-there"
+    "lets-go-there",
+    "emotional-movement-unsticks-stuckness",
+    "resisted-vs-unresisted-everything-shows-up-different"
   ],
   "be-intimate-with-the-feeling": [
     "i-feel-stuck",
+    "the-natural-integration-arc-after-breakthrough",
     "compare-resisting-vs-not-resisting-the-feeling",
     "lets-go-there",
     "intimate-with-vs-giving-in-to-feeling",
+    "emotional-movement-unsticks-stuckness",
     "what-were-avoiding-is-usually-love",
     "you-dont-control-love"
   ],
@@ -2441,6 +2626,22 @@
     "be-intimate-with-the-feeling",
     "intimate-with-vs-giving-in-to-feeling",
     "what-were-avoiding-is-usually-love"
+  ],
+  "its-a-human-thing-redirect": [
+    "i-feel-stuck",
+    "the-natural-integration-arc-after-breakthrough",
+    "talk-to-the-part-that-knows",
+    "awareness-of-pattern-is-halfway-through",
+    "punishing-the-remembering"
+  ],
+  "the-natural-integration-arc-after-breakthrough": [
+    "i-feel-stuck",
+    "the-smile-of-recognition",
+    "familiar-over-safe",
+    "its-a-human-thing-redirect",
+    "talk-to-the-part-that-knows",
+    "awareness-of-pattern-is-halfway-through",
+    "punishing-the-remembering"
   ],
   "i-have-to-X-to-be-free": [
     "i-feel-stuck",
@@ -3541,6 +3742,7 @@
     "visualizing-feared-outcomes",
     "what-was-wired-with-love-needs-untying",
     "whats-looking-out-behind-my-eyes",
+    "four-tactical-ways-to-feel-your-emotions",
     "stages-of-emotional-development",
     "three-kinds-of-limiting-beliefs",
     "electric-fence-with-dog",
@@ -3962,30 +4164,6 @@
     "apply-enjoy-to-whats-here",
     "say-yes-to-the-clients-experiment"
   ],
-  "binary-thinking-signals-fear": [
-    "i-keep-running-into-the-same-wall",
-    "fight-or-roll-over-binary",
-    "cult-of-one",
-    "fear-in-body-vs-fear-in-head",
-    "limiting-belief",
-    "power-dynamics-as-two-defenders",
-    "trappedness-feeling",
-    "untruth-in-every-thought",
-    "limiting-belief-detection-signals",
-    "three-reasons-we-dont-see-limiting-beliefs",
-    "three-signals-of-unfelt-emotion",
-    "us-vs-them-as-universal-manipulation-pattern",
-    "apply-view-to-fear",
-    "feel-over-figure",
-    "over-control-vs-hands-off-oscillation",
-    "constriction-not-truth-is-the-test",
-    "decisions-are-emotional",
-    "empathy-makes-you-better-at-hard-jobs",
-    "if-you-think-youre-deciding-youre-in-fear",
-    "voice-creates-what-it-fears",
-    "do-the-next-most-obvious-thing",
-    "three-kinds-of-limiting-beliefs"
-  ],
   "limiting-belief": [
     "i-keep-running-into-the-same-wall",
     "belief-integration-not-elimination",
@@ -4156,6 +4334,7 @@
   ],
   "obligation-as-management": [
     "i-make-money-only-when-i-hate-what-im-doing",
+    "money-as-paint",
     "say-no-to-find-the-want",
     "i-get-to-vs-i-have-to",
     "obligation-cuts-off-love",
@@ -4180,6 +4359,7 @@
     "im-fake-my-love-is-corrupt",
     "have-them-say-i-want-all-of-me-loved",
     "is-the-shame-in-the-room-or-in-you",
+    "its-a-human-thing-redirect",
     "skill-transfer-redirect",
     "wanting-got-wired-to-unlovability",
     "am-i-a-fake-coaching-session",
@@ -4239,11 +4419,9 @@
     "public-speaking-coach-money-session",
     "money-domain"
   ],
-  "money-as-surrogate|surrogate": [
-    "i-need-a-scorecard"
-  ],
   "identity": [
     "i-need-a-scorecard",
+    "familiar-over-safe",
     "grief-as-identity-dismantling",
     "humility",
     "idea-of-self-vs-actual-self",
@@ -4315,6 +4493,7 @@
     "ask-the-witnesses",
     "point-at-the-present-evidence",
     "knowing-yourself-is-the-only-safety",
+    "wealth-identity-shift",
     "brett-cape-town-napkins",
     "brett-slackline-metaphor"
   ],
@@ -4348,23 +4527,6 @@
     "compass-not-map",
     "craving-is-the-pushing-away",
     "if-you-think-youre-deciding-youre-in-fear"
-  ],
-  "if-i-had-more-money": [
-    "i-need-a-scorecard",
-    "whats-next-after-i-reached-my-big-goal",
-    "nostalgic-claw-for-old-identity",
-    "money-as-surrogate",
-    "money-is-impersonal",
-    "poverty-mentality",
-    "same-scarcity-story-regardless-of-wealth",
-    "extend-the-no-asshole-rule-inward",
-    "say-the-forbidden-want-out-loud",
-    "swap-roles-with-the-younger-self",
-    "resources-vs-resourcefulness",
-    "constraints-increase-creativity",
-    "expensive-to-be-poor",
-    "material-problems-are-emotional-problems",
-    "money-domain"
   ],
   "perfectionism": [
     "i-need-to-improve-myself",
@@ -4638,6 +4800,7 @@
     "mental-task-inflation",
     "external-freedom-vs-internal-freedom",
     "material-problems-are-emotional-problems",
+    "wealth-identity-shift",
     "whatever-you-think-you-need-to-be-lovable-is-self-rejection",
     "spend-time-across-class-boundaries",
     "money-domain"
@@ -4651,30 +4814,12 @@
     "michelangelo-sistine-chapel",
     "money-domain"
   ],
-  "money-is-bad": [
-    "if-i-had-more-money",
-    "any-amount-answer-as-total-installation",
-    "money-as-surrogate",
-    "money-is-impersonal",
-    "say-the-forbidden-want-out-loud",
-    "expensive-to-be-poor",
-    "money-domain"
-  ],
-  "money-is-impersonal": [
+  "how-do-i-create-wealth-and-financial-stability": [
     "if-i-had-more-money",
     "money-is-bad",
-    "money-as-surrogate",
-    "apologize-to-the-projected-object",
-    "happy-money-game",
-    "expensive-to-be-poor",
-    "hardening-means-personal",
-    "integrity-as-money-compass",
-    "money-must-flow",
-    "money-relationship-is-an-energetic-exchange",
-    "the-pattern-is-not-personal",
-    "patient-on-the-table",
-    "spend-time-across-class-boundaries",
-    "money-domain"
+    "feel-it-as-the-sun",
+    "surface-the-rejection-then-demand-its-evidence",
+    "trace-emotion-to-its-first-felt"
   ],
   "im-afraid-i-wont-get-anything-done": [
     "ill-become-lazy-without-shoulds",
@@ -4740,6 +4885,7 @@
     "same-defense-shows-up-in-marriage-and-team",
     "amplify-the-feeling-until-it-breaks-open",
     "can-you-hang-out-with-it",
+    "its-a-human-thing-redirect",
     "address-the-blocker-not-the-symptom",
     "five-triggers-projection-experiment",
     "the-change-or-no-change-visualization"
@@ -4764,6 +4910,8 @@
     "ask-the-witnesses",
     "let-your-body-remember-this-moment",
     "mark-it-and-return-later",
+    "talk-to-the-part-that-knows",
+    "dont-believe-the-stories-you-tell-yourself",
     "identity-lags-behind-growth",
     "do-i-stop-drinking-session"
   ],
@@ -4771,6 +4919,7 @@
     "im-afraid-ill-revert-to-my-old-pattern",
     "dont-use-measurement-to-beat-yourself-up",
     "extend-the-no-asshole-rule-inward",
+    "its-a-human-thing-redirect",
     "keep-asking-whats-the-problem-with-that",
     "the-arrogantly-humble-paradox",
     "self-judgment-protects-from-emotion"
@@ -4836,14 +4985,6 @@
     "push-past-the-protective-frame",
     "strip-away-externals-thought-experiment",
     "would-you-sell-your-ability-to-connect"
-  ],
-  "calibrate-the-threshold": [
-    "im-afraid-of-offending-people",
-    "im-fake-my-love-is-corrupt",
-    "any-amount-answer-as-total-installation",
-    "press-the-button-thought-experiment",
-    "whats-wrong-with-the-thing-theyre-judging",
-    "am-i-a-fake-coaching-session"
   ],
   "trigger-the-shame-live": [
     "im-afraid-of-offending-people",
@@ -5196,6 +5337,7 @@
     "apply-view-to-the-voice",
     "chase-it-around-the-room",
     "extend-the-no-asshole-rule-inward",
+    "its-a-human-thing-redirect",
     "swap-roles-with-the-younger-self",
     "symptoms-vs-root-causes-of-depression",
     "honor-the-patterns-intent",
@@ -5722,7 +5864,8 @@
     "meaning-of-overwhelm-determines-direction",
     "overwhelm-reduces-productivity",
     "ask-from-slowness-not-intellect",
-    "breath-to-exit-overwhelm"
+    "breath-to-exit-overwhelm",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "dont-add-the-overwhelm-of-creating-the-overwhelm": [
     "im-overwhelmed",
@@ -5766,6 +5909,7 @@
     "simplicity-on-the-other-side-of-complexity",
     "you-dont-control-emotions-they-dont-control-you",
     "daily-emotional-yoga",
+    "four-tactical-ways-to-feel-your-emotions",
     "cafe-emotional-stigma",
     "joes-crying-story"
   ],
@@ -5852,6 +5996,7 @@
     "emotional-fluidity",
     "love-the-anxiety-not-just-with-it",
     "repression-vs-management",
+    "emotional-movement-unsticks-stuckness",
     "let-your-body-shake-it-out",
     "stages-of-emotional-development"
   ],
@@ -5893,10 +6038,13 @@
     "any-amount-answer-as-total-installation",
     "conflict-avoidance-prevents-being-loved",
     "money-as-surrogate",
-    "say-the-forbidden-want-out-loud"
+    "feel-it-as-the-sun",
+    "say-the-forbidden-want-out-loud",
+    "surface-the-rejection-then-demand-its-evidence"
   ],
   "money-domain": [
     "money-is-bad",
+    "money-as-paint",
     "money-must-flow"
   ],
   "three-signals-of-unfelt-emotion": [
@@ -6039,6 +6187,7 @@
     "treating-it-as-a-decision-when-its-an-emotion",
     "conditional-clauses-of-heart-closure",
     "addiction-to-shame",
+    "its-a-human-thing-redirect",
     "point-at-the-present-evidence",
     "shame-drives-behavior",
     "do-i-stop-drinking-session",
@@ -6121,6 +6270,7 @@
     "decisions-are-emotional",
     "describable-vs-changed",
     "dont-do-emotion-at-people",
+    "emotional-movement-unsticks-stuckness",
     "exercises-need-body-voice-emotion",
     "experiential-before-intellectual",
     "feeling-changes-story",
@@ -6468,7 +6618,8 @@
     "chin-up-as-emotion-block",
     "intellectual-process-with-no-somatic-component",
     "manufacturing-the-feeling",
-    "toggle-between-opposite-emotions-then-hold-both"
+    "toggle-between-opposite-emotions-then-hold-both",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "improvement-mindset-vs-maintenance-mindset": [
     "whats-next-after-i-reached-my-big-goal",
@@ -6890,6 +7041,7 @@
   "absence-of-resistance-to-the-suck": [
     "humility-in-the-system",
     "the-happiness-filter",
+    "the-smile-of-recognition",
     "will-chesney-seal-collapse-and-return"
   ],
   "let-it-move-through-and-clean-the-channel": [
@@ -7048,6 +7200,7 @@
     "emotions-and-stories-dance",
     "zen-sickness",
     "meaning-change-vs-feeling-through",
+    "dont-believe-the-stories-you-tell-yourself",
     "stories-are-developmental-scaffolding",
     "stronger-story-stuckier-emotion"
   ],
@@ -7191,6 +7344,16 @@
     "breath-to-exit-overwhelm",
     "jeff-bezos-calls-his-mornings-wandering"
   ],
+  "talk-to-the-part-that-knows": [
+    "the-smile-of-recognition",
+    "its-a-human-thing-redirect"
+  ],
+  "happiness-filter": [
+    "the-smile-of-recognition"
+  ],
+  "microexpressions-as-data": [
+    "the-smile-of-recognition"
+  ],
   "public-truth-bomb": [
     "the-thing-not-being-said-as-the-fear-signal",
     "are-you-bracing-or-embracing",
@@ -7240,6 +7403,7 @@
     "you-dont-control-emotions-they-dont-control-you",
     "do-the-next-most-obvious-thing",
     "patient-on-the-table",
+    "four-tactical-ways-to-feel-your-emotions",
     "head-heart-gut",
     "stages-of-emotional-development",
     "body-awareness-in-meetings"
@@ -7356,6 +7520,7 @@
     "let-your-body-shake-it-out",
     "love-relationship-with-anxiety",
     "try-to-feel-scared-then-stop-experiment",
+    "four-tactical-ways-to-feel-your-emotions",
     "stages-of-emotional-development",
     "cafe-emotional-stigma",
     "joes-crying-story"
@@ -7687,6 +7852,7 @@
     "each-emotion-has-its-own-positive-flavor",
     "embrace-intensity",
     "emotion-can-move-without-a-story",
+    "emotional-movement-unsticks-stuckness",
     "kids-release-emotions-where-they-feel-safe",
     "mind-unsees-first-body-last",
     "stronger-story-stuckier-emotion",
@@ -7697,6 +7863,7 @@
     "embodied-stages-of-grief-ritual",
     "emotional-inquiry",
     "inquiry-on-limiting-beliefs",
+    "four-tactical-ways-to-feel-your-emotions",
     "esme-heartbreak-feels-good"
   ],
   "kinked-emotions": [
@@ -7763,11 +7930,14 @@
     "agree-when-challenged-on-the-teaching",
     "fuck-the-right-answer",
     "receive-the-projection-and-let-it-move-through",
+    "talk-to-the-part-that-knows",
     "wait-for-someone-else-to-say-it",
     "identification-with-the-teaching",
+    "awareness-of-pattern-is-halfway-through",
     "coach-as-follower-not-director",
     "coach-as-mirror-not-customer-service",
     "coaches-foundation-self-awareness",
+    "dont-believe-the-stories-you-tell-yourself",
     "dont-claim-the-wisdom-as-yours",
     "dont-take-my-word-for-it",
     "feeling-yourself-beats-going-to-plan",
@@ -8106,6 +8276,7 @@
     "dont-forget-the-tool-when-things-feel-good",
     "state-seeking",
     "quit-hope-lose-cycle",
+    "the-natural-integration-arc-after-breakthrough",
     "enjoyment-as-path",
     "punishing-the-remembering"
   ],
@@ -8136,7 +8307,8 @@
     "hold-the-memory-of-when-you-felt-it-most",
     "nervous-system-support-during-intense-inquiry",
     "noticing-the-matrix-pattern",
-    "toggle-between-opposite-emotions-then-hold-both"
+    "toggle-between-opposite-emotions-then-hold-both",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "gentleness-not-trying-to-be-patient": [
     "dont-go-after-every-emotion-at-once",
@@ -8436,6 +8608,7 @@
     "try-to-feel-scared-then-stop-experiment",
     "5-ways-to-stay-unhappy",
     "conditions-for-transformation",
+    "four-tactical-ways-to-feel-your-emotions",
     "stages-of-emotional-development",
     "joe-7-years-of-reichian-breathwork"
   ],
@@ -8610,6 +8783,7 @@
     "dont-use-measurement-to-beat-yourself-up",
     "soul-dysmorphia",
     "three-layers-of-the-work",
+    "its-a-human-thing-redirect",
     "inner-critic-prevents-rest-and-integration",
     "punishing-the-remembering",
     "see-whats-right-to-build-on-it",
@@ -8618,7 +8792,9 @@
   "punishing-the-remembering": [
     "dont-use-measurement-to-beat-yourself-up",
     "pendulation",
+    "its-a-human-thing-redirect",
     "improvement-vs-authenticity",
+    "awareness-of-pattern-is-halfway-through",
     "daily-gratitude-for-your-own-transformation"
   ],
   "measuring-transformation-across-three-brains": [
@@ -8714,6 +8890,7 @@
     "gratitude-as-acknowledgment-of-greater-force",
     "gratitude-as-healing-medicine",
     "gratitude-self-corrects-when-felt",
+    "wealth-identity-shift",
     "two-person-gratitude-practice",
     "base-jumping-broken-hand-gratitude",
     "lottery-winners-vs-accident-survivors"
@@ -9495,6 +9672,7 @@
     "anger-is-love",
     "feared-stories-about-emotions-sense-something-real",
     "say-the-thing-youre-not-saying",
+    "four-tactical-ways-to-feel-your-emotions",
     "sadie-christopher-anger-together"
   ],
   "dont-specialize-in-the-scariest-fear": [
@@ -9527,6 +9705,7 @@
   ],
   "acting-out-emotions-as-fluidity": [
     "emotional-fluidity",
+    "emotional-movement-unsticks-stuckness",
     "feared-stories-about-emotions-sense-something-real",
     "you-dont-control-emotions-they-dont-control-you"
   ],
@@ -9545,7 +9724,8 @@
     "emotional-fluidity",
     "you-dont-control-emotions-they-dont-control-you",
     "four-hour-emotional-repression-experiment",
-    "5-ways-to-stay-unhappy"
+    "5-ways-to-stay-unhappy",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "empathy-vs-sympathy": [
     "empathy",
@@ -9609,6 +9789,13 @@
     "enjoyment-as-path",
     "actor-giving-most-convincing-performance",
     "enjoy-your-breath-for-five-minutes"
+  ],
+  "every-moment-is-an-exit-point": [
+    "familiar-over-safe",
+    "fully-feeling-restructures-the-self",
+    "disorienting-middle-of-self-inquiry",
+    "the-natural-integration-arc-after-breakthrough",
+    "annihilation-reveals-what-is-real"
   ],
   "apply-view-to-fear": [
     "fear-as-signal-of-care",
@@ -9691,11 +9878,6 @@
     "emotional-inquiry",
     "nervous-system-support-during-intense-inquiry"
   ],
-  "every-moment-is-an-exit-point": [
-    "fully-feeling-restructures-the-self",
-    "disorienting-middle-of-self-inquiry",
-    "annihilation-reveals-what-is-real"
-  ],
   "politics-from-unclear-standards": [
     "functional-team",
     "sublimated-wants-become-politics",
@@ -9754,8 +9936,10 @@
     "gratitude-as-acknowledgment-of-greater-force",
     "gratitude-as-healing-medicine",
     "punishing-the-remembering",
+    "wealth-identity-shift",
     "two-person-gratitude-practice",
-    "5-ways-to-stay-unhappy"
+    "5-ways-to-stay-unhappy",
+    "money-domain"
   ],
   "two-person-gratitude-practice": [
     "gratitude-as-full-body-sport",
@@ -9974,6 +10158,7 @@
     "integration",
     "thoughts-as-management",
     "zen-sickness",
+    "the-natural-integration-arc-after-breakthrough",
     "let-your-body-remember-this-moment",
     "decisions-are-emotional",
     "embracing-intensity-as-leading-indicator",
@@ -10022,6 +10207,7 @@
   "belief-integration-not-elimination": [
     "limiting-belief",
     "thoughts-as-management",
+    "awareness-of-pattern-is-halfway-through",
     "questioning-assumptions"
   ],
   "latticework-of-limiting-beliefs": [
@@ -10040,6 +10226,7 @@
   ],
   "trust-the-awareness-dont-add-effort": [
     "limiting-belief",
+    "awareness-of-pattern-is-halfway-through",
     "where-you-are-is-the-lesson",
     "wisdom-is-when-you-dont-have-to-remember",
     "joes-first-meditation-retreat"
@@ -10132,17 +10319,29 @@
     "five-triggers-projection-experiment",
     "self-forgiveness-as-spoken-move"
   ],
-  "poverty-mentality": [
-    "money-as-surrogate",
-    "money-must-flow",
-    "money-domain"
-  ],
   "integrity-as-money-compass": [
+    "money-as-paint",
     "money-is-impersonal",
     "enjoyment-as-surrender",
     "expensive-to-be-poor",
     "money-must-flow",
     "money-relationship-is-an-energetic-exchange",
+    "wealth-identity-shift",
+    "money-domain"
+  ],
+  "wealth-identity-shift": [
+    "money-as-paint",
+    "same-scarcity-story-regardless-of-wealth",
+    "money-domain"
+  ],
+  "i-make-money-only-when-i-hate-what-im-doing": [
+    "money-as-paint",
+    "public-speaking-coach-money-session"
+  ],
+  "poverty-mentality": [
+    "money-as-surrogate",
+    "money-must-flow",
+    "wealth-identity-shift",
     "money-domain"
   ],
   "go-down-the-rabbit-hole-in-your-kids-world": [
@@ -10304,6 +10503,7 @@
     "projections",
     "apologize-to-the-projected-object",
     "mirror-the-judgment",
+    "surface-the-rejection-then-demand-its-evidence",
     "choosing-the-projection-that-serves",
     "seeing-through-projections-expands-possibility",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
@@ -10553,7 +10753,8 @@
     "childhood-imprinting",
     "observe-vs-move-emotion",
     "daily-emotional-yoga",
-    "fake-the-anger-to-let-it-move"
+    "fake-the-anger-to-let-it-move",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "dont-make-family-dynamics-the-story": [
     "childhood-imprinting",
@@ -10721,6 +10922,11 @@
     "the-want-to-fit-in-vs-want-to-be-extraordinary",
     "what-were-avoiding-is-usually-love"
   ],
+  "dont-forget-the-tool-when-things-feel-good": [
+    "the-natural-integration-arc-after-breakthrough",
+    "three-stages-of-emotional-inquiry-maturity",
+    "emotional-inquiry"
+  ],
   "own-your-narcissism": [
     "the-want-to-fit-in-vs-want-to-be-extraordinary",
     "hold-a-perspective-without-thinking-youre-right",
@@ -10734,10 +10940,6 @@
     "deconstruct-the-victim-to-release-anger",
     "welcoming-the-others-emotion",
     "passive-aggressive-vs-aggressive-aggressive"
-  ],
-  "dont-forget-the-tool-when-things-feel-good": [
-    "three-stages-of-emotional-inquiry-maturity",
-    "emotional-inquiry"
   ],
   "observer-vs-immersion-by-anger-type": [
     "three-things-that-go-wrong-when-releasing-anger",
@@ -10755,6 +10957,10 @@
   ],
   "paradoxical-instruction-to-resist": [
     "amplify-the-feeling-until-it-breaks-open"
+  ],
+  "resisted-vs-unresisted-everything-shows-up-different": [
+    "amplify-the-feeling-until-it-breaks-open",
+    "approach-to-emotion-matters-as-much-as-emotion"
   ],
   "fear-triangle|savior": [
     "apologize-for-trying-to-control"
@@ -11030,12 +11236,24 @@
   "name-the-pattern": [
     "surface-the-assumed-dichotomy"
   ],
+  "the-smile-of-recognition": [
+    "talk-to-the-part-that-knows"
+  ],
+  "talk-to-your-parts-and-ask-for-trust": [
+    "talk-to-the-part-that-knows",
+    "compassion-as-of-the-guts",
+    "emile-three-relationships-with-fear"
+  ],
+  "follow-the-affect-not-the-content": [
+    "talk-to-the-part-that-knows"
+  ],
   "diagnose-the-meeting-live": [
     "the-last-to-speak-move",
     "everybody-wants-the-same-kind-of-team"
   ],
   "actor-giving-most-convincing-performance": [
-    "treat-yourself-as-actor-of-emotion"
+    "treat-yourself-as-actor-of-emotion",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "feel-the-love-then-feel-obligation": [
     "acceptance-is-not-love",
@@ -11050,7 +11268,8 @@
   "dont-use-breath-to-repress": [
     "breath-as-fertile-soil-vs-breath-as-control",
     "breath-to-exit-overwhelm",
-    "emotional-inquiry"
+    "emotional-inquiry",
+    "four-tactical-ways-to-feel-your-emotions"
   ],
   "three-ways-to-fire-someone": [
     "caring-vs-caretaking",
@@ -11244,11 +11463,11 @@
     "do-the-work-thats-harder-for-you",
     "the-emotional-experience-decides-the-channel"
   ],
-  "resisted-vs-unresisted-everything-shows-up-different": [
-    "approach-to-emotion-matters-as-much-as-emotion"
-  ],
   "joes-laughing-meditation-retreat": [
     "authenticity-reduces-shame"
+  ],
+  "self-attack-after-seeing-the-pattern": [
+    "awareness-of-pattern-is-halfway-through"
   ],
   "coach-personality-determines-style": [
     "become-unnecessary",
@@ -11335,6 +11554,9 @@
     "do-the-work-thats-harder-for-you",
     "embrace-intensity",
     "the-gold-lies-beyond-the-afraid"
+  ],
+  "the-questioning-stance": [
+    "dont-believe-the-stories-you-tell-yourself"
   ],
   "emotion-at-someone-means-self-manipulation": [
     "dont-do-emotion-at-people"
@@ -11617,10 +11839,6 @@
   "every-yes-needs-a-real-no": [
     "approach-and-say-no-with-group-honoring"
   ],
-  "talk-to-your-parts-and-ask-for-trust": [
-    "compassion-as-of-the-guts",
-    "emile-three-relationships-with-fear"
-  ],
   "gratitude-as-healing-medicine": [
     "daily-gratitude-for-your-own-transformation"
   ],
@@ -11751,9 +11969,6 @@
   ],
   "us-vs-them": [
     "political-signs-steakhouse-story"
-  ],
-  "i-make-money-only-when-i-hate-what-im-doing": [
-    "public-speaking-coach-money-session"
   ],
   "am-i-a-fake-coaching-session": [
     "public-speaking-coach-money-session"

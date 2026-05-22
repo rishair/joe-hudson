@@ -5,7 +5,7 @@ title: "Joe Learning to Cry"
 aliases: ["faking it in the woods", "Joe's crying story", "fake crying for three months", "Joe couldn't cry for fourteen years", "the photo album story"]
 tags: ["personal example", "crying", "feeling", "transformation", "shame"]
 related: ["daily-emotional-yoga", "stages-of-emotional-development", "feeling-the-unfelt-emotion", "kinked-emotions", "childhood-imprinting"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure", "2024-06-28_4 Ways To Feel Your Emotions"]
 ---
 
 # Joe Learning to Cry
@@ -38,6 +38,12 @@ When it became real, the relief was so great that he let it continue for four da
 
 "My body was just like, years of tension just evaporating in days." -- Joe Hudson, Feel over Figure
 
+The public-facing video version of the same arrival, told in plainer language, lands the emotional payoff for an audience that may not yet trust the work:
+
+"And when I was finished, I felt so much relief. I felt so good. And you can ask anybody that you know who cries easily how good they feel after tears. It's an amazing discovery to feel that actually crying makes you feel better. And by learning not to cry, you're basically learning how not to feel better." -- Joe Hudson, 4 Ways To Feel Your Emotions
+
+The "learning how not to feel better" inversion does specific work for a beginner. The cultural picture treats crying as the bad outcome (weakness, loss of control) and not-crying as the good outcome (composure, strength). The inversion names what the body actually does: stopping the tears stops the relief. The person who has spent decades not crying is not protecting themselves from sadness; they are protecting themselves from the relief that comes after the sadness has moved. Once the body knows that crying produces relief, the resistance has less to do.
+
 ## What Followed
 
 Once he had access to tears, that access deepened. Then it deepened again. Eventually he arrived at: "Every single heartbreak of mine increases my capacity to love. I cannot wait for more heartbreak."
@@ -69,3 +75,4 @@ Self-deprecating, warm. Joe tells this on himself. The three miles off-trail is 
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2024-06-28_4 Ways To Feel Your Emotions (the public-facing video version of the same story, condensed for a general audience as the operational example in the framework's expression step; the "learning how not to feel better" inversion that lands the emotional payoff for someone who has not yet trusted the work; positioned alongside the actor-with-an-emotional-scene method as one of two on-ramps to letting expression happen)

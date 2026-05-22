@@ -4,7 +4,7 @@ id: peace-is-what-we-resist-the-most
 title: "Peace Is What We Resist the Most (The Abyss Turns Out to Be Peace)"
 aliases: ["peace is what we resist", "we resist peace more than fear", "the abyss is peace", "what we're avoiding is peace", "the feared territory is peace", "resistance to peace", "we push away peace", "peace as the scary thing", "the spiral abyss becomes peace", "what we're running from is peace", "peace as the avoided experience", "in a war with yourself you always lose", "the war with yourself loses", "peace cannot be forced", "peace cannot be tried into being", "the avoidance is the stuckness", "the avoidance of the hole is the stuckness", "the stuckness IS the avoidance", "stuckness as avoidance of the abyss", "the avoidance is the suffering", "what you're running from is your relief", "running from the thing that brings freedom quickest"]
 tags: ["peace", "resistance", "abyss", "fear", "non-duality", "craving", "non-resistance", "stuckness"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2023-04-14_The Opposite of Trying", "2024-03-18_I Am Scared Of The Unknown"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2023-04-14_The Opposite of Trying", "2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
 ---
 
 # Peace Is What We Resist the Most
@@ -114,6 +114,20 @@ This is also why the standard advice for stuckness ("try harder, make a plan, ta
 
 The stuckness variant is the explicit live-coaching companion to [[what-we-fear-we-invite]]. Both principles describe the same mechanism — avoidance generates the thing being avoided. The stuckness variant is the felt-state form: when avoidance becomes long-running and chronic, the felt sense of the avoidance presents itself as the felt sense of being stuck. The diagnostic question once this variant is recognized: "what is on the other side of the stuckness that I have been avoiding?" Almost always, what is on the other side is what the person originally wanted. See [[i-feel-stuck]] for the concern this variant typically presents as.
 
+## The Reflective Formulation: The Thing Avoided Is the Direct Path
+
+The post-session commentary on the 2024-03-18 work gives the principle in its compressed teaching form, addressed to anyone in any avoidance pattern:
+
+"The reason that gives me such joy to be able to say jump into that crazy scary thing is that the thing that we're avoiding is usually the most direct path to our freedom." — Joe Hudson, How Do I Get Unstuck? (Coaching Commentary)
+
+The "most direct path" framing is operationally useful. It says: when you find yourself avoiding something internal, the avoidance itself is the signpost. The thing being avoided is not a danger to be navigated around; it is the doorway being deferred. The fastest move is toward, not away. This inverts the standard relationship to internal avoidance, where the avoidance feels like prudence ("there's a reason I don't want to feel that") and the toward-move feels reckless. The principle reverses the polarity.
+
+The reason the avoided thing is the direct path is structural. Whatever is being avoided is being protected against because the system has correctly identified that it would dissolve the current identity. The dissolution is what produces the freedom — the freedom the person is unable to access while the identity is held in place. The avoidance is therefore the active production of the lack of freedom. Entering the avoided territory is what releases the production. There is no other move that does the same job.
+
+The post-session frame also names the specific shape of what is usually on the other side: "what we're essentially scared of most is deep love, deep pleasure, deep freedom." The catastrophe-story is the wrapper. Underneath, in nearly every case, is one of those three. The system has been working to keep these at bay because they would change the person in ways the current identity cannot survive.
+
+A further commentary frame: this does not mean the entry is comfortable. "It's not like someone's like, okay, go into this big black hole, it's not scary, and you're gonna have freedom. It's like, go to the big black hole because it's scary, right?" The scariness is not a sign that the entry is wrong. The scariness is a sign that the entry is at the right location. The territory being avoided will, by definition, feel like the territory being avoided when entered. The freedom is on the other side of the entry, not in the entry itself.
+
 ## When Someone Experiences This
 
 - They describe a fear of "losing themselves" if they really feel something
@@ -149,3 +163,4 @@ Quiet, deliberate, almost gentle. This principle is delivered in the same low re
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
 - 2023-04-14_The Opposite of Trying (the corollary that peace cannot be forced; "in a war with yourself, you always lose"; avoiding conflict creates a war inside)
 - 2024-03-18_I Am Scared Of The Unknown (the stuckness variant: "the avoidance of the hole is the stuckness, the abyss"; "you are avoiding something that is your relief; you are running away from the thing that brings you freedom quickest"; the live demonstration of the principle in the felt-state-of-stuckness form, where entering the catastrophic image dissolves the chronic stuck-feeling)
+- 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — the reflective formulation post-session ("the thing that we're avoiding is usually the most direct path to our freedom"); the catalog of what is usually on the other side ("deep love, deep pleasure, deep freedom"); the corrective that scariness at entry is not a counter-signal ("go to the big black hole because it's scary"); the structural frame that entering the catastrophic image dissolves the identity that requires the catastrophe-story

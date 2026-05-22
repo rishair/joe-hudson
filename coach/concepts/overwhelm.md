@@ -4,8 +4,8 @@ id: overwhelm
 title: "Overwhelm"
 aliases: ["what overwhelm is", "Joe's definition of overwhelm", "the overwhelm definition", "overwhelm as broken flow", "overwhelm as unprocessed emotion", "the moment of overwhelm", "definition of overwhelm", "what causes overwhelm"]
 tags: ["overwhelm", "fear", "anxiety", "flow", "emotional processing", "definition"]
-related: ["fear-vs-anxiety", "anxiety-three-definitions", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "im-overwhelmed", "the-rush-signature", "overwhelm-reduces-productivity", "meaning-of-overwhelm-determines-direction", "ask-from-slowness-not-intellect"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?"]
+related: ["fear-vs-anxiety", "anxiety-three-definitions", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "im-overwhelmed", "the-rush-signature", "overwhelm-reduces-productivity", "meaning-of-overwhelm-determines-direction", "ask-from-slowness-not-intellect", "four-tactical-ways-to-feel-your-emotions"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-27_What Can I Do About Overwhelm?", "2024-06-28_4 Ways To Feel Your Emotions"]
 ---
 
 # Overwhelm
@@ -23,6 +23,12 @@ Overwhelm has two definitions that point at the same phenomenon from two angles.
 "We think we're overwhelmed because of X, Y, and Z. I have a call, and then I also have to get to this place, and then, but I have a big job thing... but what's actually happening on an emotional level is that there's all these big emotions and you're not feeling them, and so you're not allowing them to pass all the way through you, and so your system is overwhelmed with the amount of emotions that you have." -- Joe Hudson, What Can I Do About Overwhelm?
 
 The two definitions converge. Leaving flow to manage reality is what produces the inner pressure. The inner pressure is what feels like overwhelm. The external pressure (the to-do list) is real, but the to-do list is not what is being experienced as overwhelm. What is being experienced is the accumulated unprocessed emotion that the management posture is holding in place.
+
+The public-facing compression of the same teaching, delivered in the on-ramp framework [[four-tactical-ways-to-feel-your-emotions]]: overwhelm is almost always the symptom of an emotion not being felt, regardless of what is on the to-do list.
+
+"Almost every time that you're overwhelmed, what's actually happening is that you have an emotion that isn't being felt. It's not just that things are busy. It's because you go like, 'Ugh,' and you're holding and you're tightening down, not feeling an emotional experience instead of breathing in and actually allowing that emotion to move." -- Joe Hudson, 4 Ways To Feel Your Emotions
+
+The compressed version is useful as a quick diagnostic: when overwhelm shows up, the question is not "what is on the list" but "what is the emotion I am tightening down on right now?" The tightening is the experienceable evidence that the emotion is being held. Loosen the tightening (breath, body softening, movement) and the held emotion becomes felt; once felt, it moves; once moved, the overwhelm releases.
 
 ## Overwhelm Is a Form of Fear
 
@@ -108,3 +114,4 @@ Direct, matter-of-fact, slightly amused at the cultural assumption that overwhel
 
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-27_What Can I Do About Overwhelm? (re-release with the same content)
+- 2024-06-28_4 Ways To Feel Your Emotions (the public-facing compression of the overwhelm-is-unfelt-emotion principle into a quick diagnostic; the "tightening down" framing as the experienceable evidence of the held emotion; positioning the four-way framework as the live intervention when overwhelm arises)

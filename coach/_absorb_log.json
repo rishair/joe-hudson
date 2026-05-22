@@ -5344,15 +5344,109 @@
     },
     {
       "folder": "2024-06-19_3 Reasons You Can't Build Wealth",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T18:35:35Z",
+      "articles_created": [
+        "wealth-identity-shift",
+        "money-as-paint"
+      ],
+      "articles_updated": [
+        "same-scarcity-story-regardless-of-wealth",
+        "money-domain"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T18:41:57Z"
+    },
+    {
+      "folder": "2024-06-21_How Do I Get Unstuck? (Coaching Session Breakdown)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T18:38:23Z",
+      "articles_created": [
+        "its-a-human-thing-redirect",
+        "the-natural-integration-arc-after-breakthrough"
+      ],
+      "articles_updated": [
+        "familiar-over-safe",
+        "i-feel-stuck",
+        "awareness-of-pattern-is-halfway-through",
+        "punishing-the-remembering",
+        "the-smile-of-recognition",
+        "talk-to-the-part-that-knows"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T18:57:06Z"
+    },
+    {
+      "folder": "2024-06-21_How Do I Get Unstuck\uff1f (Coaching Commentary)",
+      "status": "complete",
+      "claimed_at": "2026-05-22T18:42:37Z",
+      "articles_created": [
+        "awareness-of-pattern-is-halfway-through",
+        "dont-believe-the-stories-you-tell-yourself",
+        "the-smile-of-recognition",
+        "talk-to-the-part-that-knows",
+        "emotional-movement-unsticks-stuckness"
+      ],
+      "articles_updated": [
+        "i-feel-stuck",
+        "peace-is-what-we-resist-the-most",
+        "presence-over-technique-in-coaching",
+        "resisted-vs-unresisted-everything-shows-up-different",
+        "treating-felt-state-as-factual-reality",
+        "amplify-the-feeling-until-it-breaks-open"
+      ],
+      "type": "both",
+      "absorbed_at": "2026-05-22T18:54:32Z"
+    },
+    {
+      "folder": "2024-06-24_How Do I Create Financial Stability\uff1f",
+      "status": "complete",
+      "claimed_at": "2026-05-22T18:55:07Z",
+      "articles_created": [
+        "how-do-i-create-wealth-and-financial-stability",
+        "surface-the-rejection-then-demand-its-evidence",
+        "feel-it-as-the-sun"
+      ],
+      "articles_updated": [
+        "money-is-bad",
+        "if-i-had-more-money",
+        "money-as-surrogate",
+        "money-is-impersonal",
+        "trace-emotion-to-its-first-felt"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T19:04:59Z"
+    },
+    {
+      "folder": "2024-06-28_4 Ways To Feel Your Emotions",
+      "status": "complete",
+      "claimed_at": "2026-05-22T18:58:25Z",
+      "articles_created": [
+        "four-tactical-ways-to-feel-your-emotions"
+      ],
+      "articles_updated": [
+        "overwhelm",
+        "joes-crying-story",
+        "emotions-live-in-muscles",
+        "i-cant-feel-my-emotions",
+        "you-cant-let-go-of-emotions-only-thoughts",
+        "decisions-are-emotional",
+        "binary-thinking-signals-fear"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T19:07:34Z"
+    },
+    {
+      "folder": "2024-07-01_Should I Stay With My Ex\uff1f",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T19:05:55Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2024-06-21_How Do I Get Unstuck? (Coaching Session Breakdown)",
+      "folder": "2024-07-05_Passive Aggression",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T18:38:23Z",
+      "claimed_at": "2026-05-22T19:08:11Z",
       "articles_created": [],
       "articles_updated": []
     }

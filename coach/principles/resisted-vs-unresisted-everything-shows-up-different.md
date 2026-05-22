@@ -5,7 +5,7 @@ title: "Resisted vs. Unresisted: Everything Shows Up Differently Depending on Ho
 aliases: ["resisted vs unresisted everything different", "everything shows up differently when resisted", "resisted vs not resisted shows differently", "the pitch metaphor for resisted vs unresisted", "the fundraising metaphor", "I show up differently when the person is open vs resisting", "emotions are no different from anything else", "resisted things show up worse than unresisted things", "the general principle of resisted vs unresisted"]
 tags: ["principle", "emotions", "resistance", "approach", "general truth"]
 related: ["emotional-inquiry", "resistance", "approach-to-emotion-matters-as-much-as-emotion", "view", "love-as-deep-welcoming", "fear-vs-excitement", "kinked-emotions", "embrace-vs-brace", "each-emotion-has-its-own-positive-flavor"]
-sources: ["2024-01-19_Emotional Inquiry - Emotion Series #14", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool"]
+sources: ["2024-01-19_Emotional Inquiry - Emotion Series #14", "2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
 ---
 
 # Resisted vs. Unresisted: Everything Shows Up Differently Depending on How It's Met
@@ -61,6 +61,30 @@ The same is true going the other direction: how a person shows up to others is s
 
 This makes the principle a general truth about experience, not a special claim about emotions. Emotions are one application. The mechanism is universal.
 
+## The Anger Example: Same Emotion, Different Experience
+
+A specific instance of the principle that comes up frequently in live coaching: anger met with resistance and anger met with embrace are not the same anger. The label is the same. The energy in the body is profoundly different.
+
+"A feeling resisted shows up as a different feeling. Like, resisted anger feels very different than embraced anger." — Joe Hudson, How Do I Get Unstuck? (Coaching Commentary)
+
+The implication for working with anger specifically: when a client reports anger that has been distressing them, the question is not always "how do we reduce the anger?" Often the question is "what would this anger feel like if it weren't being resisted?" The answer often surprises the client — embraced anger can feel like power, like clarity, like life-force. The thing they were calling "anger" was anger-plus-resistance, which is a different experience entirely.
+
+This is also why a client can report contradictory feelings about their anger ("I want to be in touch with it but I'm scared of it"). Both reports are about a single label, but they are about two different experiences: the embraced anger they sense is available, and the resisted anger they have been trapped in. The wanting and the fearing are about different actual phenomena.
+
+## The Stuckness Example: Resisted Stuckness Becomes Helplessness, Then a Black Hole
+
+Another instance from live coaching: when a person amplifies a stuck-feeling without resisting it, the feeling transforms into something else. The stuckness was never the only thing present; it was the surface of a deeper material being held just out of reach.
+
+The 2024-03-18 session demonstrates this. The client started with "stuck." Joe asked her to feel more stuck. The feeling escalated through:
+1. Wanting to get out of the feeling (the resistance becoming visible)
+2. Feeling like she would explode
+3. Feeling helpless
+4. Feeling like she was going to be sucked into a black hole
+
+Each subsequent layer was what the previous layer had been hiding when resisted. The "stuckness" she had been carrying for years was the surface of a black-hole-feeling that the system had been spending energy to keep out of awareness. Once the resistance dropped, the deeper material surfaced quickly. The principle is what predicts this: each resisted form of a feeling is a different felt-experience than its unresisted form, and dropping the resistance reveals the deeper layer the resistance was protecting against.
+
+This is the dynamic [[amplify-the-feeling-until-it-breaks-open]] is designed to exploit. The amplification removes the resistance and lets the feeling become what it actually is, which is usually different from and deeper than what it was when resisted.
+
 ## The Test for Whether the Principle Has Landed
 
 The internal test: does the question "how am I meeting this?" become as natural as "what is this?" If yes, the principle is operating. If "what is this?" still dominates, the orientation is still on the object-side, and the lever of how-it-is-being-met is going unused.
@@ -92,3 +116,4 @@ Plain, explanatory, slightly emphatic on "everything." Joe delivers this as a pi
 
 - 2024-01-19_Emotional Inquiry - Emotion Series #14 (the pitch / $40 million fundraising analogy; the explicit claim that "emotions are no different"; the "signal through the noise" formulation of what becomes available without resistance)
 - 2024-01-19_Emotional Inquiry - AOA's Emotional Processing Tool (parallel transcription of the same conversation)
+- 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — the anger example as a clean instance ("resisted anger feels very different than embraced anger"); the live-coaching example of the principle operating as escalating layers (stuck becomes helpless becomes black-hole when the resistance is amplified); the structural framing that a feeling-resisted shows up as a different feeling than the same feeling embraced

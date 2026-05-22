@@ -2,9 +2,9 @@
 type: concern
 id: money-is-bad
 title: "Money is bad / I don't want to play that game"
-aliases: ["money is evil", "money corrupts", "rich people are bad", "the system sucks", "I don't want to participate in this", "I don't want to be that person", "wealth is gross", "I refuse to play the money game", "anyone with money is a prick", "the guy in the Porsche is a douchebag", "money makes people assholes", "really rich people are bad", "money took my parent's love away", "money is what took them away from me", "I have a restriction around money", "I keep having restriction around money", "I'm constricted around money", "things are happening and I'm still restricted around money", "the body restriction around money", "I want it but I push it away", "I want abundance but I keep blocking it"]
-tags: ["money", "judgment", "projection", "concerns", "shame", "rebellion", "constriction", "body"]
-sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe"]
+aliases: ["money is evil", "money corrupts", "rich people are bad", "the system sucks", "I don't want to participate in this", "I don't want to be that person", "wealth is gross", "I refuse to play the money game", "anyone with money is a prick", "the guy in the Porsche is a douchebag", "money makes people assholes", "really rich people are bad", "money took my parent's love away", "money is what took them away from me", "I have a restriction around money", "I keep having restriction around money", "I'm constricted around money", "things are happening and I'm still restricted around money", "the body restriction around money", "I want it but I push it away", "I want abundance but I keep blocking it", "money is dirty", "money is contaminating", "rich people are dirty", "having money makes you dirty", "money passes through dirty hands", "I don't deserve to have money", "having money is undeserved", "guilty to have money", "I feel guilty for having money", "the dirty-money presentation", "the contamination presentation"]
+tags: ["money", "judgment", "projection", "concerns", "shame", "rebellion", "constriction", "body", "contamination", "dirty"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe", "2024-06-24_How Do I Create Financial Stability？"]
 ---
 
 # Money is bad / I don't want to play that game
@@ -79,6 +79,16 @@ The detection: ask not "do you want money or not" but "how loudly do you reject 
 
 See [[expensive-to-be-poor]] for the principle that surfaces the lived cost of the rejection when it has been maintained for years. The cost is not just internal conflict; it is also the elaborate workarounds that the rejection requires.
 
+## The Dirty-Money / Contamination Variant
+
+A specific sub-presentation where the rejection takes the shape of contamination. Money is not just bad; money is dirty. Money passes through dirty hands. Money makes the holder dirty. The person framing it this way is usually not arguing politically; they are reporting what feels true at the body level. Money is experienced as something that would soil them to receive.
+
+The contamination frame produces a particular bind: the person wants the stability or freedom that money would provide, but the wanting itself feels like agreeing to be soiled. The asking and the rejecting run in parallel and produce no movement. "I know it will give some stability to my life" coexists with "It's dirty. It's guilty to have a lot of money. It's not worthy of me to having money." Both statements are spoken in the same minute by the same person.
+
+The diagnostic move for this variant is to make the contradiction audible in plain language and then demand the evidence for the contamination claim. "What makes you want something that's dirty that you don't deserve, that is bad?" The structural absurdity does not need to be argued; once spoken, the person can hear it. Then: "Prove to me that money is dirty." Use what is present in the room. People on the call have money. Their hands are not dirty. The claim fails the empirical test inside a minute. See [[surface-the-rejection-then-demand-its-evidence]] for the full move.
+
+When the contradiction is being held implicitly under a how-to question ("how do I create wealth and financial stability?"), the concern is presenting as [[how-do-i-create-wealth-and-financial-stability]] -- the wanting is on the surface and the rejection is hidden until invited. The surfacing-and-evidence move is what makes the work possible.
+
 ## What Joe Looks For (Reads)
 
 - **If the person is attacking rather than feeling:** the read is that an emotion (insecurity, less-than, hurt) is being kept out of awareness by being redirected as judgment at the wealthy. Joe moves toward what the person is not feeling. Often there is a moment of feeling small or unloved that the judgment is covering.
@@ -100,6 +110,8 @@ See [[expensive-to-be-poor]] for the principle that surfaces the lived cost of t
 9. Address business avoidance directly when it surfaces. Marketing as education, not manipulation. Asking to be paid as participation, not greed. See [[money-domain]].
 10. Move toward [[money-is-impersonal]] as the actual destination. Not "money is good" but "money is not personal." The reactive rebellion ends when the personal charge is felt.
 
+11. Land the depersonalization in the body through an abundance visualization. After the projection has been traced and the symbolic equivalence named ("money isn't your mom"), invite the person to feel money as the sun -- endless, present everywhere, shining on everyone, neither good nor bad. The body's expansion is the marker that the new frame has landed. See [[feel-it-as-the-sun]].
+
 ## What Joe Will Not Do
 
 Joe will not validate the political stance as if it were the work. The political stance is a defense. Engaging it at face value misses the person.
@@ -115,3 +127,4 @@ Joe will not let "it's just business" pass unexamined. That phrase signals the m
 - 2023-07-07_Much Ado About Money (the lived internal logic of the stance, the push-pull internal conflict, the rejection of spiritual teachers as a parallel surrogate, the cost of maintaining the stance over a decade)
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
 - 2024-01-05_What's Bad About Money? Coaching with Joe — the body-restriction presentation (constriction without moralizing) and the "any amount makes me selfish" diagnostic answer; the live use of the substitution-dialogue move; the apology to money for the projection; the deeper-than-money fear (being seen) that surfaces once the surrogate is addressed
+- 2024-06-24_How Do I Create Financial Stability? — the dirty/contamination variant where the rejection takes the shape of "money is dirty, passes through dirty hands, makes me dirty"; the asking-while-rejecting presentation where the contradiction is invited and surfaced via "tell me all the bad things about money"; the demand for evidence move; the embodied closing through the money-as-the-sun reframe

@@ -4,8 +4,8 @@ id: binary-thinking-signals-fear
 title: "Binary Thinking Signals Fear"
 aliases: ["black or white thinking", "binary frame as fear", "either/or thinking", "binary thinking is fear", "black and white framing"]
 tags: ["fear", "decisions", "binary", "diagnostics", "patterns"]
-related: ["three-signals-of-unfelt-emotion", "fear-is-about-feeling", "unfelt-emotion-leaks", "feel-over-figure", "feeling-the-unfelt-emotion", "fear-as-signal-of-care"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure"]
+related: ["three-signals-of-unfelt-emotion", "fear-is-about-feeling", "unfelt-emotion-leaks", "feel-over-figure", "feeling-the-unfelt-emotion", "fear-as-signal-of-care", "four-tactical-ways-to-feel-your-emotions"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2024-06-28_4 Ways To Feel Your Emotions"]
 ---
 
 # Binary Thinking Signals Fear
@@ -21,6 +21,12 @@ Joe restates the principle in plainer form in a later conversation, as a persona
 "One of the things that I've noticed in fear is that my mind becomes binary, that I start thinking of answers as this or that instead of the thousands of answers that are usually available with any issue." -- Joe Hudson, Welcoming Fear
 
 The personal framing is important: the binary collapse is not a moral failure or a thinking error to be corrected. It is a reliable somatic-cognitive signature of fear that has not been allowed to surface. The collapse is the signal. Noticing it is the first step toward going back to feel what the fear was carrying.
+
+The public-facing version of the same teaching, delivered as a detection tool inside the four-tactical-ways framework, uses the binary thinking signature as the entry point to way 1 -- recognizing the emotion through cognitive pattern rather than through body sensation. For a head-dominant person who cannot yet feel anything, the binary frame in their own thinking is an accessible piece of evidence that an emotion (fear) is currently active:
+
+"Every time that my thinking was binary, black or white, good or bad, buy the car or don't buy the car, I knew I was in fear. And so I could recognize my fear, not from my body, but because of the way that my thoughts were going. And that's one way to learn how to recognize your emotional experience." -- Joe Hudson, 4 Ways To Feel Your Emotions
+
+The use here is specifically as a beginner's detection tool. The longer treatments of binary thinking go deeper into why it forms and how to dissolve it. The four-tactical-ways framing is the simplest form: when you notice binary thinking, you know fear is happening. That is enough to begin attending to the body where the fear lives.
 
 ## Why Binary Thinking Forms
 
@@ -111,3 +117,4 @@ The work in this case is to locate the somatic third stance, which Joe sometimes
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2024-06-28_4 Ways To Feel Your Emotions (the public-facing use of binary thinking as the entry-point detection tool in way 1 of the four-tactical-ways framework; the framing for a head-dominant beginner who cannot yet feel anything in the body but can verify that their own thinking is binary; positioning the binary-thinking read as an accessible cognitive evidence that fear is currently active when somatic access is not yet available)

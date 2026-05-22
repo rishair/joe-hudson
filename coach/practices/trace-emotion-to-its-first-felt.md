@@ -2,10 +2,10 @@
 type: practice
 id: trace-emotion-to-its-first-felt
 title: "Trace the Emotion to the First Time You Felt It"
-aliases: ["trace emotion to first felt", "back to the first time", "tracing the emotion back", "follow the emotion to its origin", "where did I first feel this", "the first time I felt this", "origin tracing", "if this fear existed before you knew what money was what would it be called", "the pre-money safety question", "the pre-content trace", "rename the fear to its pre-content version", "what would this be called if it existed before the current object", "rename the fear to its underlying emotion"]
+aliases: ["trace emotion to first felt", "back to the first time", "tracing the emotion back", "follow the emotion to its origin", "where did I first feel this", "the first time I felt this", "origin tracing", "if this fear existed before you knew what money was what would it be called", "the pre-money safety question", "the pre-content trace", "rename the fear to its pre-content version", "what would this be called if it existed before the current object", "rename the fear to its underlying emotion", "trace the relationship pattern not the emotion", "the relational-structure variant", "feel the relationship and trace it back", "how you want it and don't want it tell me the first time you felt that relationship", "trace the want-and-reject pattern", "trace the push-pull relationship", "the not-with-money-with-whatever-it-was variant"]
 tags: ["trauma", "patterns", "childhood imprinting", "feeling practice", "self-inquiry", "origins"]
-related: ["childhood-imprinting", "trauma-mapping", "feeling-the-unfelt-emotion", "feel-over-figure", "i-cant-trust-my-thoughts-right-now"]
-sources: ["2021-08-13_Seeing Through Family Dynamics", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)"]
+related: ["childhood-imprinting", "trauma-mapping", "feeling-the-unfelt-emotion", "feel-over-figure", "i-cant-trust-my-thoughts-right-now", "money-as-surrogate", "how-do-i-create-wealth-and-financial-stability", "surface-the-rejection-then-demand-its-evidence", "feel-it-as-the-sun"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-06-24_How Do I Create Financial Stability？"]
 ---
 
 # Trace the Emotion to the First Time You Felt It
@@ -96,7 +96,36 @@ See [[childhood-imprinting]] for the underlying mechanism that produces this pat
 
 *(Source: Ali Abdaal coaching session)*
 
+## The Relational-Structure Variant: Trace the Push-Pull, Not the Single Emotion
+
+A second variant Joe uses when the presenting concern is not a single emotion but a relational structure -- usually "I want it and I don't want it" or "I crave it and I judge it." The trace is not for a feeling but for a relationship-shape. The question changes: not "where did you first feel this fear?" but "where did you first feel this relationship?"
+
+The form:
+
+- Have the person close their eyes.
+- Direct them to feel the relationship in their body. Name its specific qualities -- "how you want it but how you don't want it, how you crave it but how you think it's actually bad, how you feel like you judge it, there's something wrong with it, and at the same time you want its affection."
+- Then: "Without thinking at all, I want you to take that experience in your body and tell me the first time you felt that relationship. Not with [the current object], with whatever it was. What's the first time you felt that relationship?"
+
+The phrase "not with [the current object], with whatever it was" is the structural pivot. It tells the body that the relationship pattern is what is being traced, not its current content. The body almost always answers immediately with a primary caregiver -- mother, father, or earliest formative figure.
+
+"I want you to feel the relationship you have with money, how you want it but how you don't want it, how you crave it, but how you think it's actually bad, how you feel like you judge it, there's something wrong with it, and at the same time you want its affection. And now, without thinking at all, I want you to take that experience in your body and tell me the first time you felt that relationship. Not with money, with whatever it was. What's the first time you felt that relationship?" -- Joe Hudson, How Do I Create Financial Stability?
+
+The guest's answer arrived without thought: "With my mom."
+
+Why this variant matters: the push-pull relationship with money (or with any charged object) is not just a feeling that got installed. It is a relationship structure that was first practiced with someone whose love was conditional, intermittent, or contaminated by the parent's own struggles. The structure transfers from the original relationship onto whatever object becomes equivalent in adulthood. The trace surfaces the structural transfer, which is more powerful than tracing the feeling alone because it names the relationship as a whole pattern.
+
+After the structural origin appears, the substitution can be named directly: "Money isn't your mom." See [[feel-it-as-the-sun]] for the embodied reframe that follows the depersonalization. The naming dissolves the symbolic equivalence the body had been operating under, and the new frame is what the body is then invited to receive.
+
+This variant is especially useful for:
+- Concerns with the "asking for what I reject" structure. See [[how-do-i-create-wealth-and-financial-stability]].
+- Charged relationships with money, status, attention, success, or any object that has been recruited as a parent-substitute.
+- Persons whose presenting language describes a push-pull or want-yet-judge dynamic rather than a single emotion.
+- Cases where [[surface-the-rejection-then-demand-its-evidence]] has weakened the cognitive defense and the body is ready to locate where the structural pattern began.
+
+*(Source: How Do I Create Financial Stability?)*
+
 ## Sources
 
 - 2021-08-13_Seeing Through Family Dynamics
 - 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session) (the pre-content variant: "if that fear existed before you knew what money was, what would it be called?")
+- 2024-06-24_How Do I Create Financial Stability? (the relational-structure variant: trace the push-pull relationship pattern, not a single emotion; the "not with [the current object], with whatever it was" structural pivot; the guest's immediate answer "with my mom" when asked to trace the want-and-reject relationship; the depersonalization that follows the trace via "money isn't your mom")

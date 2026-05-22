@@ -64,6 +64,8 @@ Joe will not be aggressive about removing the money frame either. The frame is d
 
 The same underlying mechanism produces the opposite presentation: "money is bad / I don't want to play that game." Same surrogate, opposite stance. See [[money-is-bad]]. The coaching path converges at the same destination -- locating what money is actually standing in for and feeling the underlying charge -- after which money becomes [[money-is-impersonal]].
 
+There is also a third presentation that hides the rejection underneath an operational asking: "how do I create wealth and financial stability?" The person asks for the wealth on the surface while internally classifying it as dirty, undeserved, or contaminating. The rejection is not consciously held; it surfaces only when invited ("tell me all the bad things about money"). See [[how-do-i-create-wealth-and-financial-stability]]. The work is the same family of moves, with the additional first step of surfacing the hidden contradiction in the asking.
+
 ## The Post-Acquisition Phase: "I Made It and Now I'm Scared to Lose It"
 
 The concern has a second presentation that looks different but is the same. A person who already acquired the money and now feels the freedom they thought it would deliver as conditional on keeping it. The fear is not "I don't have enough" but "If I lose this, I'll have to go back to my old ways." The anxiety has not changed substance. It has changed direction.

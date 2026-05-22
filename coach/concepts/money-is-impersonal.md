@@ -4,8 +4,8 @@ id: money-is-impersonal
 title: "Money Is Impersonal"
 aliases: ["depersonalizing money", "money is not personal", "money isn't a reflection of you", "money flows differently when impersonal", "taking money personally", "money as projection", "money as flower or cactus", "money like a landscape", "self-relationship mirrors money relationship", "money mirrors how you treat yourself"]
 tags: ["money", "projection", "identity", "shame", "freedom"]
-related: ["money-as-surrogate", "money-domain", "money-is-bad", "if-i-had-more-money", "just-business-vs-impersonal", "hardening-means-personal", "integrity-as-money-compass", "joes-pleasing-dad-money-story"]
-sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You"]
+related: ["money-as-surrogate", "money-domain", "money-is-bad", "if-i-had-more-money", "just-business-vs-impersonal", "hardening-means-personal", "integrity-as-money-compass", "joes-pleasing-dad-money-story", "feel-it-as-the-sun", "how-do-i-create-wealth-and-financial-stability", "surface-the-rejection-then-demand-its-evidence"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2024-06-24_How Do I Create Financial Stability？"]
 ---
 
 # Money Is Impersonal
@@ -79,6 +79,16 @@ The framing keeps two things at the same time: respect for money as a powerful f
 
 "To experience it the same way you would experience a flower or a cactus or any landscape, but not to feel like it has power over them and to be a victim to it or to hate it or to love it. Love it in the way of greed, not love it in the way of having love for it the way you might be able to have love for a flower or a tree." -- Joe Hudson, Money Can't Save You
 
+## Money as the Sun (Embodied Abundance Variant)
+
+A second framing in the same family, used as a live coaching move rather than as a teaching frame. Where the flower-or-cactus framing pictures money as a feature of the landscape, the sun framing pictures money as a force that shines on everyone, is endlessly present, and cannot be earned or deserved. The sun does not pick favorites. The sun does not contaminate. The sun is not scarce.
+
+The move is delivered with the body engaged: close your eyes, imagine sitting on the beach in the sun, then feel the presence of money in the body the same way. The body almost always reports expansion. The expansion is the impersonal stance arriving felt, not just understood.
+
+"Money isn't your mom. Money is the sun. It's fucking endless. Anywhere you look, look at all those pictures, all those faces, everything you see, money had something to do with... Some people make horrible use of it. Some people make amazing use of it... Shines on everyone." -- Joe Hudson, How Do I Create Financial Stability?
+
+The sun frame is the embodied closer for the depersonalization work. After [[money-as-surrogate]] has been seen and [[trace-emotion-to-its-first-felt]] has located the original relationship that money was carrying, the sun reframe gives the body a new shape to hold money in. The new shape is impersonal because the sun is impersonal. The new shape is abundant because the sun is abundant. See [[feel-it-as-the-sun]] for the move in full.
+
 ## Money Mirrors the Self-Relationship
 
 The relationship with money tracks the relationship with self. As self-love deepens, the relationship with money softens in the same direction. As empowerment grows, money interactions feel more empowered. As gratitude becomes a default stance, money interactions carry gratitude. As being of service becomes a felt joy, money is deployed in service.
@@ -117,3 +127,4 @@ This is not a reason to be cynical about money. It is a reason to see money diff
 - 2021-05-07_Money Can't Oppress You
 - 2022-10-26_Money Can't Save You
 - 2022-10-26_Money Can't Oppress You (rebroadcast)
+- 2024-06-24_How Do I Create Financial Stability? — the money-as-the-sun embodied framing as the felt arrival of the impersonal stance ("Money isn't your mom. Money is the sun. It's fucking endless. Shines on everyone."); the sun frame as the embodied closer for the depersonalization work after the surrogate has been traced

@@ -4,7 +4,7 @@ id: i-cant-feel-my-emotions
 title: "I can't feel my emotions / 'How do you feel' doesn't compute"
 aliases: ["I can't feel my emotions", "I don't know what I'm feeling", "I struggle to feel my own emotions", "when people ask how do you feel I don't know what to say", "the phrase how do you feel does not even vaguely compute", "I don't know how I feel", "the how do you feel question is foreign to me", "I can't tell what emotion I'm having", "I'm not in touch with my feelings", "I don't really feel anything", "emotions don't show up for me", "I'm pretty disconnected from my emotions", "I can't access my feelings", "I'm not very emotional", "emotions are a foreign language", "I have tears in my eyes and don't know why", "my brother says I look like I'm about to cry and I don't feel anything", "I reverse-engineer what I must be feeling from external clues", "I don't have somatic awareness", "I'm head-dominant"]
 tags: ["emotions", "dissociation", "alexithymia", "body", "head-dominant", "achievement"]
-sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)"]
+sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)", "2024-06-28_4 Ways To Feel Your Emotions"]
 ---
 
 # I can't feel my emotions / 'How do you feel' doesn't compute
@@ -80,6 +80,8 @@ Two people can present this concern and Joe goes different directions based on w
 
 6. Install the minimum-viable feeling practice. The most powerful one is also the simplest: keep ten percent of your attention in your body as much as possible throughout the day. Everything else takes care of itself. The practice does not require a meditation cushion or a journal. It requires only the attentional shift. See [[staying-in-your-body]] and [[ten-percent-more-connected-experiment]].
 
+7. Offer the public-facing four-step framework if the person needs a packaged on-ramp. The four [[four-tactical-ways-to-feel-your-emotions]] are: recognize, breathe, feel in the body, express. The framework is built for the person who has never deliberately felt an emotion. It provides a sequence the body can be walked through. The detection cue Joe names for way 1 -- binary thinking as the signature of unfelt fear ([[binary-thinking-signals-fear]]) -- gives the head-dominant person an intellectually legible entry that does not require somatic access first.
+
 ## Dialogue Example: The Live Contrast Experiment
 
 After the person reports they have access to excitement and joy but not to love or sorrow, Joe sets up the experiment.
@@ -117,3 +119,4 @@ The mechanism: the body's signature for each emotion becomes detectable only whe
 
 - 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)
 - 2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)
+- 2024-06-28_4 Ways To Feel Your Emotions (the public-facing four-step framework Joe uses with this concern when the person needs a packaged on-ramp; the abused-child-and-the-quarter example that explains how the somatic shutoff installed in the first place; the binary-thinking detection cue as the entry point for the head-dominant person; positioning the framework as the seventh step in the coaching path for this concern)

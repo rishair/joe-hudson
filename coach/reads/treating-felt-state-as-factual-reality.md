@@ -4,7 +4,7 @@ id: treating-felt-state-as-factual-reality
 title: "Treating a Felt State as Factual Reality (The Feeling Is Being Reported as the Fact)"
 aliases: ["treating felt state as factual reality", "treating the felt sense as the fact", "treating a feeling as a circumstance", "I am stuck reported as the condition", "I am sad reported as the condition", "I am unloved reported as the condition", "felt state confused for actual state", "feeling reported as fact", "the I-am form of a feeling", "I am stuck vs I feel stuck", "I am scared vs I feel scared", "the report that conflates feeling with circumstance", "treating I feel stuck as I am stuck", "the felt-as-actual read", "the I-am-X collapse", "the felt sense reported as the situation"]
 tags: ["stuckness", "diagnosis", "reads", "felt sense", "language", "live coaching", "identification"]
-sources: ["2024-03-18_I Am Scared Of The Unknown"]
+sources: ["2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
 ---
 
 # Treating a Felt State as Factual Reality
@@ -94,6 +94,18 @@ It is also not the savior or victim reads from the [[fear-triangle]]. The person
 - [[problem-vs-something-happening]]: the principle that explains why the collapse matters — a felt experience becomes a "problem" when treated as a fact
 - [[story]]: the concept that any thought is a story; the "I am stuck" is a story being lived as the fact
 - [[stronger-story-stuckier-emotion]]: the principle that explains why this collapse is so durable — the more firmly the felt is reported as actual, the more locked the emotion stays
+- [[dont-believe-the-stories-you-tell-yourself]]: the broader stance that the stated problem is often an old story, of which the felt-as-actual collapse is one form
+- [[awareness-of-pattern-is-halfway-through]]: the principle that explains why this read works — the person can produce counter-evidence immediately when asked because they have already partially separated from the felt-as-actual frame
+
+## The Commentary on This Move (How Joe Decides to Make It)
+
+In the post-session reflection, Joe surfaces the structural reasoning behind the move from felt-as-actual to felt-only. The decision is rooted in his broader skepticism toward the client's stated problem:
+
+"One of the main things is that, like, I don't believe any of the stories that I tell. And so I don't, to myself particularly. And so I also don't believe the story that somebody else tells me, in this world, like, of, oh, this is the problem. So part of what I'm seeing is, is this really the problem? If I were looking at it, she's telling me she's stuck. And she's here asking me a question, which tells me she's not stuck. It means that she's — not only is she not stuck because she's taking action, she might not be getting the results that she wants, but she's taking action, which means she's not stuck and she's taking a risk." — Joe Hudson, How Do I Get Unstuck? (Coaching Commentary)
+
+The structural read: the stated problem is being treated as a hypothesis, not as a fact. The very presence of the person in a coaching session is data that contradicts the hypothesis. Two channels of contradicting evidence are already available — the historical (the client did take risks earlier in life) and the present-tense (the client is right now in the action of doing the session). The move surfaces both quickly so the conversation can move to the right layer.
+
+The further commentary on this same move: "Immediately the question that arises is, is this really the pattern or is this the story we tell around the pattern?" The question is the operational form of this read. Asking it makes the difference between proceeding on a misframed problem and proceeding on the actual current dynamic.
 
 ## Sources
 

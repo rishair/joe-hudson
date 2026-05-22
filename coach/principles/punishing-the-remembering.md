@@ -108,6 +108,8 @@ The tone is not lecturing. It is closer to "actually, the math is different than
 - Toward [[nature-improves-itself]]: the principle that growth happens without punishment when the conditions allow it.
 - Toward [[gentleness-not-trying-to-be-patient]]: the relational stance that makes this principle livable rather than another should.
 - Toward [[improvement-vs-authenticity]]: the broader framing — self-punishment is improvement-mode applied to the practice.
+- Toward [[its-a-human-thing-redirect]]: the live-coaching conversational move that interrupts the punishment at the moment of recognition; the conversational form of what this principle describes as the internal correction
+- Toward [[the-natural-integration-arc-after-breakthrough]]: the post-breakthrough sequence the punishment-of-the-remembering would derail
 
 ## Sources
 

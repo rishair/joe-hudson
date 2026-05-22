@@ -4,8 +4,8 @@ id: money-domain
 title: "Money as a Coaching Domain"
 aliases: ["coaching about money", "money work", "money as the kinkiest thing", "money shame", "money pride", "money topic"]
 tags: ["money", "applications", "shame", "kinky", "domain"]
-related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal", "money-must-flow", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange", "happy-money-game"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2022-10-26_The Business Behind Our Courses", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money"]
+related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal", "money-must-flow", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange", "happy-money-game", "wealth-identity-shift", "money-as-paint", "daily-gratitude-for-your-own-transformation"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2022-10-26_The Business Behind Our Courses", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2024-06-19_3 Reasons You Can't Build Wealth"]
 ---
 
 # Money as a Coaching Domain
@@ -123,6 +123,8 @@ A second operating principle works alongside integrity: money is energy, and sta
 
 A third operating principle that becomes available at this point: money is best understood as an energetic relationship, where how you treat money determines how money treats you. See [[money-relationship-is-an-energetic-exchange]]. This is the felt form of the impersonal-money frame. The strategy layer of the money work converges here: not strategy at all, but relationship.
 
+A fourth frame becomes available once integrity is the compass: money as paint. Once the activity producing the money is in alignment with who the person is, money becomes the medium through which the person expresses what they care about in the world. The painter does not chase paint; the painter chases the painting. Money operates the same way. See [[money-as-paint]] for the full frame, including the oppression-vs-empowerment binary that distinguishes activity that drains money over time from activity that sustains it.
+
 ## The Cost of Rejection
 
 The inverse pattern -- active rejection of money as a moral stance -- has its own operating cost. See [[expensive-to-be-poor]]. A coachee who has been refusing money for years is usually paying for that refusal in life energy: time spent on workarounds, work they do not love taken to avoid earning, scavenging and cajoling instead of the direct route. The rejection looks like virtue. The bill is paid in lived time.
@@ -144,6 +146,20 @@ When a coachee runs a service business or transformative work, the question of p
 A $200 fee is not an exchange for a billionaire. The same $200 fee is a real exchange for a person earning $10 an hour. The same offering at different price points calibrates the exchange to the receiver. The design principle that follows: tiered offerings where higher-priced work subsidizes lower-priced work, with the whole system staying in flow rather than pooling.
 
 This is not pricing strategy in the conventional sense. It is the felt design of an exchange that both parties can experience as alive. See [[money-must-flow]].
+
+## The Three Structural Reasons Wealth Is Blocked
+
+A compressed teaching Joe gives for diagnosing wealth blockage, useful for the AI coach as a triage frame when a coachee presents a money concern without a clearer entry point:
+
+1. **The person's beliefs around money are unexamined.** The most common surrogates (money-as-father's-love, money-as-savior, money-as-evil) operate below conscious awareness and shape every money interaction. The work: somatic trace of the charged moment back to its first occurrence, then investigate the belief. See [[money-as-surrogate]], [[if-i-had-more-money]], [[money-is-bad]].
+
+2. **What the person is doing for money is not in alignment with who they are.** Activity in misalignment produces oppression; oppression cannot sustain output indefinitely; the money drains. The work: align the activity with the person's actual expression. See [[money-as-paint]] for the medium-of-expression frame and [[integrity-as-money-compass]] for the operational compass.
+
+3. **The person walks around defining themselves as someone who doesn't have enough.** The self-definition determines what the person perceives, how they show up, and what opportunities register. The work: shift the self-definition via felt gratitude practice. See [[wealth-identity-shift]] and [[daily-gratitude-for-your-own-transformation]].
+
+The three operate together. Investigating beliefs alone leaves the person with insight but no aligned activity. Aligning the activity alone leaves the person doing the right work as the wrong identity. Shifting the identity alone leaves the person feeling expansive but doing oppressive work for unexamined reasons. The full work moves through all three.
+
+The reframe Joe pairs with this triage: stop asking "how do I get rich" and start asking "what keeps me poor" / "how am I thinking like a poor person" / "how am I feeling like a poor person." The reframe shifts the work from chasing the external outcome to dismantling the internal structure that prevents it.
 
 ## When Joe Reaches For This Domain
 
@@ -169,3 +185,4 @@ A specialized move that surfaces when standard pricing fails to create exchange 
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
 - 2023-07-07_Much Ado About Money (the expensive-to-be-poor frame, the energetic-exchange principle, the Happy Money Game move)
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
+- 2024-06-19_3 Reasons You Can't Build Wealth (the three structural levers as a unified triage frame: investigate beliefs, align activity, shift self-definition; the "what keeps me poor" reframe of the standard "how do I get rich" question; the money-as-paint medium frame as the relational expression of alignment)

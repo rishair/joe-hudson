@@ -5,7 +5,7 @@ title: "Presence Is the Foundation; Technique Is a Thin Layer on Top"
 aliases: ["presence over technique", "presence over technique in coaching", "presence is the foundation", "how you are is the work", "the transmission is the presence", "presence is the foundation of technique", "without presence the technique is dangerous", "the rice before the cuts", "you are the instrument not the technique", "the way you show up determines the outcome", "the holding of the knife matters more than the cut", "the trainee's presence is the curriculum", "presence first technique after"]
 tags: ["principle", "coaching", "presence", "technique", "facilitation", "view", "foundation"]
 related: ["view", "view-as-technique", "the-clients-wisdom-not-the-teachers", "coaches-foundation-self-awareness", "training-coaches-and-facilitators", "send-the-message-that-youre-whole", "kids-respond-to-emotional-presence-not-words", "stay-centered-while-holding-space", "consciousness-is-the-product", "leaders-calm-becomes-the-teams-calm", "how-what-questions"]
-sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice"]
+sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)"]
 ---
 
 # Presence Is the Foundation; Technique Is a Thin Layer on Top
@@ -84,6 +84,20 @@ This principle is specifically about transformative coaching -- the kind that ta
 
 The principle applies specifically when the work is meant to change the person. In that domain, technique without presence does not produce the change. It produces a performance of change that the client can sustain for a while and then loses. The actual change requires presence as the medium through which it transmits.
 
+## The Direct Warning to Coaching-Imitators
+
+A specific operational form of this principle that comes up whenever Joe publishes coaching sessions: a subset of listeners watch his work in order to extract the technique. The warning is direct and not subtle.
+
+"There's, there's like a certain number of people out there who very much want to be able to do what I do or something like the way that I do it. Not a lot of people, but some people. And my answer to them is don't watch this and look for my technique. That's a horrible way to go and also a somewhat dangerous way to go." — Joe Hudson, How Do I Get Unstuck? (Coaching Commentary)
+
+The corrective is the same as the broader principle, stated for this specific audience: do your own self-discovery work for years, and let the capacity emerge from that.
+
+"What's far more important is to just work on your own self-discovery, understand yourself deeply, and all everything else will come to pass. Rather than — I think what typically people do is that they think it's like some skill to learn, and though there is some skill to it, the essence of what I'm doing can't be done without really taking a lot of time and looking at yourself and experimenting and really working on your own self-awareness. So start there. If you want to do this, start with your own self-awareness and spend years and years and years and years on that." — Joe Hudson, How Do I Get Unstuck? (Coaching Commentary)
+
+The "years and years and years and years" is not hyperbole. It is the actual duration. The presence that makes the technique safe to deploy is not acquired quickly. The warning is also a kindness — it preempts the disappointment of someone trying to skip the foundation and finding the technique does not work for them.
+
+The second reason the warning is direct: technique-without-presence, deployed by a person who thinks they have learned coaching from watching it, can cause real harm to the people they then practice on. The warning is therefore as much about the people the imitator would coach as about the imitator themselves. The lineage has a responsibility to the downstream people who would be exposed to technique-without-foundation, and that responsibility is discharged by warning prospective imitators away from the imitation path.
+
 ## Upstream (What Leads Here)
 
 - A coach trainee asks "what is the technique?" before doing the foundational work
@@ -112,3 +126,4 @@ Direct, structural, slightly slow. This is foundational orientation, stated plai
 
 - 2024-01-05_Coaching as a Practice (the "presence means more than your skills" passage; the sushi metaphor; "the way that they show up determines more about how the person across from them is going to show up than anything else"; the first-year-is-presence design of the training program)
 - 2024-01-09_Coaching As A Practice (re-recording of the same conversation; same core material; the explicit framing of presence as ingredient two of the four foundational ingredients; "the VIEW mindset" framing as the foundation of technique)
+- 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — the direct warning to listeners who want to extract the technique from watching live coaching footage; the "don't watch this and look for my technique" frame; the "horrible way to go and also a somewhat dangerous way to go" intensifier; the corrective ("start with your own self-awareness and spend years and years and years and years on that"); the structural reason the warning is direct (technique-without-presence can harm the downstream people the imitator would coach)

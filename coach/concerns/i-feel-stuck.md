@@ -2,9 +2,9 @@
 type: concern
 id: i-feel-stuck
 title: "I feel stuck / I'm scared of the unknown / The known is more familiar"
-aliases: ["I feel stuck", "I am stuck", "I'm scared to take the next step", "the known is more familiar", "I'm scared of the unknown", "the unknown is terrifying", "I'm scared to take the risk", "I'm scared to make the next move", "I keep finding myself in this space", "I'm not happy with the state of things but I can't change it", "I'm in a holding pattern", "I'm in stasis", "I feel paralyzed", "I'm afraid of going into the unknown", "stuck in unhappiness", "stuck and unhappy", "stuck but scared to move", "the safer option is stuck", "I am scared of the unknown", "I'm scared of madness", "I'm scared I won't come out", "I'm scared to feel it", "I keep being in this place", "I feel like I'm in a mousetrap", "I feel like I can't move", "I feel helpless to change my situation", "I feel like I'll explode", "I feel like I'm going to get sucked into a black hole", "the stuckness feeling", "feeling stuck not being stuck", "I feel stuck more than I am stuck"]
-tags: ["stuck", "unknown", "familiar", "avoidance", "abyss", "longing", "love", "fear"]
-sources: ["2024-03-18_I Am Scared Of The Unknown"]
+aliases: ["I feel stuck", "I am stuck", "I'm scared to take the next step", "the known is more familiar", "I'm scared of the unknown", "the unknown is terrifying", "I'm scared to take the risk", "I'm scared to make the next move", "I keep finding myself in this space", "I'm not happy with the state of things but I can't change it", "I'm in a holding pattern", "I'm in stasis", "I feel paralyzed", "I'm afraid of going into the unknown", "stuck in unhappiness", "stuck and unhappy", "stuck but scared to move", "the safer option is stuck", "I am scared of the unknown", "I'm scared of madness", "I'm scared I won't come out", "I'm scared to feel it", "I keep being in this place", "I feel like I'm in a mousetrap", "I feel like I can't move", "I feel helpless to change my situation", "I feel like I'll explode", "I feel like I'm going to get sucked into a black hole", "the stuckness feeling", "feeling stuck not being stuck", "I feel stuck more than I am stuck", "I'm identified as someone who is stuck", "stuckness is part of my identity"]
+tags: ["stuck", "unknown", "familiar", "avoidance", "abyss", "longing", "love", "fear", "identification"]
+sources: ["2024-03-18_I Am Scared Of The Unknown", "2024-06-21_How Do I Get Unstuck？ (Coaching Commentary)", "2024-06-21_How Do I Get Unstuck? (Coaching Session Breakdown)"]
 ---
 
 # I feel stuck / I'm scared of the unknown
@@ -44,6 +44,10 @@ The catastrophic story about what's on the other side is the active production o
 What is actually on the other side is usually peace, sensation, or — most often — love. See [[peace-is-what-we-resist-the-most]] and [[what-were-avoiding-is-usually-love]]. The catastrophic story is the cover for what's actually being avoided, which is often a form of contact (with self, with feeling, with longing, with love) that would dissolve the identity that has been doing the avoiding.
 
 Also operating: the person is treating the felt sense of stuckness as if it were factual reality. See [[treating-felt-state-as-factual-reality]]. "I am stuck" is a feeling. The person's actual life has been moving. The first move is to surface this distinction so the work can be done on the feeling rather than on the fictional fact.
+
+A further layer Joe hears from the way the person presents: the "stuck" report is often an old story still being told. The person may have been stuck two years ago in a way they aren't now, but the story has remained current in the telling. The very fact that the person is in a coaching session — taking action, taking a risk, seeking change — is evidence that the unstuck-capacity is operational. See [[dont-believe-the-stories-you-tell-yourself]] and [[awareness-of-pattern-is-halfway-through]]. The person who can articulate "I am stuck in this way" as a coherent problem has already separated from the stuckness enough to do the work; the consciousness is there even when the words are still in the old story.
+
+Joe also hears the stuckness as primarily a felt phenomenon, not a planning problem. The standard relationship to stuckness is to try to figure it out. The principle [[emotional-movement-unsticks-stuckness]] describes why this fails. The stuckness lives in the emotional layer; cognitive activity on it tends to make it stickier. The coaching has to move to the felt layer to do its work.
 
 ## What Joe Looks For (Reads)
 
@@ -91,6 +95,14 @@ He does not reassure them that the abyss isn't real. The abyss is real as felt m
 
 He does not push past the calibration. When the person says "I want control, I want to taper this to my comfort level," Joe meets the request directly. "Great. You can do that." The honoring of the calibration is part of the work; it converts the person from being-done-to into being-the-one-doing-it.
 
+## After the Breakthrough
+
+A specific phase that follows once the entry has happened and the system has discovered the territory is not what it feared: the natural integration arc. Relief and laughter arrive first ("that was it?"), often with the recognition that the avoidance has been running for years. Then, sometimes immediately and sometimes over the following days, the person starts to slide into self-attack about not having seen this sooner. The slide is the moment for the [[its-a-human-thing-redirect]] move; declining to let the integration get derailed by the new pattern of self-blame about the old pattern. Then, often days or weeks later, grief arrives for the time the avoidance cost. The grief is not pathological; it is the system mourning the identity that has just left. See [[the-natural-integration-arc-after-breakthrough]].
+
+The coach who knows this arc can describe it to the person before it happens, so they can recognize each phase as it arrives rather than interpreting the later phases as evidence that the breakthrough did not work.
+
+A related structural finding: the stuckness was the felt safety of the identification. The person was "identified as someone who doesn't take risks, who feels stuck." See [[familiar-over-safe]] for the "safe where we're identified" extension. The grief in the integration arc is partly the loosening of that identification.
+
 ## Related Concerns
 
 - [[i-feel-trapped]]: closely related, but distinguished by the felt-vs-actual frame. This concern surfaces when the person is in their felt sense of stuckness; the trapped concern surfaces when agency is more globally located outside the self.
@@ -107,3 +119,4 @@ When this is the deeper layer, the coaching path moves through the surface stuck
 ## Sources
 
 - 2024-03-18_I Am Scared Of The Unknown (the full live session: separating felt from actual, amplifying the stuckness, entering the black hole, finding love underneath, the calibration permission, the not-controlling-love teaching)
+- 2024-06-21_How Do I Get Unstuck? (Coaching Commentary) — the reflective commentary on the same session, surfacing what Joe was reading and why; the framing of the stuck-story as an "old story we used to have" being told as current fact; the structural diagnostic that coming to a coaching session is itself evidence of unstuckness; the principle that "stuck is often like stuck in your head" requiring emotional rather than cognitive movement; the post-session formulation that the avoided thing is the direct path to freedom
