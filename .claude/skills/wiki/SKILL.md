@@ -169,6 +169,7 @@ The autonomous work loop command. Run `./wiki.sh next` to determine the highest-
 ### `/wiki status`
 
 Read `meta/wiki/index.md`. Show:
+- **Pending user requests** (from `meta/wiki/requests/`) — show these first, they require human action
 - Active goals and their completion state
 - How many experiments are pending, in-progress, complete
 - How many research items are pending, in-progress, complete

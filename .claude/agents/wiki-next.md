@@ -27,6 +27,26 @@ If your work reveals the need for a new goal (not just sub-experiments or resear
 2. Create the goal with its research/experiments, drawing on playbook guidance where it's useful.
 3. Stop work on that goal. Use the Agent tool to spawn a `wiki-audit` agent to audit it in a fresh context: `prompt: "Audit goal G-XXX"`. The audit will be picked up by the next wiki-next cycle.
 
+## User requests
+
+If you encounter a blocker that only the user can resolve (API key needed, account to fund, external access to grant, a decision only they can make), create a request page at `meta/wiki/requests/<id>.md`:
+
+```yaml
+---
+type: request
+id: REQ-001
+status: pending | resolved
+parent_goal: G-XXX
+created: YYYY-MM-DD
+---
+```
+
+The page should contain: what's needed, why it's needed, and what's blocked without it. Keep it short. Other work items can `depends_on` the request ID.
+
+Do not create requests speculatively during planning. Only create one when you hit an actual blocker mid-execution.
+
+You cannot resolve requests yourself — skip them and work on other items.
+
 ## Standard flow
 
 ### 1. Build context before doing anything
