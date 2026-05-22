@@ -4,7 +4,7 @@ id: i-cant-find-love
 title: "I can't find love / I want to find the right person / Why isn't it working out?"
 aliases: ["I can't find love", "I want to find the right person", "I'm looking for love", "I want to find love", "I'm searching for the right partner", "why isn't it working out", "the spark never happens", "I've been on a thousand dates", "I keep going on dates and nothing clicks", "I'm always single", "I keep meeting people but it never works", "they're never quite right", "I'm having trouble finding a partner", "where is my person", "when will I meet the right person", "I'm tired of dating", "I'm a great catch and I'm still single", "I have everything together but I can't find a partner", "I'm fifty and I haven't met the one", "all my friends are partnered and I'm not", "looking for love presenting", "I can't seem to manifest a partner", "I keep being attracted to the wrong people", "the dating numbers game"]
 tags: ["relationships", "dating", "partnership", "loneliness", "search", "concern"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
 ---
 
 # I can't find love / I want to find the right person
@@ -31,6 +31,7 @@ The variants this concern shows up in:
 - The "almost" version: chemistry happens, but the other person isn't into them.
 - The "wrong type" version: they keep being attracted to emotionally or physically unavailable people. See [[i-keep-chasing-emotionally-unavailable-people]] for this variant when the pattern has become recognizable to the person.
 - The "I'm not enough" version: the person attributes the absence to not being pretty enough, rich enough, accomplished enough, or otherwise lovable enough.
+- The "if-I-am-X-enough" version: the person has internalized a specific conditional formula -- "if I am put together and attractive enough, then I will be in a relationship." The formula has usually been narrativized rather than examined. The person can articulate it clearly when asked. Specific phrasing from a client: "If I am put together and attractive enough, then I will be in a relationship. I will have this thing that I really want. And I have... this narrative of being better so that someone will love me that I want to unpack with you." This is the same machinery as the "I'm not enough" version, but with the conditional made explicit. The work is to surface the never-ending nature of the standard.
 - The "checklist" version: the person has a list of six things their partner must have, and explains the absence by saying nobody with those six things has shown up.
 
 ## Detection Cues
@@ -77,7 +78,9 @@ The same presenting concern can go in different directions based on which form t
 
 - **If the person has a "checklist" of partner attributes:** the checklist is itself a structure that keeps love at a distance. The person almost never ends up with the items on the list when love finally arrives. See [[the-partner-checklist-doesnt-survive-the-actual-relationship]].
 
-- **If the person is in the "I'm not enough" frame:** the work is the self-relationship, not the external attribute. Whatever the person thinks they need to be (pretty, rich, accomplished) to be lovable is what they think they have to be to love themselves -- which never works regardless of the achievement. See [[whatever-you-think-you-need-to-be-lovable-is-self-rejection]].
+- **If the person is in the "I'm not enough" frame:** the work is the self-relationship, not the external attribute. Whatever the person thinks they need to be (pretty, rich, accomplished) to be lovable is what they think they have to be to love themselves -- which never works regardless of the achievement. See [[whatever-you-think-you-need-to-be-lovable-is-self-rejection]]. If the client holds a religious or ethical framework that says love is unconditional, [[mirror-the-clients-own-framework-back]] is often the entry move -- the framework already contains the principle that would dissolve the gating belief, and the client has been exempting themselves from it.
+
+- **If the person can articulate the not-enough belief and intellectually wants it gone but it has not moved:** the belief is doing structural work the conscious mind has not seen. The next move is to surface what the belief is protecting. See [[what-do-you-lose-if-this-belief-goes-away]]. Often the protection is control -- the not-enoughness preserves the sense that the situation is on me to fix. See [[loss-of-control-and-loss-of-self-are-the-same]].
 
 - **If the person describes a parental pattern they did not want to repeat:** the avoidance of partnership may be a refusal to repeat the parental version of love. Whatever the parents' love looked like is wired as "love" in the body, and the body is staying away from anything resembling that. The work is to surface the inherited definition. See [[love-misconceptions-inherited-from-childhood]] and [[childhood-imprinting]].
 
@@ -103,8 +106,9 @@ He does not push past the fear. The fear of losing oneself is real and was usual
 
 5. **Move from "looking for love" to "being love."** The intention shift is operational. The work becomes learning to receive love, learning to love yourself, learning to be loving, and untying whatever was wired with love that no longer serves. See [[from-looking-for-love-to-being-love]].
 
-6. **The partner usually shows up.** When the work has been done, the partner appears reliably. The partner is rarely the one on the checklist. The arrival is structural -- the body is no longer producing the unavailability -- not magical.
+6. **The partner usually shows up.** When the work has been done, the partner appears reliably. The partner is rarely the one on the checklist. The arrival is structural -- the body is no longer producing the unavailability -- not magical. The structural mechanism is named in [[love-arrives-when-youre-not-scared-of-losing-yourself]]: love does not come into our lives when we are scared of losing ourselves; when the fear softens, love arrives at the location of the dissolved controller.
 
 ## Sources
 
 - 2023-11-10_Finding a Romantic Partner
+- 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson) -- the "if I am put together enough" specific form of the not-enough conditional; the never-ending more pattern made explicit; the use of the client's own theological framework to mirror back the self-rejection; the explicit naming that "we don't find the right person" and that love arrives at the place of dissolved control; the heartbreak-as-self-betrayal-antidote mechanism

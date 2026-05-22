@@ -2,10 +2,10 @@
 type: anti-pattern
 id: coaching-as-savior-role
 title: "Don't Coach to Save People (The Savior-Coach Pattern)"
-aliases: ["coaching as savior role", "coaching from the savior role", "don't coach to save people", "the savior coach", "the savior motivation for coaching", "I want to save people coaching", "saving people through coaching", "savior childhood role becomes coaching", "the rescuer coach", "rescuer pattern in coaching", "the emotional-caretaker-becomes-a-coach pattern", "the alcoholic-parent child becomes a coach", "I had to save my parent so now I save clients", "coaching from rescuer", "the savior dynamic in coaching"]
-tags: ["anti-pattern", "coaching", "savior", "victim-savior-dynamic", "rescuer", "childhood-imprinting", "caretaking"]
-related: ["fixing-people", "fear-triangle", "caretaking-prevents-the-bottom", "caring-vs-caretaking", "coaches-foundation-self-awareness", "training-coaches-and-facilitators", "coaching-as-surrogate-intimacy", "coaching-to-be-seen-as-wise", "childhood-imprinting", "self-reliance-pushes-people-away", "losing-yourself-in-others", "send-the-message-that-youre-whole"]
-sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice"]
+aliases: ["coaching as savior role", "coaching from the savior role", "don't coach to save people", "the savior coach", "the savior motivation for coaching", "I want to save people coaching", "saving people through coaching", "savior childhood role becomes coaching", "the rescuer coach", "rescuer pattern in coaching", "the emotional-caretaker-becomes-a-coach pattern", "the alcoholic-parent child becomes a coach", "I had to save my parent so now I save clients", "coaching from rescuer", "the savior dynamic in coaching", "the comedian-to-coach version of the savior pattern", "the kid-who-performed-becomes-a-coach pattern", "the performer-to-helper transition", "the still-trying-to-save-my-parents coach", "saving parents through clients"]
+tags: ["anti-pattern", "coaching", "savior", "victim-savior-dynamic", "rescuer", "childhood-imprinting", "caretaking", "performing-for-love"]
+related: ["fixing-people", "fear-triangle", "caretaking-prevents-the-bottom", "caring-vs-caretaking", "coaches-foundation-self-awareness", "training-coaches-and-facilitators", "coaching-as-surrogate-intimacy", "coaching-to-be-seen-as-wise", "childhood-imprinting", "self-reliance-pushes-people-away", "losing-yourself-in-others", "send-the-message-that-youre-whole", "performing-for-love-becomes-savior-career"]
+sources: ["2024-01-05_Coaching as a Practice", "2024-01-09_Coaching As A Practice", "2024-07-22_I Have To Do What Others Want (To Make Money)"]
 ---
 
 # Don't Coach to Save People (The Savior-Coach Pattern)
@@ -95,6 +95,28 @@ The subtle versions, which are harder to detect:
 
 The pattern can survive sophisticated framings. The diagnostic is whether the client is becoming more capable of doing the work on their own over time, or whether the client is becoming more reliant on the coach.
 
+## The Comedian-to-Coach Variant (Performance-as-Connection Becomes Saving)
+
+A broader form of this anti-pattern: the childhood role that becomes coaching is not always caretaking. It can be any strategy the kid used to get parental love. Performance is the most common variant — the kid who made the parents laugh, the kid who achieved, the kid who held the family together — and the adult version often becomes a coaching career.
+
+The mechanism: the kid found one specific way to connect with parents. The way worked. The kid kept using it. As an adult, the same person selects a career that is structurally a continuation of the strategy. The career feels like a calling. The deeper engine is the original connection-strategy, now monetized.
+
+Joe makes this connection directly with a guest in the *I Have To Do What Others Want* session. The guest was a comedian who became a coach. The childhood scene was making her parents laugh at the table — the only reliable way to get their love. Joe asks:
+
+"How much of the coaching is actually just you still trying to save your parents?" -- Joe Hudson, I Have To Do What Others Want
+
+The guest's recognition: "Probably same, like try to figure out how to connect with them."
+
+Joe's diagnostic: "That's what's getting in the way of you making money coaching."
+
+The savior pattern in this form does not require the parent to have been alcoholic, mentally ill, or in distress. The parent only needed to be hard to reach. The kid's strategy for reaching them — comedy, performance, achievement, helpfulness — becomes the career. The clients in the room are receiving help that is structurally addressed somewhere else.
+
+The financial symptom: the coaching does not pay. The work is meaningful. The clients feel met. The money does not come. The market reads what the career structurally is — a child's connection-strategy aimed at absent parents — and does not pay for that, because the work is not actually addressed to the client.
+
+See [[performing-for-love-becomes-savior-career]] for the pattern article that extends the savior frame in this direction. The savior anti-pattern is a specific case of the broader performance-becomes-career pattern; the savior coach is one of several types the same wiring can produce.
+
+The work for the comedian-coach is structurally the same as the work for the caretaker-coach: surface the original wiring, do the work on the wiring, then let the career be addressed to the clients in the room. Joe's session with this guest also brings in the [[chase-it-around-the-room]] / [[the-monster-wants-hugs-teaching]] frame for the shame that surfaces when the wiring is named.
+
 ## Upstream (What Leads Here)
 
 - Someone says they want to become a coach because they want to help people
@@ -108,3 +130,4 @@ The pattern can survive sophisticated framings. The diagnostic is whether the cl
 
 - 2024-01-05_Coaching as a Practice (the alcoholic-parent example; "a lot of folks come to coaching for that reason"; the harm-to-self and harm-to-other framing)
 - 2024-01-09_Coaching As A Practice (re-recording of the same conversation; same core material)
+- 2024-07-22_I Have To Do What Others Want (To Make Money) — the comedian-to-coach variant; "how much of the coaching is actually just you still trying to save your parents?"; the diagnostic for why the coaching is not making money; the comedy-as-connection-strategy that became the coaching-as-saving-strategy

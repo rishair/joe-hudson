@@ -4,7 +4,7 @@ id: you-think-they-cant-handle-it
 title: "You Think They Can't Handle It"
 aliases: ["they're too weak to hear it", "they can't take it", "I have to protect them from the truth", "if I say this they'll fly off the handle", "softening the truth", "they're too fragile"]
 tags: ["caretaking", "codependence", "diagnostic", "contempt", "respect"]
-sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)"]
+sources: ["2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2024-07-26_Codependency： 3 signs it's not love"]
 ---
 
 # You Think They Can't Handle It
@@ -64,6 +64,38 @@ The move is not to validate the trap. It is to surface the choice that the perso
 
 *(Source: Care over Caretaking)*
 
+## The Bidirectional Disempowerment
+
+A specific articulation of why this read matters so much: the framing "they can't handle it" does not just damage the relationship — it actively disempowers both people in a structural way.
+
+For the other person: by protecting them from your truth, you are communicating that their capacity to handle reality is too small. You are treating them as fragile. They feel it. They internalize it. Over time they actually become smaller than they would have been, because the people closest to them have been treating them as if they cannot tolerate adult exchange. The disempowerment is contagious and accumulates.
+
+For yourself: you are simultaneously asserting that your truth is too dangerous to be said. You are agreeing that your actual experience cannot be brought into the room. You are demoting your truth below the management of someone else's emotion. The repeated demotion produces its own disempowerment over time.
+
+"This is the way it looks. Oh, if I say that, they will get angry. If I say that, they will fall apart and then they'll just be worthless. Or if I say that, they'll be so disappointed and they'll get depressed. Anything like that basically says your emotions are more important than my truth. And what's even worse about it is that by protecting them from your emotions, you're telling them that they're not capable. You're telling them that they're not strong. You're telling them they need to be caretaken for them to be okay. So you're not only making them disempowered, you're also making yourself disempowered by saying that my truth can't be handled." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+The compound effect over years in a marriage: both partners feel less and less capable of acting, asserting, taking risks. Both feel like they cannot speak. Both eventually report a felt need to escape so that they can feel like themselves again.
+
+"It's why marriages where there's a heavy codependence, everybody starts feeling more and more disempowered until finally they're like, 'I just gotta get outta here. I need a place where I can feel like I'm myself again. Like I can make something happen in the world again, where I can have influence again. Because every time I come home, I feel like I can't speak my truth.'" -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+This is one of the cleanest accounts of how a non-abusive marriage can become unbearable: not through a single bad act, but through the slow mutual disempowerment of two people agreeing that neither of their truths can be spoken in the home. The exit the partners imagine — "get out of here so I can feel like myself" — is the body's report of what has been lost. The actual exit is closer to home: each person speaking their truth, gently and clearly, in the relationship.
+
+See [[loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor]] for the related felt cost on the partner of someone in this pattern.
+
+## The Move That Repairs It
+
+The instruction Joe gives for the exit is specific: speak your truth, gently and kindly, without softening the truth itself. The gentleness is the delivery; the truth is preserved.
+
+"And so the goal of this person was just to speak their truth. Whatever had to happen to speak their truth. Be gentle, be kind, but speak their truth. And they started to do it and the marriage started to recover. And then the other partner in the marriage started to do it. And then it even got faster and faster. And it literally only took like 3 or 4 months of everybody speaking their truth with gentleness that the marriage could recover because the codependence started falling apart." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+The reported timeline is striking and worth holding: months, not years. The recovery is fast once the truth starts being said, because the disempowering effect of withheld truth was the active cause of the deadness, and once the cause is removed the system recovers on its own.
+
+The reason the partners often agree to start speaking truth is also worth naming: it requires holding being seen as more important than preserving the marriage's current form.
+
+"And people started realizing in this marriage that 'my truth and being seen for who I am is more important than saving the marriage. It's more important than stopping the person from feeling upset because if they can't see me, they can't love me. And if they can't see me, they don't know if this marriage is right. So I have to show up to be myself.' And in that came the freedom that allowed them to love their marriage again." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+The paradox: the willingness to risk the marriage by speaking truth is what saves it. The unwillingness, dressed up as protecting the marriage, is what was killing it. See [[say-the-thing-youre-not-saying]] and [[vulnerability]] for the practices that operationalize this.
+
 ## The Mirror Read
 
 The complement of this read: if the person frames themselves as the strong one who has to manage the weak one, the inverse question is whether they are also being framed as too fragile by someone else. People who treat others as fragile are often treated as fragile themselves by someone in their life. The asymmetry runs in both directions.
@@ -83,3 +115,4 @@ Joe sometimes uses humor or bluntness ("Ah, BS, you like it") to break the serio
 
 - 2021-06-18_Care over Caretaking -- Loving without Losing Yourself
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
+- 2024-07-26_Codependency: 3 signs it's not love -- the bidirectional disempowerment framing (you disempower them by protecting them and disempower yourself by demoting your truth); the marriage-recovery example that 3-4 months of gentle truth-speaking can repair a marriage that had gone heavy with codependence

@@ -4,7 +4,7 @@ id: dont-take-responsibility-for-anothers-happiness
 title: "Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)"
 aliases: ["nobody else is responsible for your happiness", "you can't make your partner happy", "don't take responsibility for happiness", "happiness is internal", "the responsibility-for-happiness principle", "stop trying to make them happy", "no one can make me happy", "responsibility for own happiness", "we're responsible for our own happiness"]
 tags: ["relationships", "happiness", "responsibility", "freedom", "autonomy", "boundaries", "codependence"]
-sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-03-01_What Blocks Your Love？", "2024-03-01_Love and Obligation", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
+sources: ["2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2024-03-01_What Blocks Your Love？", "2024-03-01_Love and Obligation", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-07-26_Codependency： 3 signs it's not love"]
 ---
 
 # Don't Take Responsibility for Another Person's Happiness (and Don't Give Yours Away)
@@ -123,6 +123,42 @@ If you are in a relationship and exhausted by the work of keeping your partner o
 
 Direct, plain, sometimes with weight. Joe is not gentle about this principle when someone is in deep about it -- not harsh either, but the principle is delivered with the firmness of a structural fact. The relief in the room when this lands is usually visible. People have been carrying weight they did not have to carry.
 
+## The Impossibility Frame: You Can't Even Control Your Own Emotional Experience
+
+A particularly direct framing of why the principle is structurally true, not just preferable: you cannot reliably control your own emotional experience, let alone someone else's. The whole project of managing another person's happiness assumes a level of control over emotional states that does not exist even for the person trying to control their own.
+
+"You can't make another person happy. You literally cannot control their emotional experience. Notice also that you probably can't even control your emotional experience 100%. We all have bad days and not like everybody's like, 'Cool, sign me up for 3 bad days in a row and then I'll have 2 good ones.' Like we cannot manage our own emotional experience and then you go and try to manage somebody else's?" -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+The reframe is structural and almost mathematical: the variable you are trying to control is not controllable by anyone, including the person whose variable it is. The strategy is doomed by the nature of the thing being managed, not by the level of skill or effort brought to it. The corollary: a person who keeps trying despite years of evidence that it does not work is not failing at a difficult task. They are succeeding at a task that does not exist.
+
+## The Felt Cost of Handing Over Your Happiness
+
+The principle has a specific somatic signature when the person has located their happiness in the partner's state: a sinking feeling, a sense of being trapped, the body recognition that the source of one's well-being is outside one's reach.
+
+"You think that your happiness is dependent on something that you can't control, which makes you feel totally disempowered. There's no way that you can feel good in a life where your happiness is out of your control 100% of the time." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+"It is that sinking feeling in the bottom of your tummy that says, 'Hey, I can't be happy because of somebody else.' It's a very disempowering feeling." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+The sinking feeling is the body reporting the structural problem. A nervous system designed to seek well-being is being told that well-being is located in a variable it cannot reach. The body cannot resolve this. The chronic low-grade dread is the residue of the impossible project.
+
+The implication for coaching: when a person reports chronic dread or trapped-ness inside a relationship that does not contain overt mistreatment, the question is often where the person has handed over their happiness. The felt sinking is the symptom; the handed-over locus is the structure.
+
+## The Parental Origin
+
+The wiring for outsourcing one's happiness usually begins in childhood. The child observed that their parents' mood determined the texture of the home, and they reasoned that getting the parents happy was the route to their own well-being. The lesson generalized: my happiness comes from making the person closest to me happy. The lesson does not hold up — even as a child, the parent's happiness did not actually produce the child's — but the strategy was installed before the falsification could register.
+
+"Typically the way we get that idea is because early on in life, we thought that our parents' happiness would translate into our happiness. And notice that it never did. We never really could control our parents' happiness either. And even if they were happy, it didn't particularly mean that we were happy. And it's the same thing in a marriage or in a relationship." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+The two falsifications worth surfacing for an adult still running the strategy:
+
+1. You could not actually control your parents' happiness. The data you used to install the strategy was misleading — when the home was warm, it was usually because of factors outside your control. You took credit for it as a child because that was the only theory available.
+
+2. Even when your parents were happy, it did not reliably produce your happiness. The whole project of routing happiness through someone else's state was never going to work, regardless of how skilled you got at producing the other state.
+
+The adult version of the strategy is the same strategy. The marriage is the parent. The partner's mood is the home's texture. The work is the same — make the partner happy so that the texture turns warm so that I can finally feel okay. The wiring is the same. The failure mode is the same. The exit is the same: locate your own well-being in your own state, not in the other person's.
+
+See [[you-cant-be-seen-when-youre-not-in-yourself]] for the related parental-origin teaching on managing others' reactions, and [[wanting-got-wired-to-unlovability]] for a parallel developmental wiring.
+
 ## The Adult-Acting-Like-a-Kid Compression
 
 In the 4-keys teaching, Joe gives the principle a particularly clean compression that names the structural cost of caretaking the partner's emotional state:
@@ -148,3 +184,4 @@ The resentment is built into the structure. The caretaker fails (because the pro
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the principle delivered as the third key in the [[4-keys-to-save-your-relationship]] framework; the adult-acting-like-a-kid compression; the bidirectional resentment mechanism; the wrong-move-vs-right-move contrast on responding to a partner's emotion)
+- 2024-07-26_Codependency: 3 signs it's not love (the impossibility framing — you can't even control your own emotional experience; the disempowerment-as-sinking-feeling somatic signature; the parental origin in childhood and the two falsifications that adults need to surface)

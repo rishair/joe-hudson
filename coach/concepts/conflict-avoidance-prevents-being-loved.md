@@ -5,7 +5,7 @@ title: "Conflict Avoidance Prevents Being Loved (You Cannot Be Loved For What Yo
 aliases: ["conflict avoidance prevents being loved", "you can't be loved for what you hide", "if you're conflict avoidant you can't be loved", "hiding from love through conflict avoidance", "scared of being loved drives conflict avoidance", "the truth-self gets the love", "if I'm not showing up in my truth nobody can love me", "the image gets the love not me", "the love-prevention mechanism of conflict avoidance", "scared of being seen and loved", "make the important thing something you have to earn", "push away what you most care about", "the important thing becomes something you have to earn", "earn the love-substitute to avoid being seen"]
 tags: ["conflict avoidance", "love", "being seen", "vulnerability", "authenticity", "hiding"]
 related: ["conflict-avoidance-prevents-healing", "shame-as-disconnection", "the-shame-avoidance-loop", "walking-on-eggshells", "vulnerability", "im-afraid-of-offending-people", "authenticity-reduces-shame", "what-we-fear-we-invite", "different-languages-of-love", "idea-of-self-vs-actual-self", "money-as-surrogate", "apologize-to-the-projected-object"]
-sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe"]
+sources: ["2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe", "2024-07-26_Codependency： 3 signs it's not love"]
 ---
 
 # Conflict Avoidance Prevents Being Loved
@@ -98,6 +98,30 @@ The pivot question, once this is seen: "What's really the most important thing i
 
 See [[apologize-to-the-projected-object]] for the move that completes this work. The apology to the substitute (money, in this transcript) clears the projection, and the actual priorities surface naturally.
 
+## The Codependence Framing: You Make It Hard For Them to Love You
+
+The same mechanism shows up in the language of codependence. The person who has decided they have to be a certain way to be loved is presenting a version, not themselves. The version is what gets loved. The actual person is not.
+
+"So if you have to present something to be loved, then they're loving what you are presenting. They're not actually loving you for who you are. And the thing about that is that it is crazy destructive. It is this feeling of, 'I can't be loved for who I am,' which really means that I'm not loving myself for who I am." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+A sharpening this framing adds: the conflict avoidance is not just preventing love. It is also making it actively harder for the partner to love you. The partner is reaching for someone who is not in the room. The reach itself becomes exhausting. The lover does not have language for why loving you has become work, but they feel it.
+
+"So when you are presenting yourself, you're making it really difficult for the other person to love you. And that is part of the thing of codependence. It's that when you are codependent, it makes it really hard for the other person to love you." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+This is the relational cost of the self-sealing mechanism, named from the partner's side rather than the avoider's side. See [[loving-someone-who-doesnt-love-themselves-is-like-dragging-an-anchor]] for the felt experience of being the lover of someone in this configuration.
+
+The chain that makes the codependent version of conflict avoidance hard to see from inside it:
+
+1. "I have to be a certain way to be loved" (the inherited belief)
+2. So I present that way (the strategy)
+3. So the love that arrives is for the presentation, not me (the structural consequence)
+4. So I do not feel loved (the felt experience)
+5. So I conclude I have not yet performed the right way (the wrong diagnosis)
+6. So I present harder (the doubling down)
+7. Meanwhile the partner is exhausted from loving the version of me that is not me (the relational cost, invisible from inside the loop)
+
+The corrective question that breaks the loop: "What if the people who love you only know the version you have been showing them, and the version they don't know is the version that could actually be loved?" The question lands because, by this point in the person's life, the felt loneliness inside relationships has usually become its own data.
+
 ## Upstream (What Leads Here)
 
 - When someone is in a relationship that has gone flat and they cannot identify why
@@ -124,3 +148,4 @@ Quietly devastating when delivered well. Joe names this without dramatizing it. 
 
 - 2023-08-04_Addressing Conflict Avoidance Finding Connection In Disagreement
 - 2024-01-05_What's Bad About Money? Coaching with Joe — the substitution form of the same mechanism: making the actual most important thing into something you have to earn, with money serving as the substitute that absorbs the worry while keeping the actual important things at a distance
+- 2024-07-26_Codependency: 3 signs it's not love — the codependence framing of the same mechanism, with the added angle that presenting yourself does not just prevent love from reaching you, it also makes loving you actively hard for the partner

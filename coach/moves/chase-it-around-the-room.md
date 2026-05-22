@@ -2,9 +2,9 @@
 type: move
 id: chase-it-around-the-room
 title: "Chase It Around the Room"
-aliases: ["chasing the emotion", "I'm going to love you", "you can't get away from me", "pursue the avoidant feeling", "playful pursuit of the feeling", "loving the hiding feeling", "chase the demon around trying to hug it", "hug the demon", "the demon is just looking for hugs", "chase the demon trying to hug it", "ugly dragon becomes teddy bear", "the dragon becomes a teddy bear", "literally chase the demon around", "I told my kids the demon is looking for hugs", "the demon is looking for hugs", "chase the inner critic with love", "chase the demon with hugs", "hug the inner demon"]
-tags: ["moves", "love", "feeling", "play", "shame", "welcoming", "demon", "inner-critic", "voice-in-the-head"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2024-04-01_How Do I Feel Financially Safe?"]
+aliases: ["chasing the emotion", "I'm going to love you", "you can't get away from me", "pursue the avoidant feeling", "playful pursuit of the feeling", "loving the hiding feeling", "chase the demon around trying to hug it", "hug the demon", "the demon is just looking for hugs", "chase the demon trying to hug it", "ugly dragon becomes teddy bear", "the dragon becomes a teddy bear", "literally chase the demon around", "I told my kids the demon is looking for hugs", "the demon is looking for hugs", "chase the inner critic with love", "chase the demon with hugs", "hug the inner demon", "the monster wants hugs", "shame is your monster and you learned to hug it", "hug the monster", "the monster phase teaching", "monsters under the bed want hugs", "the daughter's monster as the origin of the demon-hug teaching"]
+tags: ["moves", "love", "feeling", "play", "shame", "welcoming", "demon", "inner-critic", "voice-in-the-head", "monster", "parenting"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2024-04-01_How Do I Feel Financially Safe?", "2024-07-22_I Have To Do What Others Want (To Make Money)"]
 ---
 
 # Chase It Around the Room
@@ -42,6 +42,18 @@ The move borrows from how love actually works with children in shame. When a chi
 The teaching extends back to how Joe taught his own kids: the figure you call a demon is just looking for hugs. The frame inverts the entire relationship with the internal critic-figure. The thing the person has been trying to defeat is not an enemy; it is a small frightened thing seeking contact. The fight kept producing more demon. The chase-with-hugs produces a teddy bear.
 
 "I want to tell you what I told my kids when they were 5 years old, that the demon is just looking for hugs." -- Joe Hudson, How Do I Feel Financially Safe?
+
+## The Monster-Wants-Hugs Origin (Joe's Daughter)
+
+The instruction has a specific parental origin Joe references when teaching this move. When Joe's daughter was young, she went through the monster-under-the-bed phase. The parental response Joe and his family chose was not to argue the monster away but to teach her that the monster wanted hugs. The daughter hugged the monster, and the monster phase resolved.
+
+"When my daughter was young, she had — there, you know, she went through the monster phase. There was a monster and I would tell her, oh, you know what monsters really want? They really want hugs. And so she would like hug the monster." -- Joe Hudson, I Have To Do What Others Want
+
+The adult application is the same instruction applied to internal figures that have been treated as enemies:
+
+"Shame is your monster. It's as real as the monster under my daughter's bed. And you just learned how to hug it." -- Joe Hudson, I Have To Do What Others Want
+
+See [[the-monster-wants-hugs-teaching]] for the full frame as Joe uses it as a closing-frame in coaching sessions. The chase-it-around-the-room move is the operational form (what to do when the feeling keeps slipping away); the monster-wants-hugs is the underlying frame (what kind of thing the feeling actually is).
 
 ## Dialogue Examples
 
@@ -97,8 +109,10 @@ Playful, warm, light. There is humor in the instruction. The line "I know that s
 - [[resistance]]: chasing the resistance with love rather than trying to defeat it.
 - [[voice-as-care]]: the conceptual frame for why the internal demon is hug-seeking rather than enemy. The demon-as-hug-seeker is the embodied form of "the voice is love with bad strategies."
 - [[dont-fight-the-voice]]: the anti-pattern this move replaces. The fight is what kept the demon a demon.
+- [[the-monster-wants-hugs-teaching]]: the closing frame Joe uses after the chase has done its work, drawing the explicit line from his daughter's monster phase to the adult work.
 
 ## Sources
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett) -- the original instruction with shame
 - 2024-04-01_How Do I Feel Financially Safe? -- the application to an internal demon-figure that money had been functioning to protect against
+- 2024-07-22_I Have To Do What Others Want (To Make Money) -- the daughter's monster phase as the origin story; the adult application as the closing frame ("shame is your monster, you just learned how to hug it")

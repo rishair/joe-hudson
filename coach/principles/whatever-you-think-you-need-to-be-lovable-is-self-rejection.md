@@ -5,7 +5,7 @@ title: "Whatever You Think You Need to Be to Be Lovable Is What You Need to Be t
 aliases: ["whatever you think you need to be lovable is self-rejection", "what you think you need to be to be lovable", "what you think you need to be to love yourself", "the lovability requirements are self-rejection", "achieving the lovability condition never produces self-love", "the not-pretty-enough not-rich-enough not-successful-enough trap", "the conditions of self-love never work", "the perfect body doesn't make you love yourself", "the billion dollars doesn't make you love yourself", "external attainment is not the path to self-love", "the lovability gate"]
 tags: ["self-love", "lovability", "self-rejection", "criteria", "achievement", "principle"]
 related: ["i-cant-find-love", "push-pull-dynamics-in-dating", "the-partner-checklist-doesnt-survive-the-actual-relationship", "capacity-to-love-other-is-capacity-to-love-self", "love-misconceptions-inherited-from-childhood", "from-looking-for-love-to-being-love", "same-scarcity-story-regardless-of-wealth", "fear-of-losing-yourself-in-love"]
-sources: ["2023-11-10_Finding a Romantic Partner"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
 ---
 
 # Whatever You Think You Need to Be to Be Lovable Is What You Need to Be to Love Yourself (And Achieving It Never Works)
@@ -28,6 +28,23 @@ The lovability requirement is usually formed in childhood, often through a paren
 The mechanism is the same as [[love-misconceptions-inherited-from-childhood]]. The specific shape varies by what the early environment required. But once the requirement is installed, it operates as the criterion for both being-loved-by-others and being-loved-by-self.
 
 This is why the achievement does not deliver. The achievement was supposed to satisfy the criterion. But the criterion itself was the form of the self-rejection. Satisfying the criterion does not resolve the self-rejection; it shifts the criterion to something else. The person who acquires the body becomes preoccupied with status. The person who acquires the status becomes preoccupied with intelligence. The criterion moves because the criterion was never the point. The self-rejection was the point.
+
+## The Never-Ending More
+
+The criterion does not just shift. It also always moves further ahead than where the person is. Whatever standard the person reaches, the standard relocates beyond them. This is structurally what the gating belief requires: the gate must remain ahead, never behind, because once the person passes through the gate, the gate has done its job and is no longer needed.
+
+The exchange from a coaching session that captures the structure:
+
+- **Client:** the narrative in my brain is like more than what it is now.
+- **Joe:** Right. And my assumption is that's always been... my guess is you're more put together... than you were at 23... back then you had to be more and now you have to be more.
+- **Client:** There's a never-ending.
+- **Joe:** So there's, it's just always more moving, right?
+
+The "never-ending" the client names is the structure. The point of "more" is not a specific point. The point of "more" is to be ahead of wherever the client is. The criterion is not "be put together to this degree" -- the criterion is "be more put together than you currently are." Any current position will produce the same instruction.
+
+This is the same mechanism as [[no-finish-line]] applied to lovability specifically. The finish line is structurally ahead of the runner. Crossing what looked like the finish line reveals the finish line further ahead. The conscious mind reads this as "I am still not enough." The structure is "the gate is set to always be ahead."
+
+When this structure is visible, the work shifts from "achieve more" (the runner's strategy) to "stop running" (the noticing that the finish line is never going to arrive). The latter is the path to release. The former is the path to permanent exhaustion.
 
 ## The Walmart Test as Counter-Evidence
 
@@ -66,6 +83,24 @@ The work has two parts, both required:
 **2. Address the self-rejection directly.** The self-rejection has to be worked at the level where it lives. This is somatic and historical. The original imprint of conditional love has to be felt. The grief for what was missed has to be allowed. The self-love that was deferred has to be offered now, in the present, in the actual configuration the person is in. See [[love-yourself-the-way-you-always-wanted]] for a specific practice.
 
 The two parts are interactive. Stopping the acquisition strategy creates space for the self-rejection to surface. Addressing the self-rejection makes the acquisition strategy unnecessary. Done together, the gating belief dissolves and the lovability that was always available becomes felt.
+
+## The Framework-Mirror Diagnostic
+
+A specific diagnostic is available when the client holds a framework -- religious, philosophical, ethical -- that says love is unconditional or that worth is intrinsic. The diagnostic is to apply the framework's principle to the client.
+
+In a coaching session about exactly this gating belief, the client described a Christian framework: God loves people as they are; God does not require people to fix themselves to be loved. Joe's response: "everybody but you." The client was applying the framework universally while exempting herself. The framework she held already contained the principle that would dissolve her gating belief. She had not noticed that her treatment of herself contradicted what she believed about everyone else.
+
+This is the [[mirror-the-clients-own-framework-back]] move applied to this principle. The framework reveals the self-rejection because the self-rejection is the place where the framework is not being applied.
+
+Across clients, the same diagnostic works with any framework that contains a universal principle about worth or love:
+
+- The therapist who believes all clients deserve unconditional regard and rejects themselves for performing badly
+- The teacher who believes every student is whole and rejects themselves for not learning fast enough
+- The Buddhist who believes all beings have Buddha-nature and excludes themselves from the category
+- The egalitarian who believes everyone is equal and treats themselves as needing to earn equality
+- The therapist's-therapist who can see other people's worth and not their own
+
+The pattern is consistent: the framework excludes the self. The self-rejection is the operative exclusion clause that the framework's stated content does not authorize. The diagnostic surfaces the exclusion.
 
 ## The Connection to Partnership
 
@@ -107,6 +142,10 @@ It does not mean lovability is fully internal. Other people's responses are not 
 - Toward [[the-partner-checklist-doesnt-survive-the-actual-relationship]]: the projected form
 - Toward [[same-scarcity-story-regardless-of-wealth]]: the structurally identical pattern in the scarcity domain
 - Toward [[love-yourself-the-way-you-always-wanted]]: the specific practice for the self-love work
+- Toward [[mirror-the-clients-own-framework-back]] when the client holds a framework that exempts them and the framework can be turned into the diagnostic instrument
+- Toward [[what-do-you-lose-if-this-belief-goes-away]] when the not-enoughness story persists and the next move is to surface the protection it has been providing
+- Toward [[loss-of-control-and-loss-of-self-are-the-same]] when the protection turns out to be control
+- Toward [[love-arrives-when-youre-not-scared-of-losing-yourself]] when the work moves from the lovability gating belief to the structural mechanism by which partnership has been kept at bay
 - Toward the historical work on the conditional love of the original environment
 
 ## Tone

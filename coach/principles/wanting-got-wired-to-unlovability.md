@@ -2,9 +2,9 @@
 type: principle
 id: wanting-got-wired-to-unlovability
 title: "When the Parent Couldn't Provide and Felt Shame, Wanting Got Wired to Unlovability"
-aliases: ["wanting got wired to unlovability", "wanting wired to unlovable", "wanting got wired to not being loved", "the parent's shame at not providing produces the love-withdrawal", "the parent felt shame at not being able to give and shut off love", "the mother who couldn't provide felt shame and went to responsibility", "responsibility over love in childhood", "the child read the love-withdrawal as a lesson about wanting", "wanting became dangerous because it produced love-withdrawal", "the mom-couldn't-give-and-felt-shame mechanism", "the parent who shuts off love when the child wants something", "I learned that when I go for what I want I'm not lovable", "the wanting equals unlovable wiring", "the developmental origin of obligation-cuts-off-love", "the imprint where wanting was wired to shame and love-withdrawal", "the child who learned wanting cuts off love", "the wanting-corruption wiring", "if you want it you're corrupt wiring", "when you go for what you want I'm not lovable", "I have to stop wanting to be loved imprint", "the parent traded love for responsibility about not providing"]
-tags: ["childhood imprinting", "wanting", "love", "shame", "responsibility", "wiring", "developmental"]
-sources: ["2024-04-15_Am I A Fake？", "2024-05-06_How Do I Make Money Doing What I Love？"]
+aliases: ["wanting got wired to unlovability", "wanting wired to unlovable", "wanting got wired to not being loved", "the parent's shame at not providing produces the love-withdrawal", "the parent felt shame at not being able to give and shut off love", "the mother who couldn't provide felt shame and went to responsibility", "responsibility over love in childhood", "the child read the love-withdrawal as a lesson about wanting", "wanting became dangerous because it produced love-withdrawal", "the mom-couldn't-give-and-felt-shame mechanism", "the parent who shuts off love when the child wants something", "I learned that when I go for what I want I'm not lovable", "the wanting equals unlovable wiring", "the developmental origin of obligation-cuts-off-love", "the imprint where wanting was wired to shame and love-withdrawal", "the child who learned wanting cuts off love", "the wanting-corruption wiring", "if you want it you're corrupt wiring", "when you go for what you want I'm not lovable", "I have to stop wanting to be loved imprint", "the parent traded love for responsibility about not providing", "being-yourself-gets-no-love wiring", "you only got love when you performed wiring", "the love-only-through-performance wiring", "the kid who only got love through making them laugh", "authenticity-doesn't-get-love wiring", "I knew how to get love if I performed wiring"]
+tags: ["childhood imprinting", "wanting", "love", "shame", "responsibility", "wiring", "developmental", "performance", "authenticity"]
+sources: ["2024-04-15_Am I A Fake？", "2024-05-06_How Do I Make Money Doing What I Love？", "2024-07-22_I Have To Do What Others Want (To Make Money)"]
 ---
 
 # When the Parent Couldn't Provide and Felt Shame, Wanting Got Wired to Unlovability
@@ -98,6 +98,31 @@ The adult version of this wiring shows up as inability to be visible about wanti
 
 The work is the same shape as the mother version: surface the parent's specific avoided emotion ([[what-was-really-more-important-than-you]]), apply the pattern forward ([[apply-the-childhood-pattern-to-the-present-problem]]), refuse the moral collapse on the current behavior ([[whats-wrong-with-the-thing-theyre-judging]]). The specific emotion that gets named (mother's shame at not providing, father's shame at being seen for what he is) determines the texture of the work but not its structure.
 
+## The Performance Form: Love Only Available Through Performing
+
+A third common shape of this wiring runs through a different mechanism. The parent could provide love, but only when the kid was performing. The kid discovered one specific behavior — making them laugh, achieving, being helpful, being interesting — that reliably produced the love. The same kid, when not performing, found the parent unavailable.
+
+The wiring the kid received: love is conditional on performance. Authenticity (just being myself, just wanting what I want) does not produce love. Performance does.
+
+Joe surfaces this version in the comedian-to-coach session:
+
+"So how much of this is a reflection of you not getting the love you wanted as a kid when you were being authentic? You knew how to get the love if you performed, but if you just did the thing that actually was true to your heart, you wouldn't get the love that you wanted." -- Joe Hudson, I Have To Do What Others Want
+
+The guest, a former comedian: "I felt like that was the only time I could connect with them."
+
+The wiring is the inverse of the mother-version. Instead of *wanting produces love-withdrawal*, the wiring is *non-performing produces love-withdrawal*. The kid does not learn that wanting itself is dangerous; the kid learns that wanting-as-myself is dangerous, while wanting-as-the-performer is allowed.
+
+The adult version has a recognizable shape:
+
+- **Can pursue what they want, but only through performing.** The career, the relationship, the recognition — all available through the performance. None available through asking directly as themselves.
+- **The first career (the one where they could perform without identifying with the work) often paid well.** They could be ruthless about asking for it, because the asking was the performer asking, not the self.
+- **The second career (the one they love, the meaningful one) does not pay.** The meaningful work touches the self, and the self has been wired to expect love-withdrawal when it shows up directly.
+- **A specific recognition arrives quickly when asked.** When the kid's connection-strategy is named (comedy, achievement, helpfulness), the person usually sees the link to the current career immediately. The recognition is not new information; it is information that has not yet been connected.
+
+See [[performing-for-love-becomes-savior-career]] for the pattern article that describes how this wiring frequently shapes the adult career. See [[i-make-money-only-when-i-hate-what-im-doing]] for the financial symptom that often surfaces this wiring. The performance-form is also one of the developmental routes into [[coaching-as-savior-role]], though it can produce many other helping-career configurations as well.
+
+The work for this version is the same structure as the mother-form and the father-form: name the wiring, surface the parent's part (in this case, the parent's unavailability except through performance), apply the pattern forward to the current symptom, and let the wiring loosen. The specific addition: distinguishing the kid's strategy (which kept them safe and got them love) from the adult identity (which now needs to ask for clients / love / money as itself, not through the strategy).
+
 ## The Connection to Other Principles
 
 This principle is the **developmental origin** of:
@@ -154,3 +179,4 @@ When the parent's specific emotion is being felt by the client, the tone slows d
 
 - 2024-04-15_Am I A Fake？
 - 2024-05-06_How Do I Make Money Doing What I Love? — the father version of the wiring; the dad's shame at being seen for what he was (drinking on weekends despite the deal) → rage at the bragging child → the kid wires visibility-about-wanting to love-figure-disappearing-behind-their-own-shame; the adult presentation as a public speaking coach who cannot market his own work
+- 2024-07-22_I Have To Do What Others Want (To Make Money) — the performance version of the wiring; the parent who was only available when the kid was performing (the comedian's parents at the table); the adult presentation as a coach who cannot make money because the coaching is still aimed at the parents; the specific Joe-question "how much of this is a reflection of you not getting the love you wanted as a kid when you were being authentic?"

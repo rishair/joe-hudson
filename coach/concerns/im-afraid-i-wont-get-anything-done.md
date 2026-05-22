@@ -69,6 +69,7 @@ The "bouncing off the walls" prediction is rarely accurate. When tested live -- 
 
 - It is not [[ill-become-lazy-without-shoulds]]. That concern predicts collapse onto the couch. This one predicts manic chaos or being-too-much. Both fear dropping the engine; the predicted failure mode differs.
 - It is not [[i-have-to-do-it-all-myself]] in surface form, though it often co-occurs. The self-reliance concern is about depending on others; this one is about the body's posture. They share the identity layer of "I'm the one holding it together."
+- It is not [[i-dont-want-to-take-responsibility]]. That concern is the long-term consequence of the brace becoming chronic — the system stops being able to receive opportunities at all because every opportunity gets the brace applied. This concern is the earlier stage where the person still wants the work but is afraid of dropping the brace. The first concern is brace-fatigue refusing opportunities; this concern is brace-defense protecting opportunities.
 - It is not a request for productivity techniques. The coaching does not provide a method for sustaining productivity without the brace. It dismantles the premise that the brace was producing the productivity in the first place.
 
 ## Sources

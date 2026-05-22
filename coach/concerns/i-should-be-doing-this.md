@@ -82,6 +82,7 @@ In the relationship/can't-finish variant, the underlying mechanism is more speci
 
 - [[i-need-to-improve-myself]]: the should language is often the surface; the improvement project is the structure underneath.
 - [[ill-become-lazy-without-shoulds]]: the fear that blocks releasing the should.
+- [[i-dont-want-to-take-responsibility]]: the inverse presenting face of the same composure pattern. That concern is "I'm doing it and I'm exhausted"; this concern is "I should and I'm not doing it." Same underlying introject, opposite compliance state.
 
 ## Sources
 

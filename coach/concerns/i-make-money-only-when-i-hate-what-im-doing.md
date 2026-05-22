@@ -2,9 +2,9 @@
 type: concern
 id: i-make-money-only-when-i-hate-what-im-doing
 title: "I make money when I hate what I'm doing / I can't make money doing what I love"
-aliases: ["how do I make money doing what I love", "when I love what I'm doing I don't make any money", "when I hate what I'm doing I make lots of money", "I can't make money doing what I love", "the love-money trade-off", "the love-it-or-earn-it concern", "the do-what-you-love-be-broke pattern", "I love this work but the cash flow", "I'm a coach and can't get clients", "I'm doing my soul work and starving", "the meaningful work doesn't pay concern", "the calling-vs-money trap", "doing what I love but no clients", "I left the corporate job and now I'm struggling", "the passion-doesn't-pay belief", "the love-and-money split", "the love-money inverse pattern", "loving the work and starving", "I'm now a coach and it's a bit of a struggle", "no one's hiring me, no one's buying", "the meaningful-work cash flow problem", "the I-quit-the-soul-killing-job-and-can't-get-traction concern"]
-tags: ["money", "shame", "love", "work", "marketing", "concerns", "obligation", "wanting", "shoulds"]
-sources: ["2024-05-06_How Do I Make Money Doing What I Love？"]
+aliases: ["how do I make money doing what I love", "when I love what I'm doing I don't make any money", "when I hate what I'm doing I make lots of money", "I can't make money doing what I love", "the love-money trade-off", "the love-it-or-earn-it concern", "the do-what-you-love-be-broke pattern", "I love this work but the cash flow", "I'm a coach and can't get clients", "I'm doing my soul work and starving", "the meaningful work doesn't pay concern", "the calling-vs-money trap", "doing what I love but no clients", "I left the corporate job and now I'm struggling", "the passion-doesn't-pay belief", "the love-and-money split", "the love-money inverse pattern", "loving the work and starving", "I'm now a coach and it's a bit of a struggle", "no one's hiring me, no one's buying", "the meaningful-work cash flow problem", "the I-quit-the-soul-killing-job-and-can't-get-traction concern", "I can get money but only if I'm not being myself", "I can only make money if I'm not authentic", "the I-have-to-do-what-others-want-to-make-money concern", "having to do what others want to make money", "the first career was easy this one isn't", "I can make money but not in the way I want", "I can make money but not being authentic", "the authenticity-vs-money trap"]
+tags: ["money", "shame", "love", "work", "marketing", "concerns", "obligation", "wanting", "shoulds", "authenticity"]
+sources: ["2024-05-06_How Do I Make Money Doing What I Love？", "2024-07-22_I Have To Do What Others Want (To Make Money)"]
 ---
 
 # I make money when I hate what I'm doing / I can't make money doing what I love
@@ -74,6 +74,20 @@ Joe will not validate the inverse-pattern story as if it were a real economic pr
 
 Joe will not engage the market frame as if it were the actual obstacle. The market is not what's blocking the cash flow. The shame about asking is.
 
+## The Authenticity-Specific Frame
+
+In some presentations, the inverse pattern is named precisely in terms of authenticity. The person can make money — they have done it before — but only by abandoning themselves. The current concern is not whether the work can pay. It is whether the work can pay while the person stays themselves.
+
+The form Joe surfaces this in one session: "I know I can get it, but I can't get it in the way that I want. Also kind of like, I know I can get it, but I can't get it if I'm being authentic and being myself." The first career paid because the person could ruthlessly self-abandon for it. The current career touches the self directly, and the self-abandonment that paid before is now precisely what cannot be done.
+
+This is the same inverse pattern, named with the precision the body actually feels. The shame is not about asking for money in the abstract. It is about asking for money while being seen as the person you actually are.
+
+## The Comedian-to-Coach Variant
+
+A specific common shape: the person was the kid who made the parents laugh / performed / achieved / held the family together. The career they now love is structurally a continuation of that childhood connection-strategy. The financial dysfunction is because the work is still aimed at the parents, not at the clients in the room. See [[performing-for-love-becomes-savior-career]] for the full pattern article, and [[comedian-to-coach-money-shame-session]] for the canonical illustration.
+
+The diagnostic Joe surfaces in this variant: "How much of the coaching is actually just you still trying to save your parents?" Once the recognition lands, the obstacle to making money has a specific name. The career is not the problem. The childhood wiring still aiming the career at absent parents is.
+
 ## The Inverse Form
 
 The same mechanism produces the opposite presentation: the person makes lots of money doing work they hate. See [[joes-pleasing-dad-money-story]] for the version where someone has been monetarily successful but the should is older than the work. The current concern is the post-pivot form: the person already saw through the old should, did the work, made the meaningful change — and discovered that the new arrangement reveals a deeper layer of the same wiring.
@@ -81,3 +95,4 @@ The same mechanism produces the opposite presentation: the person makes lots of 
 ## Sources
 
 - 2024-05-06_How Do I Make Money Doing What I Love? — the public speaking coach session; the dad-and-booze childhood imprint surfaced via "what was really more important than you"; the binary diagnostic "either you're a crappy coach or you're not marketing yourself"; the test "do you see that I'm ashamed of you"; the three-adjectives marketing question; the skill-transfer redirect ("if you know how to do public speaking, you know how to market yourself"); the closing "it's embarrassing / it's human" exchange
+- 2024-07-22_I Have To Do What Others Want (To Make Money) — the comedian-to-coach session; the authenticity-specific frame ("I can get it but not if I'm being authentic"); the connection from the kid's parental-connection-strategy (comedy) to the adult career (coaching); "that's what's getting in the way of you making money coaching"; the [[ask-whats-wrong-with-you-into-the-shame]] move applied to the underlying money shame; the [[the-monster-wants-hugs-teaching]] as the closing frame

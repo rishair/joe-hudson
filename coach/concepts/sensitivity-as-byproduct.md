@@ -116,6 +116,10 @@ Joe presents this as something he noticed almost in passing -- a benefit of the 
 - Toward [[emotional-fluidity]]: the parallel internal change.
 - Toward [[embrace-intensity]]: the practice that produces this byproduct.
 
+## Related Concept: Constitutional Sensitivity (Not the Same)
+
+A distinct case: some people are constitutionally born with an unusually sensitive perceptual and emotional system. They did not develop the sensitivity through embracing work. They were born with the gift and, because their environment could not hold the gift, they spent decades locking it down. For them, the work is not to develop sensitivity but to release the lockdown so the existing gift can come back online. See [[locked-down-sensitivity-is-the-gift]] for that principle. The two cases — sensitivity-as-byproduct (developed) and constitutional-sensitivity-released (always there, recovered) — produce similar adult capacities through different routes. Coaching has to distinguish them because the first is built by adding embracing; the second is built by subtracting suppression.
+
 ## Sources
 
 - 2021-10-08_Embracing Intensity - Emotion Series #2

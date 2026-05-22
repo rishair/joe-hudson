@@ -5,7 +5,7 @@ title: "The Two Forms of Losing Yourself in Love (Identity-Dissolution vs. Self-
 aliases: ["losing self in love two forms", "the two ways of losing yourself in love", "good losing self vs bad losing self", "identity dissolution vs codependency", "oneness vs self-abandonment", "the love-erodes-boundaries distinction", "the healthy and unhealthy losing of self", "love dissolving identity vs love dissolving self", "the two erosions in love", "spiritual dissolution vs codependent dissolution", "love as oneness vs love as monster-making", "the unity-type losing-self vs the codependent-type losing-self", "love rips away identity", "love rips away our identity", "love absorbs", "what love does to identity", "love is really fucking big", "the identity-dissolving function of love"]
 tags: ["love", "identity", "boundaries", "self", "codependency", "oneness", "distinction"]
 related: ["fear-of-losing-yourself-in-love", "heart-opening-needs-boundaries", "boundaries", "boundary-with-vs-boundary-against", "love-as-deep-welcoming", "i-cant-find-love", "push-pull-dynamics-in-dating", "you-dont-control-love", "what-were-avoiding-is-usually-love", "be-intimate-with-the-feeling"]
-sources: ["2023-11-10_Finding a Romantic Partner", "2024-03-18_I Am Scared Of The Unknown"]
+sources: ["2023-11-10_Finding a Romantic Partner", "2024-03-18_I Am Scared Of The Unknown", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
 ---
 
 # The Two Forms of Losing Yourself in Love
@@ -74,6 +74,37 @@ The result of the conflation: the body refuses both forms because it cannot tell
 
 The work is not to remove the fear of Form B. The fear of Form B is correct. The work is to develop the capacity to be in Form A without sliding into Form B. That capacity has a specific architecture.
 
+## Form A As Dissolution, Not Giving Away
+
+A second confusion the client often has about Form A is that the dissolution is a giving-away of self -- the self moves from one location (the person) to another (the partner, God, the world). This is wrong, and the wrongness matters for how the work proceeds.
+
+The exchange from a coaching session where the distinction came up:
+
+- **Client:** Oh, I don't like that. I don't want to give myself away that way.
+- **Joe:** Oddly, you're not giving yourself away. It's not a giving away.
+- **Client:** What is it?
+- **Joe:** Dissolution.
+
+The distinction: giving-away implies a recipient. The self is transferred. The self continues to exist, just in a different location. Dissolution has no recipient. The controller stops cohering. There is no self being transferred because there is no controller in the role of being-transferred.
+
+This is structurally important because the client who is afraid of giving themselves away can be reassured. Dissolution is not giving-away; their self is not going somewhere. But the reassurance does not eliminate the discomfort because dissolution is its own thing: the controller is not transferring, the controller is releasing.
+
+See [[loss-of-control-and-loss-of-self-are-the-same]] for the underlying mechanism. The controller is the self that is being preserved by the avoidance of Form A. Dissolution is the release of the controller. "Function happens, but the you in it isn't functioning" -- Joe Hudson, I've Done The Work. Why Am I Still Single. The function continues; the controller's claim to be doing the function stops.
+
+## Form A As Loving the World, Not Just the Beloved
+
+A property of Form A that the source session brings to the surface: the dissolution does not stay contained in the romantic relationship. When the client makes contact with love for God (or any larger framework), the love does not stay there. It extends to the world.
+
+"I'm trying to, um, if it's -- it feels like trying to catch a waterfall. It's just -- yeah, all the emotions. It's, it's all of that yearning for connection. It's not just with what it means to love God, is it? It means loving the world. And that's a fuck ton of shit to love, Joe." -- Client, I've Done The Work. Why Am I Still Single
+
+Joe confirms: "Yeah, it is."
+
+The structural fact: love does not have a defined scope. Love for God includes love for the world. Love for the partner includes love for the people connected to the partner, the contexts the partner lives in, the conditions of the partner's life. Form A's dissolution opens the love beyond its imagined container.
+
+This is part of why Form A is overwhelming. The client expected to be opening to one person and is instead opening to everything. The fear "I can't function like this" arrives at the recognition of the scale. The recognition is correct -- the love is genuinely that big -- and the recognition is what makes the dissolution feel intolerable for clients who have been managing love at a smaller scale.
+
+The work at this layer is not to manage the scale back down. The work is to develop the capacity to receive love at its actual scale. The overwhelm is the body's accurate response to making contact with the actual size of what is being met.
+
 ## What Distinguishes Form A from Form B: Boundaries
 
 The variable that makes Form A available and Form B not happen is the capacity for personal boundaries. This is paradoxical and central.
@@ -141,3 +172,4 @@ Careful. The distinction is subtle enough that delivering it too quickly will co
 
 - 2023-11-10_Finding a Romantic Partner
 - 2024-03-18_I Am Scared Of The Unknown (the direct statement that love rips away identity — "It will. That's what love does. It rips away our identity"; the "love is really fucking big" framing for the actual scale of what love does; the fear-of-absorption exchange that makes the structural fact explicit; the use of this distinction inside an intra-personal coaching context, not just relational — the same dynamic operates when a person is making intimate contact with their own longing/love)
+- 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson) (the dissolution-vs-giving-away distinction made explicit through a client's "I don't want to give myself away" objection and Joe's correction; the Form A property that love extends beyond the imagined container to the world; the "function happens, but the you in it isn't functioning" framing for what Form A operationally looks like)

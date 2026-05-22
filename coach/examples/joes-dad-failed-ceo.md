@@ -2,10 +2,10 @@
 type: example
 id: joes-dad-failed-ceo
 title: "Joe's Dad: The CEO Who Did Not Fail"
-aliases: ["the failed CEO story", "Joe's father fired as CEO", "Lumen Optics", "the dad who organized his life around a false belief", "the parent company shut us down story", "Joe's dad you didn't fail"]
-tags: ["example", "limiting beliefs", "false thought", "failure", "identity", "father"]
-related: ["three-kinds-of-limiting-beliefs", "limiting-belief", "epiphany-vs-transformation"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
+aliases: ["the failed CEO story", "Joe's father fired as CEO", "Lumen Optics", "the dad who organized his life around a false belief", "the parent company shut us down story", "Joe's dad you didn't fail", "the dad-as-CEO who concluded he failed", "Lumen Energy formerly Lumen Optics", "John Hudson CEO Lumen", "the $100 million breach of contract suit", "the company shelved because it was succeeding", "the cut-the-burn-rate from 300k to 10k story", "the 300 percent revenue increase father", "Joe's dad's alcoholism propelled by failure idea", "the eight or ninth grade family disruption"]
+tags: ["example", "limiting beliefs", "false thought", "failure", "identity", "father", "alcohol", "family", "depression"]
+related: ["three-kinds-of-limiting-beliefs", "limiting-belief", "epiphany-vs-transformation", "failure-is-an-idea", "iterative-mindset", "im-a-failure", "habenula", "fred-relapse-recovery-as-failure", "shame-drives-behavior"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs", "2024-07-19_Failure", "2024-07-19_How Reframing Failure Changes Your Life"]
 ---
 
 # Joe's Dad: The CEO Who Did Not Fail
@@ -35,6 +35,46 @@ Joe went back to his father:
 "Dad, you didn't fail. As a venture capitalist, I can say that the results you gave were good. I wouldn't have fired you. And this is the story."
 
 His father had to consider the fact that fifteen to twenty years of his existence had been organized around a belief that was inherently not true.
+
+## The Specific Numbers (From the 2024 Re-Telling)
+
+In the 2024 Failure episode, Joe added the specific operational numbers he had asked his dad for. The numbers make the wrongness of the failure verdict quantitatively concrete:
+
+- The company had been burning approximately $300,000 a month when Joe's father took over.
+- In less than two years, his father had turned the burn rate down to approximately $10,000 a month -- a roughly 97% reduction.
+- Revenue had increased by something like 300 to 400% over the same period.
+
+These are not the numbers of a failing CEO. These are the numbers a venture capitalist would point to as evidence of a successful turnaround. The parent company shut the subsidiary down because the trajectory was too threatening to their main manufacturing line, not because the subsidiary was failing.
+
+"Your whole life defined by a failure that didn't actually exist." -- Joe Hudson, Failure
+
+The specificity matters for the coaching application. Vague "your dad was actually successful" is one thing. The specific numbers -- 97% burn reduction, 3-4x revenue, eventual $100 million suit settlement -- are what made the false belief impossible to maintain when the facts arrived.
+
+## The Cost to the Family (From the 2024 Re-Telling)
+
+In the 2024 conversation, Joe added the family-system dimension that the original Limiting Beliefs telling did not emphasize.
+
+Joe's father's failure-verdict produced the heavy drinking. The heavy drinking, combined with the shame cycle of the verdict, produced anger that needed somewhere to go. It went to Joe.
+
+"That self-anger, that shame, that you failed, you fucked up, you da da da, how could you, you had it all and blah, blah, blah, blah. It had to go somewhere when, you know, so he yelled at me for an hour and a half over the dinner table every night. It was crazy." -- Joe Hudson, Failure
+
+Joe was around the 7th, 8th, or 9th grade when this started in earnest. He describes losing his father even more than he had already lost him. The man who had been a heavy drinker became someone the kid could not reach. The dinner table became the arena where the father's shame discharged onto the son.
+
+The kid's loss was the downstream consequence of the verdict. The father was not malicious. The father was running a self-anger he could not feel toward himself, so it leaked toward the closest available target. The structural pattern -- the failure-verdict produces self-anger, the self-anger goes elsewhere, the closest available person is the child -- is one Joe encounters repeatedly in coaching adults whose parents went through career or marriage collapses.
+
+This is also why the example matters as a counterfactual. Joe articulates it directly in the 2024 telling:
+
+"One, one idea of failure. It's fucking a phenomenal thing... If he had that thought process and he's like, I'm a successful CEO, like my life, his life, my sister, my mom's, all everybody's life would be different. One idea of failure." -- Joe Hudson, Failure
+
+The cost of the verdict was not just to the father. It was to the wife, to Joe, to Joe's sister. One idea, one frame, reorganizing four lives.
+
+## What This Story Says About the Failure-Verdict Mechanism
+
+The 2024 telling sets this example alongside [[fred-relapse-recovery-as-failure]] as twin demonstrations of how the failure verdict dismantles lives that were working. Both fathers were succeeding by every external measure. Both interpreted an event as failure. Both saw their families implode as the verdict's downstream consequence.
+
+The two examples together let Joe make the structural point with maximum force: this is not a small mechanism. This is a mechanism that can wreck families. The reframe of [[failure-is-an-idea]] is not a wellness tip. It is structural intervention on something that, when believed, costs lives.
+
+The father is the canonical case of a factually-wrong failure verdict. Fred's friend is the canonical case of a correctly-described event that the failure verdict was wrongly layered on. Both forms exist. Both produce the same cost. The reframe applies to both.
 
 ## The Point It Illustrates
 

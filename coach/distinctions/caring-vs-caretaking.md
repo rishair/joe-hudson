@@ -5,7 +5,7 @@ title: "Caring vs. Caretaking"
 aliases: ["care vs caretake", "being in support vs fixing", "supporting vs managing emotions", "caretaking pattern", "codependence vs care", "managing emotions vs supporting"]
 tags: ["empathy", "boundaries", "coaching", "leadership", "relationships", "savior", "codependence"]
 related: ["empathy", "empathy-vs-sympathy", "fixing-people", "impartiality", "losing-yourself-in-others", "fear-triangle", "love-as-deep-welcoming", "four-faces-of-love", "love-vs-nice", "resentment-as-caretaking-diagnostic", "softening-as-caring-diagnostic", "you-think-they-cant-handle-it", "rehearsing-how-to-say-it", "weaponized-not-caretaking", "what-is-truly-compassionate"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-12-26_Joe And His Daughter Discuss Fatherhood"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-26_Empower over Power — Master Class Series #8", "2021-04-09_Love over Defense — Master Class Series #9", "2021-06-18_Care over Caretaking - Loving without Losing Yourself", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Care Over Caretaking - Loving Without Losing Yourself (rebroadcast)", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2024-07-26_Codependency： 3 signs it's not love"]
 ---
 
 # Caring vs. Caretaking
@@ -228,6 +228,32 @@ The version of self-care that is in conflict with care for the other is shallow 
 
 The follow-up Joe asks when someone finally breaks through into their want: "And so what about that is not the most compassionate thing for the person who you've been caretaking?"
 
+## The Three Signs Compression
+
+A compressed teaching of the same distinction, calibrated for a short-form public teaching, frames the caretaking side as "three signs you're confusing codependence with love." The three signs are useful as quick diagnostics:
+
+1. **You think you have to be a certain way to get love.** The version of you that is performing for the love is the version that gets loved. The actual you is not in the room. See [[conflict-avoidance-prevents-being-loved]].
+2. **You're scared to tell your truth.** Your fear of their reaction has made your truth less important than the management of their state. See [[you-think-they-cant-handle-it]].
+3. **You think their happiness will lead to your happiness.** You have located the source of your well-being in a variable you cannot control. See [[dont-take-responsibility-for-anothers-happiness]].
+
+The three signs are not separate failures. They are three symptoms of one configuration: the person has decided that love is something to be earned through self-suppression, truth-suppression, and emotional management of the other. The exit from any of the three opens the others.
+
+"Codependence is not love. And we mistake it. We say, 'Oh, we're not loving unless we're taking care of the other person and trying to make them happy. We're not loving if we say something that hurts them.' But their hurt, it's not in our control. Their happiness is not in our control. Real love is loving yourself so that you can love another person fully." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+See [[capacity-to-love-other-is-capacity-to-love-self]] for the final teaching of the compression: the capacity to love the partner is the capacity to love yourself.
+
+## The Marriage That Recovered in 3-4 Months From Speaking Truth
+
+A specific case Joe references as the cleanest illustration of what happens when one partner exits the caretaking by speaking truth. The marriage had gone flat — described by Joe as "a library where the only thing people could read was the dictionary." The sex had gone away. Everything was dead. The caretaking was the architecture.
+
+The client's only goal: speak their truth, with gentleness, regardless of consequence. Within weeks the marriage started to recover. The partner began doing the same. The reported timeline for full recovery: three to four months.
+
+"And so the goal of this person was just to speak their truth. Whatever had to happen to speak their truth. Be gentle, be kind, but speak their truth. And they started to do it and the marriage started to recover. And then the other partner in the marriage started to do it. And then it even got faster and faster. And it literally only took like 3 or 4 months of everybody speaking their truth with gentleness that the marriage could recover because the codependence started falling apart." -- Joe Hudson, Codependency: 3 Signs It's Not Love
+
+The teaching for an AI coach: when a person presents the codependence-flattened marriage and asks how long the work takes, this case is the calibration point. Months, not years. The speed comes from the fact that the active cause of the deadness (the withheld truth, the managed states) is being removed, and the system recovers on its own once the cause is removed. The recovery is fast in proportion to how cleanly the truth is being said and how gentle the delivery is.
+
+The structural recognition the partners reach, that allows them to keep going even when the truth-telling feels risky: "If they can't see me, they can't love me. And if they can't see me, they don't know if this marriage is right. So I have to show up to be myself." Being seen is more important than preserving the marriage's current form, because the form is the thing that has been killing it.
+
 ## Upstream (What Leads Here)
 
 - When someone identifies as a helper or savior in their social group.
@@ -260,3 +286,4 @@ The follow-up Joe asks when someone finally breaks through into their want: "And
 - 2022-10-26_Care Over Caretaking -- Loving Without Losing Yourself (rebroadcast)
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood (the "Dad, I just need to be sad. You don't need to take care of that" moment from Esmé to Joe)
+- 2024-07-26_Codependency: 3 signs it's not love (the three-signs compression of the distinction; the marriage-recovery case where 3-4 months of gentle truth-speaking dissolved years of accumulated codependence; the library-where-the-only-thing-to-read-was-the-dictionary metaphor for the flattened marriage)

@@ -5,7 +5,7 @@ title: "The Heartbreak Underneath the Blockers Is the Love"
 aliases: ["heartbreak is the love", "the heartbreak is the love", "underneath the guilt is the love", "underneath the disgust is the love", "underneath the layers is heartbreak and heartbreak is the love", "the bottom of the descent is love", "the love you have for the parent you can't love", "the love underneath the guilt about cutting them off", "the love you have for the family member you separated from", "the heartbreak is what your love looks like here", "the love is the heartbreak that they couldn't be loved cleanly", "of-course-you-want-them-to-be-well love"]
 tags: ["love", "heartbreak", "blocker emotions", "family", "boundaries", "feeling sequence", "what is love"]
 related: ["heartbreak-as-capacity-expansion", "blocker-emotions", "love-as-deep-welcoming", "love-misconceptions-inherited-from-childhood", "negative-emotions-precede-positive", "feeling-the-unfelt-emotion", "i-feel-guilty-for-cutting-off-family", "if-you-couldnt-feel-this-whats-underneath"]
-sources: ["2024-02-22_How Do I Love My Mom？"]
+sources: ["2024-02-22_How Do I Love My Mom？", "2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson)"]
 ---
 
 # The Heartbreak Underneath the Blockers Is the Love
@@ -64,6 +64,27 @@ This concept is one specific application of the broader teaching in [[heartbreak
 
 The expansion mechanism is the same. The defended heart — the one that was being protected by the guilt-disgust-pity layers — is what gets broken open. What remains is more capable of welcoming. The welcoming first lands on the family member, who can now be loved across the necessary distance. Over time it extends elsewhere: to other relationships, to the self.
 
+## The Practice Instruction: Let Your Heart Break Every Time
+
+When this concept lands and the client recognizes that heartbreak is the love, the natural question is "what do I do with this?" Joe's answer is direct: keep letting it happen.
+
+The exchange from another session where this concept was being applied to self-love and to love of the world:
+
+- **Client:** I'm noticing the part of myself that wants to ask what to do next, and I predict that your response to that would be there is nothing to do.
+- **Joe:** I'd say let your heart break every time. Be overwhelmed by the love that you feel for the whole world and yourself. You want something to do? Do that.
+
+The practice is not a one-time arrival at the heartbreak. The practice is the ongoing willingness to let the heartbreak happen as it arises -- which it will, repeatedly, in different forms. The willingness is what builds the capacity that [[heartbreak-as-capacity-expansion]] describes.
+
+Operationally, this looks like:
+
+- Not bracing against the moment when love is felt
+- Not redirecting away from the heartbreak when it arrives
+- Not requiring a story to justify the heartbreak before allowing it
+- Not trying to make the heartbreak make sense before feeling it
+- Letting the heartbreak include the love it contains rather than trying to separate them
+
+The practice extends what was learned in a single moment of arrival into an ongoing posture. The arrival is the recognition. The practice is the willingness to keep arriving.
+
 ## The Compassion-of-the-Guts Pointer
 
 After the heartbreak lands and the love becomes visible, Joe sometimes offers a practice for taking the recognition further over time. The Greek word for compassion comes from a root meaning "of the guts." The instruction: find something that brings love into your heart easily (in the source session, the client's dog). Get in touch with that heart-feeling. Then let the feeling drop down into the gut — the place where the difficult material has been stored.
@@ -110,3 +131,4 @@ Joe delivers the "of course you want her to call up and say I'm sorry" line with
 ## Sources
 
 - 2024-02-22_How Do I Love My Mom？
+- 2024-08-02_I've Done The Work. Why Am I Still Single (Coaching with Joe Hudson) (the "let your heart break every time" practice instruction; the extension of the heartbreak-is-the-love concept beyond the estranged-family case to the love-of-self and love-of-world case; the recognition that the love opens to scale that the system finds overwhelming and the practice is to keep letting it open)

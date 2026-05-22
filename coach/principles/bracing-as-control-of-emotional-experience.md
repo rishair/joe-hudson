@@ -79,7 +79,9 @@ The instruction "stop bracing" misses this because it treats the brace as a beha
 - [[what-am-i-bracing-for]]: the take-home question that surfaces what the brace is controlling.
 - [[show-me-the-bracing-and-show-me-the-opposite]]: the live coaching demonstration that exposes the inversion.
 - [[bracing-hardens-identity-makes-you-needed]]: the identity-level layer of what the brace is controlling for.
+- [[composing-yourself-as-self-suppression]]: a specific lifelong form of bracing where the controlled emotional experience is the entire bodied self. The composing pattern is the chronic application of bracing as default state. The principle applies in full; the composing application adds the specific developmental origin (being told to compose) and the specific moves for releasing it.
 - [[im-afraid-i-wont-get-anything-done]]: the concern this principle most directly addresses.
+- [[i-dont-want-to-take-responsibility]]: the related concern where the brace has been chronic enough that the system is refusing further opportunities to brace against them.
 - [[ill-become-lazy-without-shoulds]]: the parallel principle at the cognitive layer.
 - [[undoing-not-doing]]: the broader principle this is a specific instance of -- transformation is the release of effort, not the addition of new effort.
 
