@@ -5,7 +5,7 @@ title: "If I thought I was inherently good, how would I interpret that want?"
 aliases: ["the inherent goodness reframe", "interpret the want as inherently good", "if you saw yourself as inherently good", "the inherent goodness lens", "how would you see that want if you were good", "reinterpret the want", "the goodness interpretation question", "what's underneath the shamed want"]
 tags: ["shame", "wants", "inherent goodness", "reframe", "question"]
 related: ["inherent-goodness", "shame-as-disconnection", "shame-stagnates-emotion", "the-want", "wants-over-shoulds", "find-the-want-behind-the-should", "owning-the-want-dissolves-it", "natural-shame-vs-installed-shame"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # If I thought I was inherently good, how would I interpret that want?
@@ -84,3 +84,4 @@ Curious, almost playful. The question is asked the way you might ask someone to 
 ## Sources
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

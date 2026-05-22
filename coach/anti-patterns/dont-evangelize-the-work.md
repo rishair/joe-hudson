@@ -5,7 +5,7 @@ title: "Don't evangelize the work"
 aliases: ["missionary work", "using tools without permission", "pushing transformation on others", "coaching without consent", "tools without shadow work", "carrying someone else's tools without consciousness"]
 tags: ["integration", "relationships", "boundaries", "VIEW"]
 related: ["view-as-technique", "integration", "community-over-teacher", "fixing-people", "become-unnecessary", "good-and-corruption-cycle", "spiritual-narcissism"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-06-04_The Business Behind our Courses", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Don't evangelize the work
@@ -65,3 +65,4 @@ The full picture: tools that require nothing of the other person (questions, tru
 - 2022-01-15_Sam Altman -- Leading with Crippling Anxiety, Discovering Meditation, and Buildin
 - 2022-10-26_Integrating A Transformative Experience (rebroadcast of the 2020-12-11 episode)
 - 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

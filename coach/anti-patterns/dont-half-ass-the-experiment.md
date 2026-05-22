@@ -5,7 +5,7 @@ title: "Don't Half-Ass the Experiment"
 aliases: ["don't half ass the experiment", "the unclean experiment problem", "performing the practice without doing it", "half-assing a practice", "the false negative trap", "going through the motions", "the lazy gratitude problem", "you can't learn from a dirty experiment", "all-in or not-in", "the half-hearted practice problem"]
 tags: ["anti-pattern", "experiment", "practice", "buy-in", "integrity", "learning"]
 related: ["frame-it-as-an-experiment", "gratitude-rounds-before-meetings", "trying-vs-doing", "team-as-scientific-method", "dont-dismiss-exercise-before-doing-it"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
 ---
 
 # Don't Half-Ass the Experiment
@@ -88,3 +88,4 @@ This is one of the few places where the leader's gentle directness is appropriat
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
+- 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)

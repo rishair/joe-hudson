@@ -5,7 +5,7 @@ title: "Gratitude Around the Problem"
 aliases: ["gratitude for the difficult thing", "being grateful for what's not working", "appreciation for the problem", "gratitude inside the difficulty", "gratitude in the lack", "gratitude around lack", "gratitude around scarcity", "gratitude for the customer complaints", "gratitude for the product not selling", "gratitude for sales objections"]
 tags: ["practice", "gratitude", "problem-solving", "teams", "leadership", "scarcity", "creativity"]
 related: ["gratitude-rounds-before-meetings", "see-whats-right-to-build-on-it", "vietnam-malnutrition-story", "honor-the-patterns-intent", "resources-vs-resourcefulness", "love-is-the-best-change-agent"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
 ---
 
 # Gratitude Around the Problem
@@ -113,3 +113,4 @@ This practice can be used to dissociate from the problem instead of going deeper
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
+- 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)

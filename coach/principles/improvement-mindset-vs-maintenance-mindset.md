@@ -5,7 +5,7 @@ title: "Improvement Mindset Goes Up, Maintenance Mindset Goes Down"
 aliases: ["improvement vs maintenance", "maintenance mindset corrodes", "the I've made it trap", "the pinnacle trap", "the I'm finished trap", "made it then slumped", "thinking about how to maintain produces decline", "improvement orientation vs maintenance orientation", "the maintenance orientation is corrosive"]
 tags: ["improvement", "maintenance", "ego", "pinnacle", "decline", "high performers", "principle"]
 related: ["epiphany-becomes-rut", "im-afraid-of-stagnating", "nature-improves-itself", "cricket-player-up-and-down", "will-chesney-seal-collapse-and-return", "no-finish-line", "improvement-vs-authenticity"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # Improvement Mindset Goes Up, Maintenance Mindset Goes Down
@@ -111,3 +111,4 @@ Matter-of-fact. The principle is not a moral judgment. It is an observation abou
 ## Sources
 
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL

@@ -4,7 +4,7 @@ id: humility-in-the-system
 title: "Humility in the System"
 aliases: ["the humility read", "felt humility", "humility in their body", "humility I can sense in you", "the humility I notice", "naming the humility", "humility as integration signal", "humility as recovery signal"]
 tags: ["read", "humility", "diagnostic", "recovery", "integration"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # Humility in the System
@@ -78,3 +78,4 @@ Sometimes the quiet quality is not integrated humility but exhaustion, depressio
 ## Sources
 
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL

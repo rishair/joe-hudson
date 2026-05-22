@@ -5,7 +5,7 @@ title: "Joe's Angry Executive Commute"
 aliases: ["the angry executive story", "the executive commute story", "get angry on your commute homework", "executive empowerment story", "2-3 weeks of nightly anger", "the bureaucracy victim executive", "yelling at the ocean executive"]
 tags: ["example", "anger", "executive", "empowerment", "depression", "victim", "release"]
 related: ["anger", "get-angry-in-the-car", "unfelt-emotion-leaks", "i-feel-trapped", "feeling-the-unfelt-emotion"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
 ---
 
 # Joe's Angry Executive Commute
@@ -79,3 +79,4 @@ Joe tells this with practical confidence. He has seen it work many times. There 
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_The Wisdom Of Anger, Part 1 (Joe re-tells the story in the 2022 episode with the same details)

@@ -5,7 +5,7 @@ title: "See What's Right and Build On It"
 aliases: ["see what's right", "build on what works", "two paths to solutions", "positive data not just negative data", "amplify what works", "scaling what's working", "build on functionality", "the build-on-strengths approach", "see the right see the wrong, both"]
 tags: ["problem-solving", "leadership", "teams", "principle", "negativity-bias", "positive-deviance"]
 related: ["gratitude-rounds-before-meetings", "gratitude-around-the-problem", "intelligence-amplifies-self-criticism", "vietnam-malnutrition-story", "honor-the-patterns-intent", "negative-bias-of-trauma-imprinting", "follow-the-demand"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
 ---
 
 # See What's Right and Build On It
@@ -100,3 +100,4 @@ Matter-of-fact. The principle is presented as a structural observation about how
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
+- 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)

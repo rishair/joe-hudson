@@ -5,7 +5,7 @@ title: "Natural Shame vs. Socially-Installed Shame"
 aliases: ["natural shame", "installed shame", "society-installed shame", "tribe-installed shame", "natural shame vs installed shame", "intrinsic shame vs taught shame", "innate shame vs tribal shame", "natural moral compass shame", "the two kinds of shame", "what shame is born and what is taught"]
 tags: ["shame", "distinction", "morality", "inherent goodness", "tribe", "parenting"]
 related: ["shame-as-disconnection", "shame-stagnates-emotion", "past-shame-vs-current-shame", "inherent-goodness", "dont-shame-kids-they-self-shame", "the-shame-avoidance-loop"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # Natural Shame vs. Socially-Installed Shame
@@ -83,3 +83,4 @@ The Joe-coach posture: trust the natural compass. The releasing of installed sha
 ## Sources
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

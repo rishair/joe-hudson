@@ -5,7 +5,7 @@ title: "Don't Use 'You' in an Apology"
 aliases: ["no you in apology", "never make it about them", "the you hack", "the no-you rule", "apology has no you", "keep the apology about you", "the apology diagnostic word", "you ruins the apology", "apologies don't contain you"]
 tags: ["apology", "language", "principles", "shame", "blame", "diagnostic"]
 related: ["upright-apology", "sorry-from-shame-vs-sorry-as-solidarity", "forms-of-dysfunctional-apology", "apologize-for-trying-to-control"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
 ---
 
 # Don't Use "You" in an Apology

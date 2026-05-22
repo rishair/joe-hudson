@@ -5,7 +5,7 @@ title: "Shame as Disconnection"
 aliases: ["shame is disconnection", "shame as the felt sense of disconnection", "the auntie metaphor", "the farting kid metaphor", "shame as signal", "shame as reminder to reconnect", "shame as an amazing feature", "shame as a feature not a bug", "shame as nature's tribe-training", "shame as civic training", "shame trains the citizen", "shame is what tribes use to keep you inside"]
 tags: ["shame", "disconnection", "connection", "emotion", "signals", "vulnerability", "tribe", "evolution"]
 related: ["shame-drives-behavior", "past-shame-vs-current-shame", "vulnerability", "feeling-the-unfelt-emotion", "love-as-deep-welcoming", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "shame-stagnates-emotion", "natural-shame-vs-installed-shame", "addiction-to-shame", "electric-fence-with-dog"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Healing Shame By Being Ourselves"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Healing Shame By Being Ourselves", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # Shame as Disconnection
@@ -58,6 +58,16 @@ Both produce the same felt sense. This is the trap of conflict avoidance: trying
 "If you get mad at me, then I feel disconnected. And if I don't be myself, I feel disconnected." -- Joe Hudson, Healing Shame by Being Ourselves
 
 It is a lose-lose unless the shame itself is allowed to be felt rather than avoided.
+
+## Shame as Self-Abandonment
+
+The second source above has a sharper name: shame is what you feel when you abandon yourself. There is some natural impulse in you to be fully who you are. When you withdraw from that impulse -- because the tribe trained the withdrawal in, because the moment seemed to require it, because being fully yourself felt too costly -- the felt sense of that withdrawal is shame.
+
+"There's some part of us, there's some natural instinct, there's some natural impulse to be fully who we are. And we abandon that part by withdrawing from it in shame." -- Joe Hudson, The Anatomy of Shame
+
+The corollary: when shame arrives, one diagnostic question is "what part of myself did I just abandon, or am I about to abandon?" Often the answer is more legible than "what did I do wrong?" The shame is reporting a self-betrayal, and the resolution is to come back to the part of yourself that was being abandoned rather than to fix the behavior.
+
+This reframes the prescription. Telling someone in shame "stop doing the bad thing" addresses the wrong end. The shame is not about the action; it is about the abandonment of self that occurred to perform the action (or to avoid being seen wanting the action). The work is to come back to the self, not to police the behavior.
 
 ## What People Experience
 
@@ -123,8 +133,27 @@ Matter-of-fact, almost cheerful. Joe talks about shame the way someone might tal
 - Do not try to get rid of shame. Trying to remove shame creates more of it. See [[the-shame-avoidance-loop]].
 - Do not name shame as a way to avoid feeling it. See [[dont-name-emotion-to-avoid-feeling]].
 
+## Shame Is a Form of Care
+
+A reframe that goes one layer deeper than shame-as-signal: shame is itself evidence of love. The reason you feel shame is that you care about being good, about being connected, about not hurting people. A being incapable of care does not feel shame. A being who feels shame is announcing the operating presence of care.
+
+"Shame is a bit of a paper dragon... it melts with love. And in a weird way, I would even say that shame is a version of love in the fact that it is care. So it's weird, we feel shame and we interpret that as, 'Oh, there's something wrong with us. There's something bad. There's something that's unacceptable in us.' And the only reason that we would think that is because we care to be good. We care for other people. It is the thing that shows us that we love. It is an action of love. It is a sign of our inherent goodness that we feel it." -- Joe Hudson, The Anatomy of Shame
+
+The reframe addresses the despair that often comes with shame: "the fact that I feel this proves something is wrong with me." The reframe inverts it: the fact that you feel this proves something is right with you. The presence of the shame is the presence of the moral compass. The presence of the compass is the presence of the care. See [[inherent-goodness]] for the principle.
+
+When this reframe lands, the shame becomes natural guide rails rather than a verdict. It still arrives when something is off. But the off-ness is not your character; the off-ness is the connection being broken in this moment. And the shame is the care underneath, asking for the reconnection.
+
+## The Whole Work in One Line
+
+When Joe describes the entire approach to shame in one sentence, it is this:
+
+"All we're doing here is we're actually freeing the blocking of emotions by feeling our body and creating love where there was abandonment. It's as simple as that. It's just counteracting it." -- Joe Hudson, The Anatomy of Shame
+
+The line condenses three moves: (1) feel the body where the shame lives, which addresses the stagnation; (2) bring love into the regions that were abandoned, which addresses the disconnection; (3) treat the work as counteracting an installed dynamic rather than fixing something broken. The shame is not a problem to be solved; the abandonment is a condition to be reversed.
+
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
 - 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

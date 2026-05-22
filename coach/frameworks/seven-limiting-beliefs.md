@@ -5,7 +5,7 @@ title: "The Seven Limiting Beliefs"
 aliases: ["seven limiting beliefs", "7 limiting beliefs", "the limiting beliefs", "main limiting beliefs", "limiting belief structure", "the foundational limiting beliefs", "if I do X then I'll be happy", "I'll be happy when X belief"]
 tags: ["limiting beliefs", "framework", "shame", "transformation", "patterns"]
 related: ["inherent-goodness", "connection-over-perfection", "wants-over-shoulds", "improvement-vs-authenticity", "defense-vs-love", "perfectionism", "shame-drives-behavior", "undoing-not-doing", "limiting-belief", "three-kinds-of-limiting-beliefs", "no-finish-line", "limiting-belief-meta-trap"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # The Seven Limiting Beliefs
@@ -118,3 +118,4 @@ The two frameworks pair. The content framework tells you what is being believed;
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

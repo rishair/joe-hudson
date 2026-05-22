@@ -5,7 +5,7 @@ title: "Intention vs. Goal"
 aliases: ["intention not goal", "implementation agnostic intention", "intention vs mandate", "holding the intention", "the map intention", "attitude toward the goal", "the way you hold the goal", "attachment vs intention"]
 tags: ["intention", "goal", "direction", "process", "distinction"]
 related: ["pow-optimist", "process-over-result", "art-of-accomplishment", "acting-as-if-already-true", "five-principles-of-the-path", "wanting-vs-craving", "wants-over-shoulds", "enjoyment-as-path"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Intention vs. Goal
@@ -103,3 +103,4 @@ When you notice yourself bracing for a deadline that you set yourself, that is a
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

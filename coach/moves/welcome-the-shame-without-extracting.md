@@ -5,7 +5,7 @@ title: "Welcome the Shame Without Asking Them to Stop Feeling It"
 aliases: ["I see you're ashamed", "there's nothing in me that wants you to be ashamed", "you're welcome to be ashamed", "I can be with you while you're ashamed", "non-extracting welcome", "the shame-welcoming move", "the two-part shame meeting", "permission to feel shame", "I don't want you to be ashamed and you can be"]
 tags: ["shame", "move", "parenting", "leadership", "relationship repair", "welcoming", "permission"]
 related: ["shame-as-disconnection", "shame-stagnates-emotion", "dont-shame-kids-they-self-shame", "dont-extract-apologies", "welcoming-the-others-emotion", "love-as-deep-welcoming", "container-of-love"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # Welcome the Shame Without Asking Them to Stop Feeling It
@@ -100,3 +100,4 @@ In Joe's experience speaking about his own daughters: "It makes me like misty in
 ## Sources
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

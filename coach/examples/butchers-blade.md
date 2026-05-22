@@ -5,7 +5,7 @@ title: "The Butcher's Blade"
 aliases: ["the butcher and the prince", "blade finds the space", "I never sharpen my knives", "Zhuangzi butcher", "the master butcher"]
 tags: ["example", "mastery", "ease", "efficiency", "Taoist"]
 related: ["efficiency-as-enjoyment", "art-of-accomplishment", "enjoy-over-manage", "listening-to-impulse"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # The Butcher's Blade
@@ -57,3 +57,4 @@ The novice in any domain mistakes force for effectiveness. The master in any dom
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

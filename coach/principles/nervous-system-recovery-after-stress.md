@@ -5,7 +5,7 @@ title: "The Body Needs to Sit Down After Prolonged Stress"
 aliases: ["nervous system depression after stress", "the bathrobe period", "physical depression as recovery", "the body shuts down to recover", "depression after sustained pressure", "the post-stress collapse", "CEO bathrobe phenomenon", "adrenaline fatigue", "post-deployment collapse", "post-exit depression", "the lake house phase", "house of depressed CEOs"]
 tags: ["body", "nervous system", "depression", "stress", "recovery", "principle", "adrenaline"]
 related: ["i-keep-crashing-and-burning", "enjoyment-as-path", "self-realization", "pleasure-capacity", "should-as-threat", "i-should-be-doing-this", "ceo-pajama-house-study", "will-chesney-seal-collapse-and-return", "sustained-fear-requires-post-hoc-processing"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # The Body Needs to Sit Down After Prolonged Stress
@@ -103,3 +103,4 @@ Matter-of-fact. Almost biological. This is what bodies do. There is no moral con
 
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
 - 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL

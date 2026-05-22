@@ -5,7 +5,7 @@ title: "The Cricket Player Who Went Up, Down, and Up Again"
 aliases: ["the cricket player story", "the cricket player example", "improvement vs maintenance cricket", "up when improving down when maintaining", "the cricket interview", "the cricket player career arc"]
 tags: ["improvement", "maintenance", "ego", "pinnacle", "decline", "example"]
 related: ["improvement-mindset-vs-maintenance-mindset", "epiphany-becomes-rut", "im-afraid-of-stagnating", "nature-improves-itself"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # The Cricket Player Who Went Up, Down, and Up Again
@@ -70,3 +70,4 @@ Joe tells this story self-deprecatingly. "I shake my head because I'm like, peop
 ## Sources
 
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL

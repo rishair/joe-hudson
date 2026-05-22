@@ -5,7 +5,7 @@ title: "Withdrawal With a Timeline vs. Withdrawal Without One"
 aliases: ["leaving with a timeline", "the 20 minute promise", "stonewalling vs taking space", "I'll be back in 20 minutes", "punishment by withdrawal vs taking space", "leaving as punishment vs leaving to take care of self", "abandonment vs space", "the timeline distinguishes withdrawal types"]
 tags: ["distinction", "relationships", "withdrawal", "abandonment", "anger", "boundaries", "communication"]
 related: ["anger", "get-angry-in-the-car", "dont-do-emotion-at-people", "boundary-with-vs-boundary-against", "weaponized-not-caretaking"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
 ---
 
 # Withdrawal With a Timeline vs. Withdrawal Without One
@@ -100,3 +100,4 @@ When teaching anger discharge practice (the car, the beach), build in the timeli
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording with same framing)

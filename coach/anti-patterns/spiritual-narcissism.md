@@ -5,7 +5,7 @@ title: "Don't dress up narcissism in spiritual language"
 aliases: ["spiritual narcissism", "narcissism justified by spirituality", "spiritual bypass for ego", "getting id needs met through spiritual work", "following my truth as cover", "spiritual self-importance", "weaponized self-discovery", "I'm just listening to my truth", "the spiritual narcissist"]
 tags: ["narcissism", "ego", "spirituality", "shadow", "self-deception", "anti-pattern"]
 related: ["view-as-technique", "vulnerability-as-control", "dont-evangelize-the-work", "selfishness-is-the-engine-of-unity", "tools-to-change-not-love", "loving-to-transform", "wonder-as-strategy"]
-sources: ["2021-06-04_The Business Behind our Courses"]
+sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Don't dress up narcissism in spiritual language
@@ -80,3 +80,4 @@ If the practice is producing the first set of results, it is working. If the pra
 ## Sources
 
 - 2021-06-04_The Business Behind our Courses
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

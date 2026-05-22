@@ -5,7 +5,7 @@ title: "Each Emotion Carries Its Own Wisdom"
 aliases: ["the wisdom of emotions", "emotions as information", "what each emotion is telling you", "the message of each emotion", "anger fear sadness as information", "what anger tells you", "what sadness tells you", "what fear tells you", "emotions have a message", "three indicators of anger", "anger as care boundary fear"]
 tags: ["emotions", "wisdom", "anger", "sadness", "fear", "information", "signal"]
 related: ["emotions-as-road-signs", "fear-as-signal-of-care", "feeling-the-unfelt-emotion", "kinked-emotions", "stages-of-emotional-development", "joy-as-matriarch", "the-want", "feel-over-figure", "anger", "logic-vs-emotional-movement"]
-sources: ["2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-09-24_Stages of Emotional Development", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Stages Of Emotional Development"]
 ---
 
 # Each Emotion Carries Its Own Wisdom
@@ -112,3 +112,4 @@ Practical and respectful. Each emotion is presented as a colleague rather than a
 
 - 2021-09-24_Stages of Emotional Development
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode)

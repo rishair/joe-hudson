@@ -4,7 +4,7 @@ id: i-dont-have-time-for-this
 title: "I don't have time for this"
 aliases: ["I just need to get a paycheck", "this art stuff is a luxury", "I don't have the runway for personal development", "I just need to make money now", "no time for self-work"]
 tags: ["time", "luxury", "personal development", "concern", "scarcity"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # I don't have time for this
@@ -67,3 +67,4 @@ The concern also reveals a [[victim-stance-invites-abuse]] pattern. To say "I ca
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

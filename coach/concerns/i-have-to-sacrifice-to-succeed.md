@@ -4,7 +4,7 @@ id: i-have-to-sacrifice-to-succeed
 title: "I have to sacrifice to succeed"
 aliases: ["sacrifice for success", "grind required", "you have to suffer to make it", "real success requires giving things up", "I had to cut off parts of myself"]
 tags: ["sacrifice", "success", "work", "business", "concern"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # I have to sacrifice to succeed
@@ -72,3 +72,4 @@ The typical flow:
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

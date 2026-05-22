@@ -5,7 +5,7 @@ title: "Grief as Gateway to Self-Love"
 aliases: ["grief precedes self-love", "grieving lost time", "watershed moment of grief", "grief for the time you lost", "grief about what you did to yourself", "grieving the years in the pattern"]
 tags: ["grief", "self-love", "healing", "shame"]
 related: ["feeling-the-unfelt-emotion", "loving-all-parts", "late-stage-reversion", "grief-as-identity-dismantling", "without-grief-we-recreate-the-pattern", "joes-friend-yuma-grief-drives", "managing-vs-healing-trauma"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Grief as Gateway to Self-Love
@@ -53,3 +53,4 @@ The self-love that follows is not love for the suffering version of the self. It
 
 - 2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

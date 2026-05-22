@@ -5,7 +5,7 @@ title: "Without Grief, We Recreate the Pattern"
 aliases: ["without grief we recreate the cycle", "ungrieved relationship becomes the next relationship", "grief breaks the pattern", "if you don't grieve you date the same person", "skipping grief recreates the trauma", "without grief we relive the trauma", "grief frees you from the loop", "the next relationship will be identical", "ungrieved loss returns as the same loss", "grief is the exit from the cycle"]
 tags: ["grief", "patterns", "transformation", "principle", "relationships", "freedom"]
 related: ["grief-as-identity-dismantling", "feeling-the-unfelt-emotion", "trauma-mapping", "unprocessed-grief-creates-conflict", "grief-as-gateway-to-self-love", "joes-friend-yuma-grief-drives", "what-we-fear-we-invite", "familiar-over-safe"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Without Grief, We Recreate the Pattern
@@ -107,3 +107,4 @@ This is part of why the grief is so resisted. People do not realize they are sig
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

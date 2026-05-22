@@ -5,7 +5,7 @@ title: "List the Shames That Stopped You (And the Actions You Didn't Take)"
 aliases: ["shame inventory", "list your shames", "the shame avoidance list", "Brett's shame list practice", "things I'm ashamed of", "actions avoided due to shame", "writing down the shames", "the shame audit", "the year of avoided actions", "the shame stagnation list"]
 tags: ["shame", "practice", "individual practice", "self-inquiry", "journaling", "audit"]
 related: ["shame-as-disconnection", "shame-stagnates-emotion", "the-shame-avoidance-loop", "shame-drives-behavior", "joes-26-year-old-list", "feeling-the-unfelt-emotion"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # List the Shames That Stopped You (And the Actions You Didn't Take)
@@ -88,3 +88,4 @@ Personal. Curious. Not self-flagellating. The practice is most effective when do
 ## Sources
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

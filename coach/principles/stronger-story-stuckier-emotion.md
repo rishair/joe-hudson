@@ -5,7 +5,7 @@ title: "The Stronger the Story, the Stuckier the Emotion"
 aliases: ["stronger story stuck emotion", "thick story slow grief", "rigid story locked emotion", "the more you believe the story the more stuck the emotion", "story strength predicts emotional stuckness", "the more personal the story the longer the cycle"]
 tags: ["story", "emotions", "grief", "stuckness", "principle"]
 related: ["story", "feeling-changes-story", "emotions-and-stories-dance", "kinked-emotions", "emotional-fluidity", "case-the-consultant", "feeling-the-unfelt-emotion", "grief-as-identity-dismantling", "grief-is-many-emotions-not-just-sadness", "without-grief-we-recreate-the-pattern"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # The Stronger the Story, the Stuckier the Emotion
@@ -106,3 +106,5 @@ Joe states this matter-of-factly. Not as a moral observation -- he is not saying
 ## Sources
 
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

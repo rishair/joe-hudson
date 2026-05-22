@@ -5,7 +5,7 @@ title: "Victim Stance Invites Abuse"
 aliases: ["victim invites abuser", "the oppressed position attracts oppressors", "owning the victim role", "victims and abusers", "you attract what you embody"]
 tags: ["victim", "abuse", "stance", "fear-triangle", "principle"]
 related: ["fear-triangle", "empowered-vs-power", "what-we-fear-we-invite", "i-feel-trapped", "i-dont-have-time-for-this", "helplessness-is-the-gateway"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Victim Stance Invites Abuse
@@ -76,3 +76,4 @@ Direct, almost provocative. Joe is willing to name this even though it is uncomf
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

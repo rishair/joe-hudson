@@ -5,7 +5,7 @@ title: "Apologies as Power-Struggle Surrogate for Being Seen"
 aliases: ["apology as power struggle", "apology as surrogate for being seen", "winner and loser apology", "weak surrogate for being seen", "apology as sugar high", "the surrogate apology", "apology substitutes for acknowledgment", "apologies in power struggles", "the apology loser/winner frame"]
 tags: ["apology", "power-struggle", "being-seen", "relationships", "fights"]
 related: ["upright-apology", "forms-of-dysfunctional-apology", "apologize-to-exit-a-fight", "being-heard", "power-dynamics-as-two-defenders", "empowered-vs-power"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
 ---
 
 # Apologies as Power-Struggle Surrogate for Being Seen
@@ -29,6 +29,14 @@ Most relationship fights are about not feeling seen. If both partners felt seen,
 "You have husbands and wives and they get into fights. Those fights are all about power struggle. If both people felt like, 'Oh, I'm being seen and I'm being respected and I'm being acknowledged,' there's no fight. The fight is when somebody doesn't feel seen, doesn't feel acknowledged, doesn't feel respected. So the apology is this surrogate for what's really wanted." -- Joe Hudson, The Upright Apology
 
 This connects to [[power-dynamics-as-two-defenders]]: both people experience the fight as defending themselves from attack. Both also experience it as fighting for acknowledgment that the other is withholding.
+
+## What the Apology Becomes When It Leaves the Power Struggle
+
+Once the apology stops being a move in the power struggle, it stops being personal in a different way. It is no longer about who won or who is owed something. It becomes about the freedom both parties get from the acknowledgment having happened.
+
+"The more and more the apology happens, it's not about me or them. The apology is about freedom for both of us. It just creates freedom if you can do it empowered. It just creates far more freedom for everybody. It's about freedom. It's not personal anymore, which seems weird, right? It's an apology. It feels like one of the most personal things." -- Joe Hudson, The Upright Apology
+
+The apology continues to feel intimate. The intimacy is no longer because it is a personal exchange of loss and gain. The intimacy is because freedom for both parties is being produced in the room. See [[upright-apology]] for the form this matured apology takes.
 
 ## Why the Surrogate Persists
 

@@ -5,7 +5,7 @@ title: "Improvement vs. Authenticity"
 aliases: ["improvement vs authentic", "be better vs know what you are", "self-improvement vs self-discovery", "improving vs authenticating", "authenticity over improvement", "self-realization vs self-improvement", "river vs canal", "authenticity as river"]
 tags: ["improvement", "authenticity", "self-development", "distinction", "transformation"]
 related: ["seven-limiting-beliefs", "inherent-goodness", "wants-over-shoulds", "enjoyment-as-path", "selfishness-is-the-engine-of-unity", "self-realization", "musk-deer-parable", "nature-improves-itself", "undoing-not-doing", "wanting-itself-not-what-you-want"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Improvement vs. Authenticity
@@ -146,3 +146,5 @@ The reward of authenticity: you arrive in alignment, which is the only sustainab
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
+- 2022-10-26_Authenticity Over Improvement
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

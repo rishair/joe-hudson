@@ -5,7 +5,7 @@ title: "Emotion Can (and Should) Move Without a Story"
 aliases: ["crying for no reason is great", "you don't need a reason to feel", "emotion without story", "feeling without explanation", "emotion doesn't need a story", "crying without knowing why", "emotional movement doesn't require context", "the no-reason cry"]
 tags: ["emotions", "story", "emotional fluidity", "principle"]
 related: ["emotional-fluidity", "stronger-story-stuckier-emotion", "story", "feeling-the-unfelt-emotion", "dont-block-emotion-waiting-for-reason"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Stages Of Emotional Development"]
 ---
 
 # Emotion Can (and Should) Move Without a Story
@@ -72,6 +72,22 @@ This is not a license to refuse all reflection on emotional states. Some emotion
 
 The work cycles: feel without needing to know, then when the emotion has moved, see if any information is present. Most of the time some information is. Sometimes none is. Either is fine.
 
+## The Trust Frame: "I Will Be Reorganized at the End"
+
+A useful internal framing for a person in the middle of unstoried emotional movement. Rather than reaching for a label or a reason, hold the trust that the body knows what it is doing and the person on the other side of this will be reorganized.
+
+"My body's going to make whatever movement it needs to make right now. And I trust that I'm going to become a reorganized human at the end of this. And I don't need to even have a story for what emotion it was." -- Brett Kistler, Stages of Emotional Development
+
+Joe affirms: "That's right. That's exactly it. So yeah, that's the way it moves." -- Joe Hudson, Stages of Emotional Development
+
+The trust has two parts. First, that the body's movement is the work, not a deviation from it -- whatever shape the release takes (crying, anger, voice crack, shaking) is correct. Second, that the person at the end of the movement is more integrated, not less, even though no story was attached.
+
+This frame is useful in two specific moments:
+- When an emotion is rising and the mind wants to know what it is before allowing it. The frame substitutes for the story-requirement.
+- When a release is finishing and the mind wants to extract a lesson. The frame allows the release to be complete without the extraction.
+
+The frame is consistent with the larger principle that the story, if there is one, often arrives downstream of the release, not before it.
+
 ## Connection to the Mammalian Layer
 
 The reminder that all mammals have emotions without (we assume) verbal stories is part of why this principle is biologically grounded. Emotions are older than the verbal mind. They do not require its participation to operate. Treating verbal stories as necessary for emotional life imposes a layer the mammalian system does not need.
@@ -99,3 +115,4 @@ Joe says this with warmth and a touch of delight. He clearly finds the "I'm cryi
 ## Sources
 
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-10-26_Stages Of Emotional Development (Brett's "reorganized human" trust frame; Joe's affirmation that the body's movement is the work without the story)

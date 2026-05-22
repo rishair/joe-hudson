@@ -5,7 +5,7 @@ title: "The Subway Kid"
 aliases: ["the Subway sandwich kid", "the kid at Subway", "the kid with pizzazz", "the Subway sous chef", "do it with artistry"]
 tags: ["example", "artistry", "consciousness", "work", "Subway", "Central America"]
 related: ["art-of-accomplishment", "consciousness-is-the-product", "enjoyment-as-path", "i-dont-have-time-for-this"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # The Subway Kid
@@ -43,3 +43,4 @@ Joe pairs this story with Mandela's. See [[mandela-empowerment]]. Mandela was in
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

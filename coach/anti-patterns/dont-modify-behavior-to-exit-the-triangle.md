@@ -5,7 +5,7 @@ title: "Don't Try to Modulate Behavior to Exit the Fear Triangle"
 aliases: ["behavior modification as exit", "trying to act not from that place", "how do I act not from the triangle is the savior", "modulating behavior is still triangle", "the exit plan is the savior", "trying to act differently keeps you in the triangle"]
 tags: ["fear-triangle", "behavior", "savior", "anti-pattern", "improvement-trap"]
 related: ["fear-triangle", "empowered-vs-power", "acknowledge-the-fear-by-role", "tools-to-change-not-love", "improvement-vs-authenticity", "loving-to-transform"]
-sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
+sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_The Power Dynamics Of Fear"]
 ---
 
 # Don't Try to Modulate Behavior to Exit the Fear Triangle
@@ -72,3 +72,4 @@ Each of these is the role wearing the teaching as costume. The teaching is being
 ## Sources
 
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
+- 2022-10-26_The Power Dynamics Of Fear (rebroadcast of 2022-02-04)

@@ -4,8 +4,8 @@ id: apologize-as-daily-practice-for-bad-habits
 title: "Daily Upright Apology to Yourself for a Bad Habit"
 aliases: ["daily upright apology", "apology practice for bad habits", "I'm sorry for hurting myself", "the daily apology to self", "the daily upright apology", "bad habit apology practice", "apologize to yourself daily for the habit", "the smoking apology practice", "10-year habit apology", "apology to break addiction"]
 tags: ["practice", "apology", "bad habits", "addiction", "shame", "self-relationship", "behavior change"]
-related: ["upright-apology", "shame-drives-behavior", "joes-pot-habit", "negative-self-reinforcement", "feeling-the-unfelt-emotion", "tools-to-change-not-love"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame"]
+related: ["upright-apology", "shame-drives-behavior", "joes-pot-habit", "negative-self-reinforcement", "feeling-the-unfelt-emotion", "tools-to-change-not-love", "full-understanding-of-a-behavior-dissolves-it"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
 ---
 
 # Daily Upright Apology to Yourself for a Bad Habit
@@ -38,6 +38,12 @@ The difference is the body. Self-criticism happens with the back hunched and the
 5. **Stay with what arises.** The upright apology often cracks open emotion. Grief about lost time. Fear about who you would be without the habit. Tenderness for the part of you that the habit was protecting. Let what comes come. See [[feeling-the-unfelt-emotion]].
 
 6. **Do not check whether the habit is changing.** Checking is its own form of trying-to-fix, which reinstalls the dynamic this practice is meant to dissolve. Just keep the practice. The change is a byproduct, not the goal.
+
+## Pair with Full Felt Experience of the Behavior
+
+The daily upright apology is the verbal, posture-based half of the work. The complementary half is the in-the-act practice: next time you are doing the behavior, do not interrupt it, but feel it all the way through. See [[full-understanding-of-a-behavior-dissolves-it]].
+
+The two practices reinforce each other. The apology is the upright acknowledgment from a calm body. The full felt experience is the upright acknowledgment from inside the act. Both bypass the willpower-and-shame approach that has been failing. Together they often produce a release that neither alone would.
 
 ## What It Tends to Produce
 

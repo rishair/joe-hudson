@@ -5,7 +5,7 @@ title: "Grieve the Marriage to Save the Marriage"
 aliases: ["pre-grieve the relationship", "mourn the marriage to save it", "assume the marriage is over to be undefended in it", "grief frees you to be true in the relationship", "grieving the relationship periodically", "let the marriage die to come alive in it", "grieve to drop the defense", "the marriage dies many times", "the periodic grief of a relationship"]
 tags: ["grief", "relationships", "marriage", "vulnerability", "defense", "principle", "practice"]
 related: ["visualizing-feared-outcomes", "grief-as-identity-dismantling", "defense", "upright-undefended-love", "fear-is-about-feeling", "without-grief-we-recreate-the-pattern", "feeling-the-unfelt-emotion"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Grieve the Marriage to Save the Marriage
@@ -100,3 +100,4 @@ When the relationship contains active abuse or safety concerns, the work is diff
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

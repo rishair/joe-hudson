@@ -5,7 +5,7 @@ title: "Defense vs. Love"
 aliases: ["defending vs loving", "defense before love", "receiving with love instead of defending", "the defensive impulse"]
 tags: ["defense", "love", "feedback", "vulnerability", "shame", "distinction"]
 related: ["seven-limiting-beliefs", "inherent-goodness", "vulnerability", "letting-judgment-in", "safety-vs-defensiveness", "defense", "love-as-deep-welcoming", "boundary-with-vs-boundary-against"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Defense vs. Love
@@ -73,3 +73,5 @@ The signal of love is also in the body. The breath deepens. The chest stays open
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

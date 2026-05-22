@@ -5,7 +5,7 @@ title: "What are you defending?"
 aliases: ["what is the you that you're defending", "what are you protecting", "what's the thing you're actually protecting", "what makes you think it's destroyable", "the defense question", "what part of you needs defending"]
 tags: ["defense", "fear", "identity", "power-dynamics", "question"]
 related: ["defense", "fear-triangle", "power-dynamics-as-two-defenders", "annihilation-reveals-what-is-real", "vulnerability", "empowered-vs-power"]
-sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
+sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_The Power Dynamics Of Fear"]
 ---
 
 # What are you defending?
@@ -102,3 +102,4 @@ If the question is delivered with edge, it will be metabolized as one more attac
 ## Sources
 
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
+- 2022-10-26_The Power Dynamics Of Fear (rebroadcast of 2022-02-04)

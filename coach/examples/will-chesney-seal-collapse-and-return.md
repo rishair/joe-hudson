@@ -5,7 +5,7 @@ title: "Will Chesney: SEAL, Collapse, Return"
 aliases: ["Will Chesney story", "the SEAL collapse story", "the bin Laden raid SEAL story", "Will Chesney recovery", "the SEAL who reintegrated", "the SEAL Team Six veteran", "Will's pinnacle to bathrobe to back", "Cairo's handler"]
 tags: ["veteran", "collapse", "recovery", "pinnacle", "brain-injury", "ego", "humility", "example"]
 related: ["nervous-system-recovery-after-stress", "ceo-pajama-house-study", "improvement-mindset-vs-maintenance-mindset", "sustained-fear-requires-post-hoc-processing", "empathy-makes-you-better-at-hard-jobs", "epiphany-becomes-rut", "humility-in-the-system", "absence-of-resistance-to-the-suck"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # Will Chesney: SEAL, Collapse, Return
@@ -112,3 +112,4 @@ Joe is gentle and curious with Will throughout. He does not push. He follows. He
 ## Sources
 
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL (re-aired or republished version of the same conversation)

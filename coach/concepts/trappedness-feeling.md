@@ -5,7 +5,7 @@ title: "The Felt Trappedness Beneath Anger"
 aliases: ["feeling trapped", "trappedness", "the trapped feeling", "damned if I do damned if I don't", "I can't fucking win", "psychological trappedness", "trauma-rooted trappedness", "the trap is felt not real"]
 tags: ["anger", "trauma", "childhood", "trappedness", "fear", "double-bind"]
 related: ["anger", "trauma-mapping", "childhood-imprinting", "i-feel-trapped", "should-as-threat", "rebellion-or-submission-to-should", "binary-thinking-signals-fear"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
 ---
 
 # The Felt Trappedness Beneath Anger
@@ -100,3 +100,4 @@ Joe holds this matter-of-factly. The pancake example is laughed at, not dramatiz
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording with same framing)

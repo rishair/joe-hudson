@@ -5,7 +5,7 @@ title: "Don't Should Yourself Into Welcoming Others' Anger"
 aliases: ["I should be okay with their anger", "forcing yourself to receive anger", "shoulding into welcoming", "performing capacity for others' emotions", "should be good with anger", "forcing yourself to be present with anger you can't yet handle"]
 tags: ["anti-pattern", "anger", "should", "self-care", "boundaries", "nervous system", "freeze"]
 related: ["anger", "welcoming-the-others-emotion", "should-as-threat", "boundary-with-vs-boundary-against", "i-should-be-doing-this", "wisdom-of-each-emotion"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
 ---
 
 # Don't Should Yourself Into Welcoming Others' Anger
@@ -104,3 +104,4 @@ Firm and gentle. Joe is protective of the person who might try this. The danger 
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording with same framing)

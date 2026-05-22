@@ -5,7 +5,7 @@ title: "Joe's HR Call: 'We're Deciding If We're Going to Pay You Again'"
 aliases: ["the HR call example", "Joe and the head of HR", "we're deciding if we're going to pay you", "Joe's empowerment in the HR call", "the HR head call", "the power play that dissolved", "Joe doesn't serve HR"]
 tags: ["empowerment", "power-dynamics", "boundaries", "fear-triangle", "example", "business"]
 related: ["empowered-vs-power", "power-dynamics-as-two-defenders", "fear-triangle", "vulnerability", "principles-free-you", "hardening-means-personal"]
-sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
+sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_The Power Dynamics Of Fear"]
 ---
 
 # Joe's HR Call: "We're Deciding If We're Going to Pay You Again"
@@ -71,3 +71,4 @@ Plain, almost casual in the retelling. The story is offered as a small example, 
 ## Sources
 
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
+- 2022-10-26_The Power Dynamics Of Fear (rebroadcast of 2022-02-04)

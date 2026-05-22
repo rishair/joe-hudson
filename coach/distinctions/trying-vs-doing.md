@@ -5,7 +5,7 @@ title: "Trying vs. Doing"
 aliases: ["trying versus doing", "effort vs action", "clenched trying", "trying is not doing", "doing not trying"]
 tags: ["effort", "action", "flow", "doing", "trying", "distinction"]
 related: ["hands-together-exercise", "undoing-not-doing", "enjoy-over-manage", "resistance", "art-of-accomplishment"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Trying vs. Doing
@@ -65,3 +65,4 @@ The ease of doing is the surprise of seeing the result without remembering effor
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

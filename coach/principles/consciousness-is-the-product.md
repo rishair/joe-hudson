@@ -5,7 +5,7 @@ title: "Consciousness Is the Product"
 aliases: ["your consciousness is what is consumed", "the real product is your state", "consciousness becomes the product", "how you make it is what gets made"]
 tags: ["consciousness", "product", "business", "state", "authenticity", "principle"]
 related: ["art-of-accomplishment", "enjoyment-as-path", "enjoy-over-manage", "vulnerability-in-the-workplace", "connection-over-perfection", "marketing-as-the-beginning", "become-unnecessary"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Consciousness Is the Product
@@ -89,3 +89,5 @@ Matter-of-fact. Joe states this as a structural truth, not a possibility. He is 
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-06-04_The Business Behind our Courses
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

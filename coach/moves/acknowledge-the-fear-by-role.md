@@ -5,7 +5,7 @@ title: "Acknowledge the Fear By Role (The Exit Phrases)"
 aliases: ["bully says I'm scared", "victim says I have choice", "savior says I can only save myself", "the role-specific exit phrases", "naming the fear underneath the role", "acknowledge the fear without judgment", "exit phrases for the fear triangle", "the three honest sentences", "role-dissolving phrases"]
 tags: ["fear-triangle", "exit", "acknowledgment", "honesty", "shame", "moves"]
 related: ["fear-triangle", "power-dynamics-as-two-defenders", "dont-modify-behavior-to-exit-the-triangle", "shame-drives-behavior", "vulnerability", "empowered-vs-power"]
-sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7"]
+sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_The Power Dynamics Of Fear"]
 ---
 
 # Acknowledge the Fear By Role (The Exit Phrases)
@@ -96,3 +96,4 @@ This is why the move dissolves the dynamic. Vulnerability is the opposite of def
 ## Sources
 
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
+- 2022-10-26_The Power Dynamics Of Fear (rebroadcast of 2022-02-04)

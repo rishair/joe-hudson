@@ -5,7 +5,7 @@ title: "Apologize to Exit a Fight"
 aliases: ["apology to exit fight", "the fight-exit apology", "look for any clean apology", "what can I apologize for", "apologize for being in the power struggle", "I'm sorry for raising my voice", "the in-fight repair apology", "find the upright apology mid-fight", "apology as fight-changer", "I'm sorry for being in a power struggle with you"]
 tags: ["apology", "conflict", "power-struggle", "moves", "repair", "fights"]
 related: ["upright-apology", "apologize-for-trying-to-control", "apologies-as-power-struggle-surrogate", "power-dynamics-as-two-defenders", "responsibility-without-fault", "fault-vs-responsibility"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
 ---
 
 # Apologize to Exit a Fight

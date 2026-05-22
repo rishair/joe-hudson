@@ -5,7 +5,7 @@ title: "The CEO Pajama House Study (Adrenaline Fatigue After the Stimulus Ends)"
 aliases: ["the CEO house study", "depressed CEOs in a house", "CEOs in pajamas study", "the CEO depression study", "house of depressed CEOs", "the no-work CEO experiment", "the adrenaline fatigue study", "psychologists assessing CEOs in a house"]
 tags: ["CEO", "depression", "adrenaline-fatigue", "recovery", "study", "example"]
 related: ["nervous-system-recovery-after-stress", "i-keep-crashing-and-burning", "will-chesney-seal-collapse-and-return", "improvement-mindset-vs-maintenance-mindset"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # The CEO Pajama House Study (Adrenaline Fatigue After the Stimulus Ends)
@@ -88,3 +88,4 @@ Joe tells this story with quiet certainty. The study is a fact. The mechanism is
 ## Sources
 
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL

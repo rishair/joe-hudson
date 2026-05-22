@@ -5,7 +5,7 @@ title: "Truth and Reconciliation in South Africa (National Grieving Process)"
 aliases: ["South Africa Truth and Reconciliation", "the South Africa example", "Truth and Reconciliation Commission", "national grieving", "post-apartheid grief", "the less volatile transition", "grief at the national scale", "grief as societal infrastructure"]
 tags: ["example", "grief", "collective", "society", "politics", "ritual"]
 related: ["unprocessed-grief-creates-conflict", "grief-as-identity-dismantling", "feeling-the-unfelt-emotion"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Truth and Reconciliation in South Africa (National Grieving Process)
@@ -64,3 +64,4 @@ When the conversation is about grief work generally and the example is needed to
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

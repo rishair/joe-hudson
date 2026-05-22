@@ -4,7 +4,7 @@ id: i-feel-trapped
 title: "I feel trapped / They have power over me"
 aliases: ["I have no choice", "they control me", "I can't do anything", "I'm stuck", "I'm subjugated", "the system has power over me", "I'm a victim of circumstances"]
 tags: ["empowerment", "power", "trapped", "victim", "circumstance"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2022-10-26_Empower Over Power", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # I feel trapped / They have power over me
@@ -96,4 +96,6 @@ The trapped stance is not just a misperception. It is an active organization of 
 ## Sources
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
+- 2022-10-26_Empower Over Power
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

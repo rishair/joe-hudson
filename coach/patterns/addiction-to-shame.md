@@ -91,3 +91,4 @@ Curious, not pathologizing. The pattern is framed as fascinating wiring rather t
 ## Sources
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

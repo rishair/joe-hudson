@@ -5,7 +5,7 @@ title: "Efficiency Is Measured by Enjoyment"
 aliases: ["enjoyment is efficiency", "human efficiency", "efficient when enjoying", "the human fuel measure", "fastest is not most efficient"]
 tags: ["efficiency", "enjoyment", "productivity", "principle", "measurement"]
 related: ["enjoyment-as-path", "enjoy-over-manage", "art-of-accomplishment", "butchers-blade", "sleep-deprived-soldier"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Efficiency Is Measured by Enjoyment
@@ -76,3 +76,4 @@ Enjoyment-as-measure works because enjoyment correlates with operating at the ri
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-10-26_Enjoy Over Manage
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

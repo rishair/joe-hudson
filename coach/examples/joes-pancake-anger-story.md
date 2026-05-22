@@ -5,7 +5,7 @@ title: "Joe's Pancake Anger Story (That Was Some Pretty Good Anger, Dad)"
 aliases: ["the pancake story", "pretty good anger Dad", "Joe's kitchen anger", "the cooking interruption story", "the I'm angry I'm angry I'm angry story", "Joe's daughter and the anger", "spatula down anger story"]
 tags: ["example", "anger", "parenting", "family", "release", "unkinked anger"]
 related: ["anger", "kinked-emotions", "wisdom-of-each-emotion", "get-angry-in-the-car", "dont-do-emotion-at-people"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1"]
 ---
 
 # Joe's Pancake Anger Story (That Was Some Pretty Good Anger, Dad)
@@ -79,3 +79,4 @@ Joe tells this story laughing. The lightness is the point. Anger done well is no
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_The Wisdom Of Anger, Part 1 (Joe re-tells the story in the 2022 episode with the same details and same daughter line)

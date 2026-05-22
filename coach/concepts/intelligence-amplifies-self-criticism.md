@@ -5,7 +5,7 @@ title: "Intelligence Amplifies Self-Criticism"
 aliases: ["smarter means harsher inner critic", "intelligent people have nuanced self-criticism", "intelligence and negativity bias", "smart people criticize themselves more", "high IQ self-criticism", "smart and nuanced self-criticism", "the smarter you are the more self-critical", "intelligence enhances the negative voice"]
 tags: ["concept", "voice", "self-criticism", "negativity-bias", "intelligence", "psychology"]
 related: ["voice-in-the-head", "see-whats-right-to-build-on-it", "untruth-in-every-thought", "voice-as-care", "negative-bias-of-trauma-imprinting", "perfectionism"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
 ---
 
 # Intelligence Amplifies Self-Criticism
@@ -95,3 +95,4 @@ Joe names this almost casually, as an empirical observation rather than a diagno
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
+- 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)

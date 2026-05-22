@@ -5,7 +5,7 @@ title: "Marketing Is the Beginning of the Work"
 aliases: ["marketing as beginning of the course", "the marketing IS the course", "the funnel is the work", "every touchpoint serves the work", "marketing as self-exploration", "designing the marketing as part of the curriculum", "no neutral touchpoints"]
 tags: ["business", "marketing", "design", "service", "consciousness", "principle"]
 related: ["consciousness-is-the-product", "art-of-accomplishment", "authenticity-in-business", "view-as-technique", "fixing-people", "connection-over-perfection"]
-sources: ["2021-06-04_The Business Behind our Courses"]
+sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Marketing Is the Beginning of the Work
@@ -93,3 +93,4 @@ Practical, design-oriented. Joe describes this as how he actually runs the busin
 ## Sources
 
 - 2021-06-04_The Business Behind our Courses
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

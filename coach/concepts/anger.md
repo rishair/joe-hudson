@@ -5,7 +5,7 @@ title: "Anger"
 aliases: ["the emotion of anger", "anger as energy", "anger as care", "beautiful energy of anger", "loving your anger", "what anger is", "healthy anger", "anger's three indicators", "the wisdom of anger"]
 tags: ["anger", "emotions", "care", "boundaries", "fear", "trauma", "energy", "empowerment"]
 related: ["wisdom-of-each-emotion", "kinked-emotions", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "trappedness-feeling", "logic-vs-emotional-movement", "fear-of-self-destruction-by-anger", "passive-aggressive-vs-aggressive-aggressive", "get-angry-in-the-car", "joes-pancake-anger-story", "three-forms-of-anger-repression", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger", "anger-as-cover-for-deeper-emotion"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1"]
 ---
 
 # Anger
@@ -164,8 +164,11 @@ Joe speaks of anger with affection. It is "beautiful," "amazing energy." When te
 - Toward [[trappedness-feeling]]: the trauma-rooted version of the felt-trapped state that anger responds to.
 - Toward [[fear-of-self-destruction-by-anger]]: the deeper fear beneath the fear of destroying others.
 - Toward [[dont-do-emotion-at-people]]: the boundary on how anger is expressed.
+- Toward [[three-reflection-questions-on-anger]]: integration questions for self-directed work with anger.
+- Toward [[anger-and-politics]]: the application of these dynamics at the collective and societal scale.
 
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording of the 2021-10-22 episode; same teaching with additional framing around the political dimension of anger and the closing reflection questions)

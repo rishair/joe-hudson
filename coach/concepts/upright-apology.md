@@ -4,8 +4,8 @@ id: upright-apology
 title: "The Upright Apology"
 aliases: ["upright apology", "empowered apology", "shameless apology", "apology as transformation tool", "the empowered sorry", "apology from your power", "responsibility without shame", "back upright apology", "apology from the upright body", "non-shame apology"]
 tags: ["apology", "shame", "empowerment", "responsibility", "transformation", "body", "vulnerability"]
-related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?"]
+related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology"]
 ---
 
 # The Upright Apology
@@ -48,6 +48,38 @@ Because the apology does not collapse the self, emotional movement becomes possi
 
 Contrast with the shame apology: shame is a punch in the gut. It stops the flow. "It actually prevents the emotional fluidity that allows you to change the habits." See [[kinked-emotions]] and [[emotional-fluidity]].
 
+## The Apology as Cracker-Open of Held Emotion
+
+The mechanism is bidirectional. Holding shame keeps emotion stuck; the upright apology lets the shame release; once the shame releases, the held emotion underneath becomes available.
+
+"If you make an empowered apology, the shame in you, this fear of being seen, the moment you apologize without shame or just apologize owning yourself, owning your part, you release a lot of that shame because you're seen. And then that shame moves. So sometimes making that kind of apology can suddenly just crack open the lid and a bunch of emotion moves. And it's no longer the emotion of shame and guilt and stuckness and anguish. It becomes just the emotion of grief, of whatever is underneath it that you need to feel to process what actually occurred." -- Brett Kistler, The Upright Apology
+
+The apology is the lid coming off. What had been jammed becomes available. The grief that has been waiting under the shame can finally be felt.
+
+## The Three Intentions Behind an Apology
+
+The same words can carry three different intentions, and the intention determines what the apology actually is. Joe names them in order from cleanest to most engineered.
+
+1. **Apologizing without trying to make yourself or anyone else feel differently.** The apology is pure acknowledgment of what is. No engineering of any state. The cleanest form: the speaker is just speaking the truth.
+
+2. **Apologizing for yourself but not to make them feel differently.** The apology is owned, the speaker's own integrity work, not an instrument aimed at the other. Still clean. The work is for you.
+
+3. **Apologizing to try to make them feel differently.** The apology is in service of changing their state. This is the appeasement form and slides quickly into the dysfunctional patterns.
+
+"There's a way of apologizing that you're not trying to make yourself or anybody else feel differently, which is one way. And then there's a way of apologizing which is doing it for yourself but not for them, not to make them feel differently. And then there's the apology of trying to make them feel differently." -- Joe Hudson, The Upright Apology
+
+The third form is what most people learn apology to be. The first two are what the upright apology can become. The cleanest form is also the rarest. It does not make anyone do anything. It simply names what is true.
+
+## The Evolution: From Personal to Freedom
+
+The upright apology evolves in the speaker over time. Early on, the apology feels deeply personal: this is about me, this is about them, this is about what passed between us. As the practice matures, the apology becomes less about the personal and more about the freedom it produces for both parties.
+
+"What I've noticed, as I've, like, the more and more the apology happens, it's not about me or them. The apology is about freedom for both of us. It just creates freedom if you can do it empowered. It just creates far more freedom for everybody. It's about freedom. It's not personal anymore, which seems weird, right? It's an apology. It feels like one of the most personal things, but it's a very intimate thing. And then there's this way of doing it where it's actually just recognition. The light is brought to it." -- Joe Hudson, The Upright Apology
+
+The shift is real and is a marker of the practice deepening. The apology becomes a recognition move: an acknowledgment of what is, without the project of changing how anyone feels about it. The Hawaiian ho'oponopono prayer (I love you, thank you, I'm sorry, please forgive me) sits in this register: the apology as a phrase of presence, not as a request for change. Brett's phrasing matches: "the light is brought to it. I now see clearly what I did, more clearly what the dynamic was, and my part in it. No shame or wrong, everything was just unfolding. Now I see more clearly. Just the awareness."
+
+The freedom-frame is also why the constraint to not try to change the other person's experience matters. The apology that is trying to make the other person feel better has not yet become a freedom apology. The freedom apology is offered, and the offering is the whole of it. What the other person does with it is theirs.
+
 ## How It Differs From Each Bad Form
 
 The upright apology is not:
@@ -64,6 +96,14 @@ It is also not the solidarity sorry (which is its own clean form): "I'm sorry yo
 When you have given an upright apology, you do not feel diminished. You feel cleaner. There may be tears, but they are not tears of self-recrimination. They feel like a window opening. The person you apologized to often softens visibly, and the relationship has a new quality of trust that did not exist before.
 
 When you have given a shame apology, you feel smaller. There is often a residue of resentment, either at yourself for capitulating or at the other person for "winning." You may apologize again later in the same conversation, because nothing actually moved.
+
+## The Upright Apology Requires Feeling
+
+An apology delivered from words alone is not the upright apology. The body has to be in it. The feeling has to be in it. The verbal performance without the felt presence is the same shape but a different act.
+
+"If you're apologizing from an upright place, from an empowered position, it does require you to feel it." -- Joe Hudson, The Upright Apology
+
+This is one reason the principle [[full-understanding-of-a-behavior-dissolves-it]] sits next to the apology practice. The apology that is fully felt is the apology that does the work. The apology that is performed at the level of word and posture without the felt presence is something else.
 
 ## The Children Test
 
@@ -119,3 +159,4 @@ It is also not a substitute for changed behavior. The apology is the surface eve
 - 2022-06-24_The Upright Apology- Accountability Without Shame
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-03-18_What's So Scary About Boundaries?
+- 2022-10-26_The Upright Apology

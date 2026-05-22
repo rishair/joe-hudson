@@ -4,7 +4,7 @@ id: i-cant-get-over-this-loss
 title: "I can't get over this loss / I should be over this by now"
 aliases: ["I can't move on", "I should be over this by now", "why am I still grieving", "I should have grieved more by now", "I haven't grieved enough", "I'm grieving wrong", "grief is taking too long", "I keep dating the same person", "I haven't moved past this breakup", "I can't stop thinking about them", "my grief won't end", "the grief keeps coming back", "I don't know how to grieve this", "I want this to be over", "I should be okay by now"]
 tags: ["grief", "loss", "breakup", "death", "stuckness", "patterns"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # I can't get over this loss / I should be over this by now
@@ -85,3 +85,4 @@ The flow is not a script. The branching depends on what is read.
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

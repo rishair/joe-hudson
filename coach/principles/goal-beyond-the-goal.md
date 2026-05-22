@@ -5,7 +5,7 @@ title: "Focus Through the Goal"
 aliases: ["goal beyond the goal", "focus through the goal", "aim past the target", "tennis quarter principle", "having a bigger why"]
 tags: ["goals", "focus", "accomplishment", "principle"]
 related: ["tennis-quarter", "art-of-accomplishment", "intention-vs-goal", "consciousness-is-the-product"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Focus Through the Goal
@@ -63,3 +63,4 @@ Practical, almost coaching-tip-like. Joe presents this as a concrete operating p
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

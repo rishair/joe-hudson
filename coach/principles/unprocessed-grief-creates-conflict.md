@@ -5,7 +5,7 @@ title: "Most Human Suffering Comes From Unprocessed Grief"
 aliases: ["unprocessed grief creates conflict", "grief is the source of conflict", "identity politics is unprocessed grief", "conflict comes from undismantled identity", "fighting comes from ungrieved identity", "the political conflict is grief", "most suffering is unfelt grief", "identity politics as grief", "national grief processes", "Truth and Reconciliation grief"]
 tags: ["grief", "identity", "conflict", "politics", "principle", "society"]
 related: ["grief-as-identity-dismantling", "without-grief-we-recreate-the-pattern", "unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "truth-and-reconciliation-south-africa", "dont-do-emotion-at-people"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Most Human Suffering Comes From Unprocessed Grief
@@ -103,3 +103,4 @@ The grief reorganizes the action. It does not eliminate it. What it eliminates i
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

@@ -5,7 +5,7 @@ title: "Gratitude Rounds Before Meetings"
 aliases: ["three rounds of gratitude", "gratitude practice for teams", "team gratitude rounds", "start meetings with gratitude", "gratitude as team cohesion", "gratitude circle", "3 things grateful for", "gratitude opener", "gratitude meeting practice", "the VC team gratitude practice"]
 tags: ["teams", "gratitude", "meetings", "practice", "leadership", "cohesion", "team-functionality"]
 related: ["see-whats-right-to-build-on-it", "gratitude-around-the-problem", "frame-it-as-an-experiment", "fear-of-joy", "functional-team", "invigorated-vs-depleted-as-functionality-measure", "five-star-meeting-commitment"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
 ---
 
 # Gratitude Rounds Before Meetings
@@ -108,3 +108,4 @@ The same practice works in families. "This works with your husband and wife and 
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
+- 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)

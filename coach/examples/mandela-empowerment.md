@@ -5,7 +5,7 @@ title: "Mandela: Empowerment Through Imprisonment"
 aliases: ["Mandela story", "Mandela crushing rocks", "empowerment Mandela", "Nelson Mandela empowered", "Mandela in prison"]
 tags: ["empowerment", "example", "Mandela", "power"]
 related: ["empowered-vs-power", "helplessness-is-the-gateway", "principles-free-you", "art-of-accomplishment", "subway-kid", "victim-stance-invites-abuse", "i-dont-have-time-for-this"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Empower Over Power"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Empower Over Power", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Mandela: Empowerment Through Imprisonment
@@ -50,3 +50,5 @@ This is also the rebuttal to [[i-dont-have-time-for-this]] and [[i-have-to-sacri
 
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_Empower Over Power
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

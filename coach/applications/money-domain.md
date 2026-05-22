@@ -5,7 +5,7 @@ title: "Money as a Coaching Domain"
 aliases: ["coaching about money", "money work", "money as the kinkiest thing", "money shame", "money pride", "money topic"]
 tags: ["money", "applications", "shame", "kinky", "domain"]
 related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal", "money-must-flow"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Money as a Coaching Domain
@@ -151,5 +151,7 @@ This is not pricing strategy in the conventional sense. It is the felt design of
 
 - 2021-04-23_Money Can't Save You
 - 2021-05-07_Money Can't Oppress You
+- 2021-06-04_The Business Behind our Courses
 - 2022-10-26_Money Can't Oppress You (rebroadcast)
 - 2022-10-26_Money Can't Save You (rebroadcast of 2021-04-23)
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

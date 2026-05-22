@@ -5,7 +5,7 @@ title: "Death Is the End of a Life, Not the End of a Relationship"
 aliases: ["death doesn't end the relationship", "the relationship continues after death", "your relationship with them develops through grief", "grief is relational development", "you keep relating to the dead", "the dead still shape who you are", "your sobs are a development in the relationship", "the relationship matures through mourning", "grief changes the relationship", "the relationship continues differently"]
 tags: ["grief", "death", "relationships", "principle", "love"]
 related: ["grief-as-identity-dismantling", "grief-is-many-emotions-not-just-sadness", "heartbreak-as-capacity-expansion", "feeling-the-unfelt-emotion", "without-grief-we-recreate-the-pattern"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Death Is the End of a Life, Not the End of a Relationship
@@ -88,3 +88,4 @@ When Joe responds to the line being repeated in the conversation, his response i
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

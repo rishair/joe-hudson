@@ -4,7 +4,7 @@ id: i-cant-apologize
 title: "I can't apologize / Saying sorry feels like losing"
 aliases: ["I can't say sorry", "I never apologize", "I find it hard to apologize", "apologizing feels like losing", "saying sorry is weakness", "I don't apologize easily", "apologies are hard for me", "I have a hard time apologizing", "I apologize too much", "I'm always apologizing", "I'm a chronic apologizer", "I say sorry constantly", "apology feels small"]
 tags: ["concern", "apology", "shame", "vulnerability", "control", "pride", "appeasement"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_The Upright Apology"]
 ---
 
 # I can't apologize / Saying sorry feels like losing

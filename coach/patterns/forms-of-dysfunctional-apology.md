@@ -5,7 +5,7 @@ title: "Forms of Dysfunctional Apology"
 aliases: ["dysfunctional apology types", "kinds of bad apologies", "the four bad apologies", "habitual apology", "shame-extracting apology", "guilt-relief apology", "passive-aggressive apology", "the chronic I'm sorry", "weaponized apology", "apology as control", "apology forms that don't work"]
 tags: ["apology", "shame", "patterns", "passive-aggression", "control", "appeasement"]
 related: ["upright-apology", "sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "vulnerability-as-control", "passive-aggressive-vs-aggressive-aggressive", "dont-extract-apologies", "apologies-as-power-struggle-surrogate"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
 ---
 
 # Forms of Dysfunctional Apology

@@ -5,7 +5,7 @@ title: "Empathy Makes You Better at Hard Jobs, Not Softer"
 aliases: ["empathy makes a better soldier", "empathy as performance enhancer", "hate reduces bandwidth", "rage takes bandwidth", "empathy in combat", "empathy is operational not sentimental", "love makes you better at war", "empathy as flow enabler", "hate is a performance tax", "the bandwidth taken by rage"]
 tags: ["empathy", "performance", "flow", "leadership", "combat", "operational", "principle"]
 related: ["empathy", "love-requires-empowerment", "welcoming-fear-in-leadership", "anger-as-cover-for-deeper-emotion", "consciousness-is-the-product", "stay-centered-while-holding-space"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # Empathy Makes You Better at Hard Jobs, Not Softer
@@ -117,3 +117,4 @@ Direct and matter-of-fact. The principle is counterintuitive in the abstract and
 ## Sources
 
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL

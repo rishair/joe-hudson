@@ -4,8 +4,8 @@ id: what-we-fear-we-invite
 title: "What We Fear, We Invite"
 aliases: ["fear attracts", "avoidance creates the thing", "fear invites the outcome", "subconsciously inviting what we fear", "what we're scared of we invite", "the emotional self-fulfilling prophecy"]
 tags: ["fear", "avoidance", "self-fulfilling prophecy", "impartiality"]
-related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears", "kinked-emotions"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-10-26_Impartiality"]
+related: ["fear-is-about-feeling", "impartiality", "familiar-over-safe", "shame-drives-behavior", "trauma-mapping", "feeling-the-unfelt-emotion", "im-afraid-of-stagnating", "target-fixation", "projections", "voice-creates-what-it-fears", "kinked-emotions", "feared-stories-about-emotions-sense-something-real"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-30_Your World is a Projection", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-10-26_Impartiality", "2022-10-26_Sam Altman ｜ Self-Awareness In Business", "2022-10-26_Stages Of Emotional Development"]
 ---
 
 # What We Fear, We Invite
@@ -144,3 +144,5 @@ Feeling the emotion is also what grounds the person into actual reality rather t
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_Impartiality (rebroadcast of the 2020-11-05 episode)
+- 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)
+- 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode; Brett's framing about "you're only grounding into what's real by feeling the emotion" -- the facade in a codependent relationship is what holds together by not feeling the anger)

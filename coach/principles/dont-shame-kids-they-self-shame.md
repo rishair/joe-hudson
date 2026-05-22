@@ -5,7 +5,7 @@ title: "Don't Shame Kids - They Self-Shame When They Need To"
 aliases: ["kids self-shame", "the natural moral compass in children", "no punishment no shaming", "kids will shame themselves", "natural shame in children", "they don't need imposed shame", "kids develop the compass on their own", "moral compass in kids without shaming"]
 tags: ["parenting", "shame", "inherent goodness", "natural shame", "principle", "moral compass"]
 related: ["inherent-goodness", "natural-shame-vs-installed-shame", "shame-as-disconnection", "welcome-the-shame-without-extracting", "shame-drives-behavior", "dont-extract-apologies", "wants-over-shoulds", "childhood-imprinting"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # Don't Shame Kids - They Self-Shame When They Need To
@@ -93,3 +93,4 @@ The result, in Joe's experience: children who develop a strong moral compass, wh
 ## Sources
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

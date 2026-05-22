@@ -4,8 +4,8 @@ id: stages-of-emotional-development
 title: "Stages of Emotional Development"
 aliases: ["emotional development stages", "the stages of feeling", "identify express inquire love", "emotional development map", "stages of emotional growth", "emotional spiral", "the seven stages of emotion", "infant to integration"]
 tags: ["emotional development", "stages", "framework", "transformation", "feeling", "spiral"]
-related: ["feeling-the-unfelt-emotion", "feel-over-figure", "epiphany-becomes-rut", "kinked-emotions", "daily-emotional-yoga", "emotions-live-in-muscles", "development-as-corkscrew", "repression-vs-management", "joy-as-matriarch", "observe-vs-move-emotion", "negative-emotions-precede-positive", "dont-do-emotion-at-people", "simplicity-on-the-other-side-of-complexity"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2022-10-26_Feel Over Figure"]
+related: ["feeling-the-unfelt-emotion", "feel-over-figure", "epiphany-becomes-rut", "kinked-emotions", "daily-emotional-yoga", "emotions-live-in-muscles", "development-as-corkscrew", "repression-vs-management", "joy-as-matriarch", "observe-vs-move-emotion", "negative-emotions-precede-positive", "dont-do-emotion-at-people", "simplicity-on-the-other-side-of-complexity", "feared-stories-about-emotions-sense-something-real"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2022-10-26_Feel Over Figure", "2022-10-26_Stages Of Emotional Development"]
 ---
 
 # Stages of Emotional Development
@@ -148,9 +148,11 @@ Patient. The stages take time. The framework is not a checklist. It is a map of 
 - Toward [[joy-as-matriarch]]: why positive emotions wait for the negative emotions to move.
 - Toward [[observe-vs-move-emotion]]: the distinction between watching an emotion and letting it move the body.
 - Toward [[negative-emotions-precede-positive]]: the developmental ordering.
+- Toward [[feared-stories-about-emotions-sense-something-real]]: the resistance at each stage often comes from a feared story about an emotion that is half-right about the mechanism (something dissolves) and wrong about the meaning (the dissolution is catastrophe).
 
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-09-24_Stages of Emotional Development
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2022-10-26_Stages Of Emotional Development (rebroadcast of the 2021-09-24 episode; Brett develops the bidirectional anger-to-sadness frame and the "I trust I will be reorganized at the end" framing of unstoried emotional movement)

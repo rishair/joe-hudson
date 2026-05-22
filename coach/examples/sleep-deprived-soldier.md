@@ -5,7 +5,7 @@ title: "The Sleep-Deprived Soldier Study"
 aliases: ["Army boot camp study", "sleep-deprived test", "the illusion of efficiency study", "U.S. Army efficiency study"]
 tags: ["example", "efficiency", "illusion", "research", "Army"]
 related: ["efficiency-as-enjoyment", "enjoy-over-manage", "art-of-accomplishment", "overwhelm-reduces-productivity", "overwhelm"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # The Sleep-Deprived Soldier Study
@@ -53,3 +53,4 @@ The study is one piece of evidence that the busyness-equals-productivity frame i
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

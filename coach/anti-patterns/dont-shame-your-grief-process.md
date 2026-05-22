@@ -5,7 +5,7 @@ title: "Don't Shame Yourself for the Form Your Grief Takes"
 aliases: ["don't shame your grief", "no judging your grief process", "every grief process is questioned", "shaming the grief shape", "I'm not crying enough", "I'm crying too much", "this happened too quickly", "this has taken too long", "I shouldn't be angry I should only be sad", "the shame of grief", "judging your grief", "telling yourself the wrong emotion is happening"]
 tags: ["anti-pattern", "grief", "shame", "judgment", "emotions"]
 related: ["grief-is-many-emotions-not-just-sadness", "shame-stagnates-emotion", "grief-as-identity-dismantling", "dont-block-emotion-waiting-for-reason", "embodied-stages-of-grief-ritual"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Don't Shame Yourself for the Form Your Grief Takes
@@ -77,3 +77,4 @@ This is the same anti-pattern as [[dont-block-emotion-waiting-for-reason]] in th
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

@@ -5,7 +5,7 @@ title: "Get Angry in the Car (or at the Beach, or in the Woods)"
 aliases: ["anger release practice", "get angry on your commute", "yell in the car", "private anger practice", "anger discharge practice", "anger somewhere not at someone", "the commute anger practice", "yell at the ocean"]
 tags: ["practice", "anger", "emotions", "discharge", "embodiment", "release"]
 related: ["anger", "daily-emotional-yoga", "let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "unfelt-emotion-leaks", "joes-angry-executive-commute", "tell-the-body-its-safe", "i-exist-affirmation-against-collapse", "fake-the-anger-to-let-it-move", "convert-thought-to-time-bounded-listening", "three-things-that-go-wrong-when-releasing-anger", "visceral-clarity-from-anger"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_The Wisdom Of Anger, Part 1"]
 ---
 
 # Get Angry in the Car (or at the Beach, or in the Woods)
@@ -25,6 +25,12 @@ In modern life, almost no one is regularly alone in a place where they can yell.
 "So many of us are never really alone in the woods or alone on the beach, or so rarely. In fact, the time that we might be alone might be when we're driving. Which might explain how so much road rage tends to come out when people feel alone, but they're actually interacting with others between metal and glass." -- Brett Kistler, The Wisdom of Anger
 
 The car is the available private container. The practice uses what already exists.
+
+At the societal scale, the same logic applies: cultures that maintain physical outlets for anger (gyms, contact sports, hard manual work, music venues) provide collective discharge. Cultures that lose those outlets do not become less angry; the anger surfaces in other forms.
+
+"It's no mistake that as all of our outlets for anger, whether it be gyms or sports games, or got taken away from us during COVID, that it started manifesting in other ways. The anger has to get out. It's gonna get out. The question is like, how does it, how does that get manifested in a way that's healthy?" -- Joe Hudson, The Wisdom of Anger Part 1 (2022)
+
+See [[anger-and-politics]] for the broader application of this dynamic at the collective scale.
 
 ## What It Produces
 

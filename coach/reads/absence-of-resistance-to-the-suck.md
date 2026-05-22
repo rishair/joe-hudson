@@ -4,7 +4,7 @@ id: absence-of-resistance-to-the-suck
 title: "Absence of Resistance to the Suck"
 aliases: ["authentic smile when saying it sucks", "no bracing against the suck", "acceptance of the suck", "saying it sucks with a smile", "the integrated suck", "naming hardness without bracing", "the acceptance read", "smile when describing hardship", "no fight against the difficulty"]
 tags: ["read", "acceptance", "integration", "embrace", "diagnostic", "recovery"]
-sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL"]
 ---
 
 # Absence of Resistance to the Suck
@@ -93,3 +93,4 @@ If the read is performed or dissociated:
 ## Sources
 
 - 2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_The Self-Discovery Of A Navy SEAL

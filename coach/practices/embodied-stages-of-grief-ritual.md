@@ -5,7 +5,7 @@ title: "Embodied Stages of Grief Ritual"
 aliases: ["the 7 positions of grief", "the seven positions of grief", "embody the stages of grief", "grief positions ritual", "extending six positions to grief", "the grief stretching practice", "embodied grief emotions ritual", "stage-by-stage grief embodiment", "the kinds-of-grief practice"]
 tags: ["practice", "grief", "embodiment", "ritual", "emotional-fluidity"]
 related: ["grief-is-many-emotions-not-just-sadness", "fake-the-anger-to-let-it-move", "let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "daily-emotional-yoga", "emotional-fluidity"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Embodied Stages of Grief Ritual
@@ -103,3 +103,4 @@ The practice is approached with the same orientation as any emotional fluidity w
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

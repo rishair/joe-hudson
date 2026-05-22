@@ -5,7 +5,7 @@ title: "Stagnant Money Is Destructive"
 aliases: ["money must flow", "stagnant money is destructive", "money as energy flow", "exchange of energy", "the Nicaragua story", "if you're here to help me no thank you", "monetary exchange as freedom", "free help teaches dependence", "mutual freedom not charity", "philanthropy as exchange", "philanthropy from guilt fails", "the food drop walkie-talkie story", "guilt-driven giving fails"]
 tags: ["money", "energy", "exchange", "charity", "service", "dependence", "principle", "philanthropy", "savior"]
 related: ["money-domain", "money-is-impersonal", "integrity-as-money-compass", "poverty-mentality", "victim-stance-invites-abuse", "fixing-people", "fear-triangle", "caring-vs-caretaking"]
-sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_Empower Over Power"]
+sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_Empower Over Power", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Stagnant Money Is Destructive
@@ -127,3 +127,5 @@ Practical, structural, slightly insistent. Joe presents this as observation abou
 ## Sources
 
 - 2021-06-04_The Business Behind our Courses
+- 2022-10-26_Empower Over Power
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

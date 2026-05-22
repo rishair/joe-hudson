@@ -5,7 +5,7 @@ title: "Enjoyment Gauges Surrender to the Call"
 aliases: ["enjoyment as gauge of surrender", "enjoyment as the call", "follow the call through enjoyment", "surrender to the gravity", "the baby surrenders to the cry", "enjoyment is how deeply I'm surrendering", "the deeper call", "internal gravity"]
 tags: ["enjoyment", "surrender", "calling", "alignment", "decision-making", "principle"]
 related: ["enjoyment-as-path", "listening-to-impulse", "integrity-as-money-compass", "efficiency-as-enjoyment", "intention-vs-goal", "wants-over-shoulds"]
-sources: ["2021-06-04_The Business Behind our Courses"]
+sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Enjoyment Gauges Surrender to the Call
@@ -110,3 +110,4 @@ Joe describes this in soft, slow language. The principle is held with reverence,
 ## Sources
 
 - 2021-06-04_The Business Behind our Courses
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

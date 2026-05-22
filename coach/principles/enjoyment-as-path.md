@@ -5,7 +5,7 @@ title: "Enjoyment as Path"
 aliases: ["enjoy the process", "how do I enjoy the things I'm doing", "enjoyment is more effective", "golden mean of the journey", "enjoy yourself"]
 tags: ["transformation", "enjoyment", "principle", "approach"]
 related: ["process-over-result", "embrace-intensity", "resistance", "five-principles-of-the-path", "enjoy-over-manage", "pleasure-capacity", "efficiency-as-enjoyment", "art-of-accomplishment", "consciousness-is-the-product", "enjoyment-as-surrender"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_Embarking On The Journey"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Enjoyment as Path
@@ -72,3 +72,6 @@ This makes enjoyment not a luxury but a measure of how well the system is functi
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-06-04_The Business Behind our Courses
+- 2022-10-26_Embarking On The Journey
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

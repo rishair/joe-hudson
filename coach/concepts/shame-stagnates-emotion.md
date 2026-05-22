@@ -5,7 +5,7 @@ title: "Shame Stagnates Emotional Fluidity"
 aliases: ["shame stops emotions", "shame freezes emotion", "shame blocks emotional flow", "shame as emotional barrier", "shame is an emotion that blocks other emotions", "shame as emotional nemesis", "the kick in the stomach", "shame creates emotional dead zones", "shame as the awareness desert"]
 tags: ["shame", "emotional fluidity", "stagnation", "felt sense", "body", "emotion"]
 related: ["shame-as-disconnection", "shame-drives-behavior", "emotional-fluidity", "feeling-the-unfelt-emotion", "kinked-emotions", "the-shame-avoidance-loop", "love-as-deep-welcoming"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # Shame Stagnates Emotional Fluidity
@@ -91,3 +91,4 @@ It connects to [[kinked-emotions]] as a special case: shame is not just kinked, 
 ## Sources
 
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_The Anatomy Of Shame (rebroadcast of the 2022-07-22 episode)

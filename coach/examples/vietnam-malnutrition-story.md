@@ -5,7 +5,7 @@ title: "The Vietnam Malnutrition Story (Positive Deviance)"
 aliases: ["the Save the Children Vietnam story", "the $50,000 malnutrition story", "positive deviance Vietnam", "the rice paddy weed story", "the village that worked", "the malnutrition solution story", "Jerry Sternin story", "find the village where it works", "the microscopic shrimp story"]
 tags: ["example", "problem-solving", "leadership", "positive-deviance", "scarcity", "creativity", "non-profit"]
 related: ["see-whats-right-to-build-on-it", "gratitude-around-the-problem", "resources-vs-resourcefulness", "follow-the-demand", "constraints-increase-creativity"]
-sources: ["2022-03-11_How Does Gratitude Create Better Teams?"]
+sources: ["2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_The Power Of Gratitude In A Team"]
 ---
 
 # The Vietnam Malnutrition Story (Positive Deviance)
@@ -90,3 +90,4 @@ The asymmetry is large. The first approach is bounded by the cost of intervening
 ## Sources
 
 - 2022-03-11_How Does Gratitude Create Better Teams?
+- 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation)

@@ -5,7 +5,7 @@ title: "Follow the Demand, Don't Impose the Agenda"
 aliases: ["follow the demand", "follow their agenda not yours", "start where they are", "don't tell them their agenda", "let the people tell you what they want", "agenda follows the asker", "no imposed vision", "service-driven business", "follow the requests"]
 tags: ["service", "business", "coaching", "agenda", "demand", "starting-where-they-are", "principle"]
 related: ["impartiality", "fixing-people", "wants-over-shoulds", "wonder", "view-as-technique", "dont-evangelize-the-work"]
-sources: ["2021-06-04_The Business Behind our Courses"]
+sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Follow the Demand, Don't Impose the Agenda
@@ -98,3 +98,4 @@ Joe says this matter-of-factly, as obvious. The framing is "this is what works,"
 ## Sources
 
 - 2021-06-04_The Business Behind our Courses
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

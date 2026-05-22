@@ -5,7 +5,7 @@ title: "The Tennis Quarter"
 aliases: ["tennis quarter story", "Kate's coach quarter", "the basket and the quarter", "aim past the basket"]
 tags: ["example", "tennis", "goals", "focus", "Kate"]
 related: ["goal-beyond-the-goal", "intention-vs-goal", "art-of-accomplishment"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # The Tennis Quarter
@@ -47,3 +47,4 @@ The mechanism: the larger aim organizes everything around it. Attention, choices
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

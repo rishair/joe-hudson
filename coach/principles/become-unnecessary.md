@@ -5,7 +5,7 @@ title: "Become Unnecessary"
 aliases: ["the less involved I can be the better", "less needed the better", "becoming unnecessary as success", "a good teacher becomes unnecessary", "the math teacher test", "remove yourself from the equation", "make yourself replaceable", "necessary teacher trap"]
 tags: ["teaching", "coaching", "business", "leadership", "cult dynamics", "scaling", "principle"]
 related: ["community-over-teacher", "dont-evangelize-the-work", "consciousness-is-the-product", "fixing-people", "integration", "childhood-imprinting", "structure-and-empowerment"]
-sources: ["2021-06-04_The Business Behind our Courses", "2021-08-13_Seeing Through Family Dynamics"]
+sources: ["2021-06-04_The Business Behind our Courses", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_The Business Behind Our Courses"]
 ---
 
 # Become Unnecessary
@@ -96,3 +96,5 @@ Plain, structural. Joe states this without moralizing. It is presented as a desi
 ## Sources
 
 - 2021-06-04_The Business Behind our Courses
+- 2021-08-13_Seeing Through Family Dynamics
+- 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)

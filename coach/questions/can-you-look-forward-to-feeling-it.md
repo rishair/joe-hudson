@@ -4,7 +4,7 @@ id: can-you-look-forward-to-feeling-it
 title: "Can you look forward to feeling it?"
 aliases: ["can you welcome it", "do you want to feel angry", "are you excited to feel sad", "the looking-forward test", "the welcoming diagnostic", "can you welcome the emotion like a returning child", "do you find yourself wanting to feel it"]
 tags: ["emotions", "welcoming", "diagnostic", "stages of development", "feeling", "core question"]
-sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1"]
+sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2022-10-26_Stages Of Emotional Development"]
 ---
 
 # Can you look forward to feeling it?
@@ -73,3 +73,4 @@ Gentle, curious, slightly playful. The question is offered as a check, not a tes
 ## Sources
 
 - 2021-09-24_Stages of Emotional Development - Emotion Series #1
+- 2022-10-26_Stages Of Emotional Development (rebroadcast where Brett's preparing-the-house-for-the-party metaphor is developed alongside the matriarch image)

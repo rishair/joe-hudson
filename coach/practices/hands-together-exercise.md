@@ -5,7 +5,7 @@ title: "Hands Together Exercise"
 aliases: ["hands together", "the trying vs undoing exercise", "palms together exercise", "feel the opposite of trying", "the somatic undoing"]
 tags: ["practice", "somatic", "undoing", "trying", "exercise"]
 related: ["undoing-not-doing", "trying-vs-doing", "art-of-accomplishment", "resistance"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Hands Together Exercise
@@ -59,3 +59,4 @@ For many, the immediate next question is: "Then what do I do instead?" The hones
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

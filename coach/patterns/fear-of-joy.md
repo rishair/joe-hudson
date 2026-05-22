@@ -5,7 +5,7 @@ title: "Fear of Joy"
 aliases: ["scared of joy", "pleasure anxiety", "the other shoe is going to drop", "stopping the laughter", "afraid to feel good", "the joy clamp", "if I let the love in", "shutting down the laughing", "fear of feeling good", "afraid of pleasure", "foreboding joy", "the inevitable doom thought", "if I'm happy I won't be prepared", "resistance to gratitude", "scared of being content"]
 tags: ["joy", "fear", "pleasure", "anxiety", "self-protection", "pattern", "gratitude"]
 related: ["joy-as-matriarch", "pleasure-capacity", "cafe-emotional-stigma", "embrace-vs-brace", "ive-lost-my-joy", "anxiety-as-constricted-life-force", "feeling-the-unfelt-emotion", "gratitude-rounds-before-meetings"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-03-11_How Does Gratitude Create Better Teams?", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_The Power Of Gratitude In A Team"]
 ---
 
 # Fear of Joy
@@ -146,3 +146,4 @@ Curious, warm. The fear of joy is treated as a real phenomenon, not as a failure
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-03-11_How Does Gratitude Create Better Teams?
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
+- 2022-10-26_The Power Of Gratitude In A Team (rebroadcast of the same conversation as the 2022-03-11 episode)

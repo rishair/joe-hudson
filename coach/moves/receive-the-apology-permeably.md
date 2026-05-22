@@ -5,7 +5,7 @@ title: "Receive the Apology Permeably (Don't Buy the Story)"
 aliases: ["receive apology permeably", "let the apology move through", "permeable receiving", "receive without armor", "feel the apology through you", "don't buy the story of the apology", "hungry ghost for apologies", "receiving an apology", "the receiving stance", "feel it all the way through"]
 tags: ["apology", "receiving", "moves", "permeability", "boundaries", "vulnerability"]
 related: ["upright-apology", "sorry-from-shame-vs-sorry-as-solidarity", "letting-judgment-in", "defense-vs-love", "embrace-vs-brace", "forms-of-dysfunctional-apology", "stay-centered-while-holding-space"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_The Upright Apology"]
 ---
 
 # Receive the Apology Permeably (Don't Buy the Story)
@@ -25,6 +25,24 @@ The move has two halves, and missing either one breaks it.
 **Do not buy the story.** Apologies often contain implicit stories. The shame apology contains the story "I am bad and you are the wronged party." The passive-aggressive apology contains the story "you owe me an apology back." The guilt-relief apology contains the story "this should make you feel better." None of these stories are yours to buy. You can feel the apology fully without absorbing the story underneath it.
 
 "I would describe it as if you feel the apology all the way through and let it permeate you, but don't buy the story." -- Joe Hudson, The Upright Apology
+
+## Permeable Is Not Bowled Over
+
+Permeable receiving is sometimes mistaken for losing yourself in the apology. The two are distinct. Permeable means the apology moves through you. Bowled over means the apology overrides your own ground.
+
+The clearest example: someone delivers a shame-based apology and you take on the shame. You start apologizing back ("no, I'm sorry, it was actually my fault"). The apology has not moved through you. It has installed itself in you and reorganized your sense of what happened.
+
+"If somebody delivers to you an apology with shame and you take on that shame and you feel that shame, and then that makes you feel like you've actually done something wrong, then you find yourself in a 'no I'm sorry, no I'm sorry' kind of situation." -- Brett Kistler, The Upright Apology
+
+The distinction Joe offers: feel the apology all the way through, but do not buy the story. The feeling is the permeable part. The not-buying-the-story is what protects your ground. Both halves are required; missing either produces a different problem.
+
+## The Subtle Constriction Signal
+
+The receiver's body knows when permeability has failed even if the receiver does not. The signal is small.
+
+"You can detect that somewhere in your body you're closing down and you're constricting. And then it's like, what is, what is that constriction? What do I feel like I'm defending right now?" -- Brett Kistler, The Upright Apology
+
+The closing-down can happen even when the receiver says all the right words. The words can be conciliatory while the body is hardening. Notice the body. The body is the diagnostic that the mind tends to miss.
 
 ## The Hungry Ghost
 

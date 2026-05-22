@@ -5,7 +5,7 @@ title: "Undoing, Not Doing"
 aliases: ["undoing not doing", "transformation is undoing", "an undoing not a doing", "release the false to find what is", "you don't need to add anything", "annihilation", "what cannot be annihilated", "I did something I need to keep", "doing vs undoing"]
 tags: ["transformation", "undoing", "method", "release", "concept"]
 related: ["hands-together-exercise", "trying-vs-doing", "seven-limiting-beliefs", "inherent-goodness", "art-of-accomplishment", "resistance", "self-realization", "defense-vs-love", "quit-hope-lose-cycle", "no-finish-line", "joes-woods-fast-stopped-fighting", "layered-resistance"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Embarking On The Journey"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-03-19_Authenticity over Improvement — Master Class Series #7", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-10-26_Embarking On The Journey", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Undoing, Not Doing
@@ -122,3 +122,5 @@ Quiet, almost casual. Joe presents this as obvious once seen. Not a heroic refra
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2022-10-26_Embarking On The Journey
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)

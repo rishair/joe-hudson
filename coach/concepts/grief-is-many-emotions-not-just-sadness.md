@@ -5,7 +5,7 @@ title: "Grief Is Many Emotions, Not Just Sadness"
 aliases: ["grief is not sadness", "sadness is the wrapper of grief", "grief contains many emotions", "grief is fear anger sadness helplessness denial", "grief is multi-emotional", "what grief actually contains", "the emotions inside grief", "grief is a wrapper", "grief moves non-linearly", "grief flips between emotions"]
 tags: ["grief", "emotions", "anger", "fear", "sadness", "helplessness", "emotional-fluidity"]
 related: ["grief-as-identity-dismantling", "emotional-fluidity", "wisdom-of-each-emotion", "anger-as-cover-for-deeper-emotion", "embodied-stages-of-grief-ritual", "dont-shame-your-grief-process", "logic-vs-emotional-movement"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-10-26_The Beauty Of Grief"]
 ---
 
 # Grief Is Many Emotions, Not Just Sadness
@@ -87,3 +87,4 @@ Matter-of-fact. Joe is not making a moral claim that all emotions in grief are g
 ## Sources
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
+- 2022-10-26_The Beauty Of Grief (rebroadcast of the 2022-08-19 conversation)

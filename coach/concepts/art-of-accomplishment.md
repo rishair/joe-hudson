@@ -5,7 +5,7 @@ title: "Art of Accomplishment"
 aliases: ["accomplishment as art", "the art of accomplishment", "AoA", "artistry of accomplishment", "how not what", "art of getting things done"]
 tags: ["accomplishment", "art", "consciousness", "ease", "self-awareness", "foundational"]
 related: ["consciousness-is-the-product", "efficiency-as-enjoyment", "undoing-not-doing", "inherent-goodness", "connection-over-perfection", "enjoy-over-manage", "intention-vs-goal", "seven-limiting-beliefs", "enjoyment-as-path"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom", "2022-10-26_The Art of Accomplishment"]
 ---
 
 # Art of Accomplishment
@@ -100,8 +100,27 @@ When you measure efficiency by speed, by hours worked, by checklist completion, 
 
 Foundational. Direct. The frame for the entire podcast. Joe speaks about this with confidence and a sense that it is obvious once seen.
 
+## The Rejecting-Clients Evidence
+
+A specific, observable form of the art at work. When Joe became more discerning -- when he started rejecting clients, investments, and deals that did not fit what he actually wanted to do -- more good clients, more good deals, more good investments began appearing. The fearful version (take what is offered, hold on because there may not be more) suppresses the supply. The trust-based version (only take what fits) increases the supply.
+
+"What I noticed in my business is that the more that I became picky, the more that I decided it just wasn't worth it if I didn't do the thing that I wanted to do, and I started rejecting clients, or I started rejecting investments, or I started rejecting really good deals, then all of a sudden more and more good deals, more and more good clients started showing up." -- Joe Hudson, The Art of Accomplishment
+
+The mechanism is the same as the [[subway-kid]] story: the consciousness that says "I do not need to prove anything to be worthy of what is offered" produces the conditions in which what is offered upgrades. The mechanism is not magical. People can feel the difference between someone selling from fear and someone choosing from sufficiency. They want to do business with the second one.
+
+This pairs with [[inherent-goodness]]: only a person who trusts their own goodness can comfortably reject opportunities. The fear-based person grabs every offer because the offer is the proof. The trust-based person can let an offer pass because they do not need it for proof.
+
+## The Tao of Water
+
+A second framing of the same ease principle, from Taoist tradition. Water does not require effort to reach the ocean. It follows. It goes to the lowest point. It is effortless in its way, and more powerful than any sword. Try to fight water with a sword and you will learn which is stronger.
+
+"It's the way the Taoists talk about it as the way of water, that water doesn't require any effort to get to the ocean. It just follows. It just goes to the lowest point. It is effortless in its way, and it is more powerful than any sword." -- Joe Hudson, The Art of Accomplishment
+
+Life, at the art of accomplishment, starts to feel like this. The leverage points become visible. The path of least resistance produces the most movement. The carving artist sees the work in the wood before they begin; they follow what is there rather than imposing what they had imagined. See [[butchers-blade]] for the same principle in its sharpest formulation.
+
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
 - 2022-10-26_Aaron Taylor's Journey To Emotional Freedom (rebroadcast of the 2022-08-05 conversation)
+- 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
