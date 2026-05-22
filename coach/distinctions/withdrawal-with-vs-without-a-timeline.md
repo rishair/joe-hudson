@@ -5,7 +5,7 @@ title: "Withdrawal With a Timeline vs. Withdrawal Without One"
 aliases: ["leaving with a timeline", "the 20 minute promise", "stonewalling vs taking space", "I'll be back in 20 minutes", "punishment by withdrawal vs taking space", "leaving as punishment vs leaving to take care of self", "abandonment vs space", "the timeline distinguishes withdrawal types"]
 tags: ["distinction", "relationships", "withdrawal", "abandonment", "anger", "boundaries", "communication"]
 related: ["anger", "get-angry-in-the-car", "dont-do-emotion-at-people", "boundary-with-vs-boundary-against", "weaponized-not-caretaking"]
-sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-08-05_How to Draw HEALTHY Boundaries"]
+sources: ["2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_The Wisdom Of Anger, Part 1", "2024-08-05_How to Draw HEALTHY Boundaries", "2024-10-25_How To Fight And Win"]
 ---
 
 # Withdrawal With a Timeline vs. Withdrawal Without One
@@ -53,6 +53,32 @@ The timeline is what prevents this. Without it, the boundary works against itsel
 "You just wanna let them know that you'll be back when the conditions are right, when you are comfortable and safe and feel good about coming back, which really helps you refine the thought process that it is about what you're gonna do, not what they're gonna do." -- Joe Hudson, How to Draw HEALTHY Boundaries
 
 The framing also disciplines the leaver. Stating the conditions of return ("when I'm comfortable and safe and feel good about coming back") forces the leaver to articulate what they are actually doing. The articulation prevents the leaving from drifting into punishment.
+
+## The Trauma Frame: Why Leaving Without a Timeline Lands as Forever
+
+Joe gives a precise mechanism for why the absence of a timeline lands so destructively on the partner. The mechanism is trauma-specific.
+
+"When you're in your trauma, when someone says I'm out, it's forever. It's just how it works." -- Joe Hudson, How To Fight And Win
+
+A nervous system that is already in trauma activation reads "I'm leaving" the way the original wound was read. There is no time-binding for the trauma'd body. Whatever the speaker's actual intent, the receiver's body hears the leaving as the abandonment they have been preparing for since childhood. The timeline is what gives the body the data it needs to not enter that state.
+
+This makes the timeline a piece of trauma-informed communication, not just a courtesy. The leaver who omits the timeline is, in effect, asking the partner's trauma to interpret the leaving correctly without help. The trauma will not. The trauma will read forever.
+
+"It's really important to say when you're going to be back, how to re-engage. Because if you don't give that to the person, then it's abandonment and there you're just going to push them deeper into their trauma typically." -- Joe Hudson, How To Fight And Win
+
+The deeper-into-trauma consequence matters because the dynamic that often required the leaving in the first place is itself trauma-driven. Leaving without a timeline takes a trauma-firing situation and intensifies the trauma on both sides. The fight that required the exit becomes the fight that produced the next bigger fight.
+
+## Three Things the Timeline Needs to Include
+
+A clean leaving-with-timeline communicates three things:
+
+1. **That you are going.** Not "I might need to leave." Actually going.
+2. **That you are coming back.** Not "I'll see if I want to come back." Coming back.
+3. **The condition or timing of the return.** A time ("20 minutes"), a condition ("when I can be present with this"), or both.
+
+"You have to be able to say, 'I am going to go now to take care of myself and I will be back and this is how I will be back, or this is when I'll be back, or these are the conditions under which I will be back.' But some way that they know I'm not leaving you permanently." -- Joe Hudson, How To Fight And Win
+
+The third element has a range. The cleanest forms are time-bound ("20 minutes," "after a walk," "till dinner"). When time is genuinely unclear, conditions can substitute ("when I can come back into the conversation from a softer place," "when I am no longer in my trauma"). Both work as long as the partner has a frame inside which to wait.
 
 ## Connection to Anger Work
 
@@ -110,8 +136,12 @@ When teaching anger discharge practice (the car, the beach), build in the timeli
 - Toward [[get-angry-in-the-car]]: the practice that requires this distinction to work in a household.
 - Toward [[boundary-with-vs-boundary-against]]: the same family of distinctions about how something is held.
 - Toward [[dont-do-emotion-at-people]]: the leaving-with-timeline is one mechanism for not aiming emotion at people.
+- Toward [[you-are-responsible-for-your-own-window-of-tolerance]]: the broader principle that organizes when leaving is appropriate.
+- Toward [[triggers-reduce-when-you-know-you-can-leave]]: the related principle about why the leaving capacity itself is important.
 
 ## Sources
 
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
 - 2022-10-26_The Wisdom Of Anger, Part 1 (re-recording with same framing)
+- 2024-08-05_How to Draw HEALTHY Boundaries
+- 2024-10-25_How To Fight And Win (the "when you're in your trauma, when someone says I'm out, it's forever" mechanism; the three required elements of the timeline; the framing of leaving-without-timeline as pushing the partner deeper into their trauma)

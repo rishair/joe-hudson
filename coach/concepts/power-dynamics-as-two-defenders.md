@@ -5,7 +5,7 @@ title: "Power Dynamics: Two People Who Both Think They're Defending"
 aliases: ["power dynamics as mutual defense", "both sides feel attacked", "two people defending themselves", "the mutual defense frame", "power dynamics structure", "all conflict is two scared people", "the defender-attacker mirror", "mutual defense dynamic", "both think the other is attacking", "every fight has the same structure", "all fights are about the same thing", "the structure of every relationship fight"]
 tags: ["power", "conflict", "fear", "defense", "relational", "diagnostic", "core concept", "relationships"]
 related: ["fear-triangle", "empowered-vs-power", "defense", "binary-thinking-signals-fear", "anxiety-as-constricted-life-force", "acknowledge-the-fear-by-role", "relationships-as-personal-growth-path", "dont-try-to-change-your-partner", "shame-hot-potato", "drop-the-hot-potato"]
-sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2022-10-26_The Power Dynamics Of Fear"]
+sources: ["2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Relationships Reveal Us", "2022-10-26_The Power Dynamics Of Fear", "2024-10-25_How To Fight And Win"]
 ---
 
 # Power Dynamics: Two People Who Both Think They're Defending
@@ -93,6 +93,16 @@ It is not a denial that real attack exists. Some attacks are attacks. The frame 
 
 It is not a tool to use during the fight to win the fight. Applied internally as a reframe ("oh, they think they are defending"), it usually dissolves the fight. Applied externally as a weapon ("you only think you're attacking; really you're defending"), it adds another layer of attack and intensifies the dynamic.
 
+## The Trauma Layer Underneath the Defense
+
+The "two defenders" structure becomes more specific in long-term relationship fights. Both partners are not just defending; both partners are usually in their trauma at the same time, defending against the original wound, not the present partner. The present partner is being interpreted as the original wound figure (the parent, the prior partner, the early caregiver). The defense is to a person who is not in the room.
+
+"We think that we're kids again. We think that we're in old relationships again. We're not in that moment. And so we are wildly reactive to one another's statements." -- Joe Hudson, How To Fight And Win
+
+This layer matters because it explains why the "we are both defending" frame, on its own, sometimes does not dissolve the fight. The frame is intellectually accurate but does not address the body's report that the present partner is the original wound figure. The recognition has to go one layer deeper: not just "we are both defending," but "we are both defending against people who are not actually in this room."
+
+The operational form of this recognition is [[name-im-in-my-trauma-as-couple-language]] -- the move where one partner names "I'm in my trauma right now" and the other can then reposition from "opponent in this fight" to "loving witness to what is firing." This is the trauma-informed version of the mutual-defense recognition. See also [[trigger]] for the trauma frame on the couple form.
+
 ## The Internal Version
 
 Inside one head, the same dynamic plays. The voice in the head sets up an argument with itself in which both sides feel attacked. The bully voice criticizes. The victim voice protests being criticized. The savior voice tries to fix both. All three feel defended. All three feel attacked by the others.
@@ -133,3 +143,4 @@ Plain, observational, almost biological. Joe does not deliver this as a moral te
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-10-26_How Relationships Reveal Us
 - 2022-10-26_The Power Dynamics Of Fear (rebroadcast of 2022-02-04)
+- 2024-10-25_How To Fight And Win (the trauma layer underneath the mutual-defense structure: both partners are usually defending against people who are not in the room; the in-the-moment relational move of naming "I'm in my trauma right now")

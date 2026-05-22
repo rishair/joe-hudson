@@ -88,6 +88,8 @@ The guide reframe is one of the moves that allows the system to drop out of batt
 - Toward [[apply-view-to-the-voice]]: the relational practice that allows the guide to be heard.
 - Toward [[feeling-the-unfelt-emotion]]: what the voice points at usually requires feeling the unfelt emotion underneath the unaccepted place.
 - Toward [[wonder]]: curiosity about what the voice is saying replaces the urgency to silence it.
+- Toward [[assume-the-voice-is-right-but-not-bad]] when the voice's content is something the person partially believes is true. The guide framing presumes the voice is pointing at something; the assume-it's-right move grants the perception explicitly and removes the moral verdict that has been making the perception unbearable. The guide framing is the conceptual orientation; the assume-it's-right move is the in-session operationalization.
+- Toward [[thank-the-voice-when-its-truth]] after the guide-frame has landed and the voice has been recognized as intuition. The thanks is the gesture that ends the war with the guide.
 
 ## Tone
 

@@ -5,7 +5,7 @@ title: "Triggers Reduce When You Know You Can Leave"
 aliases: ["knowing you can leave reduces triggers", "learning to leave is how you stop being triggered", "you can't love what can dominate you", "the leave principle", "knowing you don't have to accept it", "trigger reduction via boundary capacity", "the leave-or-stay choice makes the staying possible", "domination produces trigger", "love requires the option to leave"]
 tags: ["triggers", "principle", "boundaries", "love", "domination", "freedom", "choice"]
 related: ["trigger", "boundaries", "definition-of-asshole", "principles-free-you", "love-requires-empowerment", "empowered-vs-power", "feared-consequences-rarely-happen", "boundaries-expand-as-capacity-grows", "what-if-you-acted-exactly-how-you-want"]
-sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More"]
+sources: ["2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-10-25_How To Fight And Win"]
 ---
 
 # Triggers Reduce When You Know You Can Leave
@@ -64,6 +64,41 @@ A person who chooses to stay in a difficult situation (because they value someth
 
 This is why two people in identical external situations can have very different internal experiences. The one who feels they have no choice is being triggered. The one who knows they are choosing it is not. Same situation, same other person, same difficult behavior. Different internal stance.
 
+## The Marriage Version: 'It's Hard to Love What You Think Is Oppressing You'
+
+The principle has a specific application to marriage and long-term partnership. The partner who feels they cannot leave the marriage will be triggered by everything the partner does. The same partner who has internalized "I can leave" -- not as a threat but as a felt-sense capacity -- can be far less triggered by the same behaviors.
+
+"It's really hard to love something that you think is oppressing you. So the other way I say this, the same thing slightly differently is there is no unconditional love without empowerment. There is no real empowerment without unconditional love." -- Joe Hudson, How To Fight And Win
+
+The structural claim: you cannot fully love a person you experience as the cap on your freedom. The body will not produce love toward what it experiences as cage. The capacity to leave is therefore not opposed to love; it is the prerequisite for love. The relationship that has "I can leave" inside it can also have "I am here by choice," and the second is the precondition for the love being uncoerced.
+
+The other side of Joe's compressed teaching matters too: there is no real empowerment without unconditional love. Empowerment without love can be a cold autonomy that is also not the destination. The pair-bond of empowerment-and-love is what produces the relationship that is neither trapped nor cold.
+
+The dynamic this principle interrupts is one of the most common shapes of relationship failure: a partner stays out of fear of leaving (financial, logistical, identity-based) and slowly accumulates rage at the partner for the trapped-feeling. The partner is not actually trapping them; the trappedness is the partner's own unprocessed fear of leaving. But the body experiences the partner as the cap and produces the corresponding triggers. The relationship deteriorates because the love cannot operate inside the experience of oppression.
+
+The exit move is to do the work on the can-leave capacity. Sometimes this means actually leaving (briefly or permanently). Sometimes it means doing the inner work to know the leaving is possible without enacting it. Either way, the unblocking of love depends on the unblocking of the leave-capacity.
+
+"There, you have to know that you are empowered to leave, to be able to love. You have to know that you're not trapped or you beautifully said fight like a caged animal. And that, that, that, that is not fucking pretty in a marriage." -- Joe Hudson, How To Fight And Win
+
+The "fight like a caged animal" image is the specific failure mode this principle prevents. Animals fighting from inside a cage do not fight to win or to communicate; they fight from terror. The partner who feels trapped fights from the same place. The fights are bigger, more destructive, less productive than they would be from outside the cage. Knowing you can leave moves the fight out of the cage even when you stay in the relationship.
+
+## The Tara Example: 'It Was About Her Knowing She Could Leave'
+
+Joe gives a specific example from his and Tara's early relationship that illustrates how this principle operated between them.
+
+"I felt the same thing that Alexa felt, which was, 'I'm angry. Why don't you meet me in my anger? This is my form of vulnerability. Why are you running from me when I'm like this?' And the more that she ran, the more I felt abandoned, the angrier I got. And she would say, 'Okay, if you treat me like this, I'm going to go, or I can't handle this, I'm leaving.' And I thought that it was about me. And what it was really about was she needed to know she could leave. She needed to know that she didn't have to put up with it. And as she stopped putting up with it, as she saw that she could leave, it wasn't about me telling her what was right or wrong for her. Then she could more and more show up for my anger and show up as herself." -- Joe Hudson, How To Fight Well
+
+The structure of the example:
+
+1. Tara's "I'm going to go" statements were initially read by Joe as being about him -- as either a threat or a rejection.
+2. The real function was about her capacity to leave. She needed to confirm to her own body that the staying was a choice and not an obligation.
+3. As her felt-capacity to leave developed, her trigger-response to Joe's anger reduced.
+4. The reduction in her triggering produced the unexpected outcome: she became more able to be present for Joe's anger, not less.
+
+The dynamic is counterintuitive. Joe's initial reaction was to want Tara to stay, because her leaving felt like abandonment. But her leaving (or her capacity to leave) was the work that built her ability to stay productively. Trying to keep her from leaving would have kept her stuck inside the dominated position, which would have kept her triggered, which would have kept the fight unresolvable.
+
+The corollary: a partner who needs to leave, and is leaving in service of building the capacity to choose-to-stay, should be allowed to leave. The principle from [[you-are-responsible-for-your-own-window-of-tolerance]] is the structural fact this rests on. Their leaving is part of their work. Your work is not to prevent it.
+
 ## The Connection to Boundary Work
 
 This principle is the underlying reason boundaries are so powerful. A boundary is the operational form of "I know I can leave."
@@ -105,6 +140,9 @@ A person who only does the leaving without the work has not done the work. A per
 - Toward [[feared-consequences-rarely-happen]]: when the person tests their capacity to leave, the feared consequences usually do not arrive
 - Toward [[what-if-you-acted-exactly-how-you-want]]: the experimental form of the principle
 - Toward [[love-requires-empowerment]]: love cannot survive without the option of leaving
+- Toward [[you-are-responsible-for-your-own-window-of-tolerance]]: the partner's right to leave when they need to
+- Toward [[withdrawal-with-vs-without-a-timeline]]: the operational form for how the leaving should happen
+- Toward [[every-fight-can-bring-you-closer]]: the destination that requires both partners to know they can leave
 
 ## Tone
 
@@ -113,3 +151,5 @@ Practical, structural. Not preachy. The principle is offered as a piece of how t
 ## Sources
 
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching
+- 2024-10-25_How To Fight And Win (the marriage version: "it's hard to love something that you think is oppressing you"; the pair-bond of empowerment and unconditional love; the "fight like a caged animal" image for what happens when the leaving capacity is absent in a marriage)
+- 2024-10-25_How To Fight Well (the Tara example: Joe's initial misreading of her "I'm going to go" as being about him, the recognition that it was about her capacity to leave; the structural insight that her developing capacity to leave was what eventually let her stay productively in his anger)

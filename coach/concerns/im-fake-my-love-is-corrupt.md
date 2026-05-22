@@ -78,6 +78,11 @@ The arc is short and direct when the imprint can be located.
 
 The whole arc can happen in under twenty turns when the person is available. The work is not analytical. It is somatic, located, specific.
 
+## Related Concerns
+
+- [[theres-a-voice-that-says-im-fake-around-everyone]]: a parallel concern in which the fakeness is reported as a general voice across all relationships, not specifically about love. The reads and moves overlap (the same family of voice-work applies) but the path is different. The love-corrupt version goes to the childhood imprint of love-withdrawal. The fake-around-everyone version goes to reframing the voice as accurate intuition about the social mask. The two concerns can coexist in the same person.
+- [[i-have-imposter-syndrome]]: another distinct cousin where the word "fake" applies in the domain of professional competence rather than love or social mask.
+
 ## Sources
 
 - 2024-04-15_Am I A Fake？

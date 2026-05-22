@@ -2,10 +2,10 @@
 type: principle
 id: love-requires-empowerment
 title: "Love Requires Empowerment"
-aliases: ["love can't exist without empowerment", "you can't love if you're not empowered", "empowerment as precondition for love", "love and empowerment", "fear can't love"]
-tags: ["love", "empowerment", "fear", "power", "core principle"]
-related: ["love-as-deep-welcoming", "empowered-vs-power", "helplessness-is-the-gateway", "fear-is-about-feeling", "defense"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Authenticity Over Improvement", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Love Over Defense"]
+aliases: ["love can't exist without empowerment", "you can't love if you're not empowered", "empowerment as precondition for love", "love and empowerment", "fear can't love", "can't love what oppresses you", "no unconditional love without empowerment", "no empowerment without love", "the marriage version of love-requires-empowerment", "knowing you can leave is the precondition for loving"]
+tags: ["love", "empowerment", "fear", "power", "core principle", "relationships", "marriage"]
+related: ["love-as-deep-welcoming", "empowered-vs-power", "helplessness-is-the-gateway", "fear-is-about-feeling", "defense", "triggers-reduce-when-you-know-you-can-leave", "you-cant-chase-someone-into-loving-you", "feel-love-and-empowerment-as-the-same"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Authenticity Over Improvement", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Love Over Defense", "2024-10-25_How To Fight Well"]
 ---
 
 # Love Requires Empowerment
@@ -94,6 +94,18 @@ This is not a metaphor. It is reportable in the body. The visualization in [[fee
 
 The version most people walk in with treats love and empowerment as a trade-off. To love is to risk being walked on. To be empowered is to be hard. The visualization corrects this directly. The loving Joe is pointing at has boundaries, like a mother who is a great mother. The empowerment Joe is pointing at has no fear of consequences, like Superman on a mountaintop with no kryptonite in the world. Both versions, fully felt, contain the other.
 
+## The Marriage Version: 'It's Hard to Love What You Think Is Oppressing You'
+
+The principle takes a specifically compressed form for the marriage context.
+
+"It's really hard to love something that you think is oppressing you. So the other way I say this, the same thing slightly differently is there is no unconditional love without empowerment. There is no real empowerment without unconditional love. There, you have to know that you are empowered to leave to be able to love. You have to know that you're not trapped." -- Joe Hudson, How To Fight Well
+
+The marriage form makes the principle's mechanism concrete. A partner who experiences the relationship as a cap on their freedom cannot fully love. The body will not produce love toward what it experiences as cage. The capacity to leave (felt, not just intellectually accepted) is therefore not opposed to love; it is the precondition for love within the relationship.
+
+The pair-bond half of the compressed teaching matters too: there is no real empowerment without unconditional love. Empowerment that has not been tempered by love can be a cold autonomy that is also not the destination. The pair-bond of empowerment-and-love is what produces the relationship that is neither trapped nor disconnected.
+
+See [[triggers-reduce-when-you-know-you-can-leave]] for the full marriage-version teaching about why the leaving-capacity is what makes the staying productive. See [[you-cant-chase-someone-into-loving-you]] for the related principle that operates from the other side: just as you cannot love what you cannot leave, you cannot produce love in a partner who is trying to leave.
+
 ## The Inverse: Empowerment Without Welcoming
 
 Empowerment is necessary for love but not sufficient. A person can be deeply empowered and still defended, still closed, still running their separation strategies. Empowerment unlocks the capacity to love; it does not guarantee that the capacity is used.
@@ -126,3 +138,4 @@ The fully empowered narcissist is empowered but not loving. The fully empowered 
 - 2022-10-26_Empower Over Power
 - 2022-10-26_Father Figures And Authority (Coaching Session)
 - 2022-10-26_Love Over Defense
+- 2024-10-25_How To Fight Well (the marriage version: "it's hard to love something that you think is oppressing you"; the compressed dual-form "no unconditional love without empowerment, no real empowerment without unconditional love"; the leaving-capacity as precondition for loving within a marriage)

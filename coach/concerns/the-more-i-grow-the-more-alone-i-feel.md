@@ -105,6 +105,7 @@ The fact that they are not describing this as loneliness is the indication that 
 ## Related Methodology
 
 - [[aloneness-vs-loneliness]]: the distinction that names what is being reported and the parallel with [[wanting-vs-craving]] (connection vs clinging).
+- [[fear-of-disconnection-marks-real-growth]]: the principle that operates one phase earlier in the same process. Before the aloneness arrives, the fear of the aloneness arrives — typically as "I won't be able to relate to people from this new place." Recognizing that fear as a marker of real growth (rather than a warning to abort) is what allows the shift to complete and the aloneness to be met directly rather than avoided.
 
 ## Sources
 

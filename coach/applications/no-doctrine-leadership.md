@@ -2,10 +2,10 @@
 type: application
 id: no-doctrine-leadership
 title: "The No Doctrine: Leading With the Truth Behind the Platitudes"
-aliases: ["no doctrine", "lead with no", "welcoming no", "no as enabler", "the no doctrine", "lead with the no", "skip the platitudes", "platitude tax", "what's after the but"]
+aliases: ["no doctrine", "lead with no", "welcoming no", "no as enabler", "the no doctrine", "lead with the no", "skip the platitudes", "platitude tax", "what's after the but", "the speaks-against doctrine", "ask what speaks against the idea", "the refinement-through-no doctrine", "tell me what speaks against it", "the elephant-naming version of the no doctrine"]
 tags: ["leadership", "vulnerability", "truth", "communication", "organizational design", "boundaries", "application"]
-related: ["vulnerability-in-the-workplace", "welcoming-fear-in-leadership", "vulnerability", "boundary-with-vs-boundary-against", "love-vs-nice", "follow-the-demand", "fixing-people", "welcoming-the-others-emotion", "every-no-contains-a-better-answer"]
-sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2024-03-11_How Do I Love The ＂No＂？"]
+related: ["vulnerability-in-the-workplace", "welcoming-fear-in-leadership", "vulnerability", "boundary-with-vs-boundary-against", "love-vs-nice", "follow-the-demand", "fixing-people", "welcoming-the-others-emotion", "every-no-contains-a-better-answer", "the-elephant-in-the-room", "whats-the-scary-thing-youre-not-saying", "aristotle-project", "whats-the-case-against-it"]
+sources: ["2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2024-03-11_How Do I Love The ＂No＂？", "2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say"]
 ---
 
 # The No Doctrine: Leading With the Truth Behind the Platitudes
@@ -132,6 +132,18 @@ The doctrine fails when:
 
 The doctrine is downstream of an organizational culture that has been built to hold truth. Without that culture, leading with the no produces wreckage. With it, the doctrine accelerates everything.
 
+## The Doctrine as the Companion to Elephant-Naming
+
+In the 2024 Elephant in the Room conversation, Joe pairs the No Doctrine with the elephant-naming practice. They are the same teaching from different angles. Elephant-naming surfaces the unspoken truth. The No Doctrine surfaces the unspoken disagreement. Both invert the default — instead of waiting for the hard thing and then padding it, you actively go looking for it and reward it when it appears.
+
+"There's lots of tricks like this. An example would be the No Doctrine, which I believe we've spoken about, where instead of a CEO having an idea or a leader having an idea and trying to convince everybody of it, they have the idea, they roll it out, and then they say, tell me what speaks against it. And they look for every no that's coming in and they refine their idea by the nos. That is another great example of how you say, yeah, speak to the thing that is scary. Speak to the thing that is contradictory. And it's really, really, really important." -- Joe Hudson, The Elephant in the Room
+
+The leadership-level move Joe describes here is a specific implementation: roll out the idea, then ask for the nos, and refine by integrating them. The leader is not seeking validation. The leader is seeking the disagreements that will sharpen the idea. The roll-out is the draft; the nos are the editing.
+
+This pairs with [[whats-the-scary-thing-youre-not-saying]] (the team-meeting practice that institutionalizes elephant-naming) and [[boeing-ford-bad-news]] (the structural reward for bad-news-bringers). The three together form the practical toolkit for building the elephant-naming culture: the recurring team question, the explicit invitation for disagreement on every proposal, and the structural promotion of the people who bring the hard things.
+
+See [[the-elephant-in-the-room]] for the broader concept this practice instantiates and [[aristotle-project]] for the empirical ground.
+
 ## Upstream (What Leads Here)
 
 - When meetings feel exhausting and unproductive despite consensus on the topics.
@@ -147,8 +159,26 @@ The doctrine is downstream of an organizational culture that has been built to h
 - Toward [[follow-the-demand]]: the related principle of letting truth lead rather than imposing an agenda.
 - Toward [[public-truth-bomb]]: the related leader-to-leader move that operates by the same logic.
 
+## The Speaks-Against Version: A Different Form of the Same Doctrine
+
+In the 2024 Elephant in the Room conversation, Joe describes a parallel form of the doctrine that operates by the same logic but as a forward-looking question rather than a backward-looking pattern intervention. The form: a leader rolls out an idea and then explicitly asks, "tell me what speaks against it."
+
+"An example would be the No Doctrine, which I believe we've spoken about, where instead of a CEO having an idea or a leader having an idea and trying to convince everybody of it, They have the idea, they roll it out, and then they say, tell me what speaks against it. And they look for every no that's coming in and they refine their idea by the nos. That is another great example of how you say, yeah, speak to the thing that is scary. Speak to the thing that is contradictory. And it's really, really, really important." -- Joe Hudson, The Elephant in the Room
+
+The structural move is the same: the no contains the refinement. The leader is not seeking buy-in for the idea as it stands; they are seeking the nos that will sharpen it. The idea that comes out the other side has been refined by every no the room could produce. The leader's role is to surface and welcome the nos, not to defend the original framing.
+
+This form is closely related to [[whats-the-case-against-it]] as a specific question move. The doctrine is the leadership-level commitment; the question is the operational move that implements it.
+
+## The Connection to Elephant-Naming
+
+Joe explicitly ties the no doctrine to [[the-elephant-in-the-room]] in this conversation. Both teachings are about making the difficult-to-say content welcome, normalized, and rewarded in team settings. The no doctrine is the doctrine for refining ideas through contradiction; elephant-naming is the practice of surfacing the unspoken truth. Both depend on the same underlying capacity: a team that can hold the hard thing without flinching.
+
+The link to [[whats-the-scary-thing-youre-not-saying]] is direct. The recurring meeting question surfaces the unspoken; the no doctrine welcomes the contradictory once it surfaces. Together they form a complete pattern: ask for the scary thing, welcome the no it contains, refine the idea by the no. The team that runs both practices builds the capacity Aristotle Project ([[aristotle-project]]) measured as the difference between functional and dysfunctional teams.
+
 ## Sources
 
 - 2021-10-15_Ant Taylor on Embracing Emotions
 - 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
 - 2024-03-11_How Do I Love The "No"? (added the inner-posture principle that grounds the doctrine; the "every no is a better solution" framing; the diagnostic that team "alignment" followed by "straying" usually means the leader rejected the team's nos)
+- 2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say (the speaks-against forward-looking version of the doctrine — "roll out the idea and then say tell me what speaks against it"; explicit linking of the no doctrine to the elephant-in-the-room teaching and to the Aristotle Project's two critical variables)
+- 2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say (Joe pairs the No Doctrine with elephant-naming practice; the roll-out-then-ask-for-the-nos implementation as the leadership move; positions the doctrine as one of the companion practices to whats-the-scary-thing-youre-not-saying and the Boeing-Ford structural reward)

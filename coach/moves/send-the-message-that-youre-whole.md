@@ -88,6 +88,16 @@ This is the canonical move for supporting someone who is depressed -- whether a 
 
 It pairs with [[agree-with-the-depression-dont-talk-them-out]] for the in-the-moment response to expressions of despair. The wholeness message is the larger frame; agreeing with the depression is one specific application during direct conversation.
 
+## The Coaching-Session Application
+
+The move also operates inside the coaching session itself, not only as a way of supporting someone in their daily life. When a person opens a session with "I don't think this can be fixed" or some other disclaimer that they have been treated as broken before, the move that sends the wholeness message is an explicit early decline of the fix-frame:
+
+"I have absolutely no interest in fixing you. It assumes you're broken." -- Joe Hudson, Am I Being Authentic Or Fake?
+
+This is the in-session version of the move. The opening declaration changes the frame of the entire conversation that follows. From that point forward, neither person is operating from "there is something wrong here that needs to be made right." Both are operating from "there is something happening here, let's see what it is."
+
+See [[dont-presume-the-person-is-broken]] for the anti-pattern this counters. The supporting-the-depressed-friend version is the broader case; the coaching-session application is a specific operationalization inside the live work.
+
 ## When Not to Use This Move
 
 - In acute crisis or imminent danger, safety steps come first

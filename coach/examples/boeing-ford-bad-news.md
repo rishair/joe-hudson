@@ -2,10 +2,10 @@
 type: example
 id: boeing-ford-bad-news
 title: "The Boeing-to-Ford CEO Who Promoted the Bad-News Bringer"
-aliases: ["the Ford bad news CEO story", "Boeing to Ford CEO", "Alan Mulally story", "the CEO who waited for bad news", "promoting the bad news bringer", "the COO appointment story"]
-tags: ["leadership", "truth", "organizations", "culture", "courage", "example"]
-related: ["trust-as-multifaceted", "conflict-avoidance-prevents-healing", "no-doctrine-leadership", "vulnerability-in-the-workplace", "team-as-scientific-method"]
-sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team"]
+aliases: ["the Ford bad news CEO story", "Boeing to Ford CEO", "Alan Mulally story", "the CEO who waited for bad news", "promoting the bad news bringer", "the COO appointment story", "the CEO who waited months for bad news", "the it's a shame that guy left Boeing reference"]
+tags: ["leadership", "truth", "organizations", "culture", "courage", "example", "elephant-in-the-room"]
+related: ["trust-as-multifaceted", "conflict-avoidance-prevents-healing", "no-doctrine-leadership", "vulnerability-in-the-workplace", "team-as-scientific-method", "the-elephant-in-the-room", "whats-the-scary-thing-youre-not-saying", "aristotle-project"]
+sources: ["2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Building A Functional Team", "2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say"]
 ---
 
 # The Boeing-to-Ford CEO Who Promoted the Bad-News Bringer
@@ -57,6 +57,16 @@ Leaders who try to short-circuit this by announcing their new commitment to hone
 
 The order matters. Behavior first, then the announcement is redundant. Announcement first, behavior has to be even more dramatic to overcome the skepticism the announcement created.
 
+## Joe's Use in the Elephant-in-the-Room Context
+
+Joe returns to this story in the 2024 Elephant in the Room episode as the worked example of why elephant-naming culture is a leadership commitment, not a personal preference. He uses it in tandem with [[the-elephant-in-the-room]] to make the case that the bringing-up of the elephant becomes commonplace through structural reward, not through announcement.
+
+"When the elephant in the — bringing up the elephant in the room becomes commonplace, it's just leads to functionality in a business or not in a business. It's like the Boeing example that I always talk about where the CEO of Boeing became the CEO of Ford and waited for the somebody to come in and tell 'em something was wrong. 'Cause they had this, entire culture of nobody bringing up the wrong things because they got punished for it. And then when that person came and said, this is what's wrong, he's like, COO, promoted them right away. Because it's that important to being able to actually show up with the fucking problem you're there to solve instead of bury it under politics and everything else." -- Joe Hudson, The Elephant in the Room
+
+Brett follows with: "It's a shame that guy left Boeing then." Joe: "Yeah. Yeah, clearly there's, there's been some results from that." The reference is to the publicly visible Boeing quality crises that emerged after the CEO departed. The post-departure trajectory is the empirical confirmation of the underlying principle: when the elephant-naming culture is removed, the unnamed elephants accumulate as compounding organizational failure.
+
+This is also why the story functions as the canonical companion to [[whats-the-scary-thing-youre-not-saying]]: the team-meeting practice institutionalizes what the Ford promotion structurally rewarded. The promotion is the public, irrevocable signal. The recurring meeting question is the daily, ordinary signal. Both are required for the culture to become real.
+
 ## Tone
 
 Joe delivers this as illustrative. The story is short. The point is sharp. The example is a hand-pointing-at-the-moon: do not get caught up in the specific company or executive; see the structural move.
@@ -65,3 +75,4 @@ Joe delivers this as illustrative. The story is short. The point is sharp. The e
 
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-10-26_Building A Functional Team
+- 2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say (Joe's revisit of the example as the canonical illustration of why elephant-naming culture is a structural leadership commitment, plus the post-departure Boeing trajectory as the empirical confirmation)

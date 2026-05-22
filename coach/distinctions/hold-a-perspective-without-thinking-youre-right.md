@@ -5,7 +5,7 @@ title: "Hold a Perspective Without Thinking You're Right vs. Hold a Perspective 
 aliases: ["hold a perspective without thinking you're right", "hold a perspective and not think you're right", "having a perspective without needing to be right", "holding a view without claiming objective rightness", "this is right for me without claiming it is right", "the freedom of perspective without rightness-claim", "perspective vs identity-defended-perspective", "passionately hold a view without believing you're right", "the both-and of strong perspective and not-knowing-rightness", "right-for-me vs right-in-the-world"]
 tags: ["distinction", "perspective", "rightness", "freedom", "identity", "VIEW", "non-defense"]
 related: ["view", "what-if-i-dont-want-to-be-in-view", "humility", "impartiality", "agree-when-challenged-on-the-teaching", "mind-wide-as-sky-action-fine-as-barley", "identity", "dont-take-my-word-for-it", "transparent-identity-vs-rigid", "point-at-truth-from-where-they-stand", "every-no-contains-a-better-answer"]
-sources: ["2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2024-08-30_How Saying ＂No＂ Sets You Free (Coaching Reaction Video)", "2024-08-30_Loving the No (Coaching Session Breakdown)"]
+sources: ["2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2024-08-30_How Saying ＂No＂ Sets You Free (Coaching Reaction Video)", "2024-08-30_Loving the No (Coaching Session Breakdown)", "2024-10-25_How To Fight And Win"]
 ---
 
 # Hold a Perspective Without Thinking You're Right vs. Hold a Perspective and Think You're Right
@@ -37,6 +37,54 @@ Two specific freedoms follow:
 **Freedom of action.** You can act from your perspective fully without the constant background load of having to defend it as universally true. The energy that was going into being right is freed up for actually living the perspective.
 
 **Freedom of not taking things personally.** When someone disagrees with you, they are disagreeing with your perspective, not with you. The disagreement does not threaten your identity because the perspective was not held as your identity. See [[humility]] as the state where this is the default.
+
+## The Bay Bridge Image: Two True Perspectives, Same Object
+
+A concrete image for the distinction-as-applied-to-relationships: two people look at the Bay Bridge from completely different positions. One is in the Salesforce Tower looking down on it. The other is underneath it looking up. Each takes a picture. Each picture is the Bay Bridge. The pictures look nothing alike. Both are true.
+
+"You and I both look at the Bay Bridge and you're in the Salesforce Tower looking down on it and I'm underneath it looking up and I take a picture and you take a picture and then we argue over 'Is this the Bay Bridge or is this the Bay Bridge?' 'No, this is the Bay Bridge, but they're just different perspectives and they're both true.'" -- Joe Hudson, How To Fight And Win
+
+The image makes the principle land in couples conflict specifically. The fight that says "this is what happened" -- "no, this is what happened" usually has both people taking accurate pictures from different positions. Both pictures are real. Both are partial. Neither is the bridge. The bridge does not collapse into one picture; the bridge has both pictures and many more.
+
+The relevant move for the fight is to recognize that the partner's perspective is also a real picture of the bridge, taken from where they were standing. It is not made-up. It is not wrong. It is a different vantage point on the same situation, and the situation is large enough to hold both.
+
+"So there's no right or wrong. There's no, this isn't the Bay Bridge. This is the Bay Bridge. There's really learning. And that's really important because what we really want is to be seen in a fight. What we're really looking for is to be seen." -- Joe Hudson, How To Fight And Win
+
+The Bay Bridge image, paired with the want-to-be-seen recognition, gives the fight a different shape. The fight stops being about who has the correct picture and becomes about whether each person's picture is being seen. The seeing is what was actually being asked for; the rightness fight was the indirect way of asking for it.
+
+## The Even-Harder Version: There Is No Truth Without Context
+
+Joe goes further than "both perspectives are true." The harder version: there is no truth at all about most human-relevant questions, only truth-in-context. Even physics-flavored facts are context-dependent.
+
+"Water boils at whatever, 100 degrees Celsius, whatever. At sea level, water boils at 100 degrees Celsius. On what planet? At sea level 10,000 years ago? At sea level today? Because there are different sea levels. So there's always context to whatever truth -- there's no truth without that context as far as a human's perspective goes." -- Joe Hudson, How To Fight And Win
+
+The implication: in relational disputes, the "facts" each partner is defending are almost always heavily context-dependent. The context includes their childhood, their emotional state at the time, what came before, what came after, what they were attending to, what they were missing. Two partners with identical access to the same situation will pull different facts because they were in different contexts when the situation happened. Neither is lying. Both are reporting accurately from inside their context.
+
+This is the underlying reason perspective-as-not-objective-truth is structurally accurate rather than merely useful. Even what looks like factual disagreement is usually context-dependent reporting from two different positions.
+
+## Your Perspective Is Also Incomplete
+
+The corollary: your own perspective is not just one of many; it is necessarily incomplete. There is always something you are not seeing. Naming this is part of what releases the defense-of-rightness.
+
+"Both of them are incomplete, I think is just as important of a realization, but to realize your perspective is absolutely incomplete, or I would say wrong, if you like need to put a fine point on it, there's something that I absolutely am not seeing." -- Joe Hudson, How To Fight And Win
+
+The realization "I am missing something" is not the same as "I am wrong." It is structurally weaker and more accurate. The partner who can hold "I have a perspective, I trust it, and I know I am missing something" is in a different stance than either "I am right" or "all perspectives are equally true." The middle position is the working position.
+
+"Yeah, there's something I'm not missing. There's some way I'm wrong. Guarantee. I guarantee that like I can only look at this thing from this angle and therefore there's an angle I'm missing. There's something I am missing there." -- Joe Hudson, How To Fight And Win
+
+This is the felt-sense practice of the principle. Going into the conversation already knowing you are missing something disarms the defense-of-rightness in advance. The partner is no longer the threat to your correctness; the partner is the candidate to show you the angle you cannot see.
+
+## What Holding This in a Fight Requires You to Feel
+
+Joe and Brett surface a deeper move beyond the perspective-recognition: the willingness to feel what you would have to feel if you cannot collapse the partner into "wrong."
+
+"What do I have to feel if I can't collapse my partner into wrong? Or right." -- Joe Hudson, How To Fight And Win
+
+The collapse-into-wrong is the defense against feeling. As long as the partner is wrong, you do not have to feel: their pain (because they brought it on themselves), your own grief (because you are still in the fight), the love that has been hidden under the conflict, or your own implication in what produced the situation. Collapsing them as wrong protects you from all of it.
+
+The stance of "this is my perspective, I am not collapsing them into wrong" requires you to feel everything the collapse was protecting you from. This is the structural cost of integrating the distinction. The intellectual move is easy. The emotional move is the actual work.
+
+"That's the most important thing. We could argue over the semantics of truth, but what you just said is absolutely the most important thing, which is what do I have to feel if I can't collapse my partner into wrong?" -- Joe Hudson, How To Fight And Win
 
 ## This Is Not Saying "All Perspectives Are Equal"
 
@@ -151,3 +199,4 @@ Joe holds this distinction with care. He is not advocating that everyone drop th
 - 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers (the explicit naming of the two stances; the "this is dear to me and I can't believe that it's right, I just know it's the one that's right for me" formulation; the two freedoms — freedom of action and freedom of not taking things personally — that follow from the second stance)
 - 2024-08-30_How Saying "No" Sets You Free (Coaching Reaction Video) (the three reasons the distinction is hard to inhabit: having to feel something you don't want to feel, having to release identity-as-distinction, and having to give up being right; the observation that being-right is culturally wired to being-loved, so the release triggers grief for both love-lost and love-that-cannot-be-lost; the coaching application of the distinction as the prerequisite for [[point-at-truth-from-where-they-stand]])
 - 2024-08-30_Loving the No (Coaching Session Breakdown) (alternate edit of the same breakdown; same three reasons for the difficulty; the explicit observation that being-right is wired to being "hired" as well as loved, naming the workplace stake the cultural conditioning adds to the personal one)
+- 2024-10-25_How To Fight And Win (the Bay Bridge image for two-true-perspectives in couples conflict; the harder-version teaching that there is no truth without context, even for facts that look physics-flavored; the corollary that your own perspective is necessarily incomplete; the deeper move of feeling what the collapse-into-wrong was protecting you from; the connection to want-to-be-seen as what the rightness-fight is actually asking for)

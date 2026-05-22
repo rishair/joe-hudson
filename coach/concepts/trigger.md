@@ -5,7 +5,7 @@ title: "Trigger"
 aliases: ["triggered", "what a trigger is", "Joe's definition of trigger", "being triggered", "trigger as trauma activation", "in your trauma not yourself", "trigger as opportunity", "the trigger definition", "what does triggered mean", "the two definitions of trigger"]
 tags: ["trauma", "trigger", "relationships", "emotion", "presence", "self-awareness"]
 related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "i-cant-trust-my-thoughts-right-now", "kinked-emotions", "feeling-the-unfelt-emotion", "triggered-vs-big-emotion", "walking-on-eggshells", "triggers-reveal-your-own-beliefs", "anxious-avoidant-dynamic", "agreements-renegotiate-as-you-change", "reflect-back-to-make-partner-feel-heard", "say-the-thing-youre-not-saying", "ask-open-ended-non-judgmental-questions-when-triggered", "dont-do-anger-at-your-partner", "capacity-to-love-other-is-capacity-to-love-self", "repressed-trigger-in-the-body", "should-as-threat", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you", "projections", "five-triggers-projection-experiment", "go-down-one-level-to-find-projection"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-04-29_Triggered By Others？ Watch This"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-04-29_Triggered By Others？ Watch This", "2024-10-25_How To Fight And Win"]
 ---
 
 # Trigger
@@ -25,6 +25,28 @@ There are two operative definitions and both matter for coaching:
 "On some level your mind knows that your reaction doesn't meet the experience that you just had, that the reaction is being created -- this big emotional reaction is being created because of the past, not because of what's actually happening in real time." -- Joe Hudson, Triggered
 
 The word "warranted" carries a warning. Joe almost refuses to use it because of how easily it gets weaponized into "you shouldn't have had that reaction." The definition is not a tool for dismissing other people's experience. It is a tool for self-recognition: when you notice the reaction is bigger than the room, you know what is happening.
+
+## The Couple Form: Both Partners In Their Trauma at Once
+
+Triggers in relationships have a specific shape that the general definition does not quite capture: both partners are usually in their trauma simultaneously, each reading the other as the original wound figure. The fight is therefore not between two adults responding to a present situation; it is between two children re-fighting their original family of origin, with each one cast as the wrong character in the other's drama.
+
+Joe describes this with a particular precision:
+
+"I was just talking to a person and they were talking about how they have two marriages. And I think this, a lot of people would relate to this. One marriage is between them, and one relationship is between their parents, except for their -- so let's say them is John and Nancy. So one relationship is John and Nancy, and one relationship is the father of Nancy and the mother of John. And they've, they're literally seeing each other's mother. They're seeing their own mother and their wife and seeing their own father and the husband. They're just in their trauma. They're not even in the reality that they live in and they're reacting that way." -- Joe Hudson, How To Fight And Win
+
+The "two marriages" image is precise. There is the actual marriage and there is the marriage-of-the-internalized-parents that gets overlaid on it whenever the trigger fires. In the trigger state, the present partner becomes the original caregiver. The present complaint becomes the old wound. The reaction is to the overlay, not to the actual person.
+
+This is why fighting "well" in a marriage requires both partners to develop the capacity to recognize the overlay. The recognition is the precondition for getting out of the parents' marriage and back into the actual one. The [[name-im-in-my-trauma-as-couple-language]] move is the in-the-moment instrument for making this recognition operational.
+
+## The Fallujah Analogy for Relational Trauma
+
+Joe uses a compressed image to clarify what is happening when relational trauma fires:
+
+"If a human being fought in Fallujah and they're back in Ohio and a car backfires, they think they're in Fallujah again. If they have PTSD, if they're in their trauma. We think that we're kids again. We think that we're in old relationships again. We're not in that moment. And so we are wildly reactive to one another's statements." -- Joe Hudson, How To Fight And Win
+
+The image extends what PTSD literature already establishes for combat trauma into the territory of childhood and relational trauma. The mechanism is identical. The combat veteran is in Ohio but the body is in Fallujah; the partner in the middle of an argument is sitting across from their spouse but the body is in the kitchen of their childhood home where their parent said something that wounded them. In both cases, the present situation is processed through the old material. In both cases, the "wildly reactive" response is responding to the old situation, not the present one.
+
+The implication for relationships is that the partner's apparently-disproportionate reactions are usually not disproportionate at all. They are proportionate to the original wound that has just been activated. Naming this -- to oneself first, sometimes to the partner -- is what allows the present partner to stop being interpreted as the original wound figure.
 
 ## The Specific Sub-Definition: Trigger as Upset-at-Someone-Else
 
@@ -124,6 +146,7 @@ Without working triggers, the relationship either ossifies (cold marriage held t
 - Toward [[projections]] when the trigger has a target (someone the upset is directed at) — the projection layer is then in play
 - Toward [[five-triggers-projection-experiment]] as a structured practice for systematically converting at-someone-else triggers into self-knowledge through upright apology
 - Toward [[go-down-one-level-to-find-projection]] when the literal version of the projection cannot be found and a structural analog is needed
+- Toward [[name-im-in-my-trauma-as-couple-language]] when the trigger is firing in a couple context and the in-the-moment move of naming it to the partner becomes available
 
 ## Tone
 
@@ -134,3 +157,4 @@ Joe holds the word with care. He explicitly distances himself from both the dism
 - 2022-09-30_Triggered
 - 2022-10-26_Triggered!
 - 2024-04-29_Triggered By Others？ Watch This (the upset-at-someone-else sub-definition for projection work specifically; positions trigger work as an empowerment practice where the goal is your freedom, not the other person's behavior)
+- 2024-10-25_How To Fight And Win (the John-and-Nancy "two marriages" image -- one with the actual partner, one with the internalized parents that gets overlaid on the actual partner whenever the trigger fires; the Fallujah-to-Ohio compressed image for relational trauma; the both-partners-in-trauma-simultaneously structure of a relationship fight)

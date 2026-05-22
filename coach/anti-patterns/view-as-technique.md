@@ -5,7 +5,7 @@ title: "Don't use VIEW as a technique"
 aliases: ["weaponized VIEW", "VIEW as manipulation", "technique without state", "communication training gone south"]
 tags: ["VIEW", "authenticity", "technique-vs-state"]
 related: ["view", "vulnerability", "wonder-as-strategy", "vulnerability-as-control", "contain-the-narcissist", "narcissism-as-incapacity-to-feel", "what-if-i-dont-want-to-be-in-view"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-06_Empathy — Connection Course Series #4", "2020-11-10_Vulnerability — Connection Course Series #5", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-04_Wonder — Connection Course Series #2", "2020-11-05_Impartiality — Connection Course Series #3", "2020-11-06_Empathy — Connection Course Series #4", "2020-11-10_Vulnerability — Connection Course Series #5", "2022-10-26_Impartiality", "2022-10-26_Introduction to VIEW", "2022-10-26_Vulnerability", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers", "2024-10-25_How To Fight And Win"]
 ---
 
 # Don't use VIEW as a technique
@@ -46,6 +46,18 @@ Neither case contradicts the principle. In both, the technique-without-state is 
 
 The [[impartiality]] version is particularly subtle. Wanting to be *seen as* impartial is itself partiality. "If you want them to see you as impartial, then you're definitely being partial. And it's going to be seen." -- Joe Hudson, Impartiality -- Connection Course Series #3
 
+## The 'New Age Fight' Form: Tools Weaponized in Couples Conflict
+
+A specific shape this anti-pattern takes in couples is what Joe calls "the new age fight." The couple has learned relational tools -- nonviolent communication, VIEW, "I" statements, sharing feelings, naming needs -- and they are using the tools as ammunition rather than as the practice they were meant to be.
+
+"I cannot tell you how many times I have seen like what I call the new age fight. Do you know what the new age fight, right? They've learned some, even it could be VIEW, it could be any nonviolent communication. It could be anything. And they've, they're fighting using it such as nonviolent communication, where it's really important to state your needs. Somebody might be saying something like, 'I really need you to stop right now.' That's not nonviolent communication. So you can take any series of protocol and you can turn it into ways of fighting that are not productive." -- Joe Hudson, How To Fight And Win
+
+The structural diagnostic: the form of the language matches the recommended practice; the underlying intent is control, demand, or victory. The "I really need you to stop right now" example has the syntactic shape of a needs-statement and the felt-sense shape of an order. The receiver registers the order, not the needs-statement. The conversation goes the way an order goes, not the way a needs-statement goes.
+
+This is the same failure mode as the broader VIEW-as-technique pattern, applied specifically to the practice of fighting well. The couple that has read the books and listened to the podcasts is uniquely vulnerable to this because they have a richer vocabulary for dressing up the same old fight in a new costume. The intermediate-stage couple who knows the tools but has not yet recognized the underlying trauma is the most common case. See [[arc-of-fighting-maturation]] for where this stage sits in the developmental arc.
+
+The exit from this stage is recognizing that the tools cannot do the work the state has to do. The tools amplify the state that is present. They cannot manufacture a state that is absent. Couples that get past this stage usually do so by recognizing that the work is the trauma underneath the fight, not the technique on top of it. See [[name-im-in-my-trauma-as-couple-language]] for the in-the-moment move that becomes available after the technique stage.
+
 ## What To Do Instead
 
 Practice VIEW as a state of mind, not a set of behaviors. The communication is a natural outpouring of the state. The four components ([[vulnerability]], [[impartiality]], [[empathy]], [[wonder]]) are doorways into the state, not boxes to check.
@@ -73,3 +85,4 @@ Wonder-specific version: see [[wonder-as-strategy]] for the pattern where questi
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
 - 2024-05-24_Q&A #3 — Common Questions, Uncommon Answers (the narcissist-specific application: VIEW used as a tool to "get somewhere" with a narcissistic parent automatically converts to technique because VIEW cannot be used particularly; the narcissist exploits the vulnerability that VIEW creates)
+- 2024-10-25_How To Fight And Win (the "new age fight" form: couples using VIEW, nonviolent communication, or any relational tool as ammunition; the "I really need you to stop right now" example as the canonical case of syntactic-fit-with-control-intent; the location of this stage in the arc of fighting maturation)

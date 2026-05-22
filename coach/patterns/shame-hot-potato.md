@@ -5,7 +5,7 @@ title: "The Shame Hot Potato"
 aliases: ["shame hot potato", "the shame hot potato", "passing shame back and forth", "shame ping-pong", "inflicting shame to avoid shame", "couples shame hot potato", "team shame hot potato", "political shame hot potato", "they should be ashamed dynamic", "the blame ping pong", "shame as the engine of the same fight"]
 tags: ["shame", "conflict", "couples", "teams", "politics", "defensiveness", "blame", "interpersonal", "stagnation", "relationships"]
 related: ["the-shame-avoidance-loop", "shame-as-disconnection", "shame-stagnates-emotion", "shame-drives-behavior", "power-dynamics-as-two-defenders", "apologies-as-power-struggle-surrogate", "triggers-reveal-your-own-beliefs", "drop-the-hot-potato", "state-no-wish-for-their-shame", "non-defense-is-the-ocean", "seeing-through-essential-wrongness", "fault-vs-responsibility", "we-have-built-up-resentment", "anger-and-politics", "fear-hot-potato", "one-team-member-holds-the-helplessness"]
-sources: ["2023-12-22_The Shame Hot Potato"]
+sources: ["2023-12-22_The Shame Hot Potato", "2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say"]
 ---
 
 # The Shame Hot Potato
@@ -122,6 +122,22 @@ The same dynamic in companies. The marketing team and the engineering team in ch
 
 The exit move in a team context often involves a leader explicitly taking responsibility without taking shame. See [[fault-vs-responsibility]] and the "buck stops here" stance Joe describes.
 
+## The Silent Form: The Unspoken Hot Potato
+
+The hot potato does not require active throwing. It can run silently, with each person holding the shame for fear of being the one to start it. The rock-star-on-set scene from [[makeup-artist-and-the-rock-star]] is the canonical example of the silent form.
+
+Brett names it directly in the 2024 conversation:
+
+"It points to the interesting game of shame ball, the shame hot potato going on under the surface, where this person showed up and he on some level felt ashamed, like, 'I'm bad, I'm wrong for showing up to this multimillion-dollar shoot in this kind of a state.' And many of us, I was relatively new to the scene and I was like, I am not going to be the person to break the ice, break this situation. But, man, I really felt like we were all doing it wrong until that was spoken to." -- Brett Kistler, The Elephant in the Room
+
+Joe responds: "They didn't want to be the wrong one. They didn't want to be the one that fucked up the shoot. Right. And that's typically as if it was their fault for saying something that was true instead of the rock star's fault for whatever the rock star had done or had found themselves in or didn't postpone the shoot."
+
+The structure: the rock star is holding shame about looking like death. The crew is holding shame about being the one who would "ruin" the shoot by naming what the rock star looks like. Each side is silent because each side is protecting itself from being made the wrong one. The potato is in the room. Nobody is throwing it. Everyone is being burned by it.
+
+This is the form the hot potato takes in workplaces, families with a difficult member, and any social setting where the obvious unaddressed thing is producing low-grade collective shame. The exit is the same as the active form: someone has to be willing to hold the potato — to risk being made the wrong one by naming what is in the room. The makeup artist's "you look like shit" was that move. When the rock star said "yeah, I feel like shit," the hot potato dissolved. The shame that had been distributed across everyone now had nowhere to live — it had been received, named, and acknowledged.
+
+See [[the-elephant-in-the-room]] for the operational frame and [[speak-the-elephant-from-open-heart-not-fear]] for the inner posture that makes the naming-move land.
+
 ## The Political and National Form
 
 Politics is the hot potato at scale. The signature is identical: each side focused on the other's wrongdoing, each side defended, each side certain that the other is the aggressor. Both sides are ashamed; both sides are throwing.
@@ -166,3 +182,4 @@ Joe describes this with a kind of cheerful matter-of-factness. The frame is stru
 ## Sources
 
 - 2023-12-22_The Shame Hot Potato
+- 2024-11-08_The Elephant In The Room- How To Say What No One Wants To Say (added the silent form of the hot potato — the rock-star scene as the canonical example of the unthrown but actively-burning potato; Brett naming the dynamic on the makeup-artist example)
