@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:48.142Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "117e2bd9d4cb68828c85bfda149840554f6c86a48184cff89aeb3a85940de56a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WoqS8oWGSF6qjkvKedzfVE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That distance you just named — describing someone else's situation — that's worth staying with.\n\nWhere in your body are you right now, as you say that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7268,
+      "cache_creation_input_tokens": 15784,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 15784,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 36,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7268,
+    "output_tokens": 36,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 15784
+  }
+}

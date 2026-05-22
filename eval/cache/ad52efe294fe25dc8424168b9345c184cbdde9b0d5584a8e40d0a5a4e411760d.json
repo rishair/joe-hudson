@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:00.742Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ad52efe294fe25dc8424168b9345c184cbdde9b0d5584a8e40d0a5a4e411760d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DAf9SthbqHAcvoxGhaPsL6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI don't. That's why there's wine.\n\n*short laugh, no real humor in it*\n\nI tried once, maybe three weeks after she died. Just sat with it. And it wasn't — it wasn't like crying or whatever I expected. It was more like this... panic. Like the floor wasn't there. I didn't know what I was even feeling, just that it was too big and I was alone in my apartment and there was nobody to call at 11pm who actually wanted to hear it.\n\nSo I stopped trying that. The wine is more predictable.\n\n*quieter*\n\nMy friends checked in for maybe the first month. Now they've moved on. Which is fine. I get it. Life keeps going."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 177,
+      "cache_creation_input_tokens": 170,
+      "cache_read_input_tokens": 1958,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 170,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 165,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 177,
+    "output_tokens": 165,
+    "cache_read_input_tokens": 1958,
+    "cache_creation_input_tokens": 170
+  }
+}

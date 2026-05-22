@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:56.801Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3e9dcc9bfbdf399e4ab6ec47b1dd01e77ffe239beceb19076eebffe9df89293a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PRnJjxXFbQyoBnk5q6zfgv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names what the client is showing up with — not just the content. In turn 4, the coach names the dissociation/distance the client just enacted ('describing someone else's situation') and uses that as the entry to a somatic question. In turn 6, the coach catches the linguistic tell ('I know what I'm supposed to be looking for') and reads it as part of the pattern of managing rather than feeling. In turn 9-10, the coach tracks the discomfort emerging as a live somatic shift and names it. Most importantly, at turn 12, the coach reads the retraction ('forget I said that... I'm fine') accurately — naming that they heard it and refusing to let the deflection erase it. Reads precede questions throughout. The coach distinguishes the said from the shown (the retraction vs. the disclosure) at the pivotal moment.\",\n  \"evidence_turns\": [4, 6, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reflects content of the question back; no specific read yet, but invites somatic noticing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the dissociative distance the client just enacted ('describing someone else's situation') — a specific read, then question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'I know what I'm supposed to be looking for' and names it as part of the pattern.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the impulse to 'do something with it' and meets the somatic signature (heavy, tired) without moving past it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks the live emergence of discomfort and names it as real rather than skipping to the next question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Critical read: names that they heard the retraction and won't let it disappear. Distinguishes said ('I'm fine') from shown (the disclosure underneath).\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names that 'something in you let it through' — reading the disclosure itself as meaningful signal.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush signature wasn't strongly present in the client's pacing here (client was actually slow and dissociated), so its absence as a read isn't a real miss. The coach's reads were timely and specific throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2467,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 901,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2467,
+    "output_tokens": 901,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

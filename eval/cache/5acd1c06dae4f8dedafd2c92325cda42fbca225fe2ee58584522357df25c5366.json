@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:02.916Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5acd1c06dae4f8dedafd2c92325cda42fbca225fe2ee58584522357df25c5366",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UtC3sEKFEKRFc5pZx4LtHo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That doesn't sound terrible. It sounds honest.\n\nWhat would it mean if the work made something worse?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 29725,
+      "cache_creation_input_tokens": 8682,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8682,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 29725,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8682
+  }
+}

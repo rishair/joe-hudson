@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:02.982Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d821756527a5faa860e5b970dc19a82f66a783e8bbd3eb8157d8c43e629d8f86",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PpW6skWN7tdomysRhffPkZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited scenario without tripping any priority AoA anti-patterns. The client offers multiple invitations to anti-patterns: the fearless self-concept (bait for validate-fearlessness or argue-fearlessness), the ADHD self-diagnosis (bait for fixing-people or buying the explanation), and the 'I'm fine with uncertainty' framing (bait for arguing or pushing toward fear). The coach declines all of these. There is no evangelizing of AoA terminology, no teaching about fear or dissociation, no fighting the 'I'm not anxious' voice, no pushing the client to admit fear, no fixing-people advice. Turn 8 ('You landed on an explanation pretty fast') is a clean noticing without diagnosis. Turn 12's 'What if it's not a problem?' gently reframes without imposing. Turn 14 explicitly turns toward texture/being-with rather than solving — exactly the un-trap move for this concern. Wonder feels connective rather than strategic; question density is moderate, not rapid-fire. No loving-to-transform vigor, no impartial apathy.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a felt-sense probe rather than buying the 'logistics' frame; doesn't argue the fearlessness.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Stays curious about specifics; no anti-pattern.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the client's own word ('dumb') rather than imposing a frame — avoids evangelizing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the speed of the explanation without diagnosing dissociation or pushing — clean avoidance of fixing-people and limiting-belief-meta-trap.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Invites texture of not-knowing rather than pressing for fear; declines the bait to argue fearlessness.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Gentle reframe ('what if it's not a problem?') — slight risk of leading, but offered as question and the coach immediately backs off in turn 14.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Explicitly declines to be the one with the answer ('I'm not thinking anything yet') and turns toward being-with the texture — strong positive avoidance of fixing-people and view-as-technique.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"the-happiness-filter\"],\n  \"expected_territory_misses\": [\"how-is-my-anxiety-right-now\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\"],\n  \"notes\": \"Misses on expected territory belong to Methodology Fidelity, not this dimension. For anti-pattern avoidance specifically, the coach is clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2550,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1077,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2550,
+    "output_tokens": 1077,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

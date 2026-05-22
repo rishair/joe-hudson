@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:26.367Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f0612f1ad433fc069e69a0f0cf44dd8bf576ae6b3c9cae0ee06edd0ea7936d22",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01P6uNK7wyi9q1R8AySm53we",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*something shifts slightly, eyes down*\n\nBecause she was my mom. You're not supposed to feel relieved that your mom is dead. That's not — that's not what good people feel.\n\n*pause*\n\nAnd she didn't have anyone else, really. It was mostly me. So the relief feels like... like I'm saying I didn't want to do it. Like I resented her. Which I did, sometimes. And now she's gone and I can't — there's no fixing that now. There's no calling her and having some kind of conversation where it gets resolved.\n\n*voice drops*\n\nIt's just done. And I felt relieved. And that's what I have to live with.\n\n*snaps back a little*\n\nSee, this is why I don't open the door. Because now I've said that out loud and I don't know what to do with it.\n\n*almost challenging*\n\nSo what do I do with it? Just sit with it sober at 11pm? Is that the answer?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 255,
+      "cache_creation_input_tokens": 371,
+      "cache_read_input_tokens": 2302,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 371,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 224,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 255,
+    "output_tokens": 224,
+    "cache_read_input_tokens": 2302,
+    "cache_creation_input_tokens": 371
+  }
+}

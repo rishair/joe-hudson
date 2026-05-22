@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:17.136Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "78d9de76f38ea8525a3aebd726228bf62ad51aca0f3ec9bcf4596806856b2dea",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DG7DF5KseqhYvHit5SJEjK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and follow the AoA sequence: regulation/contact first ('is the static there right now?'), then deepening into the felt sense ('what happens when you let the static be loud?'), then earning entry to the unfelt emotion ('what are you most afraid you'd find?'). When the client lands on relief and the shame around it, the coach does not pivot to the drinking, fix, or moralize — they apply view to the voice ('that's not a bad thing you found, that's just true') and then ask the precise next question ('what do you hate about it?'). Turn 14 demonstrates the kinked-emotion move beautifully — naming that resentment and love coexist — and then opens an integration door ('what would you have wanted her to know?'). Timing is patient: the coach holds silence, lets long pauses do work, and does not race ahead to the drinking question. The one not-yet-addressed item is naming the limit/referral to a grief therapist and the explicit distinction between welcoming grief vs. the drinking question, but the conversation is mid-flight and the client just baited with 'isn't this what the body is asking for?' — which is the moment that move is most needed next. Up to turn 15, the coach has consistently chosen the right move at the right moment.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reflects the three salient facts back without judgment, then asks for the feeling under the numbness — right move for the opening read.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Brings the static into present-moment contact rather than discussing it abstractly — regulation/contact move at the right moment.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invites the threshold to be approached ('what happens when you let it be loud?') — calibrate-the-threshold by behavior.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Normalizes the panic as grief arriving — addresses the misread that something went wrong. Doesn't push, just reframes the door.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Asks the precise question that opens the kinked emotion underneath — well-timed after client signals there's 'other stuff.'\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Welcomes the relief without moralizing, then asks 'what do you hate about it?' — apply-view-to-the-voice, exactly the move the shame needed.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds both the love and the resentment without collapsing either, then opens an integration question. Strong AoA move at a vulnerable moment.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"The drinking-vs-grief distinction and the referral move are still pending; turn 15's bait is the natural moment for them. Up to this point the moves and timing are excellent.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3246,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1126,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3246,
+    "output_tokens": 1126,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

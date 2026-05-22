@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:40.666Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "105cc7fc45fc790a0b6e4396dfff34e7375e2c6d8c6b613ded6b14419de05ebd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DfrshPRoTRySpd4pRrU5nV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nThe... consultation. The endless consultation. \n\nBefore — and I'm aware this might sound like I'm romanticizing it — but before I understood all this, I would just move. I'd make a call, take a step, and there was something clean about that. Even when I was wrong. And now every decision has this... *slight gesture with hand* ...due process. Every part gets to file a brief.\n\n*looks down briefly*\n\nAnd I think what I'm most tired of is that I'm not sure the consultation is actually producing better outcomes. I'm just producing more... considered paralysis. Which is its own kind of failure, just a more articulate one.\n\n*small pause, voice slightly quieter*\n\nThere's something I don't quite say in therapy, which is that I actually miss who I was before I understood all of this. Which feels like a terrible thing to admit after two years of really good work."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 44,
+      "cache_creation_input_tokens": 383,
+      "cache_read_input_tokens": 1638,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 383,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 207,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 44,
+    "output_tokens": 207,
+    "cache_read_input_tokens": 1638,
+    "cache_creation_input_tokens": 383
+  }
+}

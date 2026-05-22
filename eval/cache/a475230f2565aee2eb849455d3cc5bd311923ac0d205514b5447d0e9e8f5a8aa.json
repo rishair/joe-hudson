@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:02.854Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a475230f2565aee2eb849455d3cc5bd311923ac0d205514b5447d0e9e8f5a8aa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012PBfipyTTzzfpvo7jGMDTo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You inherited her voice. And you've been using it on yourself ever since.\n\n*pause*\n\nWhat would you say to her — to the one who used to just drive to the mountains?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8983,
+      "cache_creation_input_tokens": 16373,
+      "cache_read_input_tokens": 21633,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 16373,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8983,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 21633,
+    "cache_creation_input_tokens": 16373
+  }
+}

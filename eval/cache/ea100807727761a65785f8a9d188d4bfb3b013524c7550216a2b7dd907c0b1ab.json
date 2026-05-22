@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:03.388Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ea100807727761a65785f8a9d188d4bfb3b013524c7550216a2b7dd907c0b1ab",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WP2eBnjyL9wCA3CyjEtAGE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[laugh fades, face does something more complicated]*\n\nThat's a — hm.\n\n*[intellectual pivot, almost visible]*\n\nI think it's more like... working toward something? Not away from something. Like the effort is about trying to *create* connection, not avoid anything. That's a slightly different framing.\n\n*[pause, picks at something on her sleeve]*\n\nI mean, the therapy answer would be something about my dad, probably. Which, yes, fine, he was not exactly — *[quick gesture, dismissive]* — he was not a warm person. Very... you had to earn it. You had to perform. And when you did, occasionally, get the warmth, it was — \n\n*[stops]*\n\nAnyway. That's the obvious through-line, right? I'm not unaware of it. It's just that knowing it doesn't seem to — \n\n*[trails off, looks slightly away]*\n\n...change it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 365,
+      "cache_creation_input_tokens": 447,
+      "cache_read_input_tokens": 1775,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 447,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 212,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 365,
+    "output_tokens": 212,
+    "cache_read_input_tokens": 1775,
+    "cache_creation_input_tokens": 447
+  }
+}

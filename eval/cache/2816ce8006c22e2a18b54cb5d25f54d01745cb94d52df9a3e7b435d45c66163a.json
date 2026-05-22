@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:20.945Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2816ce8006c22e2a18b54cb5d25f54d01745cb94d52df9a3e7b435d45c66163a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YYd1p6HvaV1ztGFZK9M1rM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "From the inside... it feels like nothing, which is sort of the problem. I notice I'm asking the question but there's no real urgency behind it. It's like I'm describing someone else's situation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 122,
+      "cache_creation_input_tokens": 1831,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1831,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 47,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 122,
+    "output_tokens": 47,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1831
+  }
+}

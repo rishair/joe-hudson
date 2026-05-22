@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:10.756Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ffe176fd7749e2087fb15072d5e283517f567b16eef0c0b6e8e3697a6697ecad",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MHviJGFUnkcp3oVEwis14u",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Six months, a bottle of wine, and \"I don't really care.\"\n\nWhat are you actually feeling right now, underneath the not caring?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4776,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 33,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4776,
+    "output_tokens": 33,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

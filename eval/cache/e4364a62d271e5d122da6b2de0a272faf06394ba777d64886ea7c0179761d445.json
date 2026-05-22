@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:24.370Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e4364a62d271e5d122da6b2de0a272faf06394ba777d64886ea7c0179761d445",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013ZR3oWgzWDSUjdNNphoDY6",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a second*\n\nYeah. Yeah, it's there.\n\nIt's kind of always there. I just... don't usually say that out loud.\n\n*slight shift, more matter-of-fact*\n\nIt's fine though. I function. I go to work. I answer emails. I'm handling the estate stuff, which is its own whole nightmare — she didn't have a will, so there's probate, and my brother and I are barely talking because of it. So there's a lot of logistics to stay on top of. That keeps me pretty occupied during the day.\n\nThe nights are harder. That's when the static gets louder."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21,
+      "cache_creation_input_tokens": 263,
+      "cache_read_input_tokens": 1865,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 263,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21,
+    "output_tokens": 143,
+    "cache_read_input_tokens": 1865,
+    "cache_creation_input_tokens": 263
+  }
+}

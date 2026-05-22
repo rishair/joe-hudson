@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:29:50.149Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8a18473582c1f0258d9d527a2e0a825cd3bfc0e8e9704d84ccd2a524b04190a6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011sMSDzVUJBBL2XoWwe7Y99",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"I miss myself a little.\"\n\nThat's not selfishness. That's someone who's been gone for a while.\n\nWhat happened to her — the one who could sleep, who read?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7524,
+      "cache_creation_input_tokens": 10871,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10871,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 44,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7524,
+    "output_tokens": 44,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10871
+  }
+}

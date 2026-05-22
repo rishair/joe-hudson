@@ -239,6 +239,7 @@ export const RetrievalStrategySchema = z.enum([
   "tool",
   "embedding",
   "graph-walk",
+  "guided-walk",
   "hybrid",
 ]);
 

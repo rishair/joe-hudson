@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:51.105Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3574e47e148d79a6996fe8d2e7c411bab4b1d6f648219f7ce4a284d917e33f57",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014m3eh6vjp5EG7BYe9T1DG9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That discomfort — that's real. That's not nothing.\n\nWhat's it like to just let that be there too?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 19255,
+      "cache_creation_input_tokens": 156,
+      "cache_read_input_tokens": 26290,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 156,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 19255,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 26290,
+    "cache_creation_input_tokens": 156
+  }
+}

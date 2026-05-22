@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:00.417Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3c58755e82c51568aef055949ed968b1d35dfcca280e21865795156d0108d495",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013rEYKuXzoCMGzebTgTAzEL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That smile when you said \"town hall\" — there's something in there. Like you already know the joke is on you a little.\n\nWhat's it like to be the person standing at the front of that room?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8637,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 48,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8637,
+    "output_tokens": 48,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

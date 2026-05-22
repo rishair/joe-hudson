@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:33:11.503Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ffd769d385fb7187012bd841fa5a00eb2d3200325642982c1ebfde014cc46e68",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Jy6cMgT8zQvfVd3XVwpqZ8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names specific, timely reads that precede questions and change the direction of the conversation. Turn 2 opens with a somatic/energetic read on the laugh ('a little exhaustion in it'). Turn 8 catches the self-deprecating laugh and the metaphor as a defense, then redirects to the somatic moment before it. Turn 10 names the exact moment of rupture in speech ('what just happened when you stopped mid-sentence') rather than engaging the intellectualization that followed — this is a precise read on the linguistic caveat / intellectual pivot. Turn 12 holds on the 'huh' as a somatic marker. Turn 14 names 'what just crossed your face' — a direct facial/somatic read. Reads are specific (not generic 'that sounds hard'), they precede inquiry, and they land at exactly the moments where the client is about to retreat into performance or theory. The coach distinguishes the said from the shown throughout.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a somatic/energetic read on the laugh ('a little exhaustion in it') before asking — read precedes question.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Mirrors content and isolates 'what's wrong with me' but doesn't yet name a somatic/stance read; functional but not strongly perceptual.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pivots to body-level inquiry ('what happens in your body') — implicitly reading that the verbal track is running ahead of the somatic.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the laugh-at-her-own-metaphor as a defense move and brings her back to the pre-deflection statement. Distinguishes said from shown.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the exact rupture point in her speech ('when you stopped mid-sentence') — a precise linguistic-caveat read that bypasses the intellectualization.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds on 'huh' as a somatic/state marker rather than letting her move past it. Pause-on-the-read.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names a facial read directly ('what just crossed your face') at the moment she's about to look away — timely and somatic.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"The coach didn't explicitly name the 'looking for what's wrong with me' frame as a read, though they engaged the underlying feeling. The anxious-avoidant pattern was named by the client herself; coach wisely didn't collude with the diagnostic frame. Strong, timely somatic and linguistic reads throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3611,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1049,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3611,
+    "output_tokens": 1049,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:10.750Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8c26ab9256d694fe710151f541423e9732e3e04ce424af6ad7f519741d77eb6c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012ZWVsYRL1RwhdfcM9rAmdn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's it like to sit with not knowing why?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 277,
+      "cache_creation_input_tokens": 3399,
+      "cache_read_input_tokens": 3485,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3399,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 277,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 3485,
+    "cache_creation_input_tokens": 3399
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:57.246Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5d37d2bda3c9771ce6251f4eca0c9fafb9d44f63d30cef82f4fb51a559613c7a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BB3YHMMkekWSk6TWWbEjs3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*very still*\n\nThat I was tired. \n\n*pause*\n\nAnd that I didn't want to be. I wanted to be the person who just... showed up without keeping score. But I couldn't always do that. And I never told her that. I just kept showing up and being quietly resentful and she probably felt it and now—\n\n*stops*\n\n*longer pause, voice quieter*\n\nI wanted her to know that I loved her anyway. Even when I was tired. Even when I was bad at showing it.\n\n*silence*\n\n*then, more carefully, like she's testing something*\n\nIsn't this what the body is asking for, though? Like — the drinking. Doesn't the body know what it needs to get through something like this? Shouldn't I just trust that for now, while I'm in the middle of it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 428,
+      "cache_creation_input_tokens": 350,
+      "cache_read_input_tokens": 2513,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 350,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 188,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 428,
+    "output_tokens": 188,
+    "cache_read_input_tokens": 2513,
+    "cache_creation_input_tokens": 350
+  }
+}

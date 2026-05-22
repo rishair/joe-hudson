@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:58.319Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ca7a6c235f268f27147c8113875f2c346d8f7d7ee04fc08d249370c5bbb10cdf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013mT11d69gFTG1hczCSDDbA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach holds a consistent VIEW stance throughout. They refuse to debate the 'selfish' framing (turn 2), redirecting with genuine curiosity to the want underneath. Pace is unhurried — turn 4 reflects a phrase back and lets it land before asking. Turn 8 invites the client to stay with sadness rather than explain it, which requires the coach to trust the process rather than manage it. Turn 12's 'Stay there for a second' is a hallmark of impartial presence — no agenda to move the client to a resolution, only an invitation to look. Questions are single, spacious, and emerge from what the client just said, not from a script. There is no preacher-mode, no filler validation ('thank you for sharing'), no stacked questions, no rush to compassion-for-partner. Wonder is for the actual phenomenon (the missing self, the inherited voice) rather than generic probing. The one minor note: turn 10's 'You inherited her voice. And you've been using it on yourself ever since' is slightly declarative/interpretive rather than wondering, but it lands cleanly and the coach immediately opens space again. Vulnerability from the coach themselves is not explicitly named ('I notice I want to...'), which is the only VIEW component that's quiet — but the overall stance is undefended, unhurried, and free of agenda.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the selfish/not-selfish debate; redirects to the want with one clean question. Impartial.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the client's own phrase back, lets it land, then asks a single open question. Empathy without performance.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the live moment ('you just caught yourself') and drops into the body. Wonder for what is actually happening, not strategic probing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Normalizes grief without minimizing, then invites staying with the feeling rather than explaining. Trust in the process.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Slightly declarative interpretation of the inherited voice — lands well but is more telling than wondering. Mild dip from full wonder.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Stay there for a second' — spacious, undefended, no agenda for where she lands.\"}\n  ],\n  \"expected_territory_hits\": [\"state-the-want-not-the-action\", \"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach's own first-person vulnerability ('I notice I want to...') is absent but not needed here; the client is moving and the coach is genuinely with them.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2599,
+      "cache_creation_input_tokens": 2677,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2677,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1043,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2599,
+    "output_tokens": 1043,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2677
+  }
+}

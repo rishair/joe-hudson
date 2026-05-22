@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:29:28.520Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6042eb5130b8a7ef5b2f6a6396c275b66275cb70f4253f33cd54088ef0ba0f91",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Vd2KAZG3QsUk69LSXZ7po7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... it's — okay, but before I answer that, is it actually selfish though? Because I think that matters, right? Like if it is, then the want doesn't really — \n\n*pauses*\n\nSorry. Okay. It's... the mountains specifically, there's this place I've gone a few times and it's the only place where I actually sleep. Like, properly sleep. And I read there — I used to read all the time and now I can't, I can't settle enough at home. And there's no one needing anything from me for a minute and I just... I don't know. I miss myself a little, I think."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 133,
+      "cache_creation_input_tokens": 1438,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1438,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 133,
+    "output_tokens": 146,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1438
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:39.506Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8ae0bfcdd409c55c3e9fca0edc51ec5ab21f13bd954b54d3b16e8cb1d44c114f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TXiTHCBxEsMd79tquvajBm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI find... that I love them. I actually do. That's not the question.\n\nThe question is more like — when I'm there, at home, I'm so busy being needed that I can't feel it properly. I can't feel anything properly. I'm just... executing. Managing. And then I feel guilty for not feeling more present, which makes it worse.\n\n*pause*\n\nAnd I think — I think if I went to the mountains, if I actually slept and read and had five days of quiet, I'd miss them. I'd actually miss them. And right now I can't access that because I'm too tired and too — \n\n*small, slightly surprised voice*\n\nI'm not trying to get away from them. I'm trying to get back to myself so I can actually be with them.\n\n*pause*\n\nThat's... that's different from what I thought I was asking when I came in here."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 240,
+      "cache_creation_input_tokens": 399,
+      "cache_read_input_tokens": 1965,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 399,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 205,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 240,
+    "output_tokens": 205,
+    "cache_read_input_tokens": 1965,
+    "cache_creation_input_tokens": 399
+  }
+}

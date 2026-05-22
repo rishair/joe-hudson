@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:33.902Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "75f03b1c301c021d3da994ef1810b8cc8f36002bd010dca73a4fa347a7304cac",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Rd1mZzd2VtJCPMSvcfDKTb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You don't have to.\n\nJust stay with it there — throat, behind the eyes. You don't have to go anywhere."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12047,
+      "cache_creation_input_tokens": 6073,
+      "cache_read_input_tokens": 27075,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6073,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 30,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12047,
+    "output_tokens": 30,
+    "cache_read_input_tokens": 27075,
+    "cache_creation_input_tokens": 6073
+  }
+}

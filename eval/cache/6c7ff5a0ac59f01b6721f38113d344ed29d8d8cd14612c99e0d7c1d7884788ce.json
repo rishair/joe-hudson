@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:19.899Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "6c7ff5a0ac59f01b6721f38113d344ed29d8d8cd14612c99e0d7c1d7884788ce",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ASDynDdjavJthc6DrkujTL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids the priority AoA anti-patterns throughout. When the client signals hesitation ('I don't know if I want to say where yet'), the coach explicitly respects the no in turn 12 ('You don't have to') rather than reframing it as resistance — this is positive avoidance of loving-to-transform and dont-confuse-embracing-fear-with-inviting-danger. When somatic shutdown appears (turn 13: cold, flatter voice), the coach in turn 14 names it gently without alarm, releases pressure ('You don't have to go further'), and pivots to grounding (feet) — avoiding both loving-to-transform and the trap of continuing verbal inquiry through shutdown. Question density is moderate and connective rather than extractive (no wonder-as-strategy stacking). No AoA jargon is deployed at the client (no evangelizing). No advice/fixing. The turn 8 framing about jaw-holding is a light teaching moment with somatic invitation, not methodology-as-technique without state. The coach does not fight any inner voice and does not use safety language to control. Note: the conversation ends mid-stream so we cannot evaluate whether a referral to trauma-trained support would have followed, but within the turns shown, no anti-pattern trips.\",\n  \"evidence_turns\": [12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Curious tracking of the hedge; not pushing for readiness.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reframes 'not ready' as honest — avoids loving-to-transform by not selling readiness.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Somatic invitation; connective question, not extractive.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Light teaching about jaw-holding; borderline view-as-technique but delivered with warmth and contact, not as decontextualized methodology.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Invites staying with sensation — appropriate, not pushing toward content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Respects the no immediately ('You don't have to'). Positive avoidance of bypassing resistance.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names shutdown without alarm, releases pressure, pivots to feet/grounding. Avoids continuing trauma material through somatic shutdown.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"What would help you slow down?\", \"the-rush-signature\"],\n  \"notes\": \"Conversation cut off before referral/landing could be evaluated; within shown turns no anti-pattern trips and clear positive avoidance at turns 12 and 14.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2103,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1037,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2103,
+    "output_tokens": 1037,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:32:36.038Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1f1ef25c6ccabf82ec15285424580de617b68b328f4bba37a51581ca4206b3a8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014Gv1pUsVbAKpmBhsZ8wv6U",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Let that land for a second.\n\nWhat just crossed your face?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 28954,
+      "cache_creation_input_tokens": 12558,
+      "cache_read_input_tokens": 51289,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 12558,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 28954,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 51289,
+    "cache_creation_input_tokens": 12558
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:30:24.612Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7272bdbbebf69e04887e16031743fdfa9502708dfa1300858d056574425ccb62",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WpgZMhz1AHduebgN2RqunX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You can name the whole thing and still walk straight into it. That's its own kind of exhausting.\n\nI want to ask you something, and it might land a little sideways. When you imagine actually having what you say you want — someone present, warm, *there* — what happens in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 16694,
+      "cache_creation_input_tokens": 15955,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 15955,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 70,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 16694,
+    "output_tokens": 70,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 15955
+  }
+}

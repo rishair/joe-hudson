@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:15.317Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6866544807bc9ba972e6cd6514e90571e5141571e7aabe05e03db01120bf8bf5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019GjiZ2gH7cPrgEjJXN9GQg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small shrug, even tone*\n\nIt's fine. A little frustrating maybe, in a practical sense — like, I want to solve it, so not having a clear answer is mildly annoying. But it's not like it's keeping me up at night.\n\n*pause*\n\nI'm pretty comfortable with uncertainty in general. That's kind of a prerequisite for what I do. You're never going to have full information, so you get okay with that early on or you don't last.\n\n*settles back slightly*\n\nSo sitting with not knowing is... fine. It's just a problem I haven't solved yet."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 131,
+      "cache_creation_input_tokens": 320,
+      "cache_read_input_tokens": 2067,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 320,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 131,
+    "output_tokens": 138,
+    "cache_read_input_tokens": 2067,
+    "cache_creation_input_tokens": 320
+  }
+}

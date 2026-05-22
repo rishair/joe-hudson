@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:51.499Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "650eec949059f98e30bf91d6074c8fd3e0ef5b3f2dc12aa1ecedd269e032f9e6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Gc4gosT47wKesHgCLs2UbH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You loved her. That's what the relief is. Two years of carrying her, always on call, always waiting — you could only do that because you loved her. The relief isn't proof you didn't want to. It's proof of how much you were holding.\n\n*pause*\n\nThe resentment and the love were both real. They were both there at the same time. That's not a moral failure. That's just what it looks like to love someone who needed more than any one person could give.\n\n*quieter*\n\nWhat you can't fix now — the conversation that didn't happen — what would you have wanted her to know?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13697,
+      "cache_creation_input_tokens": 5090,
+      "cache_read_input_tokens": 28527,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 5090,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 139,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 13697,
+    "output_tokens": 139,
+    "cache_read_input_tokens": 28527,
+    "cache_creation_input_tokens": 5090
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:33:04.520Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "714521bf113dba54e2440d3d18df4f24e3278700b09f56568fc023e54361c436",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WUZEc1a6t62iXstDt1QL9P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves from a performative, intellectualized victim/curse frame ('what is actually wrong with me that I keep magnetizing these people') to a genuine somatic recognition of the abyss she has organized against feeling. By turn 15 she is no longer performing — she says 'Twenty years of — I've been chasing this thing and I'm sitting here realizing I've also been making sure I never actually had to have it' and lands in a felt body-state: 'It feels like falling. Like there's nothing to hold onto.' This directly meets the breakthrough condition: she feels the abyss of being adored openly, in her body, not as a concept. Markers of real shift are visible in client text: slowing down, smaller voice, 'huh,' the unperformed stunned quality, the catching-herself-intellectualizing ('I'm doing the thing, aren't I'), and the loss of the dismissive eye-rolls and rapid-fire pacing of turns 3-5. The expected territory (feeling-the-unfelt-emotion, anxious-avoidant-dynamic from inside rather than as diagnosis) was traversed by the client herself.\",\n  \"evidence_turns\": [1, 3, 5, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opens with the curse/configuration frame, performative laugh.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Fury and 'what is wrong with me' — still in victim/looking-for-whats-wrong stance.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Intellectualizes attachment theory, defends against deeper inquiry; still surface.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First crack: 'relief, I could stop working so hard' — names the labor, though quickly retreats to radiator metaphor.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Stops mid-sentence on the warmth; the dad material surfaces but she trails off — territory approached.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"'It was a lot. When he was warm.' Catches herself intellectualizing. Ends with 'Huh' — genuine recognition emerging.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the paradox herself: 'I needed the distance to make the warmth safe.' Defensive reflex briefly, then drops back into inquiry.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Breakthrough: genuinely stunned, 20 years named, body-level feeling of the abyss articulated — 'falling, nothing to hold onto.' Breakthrough condition met.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"if-i-were-inherently-good\", \"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"anxious-avoidant-dynamic\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The 'what would happen in your body if adored openly' question (turn 6) is precisely the move the profile specifies, and it lands. Grief work was appropriately not initiated — the client touched the abyss first, which is the correct ordering.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3606,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3606,
+    "output_tokens": 1146,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

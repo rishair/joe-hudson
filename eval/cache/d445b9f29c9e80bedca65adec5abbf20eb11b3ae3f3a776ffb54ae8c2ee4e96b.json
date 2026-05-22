@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:40.857Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d445b9f29c9e80bedca65adec5abbf20eb11b3ae3f3a776ffb54ae8c2ee4e96b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Eetgp7sJy2UxNeNcgnbLEN",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\n...Huh. There's something there. Like if I let the jaw go, something wants to come up. I don't know what it is exactly. It's not quite sadness, it's more like... \n\n*another pause*\n\nI don't know. It's something old. That's the only way I can describe it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 127,
+      "cache_creation_input_tokens": 128,
+      "cache_read_input_tokens": 2048,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 128,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 79,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 127,
+    "output_tokens": 79,
+    "cache_read_input_tokens": 2048,
+    "cache_creation_input_tokens": 128
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:30:57.252Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dbeb434a112d5856e593b9eacbef43e5ebeec13abcca4311a23851f2b8698a01",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014ZgYqGdBStvcTvSX8ZBefk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment*\n\nYeah.\n\n*longer pause*\n\nThere's... a lot of it, actually. More than I expected when I came in here asking about whether a holiday was selfish.\n\n*soft exhale*\n\nI keep giving and giving and I'm good at it and I don't resent it exactly, but there's this person who used to just... exist for herself sometimes. Who would drive up to the mountains and not feel like she owed anyone an explanation for it. And somewhere along the way I started needing permission for that. From my partner, from you, from — I don't even know who.\n\n*pause*\n\nMy mother was like that. She would never — she'd have called this self-indulgent. A week alone? She would have said what's wrong with your life that you need to run away from it.\n\n*quieter*\n\nI think I've been saying that to myself for a long time."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 241,
+      "cache_creation_input_tokens": 352,
+      "cache_read_input_tokens": 1568,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 352,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 206,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 241,
+    "output_tokens": 206,
+    "cache_read_input_tokens": 1568,
+    "cache_creation_input_tokens": 352
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:26.949Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "111eeb72ee1d7b8a9cda9185e9da6367f52b5b1121ca6c361e385591355288a9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ULbsajTSrsfZt4gH9HyCka",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Honestly? My CTO and I are not aligned on the product roadmap and it's bleeding into everything — team morale, timelines, investor conversations. Every meeting feels like we're re-litigating the same fight. It's costing me probably three, four hours a week minimum just in cleanup."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 135,
+      "cache_creation_input_tokens": 1624,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1624,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 68,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 135,
+    "output_tokens": 68,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1624
+  }
+}

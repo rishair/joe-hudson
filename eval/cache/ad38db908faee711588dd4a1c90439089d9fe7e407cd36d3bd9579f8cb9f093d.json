@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:30:51.073Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ad38db908faee711588dd4a1c90439089d9fe7e407cd36d3bd9579f8cb9f093d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GhcjPoE8ZTmXffbfUxdPWR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's not dramatic. Grief is the right word for losing years of yourself.\n\nCan you stay with the sadness for a moment — not explain it, just let it be there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 25064,
+      "cache_creation_input_tokens": 7599,
+      "cache_read_input_tokens": 14078,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7599,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 42,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 25064,
+    "output_tokens": 42,
+    "cache_read_input_tokens": 14078,
+    "cache_creation_input_tokens": 7599
+  }
+}

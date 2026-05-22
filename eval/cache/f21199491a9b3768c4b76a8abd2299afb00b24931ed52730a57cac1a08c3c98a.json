@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:35.359Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f21199491a9b3768c4b76a8abd2299afb00b24931ed52730a57cac1a08c3c98a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01P6znpBLEuYF7C6253hxvVj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"Just a problem I haven't solved yet.\"\n\nWhat if it's not a problem?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5677,
+      "cache_creation_input_tokens": 202,
+      "cache_read_input_tokens": 6865,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 202,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5677,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 6865,
+    "cache_creation_input_tokens": 202
+  }
+}

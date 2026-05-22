@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:19.063Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f1fcf289a5bb3745134f458c3d4c01b21cd0427525e0e773853161f29cf564d5",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VHHESmhmJHQyHowUeAnfm5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That question itself — \"is this peace or is something wrong?\" — is worth sitting with for a second.\n\nWhat does it feel like from the inside, right now, as you ask it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15744,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 15744,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

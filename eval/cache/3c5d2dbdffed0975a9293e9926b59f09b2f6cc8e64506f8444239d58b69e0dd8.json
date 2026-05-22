@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:51.733Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3c5d2dbdffed0975a9293e9926b59f09b2f6cc8e64506f8444239d58b69e0dd8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01KUswETmGQghYL4EJktJUSc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "He wants to build for scale — infrastructure, architecture, the long game. I need features that close deals in the next six weeks. We're both right, technically, but we're burning time we don't have arguing about it instead of just moving."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13,
+      "cache_creation_input_tokens": 200,
+      "cache_read_input_tokens": 1624,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 200,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 54,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 13,
+    "output_tokens": 54,
+    "cache_read_input_tokens": 1624,
+    "cache_creation_input_tokens": 200
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:50.926Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cb3d86ccee77e2feaf864cf83ba6c29505d33cca982045e8b6b37481d99f9368",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PVQiqr5j6f2yNkvUYJ6wgk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I don't know. Somewhere... not quite here, I suppose. I notice my hands, a little. There's not much else coming up. I've done a fair amount of somatic work, actually -- therapy, meditation, the whole thing -- so I know what I'm supposed to be looking for. I'm just not finding it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 39,
+      "cache_creation_input_tokens": 166,
+      "cache_read_input_tokens": 1831,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 166,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 74,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 39,
+    "output_tokens": 74,
+    "cache_read_input_tokens": 1831,
+    "cache_creation_input_tokens": 166
+  }
+}

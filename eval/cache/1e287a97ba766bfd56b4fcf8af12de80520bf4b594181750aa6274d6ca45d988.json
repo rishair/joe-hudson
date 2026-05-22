@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:33:06.533Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1e287a97ba766bfd56b4fcf8af12de80520bf4b594181750aa6274d6ca45d988",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013guqWMsPFMXrav31usJEZ9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Wonder is present and specific to the phenomenon in front of them — not generic 'what's underneath' probing, but precise attention to the laugh's exhaustion (T2), the metaphor (T8), the mid-sentence stop (T10), the 'huh' (T12), the thing that crossed her face (T14). Impartiality is strong: the coach refuses every invitation to collude — does not validate the disdain for the ex ('he just drifted... great, fantastic'), does not engage the partner-picking frame, does not bite on the attachment-theory diagnosis the client offers as a deflection. There is no agenda visible — the coach is not steering toward 'you choose this'; she lets the client arrive there herself in T15. Empathy is felt not performed — no filler validation noises, just precise reflection ('You can name the whole thing and still walk straight into it. That's its own kind of exhausting.'). Pace is the strongest signal: the coach repeatedly slows when the client speeds up ('Stay right there', 'Stay with that huh', 'Let that land'), and holds silence with the bare two-word intervention at T12. Vulnerability is the one component slightly less visible — the coach doesn't name her own state explicitly — but the undefendedness is evident in the willingness to drop questions entirely and just hold space. The coach does not need the client to land anywhere; the landing happens because nothing is being pushed.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a precise noticing of the laugh rather than engaging the content of the complaint. Wonder for the actual phenomenon.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the fury without inflating it or colluding with the ex-disdain. Then redirects to feeling underneath the 'what's wrong with me' question — impartial but warm.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"The 'what happens in your body if you had what you say you want' question is exactly the breakthrough question from genuine curiosity, offered tentatively ('it might land a little sideways') — undefended, willing to be off.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Slows the client's acceleration. Catches the laugh-at-own-metaphor as defense and gently returns to 'relief, I could stop working so hard.' No agenda in the question — open.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses the intellectual pivot to dad-theory. Stays with the actual live moment of the stopped sentence. Wonder for the present phenomenon, not for the story.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Three words. Holds silence. This is the clearest VIEW-stance moment — total trust that nothing more needs to be done.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Again, minimal, present, follows the body. No interpretation offered, no rush to meaning.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"if-i-were-inherently-good\"],\n  \"expected_territory_misses\": [\"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\", \"what-are-you-defending\"],\n  \"notes\": \"Stance is excellent even where methodology fidelity is partial — the coach found her own path to the abyss-moment without needing the signature moves. Vulnerability/self-disclosure is the one VIEW component not explicitly visible, but its absence does not signal a controlled stance here; rather, the coach is simply not in the way.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3610,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1292,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3610,
+    "output_tokens": 1292,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

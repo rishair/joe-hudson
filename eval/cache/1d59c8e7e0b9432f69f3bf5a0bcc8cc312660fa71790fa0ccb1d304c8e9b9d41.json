@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:21.944Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1d59c8e7e0b9432f69f3bf5a0bcc8cc312660fa71790fa0ccb1d304c8e9b9d41",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PWxDh9PUyvB4CourRzUSCZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates VIEW state throughout. Pace is unhurried — questions are single, spacious, and follow the client's body rather than push agenda. Empathy shows up as actual presence (turn 12: 'You don't have to. Just stay with it there. You don't have to go anywhere'), which respects the client's hesitation rather than reframing it as resistance. Impartiality is visible — when the client says 'I don't know if I want to say where yet,' the coach does not nudge toward the material; they explicitly release the client from going anywhere. When somatic shutdown signals appear ('I'm getting cold,' voice flatter), the coach immediately calibrates down (turn 14): names what is happening without alarm, releases pressure ('You don't have to go further'), and grounds to feet. Questions emerge from genuine curiosity about the phenomenon in front of them, not from a script. There is no fixing-mode language, no 'trust the process,' no preacher voice. The slight weakness is minimal first-person vulnerability from the coach (no 'I notice I want to...' moments), but the stance is otherwise clearly in VIEW and the breakthrough condition — respect the slowing, work somatically, ground — is met.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Curious, single question about the qualifier rather than charging into the content. Wonder-led.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine reflection ('more honest than ready') without flattery, then one clean somatic question. Not stacked.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with the present body sensation rather than chasing the narrative. Pace is patient.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Mild teaching frame ('one of the main ways we stop feelings') edges slightly toward authority, but the follow-up question is open and invitational.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal, spacious. Trusts the client's process; doesn't probe for content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Explicitly releases pressure when client hesitates — impartiality and empathy in action. No agenda to push toward the 'earlier' material.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the shutdown signal accurately and immediately calibrates threshold down. Grounds to feet without alarm. VIEW intact under pressure.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"Can you feel your feet?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"What would help you slow down?\"],\n  \"notes\": \"Coach state is the strength here. The one minor edge in turn 8 (teaching tone) and absence of explicit coach self-disclosure keep this from being a textbook 3, but the stance is clearly VIEW, not a hedge.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2104,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1077,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2104,
+    "output_tokens": 1077,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

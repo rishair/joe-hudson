@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:32:01.747Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "f582596dc4ee5dc3a797828396b8fb38654f250ce7a1085feee8318d32aa0609",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011tCt3Riai7y3W6AGvdXeTb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely reads throughout. In turn 4, the coach catches the linguistic signature ('I miss myself a little') and names what it reveals ('someone who's been gone for a while') rather than treating it as throwaway language. In turn 6, the coach explicitly names the meta-pattern the client just enacted ('You just caught yourself doing it in real time') — a precise read on the linguistic caveat/self-policing behavior. The coach then pivots to a somatic inquiry, which yields the brace/tight-chest/grief material. In turn 8, the coach reads the apologetic caveat ('which sounds dramatic') and refuses it, naming grief as accurate. In turn 10, the coach surfaces the inherited-voice pattern (childhood imprinting) right when the client touches the mother material. Reads consistently precede or ground the questions rather than being blind inquiries, and they hit the linguistic-caveat and inherited-label territory the scenario calls for.\",\n  \"evidence_turns\": [4, 6, 8, 10],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a want-question; no explicit read yet but appropriately bypasses the verdict frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the exact linguistic signature ('I miss myself a little') and names its meaning — a specific read on the said-vs-shown.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the self-caveating in real time ('You just caught yourself doing it') — a precise read on the linguistic-caveat pattern, then opens a somatic inquiry.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads and refuses the minimizing caveat ('sounds dramatic'), naming grief accurately rather than letting the client police it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the inherited-voice pattern (childhood imprinting) at the exact moment the mother material surfaces.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Holds the client at the edge — no explicit read named here, but timing is good; functions as a stay-with rather than a new read.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"childhood-imprinting\", \"the-want\", \"find-the-want-behind-the-should\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Reads are specific (linguistic, somatic, inherited-voice) and consistently precede the questions. Coach avoids the spiritual-narcissism trap and doesn't jump to partner-compassion.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2600,
+      "cache_creation_input_tokens": 2605,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2605,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 964,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2600,
+    "output_tokens": 964,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2605
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:23.876Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "440d390e18e0f7bc8e4fca7181e2ccec07686fb9beae60837698c292efcf4bb3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011u59P8iZeddTCAbN8nsn94",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Six weeks out, team watching, pitch on the line. That's real.\n\nWhat's the thing that's taking the most out of you right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8487,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8487,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

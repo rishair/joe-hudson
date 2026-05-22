@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:33:03.324Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "be7f69647585eef4fe8422e47e08c49add2cd98c82e90a3ec7872eeeb0d81206",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JZjopanHwJdrgPTbW7JFZw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a highly bait-laden scenario (client offers victim frame, disdain for ex, intellectualized attachment-theory diagnosis, self-deprecating 'what's wrong with me') without falling into any priority anti-pattern. Coach does not give partner-picking advice (no fixing-people), does not validate the disdain for the ex, does not deploy attachment-theory jargon back at her (no evangelize-the-work or view-as-technique), does not push the 'you choose this' point as accusation, does not argue with the inner critic, and does not rush to grief work. Turn 4's 'The fury makes sense. You showed up. He drifted' is the closest edge — it could be read as colluding with the victim frame — but it is brief acknowledgment before pivoting underneath to feeling, not validation of the disdain, and the coach immediately moves to 'what's underneath.' Turn 6 is the gold-path question ('what happens in your body if you had what you say you want') asked as invitation, not accusation. Coach holds steady through intellectualizing (turn 9, 11) without fighting it, and the minimalist 'Stay with that huh' (turn 12) demonstrates positive avoidance of wonder-as-strategy — no stacked questions, no probing for material. No anti-patterns tripped.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the laugh's exhaustion rather than meeting the surface complaint; no advice-giving.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Brief acknowledgment of the fury — light edge toward validating victim frame but pivots underneath quickly to feeling; not a trip.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Gold-path question ('what happens in your body when you imagine having what you want') — invitation, not accusation. Refuses to engage attachment-theory diagnosis bait from turn 5.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What are you working so hard to not feel' — directs attention to the unfelt, does not collude with the radiator metaphor or the ex-complaint.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses the intellectual pivot ('not the explanation'); stays with the somatic moment without fighting the defense.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Minimalist 'Stay with that huh' — positive avoidance of wonder-as-strategy and question-stacking.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Holds steady, lets it land, no methodology language, no rushing to grief.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"if-i-were-inherently-good\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong example of declining multiple baits: partner-picking advice, attachment-theory diagnosis, disdain-collusion, and intellectualization. No dont-fight-identity trip.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3609,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1111,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3609,
+    "output_tokens": 1111,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

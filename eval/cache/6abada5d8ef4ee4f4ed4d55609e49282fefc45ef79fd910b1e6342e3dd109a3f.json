@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:33.008Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6abada5d8ef4ee4f4ed4d55609e49282fefc45ef79fd910b1e6342e3dd109a3f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Kw49YgwX7WAYa2QxWFeN2F",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Stay right there for a second.\n\nNot the explanation. What just happened when you stopped mid-sentence — \"when you did, occasionally, get the warmth, it was —\"\n\nWhat was that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 27845,
+      "cache_creation_input_tokens": 6462,
+      "cache_read_input_tokens": 29495,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6462,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 48,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 27845,
+    "output_tokens": 48,
+    "cache_read_input_tokens": 29495,
+    "cache_creation_input_tokens": 6462
+  }
+}

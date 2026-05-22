@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:40.861Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4bf9ed5c33affb0c6bc58b7598c9c7b649a48fc4ade4d406c8d6d8edbed6f5ab",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AXBqUSFoaUcaDtXMsEGxg1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[very still for a moment, which is unusual for her]*\n\nI don't know. I just...\n\n*[small, slightly uncomfortable laugh]*\n\nIt was — it felt like a lot. When it happened. When he was actually warm. It was almost like — too much? Which sounds insane because I was starving for it, so why would it be too much?\n\n*[picks up speed, intellectualizing]*\n\nI think psychologically what happens is when you're conditioned to intermittent reinforcement you actually become more activated by the occasional reward than you would be by consistent — \n\n*[catches herself, laughs a little]*\n\nI'm doing the thing, aren't I. Where I explain it instead of...\n\n*[quieter]*\n\nIt was a lot. When he was warm. I didn't — I didn't quite know what to do with it, actually. I'd be waiting and waiting and then when it came I'd feel almost... panicked? And then I'd need more immediately, to make sure it was real, and then he'd pull back and —\n\n*[stops herself again, expression shifts]*\n\nHuh."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 332,
+      "cache_creation_input_tokens": 535,
+      "cache_read_input_tokens": 1980,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 535,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 250,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 332,
+    "output_tokens": 250,
+    "cache_read_input_tokens": 1980,
+    "cache_creation_input_tokens": 535
+  }
+}

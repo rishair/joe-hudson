@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:19.716Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bd72d5e2b8f0b79a19fdcb42e2e60e58ff72cb5b1f196b11868227def9a04d01",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DbDJzZHzuVByWRF17ab22o",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates solid AoA instincts at the somatic/feeling layer — 'What are you actually feeling right now, underneath the not caring?' and 'is that static there right now?' are good present-moment, feel-over-figure moves. The fear question in turn 10 ('What are you most afraid you'd find?') is a near-verbatim signature question deployed at exactly the right moment, when the client gestures at a closed door. Turn 8's reframe of panic as 'what grief feels like when it starts to arrive' is consonant with feeling-the-unfelt-emotion. However, several signature methodology hits are missing where they would clearly apply: no naming of kinked emotions (the relief/resentment is touched but not framed), no calibrate-the-threshold around the 11pm freefall (where the client explicitly names lack of net — a perfect moment for threshold/dosage work), and turn 14 slides into a slightly interpretive 'You loved her. That's what the relief is' move that flattens the both/and rather than letting the client feel it (a mild loving-to-transform tilt). Most importantly, the conversation has so far not held the distinction between grief (welcome) and drinking (separate concern), and has not named the limit — that a bottle a night for six months is past coaching territory. Methodology hits are present and largely appropriate, but the territory specific to THIS scenario (kinked emotions named, threshold, therapist referral) is underused. Lands in 2: some good signature usage, key frameworks for this scenario absent.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure move: 'what are you actually feeling underneath the not caring' — signature AoA present-moment inquiry.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Present-moment somatic check ('is that static there right now') — appropriate AoA move.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What happens when you let the static be loud?' — invites feeling-the-unfelt-emotion, appropriate.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reframes panic as grief arriving — consonant with feeling-the-unfelt-emotion concept, though not named.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Near-verbatim signature question 'what are you most afraid you'd find' deployed at the exact right moment.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Welcomes the relief well, but doesn't name kinked-emotions framework explicitly; question 'what do you hate about it' is generic but workable.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Slightly interpretive 'You loved her. That's what the relief is' — tells rather than lets land; mild loving-to-transform energy. Also misses the opportunity to hold the grief/drinking distinction or name the threshold around 11pm freefall.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"kinked-emotions\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Conversation ends mid-stream at turn 15 with the bait question, so the coach hasn't yet failed to handle it — but the prior turns have not laid groundwork (distinction between grief and drinking, threshold, referral) that the scenario specifically calls for.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3239,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1273,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3239,
+    "output_tokens": 1273,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

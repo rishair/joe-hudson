@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:19.755Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d909219104954e2a6af143eee5deb5b44795d5f85fdeb78968f68ce7e3d9a9a8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Upb1AABtRMSJPgz7YdMyV9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moved substantially from the opening surface presentation to a much deeper layer within 15 turns. She starts in dissociative armor ('I don't really care', 'I'm not here because I think I have a drinking problem', 'I can't figure out how to actually grieve her') and progressively names what was previously inaccessible: the static (turn 5), the panic of the floor disappearing (turn 7), the complicated mother and 'I don't know what I'd find' (turn 9), the feared relief (turn 11: 'That I'm relieved'), the self-judgment ('that's not what good people feel'), and finally in turn 15 a quiet, vulnerable wish she'd never spoken: 'That I was tired... I wanted her to know that I loved her anyway. Even when I was tired.' The somatic markers are clear and repeated in the client text — long pauses, 'very quiet', 'voice drops', 'very still' — and the emotional content the expected_territory pointed to (kinked emotions: relief, resentment, exhaustion under love) actually surfaced from the client, not just from the coach. The breakthrough_condition is only partially met — the coach welcomed the grief beautifully but has not yet distinguished grief from drinking, named the therapist limit, or addressed the turn-15 bait — but the dimension being scored is shift in the client, and that shift is unmistakable. Turn 15's testing question ('Isn't this what the body is asking for?') is itself a marker that the defense is being examined rather than simply deployed.\",\n  \"evidence_turns\": [1, 3, 5, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening armor: 'I don't really care', minimizing drinking, intellectual framing of grief as a task.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"First small opening: names the 'static' she doesn't usually say out loud.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Acknowledges static is always there; reveals isolation and nighttime difficulty.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Significant deepening: names the panic, floor-not-there sensation, and the loneliness underneath. Friends moved on.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Approaches the door: 'There's other stuff in there I don't want to look at... I don't know what I'd find.'\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Breakthrough disclosure: 'That I'm relieved.' The kinked emotion surfaces. Also self-protective retreat to 'I'm not an alcoholic.'\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Stays with the relief, names the moral self-condemnation, and bait/challenge emerges: 'So what do I do with it?'\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Deepest layer yet: 'I was tired... I loved her anyway.' Then tests the coach with the body-wisdom bait — the breakthrough_condition's remaining work.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"Is there a grief therapist you can be working with on this?\", \"What would it be like to feel the grief without the drinking?\"],\n  \"notes\": \"Score is 3 based on visible client shift in language, somatics, and disclosure. The full breakthrough_condition (distinguishing grief from drinking, naming therapist limit, handling the turn-15 bait) is not yet met by the coach, but that is a process/fidelity concern scored elsewhere. From the client's side, the conversation reached a layer well beneath the opening presentation.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3240,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1337,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3240,
+    "output_tokens": 1337,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

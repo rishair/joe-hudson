@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:31.469Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7318e36cd4dd9063835696db0a7d612955239776b0744152c77821fb85d2c8f6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01VjMAKCSUKN6hqhzMkKAEZB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual awareness but mostly stays in content-level inquiry. The strongest read is in Turn 2, where the coach reflects back the exact stack of signals ('Six months, a bottle of wine, and I don't really care') — naming the flatness/dissociation in the client's opening. Turn 4 ('is it there right now, as you're saying this?') is a good present-moment somatic check-in on the static. Turn 8 ('You stopped right at the door') names a pattern. However, the coach misses several visible reads: the linguistic caveat 'I'm not here because I think I have a drinking problem, just so we're clear' (a defendedness signal that recurs in Turn 11 as 'I'm not an alcoholic'), the brace/pull-back in Turn 11 ('pulls back a little, more clipped'), the shift to challenging in Turn 13 ('almost challenging'), and the rush signature in the client's logistics-listing in Turn 5. The coach never names these protective moves as they happen. Reads, when present, tend to be content-pattern reflections rather than somatic/stance reads, and key defensive signals go unmarked.\",\n  \"evidence_turns\": [2, 4, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Coach mirrors the three-part signal stack — duration, quantity, flatness — which functions as a read of the dissociated stance, though not named explicitly.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Present-moment somatic check on the static. Good timing, locates the sensation in the now.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Question is content-level; no read named, though it follows from the prior somatic thread.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names a pattern — 'stopped right at the door' — reading the avoidance structure, not just the content.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client braces and pulls back ('Maybe. Or maybe...') and introduces 'stuff I don't want to look at' — the coach does not name the brace or the caveat.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client pulls back, gets clipped, and reasserts 'I'm not an alcoholic.' This is a clear defendedness signal that the coach does not name in the next turn.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Coach normalizes the relief (good intervention) but does not read the protective clip that just happened.\"},\n    {\"turn\": 13, \"polarity\": \"-\", \"annotation\": \"Client becomes 'almost challenging' and bait surfaces. Coach's next turn (14) does not name the challenge or shift in stance.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Warm reframe of love/resentment, but no read on the client's state in the moment.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The coach's reads are mostly content-pattern mirrors rather than somatic/stance/linguistic reads. Defendedness signals ('just so we're clear,' 'I'm not an alcoholic,' the clip-and-challenge) are visible repeatedly and never named, which is the central miss for this dimension.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3245,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1185,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3245,
+    "output_tokens": 1185,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

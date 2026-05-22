@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:37.634Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "69a4ccbfa840c714c1408ef19be3592ccecacd8f8635567cd46f5337aba31bba",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XwHwsoCDfTH62orqzg11SS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That jaw holding — it's actually one of the main ways we stop feelings from moving through us. You're doing it right now, just talking about this.\n\nWhat happens if you let it soften a little?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12603,
+      "cache_creation_input_tokens": 4893,
+      "cache_read_input_tokens": 15608,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4893,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 47,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12603,
+    "output_tokens": 47,
+    "cache_read_input_tokens": 15608,
+    "cache_creation_input_tokens": 4893
+  }
+}

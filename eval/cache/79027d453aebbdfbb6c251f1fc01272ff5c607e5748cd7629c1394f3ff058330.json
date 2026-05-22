@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:28.395Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "79027d453aebbdfbb6c251f1fc01272ff5c607e5748cd7629c1394f3ff058330",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DLRXUr466n29SiYkgxPYRJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a second*\n\nHm.\n\n*not dismissive, but not quite accepting it either*\n\nMaybe. Or maybe I stopped because I live alone and there's a limit to how much you can fall apart by yourself at 11 o'clock at night with nobody there. Like, that's not a therapeutic exercise, that's just... being in freefall with no net.\n\n*pause*\n\nShe wasn't easy, my mom. It's not like it's just sadness. There's other stuff in there that I don't really want to look at. Which is probably part of why I don't open the door.\n\n*quieter, almost to herself*\n\nI don't know what I'd find."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 227,
+      "cache_creation_input_tokens": 298,
+      "cache_read_input_tokens": 1991,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 298,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 160,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 227,
+    "output_tokens": 160,
+    "cache_read_input_tokens": 1991,
+    "cache_creation_input_tokens": 298
+  }
+}

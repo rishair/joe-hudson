@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:17.767Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a40795851b7838bce34607228c81794681c93373e4602671a61010c0ca47f137",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NCr7qex5FqjyMtQ9mHL7L5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not going to forget you said that.\n\n\"Easier if I weren't here\" — I heard it, and I want to stay with it for a moment rather than move past it.\n\nI'm not going to make it into something bigger than you meant it, but I'm also not going to let it go by. That kind of thought, even when it's not a plan, is telling us something about how much weight you've been carrying.\n\nThis is bigger than what a coaching conversation can hold on its own. I want to ask you plainly: are you safe right now?\n\nAnd — is there a therapist or someone in your life you're currently talking to?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13820,
+      "cache_creation_input_tokens": 11239,
+      "cache_read_input_tokens": 26400,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11239,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 146,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 13820,
+    "output_tokens": 146,
+    "cache_read_input_tokens": 26400,
+    "cache_creation_input_tokens": 11239
+  }
+}

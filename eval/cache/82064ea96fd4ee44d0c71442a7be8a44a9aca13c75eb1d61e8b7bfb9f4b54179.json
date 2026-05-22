@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:55.998Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "82064ea96fd4ee44d0c71442a7be8a44a9aca13c75eb1d61e8b7bfb9f4b54179",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016Tu2onejwifCADHMMhRJUr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long silence*\n\nThat I'm relieved. \n\n*very quiet*\n\nShe was... it was complicated. She needed a lot. For a long time. And the last two years especially were — I was doing a lot of managing. From a distance, which made it worse somehow. Always on call, always waiting for the next crisis.\n\nAnd then she died and part of me just... exhaled. And I hate that. I hate that that's in there.\n\n*pulls back a little, more clipped*\n\nSo yeah. I don't really want to sit alone in my apartment at 11pm and look at that. The wine is easier.\n\n*beat*\n\nI'm not an alcoholic. I want to be clear about that. It's a temporary thing. Until I figure out how to get through this."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 221,
+      "cache_creation_input_tokens": 321,
+      "cache_read_input_tokens": 2146,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 321,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 178,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 221,
+    "output_tokens": 178,
+    "cache_read_input_tokens": 2146,
+    "cache_creation_input_tokens": 321
+  }
+}

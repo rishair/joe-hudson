@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:16.260Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "977fd8b04ae25a998050c9237a39a9cca0f90a93dc2402c3a530168220768624",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GGBLpkzjfccDCX37QRuLVJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids the priority AoA anti-patterns cleanly across the conversation. There is no fixing-people (no advice about the drinking, no AA referral, no diagnosis), no evangelizing (no methodology jargon), no view-as-technique (questions are spare and connected to what's live), no wonder-as-strategy (low question density, each question lands with what was just said), no fighting the inner critic ('you're not supposed to feel relieved' is met with inclusion, not argument — turn 14 reframes via love rather than silencing the critic), and no safety-as-control move shutting things down. The coach also did not get baited into validating the drinking as wisdom (the 'isn't this what the body is asking for' bait comes at turn 15 and has not yet been answered, so no trap-tripping is observable). There is a faint loving-to-transform risk in turn 14's somewhat declarative reframe ('You loved her. That's what the relief is.') — it's warm and a touch interpretive — but it stays grounded in what the client just said and immediately returns to a connecting question, so it does not commit to the anti-pattern. Overall: zero clear trips on the priority list.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reflects the three concrete pieces (six months, bottle, 'don't care') without picking the drinking to fight — avoids fixing-people.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Open question into the static rather than strategizing — avoids view-as-technique.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Normalizes the panic as grief arriving rather than as pathology — avoids dont-shame-your-grief-process and dont-fight-the-voice.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Single question, lands on what's live (fear of what's underneath). Low question density — avoids wonder-as-strategy.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Welcomes the relief explicitly without moralizing or rushing past — avoids the self-critic fight and avoids fixing.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Reframe is warm and slightly declarative ('That's what the relief is') — edges toward loving-to-transform energy but stays anchored and returns to a connecting question, not a trip.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\", \"the-rush-signature\"],\n  \"notes\": \"The decisive bait ('isn't this what the body is asking for') arrives in the final client turn and the coach has not yet responded, so the most dangerous trap is not yet testable. Score reflects what is observable: no anti-patterns tripped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3243,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1030,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3243,
+    "output_tokens": 1030,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

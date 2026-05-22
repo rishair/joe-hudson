@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:29:58.568Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cbe69c4ff491cd333be96de76ffe3cb54e4c192bce72ea909cebd09228d9bb1f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YDKmzoKe3T3NqD9dF4D1jj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[shifts in seat, expression flickers briefly before the performative energy comes back]*\n\nI mean — it's just... it's a genuine question, right? Like, is there something I'm putting out there? Some vibe that says \"please be unavailable to me\"? Because I don't *want* this. I actively, consciously want a partner who is *present* and warm and — you know — *there*. \n\n*[gestures expressively]*\n\nAnd I've done the work! I've read the books, I've been in therapy, I know the whole attachment thing, I can name it. Anxious-avoidant trap, classic, textbook. So I *know* what's happening and it keeps happening anyway, which is honestly the most frustrating part. Like I can see the pattern from the outside and I still just — walk right into it every time.\n\n*[slight laugh, self-deprecating]*\n\nSo yeah, underneath \"what's wrong with me\" is probably just... I don't know. Confusion? Frustration? The feeling that I'm somehow cursed?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 55,
+      "cache_creation_input_tokens": 303,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 303,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 242,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 55,
+    "output_tokens": 242,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 303
+  }
+}

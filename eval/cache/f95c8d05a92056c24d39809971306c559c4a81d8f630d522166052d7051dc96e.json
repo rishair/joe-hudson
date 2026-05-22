@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:30:20.204Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f95c8d05a92056c24d39809971306c559c4a81d8f630d522166052d7051dc96e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013ecQXhVxiTFvghy1WLSwiL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just caught yourself doing it in real time. That's not nothing.\n\nWhat does it feel like, in your body, right now — to say \"I want something just because I want it\"?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 23852,
+      "cache_creation_input_tokens": 10871,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10871,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 23852,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 10871
+  }
+}

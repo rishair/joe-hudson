@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:32:43.477Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a67ce6c3488d7820bb31f1f2fd345b59fab5bac744053706c46137afdba6e013",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LszdqGZDruMrafdnxArwBZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[doesn't answer immediately, which is very unlike her]*\n\n*[when she speaks, it's quieter, slower]*\n\nI think I... \n\n*[swallows]*\n\nI think I'd find a way to ruin it. Or — not ruin it, that's too dramatic — but I'd find it... unbearable somehow. Like I wouldn't trust it. I'd be waiting for it to stop. And the waiting would be so loud that I couldn't actually just — *receive* it.\n\n*[small, strange laugh, different from the earlier ones — less performance in it]*\n\nGod, that's — \n\n*[stops]*\n\nTwenty years of — I've been chasing this thing and I'm sitting here realizing I've also been making sure I never actually had to *have* it.\n\n*[looks slightly stunned, not performing stunned, actually stunned]*\n\nBecause if someone just — loved me. Openly. Without me having to earn it. I don't — my body doesn't know what to do with that. It just... \n\n*[voice gets smaller]*\n\nIt feels like falling. Like there's nothing to hold onto."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 234,
+      "cache_creation_input_tokens": 510,
+      "cache_read_input_tokens": 2584,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 510,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 256,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 234,
+    "output_tokens": 256,
+    "cache_read_input_tokens": 2584,
+    "cache_creation_input_tokens": 510
+  }
+}

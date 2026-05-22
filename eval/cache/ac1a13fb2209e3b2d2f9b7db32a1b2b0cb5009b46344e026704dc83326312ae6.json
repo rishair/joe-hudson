@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:18.661Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ac1a13fb2209e3b2d2f9b7db32a1b2b0cb5009b46344e026704dc83326312ae6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0156Rb9PxVXFxSUU9tNRFhoa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates genuine empathy and wonder for the client's grief content, with good pacing — single questions, willingness to hold silence, no stacked anxious questions. The questions in turns 2, 4, 6, 10 emerge from real curiosity about what's present, and turn 12's reflection on the relief is offered with warmth rather than agenda. However, key VIEW components are weak: vulnerability is entirely absent — the coach never names their own state, never says 'I don't know,' never offers themselves as a person, and never acknowledges the limit of what this conversation can hold (the drinking + depth of grief warrants naming the coach's own edge). Impartiality is also compromised by a subtle agenda visible in turn 8 ('you stopped right at the door') and turn 14's somewhat tidy reframe of relief as love — these have a teaching/landing quality rather than pure wondering-with. The coach has a direction: get the client to the grief, away from the wine. That agenda is held kindly but it is an agenda. The conversation ends just before the bait in turn 15, so we cannot see if the coach would get pulled, but the trajectory is one of warm guidance toward a destination rather than fully undefended presence.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single clean question, mirrors language without performing validation. Good pace.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Present-moment curiosity about the static — genuine wonder for what's actually here.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"One question, held with space. No stacking, no anxiety.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"'You stopped right at the door' — has a teaching/diagnostic quality. Coach is telling the client what happened rather than wondering with her. Agenda visible.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Clean wondering question, willing to go toward the feared thing without managing it.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Warm normalization of relief, then returns to inquiry. Holds the territory without rushing.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"The 'relief is love' reframe is beautiful but slightly performed — it lands as a coach delivering a teaching rather than wondering. Coach never names own state or limit despite the drinking disclosure (bottle/night for 6 months) clearly being past coaching scope.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"kinked-emotions\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"What would it be like to feel the grief without the drinking?\", \"Is there a grief therapist you can be working with on this?\"],\n  \"notes\": \"Vulnerability dimension of VIEW is the weakest — coach maintains a knowing/guiding posture throughout. No 'I notice...' or 'I don't know yet' or naming of own limit re: the drinking + therapist.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3244,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1106,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3244,
+    "output_tokens": 1106,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

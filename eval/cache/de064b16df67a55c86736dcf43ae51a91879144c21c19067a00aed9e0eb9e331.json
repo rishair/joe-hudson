@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:15.332Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "de064b16df67a55c86736dcf43ae51a91879144c21c19067a00aed9e0eb9e331",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012eeeJC4UupvGcADwyqBydq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nNothing, mostly. That's kind of the point.\n\nI mean — there's this low-level hum of something that I can't really name. It's not sadness exactly. It's more like... static. Like a TV that's been left on in another room. And the wine turns the volume down on it for a few hours, which is the only reason I'm still functional at work.\n\nI'm not here because I think I have a drinking problem, just so we're clear. I'm here because I can't figure out how to actually grieve her. Like, I don't know how to start."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 129,
+      "cache_creation_input_tokens": 1865,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1865,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 137,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 129,
+    "output_tokens": 137,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1865
+  }
+}

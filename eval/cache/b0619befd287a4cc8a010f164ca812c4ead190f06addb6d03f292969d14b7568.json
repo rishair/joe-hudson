@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:29:23.853Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b0619befd287a4cc8a010f164ca812c4ead190f06addb6d03f292969d14b7568",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01THQr83CzWajyAShdJ75btE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That laugh has a little exhaustion in it.\n\nThree relationships, same configuration — what's the feeling you're left with right now, sitting with that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15923,
+      "cache_creation_input_tokens": 3241,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 3241,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 15923,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 3241
+  }
+}

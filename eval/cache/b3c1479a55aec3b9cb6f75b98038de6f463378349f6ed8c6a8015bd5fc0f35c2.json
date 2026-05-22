@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:33:05.639Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b3c1479a55aec3b9cb6f75b98038de6f463378349f6ed8c6a8015bd5fc0f35c2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_012N4TcRF1b2HdpjpCQCVuHM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to live reads and sequenced impeccably along the AoA path. Turn 2 reflects the exhaustion under the laugh and asks for feeling, not story. Turn 4 declines to validate the disdain for the ex and instead pivots to the feeling under 'what's wrong with me.' Turn 6 is the key move from the expected territory — asking what happens in her body if she had what she says she wants — landing exactly when the intellectualization peaks. Turn 8 refuses the radiator-metaphor detour and redirects to 'what are you working so hard to not feel,' the feeling-the-unfelt-emotion move. Turn 10 catches the live somatic event (the mid-sentence stop) rather than the explanation that follows — a clear apply-view-to-the-voice instinct. Turn 12 is a single-sentence hold ('Stay with that huh') that demonstrates the coach trusting the moment to do the work rather than rushing in. Turn 14 again names what just crossed her face rather than interpreting it. The coach holds steady through the prickliness/intellectualizing without colluding, doesn't diagnose attachment style when she offers it, doesn't give partner-picking advice, and earns each step. Timing is consistent: feeling before story, body before insight, silence held after each move.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the exhaustion under the laugh and asks for present feeling — feeling before story, well-timed opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Acknowledges the fury without validating the disdain frame, then drops under 'what's wrong with me' to the feeling. Refuses the victim collusion.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"The expected-territory move: 'what happens in your body when you imagine having what you say you want.' Lands at exactly the moment she's performing the diagnosis.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Bypasses the radiator metaphor and redirects to 'what are you working so hard to not feel' — feeling-the-unfelt-emotion, perfectly sequenced.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the mid-sentence stop rather than the explanation that follows. Reads the live somatic shift, doesn't chase the content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Single-line hold — 'Stay with that huh.' Doesn't fill the silence, lets the move land. Excellent restraint.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Again names the live facial shift instead of interpreting; keeps her in body rather than concept.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"if-i-were-inherently-good\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"deconstruct-the-victim-to-release-anger\"],\n  \"notes\": \"The coach took a softer, body-based route rather than the more confrontational deconstruct-the-victim move, but it worked because the breakthrough condition (body response to being adored, touching the abyss) was reached cleanly by turn 15.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3612,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1181,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3612,
+    "output_tokens": 1181,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

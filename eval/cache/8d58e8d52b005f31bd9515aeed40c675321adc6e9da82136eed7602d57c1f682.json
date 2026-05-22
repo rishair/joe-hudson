@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:29:56.398Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8d58e8d52b005f31bd9515aeed40c675321adc6e9da82136eed7602d57c1f682",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RKDVNnqx6FC8mx5wADW1XP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "She's... still there, I think. Just very buried under the scheduling and the — I mean, I love my family, I want to be clear about that, it's not like I'm unhappy. It's just that there's always something. Someone needs something, or work needs something, and I'm good at giving it, I actually am, but...\n\n*quieter*\n\nI can't remember the last time I did something just because I wanted to. Not because it was good for the kids or good for the relationship or good for my career. Just... because I wanted it.\n\nAnd I know that sounds — I keep wanting to say \"I know that sounds selfish\" and I'm aware I'm doing it, I just can't quite stop."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 47,
+      "cache_creation_input_tokens": 276,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 276,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 162,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 47,
+    "output_tokens": 162,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 276
+  }
+}

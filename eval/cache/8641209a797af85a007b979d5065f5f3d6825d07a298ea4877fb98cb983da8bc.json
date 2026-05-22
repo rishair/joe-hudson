@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:30:25.279Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8641209a797af85a007b979d5065f5f3d6825d07a298ea4877fb98cb983da8bc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GhELYxpQao7jKnH9vE2q3C",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh, a little surprised*\n\nIt feels... kind of terrifying? Like I'm waiting to be told I'm wrong for it. Like there should be a reason attached to it, a justification. \"I want this because it will make me a better mother, a better partner\" — and maybe that's even true, but the fact that I automatically reach for that...\n\n*pause*\n\nIt's tight. In my chest. Like I'm bracing for something.\n\nAnd underneath that there's something else that I don't quite — it's almost like grief? Which sounds dramatic. It's a week in the mountains, not a tragedy.\n\nBut yeah. Tight. And a little sad."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 254,
+      "cache_creation_input_tokens": 180,
+      "cache_read_input_tokens": 1534,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 180,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 151,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 254,
+    "output_tokens": 151,
+    "cache_read_input_tokens": 1534,
+    "cache_creation_input_tokens": 180
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:32:11.656Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a0e0977648a05e08ef31bead1ac6a100e4070756c657941241be951ea93091d4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017JobHUzywsbEHvan15NbeB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[quiet, which feels different from her usual rhythm]*\n\n*[long pause]*\n\nI'm just... I'm noticing that I'm describing chasing the warmth and also being — kind of terrified of it? At the same time. Which doesn't make sense on the surface but it's...\n\n*[very small voice, almost like she's thinking out loud rather than performing]*\n\nIt's like I needed the distance to make the warmth safe. If it was always there I wouldn't know what to do with it.\n\n*[looks up, slightly defensive reflex]*\n\nWhich I'm sure is very interesting from a therapeutic standpoint but I don't know what to do with that information either, so.\n\n*[pause]*\n\n...what would I do with someone who was just. Consistently warm. Who just — adored me. Without me having to — \n\n*[something crosses her face, hard to name, she looks away]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 311,
+      "cache_creation_input_tokens": 504,
+      "cache_read_input_tokens": 2292,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 504,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 204,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 311,
+    "output_tokens": 204,
+    "cache_read_input_tokens": 2292,
+    "cache_creation_input_tokens": 504
+  }
+}

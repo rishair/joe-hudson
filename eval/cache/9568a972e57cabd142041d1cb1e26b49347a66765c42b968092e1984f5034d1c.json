@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:30:56.169Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9568a972e57cabd142041d1cb1e26b49347a66765c42b968092e1984f5034d1c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0142PonMbotdGADoVTRJ13db",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That laugh at your own metaphor — and then underneath it, that image of working so hard just to get a room to a livable temperature.\n\nStay with what you said for a second, before the radiator. \"Relief. I could stop working so hard.\"\n\nWhat are you working so hard to not feel?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21745,
+      "cache_creation_input_tokens": 10386,
+      "cache_read_input_tokens": 19161,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10386,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 69,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21745,
+    "output_tokens": 69,
+    "cache_read_input_tokens": 19161,
+    "cache_creation_input_tokens": 10386
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:47.289Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "dfe5edfa9b4015cbde0db11b25810b7e1fead39382260d2447aff2275a3a8704",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TKhDgCwu7atC6oiM34v92P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "No. I mean — that's not really how we operate. We're not a feelings-first culture. He knows we're under pressure, everyone knows we're under pressure. I don't need to have a... conversation about how I'm feeling about it. I need him to execute."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 48,
+      "cache_creation_input_tokens": 155,
+      "cache_read_input_tokens": 1834,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 155,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 62,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 48,
+    "output_tokens": 62,
+    "cache_read_input_tokens": 1834,
+    "cache_creation_input_tokens": 155
+  }
+}

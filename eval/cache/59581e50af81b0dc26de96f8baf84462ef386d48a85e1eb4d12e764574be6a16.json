@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:42.103Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "59581e50af81b0dc26de96f8baf84462ef386d48a85e1eb4d12e764574be6a16",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SRkEedErRXrXZwNUxjGEtM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It's like... everything just stops. My chest gets tight, and I go very still. And my thinking gets really small — like I can only see what's directly in front of me, I can't hold the bigger picture anymore. And there's this thing where I stop being able to access my own opinions. He'll ask me something and I just... blank.\n\nIt's embarrassing, honestly. Because outside of that room I'm a pretty capable person."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 197,
+      "cache_creation_input_tokens": 1884,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1884,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 98,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 98,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1884
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:08.721Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e6463b77dab5301e4117688cbe41f4f45b2996f4c7994fe1b1f02d2e303992f2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JAAXzGxPc6rv7oSJfMBUdK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with that. Something old.\n\nWhere do you feel it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13743,
+      "cache_creation_input_tokens": 6625,
+      "cache_read_input_tokens": 20471,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 13743,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 20471,
+    "cache_creation_input_tokens": 6625
+  }
+}

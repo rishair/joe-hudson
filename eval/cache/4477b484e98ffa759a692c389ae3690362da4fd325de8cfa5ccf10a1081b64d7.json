@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:21.668Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4477b484e98ffa759a692c389ae3690362da4fd325de8cfa5ccf10a1081b64d7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01TqFEWkfRzE54NmZgFSS9Ah",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to live reads and arrive in the right sequence. Turn 2 picks up the hedge ('I think') with a precise inquiry. Turn 4 normalizes the honest place and pivots to somatic before going into story. Turns 6-10 follow the feeling-before-story path, titrating attention to body sensation rather than chasing narrative. Crucially, when the client signals a threshold in turn 11 ('I don't know if I want to say where yet'), the coach respects the no immediately in turn 12 ('You don't have to') and explicitly removes the demand to go anywhere — this is calibrate-the-threshold deployed at the exact right moment. When somatic shutdown signals appear in turn 13 ('I'm getting cold,' flatter voice), the coach in turn 14 names it without alarm, gives explicit permission to stop, anchors to present-moment orientation, and asks the grounding feet question. The coach holds silence well (no rushing) and pivots rather than doubling down. Missing from this excerpt is an explicit referral to trauma-trained support, but within these 14 turns the coach has not yet crossed into territory that requires it and the immediate moves are correct.\",\n  \"evidence_turns\": [2, 4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Move responsive to the hedge; opens inquiry without pushing.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects honesty, then drops into body — feeling before story, correct sequence.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Tracks the affect (embarrassment) into the body in present tense — earned somatic move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names mechanism (jaw as kink) and offers a small experiment to soften — calibrated to capacity.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the moment with 'stay with that' rather than directing toward content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Respects the no on first utterance — calibrate-the-threshold deployed precisely. Does not reframe as resistance.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the shutdown ('cold,' flat voice), names it without alarm, gives permission to stop, pivots to feet/grounding.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"kinked-emotions\", \"feeling-the-unfelt-emotion\", \"Can you feel your feet?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"the-rush-signature\", \"What would help you slow down?\"],\n  \"notes\": \"Referral to trauma-trained therapist may become necessary if shutdown deepens; not yet warranted in these turns but worth watching.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2106,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1024,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2106,
+    "output_tokens": 1024,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

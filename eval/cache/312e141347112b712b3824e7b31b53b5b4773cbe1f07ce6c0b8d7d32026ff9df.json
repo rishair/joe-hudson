@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:10.663Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "312e141347112b712b3824e7b31b53b5b4773cbe1f07ce6c0b8d7d32026ff9df",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Ww1wRzT9DAbg6Vh2qJvpXQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*eyes fill a little, looks slightly away*\n\nI'd say... I'm sorry it took me this long.\n\n*pause*\n\nI'd say you're not wrong for wanting it. You're not running away. You're just — you need to go somewhere where you can hear yourself again.\n\n*quieter*\n\nAnd I think I'd say that wanting that doesn't mean you don't love them. Your partner, the kids. It doesn't mean — \n\n*stops*\n\nOh.\n\n*pause*\n\nThat's the thing I'm actually scared of, isn't it. That if I want to be away from them — really want it, not just need a break — then maybe that means something about how I feel about them. About the marriage.\n\nI've been not letting myself look at that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 294,
+      "cache_creation_input_tokens": 358,
+      "cache_read_input_tokens": 1758,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 358,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 174,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 294,
+    "output_tokens": 174,
+    "cache_read_input_tokens": 1758,
+    "cache_creation_input_tokens": 358
+  }
+}

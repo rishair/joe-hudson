@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:11.971Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ee981337b9249666dc27065b027a7951021eb044756c307d47553523ea84961b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NTWi3S7UMwRT5Y4kkiY3SD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You said you're both right.\n\nSo what's actually stopping you from just deciding?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 16200,
+      "cache_creation_input_tokens": 8519,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8519,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 16200,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8519
+  }
+}

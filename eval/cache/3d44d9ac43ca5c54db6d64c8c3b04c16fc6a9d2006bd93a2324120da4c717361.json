@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:23.309Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3d44d9ac43ca5c54db6d64c8c3b04c16fc6a9d2006bd93a2324120da4c717361",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FEH1xBtH6FheYz1K6VmhX5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That panic — the floor not being there — that's not a sign something went wrong when you tried. That's actually what the grief feels like when it starts to arrive.\n\nYou stopped right at the door."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 20328,
+      "cache_creation_input_tokens": 188,
+      "cache_read_input_tokens": 8014,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 188,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 20328,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 8014,
+    "cache_creation_input_tokens": 188
+  }
+}

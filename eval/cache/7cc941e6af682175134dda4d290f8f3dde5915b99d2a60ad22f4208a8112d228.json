@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:56.907Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7cc941e6af682175134dda4d290f8f3dde5915b99d2a60ad22f4208a8112d228",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HXNfcVDnqR6PdYVgn1kjay",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the AoA path for this concern. Turn 2 refuses to debate the selfish/not-selfish question and instead reaches for the want — exactly the find-the-want-behind-the-should move. When the client tries to relitigate the verdict in turn 3, the coach in turn 4 doesn't argue the case but reflects the live phrase ('I miss myself a little') and opens it. Turn 6 names the linguistic-caveat read in real time and drops to somatic ('what does it feel like in your body'), correctly sequencing feeling before story. Turn 8 holds the sadness rather than rushing to reframe — the coach earns the depth instead of skipping to the generous-want conclusion. Turn 10 catches the inherited-voice/childhood-imprinting moment and offers a gentle redirect to address the lost self. Turn 12 is a clean 'stay there' hold at exactly the moment the client surfaces the real fear, allowing the breakthrough in turn 13. The coach never issues a verdict, never jumps to compassion-for-partner, never prescribes the spiritual-want conclusion — the client arrives there herself.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the selfish/not-selfish frame and pivots to the want — textbook find-the-want-behind-the-should.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the alive phrase and opens it with a question about the lost self; doesn't argue the verdict the client tried to reassert.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the linguistic caveat the client just noticed and drops into somatic — correct sequencing (feeling before story).\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Invites client to stay with sadness without explanation — holds the feeling rather than racing to reframe.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Touches the inherited-voice/childhood-imprinting briefly without making it the whole content; opens a generative direction.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Minimal, well-timed 'stay there' — holds the moment the real fear surfaces, letting the client find the answer herself.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"The 'what if you acted exactly how you want' question wasn't strictly needed — the client arrived at the integrated want organically. Move sparseness was a strength here.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2601,
+      "cache_creation_input_tokens": 2661,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 2661,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1003,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2601,
+    "output_tokens": 1003,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 2661
+  }
+}

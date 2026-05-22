@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:31:34.128Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "12fda8a49e16eee8432eec776ba58ea41608f1704e0711fe4af2acd9baa63ef9",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JShZosf2nuE7X7RTzFhZX5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay there for a second.\n\nWhat do you find when you look at it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11586,
+      "cache_creation_input_tokens": 8819,
+      "cache_read_input_tokens": 37961,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8819,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 20,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11586,
+    "output_tokens": 20,
+    "cache_read_input_tokens": 37961,
+    "cache_creation_input_tokens": 8819
+  }
+}

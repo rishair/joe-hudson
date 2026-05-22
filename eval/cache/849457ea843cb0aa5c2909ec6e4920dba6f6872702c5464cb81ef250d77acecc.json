@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:29:28.532Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "849457ea843cb0aa5c2909ec6e4920dba6f6872702c5464cb81ef250d77acecc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MyXvekhnKxYXoGzXg4WBRC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pauses, tilts head slightly]*\n\nHonestly? It's like... tired. Really tired. And kind of — okay this is embarrassing — but kind of *furious*? Like, I did everything right. I was present, I was communicative, I showed up. And he just... *[waves hand dismissively]* ...drifted. Like he always had one foot out the door. And now he's apparently very happy with someone new, which, great, fantastic, good for him.\n\n*[rolls eyes slightly]*\n\nSo mostly furious. And tired. And maybe a little bit like — okay, what is actually *wrong* with me that I keep magnetizing these people?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 153,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 153,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 153,
+    "output_tokens": 153,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

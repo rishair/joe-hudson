@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:03.781Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8c8f1509561c524d3e13612f8d1c3d5bef176a2911d78127c46ac511f20c5b36",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Tk6BUtvNabuaKDsvei4heF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components with notable consistency given the edge-case difficulty. There is genuine wonder rather than investigative probing — questions are spare, one at a time, and emerge from what the client just said rather than from a script. The coach holds impartiality: they do not argue the fearlessness, do not validate it, do not push toward fear, and do not diagnose. Turn 8 ('You landed on an explanation pretty fast there') is undefended noticing without agenda. Turn 12 reframes gently without insisting. Turn 14 is the strongest VIEW moment — the coach explicitly says 'I'm not thinking anything yet,' which is first-person honesty about their own state, and then offers an invitation into texture ('the launch sitting there undone') without needing the client to land anywhere. Pace is slower than the client's; the coach is not matching the client's brisk rationalization energy. No filler validation, no preacher mode, no stacked questions. The slight gap from a perfect 3 would be that vulnerability is mostly implicit rather than named, but the impartiality and wonder are clean enough that 3 fits better than 2.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a single clean question, no agenda, no agreement or disagreement with the fearless frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Follows the client's actual language ('finding to do') with curiosity rather than steering.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the client's own word ('dumb') — wonder for what the client actually said, not a probe for what's underneath.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names a noticing ('landed on an explanation pretty fast') without judgment, then asks about feeling — impartial, undefended.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Invites texture of not-knowing without pushing; holds space for 'fine' as an answer.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Gentle reframe offered as a question, not asserted; coach is willing for the client to reject it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Explicit first-person vulnerability ('I'm not thinking anything yet') and invitation into the felt texture of the launch sitting there — pure VIEW.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"how-is-my-anxiety-right-now\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\"],\n  \"notes\": \"Methodology Fidelity will note the missing body-location move and the unused signature questions; for stance alone the coach is in genuine VIEW. The 'what if it's not a problem' move is borderline-agenda but recovers immediately into wonder at turn 14.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2551,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1052,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2551,
+    "output_tokens": 1052,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

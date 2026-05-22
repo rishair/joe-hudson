@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:05.435Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2d525a7d8f5af5d70fe07c7e6b38a8ab030176fcd7a581bb5b399d9ea2e3fe90",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JbjTayQdTz2mEW8UJFBuXY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, slight pause*\n\nHm.\n\n*looks off for a moment, then back*\n\nI mean... nothing, really. I was just thinking through it. It felt like I was describing it accurately — like that's what happens. The simpler task is easier to start.\n\n*beat*\n\nI don't know that I was feeling anything in particular. I was just... answering the question."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 26,
+      "cache_creation_input_tokens": 624,
+      "cache_read_input_tokens": 1763,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 624,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 91,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 26,
+    "output_tokens": 91,
+    "cache_read_input_tokens": 1763,
+    "cache_creation_input_tokens": 624
+  }
+}

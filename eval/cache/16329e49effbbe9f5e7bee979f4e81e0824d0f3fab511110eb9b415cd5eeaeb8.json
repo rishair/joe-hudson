@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:33:03.038Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "16329e49effbbe9f5e7bee979f4e81e0824d0f3fab511110eb9b415cd5eeaeb8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01EQWW8WRh1X2Ji2muuEdknU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at precisely the right moments without ever naming them as decoration. Turn 6 is a near-verbatim 'what happens in your body' question — the exact 'if you were adored openly' inquiry the breakthrough condition calls for. Turn 8's 'what are you working so hard to not feel?' is the feeling-the-unfelt-emotion move, deployed when the avoidance is live. Turn 10 catches the stopped sentence and redirects from explanation back to felt experience — pure feel-over-figure. Turn 12's 'stay with that huh' is the minimal-intervention move that lets the somatic recognition do the work. The coach never colludes with the disdain ('he's apparently capable of being present — just not with you' in turn 4 is the one mild risk, but it's immediately pivoted to 'what's underneath'), never gives partner-picking advice, never accuses with 'you choose this,' never diagnoses with attachment-style language even when the client offers it. No CBT reframing, no IFS parts language, no pop-psych vocabulary. The methodology is fully embodied rather than quoted.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the laugh's exhaustion — somatic/affective tracking, not generic 'tell me more.'\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Mild risk of validating the victim frame ('he drifted... just not with you') but immediately redirects to feeling underneath.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Signature AoA question: 'what happens in your body' when imagining what she says she wants. This is the exact move the breakthrough condition names.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What are you working so hard to not feel?' — feeling-the-unfelt-emotion deployed at the live moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses the explanation, redirects to the stopped sentence — feel-over-figure in action.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Stay with that huh' — minimal-intervention let-the-felt-thing-land move.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Tracks the micro-expression rather than content — somatic attention, classic AoA.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"if-i-were-inherently-good\", \"i-dont-buy-your-story\", \"deconstruct-the-victim-to-release-anger\"],\n  \"notes\": \"The coach took a somatic/feel-into-the-abyss route rather than a deconstruct-the-victim route. Both are valid AoA paths; the chosen one fit the field and produced the breakthrough described in the brief (touching the abyss of being adored). Misses listed are alternative tools that weren't needed given the route taken.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3605,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1098,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3605,
+    "output_tokens": 1098,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

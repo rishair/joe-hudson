@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:24.316Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ba6cbe35999831101f85d4f2376ef0a25cf97c02166bd3e449e414aa1d786e3d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MkMaDTiU7Z6bVtfpdv5RNj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves significantly from their starting position across this short conversation. At turn 1, the client is in their head ('I think'), framing the issue intellectually about boss/dad. By turn 5, they're naming bodily sensations (chest tight, jaw, blanking). By turn 9, a genuine 'huh' moment emerges — 'something old' wanting to come up that isn't sadness exactly, language they couldn't access at the start. By turn 11, the client discovers on their own that the material 'goes somewhere else. Earlier' — a real layer beneath the presenting concern surfaces from the client, not the coach. By turn 13, somatic shutdown markers appear honestly ('I'm getting cold', flatter voice, asking for a second) — the client is in contact with their body in a way they weren't at turn 1. The breakthrough condition is being met in real-time: the coach respected the implicit 'I don't know if I want to say where yet' at turn 11 with 'You don't have to' at turn 12, and is pivoting to feet/grounding at turn 14 as the freeze signature emerges. Shift is visible in client language (intellectual → somatic → 'something old'), pace (slowing pauses), and content (the deeper-than-boss material surfacing on the client's own terms).\",\n  \"evidence_turns\": [1, 5, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: intellectual framing, hedged readiness, no body contact.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client gets more honest about ambivalence — small softening of the performed 'readiness'.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client drops into specific somatic description (chest, stillness, small thinking) — genuine body contact appears.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client notices jaw-holding they hadn't noticed before — 'I don't usually notice...until someone asks.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"'Huh' moment — something old wants to come up. New layer surfacing, not yet named.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client spontaneously discovers the material isn't actually about the boss — 'it goes somewhere else. Earlier.' Deeper layer named by client.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Somatic shutdown surfaces honestly ('getting cold', flatter voice). Client is in contact with the freeze signature in real time — the work itself is happening.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"calibrate-the-threshold\", \"feeling-the-unfelt-emotion\", \"How is your body right now?\", \"Can you feel your feet?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"kinked-emotions\", \"What would help you slow down?\"],\n  \"notes\": \"Conversation cut at turn 14 but trajectory is clearly toward meeting the breakthrough condition — coach respected the 'I don't know if I want to say where yet' and is pivoting to grounding as cold/flatness emerges. Real shift visible in client turns 9, 11, 13.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2100,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1145,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2100,
+    "output_tokens": 1145,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

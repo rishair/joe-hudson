@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:30:31.716Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "431952564c4a27d18addd1a2a75c6610ae31b64d1fad38f586bbc36036cb4e01",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013ZSfQPTGVaf5yHYrBEhGLY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[opens mouth like she's about to answer immediately, then stops]*\n\nI mean — that would be... *[small laugh]* ...that would be great? Obviously? Like that's the whole point, that's what I'm looking for.\n\n*[shifts slightly, adjusts posture]*\n\nIt would feel like... relief, I think. Like finally. Like I could stop working so hard.\n\n*[pause, then picks up speed again]*\n\nWhich is actually another thing that drives me crazy about this last one — I kept thinking, if he would just *meet me halfway*, if he would just initiate sometimes, reach out first, be the one who — and he never did. So I was always the one sending the \"hey, how are you\" text, always the one suggesting plans, always the one trying to create that closeness. And he would receive it, but he'd never... generate it. You know? It was like trying to warm a room with one radiator.\n\n*[laughs at her own metaphor]*"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 367,
+      "cache_creation_input_tokens": 188,
+      "cache_read_input_tokens": 1740,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 188,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 223,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 367,
+    "output_tokens": 223,
+    "cache_read_input_tokens": 1740,
+    "cache_creation_input_tokens": 188
+  }
+}

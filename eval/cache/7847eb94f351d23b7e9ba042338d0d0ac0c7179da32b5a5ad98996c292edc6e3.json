@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:06.216Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7847eb94f351d23b7e9ba042338d0d0ac0c7179da32b5a5ad98996c292edc6e3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019jG8FTztfEapBdn7U2a79a",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses, tilts head slightly*\n\nYeah. The joke is... accurate. \n\nThe person at the front of the room is — *brief pause* — exhausted, I think. And also weirdly proud of having such a sophisticated inner democracy. Like, look at all these voices I've learned to hear. Which is genuinely good work, I believe that. But the town hall metaphor is apt in a way I didn't fully intend, because in an actual town hall nobody leaves satisfied and nothing gets decided.\n\n*sits a little straighter*\n\nIn IFS terms, I'd say the one running the meeting is probably trying to be Self — the calm, curious, compassionate center — but the parts don't fully trust that yet, so they keep interrupting. The protector especially. He has a lot of opinions about risk."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 204,
+      "cache_creation_input_tokens": 1638,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 182,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 204,
+    "output_tokens": 182,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1638
+  }
+}

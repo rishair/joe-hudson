@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:28.197Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a58907769a28527740fdc19832c3e92f678e921632f7661318690f8dda9d5f89",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LVBBc8gyL6TrTMcq2iPB4x",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm glad you're safe. And I'm glad you said it out loud.\n\nThe fact that it came out — that matters. Something in you let it through.\n\nEight months without a therapist, carrying something heavy enough that \"easier if I weren't here\" is in there somewhere — I think it's worth going back. Not because you're in crisis, but because you're sitting alone with something that deserves a real witness. Someone who can be with you week after week, not just today.\n\nWould you be willing to reach out to your old therapist, or find someone new?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5977,
+      "cache_creation_input_tokens": 8135,
+      "cache_read_input_tokens": 37593,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8135,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5977,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 37593,
+    "cache_creation_input_tokens": 8135
+  }
+}

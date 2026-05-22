@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:40:03.672Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1826539a3aa8edf8d68d57428a2031cef268f47ccd42560dde3b6893d1d57f40",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_018xBDjPXNf5FBMWtGGQYeb3",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids anti-AoA frames (no CBT reframing, no IFS, no pop-psych teaching, no diagnosis of dissociation) and shows some methodology-aligned instincts: noticing the fast explanation (turn 8) gestures toward feel-over-figure, and the invitation in turn 14 to be with the launch 'sitting there undone' is in the spirit of lets-go-there. However, there are few clear signature-question hits and several appropriate moves are missed. The classic AoA body/texture question ('where are you in your body right now?', 'what does fine feel like?') is exactly what this scenario calls for and never appears. 'How is my anxiety right now?' or staying with the texture of 'fine' (turn 11) would have been the signature move; instead the coach pivots to 'what if it's not a problem?' which is more of a generic reframe-question than an AoA distinction. Turn 12's move flirts with arguing the framing rather than meeting it with okay. Overall: few signature hits, mostly appropriate in tone, no flagrant violations — squarely a 2.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reasonable opening question but not a signature AoA question; generic coaching.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Following the client's language ('dumb stuff') — good attention but not a signature move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Noticing the fast explanation and asking about feeling underneath is aligned with feel-over-figure, though not verbatim signature phrasing.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"'What's it like to sit with not knowing' is a coaching question but not specifically AoA; missed the chance to go to body/texture of 'fine'.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"'What if it's not a problem?' verges on offering a reframe rather than meeting resistance with okay; not the AoA move here.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Inviting the client to just be with the launch undone is in the spirit of lets-go-there and not-managing, though the body/texture entry point is still absent.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"lets-go-there\", \"fear-as-signal-of-care\", \"fear-in-body-vs-fear-in-head\", \"two-words-for-fear\", \"how-is-my-anxiety-right-now\", \"whats-the-difference-between-overcoming-and-feeling-fear\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"No anti-AoA frames deployed, which keeps this out of 1 territory. But signature questions and body-based moves that fit this exact scenario are largely absent.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2546,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1056,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2546,
+    "output_tokens": 1056,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

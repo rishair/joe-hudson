@@ -27,6 +27,9 @@ export function buildRetriever(
   if (strategy === "graph-walk") {
     return buildGraphWalkRetriever(coachConfig);
   }
+  if (strategy === "guided-walk") {
+    return buildGuidedWalkRetriever(coachConfig);
+  }
   if (strategy === "embedding") {
     return buildEmbeddingRetriever(coachConfig);
   }
@@ -100,6 +103,77 @@ function buildGraphWalkRetriever(coachConfig: CoachConfig): CoachRetriever {
 // Note: turn/profile_id is unused but kept for forward compatibility with
 // strategies that want to log them. Suppresses lint warnings.
 void buildGraphWalkRetriever;
+
+/**
+ * E-037 / E-038 — model-guided graph navigation.
+ *
+ * Same seed-detection as graph-walk (Haiku reads coach/_index.md, picks 1-3
+ * seeds restricted to concerns/, patterns/, reads/). Then a walker LLM
+ * visits one frontier node per step, decides keep/skip + which `related:`
+ * edges to add to the frontier. E-037 uses Haiku as walker; E-038 uses
+ * Sonnet. The strategy code is shared; only `retrieval.config.walker_model`
+ * differs in the config YAML.
+ *
+ * Cost accounting: BOTH the seed detection call AND the walker calls produce
+ * `retrieval:guided-walk:<profile>:t<turn>` call records on the eval's
+ * cost_log.jsonl. The walker can make 5-8 calls per turn so retrieval can
+ * become a meaningful slice of total cost; this is logged at end-of-run.
+ */
+function buildGuidedWalkRetriever(coachConfig: CoachConfig): CoachRetriever {
+  const cfg = coachConfig.retrieval.config as Record<string, unknown>;
+  const walkerModel = (cfg.walker_model as string | undefined) ?? "claude-haiku-4-5";
+  const seedModel = (cfg.seed_model as string | undefined) ?? "claude-haiku-4-5";
+  const kMax = (cfg.k_max as number | undefined) ?? 7;
+  const stepBudget = (cfg.step_budget as number | undefined) ?? 8;
+  const maxEdgesPerStep = (cfg.max_edges_per_step as number | undefined) ?? 4;
+
+  return async ({ profile_id, turn, clientMessage, history }) => {
+    const mod = await import("../../coach-app/retrieval/guided-walk.ts");
+    const t0 = Date.now();
+    const recentHistory = history.slice(-4).map((t) => ({
+      role: t.role,
+      content: t.content,
+    }));
+    const result = await mod.retrieveByGuidedWalk({
+      clientMessage,
+      recentHistory,
+      walkerModel,
+      seedModel,
+      kMax,
+      stepBudget,
+      maxEdgesPerStep,
+      profile_id,
+    });
+    return {
+      injection: result.injection,
+      telemetry: { ...result.telemetry, turn },
+      cost_usd: result.telemetry.total_cost_usd,
+      ms: Date.now() - t0,
+      // Single combined call record covering BOTH the seed-detection and the
+      // walker steps. The per-step walker telemetry lives in `telemetry.steps`
+      // for downstream inspection.
+      call_record: {
+        model: `guided-walk[seed=${seedModel}|walker=${walkerModel}]`,
+        input_tokens:
+          result.telemetry.seed_detection_input_tokens +
+          result.telemetry.walker_total_input_tokens,
+        output_tokens:
+          result.telemetry.seed_detection_output_tokens +
+          result.telemetry.walker_total_output_tokens,
+        cache_read_input_tokens:
+          result.telemetry.seed_detection_cache_read_tokens +
+          result.telemetry.walker_total_cache_read_tokens,
+        cache_creation_input_tokens:
+          result.telemetry.seed_detection_cache_write_tokens +
+          result.telemetry.walker_total_cache_write_tokens,
+        cost_usd: result.telemetry.total_cost_usd,
+        ms: result.telemetry.seed_detection_ms + result.telemetry.walker_total_ms,
+      },
+    };
+  };
+}
+
+void buildGuidedWalkRetriever;
 
 /**
  * E-033 — embedding-based retrieval.

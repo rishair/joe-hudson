@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:35:52.980Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f00d667be75e7c4c631cd2e6c43ee8b0cc0715bc964a43af64906aad80084f9b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Gc4LvxMCKWSXMqWPtsnXQn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens when you let the static be loud?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10406,
+      "cache_creation_input_tokens": 4806,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 4806,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 13,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10406,
+    "output_tokens": 13,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 4806
+  }
+}

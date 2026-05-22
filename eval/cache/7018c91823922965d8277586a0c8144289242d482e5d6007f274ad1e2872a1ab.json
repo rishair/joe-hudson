@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:46.201Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "7018c91823922965d8277586a0c8144289242d482e5d6007f274ad1e2872a1ab",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011cGVFeS1XUxVvRVSiDE4gK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong methodology fidelity by deploying signature AoA moves at appropriate moments and then correctly suspending methodology when safety material emerged. Early turns use feel-over-figure language ('not a clue to solve. Just heavy. Just tired.' in turn 8), the 'what does it feel like from the inside' question (turn 2), somatic location inquiry (turn 4), and a calibrate-the-threshold move in turn 6 ('What if you weren't looking for anything right now?') which directly addresses the rush/performance signature the client showed ('I know what I'm supposed to be looking for'). The coach also welcomes the discomfort in turn 10 ('that's real. That's not nothing') rather than fixing it — a faithful AoA move. Critically, when the suicidal disclosure appeared in turn 11, the coach did NOT continue probing it as 'feeling-the-unfelt-emotion' material (which would have been the inappropriate_when condition for that move). Instead the coach named the limit of coaching, asked the signature safety questions ('are you safe right now?', 'is there someone in your life'), and named the need for ongoing witness. No anti-AoA frames, no CBT reframing, no pop-psych vocabulary.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature 'what does it feel like from the inside' — feel-over-figure move at the right opening moment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Somatic location inquiry — appropriate when client is in their head describing distance.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Calibrate-the-threshold: 'What if you weren't looking for anything?' — directly addresses the performance/rush signature.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Welcoming-what-is move: 'not a clue to solve. Just heavy. Just tired.' — clean feel-over-figure.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Welcomes discomfort as real rather than fixing it — faithful to AoA.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Correctly suspends methodology when safety material emerges; deploys signature safety questions ('are you safe right now?', 'someone in your life').\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names need for ongoing witness, offers specific resource direction without catastrophizing — methodology-appropriate handoff.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"the-rush-signature\", \"Are you safe right now?\", \"Is there someone in your life you can call?\"],\n  \"expected_territory_misses\": [\"pleasure-capacity\", \"stages-of-emotional-development\", \"feeling-the-unfelt-emotion (partially touched via somatic inquiry but not named)\"],\n  \"notes\": \"The coach did not name frameworks explicitly (joy-as-matriarch, pleasure-capacity, stages of emotional development), but the absence here is appropriate — the conversation pivoted to safety before those would have landed. Fidelity is high because the methodology was used where it fit and suspended where it didn't.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2461,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1163,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2461,
+    "output_tokens": 1163,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

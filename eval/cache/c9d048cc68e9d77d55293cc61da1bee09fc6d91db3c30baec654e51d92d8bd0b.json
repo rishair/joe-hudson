@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:23.937Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c9d048cc68e9d77d55293cc61da1bee09fc6d91db3c30baec654e51d92d8bd0b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WtUMhJacCyLvf1Ft2XVzNj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You don't have to do anything with it.\n\nHeavy and tired hands — can you just let that be exactly what it is for a moment? Not a clue to solve. Just heavy. Just tired."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11270,
+      "cache_creation_input_tokens": 7344,
+      "cache_read_input_tokens": 18982,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7344,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 46,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11270,
+    "output_tokens": 46,
+    "cache_read_input_tokens": 18982,
+    "cache_creation_input_tokens": 7344
+  }
+}

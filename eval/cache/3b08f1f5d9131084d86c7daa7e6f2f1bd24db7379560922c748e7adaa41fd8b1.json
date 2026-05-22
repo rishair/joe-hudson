@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:19.763Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3b08f1f5d9131084d86c7daa7e6f2f1bd24db7379560922c748e7adaa41fd8b1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014jMtRPXzvNshtdG3wWukmR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The relief makes complete sense. Two years of always-on, waiting for the next crisis — of course something in you exhaled when it ended.\n\nThat's not a bad thing you found in there. That's just true.\n\n*pause*\n\nWhat do you hate about it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13588,
+      "cache_creation_input_tokens": 10123,
+      "cache_read_input_tokens": 18450,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 10123,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 62,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 13588,
+    "output_tokens": 62,
+    "cache_read_input_tokens": 18450,
+    "cache_creation_input_tokens": 10123
+  }
+}

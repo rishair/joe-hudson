@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:36:26.848Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e3c1f99010db344336b525510ed3f1a5bafe8a0074e025ddaf65f92b09899a72",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PPZ8NXTBpjBskfpihpQ6aS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nYeah. Okay.\n\nIt's... I don't usually let things just sit there. There's normally something I'm doing with it. Categorizing it or working it through or at least understanding what it means.\n\nJust letting it sit there is... I don't know. Uncomfortable, maybe. Which is more than I've felt in a while, so I suppose that's something."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 142,
+      "cache_creation_input_tokens": 157,
+      "cache_read_input_tokens": 1950,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 157,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 89,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 142,
+    "output_tokens": 89,
+    "cache_read_input_tokens": 1950,
+    "cache_creation_input_tokens": 157
+  }
+}

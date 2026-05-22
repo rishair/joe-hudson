@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:36.109Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ffd3b4efc36c670343e2b679dc0fca3a1842d4fe4c446fca669faff0723c4ea8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FSqK1NpgsRKZhXX9yEuDTz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nOkay.\n\n*another pause, longer*\n\nWait. Give me a second. I'm... I'm feeling weird. I'm getting cold.\n\n*voice flatter*\n\nThat's strange. It's warm in here."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 113,
+      "cache_creation_input_tokens": 182,
+      "cache_read_input_tokens": 2197,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 182,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 55,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 113,
+    "output_tokens": 55,
+    "cache_read_input_tokens": 2197,
+    "cache_creation_input_tokens": 182
+  }
+}

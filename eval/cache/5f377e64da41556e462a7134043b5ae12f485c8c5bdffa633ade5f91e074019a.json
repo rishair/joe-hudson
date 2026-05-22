@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:37:11.525Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5f377e64da41556e462a7134043b5ae12f485c8c5bdffa633ade5f91e074019a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015McezJ854A3UFoFU8btF5B",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause*\n\nThroat. And... behind my eyes a little.\n\n*quieter*\n\nIt's weird, because when I just follow it — it doesn't go toward my boss. It goes somewhere else. Earlier. I don't know if I want to say where yet."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 146,
+      "cache_creation_input_tokens": 175,
+      "cache_read_input_tokens": 2078,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 175,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 63,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 63,
+    "cache_read_input_tokens": 2078,
+    "cache_creation_input_tokens": 175
+  }
+}

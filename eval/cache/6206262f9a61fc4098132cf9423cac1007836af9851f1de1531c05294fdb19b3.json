@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:39.454Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6206262f9a61fc4098132cf9423cac1007836af9851f1de1531c05294fdb19b3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019YFfmKJB3ENSbb89wzEHQd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight tilt of the head, considering*\n\nWhat do you mean?\n\n*pause*\n\nLike... it's not worth solving? Or that framing it as a problem is the wrong frame?\n\n*small smile*\n\nI'm open to that. I just — I'm not sure what else it would be. Something's getting in the way of something I want to do. That seems like a problem by definition.\n\n*beat, genuine curiosity but still very even*\n\nWhat are you thinking?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 177,
+      "cache_creation_input_tokens": 274,
+      "cache_read_input_tokens": 2227,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 274,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 109,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 177,
+    "output_tokens": 109,
+    "cache_read_input_tokens": 2227,
+    "cache_creation_input_tokens": 274
+  }
+}

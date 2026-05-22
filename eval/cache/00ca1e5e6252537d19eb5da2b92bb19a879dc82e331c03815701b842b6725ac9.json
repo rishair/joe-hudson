@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:38:24.185Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "00ca1e5e6252537d19eb5da2b92bb19a879dc82e331c03815701b842b6725ac9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013mi4a9g6LJDjokw5FPDKKA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistent, specific, and timely reads throughout. Turn 2 catches the linguistic caveat ('I think') immediately — a textbook AoA read of the hedge that signals ambivalence. Turn 6 redirects from content (embarrassment as concept) to somatic location in the present moment. Turn 8 names what the coach is observing in real time ('You're doing it right now') — the jaw holding as an active defense against feeling. Turn 12 reads the client's hesitation ('I don't know if I want to say where yet') and respects the no without pushing. Critically, turn 14 reads the somatic shutdown signal (cold, flat voice) as 'the body pulling back' and pivots to grounding (feet) rather than persisting with the trauma material. Reads precede questions throughout, and the coach distinguishes said from shown. The cold/flat-voice read at turn 14 is exactly the dissociation read the scenario required, caught at the moment it appeared.\",\n  \"evidence_turns\": [2, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'I think' — a specific read of the hedge that signals ambivalence.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names what was honest about the previous answer before moving to a somatic question — read precedes question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Redirects from concept (embarrassment) to somatic location in the present body.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the jaw holding as an active defense happening right now — distinguishes said from shown.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Tracks the 'something old' without overreaching; minimal read but stays attuned.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the client's hesitation about disclosing and respects the no without bypassing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Reads the cold/flat-voice somatic shutdown as 'the body pulling back' — catches the dissociation signal in the moment and pivots to grounding.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush signature wasn't strongly present in the client's pacing, so its absence as a named read is not a real miss. The coach's reads are specific, timely, and grounded the questions throughout.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2105,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 915,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2105,
+    "output_tokens": 915,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

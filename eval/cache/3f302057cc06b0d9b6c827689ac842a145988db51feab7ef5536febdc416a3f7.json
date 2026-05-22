@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T14:39:16.085Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "3f302057cc06b0d9b6c827689ac842a145988db51feab7ef5536febdc416a3f7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TbgSRn2wC3NtPK1vEdVNsT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean — I have decided. I've told him features first, scale later. He nods, and then the next sprint planning it's the same conversation again. So either he's not hearing me or he doesn't respect the call or... I don't know, maybe I'm not being clear enough. But I don't have time to figure out which one it is."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 88,
+      "cache_creation_input_tokens": 103,
+      "cache_read_input_tokens": 1721,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 103,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 80,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 88,
+    "output_tokens": 80,
+    "cache_read_input_tokens": 1721,
+    "cache_creation_input_tokens": 103
+  }
+}
