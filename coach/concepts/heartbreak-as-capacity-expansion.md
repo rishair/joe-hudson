@@ -5,7 +5,7 @@ title: "Heartbreak as Capacity Expansion"
 aliases: ["heartbreak expands capacity", "heart breaks open", "every heartbreak increases love", "let your heart break", "break open not break down", "expansion through heartbreak", "you never told me it could feel so good", "the heartbreak feels so good moment", "heartbreak is breaking open", "the contractions-are-expansions metaphor", "men slower to recover from heartbreak than women", "the gender pattern of heartbreak processing", "be heartbroken from time to time", "you get to be heartbroken increasing your capacity to love", "heartbreak is what love produces", "heartbreak as the trade for being in love"]
 tags: ["heartbreak", "love", "capacity", "intensity", "purification"]
 related: ["love-as-deep-welcoming", "letting-judgment-in", "feeling-the-unfelt-emotion", "embrace-intensity", "defense", "vulnerability", "love-misconceptions-inherited-from-childhood", "conditional-clauses-of-heart-closure", "take-contrary-action", "you-dont-control-love", "what-were-avoiding-is-usually-love", "be-intimate-with-the-feeling"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Love Over Defense", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-04-28_How Love Gets Confused", "2023-06-09_Marriage, Love, and Death", "2024-03-18_I Am Scared Of The Unknown"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Love Over Defense", "2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-04-28_How Love Gets Confused", "2023-06-09_Marriage, Love, and Death", "2024-03-18_I Am Scared Of The Unknown", "2024-04-22_How Do I Live Up To My Potential？"]
 ---
 
 # Heartbreak as Capacity Expansion
@@ -158,6 +158,20 @@ The application is most useful at moments of deepening commitment (weddings, ann
 
 The link to [[visualizing-feared-outcomes]] is direct: the practice of feeling the loss in advance, fully, is what produces the pre-heartbreak. The pre-heartbreak is what produces the expansion. The expansion is what makes the present love more present, not less. The defended heart cannot drop into the love. The pre-broken heart can.
 
+## Heartbreak Surfaces the Moment Fear Stops Being Run From
+
+A common live moment in a coaching session: the person has been describing fear. The fear gets named directly. The person is invited to feel it in their body. Within seconds, the fear is replaced by sadness or heartbreak on the face. The heartbreak was there the whole time, underneath. The fear was the agent protecting against it.
+
+The coaching move at this moment is to name what happened — "all this fear to stop the heartbreak" — and invite the heartbreak as a welcome guest, not a problem to fix.
+
+"What is it like to just invite that heartbreak? It's such a wonderful thing." -- Joe Hudson, How Do I Live Up To My Potential?
+
+The coachee in that session, who had been describing the fear of not living up to her potential, immediately said: "It's not a wonderful thing. It's a very uncomfortable feeling." Joe's response was to interrupt the conflation between the heartbreak and the resistance to the heartbreak. He had her feel the heartbreak, then resist it, then not resist it. The not-resisting was reported as a felt sense of being able to breathe again, even though it was still uncomfortable.
+
+This is the live miniature of the entire teaching: the heartbreak is not the problem. The resistance to the heartbreak is the problem. Once the resistance softens, the heartbreak does its expansion work and clarity arrives on the other side. See [[compare-resisting-vs-not-resisting-the-feeling]] for the move that installs this distinction in a single session, and [[clarity-comes-online-after-facing-fear]] for the predictable arrival of clarity once the heartbreak is allowed.
+
+The structural lesson for an AI coach: when fear is being run from, heartbreak is usually what is actually being protected against. The path through is to invite the heartbreak rather than to keep working on the fear.
+
 ## When Someone Experiences This
 
 When a person describes a hard situation and notices their heart aching: that is the heartbreak. The work is to allow it.
@@ -206,3 +220,4 @@ See [[you-dont-control-love]] for the principle that frames what is and is not w
 - 2023-04-28_How Love Gets Confused (heartbreak as the path out of the trapped feeling in a relationship; the 80/20 estimate on partner-meets vs. relationship-ends; the gender pattern of recovery time; the contractions-are-expansions framing as the explicit reason heartbreak is breaking-open not breaking-apart; heartbreak as the deeper emotion underneath the fear of saying the hard thing)
 - 2023-06-09_Marriage, Love, and Death (the pre-heartbreak-in-a-living-relationship application: feeling the eventual loss now, with the partner present, producing the same expansion as retrospective heartbreak; the wedding-eve coaching arc from fear of loss to sadness to wanting-to-pour-self-out to vows as the expansion in real time)
 - 2024-03-18_I Am Scared Of The Unknown ("You just get to be heartbroken from time to time, increasing your capacity to love" — the explicit framing of heartbreak as the un-negotiable trade that comes with intimate contact with love; the "get to" rather than "have to" phrasing that situates heartbreak as part of the privilege rather than part of the cost)
+- 2024-04-22_How Do I Live Up To My Potential? (heartbreak surfacing the moment fear is named and felt in the body; "all this fear to stop the heartbreak" as the structural read; the live invitation to feel heartbreak and run the resist-vs-not-resist comparison as the route through)

@@ -4,8 +4,8 @@ id: loving-all-parts
 title: "Loving All Parts"
 aliases: ["loving all aspects of self", "learning to love every part", "loving the dark parts", "love her keep her", "loving the version of you that carried the pattern", "loving who you were"]
 tags: ["self-love", "parts", "integration", "core principle"]
-related: ["grief-as-gateway-to-self-love", "container-of-love", "late-stage-reversion", "love-as-deep-welcoming", "love-is-the-best-change-agent", "boundary-with-vs-boundary-against", "honor-the-patterns-intent", "integration", "reclaiming-abandonment", "stacy-father-conversation"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-04-09_Love over Defense — Master Class Series #9", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
+related: ["grief-as-gateway-to-self-love", "container-of-love", "late-stage-reversion", "love-as-deep-welcoming", "love-is-the-best-change-agent", "boundary-with-vs-boundary-against", "honor-the-patterns-intent", "integration", "reclaiming-abandonment", "stacy-father-conversation", "love-the-aspect-through-someone-else", "self-forgiveness-as-spoken-move", "five-triggers-projection-experiment"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2021-04-09_Love over Defense — Master Class Series #9", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2024-04-15_Am I A Fake？", "2024-04-29_Triggered By Others？ Watch This"]
 ---
 
 # Loving All Parts
@@ -64,11 +64,42 @@ Loving and keeping her is what makes the integration complete. The pattern can d
 
 This pairs with [[grief-as-gateway-to-self-love]]. The grief is for what was endured. The love is for the one who endured. Both arrive together.
 
+## Universalize the Trait
+
+A specific reframe move available when loving a particular trait in yourself is stuck: universalize the trait. The trait you cannot love in yourself is shared by most humans. Many of those humans are people you love. The trait, looked at this way, is not your particular defect — it is part of being human.
+
+"Whatever it is that you're judging yourself for, say it's dishonesty. We've all been dishonest. Let's say that one of the things you judge yourself for is being a perfectionist. We all have some aspect that's a perfectionist in us. Let's say something that you're judging yourself for is, um, being a know-it-all. There's some part of us that all thinks we know something that we don't know. That's just the reality of things." -- Joe Hudson, Triggered By Others? Watch This
+
+The universalization is not minimization. It does not say "your dishonesty is fine because everyone does it." It says "your dishonesty is part of the human condition, which means it is the same kind of thing that exists in the people you love, which means it is in principle lovable." The universalization makes the trait re-includable.
+
+This is the structural form of two hacks Joe offers: [[love-the-aspect-through-someone-else]] (find someone you love with this trait, channel that love back) and the cunningness reframe ("can you imagine a 5-year-old girl who is cunning?"). Both work by universalizing the trait so the impossible-to-love version becomes the perfectly-lovable version.
+
 ## Loving Without Trying to Change
 
 A specific instruction that prevents the most common failure mode: do not love the part in order to change it. See [[love-is-the-best-change-agent]] for the mechanism, and the anti-pattern [[loving-to-transform]] for what happens when this is violated.
 
 Loving a part is the welcoming of the part as it is. If the loving has the intent of dissolving the part, it is not loving. The part senses the intent, defends against it, and remains.
+
+## The Part the Body Refuses to Look At
+
+In live coaching, the part that needs loving is usually the part the body refuses to look at. The work is not to find the part by introspection — the work is to invite a body scan ([[scan-body-for-what-cant-be-loved]]) or a welcoming statement ([[have-them-say-i-want-all-of-me-loved]]) and watch for the retreat. The body retreats from the specific part it has been protecting from love. See [[the-pulled-back-from-part-is-the-unloveable-part]].
+
+A short example: a woman in the *Am I A Fake?* session presented as worried that her love was corrupt. Joe had her say "I want all of me loved" and scan her body. Within seconds the body retreated. She named what she retreated from: "I can be very cunning, and I did not love that part."
+
+The "cunning" was the part the body was hiding from love. Joe's response refused both the moralization and the bypass:
+
+"Can you imagine a 5-year-old girl who is cunning? I don't know any. I don't know any teenage girl that isn't cunning. I have two of them right now. I love my girls' cunningness. I love it. They're just like figuring out how to get what they want from the world, and they have this will, and they — yeah, it's lovely." — Joe Hudson, *Am I A Fake?*
+
+Two moves embedded in that reframe:
+
+1. **Universalize the part.** Every 5-year-old is cunning. Every teenager is cunning. The cunningness is not a personal defect — it is the will of a developing human.
+2. **Love it specifically and concretely.** Joe loves his own daughters' cunningness. Not in the abstract, not as a principle. Specifically. The example carries the loving.
+
+The reframe is what makes the loving available. The part the body refused to look at is now describable, normal, even lovely. The body has somewhere to go with it.
+
+This is the same move Stacy Brown-Philpot made with "love her, keep her" — but applied in the moment to a part the body has just refused, rather than retrospectively to a younger self. The mechanism is the same. The timing is faster.
+
+See [[wanting-got-wired-to-unlovability]] for why the part the body refuses is so often connected to wanting, and why the reframe to "5-year-old version of the part" is so effective at unwiring it.
 
 ## Upstream (What Leads Here)
 
@@ -88,3 +119,5 @@ Loving a part is the welcoming of the part as it is. If the loving has the inten
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
+- 2024-04-15_Am I A Fake？ (the cunning-reframe example; loving the part the body refused to look at by universalizing it as the will of a 5-year-old)
+- 2024-04-29_Triggered By Others？ Watch This (the universalize-the-trait move — we've all been dishonest, we all have some perfectionist in us, we all think we know things we don't — as the structural step that makes loving the trait possible)

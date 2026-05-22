@@ -5,7 +5,7 @@ title: "Fear vs. Excitement"
 aliases: ["fear is excitement without the breath", "excitement is the other side of fear", "fear and excitement are the same energy", "constriction vs expansion", "constricting fear vs expansive excitement"]
 tags: ["fear", "excitement", "breath", "vulnerability", "emotions", "somatic"]
 related: ["vulnerability", "embrace-intensity", "fear-is-about-feeling", "resistance", "kinked-emotions", "fear-as-signal-of-care", "dont-step-on-the-signal", "anxiety-as-unarticulated-need", "two-words-for-fear", "grounded-excitement-vs-ungrounded-excitement", "safety-that-connects-vs-disconnects-from-reality"]
-sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-11-11_But... Is It Safe?"]
+sources: ["2021-02-13_Connection over Perfection — Master Class Series #3", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-11-11_But... Is It Safe?", "2024-04-18_Imposter Syndrome — Are You Actually An Imposter？"]
 ---
 
 # Fear vs. Excitement
@@ -62,6 +62,8 @@ Ant Taylor describes a colleague's use of this:
 "He has a hack where he tries to think about anxiety as excitement. Just that, just that slight mental model shift for him is a real shift in like the resonance of what he's dealing with." -- Ant Taylor, recounting Lawrence Pereira, Embracing Emotions
 
 There is a research-supported version that adds an action: physically jumping up and down while saying "I'm excited" can shift the experience from anxiety to excitement. The body's activated state is the same; the labeling changes what the system does with it.
+
+The structured practice version of this is [[say-im-excited-ten-times]]: when the fear-of-a-bigger-room arrives (imposter syndrome being the most common case), say "I'm excited" out loud ten times. Ten repetitions, out loud, because the breath-on-the-words is part of the mechanism. Joe teaches this as the in-the-moment intervention for imposter syndrome -- the imposter feeling is the bigger-room fear, which is excitement without the breath.
 
 This hack is a lighter touch than the somatic distinction above. The somatic version (feel which one is actually present) is more accurate. The hack is faster. They are not in opposition. The hack is useful for moments where the energy is going to come through one way or the other and a quick reframe makes the difference. The somatic version is necessary when the energy is carrying real information about misalignment that the hack would suppress.
 
@@ -134,3 +136,4 @@ The fear-excitement pair is the most accessible example because the breath diffe
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2024-04-18_Imposter Syndrome -- Are You Actually An Imposter?

@@ -82,6 +82,10 @@ The first is a target that cannot be reached and produces frustration. The secon
 
 This also reorients the practice. The practice is not to make the thought go away. The practice is to find spaciousness around the thought when it arises. See [[spaciousness-is-the-mechanism-of-belief-dissolution]].
 
+## Why Head-Layer Work Alone Doesn't Finish It
+
+A specific reason why beliefs do not fully release when worked on only at the thought-layer: most recurring beliefs are functioning as [[thoughts-as-management]] of a felt state. The belief is doing a job — usually keeping a feeling from being felt directly. Seeing through the belief at the head-layer removes one form of the management; the felt state continues to seek management, which means the belief (or a substitute) reinstalls. Integration completes when the felt state the belief was managing has been met and moved through. The body and emotions catching up — see [[mind-unsees-first-body-last]] — is the same point in different language.
+
 ## Connection to Transparent Identity
 
 The same pattern shows up at the identity level. See [[transparent-identity-vs-rigid]]. The goal is not to eliminate identity. The goal is for identity to become transparent — visible, holdable, and no longer rigid. Beliefs are smaller instances of the same pattern. Identity is composed of clusters of beliefs.

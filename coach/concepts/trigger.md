@@ -4,8 +4,8 @@ id: trigger
 title: "Trigger"
 aliases: ["triggered", "what a trigger is", "Joe's definition of trigger", "being triggered", "trigger as trauma activation", "in your trauma not yourself", "trigger as opportunity", "the trigger definition", "what does triggered mean", "the two definitions of trigger"]
 tags: ["trauma", "trigger", "relationships", "emotion", "presence", "self-awareness"]
-related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "i-cant-trust-my-thoughts-right-now", "kinked-emotions", "feeling-the-unfelt-emotion", "triggered-vs-big-emotion", "walking-on-eggshells", "triggers-reveal-your-own-beliefs", "anxious-avoidant-dynamic", "agreements-renegotiate-as-you-change", "reflect-back-to-make-partner-feel-heard", "say-the-thing-youre-not-saying", "ask-open-ended-non-judgmental-questions-when-triggered", "dont-do-anger-at-your-partner", "capacity-to-love-other-is-capacity-to-love-self", "repressed-trigger-in-the-body", "should-as-threat", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you"]
-sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!"]
+related: ["trauma-mapping", "complementary-trauma-surfaces", "childhood-imprinting", "i-cant-trust-my-thoughts-right-now", "kinked-emotions", "feeling-the-unfelt-emotion", "triggered-vs-big-emotion", "walking-on-eggshells", "triggers-reveal-your-own-beliefs", "anxious-avoidant-dynamic", "agreements-renegotiate-as-you-change", "reflect-back-to-make-partner-feel-heard", "say-the-thing-youre-not-saying", "ask-open-ended-non-judgmental-questions-when-triggered", "dont-do-anger-at-your-partner", "capacity-to-love-other-is-capacity-to-love-self", "repressed-trigger-in-the-body", "should-as-threat", "being-with-anothers-emotion-is-being-with-your-own-pain", "do-the-work-thats-harder-for-you", "projections", "five-triggers-projection-experiment", "go-down-one-level-to-find-projection"]
+sources: ["2022-09-30_Triggered", "2022-10-26_Triggered!", "2024-04-29_Triggered By Others？ Watch This"]
 ---
 
 # Trigger
@@ -25,6 +25,16 @@ There are two operative definitions and both matter for coaching:
 "On some level your mind knows that your reaction doesn't meet the experience that you just had, that the reaction is being created -- this big emotional reaction is being created because of the past, not because of what's actually happening in real time." -- Joe Hudson, Triggered
 
 The word "warranted" carries a warning. Joe almost refuses to use it because of how easily it gets weaponized into "you shouldn't have had that reaction." The definition is not a tool for dismissing other people's experience. It is a tool for self-recognition: when you notice the reaction is bigger than the room, you know what is happening.
+
+## The Specific Sub-Definition: Trigger as Upset-at-Someone-Else
+
+A narrower working definition becomes useful when the work is on projection. For projection work specifically, a trigger is the version of a triggered state where the upset gets directed at another person.
+
+"For this purpose, I'm defining a trigger as a place where I get upset at somebody else. That's what I'm calling a trigger. So there's a trigger that is defined as I just have gotten upset and I'm not putting it on anybody. I'm not talking about that. That would be like, 'Oh, I got triggered because I saw a car accident.' I'm not speaking to that. I'm speaking about, 'I got triggered because I saw a car accident and I hate that person for driving recklessly,' right? That is what I'm talking about. Or that person just called me an asshole and I'm upset at them. That's what I'm talking about in a trigger." -- Joe Hudson, Triggered By Others? Watch This
+
+The distinction matters because the projection mechanism specifically operates on the at-someone-else dimension. A purely internal trigger (the car accident with no person hated for it) is a trauma activation, but no projection has been made yet. The trigger that includes a target — the person who drove recklessly, the colleague who lied, the partner who did the thing — is the form where projection is actively running and where the [[five-triggers-projection-experiment]] applies.
+
+This is not a new definition contradicting the previous ones. It is a sub-definition for project work specifically. The trigger is still the disproportionate reaction, still rooted in the past, still revealing of belief. The target is what makes the projection visible.
 
 ## Trigger Is Not Synonymous With Anger
 
@@ -111,6 +121,9 @@ Without working triggers, the relationship either ossifies (cold marriage held t
 - Toward [[capacity-to-love-other-is-capacity-to-love-self]] as the deeper reframe
 - Toward [[i-cant-trust-my-thoughts-right-now]] when the trigger is active and decisions are being made from it
 - Toward [[agreements-renegotiate-as-you-change]] when recurring triggers are signaling that an old agreement no longer fits
+- Toward [[projections]] when the trigger has a target (someone the upset is directed at) — the projection layer is then in play
+- Toward [[five-triggers-projection-experiment]] as a structured practice for systematically converting at-someone-else triggers into self-knowledge through upright apology
+- Toward [[go-down-one-level-to-find-projection]] when the literal version of the projection cannot be found and a structural analog is needed
 
 ## Tone
 
@@ -119,3 +132,5 @@ Joe holds the word with care. He explicitly distances himself from both the dism
 ## Sources
 
 - 2022-09-30_Triggered
+- 2022-10-26_Triggered!
+- 2024-04-29_Triggered By Others？ Watch This (the upset-at-someone-else sub-definition for projection work specifically; positions trigger work as an empowerment practice where the goal is your freedom, not the other person's behavior)

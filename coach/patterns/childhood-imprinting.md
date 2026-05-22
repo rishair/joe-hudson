@@ -5,7 +5,7 @@ title: "Childhood Imprinting"
 aliases: ["theta state programming", "0 to 7 programming", "love withdrawal", "rejected emotions from childhood", "don't be yourself programming", "pattern transfer to authority figures"]
 tags: ["childhood", "programming", "emotions", "vulnerability", "theta", "projection"]
 related: ["vulnerability", "feeling-the-unfelt-emotion", "familiar-over-safe", "trauma-mapping", "pleasure-capacity", "inherent-goodness", "money-as-surrogate", "poverty-mentality", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "reframe-boss-as-customer", "honor-the-patterns-intent", "trace-emotion-to-its-first-felt", "i-cant-trust-my-thoughts-right-now", "dont-make-family-dynamics-the-story", "the-pattern-is-not-personal", "three-questions-on-the-pattern", "how-you-related-to-parents-is-how-you-relate-to-god-and-money", "scapegoat-as-marriage-stabilizer", "intellectual-emotional-polarization-in-couples", "joes-crying-story", "joes-abandonment-mapping"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-05-07_Money Can't Oppress You", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Money Can't Oppress You", "2022-10-26_Seeing Through Family Dynamics", "2022-10-26_Vulnerability", "2023-03-17_Privilege, Pain, and Projection — Joe Hudson's Story (Part I)", "2023-03-22_Privilege, Pain and Projection — Joe Hudson's Story (Part I)"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-05-07_Money Can't Oppress You", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Money Can't Oppress You", "2022-10-26_Seeing Through Family Dynamics", "2022-10-26_Vulnerability", "2023-03-17_Privilege, Pain, and Projection — Joe Hudson's Story (Part I)", "2023-03-22_Privilege, Pain and Projection — Joe Hudson's Story (Part I)", "2024-04-15_Am I A Fake？"]
 ---
 
 # Childhood Imprinting
@@ -93,6 +93,16 @@ The programming installs as a chain that runs in adult life:
 "Mom doesn't fully approve of me, therefore the voice in the head doesn't fully approve of me, therefore I date other people who don't fully approve of me." -- Joe Hudson, Seeing Through Family Dynamics
 
 The chain is the reason the pattern is so durable. Removing the original mother does nothing. The voice continues the work. The chosen partners continue the work. Each link can sustain the pattern when the others would normally weaken it.
+
+## A Common Specific Installation: Wanting Gets Wired to Unlovability
+
+One of the most common imprintings has a specific shape worth naming directly: the child wanted something the parent could not provide, the parent felt shame at not being able to provide, the parent shut off love to manage the shame. The child encoded: when I want something, love withdraws — therefore wanting makes me unlovable.
+
+The adult version: any time the person notices themselves wanting something (especially from a person they love), the body fires the old wiring. The wanting feels dangerous. The love feels suspect. The person interrogates whether their love is "real" or whether they are being "corrupt" by wanting something from it.
+
+See [[wanting-got-wired-to-unlovability]] for the developmental principle. See [[im-fake-my-love-is-corrupt]] for the concern article. This particular installation is the developmental origin of the adult patterns [[obligation-cuts-off-love]] and [[responsibility-stops-love]] — the parent's trade of love for responsibility becomes the adult's reflex.
+
+The naming of the parent's specific emotion is what makes this imprint legible. Not "your parents didn't love you well" — too vague to act on. Specifically: "your mom felt shame she couldn't give you what you wanted, and to not feel the shame she went to responsibility instead of love." The specificity locates the mechanism in the parent's emotional system rather than as a judgment about the parent or the child.
 
 ## Pattern Examples Across Domains
 
@@ -190,3 +200,4 @@ Additional working entry points:
 - 2022-10-26_Vulnerability (rebroadcast of the 2020-11-10 Connection Course episode)
 - 2023-03-17_Privilege, Pain, and Projection — Joe Hudson's Story (Part I) (Joe's own first 7 years described as the most functional but also the period of deepest installation; the body imprint as a distinct layer from the emotional imprint; the concrete installation example of being made fun of for crying as the moment that encoded a 14-year suppression of tears in adulthood)
 - 2023-03-22_Privilege, Pain and Projection — Joe Hudson's Story (Part I) (republished version of the same conversation; same content with minor transcription variations)
+- 2024-04-15_Am I A Fake？ (the wanting-wired-to-unlovability installation — the parent's shame at not being able to provide as the engine of the love-withdrawal the child encodes)

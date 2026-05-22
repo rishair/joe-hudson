@@ -98,6 +98,12 @@ The metaphor extends to the boss case. Most people who had a manager who spoke t
 
 The diagnostic use: if you would not tolerate the voice from a roommate, a partner, or a manager, that is the data that the voice is producing the same effect on you internally that you would refuse externally. The work is not to argue with the voice. The work is to recognize the asymmetry and stop accepting from yourself what you would not accept from anyone else.
 
+## The Voice Is Management
+
+Most of what the voice says is not information. It is management — typically of a felt state the system does not want to feel directly. The recurring critical thought is the management mechanism; the shame, fear, or love-deficit underneath is what is actually happening. See [[thoughts-as-management]] for the broader concept.
+
+The implication: trying to silence the voice without addressing what the voice is managing leaves the felt state unmet, and the voice (or another like it) will reinstall to keep managing it. Working on the voice productively requires working with what the voice is doing for you, not just the voice's content.
+
 ## The Voice Was Programmed Without Your Consent
 
 The voice often mimics actual figures from history — a critical parent, a teacher, the blur of many adults who shaped early experience. With external critics, people eventually learn to push back: "You're full of it. You don't know what you're talking about." The voice in the head bypasses that defense. It uses your own voice. It does not feel like an external opinion to argue with. So people who would never have accepted the critic's view from outside accept the identical view from inside, decades later, having never agreed to it in the first place.

@@ -4,8 +4,8 @@ id: upright-apology
 title: "The Upright Apology"
 aliases: ["upright apology", "empowered apology", "shameless apology", "apology as transformation tool", "the empowered sorry", "apology from your power", "responsibility without shame", "back upright apology", "apology from the upright body", "non-shame apology"]
 tags: ["apology", "shame", "empowerment", "responsibility", "transformation", "body", "vulnerability"]
-related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate"]
-sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology"]
+related: ["sorry-from-shame-vs-sorry-as-solidarity", "shame-drives-behavior", "apologize-for-trying-to-control", "empowered-vs-power", "vulnerability", "fault-vs-responsibility", "shame-as-disconnection", "feeling-the-unfelt-emotion", "full-understanding-of-a-behavior-dissolves-it", "apologies-as-power-struggle-surrogate", "five-triggers-projection-experiment", "projections", "trigger", "self-forgiveness-as-spoken-move"]
+sources: ["2022-06-24_The Upright Apology- Accountability Without Shame", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-03-18_What's So Scary About Boundaries?", "2022-10-26_What's So Scary About Boundaries?", "2022-10-26_The Upright Apology", "2024-04-29_Triggered By Others？ Watch This"]
 ---
 
 # The Upright Apology
@@ -121,6 +121,16 @@ A quick diagnostic for whether an apology is upright. If the word "you" appears,
 
 See [[dont-use-you-in-an-apology]].
 
+## The Apology as the Closing Step of Projection Work
+
+The upright apology has a specific role in working triggers and projections. Once a person has recognized that they got triggered by someone, found the projection (the part of themselves they could not own), and reduced any shame around that part — the apology closes the loop with the person they had been triggered by. Recognition without the apology stays internal. The apology installs the new configuration in the body and the relationship.
+
+"The third thing you're going to do is apologize to the person who you're triggered by, and you're going to do it in an upright way, which means you're not going to do it with shame. If you do it with shame, it'll just make it worse. And you're just going to apologize to those people, and then all of a sudden you'll see all of those times you're triggered, it's just going to become less and less and less, and you'll be more and more at peace and loving and accepting of yourself and others." -- Joe Hudson, Triggered By Others? Watch This
+
+The link between the upright form specifically and projection work: a shame apology reinforces the very configuration the projection was built around. The person had been unable to own the trait. Apologizing from shame about the trait keeps the trait in the unownable category. The upright apology owns the trait without the shame around it, which is what makes the projection unnecessary going forward.
+
+For the full sequence (recognize the trigger, find the projection, love or forgive the trait, then apologize uprightly), see [[five-triggers-projection-experiment]]. The upright apology is the third step of that practice, and the practice is one of the main settings in which Joe assigns the upright apology by name.
+
 ## Upstream (What Leads Here)
 
 - When someone is in a fight and starts to recognize their own part. See [[apologize-to-exit-a-fight]].
@@ -128,6 +138,7 @@ See [[dont-use-you-in-an-apology]].
 - When someone is in a bad habit they have been trying to stop for years. The daily upright apology to themselves is a practice that addresses the shame at the root of the pattern. See [[apologize-as-daily-practice-for-bad-habits]].
 - When the person presents with "I can't apologize" or "saying sorry feels like losing." See [[i-cant-apologize]].
 - When a person has been chronically over-apologizing as appeasement.
+- As the closing step of [[five-triggers-projection-experiment]] after a projection has been recognized and the shame around the disowned trait has been loosened.
 
 ## Downstream (Where This Leads)
 
@@ -161,3 +172,4 @@ It is also not a substitute for changed behavior. The apology is the surface eve
 - 2022-03-18_What's So Scary About Boundaries?
 - 2022-10-26_What's So Scary About Boundaries? (rebroadcast)
 - 2022-10-26_The Upright Apology
+- 2024-04-29_Triggered By Others？ Watch This (the upright apology as the closing third step of trigger-projection work; the explicit warning that doing it with shame makes things worse)

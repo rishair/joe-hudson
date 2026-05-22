@@ -4,7 +4,7 @@ id: obligation-cuts-off-love
 title: "Obligation Cuts Off the Felt Experience of Love"
 aliases: ["obligation and love can't coexist", "you can't feel obligated and feel love at the same time", "obligation stops love", "obligation kills love in the moment", "obligation as love-killer", "obligation prevents love feeling", "feeling obligation cuts off feeling love", "the moment you act from obligation you stop loving", "obligation traded for love", "you have to stop loving them to take responsibility for them", "the obligation-love trade", "every act of obligation cuts off love", "obligation and love are mutually exclusive in the moment", "the felt love stops when obligation starts", "obligation constricts the emotional experience of love"]
 tags: ["obligation", "love", "responsibility", "shoulds", "caretaking", "felt sense", "core principle"]
-sources: ["2024-03-01_Love and Obligation"]
+sources: ["2024-03-01_Love and Obligation", "2024-04-15_Am I A Fake？"]
 ---
 
 # Obligation Cuts Off the Felt Experience of Love
@@ -84,6 +84,26 @@ A person can take their partner to the airport because they want to, and feel lo
 
 The signature of clean care: the body relaxes during the action. The signature of obligation: the body braces.
 
+## The Developmental Origin (How This Wiring Got Installed)
+
+The principle has a developmental origin in childhood: it is what the child witnessed when the parent could not provide what the child wanted. The parent felt shame at not being able to give, and rather than feel the shame, the parent shifted into responsibility, distance, or busyness — postures that turned off the felt love. The child experienced this as: I wanted something, mom went cold, therefore wanting causes love-withdrawal.
+
+See [[wanting-got-wired-to-unlovability]] for the full mechanism. The adult's tendency to act from obligation is, in part, an attempt to recreate the parent's posture. The parent traded love for responsibility. The adult, having internalized that this is how love works, does the same thing — and is unable to feel love during the obligated act, because the parent could not either.
+
+A short live example from the *Am I A Fake?* session:
+
+- **Joe:** "Feel your mom for a second. How did your mom feel when she couldn't give you what you wanted? What was her feeling?"
+- **Guest:** "I think she felt shut."
+- **Joe:** "Shut?"
+- **Guest:** "Yeah, she blocked herself from —"
+- **Joe:** "Right, that's the removal of love from you. And that shut was: 'I don't want to feel this feeling,' which is probably guilt or shame that she can't provide for her daughter."
+- **Guest:** "Yeah, shame. Yeah, right."
+- **Joe:** "Responsibility over love from that conversation."
+
+The naming "responsibility over love" is the same trade this principle describes, located at its developmental origin. The mother was the first one to make the trade. The child learned the trade as the rule of how love works. The adult version is this principle.
+
+This is why teaching the principle ("obligation cuts off love") often produces a flash of recognition that goes back further than the current relationship. The adult recognizes the move because they saw it first in childhood.
+
 ## Why People Stay Confused
 
 The reason this principle is unintuitive is that everyone has been told that love requires sacrifice, that good people put themselves last, that obligation IS love when it gets serious. The inherited definition fuses love with obligation. See [[love-misconceptions-inherited-from-childhood]].
@@ -143,3 +163,4 @@ The sibling principle [[responsibility-stops-love]] (from the related 2024-03-01
 ## Sources
 
 - 2024-03-01_Love and Obligation (the central episode for this principle; includes both the teaching and the in-vivo coaching demonstration)
+- 2024-04-15_Am I A Fake？ (the developmental origin of the principle; the mother who felt shame at not being able to provide and traded love for responsibility, installing the wiring in the child)
