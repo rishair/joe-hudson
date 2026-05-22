@@ -4,7 +4,7 @@ id: i-have-to-do-it-all-myself
 title: "I have to do it all myself / I can't depend on others"
 aliases: ["I can't depend on people", "I don't need anyone", "I'm hyper-independent", "I have to be the strong one", "I can only count on myself", "I do it alone", "I don't ask for help", "self-reliance to a fault", "I waited for people to do things and they didn't", "I learned to depend only on myself", "it's lonely at the top", "nobody around me really gets it", "I have to hold all of this myself", "the lonely CEO presenting"]
 tags: ["independence", "abandonment", "self-reliance", "CEO", "compartmentalization", "loneliness", "concern"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-11-10_Finding a Romantic Partner"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment", "2023-11-10_Finding a Romantic Partner", "2024-09-13_Authority Issues"]
 ---
 
 # I have to do it all myself / I can't depend on others
@@ -77,6 +77,8 @@ The same statement can lead in different directions:
 
 - **If the person presents the loneliness of the role as a fact rather than as a perception:** the move is [[apologize-for-not-seeing-the-help]]. Name the old truth ("you were alone as a kid") and the new one ("you are not alone now") in the same breath. Point them to the team that is, in fact, trying. Then have them apologize to the team for not recognizing it. The vulnerable act lands the recognition relationally rather than just internally.
 
+- **If the person reports asking for help and not getting it:** the move is [[ask-for-help-with-specifics]]. The lonely-leader pattern produces a specific failure mode in help-asking — the asks are vague enough that they cannot be answered. The contrast is between "why can't you just fucking get the sales numbers up?" and the longer specific ask with vulnerability, operational handles, stated criteria for what would constitute help, and a direct invitation to a specific person. Vague asking confirms the lonely-leader narrative; specific asking interrupts it.
+
 ## Coaching Path
 
 1. Name the cost of the pattern, gently and specifically. The pattern works for what it was designed for. It also has a price. The price is usually the limit on intimacy and the limit on what the team can become.
@@ -91,7 +93,9 @@ The same statement can lead in different directions:
 
 6. Translate the work into leadership. The leader who has felt their own helplessness can hold their team's vulnerability. The leader who has not, cannot. See [[vulnerability-in-the-workplace]].
 
-7. For the lonely-CEO version specifically, deploy [[apologize-for-not-seeing-the-help]]. The old imprint says "I am alone." The current reality usually contradicts this: the team is trying. The move converts the internal recognition into a relational act, which is what shifts the dynamic. The apology is short, undefended, and acknowledges the team's contributions that the leader has not been letting register. The team's response is typically increased engagement, not less.
+7. For the lonely-CEO version specifically, deploy [[apologize-for-not-seeing-the-help]] and [[ask-for-help-with-specifics]] as paired moves. The old imprint says "I am alone." The current reality usually contradicts this: the team is trying. The apology move addresses the backward-facing half (recognizing what has been there); the specific-ask move addresses the forward-facing half (giving the team something to actually step into). Both halves usually need work for the position to dissolve.
+
+The lonely-CEO position is Position 4 in [[the-four-authority-positions]]. The underlying dynamic is [[authority-issues]] expressed at scale — the leader has been treating themselves as something other than human (alone, exceptional, uniquely burdened), and the team has been treating them the same way (deferring, kissing-up, attacking, never giving real feedback). The dissolution involves both sides relaxing the projection. The leader's moves (apology, specific ask, being available to be seen) are the leader's half of the work.
 
 "I know you had to be resourceful and you had to be self-reliant and you were alone as a kid, but you're not alone now. And if you're looking for evidence, look around at all the people who are trying to make you successful... And then apologize to them for not recognizing it. And that would be the vulnerable act. And then see how much more inspired they are to be there with you and to show up with you because they see your humanness instead of are scared of you." -- Joe Hudson, Connection Over Perfection
 
@@ -131,3 +135,4 @@ See [[self-reliance-pushes-people-away]] for the developed concept article. This
 - 2022-10-26_Connection Over Perfection (the lonely-CEO variant and the apologize-for-not-seeing-the-help move)
 - 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)
 - 2023-11-10_Finding a Romantic Partner (the daughter-father reframe; the abandonment-self-reliance duality; what self-reliance does to partners and to potential partners; self-reliance situated as one of the push-pull forms in dating)
+- 2024-09-13_Authority Issues (the lonely-leader concern situated as Position 4 of the four-authority-positions structure; the specific-ask vs vague-ask diagnostic; the bidirectional projection dynamic — the leader and the team co-producing the loneliness through mutual non-recognition; the Sarah "I love your frustration" moment as the live alternative to the position)

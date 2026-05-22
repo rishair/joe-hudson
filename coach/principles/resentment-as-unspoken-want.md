@@ -2,10 +2,10 @@
 type: principle
 id: resentment-as-unspoken-want
 title: "Resentment Means You Are Not Following Your Wants"
-aliases: ["resentment as indicator of unfollowed wants", "if you feel resentful you're not following what you want", "resentment as want diagnostic", "resentment means you haven't said what you want", "the resentment-want diagnostic", "resentment as boundary signal", "general resentment diagnostic"]
-tags: ["resentment", "wants", "boundaries", "diagnostic", "self-abandonment"]
-related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need"]
-sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？"]
+aliases: ["resentment as indicator of unfollowed wants", "if you feel resentful you're not following what you want", "resentment as want diagnostic", "resentment means you haven't said what you want", "the resentment-want diagnostic", "resentment as boundary signal", "general resentment diagnostic", "resentment is built when there's anger that's unexpressed", "resentment as unexpressed anger", "the three sources of resentment", "the three corresponding moves for resentment", "boundaries asking admiration as the three moves for resentment"]
+tags: ["resentment", "wants", "boundaries", "diagnostic", "self-abandonment", "admiration", "envy"]
+related: ["the-want", "wants-vs-partiality", "owning-the-want-dissolves-it", "resentment-as-caretaking-diagnostic", "boundary-with-vs-boundary-against", "sublimated-wants-become-politics", "anxiety-as-unarticulated-need", "i-keep-being-resentful", "admire-what-you-crave", "asking-dissolves-the-not-okay-to-want", "anger-is-love"]
+sources: ["2021-11-19_What is Selfishness?", "2022-10-26_What Is Selfishness？", "2024-09-02_How To Stop Being Resentful"]
 ---
 
 # Resentment Means You Are Not Following Your Wants
@@ -79,6 +79,26 @@ When resentment surfaces:
 
 The practice is repeatable. Most resentments fold quickly once the underlying want is named and acted on.
 
+## The Three Specific Moves
+
+The general principle implies three more specific moves, each addressing a particular form of resentment. In the compressed public teaching of [[i-keep-being-resentful]], Joe organizes them as the three ways to stop being resentful:
+
+**Move 1: Draw the boundary.** Resentment is often unexpressed anger, and anger is a sign that a boundary is needed. When the resentment is about a recurring situation that does not work for you, the move is to name what you will do about it. See [[boundaries]]. The canonical example: "Hey sweetheart, I need 20 minutes to relax before I hear about your day." The boundary releases the resentment by removing the conditions that produced it.
+
+"Resentment is built because there's anger that's unexpressed. Anger is telling you that there's a boundary that you need to draw. Drawing that boundary is an incredibly important thing." -- Joe Hudson, How To Stop Being Resentful
+
+The anger underneath the resentment is operationally connected: anger is the energy of the boundary that has not been drawn. See [[anger-is-love]] for the related teaching that anger only arises where care exists, and [[anger]] for the role of anger as a signal that a boundary is needed.
+
+**Move 2: Ask for what you want.** When the resentment is about something you have classified as not-okay-to-want, the move is to ask for it. The asking, not the getting, releases the resentment. See [[asking-dissolves-the-not-okay-to-want]] for the full treatment and [[joes-daughter-resentment-with-her-grieving-friend]] for the canonical example.
+
+"It's just simply about learning to ask for the thing that you want. And allowing yourself to have the things that you want. This doesn't mean that you're gonna get everything that you want. In fact, it's not really important if you get everything that you want. What's important is that you've learned to ask for what you want because the asking is what tells you that it's okay to want it. And then the resentment goes away." -- Joe Hudson, How To Stop Being Resentful
+
+**Move 3: Admire what you crave.** When the resentment is about what another person has, the move is to admire the same quality in them. The admiration releases the envy by giving yourself permission to want the same thing. See [[admire-what-you-crave]] for the full treatment.
+
+"Take something that you resent somebody for having, and then just see the admiration, experience the admiration -- because if you resent it, you admire it. And then just feel the admiration and see what it does to your resentment. It just makes it fade away." -- Joe Hudson, How To Stop Being Resentful
+
+The three moves are not alternatives. In a complex resentment, all three are usually relevant. The marriage where a wife resents her husband's career freedom typically calls for all three: draw the boundary around what does not work, ask for what is wanted, and admire the freedom in the husband as a way of allowing the same freedom in the self.
+
 ## What This Is Not
 
 - Not a license to use "I'm resentful" as a weapon. The signal points back at you. It does not authorize blaming the other person.
@@ -91,6 +111,8 @@ The practice is repeatable. Most resentments fold quickly once the underlying wa
 - When chronic, low-grade irritation is present in a relationship or workplace
 - When the person is processing the resentment without it shifting
 - When [[i-caretake-people]] is the presenting concern and resentment is its symptom
+- When [[i-keep-being-resentful]] is the presenting concern in its general form
+- When [[we-have-built-up-resentment]] is the presenting concern in a long marriage or partnership
 - When the person blames their dissatisfaction on external constraints
 
 ## Downstream (Where Joe Goes From Here)
@@ -98,6 +120,10 @@ The practice is repeatable. Most resentments fold quickly once the underlying wa
 - Toward [[wants-vs-partiality]]: owning the want without weaponizing it
 - Toward [[the-want]]: locating the actual want underneath the resentment
 - Toward [[boundary-with-vs-boundary-against]]: the boundary that would have prevented the resentment
+- Toward [[boundaries]]: the broader concept that the boundary-form of the resentment release builds on
+- Toward [[admire-what-you-crave]]: the specific move for the envy-form of the resentment
+- Toward [[asking-dissolves-the-not-okay-to-want]]: the specific move for the not-okay-to-want form
+- Toward [[anger-is-love]]: the compressed reframe of the anger underneath the resentment
 - Toward [[anxiety-as-unarticulated-need]]: the same diagnostic logic applied to anxiety
 - Toward [[resentment-as-caretaking-diagnostic]]: the more specific application
 
@@ -105,3 +131,4 @@ The practice is repeatable. Most resentments fold quickly once the underlying wa
 
 - 2021-11-19_What is Selfishness?
 - 2022-10-26_What Is Selfishness？ (rebroadcast of the 2021-11-19 episode)
+- 2024-09-02_How To Stop Being Resentful (the three-part teaching naming the three specific moves: boundaries, asking, admiration; the explicit identification of unexpressed anger as the source of much resentment; the marriage example of mutual resentment about what each partner has that the other does not)

@@ -4,8 +4,8 @@ id: find-the-want-behind-the-should
 title: "Find the Want Behind the Should"
 aliases: ["locate the want under the should", "what do you actually want here", "translate the should", "the want behind it"]
 tags: ["moves", "shoulds", "wants", "coaching", "translation"]
-related: ["wants-over-shoulds", "the-want", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "i-should-be-doing-this", "impulse-to-should", "say-the-forbidden-want-out-loud", "money-as-surrogate"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should"]
+related: ["wants-over-shoulds", "the-want", "wants-deepen-as-you-follow-them", "owning-the-want-dissolves-it", "i-should-be-doing-this", "impulse-to-should", "say-the-forbidden-want-out-loud", "money-as-surrogate", "joes-stinky-house-experiment", "enjoyment-as-path"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2021-02-13_Embarking on the Journey — Master Class Series #2", "2022-10-26_Want Over Should", "2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
 ---
 
 # Find the Want Behind the Should
@@ -51,6 +51,18 @@ The two versions sound nearly identical. They produce opposite results. The firs
 
 See [[how-do-you-want-to-be]] for the question as a coaching instrument and [[should-vs-want-body-check]] for the body diagnostic that confirms the reframe is landing.
 
+## The Trash-Can Form (Mundane Wants Count)
+
+The clearest worked example of this move at the level of a chore is Joe's two-week experiment where he stopped doing anything he did not want to do. The example demonstrates that the move applies to small, ordinary, even unromantic wants — not only to the high-stakes wants where it is intuitive.
+
+Joe stopped taking out the trash. The house started to stink. Standing in front of the stinking trash can, he was forced to find the want underneath the chore. The want he located was mundane: "I want this trash gone." Not "I want to be a good housekeeper" or "I want to honor my home" or any other elevated framing. Just: I want the stink to leave. Once that want was named, the chore became wanted — the same action, different fuel.
+
+"It's not 'I have to take out the trash,' it's 'I want to take out the trash.' And as soon as I got in touch with that, I could learn to enjoy the thing because it was no longer an obligation, it came from my want." -- Joe Hudson, How To Enjoy Your Work
+
+The teaching: the want does not have to be impressive. It only has to be true. The body recognizes a true want — even a quiet, ordinary one — and reorganizes around it. The action that was a should becomes the action that was a want, with no change in the action itself.
+
+See [[joes-stinky-house-experiment]] for the full story and what the experiment surfaced.
+
 ## The Body Test
 
 A clean want feels expansive. The body opens. A should feels like compression. When the translation lands correctly, the person can feel the shift somatically. If the translation does not produce expansion, it is probably the wrong want. Keep looking.
@@ -74,3 +86,4 @@ Curious, light. Not corrective. The frame is not "you're using the wrong word." 
 - 2021-03-15_Want over Should -- Master Class Series #6
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2022-10-26_Want Over Should
+- 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the trash-can canonical telling of the move; the explicit formulation "It's not I have to take out the trash, it's I want to take out the trash"; the teaching that mundane wants — the want for the stink to be gone — are sufficient to reorient action)

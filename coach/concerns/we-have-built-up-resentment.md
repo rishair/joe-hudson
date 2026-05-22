@@ -4,7 +4,7 @@ id: we-have-built-up-resentment
 title: "We have built-up resentment / We're not entirely happy with each other anymore"
 aliases: ["we have built up resentment", "we're not entirely happy with each other", "we're walking on eggshells", "the resentment has been building", "we used to be happy and now we're not", "we got married and were happy and now there's this", "we've grown apart", "things have built up", "we're not as connected as we used to be", "our marriage has gotten heavy", "the same fight keeps coming up", "we're stuck in this dynamic", "our relationship has gotten stagnant", "low-grade resentment in a long marriage", "the slow-burn marriage", "the slow-burn business partnership", "the gradual erosion of the relationship", "we used to talk about everything", "the marriage that slowly went flat", "the company that lost its aliveness", "the founder relationship that turned competitive"]
 tags: ["relationships", "marriage", "partnership", "presenting concern", "resentment", "stagnation", "conflict avoidance"]
-sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!"]
+sources: ["2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement", "2023-12-22_The Shame Hot Potato", "2024-07-09_4 Keys To Save Your Relationship - Try These NOW!", "2024-09-02_How To Stop Being Resentful"]
 ---
 
 # We have built-up resentment / We're not entirely happy with each other anymore
@@ -58,6 +58,7 @@ The same presenting story branches in several directions depending on what is ha
 - If the person is using "we have grown apart" as a fixed identity story: Joe will not buy the story. The growing-apart is what conflict avoidance produces; the people themselves did not get incompatible.
 - If [[resentment-as-caretaking-diagnostic]] is active: the resentment is the marker of caretaking that has gone on too long. Joe will move toward the caretaking work.
 - If the same fight has been repeating for years and both partners are usually focused on what the other did rather than on their own contribution: a [[shame-hot-potato]] is running. Joe will name the dynamic and move toward [[drop-the-hot-potato]] and [[state-no-wish-for-their-shame]] as the entry into the work.
+- If each partner is resenting a specific quality the other has (his career freedom, her time at home, his confidence, her connection to the kids): the resentment is the envy-form pointing at disowned parts in each spouse. Joe will move toward [[admire-what-you-crave]] for the operational release and toward [[pointers-to-unseen-parts]] for the deeper structural understanding. The mutual-envy form is one of the most common shapes built-up resentment takes in long marriages, and the admiration move is one of the cleanest first interventions.
 
 ## What This Concern Looks Like in Different Domains
 
@@ -102,3 +103,4 @@ The 4-keys framework is the public-teaching version. It does not replace the dee
 - 2023-08-04_Addressing Conflict Avoidance- Finding Connection in Disagreement
 - 2023-12-22_The Shame Hot Potato (the same-fight-for-years variant where the resentment is being passed back and forth as shame between the partners)
 - 2024-07-09_4 Keys To Save Your Relationship - Try These NOW! (the compressed four-key framework as a public-teaching entry into the dynamic; the four keys offered as parallel doors into the underlying work)
+- 2024-09-02_How To Stop Being Resentful (the specific mutual-envy form of built-up marital resentment where each spouse resents what the other has; the admiration move as a clean first intervention; the marriage example of mutual resentment about career freedom vs. home time)

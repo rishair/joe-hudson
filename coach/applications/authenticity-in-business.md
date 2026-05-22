@@ -4,8 +4,8 @@ id: authenticity-in-business
 title: "Authenticity in Business"
 aliases: ["authentic business", "authenticity in companies", "authenticity at work", "hooking into authentic drives", "natural drives in business", "company authenticity"]
 tags: ["business", "authenticity", "organizational design", "efficiency", "leadership", "application"]
-related: ["improvement-vs-authenticity", "vulnerability-in-the-workplace", "structure-and-empowerment", "efficiency-as-enjoyment", "consciousness-is-the-product", "buurtzorg-nursing", "nature-improves-itself", "business-as-spiritual-practice"]
-sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
+related: ["improvement-vs-authenticity", "vulnerability-in-the-workplace", "structure-and-empowerment", "efficiency-as-enjoyment", "consciousness-is-the-product", "buurtzorg-nursing", "nature-improves-itself", "business-as-spiritual-practice", "lack-of-enjoyment-as-diagnostic", "enjoyment-attracts", "redirect-from-doing-it-right-to-enjoying-it"]
+sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement", "2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
 ---
 
 # Authenticity in Business
@@ -48,6 +48,25 @@ Companies that pick one of these and ignore the others get partial engagement. C
 The Buurtzorg example (Joe refers to it as Hertzog) makes the principle concrete. See [[buurtzorg-nursing]] for the full case.
 
 Competitors optimized for visit-speed metrics. The new company optimized for moving patients toward self-reliance. The reframe hooked into the authentic drive (wanting to help) that the metric had been suppressing. Result: 40-60% more efficient than the metric-optimized competition.
+
+## The Marketing Plan Case (Lack of Enjoyment as Diagnostic)
+
+A business owner was working on a marketing plan that was not producing results. Joe asked what it would require for the owner to enjoy doing the marketing. The owner said "I can't enjoy it." Joe pressed: "Let's go from scratch. What would we have to do to enjoy this marketing plan?"
+
+The conditions the owner named were entirely structural:
+- The current team configuration would not work.
+- The marketing would need to be authentic to the brand.
+- Each person doing it would need to feel they were saying something meaningful, not something they had to say to get customers.
+
+"And so of course I can't market and enjoy it." -- the business owner, quoted by Joe Hudson, How To Enjoy Your Work
+
+Joe's response identified the equivalence at the heart of the principle: the conditions for the owner to enjoy the work were the same conditions the work needed to function. "That's exactly what you need to do to solve your marketing problem. Let me guess that your marketing isn't working." The owner confirmed.
+
+"Because you're not enjoying it. It's not authentic to you. And so everybody can read and feel that." -- Joe Hudson, How To Enjoy Your Work
+
+Within a quarter, the marketing began working. The owner had restructured the function around the conditions the question had surfaced. The change was not a motivational intervention; it was an organizational restructuring driven by what the team would need to be in enjoyment.
+
+The structural lesson: the un-enjoyability of a piece of work and its inability to function are often the same problem, viewed from two sides. The team's inability to enjoy the work is data about how the work is structured, not data about the team's character. Restructuring around enjoyability is restructuring around effectiveness. See [[lack-of-enjoyment-as-diagnostic]] for the move's full extraction and [[enjoyment-attracts]] for the broader principle on why un-enjoyed work transmits its un-enjoyment to customers.
 
 ## The Debt Collection Case
 
@@ -114,3 +133,4 @@ The mechanism: the leader's relationship to their own authenticity becomes the r
 
 - 2021-03-19_Authenticity over Improvement -- Master Class Series #7
 - 2022-10-26_Authenticity Over Improvement
+- 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the marketing plan case showing un-enjoyment as the structural diagnostic; the explicit naming of the equivalence "what you need to enjoy this is what you need to fix the marketing problem"; the under-a-quarter turnaround when the function was restructured around enjoyability; the "everybody can read and feel that" mechanism for why un-enjoyed marketing transmits its un-enjoyment to customers)

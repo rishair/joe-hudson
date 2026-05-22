@@ -4,7 +4,7 @@ id: i-cant-feel-my-emotions
 title: "I can't feel my emotions / 'How do you feel' doesn't compute"
 aliases: ["I can't feel my emotions", "I don't know what I'm feeling", "I struggle to feel my own emotions", "when people ask how do you feel I don't know what to say", "the phrase how do you feel does not even vaguely compute", "I don't know how I feel", "the how do you feel question is foreign to me", "I can't tell what emotion I'm having", "I'm not in touch with my feelings", "I don't really feel anything", "emotions don't show up for me", "I'm pretty disconnected from my emotions", "I can't access my feelings", "I'm not very emotional", "emotions are a foreign language", "I have tears in my eyes and don't know why", "my brother says I look like I'm about to cry and I don't feel anything", "I reverse-engineer what I must be feeling from external clues", "I don't have somatic awareness", "I'm head-dominant", "I cannot label emotions", "I tried not to feel anything", "emotions are useless ineffective things", "I just have pressure in the chest and nothing else comes up", "I'm completely blank inside", "I have nothing inside", "all I have is my blank space", "I retreat to the quiet place on purpose", "I don't know what's happening internally", "I lost my parent young and shut down feeling"]
 tags: ["emotions", "dissociation", "alexithymia", "body", "head-dominant", "achievement", "compartmentalization", "childhood loss"]
-sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)", "2024-06-28_4 Ways To Feel Your Emotions", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)"]
+sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)", "2024-06-28_4 Ways To Feel Your Emotions", "2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach)", "2024-09-06_How Do I Feel My Body?"]
 ---
 
 # I can't feel my emotions / 'How do you feel' doesn't compute
@@ -21,6 +21,7 @@ The defining feature is the explicit report that the question of how they are fe
 - "Sometimes my brother is like, 'are you okay? Because you have tears in your eyes right now and it looks like you're about to cry.' And I'm like, whoa, you're right. That's weird."
 - "I have to reverse-engineer what must have triggered me from external clues."
 - "I have no sense of feeling in the body any different to what I was like 10 seconds ago."
+- "Struggling with feeling any emotion, but getting in touch with my body. Everything seemed to be kind of from a heady space, and I feel nothing. Like when you talk about feel this emotion 3 inches below your belly, get in touch with the bottoms of your feet, nothing."
 - "I can feel my eyes sort of screwing up a little bit, but I have no idea what's happening internally."
 - "I'd be cool with experiencing positive emotions, but love or sadness -- I'm not sure how I feel about those."
 - "I cannot label emotions. I don't know what's happening."
@@ -77,9 +78,19 @@ Two people can present this concern and Joe goes different directions based on w
 
 - If the early loss involved a parent (death of mother or father young, abandonment, severe neglect): the compartmentalization has been in place for the entirety of the person's adult life and is likely organized around that specific origin. Joe will name the wisdom of the strategy ("you very wisely compartmentalized your emotions so that you could survive") before any movement is attempted. The honoring of the strategy is a prerequisite for any felt work. See [[honor-the-patterns-intent]].
 
+- If the person reports they cannot feel because nothing arrives when they put attention on a body location (the standard body-scan instruction is producing zeros): the read is that the working definition of "feeling" is wrong, not that the wires are cut. Joe runs the [[attention-is-feeling]] Socratic sequence — hum, feel the vibration, keep feeling the place after the hum stops, where's your right pinky, if you're attending to it isn't that feeling? — to redefine the operational threshold for feeling in real time. The right-pinky question forces the person to state the new definition ("if I focus on feeling it, I feel it") in their own words. Once the definition is rebuilt, the same sequence can be applied to an emotionally loaded location (the belly button) to see what arises.
+
+- If the person has a domain of mastery in which they enter flow (sport, music, art, craft, surgery, programming with the right relationship): the read is that the body intelligence is already developed and operating; the work is transfer, not acquisition. Joe runs the [[use-domain-of-mastery-as-template-for-body-intelligence]] move — surface the felt difference between in-flow and not-in-flow in the mastery domain, name that the in-flow state IS body intelligence, ask the person to do it now in the room. The instruction "be in your body the way you are when you play tennis" has a working reference; "feel your body" does not.
+
+- If a face change or other involuntary somatic response happens before the person reports any felt sensation: Joe names the change in real time ("whoa, what just happened there? Your face went—") and asks [[is-it-not-feeling-or-repressing-what-arises]]. The binary forces a redefinition of the problem from "I can't feel" to "I push back what arises when I feel." The second framing is workable; the first is not.
+
+- If the person hedges on the recognition ("I can do that, I guess") and the person is a coach, teacher, parent, or leader: Joe runs [[turn-their-coaching-back-on-them]] — "what would you say to a student who said that?" The client delivers the teaching to themselves. The hedge does not survive the contradiction with their own professional voice.
+
 ## Coaching Path
 
 1. Mark the somatic repression. If the person's chin is up, name it. If the jaw is clamped, name it. The teaching is short: these are two of the primary ways humans block emotion from being felt. Adjusting these positions slightly often produces an immediate increase in somatic access. See [[chin-up-as-emotion-block]].
+
+1b. If the person's report is "nothing arrives when I put attention on a body part," do not accept the premise. Run [[attention-is-feeling]] to rebuild the operational definition of feeling in real time. Hum, feel the vibration, keep feeling the place after the hum stops, where's your right pinky, if you're attending to it isn't that feeling? Then extend to an emotionally loaded location (the belly button) and use [[is-it-not-feeling-or-repressing-what-arises]] when a face change happens before any felt report.
 
 2. Treat the first feeling as the sensation of trying-and-not-getting-there. Do not push past this. The trying is real and feelable. Have the person locate where in the body the trying lives. This is usually a constriction in the belly, the chest, or the throat. The constriction is the first feelable thing. See [[manufacturing-the-feeling]].
 
@@ -92,6 +103,10 @@ Two people can present this concern and Joe goes different directions based on w
 6. Install the minimum-viable feeling practice. The most powerful one is also the simplest: keep ten percent of your attention in your body as much as possible throughout the day. Everything else takes care of itself. The practice does not require a meditation cushion or a journal. It requires only the attentional shift. See [[staying-in-your-body]] and [[ten-percent-more-connected-experiment]].
 
 7. Offer the public-facing four-step framework if the person needs a packaged on-ramp. The four [[four-tactical-ways-to-feel-your-emotions]] are: recognize, breathe, feel in the body, express. The framework is built for the person who has never deliberately felt an emotion. It provides a sequence the body can be walked through. The detection cue Joe names for way 1 -- binary thinking as the signature of unfelt fear ([[binary-thinking-signals-fear]]) -- gives the head-dominant person an intellectually legible entry that does not require somatic access first.
+
+8. If the person has a domain of mastery in which they enter flow, use it as the template. [[use-domain-of-mastery-as-template-for-body-intelligence]] turns the work from "build a new capacity" into "transfer the capacity you already have." The somatic intelligence operating on the tennis court, at the piano, during the surgery, in the code — that intelligence is what feeling your body is. The work is to do that same internal move in the current context.
+
+9. If a coach/teacher/leader hedges on the recognition with a qualifier ("I can do that, I guess"), use [[turn-their-coaching-back-on-them]]. Ask what they would say to a student who answered them that way. The client delivers the teaching to themselves.
 
 ## Dialogue Example: The Sound of the Emotion When Naming Fails
 
@@ -118,6 +133,41 @@ The sequence shows the full chain of moves in this branch of the coaching path:
 6. Further reduce the ask: "Instead of naming it, give me the sound" — see [[give-me-the-sound-of-the-emotion]]
 
 The reduction-of-ask pattern is critical when working with someone whose compartmentalization is severe and long-standing. Each rejection of an ask is met with a smaller, more accessible ask, until the wire that can carry the request is found.
+
+## Dialogue Example: Attention Is Feeling (The Tennis Coach Variant)
+
+A different sub-pattern of this concern: a person who has tried the standard body-scan instructions and reports nothing arrives. The framing is purely about access — "I struggle to get in touch with the emotional side and connection with my body." No childhood loss is named. No active distress. Just the head-dominant signature and the report that the wires appear to be cut.
+
+Joe's sequence in this case bypasses the question of why-the-wires-are-cut and goes directly to disproving that the wires are cut. The sequence is the [[attention-is-feeling]] move in full.
+
+- **Joe:** "How do you know you're not connected?"
+- **Guest:** "Lack of feeling."
+- **Joe:** "How do you know you're not feeling something?"
+- **Guest:** "No sensation."
+- **Joe:** "So you're talking to me and your vocal cords are making sound. So those are vibrating. Can you feel them as you're talking? Like, just say random shit to me."
+- **Guest:** [speaks] "Barely? Not really?"
+- **Joe:** "Barely? Gotcha. And then do me a favor, just hum. How far down do you feel that? Keep humming."
+- **Guest:** "Like bottom of my throat-ish."
+- **Joe:** "And if you feel that same place while you're not talking, how do you know you're feeling that?"
+- **Guest:** "I don't."
+- **Joe:** "So go, hmm, feel a place and then stop making it and just don't stop feeling that place."
+- **Guest:** "Kind of like a mental connection with that place. Focus on that place."
+- **Joe:** "Yeah. And there's something responding to you, right? Like you're putting attention on it and somehow you know it's on that for some reason. And right now, can you identify where your right pinky is?"
+- **Guest:** "Yeah."
+- **Joe:** "So what makes it that you're not feeling your right pinky right now?"
+- **Guest:** "No attention directed at my right pinky."
+- **Joe:** "If you're, if you're attending to it, isn't that feeling your right pinky? Like, what's — what am I missing?"
+- **Guest:** "Yeah, that if I'm focusing on feeling my right pinky, I'll feel my right pinky."
+- **Joe:** "Yeah. So if you focus on feeling your belly button — whoa, what just happened there? Your face went—"
+- **Guest:** "I, I have no idea, to be honest."
+- **Joe:** "Like, so is it that you're not feeling it, or is that you are trying to repress an emotion that comes up when you feel it?"
+- **Guest:** "Very possibly."
+
+*(Source: 2024-09-06_How Do I Feel My Body?)*
+
+After the definition was rebuilt, Joe transferred the recognition into the guest's domain of mastery (tennis coaching) using [[use-domain-of-mastery-as-template-for-body-intelligence]]: "If you can play tennis, you definitely can feel your body, or you wouldn't be able to play tennis. The state you get into when you're in flow — like, you're in your body, right, in that state. So just do that, but just be doing it while we're sitting here, not playing tennis." When the guest hedged ("I can do that, I guess"), Joe used [[turn-their-coaching-back-on-them]]: "If you had somebody say to you when you're teaching them and they were like 'oh yeah, I can do that, I guess.' What would you say to them?" The guest answered his own hedge: "Don't guess, just do it."
+
+The full sequence is the compressed coaching path for the head-dominant version of this concern: redefine "feeling" through the attention-is-feeling sequence, transfer the recognition through the domain of mastery, close the hedge through the role-reverse.
 
 ## Dialogue Example: The Live Contrast Experiment
 
@@ -158,3 +208,4 @@ The mechanism: the body's signature for each emotion becomes detectable only whe
 - 2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)
 - 2024-06-28_4 Ways To Feel Your Emotions (the public-facing four-step framework Joe uses with this concern when the person needs a packaged on-ramp; the abused-child-and-the-quarter example that explains how the somatic shutoff installed in the first place; the binary-thinking detection cue as the entry point for the head-dominant person; positioning the framework as the seventh step in the coaching path for this concern)
 - 2024-08-27_I Can't Feel Anything (Coaching Session With Master Coach) — the early-childhood-loss variant of this concern (woman lost her mother at age 5 and compartmentalized emotion to survive); the coaching sequence that pairs naming-failure with the sound-of-the-emotion bypass; the read of the blank place as a positive refuge ("Swami") that has to be honored before any movement; the closing reassurance that tears do not destroy the refuge — they help the body
+- 2024-09-06_How Do I Feel My Body? — the head-dominant tennis-coach variant where the report is "I struggle to get in touch with the emotional side and connection with my body"; the [[attention-is-feeling]] Socratic sequence (hum, right pinky, "if you're attending to it isn't that feeling") that rebuilt the operational definition of feeling in real time; the belly-button extension that produced a face change before any felt report and the [[is-it-not-feeling-or-repressing-what-arises]] follow-up; the [[use-domain-of-mastery-as-template-for-body-intelligence]] move that used the guest's tennis flow as the template for body intelligence in life; the closing [[turn-their-coaching-back-on-them]] move that had the guest deliver the no-hedge teaching to himself

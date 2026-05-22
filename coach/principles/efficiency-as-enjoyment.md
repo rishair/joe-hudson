@@ -5,7 +5,7 @@ title: "Efficiency Is Measured by Enjoyment"
 aliases: ["enjoyment is efficiency", "human efficiency", "efficient when enjoying", "the human fuel measure", "fastest is not most efficient"]
 tags: ["efficiency", "enjoyment", "productivity", "principle", "measurement"]
 related: ["enjoyment-as-path", "enjoy-over-manage", "art-of-accomplishment", "butchers-blade", "sleep-deprived-soldier"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-10-26_Enjoy Over Manage", "2022-10-26_The Art of Accomplishment", "2024-03-15_Joy", "2024-03-15_Joy - Emotion Series #15", "2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
 ---
 
 # Efficiency Is Measured by Enjoyment
@@ -15,6 +15,18 @@ sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "20
 For cars, efficiency is how far they go per unit of fuel. The fastest car is not the most efficient. The reasoning is obvious. For humans, the same logic applies, but the wrong measure is used. Society measures human efficiency by speed (how fast did you get it done) when the actual measure of human efficiency is enjoyment.
 
 "Efficiency isn't measured by speed. It's measured in the human condition, it's measured by enjoyment. That we are efficient when we are enjoying ourselves. It means the least amount of effort is necessary. The least amount of fuel is necessary to make something happen." -- Joe Hudson, The Art of Accomplishment
+
+## The Car Analogy in Plain Form
+
+The plainest version Joe uses for the principle, useful for anyone who has not yet seen the structural argument:
+
+"If you have a very fast car and that car takes a lot of gas, you would not call that an efficient car. If you have a car that doesn't take a lot of gas, you would call that an efficient car. And yet somehow we confuse speed with efficiency in business, meaning the faster we are in business, the more efficient we are in business. The faster we are at making art, the more efficient we are at making art. But that's only taking time into account." -- Joe Hudson, How To Enjoy Your Work
+
+The argument: speed-as-efficiency only accounts for time. Time is only one input. The other input is energy — the passion the person has for the work, the fuel they are spending to do it. A measure that ignores energy is not a measure of efficiency. It is a measure of speed pretending to be efficiency.
+
+"If you take your energy, if you take the stuff that actually drives you day to day, the amount of passion that you have for something, the best measure for efficiency is enjoyment. So if you enjoy what you're doing, you have more and more energy to do stuff. It took you less and less energy to get it done. If you have no enjoyment in what you're doing, then it takes a tremendous amount of energy to get anything done, and that's extremely inefficient." -- Joe Hudson, How To Enjoy Your Work
+
+The reframe: enjoyment is not a metric you optimize alongside efficiency. Enjoyment is the metric, because enjoyment is the per-unit-of-energy reading.
 
 ## The Reasoning
 
@@ -112,3 +124,4 @@ Enjoyment-as-measure works because enjoyment correlates with operating at the ri
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2024-03-15_Joy (the Silicon Valley multitasking-meeting example; the slow-is-smooth-is-fast Navy SEAL framing; the joy-as-KPI thought experiment and the diagnostic value of teams resisting it; the structural reason joy is not measured -- because most people believe joy has to be earned)
 - 2024-03-15_Joy - Emotion Series #15 (re-cut of the same March 15 2024 Joy conversation as part of the Emotion Series; identical Silicon Valley meeting example, slow-is-smooth-is-fast framing, and joy-as-KPI thought experiment)
+- 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the clean car-gas analogy delivered in plain form for a wide audience; the explicit naming of "energy" as the input the speed-based metric ignores; the corollary that enjoyment lets you do more with less energy while un-enjoyment is extremely inefficient because it requires tremendous energy to produce anything)

@@ -5,7 +5,7 @@ title: "Athletes Unlocking Body Intelligence in Business (the Click)"
 aliases: ["athletes unlocking body intelligence", "athletes accessing body intelligence in business", "the click moment for athlete CEOs", "former-athlete CEO pattern", "the athlete coaching pattern", "body intelligence transfer from sport to business", "the on-the-field to in-the-boardroom click", "athletic body intelligence at work", "the superpower unlock for athletes in business", "former athletes coaching pattern"]
 tags: ["pattern", "coaching", "athletes", "body-intelligence", "business", "leadership", "embodiment", "head-heart-gut"]
 related: ["head-heart-gut", "staying-in-your-body", "fear-vs-excitement", "embracing-vs-creating-intensity", "feel-over-figure", "body-awareness-in-meetings", "aaron-wife-fumble-coaching", "visualize-the-felt-aftermath", "decisions-are-emotional"]
-sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom"]
+sources: ["2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom", "2024-09-06_How Do I Feel My Body?"]
 ---
 
 # Athletes Unlocking Body Intelligence in Business (the Click)
@@ -86,6 +86,31 @@ The pattern is most visible in athletes because of the strong contrast between t
 
 The coaching move is the same: name the intelligence, name its availability, support the transfer. The "superpower unlock" report is similar across these groups, not just for athletes.
 
+## The Pattern Applied to Felt-Sense Access, Not Just Business
+
+A specific extension of the pattern: the same body intelligence that runs an athlete's sport is also what a person uses to feel their emotions, feel their body, and notice the inner state at all. When an athlete reports they cannot feel their emotions or their body, the pattern operates in a tighter form than the business version: the very intelligence the person uses every day in their sport is what they are saying they don't have.
+
+The coaching move in this version is captured in [[use-domain-of-mastery-as-template-for-body-intelligence]]. The form: name the felt difference between in-flow and not-in-flow in the sport, name that the in-flow state IS body intelligence, ask the person to do that internal move in the conversation now. The transfer is from the field into the chair, not from the field into the boardroom.
+
+A live example: a tennis coach reported he couldn't feel his body — "everything seemed to be kind of from a heady space, and I feel nothing." After Joe ran the [[attention-is-feeling]] sequence to rebuild the operational definition of feeling, the transfer happened through tennis:
+
+"If you can play tennis, you definitely can feel your body, or you wouldn't be able to play tennis. The state you get into when you're in flow — like, you're in your body, right, in that state. So just do that, but just be doing it while we're sitting here, not playing tennis." -- Joe Hudson, How Do I Feel My Body?
+
+The tennis coach briefly entered the state during the conversation. Joe named it ("you just did it. It was like you were in that flow state in your talk"). The recognition was the same recognition Aaron Taylor had after his 14 years of broadcasting without access: the intelligence was always available; the field's call to use it was missing.
+
+The closing image of the session — "you're playing tennis in life" — is the compressed pattern. The athletic body intelligence transfers into the conversation, the relationship, the meeting, the moment of stillness. The same instrument. Different context.
+
+## Variants Across Domains
+
+The pattern applies to any developed body-intelligence practice, and the coaching move adapts. The mastery domain need not be a sport.
+
+- **Tennis coach who couldn't feel his body:** flow state on the court as the template for body intelligence in life (How Do I Feel My Body?).
+- **Former NFL player turned broadcaster:** body intelligence on the field as the template for connection during the broadcast (Aaron Taylor's coaching with Joe).
+- **CEO who was an athlete:** body metaphors in coaching because the somatic vocabulary already exists.
+- **Musician, dancer, surgeon, craftsperson:** the felt sense that runs the performance, the dance, the operation, the craft is the same felt sense the person can use anywhere else.
+
+The structural move in each case: name the in-flow state in the domain, name that the in-flow state IS body intelligence, ask the person to do that internal move in the current context. The domain shifts; the structural move does not.
+
 ## Upstream (What Leads Here)
 
 - A former athlete is in coaching and describes business challenges in cognitive-only terms.
@@ -113,3 +138,4 @@ The tone matters because the pattern can land as condescension if delivered as "
 
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
 - 2022-10-26_Aaron Taylor's Journey To Emotional Freedom
+- 2024-09-06_How Do I Feel My Body? — the pattern extended from athlete-in-business to athlete-in-felt-sense; the tennis coach whose sport mastery was used as the template for body intelligence in life; the sequence that paired [[attention-is-feeling]] (rebuild the operational definition) with [[use-domain-of-mastery-as-template-for-body-intelligence]] (transfer the felt-sense from the field into the conversation); the closing "playing tennis in life" image as the compressed form of the pattern

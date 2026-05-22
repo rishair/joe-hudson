@@ -5,7 +5,7 @@ title: "Name the Authority Figure's Fear (From Below)"
 aliases: ["I can tell you're scared", "name the boss's fear", "calling the yelling leader's fear", "naming fear up the chain", "tell the angry authority they're scared", "diagnose the leader's fear", "you're scared isn't useful", "subordinate truth-bomb"]
 tags: ["leadership", "fear", "vulnerability", "truth", "boss", "anger", "subordinate", "courage"]
 related: ["public-truth-bomb", "welcoming-fear-in-leadership", "anger-as-cover-for-deeper-emotion", "i-freeze-around-authority", "vulnerability-in-the-workplace", "vulnerability", "fear-vs-anxiety", "im-not-an-anxious-person"]
-sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
+sources: ["2022-01-28_Jaime Waydo — Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader", "2022-10-26_Jaime Waydo ｜ Putting My Needs First", "2024-09-13_Authority Issues"]
 ---
 
 # Name the Authority Figure's Fear (From Below)
@@ -69,6 +69,18 @@ Matter-of-fact. The way you would name any obvious thing in the room. Not therap
 
 The filterlessness matters. The move requires the [[rehearsing-conversations]] machinery to be turned off. If you are running 4D chess about how the leader will respond, you cannot make this move cleanly. The move comes from the first thing that arrives in your head when you stop calculating.
 
+## The Confidence Requirement (The Baboon Principle)
+
+A related point Joe makes in Authority Issues: speaking truth upward to an authority figure requires the same quality the baboons in the leadership study respond to — directness and confidence. The same truth delivered scared will not be received.
+
+"If you're scared, if you say the truth to the authority figure and you're scared, they're never going to trust it. Just like you didn't trust the CEO who's acting out of fear in the top of the room. They're looking for the baboon who's walking confidently in that direction. And if you're scared of it, they're not gonna follow." -- Joe Hudson, Authority Issues
+
+This is why the visualization-of-the-worst-case preparation matters so much. The subordinate who has not pre-felt the firing is still operating with fear in the body; the truth they speak carries that fear; the leader reads the fear and discounts the truth. The subordinate who has pre-felt the firing and accepted it is operating from clarity; the truth they speak carries the clarity; the leader reads it and receives it.
+
+The structural insight underneath: in any C-level team around a CEO, there is one person who says the hard truth — and that person is the closest to the CEO, the most trusted, the actual thought partner. The fear that "I'll be fired if I say it" is almost always wrong; the actual outcome of saying it well is becoming the most trusted person in the room.
+
+See [[baboon-leadership-study]] for the underlying mechanism and [[the-four-authority-positions]] for the Position-2 path that this move sits inside.
+
 ## What It Models for the Team
 
 When a subordinate names an authority figure's fear in a clean way, the entire team learns something. They learn that the truth can be spoken upward without destroying the speaker. They learn that the authority figure can be approached as a person, not just as a role. They learn that the unspoken thing can be named.
@@ -94,3 +106,4 @@ This is how cultures shift -- not from policy but from one person doing the thin
 
 - 2022-01-28_Jaime Waydo -- Taking Care of Yourself First, Fearlessly Owning Your Desires, Speaking Your Truth as a Leader
 - 2022-10-26_Jaime Waydo | Putting My Needs First
+- 2024-09-13_Authority Issues (the baboon-principle requirement for delivering truth upward: directness and confidence are what get received; scared truth-telling will not be trusted; the structural fact that every C-level team has one truth-teller and that person is the most trusted; the connection to the Position-2 path in the four-authority-positions)

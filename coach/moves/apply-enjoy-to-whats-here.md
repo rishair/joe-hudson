@@ -88,6 +88,9 @@ Light, curious, playful when possible. The move loses its medicine when delivere
 - [[pulling-the-brakes]]: what often gets revealed when the move is applied.
 - [[how-is-that-not-here-right-now]]: a related move with the same present-tense logic.
 - [[not-sometimes-right-now]]: the broader pattern of bringing experience into the present.
+- [[enjoy-this-just-a-little-bit-more]]: the smallest version of this move, the practice form usable in any moment without prompting.
+- [[lack-of-enjoyment-as-diagnostic]]: the organizational sibling move, applied to work structures rather than to present-moment experience.
+- [[enjoyment-attracts]]: the long-arc consequence of repeated application of this move.
 
 ## Sources
 

@@ -175,6 +175,7 @@ See [[boundaries-expand-as-capacity-grows]] and [[joes-dad-drinking-boundary]].
 
 - When someone asks "how do I set good boundaries?"
 - When someone is caretaking and the resentment is accumulating
+- When [[i-keep-being-resentful]] is the presenting concern and the resentment is sourced in undrawn boundaries (the "I'm resentful that they keep doing X" framing where the move is "and I am going to do Y about it")
 - When someone is in [[i-feel-trapped]] in a relationship or job
 - When someone fears they will lose love if they speak the truth
 - When someone reports their boundaries are being ignored

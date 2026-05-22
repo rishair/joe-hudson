@@ -5,7 +5,7 @@ title: "Teach Teenagers to Be Their Own Authority (Don't Be Their Third)"
 aliases: ["teach teenagers their own authority", "don't be their third", "don't be the third opinion", "teach kids to listen to themselves", "withholding compliments to build self-trust", "the no-praise approach with teens", "parent as not-the-authority for older kids", "teach teens to seek good advice", "raise kids to be their own authority", "parenting older kids vs younger kids", "the authority shift in parenting", "from authority to coach with teenagers"]
 tags: ["parenting", "authority", "teenagers", "self-trust", "praise", "development"]
 related: ["parenting-as-coaching-domain", "parenting-as-real-world-test-of-inner-work", "dont-shame-kids-they-self-shame", "never-rob-pain-or-gold", "the-clients-wisdom-not-the-teachers", "wants-over-shoulds", "inherent-goodness", "esme-step-by-step-project", "joes-no-compliments-daughter", "community-over-teacher"]
-sources: ["2023-05-12_Who Owns Your Authority?"]
+sources: ["2023-05-12_Who Owns Your Authority?", "2024-09-13_Authority Issues"]
 ---
 
 # Teach Teenagers to Be Their Own Authority
@@ -82,6 +82,14 @@ The work is often on the parent's letting go of the authority role, while stayin
 
 A complementary topic: an adult who reports having had no internal compass growing up, who is now working in their 30s or 40s to learn to listen to themselves. Often the story includes parents who continued to be the authority too long, or whose praise/disapproval shaped the child's choices into adulthood. The healing work has structural parallels to the work Joe is doing as a parent — installing the internal authority that did not get to develop earlier.
 
+The other shape this can take in adulthood: an authority issue installed by a dysfunctional childhood authority figure that the person did not get past. Joe's own arc is one version. His relationship with his father was non-functional, and the consequence was an internal authority issue that he ran across all of life:
+
+"That relationship was not functional at all. So I went through life not trusting any authority. The idea of having mentorship, I couldn't even conceive of it until I was well into my 30s that somebody would mentor me. So I lost that. With teachers, I just didn't trust any teacher. I could read the book, but I wouldn't actually go and hang out with any kind of spiritual teacher because I couldn't trust them." -- Joe Hudson, Authority Issues
+
+The cost in Joe's case was decades of inaccessibility to mentorship, decades of reinventing wheels, and a near-miss with one of his most important teachers (see [[joe-and-adyashanti-rebellion]]). The benefit was the experimental capacity that built this work. The point is that the cost and the benefit both compound from the same imprint, and the parenting work is partly about choosing what to install knowing both will come.
+
+This is also why the teenager-version of the work matters so much. A teenager who is helped to install their own internal authority — neither rebelling against parental authority nor capitulating to it — is a teenager who arrives at adulthood with the capacity to engage authorities (teachers, mentors, bosses, partners) as humans rather than as figures the rebellion or approval-seeking patterns automatically activate around. See [[authority-issues]] and [[the-four-authority-positions]] for the adult patterns this parenting work is upstream of.
+
 ## When Someone Experiences This
 
 - A parent realizing their teenager seems to constantly check with them before any decision
@@ -119,3 +127,4 @@ Joe describes this with the warmth of a parent who has experimented, made mistak
 ## Sources
 
 - 2023-05-12_Who Owns Your Authority?
+- 2024-09-13_Authority Issues (Joe's own arc as the adult version of the cost of the imprint not being addressed in childhood; the explicit cost-benefit of his rebellion-pattern; the connection to the broader four-authority-positions framework that this parenting work is upstream of; the Adyashanti near-miss as the concrete cost example)

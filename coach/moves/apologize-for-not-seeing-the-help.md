@@ -5,7 +5,7 @@ title: "Apologize to Your Team for Not Seeing the Help They Have Been Giving"
 aliases: ["the lonely-CEO apology", "apologize for not recognizing the support", "apologize to your team for not seeing them", "the vulnerable CEO move", "apologize for missing the help", "apologize for treating them as not-enough", "look around then apologize move", "you're not alone now move", "the CEO loneliness apology", "the resourcefulness apology"]
 tags: ["leadership", "apology", "vulnerability", "CEO", "loneliness", "moves", "abandonment", "team"]
 related: ["i-have-to-do-it-all-myself", "vulnerability-in-the-workplace", "welcoming-fear-in-leadership", "upright-apology", "apologize-for-trying-to-control", "vulnerability", "helplessness-is-the-gateway", "reclaiming-abandonment", "trauma-mapping", "fear-as-signal-of-care", "connection-doesnt-require-the-other"]
-sources: ["2022-10-26_Connection Over Perfection"]
+sources: ["2022-10-26_Connection Over Perfection", "2024-09-13_Authority Issues"]
 ---
 
 # Apologize to Your Team for Not Seeing the Help They Have Been Giving
@@ -89,6 +89,10 @@ The cleanest version is often quiet. The leader who is loud in the apology is of
 
 **Not a substitute for the underlying work.** The imprint that produced the loneliness usually traces to childhood. See [[reclaiming-abandonment]] and [[trauma-mapping]]. The move releases the present-tense expression. The deeper work addresses the source.
 
+## The Companion Move: Ask With Specifics
+
+The apology addresses the backward-facing half of the lonely-leader pattern — recognizing what the team has been bringing. It pairs with the forward-facing companion move [[ask-for-help-with-specifics]], which addresses how the leader asks for help going forward. The lonely-leader pattern produces both halves: not seeing what is being given (backward-facing) and asking for help in ways that ensure it will not arrive (forward-facing). The apology releases the first half; the specific-ask releases the second. Many leaders need both moves to fully exit Position 4 of [[the-four-authority-positions]].
+
 ## Boundary Conditions
 
 The apology only lands if the team has, in fact, been trying. If the team genuinely is checked out, neglecting the work, or actively undermining the leader, the move is the wrong move and lands as denial. The diagnostic question for the coach: is the leader's loneliness story accurate to the current team, or is it the old story playing on the new tape?
@@ -124,3 +128,4 @@ Compressed exchange from the closing of a coaching conversation about CEO loneli
 ## Sources
 
 - 2022-10-26_Connection Over Perfection
+- 2024-09-13_Authority Issues (the move situated as Position-4 work in the four-authority-positions structure; the pairing with ask-for-help-with-specifics as the forward-facing companion; the larger frame of bidirectional projection between leader and team that the apology helps interrupt)

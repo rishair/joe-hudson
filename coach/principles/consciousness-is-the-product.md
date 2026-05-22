@@ -4,8 +4,8 @@ id: consciousness-is-the-product
 title: "Consciousness Is the Product"
 aliases: ["your consciousness is what is consumed", "the real product is your state", "consciousness becomes the product", "how you make it is what gets made"]
 tags: ["consciousness", "product", "business", "state", "authenticity", "principle"]
-related: ["art-of-accomplishment", "enjoyment-as-path", "enjoy-over-manage", "vulnerability-in-the-workplace", "connection-over-perfection", "marketing-as-the-beginning", "become-unnecessary", "business-as-spiritual-practice"]
-sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses"]
+related: ["art-of-accomplishment", "enjoyment-as-path", "enjoy-over-manage", "vulnerability-in-the-workplace", "connection-over-perfection", "marketing-as-the-beginning", "become-unnecessary", "business-as-spiritual-practice", "lack-of-enjoyment-as-diagnostic", "enjoyment-attracts", "authenticity-in-business"]
+sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2021-06-04_The Business Behind our Courses", "2022-10-26_The Art of Accomplishment", "2022-10-26_The Business Behind Our Courses", "2024-09-12_How To Enjoy Your Work (And Get More Done!)"]
 ---
 
 # Consciousness Is the Product
@@ -47,6 +47,14 @@ The artist who masters the art masters the practical execution. The business per
 When you encounter a product that feels rushed, that is the consciousness of the people who made it. When a meal feels prepared with care, that is the cook's state in your mouth. When a website feels frenetic and confusing, that is the team's state on your screen.
 
 In your own work: notice what you transmit when you are anxious versus when you are at ease. Your customers, users, and audience are receiving that signal regardless of the technical quality of the deliverable.
+
+## The Plain-Form Statement
+
+The principle as Joe states it for a general audience in the work-and-enjoyment teaching:
+
+"Enjoyment doesn't only come from what you're doing, but how you're doing it. Oftentimes people think that they're gonna get to enjoyment by making sure everything that they do in the day is enjoyable. There's truth to that, but it's not the whole truth. The other part of the truth is that how you do things can create a tremendous amount of enjoyment. And more importantly than that, if you do things in a way that you really enjoy, you start attracting the things that you really enjoy into your life." -- Joe Hudson, How To Enjoy Your Work
+
+The same principle generalized: how you do things determines the quality of what you produce and the quality of what you attract. The how is the controllable variable; the what is the deliverable. The deliverable inherits the consciousness of the how. The attraction effect — see [[enjoyment-attracts]] — is the long-arc consequence of the same mechanism.
 
 ## The Marketing Extension
 
@@ -91,3 +99,4 @@ Matter-of-fact. Joe states this as a structural truth, not a possibility. He is 
 - 2021-06-04_The Business Behind our Courses
 - 2022-10-26_The Art of Accomplishment (rebroadcast of the 2021-02-13 master class)
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
+- 2024-09-12_How To Enjoy Your Work (And Get More Done!) (the plain-form statement of the principle for a general audience; the explicit "how you do things creates enjoyment" framing; the attraction corollary "if you do things in a way that you really enjoy, you start attracting the things that you really enjoy into your life"; the marketing case showing un-enjoyed work transmitting its un-enjoyment to customers)

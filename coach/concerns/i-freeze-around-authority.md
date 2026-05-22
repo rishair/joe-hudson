@@ -4,7 +4,7 @@ id: i-freeze-around-authority
 title: "I freeze around authority figures"
 aliases: ["I freeze around my boss", "authority figures shut me down", "I can't be myself around my boss", "I freeze around men like my father", "I shut down with authority", "they remind me of my father", "I either want to fight or roll over"]
 tags: ["authority", "father", "mother", "workplace", "projection", "freeze", "fight-or-flight"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Father Figures And Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Father Figures And Authority (Coaching Session)", "2024-09-13_Authority Issues"]
 ---
 
 # I freeze around authority figures
@@ -81,8 +81,18 @@ When the freeze is showing up around a boss specifically, the structural reframe
 - [[i-feel-trapped]]: the disempowerment under the freeze
 - [[i-should-be-doing-this]]: the should-energy that often co-occurs in the workplace context
 
+## Where This Sits in the Authority-Issues Framework
+
+This concern is the freeze-flavored expression of Position 1 (the Rebel) or Position 2 (the Approval-Seeker) of [[the-four-authority-positions]]. The freeze itself is a body response that often contains both — the rebellion ("I won't engage") and the submission ("I dare not engage"), held in suspension. The work eventually has to identify which position is actually operating in this specific person, because the coaching paths differ:
+
+- If the freeze is the rebel-pattern frozen ("I am refusing to play"), the move is toward [[wants-over-shoulds]] and reclaiming the want underneath the refusal.
+- If the freeze is the approval-seeker-pattern frozen ("I dare not say what I see"), the move is toward speaking the truth without fear (see [[name-the-authoritys-fear]]).
+
+See [[authority-issues]] for the broader concept and [[the-four-authority-positions]] for the structural map.
+
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2021-08-13_Seeing Through Family Dynamics
 - 2022-10-26_Father Figures And Authority (Coaching Session)
+- 2024-09-13_Authority Issues (the freeze-concern situated within the four-authority-positions framework; the diagnostic question of which position is actually operating; the broader authority-issues concept as the umbrella under which this concern sits)

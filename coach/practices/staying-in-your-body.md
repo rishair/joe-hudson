@@ -5,7 +5,7 @@ title: "Staying in Your Body"
 aliases: ["body awareness in conversation", "put attention in your body", "grounding in the body", "feel the bottom of your feet", "being in your body", "speak from the body", "listen from the body", "speak from the silence", "attention in the body"]
 tags: ["empathy", "body", "grounding", "presence", "practice", "flow state"]
 related: ["empathy", "losing-yourself-in-others", "is-this-mine", "emotions-live-in-muscles", "head-heart-gut", "body-lies-as-much-as-mind", "embrace-intensity", "sensitivity-as-byproduct", "body-awareness-in-meetings", "listening", "opposite-of-trying"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-01-07_How Your Body Speaks", "2022-10-26_Empathy", "2022-10-26_How Your Body Speaks", "2024-03-29_Listening"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-01-07_How Your Body Speaks", "2022-10-26_Empathy", "2022-10-26_How Your Body Speaks", "2024-03-29_Listening", "2024-09-06_How Do I Feel My Body?"]
 ---
 
 # Staying in Your Body
@@ -31,6 +31,16 @@ This single move serves several functions that look distinct but are mechanicall
 Emotions are physical. They live in muscles. Losing yourself in another person is a muscular event: the body locks into their emotional pattern and loses its own. Keeping attention on your own body prevents this takeover. It handles 70-80% of the problem of empathic overwhelm.
 
 "To be empathetic in a successful way is to maintain a certain amount of your awareness in your own body." -- Joe Hudson, Empathy
+
+## Attention IS Feeling (The Operational Definition)
+
+The practice depends on an operational definition of feeling that most head-dominant people do not start with. The definition: attention on a body location IS feeling that location. There is no separate step where attention produces a felt response. The attention is the felt response.
+
+For a person who reports they cannot feel their body, this definition often arrives as a surprise. They have been holding a higher-threshold definition — feeling means a dramatic somatic event, a clear emotion, a sensation that announces itself. Most felt experience is below that threshold. The operational definition reduces the threshold to attention itself.
+
+The fastest way to install the operational definition is the Socratic sequence captured in [[attention-is-feeling]]: hum, feel the vibration in the throat, stop humming and keep feeling the place, where's your right pinky, if you're attending to it isn't that feeling? By the end of the sequence, the person has stated the operational definition in their own words: "If I'm focusing on feeling my right pinky, I'll feel my right pinky." Once that definition is in place, the broader practice (keep some portion of attention in the body throughout the day) becomes immediately accessible. Without the operational definition, the practice instruction reads as "produce a body feeling," which is the harder, slower, and often impossible request.
+
+The vocal cord variant of the install is worth practicing on its own. Hum for a few seconds, feel the vibration. Stop humming, keep feeling the place. Repeat ten times in a row. The repetition trains the wire from attention to felt-sense. Once the wire is established, attention-on-anywhere produces feeling-of-anywhere with no extra step.
 
 ## What It Prevents: Losing Yourself
 
@@ -141,3 +151,4 @@ When transitioning between emotionally intense interactions:
 - 2020-11-06_Empathy -- Connection Course Series #4
 - 2022-01-07_How Your Body Speaks
 - 2022-10-26_How Your Body Speaks (rebroadcast of the 2022-01-07 conversation)
+- 2024-09-06_How Do I Feel My Body? — the attention-is-feeling Socratic sequence as the install path for the practice when the standard body-scan instruction returns zeros; the vocal-cord variant (hum, feel the vibration, stop humming, keep feeling the place) as a stand-alone training move for the attention-to-felt-sense wire; the closing image "playing tennis in life" as the lived experience of attention-in-body as one's default operating mode in any context

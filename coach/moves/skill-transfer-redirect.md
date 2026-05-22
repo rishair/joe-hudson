@@ -4,7 +4,7 @@ id: skill-transfer-redirect
 title: "Skill-Transfer Redirect (You Already Know How to Do This — Same Principles)"
 aliases: ["skill transfer redirect", "you already know how to do this", "same principles", "if you can do X you can do Y", "the same skill move", "the skill-transfer redirect", "you teach this you can do this", "you know how to do this you just haven't applied it to yourself", "the I-already-know-how-to-do-it reframe", "transfer the skill from the domain you've mastered to the domain you're stuck in", "the marketing-is-just-public-speaking move", "the coach-who-can't-coach-themselves redirect", "the teacher-who-doesn't-do-what-they-teach redirect", "the apply-what-you-teach move", "the it's-the-same-principles redirect", "you know how to market yourself because you know how to do public speaking", "if you can do the work in domain A you can do it in domain B", "the cross-domain skill application", "the you've-already-mastered-this move"]
 tags: ["moves", "limiting-belief", "self-efficacy", "marketing", "skills", "reframe", "coaching"]
-sources: ["2024-05-06_How Do I Make Money Doing What I Love？"]
+sources: ["2024-05-06_How Do I Make Money Doing What I Love？", "2024-09-06_How Do I Feel My Body?"]
 ---
 
 # Skill-Transfer Redirect
@@ -93,6 +93,16 @@ When the client says "that's embarrassing," Joe's "it's human" lands soft. The s
 - **Do not lecture.** The "it's the same principles" sentence does the work. Long explanations of how the principles map dilute the recognition.
 - **Do not respond to "that's embarrassing" with sympathy or further explanation.** "It's human" is enough. Sympathy validates the shame frame; explanation gives the embarrassment more to chew on. The brevity is the soothing.
 
+## The Body-Intelligence Variant: Transfer the Felt Sense From the Mastery Domain Into Life
+
+A specific variant of the move applies when the inability claim is not about a business skill but about felt-sense access. The client says they cannot feel their body or their emotions. They also have a domain of mastery in which body intelligence is operational and visible — sport, music, art, surgery, craft. The structural form of the move is identical: the client demonstrably has the capacity in another context, so the inability claim in this context cannot stand.
+
+See [[use-domain-of-mastery-as-template-for-body-intelligence]] for the dedicated article. The form: surface the felt difference between in-flow and not-in-flow in the mastery domain, name that the in-flow state IS body intelligence, ask the client to do the same internal move in the current context. "If you can play tennis, you definitely can feel your body, or you wouldn't be able to play tennis. The state you get into when you're in flow — like, you're in your body, right, in that state. So just do that, but just be doing it while we're sitting here, not playing tennis." -- Joe Hudson, How Do I Feel My Body?
+
+The body-intelligence variant differs from the marketing-variant in one key respect: the mastery domain does not have to teach the same content as the blocked domain. A tennis coach is not teaching emotional access. But the felt-sense the tennis coach uses to play tennis IS emotional access in a different application. The transfer is at the level of the underlying capacity, not at the level of the surface content.
+
+The variant is the entry point for the [[athletes-unlocking-body-intelligence-in-business]] pattern more broadly. Athletes, musicians, dancers, surgeons — anyone whose work is mediated by developed somatic intelligence — has the capacity available for transfer into any other context. The coaching work is to surface its availability.
+
 ## Variations
 
 The move adapts to many domains where the client teaches what they cannot apply:
@@ -108,3 +118,4 @@ The same move also runs in non-coaching domains: the leader who teaches feedback
 ## Sources
 
 - 2024-05-06_How Do I Make Money Doing What I Love? — "I bet you teach those things in your public speaking" / "If you know how to do public speaking, you know how to market yourself. It's the same principles" / "Yeah, that's embarrassing" / "It's human"
+- 2024-09-06_How Do I Feel My Body? — the body-intelligence variant of the move: the tennis coach who couldn't feel his body, whose sport mastery was used as the template for felt-sense in life; "If you can play tennis, you definitely can feel your body, or you wouldn't be able to play tennis. So just do that, but just be doing it while we're sitting here, not playing tennis"; the structural form (the mastery domain has the capacity already developed; the work is transfer, not acquisition) extended to body access

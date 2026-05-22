@@ -5,7 +5,7 @@ title: "Welcoming Fear in Leadership"
 aliases: ["welcoming fear at work", "leader's relationship to fear", "fear in teams", "permissioning fear", "naming fear with the team", "CEO fear", "welcoming team fear", "fear and team trust", "leader doesn't have to keep it all together", "saying I'm scared at work", "the CEO patterns visible at the exit point", "fear-response patterns in leadership", "the anger CEO the helpless CEO the determined CEO"]
 tags: ["leadership", "fear", "teams", "vulnerability", "business", "CEO", "trust", "application"]
 related: ["fear-as-signal-of-care", "dont-step-on-the-signal", "vulnerability-in-the-workplace", "welcoming-the-others-emotion", "im-not-an-anxious-person", "disassociation-as-numbness-layer", "fear-vs-anxiety", "vulnerability", "public-truth-bomb", "anxiety-as-unarticulated-need", "public-failure-as-leadership-modeling", "trace-emotion-to-its-first-felt", "fear-hot-potato", "welcoming-fear-as-group-stabilizer", "read-anger-and-help-as-fear"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2024-02-02_A Workshop for Welcoming Fear"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-10-15_Ant Taylor on Embracing Emotions", "2022-10-26_Ant Taylor On Embracing Emotions", "2022-10-26_Brett Kistler On Welcoming Fear", "2024-02-02_A Workshop for Welcoming Fear", "2024-09-13_Authority Issues"]
 ---
 
 # Welcoming Fear in Leadership
@@ -175,6 +175,30 @@ Brett's summary of what he would hand a CEO as the most useful gift:
 
 The "that" he is referring to is the participant who had a giggle fit about no longer needing to take so seriously what people think of them. The most valuable thing a CEO can metabolize is often not the executional capacity but the freedom from the audience-anxiety that distorts every decision.
 
+## The Public Talk Failure Mode (The Founder Defending the Product)
+
+A specific high-visibility instance of the suppression pattern: a founder gives a public talk about their product. Critical questions arrive from the audience. The founder defends.
+
+The defending sequence:
+- The questioner asks about an aspect of the product or approach.
+- The founder hears the question as an attack on the product they have worked on for years.
+- The founder responds with defense: justifying the choices, explaining why the questioner is missing context, asserting that the approach is correct.
+- The more the founder defends, the more the room reads the founder as scared.
+- The room loses trust in the founder's actual confidence (because the visible defendedness signals the opposite).
+- The product's reputation in the room degrades, even when the product is good.
+
+The defending move is usually one of the [[fear-triangle]] responses to the felt threat. Collapse looks like apologetic over-conceding ("you're right, our product probably does suck after all the years I put in"); freeze looks like rigid restatement of prepared talking points; the bully version looks like sharpness back at the questioner. All three lose the room and confirm the underlying fear was warranted.
+
+The alternative — the welcoming-fear move applied to public talks:
+
+"That's some really cool criticism. Can you tell me more? How would you improve the product? What do you see here?" -- Joe Hudson, Authority Issues (illustrating the open response)
+
+This is not concession; the founder is not agreeing the product is wrong. It is the open-curious response that treats the criticism as containing information. The room reads the founder as confident and open. The product's reputation improves even when the criticism stands.
+
+The structural mechanism is the same one the [[baboon-leadership-study]] illustrates: the room follows the body, not the role. A founder with positional authority who defends with fear loses to a room that is following the body. The same founder who responds with open curiosity holds the room without having to win the argument.
+
+The Position-3 leader (see [[the-four-authority-positions]]) is particularly prone to this failure mode in public talks. They are uncertain about whether they have the right to claim authority over their own product, so defensive certainty is the only stance they can find. The work is the same as for any [[welcoming-fear-in-leadership]] application: feel the fear, name it if useful, respond from openness rather than from defendedness.
+
 ## The Fear Hot Potato in the Team
 
 The leadership application connects directly to [[fear-hot-potato]]. The angry-CEO pattern is a hot-potato throw: the CEO's unfelt fear is being installed in the team through the anger. The team now feels the fear. Some team members throw it back through defensiveness or counter-anger; others absorb it as a chronic carrier role; either way, the team's energy goes into managing the affect rather than into the work.
@@ -217,3 +241,4 @@ When a leader makes this shift, the person-level changes show up first:
 - 2022-10-26_Ant Taylor On Embracing Emotions (rebroadcast of the 2021-10-15 conversation)
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
 - 2024-02-02_A Workshop for Welcoming Fear (the CEO patterns visible at the exit point: anger, control-loss-in-helplessness, grim-determination, and the leader-who-walks-away; the angry-leader-naming-the-pattern as the post-recognition workplace move)
+- 2024-09-13_Authority Issues (the public-talk failure mode: founder defending product loses the room; the fear-triangle responses (collapse, freeze, bully) all available and all destructive; the open-curious alternative as the welcoming-fear move applied to public-talk Q&A; the connection to the baboon study and how the room follows the body not the role)

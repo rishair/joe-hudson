@@ -4,7 +4,7 @@ id: how-do-i-stop-seeking-approval
 title: "How do I stop seeking approval / I care too much what other people think of me"
 aliases: ["how do I stop seeking approval", "how do I stop chasing approval", "I want to stop needing approval", "I care too much what people think", "I care too much what other people think", "I keep seeking approval", "I'm a chronic approval seeker", "I'm always trying to be liked", "I need them to like me", "I'm always trying to get people's approval", "I'm always trying to be the good one", "I want everybody to like me", "I want to be liked by everyone", "I keep looking for approval", "I'm a people pleaser", "I'm always seeking validation", "the approval-seeking concern", "the people-pleasing concern", "I'm always wondering what they think of me", "I'm always worried about what they think", "I can't stop monitoring how I'm landing", "I want to know they approve", "I need their approval before I can move", "I keep waiting for someone to tell me I'm okay", "I keep performing for approval"]
 tags: ["approval", "people-pleasing", "external-validation", "self-abandonment", "shame", "concern"]
-sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free"]
+sources: ["2024-08-12_STOP Chasing Approval — Here's How To Get Free", "2024-09-13_Authority Issues"]
 ---
 
 # How do I stop seeking approval / I care too much what other people think of me
@@ -92,6 +92,18 @@ A typical flow when this concern surfaces:
 - If the concern arrives via scorecards: the move is often through [[i-need-a-scorecard]] — the chase for likes/status/recognition is the approval engine externalized.
 - If the concern is framed via confidence: the move is often through [[confidence-only-where-approval-isnt-needed]].
 
+## The Approval-Seeking-Toward-Authority Variant
+
+A specific intensification of this concern: when the approval-seeking is directed at an authority figure (boss, mentor, parent, spiritual teacher), the dynamic acquires the additional features described in [[authority-issues]] and Position 2 of [[the-four-authority-positions]]. The approval-seeker organizes their behavior to earn the authority's approval and over time becomes resentful — because they have been sacrificing parts of themselves to get it.
+
+The specific move that dissolves this variant fastest:
+
+"The best thing to do if you really want to dissolve that quickly is to say things that you think the authority figure doesn't want to hear from you that you think are really valuable and just say those, start small and then get bigger." -- Joe Hudson, Authority Issues
+
+The structural insight: in every C-level team around a CEO, there is one person who says the hard truth — and that person is the closest to the CEO and the one most trusted. The fear of speaking the truth is almost always wrong. The truth-teller becomes the thought partner, not the fired person.
+
+The qualifier: the truth has to be delivered from confidence, not from fear. A scared truth-teller will not be received. See [[name-the-authoritys-fear]] for the move and [[baboon-leadership-study]] for the underlying principle about why directness gets received and uncertainty does not.
+
 ## What This Concern Is Not
 
 - It is not [[i-caretake-people]] — the caretaking is one strategy for getting approval, but the concern is more general. Caretaking is a behavior; approval-seeking is the underlying engine.
@@ -102,3 +114,4 @@ A typical flow when this concern surfaces:
 ## Sources
 
 - 2024-08-12_STOP Chasing Approval -- Here's How To Get Free (the source teaching with the three moves: see the push-away, let compliments all the way in, feel the emotion underneath thinking someone is better/worse than you)
+- 2024-09-13_Authority Issues (the approval-seeking-toward-authority variant: the resentment that builds when sacrificing self to authority for approval; the say-the-hard-truth move as the fastest dissolver; the structural insight about the truth-teller being the most trusted person in any C-level team; the confidence requirement for delivery)

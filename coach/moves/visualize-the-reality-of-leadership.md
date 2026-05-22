@@ -2,10 +2,10 @@
 type: move
 id: visualize-the-reality-of-leadership
 title: "Visualize the Reality of Being a Leader (To Move From Power to Empowerment)"
-aliases: ["visualize the reality of leadership", "the leadership reality visualization", "feel into being a leader", "the empower-over-power visualization", "name the unwanted reality of being a leader", "the more conversations happen about you visualization", "the leader visualization move", "people-are-pleasing-you visualization", "the people-want-to-please-you-and-rebel-against-you exercise", "the leadership truth visualization", "feel-it visualization for leaders", "the leadership social reality visualization"]
-tags: ["leadership", "empowerment", "power", "visualization", "executive coaching", "business", "move"]
-related: ["empowered-vs-power", "business-as-spiritual-practice", "tell-them-like-an-asshole", "leaders-wants-are-the-organizations-wants", "state-the-want-not-the-action", "dont-reflect-your-patterns-as-culture", "downward-spiral-between-teacher-and-students"]
-sources: ["2023-08-18_Business as a Spiritual Practice"]
+aliases: ["visualize the reality of leadership", "the leadership reality visualization", "feel into being a leader", "the empower-over-power visualization", "name the unwanted reality of being a leader", "the more conversations happen about you visualization", "the leader visualization move", "people-are-pleasing-you visualization", "the people-want-to-please-you-and-rebel-against-you exercise", "the leadership truth visualization", "feel-it visualization for leaders", "the leadership social reality visualization", "the executive cohort visualization", "the asshole-kissing-and-attacking-for-no-reason visualization", "feeling the social field of authority"]
+tags: ["leadership", "empowerment", "power", "visualization", "executive coaching", "business", "move", "authority"]
+related: ["empowered-vs-power", "business-as-spiritual-practice", "tell-them-like-an-asshole", "leaders-wants-are-the-organizations-wants", "state-the-want-not-the-action", "dont-reflect-your-patterns-as-culture", "downward-spiral-between-teacher-and-students", "authority-issues", "the-four-authority-positions", "spit-at-the-top-is-a-waterfall-at-the-bottom", "i-have-to-do-it-all-myself", "ask-for-help-with-specifics"]
+sources: ["2023-08-18_Business as a Spiritual Practice", "2024-09-13_Authority Issues"]
 ---
 
 # Visualize the Reality of Being a Leader
@@ -23,7 +23,20 @@ The specific realities to name:
 - People are passive-aggressive to you in ways they are not to other teammates.
 - More conversations happen about you than about any other person on the team.
 
+The Authority Issues conversation expands this list with the more concentrated executive-cohort version Joe runs in his MasterClass. Each item is meant to be felt, not analyzed:
+
+- You walk into a room and everybody notices you are there.
+- A few people are sitting there with a flash of "fuck you" in their face just because you are the authority.
+- A few people are wondering if you noticed them, hoping you did, dressing for it.
+- People are saying specific things to you to make you feel good — kissing your ass.
+- Other people are attacking you for no reason at all just because you are the authority.
+- Everybody is showing you a curated piece of themselves; nobody is showing you their full self.
+- Everybody wants to be of value to you. Everybody wants to be seen by you.
+- People you have never met have strong opinions about who you are.
+
 Ask the leader to allow each of these into their system as a felt experience. Not to think about whether each one is true. To feel it as if it is.
+
+"It's amazing the reaction. And it's amazing what happens when you do that as an authority figure, like how you walk into a company differently when you actually can see the reality on the ground and allow yourself to feel it rather than try to avoid it." -- Joe Hudson, Authority Issues
 
 ## What This Is For
 
@@ -72,6 +85,15 @@ This is also not the only place this move appears. The [[downward-spiral-between
 
 Direct. Slightly knowing. Joe walks leaders into this with the awareness that they will not have wanted to see it and that seeing it is what unlocks the next phase of their work. There is no apology in the delivery. The reality is the reality. The move is to let them feel it.
 
+## The Underlying Asymmetry the Move Surfaces
+
+A second-order use of this move connects to [[ask-for-help-with-specifics]] and [[apologize-for-not-seeing-the-help]]. Once the leader has felt the social field — the kissing-up, the attacking-for-no-reason, the curated self-presentation of everyone around them — they often recognize for the first time that nobody is complimenting *them*, nobody is offering *them* unconditional recognition, nobody is bringing them bad news cleanly. The loneliness is now legible as a structural consequence of the position rather than as a personal failing or as the team's failure.
+
+This recognition is the substrate for the Position-4 work in [[the-four-authority-positions]]. The leader who has felt the field can then make the specific ask, name the help that has been there, and let the team see them as human. Without the felt recognition first, those moves often skip a step and land thin.
+
+See [[authority-issues]] for the underlying concept and [[spit-at-the-top-is-a-waterfall-at-the-bottom]] for the organizational-scale consequence of the same field.
+
 ## Sources
 
-- 2023-08-18_Business as a Spiritual Practice
+- 2023-08-18_Business as a Spiritual Practice (the move's original formulation, the radical-realization example, the connection to leaders-wants)
+- 2024-09-13_Authority Issues (the expanded MasterClass-cohort version of the visualization with the more concentrated list including kissing-ass and attacking-for-no-reason; the connection to the alone-at-the-top dynamic and the Position-4 work)

@@ -4,7 +4,7 @@ id: redirect-from-doing-it-right-to-enjoying-it
 title: "Redirect From 'How Do I Do This Right' to 'How Do I Enjoy Doing This'"
 aliases: ["redirect from doing it right to enjoying it", "how do I enjoy this task", "stop asking how to do it right ask how to enjoy it", "the right-vs-enjoy flip", "the work productivity flip", "stop trying to do it right", "the enjoy-instead-of-right move", "from perfection to enjoyment", "the right-question redirect", "the doing-it-right anti-pattern", "the perfectionism-to-enjoyment redirect", "the right-into-enjoy redirect for work tasks", "the productivity-through-enjoyment flip", "she became productive when she stopped asking how to do it right", "Joe's employee story"]
 tags: ["move", "enjoyment", "productivity", "perfectionism", "work", "tasks", "doing it right", "right-vs-enjoy", "redirect"]
-related: ["how-would-you-enjoy-x", "apply-enjoy-to-whats-here", "enjoyment-as-path", "perfectionism", "am-i-doing-it-right", "find-the-want-behind-the-should", "impulse-to-should", "raw-ambition-vs-stories-on-ambition"]
+related: ["how-would-you-enjoy-x", "apply-enjoy-to-whats-here", "enjoyment-as-path", "perfectionism", "am-i-doing-it-right", "find-the-want-behind-the-should", "impulse-to-should", "raw-ambition-vs-stories-on-ambition", "lack-of-enjoyment-as-diagnostic", "authenticity-in-business", "consciousness-is-the-product"]
 sources: ["2024-05-24_Q&A #3—Ambition, Narcissistic Parents, Addiction to Stress, Parenting Emotional", "2024-05-24_Q&A #3 — Common Questions, Uncommon Answers"]
 ---
 
@@ -88,6 +88,14 @@ The person's response to the redirect is itself diagnostic.
 This is not "only do work you enjoy." It is not "if it is not fun, do not do it." It is a redirect of the question being asked while doing the work. The same work can be done from the right frame or the enjoy frame. The latter tends to produce more and better.
 
 This is also not "drop your standards." High standards are compatible with the enjoyment frame. The standards are not the issue. The relationship to the standards is the issue. From the right frame, the standards are judges. From the enjoy frame, the standards are part of the craft one is engaged with.
+
+## The Organizational Counterpart
+
+The redirect described above operates at the level of an individual asking themselves the wrong question while doing a task. The organizational counterpart operates at the level of a leader asking the wrong question about the work itself. When a team is grinding through a function and the function is failing, the leader's reflex is to ask "what are we doing wrong?" or "how do we do this right?" The redirect at the organizational level is to ask "what would it take for this team to enjoy doing this?"
+
+The answer surfaces the structural fix to the function, just as the individual redirect surfaces the personal release into the task. The two moves are siblings. See [[lack-of-enjoyment-as-diagnostic]] for the organizational version. The marketing-plan case there parallels the employee case here: same underlying mechanism, different scale.
+
+The leader who has internalized the individual redirect ("how do I enjoy this?") becomes more able to make the organizational redirect ("how do we structure this so it can be enjoyed?"). The personal practice becomes the leadership capacity.
 
 ## Connection to Ambition
 

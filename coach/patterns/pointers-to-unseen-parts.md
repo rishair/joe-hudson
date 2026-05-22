@@ -5,7 +5,7 @@ title: "Pointers to Unseen Parts (Bragging, Envy, Daydreams, Pushed-Away Complim
 aliases: ["pointers to unseen parts", "what points to disowned parts", "bragging points to wanting to be seen", "envy points to disowned parts", "daydreams point to disallowed parts", "compliments pushed away point to disowned parts", "the four diagnostics for unseen parts", "diagnostic signs of unseen parts", "self-conscious bragging as pointer", "envy as pointer", "daydreams as pointer", "compliments deflected as pointer", "find what wants to be seen diagnostic", "diagnostics for the unowned desire to be seen", "the four pointers", "bragging signal", "envy signal", "daydream signal", "pushed-away compliment signal"]
 tags: ["diagnostic", "shadow", "envy", "bragging", "daydreams", "compliments", "false-front", "wanting", "seen"]
 related: ["the-desire-to-be-seen", "false-front", "see-yourself-and-acknowledge-others", "letting-it-in-vs-deflecting-the-welcome", "let-it-move-through-and-clean-the-channel", "mirror-the-judgment", "the-pulled-back-from-part-is-the-unloveable-part", "love-the-aspect-through-someone-else", "im-judgmental-how-do-i-stop"]
-sources: ["2024-08-16_The Desire To Be Seen with Tara Howley"]
+sources: ["2024-08-16_The Desire To Be Seen with Tara Howley", "2024-09-02_How To Stop Being Resentful"]
 ---
 
 # Pointers to Unseen Parts (Bragging, Envy, Daydreams, Pushed-Away Compliments)
@@ -49,8 +49,11 @@ The coaching move when envy arises:
 - Name the specific quality being envied. The naming surfaces the disowned want.
 - Ask why that quality has not been allowed in this person. The answer usually traces to early shaming.
 - Use [[love-the-aspect-through-someone-else]] to let the disowned quality be loved in the envied person first, as a route into letting it be loved in self.
+- Use [[admire-what-you-crave]] for the operationally simplest version of the same move: have the person feel the admiration that is already underneath the envy, and watch the want it points to come into the open.
 
 The mirror form of this works for judgment too. "I'm judgmental of people who brag" maps to "I have a part that wants to be seen and I have not let it be seen." See [[mirror-the-judgment]] for the related move.
+
+**The resentment form.** Envy in long-term relationships often arrives as resentment. The spouse who resents the other's freedom is in envy form; the sibling who resents the other's success is in envy form; the colleague who resents another's promotion is in envy form. The envy-as-resentment is harder to recognize because the moralized framing ("they don't deserve it" or "it's not fair") covers the underlying envy. The diagnostic remains the same: the resented quality is the disowned want. See [[i-keep-being-resentful]] and [[admire-what-you-crave]] for the direct treatment of the resentment form.
 
 ## Pointer 3: Daydreams
 
@@ -126,3 +129,4 @@ This is also why the coaching for [[im-judgmental-how-do-i-stop]] uses the proje
 ## Sources
 
 - 2024-08-16_The Desire To Be Seen with Tara Howley (the four pointers: bragging, envy, daydreams, compliments pushed away; envy as one of the best diagnostic emotions; daydreams as billboard for disowned capacity; the bidirectional reading of bragging-in-self and judging-bragging-in-others)
+- 2024-09-02_How To Stop Being Resentful (the resentment-form of the envy pointer, where the envy of what another person has presents as resentment about what they have; the marriage example of mutual resentment about what each partner has that the other does not; the admire-what-you-crave move as the operational version of the envy pointer)

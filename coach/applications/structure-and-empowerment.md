@@ -5,7 +5,7 @@ title: "Structure and Empowerment in Organizations"
 aliases: ["structure creates safety", "org design empowerment", "decentralized empowerment", "structure for empowerment", "roles and empowerment"]
 tags: ["leadership", "organization", "empowerment", "structure", "decentralization", "teams"]
 related: ["empowered-vs-power", "principles-free-you", "fear-triangle", "vulnerability-in-the-workplace", "childhood-imprinting", "reframe-boss-as-customer", "become-unnecessary", "politics-from-unclear-standards", "functional-team", "team-as-scientific-method"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-08-13_Seeing Through Family Dynamics", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Empower Over Power", "2022-10-26_Seeing Through Family Dynamics"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-08-13_Seeing Through Family Dynamics", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Empower Over Power", "2022-10-26_Seeing Through Family Dynamics", "2024-09-13_Authority Issues"]
 ---
 
 # Structure and Empowerment in Organizations
@@ -93,6 +93,20 @@ Inside a single person, [[principles-free-you]] is the personal version of this 
 - Toward [[vulnerability-in-the-workplace]]: vulnerability is what allows the structure to actually be lived rather than performed
 - Toward [[empowered-vs-power]]: empowered employees do not need power-over because their roles provide legitimate agency
 
+## The Vacuum Fills With Vying
+
+A specific failure mode the absence-of-structure produces: when authority is not provided by the leader, other people start vying for it. The vying produces chaos. The under-asserting leader's intention (not to be oppressive) produces the opposite of the intended outcome.
+
+"When there's no authority, people start vying for that authority role. If you don't provide it, other people will vie for it, and that creates utter chaos." -- Joe Hudson, Authority Issues
+
+This is most often the rebel-turned-leader failure mode: the leader who built or runs the organization partly to escape oppressive authority and who now cannot inhabit the authority role because they associate it with what was done to them. The under-assertion is not neutral; it is a vacuum that gets filled by something worse than the original authority would have been. See [[if-you-dont-stand-into-authority-others-will-vie-for-it]] for the principle and Position 3 of [[the-four-authority-positions]] for the structural pattern.
+
+The middle path is the same one this article describes: the leader provides structure (process, principles, values, roles) without dictating substance. The team has agency inside a known container. The container is held by the leader. The team is held by the container.
+
+"The middle path for me has been, this is, these are the principles, this is how we operate. This is the structure. This is the process. These are the roles. If you want to change them, I'm open to discussion. But this is how we're doing things so that people feel safe." -- Joe Hudson, Authority Issues
+
+The same dynamic applies in facilitation contexts. If the facilitator does not act as enough of an authority, the room feels unsafe. If they act as too much of an authority, the room also feels unsafe. The balance is the work — provide the container, do not dictate the contents.
+
 ## Clear Performance Standards
 
 A specific structural component: people need to know what determines whether they stay or go. Vague criteria produce a particular kind of dysfunction: people work to please rather than to perform, alignments form around proximity to leadership rather than around contribution to the work, and the company loses the function that clear standards provide.
@@ -110,3 +124,4 @@ Clear standards are part of the structure that produces empowerment. They direct
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-10-26_Empower Over Power (rebroadcast)
 - 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation; the "make the team report to itself" framing)
+- 2024-09-13_Authority Issues (the vacuum-fills-with-vying principle; the rebel-turned-leader failure mode where under-assertion produces chaos; the middle-path framing of structure-without-substance; the facilitation parallel)
