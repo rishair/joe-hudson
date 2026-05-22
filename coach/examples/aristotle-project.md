@@ -4,8 +4,8 @@ id: aristotle-project
 title: "The Aristotle Project (Google's Team-Functionality Study)"
 aliases: ["Aristotle Project", "the Google teams study", "Google's Project Aristotle", "what made Google teams functional", "the Google team study", "teams functional through goal changes", "freedom to express themselves study"]
 tags: ["teams", "research", "expression", "voice", "functionality", "Google", "example"]
-related: ["functional-team", "trust-as-multifaceted", "sublimated-wants-become-politics", "everybody-wants-the-same-kind-of-team", "diagnose-the-meeting-live", "cia-sabotage-manual", "leaders-wants-are-the-organizations-wants"]
-sources: ["2022-10-26_Building A Functional Team"]
+related: ["functional-team", "trust-as-multifaceted", "sublimated-wants-become-politics", "everybody-wants-the-same-kind-of-team", "diagnose-the-meeting-live", "cia-sabotage-manual", "leaders-wants-are-the-organizations-wants", "listening", "listening-shapes-the-reality-that-comes-back", "the-last-to-speak-move", "being-heard"]
+sources: ["2022-10-26_Building A Functional Team", "2024-03-29_Listening"]
 ---
 
 # The Aristotle Project (Google's Team-Functionality Study)
@@ -53,12 +53,21 @@ The Aristotle Project gives external validation to the principle that team funct
 
 The study collapses the objection that expression is a nice-to-have. The largest internal research project at one of the most measurement-driven companies found that expression is the leading indicator of functionality. A leader who continues to ignore it has to argue against Google's own data.
 
+## The Mechanism Underneath Expression: Listening
+
+Joe later names what is being shown by this study. "Everyone expresses themselves" is the surface measurement; the underlying enabler is that people in the team *feel listened to*. People do not speak when they are not heard. They go quiet, or they perform, or they comply. The Aristotle finding is the visible outcome — when listening is present, expression happens; when listening is absent, the team goes silent or performative regardless of the talent in the room.
+
+"More functional teams, less likely to get duped in a deal, more likely to get a deal done... People don't feel heard. People feel pissed off. There's a lot more power struggles. Inefficiency abounds. Everybody's fighting to be heard or decided they can't be heard. You don't get the best ideas." -- Joe Hudson, Listening
+
+This is the operational link to [[listening]] and [[listening-shapes-the-reality-that-comes-back]]: the team's expression is the back-channel response to the team's listening. Change the listening; the expression follows. The leadership-level expression of this is [[the-last-to-speak-move]] — the speaking-order intervention that creates the conditions for the junior voices to enter.
+
 ## When Joe Reaches For It
 
 - A conversation about what makes teams work, where the leader keeps reaching for the wrong variable
 - A discussion of trust that needs grounding in observable behavior (people actually speaking)
 - A leader trying to understand why their otherwise-talented team is underperforming
 - A coaching conversation about whether to invest in team dynamics versus goal-specific changes
+- A conversation about [[listening]] in business that needs concrete grounding in measurable outcomes
 
 ## What This Does Not Argue
 

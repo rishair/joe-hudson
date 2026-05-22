@@ -4,8 +4,8 @@ id: opposite-of-trying
 title: "The Opposite of Trying (Receiving, Allowing, Listening)"
 aliases: ["the opposite of trying", "receiving", "allowing", "listening as the move", "the superpower of not-trying", "the receive", "being a channel", "being a conduit", "what's the receive", "the un-doing", "the opposite of doing is the undoing", "trying as the only option", "we don't see the option of not trying", "the receive in flow"]
 tags: ["receiving", "allowing", "listening", "undoing", "trying", "flow", "core concept", "channel"]
-related: ["undoing-not-doing", "trying-vs-doing", "hands-together-exercise", "letting-go-vs-doing-nothing", "making-vs-allowing", "flow-vs-managing-reality", "enjoy-over-manage", "listening-to-impulse", "ask-from-slowness-not-intellect", "butchers-blade", "feeling-the-unfelt-emotion", "joy-as-matriarch", "peace-is-what-we-resist-the-most", "love-as-deep-welcoming"]
-sources: ["2023-04-14_The Opposite of Trying"]
+related: ["undoing-not-doing", "trying-vs-doing", "hands-together-exercise", "letting-go-vs-doing-nothing", "making-vs-allowing", "flow-vs-managing-reality", "enjoy-over-manage", "listening-to-impulse", "ask-from-slowness-not-intellect", "butchers-blade", "feeling-the-unfelt-emotion", "joy-as-matriarch", "peace-is-what-we-resist-the-most", "love-as-deep-welcoming", "listening", "listening-shapes-the-reality-that-comes-back", "dont-make-listening-a-morality", "the-butler-metaphor", "faithing-faith-as-verb", "cant-remember-what-i-said-in-flow", "wait-for-someone-else-to-say-it", "dont-claim-the-wisdom-as-yours"]
+sources: ["2023-04-14_The Opposite of Trying", "2024-03-29_Listening", "2024-04-05_Speaking Authentically With Tristan de Montebello"]
 ---
 
 # The Opposite of Trying (Receiving, Allowing, Listening)
@@ -47,6 +47,10 @@ In a flow state, there is no trying — but there is also a listening. The exper
 "There's like — if you're in a flow state, there's no trying, but there's also like you're listening. It's more like being a channel. The experience is more of being a channel. It's more of, um, receiving and like maybe being a conduit." -- Joe Hudson, The Opposite of Trying
 
 This is the addition Joe makes to Yoda's "do or do not, there is no try." The Yoda framing handles the trying side of the distinction. The channel framing adds the receiving side. Doing without trying is right; doing without listening is incomplete.
+
+The channel frame has a personification that makes it more accessible: the subconscious as a butler standing just behind you, holding the next answer on a silver platter. The butler is always there. The butler does not respond to demand. The butler appears the moment you stop, breathe, and slow down. See [[the-butler-metaphor]] for the full development. The butler is the inside view of what the channel frame names structurally.
+
+This is also why the channel frame and Tristan de Montebello's speaking work converge on the same teaching. A speaker in flow is in the receive. They are discovering what they are saying at the same time as the audience. They are not generating the speech from effort. The butler is delivering. See [[speaking-authentically]] for the speaking-domain version.
 
 ## The Butcher's Blade
 
@@ -123,6 +127,42 @@ The implication: a person who is exhausted from "trying to get things done" is o
 
 Joe applies this to his own pace: "Nowadays, one of the things that as people work with me, they're like, 'Wow, you do so much stuff and you get so much done. It happens quickly.' And it's not that I'm moving quickly in my experience, it's just that I'm not wasting my effort on trying or managing my experience or trying to make it different or resisting the experience."
 
+## The Receive Has a Personification: The Butler
+
+A useful image for what the receiving orientation produces: the subconscious is a butler who has the answer already on a platter. The butler is always there. You cannot see him when the system is busy reaching, performing, planning. You see him when you relax, breathe out, slow down. Suddenly he is right there with what you needed.
+
+The image originates with Tristan de Montebello (Ultra Speaking founder) and gets adopted as a working metaphor. The full development of the image is in [[the-butler-metaphor]]. What matters here: the receive is not a vague orientation. It produces something specific. The butler is the image for that something. The pause is the move that lets him be seen.
+
+The macro-implication for life: if you walk into any situation thinking you have to produce the wisdom, you are bypassing the butler. If you walk in faithing -- see [[faithing-faith-as-verb]] -- the butler comes. This applies to speaking, coaching, leading, parenting, decision-making. The same receive-frame everywhere.
+
+"If you come in thinking you're responsible, thinking it's about you, thinking about it's about your reputation, thinking about like it's your wisdom, you're gonna give a shitty speech. If you can walk in and you can be like more in faith, more in trust, more waiting for the butler, knowing that it's about the butler, it's not about you, then the speech goes well. It feels like that's like a life thing. It's not just a speaking thing." -- Joe Hudson, Speaking Authentically With Tristan de Montebello
+
+## The Receive in Speaking Specifically
+
+Public speaking is an unusually clean test case for the receive because the failure modes are visible. The speaker who is trying -- planning the next sentence while the current one is being spoken, holding a memorized outline as a chain of links, performing for the audience -- gives a flatter talk than the speaker who has dropped into the receive.
+
+A vivid demonstration Joe describes from his own life: as a venture capitalist, his slide presentation got lost at a conference. He had to speak for twenty minutes off the cuff. He was scared. He also recognized he had no choice. He gave the talk. Afterward: "that was -- it was done. I was just, I will never prepare for a speech again. It was so much better than anything I'd ever done up until that point."
+
+The forced exposure routed Joe into the receive without his planning to get there. The talk arose. The speaker (Joe) was discovering the content as he spoke it. The audience and the speaker were hearing the words at roughly the same time. The talk was better than anything he had produced through the trying-mode of preparation.
+
+Tristan describes the mechanism in image form: the linear-rehearsed talk is a chain of links; break one link and the whole thing collapses. The talk-from-the-receive is a tree; you know the trunk and the essential branches and you have access to the whole three-dimensional shape; if one branch snaps off, the tree is still beautiful. The receive-tree handles missing material gracefully. The chain does not.
+
+## The Pause Is the Specific Move That Lets the Receive Show Up
+
+A single most-important practice for entering the receive in speaking, coaching, or leading: the pause. Stop talking. Breathe out. Slow everything down. Most people genuinely cannot do this. They have to be trained into it because the not-talking feels intolerable -- like blanking, like looking stupid, like wasting space that more important people should be filling.
+
+The reasons people cannot pause map directly onto the [[opposite-of-trying]] anti-patterns:
+
+- "I'm not worth this space."
+- "I should be giving more."
+- "Pausing will look like I don't know."
+- "I will look stupid if I blank."
+- "Someone else more interesting should be using this time."
+
+All of these are forms of trying. The pause is the receive. Once the pause is there, the butler can be seen. The next thing arrives. The conversation deepens.
+
+The pause is also the place where the listener-listener gap closes. When the speaker pauses, the listening (in the speaker, in the listener) becomes audible. Both people are in the receive together. The conversation moves to a different register.
+
 ## When Trying Is Appropriate
 
 The teaching is not "never try." Trying has its place. If you are on a life raft, you try. There are moments in business and in relationships where will is the right tool.
@@ -167,3 +207,5 @@ Plain, almost conversational. The teaching is offered as obvious-once-seen, not 
 ## Sources
 
 - 2023-04-14_The Opposite of Trying
+- 2024-03-29_Listening
+- 2024-04-05_Speaking Authentically With Tristan de Montebello (the butler image for the receive; the pause as the specific move; the speaking application; Joe's lost-presentation story as a forced entry into the receive)

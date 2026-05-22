@@ -102,6 +102,7 @@ The two readings are not in conflict. Both can be true. The work is to do both: 
 - Toward [[fear-of-joy]] and [[peace-is-what-we-resist-the-most]]: the trigger that actually wants attention is usually peace, not difficulty
 - Toward [[enjoy-over-manage]]: the shortcut is to construct the life you want rather than manage your way through trigger-inducing situations
 - Toward [[principles-free-you]]: the principled stance ("I don't work with assholes") removes the decision-by-decision negotiation
+- Toward [[extend-the-no-asshole-rule-inward]]: when the external rule is solid, the move that asks whether the same standard applies to the internal critic. The asymmetry between external and internal application is often what is keeping the person stuck despite the external boundary being well-built.
 
 ## Tone
 

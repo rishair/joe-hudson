@@ -4,8 +4,8 @@ id: staying-in-your-body
 title: "Staying in Your Body"
 aliases: ["body awareness in conversation", "put attention in your body", "grounding in the body", "feel the bottom of your feet", "being in your body", "speak from the body", "listen from the body", "speak from the silence", "attention in the body"]
 tags: ["empathy", "body", "grounding", "presence", "practice", "flow state"]
-related: ["empathy", "losing-yourself-in-others", "is-this-mine", "emotions-live-in-muscles", "head-heart-gut", "body-lies-as-much-as-mind", "embrace-intensity", "sensitivity-as-byproduct", "body-awareness-in-meetings"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-01-07_How Your Body Speaks", "2022-10-26_Empathy", "2022-10-26_How Your Body Speaks"]
+related: ["empathy", "losing-yourself-in-others", "is-this-mine", "emotions-live-in-muscles", "head-heart-gut", "body-lies-as-much-as-mind", "embrace-intensity", "sensitivity-as-byproduct", "body-awareness-in-meetings", "listening", "opposite-of-trying"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2022-01-07_How Your Body Speaks", "2022-10-26_Empathy", "2022-10-26_How Your Body Speaks", "2024-03-29_Listening"]
 ---
 
 # Staying in Your Body
@@ -75,6 +75,18 @@ The practice extends beyond just "have body attention." You can deliberately cho
 "Not only can you speak from them, you can listen from them. So as I'm talking right now, the person who's listening to this podcast can listen from their head, see what I'm saying, try to understand it, decide whether you think it's a good idea or bad idea that I'm speaking about. Or you can listen from your heart. And what is that experience if you're listening from your heart? It has a different quality to it. There's less of a yes or no to it." -- Joe Hudson, How Your Body Speaks
 
 Each mode of listening reveals different content in the same conversation. The body practice opens the option of choice.
+
+## Two Live Body-Listening Experiments
+
+Two quick experiments that give the practitioner immediate access to the felt difference between head-listening and whole-body listening. Both can be run in the middle of a conversation or a podcast.
+
+**Experiment one.** Put all of your attention on your inner ear. Keep the focus inside the ear itself. Notice that even though your attention has shifted there, you still comprehend everything the speaker is saying. The comprehension does not collapse. The quality of the listening has changed — there is more spaciousness, more receiving.
+
+**Experiment two.** Put all of your attention on the silence around the speaker's words — in between the words, in the frequencies that are silent even while they are talking. Notice that you still understand what is being said. The quality of the listening shifts again — more open, more vast.
+
+"There's a kind of a feeling of expansion that occurs. It's almost like your awareness becomes bigger and it becomes more in the forefront. There's more spaciousness that happens." -- Joe Hudson, Listening
+
+Both experiments prove the same thing in the body: the head can continue doing its work in the background while the foreground of attention opens up. The standard fear — *if I'm not gripping the content with my head, I'll lose it* — is contradicted by direct experience. See [[listening]] for the broader teaching this points at.
 
 ## Speak From the Silence
 

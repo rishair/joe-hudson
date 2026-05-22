@@ -5,7 +5,7 @@ title: "Money as Surrogate"
 aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money", "money and spirituality as parallel surrogates", "money and awakening as the same projection", "the linkage with fame and status", "status as money surrogate", "fame as money surrogate", "the scorecard-swap pattern", "money to likes to notoriety is the same surrogate", "swapping scorecards doesn't change the surrogate"]
 tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection", "status", "spirituality", "scorecard"]
 related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should", "how-you-related-to-parents-is-how-you-relate-to-god-and-money", "state-seeking", "expensive-to-be-poor", "money-relationship-is-an-energetic-exchange", "i-need-a-scorecard", "scorecard-keeping-as-identity-structure", "whats-the-scorecard-that-cant-be-taken-away", "say-the-forbidden-want-out-loud", "apologize-to-the-projected-object"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2023-12-08_What's Your Scorecard? (Coaching Session)", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You", "2023-07-07_Much Ado About Money", "2023-07-21_Much Ado About Money", "2023-12-08_What's Your Scorecard? (Coaching Session)", "2024-01-05_What's Bad About Money？ ｜ Coaching with Joe", "2024-04-01_How Do I Feel Financially Safe?"]
 ---
 
 # Money as Surrogate
@@ -33,8 +33,30 @@ This is a form of [[trauma-mapping]] applied to the money system. The body knows
 - Power
 - Empowerment
 - Experience itself
+- **Protection from internal threat** (a specific form of security; see below)
 
 Each produces a different shape of pursuit. Money-as-security is anxious accumulation. Money-as-love is the unending hunger. Money-as-power is the comparative grind. Money-as-experience is the spending that never satisfies. The behavior pattern reveals which surrogate is running.
+
+## Money as Protection From Assholes (Including the Internal One)
+
+A specific form of the security surrogate, common in people whose childhoods were physically or emotionally unsafe. The money is functioning as a continuous purchase of independence from threat. Doug's session is the canonical example: his childhood was tough, so the 13-year-old version of him learned to "be independent" and to "survive on my own." Money became how he stayed safe -- not from any particular external threat in the present, but from the felt-sense of being unsafe that the child carried.
+
+When asked what the 13-year-old needs the money for, Doug's answer arrived in two layers:
+
+- First layer: "Security, protection." Then: "I needed to be independent. I needed to be able to survive on my own."
+- Second layer (after Joe named it): "Security from assholes."
+
+External protection was already in place. Doug had a "no asshole rule" of 30 years -- a hard line about who got to be in his life. The money was no longer doing the work it had been recruited to do at the external level. But it was still being asked to do the same work at the internal level, where the protection was insufficient.
+
+"Yeah. How about your internal asshole?" -- Joe Hudson, How Do I Feel Financially Safe?
+
+This is the diagnostic pivot for this specific surrogate. When a person has built strong external boundaries against asshole behavior and still cannot put down the money-as-security framework, the surrogate has moved inside. The thing money is now protecting against is the internal critic, the internal demon, the version of the asshole that lives in the person's own head. Money cannot reach that one. The protection is being purchased in the wrong currency.
+
+"I just want to comment that money is not going to help you here." -- Joe Hudson, How Do I Feel Financially Safe? (to the 13-year-old, while the demon is in view)
+
+The release in this form usually comes through inner-child contact with whoever the internal threatening figure is. See [[chase-it-around-the-room]] for the move that meets the internal demon, and [[voice-as-care]] for the conceptual frame that the demon is hug-seeking rather than enemy. Once the inner figure has been met directly, the protection function that money was performing becomes unnecessary, and the person can stop earning the protection they no longer need.
+
+Doug's session demonstrated the full arc: after he chased the demon and watched the dragon become a teddy bear, Joe asked the inner 13-year-old what he needed around money. The answer: "Nothing. If the demon's not here, then money's not as important." The surrogate dissolves at the moment the original want is met directly.
 
 ## Why It Cannot Be Satisfied
 
@@ -189,3 +211,4 @@ This pairs with the broader question about faith objects: community satisfies th
 - 2023-07-21_Much Ado About Money (near-duplicate re-airing of the 2023-07-07 conversation; same content)
 - 2023-12-08_What's Your Scorecard? (Coaching Session) — the scorecard-swap pattern; K's money-to-likes-to-notoriety pivot as the surrogate switching substrate while keeping the same function
 - 2024-01-05_What's Bad About Money? Coaching with Joe — the substitution dialogue form (money → freedom → safety) that makes the surrogate audible live; the apology to money for the projection placed on it; the surrogate as the mechanism by which the person was using money to avoid making the actual most important things (family, kids) the most important things
+- 2024-04-01_How Do I Feel Financially Safe? — the protection-from-assholes surrogate; specifically the move of asking about the internal asshole when the external no-asshole rule is solid; the demon contact via [[chase-it-around-the-room]] dissolving the protection function so the person could stop earning

@@ -4,7 +4,7 @@ id: chin-up-as-emotion-block
 title: "Chin Up (and Jaw Clamped) as the Somatic Signature of Emotional Repression"
 aliases: ["chin up as emotion block", "the chin-lift read", "the raised chin signature", "the chin tells", "the chin diagnostic", "chin up means emotion is being blocked", "chin in narcissism position", "the narcissism chin position", "the jaw-clamp read", "clamped jaw as emotion block", "the held jaw signature", "the two ways humans stop emotion", "raise the chin to stop the feeling", "tight jaw to stop the feeling", "the chin-down change feels the feeling", "chin down increases somatic access", "the head-up emotional shutoff", "the upward-tilt of the head as repression"]
 tags: ["reads", "body", "somatic", "emotion-repression", "chin", "jaw", "narcissism", "facial-cues"]
-sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)"]
+sources: ["2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)", "2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)", "2024-04-01_How Do I Feel Financially Safe?"]
 ---
 
 # Chin Up (and Jaw Clamped) as the Somatic Signature of Emotional Repression
@@ -54,6 +54,18 @@ The standard sequence:
 
 The naming is matter-of-fact. There is no judgment of the lifted chin. The chin came up to do a job. The person is being shown the mechanism, not criticized for having it.
 
+## The In-the-Moment Variant: Chin Down As Emotion Is Arriving
+
+A second use of the same read appears when Joe sees emotion starting to come up and the chin lift as the active block being deployed in real time. The instruction is the same -- chin down -- but the timing is different. It is not a diagnostic experiment; it is an intervention to keep an arriving emotion from being caught and stopped.
+
+"I see the emotions coming and I see you kind of evading the emotion. So chin down, bring your chin down, chin down, chin down. Yeah, there we go." -- Joe Hudson, How Do I Feel Financially Safe?
+
+The repetition of "chin down" multiple times in quick succession is the signature of this variant. The chin keeps trying to lift; Joe keeps redirecting it down. The emotion is at the threshold, the body is trying to stop it, and the chin instruction is the small physical interruption that holds the doorway open.
+
+The diagnostic for when to use this variant rather than the teaching variant: the emotion is *coming*, not absent. The person is on the edge of feeling something rather than reporting they can't feel. The chin-down instruction here is operational, not pedagogical. Joe is not explaining the mechanism in the moment; he is using it to keep the feeling-channel open just long enough for the emotion to arrive.
+
+The follow-up after the chin lowers and the feeling arrives is the same as any moment of emotional arrival: stay with the feeling, do not redirect, let it move. The chin instruction has done its job once the feeling is in the body. From there the work is on the emotion itself.
+
 ## Dialogue Example
 
 After Ali had been giving fast, articulate, intellectual answers, Joe noticed the head position and ran the small experiment.
@@ -98,3 +110,4 @@ If the chin keeps lifting back up despite the instruction, the underlying emotio
 
 - 2024-03-07_Ali Abdaal - How Connection Can Change Your Life (Coaching Session)
 - 2024-03-07_How Connection Can Change Your Life (Joe Hudson & Ali Abdaal)
+- 2024-04-01_How Do I Feel Financially Safe? -- Joe instructs Doug "bring yourself down. I see the emotions coming and I see you kind of evading the emotion. So chin down, bring your chin down, chin down, chin down. Yeah, there we go." Same diagnostic in a different session; the chin instruction is given as the emotion is starting to arrive so it doesn't get stopped at the chin-lift

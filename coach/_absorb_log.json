@@ -4713,15 +4713,93 @@
     },
     {
       "folder": "2024-03-29_Listening",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T14:57:03Z",
-      "articles_created": [],
-      "articles_updated": []
+      "articles_created": [
+        "listening",
+        "dont-make-listening-a-morality",
+        "the-last-to-speak-move",
+        "listening-shapes-the-reality-that-comes-back",
+        "wanting-others-to-listen-is-the-block"
+      ],
+      "articles_updated": [
+        "opposite-of-trying",
+        "staying-in-your-body",
+        "aristotle-project"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T15:16:06Z"
     },
     {
       "folder": "2024-04-01_How Do I Feel Financially Safe\uff1f",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T15:00:55Z",
+      "articles_created": [
+        "swap-roles-with-the-younger-self",
+        "extend-the-no-asshole-rule-inward",
+        "doug-hug-the-demon-financial-safety"
+      ],
+      "articles_updated": [
+        "chase-it-around-the-room",
+        "money-as-surrogate",
+        "whats-next-after-i-reached-my-big-goal",
+        "chin-up-as-emotion-block",
+        "voice-as-care",
+        "definition-of-asshole",
+        "my-inner-critic-wont-stop"
+      ],
+      "type": "coaching",
+      "absorbed_at": "2026-05-22T15:13:13Z"
+    },
+    {
+      "folder": "2024-04-05_Speaking Authentically With Tristan de Montebello",
+      "status": "complete",
+      "claimed_at": "2026-05-22T15:14:04Z",
+      "articles_created": [
+        "the-butler-metaphor",
+        "faithing-faith-as-verb",
+        "the-emotional-experience-decides-the-channel",
+        "the-want-to-fit-in-vs-want-to-be-extraordinary",
+        "dont-claim-the-wisdom-as-yours",
+        "cant-remember-what-i-said-in-flow",
+        "wait-for-someone-else-to-say-it",
+        "you-dont-always-need-the-backstory"
+      ],
+      "articles_updated": [
+        "downward-spiral-between-teacher-and-students",
+        "opposite-of-trying",
+        "listening",
+        "the-clients-wisdom-not-the-teachers"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T15:32:45Z"
+    },
+    {
+      "folder": "2024-04-06_Speaking Authentically with Tristan de Montebello",
+      "status": "complete",
+      "claimed_at": "2026-05-22T15:16:17Z",
+      "articles_created": [
+        "speaking-authentically",
+        "the-butler-metaphor",
+        "faith-as-verb",
+        "avoidance-of-emotional-experience-closes-channels-of-life",
+        "state-not-framework",
+        "channeling-vs-authorship",
+        "chain-vs-tree-thinking-for-content",
+        "joes-extemporaneous-vc-speech"
+      ],
+      "articles_updated": [
+        "listening",
+        "opposite-of-trying",
+        "what-we-fear-we-invite"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T15:32:49Z"
+    },
+    {
+      "folder": "2024-04-08_How NOT To Be Happy",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T15:33:49Z",
       "articles_created": [],
       "articles_updated": []
     }

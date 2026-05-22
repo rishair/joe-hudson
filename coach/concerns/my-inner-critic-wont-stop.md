@@ -67,6 +67,10 @@ The branching point depends on what is underneath the surface complaint.
 
 **If the inner critic has the texture of self-attack:** the critic is often the inward form of anger that has nowhere else to go. See [[three-forms-of-anger-repression]]. When the energy of anger cannot move outward (because of childhood injunction, because it was punished, because it was tied to love removal), it turns inward as self-abusive talk. The work in this case is releasing the anger somewhere external. See [[get-angry-in-the-car]]. As the held charge drops, the inward attack often loosens on its own.
 
+**If the person has strong external boundaries against asshole behavior but tolerates the same from themselves:** the work is to extend the no-asshole rule inward. See [[extend-the-no-asshole-rule-inward]]. The asymmetry between what the person will tolerate from others vs. from themselves is the diagnostic.
+
+**If the critic has become an internal figure the person describes as a demon, monster, dragon, or "the thing inside me":** the figure has hardened from voice into entity. The work is the chase-and-hug move. See [[chase-it-around-the-room]]. Fighting the figure has produced more figure; the inverse relationship is pursuit-with-love. The "demon" is just looking for hugs.
+
 ## Coaching Path
 
 1. Name the voice. Often the person has not separated the voice from themselves. Naming creates a useful distance: "you are the one hearing this voice, not the voice itself." See [[voice-in-the-head]].

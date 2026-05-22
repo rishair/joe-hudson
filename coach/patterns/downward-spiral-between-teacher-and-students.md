@@ -2,10 +2,10 @@
 type: pattern
 id: downward-spiral-between-teacher-and-students
 title: "The Downward Spiral Between Teacher and Students (Mutual Creation of Dysfunction)"
-aliases: ["downward spiral between teacher and students", "the upward and downward spiral", "teacher and audience create each other", "how a healthy teacher becomes a guru", "the YouTube/Instagram berserk pattern", "the public personality berserk pattern", "content creator goes berserk", "audience defensiveness creates teacher narcissism", "teacher gets attacked becomes defensive", "halo and the takedown", "the loneliness of the teacher", "people view me as authority and try to please me", "people don't see me as human", "students see teacher as perfect then take them down"]
-tags: ["teacher", "community", "cult", "narcissism", "feedback loops", "spiritual"]
-related: ["red-flags-of-a-teacher-or-path", "identification-with-the-teaching", "cult-of-one", "community-over-teacher", "good-and-corruption-cycle", "the-clients-wisdom-not-the-teachers", "spiritual-narcissism", "us-vs-them-as-universal-manipulation-pattern", "everybody-wants-the-same-kind-of-team"]
-sources: ["2023-05-12_Who Owns Your Authority?"]
+aliases: ["downward spiral between teacher and students", "the upward and downward spiral", "teacher and audience create each other", "how a healthy teacher becomes a guru", "the YouTube/Instagram berserk pattern", "the public personality berserk pattern", "content creator goes berserk", "audience defensiveness creates teacher narcissism", "teacher gets attacked becomes defensive", "halo and the takedown", "the loneliness of the teacher", "people view me as authority and try to please me", "people don't see me as human", "students see teacher as perfect then take them down", "the ownership-responsibility-resentment-addiction cascade", "the I-can't-leave-because-the-perks-are-too-good lock-in", "the sexy-girlfriend trap for teachers", "the internal cascade that produces teacher dysfunction"]
+tags: ["teacher", "community", "cult", "narcissism", "feedback loops", "spiritual", "addiction", "control"]
+related: ["red-flags-of-a-teacher-or-path", "identification-with-the-teaching", "cult-of-one", "community-over-teacher", "good-and-corruption-cycle", "the-clients-wisdom-not-the-teachers", "spiritual-narcissism", "us-vs-them-as-universal-manipulation-pattern", "everybody-wants-the-same-kind-of-team", "dont-claim-the-wisdom-as-yours", "the-butler-metaphor"]
+sources: ["2023-05-12_Who Owns Your Authority?", "2024-04-05_Speaking Authentically With Tristan de Montebello"]
 ---
 
 # The Downward Spiral Between Teacher and Students
@@ -76,6 +76,53 @@ A consequence of any successful teaching: students start using the tools they ha
 
 The corrective is structural: the practice can be set up so that students seek permission before propagating, so that the teacher has a chance to assess readiness and provide path. This is also a flag the other way — if the structure is too tight (only the teacher can teach the teaching), it slides into gatekeeping for control rather than gatekeeping for care. The middle path is asking for communication and assessment without absolute control of propagation.
 
+## The Internal Cascade That Drives the Spiral From Inside the Teacher
+
+The audience-side feedback loops described above are one engine of the spiral. There is also an internal engine that operates independently inside the teacher, even before any audience effect kicks in. The teacher who has misread the source of their own work has already entered the cascade. The audience effects compound what is already moving.
+
+The internal cascade runs:
+
+1. **The work lands.** Insights arrive in sessions. Speeches move audiences. The work is producing real change.
+2. **The teacher claims the wisdom as theirs.** Instead of seeing the work as channeled, the teacher concludes "I'm doing this. I'm the one who knows."
+3. **Ownership produces responsibility.** If the work is theirs, the outcomes are theirs too. They become responsible for producing the change.
+4. **Responsibility becomes obligation.** The freedom drains out. "I have to keep delivering." Showing up stops being chosen.
+5. **Obligation produces resentment.** What is done out of must rather than want generates resentment toward the students, the audience, the work itself.
+6. **The resentment cannot be released.** The teacher cannot walk away. The structure has accumulated rewards (money, attention, status, often a different romantic life than before) that are hard to abandon. The teacher is locked in.
+7. **The pressure has to leak somewhere.** Trapped resentment produces addictions (substance, sex, work, food), hyper-developed need for control over staff and students, or slides into narcissistic certainty. Usually all three.
+8. **The teacher goes wonky in ways the audience now perceives.** The internal dysfunction starts to be visible from outside.
+
+Joe describes the lock-in mechanism with characteristic specificity:
+
+"There's a responsibility that becomes an obligation that turns into a resentment, but they can't leave it because the girlfriend's too sexy. It's like making them lots of money and everybody's looking at them, and then it leads to like some crazy addiction typically, and like need for control." -- Joe Hudson, Speaking Authentically With Tristan de Montebello
+
+The "girlfriend's too sexy" line is colorful but the underlying observation is sober. Once a teacher's life depends on the rewards of the role, walking away becomes very expensive. The teacher who is six years into the cascade has often built infrastructure (staff, financial commitments, public identity) that makes recognizing the cascade terrifying rather than freeing.
+
+## Why the Audience-Side Spiral and the Internal Cascade Compound
+
+The audience-side spiral and the internal cascade reinforce each other. Each side accelerates the other.
+
+The audience's preference for certainty pulls the teacher toward more confident claims. More confident claims sit on top of the teacher's underlying ownership-of-the-wisdom misreading. The misreading hardens. The audience receives the harder version and rewards it. The cycle accelerates.
+
+The audience's attacks produce defensiveness in the teacher. The defensiveness layers onto the resentment already produced by the obligation. The combined defensiveness-plus-resentment looks like armor from outside, and the audience escalates its testing of the armor. The cycle accelerates.
+
+The audience's projection of perfection sets up the takedown. The teacher who has been claiming the wisdom is now positioned to lose face publicly when the takedown comes. The fear of the takedown produces more control behavior, which produces more material for the takedown. The cycle accelerates.
+
+This is why the cascade is so hard to interrupt mid-flight. Each engine drives the other. Stopping one without addressing the other leaves the cascade running on the unaddressed engine. The correction has to be both: the teacher relocates the wisdom (interrupting the internal cascade) and the community structures itself to not reward the certainty-attack cycle (interrupting the audience-side spiral). Either move alone tends to lose to the other one.
+
+For the internal cascade specifically, see [[dont-claim-the-wisdom-as-yours]] for the principle and its full sequence.
+
+## The Two Available Options When the Pressure Gets Big Enough
+
+Joe describes the trajectory as eventually narrowing to two options. The pressure of teaching at scale forces a resolution one way or the other. The middle path is rarely available.
+
+"To me, in my mind, having worked with people where that has happened, where it was them, it was all about them, eventually I've just seen where that lands in a, like, a very terrible place. And so for me, when I think about it, it's, it's either I can acknowledge that, that it's not me, it's never been me, it's like I'm channeling something, or I can be, you know, with some terrible habits trying to get the fuck away from this feeling of I'm responsible for everything and I'm alone in it." -- Joe Hudson, Speaking Authentically With Tristan de Montebello
+
+Option one: acknowledge that the wisdom is not yours. It is being channeled. The teacher is one conduit in a long lineage. This option dissolves the responsibility-obligation-resentment cascade at the source. The teacher does not have to manage the impossible weight of being personally responsible for everything because the weight was never theirs.
+
+Option two: try to escape the feeling of being responsible and alone through some combination of addiction, control, and dissociation. This option does not resolve the cascade; it just adds layers of management on top of it. Eventually the management fails and the underlying dysfunction becomes visible.
+
+The "either/or" framing is intentional. Joe does not see many teachers staying viable in a middle position over the long term. The forces pulling toward dysfunction are too strong. The teacher who does not actively claim the channeling orientation tends to drift into the alternative.
+
 ## The Upward Spiral
 
 The pattern works in the other direction too. Joe says he has seen one path go from a little wonky to more and more healthy, which he calls a fascinating journey. The upward spiral happens when:
@@ -132,3 +179,4 @@ Joe describes this pattern with the calm of someone who has watched it unfold ma
 ## Sources
 
 - 2023-05-12_Who Owns Your Authority?
+- 2024-04-05_Speaking Authentically With Tristan de Montebello (the internal-cascade engine: ownership-responsibility-obligation-resentment-addiction; the "girlfriend's too sexy" lock-in mechanism; the two-options framing of channeling versus escape-the-feeling)

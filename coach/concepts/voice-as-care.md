@@ -97,6 +97,8 @@ The 20/80 framing is worth noting. The shift does not require complete reconcili
 - Toward [[love-as-deep-welcoming]]: the underlying mechanism of welcoming what was being fought.
 - Toward [[awareness-as-change-agent]]: gentle awareness is what allows the reframe to land.
 - Toward [[experimenting-with-the-voice]]: the play-based approach to discovering what works.
+- Toward [[chase-it-around-the-room]]: the embodied move when the voice has personified as an internal figure (demon, monster, dragon) that the person has been at war with. The chase-with-hugs is the relational form the reframe takes when the voice has hardened into something the person experiences as an enemy.
+- Toward [[extend-the-no-asshole-rule-inward]]: the boundary form when the voice is operating as an internal asshole while the person tolerates no equivalent behavior externally.
 
 ## Tone
 

@@ -4,8 +4,8 @@ id: the-clients-wisdom-not-the-teachers
 title: "The Client's Wisdom, Not the Teacher's"
 aliases: ["the client's wisdom not the teacher's", "their wisdom not mine", "you have to experience it for it to be real", "the experience is the teacher", "no answer outside your question", "I won't coach someone without a question", "no transmission of wisdom", "the wisdom is yours", "I won't try to get anybody anywhere", "credentials do not predict good coaching", "qualification is a weird word for coaching"]
 tags: ["principle", "coaching-methodology", "wisdom", "epistemology", "autonomy", "experience-based-learning"]
-related: ["the-work-is-yours-not-mine", "become-unnecessary", "community-over-teacher", "follow-the-demand", "fixing-people", "dont-evangelize-the-work", "sincerity-is-the-prerequisite", "frame-it-as-an-experiment", "training-coaches-and-facilitators", "coaches-foundation-self-awareness", "presence-over-technique-in-coaching"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-01-05_Coaching as a Practice"]
+related: ["the-work-is-yours-not-mine", "become-unnecessary", "community-over-teacher", "follow-the-demand", "fixing-people", "dont-evangelize-the-work", "sincerity-is-the-prerequisite", "frame-it-as-an-experiment", "training-coaches-and-facilitators", "coaches-foundation-self-awareness", "presence-over-technique-in-coaching", "dont-claim-the-wisdom-as-yours", "the-butler-metaphor", "faithing-faith-as-verb"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense", "2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching", "2023-03-09_Q&A #2 - Connecting with Difficult People, and More", "2024-01-05_Coaching as a Practice", "2024-04-05_Speaking Authentically With Tristan de Montebello"]
 ---
 
 # The Client's Wisdom, Not the Teacher's
@@ -149,6 +149,24 @@ The symmetry is the point. Authentic expression on both sides. Neither party cha
 
 This sometimes makes coaches uncomfortable because it sounds elitist or exclusive. Joe's response: the deepest authentic expression tends to be the most resonant, so authenticity often produces more access, not less. But access is the byproduct, not the design goal. Designing for access compromises the authenticity. The compromise reduces what is on offer to anyone, including the people the design was meant to include.
 
+## It Isn't Just That The Wisdom Is Not The Coach's -- It Isn't Even The Lineage's
+
+A further extension of the principle that lives in conversation with Tristan de Montebello: the wisdom is not just being relocated from the coach to the client. It is being relocated out of any individual at all. The teacher is not the source. The lineage that taught the teacher is not the source either -- they were also channels. The wisdom is something older than any of the people moving it.
+
+Joe describes a specific moment when this hit him. A long-term student told him "it didn't change my life, it changed generations." Joe had felt this for himself but had never felt it from the other side. The full weight of what the work was producing landed.
+
+"In that recognition, there was also the recognition that that wasn't actually my work. Like, it wasn't me doing that. It was like the 20 people who had a huge influence and taught me, and it was the 20 people, and some of them 2,000 years old, and the people who taught them, and the people who taught them. And it's like, it's such this interesting thing. It feels so good in my system when I see [it that way]." -- Joe Hudson, Speaking Authentically With Tristan de Montebello
+
+This extends the principle in an important direction. The client's wisdom is not the teacher's wisdom -- but also, the teacher's "wisdom" is not even the teacher's. It is the cumulative inheritance the teacher is channeling. The teacher is one excavator in a lineage of excavators.
+
+Tristan offers the parallel image: the work is archaeological. The teacher is unearthing something that already exists. They are packaging and presenting it in a way the current zeitgeist can receive. They are not inventing anything. The find was discoverable before; it will be discoverable after; the teacher is one channel among many.
+
+The implication: the client's wisdom and the teacher's "wisdom" are both forms of the same underlying access. The teacher's role is not even fundamentally different from the client's role -- both are people with access to something that is not theirs personally. The asymmetry between coach and client is one of practice, not of ownership. The coach has practiced the access more. The wisdom itself is equally available to both, in principle.
+
+This is what Joe means when he says it feels good in his system. The body marker matters: the relocation of the wisdom from "his" to "channeled through him from a lineage" produces relief in his nervous system. The relief is data. The system was carrying weight it did not have to carry. Releasing the ownership released the weight.
+
+For the warning about what happens when this orientation is lost, see [[dont-claim-the-wisdom-as-yours]]. For the felt image of where the wisdom lives, see [[the-butler-metaphor]].
+
 ## Why This Makes the Methodology Robust
 
 Because the methodology rests on the client's experience, it is unfalsifiable in the bad sense if held wrong, and falsifiable in the good sense if held right. The good-sense version: a client runs the exercise sincerely and reports no contact. The exercise has not worked for this client. Either the exercise needs to be different, or the timing is wrong, or some prior block needs to be addressed. The coach takes the data seriously. The exercise is iterated. See [[address-the-blocker-not-the-symptom]].
@@ -198,3 +216,4 @@ Calm, structural, undefended. This is not a humility performance. It is a descri
 - 2022-10-26_Love Over Defense (the "gravity in roses, grass, birds, trees" passage on how the trust is built from observation)
 - 2023-03-03_Q&A #2 — Connecting with Difficult People, Calling Up Latent Emotions, Limitations of the Teaching (the "please stop, trust your own experience" passage; the "I would far rather hear how people are than tell them how they are" passage; the authenticity-over-inclusivity extension)
 - 2023-03-09_Q&A #2 - Connecting with Difficult People, and More (the developmental cost of being the teacher; the "don't buy your own philosophy" framing; the explicit naming of separation as the projection cost; a re-recording or republication of the same Q&A content as the 2023-03-03 episode with slight wording differences)
+- 2024-04-05_Speaking Authentically With Tristan de Montebello (the further extension that the wisdom is not even the lineage's; the "20 people, some of them 2,000 years old" passage; the archaeological framing; the felt sense of relief in the body when the wisdom is relocated out of personal ownership)
