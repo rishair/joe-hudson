@@ -4,8 +4,8 @@ id: love-as-deep-welcoming
 title: "Love as Deep Welcoming"
 aliases: ["deep welcoming", "love is welcoming", "welcoming as love", "deep welcoming definition of love", "love as welcoming", "love as allowing", "allowing yourself to be touched"]
 tags: ["love", "core concept", "welcoming", "view", "presence"]
-related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+related: ["view", "vulnerability", "impartiality", "empathy", "wonder", "loving-all-parts", "resistance", "love-requires-empowerment", "four-faces-of-love", "heartbreak-as-capacity-expansion", "love-is-the-best-change-agent", "love-misconceptions-inherited-from-childhood"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
 ---
 
 # Love as Deep Welcoming
@@ -121,6 +121,7 @@ When someone is in a conflict and getting harder, welcoming the other person doe
 - When a person describes loving someone but constantly trying to change them.
 - When someone says "I want to love myself but I don't know how."
 - When the work has gone abstract: the body is the way back into welcoming.
+- When the person is operating from an imprinted definition of love that is not welcoming. See [[love-misconceptions-inherited-from-childhood]] for surfacing the operating definition first.
 
 ## Downstream (Where Joe Goes From Here)
 
@@ -133,3 +134,4 @@ When someone is in a conflict and getting harder, welcoming the other person doe
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Love Over Defense (podcast version covering the same material)

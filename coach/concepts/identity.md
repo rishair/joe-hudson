@@ -2,10 +2,10 @@
 type: concept
 id: identity
 title: "Identity"
-aliases: ["what identity is", "Joe's definition of identity", "how identity works", "the structure of self", "identity as ideas emotions and gut reactions", "identity is what we take personally", "the personal-taking measure of identity", "identity definition", "what is identity", "subconscious identity", "conscious vs unconscious identity"]
+aliases: ["what identity is", "Joe's definition of identity", "how identity works", "the structure of self", "identity as ideas emotions and gut reactions", "identity is what we take personally", "the personal-taking measure of identity", "identity definition", "what is identity", "subconscious identity", "conscious vs unconscious identity", "identity as exoskeleton", "trying on identities", "snakeskin identity", "Burning Man as identity sandbox", "identity attaches to external concepts", "identity as scaffolding"]
 tags: ["identity", "self", "ego", "core concept", "transformation", "development"]
 related: ["grief-as-identity-dismantling", "idea-of-self-vs-actual-self", "expanding-sense-of-self", "identity-extension-expands-fear", "every-identity-has-limits", "identity-changes-on-three-levels", "transparent-identity-vs-rigid", "dont-fight-identity", "view-around-self-as-identity-diagnostic", "improvement-vs-authenticity", "self-realization", "loving-all-parts"]
-sources: ["2022-09-16_Seeing Identity for What It Is"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is"]
 ---
 
 # Identity
@@ -13,6 +13,8 @@ sources: ["2022-09-16_Seeing Identity for What It Is"]
 ## Definition
 
 Identity is the set of ideas, emotional states, gut reactions, and nervous-system responses that get recognized as "who I am." It is the structure of self-recognition: the way I know myself to be. It operates on three levels simultaneously -- intellectual, emotional, and somatic -- and is rarely confined to one.
+
+A useful structural image: identity is like an exoskeleton, an inner or outer scaffolding of what we think we are. The structure can be helpful (trying on a new role, growing into a public speaker, a CEO, a parent) and also limiting (when we believe we *must* be something, or *cannot* be something, in relation to ourselves or the world). The work along the path can be described as repeatedly stepping out of identities into the unknown, leaving identities behind like snakeskin -- and discovering that the next layer is also identity, just finer.
 
 "It's the ideas and emotional states, even maybe the gut reactions, that we identify as who we are. It's the way in which we recognize ourselves." -- Joe Hudson, Seeing Identity for What It Is
 
@@ -49,6 +51,24 @@ Joe's own example of subconscious emotional identity. Sitting in a hammock in El
 What surfaced: an entire emotional sequence -- chasing something not allowed, not getting it, feeling deprived and resentful -- that had been operating as identity. It had played out with money, with bosses, with his dad, with women's love. Each domain was a different stage on which the same emotional script played. The script was "how he knew himself to be," but it was nowhere in his conscious self-description.
 
 For the full story see [[joes-pleasing-dad-money-story]]. For the practice that surfaced it see [[trace-emotion-to-its-first-felt]].
+
+## Trying On Identities
+
+One way people work with identity directly is by deliberately stepping into a different one for a defined period. Burning Man is a useful example: a context where people try on identities they do not normally wear at home -- the playful one, the artist, the one who flirts, the one who serves, the one without their professional role. The experiment is in itself instructive. It shows that the identity that felt fixed is movable, and it shows where the old identity has automatic gravity (when you find yourself slipping back into the at-home self even in the new context).
+
+Joe describes asking his community to not treat him as a teacher for five days at Burning Man. He violated it himself "more than anybody else, but only about 10 times" -- which is itself the data. The role does not turn off because you announce it is off. The pull back into the familiar identification is the evidence that the identity is structural, not chosen in the moment.
+
+Trying on identities is one path. It does not replace the deeper work of seeing through the identity at all three levels. It does provide live evidence that the identity is not the totality of who you are.
+
+## Identity Attaches to External Concepts
+
+Identity does not just attach to traits ("I am hardworking"). It attaches to external structures: to a community, to a company, to a movement, to an event one returns to.
+
+Burning Man veterans illustrate the dynamic. Some people who have come for many years carry that as part of their identity ("I've been coming for 15 years"). They want others to know. The same fact (15 years) sits very differently in someone who reports it without weight. The number is the same; the identity attachment is different.
+
+Companies operate the same way. A founder, an early employee, a CEO can develop an identity around what the company is and represents -- and then the identity defends the company's current shape against changes that might be needed. The CEO who identifies as a "hoarder" cannot kill projects that should be killed. The CEO whose identity is "if I'm vulnerable, I'll be hurt" has a team with no real intimacy. The personal identity becomes the organization's culture by default. See [[dont-reflect-your-patterns-as-culture]].
+
+The same applies to roles within relationships, to spiritual communities, to political affiliations, to causes. Anywhere identity attaches to an external structure, the structure becomes harder to see clearly and harder to let evolve.
 
 ## You Cannot Have No Identity
 
@@ -141,3 +161,4 @@ Joe holds identity with curiosity and care. Not as a problem to be solved or an 
 ## Sources
 
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)

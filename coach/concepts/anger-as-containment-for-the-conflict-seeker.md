@@ -5,7 +5,7 @@ title: "Anger as Containment for the Conflict-Seeker"
 aliases: ["anger as containment", "anger contains the drama-creator", "meeting drama with anger", "anger calms the conflict creator", "containment for the drama-seeker", "they don't feel calm unless contained", "anger as appropriate response to drama"]
 tags: ["anger", "conflict", "containment", "anxiety", "appropriateness of emotion"]
 related: ["loving-conflict-vs-wanting-conflict", "anger", "wisdom-of-each-emotion", "boundary-with-vs-boundary-against", "fear-triangle"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
 ---
 
 # Anger as Containment for the Conflict-Seeker
@@ -82,3 +82,4 @@ The diagnostic for whether this applies is whether the other person seems to be 
 ## Sources
 
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
+- 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)

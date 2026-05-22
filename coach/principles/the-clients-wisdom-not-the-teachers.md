@@ -5,7 +5,7 @@ title: "The Client's Wisdom, Not the Teacher's"
 aliases: ["the client's wisdom not the teacher's", "their wisdom not mine", "you have to experience it for it to be real", "the experience is the teacher", "no answer outside your question", "I won't coach someone without a question", "no transmission of wisdom", "the wisdom is yours", "I won't try to get anybody anywhere"]
 tags: ["principle", "coaching-methodology", "wisdom", "epistemology", "autonomy", "experience-based-learning"]
 related: ["the-work-is-yours-not-mine", "become-unnecessary", "community-over-teacher", "follow-the-demand", "fixing-people", "dont-evangelize-the-work", "sincerity-is-the-prerequisite", "frame-it-as-an-experiment"]
-sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)"]
+sources: ["2022-05-05_How to Tell if the Master Class Isn’t For You (Bonus Episode)", "2022-10-26_How To Tell If The Master Class Isn't For You", "2022-10-26_Love Over Defense"]
 ---
 
 # The Client's Wisdom, Not the Teacher's
@@ -58,6 +58,26 @@ The coach also has to be willing to be surprised. If the wisdom is the client's,
 
 The willingness to be wrong about what the exercise will produce is the willingness to actually hold this principle. A coach who is never surprised by what their clients discover is probably leading the discovery.
 
+## Where the Trust Comes From
+
+Brett asks the question directly: how does Joe feel so much trust for the internal compass of a person he barely knows on a Q&A call, miles away, who could just freak out and close their laptop? What is the basis of that trust?
+
+The response begins with a moment of felt humility, and then arrives at the answer in two parts.
+
+The first part is biographical. That same instinct in the client is what guided Joe. He did not have a teacher who would let him trust himself in this way, so he had to trust his own. Having walked that route, he can recognize and trust the same instrument when it shows up in someone else.
+
+The second part is observational, and it is what an AI coach needs to absorb. The coach has seen it happen so many times that trust is no longer a faith position. It is a reading of the evidence.
+
+"I can see where the path leads and I can watch the person just instinctually make the next right move over and over and over again. And not just the person, almost everybody. And whenever I question, I'm like, oh, that's going to be like a backpedal. It turns out it's like the perfect backpedal for them." -- Joe Hudson, Love Over Defense
+
+This is not "everything is perfect just the way it's supposed to be" in a New Age sense. It is closer to a biological observation. Roses know how to grow. Grass knows what to do. Birds know what to do. Trees know what to do. The person has the same center of gravity. The coach does not have to trust them in the sense of taking a risk. The coach has to get out of the way of what is already in motion.
+
+"There is a gravity, a center of gravity just asking. And all they have to really do is just get out of the way. And all my questions are literally just questions to help them see themselves." -- Joe Hudson, Love Over Defense
+
+The last sentence is the operational corollary. Every question Joe asks is in service of the client seeing themselves. There is no question whose underlying purpose is anything else. Not delivering a frame, not steering toward an insight, not setting up an exercise. The question is the mirror. The seeing is the work.
+
+This is also what protects against the slide into being the source. Even the question is not the coach's contribution to the wisdom. The question is the apparatus by which the client's wisdom becomes visible to itself.
+
 ## Why This Makes the Methodology Robust
 
 Because the methodology rests on the client's experience, it is unfalsifiable in the bad sense if held wrong, and falsifiable in the good sense if held right. The good-sense version: a client runs the exercise sincerely and reports no contact. The exercise has not worked for this client. Either the exercise needs to be different, or the timing is wrong, or some prior block needs to be addressed. The coach takes the data seriously. The exercise is iterated. See [[address-the-blocker-not-the-symptom]].
@@ -103,3 +123,5 @@ Calm, structural, undefended. This is not a humility performance. It is a descri
 ## Sources
 
 - 2022-05-05_How to Tell if the Master Class Isn't For You (Bonus Episode)
+- 2022-10-26_How To Tell If The Master Class Isn't For You (rebroadcast of the same conversation)
+- 2022-10-26_Love Over Defense (the "gravity in roses, grass, birds, trees" passage on how the trust is built from observation)

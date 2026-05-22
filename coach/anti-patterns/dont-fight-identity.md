@@ -5,7 +5,7 @@ title: "Don't Fight Identity (or Ego) -- It Only Makes It Stick Harder"
 aliases: ["don't fight identity", "don't fight your ego", "killing the ego doesn't work", "the egoless one is still an identity", "fighting identity strengthens it", "no boxing with the ego", "Chinese finger trap for ego", "ego deconstruction as identity", "anti-identity is identity", "the kill-your-ego trap"]
 tags: ["identity", "ego", "anti-pattern", "spiritual bypass", "self-work"]
 related: ["identity", "every-identity-has-limits", "loving-all-parts", "love-is-the-best-change-agent", "transparent-identity-vs-rigid", "resistance", "spiritual-narcissism", "improvement-vs-authenticity"]
-sources: ["2022-09-16_Seeing Identity for What It Is"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is"]
 ---
 
 # Don't Fight Identity (or Ego) -- It Only Makes It Stick Harder
@@ -78,3 +78,4 @@ The coach moves toward the underlying part with warmth. "What is the part of you
 ## Sources
 
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)

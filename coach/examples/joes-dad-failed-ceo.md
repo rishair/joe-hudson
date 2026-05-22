@@ -5,7 +5,7 @@ title: "Joe's Dad: The CEO Who Did Not Fail"
 aliases: ["the failed CEO story", "Joe's father fired as CEO", "Lumen Optics", "the dad who organized his life around a false belief", "the parent company shut us down story", "Joe's dad you didn't fail"]
 tags: ["example", "limiting beliefs", "false thought", "failure", "identity", "father"]
 related: ["three-kinds-of-limiting-beliefs", "limiting-belief", "epiphany-vs-transformation"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Joe's Dad: The CEO Who Did Not Fail
@@ -75,3 +75,4 @@ This story is one of the early imprints on Joe's coaching practice. Watching his
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

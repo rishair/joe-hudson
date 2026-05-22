@@ -5,7 +5,7 @@ title: "Mind Unsees First, Body Unsees Last"
 aliases: ["mind first body last", "the order of dissolution", "brain stops believing first", "body is last to let go", "your mind will be the last to see it and the first to unsee it", "the layered dissolution order", "head first body last"]
 tags: ["transformation", "embodiment", "limiting beliefs", "integration", "layers", "principle"]
 related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "dissolution-not-behavior-control", "integration", "three-stages-of-integration", "emotions-live-in-muscles", "epiphany-vs-transformation"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Mind Unsees First, Body Unsees Last
@@ -82,3 +82,4 @@ Joe delivers this matter-of-factly. The point is not to discourage anyone whose 
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

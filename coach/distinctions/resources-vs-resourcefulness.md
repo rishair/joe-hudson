@@ -5,7 +5,7 @@ title: "Resources vs. Resourcefulness"
 aliases: ["resources versus resourcefulness", "resources won't solve resourcefulness", "money vs creativity", "capital vs capability", "resources can't fix resourcefulness"]
 tags: ["money", "business", "creativity", "scarcity", "limiting-belief"]
 related: ["if-i-had-more-money", "money-as-surrogate", "constraints-increase-creativity", "ill-become-lazy-without-shoulds"]
-sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Empower Over Power"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Empower Over Power", "2022-10-26_Money Can't Save You"]
 ---
 
 # Resources vs. Resourcefulness
@@ -54,3 +54,5 @@ This is why the [[empowered-vs-power]] distinction maps cleanly onto the resourc
 ## Sources
 
 - 2021-04-23_Money Can't Save You
+- 2022-10-26_Money Can't Save You (rebroadcast)
+- 2022-10-26_Empower Over Power

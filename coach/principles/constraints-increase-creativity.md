@@ -5,7 +5,7 @@ title: "Constraints Increase Creativity"
 aliases: ["constraints amplify creativity", "limits unlock creation", "constraint as freedom", "iambic pentameter principle", "Shakespeare constraint", "Michelangelo constraint", "constraint produces art"]
 tags: ["creativity", "constraints", "freedom", "art", "money"]
 related: ["resources-vs-resourcefulness", "michelangelo-sistine-chapel", "if-i-had-more-money", "principles-free-you", "acceptance-as-change-strategy"]
-sources: ["2021-04-23_Money Can't Save You"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You"]
 ---
 
 # Constraints Increase Creativity
@@ -57,3 +57,4 @@ When a person describes being blocked by a constraint, the question is whether t
 ## Sources
 
 - 2021-04-23_Money Can't Save You
+- 2022-10-26_Money Can't Save You (rebroadcast)

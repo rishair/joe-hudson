@@ -5,7 +5,7 @@ title: "Loving Conflict vs. Wanting Conflict"
 aliases: ["loving conflict vs wanting conflict", "love conflict vs want conflict", "conflict lover vs conflict creator", "loves vs creates conflict", "loving conflict not creating it", "the conflict distinction"]
 tags: ["conflict", "distinction", "anger", "drama", "leadership"]
 related: ["anger-as-containment-for-the-conflict-seeker", "trust-requires-conflict", "conflict-avoidance-prevents-healing", "anger", "fear-triangle"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
 ---
 
 # Loving Conflict vs. Wanting Conflict
@@ -59,3 +59,4 @@ This is also why someone who has done significant emotional work tends to move f
 ## Sources
 
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
+- 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)

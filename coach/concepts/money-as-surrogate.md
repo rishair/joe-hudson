@@ -5,7 +5,7 @@ title: "Money as Surrogate"
 aliases: ["money is love", "money is father's love", "money as substitute", "money standing in for something else", "money is security", "money is power", "what money is not", "money as projection", "projecting on money"]
 tags: ["money", "childhood-imprinting", "surrogates", "shoulds", "wants", "trauma-mapping", "projection"]
 related: ["trauma-mapping", "childhood-imprinting", "joes-pleasing-dad-money-story", "the-want", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "shame-drives-behavior", "find-the-want-behind-the-should"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You"]
 ---
 
 # Money as Surrogate
@@ -88,6 +88,18 @@ The question Joe raises: what would happen if humans put their faith in somethin
 
 This is the structural framing of the surrogate problem at the social level. The relationship with money does not heal at the level of money, individually or collectively. It heals when faith finds a different object.
 
+## Community as the Other Faith Object
+
+The closest concrete example Joe offers of what humans put their faith in besides money: community. In his early twenties, he went directly from teaching Head Start in the Hayes Valley projects in San Francisco to working in international stock lending. The contrast was visible. One population relied on money for survival and happiness. The other population relied on community for survival and happiness.
+
+"One has money, one has community. One relies on money for survival, and one relies on community for survival. One generally relies on money for happiness. One generally relies on community for happiness." -- Joe Hudson, Money Can't Oppress You
+
+The observation underneath: each side wanted what the other had. The community-rich wanted the money. The money-rich did not always want the community (often community felt heavy to them, because of how they were taught). The fact that both populations carried [[poverty-mentality]] in one form or another is the precise content of the surrogate analysis: the resource that is scarce in one's life becomes the projection screen, regardless of which resource the rest of one's life is rich in.
+
+"Both of them had poverty in one way or another." -- Joe Hudson, Money Can't Oppress You
+
+This pairs with the broader question about faith objects: community satisfies the criteria of abundance (anyone can be in community), no scarcity, no short-term power. Faith placed in community produces different outcomes than faith placed in money. Neither population in Joe's observation had pure faith in community; the people without money were actively wanting money, indicating that money still held some of the faith. But the relative weight was shifted, and the lived experience differed accordingly.
+
 ## When Someone Experiences This
 
 - The reaction to news about other people's money is visceral rather than measured
@@ -117,3 +129,5 @@ This is the structural framing of the surrogate problem at the social level. The
 
 - 2021-04-23_Money Can't Save You
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast; the explicit Hayes Valley vs. stock-lending observation about community-as-faith-object and "both had poverty in one way or another")
+- 2022-10-26_Money Can't Save You (rebroadcast of 2021-04-23)

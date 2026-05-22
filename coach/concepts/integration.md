@@ -5,7 +5,7 @@ title: "Integration"
 aliases: ["integrating transformation", "transcend and integrate", "normalizing transformation", "post-breakthrough integration"]
 tags: ["development", "transformation", "learning", "process"]
 related: ["epiphany-vs-transformation", "three-stages-of-integration", "late-stage-reversion", "process-over-result", "container-of-love", "pendulation", "development-as-corkscrew", "quit-hope-lose-cycle", "no-finish-line", "undoing-not-doing", "zen-sickness", "epiphany-becomes-rut"]
-sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Integrating A Transformative Experience"]
+sources: ["2020-12-11_Integrating a Transformative Experience", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Integrating A Transformative Experience", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # Integration
@@ -129,3 +129,4 @@ The paradox is structural. The collapse is the attempt to manufacture groundedne
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

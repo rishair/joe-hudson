@@ -4,7 +4,7 @@ id: hire-by-dream-job
 title: "Hire by Asking 'What's Your Dream Job?'"
 aliases: ["hire by dream job", "ask their dream job", "dream job hiring question", "the dream-job hiring move", "what's your dream job hiring", "fit by dream job", "the management-prevention hire", "hiring to avoid management", "ask what they want to do, not convince them"]
 tags: ["hiring", "leadership", "fit", "management", "delegation", "live move", "wants", "investing"]
-related: ["enjoy-over-manage", "follow-the-demand", "management-required-to-launch-predicts-management-required-forever", "inherent-goodness", "give-parameters-of-winning", "the-want", "wants-over-shoulds"]
+related: ["enjoy-over-manage", "follow-the-demand", "management-required-to-launch-predicts-management-required-forever", "inherent-goodness", "give-parameters-of-winning", "the-want", "wants-over-shoulds", "seeing-others-clearly-requires-not-looking-for-yourself"]
 sources: ["2022-10-26_Enjoy Over Manage", "2022-10-26_Jaime Waydo ｜ Putting My Needs First"]
 ---
 

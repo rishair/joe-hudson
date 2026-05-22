@@ -5,7 +5,7 @@ title: "Identity Changes on Three Levels: Intellectual, Emotional, Nervous Syste
 aliases: ["identity changes on three levels", "three levels of identity change", "intellectual emotional nervous system change", "head heart body identity change", "all three levels must shift", "rational understanding is not enough", "you can see it intellectually but still act it out", "why intellectual insight is not enough", "the three-layer change requirement", "boss-as-dad pattern", "I know my boss isn't my dad but I still react that way", "intellectual understanding without emotional understanding", "I know it intellectually but I can't act on it"]
 tags: ["identity", "transformation", "change", "principle", "head heart body", "integration"]
 related: ["identity", "head-heart-gut", "feeling-the-unfelt-emotion", "feel-over-figure", "trace-emotion-to-its-first-felt", "epiphany-vs-transformation", "every-identity-has-limits"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Feel Over Figure"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Feel Over Figure", "2022-10-26_Seeing Identity For What It Is"]
 ---
 
 # Identity Changes on Three Levels: Intellectual, Emotional, Nervous System
@@ -124,3 +124,4 @@ Joe delivers this as good news, not bad news. People are not slow learners. The 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-09-16_Seeing Identity for What It Is
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
+- 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)

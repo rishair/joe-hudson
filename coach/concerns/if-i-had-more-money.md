@@ -4,7 +4,7 @@ id: if-i-had-more-money
 title: "If I had more money, I could solve my problems"
 aliases: ["money will solve it", "I just need more money", "if I had enough money", "money would fix this", "I'd be free if I had more money", "more money is the answer", "money is the solution"]
 tags: ["money", "scarcity", "surrogate", "concerns", "shoulds", "security"]
-sources: ["2021-04-23_Money Can't Save You"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You"]
 ---
 
 # If I had more money, I could solve my problems
@@ -68,3 +68,4 @@ The same underlying mechanism produces the opposite presentation: "money is bad 
 
 - 2021-04-23_Money Can't Save You
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Save You

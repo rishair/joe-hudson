@@ -5,7 +5,7 @@ title: "Michelangelo's Sistine Chapel Ceiling"
 aliases: ["Michelangelo example", "Sistine Chapel example", "God reaching for man", "the Sistine Chapel constraint", "Michelangelo ceiling", "the ceiling commentary"]
 tags: ["examples", "constraints", "creativity", "art", "money"]
 related: ["constraints-increase-creativity", "if-i-had-more-money", "acceptance-as-change-strategy", "resources-vs-resourcefulness"]
-sources: ["2021-04-23_Money Can't Save You"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You"]
 ---
 
 # Michelangelo's Sistine Chapel Ceiling
@@ -44,3 +44,4 @@ Acceptance of the constraint plus full creative response. Michelangelo did not r
 ## Sources
 
 - 2021-04-23_Money Can't Save You
+- 2022-10-26_Money Can't Save You (rebroadcast)

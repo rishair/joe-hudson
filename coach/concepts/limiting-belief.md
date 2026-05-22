@@ -5,7 +5,7 @@ title: "Limiting Belief"
 aliases: ["limiting beliefs", "what a limiting belief is", "limiting belief definition", "beliefs that limit you", "belief that limits", "the limiting belief", "limiting thought"]
 tags: ["limiting beliefs", "belief", "transformation", "freedom", "concept"]
 related: ["seven-limiting-beliefs", "three-kinds-of-limiting-beliefs", "limiting-belief-detection-signals", "comparative-mind", "untruth-in-every-thought", "binary-thinking-signals-fear", "wonder", "inherent-goodness"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Limiting Belief
@@ -21,6 +21,10 @@ The two people who would lose weight differently make the point. "If you were to
 ## Beliefs Affect Everything
 
 Beliefs run beneath actions, choices, wants, and capacities. Limiting beliefs do not merely block one specific outcome; they shape the field in which all action happens. This is why working on limiting beliefs is more leveraged than working on behaviors. The belief is the rail; the behavior runs on the rail.
+
+The most general definition of the limit is the inability to integrate new information. The same statement opens the episode and closes it: a person who cannot integrate new knowledge is limited, regardless of what they currently know.
+
+"It's about being able to integrate new knowledge. And if you can't integrate new knowledge because you think you have the whole story, then you're limited, period." -- Joe Hudson, Limiting Beliefs
 
 ## The Three Structural Types
 
@@ -91,3 +95,4 @@ Beliefs sort into personal (idiosyncratic to one person) and societal (shared wi
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs (a re-teaching of much of the same material with Brett)

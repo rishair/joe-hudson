@@ -5,7 +5,7 @@ title: "The Quit-Hope-Lose Cycle"
 aliases: ["I hope this lasts", "holding on to change", "fear of losing progress", "achievement and loss cycle", "transformation relapse cycle", "how do I keep it", "fear of losing the serenity", "the gripping question"]
 tags: ["transformation", "resistance", "patterns", "attachment"]
 related: ["pendulation", "enjoyment-as-path", "process-over-result", "resistance", "empowered-vs-power", "helplessness-is-the-gateway", "pow-optimist", "undoing-not-doing", "no-finish-line", "integration"]
-sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Embarking On The Journey", "2022-10-26_Empower Over Power"]
+sources: ["2021-02-13_Embarking on the Journey — Master Class Series #2", "2021-03-26_Empower over Power — Master Class Series #8", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Embarking On The Journey", "2022-10-26_Empower Over Power", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # The Quit-Hope-Lose Cycle
@@ -95,3 +95,7 @@ This dynamic also explains why optimists fail under sustained pressure. See [[po
 - 2021-02-13_Embarking on the Journey -- Master Class Series #2
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)
+- 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-10-26_Embarking On The Journey (rebroadcast of the 2021-02-13 episode)
+- 2022-10-26_Empower Over Power (rebroadcast of the 2021-03-26 episode)
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

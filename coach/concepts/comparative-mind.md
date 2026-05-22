@@ -5,7 +5,7 @@ title: "Comparative Mind"
 aliases: ["comparison mind", "comparing yourself", "the Tibetan teaching on comparison", "better than worse than equal to", "comparative mind is misery", "the comparative mind"]
 tags: ["comparison", "Tibetan Buddhism", "judgment", "suffering", "concept"]
 related: ["limiting-belief", "judgment-vs-discernment", "using-limiting-belief-frame-to-judge-others", "shame-as-disconnection", "untruth-in-every-thought", "voice-in-the-head"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Comparative Mind
@@ -79,3 +79,4 @@ The Tibetan framing is short and memorable, which is part of why Joe uses it. It
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

@@ -5,7 +5,7 @@ title: "Alex Bell Told Joe He Lied"
 aliases: ["the Alex Bell story", "Joe's compulsive lying", "Joe stops lying", "freshman year truth", "the most profound act of love", "Joe lying as a kid"]
 tags: ["love", "truth", "vulnerability", "example", "Joe's biography"]
 related: ["love-vs-nice", "love-as-deep-welcoming", "vulnerability", "people-pleasing", "letting-judgment-in"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
 ---
 
 # Alex Bell Told Joe He Lied
@@ -83,3 +83,4 @@ This is the half of the story that the AI coach should not miss: love delivered 
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Love Over Defense (podcast version of the masterclass)

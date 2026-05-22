@@ -5,7 +5,7 @@ title: "Money as a Coaching Domain"
 aliases: ["coaching about money", "money work", "money as the kinkiest thing", "money shame", "money pride", "money topic"]
 tags: ["money", "applications", "shame", "kinky", "domain"]
 related: ["money-as-surrogate", "if-i-had-more-money", "money-is-bad", "money-is-impersonal", "poverty-mentality", "resources-vs-resourcefulness", "constraints-increase-creativity", "same-scarcity-story-regardless-of-wealth", "acceptance-as-change-strategy", "joes-pleasing-dad-money-story", "integrity-as-money-compass", "just-business-vs-impersonal", "money-must-flow"]
-sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses"]
+sources: ["2021-04-23_Money Can't Save You", "2021-05-07_Money Can't Oppress You", "2021-06-04_The Business Behind our Courses", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You"]
 ---
 
 # Money as a Coaching Domain
@@ -105,6 +105,16 @@ The domain extends into business decisions where money is the visible currency b
 
 The work in each case is at the level of what is personal about the money behavior, not at the level of business strategy.
 
+## When Money Enters the Activity
+
+A specific pattern that surfaces when work that was enjoyed for its own sake starts to be paid for: the enjoyment can collapse. The artist who loved making art begins to dread the studio once the gallery is paying. The activity that flowed freely begins to feel like performance. The pressure to perform takes the joy out, and once the joy is gone, the work either deteriorates or becomes a slog.
+
+"I know plenty of artists who lose their desire to be an artist when they're getting paid for it. It completely changes their whole enjoyment of the activity once they're getting paid. It puts a pressure on them and then they feel like they have to perform and then the having to perform takes all the joy out." -- Joe Hudson, Money Can't Save You
+
+The mechanism is the same surrogate-overlay: money brings the projection-of-worth into a domain that was previously protected from it. The activity stops being itself and starts being a referendum.
+
+The coaching question is not "should you take the money" or "should you refuse the money." It is what the activity needs in order to stay alive, and whether the relationship with money is mature enough that pay does not collide with that. For some, the answer is structural separation: protect the activity from the money. For others, the answer is the same impersonal-money work as everywhere else. See [[money-is-impersonal]] and [[constraints-increase-creativity]] for the productive framing of money as a creative medium rather than a contaminant.
+
 ## The Operating Principle
 
 Once money is impersonal, the operational question shifts from "what is my strategy with money" to "what does integrity require in this transaction." See [[integrity-as-money-compass]]. The compass replaces the strategy. Decisions get made moment to moment by feel rather than by rule.
@@ -141,3 +151,5 @@ This is not pricing strategy in the conventional sense. It is the felt design of
 
 - 2021-04-23_Money Can't Save You
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast)
+- 2022-10-26_Money Can't Save You (rebroadcast of 2021-04-23)

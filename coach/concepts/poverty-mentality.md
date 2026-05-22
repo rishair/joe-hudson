@@ -5,7 +5,7 @@ title: "Poverty Mentality"
 aliases: ["poverty mindset", "poverty mentality", "scarcity of love", "scarcity of attention", "Joe's poverty mentality", "poverty isn't about money", "the false belief I can't get what I need"]
 tags: ["scarcity", "needs", "love", "childhood", "patterns", "money"]
 related: ["money-as-surrogate", "same-scarcity-story-regardless-of-wealth", "if-i-had-more-money", "childhood-imprinting", "familiar-over-safe", "trauma-mapping", "the-want"]
-sources: ["2021-05-07_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You"]
 ---
 
 # Poverty Mentality
@@ -57,6 +57,14 @@ This is why "I just need more money" rarely resolves anything. See [[if-i-had-mo
 
 It is also why [[same-scarcity-story-regardless-of-wealth]]: the billionaire and the person living paycheck to paycheck can have identical internal monologues about not having enough.
 
+## Poverty Mentality Coexists With External Abundance In Other Domains
+
+Poverty mentality does not negate other forms of richness. Joe's observation comparing the Hayes Valley projects population (community-rich, money-poor) with the international stock-lending population (money-rich, community-poor) makes the point concrete. Both populations carried poverty mentality. The projects population carried it about money. The stock-lending population often carried it about community (community felt heavy to them, was avoided, was rejected). Each had the internal poverty regarding the resource the other had in abundance.
+
+"What I noticed is the people with the community wanted the money, and the people with the money didn't always want the community. Sometimes the community was heavy for them, because of whatever they were taught. But both of them had poverty in one way or another." -- Joe Hudson, Money Can't Oppress You
+
+The diagnostic implication: do not infer poverty mentality from someone's external wealth in any single domain. Ask about the resource that is felt as scarce. That is where the mentality lives. A person can have abundant love and feel impoverished about money. A person can have abundant money and feel impoverished about love or community or attention. The poverty is always specific.
+
 ## What Resolves It
 
 The autopilot switches off when the belief is recognized as a belief rather than as reality, and when the underlying emotion (the original grief about not getting enough) is fully felt. See [[feeling-the-unfelt-emotion]] and [[the-want]] for the operational mechanisms.
@@ -88,3 +96,4 @@ The work is slow. Years, not weeks. But the switch can be made.
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast; the Hayes Valley community-rich vs. stock-lending money-rich observation)

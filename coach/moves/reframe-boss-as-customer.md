@@ -5,7 +5,7 @@ title: "Reframe the Boss as Your Customer"
 aliases: ["you don't have a boss you have a customer", "the boss is a customer", "boss is a client", "single-client reframe", "client not boss", "undiversified customer", "boss to customer move"]
 tags: ["projection", "authority", "workplace", "reframe", "empowerment", "family dynamics", "boss"]
 related: ["childhood-imprinting", "i-freeze-around-authority", "empowered-vs-power", "projections", "structure-and-empowerment", "vulnerability-in-the-workplace"]
-sources: ["2021-08-13_Seeing Through Family Dynamics"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Seeing Through Family Dynamics"]
 ---
 
 # Reframe the Boss as Your Customer
@@ -91,3 +91,4 @@ Direct, matter-of-fact, almost dry. There is no charge in the delivery. The flat
 ## Sources
 
 - 2021-08-13_Seeing Through Family Dynamics
+- 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation)

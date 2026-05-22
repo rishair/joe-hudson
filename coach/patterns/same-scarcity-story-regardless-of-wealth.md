@@ -5,7 +5,7 @@ title: "Same Scarcity Story Regardless of Wealth"
 aliases: ["billionaire-and-me thought", "billionaires think the same way", "I'm a billionaire realization", "wealth doesn't change the story", "scarcity loop independent of money", "the mind always wants more", "more more more pattern"]
 tags: ["money", "scarcity", "mind", "patterns", "gratitude"]
 related: ["if-i-had-more-money", "money-as-surrogate", "resources-vs-resourcefulness", "ill-become-lazy-without-shoulds", "constraints-increase-creativity"]
-sources: ["2021-04-23_Money Can't Save You"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You"]
 ---
 
 # Same Scarcity Story Regardless of Wealth
@@ -57,3 +57,4 @@ The follow-up is not "stop wanting more." The follow-up is to investigate where 
 ## Sources
 
 - 2021-04-23_Money Can't Save You
+- 2022-10-26_Money Can't Save You (rebroadcast)

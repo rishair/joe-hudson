@@ -5,7 +5,7 @@ title: "Defensiveness, Constriction, and 'Who Would I Be Without This' as Identi
 aliases: ["defensiveness as identity signal", "constriction signals identity", "the 'who would I be' fear", "body constriction reveals identity", "fear of losing the thing is identity", "the defense reveals the identity", "the physical signature of identity"]
 tags: ["read", "identity", "defensiveness", "body", "diagnostic"]
 related: ["identity", "every-identity-has-limits", "transparent-identity-vs-rigid", "defense", "view-around-self-as-identity-diagnostic", "hardening-means-personal", "binary-thinking-signals-fear"]
-sources: ["2022-09-16_Seeing Identity for What It Is"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is"]
 ---
 
 # Defensiveness, Constriction, and 'Who Would I Be Without This' as Identity Signals
@@ -78,3 +78,4 @@ Joe meets the constriction with warmth, not pressure. The read is "ah, there it 
 ## Sources
 
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)

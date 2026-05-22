@@ -5,7 +5,7 @@ title: "Heartbreak as Capacity Expansion"
 aliases: ["heartbreak expands capacity", "heart breaks open", "every heartbreak increases love", "let your heart break", "break open not break down", "expansion through heartbreak"]
 tags: ["heartbreak", "love", "capacity", "intensity", "purification"]
 related: ["love-as-deep-welcoming", "letting-judgment-in", "feeling-the-unfelt-emotion", "embrace-intensity", "defense", "vulnerability"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Love Over Defense"]
 ---
 
 # Heartbreak as Capacity Expansion
@@ -124,3 +124,4 @@ When someone reports being unable to feel anything anymore: defense is intact an
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
+- 2022-10-26_Love Over Defense (podcast version of the masterclass)

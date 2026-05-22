@@ -5,7 +5,7 @@ title: "Helplessness Is the Gateway to Empowerment"
 aliases: ["feel the helplessness", "helplessness makes you more capable", "feeling helpless to feel empowered", "through helplessness to empowerment"]
 tags: ["helplessness", "empowerment", "feeling", "emotion", "paradox"]
 related: ["empowered-vs-power", "fear-triangle", "fear-is-about-feeling", "feeling-the-unfelt-emotion", "embrace-intensity", "what-we-fear-we-invite", "i-have-to-do-it-all-myself", "reclaiming-abandonment", "container-of-love"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Empower Over Power", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Empower Over Power", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # Helplessness Is the Gateway to Empowerment
@@ -124,3 +124,4 @@ The loop completes only when the helplessness is felt and welcomed. Then the bod
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_Empower Over Power
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

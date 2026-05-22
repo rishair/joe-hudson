@@ -5,7 +5,7 @@ title: "Limiting Belief Detection Signals"
 aliases: ["how to detect limiting beliefs", "diagnostic signals of limiting beliefs", "signals of a limiting belief", "where limiting beliefs live", "limiting belief diagnostics", "felt sense of limiting beliefs", "constriction tension stagnation"]
 tags: ["limiting beliefs", "diagnostics", "felt sense", "patterns", "body awareness"]
 related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "find-what-you-absolutely-believe", "binary-thinking-signals-fear", "i-feel-trapped", "no-finish-line", "trappedness-feeling"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Limiting Belief Detection Signals
@@ -97,3 +97,4 @@ This is also why limiting-belief work cannot be done as a purely intellectual ex
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

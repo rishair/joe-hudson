@@ -5,7 +5,7 @@ title: "Love vs. Nice"
 aliases: ["love is not nice", "nice is not love", "loving is not being nice", "love vs niceness", "hard truth as love"]
 tags: ["love", "niceness", "truth", "people-pleasing", "compassion"]
 related: ["love-as-deep-welcoming", "vulnerability", "people-pleasing", "caring-vs-caretaking", "letting-judgment-in"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
 ---
 
 # Love vs. Nice
@@ -106,3 +106,4 @@ Gandhi held boundaries. Mother Teresa held boundaries. The figures held up as ex
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Love Over Defense (podcast version of the masterclass)

@@ -5,7 +5,7 @@ title: "Love Is the Best Change Agent"
 aliases: ["love changes things", "loving moves things", "love as transformation", "the mechanism of love", "welcoming allows movement", "love unfreezes"]
 tags: ["love", "change", "transformation", "core principle"]
 related: ["love-as-deep-welcoming", "loving-to-transform", "tools-to-change-not-love", "awareness-as-change-agent", "loving-all-parts", "resistance", "love-the-anxiety-not-just-with-it"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
 ---
 
 # Love Is the Best Change Agent
@@ -106,3 +106,4 @@ When someone has just started loving a long-rejected part of themselves and is s
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Love Over Defense (podcast version of the masterclass)

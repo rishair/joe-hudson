@@ -5,7 +5,7 @@ title: "Integrity as the Compass for Money Decisions"
 aliases: ["integrity with money", "alignment as money guide", "money by deep truth", "integrity over strategy", "the koan of money", "money in alignment"]
 tags: ["money", "integrity", "principles", "alignment", "decision-making"]
 related: ["money-is-impersonal", "money-as-surrogate", "money-domain", "listening-to-impulse", "wants-over-shoulds", "principles-free-you"]
-sources: ["2021-05-07_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You"]
 ---
 
 # Integrity as the Compass for Money Decisions
@@ -73,3 +73,4 @@ These are versions of the same compass question. The coachee learns to ask them 
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast)

@@ -5,7 +5,7 @@ title: "Three Kinds of Limiting Beliefs"
 aliases: ["three types of limiting beliefs", "3 kinds of limiting beliefs", "categories of limiting beliefs", "false thought misinterpretation whole story", "structural types of limiting beliefs", "how the mind plays the trick", "head lie emotional lie epistemic lie", "three structural types of limiting belief"]
 tags: ["limiting beliefs", "framework", "diagnostics", "transformation", "cognition", "interpretation", "epistemics"]
 related: ["limiting-belief", "limiting-belief-detection-signals", "seven-limiting-beliefs", "untruth-in-every-thought", "no-finish-line", "joes-dad-failed-ceo", "joe-ferris-wheel-ride", "covey-subway-story"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Three Kinds of Limiting Beliefs
@@ -106,3 +106,4 @@ The framework is for noticing your own. Used on others, it becomes a position of
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

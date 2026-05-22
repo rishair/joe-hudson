@@ -5,7 +5,7 @@ title: "Joe Weeping at Superficial Conversations"
 aliases: ["weeping in superficial conversations", "Joe crying about inane talk", "Joe's superficiality story", "65 miles an hour Santa Barbara", "Joe and the inane conversations", "the pink elephant in the alcoholic household", "weeping over Santa Barbara conversation", "the not being seen as the problem child story"]
 tags: ["heartbreak", "judgment", "connection", "example", "Joe's biography"]
 related: ["heartbreak-as-capacity-expansion", "letting-judgment-in", "loving-all-parts", "defense", "judgment-vs-discernment", "feeling-the-unfelt-emotion", "feeling-changes-story", "trace-emotion-to-its-first-felt"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Love Over Defense"]
 ---
 
 # Joe Weeping at Superficial Conversations
@@ -98,3 +98,4 @@ The pattern repeats across domains. The person who has cut off vulnerability dis
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-10-26_Love Over Defense (podcast version of the masterclass)

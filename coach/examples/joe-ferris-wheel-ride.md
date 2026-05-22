@@ -5,7 +5,7 @@ title: "Joe on the Ferris Wheel Ride"
 aliases: ["the boardwalk ride story", "Joe's terrifying ride", "the carcinogenic chemicals story", "Joe laughing on the spinning ride", "the same experience terror or exhilaration", "the $50 ride story"]
 tags: ["example", "limiting beliefs", "misinterpretation", "fear", "exhilaration", "embodiment"]
 related: ["three-kinds-of-limiting-beliefs", "limiting-belief", "fear-vs-excitement", "embrace-vs-brace", "what-is-it-without-resistance"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Joe on the Ferris Wheel Ride
@@ -85,3 +85,4 @@ See [[what-is-it-without-resistance]] for the question that addresses this kind 
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

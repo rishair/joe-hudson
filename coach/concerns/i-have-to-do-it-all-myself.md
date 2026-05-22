@@ -4,7 +4,7 @@ id: i-have-to-do-it-all-myself
 title: "I have to do it all myself / I can't depend on others"
 aliases: ["I can't depend on people", "I don't need anyone", "I'm hyper-independent", "I have to be the strong one", "I can only count on myself", "I do it alone", "I don't ask for help", "self-reliance to a fault", "I waited for people to do things and they didn't", "I learned to depend only on myself", "it's lonely at the top", "nobody around me really gets it", "I have to hold all of this myself", "the lonely CEO presenting"]
 tags: ["independence", "abandonment", "self-reliance", "CEO", "compartmentalization", "loneliness", "concern"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Connection Over Perfection", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # I have to do it all myself / I can't depend on others
@@ -115,3 +115,4 @@ He does not skip to vulnerability as a tactic. The work is the substrate emotion
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
 - 2022-10-26_Connection Over Perfection (the lonely-CEO variant and the apologize-for-not-seeing-the-help move)
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

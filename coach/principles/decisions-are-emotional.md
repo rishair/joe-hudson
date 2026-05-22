@@ -5,7 +5,7 @@ title: "Decisions Are Emotional"
 aliases: ["we decide emotionally", "emotional decision making", "Descartes' Error", "logic serves emotion"]
 tags: ["emotions", "decisions", "business", "sales", "neuroscience"]
 related: ["view", "empathy", "epiphany-vs-transformation", "integration", "feel-over-figure", "three-signals-of-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "emotions-as-road-signs", "embrace-intensity", "fear-is-about-feeling"]
-sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW"]
+sources: ["2020-10-26_Introduction to VIEW", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2020-11-06_Empathy — Connection Course Series #4", "2020-12-11_Integrating a Transformative Experience", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-08_Embracing Intensity - Emotion Series #2", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure", "2022-10-26_Introduction to VIEW", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
 ---
 
 # Decisions Are Emotional
@@ -113,3 +113,4 @@ This is the mechanism by which [[epiphany-vs-transformation]] at the emotional l
 - 2022-01-15_Sam Altman -- Leading with Crippling Anxiety, Discovering Meditation, and Buildin
 - 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)
 - 2022-10-26_Introduction to VIEW (rebroadcast of the 2020-10-26 episode)
+- 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)

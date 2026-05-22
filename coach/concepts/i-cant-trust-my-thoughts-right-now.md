@@ -5,7 +5,7 @@ title: "I Can't Trust My Thoughts Right Now"
 aliases: ["the felt sense of being in trauma", "I'm in my trauma sensation", "trauma body signature", "the body knows it's in trauma", "felt sense of the pattern firing", "I can't trust my thinking right now", "wait until I'm out of trauma"]
 tags: ["trauma", "patterns", "rational mind", "body awareness", "self-recognition", "decision-making"]
 related: ["trauma-mapping", "childhood-imprinting", "feeling-the-unfelt-emotion", "feel-over-figure", "decisions-are-emotional", "emotions-live-in-muscles", "three-signals-of-unfelt-emotion"]
-sources: ["2021-08-13_Seeing Through Family Dynamics"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Seeing Through Family Dynamics"]
 ---
 
 # I Can't Trust My Thoughts Right Now
@@ -90,3 +90,4 @@ Plain, almost clinical. Joe describes this without drama. The matter-of-fact ton
 ## Sources
 
 - 2021-08-13_Seeing Through Family Dynamics
+- 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation; opens with the "I can't trust my thoughts right now" quote as the cold open)

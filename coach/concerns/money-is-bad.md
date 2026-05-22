@@ -4,7 +4,7 @@ id: money-is-bad
 title: "Money is bad / I don't want to play that game"
 aliases: ["money is evil", "money corrupts", "rich people are bad", "the system sucks", "I don't want to participate in this", "I don't want to be that person", "wealth is gross", "I refuse to play the money game"]
 tags: ["money", "judgment", "projection", "concerns", "shame", "rebellion"]
-sources: ["2021-05-07_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You"]
 ---
 
 # Money is bad / I don't want to play that game
@@ -73,3 +73,4 @@ Joe will not let "it's just business" pass unexamined. That phrase signals the m
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast)

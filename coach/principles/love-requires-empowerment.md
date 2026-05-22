@@ -5,7 +5,7 @@ title: "Love Requires Empowerment"
 aliases: ["love can't exist without empowerment", "you can't love if you're not empowered", "empowerment as precondition for love", "love and empowerment", "fear can't love"]
 tags: ["love", "empowerment", "fear", "power", "core principle"]
 related: ["love-as-deep-welcoming", "empowered-vs-power", "helplessness-is-the-gateway", "fear-is-about-feeling", "defense"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Authenticity Over Improvement", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Authenticity Over Improvement", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Love Over Defense"]
 ---
 
 # Love Requires Empowerment
@@ -121,3 +121,8 @@ The fully empowered narcissist is empowered but not loving. The fully empowered 
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-10-26_Authenticity Over Improvement
+- 2022-10-26_Empower Over Power
+- 2022-10-26_Father Figures And Authority (Coaching Session)
+- 2022-10-26_Love Over Defense

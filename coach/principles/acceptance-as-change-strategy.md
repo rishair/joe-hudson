@@ -5,7 +5,7 @@ title: "Acceptance Is the Most Effective Path to Change"
 aliases: ["accept then change", "acceptance enables change", "fighting is inefficient", "accept how it is to change how it will be", "acceptance is not resignation", "love and accept and ask to change", "acceptance vs resignation"]
 tags: ["acceptance", "change", "strategy", "love", "boundaries", "system-change"]
 related: ["love-is-the-best-change-agent", "boundary-with-vs-boundary-against", "enjoy-over-manage", "loving-all-parts", "if-i-had-more-money"]
-sources: ["2021-04-23_Money Can't Save You"]
+sources: ["2021-04-23_Money Can't Save You", "2022-10-26_Money Can't Save You"]
 ---
 
 # Acceptance Is the Most Effective Path to Change
@@ -73,3 +73,4 @@ The same applies to self-relationship, to children, to employees. Anywhere a per
 ## Sources
 
 - 2021-04-23_Money Can't Save You
+- 2022-10-26_Money Can't Save You (rebroadcast)

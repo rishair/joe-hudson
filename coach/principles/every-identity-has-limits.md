@@ -5,7 +5,7 @@ title: "Every Identity Has Its Own Limits (Including the 'Good' Ones)"
 aliases: ["every identity has limits", "every identity creates limitations", "positive identities limit too", "good identity is still identity", "the loving one identity also limits", "the egoless one is an identity", "even good identities are constraints", "the right identity is still an identity"]
 tags: ["identity", "principle", "limits", "self", "ego"]
 related: ["identity", "transparent-identity-vs-rigid", "dont-fight-identity", "epiphany-becomes-rut", "improvement-vs-authenticity", "loving-all-parts", "idea-of-self-vs-actual-self"]
-sources: ["2022-09-16_Seeing Identity for What It Is"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is"]
 ---
 
 # Every Identity Has Its Own Limits (Including the 'Good' Ones)
@@ -108,3 +108,4 @@ Joe holds this with a knowing humor. He has been the egoless one. He knows the t
 ## Sources
 
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)

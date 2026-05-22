@@ -5,7 +5,7 @@ title: "Joe's Board Member: Love in a War"
 aliases: ["the board member story", "Joe's board war", "removing the board member", "love over defense board story", "Joe fighting with an open heart"]
 tags: ["love", "conflict", "boundaries", "empowerment", "example"]
 related: ["love-as-deep-welcoming", "love-requires-empowerment", "defense", "boundary-with-vs-boundary-against", "heartbreak-as-capacity-expansion"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
 ---
 
 # Joe's Board Member: Love in a War
@@ -98,3 +98,4 @@ The story illustrates one possibility: that welcoming and fighting are not incom
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Love Over Defense (podcast version of the masterclass)

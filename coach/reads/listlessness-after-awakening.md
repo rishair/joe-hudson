@@ -4,7 +4,7 @@ id: listlessness-after-awakening
 title: "Listlessness After Awakening"
 aliases: ["post-awakening flatness", "I've lost my passion after meditation", "I don't care anymore after the awakening", "no drive after non-duality", "the post-non-duality dropout", "I don't feel the fire I used to", "is this the end of caring"]
 tags: ["awakening", "non-duality", "joy", "passion", "depersonalization", "transformation"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
 ---
 
 # Listlessness After Awakening
@@ -72,3 +72,4 @@ Reassuring but not dismissive. Joe takes the listlessness seriously as data whil
 ## Sources
 
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
+- 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)

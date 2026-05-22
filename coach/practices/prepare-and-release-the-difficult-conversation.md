@@ -5,7 +5,7 @@ title: "Prepare and Release the Difficult Conversation"
 aliases: ["script and release", "prepare then let go", "rehearse every outcome", "become okay with any outcome", "the parking lot practice", "preparing the unspoken conversation", "approaching the source conversation"]
 tags: ["vulnerability", "impartiality", "preparation", "outcome-attachment", "practices", "relational"]
 related: ["visualizing-feared-outcomes", "vulnerability", "impartiality", "stacy-father-conversation", "reclaiming-abandonment", "feared-consequences-rarely-happen", "fear-is-about-feeling", "trace-emotion-to-its-first-felt"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # Prepare and Release the Difficult Conversation
@@ -84,3 +84,4 @@ Often the unspoken truth is not obvious. It feels like a knot rather than a sent
 ## Sources
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

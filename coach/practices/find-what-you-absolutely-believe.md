@@ -5,7 +5,7 @@ title: "Find What You Absolutely Believe"
 aliases: ["the absolute belief diagnostic", "what do you absolutely believe to be true", "the water you swim in question", "find the unquestioned context", "the certainty diagnostic", "find the culprit belief"]
 tags: ["limiting beliefs", "diagnostics", "inquiry", "certainty", "practice"]
 related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "limiting-belief-detection-signals", "inquiry-on-limiting-beliefs", "untruth-in-every-thought", "cult-of-one"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Find What You Absolutely Believe
@@ -88,3 +88,4 @@ The practice is quietly investigative. Not "what am I doing wrong?" but "what am
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

@@ -5,7 +5,7 @@ title: "Don't Use the Limiting Belief Frame to Judge Others"
 aliases: ["limiting beliefs as a tool to be above others", "the woke trap", "look they have limiting beliefs", "weaponized limiting belief framework", "gaslighting with limiting beliefs", "everyone else has limiting beliefs"]
 tags: ["anti-pattern", "limiting beliefs", "comparison", "gaslighting", "spiritual-narcissism"]
 related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "comparative-mind", "spiritual-narcissism", "fixing-people", "fault-vs-responsibility"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Don't Use the Limiting Belief Frame to Judge Others
@@ -53,3 +53,4 @@ The other person's growth, if it happens, will happen at their pace and in their
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

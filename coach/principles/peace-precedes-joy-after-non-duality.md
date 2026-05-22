@@ -5,7 +5,7 @@ title: "Peace Precedes Joy After Non-Duality (Sometimes for a Decade)"
 aliases: ["peace before joy", "joy comes after peace", "the 10 year peace phase", "peace is not the end", "non-duality is not the end", "evolution doesn't stop at non-duality", "people stuck in peace", "from peace to joy after awakening", "the post-non-duality joy phase"]
 tags: ["non-duality", "joy", "peace", "development", "stages", "self-realization"]
 related: ["self-realization", "joy-as-matriarch", "no-finish-line", "zen-sickness", "listlessness-after-awakening", "expanding-sense-of-self", "negative-emotions-precede-positive", "peace-is-what-we-resist-the-most", "craving-is-the-pushing-away"]
-sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Sam Altman ｜ Self-Awareness In Business"]
 ---
 
 # Peace Precedes Joy After Non-Duality (Sometimes for a Decade)
@@ -95,3 +95,4 @@ Joe delivers this conversationally, almost casually. He does not make a big deal
 - 2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2022-10-26_Sam Altman | Self-Awareness In Business (rebroadcast of the 2022-01-15 conversation)

@@ -5,7 +5,7 @@ title: "I Don't Buy Your Story"
 aliases: ["I don't buy that", "Joe doesn't buy the story", "dismissing the limiting belief directly", "calling out the limiting belief in a sentence", "the direct dismissal move", "I don't buy that defining feature", "I don't buy the limiting belief"]
 tags: ["move", "limiting beliefs", "directness", "confrontation", "naming"]
 related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "deconstruct-the-victim-to-release-anger", "find-the-want-behind-the-should", "tell-them-like-an-asshole", "dont-make-family-dynamics-the-story"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # I Don't Buy Your Story
@@ -18,13 +18,25 @@ The dismissal is calibrated. It is not about the person. It is about the story t
 
 "What I said to them apparently, in the way that I can be a dick sometimes, is that I basically said, 'I don't buy your story.' Just like I dismissed what for them was like a defining feature of them apparently. And I was just like, I just don't buy it. I don't buy that story. Or in my world, it would've been limiting belief. Like I just didn't buy the limiting belief." -- Joe Hudson, Limiting Beliefs
 
+## The Connection Course Forum Story
+
+In a short session (about six minutes) on the Connection Course, Joe used this move with a forum participant. He did not have a strong memory of the person because the session was brief. What he said challenged her so directly that she became visibly angry. He named her defining feature -- the thing she was most identified with -- and refused to buy it.
+
+She left the session upset. Later, on the forum, she wrote back about what unfolded. The anger had given way to a substantial epiphany. The dismissal of the belief had cracked something open.
+
+"It really, I think, pissed her off. It's hard to describe, but I wasn't there for her experience of it. But I think she was definitely challenged by it. I think definitely angry. And then it led to like this huge unfolding for her, as challenging any limiting belief does." -- Joe Hudson, Limiting Beliefs
+
+The story is the canonical illustration of the move's mechanics: short delivery, predictable anger, eventual unfolding. The coach does not get to see the unfolding in the moment. The unfolding may not happen for hours or days. The move plants something; the integration happens elsewhere.
+
 ## When Joe Uses It
 
-When someone presents a limiting belief as obvious fact and is asking how to navigate inside the belief rather than questioning it. Brett describes this dynamic well:
+When someone presents a limiting belief as obvious fact and is asking how to navigate inside the belief rather than questioning it. Brett describes the pattern in both episodes:
 
-"That's really one of the common things that I see when you're doing sessions with people, it's, it's challenging those beliefs. And often I see people coming to you with sort of a, how do I approach this challenge in my life, but within my belief system, and then you're just like, eh, eh, like batting them aside and people are like, no, no, no, no, no."
+"That's really one of the common things that I see when you're doing sessions with people, it's, it's challenging those beliefs. And often I see people coming to you with sort of a, how do I approach this challenge in my life but within my belief system, and then you're just like, eh, eh, like batting them aside and people are like, no, no, no, no, no." -- Brett Kistler, Limiting Beliefs (2022-10-26)
 
 The signal is the person bringing a question that presupposes the belief. They are asking "given that X is true about me, how do I do Y?" The belief X is the thing the move targets. If the person were genuinely uncertain about X, the move would not be needed. The certainty is what makes the move appropriate.
+
+The "batting them aside" framing is precise. The move is not engagement with the belief. It is refusal to engage on the belief's terms. The person comes in wanting to negotiate inside the cage; the coach declines to negotiate and instead refuses the cage.
 
 ## What It Produces
 
@@ -102,3 +114,4 @@ The "in the way I can be a dick sometimes" is important. Joe is not performing k
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

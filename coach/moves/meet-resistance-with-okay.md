@@ -5,7 +5,7 @@ title: "Meet Resistance With 'Okay'"
 aliases: ["the okay move", "Joe's okay response", "okay to not doing the work", "okay if you don't want to", "don't save them from quitting", "non-attached okay", "let them leave", "non-rescue", "match resistance with permission"]
 tags: ["coaching-relationship", "autonomy", "non-attachment", "resistance", "fixing", "moves"]
 related: ["fixing-people", "the-work-is-yours-not-mine", "follow-the-demand", "owning-your-partiality", "wonder-as-strategy", "wants-over-shoulds", "loving-to-transform", "become-unnecessary"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # Meet Resistance With 'Okay'
@@ -85,3 +85,4 @@ He does not use the okay strategically. If it is a strategy to flip the client i
 ## Sources
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

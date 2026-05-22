@@ -5,7 +5,7 @@ title: "Stacy and the Conversation With Her Father"
 aliases: ["Stacy Brown-Philpot father conversation", "the parking lot conversation", "Stacy's reclaiming abandonment", "the script and the freedom", "you've always mattered to me", "the Detroit conversation"]
 tags: ["abandonment", "vulnerability", "preparation", "outcome-impartiality", "examples", "childhood-source"]
 related: ["vulnerability", "visualizing-feared-outcomes", "trauma-mapping", "feeling-the-unfelt-emotion", "prepare-and-release-the-difficult-conversation", "reclaiming-abandonment", "feared-consequences-rarely-happen", "impartiality", "i-have-to-do-it-all-myself"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # Stacy and the Conversation With Her Father
@@ -92,3 +92,4 @@ This is the canonical example of going back to the original source rather than w
 ## Sources
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

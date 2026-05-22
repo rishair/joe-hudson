@@ -5,7 +5,7 @@ title: "\"It's Just Business\" vs. Truly Impersonal"
 aliases: ["just business vs impersonal", "it's just business", "the just business defense", "nothing personal as personal", "hardening to fire someone"]
 tags: ["money", "business", "defense", "shame", "hardening", "communication"]
 related: ["money-is-impersonal", "hardening-means-personal", "defense", "defense-vs-love", "boundary-with-vs-boundary-against", "three-ways-to-fire-someone"]
-sources: ["2021-05-07_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You"]
 ---
 
 # "It's Just Business" vs. Truly Impersonal
@@ -67,3 +67,4 @@ When a coachee uses "it's just business" or similar phrases ("it's not personal,
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast)

@@ -5,7 +5,7 @@ title: "Don't Turn Seeing Through Limiting Beliefs Into the New Finish Line"
 aliases: ["the limiting belief meta-trap", "I must see through all my limiting beliefs to be happy", "the meta-limiting-belief", "I'll be happy when I have no limiting beliefs", "the new should about limiting beliefs", "becoming the person who has no limiting beliefs"]
 tags: ["anti-pattern", "limiting beliefs", "meta-trap", "should", "future happiness", "arrival fantasy"]
 related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "no-finish-line", "wants-over-shoulds", "state-seeking", "epiphany-becomes-rut", "tools-to-change-not-love"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Don't Turn Seeing Through Limiting Beliefs Into the New Finish Line
@@ -73,3 +73,4 @@ Joe holds this lightly. The framing is "or don't" -- a permission, not a warning
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

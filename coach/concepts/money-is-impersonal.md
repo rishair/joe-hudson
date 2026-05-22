@@ -2,10 +2,10 @@
 type: concept
 id: money-is-impersonal
 title: "Money Is Impersonal"
-aliases: ["depersonalizing money", "money is not personal", "money isn't a reflection of you", "money flows differently when impersonal", "taking money personally", "money as projection"]
+aliases: ["depersonalizing money", "money is not personal", "money isn't a reflection of you", "money flows differently when impersonal", "taking money personally", "money as projection", "money as flower or cactus", "money like a landscape", "self-relationship mirrors money relationship", "money mirrors how you treat yourself"]
 tags: ["money", "projection", "identity", "shame", "freedom"]
 related: ["money-as-surrogate", "money-domain", "money-is-bad", "if-i-had-more-money", "just-business-vs-impersonal", "hardening-means-personal", "integrity-as-money-compass", "joes-pleasing-dad-money-story"]
-sources: ["2021-05-07_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You", "2022-10-26_Money Can't Save You"]
 ---
 
 # Money Is Impersonal
@@ -71,6 +71,34 @@ The shift to impersonal money is not a stance to adopt. It is a result of feelin
 
 The coaching error is to instruct the impersonal stance directly. "Stop taking it personally" produces a defended performance of impersonality, which is the most personal stance. The work is at the level of the original feeling that produced the personal stance in the first place.
 
+## Money as a Flower or a Cactus
+
+A useful framing for the impersonal stance, especially in parenting contexts: money is a powerful force in the world, man-made or otherwise, that gets its due respect, and that can be experienced the same way one experiences a flower, a cactus, or any landscape. Not loved-in-the-grasping sense, not hated-in-the-rejecting sense. Just noticed as a feature of the terrain. The relationship with it is the same kind of relationship one has with weather: present, real, sometimes consequential, but not personal.
+
+The framing keeps two things at the same time: respect for money as a powerful force that shapes lives, and freedom from the projection that money is a referendum on the person. This is what Joe describes wanting to model for his daughters.
+
+"To experience it the same way you would experience a flower or a cactus or any landscape, but not to feel like it has power over them and to be a victim to it or to hate it or to love it. Love it in the way of greed, not love it in the way of having love for it the way you might be able to have love for a flower or a tree." -- Joe Hudson, Money Can't Save You
+
+## Money Mirrors the Self-Relationship
+
+The relationship with money tracks the relationship with self. As self-love deepens, the relationship with money softens in the same direction. As empowerment grows, money interactions feel more empowered. As gratitude becomes a default stance, money interactions carry gratitude. As being of service becomes a felt joy, money is deployed in service.
+
+This is the same mechanism as the surrogate, run forward: if money is recruited to stand in for the original wants, then the resolution of those wants in the self changes what money is being asked to do. The mirror is not metaphor. It is the same internal architecture being expressed through whatever the money interaction happens to be.
+
+"As my relationship with myself changes, my relationship with money naturally changes too. So the more that I can love myself, the more that I love money as it is. The more that I feel empowered, the more I feel empowered with money. The more that I am grateful, the more I have an attitude of gratitude with my money. The more that I feel being of service is a joy, the more I'm of service with my money." -- Joe Hudson, Money Can't Save You
+
+The coaching implication: working on the self-relationship is the same work as working on the money-relationship. The two are not separable. A person who cannot soften toward themselves cannot soften toward money. A person whose self-relationship hardens, hardens around money as a downstream effect.
+
+## Money as a Reflection of Collective Consciousness
+
+At the social scale, the money system functions as a mirror of the mental and emotional state of the people inside it. The stock market is, in a real sense, the mental outlook of a portion of society, expressed as price. The market moves with mood, with caffeine, with collective fear, with collective greed. Joe makes the half-serious claim that removing all the caffeine from all the major cities would produce a financial depression, because the energy that markets price into themselves is partly metabolic.
+
+"The stock market is, in a weird way, it's kind of the mental outlook of a portion of our society and the way that a portion of our society feels. Like, I'm pretty confident if you took all the caffeine out of all the major cities that we would have a financial depression." -- Joe Hudson, Money Can't Save You
+
+The implication for the impersonal stance: money is not only a substrate for personal projection (see [[money-as-surrogate]]). It is also a substrate for collective projection. The mood of the country shows up in price. The fear of the country shows up in price. The exuberance of the country shows up in price. The money system is the externalized nervous system of the population that runs it.
+
+This is not a reason to be cynical about money. It is a reason to see money differently: as one of the larger displays of human consciousness available to observe. The "cosmic joke" framing Joe uses for this — that money is both a powerful man-made force and a representation of human consciousness — captures the recursion. The thing built to track value tracks the state of the trackers.
+
 ## Upstream (What Leads Here)
 
 - When someone has visible charge around money but the topic is hard to access. The impersonal frame is the destination, not the entrance.
@@ -87,3 +115,5 @@ The coaching error is to instruct the impersonal stance directly. "Stop taking i
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Save You
+- 2022-10-26_Money Can't Oppress You (rebroadcast)

@@ -5,7 +5,7 @@ title: "Offer Yourself Up to Annihilation"
 aliases: ["the part of you that can't be annihilated is you", "annihilation reveals the real", "fear as direct path to freedom", "what survives annihilation is you", "fear annihilates identity-extensions", "fear as the fastest path", "fear as path to authenticity", "hurt clarifies what's taking it personally", "hurt as clarifier", "let the hurt go all the way through", "hurt clarifies who you are"]
 tags: ["fear", "self", "annihilation", "freedom", "authenticity", "self-realization", "non-dual", "hurt"]
 related: ["identity-extension-expands-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-is-about-feeling", "vulnerability", "fear-as-signal-of-care", "improvement-vs-authenticity", "peace-is-what-we-resist-the-most"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？", "2022-10-26_Love Over Defense"]
 ---
 
 # Offer Yourself Up to Annihilation
@@ -36,6 +36,16 @@ The default frame treats fear as the obstacle to authentic living. The person as
 This inversion is why advice like "be courageous" or "push through your fear" misses the point. Courage that overrides fear keeps the identification intact. The person did the scary thing, but the self that did it was the same defended self that started the journey. The annihilation did not happen.
 
 What is needed is not courage to override fear, but willingness to be annihilated. The willingness is what makes the fear movable.
+
+## The Pema Chödrön Source
+
+The principle is sometimes attributed by Joe to Pema Chödrön, who pointed at the same move with a slightly different phrasing.
+
+"Open yourself up for annihilation. Because that way you can find out what part of yourself can't be annihilated." -- Pema Chödrön, paraphrased by Joe Hudson, Love Over Defense
+
+In the Love Over Defense context, Joe uses the line at the specific moment when defense is dropping. The system reads the dropping as catastrophic ("we're gonna be fucking destroyed"). The Pema line names what is actually happening. Something is being annihilated. The annihilation is real. What is annihilated is the part that can be. What remains is what cannot be. The fear was about losing the annihilable part; the freedom is on the other side of letting it go.
+
+See [[defense]] for the somatic version of the move (drop the wall, feel the fear underneath, let the unfelt emotion arrive, surrender to not defending). See [[heartbreak-as-capacity-expansion]] for the relational version (let the heart break, find more capacity to love after).
 
 ## The Wheelbarrow Falls Example
 
@@ -155,3 +165,4 @@ See [[dont-confuse-embracing-fear-with-inviting-danger]] for the full anti-patte
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
 - 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
 - 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)
+- 2022-10-26_Love Over Defense (the Pema Chödrön framing in the context of dropping defense)

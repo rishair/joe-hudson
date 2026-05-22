@@ -2,9 +2,9 @@
 type: concern
 id: ill-become-lazy-without-shoulds
 title: "I'll become lazy if I stop should-ing myself"
-aliases: ["fear of laziness without shoulds", "couch potato fear", "I'd never do anything", "I need the pressure", "without discipline I'd fall apart", "I won't be productive", "fear of becoming a slacker"]
+aliases: ["fear of laziness without shoulds", "couch potato fear", "I'd never do anything", "I need the pressure", "without discipline I'd fall apart", "I won't be productive", "fear of becoming a slacker", "fear is what motivates me", "I'd be unmotivated without my fear", "fear-driven motivation concern", "if I felt secure I'd do nothing", "what would I do without my fear", "where would action come from if not fear"]
 tags: ["shoulds", "self-management", "laziness", "fear", "concerns", "inherent-goodness"]
-sources: ["2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Money Can't Save You"]
 ---
 
 # I'll become lazy if I stop should-ing myself
@@ -58,6 +58,17 @@ The example from schools: kids taken out of school after burnout do nothing for 
 5. Locate even one small want and let it move. The experience of following a clean want for ten minutes changes the prediction.
 6. Reframe: the people who are most productive are people in their wants, not people in their shoulds.
 
+## The Fear-Driven Motivation Variant
+
+The same concern shows up in a parallel form not about shoulds but about fear: "I'm scared to let go of my fear because my fear is what motivates me. If I felt secure, I would do nothing." Same architecture, same fear of collapse without the whip, same prediction about a couch and a beer.
+
+The work is the same in shape: what does the person actually want, underneath the fear? Where does action come from when it is not coming from fear? The question is often disorienting because the person has not been in a position to find out. The action has always come from the fear, so the action without the fear has never been observed and cannot be predicted.
+
+"If we motivate ourself in the world through fear, then we're very scared to let go of the fear because then we think we'll be unmotivated. A lot of people, if they really deeply confront that kind of itch that they can never scratch, they're scared to lose it because they're scared that they'll be a couch potato drinking beer. And what's really interesting is where does action come from if it doesn't come from that fear? Where does action come from if you feel secure?" -- Joe Hudson, Money Can't Save You
+
+The opening into this work is to treat "where does action come from when not from fear" as a real question worth investigating, not a rhetorical one. The answer, when found, is usually a quality of wanting that the fear has been mimicking and crowding out.
+
 ## Sources
 
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_Money Can't Save You

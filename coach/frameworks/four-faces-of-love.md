@@ -5,7 +5,7 @@ title: "Four Faces of Love"
 aliases: ["four kinds of love", "peace enjoyment care welcoming", "faces of love", "four loves", "love's components", "four facets of love"]
 tags: ["love", "framework", "religious traditions"]
 related: ["love-as-deep-welcoming", "view", "caring-vs-caretaking", "enjoyment-as-path"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
 ---
 
 # Four Faces of Love
@@ -104,3 +104,4 @@ VIEW assembled becomes unconditional love. The four faces assembled become VIEW.
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Love Over Defense (podcast version covering the same material)

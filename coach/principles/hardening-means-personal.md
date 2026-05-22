@@ -5,7 +5,7 @@ title: "Hardening Is the Sign You Are Taking It Personally"
 aliases: ["hardening signals personal", "the wall means personal", "defending means personal", "shutting off the emotion means personal", "you have to harden to fire someone"]
 tags: ["defense", "shame", "communication", "business", "diagnostic"]
 related: ["just-business-vs-impersonal", "money-is-impersonal", "defense", "defense-vs-love", "dont-do-emotion-at-people", "boundary-with-vs-boundary-against"]
-sources: ["2021-05-07_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You"]
 ---
 
 # Hardening Is the Sign You Are Taking It Personally
@@ -59,3 +59,4 @@ When a coachee describes a hard conversation they handled "professionally" or "w
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast)

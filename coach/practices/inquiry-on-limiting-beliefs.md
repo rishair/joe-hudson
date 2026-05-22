@@ -5,7 +5,7 @@ title: "Inquiry on Limiting Beliefs"
 aliases: ["inquiry into limiting beliefs", "limiting belief inquiry", "questioning limiting beliefs", "argue the counter case", "what do you get out of it", "what would be scary to let go of", "the limiting belief dismantling practice", "the devils advocate for beliefs"]
 tags: ["limiting beliefs", "inquiry", "practice", "questioning", "dismantling"]
 related: ["limiting-belief", "three-kinds-of-limiting-beliefs", "find-what-you-absolutely-believe", "untruth-in-every-thought", "lawyer-the-voice", "mind-unsees-first-body-last", "feeling-the-unfelt-emotion", "emotional-fluidity"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # Inquiry on Limiting Beliefs
@@ -94,3 +94,4 @@ Investigative, curious, slightly mischievous. The energy of a lawyer who genuine
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

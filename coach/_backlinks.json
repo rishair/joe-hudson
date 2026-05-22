@@ -22,6 +22,7 @@
     "anxious-avoidant-dynamic",
     "feeling-the-unfelt-emotion",
     "i-cant-trust-my-thoughts-right-now",
+    "love-misconceptions-inherited-from-childhood",
     "money-as-surrogate",
     "poverty-mentality",
     "projections",
@@ -44,7 +45,9 @@
     "honor-the-patterns-intent",
     "inherent-goodness",
     "resentment-as-unspoken-want",
+    "the-pattern-is-not-personal",
     "i-exist-affirmation-against-collapse",
+    "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
     "stages-of-emotional-development",
     "joes-abandonment-mapping",
@@ -297,6 +300,7 @@
     "fear-is-misuse-of-imagination",
     "feared-consequences-rarely-happen",
     "helplessness-is-the-gateway",
+    "leaders-calm-becomes-the-teams-calm",
     "perceived-certainty-not-actual-certainty",
     "refuse-to-be-defined-by-the-worst-act",
     "victim-stance-invites-abuse",
@@ -304,6 +308,7 @@
     "vulnerability-protects",
     "without-grief-we-recreate-the-pattern",
     "anxiety-as-unarticulated-need",
+    "three-questions-on-the-pattern",
     "electric-fence-with-dog",
     "joes-abandonment-mapping",
     "target-fixation"
@@ -656,6 +661,8 @@
   "chameleon-leadership": [
     "i-caretake-people",
     "dont-reflect-your-patterns-as-culture",
+    "leaders-calm-becomes-the-teams-calm",
+    "seeing-others-clearly-requires-not-looking-for-yourself",
     "stay-centered-while-holding-space"
   ],
   "stay-centered-while-holding-space": [
@@ -1020,6 +1027,7 @@
     "relationships-as-personal-growth-path",
     "what-we-fear-we-invite",
     "without-grief-we-recreate-the-pattern",
+    "three-questions-on-the-pattern",
     "electric-fence-with-dog",
     "joes-abandonment-mapping",
     "stacy-father-conversation",
@@ -1067,6 +1075,7 @@
     "defensiveness-as-identity-signal",
     "dont-make-family-dynamics-the-story",
     "i-cant-trust-my-thoughts-right-now",
+    "love-misconceptions-inherited-from-childhood",
     "loving-all-parts",
     "childhood-imprinting",
     "complementary-trauma-surfaces",
@@ -1078,9 +1087,11 @@
     "meaning-of-overwhelm-determines-direction",
     "never-rob-pain-or-gold",
     "see-whats-right-to-build-on-it",
+    "the-pattern-is-not-personal",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
     "gratitude-around-the-problem",
     "talk-to-your-parts-and-ask-for-trust",
+    "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
     "emile-three-relationships-with-fear",
     "predator-or-prey-hayes-valley"
@@ -1136,6 +1147,8 @@
     "empathy-makes-you-better-at-hard-jobs",
     "enjoyment-as-path",
     "goal-beyond-the-goal",
+    "intelligence-requires-self-awareness",
+    "leaders-calm-becomes-the-teams-calm",
     "marketing-as-the-beginning",
     "public-failure-as-leadership-modeling",
     "subway-kid",
@@ -1288,6 +1301,7 @@
     "owning-the-want-dissolves-it",
     "simplicity-on-the-other-side-of-complexity",
     "sustained-fear-requires-post-hoc-processing",
+    "the-pattern-is-not-personal",
     "unprocessed-grief-creates-conflict",
     "what-we-fear-we-invite",
     "without-grief-we-recreate-the-pattern",
@@ -1300,6 +1314,7 @@
     "inquiry-on-limiting-beliefs",
     "let-your-body-shake-it-out",
     "list-the-shames-you-avoided",
+    "three-questions-on-the-pattern",
     "trace-emotion-to-its-first-felt",
     "visualizing-feared-outcomes",
     "whats-looking-out-behind-my-eyes",
@@ -1497,6 +1512,7 @@
     "i-keep-running-into-the-same-wall",
     "limiting-belief",
     "limiting-belief-detection-signals",
+    "agree-when-challenged-on-the-teaching",
     "find-what-you-absolutely-believe",
     "inquiry-on-limiting-beliefs",
     "seven-limiting-beliefs",
@@ -1544,6 +1560,7 @@
   "limiting-belief-meta-trap": [
     "i-keep-running-into-the-same-wall",
     "limiting-belief",
+    "agree-when-challenged-on-the-teaching",
     "seven-limiting-beliefs"
   ],
   "mind-unsees-first-body-last": [
@@ -1617,6 +1634,7 @@
     "every-identity-has-limits",
     "improvement-mindset-vs-maintenance-mindset",
     "inherent-goodness",
+    "intelligence-requires-self-awareness",
     "nature-improves-itself",
     "public-failure-as-leadership-modeling",
     "wanting-itself-not-what-you-want",
@@ -1657,6 +1675,7 @@
     "surrender-to-ineffable-vs-person",
     "annihilation-reveals-what-is-real",
     "choosing-the-projection-that-serves",
+    "intelligence-requires-self-awareness",
     "knowing-yourself-is-the-only-safety",
     "peace-precedes-joy-after-non-duality",
     "feel-love-and-empowerment-as-the-same",
@@ -1673,6 +1692,7 @@
     "voice-in-the-head",
     "annihilation-reveals-what-is-real",
     "falling-in-love-with-projections",
+    "intelligence-requires-self-awareness",
     "lawyer-the-voice",
     "whats-looking-out-behind-my-eyes",
     "musk-deer-parable"
@@ -1846,6 +1866,7 @@
   "same-scarcity-story-regardless-of-wealth": [
     "if-i-had-more-money",
     "poverty-mentality",
+    "spend-time-across-class-boundaries",
     "money-domain"
   ],
   "acceptance-as-change-strategy": [
@@ -1868,7 +1889,9 @@
     "hardening-means-personal",
     "integrity-as-money-compass",
     "money-must-flow",
+    "the-pattern-is-not-personal",
     "patient-on-the-table",
+    "spend-time-across-class-boundaries",
     "money-domain"
   ],
   "shame-as-disconnection": [
@@ -2030,6 +2053,7 @@
     "name-your-trigger-as-vulnerability",
     "public-truth-bomb",
     "empathy-makes-you-better-at-hard-jobs",
+    "leaders-calm-becomes-the-teams-calm",
     "public-failure-as-leadership-modeling",
     "anxiety-as-unarticulated-need",
     "vulnerability-in-the-workplace"
@@ -2207,6 +2231,7 @@
     "im-overwhelmed",
     "overwhelm",
     "efficiency-as-enjoyment",
+    "leaders-calm-becomes-the-teams-calm",
     "reducing-overwhelm-in-organizations"
   ],
   "the-rush-signature": [
@@ -2311,8 +2336,10 @@
     "follow-the-demand",
     "if-you-think-youre-deciding-youre-in-fear",
     "inherent-goodness",
+    "leaders-calm-becomes-the-teams-calm",
     "process-over-result",
     "right-question-over-right-answer",
+    "seeing-others-clearly-requires-not-looking-for-yourself",
     "selfishness-is-the-engine-of-unity",
     "shame-drives-behavior",
     "what-we-fear-we-invite",
@@ -2600,6 +2627,7 @@
     "dont-try-to-change-your-partner",
     "anxious-avoidant-dynamic",
     "arms-of-the-cross-relationship",
+    "love-misconceptions-inherited-from-childhood",
     "subconscious-partner-selection",
     "trauma-mapping",
     "trigger",
@@ -2697,6 +2725,7 @@
   "integration": [
     "absence-of-resistance-to-the-suck",
     "container-of-love",
+    "love-misconceptions-inherited-from-childhood",
     "reclaiming-abandonment",
     "zen-sickness",
     "3-to-5-rule",
@@ -2774,6 +2803,7 @@
     "mirror-the-judgment",
     "choosing-the-projection-that-serves",
     "falling-in-love-with-projections",
+    "seeing-others-clearly-requires-not-looking-for-yourself",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
     "whats-looking-out-behind-my-eyes",
     "target-fixation",
@@ -2833,6 +2863,7 @@
   "ceo-pajama-house-study": [
     "humility-in-the-system",
     "nervous-system-recovery-after-stress",
+    "the-pattern-is-not-personal",
     "will-chesney-seal-collapse-and-return"
   ],
   "absence-of-resistance-to-the-suck": [
@@ -2983,6 +3014,7 @@
     "overwhelm",
     "flow-vs-managing-reality",
     "knowing-yourself-is-the-only-safety",
+    "leaders-calm-becomes-the-teams-calm",
     "meaning-of-overwhelm-determines-direction",
     "overwhelm-reduces-productivity",
     "breath-to-exit-overwhelm"
@@ -3037,6 +3069,7 @@
     "boundaries",
     "defense",
     "love-as-deep-welcoming",
+    "love-misconceptions-inherited-from-childhood",
     "upright-undefended-love",
     "apologize-for-trying-to-control",
     "empathize-with-fear-under-constricted-boundary",
@@ -3052,6 +3085,7 @@
     "boundaries-expand-as-capacity-grows",
     "caretaking-prevents-the-bottom",
     "connection-doesnt-require-the-other",
+    "friction-is-required-for-life",
     "resentment-as-unspoken-want",
     "subjugation-prevents-healing",
     "joes-board-member",
@@ -3144,6 +3178,7 @@
     "voice-in-the-head",
     "vulnerability",
     "rehearsing-conversations",
+    "agree-when-challenged-on-the-teaching",
     "apply-view-to-the-voice",
     "ask-open-ended-non-judgmental-questions-when-triggered",
     "follow-wonder-flag-the-deflection",
@@ -3167,6 +3202,7 @@
     "what-are-you-defending",
     "receive-the-apology-permeably",
     "empathy-makes-you-better-at-hard-jobs",
+    "the-pattern-is-not-personal",
     "what-we-fear-we-invite",
     "three-ways-to-fire-someone"
   ],
@@ -3180,6 +3216,7 @@
     "needing-to-be-right-in-teams",
     "boundary-with-vs-boundary-against",
     "just-business-vs-impersonal",
+    "annihilation-reveals-what-is-real",
     "grieve-the-marriage-to-save-it",
     "hardening-means-personal",
     "love-requires-empowerment",
@@ -3230,6 +3267,7 @@
   "frame-it-as-an-experiment": [
     "whats-the-case-against-it",
     "dont-dismiss-exercise-before-doing-it",
+    "agree-when-challenged-on-the-teaching",
     "connection-as-life-bottom-line",
     "the-clients-wisdom-not-the-teachers",
     "gratitude-rounds-before-meetings"
@@ -3345,6 +3383,7 @@
     "sincerity-is-the-prerequisite",
     "gratitude-rounds-before-meetings",
     "say-the-thing-youre-not-saying",
+    "three-questions-on-the-pattern",
     "teeth-cleaning-metaphor"
   ],
   "dont-do-emotion-at-people": [
@@ -3472,6 +3511,7 @@
     "falling-in-love-with-projections",
     "honor-the-patterns-intent",
     "love-is-the-best-change-agent",
+    "the-pattern-is-not-personal",
     "what-you-cant-love-in-partner-is-what-you-cant-love-in-self",
     "talk-to-your-parts-and-ask-for-trust"
   ],
@@ -3518,6 +3558,7 @@
     "three-things-that-go-wrong-when-releasing-anger",
     "paradoxical-instruction-to-resist",
     "repetitive-vs-inspirational-voice",
+    "intelligence-requires-self-awareness",
     "love-is-the-best-change-agent",
     "i-exist-affirmation-against-collapse",
     "joes-26-year-old-list",
@@ -3602,6 +3643,17 @@
     "daily-emotional-yoga",
     "head-heart-gut"
   ],
+  "the-pattern-is-not-personal": [
+    "dont-make-family-dynamics-the-story",
+    "childhood-imprinting",
+    "honor-the-patterns-intent"
+  ],
+  "three-questions-on-the-pattern": [
+    "dont-make-family-dynamics-the-story",
+    "childhood-imprinting",
+    "honor-the-patterns-intent",
+    "the-pattern-is-not-personal"
+  ],
   "dont-should-yourself-to-welcome-anger": [
     "dont-make-it-your-job-to-prevent-their-triggers",
     "welcoming-the-others-emotion"
@@ -3664,6 +3716,7 @@
   ],
   "the-clients-wisdom-not-the-teachers": [
     "dont-position-yourself-as-your-partners-growth-guide",
+    "agree-when-challenged-on-the-teaching",
     "never-rob-pain-or-gold",
     "sincerity-is-the-prerequisite"
   ],
@@ -3688,9 +3741,11 @@
   "what-you-cant-love-in-partner-is-what-you-cant-love-in-self": [
     "dont-position-yourself-as-your-partners-growth-guide",
     "dont-try-to-change-your-partner",
+    "love-misconceptions-inherited-from-childhood",
     "complementary-trauma-surfaces",
     "capacity-to-love-other-is-capacity-to-love-self",
     "relationships-as-personal-growth-path",
+    "seeing-others-clearly-requires-not-looking-for-yourself",
     "romantic-relationships"
   ],
   "team-as-scientific-method": [
@@ -3747,6 +3802,7 @@
     "chameleon-leadership",
     "everyone-is-pretending",
     "everybody-wants-the-same-kind-of-team",
+    "leaders-calm-becomes-the-teams-calm",
     "aristotle-project",
     "healthcare-ceo-turnaround",
     "family-as-team",
@@ -3922,6 +3978,7 @@
     "defense",
     "feel-your-way-to-freedom",
     "heartbreak-as-capacity-expansion",
+    "love-misconceptions-inherited-from-childhood",
     "resistance",
     "shame-stagnates-emotion",
     "voice-as-care",
@@ -3991,6 +4048,7 @@
   ],
   "comparative-mind": [
     "using-limiting-belief-frame-to-judge-others",
+    "spend-time-across-class-boundaries",
     "three-kinds-of-limiting-beliefs"
   ],
   "familiar-over-safe": [
@@ -4122,6 +4180,7 @@
   ],
   "subconscious-partner-selection": [
     "arms-of-the-cross-relationship",
+    "love-misconceptions-inherited-from-childhood",
     "complementary-trauma-surfaces",
     "management-required-to-launch-predicts-management-required-forever",
     "romantic-relationships"
@@ -4132,6 +4191,7 @@
     "love-as-deep-welcoming",
     "softening-as-caring-diagnostic",
     "adversity-as-for-not-against",
+    "annihilation-reveals-what-is-real",
     "death-is-not-the-end-of-the-relationship",
     "mourn-the-breakup-fully",
     "nre-returns-in-grounded-form-after-each-healing",
@@ -4179,6 +4239,7 @@
   "love-vs-nice": [
     "boundaries",
     "love-as-deep-welcoming",
+    "love-misconceptions-inherited-from-childhood",
     "public-truth-bomb",
     "over-control-vs-hands-off-oscillation",
     "trust-requires-conflict",
@@ -4310,6 +4371,7 @@
   ],
   "examples/joes-board-member": [
     "defense",
+    "friction-is-required-for-life",
     "love-requires-empowerment",
     "joes-weeping-at-superficial-conversations"
   ],
@@ -4330,6 +4392,7 @@
     "defense",
     "self-realization",
     "undoing-not-doing",
+    "agree-when-challenged-on-the-teaching",
     "receive-the-apology-permeably",
     "hardening-means-personal",
     "inherent-goodness",
@@ -4369,6 +4432,7 @@
     "feel-over-figure",
     "conflict-avoidance-prevents-healing",
     "embrace-intensity",
+    "intelligence-requires-self-awareness",
     "patient-on-the-table",
     "head-heart-gut",
     "stages-of-emotional-development",
@@ -4494,7 +4558,9 @@
     "identity",
     "self-realization",
     "transparent-identity-vs-rigid",
+    "intelligence-requires-self-awareness",
     "peace-precedes-joy-after-non-duality",
+    "seeing-others-clearly-requires-not-looking-for-yourself",
     "cia-organization-sabotage-manual"
   ],
   "examples/joes-weeping-at-superficial-conversations": [
@@ -4504,6 +4570,7 @@
     "i-cant-trust-my-thoughts-right-now",
     "idea-of-self-vs-actual-self",
     "identity",
+    "love-misconceptions-inherited-from-childhood",
     "reclaiming-abandonment",
     "trappedness-feeling",
     "trauma-mapping",
@@ -4516,18 +4583,20 @@
     "i-exist-affirmation-against-collapse",
     "let-your-body-shake-it-out",
     "prepare-and-release-the-difficult-conversation",
+    "three-questions-on-the-pattern",
     "view-around-self-as-identity-diagnostic",
     "joes-pleasing-dad-money-story",
     "welcoming-fear-in-leadership"
   ],
-  "defensiveness-as-identity-signal": [
-    "identity"
-  ],
   "dont-reflect-your-patterns-as-culture": [
     "identity",
+    "leaders-calm-becomes-the-teams-calm",
     "gratitude-rounds-before-meetings",
     "team-as-scientific-method",
     "reducing-overwhelm-in-organizations"
+  ],
+  "defensiveness-as-identity-signal": [
+    "identity"
   ],
   "idea-of-self-vs-actual-self": [
     "identity",
@@ -4606,8 +4675,12 @@
     "love-as-deep-welcoming",
     "four-faces-of-love"
   ],
+  "love-misconceptions-inherited-from-childhood": [
+    "love-as-deep-welcoming"
+  ],
   "love-requires-empowerment": [
     "love-as-deep-welcoming",
+    "love-misconceptions-inherited-from-childhood",
     "upright-undefended-love",
     "over-control-vs-hands-off-oscillation",
     "surrender-to-ineffable-vs-person",
@@ -4617,6 +4690,15 @@
     "feel-love-and-empowerment-as-the-same",
     "joes-board-member"
   ],
+  "examples/alex-bell-told-joe-he-lied": [
+    "love-misconceptions-inherited-from-childhood",
+    "love-vs-nice"
+  ],
+  "poverty-mentality": [
+    "money-as-surrogate",
+    "money-must-flow",
+    "money-domain"
+  ],
   "if-i-had-more-money": [
     "money-as-surrogate",
     "money-is-impersonal",
@@ -4624,11 +4706,6 @@
     "same-scarcity-story-regardless-of-wealth",
     "resources-vs-resourcefulness",
     "constraints-increase-creativity",
-    "money-domain"
-  ],
-  "poverty-mentality": [
-    "money-as-surrogate",
-    "money-must-flow",
     "money-domain"
   ],
   "integrity-as-money-compass": [
@@ -4667,6 +4744,7 @@
   "reducing-overwhelm-in-organizations": [
     "overwhelm",
     "efficiency-as-enjoyment",
+    "leaders-calm-becomes-the-teams-calm",
     "overwhelm-reduces-productivity"
   ],
   "what-are-you-defending": [
@@ -4870,7 +4948,9 @@
   "dont-make-family-dynamics-the-story": [
     "childhood-imprinting",
     "refuse-to-be-defined-by-the-worst-act",
-    "stories-are-developmental-scaffolding"
+    "stories-are-developmental-scaffolding",
+    "the-pattern-is-not-personal",
+    "three-questions-on-the-pattern"
   ],
   "authenticity-reduces-shame": [
     "everyone-is-pretending",
@@ -4960,6 +5040,11 @@
     "acknowledge-the-fear-by-role",
     "over-control-vs-hands-off-oscillation",
     "fear-triangle"
+  ],
+  "covey-subway-story": [
+    "agree-when-challenged-on-the-teaching",
+    "sorry-from-shame-vs-sorry-as-solidarity",
+    "three-kinds-of-limiting-beliefs"
   ],
   "fear-triangle|savior": [
     "apologize-for-trying-to-control"
@@ -5093,9 +5178,6 @@
     "vulnerability-in-the-workplace",
     "welcoming-fear-in-leadership"
   ],
-  "examples/alex-bell-told-joe-he-lied": [
-    "love-vs-nice"
-  ],
   "people-pleasing": [
     "love-vs-nice"
   ],
@@ -5125,10 +5207,6 @@
     "safety-vs-defensiveness",
     "knowing-yourself-is-the-only-safety",
     "five-principles-of-the-path"
-  ],
-  "covey-subway-story": [
-    "sorry-from-shame-vs-sorry-as-solidarity",
-    "three-kinds-of-limiting-beliefs"
   ],
   "Wants-Over-Shoulds": [
     "acting-as-if-already-true"
@@ -5257,8 +5335,12 @@
     "knowing-yourself-is-the-only-safety",
     "the-gold-lies-beyond-the-afraid"
   ],
+  "binary-thinking-signals-fear|binary panic": [
+    "leaders-calm-becomes-the-teams-calm"
+  ],
   "hire-by-dream-job": [
     "management-required-to-launch-predicts-management-required-forever",
+    "seeing-others-clearly-requires-not-looking-for-yourself",
     "valve-handbook-desks-on-wheels"
   ],
   "creative-career-story": [
@@ -5293,6 +5375,9 @@
     "notice-and-be-grateful-for-connection",
     "vietnam-malnutrition-story"
   ],
+  "intelligence-requires-self-awareness": [
+    "seeing-others-clearly-requires-not-looking-for-yourself"
+  ],
   "joes-26-year-old-list": [
     "shame-drives-behavior",
     "list-the-shames-you-avoided"
@@ -5301,6 +5386,10 @@
     "sustained-fear-requires-post-hoc-processing",
     "will-chesney-seal-collapse-and-return",
     "welcoming-fear-in-leadership"
+  ],
+  "refuse-to-be-defined-by-the-worst-act": [
+    "the-pattern-is-not-personal",
+    "emile-three-relationships-with-fear"
   ],
   "truth-and-reconciliation-south-africa": [
     "unprocessed-grief-creates-conflict"
@@ -5334,6 +5423,10 @@
   "renegotiate-commitments-as-you-change": [
     "say-the-thing-youre-not-saying"
   ],
+  "money-must-flow": [
+    "spend-time-across-class-boundaries",
+    "money-domain"
+  ],
   "goal-beyond-the-goal": [
     "visualize-the-felt-aftermath",
     "tennis-quarter"
@@ -5363,9 +5456,6 @@
   "dont-defer-decisions-to-large-committees": [
     "cia-organization-sabotage-manual"
   ],
-  "refuse-to-be-defined-by-the-worst-act": [
-    "emile-three-relationships-with-fear"
-  ],
   "talk-to-your-parts-and-ask-for-trust": [
     "emile-three-relationships-with-fear"
   ],
@@ -5388,8 +5478,5 @@
   ],
   "functional-team|functional teams": [
     "family-as-team"
-  ],
-  "money-must-flow": [
-    "money-domain"
   ]
 }

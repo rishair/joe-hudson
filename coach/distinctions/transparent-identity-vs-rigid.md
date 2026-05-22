@@ -5,7 +5,7 @@ title: "Transparent Identity vs. Rigid Identity"
 aliases: ["transparent vs rigid identity", "fluid identity vs rigid identity", "tenderized identity", "flexibility of identity", "identity that softens vs identity that holds", "see-through identity", "identity becomes transparent", "the goal is flexibility not absence"]
 tags: ["identity", "distinction", "flexibility", "transformation", "ego"]
 related: ["identity", "every-identity-has-limits", "dont-fight-identity", "loving-all-parts", "expanding-sense-of-self", "improvement-vs-authenticity"]
-sources: ["2022-09-16_Seeing Identity for What It Is"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is"]
 ---
 
 # Transparent Identity vs. Rigid Identity
@@ -114,3 +114,4 @@ The question is not "who should I be?" The question is "can I hold who I am loos
 ## Sources
 
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)

@@ -5,7 +5,7 @@ title: "The Covey Subway Story (The Dad Whose Wife Just Died)"
 aliases: ["the Stephen Covey subway story", "Kobe subway story", "the man on the subway who lost his wife", "the dad and his three kids on the subway", "I'm so sorry they lost their mom the other day", "the whole story subway example", "the Franklin Planner story"]
 tags: ["example", "limiting beliefs", "whole story", "judgment", "perspective", "compassion"]
 related: ["three-kinds-of-limiting-beliefs", "limiting-belief", "comparative-mind", "using-limiting-belief-frame-to-judge-others", "wonder", "judgment-vs-discernment"]
-sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives"]
+sources: ["2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives", "2022-10-26_Limiting Beliefs"]
 ---
 
 # The Covey Subway Story (The Dad Whose Wife Just Died)
@@ -73,3 +73,4 @@ This is the shape Joe favors in his own teaching: a small specific scene, a turn
 ## Sources
 
 - 2022-04-01_Limiting Beliefs- The Hidden Rails That Guide Our Lives
+- 2022-10-26_Limiting Beliefs

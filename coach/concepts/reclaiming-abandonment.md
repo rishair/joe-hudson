@@ -5,7 +5,7 @@ title: "Reclaiming Abandonment"
 aliases: ["reclaim abandonment", "going to the original source", "addressing the source", "the original source conversation", "where the abandonment started", "going back to where it started", "back to the original source", "approaching the root not the symptom"]
 tags: ["abandonment", "trauma-mapping", "source-work", "vulnerability", "release", "concept"]
 related: ["trauma-mapping", "joes-abandonment-mapping", "stacy-father-conversation", "prepare-and-release-the-difficult-conversation", "i-have-to-do-it-all-myself", "trace-emotion-to-its-first-felt", "feeling-the-unfelt-emotion", "container-of-love", "childhood-imprinting", "helplessness-is-the-gateway", "vulnerability"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # Reclaiming Abandonment
@@ -115,3 +115,4 @@ Stacy's reclamation echoes Joe's own work with abandonment. Joe describes recrea
 ## Sources
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

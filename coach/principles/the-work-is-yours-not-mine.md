@@ -5,7 +5,7 @@ title: "The Work Is Yours, Not Mine"
 aliases: ["the work belongs to the client", "client autonomy", "I'm here if you want it", "the coach doesn't own the work", "ownership of the work", "you decide how deep to go", "complete ownership", "the client's development is theirs", "Joe doesn't push", "if you don't pick something to work on you won't work on anything"]
 tags: ["coaching-relationship", "autonomy", "non-attachment", "principles", "ownership"]
 related: ["meet-resistance-with-okay", "follow-the-demand", "fixing-people", "become-unnecessary", "wants-over-shoulds", "owning-your-partiality", "loving-to-transform", "love-requires-empowerment"]
-sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment"]
+sources: ["2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment"]
 ---
 
 # The Work Is Yours, Not Mine
@@ -95,3 +95,4 @@ This is also the only way the work scales. A client who can do the work without 
 ## Sources
 
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
+- 2022-10-26_Stacy Brown-Philpot On Reclaiming Abandonment (rebroadcast of the 2021-11-12 conversation)

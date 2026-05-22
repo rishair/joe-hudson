@@ -5,7 +5,7 @@ title: "Friction Is Required for Life"
 aliases: ["life requires resistance", "resistance is necessary", "a cell needs friction", "anxiety isn't going away because life", "you can't eliminate friction", "no friction means death", "life requires friction"]
 tags: ["anxiety", "friction", "resistance", "life", "biology", "acceptance"]
 related: ["anxiety-as-constricted-life-force", "embrace-intensity", "resistance", "process-over-result", "epiphany-becomes-rut"]
-sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
+sources: ["2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Love Over Defense"]
 ---
 
 # Friction Is Required for Life
@@ -48,6 +48,20 @@ When a person is determined to eliminate their anxiety, the principle is often t
 
 This can feel disappointing at first. Many people came to the work hoping for the no-anxiety state. The honest answer is that the state is not available, and the pursuit of it is part of what is producing the suffering. The relief, when it comes, is from giving up the pursuit, not from achieving the goal.
 
+## Life Is Tension. The Question Is How You Hold It.
+
+The same principle, restated in the context of conflict and relationship: life is tension. There is no relationship without tension, no body without tension, no cell without tension. Try to take the tension out and what you have is death. The fantasy of a life or a relationship without friction is the fantasy of a corpse.
+
+"Life is tension, generally. Call it a fight, call it tension. Life is tension. If I took all the tension out of your cell, it would die. If I took all the tension out of your body, you would die. Tension and life, they require one another." -- Joe Hudson, Love Over Defense
+
+This reframes what is left to work on. If the friction cannot be eliminated, then the question is not "how do I get rid of it?" but "how do I hold it?" The Bhagavad Gita is one of the cleanest treatments of this. Arjuna is about to enter a war with people he loves. Krishna does not tell him to refuse the fight. Krishna tells him he has to fight, and the entire teaching is about how to hold the fight.
+
+"This is the fight, but how do you hold the fight? Just because you've engaged in the war doesn't mean that you have to stop loving people. That's the confusion that I think most people feel, is that if I am going to be in tension with you, then I have to give up my love for you, which is not at all true." -- Joe Hudson, Love Over Defense
+
+This is the corollary that connects the anxiety-version of the principle to the relational version. In the anxiety version, the structural friction is internal: nervous system activation that cannot be eliminated. In the relational version, the structural friction is between people: the conflict, the disagreement, the boundary, the fight. Both are structural. Both are constitutive of being alive in a body with other people. Both have the same answer: the work is the holding, not the elimination.
+
+For the specific application to conflict with an open heart, see [[examples/joes-board-member]] and [[boundary-with-vs-boundary-against]].
+
 ## Connection to Sun and Cell
 
 The biological framing matters. The principle is not a spiritual claim. It is a physical observation. The cell membrane requires the resistance of the environment to maintain its shape. The sun's gravitational collapse is balanced against its fusion pressure -- the friction between the two is what keeps the sun burning. Remove the friction at either end, and the sun ceases to exist.
@@ -88,3 +102,4 @@ Matter-of-fact. The principle is delivered as observation, not as comfort. It is
 
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
+- 2022-10-26_Love Over Defense (life-is-tension and Bhagavad Gita treatment)

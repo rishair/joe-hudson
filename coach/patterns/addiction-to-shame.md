@@ -5,7 +5,7 @@ title: "Addiction to Shame (The Shame Adds to the Thrill)"
 aliases: ["addicted to shame", "shame as the thrill", "shame is the addiction", "wiring fires together", "the dog running through the fence", "running through the fence pattern", "shame as part of the appetite", "I want it and I'll take the shock", "shame-wired pleasure", "the shameful behavior is wired to need the shame"]
 tags: ["shame", "addiction", "compulsion", "habits", "wiring", "pattern"]
 related: ["shame-as-disconnection", "shame-drives-behavior", "shame-stagnates-emotion", "the-shame-avoidance-loop", "electric-fence-with-dog", "kinked-emotions", "negative-self-reinforcement", "familiar-over-safe"]
-sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_The Anatomy Of Shame"]
 ---
 
 # Addiction to Shame (The Shame Adds to the Thrill)

@@ -5,7 +5,7 @@ title: "Don't love to transform"
 aliases: ["loving as strategy", "weaponized love", "instrumental love", "love as change tool", "loving in order to change", "tainted love"]
 tags: ["love", "anti-pattern", "improvement", "manipulation", "transformation"]
 related: ["love-as-deep-welcoming", "love-is-the-best-change-agent", "tools-to-change-not-love", "improvement-vs-authenticity", "view-as-technique"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2022-10-26_Love Over Defense"]
 ---
 
 # Don't love to transform
@@ -111,3 +111,4 @@ When a person is asking "why isn't my love working anymore?" -- the answer is of
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2022-10-26_Love Over Defense (podcast version of the masterclass)

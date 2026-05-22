@@ -5,7 +5,7 @@ title: "Three Ways to Fire Someone"
 aliases: ["the firing example", "three ways of firing", "hard conversations example", "the just business firing", "the truly impersonal firing"]
 tags: ["firing", "business", "communication", "defense", "examples", "money"]
 related: ["just-business-vs-impersonal", "hardening-means-personal", "money-is-impersonal", "defense", "dont-do-emotion-at-people", "boundary-with-vs-boundary-against"]
-sources: ["2021-05-07_Money Can't Oppress You"]
+sources: ["2021-05-07_Money Can't Oppress You", "2022-10-26_Money Can't Oppress You"]
 ---
 
 # Three Ways to Fire Someone
@@ -67,3 +67,4 @@ The diagnostic is the same: did you have to harden to say it? If yes, you took i
 ## Sources
 
 - 2021-05-07_Money Can't Oppress You
+- 2022-10-26_Money Can't Oppress You (rebroadcast)

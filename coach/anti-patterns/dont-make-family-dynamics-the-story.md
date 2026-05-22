@@ -4,8 +4,8 @@ id: dont-make-family-dynamics-the-story
 title: "Don't turn family dynamics into a fixed story"
 aliases: ["family dynamics as identity", "I just keep dating my father", "trauma as fixed story", "the family dynamics trap", "intellectualizing family dynamics", "making family dynamics the explanation", "I always do this because of my mother"]
 tags: ["family dynamics", "trauma", "learned helplessness", "intellectualizing", "story", "fixed identity"]
-related: ["childhood-imprinting", "trauma-mapping", "feeling-the-unfelt-emotion", "honor-the-patterns-intent", "dont-make-too-much-of-family-dynamics"]
-sources: ["2021-08-13_Seeing Through Family Dynamics"]
+related: ["childhood-imprinting", "trauma-mapping", "feeling-the-unfelt-emotion", "honor-the-patterns-intent", "dont-make-too-much-of-family-dynamics", "the-pattern-is-not-personal", "three-questions-on-the-pattern"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Seeing Through Family Dynamics"]
 ---
 
 # Don't Turn Family Dynamics Into a Fixed Story
@@ -47,6 +47,8 @@ The recognition is a breadcrumb, not a destination. Use it as one. Notice the pa
 The work after the recognition:
 - Feel the emotion. (See [[feeling-the-unfelt-emotion]].)
 - Honor what the pattern tried to give you. (See [[honor-the-patterns-intent]].)
+- Recognize the pattern as structural rather than personal. (See [[the-pattern-is-not-personal]].)
+- Use the [[three-questions-on-the-pattern]] practice to move from recognition into the working relationship with the pattern.
 - Notice if "I can't change this" is itself an imprint and treat it as such.
 
 ## A Companion Anti-Pattern
@@ -81,3 +83,4 @@ The recognition is not useful when:
 ## Sources
 
 - 2021-08-13_Seeing Through Family Dynamics
+- 2022-10-26_Seeing Through Family Dynamics (rebroadcast of the 2021-08-13 conversation)

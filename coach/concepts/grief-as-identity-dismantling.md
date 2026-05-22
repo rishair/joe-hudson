@@ -5,7 +5,7 @@ title: "Grief as Identity Dismantling"
 aliases: ["grief is identity loss", "grief as the loss of who you were", "what grief actually is", "Joe's definition of grief", "grief means part of you is leaving", "grief as ego dissolution", "identity going away", "the part of you that's dying", "grief is the feeling of losing an identity", "grief is when a part of your identity goes away", "identity death feels like an event horizon", "every identity death is a singularity"]
 tags: ["grief", "identity", "ego", "emotions", "loss", "transformation"]
 related: ["identity", "grief-as-gateway-to-self-love", "unprocessed-grief-creates-conflict", "grief-is-many-emotions-not-just-sadness", "expanding-sense-of-self", "identity-extension-expands-fear", "undoing-not-doing", "without-grief-we-recreate-the-pattern", "stronger-story-stuckier-emotion", "every-identity-has-limits"]
-sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-09-16_Seeing Identity for What It Is"]
+sources: ["2022-08-19_The Beauty of Grief — Emotion Series #9", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is"]
 ---
 
 # Grief as Identity Dismantling
@@ -129,3 +129,4 @@ When a person says "I should be over this by now," they are often holding an ide
 
 - 2022-08-19_The Beauty of Grief — Emotion Series #9
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)
