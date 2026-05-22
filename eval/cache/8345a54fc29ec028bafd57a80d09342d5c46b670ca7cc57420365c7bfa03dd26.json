@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:08.143Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8345a54fc29ec028bafd57a80d09342d5c46b670ca7cc57420365c7bfa03dd26",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014iFbtmcbT1njvUqxcygvyP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "There's a difference between drowning in it and hanging out with it.\n\nDrowning is being swept away. Hanging out is sitting next to it on a porch — not fighting it, not merging with it. Just... it's there, you're there.\n\nBut I'm more curious about something else. When the voice comes for you — what's it actually saying?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9106,
+      "cache_creation_input_tokens": 11876,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11876,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 83,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9106,
+    "output_tokens": 83,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11876
+  }
+}

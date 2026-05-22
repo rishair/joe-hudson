@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:02.223Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9319e7db349c5924e9c179397087e28ccaa54aa3a3c8cc58fd6abf8884f91454",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QH2ygL3GrbHeAeQqiA6sVR",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach repeatedly tracks how the client is showing up beyond content. In turn 4, the coach catches a linguistic caveat ('I don't know if that's a fair thing to even say') and names it explicitly before inquiring — a textbook AoA read of hedging. In turn 6, the coach reflects back the client's own discomfort ('Yeah. It does sound a little strange. Stay with that for a second.') rather than moving past it. Turn 8 names the somatic/affective signal ('the tiredness — let it be there') and explicitly identifies the explaining-away pattern ('without any of the \\\"but she's not a villain\\\" attached to it') — naming the defense as it operates. Turn 12 reads the identity-level pattern ('a very old instruction... you took it in as a job description'). Turn 14 distinguishes said-from-shown ('The words were never really the problem, were they') and reads the moment of vulnerability that just occurred. Reads consistently precede questions and land at moments that change the conversation. Linguistic caveat is named, the constricted-boundary identity fear is surfaced.\",\n  \"evidence_turns\": [4, 6, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a content question, no read yet, but appropriate.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Explicitly mirrors the linguistic caveat ('I don't know if that's a fair thing to even say') and inquires into it — classic AoA hedging read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reflects the client's own noticing ('it does sound a little strange') and asks them to stay with it — pauses on the read.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the tiredness and the explaining-away pattern ('without any of the \\\"but she's not a villain\\\" attached') — reads the defense as it's happening.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Echo question, no explicit read.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Pattern-level read: 'a very old instruction... job description.' Names the identity structure operating underneath.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Distinguishes said-from-shown ('the words were never really the problem') and reads the just-arrived vulnerability.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Strong, timely reads throughout. Reads consistently precede inquiry. Linguistic caveat catch in turn 4 is particularly clean.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2186,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 951,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2186,
+    "output_tokens": 951,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:18.516Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9538f21112fbc4bba23fb3cc910d11c51a0798a63d6eb626fd6c688404d2cc11",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0183bHPFEopcU9FQPxKrzfK4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[blinks, looks slightly caught]*\n\nI mean — I wasn't being dismissive, I was just... describing what happens. The warm attentive ones are fine, they're great people, it's just that the chemistry isn't there. That's not dismissiveness, that's just... how attraction works?\n\n*[shifts slightly, recrosses legs]*\n\nAnd anyway, that's kind of the whole thing, right? I need to rewire my attraction patterns or whatever. Figure out why I'm drawn to the unavailable ones. That's what I'm here to figure out.\n\n*[small laugh]*\n\nI've basically diagnosed myself with anxious attachment at this point, I've read all the books. I just can't seem to... apply it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 198,
+      "cache_creation_input_tokens": 158,
+      "cache_read_input_tokens": 1625,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 158,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 164,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 164,
+    "cache_read_input_tokens": 1625,
+    "cache_creation_input_tokens": 158
+  }
+}

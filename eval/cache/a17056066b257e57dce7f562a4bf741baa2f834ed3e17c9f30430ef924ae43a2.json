@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:19:19.749Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a17056066b257e57dce7f562a4bf741baa2f834ed3e17c9f30430ef924ae43a2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014WGnMGW9M3ykBRtQFLq3xy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quieter for a second*\n\nThree years. Maybe four. Since the last reorg where they said there'd be opportunities and then just... reshuffled the same people into the same seats with different titles.\n\n*small bitter laugh*\n\nFour years of background noise. Yeah.\n\n*refocuses*\n\nBut that's — I mean, that's just how it went. That's the company. That's not something I can change."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 118,
+      "cache_creation_input_tokens": 112,
+      "cache_read_input_tokens": 1791,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 112,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 96,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 118,
+    "output_tokens": 96,
+    "cache_read_input_tokens": 1791,
+    "cache_creation_input_tokens": 112
+  }
+}

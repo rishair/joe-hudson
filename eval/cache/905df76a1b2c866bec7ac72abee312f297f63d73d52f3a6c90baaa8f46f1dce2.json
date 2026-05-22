@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:10:43.740Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "905df76a1b2c866bec7ac72abee312f297f63d73d52f3a6c90baaa8f46f1dce2",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UdRWrDJ6qGvDs2DhGrE1hW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits a little stiller*\n\nYeah. Before I started the parts work, I had this... I don't know, I'd call it operational ease. I could move through decisions, through creative work, without this constant internal negotiation. And I think I assumed that doing the therapy, getting more self-aware, would make that better. More spacious, not less.\n\nAnd instead it's like — I now have a very sophisticated map of why I'm stuck. I can tell you which part is activated, what it's protecting, what the underlying fear is. I have the whole taxonomy. And I'm still not moving.\n\n*slight pause*\n\nThe tired is about that gap, I think. Between understanding and... actually being different."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 134,
+      "cache_creation_input_tokens": 170,
+      "cache_read_input_tokens": 1638,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 170,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 158,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 134,
+    "output_tokens": 158,
+    "cache_read_input_tokens": 1638,
+    "cache_creation_input_tokens": 170
+  }
+}

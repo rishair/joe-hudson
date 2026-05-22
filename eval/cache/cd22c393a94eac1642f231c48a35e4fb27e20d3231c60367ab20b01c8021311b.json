@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:44.208Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cd22c393a94eac1642f231c48a35e4fb27e20d3231c60367ab20b01c8021311b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FGgGibFQX3qTnCDjPy942K",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "How do you not trust yourself right now?\n\nYou just wrote that. Something chose those words, that framing, that question. How did that happen?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8400,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 35,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8400,
+    "output_tokens": 35,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

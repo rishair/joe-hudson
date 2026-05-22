@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:24:36.855Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "399e0ea5fcdecdbbf73d9e1192e419c64876e851c4800f885131ae297441f417",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018mn7cU9SZGNardCJErx2Gu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(small silence)*\n\nWeird. It felt... a little exposing. Which is strange because I've been in therapy, I've said vulnerable things before, I know how to do that.\n\nBut that one came out sideways. I wasn't building up to it.\n\n*(another pause, less performative than the earlier ones)*\n\nAnd then immediately I wanted to contextualize it, put it in a framework, make it less — I don't know. Less naked.\n\n*(very quietly)*\n\nIt's kind of tender, actually. That part. The idea that I've been... protecting something. Even if the protection is brutal.\n\n*(then, almost to herself)*\n\nGod, and now the voice has an opinion about the fact that I just said \"tender.\" Very on brand."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 317,
+      "cache_creation_input_tokens": 445,
+      "cache_read_input_tokens": 2181,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 445,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 170,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 317,
+    "output_tokens": 170,
+    "cache_read_input_tokens": 2181,
+    "cache_creation_input_tokens": 445
+  }
+}

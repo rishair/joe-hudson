@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:23.530Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a6eab4f14f1bbdbfae5ba794b214a05b912b455985ddaa2b83fa3335750510eb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01G93NBKpXMGckJQ86qJYRrd",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just answered your own question and then moved away from it pretty fast.\n\nWhat's underneath the Thursday thing — what are you actually scared is going to happen?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7455,
+      "cache_creation_input_tokens": 7172,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7172,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 38,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7455,
+    "output_tokens": 38,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 7172
+  }
+}

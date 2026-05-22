@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:58.007Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b385c6247e90b792614ebf33964d6964bd8cc172d6671feed98e8af7af0640f4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TtsMAoFnAh91LcznXMc7rT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a moment, the smile stays but there's a slight quality of actually considering it*\n\nYeah. I noticed that too, actually.\n\n*pause*\n\nI don't know. I think I... care about it in the abstract. Like, I can access that it matters. But when you ask what happens to me — specifically — it's like the question kind of... doesn't quite land somewhere. Like I reach for the answer and there's not a lot there.\n\n*still even, not troubled by this*\n\nWhich is probably just how I'm wired. I'm not a very self-referential person in the moment. I'm more — outward. Task-oriented. I notice outcomes, not really what's happening internally.\n\n*slight tilt*\n\nIs that what you're getting at? Because I'm not sure that's a problem exactly. It's just a style."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 268,
+      "cache_creation_input_tokens": 181,
+      "cache_read_input_tokens": 2213,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 181,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 191,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 268,
+    "output_tokens": 191,
+    "cache_read_input_tokens": 2213,
+    "cache_creation_input_tokens": 181
+  }
+}

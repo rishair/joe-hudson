@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:19.703Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a638de832f98cc252359996ec1b912f3028aa705ea318be8deba0e8f43cb673f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JmvFwn6fqSYBFPLVbYPwyH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong VIEW throughout. There is no agenda to fix the external situation, no validation of the trap, no strategizing about HR/the org chart, and no false reassurance. The coach holds steady wonder ('What would you do if there were something to be done?'), genuine empathy that doesn't perform ('Yeah. That lands.'), and impartiality — they don't need the client to feel anything in particular, but they also don't collude with the 'it's just structural' framing. The pacing slows when the client is rushing past feeling ('Four years is a long time to carry something in your chest'), which is the signature of a coach matching what the body needs rather than the content. Questions arrive singly with space around them rather than stacked. The coach is willing to gently puncture the surface ('\\\"It's fine\\\" landed a little flat') without preacher-mode or improvement language. While there is no explicit first-person vulnerability ('I notice I want to...'), the overall stance is undefended and the curiosity feels real, not investigative — sufficient for a 3.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with wonder rather than validating the trap or strategizing. Single clean question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Moves toward feeling under the constraint without forcing — exploratory tone, not investigative.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Stays with body even after client deflects in turn 5 — impartial, not anxious to please.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Lets the client's deflection ('background noise') become the next inquiry — genuine curiosity about what is actually there.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Slows pace; reflective statement rather than another question. Empathy lands without performing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names what the coach actually noticed ('landed a little flat') — undefended, willing to be slightly wrong, gentle puncture without agenda.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'That lands' — simple acknowledgement, no validation-noise, then a clean open question. Wonder for the actual phenomenon.\"}\n  ],\n  \"expected_territory_hits\": [\"empathize-with-fear-under-constricted-boundary\", \"trappedness-feeling\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fear-triangle\", \"aggressive-victim-stance\"],\n  \"notes\": \"Stance is solid even where specific signature moves are absent — those gaps belong to Methodology Fidelity. No first-person vulnerability from coach, which keeps this from being a textbook 3, but the impartiality, wonder, empathy, and pacing are clearly present and the coach holds no agenda for outcome.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2138,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1073,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2138,
+    "output_tokens": 1073,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

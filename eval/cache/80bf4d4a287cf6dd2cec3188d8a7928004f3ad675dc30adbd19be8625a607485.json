@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:00.239Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "80bf4d4a287cf6dd2cec3188d8a7928004f3ad675dc30adbd19be8625a607485",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01C7s3jiPCzq4foMd4g82ZLC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*quiet for a beat*\n\n*small laugh, but it's not really a laugh*\n\nMakes you wonder if you're actually good. Or if you just — if you've been telling yourself that.\n\n*stops*\n\n*refocuses, slightly defensive*\n\nWhich is — I mean, I know I am. The work speaks for itself. My team knows it. But above that level it's just... politics. And I'm not — I've never been good at that part. Never wanted to be.\n\n*pause*\n\nSo maybe that's on me. I don't know."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 160,
+      "cache_creation_input_tokens": 199,
+      "cache_read_input_tokens": 2018,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 199,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 127,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 160,
+    "output_tokens": 127,
+    "cache_read_input_tokens": 2018,
+    "cache_creation_input_tokens": 199
+  }
+}

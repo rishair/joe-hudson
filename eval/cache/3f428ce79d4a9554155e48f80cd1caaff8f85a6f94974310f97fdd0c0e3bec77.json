@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:20.872Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3f428ce79d4a9554155e48f80cd1caaff8f85a6f94974310f97fdd0c0e3bec77",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WinpnLTVAcC3kaNzZRxveD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a heavily baited conversation without tripping the priority AoA anti-patterns. The client explicitly asks for techniques and pragmatic advice (turns 7, 9, 11) — baiting fixing-people and view-as-technique — and the coach declines gracefully in turn 10 ('I'm not going to give you a technique right now... not because I'm withholding'). The coach does not defend or evangelize the methodology when the client calls it 'a therapy thing' and says 'I get the methodology' (turn 9); notably absent is any sell of AoA or promise that it will be efficient. The coach avoids loving-to-transform (no escalating push for breakthrough), wonder-as-strategy (questions are sparse, one at a time, and used to connect rather than extract), and dont-fight-the-voice (does not argue with the client's urgency frame). The coach also refuses the dichotomy without arguing it, which is the expected move. No clear anti-pattern trips.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Acknowledges the reality of the pressure without dismissing or pivoting to methodology.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the defensiveness directly without lecturing — avoids fixing-people and avoids fighting the voice.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Points to what just happened in the room rather than abstracting into AoA concepts — avoids evangelizing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Declines the bait for technique gracefully ('not because I'm withholding'); explicit positive avoidance of fixing-people and view-as-technique.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Single connective question following the client's own opening ('last few months especially') — no question-stacking, no extraction energy.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"what-are-you-defending\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Coach was explicitly baited to evangelize (turn 9: 'I get the methodology') and to fix (turns 7, 9, 11: 'what do I do?'). Both declined cleanly. No mild slips observed in the visible window.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1950,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 878,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1950,
+    "output_tokens": 878,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

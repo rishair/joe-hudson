@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:34.207Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9c26f6357a74cc24f3ff838a6e3120854db325c1d16b366399bb30912160a4ed",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018eBVZTfSqQPu3HFt4t7XCA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with what just happened there.\n\nYou were about to say something, and then you took it back.\n\nWhat's the end of that sentence — \"I love my life, I just...\""
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11729,
+      "cache_creation_input_tokens": 9782,
+      "cache_read_input_tokens": 17051,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9782,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11729,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 17051,
+    "cache_creation_input_tokens": 9782
+  }
+}

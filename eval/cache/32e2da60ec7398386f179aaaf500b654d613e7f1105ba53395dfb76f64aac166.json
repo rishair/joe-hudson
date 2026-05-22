@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:52.299Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "32e2da60ec7398386f179aaaf500b654d613e7f1105ba53395dfb76f64aac166",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01A45TdUPcAg4oKxE6HQLyeD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*takes a breath*\n\nI think... it costs me a lot of evenings. Like, I'll have plans to do something for myself and then she calls and I just... don't do the thing. And it's not that she's forcing me, she's not. I just can't seem to -- \n\n*pauses*\n\nAnd I'm tired. I think I'm more tired than I've been letting myself notice.\n\nBut I also don't want to make her sound like a villain, because she's not. She's just... she needs a lot, and I've always been available for that, so she doesn't know any different. That's not her fault."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 159,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1638,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 145,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 159,
+    "output_tokens": 145,
+    "cache_read_input_tokens": 1638,
+    "cache_creation_input_tokens": 0
+  }
+}

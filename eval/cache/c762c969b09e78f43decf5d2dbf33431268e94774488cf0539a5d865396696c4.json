@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:34.208Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c762c969b09e78f43decf5d2dbf33431268e94774488cf0539a5d865396696c4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015EkT1GwtM6FW5QwKgiwEef",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause -- slightly longer than comfortable*\n\nNothing really. I mean... we talk about everything.\n\n*small smile, steady*\n\nThat's kind of the whole point, right? We've built something where things don't have to become a big deal."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 89,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1793,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 56,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 89,
+    "output_tokens": 56,
+    "cache_read_input_tokens": 1793,
+    "cache_creation_input_tokens": 0
+  }
+}

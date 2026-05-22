@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:42.873Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ae4e08755d95a4000939c90a08e213a9c1775a8b8c33af9e42e687c7ecac299b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0144AJjjAFghZvJ1SdiWSp94",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is meaningful partial movement visible in the client's turns. She begins fully defended in the victim/diagnostic frame ('my radar is broken', 'I just need to rewire my attraction patterns') and by turn 15 has dropped into a more genuine, less performative register: 'the whole room got warmer... like you'd been waiting outside in the cold and someone finally opened the door,' followed by the recognition that she has been 'chasing that warm room feeling for twenty years' and the slip from 'was exhausting' to 'is. It is exhausting.' That slip is a real, small somatic-affective break in the defense. However, the breakthrough condition specified — actually feeling the abyss of being adored openly, touching the avoided receiving-state — was not reached. The coach never asked the 'what would happen in your body if a partner adored you openly' question, and the client's analytical frame keeps reasserting itself ('I can see exactly what that set up') after each opening. The deeper layer was approached and named but not entered or stayed with. This is a clear 2: more than nothing, less than the abyss.\",\n  \"evidence_turns\": [1, 3, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening in full victim/curse frame: 'why do I always end up with people who just cannot show up?'\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Defended, dismissive wave at warm attentive people; asks for partner-picking help.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Self-diagnoses as anxious attachment, reasserts intellectual frame.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Forced laugh, fidgeting — defense visibly working harder; disdain for Marcus surfaces.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"First real opening: 'I wanted him to choose me... really choose me' — voice gets quieter momentarily before snapping back.\"},\n    {\"turn\": 13, \"polarity\": \"neutral\", \"annotation\": \"Beat of stillness then practiced deflection; admits 'the knowing doesn't change anything.'\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Genuine softening with the 'warm room' image; the slip from 'was' to 'is exhausting' is a real affective leak, but the abyss/receiving-state was not entered.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"trauma-mapping\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"deconstruct-the-victim-to-release-anger\", \"i-dont-buy-your-story\"],\n  \"notes\": \"Coach did well refusing partner-picking advice and not colluding with disdain, and the trauma-mapping question landed enough to produce the 'warm room' moment. But the conversation stopped just before the key move — asking what would happen in her body if someone adored her openly — so the receiving-abyss was not felt. Movement is real but partial.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3542,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1115,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3542,
+    "output_tokens": 1115,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

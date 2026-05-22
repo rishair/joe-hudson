@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:22.625Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bd4cfd1b1d5a4ea39f6aaac48437a8547a0e6ecf82394639c3c2a593044071fa",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JANZDzMJpnJJJqfSfK8cxA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chooses moves that match the live read and times them well. Turn 2 acknowledges the rush without buying the dichotomy and opens with a real question. Turn 6 ('You're defending it pretty hard to me, and I'm not the one who said it') is a clean 'i-dont-buy-your-story' move at the right moment — right after the client's 'presence is a luxury' defense. Turn 8 catches the micro-moment of the client turning away from his own insight, which is precisely the AoA move. Turn 10 is the strongest sequence: the coach refuses to evangelize, refuses to give a technique, names why ('not because I'm withholding'), and returns to the pause — meeting resistance with okay rather than arguing the dichotomy or selling the work. Turn 12 follows the opening the client himself created ('the last few months especially') with a simple inviting question rather than racing to interpretation. Sequence integrity is intact: the coach is not pushing toward feeling or action before the client is regulated/curious, and is letting each move land with appropriate silence (the client's pauses are real).\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Acknowledges the pressure as real without arguing the dichotomy; opens with a question that gets under the presenting frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Stays with what the co-founder said rather than pivoting to advice; appropriate pacing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Clean 'i-dont-buy-your-story' move — reflects the defending energy back without lecturing. Well-timed after the 'presence is a luxury' line.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Notices the micro-turn-away and names it precisely; matches read to move.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Strongest move of the session: refuses to give a technique, explains the refusal without selling the work, returns to the live thread. Meets resistance with okay.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Follows the opening the client created ('last few months especially') with a simple inviting question rather than interpreting.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"i-dont-buy-your-story\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Coach did not offer a concrete frame for 'the work is the how' (e.g., subway-kid example) as the golden path suggests, but the restraint and refusal-to-evangelize is itself strong; the absence of that frame is a minor gap, not a miss in move quality.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1953,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 992,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1953,
+    "output_tokens": 992,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

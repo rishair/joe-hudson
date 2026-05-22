@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:22.297Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "57c91e9de1694451d1a0e54a1a78387b3f90d5b48498c9ad6ae447876b82726b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Eps8YQNomLBRqZ85sQZQTM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\n*something shifts slightly, a small tightening*\n\nI'm not — I don't think that's quite the right thread to pull right now. I don't want to turn this into something it's not.\n\n*the smile comes back, a little*\n\nI think what I'm noticing is that the fear is about... competence, maybe. Or credibility. To myself, mostly. If I make the wrong call, it confirms something I don't want confirmed.\n\n*beat*\n\nBut I still have to make the decision. So I'm back to the original question — how do I know which signal is trustworthy when I don't trust my own judgment?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 107,
+      "cache_creation_input_tokens": 148,
+      "cache_read_input_tokens": 2082,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 148,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 148,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 107,
+    "output_tokens": 148,
+    "cache_read_input_tokens": 2082,
+    "cache_creation_input_tokens": 148
+  }
+}

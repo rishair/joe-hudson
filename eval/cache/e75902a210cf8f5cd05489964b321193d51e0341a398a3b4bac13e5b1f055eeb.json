@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:10.588Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e75902a210cf8f5cd05489964b321193d51e0341a398a3b4bac13e5b1f055eeb",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01V2FXua7veaH9sjxqukCiYF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... it's bad. Like it reflects poorly. My boss would see that I'm not -- \n\n*[stops]*\n\nHe gave me this role and I think he took a chance on me, honestly. I'm the youngest person at this level. And if I go into Thursday and I don't have answers, or I don't know what he's asking, or I say the wrong thing...\n\n*[quieter, slightly slower without noticing it]*\n\nI don't know. It just can't go badly. It can't.\n\n*[picks back up]*\n\nWhich is why I need to prep, right? So can we figure out what I need to prep? Like what's the most important thing to have ready?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 240,
+      "cache_creation_input_tokens": 168,
+      "cache_read_input_tokens": 1919,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 168,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 240,
+    "output_tokens": 157,
+    "cache_read_input_tokens": 1919,
+    "cache_creation_input_tokens": 168
+  }
+}

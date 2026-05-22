@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:30.540Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4b2967eca8dccefb17b5ef0bc0bcfcef968243fe562a6c9f8e9a6fa3d348c602",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015c4mVZyh71pzu1G7xuWkav",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness*\n\n...I don't know. A while, I guess.\n\n*small laugh that doesn't quite land*\n\nIt's not like it's a big thing. It's just one of those — you learn what the other person is sensitive about, and you work around it. Everyone does that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 106,
+      "cache_creation_input_tokens": 165,
+      "cache_read_input_tokens": 1879,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 165,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 68,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 106,
+    "output_tokens": 68,
+    "cache_read_input_tokens": 1879,
+    "cache_creation_input_tokens": 165
+  }
+}

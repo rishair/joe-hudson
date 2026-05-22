@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:38.601Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "acf10828007ac808b92fa20dac0636afbc778b79ce57cb17d6c861da2585d8a7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HnUr1pCSDR6YXyB1DDbPXv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\nCan you feel the flatness again?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 329,
+      "cache_creation_input_tokens": 208,
+      "cache_read_input_tokens": 25615,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 208,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 329,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 25615,
+    "cache_creation_input_tokens": 208
+  }
+}

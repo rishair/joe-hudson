@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:23:45.164Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "536af1c3c429988daf090e266873105c4dc54a2c9f2e9f1abb793b1c48ea3e2d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Ndj5HM4jE3HDA9xPkUbHFg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That part's real — I heard that.\n\nAnd I appreciate you flagging the performance risk. That's honest.\n\nSo let's not do a body scan. Just stay with heavy for a moment. Not describe it more — just... you're holding something up, and it hasn't given out yet.\n\nWhat are you holding up?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5244,
+      "cache_creation_input_tokens": 9337,
+      "cache_read_input_tokens": 24220,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9337,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 73,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5244,
+    "output_tokens": 73,
+    "cache_read_input_tokens": 24220,
+    "cache_creation_input_tokens": 9337
+  }
+}

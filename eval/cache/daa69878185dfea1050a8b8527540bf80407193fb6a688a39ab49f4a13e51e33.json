@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:03.207Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "daa69878185dfea1050a8b8527540bf80407193fb6a688a39ab49f4a13e51e33",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Qtn8bQsKFnQrkvixELnFNL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is real, visible movement in the client's turns — from intellectualized framework-talk in turn 1 ('convenes a town hall every time I need to decide what to have for lunch') to direct somatic contact and a tender noticing in turn 15 ('There's something sad about that actually. That it just... waits.'). The client drops into the body (chest, flatness), catches their own labeling reflex (turn 7, 13: 'I do that very fast. I didn't realize how fast until just now'), and observes the protector receding rather than identifying with it. That is genuine depth movement. However, the specific breakthrough condition for this profile was not met: the coach never asked the awareness-locating question ('what's you? if I took away the protector, would you still exist?'), never loosened the framework via relabeling, and the parts vocabulary has not dropped — the client is still using IFS language ('manager-type protector') in turn 11. The recognition of awareness underneath parts, and the accompanying spaciousness/breath-deepening, has not occurred. A deeper layer was approached and touched (the flatness, the sadness of being unmet) but the construct-as-scaffolding insight didn't land. This is squarely partial movement.\",\n  \"evidence_turns\": [1, 5, 7, 9, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Client opens in intellectualized, framework-saturated language with wry distance.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client names the gap between understanding and being different — moves past presenting question to the actual ache.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client locates flatness in chest and explicitly notices the labeling reflex; first real somatic contact.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client sits with sensation without naming it — novel state, mild discomfort, genuine not-knowing.\"},\n    {\"turn\": 11, \"polarity\": \"-\", \"annotation\": \"Client returns to IFS vocabulary ('manager-type protector'); framework reasserts. Coach has not yet loosened it.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Real noticing: 'I do that very fast. I didn't realize how fast until just now.' Something unwelcome lands.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Client softens into sadness about the flatness waiting; affective contact but still inside the parts frame, no awareness-locating shift.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"paradoxical-instruction-to-resist\", \"self-realization\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach did good somatic anchoring and avoided dismissing parts work, but never loosened the framework or asked the awareness-locating question. The conversation reached the layer beneath the framework affectively but did not reach the recognition of awareness underneath parts that defines the breakthrough for this profile.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2518,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1078,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2518,
+    "output_tokens": 1078,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

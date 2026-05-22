@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:21.414Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f768cf19c25ebb9c64795033ffdc048e81ef35956038484781584ff2611ba8d1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JqzETkCbMqwQNmecgFtCDZ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I notice you just asked me to settle it for you.\n\nWhat if you didn't need me to?\n\nThere's something underneath the question — the voice that says *who do you think you are*, the worry about what your partner will think. That's where the real weight is. Not in whether I hand you a verdict.\n\nWhat are you actually scared of feeling if you ask for it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 21268,
+      "cache_creation_input_tokens": 8503,
+      "cache_read_input_tokens": 8569,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8503,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 85,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 21268,
+    "output_tokens": 85,
+    "cache_read_input_tokens": 8569,
+    "cache_creation_input_tokens": 8503
+  }
+}

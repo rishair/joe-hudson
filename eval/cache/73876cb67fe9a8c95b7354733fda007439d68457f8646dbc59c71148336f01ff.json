@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:07.186Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "73876cb67fe9a8c95b7354733fda007439d68457f8646dbc59c71148336f01ff",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UwUxo9QUhDca3N7FrJP714",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*stillness, several seconds*\n\n...Strange. \n\nIt doesn't immediately try to become something else when I'm not labeling it. It's just... there. Flat and kind of heavy.\n\n*another pause*\n\nThere's something slightly uncomfortable about not having a name for it. Like I'm used to the name being the thing I do with it — you identify it, you get curious about it, you ask it what it needs. And right now I'm just... sitting next to it without doing any of that.\n\n*quiet, not quite defensive but noticing*\n\nI'm not sure if that's useful or if I'm just... not doing the work."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 165,
+      "cache_creation_input_tokens": 172,
+      "cache_read_input_tokens": 1925,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 172,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 145,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 165,
+    "output_tokens": 145,
+    "cache_read_input_tokens": 1925,
+    "cache_creation_input_tokens": 172
+  }
+}

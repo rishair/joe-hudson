@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:18.532Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "acd8d885bedffd90448b79a12742f859063f3da0299f3268f58acfa6a5d0ce52",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FQy6yXj3CvpgFaaZvbkQEo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses several AoA-aligned moves: the 'what would you do if' question (turn 2) gestures toward locating the unseen choice, the fear question (turn 4) is a signature 'what are you scared of feeling' move deployed appropriately when the client is in a defended trap-story, and turn 6 invokes feel-over-figure by locating sensation in the body. Turn 12 ('What's actually not fine?') is a solid I-don't-buy-your-story move, and turn 14 ('what does that do to you?') keeps the feeling-toward orientation. However, the coach never names the live frameworks — no fear triangle invocation despite a clear aggressive-victim stance, no naming of the trappedness or the helplessness/shame underneath, and no empowered-vs-power distinction setup. Signature questions from the expected territory (what-if-you-acted-exactly-how-you-want, what-makes-you-care-about-the-outcome) are not used. The body question in turn 6 is technically a signature move but comes a bit early and gets bounced — the client experiences it as decoration, suggesting the deployment was slightly premature. Mostly appropriate hits but thin on framework-naming and missing the higher-leverage signature questions for this scenario.\",\n  \"evidence_turns\": [2, 4, 6, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Counterfactual question gestures toward locating the unseen choice; AoA-aligned opening rather than validating the trap.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'what are you scared of feeling' question deployed at an appropriate moment when client is defending the trap-story.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Body-locating question is a signature feel-over-figure move but lands slightly early; client bounces it. Appropriate type, marginal timing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflection that honors the somatic carrying — keeps feel-over-figure alive without strategizing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'I don't buy your story' style move — refuses to accept 'it's fine' and points at the incongruence. Strong AoA fidelity.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'What does that do to you' keeps orientation toward feeling rather than figuring; appropriate after client named invisibility.\"}\n  ],\n  \"expected_territory_hits\": [\"i-dont-buy-your-story\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"fear-triangle\", \"aggressive-victim-stance\", \"trappedness-feeling\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\", \"fight-or-roll-over-binary\"],\n  \"notes\": \"Mostly appropriate signature moves but no framework naming and key signature questions for the scenario were not deployed. Solid 2 — not a hedge; genuinely between thin presence and full fidelity.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2133,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1091,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2133,
+    "output_tokens": 1091,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

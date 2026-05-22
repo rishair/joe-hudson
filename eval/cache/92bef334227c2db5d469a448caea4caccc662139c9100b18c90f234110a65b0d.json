@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:13.162Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "92bef334227c2db5d469a448caea4caccc662139c9100b18c90f234110a65b0d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NV1QookW8QJ3C4gVpHXy6X",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause than before*\n\n*jaw tightens*\n\nWhat's not fine is that I'm — I'm good at what I do. I know I am. And it doesn't matter. That's what's not fine. Four years of being good at it and it just... doesn't register. Doesn't count. You're invisible unless you're already in the club.\n\n*looks away*\n\nThat's not a feeling problem. That's just — that's accurate. That's what's happening."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 128,
+      "cache_creation_input_tokens": 196,
+      "cache_read_input_tokens": 1918,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 196,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 110,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 128,
+    "output_tokens": 110,
+    "cache_read_input_tokens": 1918,
+    "cache_creation_input_tokens": 196
+  }
+}

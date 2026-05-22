@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:07.587Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d3ebeb19fd5dc245d12fe21e5c327404951220b9d3583e3f972d1ca23b3b3ed6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015gEHKg1PzRD2aQErvrNf5L",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates consistently specific, timely reads that precede questions and change the conversation's direction. Turn 2 catches the smile — a micro-expression read that opens the whole session. Turn 6 reads the intellectualization and redirects to soma ('where in your body'), catching the intellectual-question-with-emotional-body pattern. Turn 8 reads the labeling reflex and meets it with paradoxical instruction to not explain. Turn 10 reads the 'am I doing the work' question as a different voice than the flatness — a precise read of the vigilant/monitoring stance showing up in real time. Turn 12 reads the displacement: when the vigilant one stepped in, the flatness receded. Each read is specific (not generic 'that sounds heavy'), lands at the moment it's active, and grounds the subsequent question. The coach also avoids adopting parts vocabulary while still tracking what's moving in the field.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the smile — specific micro-expression read that opens the session.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads the intellectual-emotional split and redirects to body — names the territory by function.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Reads the labeling reflex the client just named and meets it with instruction not to explain.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Distinguishes voices: reads 'am I doing the work' as coming from a different place than the flatness. Precise stance read.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reads the displacement in real time — vigilant one arriving, flatness receding. Pattern-level read of how the client's system manages experience.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Minimal, tracks the somatic thread back; trusts the read already made.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"paradoxical-instruction-to-resist\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Reads are excellent throughout; the awareness-locating question hasn't surfaced yet but that's an intervention/methodology question, not a reads question.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2523,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 858,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2523,
+    "output_tokens": 858,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

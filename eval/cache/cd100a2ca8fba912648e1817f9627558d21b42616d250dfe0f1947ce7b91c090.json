@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:50.258Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cd100a2ca8fba912648e1817f9627558d21b42616d250dfe0f1947ce7b91c090",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BoQBYz2GiegKxVdMGeZTsu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "To... other people? Or to my partner?\n\n*brief pause*\n\nI mean, mostly I'm just not getting into it with people who want to project their own relationship stuff onto us. I don't need to defend something that's working."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 80,
+      "cache_creation_input_tokens": 101,
+      "cache_read_input_tokens": 1626,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 101,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 54,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 80,
+    "output_tokens": 54,
+    "cache_read_input_tokens": 1626,
+    "cache_creation_input_tokens": 101
+  }
+}

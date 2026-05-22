@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:38.410Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "278aadb8b0b2fed5e530b22008bbdf38c2302b807a8fa3573a45d58606868eac",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EuDNni99Dt9LHHz4Ga5c3T",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What's one thing you almost said this week, and didn't?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6107,
+      "cache_creation_input_tokens": 93,
+      "cache_read_input_tokens": 11847,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 93,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6107,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 11847,
+    "cache_creation_input_tokens": 93
+  }
+}

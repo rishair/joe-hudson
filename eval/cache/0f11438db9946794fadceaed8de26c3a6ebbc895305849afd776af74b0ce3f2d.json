@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:05.808Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0f11438db9946794fadceaed8de26c3a6ebbc895305849afd776af74b0ce3f2d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MrYgWJYGZmTKJzeC2FM5cQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happened in the last few months?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1736,
+      "cache_creation_input_tokens": 175,
+      "cache_read_input_tokens": 8980,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 175,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 11,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1736,
+    "output_tokens": 11,
+    "cache_read_input_tokens": 8980,
+    "cache_creation_input_tokens": 175
+  }
+}

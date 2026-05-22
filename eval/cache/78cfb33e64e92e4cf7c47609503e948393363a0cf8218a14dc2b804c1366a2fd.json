@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:10:38.326Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "78cfb33e64e92e4cf7c47609503e948393363a0cf8218a14dc2b804c1366a2fd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YakxbBKw68KKWrBnkoFPBx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "The tired part — can you say more about that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 120,
+      "cache_creation_input_tokens": 11289,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11289,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 120,
+    "output_tokens": 14,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11289
+  }
+}

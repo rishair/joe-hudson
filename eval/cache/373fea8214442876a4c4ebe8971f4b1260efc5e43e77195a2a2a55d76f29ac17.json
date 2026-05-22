@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:19:10.434Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "373fea8214442876a4c4ebe8971f4b1260efc5e43e77195a2a2a55d76f29ac17",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VKAm3FoUXdVCpKufLGJVwu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*short exhale, like the question is slightly absurd*\n\nI don't know. Chest, maybe. Whatever. That's not — look, I came here because I wanted to think through options, not to talk about where I feel things in my body.\n\n*shifts slightly*\n\nThe anger's been there a long time. It's just background noise at this point. The actual problem is the situation."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 130,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1791,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 89,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 130,
+    "output_tokens": 89,
+    "cache_read_input_tokens": 1791,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:03.665Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c63a339ab2b21d9b03c72b09d228939c6eebbcf6015a3aff5edd3bfcf21d3924",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FBi4EFFsUdJ3SyKYdkMFDh",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[long pause, longer than any previous one]*\n\nIt feels... \n\n*[quieter]*\n\nKind of terrifying, actually. Like I don't usually -- I don't say that. I don't even think it, really. I just keep moving so I don't have to.\n\n*[something shifts slightly, breath goes a little deeper]*\n\nIs that -- is that what I'm doing? Like all of this, the lists, the staying on top of everything, the 110%... is that just so I don't have to sit with that?\n\n*[almost to self]*\n\nBecause if I stop... if I actually stop and something falls through... then I'd have to know. Whether I can actually do this or not.\n\n*[looks up]*\n\nI think I've been really scared. For a while.\n\n[EXIT_POSITIVE]\n\nThat's... I didn't expect to say that today. I came in here to figure out what to cut from my calendar."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 247,
+      "cache_creation_input_tokens": 356,
+      "cache_read_input_tokens": 2125,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 356,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 213,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 247,
+    "output_tokens": 213,
+    "cache_read_input_tokens": 2125,
+    "cache_creation_input_tokens": 356
+  }
+}

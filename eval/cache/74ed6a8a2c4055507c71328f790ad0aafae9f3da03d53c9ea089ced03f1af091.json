@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:21.769Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "74ed6a8a2c4055507c71328f790ad0aafae9f3da03d53c9ea089ced03f1af091",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01DoB59KEMmGyVVLeFz44bZv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*head tilts, genuine consideration*\n\nNo. No, that's not the flatness. The flatness is actually... quiet. That question comes from somewhere more vigilant. More upright.\n\n*small pause*\n\nIn IFS terms I'd call that a manager-type protector — the one that monitors whether I'm doing therapy correctly. It's very active in sessions actually. Wants to make sure I'm being a good client, getting the most out of it, not wasting anyone's time.\n\n*slight wry recognition*\n\nWhich is a little ironic given that it's probably the thing most in the way right now. It keeps trying to turn experience into process.\n\n*looks up*\n\nIs that what you're pointing at?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 211,
+      "cache_creation_input_tokens": 291,
+      "cache_read_input_tokens": 1939,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 291,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 161,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 211,
+    "output_tokens": 161,
+    "cache_read_input_tokens": 1939,
+    "cache_creation_input_tokens": 291
+  }
+}

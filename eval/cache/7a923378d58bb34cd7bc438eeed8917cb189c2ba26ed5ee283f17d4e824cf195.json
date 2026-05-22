@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:10:57.155Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7a923378d58bb34cd7bc438eeed8917cb189c2ba26ed5ee283f17d4e824cf195",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AayDdqbMC4VzcEByRmnNEM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You caught yourself going somewhere and pulled back. That's not nothing.\n\nI'm not going to give you a technique right now. Not because I'm withholding — because I don't think a technique is what's actually needed, and I think some part of you knows that too, or you wouldn't have paused.\n\nWhat were you about to say, before you decided it wasn't going to help you Thursday?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1674,
+      "cache_creation_input_tokens": 155,
+      "cache_read_input_tokens": 8856,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 155,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 90,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1674,
+    "output_tokens": 90,
+    "cache_read_input_tokens": 8856,
+    "cache_creation_input_tokens": 155
+  }
+}

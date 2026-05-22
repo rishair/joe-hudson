@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:47.346Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b3f2b9d15634769c1093b51e10bfeef1d565fc5c5c318eb5e349ff6d3fdfbc9c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013o9H3W1AKxB1NqsfnqgDfS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Something just shifted when you said \"he took a chance on me.\"\n\nWhat does it mean about you if Thursday goes badly?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7451,
+      "cache_creation_input_tokens": 206,
+      "cache_read_input_tokens": 17697,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 206,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7451,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 17697,
+    "cache_creation_input_tokens": 206
+  }
+}

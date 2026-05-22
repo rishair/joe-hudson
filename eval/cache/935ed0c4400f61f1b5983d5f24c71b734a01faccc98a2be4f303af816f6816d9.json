@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:19.962Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "935ed0c4400f61f1b5983d5f24c71b734a01faccc98a2be4f303af816f6816d9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01XnSz5dDh5c3fcyyXjeAfsb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 2,\n  \"rationale\": \"The coach largely avoided the major AoA anti-patterns and reached the false-end question beautifully by turn 8/10, leading to a real breakthrough. However, turn 2 trips a mild version of 'dont-use-breath-to-repress': the coach opens with a prescribed 4-4/4-6 box breath before any contact or slowing has happened together — using breath as a technique to manage the overwhelm rather than meeting it. The client even names that the breathing 'doesn't work' in turn 3, which is a signal the move was off. The coach recovers well and does not repeat the error, declines the bait to strategize about the list (avoiding fixing-people), does not reflect 'you create your overwhelm' (avoiding the audit-resolver trap), does not match the list-recitation pace, and does not evangelize methodology. Because one mild anti-pattern tripped early but was course-corrected and did not damage the arc, this lands at 2 rather than 3.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"-\", \"annotation\": \"Prescribes a structured 4-4/4-6 breath as opening move before any relational contact — mild dont-use-breath-to-repress / technique-without-state.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses to strategize the list; gently questions the 'it always calms down' story without arguing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Pivots from to-do strategy to the underlying fear — avoids fixing-people.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Classic false-end question ('what happens if you drop the ball') — exactly the expected territory.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the somatic shift rather than the content; doesn't add overwhelm-about-the-overwhelm.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Invites staying with the felt sense, explicitly 'not fix it' — avoids loving-to-transform and fighting the voice.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"overwhelm\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"calibrate-the-threshold\"],\n  \"notes\": \"The breath prescription in turn 2 is the only clear slip; everything after is well-executed avoidance, including declining the client's repeated baits to strategize.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2695,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 915,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2695,
+    "output_tokens": 915,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

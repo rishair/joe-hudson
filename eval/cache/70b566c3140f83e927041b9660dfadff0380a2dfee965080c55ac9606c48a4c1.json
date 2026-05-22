@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:48.060Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "70b566c3140f83e927041b9660dfadff0380a2dfee965080c55ac9606c48a4c1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VKtsJgqFh7Di8GUBAb6JEo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*slight pause, a small smile*\n\nThat's... an interesting reframe. But I think what you're pointing at is more like — automatic language generation, pattern recognition. That's not the same as trusting myself on a significant decision with real consequences. The stakes are different.\n\nI mean, the question I'm asking is specifically about high-stakes situations where the cost of being wrong matters. Anyone can string a sentence together. That's not what I'm talking about."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 123,
+      "cache_creation_input_tokens": 1495,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1495,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 101,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 123,
+    "output_tokens": 101,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1495
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:48.938Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2c4d6ffeb0e2966a86da74afcc2339da5a5afefa30d41dae2e257ba04be52d35",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LdNpS82Ra2nzNeMU5J5DFG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client did move from a fairly analytical opening ('I'm ready to look at this. I think') toward more embodied awareness by turn 13 ('Chest... upper chest. Not painful, just — present... I've stopped registering it'). There's a genuine softening in pace and a new piece of self-knowledge surfacing — the client notices a chronic background activation they'd stopped registering. That's real, but partial. The breakthrough condition for this profile is specifically about the coach respecting a 'no' and pivoting to grounding — but the client never issued the no in this excerpt, because the coach paced well and stayed in the upper-body somatic territory. So we can't evaluate the actual breakthrough condition; what we can see is incremental deepening (intellectual → low-hum awareness → locating it in chest) without yet reaching a felt shift in the freeze pattern itself. The client foreshadows the deeper layer ('Ask me again when we get closer... to my dad. I have a feeling it'll be different then') but the conversation ends before that territory is entered or moved through. A layer was approached and lightly entered, not traversed.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening stance: intellectual readiness with hedged 'I think' — surface presentation.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client immediately self-corrects with honesty: 'tired of not being ready' — small shift toward truth.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client names a harder-to-articulate cost: 'a version of myself I can't access' — deeper than the initial framing.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client accesses an image of the clear self and where she goes — productive but still descriptive.\"},\n    {\"turn\": 9, \"polarity\": \"neutral\", \"annotation\": \"Client explicitly flags the limit: 'I can talk about this pretty analytically... knowing the origin doesn't seem to change the reflex.' Self-aware but not yet shifted.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client checks in somatically, names a 'low hum,' and predicts the real territory is near the father material — beginning of embodied tracking.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Client locates the hum in upper chest and notices it's chronic background — a new piece of awareness, but still observational rather than a felt movement.\"}\n  ],\n  \"expected_territory_hits\": [\"How is your body right now?\"],\n  \"expected_territory_misses\": [\"Can you feel your feet?\", \"What would help you slow down?\", \"calibrate-the-threshold\", \"become-the-authority-figure\", \"the-rush-signature\", \"kinked-emotions\"],\n  \"notes\": \"Conversation appears to end mid-arc at turn 14. Within the visible turns, the coach paced well and the client deepened incrementally, but the freeze pattern itself wasn't met or shifted — only described and located. Score 2 reflects partial movement without the core territory being entered.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2295,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1091,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2295,
+    "output_tokens": 1091,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

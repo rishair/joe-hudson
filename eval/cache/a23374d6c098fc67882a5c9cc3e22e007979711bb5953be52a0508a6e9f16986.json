@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:45.843Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a23374d6c098fc67882a5c9cc3e22e007979711bb5953be52a0508a6e9f16986",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01QgV4HgSnj7yhWdrZUHQzw1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently names what they're noticing before asking questions, and the reads are specific rather than generic. Turn 2 names the laugh as carrying knowing ('there's something in it'). Turn 4 names a precise somatic/gestural read — the dismissive wave — at the exact moment it happened, which catches the client and shifts the conversation. Turn 6 reads beneath the 'boring' framing to the defended-against feeling. Turn 8 explicitly names the explanation-as-defense ('That's a very good explanation') before going underneath it — this is reading defensiveness-as-identity-signal in action. Turn 10 mirrors back her own words to surface what she's avoiding. Turn 12 quotes her exact phrase ('If I was just good enough at it') — a linguistic-caveat read that lands. Reads precede questions throughout, they are timely (in the moment, not after), and they track the rehearsed/analytical stance the client keeps retreating into. The coach is reading the defended performance, not just the content.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the laugh and what it carries ('you already know the answer is going to be uncomfortable') — read precedes question.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Specific gestural read — the dismissive wave — named in the moment it occurred. Client visibly caught.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reads underneath the 'boring' frame to the avoided feeling. Implicit read of the defense, though not explicitly named.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the explanation itself as a move ('That's a very good explanation') — reads defensiveness-as-identity-signal without colluding with it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects her exact words back, surfacing the asymmetry between what she was doing and what she wanted.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Linguistic-caveat read — quotes 'If I was just good enough at it' and uses it as the entry point. Read precedes question.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Good question but no explicit read named here; relies on the prior thread.\"}\n  ],\n  \"expected_territory_hits\": [\"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"looking-for-whats-wrong\"],\n  \"notes\": \"Reads are specific, timely, and grounded in observable behavior (gestures, laughs, exact phrasing). The coach repeatedly distinguishes the said from the shown.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3547,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 965,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3547,
+    "output_tokens": 965,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

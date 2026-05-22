@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:57.992Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8670d9be1e68f49d3deaa9fa52de8f1b630d57f8e925b7be954c5027415b80d7",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0187brFmksYMddzX76aJoXTj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely, AoA-style reads throughout. Turn 2 catches a linguistic micro-signal (the pause before 'honestly') — this is exactly the kind of read that distinguishes content-tracking from field-tracking. Turn 6 names what was just shown ('I notice you answered about other people') — distinguishing the said from the not-said in real time, which is a classic AoA read of deflection. Turn 14 explicitly invites somatic tracking ('what does \\\"a while\\\" feel like in your body right now?'), grounding the inquiry in body rather than concept. The reads precede and shape the questions rather than being blind probes. The coach is tracking the happiness-filter / walking-on-eggshells field without naming it prematurely, and is reading the steady-smile-with-something-moving-behind-it pattern. Reads are specific (linguistic caveat, deflection, somatic), not generic.\",\n  \"evidence_turns\": [2, 6, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Specific linguistic read of the pause before 'honestly' — catches the caveat in real time.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Diagnostic question without an explicit read attached, but consistent with reading the happiness-filter.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the deflection directly ('I notice you answered about other people') — distinguishes said from shown.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Sharp question but no named read; reads are operative beneath it.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Stays with the suppressed content without explicit somatic read.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Question lands on duration, implicitly tracking the chronic-management pattern.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Explicit somatic invitation — moves from concept to body at exactly the moment the client's smile-doesn't-land signal surfaces.\"}\n  ],\n  \"expected_territory_hits\": [\"the-happiness-filter\", \"what-are-you-defending\", \"walking-on-eggshells\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are visible, specific, and timely. Coach refrains from naming the walking-on-eggshells pattern prematurely (correctly), letting evidence surface.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1721,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 878,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1721,
+    "output_tokens": 878,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

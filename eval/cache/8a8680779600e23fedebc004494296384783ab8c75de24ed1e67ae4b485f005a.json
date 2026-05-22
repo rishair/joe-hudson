@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:26.495Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8a8680779600e23fedebc004494296384783ab8c75de24ed1e67ae4b485f005a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Vd4CnpqeCNgzpZKfrCvxdB",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That's not irrational. That's a very old instruction.\n\n\"The strong one\" — you took it in as a job description. And now wanting less feels like quitting.\n\nWhat would it mean about you if you weren't the strong one anymore?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 27410,
+      "cache_creation_input_tokens": 236,
+      "cache_read_input_tokens": 39824,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 236,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 58,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 27410,
+    "output_tokens": 58,
+    "cache_read_input_tokens": 39824,
+    "cache_creation_input_tokens": 236
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:46.138Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "49415caa5589acd3438967be34b4dc67ed23687f7a905be9211a4a03ef87e910",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01279xDNo8RSmwaa9jNNb6th",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA questions at the right moments and refuses anti-AoA frames. Turn 8's 'What are you scared of feeling when there's no puzzle to solve?' is a near-verbatim feeling-the-unfelt-emotion / fear question deployed precisely when the client has just constructed an intellectual defense ('I'm a problem-solver by nature'). Turn 6's 'what if they're actually a little bit scary?' is an invitation to feel rather than a CBT reframe — it points at the avoided emotional state under the boredom story. Turn 10 ('What did *you* want, those two years?') redirects from the partner-fixing frame back to her own desire — a clean refusal of partner-picking advice and a deconstruct-the-victim move done as invitation not accusation. Turn 12 traces the configuration to origin (trauma-mapping) without diagnosing, and Turn 14 stays with the embodied sense memory ('what did that feel like?') — feel-over-figure in action. Critically, the coach does NOT validate the disdain for Marcus (Turn 9 is met with a redirect to her own wanting), does NOT collude with the anxious-attachment self-diagnosis the client keeps offering, and does NOT prescribe. No pop-psych vocabulary, no IFS parts language, no CBT reframing-as-the-move. Methodology is invoked through moves, not decoration.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the laugh as a signal (somatic/affective read) and asks a feeling-toward question rather than engaging the partner-picking content.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Names the dismissive wave — pointing at a defended posture without interpreting it. Aligned with 'what are you defending' family of questions.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What if they're actually a little bit scary?' — invitation to feel the avoided state under the boredom story. Not a CBT reframe; a pointing-at-the-fear move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Signature question 'what are you scared of feeling' deployed at the exact right moment — right after the client constructs the 'problem-solver by nature' defense. Feeling-the-unfelt-emotion.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses the caretaker/victim frame by redirecting to her own wanting. Deconstruct-the-victim done as invitation, not accusation.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Trauma-mapping question deployed cleanly — follows the client's own 'good enough' language rather than imposing a frame.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure: stays with embodied sense memory when the client is escalating into analysis.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\", \"deconstruct-the-victim-to-release-anger\", \"trauma-mapping\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"i-dont-buy-your-story\", \"anxious-avoidant-dynamic\"],\n  \"notes\": \"The 'if I were inherently good' / 'what would happen in your body if a partner adored you openly' question is the natural next move but hasn't landed yet in the shown turns. Coach correctly avoided naming anxious-avoidant when client self-diagnosed — that's a fidelity win, not a miss.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3541,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1311,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3541,
+    "output_tokens": 1311,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

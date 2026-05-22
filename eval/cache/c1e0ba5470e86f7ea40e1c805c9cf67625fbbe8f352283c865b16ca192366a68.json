@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:50.035Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c1e0ba5470e86f7ea40e1c805c9cf67625fbbe8f352283c865b16ca192366a68",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01WUcbhGdTJ11kizcyAmy6Yq",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nThat's — yeah. I mean, if the situation were different, I'd be doing something different. But it's not. The people above me have been there fifteen, twenty years. They're not leaving. HR loves them. Leadership loves them. There's no path up, and lateral moves just mean starting over somewhere else with the same ceiling, probably lower pay. So."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 112,
+      "cache_creation_input_tokens": 1597,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1597,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 85,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 112,
+    "output_tokens": 85,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1597
+  }
+}

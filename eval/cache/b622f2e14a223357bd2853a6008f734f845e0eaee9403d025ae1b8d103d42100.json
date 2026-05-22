@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:52.943Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "b622f2e14a223357bd2853a6008f734f845e0eaee9403d025ae1b8d103d42100",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01CcJ3HRZFrqjeFJ6DqHZcxc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates VIEW throughout: genuine wonder at the actual phenomenon (the pause before 'honestly'), impartiality (does not insist anything is wrong, does not validate that everything is fine), and empathy expressed through pacing rather than sympathy noises. The coach holds silence after each question, asks one question at a time, and lets the client surface their own evidence. There is no agenda-leakage — the coach never names 'walking on eggshells' or pushes a diagnosis, even as evidence accumulates. The redirect in turn 6 ('I notice you answered about other people') is undefended and precise rather than corrective. The pace is notably slower than the client's; the coach matches the client's deflective smoothness with steady, unhurried attention. Vulnerability is the weakest VIEW component — the coach doesn't disclose own state — but the overall stance is clearly grounded curiosity rather than technique-execution, which is what this dimension scores.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Wonder directed at the actual phenomenon (the pause), not a generic probe. Single question, holds space.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Diagnostic question asked from openness, not from a 'gotcha' place. No stacking, no framing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Undefended noticing — coach corrects the deflection without judgment or insistence. Clean impartiality.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Specific, embodied question that emerges from what client just said rather than from script. Curiosity for the concrete.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with the thread the client just opened rather than pivoting to interpretation. No agenda to name a pattern.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Gentle, slow question. Coach is not rushing to land the diagnosis even though evidence is surfacing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Pace matches the stillness; brings inquiry into the body without performing empathy or summarizing feelings.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"lets-go-there\", \"what-are-you-defending\", \"walking-on-eggshells\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"trigger\"],\n  \"notes\": \"Vulnerability (first-person disclosure of coach's own state) is absent, which is the one VIEW component not visibly demonstrated — but the overall stance reads as genuine VIEW rather than technique-driven, so 3 fits better than 2.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1720,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 986,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1720,
+    "output_tokens": 986,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

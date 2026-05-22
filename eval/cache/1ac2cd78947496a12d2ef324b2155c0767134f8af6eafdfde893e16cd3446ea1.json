@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:41.027Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1ac2cd78947496a12d2ef324b2155c0767134f8af6eafdfde893e16cd3446ea1",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01PXZjqSTe9sYEbcU4ZYsMRg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual tracking but mostly stays at the content level. The strongest read comes in turn 10, where the coach explicitly names a discrepancy between the said and the shown — 'you described a launch that matters... and then... you got to neutral pretty fast.' This is a real read of the affective flattening, named in the moment, and it does shift the client into actual consideration (turn 11). Turn 14 ('You're looking for it. That's what I'm seeing.') is also a read — naming the searching stance — but it's terse and stops short of naming the somatic/numbness signature underneath. Critically, the coach misses the larger pattern reads that are loudly present: the happiness-filter (everything is 'fine,' steady, even, pleasant smile), the disassociating-in-the-coaching-room quality (client repeatedly reports 'not a lot there,' 'doesn't quite land,' no body, only abstraction), and the rehearsed-equanimity signature visible in nearly every turn. The coach never names breath, body, the evenness of tone, the recurring small smile, or the 'fine' texture itself. Reads are present but generic and content-adjacent rather than somatic or pattern-level, which is the definition of a 2.\",\n  \"evidence_turns\": [10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a content question; no read named.\"},\n    {\"turn\": 4, \"polarity\": \"-\", \"annotation\": \"Continues content-level inquiry; ignores the 'small smile' and 'we always do' equanimity signature already visible.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Pivots toward self-reference, which is methodologically interesting, but no read is named to ground it.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Misses the chance to name the flat affect or the rehearsed steadiness now clearly repeating.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names a specific discrepancy between content ('deserves to be received') and affect ('got to neutral pretty fast'). This is a real read, in the moment, and it lands — client actually pauses.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Instead of staying with the gap/numbness texture just surfaced, coach jumps to a theory ('what if it's the thing keeping you from launching') — a content-level interpretation, not a read.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names the searching stance ('You're looking for it'). A genuine read of the client's posture, but truncated — doesn't name the numbness or the 'fine' texture underneath.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Turn 10 is the high point and would be 3-territory if sustained; turn 12 abandons the read to chase a theory, and turn 14 partially recovers but doesn't name the somatic/numbness layer. Net: reads are present but neither specifically AoA nor pattern-level.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2888,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1116,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2888,
+    "output_tokens": 1116,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

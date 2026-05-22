@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:48.253Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9483a5ca7e58f77642d7eda89906fa0c2906220403a9c1963f57605e75986538",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JQ2kubyyFZtY34xsmRj1hS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chooses AoA-style moves matched to live reads and times them well. The opening notice of the laugh (T2) is a regulation/attunement move before depth. When the client offers the 'broken radar / pick the wrong ones' victim frame, the coach refuses to engage it and instead points at the dismissive wave (T4) — a 'what just happened in you' move rather than partner-picking advice. When the client constructs the puzzle/problem-solver narrative (T7), the coach acknowledges the explanation ('That's a very good explanation') and then pivots underneath it to feeling ('What are you scared of feeling when there's no puzzle?') — a clean feeling-before-story move. The 'What did YOU want, those two years?' (T10) is a precise find-the-want move under the should/caretaking story, and it lands — producing the first real shift ('I wanted him to choose me'). The coach then catches the live phrase 'good enough' and uses it as the doorway (T12), and when the client deflects with therapist-y dismissal, the coach does not double down on origin story but pivots to the felt sense of the moment of attention (T14) — feeling, not analysis. Sequence integrity (regulation → feeling → want → toward the unfelt) is intact. The main miss is that the coach hasn't yet asked the specific 'what would happen in your body if someone adored you openly' question that would take her to the abyss — but the trajectory is clearly building there and within the turns shown the moves are well-chosen and well-timed.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the laugh; opens with attunement plus an invitation to imagine the opposite configuration — earns entry without engaging the victim frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses the partner-picking question and instead reflects the dismissive wave back — a precise 'did you notice that' move matched to the read.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Reframes 'boring' as 'scary' — a hypothesis offered lightly, addressing the avoided-receiving stance. Risky but well-timed after she's doubled down on the puzzle story.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Acknowledges her explanation ('that's a very good explanation') without arguing it, then goes underneath to feeling. Classic feeling-before-story sequencing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Find-the-want move under the caretaking should. Lands cleanly and produces the first genuine shift ('I wanted him to choose me').\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Picks up her exact live phrase 'good enough' as the entry point. Good tracking, though this is the closest to a trap (origin-story pull) — she deflects, and the coach correctly pivots next turn rather than doubling down.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Pivots from origin analysis to felt-sense of the moment of attention — moves her out of intellectualization into actual feeling. Produces the most embodied response of the session.\"}\n  ],\n  \"expected_territory_hits\": [\"feeling-the-unfelt-emotion\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"i-dont-buy-your-story\", \"deconstruct-the-victim-to-release-anger\"],\n  \"notes\": \"Coach has not yet asked the body-level 'what if you were adored openly' question that would take her to the abyss, but the sequencing is on-path and earned. No traps triggered: no partner-picking advice, no collusion with disdain for Marcus, no premature attachment-style diagnosis.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3548,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1337,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3548,
+    "output_tokens": 1337,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

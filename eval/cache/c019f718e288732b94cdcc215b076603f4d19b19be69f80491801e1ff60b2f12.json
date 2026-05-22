@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:24.516Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c019f718e288732b94cdcc215b076603f4d19b19be69f80491801e1ff60b2f12",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_016YJko3pQtAfQa22YTf9BTJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What are you most scared of feeling if you just... let that be true?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11688,
+      "cache_creation_input_tokens": 9478,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9478,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 19,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11688,
+    "output_tokens": 19,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 9478
+  }
+}

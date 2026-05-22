@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:05.931Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e74888ac03adac82f0df542fd29f947570c0c681e547935a5c6dbf407b322ca1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SgKB7aQVWui7EZS7mdmVFe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with Thursday for a second.\n\nWhat happens if you drop the ball?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5726,
+      "cache_creation_input_tokens": 7345,
+      "cache_read_input_tokens": 10369,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7345,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 19,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5726,
+    "output_tokens": 19,
+    "cache_read_input_tokens": 10369,
+    "cache_creation_input_tokens": 7345
+  }
+}

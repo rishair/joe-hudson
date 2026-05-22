@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:25:17.299Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b1a90187bd3929e9a617f0834edb66ecbea41f0435328dc44bf23ff2767bdbb1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_014SgcgAZsHtghcUVadfAcLH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(long pause, hands still for once)*\n\n*(very quietly)*\n\nI think... someone who's actually trying really hard. Who has been trying really hard for a long time and is scared that the trying isn't enough. And if the voice stops, then I have to find out whether that's true without the buffer of — of at least having something that's watching, that's pushing.\n\n*(a beat)*\n\nLike, the voice is mean, but it's also... it's not nothing. It's paying attention. And somewhere in there that feels like — \n\n*(stops)*\n\n*(slightly undone)*\n\nThat's strange. I don't know where I was going with that."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 222,
+      "cache_creation_input_tokens": 476,
+      "cache_read_input_tokens": 2433,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 476,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 147,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 222,
+    "output_tokens": 147,
+    "cache_read_input_tokens": 2433,
+    "cache_creation_input_tokens": 476
+  }
+}

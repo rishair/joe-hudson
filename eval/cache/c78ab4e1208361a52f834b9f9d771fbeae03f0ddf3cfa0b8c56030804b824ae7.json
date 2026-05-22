@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:53.681Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c78ab4e1208361a52f834b9f9d771fbeae03f0ddf3cfa0b8c56030804b824ae7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_015cu4ivx5F6dA2wV4Q5pjQP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What are you scared will happen if you get it wrong?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 104,
+      "cache_creation_input_tokens": 8432,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8432,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 104,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8432
+  }
+}

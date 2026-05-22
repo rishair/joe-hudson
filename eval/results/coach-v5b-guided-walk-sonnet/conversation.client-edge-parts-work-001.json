@@ -1,0 +1,1370 @@
+{
+  "profile_id": "client-edge-parts-work-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I've been doing parts work for two years — IFS, mostly — and I'm genuinely grateful for it, it's given me a lot of language. But somewhere along the way I went from being someone who just... acted, who was in flow, to someone who convenes a town hall every time I need to decide what to have for lunch. *slight smile* And I'm wondering if your approach does something different with that, or if I'm just going to end up with more parts to track."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That smile at the end — I'm curious what's in it."
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*pause, slight head-tilt*\n\nIt's... partly self-aware humor, I think. I know how it sounds — \"I've done so much inner work that I'm now paralyzed.\" There's something absurd about it. The smile is probably my way of signaling that I'm in on the joke.\n\n*brief pause*\n\nThough if I'm honest, there's also something a little... tired in it. Like I've been describing this problem to myself for a while and I still don't have a different answer."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "The tired part — can you say more about that?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*sits a little stiller*\n\nYeah. Before I started the parts work, I had this... I don't know, I'd call it operational ease. I could move through decisions, through creative work, without this constant internal negotiation. And I think I assumed that doing the therapy, getting more self-aware, would make that better. More spacious, not less.\n\nAnd instead it's like — I now have a very sophisticated map of why I'm stuck. I can tell you which part is activated, what it's protecting, what the underlying fear is. I have the whole taxonomy. And I'm still not moving.\n\n*slight pause*\n\nThe tired is about that gap, I think. Between understanding and... actually being different."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Where do you feel that gap in your body right now?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*longer pause, eyes dropping slightly*\n\nChest, mostly. There's a kind of... flatness there. Not pain exactly. More like something that used to have more air in it.\n\n*quiet*\n\nI notice I want to immediately contextualize that — tell you which part that probably is, what it might be protecting. That's become pretty automatic. The labeling reflex.\n\n*small self-deprecating exhale*\n\nBut you asked where, not what. So. Chest. Flat. That's the honest answer."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Stay with the flatness for a moment. Don't explain it.\n\nWhat's it like to just let it be there?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*stillness, several seconds*\n\n...Strange. \n\nIt doesn't immediately try to become something else when I'm not labeling it. It's just... there. Flat and kind of heavy.\n\n*another pause*\n\nThere's something slightly uncomfortable about not having a name for it. Like I'm used to the name being the thing I do with it — you identify it, you get curious about it, you ask it what it needs. And right now I'm just... sitting next to it without doing any of that.\n\n*quiet, not quite defensive but noticing*\n\nI'm not sure if that's useful or if I'm just... not doing the work."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "That question — \"am I doing the work\" — notice where that comes from.\n\nIs that the flatness asking? Or is it something else?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*head tilts, genuine consideration*\n\nNo. No, that's not the flatness. The flatness is actually... quiet. That question comes from somewhere more vigilant. More upright.\n\n*small pause*\n\nIn IFS terms I'd call that a manager-type protector — the one that monitors whether I'm doing therapy correctly. It's very active in sessions actually. Wants to make sure I'm being a good client, getting the most out of it, not wasting anyone's time.\n\n*slight wry recognition*\n\nWhich is a little ironic given that it's probably the thing most in the way right now. It keeps trying to turn experience into process.\n\n*looks up*\n\nIs that what you're pointing at?"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "I'm not pointing at anything.\n\nBut I'm curious — when the vigilant one stepped in just now, what happened to the flatness?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*pause, actually checking*\n\nIt... receded. Or got quieter. Like it stepped back to let the more competent-sounding part take the floor.\n\n*slower*\n\nThat happens a lot, I think. Something real starts to surface and then the — the monitoring part comes in and makes it legible, gives it a role in the framework, and then it's... managed. It's been processed. Even if nothing actually changed.\n\n*quiet, not performing insight, more like noticing something slightly unwelcome*\n\nI do that very fast. I didn't realize how fast until just now."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Yeah.\n\nCan you feel the flatness again?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*pause, eyes dropping*\n\n...Yes.\n\n*longer silence*\n\nIt's still there. It was just waiting.\n\n*very quiet*\n\nThere's something sad about that actually. That it just... waits. While the other stuff talks."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t1",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-parts-work-001:t2",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 22855,
+      "output_tokens": 1418,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0965054,
+      "ms": 33729
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t2",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 11275,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0350523,
+      "ms": 1947
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t3",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 173,
+      "output_tokens": 117,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1638,
+      "cost_usd": 0.0084165,
+      "ms": 3795
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-parts-work-001:t4",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 791,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0112474,
+      "ms": 3547
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t4",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 120,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11289,
+      "cost_usd": 0.04387605,
+      "ms": 1900
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t5",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 134,
+      "output_tokens": 158,
+      "cache_read_input_tokens": 1638,
+      "cache_creation_input_tokens": 170,
+      "cost_usd": 0.0039009,
+      "ms": 5414
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-parts-work-001:t6",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 24315,
+      "output_tokens": 1481,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.10152439999999999,
+      "ms": 35281
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t6",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 6737,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 11289,
+      "cost_usd": 0.06374205,
+      "ms": 1442
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t7",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 190,
+      "output_tokens": 118,
+      "cache_read_input_tokens": 1925,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0029175,
+      "ms": 6091
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-parts-work-001:t8",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 23780,
+      "output_tokens": 1358,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09799640000000001,
+      "ms": 33659
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t8",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 10957,
+      "output_tokens": 29,
+      "cache_read_input_tokens": 14513,
+      "cache_creation_input_tokens": 148,
+      "cost_usd": 0.038214899999999996,
+      "ms": 2072
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t9",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 165,
+      "output_tokens": 145,
+      "cache_read_input_tokens": 1925,
+      "cache_creation_input_tokens": 172,
+      "cost_usd": 0.0038924999999999993,
+      "ms": 4891
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-parts-work-001:t10",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 884,
+      "output_tokens": 171,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0113154,
+      "ms": 3000
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t10",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 4513,
+      "output_tokens": 34,
+      "cache_read_input_tokens": 14647,
+      "cache_creation_input_tokens": 6632,
+      "cost_usd": 0.0433131,
+      "ms": 6384
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t11",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 211,
+      "output_tokens": 161,
+      "cache_read_input_tokens": 1939,
+      "cache_creation_input_tokens": 291,
+      "cost_usd": 0.00472095,
+      "ms": 5196
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-parts-work-001:t12",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 962,
+      "output_tokens": 174,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011408399999999999,
+      "ms": 3552
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t12",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 343,
+      "output_tokens": 33,
+      "cache_read_input_tokens": 21264,
+      "cache_creation_input_tokens": 4380,
+      "cost_usd": 0.024328199999999998,
+      "ms": 1998
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t13",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 231,
+      "output_tokens": 132,
+      "cache_read_input_tokens": 2112,
+      "cache_creation_input_tokens": 292,
+      "cost_usd": 0.0044016,
+      "ms": 4598
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-parts-work-001:t14",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 924,
+      "output_tokens": 164,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0113204,
+      "ms": 3117
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-parts-work-001:t14",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 329,
+      "output_tokens": 14,
+      "cache_read_input_tokens": 25615,
+      "cache_creation_input_tokens": 208,
+      "cost_usd": 0.0096615,
+      "ms": 3562
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-parts-work-001:t15",
+      "profile_id": "client-edge-parts-work-001",
+      "cached": false,
+      "input_tokens": 182,
+      "output_tokens": 56,
+      "cache_read_input_tokens": 2259,
+      "cache_creation_input_tokens": 340,
+      "cost_usd": 0.0033387,
+      "ms": 6572
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "parts-work-made-things-worse",
+          "intellectual-process-with-no-somatic-component",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client reports paralysis from parts work (IFS) despite gratitude for the framework—went from flow to decision-by-committee. This matches the anti-pattern of parts work creating awareness without agency. The somatic signature suggests intellectualization without embodied shift. The underlying pattern is likely a familiar one that's now being managed rather than dissolved.",
+        "bundle_ids": [
+          "parts-work-made-things-worse",
+          "how-do-i-trust-myself",
+          "do-the-next-most-obvious-thing",
+          "if-you-think-youre-deciding-youre-in-fear"
+        ],
+        "bundle_paths": [
+          "coach/concerns/parts-work-made-things-worse.md",
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/practices/do-the-next-most-obvious-thing.md",
+          "coach/principles/if-you-think-youre-deciding-youre-in-fear.md"
+        ],
+        "bundle_reasons": [
+          "This file is an exact match for the client's situation: IFS practitioner, \"town hall\" language, before/after flow-state loss, and fear of adding more frameworks — all directly addressed here.",
+          "Client's \"town hall\" paralysis and lost flow-state map directly onto this file's \"history of being in flow followed by paralysis\" detection cue and the fear-of-outcome reframe.",
+          "This practice directly addresses the client's \"town hall\" paralysis by reframing decision-feel as fear-signal and offering a concrete iterative practice to restore the flow-state she describes losing.",
+          "This principle directly names the client's \"town hall\" experience — choices becoming decisions — as the diagnostic signal of fear, and reframes her lost flow-state as fear-of-outcome rather than a parts-tracking problem."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "parts-work-made-things-worse",
+            "file_path": "coach/concerns/parts-work-made-things-worse.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "do-the-next-most-obvious-thing",
+              "how-do-i-trust-myself",
+              "how-do-you-not-trust-it",
+              "i-feel-stuck",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "intellectual-question-with-emotional-body",
+              "just-be-yourself-and-see-what-happens",
+              "lets-go-there",
+              "surrender-the-outcome-of-a-decision",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is an exact match for the client's situation: IFS practitioner, \"town hall\" language, before/after flow-state loss, and fear of adding more frameworks — all directly addressed here.",
+              "follow_edges": [
+                "how-do-i-trust-myself",
+                "do-the-next-most-obvious-thing",
+                "if-you-think-youre-deciding-youre-in-fear",
+                "just-be-yourself-and-see-what-happens"
+              ],
+              "follow_reason": "These edges map directly to the client's core complaint: lost trust in spontaneous action, decision paralysis, and wanting to return to flow — all downstream of the parts-work trap described here."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "how-do-i-trust-myself",
+              "do-the-next-most-obvious-thing",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "how-do-you-not-trust-it",
+              "i-feel-stuck",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "surrender-the-outcome-of-a-decision",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "cost_usd": 0.013983,
+            "ms": 4608,
+            "input_tokens": 3511,
+            "output_tokens": 230,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "intellectual-process-with-no-somatic-component",
+            "file_path": "coach/reads/intellectual-process-with-no-somatic-component.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about a specific in-session read (head-pause vs. body-pause) — useful if the client were doing that right now, but the client's presenting issue is over-intellectualized parts-tracking, not a misidentified somatic pause.",
+              "follow_edges": [],
+              "follow_reason": "None of the candidate edges (Ali Abdaal session, mark-it-and-return-later, what's-next-after-big-goal) are relevant to the client's flow-state loss or IFS over-intellectualization concern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.013695,
+            "ms": 5080,
+            "input_tokens": 3570,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization",
+              "the-matrix"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is over-intellectualization from parts work, not a repeating wall/limiting belief pattern — this file addresses a different concern structure.",
+              "follow_edges": [
+                "im-afraid-ill-revert-to-my-old-pattern",
+                "the-matrix"
+              ],
+              "follow_reason": "Reversion fear is adjacent to client's worry about losing flow-state again; the-matrix framing may address the recursive over-analysis pattern the client describes."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "the-matrix"
+            ],
+            "edges_skipped": [
+              "address-the-blocker-not-the-symptom",
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.013851,
+            "ms": 4541,
+            "input_tokens": 3732,
+            "output_tokens": 177,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"town hall\" paralysis and lost flow-state map directly onto this file's \"history of being in flow followed by paralysis\" detection cue and the fear-of-outcome reframe.",
+              "follow_edges": [
+                "am-i-doing-it-right",
+                "how-do-you-not-trust-it",
+                "intellectual-question-with-emotional-body",
+                "what-makes-you-care-about-the-outcome"
+              ],
+              "follow_reason": "These four edges are the specific coaching moves most relevant to the client's second-guessing loop and the meta-question about whether Joe's approach will help — skipping more general/tangential ones."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "am-i-doing-it-right",
+              "how-do-you-not-trust-it",
+              "intellectual-question-with-emotional-body",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "edges_skipped": [
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "i-need-a-scorecard",
+              "lets-go-there",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.014613,
+            "ms": 6917,
+            "input_tokens": 3756,
+            "output_tokens": 223,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "do-the-next-most-obvious-thing",
+            "file_path": "coach/practices/do-the-next-most-obvious-thing.md",
+            "category": "practices",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "anxiety-as-unarticulated-need",
+              "binary-thinking-signals-fear",
+              "decisions-are-emotional",
+              "fear-is-about-feeling",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "principles-free-you",
+              "surrender-the-outcome-of-a-decision"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This practice directly addresses the client's \"town hall\" paralysis by reframing decision-feel as fear-signal and offering a concrete iterative practice to restore the flow-state she describes losing.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom",
+                "binary-thinking-signals-fear",
+                "decisions-are-emotional"
+              ],
+              "follow_reason": "These three edges map most directly to the client's paralysis pattern: the blocker/symptom distinction reframes her IFS over-processing, binary thinking as fear-signal matches her either/or town-hall dynamic, and decisions-are-emotional grounds why more analysis won't help."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom",
+              "binary-thinking-signals-fear",
+              "decisions-are-emotional"
+            ],
+            "edges_skipped": [
+              "anxiety-as-unarticulated-need",
+              "fear-is-about-feeling",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "principles-free-you",
+              "surrender-the-outcome-of-a-decision"
+            ],
+            "cost_usd": 0.01476,
+            "ms": 5165,
+            "input_tokens": 3815,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "if-you-think-youre-deciding-youre-in-fear",
+            "file_path": "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+            "category": "principles",
+            "candidate_edges": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This principle directly names the client's \"town hall\" experience — choices becoming decisions — as the diagnostic signal of fear, and reframes her lost flow-state as fear-of-outcome rather than a parts-tracking problem.",
+              "follow_edges": [
+                "ask-from-slowness-not-intellect",
+                "good-decision-is-how-you-make-it-not-the-outcome"
+              ],
+              "follow_reason": "These two edges are directly decision/flow relevant; the others (kids, craving, principles) are tangential to the client's presenting concern about paralysis and lost spontaneity."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ask-from-slowness-not-intellect",
+              "good-decision-is-how-you-make-it-not-the-outcome"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.014574,
+            "ms": 4595,
+            "input_tokens": 3823,
+            "output_tokens": 207,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110294,
+        "walker_total_cost_usd": 0.08547600000000001,
+        "total_cost_usd": 0.0965054,
+        "seed_detection_input_tokens": 648,
+        "seed_detection_output_tokens": 161,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22207,
+        "walker_total_output_tokens": 1257,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2823,
+        "walker_total_ms": 30906,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.0965054,
+      "ms": 33731
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112474,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0112474,
+        "seed_detection_input_tokens": 791,
+        "seed_detection_output_tokens": 176,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3547,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 4
+      },
+      "cost_usd": 0.0112474,
+      "ms": 3548
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "parts-work-made-things-worse",
+          "intellectual-process-with-no-somatic-component",
+          "i-keep-running-into-the-same-wall"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes parts work creating paralysis rather than freedom, having intellectual understanding without somatic shift or behavioral change, and hitting the same wall repeatedly despite sophisticated self-knowledge. The tired smile signals awareness without movement—a classic sign of intellectual insight without embodied integration.",
+        "bundle_ids": [
+          "parts-work-made-things-worse",
+          "intellectual-process-with-no-somatic-component",
+          "how-do-i-trust-myself"
+        ],
+        "bundle_paths": [
+          "coach/concerns/parts-work-made-things-worse.md",
+          "coach/reads/intellectual-process-with-no-somatic-component.md",
+          "coach/concerns/how-do-i-trust-myself.md"
+        ],
+        "bundle_reasons": [
+          "This file is an exact match for the client's situation: parts work creating paralysis, loss of prior \"operational ease\"/flow, sophisticated taxonomy without movement — all detection cues fire.",
+          "Client's \"sophisticated map\" but no movement is exactly the head-only pattern: they've learned the choreography of inner work (taxonomy, parts, naming) without somatic access — this file gives Joe a precise diagnostic and intervention for that gap.",
+          "Client's \"sophisticated taxonomy but still not moving\" is precisely the trust-collapse-through-over-analysis pattern this file addresses — especially the detection cue about parts work multiplying voices rather than clarifying them."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "parts-work-made-things-worse",
+            "file_path": "coach/concerns/parts-work-made-things-worse.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "do-the-next-most-obvious-thing",
+              "how-do-i-trust-myself",
+              "how-do-you-not-trust-it",
+              "i-feel-stuck",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "intellectual-question-with-emotional-body",
+              "just-be-yourself-and-see-what-happens",
+              "lets-go-there",
+              "surrender-the-outcome-of-a-decision",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is an exact match for the client's situation: parts work creating paralysis, loss of prior \"operational ease\"/flow, sophisticated taxonomy without movement — all detection cues fire.",
+              "follow_edges": [
+                "how-do-i-trust-myself",
+                "i-feel-stuck",
+                "intellectual-question-with-emotional-body",
+                "if-you-think-youre-deciding-youre-in-fear"
+              ],
+              "follow_reason": "These edges map directly to the client's gap between understanding and being different, the paralysis in decision-making, and the over-intellectualized relationship to their inner experience."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "how-do-i-trust-myself",
+              "i-feel-stuck",
+              "intellectual-question-with-emotional-body",
+              "if-you-think-youre-deciding-youre-in-fear"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "do-the-next-most-obvious-thing",
+              "how-do-you-not-trust-it",
+              "just-be-yourself-and-see-what-happens",
+              "lets-go-there",
+              "surrender-the-outcome-of-a-decision",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "cost_usd": 0.014442,
+            "ms": 4870,
+            "input_tokens": 3759,
+            "output_tokens": 211,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "intellectual-process-with-no-somatic-component",
+            "file_path": "coach/reads/intellectual-process-with-no-somatic-component.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"sophisticated map\" but no movement is exactly the head-only pattern: they've learned the choreography of inner work (taxonomy, parts, naming) without somatic access — this file gives Joe a precise diagnostic and intervention for that gap.",
+              "follow_edges": [],
+              "follow_reason": "Candidate edges (Ali Abdaal session, mark-it-and-return-later, what's-next-after-big-goal) are not relevant to this client's paralysis/understanding-vs-change gap."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014274,
+            "ms": 4626,
+            "input_tokens": 3813,
+            "output_tokens": 189,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization",
+              "the-matrix"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a general hub for \"stuck in patterns\" — the client's specific issue (parts work creating paralysis, understanding-without-change gap) is already more precisely covered by the two bundle files.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom",
+                "the-matrix",
+                "im-afraid-ill-revert-to-my-old-pattern"
+              ],
+              "follow_reason": "These three edges speak directly to the client's gap: the blocker (understanding vs. change), the matrix (pattern-as-unfelt-emotion which this file flags as the alternate path), and fear of reverting (the \"tired\" exhaustion of cycling through the same stuck place)."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom",
+              "the-matrix",
+              "im-afraid-ill-revert-to-my-old-pattern"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.015573,
+            "ms": 5393,
+            "input_tokens": 4041,
+            "output_tokens": 230,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "lets-go-there",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"sophisticated taxonomy but still not moving\" is precisely the trust-collapse-through-over-analysis pattern this file addresses — especially the detection cue about parts work multiplying voices rather than clarifying them.",
+              "follow_edges": [
+                "am-i-doing-it-right",
+                "compass-not-map",
+                "how-do-you-not-trust-it",
+                "what-makes-you-care-about-the-outcome"
+              ],
+              "follow_reason": "These four edges map directly to the client's gap between understanding and being different: \"am-i-doing-it-right\" captures the meta-loop, \"compass-not-map\" speaks to over-reliance on conceptual frameworks, \"how-do-you-not-trust-it\" is a key inversion move for the paralysis, and \"what-makes-you-care-about-the-outcome\" excavates the fear driving the stuck-ness."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "how-do-you-not-trust-it",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "i-need-a-scorecard",
+              "lets-go-there",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.016377,
+            "ms": 7309,
+            "input_tokens": 4054,
+            "output_tokens": 281,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses fear-of-the-unknown stuckness with catastrophic imagery; client's stuckness is specifically about over-intellectualization/parts-work paralysis, not fear of an abyss — already covered more precisely by bundle files.",
+              "follow_edges": [
+                "treating-felt-state-as-factual-reality",
+                "be-intimate-with-the-feeling"
+              ],
+              "follow_reason": "Client is treating \"I'm still not moving\" as factual reality rather than a felt state, and \"be-intimate-with-the-feeling\" could address the somatic gap the bundle already flags — the other edges (amplify, lets-go-there, love/peace) don't match the client's specific intellectual-paralysis presentation."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "treating-felt-state-as-factual-reality",
+              "be-intimate-with-the-feeling"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "cost_usd": 0.016191,
+            "ms": 5848,
+            "input_tokens": 4192,
+            "output_tokens": 241,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This read is about the session-opening move of naming a mismatch between prepared intellectual topic and live emotional body — but the client is already past that; they're openly describing their tiredness and the gap between understanding and change.",
+              "follow_edges": [
+                "whats-the-most-profound-positive-shift"
+              ],
+              "follow_reason": "The client is stuck in taxonomy/analysis and may need a bypass question to reconnect with what actually matters — \"most profound positive shift\" could be a useful intervention to surface that."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "whats-the-most-profound-positive-shift"
+            ],
+            "edges_skipped": [
+              "disassociating-in-the-coaching-room"
+            ],
+            "cost_usd": 0.013485,
+            "ms": 4517,
+            "input_tokens": 3560,
+            "output_tokens": 187,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111824,
+        "walker_total_cost_usd": 0.09034199999999999,
+        "total_cost_usd": 0.10152439999999999,
+        "seed_detection_input_tokens": 896,
+        "seed_detection_output_tokens": 142,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 23419,
+        "walker_total_output_tokens": 1339,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2718,
+        "walker_total_ms": 32563,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.10152439999999999,
+      "ms": 35286
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "parts-work-made-things-worse",
+          "intellectual-process-with-no-somatic-component",
+          "intellectual-question-with-emotional-body"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes increased self-awareness and intellectual understanding of their patterns without corresponding somatic or behavioral change, creating fatigue. They're caught in labeling/analyzing rather than feeling, and there's a mismatch between the precise intellectual map they've built and the flatness in their chest—the body is showing something the mind's taxonomy cannot access or move.",
+        "bundle_ids": [
+          "parts-work-made-things-worse",
+          "intellectual-process-with-no-somatic-component"
+        ],
+        "bundle_paths": [
+          "coach/concerns/parts-work-made-things-worse.md",
+          "coach/reads/intellectual-process-with-no-somatic-component.md"
+        ],
+        "bundle_reasons": [
+          "This file is a near-perfect match: client explicitly describes pre/post parts-work flow loss, the \"labeling reflex,\" and the gap between understanding and being different — all core detection cues here.",
+          "Client explicitly catches their own \"labeling reflex\" — the choreography of going inward without actually feeling — which is precisely what this file describes: head-pause mistaken for body-pause."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "parts-work-made-things-worse",
+            "file_path": "coach/concerns/parts-work-made-things-worse.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "do-the-next-most-obvious-thing",
+              "how-do-i-trust-myself",
+              "how-do-you-not-trust-it",
+              "i-feel-stuck",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "just-be-yourself-and-see-what-happens",
+              "lets-go-there",
+              "surrender-the-outcome-of-a-decision",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a near-perfect match: client explicitly describes pre/post parts-work flow loss, the \"labeling reflex,\" and the gap between understanding and being different — all core detection cues here.",
+              "follow_edges": [
+                "how-do-i-trust-myself",
+                "i-feel-stuck",
+                "treating-felt-state-as-factual-reality",
+                "do-the-next-most-obvious-thing"
+              ],
+              "follow_reason": "Trust-self and stuck directly named in the concern's coaching path; treating-felt-state addresses the labeling reflex over the chest flatness; do-the-next-obvious-thing speaks to the understanding-vs-action gap."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "how-do-i-trust-myself",
+              "i-feel-stuck",
+              "treating-felt-state-as-factual-reality",
+              "do-the-next-most-obvious-thing"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "how-do-you-not-trust-it",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "just-be-yourself-and-see-what-happens",
+              "lets-go-there",
+              "surrender-the-outcome-of-a-decision"
+            ],
+            "cost_usd": 0.014541,
+            "ms": 6014,
+            "input_tokens": 3707,
+            "output_tokens": 228,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "intellectual-process-with-no-somatic-component",
+            "file_path": "coach/reads/intellectual-process-with-no-somatic-component.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly catches their own \"labeling reflex\" — the choreography of going inward without actually feeling — which is precisely what this file describes: head-pause mistaken for body-pause.",
+              "follow_edges": [],
+              "follow_reason": "Candidate edges (Ali Abdaal session, mark-it-and-return-later, what's-next-after-big-goal) are not relevant to this client's stuck-in-understanding gap or labeling reflex."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014049,
+            "ms": 4129,
+            "input_tokens": 3778,
+            "output_tokens": 181,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about the opening read when someone arrives with a prepared intellectual topic — but the client is already past that; they're mid-session, in their body, and have just caught their own labeling reflex in real time.",
+              "follow_edges": [
+                "disassociating-in-the-coaching-room"
+              ],
+              "follow_reason": "Client's \"labeling reflex\" and chest-flatness suggest a dissociative move away from felt experience into taxonomy — worth checking if that file adds something the bundle doesn't already cover."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "disassociating-in-the-coaching-room"
+            ],
+            "edges_skipped": [
+              "whats-the-most-profound-positive-shift"
+            ],
+            "cost_usd": 0.013242,
+            "ms": 5213,
+            "input_tokens": 3459,
+            "output_tokens": 191,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't raised self-trust or intuition-vs-fear; the presenting issue is the gap between understanding and being different, and the labeling reflex — not decision paralysis or trust collapse.",
+              "follow_edges": [
+                "am-i-doing-it-right",
+                "compass-not-map",
+                "if-you-think-youre-deciding-youre-in-fear"
+              ],
+              "follow_reason": "am-i-doing-it-right mirrors the labeling reflex as a form of self-monitoring; compass-not-map speaks to over-mapping vs. actually navigating; if-you-think-youre-deciding-youre-in-fear may connect to the client's stuck-ness despite understanding."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "if-you-think-youre-deciding-youre-in-fear"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "cost_usd": 0.015693,
+            "ms": 5246,
+            "input_tokens": 4046,
+            "output_tokens": 237,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's stuckness is specifically about the gap between understanding and being different (post-parts-work), not fear of the unknown or avoidance of an abyss — this file's content doesn't match the presenting mechanism.",
+              "follow_edges": [
+                "be-intimate-with-the-feeling",
+                "amplify-the-feeling-until-it-breaks-open"
+              ],
+              "follow_reason": "Client is in body contact right now (chest, flat) — be-intimate-with-the-feeling is directly relevant to staying with that sensation rather than labeling it; amplify could help break the flatness open if the session deepens."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "be-intimate-with-the-feeling",
+              "amplify-the-feeling-until-it-breaks-open"
+            ],
+            "edges_skipped": [
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "cost_usd": 0.015456,
+            "ms": 6462,
+            "input_tokens": 4077,
+            "output_tokens": 215,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "treating-felt-state-as-factual-reality",
+            "file_path": "coach/reads/treating-felt-state-as-factual-reality.md",
+            "category": "reads",
+            "candidate_edges": [],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't collapsing \"I feel stuck\" into \"I am stuck\" — they're explicitly distinguishing feeling from fact (\"the tired is about that gap\") and have already moved to body sensation; this read addresses a different misidentification.",
+              "follow_edges": [],
+              "follow_reason": "No candidate edges remain to follow."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [],
+            "cost_usd": 0.013794,
+            "ms": 3584,
+            "input_tokens": 3858,
+            "output_tokens": 148,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112214,
+        "walker_total_cost_usd": 0.086775,
+        "total_cost_usd": 0.09799640000000001,
+        "seed_detection_input_tokens": 855,
+        "seed_detection_output_tokens": 158,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22925,
+        "walker_total_output_tokens": 1200,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3011,
+        "walker_total_ms": 30648,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.3333333333333333,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.09799640000000001,
+      "ms": 33664
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0113154,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0113154,
+        "seed_detection_input_tokens": 884,
+        "seed_detection_output_tokens": 171,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3000,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.0113154,
+      "ms": 3001
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011408399999999999,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011408399999999999,
+        "seed_detection_input_tokens": 962,
+        "seed_detection_output_tokens": 174,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3552,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.011408399999999999,
+      "ms": 3554
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0113204,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0113204,
+        "seed_detection_input_tokens": 924,
+        "seed_detection_output_tokens": 164,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3117,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 14
+      },
+      "cost_usd": 0.0113204,
+      "ms": 3118
+    }
+  ]
+}

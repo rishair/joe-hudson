@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:36.473Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f58c192b939b49a122c6cc241e2d15a33eba8eaf19e671128d512ffe21f094c4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_017eNs6z4NdFsPWWtHgYaBzi",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[pauses, tilts head slightly]*\n\nI mean... that would be amazing? That's literally what I want. Someone who's present, who's emotionally available, who actually *wants* to be there. \n\n*[waves hand dismissively]*\n\nThe problem is I just keep picking the wrong ones. Like there's something in my radar that's completely broken. I'll meet someone who's warm and attentive and I just... I don't know, it doesn't click the same way. There's no spark. And then I meet someone who's a little bit *mysterious* — *[eye roll]* — and suddenly I'm completely gone. \n\nSo yes, obviously I want someone who shows up. I just need to figure out how to actually be attracted to the available ones."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 161,
+      "cache_creation_input_tokens": 1625,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1625,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 172,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 161,
+    "output_tokens": 172,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1625
+  }
+}

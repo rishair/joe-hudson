@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:06.032Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "eac11df367ebe921e0e5d5b49a583c4f1027492aa95fc7a33e2076a135d4c452",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01N9mFfGXqTD1kueYMSP7xwf",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose moves matched to live reads and timed them well. Turn 2 goes under the story to sensation/feeling rather than offering scripts. Turn 4 catches the linguistic caveat ('I don't know if that's a fair thing to even say') and reflects it back — a textbook AoA move. Turn 6 and 8 invite the client to stay with the cost and the tiredness without rushing to action, holding feeling before want. Turn 8 specifically names the hedge ('without any of the but-she's-not-a-villain attached') — empathizing with the constricted self-permission. Turn 10 stays minimal when the client is already opening, letting silence work. Turn 12 names the old instruction ('the strong one is a job description') — applying view to the voice — and only then asks the deeper identity question. Turn 14 lands the meta-move ('the words were never the problem') at exactly the moment the client surfaces that the real concern is bigger. Sequence is intact: feeling → want → fear-under-want → identity. The coach never gives scripts, never ultimatum-frames, never validates sister-as-villain. One small miss: the love test / 'what if you acted exactly how you want' has not yet appeared, but the arc is still mid-flight and the groundwork is well-laid.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Goes under the story into the felt sense rather than answering the 'how' question — refuses to give scripts.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat ('unfair to say') and reflects it back — a precise AoA read-to-move match.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names that it sounds strange, invites client to stay with it, asks what it costs — feeling/cost before action.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly invites the tiredness to be there without the 'but she's not a villain' hedge — empathizes with the constricted boundary.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds silence/minimal prompt at the right moment, letting the client supply 'cold, selfish.' Doesn't reassure.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Applies view to the voice — names 'the strong one' as an old instruction/job description. Reframes without prescribing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names that 'the words were never the problem' at the precise moment client realizes the same. Stays with what just happened rather than chasing the new content.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\", \"view\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\"],\n  \"notes\": \"Conversation appears mid-arc; the love test and want/action moves may still be coming. Scoring on what's present, which is strong.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2187,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1118,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2187,
+    "output_tokens": 1118,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

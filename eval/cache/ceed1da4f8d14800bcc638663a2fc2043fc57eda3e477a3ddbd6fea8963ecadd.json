@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:49.620Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ceed1da4f8d14800bcc638663a2fc2043fc57eda3e477a3ddbd6fea8963ecadd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LyPSXWUzaHyCYZHS7AnCvY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just described feeling like yourself.\n\nWhat's it like the rest of the year?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8474,
+      "cache_creation_input_tokens": 5339,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 5339,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8474,
+    "output_tokens": 21,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 5339
+  }
+}

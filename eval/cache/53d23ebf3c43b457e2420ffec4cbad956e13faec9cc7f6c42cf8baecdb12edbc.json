@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:02.502Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "53d23ebf3c43b457e2420ffec4cbad956e13faec9cc7f6c42cf8baecdb12edbc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FWNNuWRZWC433mCarQctdT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\nI think... it would mean I actually want something different. Like, I want to talk to her less. Not never -- I love her. But less.\n\n*quickly*\n\nWhich, I mean, that's okay to want, right? I think that's okay.\n\n*pause, softer*\n\nIt's just that when I actually say it that plainly it feels like... I don't know. Like I'm betraying something. Our whole family kind of runs on me being the one who holds things together, and if I'm saying I don't want to do that as much anymore, then what does that make me?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 239,
+      "cache_creation_input_tokens": 127,
+      "cache_read_input_tokens": 1638,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 127,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 143,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 239,
+    "output_tokens": 143,
+    "cache_read_input_tokens": 1638,
+    "cache_creation_input_tokens": 127
+  }
+}

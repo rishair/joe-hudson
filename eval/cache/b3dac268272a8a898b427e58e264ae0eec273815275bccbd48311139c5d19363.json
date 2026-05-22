@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:30.281Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b3dac268272a8a898b427e58e264ae0eec273815275bccbd48311139c5d19363",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01BttGsSCDnvfC8MrUnzEPhy",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[laughs — quick, bright, deflecting]*\n\nScary! That's — okay, I hear what you're doing there. \n\n*[points finger playfully]*\n\nBut no, they're not scary, they're just... there's no tension. You know? Like, when someone's already into you, there's nothing to figure out. There's no puzzle. And I think I just get bored when there's no puzzle.\n\n*[settles back, more comfortable now that she has an explanation]*\n\nWhich is a thing, right? Some people are just wired for novelty and challenge. I've always been like that — in work too, actually. I need something to solve. So it makes sense that I'd bring that into relationships.\n\n*[nods, satisfied with this framing]*\n\nSo it's less about fear and more about... I'm just a problem-solver by nature. I need something to engage with. The available ones just don't give me anything to work with."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 215,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1955,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 217,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 215,
+    "output_tokens": 217,
+    "cache_read_input_tokens": 1955,
+    "cache_creation_input_tokens": 0
+  }
+}

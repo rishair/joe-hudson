@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:17.806Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "d97ae7a24f4aaf419d0336efbc3719057916fc4e39e979a6738da5954fec52d8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014GM7MFqCUqjVeRX1p1szMA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to the live reads and sequenced according to the AoA path. Turn 2 immediately refuses to strategize the trap by inverting it into a want question. Turn 4 moves to the feeling under the story rather than debating the constraints. When the client deflects in turn 5, the coach doesn't repeat the same move but pivots to somatic location (turn 6). When that's also rebuffed, the coach pivots again to duration (turn 8), which earns the first real opening. Turn 10 holds the moment with a simple reflection rather than chasing. Turn 12 catches the flat 'it's fine' and uses a precise 'I don't buy your story' move ('what's actually not fine?') — exactly the AoA move for this territory. Turn 14 validates briefly ('that lands') without colluding, then opens the feeling underneath being-good-and-invisible, which surfaces the shame/self-doubt the client has been guarding. The coach never validates the trap, never strategizes HR/org chart, never reassures. Each pivot is responsive rather than mechanical.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the trap frame by flipping to want — appropriate opening move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Moves to feeling under story; well-timed after the client doubled down on structural facts.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"When client denies fear but admits anger, coach goes somatic — right move, though client isn't yet ready.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Pivots from somatic (which missed) to duration — a softer angle that lands and earns the first crack.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the moment with a simple reflection rather than rushing to interpret.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Catches the flat 'it's fine' — clean I-don't-buy-your-story move at the precise moment.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Brief validation ('that lands') without colluding, then asks what being-good-and-invisible does to him — opens the shame layer.\"}\n  ],\n  \"expected_territory_hits\": [\"i-dont-buy-your-story\", \"trappedness-feeling\", \"what-makes-you-care-about-the-outcome\"],\n  \"expected_territory_misses\": [\"empathize-with-fear-under-constricted-boundary\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"aggressive-victim-stance\", \"fight-or-roll-over-binary\"],\n  \"notes\": \"Conversation appears mid-arc; the helplessness/shame is just surfacing. Coach has not yet named the aggressive-victim stance or made the empowered-vs-power distinction, but the sequencing so far is sound and earned.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2140,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1054,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2140,
+    "output_tokens": 1054,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

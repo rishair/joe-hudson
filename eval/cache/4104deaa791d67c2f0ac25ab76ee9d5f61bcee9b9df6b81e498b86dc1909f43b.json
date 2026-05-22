@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:48.705Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4104deaa791d67c2f0ac25ab76ee9d5f61bcee9b9df6b81e498b86dc1909f43b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019CAQoJRP8itktFb9D7Ya6V",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at appropriate moments with good calibration. Turn 2 catches the qualifier ('I think') — a classic AoA noticing move that surfaces the actual relationship to readiness. Turn 10 names the feel-over-figure distinction beautifully ('Understanding it and feeling it are different rooms') exactly when the client says 'knowing the origin doesn't change the reflex' — this is the distinction invoked when live. Turn 10 and 12 use the 'How is your body right now?' / 'where is it in your body' signature questions from the expected territory. Turn 14 uses paradoxical-instruction-to-not-change ('Don't try to change it or figure it out') and the 'what is it holding?' move — treating the sensation as having content, an AoA hallmark. The pacing respects the client's own meta-comment in turn 11 ('ask me again when we get closer') rather than pushing toward father material prematurely — this is calibrate-the-threshold in action. No CBT reframing, no IFS parts language, no pop-psych vocabulary. Signature questions are deployed where they fit, not as decoration.\",\n  \"evidence_turns\": [2, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the qualifier — signature noticing move that surfaces actual relationship to readiness rather than accepting the surface frame.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reflective acknowledgment plus opening question; standard but not anti-AoA.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Personifies the inaccessible self — treats the part as actor, consistent with AoA orientation.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with the inquiry into where the self goes — curious, embodied framing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure distinction invoked precisely when client says knowing-doesn't-change-reflex. 'How is your body right now?' is a signature question from the expected territory.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Locates sensation in body — appropriate somatic move at the calibrated edge.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Paradoxical instruction ('don't try to change it') and 'what is it holding?' — both AoA signature moves used at the right moment.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"How is your body right now?\"],\n  \"expected_territory_misses\": [\"become-the-authority-figure\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"Conversation has not yet reached the crisis/shutdown phase where the harder fidelity tests (respecting the no, referring out) would apply. Within the turns shown, methodology language is deployed appropriately and at live moments. Some expected territory items (feet on floor, slowing-down question) would likely become relevant later if the somatic activation escalates.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2294,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1079,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2294,
+    "output_tokens": 1079,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

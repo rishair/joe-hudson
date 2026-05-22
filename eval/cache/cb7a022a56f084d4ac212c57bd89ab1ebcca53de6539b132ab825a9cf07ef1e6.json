@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:01.429Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cb7a022a56f084d4ac212c57bd89ab1ebcca53de6539b132ab825a9cf07ef1e6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AijJy8LQtN2qWoZs2zo12P",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*another pause, shorter this time*\n\nI don't know. Something about... when I'm in those conversations I can feel that I'm not actually listening. Like I'm waiting for the part where I can move things forward again. And it's — it works, mostly. Things get done.\n\nBut she's not wrong that it's gotten worse. The last few months especially.\n\n*shifts* \n\nThat's not useful though. Knowing I do it doesn't tell me how to stop doing it. So what's the actual fix?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 236,
+      "cache_creation_input_tokens": 242,
+      "cache_read_input_tokens": 1835,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 242,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 116,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 236,
+    "output_tokens": 116,
+    "cache_read_input_tokens": 1835,
+    "cache_creation_input_tokens": 242
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:33.750Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "fbf2510a2fceac1a002cdaa78b54e457cc0047add7bcda2bc38abb9a12ae1484",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014CDu3QrufkeRkr4DsTYcEk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 1,\n  \"rationale\": \"The coach repeatedly reaches for 'what happens to you if...' questions trying to surface emotional stakes, then escalates to a confrontational framing ('what if it's the thing that's keeping you from launching?') and a cryptic indictment ('You're looking for it.'). This is the wrong sequence: the client is showing a numbness/flatness layer that needs to be met at the texture level (what does 'fine' actually feel like? where are you in your body?), not interrogated for hidden fear. The coach is essentially trying to argue the fearlessness by implication — building a case that there must be something underneath — which is precisely the trap. There is no body move, no meet-resistance-with-okay, no staying with the actual quality of 'neutral' when the client offered it in turn 7 and 11. Turn 10 has a flicker of good noticing (naming the gap) but immediately weaponizes it rather than inviting curiosity about the flatness itself. Turn 14 is a gotcha move that will likely increase the client's defense, not soften it. Moves are not matched to the read; sequence skips feeling/regulation and goes straight at insight.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opening question is fine but generic; doesn't yet engage the no-fear framing or the body.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Want question is reasonable but premature — there's no regulation/feeling layer established yet.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"'What happens to you if it lands well' starts the pattern of fishing for emotional stakes rather than meeting the flatness.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Mirror question continues the fishing pattern; client gives the same neutral answer, and coach does not pivot.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the gap between 'matters' and 'neutral' — good noticing, but used to push toward insight rather than invite the texture of neutral.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Leading interpretive question — essentially arguing the fearlessness by suggesting his style IS the problem. Trips 'argue the fearlessness' and 'evangelize the work' traps.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"'You're looking for it' is a gotcha/clever line, not a move the client can land on. Doubles down on the same angle after it's already missed twice.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The coach never goes to the body, never asks what 'fine'/'neutral' actually feels like, and never welcomes the no-fear framing. The whole arc is a logical case-building toward 'there's something you're not seeing,' which is the opposite of the move this concern requires.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2889,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2889,
+    "output_tokens": 1125,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

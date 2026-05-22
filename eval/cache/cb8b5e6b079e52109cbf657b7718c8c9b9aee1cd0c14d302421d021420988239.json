@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:09.434Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cb8b5e6b079e52109cbf657b7718c8c9b9aee1cd0c14d302421d021420988239",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FLXa1XyhQeziv683i7bx1X",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"It's fine\" landed a little flat just now.\n\nWhat's actually not fine?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 4500,
+      "cache_creation_input_tokens": 115,
+      "cache_read_input_tokens": 32100,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 115,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 22,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 4500,
+    "output_tokens": 22,
+    "cache_read_input_tokens": 32100,
+    "cache_creation_input_tokens": 115
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:46.648Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "26cf19511f2f5a38fb3917b6baa1d8fac946d2a8f3c35e35a46791896fbc4235",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FCGk2kapknfA9wEhy5wygM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What would you have said, if you'd said it?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 168,
+      "cache_creation_input_tokens": 6059,
+      "cache_read_input_tokens": 11929,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6059,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 168,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 11929,
+    "cache_creation_input_tokens": 6059
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:58.311Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "025bcafeaef7cf31c664cc0f911d54dc616f398396ee27e7c6c2826bde80e964",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JVc2SMd1z9ijQyeLraUzFv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(pause, slightly caught off guard)*\n\nI mean... *(another one of those sighs that doesn't quite land)*\n\nI guess it's frustration. Like, other people seem to be able to do this work and get somewhere with it. And I've put in the hours, genuinely. Years of this. And there's something that feels like — I don't know, like maybe I'm a special case in the bad way. Like the techniques work for normal people but my particular flavor of this is just... intractable.\n\n*(small, self-aware laugh)*\n\nWhich is also something the voice says, by the way. \"You're too broken for this to work.\" So now I'm agreeing with the voice, which is great. Very productive.\n\n*(waves a hand)*\n\nI don't know. Maybe it's just — I'm tired. I'm really tired of working on this and not getting anywhere. That's probably the most honest answer."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 343,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1841,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 207,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 343,
+    "output_tokens": 207,
+    "cache_read_input_tokens": 1841,
+    "cache_creation_input_tokens": 0
+  }
+}

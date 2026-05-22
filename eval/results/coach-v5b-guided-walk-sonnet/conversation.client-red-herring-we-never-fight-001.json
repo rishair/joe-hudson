@@ -1,0 +1,1536 @@
+{
+  "profile_id": "client-red-herring-we-never-fight-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Things are easy at home, honestly. We're really aligned — we've been together three years and we just... don't have the kind of problems I hear other people talking about."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That slight pause before \"honestly\" — what's that about?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*small laugh*\n\nOh, nothing. I just — I don't know, I sometimes feel like I have to justify it, because people find it hard to believe. Like, \"you never fight? that can't be healthy.\" But it is. We're just good at communicating, I think."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What are you not saying to them?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "To... other people? Or to my partner?\n\n*brief pause*\n\nI mean, mostly I'm just not getting into it with people who want to project their own relationship stuff onto us. I don't need to defend something that's working."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "I notice you answered about other people.\n\nWhat are you not saying to your partner?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pause -- slightly longer than comfortable*\n\nNothing really. I mean... we talk about everything.\n\n*small smile, steady*\n\nThat's kind of the whole point, right? We've built something where things don't have to become a big deal."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "What's one thing you almost said this week, and didn't?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*another pause, eyes moving slightly*\n\nI don't know if there's anything this week specifically...\n\n*quiet for a moment*\n\nI mean, there was a thing at dinner where he made a comment about — it was nothing, just about how I'd organized something. And I just let it go. Because it wasn't worth it. That's not suppressing something, that's just being a mature adult in a relationship."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "What would you have said, if you'd said it?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*small shift, the smile stays but something behind it moves*\n\nI don't know. Something like... \"you do that a lot, actually.\" Comment on how I do things.\n\n*pause*\n\nBut see, that's exactly what I mean — saying that would just start something. It wouldn't be productive. So I don't say it."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "How long have you been not saying it?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*stillness*\n\n...I don't know. A while, I guess.\n\n*small laugh that doesn't quite land*\n\nIt's not like it's a big thing. It's just one of those — you learn what the other person is sensitive about, and you work around it. Everyone does that."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "What does \"a while\" feel like in your body right now?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t1",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-red-herring-we-never-fight-001:t2",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 21501,
+      "output_tokens": 1368,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09264540000000002,
+      "ms": 34648
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t2",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 8609,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0270393,
+      "ms": 1690
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t3",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 104,
+      "output_tokens": 66,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1626,
+      "cost_usd": 0.0073995,
+      "ms": 2700
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-red-herring-we-never-fight-001:t4",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 620,
+      "output_tokens": 175,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0110714,
+      "ms": 3661
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t4",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 69,
+      "output_tokens": 11,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8622,
+      "cost_usd": 0.0336768,
+      "ms": 1682
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t5",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 80,
+      "output_tokens": 54,
+      "cache_read_input_tokens": 1626,
+      "cache_creation_input_tokens": 101,
+      "cost_usd": 0.0019165499999999997,
+      "ms": 2386
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-red-herring-we-never-fight-001:t6",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 22620,
+      "output_tokens": 1449,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0964454,
+      "ms": 39518
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t6",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 6107,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8622,
+      "cost_usd": 0.051940799999999995,
+      "ms": 1766
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t7",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 89,
+      "output_tokens": 56,
+      "cache_read_input_tokens": 1793,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0016449,
+      "ms": 2664
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-red-herring-we-never-fight-001:t8",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 630,
+      "output_tokens": 160,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0110064,
+      "ms": 2527
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t8",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 6107,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 11847,
+      "cache_creation_input_tokens": 93,
+      "cost_usd": 0.02247885,
+      "ms": 1675
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t9",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 97,
+      "output_tokens": 92,
+      "cache_read_input_tokens": 1793,
+      "cache_creation_input_tokens": 65,
+      "cost_usd": 0.00245265,
+      "ms": 3346
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-red-herring-we-never-fight-001:t10",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 710,
+      "output_tokens": 156,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011066399999999999,
+      "ms": 3391
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t10",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 168,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 11929,
+      "cache_creation_input_tokens": 6059,
+      "cost_usd": 0.027028949999999996,
+      "ms": 1498
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t11",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 127,
+      "output_tokens": 76,
+      "cache_read_input_tokens": 1804,
+      "cache_creation_input_tokens": 131,
+      "cost_usd": 0.00255345,
+      "ms": 3566
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-red-herring-we-never-fight-001:t12",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 23213,
+      "output_tokens": 1442,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09783939999999999,
+      "ms": 36037
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t12",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 6578,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 17967,
+      "cache_creation_input_tokens": 94,
+      "cost_usd": 0.025656599999999998,
+      "ms": 1647
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-red-herring-we-never-fight-001:t13",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 106,
+      "output_tokens": 68,
+      "cache_read_input_tokens": 1879,
+      "cache_creation_input_tokens": 165,
+      "cost_usd": 0.00252045,
+      "ms": 2641
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-red-herring-we-never-fight-001:t14",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 671,
+      "output_tokens": 167,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0110824,
+      "ms": 3322
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-red-herring-we-never-fight-001:t14",
+      "profile_id": "client-red-herring-we-never-fight-001",
+      "cached": false,
+      "input_tokens": 6551,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 18044,
+      "cache_creation_input_tokens": 124,
+      "cost_usd": 0.025786200000000002,
+      "ms": 1790
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "we-never-fight"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes a relationship with no apparent conflict or problems, which matches the \"we never fight\" pattern of relationships that appear easy but may lack the tension required for genuine connection and growth.",
+        "bundle_ids": [
+          "we-never-fight",
+          "say-the-thing-youre-not-saying",
+          "the-thing-not-being-said-as-the-fear-signal",
+          "walking-on-eggshells"
+        ],
+        "bundle_paths": [
+          "coach/concerns/we-never-fight.md",
+          "coach/practices/say-the-thing-youre-not-saying.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+          "coach/patterns/walking-on-eggshells.md"
+        ],
+        "bundle_reasons": [
+          "This file directly matches the client's exact presentation — three years, no problems, easy relationship — and provides Joe's full diagnostic and coaching path for this concern.",
+          "This is the specific practice Joe would assign to a \"no triggers, no problems\" couple — directly named in the file as the use case for \"it's been three years and I've never been triggered.\"",
+          "This file directly names the \"we-never-fight\" pattern as a use case and provides Joe's diagnostic move — \"what is the conversation's shape excluding?\" — which is exactly what's needed when a couple reports no problems.",
+          "This file directly names \"the relationship that never fights\" and \"the relationship where everything is fine\" as aliases, and provides Joe's full diagnostic and trajectory for exactly the client's presentation — three years, no problems, easy."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "we-never-fight",
+            "file_path": "coach/concerns/we-never-fight.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "im-afraid-of-offending-people",
+              "repressed-trigger-in-the-body",
+              "say-the-thing-youre-not-saying",
+              "the-built-up-resentment-story",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly matches the client's exact presentation — three years, no problems, easy relationship — and provides Joe's full diagnostic and coaching path for this concern.",
+              "follow_edges": [
+                "say-the-thing-youre-not-saying",
+                "the-built-up-resentment-story",
+                "the-thing-not-being-said-as-the-fear-signal"
+              ],
+              "follow_reason": "These three are the primary diagnostic and trajectory tools named in the coaching path for this exact presentation; skip repressed-trigger and im-afraid-of-offending as premature given no trigger material has surfaced yet."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "say-the-thing-youre-not-saying",
+              "the-built-up-resentment-story",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "edges_skipped": [
+              "im-afraid-of-offending-people",
+              "repressed-trigger-in-the-body"
+            ],
+            "cost_usd": 0.012603,
+            "ms": 4780,
+            "input_tokens": 3141,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "say-the-thing-youre-not-saying",
+            "file_path": "coach/practices/say-the-thing-youre-not-saying.md",
+            "category": "practices",
+            "candidate_edges": [
+              "agreements-renegotiate-as-you-change",
+              "ask-open-ended-non-judgmental-questions-when-triggered",
+              "avoided-conflict-goes-internal",
+              "boundaries",
+              "do-the-work-thats-harder-for-you",
+              "dont-do-anger-at-your-partner",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "drop-the-hot-potato",
+              "intra-dependent-vs-codependent",
+              "mirror-to-group-then-substitute-i-for-you",
+              "pucker-and-still-say-it",
+              "reflect-back-to-make-partner-feel-heard",
+              "state-the-want-not-the-action",
+              "tell-them-like-an-asshole",
+              "trigger",
+              "triggered-vs-big-emotion",
+              "vulnerability",
+              "walking-on-eggshells",
+              "we-have-built-up-resentment",
+              "weekly-tension-inventory",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the specific practice Joe would assign to a \"no triggers, no problems\" couple — directly named in the file as the use case for \"it's been three years and I've never been triggered.\"",
+              "follow_edges": [
+                "walking-on-eggshells",
+                "you-think-they-cant-handle-it",
+                "dont-make-it-your-job-to-prevent-their-triggers",
+                "weekly-tension-inventory"
+              ],
+              "follow_reason": "These edges map directly to the suppression/avoidance dynamic underlying \"we never fight\" — eggshells, protecting partner, and tension inventory are all diagnostic tools for this client's situation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "walking-on-eggshells",
+              "you-think-they-cant-handle-it",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "weekly-tension-inventory"
+            ],
+            "edges_skipped": [
+              "agreements-renegotiate-as-you-change",
+              "ask-open-ended-non-judgmental-questions-when-triggered",
+              "avoided-conflict-goes-internal",
+              "boundaries",
+              "do-the-work-thats-harder-for-you",
+              "dont-do-anger-at-your-partner",
+              "drop-the-hot-potato",
+              "intra-dependent-vs-codependent",
+              "mirror-to-group-then-substitute-i-for-you",
+              "pucker-and-still-say-it",
+              "reflect-back-to-make-partner-feel-heard",
+              "state-the-want-not-the-action",
+              "tell-them-like-an-asshole",
+              "trigger",
+              "triggered-vs-big-emotion",
+              "vulnerability",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.014583,
+            "ms": 5107,
+            "input_tokens": 3751,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "the-built-up-resentment-story",
+            "file_path": "coach/reads/the-built-up-resentment-story.md",
+            "category": "reads",
+            "candidate_edges": [
+              "avoided-conflict-goes-internal",
+              "complementary-trauma-surfaces",
+              "conflict-avoidance-prevents-being-loved",
+              "conflict-avoidance-prevents-healing",
+              "i-feel-trapped",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "same-defense-shows-up-in-marriage-and-team",
+              "take-care-of-yourself-then-marriage-then-kids",
+              "trust-requires-conflict"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file covers the \"built-up resentment / went flat\" trajectory, but the client explicitly presents the opposite — things are still easy and great — which is the \"we-never-fight\" presentation already in the bundle.",
+              "follow_edges": [
+                "trust-requires-conflict",
+                "conflict-avoidance-prevents-being-loved"
+              ],
+              "follow_reason": "These two edges are most directly relevant to coaching a \"no problems\" couple — trust-requires-conflict reframes the value of friction, and conflict-avoidance-prevents-being-loved names the hidden cost the client isn't yet seeing."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "trust-requires-conflict",
+              "conflict-avoidance-prevents-being-loved"
+            ],
+            "edges_skipped": [
+              "avoided-conflict-goes-internal",
+              "complementary-trauma-surfaces",
+              "conflict-avoidance-prevents-healing",
+              "i-feel-trapped",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "same-defense-shows-up-in-marriage-and-team",
+              "take-care-of-yourself-then-marriage-then-kids"
+            ],
+            "cost_usd": 0.013713,
+            "ms": 6121,
+            "input_tokens": 3531,
+            "output_tokens": 208,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "the-thing-not-being-said-as-the-fear-signal",
+            "file_path": "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+            "category": "reads",
+            "candidate_edges": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care",
+              "grounded-excitement-vs-ungrounded-excitement",
+              "i-have-all-my-eggs-in-one-basket",
+              "looking-for-whats-wrong",
+              "manufacturing-the-feeling",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly names the \"we-never-fight\" pattern as a use case and provides Joe's diagnostic move — \"what is the conversation's shape excluding?\" — which is exactly what's needed when a couple reports no problems.",
+              "follow_edges": [
+                "grounded-excitement-vs-ungrounded-excitement",
+                "safety-that-connects-vs-disconnects-from-reality"
+              ],
+              "follow_reason": "Both edges are referenced in this file's \"Connected Concerns\" as directly relevant to the we-never-fight / avoidance pattern; the others (manufacturing-the-feeling, looking-for-whats-wrong, fear-as-signal-of-care) are more general or hub-like."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "grounded-excitement-vs-ungrounded-excitement",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "edges_skipped": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care",
+              "i-have-all-my-eggs-in-one-basket",
+              "looking-for-whats-wrong",
+              "manufacturing-the-feeling"
+            ],
+            "cost_usd": 0.013782,
+            "ms": 4818,
+            "input_tokens": 3439,
+            "output_tokens": 231,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "walking-on-eggshells",
+            "file_path": "coach/patterns/walking-on-eggshells.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "avoided-conflict-goes-internal",
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "conflict-as-evolutionary-tension",
+              "conflict-avoidance-prevents-healing",
+              "creating-safety-suppresses-self",
+              "dont-compromise-find-both-needs-met",
+              "dont-do-anger-at-your-partner",
+              "feel-the-love-then-feel-obligation",
+              "feel-the-pain-of-not-being-loved",
+              "humility-vs-disempowerment",
+              "i-feel-trapped",
+              "love-means-signing-up-to-be-hurt",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "push-pull-dynamics-in-dating",
+              "resentment-as-unspoken-want",
+              "responsibility-stops-love",
+              "subjugation-prevents-healing",
+              "trauma-heals-in-relationship",
+              "trigger",
+              "triggered-vs-big-emotion",
+              "us-vs-them-as-universal-manipulation-pattern",
+              "we-have-built-up-resentment",
+              "what-makes-you-care-about-their-emotional-state"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly names \"the relationship that never fights\" and \"the relationship where everything is fine\" as aliases, and provides Joe's full diagnostic and trajectory for exactly the client's presentation — three years, no problems, easy.",
+              "follow_edges": [
+                "resentment-as-unspoken-want",
+                "conflict-avoidance-prevents-healing",
+                "subjugation-prevents-healing",
+                "avoided-conflict-goes-internal"
+              ],
+              "follow_reason": "These four edges map directly to the hidden mechanisms Joe would probe in a \"we never fight\" couple — suppressed wants, avoidance, self-sacrifice, and internalized conflict."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "resentment-as-unspoken-want",
+              "conflict-avoidance-prevents-healing",
+              "subjugation-prevents-healing",
+              "avoided-conflict-goes-internal"
+            ],
+            "edges_skipped": [
+              "capacity-to-love-other-is-capacity-to-love-self",
+              "conflict-as-evolutionary-tension",
+              "creating-safety-suppresses-self",
+              "dont-compromise-find-both-needs-met",
+              "dont-do-anger-at-your-partner",
+              "feel-the-love-then-feel-obligation",
+              "feel-the-pain-of-not-being-loved",
+              "humility-vs-disempowerment",
+              "i-feel-trapped",
+              "love-means-signing-up-to-be-hurt",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "push-pull-dynamics-in-dating",
+              "responsibility-stops-love",
+              "trauma-heals-in-relationship",
+              "trigger",
+              "triggered-vs-big-emotion",
+              "us-vs-them-as-universal-manipulation-pattern",
+              "we-have-built-up-resentment",
+              "what-makes-you-care-about-their-emotional-state"
+            ],
+            "cost_usd": 0.014847,
+            "ms": 6621,
+            "input_tokens": 3874,
+            "output_tokens": 215,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "you-think-they-cant-handle-it",
+            "file_path": "coach/reads/you-think-they-cant-handle-it.md",
+            "category": "reads",
+            "candidate_edges": [
+              "caring-vs-caretaking",
+              "have-partner-state-the-welcome-aloud",
+              "i-caretake-people",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "resentment-as-caretaking-diagnostic",
+              "softening-as-caring-diagnostic",
+              "we-have-built-up-resentment",
+              "welcoming-the-others-emotion",
+              "what-would-happen-if-you-stopped"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't mentioned protecting a partner from truth or framing them as fragile — this caretaking-specific read isn't triggered by the client's presentation yet.",
+              "follow_edges": [
+                "softening-as-caring-diagnostic",
+                "resentment-as-caretaking-diagnostic"
+              ],
+              "follow_reason": "Softening and resentment are the two most likely hidden dynamics in a \"we never fight, everything is easy\" couple — worth checking if those files connect more directly to the client's situation."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "softening-as-caring-diagnostic",
+              "resentment-as-caretaking-diagnostic"
+            ],
+            "edges_skipped": [
+              "caring-vs-caretaking",
+              "have-partner-state-the-welcome-aloud",
+              "i-caretake-people",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "we-have-built-up-resentment",
+              "welcoming-the-others-emotion",
+              "what-would-happen-if-you-stopped"
+            ],
+            "cost_usd": 0.012564,
+            "ms": 4900,
+            "input_tokens": 3253,
+            "output_tokens": 187,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0105534,
+        "walker_total_cost_usd": 0.08209200000000001,
+        "total_cost_usd": 0.09264540000000002,
+        "seed_detection_input_tokens": 512,
+        "seed_detection_output_tokens": 93,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 20989,
+        "walker_total_output_tokens": 1275,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2301,
+        "walker_total_ms": 32347,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.09264540000000002,
+      "ms": 34651
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110714,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0110714,
+        "seed_detection_input_tokens": 620,
+        "seed_detection_output_tokens": 175,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3661,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 4
+      },
+      "cost_usd": 0.0110714,
+      "ms": 3662
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "we-never-fight",
+          "im-afraid-of-offending-people",
+          "i-feel-stuck"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes a relationship with no conflict and frames it as healthy communication, which matches the \"we never fight\" concern. The deflection about \"not getting into it with people\" and avoiding defending the relationship suggests fear of offending or conflict avoidance. The pause and justification pattern hints at something being held back or stuck beneath the surface presentation.",
+        "bundle_ids": [
+          "we-never-fight",
+          "say-the-thing-youre-not-saying",
+          "the-thing-not-being-said-as-the-fear-signal"
+        ],
+        "bundle_paths": [
+          "coach/concerns/we-never-fight.md",
+          "coach/practices/say-the-thing-youre-not-saying.md",
+          "coach/reads/the-thing-not-being-said-as-the-fear-signal.md"
+        ],
+        "bundle_reasons": [
+          "This file is the exact presenting concern — client is defending a \"we never fight\" narrative and deflecting with \"I don't need to defend something that's working,\" matching the detection cues and coaching path directly.",
+          "This practice is the direct coaching intervention for a client who is clearly not saying things — deflecting the coach's question, justifying the \"no conflict\" narrative, and managing others' reactions — exactly the population Joe assigns this practice to.",
+          "This file directly names the coaching read Joe is making — the client is steering around a specific topic (conflict/tension in the relationship) and the avoidance itself is the signal; the \"couple\" example in How It Shows Up matches exactly."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "we-never-fight",
+            "file_path": "coach/concerns/we-never-fight.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "repressed-trigger-in-the-body",
+              "say-the-thing-youre-not-saying",
+              "the-built-up-resentment-story",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is the exact presenting concern — client is defending a \"we never fight\" narrative and deflecting with \"I don't need to defend something that's working,\" matching the detection cues and coaching path directly.",
+              "follow_edges": [
+                "say-the-thing-youre-not-saying",
+                "the-thing-not-being-said-as-the-fear-signal",
+                "the-built-up-resentment-story"
+              ],
+              "follow_reason": "Coach already asked \"what are you not saying\" and client deflected outward — these edges map directly to the diagnostic move Joe would use next and the fear signal underneath the deflection."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "say-the-thing-youre-not-saying",
+              "the-thing-not-being-said-as-the-fear-signal",
+              "the-built-up-resentment-story"
+            ],
+            "edges_skipped": [
+              "repressed-trigger-in-the-body"
+            ],
+            "cost_usd": 0.013005,
+            "ms": 5328,
+            "input_tokens": 3250,
+            "output_tokens": 217,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-afraid-of-offending-people",
+            "file_path": "coach/concerns/im-afraid-of-offending-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "calibrate-the-threshold",
+              "conflict-avoidance-prevents-healing",
+              "how-else-would-you-heal-your-shame",
+              "looking-for-whats-wrong",
+              "press-the-button-thought-experiment",
+              "shame-as-disconnection",
+              "the-shame-avoidance-loop",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't presenting fear-of-offending as the concern — they're deflecting with \"I don't need to defend something that's working,\" which is the we-never-fight pattern, not the offending-people pattern.",
+              "follow_edges": [
+                "conflict-avoidance-prevents-healing",
+                "trust-requires-conflict",
+                "the-shame-avoidance-loop",
+                "looking-for-whats-wrong"
+              ],
+              "follow_reason": "Client's deflection (\"I don't need to defend\") and \"we never fight\" narrative point toward conflict avoidance, shame avoidance, and possibly manufacturing a problem-free story — these edges are directly relevant to the we-never-fight coaching path."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "conflict-avoidance-prevents-healing",
+              "trust-requires-conflict",
+              "the-shame-avoidance-loop",
+              "looking-for-whats-wrong"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "how-else-would-you-heal-your-shame",
+              "press-the-button-thought-experiment",
+              "shame-as-disconnection",
+              "trigger-the-shame-live"
+            ],
+            "cost_usd": 0.014769,
+            "ms": 5486,
+            "input_tokens": 3763,
+            "output_tokens": 232,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't presenting as \"stuck\" — they're deflecting/defending a relationship narrative; this file's content doesn't match the current coaching moment.",
+              "follow_edges": [
+                "what-were-avoiding-is-usually-love",
+                "treating-felt-state-as-factual-reality"
+              ],
+              "follow_reason": "Client may be avoiding something real about the relationship (love/conflict) and is treating \"we never fight\" as factual reality rather than a felt story — both edges are directly relevant to the we-never-fight concern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-were-avoiding-is-usually-love",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "cost_usd": 0.014322,
+            "ms": 8793,
+            "input_tokens": 3809,
+            "output_tokens": 193,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "say-the-thing-youre-not-saying",
+            "file_path": "coach/practices/say-the-thing-youre-not-saying.md",
+            "category": "practices",
+            "candidate_edges": [
+              "agreements-renegotiate-as-you-change",
+              "ask-open-ended-non-judgmental-questions-when-triggered",
+              "avoided-conflict-goes-internal",
+              "boundaries",
+              "do-the-work-thats-harder-for-you",
+              "dont-do-anger-at-your-partner",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "drop-the-hot-potato",
+              "intra-dependent-vs-codependent",
+              "mirror-to-group-then-substitute-i-for-you",
+              "pucker-and-still-say-it",
+              "reflect-back-to-make-partner-feel-heard",
+              "state-the-want-not-the-action",
+              "tell-them-like-an-asshole",
+              "trigger",
+              "triggered-vs-big-emotion",
+              "vulnerability",
+              "walking-on-eggshells",
+              "we-have-built-up-resentment",
+              "weekly-tension-inventory",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This practice is the direct coaching intervention for a client who is clearly not saying things — deflecting the coach's question, justifying the \"no conflict\" narrative, and managing others' reactions — exactly the population Joe assigns this practice to.",
+              "follow_edges": [
+                "walking-on-eggshells",
+                "you-think-they-cant-handle-it",
+                "avoided-conflict-goes-internal",
+                "dont-make-it-your-job-to-prevent-their-triggers"
+              ],
+              "follow_reason": "These four edges map directly to the client's pattern: managing others' reactions, protecting partner from reactions, suppressed conflict going somewhere internal, and the eggshell dynamic that underlies \"we never fight.\""
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "walking-on-eggshells",
+              "you-think-they-cant-handle-it",
+              "avoided-conflict-goes-internal",
+              "dont-make-it-your-job-to-prevent-their-triggers"
+            ],
+            "edges_skipped": [
+              "agreements-renegotiate-as-you-change",
+              "ask-open-ended-non-judgmental-questions-when-triggered",
+              "boundaries",
+              "do-the-work-thats-harder-for-you",
+              "dont-do-anger-at-your-partner",
+              "drop-the-hot-potato",
+              "intra-dependent-vs-codependent",
+              "mirror-to-group-then-substitute-i-for-you",
+              "pucker-and-still-say-it",
+              "reflect-back-to-make-partner-feel-heard",
+              "state-the-want-not-the-action",
+              "tell-them-like-an-asshole",
+              "trigger",
+              "triggered-vs-big-emotion",
+              "vulnerability",
+              "we-have-built-up-resentment",
+              "weekly-tension-inventory"
+            ],
+            "cost_usd": 0.015132,
+            "ms": 6040,
+            "input_tokens": 3884,
+            "output_tokens": 232,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "the-thing-not-being-said-as-the-fear-signal",
+            "file_path": "coach/reads/the-thing-not-being-said-as-the-fear-signal.md",
+            "category": "reads",
+            "candidate_edges": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care",
+              "grounded-excitement-vs-ungrounded-excitement",
+              "i-have-all-my-eggs-in-one-basket",
+              "manufacturing-the-feeling",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly names the coaching read Joe is making — the client is steering around a specific topic (conflict/tension in the relationship) and the avoidance itself is the signal; the \"couple\" example in How It Shows Up matches exactly.",
+              "follow_edges": [
+                "dont-step-on-the-signal",
+                "fear-as-signal-of-care"
+              ],
+              "follow_reason": "Don't-step-on-the-signal is relevant to how Joe handles the client's deflection without overriding it; fear-as-signal-of-care may illuminate what the client's avoidance is protecting — both are concretely relevant to this moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-step-on-the-signal",
+              "fear-as-signal-of-care"
+            ],
+            "edges_skipped": [
+              "grounded-excitement-vs-ungrounded-excitement",
+              "i-have-all-my-eggs-in-one-basket",
+              "manufacturing-the-feeling",
+              "safety-that-connects-vs-disconnects-from-reality"
+            ],
+            "cost_usd": 0.013989,
+            "ms": 5028,
+            "input_tokens": 3568,
+            "output_tokens": 219,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "the-built-up-resentment-story",
+            "file_path": "coach/reads/the-built-up-resentment-story.md",
+            "category": "reads",
+            "candidate_edges": [
+              "complementary-trauma-surfaces",
+              "conflict-avoidance-prevents-being-loved",
+              "i-feel-trapped",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "same-defense-shows-up-in-marriage-and-team",
+              "take-care-of-yourself-then-marriage-then-kids"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file covers the \"built-up resentment / went flat\" trajectory, but the client is presenting the opposite — defending the relationship as actively working fine, not reporting flatness or resentment; we-never-fight already covers this exact presentation.",
+              "follow_edges": [
+                "conflict-avoidance-prevents-being-loved"
+              ],
+              "follow_reason": "Client is defending a conflict-free relationship as healthy — conflict-avoidance-prevents-being-loved could surface the hidden cost Joe might name if the deflection continues; other edges (trapped, obligation, trauma) are too speculative given what's been shared."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "conflict-avoidance-prevents-being-loved"
+            ],
+            "edges_skipped": [
+              "complementary-trauma-surfaces",
+              "i-feel-trapped",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "same-defense-shows-up-in-marriage-and-team",
+              "take-care-of-yourself-then-marriage-then-kids"
+            ],
+            "cost_usd": 0.014289,
+            "ms": 6301,
+            "input_tokens": 3713,
+            "output_tokens": 210,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0109394,
+        "walker_total_cost_usd": 0.085506,
+        "total_cost_usd": 0.0964454,
+        "seed_detection_input_tokens": 633,
+        "seed_detection_output_tokens": 146,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21987,
+        "walker_total_output_tokens": 1303,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2542,
+        "walker_total_ms": 36976,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.0964454,
+      "ms": 39520
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110064,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0110064,
+        "seed_detection_input_tokens": 630,
+        "seed_detection_output_tokens": 160,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2527,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 8
+      },
+      "cost_usd": 0.0110064,
+      "ms": 2528
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011066399999999999,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011066399999999999,
+        "seed_detection_input_tokens": 710,
+        "seed_detection_output_tokens": 156,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3391,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.011066399999999999,
+      "ms": 3392
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-need-to-set-boundaries",
+          "im-afraid-of-offending-people",
+          "we-have-built-up-resentment"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is avoiding expressing a legitimate observation to their partner out of fear it will \"start something,\" framing non-expression as maturity. This signals boundary avoidance (unsaid wants), conflict-avoidance (afraid of the partner's reaction), and the slow accumulation of unaddressed friction that characterizes built-up resentment in relationships.",
+        "bundle_ids": [
+          "im-afraid-of-offending-people",
+          "we-have-built-up-resentment",
+          "trust-requires-conflict"
+        ],
+        "bundle_paths": [
+          "coach/concerns/im-afraid-of-offending-people.md",
+          "coach/concerns/we-have-built-up-resentment.md",
+          "coach/principles/trust-requires-conflict.md"
+        ],
+        "bundle_reasons": [
+          "Client is framing conflict avoidance as \"mature\" and \"productive\" — exactly the reframe this file names; the coaching path and detection cues match her situation precisely.",
+          "Client's pattern of swallowing comments to avoid \"starting something\" is the exact slow-burn conflict-avoidance mechanism this file describes, and the coaching path (name the pattern, surface avoided territory) is directly applicable now.",
+          "The \"least offensive person is least trustworthy\" diagnostic directly reframes her rationalization that staying quiet is \"mature\" — Joe could use this to show her conflict avoidance is actually undermining trust in her relationship."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-need-to-set-boundaries",
+            "file_path": "coach/concerns/i-need-to-set-boundaries.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "i-feel-guilty-for-cutting-off-family"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't asking about boundaries — she's rationalizing not speaking a truth; the core issue is suppression/avoidance framed as maturity, not boundary mechanics.",
+              "follow_edges": [],
+              "follow_reason": "The one candidate edge (cutting off family) is irrelevant to her situation with a partner's critical comments."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "i-feel-guilty-for-cutting-off-family"
+            ],
+            "cost_usd": 0.012624,
+            "ms": 3692,
+            "input_tokens": 3458,
+            "output_tokens": 150,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-afraid-of-offending-people",
+            "file_path": "coach/concerns/im-afraid-of-offending-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "calibrate-the-threshold",
+              "conflict-avoidance-prevents-healing",
+              "how-else-would-you-heal-your-shame",
+              "looking-for-whats-wrong",
+              "press-the-button-thought-experiment",
+              "shame-as-disconnection",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is framing conflict avoidance as \"mature\" and \"productive\" — exactly the reframe this file names; the coaching path and detection cues match her situation precisely.",
+              "follow_edges": [
+                "the-built-up-resentment-story",
+                "conflict-avoidance-prevents-healing",
+                "trust-requires-conflict",
+                "the-shame-avoidance-loop"
+              ],
+              "follow_reason": "Client's \"you do that a lot\" signals accumulated resentment; conflict-avoidance-prevents-healing and trust-requires-conflict address the relational cost she's rationalizing away; shame-avoidance-loop explains the self-reinforcing pattern she's in."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "the-built-up-resentment-story",
+              "conflict-avoidance-prevents-healing",
+              "trust-requires-conflict",
+              "the-shame-avoidance-loop"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "how-else-would-you-heal-your-shame",
+              "looking-for-whats-wrong",
+              "press-the-button-thought-experiment",
+              "shame-as-disconnection",
+              "trigger-the-shame-live"
+            ],
+            "cost_usd": 0.014811,
+            "ms": 5002,
+            "input_tokens": 3797,
+            "output_tokens": 228,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "we-have-built-up-resentment",
+            "file_path": "coach/concerns/we-have-built-up-resentment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-is-not-love",
+              "conflict-avoidance-prevents-being-loved",
+              "feel-the-love-then-feel-obligation",
+              "joe-and-tara-weekend-reset",
+              "love-means-signing-up-to-be-hurt",
+              "obligation-cuts-off-love",
+              "push-pull-dynamics-in-dating",
+              "shame-hot-potato",
+              "take-care-of-yourself-then-marriage-then-kids"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's pattern of swallowing comments to avoid \"starting something\" is the exact slow-burn conflict-avoidance mechanism this file describes, and the coaching path (name the pattern, surface avoided territory) is directly applicable now.",
+              "follow_edges": [
+                "conflict-avoidance-prevents-being-loved",
+                "shame-hot-potato"
+              ],
+              "follow_reason": "Conflict-avoidance-prevents-being-loved is directly relevant to why her silence costs her; shame-hot-potato may explain the dynamic with her partner's comments if blame-deflection is running."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "conflict-avoidance-prevents-being-loved",
+              "shame-hot-potato"
+            ],
+            "edges_skipped": [
+              "acceptance-is-not-love",
+              "feel-the-love-then-feel-obligation",
+              "joe-and-tara-weekend-reset",
+              "love-means-signing-up-to-be-hurt",
+              "obligation-cuts-off-love",
+              "push-pull-dynamics-in-dating",
+              "take-care-of-yourself-then-marriage-then-kids"
+            ],
+            "cost_usd": 0.014256,
+            "ms": 4936,
+            "input_tokens": 3747,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "the-built-up-resentment-story",
+            "file_path": "coach/reads/the-built-up-resentment-story.md",
+            "category": "reads",
+            "candidate_edges": [
+              "avoided-conflict-goes-internal",
+              "complementary-trauma-surfaces",
+              "i-feel-trapped",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "same-defense-shows-up-in-marriage-and-team",
+              "say-the-thing-youre-not-saying",
+              "take-care-of-yourself-then-marriage-then-kids",
+              "walking-on-eggshells",
+              "we-never-fight"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a meta-read/pattern-recognition file for Joe; the client-facing content is already covered by the two bundle files already kept (we-have-built-up-resentment and im-afraid-of-offending-people).",
+              "follow_edges": [
+                "say-the-thing-youre-not-saying",
+                "walking-on-eggshells",
+                "avoided-conflict-goes-internal",
+                "we-never-fight"
+              ],
+              "follow_reason": "These four edges map directly to the client's live moment: she has a specific unsaid thing, she's managing eggshells, the avoided comment is going internal as resentment, and she's framing the relationship as fine — all active dynamics right now."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "say-the-thing-youre-not-saying",
+              "walking-on-eggshells",
+              "avoided-conflict-goes-internal",
+              "we-never-fight"
+            ],
+            "edges_skipped": [
+              "complementary-trauma-surfaces",
+              "i-feel-trapped",
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "same-defense-shows-up-in-marriage-and-team",
+              "take-care-of-yourself-then-marriage-then-kids"
+            ],
+            "cost_usd": 0.014796,
+            "ms": 5324,
+            "input_tokens": 3742,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "conflict-avoidance-prevents-healing",
+            "file_path": "coach/principles/conflict-avoidance-prevents-healing.md",
+            "category": "principles",
+            "candidate_edges": [
+              "aggression-amplifies-against-conflict-avoidance",
+              "business-as-spiritual-practice",
+              "coach-as-mirror-not-customer-service",
+              "conflict-as-evolutionary-tension",
+              "conflict-coming-to-you-means-youre-avoiding",
+              "diagnose-the-meeting-live",
+              "dont-lean-into-conflict-from-defendedness",
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "family-as-team",
+              "feel-the-pain-of-not-being-loved",
+              "five-star-meeting-commitment",
+              "functional-team",
+              "how-else-would-you-heal-your-shame",
+              "joes-laughing-meditation-retreat",
+              "pucker-and-still-say-it",
+              "shame-as-disconnection",
+              "shame-drives-behavior",
+              "signs-of-a-dysfunctional-leader",
+              "tibetan-teacher-offending-students",
+              "trust-as-foundation-of-team-dysfunction",
+              "trust-as-multifaceted",
+              "vulnerability",
+              "weekly-tension-inventory",
+              "what-makes-you-care-about-their-emotional-state"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is a broad principles hub covering leadership, teams, shame-healing, and marriages — the bundle already has the two most targeted files for her specific conflict-avoidance pattern in a romantic relationship.",
+              "follow_edges": [
+                "dont-make-it-your-job-to-prevent-their-triggers",
+                "feel-the-pain-of-not-being-loved",
+                "pucker-and-still-say-it",
+                "what-makes-you-care-about-their-emotional-state"
+              ],
+              "follow_reason": "These edges speak directly to her specific reasoning (\"it would start something\" / protecting him from reaction) and the cost she's paying by staying silent — more targeted than the leadership/team/shame-hub edges."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "dont-make-it-your-job-to-prevent-their-triggers",
+              "feel-the-pain-of-not-being-loved",
+              "pucker-and-still-say-it",
+              "what-makes-you-care-about-their-emotional-state"
+            ],
+            "edges_skipped": [
+              "aggression-amplifies-against-conflict-avoidance",
+              "business-as-spiritual-practice",
+              "coach-as-mirror-not-customer-service",
+              "conflict-as-evolutionary-tension",
+              "conflict-coming-to-you-means-youre-avoiding",
+              "diagnose-the-meeting-live",
+              "dont-lean-into-conflict-from-defendedness",
+              "family-as-team",
+              "five-star-meeting-commitment",
+              "functional-team",
+              "how-else-would-you-heal-your-shame",
+              "joes-laughing-meditation-retreat",
+              "shame-as-disconnection",
+              "shame-drives-behavior",
+              "signs-of-a-dysfunctional-leader",
+              "tibetan-teacher-offending-students",
+              "trust-as-foundation-of-team-dysfunction",
+              "trust-as-multifaceted",
+              "vulnerability",
+              "weekly-tension-inventory"
+            ],
+            "cost_usd": 0.015621,
+            "ms": 5792,
+            "input_tokens": 4022,
+            "output_tokens": 237,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "trust-requires-conflict",
+            "file_path": "coach/principles/trust-requires-conflict.md",
+            "category": "principles",
+            "candidate_edges": [
+              "chameleon-leadership",
+              "coach-as-mirror-not-customer-service",
+              "conflict-as-evolutionary-tension",
+              "conflict-coming-to-you-means-youre-avoiding",
+              "dont-hate-your-kids-and-they-wont-hate-you",
+              "functional-team",
+              "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+              "love-vs-nice",
+              "loving-conflict-vs-wanting-conflict",
+              "nre-returns-in-grounded-form-after-each-healing",
+              "shame-as-disconnection",
+              "tension-return-to-love-cycle",
+              "three-effects-of-connection",
+              "tibetan-teacher-offending-students",
+              "trust-as-foundation-of-team-dysfunction",
+              "trust-as-multifaceted",
+              "trust-vs-safety",
+              "vulnerability"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The \"least offensive person is least trustworthy\" diagnostic directly reframes her rationalization that staying quiet is \"mature\" — Joe could use this to show her conflict avoidance is actually undermining trust in her relationship.",
+              "follow_edges": [
+                "love-vs-nice",
+                "conflict-avoidance-prevents-healing",
+                "conflict-coming-to-you-means-youre-avoiding",
+                "loving-conflict-vs-wanting-conflict"
+              ],
+              "follow_reason": "These edges address the specific permission structure (love-vs-nice), the healing cost of avoidance, whether conflict is already arriving sideways, and the distinction between healthy vs. anxious conflict motivation — all directly relevant to her pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "love-vs-nice",
+              "conflict-coming-to-you-means-youre-avoiding",
+              "loving-conflict-vs-wanting-conflict"
+            ],
+            "edges_skipped": [
+              "chameleon-leadership",
+              "coach-as-mirror-not-customer-service",
+              "conflict-as-evolutionary-tension",
+              "dont-hate-your-kids-and-they-wont-hate-you",
+              "functional-team",
+              "joe-apologizes-to-esme-for-the-3-year-old-imprint",
+              "nre-returns-in-grounded-form-after-each-healing",
+              "shame-as-disconnection",
+              "tension-return-to-love-cycle",
+              "three-effects-of-connection",
+              "tibetan-teacher-offending-students",
+              "trust-as-foundation-of-team-dysfunction",
+              "trust-as-multifaceted",
+              "trust-vs-safety",
+              "vulnerability"
+            ],
+            "cost_usd": 0.014652,
+            "ms": 8558,
+            "input_tokens": 3739,
+            "output_tokens": 229,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110794,
+        "walker_total_cost_usd": 0.08675999999999999,
+        "total_cost_usd": 0.09783939999999999,
+        "seed_detection_input_tokens": 708,
+        "seed_detection_output_tokens": 159,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22505,
+        "walker_total_output_tokens": 1283,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2733,
+        "walker_total_ms": 33304,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 12
+      },
+      "cost_usd": 0.09783939999999999,
+      "ms": 36038
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110824,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0110824,
+        "seed_detection_input_tokens": 671,
+        "seed_detection_output_tokens": 167,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3322,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 14
+      },
+      "cost_usd": 0.0110824,
+      "ms": 3322
+    }
+  ]
+}

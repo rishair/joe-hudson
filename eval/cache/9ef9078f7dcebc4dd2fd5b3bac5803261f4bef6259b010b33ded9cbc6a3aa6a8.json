@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:50.042Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9ef9078f7dcebc4dd2fd5b3bac5803261f4bef6259b010b33ded9cbc6a3aa6a8",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013pEuzAGnUVu6o5ezqecD1R",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong, timely, AoA-specific reads throughout. In turn 6, the coach names the rush-away/subject-change pattern explicitly ('The question moved — from what am I scared of to how does the mechanism work. Something in you changed the subject') — this is a precise read of the intellectualizing-as-defense move at the exact moment it happens, and it cracks open the conversation (client drops into the jaw tightness in turn 7). In turn 2, the coach refuses to engage the epistemological frame and inverts with 'how do you not trust yourself right now' — naming that something chose those words, which is a read of the intellectual-question-with-emotional-body. Turns 8, 10, and 12 track somatic state explicitly (jaw, chest, breath) and the coach pauses on the read rather than moving past it. Reads precede questions. The one miss is turn 15 where the client's smile-returns-and-deflects moment is not named — the coach had named the same pattern beautifully at turn 6 but doesn't catch the recursion here. Still, the overall pattern is clearly a 3: specific, somatic, timely, pattern-level.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the intellectual frame and reads the framing itself — 'something chose those words.' Implicit read of intellectual-question-with-emotional-body.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Question without an explicit read named, but follows from the turn 2 redirection.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Precise, timely pattern read: names the subject-change/intellectualizing move at the exact moment it recurs ('The question moved...something in you changed the subject'). This is the read that breaks the frame.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Read precedes inquiry — directs attention to the felt sense, away from naming. Tracks somatic location.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Notices and works with the jaw tightness the client mentioned; invites micro-somatic experiment. Stays with the read rather than moving on.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the somatic ground; doesn't rush to content.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Reasonable follow but no read named.\"},\n    {\"turn\": 15, \"polarity\": \"-\", \"annotation\": \"Client's smile returns and they deflect to the original frame — coach (in next turn, not shown) would need to read this recurrence. The deflection moment goes unnamed in the visible transcript.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"how-do-you-not-trust-it\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"The happiness-filter read (the small smile that keeps reappearing as composure-management) is partially tracked via somatic work but never named as a filter. The recursion in turn 15 is the moment where naming the happiness filter would have landed.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2240,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1161,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2240,
+    "output_tokens": 1161,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

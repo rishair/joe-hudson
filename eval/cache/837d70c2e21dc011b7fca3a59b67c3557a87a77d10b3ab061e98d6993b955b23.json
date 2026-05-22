@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:19:24.863Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "837d70c2e21dc011b7fca3a59b67c3557a87a77d10b3ab061e98d6993b955b23",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01PSW9bfGKUzUYh5rXMHShFG",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Four years is a long time to carry something in your chest."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 199,
+      "cache_creation_input_tokens": 7711,
+      "cache_read_input_tokens": 24404,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7711,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 16,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 199,
+    "output_tokens": 16,
+    "cache_read_input_tokens": 24404,
+    "cache_creation_input_tokens": 7711
+  }
+}

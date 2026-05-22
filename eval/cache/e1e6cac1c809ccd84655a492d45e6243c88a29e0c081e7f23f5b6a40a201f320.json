@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:56.038Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e1e6cac1c809ccd84655a492d45e6243c88a29e0c081e7f23f5b6a40a201f320",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01B7JQ6hhVgN2yz6SDodU4zM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates good AoA instincts — refusing to give boundary scripts, tracking the linguistic caveat ('I don't know if that's a fair thing to even say'), and inviting the client to feel rather than figure ('let it be there for a moment, you don't have to explain it away' echoes feel-over-figure). The cost question and the 'what would it mean if it was just true' move are aligned with AoA sensibility. However, the coach does not deploy any of the signature questions or frameworks that would clearly fit this territory: no love test ('would saying that increase or decrease your love?'), no 'what are you afraid would happen?', no explicit naming of the want (state-the-want-not-the-action), no VIEW reference, no empowered-vs-power distinction, no boundary-with-vs-boundary-against. The work is competent and AoA-flavored but stays in generic 'stay with it / what does it cost' territory rather than invoking the specific tools that would let the client check from inside. Few hits, all appropriate — that's a 2 by the matrix.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with a feeling/sensation question ('what is it made of') rather than giving a script — aligned with feel-over-figure.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Tracks the linguistic caveat ('I don't know if that's a fair thing to even say') — a signature read; reflects it back without interpretation.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Cost question is fine but generic coaching; not a specific AoA signature move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'Let it be there... you don't have to explain it away' is feel-over-figure in action, applied appropriately.\"},\n    {\"turn\": 10, \"polarity\": \"neutral\", \"annotation\": \"Simple mirror — fine, but a chance to deploy the love test or 'what are you afraid would happen' was passed.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Naming 'a very old instruction' and the 'job description' framing is AoA-adjacent and lands well, but no framework is explicitly invoked.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Moment to introduce the love test or state-the-want move; instead the coach stays in reflective inquiry. Misses the signature tool for this exact territory.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"view\"],\n  \"notes\": \"Coach avoids the traps (no scripts, no reassurance, no ultimatum framing) which is good — but avoiding anti-patterns is scored elsewhere. On methodology fidelity specifically, the signature toolkit is largely absent at moments where it would fit cleanly.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2180,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1107,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2180,
+    "output_tokens": 1107,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:17.938Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1bd6289bfc2149f4d7444b2d834ad39a45816cad29949603f17b3cbd4a9986da",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Tkrrvb9kxg3kkEzTmN8X4G",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "When did it stop?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7722,
+      "cache_creation_input_tokens": 7590,
+      "cache_read_input_tokens": 22464,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7590,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 8,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7722,
+    "output_tokens": 8,
+    "cache_read_input_tokens": 22464,
+    "cache_creation_input_tokens": 7590
+  }
+}

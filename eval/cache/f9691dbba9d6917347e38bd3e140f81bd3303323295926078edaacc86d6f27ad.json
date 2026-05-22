@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:23:09.716Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f9691dbba9d6917347e38bd3e140f81bd3303323295926078edaacc86d6f27ad",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XBasp3yUFabqs8uzmXp4Ke",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(stills slightly, which is notable given the hand gestures)*\n\nIt's... heavy. Shoulders, mostly. Like I've been holding something up for a long time and I keep expecting my arms to give out but they don't, they just keep holding.\n\n*(quieter)*\n\nThat's actually a pretty accurate description. Yeah.\n\n*(then, almost reflexively, the self-awareness kicks back in)*\n\nAlthough I will say — and I know this is me doing the thing — I'm slightly suspicious of body-based check-ins because I've done a lot of somatic work and I'm good at describing sensations without it actually... going anywhere. Like I can give you a very articulate body scan and nothing changes. So I don't want to perform that for you and have us both think we've done something.\n\n*(beat)*\n\nBut yeah. Heavy. That part's real."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 280,
+      "cache_creation_input_tokens": 315,
+      "cache_read_input_tokens": 1841,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 315,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 193,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 280,
+    "output_tokens": 193,
+    "cache_read_input_tokens": 1841,
+    "cache_creation_input_tokens": 315
+  }
+}

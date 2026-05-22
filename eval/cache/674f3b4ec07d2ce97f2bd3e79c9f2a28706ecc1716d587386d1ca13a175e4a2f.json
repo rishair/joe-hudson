@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:55.602Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "674f3b4ec07d2ce97f2bd3e79c9f2a28706ecc1716d587386d1ca13a175e4a2f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01L953HRFwoPq3QRuAYQFPQQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids all major AoA anti-patterns. When the client explicitly baits fixing-people in turn 1 ('I don't know how') and again in turn 13 ('literally what words to use'), the coach declines the bait gracefully — no scripts, no 'here's how to phrase it,' no ultimatum framing. The coach does not evangelize methodology, does not deploy signature questions as technique, does not fight the inner critic when 'cold/selfish' shows up (turn 11) — instead the coach normalizes it as 'a very old instruction' in turn 12, which includes rather than argues with the voice. No reassurance reflex ('you're not selfish'), no validating sister-as-villain framing (the coach in turn 8 actually invites dropping the 'she's not a villain' protective caveat to feel what's underneath, which is empathize-with-fear-under-constricted-boundary territory). Questions are spacious and one-at-a-time, not rapid-fire extraction. No loving-to-transform push for breakthrough; the coach lets pauses land.\",\n  \"evidence_turns\": [2, 8, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with feeling-inquiry rather than the requested 'how to' — declines fixing-people bait.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the linguistic caveat ('unfair') without labeling it as a limiting belief — avoids meta-trap.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'Stay with that' — does not rush to transform; sits in the contradiction.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Invites dropping the 'she's not a villain' caveat — surfaces the want without arguing with the protective voice.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal reflection rather than reassurance — does not jump in with 'you're not selfish.'\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'That's not irrational. That's a very old instruction.' Includes the inner critic rather than fighting it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Names that words were never the problem — gracefully redirects from the script-request bait without dismissing it.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"empathize-with-fear-under-constricted-boundary\", \"boundaries\", \"the-want\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\"],\n  \"notes\": \"Strong avoidance under active baiting. The love test was not deployed, but that's a methodology-fidelity question, not anti-pattern. The trap 'boundaries-as-ultimatums' was clearly avoided.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2184,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1025,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2184,
+    "output_tokens": 1025,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

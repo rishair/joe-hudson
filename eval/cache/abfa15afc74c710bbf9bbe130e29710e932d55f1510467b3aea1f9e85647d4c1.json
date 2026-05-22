@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:01.750Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "abfa15afc74c710bbf9bbe130e29710e932d55f1510467b3aea1f9e85647d4c1",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QcFF3AiUrY9sot1fQ7DBrQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What happens to you if it lands well?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 8543,
+      "cache_creation_input_tokens": 6878,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6878,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 12,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 8543,
+    "output_tokens": 12,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 6878
+  }
+}

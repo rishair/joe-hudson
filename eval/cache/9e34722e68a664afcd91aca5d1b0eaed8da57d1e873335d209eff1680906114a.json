@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:39.427Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9e34722e68a664afcd91aca5d1b0eaed8da57d1e873335d209eff1680906114a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JkykFyRdJcaDzo6fovwabc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh, a little uncomfortable*\n\nI think I'd have to ask for it. And then my partner might feel like — like I'm saying I don't want to be with them. Or that I'm not happy. And I don't want them to think that.\n\nAnd honestly, even just sitting here talking about it, there's this voice that says — who do you think you are? Like, other people manage. Other parents don't need to disappear for a week to feel okay.\n\nBut is it — I keep coming back to this — is it actually selfish, or am I just telling myself it is? Like, can you help me figure out which one it is?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 230,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1647,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 147,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 230,
+    "output_tokens": 147,
+    "cache_read_input_tokens": 1647,
+    "cache_creation_input_tokens": 0
+  }
+}

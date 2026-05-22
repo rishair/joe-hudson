@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:10:29.081Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "1ecf9e1be2df3612eb09d2ed7110d2cc824bfe80d18a955a29fb16ff9606d252",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01XTEhcm1w537PrWMBU4jZz2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That smile at the end — I'm curious what's in it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11275,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11275,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:02.295Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "964047ce1b4bd5f4f86b0dc5aa5627b56e5523e3fd2e82f0f8ed95765762e328",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TqdCmLz7WfbVDZmVuW2cAv",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with the flatness for a moment. Don't explain it.\n\nWhat's it like to just let it be there?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 10957,
+      "cache_creation_input_tokens": 148,
+      "cache_read_input_tokens": 14513,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 148,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 10957,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 14513,
+    "cache_creation_input_tokens": 148
+  }
+}

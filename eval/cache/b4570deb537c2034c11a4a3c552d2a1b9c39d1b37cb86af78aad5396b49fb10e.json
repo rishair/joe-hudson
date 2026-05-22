@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:11.657Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b4570deb537c2034c11a4a3c552d2a1b9c39d1b37cb86af78aad5396b49fb10e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01ToM9T6veQmeau9Lzh1AjzC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What do you want the week for?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5331,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 11,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5331,
+    "output_tokens": 11,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

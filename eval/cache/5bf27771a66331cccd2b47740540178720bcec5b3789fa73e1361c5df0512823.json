@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:41.103Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5bf27771a66331cccd2b47740540178720bcec5b3789fa73e1361c5df0512823",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LjCRx4cAQvwAxGfFpdiqLj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does it make you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 15261,
+      "cache_creation_input_tokens": 14273,
+      "cache_read_input_tokens": 25580,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 14273,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 9,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 15261,
+    "output_tokens": 9,
+    "cache_read_input_tokens": 25580,
+    "cache_creation_input_tokens": 14273
+  }
+}

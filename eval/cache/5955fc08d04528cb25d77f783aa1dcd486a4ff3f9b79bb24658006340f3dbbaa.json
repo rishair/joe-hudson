@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:04.904Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "5955fc08d04528cb25d77f783aa1dcd486a4ff3f9b79bb24658006340f3dbbaa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JVcPnL4unwoDudJvLYym7Q",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just did it again.\n\nThe question moved — from \"what am I scared of\" to \"how does the mechanism work.\" Something in you changed the subject.\n\nWhat's the feeling that was there, right before you went to the literature?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 294,
+      "cache_creation_input_tokens": 8432,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8432,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 54,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 294,
+    "output_tokens": 54,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 8432
+  }
+}

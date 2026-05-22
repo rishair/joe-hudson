@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:30.967Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "8cf61c77d317dfbca24fb7e8fa05c78ed97b92e66429acaea3fa295e30d777bc",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EeUkeqoyRJAbNeBTD2bgWb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, breath held slightly*\n\nI think it would mean... I was ordinary? Like, that sounds so strange to say. But I think part of me has been -- the strong one is how I matter in this family. It's how I'm needed. And if I'm not that...\n\n*stops*\n\nI don't know what I am to them.\n\n*small laugh, a little uncomfortable*\n\nThat's a bigger thing than I came in here to talk about. I came in here to figure out what to say to my sister. Like, literally what words to use."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 195,
+      "cache_creation_input_tokens": 350,
+      "cache_read_input_tokens": 1794,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 350,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 195,
+    "output_tokens": 125,
+    "cache_read_input_tokens": 1794,
+    "cache_creation_input_tokens": 350
+  }
+}

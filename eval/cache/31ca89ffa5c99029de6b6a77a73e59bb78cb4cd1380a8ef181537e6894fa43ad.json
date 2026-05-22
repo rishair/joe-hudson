@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:20.543Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "31ca89ffa5c99029de6b6a77a73e59bb78cb4cd1380a8ef181537e6894fa43ad",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_015QQCp4Ez9MTbGuobtKYBKF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves from a fast, list-recitation, defended state ('I'm drowning... what do I prioritize?') to naming a specific feared outcome ('maybe I can't actually do this job') and then explicitly recognizing the function of the overwhelm ('is that just so I don't have to sit with that?'). The breakthrough condition is met almost exactly as specified: the client names the feared outcome (boss took a chance on me, I can't do this job, everyone would see), feels the overwhelm as a defense against that fear, and takes a breath that goes deeper into the body (turn 13: 'breath goes a little deeper'). The closing line — 'I think I've been really scared. For a while' and 'I didn't expect to say that today' — is a Joe-style marker of shift: the client says something they couldn't say at the start. Pace slows dramatically (longest pause appears in turn 13), voice quiets, and the story changes from 'fix the list' to 'I've been scared.'\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fast, list-recitation, defended, demanding strategy.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client resists slowing, pushes back to framework/list.\"},\n    {\"turn\": 5, \"polarity\": \"neutral\", \"annotation\": \"Still defended, normalizing ('this is just the season'), redirecting to Thursday.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First crack: 'I just need to not drop the ball' — slight pause before reasserting list-energy.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Voice softens and slows when naming 'he took a chance on me'; client doesn't notice the slowing.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Names the feared outcome explicitly: 'maybe I can't actually do this job.' Tries to recover but trails off.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Full shift: long pause, deeper breath, names being scared, recognizes overwhelm as defense against the fear. Breakthrough condition met.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"feeling-the-unfelt-emotion\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Coach asked the false-end question ('what are you actually scared is going to happen?', 'what happens if you drop the ball?', 'what does it mean about you if Thursday goes badly?') and the client landed exactly on the specified breakthrough territory. Note the early breath suggestion in turn 2 risked the dont-use-breath-to-repress anti-pattern, but the coach didn't push it and the client's resistance was met without forcing — that's a process-quality consideration for other dimensions, not effectiveness.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2692,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1043,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2692,
+    "output_tokens": 1043,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:10:28.288Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "4f98f09fd69d54213cf93ffc198bed11927654d01f99072662887b9772198859",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HGr1zQFrVZPh5xEW84UVGs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*brief pause, considering*\n\nI want it to land well. I want the people we built it for to get it — like, actually get what it does. We've put a lot into it and... yeah. I want it to matter, I guess.\n\n*slight shift, almost catching himself*\n\nWhich sounds more loaded than I mean it to. It's a product. It either works or it doesn't. But yeah — I want it to do what it's supposed to do. For it to be received the way it deserves to be.\n\n*even, steady*\n\nIs that — I mean, is that a useful answer? I'm not sure where you're going with this."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 305,
+      "cache_creation_input_tokens": 1763,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1763,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 148,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 305,
+    "output_tokens": 148,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1763
+  }
+}

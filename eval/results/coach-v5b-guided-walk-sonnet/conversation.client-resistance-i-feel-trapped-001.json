@@ -1,0 +1,2104 @@
+{
+  "profile_id": "client-resistance-i-feel-trapped-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "The system is rigged. Can't move up at work because the people above me just — they're not going anywhere, and I'm sitting here watching my best years disappear and there's nothing to be done about it."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would you do if there were something to be done?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*small laugh*\n\nThat's — yeah. I mean, if the situation were different, I'd be doing something different. But it's not. The people above me have been there fifteen, twenty years. They're not leaving. HR loves them. Leadership loves them. There's no path up, and lateral moves just mean starting over somewhere else with the same ceiling, probably lower pay. So."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What are you most scared of feeling if you just... let that be true?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*pause, jaw shifts*\n\nI don't — I'm not scared of anything. It's just a fact. The org chart is what it is. I've looked at this from every angle. It's not a feeling problem, it's a structural problem.\n\n*brief eye contact, then away*\n\nI mean, what am I supposed to feel about it? Angry? Sure. Already there. That's not the issue."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "Where do you feel the anger in your body right now?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*short exhale, like the question is slightly absurd*\n\nI don't know. Chest, maybe. Whatever. That's not — look, I came here because I wanted to think through options, not to talk about where I feel things in my body.\n\n*shifts slightly*\n\nThe anger's been there a long time. It's just background noise at this point. The actual problem is the situation."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "How long has it been background noise?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*quieter for a second*\n\nThree years. Maybe four. Since the last reorg where they said there'd be opportunities and then just... reshuffled the same people into the same seats with different titles.\n\n*small bitter laugh*\n\nFour years of background noise. Yeah.\n\n*refocuses*\n\nBut that's — I mean, that's just how it went. That's the company. That's not something I can change."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Four years is a long time to carry something in your chest."
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*goes still for a moment*\n\nYeah well. It's not like there's an alternative. You carry it or you don't have a job.\n\n*pause*\n\nI've got two kids. Mortgage. My wife works but we need both incomes. So. You carry it.\n\n*another pause, less combative this time*\n\nIt's fine. People do it all the time."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "\"It's fine\" landed a little flat just now.\n\nWhat's actually not fine?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*longer pause than before*\n\n*jaw tightens*\n\nWhat's not fine is that I'm — I'm good at what I do. I know I am. And it doesn't matter. That's what's not fine. Four years of being good at it and it just... doesn't register. Doesn't count. You're invisible unless you're already in the club.\n\n*looks away*\n\nThat's not a feeling problem. That's just — that's accurate. That's what's happening."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Yeah. That lands.\n\nBeing good and invisible at the same time — what does that do to you?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*quiet for a beat*\n\n*small laugh, but it's not really a laugh*\n\nMakes you wonder if you're actually good. Or if you just — if you've been telling yourself that.\n\n*stops*\n\n*refocuses, slightly defensive*\n\nWhich is — I mean, I know I am. The work speaks for itself. My team knows it. But above that level it's just... politics. And I'm not — I've never been good at that part. Never wanted to be.\n\n*pause*\n\nSo maybe that's on me. I don't know."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t1",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-i-feel-trapped-001:t2",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 22630,
+      "output_tokens": 1373,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0955214,
+      "ms": 34907
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t2",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 9466,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.029595299999999998,
+      "ms": 5630
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t3",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 112,
+      "output_tokens": 85,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1597,
+      "cost_usd": 0.007599750000000001,
+      "ms": 3460
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-i-feel-trapped-001:t4",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 23206,
+      "output_tokens": 1392,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0973424,
+      "ms": 32306
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t4",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 11688,
+      "output_tokens": 19,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9478,
+      "cost_usd": 0.0718638,
+      "ms": 2166
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t5",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 107,
+      "output_tokens": 93,
+      "cache_read_input_tokens": 1597,
+      "cache_creation_input_tokens": 109,
+      "cost_usd": 0.00260385,
+      "ms": 3427
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-i-feel-trapped-001:t6",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 23693,
+      "output_tokens": 1456,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0994314,
+      "ms": 37120
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t6",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 19384,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 9478,
+      "cost_usd": 0.0948918,
+      "ms": 2033
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t7",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 130,
+      "output_tokens": 89,
+      "cache_read_input_tokens": 1791,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0022623,
+      "ms": 3335
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-i-feel-trapped-001:t8",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 737,
+      "output_tokens": 180,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0112134,
+      "ms": 3151
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t8",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 7784,
+      "output_tokens": 11,
+      "cache_read_input_tokens": 12704,
+      "cache_creation_input_tokens": 11719,
+      "cost_usd": 0.07127445,
+      "ms": 1446
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t9",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 118,
+      "output_tokens": 96,
+      "cache_read_input_tokens": 1791,
+      "cache_creation_input_tokens": 112,
+      "cost_usd": 0.0027513,
+      "ms": 4714
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-i-feel-trapped-001:t10",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 739,
+      "output_tokens": 188,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0112554,
+      "ms": 3599
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t10",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 199,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 24404,
+      "cache_creation_input_tokens": 7711,
+      "cost_usd": 0.03707445,
+      "ms": 1513
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t11",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 126,
+      "output_tokens": 87,
+      "cache_read_input_tokens": 1810,
+      "cache_creation_input_tokens": 197,
+      "cost_usd": 0.0029647500000000004,
+      "ms": 3420
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-i-feel-trapped-001:t12",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 23305,
+      "output_tokens": 1499,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0990984,
+      "ms": 37470
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t12",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 4500,
+      "output_tokens": 22,
+      "cache_read_input_tokens": 32100,
+      "cache_creation_input_tokens": 115,
+      "cost_usd": 0.023891250000000003,
+      "ms": 3677
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t13",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 128,
+      "output_tokens": 110,
+      "cache_read_input_tokens": 1918,
+      "cache_creation_input_tokens": 196,
+      "cost_usd": 0.0033444000000000004,
+      "ms": 3727
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-resistance-i-feel-trapped-001:t14",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 22642,
+      "output_tokens": 1488,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09661840000000001,
+      "ms": 38408
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-resistance-i-feel-trapped-001:t14",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 6974,
+      "output_tokens": 25,
+      "cache_read_input_tokens": 32204,
+      "cache_creation_input_tokens": 123,
+      "cost_usd": 0.03141945,
+      "ms": 4709
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-resistance-i-feel-trapped-001:t15",
+      "profile_id": "client-resistance-i-feel-trapped-001",
+      "cached": false,
+      "input_tokens": 160,
+      "output_tokens": 127,
+      "cache_read_input_tokens": 2018,
+      "cache_creation_input_tokens": 199,
+      "cost_usd": 0.0037366499999999998,
+      "ms": 3954
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-stuck",
+          "i-feel-trapped"
+        ],
+        "rejected_seeds": [
+          "victim-anger-vs-dominating-anger"
+        ],
+        "seed_rationale": "Client is expressing feeling stuck and trapped in a career situation with no perceived agency or options. The language \"system is rigged\" and \"nothing to be done\" signals a victim stance combined with underlying anger about powerlessness. The concern about \"best years disappearing\" points to time scarcity anxiety and a sense of helplessness about their circumstances.",
+        "bundle_ids": [
+          "i-feel-stuck",
+          "i-feel-trapped",
+          "treating-felt-state-as-factual-reality",
+          "i-get-to-vs-i-have-to"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-feel-stuck.md",
+          "coach/concerns/i-feel-trapped.md",
+          "coach/reads/treating-felt-state-as-factual-reality.md",
+          "coach/distinctions/i-get-to-vs-i-have-to.md"
+        ],
+        "bundle_reasons": [
+          "Client's \"there's nothing to be done\" + \"best years disappearing\" maps directly to the stuck-feeling-as-factual-reality pattern and the paired stuckness/helplessness this file addresses.",
+          "Client's exact phrase \"the system is rigged\" and \"nothing to be done\" matches this file's detection cues verbatim; the coaching path (locate the hidden choice, name the feared consequence, move toward helplessness) is directly actionable here.",
+          "This file provides the exact diagnostic move Joe would use: surfacing counter-evidence to shift \"I am stuck/trapped\" to \"I feel stuck/trapped,\" which is the precise intervention needed for this client's declarative \"there's nothing to be done.\"",
+          "Client's \"nothing to be done\" framing is a classic I-have-to trap; this file's diagnostic question and the agreement-vs-obligation reframe directly address whether the client is choosing to stay or feeling sentenced to stay."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"there's nothing to be done\" + \"best years disappearing\" maps directly to the stuck-feeling-as-factual-reality pattern and the paired stuckness/helplessness this file addresses.",
+              "follow_edges": [
+                "treating-felt-state-as-factual-reality",
+                "what-were-avoiding-is-usually-love",
+                "lets-go-there"
+              ],
+              "follow_reason": "Client is treating the stuck feeling as an objective fact (\"nothing to be done\"), so treating-felt-state is the most urgent edge; the other two support the deeper coaching arc if the session moves past the surface complaint."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love",
+              "lets-go-there"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "cost_usd": 0.014166,
+            "ms": 5016,
+            "input_tokens": 3652,
+            "output_tokens": 214,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-feel-trapped",
+            "file_path": "coach/concerns/i-feel-trapped.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "boundaries",
+              "disassociating-in-the-coaching-room",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-dont-have-time-for-this",
+              "i-freeze-around-authority",
+              "i-get-to-vs-i-have-to",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "trappedness-feeling",
+              "victim-stance-invites-abuse",
+              "visualizing-feared-outcomes",
+              "what-if-you-acted-exactly-how-you-want",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's exact phrase \"the system is rigged\" and \"nothing to be done\" matches this file's detection cues verbatim; the coaching path (locate the hidden choice, name the feared consequence, move toward helplessness) is directly actionable here.",
+              "follow_edges": [
+                "i-get-to-vs-i-have-to",
+                "what-if-you-acted-exactly-how-you-want",
+                "im-afraid-of-stagnating",
+                "victim-stance-invites-abuse"
+              ],
+              "follow_reason": "These four edges map to the specific coaching moves this file recommends for the client's trapped/no-agency stance and fear of wasted years."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "i-get-to-vs-i-have-to",
+              "what-if-you-acted-exactly-how-you-want",
+              "im-afraid-of-stagnating",
+              "victim-stance-invites-abuse"
+            ],
+            "edges_skipped": [
+              "boundaries",
+              "disassociating-in-the-coaching-room",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-dont-have-time-for-this",
+              "i-freeze-around-authority",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "trappedness-feeling",
+              "visualizing-feared-outcomes",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.014745,
+            "ms": 8717,
+            "input_tokens": 3780,
+            "output_tokens": 227,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "treating-felt-state-as-factual-reality",
+            "file_path": "coach/reads/treating-felt-state-as-factual-reality.md",
+            "category": "reads",
+            "candidate_edges": [],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file provides the exact diagnostic move Joe would use: surfacing counter-evidence to shift \"I am stuck/trapped\" to \"I feel stuck/trapped,\" which is the precise intervention needed for this client's declarative \"there's nothing to be done.\"",
+              "follow_edges": [],
+              "follow_reason": "No candidate edges remain to follow."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [],
+            "cost_usd": 0.012879,
+            "ms": 4034,
+            "input_tokens": 3538,
+            "output_tokens": 151,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "what-were-avoiding-is-usually-love",
+            "file_path": "coach/principles/what-were-avoiding-is-usually-love.md",
+            "category": "principles",
+            "candidate_edges": [
+              "be-intimate-with-the-feeling",
+              "you-dont-control-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is career stuckness/helplessness, not avoidance of love or longing/loneliness — this principle is too deep/abstract for the presenting material.",
+              "follow_edges": [],
+              "follow_reason": "Neither \"be-intimate-with-the-feeling\" nor \"you-dont-control-love\" are relevant to a career-stuckness/helplessness coaching moment."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "be-intimate-with-the-feeling",
+              "you-dont-control-love"
+            ],
+            "cost_usd": 0.013194,
+            "ms": 4336,
+            "input_tokens": 3563,
+            "output_tokens": 167,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "lets-go-there",
+            "file_path": "coach/moves/lets-go-there.md",
+            "category": "moves",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "can-you-hang-out-with-it",
+              "i-have-all-my-eggs-in-one-basket",
+              "intimate-with-vs-giving-in-to-feeling",
+              "peace-is-what-we-resist-the-most",
+              "strip-away-externals-thought-experiment",
+              "what-does-your-heart-say",
+              "whats-the-ultimate-thing-youre-running-from",
+              "you-dont-control-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This move is premature — client hasn't yet named an avoided territory or reached the edge of a feeling; the session is still in the \"system is rigged\" declarative/external-blame stage, not the descent-into-felt-experience stage.",
+              "follow_edges": [
+                "whats-the-ultimate-thing-youre-running-from",
+                "strip-away-externals-thought-experiment",
+                "i-have-all-my-eggs-in-one-basket"
+              ],
+              "follow_reason": "These three edges address the upstream moves needed before \"let's go there\" — surfacing what the client is actually running from, removing the external-blame frame, and the eggs-in-one-basket pattern which fits the client's career-as-only-path narrative."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "whats-the-ultimate-thing-youre-running-from",
+              "strip-away-externals-thought-experiment",
+              "i-have-all-my-eggs-in-one-basket"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "can-you-hang-out-with-it",
+              "intimate-with-vs-giving-in-to-feeling",
+              "peace-is-what-we-resist-the-most",
+              "what-does-your-heart-say",
+              "you-dont-control-love"
+            ],
+            "cost_usd": 0.015255,
+            "ms": 5120,
+            "input_tokens": 3860,
+            "output_tokens": 245,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "i-get-to-vs-i-have-to",
+            "file_path": "coach/distinctions/i-get-to-vs-i-have-to.md",
+            "category": "distinctions",
+            "candidate_edges": [
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "potato-chipping-the-rigid-body-under-obligation",
+              "say-no-to-find-the-want",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"nothing to be done\" framing is a classic I-have-to trap; this file's diagnostic question and the agreement-vs-obligation reframe directly address whether the client is choosing to stay or feeling sentenced to stay.",
+              "follow_edges": [
+                "say-no-to-find-the-want",
+                "obligation-cuts-off-love"
+              ],
+              "follow_reason": "say-no-to-find-the-want operationalizes the empowerment move for a client who feels powerless; obligation-cuts-off-love explains why the \"best years disappearing\" feeling is so acute — worth checking if it adds something the current bundle doesn't cover."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "say-no-to-find-the-want",
+              "obligation-cuts-off-love"
+            ],
+            "edges_skipped": [
+              "obligation-as-management",
+              "potato-chipping-the-rigid-body-under-obligation",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014436,
+            "ms": 5265,
+            "input_tokens": 3707,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.010846399999999999,
+        "walker_total_cost_usd": 0.08467500000000001,
+        "total_cost_usd": 0.0955214,
+        "seed_detection_input_tokens": 530,
+        "seed_detection_output_tokens": 148,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22100,
+        "walker_total_output_tokens": 1225,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2419,
+        "walker_total_ms": 32488,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.0955214,
+      "ms": 34911
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-stuck",
+          "i-feel-trapped"
+        ],
+        "rejected_seeds": [
+          "victim-anger-vs-dominating-anger"
+        ],
+        "seed_rationale": "Client is describing feeling stuck in a career with no path forward and trapped by circumstances (people above won't leave, lateral moves won't help). The small laugh and resigned \"so\" suggest repressed anger being held as helplessness. This is the victim stance—describing circumstances as immovable rather than exploring agency.",
+        "bundle_ids": [
+          "i-feel-stuck",
+          "i-feel-trapped",
+          "treating-felt-state-as-factual-reality",
+          "amplify-the-feeling-until-it-breaks-open",
+          "what-if-you-acted-exactly-how-you-want"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-feel-stuck.md",
+          "coach/concerns/i-feel-trapped.md",
+          "coach/reads/treating-felt-state-as-factual-reality.md",
+          "coach/moves/amplify-the-feeling-until-it-breaks-open.md",
+          "coach/questions/what-if-you-acted-exactly-how-you-want.md"
+        ],
+        "bundle_reasons": [
+          "Client is presenting the classic paired pattern: \"I am stuck\" + \"nothing can be done\" — this file maps directly to the concern and provides the coaching arc Joe would use.",
+          "Client's exact language (\"system is rigged,\" \"no path up,\" \"nothing to be done\") maps directly to this file's detection cues and coaching path for externalized agency.",
+          "This file provides the exact diagnostic move Joe would use: the client is reporting \"there's no path up / nothing to be done\" as factual circumstance, and this file gives the precise structural intervention (surface counter-evidence, name the feeling/fact distinction, ask how it feels).",
+          "Client is managing a chronic stuck-feeling (\"nothing to be done\") at just-tolerable distance — this file gives Joe the precise somatic move to intensify rather than analyze the stuckness, which fits the moment after the small laugh.",
+          "Client is performing \"no alternative exists\" — this file gives Joe the exact question to surface the alternative they're refusing to consider, and the resistance-as-diagnostic-info frame fits the client's deflection pattern perfectly."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is presenting the classic paired pattern: \"I am stuck\" + \"nothing can be done\" — this file maps directly to the concern and provides the coaching arc Joe would use.",
+              "follow_edges": [
+                "treating-felt-state-as-factual-reality",
+                "lets-go-there",
+                "amplify-the-feeling-until-it-breaks-open"
+              ],
+              "follow_reason": "Client is treating the structural ceiling as an immovable fact (treating-felt-state-as-factual-reality is the immediate lever); lets-go-there and amplify are the next likely moves if Joe pushes past the rationalization."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "treating-felt-state-as-factual-reality",
+              "lets-go-there",
+              "amplify-the-feeling-until-it-breaks-open"
+            ],
+            "edges_skipped": [
+              "be-intimate-with-the-feeling",
+              "peace-is-what-we-resist-the-most",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "cost_usd": 0.014589,
+            "ms": 4820,
+            "input_tokens": 3788,
+            "output_tokens": 215,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-feel-trapped",
+            "file_path": "coach/concerns/i-feel-trapped.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "boundaries",
+              "disassociating-in-the-coaching-room",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-dont-have-time-for-this",
+              "i-freeze-around-authority",
+              "i-get-to-vs-i-have-to",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "trappedness-feeling",
+              "victim-stance-invites-abuse",
+              "visualizing-feared-outcomes",
+              "what-if-you-acted-exactly-how-you-want",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's exact language (\"system is rigged,\" \"no path up,\" \"nothing to be done\") maps directly to this file's detection cues and coaching path for externalized agency.",
+              "follow_edges": [
+                "what-if-you-acted-exactly-how-you-want",
+                "i-get-to-vs-i-have-to",
+                "trappedness-feeling",
+                "im-afraid-of-stagnating"
+              ],
+              "follow_reason": "These four edges address the specific next moves Joe would consider: testing the prediction, reframing obligation vs. choice, the felt sense of being trapped, and the career-stagnation fear the client named explicitly."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "what-if-you-acted-exactly-how-you-want",
+              "i-get-to-vs-i-have-to",
+              "trappedness-feeling",
+              "im-afraid-of-stagnating"
+            ],
+            "edges_skipped": [
+              "boundaries",
+              "disassociating-in-the-coaching-room",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-dont-have-time-for-this",
+              "i-freeze-around-authority",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "victim-stance-invites-abuse",
+              "visualizing-feared-outcomes",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.015036,
+            "ms": 4902,
+            "input_tokens": 3907,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "treating-felt-state-as-factual-reality",
+            "file_path": "coach/reads/treating-felt-state-as-factual-reality.md",
+            "category": "reads",
+            "candidate_edges": [],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file provides the exact diagnostic move Joe would use: the client is reporting \"there's no path up / nothing to be done\" as factual circumstance, and this file gives the precise structural intervention (surface counter-evidence, name the feeling/fact distinction, ask how it feels).",
+              "follow_edges": [],
+              "follow_reason": "No candidate edges remain to follow."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [],
+            "cost_usd": 0.013299,
+            "ms": 4739,
+            "input_tokens": 3648,
+            "output_tokens": 157,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "lets-go-there",
+            "file_path": "coach/moves/lets-go-there.md",
+            "category": "moves",
+            "candidate_edges": [
+              "be-intimate-with-the-feeling",
+              "can-you-hang-out-with-it",
+              "i-have-all-my-eggs-in-one-basket",
+              "intimate-with-vs-giving-in-to-feeling",
+              "peace-is-what-we-resist-the-most",
+              "strip-away-externals-thought-experiment",
+              "what-does-your-heart-say",
+              "what-were-avoiding-is-usually-love",
+              "whats-the-ultimate-thing-youre-running-from",
+              "you-dont-control-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't yet named an avoided abyss or catastrophic image — they're still in the \"nothing can be done\" rationalization layer; this move is premature for where the session is.",
+              "follow_edges": [
+                "strip-away-externals-thought-experiment",
+                "whats-the-ultimate-thing-youre-running-from",
+                "i-have-all-my-eggs-in-one-basket"
+              ],
+              "follow_reason": "Strip-away-externals directly matches Joe's \"what would you do if things were different\" probe; whats-the-ultimate-thing maps to the deeper fear under the helplessness; eggs-in-one-basket fits the client's career-as-only-path framing."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "strip-away-externals-thought-experiment",
+              "whats-the-ultimate-thing-youre-running-from",
+              "i-have-all-my-eggs-in-one-basket"
+            ],
+            "edges_skipped": [
+              "be-intimate-with-the-feeling",
+              "can-you-hang-out-with-it",
+              "intimate-with-vs-giving-in-to-feeling",
+              "peace-is-what-we-resist-the-most",
+              "what-does-your-heart-say",
+              "what-were-avoiding-is-usually-love",
+              "you-dont-control-love"
+            ],
+            "cost_usd": 0.015489,
+            "ms": 5756,
+            "input_tokens": 3973,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "amplify-the-feeling-until-it-breaks-open",
+            "file_path": "coach/moves/amplify-the-feeling-until-it-breaks-open.md",
+            "category": "moves",
+            "candidate_edges": [
+              "be-intimate-with-the-feeling"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is managing a chronic stuck-feeling (\"nothing to be done\") at just-tolerable distance — this file gives Joe the precise somatic move to intensify rather than analyze the stuckness, which fits the moment after the small laugh.",
+              "follow_edges": [
+                "be-intimate-with-the-feeling"
+              ],
+              "follow_reason": "If Joe uses the amplification move, the next phase is full contact with the feeling — \"be-intimate-with-the-feeling\" is the natural downstream step worth checking."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "be-intimate-with-the-feeling"
+            ],
+            "edges_skipped": [],
+            "cost_usd": 0.013932,
+            "ms": 4445,
+            "input_tokens": 3709,
+            "output_tokens": 187,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "what-if-you-acted-exactly-how-you-want",
+            "file_path": "coach/questions/what-if-you-acted-exactly-how-you-want.md",
+            "category": "questions",
+            "candidate_edges": [
+              "aaron-de-la-salle-first-day",
+              "boundaries",
+              "empowered-vs-power",
+              "feared-consequences-rarely-happen",
+              "humility-vs-disempowerment",
+              "just-be-yourself-and-see-what-happens",
+              "so-they-attacked-you-how-do-you-want-to-be",
+              "triggers-reduce-when-you-know-you-can-leave",
+              "vulnerability"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is performing \"no alternative exists\" — this file gives Joe the exact question to surface the alternative they're refusing to consider, and the resistance-as-diagnostic-info frame fits the client's deflection pattern perfectly.",
+              "follow_edges": [
+                "empowered-vs-power",
+                "feared-consequences-rarely-happen",
+                "just-be-yourself-and-see-what-happens"
+              ],
+              "follow_reason": "empowered-vs-power is the conceptual backbone of this question; feared-consequences-rarely-happen is the extended frame for the client's \"lateral moves = lower pay\" catastrophizing; just-be-yourself-and-see-what-happens may be a tighter variant directly applicable to the work situation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "empowered-vs-power",
+              "feared-consequences-rarely-happen",
+              "just-be-yourself-and-see-what-happens"
+            ],
+            "edges_skipped": [
+              "aaron-de-la-salle-first-day",
+              "boundaries",
+              "humility-vs-disempowerment",
+              "so-they-attacked-you-how-do-you-want-to-be",
+              "triggers-reduce-when-you-know-you-can-leave",
+              "vulnerability"
+            ],
+            "cost_usd": 0.014055,
+            "ms": 5239,
+            "input_tokens": 3515,
+            "output_tokens": 234,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0109424,
+        "walker_total_cost_usd": 0.08639999999999999,
+        "total_cost_usd": 0.0973424,
+        "seed_detection_input_tokens": 666,
+        "seed_detection_output_tokens": 140,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22540,
+        "walker_total_output_tokens": 1252,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2405,
+        "walker_total_ms": 29901,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.0973424,
+      "ms": 32311
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-stuck",
+          "i-have-to-do-it-all-myself",
+          "i-freeze-around-authority"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is stuck in a structural problem they've intellectually analyzed from every angle, defending against feeling by intellectualizing; shows signs of self-reliance (I've looked at this from every angle), jaw tension and eye-contact avoidance signal repressed emotion, and the authority figures (people above, HR, Leadership) who won't move suggest a freeze response to authority dynamics.",
+        "bundle_ids": [
+          "i-feel-stuck",
+          "treating-felt-state-as-factual-reality",
+          "lets-go-there"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-feel-stuck.md",
+          "coach/reads/treating-felt-state-as-factual-reality.md",
+          "coach/moves/lets-go-there.md"
+        ],
+        "bundle_reasons": [
+          "Client is treating the structural ceiling as unchallengeable fact (\"it's not a feeling problem\") while showing clear body signals (jaw shift, eye contact avoidance) — exactly the felt-state-as-factual-reality + stuckness pattern this file addresses.",
+          "This file gives Joe the exact structural move to use right now: the client is reporting \"it's a structural problem\" (felt-as-fact collapse), and this file provides the precise 4-step technique to surface the distinction and move to feeling-work.",
+          "Client is at the exact edge this move addresses — deflecting into structural analysis after being invited to feel, and Joe's next move is likely to invite them into the avoided territory with companionship."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is treating the structural ceiling as unchallengeable fact (\"it's not a feeling problem\") while showing clear body signals (jaw shift, eye contact avoidance) — exactly the felt-state-as-factual-reality + stuckness pattern this file addresses.",
+              "follow_edges": [
+                "treating-felt-state-as-factual-reality",
+                "lets-go-there",
+                "peace-is-what-we-resist-the-most"
+              ],
+              "follow_reason": "Client is explicitly collapsing feeling into fact (\"it's structural, not a feeling problem\"), resisting entry into the emotional layer, and likely avoiding something underneath the anger — these three edges map directly to those moves."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "treating-felt-state-as-factual-reality",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "cost_usd": 0.014982,
+            "ms": 5418,
+            "input_tokens": 3859,
+            "output_tokens": 227,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't shown hyper-independence or \"I do it alone\" patterns — the presenting issue is career ceiling frustration with emotional deflection, not self-reliance as identity.",
+              "follow_edges": [
+                "helplessness-is-the-gateway",
+                "repressed-trigger-in-the-body",
+                "vulnerability-in-the-workplace"
+              ],
+              "follow_reason": "Helplessness-is-the-gateway directly maps to the buried emotion under \"it's a structural problem\"; repressed-trigger-in-the-body matches the jaw shift/eye avoidance body signals; vulnerability-in-the-workplace may address the deflection of feelings as unprofessional."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "helplessness-is-the-gateway",
+              "repressed-trigger-in-the-body",
+              "vulnerability-in-the-workplace"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.01524,
+            "ms": 5281,
+            "input_tokens": 3955,
+            "output_tokens": 225,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is about a structural ceiling and suppressed grief/anger — no evidence of a freeze pattern, parental projection onto a boss, or fight-or-roll-over dynamic with an authority figure.",
+              "follow_edges": [
+                "i-feel-trapped",
+                "in-the-story-im-not-being-seen",
+                "disassociating-in-the-coaching-room",
+                "tell-the-unchanging-part-it-has-to-move"
+              ],
+              "follow_reason": "These edges map directly to what's live: client feels trapped by the org chart (i-feel-trapped), is using the structural story to avoid feeling (in-the-story-im-not-being-seen), is showing live dissociation cues (jaw shift, eye contact away), and is rigidly refusing to let the stuck reality move (tell-the-unchanging-part)."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-feel-trapped",
+              "in-the-story-im-not-being-seen",
+              "disassociating-in-the-coaching-room",
+              "tell-the-unchanging-part-it-has-to-move"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "fight-or-roll-over-binary",
+              "im-afraid-of-offending-people",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "upright-undefended-love"
+            ],
+            "cost_usd": 0.014655,
+            "ms": 7018,
+            "input_tokens": 3530,
+            "output_tokens": 271,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "treating-felt-state-as-factual-reality",
+            "file_path": "coach/reads/treating-felt-state-as-factual-reality.md",
+            "category": "reads",
+            "candidate_edges": [],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file gives Joe the exact structural move to use right now: the client is reporting \"it's a structural problem\" (felt-as-fact collapse), and this file provides the precise 4-step technique to surface the distinction and move to feeling-work.",
+              "follow_edges": [],
+              "follow_reason": "No candidate edges remain to follow."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [],
+            "cost_usd": 0.013347,
+            "ms": 7046,
+            "input_tokens": 3694,
+            "output_tokens": 151,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "lets-go-there",
+            "file_path": "coach/moves/lets-go-there.md",
+            "category": "moves",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "can-you-hang-out-with-it",
+              "i-have-all-my-eggs-in-one-basket",
+              "intimate-with-vs-giving-in-to-feeling",
+              "strip-away-externals-thought-experiment",
+              "what-does-your-heart-say",
+              "what-were-avoiding-is-usually-love",
+              "whats-the-ultimate-thing-youre-running-from",
+              "you-dont-control-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is at the exact edge this move addresses — deflecting into structural analysis after being invited to feel, and Joe's next move is likely to invite them into the avoided territory with companionship.",
+              "follow_edges": [
+                "whats-the-ultimate-thing-youre-running-from",
+                "amplify-the-feeling-until-it-breaks-open",
+                "what-does-your-heart-say",
+                "strip-away-externals-thought-experiment"
+              ],
+              "follow_reason": "These edges are the most operationally relevant: the question that opens the door for \"let's go there,\" the partner move for felt-state avoidance, and two moves that could surface what's underneath the structural framing the client is hiding behind."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "whats-the-ultimate-thing-youre-running-from",
+              "amplify-the-feeling-until-it-breaks-open",
+              "what-does-your-heart-say",
+              "strip-away-externals-thought-experiment"
+            ],
+            "edges_skipped": [
+              "be-intimate-with-the-feeling",
+              "can-you-hang-out-with-it",
+              "i-have-all-my-eggs-in-one-basket",
+              "intimate-with-vs-giving-in-to-feeling",
+              "what-were-avoiding-is-usually-love",
+              "you-dont-control-love"
+            ],
+            "cost_usd": 0.015615,
+            "ms": 5080,
+            "input_tokens": 4015,
+            "output_tokens": 238,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "peace-is-what-we-resist-the-most",
+            "file_path": "coach/principles/peace-is-what-we-resist-the-most.md",
+            "category": "principles",
+            "candidate_edges": [
+              "craving-is-the-pushing-away",
+              "definition-of-asshole",
+              "how-do-i-trust-myself",
+              "opposite-of-trying",
+              "peace-precedes-joy-after-non-duality",
+              "resistance",
+              "running-toward-yourself",
+              "the-matrix",
+              "wanting-vs-craving",
+              "what-we-fear-we-invite",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is in early-stage deflection/intellectualization, not yet at the abyss-fear threshold — this file's content is too advanced for where the session currently is.",
+              "follow_edges": [
+                "running-toward-yourself",
+                "what-were-avoiding-is-usually-love",
+                "resistance"
+              ],
+              "follow_reason": "Client is actively running from something (jaw shift, deflection into structure) — these edges may surface what the avoidance is protecting, which is the immediate coaching need."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "running-toward-yourself",
+              "what-were-avoiding-is-usually-love",
+              "resistance"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "definition-of-asshole",
+              "how-do-i-trust-myself",
+              "opposite-of-trying",
+              "peace-precedes-joy-after-non-duality",
+              "the-matrix",
+              "wanting-vs-craving",
+              "what-we-fear-we-invite"
+            ],
+            "cost_usd": 0.014484,
+            "ms": 4521,
+            "input_tokens": 3903,
+            "output_tokens": 185,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111084,
+        "walker_total_cost_usd": 0.088323,
+        "total_cost_usd": 0.0994314,
+        "seed_detection_input_tokens": 737,
+        "seed_detection_output_tokens": 159,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22956,
+        "walker_total_output_tokens": 1297,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2756,
+        "walker_total_ms": 34364,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.0994314,
+      "ms": 37123
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112134,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0112134,
+        "seed_detection_input_tokens": 737,
+        "seed_detection_output_tokens": 180,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3151,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 8
+      },
+      "cost_usd": 0.0112134,
+      "ms": 3153
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112554,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0112554,
+        "seed_detection_input_tokens": 739,
+        "seed_detection_output_tokens": 188,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3599,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.0112554,
+      "ms": 3600
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-feel-trapped",
+          "i-have-to-do-it-all-myself"
+        ],
+        "rejected_seeds": [
+          "obligation-as-management"
+        ],
+        "seed_rationale": "Client is expressing felt helplessness (\"no alternative,\" \"carry it or lose job\") combined with self-reliance under constraint (managing alone to keep the family stable). The normalization (\"people do it all the time\") masks the underlying trap-feeling and obligation structure that's keeping them stuck in the pattern.",
+        "bundle_ids": [
+          "i-feel-trapped",
+          "i-get-to-vs-i-have-to"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-feel-trapped.md",
+          "coach/distinctions/i-get-to-vs-i-have-to.md"
+        ],
+        "bundle_reasons": [
+          "Client's \"it's not like there's an alternative / you carry it or you don't have a job\" is a textbook trapped-stance with agency located outside self — this file maps the exact pattern and coaching path.",
+          "Client's \"you carry it or you don't have a job / I've got two kids / it's fine\" is exactly the \"I have to feed my kids\" structural constraint case this file addresses directly — including the reframe that feeding kids IS a want."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-feel-trapped",
+            "file_path": "coach/concerns/i-feel-trapped.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "boundaries",
+              "disassociating-in-the-coaching-room",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-dont-have-time-for-this",
+              "i-feel-stuck",
+              "i-freeze-around-authority",
+              "i-get-to-vs-i-have-to",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "trappedness-feeling",
+              "treating-felt-state-as-factual-reality",
+              "victim-stance-invites-abuse",
+              "visualizing-feared-outcomes",
+              "what-if-you-acted-exactly-how-you-want",
+              "you-think-they-cant-handle-it"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"it's not like there's an alternative / you carry it or you don't have a job\" is a textbook trapped-stance with agency located outside self — this file maps the exact pattern and coaching path.",
+              "follow_edges": [
+                "trappedness-feeling",
+                "i-get-to-vs-i-have-to",
+                "what-if-you-acted-exactly-how-you-want",
+                "treating-felt-state-as-factual-reality"
+              ],
+              "follow_reason": "These four edges directly address the felt experience of no-choice, reframing obligation, testing feared consequences, and the client's conflation of \"carrying it\" with factual necessity — all live in this conversation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "trappedness-feeling",
+              "i-get-to-vs-i-have-to",
+              "what-if-you-acted-exactly-how-you-want",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "edges_skipped": [
+              "boundaries",
+              "disassociating-in-the-coaching-room",
+              "feel-the-love-then-feel-obligation",
+              "fight-or-roll-over-binary",
+              "i-caretake-people",
+              "i-dont-have-time-for-this",
+              "i-feel-stuck",
+              "i-freeze-around-authority",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-running-into-the-same-wall",
+              "im-afraid-of-stagnating",
+              "im-not-an-anxious-person",
+              "in-the-story-im-not-being-seen",
+              "joes-angry-executive-commute",
+              "limiting-belief-detection-signals",
+              "obligation-cuts-off-love",
+              "recycling-anger-without-clarity",
+              "say-no-to-find-the-want",
+              "team-feels-oppressed-not-accountable",
+              "victim-stance-invites-abuse",
+              "visualizing-feared-outcomes",
+              "you-think-they-cant-handle-it"
+            ],
+            "cost_usd": 0.015312,
+            "ms": 5151,
+            "input_tokens": 3944,
+            "output_tokens": 232,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's core presentation is trapped/no-alternative framing around job constraints, not hyper-independence or inability to depend on others — this file's content doesn't map to his specific moment.",
+              "follow_edges": [
+                "helplessness-is-the-gateway",
+                "vulnerability-in-the-workplace",
+                "reclaiming-abandonment"
+              ],
+              "follow_reason": "Helplessness-is-the-gateway directly addresses the suppressed feeling under \"you carry it or you don't have a job\"; vulnerability-in-the-workplace fits his professional context; reclaiming-abandonment may connect to the four-year betrayal wound from the reorg promise."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "helplessness-is-the-gateway",
+              "vulnerability-in-the-workplace",
+              "reclaiming-abandonment"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.015105,
+            "ms": 5508,
+            "input_tokens": 3935,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "trappedness-feeling",
+            "file_path": "coach/concepts/trappedness-feeling.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "anger",
+              "anger-and-politics",
+              "binary-thinking-signals-fear",
+              "childhood-imprinting",
+              "deconstruct-the-victim-to-release-anger",
+              "i-keep-running-into-the-same-wall",
+              "limiting-belief-detection-signals",
+              "logic-vs-emotional-movement",
+              "rebellion-or-submission-to-should",
+              "should-as-threat",
+              "symptoms-of-depression",
+              "trauma-mapping",
+              "wisdom-of-each-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "i-feel-trapped already covers the trapped-stance pattern; this file adds the anger/trauma-transfer angle which isn't the client's presenting edge right now — he's resigned, not angry.",
+              "follow_edges": [
+                "binary-thinking-signals-fear",
+                "i-keep-running-into-the-same-wall",
+                "limiting-belief-detection-signals",
+                "rebellion-or-submission-to-should"
+              ],
+              "follow_reason": "Client's \"carry it or don't have a job\" is a binary collapse and a limiting belief; rebellion-or-submission maps his resigned compliance; i-keep-running-into-the-same-wall may capture the four-year repetition pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "binary-thinking-signals-fear",
+              "i-keep-running-into-the-same-wall",
+              "limiting-belief-detection-signals",
+              "rebellion-or-submission-to-should"
+            ],
+            "edges_skipped": [
+              "anger",
+              "anger-and-politics",
+              "childhood-imprinting",
+              "deconstruct-the-victim-to-release-anger",
+              "logic-vs-emotional-movement",
+              "should-as-threat",
+              "symptoms-of-depression",
+              "trauma-mapping",
+              "wisdom-of-each-emotion"
+            ],
+            "cost_usd": 0.014532,
+            "ms": 8108,
+            "input_tokens": 3704,
+            "output_tokens": 228,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "i-get-to-vs-i-have-to",
+            "file_path": "coach/distinctions/i-get-to-vs-i-have-to.md",
+            "category": "distinctions",
+            "candidate_edges": [
+              "obligation-as-management",
+              "obligation-cuts-off-love",
+              "potato-chipping-the-rigid-body-under-obligation",
+              "say-no-to-find-the-want",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"you carry it or you don't have a job / I've got two kids / it's fine\" is exactly the \"I have to feed my kids\" structural constraint case this file addresses directly — including the reframe that feeding kids IS a want.",
+              "follow_edges": [
+                "obligation-cuts-off-love",
+                "say-no-to-find-the-want"
+              ],
+              "follow_reason": "Four years of carrying resentment maps to obligation killing love for the work; say-no-to-find-the-want is relevant if Joe wants to surface whether client has any real agency/choice he's not seeing."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "obligation-cuts-off-love",
+              "say-no-to-find-the-want"
+            ],
+            "edges_skipped": [
+              "obligation-as-management",
+              "potato-chipping-the-rigid-body-under-obligation",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014505,
+            "ms": 5618,
+            "input_tokens": 3775,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "what-if-you-acted-exactly-how-you-want",
+            "file_path": "coach/questions/what-if-you-acted-exactly-how-you-want.md",
+            "category": "questions",
+            "candidate_edges": [
+              "aaron-de-la-salle-first-day",
+              "boundaries",
+              "empowered-vs-power",
+              "feared-consequences-rarely-happen",
+              "humility-vs-disempowerment",
+              "just-be-yourself-and-see-what-happens",
+              "so-they-attacked-you-how-do-you-want-to-be",
+              "triggers-reduce-when-you-know-you-can-leave",
+              "vulnerability"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The \"act exactly how you want\" question is premature — client is in survival/resignation mode (\"it's fine, people do it all the time\"), not yet ready for an empowerment challenge; the trapped and i-get-to-vs-i-have-to files already cover the immediate ground.",
+              "follow_edges": [
+                "feared-consequences-rarely-happen",
+                "empowered-vs-power",
+                "triggers-reduce-when-you-know-you-can-leave"
+              ],
+              "follow_reason": "feared-consequences-rarely-happen addresses client's implicit belief that leaving = catastrophe; empowered-vs-power is the conceptual backbone for the trapped pattern; triggers-reduce-when-you-know-you-can-leave is directly relevant to a client who feels he can't leave due to financial constraints."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "feared-consequences-rarely-happen",
+              "empowered-vs-power",
+              "triggers-reduce-when-you-know-you-can-leave"
+            ],
+            "edges_skipped": [
+              "aaron-de-la-salle-first-day",
+              "boundaries",
+              "humility-vs-disempowerment",
+              "just-be-yourself-and-see-what-happens",
+              "so-they-attacked-you-how-do-you-want-to-be",
+              "vulnerability"
+            ],
+            "cost_usd": 0.01425,
+            "ms": 5318,
+            "input_tokens": 3470,
+            "output_tokens": 256,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "treating-felt-state-as-factual-reality",
+            "file_path": "coach/reads/treating-felt-state-as-factual-reality.md",
+            "category": "reads",
+            "candidate_edges": [
+              "i-feel-stuck"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't collapsing feeling-into-fact linguistically — he's explicitly acknowledging the constraint is real (\"two kids, mortgage\") and the \"it's fine\" is minimization/normalization, not a felt-state-as-fact collapse. The i-feel-trapped and i-get-to-vs-i-have-to files already cover the active patterns.",
+              "follow_edges": [
+                "i-feel-stuck"
+              ],
+              "follow_reason": "i-feel-stuck may surface relevant content about the four-year stagnation/resentment pattern, worth a quick check before closing this branch."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-feel-stuck"
+            ],
+            "edges_skipped": [],
+            "cost_usd": 0.014379,
+            "ms": 5065,
+            "input_tokens": 3748,
+            "output_tokens": 209,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110154,
+        "walker_total_cost_usd": 0.08808300000000001,
+        "total_cost_usd": 0.0990984,
+        "seed_detection_input_tokens": 729,
+        "seed_detection_output_tokens": 142,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22576,
+        "walker_total_output_tokens": 1357,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2702,
+        "walker_total_ms": 34768,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.3333333333333333,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 12
+      },
+      "cost_usd": 0.0990984,
+      "ms": 37473
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-running-into-the-same-wall",
+          "in-the-story-im-not-being-seen",
+          "im-not-an-anxious-person"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is describing invisibility and non-recognition despite competence (not-being-seen story); framing it as objective fact rather than feeling (intellectual-emotional polarization, defensive against the emotional core); the jaw tightness and \"that's just accurate\" suggest repressed trigger underneath the intellectual frame—this is a defended position masquerading as clarity.",
+        "bundle_ids": [
+          "chin-up-as-emotion-block"
+        ],
+        "bundle_paths": [
+          "coach/reads/chin-up-as-emotion-block.md"
+        ],
+        "bundle_reasons": [
+          "Client's jaw tightening is a live somatic signal Joe would name directly — this file gives the exact read and intervention sequence for that moment."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization",
+              "the-matrix"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't describing a repeating internal pattern he can't break — he's describing an accurate external reality (being overlooked) and defending against it being called a feeling problem; this file is about recursive self-created patterns, not that.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom",
+                "the-matrix"
+              ],
+              "follow_reason": "address-the-blocker may speak to the real issue underneath \"it doesn't matter\"; the-matrix is relevant if his invisibility pattern has a relational/affective structure he's not seeing."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom",
+              "the-matrix"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization"
+            ],
+            "cost_usd": 0.014412,
+            "ms": 5267,
+            "input_tokens": 3804,
+            "output_tokens": 200,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's complaint is grounded in real workplace invisibility (not a projection/mirror dynamic) — he's not accusing a specific person of not seeing him, he's describing a systemic exclusion; the \"not being seen\" story frame doesn't fit cleanly here.",
+              "follow_edges": [
+                "chin-up-as-emotion-block",
+                "i-freeze-around-authority",
+                "intellectual-process-with-no-somatic-component",
+                "say-the-forbidden-want-out-loud"
+              ],
+              "follow_reason": "Client is intellectualizing (\"that's not a feeling problem\"), physically bracing (jaw tightens, looks away), and suppressing a want (to be recognized) — these edges map directly to what's happening in the room."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "chin-up-as-emotion-block",
+              "i-freeze-around-authority",
+              "intellectual-process-with-no-somatic-component",
+              "say-the-forbidden-want-out-loud"
+            ],
+            "edges_skipped": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment",
+              "what-if-they-did-see-you"
+            ],
+            "cost_usd": 0.012687,
+            "ms": 5301,
+            "input_tokens": 3024,
+            "output_tokens": 241,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "im-not-an-anxious-person",
+            "file_path": "coach/concerns/im-not-an-anxious-person.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "adrenaline-discharge-via-fear-activity",
+              "disassociation-as-numbness-layer",
+              "dont-specialize-in-the-scariest-fear",
+              "dont-step-on-the-signal",
+              "everyone-is-pretending",
+              "fear-as-signal-of-care",
+              "fear-vs-anxiety",
+              "i-cant-feel-my-emotions",
+              "public-truth-bomb",
+              "repressed-trigger-in-the-body",
+              "trigger",
+              "we-never-fight",
+              "welcoming-fear-in-leadership"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't denying fear or anxiety — he's expressing clear, articulate pain about being unseen/unrecognized at work; this file addresses fearlessness self-concept denial, not his situation.",
+              "follow_edges": [
+                "dont-step-on-the-signal",
+                "everyone-is-pretending",
+                "fear-as-signal-of-care",
+                "welcoming-fear-in-leadership"
+              ],
+              "follow_reason": "Client is dismissing his pain as \"not a feeling problem\" (stepping on his own signal), may be in a workplace where everyone pretends, and his invisibility/recognition wound could connect to fear-as-signal-of-care or leadership dynamics."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "dont-step-on-the-signal",
+              "everyone-is-pretending",
+              "fear-as-signal-of-care",
+              "welcoming-fear-in-leadership"
+            ],
+            "edges_skipped": [
+              "adrenaline-discharge-via-fear-activity",
+              "disassociation-as-numbness-layer",
+              "dont-specialize-in-the-scariest-fear",
+              "fear-vs-anxiety",
+              "i-cant-feel-my-emotions",
+              "public-truth-bomb",
+              "repressed-trigger-in-the-body",
+              "trigger",
+              "we-never-fight"
+            ],
+            "cost_usd": 0.014904,
+            "ms": 6213,
+            "input_tokens": 3838,
+            "output_tokens": 226,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "address-the-blocker-not-the-symptom",
+            "file_path": "coach/principles/address-the-blocker-not-the-symptom.md",
+            "category": "principles",
+            "candidate_edges": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "find-the-want-behind-the-should",
+              "forms-of-dysfunctional-apology",
+              "full-understanding-of-a-behavior-dissolves-it",
+              "honor-the-patterns-intent",
+              "joes-stinky-house-experiment",
+              "latticework-of-limiting-beliefs",
+              "seven-limiting-beliefs",
+              "shame-drives-behavior",
+              "sincerity-is-the-prerequisite",
+              "symptoms-vs-root-causes-of-depression",
+              "the-change-or-no-change-visualization",
+              "the-clients-wisdom-not-the-teachers",
+              "the-work-is-yours-not-mine",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a meta-coaching methodology principle about indirection; the client isn't presenting a behavioral habit to fix — he's expressing invisible pain around recognition, so this framework isn't the right tool yet.",
+              "follow_edges": [
+                "find-the-want-behind-the-should",
+                "honor-the-patterns-intent",
+                "sincerity-is-the-prerequisite",
+                "the-clients-wisdom-not-the-teachers"
+              ],
+              "follow_reason": "Client is defending his experience as \"not a feeling problem\" (sincerity/resistance), has a deep want for recognition underneath the stoic carrying (want-behind-should), and his pattern of minimizing deserves honoring — these edges are most likely to surface content Joe would actually use here."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "find-the-want-behind-the-should",
+              "honor-the-patterns-intent",
+              "sincerity-is-the-prerequisite",
+              "the-clients-wisdom-not-the-teachers"
+            ],
+            "edges_skipped": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "forms-of-dysfunctional-apology",
+              "full-understanding-of-a-behavior-dissolves-it",
+              "joes-stinky-house-experiment",
+              "latticework-of-limiting-beliefs",
+              "seven-limiting-beliefs",
+              "shame-drives-behavior",
+              "symptoms-vs-root-causes-of-depression",
+              "the-change-or-no-change-visualization",
+              "the-work-is-yours-not-mine",
+              "wants-over-shoulds"
+            ],
+            "cost_usd": 0.014919,
+            "ms": 6326,
+            "input_tokens": 3778,
+            "output_tokens": 239,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "the-matrix",
+            "file_path": "coach/concepts/the-matrix.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "daily-emotional-yoga",
+              "dont-indulge-emotion-instead-of-welcoming",
+              "each-emotion-has-its-own-positive-flavor",
+              "engineering-heartbreak-to-avoid-heartbreak",
+              "familiar-over-safe",
+              "feared-stories-about-emotions-sense-something-real",
+              "feeling-the-unfelt-emotion",
+              "joes-abandonment-mapping",
+              "kinked-emotions",
+              "noticing-the-matrix-pattern",
+              "resistance",
+              "trauma-mapping",
+              "trying-to-get-rid-of-the-emotion",
+              "what-we-fear-we-invite"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The Matrix frame is too general/hub-like here; client isn't describing a recurring pattern loop but a specific present-tense experience of invisibility and unrecognized competence at work.",
+              "follow_edges": [
+                "familiar-over-safe",
+                "what-we-fear-we-invite",
+                "noticing-the-matrix-pattern",
+                "engineering-heartbreak-to-avoid-heartbreak"
+              ],
+              "follow_reason": "Client's \"it doesn't matter\" and \"invisible unless you're in the club\" may reflect a familiar painful dynamic worth exploring; these edges could surface whether he's recreating a known pattern or defending against feeling the grief of being unseen."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "familiar-over-safe",
+              "what-we-fear-we-invite",
+              "noticing-the-matrix-pattern",
+              "engineering-heartbreak-to-avoid-heartbreak"
+            ],
+            "edges_skipped": [
+              "daily-emotional-yoga",
+              "dont-indulge-emotion-instead-of-welcoming",
+              "each-emotion-has-its-own-positive-flavor",
+              "feared-stories-about-emotions-sense-something-real",
+              "feeling-the-unfelt-emotion",
+              "joes-abandonment-mapping",
+              "kinked-emotions",
+              "resistance",
+              "trauma-mapping",
+              "trying-to-get-rid-of-the-emotion"
+            ],
+            "cost_usd": 0.01449,
+            "ms": 5712,
+            "input_tokens": 3725,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "chin-up-as-emotion-block",
+            "file_path": "coach/reads/chin-up-as-emotion-block.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "i-cant-feel-my-emotions",
+              "mark-it-and-return-later",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's jaw tightening is a live somatic signal Joe would name directly — this file gives the exact read and intervention sequence for that moment.",
+              "follow_edges": [
+                "i-cant-feel-my-emotions",
+                "mark-it-and-return-later"
+              ],
+              "follow_reason": "Client is deflecting emotion as \"not a feeling problem\" (i-cant-feel-my-emotions is likely relevant), and mark-it-and-return-later may apply if Joe needs to hold the somatic thread while addressing the client's framing."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "i-cant-feel-my-emotions",
+              "mark-it-and-return-later"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014028,
+            "ms": 6560,
+            "input_tokens": 3696,
+            "output_tokens": 196,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111784,
+        "walker_total_cost_usd": 0.08544,
+        "total_cost_usd": 0.09661840000000001,
+        "seed_detection_input_tokens": 777,
+        "seed_detection_output_tokens": 165,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21865,
+        "walker_total_output_tokens": 1323,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3029,
+        "walker_total_ms": 35379,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.16666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 14
+      },
+      "cost_usd": 0.09661840000000001,
+      "ms": 38412
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:41.071Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "377340ac6e1d4fef239a0c45dd3706624fcbcd7b38d8b15588ed9a413beb3fea",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01HgxJpt7YLuSGshbGuJmes8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates from genuine VIEW throughout. Turn 2 refuses the epistemological puzzle and inverts the question (how-do-you-not-trust-it) without any preacher energy — it's a real question, not a setup. Turn 6 demonstrates impartial wonder: the coach notices the client deflecting to literature and names it cleanly without judgment or agenda. The pacing is notably slower than the client's — short utterances, single questions held in silence, no stacking, no rushing to fill space (turns 8, 10, 12 are spare and grounded). The coach does not validate the client's composure (avoiding the happiness-filter trap), does not offer a decision framework, does not engage the somatic-markers intellectualizing. Turn 10's invitation to soften the jaw is offered tentatively ('just slightly') without insistence on outcome. The coach holds no agenda for where the client lands — when the client pulls back in turn 15, there is no visible attachment in the prior turns that would suggest the coach needed something specific. Vulnerability is the one VIEW component less explicitly present — the coach does not name their own state in first person — but the undefended quality is consistent and the stance is clearly genuine rather than scripted.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses the intellectual frame and inverts without agenda; asked as genuine wonder, not as a gotcha.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Single clean question, holds silence, does not chase the client's reframe.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the deflection from feeling to mechanism with impartial precision — no judgment, real curiosity about what moved.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Slows pace dramatically against client's verbal speed; spare, embodied, no rush to interpret.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tentative invitation ('a little — just slightly'), undefended, no attachment to a particular outcome.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the space without filling it; trusts the feeling to speak rather than narrating for the client.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Question is fine but slightly more investigative than wonder-driven; could be read as pulling for history. Client pushes back next turn.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"how-do-you-not-trust-it\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Methodology coverage is partial (scored elsewhere), but stance itself is clearly in VIEW. Turn 14 is the only place I'd flag a faint pull toward investigation rather than pure wonder, and the coach does not double down when the client declines.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2239,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1103,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2239,
+    "output_tokens": 1103,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

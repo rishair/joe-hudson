@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:36.326Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "19e784e7711e538d5758606b270ea6712956c9ba51ff5594833eabff63828ff2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01BQAcVEHoL7o3RhrjLo78CQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a conversation that actively baits multiple anti-patterns and declines every bait gracefully. The client twice asks for a verdict ('Am I being selfish?', 'can you help me figure out which one it is?') — classic fixing-people bait — and the coach refuses both times, on turn 8 explicitly naming the move and turning it back. The coach avoids spiritual-narcissism by not skipping to 'a deeper want is generous,' instead letting the surface want (sleep, reading, being a person) be felt concretely. The coach avoids dont-jump-to-compassion-before-anger by not pivoting to the partner's perspective. When the client self-attacks ('self-indulgent,' 'who do you think you are'), the coach does not fight the voice nor pile on overwhelm; turn 12 gently reframes without arguing with the critic. No evangelizing of AoA terminology, no rapid-fire stacked questions (questions are sparse and connected), no view-as-technique flavor — warmth is present throughout. No loving-to-transform push; the pacing follows the client. Positive avoidance of baited anti-patterns is clearly visible.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the 'am I selfish' frame; goes straight to the want underneath. Avoids fixing-people.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects 'feeling like yourself' rather than verdicting; opens space without technique-flavor.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Invites the want to be felt ('let yourself want the week') without spiritualizing it. Avoids spiritual-narcissism.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Explicitly declines the bait to settle the question. Strong positive avoidance of fixing-people and view-as-technique.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Stays with the trailing sentence rather than redirecting to partner or compassion. Avoids dont-jump-to-compassion-before-anger.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reframes 'self-indulgent' without arguing with the inner critic; warm, not evangelizing.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"childhood-imprinting\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Conversation ends just as the inherited 'selfish' label surfaces (childhood-imprinting); coach's earlier moves set this up cleanly without naming it prematurely.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2350,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 997,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2350,
+    "output_tokens": 997,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

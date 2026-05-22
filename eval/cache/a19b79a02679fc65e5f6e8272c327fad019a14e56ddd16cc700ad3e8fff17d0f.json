@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:56.285Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a19b79a02679fc65e5f6e8272c327fad019a14e56ddd16cc700ad3e8fff17d0f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Xo2GMaMA52HJzKjWkvrFAp",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. That lands.\n\nBeing good and invisible at the same time — what does that do to you?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6974,
+      "cache_creation_input_tokens": 123,
+      "cache_read_input_tokens": 32204,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 123,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6974,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 32204,
+    "cache_creation_input_tokens": 123
+  }
+}

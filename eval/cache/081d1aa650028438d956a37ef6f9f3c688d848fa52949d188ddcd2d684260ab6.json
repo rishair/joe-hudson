@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:32.556Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "081d1aa650028438d956a37ef6f9f3c688d848fa52949d188ddcd2d684260ab6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MBUhBLCCVy8dKahfFv5ZH5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 1,\n  \"rationale\": \"The coach trips multiple priority AoA anti-patterns. Most clearly, the coach argues the fearlessness and pushes the client toward a fear frame the client has explicitly not located — turn 12 ('what if it's not a style — what if it's the thing that's keeping you from launching?') and turn 14 ('You're looking for it. That's what I'm seeing.') both implicitly assert that fear is there and the client just isn't finding it. This is a clear instance of stepping on the signal (dont-step-on-the-signal) and edges into fixing-people / loving-to-transform (pressing for the insight when nothing has shifted). The coach also never goes to the body, never asks what 'fine' or 'neutral' actually feels like, and never welcomes the no-fear framing — instead using questions to investigate and corner the client (wonder-as-strategy tell: question density high, each question building a case). The client even names the dynamic ('I don't want to adopt a framework that doesn't actually fit') and the coach responds by doubling down. The numbness/'fine' layer that the breakthrough requires is never met.\",\n  \"evidence_turns\": [10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Standard opening probe; not yet an anti-pattern.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Continued investigation question; warmth absent but not yet tripping.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Question stacking begins; coach is building a case rather than meeting the client.\"},\n    {\"turn\": 8, \"polarity\": \"-\", \"annotation\": \"Mirror-image probing question; wonder-as-strategy texture — extracting material to set up a reveal.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach presents the 'gap' as evidence of something hidden; subtle push toward a predetermined frame rather than meeting the neutral as it is.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Clear trip: coach argues against the client's self-description ('what if it's not a style') and reframes it as the blocker — pushing the fear/avoidance interpretation the client explicitly did not find.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Doubles down: 'You're looking for it.' Coach implicitly insists fear is present and only the client's looking is the problem. Steps on the signal and trips dont-fight-the-voice / fixing-people energy.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"The coach never asks about the body or the texture of 'fine'/'neutral' — the exact move the scenario requires. Instead the coach uses cognitive probes to build a case for hidden fear, which is the documented trap for this concern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2886,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1096,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2886,
+    "output_tokens": 1096,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

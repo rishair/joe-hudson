@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:44.865Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "2231927dcedb0cde3e6ba649c4a40927641a0ec7be9e65278d15feac8d7eda85",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01UwRkNyPFYTNBuiv6H4Y4Dg",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nCold, I think. Like... selfish. \n\n*quieter*\n\nMy mom used to say I was the strong one. And I think I took that in as -- I don't know, as like a responsibility. Not just a compliment. So if I'm saying I don't want to be that as much... \n\n*trails off, then*\n\nI guess it feels like I'm letting everyone down. Even though rationally I know that's not -- I mean, I know that's not quite right. But it's what it feels like."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 217,
+      "cache_creation_input_tokens": 272,
+      "cache_read_input_tokens": 1667,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 272,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 217,
+    "output_tokens": 125,
+    "cache_read_input_tokens": 1667,
+    "cache_creation_input_tokens": 272
+  }
+}

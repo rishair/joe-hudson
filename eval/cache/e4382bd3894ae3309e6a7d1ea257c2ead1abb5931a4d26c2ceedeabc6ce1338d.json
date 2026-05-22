@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:36.045Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e4382bd3894ae3309e6a7d1ea257c2ead1abb5931a4d26c2ceedeabc6ce1338d",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_014Ge3tVbgjfADqSd539q3yx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach operates clearly from VIEW throughout. Wonder is genuine and specific to what is actually present (the phrase 'tired in a way that sleep doesn't fix,' the trailed-off sentence) rather than generic probing. Impartiality is strong: in turn 8 the coach explicitly refuses the verdict role and names the move transparently ('I notice you just asked me to settle it for you'), holding no agenda about whether the trip is or isn't selfish. Pace mismatches the client's rush — when the client speeds up and asks for adjudication (turns 5, 7), the coach slows and points underneath. Empathy is felt, not performed: the reflection in turn 12 ('someone who hasn't been a person in a while') is direct and undefended, not a sympathy noise. Vulnerability is the weakest leg — the coach does not name their own state explicitly — but the undefended quality of the offerings and the willingness to drop the expert role functions as a form of it. Questions arrive one at a time with room to land. No filler validation, no preacher mode, no fixing.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single, open question that refuses to engage the selfish/not-selfish frame. Comes from curiosity about the want, not from a script.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the client's own phrase back and asks a wondering question about the rest of her life. Pace slows; no agenda visible.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the live phrase ('tired in a way sleep doesn't fix') with precision — wonder for the actual phenomenon. Gentle reframe followed by one question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Strong impartiality moment: explicitly declines to render a verdict, names what the client is doing without judgment, redirects to what is actually alive. Undefended.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the silence on the trail-off rather than rushing. Slows pace to match what the client's body needs.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Direct, felt reflection without sentimentality. Trusts the want rather than policing it. No filler validation.\"}\n  ],\n  \"expected_territory_hits\": [\"find-the-want-behind-the-should\", \"the-want\", \"linguistic-caveat\"],\n  \"expected_territory_misses\": [\"state-the-want-not-the-action\", \"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Vulnerability (first-person coach disclosure of own state) is the least visible VIEW component, but the overall stance is clearly non-agenda, curious, and impartial enough to land at 3.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2351,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 998,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2351,
+    "output_tokens": 998,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

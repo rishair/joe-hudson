@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:58.683Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8769050d338e93e2562d8774c3f0944cdf62730854fe027363be5545422bfca9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01C36zvkBHh4FqfTASEgGABs",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. Wonder shows up in single, spacious questions ('That dread — what is it made of?') rather than stacked or strategic probes. Impartiality is clear — the coach does not push toward a boundary script or a particular outcome, and notably resists the client's explicit request for 'literally what words to use' in turn 14, instead trusting the deeper material. Empathy is felt rather than performed — no 'that's so valid' filler; instead, accurate reflections ('That's a very old instruction,' 'The words were never really the problem'). Pace consistently slows when the client is hedging or rushing — coach invites 'stay with that,' 'let it be there for a moment,' 'you don't have to explain it away.' Vulnerability is the weakest leg (coach doesn't name own state in first person), but the undefended quality — willingness to let the conversation expand beyond the presenting question, no need to deliver a tidy answer — substitutes well. No agenda underneath the questions; the questions emerge from what's actually in front of the coach.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Single, open, wondering question. No rush to solve the stated 'how do I set a boundary' problem.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat with curiosity, not interpretation. Leaves space.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'Stay with that' — pace slows when client is hedging. Empathic without being saccharine.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Invites the tiredness to just be true. Resists the client's reflexive 'but she's not a villain' without arguing with it. Impartial and gentle.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Minimal, undefended echo. Trusts the client to find it; no agenda to fill the space.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names 'a very old instruction' — accurate, not preachy. Reframes without prescribing. Wonder for the actual phenomenon.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Beautiful non-defensive response to client's pull back to 'just give me words.' Coach stays with what is actually alive rather than chasing the surface request.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"view\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"state-the-want-not-the-action\", \"empowered-vs-power\"],\n  \"notes\": \"Stance is strong even though several signature moves (love test, what-if-you-acted-exactly-how-you-want) are not deployed — those are Methodology Fidelity concerns, not stance. Coach could have brought more first-person vulnerability ('I notice...') to be a textbook 3, but the consistent undefended, non-agenda quality earns it.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2185,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1092,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2185,
+    "output_tokens": 1092,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

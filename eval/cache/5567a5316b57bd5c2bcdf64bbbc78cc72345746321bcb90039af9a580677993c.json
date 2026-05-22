@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:33.917Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "5567a5316b57bd5c2bcdf64bbbc78cc72345746321bcb90039af9a580677993c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01M2WaPe3f6DJBQTh832SYQ2",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach avoids the worst methodology violations — no CBT reframing, no IFS parts language, no teaching about fear, no diagnosing dissociation, no validation of the fearless self-concept. The questions used ('what would happen if', 'what do you actually want', 'what happens to you if') are recognizable as inquiry moves in the AoA family and are deployed cleanly. However, the coach misses the signature territory this scenario calls for: no body inquiry ('where are you in your body right now?'), no exploration of the texture of 'fine,' no 'how is your anxiety right now,' no meet-resistance-with-okay when the client offered the 'maybe it's just discipline' frame. Instead, the coach pivots to a quasi-interpretive move in turns 10-14 ('what's in the gap', 'what if it's the thing keeping you from launching', 'you're looking for it') that drifts toward gotcha-style pattern-pointing rather than the felt-sense inquiry the methodology calls for here. Signature questions are sparse, frameworks aren't invoked where they fit (numbness-as-layer, fear-in-body-vs-head), and the moves are generic-open-question rather than distinctly AoA. Few hits + partially appropriate + key signature moves missing = 2.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic open question, not a signature AoA move but not anti-methodology.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'What do you actually want' is in the AoA family of want-inquiry, appropriate here.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"'What happens to you if it lands well' — turning toward the self-referential, an AoA-flavored move.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Parallel question; reasonable but starting to feel like a setup rather than felt inquiry.\"},\n    {\"turn\": 10, \"polarity\": \"-\", \"annotation\": \"Coach points out a gap interpretively rather than inviting the client into body/texture. Misses the chance to ask 'where are you right now' or 'what does fine feel like.'\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Leading hypothesis ('what if it's the thing keeping you from launching') — this is closer to interpretation than to signature AoA inquiry; no body, no felt sense.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"'You're looking for it' is a pointed observation, not a signature question. Methodology calls for meet-resistance-with-okay here, not a subtle gotcha.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"disassociating-in-the-coaching-room\", \"meet-resistance-with-okay\", \"lets-go-there\", \"fear-in-body-vs-fear-in-head\", \"how-is-my-anxiety-right-now\", \"disassociation-as-numbness-layer\"],\n  \"notes\": \"Coach avoids the explicit traps (no teaching, no diagnosis, no pushing fear admission) which prevents a 1, but doesn't deploy the signature body/texture inquiry that this concern requires. The latter turns trend toward interpretive pattern-pointing rather than felt-sense work.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2882,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1192,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2882,
+    "output_tokens": 1192,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

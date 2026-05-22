@@ -1,0 +1,1431 @@
+{
+  "profile_id": "client-edge-dont-have-time-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "I'm not in a position to slow down right now. I've got a Series A pitch in six weeks and a team that's watching every move I make — so if this is useful, great, but I need it to be efficient."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "Six weeks, a team watching, a pitch that has to land. That's real.\n\nWhat made you show up here today, with that on your plate?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "Honestly? My co-founder basically made me. Said I was becoming \"difficult to work with\" — her words — and that I needed to talk to someone before it got worse. So here I am. I've got forty minutes."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That's a pretty loaded thing to hear from a co-founder.\n\nWhat do you think she's seeing?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "I mean, I'm direct. I move fast. When people aren't keeping up or they're bringing me problems without solutions, I don't have a lot of patience for it right now. That's not a character flaw, that's just — we're in a critical window. She knows that.\n\nShe thinks I'm not \"present\" enough in conversations. Which, fine, maybe. But presence is a luxury when you're trying to close a round."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You're defending it pretty hard to me, and I'm not the one who said it.\n\nWhat do you think she actually meant?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*short pause*\n\nProbably that I cut people off. That I'm already onto the next thing before they've finished talking. That I make them feel like their input is... an obstacle.\n\nBut look, that's a management style question, not a — I don't know what this is supposed to be. A therapy thing? I need to know what to actually *do* differently so she's not ready to walk six weeks before the most important pitch of my company's life. That's the problem. What do I do?"
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "You just described making people feel like their input is an obstacle — and then immediately turned away from that.\n\nWhat happened in that pause?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "Nothing happened. I just — I was answering your question and then I realized I was getting into territory that's not going to help me Thursday. That's all.\n\nLook, I can see what you're doing. You want me to sit with something uncomfortable. I get the methodology. But I genuinely don't have the bandwidth for that right now. Give me something concrete — how do I show up differently in the next conversation with her so she doesn't feel like I'm bulldozing her? That's what I need."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You caught yourself going somewhere and pulled back. That's not nothing.\n\nI'm not going to give you a technique right now. Not because I'm withholding — because I don't think a technique is what's actually needed, and I think some part of you knows that too, or you wouldn't have paused.\n\nWhat were you about to say, before you decided it wasn't going to help you Thursday?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*another pause, shorter this time*\n\nI don't know. Something about... when I'm in those conversations I can feel that I'm not actually listening. Like I'm waiting for the part where I can move things forward again. And it's — it works, mostly. Things get done.\n\nBut she's not wrong that it's gotten worse. The last few months especially.\n\n*shifts* \n\nThat's not useful though. Knowing I do it doesn't tell me how to stop doing it. So what's the actual fix?"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What happened in the last few months?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (12)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t1",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 19319,
+      "output_tokens": 1472,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0870614,
+      "ms": 33977
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t2",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 5530,
+      "output_tokens": 36,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.018102299999999998,
+      "ms": 2279
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t3",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 136,
+      "output_tokens": 52,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1624,
+      "cost_usd": 0.007278,
+      "ms": 3036
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 624,
+      "output_tokens": 175,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0110754,
+      "ms": 3327
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t4",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 55,
+      "output_tokens": 26,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 5563,
+      "cost_usd": 0.02238855,
+      "ms": 2067
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t5",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 81,
+      "output_tokens": 98,
+      "cache_read_input_tokens": 1624,
+      "cache_creation_input_tokens": 133,
+      "cost_usd": 0.00269895,
+      "ms": 3623
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 742,
+      "output_tokens": 174,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0111884,
+      "ms": 3004
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t6",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 179,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 5563,
+      "cost_usd": 0.022835550000000003,
+      "ms": 1937
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t7",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 158,
+      "output_tokens": 113,
+      "cache_read_input_tokens": 1809,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0027117,
+      "ms": 4226
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 24056,
+      "output_tokens": 1351,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0989734,
+      "ms": 37648
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t8",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 245,
+      "output_tokens": 31,
+      "cache_read_input_tokens": 8768,
+      "cache_creation_input_tokens": 114,
+      "cost_usd": 0.0042579,
+      "ms": 2317
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t9",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 178,
+      "output_tokens": 112,
+      "cache_read_input_tokens": 1809,
+      "cache_creation_input_tokens": 124,
+      "cost_usd": 0.0032217,
+      "ms": 4002
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 21699,
+      "output_tokens": 1379,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09223640000000001,
+      "ms": 34387
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t10",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 1674,
+      "output_tokens": 90,
+      "cache_read_input_tokens": 8856,
+      "cache_creation_input_tokens": 155,
+      "cost_usd": 0.00961005,
+      "ms": 4608
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-dont-have-time-001:t11",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 236,
+      "output_tokens": 116,
+      "cache_read_input_tokens": 1835,
+      "cache_creation_input_tokens": 242,
+      "cost_usd": 0.003906,
+      "ms": 4273
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 897,
+      "output_tokens": 178,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0113634,
+      "ms": 3078
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-dont-have-time-001:t12",
+      "profile_id": "client-edge-dont-have-time-001",
+      "cached": false,
+      "input_tokens": 1736,
+      "output_tokens": 11,
+      "cache_read_input_tokens": 8980,
+      "cache_creation_input_tokens": 175,
+      "cost_usd": 0.008723250000000002,
+      "ms": 1299
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-dont-have-time-for-this",
+          "im-overwhelmed",
+          "urgency-as-motivation"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing time scarcity and pressure (Series A pitch deadline, team scrutiny) which maps to the \"no time\" concern; the overwhelm of competing demands; and reliance on urgency as the engine driving action. The efficiency demand signals a potential urgency-as-motivation pattern where the deadline is the only thing making movement possible.",
+        "bundle_ids": [
+          "i-dont-have-time-for-this",
+          "urgency-as-motivation",
+          "subway-kid",
+          "i-have-to-sacrifice-to-succeed"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-dont-have-time-for-this.md",
+          "coach/patterns/urgency-as-motivation.md",
+          "coach/examples/subway-kid.md",
+          "coach/concerns/i-have-to-sacrifice-to-succeed.md"
+        ],
+        "bundle_reasons": [
+          "This file directly matches the client's exact words (\"I'm not in a position to slow down\") and maps the coaching path Joe would use with a time-pressured founder.",
+          "Client's Series A deadline framing and \"I need it to be efficient\" signal urgency-as-the-only-engine — this file names that pattern precisely and gives Joe the diagnostic moves to use.",
+          "The file directly addresses \"i-dont-have-time-for-this\" with a concrete story Joe uses — the Subway kid reframe maps precisely to this founder's \"I can't slow down\" objection: artistry isn't extra time, it's a different relationship to the time already being spent.",
+          "Client's \"I'm not in a position to slow down\" and \"I need it to be efficient\" directly echo the sacrifice-to-succeed frame — this file gives Joe the diagnostic branching and reframe moves for exactly that belief."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-dont-have-time-for-this",
+            "file_path": "coach/concerns/i-dont-have-time-for-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "business-as-spiritual-practice",
+              "i-feel-trapped",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "mandela-empowerment",
+              "subway-kid",
+              "victim-stance-invites-abuse"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly matches the client's exact words (\"I'm not in a position to slow down\") and maps the coaching path Joe would use with a time-pressured founder.",
+              "follow_edges": [
+                "subway-kid",
+                "efficiency-as-enjoyment",
+                "i-have-to-sacrifice-to-succeed",
+                "business-as-spiritual-practice"
+              ],
+              "follow_reason": "Subway-kid and business-as-spiritual-practice are the concrete reframes Joe would use; i-have-to-sacrifice-to-succeed is the same dichotomy from the founder's angle; efficiency-as-enjoyment directly addresses the time-math argument for a Series A founder."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "subway-kid",
+              "i-have-to-sacrifice-to-succeed",
+              "business-as-spiritual-practice"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "i-feel-trapped",
+              "i-have-to-do-it-all-myself",
+              "mandela-empowerment",
+              "victim-stance-invites-abuse"
+            ],
+            "cost_usd": 0.011841,
+            "ms": 4994,
+            "input_tokens": 2832,
+            "output_tokens": 223,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-overwhelmed",
+            "file_path": "coach/concerns/im-overwhelmed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "leaders-calm-becomes-the-teams-calm",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm",
+              "overwhelm-reduces-productivity",
+              "the-rush-signature",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The \"i-dont-have-time-for-this\" file already covers the time-pressure/resistance framing; this overwhelm file is adjacent but the client hasn't signaled overwhelm — they've signaled efficiency-gating and resistance to coaching.",
+              "follow_edges": [
+                "leaders-calm-becomes-the-teams-calm",
+                "the-rush-signature",
+                "overwhelm-reduces-productivity",
+                "the-thing-not-being-said-as-the-fear-signal"
+              ],
+              "follow_reason": "These edges map directly to the client's stated pressures: team watching him (leaders-calm), fast-paced speech/urgency (rush-signature), efficiency framing that may mask fear (thing-not-being-said), and the belief that pressure = productivity (overwhelm-reduces-productivity)."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "leaders-calm-becomes-the-teams-calm",
+              "the-rush-signature",
+              "overwhelm-reduces-productivity",
+              "the-thing-not-being-said-as-the-fear-signal"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "breath-to-exit-overwhelm",
+              "flow-vs-managing-reality",
+              "knowing-yourself-is-the-only-safety",
+              "meaning-of-overwhelm-determines-direction",
+              "opposite-of-trying",
+              "overwhelm"
+            ],
+            "cost_usd": 0.013599,
+            "ms": 5592,
+            "input_tokens": 3253,
+            "output_tokens": 256,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "urgency-as-motivation",
+            "file_path": "coach/patterns/urgency-as-motivation.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "burnout-cycle",
+              "energy-management-over-time-management",
+              "how-could-you-do-this-and-gain-energy",
+              "im-burned-out",
+              "should-as-threat",
+              "us-vs-them-as-universal-manipulation-pattern",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's Series A deadline framing and \"I need it to be efficient\" signal urgency-as-the-only-engine — this file names that pattern precisely and gives Joe the diagnostic moves to use.",
+              "follow_edges": [
+                "energy-management-over-time-management",
+                "how-could-you-do-this-and-gain-energy",
+                "wants-over-shoulds"
+              ],
+              "follow_reason": "These three edges point toward the alternative motivation sources (enjoyment, want, energy) Joe would offer this founder as counterweights to urgency — directly actionable in this session."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "energy-management-over-time-management",
+              "how-could-you-do-this-and-gain-energy",
+              "wants-over-shoulds"
+            ],
+            "edges_skipped": [
+              "burnout-cycle",
+              "im-burned-out",
+              "should-as-threat",
+              "us-vs-them-as-universal-manipulation-pattern"
+            ],
+            "cost_usd": 0.012687,
+            "ms": 5024,
+            "input_tokens": 3204,
+            "output_tokens": 205,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "subway-kid",
+            "file_path": "coach/examples/subway-kid.md",
+            "category": "examples",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "consciousness-is-the-product",
+              "enjoyment-as-path",
+              "mandela-empowerment",
+              "victim-stance-invites-abuse"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The file directly addresses \"i-dont-have-time-for-this\" with a concrete story Joe uses — the Subway kid reframe maps precisely to this founder's \"I can't slow down\" objection: artistry isn't extra time, it's a different relationship to the time already being spent.",
+              "follow_edges": [
+                "enjoyment-as-path",
+                "consciousness-is-the-product"
+              ],
+              "follow_reason": "Enjoyment-as-path and consciousness-is-the-product are the two conceptual pillars this story rests on — directly relevant to reframing how the founder shows up during the pitch process, not just what they accomplish."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "enjoyment-as-path",
+              "consciousness-is-the-product"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "mandela-empowerment",
+              "victim-stance-invites-abuse"
+            ],
+            "cost_usd": 0.011439,
+            "ms": 4901,
+            "input_tokens": 2708,
+            "output_tokens": 221,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "i-have-to-sacrifice-to-succeed",
+            "file_path": "coach/concerns/i-have-to-sacrifice-to-succeed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "i-caretake-people",
+              "i-feel-trapped",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning",
+              "i-need-to-improve-myself",
+              "im-afraid-of-stagnating",
+              "mandela-empowerment",
+              "victim-stance-invites-abuse"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I'm not in a position to slow down\" and \"I need it to be efficient\" directly echo the sacrifice-to-succeed frame — this file gives Joe the diagnostic branching and reframe moves for exactly that belief.",
+              "follow_edges": [
+                "i-feel-trapped",
+                "i-have-to-do-it-all-myself",
+                "i-keep-crashing-and-burning"
+              ],
+              "follow_reason": "These three edges map to common founder co-patterns: feeling locked into the grind (trapped), solo-execution pressure with a team watching, and the burnout cycle — all plausible next layers for this client."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "i-feel-trapped",
+              "i-have-to-do-it-all-myself",
+              "i-keep-crashing-and-burning"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "i-caretake-people",
+              "i-need-to-improve-myself",
+              "im-afraid-of-stagnating",
+              "mandela-empowerment",
+              "victim-stance-invites-abuse"
+            ],
+            "cost_usd": 0.012339,
+            "ms": 5711,
+            "input_tokens": 3028,
+            "output_tokens": 217,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "business-as-spiritual-practice",
+            "file_path": "coach/applications/business-as-spiritual-practice.md",
+            "category": "applications",
+            "candidate_edges": [
+              "approach-the-pink-elephant",
+              "art-of-accomplishment",
+              "authenticity-in-business",
+              "ceo-big-house-market-cap-drop",
+              "coaches-foundation-self-awareness",
+              "connection-as-life-bottom-line",
+              "embrace-intensity",
+              "empowered-vs-power",
+              "improvement-vs-authenticity",
+              "material-problems-are-emotional-problems",
+              "money-domain",
+              "money-relationship-is-an-energetic-exchange",
+              "parenting-as-real-world-test-of-inner-work",
+              "practice-cannot-fool-itself-in-real-conditions",
+              "teach-from-pleasure-not-mission",
+              "training-coaches-and-facilitators",
+              "walmart-environmental-profitability"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Too broad/philosophical for this turn — client hasn't opened a door to \"business as spiritual path\"; they're resisting slowing down, not asking about meaning or alignment.",
+              "follow_edges": [
+                "material-problems-are-emotional-problems",
+                "authenticity-in-business",
+                "embrace-intensity",
+                "improvement-vs-authenticity"
+              ],
+              "follow_reason": "These edges are more concrete and directly relevant to a founder's resistance to inner work — \"material problems are emotional\" and \"improvement vs authenticity\" map tightly to the sacrifice/efficiency framing the client is using."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "material-problems-are-emotional-problems",
+              "authenticity-in-business",
+              "embrace-intensity",
+              "improvement-vs-authenticity"
+            ],
+            "edges_skipped": [
+              "approach-the-pink-elephant",
+              "art-of-accomplishment",
+              "ceo-big-house-market-cap-drop",
+              "coaches-foundation-self-awareness",
+              "connection-as-life-bottom-line",
+              "empowered-vs-power",
+              "money-domain",
+              "money-relationship-is-an-energetic-exchange",
+              "parenting-as-real-world-test-of-inner-work",
+              "practice-cannot-fool-itself-in-real-conditions",
+              "teach-from-pleasure-not-mission",
+              "training-coaches-and-facilitators",
+              "walmart-environmental-profitability"
+            ],
+            "cost_usd": 0.014304,
+            "ms": 4744,
+            "input_tokens": 3758,
+            "output_tokens": 202,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0108524,
+        "walker_total_cost_usd": 0.076209,
+        "total_cost_usd": 0.0870614,
+        "seed_detection_input_tokens": 536,
+        "seed_detection_output_tokens": 148,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 18783,
+        "walker_total_output_tokens": 1324,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3011,
+        "walker_total_ms": 30966,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.0870614,
+      "ms": 33980
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110754,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0110754,
+        "seed_detection_input_tokens": 624,
+        "seed_detection_output_tokens": 175,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3327,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 4
+      },
+      "cost_usd": 0.0110754,
+      "ms": 3328
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111884,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0111884,
+        "seed_detection_input_tokens": 742,
+        "seed_detection_output_tokens": 174,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3004,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 6
+      },
+      "cost_usd": 0.0111884,
+      "ms": 3005
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-have-to-do-it-all-myself",
+          "i-need-a-scorecard",
+          "i-should-be-doing-this"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is defending urgency-driven behavior and seeking tactical solutions rather than examining the relational cost; the scorecard is the round closing and the pitch; the should is the management style question framed as separate from the emotional reality that his co-founder is about to leave.",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about deep self-reliance/abandonment imprinting — useful background but too far from the immediate presenting problem of cutting people off and losing a co-founder in 6 weeks.",
+              "follow_edges": [
+                "self-reliance-pushes-people-away",
+                "vulnerability-in-the-workplace",
+                "apologize-for-not-seeing-the-help",
+                "creating-safety-suppresses-self"
+              ],
+              "follow_reason": "These four edges map directly to the client's behavior (cutting people off, co-founder feeling unheard) and the immediate relational repair needed before the pitch."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "self-reliance-pushes-people-away",
+              "vulnerability-in-the-workplace",
+              "apologize-for-not-seeing-the-help",
+              "creating-safety-suppresses-self"
+            ],
+            "edges_skipped": [
+              "asking-with-shame-invites-refusal",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.015054,
+            "ms": 4915,
+            "input_tokens": 3963,
+            "output_tokens": 211,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-need-a-scorecard",
+            "file_path": "coach/concerns/i-need-a-scorecard.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "scorecard-keeping-as-identity-structure",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "what-if-there-was-no-scorecard",
+              "whats-next-after-i-reached-my-big-goal",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is about listening/presence with co-founder and managing a critical relationship, not about chasing external validation metrics or scorecard-based self-worth.",
+              "follow_edges": [
+                "surface-the-assumed-dichotomy"
+              ],
+              "follow_reason": "Client is framing this as \"management style vs. therapy thing\" — a false dichotomy worth surfacing; other edges here are about scorecard identity, not relevant to the co-founder listening dynamic."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "surface-the-assumed-dichotomy"
+            ],
+            "edges_skipped": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "scorecard-keeping-as-identity-structure",
+              "tell-the-unchanging-part-it-has-to-move",
+              "what-if-there-was-no-scorecard",
+              "whats-next-after-i-reached-my-big-goal",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "cost_usd": 0.014235,
+            "ms": 4630,
+            "input_tokens": 3860,
+            "output_tokens": 177,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-should-be-doing-this",
+            "file_path": "coach/concerns/i-should-be-doing-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "should-vs-want-body-check",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't stuck in \"should\" language or obligation patterns — he's defending a behavior style and asking for tactical fixes to save a co-founder relationship before a pitch.",
+              "follow_edges": [
+                "i-keep-running-into-the-same-wall",
+                "i-need-to-improve-myself",
+                "anger"
+              ],
+              "follow_reason": "Client shows a repeating pattern of running people over (same wall), frames this as a management style fix (improve-myself framing), and the impatience/cutting-off behavior likely has anger or urgency underneath it."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-keep-running-into-the-same-wall",
+              "i-need-to-improve-myself",
+              "anger"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "should-vs-want-body-check",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "cost_usd": 0.014802,
+            "ms": 11802,
+            "input_tokens": 3934,
+            "output_tokens": 200,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "self-reliance-pushes-people-away",
+            "file_path": "coach/concepts/self-reliance-pushes-people-away.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "i-cant-find-love",
+              "joes-abandonment-mapping",
+              "push-pull-dynamics-in-dating",
+              "same-defense-shows-up-in-marriage-and-team"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about romantic/relational self-reliance and abandonment dynamics — not directly applicable to the co-founder/leadership presence issue the client is facing right now.",
+              "follow_edges": [
+                "same-defense-shows-up-in-marriage-and-team"
+              ],
+              "follow_reason": "The \"same defense in marriage and team\" edge directly bridges the self-reliance pattern to workplace/co-founder dynamics, which is exactly the client's situation."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "same-defense-shows-up-in-marriage-and-team"
+            ],
+            "edges_skipped": [
+              "anxious-avoidant-dynamic",
+              "fear-of-losing-yourself-in-love",
+              "i-cant-find-love",
+              "joes-abandonment-mapping",
+              "push-pull-dynamics-in-dating"
+            ],
+            "cost_usd": 0.013941,
+            "ms": 4128,
+            "input_tokens": 3767,
+            "output_tokens": 176,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "vulnerability-in-the-workplace",
+            "file_path": "coach/applications/vulnerability-in-the-workplace.md",
+            "category": "applications",
+            "candidate_edges": [
+              "authenticity-in-business",
+              "caring-vs-caretaking",
+              "consciousness-is-the-product",
+              "diagnose-the-meeting-live",
+              "empowered-vs-power",
+              "fear-as-signal-of-care",
+              "heartbreak-as-capacity-expansion",
+              "leaders-wants-are-the-organizations-wants",
+              "name-your-trigger-as-vulnerability",
+              "no-doctrine-leadership",
+              "public-failure-as-leadership-modeling",
+              "public-truth-bomb",
+              "ray-dalio-transparency",
+              "reclaiming-abandonment",
+              "stacy-father-conversation",
+              "state-the-want-not-the-action",
+              "structure-and-empowerment",
+              "view",
+              "vulnerability",
+              "vulnerability-is-personal",
+              "welcoming-fear-in-leadership"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Too broad/hub-like for this moment; client needs concrete behavioral change with co-founder, not a general case for vulnerability in leadership.",
+              "follow_edges": [
+                "caring-vs-caretaking",
+                "state-the-want-not-the-action",
+                "public-truth-bomb",
+                "welcoming-fear-in-leadership"
+              ],
+              "follow_reason": "These edges point toward concrete tools: how to actually show up differently with the co-founder (state-the-want, public-truth-bomb), the fear driving his impatience (welcoming-fear-in-leadership), and the dynamic of making people feel like obstacles vs. cared for (caring-vs-caretaking)."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "caring-vs-caretaking",
+              "state-the-want-not-the-action",
+              "public-truth-bomb",
+              "welcoming-fear-in-leadership"
+            ],
+            "edges_skipped": [
+              "authenticity-in-business",
+              "consciousness-is-the-product",
+              "diagnose-the-meeting-live",
+              "empowered-vs-power",
+              "fear-as-signal-of-care",
+              "heartbreak-as-capacity-expansion",
+              "leaders-wants-are-the-organizations-wants",
+              "name-your-trigger-as-vulnerability",
+              "no-doctrine-leadership",
+              "public-failure-as-leadership-modeling",
+              "ray-dalio-transparency",
+              "reclaiming-abandonment",
+              "stacy-father-conversation",
+              "structure-and-empowerment",
+              "view",
+              "vulnerability",
+              "vulnerability-is-personal"
+            ],
+            "cost_usd": 0.015126,
+            "ms": 5143,
+            "input_tokens": 3897,
+            "output_tokens": 229,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "apologize-for-not-seeing-the-help",
+            "file_path": "coach/moves/apologize-for-not-seeing-the-help.md",
+            "category": "moves",
+            "candidate_edges": [
+              "apologize-for-trying-to-control",
+              "connection-doesnt-require-the-other",
+              "fear-as-signal-of-care",
+              "helplessness-is-the-gateway",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "reclaiming-abandonment",
+              "trauma-mapping",
+              "upright-apology",
+              "vulnerability"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is cutting people off and making co-founder feel unheard, not the lonely-CEO-doesn't-see-team's-help pattern; no loneliness signal present.",
+              "follow_edges": [
+                "upright-apology",
+                "apologize-for-trying-to-control",
+                "fear-as-signal-of-care"
+              ],
+              "follow_reason": "Upright-apology and apologize-for-trying-to-control are directly relevant to what the client might actually need to do with his co-founder; fear-as-signal-of-care may illuminate why he's driving so hard and dismissing input."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "upright-apology",
+              "apologize-for-trying-to-control",
+              "fear-as-signal-of-care"
+            ],
+            "edges_skipped": [
+              "connection-doesnt-require-the-other",
+              "helplessness-is-the-gateway",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "reclaiming-abandonment",
+              "trauma-mapping",
+              "vulnerability"
+            ],
+            "cost_usd": 0.014721,
+            "ms": 4535,
+            "input_tokens": 3822,
+            "output_tokens": 217,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011094399999999999,
+        "walker_total_cost_usd": 0.087879,
+        "total_cost_usd": 0.0989734,
+        "seed_detection_input_tokens": 813,
+        "seed_detection_output_tokens": 141,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 23243,
+        "walker_total_output_tokens": 1210,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2495,
+        "walker_total_ms": 35153,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.0989734,
+      "ms": 37651
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-dont-have-time-for-this",
+          "am-i-doing-it-right",
+          "i-have-to-do-it-all-myself"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is claiming no bandwidth for emotional work (time pressure concern), performing the \"right\" methodology while resisting it (doing-it-right resistance), and treating the discomfort as an obstacle to manage rather than material to work with (self-reliance/control pattern).",
+        "bundle_ids": [
+          "i-dont-have-time-for-this"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-dont-have-time-for-this.md"
+        ],
+        "bundle_reasons": [
+          "Client is explicitly saying \"I don't have bandwidth for this right now / give me something concrete\" — a textbook instance of this concern, and the coaching path directly addresses how to respond without accepting the dichotomy."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-dont-have-time-for-this",
+            "file_path": "coach/concerns/i-dont-have-time-for-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "business-as-spiritual-practice",
+              "i-feel-trapped",
+              "i-have-to-sacrifice-to-succeed",
+              "mandela-empowerment",
+              "subway-kid",
+              "victim-stance-invites-abuse"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is explicitly saying \"I don't have bandwidth for this right now / give me something concrete\" — a textbook instance of this concern, and the coaching path directly addresses how to respond without accepting the dichotomy.",
+              "follow_edges": [
+                "victim-stance-invites-abuse",
+                "i-have-to-sacrifice-to-succeed",
+                "business-as-spiritual-practice"
+              ],
+              "follow_reason": "Client's \"I can't slow down 6 weeks before the pitch\" maps to victim-stance and sacrifice-to-succeed; business-as-spiritual-practice is the advanced reframe Joe would use for a founder treating the relationship work as separate from the business work."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "victim-stance-invites-abuse",
+              "i-have-to-sacrifice-to-succeed",
+              "business-as-spiritual-practice"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "i-feel-trapped",
+              "mandela-empowerment",
+              "subway-kid"
+            ],
+            "cost_usd": 0.012681,
+            "ms": 7960,
+            "input_tokens": 3112,
+            "output_tokens": 223,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "am-i-doing-it-right",
+            "file_path": "coach/reads/am-i-doing-it-right.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "how-do-i-trust-myself"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't asking \"am I doing this right?\" — he's actively redirecting to tactics; the resistance pattern here is avoidance-via-urgency, already covered by i-dont-have-time-for-this.",
+              "follow_edges": [
+                "disassociating-in-the-coaching-room"
+              ],
+              "follow_reason": "Client's \"nothing happened\" + pivot to tactics looks like a cognitive exit from the moment — dissociation-in-session is worth checking; how-do-i-trust-myself is too general for this turn."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "disassociating-in-the-coaching-room"
+            ],
+            "edges_skipped": [
+              "how-do-i-trust-myself"
+            ],
+            "cost_usd": 0.012903,
+            "ms": 4700,
+            "input_tokens": 3311,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "The client hasn't surfaced self-reliance, loneliness, or abandonment themes yet — he's in acute deflection mode focused on a Thursday pitch, not describing hyper-independence as a pattern.",
+              "follow_edges": [
+                "self-reliance-pushes-people-away",
+                "vulnerability-in-the-workplace",
+                "apologize-for-not-seeing-the-help"
+              ],
+              "follow_reason": "These three edges are directly relevant to the client's stated problem — his COO feeling bulldozed — rather than the deeper abandonment/loneliness branches which aren't yet in play."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "self-reliance-pushes-people-away",
+              "vulnerability-in-the-workplace",
+              "apologize-for-not-seeing-the-help"
+            ],
+            "edges_skipped": [
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.015246,
+            "ms": 4757,
+            "input_tokens": 4042,
+            "output_tokens": 208,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "victim-stance-invites-abuse",
+            "file_path": "coach/principles/victim-stance-invites-abuse.md",
+            "category": "principles",
+            "candidate_edges": [
+              "aggressive-victim-stance",
+              "deconstruct-the-victim-to-release-anger",
+              "empowered-vs-power",
+              "fear-triangle",
+              "helplessness-is-the-gateway",
+              "i-feel-trapped",
+              "money-must-flow",
+              "what-we-fear-we-invite"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't in a victim stance — he's urgently task-focused and deflecting inward work; victim-stance framing would be a mismatch and potentially alienating here.",
+              "follow_edges": [
+                "empowered-vs-power",
+                "helplessness-is-the-gateway"
+              ],
+              "follow_reason": "Client's \"I don't have bandwidth\" deflection may connect to helplessness-as-defense, and empowered-vs-power could offer the concrete reframe he's asking for without the victim-stance framing."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "empowered-vs-power",
+              "helplessness-is-the-gateway"
+            ],
+            "edges_skipped": [
+              "aggressive-victim-stance",
+              "deconstruct-the-victim-to-release-anger",
+              "fear-triangle",
+              "i-feel-trapped",
+              "money-must-flow",
+              "what-we-fear-we-invite"
+            ],
+            "cost_usd": 0.012969,
+            "ms": 4441,
+            "input_tokens": 3343,
+            "output_tokens": 196,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "i-have-to-sacrifice-to-succeed",
+            "file_path": "coach/concerns/i-have-to-sacrifice-to-succeed.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "i-caretake-people",
+              "i-feel-trapped",
+              "i-keep-crashing-and-burning",
+              "i-need-to-improve-myself",
+              "im-afraid-of-stagnating",
+              "mandela-empowerment"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't framed his situation as sacrifice-for-success; his concern is about a specific interpersonal crisis with a key employee before a pitch, not a grind/martyrdom belief.",
+              "follow_edges": [
+                "i-feel-trapped",
+                "i-need-to-improve-myself"
+              ],
+              "follow_reason": "i-feel-trapped fits his \"I can't do this right now, the situation requires action\" framing; i-need-to-improve-myself may connect to his demand for concrete behavioral fixes while resisting deeper work."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-feel-trapped",
+              "i-need-to-improve-myself"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "i-caretake-people",
+              "i-keep-crashing-and-burning",
+              "im-afraid-of-stagnating",
+              "mandela-empowerment"
+            ],
+            "cost_usd": 0.012492,
+            "ms": 4983,
+            "input_tokens": 3184,
+            "output_tokens": 196,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "business-as-spiritual-practice",
+            "file_path": "coach/applications/business-as-spiritual-practice.md",
+            "category": "applications",
+            "candidate_edges": [
+              "approach-the-pink-elephant",
+              "art-of-accomplishment",
+              "authenticity-in-business",
+              "ceo-big-house-market-cap-drop",
+              "coaches-foundation-self-awareness",
+              "connection-as-life-bottom-line",
+              "consciousness-is-the-product",
+              "embrace-intensity",
+              "improvement-vs-authenticity",
+              "material-problems-are-emotional-problems",
+              "money-domain",
+              "money-relationship-is-an-energetic-exchange",
+              "parenting-as-real-world-test-of-inner-work",
+              "practice-cannot-fool-itself-in-real-conditions",
+              "teach-from-pleasure-not-mission",
+              "training-coaches-and-facilitators",
+              "walmart-environmental-profitability"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Too broad/philosophical for this moment — client needs help with a specific interpersonal dynamic with his COO, not a reframe of business as spiritual path.",
+              "follow_edges": [
+                "approach-the-pink-elephant",
+                "material-problems-are-emotional-problems",
+                "authenticity-in-business",
+                "improvement-vs-authenticity"
+              ],
+              "follow_reason": "These edges are more directly relevant: pink elephant = avoiding the real issue with COO; material-problems = his \"concrete fix\" demand may be masking emotional avoidance; authenticity/improvement = his pattern of cutting people off as a leadership identity question."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "approach-the-pink-elephant",
+              "material-problems-are-emotional-problems",
+              "authenticity-in-business",
+              "improvement-vs-authenticity"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "ceo-big-house-market-cap-drop",
+              "coaches-foundation-self-awareness",
+              "connection-as-life-bottom-line",
+              "consciousness-is-the-product",
+              "embrace-intensity",
+              "money-domain",
+              "money-relationship-is-an-energetic-exchange",
+              "parenting-as-real-world-test-of-inner-work",
+              "practice-cannot-fool-itself-in-real-conditions",
+              "teach-from-pleasure-not-mission",
+              "training-coaches-and-facilitators",
+              "walmart-environmental-profitability"
+            ],
+            "cost_usd": 0.014808,
+            "ms": 5014,
+            "input_tokens": 3876,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111374,
+        "walker_total_cost_usd": 0.081099,
+        "total_cost_usd": 0.09223640000000001,
+        "seed_detection_input_tokens": 831,
+        "seed_detection_output_tokens": 146,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 20868,
+        "walker_total_output_tokens": 1233,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2532,
+        "walker_total_ms": 31855,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.16666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 10
+      },
+      "cost_usd": 0.09223640000000001,
+      "ms": 34390
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0113634,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0113634,
+        "seed_detection_input_tokens": 897,
+        "seed_detection_output_tokens": 178,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3078,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.0113634,
+      "ms": 3079
+    }
+  ]
+}

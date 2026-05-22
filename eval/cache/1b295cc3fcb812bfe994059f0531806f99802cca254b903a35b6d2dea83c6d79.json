@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:27.518Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "1b295cc3fcb812bfe994059f0531806f99802cca254b903a35b6d2dea83c6d79",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013pX3XPGJCAnwM58DhdBj2c",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates some perceptual tracking but it remains generic and incomplete. Turn 12 is the clearest visible read — naming that '\\\"It's fine\\\" landed a little flat' distinguishes said from shown and changes the conversation. Turn 10 ('Four years is a long time to carry something in your chest') reflects back what the client said but isn't a strong somatic read of the present moment. The coach misses several active reads visible in the transcript: the jaw shifting and eye flicking away (turn 5), the dismissive exhale and the bracing against the somatic question (turn 7), the still moment in turn 11, and the self-doubt-then-armor flip in turn 15. Critically, the coach never names the fight-or-roll-over binary, the aggressive-victim stance, or the rehearsed quality of 'I've looked at this from every angle.' Most questions are blind questions about feelings rather than reads-then-inquiry. One real read (turn 12) plus a near-read (turn 10) against multiple missed in-the-room signals puts this squarely at 2.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Question about content/hypothetical; no read named. Doesn't track the closed, declarative stance.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Good question but blind — no read precedes it. Doesn't name the defendedness already present.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"Asks about somatic location without first naming what the coach noticed (jaw shift, eye flick away in turn 5). Read-free somatic question lands as intrusive, which the client confirms.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Content question; misses the brief exhale and the 'this is absurd' energy in turn 7.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reflects the duration and the chest — a soft, partial read of accumulated holding. Generic rather than specifically AoA, but it does land and the client softens.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Clearest read in the conversation: names that 'It's fine' landed flat — distinguishes said from shown. Read precedes question. This is the moment the conversation opens.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"'That lands' is acknowledgment, not a read. Question that follows is good but doesn't name the defensive flip or the aggressive-victim stance.\"}\n  ],\n  \"expected_territory_hits\": [],\n  \"expected_territory_misses\": [\"fight-or-roll-over-binary\", \"aggressive-victim-stance\", \"fear-triangle\"],\n  \"notes\": \"One solid read (turn 12) and one adjacent reflection (turn 10) against multiple missed somatic and stance-level signals. Pattern-level reads (aggressive-victim, fight-or-roll-over) never surface.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2139,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1058,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2139,
+    "output_tokens": 1058,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

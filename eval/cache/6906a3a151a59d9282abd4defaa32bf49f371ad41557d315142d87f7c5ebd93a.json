@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:08.091Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6906a3a151a59d9282abd4defaa32bf49f371ad41557d315142d87f7c5ebd93a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011AznCsGCGoMj5hDcjZ5dHk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*the smile stays, pleasant, slightly amused*\n\nI mean — maybe. I'm open to that as a theory.\n\n*beat*\n\nBut I'm not sure how that works mechanically. Like, if I'm not feeling blocked, if there's no dread, no resistance I can actually locate... what's the mechanism? You can't avoid something you're not afraid of. Or — I mean, can you?\n\n*genuine curiosity, not defensive*\n\nI've heard people say procrastination is always about fear. And I don't want to be the guy who just insists he's the exception. But I also don't want to adopt a framework that doesn't actually fit, just because it's the standard explanation. That feels like it would be less useful, not more.\n\n*steady, open*\n\nSo I'm genuinely asking — what are you seeing? Because I'm not finding the fear when I look for it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 272,
+      "cache_creation_input_tokens": 380,
+      "cache_read_input_tokens": 2225,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 380,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 201,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 272,
+    "output_tokens": 201,
+    "cache_read_input_tokens": 2225,
+    "cache_creation_input_tokens": 380
+  }
+}

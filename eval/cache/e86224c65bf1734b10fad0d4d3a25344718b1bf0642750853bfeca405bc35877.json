@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:35.654Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e86224c65bf1734b10fad0d4d3a25344718b1bf0642750853bfeca405bc35877",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011JvFehD4HPmNh3CVDzEvFb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What does \"a while\" feel like in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6551,
+      "cache_creation_input_tokens": 124,
+      "cache_read_input_tokens": 18044,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 124,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6551,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 18044,
+    "cache_creation_input_tokens": 124
+  }
+}

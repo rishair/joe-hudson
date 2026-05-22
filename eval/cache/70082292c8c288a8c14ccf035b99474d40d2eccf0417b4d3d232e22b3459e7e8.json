@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:12.586Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "70082292c8c288a8c14ccf035b99474d40d2eccf0417b4d3d232e22b3459e7e8",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_019NiMqtGBNhBAHxcKDMfci7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"They always calm down eventually\" — has that actually been true?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7287,
+      "cache_creation_input_tokens": 7172,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7172,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 17,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7287,
+    "output_tokens": 17,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 7172
+  }
+}

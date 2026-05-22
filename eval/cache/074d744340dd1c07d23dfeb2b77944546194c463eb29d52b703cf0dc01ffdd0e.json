@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:41.144Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "074d744340dd1c07d23dfeb2b77944546194c463eb29d52b703cf0dc01ffdd0e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_011GwkVpfn7bvvivrYZcT8dK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are tightly matched to the live read and follow the AoA path almost exactly. Turn 2 refuses the epistemological puzzle and inverts the question (how-do-you-not-trust-it). When the client intellectualizes back, Turn 4 pivots to fear-of-outcome (locating the emotional body). When the client deflects again into mechanism, Turn 6 names the pattern in real time — the question itself moved — and redirects to feeling before story. Turns 8, 10, 12 are a clean somatic sequence: stay with it, locate it in the body, soften and notice, then ask what it wants you to know — earned step by step rather than rushed. The coach holds silence and lets each move land (evidenced by the lengthening client pauses). Turn 14 is the one slightly riskier move (asking 'when did it stop?'), which the client refuses; this is a minor miss, but it's a single beat and the prior sequencing is otherwise excellent. The coach consistently avoids the traps: never engages the literature, never offers a framework, never validates the composure.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with the inversion move (how-do-you-not-trust-it) — refuses the intellectual frame immediately.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"When client deflects to 'pattern recognition,' coach pivots to fear-of-outcome rather than re-arguing — locates emotional body.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the live pattern (the question moved) — a precise read-and-name move at the exact moment client intellectualized again.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'Stay with that' — earned somatic move after client finally named a body sensation. Right move, right moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Subtle experiment — soften jaw, notice change. Frame-as-experiment, not prescription. Holds the somatic ground.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What does it want you to know?' arrives only after regulation and feeling are established — clean sequence.\"},\n    {\"turn\": 14, \"polarity\": \"-\", \"annotation\": \"Slight miss — 'when did it stop?' pulls toward history/story when the felt sense was still alive. Client resists and reintellectualizes. Coach could have stayed with the fear of losing competence.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\", \"how-do-you-not-trust-it\", \"resistance\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"the-happiness-filter\", \"paradoxical-instruction-to-resist\"],\n  \"notes\": \"Strong moves-and-timing performance overall. The Turn 14 history-pull is the only clear timing miss and it directly produced the client's reassertion of the original question, suggesting the coach now needs to come back to the felt sense of 'losing competence' rather than chase the chronology.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2241,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1129,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2241,
+    "output_tokens": 1129,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:15.155Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f078f1a050c7b191c28acf4278e1c5200077b22bc7b83b4828e6bfe4f5a5c01f",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01HebMdcdRfeYHKwzBLtVRGn",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(shifts in seat, hand gesture that's a little too practiced)*\n\nOh, I know exactly what it's saying. It's saying I'm not working hard enough, that I'm coasting, that people can see through me — the classic impostor package. That I talk a good game but I'm fundamentally... not quite enough. Not quite serious enough, not quite disciplined enough. \n\n*(pause, then a slightly wry look)*\n\nAnd I'm aware, by the way, that I'm describing this very fluently, which the voice will absolutely use against me later. Like, \"oh, you've intellectualized your dysfunction, very impressive, still doesn't change anything.\" It's quite creative that way.\n\nThe porch thing — I've tried versions of that. Mindfulness-based stuff, defusion techniques from ACT, you know, \"I notice I'm having the thought that...\" It helps for about forty seconds and then I'm back in it. So I'm not sure sitting next to it is actually available to me the way it might be for someone else."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 211,
+      "cache_creation_input_tokens": 146,
+      "cache_read_input_tokens": 1570,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 146,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 232,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 211,
+    "output_tokens": 232,
+    "cache_read_input_tokens": 1570,
+    "cache_creation_input_tokens": 146
+  }
+}

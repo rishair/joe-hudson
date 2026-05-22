@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:24:31.399Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c70d8a891935cd8acc62dd88bd204e84500db229d8e7e9183a76a6f09f6c0ed6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FreWvgE34jBP1ufnP8RUHM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Stay with the \"hm\" for a second — not the psychology of it.\n\nWhat was it like to say that out loud?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 13957,
+      "cache_creation_input_tokens": 277,
+      "cache_read_input_tokens": 33532,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 277,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 13957,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 33532,
+    "cache_creation_input_tokens": 277
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:38.689Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "195cdc905d337401b60f54b4e9b662bde119fb82b49ab89f2a68ed20fc3117b3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VnZ7M3EDhp3dz6F9DE1YqF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. The words were never really the problem, were they.\n\n*pause*\n\nWhat's it like to have just said that — that you don't know what you are to them without the role?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 12533,
+      "cache_creation_input_tokens": 15122,
+      "cache_read_input_tokens": 39998,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 15122,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 12533,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 39998,
+    "cache_creation_input_tokens": 15122
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:25:37.456Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8d26f7972d188638580608672fc09a35fd78b3a7d98d163360caa68b9a5ba015",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01SfDmduBBDxFtm7dVcTXJ4u",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently chose moves that matched the live read and held the moment after each move. Turn 2 reframes the war itself ('what if wanting it to shut up is the thing that keeps it loud') without offering a tool. When the client deflects intellectually in turn 3, the coach refuses the bait of arguing technique and instead pivots to a felt-sense question ('what's it actually saying?'). When the client signals comparison/shame in turn 5 ('the way it might be for someone else'), the coach catches that exact phrase in turn 6 and goes underneath it. When 'frustrated' shifts to 'tired,' the coach distinguishes them and invites embodiment (turn 8). Critically, when the client flags performance risk around body scans (turn 9), the coach pivots immediately ('let's not do a body scan') — a textbook example of reading a miss and adjusting rather than doubling down. Turns 10, 12, and 14 are minimal, well-timed deepeners that stay with what just emerged ('what are you holding up?', 'stay with the hm,' 'what are you protecting?'), and the coach holds silence rather than packaging the voice-as-care reframe as a clever insight — letting the client discover it herself in turn 15 ('it's paying attention'). Sequence integrity is intact: regulation → feeling → underneath the story, with no jump to action or practice.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the war as the problem rather than offering a tool; matches the read of exhausted resistance.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Metaphor of porch is slightly didactic but pivots away from it quickly to a curiosity question; doesn't insist.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Catches the exact phrase signaling comparison/shame and goes underneath rather than engaging the content.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Distinguishes 'tired' from 'frustrated' — precise read — and invites felt sense without prescribing technique.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Reads the performance-risk flag and pivots away from body scan; honors the client's self-awareness and reroutes the move.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the 'hm' — refuses to let the client intellectualize back out of the opening.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Permission for the voice ('let the voice have its opinion') models meet-resistance-with-okay, then opens the protection question.\"}\n  ],\n  \"expected_territory_hits\": [\"apply-view-to-the-voice\", \"meet-resistance-with-okay\", \"resistance\", \"what-are-you-defending\", \"voice-as-care\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"rehearsing-how-to-say-it\"],\n  \"notes\": \"Voice-as-care emerged from the client (turn 15) rather than being delivered as a coach insight — exactly the trust-the-client move the scenario requires. The porch metaphor in turn 4 was the only borderline didactic moment but was quickly dropped.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3311,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1154,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3311,
+    "output_tokens": 1154,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:27.943Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "730301ee9f67ae935f9caffb46556994a2c29e6bdd18ba9064613d6ad7688a5a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013NZ24WqF3nsVnFFmxXYTdA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, jaw shifts*\n\nI don't — I'm not scared of anything. It's just a fact. The org chart is what it is. I've looked at this from every angle. It's not a feeling problem, it's a structural problem.\n\n*brief eye contact, then away*\n\nI mean, what am I supposed to feel about it? Angry? Sure. Already there. That's not the issue."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 107,
+      "cache_creation_input_tokens": 109,
+      "cache_read_input_tokens": 1597,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 109,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 93,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 107,
+    "output_tokens": 93,
+    "cache_read_input_tokens": 1597,
+    "cache_creation_input_tokens": 109
+  }
+}

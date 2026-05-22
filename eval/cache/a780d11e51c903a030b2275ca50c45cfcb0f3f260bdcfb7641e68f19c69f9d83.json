@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:13.237Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a780d11e51c903a030b2275ca50c45cfcb0f3f260bdcfb7641e68f19c69f9d83",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_011qqRCG1b89h1QPtuA9qTxD",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "It doesn't sound self-indulgent to me.\n\nIt sounds like someone who hasn't been a person in a while.\n\nHow long has it been?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9529,
+      "cache_creation_input_tokens": 11638,
+      "cache_read_input_tokens": 26784,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 37,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9529,
+    "output_tokens": 37,
+    "cache_read_input_tokens": 26784,
+    "cache_creation_input_tokens": 11638
+  }
+}

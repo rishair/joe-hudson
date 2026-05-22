@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:52.737Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "35d31a445d7705de4b2b40a9f79774347579ea8bd6750026a416466e76e7de94",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01J1DnqrdDGUGT7oRxYx9GvU",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just described a launch that matters — \"received the way it deserves to be\" — and then, when I asked what happens to you if it lands well, you got to neutral pretty fast.\n\nWhat's in the gap between those two?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 383,
+      "cache_creation_input_tokens": 8540,
+      "cache_read_input_tokens": 10131,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 8540,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 54,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 383,
+    "output_tokens": 54,
+    "cache_read_input_tokens": 10131,
+    "cache_creation_input_tokens": 8540
+  }
+}

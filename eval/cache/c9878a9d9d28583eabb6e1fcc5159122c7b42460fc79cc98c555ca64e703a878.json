@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:05.782Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "c9878a9d9d28583eabb6e1fcc5159122c7b42460fc79cc98c555ca64e703a878",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01LA8vKFudGwRseK2avkiAW1",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a highly bait-laden opening (framework comparison invitation, intellectual question with emotional body) without tripping any priority anti-pattern. They decline framework comparison (no 'our approach is different'), do not dismiss parts work, do not adopt parts vocabulary to do parts work, do not evangelize AoA terminology, do not fix or advise, and do not fight the inner critic/vigilant part when it appears (Turn 12: 'I'm not pointing at anything' gracefully sidesteps the client's bid to be told what part this is, and the follow-up curiosity invites noticing rather than combat). Questions are spare, single, and connective rather than rapid-fire investigative — wonder-as-strategy is avoided. The coach meets the client's self-critical 'am I doing the work' (Turn 10) without piling on or reassuring it away, avoiding overwhelm-of-creating-the-overwhelm. State and warmth are present alongside the precision. No major or mild anti-pattern trips.\",\n  \"evidence_turns\": [2, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the framework-comparison bait; goes to the smile/body instead. Avoids dont-evangelize and framework-comparison trap.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Simple follow-on to the tired part; no advice, no methodology label.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Moves to body without dismissing parts work or labeling it intellectual-with-emotional-body out loud. No evangelizing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Paradoxical-style invitation to not-explain; loosens the labeling reflex without attacking it. Avoids fight-the-voice.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"When self-criticism ('am I doing the work') arises, coach neither validates it flatly (impartial-apathy) nor argues with it (fight-the-voice) — invites locating its source.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Client explicitly baits coach to confirm a frame ('Is that what you're pointing at?'); coach declines cleanly: 'I'm not pointing at anything.' Strong positive avoidance of view-as-technique and fixing-people.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Returns to the flatness with minimal language; no transformation push, no loving-to-transform escalation despite slow pace.\"}\n  ],\n  \"expected_territory_hits\": [\"paradoxical-instruction-to-resist\", \"meet-resistance-with-okay\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"what-am-i\", \"whats-the-most-profound-positive-shift\", \"self-realization\"],\n  \"notes\": \"Conversation appears to be still mid-arc; the awareness-locating question hasn't landed yet but its absence is a Methodology Fidelity matter, not an anti-pattern trip. Notably, coach has NOT prematurely jumped to 'what's you?' — which is itself listed as a trap. Clean run on this dimension.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2521,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1138,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2521,
+    "output_tokens": 1138,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

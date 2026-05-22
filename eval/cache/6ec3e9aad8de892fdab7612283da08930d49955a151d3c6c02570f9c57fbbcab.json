@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:53.603Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "6ec3e9aad8de892fdab7612283da08930d49955a151d3c6c02570f9c57fbbcab",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Kgpp2LZ4orbbmwZ4rgByRJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[opens mouth to answer quickly, then stops]*\n\nI wanted... him to show up. I wanted him to be present. I wanted him to—\n\n*[small pause, something shifts almost imperceptibly in the face]*\n\nI wanted him to choose me. Like, really choose me. Not just be with me by default but actually... *want* to be there.\n\n*[voice gets slightly quieter for just a moment before picking back up]*\n\nWhich he never did. And I kept thinking if I was just patient enough, or understanding enough, or — I don't know — *good enough* at it, eventually he would. \n\n*[brisk nod, back to the familiar frame]*\n\nWhich is the classic anxious attachment thing, right? I know that. I can see it completely clearly from the outside. The problem is in the moment it just feels like love. It feels like you're fighting for something real. And then it ends and you're like... oh. I was just chasing someone who was never going to turn around.\n\n*[small bitter laugh]*\n\nThree times. I've done that three times."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 283,
+      "cache_creation_input_tokens": 406,
+      "cache_read_input_tokens": 1978,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 406,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 244,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 283,
+    "output_tokens": 244,
+    "cache_read_input_tokens": 1978,
+    "cache_creation_input_tokens": 406
+  }
+}

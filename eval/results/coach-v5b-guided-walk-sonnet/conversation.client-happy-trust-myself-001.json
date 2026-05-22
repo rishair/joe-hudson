@@ -1,0 +1,1741 @@
+{
+  "profile_id": "client-happy-trust-myself-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "How do you tell the difference between intuition and fear? I keep second-guessing myself on this decision and I genuinely can't figure out which voice is the right one."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "How do you not trust yourself right now?\n\nYou just wrote that. Something chose those words, that framing, that question. How did that happen?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight pause, a small smile*\n\nThat's... an interesting reframe. But I think what you're pointing at is more like — automatic language generation, pattern recognition. That's not the same as trusting myself on a significant decision with real consequences. The stakes are different.\n\nI mean, the question I'm asking is specifically about high-stakes situations where the cost of being wrong matters. Anyone can string a sentence together. That's not what I'm talking about."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What are you scared will happen if you get it wrong?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*small smile, slight tilt of the head*\n\nWell, that's the practical question, isn't it. If I take the offer and it's wrong — I've left something stable for something that doesn't work out. If I stay and it's wrong — I've passed on something that could have been genuinely better.\n\nThe costs are roughly symmetrical, which is part of why the decision is hard. Neither option is obviously safer.\n\n*brief pause*\n\nBut I think what I'm really trying to get at is more foundational than that — it's the mechanism. How do you actually know, in the moment, which signal to listen to? Because I've read the somatic markers literature, I've done enough meditation to notice body states, and I still can't reliably distinguish. The signals are ambiguous."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "You just did it again.\n\nThe question moved — from \"what am I scared of\" to \"how does the mechanism work.\" Something in you changed the subject.\n\nWhat's the feeling that was there, right before you went to the literature?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*pause, longer than the others*\n\n*looks down briefly*\n\n...nothing really.\n\n*another pause*\n\nActually — my jaw is tight. It has been this whole conversation, I think.\n\n*small smile, slightly more effortful now*\n\nThe feeling before I went to the literature was... something I didn't want to stay with. Something that felt a bit like — I don't know. Exposure, maybe."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Stay with that.\n\nNot the word for it. Just the feeling itself — where is it in your body right now?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*sits still for a moment*\n\n*the smile fades slightly*\n\nChest. There's something in the chest that's... compressed. Like it's waiting.\n\n*quiet*\n\nIt's not dramatic. It's just — there."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah.\n\nLet it be there. You don't have to do anything with it.\n\n*pause*\n\nCan you soften your jaw a little — just slightly — and notice if anything changes in the chest?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*does it*\n\n*longer pause than any before*\n\n...it gets a little bigger when I do that. The feeling. Not worse, just — more present.\n\n*quiet, not reaching for words*"
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "Good. Stay there.\n\n*pause*\n\nWhat does it want you to know?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*long pause*\n\n*the smile is mostly gone now*\n\nThat I'm... really afraid of losing something. Not just — not just the practical things. Something about who I am when I'm confident. When I know what I'm doing.\n\n*quieter*\n\nI used to just know. And I don't know when that stopped."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "When did it stop?"
+    },
+    {
+      "turn": 15,
+      "role": "client",
+      "content": "*pause*\n\n*something shifts slightly, a small tightening*\n\nI'm not — I don't think that's quite the right thread to pull right now. I don't want to turn this into something it's not.\n\n*the smile comes back, a little*\n\nI think what I'm noticing is that the fear is about... competence, maybe. Or credibility. To myself, mostly. If I make the wrong call, it confirms something I don't want confirmed.\n\n*beat*\n\nBut I still have to make the decision. So I'm back to the original question — how do I know which signal is trustworthy when I don't trust my own judgment?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (15)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t1",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 21483,
+      "output_tokens": 1294,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09114139999999998,
+      "ms": 33161
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t2",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 8400,
+      "output_tokens": 35,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0266973,
+      "ms": 3454
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t3",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 123,
+      "output_tokens": 101,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1495,
+      "cost_usd": 0.00749025,
+      "ms": 3851
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 709,
+      "output_tokens": 176,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011165399999999999,
+      "ms": 3157
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t4",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 104,
+      "output_tokens": 15,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8432,
+      "cost_usd": 0.0331293,
+      "ms": 2463
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t5",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 119,
+      "output_tokens": 175,
+      "cache_read_input_tokens": 1495,
+      "cache_creation_input_tokens": 120,
+      "cost_usd": 0.0038805000000000003,
+      "ms": 5348
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 933,
+      "output_tokens": 163,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0113244,
+      "ms": 2991
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t6",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 294,
+      "output_tokens": 54,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 8432,
+      "cost_usd": 0.034284300000000004,
+      "ms": 2883
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t7",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 247,
+      "output_tokens": 94,
+      "cache_read_input_tokens": 1716,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0026658000000000003,
+      "ms": 3386
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 23511,
+      "output_tokens": 1404,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0982414,
+      "ms": 35991
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t8",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 10678,
+      "output_tokens": 28,
+      "cache_read_input_tokens": 11638,
+      "cache_creation_input_tokens": 151,
+      "cost_usd": 0.03651164999999999,
+      "ms": 2578
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t9",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 179,
+      "output_tokens": 54,
+      "cache_read_input_tokens": 1716,
+      "cache_creation_input_tokens": 190,
+      "cost_usd": 0.0025743,
+      "ms": 2278
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 23452,
+      "output_tokens": 1345,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09711539999999999,
+      "ms": 33696
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t10",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 17992,
+      "output_tokens": 47,
+      "cache_read_input_tokens": 11774,
+      "cache_creation_input_tokens": 244,
+      "cost_usd": 0.0591282,
+      "ms": 2884
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t11",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 132,
+      "output_tokens": 47,
+      "cache_read_input_tokens": 1731,
+      "cache_creation_input_tokens": 323,
+      "cost_usd": 0.00283155,
+      "ms": 2611
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 655,
+      "output_tokens": 134,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0109014,
+      "ms": 2443
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t12",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 7612,
+      "output_tokens": 21,
+      "cache_read_input_tokens": 11964,
+      "cache_creation_input_tokens": 10528,
+      "cost_usd": 0.0662202,
+      "ms": 1730
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t13",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 118,
+      "output_tokens": 75,
+      "cache_read_input_tokens": 1960,
+      "cache_creation_input_tokens": 176,
+      "cost_usd": 0.002727,
+      "ms": 2945
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 23248,
+      "output_tokens": 1428,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0978364,
+      "ms": 40537
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-happy-trust-myself-001:t14",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 7722,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 22464,
+      "cache_creation_input_tokens": 7590,
+      "cost_usd": 0.058487700000000004,
+      "ms": 1941
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-happy-trust-myself-001:t15",
+      "profile_id": "client-happy-trust-myself-001",
+      "cached": false,
+      "input_tokens": 107,
+      "output_tokens": 148,
+      "cache_read_input_tokens": 2082,
+      "cache_creation_input_tokens": 148,
+      "cost_usd": 0.0037206,
+      "ms": 4358
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "i-feel-stuck",
+          "i-should-be-doing-this"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is expressing inability to distinguish intuition from fear and second-guessing themselves, which directly maps to the self-trust concern. The stuck feeling around decision-making and the implicit \"should\" about making the right choice are also present.",
+        "bundle_ids": [
+          "how-do-i-trust-myself",
+          "if-you-think-youre-deciding-youre-in-fear",
+          "how-do-you-not-trust-it"
+        ],
+        "bundle_paths": [
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+          "coach/questions/how-do-you-not-trust-it.md"
+        ],
+        "bundle_reasons": [
+          "This file is an exact match for the client's presenting question — \"how do I tell the difference between intuition and fear / I keep second-guessing myself\" — and contains Joe's full coaching path for this concern.",
+          "This file directly reframes the client's \"intuition vs fear\" question — the decision-feel IS the fear, which is the core diagnostic Joe would use here.",
+          "This file gives Joe a specific inversion technique (\"how do you NOT trust it?\") directly applicable to the client's \"I can't tell which voice is right\" framing — a concrete tool beyond the two already in bundle."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is an exact match for the client's presenting question — \"how do I tell the difference between intuition and fear / I keep second-guessing myself\" — and contains Joe's full coaching path for this concern.",
+              "follow_edges": [
+                "if-you-think-youre-deciding-youre-in-fear",
+                "intellectual-question-with-emotional-body",
+                "how-do-you-not-trust-it",
+                "what-makes-you-care-about-the-outcome"
+              ],
+              "follow_reason": "These four edges are the core moves in Joe's coaching path for this exact concern — reframing decision-as-fear, naming the intellectual/emotional gap, inverting the trust question, and excavating outcome-attachment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "if-you-think-youre-deciding-youre-in-fear",
+              "intellectual-question-with-emotional-body",
+              "how-do-you-not-trust-it",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.014418,
+            "ms": 4391,
+            "input_tokens": 3611,
+            "output_tokens": 239,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is asking about distinguishing intuition from fear, not reporting feeling stuck or paralyzed by the unknown — this file addresses a different presenting concern.",
+              "follow_edges": [],
+              "follow_reason": "The edges here (amplify-feeling, be-intimate, lets-go-there, peace-is-what-we-resist) are downstream of a \"stuck\" concern, not relevant to the intuition-vs-fear discernment question the client is actually asking."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "cost_usd": 0.013767,
+            "ms": 4396,
+            "input_tokens": 3694,
+            "output_tokens": 179,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-should-be-doing-this",
+            "file_path": "coach/concerns/i-should-be-doing-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "should-vs-want-body-check",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file addresses \"should\" language and obligation patterns — not the intuition-vs-fear distinction the client is wrestling with.",
+              "follow_edges": [
+                "should-vs-want-body-check",
+                "voice-in-the-head"
+              ],
+              "follow_reason": "Body-check for should-vs-want may contain somatic discernment tools relevant to distinguishing intuition from fear; voice-in-the-head may address the competing inner voices the client describes."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "should-vs-want-body-check",
+              "voice-in-the-head"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-keep-running-into-the-same-wall",
+              "i-need-a-scorecard",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "trigger",
+              "wants-over-shoulds"
+            ],
+            "cost_usd": 0.013779,
+            "ms": 5002,
+            "input_tokens": 3703,
+            "output_tokens": 178,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "if-you-think-youre-deciding-youre-in-fear",
+            "file_path": "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+            "category": "principles",
+            "candidate_edges": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly reframes the client's \"intuition vs fear\" question — the decision-feel IS the fear, which is the core diagnostic Joe would use here.",
+              "follow_edges": [
+                "ask-from-slowness-not-intellect",
+                "decisions-are-emotional",
+                "do-the-next-most-obvious-thing",
+                "good-decision-is-how-you-make-it-not-the-outcome"
+              ],
+              "follow_reason": "These edges address the practical \"what do I do instead\" question the client will have once the fear-as-decision reframe lands; the others (kids, principles, unconscious) are too tangential to this specific moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ask-from-slowness-not-intellect",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing",
+              "good-decision-is-how-you-make-it-not-the-outcome"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.01416,
+            "ms": 8275,
+            "input_tokens": 3600,
+            "output_tokens": 224,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about the coach's opening read when a client intellectualizes — but the client here has already surfaced the real emotional question directly, so this diagnostic move isn't needed.",
+              "follow_edges": [],
+              "follow_reason": "Both candidate edges (dissociation, profound-positive-shift) are upstream diagnostic tools; the client is already past that entry point and the bundle covers the core trust/fear distinction work."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "cost_usd": 0.011853,
+            "ms": 4244,
+            "input_tokens": 3116,
+            "output_tokens": 167,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "how-do-you-not-trust-it",
+            "file_path": "coach/questions/how-do-you-not-trust-it.md",
+            "category": "questions",
+            "candidate_edges": [
+              "trust-as-multifaceted",
+              "whats-the-most-profound-positive-shift",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file gives Joe a specific inversion technique (\"how do you NOT trust it?\") directly applicable to the client's \"I can't tell which voice is right\" framing — a concrete tool beyond the two already in bundle.",
+              "follow_edges": [],
+              "follow_reason": "The three candidate edges (trust-as-multifaceted, scorecard, profound-positive-shift) are too general or unrelated to the client's immediate intuition-vs-fear diagnostic question."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [],
+            "edges_skipped": [
+              "trust-as-multifaceted",
+              "whats-the-most-profound-positive-shift",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "cost_usd": 0.012441,
+            "ms": 4473,
+            "input_tokens": 3247,
+            "output_tokens": 180,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0107234,
+        "walker_total_cost_usd": 0.08041799999999999,
+        "total_cost_usd": 0.09114139999999998,
+        "seed_detection_input_tokens": 512,
+        "seed_detection_output_tokens": 127,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 20971,
+        "walker_total_output_tokens": 1167,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2380,
+        "walker_total_ms": 30781,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.09114139999999998,
+      "ms": 33166
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011165399999999999,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011165399999999999,
+        "seed_detection_input_tokens": 709,
+        "seed_detection_output_tokens": 176,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3157,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 4
+      },
+      "cost_usd": 0.011165399999999999,
+      "ms": 3158
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0113244,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0113244,
+        "seed_detection_input_tokens": 933,
+        "seed_detection_output_tokens": 163,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2991,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 6
+      },
+      "cost_usd": 0.0113244,
+      "ms": 2992
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "how-do-i-trust-myself",
+          "i-feel-stuck",
+          "chin-up-as-emotion-block"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is experiencing jaw tension (somatic repression signature) while avoiding a felt sense of exposure/vulnerability; intellectualizing as defense against emotional contact; uncertainty about trusting their own signals despite intellectual knowledge.",
+        "bundle_ids": [
+          "how-do-i-trust-myself",
+          "chin-up-as-emotion-block",
+          "if-you-think-youre-deciding-youre-in-fear",
+          "the-happiness-filter"
+        ],
+        "bundle_paths": [
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/reads/chin-up-as-emotion-block.md",
+          "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+          "coach/reads/the-happiness-filter.md"
+        ],
+        "bundle_reasons": [
+          "This file directly maps to the client's exact presentation: intellectual question about mechanism/signals, somatic awareness without clarity, and the jaw-tightness/exposure moment that just surfaced.",
+          "Client explicitly reported jaw tightness throughout the session — this file gives Joe the exact somatic read and intervention (chin/jaw mechanism) to name and work with right now.",
+          "This file directly reframes the client's entire presenting concern — \"how do I know which signal to trust?\" — as itself a symptom of fear, which is exactly what Joe just surfaced with the jaw-tightness/exposure moment.",
+          "Client's \"small smile, slightly more effortful now\" is a textbook happiness-filter drop moment — Joe can name it precisely using this file's framework right now."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly maps to the client's exact presentation: intellectual question about mechanism/signals, somatic awareness without clarity, and the jaw-tightness/exposure moment that just surfaced.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body",
+                "if-you-think-youre-deciding-youre-in-fear",
+                "the-happiness-filter",
+                "what-makes-you-care-about-the-outcome"
+              ],
+              "follow_reason": "These four edges map directly to what just happened: client deflected to literature (intellectual-question-with-emotional-body), is framing a \"decision\" (if-you-think-youre-deciding-youre-in-fear), has been maintaining a slight smile throughout (the-happiness-filter), and the exposure feeling points to outcome-fear (what-makes-you-care-about-the-outcome)."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "the-happiness-filter",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.015954,
+            "ms": 6094,
+            "input_tokens": 3963,
+            "output_tokens": 271,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't presenting as \"stuck\" in the chronic/paralysis sense — they're at the edge of feeling something (exposure/jaw tightness) that they just named; the stuckness framework is too broad for this precise moment.",
+              "follow_edges": [
+                "be-intimate-with-the-feeling",
+                "lets-go-there",
+                "what-were-avoiding-is-usually-love"
+              ],
+              "follow_reason": "Client just named \"exposure\" and jaw tightness — these edges map directly to staying with/entering the feeling that surfaced, which is the live coaching moment right now."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "cost_usd": 0.015207,
+            "ms": 5217,
+            "input_tokens": 4039,
+            "output_tokens": 206,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "chin-up-as-emotion-block",
+            "file_path": "coach/reads/chin-up-as-emotion-block.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "i-cant-feel-my-emotions",
+              "intellectual-process-with-no-somatic-component",
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly reported jaw tightness throughout the session — this file gives Joe the exact somatic read and intervention (chin/jaw mechanism) to name and work with right now.",
+              "follow_edges": [
+                "i-cant-feel-my-emotions",
+                "intellectual-process-with-no-somatic-component"
+              ],
+              "follow_reason": "Client's \"nothing really\" followed by jaw-tightness and flight to literature maps directly to these two edges — can't-feel and intellectualizing as somatic bypass."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "i-cant-feel-my-emotions",
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014385,
+            "ms": 4375,
+            "input_tokens": 3860,
+            "output_tokens": 187,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "intellectual-question-with-emotional-body",
+            "file_path": "coach/reads/intellectual-question-with-emotional-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociating-in-the-coaching-room",
+              "whats-the-most-profound-positive-shift"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file describes the *opening* read (intellectual question as buffer) — that diagnostic moment has already passed; client has now landed in the body (jaw tightness, exposure). The bundle already covers this ground via how-do-i-trust-myself.",
+              "follow_edges": [
+                "disassociating-in-the-coaching-room"
+              ],
+              "follow_reason": "Client's pattern of fleeing to \"the literature\" mid-feeling is exactly the dissociation-in-session move; worth checking if that file has actionable content for this moment of exposure/jaw tightness."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "disassociating-in-the-coaching-room"
+            ],
+            "edges_skipped": [
+              "whats-the-most-profound-positive-shift"
+            ],
+            "cost_usd": 0.01341,
+            "ms": 5339,
+            "input_tokens": 3455,
+            "output_tokens": 203,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "if-you-think-youre-deciding-youre-in-fear",
+            "file_path": "coach/principles/if-you-think-youre-deciding-youre-in-fear.md",
+            "category": "principles",
+            "candidate_edges": [
+              "ask-from-slowness-not-intellect",
+              "craving-is-the-pushing-away",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "how-do-you-not-trust-it",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly reframes the client's entire presenting concern — \"how do I know which signal to trust?\" — as itself a symptom of fear, which is exactly what Joe just surfaced with the jaw-tightness/exposure moment.",
+              "follow_edges": [
+                "ask-from-slowness-not-intellect",
+                "how-do-you-not-trust-it",
+                "decisions-are-emotional",
+                "do-the-next-most-obvious-thing"
+              ],
+              "follow_reason": "These four edges map directly to what's live: the client's intellectualizing pattern, the self-trust dissolution question, the emotional substrate of decisions, and what becomes available once fear clears."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ask-from-slowness-not-intellect",
+              "how-do-you-not-trust-it",
+              "decisions-are-emotional",
+              "do-the-next-most-obvious-thing"
+            ],
+            "edges_skipped": [
+              "craving-is-the-pushing-away",
+              "good-decision-is-how-you-make-it-not-the-outcome",
+              "joes-calling-to-have-kids",
+              "principles-free-you",
+              "should-we-have-kids",
+              "trust-as-multifaceted",
+              "unconscious-principles-run-your-life",
+              "where-you-are-is-the-lesson"
+            ],
+            "cost_usd": 0.015393,
+            "ms": 5726,
+            "input_tokens": 4006,
+            "output_tokens": 225,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "the-happiness-filter",
+            "file_path": "coach/reads/the-happiness-filter.md",
+            "category": "reads",
+            "candidate_edges": [
+              "confidence-only-where-approval-isnt-needed",
+              "joy-as-matriarch",
+              "loyalty-under-low-affection",
+              "triggered-vs-big-emotion",
+              "we-never-fight",
+              "whats-the-ultimate-thing-youre-running-from"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"small smile, slightly more effortful now\" is a textbook happiness-filter drop moment — Joe can name it precisely using this file's framework right now.",
+              "follow_edges": [
+                "whats-the-ultimate-thing-youre-running-from",
+                "confidence-only-where-approval-isnt-needed"
+              ],
+              "follow_reason": "\"Exposure\" as the named feeling points toward what the client is ultimately running from, and the approval/confidence edge may explain why exposure feels so threatening in this decision context."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "whats-the-ultimate-thing-youre-running-from",
+              "confidence-only-where-approval-isnt-needed"
+            ],
+            "edges_skipped": [
+              "joy-as-matriarch",
+              "loyalty-under-low-affection",
+              "triggered-vs-big-emotion",
+              "we-never-fight"
+            ],
+            "cost_usd": 0.012852,
+            "ms": 4801,
+            "input_tokens": 3324,
+            "output_tokens": 192,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011040399999999999,
+        "walker_total_cost_usd": 0.087201,
+        "total_cost_usd": 0.0982414,
+        "seed_detection_input_tokens": 864,
+        "seed_detection_output_tokens": 120,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22647,
+        "walker_total_output_tokens": 1284,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 4439,
+        "walker_total_ms": 31552,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.0982414,
+      "ms": 35994
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-cant-feel-my-emotions",
+          "intellectual-process-with-no-somatic-component",
+          "repressed-trigger-in-the-body"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is accessing somatic sensation (compressed chest, tight jaw) after intellectualizing/deflecting with literature. The compressed waiting feeling in the chest suggests a repressed emotion or blocked expression. The pattern of moving to intellect to avoid feeling, then returning to body sensation, indicates both emotional disconnection and a trigger being held somatically.",
+        "bundle_ids": [
+          "i-cant-feel-my-emotions",
+          "repressed-trigger-in-the-body",
+          "chin-up-as-emotion-block"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-cant-feel-my-emotions.md",
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/reads/chin-up-as-emotion-block.md"
+        ],
+        "bundle_reasons": [
+          "Client is showing classic somatic repression signs (jaw tight, compressed chest) while struggling to name/stay with the feeling — exactly the pattern this file addresses.",
+          "Client's compressed chest, tight jaw, and minimal verbal output are textbook \"repressed trigger in the body\" — this file directly names the read Joe is making and the exact coaching moves (slow the room, name the body, don't extract) that apply right now.",
+          "Client's tight jaw is the exact somatic signature this file addresses, and the chin-down/jaw-soften intervention is a concrete next move Joe could use right now."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-cant-feel-my-emotions",
+            "file_path": "coach/concerns/i-cant-feel-my-emotions.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "manufacturing-the-feeling",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is showing classic somatic repression signs (jaw tight, compressed chest) while struggling to name/stay with the feeling — exactly the pattern this file addresses.",
+              "follow_edges": [
+                "chin-up-as-emotion-block",
+                "manufacturing-the-feeling"
+              ],
+              "follow_reason": "Jaw tightness and the \"compressed, waiting\" chest sensation point directly to somatic blocking and the challenge of accessing a feeling that's present but not fully felt."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "chin-up-as-emotion-block",
+              "manufacturing-the-feeling"
+            ],
+            "edges_skipped": [
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.013482,
+            "ms": 5934,
+            "input_tokens": 3619,
+            "output_tokens": 175,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "intellectual-process-with-no-somatic-component",
+            "file_path": "coach/reads/intellectual-process-with-no-somatic-component.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client IS showing somatic content (compressed chest, jaw tight) — this is not a head-only pause; the i-cant-feel-my-emotions file already covers the repression pattern more precisely.",
+              "follow_edges": [],
+              "follow_reason": "Candidate edges (Ali Abdaal session, mark-it-and-return-later, what's-next-after-big-goal) are irrelevant to the client's current moment of staying with a somatic sensation in the chest."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.013659,
+            "ms": 4623,
+            "input_tokens": 3628,
+            "output_tokens": 185,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "repressed-trigger-in-the-body",
+            "file_path": "coach/reads/repressed-trigger-in-the-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociation-as-numbness-layer",
+              "kinked-emotions",
+              "passive-aggressive-vs-aggressive-aggressive",
+              "the-happiness-filter",
+              "three-forms-of-anger-repression",
+              "trigger",
+              "triggered-vs-big-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's compressed chest, tight jaw, and minimal verbal output are textbook \"repressed trigger in the body\" — this file directly names the read Joe is making and the exact coaching moves (slow the room, name the body, don't extract) that apply right now.",
+              "follow_edges": [
+                "kinked-emotions",
+                "three-forms-of-anger-repression",
+                "disassociation-as-numbness-layer"
+              ],
+              "follow_reason": "Kinked emotions and three-forms-of-anger-repression may clarify what's underneath the compression; disassociation-as-numbness-layer is relevant given client's initial \"nothing really\" response before locating the body sensation."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "kinked-emotions",
+              "three-forms-of-anger-repression",
+              "disassociation-as-numbness-layer"
+            ],
+            "edges_skipped": [
+              "passive-aggressive-vs-aggressive-aggressive",
+              "the-happiness-filter",
+              "trigger",
+              "triggered-vs-big-emotion"
+            ],
+            "cost_usd": 0.014106,
+            "ms": 5545,
+            "input_tokens": 3557,
+            "output_tokens": 229,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "chin-up-as-emotion-block",
+            "file_path": "coach/reads/chin-up-as-emotion-block.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's tight jaw is the exact somatic signature this file addresses, and the chin-down/jaw-soften intervention is a concrete next move Joe could use right now.",
+              "follow_edges": [
+                "mark-it-and-return-later"
+              ],
+              "follow_reason": "Client is sitting with a compressed, waiting feeling — \"mark it and return\" could be relevant if Joe needs to hold the somatic moment without losing it; other edges are off-topic for this session."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "mark-it-and-return-later"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "noticing-the-matrix-pattern",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.01392,
+            "ms": 4400,
+            "input_tokens": 3750,
+            "output_tokens": 178,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "manufacturing-the-feeling",
+            "file_path": "coach/reads/manufacturing-the-feeling.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "apply-enjoy-to-whats-here",
+              "desire-for-resolution",
+              "dont-go-after-every-emotion-at-once",
+              "embracing-vs-creating-intensity",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "hold-the-memory-of-when-you-felt-it-most",
+              "i-keep-crashing-and-burning",
+              "im-afraid-of-offending-people",
+              "intellectual-question-with-emotional-body",
+              "let-your-body-remember-this-moment",
+              "loyalty-under-low-affection",
+              "questioning-the-positive-state",
+              "the-happiness-filter",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "trying-prevents-the-feeling",
+              "trying-to-get-rid-of-the-emotion",
+              "unwelcomed-emotions-return-until-felt"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't been asked to manufacture a feeling yet — they're still in the early somatic contact phase (compressed chest, just noticing); manufacturing risk isn't the live issue right now.",
+              "follow_edges": [
+                "trying-prevents-the-feeling",
+                "intellectual-question-with-emotional-body",
+                "desire-for-resolution"
+              ],
+              "follow_reason": "Client's deflection to literature and minimal verbal output suggest trying/efforting dynamics and intellectual escape routes are the next relevant territory to check; desire-for-resolution often follows once somatic contact is made."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "trying-prevents-the-feeling",
+              "intellectual-question-with-emotional-body",
+              "desire-for-resolution"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "apply-enjoy-to-whats-here",
+              "dont-go-after-every-emotion-at-once",
+              "embracing-vs-creating-intensity",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "hold-the-memory-of-when-you-felt-it-most",
+              "i-keep-crashing-and-burning",
+              "im-afraid-of-offending-people",
+              "let-your-body-remember-this-moment",
+              "loyalty-under-low-affection",
+              "questioning-the-positive-state",
+              "the-happiness-filter",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "trying-to-get-rid-of-the-emotion",
+              "unwelcomed-emotions-return-until-felt"
+            ],
+            "cost_usd": 0.014892,
+            "ms": 4949,
+            "input_tokens": 3974,
+            "output_tokens": 198,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "kinked-emotions",
+            "file_path": "coach/concepts/kinked-emotions.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "acting-out-emotions-as-fluidity",
+              "allowing-creates-resilience",
+              "anger",
+              "anxiety-as-constricted-life-force",
+              "cafe-emotional-stigma",
+              "daily-emotional-yoga",
+              "dont-jump-to-compassion-before-anger",
+              "dont-name-emotion-to-avoid-feeling",
+              "each-emotion-has-its-own-positive-flavor",
+              "electric-fence-with-dog",
+              "embrace-vs-brace",
+              "emotional-fluidity",
+              "emotions-as-road-signs",
+              "emotions-live-in-muscles",
+              "fear-of-self-destruction-by-anger",
+              "fear-vs-excitement",
+              "feel-over-figure",
+              "feeling-the-unfelt-emotion",
+              "joes-pancake-anger-story",
+              "joy-as-matriarch",
+              "meaning-change-vs-feeling-through",
+              "negative-emotions-precede-positive",
+              "passive-aggressive-vs-aggressive-aggressive",
+              "resistance",
+              "resisted-vs-unresisted-everything-shows-up-different",
+              "shame-stagnates-emotion",
+              "simplicity-on-the-other-side-of-complexity",
+              "stages-of-emotional-development",
+              "stronger-story-stuckier-emotion",
+              "three-reflection-questions-on-anger"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Kinked emotions is a useful conceptual framework but too general/explanatory for this moment — client is in the body, pre-verbal; Joe needs somatic presence tools, not a metaphor lecture.",
+              "follow_edges": [
+                "dont-name-emotion-to-avoid-feeling",
+                "embrace-vs-brace",
+                "emotions-live-in-muscles",
+                "resisted-vs-unresisted-everything-shows-up-different"
+              ],
+              "follow_reason": "These edges speak directly to the client's current state: naming to escape feeling, bracing vs. allowing the compressed chest sensation, emotion held in the body, and how resistance shapes what the client is experiencing right now."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "dont-name-emotion-to-avoid-feeling",
+              "embrace-vs-brace",
+              "emotions-live-in-muscles",
+              "resisted-vs-unresisted-everything-shows-up-different"
+            ],
+            "edges_skipped": [
+              "acting-out-emotions-as-fluidity",
+              "allowing-creates-resilience",
+              "anger",
+              "anxiety-as-constricted-life-force",
+              "cafe-emotional-stigma",
+              "daily-emotional-yoga",
+              "dont-jump-to-compassion-before-anger",
+              "each-emotion-has-its-own-positive-flavor",
+              "electric-fence-with-dog",
+              "emotional-fluidity",
+              "emotions-as-road-signs",
+              "fear-of-self-destruction-by-anger",
+              "fear-vs-excitement",
+              "feel-over-figure",
+              "feeling-the-unfelt-emotion",
+              "joes-pancake-anger-story",
+              "joy-as-matriarch",
+              "meaning-change-vs-feeling-through",
+              "negative-emotions-precede-positive",
+              "passive-aggressive-vs-aggressive-aggressive",
+              "resistance",
+              "shame-stagnates-emotion",
+              "simplicity-on-the-other-side-of-complexity",
+              "stages-of-emotional-development",
+              "stronger-story-stuckier-emotion",
+              "three-reflection-questions-on-anger"
+            ],
+            "cost_usd": 0.015984,
+            "ms": 5365,
+            "input_tokens": 4208,
+            "output_tokens": 224,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110724,
+        "walker_total_cost_usd": 0.086043,
+        "total_cost_usd": 0.09711539999999999,
+        "seed_detection_input_tokens": 716,
+        "seed_detection_output_tokens": 156,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22736,
+        "walker_total_output_tokens": 1189,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2880,
+        "walker_total_ms": 30816,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 10
+      },
+      "cost_usd": 0.09711539999999999,
+      "ms": 33699
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [
+          "be-intimate-with-the-feeling",
+          "staying-in-your-body"
+        ],
+        "seed_rationale": "Client is experiencing a somatic shift—the feeling becoming \"more present\" rather than diminishing—which signals they're moving into intimate contact with the emotion rather than trying to manage it away. The jaw softening creating access to the chest sensation demonstrates embodied awareness and the body's responsiveness to subtle shifts in tension.",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0109014,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0109014,
+        "seed_detection_input_tokens": 655,
+        "seed_detection_output_tokens": 134,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2443,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.0109014,
+      "ms": 2444
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-need-a-scorecard",
+          "im-afraid-ill-revert-to-my-old-pattern"
+        ],
+        "rejected_seeds": [
+          "identity"
+        ],
+        "seed_rationale": "Client is expressing fear of losing a core identity (confidence/knowing) and the competence that scaffolded it. This points to scorecard-shaped identity, identity-as-external-metric, and fear of reversion to a pre-competent self. The loss of \"knowing\" suggests the collapse of an achievement-based identity structure.",
+        "bundle_ids": [
+          "how-do-i-trust-myself",
+          "scorecard-keeping-as-identity-structure",
+          "whats-the-scorecard-that-cant-be-taken-away"
+        ],
+        "bundle_paths": [
+          "coach/concerns/how-do-i-trust-myself.md",
+          "coach/reads/scorecard-keeping-as-identity-structure.md",
+          "coach/questions/whats-the-scorecard-that-cant-be-taken-away.md"
+        ],
+        "bundle_reasons": [
+          "Client is expressing a direct self-trust collapse — \"I used to just know\" — which is the core presenting pattern this file addresses, including the loss of confident identity and fear of losing who they are.",
+          "Client's \"I used to just know\" is precisely the 'scorecard does the trust for me' pattern — self-trust was externally scaffolded and now the scorecard is gone, leaving identity collapse.",
+          "This is the precise next coaching move — after client has named fear of losing \"who I am when I'm confident,\" this question invites relocation to an internal scorecard that can't be taken away, directly addressing the identity collapse."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-need-a-scorecard",
+            "file_path": "coach/concerns/i-need-a-scorecard.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "scorecard-keeping-as-identity-structure",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "what-if-there-was-no-scorecard",
+              "whats-next-after-i-reached-my-big-goal",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's fear is about losing a sense of confident self-identity, not about external validation metrics or scorecard-chasing — this file addresses a different presenting concern.",
+              "follow_edges": [
+                "how-do-i-trust-myself",
+                "scorecard-keeping-as-identity-structure",
+                "what-if-there-was-no-scorecard",
+                "whats-the-scorecard-that-cant-be-taken-away"
+              ],
+              "follow_reason": "Client's core fear is losing \"who I am when I'm confident\" — these edges point toward identity, self-trust, and inner stability which are directly relevant to that fear."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "how-do-i-trust-myself",
+              "scorecard-keeping-as-identity-structure",
+              "what-if-there-was-no-scorecard",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "edges_skipped": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014472,
+            "ms": 4816,
+            "input_tokens": 3744,
+            "output_tokens": 216,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "im-afraid-ill-revert-to-my-old-pattern",
+            "file_path": "coach/concerns/im-afraid-ill-revert-to-my-old-pattern.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "im-burned-out",
+              "point-at-the-present-evidence",
+              "quit-hope-lose-cycle",
+              "voice-creates-what-it-fears"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't made a recent bold change — they're grieving a loss of a former confident self, not fearing reversion after a brave action; this file's scenario doesn't match.",
+              "follow_edges": [
+                "quit-hope-lose-cycle",
+                "voice-creates-what-it-fears"
+              ],
+              "follow_reason": "Client is gripping/fearing loss of their confident identity, which maps to quit-hope-lose-cycle and voice-creates-what-it-fears; the other edges (im-burned-out, point-at-the-present-evidence) are less central to this identity-loss grief moment."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "quit-hope-lose-cycle",
+              "voice-creates-what-it-fears"
+            ],
+            "edges_skipped": [
+              "im-burned-out",
+              "point-at-the-present-evidence"
+            ],
+            "cost_usd": 0.014349,
+            "ms": 4549,
+            "input_tokens": 3718,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is expressing a direct self-trust collapse — \"I used to just know\" — which is the core presenting pattern this file addresses, including the loss of confident identity and fear of losing who they are.",
+              "follow_edges": [
+                "the-happiness-filter",
+                "if-you-think-youre-deciding-youre-in-fear",
+                "what-makes-you-care-about-the-outcome",
+                "intellectual-question-with-emotional-body"
+              ],
+              "follow_reason": "The happiness filter drop is visible in the session (\"smile is mostly gone\"), the fear-of-outcome dynamic underlies the client's identity fear, and the intellectual-vs-emotional-body gap is active — these edges are most directly relevant to this moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "the-happiness-filter",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "what-makes-you-care-about-the-outcome",
+              "intellectual-question-with-emotional-body"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.014808,
+            "ms": 5584,
+            "input_tokens": 3756,
+            "output_tokens": 236,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "scorecard-keeping-as-identity-structure",
+            "file_path": "coach/reads/scorecard-keeping-as-identity-structure.md",
+            "category": "reads",
+            "candidate_edges": [
+              "compass-not-map",
+              "identity-lags-behind-growth",
+              "money-as-surrogate",
+              "searching-for-love-cuts-off-love",
+              "tell-the-unchanging-part-it-has-to-move",
+              "trust-as-multifaceted"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I used to just know\" is precisely the 'scorecard does the trust for me' pattern — self-trust was externally scaffolded and now the scorecard is gone, leaving identity collapse.",
+              "follow_edges": [
+                "identity-lags-behind-growth",
+                "tell-the-unchanging-part-it-has-to-move"
+              ],
+              "follow_reason": "Client fears losing who they are when confident — identity-lags-behind-growth addresses the gap between actual self and perceived self-loss; tell-the-unchanging-part-it-has-to-move speaks to the resistance to letting go of the old identity structure."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "identity-lags-behind-growth",
+              "tell-the-unchanging-part-it-has-to-move"
+            ],
+            "edges_skipped": [
+              "compass-not-map",
+              "money-as-surrogate",
+              "searching-for-love-cuts-off-love",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.014586,
+            "ms": 4884,
+            "input_tokens": 3762,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "what-if-there-was-no-scorecard",
+            "file_path": "coach/questions/what-if-there-was-no-scorecard.md",
+            "category": "questions",
+            "candidate_edges": [
+              "compass-not-map",
+              "strip-away-externals-thought-experiment"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This is a specific coaching question/technique file — useful later if Joe wants to deploy the destabilizing move, but the client is currently in a somatic arrival moment (\"really afraid of losing something about who I am\"), not yet ready for a destabilizing question.",
+              "follow_edges": [
+                "strip-away-externals-thought-experiment"
+              ],
+              "follow_reason": "strip-away-externals is the structural move underneath the client's fear of losing their confident identity — more directly relevant to what the client just named than compass-not-map."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "strip-away-externals-thought-experiment"
+            ],
+            "edges_skipped": [
+              "compass-not-map"
+            ],
+            "cost_usd": 0.014295,
+            "ms": 13166,
+            "input_tokens": 3800,
+            "output_tokens": 193,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "whats-the-scorecard-that-cant-be-taken-away",
+            "file_path": "coach/questions/whats-the-scorecard-that-cant-be-taken-away.md",
+            "category": "questions",
+            "candidate_edges": [
+              "ask-the-witnesses",
+              "compass-not-map",
+              "money-as-surrogate",
+              "trust-as-multifaceted"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the precise next coaching move — after client has named fear of losing \"who I am when I'm confident,\" this question invites relocation to an internal scorecard that can't be taken away, directly addressing the identity collapse.",
+              "follow_edges": [
+                "ask-the-witnesses",
+                "compass-not-map"
+              ],
+              "follow_reason": "ask-the-witnesses is the natural follow-on move once client locates self-trust as scorecard; compass-not-map may address the \"I used to just know\" orientation loss — internal compass vs. external map."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ask-the-witnesses",
+              "compass-not-map"
+            ],
+            "edges_skipped": [
+              "money-as-surrogate",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.014298,
+            "ms": 4929,
+            "input_tokens": 3771,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011028399999999999,
+        "walker_total_cost_usd": 0.08680800000000001,
+        "total_cost_usd": 0.0978364,
+        "seed_detection_input_tokens": 697,
+        "seed_detection_output_tokens": 151,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22551,
+        "walker_total_output_tokens": 1277,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2609,
+        "walker_total_ms": 37928,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 14
+      },
+      "cost_usd": 0.0978364,
+      "ms": 40539
+    }
+  ]
+}

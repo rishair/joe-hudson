@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:26.559Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e6637d7addbaa681a4b4d68f2edcf4713f2dda6039550c735ec6c760b3b43b9c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01JG7B3B1bBHHSczgV6cUpoc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*longer pause, eyes dropping slightly*\n\nChest, mostly. There's a kind of... flatness there. Not pain exactly. More like something that used to have more air in it.\n\n*quiet*\n\nI notice I want to immediately contextualize that — tell you which part that probably is, what it might be protecting. That's become pretty automatic. The labeling reflex.\n\n*small self-deprecating exhale*\n\nBut you asked where, not what. So. Chest. Flat. That's the honest answer."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 190,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1925,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 118,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 190,
+    "output_tokens": 118,
+    "cache_read_input_tokens": 1925,
+    "cache_creation_input_tokens": 0
+  }
+}

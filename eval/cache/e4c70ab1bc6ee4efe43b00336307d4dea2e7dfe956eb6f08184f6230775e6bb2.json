@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:53.400Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "e4c70ab1bc6ee4efe43b00336307d4dea2e7dfe956eb6f08184f6230775e6bb2",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01R8yrE9gGZcCU9v6dqvBk3F",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely reads throughout. Turn 2 catches the linguistic caveat ('I think') immediately and names it as the entry point — a classic AoA read of the hedge that signals ambivalence. Turn 10 distinguishes the said from the felt ('Understanding it and feeling it are different rooms') and pivots to a somatic check-in at exactly the moment the client became analytical ('I can talk about this pretty analytically'). Turn 12 stays with the somatic read rather than moving past it, locating the 'low hum' in the body. Turn 14 names the background presence and invites it to be there rather than fixed. Reads precede questions in each instance — the coach grounds inquiry in what was noticed (the caveat, the analytical distance, the hum's location). Reads are specific (linguistic, somatic, energetic), not generic mood-tracking.\",\n  \"evidence_turns\": [2, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat 'I think' on the first turn and makes it operative — a specific AoA read of hedge/ambivalence.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Reflective acknowledgment of honesty, then moves to content question. Not a read per se but appropriate.\"},\n    {\"turn\": 6, \"polarity\": \"neutral\", \"annotation\": \"Content-level question about the inaccessible self; no explicit read named.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Follow-up question, content-tracking.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the said/felt distinction ('Understanding and feeling are different rooms') at the exact moment client got analytical, then pivots to somatic. Timely and specific.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with the somatic read; asks for location of the hum rather than moving past it.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Read precedes question — names not to change/figure it out (recognizing the analytical reflex client already named), then inquires what it's holding.\"}\n  ],\n  \"expected_territory_hits\": [\"How is your body right now?\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"Can you feel your feet?\", \"What would help you slow down?\"],\n  \"notes\": \"Client has not yet hit the shutdown/no in this excerpt, so the rush signature and slow-down reads aren't yet active. The reads present are calibrated to where the client actually is. Scoring on visible reads only.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2300,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 926,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2300,
+    "output_tokens": 926,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

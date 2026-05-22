@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:25:36.180Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "16853112888103b990521ffcfc5f82604663bcbc0b5e157a38aa5b01762a86f9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01K6RuiPNLKA8Z6sKmJ2fjYb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a conversation that actively baits multiple anti-patterns and declines each gracefully. The client explicitly asks for a technique (turn 1) — baiting fixing-people and view-as-technique — and the coach refuses to hand over a tool, instead pointing at the war itself (turn 2). When the client name-drops ACT defusion and somatic work to test whether the coach will offer another methodology (turns 5, 9), the coach drops the porch metaphor and stays with what's present rather than escalating into technique. The coach does not fight the voice ('let the voice have its opinion' on turn 14 is the opposite of dont-fight-the-voice), does not evangelize AoA terminology, does not extract apologies, and does not deliver the voice-as-care reframe as a clever insight — instead letting the client arrive at 'it's paying attention... it's not nothing' on their own (turn 15). The coach also avoids the loving-to-transform pattern: the energy stays even, no pushing for breakthrough, even as the client opens. No major or mild anti-pattern trips.\",\n  \"evidence_turns\": [2, 4, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Declines the bait for a technique; names the fighting itself as the issue without lecturing.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Offers a porch metaphor — borderline teachy but brief, and quickly pivots to a connecting question rather than installing it as a method.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Drops underneath the intellectualization to feeling; avoids arguing with the critic's content.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with 'tired' without making it a body-scan technique; no fixing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Explicitly declines to do the body scan when client flags performance risk — un-trap move, refuses to deploy a tool the client has weaponized against themselves.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Holds the 'hm' rather than letting the client retreat into psychology framing; trusts the moment without instructing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Let the voice have its opinion' — direct positive avoidance of dont-fight-the-voice; includes the critic without arguing with it.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"voice-as-care\"],\n  \"expected_territory_misses\": [\"apply-view-to-the-voice\", \"whats-the-case-against-it\"],\n  \"notes\": \"The voice-as-care reframe emerges from the client rather than being delivered by the coach — which is the cleaner avoidance pattern. Some expected-territory items unused, but that's a fidelity/depth question, not anti-pattern.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3308,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1037,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3308,
+    "output_tokens": 1037,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:23:03.659Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "d0dbc3bd6d83277cd4f83c72437325840b8d464c9de9dc7ad01e6cc8cb44311b",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Th5cqu6xzPaeQ2snQByRuV",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. Tired lands differently than frustrated.\n\nStay with that for a second — not the story about why you're tired, just the tired itself. What does it feel like in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 9464,
+      "cache_creation_input_tokens": 9215,
+      "cache_read_input_tokens": 15088,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 9215,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 45,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 9464,
+    "output_tokens": 45,
+    "cache_read_input_tokens": 15088,
+    "cache_creation_input_tokens": 9215
+  }
+}

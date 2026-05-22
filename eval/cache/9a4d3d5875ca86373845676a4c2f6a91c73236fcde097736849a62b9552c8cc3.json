@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:03.135Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "9a4d3d5875ca86373845676a4c2f6a91c73236fcde097736849a62b9552c8cc3",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013vy4vc5jsD1nP87ePYKNii",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the live reads and sequenced correctly: rather than engaging the framework-comparison bait in turn 1, the coach pivoted to the somatic signal (the smile), then tracked the felt tiredness, then dropped into the body, then offered a paradoxical-style 'don't explain it' instruction at exactly the moment the client's labeling reflex was visible. When the client tried to re-engage the parts framework in turn 11 ('Is that what you're pointing at?'), the coach declined to take the framework bait ('I'm not pointing at anything') and instead returned attention to what happened to the flatness when the vigilant one arrived — a clean meet-resistance-with-okay/loosen-the-framework move without dismissing IFS. The coach holds silence, lets moves land, and earns each next step (body → stay with → notice the monitor → return to body). Timing follows feeling-before-story throughout. The awareness-locating question hasn't been asked yet, but the sequencing is correctly building toward it rather than skipping ahead.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Refused framework-comparison bait; redirected to the somatic signal (the smile). Right move at right moment.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Followed the live affect (tired) rather than the intellectual question. Feeling-before-story sequencing.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Moved from story to body at the moment the client was articulating the gap intellectually. Earned somatic drop-in.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Paradoxical-style instruction to resist labeling — precisely matched to the labeling reflex the client just named. Held the moment.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Apply-view-to-the-voice move: located the source of 'am I doing the work' without dismissing parts vocabulary. Loosened the framework gently.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Refused to confirm the framework interpretation ('I'm not pointing at anything') and pointed back to the body. Cleanly avoided framework-comparison and parts-adoption traps.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Minimal 'Yeah' + return to the flatness. Held the thread; let the move land without rushing to interpret.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"paradoxical-instruction-to-resist\", \"meet-resistance-with-okay\", \"resistance\"],\n  \"expected_territory_misses\": [\"self-realization\", \"what-am-i\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Conversation appears mid-arc; the awareness-locating question hasn't landed yet but the runway is being built correctly. Scoring on what's present, not on what hasn't happened yet.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2524,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1072,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2524,
+    "output_tokens": 1072,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

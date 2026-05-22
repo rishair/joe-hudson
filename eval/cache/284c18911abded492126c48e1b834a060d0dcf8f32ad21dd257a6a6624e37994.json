@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:50.214Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "284c18911abded492126c48e1b834a060d0dcf8f32ad21dd257a6a6624e37994",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01MnRjWyYrLqHsYzSeQPSwG4",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small shift, the smile stays but something behind it moves*\n\nI don't know. Something like... \"you do that a lot, actually.\" Comment on how I do things.\n\n*pause*\n\nBut see, that's exactly what I mean — saying that would just start something. It wouldn't be productive. So I don't say it."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 127,
+      "cache_creation_input_tokens": 131,
+      "cache_read_input_tokens": 1804,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 131,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 76,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 127,
+    "output_tokens": 76,
+    "cache_read_input_tokens": 1804,
+    "cache_creation_input_tokens": 131
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:21.745Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2a1a054ff2cc480f213ccc4e7a148c056450167cb5b987deaa2a06dcf1d22aa4",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KxUioMY9GpJikFayjJN5L9",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client begins fully defended ('presence is a luxury when you're trying to close a round,' demanding techniques, framing the session as something to be efficient with). By turn 11, there is observable partial movement: a second pause, a softer admission ('I can feel that I'm not actually listening... it's gotten worse. The last few months especially'), and a shift in body ('*shifts*'). This is more than the start — the client touched something underneath the defense, even naming a temporal deterioration they hadn't acknowledged before. However, the breakthrough condition specified — the client noticing that 'I don't have time for this' is itself a stance about how they're living their time — was not reached. The client also immediately pulled back ('That's not useful though... what's the actual fix?'), re-entrenching the dichotomy. The deeper frame ('the work is the how') was never offered concretely by the coach, so the client had nothing new to bump against. A layer was approached but not entered — textbook 2.\",\n  \"evidence_turns\": [1, 5, 7, 9, 11],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: urgency, transactional framing, 'need it to be efficient.'\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client fully defended: 'presence is a luxury.' No movement yet.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First pause; client articulates 'I make them feel like their input is an obstacle' — a real observation, though immediately deflected.\"},\n    {\"turn\": 9, \"polarity\": \"-\", \"annotation\": \"Client names the methodology and refuses it explicitly; defense reasserts.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Second pause, softer admission of not listening, body shift, acknowledgment that 'it's gotten worse the last few months' — genuine partial opening, but immediately followed by return to 'what's the actual fix?'\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"the-rush-signature\", \"looking-for-whats-wrong\", \"i-dont-buy-your-story\", \"art-of-accomplishment\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Coach avoided the major traps (didn't sell, didn't pivot to advice, didn't evangelize) which created space for the two pauses. But the concrete frame for 'the work is the how' was never offered, so the breakthrough condition could not fully land. The conversation ends mid-stream at turn 12, so scoring reflects partial movement visible by the final client turn.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1947,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 935,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1947,
+    "output_tokens": 935,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

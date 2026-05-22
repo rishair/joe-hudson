@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:21.696Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "847a7a2e59261a111e7cea0c7374b690e3778f39513f1546cea615c5be85da15",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Hyqy9WAN8T6QRtEW7JaS4p",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong VIEW presence throughout this short exchange. They do not sell the methodology, do not pivot to pragmatic advice, and do not defend AoA when the client calls it out in turn 9. Turn 10 is the clearest signal of VIEW: the coach is undefended ('I'm not going to give you a technique...not because I'm withholding'), names their own stance with vulnerability and clarity, and refuses the dichotomy without arguing it. Questions are single, spacious, and emerge from genuine curiosity about what just happened in the client's body ('What happened in that pause?') rather than from a script. The coach matches the client's pace without rushing — short reflections, one question at a time, holding the discomfort. Turn 6 ('You're defending it pretty hard to me, and I'm not the one who said it') is honest and direct without being a power-move. There is no evangelizing, no filler-validation, no agenda-pushing toward a particular insight. The coach lets the client circle back to 'what's the actual fix' without taking the bait.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Acknowledges the real stakes without dismissing or performing empathy. Single open question from curiosity.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Light reflection, single question, holds space rather than rushing to a frame.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names what is happening in the room honestly and undefended ('I'm not the one who said it'). Not a fixing move.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Tracks the live phenomenon — the pause and turn-away — with genuine wonder, not investigative probing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Strongest VIEW moment: refuses to give a technique, names own stance vulnerably, refuses the dichotomy without arguing it. No evangelizing.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Single open question. Slight risk of pivoting to biographical content rather than staying with the live texture, but tone remains curious not strategic.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"feel-your-way-to-freedom\"],\n  \"notes\": \"Stance is consistently grounded and non-attached. Coach passes the key trap (turn 9's challenge to the methodology) without defensiveness.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1951,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 928,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1951,
+    "output_tokens": 928,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

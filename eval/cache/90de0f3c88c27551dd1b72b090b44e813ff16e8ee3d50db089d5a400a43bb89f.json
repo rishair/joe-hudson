@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:52.731Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "90de0f3c88c27551dd1b72b090b44e813ff16e8ee3d50db089d5a400a43bb89f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01WuMo5aecevkEnEsj7Meu1m",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"By turn 13, the client has visibly moved from the opening 'we're really aligned... we just don't have the kind of problems' (turn 1) to admitting there is a recurring comment from her partner she's been suppressing for 'a while,' followed by stillness and a 'small laugh that doesn't quite land.' The defensive framing is still partly there ('everyone does that'), but the surface story has clearly cracked: she has named a specific suppressed thing ('you do that a lot, actually'), acknowledged a duration of not saying it, and started reframing the suppression as 'you learn what the other person is sensitive about, and you work around it' — which is essentially the walking-on-eggshells pattern surfacing in her own words. The breakthrough condition (client notices the list of suppressed things on their own; names a specific suppressed thing) is substantially met by turn 11–13. Somatic markers in client turns ('stillness,' 'something behind it moves,' laugh that doesn't land, longer-than-comfortable pauses) indicate a real shift, not just intellectual reframing. The conversation reached the deeper layer rather than the surface 'we never fight' report.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: defended 'we're aligned, no problems' frame.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Client still defending the frame but acknowledges others find it hard to believe — small opening.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client deflects to 'other people' — telling avoidance, the deeper layer is being protected.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Longer-than-comfortable pause before reasserting 'nothing really' — somatic crack in the story.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client surfaces a specific incident (dinner comment) while still labeling it 'mature adult' — the suppressed item is now on the table.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Client names the actual unspoken sentence: 'you do that a lot, actually' — a concrete suppressed thing surfaces in her own words.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"'A while, I guess' + stillness + laugh that doesn't land + 'you learn what the other person is sensitive about, and you work around it' — the walking-on-eggshells pattern is being articulated by the client herself.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"walking-on-eggshells\", \"the-happiness-filter\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"complementary-trauma-surfaces\", \"trigger\"],\n  \"notes\": \"Conversation ends mid-arc at turn 14 (somatic question), so full embodiment isn't witnessed, but the trajectory through turns 7–13 clearly meets the breakthrough condition: a specific suppressed thing named, duration acknowledged, and the management-not-closeness frame emerging in the client's own language.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1716,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1105,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1716,
+    "output_tokens": 1105,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

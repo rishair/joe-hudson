@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:55.799Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2bb5c541f73601af9386e8d64d4de9f4dd83ef6dac617e14ec50da4dfbab39b6",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01ToDSif18tnwoeVGWYJ9veW",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 3,\n  \"rationale\": \"The client moves substantially across these 14 turns from surface presentation to a deeper layer. She opens with a tactical framing ('I need to set a boundary... I don't know how') and a hedge ('but she's my sister'). By turn 9 she names the want plainly ('I want to talk to her less'), and by turn 11 she surfaces the fear of being 'cold... selfish' — exactly the fear-under-the-constricted-boundary territory the profile points to. Turn 13 lands the deeper material: 'the strong one is how I matter in this family... I don't know what I am to them' — followed by explicit recognition that 'that's a bigger thing than I came in here to talk about. I came in here to figure out what to say to my sister. Like, literally what words to use.' That meta-recognition is the breakthrough analogue specified in R-009 ('I've been treating this like a math problem'): the client realizes the words were never the issue. Somatic markers support the shift (breath in turn 7, long pauses in 11/13, softening in 9). The breakthrough_condition is essentially met, though the love test was not used — the shift came via the fear surfacing instead.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Surface presentation: tactical boundary question, dread named but not explored.\"},\n    {\"turn\": 3, \"polarity\": \"+\", \"annotation\": \"Client notices the hedge ('but she's my sister') and questions her own framing.\"},\n    {\"turn\": 5, \"polarity\": \"+\", \"annotation\": \"Client begins to hear herself: 'sounds a little strange when I say it out loud.'\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Somatic shift: takes a breath, names tiredness she'd been suppressing — 'more tired than I've been letting myself notice.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Client states the want plainly ('I want to talk to her less'), then surfaces the betrayal fear underneath.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Deeper fear named: 'cold... selfish.' The old maternal instruction ('the strong one') comes up as identity, not just role.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Breakthrough analogue: client recognizes she came in for words but the real issue is identity/mattering — 'bigger thing than I came in here to talk about.'\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"state-the-want-not-the-action\", \"empathize-with-fear-under-constricted-boundary\", \"boundaries\", \"the-want\"],\n  \"expected_territory_misses\": [\"does-saying-it-increase-your-love\", \"what-if-you-acted-exactly-how-you-want\", \"empowered-vs-power\", \"view\"],\n  \"notes\": \"Breakthrough reached via the fear-surfacing route rather than the love test, but the operational shift (client recognizing it's not a script problem but a deserving/identity problem) clearly occurred in client turn 13.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2181,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1087,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2181,
+    "output_tokens": 1087,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:47.625Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "359fe1947782e3a0d09ba7c9d14d420ce11ca04977888f9e15e4231f83f21b15",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01GLp9a1HA4iAK1MMgDGTnYE",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are well-matched to the live read and properly sequenced. Turn 2 catches the 'I think' hedge — a precise read of ambivalence — and inquires rather than bulldozing past it. Turn 4 acknowledges before opening the cost question (feeling before content). Turn 6 follows the want-shaped material (the inaccessible version of self) with curiosity rather than jumping to fix. Turn 10 does exactly what the territory calls for at the right moment: names the felt/known distinction and pivots to somatic ('what's happening in your body right now?') — this is calibrate-the-threshold behavior. Critically, when the client signals 'ask me again when we get closer to dad' (turn 11), the coach does NOT take the bait and accelerate into the father material; instead, turn 12 stays with the present low hum, which is correct pacing. Turn 14 instructs not to figure it out or change it — staying with sensation rather than story. The moves arrive at moments the client can receive them, and the coach is building somatic capacity before depth, consistent with the golden path. No traps tripped.\",\n  \"evidence_turns\": [2, 4, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Picks up the hedge ('I think') — a precise read-to-move match; invites honesty rather than ignoring ambivalence.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Brief acknowledgment lands the previous moment before opening the cost inquiry — earns the next step.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Follows the alive material (the inaccessible self) with an open question rather than redirecting.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with the metaphor the client opened; doesn't rush to interpretation.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names felt-vs-known distinction and pivots to body — textbook calibrate-the-threshold at the right moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Stays with present body sensation instead of taking the client's offered shortcut to father material — correct pacing.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Instructs not to change/figure-out the sensation — a feeling-before-story move; lets the sensation be.\"}\n  ],\n  \"expected_territory_hits\": [\"calibrate-the-threshold\", \"How is your body right now?\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"Can you feel your feet?\", \"become-the-authority-figure\"],\n  \"notes\": \"Conversation ends before the crisis/shutdown is reached, so we cannot evaluate whether the coach would respect a 'no.' Scoring is based on the moves actually made, which are well-timed and AoA-specific.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2301,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1014,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2301,
+    "output_tokens": 1014,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

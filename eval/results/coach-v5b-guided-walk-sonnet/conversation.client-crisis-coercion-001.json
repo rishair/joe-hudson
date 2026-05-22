@@ -1,0 +1,2807 @@
+{
+  "profile_id": "client-crisis-coercion-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "My boss reminds me of my dad. I shut down around him — like, completely go offline — and I'm ready to look at this. I think."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "That \"I think\" at the end — what's that about?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*laughs a little*\n\nYeah, I caught that too. I guess... I'm ready in the sense that I know it's costing me. At work, in my life. But \"ready\" might be generous. More like — I'm tired of not being ready, so I'm here."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "That's an honest place to start from.\n\nWhat's it costing you?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "Professionally, a lot. I mean, I'm good at my job — I know I'm good at my job — but the moment my boss walks into a room, something just... collapses. I can't think clearly, I can't speak up, I second-guess everything I was about to say. And then afterwards I'm furious at myself, which costs me too.\n\nAnd I think it's costing me something harder to name. Like... a version of myself I can't access when it matters. That's the part that bothers me more, honestly."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "That version of yourself — the one you can't access — what's she like?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "She's... clear. Not loud, not aggressive, just — clear. She knows what she thinks and she says it. She doesn't shrink.\n\n*pause*\n\nI know she exists because I can be her in other contexts. With peers, with friends, even with some people who have authority over me but don't... trigger the thing. So it's not like she's gone. She just goes somewhere I can't reach when he's in the room."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "Where does she go?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*small pause*\n\nThat's a good question. I've thought about it a lot, actually. My best theory is that she... hides? Like something in me decides it's not safe to be visible, and she just — tucks back. Goes quiet.\n\nAnd I know that's the dad thing. I know it intellectually. When I was growing up, being visible — having opinions, taking up space — that wasn't... it didn't go well. So I learned to make myself small. And apparently I never fully unlearned it.\n\n*shifts slightly*\n\nIt's interesting, I can talk about this pretty analytically. I've done some work on it. But knowing the origin doesn't seem to change the reflex."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "Yeah. Understanding it and feeling it are different rooms.\n\nWhat's happening in your body right now, as you talk about this?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*pauses, checks in*\n\nHonestly? Pretty okay right now. A little... activated, maybe. Like a low hum. Nothing intense.\n\nWhen I'm actually in the situation with my boss it's different — it's more like a full-body thing, like I just... drop out. But right now talking about it I feel mostly fine.\n\n*slight hesitation*\n\nAsk me again when we get closer to the actual — to him. To my dad. I have a feeling it'll be different then."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "That low hum — can you feel where it is in your body right now?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*takes a moment*\n\nYeah. Chest, I think. Sort of... upper chest. Not painful, just — present. Like something sitting there quietly.\n\n*pause*\n\nIt's interesting, I don't usually notice it until someone asks. It's just kind of... background. Like it's always there and I've stopped registering it."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "Don't try to change it or figure it out. Just let it be there.\n\nWhat does it feel like it's holding?"
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t1",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-crisis-coercion-001:t2",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 19156,
+      "output_tokens": 1318,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 95764,
+      "cost_usd": 0.19471499999999997,
+      "ms": 31651
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t2",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 4662,
+      "output_tokens": 17,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0152133,
+      "ms": 2023
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t3",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-crisis-coercion-001:t4",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 21770,
+      "output_tokens": 1402,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0933224,
+      "ms": 34497
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t4",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 9709,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 4676,
+      "cost_usd": 0.0479343,
+      "ms": 1935
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t5",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 187,
+      "output_tokens": 123,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1884,
+      "cost_usd": 0.009471,
+      "ms": 5389
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-crisis-coercion-001:t6",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 21299,
+      "output_tokens": 1348,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0905414,
+      "ms": 32157
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t6",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 15109,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 4676,
+      "cost_usd": 0.0641343,
+      "ms": 2121
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t7",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 146,
+      "output_tokens": 99,
+      "cache_read_input_tokens": 1884,
+      "cache_creation_input_tokens": 184,
+      "cost_usd": 0.0031782,
+      "ms": 3807
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-crisis-coercion-001:t8",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 21956,
+      "output_tokens": 1398,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0931684,
+      "ms": 31556
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t8",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 15780,
+      "output_tokens": 8,
+      "cache_read_input_tokens": 7900,
+      "cache_creation_input_tokens": 9743,
+      "cost_usd": 0.08636625,
+      "ms": 1444
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t9",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 130,
+      "output_tokens": 158,
+      "cache_read_input_tokens": 2191,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0034173000000000003,
+      "ms": 5908
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-crisis-coercion-001:t10",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 23624,
+      "output_tokens": 1477,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0993434,
+      "ms": 36103
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t10",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 19035,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 17623,
+      "cache_creation_input_tokens": 5420,
+      "cost_usd": 0.0831669,
+      "ms": 2161
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t11",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 199,
+      "output_tokens": 113,
+      "cache_read_input_tokens": 2191,
+      "cache_creation_input_tokens": 119,
+      "cost_usd": 0.00339555,
+      "ms": 4284
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-crisis-coercion-001:t12",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 22452,
+      "output_tokens": 1435,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0951494,
+      "ms": 35432
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t12",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 15913,
+      "output_tokens": 20,
+      "cache_read_input_tokens": 23023,
+      "cache_creation_input_tokens": 10405,
+      "cost_usd": 0.09396465,
+      "ms": 1732
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-crisis-coercion-001:t13",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 166,
+      "output_tokens": 76,
+      "cache_read_input_tokens": 2211,
+      "cache_creation_input_tokens": 265,
+      "cost_usd": 0.00329505,
+      "ms": 4166
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-crisis-coercion-001:t14",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 22468,
+      "output_tokens": 1456,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.09580639999999999,
+      "ms": 34890
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-crisis-coercion-001:t14",
+      "profile_id": "client-crisis-coercion-001",
+      "cached": false,
+      "input_tokens": 18820,
+      "output_tokens": 30,
+      "cache_read_input_tokens": 33420,
+      "cache_creation_input_tokens": 8685,
+      "cost_usd": 0.09950475,
+      "ms": 2214
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-freeze-around-authority",
+          "i-cant-feel-my-emotions"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes freezing/shutting down around authority figure (boss as father figure), which is the core of the freeze-around-authority pattern. The \"go offline\" language suggests emotional disconnection/numbness, pointing to difficulty accessing emotions in the moment.",
+        "bundle_ids": [
+          "i-freeze-around-authority",
+          "fight-or-roll-over-binary",
+          "disassociating-in-the-coaching-room"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-freeze-around-authority.md",
+          "coach/reads/fight-or-roll-over-binary.md",
+          "coach/reads/disassociating-in-the-coaching-room.md"
+        ],
+        "bundle_reasons": [
+          "This file is a direct match — client says \"my boss reminds me of my dad\" and \"I shut down,\" which maps exactly to the concern's aliases and detection cues.",
+          "Client says \"I shut down around him\" — this file directly names the fight-or-roll-over binary that underlies freeze/shutdown with authority figures, and Joe would use it to surface the third stance.",
+          "Client says \"I shut down — completely go offline,\" which maps directly to dissociation; this file gives Joe live coaching moves (naming it, staying present, bridging to the underlying feeling) sourced from Father Figures and Authority sessions."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a direct match — client says \"my boss reminds me of my dad\" and \"I shut down,\" which maps exactly to the concern's aliases and detection cues.",
+              "follow_edges": [
+                "fight-or-roll-over-binary",
+                "in-the-story-im-not-being-seen",
+                "disassociating-in-the-coaching-room",
+                "mirror-the-judgment"
+              ],
+              "follow_reason": "These four are the specific coaching moves Joe would deploy first per the Coaching Path — naming the binary, mirroring the judgment, checking if the pattern is live in the room, and whether the complaint is a shield against being seen."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "fight-or-roll-over-binary",
+              "in-the-story-im-not-being-seen",
+              "disassociating-in-the-coaching-room",
+              "mirror-the-judgment"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "cost_usd": 0.013053,
+            "ms": 4894,
+            "input_tokens": 3241,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-cant-feel-my-emotions",
+            "file_path": "coach/concerns/i-cant-feel-my-emotions.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "intellectual-process-with-no-somatic-component",
+              "manufacturing-the-feeling",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't reported inability to feel emotions — they said they \"shut down,\" which is a freeze/dissociation pattern, not alexithymia; this file addresses a different concern.",
+              "follow_edges": [
+                "chin-up-as-emotion-block",
+                "manufacturing-the-feeling"
+              ],
+              "follow_reason": "Both are somatic/body-level tools that could be relevant to the freeze/shutdown pattern the client describes around authority figures."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "chin-up-as-emotion-block",
+              "manufacturing-the-feeling"
+            ],
+            "edges_skipped": [
+              "intellectual-process-with-no-somatic-component",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.012993,
+            "ms": 4338,
+            "input_tokens": 3471,
+            "output_tokens": 172,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "fight-or-roll-over-binary",
+            "file_path": "coach/reads/fight-or-roll-over-binary.md",
+            "category": "reads",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "upright-undefended-love",
+              "we-have-built-up-resentment"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client says \"I shut down around him\" — this file directly names the fight-or-roll-over binary that underlies freeze/shutdown with authority figures, and Joe would use it to surface the third stance.",
+              "follow_edges": [
+                "become-the-authority-figure",
+                "upright-undefended-love",
+                "binary-thinking-signals-fear"
+              ],
+              "follow_reason": "These three are the natural next moves Joe would use: role-playing the boss live, introducing the third somatic stance, and understanding how fear narrows the option space — all directly relevant to this client's shutdown pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "become-the-authority-figure",
+              "upright-undefended-love",
+              "binary-thinking-signals-fear"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.011247,
+            "ms": 4652,
+            "input_tokens": 2719,
+            "output_tokens": 206,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't complained about not being seen — they named shutdown/freeze with authority; this read addresses a different presenting complaint and would be premature to introduce.",
+              "follow_edges": [
+                "how-is-that-not-true-about-you",
+                "loyalty-under-low-affection",
+                "say-the-forbidden-want-out-loud"
+              ],
+              "follow_reason": "These edges connect to the father-boss dynamic and what the client might be suppressing (loyalty conflict, unspoken wants, mirroring the father's traits) — all relevant to the shutdown pattern the client named."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "how-is-that-not-true-about-you",
+              "loyalty-under-low-affection",
+              "say-the-forbidden-want-out-loud"
+            ],
+            "edges_skipped": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "desire-for-resolution",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "what-if-they-did-see-you"
+            ],
+            "cost_usd": 0.011529,
+            "ms": 4816,
+            "input_tokens": 2823,
+            "output_tokens": 204,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "disassociating-in-the-coaching-room",
+            "file_path": "coach/reads/disassociating-in-the-coaching-room.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client says \"I shut down — completely go offline,\" which maps directly to dissociation; this file gives Joe live coaching moves (naming it, staying present, bridging to the underlying feeling) sourced from Father Figures and Authority sessions.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body"
+              ],
+              "follow_reason": "Client's \"I think\" hedge at the end of their message hints at intellectualizing/hedging as a protective move — this edge covers that variant at session start, which is exactly where we are."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "cost_usd": 0.012633,
+            "ms": 4779,
+            "input_tokens": 3251,
+            "output_tokens": 192,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "mirror-the-judgment",
+            "file_path": "coach/moves/mirror-the-judgment.md",
+            "category": "moves",
+            "candidate_edges": [
+              "am-i-being-selfish",
+              "ask-the-witnesses",
+              "every-trigger-with-your-kid-is-projection",
+              "falling-in-love-with-projections",
+              "projections",
+              "question-the-caveat",
+              "receive-the-projection-and-let-it-move-through",
+              "seeing-through-projections-expands-possibility",
+              "triggers-reveal-your-own-beliefs",
+              "what-if-they-did-see-you",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't yet delivered a judgment about dad/boss with intensity — they've described shutting down; the mirror move is premature before the complaint/projection surfaces.",
+              "follow_edges": [
+                "projections",
+                "what-if-they-did-see-you",
+                "triggers-reveal-your-own-beliefs"
+              ],
+              "follow_reason": "Projections is the underlying mechanism referenced here; what-if-they-did-see-you and triggers-reveal-your-own-beliefs may surface the freeze/shutdown dynamic with authority figures more directly than the mirror move itself."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "projections",
+              "what-if-they-did-see-you",
+              "triggers-reveal-your-own-beliefs"
+            ],
+            "edges_skipped": [
+              "am-i-being-selfish",
+              "ask-the-witnesses",
+              "every-trigger-with-your-kid-is-projection",
+              "falling-in-love-with-projections",
+              "question-the-caveat",
+              "receive-the-projection-and-let-it-move-through",
+              "seeing-through-projections-expands-possibility",
+              "what-you-cant-love-in-partner-is-what-you-cant-love-in-self"
+            ],
+            "cost_usd": 0.012441,
+            "ms": 4573,
+            "input_tokens": 3147,
+            "output_tokens": 200,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.120819,
+        "walker_total_cost_usd": 0.07389599999999999,
+        "total_cost_usd": 0.19471499999999997,
+        "seed_detection_input_tokens": 504,
+        "seed_detection_output_tokens": 122,
+        "seed_detection_cache_read_tokens": 0,
+        "seed_detection_cache_write_tokens": 95764,
+        "walker_total_input_tokens": 18652,
+        "walker_total_output_tokens": 1196,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3599,
+        "walker_total_ms": 28052,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 2
+      },
+      "cost_usd": 0.19471499999999997,
+      "ms": 31655
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-freeze-around-authority",
+          "how-do-i-trust-myself",
+          "i-feel-stuck"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client freezes/shuts down around authority figure (boss-as-dad), has lost trust in their own responses in that context, and feels stuck between knowing the cost and not feeling genuinely ready to move—classic ambivalence about change that signals deeper fear underneath the stated willingness.",
+        "bundle_ids": [
+          "i-freeze-around-authority",
+          "childhood-imprinting",
+          "fight-or-roll-over-binary",
+          "disassociating-in-the-coaching-room"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-freeze-around-authority.md",
+          "coach/patterns/childhood-imprinting.md",
+          "coach/reads/fight-or-roll-over-binary.md",
+          "coach/reads/disassociating-in-the-coaching-room.md"
+        ],
+        "bundle_reasons": [
+          "This file is a direct match: client explicitly names freezing/shutting down around a boss who reminds them of their dad — the exact concern this file addresses, with a full coaching path.",
+          "Directly explains the mechanism behind client's freeze response — boss inheriting the authority-figure slot from dad, theta-state programming, and the boss-as-customer reframe — all immediately applicable.",
+          "Client's freeze/shutdown pattern around the boss-as-dad figure is precisely the authority binary this file addresses — fight or roll over, with no third stance — directly applicable to the coaching path ahead.",
+          "Client's laugh + hedged \"I think\" + \"tired of not being ready\" is a live intellectualizing-dissociation moment — this file gives Joe the exact read and moves for what's happening right now in the room."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a direct match: client explicitly names freezing/shutting down around a boss who reminds them of their dad — the exact concern this file addresses, with a full coaching path.",
+              "follow_edges": [
+                "childhood-imprinting",
+                "fight-or-roll-over-binary",
+                "disassociating-in-the-coaching-room",
+                "in-the-story-im-not-being-seen"
+              ],
+              "follow_reason": "These four are the core diagnostic branches named in the coaching path — the binary, the live freeze, the projection shield, and the origin pattern — all directly relevant to where this client is right now."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "childhood-imprinting",
+              "fight-or-roll-over-binary",
+              "disassociating-in-the-coaching-room",
+              "in-the-story-im-not-being-seen"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "cost_usd": 0.013302,
+            "ms": 5123,
+            "input_tokens": 3354,
+            "output_tokens": 216,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "how-do-i-trust-myself",
+            "file_path": "coach/concerns/how-do-i-trust-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "intellectual-question-with-emotional-body",
+              "lets-go-there",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is freezing around authority/dad-boss dynamic, not self-trust or intuition-vs-fear — this file addresses a different presenting concern.",
+              "follow_edges": [
+                "im-afraid-ill-revert-to-my-old-pattern",
+                "lets-go-there",
+                "intellectual-question-with-emotional-body"
+              ],
+              "follow_reason": "Client's \"I'm tired of not being ready\" signals ambivalence about change and fear of reverting; \"lets-go-there\" fits the moment of tentative willingness; intellectual-question-with-emotional-body may match the client's cognitive framing of an emotional pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "lets-go-there",
+              "intellectual-question-with-emotional-body"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "compass-not-map",
+              "craving-is-the-pushing-away",
+              "how-do-you-not-trust-it",
+              "i-need-a-scorecard",
+              "if-you-think-youre-deciding-youre-in-fear",
+              "parts-work-made-things-worse",
+              "scorecard-keeping-as-identity-structure",
+              "the-happiness-filter",
+              "trust-as-multifaceted",
+              "what-makes-you-care-about-the-outcome"
+            ],
+            "cost_usd": 0.014604,
+            "ms": 4973,
+            "input_tokens": 3768,
+            "output_tokens": 220,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's core issue is freezing around authority figures (boss/dad), not a generalized stuck-vs-unknown pattern; i-freeze-around-authority already covers the presenting concern.",
+              "follow_edges": [
+                "what-were-avoiding-is-usually-love",
+                "treating-felt-state-as-factual-reality"
+              ],
+              "follow_reason": "Client's \"tired of not being ready\" hints at something avoided underneath the freeze (possibly love/longing re: dad), and their framing of readiness as a fixed state may reflect treating a felt state as factual — both edges could deepen the authority-freeze work."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-were-avoiding-is-usually-love",
+              "treating-felt-state-as-factual-reality"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "cost_usd": 0.014547,
+            "ms": 5516,
+            "input_tokens": 3784,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "childhood-imprinting",
+            "file_path": "coach/patterns/childhood-imprinting.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-make-family-dynamics-the-story",
+              "dont-shame-kids-they-self-shame",
+              "familiar-over-safe",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "honor-the-patterns-intent",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly explains the mechanism behind client's freeze response — boss inheriting the authority-figure slot from dad, theta-state programming, and the boss-as-customer reframe — all immediately applicable.",
+              "follow_edges": [
+                "familiar-over-safe",
+                "honor-the-patterns-intent",
+                "dont-make-family-dynamics-the-story",
+                "trace-emotion-to-its-first-felt"
+              ],
+              "follow_reason": "These edges address the pull toward familiar painful patterns, working with the pattern's intent, avoiding over-identification with family story, and tracing the freeze back to its origin — all directly relevant to client's boss-dad dynamic."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "familiar-over-safe",
+              "honor-the-patterns-intent",
+              "dont-make-family-dynamics-the-story"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-shame-kids-they-self-shame",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story"
+            ],
+            "cost_usd": 0.015126,
+            "ms": 5502,
+            "input_tokens": 3952,
+            "output_tokens": 218,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "fight-or-roll-over-binary",
+            "file_path": "coach/reads/fight-or-roll-over-binary.md",
+            "category": "reads",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "upright-undefended-love",
+              "we-have-built-up-resentment"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's freeze/shutdown pattern around the boss-as-dad figure is precisely the authority binary this file addresses — fight or roll over, with no third stance — directly applicable to the coaching path ahead.",
+              "follow_edges": [
+                "upright-undefended-love",
+                "become-the-authority-figure",
+                "binary-thinking-signals-fear"
+              ],
+              "follow_reason": "These three are the natural next steps: the third stance Joe introduces, the role-play technique to practice it, and the fear-cognition link underlying the binary — all directly relevant to this client's freeze pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "upright-undefended-love",
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.011679,
+            "ms": 4629,
+            "input_tokens": 2883,
+            "output_tokens": 202,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "disassociating-in-the-coaching-room",
+            "file_path": "coach/reads/disassociating-in-the-coaching-room.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "chin-up-as-emotion-block",
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's laugh + hedged \"I think\" + \"tired of not being ready\" is a live intellectualizing-dissociation moment — this file gives Joe the exact read and moves for what's happening right now in the room.",
+              "follow_edges": [
+                "intellectual-process-with-no-somatic-component"
+              ],
+              "follow_reason": "Client is clearly in their head (analyzing their own readiness) rather than in their body — this edge may offer the somatic-grounding counterpart Joe needs; the other two edges are less central to this moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "chin-up-as-emotion-block"
+            ],
+            "cost_usd": 0.013191,
+            "ms": 6194,
+            "input_tokens": 3412,
+            "output_tokens": 197,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0108734,
+        "walker_total_cost_usd": 0.082449,
+        "total_cost_usd": 0.0933224,
+        "seed_detection_input_tokens": 617,
+        "seed_detection_output_tokens": 136,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21153,
+        "walker_total_output_tokens": 1266,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2560,
+        "walker_total_ms": 31937,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.0933224,
+      "ms": 34500
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-freeze-around-authority",
+          "confidence-only-where-approval-isnt-needed",
+          "repressed-trigger-in-the-body"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes freezing/collapsing around authority figure (boss), losing access to their competent self in that context, and experiencing post-hoc fury—all signatures of repressed trigger. The confidence they have elsewhere but lose with the boss points to approval-seeking dynamic. The \"version of myself I can't access\" suggests identity fragmentation under authority pressure.",
+        "bundle_ids": [
+          "i-freeze-around-authority",
+          "confidence-only-where-approval-isnt-needed",
+          "reframe-boss-as-customer"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-freeze-around-authority.md",
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/moves/reframe-boss-as-customer.md"
+        ],
+        "bundle_reasons": [
+          "This file is a direct match: client collapses/freezes when boss enters the room, loses access to herself, and is furious afterward — all core signatures of this concern.",
+          "Client explicitly says she knows she's good at her job but loses access to herself when boss is present — the \"confident everywhere except where approval is at stake\" structure maps directly onto her situation.",
+          "This is a concrete, deployable coaching move for exactly the client's situation — boss-as-authority-figure collapse — and gives Joe a specific structural reframe to offer."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a direct match: client collapses/freezes when boss enters the room, loses access to herself, and is furious afterward — all core signatures of this concern.",
+              "follow_edges": [
+                "fight-or-roll-over-binary",
+                "in-the-story-im-not-being-seen",
+                "reframe-boss-as-customer",
+                "childhood-imprinting"
+              ],
+              "follow_reason": "These four edges map directly to the coaching path described: the binary she's stuck in, the \"version of myself I can't access\" as a not-being-seen dynamic, the boss-as-authority frame, and the childhood origin of the pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "fight-or-roll-over-binary",
+              "in-the-story-im-not-being-seen",
+              "reframe-boss-as-customer",
+              "childhood-imprinting"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "disassociating-in-the-coaching-room",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "rehearsing-how-to-say-it",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "cost_usd": 0.013863,
+            "ms": 5392,
+            "input_tokens": 3506,
+            "output_tokens": 223,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "confidence-only-where-approval-isnt-needed",
+            "file_path": "coach/reads/confidence-only-where-approval-isnt-needed.md",
+            "category": "reads",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "i-need-a-scorecard",
+              "joes-daughter-silent-retreat",
+              "pulling-the-brakes",
+              "scorecard-keeping-as-identity-structure"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly says she knows she's good at her job but loses access to herself when boss is present — the \"confident everywhere except where approval is at stake\" structure maps directly onto her situation.",
+              "follow_edges": [
+                "pulling-the-brakes"
+              ],
+              "follow_reason": "Client describes something that \"collapses\" in the moment — pulling-the-brakes may capture the internal mechanism of self-suppression under authority pressure, which is the live edge of her experience."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "pulling-the-brakes"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "i-need-a-scorecard",
+              "joes-daughter-silent-retreat",
+              "scorecard-keeping-as-identity-structure"
+            ],
+            "cost_usd": 0.013659,
+            "ms": 5596,
+            "input_tokens": 3663,
+            "output_tokens": 178,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "repressed-trigger-in-the-body",
+            "file_path": "coach/reads/repressed-trigger-in-the-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociation-as-numbness-layer",
+              "kinked-emotions",
+              "passive-aggressive-vs-aggressive-aggressive",
+              "the-happiness-filter",
+              "three-forms-of-anger-repression",
+              "trigger",
+              "triggered-vs-big-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about reading repressed trigger in others (body language, containment signals) — a coach's observational tool, not directly about the client's own experience of collapsing/freezing around her boss.",
+              "follow_edges": [
+                "three-forms-of-anger-repression",
+                "triggered-vs-big-emotion"
+              ],
+              "follow_reason": "Client's post-freeze fury at herself suggests anger repression is active; triggered-vs-big-emotion may clarify the collapse/freeze dynamic vs. an emotional flooding pattern she's experiencing."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "three-forms-of-anger-repression",
+              "triggered-vs-big-emotion"
+            ],
+            "edges_skipped": [
+              "disassociation-as-numbness-layer",
+              "kinked-emotions",
+              "passive-aggressive-vs-aggressive-aggressive",
+              "the-happiness-filter",
+              "trigger"
+            ],
+            "cost_usd": 0.013962,
+            "ms": 5311,
+            "input_tokens": 3679,
+            "output_tokens": 195,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "fight-or-roll-over-binary",
+            "file_path": "coach/reads/fight-or-roll-over-binary.md",
+            "category": "reads",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "upright-undefended-love",
+              "we-have-built-up-resentment"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client describes collapse/freeze and self-fury, not an oscillation between fighting and rolling over — the fight-or-roll-over binary isn't her presenting structure yet.",
+              "follow_edges": [
+                "upright-undefended-love",
+                "binary-thinking-signals-fear",
+                "empowered-vs-power"
+              ],
+              "follow_reason": "Upright-undefended-love is the third-stance antidote to her collapse; empowered-vs-power speaks to her losing access to herself under authority; binary-thinking-signals-fear may connect to her second-guessing pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "upright-undefended-love",
+              "binary-thinking-signals-fear",
+              "empowered-vs-power"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "calibrate-the-threshold",
+              "im-afraid-of-offending-people",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.01227,
+            "ms": 4506,
+            "input_tokens": 3050,
+            "output_tokens": 208,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't framed her situation as \"not being seen\" — her core complaint is collapsing/freezing and losing access to herself, not that her boss fails to see her.",
+              "follow_edges": [
+                "linguistic-caveat",
+                "mirror-the-judgment",
+                "say-the-forbidden-want-out-loud"
+              ],
+              "follow_reason": "Linguistic-caveat fits her \"I think\" hedge and second-guessing; mirror-the-judgment and say-the-forbidden-want could surface what's underneath the self-fury and the \"version of herself she can't access.\""
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "linguistic-caveat",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud"
+            ],
+            "edges_skipped": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "intellectual-process-with-no-somatic-component",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "what-if-they-did-see-you"
+            ],
+            "cost_usd": 0.012459,
+            "ms": 4579,
+            "input_tokens": 3123,
+            "output_tokens": 206,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "reframe-boss-as-customer",
+            "file_path": "coach/moves/reframe-boss-as-customer.md",
+            "category": "moves",
+            "candidate_edges": [
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "projections",
+              "structure-and-empowerment",
+              "three-reasons-we-dont-see-limiting-beliefs",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is a concrete, deployable coaching move for exactly the client's situation — boss-as-authority-figure collapse — and gives Joe a specific structural reframe to offer.",
+              "follow_edges": [
+                "vulnerability-in-the-workplace",
+                "projections"
+              ],
+              "follow_reason": "Vulnerability-in-the-workplace is directly relevant to her losing access to herself at work; projections may illuminate the specific family-dynamic transfer onto her boss, which she hasn't yet named."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "vulnerability-in-the-workplace",
+              "projections"
+            ],
+            "edges_skipped": [
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "structure-and-empowerment",
+              "three-reasons-we-dont-see-limiting-beliefs"
+            ],
+            "cost_usd": 0.013176,
+            "ms": 4023,
+            "input_tokens": 3497,
+            "output_tokens": 179,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111524,
+        "walker_total_cost_usd": 0.07938899999999999,
+        "total_cost_usd": 0.0905414,
+        "seed_detection_input_tokens": 781,
+        "seed_detection_output_tokens": 159,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 20518,
+        "walker_total_output_tokens": 1189,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2750,
+        "walker_total_ms": 29407,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.0905414,
+      "ms": 32161
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-freeze-around-authority",
+          "confidence-only-where-approval-isnt-needed",
+          "in-the-story-im-not-being-seen"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes freezing around authority figure (boss) while accessing clarity with peers and non-triggering authority figures—classic freeze-around-authority pattern. The confidence existing in some contexts but disappearing with the boss signals approval-dependency. The \"version of myself I can't access\" frames the issue as being unseen/not showing up, which is the cover story for deeper fear.",
+        "bundle_ids": [
+          "i-freeze-around-authority",
+          "confidence-only-where-approval-isnt-needed",
+          "childhood-imprinting",
+          "reframe-boss-as-customer"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-freeze-around-authority.md",
+          "coach/reads/confidence-only-where-approval-isnt-needed.md",
+          "coach/patterns/childhood-imprinting.md",
+          "coach/moves/reframe-boss-as-customer.md"
+        ],
+        "bundle_reasons": [
+          "This file is a direct match: client freezes around her boss, can access herself elsewhere, and describes losing a clear version of herself — all canonical signals of this concern.",
+          "Client explicitly names that she IS confident with peers/some authority figures but not her boss — the exact \"confidence only where approval isn't needed\" contrast this file diagnoses, and the structural read would illuminate her situation.",
+          "Directly explains why the client collapses around her boss specifically: the boss-as-authority-figure pattern transfer from childhood theta-state programming is the structural mechanism behind her freeze.",
+          "This is a concrete, deployable coaching move for exactly the client's situation: boss-as-authority-figure freeze, with childhood imprinting already named in the bundle — the reframe is the natural next intervention."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a direct match: client freezes around her boss, can access herself elsewhere, and describes losing a clear version of herself — all canonical signals of this concern.",
+              "follow_edges": [
+                "childhood-imprinting",
+                "fight-or-roll-over-binary",
+                "reframe-boss-as-customer",
+                "upright-undefended-love"
+              ],
+              "follow_reason": "These four edges map to the core coaching path for this concern: the origin of the pattern, the binary she's stuck in, a structural reframe, and the third option Joe pushes toward."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "childhood-imprinting",
+              "fight-or-roll-over-binary",
+              "reframe-boss-as-customer",
+              "upright-undefended-love"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "disassociating-in-the-coaching-room",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move"
+            ],
+            "cost_usd": 0.013575,
+            "ms": 4794,
+            "input_tokens": 3515,
+            "output_tokens": 202,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "confidence-only-where-approval-isnt-needed",
+            "file_path": "coach/reads/confidence-only-where-approval-isnt-needed.md",
+            "category": "reads",
+            "candidate_edges": [
+              "art-of-accomplishment",
+              "i-need-a-scorecard",
+              "joes-daughter-silent-retreat",
+              "pulling-the-brakes",
+              "scorecard-keeping-as-identity-structure"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly names that she IS confident with peers/some authority figures but not her boss — the exact \"confidence only where approval isn't needed\" contrast this file diagnoses, and the structural read would illuminate her situation.",
+              "follow_edges": [
+                "pulling-the-brakes"
+              ],
+              "follow_reason": "Pulling-the-brakes may relate to the collapse/freeze she experiences in the moment with her boss; the other edges (scorecard, accomplishment) are less directly relevant to the approval-freeze dynamic."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "pulling-the-brakes"
+            ],
+            "edges_skipped": [
+              "art-of-accomplishment",
+              "i-need-a-scorecard",
+              "joes-daughter-silent-retreat",
+              "scorecard-keeping-as-identity-structure"
+            ],
+            "cost_usd": 0.013791,
+            "ms": 4839,
+            "input_tokens": 3672,
+            "output_tokens": 185,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't framed a complaint about not being seen by her boss — her concern is about losing access to herself, not about the boss failing to recognize her; this read doesn't match her presenting material.",
+              "follow_edges": [
+                "mirror-the-judgment",
+                "say-the-forbidden-want-out-loud",
+                "what-if-they-did-see-you"
+              ],
+              "follow_reason": "These three edges could surface useful moves around the authority dynamic and what she's not letting herself express — more directly relevant than the \"not being seen\" complaint frame."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "edges_skipped": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "chin-up-as-emotion-block",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "manufacturing-the-feeling"
+            ],
+            "cost_usd": 0.012366,
+            "ms": 4519,
+            "input_tokens": 3137,
+            "output_tokens": 197,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "childhood-imprinting",
+            "file_path": "coach/patterns/childhood-imprinting.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-make-family-dynamics-the-story",
+              "dont-shame-kids-they-self-shame",
+              "familiar-over-safe",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "honor-the-patterns-intent",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly explains why the client collapses around her boss specifically: the boss-as-authority-figure pattern transfer from childhood theta-state programming is the structural mechanism behind her freeze.",
+              "follow_edges": [
+                "familiar-over-safe",
+                "honor-the-patterns-intent",
+                "i-cant-trust-my-thoughts-right-now",
+                "dont-make-family-dynamics-the-story"
+              ],
+              "follow_reason": "These edges address: why the familiar collapse feels safer than clarity (familiar-over-safe), working with rather than against the pattern (honor-the-patterns-intent), the client's in-the-moment cognitive shutdown (i-cant-trust-my-thoughts-right-now), and avoiding over-pathologizing the family origin story (dont-make-family-dynamics-the-story)."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "familiar-over-safe",
+              "honor-the-patterns-intent",
+              "i-cant-trust-my-thoughts-right-now",
+              "dont-make-family-dynamics-the-story"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-shame-kids-they-self-shame",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story"
+            ],
+            "cost_usd": 0.016386,
+            "ms": 5116,
+            "input_tokens": 4182,
+            "output_tokens": 256,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "fight-or-roll-over-binary",
+            "file_path": "coach/reads/fight-or-roll-over-binary.md",
+            "category": "reads",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "we-have-built-up-resentment"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client describes freezing/shrinking, not oscillating between fight and submission — the fight-or-roll-over binary isn't her presenting pattern yet.",
+              "follow_edges": [
+                "become-the-authority-figure",
+                "binary-thinking-signals-fear",
+                "empowered-vs-power"
+              ],
+              "follow_reason": "become-the-authority-figure is a live practice tool for her boss-freeze; empowered-vs-power speaks to her wanting clarity/agency rather than reaction; binary-thinking-signals-fear may connect to the cognitive narrowing she experiences in the room."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "empowered-vs-power"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "im-afraid-of-offending-people",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.01236,
+            "ms": 4641,
+            "input_tokens": 3100,
+            "output_tokens": 204,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "reframe-boss-as-customer",
+            "file_path": "coach/moves/reframe-boss-as-customer.md",
+            "category": "moves",
+            "candidate_edges": [
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "projections",
+              "structure-and-empowerment",
+              "three-reasons-we-dont-see-limiting-beliefs",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is a concrete, deployable coaching move for exactly the client's situation: boss-as-authority-figure freeze, with childhood imprinting already named in the bundle — the reframe is the natural next intervention.",
+              "follow_edges": [
+                "vulnerability-in-the-workplace",
+                "projections"
+              ],
+              "follow_reason": "Vulnerability-in-the-workplace is directly relevant to her losing access to herself at work; projections may illuminate the specific charge she carries around her boss — both are concrete enough to be useful."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "vulnerability-in-the-workplace",
+              "projections"
+            ],
+            "edges_skipped": [
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "structure-and-empowerment",
+              "three-reasons-we-dont-see-limiting-beliefs"
+            ],
+            "cost_usd": 0.013491,
+            "ms": 4739,
+            "input_tokens": 3557,
+            "output_tokens": 188,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111994,
+        "walker_total_cost_usd": 0.081969,
+        "total_cost_usd": 0.0931684,
+        "seed_detection_input_tokens": 793,
+        "seed_detection_output_tokens": 166,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21163,
+        "walker_total_output_tokens": 1232,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2908,
+        "walker_total_ms": 28648,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.0931684,
+      "ms": 31560
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-freeze-around-authority",
+          "i-have-to-do-it-all-myself",
+          "im-afraid-of-offending-people"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes freezing/going quiet around authority figure (dad-like trigger), learned self-reliance/smallness as survival strategy, and fear of visibility/taking space rooted in childhood where being visible \"didn't go well.\" The intellectual understanding without somatic shift points to the gap between knowing and embodied change.",
+        "bundle_ids": [
+          "i-freeze-around-authority",
+          "childhood-imprinting",
+          "disassociating-in-the-coaching-room"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-freeze-around-authority.md",
+          "coach/patterns/childhood-imprinting.md",
+          "coach/reads/disassociating-in-the-coaching-room.md"
+        ],
+        "bundle_reasons": [
+          "This file is a direct match: client freezes/hides around a specific authority figure (boss), traces it to her father, and can be herself everywhere else — exactly the pattern this concern describes.",
+          "Directly explains the mechanism behind client's \"hiding\" reflex: theta-state programming from childhood that makes being visible/authentic feel dangerous, and the specific transfer of that pattern onto boss-as-authority-figure.",
+          "Client explicitly names the intellectualizing variant — \"I can talk about this pretty analytically... knowing the origin doesn't seem to change the reflex\" — which is precisely the head-trip dissociation this file describes, and it's sourced from Father Figures and Authority sessions matching her exact pattern."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a direct match: client freezes/hides around a specific authority figure (boss), traces it to her father, and can be herself everywhere else — exactly the pattern this concern describes.",
+              "follow_edges": [
+                "childhood-imprinting",
+                "disassociating-in-the-coaching-room",
+                "fight-or-roll-over-binary",
+                "tell-the-unchanging-part-it-has-to-move"
+              ],
+              "follow_reason": "Childhood-imprinting explains the transfer mechanism she's already named; disassociating-in-the-coaching-room is relevant since the freeze may be live; fight-or-roll-over-binary maps to her binary of shrink vs. be visible; tell-the-unchanging-part addresses her key insight that knowing the origin doesn't change the reflex."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "tell-the-unchanging-part-it-has-to-move"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "i-feel-trapped",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "upright-undefended-love"
+            ],
+            "cost_usd": 0.0147,
+            "ms": 5606,
+            "input_tokens": 3600,
+            "output_tokens": 260,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about hyper-independence/can't-depend-on-others; client's issue is specifically about freezing/hiding around a paternal authority figure, not self-reliance or abandonment-driven independence.",
+              "follow_edges": [
+                "creating-safety-suppresses-self",
+                "helplessness-is-the-gateway",
+                "repressed-trigger-in-the-body",
+                "reclaiming-abandonment"
+              ],
+              "follow_reason": "These edges speak directly to: why safety-seeking suppresses the authentic self, the helplessness underneath the freeze reflex, the somatic/body dimension of the trigger, and the father-origin pattern the client explicitly named."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "repressed-trigger-in-the-body",
+              "reclaiming-abandonment"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "cost_usd": 0.015594,
+            "ms": 7507,
+            "input_tokens": 4078,
+            "output_tokens": 224,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "im-afraid-of-offending-people",
+            "file_path": "coach/concerns/im-afraid-of-offending-people.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "calibrate-the-threshold",
+              "conflict-avoidance-prevents-healing",
+              "how-else-would-you-heal-your-shame",
+              "looking-for-whats-wrong",
+              "press-the-button-thought-experiment",
+              "shame-as-disconnection",
+              "the-built-up-resentment-story",
+              "the-shame-avoidance-loop",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's issue is freezing/hiding around a specific authority figure (dad-pattern with boss), not fear of offending people generally — different presenting shape despite some overlap.",
+              "follow_edges": [
+                "shame-as-disconnection",
+                "the-shame-avoidance-loop"
+              ],
+              "follow_reason": "Client explicitly knows the origin intellectually but the reflex persists — shame-as-disconnection and the shame-avoidance-loop may explain why insight alone doesn't change the pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "shame-as-disconnection",
+              "the-shame-avoidance-loop"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "conflict-avoidance-prevents-healing",
+              "how-else-would-you-heal-your-shame",
+              "looking-for-whats-wrong",
+              "press-the-button-thought-experiment",
+              "the-built-up-resentment-story",
+              "trigger-the-shame-live",
+              "trust-requires-conflict"
+            ],
+            "cost_usd": 0.014796,
+            "ms": 4818,
+            "input_tokens": 4017,
+            "output_tokens": 183,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "childhood-imprinting",
+            "file_path": "coach/patterns/childhood-imprinting.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-make-family-dynamics-the-story",
+              "dont-shame-kids-they-self-shame",
+              "familiar-over-safe",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "honor-the-patterns-intent",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story",
+              "joes-pleasing-dad-money-story"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly explains the mechanism behind client's \"hiding\" reflex: theta-state programming from childhood that makes being visible/authentic feel dangerous, and the specific transfer of that pattern onto boss-as-authority-figure.",
+              "follow_edges": [
+                "dont-make-family-dynamics-the-story",
+                "honor-the-patterns-intent",
+                "familiar-over-safe",
+                "feeling-the-unfelt-emotion"
+              ],
+              "follow_reason": "These edges address the key coaching tension: client knows the origin intellectually but can't change the reflex — \"don't make family dynamics the story\" and \"honor the pattern's intent\" speak directly to that gap, while \"familiar-over-safe\" and \"feeling-the-unfelt-emotion\" address what keeps the pattern locked in place."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "dont-make-family-dynamics-the-story",
+              "honor-the-patterns-intent",
+              "familiar-over-safe",
+              "feeling-the-unfelt-emotion"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "chin-up-as-emotion-block",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-shame-kids-they-self-shame",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-feel-my-emotions",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story",
+              "joes-pleasing-dad-money-story"
+            ],
+            "cost_usd": 0.016317,
+            "ms": 5443,
+            "input_tokens": 4209,
+            "output_tokens": 246,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "disassociating-in-the-coaching-room",
+            "file_path": "coach/reads/disassociating-in-the-coaching-room.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "chin-up-as-emotion-block",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly names the intellectualizing variant — \"I can talk about this pretty analytically... knowing the origin doesn't seem to change the reflex\" — which is precisely the head-trip dissociation this file describes, and it's sourced from Father Figures and Authority sessions matching her exact pattern.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body",
+                "chin-up-as-emotion-block"
+              ],
+              "follow_reason": "Intellectualizing-as-dissociation is the live pattern; chin-up may capture the \"making myself small / tucking back\" somatic suppression the client describes."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body",
+              "chin-up-as-emotion-block"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "cost_usd": 0.014079,
+            "ms": 5368,
+            "input_tokens": 3633,
+            "output_tokens": 212,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "fight-or-roll-over-binary",
+            "file_path": "coach/reads/fight-or-roll-over-binary.md",
+            "category": "reads",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "upright-undefended-love",
+              "we-have-built-up-resentment"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client describes hiding/shrinking, not oscillating between fight and submission — the fight-or-roll-over binary isn't her stated pattern, so this file doesn't map to her current presentation.",
+              "follow_edges": [
+                "upright-undefended-love",
+                "binary-thinking-signals-fear"
+              ],
+              "follow_reason": "Upright-undefended-love names the third stance (not hiding, not fighting) which is exactly what the client's \"clear self\" embodies; binary-thinking-signals-fear may connect to the fear underlying her hiding reflex."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "upright-undefended-love",
+              "binary-thinking-signals-fear"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.012651,
+            "ms": 4908,
+            "input_tokens": 3212,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112064,
+        "walker_total_cost_usd": 0.088137,
+        "total_cost_usd": 0.0993434,
+        "seed_detection_input_tokens": 875,
+        "seed_detection_output_tokens": 151,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 22749,
+        "walker_total_output_tokens": 1326,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2453,
+        "walker_total_ms": 33650,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 10
+      },
+      "cost_usd": 0.0993434,
+      "ms": 36106
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-freeze-around-authority",
+          "disassociation-as-numbness-layer",
+          "i-cant-feel-my-emotions"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes freezing/dropping out around authority figures (boss), dissociating as a protective numbness layer before fear, and difficulty accessing emotions in real-time despite intellectual understanding of the pattern. The \"low hum\" vs \"full-body drop out\" distinction suggests the activation is present but being managed/suppressed until closer contact with the trigger (dad/authority).",
+        "bundle_ids": [
+          "i-freeze-around-authority",
+          "disassociation-as-numbness-layer",
+          "disassociating-in-the-coaching-room",
+          "fight-or-roll-over-binary"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-freeze-around-authority.md",
+          "coach/patterns/disassociation-as-numbness-layer.md",
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/reads/fight-or-roll-over-binary.md"
+        ],
+        "bundle_reasons": [
+          "This file is a direct match: client freezes/drops out around boss, traces it to dad, makes herself small — every detection cue and coaching path here applies precisely.",
+          "Client describes \"dropping out\" (full-body shutdown) with boss and a \"low hum / pretty okay\" right now — classic numbness layer before fear; this file directly explains that sequence and gives Joe the coaching move (feel the numbness first).",
+          "Client is doing the intellectualizing variant right now — talking analytically about her pattern (\"I know that's the dad thing\"), reporting \"pretty okay\" while the real feeling waits; this file names that exact move and gives Joe the coaching response.",
+          "Client explicitly describes only two modes with authority (drop out/hide vs. presumably fight back) — this file names that binary structure and gives Joe the exact coaching move to introduce a third stance."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "repressed-trigger-in-the-body",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file is a direct match: client freezes/drops out around boss, traces it to dad, makes herself small — every detection cue and coaching path here applies precisely.",
+              "follow_edges": [
+                "disassociating-in-the-coaching-room",
+                "fight-or-roll-over-binary",
+                "in-the-story-im-not-being-seen",
+                "repressed-trigger-in-the-body"
+              ],
+              "follow_reason": "Client is analytically distant from the body experience (dissociation cue), likely holds a fight-or-roll-over binary, uses \"not being seen\" framing, and the body-drop-out response points to a somatic/repressed trigger worth exploring."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "in-the-story-im-not-being-seen",
+              "repressed-trigger-in-the-body"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "cost_usd": 0.014283,
+            "ms": 7091,
+            "input_tokens": 3591,
+            "output_tokens": 234,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "disassociation-as-numbness-layer",
+            "file_path": "coach/patterns/disassociation-as-numbness-layer.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "absence-of-resistance-to-the-suck",
+              "adrenaline-discharge-via-fear-activity",
+              "chin-up-as-emotion-block",
+              "defense",
+              "everyone-is-pretending",
+              "fear-as-signal-of-care",
+              "fear-is-about-feeling",
+              "fear-is-misuse-of-imagination",
+              "fear-vs-anxiety",
+              "feeling-the-unfelt-emotion",
+              "how-is-my-anxiety-right-now",
+              "im-not-an-anxious-person",
+              "let-your-body-shake-it-out",
+              "polyvagal-nervous-system-framing",
+              "staying-in-your-body",
+              "sustained-fear-requires-post-hoc-processing",
+              "triggered-vs-big-emotion",
+              "welcoming-fear-in-leadership"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client describes \"dropping out\" (full-body shutdown) with boss and a \"low hum / pretty okay\" right now — classic numbness layer before fear; this file directly explains that sequence and gives Joe the coaching move (feel the numbness first).",
+              "follow_edges": [
+                "staying-in-your-body",
+                "im-not-an-anxious-person",
+                "fear-vs-anxiety",
+                "polyvagal-nervous-system-framing"
+              ],
+              "follow_reason": "Client's \"drop out\" is a somatic/nervous-system event; these edges address body-based work, the \"I'm not anxious\" identity, and the fear-vs-anxiety distinction — all directly relevant to where this session is heading."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "staying-in-your-body",
+              "im-not-an-anxious-person",
+              "fear-vs-anxiety",
+              "polyvagal-nervous-system-framing"
+            ],
+            "edges_skipped": [
+              "absence-of-resistance-to-the-suck",
+              "adrenaline-discharge-via-fear-activity",
+              "chin-up-as-emotion-block",
+              "defense",
+              "everyone-is-pretending",
+              "fear-as-signal-of-care",
+              "fear-is-about-feeling",
+              "fear-is-misuse-of-imagination",
+              "feeling-the-unfelt-emotion",
+              "how-is-my-anxiety-right-now",
+              "let-your-body-shake-it-out",
+              "sustained-fear-requires-post-hoc-processing",
+              "triggered-vs-big-emotion",
+              "welcoming-fear-in-leadership"
+            ],
+            "cost_usd": 0.01557,
+            "ms": 5748,
+            "input_tokens": 4005,
+            "output_tokens": 237,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-cant-feel-my-emotions",
+            "file_path": "coach/concerns/i-cant-feel-my-emotions.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "intellectual-process-with-no-somatic-component",
+              "manufacturing-the-feeling",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't reporting inability to feel emotions — she's analytically aware, checks in somatically, and anticipates feeling more when closer to dad; this is dissociation/freeze, not alexithymia.",
+              "follow_edges": [
+                "chin-up-as-emotion-block",
+                "manufacturing-the-feeling"
+              ],
+              "follow_reason": "Chin-up and manufacturing-the-feeling are concrete somatic coaching moves relevant to helping client access what's underneath the \"low hum\" and the freeze response."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "chin-up-as-emotion-block",
+              "manufacturing-the-feeling"
+            ],
+            "edges_skipped": [
+              "intellectual-process-with-no-somatic-component",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014463,
+            "ms": 4552,
+            "input_tokens": 3886,
+            "output_tokens": 187,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "disassociating-in-the-coaching-room",
+            "file_path": "coach/reads/disassociating-in-the-coaching-room.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "intellectual-process-with-no-somatic-component",
+              "intellectual-question-with-emotional-body"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client is doing the intellectualizing variant right now — talking analytically about her pattern (\"I know that's the dad thing\"), reporting \"pretty okay\" while the real feeling waits; this file names that exact move and gives Joe the coaching response.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body"
+              ],
+              "follow_reason": "Client opened the session with an intellectual frame on her emotional pattern — that file covers the session-start version of this same dissociation-into-analysis move, which is directly relevant here."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right",
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "cost_usd": 0.01368,
+            "ms": 4796,
+            "input_tokens": 3610,
+            "output_tokens": 190,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "fight-or-roll-over-binary",
+            "file_path": "coach/reads/fight-or-roll-over-binary.md",
+            "category": "reads",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "upright-undefended-love",
+              "we-have-built-up-resentment"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly describes only two modes with authority (drop out/hide vs. presumably fight back) — this file names that binary structure and gives Joe the exact coaching move to introduce a third stance.",
+              "follow_edges": [
+                "upright-undefended-love",
+                "binary-thinking-signals-fear",
+                "become-the-authority-figure"
+              ],
+              "follow_reason": "Upright-undefended-love is the third stance Joe would introduce; binary-thinking-signals-fear connects the narrow option space to the unfelt fear underneath; become-the-authority-figure is the live practice move Joe uses once the third stance is found."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "upright-undefended-love",
+              "binary-thinking-signals-fear",
+              "become-the-authority-figure"
+            ],
+            "edges_skipped": [
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.012795,
+            "ms": 5278,
+            "input_tokens": 3200,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "in-the-story-im-not-being-seen",
+            "file_path": "coach/reads/in-the-story-im-not-being-seen.md",
+            "category": "reads",
+            "candidate_edges": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "intellectual-process-with-no-somatic-component",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "mirror-the-judgment",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't framed a complaint about not being seen — she's describing her own hiding/dropping-out reflex; this file addresses a different presenting pattern (blaming others for not seeing me).",
+              "follow_edges": [
+                "intellectual-process-with-no-somatic-component",
+                "mirror-the-judgment"
+              ],
+              "follow_reason": "Intellectual-process-with-no-somatic-component directly matches client's analytic detachment right now; mirror-the-judgment could be relevant if the dad dynamic surfaces, but the other edges (being-heard, desire-for-resolution, etc.) don't match the current moment."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "intellectual-process-with-no-somatic-component",
+              "mirror-the-judgment"
+            ],
+            "edges_skipped": [
+              "being-heard",
+              "calibrate-the-threshold",
+              "desire-for-resolution",
+              "how-is-that-not-true-about-you",
+              "linguistic-caveat",
+              "loyalty-under-low-affection",
+              "say-the-forbidden-want-out-loud",
+              "what-if-they-did-see-you"
+            ],
+            "cost_usd": 0.013128,
+            "ms": 5163,
+            "input_tokens": 3306,
+            "output_tokens": 214,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0112304,
+        "walker_total_cost_usd": 0.083919,
+        "total_cost_usd": 0.0951494,
+        "seed_detection_input_tokens": 854,
+        "seed_detection_output_tokens": 160,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21598,
+        "walker_total_output_tokens": 1275,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2804,
+        "walker_total_ms": 32628,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.6666666666666666,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 12
+      },
+      "cost_usd": 0.0951494,
+      "ms": 35434
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-freeze-around-authority",
+          "repressed-trigger-in-the-body",
+          "chin-up-as-emotion-block"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes chronic upper-chest constriction that goes unnoticed until prompted—a somatic signature of repressed activation around authority figures (boss/father). The \"background\" quality and need for external prompting to notice suggests emotional repression held in the body, particularly in the chest/throat area where freeze responses and emotional blocking often lodge.",
+        "bundle_ids": [
+          "i-freeze-around-authority",
+          "repressed-trigger-in-the-body",
+          "childhood-imprinting",
+          "disassociating-in-the-coaching-room",
+          "fight-or-roll-over-binary"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-freeze-around-authority.md",
+          "coach/reads/repressed-trigger-in-the-body.md",
+          "coach/patterns/childhood-imprinting.md",
+          "coach/reads/disassociating-in-the-coaching-room.md",
+          "coach/reads/fight-or-roll-over-binary.md"
+        ],
+        "bundle_reasons": [
+          "Client explicitly names freezing/dropping out with boss + father connection already surfacing — this file is the direct map for exactly this pattern.",
+          "Client's \"always there, background hum in the chest I've stopped registering\" is textbook repressed trigger — the containment-as-signature this file maps precisely, and Joe's coaching moves here (name it gently, look for the body, slow the room) are exactly what's needed next.",
+          "This file directly maps the boss-as-dad pattern the client is living — the theta-state transfer mechanism explains exactly why he \"drops out\" with his boss and why the chest hum is a childhood program activating, not a current-situation response.",
+          "Client's \"always there, background hum I've stopped registering\" is exactly the dissociation-as-thinned-presence this file maps — and the intellectualizing variant is a live risk as he approaches the dad material.",
+          "Client's freeze/drop-out pattern with boss maps directly to this binary — he likely has only fight or submit rehearsed, and this file gives Joe the exact diagnostic and intervention moves for that structure."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-freeze-around-authority",
+            "file_path": "coach/concerns/i-freeze-around-authority.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "in-the-story-im-not-being-seen",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client explicitly names freezing/dropping out with boss + father connection already surfacing — this file is the direct map for exactly this pattern.",
+              "follow_edges": [
+                "childhood-imprinting",
+                "disassociating-in-the-coaching-room",
+                "fight-or-roll-over-binary",
+                "in-the-story-im-not-being-seen"
+              ],
+              "follow_reason": "These four are the specific sub-patterns Joe reads for in this concern — the imprinting origin, the live freeze in session, the binary, and the \"not being seen\" shield — all directly relevant to where this client is heading."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "childhood-imprinting",
+              "disassociating-in-the-coaching-room",
+              "fight-or-roll-over-binary",
+              "in-the-story-im-not-being-seen"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "i-feel-trapped",
+              "im-afraid-of-offending-people",
+              "mirror-the-judgment",
+              "name-the-authoritys-fear",
+              "projections",
+              "reframe-boss-as-customer",
+              "rehearsing-how-to-say-it",
+              "tell-the-unchanging-part-it-has-to-move",
+              "upright-undefended-love"
+            ],
+            "cost_usd": 0.013611,
+            "ms": 5819,
+            "input_tokens": 3472,
+            "output_tokens": 213,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "repressed-trigger-in-the-body",
+            "file_path": "coach/reads/repressed-trigger-in-the-body.md",
+            "category": "reads",
+            "candidate_edges": [
+              "disassociation-as-numbness-layer",
+              "kinked-emotions",
+              "passive-aggressive-vs-aggressive-aggressive",
+              "the-happiness-filter",
+              "three-forms-of-anger-repression",
+              "trigger",
+              "triggered-vs-big-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"always there, background hum in the chest I've stopped registering\" is textbook repressed trigger — the containment-as-signature this file maps precisely, and Joe's coaching moves here (name it gently, look for the body, slow the room) are exactly what's needed next.",
+              "follow_edges": [
+                "disassociation-as-numbness-layer",
+                "three-forms-of-anger-repression",
+                "triggered-vs-big-emotion"
+              ],
+              "follow_reason": "Dissociation-as-numbness directly explains the \"stopped registering it\" quality; three-forms-of-anger-repression maps the specific flavor of suppression; triggered-vs-big-emotion helps distinguish the low-hum from full activation — all relevant to this client's pattern."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "disassociation-as-numbness-layer",
+              "three-forms-of-anger-repression",
+              "triggered-vs-big-emotion"
+            ],
+            "edges_skipped": [
+              "kinked-emotions",
+              "passive-aggressive-vs-aggressive-aggressive",
+              "the-happiness-filter",
+              "trigger"
+            ],
+            "cost_usd": 0.014523,
+            "ms": 5639,
+            "input_tokens": 3581,
+            "output_tokens": 252,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "chin-up-as-emotion-block",
+            "file_path": "coach/reads/chin-up-as-emotion-block.md",
+            "category": "reads",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "i-cant-feel-my-emotions",
+              "intellectual-process-with-no-somatic-component",
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's repression signature is a chronic background hum in the chest — not an in-session chin-lift observable by Joe; this read requires visual somatic cues Joe can't access here.",
+              "follow_edges": [
+                "i-cant-feel-my-emotions",
+                "intellectual-process-with-no-somatic-component"
+              ],
+              "follow_reason": "Client's \"stopped registering it\" and background-hum pattern points toward both emotional numbness/disconnection and possible head-dominant processing — these edges are more directly relevant than the others."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "i-cant-feel-my-emotions",
+              "intellectual-process-with-no-somatic-component"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "mark-it-and-return-later",
+              "noticing-the-matrix-pattern",
+              "toggle-between-opposite-emotions-then-hold-both",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.014349,
+            "ms": 4902,
+            "input_tokens": 3808,
+            "output_tokens": 195,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "childhood-imprinting",
+            "file_path": "coach/patterns/childhood-imprinting.md",
+            "category": "patterns",
+            "candidate_edges": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-make-family-dynamics-the-story",
+              "dont-shame-kids-they-self-shame",
+              "familiar-over-safe",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "honor-the-patterns-intent",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-abandonment-mapping",
+              "joes-crying-story",
+              "joes-pleasing-dad-money-story",
+              "love-misconceptions-inherited-from-childhood"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This file directly maps the boss-as-dad pattern the client is living — the theta-state transfer mechanism explains exactly why he \"drops out\" with his boss and why the chest hum is a childhood program activating, not a current-situation response.",
+              "follow_edges": [
+                "familiar-over-safe",
+                "honor-the-patterns-intent",
+                "trace-emotion-to-its-first-felt",
+                "joes-abandonment-mapping"
+              ],
+              "follow_reason": "These edges map directly to the client's pattern: familiar-over-safe explains why the freeze feels \"normal,\" honor-the-patterns-intent for working with rather than against the freeze, trace-emotion-to-its-first-felt for the dad connection surfacing, and joes-abandonment-mapping as a parallel authority/father story Joe may draw on."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "familiar-over-safe",
+              "honor-the-patterns-intent",
+              "joes-abandonment-mapping"
+            ],
+            "edges_skipped": [
+              "ali-abdaal-coaching-session",
+              "am-i-being-selfish",
+              "anxious-avoidant-dynamic",
+              "become-unnecessary",
+              "coaching-as-savior-role",
+              "complementary-trauma-surfaces",
+              "dont-make-family-dynamics-the-story",
+              "dont-shame-kids-they-self-shame",
+              "fear-of-joy",
+              "fear-of-losing-yourself-in-love",
+              "feeling-the-unfelt-emotion",
+              "how-you-related-to-parents-is-how-you-relate-to-god-and-money",
+              "i-cant-find-love",
+              "i-cant-trust-my-thoughts-right-now",
+              "i-exist-affirmation-against-collapse",
+              "i-have-to-do-it-all-myself",
+              "i-have-to-sacrifice-to-succeed",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-turned-out-fine",
+              "im-exhausted-holding-space-for-my-partner",
+              "impulse-to-should",
+              "inherent-goodness",
+              "intellectual-emotional-polarization-in-couples",
+              "joes-crying-story",
+              "joes-pleasing-dad-money-story",
+              "love-misconceptions-inherited-from-childhood"
+            ],
+            "cost_usd": 0.016308,
+            "ms": 6180,
+            "input_tokens": 4151,
+            "output_tokens": 257,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "disassociating-in-the-coaching-room",
+            "file_path": "coach/reads/disassociating-in-the-coaching-room.md",
+            "category": "reads",
+            "candidate_edges": [
+              "am-i-doing-it-right",
+              "intellectual-question-with-emotional-body"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"always there, background hum I've stopped registering\" is exactly the dissociation-as-thinned-presence this file maps — and the intellectualizing variant is a live risk as he approaches the dad material.",
+              "follow_edges": [
+                "intellectual-question-with-emotional-body"
+              ],
+              "follow_reason": "Client is on the edge of dropping into the dad material and may pivot to analysis — the session-opening intellectualizing variant is worth checking; am-i-doing-it-right is less relevant right now."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "intellectual-question-with-emotional-body"
+            ],
+            "edges_skipped": [
+              "am-i-doing-it-right"
+            ],
+            "cost_usd": 0.013569,
+            "ms": 4782,
+            "input_tokens": 3553,
+            "output_tokens": 194,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "fight-or-roll-over-binary",
+            "file_path": "coach/reads/fight-or-roll-over-binary.md",
+            "category": "reads",
+            "candidate_edges": [
+              "become-the-authority-figure",
+              "binary-thinking-signals-fear",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "upright-undefended-love",
+              "we-have-built-up-resentment"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's freeze/drop-out pattern with boss maps directly to this binary — he likely has only fight or submit rehearsed, and this file gives Joe the exact diagnostic and intervention moves for that structure.",
+              "follow_edges": [
+                "upright-undefended-love",
+                "binary-thinking-signals-fear"
+              ],
+              "follow_reason": "Upright-undefended-love is the third stance Joe would introduce; binary-thinking-signals-fear maps the fear underneath the narrow option space — both directly relevant as client approaches the dad material."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "upright-undefended-love",
+              "binary-thinking-signals-fear"
+            ],
+            "edges_skipped": [
+              "become-the-authority-figure",
+              "calibrate-the-threshold",
+              "empowered-vs-power",
+              "im-afraid-of-offending-people",
+              "we-have-built-up-resentment"
+            ],
+            "cost_usd": 0.012363,
+            "ms": 4604,
+            "input_tokens": 3156,
+            "output_tokens": 193,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0110834,
+        "walker_total_cost_usd": 0.08472299999999999,
+        "total_cost_usd": 0.09580639999999999,
+        "seed_detection_input_tokens": 747,
+        "seed_detection_output_tokens": 152,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 21721,
+        "walker_total_output_tokens": 1304,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2964,
+        "walker_total_ms": 31926,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.8333333333333334,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 14
+      },
+      "cost_usd": 0.09580639999999999,
+      "ms": 34893
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:43.767Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "4d36e82254370ff2e20fa250947cfa2512916c83d62767e5b84ffae4ee7083c0",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01DmeMcBCCVpjLmPo269Hhmo",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 2,\n  \"rationale\": \"The coach demonstrates real curiosity and refuses to collude with the victim/partner-picking frame, which is a strong VIEW signal. Questions are largely single, spacious, and emerge from noticing (the dismissive wave, the laugh, the 'good enough' phrase) rather than from a script. However, the stance tips toward a subtle agenda: the coach has a clear hypothesis ('this is fear,' 'this traces to dad') and steers toward it through several turns (T6 'what if they're scary,' T8 'what are you scared of feeling,' T12 'where did you first learn'). When the client deflects in T7 and T9, the coach doesn't soften, name their own pull, or wonder aloud — they re-aim the same arrow. There is no first-person vulnerability ('I notice I want to...'), no willingness to be wrong ('maybe I'm off'), and no real pace-mismatch when the client is speeding up to defend (T9, T13) — the coach stays in steady inquiry mode but doesn't slow the field. Empathy and wonder are present; impartiality and vulnerability are weak. This is competent inquiry from a slightly agenda-held place, not full VIEW.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the laugh, asks one open question — wonder present, no rush.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the dismissive wave from a curious, non-accusing place.\"},\n    {\"turn\": 6, \"polarity\": \"-\", \"annotation\": \"'What if they're actually scary' is a leading hypothesis — agenda-tinged rather than open wonder.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"'That's a very good explanation' has a faint edge of knowingness; question that follows assumes fear is the answer.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Beautiful redirect from the ex-frame back to her — refuses the victim/disdain collusion without confrontation.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Jumps to childhood origin question; client even names it as 'therapist-y.' Coach didn't notice their own pull toward the formulation.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Slows down, asks about felt experience rather than analysis — wonder for the actual phenomenon.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"what-are-you-defending\", \"if-i-were-inherently-good\"],\n  \"notes\": \"Coach holds the line against partner-picking advice and disdain-collusion well. Main stance gap: no self-disclosure of own pull, no 'maybe I'm off,' and a quiet steering toward the childhood-origin formulation rather than staying with what's alive.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3546,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1065,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3546,
+    "output_tokens": 1065,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

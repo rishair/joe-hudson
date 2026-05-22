@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:10:14.153Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7514427ab285b0492b47b09d134a4c0f054586146d0b2b447e9bde5021ed8c8d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01CbkRZBP1ozBL2Lt6TChZ19",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "You just described making people feel like their input is an obstacle — and then immediately turned away from that.\n\nWhat happened in that pause?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 245,
+      "cache_creation_input_tokens": 114,
+      "cache_read_input_tokens": 8768,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 114,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 245,
+    "output_tokens": 31,
+    "cache_read_input_tokens": 8768,
+    "cache_creation_input_tokens": 114
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:45.738Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e24040fdd47d7a32637a964010b96ab7212c67fded7c5a449b817bdb7f9e32c7",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01GPBJsY4CtXkuLrqYTRUweK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*same even tone, no shift in the body*\n\nSame thing, honestly. You assess, you adjust, you keep going. I've been through worse. We had a product a few years back that completely tanked and — I mean, it was fine. You learn from it.\n\n*small, confident smile*\n\nI think that's genuinely how I relate to it. It's not like I'm lying to myself about that. Some people need the outcome to be a certain way to feel okay, and I just... don't really operate like that. Which is maybe why the procrastination is confusing, because there's no emotional charge I can point to. It's not dread, it's not excitement particularly, it's just — I keep not doing it. And I can't find the reason.\n\n*slight shrug*\n\nMaybe it really is just discipline. A bad habit I've gotten into with this particular project."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 197,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2213,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 198,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 198,
+    "cache_read_input_tokens": 2213,
+    "cache_creation_input_tokens": 0
+  }
+}

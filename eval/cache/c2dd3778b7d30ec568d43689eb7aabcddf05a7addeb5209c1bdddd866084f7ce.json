@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:17:31.200Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c2dd3778b7d30ec568d43689eb7aabcddf05a7addeb5209c1bdddd866084f7ce",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01J2wcGjc9WEwSzXSohMWEhe",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That laugh — there's something in it. Like you already know the answer is going to be uncomfortable.\n\nWhat do you notice when you imagine being with someone who *could* show up fully?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7441,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 43,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7441,
+    "output_tokens": 43,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

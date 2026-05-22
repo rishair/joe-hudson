@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:52.279Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a19b10e874b875b3f6dcdabe67d763459429aa7840b45f6193509120d0d30902",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01AfDDJbxwjQhn456Hc4HY4r",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That last part — \"the way it might be for someone else.\"\n\nWhat's the feeling underneath that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 18418,
+      "cache_creation_input_tokens": 11876,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11876,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 25,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 18418,
+    "output_tokens": 25,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11876
+  }
+}

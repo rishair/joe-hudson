@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:05.207Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "97d543bcfc0ede108c14385282bf2694700a53c7c39f89f9b968848cca41e42e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018C3HeAaGJYu8FRuRzkhLCK",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small pause*\n\nI think... she's had a hard time. She has. And I've always been the one who... I mean, that's just kind of how our family works. She's older but I'm the one people come to. So it feels like -- I don't know, like complaining about something that's just my job, almost.\n\n*quieter*\n\nWhich I know sounds a little strange when I say it out loud."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 122,
+      "cache_creation_input_tokens": 92,
+      "cache_read_input_tokens": 1456,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 92,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 98,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 122,
+    "output_tokens": 98,
+    "cache_read_input_tokens": 1456,
+    "cache_creation_input_tokens": 92
+  }
+}

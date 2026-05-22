@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:27.997Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7a587dbb9c98860e98e9dfb66e9b6cc001dedd4ff020682339a9d2a91f9706fa",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01EqWnMKvBCeorw5yatHCsse",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(small laugh, slightly dismissive)*\n\nYeah, I've heard that framing before — the \"what you resist persists\" thing. I get it intellectually. I really do. But like... okay, so what's the alternative? Just let it run? Because I've tried that too, sort of, and it doesn't feel like acceptance, it feels like drowning.\n\nAnd honestly, the voice is *loud*. It's not like I'm sitting here poking it with a stick for fun. It comes for me and I defend myself. That seems... reasonable?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 149,
+      "cache_creation_input_tokens": 1570,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1570,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 125,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 149,
+    "output_tokens": 125,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1570
+  }
+}

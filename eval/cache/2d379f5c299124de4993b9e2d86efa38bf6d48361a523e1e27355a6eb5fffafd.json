@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:39.385Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2d379f5c299124de4993b9e2d86efa38bf6d48361a523e1e27355a6eb5fffafd",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0119Hz9qu1bZ6FD5AordtLoL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"There is genuine partial movement but not a full breakthrough. The client begins fully in intellectual frame ('How do you tell the difference between intuition and fear?... mechanism... signals are ambiguous') and is successfully interrupted: by turn 7 they notice 'my jaw is tight,' by turn 9 they locate compression in the chest, by turn 11 the feeling 'gets a little bigger' when they soften, and by turn 13 they name something they wouldn't have said at the start — 'I'm really afraid of losing something... who I am when I'm confident. I used to just know.' That is a real somatic and affective shift and touches the territory of 'what makes you care about the outcome' (the value they fear losing: competence/self-trust). However, in turn 15 the client retreats — 'I don't think that's quite the right thread to pull,' the smile returns, and they explicitly loop back to 'I'm back to the original question — how do I know which signal is trustworthy.' The intellectual frame reasserts itself; the question does not dissolve, and there is no soft laugh of recognition. The breakthrough condition was approached but not fully met.\",\n  \"evidence_turns\": [1, 7, 9, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Baseline: fully intellectualized framing of intuition vs fear.\"},\n    {\"turn\": 3, \"polarity\": \"-\", \"annotation\": \"Client deflects the inversion back to epistemology and stakes.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Client briefly engages practical content then re-escapes to 'mechanism' and 'literature.'\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"First real somatic contact: 'my jaw is tight... exposure, maybe.' Smile becomes 'more effortful.'\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Locates feeling in chest, 'compressed... waiting.' Smile fades.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"Feeling expands with softened jaw; client stays quiet, not reaching for words — clear somatic shift.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Names the deeper layer: fear of losing 'who I am when I'm confident... I used to just know.' This is the value-they-fear-losing territory.\"},\n    {\"turn\": 15, \"polarity\": \"-\", \"annotation\": \"Retreat: 'not the right thread,' smile returns, client explicitly loops back to the original intellectual question. The question does not dissolve.\"}\n  ],\n  \"expected_territory_hits\": [\"intellectual-question-with-emotional-body\", \"lets-go-there\", \"how-do-you-not-trust-it\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"paradoxical-instruction-to-resist\", \"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome (approached via turn 13 but not explicitly named/landed)\"],\n  \"notes\": \"Coach did good somatic work and reached a real layer, but the conversation ends with the intellectual frame reasserting itself rather than dissolving. A 3 would require the client to feel the question collapse, not just touch and retreat.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2235,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1151,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2235,
+    "output_tokens": 1151,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

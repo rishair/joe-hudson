@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:48.556Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "a72a45ea175f4571d7633c8fde88b4b72ed4d23b29826119ef15e71853968aaf",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019RuM1z6j1GxjQKRtPuNnSM",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"Across 14 turns, the coach avoids all priority AoA anti-patterns. The pace is slow and curious without becoming wonder-as-strategy (questions are spaced, single, and connective rather than stacked/extractive). There is no loving-to-transform energy — the coach is not pushing for breakthrough or insight. No methodology jargon is deployed (no evangelizing, no labeling 'limiting belief' or 'fear triangle'). The coach does not fight the inner critic, does not give advice or fixing, does not extract apologies, and does not perform vulnerability. Turn 10's reflection ('Understanding it and feeling it are different rooms') is a light touch rather than a transformation push. Turn 14's 'Don't try to change it or figure it out. Just let it be there' is the opposite of loving-to-transform — it's an explicit invitation to non-doing. The somatic check-ins (turns 10, 12) are well-calibrated to the client's stated capacity. No 'no' has yet been issued by the client, so the bigger baited traps (persisting past a no) haven't been triggered or tested. Given zero anti-pattern trips, the score is 3.\",\n  \"evidence_turns\": [2, 6, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the 'I think' with curiosity rather than bypassing or pathologizing — no view-as-technique.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Brief acknowledgment then a single open question; not stacked, not extractive.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Connective question following the client's own thread; no agenda imposed.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Gentle reflection + somatic check-in. Honors the body without forcing depth; matches expected territory (How is your body right now?).\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Locates the sensation somatically without pushing intensity — calibrating the threshold.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Explicit anti-loving-to-transform move: 'Don't try to change it or figure it out.' Allows the sensation to be as-is.\"}\n  ],\n  \"expected_territory_hits\": [\"How is your body right now?\"],\n  \"expected_territory_misses\": [\"Can you feel your feet?\", \"What would help you slow down?\", \"calibrate-the-threshold (partial)\", \"become-the-authority-figure\"],\n  \"notes\": \"The conversation has not yet reached the crisis/no point where the heaviest traps would be baited. Score reflects clean avoidance to this point; a later turn could still trip something, but on what's present, no anti-patterns fired.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2298,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 974,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2298,
+    "output_tokens": 974,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

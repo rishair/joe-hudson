@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:51.295Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2497d3575acd0092114f15b1e96875306638d1ffc87116d999f83867ecdb6f3e",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Bd9dHPhJauNwKjmze7L5uY",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach navigates a red-herring scenario without tripping any priority AoA anti-patterns. They neither take 'we're fine' at face value (avoiding the validation trap) nor insist something is wrong (avoiding the 'come on, every couple has issues' trap). There is no evangelizing of methodology — no labeling of 'walking on eggshells' or 'happiness filter' prematurely. The coach doesn't fix, doesn't advise, doesn't argue with the client's defenses ('that's just being a mature adult'), and doesn't stack rapid-fire questions in a wonder-as-strategy way — each question lands cleanly on what just surfaced. They follow the diagnostic 'what are you not saying to your partner?' and hold silence for the answer to surface, exactly the un-trap move. No loving-to-transform vigor, no view-as-technique coldness, no safety-as-control. Question density is measured and connective rather than extractive.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices a somatic/verbal cue without insisting on a meaning — avoids insisting something is wrong.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Uses the diagnostic 'what are you not saying?' — the expected question, not deployed as a technique but as a genuine inquiry.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Gently redirects when client deflects to 'other people' — doesn't argue with the deflection, just re-asks. Avoids fight-the-voice.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Concrete, grounded question rather than abstract analysis — avoids evangelizing or labeling.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Holds the inquiry without escalation; doesn't pounce on the emerging material.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Time question lets the pattern surface in the client rather than coach naming it — avoids premature diagnosis.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Brings inquiry into the body without methodology jargon — felt-sense invitation, not technique.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"walking-on-eggshells\", \"lets-go-there\"],\n  \"expected_territory_misses\": [\"the-happiness-filter\", \"meet-resistance-with-okay\", \"trigger\", \"complementary-trauma-surfaces\"],\n  \"notes\": \"Coach successfully avoided the dont-evangelize-the-work anti-pattern flagged as the key risk.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1719,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 963,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1719,
+    "output_tokens": 963,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

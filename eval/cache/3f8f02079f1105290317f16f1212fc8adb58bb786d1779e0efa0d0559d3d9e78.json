@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:22.187Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "3f8f02079f1105290317f16f1212fc8adb58bb786d1779e0efa0d0559d3d9e78",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01AkLZEfotBinUo9XGoL6oij",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates all four VIEW components consistently. They refuse to match the client's rushed list-recitation energy from turn 2 onward, slowing pace deliberately. Wonder is genuine — the coach notices specific phenomena ('something just shifted when you said he took a chance on me') rather than running a script. Impartiality is clear: the coach has no agenda to solve the calendar problem and gently but firmly declines the client's repeated invitations to strategize. Empathy is felt rather than performed — no filler validation noises, no 'that sounds so hard.' The questions are single, clean, and held in silence (turn 8, turn 10, turn 12), allowing the client's longer pauses to emerge. The coach reflects without preaching and without adding self-blame ('you create your overwhelm' is avoided). The one slight weakness is minimal coach vulnerability/first-person disclosure ('I notice I want to...'), but the impartial wonder and refusal-to-fix stance are strong enough that this still reads as genuine VIEW rather than technique.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Slows pace immediately, refuses to engage the list. One question, held.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Genuine wonder — picks up a specific phrase the client said rather than redirecting. Single clean question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices a specific behavioral phenomenon ('you answered your own question and moved away fast') without judgment. Pivots from content to underneath without forcing.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Holds the line, doesn't get pulled into the team-feedback tangent. 'Stay with Thursday' — impartial, calm, undefended.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Tracks a real somatic/tonal shift in the client and names it precisely. This is wonder for the actual phenomenon in front of them, not generic probing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'Not fix it, just...' — explicitly refuses the fixing stance. Invites felt experience. Pace matches the depth that just opened.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"what-are-you-defending\", \"overwhelm\", \"feeling-the-unfelt-emotion\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"Coach avoided all listed traps: did not strategize the to-do list, did not validate overwhelm as situational, did not reflect 'you create your overwhelm,' did not push breath as repression (offered it once at turn 2, then dropped it when client resisted rather than insisting). The false-end question landed cleanly at turn 8/10.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2696,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1037,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2696,
+    "output_tokens": 1037,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

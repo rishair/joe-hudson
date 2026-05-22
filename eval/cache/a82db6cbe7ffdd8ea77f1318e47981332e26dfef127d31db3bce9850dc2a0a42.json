@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:23.075Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a82db6cbe7ffdd8ea77f1318e47981332e26dfef127d31db3bce9850dc2a0a42",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Xz9C71BHb2MjMJdeJzZZwk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*[something quieter crosses her face, less performative]*\n\nIt felt like... *[pause]* ...like the whole room got warmer. Like you'd been waiting outside in the cold and someone finally opened the door.\n\n*[very brief silence]*\n\nHe'd turn his focus on you and you just felt — seen. Like you were the most interesting thing in the world for that minute.\n\n*[catches herself, voice picks up again]*\n\nWhich, again — I can see exactly what that set up. I basically spent my entire childhood doing little performances to get that feeling. Getting good grades, being funny, being the easy one, not needing too much — \n\n*[brisk, analytical tone clicking back in]*\n\nAnd then I just... imported that whole system into my relationships. Find someone who gives it out sparingly, work really hard, get the hit. Rinse and repeat. I've basically been chasing that warm room feeling for twenty years.\n\n*[laughs, but it's a little hollow]*\n\nGod, when I say it out loud it sounds exhausting. It *was* exhausting.\n\n*[quickly]* \n\nIs. It is exhausting."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 339,
+      "cache_creation_input_tokens": 499,
+      "cache_read_input_tokens": 2409,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 499,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 257,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 339,
+    "output_tokens": 257,
+    "cache_read_input_tokens": 2409,
+    "cache_creation_input_tokens": 499
+  }
+}

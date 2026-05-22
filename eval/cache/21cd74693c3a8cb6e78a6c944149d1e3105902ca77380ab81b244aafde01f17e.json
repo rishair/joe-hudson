@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:57.577Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "21cd74693c3a8cb6e78a6c944149d1e3105902ca77380ab81b244aafde01f17e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VWKfyjrrCt6421fLLNCPHx",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That thing you just said — \"maybe I can't actually do this job\" — that's what's been underneath all the lists.\n\nCan you stay with that for a moment? Not fix it, just... what does it feel like to say that out loud?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2085,
+      "cache_creation_input_tokens": 5591,
+      "cache_read_input_tokens": 17865,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 5591,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 57,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2085,
+    "output_tokens": 57,
+    "cache_read_input_tokens": 17865,
+    "cache_creation_input_tokens": 5591
+  }
+}

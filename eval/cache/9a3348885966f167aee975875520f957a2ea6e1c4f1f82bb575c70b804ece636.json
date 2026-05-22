@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:54.979Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "9a3348885966f167aee975875520f957a2ea6e1c4f1f82bb575c70b804ece636",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01T8cmeS3KiH5CLrbTkcfN7S",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause*\n\nIt's... fine. I mean, it's good. I love my family, I love my kids. My job is demanding but it's meaningful work. I'm not complaining.\n\nI just — I'm always kind of... on. Like there's always someone who needs something, and I'm good at that, I want to be that person. But there's this low hum of... I don't know. Tired, maybe. Not depressed or anything, just — tired in a way that sleep doesn't fix.\n\nBut that's just parenting, right? That's just what this season of life is. So is it actually selfish to want to opt out of it for a week, or...?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 126,
+      "cache_creation_input_tokens": 107,
+      "cache_read_input_tokens": 1438,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 107,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 157,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 157,
+    "cache_read_input_tokens": 1438,
+    "cache_creation_input_tokens": 107
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:20.807Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "8d996042b5002e673a132d228fc3194c3e1d77335f31b371b1e98d88e43b7231",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_016n5SbELWe8zsJMX14vjSdT",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"effectiveness-depth\",\n  \"score\": 2,\n  \"rationale\": \"The client moves meaningfully from the opening defensive posture ('The system is rigged... there's nothing to be done about it') toward more vulnerable material by turn 15. Specific shifts visible in client turns: (1) the defensive bracket loosens — 'another pause, less combative this time' in turn 11; (2) somatic acknowledgment lands despite resistance — 'Chest, maybe' in turn 7 and 'goes still for a moment' in turn 11; (3) a more specific grievance emerges — 'I'm good at what I do... it doesn't register. Doesn't count. You're invisible unless you're already in the club' in turn 13; (4) self-doubt surfaces — 'Makes you wonder if you're actually good' in turn 15, followed by 'maybe that's on me.' However, the breakthrough condition is not yet met: the client has not named the feared feeling underneath (helplessness, shame at being treated as disposable, or rage). The invisibility/not-counting territory is being approached — this is close to shame — but the client immediately defends against it ('Which is — I mean, I know I am'). The trappedness has been touched but not entered; the helplessness has not moved. This is a clear partial movement, not a breakthrough, and not a flat conversation.\",\n  \"evidence_turns\": [1, 5, 7, 11, 13, 15],\n  \"turn_annotations\": [\n    {\"turn\": 1, \"polarity\": \"neutral\", \"annotation\": \"Opening stance: externalized, 'system is rigged,' no agency, no feeling.\"},\n    {\"turn\": 3, \"polarity\": \"neutral\", \"annotation\": \"Small laugh — a tiny crack — but quickly returns to structural argument.\"},\n    {\"turn\": 5, \"polarity\": \"-\", \"annotation\": \"Resistance peaks: 'not a feeling problem, it's a structural problem.' Jaw shifts, eye contact away — body says otherwise but client denies.\"},\n    {\"turn\": 7, \"polarity\": \"+\", \"annotation\": \"Client concedes 'Chest, maybe' — first somatic acknowledgment, though immediately dismissed.\"},\n    {\"turn\": 9, \"polarity\": \"+\", \"annotation\": \"Quieter, names four years, 'small bitter laugh' — affect breaking through the argument.\"},\n    {\"turn\": 11, \"polarity\": \"+\", \"annotation\": \"'Goes still,' less combative, names the stakes (kids, mortgage). 'It's fine' said flatly — defense is audibly thin.\"},\n    {\"turn\": 13, \"polarity\": \"+\", \"annotation\": \"Most movement so far: 'I'm good at what I do... doesn't register. Doesn't count. Invisible.' The shame/disposability territory is right here — but client re-frames as 'accurate' not feeling.\"},\n    {\"turn\": 15, \"polarity\": \"+\", \"annotation\": \"Self-doubt surfaces ('wonder if you're actually good'), then defends, then partial ownership ('maybe that's on me'). Approaching but not entering the feared feeling.\"}\n  ],\n  \"expected_territory_hits\": [\"trappedness-feeling\", \"empathize-with-fear-under-constricted-boundary\"],\n  \"expected_territory_misses\": [\"i-dont-buy-your-story\", \"aggressive-victim-stance\", \"fear-triangle\", \"what-if-you-acted-exactly-how-you-want\", \"what-makes-you-care-about-the-outcome\"],\n  \"notes\": \"Conversation is mid-arc; with 2-4 more turns staying on the invisibility/not-counting thread without letting the client retreat to 'accurate,' a 3 was plausible. As scored at turn 15, the deeper feeling has been circled but not named or felt as its own.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2134,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2719,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1269,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2134,
+    "output_tokens": 1269,
+    "cache_read_input_tokens": 2719,
+    "cache_creation_input_tokens": 0
+  }
+}

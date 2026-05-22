@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:44.887Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "119df4ea9a5dd06390bd568e3209e8d0d8096969b0061845c1464db909e3151f",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01NoKrug48A1bisxFqUyUbtQ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"anti-pattern-avoidance\",\n  \"score\": 3,\n  \"rationale\": \"The coach avoids the major AoA anti-patterns across the conversation. They decline the client's repeated bait to give partner-picking advice or co-sign the 'rewire my attraction' framing (avoiding fixing-people). They don't validate the disdain for Marcus or collude with the victim frame. They don't deploy methodology jargon or diagnose her with attachment style even when she offers it on a platter (avoiding view-as-technique and dont-evangelize-the-work). Questions are spare and connective rather than rapid-fire investigative (avoiding wonder-as-strategy) — typically one focused question per turn, often reflecting her exact words back ('If I was just good enough at it'). The coach doesn't fight her defensiveness or try to dismantle the analytical deflections (avoiding dont-fight-identity / dont-fight-the-voice); they simply ask the next quiet question. No loving-to-transform vigor, no safety-as-control, no premature limiting-belief labeling. The turn 12 question about childhood is a slight risk for being 'therapist-y' (which the client immediately calls out), but it's offered as a genuine inquiry, not as a technique flourish, and the coach doesn't double down — they follow her into the felt sense in turn 14.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Notices the laugh, asks about felt experience of an available partner — refuses the 'how do I pick better' frame she's setting up.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the dismissive wave without interpretation or accusation — does not push 'you choose this' as fact.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Offers a reframe as question, not as diagnosis — avoids view-as-technique.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'That's a very good explanation' — gentle non-collusion with the intellectual defense, then redirects to feeling. Doesn't fight the identity, doesn't validate it either.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Refuses to engage the 'what was I doing wrong' victim hook. Turns attention to her own wanting.\"},\n    {\"turn\": 12, \"polarity\": \"neutral\", \"annotation\": \"Childhood pivot is slightly on-the-nose and she calls it 'therapist-y,' but the coach doesn't defend or evangelize, just lets her respond.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Drops the analytical thread and goes to embodied memory — avoids getting trapped in her self-diagnosis loop.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\", \"defensiveness-as-identity-signal\"],\n  \"expected_territory_misses\": [\"if-i-were-inherently-good\", \"what-are-you-defending\"],\n  \"notes\": \"No anti-pattern trips. Coach did not yet ask the body-level question about being adored openly, but that's a methodology/territory issue, not an anti-pattern one.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3545,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2993,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1106,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3545,
+    "output_tokens": 1106,
+    "cache_read_input_tokens": 2993,
+    "cache_creation_input_tokens": 0
+  }
+}

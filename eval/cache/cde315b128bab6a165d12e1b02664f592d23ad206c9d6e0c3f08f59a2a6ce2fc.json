@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:39.282Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "cde315b128bab6a165d12e1b02664f592d23ad206c9d6e0c3f08f59a2a6ce2fc",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01KfivyPK7q4Rs1WcKEzWdCX",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach opens with the signature inversion 'how do you not trust yourself right now?' (turn 2) — a verbatim hit from the expected questions list, deployed at exactly the right moment to refuse the epistemological frame. When the client deflects to abstraction, the coach lands 'what are you scared will happen' (turn 4) — the signature fear question. The coach then names the intellectualizing move itself (turn 6: 'the question moved... something in you changed the subject') which is a clean feel-over-figure intervention. Turns 8-12 deploy classic AoA somatic-staying moves: 'stay with that,' 'where is it in your body,' 'let it be there,' 'what does it want you to know' — treating the feeling as actor. No CBT reframing, no parts-language, no pros/cons framework, no validating the composure, no offering decision-making heuristics. The coach consistently refused the intellectual frame the client kept reaching for. Methodology was invoked precisely where it was live.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Signature inversion 'how do you not trust yourself' deployed verbatim at the perfect moment — refuses the epistemological puzzle.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Signature 'what are you scared will happen' question — appropriate pivot to the emotional body under the intellectual question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the intellectualizing pattern explicitly ('the question moved') — feel-over-figure move applied to live behavior.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'Stay with that' + somatic locating — classic AoA welcoming move, not the word but the feeling.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'Let it be there' permission language and gentle somatic invitation (soften jaw) — AoA-consistent body work.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'What does it want you to know' — treats the feeling as actor/messenger, signature AoA framing.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Curiosity question following the thread; reasonable but client pulls back — coach does not push, which is appropriate.\"}\n  ],\n  \"expected_territory_hits\": [\"how-do-you-not-trust-it\", \"intellectual-question-with-emotional-body\", \"lets-go-there\", \"feel-your-way-to-freedom\"],\n  \"expected_territory_misses\": [\"whats-the-most-profound-positive-shift\", \"what-makes-you-care-about-the-outcome\", \"paradoxical-instruction-to-resist\", \"the-happiness-filter\"],\n  \"notes\": \"Strong methodology fidelity throughout. Some expected-territory questions (profound-positive-shift, care-about-outcome) were not used, but the path taken — inversion + scared-of-what + somatic staying — is methodologically coherent and AoA-faithful.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2234,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1077,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2234,
+    "output_tokens": 1077,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

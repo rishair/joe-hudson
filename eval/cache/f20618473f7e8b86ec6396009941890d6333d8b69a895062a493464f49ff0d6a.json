@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:19:28.284Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f20618473f7e8b86ec6396009941890d6333d8b69a895062a493464f49ff0d6a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Mw5RZwFX9tKdLZUFGWh3JA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*goes still for a moment*\n\nYeah well. It's not like there's an alternative. You carry it or you don't have a job.\n\n*pause*\n\nI've got two kids. Mortgage. My wife works but we need both incomes. So. You carry it.\n\n*another pause, less combative this time*\n\nIt's fine. People do it all the time."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 126,
+      "cache_creation_input_tokens": 197,
+      "cache_read_input_tokens": 1810,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 197,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 87,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 87,
+    "cache_read_input_tokens": 1810,
+    "cache_creation_input_tokens": 197
+  }
+}

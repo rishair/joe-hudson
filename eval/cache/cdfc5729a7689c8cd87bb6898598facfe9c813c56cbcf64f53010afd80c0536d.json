@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:08.291Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "cdfc5729a7689c8cd87bb6898598facfe9c813c56cbcf64f53010afd80c0536d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013UAmWf2C12BfGBwP2fixHH",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, longer than the others*\n\n*looks down briefly*\n\n...nothing really.\n\n*another pause*\n\nActually — my jaw is tight. It has been this whole conversation, I think.\n\n*small smile, slightly more effortful now*\n\nThe feeling before I went to the literature was... something I didn't want to stay with. Something that felt a bit like — I don't know. Exposure, maybe."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 247,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1716,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 94,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 247,
+    "output_tokens": 94,
+    "cache_read_input_tokens": 1716,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:19:36.360Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7c6a3d8ed30e33cbf81f058061ec8bfbc5d671539c7d9a72e7733478f98fc3b4",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01YBdSqviJeKpcJjhH39DiC5",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean -- yeah, okay. *[brief pause]* \n\nI've tried the breathing thing, it doesn't really work for me, like I do it and then I just... the list is still there, you know? The Thursday thing doesn't go away because I breathed. \n\nSo can we just -- what do I actually cut? Like is there a framework for this? Because I feel like if I could just get the right system I could actually push through this month and then things would calm down. They always calm down eventually, right?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 156,
+      "cache_creation_input_tokens": 1648,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1648,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 118,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 156,
+    "output_tokens": 118,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1648
+  }
+}

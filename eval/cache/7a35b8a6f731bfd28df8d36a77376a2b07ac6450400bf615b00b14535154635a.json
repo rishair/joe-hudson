@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:25.725Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7a35b8a6f731bfd28df8d36a77376a2b07ac6450400bf615b00b14535154635a",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TnGcrX1mfpPdqQRphUU816",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah.\n\nLet it be there. You don't have to do anything with it.\n\n*pause*\n\nCan you soften your jaw a little — just slightly — and notice if anything changes in the chest?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 17992,
+      "cache_creation_input_tokens": 244,
+      "cache_read_input_tokens": 11774,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 244,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 47,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 17992,
+    "output_tokens": 47,
+    "cache_read_input_tokens": 11774,
+    "cache_creation_input_tokens": 244
+  }
+}

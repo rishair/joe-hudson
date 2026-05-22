@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:19.073Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "76bd18f731e7a5574eff91077b7b1de8a10a9565ddae21ad71285654a986746d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NHRU1Uk6qAfjKgCmneNVQa",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*eyes get a little bright*\n\nA while. A long while.\n\n*pause*\n\nMy mom was — she was very much a martyr about it. Not in a cruel way, she just... she gave everything and she made sure you knew, not manipulatively, just — that's how she understood love. You give until there's nothing left and that's what makes you good. And I swore I wasn't going to be like that, but...\n\n*stops*\n\nI think I learned that wanting things for yourself is the same as taking from other people. Like those are the same act. And I've just... I've been running that equation for so long I don't even notice it anymore.\n\n*quietly*\n\nIs that — is that where the selfish thing comes from? Because it's not really mine, is it. That word. I think it was hers."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 203,
+      "cache_creation_input_tokens": 369,
+      "cache_read_input_tokens": 1874,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 369,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 190,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 190,
+    "cache_read_input_tokens": 1874,
+    "cache_creation_input_tokens": 369
+  }
+}

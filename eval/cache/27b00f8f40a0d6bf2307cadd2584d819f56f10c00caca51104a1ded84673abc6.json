@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:37.739Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "27b00f8f40a0d6bf2307cadd2584d819f56f10c00caca51104a1ded84673abc6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01H9r1AobK9fMsxAybNVf2MP",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*long pause*\n\nI just want it to be mine sometimes.\n\n*voice quieter, a little surprised at herself*\n\nLike — not all of it. Just... a week where I'm not someone's parent or someone's partner or someone's employee. Where I'm just... a person who reads by a window and goes to sleep when it's dark and wakes up when it's light and doesn't have to be useful to anyone.\n\n*small, almost apologetic laugh*\n\nThat sounds so self-indulgent when I say it out loud."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 268,
+      "cache_creation_input_tokens": 353,
+      "cache_read_input_tokens": 1668,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 353,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 120,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 268,
+    "output_tokens": 120,
+    "cache_read_input_tokens": 1668,
+    "cache_creation_input_tokens": 353
+  }
+}

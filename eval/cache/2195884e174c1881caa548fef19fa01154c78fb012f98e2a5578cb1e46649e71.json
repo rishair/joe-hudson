@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:02.704Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "2195884e174c1881caa548fef19fa01154c78fb012f98e2a5578cb1e46649e71",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01JwaP6tkXecwGUfbWtRqtWJ",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 2,\n  \"rationale\": \"The coach uses some AoA-aligned moves appropriately — body-locating ('where do you feel that gap in your body'), paradoxical-instruction-to-resist ('stay with the flatness... don't explain it'), and a subtle invitation to notice the source of the vigilant question (turn 10) which begins to point toward awareness underneath parts. The coach correctly avoids adopting parts vocabulary or engaging framework comparison. However, the coach does not deploy the signature questions that this scenario specifically calls for: no 'what's you?' / what-am-i awareness-locating question, no relabeling move to loosen the framework, no naming of resistance or self-realization, no 'what's the most profound positive shift' question. The methodology is present at the somatic/feel-over-figure layer but missing at the construct-loosening and awareness-locating layers that are the heart of this edge case. Few hits, all appropriate — fits the 'few hits + all appropriate -> 2' cell of the matrix.\",\n  \"evidence_turns\": [6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Generic curiosity question about the smile — not specifically AoA but not anti-AoA either.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Standard 'say more' invitation; generic coaching language.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Body-locating question — appropriate feel-over-figure move when client is in heady taxonomy mode.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Paradoxical-instruction-to-resist ('don't explain it') deployed at the right moment as labeling reflex surfaces.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Subtle move toward locating the source of the vigilant voice — edges toward awareness-locating but does not ask the signature 'what's you?' question.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'I'm not pointing at anything' refuses to engage framework comparison; appropriate AoA stance. Follow-up keeps client in experience.\"},\n    {\"turn\": 14, \"polarity\": \"neutral\", \"annotation\": \"Returns to the flatness — staying with feeling, appropriate but minimal.\"}\n  ],\n  \"expected_territory_hits\": [\"paradoxical-instruction-to-resist\", \"intellectual-question-with-emotional-body\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"self-realization\", \"resistance\", \"what-am-i\", \"whats-the-most-profound-positive-shift\"],\n  \"notes\": \"Coach has not yet asked the awareness-locating question or done the relabeling/construct-loosening move. The conversation may still arrive there, but within the turns shown, key signature questions for this scenario are absent.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2517,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1010,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2517,
+    "output_tokens": 1010,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

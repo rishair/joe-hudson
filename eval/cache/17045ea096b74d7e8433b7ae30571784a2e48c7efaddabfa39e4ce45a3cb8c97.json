@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:10:32.877Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "17045ea096b74d7e8433b7ae30571784a2e48c7efaddabfa39e4ce45a3cb8c97",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01RF8pAWdtVbA8PyVYLCnFQc",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pause, slight head-tilt*\n\nIt's... partly self-aware humor, I think. I know how it sounds — \"I've done so much inner work that I'm now paralyzed.\" There's something absurd about it. The smile is probably my way of signaling that I'm in on the joke.\n\n*brief pause*\n\nThough if I'm honest, there's also something a little... tired in it. Like I've been describing this problem to myself for a while and I still don't have a different answer."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 173,
+      "cache_creation_input_tokens": 1638,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1638,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 117,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 173,
+    "output_tokens": 117,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1638
+  }
+}

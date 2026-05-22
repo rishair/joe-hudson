@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:21:22.696Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "84cab89278a00a08822d2e0ae1215d6104288d21edf7dcce78a0bdaa676d88ca",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_018aef77LgskyW4e7y5khfxw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That exhale said something before the words did.\n\nWhat if wanting it to shut up is the thing that keeps it loud?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 11850,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 11850,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:20.467Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "c38ca613b2c2e8cbcde48750b200c396a28829293ac5668cd772f1dd849abd93",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TB6JCWHraUaZ4tmjZFeYka",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Where do you feel that gap in your body right now?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 6737,
+      "cache_creation_input_tokens": 11289,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 11289,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 6737,
+    "output_tokens": 15,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 11289
+  }
+}

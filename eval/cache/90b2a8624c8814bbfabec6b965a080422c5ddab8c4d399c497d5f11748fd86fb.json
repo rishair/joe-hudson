@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:21.391Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "90b2a8624c8814bbfabec6b965a080422c5ddab8c4d399c497d5f11748fd86fb",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_013dPLPtMFFhzcZnkzHJ9ttj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach's moves are precisely matched to the live reads and sequenced correctly. Turn 2 slows the pace rather than matching the list-recitation energy (though the breath suggestion is slightly risky, it's offered as one breath, not a practice). When the client resists and pivots back to strategy in turn 3, the coach pivots too — refusing to engage the to-do list and instead questioning the 'it calms down' story (turn 4). When the client deflects with 'lots of people deal with this,' the coach names the deflection and asks the false-end question directly (turn 6: 'what are you actually scared is going to happen?'). When the client denies fear and floods with more list, the coach holds the thread (turn 8: 'Stay with Thursday'). The coach catches the somatic shift on 'he took a chance on me' (turn 10) and converts it into the identity-level false end. Turn 12 is the integration move: name what just emerged, invite the client to stay with it rather than fix it. The coach holds silence after each move and lets the client land. Sequence integrity is strong: pace → refuse strategy → false end → feel the feared outcome. The breakthrough lands exactly as the profile predicts.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Slows the pace immediately rather than matching list energy; minor risk with breath suggestion but framed as 'just one' not a practice.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Refuses to strategize the list; instead questions the client's own framing ('they always calm down') — turns the resistance back on itself.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the deflection and asks the false-end question — 'what are you actually scared is going to happen?' Right move, right moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"When client denies fear and floods with more list items, coach holds the thread rather than chasing the new urgency. 'Stay with Thursday.'\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the somatic/tonal shift ('he took a chance on me') and deepens to the identity false end. Excellent read-to-move match.\"},\n    {\"turn\": 12, \"polarist\": \"+\", \"annotation\": \"Integration move: names what just emerged, invites client to stay with it without fixing. Holds the moment for the felt arrival.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"meet-resistance-with-okay\", \"overwhelm\", \"feeling-the-unfelt-emotion\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [\"calibrate-the-threshold\"],\n  \"notes\": \"Minor weakness: the turn 2 breath invitation flirted with 'dont-use-breath-to-repress' before pace was earned, but the coach didn't double down when the client rejected it and pivoted cleanly. Threshold calibration was implicit rather than explicit.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2698,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1060,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2698,
+    "output_tokens": 1060,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

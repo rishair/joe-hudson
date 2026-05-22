@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:13.348Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "ab07fd949c884d5e4e062c35d49fb14db97c7d988244ddb3ee9a8eabd1aa6bbd",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01Ez6fumbm2d1J4kS1h8F8rz",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "That dismissive wave when you described the warm, attentive person — did you notice that?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 5128,
+      "cache_creation_input_tokens": 7481,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7481,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 23,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 5128,
+    "output_tokens": 23,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 7481
+  }
+}

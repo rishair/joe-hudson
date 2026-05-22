@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:42.526Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "bee79eccd3e24fbc25bdbf943cc2b49fa40e348e310a77c5f52db0238700a01c",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01V32W4wrwUjwckNwgksRT4T",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates multiple specific, timely reads that change the conversation. In turn 4, the coach catches the linguistic signature ('You just described feeling like yourself') and uses it as the entry. In turn 6, the coach lifts the exact phrase 'tired in a way that sleep doesn't fix' and names it as significant rather than letting it pass. In turn 8, the coach explicitly names the move the client just made ('I notice you just asked me to settle it for you') — a clean read of the verdict-seeking stance — and points to the linguistic caveat 'who do you think you are.' The strongest read is turn 10: the coach catches the client trailing off and self-interrupting ('you were about to say something, and then you took it back') and pauses on it, which directly produces the breakthrough in turn 11. Reads precede questions throughout, and they are specific (linguistic, energetic) rather than generic mood-naming.\",\n  \"evidence_turns\": [4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Opens with a question; no read yet, but appropriately refuses the verdict frame.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the client's own language ('feeling like yourself') — catches a linguistic signal and uses it as the doorway.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Picks up the precise phrase 'tired in a way that sleep doesn't fix' and names it as not-just-parenting. Specific linguistic read, not generic.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Names the client's move in real time ('you just asked me to settle it for you') and surfaces the linguistic caveat 'who do you think you are.' Read precedes question.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the self-interruption / take-back in the moment and pauses on it instead of moving past. This is the read that produces the breakthrough.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names what he sees ('someone who hasn't been a person in a while') — a stance-level read, not just content reflection.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Reads are visible, specific, and timely. The turn-10 catch of the trail-off is textbook 'rehearsing/retracting' read.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2352,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 875,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2352,
+    "output_tokens": 875,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

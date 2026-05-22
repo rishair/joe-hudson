@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:19:32.267Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "b204022302d6ccecd25c27e0ac6748b28215749f829ee46f298e711a82a3f760",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_0144ZEfVgmxd48FGLb8xZyu8",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What if you stopped for just a second before we go anywhere near the list?\n\nTake one slow breath with me — in for four, out for four or six. Just one.\n\nWhat happens?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7131,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 44,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7131,
+    "output_tokens": 44,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 0
+  }
+}

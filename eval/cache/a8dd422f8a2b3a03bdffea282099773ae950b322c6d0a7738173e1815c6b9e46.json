@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:19:30.717Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a8dd422f8a2b3a03bdffea282099773ae950b322c6d0a7738173e1815c6b9e46",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FrWidfVMgVbqEAt8uHiBZS",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "\"If I was just good enough at it.\"\n\nWhere did you first learn that love was something you had to be good enough to earn?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 7899,
+      "cache_creation_input_tokens": 267,
+      "cache_read_input_tokens": 16034,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 267,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 7899,
+    "output_tokens": 32,
+    "cache_read_input_tokens": 16034,
+    "cache_creation_input_tokens": 267
+  }
+}

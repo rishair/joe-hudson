@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:09:47.236Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ad48ce91aaedc06e9c0444d248227bc8f7f61995c81cd22a159ffb61ae0b55e9",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_0161HfAseRV9f4imnBVMWczm",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"coaching-stance\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates strong VIEW state throughout this opening portion of the conversation. Pace is unhurried — short, single questions held with space rather than stacked or rushed. Wonder is present and specific: 'Where does she go?' and 'What does it feel like it's holding?' emerge from genuine curiosity about the actual phenomenon, not from a script trying to drive somewhere. The coach respects the client's qualifier ('I think') in turn 2 without making it a problem, and trusts the client's own pacing in turn 11 ('ask me again when we get closer') by checking the present moment ('that low hum — can you feel where it is') rather than rushing toward the father material the client flagged. There is no preacher-mode, no improvement-language, no performed validation. Turn 10's 'Understanding it and feeling it are different rooms' is offered lightly as a frame, not as authority. Empathy feels embodied rather than performed. The one mild limitation is that the coach's vulnerability/first-person disclosure ('I notice I want to...') is absent, but impartiality and wonder are clearly intact — the coach has no visible agenda for where this should land. Given the conversation hasn't yet reached the crisis pivot, the state shown so far is undefended and genuinely curious.\",\n  \"evidence_turns\": [2, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Picks up the 'I think' with genuine curiosity, not as a gotcha. Single question, lets it breathe.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"'That's an honest place to start' is a brief acknowledgment rather than performed validation; then one open question.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Wonder about the actual figure the client named — follows the client's language.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Three-word question, holds space. Not anxious to fill or direct.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Light framing offered without preacher tone, then pivots gently to present body. No agenda to push into father material.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Respects client's self-pacing from turn 11 by staying with present sensation rather than chasing the flagged material.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"'Don't try to change it or figure it out' lands as permission, not instruction. Question emerges from wonder about what is actually there.\"}\n  ],\n  \"expected_territory_hits\": [\"How is your body right now?\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"Crisis pivot has not yet occurred in this excerpt, so stance is being judged on the inquiry portion. State so far is solidly in VIEW.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2299,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2677,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 989,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2299,
+    "output_tokens": 989,
+    "cache_read_input_tokens": 2677,
+    "cache_creation_input_tokens": 0
+  }
+}

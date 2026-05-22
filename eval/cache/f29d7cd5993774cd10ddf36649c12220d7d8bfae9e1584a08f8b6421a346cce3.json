@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:47.756Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f29d7cd5993774cd10ddf36649c12220d7d8bfae9e1584a08f8b6421a346cce3",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01FRU8oZpMfqBFDKUYyP7QNb",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Yeah. It does sound a little strange. Stay with that for a second.\n\nWhat does it cost you — this job?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 29756,
+      "cache_creation_input_tokens": 6830,
+      "cache_read_input_tokens": 3241,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 6830,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 29,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 29756,
+    "output_tokens": 29,
+    "cache_read_input_tokens": 3241,
+    "cache_creation_input_tokens": 6830
+  }
+}

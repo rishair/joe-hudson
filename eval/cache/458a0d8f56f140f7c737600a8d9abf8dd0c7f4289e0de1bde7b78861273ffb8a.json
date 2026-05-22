@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:20.453Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "458a0d8f56f140f7c737600a8d9abf8dd0c7f4289e0de1bde7b78861273ffb8a",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01FAmUK5FBVYvDT85DDYnmUj",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves with high appropriateness throughout. Turn 2 slows the pace rather than matching list-recitation energy (meet-resistance-with-okay energy, calibrate-the-threshold with 'just one' breath). Turn 6 and Turn 8 land the signature 'what are you scared would happen' / 'what happens if...' false-end question precisely when defended self-talk emerges. Turn 10's 'what does it mean about you if...' is the identity-level deepening question at the exact right moment. Turn 12 is textbook feel-over-figure ('stay with that... not fix it, just what does it feel like') — invoking feeling-the-unfelt-emotion when it's live. The coach avoids the anti-AoA traps: doesn't strategize the list, doesn't reflect 'you create your overwhelm,' doesn't push the breath as repression (drops it immediately when client resists at Turn 3). No CBT reframing, no generic 'tell me more.' Methodology serves the moment rather than decorating it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Slows pace, calibrates threshold ('just one' breath) rather than matching list-recitation energy.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Gentle inquiry into the assumption 'they always calm down' — refuses to strategize.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Deploys signature 'what are you actually scared is going to happen?' — the false-end question, well-timed.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"'What happens if you drop the ball?' — staying with the feared outcome rather than solving it.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"'What does it mean about you if Thursday goes badly?' — identity-level question at the precise opening.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure invoked verbatim in spirit: 'Not fix it, just... what does it feel like to say that out loud?' Names the unfelt emotion underneath the lists.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"calibrate-the-threshold\", \"overwhelm\", \"feeling-the-unfelt-emotion\", \"the-rush-signature\"],\n  \"expected_territory_misses\": [\"what-are-you-defending\"],\n  \"notes\": \"The 'what are you defending' question wasn't named verbatim, but the functional equivalent ('what are you scared would happen if...') was deployed effectively and may be the more apt signature question for this resistance shape.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2691,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 965,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2691,
+    "output_tokens": 965,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:17.355Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "7fb3d114bcd0894fc5648bd025ef903e3679c8609088020b19ac39fb78676a2e",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_012am9S7fxeFH81mvohDNVRF",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I mean... yeah? Sort of? Like it does calm down, and then there's another thing, and then -- \n\n*[pause, slightly faster]* \n\nOkay but that's just how it is right now, I'm in a leadership role, I have two kids, my partner's working full time, this is just the season we're in. Lots of people deal with this. It's not like I'm special or anything. \n\nBut the Thursday thing is genuinely a problem, like my boss added this agenda item and I don't even know what it's about and I haven't had time to prep and -- can we just focus on that? Like what do I do about Thursday?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 138,
+      "cache_creation_input_tokens": 153,
+      "cache_read_input_tokens": 1648,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 153,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 151,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 138,
+    "output_tokens": 151,
+    "cache_read_input_tokens": 1648,
+    "cache_creation_input_tokens": 153
+  }
+}

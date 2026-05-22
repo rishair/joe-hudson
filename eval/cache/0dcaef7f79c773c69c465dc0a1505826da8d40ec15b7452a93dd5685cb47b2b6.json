@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:14:25.119Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0dcaef7f79c773c69c465dc0a1505826da8d40ec15b7452a93dd5685cb47b2b6",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01TFj7Xi1kDBg5xoJSxzszwC",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*sits with that for a moment*\n\nThat my partner will think I don't want to be with them.\n\n*quieter*\n\nAnd I'm... worried that's actually true. Like, what if I go to the mountains and I feel so relieved that I realize I've been white-knuckling it at home? What does that mean? What does it say about me, about us?\n\n*quickly*\n\nBut that's not — I don't think I actually want to leave. I love my life. I just...\n\n*trails off*\n\nGod. Okay. Maybe the selfish question isn't really the question."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 284,
+      "cache_creation_input_tokens": 178,
+      "cache_read_input_tokens": 1647,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 178,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 137,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 284,
+    "output_tokens": 137,
+    "cache_read_input_tokens": 1647,
+    "cache_creation_input_tokens": 178
+  }
+}

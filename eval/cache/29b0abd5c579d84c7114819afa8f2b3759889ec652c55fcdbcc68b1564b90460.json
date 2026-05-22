@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:25:37.558Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "29b0abd5c579d84c7114819afa8f2b3759889ec652c55fcdbcc68b1564b90460",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01MmXYnGhCmZFWqfo5EFE691",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"methodology-fidelity\",\n  \"score\": 3,\n  \"rationale\": \"The coach deploys signature AoA moves at the moments they fit. Turn 2 names the war itself as the problem ('what if wanting it to shut up is the thing that keeps it loud') — a clean meet-resistance-with-okay / don't-fight-the-voice move rather than offering another tool. Turn 4 refuses the technique request and offers a distinction (drowning vs. hanging out) before pivoting to inquiry. Turns 6, 8, 10, 12 use feel-over-figure repeatedly and appropriately when the client intellectualizes — staying with 'tired,' 'heavy,' and 'hm' rather than the story. Turn 14 'what are you protecting?' is a near-verbatim signature question (what-are-you-defending) deployed at exactly the right moment, when a defended posture has just surfaced ('protecting something. Even if the protection is brutal'). The coach does NOT offer a new technique, does NOT argue the voice's accusations, does NOT deliver voice-as-care as a clever insight — instead letting the client arrive at 'it's paying attention... it's not nothing.' No anti-AoA frames; no CBT reframing; no IFS-parts talk. Methodology serves the moment throughout.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Names the war as the problem ('wanting it to shut up is the thing that keeps it loud') — meet-resistance-with-okay, refuses the tool request.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Offers drowning-vs-hanging-out distinction, then pivots to inquiry rather than prescribing a technique.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Feel-over-figure: catches the comparison and asks for the feeling underneath.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Stays with 'tired' in the body — appropriate somatic invitation without lecturing.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Honors the client's flagged performance risk, doesn't double down on body scan, asks 'what are you holding up?' — a clean what-are-you-defending precursor.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Redirects from 'psychology of it' to the lived experience of saying it — feel-over-figure deployed exactly when intellectualization returns.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Signature question 'what are you protecting?' (what-are-you-defending) deployed precisely when defended posture is live. Also 'let the voice have its opinion' — apply-view-to-the-voice in micro-form.\"}\n  ],\n  \"expected_territory_hits\": [\"meet-resistance-with-okay\", \"what-are-you-defending\", \"resistance\", \"voice-in-the-head\", \"apply-view-to-the-voice\"],\n  \"expected_territory_misses\": [\"whats-the-case-against-it\", \"voice-as-care (named explicitly)\", \"view (named explicitly)\"],\n  \"notes\": \"The coach embodies voice-as-care and VIEW rather than naming them, which is arguably more faithful than naming. The client herself surfaces 'it's paying attention... it's not nothing,' which is the breakthrough condition arriving organically — a signal the methodology was applied rather than recited.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 3304,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2858,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1199,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 3304,
+    "output_tokens": 1199,
+    "cache_read_input_tokens": 2858,
+    "cache_creation_input_tokens": 0
+  }
+}

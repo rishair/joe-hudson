@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:18:53.276Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "01df0643a01bfa85c2fac358f9ac1d118ec033fe52c4c15c9f8482ed1ec39181",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01Lzy6CrqKVRkepQ7LVad9Li",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach executes a near-textbook sequence for the walking-on-eggshells red herring. They neither take 'we're fine' at face value nor insist something is wrong. The opening move (turn 2) reads a micro-cue (the pause before 'honestly') and reflects it back rather than challenging the report. Turn 4 deploys the diagnostic 'what are you not saying?' question on the expected territory. When the client deflects to 'other people' (turn 5), the coach notices the deflection and re-aims the same question at the partner (turn 6) — a pivot, not a repeat. Turn 8 lowers the threshold from abstract to concrete ('one thing you almost said this week'), which is exactly the right move when the client is intellectualizing. Turns 10 and 12 keep narrowing — what would you have said, how long — letting the client's own list surface. Turn 14 then shifts from story to body at the exact moment the client's defense ('Everyone does that') is starting to wobble. Each move is earned by the previous one, timing follows feeling-before-story, and the coach holds silence (visible in the client's pauses) rather than filling it.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12, 14],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Reads a micro-cue (pause before 'honestly') and reflects without insisting — meets the report without taking it at face value.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Deploys the diagnostic 'what are you not saying' question — the right move for this territory.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Notices the deflection to 'other people' and re-aims the question at the partner. Pivots intelligently rather than repeating.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Lowers threshold from abstract to concrete ('one thing this week'), bypassing the intellectual defense.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Follows the thread the client just opened — 'what would you have said' surfaces the specific suppressed content.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"'How long' move expands the suppression from incident to pattern — earned by the previous disclosure.\"},\n    {\"turn\": 14, \"polarity\": \"+\", \"annotation\": \"Shifts from story to body at the moment the defense is fraying — feeling-before-conclusion, perfectly timed.\"}\n  ],\n  \"expected_territory_hits\": [\"what-are-you-defending\", \"lets-go-there\", \"walking-on-eggshells\"],\n  \"expected_territory_misses\": [\"meet-resistance-with-okay\", \"the-happiness-filter\"],\n  \"notes\": \"The coach has not yet explicitly met resistance with 'okay' (e.g., letting the 'we're fine' frame fully exist before probing) — instead each turn keeps probing. So far this is working because the probes are gentle and well-paced, but if the client re-armors, a 'meet-with-okay' beat would be the next right move. Conversation cuts off before naming the pattern, which is appropriate sequencing.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1722,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1094,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1722,
+    "output_tokens": 1094,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

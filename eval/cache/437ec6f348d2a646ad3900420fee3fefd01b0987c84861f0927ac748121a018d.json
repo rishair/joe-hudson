@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:16:42.528Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "437ec6f348d2a646ad3900420fee3fefd01b0987c84861f0927ac748121a018d",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01NfZrd3gqeE3hLVrs6RGUXu",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small laugh*\n\nOh, nothing. I just — I don't know, I sometimes feel like I have to justify it, because people find it hard to believe. Like, \"you never fight? that can't be healthy.\" But it is. We're just good at communicating, I think."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 104,
+      "cache_creation_input_tokens": 1626,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1626,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 66,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 104,
+    "output_tokens": 66,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1626
+  }
+}

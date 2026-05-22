@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:12:02.488Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "0b973aa7d01915a9d04b611fa27c9c09f5bb93d47623c306f5289725abffb9e0",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01LJxT8zfHSRYufScjJnDFnk",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "What if it's not a style — what if it's the thing that's keeping you from launching?"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 446,
+      "cache_creation_input_tokens": 194,
+      "cache_read_input_tokens": 18659,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 194,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 24,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 446,
+    "output_tokens": 24,
+    "cache_read_input_tokens": 18659,
+    "cache_creation_input_tokens": 194
+  }
+}

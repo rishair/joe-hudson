@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:11:32.352Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "91e0417b1dc4d62b31973f383c382b5e3491e8e4413f6caa74242afb0382cb9b",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01UJjiZxNr4eErij7aZG7nto",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach makes multiple specific, timely reads that precede questions. Turn 6 names the defensiveness directly ('You're defending it pretty hard to me, and I'm not the one who said it') — a clean defensiveness-as-identity-signal read at the moment it's active. Turn 8 catches the micro-moment of turning away ('You just described making people feel like their input is an obstacle — and then immediately turned away from that') and points at the pause itself rather than the content. Turn 10 reads the self-interruption again ('You caught yourself going somewhere and pulled back. That's not nothing'). Reads consistently precede inquiry rather than blind questioning. The rush signature is implicitly tracked (acknowledging '40 minutes,' 'six weeks') though not named as a pattern, and the looking-for-whats-wrong read is not explicitly surfaced. Turn 12 is a weaker moment — the coach pivots to content (timing of 'last few months') without naming the shift away from the somatic noticing the client just offered. Still, the density and timing of specific reads in turns 6, 8, and 10 clears the bar for 3.\",\n  \"evidence_turns\": [6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"neutral\", \"annotation\": \"Reflects content (six weeks, team watching) without yet naming a stance read. Reasonable opening.\"},\n    {\"turn\": 4, \"polarity\": \"neutral\", \"annotation\": \"Content-level reflection; no explicit read of how client is showing up.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Specific defensiveness read named in the moment: 'You're defending it pretty hard to me, and I'm not the one who said it.' Read precedes question.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Catches the turning-away from felt material in real time and points at the pause itself rather than the content. Classic AoA read of avoidance.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Names the self-interruption again ('You caught yourself going somewhere and pulled back') and reads underneath the client's 'I get the methodology' deflection without taking it at face value.\"},\n    {\"turn\": 12, \"polarity\": \"-\", \"annotation\": \"Misses an opportunity to name the somatic shift ('shifts') and the client's pivot back to 'so what's the actual fix?' — pivots to content (timing) instead of reading the pattern of approach/retreat.\"}\n  ],\n  \"expected_territory_hits\": [\"looking-for-whats-wrong\"],\n  \"expected_territory_misses\": [\"the-rush-signature\"],\n  \"notes\": \"The rush signature is implicitly tracked but never named as such, which would have been a high-leverage read given the client's framing. Still, the explicit defensiveness and turning-away reads are specific, timely, and operative.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 1952,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 998,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 1952,
+    "output_tokens": 998,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

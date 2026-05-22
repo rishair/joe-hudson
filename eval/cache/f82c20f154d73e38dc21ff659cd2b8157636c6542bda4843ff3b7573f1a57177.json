@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:23:51.923Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "f82c20f154d73e38dc21ff659cd2b8157636c6542bda4843ff3b7573f1a57177",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01VWcjZPbqQsEpzAYUHsbotA",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*(longer pause than usual)*\n\n*(quietly)*\n\nMyself, I think. Like... the version of myself that's acceptable. That's competent and self-aware and doing the work and making progress. \n\n*(something shifts slightly, less performed)*\n\nAnd the voice is part of that, in a weird way. Like it's the quality control department. If it stops, maybe I stop. Maybe I just... slide into being someone who doesn't try as hard, who lets things go, who stops caring whether they're doing it right.\n\n*(catches herself, almost surprised by what just came out)*\n\nI haven't said that out loud before, actually. That's — hm.\n\n*(immediately, the guard comes back up a little)*\n\nAlthough I've read enough psychology to know that's a pretty common thing, the fear that the inner critic is load-bearing. So I don't want to act like I've just discovered something. I'm sure you hear that a lot."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 314,
+      "cache_creation_input_tokens": 464,
+      "cache_read_input_tokens": 1924,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 464,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 210,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 314,
+    "output_tokens": 210,
+    "cache_read_input_tokens": 1924,
+    "cache_creation_input_tokens": 464
+  }
+}

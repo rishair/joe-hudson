@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:59.030Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "a48eb2e9881be06ca9823de095526cf2d7babb281f0337d5e9617d2057b381ae",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01SqjSTcsrsewmVbGpoxKCd7",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*small smile, slight tilt of the head*\n\nWell, that's the practical question, isn't it. If I take the offer and it's wrong — I've left something stable for something that doesn't work out. If I stay and it's wrong — I've passed on something that could have been genuinely better.\n\nThe costs are roughly symmetrical, which is part of why the decision is hard. Neither option is obviously safer.\n\n*brief pause*\n\nBut I think what I'm really trying to get at is more foundational than that — it's the mechanism. How do you actually know, in the moment, which signal to listen to? Because I've read the somatic markers literature, I've done enough meditation to notice body states, and I still can't reliably distinguish. The signals are ambiguous."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 119,
+      "cache_creation_input_tokens": 120,
+      "cache_read_input_tokens": 1495,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 120,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 175,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 119,
+    "output_tokens": 175,
+    "cache_read_input_tokens": 1495,
+    "cache_creation_input_tokens": 120
+  }
+}

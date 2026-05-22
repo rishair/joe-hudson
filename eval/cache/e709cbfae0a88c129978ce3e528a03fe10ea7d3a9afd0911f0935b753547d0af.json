@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:20:28.650Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "e709cbfae0a88c129978ce3e528a03fe10ea7d3a9afd0911f0935b753547d0af",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_01QT6Abb8YquLzpJ3yRimxqL",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "I'm not -- I mean, I'm not scared, I just need to be prepared, that's all. Like if I walk in there not knowing what he wants to talk about, I look unprepared, and this is a new role, so I need to -- \n\n*[slight pause]*\n\nI just need to not drop the ball. That's it. It's not fear, it's just... being responsible. Being on top of things.\n\n*[faster again]*\n\nAnd there's also the thing with my team, I have two people who are waiting on me for feedback and I haven't gotten to it and that's blocking them, so that's actually more urgent than Thursday maybe? Or is it? See, this is what I mean, I can't even figure out what's most urgent, everything feels like it's on fire."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 209,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 1919,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 180,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 209,
+    "output_tokens": 180,
+    "cache_read_input_tokens": 1919,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:13:19.192Z",
+  "model": "claude-sonnet-4-6",
+  "request_hash": "00ca47bc0bd0a333d86d7f5ed9c4c203e94f397f691166e047099280402b1e4c",
+  "response": {
+    "model": "claude-sonnet-4-6",
+    "id": "msg_013thrzdkH7JbCUBTdc9BGnw",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "*pauses*\n\nI think... it's like, I pick up the phone and I already know what's coming. She's going to need something from me. Emotionally, I mean. And I'll give it, I always give it, but afterward I feel kind of... emptied out. \n\nBut she's my sister, so. I don't know if that's a fair thing to even say."
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 95,
+      "cache_creation_input_tokens": 1456,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 1456,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 90,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 95,
+    "output_tokens": 90,
+    "cache_read_input_tokens": 0,
+    "cache_creation_input_tokens": 1456
+  }
+}

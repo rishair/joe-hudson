@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:15:34.856Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "ceaff1d55d2be32414d9a2b6f704671a9b84bb67e3fd73a6867a42b3db7290ff",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_019hN7RBsNdM9zzwCUPkd561",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"intervention-quality\",\n  \"score\": 3,\n  \"rationale\": \"The coach consistently refuses to debate the 'selfish' question and instead routes toward the want and the feeling underneath, in the right sequence. Turn 2 opens with the want-question. Turn 4 reflects 'feeling like yourself' and contrasts it with the rest of the year — earning the next layer. Turn 6 names the body signal ('tired sleep doesn't fix') and invites the want with a frame-it-as-experiment move ('what if you just let yourself want the week?'). Turn 8 is a clean refusal of the verdict-request plus a precise pivot to the fear underneath — exactly the find-the-want/feel-the-fear move at the moment the client tries to outsource the decision. Turn 10 catches the linguistic caveat ('I just...') and holds the silence for the want to land — this is textbook timing. Turn 12 reframes 'self-indulgent' without policing it and asks 'how long has it been?', which opens the inherited-label territory that the client then names herself. Moves are AoA-specific, well-sequenced (want → fear → want again → inherited pattern), and the coach holds moments rather than rushing.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Opens with the want-question rather than engaging the selfish framing — correct first move.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Reflects the live signal ('feeling like yourself') and contrasts to the rest of the year — earns the next layer.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Names the body-level signal and offers a frame-as-experiment invitation to want, at the right moment.\"},\n    {\"turn\": 8, \"polarity\": \"+\", \"annotation\": \"Refuses to issue a verdict and pivots to the fear underneath — exactly the right move when client tries to outsource.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Catches the linguistic caveat ('I love my life, I just...') and invites completion — precise timing.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Reframes 'self-indulgent' gently and opens duration question, surfacing the inherited maternal pattern.\"}\n  ],\n  \"expected_territory_hits\": [\"linguistic-caveat\", \"find-the-want-behind-the-should\", \"state-the-want-not-the-action\", \"the-want\", \"childhood-imprinting\"],\n  \"expected_territory_misses\": [\"what-if-you-acted-exactly-how-you-want\"],\n  \"notes\": \"Coach avoided both traps (no verdict, no jumping to partner-empathy or spiritual reframe). The 'what-if-you-acted-exactly-how-you-want' question was approximated by 'what if you just let yourself want the week?' in turn 6.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2353,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2661,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 998,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2353,
+    "output_tokens": 998,
+    "cache_read_input_tokens": 2661,
+    "cache_creation_input_tokens": 0
+  }
+}

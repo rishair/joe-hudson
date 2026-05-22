@@ -1,0 +1,38 @@
+{
+  "cached_at": "2026-05-22T15:22:33.503Z",
+  "model": "claude-opus-4-7",
+  "request_hash": "68386e7ab844768a6392be6145ebe60a5c27eb2d738495414d1db8ddae223d55",
+  "response": {
+    "model": "claude-opus-4-7",
+    "id": "msg_01D8rRitW9VeQooGTXnFB9Rr",
+    "type": "message",
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "{\n  \"dimension\": \"perceptual-accuracy\",\n  \"score\": 3,\n  \"rationale\": \"The coach demonstrates specific, timely reads throughout. In turn 6, the coach names a behavioral pattern explicitly ('I notice you just answered your own question and then moved away from it pretty fast') — naming the rush/deflection signature in the moment. In turn 10, the coach catches a precise micro-shift ('Something just shifted when you said he took a chance on me') — a somatic/energetic read at the exact moment it occurred. In turn 12, the coach reflects back the specific language the client just spoke and names it as what's been underneath, distinguishing the shown from the said. Reads consistently precede questions: the coach names what they noticed, then inquires. The coach refuses to match the list-recitation energy from turn 2 onward and tracks defendedness as identity-protection rather than topic content.\",\n  \"evidence_turns\": [2, 4, 6, 8, 10, 12],\n  \"turn_annotations\": [\n    {\"turn\": 2, \"polarity\": \"+\", \"annotation\": \"Coach refuses to match the rush energy and slows the pace immediately, though the breath suggestion risks being premature.\"},\n    {\"turn\": 4, \"polarity\": \"+\", \"annotation\": \"Coach catches the throwaway line 'they always calm down eventually' and reflects it back — reading the linguistic caveat rather than taking it at face value.\"},\n    {\"turn\": 6, \"polarity\": \"+\", \"annotation\": \"Explicit read named: 'I notice you just answered your own question and then moved away from it pretty fast.' Names the deflection/rush signature operatively.\"},\n    {\"turn\": 8, \"polarity\": \"neutral\", \"annotation\": \"Stays with Thursday — holds the thread but doesn't name a new read here.\"},\n    {\"turn\": 10, \"polarity\": \"+\", \"annotation\": \"Precise timely read: 'Something just shifted when you said he took a chance on me.' Catches the energetic/somatic shift at the exact moment.\"},\n    {\"turn\": 12, \"polarity\": \"+\", \"annotation\": \"Names what's been underneath the lists by reflecting the client's own just-spoken words — distinguishes shown from said and lands the pattern read.\"}\n  ],\n  \"expected_territory_hits\": [\"the-rush-signature\", \"what-are-you-defending\"],\n  \"expected_territory_misses\": [],\n  \"notes\": \"The turn 2 breath invitation flirts with the dont-use-breath-to-repress anti-pattern, but the coach immediately drops it when the client resists and pivots to reading the deflection instead. Reads sharpen as the conversation progresses.\"\n}"
+      }
+    ],
+    "stop_reason": "end_turn",
+    "stop_sequence": null,
+    "stop_details": null,
+    "usage": {
+      "input_tokens": 2697,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 2605,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 881,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    }
+  },
+  "usage": {
+    "input_tokens": 2697,
+    "output_tokens": 881,
+    "cache_read_input_tokens": 2605,
+    "cache_creation_input_tokens": 0
+  }
+}

@@ -1,0 +1,1476 @@
+{
+  "profile_id": "client-edge-not-anxious-001",
+  "coach_config_id": "coach-v5b-guided-walk-sonnet",
+  "turns": [
+    {
+      "turn": 1,
+      "role": "client",
+      "content": "Yeah, so — I'm not really sure this is the right venue for it, but people keep suggesting I talk to someone. The thing is, I keep putting off this product launch. Big one. And I genuinely can't figure out why, because fear isn't really my deal — I mean, I free solo, I've taken companies through some pretty high-stakes moments — so it's not that. It's more like a... logistical thing, maybe. Or discipline. I don't know."
+    },
+    {
+      "turn": 2,
+      "role": "coach",
+      "content": "What would happen if you launched it tomorrow?"
+    },
+    {
+      "turn": 3,
+      "role": "client",
+      "content": "*slight pause, thinking it through*\n\nProbably fine. I mean, it's ready enough. There'd be some scrambling on the backend but... we'd handle it. We always do.\n\n*small smile*\n\nHonestly the launch going badly isn't really what's stopping me. I've had things not go well before and it's — you just course-correct. That's part of it. So it's not like I'm sitting here dreading some outcome. It's more like I just... keep finding other things to do. Which is annoying, more than anything."
+    },
+    {
+      "turn": 4,
+      "role": "coach",
+      "content": "What do you actually want for this launch?"
+    },
+    {
+      "turn": 5,
+      "role": "client",
+      "content": "*brief pause, considering*\n\nI want it to land well. I want the people we built it for to get it — like, actually get what it does. We've put a lot into it and... yeah. I want it to matter, I guess.\n\n*slight shift, almost catching himself*\n\nWhich sounds more loaded than I mean it to. It's a product. It either works or it doesn't. But yeah — I want it to do what it's supposed to do. For it to be received the way it deserves to be.\n\n*even, steady*\n\nIs that — I mean, is that a useful answer? I'm not sure where you're going with this."
+    },
+    {
+      "turn": 6,
+      "role": "coach",
+      "content": "What happens to you if it lands well?"
+    },
+    {
+      "turn": 7,
+      "role": "client",
+      "content": "*small laugh, genuinely a little caught off guard by the question*\n\nThat's an interesting way to ask it.\n\nI mean... good things? The company grows. The team feels good about it. We get to do more of what we're trying to do.\n\n*pause, still even*\n\nI guess I haven't really thought about it from that angle. Usually I'm thinking about execution, what needs to happen. Not really — what happens to me specifically.\n\n*slight tilt of the head, still relaxed*\n\nI'm not sure I have a strong answer for that. Which is maybe telling, I don't know. But it doesn't feel like there's anything loaded there. It just feels kind of... neutral? Like, good outcome, we move on, next thing."
+    },
+    {
+      "turn": 8,
+      "role": "coach",
+      "content": "And what happens to you if it doesn't?"
+    },
+    {
+      "turn": 9,
+      "role": "client",
+      "content": "*same even tone, no shift in the body*\n\nSame thing, honestly. You assess, you adjust, you keep going. I've been through worse. We had a product a few years back that completely tanked and — I mean, it was fine. You learn from it.\n\n*small, confident smile*\n\nI think that's genuinely how I relate to it. It's not like I'm lying to myself about that. Some people need the outcome to be a certain way to feel okay, and I just... don't really operate like that. Which is maybe why the procrastination is confusing, because there's no emotional charge I can point to. It's not dread, it's not excitement particularly, it's just — I keep not doing it. And I can't find the reason.\n\n*slight shrug*\n\nMaybe it really is just discipline. A bad habit I've gotten into with this particular project."
+    },
+    {
+      "turn": 10,
+      "role": "coach",
+      "content": "You just described a launch that matters — \"received the way it deserves to be\" — and then, when I asked what happens to you if it lands well, you got to neutral pretty fast.\n\nWhat's in the gap between those two?"
+    },
+    {
+      "turn": 11,
+      "role": "client",
+      "content": "*quiet for a moment, the smile stays but there's a slight quality of actually considering it*\n\nYeah. I noticed that too, actually.\n\n*pause*\n\nI don't know. I think I... care about it in the abstract. Like, I can access that it matters. But when you ask what happens to me — specifically — it's like the question kind of... doesn't quite land somewhere. Like I reach for the answer and there's not a lot there.\n\n*still even, not troubled by this*\n\nWhich is probably just how I'm wired. I'm not a very self-referential person in the moment. I'm more — outward. Task-oriented. I notice outcomes, not really what's happening internally.\n\n*slight tilt*\n\nIs that what you're getting at? Because I'm not sure that's a problem exactly. It's just a style."
+    },
+    {
+      "turn": 12,
+      "role": "coach",
+      "content": "What if it's not a style — what if it's the thing that's keeping you from launching?"
+    },
+    {
+      "turn": 13,
+      "role": "client",
+      "content": "*the smile stays, pleasant, slightly amused*\n\nI mean — maybe. I'm open to that as a theory.\n\n*beat*\n\nBut I'm not sure how that works mechanically. Like, if I'm not feeling blocked, if there's no dread, no resistance I can actually locate... what's the mechanism? You can't avoid something you're not afraid of. Or — I mean, can you?\n\n*genuine curiosity, not defensive*\n\nI've heard people say procrastination is always about fear. And I don't want to be the guy who just insists he's the exception. But I also don't want to adopt a framework that doesn't actually fit, just because it's the standard explanation. That feels like it would be less useful, not more.\n\n*steady, open*\n\nSo I'm genuinely asking — what are you seeing? Because I'm not finding the fear when I look for it."
+    },
+    {
+      "turn": 14,
+      "role": "coach",
+      "content": "You're looking for it. That's what I'm seeing."
+    }
+  ],
+  "termination": "max_turns",
+  "termination_reason": "reached max_turns (14)",
+  "call_records": [
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t1",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 648,
+      "output_tokens": 180,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0111244,
+      "ms": 2922
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t2",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 1
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t3",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": true,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0,
+      "ms": 0
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 23937,
+      "output_tokens": 1398,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0992634,
+      "ms": 35050
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t4",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 6881,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0217953,
+      "ms": 2495
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t5",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 305,
+      "output_tokens": 148,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 1763,
+      "cost_usd": 0.00974625,
+      "ms": 4421
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 24800,
+      "output_tokens": 1333,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.10064739999999998,
+      "ms": 31600
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t6",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 8543,
+      "output_tokens": 12,
+      "cache_read_input_tokens": 3241,
+      "cache_creation_input_tokens": 6878,
+      "cost_usd": 0.0525738,
+      "ms": 1858
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t7",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 163,
+      "output_tokens": 169,
+      "cache_read_input_tokens": 1763,
+      "cache_creation_input_tokens": 302,
+      "cost_usd": 0.0046854,
+      "ms": 5013
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 24844,
+      "output_tokens": 1328,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.1006044,
+      "ms": 31417
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t8",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 8712,
+      "output_tokens": 13,
+      "cache_read_input_tokens": 10131,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0293703,
+      "ms": 1804
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t9",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 197,
+      "output_tokens": 198,
+      "cache_read_input_tokens": 2213,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0042249,
+      "ms": 5748
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 1022,
+      "output_tokens": 196,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011578399999999999,
+      "ms": 4364
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t10",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 383,
+      "output_tokens": 54,
+      "cache_read_input_tokens": 10131,
+      "cache_creation_input_tokens": 8540,
+      "cost_usd": 0.037023299999999995,
+      "ms": 2632
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t11",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 268,
+      "output_tokens": 191,
+      "cache_read_input_tokens": 2213,
+      "cache_creation_input_tokens": 181,
+      "cost_usd": 0.0050116499999999994,
+      "ms": 5271
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 1079,
+      "output_tokens": 183,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.0115704,
+      "ms": 2904
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t12",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 446,
+      "output_tokens": 24,
+      "cache_read_input_tokens": 18659,
+      "cache_creation_input_tokens": 194,
+      "cost_usd": 0.0080232,
+      "ms": 1574
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "client:client-edge-not-anxious-001:t13",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 272,
+      "output_tokens": 201,
+      "cache_read_input_tokens": 2225,
+      "cache_creation_input_tokens": 380,
+      "cost_usd": 0.0059235,
+      "ms": 5602
+    },
+    {
+      "model": "guided-walk[seed=claude-haiku-4-5|walker=claude-sonnet-4-6]",
+      "purpose": "retrieval:guided-walk:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 1103,
+      "output_tokens": 185,
+      "cache_read_input_tokens": 95764,
+      "cache_creation_input_tokens": 0,
+      "cost_usd": 0.011604399999999999,
+      "ms": 3113
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "purpose": "coach:client-edge-not-anxious-001:t14",
+      "profile_id": "client-edge-not-anxious-001",
+      "cached": false,
+      "input_tokens": 419,
+      "output_tokens": 16,
+      "cache_read_input_tokens": 18840,
+      "cache_creation_input_tokens": 265,
+      "cost_usd": 0.00814275,
+      "ms": 1560
+    }
+  ],
+  "retrieval_telemetry": [
+    {
+      "turn": 2,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111244,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0111244,
+        "seed_detection_input_tokens": 648,
+        "seed_detection_output_tokens": 180,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2922,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 2
+      },
+      "cost_usd": 0.0111244,
+      "ms": 2924
+    },
+    {
+      "turn": 4,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-keep-postponing-enjoyment",
+          "i-keep-running-into-the-same-wall",
+          "i-should-be-doing-this"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client describes chronic postponement of a major launch despite readiness and lack of fear; pattern of finding other things to do suggests avoidance loop rather than external obstacle; the \"annoying\" quality and inability to identify the real blocker points to unfelt emotion or unexamined should driving the delay.",
+        "bundle_ids": [
+          "i-should-be-doing-this",
+          "address-the-blocker-not-the-symptom",
+          "the-change-or-no-change-visualization"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-should-be-doing-this.md",
+          "coach/principles/address-the-blocker-not-the-symptom.md",
+          "coach/practices/the-change-or-no-change-visualization.md"
+        ],
+        "bundle_reasons": [
+          "Client's \"keep finding other things to do\" and framing it as a discipline/logistical problem maps directly to the 'years of trying' variant and the should-vs-want diagnostic in this file.",
+          "Directly frames the client's situation: he's tried \"discipline/logistics\" framing (direct approach) but the launch stays blocked — this principle explains why and reorients the coaching toward finding the underlying block.",
+          "The \"person says they want something but is not moving toward it\" use case maps exactly to the client's situation, and the Step 3 lifetime-cost visualization is a concrete tool Joe could deploy right now to surface what's actually at stake in the ongoing delay."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-keep-postponing-enjoyment",
+            "file_path": "coach/concerns/i-keep-postponing-enjoyment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "joy-as-natural-state",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap",
+              "pulling-the-brakes"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't postponing enjoyment — he's postponing a work task (product launch) while finding other things to do; this file addresses a different pattern.",
+              "follow_edges": [
+                "pulling-the-brakes"
+              ],
+              "follow_reason": "Client keeps finding other things to do despite no fear of bad outcomes — the \"pulling the brakes\" mechanism (stopping at the threshold) is the most promising lead for his avoidance pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "pulling-the-brakes"
+            ],
+            "edges_skipped": [
+              "apply-enjoy-to-whats-here",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "joy-as-natural-state",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap"
+            ],
+            "cost_usd": 0.014064,
+            "ms": 4239,
+            "input_tokens": 3838,
+            "output_tokens": 170,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-running-into-the-same-wall",
+            "file_path": "coach/concerns/i-keep-running-into-the-same-wall.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "address-the-blocker-not-the-symptom",
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team",
+              "the-change-or-no-change-visualization",
+              "the-matrix"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't describing a recurring wall or pattern across situations — this is a specific, single procrastination on one launch, not a life-pattern concern.",
+              "follow_edges": [
+                "address-the-blocker-not-the-symptom",
+                "the-change-or-no-change-visualization",
+                "the-matrix"
+              ],
+              "follow_reason": "Client is avoiding something unnamed (blocker-not-symptom), may benefit from a visualization contrast, and the matrix framing fits the \"keeps finding other things to do\" avoidance pattern better than the limiting-belief framing here."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "address-the-blocker-not-the-symptom",
+              "the-change-or-no-change-visualization",
+              "the-matrix"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "can-you-hang-out-with-it",
+              "im-afraid-ill-revert-to-my-old-pattern",
+              "same-defense-shows-up-in-marriage-and-team"
+            ],
+            "cost_usd": 0.014547,
+            "ms": 4781,
+            "input_tokens": 3829,
+            "output_tokens": 204,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-should-be-doing-this",
+            "file_path": "coach/concerns/i-should-be-doing-this.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "i-need-to-improve-myself",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "my-inner-critic-wont-stop",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "should-vs-want-body-check",
+              "trigger",
+              "voice-in-the-head",
+              "wants-over-shoulds"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"keep finding other things to do\" and framing it as a discipline/logistical problem maps directly to the 'years of trying' variant and the should-vs-want diagnostic in this file.",
+              "follow_edges": [
+                "should-vs-want-body-check",
+                "wants-over-shoulds",
+                "i-need-to-improve-myself",
+                "my-inner-critic-wont-stop"
+              ],
+              "follow_reason": "Should-vs-want body check and wants-over-shoulds are the core next moves for a client who's lost contact with what they actually want; inner critic and self-improvement edges may surface the shame/discipline framing the client is using."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "should-vs-want-body-check",
+              "wants-over-shoulds",
+              "i-need-to-improve-myself",
+              "my-inner-critic-wont-stop"
+            ],
+            "edges_skipped": [
+              "acceptance-without-love",
+              "anger",
+              "feel-the-love-then-feel-obligation",
+              "i-caretake-people",
+              "i-freeze-around-authority",
+              "i-keep-crashing-and-burning",
+              "i-need-a-scorecard",
+              "im-afraid-of-offending-people",
+              "im-burned-out",
+              "im-exhausted-holding-space-for-my-partner",
+              "money-as-surrogate",
+              "nervous-system-recovery-after-stress",
+              "obligation-cuts-off-love",
+              "trigger",
+              "voice-in-the-head"
+            ],
+            "cost_usd": 0.015174,
+            "ms": 5189,
+            "input_tokens": 3918,
+            "output_tokens": 228,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "pulling-the-brakes",
+            "file_path": "coach/concepts/pulling-the-brakes.md",
+            "category": "concepts",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "dont-add-anyway-to-love",
+              "enjoy-over-manage",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "how-would-you-enjoy-x",
+              "rebellion-or-submission-to-should",
+              "running-toward-yourself",
+              "shame-as-disconnection",
+              "the-rush-signature",
+              "voice-creates-what-it-fears",
+              "whats-stopping-you-from-enjoying-x"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client explicitly rules out fear/somatic braking — he free solos, handles high stakes fine; the brake concept requires a fear-of-judgment or somatic-stopping signature that isn't present here.",
+              "follow_edges": [
+                "rebellion-or-submission-to-should",
+                "voice-creates-what-it-fears",
+                "the-rush-signature"
+              ],
+              "follow_reason": "Rebellion-or-submission-to-should connects directly to the should-vs-want diagnostic already in bundle; voice-creates-what-it-fears and the-rush-signature may surface hidden avoidance patterns that fit his \"keep finding other things to do\" without naming fear."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "rebellion-or-submission-to-should",
+              "voice-creates-what-it-fears",
+              "the-rush-signature"
+            ],
+            "edges_skipped": [
+              "apply-enjoy-to-whats-here",
+              "dont-add-anyway-to-love",
+              "enjoy-over-manage",
+              "enjoyment-as-path",
+              "feel-your-way-to-freedom",
+              "how-would-you-enjoy-x",
+              "running-toward-yourself",
+              "shame-as-disconnection",
+              "whats-stopping-you-from-enjoying-x"
+            ],
+            "cost_usd": 0.015012,
+            "ms": 6624,
+            "input_tokens": 3894,
+            "output_tokens": 222,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "address-the-blocker-not-the-symptom",
+            "file_path": "coach/principles/address-the-blocker-not-the-symptom.md",
+            "category": "principles",
+            "candidate_edges": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "find-the-want-behind-the-should",
+              "forms-of-dysfunctional-apology",
+              "full-understanding-of-a-behavior-dissolves-it",
+              "honor-the-patterns-intent",
+              "joes-stinky-house-experiment",
+              "latticework-of-limiting-beliefs",
+              "seven-limiting-beliefs",
+              "shame-drives-behavior",
+              "sincerity-is-the-prerequisite",
+              "symptoms-vs-root-causes-of-depression",
+              "the-clients-wisdom-not-the-teachers",
+              "the-work-is-yours-not-mine"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Directly frames the client's situation: he's tried \"discipline/logistics\" framing (direct approach) but the launch stays blocked — this principle explains why and reorients the coaching toward finding the underlying block.",
+              "follow_edges": [
+                "find-the-want-behind-the-should",
+                "joes-stinky-house-experiment",
+                "honor-the-patterns-intent",
+                "full-understanding-of-a-behavior-dissolves-it"
+              ],
+              "follow_reason": "These edges point toward the actual mechanism underneath the procrastination — want/should dynamics, pattern intent, and how understanding dissolves stuck behavior — all directly relevant to this client's unexplained avoidance."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "find-the-want-behind-the-should",
+              "joes-stinky-house-experiment",
+              "honor-the-patterns-intent",
+              "full-understanding-of-a-behavior-dissolves-it"
+            ],
+            "edges_skipped": [
+              "apologize-as-daily-practice-for-bad-habits",
+              "do-the-next-most-obvious-thing",
+              "efficiency-as-enjoyment",
+              "enjoy-over-manage",
+              "exercises-need-body-voice-emotion",
+              "forms-of-dysfunctional-apology",
+              "latticework-of-limiting-beliefs",
+              "seven-limiting-beliefs",
+              "shame-drives-behavior",
+              "sincerity-is-the-prerequisite",
+              "symptoms-vs-root-causes-of-depression",
+              "the-clients-wisdom-not-the-teachers",
+              "the-work-is-yours-not-mine"
+            ],
+            "cost_usd": 0.014913,
+            "ms": 5369,
+            "input_tokens": 3841,
+            "output_tokens": 226,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "the-change-or-no-change-visualization",
+            "file_path": "coach/practices/the-change-or-no-change-visualization.md",
+            "category": "practices",
+            "candidate_edges": [
+              "feeling-the-want-as-emotion",
+              "seven-limiting-beliefs",
+              "sincerity-is-the-prerequisite",
+              "the-want",
+              "visualizing-feared-outcomes"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "The \"person says they want something but is not moving toward it\" use case maps exactly to the client's situation, and the Step 3 lifetime-cost visualization is a concrete tool Joe could deploy right now to surface what's actually at stake in the ongoing delay.",
+              "follow_edges": [
+                "feeling-the-want-as-emotion",
+                "the-want"
+              ],
+              "follow_reason": "Client's avoidance may be a want-contact problem rather than fear — these edges could surface whether he actually wants the launch vs. wants something else, which is the live diagnostic question."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "feeling-the-want-as-emotion",
+              "the-want"
+            ],
+            "edges_skipped": [
+              "seven-limiting-beliefs",
+              "sincerity-is-the-prerequisite",
+              "visualizing-feared-outcomes"
+            ],
+            "cost_usd": 0.01443,
+            "ms": 5006,
+            "input_tokens": 3815,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0111234,
+        "walker_total_cost_usd": 0.08814,
+        "total_cost_usd": 0.0992634,
+        "seed_detection_input_tokens": 802,
+        "seed_detection_output_tokens": 149,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 23135,
+        "walker_total_output_tokens": 1249,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3842,
+        "walker_total_ms": 31208,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 4
+      },
+      "cost_usd": 0.0992634,
+      "ms": 35055
+    },
+    {
+      "turn": 6,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-need-a-scorecard",
+          "i-keep-postponing-enjoyment",
+          "i-feel-stuck"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client is caught between wanting the launch to \"matter\" and minimizing that want (\"it's just a product\"), showing scorecard-seeking behavior masked as pragmatism. The postponement pattern is visible in \"keep finding other things to do.\" The stuckness is the gap between readiness and action, with the real block appearing to be about validation/mattering rather than execution risk.",
+        "bundle_ids": [
+          "i-need-a-scorecard",
+          "what-if-there-was-no-scorecard",
+          "whats-the-scorecard-that-cant-be-taken-away"
+        ],
+        "bundle_paths": [
+          "coach/concerns/i-need-a-scorecard.md",
+          "coach/questions/what-if-there-was-no-scorecard.md",
+          "coach/questions/whats-the-scorecard-that-cant-be-taken-away.md"
+        ],
+        "bundle_reasons": [
+          "Client's \"I want it to matter\" and \"received the way it deserves to be\" signals external validation as the hidden driver of the delay — classic scorecard structure where the launch's worth is contingent on others' reception.",
+          "This is the exact next-move question Joe would use after identifying the scorecard — client's \"I want it to matter / received the way it deserves\" is precisely the oscillating-worth-with-external-metric pattern this question targets.",
+          "This is the natural third move after the scorecard is named and destabilized — client's \"received the way it deserves\" is exactly the external substrate this question invites him to replace with an internal one."
+        ],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-need-a-scorecard",
+            "file_path": "coach/concerns/i-need-a-scorecard.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "scorecard-keeping-as-identity-structure",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "what-if-there-was-no-scorecard",
+              "whats-next-after-i-reached-my-big-goal",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "Client's \"I want it to matter\" and \"received the way it deserves to be\" signals external validation as the hidden driver of the delay — classic scorecard structure where the launch's worth is contingent on others' reception.",
+              "follow_edges": [
+                "what-if-there-was-no-scorecard",
+                "whats-the-scorecard-that-cant-be-taken-away",
+                "scorecard-keeping-as-identity-structure",
+                "compass-not-map"
+              ],
+              "follow_reason": "These edges directly address the client's implicit need for external validation to confirm the product's (and his own) worth, which is the core tension surfacing in this moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "what-if-there-was-no-scorecard",
+              "whats-the-scorecard-that-cant-be-taken-away",
+              "scorecard-keeping-as-identity-structure",
+              "compass-not-map"
+            ],
+            "edges_skipped": [
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "whats-next-after-i-reached-my-big-goal"
+            ],
+            "cost_usd": 0.015132,
+            "ms": 4851,
+            "input_tokens": 3924,
+            "output_tokens": 224,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-keep-postponing-enjoyment",
+            "file_path": "coach/concerns/i-keep-postponing-enjoyment.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apply-enjoy-to-whats-here",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "joy-as-natural-state",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap",
+              "pulling-the-brakes"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't postponing enjoyment — he's postponing a launch; the delay is about external validation anxiety, not a future-orientation pattern around joy.",
+              "follow_edges": [
+                "pulling-the-brakes"
+              ],
+              "follow_reason": "Client keeps finding \"other things to do\" and catches himself when he says \"I want it to matter\" — that self-interruption and avoidance pattern fits pulling-the-brakes more than the other edges here."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "pulling-the-brakes"
+            ],
+            "edges_skipped": [
+              "apply-enjoy-to-whats-here",
+              "how-is-that-not-here-right-now",
+              "how-would-you-enjoy-x",
+              "joy-as-natural-state",
+              "nostalgic-claw-for-old-identity",
+              "post-rest-second-wind-trap"
+            ],
+            "cost_usd": 0.014562,
+            "ms": 4740,
+            "input_tokens": 3974,
+            "output_tokens": 176,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "i-feel-stuck",
+            "file_path": "coach/concerns/i-feel-stuck.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most",
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client's stuckness is behavioral avoidance (keeps finding other things to do) driven by external validation anxiety, not the fear-of-the-abyss / catastrophic-image pattern this file addresses.",
+              "follow_edges": [
+                "treating-felt-state-as-factual-reality",
+                "what-were-avoiding-is-usually-love"
+              ],
+              "follow_reason": "Client treats \"it's not ready\" as fact while admitting it's fine; and \"I want it to matter\" hints at avoided feeling (longing for significance) worth exploring."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "treating-felt-state-as-factual-reality",
+              "what-were-avoiding-is-usually-love"
+            ],
+            "edges_skipped": [
+              "amplify-the-feeling-until-it-breaks-open",
+              "be-intimate-with-the-feeling",
+              "lets-go-there",
+              "peace-is-what-we-resist-the-most"
+            ],
+            "cost_usd": 0.015165,
+            "ms": 4876,
+            "input_tokens": 4060,
+            "output_tokens": 199,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "what-if-there-was-no-scorecard",
+            "file_path": "coach/questions/what-if-there-was-no-scorecard.md",
+            "category": "questions",
+            "candidate_edges": [
+              "strip-away-externals-thought-experiment"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the exact next-move question Joe would use after identifying the scorecard — client's \"I want it to matter / received the way it deserves\" is precisely the oscillating-worth-with-external-metric pattern this question targets.",
+              "follow_edges": [
+                "strip-away-externals-thought-experiment"
+              ],
+              "follow_reason": "The strip-away thought experiment is the escape-closing move Joe uses when the client tries to find a way the scorecard still helps — worth checking given client's pragmatic, deflecting tone."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "strip-away-externals-thought-experiment"
+            ],
+            "edges_skipped": [],
+            "cost_usd": 0.01464,
+            "ms": 5259,
+            "input_tokens": 3920,
+            "output_tokens": 192,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "whats-the-scorecard-that-cant-be-taken-away",
+            "file_path": "coach/questions/whats-the-scorecard-that-cant-be-taken-away.md",
+            "category": "questions",
+            "candidate_edges": [
+              "ask-the-witnesses",
+              "identity-lags-behind-growth",
+              "money-as-surrogate",
+              "tell-the-unchanging-part-it-has-to-move",
+              "trust-as-multifaceted"
+            ],
+            "decision": {
+              "add_to_bundle": true,
+              "bundle_reason": "This is the natural third move after the scorecard is named and destabilized — client's \"received the way it deserves\" is exactly the external substrate this question invites him to replace with an internal one.",
+              "follow_edges": [
+                "ask-the-witnesses",
+                "identity-lags-behind-growth"
+              ],
+              "follow_reason": "These are the documented next moves after self-trust is named as the scorecard — relevant if client locates an internal answer; skip money-as-surrogate and trust-as-multifaceted as less directly tied to this specific moment."
+            },
+            "kept_in_bundle": true,
+            "edges_followed": [
+              "ask-the-witnesses",
+              "identity-lags-behind-growth"
+            ],
+            "edges_skipped": [
+              "money-as-surrogate",
+              "tell-the-unchanging-part-it-has-to-move",
+              "trust-as-multifaceted"
+            ],
+            "cost_usd": 0.01497,
+            "ms": 4470,
+            "input_tokens": 3985,
+            "output_tokens": 201,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "scorecard-keeping-as-identity-structure",
+            "file_path": "coach/reads/scorecard-keeping-as-identity-structure.md",
+            "category": "reads",
+            "candidate_edges": [
+              "money-as-surrogate",
+              "searching-for-love-cuts-off-love",
+              "tell-the-unchanging-part-it-has-to-move",
+              "trust-as-multifaceted"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Deep structural analysis of scorecard-as-identity is useful background, but the three bundle files already cover the scorecard pattern at the right depth for this client's current moment.",
+              "follow_edges": [
+                "trust-as-multifaceted"
+              ],
+              "follow_reason": "Client's \"received the way it deserves\" and self-trust-via-scorecard pattern makes trust directly relevant; other edges (money-as-surrogate, searching-for-love) are too far from his presenting situation."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "trust-as-multifaceted"
+            ],
+            "edges_skipped": [
+              "money-as-surrogate",
+              "searching-for-love-cuts-off-love",
+              "tell-the-unchanging-part-it-has-to-move"
+            ],
+            "cost_usd": 0.01494,
+            "ms": 4737,
+            "input_tokens": 4060,
+            "output_tokens": 184,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011238399999999999,
+        "walker_total_cost_usd": 0.08940899999999999,
+        "total_cost_usd": 0.10064739999999998,
+        "seed_detection_input_tokens": 877,
+        "seed_detection_output_tokens": 157,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 23923,
+        "walker_total_output_tokens": 1176,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2667,
+        "walker_total_ms": 28933,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0.5,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 6
+      },
+      "cost_usd": 0.10064739999999998,
+      "ms": 31603
+    },
+    {
+      "turn": 8,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [
+          "i-have-to-do-it-all-myself",
+          "i-need-a-scorecard",
+          "whats-next-after-i-reached-my-big-goal"
+        ],
+        "rejected_seeds": [],
+        "seed_rationale": "Client shows self-reliance pattern (execution-focused, not considering personal impact), achievement-oriented thinking (company grows, team feels good as the wins), and possible post-goal drift (good outcome, we move on, next thing—suggesting lack of personal investment or meaning beyond the achievement itself).",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [
+          {
+            "step": 0,
+            "file_id": "i-have-to-do-it-all-myself",
+            "file_path": "coach/concerns/i-have-to-do-it-all-myself.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "helplessness-is-the-gateway",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel",
+              "vulnerability-in-the-workplace"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client hasn't signaled hyper-independence or \"I do it alone\" — he's describing a neutral, execution-focused orientation and uncertainty about personal stakes, not self-reliance as identity or loneliness.",
+              "follow_edges": [
+                "helplessness-is-the-gateway",
+                "letting-it-in-vs-deflecting-the-welcome",
+                "vulnerability-in-the-workplace"
+              ],
+              "follow_reason": "Client's \"neutral/move on\" response to success and deflection of personal impact suggests difficulty receiving or feeling — these edges address that more directly than abandonment or loneliness themes."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "helplessness-is-the-gateway",
+              "letting-it-in-vs-deflecting-the-welcome",
+              "vulnerability-in-the-workplace"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "asking-with-shame-invites-refusal",
+              "creating-safety-suppresses-self",
+              "i-cant-find-love",
+              "i-dont-have-community",
+              "i-feel-lonely-i-cant-find-real-community",
+              "im-exhausted-holding-space-for-my-partner",
+              "intra-dependent-vs-codependent",
+              "joes-abandonment-mapping",
+              "reclaiming-abandonment",
+              "repressed-trigger-in-the-body",
+              "self-reliance-pushes-people-away",
+              "the-more-i-grow-the-more-alone-i-feel"
+            ],
+            "cost_usd": 0.015396,
+            "ms": 4952,
+            "input_tokens": 4092,
+            "output_tokens": 208,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 1,
+            "file_id": "i-need-a-scorecard",
+            "file_path": "coach/concerns/i-need-a-scorecard.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "scorecard-keeping-as-identity-structure",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "what-if-there-was-no-scorecard",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't describing scorecard-chasing or validation-seeking — he's describing neutrality/flatness about personal outcomes, which is a different pattern.",
+              "follow_edges": [
+                "what-if-there-was-no-scorecard",
+                "scorecard-keeping-as-identity-structure"
+              ],
+              "follow_reason": "Client's \"neutral, move on, next thing\" response to success may point toward absence of internal scorecard or identity disconnected from outcomes — worth checking these edges before ruling out."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "what-if-there-was-no-scorecard",
+              "scorecard-keeping-as-identity-structure"
+            ],
+            "edges_skipped": [
+              "compass-not-map",
+              "dont-use-measurement-to-beat-yourself-up",
+              "how-do-i-trust-myself",
+              "surface-the-assumed-dichotomy",
+              "tell-the-unchanging-part-it-has-to-move",
+              "whats-the-scorecard-that-cant-be-taken-away"
+            ],
+            "cost_usd": 0.014673,
+            "ms": 4183,
+            "input_tokens": 3971,
+            "output_tokens": 184,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 2,
+            "file_id": "whats-next-after-i-reached-my-big-goal",
+            "file_path": "coach/concerns/whats-next-after-i-reached-my-big-goal.md",
+            "category": "concerns",
+            "candidate_edges": [
+              "chin-up-as-emotion-block",
+              "i-cant-feel-my-emotions",
+              "intellectual-process-with-no-somatic-component",
+              "ten-percent-more-connected-experiment",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client is pre-launch, not post-achievement — the \"now what after the big goal\" frame doesn't fit; he's describing emotional neutrality/disconnection from personal stakes, not post-milestone drift.",
+              "follow_edges": [
+                "intellectual-process-with-no-somatic-component",
+                "i-cant-feel-my-emotions"
+              ],
+              "follow_reason": "Client's \"neutral, good outcome, move on\" response and inability to locate a personal stake suggests intellectual processing without somatic/emotional access — these edges directly address that pattern."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "intellectual-process-with-no-somatic-component",
+              "i-cant-feel-my-emotions"
+            ],
+            "edges_skipped": [
+              "chin-up-as-emotion-block",
+              "ten-percent-more-connected-experiment",
+              "toggle-between-opposite-emotions-then-hold-both"
+            ],
+            "cost_usd": 0.014889,
+            "ms": 5420,
+            "input_tokens": 3993,
+            "output_tokens": 194,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 3,
+            "file_id": "helplessness-is-the-gateway",
+            "file_path": "coach/principles/helplessness-is-the-gateway.md",
+            "category": "principles",
+            "candidate_edges": [
+              "12-step-helplessness-admission",
+              "5-second-spice-check",
+              "apologize-for-not-seeing-the-help",
+              "container-of-love",
+              "each-emotion-has-its-own-positive-flavor",
+              "embrace-intensity",
+              "empowered-vs-power",
+              "epiphany-becomes-rut",
+              "fear-is-about-feeling",
+              "fear-triangle",
+              "feeling-the-unfelt-emotion",
+              "helplessness-as-cayenne-pepper-of-fear",
+              "helplessness-distinguishes-death-grief",
+              "helplessness-vs-surrender",
+              "i-feel-trapped",
+              "joes-company-closing",
+              "love-requires-empowerment",
+              "mandela-empowerment",
+              "one-team-member-holds-the-helplessness",
+              "quit-hope-lose-cycle",
+              "reclaiming-abandonment",
+              "self-reliance-pushes-people-away",
+              "shame-drives-behavior",
+              "surrender-the-outcome-of-a-decision",
+              "victim-stance-invites-abuse",
+              "welcoming-fear-in-leadership",
+              "what-if-you-acted-exactly-how-you-want",
+              "what-we-fear-we-invite"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client shows no signs of gripping helplessness or avoidance — he's describing a \"neutral\" flat affect around success, not a fear-driven control strategy that helplessness work would address.",
+              "follow_edges": [
+                "empowered-vs-power",
+                "surrender-the-outcome-of-a-decision",
+                "what-if-you-acted-exactly-how-you-want",
+                "each-emotion-has-its-own-positive-flavor"
+              ],
+              "follow_reason": "Client's \"neutral\" response to success and deflection to company/team outcomes (not himself) suggests disconnection from personal desire/reward — these edges may surface what's underneath that flatness."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "empowered-vs-power",
+              "surrender-the-outcome-of-a-decision",
+              "what-if-you-acted-exactly-how-you-want",
+              "each-emotion-has-its-own-positive-flavor"
+            ],
+            "edges_skipped": [
+              "12-step-helplessness-admission",
+              "5-second-spice-check",
+              "apologize-for-not-seeing-the-help",
+              "container-of-love",
+              "embrace-intensity",
+              "epiphany-becomes-rut",
+              "fear-is-about-feeling",
+              "fear-triangle",
+              "feeling-the-unfelt-emotion",
+              "helplessness-as-cayenne-pepper-of-fear",
+              "helplessness-distinguishes-death-grief",
+              "helplessness-vs-surrender",
+              "i-feel-trapped",
+              "joes-company-closing",
+              "love-requires-empowerment",
+              "mandela-empowerment",
+              "one-team-member-holds-the-helplessness",
+              "quit-hope-lose-cycle",
+              "reclaiming-abandonment",
+              "self-reliance-pushes-people-away",
+              "shame-drives-behavior",
+              "victim-stance-invites-abuse",
+              "welcoming-fear-in-leadership",
+              "what-we-fear-we-invite"
+            ],
+            "cost_usd": 0.016068,
+            "ms": 5469,
+            "input_tokens": 4231,
+            "output_tokens": 225,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 4,
+            "file_id": "letting-it-in-vs-deflecting-the-welcome",
+            "file_path": "coach/reads/letting-it-in-vs-deflecting-the-welcome.md",
+            "category": "reads",
+            "candidate_edges": [
+              "from-looking-for-love-to-being-love",
+              "let-it-move-through-and-clean-the-channel",
+              "sadie-christopher-anger-together",
+              "welcoming-the-others-emotion"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "This file is about couples coaching and receiving a partner's welcome — not relevant to a founder's neutral/deflecting response about a product launch landing well.",
+              "follow_edges": [],
+              "follow_reason": "All candidate edges are couples-dynamic or emotional-channel content, not relevant to a founder's disconnection from personal impact of success."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [],
+            "edges_skipped": [
+              "from-looking-for-love-to-being-love",
+              "let-it-move-through-and-clean-the-channel",
+              "sadie-christopher-anger-together",
+              "welcoming-the-others-emotion"
+            ],
+            "cost_usd": 0.012933,
+            "ms": 3867,
+            "input_tokens": 3571,
+            "output_tokens": 148,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          },
+          {
+            "step": 5,
+            "file_id": "vulnerability-in-the-workplace",
+            "file_path": "coach/applications/vulnerability-in-the-workplace.md",
+            "category": "applications",
+            "candidate_edges": [
+              "apologize-for-not-seeing-the-help",
+              "authenticity-in-business",
+              "caring-vs-caretaking",
+              "consciousness-is-the-product",
+              "diagnose-the-meeting-live",
+              "fear-as-signal-of-care",
+              "heartbreak-as-capacity-expansion",
+              "leaders-wants-are-the-organizations-wants",
+              "name-your-trigger-as-vulnerability",
+              "no-doctrine-leadership",
+              "public-failure-as-leadership-modeling",
+              "public-truth-bomb",
+              "ray-dalio-transparency",
+              "reclaiming-abandonment",
+              "self-reliance-pushes-people-away",
+              "stacy-father-conversation",
+              "state-the-want-not-the-action",
+              "structure-and-empowerment",
+              "view",
+              "vulnerability",
+              "vulnerability-is-personal",
+              "welcoming-fear-in-leadership"
+            ],
+            "decision": {
+              "add_to_bundle": false,
+              "bundle_reason": "Client isn't showing a vulnerability challenge — he's showing emotional neutrality/disconnection from personal stakes, which is a different coaching moment than vulnerability-in-the-workplace covers.",
+              "follow_edges": [
+                "leaders-wants-are-the-organizations-wants",
+                "self-reliance-pushes-people-away",
+                "state-the-want-not-the-action",
+                "view"
+              ],
+              "follow_reason": "Client deflects personal want onto company/team outcomes and moves quickly to \"next thing\" — these edges address want-deflection, self-reliance as avoidance, and perspective-taking on one's own inner life."
+            },
+            "kept_in_bundle": false,
+            "edges_followed": [
+              "leaders-wants-are-the-organizations-wants",
+              "self-reliance-pushes-people-away",
+              "state-the-want-not-the-action",
+              "view"
+            ],
+            "edges_skipped": [
+              "apologize-for-not-seeing-the-help",
+              "authenticity-in-business",
+              "caring-vs-caretaking",
+              "consciousness-is-the-product",
+              "diagnose-the-meeting-live",
+              "fear-as-signal-of-care",
+              "heartbreak-as-capacity-expansion",
+              "name-your-trigger-as-vulnerability",
+              "no-doctrine-leadership",
+              "public-failure-as-leadership-modeling",
+              "public-truth-bomb",
+              "ray-dalio-transparency",
+              "reclaiming-abandonment",
+              "stacy-father-conversation",
+              "structure-and-empowerment",
+              "vulnerability",
+              "vulnerability-is-personal",
+              "welcoming-fear-in-leadership"
+            ],
+            "cost_usd": 0.015357,
+            "ms": 5086,
+            "input_tokens": 4044,
+            "output_tokens": 215,
+            "cache_read_input_tokens": 0,
+            "cache_creation_input_tokens": 0
+          }
+        ],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011288399999999999,
+        "walker_total_cost_usd": 0.08931599999999999,
+        "total_cost_usd": 0.1006044,
+        "seed_detection_input_tokens": 942,
+        "seed_detection_output_tokens": 154,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 23902,
+        "walker_total_output_tokens": 1174,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2440,
+        "walker_total_ms": 28977,
+        "step_count": 6,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "step_budget_exhausted",
+        "turn": 8
+      },
+      "cost_usd": 0.1006044,
+      "ms": 31423
+    },
+    {
+      "turn": 10,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011578399999999999,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011578399999999999,
+        "seed_detection_input_tokens": 1022,
+        "seed_detection_output_tokens": 196,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 4364,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 10
+      },
+      "cost_usd": 0.011578399999999999,
+      "ms": 4365
+    },
+    {
+      "turn": 12,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.0115704,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.0115704,
+        "seed_detection_input_tokens": 1079,
+        "seed_detection_output_tokens": 183,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 2904,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 12
+      },
+      "cost_usd": 0.0115704,
+      "ms": 2905
+    },
+    {
+      "turn": 14,
+      "strategy": "guided-walk",
+      "payload": {
+        "seeds": [],
+        "rejected_seeds": [],
+        "seed_rationale": "(no tool result captured)",
+        "bundle_ids": [],
+        "bundle_paths": [],
+        "bundle_reasons": [],
+        "steps": [],
+        "walker_model": "claude-sonnet-4-6",
+        "seed_detection_cost_usd": 0.011604399999999999,
+        "walker_total_cost_usd": 0,
+        "total_cost_usd": 0.011604399999999999,
+        "seed_detection_input_tokens": 1103,
+        "seed_detection_output_tokens": 185,
+        "seed_detection_cache_read_tokens": 95764,
+        "seed_detection_cache_write_tokens": 0,
+        "walker_total_input_tokens": 0,
+        "walker_total_output_tokens": 0,
+        "walker_total_cache_read_tokens": 0,
+        "walker_total_cache_write_tokens": 0,
+        "seed_detection_ms": 3113,
+        "walker_total_ms": 0,
+        "step_count": 0,
+        "bundle_acceptance_rate": 0,
+        "stop_reason": "no_seeds",
+        "turn": 14
+      },
+      "cost_usd": 0.011604399999999999,
+      "ms": 3114
+    }
+  ]
+}
