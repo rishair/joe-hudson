@@ -184,10 +184,12 @@ Use `./wiki.sh create goal "name" --parent G-XXX --brief "description"` to scaff
 **Before any other work**, fill in the Correctness section. Take the goal as stated and interpret it: what is a reasonable, practical, and high-quality version of this goal? What does the output actually look like? Define must-haves and nice-to-haves. This grounds all future work — every experiment and research item should serve the correctness criteria, not a vague sense of the goal.
 
 After the goal page is complete:
-1. Perform initial research (2-4 research pages) on approaches to this goal
-2. Based on that research, propose 3-5 experiments worth trying
-3. Rank those experiments by expected impact and feasibility
-4. Create pages for each experiment in `pending` status
+1. **Read `meta/wiki/playbooks/index.md`** and load any playbooks relevant to this goal's domain. Let the playbooks shape how you design the research and experiments — they encode patterns for specific types of work (e.g., dependency chains, methodology, quality checks). If a playbook applies, follow its guidance when structuring the plan.
+2. Perform initial research (2-4 research pages) on approaches to this goal
+3. Based on that research and any relevant playbook guidance, propose 3-5 experiments worth trying
+4. Rank those experiments by expected impact and feasibility
+5. Create pages for each experiment in `pending` status
+6. **Spawn a `wiki-audit` agent** to audit the goal in a fresh context: use the Agent tool with `subagent_type: "wiki-audit"` and `prompt: "Audit goal G-XXX"`. The audit findings will be picked up by the next `wiki-next` cycle.
 
 For each research and experiment page created, fill in the full context: the question and why it matters (research), or the hypothesis, method, and success criteria (experiment). Use `--brief` to seed the page, then edit to flesh it out.
 
