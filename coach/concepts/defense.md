@@ -5,7 +5,7 @@ title: "Defense"
 aliases: ["defending yourself", "the wall", "defensiveness", "somatic defense", "the defensive wall", "mental defense", "separation as defense"]
 tags: ["defense", "somatic", "fear", "separation", "core concept"]
 related: ["love-as-deep-welcoming", "safety-vs-defensiveness", "defense-vs-love", "boundary-with-vs-boundary-against", "letting-judgment-in", "resistance", "vulnerability"]
-sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-04-09_Love over Defense — Master Class Series #9", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # Defense
@@ -119,3 +119,5 @@ When someone has chosen "distance" as their stance and calls it boundary: examin
 ## Sources
 
 - 2021-04-09_Love over Defense -- Master Class Series #9
+- 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)

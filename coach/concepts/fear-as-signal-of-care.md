@@ -5,7 +5,7 @@ title: "Fear as a Signal of What You Care About"
 aliases: ["fear shows you what you care about", "fear points at what matters", "fear as information", "fear as compass", "fear tells you what threatens what you love", "the signal of fear", "fear isn't go or no-go", "fear shows what to look at", "fear as roadmap", "fear is a roadmap", "fear as partner", "fear is signaling what to pay attention to", "what is crying out to be healed"]
 tags: ["fear", "signal", "values", "needs", "discernment", "information"]
 related: ["fear-is-about-feeling", "fear-vs-anxiety", "disassociation-as-numbness-layer", "dont-step-on-the-signal", "the-want", "vulnerability", "feeling-the-unfelt-emotion", "feel-over-figure", "wisdom-of-each-emotion", "two-words-for-fear", "emile-three-relationships-with-fear"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Emile DeWeaver"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-09-24_Stages of Emotional Development", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Emile DeWeaver", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # Fear as a Signal of What You Care About
@@ -145,3 +145,4 @@ Joe holds fear with respect. Not as something to manage past, not as something t
 - 2022-06-10_Emile DeWeaver -- Life After Murder: On Fear, Freedom, and Identity
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
 - 2022-10-26_Emile DeWeaver (rebroadcast of the conversation that produced the roadmap framing)
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

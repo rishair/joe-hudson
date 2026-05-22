@@ -4,7 +4,7 @@ id: in-the-story-im-not-being-seen
 title: "In the Story 'I'm Not Being Seen'"
 aliases: ["the I'm not being seen story", "not being seen as cover", "blaming others for not seeing me", "the unseen story", "I just want to be seen"]
 tags: ["relational read", "projection", "story", "complaint", "defense"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # In the Story "I'm Not Being Seen"
@@ -67,3 +67,4 @@ Curious, not accusatory. Joe explicitly flags when he is asking a hard question:
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)

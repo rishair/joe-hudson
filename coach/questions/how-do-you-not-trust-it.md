@@ -4,7 +4,7 @@ id: how-do-you-not-trust-it
 title: "How do you NOT trust it? (The Inversion Question for Trust)"
 aliases: ["how do you not trust it", "how do you not trust yourself", "how do you not trust your intuition", "the trust inversion", "how is that not trust", "you're trusting yourself right now", "the speaking-is-trust question", "how is that not happening", "the present-moment trust question"]
 tags: ["trust", "inversion", "intuition", "live coaching", "present moment"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # How do you NOT trust it?
@@ -92,3 +92,4 @@ Joe doesn't make the person wrong for asking the original question. He just refu
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

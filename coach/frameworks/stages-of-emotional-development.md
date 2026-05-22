@@ -5,7 +5,7 @@ title: "Stages of Emotional Development"
 aliases: ["emotional development stages", "the stages of feeling", "identify express inquire love", "emotional development map", "stages of emotional growth", "emotional spiral", "the seven stages of emotion", "infant to integration"]
 tags: ["emotional development", "stages", "framework", "transformation", "feeling", "spiral"]
 related: ["feeling-the-unfelt-emotion", "feel-over-figure", "epiphany-becomes-rut", "kinked-emotions", "daily-emotional-yoga", "emotions-live-in-muscles", "development-as-corkscrew", "repression-vs-management", "joy-as-matriarch", "observe-vs-move-emotion", "negative-emotions-precede-positive", "dont-do-emotion-at-people", "simplicity-on-the-other-side-of-complexity"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-09-24_Stages of Emotional Development", "2022-10-26_Feel Over Figure"]
 ---
 
 # Stages of Emotional Development
@@ -153,3 +153,4 @@ Patient. The stages take time. The framework is not a checklist. It is a map of 
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-09-24_Stages of Emotional Development
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

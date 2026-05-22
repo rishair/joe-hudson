@@ -5,7 +5,7 @@ title: "Apply VIEW to Fear"
 aliases: ["view with fear", "vulnerability with fear", "empathy with fear", "wonder about fear", "impartiality with fear", "VIEW inward to fear", "approach fear with VIEW", "VIEW the fear", "internal VIEW with fear"]
 tags: ["fear", "move", "VIEW", "self-relationship", "inner work"]
 related: ["view", "apply-view-to-the-voice", "vulnerability", "impartiality", "empathy", "wonder", "fear-as-signal-of-care", "fear-is-about-feeling", "fear-vs-anxiety", "feeling-the-unfelt-emotion"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # Apply VIEW to Fear
@@ -97,3 +97,4 @@ The check: is there an outcome being aimed at? If yes, the VIEW is not yet real.
 ## Sources
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

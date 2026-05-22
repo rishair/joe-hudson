@@ -5,7 +5,7 @@ title: "Trauma Mapping"
 aliases: ["mapping", "attracting trauma", "recreating trauma patterns", "addiction to trauma", "generational trauma pattern", "trauma transmits across generations"]
 tags: ["trauma", "attachment", "patterns", "repetition", "generations"]
 related: ["familiar-over-safe", "feeling-the-unfelt-emotion", "container-of-love", "what-we-fear-we-invite", "engineering-heartbreak-to-avoid-heartbreak", "i-keep-crashing-and-burning", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "i-cant-trust-my-thoughts-right-now", "reclaiming-abandonment", "i-have-to-do-it-all-myself", "stacy-father-conversation", "trigger", "anxious-avoidant-dynamic"]
-sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered"]
+sources: ["2019-09-14_A Discussion with Dr. Bessel van der Kolk & Joe Hudson", "2020-10-26_Introduction to VIEW — Connection Course Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-09-30_Triggered", "2022-10-26_Feel Over Figure"]
 ---
 
 # Trauma Mapping
@@ -121,3 +121,4 @@ The perceptual face of the mechanism is supported by [[negative-bias-of-trauma-i
 - 2021-11-12_Stacy Brown-Philpot on Reclaiming Abandonment
 - 2022-09-02_How Relationships Reveal Us — Relationships Series #1
 - 2022-09-30_Triggered
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

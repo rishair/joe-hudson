@@ -5,7 +5,7 @@ title: "Anger as Cover for a Deeper Emotion (and Vice Versa)"
 aliases: ["anger covering grief", "anger as default emotion", "anger over hurt", "anger over fear", "anger over helplessness", "recycling anger means deeper emotion", "anger as cover", "anger as defense against hurt", "the emotion underneath anger", "anger under hurt", "hurt under anger", "the bidirectional layering of anger and hurt", "under anger is hurt under hurt is anger", "sadness covering anger", "crying as cover for anger", "crying doesn't resolve because anger underneath"]
 tags: ["anger", "grief", "hurt", "fear", "emotions", "diagnostics", "defense", "sadness"]
 related: ["anger", "visceral-clarity-from-anger", "three-things-that-go-wrong-when-releasing-anger", "feeling-the-unfelt-emotion", "kinked-emotions", "negative-emotions-precede-positive", "dont-jump-to-compassion-before-anger", "emile-three-relationships-with-fear", "everyone-is-pretending"]
-sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Emile DeWeaver"]
+sources: ["2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Emile DeWeaver", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Anger as Cover for a Deeper Emotion
@@ -162,3 +162,4 @@ Joe presents this matter-of-factly. The anger functioning as cover is not a mora
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-10-26_Emile DeWeaver (the childhood-installed manufactured-anger-to-cover-fear variant)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

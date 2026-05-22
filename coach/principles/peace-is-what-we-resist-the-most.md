@@ -4,7 +4,7 @@ id: peace-is-what-we-resist-the-most
 title: "Peace Is What We Resist the Most (The Abyss Turns Out to Be Peace)"
 aliases: ["peace is what we resist", "we resist peace more than fear", "the abyss is peace", "what we're avoiding is peace", "the feared territory is peace", "resistance to peace", "we push away peace", "peace as the scary thing", "the spiral abyss becomes peace", "what we're running from is peace", "peace as the avoided experience"]
 tags: ["peace", "resistance", "abyss", "fear", "non-duality", "craving", "non-resistance"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Peace Is What We Resist the Most
@@ -117,3 +117,4 @@ Quiet, deliberate, almost gentle. This principle is delivered in the same low re
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

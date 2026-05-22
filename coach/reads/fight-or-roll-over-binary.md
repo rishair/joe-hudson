@@ -4,7 +4,7 @@ id: fight-or-roll-over-binary
 title: "The Fight-or-Roll-Over Binary"
 aliases: ["fight or roll over", "fight or submit", "binary stance with authority", "I either fight or roll over", "fight or surrender binary", "rebellion or submission stance"]
 tags: ["relational read", "binary", "power", "submission", "rebellion", "authority"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # The Fight-or-Roll-Over Binary
@@ -65,3 +65,4 @@ Direct but not confrontational. Joe names the binary as a structure to examine, 
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)

@@ -5,7 +5,7 @@ title: "Upright Undefended Love"
 aliases: ["empowered love", "love that doesn't submit", "upright love", "non-submissive love", "non-falling-forward love", "falling forward love", "balance with love", "balanced empowered love"]
 tags: ["love", "empowerment", "stance", "somatic", "balance", "authority"]
 related: ["love-as-deep-welcoming", "love-requires-empowerment", "empowered-vs-power", "defense", "fight-or-roll-over-binary", "boundary-with-vs-boundary-against"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # Upright Undefended Love
@@ -58,6 +58,12 @@ Upright undefended love is the somatic version of [[love-requires-empowerment]].
 
 Empowered without undefended is hard, brittle, controlling. Undefended without empowered is submissive, collapsing, dissolved. The combination is the stance Joe is pointing at.
 
+A crisp summary of this stance comes from Brett Kistler closing the source session:
+
+"The stance of empowerment is one where you're open-hearted but you're boundaried. It's one where you state your truth with courage and you're not worried about the consequences or another person's reaction, and you're vulnerable because that's what's rewarding to you and not because of what someone else is going to do. To be empowered is to be in your truth while being open and loving." -- Brett Kistler, Father Figures and Authority
+
+Four pieces in the definition: (1) open-hearted, (2) boundaried, (3) speaking truth without managing for the other's reaction, (4) vulnerable because vulnerability is itself the reward, not as a strategy. Strip any one and the stance is not yet present.
+
 ## In Coaching the Authority Dynamic
 
 When working with someone who freezes around authority figures, upright undefended love is often the third option that breaks the [[fight-or-roll-over-binary]]. The person has rehearsed fight (rebellion at work, distance from the boss) and roll-over (compliance, performance, suppression). The new move is to be upright with the boss, undefended toward the boss, loving toward the boss.
@@ -91,3 +97,4 @@ This is the upright undefended response. The hurt is felt. The other's failure t
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)

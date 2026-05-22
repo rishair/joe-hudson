@@ -5,7 +5,7 @@ title: "Cult of One"
 aliases: ["I'm a cult of one", "internal cult", "cult of one and that's okay", "the internal cult", "everyone is a cult", "cult of materialism", "you cannot see the water you swim in", "no one is free of cult dynamics"]
 tags: ["identity", "belief", "projection", "humility", "freedom", "self-awareness"]
 related: ["projections", "voice-in-the-head", "good-and-corruption-cycle", "community-over-teacher", "subjugation-prevents-healing", "surrender-to-ineffable-vs-person", "self-realization", "what-am-i"]
-sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics"]
+sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Group Cohesion Vs Cult Dynamics"]
 ---
 
 # Cult of One
@@ -116,3 +116,4 @@ The frame can also be misused as a position. "I'm a cult of one" said with pride
 ## Sources
 
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
+- 2022-10-26_Group Cohesion Vs Cult Dynamics (rebroadcast of the 2021-08-27 conversation)

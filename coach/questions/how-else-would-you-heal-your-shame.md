@@ -5,7 +5,7 @@ title: "How else are you going to heal your shame?"
 aliases: ["how else would you heal your shame", "the inversion question for shame avoidance", "the shame healing question", "how else can you heal it", "if not through conflict then how", "the shame healing inversion"]
 tags: ["questions", "shame", "inversion", "conflict avoidance", "vulnerability"]
 related: ["shame-as-disconnection", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "feeling-the-unfelt-emotion"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # How else are you going to heal your shame?
@@ -87,3 +87,4 @@ Joe asks the question lightly, as if it is just curious. "Here's a weird questio
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

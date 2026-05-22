@@ -5,7 +5,7 @@ title: "Judgment vs. Discernment"
 aliases: ["discernment vs judgment", "judging vs discerning", "judgment is preloaded", "discernment is clean"]
 tags: ["judgment", "discernment", "perception", "decision making", "distinctions"]
 related: ["unfelt-emotion-leaks", "three-signals-of-unfelt-emotion", "feel-over-figure", "impartiality", "feeling-the-unfelt-emotion"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure"]
 ---
 
 # Judgment vs. Discernment
@@ -74,3 +74,4 @@ Plain, neutral. Joe is not moralizing about judgment. Judgment is just data: whe
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

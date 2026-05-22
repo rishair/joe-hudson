@@ -5,7 +5,7 @@ title: "Unfelt Emotion Leaks"
 aliases: ["unfelt emotion comes out sideways", "the leak", "emotion you don't feel comes out at others", "anger at someone is unfelt anger", "leakage", "emotion has to go somewhere"]
 tags: ["emotions", "expression", "leakage", "relationships", "core mechanism"]
 related: ["dont-do-emotion-at-people", "feeling-the-unfelt-emotion", "kinked-emotions", "feel-over-figure", "judgment-vs-discernment", "get-angry-in-the-car", "joes-angry-executive-commute", "passive-aggressive-vs-aggressive-aggressive", "anger"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure"]
 ---
 
 # Unfelt Emotion Leaks
@@ -102,3 +102,4 @@ Direct, sometimes humorous. Joe holds this as just-how-it-works rather than as a
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

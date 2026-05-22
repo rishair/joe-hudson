@@ -4,7 +4,7 @@ id: mirror-the-judgment
 title: "Mirror the Judgment Back"
 aliases: ["how is that not true about you", "mirror move", "turn the judgment around", "the projection mirror", "judgment mirror"]
 tags: ["projection", "judgment", "mirror", "self-awareness", "live coaching"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # Mirror the Judgment Back
@@ -82,3 +82,4 @@ The intensity of the trigger or the height of the pedestal is the diagnostic. Se
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2021-07-30_Your World is a Projection
+- 2022-10-26_Father Figures And Authority (Coaching Session)

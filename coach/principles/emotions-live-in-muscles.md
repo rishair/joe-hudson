@@ -5,7 +5,7 @@ title: "Emotions Live in Muscles"
 aliases: ["feelings are muscular", "body reads emotions", "posture reveals emotion", "muscular armoring", "body language of emotion"]
 tags: ["body", "emotions", "empathy", "coaching", "reads"]
 related: ["empathy", "staying-in-your-body", "feeling-the-unfelt-emotion", "daily-emotional-yoga", "stages-of-emotional-development", "kinked-emotions"]
-sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2020-11-06_Empathy — Connection Course Series #4", "2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure"]
 ---
 
 # Emotions Live in Muscles
@@ -66,3 +66,4 @@ The reverse is also true: keeping the body loose forces feeling. You cannot avoi
 
 - 2020-11-06_Empathy -- Connection Course Series #4
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

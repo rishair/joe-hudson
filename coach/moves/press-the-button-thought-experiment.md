@@ -5,7 +5,7 @@ title: "Press the Button Thought Experiment"
 aliases: ["the button question", "if I could press a button", "would you want me to push that button", "the button experiment", "press the button move", "test the wish with a button", "the magic button question", "the wish-fulfillment test"]
 tags: ["thought experiment", "diagnostic", "live coaching", "premise testing", "hesitation reveals"]
 related: ["calibrate-the-threshold", "im-afraid-of-offending-people", "the-shame-avoidance-loop", "shame-as-disconnection", "visualizing-feared-outcomes"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-01-15_Sam Altman — Leading with Crippling Anxiety, Discovering Meditation, and Buildin", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Press the Button Thought Experiment
@@ -111,3 +111,4 @@ The yes-without-hesitation followed by "what makes that so?" surfaces the implic
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-01-15_Sam Altman -- Leading with Crippling Anxiety, Discovering Meditation, and Buildin
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

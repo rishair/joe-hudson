@@ -5,7 +5,7 @@ title: "Honor What the Pattern Tried to Give You"
 aliases: ["honor the pattern's intent", "the pattern came for a good reason", "love the patterns", "respect the pattern", "find the gift in the pattern", "the pattern's positive intent", "the pattern was trying to take care of you", "even mean patterns have good intent", "your body is smart", "the body's protective mechanisms saved your life", "honor what kept you alive", "the somatic therapy framing"]
 tags: ["patterns", "trauma", "self-compassion", "loving all parts", "voice as care", "transformation"]
 related: ["childhood-imprinting", "loving-all-parts", "voice-as-care", "love-is-the-best-change-agent", "feeling-the-unfelt-emotion", "shame-drives-behavior", "emile-three-relationships-with-fear"]
-sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver"]
+sources: ["2021-08-13_Seeing Through Family Dynamics", "2022-06-10_Emile DeWeaver — Life After Murder- On Fear, Freedom, and Identity", "2022-10-26_Emile DeWeaver", "2022-10-26_Heather Falenski On Overcoming The Seemingly Impossible"]
 ---
 
 # Honor What the Pattern Tried to Give You
@@ -48,6 +48,16 @@ The reframe for someone with extreme trauma: "In that environment, all these thi
 The next move after honoring: choice. "Now let's honor that. Let's say thank you. Now here's the thing about bodies. They tend to find something that works and they use it for everything... So it's like, you know, maybe you can just use this when you need it and not use it when you don't. So that's the thing that you want to learn in somatic therapy is like, I want a choice about the mechanisms my body employs to protect me, not a default."
 
 This is the operational expression of the principle: the pattern is honored for what it did, then offered choice about whether to fire by default or by deliberate signal. The change does not come from making the pattern wrong. It comes from giving the pattern a relationship to current conditions, in which its trigger threshold can be updated. See [[emile-three-relationships-with-fear]] for the full arc this principle lives inside.
+
+## The Pattern That Made You Sick Is Also the Door
+
+The same mechanism that produced the symptom can become the doorway out. The body-strategy that broke the system is also the body-strategy that, applied differently, lets a person reach an internal home that would not otherwise be available.
+
+A guest on the podcast described this with dissociation. She worked for years in conflict zones with complex PTSD, dissociating chronically to function in active-combat environments. The dissociation eventually produced chronic illness severe enough to keep her in bed. The same dissociation -- the only tool her body had -- then became the means by which she could shut out the outer experience long enough to find a neutral internal space. "Dissociation is a double-edged sword... it had been working until it wasn't anymore, and then it made me really sick. But that sickness forced me in bed, and then my last resort of dissociation was actually blocking out all of this mess that I had sort of created for myself and allowing me to get into a neutral space in order to redefine myself." -- Heather Falenski, guest interviewed by Brett Kistler, On Overcoming The Seemingly Impossible
+
+The shape: the very mechanism that the person is most ashamed of, the very pattern that broke their life, is also the only doorway they have. The work is not to demonize the mechanism. The work is to honor what it did, recognize what it cost, and then notice that the same capacity used differently is also the path through. The body that learned to leave is the body that knows how to find inner space when nothing outer is available.
+
+This does not mean every pattern becomes the doorway. It does mean: the patterns most worth meeting with respect are the very ones the person most wants to disown.
 
 ## Even the Mean Patterns
 

@@ -4,7 +4,7 @@ id: become-the-authority-figure
 title: "Become the Authority Figure"
 aliases: ["role-play the authority", "I'll be your boss", "live role-play", "stand in for the trigger", "be the dad", "role-play move"]
 tags: ["live coaching", "role-play", "authority", "practice", "embodiment"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # Become the Authority Figure
@@ -74,3 +74,4 @@ Joe takes the role-play seriously but lightly. He flags the transition ("I'll be
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)

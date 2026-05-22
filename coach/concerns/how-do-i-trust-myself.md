@@ -4,7 +4,7 @@ id: how-do-i-trust-myself
 title: "How do I trust myself? / How do I tell intuition from fear?"
 aliases: ["I can't trust myself", "how do I trust my intuition", "how do I tell the difference between intuition and fear", "how do I tell the difference between intuition and projection", "I've lost my confidence in what feels right for me", "I don't trust my decisions", "I can't tell what's intuition and what's reaction", "I can't tell intuition from anxiety", "I keep second-guessing myself", "I've lost trust in myself", "trust in myself", "self-trust concern"]
 tags: ["trust", "intuition", "fear", "decision-making", "second-guessing", "self-doubt"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # How do I trust myself? / How do I tell intuition from fear?
@@ -68,3 +68,4 @@ Patient, persistent, slightly playful. Joe doesn't engage the intellectual machi
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

@@ -5,7 +5,7 @@ title: "Daily Emotional Yoga"
 aliases: ["emotional yoga", "daily emotional practice", "20 minutes of emotion", "feeling practice", "scheduled emotional release"]
 tags: ["practice", "emotions", "embodiment", "daily practice", "feeling"]
 related: ["feeling-the-unfelt-emotion", "stages-of-emotional-development", "kinked-emotions", "emotions-live-in-muscles", "feel-over-figure"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure"]
 ---
 
 # Daily Emotional Yoga
@@ -79,3 +79,4 @@ Casual, practical. Joe presents this as something he just did, not as a sacred r
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

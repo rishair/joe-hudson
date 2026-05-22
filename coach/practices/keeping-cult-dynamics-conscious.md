@@ -5,7 +5,7 @@ title: "Keep Cult Dynamics Conscious by Joking About Them"
 aliases: ["cult jokes", "joke about being a cult", "tongue-in-cheek cult reference", "self-aware about insularity", "conscious culting", "keeping the dynamic visible", "naming the cult dynamic playfully"]
 tags: ["group dynamics", "humor", "self-awareness", "cult", "consciousness", "community"]
 related: ["cult-of-one", "subjugation-prevents-healing", "community-over-teacher", "surrender-to-ineffable-vs-person", "good-and-corruption-cycle"]
-sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics"]
+sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Group Cohesion Vs Cult Dynamics"]
 ---
 
 # Keep Cult Dynamics Conscious by Joking About Them
@@ -100,3 +100,4 @@ The joke is the tone. Light, playful, knowing. It is not delivered with edge or 
 ## Sources
 
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
+- 2022-10-26_Group Cohesion Vs Cult Dynamics (rebroadcast of the 2021-08-27 conversation)

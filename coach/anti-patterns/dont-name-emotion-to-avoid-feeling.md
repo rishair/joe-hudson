@@ -4,7 +4,7 @@ id: dont-name-emotion-to-avoid-feeling
 title: "Don't name an emotion to avoid feeling it"
 aliases: ["naming as avoidance", "labeling emotions as management", "I'm feeling X as bypass", "emotional labeling trap", "name-instead-of-feel", "naming the emotion as the new repression", "telling someone you're sad as a way not to feel it", "the I'm really sad dodge"]
 tags: ["emotions", "naming", "management", "stages of development", "anti-pattern", "subtle"]
-sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+sources: ["2021-09-24_Stages of Emotional Development - Emotion Series #1", "2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Feel Over Figure"]
 ---
 
 # Don't name an emotion to avoid feeling it
@@ -64,3 +64,4 @@ See [[daily-emotional-yoga]] for the practice that gives the body the movement. 
 - 2021-09-24_Stages of Emotional Development - Emotion Series #1
 - 2021-03-05_Feel over Figure - Master Class Series #5
 - 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

@@ -5,7 +5,7 @@ title: "Joe Learning to Cry"
 aliases: ["faking it in the woods", "Joe's crying story", "fake crying for three months", "Joe couldn't cry for fourteen years", "the photo album story"]
 tags: ["personal example", "crying", "feeling", "transformation", "shame"]
 related: ["daily-emotional-yoga", "stages-of-emotional-development", "feeling-the-unfelt-emotion", "kinked-emotions", "childhood-imprinting"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure"]
 ---
 
 # Joe Learning to Cry
@@ -68,3 +68,4 @@ Self-deprecating, warm. Joe tells this on himself. The three miles off-trail is 
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

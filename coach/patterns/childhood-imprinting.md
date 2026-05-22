@@ -5,7 +5,7 @@ title: "Childhood Imprinting"
 aliases: ["theta state programming", "0 to 7 programming", "love withdrawal", "rejected emotions from childhood", "don't be yourself programming", "pattern transfer to authority figures"]
 tags: ["childhood", "programming", "emotions", "vulnerability", "theta", "projection"]
 related: ["vulnerability", "feeling-the-unfelt-emotion", "familiar-over-safe", "trauma-mapping", "pleasure-capacity", "inherent-goodness", "money-as-surrogate", "poverty-mentality", "projections", "negative-bias-of-trauma-imprinting", "complementary-trauma-surfaces", "reframe-boss-as-customer", "honor-the-patterns-intent", "trace-emotion-to-its-first-felt", "i-cant-trust-my-thoughts-right-now", "dont-make-family-dynamics-the-story"]
-sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-05-07_Money Can't Oppress You", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics"]
+sources: ["2020-11-10_Vulnerability — Connection Course Series #5", "2021-05-07_Money Can't Oppress You", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # Childhood Imprinting

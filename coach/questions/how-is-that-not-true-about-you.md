@@ -4,7 +4,7 @@ id: how-is-that-not-true-about-you
 title: "How is that not true about you?"
 aliases: ["the mirror question", "how is that not you", "how is that not also true of you", "the projection question"]
 tags: ["projection", "mirror", "judgment", "self-awareness", "live coaching"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-07-30_Your World is a Projection", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # How is that not true about you?
@@ -76,3 +76,4 @@ Gentle and curious, with the meta-acknowledgment that it is a hard question to a
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2021-07-30_Your World is a Projection
+- 2022-10-26_Father Figures And Authority (Coaching Session)

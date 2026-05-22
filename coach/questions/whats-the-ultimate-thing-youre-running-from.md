@@ -4,7 +4,7 @@ id: whats-the-ultimate-thing-youre-running-from
 title: "What's the ultimate thing you're running from?"
 aliases: ["what are you running from", "what's the ultimate thing", "the ultimate thing question", "what are you actually running from on the deepest level", "what is the deepest fear", "the running-from question", "the abyss question", "what's underneath the avoidance", "what's the thing you're avoiding", "what's the bottom of the avoidance"]
 tags: ["fear", "avoidance", "abyss", "core question", "depth"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # What's the ultimate thing you're running from?
@@ -91,3 +91,4 @@ Joe often repeats "let's go" several times. The repetition is not impatience. It
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

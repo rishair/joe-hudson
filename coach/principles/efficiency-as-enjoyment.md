@@ -64,6 +64,15 @@ The signal of false efficiency: you feel busy and important. The signal of real 
 
 Direct, slightly bemused at the obviousness once stated. Joe finds the alternative framing self-evidently absurd: "Cars, it's really obvious."
 
+## The Root-Cause Lens
+
+The same principle applied to organizational decisions: inefficiency shows up wherever someone is managing the symptom rather than fixing the cause. The MG owner repairing the engine every 500 miles is "efficient" at the repair but inefficient overall because they keep working on the wrong layer. The Lexus owner who built once and rarely repairs is more efficient even though they appear to do less.
+
+"When you are in management, you're just constantly trying to figure out how to fix the MG with the least amount of money and as quickly as possible. But when you're in enjoyment, you're looking at the core issue. Instead of trying to patch the boat as it's sinking, you're thinking what's the right boat to build." -- Joe Hudson, Enjoy Over Manage
+
+Enjoyment-as-measure works because enjoyment correlates with operating at the right layer. The frantic, frictional state usually indicates the work is happening at the symptom level. The relaxed, enjoying state usually indicates the work is happening at the cause level. The body's report on the experience is also the body's report on whether the leverage is right. See [[address-the-blocker-not-the-symptom]].
+
 ## Sources
 
 - 2021-02-13_The Art of Accomplishment -- Master Class Series #1
+- 2022-10-26_Enjoy Over Manage

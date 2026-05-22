@@ -4,7 +4,7 @@ id: intellectual-question-with-emotional-body
 title: "Intellectual Question with an Emotional Body Underneath"
 aliases: ["intellectual question emotional body", "the precise question hiding the feeling", "the framing question that isn't the question", "stated topic vs emotional body", "head question body feeling mismatch", "the head topic doesn't match the body signal", "the perfect question hiding the real one", "the topic they want to work on vs what's actually happening"]
 tags: ["opening read", "intellectualizing", "presenting topic", "live coaching", "emotional body"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Intellectual Question with an Emotional Body Underneath
@@ -69,3 +69,4 @@ Friendly, matter-of-fact, slightly amused. Joe doesn't make the person wrong for
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

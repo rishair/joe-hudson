@@ -5,7 +5,7 @@ title: "Joe's Abandonment Mapping"
 aliases: ["Joe's emotional abandonment", "falling in love with abandonment", "Joe attracted abandonment", "Joe's trauma mapping example"]
 tags: ["personal example", "trauma mapping", "abandonment", "transformation", "feeling"]
 related: ["trauma-mapping", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "familiar-over-safe", "childhood-imprinting"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Embracing Intensity"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Embracing Intensity", "2022-10-26_Feel Over Figure"]
 ---
 
 # Joe's Abandonment Mapping
@@ -81,3 +81,4 @@ Matter-of-fact, instructive. Joe uses this as a teaching example. He is not dwel
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-10-26_Embracing Intensity (the specific anger-as-recreation-engine mechanism: getting angry when sensing abandonment caused people to leave)
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

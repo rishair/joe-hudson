@@ -4,7 +4,7 @@ id: am-i-doing-it-right
 title: "Am I Doing It Right? (Resistance Disguised as Diligence)"
 aliases: ["am I doing it right feeling", "am I doing this correctly", "the doing-it-right loop", "the rightness check at the threshold", "checking if I'm doing it right", "the doing-it-right resistance", "am I getting this right", "what's the right way to do this", "rightness as resistance", "the 'right way' second-guess"]
 tags: ["resistance", "perfectionism", "live coaching", "thresholds", "self-monitoring"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Am I Doing It Right?
@@ -75,3 +75,4 @@ Light, slightly amused, decisive. Joe doesn't make the rightness-check shameful.
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

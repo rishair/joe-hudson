@@ -4,7 +4,7 @@ id: what-makes-you-care-about-the-outcome
 title: "What makes you care about the outcome?"
 aliases: ["what makes you care about the outcome", "what makes you want a result", "what makes you concerned about how it turns out", "why does the outcome matter to you", "what's the actual problem if the outcome doesn't go your way", "if you're going to be who you're going to be why does the outcome matter", "the outcome-attachment question", "how vs what outcomes question", "the why-do-you-care-about-the-result question"]
 tags: ["attachment", "outcome", "fear", "wants", "core question", "how-not-what"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # What makes you care about the outcome?
@@ -103,3 +103,4 @@ The pacing is slow. Each version of the question is given time to land. Joe wait
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

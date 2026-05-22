@@ -5,7 +5,7 @@ title: "Conflict Avoidance Prevents Healing (Yours and Theirs)"
 aliases: ["avoiding conflict prevents healing", "you can't heal shame without conflict", "conflict avoidance stops growth", "by avoiding conflict you stop their growth too", "the conflict-avoidant leader has a stagnant team", "the Tibetan teacher principle", "if you never offend anybody you take away their healing journey", "you take away my healing journey", "conflict avoidance destroys trust", "conflict avoidance and team trust", "short-term discomfort for long-term discomfort", "trading short-term discomfort for long-term"]
 tags: ["conflict", "healing", "shame", "leadership", "growth", "vulnerability", "relationships", "teams", "trust"]
 related: ["shame-as-disconnection", "the-shame-avoidance-loop", "trust-requires-conflict", "im-afraid-of-offending-people", "shame-drives-behavior", "vulnerability", "tibetan-teacher-offending-students", "trust-as-multifaceted", "conflict-coming-to-you-means-youre-avoiding", "functional-team", "signs-of-a-dysfunctional-leader", "five-star-meeting-commitment"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-02-19_Building a Functional Team - Team Series #1", "2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-02-19_Building a Functional Team - Team Series #1", "2022-03-04_Building a Dysfunctional Team - Team Series #2", "2022-10-26_Building A Dysfunctional Team", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Conflict Avoidance Prevents Healing (Yours and Theirs)
@@ -119,3 +119,4 @@ Direct and clarifying, with examples drawn from leadership, parenting, and spiri
 - 2022-02-19_Building a Functional Team - Team Series #1
 - 2022-03-04_Building a Dysfunctional Team - Team Series #2
 - 2022-10-26_Building A Dysfunctional Team
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

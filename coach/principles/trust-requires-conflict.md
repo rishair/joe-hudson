@@ -5,7 +5,7 @@ title: "Trust Requires Conflict (and the Overcoming of It Together)"
 aliases: ["trust is built through conflict", "you can't build trust without conflict", "the least offensive person isn't trustworthy", "conflict and overcoming it together", "the least offensive person is the least trustworthy", "without offense no trust", "trust built by surviving conflict"]
 tags: ["trust", "conflict", "relationships", "leadership", "vulnerability", "teams"]
 related: ["conflict-avoidance-prevents-healing", "shame-as-disconnection", "vulnerability", "im-afraid-of-offending-people", "love-vs-nice", "trust-as-multifaceted", "trust-vs-safety", "functional-team", "conflict-coming-to-you-means-youre-avoiding"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-02-19_Building a Functional Team - Team Series #1"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-02-19_Building a Functional Team - Team Series #1", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Trust Requires Conflict (and the Overcoming of It Together)
@@ -97,3 +97,4 @@ Observational, almost commonsense. Joe presents this as something the listener a
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-02-19_Building a Functional Team - Team Series #1
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

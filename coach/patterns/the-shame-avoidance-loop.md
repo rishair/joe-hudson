@@ -5,7 +5,7 @@ title: "The Shame Avoidance Loop"
 aliases: ["shame loop", "avoiding shame creates shame", "the lose-lose of shame avoidance", "shame creates shame", "shame avoidance creates more shame", "the shame catch-22", "either way shame", "the disconnection paradox"]
 tags: ["shame", "disconnection", "paradox", "self-betrayal", "people-pleasing"]
 related: ["shame-as-disconnection", "shame-drives-behavior", "conflict-avoidance-prevents-healing", "im-afraid-of-offending-people", "voice-creates-what-it-fears", "what-we-fear-we-invite"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # The Shame Avoidance Loop
@@ -85,3 +85,4 @@ Joe explains the loop methodically, often with examples and humor. The framing i
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

@@ -4,7 +4,7 @@ id: lets-go-there
 title: "Let's Go There (The Invitation Into the Avoided Territory)"
 aliases: ["let's go there", "lets go there", "let's go", "the invitation to enter the abyss", "stepping into the avoided", "go into it move", "into the avoided territory", "the let's-go-there move", "the descent invitation"]
 tags: ["live coaching", "invitation", "abyss", "fear", "presence", "companionship"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Let's Go There
@@ -92,3 +92,4 @@ There is no enthusiasm in it. Enthusiasm would feel performative. There is no gr
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

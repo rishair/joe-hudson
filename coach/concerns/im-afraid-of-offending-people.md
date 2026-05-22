@@ -4,7 +4,7 @@ id: im-afraid-of-offending-people
 title: "I'm afraid of offending people / How do I be myself without offending people"
 aliases: ["I don't want to offend people", "I'm afraid people can't handle me", "how do I be myself at work", "how do I say what I want without attacking", "I can't interrupt people", "I'm afraid I'll come across as rude", "people get offended by me", "I'm worried about how I come across", "fear of conflict", "conflict avoidance presenting", "I'm too direct", "I have to soften everything", "I'm a people pleaser at work", "I want to be myself but"]
 tags: ["shame", "conflict avoidance", "people-pleasing", "authenticity", "being yourself", "workplace"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # I'm afraid of offending people / How do I be myself without offending people
@@ -85,3 +85,4 @@ The real coaching question is not "how do I be myself without offending people."
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

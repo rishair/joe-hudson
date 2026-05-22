@@ -5,7 +5,7 @@ title: "Feel Over Figure"
 aliases: ["feeling over figuring", "feel first then figure", "emotional decision making over intellectual", "feel vs figure", "stop figuring start feeling"]
 tags: ["emotions", "intellect", "clarity", "decision making", "core mechanism"]
 related: ["decisions-are-emotional", "feeling-the-unfelt-emotion", "resistance", "judgment-vs-discernment", "binary-thinking-signals-fear", "three-signals-of-unfelt-emotion"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-10-26_Feel Over Figure"]
 ---
 
 # Feel Over Figure
@@ -74,3 +74,4 @@ Direct, plain. Not anti-intellect. Joe loves watching great minds at work. The d
 ## Sources
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

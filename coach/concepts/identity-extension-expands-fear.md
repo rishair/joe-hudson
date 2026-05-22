@@ -5,7 +5,7 @@ title: "The Bigger the Self, the More There Is to Fear"
 aliases: ["identity-extension expands fear", "the size of self determines the scope of fear", "fear scales with identity", "humans fear what animals don't because the self is bigger", "extended self extended fear", "more identity more fear"]
 tags: ["fear", "self", "identity", "annihilation", "non-dual", "freedom"]
 related: ["self-realization", "what-am-i", "expanding-sense-of-self", "fear-as-signal-of-care", "annihilation-reveals-what-is-real", "fear-is-about-feeling", "projections", "undoing-not-doing", "fear-vs-anxiety", "anxiety-three-definitions"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Anxiety: A Signpost To Unmet Needs", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # The Bigger the Self, the More There Is to Fear
@@ -132,3 +132,4 @@ This is why power struggles are so hard to resolve from within them. The partici
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-01-21_Anxiety: A Signpost to Unmet Needs - Emotion Series #6
 - 2022-10-26_Anxiety: A Signpost To Unmet Needs (rebroadcast)
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

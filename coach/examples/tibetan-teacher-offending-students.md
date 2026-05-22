@@ -5,7 +5,7 @@ title: "The Tibetan Teacher Who Offends the Student"
 aliases: ["Tibetan monks story", "the offending Buddhist teacher", "offending the monk", "the second stage of Tibetan teaching", "Tibetan teaching offense stage", "the teacher who offends", "Buddhist teacher offending students", "Crazy Wisdom three stages", "needle the student until not needleable", "the three-stage Tibetan teaching", "marriage as substitute for the Tibetan teaching", "the teacher who isn't triggered back"]
 tags: ["examples", "spiritual teaching", "ego", "conflict", "offense", "Tibetan", "Buddhism", "trigger", "marriage"]
 related: ["conflict-avoidance-prevents-healing", "shame-as-disconnection", "trust-requires-conflict", "im-afraid-of-offending-people", "trigger", "triggers-reveal-your-own-beliefs", "walking-on-eggshells"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-09-30_Triggered"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-09-30_Triggered", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # The Tibetan Teacher Who Offends the Student
@@ -91,3 +91,5 @@ Joe tells the story matter-of-factly, almost casually. The unusualness of the ex
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-09-30_Triggered
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

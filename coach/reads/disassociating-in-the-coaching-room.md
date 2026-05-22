@@ -4,7 +4,7 @@ id: disassociating-in-the-coaching-room
 title: "Disassociating in the Coaching Room"
 aliases: ["disassociating live", "the look away", "losing connection mid-session", "mild dissociation", "stopping looking at me", "leaving the room", "intellectualizing as dissociation", "going into the head as dissociation", "the head-trip dissociation", "leaving the body mid-session"]
 tags: ["relational read", "live coaching", "dissociation", "body", "presence", "intellectualizing"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Disassociating in the Coaching Room
@@ -84,3 +84,5 @@ Quiet, observational, slow. Joe does not match the dissociation with intensity. 
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

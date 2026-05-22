@@ -4,7 +4,7 @@ id: if-you-think-youre-deciding-youre-in-fear
 title: "If You Think You're Making a Decision, You're in Fear"
 aliases: ["if you think you're deciding you're in fear", "decisions are fear", "the decision-as-fear principle", "feeling like a decision means fear", "the felt decision is fear", "what feels like a decision is fear", "decisions feel like decisions only when scared", "feeling decisions vs not feeling them", "non-decisions are most decisions", "decisions you didn't notice", "you make a hundred decisions a minute and don't feel them"]
 tags: ["fear", "decisions", "intuition", "trust", "flow", "freedom"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # If You Think You're Making a Decision, You're in Fear
@@ -18,6 +18,12 @@ The choices that feel like decisions are the ones loaded with fear of outcome. O
 "If you think you're making a decision, you're in fear." -- Joe Hudson, How Do I Trust Myself?
 
 "You just made a hundred decisions in the last five minutes with me. What to say, how to look at me, eye moisturizing, all decisions, right? And they didn't feel like decisions. But then there's these big decisions that come up, or they feel big. And as soon as you think there's a decision, you're in fear." -- Joe Hudson, How Do I Trust Myself?
+
+The same principle, expressed earlier in the teaching context, places "I have to make a decision" alongside binary thinking and the false-end story as the third cognitive marker of fear in the head:
+
+"We all make 1,000 decisions a day, right? Easily 1,000 decisions a day. And we don't even think that we're making them. So when we think we have to make a decision, it means that we're scared of a consequence. We're scared that we're gonna do something wrong. And so the first thing to do in those moments is to address the fear, not try to figure it out, because the brain doesn't figure out fear. It can't." -- Joe Hudson, Fear: A Path to Authenticity
+
+The "felt decision is fear" formulation in the trust-coaching session and the "we make a thousand decisions a day without feeling them" formulation in the teaching are the same principle stated from two angles. The teaching version frames it as a diagnostic of the head signature of fear. The coaching version uses it to dissolve a presenting concern about self-trust. See [[fear-in-body-vs-fear-in-head]] for the full diagnostic this is the third marker of.
 
 ## Why This Is True
 
@@ -103,4 +109,7 @@ Direct, slightly provocative. Joe states this as fact, not opinion. The principl
 
 ## Sources
 
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

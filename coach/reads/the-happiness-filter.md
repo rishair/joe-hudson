@@ -4,7 +4,7 @@ id: the-happiness-filter
 title: "The Happiness Filter (The Social Smile That Doesn't Drop)"
 aliases: ["happiness filter", "the social smile", "smile that doesn't drop", "constant low-grade smile", "happiness mask", "the pleasant face", "the friendly mask", "smiling through it", "pleasantness as armor", "the smile filter", "she has her happiness filter on"]
 tags: ["mask", "performance", "smile", "social conditioning", "body read", "happiness"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # The Happiness Filter
@@ -66,3 +66,4 @@ Quiet, observational. Joe doesn't comment on the filter with any charge. He trea
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

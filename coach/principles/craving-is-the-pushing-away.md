@@ -4,7 +4,7 @@ id: craving-is-the-pushing-away
 title: "Craving Is the Pushing Away (Everything We Crave, We Push Away)"
 aliases: ["craving is the pushing away", "we push away what we crave", "everything we crave we push away", "the grasping is the rejection", "wanting and pushing away are the same", "the attachment is the avoidance", "craving as rejection", "craving is rejection in disguise", "the grasp pushes the thing away", "the wanting and the not-wanting are the same move"]
 tags: ["craving", "wanting", "attachment", "resistance", "Buddhism", "peace", "non-duality"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-09-02_How Relationships Reveal Us — Relationships Series #1"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-09-02_How Relationships Reveal Us — Relationships Series #1", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Craving Is the Pushing Away
@@ -111,3 +111,5 @@ Delivered with quiet certainty. The principle is not a paradox to puzzle over; i
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-09-02_How Relationships Reveal Us — Relationships Series #1
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

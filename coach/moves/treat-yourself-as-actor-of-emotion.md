@@ -5,7 +5,7 @@ title: "Treat Yourself as an Actor of the Emotion"
 aliases: ["actor metaphor for emotion", "you are the actor playing yourself", "non-personal emotion", "emotion is not personal", "actor playing the part", "watch the emotion like an actor"]
 tags: ["emotions", "expression", "depersonalization", "moves", "feeling"]
 related: ["kinked-emotions", "feeling-the-unfelt-emotion", "dont-do-emotion-at-people", "impartiality", "feel-over-figure", "observer-vs-immersion-by-anger-type", "three-things-that-go-wrong-when-releasing-anger", "fake-the-anger-to-let-it-move", "convert-thought-to-time-bounded-listening"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4", "2022-10-26_Feel Over Figure"]
 ---
 
 # Treat Yourself as an Actor of the Emotion
@@ -101,3 +101,4 @@ Light. The actor metaphor brings playfulness. Joe is not asking the person to de
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-10-29_The Wisdom of Anger- Part II - Emotion Series #4
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

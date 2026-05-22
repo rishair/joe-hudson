@@ -4,7 +4,7 @@ id: calibrate-the-threshold
 title: "Calibrate the Threshold"
 aliases: ["ask for the percentage", "what percentage", "how much fight", "numerical calibration", "threshold question", "make it specific", "what percentage of the time do you want to not offend"]
 tags: ["calibration", "specificity", "live coaching", "diagnostic"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Calibrate the Threshold
@@ -89,3 +89,5 @@ Light, almost mathematical. Joe sounds like someone helping the person notice th
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

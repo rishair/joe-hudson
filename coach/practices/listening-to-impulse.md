@@ -5,7 +5,7 @@ title: "Listening to Impulse"
 aliases: ["follow the impulse", "listening to the river", "impulse over outcome", "somatic impulse", "waiting for the impulse"]
 tags: ["impulse", "somatic", "flow", "enjoyment", "presence"]
 related: ["enjoy-over-manage", "impartiality", "process-over-result", "staying-in-your-body", "wonder", "the-want", "wants-over-shoulds", "impulse-to-should"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-03-15_Want over Should — Master Class Series #6"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2021-03-15_Want over Should — Master Class Series #6", "2022-10-26_Enjoy Over Manage"]
 ---
 
 # Listening to Impulse
@@ -33,6 +33,12 @@ Planning the future from fear rather than from openness. When the mind is having
 "We're literally having conversations in our head to control the future. Have you noticed that the conversations that you've had about how you want the future to go, they have never worked out specifically as you planned?" -- Joe Hudson, Enjoy over Manage
 
 When someone adds the extra step of predicting how their words will be received, they build all their projections into the conversation. The impulse is lost under layers of calculation.
+
+The diagnostic for when impulse-following has tipped into managing the conversation:
+
+"When I want your next sentence to be something, or I want my sentence to do something to you, to get to a particular place, then I'm in management." -- Joe Hudson, Enjoy Over Manage
+
+Determination and intention can coexist with impulse-following. Wanting resolution in the conversation is fine. Wanting the other person's next sentence to be a specific thing is not. The first is intention. The second is management. The body knows the difference.
 
 ## What It Produces
 
@@ -63,3 +69,4 @@ This is also why [[impulse-to-should]] is the failure mode of this practice. The
 
 - 2021-02-13_Enjoy over Manage -- Master Class Series #4
 - 2021-03-15_Want over Should -- Master Class Series #6
+- 2022-10-26_Enjoy Over Manage

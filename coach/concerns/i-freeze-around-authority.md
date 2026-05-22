@@ -4,7 +4,7 @@ id: i-freeze-around-authority
 title: "I freeze around authority figures"
 aliases: ["I freeze around my boss", "authority figures shut me down", "I can't be myself around my boss", "I freeze around men like my father", "I shut down with authority", "they remind me of my father", "I either want to fight or roll over"]
 tags: ["authority", "father", "mother", "workplace", "projection", "freeze", "fight-or-flight"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-08-13_Seeing Through Family Dynamics"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2021-08-13_Seeing Through Family Dynamics", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # I freeze around authority figures
@@ -84,3 +84,5 @@ When the freeze is showing up around a boss specifically, the structural reframe
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2021-08-13_Seeing Through Family Dynamics
+- 2022-10-26_Father Figures And Authority (Coaching Session)

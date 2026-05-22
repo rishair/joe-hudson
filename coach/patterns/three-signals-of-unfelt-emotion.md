@@ -5,7 +5,7 @@ title: "Three Signals of an Unfelt Emotion"
 aliases: ["three signals", "looping thought judgment indecision", "diagnostic signals of unfelt emotion", "how to know there's unfelt emotion", "the three diagnostics"]
 tags: ["diagnostics", "emotions", "reads", "patterns", "decision making"]
 related: ["unfelt-emotion-leaks", "feeling-the-unfelt-emotion", "binary-thinking-signals-fear", "judgment-vs-discernment", "feel-over-figure"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence", "2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings", "2022-10-26_Feel Over Figure"]
 ---
 
 # Three Signals of an Unfelt Emotion
@@ -91,3 +91,4 @@ The work is feeling the emotion, not solving the content. Once the emotion moves
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-12-03_Carla Piñeyro Sublett on Finding Compassion in Self-Indulgence
 - 2022-10-26_Carla Pineyro Sublett ｜ Making Space For Feelings (rebroadcast of the 2021-12-03 conversation)
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

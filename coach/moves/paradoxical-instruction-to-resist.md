@@ -4,7 +4,7 @@ id: paradoxical-instruction-to-resist
 title: "Now Resist Change (The Paradoxical Instruction to Do the Pattern Deliberately)"
 aliases: ["now resist change", "do the pattern deliberately", "the paradoxical instruction", "resist it on purpose", "do it consciously", "now actually do the thing you're already doing", "paradoxical resistance instruction", "make the pattern conscious by doing it", "resist change move", "perform the pattern to see it"]
 tags: ["live coaching", "paradoxical intervention", "pattern", "resistance", "awareness", "embodied"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Now Resist Change (The Paradoxical Instruction)
@@ -96,3 +96,4 @@ If the person hesitates or pushes back, Joe is firm but not pressuring. "Don't c
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

@@ -4,7 +4,7 @@ id: parts-work-made-things-worse
 title: "Parts work made me less able to act / I'm too aware of my parts now"
 aliases: ["parts work made things worse", "I'm too aware of my parts", "I have too many parts speaking", "I can hear all my parts and now I can't decide", "IFS made me paralyzed", "the parts won't shut up", "I'm aware of all my contradictory parts", "I've been doing parts work and now I can't make decisions", "my parts are all shouting", "I have less confidence after doing parts work", "self-awareness paralysis", "the inner committee won't agree", "knowing all my parts hasn't helped"]
 tags: ["parts work", "IFS", "self-awareness", "paralysis", "decision-making", "trust"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Parts work made me less able to act
@@ -63,3 +63,4 @@ Curious, not corrective. Joe doesn't say parts work is wrong. He treats it as on
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

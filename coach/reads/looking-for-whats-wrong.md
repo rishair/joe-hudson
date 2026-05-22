@@ -4,7 +4,7 @@ id: looking-for-whats-wrong
 title: "Looking for What's Wrong"
 aliases: ["manufacturing a problem to work on", "trying to find a stuck place", "I have to bring a problem", "I'm trying to figure out what's wrong", "the manufactured problem", "have to find something to work on", "looking for a stuck place", "you can't say everything is fine"]
 tags: ["reads", "self-improvement", "stuck", "manufactured problem", "framing", "session opening"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Looking for What's Wrong
@@ -71,3 +71,4 @@ Curious, light, almost amused. Joe sounds like he is pointing at something inter
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

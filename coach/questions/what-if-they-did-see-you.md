@@ -4,7 +4,7 @@ id: what-if-they-did-see-you
 title: "What if they did see you and you can't recognize it?"
 aliases: ["what if they actually see you", "what if you can't recognize being seen", "the inversion question", "what if the opposite is true"]
 tags: ["inversion", "projection", "seeing", "live coaching"]
-sources: ["2021-05-21_Father Figures and Authority (Coaching Session)"]
+sources: ["2021-05-21_Father Figures and Authority (Coaching Session)", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # What if they did see you and you can't recognize it?
@@ -65,3 +65,4 @@ The "I'm not saying that's true by any stretch" is critical. Without it, the que
 ## Sources
 
 - 2021-05-21_Father Figures and Authority (Coaching Session)
+- 2022-10-26_Father Figures And Authority (Coaching Session)

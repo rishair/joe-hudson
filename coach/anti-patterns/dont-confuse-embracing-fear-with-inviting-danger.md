@@ -5,7 +5,7 @@ title: "Don't Confuse Embracing Fear With Inviting Danger"
 aliases: ["embracing fear is not creating fear", "don't manufacture danger to practice fear", "embracing fear doesn't mean reckless action", "feeling fear isn't ignoring fear", "the embrace-fear misreading", "embracing fear vs being reckless"]
 tags: ["fear", "misreading", "danger", "anti-pattern", "discernment", "embrace"]
 related: ["annihilation-reveals-what-is-real", "fear-as-signal-of-care", "embracing-vs-creating-intensity", "embrace-intensity", "dont-step-on-the-signal", "fear-vs-excitement", "emile-three-relationships-with-fear"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Emile DeWeaver"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Emile DeWeaver", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # Don't Confuse Embracing Fear With Inviting Danger
@@ -90,3 +90,4 @@ See also [[embracing-vs-creating-intensity]] for the broader version of the prin
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-10-26_Emile DeWeaver (Émile's first-person caveat about running straight toward fear from inside stage three)
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

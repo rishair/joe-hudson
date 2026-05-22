@@ -4,7 +4,7 @@ id: whats-the-most-profound-positive-shift
 title: "What's the thing that, if it shifted in your life, would be the most profound positive movement?"
 aliases: ["what's the most profound positive shift", "the most profound positive movement question", "the topic-finder question", "what's the thing that would shift everything", "what would shift in your life", "the door-opener question", "what would make the biggest difference", "the orientation question for a session", "the what-do-you-want-to-work-on question", "what would be the most profound shift"]
 tags: ["opening", "topic-finding", "core question", "session opener", "orientation"]
-sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # What's the thing that, if it shifted in your life, would be the most profound positive movement?
@@ -76,3 +76,4 @@ The tone is not heavy. There's no portentousness. The question is asked the way 
 ## Sources
 
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

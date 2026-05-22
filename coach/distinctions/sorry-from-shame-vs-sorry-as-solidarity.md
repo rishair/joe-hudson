@@ -5,7 +5,7 @@ title: "Sorry From Shame vs. Sorry as Solidarity"
 aliases: ["two kinds of sorry", "shame sorry vs solidarity sorry", "I'm sorry I did something wrong vs I'm sorry you hurt yourself", "buying into the shame sorry", "the two sorries", "I'm sorry about it not because of it", "I'm sorry you're having a hard day", "solidarity apology", "the not-responsible apology", "sorry as presence not responsibility"]
 tags: ["distinction", "apology", "shame", "vulnerability", "language"]
 related: ["shame-as-disconnection", "vulnerability", "the-shame-avoidance-loop", "trigger-the-shame-live", "vulnerability-as-control", "upright-apology", "forms-of-dysfunctional-apology", "dont-use-you-in-an-apology"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-06-24_The Upright Apology- Accountability Without Shame", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Sorry From Shame vs. Sorry as Solidarity
@@ -96,3 +96,4 @@ Joe coaches this with warmth and precision. The point is not to eliminate apolog
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-06-24_The Upright Apology- Accountability Without Shame
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

@@ -5,7 +5,7 @@ title: "Subjugating Yourself to a Group Prevents Healing"
 aliases: ["group subjugation prevents healing", "subjugation creates trauma", "self-sacrifice for the group creates trauma", "subjugation to group", "walking on eggshells creates trauma", "sacrificing authenticity for cohesion", "sacrifice for group is trauma not healing"]
 tags: ["cult", "group dynamics", "relationships", "authenticity", "trauma", "healing"]
 related: ["surrender-to-ineffable-vs-person", "cult-of-one", "caring-vs-caretaking", "community-over-teacher", "love-requires-empowerment", "good-and-corruption-cycle", "boundary-with-vs-boundary-against"]
-sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics"]
+sources: ["2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Group Cohesion Vs Cult Dynamics"]
 ---
 
 # Subjugating Yourself to a Group Prevents Healing
@@ -112,3 +112,4 @@ The principle is not "never adapt to a group" or "always assert yourself in coll
 ## Sources
 
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
+- 2022-10-26_Group Cohesion Vs Cult Dynamics (rebroadcast of the 2021-08-27 conversation)

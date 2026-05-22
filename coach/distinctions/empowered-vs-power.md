@@ -5,7 +5,7 @@ title: "Empowered vs. Power"
 aliases: ["power vs empowered", "empowerment vs power", "real power vs control", "external power vs internal empowerment"]
 tags: ["empowerment", "power", "fear", "freedom", "authenticity"]
 related: ["vulnerability", "fear-triangle", "helplessness-is-the-gateway", "principles-free-you", "acting-as-if-already-true", "feared-consequences-rarely-happen", "joes-hr-call-firing", "power-dynamics-as-two-defenders"]
-sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Empower Over Power"]
+sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)"]
 ---
 
 # Empowered vs. Power
@@ -148,3 +148,5 @@ The people seen as beacons of love (Mandela, King) all share a deep sense of emp
 - 2021-03-26_Empower over Power -- Master Class Series #8
 - 2021-05-21_Father Figures and Authority (Coaching Session)
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
+- 2022-10-26_Empower Over Power
+- 2022-10-26_Father Figures And Authority (Coaching Session)

@@ -4,8 +4,8 @@ id: feeling-changes-story
 title: "When You Feel the Emotion Fully, the Story Changes (Every Time)"
 aliases: ["feeling emotion changes the story", "feel the emotion the story shifts", "moving emotion shifts the narrative", "release emotion the story changes", "every time you feel it the story shifts", "you can't change a story without feeling the emotion"]
 tags: ["emotions", "story", "transformation", "principle", "core mechanism"]
-related: ["emotions-and-stories-dance", "story", "stronger-story-stuckier-emotion", "feeling-the-unfelt-emotion", "visceral-clarity-from-anger", "joes-rental-house-anger", "feel-over-figure", "emotional-fluidity"]
-sources: ["2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact"]
+related: ["emotions-and-stories-dance", "story", "stronger-story-stuckier-emotion", "feeling-the-unfelt-emotion", "visceral-clarity-from-anger", "joes-rental-house-anger", "feel-over-figure", "emotional-fluidity", "can-you-look-forward-to-feeling-it", "trying-to-get-rid-of-the-emotion", "dont-name-emotion-to-avoid-feeling"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # When You Feel the Emotion Fully, the Story Changes (Every Time)
@@ -45,6 +45,40 @@ Joe rarely uses absolute language. "Every time" is one of the rare absolutes. Th
 If a story is locked in place by an emotion, and the emotion moves, the lock releases. There is no scenario where this would not be true except one: where the emotion did not actually move. In that case, the test would be the lack of change in the story.
 
 This makes the principle into a diagnostic. If the emotion moved and the story did not change, the emotion did not actually move. The release was performance, naming, or observation -- not actual movement. See [[dont-name-emotion-to-avoid-feeling]].
+
+## The Diagnostic Applied to Fear-Processing
+
+The principle has a specific operational form when used to check fear-work in progress. The question is whether the fear is being felt and moved, or whether the person is sitting in the fear's story and deepening it.
+
+Brett offers the diagnostic in plain terms:
+
+"One of the ways to tell if you're moving through the fear is that your stories will be dissolved by it. You might be in a new story, a larger story, a different story. But if there's a story and an emotion moves through it, it will change the story if you're moving it." -- Brett Kistler, Fear: A Path to Authenticity
+
+Joe confirms and adds the precision about what each outcome indicates:
+
+"That's right. Or soften it. The story will change. There will be relief and there eventually will be long-term relief if you're moving it. If you're not moving it, if you're indulging it, if you're defining yourself by that story, the story will remain the same. There won't be a sense of short-term and definitely no long-term relief. And you'll still feel that stuck relationship with the feeling, meaning you won't be like, 'I can't wait to feel fear again.' You're like, 'I'm going to feel this fear to get rid of it.' If you're feeling the fear to get rid of it, then it's not going to work." -- Joe Hudson, Fear: A Path to Authenticity
+
+Three diagnostic markers in this exchange:
+
+1. **Story state.** Has the story changed, softened, or expanded? If yes, the emotion is moving. If the story is unchanged after extended "feeling," the feeling is being performed, not moved.
+
+2. **Relief state.** Is there short-term relief after the work, and growing long-term relief over time? If neither, the work is functioning as repetition of the pattern, not release from it.
+
+3. **Relationship-to-the-feeling state.** Does the person find themselves wanting to feel the feeling again? Or are they only willing to feel it as a strategy to be rid of it? The willingness to feel it again is the signature of movement. The desire to be done with it is the signature of management dressed up as feeling. See [[can-you-look-forward-to-feeling-it]] and [[trying-to-get-rid-of-the-emotion]].
+
+The example Brett constructs to test this: someone alone, feeling alone, going off alone to shake -- and then reifying "nobody loves me" rather than moving the fear. The shaking happens. The fear does not move because the person is rehearsing the story while shaking. The story is what the body is metabolizing through, not letting through.
+
+Joe's response: that person is not feeling the fear. They are using the practice to confirm the story. The story is staying constant because the actual emotion is not being allowed. The diagnostic separates the form (shaking, crying, naming) from the substance (the emotion actually moving and changing the story it was holding in place).
+
+## The Coaching Use of the Three Markers
+
+The three markers are useful in a session in real time. After a piece of feeling work, a quick check:
+
+- "What story were you in coming into this? What story are you in now?" -- The story-state check.
+- "Is there any relief in the body right now?" -- The relief-state check.
+- "If this came up again tomorrow, would you welcome it or dread it?" -- The relationship-to-the-feeling check.
+
+If all three answers indicate movement, the work landed. If none of them do, the emotion was not allowed to move. The work to do next is not more of the same; it is to find what was blocking the actual feeling, which is often a story so identified-with that releasing it would feel like releasing the self. See [[stronger-story-stuckier-emotion]].
 
 ## The Two Outcomes
 
@@ -91,4 +125,6 @@ Joe says this with quiet certainty. Not as a sales pitch. He has watched it happ
 
 ## Sources
 
-- 2022-05-27_When the Story Falls Apart- How Beliefs and Emotions Interact
+- 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-05-27_When the Story Falls Apart -- How Beliefs and Emotions Interact
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

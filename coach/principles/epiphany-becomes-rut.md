@@ -5,7 +5,7 @@ title: "Every Epiphany Is the Innocent Beginning of a Rut"
 aliases: ["epiphany becomes rut", "every epiphany is a future rut", "today's solution is tomorrow's constraint", "the rut was once an epiphany", "iteration is permanent", "I made it then the slump", "the pinnacle is the trap", "the I'm finished trap", "every identity epiphany becomes the next identity rut"]
 tags: ["transformation", "epiphany", "iteration", "stages", "development", "pinnacle"]
 related: ["epiphany-vs-transformation", "integration", "development-as-corkscrew", "feel-over-figure", "stages-of-emotional-development", "connection-over-perfection", "improvement-mindset-vs-maintenance-mindset", "cricket-player-up-and-down", "identity", "every-identity-has-limits", "transparent-identity-vs-rigid"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-09-16_Seeing Identity for What It Is"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-09-16_Seeing Identity for What It Is", "2022-10-26_Feel Over Figure"]
 ---
 
 # Every Epiphany Is the Innocent Beginning of a Rut
@@ -107,3 +107,4 @@ Matter-of-fact, even celebratory. "We need a new iteration. That's it." Not anxi
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
 - 2022-09-16_Seeing Identity for What It Is
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

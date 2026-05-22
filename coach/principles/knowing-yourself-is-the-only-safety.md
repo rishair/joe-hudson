@@ -5,7 +5,7 @@ title: "Knowing Yourself Is the Only Safety"
 aliases: ["knowing yourself is the only safety", "self-knowledge is the only safety", "there is no external safety", "no money can make you safe", "no lover can make you safe", "no car can make you safe", "the only safety is internal", "internal safety only", "safety comes from knowing yourself", "the home you can go to is yourself", "safety is internal not external"]
 tags: ["safety", "self-knowledge", "principle", "overwhelm", "fear", "interior"]
 related: ["overwhelm", "trust-vs-safety", "safety-vs-defensiveness", "conditions-for-transformation", "feel-your-way-to-freedom", "self-realization", "ask-from-slowness-not-intellect"]
-sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10"]
+sources: ["2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-26_Heather Falenski On Overcoming The Seemingly Impossible"]
 ---
 
 # Knowing Yourself Is the Only Safety
@@ -61,6 +61,16 @@ The phrase "not relevant" is precise and worth dwelling on. It does not mean the
 A person who has found this internal home can have their company fail and still know who they are. Can lose a relationship and still know who they are. Can face death and still know who they are. The thing that gets threatened (the company, the relationship, the body) is not the thing that the person identifies as. The identification has shifted to something that cannot be threatened.
 
 This is the territory of [[annihilation-reveals-what-is-real]]: the part of you that cannot be annihilated is you. The events of life test the identification. What survives the test is what you are.
+
+## The Body That Will Not Get Better
+
+The principle gets its sharpest test when the external thing that cannot be fixed is the body itself. Someone who has built their sense of self around having a functioning, able body discovers chronic illness. They try everything to control it. The illness does not relent.
+
+A guest on the podcast described this exact shape of arrival: a decade of work in conflict zones, complex PTSD, a body that stopped functioning, months spent in bed. The internal pivot came not as a strategy but as a giving up of the external strategy. "I might never have proper functioning of my outer physical body again. And so I realized that even my having a sense of self that relied on having a functioning, able body was not necessarily something that was going to be beneficial for me or reliable for me." -- Heather Falenski, guest interviewed by Brett Kistler, On Overcoming The Seemingly Impossible
+
+The structure is the same one Joe names: every external that the self leans on is the next thing that can be lost. A body that the self leans on is no different from money the self leans on. The self that leans on what can fail will be in trouble when it fails. The home that does not depend on the body remains when the body does not.
+
+The implication for coaching: a person presenting around a chronic, irreducible external situation -- an illness, a financial squeeze that will not lift, a relationship that will not heal -- is not actually asking how to fix the external. They are asking where to stand when the external cannot be fixed. The work is to find the internal home that the unresolved external cannot threaten.
 
 ## Tone
 

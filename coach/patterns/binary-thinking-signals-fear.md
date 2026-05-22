@@ -5,7 +5,7 @@ title: "Binary Thinking Signals Fear"
 aliases: ["black or white thinking", "binary frame as fear", "either/or thinking", "binary thinking is fear", "black and white framing"]
 tags: ["fear", "decisions", "binary", "diagnostics", "patterns"]
 related: ["three-signals-of-unfelt-emotion", "fear-is-about-feeling", "unfelt-emotion-leaks", "feel-over-figure", "feeling-the-unfelt-emotion", "fear-as-signal-of-care"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Brett Kistler On Welcoming Fear"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-05-21_Father Figures and Authority (Coaching Session)", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_Feel Over Figure"]
 ---
 
 # Binary Thinking Signals Fear
@@ -109,3 +109,5 @@ The work in this case is to locate the somatic third stance, which Joe sometimes
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-02-04_The Power Dynamics of Fear - Emotion Series #7
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

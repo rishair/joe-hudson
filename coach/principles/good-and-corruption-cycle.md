@@ -5,7 +5,7 @@ title: "Anything of Significance Will Be Used to Oppress"
 aliases: ["good gets corrupted bad births good", "everything significant gets weaponized", "the inevitable corruption of good", "atrocity prevents atrocity", "the words of Christ get used to oppress", "love gets used to oppress", "you can't prevent the weaponization", "VIEW will become a new morality"]
 tags: ["scaling", "corruption", "history", "morality", "weaponization", "principle"]
 related: ["view-as-technique", "dont-evangelize-the-work", "spiritual-narcissism", "shame-drives-behavior", "epiphany-becomes-rut", "become-unnecessary", "cult-of-one", "community-over-teacher", "subjugation-prevents-healing", "keeping-cult-dynamics-conscious"]
-sources: ["2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics"]
+sources: ["2021-06-04_The Business Behind our Courses", "2021-08-27_Group Cohesion vs. Cult Dynamics", "2022-10-26_Group Cohesion Vs Cult Dynamics"]
 ---
 
 # Anything of Significance Will Be Used to Oppress
@@ -106,3 +106,4 @@ Sober, plain, slightly resigned, deeply alive. Joe says this with a sigh and a s
 
 - 2021-06-04_The Business Behind our Courses
 - 2021-08-27_Group Cohesion vs. Cult Dynamics
+- 2022-10-26_Group Cohesion Vs Cult Dynamics (rebroadcast of the 2021-08-27 conversation)

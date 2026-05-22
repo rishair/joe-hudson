@@ -5,7 +5,7 @@ title: "Sustained Fear Requires Post-Hoc Processing"
 aliases: ["sustained fear must be processed after", "the body can't process fear in real time during extended crisis", "compartmentalizing fear during crisis", "fear was meant for short bursts", "extended fear creates a backlog", "war and hospital fear", "ten days of fear takes months", "post-deployment fear processing", "13 years of combat fear", "the SEAL post-service backlog"]
 tags: ["fear", "trauma", "processing", "body", "compartmentalization", "nervous system"]
 related: ["let-your-body-shake-it-out", "feeling-the-unfelt-emotion", "nervous-system-recovery-after-stress", "disassociation-as-numbness-layer", "fear-as-signal-of-care", "fear-in-body-vs-fear-in-head", "will-chesney-seal-collapse-and-return", "empathy-makes-you-better-at-hard-jobs"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # Sustained Fear Requires Post-Hoc Processing
@@ -105,3 +105,4 @@ The post-hoc processing principle applies to these as well. When a chronic stres
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

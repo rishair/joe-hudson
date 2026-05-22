@@ -5,7 +5,7 @@ title: "Fear Is About What You'll Have to Feel"
 aliases: ["fear is about feeling", "fear of feeling", "the fear is in the emotion", "visualize the feared outcome", "feel the fear in advance"]
 tags: ["fear", "emotion", "impartiality", "Stoic", "visualization", "helplessness"]
 related: ["impartiality", "feeling-the-unfelt-emotion", "what-we-fear-we-invite", "vulnerability-protects", "letting-judgment-in", "helplessness-is-the-gateway", "feared-consequences-rarely-happen", "fear-as-signal-of-care", "fear-vs-anxiety", "disassociation-as-numbness-layer", "overwhelm", "visualizing-feared-outcomes"]
-sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-26_Brett Kistler On Welcoming Fear"]
+sources: ["2020-11-05_Impartiality — Connection Course Series #3", "2021-01-20_If You Can't Love the Feeling, Love the Resistance", "2021-03-26_Empower over Power — Master Class Series #8", "2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-14_What Can I Do About Overwhelm? — Emotion Series #10", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # Fear Is About What You'll Have to Feel
@@ -104,3 +104,4 @@ This connects to [[apply-view-to-fear]]. VIEW is the state of mind that allows t
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-10-14_What Can I Do About Overwhelm? -- Emotion Series #10
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

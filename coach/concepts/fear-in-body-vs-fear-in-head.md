@@ -5,7 +5,7 @@ title: "Fear in the Body vs. Fear in the Head"
 aliases: ["the somatic signature of fear", "how fear shows up in the body", "how fear shows up in the head", "the body signs of fear", "the cognitive signs of fear", "shaking screaming vs binary thinking", "two faces of fear", "body fear versus head fear"]
 tags: ["fear", "diagnostics", "somatic", "cognition", "binary thinking", "decisions"]
 related: ["binary-thinking-signals-fear", "fear-vs-anxiety", "fear-as-signal-of-care", "let-your-body-shake-it-out", "three-signals-of-unfelt-emotion", "feel-over-figure", "fear-is-about-feeling"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # Fear in the Body vs. Fear in the Head
@@ -109,3 +109,4 @@ The body signature overlaps with the somatic content of [[fear-vs-anxiety]]. Dif
 ## Sources
 
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

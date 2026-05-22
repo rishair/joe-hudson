@@ -5,7 +5,7 @@ title: "Let Your Body Shake It Out"
 aliases: ["let the body shake", "shake out the fear", "physical discharge of fear", "lie down and shake", "let the body move the emotion through", "shake it out", "somatic fear release"]
 tags: ["fear", "body", "somatic", "practice", "discharge", "trauma release"]
 related: ["feeling-the-unfelt-emotion", "fear-as-signal-of-care", "fear-vs-anxiety", "disassociation-as-numbness-layer", "daily-emotional-yoga", "emotions-live-in-muscles", "staying-in-your-body"]
-sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Brett Kistler On Welcoming Fear"]
+sources: ["2021-09-10_Brett Kistler — Welcoming Fear in Extreme Sports, Business and Relationships", "2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-10-26_Brett Kistler On Welcoming Fear", "2022-10-26_Fear: A Path To Authenticity"]
 ---
 
 # Let Your Body Shake It Out
@@ -137,3 +137,4 @@ A person doing daily emotional yoga still has moments that require the shake-it-
 - 2021-09-10_Brett Kistler -- Welcoming Fear in Extreme Sports, Business and Relationships
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-10-26_Brett Kistler On Welcoming Fear (rebroadcast of the 2021-09-10 conversation)
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)

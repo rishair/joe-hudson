@@ -5,7 +5,7 @@ title: "Don't Do Emotion At People"
 aliases: ["don't do anger at people", "don't do sadness at people", "emotion at someone is emotional abuse", "release first then talk", "don't aim emotion", "emotion as manipulation"]
 tags: ["emotions", "anger", "sadness", "boundary", "abuse", "expression"]
 related: ["unfelt-emotion-leaks", "kinked-emotions", "feeling-the-unfelt-emotion", "feel-over-figure", "vulnerability-as-control", "anger", "get-angry-in-the-car", "withdrawal-with-vs-without-a-timeline"]
-sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3"]
+sources: ["2021-03-05_Feel over Figure — Master Class Series #5", "2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3", "2022-10-26_Feel Over Figure"]
 ---
 
 # Don't Do Emotion At People
@@ -87,3 +87,4 @@ Firm and clear. This is one of the few places where Joe uses absolute language. 
 
 - 2021-03-05_Feel over Figure -- Master Class Series #5
 - 2021-10-22_The Wisdom of Anger- Part I - Emotion Series #3
+- 2022-10-26_Feel Over Figure (rebroadcast of the 2021-03-05 conversation)

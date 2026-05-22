@@ -5,7 +5,7 @@ title: "Shame as Disconnection"
 aliases: ["shame is disconnection", "shame as the felt sense of disconnection", "the auntie metaphor", "the farting kid metaphor", "shame as signal", "shame as reminder to reconnect", "shame as an amazing feature", "shame as a feature not a bug", "shame as nature's tribe-training", "shame as civic training", "shame trains the citizen", "shame is what tribes use to keep you inside"]
 tags: ["shame", "disconnection", "connection", "emotion", "signals", "vulnerability", "tribe", "evolution"]
 related: ["shame-drives-behavior", "past-shame-vs-current-shame", "vulnerability", "feeling-the-unfelt-emotion", "love-as-deep-welcoming", "the-shame-avoidance-loop", "conflict-avoidance-prevents-healing", "shame-stagnates-emotion", "natural-shame-vs-installed-shame", "addiction-to-shame", "electric-fence-with-dog"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-07-22_The Anatomy of Shame - Emotion Series #8", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Shame as Disconnection
@@ -127,3 +127,4 @@ Matter-of-fact, almost cheerful. Joe talks about shame the way someone might tal
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
 - 2022-07-22_The Anatomy of Shame - Emotion Series #8
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)

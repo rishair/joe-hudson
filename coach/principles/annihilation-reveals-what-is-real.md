@@ -5,7 +5,7 @@ title: "Offer Yourself Up to Annihilation"
 aliases: ["the part of you that can't be annihilated is you", "annihilation reveals the real", "fear as direct path to freedom", "what survives annihilation is you", "fear annihilates identity-extensions", "fear as the fastest path", "fear as path to authenticity", "hurt clarifies what's taking it personally", "hurt as clarifier", "let the hurt go all the way through", "hurt clarifies who you are"]
 tags: ["fear", "self", "annihilation", "freedom", "authenticity", "self-realization", "non-dual", "hurt"]
 related: ["identity-extension-expands-fear", "self-realization", "what-am-i", "undoing-not-doing", "fear-is-about-feeling", "vulnerability", "fear-as-signal-of-care", "improvement-vs-authenticity", "peace-is-what-we-resist-the-most"]
-sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)"]
+sources: ["2021-12-10_Fear- A Path to Authenticity - Emotion Series #5", "2022-07-08_How Do I Trust Myself? (Coaching Session)", "2022-10-26_Fear: A Path To Authenticity", "2022-10-26_How Do I Trust Myself？"]
 ---
 
 # Offer Yourself Up to Annihilation
@@ -153,3 +153,5 @@ See [[dont-confuse-embracing-fear-with-inviting-danger]] for the full anti-patte
 - 2021-12-10_Fear: A Path to Authenticity - Emotion Series #5
 - 2022-07-08_How Do I Trust Myself? (Coaching Session)
 - 2022-08-05_Aaron Taylor -- Feel Your Way to Freedom: Growing Up Fatherless, Becoming a Father
+- 2022-10-26_Fear: A Path To Authenticity (rebroadcast of the 2021-12-10 episode)
+- 2022-10-26_How Do I Trust Myself？ (rebroadcast of the 2022-07-08 session)

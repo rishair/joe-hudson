@@ -5,7 +5,7 @@ title: "Pleasure Capacity"
 aliases: ["capacity for pleasure", "pleasure ceiling", "nervous system ceiling for enjoyment", "too much pleasure", "enjoyment overwhelm"]
 tags: ["nervous system", "enjoyment", "safety", "childhood", "capacity"]
 related: ["enjoy-over-manage", "familiar-over-safe", "childhood-imprinting", "feeling-the-unfelt-emotion", "resistance", "fear-of-joy", "joy-as-matriarch", "cafe-emotional-stigma"]
-sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6"]
+sources: ["2021-02-13_Enjoy over Manage — Master Class Series #4", "2022-01-21_Anxiety- A Signpost to Unmet Needs - Emotion Series #6", "2022-10-26_Enjoy Over Manage"]
 ---
 
 # Pleasure Capacity
@@ -59,6 +59,16 @@ This is why the work cannot only be about expanding capacity through positive pr
 - Toward training: the practice of allowing slightly more enjoyment in each moment. "Just allow a little more enjoyment in at this moment." -- Joe Hudson, Enjoy over Manage
 - Toward [[feeling-the-unfelt-emotion]]: the fear underneath the pleasure ceiling is an unfelt emotion
 - Toward recognizing that enjoyment is not circumstance-dependent: "Your condition did not change at all. Nothing's changed and you just enjoyed yourself a little bit more." -- Joe Hudson, Enjoy over Manage
+
+## The Live Demonstration
+
+A specific micro-practice Joe uses on the podcast: he asks the listener to allow a little more enjoyment in *right now*. No change in circumstances. No new resource. Just permission for slightly more pleasure in the present moment. People can feel their body relax when they accept the invitation.
+
+The point of the demonstration: enjoyment is not a thing you have to achieve or earn. It is a permission you give. The capacity exists. The cap is internal. Lifting the cap by a fraction is available at all times.
+
+"Enjoyment doesn't cost anything. Enjoyment is just a perspective. It's just an allowing. It's a receiving. It's visceral. It requires us to be a little more present. That's it. It requires us maybe to be a little bit more in our body. It's not something that is ever inaccessible to us." -- Joe Hudson, Enjoy Over Manage
+
+This is also why "find better circumstances" is the wrong answer to "I can't enjoy my life." There are people in 3x3 cells, who haven't lain down in two years and two months and a day, who are training themselves to enjoy. The circumstance is not the variable. The capacity is the variable. The capacity can be trained anywhere.
 
 ## Sources
 

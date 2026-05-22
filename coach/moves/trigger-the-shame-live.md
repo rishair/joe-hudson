@@ -5,7 +5,7 @@ title: "Trigger the Shame Live (Role-Play the Offended Other)"
 aliases: ["role-play the offended", "play the angry person", "Joe plays the upset other", "be the asshole in the room", "trigger it live", "make them feel it not think about it", "the live trigger move", "Joe plays the offended party", "your microphone is wasting my time"]
 tags: ["live coaching", "role-play", "embodiment", "in the room", "moves", "shame", "felt sense"]
 related: ["become-the-authority-figure", "shame-as-disconnection", "im-afraid-of-offending-people", "the-shame-avoidance-loop", "not-sometimes-right-now", "feeling-the-unfelt-emotion"]
-sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)"]
+sources: ["2021-12-17_Healing Shame by Being Ourselves (Coaching Session)", "2022-10-26_Healing Shame By Being Ourselves"]
 ---
 
 # Trigger the Shame Live (Role-Play the Offended Other)
@@ -94,3 +94,4 @@ In character: sharp, dismissive, blunt, occasionally cold. Joe is willing to be 
 ## Sources
 
 - 2021-12-17_Healing Shame by Being Ourselves (Coaching Session)
+- 2022-10-26_Healing Shame By Being Ourselves (rebroadcast of the 2021-12-17 session)
