@@ -2,10 +2,10 @@
 type: principle
 id: nervous-system-recovery-after-stress
 title: "The Body Needs to Sit Down After Prolonged Stress"
-aliases: ["nervous system depression after stress", "the bathrobe period", "physical depression as recovery", "the body shuts down to recover", "depression after sustained pressure", "the post-stress collapse", "CEO bathrobe phenomenon", "adrenaline fatigue", "post-deployment collapse", "post-exit depression", "the lake house phase", "house of depressed CEOs", "tired from the 70s", "Billie Jean King tired from the 70s", "the acupuncture story about adrenals", "the Western doctor cycle", "coffee then energy drinks then antidepressants", "the adrenal exhaustion to antidepressant pipeline"]
-tags: ["body", "nervous system", "depression", "stress", "recovery", "principle", "adrenaline"]
-related: ["i-keep-crashing-and-burning", "enjoyment-as-path", "self-realization", "pleasure-capacity", "should-as-threat", "i-should-be-doing-this", "ceo-pajama-house-study", "will-chesney-seal-collapse-and-return", "sustained-fear-requires-post-hoc-processing", "depression-four-levels", "im-depressed"]
-sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL", "2023-06-23_Exploring Depression in the Head, Heart, and Gut"]
+aliases: ["nervous system depression after stress", "the bathrobe period", "physical depression as recovery", "the body shuts down to recover", "depression after sustained pressure", "the post-stress collapse", "CEO bathrobe phenomenon", "adrenaline fatigue", "post-deployment collapse", "post-exit depression", "the lake house phase", "house of depressed CEOs", "tired from the 70s", "Billie Jean King tired from the 70s", "the acupuncture story about adrenals", "the Western doctor cycle", "coffee then energy drinks then antidepressants", "the adrenal exhaustion to antidepressant pipeline", "3 to 4 months vs 2 to 5 years recovery", "the self-attack lock on recovery", "recovery time proportional to self-attack"]
+tags: ["body", "nervous system", "depression", "stress", "recovery", "principle", "adrenaline", "burnout"]
+related: ["i-keep-crashing-and-burning", "enjoyment-as-path", "self-realization", "pleasure-capacity", "should-as-threat", "i-should-be-doing-this", "ceo-pajama-house-study", "will-chesney-seal-collapse-and-return", "sustained-fear-requires-post-hoc-processing", "depression-four-levels", "im-depressed", "burnout-cycle", "im-burned-out", "rest-is-an-accomplishment", "post-rest-second-wind-trap"]
+sources: ["2021-07-02_Allowing Yourself to Change (Joe Coaches Brett)", "2022-05-13_Will Chesney — Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In", "2022-10-26_The Self-Discovery Of A Navy SEAL", "2023-06-23_Exploring Depression in the Head, Heart, and Gut", "2023-09-01_The Burnout Cycle"]
 ---
 
 # The Body Needs to Sit Down After Prolonged Stress
@@ -33,6 +33,12 @@ The duration of the recovery is roughly proportional to the duration of the stre
 "It'd be a bathrobe for 3 to 6 months if they weren't telling themselves they should be up and doing something all the time. But because they tell themselves they have to be up and doing something all the time, it takes, you know, 3 times as long to recover, 4 times as long to recover." -- Joe Hudson, Allowing Yourself to Change
 
 The shoulds during recovery do not produce the activity they are demanding. They extend the recovery period. See [[should-as-threat]] and [[shame-drives-behavior]].
+
+The proportionality of recovery to self-attack is dramatic. Joe's observation from coaching executives:
+
+"I have noticed when a CEO that I'm working with is done with a big project and they're not beating themselves up, their recovery time is like 3, 4 months. Um, similarly, if somebody is beating themselves up, it can be 2, 3, 4, 5 years. So that's a, that's a pretty tremendous difference just in how it keeps you stuck on the other side through self-abuse." -- Joe Hudson, The Burnout Cycle
+
+Same person, same external situation, same level of prior stress: an order of magnitude difference in recovery time depending on whether the person is attacking themselves during the recovery or letting it happen.
 
 ## The Adrenaline-to-Antidepressant Pipeline (The Acupuncture Story)
 
@@ -108,6 +114,9 @@ The intervention is not more effort. It is releasing the shoulds that are blocki
 - Toward [[enjoyment-as-path]]: the recovery completes faster when the person can enjoy the rest rather than fight it.
 - Toward dropping the shoulds that are extending the recovery. See [[wants-over-shoulds]].
 - Toward seeing the loop (depression → shoulds → more depression) and stepping out of it.
+- Toward [[rest-is-an-accomplishment]] when the person is achievement-oriented and needs the resting itself reframed as something to do well.
+- Toward [[post-rest-second-wind-trap]] when the person has begun to feel better and is about to end the rest at the false peak.
+- Toward [[burnout-cycle]] for the full three-layer frame of what produces the need for this recovery in the first place.
 
 ## What Joe Says To Do
 
@@ -125,3 +134,4 @@ Matter-of-fact. Almost biological. This is what bodies do. There is no moral con
 - 2022-05-13_Will Chesney -- Reintegrating as a Combat Veteran, Surviving a Traumatic Brain In
 - 2022-10-26_The Self-Discovery Of A Navy SEAL
 - 2023-06-23_Exploring Depression in the Head, Heart, and Gut
+- 2023-09-01_The Burnout Cycle

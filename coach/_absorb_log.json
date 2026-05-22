@@ -3854,15 +3854,116 @@
     },
     {
       "folder": "2023-08-18_Business as a Spiritual Practice",
-      "status": "in-progress",
+      "status": "complete",
       "claimed_at": "2026-05-22T10:36:25Z",
+      "articles_created": [
+        "business-as-spiritual-practice",
+        "walmart-environmental-profitability",
+        "ceo-big-house-market-cap-drop",
+        "practice-cannot-fool-itself-in-real-conditions",
+        "visualize-the-reality-of-leadership"
+      ],
+      "articles_updated": [
+        "parenting-as-real-world-test-of-inner-work",
+        "embrace-intensity",
+        "authenticity-in-business",
+        "consciousness-is-the-product",
+        "empowered-vs-power",
+        "gratitude-rounds-before-meetings",
+        "i-have-to-sacrifice-to-succeed",
+        "i-dont-have-time-for-this",
+        "material-problems-are-emotional-problems",
+        "art-of-accomplishment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:46:57Z"
+    },
+    {
+      "folder": "2023-09-01_The Burnout Cycle",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:37:27Z",
+      "articles_created": [
+        "im-burned-out",
+        "burnout-cycle",
+        "urgency-as-motivation",
+        "rest-is-an-accomplishment",
+        "how-could-you-do-this-and-gain-energy",
+        "energy-management-over-time-management",
+        "post-rest-second-wind-trap",
+        "three-stages-of-negotiation"
+      ],
+      "articles_updated": [
+        "nervous-system-recovery-after-stress",
+        "efficiency-as-enjoyment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:47:46Z"
+    },
+    {
+      "folder": "2023-09-08_The Burnout Cycle",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:48:19Z",
+      "articles_created": [
+        "adrenaline-discharge-via-fear-activity"
+      ],
+      "articles_updated": [
+        "burnout-cycle",
+        "im-burned-out",
+        "rest-is-an-accomplishment"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:53:54Z"
+    },
+    {
+      "folder": "2023-09-15_Humility",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:48:32Z",
+      "articles_created": [
+        "humility",
+        "humility-vs-disempowerment",
+        "the-arrogantly-humble-paradox",
+        "let-it-move-through-and-clean-the-channel"
+      ],
+      "articles_updated": [
+        "identity",
+        "humility-in-the-system",
+        "feel-love-and-empowerment-as-the-same",
+        "enjoyment-as-surrender"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T10:57:57Z"
+    },
+    {
+      "folder": "2023-09-29_Finding Community",
+      "status": "complete",
+      "claimed_at": "2026-05-22T10:54:44Z",
+      "articles_created": [
+        "community",
+        "island-experiment",
+        "community-grief-ceremony",
+        "finding-and-cultivating-community",
+        "i-dont-have-community",
+        "your-issue-is-the-communitys-issue"
+      ],
+      "articles_updated": [
+        "container-of-love",
+        "community-over-teacher",
+        "i-have-to-do-it-all-myself"
+      ],
+      "type": "teaching",
+      "absorbed_at": "2026-05-22T11:02:23Z"
+    },
+    {
+      "folder": "2023-10-04_Finding Community",
+      "status": "in-progress",
+      "claimed_at": "2026-05-22T10:59:19Z",
       "articles_created": [],
       "articles_updated": []
     },
     {
-      "folder": "2023-09-01_The Burnout Cycle",
+      "folder": "2023-10-13_Parenthood",
       "status": "in-progress",
-      "claimed_at": "2026-05-22T10:37:27Z",
+      "claimed_at": "2026-05-22T11:02:53Z",
       "articles_created": [],
       "articles_updated": []
     }

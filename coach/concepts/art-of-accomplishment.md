@@ -4,7 +4,7 @@ id: art-of-accomplishment
 title: "Art of Accomplishment"
 aliases: ["accomplishment as art", "the art of accomplishment", "AoA", "artistry of accomplishment", "how not what", "art of getting things done", "everyone wants to accomplish something", "accomplishment is universal", "what makes us human"]
 tags: ["accomplishment", "art", "consciousness", "ease", "self-awareness", "foundational"]
-related: ["consciousness-is-the-product", "efficiency-as-enjoyment", "undoing-not-doing", "inherent-goodness", "connection-over-perfection", "enjoy-over-manage", "intention-vs-goal", "seven-limiting-beliefs", "enjoyment-as-path", "connection-as-life-bottom-line", "three-effects-of-connection"]
+related: ["consciousness-is-the-product", "efficiency-as-enjoyment", "undoing-not-doing", "inherent-goodness", "connection-over-perfection", "enjoy-over-manage", "intention-vs-goal", "seven-limiting-beliefs", "enjoyment-as-path", "connection-as-life-bottom-line", "three-effects-of-connection", "business-as-spiritual-practice"]
 sources: ["2021-02-13_The Art of Accomplishment — Master Class Series #1", "2022-08-05_Aaron Taylor — Feel Your Way to Freedom", "2022-10-26_Aaron Taylor's Journey To Emotional Freedom", "2022-10-26_The Art of Accomplishment", "2023-06-08_The Connection Course Trailer"]
 ---
 

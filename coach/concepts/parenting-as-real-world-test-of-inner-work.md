@@ -4,8 +4,8 @@ id: parenting-as-real-world-test-of-inner-work
 title: "Parenting as the Real-World Test of Inner Work"
 aliases: ["parenting tests the work", "you can't fool yourself with an infant", "raising kids is the work", "kids as the greatest teachers", "meditation pillow vs the kid", "the meditation pillow test", "parenting makes the work practical", "infant breaks the bypass", "the practical test of inner work", "you can fool yourself on a cushion but not with a child"]
 tags: ["parenting", "spiritual bypass", "practice", "real world", "self-deception"]
-related: ["hand-in-hand-parenting", "family-as-team", "joy-as-matriarch", "container-of-love", "spiritual-narcissism", "running-toward-yourself", "feeling-the-unfelt-emotion"]
-sources: ["2022-12-26_Joe And His Daughter Discuss Fatherhood"]
+related: ["hand-in-hand-parenting", "family-as-team", "joy-as-matriarch", "container-of-love", "spiritual-narcissism", "running-toward-yourself", "feeling-the-unfelt-emotion", "practice-cannot-fool-itself-in-real-conditions", "business-as-spiritual-practice"]
+sources: ["2022-12-26_Joe And His Daughter Discuss Fatherhood", "2023-08-18_Business as a Spiritual Practice"]
 ---
 
 # Parenting as the Real-World Test of Inner Work
@@ -83,6 +83,14 @@ When a coachee describes their spiritual practice in glowing terms and then desc
 
 This does not mean every parent should be evaluated on their parenting outcomes. It means that for parents, the practice has to extend into the family, or the practice is incomplete. The same applies for any field of intimate close contact: romantic partnership, deep friendship, eldercare. The cushion is preparation. The relationships are where the work happens.
 
+## The Parallel With Business
+
+The same principle operates in business. The leader cannot fool themselves any more than the parent can. Every day produces a customer crisis, a team conflict, a market shift; the leader's actual capacity is revealed by the response. Joe makes this parallel explicit:
+
+"You can fool yourself into a somatic experience, you can fool yourself into a state of meditation, and then a little kid comes up and bothers you and you're like, 'Rawr! Get out of my way, kid.' And then business, it's like the rubber hits the road every day. Every day, things are going to go wrong. How are you going to let your ego dissolve in the face of things going wrong?" -- Joe Hudson, Business as a Spiritual Practice
+
+Parenting and business are the two cleanest examples of load-bearing containers. The general principle that unifies them is [[practice-cannot-fool-itself-in-real-conditions]]. For the business-specific application, see [[business-as-spiritual-practice]].
+
 ## When Someone Experiences This
 
 - A parent realizes their meditation practice does not show up at home.
@@ -114,3 +122,4 @@ Direct. Warm. The teaching is not delivered as judgment. It is delivered as a re
 ## Sources
 
 - 2022-12-26_Joe And His Daughter Discuss Fatherhood
+- 2023-08-18_Business as a Spiritual Practice (the business-side parallel — the rubber-hits-the-road formulation, the false-separation-fantasy collapse, business as a load-bearing container alongside parenting)

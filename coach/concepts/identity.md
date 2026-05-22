@@ -2,10 +2,10 @@
 type: concept
 id: identity
 title: "Identity"
-aliases: ["what identity is", "Joe's definition of identity", "how identity works", "the structure of self", "identity as ideas emotions and gut reactions", "identity is what we take personally", "the personal-taking measure of identity", "identity definition", "what is identity", "subconscious identity", "conscious vs unconscious identity", "identity as exoskeleton", "trying on identities", "snakeskin identity", "Burning Man as identity sandbox", "identity attaches to external concepts", "identity as scaffolding"]
+aliases: ["what identity is", "Joe's definition of identity", "how identity works", "the structure of self", "identity as ideas emotions and gut reactions", "identity is what we take personally", "the personal-taking measure of identity", "identity definition", "what is identity", "subconscious identity", "conscious vs unconscious identity", "identity as exoskeleton", "trying on identities", "snakeskin identity", "Burning Man as identity sandbox", "identity attaches to external concepts", "identity as scaffolding", "ego is any self-definition you take personally", "Joe's definition of ego", "the broader definition of ego", "I'm no good is ego too", "self-flagellation is also ego", "ego is not just arrogance"]
 tags: ["identity", "self", "ego", "core concept", "transformation", "development"]
-related: ["grief-as-identity-dismantling", "idea-of-self-vs-actual-self", "expanding-sense-of-self", "identity-extension-expands-fear", "every-identity-has-limits", "identity-changes-on-three-levels", "transparent-identity-vs-rigid", "dont-fight-identity", "view-around-self-as-identity-diagnostic", "improvement-vs-authenticity", "self-realization", "loving-all-parts"]
-sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is"]
+related: ["grief-as-identity-dismantling", "idea-of-self-vs-actual-self", "expanding-sense-of-self", "identity-extension-expands-fear", "every-identity-has-limits", "identity-changes-on-three-levels", "transparent-identity-vs-rigid", "dont-fight-identity", "view-around-self-as-identity-diagnostic", "improvement-vs-authenticity", "self-realization", "loving-all-parts", "humility", "the-arrogantly-humble-paradox"]
+sources: ["2022-09-16_Seeing Identity for What It Is", "2022-10-26_Seeing Identity For What It Is", "2023-09-15_Humility"]
 ---
 
 # Identity
@@ -21,6 +21,20 @@ A useful structural image: identity is like an exoskeleton, an inner or outer sc
 The key measure of whether something is part of identity is *how personally it is taken*. Someone who picks up a violin once and hears "you shouldn't play violin" shrugs. Someone who has played for years, for whom violin-playing is "their thing," reacts. The reaction is the signature of identity. The more personally a comment, situation, or feeling is taken, the more it is touching identity.
 
 "It's how personally you take it. That is, I think, the way -- the depth of, the how personal it is to you is the way in which to see how much of an identity it is." -- Joe Hudson, Seeing Identity for What It Is
+
+## Ego Is Any Self-Definition You Take Personally (Including the Negative Ones)
+
+The society-level definition of "ego" is arrogance: "I'm so great, you guys suck." Joe explicitly rejects this. Ego is structurally identical to identity-that-gets-defended. The verbal direction does not matter. Both "I'm the best" and "I'm no good" are ego in the structural sense.
+
+"For me, the definition of ego is really any self-definition that you take personally. So if you're like, 'I'm no good,' that's as much ego as 'I'm the best.' Both of them are very limiting. Both of them take you away from who you actually are. Both of them are identities that you will defend, whether subconsciously or consciously." -- Joe Hudson, Humility
+
+This matters in two directions.
+
+First direction: it dissolves the common defense "I don't have an ego, I think I'm terrible." That structure has the most rigid ego available. The shame-identity defends itself just as fiercely as the arrogance-identity. See [[the-shame-avoidance-loop]] and [[refuse-to-be-defined-by-the-worst-act]] for related dynamics.
+
+Second direction: it removes the goal of "killing the ego" as a viable framing. There is no "the ego" to kill -- there are only self-definitions being defended. The work is the relaxation of the defense, not the destruction of an entity. See [[dont-fight-identity]].
+
+The same framing connects directly to [[humility]]: humility is the structural absence of any self-definition that requires defense, including the negative ones. The person who introduces themselves with their flaws ("I'm such a procrastinator," "I'm a terrible communicator") is often as identified as the person who introduces themselves with their accomplishments. The verbal content is different. The structural defense is the same.
 
 ## Identity Is Often Subconscious
 
@@ -153,6 +167,8 @@ A person becomes aware of identity in several ways:
 - Toward [[identity-extension-expands-fear]]: how each piece of identity becomes a source of fear
 - Toward [[dont-fight-identity]]: the warning against trying to destroy identity directly
 - Toward [[trace-emotion-to-its-first-felt]]: the practice that surfaces the original installation of an emotional identity
+- Toward [[humility]]: the state available when the defending self relaxes; the structural opposite of identity
+- Toward [[the-arrogantly-humble-paradox]]: the specific case of how virtue-claims become identity
 
 ## Tone
 
@@ -162,3 +178,4 @@ Joe holds identity with curiosity and care. Not as a problem to be solved or an 
 
 - 2022-09-16_Seeing Identity for What It Is
 - 2022-10-26_Seeing Identity For What It Is (rebroadcast of the 2022-09-16 conversation)
+- 2023-09-15_Humility (Joe's explicit framing of ego as any self-definition you take personally, including "I'm no good"; humility as the structural absence of defending self)

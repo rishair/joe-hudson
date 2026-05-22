@@ -4,7 +4,7 @@ id: material-problems-are-emotional-problems
 title: "Material Problems Are Emotional Problems"
 aliases: ["material problems are emotional problems", "all problems are emotional", "every material problem is an emotional problem", "the company implosion thought experiment", "if you felt great about it there would be no problem", "what makes something a problem", "the surrogate-for-emotional frame", "external problems as emotional surrogates", "the divorce thought experiment", "the company falling apart thought experiment", "what's the problem if you'd feel great about it", "the material strategy is a surrogate", "you can't get the happiness you want from the external world", "every major religion says you can't get happiness from outside", "the surrogate-for-feeling frame", "the imploding company example"]
 tags: ["problems", "emotions", "reframe", "material vs emotional", "happiness", "surrogate", "golden algorithm"]
-related: ["what-we-fear-we-invite", "decisions-are-emotional", "money-as-surrogate", "feel-over-figure", "fear-is-about-feeling", "if-i-had-more-money", "blocker-emotions", "problem-vs-something-happening"]
+related: ["what-we-fear-we-invite", "decisions-are-emotional", "money-as-surrogate", "feel-over-figure", "fear-is-about-feeling", "if-i-had-more-money", "blocker-emotions", "problem-vs-something-happening", "business-as-spiritual-practice"]
 sources: ["2023-02-10_The Golden Algorithm — Decisions Series #3"]
 ---
 

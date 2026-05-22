@@ -4,7 +4,7 @@ id: authenticity-in-business
 title: "Authenticity in Business"
 aliases: ["authentic business", "authenticity in companies", "authenticity at work", "hooking into authentic drives", "natural drives in business", "company authenticity"]
 tags: ["business", "authenticity", "organizational design", "efficiency", "leadership", "application"]
-related: ["improvement-vs-authenticity", "vulnerability-in-the-workplace", "structure-and-empowerment", "efficiency-as-enjoyment", "consciousness-is-the-product", "buurtzorg-nursing", "nature-improves-itself"]
+related: ["improvement-vs-authenticity", "vulnerability-in-the-workplace", "structure-and-empowerment", "efficiency-as-enjoyment", "consciousness-is-the-product", "buurtzorg-nursing", "nature-improves-itself", "business-as-spiritual-practice"]
 sources: ["2021-03-19_Authenticity over Improvement — Master Class Series #7", "2022-10-26_Authenticity Over Improvement"]
 ---
 
@@ -108,6 +108,7 @@ The mechanism: the leader's relationship to their own authenticity becomes the r
 - Toward [[efficiency-as-enjoyment]]: the underlying mechanism.
 - Toward [[consciousness-is-the-product]]: the deeper principle that whatever state you make from becomes the product.
 - Toward [[improvement-vs-authenticity]]: the foundational distinction.
+- Toward [[business-as-spiritual-practice]]: the broader frame for using the business itself as the developmental container.
 
 ## Sources
 

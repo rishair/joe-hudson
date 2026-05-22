@@ -2,10 +2,10 @@
 type: practice
 id: feel-love-and-empowerment-as-the-same
 title: "Feel Love and Empowerment as the Same Thing"
-aliases: ["the love-empowerment visualization", "Superman on a mountaintop visualization", "kryptonite visualization", "the love and empowerment exercise", "feel unconditional love then full empowerment", "the same-ness visualization", "convergence of love and empowerment practice", "side by side love and empowerment"]
-tags: ["love", "empowerment", "visualization", "felt sense", "practice", "non-dual"]
-related: ["love-requires-empowerment", "upright-undefended-love", "empowered-vs-power", "love-as-deep-welcoming", "im-afraid-of-stagnating"]
-sources: ["2022-10-26_Authenticity Over Improvement"]
+aliases: ["the love-empowerment visualization", "Superman on a mountaintop visualization", "kryptonite visualization", "the love and empowerment exercise", "feel unconditional love then full empowerment", "the same-ness visualization", "convergence of love and empowerment practice", "side by side love and empowerment", "the live audience love-empowerment exercise", "humility visualization", "humility and empowerment exercise", "the on-podcast visualization"]
+tags: ["love", "empowerment", "visualization", "felt sense", "practice", "non-dual", "humility"]
+related: ["love-requires-empowerment", "upright-undefended-love", "empowered-vs-power", "love-as-deep-welcoming", "im-afraid-of-stagnating", "humility", "humility-vs-disempowerment"]
+sources: ["2022-10-26_Authenticity Over Improvement", "2023-09-15_Humility"]
 ---
 
 # Feel Love and Empowerment as the Same Thing
@@ -30,6 +30,8 @@ The discovery, when the practice lands: they feel like the same thing. The pinna
 - When the conversation has been about the fear of stagnation, the fear of meaninglessness, or the fear of losing motivation, and the question of what life is actually for becomes available.
 - When [[love-requires-empowerment]] needs to land as felt experience, not as another concept to agree with.
 - As a brief in-session demonstration that the territory the work is moving toward is reachable in the body, not only as theory.
+- When the conversation has been about [[humility]] and the person is confused about how empowerment and emptiness can coexist. The visualization produces the both-and in the body where the mind cannot hold it.
+- When a person is mid-podcast or in a group setting and a felt-sense demonstration would land better than another round of explanation. Joe uses it as a live audience practice for exactly this purpose.
 
 The practice is short, often under a minute, and slotted into a larger teaching arc. It is not a standalone meditation. It is a felt-sense data point.
 
@@ -47,6 +49,16 @@ Brett's own report after the exercise: "There wasn't any fear. The concern of st
 - If the person reports they feel different: ask which way. Often the difference reveals where their love is constrained or where their empowerment is. Both directions point at something specific to work on.
 - If the person could not access either: do not press. The visualization requires capacity that is not always present. It is a practice for a particular kind of moment, not a universal opener.
 - If the person tries to intellectualize the result: redirect to the body. "Where did you feel that in your body? What does the body remember from a moment ago?"
+
+## The Connection to Humility
+
+The same visualization is the operational answer to the question "how can I be humble and empowered at the same time?" The answer the mind cannot hold (empowerment requires the disappearance of the defending self; humility is the disappearance of the defending self; therefore full empowerment and full humility are structurally identical) becomes available in the body when the two phases land.
+
+"How could you feel humility without feeling empowered? Typically the disempowerment comes because there's a 'you' there that's going to get hurt. If there is no 'you' there, the experience is: you are everything. And that's a very deeply empowering thing. So that emptiness comes with a deep sense of empowerment." -- Joe Hudson, Humility
+
+This is the same teaching the visualization delivers somatically. When the two feelings collapse into one in the body, the person stops asking how empowerment and humility coexist. The body has answered the question.
+
+See [[humility]] and [[humility-vs-disempowerment]] for the conceptual framing the visualization makes felt.
 
 ## The Connection to the Fear-of-Stagnation Concern
 
@@ -83,3 +95,4 @@ The closing question ("how are they different, if at all?") is asked with genuin
 ## Sources
 
 - 2022-10-26_Authenticity Over Improvement
+- 2023-09-15_Humility (Joe leads the audience through the visualization live on the podcast, framing it as an answer to how empowerment and humility can be the same thing; closes with "What happens when you actually feel that unconditional love and that empowerment together? The sensation of empowerment and the sensation of unconditional love are not full without each other.")

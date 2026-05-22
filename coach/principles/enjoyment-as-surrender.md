@@ -2,10 +2,10 @@
 type: principle
 id: enjoyment-as-surrender
 title: "Enjoyment Gauges Surrender to the Call"
-aliases: ["enjoyment as gauge of surrender", "enjoyment as the call", "follow the call through enjoyment", "surrender to the gravity", "the baby surrenders to the cry", "enjoyment is how deeply I'm surrendering", "the deeper call", "internal gravity"]
-tags: ["enjoyment", "surrender", "calling", "alignment", "decision-making", "principle"]
-related: ["enjoyment-as-path", "listening-to-impulse", "integrity-as-money-compass", "efficiency-as-enjoyment", "intention-vs-goal", "wants-over-shoulds"]
-sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses"]
+aliases: ["enjoyment as gauge of surrender", "enjoyment as the call", "follow the call through enjoyment", "surrender to the gravity", "the baby surrenders to the cry", "enjoyment is how deeply I'm surrendering", "the deeper call", "internal gravity", "following the call", "following the call requires humility", "the call is bigger than you", "the call sands away ego", "you can't take up your space without following the call"]
+tags: ["enjoyment", "surrender", "calling", "alignment", "decision-making", "principle", "humility"]
+related: ["enjoyment-as-path", "listening-to-impulse", "integrity-as-money-compass", "efficiency-as-enjoyment", "intention-vs-goal", "wants-over-shoulds", "humility", "annihilation-reveals-what-is-real"]
+sources: ["2021-06-04_The Business Behind our Courses", "2022-10-26_The Business Behind Our Courses", "2023-09-15_Humility"]
 ---
 
 # Enjoyment Gauges Surrender to the Call
@@ -76,6 +76,22 @@ The diagnostic is the aftermath. The deeper enjoyment leaves the system more ope
 
 This is one of the places where this principle works in concert with [[wants-deepen-as-you-follow-them]]. The surface enjoyment is the first layer. Following it into the body, listening for what it actually wants, often reveals a deeper want underneath. The deeper want produces durable enjoyment when followed. The surface want produces a momentary spike.
 
+## Following the Call Requires Humility (and Sands Away Identity)
+
+A related framing from the humility teaching: following the call is one of the practical signatures of [[humility]]. The call regularly contradicts what the surface identity would choose. Following it means doing things that are uncomfortable specifically because they are in the way of who you think you are.
+
+Joe's example: a student applied for his first course. Three existing students called to say "do not accept this person." Both his kids met the person and said "do not work with him." His own system said "I do not want to work with this person." But the call said "this person is supposed to be in your course." Joe followed the call. The person was indeed supposed to be there.
+
+"There's this interesting thing that happens when humility sets in: you follow the call. Even if you don't want to do it. The reason you follow it is because every time I don't follow that thing, it fucking hurts. No matter what my ego wants to say about it, I'm going to do the thing that I'm called to do. You can't really hear that calling without a certain amount of humility." -- Joe Hudson, Humility
+
+The dynamic is bidirectional: humility makes the call audible (the defending self drowns it out), and following the call sands away whatever identity remains. Each act in the direction of the call that goes against the ego erodes the structure of self-definition.
+
+"Every one of those uncomfortable things that I do in my business sands away at my ego. They're uncomfortable specifically because they are in the way of my identity." -- Joe Hudson, Humility
+
+This is why "taking up your full space" and "following the call" are the same move. The space is occupied by following something larger than the personal preference. The personal preference would have kept the space smaller. See [[humility-vs-disempowerment]] for the related distinction.
+
+The follow-the-call move is not blind. The wisdom in the resistance is also listened to. Self-promotion can be dangerous to the unfolding. The call gets followed *and* the resistance gets respected for what it is teaching about how to do it. The humility is in both directions: following something larger than the identity, and respecting the wisdom inside the resistance.
+
 ## In Coaching
 
 When a coachee asks "what should I do with my life," the standard moves include:
@@ -102,6 +118,9 @@ The questions are not about figuring out the right answer. They are about restor
 - Toward [[integrity-as-money-compass]]: the same compass applied to money decisions
 - Toward [[efficiency-as-enjoyment]]: the structural reason this is not a luxury
 - Toward [[intention-vs-goal]]: holding direction without grip is what allows surrender
+- Toward [[humility]]: the structural state that makes the call audible and following it possible
+- Toward [[humility-vs-disempowerment]]: the distinction that prevents the call from being heard as "you should make yourself small"
+- Toward [[annihilation-reveals-what-is-real]]: what each act of following the call against the ego eventually does to the ego
 
 ## Tone
 
@@ -111,3 +130,4 @@ Joe describes this in soft, slow language. The principle is held with reverence,
 
 - 2021-06-04_The Business Behind our Courses
 - 2022-10-26_The Business Behind Our Courses (rebroadcast of the 2021-06-04 conversation)
+- 2023-09-15_Humility (the framing of following the call as a practical signature of humility; the first-course-student example; the principle that uncomfortable acts in the direction of the call sand away identity)

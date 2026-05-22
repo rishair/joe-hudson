@@ -4,7 +4,7 @@ id: empowered-vs-power
 title: "Empowered vs. Power"
 aliases: ["power vs empowered", "empowerment vs power", "real power vs control", "external power vs internal empowerment"]
 tags: ["empowerment", "power", "fear", "freedom", "authenticity"]
-related: ["vulnerability", "fear-triangle", "helplessness-is-the-gateway", "principles-free-you", "acting-as-if-already-true", "feared-consequences-rarely-happen", "joes-hr-call-firing", "power-dynamics-as-two-defenders"]
+related: ["vulnerability", "fear-triangle", "helplessness-is-the-gateway", "principles-free-you", "acting-as-if-already-true", "feared-consequences-rarely-happen", "joes-hr-call-firing", "power-dynamics-as-two-defenders", "visualize-the-reality-of-leadership", "business-as-spiritual-practice"]
 sources: ["2021-03-26_Empower over Power — Master Class Series #8", "2021-05-21_Father Figures and Authority (Coaching Session)", "2022-02-04_The Power Dynamics of Fear - Emotion Series #7", "2022-10-26_Empower Over Power", "2022-10-26_Father Figures And Authority (Coaching Session)", "2022-10-26_The Power Dynamics Of Fear"]
 ---
 
@@ -142,6 +142,7 @@ The people seen as beacons of love (Mandela, King) all share a deep sense of emp
 - Toward [[acting-as-if-already-true]]: empowered people live as if their vision is already real
 - Toward [[principles-free-you]]: a set of principles is the structure that supports sustained empowerment
 - Toward [[vulnerability]]: empowerment is enacted through speaking and acting from truth despite fear
+- Toward [[visualize-the-reality-of-leadership]]: the specific move for converting a leader's power-stance into empowerment by letting them feel the actual social field around them.
 
 ## Sources
 

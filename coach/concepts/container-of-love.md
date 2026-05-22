@@ -93,6 +93,7 @@ Joe specifically warns against unskilled practitioners who know exercises that c
 - Supports the dissolution of [[trauma-mapping]]
 - In group settings, creates the conditions where shame dissolves through being witnessed
 - During [[integration]], community provides the container that a teacher alone cannot. See [[community-over-teacher]].
+- When the container is a community rather than a single relationship, the structural form is [[community]]; the ongoing practice form is [[finding-and-cultivating-community]]. A functional community is one of the most reliable, sustained containers of love available to ordinary life.
 
 ## Sources
 

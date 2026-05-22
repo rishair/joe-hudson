@@ -91,6 +91,7 @@ This connects directly to [[become-unnecessary]]. The teacher's tools, when held
 - Toward [[dont-evangelize-the-work]]: sharing the work through presence and community, not through missionary conversion
 - Toward [[become-unnecessary]]: the structural design principle that makes community-over-teacher operational
 - Toward [[good-and-corruption-cycle]]: the related principle about how significant teachings get corrupted at scale
+- Toward [[community]] for the functional definition of what the community-of-practice actually is when it is working, and [[finding-and-cultivating-community]] for the question of how to find or grow one
 
 ## Sources
 

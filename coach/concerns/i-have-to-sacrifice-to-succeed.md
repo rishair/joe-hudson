@@ -54,7 +54,7 @@ The branching point. The same statement can come from different places.
 
 The typical flow:
 
-1. Question the dichotomy. There is no necessary opposition between well-being and success. See [[art-of-accomplishment]] and [[consciousness-is-the-product]].
+1. Question the dichotomy. There is no necessary opposition between well-being and success. See [[art-of-accomplishment]], [[consciousness-is-the-product]], and [[business-as-spiritual-practice]] for the broader reframe that personal development and the business are the same project, not competing ones.
 
 2. Question the evidence. The examples held up as proof of "you have to sacrifice" usually disprove themselves on examination.
 

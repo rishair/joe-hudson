@@ -57,7 +57,7 @@ The concern also reveals a [[victim-stance-invites-abuse]] pattern. To say "I ca
 
 4. Surface the victim stance if present. The "I can't because of my situation" position is itself the obstacle, not the situation. See [[victim-stance-invites-abuse]].
 
-5. Reframe: the art of accomplishment is not an addition to the work. It is a change in the relationship to the work that is already happening. There is no extra time required.
+5. Reframe: the art of accomplishment is not an addition to the work. It is a change in the relationship to the work that is already happening. There is no extra time required. See also [[business-as-spiritual-practice]] for the more advanced version of the same reframe — running the business itself as the practice, where there is no time being taken from the business because the business is the practice.
 
 ## Related Concerns
 

@@ -110,6 +110,7 @@ He does not skip to vulnerability as a tactic. The work is the substrate emotion
 - [[i-have-to-sacrifice-to-succeed]]: the work-domain expression of the same self-abandonment pattern.
 - [[i-need-to-improve-myself]]: when the self-reliance gets turned on the inner work itself.
 - [[my-inner-critic-wont-stop]]: often the inner voice of the very pattern this concern describes.
+- [[i-dont-have-community]]: the loneliness that this pattern produces, often presented as a separate concern. The hyper-independence is structurally upstream of the absence of community; the loneliness is the downstream cost, not the root.
 
 ## Sources
 
